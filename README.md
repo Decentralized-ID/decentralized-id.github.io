@@ -83,7 +83,7 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [Blockchains and Data Protection in the European Union](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3080322)
 * [IBM — How blockchain could address five areas associated with GDPR compliance](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=61014461USEN)
 * [GDPR - A reflection on the 'self-sovereign identity' and the Blockchain](https://www.linkedin.com/pulse/gdpr-reflection-self-sovereign-identity-blockchain-nicolas-ameye/)
-
+* [Privacy Impact Assesment (PIA)](https://en.wikipedia.org/wiki/Privacy_Impact_Assessment) — a process which assists organizations in identifying and minimizing the privacy risks of new projects or policies.
 
 ### Evernym
 * [Evernym](https://www.evernym.com/)
@@ -93,13 +93,6 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [Is Self-Sovereign Identity the ultimate GDPR compliance tool? (3 of 3)](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)
 * [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)
 
-
-
-#### IDEMix — Zero Knowledge Proof's in Evernym—Indy
-* [IBM Identity Mixer](https://www.zurich.ibm.com/identity_mixer/)
-* [Specification of the Identity Mixer Cryptographic Library](https://domino.research.ibm.com/library/cyberdig.nsf/papers/EEB54FF3B91C1D648525759B004FBBB1/$File/rz3730_revised.pdf)
-* [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
-* [zkp.science](https://zkp.science) 
 
 ### Sovrin
 * [Sovrin](https://sovrin.org/) — [Forun](https://forum.sovrin.org/) — [Slack](https://sovrin-slack-signup.herokuapp.com/)
@@ -126,6 +119,19 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [Hyperledger Indy - Distributed ledger and utility library](https://www.hyperledger.org/projects/hyperledger-indy)
 * [SecureKey Technologies to explore interoperability between Verified.Me and Hyperledger Indy](https://securekey.com/press-releases/hyperledger-indy/)
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy)
+* [Plenum Byzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki) based on [RBFT](http://lig-membres.imag.fr/aublin/rbft/report.pdf)
+   — "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem."
+* [An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials](https://eprint.iacr.org/2008/539.pdf)
+* [An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation](https://www.iacr.org/archive/eurocrypt2001/20450093.pdf)
+
+#### IDEMix — Zero Knowledge Proof's in Evernym—Indy
+* [IBM Identity Mixer](https://www.zurich.ibm.com/identity_mixer/) — [blog](https://idemix.wordpress.com/)
+* [Specification of the Identity Mixer Cryptographic Library](https://domino.research.ibm.com/library/cyberdig.nsf/papers/EEB54FF3B91C1D648525759B004FBBB1/$File/rz3730_revised.pdf)
+* [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
+* [AnonCreds: Anonymous credentials protocol implementation in python](https://github.com/hyperledger/indy-anoncreds)
+* [Anoncred — Usecase](https://github.com/hyperledger/indy-anoncreds/blob/master/docs/anoncred-usecase1.pdf)
+"This is a python implementation of the anonymous credentials ideas developed by IBM Research (see  and  We have built some additional features for revocation."
+* [zkp.science](https://zkp.science) 
 
 ### IBM
 
@@ -263,6 +269,9 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
 * [Blockchain: Evolving Decentralized Identity Design](https://www.gartner.com/doc/3834863/blockchain-evolving-decentralized-identity-design)
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
 * [IDENTITY MATTERS](https://cboxxtest.files.wordpress.com/2017/09/cboxxidentitymatters04.pdf)
+* [Accenture: ID2020: DIGITAL IDENTITY with Blockchain and Biometrics](https://www.accenture.com/us-en/insight-blockchain-id2020)
+* [Privacy-Preserving Authentication, Another Reason to Care about Zero-Knowledge Proofs —slideshare](https://www.slideshare.net/eralcnoslen/privacypreserving-authentication-another-reason-to-care-about-zeroknowledge-proofs)
+
 
 ### Research-Papers
 * [A First Look at Identity Management Schemes on the Blockchain](https://arxiv.org/pdf/1801.03294.pdf)
@@ -286,15 +295,6 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
 ## BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
 ---
-
-
-
-
-
-
-
-
-
 
 
 
