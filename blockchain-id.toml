@@ -1,12 +1,12 @@
 ["Tykn: Extended Overview"]
 Link = ["https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#"]
 Description = "So far, we have identified three (3) key issues that we are seeking to resolve:\n\n1. Paper-based identification leading to costly paper trails, fraud and low interoperability of vital records, not to mention the 230 million invisible children around the globe, and the lack of both social and financial inclusion amongst vulnerable populations.\n2.Lack of resilience in identifying documents due to heavy centralisation leading to weakened communities when struck by man-made or natural disasters.\n3.Insufficient knowledge of Blockchain/Distributed Ledger Technologies within the government, municipalities and (non-)governmental organisations."
-Tags = ["tykn","sovrin","self-sovereign","blockchain-id","did","indy","permissioned","documentation"]
+Tags = ["tykn","sovrin","self-sovereign","blockchain-id","did","indy","permissioned","documentation","humanitarian"]
 
 ["The Future of Resilient Identity"]
 Link = ["https://tykn.tech/"]
 Description = "At Tykn, we help NGOs and governments help people better with Ana, our white-label identity management system for humanitarian aid, which comprises higher-order applications for aid distribution, greater project level metrics and the identification of beneficiaries."
-Tags = ["app","tykn","did","blockchain-id","self-sovereign","indy","permissioned","protocol","business"]
+Tags = ["app","tykn","did","blockchain-id","self-sovereign","indy","permissioned","protocol","business","humanitarian"]
 
 ["How do we start tackling the existing identity problem?"]
 Link = ["https://www.ibm.com/blogs/blockchain/2018/06/how-do-we-start-tackling-the-existing-identity-problem/"]
@@ -46,7 +46,7 @@ Tags = ["gdpr","regulations","research-paper","eu","self-sovereign","max-planck"
 ["Deployment of a Blockchain-Based Self-Sovereign Identity - Delft"]
 Link = ["https://arxiv.org/pdf/1806.01926.pdf","http://msn.iecs.fcu.edu.tw/report/download.php?id=287"]
 Description = "Abstract—Digital identity is unsolved: after many years of research there is still no trusted communication over the Internet. To provide identity within the context of mutual distrust, this paper presents a blockchain-based digital identity solution. Without depending upon a single trusted third party, the proposed solution achieves passport-level legally valid identity. This solution for making identities Self-Sovereign, builds on a generic provable claim model for which attestations of truth from third parties need to be collected. The claim model is then shown to be both blockchain structure and proof method agnostic. Four different implementations in support of these two claim model properties are shown to offer sub-second performance for claim creation and claim verification. Through the properties of Self-Sovereign Identity, legally valid status and acceptable performance, our solution is considered to be fit for adoption by the general public."
-Tags = ["self-soveriegn","decentralized-id","tu-delft","netherlands","research-paper","blockchain-id"]
+Tags = ["self-soveriegn","decentralized-id","tu-delft","netherlands","research-paper","blockchain-id","trustchain"]
 
 ["A First Look at Identity Management Schemes on the Blockchain"]
 Link = ["https://arxiv.org/pdf/1801.03294.pdf"]
@@ -121,7 +121,7 @@ Tags = ["organizations","w3c","did","sovrin","rwot","self-sovereign","decentrali
 ["Introduction to DID Auth for SSI – Markus Sabadello – Webinar 10"]
 Link = ["http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/","https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/draft-documents/did_auth_draft.md"]
 Description = "Markus Sabadello, CEO of Danube Tech, will talk about DID Auth, an emerging building block in the SSI ecosystem. Although the technical details of DID Auth are not well-defined at this point, its general concept is clear: With self-sovereign identity infrastructure, the most trivial and straightforward functionality for identity owners should be the ability to authenticate, i.e. to prove control of a DID in some relationship or during a transaction. This could take place using a number of different data formats, protocols, and flows. DID Auth includes the ability to authenticate to web sites and applications, and to establish mutually authenticated communication channels. In this webinar, we will discuss the current state of the DID Auth concept, and how it relates to other efforts such as Verifiable Credentials and agent protocols. We also recommend reading the white paper \"Introduction to DID Auth\" by Markus Sabadello, Kyle Den Hartog, Christian Lundkvist, Cedric Franz, Alberto Elias, Andrew Hughes, John Jordan, Dmitri Zagidulin."
-Tags = ["w3c","did","decentralized-id","self-sovereign","presentation","video","authentication"]
+Tags = ["w3c","did","decentralized-id","self-sovereign","peacekeeper","presentation","video","authentication"]
 
 ["A Primer on Functional Identity"]
 Link = ["https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md"]
@@ -299,12 +299,12 @@ Description = "In a world where the rise in the use of the Internet is increasin
 Tags = ["bbva","decentralized-id","blockchain-id","enterprise","blog"]
 
 ["Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It"]
-Link = ["https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b","https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437","https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769"]
+Link = ["https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b"]
 Description = "In the developed world, the battle for privacy is arguably one of the most important ones to overcome within our lifetime. Our personal and (ought-to-be) private information is being collected en masse by companies large and small, sold for a handsome profit, and subsequently used to feed the \"big data machine\", where all these data points are correlated and further used to generate leads for third parties."
 Tags = ["tykn","decentralized-id","blockchain-id","gdpr","regulations","self-sovereign","blog"]
 
 ["Is Self Sovereign Identity the Ultimate GDPR Compliance Tool? 1/3"]
-Link = ["https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89"]
+Link = ["https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89","https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437","https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769"]
 Description = "Few topics are as popular right now as the European Union’s new data protection law, the General Data Protection Regulation (the \"GDPR\" or \"Regulation\"), perhaps with the exceptions of self-sovereign identity (\"SSI\") and blockchain. Likewise, few topics are as misunderstood or oversimplified. In an attempt to dispel some of the mythology and encourage a more nuanced approach to the conversation, this is the first in a series of posts to assess SSI through the lens of the GDPR."
 Tags = ["evernym","decentralized-id","blockchain-id","gdpr","regulations","self-sovereign","blog"]
 
