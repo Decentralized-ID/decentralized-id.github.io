@@ -75,8 +75,8 @@ Tags = ["evernym","sovrin","resources","self-sovereign","indy","decentralized-id
 
 ["w3c- Decentralized Identifiers (DIDs) v0.11"]
 Link = ["https://w3c-ccg.github.io/did-spec/"]
-Description = "Decentralized Identifiers (DIDs) are a new type of identifier for verifiable, \"self-sovereign\" digital identity. DIDs are fully under the control of the DID subject, independent from any centralized registry, identity provider, or certificate authority. DIDs are URLs that relate a DID subject to means for trustable interactions with that subject. DIDs resolve to DID Documents — simple documents that describe how to use that specific DID. Each DID Document contains at least three things: cryptographic material, authentication suites, and service endpoints. Cryptographic material combined with authentication suites provide a set of mechanisms to authenticate as the DID subject (e.g., public keys, pseudonymous biometric protocols, etc.). Service endpoints enable trusted interactions with the DID subject.\n\nThis document specifies a common data model, format, and operations that all DIDs support."
-Tags = ["w3c","did","decentralized-id","self-sovereign","blockchain-id","documentation","rwot","specs"]
+Description = "Decentralized Identifiers are a new type of identifier intended for digital identity that is \"self-sovereign\", i.e, fully under the control of the identity owner. DIDs resolve to DDOs (DID descriptor objects) and can be registered in different blockchains (using different \"methods\")."
+Tags = ["w3c","did","decentralized-id","self-sovereign","blockchain-id","documentation","rwot","specs","peacekeeper"]
 
 ["zkp.science"]
 Link = ["https://zkp.science"]
@@ -602,11 +602,6 @@ Tags = ["jlinc","blockchain-id","idkeys","stellar","peacekeeper"]
 Link = ["http://guptaoption.com/cheapid/"]
 Description = "a digital identity standard designed for use in conflicted environment like those many refugees or disaster victims may find themselves in."
 Tags = ["digital-id","cheapid","peacekeeper","app"]
-
-["DID Specs"]
-Link = ["https://docs.google.com/document/d/1Z-9jX4PEWtyRFD5fEyyzEnWK_0ir0no1JJLuRu8O9Gs/"]
-Description = "Decentralized Identifiers are a new type of identifier intended for digital identity that is \"self-sovereign\", i.e, fully under the control of the identity owner. DIDs resolve to DDOs (DID descriptor objects) and can be registered in different blockchains (using different \"methods\")."
-Tags = ["w3c","did","documentation","self-sovereign","decentralized-id","peacekeeper"]
 
 ["Jolocom"]
 Link = ["http://jolocom.com/","https://github.com/solid/solid-spec","http://agile-iot.eu/"]
@@ -1157,4 +1152,9 @@ Tags = ["w3c","specs","json","did","rwot","decentralized-id"]
 Link = ["https://json-ld.github.io/normalization/spec/"]
 Description = "RDF [RDF-CONCEPTS] describes a graph-based data model for making claims about the world and provides the foundation for reasoning upon that graph of information. At times, it becomes necessary to compare the differences between sets of graphs, digitally sign them, or generate short identifiers for graphs via hashing algorithms. This document outlines an algorithm for normalizing RDF datasets such that these operations can be performed."
 Tags = ["w3c","specs","rdf","did","rwot","decentralized-id"]
+
+["DID Specs"]
+Link = ["https://docs.google.com/document/d/1Z-9jX4PEWtyRFD5fEyyzEnWK_0ir0no1JJLuRu8O9Gs/"]
+Description = "Decentralized Identifiers are a new type of identifier intended for digital identity that is \"self-sovereign\", i.e, fully under the control of the identity owner. DIDs resolve to DDOs (DID descriptor objects) and can be registered in different blockchains (using different \"methods\")."
+Tags = ["w3c","did","documentation","self-sovereign","decentralized-id","peacekeeper"]
 
