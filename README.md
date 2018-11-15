@@ -1,5 +1,8 @@
 # awesome-decentralized-id
-Awesome Self-Sovereign Identity, Decentralized-ID, and Blockchain-ID related resources.
+**Awesome Self-Sovereign Identity, Decentralized-ID, and Blockchain-ID related resources.**
+
+# Draft
+Collaboration Welcome.
 
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants,'—[Jerry Cuomo - IBM](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
 
