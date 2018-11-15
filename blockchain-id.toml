@@ -374,9 +374,9 @@ Description = "2017 was a landmark year for the entire Ethereum ecosystem. The s
 Tags = ["decentralized-id","uport","eth-app","self-sovereign","blog"]
 
 ["Sovrin"]
-Link = ["https://sovrin.org/"]
+Link = ["https://sovrin.org/","https://forum.sovrin.org/","https://sovrin-slack-signup.herokuapp.com/"]
 Description = "Identity For All —Permanent Digital Identities that Don’t Require a Central Authority"
-Tags = ["sovrin","decentralized-id","self-sovereign","indy","organizations"]
+Tags = ["sovrin","decentralized-id","self-sovereign","indy","organizations","forum","chat"]
 
 ["Internet Identity Workshop"]
 Link = ["http://www.internetidentityworkshop.com/","http://iiw.idcommons.net/Main_Page"]
