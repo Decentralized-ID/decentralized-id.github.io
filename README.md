@@ -1,15 +1,6 @@
 # awesome-decentralized-id
 Awesome Self-Sovereign Identity, Decentralized-ID, and Blockchain-ID related resources.
 
-### IIW
-
-### RWoT
-[WebOfTrust.info](http://www.WebOfTrust.info) — [on github](https://github.com/WebOfTrustInfo/)
-
-Description = "The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.\n\nBut some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it."
-
-[A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md)
-
 ### Self-Sovereign
 
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
@@ -18,6 +9,15 @@ Description = "The Web of Trust is a buzzword for a new model of decentralized s
 * [Self-Sovereign Identity = (individual control across any number of authorities)](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
 * [The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
 
+
+### IIW
+
+### RWoT
+[WebOfTrust.info](http://www.WebOfTrust.info) — [on github](https://github.com/WebOfTrustInfo/)
+
+Description = "The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.\n\nBut some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it."
+
+[A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md)
 
 ### UN — ID2020 — DIF
 
@@ -28,6 +28,19 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 
 * [ID2020 Alliance](https://id2020.org/)
 
+#### w3c
+
+* [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
+* [Verifiable Claims Working Group Charter](https://www.w3.org/2017/vc/charter.html)
+
+##### DID
+
+* [DID auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
+* [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md)
+* [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
+* [Introduction to DID Auth for SSI – Markus Sabadello – Webinar 10](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)
+* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c)
+
 
 ### GDPR
 
@@ -35,24 +48,21 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [IBM — How blockchain could address five areas associated with GDPR compliance](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=61014461USEN)
 
 
-### w3c
-
-* [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
-* [Verifiable Claims Working Group Charter](https://www.w3.org/2017/vc/charter.html)
-
-#### DID
-
-* [DID auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
-* [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md)
-* [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
-* [Introduction to DID Auth for SSI – Markus Sabadello – Webinar 10](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)
-
 
 ### Evernym
+* [Evernym](https://www.evernym.com/)
+* [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
+* [Is Self-Sovereign Identity the ultimate GDPR compliance tool? (1 of 3)](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89)
+* [Is Self-Sovereign Identity the ultimate GDPR compliance tool? (2 of 3)](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)
+* [Is Self-Sovereign Identity the ultimate GDPR compliance tool? (3 of 3)](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)
+
+#### IDEMix
+* [IBM Identity Mixer](https://www.zurich.ibm.com/identity_mixer/)
+* [Specification of the Identity Mixer Cryptographic Library](https://domino.research.ibm.com/library/cyberdig.nsf/papers/EEB54FF3B91C1D648525759B004FBBB1/$File/rz3730_revised.pdf)
+* [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
 
 
 ### Sovrin
-
 * [Sovrin - Library](https://sovrin.org/library/)
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 * [Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust](https://sovrin.org/library/sovrin-protocol-and-token-white-paper/)
@@ -85,49 +95,47 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [Swipe Right on Verifiably Credentials](https://developer.ibm.com/code/2018/05/22/swipe-right-on-verifiable-credentials/)
 * [WISeKey fully deployed its CertifyID integrating Digital Identity with Blockchain technology](https://globenewswire.com/news-release/2018/07/11/1535718/0/en/WISeKey-fully-deployed-its-CertifyID-integrating-Digital-Identity-with-Blockchain-technology.html)
 
-### IDEMix
-* [IBM Identity Mixer](https://www.zurich.ibm.com/identity_mixer/)
-* [Specification of the Identity Mixer Cryptographic Library](https://domino.research.ibm.com/library/cyberdig.nsf/papers/EEB54FF3B91C1D648525759B004FBBB1/$File/rz3730_revised.pdf)
-* [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
-
-
 ### Ethereum
 
 * [Managing Identity with a UI—ERC-725](https://medium.com/originprotocol/managing-identity-with-a-ui-for-erc-725-5c7422b38c09)
 * [Different Approaches to Ethereum Identity Standards](https://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87) 
 * [Ethereum ERC725 Blockchain Based, Self-Sovereign Identity Management](https://bitcoinexchangeguide.com/ethereum-erc725-blockchain-based-self-sovereign-identity-management/)
 
-
 #### Tykn
 
 * [The Future of Resilient Identity](https://tykn.tech/)
 * [Tykn: Extended Overview](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)
+* [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
 
 
 ### Tu Delft
+* [TU Delft helps develop digital ID for use on your phone](https://www.tudelft.nl/en/2018/tu-delft/tu-delft-helps-develop-digital-id-for-use-on-your-phone/)
+* [Self-Sovereign Identity Systems for Humanitarian Interventions—A Case Study on Protective Cash Transfer Programs](https://repository.tudelft.nl/islandora/object/uuid:6cdb5450-9a81-47a9-8ffa-f9bd77c72448/datastream/OBJ1/download)
 * [Deployment of a Blockchain-Based Self-Sovereign Identity - Delft](https://arxiv.org/pdf/1806.01926.pdf)
 * [TrustChain: A Sybil-resistant scalable blockchain - Presentation](http://msn.iecs.fcu.edu.tw/report/download.php?)
-* [TU Delft helps develop digital ID for use on your phone](https://www.tudelft.nl/en/2018/tu-delft/tu-delft-helps-develop-digital-id-for-use-on-your-phone/)
 
-
-### Research-Papers
-
-* [A First Look at Identity Management Schemes on the Blockchain](https://arxiv.org/pdf/1801.03294.pdf)
-
-### ZKP
-
-* [zkp.science](https://zkp.science)
 
 ### Reports
-
 * [Global Blockchain Identity Management Market 2018-2022](https://www.technavio.com/report/global-blockchain-identity-management-market-analysis-share-2018)
 * [How Blockchain Revolutionizes Identity Management](https://www.accenture-insights.nl/en-us/articles/how-blockchain-will-revolutionize-identity-management)
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
+* [Digital Identity: the current state of affairs](https://www.bbvaresearch.com/wp-content/uploads/2018/02/Digital-Identity_the-current-state-of-affairs.pdf)
+* [Blockchain: Evolving Decentralized Identity Design](https://www.gartner.com/doc/3834863/blockchain-evolving-decentralized-identity-design)
+
 
 ### Assorted Decentralized\Blockchain ID Initiatives
 * [Zug ID: Exploring the First Publicly Verified Blockchain Identity](https://medium.com/uport/zug-id-exploring-the-first-publicly-verified-blockchain-identity-38bd0ee3702)
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e)
 * [Civic](https://www.civic.com/)
+* [Proof of Authority](https://blockonomi.com/proof-of-authority/)
+
+### Research-Papers
+
+* [A First Look at Identity Management Schemes on the Blockchain](https://arxiv.org/pdf/1801.03294.pdf)
+
+### Zero Knowledge Proof — ZKP
+
+* [zkp.science](https://zkp.science)
 
 ### Resources
 
@@ -136,8 +144,5 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 
 
 ---
-
-
-
 
 
