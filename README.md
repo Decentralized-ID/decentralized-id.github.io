@@ -9,6 +9,7 @@ Awesome Self-Sovereign Identity, Decentralized-ID, and Blockchain-ID related res
 * [IIW — Wiki](http://iiw.idcommons.net/Main_Page)
 * [Identity on the Blockchain: Perils and Promise](https://www.slideshare.net/ChristopherA/identity-of-the-blockchain-perils-and-promise)
 
+
 ### Self-Sovereign
 
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
@@ -90,7 +91,6 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
 * [zkp.science](https://zkp.science) 
 
-
 ### Sovrin
 * [Sovrin](https://sovrin.org/) — [Forun](https://forum.sovrin.org/) — [Slack](https://sovrin-slack-signup.herokuapp.com/)
 * [Sovrin - Library](https://sovrin.org/library/)
@@ -110,7 +110,6 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
 * [The Case for Decentralized Identity](http://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml)
 * [Building Your Business on Sovrin: Domain-Specific Trust Frameworks](http://www.windley.com/archives/2018/03/building_your_business_on_sovrin_domain-specific_trust_frameworks.shtml)
-
 
 ### Indy
 
@@ -134,6 +133,14 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
    * [Different Approaches to Ethereum Identity Standards](https://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87) 
    * [uPort — Year in Review. What's to come in 2018](https://medium.com/uport/uport-year-in-review-whats-to-come-in-2018-15ccb9214439)
 
+* [Proof-of-Individuality](http://proofofindividuality.online/) — how to prove a person only has one account
+   * [Anti-Sybil Protocol using virtual pseudonym parties](https://medium.com/@unlisted/anti-sybil-protocol-using-virtual-pseudonym-parties-10276fcf3b20)
+
+
+
+* [Jolocom](http://jolocom.com/) 
+   * a "SmartWallet" for everyone to own their personal digital identity, using [Social Linked Data](https://github.com/solid/solid-spec), WebID, and verifiable claims standards, as well as Ethereum smart contracts. 
+
 
 #### Tykn
 
@@ -155,7 +162,8 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 
 
 
-### Assorted Decentralized\Blockchain ID Initiatives
+## Assorted 
+### Decentralized\Blockchain ID Initiatives
 * [Zug ID: Exploring the First Publicly Verified Blockchain Identity](https://medium.com/uport/zug-id-exploring-the-first-publicly-verified-blockchain-identity-38bd0ee3702)
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e)
 * [Civic](https://www.civic.com/)
@@ -164,13 +172,29 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
    * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
    * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
 * [Shocard](https://shocard.com/) — "Blockchain-Based Mobile Identity Platform"
+* [Danube Tech](http://danubetech.com/) — digital identity and personal data, including personal agents, semantic graphs, and blockchain identity.
+* [Cambridge Blockchain](http://cambridge-blockchain.com/) — Blockchain for validating secure digital identity documents, processing electronic signatures, and recording transactions."
+* [Authenteq](http://authenteq.com/) — enables users to create their own sovereign digital IDs which are stored encrypted in a blockchain.
+* [JLinc](https://www.jlinc.com/") — registers cryptographic public keys on the Stellar blockchain.—#peacekeeper"
+* [CheapID](http://guptaoption.com/cheapid/)
+* [Deloitte SmartID](http://www.deloitte.co.uk/smartid/)
+* [Internet of People](https://iop.global/) — "an open, decentralized infrastructure consisting of device-to-device communication, blockchain tokens, profile servers, and other components."
+* [Blockchain Helix](http://blockchain-helix.com) — [ico](https://ico.helix-orange.com/) — [whitepaper](https://ico.helix-orange.com/wp-content/uploads/2018/08/HELIX-Orange_Whitepaper_v1.5.pdf)
+    * "Identity as a Service", "Data as a Service" and "Blockchain as a Service" The company offers to increase the speed of KYC/AML processes while hughly decreasing the cost 
+* [The Humanized Internet](http://www.thehumanizedinternet.org/) — "to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity."
 
 
 ### Other
 
+* [The Relationship Between Blockchain and Digital Identity](http://www.gsma.com/personaldata/the-relationship-between-blockchain-and-digital-identity)
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)
 * [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — Video of DEVCON1
 * [Federal Funding for Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html)
+
+
+<img src = "https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png" />
+
+2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
 
 
 ### Reports
@@ -203,10 +227,6 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 
 
 
-
-
-
-
-
+* [TOWARDS SELF-SOVEREIGN IDENTITY USING BLOCKCHAIN TECHNOLOGY](http://essay.utwente.nl/71274/)
 
 
