@@ -174,11 +174,6 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
 
 
-### Tu Delft
-* [TU Delft helps develop digital ID for use on your phone](https://www.tudelft.nl/en/2018/tu-delft/tu-delft-helps-develop-digital-id-for-use-on-your-phone/)
-* [Self-Sovereign Identity Systems for Humanitarian Interventions—A Case Study on Protective Cash Transfer Programs](https://repository.tudelft.nl/islandora/object/uuid:6cdb5450-9a81-47a9-8ffa-f9bd77c72448/datastream/OBJ1/download)
-* [Deployment of a Blockchain-Based Self-Sovereign Identity - Delft](https://arxiv.org/pdf/1806.01926.pdf)
-* [TrustChain: A Sybil-resistant scalable blockchain - Presentation](http://msn.iecs.fcu.edu.tw/report/download.php?)
 
 ### State
 
@@ -187,6 +182,12 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)_
 * [Verified Organization Network](https://vonx.io/) — [github](https://github.com/bcgov/von)(https://github.com/bcgov/theorgbook)
    — "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims."
+
+#### Netherlands
+* [TU Delft helps develop digital ID for use on your phone](https://www.tudelft.nl/en/2018/tu-delft/tu-delft-helps-develop-digital-id-for-use-on-your-phone/)
+* [Self-Sovereign Identity Systems for Humanitarian Interventions—A Case Study on Protective Cash Transfer Programs](https://repository.tudelft.nl/islandora/object/uuid:6cdb5450-9a81-47a9-8ffa-f9bd77c72448/datastream/OBJ1/download)
+* [Deployment of a Blockchain-Based Self-Sovereign Identity - Delft](https://arxiv.org/pdf/1806.01926.pdf)
+* [TrustChain: A Sybil-resistant scalable blockchain - Presentation](http://msn.iecs.fcu.edu.tw/report/download.php?)
 
 #### Spain
 * [Alastria](https://alastria.io/) — [github](https://github.com/alastria/alastria-identity) 
