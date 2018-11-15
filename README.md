@@ -9,14 +9,12 @@ Awesome Self-Sovereign Identity, Decentralized-ID, and Blockchain-ID related res
 * [Identity as a Bottleneck for Blockchain](https://blockchainhub.net/blog/blog/decentralized-identity-blockchain/)
 
 ### IIW
-
 * [Internet Identity Workshop](http://www.internetidentityworkshop.com/)
 * [IIW — Wiki](http://iiw.idcommons.net/Main_Page)
 * [Identity on the Blockchain: Perils and Promise](https://www.slideshare.net/ChristopherA/identity-of-the-blockchain-perils-and-promise)
 
 
 ### Self-Sovereign
-
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
 * [What is 'Sovereign Source Authority'?](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html)
 * [Experts talk Self-Sovereign Identity](https://www.coindesk.com/experts-talk-self-sovereign-identity-implementing-systems/)
@@ -202,6 +200,17 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
    * offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features
 * [Banqu](http://www.banquapp.com/) —"focuses on establishing 'economic identity' for those who are excluded from the global economy."
 * [Vida Identity](https://getvida.io) — "enables distributed key revocation and reissuance. Access to data is always permissioned across applications and services."
+* [ÆTERNITY](http://aeternity.com/) — [github](https://github.com/aeternity/protocol) — Is focusing on improved smart contract capabilities such as better scalability and easier integration of off-chain data. It offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema.org's data structures are used for representing data about persons and organizations."
+    * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
+* [Spidchain](http://www.spidchain.com/) — [whitepaper](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)
+   — "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
+* [Reddcoin — Redd-ID](https://www.reddcoin.com/service/redd-id/) — [forum](https://www.reddcointalk.org/) — [PoSV whitepaper](https://www.reddcoin.com/papers/PoSV.pdf)
+   — a naming service that allows usernames to be registered on the Reddcoin blockchain. "]
+* [Pro-civis]
+(https://procivis.ch) — "e-government as a service" platform called "eID+". It enables citizens to get an official, electronic Citizen-ID on a mobile app, which can be used for secure and convenient login to websites, and the electronic signing and safe storage of documents. Verification providers such as state authorities can use a web backend or an API to attest to the correctness of a citizen's personal data. 
+    * The platform includes the [Vetri](https://vetri.global/) wallet and marketplace. 'Earn extra income and rewards by joining the data economy.'"
+* [Cicada](https://github.com/the-laughing-monkey/cicada-platform)
+   * a Dapp platform built for a "direct democracy" use case. It envisions using iris scans to generate decentralized universal identifiers ("HUIDs") for every human on the planet, a method referred to as "biocryptics". "HUIDs" can have "sub-IDs" to support selective disclosure. PII can be stored in an "info wallet". Key parts of the system also include smart contracts, zero-knowledge proofs, mixnets, and more."
 
 ### Other
 
@@ -227,6 +236,7 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [ChainAnchor — Anonymous Identities for Permissioned Blokchains](http://connection.mit.edu/wp-content/uploads/sites/29/2014/12/Anonymous-Identities-for-Permissioned-Blockchains2.pdf)
 * [Decentralizing Privacy: Using Blockchain to Protect Personal Data](http://web.media.mit.edu/~guyzys/data/ZNP15.pdf)
 * [TOWARDS SELF-SOVEREIGN IDENTITY USING BLOCKCHAIN TECHNOLOGY](http://essay.utwente.nl/71274/)
+* [Self-sovereign Identity –	Opportunities and Challenges for the Digital Revolution](https://arxiv.org/pdf/1712.01767.pdf)
 
 ### People
 * [Christopher Allen](http://www.lifewithalacrity.com/) — [twitter](https://twitter.com/ChristopherA) — [github](https://github.com/ChristopherA"]
@@ -242,6 +252,10 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 ## BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
 ---
+
+
+
+
 
 
 
