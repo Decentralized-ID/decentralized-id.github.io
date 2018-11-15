@@ -3,6 +3,11 @@ Awesome Self-Sovereign Identity, Decentralized-ID, and Blockchain-ID related res
 
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants,'—[Jerry Cuomo - IBM](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
 
+### General
+
+* [The Relationship Between Blockchain and Digital Identity](http://www.gsma.com/personaldata/the-relationship-between-blockchain-and-digital-identity)
+* [Identity as a Bottleneck for Blockchain](https://blockchainhub.net/blog/blog/decentralized-identity-blockchain/)
+
 ### IIW
 
 * [Internet Identity Workshop](http://www.internetidentityworkshop.com/)
@@ -122,6 +127,9 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [How do we start tackling the existing identity problem](https://www.ibm.com/blogs/blockchain/2018/06/how-do-we-start-tackling-the-existing-identity-problem/)
 * [Swipe Right on Verifiably Credentials](https://developer.ibm.com/code/2018/05/22/swipe-right-on-verifiable-credentials/)
 * [WISeKey fully deployed its CertifyID integrating Digital Identity with Blockchain technology](https://globenewswire.com/news-release/2018/07/11/1535718/0/en/WISeKey-fully-deployed-its-CertifyID-integrating-Digital-Identity-with-Blockchain-technology.html)
+* [SecureKey](http://securekey.com/) 
+   * [partners with IBM](http://www-03.ibm.com/press/us/en/pressrelease/51841.wss) to enable a new digital identity and attribute sharing network based on Hyperledger Fabric blockchain.
+
 
 ### Ethereum
 
@@ -160,6 +168,11 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
 * [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)_
 
+### Data Wallets
+
+* [Pillar Project](http://pillarproject.io) — [grey—paper](https://pillarproject.io/documents/Pillar-Gray-Paper.pdf)
+   * planning to offer a "Personal Data Locker" consisting of a wallet, browser, and token exchange. Personal assets will be put on a blockchain, and "Pillar" tokens will be issued."
+
 
 
 ## Assorted 
@@ -182,11 +195,16 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [Blockchain Helix](http://blockchain-helix.com) — [ico](https://ico.helix-orange.com/) — [whitepaper](https://ico.helix-orange.com/wp-content/uploads/2018/08/HELIX-Orange_Whitepaper_v1.5.pdf)
     * "Identity as a Service", "Data as a Service" and "Blockchain as a Service" The company offers to increase the speed of KYC/AML processes while hughly decreasing the cost 
 * [The Humanized Internet](http://www.thehumanizedinternet.org/) — "to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity."
-
+* [Mydata](http://mydata.org/) — [papers](https://mydata.org/papers/) — [declaration](https://mydata.org/declaration/)
+   * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
+   * [Consent](http://www.consent.global/) — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
+* ["Mooti"](https://mooti.co/) — [docs](https://docs.mooti.co/)
+   * offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features
+* [Banqu](http://www.banquapp.com/) —"focuses on establishing 'economic identity' for those who are excluded from the global economy."
+* [Vida Identity](https://getvida.io) — "enables distributed key revocation and reissuance. Access to data is always permissioned across applications and services."
 
 ### Other
 
-* [The Relationship Between Blockchain and Digital Identity](http://www.gsma.com/personaldata/the-relationship-between-blockchain-and-digital-identity)
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)
 * [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — Video of DEVCON1
 * [Federal Funding for Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html)
@@ -208,6 +226,7 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [A First Look at Identity Management Schemes on the Blockchain](https://arxiv.org/pdf/1801.03294.pdf)
 * [ChainAnchor — Anonymous Identities for Permissioned Blokchains](http://connection.mit.edu/wp-content/uploads/sites/29/2014/12/Anonymous-Identities-for-Permissioned-Blockchains2.pdf)
 * [Decentralizing Privacy: Using Blockchain to Protect Personal Data](http://web.media.mit.edu/~guyzys/data/ZNP15.pdf)
+* [TOWARDS SELF-SOVEREIGN IDENTITY USING BLOCKCHAIN TECHNOLOGY](http://essay.utwente.nl/71274/)
 
 ### People
 * [Christopher Allen](http://www.lifewithalacrity.com/) — [twitter](https://twitter.com/ChristopherA) — [github](https://github.com/ChristopherA"]
@@ -218,7 +237,9 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [Blockchain Identity — peacekeeper](https://github.com/peacekeeper/blockchain-identity)
 * [WebOfTrust.info — github](https://github.com/WebOfTrustInfo/)
 
+---
 
+## BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
 ---
 
@@ -226,7 +247,5 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 
 
 
-
-* [TOWARDS SELF-SOVEREIGN IDENTITY USING BLOCKCHAIN TECHNOLOGY](http://essay.utwente.nl/71274/)
 
 
