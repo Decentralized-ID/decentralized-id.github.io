@@ -1154,6 +1154,7 @@ Description = "RDF [RDF-CONCEPTS] describes a graph-based data model for making 
 Tags = ["w3c","specs","rdf","did","rwot","decentralized-id"]
 
 ["Markus Sabadello —Peacekeeper"]
-Link = ["https://danubetech.com/","https://twitter.com/peacekeeper","https://github.com/peacekeeper","https://www.linkedin.com/in/markus-sabadello-353a0821/"]
-Description = ["Identity and Communication for Political and Social Innovation"]
+Link = ["https://danubetech.com/","https://twitter.com/peacekeeper","https://github.com/peacekeeper","https://www.linkedin.com/in/markus-sabadello-353a0821/","https://medium.com/@markus.sabadello"]
+Description = "Identity and Communication for Political and Social Innovation"
 Tags = ["peacekeeper","sovrin","danubetech","decentralized-id","blockchain-id","self-sovereign"]
+
