@@ -200,6 +200,7 @@ Please let me know if any of these resources are just as well left out, or if th
 * [Managing Identity with a UI—ERC-725](https://medium.com/originprotocol/managing-identity-with-a-ui-for-erc-725-5c7422b38c09)
 * [Ethereum ERC725 Blockchain Based, Self-Sovereign Identity Management](https://bitcoinexchangeguide.com/ethereum-erc725-blockchain-based-self-sovereign-identity-management/)
 * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
+* [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — Video of DEVCON1
 
 #### Ethereum Identity Applications 
 * [uPort](https://www.uport.me/)
@@ -214,10 +215,10 @@ Please let me know if any of these resources are just as well left out, or if th
 * [Ockam](https://www.ockam.io/) — creating a ERC20 based platform that registers IOT devices to a blockchain to solve systemic security and interoperability problems.
 
 
-
-
-
 ### State Led Initiatives
+
+* [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)
+* [Federal Funding for Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html)
 
 #### Canada
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
@@ -242,16 +243,6 @@ Please let me know if any of these resources are just as well left out, or if th
 #### Estonia
 * [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) | [id.ee](https://www.id.ee/)
    * [Estonian Blockchain ID Card Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
-
-### Data Wallet \ Marketplaces
-
-* [Pillar Project](http://pillarproject.io) | [grey—paper](https://pillarproject.io/documents/Pillar-Gray-Paper.pdf)
-   * planning to offer a "Personal Data Locker" consisting of a wallet, browser, and token exchange. Personal assets will be put on a blockchain, and "Pillar" tokens will be issued."
-* [Aversafe](https://www.aversafe.com/) —"allows individuals to store personal details, work history, certificates and achievements. It leverages a permissioned blockchain for trusted audit and participation in the storage of attestation data separate from the actual data stored"
-* [Datum](https://datum.org) | [whitepaper](https://datum.org/assets/Datum-WhitePaper.pdf)
-   * "network allows anyone to store structured data on a smart contract blockchain. Data can optionally be bought and sold on a marketplace using the DAT token. Datum leverages BigchainDB and IPFS as data storage backends. All data is encrypted and protected using AES256-GCM.
-* [ONTology](https://ont.io/) — "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
-
 
 
 ## Assorted 
@@ -297,15 +288,19 @@ Please let me know if any of these resources are just as well left out, or if th
 * [I/O Digital Foundation](https://iodigital.io/) [whitepaper](https://simplebooklet.com/iocoinwhitepaper#page=0)
    * "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
 
+### Data Wallet \ Marketplaces
+
+* [Pillar Project](http://pillarproject.io) | [grey—paper](https://pillarproject.io/documents/Pillar-Gray-Paper.pdf)
+   * planning to offer a "Personal Data Locker" consisting of a wallet, browser, and token exchange. Personal assets will be put on a blockchain, and "Pillar" tokens will be issued."
+* [Aversafe](https://www.aversafe.com/) —"allows individuals to store personal details, work history, certificates and achievements. It leverages a permissioned blockchain for trusted audit and participation in the storage of attestation data separate from the actual data stored"
+* [Datum](https://datum.org) | [whitepaper](https://datum.org/assets/Datum-WhitePaper.pdf)
+   * "network allows anyone to store structured data on a smart contract blockchain. Data can optionally be bought and sold on a marketplace using the DAT token. Datum leverages BigchainDB and IPFS as data storage backends. All data is encrypted and protected using AES256-GCM.
+* [ONTology](https://ont.io/) — "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
+
+
 ![](https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png)
 
 2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
-
-### Other
-
-* [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)
-* [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — Video of DEVCON1
-* [Federal Funding for Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html)
 
 
 ### Reports
