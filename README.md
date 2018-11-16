@@ -1,5 +1,4 @@
-# awesome-decentralized-id —Draft
-Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
+# Awesome Decentralized, Self-Sovereign, and Blockchain Identity Resources —Draft
 
 Much appreciation to Peacekeeper's [blockchain-identity](https://github.com/peacekeeper/blockchain-identity) and the [WebOfTrustInfo](https://github.com/WebOfTrustInfo/) repositories, to which this document is indebted. 
 
