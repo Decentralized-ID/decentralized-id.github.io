@@ -208,7 +208,7 @@ Description = "The Web of Trust is a buzzword for a new model of decentralized s
 
 
 
-### State
+### State Led Initiatives
 
 #### Canada
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
