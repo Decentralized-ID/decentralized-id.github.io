@@ -63,6 +63,8 @@ Please let me know if you think any of these resources are just as well left out
 
 ### UN — ID2020 — DIF — WIN — BFI
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/UN_SDG_Logo.png/269px-UN_SDG_Logo.png)
+
 * [Bitnation](https://bitnation.co/) — [refugees.bitnation.co](https://refugees.bitnation.co/)
    * "seeks to establish the concept of "world citizenship" through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering 'blockchain emergency IDs' to refugees."
 * [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)
