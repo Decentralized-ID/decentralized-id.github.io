@@ -379,7 +379,7 @@ Description = "Identity For All —Permanent Digital Identities that Don’t Req
 Tags = ["sovrin","decentralized-id","self-sovereign","indy","organizations","forum","chat"]
 
 ["Internet Identity Workshop"]
-Link = ["http://www.internetidentityworkshop.com/","http://iiw.idcommons.net/Main_Page"]
+Link = ["http://www.internetidentityworkshop.com/","http://iiw.idcommons.net/Main_Page","https://twitter.com/idworkshop"]
 Description = "The Internet Identity Workshop has been finding, probing and solving identity issues twice every year since 2005. We meet in the Computer History Museum in Mountain View, CA. Every IIW moves topics, code and projects downfield. Name an identity topic and it's likely that more substantial discussion and work has been done at IIW than any other conference!"
 Tags = ["iiw","decentralized-id","self-sovereign","organizations","microsoft","google","ibm","hyperledger","evernym","sovrin","history","blockchain-id","w3c","rwot"]
 
@@ -1156,5 +1156,10 @@ Tags = ["w3c","specs","rdf","did","rwot","decentralized-id"]
 ["Markus Sabadello —Peacekeeper"]
 Link = ["https://danubetech.com/","https://twitter.com/peacekeeper","https://github.com/peacekeeper","https://www.linkedin.com/in/markus-sabadello-353a0821/","https://medium.com/@markus.sabadello"]
 Description = "Identity and Communication for Political and Social Innovation"
-Tags = ["peacekeeper","sovrin","danubetech","decentralized-id","blockchain-id","self-sovereign"]
+Tags = ["peacekeeper","sovrin","danubetech","decentralized-id","blockchain-id","self-sovereign","people"]
+
+["Kaliya-Identity Woman"]
+Link = ["https://identitywoman.net/","https://twitter.com/IdentityWoman"]
+Description = "Blockchain & ID Expert. Independent Advocate for the Rights & Dignity of our Digital Selves. Open Standards! Co-Founder, Facilitator [@idworkshop](https://twitter.com/idworkshop) & [@unconference](https://twitter.com/unconference)"
+Tags = ["identity-woman","people"]
 
