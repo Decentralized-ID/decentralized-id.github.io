@@ -1,7 +1,12 @@
 # awesome-decentralized-id —Draft
-**Awesome Self-Sovereign Identity, Decentralized-ID, and Blockchain-ID related resources.**
+
+Much appreciation to [Peacekeeper]((https://github.com/peacekeeper) for maintaining the [blockchain-identity](https://github.com/peacekeeper/blockchain-identity) repository, to which this document is indebted. 
 
 **Collaboration Welcome**
+
+This is a skeleton, around which I will fill in some background information, highlight the chosen resources, along with some rearrangement, and justification for the way it's organized.
+
+## Awesome Self-Sovereign Identity, Decentralized-ID, and Blockchain-ID related resources
 
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants,'—[Jerry Cuomo - IBM](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
 
@@ -318,6 +323,7 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
 * [Phil Windley](https://windley.com) — [twitter](https://twitter.com/windley)
 * [Manu Sporny](https://digitalbazaar.com/blog/) — [twitter](https://twitter.com/manusporny)
 * [Kaliya-Identity Woman](https://identitywoman.net/) — [twitter](https://twitter.com/IdentityWoman)
+* [Markus Sabadello —Peacekeeper](https://danubetech.com/) | [twitter](https://twitter.com/peacekeeper) | [github](https://github.com/peacekeeper)
 
 ### Resources
 * [Blockchain Identity — peacekeeper](https://github.com/peacekeeper/blockchain-identity)
