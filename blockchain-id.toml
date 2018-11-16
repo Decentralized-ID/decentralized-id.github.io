@@ -676,7 +676,7 @@ Tags = ["securekey","blockchain-id","ibm","canada"]
 ["Identity as a Bottleneck for Blockchain"]
 Link = ["https://blockchainhub.net/blog/blog/decentralized-identity-blockchain/"]
 Description = "The Road to Self Sovereign Identity\n\nBlockchain and smart contracts have the potential to radically reduce transaction costs and cut out the middle man. However, it is important to recognise that any structural fulfilment of this potential relies on first solving the fundamental question of identity: can we trust the entities who will be involved in these transactions, and how will we identify them?"
-Tags = ["blbecause ockchain-id","self-sovereign","decentralized-id","blog","peacekeeper"]
+Tags = ["blockchain-id","self-sovereign","decentralized-id","blog","peacekeeper"]
 
 ["Consent"]
 Link = ["http://www.consent.global/"]
@@ -1109,7 +1109,7 @@ Description = "The Web of Trust. It’s the buzzword for a new model of decentra
 Tags = ["rwot","w3c","whitepaper","blockchain-id","decentralized-id","weboftrust","history"]
 
 ["Creating the New World of Trust"]
-Link = ["https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf","https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.docx"]
+Link = ["https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf","https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.docx"]
 Description = "On November 3rd and 4th, the Rebuilding the Web of Trust design workshop looked at the future of decentralized trust on the internet with the goal of producing 3-5 white papers and specs. Those papers were polished for release in December, leaving the question: what's next?"
 Tags = ["rwot","w3c","whitepaper","blockchain-id","decentralized-id","weboftrust","history"]
 
@@ -1152,9 +1152,3 @@ Tags = ["w3c","specs","json","did","rwot","decentralized-id"]
 Link = ["https://json-ld.github.io/normalization/spec/"]
 Description = "RDF [RDF-CONCEPTS] describes a graph-based data model for making claims about the world and provides the foundation for reasoning upon that graph of information. At times, it becomes necessary to compare the differences between sets of graphs, digitally sign them, or generate short identifiers for graphs via hashing algorithms. This document outlines an algorithm for normalizing RDF datasets such that these operations can be performed."
 Tags = ["w3c","specs","rdf","did","rwot","decentralized-id"]
-
-["DID Specs"]
-Link = ["https://docs.google.com/document/d/1Z-9jX4PEWtyRFD5fEyyzEnWK_0ir0no1JJLuRu8O9Gs/"]
-Description = "Decentralized Identifiers are a new type of identifier intended for digital identity that is \"self-sovereign\", i.e, fully under the control of the identity owner. DIDs resolve to DDOs (DID descriptor objects) and can be registered in different blockchains (using different \"methods\")."
-Tags = ["w3c","did","documentation","self-sovereign","decentralized-id","peacekeeper"]
-
