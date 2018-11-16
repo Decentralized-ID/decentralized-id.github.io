@@ -302,7 +302,7 @@ Please let me know if you think any of these resources are just as well left out
 * [Federal Funding for Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html)
 
 
-<img src = "https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png" />
+![](https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png)
 
 2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
 
@@ -336,11 +336,12 @@ Please let me know if you think any of these resources are just as well left out
 ### Resources
 * [Blockchain Identity — peacekeeper](https://github.com/peacekeeper/blockchain-identity)
 * [WebOfTrust.info — github](https://github.com/WebOfTrustInfo/)
-* [crypt0library.net](http://crypt0library.net) — [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
+* [identitywoman.net](https://identitywoman.net/)
+* [crypt0library.net](http://crypt0library.net) | [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
 
 ---
 
-### Brought to you by the [crypt0library.net](http://crypt0library.net) — [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
+### Brought to you by the [crypt0library.net](http://crypt0library.net) | [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
 #### BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 Any contribution is appreciated!!
 
