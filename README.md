@@ -1,6 +1,6 @@
 # awesome-decentralized-id —Draft
 
-Much appreciation to [Peacekeeper]((https://github.com/peacekeeper) for maintaining the [blockchain-identity](https://github.com/peacekeeper/blockchain-identity) repository, to which this document is indebted. 
+Much appreciation to [Peacekeeper](https://github.com/peacekeeper) for maintaining the [blockchain-identity](https://github.com/peacekeeper/blockchain-identity) repository, to which this document is indebted. 
 
 **Collaboration Welcome**
 
