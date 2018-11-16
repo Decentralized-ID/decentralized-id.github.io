@@ -62,10 +62,10 @@ Please let me know if any of these resources are just as well left out, or if th
 * [Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
 
 
-### UN — ID2020 — DIF — WIN — BFI
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/UN_SDG_Logo.png/269px-UN_SDG_Logo.png)
 
+### UN 
 * [Bitnation](https://bitnation.co/) — [refugees.bitnation.co](https://refugees.bitnation.co/)
    * "seeks to establish the concept of "world citizenship" through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering 'blockchain emergency IDs' to refugees."
 * [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)
@@ -73,12 +73,12 @@ Please let me know if any of these resources are just as well left out, or if th
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
 * [AID:Tech](https://aid.technology) — "is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner."
 
-#### ID2020
+### ID2020
 
 * [ID2020 Alliance](https://id2020.org/)
    * [Identity 2.0](https://id2020.org/news/2016/12/2/identity-20) 
 
-#### DIF
+### DIF
 
 * [Decentralized Identity Foundation](http://identity.foundation/)
    - Members include: Microsoft, uPort, IBM, Sovrin, SecureKey, Blockstack, Evernym, Hyperledger, Civic, Accenture, Danube, netki, RSA, Consent, IOTA, Muti, r3, Aunthenteq, Blockchain-foundry, Validatedid, 1kosmos, gamecredits, auth0, jolocom, Enigma, Humanized-internet, Pillar, id2020, Nuggets.
@@ -143,6 +143,12 @@ Please let me know if any of these resources are just as well left out, or if th
 * [How Sovrin Works—A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 
+#### Tykn
+
+* [The Future of Resilient Identity](https://tykn.tech/)
+* [Tykn: Extended Overview](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)
+* [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
+
 #### Windley
 * [The Sovrin Foundation](http://www.windley.com/archives/2018/07/the_sovrin_foundation.shtml)
 * [A Universal Trust Framework](http://www.windley.com/archives/2017/01/a_universal_trust_framework.shtml)
@@ -195,8 +201,7 @@ Please let me know if any of these resources are just as well left out, or if th
 * [Ethereum ERC725 Blockchain Based, Self-Sovereign Identity Management](https://bitcoinexchangeguide.com/ethereum-erc725-blockchain-based-self-sovereign-identity-management/)
 * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
 
-
-#### Applications 
+#### Ethereum Identity Applications 
 * [uPort](https://www.uport.me/)
    * [Ethereum studio ConsenSys launches 'Internet-of-People' with digital IDs and assets secured on Ubuntu phones](http://www.ibtimes.co.uk/ethereum-studio-consensys-launches-internet-people-digital-ids-assets-secured-unbuntu-phones-1542620)
    * [Year in Review. What's to come in 2018](https://medium.com/uport/uport-year-in-review-whats-to-come-in-2018-15ccb9214439)
@@ -209,11 +214,6 @@ Please let me know if any of these resources are just as well left out, or if th
 * [Ockam](https://www.ockam.io/) — creating a ERC20 based platform that registers IOT devices to a blockchain to solve systemic security and interoperability problems.
 
 
-#### Tykn
-
-* [The Future of Resilient Identity](https://tykn.tech/)
-* [Tykn: Extended Overview](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)
-* [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
 
 
 
