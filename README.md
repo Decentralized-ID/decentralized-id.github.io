@@ -32,7 +32,7 @@ This is a skeleton, around which I will fill in some background information; hig
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
 * [Self-Sovereign Identity = (individual control across any number of authorities)](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
 * [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
-* [@ChristopherA on Self-Sovereign ID —A Tweetstorm](https://twitter.com/ChristopherA/status/989120215702261761)
+* [@ChristopherA “Self-Sovereign Identity: A Progress Report” —A Tweetstorm](https://twitter.com/ChristopherA/status/989120215702261761)
 
 ### RWoT
 Description = "The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.\n\nBut some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it."
@@ -74,10 +74,10 @@ Description = "The Web of Trust is a buzzword for a new model of decentralized s
 #### DIF
 
 * [Decentralized Identity Foundation](http://identity.foundation/)
-"microsoft","uport","ibm","sovrin","securekey","blockstack","evernym","hyperledger","civic","accenture","danube","netki","rsa","consent","iota","muti","r3","aunthenteq","blockchain-foundry","validatedid","1kosmos","gamecredits","auth0","jolocom","enigma","humanized-internet","pillar","id2020","nuggets"
-   * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
+Members include: Microsoft, uPort, IBM, Sovrin, SecureKey, Blockstack, Evernym, Hyperledger, Civic, Accenture, Danube, netki, RSA, Consent, IOTA, Muti, r3, Aunthenteq, Blockchain-foundry, Validatedid, 1kosmos, gamecredits, auth0, jolocom, Enigma, Humanized-internet, Pillar, id2020, Nuggets.
+* [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md)
-   * Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID)
+   - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID)
 
 ### w3c
 
