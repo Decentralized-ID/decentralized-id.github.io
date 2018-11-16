@@ -39,7 +39,9 @@ Please let me know if you think any of these resources are just as well left out
 
 
 ### RWoT
-"The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.\n\nBut some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it."
+>The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
+>
+>But some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it."
 
 * [WebOfTrust.info](http://www.WebOfTrust.info) - [on github](https://github.com/WebOfTrustInfo/)
 * [WebofTrust - Self Sovereign ID - Github](https://github.com/WebOfTrustInfo/self-sovereign-identity)
