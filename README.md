@@ -55,8 +55,7 @@ Description = "The Web of Trust is a buzzword for a new model of decentralized s
 
 ### UN — ID2020 — DIF — WIN — BFI
 
-* [Bitnation]
-(https://bitnation.co/) — [refugees.bitnation.co](https://refugees.bitnation.co/)
+* [Bitnation](https://bitnation.co/) — [refugees.bitnation.co](https://refugees.bitnation.co/)
    * "seeks to establish the concept of \"world citizenship\" through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering 'blockchain emergency IDs' to refugees."
 * [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)
 * [World Identity Netowork —Blockchain for Impact](https://win.systems/)
