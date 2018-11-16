@@ -6,7 +6,7 @@ Much appreciation to Peacekeeper's [blockchain-identity](https://github.com/peac
 
 This is a skeleton, around which I will fill in some background information; highlight the chosen resources; rearrange things a bit, and provide some justification for the way it's organized.
 
-Please let me know if you think any of these resources are just as well left out, or any that you'd like to see included.
+Please let me know if any of these resources are just as well left out, or if there is any additional that you'd like to see included.
 
 ## Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
 
