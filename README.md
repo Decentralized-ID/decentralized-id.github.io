@@ -26,7 +26,6 @@ Collaboration Welcome.
 * [The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
 * [The Path to Self-Sovereign Identity](https://www.coindesk.com/path-self-sovereign-identity/amp/)
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
-
 * [Self-Sovereign Identity = (individual control across any number of authorities)](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
 * [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
 * [@ChristopherA on Self-Sovereign ID —A Tweetstorm](https://twitter.com/ChristopherA/status/989120215702261761)
@@ -34,7 +33,7 @@ Collaboration Welcome.
 ### RWoT
 Description = "The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.\n\nBut some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it."
 
-* [WebOfTrust.info](http://www.WebOfTrust.info) — [on github](https://github.com/WebOfTrustInfo/)
+* [WebOfTrust.info](http://www.WebOfTrust.info) - [on github](https://github.com/WebOfTrustInfo/)
 * [WebofTrust - Self Sovereign ID - Github](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 * [Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf)
 * [Creating the New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf)
@@ -58,7 +57,7 @@ Description = "The Web of Trust is a buzzword for a new model of decentralized s
 
 * [Bitnation]
 (https://bitnation.co/) — [refugees.bitnation.co](https://refugees.bitnation.co/)
-   — "seeks to establish the concept of \"world citizenship\" through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering 'blockchain emergency IDs' to refugees."
+   * "seeks to establish the concept of \"world citizenship\" through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering 'blockchain emergency IDs' to refugees."
 * [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)
 * [World Identity Netowork —Blockchain for Impact](https://win.systems/)
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
@@ -73,9 +72,9 @@ Description = "The Web of Trust is a buzzword for a new model of decentralized s
 
 * [Decentralized Identity Foundation](http://identity.foundation/)
 Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","securekey","tierion","gem","blockstack","evernym","hyperledger","civic","accenture","danube","netki","rsa","consent","iota","muti","aetna","r3","aunthenteq","blockchain-foundry","validatedid","1kosmos","gamecredits","auth0","onfido","jolocom","dominode","enigma","humanized-internet","pillar","meeco","veridiumid","id2020","nuggets","diid","meta","kyc-chain","blockpass","ockam","nuid","bayonet","equinix","kyc"]
-   — [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
+   * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md)
-   — Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID)
+   * Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID)
 
 ### w3c
 
@@ -125,7 +124,7 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 
 
 ### Sovrin
-* [Sovrin](https://sovrin.org/) — [Forun](https://forum.sovrin.org/) — [Slack](https://sovrin-slack-signup.herokuapp.com/)
+* [Sovrin](https://sovrin.org/) | [Forun](https://forum.sovrin.org/) | [Slack](https://sovrin-slack-signup.herokuapp.com/)
 * [Sovrin - Library](https://sovrin.org/library/)
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
 * [Sovrin: digital identities in the blockchain era](https://sovrin.org/library/sovrin-digital-identities-in-the-blockchain-era/)
@@ -150,12 +149,12 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [SecureKey Technologies to explore interoperability between Verified.Me and Hyperledger Indy](https://securekey.com/press-releases/hyperledger-indy/)
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy)
 * [Plenum Byzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki) based on [RBFT](http://lig-membres.imag.fr/aublin/rbft/report.pdf)
-   — "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem."
+   * "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem."
 * [An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials](https://eprint.iacr.org/2008/539.pdf)
 * [An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation](https://www.iacr.org/archive/eurocrypt2001/20450093.pdf)
 
 #### IDEMix — Zero Knowledge Proof's in Evernym—Indy
-* [IBM Identity Mixer](https://www.zurich.ibm.com/identity_mixer/) — [blog](https://idemix.wordpress.com/)
+* [IBM Identity Mixer](https://www.zurich.ibm.com/identity_mixer/) | [blog](https://idemix.wordpress.com/)
 * [Specification of the Identity Mixer Cryptographic Library](https://domino.research.ibm.com/library/cyberdig.nsf/papers/EEB54FF3B91C1D648525759B004FBBB1/$File/rz3730_revised.pdf)
 * [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
 * [AnonCreds: Anonymous credentials protocol implementation in python](https://github.com/hyperledger/indy-anoncreds)
@@ -190,11 +189,11 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
    * [Ethereum studio ConsenSys launches 'Internet-of-People' with digital IDs and assets secured on Ubuntu phones](http://www.ibtimes.co.uk/ethereum-studio-consensys-launches-internet-people-digital-ids-assets-secured-unbuntu-phones-1542620)
    * [uPort — Year in Review. What's to come in 2018](https://medium.com/uport/uport-year-in-review-whats-to-come-in-2018-15ccb9214439)
 * [Nuggets](http://www.nuggets.life/) — [whitepaper](https://nuggets.life/images/Nuggets-White-Paper.pdf)
-   — "is a blockchain platform giving users a single biometric tool for login, payment and identity verification. It stores an individual's information in a "personal cloud" in "zero-knowledge blockchain storage".
+   * "is a blockchain platform giving users a single biometric tool for login, payment and identity verification. It stores an individual's information in a "personal cloud" in "zero-knowledge blockchain storage".
 * [Jolocom](http://jolocom.com/) 
    * a "SmartWallet" for everyone to own their personal digital identity, using [Social Linked Data](https://github.com/solid/solid-spec), WebID, and verifiable claims standards, as well as Ethereum smart contracts. 
 * [Democracy Earth Foundation](http://democracy.earth/) — [sovereign.software](http://sovereign.software/)
-   — developing "Sovereign", a blockchain direct democracy tool using "vote" tokens to grant democratic participation rights to every human. A proof-of-individuality (POI) process based on peer-to-peer validation establishes that a self-sovereign identity is uniquely tied to a single person. The project introduces a number of interesting socio-technical concepts such as "Social Smart Contract", "Initial Rights Offering", and "Cryptographically Induced Equality". Cooperation is happening with other decentralized identity initiatives such as Blockstack and uPort.
+   * developing "Sovereign", a blockchain direct democracy tool using "vote" tokens to grant democratic participation rights to every human. A proof-of-individuality (POI) process based on peer-to-peer validation establishes that a self-sovereign identity is uniquely tied to a single person. The project introduces a number of interesting socio-technical concepts such as "Social Smart Contract", "Initial Rights Offering", and "Cryptographically Induced Equality". Cooperation is happening with other decentralized identity initiatives such as Blockstack and uPort.
 * [Ockam](https://www.ockam.io/) — creating a ERC20 based platform that registers IOT devices to a blockchain to solve systemic security and interoperability problems.
 
 
@@ -211,8 +210,8 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 #### Canada
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
 * [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)_
-* [Verified Organization Network](https://vonx.io/) — [github](https://github.com/bcgov/von)(https://github.com/bcgov/theorgbook)
-   — "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims."
+* [Verified Organization Network](https://vonx.io/) — [github](https://github.com/bcgov/von)
+   * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims."
 
 #### Netherlands
 * [TU Delft helps develop digital ID for use on your phone](https://www.tudelft.nl/en/2018/tu-delft/tu-delft-helps-develop-digital-id-for-use-on-your-phone/)
@@ -230,15 +229,15 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
 
 #### Estonia
 * [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) — [id.ee](https://www.id.ee/)
-   — [Estonian Blockchain ID Card Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
+   * [Estonian Blockchain ID Card Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
 
 ### Data Wallet \ Marketplaces
 
-* [Pillar Project](http://pillarproject.io) — [grey—paper](https://pillarproject.io/documents/Pillar-Gray-Paper.pdf)
-   — planning to offer a "Personal Data Locker" consisting of a wallet, browser, and token exchange. Personal assets will be put on a blockchain, and "Pillar" tokens will be issued."
+* [Pillar Project](http://pillarproject.io) | [grey—paper](https://pillarproject.io/documents/Pillar-Gray-Paper.pdf)
+   * planning to offer a "Personal Data Locker" consisting of a wallet, browser, and token exchange. Personal assets will be put on a blockchain, and "Pillar" tokens will be issued."
 * [Aversafe](https://www.aversafe.com/) —"allows individuals to store personal details, work history, certificates and achievements. It leverages a permissioned blockchain for trusted audit and participation in the storage of attestation data separate from the actual data stored"
-* [Datum](https://datum.org) — [whitepaper](https://datum.org/assets/Datum-WhitePaper.pdf)
-   — "network allows anyone to store structured data on a smart contract blockchain. Data can optionally be bought and sold on a marketplace using the DAT token. Datum leverages BigchainDB and IPFS as data storage backends. All data is encrypted and protected using AES256-GCM.
+* [Datum](https://datum.org) | [whitepaper](https://datum.org/assets/Datum-WhitePaper.pdf)
+   * "network allows anyone to store structured data on a smart contract blockchain. Data can optionally be bought and sold on a marketplace using the DAT token. Datum leverages BigchainDB and IPFS as data storage backends. All data is encrypted and protected using AES256-GCM.
 * [ONTology](https://ont.io/) — "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
 
 
@@ -248,9 +247,9 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e)
 * [Civic](https://www.civic.com/)
 * [Proof of Authority](https://blockonomi.com/proof-of-authority/)
-* [Blockstack](https://blockstack.org/) — [github](https://github.com/blockstack) — [forum](https://forum.blockstack.org/)— [blog](https://blockstack.org/blog) — [twitter](https://twitter.com/blockstack)
-   — a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
-   — [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
+* [Blockstack](https://blockstack.org/) | [github](https://github.com/blockstack) | [forum](https://forum.blockstack.org/)| [blog](https://blockstack.org/blog) | [twitter](https://twitter.com/blockstack)
+   * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
+   * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
 * [Shocard](https://shocard.com/) — "Blockchain-Based Mobile Identity Platform"
 * [Danube Tech](http://danubetech.com/) — digital identity and personal data, including personal agents, semantic graphs, and blockchain identity.
 * [Cambridge Blockchain](http://cambridge-blockchain.com/) — Blockchain for validating secure digital identity documents, processing electronic signatures, and recording transactions."
@@ -260,31 +259,30 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
 * [Deloitte SmartID](http://www.deloitte.co.uk/smartid/)
 * [Internet of People](https://iop.global/) — "an open, decentralized infrastructure consisting of device-to-device communication, blockchain tokens, profile servers, and other components."
 * [Blockchain Helix](http://blockchain-helix.com) — [ico](https://ico.helix-orange.com/) — [whitepaper](https://ico.helix-orange.com/wp-content/uploads/2018/08/HELIX-Orange_Whitepaper_v1.5.pdf)
-   — "Identity as a Service", "Data as a Service" and "Blockchain as a Service" The company offers to increase the speed of KYC/AML processes while hughly decreasing the cost 
+   * "Identity as a Service", "Data as a Service" and "Blockchain as a Service" The company offers to increase the speed of KYC/AML processes while hughly decreasing the cost 
 * [The Humanized Internet](http://www.thehumanizedinternet.org/) — "to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity."
 * [Mydata](http://mydata.org/) — [papers](https://mydata.org/papers/) — [declaration](https://mydata.org/declaration/)
-   — goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
-   — [Consent](http://www.consent.global/) — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
+   * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
+   * [Consent](http://www.consent.global/) — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
 * ["Mooti"](https://mooti.co/) — [docs](https://docs.mooti.co/)
-   — offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features
+   * offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features
 * [Banqu](http://www.banquapp.com/) —"focuses on establishing 'economic identity' for those who are excluded from the global economy."
 * [Vida Identity](https://getvida.io) — "enables distributed key revocation and reissuance. Access to data is always permissioned across applications and services."
 * [ÆTERNITY](http://aeternity.com/) — [github](https://github.com/aeternity/protocol) — Is focusing on improved smart contract capabilities such as better scalability and easier integration of off-chain data. It offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema.org's data structures are used for representing data about persons and organizations."
-   — [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
+   * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
 * [Spidchain](http://www.spidchain.com/) — [whitepaper](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)
-   — "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
+   * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
 * [Reddcoin — Redd-ID](https://www.reddcoin.com/service/redd-id/) — [forum](https://www.reddcointalk.org/) — [PoSV whitepaper](https://www.reddcoin.com/papers/PoSV.pdf)
-   — a naming service that allows usernames to be registered on the Reddcoin blockchain. "]
-* [Pro-civis]
-(https://procivis.ch) — "e-government as a service" platform called "eID+". It enables citizens to get an official, electronic Citizen-ID on a mobile app, which can be used for secure and convenient login to websites, and the electronic signing and safe storage of documents. Verification providers such as state authorities can use a web backend or an API to attest to the correctness of a citizen's personal data. 
-   — The platform includes the [Vetri](https://vetri.global/) wallet and marketplace. 'Earn extra income and rewards by joining the data economy.'"
+   * a naming service that allows usernames to be registered on the Reddcoin blockchain.
+* [Pro-civis](https://procivis.ch) — "e-government as a service" platform called "eID+". It enables citizens to get an official, electronic Citizen-ID on a mobile app, which can be used for secure and convenient login to websites, and the electronic signing and safe storage of documents. Verification providers such as state authorities can use a web backend or an API to attest to the correctness of a citizen's personal data. 
+   * The platform includes the [Vetri](https://vetri.global/) wallet and marketplace. 'Earn extra income and rewards by joining the data economy.'"
 * [Cicada](https://github.com/the-laughing-monkey/cicada-platform)
-   — a Dapp platform built for a "direct democracy" use case. It envisions using iris scans to generate decentralized universal identifiers ("HUIDs") for every human on the planet, a method referred to as "biocryptics". "HUIDs" can have "sub-IDs" to support selective disclosure. PII can be stored in an "info wallet". Key parts of the system also include smart contracts, zero-knowledge proofs, mixnets, and more."
+   * a Dapp platform built for a "direct democracy" use case. It envisions using iris scans to generate decentralized universal identifiers ("HUIDs") for every human on the planet, a method referred to as "biocryptics". "HUIDs" can have "sub-IDs" to support selective disclosure. PII can be stored in an "info wallet". Key parts of the system also include smart contracts, zero-knowledge proofs, mixnets, and more."
 * [BitID](https://github.com/bitid/bitid) — an authentication protocol based on Bitcoin identities, supported by some of the Bitcoin wallets. It authenticates Bitcoin addresses by signing a cryptographic challenge 
 * [Blockcerts](https://www.blockcerts.org) — open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [started to issue](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
 * [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
 * [I/O Digital Foundation](https://iodigital.io/) [whitepaper](https://simplebooklet.com/iocoinwhitepaper#page=0)
-   — "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
+   * "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
 
 ### Other
 
@@ -318,7 +316,7 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
 * [The Knowledge Complexity Of Interactive Proofs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&)
 
 ### People
-* [Christopher Allen](http://www.lifewithalacrity.com/) — [twitter](https://twitter.com/ChristopherA) — [github](https://github.com/ChristopherA"]
+* [Christopher Allen](http://www.lifewithalacrity.com/) — [twitter](https://twitter.com/ChristopherA) — [github](https://github.com/ChristopherA)
 * [Phil Windley](https://windley.com) — [twitter](https://twitter.com/windley)
 * [Manu Sporny](https://digitalbazaar.com/blog/) — [twitter](https://twitter.com/manusporny)
 * [Kaliya-Identity Woman](https://identitywoman.net/) — [twitter](https://twitter.com/IdentityWoman)
