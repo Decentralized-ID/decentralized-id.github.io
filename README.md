@@ -17,9 +17,10 @@ Please let me know if you think any of these resources are just as well left out
 * [The Relationship Between Blockchain and Digital Identity](http://www.gsma.com/personaldata/the-relationship-between-blockchain-and-digital-identity)
 * [Identity as a Bottleneck for Blockchain](https://blockchainhub.net/blog/blog/decentralized-identity-blockchain/)
 
+![](http://imgur.com/3zz62kpl.png)
 
 ### IIW
-* [Internet Identity Workshop](http://www.internetidentityworkshop.com/)
+* [Internet Identity Workshop](http://www.internetidentityworkshop.com/) | [twitter](https://twitter.com/idworkshop)
 * [IIW — Wiki](http://iiw.idcommons.net/Main_Page)
 * [Identity on the Blockchain: Perils and Promise](https://www.slideshare.net/ChristopherA/identity-of-the-blockchain-perils-and-promise)
 
@@ -40,7 +41,7 @@ Please let me know if you think any of these resources are just as well left out
 
 
 ### RWoT
-Description = "The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.\n\nBut some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it."
+"The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.\n\nBut some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it."
 
 * [WebOfTrust.info](http://www.WebOfTrust.info) - [on github](https://github.com/WebOfTrustInfo/)
 * [WebofTrust - Self Sovereign ID - Github](https://github.com/WebOfTrustInfo/self-sovereign-identity)
