@@ -1,4 +1,5 @@
 # awesome-decentralized-id —Draft
+Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
 
 Much appreciation to Peacekeeper's [blockchain-identity](https://github.com/peacekeeper/blockchain-identity) and the [WebOfTrustInfo](https://github.com/WebOfTrustInfo/) repositories, to which this document is indebted. 
 
@@ -8,7 +9,7 @@ This is a skeleton, around which I will fill in some background information; hig
 
 Please let me know if you think any of these resources are just as well left out, or any that you'd like to see included.
 
-## Awesome Self-Sovereign Identity, Decentralized-ID, and Blockchain-ID related resources
+## Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
 
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants,'—[Jerry Cuomo - IBM](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
 
