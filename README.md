@@ -4,7 +4,7 @@ Much appreciation to [Peacekeeper]((https://github.com/peacekeeper) for maintain
 
 **Collaboration Welcome**
 
-This is a skeleton, around which I will fill in some background information, highlight the chosen resources, along with some rearrangement, and justification for the way it's organized.
+This is a skeleton, around which I will fill in some background information, highlight the chosen resources, along with some rearranging, and justification for the way it's organized.
 
 ## Awesome Self-Sovereign Identity, Decentralized-ID, and Blockchain-ID related resources
 
