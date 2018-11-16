@@ -71,7 +71,7 @@ Description = "The Web of Trust is a buzzword for a new model of decentralized s
 #### DIF
 
 * [Decentralized Identity Foundation](http://identity.foundation/)
-Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","securekey","tierion","gem","blockstack","evernym","hyperledger","civic","accenture","danube","netki","rsa","consent","iota","muti","aetna","r3","aunthenteq","blockchain-foundry","validatedid","1kosmos","gamecredits","auth0","onfido","jolocom","dominode","enigma","humanized-internet","pillar","meeco","veridiumid","id2020","nuggets","diid","meta","kyc-chain","blockpass","ockam","nuid","bayonet","equinix","kyc"]
+"microsoft","uport","ibm","sovrin","securekey","blockstack","evernym","hyperledger","civic","accenture","danube","netki","rsa","consent","iota","muti","r3","aunthenteq","blockchain-foundry","validatedid","1kosmos","gamecredits","auth0","jolocom","enigma","humanized-internet","pillar","id2020","nuggets"
    * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md)
    * Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID)
@@ -181,7 +181,7 @@ Tags = ["organizations","decentralized-id","microsoft","uport","ibm","sovrin","s
 * [Different Approaches to Ethereum Identity Standards](https://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87) 
 * [Managing Identity with a UI—ERC-725](https://medium.com/originprotocol/managing-identity-with-a-ui-for-erc-725-5c7422b38c09)
 * [Ethereum ERC725 Blockchain Based, Self-Sovereign Identity Management](https://bitcoinexchangeguide.com/ethereum-erc725-blockchain-based-self-sovereign-identity-management/)
-* [A Decentralized Approach to Blockcerts Credential Revocation][https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md]
+* [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
 
 
 #### Applications 
