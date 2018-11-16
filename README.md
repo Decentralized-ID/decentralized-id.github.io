@@ -326,7 +326,8 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
 ### Resources
 * [Blockchain Identity — peacekeeper](https://github.com/peacekeeper/blockchain-identity)
 * [WebOfTrust.info — github](https://github.com/WebOfTrustInfo/)
-* [crypt0library.net](http://crypt0library.net)
+
+### Brought to you by the [crypt0library.net](http://crypt0library.net) \ [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
 
 ---
 
