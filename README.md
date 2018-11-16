@@ -334,8 +334,8 @@ Please let me know if you think any of these resources are just as well left out
 * [Markus Sabadello —Peacekeeper](https://danubetech.com/) | [twitter](https://twitter.com/peacekeeper) | [github](https://github.com/peacekeeper) | [medium](https://medium.com/@markus.sabadello)
 
 ### Resources
-* [Blockchain Identity — peacekeeper](https://github.com/peacekeeper/blockchain-identity)
-* [WebOfTrust.info — github](https://github.com/WebOfTrustInfo/)
+* [github.com/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
+* [github.com/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [identitywoman.net](https://identitywoman.net/)
 * [crypt0library.net](http://crypt0library.net) | [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
 
