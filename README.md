@@ -321,6 +321,7 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
 * [Christopher Allen](http://www.lifewithalacrity.com/) — [twitter](https://twitter.com/ChristopherA) — [github](https://github.com/ChristopherA"]
 * [Phil Windley](https://windley.com) — [twitter](https://twitter.com/windley)
 * [Manu Sporny](https://digitalbazaar.com/blog/) — [twitter](https://twitter.com/manusporny)
+* [Kaliya-Identity Woman](https://identitywoman.net/) — [twitter](https://twitter.com/IdentityWoman)
 
 ### Resources
 * [Blockchain Identity — peacekeeper](https://github.com/peacekeeper/blockchain-identity)
