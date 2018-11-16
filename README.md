@@ -127,7 +127,7 @@ Description = "The Web of Trust is a buzzword for a new model of decentralized s
 
 
 ### Sovrin
-* [Sovrin](https://sovrin.org/) | [Forun](https://forum.sovrin.org/) | [Slack](https://sovrin-slack-signup.herokuapp.com/)
+* [Sovrin](https://sovrin.org/) | [Forum](https://forum.sovrin.org/) | [Slack](https://sovrin-slack-signup.herokuapp.com/)
 * [Sovrin - Library](https://sovrin.org/library/)
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
 * [Sovrin: digital identities in the blockchain era](https://sovrin.org/library/sovrin-digital-identities-in-the-blockchain-era/)
@@ -275,7 +275,7 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
    * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
 * [Spidchain](http://www.spidchain.com/) — [whitepaper](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
-* [Reddcoin — Redd-ID](https://www.reddcoin.com/service/redd-id/) — [forum](https://www.reddcointalk.org/) — [PoSV whitepaper](https://www.reddcoin.com/papers/PoSV.pdf)
+* [Reddcoin — Redd-ID](https://www.reddcoin.com/service/redd-id/) | [forum](https://www.reddcointalk.org/) | [PoSV whitepaper](https://www.reddcoin.com/papers/PoSV.pdf)
    * a naming service that allows usernames to be registered on the Reddcoin blockchain.
 * [Pro-civis](https://procivis.ch) — "e-government as a service" platform called "eID+". It enables citizens to get an official, electronic Citizen-ID on a mobile app, which can be used for secure and convenient login to websites, and the electronic signing and safe storage of documents. Verification providers such as state authorities can use a web backend or an API to attest to the correctness of a citizen's personal data. 
    * The platform includes the [Vetri](https://vetri.global/) wallet and marketplace. 'Earn extra income and rewards by joining the data economy.'"
@@ -319,10 +319,10 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
 * [The Knowledge Complexity Of Interactive Proofs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&)
 
 ### People
-* [Christopher Allen](http://www.lifewithalacrity.com/) — [twitter](https://twitter.com/ChristopherA) — [github](https://github.com/ChristopherA)
-* [Phil Windley](https://windley.com) — [twitter](https://twitter.com/windley)
-* [Manu Sporny](https://digitalbazaar.com/blog/) — [twitter](https://twitter.com/manusporny)
-* [Kaliya-Identity Woman](https://identitywoman.net/) — [twitter](https://twitter.com/IdentityWoman)
+* [Christopher Allen](http://www.lifewithalacrity.com/) | [twitter](https://twitter.com/ChristopherA) | [github](https://github.com/ChristopherA)
+* [Phil Windley](https://windley.com) | [twitter](https://twitter.com/windley)
+* [Manu Sporny](https://digitalbazaar.com/blog/) | [twitter](https://twitter.com/manusporny)
+* [Kaliya-Identity Woman](https://identitywoman.net/) | [twitter](https://twitter.com/IdentityWoman)
 * [Markus Sabadello —Peacekeeper](https://danubetech.com/) | [twitter](https://twitter.com/peacekeeper) | [github](https://github.com/peacekeeper)
 
 ### Resources
