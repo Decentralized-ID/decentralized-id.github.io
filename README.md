@@ -6,7 +6,7 @@ Much appreciation for [WebOfTrustInfo](https://github.com/WebOfTrustInfo/) and P
 
 This is a skeleton, around which I will fill some background information; highlight the chosen resources; rearrange things a bit, and provide some justification for its layout.
 
-Please let me know about any of the links are depreciated, and about any you'd like to see included.
+Please let me know about any of the links are depreciated, and anything you'd like to see included.
 
 ## Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
 
