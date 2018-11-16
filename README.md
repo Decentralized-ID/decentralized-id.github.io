@@ -91,8 +91,8 @@ Please let me know about any of the links are depreciated, and about any you'd l
 
 * [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/)
    * [Verifiable Claims Working Group Charter](https://www.w3.org/2017/vc/charter.html)
-* [CREDENTIALS COMMUNITY GROUP -w3](https://www.w3.org/community/credentials/) -[W3C CCG](https://w3c-ccg.github.io/)
-* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) -[github](https://github.com/w3c/vc-data-model)
+* [The W3C CREDENTIALS COMMUNITY GROUP](https://www.w3.org/community/credentials/) | [W3C CCG](https://w3c-ccg.github.io/)
+* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) | [github](https://github.com/w3c/vc-data-model)
 * [Verifiable Claims Use Cases 1.0](https://w3c.github.io/vc-use-cases/)
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
