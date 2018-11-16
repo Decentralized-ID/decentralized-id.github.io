@@ -329,7 +329,7 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
 * [crypt0library.net](http://crypt0library.net) — [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
 ---
 
-### Brought to you by the [crypt0library.net](http://crypt0library.net) \ [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
+### Brought to you by the [crypt0library.net](http://crypt0library.net) — [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
 ### BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 Any contributions greatly appreciated!!
 
