@@ -4,7 +4,7 @@ Much appreciation to [Peacekeeper](https://github.com/peacekeeper) for maintaini
 
 **Collaboration Welcome**
 
-This is a skeleton, around which I will fill in some background information, highlight the chosen resources, along with some rearranging, and justification for the way it's organized.
+This is a skeleton, around which I will fill in some background information; highlight the chosen resources; rearrange things a bit, and provide some justification for the way it's organized.
 
 Please let me know if you think any of these resources are just as well left out, or any that you'd like to see included.
 
@@ -34,7 +34,7 @@ Please let me know if you think any of these resources are just as well left out
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
 * [Self-Sovereign Identity = (individual control across any number of authorities)](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
 * [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
-* [@ChristopherA on Self-Sovereign ID —A Tweetstorm](https://twitter.com/ChristopherA/status/989120215702261761)
+* [@ChristopherA “Self-Sovereign Identity: A Progress Report” —A Tweetstorm](https://twitter.com/ChristopherA/status/989120215702261761)
 
 ### RWoT
 Description = "The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.\n\nBut some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it."
@@ -62,7 +62,7 @@ Description = "The Web of Trust is a buzzword for a new model of decentralized s
 ### UN — ID2020 — DIF — WIN — BFI
 
 * [Bitnation](https://bitnation.co/) — [refugees.bitnation.co](https://refugees.bitnation.co/)
-   * "seeks to establish the concept of \"world citizenship\" through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering 'blockchain emergency IDs' to refugees."
+   * "seeks to establish the concept of "world citizenship" through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering 'blockchain emergency IDs' to refugees."
 * [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)
 * [World Identity Netowork —Blockchain for Impact](https://win.systems/)
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
@@ -76,10 +76,10 @@ Description = "The Web of Trust is a buzzword for a new model of decentralized s
 #### DIF
 
 * [Decentralized Identity Foundation](http://identity.foundation/)
-"microsoft","uport","ibm","sovrin","securekey","blockstack","evernym","hyperledger","civic","accenture","danube","netki","rsa","consent","iota","muti","r3","aunthenteq","blockchain-foundry","validatedid","1kosmos","gamecredits","auth0","jolocom","enigma","humanized-internet","pillar","id2020","nuggets"
-   * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
+   - Members include: Microsoft, uPort, IBM, Sovrin, SecureKey, Blockstack, Evernym, Hyperledger, Civic, Accenture, Danube, netki, RSA, Consent, IOTA, Muti, r3, Aunthenteq, Blockchain-foundry, Validatedid, 1kosmos, gamecredits, auth0, jolocom, Enigma, Humanized-internet, Pillar, id2020, Nuggets.
+* [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md)
-   * Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID)
+   - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID).
 
 ### w3c
 
@@ -129,7 +129,7 @@ Description = "The Web of Trust is a buzzword for a new model of decentralized s
 
 
 ### Sovrin
-* [Sovrin](https://sovrin.org/) | [Forun](https://forum.sovrin.org/) | [Slack](https://sovrin-slack-signup.herokuapp.com/)
+* [Sovrin](https://sovrin.org/) | [Forum](https://forum.sovrin.org/) | [Slack](https://sovrin-slack-signup.herokuapp.com/)
 * [Sovrin - Library](https://sovrin.org/library/)
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
 * [Sovrin: digital identities in the blockchain era](https://sovrin.org/library/sovrin-digital-identities-in-the-blockchain-era/)
@@ -210,7 +210,7 @@ Description = "The Web of Trust is a buzzword for a new model of decentralized s
 
 
 
-### State
+### State Led Initiatives
 
 #### Canada
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
@@ -277,7 +277,7 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
    * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
 * [Spidchain](http://www.spidchain.com/) — [whitepaper](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
-* [Reddcoin — Redd-ID](https://www.reddcoin.com/service/redd-id/) — [forum](https://www.reddcointalk.org/) — [PoSV whitepaper](https://www.reddcoin.com/papers/PoSV.pdf)
+* [Reddcoin — Redd-ID](https://www.reddcoin.com/service/redd-id/) | [forum](https://www.reddcointalk.org/) | [PoSV whitepaper](https://www.reddcoin.com/papers/PoSV.pdf)
    * a naming service that allows usernames to be registered on the Reddcoin blockchain.
 * [Pro-civis](https://procivis.ch) — "e-government as a service" platform called "eID+". It enables citizens to get an official, electronic Citizen-ID on a mobile app, which can be used for secure and convenient login to websites, and the electronic signing and safe storage of documents. Verification providers such as state authorities can use a web backend or an API to attest to the correctness of a citizen's personal data. 
    * The platform includes the [Vetri](https://vetri.global/) wallet and marketplace. 'Earn extra income and rewards by joining the data economy.'"
@@ -321,10 +321,10 @@ Description = "is a non-profit consortium building a national blockchain ecosyst
 * [The Knowledge Complexity Of Interactive Proofs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&)
 
 ### People
-* [Christopher Allen](http://www.lifewithalacrity.com/) — [twitter](https://twitter.com/ChristopherA) — [github](https://github.com/ChristopherA)
-* [Phil Windley](https://windley.com) — [twitter](https://twitter.com/windley)
-* [Manu Sporny](https://digitalbazaar.com/blog/) — [twitter](https://twitter.com/manusporny)
-* [Kaliya-Identity Woman](https://identitywoman.net/) — [twitter](https://twitter.com/IdentityWoman)
+* [Christopher Allen](http://www.lifewithalacrity.com/) | [twitter](https://twitter.com/ChristopherA) | [github](https://github.com/ChristopherA)
+* [Phil Windley](https://windley.com) | [twitter](https://twitter.com/windley)
+* [Manu Sporny](https://digitalbazaar.com/blog/) | [twitter](https://twitter.com/manusporny)
+* [Kaliya-Identity Woman](https://identitywoman.net/) | [twitter](https://twitter.com/IdentityWoman)
 * [Markus Sabadello —Peacekeeper](https://danubetech.com/) | [twitter](https://twitter.com/peacekeeper) | [github](https://github.com/peacekeeper) | [medium](https://medium.com/@markus.sabadello)
 
 ### Resources
