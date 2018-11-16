@@ -296,16 +296,15 @@ Please let me know if you think any of these resources are just as well left out
 * [I/O Digital Foundation](https://iodigital.io/) [whitepaper](https://simplebooklet.com/iocoinwhitepaper#page=0)
    * "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
 
+![](https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png)
+
+2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
+
 ### Other
 
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)
 * [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — Video of DEVCON1
 * [Federal Funding for Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html)
-
-
-![](https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png)
-
-2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
 
 
 ### Reports
