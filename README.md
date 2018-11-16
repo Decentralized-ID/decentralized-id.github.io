@@ -337,7 +337,7 @@ Please let me know if any of these resources are just as well left out, or if th
 
 ---
 
-### Brought to you by the [crypt0library.net](http://crypt0library.net) | [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
+### Brought to you by: [crypt0library.net](http://crypt0library.net) | [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
 #### BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 Any contribution is appreciated!!
 
