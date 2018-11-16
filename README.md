@@ -4,7 +4,7 @@ Much appreciation to [WebOfTrustInfo](https://github.com/WebOfTrustInfo/) and Pe
 
 **[Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributions.md)**
 
-This is a skeleton, around which I will fill some background information; highlight the chosen resources; rearrange things a bit, and provide some justification for the way it's organized.
+This is a skeleton, around which I will fill some background information; highlight the chosen resources; rearrange things a bit, and provide some justification for its layout.
 
 Please let me know about any of the links are depreciated, and about any you'd like to see included.
 
