@@ -34,9 +34,9 @@ Description = "What on Earth is ERC725? The Answer to the Question of Self-Sover
 Tags = ["erc","erc-725","ethereum","origin","self-sovereign","blockchain-id","blog"]
 
 ["Hyperledger Indy - Distributed ledger and utility library"]
-Link = ["https://www.hyperledger.org/projects/hyperledger-indy"]
+Link = ["https://www.hyperledger.org/projects/hyperledger-indy","https://wiki.hyperledger.org/projects/indy/documentation"]
 Description = "Hyperledger Indy is a distributed ledger, purpose-built for decentralized identity. It provides tools, libraries, and reusable components for creating and using independent digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other \"silo.\""
-Tags = ["evernym","tykn","hyperledger","indy","sovrin","blockchain-id","did","self-sovereign","decentralized-id","protocol"]
+Tags = ["evernym","tykn","hyperledger","indy","sovrin","blockchain-id","did","self-sovereign","decentralized-id","protocol","wiki"]
 
 ["Blockchains and Data Protection in the European Union"]
 Link = ["https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3080322"]
