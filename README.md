@@ -178,7 +178,7 @@ Please let me know about any of the links are depreciated, and about any you'd l
 #### IDEMix — Zero Knowledge Proof's in Evernym—Indy
 
 >Identity Mixer is not directly (re)implemented by Sovrin, but its cryptographic foundations are very similar, and Sovrin’s implementation includes most of its extended features (predicates, multi-credential, revocation, advanced issuance…). One of the researchers who helped to create Identity Mixer is on Sovrin’s Technical Governance Board and has offered insight to keep the implementations aligned on goals and methods. There is a separate effort to provide Identity Mixer features within Hyperledger Fabric, I believe–though I don’t know the details. 
->* [forum.sovrin.org/t/how-idemex-is-implemented-in-sovrin-indy](https://forum.sovrin.org/t/how-idemex-is-implemented-in-sovrin-indy/)
+>-[forum.sovrin.org/t/how-idemex-is-implemented](https://forum.sovrin.org/t/how-idemex-is-implemented-in-sovrin-indy/)
 
 * [IBM Identity Mixer](https://www.zurich.ibm.com/identity_mixer/) | [blog](https://idemix.wordpress.com/)
 * [Specification of the Identity Mixer Cryptographic Library](https://domino.research.ibm.com/library/cyberdig.nsf/papers/EEB54FF3B91C1D648525759B004FBBB1/$File/rz3730_revised.pdf)
