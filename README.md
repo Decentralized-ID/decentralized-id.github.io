@@ -369,6 +369,8 @@ Please let me know about any of the links are depreciated, and anything you'd li
 #### BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 Any contribution is appreciated!!
 
+![](http://imgur.com/xMd9r0rl.png)
+
 —infominer@protonmail.com
 
 
