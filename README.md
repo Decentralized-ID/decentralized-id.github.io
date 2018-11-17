@@ -43,6 +43,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [WebOfTrust.info](http://www.WebOfTrust.info) - [on github](https://github.com/WebOfTrustInfo/)
 * [WebofTrust - Self Sovereign ID - Github](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 * [Creating the New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf)
+* [Framework for the Comparison of Identity Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/Framework-for-Comparison-of-Identity-Systems.md)
 * [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md)
 * [The DCS Theorem](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/dcs-theorem/The-DCS-Theorem.md) — We use the triangle to show decentralized consensus systems, like blockchains, can have _Decentralization_, _Consensus_, or _Scale_, but not all three properties simultaneously.
 * [Digital Verification Advancements at RWoT III](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/digital-verification-advancements.pdf)
@@ -79,7 +80,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 
 ### DIF
 
-* [Decentralized Identity Foundation](http://identity.foundation/)
+* [Decentralized Identity Foundation](http://identity.foundation/) | [github](https://github.com/decentralized-identity) | [twitter](https://twitter.com/DecentralizedID) | [medium](https://medium.com/decentralized-identity)
    - Members include: Microsoft, uPort, IBM, Sovrin, SecureKey, Blockstack, Evernym, Hyperledger, Civic, Accenture, Danube, netki, RSA, Consent, IOTA, Muti, r3, Aunthenteq, Blockchain-foundry, Validatedid, 1kosmos, gamecredits, auth0, jolocom, Enigma, Humanized-internet, Pillar, id2020, Nuggets.
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md)
@@ -181,6 +182,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 
 ### IBM
 
+* [https://github.com/IBM-Blockchain-Identity](github.com/IBM-Blockchain-Identity)
 * [How do we start tackling the existing identity problem](https://www.ibm.com/blogs/blockchain/2018/06/how-do-we-start-tackling-the-existing-identity-problem/)
 * [Swipe Right on Verifiably Credentials](https://developer.ibm.com/code/2018/05/22/swipe-right-on-verifiable-credentials/)
 * [WISeKey fully deployed its CertifyID integrating Digital Identity with Blockchain technology](https://globenewswire.com/news-release/2018/07/11/1535718/0/en/WISeKey-fully-deployed-its-CertifyID-integrating-Digital-Identity-with-Blockchain-technology.html)
@@ -202,14 +204,14 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — Video of DEVCON1
 
 #### Ethereum Identity Applications 
-* [uPort](https://www.uport.me/)
+* [uPort](https://www.uport.me/) | [github](https://github.com/uport-project/)
    * [Ethereum studio ConsenSys launches 'Internet-of-People' with digital IDs and assets secured on Ubuntu phones](http://www.ibtimes.co.uk/ethereum-studio-consensys-launches-internet-people-digital-ids-assets-secured-unbuntu-phones-1542620)
    * [Year in Review. What's to come in 2018](https://medium.com/uport/uport-year-in-review-whats-to-come-in-2018-15ccb9214439)
 * [Nuggets](http://www.nuggets.life/) | [whitepaper](https://nuggets.life/images/Nuggets-White-Paper.pdf)
    * "is a blockchain platform giving users a single biometric tool for login, payment and identity verification. It stores an individual's information in a "personal cloud" in "zero-knowledge blockchain storage".
 * [Jolocom](http://jolocom.com/) 
    * a "SmartWallet" for everyone to own their personal digital identity, using [Social Linked Data](https://github.com/solid/solid-spec), WebID, and verifiable claims standards, as well as Ethereum smart contracts. 
-* [Democracy Earth Foundation](http://democracy.earth/) | [sovereign.software](http://sovereign.software/)
+* [Democracy Earth Foundation](http://democracy.earth/) | [github](https://github.com/DemocracyEarth/paper)| [sovereign.software](http://sovereign.software/)
    * developing "Sovereign", a blockchain direct democracy tool using "vote" tokens to grant democratic participation rights to every human. A proof-of-individuality (POI) process based on peer-to-peer validation establishes that a self-sovereign identity is uniquely tied to a single person. The project introduces a number of interesting socio-technical concepts such as "Social Smart Contract", "Initial Rights Offering", and "Cryptographically Induced Equality". Cooperation is happening with other decentralized identity initiatives such as Blockstack and uPort.
 * [Ockam](https://www.ockam.io/) — creating a ERC20 based platform that registers IOT devices to a blockchain to solve systemic security and interoperability problems.
 
@@ -295,7 +297,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [Aversafe](https://www.aversafe.com/) —"allows individuals to store personal details, work history, certificates and achievements. It leverages a permissioned blockchain for trusted audit and participation in the storage of attestation data separate from the actual data stored"
 * [Datum](https://datum.org) | [whitepaper](https://datum.org/assets/Datum-WhitePaper.pdf)
    * "network allows anyone to store structured data on a smart contract blockchain. Data can optionally be bought and sold on a marketplace using the DAT token. Datum leverages BigchainDB and IPFS as data storage backends. All data is encrypted and protected using AES256-GCM.
-* [ONTology](https://ont.io/) — "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
+* [ONTology](https://ont.io/) | [github](https://github.com/ontio/ontology-DID)— "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
 
 
 ![](https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png)
@@ -312,9 +314,11 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [IDENTITY MATTERS](https://cboxxtest.files.wordpress.com/2017/09/cboxxidentitymatters04.pdf)
 * [Accenture: ID2020: DIGITAL IDENTITY with Blockchain and Biometrics](https://www.accenture.com/us-en/insight-blockchain-id2020)
 * [Privacy-Preserving Authentication, Another Reason to Care about Zero-Knowledge Proofs —slideshare](https://www.slideshare.net/eralcnoslen/privacypreserving-authentication-another-reason-to-care-about-zeroknowledge-proofs)
+* [r3- Identity in Depth](https://www.r3.com/wp-content/uploads/2017/06/Identity_indepth_r3.pdf)
 
 
 ### Research-Papers
+* [Establishing Identity Without Certification Authorities](http://irl.cs.ucla.edu/~yingdi/pub/papers/Ellison-OldFriend-USENIX-Security-1996.pdf)
 * [A First Look at Identity Management Schemes on the Blockchain](https://arxiv.org/pdf/1801.03294.pdf)
 * [ChainAnchor — Anonymous Identities for Permissioned Blokchains](http://connection.mit.edu/wp-content/uploads/sites/29/2014/12/Anonymous-Identities-for-Permissioned-Blockchains2.pdf)
 * [Decentralizing Privacy: Using Blockchain to Protect Personal Data](http://web.media.mit.edu/~guyzys/data/ZNP15.pdf)
