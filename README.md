@@ -100,6 +100,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 
 ![](http://imgur.com/Lz6RTysl.png)
 
+* [World Wide Web Consortium - W3C](https://www.w3.org/) | [twitter](https://twitter.com/w3c) | [github](https://github.com/w3c)
 * [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/)
    * [Verifiable Claims Working Group Charter](https://www.w3.org/2017/vc/charter.html)
 * [The W3C CREDENTIALS COMMUNITY GROUP](https://www.w3.org/community/credentials/) | [W3C CCG](https://w3c-ccg.github.io/)
@@ -139,7 +140,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 
 ![](http://untangled.world/wp-content/uploads/2017/08/everynym-logo-1400x357.png)
 
-* [Evernym](https://www.evernym.com/)
+* [Evernym](https://www.evernym.com/) | [twitter](https://twitter.com/evernym)
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
 * [Is Self-Sovereign Identity the ultimate GDPR compliance tool? (1 of 3)](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) -[2](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437) -[3](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)
 
@@ -147,8 +148,8 @@ Please let me know about any of the links are depreciated, and anything you'd li
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
-* [Sovrin](https://sovrin.org/) | [Forum](https://forum.sovrin.org/) | [Slack](https://sovrin-slack-signup.herokuapp.com/)
-* [Sovrin - Library](https://sovrin.org/library/)
+* [Sovrin](https://sovrin.org/) | [Forum](https://forum.sovrin.org/) | [Slack](https://sovrin-slack-signup.herokuapp.com/) | [twitter](https://twitter.com/SovrinID) | [github](https://github.com/sovrin-foundation/sovrin)
+* [Sovrin - Library](https://sovrin.org/library/) 
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
 * [Sovrin: digital identities in the blockchain era](https://sovrin.org/library/sovrin-digital-identities-in-the-blockchain-era/)
 * [Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust](https://sovrin.org/wp-content/uploads/Sovrin-Protocol-and-Token-White-Paper.pdf)
@@ -160,7 +161,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 
 ![](http://imgur.com/1uO0AWll.png)
 
-* [The Future of Resilient Identity](https://tykn.tech/)
+* [The Future of Resilient Identity](https://tykn.tech/) | [twitter](https://twitter.com/Tykn_tech) | [github](https://github.com/tkyn)
 * [Tykn: Extended Overview](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)
 * [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
 
@@ -179,7 +180,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 
 ![](https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png)
 
-* [Hyperledger Indy - Distributed ledger and utility library](https://www.hyperledger.org/projects/hyperledger-indy)
+* [Hyperledger Indy - Distributed ledger and utility library](https://www.hyperledger.org/projects/hyperledger-indy) | [twitter](https://twitter.com/Hyperledger)
 * [Indy — wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy)
@@ -227,7 +228,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — Video of DEVCON1
 
 #### Ethereum Identity Applications 
-* [uPort](https://www.uport.me/) | [github](https://github.com/uport-project/)
+* [uPort](https://www.uport.me/) | [github](https://github.com/uport-project/) | [twitter](https://twitter.com/uport_me)
    * [Ethereum studio ConsenSys launches 'Internet-of-People' with digital IDs and assets secured on Ubuntu phones](http://www.ibtimes.co.uk/ethereum-studio-consensys-launches-internet-people-digital-ids-assets-secured-unbuntu-phones-1542620)
    * [Year in Review. What's to come in 2018](https://medium.com/uport/uport-year-in-review-whats-to-come-in-2018-15ccb9214439)
 * [Nuggets](http://www.nuggets.life/) | [whitepaper](https://nuggets.life/images/Nuggets-White-Paper.pdf)
@@ -248,7 +249,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 #### Canada
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
 * [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
-* [Verified Organization Network](https://vonx.io/) | [github](https://github.com/bcgov/von)
+* [Verified Organization Network](https://vonx.io/) | [github](https://github.com/bcgov/von) 
    * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims."
 
 #### Netherlands
