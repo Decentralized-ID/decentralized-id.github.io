@@ -1,6 +1,6 @@
 # awesome-decentralized-id —Draft
 
-Much appreciation for [WebOfTrustInfo](https://github.com/WebOfTrustInfo/) and Peacekeeper's [blockchain-identity](https://github.com/peacekeeper/blockchain-identity) repositories, to which this document is indebted. 
+Much appreciation for [WebOfTrustInfo](https://github.com/WebOfTrustInfo/) and the [blockchain-identity](https://github.com/peacekeeper/blockchain-identity) repositories, to which this document is indebted. 
 
 **[Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributions.md)**
 
