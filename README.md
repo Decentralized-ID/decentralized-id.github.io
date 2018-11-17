@@ -16,6 +16,9 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [Identity as a Bottleneck for Blockchain](https://blockchainhub.net/blog/blog/decentralized-identity-blockchain/)
 
 ### IIW
+
+![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
+
 * [Internet Identity Workshop](http://www.internetidentityworkshop.com/) | [twitter](https://twitter.com/idworkshop)
 * [IIW — Wiki](http://iiw.idcommons.net/Main_Page)
 * [Identity on the Blockchain: Perils and Promise](https://www.slideshare.net/ChristopherA/identity-of-the-blockchain-perils-and-promise)
@@ -36,6 +39,9 @@ Please let me know about any of the links are depreciated, and anything you'd li
 
 
 ### Rebooting the Web of Trust —RWoT
+
+![](http://imgur.com/GdYLQjzl.png)
+
 >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
 >
 >But some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it. —[Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf)
@@ -59,10 +65,10 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [Protecting Digital Identities in Developing Countries](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)
 * [Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
 
+### United Nations 
+
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Sustainable_Development_Goals_chart.svg/787px-Sustainable_Development_Goals_chart.svg.png)
 
-
-### United Nations 
 * [Bitnation](https://bitnation.co/) — [refugees.bitnation.co](https://refugees.bitnation.co/)
    * Bitcoiners got involved with the Syrian refugee crisis, perhaps inspiring the UN who, soon after, began investigating the potential of blockchain for humanitarian aide.
    * "seeks to establish the concept of "world citizenship" through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering 'blockchain emergency IDs' to refugees." 
@@ -75,10 +81,14 @@ Please let me know about any of the links are depreciated, and anything you'd li
 
 ### ID2020
 
+![](http://imgur.com/XXFkwbRl.png)
+
 * [ID2020 Alliance](https://id2020.org/)
    * [Identity 2.0](https://id2020.org/news/2016/12/2/identity-20) 
 
 ### DIF
+
+![](http://imgur.com/PXGV6Xyl.png)
 
 * [Decentralized Identity Foundation](http://identity.foundation/) | [github](https://github.com/decentralized-identity) | [twitter](https://twitter.com/DecentralizedID) | [medium](https://medium.com/decentralized-identity)
    - Members include: Microsoft, uPort, IBM, Sovrin, SecureKey, Blockstack, Evernym, Hyperledger, Civic, Accenture, Danube, netki, RSA, Consent, IOTA, Muti, r3, Aunthenteq, Blockchain-foundry, Validatedid, 1kosmos, gamecredits, auth0, jolocom, Enigma, Humanized-internet, Pillar, id2020, Nuggets.
@@ -87,6 +97,8 @@ Please let me know about any of the links are depreciated, and anything you'd li
    - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID).
 
 ### w3c
+
+![](http://imgur.com/Lz6RTysl.png)
 
 * [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/)
    * [Verifiable Claims Working Group Charter](https://www.w3.org/2017/vc/charter.html)
@@ -97,6 +109,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
 
 ### DID
+
 
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md)
@@ -123,12 +136,17 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [Privacy Impact Assesment (PIA)](https://en.wikipedia.org/wiki/Privacy_Impact_Assessment) — a process which assists organizations in identifying and minimizing the privacy risks of new projects or policies.
 
 ### Evernym
+
+![](http://untangled.world/wp-content/uploads/2017/08/everynym-logo-1400x357.png)
+
 * [Evernym](https://www.evernym.com/)
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
 * [Is Self-Sovereign Identity the ultimate GDPR compliance tool? (1 of 3)](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) -[2](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437) -[3](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)
 
-
 ### Sovrin
+
+![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
+
 * [Sovrin](https://sovrin.org/) | [Forum](https://forum.sovrin.org/) | [Slack](https://sovrin-slack-signup.herokuapp.com/)
 * [Sovrin - Library](https://sovrin.org/library/)
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
@@ -139,6 +157,8 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 
 #### Tykn
+
+![](http://imgur.com/1uO0AWll.png)
 
 * [The Future of Resilient Identity](https://tykn.tech/)
 * [Tykn: Extended Overview](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)
@@ -154,7 +174,10 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [The Case for Decentralized Identity](http://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml)
 * [Building Your Business on Sovrin: Domain-Specific Trust Frameworks](http://www.windley.com/archives/2018/03/building_your_business_on_sovrin_domain-specific_trust_frameworks.shtml)
 
+
 ### Indy
+
+![](https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png)
 
 * [Hyperledger Indy - Distributed ledger and utility library](https://www.hyperledger.org/projects/hyperledger-indy)
 * [Indy — wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
