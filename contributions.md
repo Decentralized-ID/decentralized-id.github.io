@@ -7,7 +7,6 @@ Help wanted:
 It'd be nice to talk w someone who's familiar with the early history such as *exactly* when "Self Sovereign" and the relationshiop between IIW and RWoT.
 
 Generally speaking, it would be great to be able to chat with someone who has more of a history with DID community\movement. 
-   * I'm just a newb.
 
 I'm just a beginning freelancer trying to find a livable wage through my passion: Blockchain, Crypto, Decentralization, and Internet Research.  
 
