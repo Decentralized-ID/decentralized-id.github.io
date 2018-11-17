@@ -366,10 +366,11 @@ Please let me know about any of the links are depreciated, and anything you'd li
 ---
 
 ### Brought to you by: [crypt0library.net](http://crypt0library.net) | [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
-#### BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
-Any contribution is appreciated!!
 
+Any contribution is appreciated!!
+#### BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 ![](http://imgur.com/xMd9r0rl.png)
+
 
 —infominer@protonmail.com
 
