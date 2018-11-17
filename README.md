@@ -350,6 +350,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [The Knowledge Complexity Of Interactive Proofs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&)
 
 ### People
+\* note: There are probably others who deserve to be in this section, pls let me know. (in no particular order)
 * [Christopher Allen](http://www.lifewithalacrity.com/) | [twitter](https://twitter.com/ChristopherA) | [github](https://github.com/ChristopherA)
 * [Phil Windley](https://windley.com) | [twitter](https://twitter.com/windley)
 * [Manu Sporny](https://digitalbazaar.com/blog/) | [twitter](https://twitter.com/manusporny)
