@@ -161,7 +161,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 
 ![](http://imgur.com/1uO0AWll.png)
 
-* [The Future of Resilient Identity](https://tykn.tech/) | [twitter](https://twitter.com/Tykn_tech) | [github](https://github.com/tkyn)
+* [The Future of Resilient Identity](https://tykn.tech/) | [twitter](https://twitter.com/Tykn_tech) | [github](https://github.com/tykntech)
 * [Tykn: Extended Overview](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)
 * [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
 
