@@ -5,7 +5,7 @@ Grattitude to those who are working to make our identity experience, and the wor
 [Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)
 
 \\\Over the coming weeks, I'll continue to fill in context, rearrange a bit; and introduce more-better resources, as needed.
-3
+
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
 
