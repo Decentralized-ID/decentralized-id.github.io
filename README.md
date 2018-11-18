@@ -4,9 +4,9 @@ I have much appreciation for the [WebOfTrustInfo](https://github.com/WebOfTrustI
 
 [Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)
 
-This is a skeleton, around which I will fill some context, rearrange things, introducing more\better resources where needed.
+This is a skeleton, around which I will fill some context, rearrange things; introducing more\better resources as needed.
 
-I expect to work on this quite a bit over the coming months, please excuse the mess.
+I expect to work on this quite a bit over the coming weeks, please excuse the mess. Knowing that people are looking at it has increased my motivation, and I'll get it in order asap.
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
@@ -39,7 +39,7 @@ The IIW meets bi-annually. More information on internet identity standards, and 
 
 #### #Rebooting-Web-Of-Trust
 
-The first [RWoT](http://www.WebOfTrust.info)[[g]](https://github.com/WebOfTrustInfo/)  workshop was held in [November of 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust), attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/).
+The first [RWoT](http://www.WebOfTrust.info)[[g]](https://github.com/WebOfTrustInfo/)  workshop was held during [November 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust); attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/).
 
 
 >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
