@@ -2,42 +2,41 @@
 
 I have much appreciation for the [WebOfTrustInfo](https://github.com/WebOfTrustInfo/) and [blockchain-identity](https://github.com/peacekeeper/blockchain-identity) repositories, to which this document is indebted.
 
-**[Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributions.md)**
+[Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)
 
-This is a skeleton, around which I will fill some context, rearrange things a bit, and continue adding resources.
+This is a skeleton, around which I will fill some context, rearrange things, introducing more\better resources where needed.
 
-If you have some awesome collection of links you think might be useful to add, lemme know.  
 I expect to work on this quite a bit over the coming months, please excuse the mess.
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
+
+**Link abbreviations**: (**g**)ithub, (**wp**) whitepaper, (**t**)witter, (**b**)log, (**wiki**) is hard to abbreviate.
 
 ## Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
 
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants,'—[Jerry Cuomo - IBM](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
 
 
-* [The Relationship Between Blockchain and Digital Identity](http://www.gsma.com/personaldata/the-relationship-between-blockchain-and-digital-identity)
-* [Identity as a Bottleneck for Blockchain](https://blockchainhub.net/blog/blog/decentralized-identity-blockchain/)
-
-### IIW
+### History: IIW, RWoT, UN, GDPR
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
-* [Internet Identity Workshop](http://www.internetidentityworkshop.com/) | [twitter](https://twitter.com/idworkshop) | [Wiki](http://iiw.idcommons.net/Main_Page)
-* [Identity on the Blockchain: Perils and Promise](https://www.slideshare.net/ChristopherA/identity-of-the-blockchain-perils-and-promise)
+In 2005, [Kaliya-Identity Woman](https://identitywoman.net/) ([t](https://twitter.com/IdentityWoman)), [Phil Windley](https://windley.com) ([t](https://twitter.com/windley)),[Drummond Reed](https://www.evernym.com/)([t](https://twitter.com/drummondreed)), and [Doc Searls](http://blogs.harvard.edu/doc/)([t](https://twitter.com/dsearls)) hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/) ([t](https://twitter.com/idworkshop)) in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
-I'm digging through the IIW-Wiki, some related blogs to find the earliest references to, and thought around, Self-Sovereign and Blockchain ID:
 
-In April 2014, Phil Windley mentioned someone asking [about blockchain at IIW](http://www.windley.com/archives/2015/04/why_is_blockchain_important.shtml). In May of 2014, during [IIW-18](http://iiw.idcommons.net/IIW_18_Notes) there was some discourse on [personal sovereign design](http://iiw.idcommons.net/Personal_Sovereign_Design), as well as *Bitcoin and Identity*, although no notes are available on the latter. I get the impression that IIW has always been seeking the functionality thamade possible by blockchain.
+[Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) does an incredible job describing the overall history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**
 
-I expect to find the early history details I need from the IIW-WIki, [identitywoman.net](https://identitywoman.net/), [identityblog.com](http://www.identityblog.com/), and [windley.com](https://windley.com)
+I'm collecting some errata, here, while I absorb his work and figure out what comes next.
 
+In April 2014, Phil Windley mentioned someone asking [about blockchain at IIW](http://www.windley.com/archives/2015/04/why_is_blockchain_important.shtml). In May 2014, during [IIW-18](http://iiw.idcommons.net/IIW_18_Notes) there was some discourse on [personal sovereign design](http://iiw.idcommons.net/Personal_Sovereign_Design), as well as *Bitcoin and Identity*, although no notes are available on the latter.
+
+More information to be found in the [IIW Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [windley.com](https://windley.com)
 
 ![](http://imgur.com/3zz62kpl.png)
 
 ### Self-Sovereign
 * [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
-* [The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) | [coindesk](https://www.coindesk.com/path-self-sovereign-identity/amp/)
+ | [coindesk](https://www.coindesk.com/path-self-sovereign-identity/amp/)
 * [A Technlogy-Free Definition of Self-Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) 
 * [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
@@ -359,9 +358,7 @@ I expect to find the early history details I need from the IIW-WIki, [identitywo
 * [The Knowledge Complexity Of Interactive Proofs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&)
 
 ### People
-* [Kaliya-Identity Woman](https://identitywoman.net/) | [twitter](https://twitter.com/IdentityWoman)
-* [Phil Windley](https://windley.com) | [twitter](https://twitter.com/windley)
-* [Christopher Allen](http://www.lifewithalacrity.com/) | [twitter](https://twitter.com/ChristopherA) | [github](https://github.com/ChristopherA)
+
 * [Manu Sporny](https://digitalbazaar.com/blog/) | [twitter](https://twitter.com/manusporny)
 * [Markus Sabadello —Peacekeeper](https://danubetech.com/) | [twitter](https://twitter.com/peacekeeper) | [github](https://github.com/peacekeeper) | [medium](https://medium.com/@markus.sabadello)
 
