@@ -31,9 +31,9 @@ The term Self-Sovereign Identity (SSI) began it's conception in 2012[[1]](https:
 
 [Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) does an incredible job detailing the overall history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)** [[3]](https://www.coindesk.com/path-self-sovereign-identity/amp/).
 
-More information on the early history of decentralized-id to be found in the [IIW Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [windley.com|#identity](http://www.windley.com/tags/identity.shtml)
+The IIW meets bi-annually. More information on internet identity standards, and the early history of decentralized-id, found in the [IIW Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [windley.com|#identity](http://www.windley.com/tags/identity.shtml)
 
-The IIW meets bi-annually, and has supported identity standards since back in the day, when they were dreaming up the systems we're deploying today. 
+ 
 
 ### Self-Sovereign-ID (SSI)
 
