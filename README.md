@@ -371,7 +371,7 @@ Please let me know if any of the links are depreciated\broken, or about anything
 
 A few of us are building a library of crypto knowledge on a discord server. Now those resources are migrating to github, to become a database and power web-portal\chat bot. I began creating this document after entering all of the DID resources I could find into [blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml).  
 
-Self-Sovereign Identity is one of my favorite subjects in crypto, and this is the [Crypto-library](https://github.com/infominer33/Crypto-library)'s first side-project. 
+Self-Sovereign Identity is one of my favorite subjects in crypto, which is how this became the [Crypto-library](https://github.com/infominer33/Crypto-library)'s first side-project. 
 
 It's also market research, as we're figuring out how to monetize this monumental task / seeking sponsorship.
 
