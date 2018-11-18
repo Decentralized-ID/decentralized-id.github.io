@@ -294,14 +294,14 @@ Please let me know if any of the links are depreciated\broken, or about anything
 * [Mydata](http://mydata.org/) | [papers](https://mydata.org/papers/) | [declaration](https://mydata.org/declaration/)
    * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
    * [Consent](http://www.consent.global/) — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
-* ["Mooti"](https://mooti.co/) — [docs](https://docs.mooti.co/)
+* [Mooti](https://mooti.co/) | [docs](https://docs.mooti.co/)
    * offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features
 * [Banqu](http://www.banquapp.com/) —"focuses on establishing 'economic identity' for those who are excluded from the global economy."
 * [Vida Identity](https://getvida.io) — "enables distributed key revocation and reissuance. Access to data is always permissioned across applications and services."
 * [ÆTERNITY](http://aeternity.com/) | [github](https://github.com/aeternity/protocol) 
    * Is focusing on improved smart contract capabilities such as better scalability and easier integration of off-chain data. It offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema.org's data structures are used for representing data about persons and organizations."
    * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
-* [Spidchain](http://www.spidchain.com/) — [whitepaper](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)
+* [Spidchain](http://www.spidchain.com/) | [whitepaper](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
 * [Reddcoin — Redd-ID](https://www.reddcoin.com/service/redd-id/) | [forum](https://www.reddcointalk.org/) | [PoSV whitepaper](https://www.reddcoin.com/papers/PoSV.pdf)
    * a naming service that allows usernames to be registered on the Reddcoin blockchain.
@@ -312,7 +312,7 @@ Please let me know if any of the links are depreciated\broken, or about anything
 * [BitID](https://github.com/bitid/bitid) — an authentication protocol based on Bitcoin identities, supported by some of the Bitcoin wallets. It authenticates Bitcoin addresses by signing a cryptographic challenge 
 * [Blockcerts](https://www.blockcerts.org) — open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [started to issue](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
 * [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
-* [I/O Digital Foundation](https://iodigital.io/) [whitepaper](https://simplebooklet.com/iocoinwhitepaper#page=0)
+* [I/O Digital Foundation](https://iodigital.io/) | [whitepaper](https://simplebooklet.com/iocoinwhitepaper#page=0)
    * "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
 * [iRespond](https://www.irespond.org/)
 
@@ -363,10 +363,14 @@ Please let me know if any of the links are depreciated\broken, or about anything
 * [github.com/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [github.com/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [identitywoman.net](https://identitywoman.net/)
+* [blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml)
 
 ---
 
+![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
+
 ### Brought to you by: [The Crypto Library—Super Source](https://github.com/infominer33/Crypto-library)
+
 
 I began creating this document after entering all of the DID resources I could find into [blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml). This is part of a project where a few of us are building a library of crypto knowledge on a discord server. Now those resources are migrating to github, to become a database and power web-portal\chat bot.
 
