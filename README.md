@@ -10,7 +10,7 @@ I expect to work on this quite a bit over the coming months, please excuse the m
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
-Supporting links will appear in brackets [[1]()][[2]()]
+Supporting links will appear in brackets. ex: [[1]]()[[2]]()
 
 ## Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
 
@@ -25,11 +25,11 @@ Supporting links will appear in brackets [[1]()][[2]()]
 
 In 2005, [Kaliya Young](https://identitywoman.net/)[[t](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[t](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[t](https://twitter.com/drummondreed)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[t](https://twitter.com/dsearls)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)[[t](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
-Since then, the IIW has supported the development of the identity software ecosystem, including [OpenID](http://wiki.openid.net) (2005), [OpenID 2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1) (2006), OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect) (2014), [OAuth](https://en.wikipedia.org/wiki/OAuth) (2010), and [FIDO](https://fidoalliance.org/) (2013). The heart of the identity developing community seems to have been with empowering users and self sovereign principles. However, the power was still in the hands of large centralized institutions.
+Since then, the IIW has supported the development of the identity software ecosystem, including [OpenID](http://wiki.openid.net) ('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1) ('06), OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect) ('14), [OAuth](https://en.wikipedia.org/wiki/OAuth) ('10), and [FIDO](https://fidoalliance.org/) ('13). The heart of the identity developing community seems to have been with empowering users and self sovereign principles. However, the power was still in the hands of large centralized institutions.
 
-The term Self-Sovereign Identity (SSI) began it's conception in 2012:  [What is 'Sovereign Source Authority'?](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) became a buzzword, by 2014; used in [Windhover Principles for Digital Identity](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html) ([*early application*](https://hubculture.com/hubs/47/news/689/)).
+The term Self-Sovereign Identity (SSI) began it's conception in 2012[[1]](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) and became widely used in 2014 [[2]](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html) ([*early application*](https://hubculture.com/hubs/47/news/689/)).
 
-[Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) does an incredible job detailing the overall history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)** which was featured in [coindesk](https://www.coindesk.com/path-self-sovereign-identity/amp/), solidfiying the use of the term "SSI" for years to come.
+[Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) does an incredible job detailing the overall history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)** [[3]](https://www.coindesk.com/path-self-sovereign-identity/amp/).
 
 More information on the early history of decentralized-id to be found in the [IIW Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [windley.com|#identity](http://www.windley.com/tags/identity.shtml)
 
