@@ -10,18 +10,19 @@ I expect to work on this quite a bit over the coming months, please excuse the m
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
-Supporting links will appear in brackets. ex: [[1]]()[[2]]()
 
-## Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
+# Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
+
+*Link abbreviations: (t)witter, (g)ithub, (wp)whitepaper, (wiki) is hard to abbreviate, (b)log, (v)ideo, (a)udio*
 
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants,'—[Jerry Cuomo - IBM](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
 
 
-### History
+## History
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
-#### Internet Identity Workshop—IIW
+### Internet Identity Workshop—IIW
 
 In 2005, [Kaliya Young](https://identitywoman.net/)[[t](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[t](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[t](https://twitter.com/drummondreed)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[t](https://twitter.com/dsearls)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)[[t](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
@@ -34,12 +35,11 @@ The term Self-Sovereign Identity (SSI) began it's conception in 2012[[1]](https:
 The IIW meets bi-annually. More information on internet identity standards, and the early history of decentralized-id, found in the [IIW Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [windley.com|#identity](http://www.windley.com/tags/identity.shtml)
 
  
-
 ### Self-Sovereign-ID (SSI)
 
 ![](http://imgur.com/3zz62kpl.png)
 
-#### Lets pause the history lesson for a few SSI resources:
+#### Pausing the history lesson for a few SSI resources:
 * [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
 * [A Technlogy-Free Definition of Self-Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) 
 * [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
