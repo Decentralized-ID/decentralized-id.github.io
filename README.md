@@ -5,7 +5,7 @@ Grattitude to those who are working to make our identity experience, and the wor
 [Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)
 
 \\\Over the coming weeks, I'll continue to fill in context, rearrange a bit; and introduce more-better resources, as needed.
-
+3
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
 
@@ -24,11 +24,12 @@ Grattitude to those who are working to make our identity experience, and the wor
 
 In 2005, [Kaliya Young](https://identitywoman.net/)[[t](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[t](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[t](https://twitter.com/drummondreed)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[t](https://twitter.com/dsearls)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)[[t](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
-Since then, the IIW has supported the development of the identity software ecosystem, including [OpenID](http://wiki.openid.net) ('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1)('06), [OAuth](https://en.wikipedia.org/wiki/OAuth)('10), [FIDO](https://fidoalliance.org/)('13) and OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect)('14). The heart of the internet identity community has been with empowering users and self-sovereign principles, since the early days. Only recently, have 'powers-that-be' recognized the virtues of decentralized systems.
+Since then, the IIW has met bi-anually, actively supporting the development of the identity software-ecosystem, including [OpenID](http://wiki.openid.net)('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1)('06), [OAuth](https://en.wikipedia.org/wiki/OAuth)('10), [FIDO](https://fidoalliance.org/)('13) and OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect)('14). The heart of the internet identity community has been with empowering users and self-sovereign principles, since the early days. Only recently, have 'powers-that-be' recognized the virtues of decentralized systems.
 
 * [*What is Sovereign Source Authority?*](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) shows an early use of 'sovereign' in relation to our internet identities. The term "Self Sovereign Identity" which started becoming widely used in 2014.[[*1*]](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)[[*2*]](https://hubculture.com/hubs/47/news/689/) 
 * [Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) details the overarching history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[*3*]](https://www.coindesk.com/path-self-sovereign-identity/amp/).
-* The IIW meets bi-annually. More information on identity standards and history of decentralized-id: [IIW-Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [windley.com-#identity](http://www.windley.com/tags/identity.shtml)
+* **More information** on iid standards and history: \
+**[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** | **[identitywoman.net](https://identitywoman.net/)** | **[windley.com-#identity](http://www.windley.com/tags/identity.shtml)** | **[WoTinfo](https://github.com/WebOfTrustInfo/)**
 
  
 ![](http://imgur.com/GdYLQjzl.png)
