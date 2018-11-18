@@ -374,7 +374,7 @@ I began creating this document after entering all of the DID resources I could f
 
 This is the [Crypto-library](https://github.com/infominer33/Crypto-library)'s first side-project. 
 
-It's also market research, as we're trying to figuring out how to monetize this monumental task / seeking sponsorship.
+It's also market research, as we're figuring out how to monetize this monumental task / seeking sponsorship.
 
 ---
 Any contribution would be greatly appreciated!!    
