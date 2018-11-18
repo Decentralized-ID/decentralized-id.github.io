@@ -1,4 +1,4 @@
-# awesome-decentralized-id —Draft
+# awesome-decentralized-id v0.1
 
 I have much appreciation for the [WebOfTrustInfo](https://github.com/WebOfTrustInfo/) and [blockchain-identity](https://github.com/peacekeeper/blockchain-identity) repositories, to which this document is indebted.
 
