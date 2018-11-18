@@ -6,7 +6,8 @@ I have much appreciation for the [WebOfTrustInfo](https://github.com/WebOfTrustI
 
 This is a skeleton, around which I will fill some context, rearrange things a bit, and continue adding resources.
 
-Please let me know if any of the links are depreciated\broken, or about anything you'd like to see included. However, I expect to work on this quite a bit over the coming months, so it might be just as well to wait a while and let the dust settle.
+If you have some awesome collection of links you think might be useful to add, lemme know.  
+I expect to work on this quite a bit over the coming months, please excuse the mess.
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
