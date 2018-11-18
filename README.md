@@ -4,9 +4,8 @@ Grattitude to those who are working to make our identity experience, and the wor
 
 [Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)
 
-This is a skeleton, around which I will fill some context, rearrange things; introducing more\better resources as needed.
+Over the coming weeks and months, I'll continue to fill in context, rearrange things; and introduce more\better resources, as needed.
 
-I expect to work on this quite a bit over the coming weeks, please excuse the mess. Knowing that people are looking at it has increased my motivation, I'll get it in order asap.
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
@@ -15,7 +14,7 @@ I expect to work on this quite a bit over the coming weeks, please excuse the me
 
 *Link abbreviations: (t)witter, (g)ithub, (wp)whitepaper, (wiki) is hard to abbreviate, (b)log, (v)ideo, (a)udio*
 
->Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants,'—[Jerry Cuomo - IBM](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
+>Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [Jerry Cuomo -IBM](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
 
 
 ## History
@@ -37,24 +36,21 @@ Since then, the IIW has supported the development of the identity software ecosy
 
 #### #Rebooting-Web-Of-Trust
 
-The first [RWoT](http://www.WebOfTrust.info)[[g]](https://github.com/WebOfTrustInfo/)  workshop was held during [November 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust); attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/). 
+In relation to SSI, '[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims. *Each party attesting to your identity information becomes a strand in your web of trust.*
 
-'[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims in SSI. *Each party that attests to your identity information becomes a strand in your web of trust.*
+The first [RWoT](http://www.WebOfTrust.info)[[g]](https://github.com/WebOfTrustInfo/)  workshop was held during [November 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust); attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/). 
 
 The goal of the initial workshop, was to create 5[*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/README.md) technical white papers: [[5 WoT-usecases]](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf) | [Decentralized PKI](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf) | [Smart Signatures](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf) | [Creating a New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf) | [Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf):
 
-
->The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
->
->But some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it. 
+>The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP [...] the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it.
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Sustainable_Development_Goals_chart.svg/787px-Sustainable_Development_Goals_chart.svg.png)
 
-### United Nations 
+### Bitnation and the United Nations 
 
-[Bitnation](https://bitnation.co/) "seeks to establish the concept of "world citizenship" through bitcoin based identity, offering offering 'blockchain emergency IDs' to [refugees](https://refugees.bitnation.co/).[[*4*]](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/) The same month, the UN unvieled:
+9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*blockchain emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[*4*]](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/) The same month, the UN unveiled it's *Agenda for Sustainable Development*
 
-* [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld) 9\15. 
+* [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld). 
 > **Goal 16.9 By 2030, provide legal identity for all, including birth registration**
 * [World Identity Netowork —Blockchain for Impact](https://win.systems/)
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
