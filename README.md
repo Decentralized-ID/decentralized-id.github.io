@@ -33,7 +33,7 @@ The term Self-Sovereign Identity (SSI) began it's conception in 2012[[1]](https:
 
 More information on the early history of decentralized-id to be found in the [IIW Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [windley.com|#identity](http://www.windley.com/tags/identity.shtml)
 
-The IIW has supported quality internet standards from the start, and continues to do so, meeting bi-annually.
+The IIW meets bi-annually, and has supported identity standards since back in the day, when they were dreaming up the systems we're deploying today. 
 
 ### Self-Sovereign-ID (SSI)
 
