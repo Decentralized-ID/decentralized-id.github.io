@@ -25,24 +25,23 @@ self-sovereign identity (ssi)
 
 #### Internet Identity Workshop—IIW
 
-In 2005, [Kaliya-Identity Woman](https://identitywoman.net/) ([t](https://twitter.com/IdentityWoman)), [Phil Windley](https://windley.com) ([t](https://twitter.com/windley)),[Drummond Reed](https://www.evernym.com/)([t](https://twitter.com/drummondreed)), and [Doc Searls](http://blogs.harvard.edu/doc/)([t](https://twitter.com/dsearls)) hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)([t](https://twitter.com/idworkshop)) in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
+In 2005, [Kaliya-Identity Woman](https://identitywoman.net/)([t](https://twitter.com/IdentityWoman)) , [Phil Windley](https://windley.com)([t](https://twitter.com/windley)), [Drummond Reed](https://www.evernym.com/)([t](https://twitter.com/drummondreed)), and [Doc Searls](http://blogs.harvard.edu/doc/)([t](https://twitter.com/dsearls)) hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)([t](https://twitter.com/idworkshop)) in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
-Since then, the IIW has supported the development of the identity software ecosystem, including OpenID (2005), OpenID 2.0 (2006), OpenID Connect (2014), OAuth (2010), and FIDO (2013). The heart of the identity developing community seems to have been with empowering users and self sovereign principles. However, powerful institutions were more interested in an identity solution that supported their power dynamic.
+Since then, the IIW has supported the development of the identity software ecosystem, including OpenID (2005), OpenID 2.0 (2006), OpenID Connect (2014), OAuth (2010), and FIDO (2013). The heart of the identity developing community seems to have been with empowering users and self sovereign principles. However, the power was still in the hands of large centralized institutions.
 
 The term Self-Sovereign Identity (SSI) began it's conception in 2012:  [What is 'Sovereign Source Authority'?](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) 
 
 solidifying into a buzzword by 2014:
 * [The Windhover Principles for Digital Identity, Trust, and Data](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html) | [first consumer application of](https://hubculture.com/hubs/47/news/689/)
 
-[Christopher Allen](http://www.lifewithalacrity.com/)[[t](https://twitter.com/ChristopherA)][[g](https://github.com/ChristopherA)] does an incredible job detailing the overall history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)** whose feature in [coindesk](https://www.coindesk.com/path-self-sovereign-identity/amp/) helped to solidfiy the term "SSI" for years to come.
+[Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) does an incredible job detailing the overall history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)** whose feature in [coindesk](https://www.coindesk.com/path-self-sovereign-identity/amp/) helped to solidfiy the use of the term "SSI" for years to come.
 
 More information on the early history of decentralized-id to be found in the [IIW Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [#identity @ windley.com](http://www.windley.com/tags/identity.shtml)
 
 The IIW has supported quality internet standards from the start, and continues to do so, meeting bi-annually.
 
 ### Self-Sovereign-ID (SSI)
-Let's pause the history lesson and look at a few SSI resources:
-
+Let's pause the history lesson, here's a few SSI resources:
 
 ![](http://imgur.com/3zz62kpl.png)
 
