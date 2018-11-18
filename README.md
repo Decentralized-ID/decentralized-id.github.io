@@ -273,9 +273,7 @@ Please let me know if any of the links are depreciated\broken, or about anything
 * [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) | [id.ee](https://www.id.ee/)
    * [Estonian Blockchain ID Card Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
 
-
-## Assorted 
-### Decentralized\Blockchain ID Initiatives
+### Assorted Decentralized\Blockchain ID Initiatives
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e)
 * [Civic](https://www.civic.com/)
 * [Proof of Authority](https://blockonomi.com/proof-of-authority/)
