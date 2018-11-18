@@ -31,13 +31,13 @@ Please let me know if any of the links are depreciated\broken, or about anything
 
 ### Self-Sovereign
 * [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
+* [The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) | [coindesk](https://www.coindesk.com/path-self-sovereign-identity/amp/)
 * [A Technlogy-Free Definition of Self-Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) 
 * [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
-* [The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) | [coindesk](https://www.coindesk.com/path-self-sovereign-identity/amp/)
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
-* [What is 'Sovereign Source Authority'?](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html)
 * [Experts talk Self-Sovereign Identity](https://www.coindesk.com/experts-talk-self-sovereign-identity-implementing-systems/)
 * [Self-Sovereign Identity — wiki.p2pfoundation](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
+* [What is 'Sovereign Source Authority'?](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) (pre-history)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
