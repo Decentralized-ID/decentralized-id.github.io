@@ -22,10 +22,15 @@ Please let me know if any of the links are depreciated\broken, or about anything
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
-
-
 * [Internet Identity Workshop](http://www.internetidentityworkshop.com/) | [twitter](https://twitter.com/idworkshop) | [Wiki](http://iiw.idcommons.net/Main_Page)
 * [Identity on the Blockchain: Perils and Promise](https://www.slideshare.net/ChristopherA/identity-of-the-blockchain-perils-and-promise)
+
+I'm digging through the IIW-Wiki, some related blogs to find the earliest references to, and thought around, Self-Sovereign and Blockchain ID:
+
+In april 2014, Phil Windley mentioned someone asking [about blockchain at IIW](http://www.windley.com/archives/2015/04/why_is_blockchain_important.shtml In May of 2014), during [IIW-18](http://iiw.idcommons.net/IIW_18_Notes) there was some discourse on [personal sovereign design](http://iiw.idcommons.net/Personal_Sovereign_Design), as well as *Bitcoin and Identity*, although no notes are available on the latter. I get the impression that IIW has always been seeking the functionality thamade possible by blockchain.
+
+I expect to find the early history details I need from the IIW-WIki, [identitywoman.net](https://identitywoman.net/), [identityblog.com](http://www.identityblog.com/), and [windley.com](https://windley.com)
+
 
 ![](http://imgur.com/3zz62kpl.png)
 
@@ -362,8 +367,6 @@ Please let me know if any of the links are depreciated\broken, or about anything
 ### Resources
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
-* [identitywoman.net](https://identitywoman.net/)
-* [identityblog.com](http://www.identityblog.com/)
 * [blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml)
 
 ---
