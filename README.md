@@ -21,10 +21,11 @@ I expect to work on this quite a bit over the coming months, please excuse the m
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
-In 2005, [Kaliya-Identity Woman](https://identitywoman.net/) ([t](https://twitter.com/IdentityWoman)), [Phil Windley](https://windley.com) ([t](https://twitter.com/windley)),[Drummond Reed](https://www.evernym.com/)([t](https://twitter.com/drummondreed)), and [Doc Searls](http://blogs.harvard.edu/doc/)([t](https://twitter.com/dsearls)) hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/) ([t](https://twitter.com/idworkshop)) in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
-
+In 2005, [Kaliya-Identity Woman](https://identitywoman.net/) ([t](https://twitter.com/IdentityWoman)), [Phil Windley](https://windley.com) ([t](https://twitter.com/windley)),[Drummond Reed](https://www.evernym.com/)([t](https://twitter.com/drummondreed)), and [Doc Searls](http://blogs.harvard.edu/doc/)([t](https://twitter.com/dsearls)) hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)([t](https://twitter.com/idworkshop)) in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
 [Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) does an incredible job describing the overall history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**
+
+* [What is 'Sovereign Source Authority'?](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html)
 
 I'm collecting some errata, here, while I absorb his work and figure out what comes next.
 
@@ -42,7 +43,6 @@ More information to be found in the [IIW Wiki](http://iiw.idcommons.net/Main_Pag
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
 * [Experts talk Self-Sovereign Identity](https://www.coindesk.com/experts-talk-self-sovereign-identity-implementing-systems/)
 * [Self-Sovereign Identity — wiki.p2pfoundation](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
-* [What is 'Sovereign Source Authority'?](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) (pre-history)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
