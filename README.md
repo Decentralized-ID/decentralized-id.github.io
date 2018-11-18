@@ -12,32 +12,42 @@ I expect to work on this quite a bit over the coming months, please excuse the m
 
 **Link abbreviations**: (**g**)ithub, (**wp**) whitepaper, (**t**)witter, (**b**)log, (**wiki**) is hard to abbreviate.
 
+self-sovereign identity (ssi)
+
 ## Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
 
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants,'—[Jerry Cuomo - IBM](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
 
 
-### History: IIW, RWoT, UN, GDPR
+### History
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
+#### Internet Identity Workshop—IIW
+
 In 2005, [Kaliya-Identity Woman](https://identitywoman.net/) ([t](https://twitter.com/IdentityWoman)), [Phil Windley](https://windley.com) ([t](https://twitter.com/windley)),[Drummond Reed](https://www.evernym.com/)([t](https://twitter.com/drummondreed)), and [Doc Searls](http://blogs.harvard.edu/doc/)([t](https://twitter.com/dsearls)) hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)([t](https://twitter.com/idworkshop)) in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
-[Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) does an incredible job describing the overall history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**
+Since then, the IIW has supported the development of the identity software ecosystem, including OpenID (2005), OpenID 2.0 (2006), OpenID Connect (2014), OAuth (2010), and FIDO (2013). The heart of the identity developing community seems to have been with empowering users and self sovereign principles. However, powerful institutions were more interested in an identity solution that supported their power dynamic.
 
-* [What is 'Sovereign Source Authority'?](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html)
+The term Self-Sovereign Identity (SSI) began it's conception in 2012:  [What is 'Sovereign Source Authority'?](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) 
 
-I'm collecting some errata, here, while I absorb his work and figure out what comes next.
+solidifying into a buzzword by 2014:
+* [The Windhover Principles for Digital Identity, Trust, and Data](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html) | [first consumer application of](https://hubculture.com/hubs/47/news/689/)
 
-In April 2014, Phil Windley mentioned someone asking [about blockchain at IIW](http://www.windley.com/archives/2015/04/why_is_blockchain_important.shtml). In May 2014, during [IIW-18](http://iiw.idcommons.net/IIW_18_Notes) there was some discourse on [personal sovereign design](http://iiw.idcommons.net/Personal_Sovereign_Design), as well as *Bitcoin and Identity*, although no notes are available on the latter.
+[Christopher Allen](http://www.lifewithalacrity.com/)[[t](https://twitter.com/ChristopherA)][[g](https://github.com/ChristopherA)] does an incredible job detailing the overall history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)** whose feature in [coindesk](https://www.coindesk.com/path-self-sovereign-identity/amp/) helped to solidfiy the term "SSI" for years to come.
 
-More information to be found in the [IIW Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [windley.com](https://windley.com)
+More information on the early history of decentralized-id to be found in the [IIW Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [#identity @ windley.com](http://www.windley.com/tags/identity.shtml)
+
+The IIW has supported quality internet standards from the start, and continues to do so, meeting bi-annually.
+
+### Self-Sovereign-ID (SSI)
+Let's pause the history lesson and look at a few SSI resources:
+
 
 ![](http://imgur.com/3zz62kpl.png)
 
-### Self-Sovereign
+
 * [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
- | [coindesk](https://www.coindesk.com/path-self-sovereign-identity/amp/)
 * [A Technlogy-Free Definition of Self-Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) 
 * [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
@@ -46,14 +56,18 @@ More information to be found in the [IIW Wiki](http://iiw.idcommons.net/Main_Pag
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
-
-### Rebooting the Web of Trust \#RWoT
+#### #Rebooting-Web-Of-Trust
 
 ![](http://imgur.com/GdYLQjzl.png)
+
+The first RWoT workshop was held in [November of 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust), and attracted the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/).
+
 
 >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
 >
 >But some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it. —[Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf)
+
+It seems that Bitcoin appealed to the identity community for its decentralized, permenant, record-keeping as well as its community. The blockchain community, on the other hand, appreciates identity as a use-case ideally suited to a decentralized approach.
 
 * [WebOfTrust.info](http://www.WebOfTrust.info) | [github](https://github.com/WebOfTrustInfo/) 
 * [/WebofTrust/self-sovereign-id](https://github.com/WebOfTrustInfo/self-sovereign-identity)
@@ -65,6 +79,10 @@ More information to be found in the [IIW Wiki](http://iiw.idcommons.net/Main_Pag
 * [Identity Crisis: Clear Identity through Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)
 * [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
 * [Smart Consent Protocol](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/smart-consent-protocol.pdf)
+
+
+
+
 
 #### Use Case — Workflow\Examples
 * [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)
@@ -210,6 +228,10 @@ More information to be found in the [IIW Wiki](http://iiw.idcommons.net/Main_Pag
 * [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
 * [AnonCreds: Anonymous credentials protocol implementation in python](https://github.com/hyperledger/indy-anoncreds)
 * [Anoncred — Usecase](https://github.com/hyperledger/indy-anoncreds/blob/master/docs/anoncred-usecase1.pdf)
+
+
+
+
 
 ### IBM
 
