@@ -372,7 +372,7 @@ Please let me know if any of the links are depreciated\broken, or about anything
 
 I began creating this document after entering all of the DID resources I could find into [blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml). This is part of a project where a few of us are building a library of crypto knowledge on a discord server. Now those resources are migrating to github, to become a database and power web-portal\chat bot.
 
-This is the [Crypto-library](https://github.com/infominer33/Crypto-library)'s first side-project. \
+This is the [Crypto-library](https://github.com/infominer33/Crypto-library)'s first side-project. 
 
 It's also market research, as we're trying to figuring out how to monetize this monumental task / seeking sponsorship.
 
