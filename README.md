@@ -377,15 +377,18 @@ It's also market research, as we're trying to figuring out how to monetize this 
 
 ---
 
-Any contribution is appreciated!!
+
 #### BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
-![](http://imgur.com/xMd9r0rl.png)
+ 
+Any contribution is appreciated!!     | 
+:------------------------------------:|:----------------------------------:
+![](http://imgur.com/xMd9r0rl.png)    |  ! ![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
+
 
 —infominer@protonmail.com
 
 
 
-![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
 
 
 
