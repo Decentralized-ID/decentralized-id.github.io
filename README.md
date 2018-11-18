@@ -360,8 +360,8 @@ Please let me know if any of the links are depreciated\broken, or about anything
 * [Markus Sabadello —Peacekeeper](https://danubetech.com/) | [twitter](https://twitter.com/peacekeeper) | [github](https://github.com/peacekeeper) | [medium](https://medium.com/@markus.sabadello)
 
 ### Resources
-* [github.com/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
-* [github.com/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
+* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
+* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [identitywoman.net](https://identitywoman.net/)
 * [blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml)
 
