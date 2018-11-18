@@ -30,29 +30,31 @@ Since then, the IIW has supported the development of the identity software ecosy
 
 * [*What is Sovereign Source Authority?*](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) shows an early use of 'sovereign' in relation to our internet identities. The term "Self Sovereign Identity" which started becoming widely used in 2014.[[*1*]](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)[[*2*]](https://hubculture.com/hubs/47/news/689/) 
 * [Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) details the overarching history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[*3*]](https://www.coindesk.com/path-self-sovereign-identity/amp/).
-* The IIW meets bi-annually. More information on internet identity standards, including the early history of decentralized-id: [IIW Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [windley.com|#identity](http://www.windley.com/tags/identity.shtml)
+* The IIW meets bi-annually. More information on identity standards and history of decentralized-id: [IIW-Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [windley.com-#identity](http://www.windley.com/tags/identity.shtml)
 
  
 ![](http://imgur.com/GdYLQjzl.png)
 
 #### #Rebooting-Web-Of-Trust
 
-The first [RWoT](http://www.WebOfTrust.info)[[g]](https://github.com/WebOfTrustInfo/)  workshop was held during [November 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust); attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/).
+The first [RWoT](http://www.WebOfTrust.info)[[g]](https://github.com/WebOfTrustInfo/)  workshop was held during [November 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust); attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/). 
+
+'[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims in SSI. *Each party that attests to your identity information becomes a strand in your web of trust.*
+
+The goal of the initial workshop, was to create 5[*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/README.md) technical white papers: [[5 WoT-usecases]](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf) | [Decentralized PKI](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf) | [Smart Signatures](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf) | [Creating a New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf) | [Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf):
 
 
 >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
 >
->But some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it. —[Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf)
-
-\\
+>But some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it. 
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Sustainable_Development_Goals_chart.svg/787px-Sustainable_Development_Goals_chart.svg.png)
 
 ### United Nations 
-* [Bitnation](https://bitnation.co/) — [refugees.bitnation.co](https://refugees.bitnation.co/)
-   * Bitcoiners got involved with the Syrian refugee crisis around the same time that the UN began investigating the potential of blockchain for humanitarian aide.
-   * "seeks to establish the concept of "world citizenship" through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering 'blockchain emergency IDs' to refugees." 
-* [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)
+
+[Bitnation](https://bitnation.co/) "seeks to establish the concept of "world citizenship" through bitcoin based identity, offering offering 'blockchain emergency IDs' to [refugees](https://refugees.bitnation.co/).[[*4*]](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/) The same month, the UN unvieled:
+
+* [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld) 9\15. 
 > **Goal 16.9 By 2030, provide legal identity for all, including birth registration**
 * [World Identity Netowork —Blockchain for Impact](https://win.systems/)
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
@@ -63,8 +65,12 @@ The first [RWoT](http://www.WebOfTrust.info)[[g]](https://github.com/WebOfTrustI
 
 ![](http://imgur.com/ymviAssl.png)
 
+The second RWoT workshop ran in conjunction with the UN's ID2020 Summit in New York on [May 20th, 2016](https://press.pwc.com/News-releases/id2020-to-kick-start-digital-identity-summit-at-un-with-pwc-support./s/9fe11be5-cbd8-486b-b4d2-d798f486d0f2).
+
 * [ID2020 Alliance](https://id2020.org/)
    * [Identity 2.0](https://id2020.org/news/2016/12/2/identity-20) 
+
+
 
 ### DIF
 
