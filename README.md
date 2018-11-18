@@ -1,11 +1,10 @@
-# awesome-decentralized-id v0.1
+# awesome-decentralized-id v0.2
 
 Grattitude to those who are working to make our identity experience, and the world, a better place.
 
 [Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)
 
-Over the coming weeks and months, I'll continue to fill in context, rearrange things; and introduce more\better resources, as needed.
-
+\\\Over the coming weeks, I'll continue to fill in context, rearrange a bit; and introduce more-better resources, as needed.
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
@@ -65,7 +64,6 @@ The second RWoT workshop ran in conjunction with the UN's ID2020 Summit in New Y
 
 * [ID2020 Alliance](https://id2020.org/)
    * [Identity 2.0](https://id2020.org/news/2016/12/2/identity-20) 
-
 
 
 ### DIF
