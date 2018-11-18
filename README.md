@@ -28,11 +28,9 @@ In 2005, [Kaliya Young](https://identitywoman.net/)[[t](https://twitter.com/Iden
 
 Since then, the IIW has supported the development of the identity software ecosystem, including [OpenID](http://wiki.openid.net) ('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1) ('06), OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect) ('14), [OAuth](https://en.wikipedia.org/wiki/OAuth) ('10), and [FIDO](https://fidoalliance.org/) ('13). The heart of the identity developing community seems to have been with empowering users and self sovereign principles. However, the power was still in the hands of large centralized institutions.
 
-The term Self-Sovereign Identity (SSI) began it's conception in 2012[[1]](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) and became widely used in 2014 [[2]](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html) ([*early application*](https://hubculture.com/hubs/47/news/689/)).
-
-[Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) does an incredible job detailing the overall history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)** [[3]](https://www.coindesk.com/path-self-sovereign-identity/amp/).
-
-The IIW meets bi-annually. More information on internet identity standards, and the early history of decentralized-id, found in the [IIW Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [windley.com|#identity](http://www.windley.com/tags/identity.shtml)
+* The term Self-Sovereign Identity (SSI) began it's conception in 2012[[*1*]](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) and became widely used in 2014[[*2*]](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html) ([*early application*](https://hubculture.com/hubs/47/news/689/)). 
+* [Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) does an incredible job detailing the overall history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[*3*]](https://www.coindesk.com/path-self-sovereign-identity/amp/).
+* The IIW meets bi-annually. More information on internet identity standards, including the early history of decentralized-id: [IIW Wiki](http://iiw.idcommons.net/Main_Page), [identitywoman.net](https://identitywoman.net/), and [windley.com|#identity](http://www.windley.com/tags/identity.shtml)
 
  
 ![](http://imgur.com/GdYLQjzl.png)
