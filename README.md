@@ -380,8 +380,7 @@ It's also market research, as we're trying to figuring out how to monetize this 
 
 #### BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
  
-Any contribution is appreciated!!     | 
-:------------------------------------:|:----------------------------------:
+Any contribution is appreciated!!    
 ![](http://imgur.com/xMd9r0rl.png)    |  ! ![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
 
 
