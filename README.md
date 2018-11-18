@@ -1,12 +1,12 @@
 # awesome-decentralized-id v0.1
 
-I have much appreciation for the [WebOfTrustInfo](https://github.com/WebOfTrustInfo/) and [blockchain-identity](https://github.com/peacekeeper/blockchain-identity) repositories, to which this document is indebted.
+Grattitude to those who are working to make our identity experience, and the world, a better place.
 
 [Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)
 
 This is a skeleton, around which I will fill some context, rearrange things; introducing more\better resources as needed.
 
-I expect to work on this quite a bit over the coming weeks, please excuse the mess. Knowing that people are looking at it has increased my motivation, and I'll get it in order asap.
+I expect to work on this quite a bit over the coming weeks, please excuse the mess. Knowing that people are looking at it has increased my motivation, I'll get it in order asap.
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
