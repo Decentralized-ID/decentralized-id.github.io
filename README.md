@@ -50,8 +50,8 @@ Please let me know if any of the links are depreciated\broken, or about anything
 >
 >But some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it. —[Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf)
 
-* [WebOfTrust.info](http://www.WebOfTrust.info) | [github](https://github.com/WebOfTrustInfo/) | 
-* [WebofTrust - Self Sovereign ID - Github](https://github.com/WebOfTrustInfo/self-sovereign-identity)
+* [WebOfTrust.info](http://www.WebOfTrust.info) | [github](https://github.com/WebOfTrustInfo/) 
+* [/WebofTrust/self-sovereign-id](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 * [Creating the New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf)
 * [Framework for the Comparison of Identity Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/Framework-for-Comparison-of-Identity-Systems.md)
 * [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md)
@@ -186,7 +186,7 @@ Please let me know if any of the links are depreciated\broken, or about anything
 * [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) | [twitter](https://twitter.com/Hyperledger) | [wiki](https://wiki.hyperledger.org/projects/indy/documentation)
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy)
-* [Plenum Byzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki) based on [RBFT](http://lig-membres.imag.fr/aublin/rbft/report.pdf)
+* [Plenum Bzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki)
    * "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem."
 * [An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials](https://eprint.iacr.org/2008/539.pdf)
 * [An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation](https://www.iacr.org/archive/eurocrypt2001/20450093.pdf)
