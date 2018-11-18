@@ -85,7 +85,7 @@ Please let me know if any of the links are depreciated\broken, or about anything
 
 ### ID2020
 
-![](http://imgur.com/XXFkwbRl.png)
+![](http://imgur.com/ymviAssl.png)
 
 * [ID2020 Alliance](https://id2020.org/)
    * [Identity 2.0](https://id2020.org/news/2016/12/2/identity-20) 
