@@ -367,8 +367,6 @@ Please let me know if any of the links are depreciated\broken, or about anything
 
 ---
 
-![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
-
 ### Brought to you by: [The Crypto Library—Super Source](https://github.com/infominer33/Crypto-library)
 
 
@@ -386,6 +384,8 @@ Any contribution is appreciated!!
 —infominer@protonmail.com
 
 
+
+![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
 
 
 
