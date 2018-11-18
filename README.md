@@ -218,6 +218,8 @@ Please let me know if any of the links are depreciated\broken, or about anything
 
 ### Ethereum
 
+![](https://cdn-images-1.medium.com/max/2000/1*XKMYi7x813ZfiigpAufpZQ.png) [*]https://blog.enigma.co/enigma-joins-enterprise-ethereum-alliance-and-decentralized-identity-foundation-5c765eaad907
+
 * [ERC725](https://github.com/ethereum/EIPs/issues/725)
 * [ERC735](https://github.com/ethereum/EIPs/issues/735)
    * proposals in the Ethereum community to standardize smart contracts for certain identity-related operations such as key management, as well as signing transactions, documents, and "claims", which may be attested by third parties or self-asserted.
