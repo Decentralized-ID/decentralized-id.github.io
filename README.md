@@ -27,7 +27,7 @@ Please let me know if any of the links are depreciated\broken, or about anything
 
 I'm digging through the IIW-Wiki, some related blogs to find the earliest references to, and thought around, Self-Sovereign and Blockchain ID:
 
-In april 2014, Phil Windley mentioned someone asking [about blockchain at IIW](http://www.windley.com/archives/2015/04/why_is_blockchain_important.shtml In May of 2014), during [IIW-18](http://iiw.idcommons.net/IIW_18_Notes) there was some discourse on [personal sovereign design](http://iiw.idcommons.net/Personal_Sovereign_Design), as well as *Bitcoin and Identity*, although no notes are available on the latter. I get the impression that IIW has always been seeking the functionality thamade possible by blockchain.
+In April 2014, Phil Windley mentioned someone asking [about blockchain at IIW](http://www.windley.com/archives/2015/04/why_is_blockchain_important.shtml). In May of 2014, during [IIW-18](http://iiw.idcommons.net/IIW_18_Notes) there was some discourse on [personal sovereign design](http://iiw.idcommons.net/Personal_Sovereign_Design), as well as *Bitcoin and Identity*, although no notes are available on the latter. I get the impression that IIW has always been seeking the functionality thamade possible by blockchain.
 
 I expect to find the early history details I need from the IIW-WIki, [identitywoman.net](https://identitywoman.net/), [identityblog.com](http://www.identityblog.com/), and [windley.com](https://windley.com)
 
