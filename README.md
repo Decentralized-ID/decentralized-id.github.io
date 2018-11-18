@@ -376,15 +376,15 @@ This is the [Crypto-library](https://github.com/infominer33/Crypto-library)'s fi
 It's also market research, as we're trying to figuring out how to monetize this monumental task, and seeking sponsorship.
 
 ---
-
+Any contribution would be greatly appreciated!!    
+—infominer@protonmail.com
 
 #### BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
  
-Any contribution is appreciated!!    
 ![](http://imgur.com/xMd9r0rl.png)       ![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
 
 
-—infominer@protonmail.com
+
 
 
 
