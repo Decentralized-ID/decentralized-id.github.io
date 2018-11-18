@@ -10,9 +10,7 @@ I expect to work on this quite a bit over the coming months, please excuse the m
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
-**Link abbreviations**: (**g**)ithub, (**wp**) whitepaper, (**t**)witter, (**b**)log, (**wiki**) is hard to abbreviate.
-
-self-sovereign identity (ssi)
+Supporting links will appear in brackets [[1]()][[2]()]
 
 ## Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
 
@@ -25,9 +23,9 @@ self-sovereign identity (ssi)
 
 #### Internet Identity Workshop—IIW
 
-In 2005, [Kaliya Young](https://identitywoman.net/)([t](https://twitter.com/IdentityWoman)), [Phil Windley](https://windley.com)([t](https://twitter.com/windley)), [Drummond Reed](https://www.evernym.com/)([t](https://twitter.com/drummondreed)), and [Doc Searls](http://blogs.harvard.edu/doc/)([t](https://twitter.com/dsearls)) hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)([t](https://twitter.com/idworkshop)) in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
+In 2005, [Kaliya Young](https://identitywoman.net/)[[t](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[t](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[t](https://twitter.com/drummondreed)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[t](https://twitter.com/dsearls)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)[[t](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
-Since then, the IIW has supported the development of the identity software ecosystem, including OpenID (2005), OpenID 2.0 (2006), OpenID Connect (2014), OAuth (2010), and FIDO (2013). The heart of the identity developing community seems to have been with empowering users and self sovereign principles. However, the power was still in the hands of large centralized institutions.
+Since then, the IIW has supported the development of the identity software ecosystem, including [OpenID](http://wiki.openid.net) (2005), [OpenID 2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1) (2006), OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect) (2014), [OAuth](https://en.wikipedia.org/wiki/OAuth) (2010), and [FIDO](https://fidoalliance.org/) (2013). The heart of the identity developing community seems to have been with empowering users and self sovereign principles. However, the power was still in the hands of large centralized institutions.
 
 The term Self-Sovereign Identity (SSI) began it's conception in 2012:  [What is 'Sovereign Source Authority'?](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) became a buzzword, by 2014; used in [Windhover Principles for Digital Identity](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html) ([*early application*](https://hubculture.com/hubs/47/news/689/)).
 
@@ -41,7 +39,7 @@ The IIW has supported quality internet standards from the start, and continues t
 
 ![](http://imgur.com/3zz62kpl.png)
 
-##### Lets pause the history lesson for a few SSI resources:
+#### Lets pause the history lesson for a few SSI resources:
 * [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
 * [A Technlogy-Free Definition of Self-Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) 
 * [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
@@ -51,18 +49,18 @@ The IIW has supported quality internet standards from the start, and continues t
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
-#### #Rebooting-Web-Of-Trust
-
 ![](http://imgur.com/GdYLQjzl.png)
 
-The first RWoT workshop was held in [November of 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust), and attracted the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/).
+#### #Rebooting-Web-Of-Trust
+
+The first RWoT workshop was held in [November of 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust), attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/).
 
 
 >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
 >
 >But some use it as a term to include self-sovereign identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it. —[Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf)
 
-It seems that Bitcoin appealed to the identity community for its decentralized, permenant, record-keeping as well as its community. The blockchain community, on the other hand, appreciates identity as a use-case ideally suited to a decentralized approach.
+Bitcoin's decentralized authenticated record-keeping appealed to the IIW community, and brought a surge of life to decentralization efforts. 
 
 * [WebOfTrust.info](http://www.WebOfTrust.info) | [github](https://github.com/WebOfTrustInfo/) 
 * [/WebofTrust/self-sovereign-id](https://github.com/WebOfTrustInfo/self-sovereign-identity)
@@ -77,8 +75,6 @@ It seems that Bitcoin appealed to the identity community for its decentralized, 
 
 
 
-
-
 #### Use Case — Workflow\Examples
 * [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)
 * [Re-Imagining What Users Really Want](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/what-users-really-want.md)
@@ -87,10 +83,10 @@ It seems that Bitcoin appealed to the identity community for its decentralized, 
 * [Protecting Digital Identities in Developing Countries](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)
 * [Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
 
-### United Nations 
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Sustainable_Development_Goals_chart.svg/787px-Sustainable_Development_Goals_chart.svg.png)
 
+### United Nations 
 * [Bitnation](https://bitnation.co/) — [refugees.bitnation.co](https://refugees.bitnation.co/)
    * Bitcoiners got involved with the Syrian refugee crisis around the same time that the UN began investigating the potential of blockchain for humanitarian aide.
    * "seeks to establish the concept of "world citizenship" through identity registration on the blockchain. The project is collaborating with the Estonian e-Residency program and also has a focus on offering 'blockchain emergency IDs' to refugees." 
