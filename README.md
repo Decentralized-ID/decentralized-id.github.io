@@ -366,9 +366,9 @@ Please let me know if any of the links are depreciated\broken, or about anything
 * [github.com/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [identitywoman.net](https://identitywoman.net/)
 
-### Brought to you by: [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
+### Brought to you by: [The Crypto Library—Super Source](https://github.com/infominer33/Crypto-library)
 
-I began creating this document after entering all of the resources I had about blockchain-id into [blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml), since I've been building a library of crypto knowledge on a discord server and am formating them to become a database that powers a web-portal, and chat bot.
+I began creating this document after entering all of the resources I had about blockchain-id into [blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml), since I've been building a library of crypto knowledge on a discord server and am migrating the resources to github to become a database and power web-portal\chat bot.
 
 ---
 
