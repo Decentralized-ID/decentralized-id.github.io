@@ -152,8 +152,7 @@ Please let me know if any of the links are depreciated\broken, or about anything
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
-* [Sovrin](https://sovrin.org/) | [Forum](https://forum.sovrin.org/) | [Slack](https://sovrin-slack-signup.herokuapp.com/) | [twitter](https://twitter.com/SovrinID) | [github](https://github.com/sovrin-foundation/sovrin)
-* [Sovrin - Library](https://sovrin.org/library/) 
+* [Sovrin](https://sovrin.org/) | [forum](https://forum.sovrin.org/) | [slack](https://sovrin-slack-signup.herokuapp.com/) | [twitter](https://twitter.com/SovrinID) | [github](https://github.com/sovrin-foundation/sovrin) | [library](https://sovrin.org/library/) 
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
 * [Sovrin: digital identities in the blockchain era](https://sovrin.org/library/sovrin-digital-identities-in-the-blockchain-era/)
 * [Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust](https://sovrin.org/wp-content/uploads/Sovrin-Protocol-and-Token-White-Paper.pdf)
@@ -165,7 +164,7 @@ Please let me know if any of the links are depreciated\broken, or about anything
 
 ![](http://imgur.com/1uO0AWll.png)
 
-* [The Future of Resilient Identity](https://tykn.tech/) | [twitter](https://twitter.com/Tykn_tech) | [github](https://github.com/tykntech)
+* [Tykn *The Future of Resilient Identity*](https://tykn.tech/) | [twitter](https://twitter.com/Tykn_tech) | [github](https://github.com/tykntech)
 * [Tykn: Extended Overview](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)
 * [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
 
