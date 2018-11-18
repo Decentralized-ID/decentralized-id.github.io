@@ -7,7 +7,7 @@ Help wanted:
 
 Also, it'd be nice to talk w someone who's familiar with the early history of the Self Sovereign ID movement and the relationshiop between IIW, RWoT, UN, and W3C. I'm manually working those details out myself the best I can, but of course, getting a chance to chat with someone who was there or knows about it would be great. 
 
-I'm just a beginning freelancer trying to find a livable wage through a passion I stumbled upon around a year ago: Blockchain, Crypto, Decentralization, Internet Research, and creating Information Dense, Evergreen Content. 
+I'm just a beginning freelancer trying to find a livable wage through a passion I stumbled upon around a year ago: Bitcoin, Blockchain, Crypto, Decentralization, Internet Research, and creating Information-Dense, Evergreen Content. 
 
 Any support is appreciated: 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
