@@ -184,7 +184,7 @@ Please let me know if any of the links are depreciated\broken, or about anything
 
 ![](https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png)
 
-* [Hyperledger Indy - Distributed ledger and utility library](https://www.hyperledger.org/projects/hyperledger-indy) | [twitter](https://twitter.com/Hyperledger) | [wiki](https://wiki.hyperledger.org/projects/indy/documentation)
+* [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) | [twitter](https://twitter.com/Hyperledger) | [wiki](https://wiki.hyperledger.org/projects/indy/documentation)
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy)
 * [Plenum Byzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki) based on [RBFT](http://lig-membres.imag.fr/aublin/rbft/report.pdf)
