@@ -363,6 +363,7 @@ Please let me know if any of the links are depreciated\broken, or about anything
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [identitywoman.net](https://identitywoman.net/)
+* [identityblog.com](http://www.identityblog.com/)
 * [blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml)
 
 ---
