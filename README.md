@@ -4,13 +4,16 @@ Much appreciation for [WebOfTrustInfo](https://github.com/WebOfTrustInfo/) and t
 
 **[Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributions.md)**
 
-This is a skeleton, around which I will fill some background information; highlight the chosen resources; rearrange things a bit, and provide some justification for its layout.
+This is a skeleton, around which I will fill some context,rearrange things a bit, and continue adding resources.
 
-Please let me know about any of the links are depreciated, and anything you'd like to see included.
+Please let me know if any of the links are depreciated\broken, or about anything you'd like to see included.
+
+![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
 ## Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
 
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants,'—[Jerry Cuomo - IBM](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
+
 
 * [The Relationship Between Blockchain and Digital Identity](http://www.gsma.com/personaldata/the-relationship-between-blockchain-and-digital-identity)
 * [Identity as a Bottleneck for Blockchain](https://blockchainhub.net/blog/blog/decentralized-identity-blockchain/)
@@ -19,8 +22,9 @@ Please let me know about any of the links are depreciated, and anything you'd li
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
-* [Internet Identity Workshop](http://www.internetidentityworkshop.com/) | [twitter](https://twitter.com/idworkshop)
-* [IIW — Wiki](http://iiw.idcommons.net/Main_Page)
+
+
+* [Internet Identity Workshop](http://www.internetidentityworkshop.com/) | [twitter](https://twitter.com/idworkshop) | [Wiki](http://iiw.idcommons.net/Main_Page)
 * [Identity on the Blockchain: Perils and Promise](https://www.slideshare.net/ChristopherA/identity-of-the-blockchain-perils-and-promise)
 
 ![](http://imgur.com/3zz62kpl.png)
@@ -312,6 +316,7 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
 * [I/O Digital Foundation](https://iodigital.io/) [whitepaper](https://simplebooklet.com/iocoinwhitepaper#page=0)
    * "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
+* [iRespond](https://www.irespond.org/)
 
 ### Data Wallet \ Marketplaces
 
@@ -350,22 +355,22 @@ Please let me know about any of the links are depreciated, and anything you'd li
 * [The Knowledge Complexity Of Interactive Proofs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&)
 
 ### People
-\* note: There are probably others who deserve to be in this section, pls let me know. (in no particular order)
-* [Christopher Allen](http://www.lifewithalacrity.com/) | [twitter](https://twitter.com/ChristopherA) | [github](https://github.com/ChristopherA)
-* [Phil Windley](https://windley.com) | [twitter](https://twitter.com/windley)
-* [Manu Sporny](https://digitalbazaar.com/blog/) | [twitter](https://twitter.com/manusporny)
 * [Kaliya-Identity Woman](https://identitywoman.net/) | [twitter](https://twitter.com/IdentityWoman)
+* [Phil Windley](https://windley.com) | [twitter](https://twitter.com/windley)
+* [Christopher Allen](http://www.lifewithalacrity.com/) | [twitter](https://twitter.com/ChristopherA) | [github](https://github.com/ChristopherA)
+* [Manu Sporny](https://digitalbazaar.com/blog/) | [twitter](https://twitter.com/manusporny)
 * [Markus Sabadello —Peacekeeper](https://danubetech.com/) | [twitter](https://twitter.com/peacekeeper) | [github](https://github.com/peacekeeper) | [medium](https://medium.com/@markus.sabadello)
 
 ### Resources
 * [github.com/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [github.com/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [identitywoman.net](https://identitywoman.net/)
-* [crypt0library.net](http://crypt0library.net) | [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
+
+### Brought to you by: [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
+
+I began creating this document after entering all of the resources I had about blockchain-id into [blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml), since I've been building a library of crypto knowledge on a discord server and am formating them to become a database that powers a web-portal, and chat bot.
 
 ---
-
-### Brought to you by: [crypt0library.net](http://crypt0library.net) | [infominer33/Crypto-library](https://github.com/infominer33/Crypto-library)
 
 Any contribution is appreciated!!
 #### BTC — 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
