@@ -27,9 +27,11 @@ In 2005, [Kaliya Young](https://identitywoman.net/)[[t](https://twitter.com/Iden
 Since then, the IIW has met bi-anually, actively supporting the development of the identity software-ecosystem, including [OpenID](http://wiki.openid.net)('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1)('06), [OAuth](https://en.wikipedia.org/wiki/OAuth)('10), [FIDO](https://fidoalliance.org/)('13) and OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect)('14). The heart of the internet identity community has been with empowering users and self-sovereign principles, since the early days. Only recently, have 'powers-that-be' recognized the virtues of decentralized systems.
 
 * [*What is Sovereign Source Authority?*](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) shows an early use of 'sovereign' in relation to our internet identities. The term "Self Sovereign Identity" started becoming widely used in 2014.[[*1*]](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)[[*2*]](https://hubculture.com/hubs/47/news/689/) 
-* [Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) details the overarching history of internet idenitity standards in his seminal work:
-* **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[*3*]](https://www.coindesk.com/path-self-sovereign-identity/amp/).
-* **More information** on iid standards and history: \
+* [Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) details the overarching history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[*3*]](https://www.coindesk.com/path-self-sovereign-identity/amp/).
+* [Not Just Who They Say We Are: Claiming our identity on the Internet](https://vimeo.com/207961532)- short film on the “Identerati” at IIW[[*4*]](https://www.prweb.com/releases/identitymovie/iiw2017/prweb14161721.htm)
+   * Identirati is a term for those working in the identity ecosystem dating back to at least 2006:
+      >"[identirati](https://www.zdnet.com/article/the-identity-silo-paradox/)" have been working on standards and methods that are based on the premise of opening up those [id data] silos 
+* **More information** on iid standard history: \
 **[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** | **[identitywoman.net](https://identitywoman.net/)** | **[windley.com-#identity](http://www.windley.com/tags/identity.shtml)** | **[WoTinfo](https://github.com/WebOfTrustInfo/)**
 
  
@@ -49,7 +51,7 @@ The goal of the initial workshop, was to create 5[*](https://github.com/WebOfTru
 
 ### Bitnation and the United Nations 
 
-9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*blockchain emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[*4*]](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/) The same month, the UN unveiled it's *Agenda for Sustainable Development*
+9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*blockchain emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[*5*]](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/) The same month, the UN unveiled it's *Agenda for Sustainable Development*
 
 * [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)
 > **Goal 16.9 By 2030, provide legal identity for all, including birth registration**
@@ -62,17 +64,10 @@ The goal of the initial workshop, was to create 5[*](https://github.com/WebOfTru
 
 ![](http://imgur.com/ymviAssl.png)
 
-In [April 2016](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en), the EU adopted the GDPR, enacted as law May 2018. The second RWoT workshop ran in conjunction with the UN's [ID2020](https://id2020.org/) Summit in New York that [May](https://press.pwc.com/News-releases/id2020-to-kick-start-digital-identity-summit-at-un-with-pwc-support./s/9fe11be5-cbd8-486b-b4d2-d798f486d0f2).[[*5*]](https://id2020.org/news/2016/12/2/identity-20) There are an estimated 1.5 billion without a legal identity. 
+In [April 2016](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en), the EU adopted the GDPR, enacted as law May 2018. The second RWoT workshop ran in conjunction with the UN's [ID2020](https://id2020.org/) Summit in New York that [May](https://press.pwc.com/News-releases/id2020-to-kick-start-digital-identity-summit-at-un-with-pwc-support./s/9fe11be5-cbd8-486b-b4d2-d798f486d0f2).[[*6*]](https://id2020.org/news/2016/12/2/identity-20) There are an estimated 1.5 billion without a legal identity. 
 
-### DIF
+At this point in time DLT innovation, the United Nations, and the EU GDPR all came together supporting a central identirati tenant: Eliminating id data silos, and empowering users regarding their digital identity.
 
-![](http://imgur.com/PXGV6Xyl.png)
-
-* [Decentralized Identity Foundation](http://identity.foundation/) | [github](https://github.com/decentralized-identity) | [twitter](https://twitter.com/DecentralizedID) | [medium](https://medium.com/decentralized-identity)
-   - Members include: Microsoft, uPort, IBM, Sovrin, SecureKey, Blockstack, Evernym, Hyperledger, Civic, Accenture, Danube, netki, RSA, Consent, IOTA, Muti, r3, Aunthenteq, Blockchain-foundry, Validatedid, 1kosmos, gamecredits, auth0, jolocom, Enigma, Humanized-internet, Pillar, id2020, Nuggets.
-* [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
-* [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md)
-   - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID).
 
 ### w3c
 
@@ -284,7 +279,7 @@ In [April 2016](https://edps.europa.eu/data-protection/data-protection/legislati
 * [Blockchain Helix](http://blockchain-helix.com) | [ico](https://ico.helix-orange.com/) | [whitepaper](https://ico.helix-orange.com/wp-content/uploads/2018/08/HELIX-Orange_Whitepaper_v1.5.pdf)
    * "Identity as a Service", "Data as a Service" and "Blockchain as a Service" The company offers to increase the speed of KYC/AML processes while hughly decreasing the cost 
 * [The Humanized Internet](http://www.thehumanizedinternet.org/) — "to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity."
-* [Mydata](http://mydata.org/) | [papers](https://mydata.org/papers/) | [declaration](https://mydata.org/declaration/)
+* [Mydata](http://mydata.org/)[[t]](https://twitter.com/mydataorg)[[d]](https://mydata.org/papers/) [declaration](https://mydata.org/declaration/)
    * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
    * [Consent](http://www.consent.global/) — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
 * [Mooti](https://mooti.co/) | [docs](https://docs.mooti.co/)
@@ -318,6 +313,16 @@ In [April 2016](https://edps.europa.eu/data-protection/data-protection/legislati
    * "network allows anyone to store structured data on a smart contract blockchain. Data can optionally be bought and sold on a marketplace using the DAT token. Datum leverages BigchainDB and IPFS as data storage backends. All data is encrypted and protected using AES256-GCM.
 * [ONTology](https://ont.io/) | [github](https://github.com/ontio/ontology-DID)— "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
 * [We can do better than selling our data](http://blogs.harvard.edu/doc/2018/09/18/data/)-Doc Searls(*IIW*)
+
+### DIF
+
+![](http://imgur.com/PXGV6Xyl.png)
+
+* [Decentralized Identity Foundation](http://identity.foundation/) | [github](https://github.com/decentralized-identity) | [twitter](https://twitter.com/DecentralizedID) | [medium](https://medium.com/decentralized-identity)
+   - Members include: Microsoft, uPort, IBM, Sovrin, SecureKey, Blockstack, Evernym, Hyperledger, Civic, Accenture, Danube, netki, RSA, Consent, IOTA, Muti, r3, Aunthenteq, Blockchain-foundry, Validatedid, 1kosmos, gamecredits, [auth0](https://auth0.com/), jolocom, Enigma, Humanized-internet, Pillar, id2020, Nuggets.
+* [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
+* [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md)
+   - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID).
 
 ![](https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png)
 
