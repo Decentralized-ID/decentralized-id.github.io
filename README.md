@@ -15,7 +15,7 @@ Grattitude to those who are working to make our identity experience, and the wor
 ### Contents
 
 * [#History](#History)
-  * [Internet Identity Workshop (IIW)](#Internet-Identity-Workshop—IIW) 
+  * [Internet Identity Workshop—IIW](#Internet-Identity-Workshop—IIW) 
   * [Rebooting Web of Trust (RWoT)](#Rebooting-Web-Of-Trust)
   * [Bitnation and the United Nations](#Bitnation-and-the-United-Nations)
     * [ID2020 and GDPR](#ID2020-and-the-GDPR)
