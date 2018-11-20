@@ -16,13 +16,13 @@ Grattitude to those who are working to make our identity experience, and the wor
 
 * [#History](#History)
   * [Internet Identity Workshop—IIW](#Internet-Identity-Workshop—IIW) 
-  * [Rebooting Web of Trust (RWoT)](#Rebooting-Web-Of-Trust)
+  * [#Rebooting-Web-of-Trust—RWoT](##Rebooting-Web-Of-Trust—RWoT)
   * [Bitnation and the United Nations](#Bitnation-and-the-United-Nations)
     * [ID2020 and GDPR](#ID2020-and-the-GDPR)
 * [Resources](#Resources)
-  * [Worldwide Web Consortium (W3C)](#World-Wide-Web-Consortium—W3C)
-    * [Decentralized Identifier (DID)](#Decentralized-Identifier-(DID)) 
-  * [EU General Data Protection Regulation (GDPR)](#EU-General-Data-Protection-Regulation-(GDPR))
+  * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium—W3C)
+    * [Decentralized Identifier—DID](#Decentralized-Identifier—DID) 
+  * [EU GDPR](#EU-General-Data-Protection-Regulation-Act—GDPR)
   * [Self-Sovereign-ID (SSI)](#Self-Sovereign-ID-(SSI))
   * [Evernym](#Evernym)
   * [The Sovrin Foundation](#The-Sovrin-Foundation)
@@ -75,7 +75,7 @@ Since then, the IIW has met bi-anually, actively supporting the development of t
  
 ![](http://imgur.com/GdYLQjzl.png)
 
-### #Rebooting-Web-Of-Trust
+### #Rebooting-Web-of-Trust—RWoT
 
 In relation to SSI, '[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims. *Each party attesting to your identity information becomes a strand in your web of trust.*
 
@@ -127,7 +127,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
 
-#### Decentralized Identifier (DID)
+#### Decentralized Identifier—DID
 
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md)
@@ -142,7 +142,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
 * [Veres One DID Method 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/did-method-veres-one.md) — a permissionless public ledger designed specifically for the creation and management of decentralized identifiers (DIDs)
 
-### GDPR
+### EU General Data Protection Regulation Act—GDPR
 
 * [Blockchains and Data Protection in the European Union](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3080322)
 * [IBM — How blockchain could address five areas associated with GDPR compliance](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=61014461USEN)
