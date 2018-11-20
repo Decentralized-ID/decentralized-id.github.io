@@ -67,10 +67,9 @@ Since then, the IIW has met bi-anually, actively supporting the development of t
 * [Not Just Who They Say We Are: Claiming our identity on the Internet](https://vimeo.com/207961532)- short film on the “Identerati” at IIW[[*4*]](https://www.prweb.com/releases/identitymovie/iiw2017/prweb14161721.htm)
    * Identirati is a term for those working in the identity ecosystem dating back to at least 2006:
       >"[identirati](https://www.zdnet.com/article/the-identity-silo-paradox/)" have been working on standards and methods that are based on the premise of opening up those [id data] silos 
-* **More information** on iid standard history: \
-**[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** | **[identitywoman.net](https://identitywoman.net/)** | **[windley.com-#identity](http://www.windley.com/tags/identity.shtml)** | **[WoTinfo](https://github.com/WebOfTrustInfo/)**
+* **More information** on iid standard history: **[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** | **[identitywoman.net](https://identitywoman.net/)** | **[windley.com-#identity](http://www.windley.com/tags/identity.shtml)** | **[WoTinfo](https://github.com/WebOfTrustInfo/)**
 
-8/14 The [Credentials Community Group](https://www.w3.org/community/credentials/)[[*](https://w3c-ccg.github.io/)] forms, hosted by [World Wide Web Consortium(W3C)](https://www.w3.org/)[[t](https://twitter.com/w3c)][[g](https://github.com/w3c)] : "to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." —proposed by [Manu Sporney](http://manu.sporny.org/)[[t](https://twitter.com/manusporny)]
+8/14 The [Credentials Community Group](https://www.w3.org/community/credentials/)[[*](https://w3c-ccg.github.io/)] forms, hosted by [World Wide Web Consortium(W3C)](https://www.w3.org/)[[t](https://twitter.com/w3c)][[g](https://github.com/w3c)] : "to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." —proposed by [Manu Sporney](http://manu.sporny.org/)[[t](https://twitter.com/manusporny)][[*3*](https://digitalbazaar.com/)]
 
  
 ![](http://imgur.com/GdYLQjzl.png)
@@ -228,7 +227,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 >—*[How is IDEMix Implemented?](https://forum.sovrin.org/t/how-idemex-is-implemented-in-sovrin-indy/)*
 
 * [IBM Identity Mixer](https://www.zurich.ibm.com/identity_mixer/) | [blog](https://idemix.wordpress.com/)
-  * [idemix in Hyperledger Fabric]](https://hyperledger-fabric.readthedocs.io/en/release-1.3/idemix.html)
+  * [idemix in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.3/idemix.html)
 * [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
 * [AnonCreds: Anonymous credentials protocol implementation in python](https://github.com/hyperledger/indy-anoncreds)
 * [Anoncred — Usecase](https://github.com/hyperledger/indy-anoncreds/blob/master/docs/anoncred-usecase1.pdf)
@@ -236,7 +235,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 
 ### IBM
 
-* [https://github.com/IBM-Blockchain-Identity](github.com/IBM-Blockchain-Identity)
+* [github.com/IBM-Blockchain-Identity]https://(github.com/IBM-Blockchain-Identity)
 * [How do we start tackling the existing identity problem](https://www.ibm.com/blogs/blockchain/2018/06/how-do-we-start-tackling-the-existing-identity-problem/)
 * [Swipe Right on Verifiably Credentials](https://developer.ibm.com/code/2018/05/22/swipe-right-on-verifiable-credentials/)
 * [WISeKey fully deployed its CertifyID integrating Digital Identity with Blockchain technology](https://globenewswire.com/news-release/2018/07/11/1535718/0/en/WISeKey-fully-deployed-its-CertifyID-integrating-Digital-Identity-with-Blockchain-technology.html)
