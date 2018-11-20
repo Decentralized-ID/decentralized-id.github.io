@@ -176,7 +176,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
 * [Sovrin](https://sovrin.org/) | [forum](https://forum.sovrin.org/) | [slack](https://sovrin-slack-signup.herokuapp.com/) | [twitter](https://twitter.com/SovrinID) | [github](https://github.com/sovrin-foundation/sovrin) | [library](https://sovrin.org/library/) 
-* The Sovrin Foundation is creating a public instance of [Hyperledger](#Hyperledger-Indy) Indy's code, which was developed by [Evernym](#Evernym)
+* The Sovrin Foundation is creating a public instance of [Hyperledger](#Hyperledger-Indy) Indy's code, which was initially developed by [Evernym](#Evernym)
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
 * [Sovrin: digital identities in the blockchain era](https://sovrin.org/library/sovrin-digital-identities-in-the-blockchain-era/)
 * [Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust](https://sovrin.org/wp-content/uploads/Sovrin-Protocol-and-Token-White-Paper.pdf)
