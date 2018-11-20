@@ -24,7 +24,7 @@ Grattitude to those who are working to make our identity experience, and the wor
   * [Evernym](#Evernym)
   * [The Sovrin Foundation](#The-Sovrin-Foundation)
     * [Windley](#Windley)
-      * [Tykn Tech](#Tykn-Tech)
+    * [Tykn Tech](#Tykn-Tech)
   * [Hyperledger Indy](#Hyperledger-Indy)
     * [Idemix](#IDEMix)
   * [IBM](#IBM)
@@ -36,7 +36,7 @@ Grattitude to those who are working to make our identity experience, and the wor
     * [Spain](#Spain)
     * [Switzerland](#Switzerland)
     * [Estonia](#Estonia)
-  * [Assorted Decentralized/Blockchain ID Initiatives](#Assorted-Decentralized-\-Blockchain-ID-Initiatives)
+  * [Assorted Decentralized \ Blockchain ID Initiatives](#Assorted-Decentralized-\-Blockchain-ID-Initiatives)
   * [Data Wallet \ Marketplaces](#Data-Wallet-\-Marketplaces)
   * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation)
   * [Reports](#Reports)
@@ -64,10 +64,10 @@ Since then, the IIW has met bi-anually, actively supporting the development of t
 * [Christopher Allen](http://www.lifewithalacrity.com/)([t](https://twitter.com/ChristopherA))([g](https://github.com/ChristopherA)) details the overarching history of internet idenitity standards in his seminal work: **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[*3*]](https://www.coindesk.com/path-self-sovereign-identity/amp/).
 * [Not Just Who They Say We Are: Claiming our identity on the Internet](https://vimeo.com/207961532)- short film on the “Identerati” at IIW[[*4*]](https://www.prweb.com/releases/identitymovie/iiw2017/prweb14161721.htm)
    * Identirati is a term for those working in the identity ecosystem dating back to at least 2006:
-      >"[identirati](https://www.zdnet.com/article/the-identity-silo-paradox/)" have been working on standards and methods that are based on the premise of opening up those [id data] silos 
+      >"[identirati](https://www.zdnet.com/article/the-identity-silo-paradox/)[[*5*](https://www.forgerock.com/blog/who-are-the-identerati)]" have been working on standards and methods that are based on the premise of opening up those [id data] silos 
 * **More information** on iid standard history: **[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** | **[identitywoman.net](https://identitywoman.net/)** | **[windley.com-#identity](http://www.windley.com/tags/identity.shtml)** | **[WoTinfo](https://github.com/WebOfTrustInfo/)**
 
-8/14 The [Credentials Community Group](https://www.w3.org/community/credentials/)[[*](https://w3c-ccg.github.io/)] forms, hosted by [World Wide Web Consortium(W3C)](https://www.w3.org/)[[t](https://twitter.com/w3c)][[g](https://github.com/w3c)] : "to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." —proposed by [Manu Sporney](http://manu.sporny.org/)[[t](https://twitter.com/manusporny)][[*3*](https://digitalbazaar.com/)]
+8/14 The [Credentials Community Group](https://www.w3.org/community/credentials/)[[*](https://w3c-ccg.github.io/)] forms, hosted by [World Wide Web Consortium(W3C)](https://www.w3.org/)[[t](https://twitter.com/w3c)][[g](https://github.com/w3c)] : "to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." —proposed by [Manu Sporney](http://manu.sporny.org/)[[t](https://twitter.com/manusporny)][[*6*](https://digitalbazaar.com/)]
 
  
 ![](http://imgur.com/GdYLQjzl.png)
@@ -76,9 +76,9 @@ Since then, the IIW has met bi-anually, actively supporting the development of t
 
 In relation to SSI, '[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims. *Each party attesting to your identity information becomes a strand in your web of trust.*
 
-The first Rebooting Web of Trust ([RWoT](http://www.WebOfTrust.info)[[g]](https://github.com/WebOfTrustInfo/))  workshop was held during [November 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust); attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/). 
+The first Rebooting Web of Trust ([RWoT](http://www.WebOfTrust.info)[[g](https://github.com/WebOfTrustInfo/)])  workshop was held during [November 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust); attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/). 
 
-The goal of the initial workshop, was to create 5[[*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/README.md)] technical white papers: [[5 WoT-usecases]](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf) | [Decentralized PKI](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf) | [Smart Signatures](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf)(Bitcoin inspired) | [Creating a New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf) | [Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf):
+The goal of the initial workshop, was to create 5[[*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/README.md)] technical white papers: [[5 WoT-usecases](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)][[Decentralized PKI](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)][[Smart Signatures](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf)(Bitcoin inspired)][[Creating a New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf)][[Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf)]:
 
 >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP [...] the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it.
 
@@ -86,7 +86,7 @@ The goal of the initial workshop, was to create 5[[*](https://github.com/WebOfTr
 
 ### Bitnation and the United Nations 
 
-9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*blockchain emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[*5*]](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/) The same month, the UN unveiled it's *Agenda for Sustainable Development*
+9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*blockchain emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[*7*](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/)] The same month, the UN unveiled it's *Agenda for Sustainable Development*
 
 * [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)
 > **Goal 16.9 By 2030, provide legal identity for all, including birth registration**
@@ -97,7 +97,7 @@ The goal of the initial workshop, was to create 5[[*](https://github.com/WebOfTr
 
 ![](http://imgur.com/ymviAssl.png)
 
-[4/16](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en) the EU adopted the GDPR, enacted as law May 2018. The second RWoT workshop ran in conjunction with the UN's [ID2020](https://id2020.org/) Summit in New York that [May](https://press.pwc.com/News-releases/id2020-to-kick-start-digital-identity-summit-at-un-with-pwc-support./s/9fe11be5-cbd8-486b-b4d2-d798f486d0f2). There are an estimated 1.5 billion without a legal identity.[[*6*]](https://id2020.org/news/2016/12/2/identity-20) Without a legal identity it is very difficult to recieve any services, aide, or to advance ones station in life. 
+[4/16](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en) the EU adopted the GDPR, enacted as law May 2018. The second RWoT workshop ran in conjunction with the UN's [ID2020](https://id2020.org/) Summit in New York that [May](https://press.pwc.com/News-releases/id2020-to-kick-start-digital-identity-summit-at-un-with-pwc-support./s/9fe11be5-cbd8-486b-b4d2-d798f486d0f2). There are an estimated 1.5 billion without a legal identity.[[*8*](https://id2020.org/news/2016/12/2/identity-20)] Without a legal identity it is very difficult to recieve any services, aide, or to advance ones station in life. 
 
 During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/README.md)] the DID identifier began to emerge:
 * [Clearer Identity Through Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)
