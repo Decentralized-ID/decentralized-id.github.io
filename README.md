@@ -41,7 +41,7 @@ Grattitude to those who are working to make our identity experience, and the wor
     * [Estonia](#Estonia)
   * [Assorted Decentralized/Blockchain ID Initiatives](#Assorted-Decentralized-\-Blockchain-ID-Initiatives)
   * [Data Wallet \ Marketplaces](#Data-Wallet-\-Marketplaces)
-  * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation—DIF)
+  * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation)
   * [Reports](#Reports)
   * [Research Papers](#Research-Papers)
   * [RWoT Use Cases](#RWoT-Use-Cases) —infogrphic workflow examples
@@ -358,7 +358,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [ONTology](https://ont.io/) | [github](https://github.com/ontio/ontology-DID)— "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
 * [We can do better than selling our data](http://blogs.harvard.edu/doc/2018/09/18/data/)-Doc Searls(*IIW*)
 
-### Decentralized Identity Foundation—DIF
+### Decentralized Identity Foundation (DIF)
 
 ![](http://imgur.com/PXGV6Xyl.png)
 
