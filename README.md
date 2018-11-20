@@ -39,7 +39,7 @@ Grattitude to those who are working to make our identity experience, and the wor
     * [Estonia](#Estonia)
   * [Assorted Decentralized/Blockchain ID Initiatives](#Assorted-Decentralized-\-Blockchain-ID-Initiatives)
   * [Data Wallet \ Marketplaces](#Data-Wallet-\-Marketplaces)
-  * [Decentralized Identity Foundation—DIF](#Decentralized Identity Foundation)
+  * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation)
   * [Reports](#Reports)
   * [Research Papers](#Research-Papers)
   * [RWoT Use Cases](#RWoT-Use-Cases) —infogrphic workflow examples
