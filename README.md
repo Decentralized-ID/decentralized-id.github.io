@@ -41,7 +41,7 @@ Grattitude to those who are working to make our identity experience, and the wor
     * [Estonia](#Estonia)
   * [Assorted Decentralized/Blockchain ID Initiatives](#Assorted-Decentralized-\-Blockchain-ID-Initiatives)
   * [Data Wallet \ Marketplaces](#Data-Wallet-\-Marketplaces)
-  * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation)
+  * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundationz)
   * [Reports](#Reports)
   * [Research Papers](#Research-Papers)
   * [RWoT Use Cases](#RWoT-Use-Cases) —infogrphic workflow examples
@@ -152,13 +152,13 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [When GDPR Becomes Real, and Blockchain is no longer fairydust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
 * [Privacy Impact Assesment (PIA)](https://en.wikipedia.org/wiki/Privacy_Impact_Assessment) — a process which assists organizations in identifying and minimizing the privacy risks of new projects or policies.
 
-### Self Sovereign Identity—SSI
+### Self Sovereign Identity
 
 ![](http://imgur.com/3zz62kpl.png)
 
 * [WebOfTrustInfo/self-sovereign-id](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 * [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
-* [A Technlogy-Free Definition of Self-Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) 
+* [A Technlogy-Free Definition of Self-Sovereign Identity (SSI)](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) 
 * [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
 * [Experts talk Self-Sovereign Identity](https://www.coindesk.com/experts-talk-self-sovereign-identity-implementing-systems/)
@@ -358,11 +358,11 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [ONTology](https://ont.io/) | [github](https://github.com/ontio/ontology-DID)— "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
 * [We can do better than selling our data](http://blogs.harvard.edu/doc/2018/09/18/data/)-Doc Searls(*IIW*)
 
-### Decentralized Identity Foundation (DIF)
+### Decentralized Identity Foundation 
 
 ![](http://imgur.com/PXGV6Xyl.png)
 
-* [Decentralized Identity Foundation](http://identity.foundation/) | [github](https://github.com/decentralized-identity) | [twitter](https://twitter.com/DecentralizedID) | [medium](https://medium.com/decentralized-identity)
+* [Decentralized Identity Foundation](http://identity.foundation/) (DIF) | [github](https://github.com/decentralized-identity) | [twitter](https://twitter.com/DecentralizedID) | [medium](https://medium.com/decentralized-identity)
    - Members include: Microsoft, uPort, IBM, Sovrin, SecureKey, Blockstack, Evernym, Hyperledger, Civic, Accenture, Danube, netki, RSA, Consent, IOTA, Muti, r3, Aunthenteq, Blockchain-foundry, Validatedid, 1kosmos, gamecredits, [auth0](https://auth0.com/), jolocom, Enigma, Humanized-internet, Pillar, id2020, Nuggets.
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md)
