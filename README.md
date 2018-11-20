@@ -22,7 +22,7 @@ Grattitude to those who are working to make our identity experience, and the wor
 * [Resources](#Resources)
   * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
     * [DID the Decentralized Identifier ](#DID the Decentralized Identifier) 
-  * [EU GDPR](#EU-General-Data-Protection-Regulation-Act-(GDPR))
+  * [EU GDPR](#EU-General-Data-Protection-Regulation-Act)
   * [Self Sovereign Identity—SSI](#Self-Sovereign-ID)
   * [Evernym](#Evernym)
   * [The Sovrin Foundation](#The-Sovrin-Foundation)
@@ -142,7 +142,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
 * [Veres One DID Method 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/did-method-veres-one.md) — a permissionless public ledger designed specifically for the creation and management of decentralized identifiers (DIDs)
 
-### #EU General Data Protection Regulation Act (GDPR)
+### EU General Data Protection Regulation Act
 
 * [Blockchains and Data Protection in the European Union](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3080322)
 * [IBM — How blockchain could address five areas associated with GDPR compliance](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=61014461USEN)
