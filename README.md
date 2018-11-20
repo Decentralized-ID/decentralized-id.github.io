@@ -414,7 +414,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 ### People
 
 * [Manu Sporny](https://digitalbazaar.com/blog/) | [twitter](https://twitter.com/manusporny)
-* [Markus Sabadello —Peacekeeper](https://danubetech.com/) | [twitter](https://twitter.com/peacekeeper) | [github](https://github.com/peacekeeper) | [medium](https://medium.com/@markus.sabadello)
+* [Markus Sabadello —Peacekeeper](https://danubetech.com/)  [uniresolver.io/](https://uniresolver.io/) | [twitter](https://twitter.com/peacekeeper) | [github](https://github.com/peacekeeper) | [medium](https://medium.com/@markus.sabadello)
 
 ### Resources
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
