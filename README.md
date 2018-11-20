@@ -1,4 +1,4 @@
-# Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources v0.4
+# Awesome Decentralized, Self-Sovereign, and Blockchain Identity Resources v0.4
 
 Grattitude to those who are working to make our identity experience, and the world, a better place.
 
