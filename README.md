@@ -23,7 +23,7 @@ Grattitude to those who are working to make our identity experience, and the wor
   * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
     * [DID the Decentralized Identifier ](#DID the Decentralized Identifier) 
   * [EU GDPR](#EU-General-Data-Protection-Regulation-Act)
-  * [Self Sovereign Identity—SSI](#Self-Sovereign-ID)
+  * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
   * [Evernym](#Evernym)
   * [The Sovrin Foundation](#The-Sovrin-Foundation)
     * [Windley](#Windley)
