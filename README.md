@@ -29,7 +29,7 @@ Grattitude to those who are working to make our identity experience, and the wor
     * [Windley](#Windley)
       * [Tykn Tech](#Tykn-Tech)
   * [Hyperledger Indy](#Hyperledger-Indy)
-    * [Idemix](#IDEMix-—-Zero-Knowledge-Proof's-in-Evernym—Indy)
+    * [Idemix](#IDEMix)
   * [IBM](#IBM)
   * [Ethereum—Protocol](#Ethereum)
     * [Ethereum Apps](#Ethereum-Identity-Applications)
@@ -39,12 +39,12 @@ Grattitude to those who are working to make our identity experience, and the wor
     * [Spain](#Spain)
     * [Switzerland](#Switzerland)
     * [Estonia](#Estonia)
-  * [Assorted Decentralized/Blockchain ID Initiatives](#Assorted-Decentralized/Blockchain-ID-Initiatives)
+  * [Assorted Decentralized/Blockchain ID Initiatives](#Assorted-Decentralized-\-Blockchain-ID-Initiatives)
   * [Data Wallet \ Marketplaces](#Data-Wallet-\-Marketplaces)
   * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation—DIF)
   * [Reports](#Reports)
   * [Research Papers](#Research-Papers)
-  * [RWoT Use Cases—infogrphic workflow examples](#RWoT-Use-Cases—infogrphic-workflow-examples)
+  * [RWoT Use Cases](#RWoT-Use-Cases) —infogrphic workflow examples
   * [Resources](#Resources)
   * [People](#People)
 
@@ -220,7 +220,8 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) edx course may be freely audited has a section about Indy. 
 
 
-#### IDEMix — Zero Knowledge Proof's in Evernym—Indy
+#### IDEMix 
+  — Zero Knowledge Proof's in Evernym—Indy
 
 >Our zero-knowledge proofs are part of the [Idemix protocol](http://domino.research.ibm.com/library/cyberdig.nsf/papers/EEB54FF3B91C1D648525759B004FBBB1/%24File/rz3730_revised.pdf), where they are used to prove the possession of [Camenisch-Lysyanskaya credentials](https://eprint.iacr.org/2001/019.pdf). We also use zero-knowledge proofs in the revocation protocol, which is based on [cryptographic accumulators](https://eprint.iacr.org/2008/539.pdf). —*[What Zero Knowledge Poof Algorithm is used in Sovrin?](https://forum.sovrin.org/t/what-zero-knowledge-proof-algorithm-is-used-in-sovrin/71/2)*
 
@@ -302,7 +303,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) | [id.ee](https://www.id.ee/)
    * [Estonian Blockchain ID Card Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
 
-### Assorted Decentralized/Blockchain ID Initiatives
+### Assorted Decentralized \ Blockchain ID Initiatives
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e)
 * [Civic](https://www.civic.com/)
 * [Proof of Authority](https://blockonomi.com/proof-of-authority/)
@@ -392,7 +393,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [Self-sovereign Identity –	Opportunities and Challenges for the Digital Revolution](https://arxiv.org/pdf/1712.01767.pdf)
 * [The Knowledge Complexity Of Interactive Proofs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&)
 
-### RWoT Papers
+### RWoT 
 * [Creating the New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf)
 * [Framework for the Comparison of Identity Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/Framework-for-Comparison-of-Identity-Systems.md)
 * [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md)
@@ -402,7 +403,8 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
 * [Smart Consent Protocol](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/smart-consent-protocol.pdf)
 
-#### RWoT Use Cases—infogrphic workflow examples 
+#### RWoT Use Cases
+  —infogrphic workflow examples 
 * [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)
 * [Re-Imagining What Users Really Want](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/what-users-really-want.md)
 * [Joram 1.0.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/joram-engagement-model.pdf)
