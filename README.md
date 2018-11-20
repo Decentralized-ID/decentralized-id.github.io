@@ -1,4 +1,4 @@
-# awesome-decentralized-id v0.2
+# awesome-decentralized-id v0.3
 
 Grattitude to those who are working to make our identity experience, and the world, a better place.
 
@@ -6,15 +6,49 @@ Grattitude to those who are working to make our identity experience, and the wor
 
 \\\Over the coming weeks, I'll continue to fill in context, rearrange a bit; and introduce more-better resources, as needed.
 
-![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
-
-
 # Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
 
-*Link abbreviations: (t)witter, (g)ithub, (wp)whitepaper, (wiki) is hard to abbreviate, (b)log, (v)ideo, (a)udio*
+![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [Jerry Cuomo -IBM](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
 
+### Contents
+
+* History
+  * Internet Identity Workshop (IIW) 
+  * Rebooting Web of Trust (RWoT)
+  * Bitnation and the United Nations
+    * ID2020 and GDPR
+* Resources
+  * Worldwide Web Consortium (W3C)
+    * Decentralized Identifier (DID) 
+  * EU General Data Protection Regulation (GDPR)
+  * Evernym
+  * Sovrin Foundation
+    * Tykn
+    * Content By Phil Windley
+  * Hyperledger Indy
+    * Idemix
+  * IBM
+  * Ethereum
+    * Ethereum related Identity Application
+  * State Led Identity Initiatives
+    * Canada
+    * Netherlands
+    * Spain
+    * Switzerland
+    * Estonia
+  * Assorted Blockchain\Decentralized ID Resources
+  * Data Wallet \ Marketplaces
+  * Decentralized Identity Foundation (DIF)
+  * Reports
+  * Research Papers
+  * RWoT Papers
+  * Resources
+  * People  
+
+
+*Link abbreviations: (t)witter, (g)ithub, (wp)whitepaper, (wiki) is hard to abbreviate, (b)log*
 
 ## History
 
@@ -373,7 +407,7 @@ Now that we understand some of the history behind decentralized identity, the re
 * [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
 * [Smart Consent Protocol](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/smart-consent-protocol.pdf)
 
-### RWoT Use Cases -infogrphic workflow examples 
+#### RWoT Use Cases -infogrphic workflow examples 
 * [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)
 * [Re-Imagining What Users Really Want](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/what-users-really-want.md)
 * [Joram 1.0.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/joram-engagement-model.pdf)
