@@ -2,6 +2,7 @@ Seeking:
 
 * ideas about organizing the "Assorted" section
 * any historical stuff.
+* also, more recent stuff that I don't know about\haven't listed yet
 * All of the Links! 
 
 Come on, I know you have some bookmarks folder full of awesome sauce! **Don't** hold out on me!
