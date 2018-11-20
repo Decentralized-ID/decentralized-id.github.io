@@ -46,7 +46,9 @@ Gratitude to those who are working to make our identity experience, and the worl
   * [People](#People)
 
 
-*Link abbreviations: (t)witter, (g)ithub, (wp)whitepaper, (wiki) is hard to abbreviate, (b)log*
+*Link abbreviations: (**f**)orum, (**t**)witter, (**g**)ithub, (**wp**)whitepaper, (**wiki**) is hard to abbreviate, 'official' (**b**)log, (**c**)hat, (**d**)ocumentation.
+
+Numbered links are supporting information for a given subject not easily categorized*
 
 ## History
 
@@ -56,7 +58,7 @@ First we'll go over some history, to give the decentralized identity story some 
 
 ### Internet Identity Workshop
 
-In 2005, [Kaliya Young](https://identitywoman.net/)[[**t**](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[**t**](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[**t**](https://twitter.com/drummondreed)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[**1**](https://blogs.harvard.edu/doc/2013/10/14/iiw-challenge-1-sovereign-identity-in-the-great-silo-forest/)][[**t**](https://twitter.com/dsearls)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)[[**t**](https://twitter.com/idworkshop)](IIW) in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
+In 2005, [Kaliya Young](https://identitywoman.net/)[[**t**](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[**t**](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[**t**](https://twitter.com/drummondreed)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[**1**](https://blogs.harvard.edu/doc/2013/10/14/iiw-challenge-1-sovereign-identity-in-the-great-silo-forest/)][[**t**](https://twitter.com/dsearls)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)(IIW)[[**t**](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
 Since then, the IIW has met bi-anually, actively supporting the development of the identity software-ecosystem, including [OpenID](http://wiki.openid.net)('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1)('06), [OAuth](https://en.wikipedia.org/wiki/OAuth)('10), [FIDO](https://fidoalliance.org/)('13) and OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect)('14). The heart of the internet identity community has been with empowering users and self-sovereign principles, since the early days.
 
@@ -175,14 +177,15 @@ During the RWoT\ID2020 Workshop[[**11**](https://github.com/WebOfTrustInfo/ID202
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
-* [Sovrin](https://sovrin.org/) | [forum](https://forum.sovrin.org/) | [slack](https://sovrin-slack-signup.herokuapp.com/) | [twitter](https://twitter.com/SovrinID) | [github](https://github.com/sovrin-foundation/sovrin) | [library](https://sovrin.org/library/) 
-* The Sovrin Foundation is creating a public instance of [Hyperledger](#Hyperledger-Indy) Indy's code, which was initially developed by [Evernym](#Evernym)
+* The [Sovrin](https://sovrin.org/)[[**f**](https://forum.sovrin.org/)][[**c**](https://sovrin-slack-signup.herokuapp.com/)][[**t**](https://twitter.com/SovrinID)][[**g**](https://github.com/sovrin-foundation/sovrin)][[**d**](https://sovrin.org/library/)]
+ Foundation is creating a public instance of [Hyperledger](#Hyperledger-Indy) Indy's code, which was initially developed by [Evernym](#Evernym)
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
 * [Sovrin: digital identities in the blockchain era](https://sovrin.org/library/sovrin-digital-identities-in-the-blockchain-era/)
 * [Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust](https://sovrin.org/wp-content/uploads/Sovrin-Protocol-and-Token-White-Paper.pdf)
 * [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/)
 * [How Sovrin Works—A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
+* [Sovrin Test Network Trust Anchor Registration](https://s3.us-east-2.amazonaws.com/evernym-cs/sovrin-STNnetwork/www/trust-anchor.html)[[**f**](https://forum.sovrin.org/t/testing-on-the-sovrin-test-network-stn/643/17)]
 
 #### Windley
 * [The Sovrin Foundation](http://www.windley.com/archives/2018/07/the_sovrin_foundation.shtml)
@@ -193,6 +196,7 @@ During the RWoT\ID2020 Workshop[[**11**](https://github.com/WebOfTrustInfo/ID202
 * [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
 * [The Case for Decentralized Identity](http://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml)
 * [Building Your Business on Sovrin: Domain-Specific Trust Frameworks](http://www.windley.com/archives/2018/03/building_your_business_on_sovrin_domain-specific_trust_frameworks.shtml)
+
 
 ##### Tykn Tech
 
@@ -318,10 +322,10 @@ During the RWoT\ID2020 Workshop[[**11**](https://github.com/WebOfTrustInfo/ID202
 * [CheapID](http://guptaoption.com/cheapid/)
 * [Deloitte SmartID](http://www.deloitte.co.uk/smartid/)
 * [Internet of People](https://iop.global/) — "an open, decentralized infrastructure consisting of device-to-device communication, blockchain tokens, profile servers, and other components."
-* [Blockchain Helix](http://blockchain-helix.com) | [ico](https://ico.helix-orange.com/) | [whitepaper](https://ico.helix-orange.com/wp-content/uploads/2018/08/HELIX-Orange_Whitepaper_v1.5.pdf)
+* [Blockchain Helix](http://blockchain-helix.com)[[**ico**](https://ico.helix-orange.com/)][[**wp**](https://ico.helix-orange.com/wp-content/uploads/2018/08/HELIX-Orange_Whitepaper_v1.5.pdf)]
    * "Identity as a Service", "Data as a Service" and "Blockchain as a Service" The company offers to increase the speed of KYC/AML processes while hughly decreasing the cost 
 * [The Humanized Internet](http://www.thehumanizedinternet.org/) — "to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity."
-* [Civic](https://www.civic.com/)
+* [Civic](https://www.civic.com/) launches: [identity.com](https://identity.com)[[**g**](https://github.com/identity-com/)][[**b**](https://www.civic.com/blog/identity-com-first-open-source-update/)]
 * [Mooti](https://mooti.co/) | [docs](https://docs.mooti.co/)
    * offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features
 * [Banqu](http://www.banquapp.com/) —"focuses on establishing 'economic identity' for those who are excluded from the global economy."
