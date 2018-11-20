@@ -1,10 +1,8 @@
-# awesome-decentralized-id v0.3
+# awesome-decentralized-id v0.4
 
 Grattitude to those who are working to make our identity experience, and the world, a better place.
 
 [Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)
-
-\\\Over the coming weeks, I'll continue to fill in context, rearrange a bit; and introduce more-better resources, as needed.
 
 # Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
 
@@ -432,7 +430,7 @@ A few of us are building a library of crypto knowledge on a discord server. Now 
 
 Self-Sovereign Identity is one of my favorite subjects in crypto, which is how this became the [Crypto-library](https://github.com/infominer33/Crypto-library)'s first side-project. 
 
-It's also market research, as we're figuring out how to monetize this monumental task / seeking sponsorship.
+It's also market research, as we're figuring out how to monetize this monumental task of creating a web-portal Super Source of Crypto knowledge
 
 ---
 Any contribution would be greatly appreciated!!    
