@@ -4,7 +4,7 @@ Seeking:
 
 * All of the Links! 
 
-Come on, I know you have some bookmarks folder full of awesome sauce! **Don't hold out on me!**
+Come on, I know you have some bookmarks folder full of awesome sauce! **Don't** hold out on me!
 
 * To connect with other crypto research enthusiasts, and freelancers. 
 
