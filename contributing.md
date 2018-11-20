@@ -23,7 +23,7 @@ I still smoke quality tobacco, I hope that's not going to be a problem.
 
 I'm a newish freelancer progressing towards a livable wage, working primarily at crypto educational materials.
 
-—infominer@protonmail.com
+—infominer@protonmail.com\
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
 ![](http://imgur.com/xMd9r0rl.png)
