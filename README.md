@@ -16,7 +16,7 @@ Grattitude to those who are working to make our identity experience, and the wor
 
 * [History](#History)
   * [Internet Identity Workshop—IIW](#Internet-Identity-Workshop) 
-  * [#Rebooting-Web-of-Trust—RWoT](##Rebooting-Web-Of-Trust)
+  * [#Rebooting-Web-of-Trust (RWoT)](#Rebooting-the-Web-Of-Trust)
   * [Bitnation and the United Nations](#Bitnation-and-the-United-Nations)
     * [ID2020 and the GDPR](#ID2020-and-the-GDPR)
 * [Resources](#Resources)
@@ -75,7 +75,7 @@ Since then, the IIW has met bi-anually, actively supporting the development of t
  
 ![](http://imgur.com/GdYLQjzl.png)
 
-### #Rebooting-Web-of-Trust
+### Rebooting the Web Of Trust
 
 In relation to SSI, '[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims. *Each party attesting to your identity information becomes a strand in your web of trust.*
 
