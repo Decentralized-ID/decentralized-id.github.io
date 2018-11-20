@@ -14,38 +14,39 @@ Grattitude to those who are working to make our identity experience, and the wor
 
 ### Contents
 
-* History
-  * Internet Identity Workshop (IIW) 
-  * Rebooting Web of Trust (RWoT)
-  * Bitnation and the United Nations
-    * ID2020 and GDPR
-* Resources
-  * Worldwide Web Consortium (W3C)
-    * Decentralized Identifier (DID) 
-  * EU General Data Protection Regulation (GDPR)
-  * Evernym
-  * Sovrin Foundation
-    * Tykn
-    * Content By Phil Windley
-  * Hyperledger Indy
-    * Idemix
-  * IBM
-  * Ethereum
-    * Ethereum related Identity Application
-  * State Led Identity Initiatives
-    * Canada
-    * Netherlands
-    * Spain
-    * Switzerland
-    * Estonia
-  * Assorted Blockchain\Decentralized ID Resources
-  * Data Wallet \ Marketplaces
-  * Decentralized Identity Foundation (DIF)
-  * Reports
-  * Research Papers
-  * RWoT Papers
-  * Resources
-  * People  
+* [#History](#History)
+  * [Internet Identity Workshop (IIW)](#Internet-Identity-Workshop—IIW) 
+  * [Rebooting Web of Trust (RWoT)](#Rebooting-Web-Of-Trust)
+  * [Bitnation and the United Nations](#Bitnation-and-the-United-Nations)
+    * [ID2020 and GDPR](#ID2020-and-the-GDPR)
+* [Resources](#Resources)
+  * [Worldwide Web Consortium (W3C)](#World-Wide-Web-Consortium—W3C)
+    * [Decentralized Identifier (DID)](#Decentralized-Identifier-(DID)) 
+  * [EU General Data Protection Regulation (GDPR)](#EU-General-Data-Protection-Regulation-(GDPR))
+  * [Self-Sovereign-ID (SSI)](#Self-Sovereign-ID-(SSI))
+  * [Evernym](#Evernym)
+  * [The Sovrin Foundation](#The-Sovrin-Foundation)
+    * [Windley](#Windley)
+      * [Tykn Tech](#Tykn-Tech)
+  * [Hyperledger Indy](#Hyperledger-Indy)
+    * [Idemix](#Idemix)
+  * [IBM](#IBM)
+  * [Ethereum—Protocol](#Ethereum)
+    * [Ethereum Apps](#Ethereum-Identity-Applications)
+  * [State Led Identity Initiatives](#State-Led-Initiatives)
+    * [Canada](#Canada)
+    * [Netherlands](#Netherlands)
+    * [Spain](#Spain)
+    * [Switzerland](#Switzerland)
+    * [Estonia](#Estonia)
+  * [Assorted Decentralized/Blockchain ID Initiatives](#Assorted-Decentralized/Blockchain-ID-Initiatives)
+  * [Data Wallet \ Marketplaces](#Data-Wallet-\-Marketplaces)
+  * [Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation-(DIF))
+  * [Reports](#Reports)
+  * [Research Papers](#Research-Papers)
+  * [RWoT Papers](#RWoT-Papers)
+  * [Resources](#Resources)
+  * [People](#People)
 
 
 *Link abbreviations: (t)witter, (g)ithub, (wp)whitepaper, (wiki) is hard to abbreviate, (b)log*
@@ -112,7 +113,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 
 ## Resources
 
-### w3c
+### World Wide Web Consortium—W3C
 
 ![](http://imgur.com/Lz6RTysl.png)
 
@@ -126,7 +127,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
 
-#### DID
+#### Decentralized Identifier (DID)
 
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md)
@@ -173,7 +174,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
 * [Is Self-Sovereign Identity the ultimate GDPR compliance tool? (1 of 3)](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) -[2](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437) -[3](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)
 
-### Sovrin
+### The Sovrin Foundation
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
@@ -185,14 +186,6 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [How Sovrin Works—A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 
-#### Tykn
-
-![](http://imgur.com/1uO0AWll.png)
-
-* [Tykn *The Future of Resilient Identity*](https://tykn.tech/) | [twitter](https://twitter.com/Tykn_tech) | [github](https://github.com/tykntech)
-* [Tykn: Extended Overview](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)
-* [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
-
 #### Windley
 * [The Sovrin Foundation](http://www.windley.com/archives/2018/07/the_sovrin_foundation.shtml)
 * [A Universal Trust Framework](http://www.windley.com/archives/2017/01/a_universal_trust_framework.shtml)
@@ -202,6 +195,14 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
 * [The Case for Decentralized Identity](http://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml)
 * [Building Your Business on Sovrin: Domain-Specific Trust Frameworks](http://www.windley.com/archives/2018/03/building_your_business_on_sovrin_domain-specific_trust_frameworks.shtml)
+
+##### Tykn Tech
+
+![](http://imgur.com/1uO0AWll.png)
+
+* [Tykn *The Future of Resilient Identity*](https://tykn.tech/) | [twitter](https://twitter.com/Tykn_tech) | [github](https://github.com/tykntech)
+* [Tykn: Extended Overview](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)
+* [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
 
 
 ### Indy
@@ -301,7 +302,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) | [id.ee](https://www.id.ee/)
    * [Estonian Blockchain ID Card Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
 
-### Assorted Decentralized\Blockchain ID Initiatives
+### Assorted Decentralized/Blockchain ID Initiatives
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e)
 * [Civic](https://www.civic.com/)
 * [Proof of Authority](https://blockonomi.com/proof-of-authority/)
@@ -356,7 +357,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [ONTology](https://ont.io/) | [github](https://github.com/ontio/ontology-DID)— "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
 * [We can do better than selling our data](http://blogs.harvard.edu/doc/2018/09/18/data/)-Doc Searls(*IIW*)
 
-### DIF
+### Decentralized Identity Foundation (DIF)
 
 ![](http://imgur.com/PXGV6Xyl.png)
 
