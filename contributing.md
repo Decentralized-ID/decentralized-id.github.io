@@ -5,7 +5,7 @@ Seeking:
 * also, more recent stuff that I don't know about\haven't listed yet
 * All of the Links! 
 
-Come on, I know you have some bookmarks folder full of awesome sauce! **Don't** hold out on me!
+Come on, I know you have some bookmarks folder full of awesome sauce! **Don't** hold out on me! I would be happy to sort through them if you don't want to do all that... i do :D
 
 * To connect with other crypto research enthusiasts, and freelancers. 
 * IDK You tell ME what kind of contributions I'm looking for :D
