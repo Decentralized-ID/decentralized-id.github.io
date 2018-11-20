@@ -44,7 +44,7 @@ Grattitude to those who are working to make our identity experience, and the wor
   * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation—DIF)
   * [Reports](#Reports)
   * [Research Papers](#Research-Papers)
-  * [RWoT Papers](#RWoT-Papers)
+  * [RWoT Use Cases—infogrphic workflow examples](#RWoT-Use-Cases—infogrphic-workflow-examples)
   * [Resources](#Resources)
   * [People](#People)
 
@@ -402,7 +402,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
 * [Smart Consent Protocol](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/smart-consent-protocol.pdf)
 
-#### RWoT Use Cases -infogrphic workflow examples 
+#### RWoT Use Cases—infogrphic workflow examples 
 * [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)
 * [Re-Imagining What Users Really Want](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/what-users-really-want.md)
 * [Joram 1.0.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/joram-engagement-model.pdf)
