@@ -1,10 +1,8 @@
-# awesome-decentralized-id v0.4
+# Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources v0.4
 
 Grattitude to those who are working to make our identity experience, and the world, a better place.
 
 [Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)
-
-# Awesome Decentralized, Self-Sovereign, and Blockchain Identity resources
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
