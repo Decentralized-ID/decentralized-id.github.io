@@ -23,13 +23,13 @@ Grattitude to those who are working to make our identity experience, and the wor
   * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium—W3C)
     * [Decentralized Identifier—DID](#Decentralized-Identifier—DID) 
   * [EU GDPR](#EU-General-Data-Protection-Regulation-Act—GDPR)
-  * [Self-Sovereign-ID (SSI)](#Self-Sovereign-ID-(SSI))
+  * [Self Sovereign Identity—SSI](#Self-Sovereign-ID—SSI)
   * [Evernym](#Evernym)
   * [The Sovrin Foundation](#The-Sovrin-Foundation)
     * [Windley](#Windley)
       * [Tykn Tech](#Tykn-Tech)
   * [Hyperledger Indy](#Hyperledger-Indy)
-    * [Idemix](#Idemix)
+    * [Idemix](#IDEMix-—-Zero-Knowledge-Proof's-in-Evernym—Indy)
   * [IBM](#IBM)
   * [Ethereum—Protocol](#Ethereum)
     * [Ethereum Apps](#Ethereum-Identity-Applications)
@@ -41,7 +41,7 @@ Grattitude to those who are working to make our identity experience, and the wor
     * [Estonia](#Estonia)
   * [Assorted Decentralized/Blockchain ID Initiatives](#Assorted-Decentralized/Blockchain-ID-Initiatives)
   * [Data Wallet \ Marketplaces](#Data-Wallet-\-Marketplaces)
-  * [Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation-(DIF))
+  * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation—DIF)
   * [Reports](#Reports)
   * [Research Papers](#Research-Papers)
   * [RWoT Papers](#RWoT-Papers)
@@ -152,7 +152,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [When GDPR Becomes Real, and Blockchain is no longer fairydust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
 * [Privacy Impact Assesment (PIA)](https://en.wikipedia.org/wiki/Privacy_Impact_Assessment) — a process which assists organizations in identifying and minimizing the privacy risks of new projects or policies.
 
-### Self-Sovereign-ID (SSI)
+### Self Sovereign Identity—SSI
 
 ![](http://imgur.com/3zz62kpl.png)
 
@@ -357,7 +357,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [ONTology](https://ont.io/) | [github](https://github.com/ontio/ontology-DID)— "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
 * [We can do better than selling our data](http://blogs.harvard.edu/doc/2018/09/18/data/)-Doc Searls(*IIW*)
 
-### Decentralized Identity Foundation (DIF)
+### Decentralized Identity Foundation—DIF
 
 ![](http://imgur.com/PXGV6Xyl.png)
 
