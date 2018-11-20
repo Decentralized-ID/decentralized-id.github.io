@@ -15,15 +15,15 @@ Grattitude to those who are working to make our identity experience, and the wor
 ### Contents
 
 * [History](#History)
-  * [Internet Identity Workshop—IIW](#Internet-Identity-Workshop—IIW) 
-  * [#Rebooting-Web-of-Trust—RWoT](##Rebooting-Web-Of-Trust—RWoT)
+  * [Internet Identity Workshop—IIW](#Internet-Identity-Workshop) 
+  * [#Rebooting-Web-of-Trust—RWoT](##Rebooting-Web-Of-Trust)
   * [Bitnation and the United Nations](#Bitnation-and-the-United-Nations)
-    * [ID2020 and GDPR](#ID2020-and-the-GDPR)
+    * [ID2020 and the GDPR](#ID2020-and-the-GDPR)
 * [Resources](#Resources)
-  * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium—W3C)
-    * [Decentralized Identifier—DID](#Decentralized-Identifier—DID) 
-  * [EU GDPR](#EU-General-Data-Protection-Regulation-Act—GDPR)
-  * [Self Sovereign Identity—SSI](#Self-Sovereign-ID—SSI)
+  * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
+    * [DID the Decentralized Identifier ](#DID the Decentralized Identifier) 
+  * [EU GDPR](#EU-General-Data-Protection-Regulation-Act-(GDPR))
+  * [Self Sovereign Identity—SSI](#Self-Sovereign-ID)
   * [Evernym](#Evernym)
   * [The Sovrin Foundation](#The-Sovrin-Foundation)
     * [Windley](#Windley)
@@ -57,9 +57,9 @@ First we'll go over some history, to give the decentralized identity story some 
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
-### Internet Identity Workshop—IIW
+### Internet Identity Workshop
 
-In 2005, [Kaliya Young](https://identitywoman.net/)[[t](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[t](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[t](https://twitter.com/drummondreed)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[*](https://blogs.harvard.edu/doc/2013/10/14/iiw-challenge-1-sovereign-identity-in-the-great-silo-forest/)][[t](https://twitter.com/dsearls)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)[[t](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
+In 2005, [Kaliya Young](https://identitywoman.net/)[[t](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[t](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[t](https://twitter.com/drummondreed)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[*](https://blogs.harvard.edu/doc/2013/10/14/iiw-challenge-1-sovereign-identity-in-the-great-silo-forest/)][[t](https://twitter.com/dsearls)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)[[t](https://twitter.com/idworkshop)](IIW) in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
 Since then, the IIW has met bi-anually, actively supporting the development of the identity software-ecosystem, including [OpenID](http://wiki.openid.net)('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1)('06), [OAuth](https://en.wikipedia.org/wiki/OAuth)('10), [FIDO](https://fidoalliance.org/)('13) and OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect)('14). The heart of the internet identity community has been with empowering users and self-sovereign principles, since the early days.
 
@@ -75,11 +75,11 @@ Since then, the IIW has met bi-anually, actively supporting the development of t
  
 ![](http://imgur.com/GdYLQjzl.png)
 
-### #Rebooting-Web-of-Trust—RWoT
+### #Rebooting-Web-of-Trust
 
 In relation to SSI, '[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims. *Each party attesting to your identity information becomes a strand in your web of trust.*
 
-The first [RWoT](http://www.WebOfTrust.info)[[g]](https://github.com/WebOfTrustInfo/)  workshop was held during [November 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust); attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/). 
+The first Rebooting Web of Trust ([RWoT](http://www.WebOfTrust.info)[[g]](https://github.com/WebOfTrustInfo/))  workshop was held during [November 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust); attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/). 
 
 The goal of the initial workshop, was to create 5[[*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/README.md)] technical white papers: [[5 WoT-usecases]](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf) | [Decentralized PKI](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf) | [Smart Signatures](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf)(Bitcoin inspired) | [Creating a New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf) | [Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf):
 
@@ -113,7 +113,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 
 ## Resources
 
-### World Wide Web Consortium—W3C
+### World Wide Web Consortium
 
 ![](http://imgur.com/Lz6RTysl.png)
 
@@ -127,7 +127,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
 
-#### Decentralized Identifier—DID
+#### DID the Decentralized Identifier 
 
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md)
@@ -142,7 +142,7 @@ During the RWoT\ID2020 Workshop[[*](https://github.com/WebOfTrustInfo/ID2020Desi
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
 * [Veres One DID Method 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/did-method-veres-one.md) — a permissionless public ledger designed specifically for the creation and management of decentralized identifiers (DIDs)
 
-### EU General Data Protection Regulation Act—GDPR
+### #EU General Data Protection Regulation Act (GDPR)
 
 * [Blockchains and Data Protection in the European Union](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3080322)
 * [IBM — How blockchain could address five areas associated with GDPR compliance](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=61014461USEN)
