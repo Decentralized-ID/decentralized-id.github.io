@@ -1,5 +1,5 @@
 # Awesome Decentralized Identity
-** DID, Blockchain and Self-Sovereign Identity Resources v0.4**
+**DID, Blockchain and Self-Sovereign Identity Resources v0.4**
 
 Grattitude to those who are working to make our identity experience, and the world, a better place.
 
