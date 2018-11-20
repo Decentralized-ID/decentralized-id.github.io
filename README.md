@@ -19,7 +19,7 @@ Grattitude to those who are working to make our identity experience, and the wor
     * [ID2020 and the GDPR](#ID2020-and-the-GDPR)
 * [Resources](#Resources)
   * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
-    * [DID the Decentralized Identifier ](#DID the Decentralized Identifier) 
+    * [DID the Decentralized Identifier ](#DID-the-Decentralized-Identifier) 
   * [EU GDPR](#EU-General-Data-Protection-Regulation-Act)
   * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
   * [Evernym](#Evernym)
