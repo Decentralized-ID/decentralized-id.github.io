@@ -440,8 +440,6 @@ A few of us are building a library of crypto knowledge on a discord server. Now 
 
 Self-Sovereign Identity is one of my favorite subjects in crypto, which is how this became the [Crypto-library](https://github.com/infominer33/Crypto-library)'s first side-project. 
 
-It's also market research, as we're figuring out how to monetize this monumental task of creating a web-portal Super Source of Crypto knowledge
-
 Any contribution would be greatly appreciated!!    
 
 #### BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
