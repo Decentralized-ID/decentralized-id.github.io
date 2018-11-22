@@ -46,7 +46,7 @@ Gratitude to those who are working to make our identity experience, and the worl
   * [People](#People)
 
 
-*Link abbreviations: (**f**)orum, (**t**)witter, (**g**)ithub, (**wp**)whitepaper, (**wiki**) is hard to abbreviate, 'official' (**b**)log, (**c**)hat, (**d**)ocumentation.
+*Link abbreviations: (**f**)orum, (**t**)witter, (**g**)ithub, (**wp**)whitepaper, (**b**)log, (**c**)hat, (**d**)ocumentation.
 
 Numbered links are supporting information for a given subject not easily categorized*
 
