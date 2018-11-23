@@ -442,14 +442,6 @@ During the RWoT\ID2020 Workshop[[**11**](https://github.com/WebOfTrustInfo/ID202
 
 ### Brought to you by: [The Crypto Library—Super Source](https://github.com/infominer33/Crypto-library)
 
-
-A few of us are building a library of crypto knowledge on a discord server. Now those resources are migrating to github, to become a database and power web-portal\chat bot. 
-
-I began working on this document after entering all of the DID resources I could find into [blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml). 
-
-Self-Sovereign Identity is one of my favorite subjects, which is how this became the [Crypto-library](https://github.com/infominer33/Crypto-library)'s first side-project. 
-
-
 #### BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
  
 ![](http://imgur.com/xMd9r0rl.png)       ![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
