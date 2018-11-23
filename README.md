@@ -16,35 +16,35 @@ Gratitude to those who are working to make our identity experience, and the worl
   * [#Rebooting-Web-of-Trust (RWoT)](#Rebooting-the-Web-Of-Trust)
   * [Bitnation and the United Nations](#Bitnation-and-the-United-Nations)
     * [ID2020 and the GDPR](#ID2020-and-the-GDPR)
-* [Resources](#Resources)
-  * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
-    * [DID the Decentralized Identifier ](#DID-the-Decentralized-Identifier) 
-  * [EU GDPR](#EU-General-Data-Protection-Regulation-Act)
-  * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
-  * [Evernym](#Evernym)
-  * [The Sovrin Foundation](#The-Sovrin-Foundation)
-    * [Windley](#Windley)
-    * [Tykn Tech](#Tykn-Tech)
-  * [Hyperledger Indy](#Hyperledger-Indy)
-    * [Idemix](#IDEMix)
-  * [IBM](#IBM)
-  * [Ethereum—Protocol](#Ethereum)
-    * [Ethereum Apps](#Ethereum-Identity-Applications)
-  * [State Led Identity Initiatives](#State-Led-Initiatives)
-    * [Canada](#Canada)
-    * [Netherlands](#Netherlands)
-    * [Spain](#Spain)
-    * [Switzerland](#Switzerland)
-    * [Estonia](#Estonia)
-  * [Assorted Decentralized \ Blockchain ID Initiatives](#Assorted-Decentralized-\-Blockchain-ID-Initiatives)
-  * [Data Wallet \ Marketplaces](#Data-Wallet-\-Marketplaces)
   * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation)
-  * [Reports](#Reports)
-  * [Research Papers](#Research-Papers)
-  * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
-  * [RWoT Use Cases](#RWoT-Use-Cases) —infogrphic workflow examples
-  * [Resources](#Resources)
-  * [People](#People)
+ * [Resources](#Resources)
+   * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
+    * [DID the Decentralized Identifier ](#DID-the-Decentralized-Identifier) 
+   * [GDPR](#EU-General-Data-Protection-Regulation-Act)
+   * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
+   * [Evernym](#Evernym)
+     * [The Sovrin Foundation](#The-Sovrin-Foundation)
+       * [Windley](#Windley)
+       * [Tykn Tech](#Tykn-Tech)
+     * [Hyperledger Indy](#Hyperledger-Indy)
+       * [Idemix](#IDEMix)
+   * [IBM](#IBM)
+   * [Ethereum—Protocol](#Ethereum)
+     * [Ethereum Apps](#Ethereum-Identity-Applications)
+   * [State Led Identity Initiatives](#State-Led-Initiatives)
+     * [Canada](#Canada)
+     * [Netherlands](#Netherlands)
+     * [Spain](#Spain)
+     * [Switzerland](#Switzerland)
+     * [Estonia](#Estonia)
+   * [Assorted Decentralized \ Blockchain ID Initiatives](#Assorted-Decentralized-\-Blockchain-ID-Initiatives)
+   * [Data Wallet \ Marketplaces](#Data-Wallet-\-Marketplaces)
+   * [Reports](#Reports)
+   * [Research Papers](#Research-Papers)
+   * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
+     * [RWoT Use Cases](#RWoT-Use-Cases) —infogrphic workflow examples
+   * [Sources](#Sources)
+   * [People](#People)
 
 
 *Link abbreviations: (**f**)orum, (**t**)witter, (**git**)hub, (**wp**)whitepaper, (**b**)log, (**c**)hat, (**d**)ocumentation.
@@ -52,8 +52,6 @@ Gratitude to those who are working to make our identity experience, and the worl
 Numbered links are supporting information for a given subject not easily categorized*
 
 ## History
-
-First we'll go over some history, to give the decentralized identity story some context.
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
@@ -109,6 +107,18 @@ During the RWoT\ID2020 Workshop[[**11**](https://github.com/WebOfTrustInfo/ID202
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
    >"Respect Network is conducting a research project for the U.S. Department of Homeland Security, HSHQDC-16-C-00061, to analyze the applicability of blockchain technologies to a decentralized identifier system. Our thesis is that blockchains, or more generically distributed ledgers, are a potentially powerful new tool for “identity roots” — the starting points for an Internet identity. However “blockchain identity” may not fully address the core security and privacy principles needed in a complete identity system. In this case DIDs — Decentralized Identifiers rooted on a distributed ledger — may end up being a foundational building block for higher level identity management solutions. 
 * At this point in time DLT innovation, the United Nations Sustainable Development Goals, and the EU GDPR all came together supporting a core identirati tenant: Eliminating id data silos and empowering users regarding personal digital identity. 
+
+### Decentralized Identity Foundation 
+
+![](http://imgur.com/PXGV6Xyl.png)
+
+* [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**git**](https://github.com/decentralized-identity)][[**t**](https://twitter.com/DecentralizedID)][**b**](https://medium.com/decentralized-identity)] 
+* the following links highlight *something each member adds* to the DID ecosystem:
+   - Members include: [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY), [uPort](https://github.com/uport-project/ethr-did/blob/develop/docs/index.md), [IBM](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/), [Sovrin](https://github.com/sovrin-foundation/sovrin/blob/master/spec/did-method-spec-template.html), [SecureKey](https://www.ibm.com/blogs/blockchain/2018/05/self-sovereign-identity-our-recent-activity-as-a-sovrin-steward/), [Blockstack](https://github.com/blockstack/blockstack-core/blob/feature/docs-bns/docs/blockstack_naming_service.md#decentralized-identifiers-dids), [Evernym](https://www.evernym.com/wp-content/uploads/2017/07/What-Goes-On-The-Ledger.pdf), [Hyperledger](https://github.com/hyperledger/indy-sdk/blob/master/doc/getting-started/getting-started.md), [Civic](https://www.civic.com/solutions/kyc-services/), [Accenture](https://www.accenture.com/us-en/insight-blockchain-id2020), [Danube](https://github.com/projectdanube/xdi2), [netki](https://bravenewcoin.com/insights/netki-launches-digital-id-solution-which-bitt-is-using-with-central-banks-in-the-caribbean), [RSA](https://www.rsa.com/en-us/research-and-thought-leadership/rsa-labs), [Consent](https://sovrin.org/steward/global-consent/), [IOTA](https://medium.com/@iotasuppoter/iota-the-case-of-decentralized-digital-identity-de7b95042c12), [Mooti](https://www.cio.com/article/3147358/it-industry/ibm-building-blockchain-ecosystem.html), [r3](https://www.gemalto.com/press/pages/gemalto-and-r3-pilot-blockchain-technology-to-put-users-in-control-of-their-digital-id.aspx), [Authenteq](https://venturebeat.com/2018/08/30/authenteq-launches-blockchain-identity-verification-to-stop-online-trolls/), [Blockchain-foundry](https://www.blockchainfoundry.co/blockchain-foundry-inc-announces-new-software-release-for-blockchain-based/), [Validatedid](https://www.validatedid.com/vidchain-the-future-of-digital-identity/), [1kosmos](https://onekosmos.com/product-details/), [gamecredits](https://medium.com/@gamecredits/introducing-blinking-blink-identity-management-on-the-blockchain-9258c7d76a8d)[[*](https://blinking.id)], [auth0](https://auth0.com/), [jolocom](https://stories.jolocom.com/jolocom-brings-blockchain-identity-to-privacy-week-berlin-acdaee665f0), [Enigma](https://blog.enigma.co/off-chain-identity-claims-with-enigma-2d5b23c31f92), [Humanized-internet](https://www.thehumanizedinternet.org/), [Pillar](https://pillarprojectfoundation.org/blog/announcing-the-pillar-project/), [id2020](https://id2020.org/manifesto/), [Nuggets](https://www.mobilepaymentstoday.com/news/identity-and-payments-platform-nuggets-partners-with-iot-company/).
+
+* [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
+* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**git**](https://github.com/decentralized-identity/universal-resolver)]
+* [*Identity Hubs Capabilities Perspective*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID).
 
 ## Resources
 
@@ -365,17 +375,7 @@ During the RWoT\ID2020 Workshop[[**11**](https://github.com/WebOfTrustInfo/ID202
 * [ONTology](https://ont.io/) | [github](https://github.com/ontio/ontology-DID)— "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
 * [We can do better than selling our data](http://blogs.harvard.edu/doc/2018/09/18/data/)-Doc Searls(*IIW*)
 
-### Decentralized Identity Foundation 
 
-![](http://imgur.com/PXGV6Xyl.png)
-
-* [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**git**](https://github.com/decentralized-identity)][[**t**](https://twitter.com/DecentralizedID)][**b**](https://medium.com/decentralized-identity)] 
-* the following links highlight *something each member adds* to the DID ecosystem:
-   - Members include: [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY), [uPort](https://github.com/uport-project/ethr-did/blob/develop/docs/index.md), [IBM](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/), [Sovrin](https://github.com/sovrin-foundation/sovrin/blob/master/spec/did-method-spec-template.html), [SecureKey](https://www.ibm.com/blogs/blockchain/2018/05/self-sovereign-identity-our-recent-activity-as-a-sovrin-steward/), [Blockstack](https://github.com/blockstack/blockstack-core/blob/feature/docs-bns/docs/blockstack_naming_service.md#decentralized-identifiers-dids), [Evernym](https://www.evernym.com/wp-content/uploads/2017/07/What-Goes-On-The-Ledger.pdf), [Hyperledger](https://github.com/hyperledger/indy-sdk/blob/master/doc/getting-started/getting-started.md), [Civic](https://www.civic.com/solutions/kyc-services/), [Accenture](https://www.accenture.com/us-en/insight-blockchain-id2020), [Danube](https://github.com/projectdanube/xdi2), [netki](https://bravenewcoin.com/insights/netki-launches-digital-id-solution-which-bitt-is-using-with-central-banks-in-the-caribbean), [RSA](https://www.rsa.com/en-us/research-and-thought-leadership/rsa-labs), [Consent](https://sovrin.org/steward/global-consent/), [IOTA](https://medium.com/@iotasuppoter/iota-the-case-of-decentralized-digital-identity-de7b95042c12), [Mooti](https://www.cio.com/article/3147358/it-industry/ibm-building-blockchain-ecosystem.html), [r3](https://www.gemalto.com/press/pages/gemalto-and-r3-pilot-blockchain-technology-to-put-users-in-control-of-their-digital-id.aspx), [Authenteq](https://venturebeat.com/2018/08/30/authenteq-launches-blockchain-identity-verification-to-stop-online-trolls/), [Blockchain-foundry](https://www.blockchainfoundry.co/blockchain-foundry-inc-announces-new-software-release-for-blockchain-based/), [Validatedid](https://www.validatedid.com/vidchain-the-future-of-digital-identity/), [1kosmos](https://onekosmos.com/product-details/), [gamecredits](https://medium.com/@gamecredits/introducing-blinking-blink-identity-management-on-the-blockchain-9258c7d76a8d)[[*](https://blinking.id)], [auth0](https://auth0.com/), [jolocom](https://stories.jolocom.com/jolocom-brings-blockchain-identity-to-privacy-week-berlin-acdaee665f0), [Enigma](https://blog.enigma.co/off-chain-identity-claims-with-enigma-2d5b23c31f92), [Humanized-internet](https://www.thehumanizedinternet.org/), [Pillar](https://pillarprojectfoundation.org/blog/announcing-the-pillar-project/), [id2020](https://id2020.org/manifesto/), [Nuggets](https://www.mobilepaymentstoday.com/news/identity-and-payments-platform-nuggets-partners-with-iot-company/).
-
-* [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
-* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**git**](https://github.com/decentralized-identity/universal-resolver)]
-* [*Identity Hubs Capabilities Perspective*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID).
 
 ![](https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png)
 
@@ -433,7 +433,7 @@ During the RWoT\ID2020 Workshop[[**11**](https://github.com/WebOfTrustInfo/ID202
 * [Manu Sporny](https://digitalbazaar.com/blog/) | [twitter](https://twitter.com/manusporny)
 * [Markus Sabadello —Peacekeeper](https://danubetech.com/) | [uniresolver.io](https://uniresolver.io/) | [twitter](https://twitter.com/peacekeeper) | [github](https://github.com/peacekeeper) | [medium](https://medium.com/@markus.sabadello)
 
-### Resources
+### Sources
 * [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
