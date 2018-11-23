@@ -190,7 +190,7 @@ During the RWoT\ID2020 Workshop[[**11**](https://github.com/WebOfTrustInfo/ID202
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 * [Sovrin Test Network Trust Anchor Registration](https://s3.us-east-2.amazonaws.com/evernym-cs/sovrin-STNnetwork/www/trust-anchor.html)[**[*](https://forum.sovrin.org/t/testing-on-the-sovrin-test-network-stn/643/17)**]
 
-#### Windley
+#### Windley.com
 * [The Sovrin Foundation](http://www.windley.com/archives/2018/07/the_sovrin_foundation.shtml)
 * [A Universal Trust Framework](http://www.windley.com/archives/2017/01/a_universal_trust_framework.shtml)
 * [Is Sovrin Decentralized?](http://www.windley.com/archives/2017/09/is_sovrin_decentralized.shtml)
@@ -446,5 +446,3 @@ During the RWoT\ID2020 Workshop[[**11**](https://github.com/WebOfTrustInfo/ID202
 #### BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
  
 ![](http://imgur.com/xMd9r0rl.png)       ![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
-
-—infominer@protonmail.com
