@@ -121,10 +121,11 @@ During the RWoT\ID2020 Workshop[[**11**](https://github.com/WebOfTrustInfo/ID202
 * [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/)
    * [Verifiable Claims Working Group Charter](https://www.w3.org/2017/vc/charter.html)
 * [The W3C CREDENTIALS COMMUNITY GROUP](https://www.w3.org/community/credentials/) | [W3C CCG](https://w3c-ccg.github.io/)
-* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) | [github](https://github.com/w3c/vc-data-model)
+* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/)[[**g**](https://github.com/w3c/vc-data-model)]
 * [Verifiable Claims Use Cases 1.0](https://w3c.github.io/vc-use-cases/)
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
+* [DIGITAL VERIFICATION COMMUNITY GROUP](https://www.w3.org/community/digital-verification/)[[**g**](https://sea-region.github.com/w3c-dvcg)]
 
 #### DID the Decentralized Identifier 
 
@@ -399,6 +400,7 @@ During the RWoT\ID2020 Workshop[[**11**](https://github.com/WebOfTrustInfo/ID202
 * [TOWARDS SELF-SOVEREIGN IDENTITY USING BLOCKCHAIN TECHNOLOGY](http://essay.utwente.nl/71274/)
 * [Self-sovereign Identity –	Opportunities and Challenges for the Digital Revolution](https://arxiv.org/pdf/1712.01767.pdf)
 * [The Knowledge Complexity Of Interactive Proofs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&)
+* [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
 
 ### Selected *Rebooting Web of Trust* [Whitepapers](https://www.weboftrust.info/papers.html) 
 * [Creating the New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf)
@@ -407,7 +409,7 @@ During the RWoT\ID2020 Workshop[[**11**](https://github.com/WebOfTrustInfo/ID202
 * [The DCS Theorem](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/dcs-theorem/The-DCS-Theorem.md) — We use the triangle to show decentralized consensus systems can have _Decentralization_, _Consensus_, or _Scale_, but not all three properties simultaneously.
 * [Identity Crisis: Clear Identity through Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)
 * [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
-SSI: A Roadmap for Adoption
+* [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
 
 #### RWoT Use Cases
   —infogrphic workflow examples 
@@ -418,6 +420,12 @@ SSI: A Roadmap for Adoption
 * [Protecting Digital Identities in Developing Countries](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)
 * [Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
 
+### Video
+* [Is Blockchain the Future of Digital Identity?](https://youtu.be/Aub5dNpj2_k) -CB Insights
+* [Identity and Blockchain Technology](https://www.youtube.com/watch?v=Aub5dNpj2_k)
+* [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
+* [Self-Sovereign Identity with Hyperledger Indy\Sovrin- Calvin Cheng - FOSSASIA 2018](https://www.youtube.com/watch?v=hfyIZu3_fw8)
+
 
 ### People
 
@@ -425,6 +433,7 @@ SSI: A Roadmap for Adoption
 * [Markus Sabadello —Peacekeeper](https://danubetech.com/)  [uniresolver.io](https://uniresolver.io/) | [twitter](https://twitter.com/peacekeeper) | [github](https://github.com/peacekeeper) | [medium](https://medium.com/@markus.sabadello)
 
 ### Resources
+* [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml)
