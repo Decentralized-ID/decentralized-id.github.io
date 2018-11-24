@@ -362,7 +362,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 * [Blockcerts](https://www.blockcerts.org) — open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
 * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
-* [DIDs the decentralized identifiers of the W3C^](#DID-the-Decentralized-Identifier))
+* [DIDs the Decentralized Identifiers of the W3C^](#DID-the-Decentralized-Identifier)
 
 
 ### Decentralized Public Key Infrastructure (DPKI)[**^**](#Contents) 
@@ -451,7 +451,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [/blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml)
 * [identitywoman.net](https://identitywoman.net/)
-* [windley.com-#identity](http://www.windley.com/tags/identity.shtml)
+* [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
 
 
 ---
