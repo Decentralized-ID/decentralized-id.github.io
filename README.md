@@ -8,9 +8,9 @@ Thanks to those who are working to make our identity experience, and the world, 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
 #### Note
-Information is not so easily organized in a linear fashion. This document is a product of the effort to enter all of the best blockchain, self-sovereign, and decentralized identity links into a database, which will power a [web-app](https://github.com/infominer33/Crypto-library) for search, manual navigation through the tags, and pages like this. With comments and reactions, so that it can become a co-operative effort among those who get involved.
+Information is not so easily organized in a linear fashion. This list is a by-product of the effort to enter all of the best blockchain, self-sovereign, and decentralized identity links into a database, which will power a [web-app](https://github.com/infominer33/Crypto-library) for search, manual navigation through the tags, and pages like this. With comments and reactions, so that it can become a co-operative effort among those who get involved.
 
-In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an awesome document out of them sooner than a live demo of the app that is in progress.
+In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an awesome list out of them sooner than a live demo of the app that is in progress.
 
 ### Contents
 
@@ -53,7 +53,7 @@ In the mean-time, after gathering all of the links I had already into [one colle
    * [Videos](#Video)
    * [Sources](#Sources)
    
->Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [-Jerry Cuomo](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
+>Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [-Jerry Cuomo](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/) IBM
 
 
 ## History
@@ -83,8 +83,8 @@ Since then, the IIW has met bi-anually, actively supporting the development of t
 
 In relation to SSI, '[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims. *Each party attesting to your identity information becomes a strand in your web of trust.*
 
-The first [Rebooting Web of Trust](http://www.WebOfTrust.info)(RWoT) [[**github**](https://github.com/WebOfTrustInfo/)]  workshop was held during [November 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust); attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/). 
-The goal of the initial workshop, was to create 5 technical white papers: \
+The first [Rebooting Web of Trust](http://www.WebOfTrust.info)(RWoT)  workshop was held during [November 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust); attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/). 
+[The initial workshop](https://github.com/WebOfTrustInfo/), produced 5 technical white papers: \
 [[5 WoT-usecases](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)][[Decentralized PKI](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)][[Smart Signatures](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf)][[Creating a New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf)][[Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf)]:
 
 >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP [...] the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it.
