@@ -35,6 +35,7 @@ Thanks to those who are working to make our identity experience, and the world, 
    * [State Led Identity Initiatives](#State-Led-Initiatives)
      * [Canada](#Canada)
      * [Netherlands](#Netherlands)
+     * [USA](#USA)
      * [Spain](#Spain)
      * [Switzerland](#Switzerland)
      * [Estonia](#Estonia)
