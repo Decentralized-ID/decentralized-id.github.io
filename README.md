@@ -39,7 +39,7 @@ Gratitude to those who are working to make our identity experience, and the worl
    * [Assorted Decentralized \ Blockchain ID Related](#Assorted-Decentralized-\-Blockchain-ID-Related)
    * [Structured Data Standards](#Structured-Data-Standards)
    * [Decentralized Public Key Infrastructure](#Decentralized-Public-Key-Infrastructure-(DPKI))
-   * [Personal Data: Wallets, Marketplaces, etc.](#Personal-Data:-Wallets,-Marketplaces,-etc.)
+   * [Personal Data: Wallets, Marketplaces, etc](#Personal-Data:-Wallets,-Marketplaces,-etc)
    * [Reports](#Reports)
    * [Research Papers](#Research-Papers)
    * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
