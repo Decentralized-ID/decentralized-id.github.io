@@ -1,5 +1,5 @@
 # Awesome Decentralized Identity
-**DID, Blockchain and Self-Sovereign Identity Resources v0.7**
+**DID, Blockchain and Self-Sovereign Identity Resources v0.8**
 
 Gratitude to those who are working to make our identity experience, and the world, a better place.
 
@@ -18,7 +18,7 @@ Gratitude to those who are working to make our identity experience, and the worl
   * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation)
  * [Resources](#Resources)
    * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
-    * [DID the Decentralized Identifier ](#DID-the-Decentralized-Identifier) 
+     * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier) 
    * [GDPR](#EU-General-Data-Protection-Regulation-Act)
    * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
    * [Evernym](#Evernym)
@@ -36,19 +36,16 @@ Gratitude to those who are working to make our identity experience, and the worl
      * [Spain](#Spain)
      * [Switzerland](#Switzerland)
      * [Estonia](#Estonia)
-   * [Assorted Decentralized \ Blockchain ID Initiatives](#Assorted-Decentralized-\-Blockchain-ID-Initiatives)
+   * [Assorted Decentralized \ Blockchain ID Related](#Assorted-Decentralized-\-Blockchain-ID-Related)
+   * [Structured Data Standards](#Structured-Data-Standards)
    * [Decentralized Public Key Infrastructure](#Decentralized-Public-Key-Infrastructure-(DPKI))
-   * [Data Wallet \ Marketplaces](#Data-Wallet-\-Marketplaces)
+   * [Personal Data: Wallets, Marketplaces, etc.](#Personal-Data:-Wallets,-Marketplaces,-etc.)
    * [Reports](#Reports)
    * [Research Papers](#Research-Papers)
    * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
      * [RWoT Use Cases](#RWoT-Use-Cases) —infogrphic workflow examples
    * [Sources](#Sources)
    
-\*Link abbreviations: (**T**)witter, (**git**)hub, (**wp**)whitepaper
-
-Numbered links are supporting information\*
-
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [-Jerry Cuomo](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
 
 
@@ -58,19 +55,19 @@ Numbered links are supporting information\*
 
 ### Internet Identity Workshop[**^**](#Contents)
 
-In 2005, [Kaliya Young](https://identitywoman.net/)[[**T**](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[**T**](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[**T**](https://twitter.com/drummondreed)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[**T**](https://twitter.com/dsearls)][[**blog**](https://blogs.harvard.edu/doc)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)(IIW)[[**T**](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
+In 2005, [Kaliya Young](https://identitywoman.net/)[[**twitter**](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[**twitter**](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[**twitter**](https://twitter.com/drummondreed)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[**twitter**](https://twitter.com/dsearls)][[**blog**](https://blogs.harvard.edu/doc)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)(IIW)[[**twitter**](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
 Since then, the IIW has met bi-anually, actively supporting the development of the identity software-ecosystem, including [OpenID](http://wiki.openid.net)('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1)('06), [OAuth](https://en.wikipedia.org/wiki/OAuth)('10), [FIDO](https://fidoalliance.org/)('13) and OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect)('14). The heart of the internet identity community has been with empowering users and self-sovereign principles, since the early days.
 
 * [*What is Sovereign Source Authority?*](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) shows an early use of 'sovereign' in relation to our internet identities. The term "Self Sovereign Identity" started becoming widely used in 2014.[[**1**](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)][[**2**](https://hubculture.com/hubs/47/news/689/)] 
-* [Christopher Allen](http://www.lifewithalacrity.com/)[[**T**](https://twitter.com/ChristopherA)][[**git**](https://github.com/ChristopherA)] details the overarching history of internet idenitity standards in his seminal work: 
+* [Christopher Allen](http://www.lifewithalacrity.com/)[[**twitter**](https://twitter.com/ChristopherA)][[**git**](https://github.com/ChristopherA)] details the overarching history of internet idenitity standards in his seminal work: 
    - **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[**3**](https://www.coindesk.com/path-self-sovereign-identity/amp/)].
 * [Not Just Who They Say We Are: Claiming our identity on the Internet](https://vimeo.com/207961532)- short film on the “Identerati” at IIW[[**4**](https://www.prweb.com/releases/identitymovie/iiw2017/prweb14161721.htm)]
    * Identirati is a term for those working in the identity ecosystem dating back to at least 2006:
       >[identirati](https://www.zdnet.com/article/the-identity-silo-paradox/)[[**5**](https://www.forgerock.com/blog/who-are-the-identerati)] "have been working on standards and methods that are based on the premise of opening up those [id data] silos"
 * **More information** on iid standards history: **[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** | **[identitywoman.net](https://identitywoman.net/)** | **[windley.com-#identity](http://www.windley.com/tags/identity.shtml)** | **[WoTinfo](https://github.com/WebOfTrustInfo/)**
 
-8/14 The [Credentials Community Group](https://www.w3.org/community/credentials/)[[**6**](https://w3c-ccg.github.io/)] forms, hosted by [World Wide Web Consortium(W3C)](https://www.w3.org/)[[**T**](https://twitter.com/w3c)][[**git**](https://github.com/w3c)] : "to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." —proposed by [Manu Sporney](http://manu.sporny.org/)[[**T**](https://twitter.com/manusporny)][[**7**](https://digitalbazaar.com/)]
+8/14 The [Credentials Community Group](https://www.w3.org/community/credentials/)[[**6**](https://w3c-ccg.github.io/)] forms, hosted by [World Wide Web Consortium(W3C)](https://www.w3.org/)[[**twitter**](https://twitter.com/w3c)][[**git**](https://github.com/w3c)] : "to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." —proposed by [Manu Sporney](http://manu.sporny.org/)[[**twitter**](https://twitter.com/manusporny)][[**7**](https://digitalbazaar.com/)]
 
  
 ![](http://imgur.com/GdYLQjzl.png)
@@ -89,12 +86,12 @@ The goal of the initial workshop, was to create 5 technical white papers: \
 
 ### Bitnation and the United Nations[**^**](#Contents) 
 
-9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*blockchain emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[**8**](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/)] The same month, the UN unveiled it's *Agenda for Sustainable Development*
+9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*blockchain emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[**8**](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/)] The same month, the UN unveiled it's *Agenda for Sustainable Development*.
 
-* [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)
-> **Goal 16.9 By 2030, provide legal identity for all, including birth registration**
+* [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld).
+> **Goal 16.9 By 2030, provide legal identity for all, including birth registration.**
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
-* [AID:Tech](https://aid.technology)[[**T**]](https://twitter.com/aidtechnology) — "is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner."
+* [AID:Tech](https://aid.technology)[[**twitter**]](https://twitter.com/aidtechnology) — "is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner."
 
 #### ID2020 and the GDPR[**^**](#Contents)
 
@@ -155,6 +152,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
    > "22/ Over a dozen companies and organizations, using multiple blockchains (Bitcoin, Ethereum, Hyperledger, etc.), have committed to deploying DIDs, including IBM, Microsoft, Digital Bazaar, Consensys, Evernym, Learning Machine, British Columbia, and more:" —[How blockchain could solve the internet privacy problem](https://www.computerworld.com/article/3267930/blockchain/how-blockchain-could-solve-the-internet-privacy-problem.html)
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
 * [Veres One DID Method 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/did-method-veres-one.md) — a permissionless public ledger designed specifically for the creation and management of decentralized identifiers (DIDs)
+* [Blockstack DID Spec](https://github.com/blockstack/blockstack-core/blob/master/docs/blockstack-did-spec.md)[**[*](https://forum.blockstack.org/t/did-method-at-identity-foundation/4287/9)**]
 
 ### EU General Data Protection Regulation Act[**^**](#Contents)
 
@@ -185,7 +183,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 ![](http://untangled.world/wp-content/uploads/2017/08/everynym-logo-1400x357.png)
 
-* [Evernym](https://www.evernym.com/) [[**T**](https://twitter.com/evernym)]
+* [Evernym](https://www.evernym.com/) [[**twitter**](https://twitter.com/evernym)]
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
 * [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
 
@@ -323,16 +321,13 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) | [id.ee](https://www.id.ee/)
    * [Estonian Blockchain ID Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
 
-### Assorted Decentralized \ Blockchain ID Initiatives[**^**](#Contents)
-* [Danube Tech](http://danubetech.com/) — digital identity and personal data, including personal agents, semantic graphs, and blockchain | [xdi](https://xdi2.org) | [navigator](https://github.com/projectdanube/xdi2)\
-   Founded by [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**T**](https://twitter.com/peacekeeper)] [[**git**](https://github.com/peacekeeper)] [[**blog**](https://medium.com/@markus.sabadello)]
+### Assorted Decentralized \ Blockchain ID Related[**^**](#Contents)
+* [Danube Tech](http://danubetech.com/) — digital identity and personal data, including personal agents, semantic graphs, and blockchain [[xdi](https://xdi2.org)] [[navigator](https://github.com/projectdanube/xdi2)]
+   * Founded by [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**twitter**](https://twitter.com/peacekeeper)] [[**git**](https://github.com/peacekeeper)] [[**blog**](https://medium.com/@markus.sabadello)]
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e)
 * [Proof of Authority](https://blockonomi.com/proof-of-authority/)
 * [Shocard](https://shocard.com/) — "Blockchain-Based Mobile Identity Platform"
-* [Mydata](http://mydata.org/)[[**T**]](https://twitter.com/mydataorg)[[d]](https://mydata.org/papers/) [declaration](https://mydata.org/declaration/)
-   * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
-   * [Consent](http://www.consent.global/)[[**12**](https://sovrin.org/steward/global-consent/)] — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
-* [Authenteq](http://authenteq.com/)[[**T**](https://twitter.com/authenteq)] — enables users to create their own sovereign digital IDs which are stored encrypted in a blockchain.
+* [Authenteq](http://authenteq.com/)[[**twitter**](https://twitter.com/authenteq)] — enables users to create their own sovereign digital IDs which are stored encrypted in a blockchain.
 * [JLinc](https://www.jlinc.com/") — registers cryptographic public keys on the Stellar blockchain.
 * [CheapID](http://guptaoption.com/cheapid/)
 * [Deloitte SmartID](http://www.deloitte.co.uk/smartid/)
@@ -348,8 +343,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Vida Identity](https://getvida.io) — "enables distributed key revocation and reissuance. Access to data is always permissioned across applications and services."
 * [ÆTERNITY](http://aeternity.com/) | [github](https://github.com/aeternity/protocol) 
    * "offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema's data structures are used for representing data about persons and organizations."
-* [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
-* [Spidchain](http://www.spidchain.com/) | [whitepaper](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)
+* [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
 * [Reddcoin — Redd-ID](https://www.reddcoin.com/service/redd-id/) | [forum](https://www.reddcointalk.org/) | [PoSV whitepaper](https://www.reddcoin.com/papers/PoSV.pdf)
    * a naming service that allows usernames to be registered on the Reddcoin blockchain.
@@ -358,13 +352,18 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Cicada](https://github.com/the-laughing-monkey/cicada-platform)
    * a Dapp platform built for a "direct democracy." envisions using iris scans to generate decentralized universal identifiers ("HUIDs") for every human on the planet, a method referred to as "biocryptics". "HUIDs" can have "sub-IDs" to support selective disclosure. PII can be stored in an "info wallet". Key parts of the system also include smart contracts, zero-knowledge proofs, mixnets, and more."
 * [BitID](https://github.com/bitid/bitid) — an authentication protocol based on Bitcoin identities, supported by some of the Bitcoin wallets. It authenticates Bitcoin addresses by signing a cryptographic challenge 
-* [Blockcerts](https://www.blockcerts.org) — open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
 * [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
 * [I/O Digital Foundation](https://iodigital.io/) | [whitepaper](https://simplebooklet.com/iocoinwhitepaper#page=0)
    * "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
 * [iRespond](https://www.irespond.org/)
 * [World Identity Netowork —Blockchain for Impact](https://win.systems/)
 * [Mooti](https://mooti.co/) - Mooti is reimagining the security and utility of personally identifiable information and authentication based on our self-sovereign identity solutions, asymmetrical encryption, and blockchain technology.
+
+### Structured Data Standards[**^**](#Contents) 
+
+* [Blockcerts](https://www.blockcerts.org) — open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
+* [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
+
 
 ### Decentralized Public Key Infrastructure (DPKI)[**^**](#Contents) 
 * [Blockstack](https://blockstack.org/) — [[**github**](https://github.com/blockstack)][[**forum**](https://forum.blockstack.org/)][[**blog**](https://blockstack.org/blog)][[**twitter**](https://twitter.com/blockstack)]
@@ -381,8 +380,11 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)
 
 
-### Data Wallet \ Marketplaces[**^**](#Contents)
+### Personal Data: Wallets, Marketplaces, etc.[**^**](#Contents)
 
+* [Mydata](http://mydata.org/) [[**twitter**](https://twitter.com/mydataorg)] [[**papers**](https://mydata.org/papers/)] [[declaration](https://mydata.org/declaration/)]
+   * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
+   * [Consent](http://www.consent.global/)[[**12**](https://sovrin.org/steward/global-consent/)] — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
 * [Pillar Project](http://pillarproject.io)  [[**wp**](https://pillarproject.io/documents/Pillar-Gray-Paper.pdf)]
    * planning to offer a "Personal Data Locker" consisting of a wallet, browser, and token exchange. Personal assets will be put on a blockchain, and "Pillar" tokens will be issued."
 * [Aversafe](https://www.aversafe.com/) —"allows individuals to store personal details, work history, certificates and achievements. It leverages a permissioned blockchain for trusted audit and participation in the storage of attestation data separate from the actual data stored"
