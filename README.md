@@ -40,6 +40,7 @@ Thanks to those who are working to make our identity experience, and the world, 
      * [Switzerland](#Switzerland)
      * [Estonia](#Estonia)
    * [Assorted Decentralized \ Blockchain ID Related](#Assorted-Decentralized-\-Blockchain-ID-Related)
+   * [Humanitarian](#Humanitarian)
    * [Structured Data Standards](#Structured-Data-Standards)
    * [Decentralized Public Key Infrastructure](#Decentralized-Public-Key-Infrastructure-(DPKI))
    * [Personal Data: Wallets, Marketplaces, etc](#Personal-Data-Wallets-Marketplaces-etc)
@@ -112,9 +113,9 @@ Evident from the whitepapers produced at the RWoT\ID2020 Workshop[[**10**](https
 
 ### Decentralized Identity Foundation[**^**](#Contents) 
 
-On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) was announced.[[**11**](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017)]
+On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017):
 
-* [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI)
+* [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
 
 ![](http://imgur.com/PXGV6Xyl.png)
 
@@ -355,39 +356,39 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Shocard](https://shocard.com/) — "Blockchain-Based Mobile Identity Platform"
 * [Authenteq](http://authenteq.com/) [[**twitter**](https://twitter.com/authenteq)] [[**github**](https://github.com/authenteq)]
   * enables users to create their own sovereign digital IDs which are stored encrypted on [BigChainDB](http://docs.bigchaindb.com)
-* [JLinc](https://www.jlinc.com/") — registers cryptographic public keys on the Stellar blockchain.
-* [CheapID](http://guptaoption.com/cheapid/) - identity standard designed for use in conflicted environment like those many refugees or disaster victims may find themselves in.
-  * uses [State In A Box - Identity Services Architecture](http://guptaoption.com/4.SIAB-ISA.php)
-* [World Identity Netowork —Blockchain for Impact](https://win.systems/)
+* [JLinc](https://www.jlinc.com/) — registers cryptographic public keys on the Stellar blockchain. 
+   > "The founders have been at the center of a community of developers working on “user-centric digital identity for almost two decades."
 * [Deloitte SmartID](http://www.deloitte.co.uk/smartid/) [[**github**](https://github.com/SmartIdentity/smartId-contracts)]
    * "Smart Identity uses the Ethereum blockchain to represent an identity using a smart contract, attributes can be added by the identity owner and are stored in hash form"
 * [Internet of People](https://iop.global/) — "an open, decentralized infrastructure consisting of device-to-device communication, blockchain tokens, profile servers, and other components." -Founded by [Fermat](http://www.fermat.org)
 * [Blockchain Helix](http://blockchain-helix.com)[[**ico**](https://ico.helix-orange.com/)][[**wp**](https://ico.helix-orange.com/wp-content/uploads/2018/08/HELIX-Orange_Whitepaper_v1.5.pdf)]
    * "Identity as a Service", "Data as a Service" and "Blockchain as a Service" The company offers to increase the speed of KYC/AML processes while hughly decreasing the cost 
-* [The Humanized Internet](http://www.thehumanizedinternet.org/) — "to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity."
 * [Civic](https://www.civic.com/) launches: [identity.com](https://identity.com)[[**github**](https://github.com/identity-com/)][[**blog**](https://www.civic.com/blog/identity-com-first-open-source-update/)]
 * [Mooti](https://mooti.co/) | [docs](https://docs.mooti.co/)
    * offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features
 * [Cambridge Blockchain](http://cambridge-blockchain.com/) [[**github**](https://github.com/cambridge-blockchain)][[**research**](https://files.ifi.uzh.ch/CSG/staff/Rafati/ID%20Management%20using%20BC-Atif-VA.pdf)]— Blockchain for validating secure digital identity documents, processing electronic signatures, and recording transactions." (ethereum based)
 * [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
-* [Reddcoin — Redd-ID](https://www.reddcoin.com/service/redd-id/) | [forum](https://www.reddcointalk.org/) | [PoSV whitepaper](https://www.reddcoin.com/papers/PoSV.pdf)
-   * a naming service that allows usernames to be registered on the Reddcoin blockchain.
 * [Cicada](https://github.com/the-laughing-monkey/cicada-platform)
    * a Dapp platform built for a "direct democracy." envisions using iris scans to generate decentralized universal identifiers ("HUIDs") for every human on the planet, a method referred to as "biocryptics". "HUIDs" can have "sub-IDs" to support selective disclosure. PII can be stored in an "info wallet". Key parts of the system also include smart contracts, zero-knowledge proofs, mixnets, and more."
-* [BitID](https://github.com/bitid/bitid) — an authentication protocol based on Bitcoin identities, supported by some of the Bitcoin wallets. It authenticates Bitcoin addresses by signing a cryptographic challenge 
 * [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
 * [I/O Digital Foundation](https://iodigital.io/) | [whitepaper](https://simplebooklet.com/iocoinwhitepaper#page=0)
    * "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
-* [iRespond](https://www.irespond.org/)
 * [Mooti](https://mooti.co/) - Mooti is reimagining the security and utility of personally identifiable information and authentication based on our self-sovereign identity solutions, asymmetrical encryption, and blockchain technology.
-* [ÆTERNITY](http://aeternity.com/) | [github](https://github.com/aeternity/protocol) 
-   * "offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema's [data structures](#Structured-Data-Standards) are used for representing data about persons and organizations."
+
+### Humanitarian[**^**](#Contents) 
+* [iRespond](https://www.irespond.org/) -international non-profit organization dedicated to solving the identity problem using a unique digital biometric identity solution
+* [The Humanized Internet](http://www.thehumanizedinternet.org/) — "to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity."
+* [CheapID](http://guptaoption.com/cheapid/) - identity standard designed for use in conflicted environment like those many refugees or disaster victims may find themselves in.
+  * uses [State In A Box - Identity Services Architecture](http://guptaoption.com/4.SIAB-ISA.php)
+* [World Identity Netowork](https://win.systems/)  —Blockchain for Impact [(BFI)-UN]((https://www.pvblic.org/blockchainforimpact))
+
 
 ### Structured Data Standards[**^**](#Contents) 
 
 * [Blockcerts](https://www.blockcerts.org) — open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
 * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
+   * [ÆTERNITY](http://aeternity.com/) [[**github**](https://github.com/aeternity/protocol)]: using Schema's standards: "offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema's are used for representing data about persons and organizations."
 * [DIDs the Decentralized Identifiers of the W3C^](#DID-the-Decentralized-Identifier)
 
 
