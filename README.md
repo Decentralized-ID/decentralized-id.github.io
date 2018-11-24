@@ -17,16 +17,18 @@ Gratitude to those who are working to make our identity experience, and the worl
     * [ID2020 and the GDPR](#ID2020-and-the-GDPR)
   * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation)
  * [Resources](#Resources)
+   * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
+      * [RWoT Use Cases](#RWoT-Use-Cases) -infographic workflow examples
    * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
      * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier) 
    * [GDPR](#EU-General-Data-Protection-Regulation-Act)
    * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
    * [Evernym](#Evernym)
-     * [The Sovrin Foundation](#The-Sovrin-Foundation)
-       * [Windley.com](#Windley)
-       * [Tykn Tech](#Tykn-Tech)
-     * [Hyperledger Indy](#Hyperledger-Indy)
-       * [Idemix](#IDEMix)
+   * [The Sovrin Foundation](#The-Sovrin-Foundation)
+     * [Windley.com](#Windley)
+     * [Tykn Tech](#Tykn-Tech)
+   * [Hyperledger Indy](#Hyperledger-Indy)
+     * [Idemix](#IDEMix)
    * [IBM](#IBM)
    * [Ethereum—Protocol](#Ethereum)
      * [Ethereum Apps](#Ethereum-Identity-Applications)
@@ -42,8 +44,6 @@ Gratitude to those who are working to make our identity experience, and the worl
    * [Personal Data: Wallets, Marketplaces, etc](#Personal-Data-Wallets-Marketplaces-etc)
    * [Reports](#Reports)
    * [Research Papers](#Research-Papers)
-   * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
-     * [RWoT Use Cases](#RWoT-Use-Cases) —infogrphic workflow examples
    * [Sources](#Sources)
    
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [-Jerry Cuomo](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
@@ -122,6 +122,24 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID).
 
 ## Resources
+
+### Selected 'Rebooting Web of Trust' Whitepapers[**^**](#Contents) 
+* [WebofTrust.info/papers.html](https://www.weboftrust.info/papers.html)
+* [Rebooting the Web of Trust VII: Toronto (September 2018)](https://github.com/WebOfTrustInfo/rwot7)
+* [Framework for the Comparison of Identity Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/Framework-for-Comparison-of-Identity-Systems.md)
+* [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md)
+* [The DCS Theorem](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/dcs-theorem/The-DCS-Theorem.md) — We use the triangle to show decentralized consensus systems can have _Decentralization_, _Consensus_, or _Scale_, but not all three properties simultaneously.
+* [Identity Crisis: Clear Identity through Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)
+* [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
+
+#### RWoT Use Cases[**^**](#Contents)
+—infogrphic workflow examples 
+* [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)
+* [Re-Imagining What Users Really Want](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/what-users-really-want.md)
+* [Joram 1.0.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/joram-engagement-model.pdf)
+* [Powering the Physician-Patient Relationship with HIE of One Blockchain Health IT](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/physician-patient-relationship.pdf)
+* [Protecting Digital Identities in Developing Countries](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)
+* [Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
 
 ### World Wide Web Consortium[**^**](#Contents)
 
@@ -213,7 +231,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Building Your Business on Sovrin: Domain-Specific Trust Frameworks](http://www.windley.com/archives/2018/03/building_your_business_on_sovrin_domain-specific_trust_frameworks.shtml)
 
 
-##### Tykn Tech[**^**](#Contents)
+#### Tykn Tech[**^**](#Contents)
 
 ![](http://imgur.com/1uO0AWll.png)
 
@@ -342,8 +360,6 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Mooti](https://mooti.co/) | [docs](https://docs.mooti.co/)
    * offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features
 * [Cambridge Blockchain](http://cambridge-blockchain.com/) [[**github**](https://github.com/cambridge-blockchain)][[**research**](https://files.ifi.uzh.ch/CSG/staff/Rafati/ID%20Management%20using%20BC-Atif-VA.pdf)]— Blockchain for validating secure digital identity documents, processing electronic signatures, and recording transactions." (ethereum based)
-* [ÆTERNITY](http://aeternity.com/) | [github](https://github.com/aeternity/protocol) 
-   * "offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema's [data structures](#Structured-Data-Standards) are used for representing data about persons and organizations."
 * [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
 * [Reddcoin — Redd-ID](https://www.reddcoin.com/service/redd-id/) | [forum](https://www.reddcointalk.org/) | [PoSV whitepaper](https://www.reddcoin.com/papers/PoSV.pdf)
@@ -357,6 +373,8 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [iRespond](https://www.irespond.org/)
 * [World Identity Netowork —Blockchain for Impact](https://win.systems/)
 * [Mooti](https://mooti.co/) - Mooti is reimagining the security and utility of personally identifiable information and authentication based on our self-sovereign identity solutions, asymmetrical encryption, and blockchain technology.
+* [ÆTERNITY](http://aeternity.com/) | [github](https://github.com/aeternity/protocol) 
+   * "offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema's [data structures](#Structured-Data-Standards) are used for representing data about persons and organizations."
 
 ### Structured Data Standards[**^**](#Contents) 
 
@@ -420,23 +438,6 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [Self-sovereign Identity –	Opportunities and Challenges for the Digital Revolution](https://arxiv.org/pdf/1712.01767.pdf)
 * [The Knowledge Complexity Of Interactive Proofs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&)
 
-### Selected *Rebooting Web of Trust* Whitepapers[**^**](#Contents) 
-* [Rebooting the Web of Trust VII: Toronto (September 2018)](https://github.com/WebOfTrustInfo/rwot7)
-* [WebofTrust.info/papers.html](https://www.weboftrust.info/papers.html)
-* [Framework for the Comparison of Identity Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/Framework-for-Comparison-of-Identity-Systems.md)
-* [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md)
-* [The DCS Theorem](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/dcs-theorem/The-DCS-Theorem.md) — We use the triangle to show decentralized consensus systems can have _Decentralization_, _Consensus_, or _Scale_, but not all three properties simultaneously.
-* [Identity Crisis: Clear Identity through Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)
-* [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
-
-#### RWoT Use Cases[**^**](#Contents)
-—infogrphic workflow examples 
-* [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)
-* [Re-Imagining What Users Really Want](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/what-users-really-want.md)
-* [Joram 1.0.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/joram-engagement-model.pdf)
-* [Powering the Physician-Patient Relationship with HIE of One Blockchain Health IT](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/physician-patient-relationship.pdf)
-* [Protecting Digital Identities in Developing Countries](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)
-* [Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
 
 ### Video[**^**](#Contents)
 * [Is Blockchain the Future of Digital Identity?](https://youtu.be/Aub5dNpj2_k) -CB Insights
