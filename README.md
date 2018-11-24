@@ -1,5 +1,5 @@
 # Awesome Decentralized Identity
-**DID, Blockchain and Self-Sovereign Identity Resources v0.6**
+**DID, Blockchain and Self-Sovereign Identity Resources v0.7**
 
 Gratitude to those who are working to make our identity experience, and the world, a better place.
 
@@ -43,14 +43,11 @@ Gratitude to those who are working to make our identity experience, and the worl
    * [Research Papers](#Research-Papers)
    * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
      * [RWoT Use Cases](#RWoT-Use-Cases) —infogrphic workflow examples
-   * [People](#People)
    * [Sources](#Sources)
    
+\*Link abbreviations: (**T**)witter, (**git**)hub, (**wp**)whitepaper
 
-
-*Link abbreviations: (**T**)witter, (**git**)hub, (**wp**)whitepaper, (**b**)log, (**c**)hat, (**D**)ocumentation, (**S**)upporting information
-
-Numbered links are supporting information for a given subject not easily categorized*
+Numbered links are supporting information\*
 
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [-Jerry Cuomo](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/)
 
@@ -61,7 +58,7 @@ Numbered links are supporting information for a given subject not easily categor
 
 ### Internet Identity Workshop[**^**](#Contents)
 
-In 2005, [Kaliya Young](https://identitywoman.net/)[[**T**](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[**T**](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[**T**](https://twitter.com/drummondreed)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[**T**](https://twitter.com/dsearls)][[**B**](https://blogs.harvard.edu/doc)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)(IIW)[[**T**](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
+In 2005, [Kaliya Young](https://identitywoman.net/)[[**T**](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[**T**](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[**T**](https://twitter.com/drummondreed)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[**T**](https://twitter.com/dsearls)][[**blog**](https://blogs.harvard.edu/doc)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)(IIW)[[**T**](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
 Since then, the IIW has met bi-anually, actively supporting the development of the identity software-ecosystem, including [OpenID](http://wiki.openid.net)('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1)('06), [OAuth](https://en.wikipedia.org/wiki/OAuth)('10), [FIDO](https://fidoalliance.org/)('13) and OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect)('14). The heart of the internet identity community has been with empowering users and self-sovereign principles, since the early days.
 
@@ -114,6 +111,10 @@ Evident from the whitepapers produced at the RWoT\ID2020 Workshop[[**10**](https
 
 ### Decentralized Identity Foundation[**^**](#Contents) 
 
+On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) was announced.[[**11**](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017)]
+
+* [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI)
+
 ![](http://imgur.com/PXGV6Xyl.png)
 
 * [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**github**](https://github.com/decentralized-identity)] [[**twitter**](https://twitter.com/DecentralizedID)] [[**blog**](https://medium.com/decentralized-identity)] 
@@ -138,7 +139,7 @@ Evident from the whitepapers produced at the RWoT\ID2020 Workshop[[**10**](https
 * [Verifiable Claims Use Cases 1.0](https://w3c.github.io/vc-use-cases/)
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
-* [DIGITAL VERIFICATION COMMUNITY GROUP](https://www.w3.org/community/digital-verification/)[ [**github**](https://sea-region.github.com/w3c-dvcg)]
+* [DIGITAL VERIFICATION COMMUNITY GROUP](https://www.w3.org/community/digital-verification/)[[**github**](https://sea-region.github.com/w3c-dvcg)]
 
 #### DID the Decentralized Identifier[**^**](#Contents) 
 
@@ -186,7 +187,7 @@ Evident from the whitepapers produced at the RWoT\ID2020 Workshop[[**10**](https
 
 * [Evernym](https://www.evernym.com/) [[**T**](https://twitter.com/evernym)]
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
-* [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)][[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
+* [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
 
 ### The Sovrin Foundation[**^**](#Contents)
 
@@ -201,7 +202,7 @@ Evident from the whitepapers produced at the RWoT\ID2020 Workshop[[**10**](https
 * [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/)
 * [How Sovrin Works—A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
-* [Sovrin Test Network Trust Anchor Registration](https://s3.us-east-2.amazonaws.com/evernym-cs/sovrin-STNnetwork/www/trust-anchor.html)[[**F**](https://forum.sovrin.org/t/testing-on-the-sovrin-test-network-stn/643/17)]
+* [Sovrin Test Network Trust Anchor Registration](https://s3.us-east-2.amazonaws.com/evernym-cs/sovrin-STNnetwork/www/trust-anchor.html)[[**Forum**](https://forum.sovrin.org/t/testing-on-the-sovrin-test-network-stn/643/17)]
 
 #### Windley.com [**^**](#Contents)
 * [The Sovrin Foundation](http://www.windley.com/archives/2018/07/the_sovrin_foundation.shtml)
@@ -323,8 +324,8 @@ Evident from the whitepapers produced at the RWoT\ID2020 Workshop[[**10**](https
    * [Estonian Blockchain ID Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
 
 ### Assorted Decentralized \ Blockchain ID Initiatives[**^**](#Contents)
-* [Danube Tech](http://danubetech.com/) — digital identity and personal data, including personal agents, semantic graphs, and blockchain | [xdi](https://xdi2.org) | [navigator](https://github.com/projectdanube/xdi2)
-* [Cambridge Blockchain](http://cambridge-blockchain.com/) — Blockchain for validating secure digital identity documents, processing electronic signatures, and recording transactions."
+* [Danube Tech](http://danubetech.com/) — digital identity and personal data, including personal agents, semantic graphs, and blockchain | [xdi](https://xdi2.org) | [navigator](https://github.com/projectdanube/xdi2)\
+   Founded by [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**T**](https://twitter.com/peacekeeper)] [[**git**](https://github.com/peacekeeper)] [[**blog**](https://medium.com/@markus.sabadello)]
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e)
 * [Proof of Authority](https://blockonomi.com/proof-of-authority/)
 * [Shocard](https://shocard.com/) — "Blockchain-Based Mobile Identity Platform"
@@ -339,9 +340,10 @@ Evident from the whitepapers produced at the RWoT\ID2020 Workshop[[**10**](https
 * [Blockchain Helix](http://blockchain-helix.com)[[**ico**](https://ico.helix-orange.com/)][[**wp**](https://ico.helix-orange.com/wp-content/uploads/2018/08/HELIX-Orange_Whitepaper_v1.5.pdf)]
    * "Identity as a Service", "Data as a Service" and "Blockchain as a Service" The company offers to increase the speed of KYC/AML processes while hughly decreasing the cost 
 * [The Humanized Internet](http://www.thehumanizedinternet.org/) — "to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity."
-* [Civic](https://www.civic.com/) launches: [identity.com](https://identity.com)[[**git**](https://github.com/identity-com/)][[**b**](https://www.civic.com/blog/identity-com-first-open-source-update/)]
+* [Civic](https://www.civic.com/) launches: [identity.com](https://identity.com)[[**git**](https://github.com/identity-com/)][[**blog**](https://www.civic.com/blog/identity-com-first-open-source-update/)]
 * [Mooti](https://mooti.co/) | [docs](https://docs.mooti.co/)
    * offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features
+* [Cambridge Blockchain](http://cambridge-blockchain.com/) — Blockchain for validating secure digital identity documents, processing electronic signatures, and recording transactions."
 * [Banqu](http://www.banquapp.com/) —"focuses on establishing 'economic identity' for those who are excluded from the global economy."
 * [Vida Identity](https://getvida.io) — "enables distributed key revocation and reissuance. Access to data is always permissioned across applications and services."
 * [ÆTERNITY](http://aeternity.com/) | [github](https://github.com/aeternity/protocol) 
@@ -381,12 +383,12 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ### Data Wallet \ Marketplaces[**^**](#Contents)
 
-* [Pillar Project](http://pillarproject.io) | [grey—paper](https://pillarproject.io/documents/Pillar-Gray-Paper.pdf)
+* [Pillar Project](http://pillarproject.io)  [[**wp**](https://pillarproject.io/documents/Pillar-Gray-Paper.pdf)]
    * planning to offer a "Personal Data Locker" consisting of a wallet, browser, and token exchange. Personal assets will be put on a blockchain, and "Pillar" tokens will be issued."
 * [Aversafe](https://www.aversafe.com/) —"allows individuals to store personal details, work history, certificates and achievements. It leverages a permissioned blockchain for trusted audit and participation in the storage of attestation data separate from the actual data stored"
-* [Datum](https://datum.org) | [whitepaper](https://datum.org/assets/Datum-WhitePaper.pdf)
+* [Datum](https://datum.org) [[**wp**](https://datum.org/assets/Datum-WhitePaper.pdf)]
    * "network allows anyone to store structured data on a smart contract blockchain. Data can optionally be bought and sold on a marketplace using the DAT token. Datum leverages BigchainDB and IPFS as data storage backends. All data is encrypted and protected using AES256-GCM.
-* [ONTology](https://ont.io/) | [github](https://github.com/ontio/ontology-DID)— "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
+* [ONTology](https://ont.io/) [[**git**](https://github.com/ontio/ontology-DID)]— "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
 * [We can do better than selling our data](http://blogs.harvard.edu/doc/2018/09/18/data/)-Doc Searls(*IIW*)
 
 ![](https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png)
@@ -437,11 +439,6 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [Identity and Blockchain Technology](https://www.youtube.com/watch?v=Aub5dNpj2_k)
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
 * [Self-Sovereign Identity with Hyperledger Indy\Sovrin- Calvin Cheng - FOSSASIA 2018](https://www.youtube.com/watch?v=hfyIZu3_fw8)
-
-
-### People[**^**](#Contents)
-* [Manu Sporny](https://digitalbazaar.com/blog/) | [twitter](https://twitter.com/manusporny)
-* [Markus Sabadello —Peacekeeper](https://danubetech.com/) | [uniresolver.io](https://uniresolver.io/) | [twitter](https://twitter.com/peacekeeper) | [github](https://github.com/peacekeeper) | [medium](https://medium.com/@markus.sabadello)
 
 ### Sources[**^**](#Contents)
 * [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
