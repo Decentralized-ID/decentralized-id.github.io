@@ -7,6 +7,10 @@ Thanks to those who are working to make our identity experience, and the world, 
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
+#### Note
+Information is not so easily organized in a linear fashion. This document is a product of the effort to enter all of the best blockchain, self-sovereign, and decentralized identity links into a database, which will power a [web-app](https://github.com/infominer33/Crypto-library) for search, manual navigation through the tags, and pages like this. With comments and reactions, so that it can become a co-operative effort among those who get involved.
+
+In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an awesome document out of them sooner than a live demo of the app that is in progress.
 
 ### Contents
 
@@ -305,14 +309,18 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [uPort](https://www.uport.me/) [[**github**](https://github.com/uport-project/)] [[**twitter**](https://twitter.com/uport_me)]
    * [Ethereum studio ConsenSys launches 'Internet-of-People' with digital IDs and assets secured on Ubuntu phones](http://www.ibtimes.co.uk/ethereum-studio-consensys-launches-internet-people-digital-ids-assets-secured-unbuntu-phones-1542620)
    * [Year in Review. What's to come in 2018](https://medium.com/uport/uport-year-in-review-whats-to-come-in-2018-15ccb9214439)
+* [Deloitte SmartID](http://www.deloitte.co.uk/smartid/) [[**github**](https://github.com/SmartIdentity/smartId-contracts)]
+   * "Smart Identity uses the Ethereum blockchain to represent an identity using a smart contract, attributes can be added by the identity owner and are stored in hash form"
 * [Nuggets](http://www.nuggets.life/) [[**wp**](https://nuggets.life/images/Nuggets-White-Paper.pdf)]
    * "is a blockchain platform giving users a single biometric tool for login, payment and identity verification. It stores an individual's information in a "personal cloud" in "zero-knowledge blockchain storage".
+   * [Deloitte SmartID](http://www.deloitte.co.uk/smartid/) [[**github**](https://github.com/SmartIdentity/smartId-contracts)]
+   * "Smart Identity uses the Ethereum blockchain to represent an identity using a smart contract, attributes can be added by the identity owner and are stored in hash form"
 * [Jolocom](http://jolocom.com/) 
-   * a "SmartWallet" for everyone to own their personal digital identity, using [Social Linked Data](https://github.com/solid/solid-spec), WebID, and verifiable claims standards, as well as Ethereum smart contracts. 
+   * a "SmartWallet" for everyone to own their personal digital identity, using [Social Linked Data](https://github.com/solid/solid-spec), WebID, and verifiable claims standards via Ethereum smart contracts. 
 * [Democracy Earth Foundation](http://democracy.earth/) [[**github**](https://github.com/DemocracyEarth/paper)] 
    * developing "[Sovereign](http://sovereign.software/)", a blockchain direct democracy tool using "vote" tokens to grant democratic participation rights to every human. A proof-of-individuality (POI) process based on peer-to-peer validation establishes that a self-sovereign identity is uniquely tied to a single person. The project introduces a number of interesting socio-technical concepts such as "Social Smart Contract", "Initial Rights Offering", and "Cryptographically Induced Equality". Cooperation is happening with other decentralized identity initiatives such as Blockstack and uPort.
 * [Ockam](https://www.ockam.io/) — creating a ERC20 based platform that registers IOT devices to a blockchain to solve systemic security and interoperability problems.
-
+* [Cambridge Blockchain](http://cambridge-blockchain.com/) [[**github**](https://github.com/cambridge-blockchain)][[**research**](https://files.ifi.uzh.ch/CSG/staff/Rafati/ID%20Management%20using%20BC-Atif-VA.pdf)]— Blockchain for validating secure digital identity documents, processing electronic signatures, and recording transactions."
 
 ### State Led Initiatives[**^**](#Contents)
 
@@ -358,15 +366,12 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
   * enables users to create their own sovereign digital IDs which are stored encrypted on [BigChainDB](http://docs.bigchaindb.com)
 * [JLinc](https://www.jlinc.com/) — registers cryptographic public keys on the Stellar blockchain. 
    > "The founders have been at the center of a community of developers working on “user-centric digital identity for almost two decades."
-* [Deloitte SmartID](http://www.deloitte.co.uk/smartid/) [[**github**](https://github.com/SmartIdentity/smartId-contracts)]
-   * "Smart Identity uses the Ethereum blockchain to represent an identity using a smart contract, attributes can be added by the identity owner and are stored in hash form"
 * [Internet of People](https://iop.global/) — "an open, decentralized infrastructure consisting of device-to-device communication, blockchain tokens, profile servers, and other components." -Founded by [Fermat](http://www.fermat.org)
 * [Blockchain Helix](http://blockchain-helix.com)[[**ico**](https://ico.helix-orange.com/)][[**wp**](https://ico.helix-orange.com/wp-content/uploads/2018/08/HELIX-Orange_Whitepaper_v1.5.pdf)]
    * "Identity as a Service", "Data as a Service" and "Blockchain as a Service" The company offers to increase the speed of KYC/AML processes while hughly decreasing the cost 
 * [Civic](https://www.civic.com/) launches: [identity.com](https://identity.com)[[**github**](https://github.com/identity-com/)][[**blog**](https://www.civic.com/blog/identity-com-first-open-source-update/)]
 * [Mooti](https://mooti.co/) | [docs](https://docs.mooti.co/)
    * offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features
-* [Cambridge Blockchain](http://cambridge-blockchain.com/) [[**github**](https://github.com/cambridge-blockchain)][[**research**](https://files.ifi.uzh.ch/CSG/staff/Rafati/ID%20Management%20using%20BC-Atif-VA.pdf)]— Blockchain for validating secure digital identity documents, processing electronic signatures, and recording transactions." (ethereum based)
 * [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
 * [Cicada](https://github.com/the-laughing-monkey/cicada-platform)
