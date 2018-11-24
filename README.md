@@ -1,7 +1,7 @@
 # Awesome Decentralized Identity
 **DID, Blockchain and Self-Sovereign Identity Resources v0.9**
 
-Gratitude to those who are working to make our identity experience, and the world, a better place.
+Thanks to those who are working to make our identity experience, and the world, a better place.
 
 [Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)
 
