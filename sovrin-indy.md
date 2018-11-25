@@ -1,9 +1,11 @@
 # Sovrin\Indy\DID —Foundation, Architecture, Ecosystem -DRAFT
 
-// Will gather here all resources that specifically relate to Sovrin, and Indy. Gradually this file will grow with Sovrin related material. While '[awesome-decentralized-id](/readme.md)' will be gradually shed of some resources which are more specific to sovrin\indy and less so to the greater decentralized-id ecosystem.
+// Will gather here all resources that specifically relate to Sovrin, and Indy. Gradually this file will grow with Sovrin related material. While '[awesome-decentralized-id](/readme.md)' will be gradually thinned out. Whatever the case may be, just working out which proportions of what should be where.
+
+
 ### Contents
-* [Introduction](#Introduction)
 * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
+* [GDPR](#EU-General-Data-Protection-Regulation-Act)
 * [Evernym](#Evernym)
 * [The Sovrin Foundation](#The-Sovrin-Foundation)
   * [Windley.com](#Windley)
@@ -14,35 +16,31 @@
   * [RWoT Use Cases](#RWoT-Use-Cases) -infographic workflow
 * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
   * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier) 
-* [GDPR](#EU-General-Data-Protection-Regulation-Act)
 * [Indy \ Sovrin Adoption](#Indy\Sovrin-Adoption)
   * [DID Adoption](#DID-Adoption)
 * [Sources](#Sources)
 
-### Introduction
-
- Additional history and background information may be found at [awesome-decentralized-id](/README.md).
-
-* [Christopher Allen](http://www.lifewithalacrity.com/)[[**T**](https://twitter.com/ChristopherA)][[**git**](https://github.com/ChristopherA)] details the overarching history of internet idenitity standards in his seminal work: 
-   **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[**3**](https://www.coindesk.com/path-self-sovereign-identity/amp/)].
- 
-
- **[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** | **[identitywoman.net](https://identitywoman.net/)** | **[windley.com-#identity](http://www.windley.com/tags/identity.shtml)** | **[WoTinfo](https://github.com/WebOfTrustInfo/)**
-* [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**github**](https://github.com/decentralized-identity)] [[**twitter**](https://twitter.com/DecentralizedID)] [[**blog**](https://medium.com/decentralized-identity)] 
+![](http://imgur.com/3zz62kpl.png)
 
 ### Self Sovereign Identity[**^**](#Contents)
 
-![](http://imgur.com/3zz62kpl.png)
-
-* [WebOfTrustInfo/self-sovereign-id](https://github.com/WebOfTrustInfo/self-sovereign-identity)
-* [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
-* [A Technlogy-Free Definition of Self-Sovereign Identity (SSI)](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) 
-* [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
-* [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
-* [Experts talk Self-Sovereign Identity](https://www.coindesk.com/experts-talk-self-sovereign-identity-implementing-systems/)
-* [Self-Sovereign Identity — wiki.p2pfoundation](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
+[Christopher Allen](http://www.lifewithalacrity.com/)[[**T**](https://twitter.com/ChristopherA)][[**git**](https://github.com/ChristopherA)] details the overarching history of internet idenitity standards in his seminal work: 
+   * **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[**3**](https://www.coindesk.com/path-self-sovereign-identity/amp/)].
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
+
+* [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
+
+
+ Additional history and background information may be found at [awesome-decentralized-id](/README.md).
+
+### EU General Data Protection Regulation Act[**^**](#Contents)
+
+* [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
+* [Self-Sovereign Privacy By Design](https://github.com/sovrin-foundation/protocol/blob/master/self_sovereign_privacy_by_design_v1.md)
+* [Privacy by Design The 7 Foundational Principles](https://www.ipc.on.ca/wp-content/uploads/Resources/7foundationalprinciples.pdf) 
+* [When GDPR Becomes Real, and Blockchain is no longer fairydust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
+
 
 ### Evernym[**^**](#Contents)
 
@@ -160,22 +158,12 @@
 * [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
 
 
-### EU General Data Protection Regulation Act[**^**](#Contents)
 
-* [Blockchains and Data Protection in the European Union](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3080322)
-* [IBM — How blockchain could address five areas associated with GDPR compliance](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=61014461USEN)
-* [GDPR - A reflection on the 'self-sovereign identity' and the Blockchain](https://www.linkedin.com/pulse/gdpr-reflection-self-sovereign-identity-blockchain-nicolas-ameye/)
-* [GDPR and Privacy by Design, What developers need to know](https://medium.com/@sphereidentity/gdpr-and-privacy-by-design-what-developers-need-to-know-fa5a936da65a)
-* [Privacy by Design The 7 Foundational Principles](https://www.ipc.on.ca/wp-content/uploads/Resources/7foundationalprinciples.pdf) 
-* [When GDPR Becomes Real, and Blockchain is no longer fairydust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
-* [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
-* [Self-Sovereign Privacy By Design](https://github.com/sovrin-foundation/protocol/blob/master/self_sovereign_privacy_by_design_v1.md)
-
-
-### Indy\Sovrin Adoption[**^**](#Contents)
+### Evernym\Sovrin\Indy Adoption[**^**](#Contents)
 
 * [Tykn *The Future of Resilient Identity*](https://tykn.tech/) [[**twitter**](https://twitter.com/Tykn_tech)][[**github**](https://github.com/tykntech)][[**Extended Overview**](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)] (Indy\Sovrin)
 * [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)
+
 
 #### DID Adoption [**^**](#Contents)
 * [@ChristopherA on DID adoption](https://twitter.com/ChristopherA/status/989122017348784130)
@@ -184,14 +172,12 @@
 * [Blockstack DID Spec](https://github.com/blockstack/blockstack-core/blob/master/docs/blockstack-did-spec.md)[**[*](https://forum.blockstack.org/t/did-method-at-identity-foundation/4287/9)**]
 * [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
+* [U.S. Department of Homeland Security funds four Blockchains](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology)
+
 
 
 ### Sources[**^**](#Contents)
 * [/awesome-decentralized-id](/README.md)
-* [IIW-Wiki](http://iiw.idcommons.net/Main_Page)
-* [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [/blockchain-id.toml](/blockchain-id.toml)
-* [identitywoman.net](https://identitywoman.net/)
-* [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
