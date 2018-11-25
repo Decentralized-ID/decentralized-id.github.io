@@ -1,3 +1,5 @@
+# The Sovrin\Indy\DID Foundations, Architecture, and Ecosystem -DRAFT
+
 // Will gather here all resources that specifically relate to Sovrin, and Indy. Gradually this file will grow with Sovrin related material. While '[awesome-decentralized-id](/readme.md)' will be gradually shed of some resources which are more specific to sovrin\indy and less so to the greater decentralized-id ecosystem.
 ### Contents
 * [Introduction](#Introduction)
