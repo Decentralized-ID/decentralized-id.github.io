@@ -1,6 +1,6 @@
 # Sovrin\Indy\DID —Foundation, Architecture, Ecosystem -DRAFT
 
-// Will gather here all resources that specifically relate to Sovrin, and Indy. Gradually this file will grow with Sovrin related material. While '[awesome-decentralized-id](/readme.md)' will be gradually thinned out. Whatever the case may be, just working out which proportions of what should be where.
+// Will gather here all resources that specifically relate to Sovrin, and Indy. Gradually this file will grow with Sovrin related material. While '[awesome-decentralized-id](/readme.md)' will be gradually thinned out, or actually it seems like that one should be more expansive, and this one more specific.. Whatever the case may be, just working out which proportions of what should be where.
 
 
 ### Contents
@@ -32,7 +32,7 @@
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
 
 
- Additional history and background information may be found at [awesome-decentralized-id](/README.md).
+Additional history and background information may be found at [awesome-decentralized-id](/README.md).
 
 ### EU General Data Protection Regulation Act[**^**](#Contents)
 
