@@ -7,6 +7,7 @@
   * [Windley.com](#Windley)
 * [Hyperledger Indy](#Hyperledger-Indy)
   * [Idemix](#IDEMix)
+* [Video](#Video)
 * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
   * [RWoT Use Cases](#RWoT-Use-Cases) -infographic workflow
 * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
@@ -14,6 +15,7 @@
 * [GDPR](#EU-General-Data-Protection-Regulation-Act)
 * [Indy \ Sovrin Adoption](#Indy\Sovrin-Adoption)
   * [DID Adoption](#DID-Adoption)
+* [Sources](#Sources)
 
 ### Introduction
 
@@ -103,6 +105,11 @@
 * [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
 * [AnonCreds: Anonymous credentials protocol implementation in python](https://github.com/hyperledger/indy-anoncreds) [[Usecase](https://github.com/hyperledger/indy-anoncreds/blob/master/docs/anoncred-usecase1.pdf)]
 
+### Video[**^**](#Contents)
+* [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
+* [Self-Sovereign Identity with Hyperledger Indy\Sovrin- Calvin Cheng - FOSSASIA 2018](https://www.youtube.com/watch?v=hfyIZu3_fw8)
+
+
 ### Selected 'Rebooting Web of Trust' Whitepapers[**^**](#Contents) 
 * [WebofTrust.info/papers.html](https://www.weboftrust.info/papers.html)
 * [Rebooting the Web of Trust VII: Toronto (September 2018)](https://github.com/WebOfTrustInfo/rwot7)
@@ -163,7 +170,6 @@
 * [Self-Sovereign Privacy By Design](https://github.com/sovrin-foundation/protocol/blob/master/self_sovereign_privacy_by_design_v1.md)
 
 
-
 ### Indy\Sovrin Adoption[**^**](#Contents)
 
 * [Tykn *The Future of Resilient Identity*](https://tykn.tech/) [[**twitter**](https://twitter.com/Tykn_tech)][[**github**](https://github.com/tykntech)][[**Extended Overview**](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)] (Indy\Sovrin)
@@ -176,3 +182,14 @@
 * [Blockstack DID Spec](https://github.com/blockstack/blockstack-core/blob/master/docs/blockstack-did-spec.md)[**[*](https://forum.blockstack.org/t/did-method-at-identity-foundation/4287/9)**]
 * [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
+
+
+### Sources[**^**](#Contents)
+* [/awesome-decentralized-id](/README.md)
+* [IIW-Wiki](http://iiw.idcommons.net/Main_Page)
+* [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
+* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
+* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
+* [/blockchain-id.toml](/blockchain-id.toml)
+* [identitywoman.net](https://identitywoman.net/)
+* [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
