@@ -12,7 +12,7 @@ Information is not so easily organized in a linear fashion. This list is a by-pr
 
 In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an awesome list out of them sooner than a live demo of the app that is in progress.
 
-Furthermore, I am working on [Awesome Sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin/README.md) as a place to focus more on the Sovrin\Indy software and ecosystem. Ideally, these two 'Awesome' lists complement eachother along with [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/)
+Furthermore, I'm now working on [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin/README.md) as a place to focus more on the Sovrin\Indy software and ecosystem. Ideally, these two 'Awesome' lists will come to compliment eachother, along with [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/)
 
 ### Contents
 
