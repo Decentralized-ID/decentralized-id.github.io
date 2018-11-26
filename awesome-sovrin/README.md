@@ -1,5 +1,7 @@
 # The Sovrin\Indy\DID Architecture and Ecosystem
 
+This is one part [/awesome-decentralized-id](../README.md) abridged to include only information related to Sovrin\DID and expands to include some information on the subject that isn't found over there.
+
 ### Contents
 * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
 * [GDPR](#EU-General-Data-Protection-Regulation-Act)
@@ -18,6 +20,7 @@
 * [Evernym\Sovrin\Indy\Adoption](#Evernym\Sovrin\Indy-Adoption)
 * [DID Adoption](#DID-Adoption)
   * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
+* [Reports](#Reports)
 * [Sources](#Sources)
 
 ![](http://imgur.com/3zz62kpl.png)
@@ -237,6 +240,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
 * [U.S. Department of Homeland Security funds four Blockchains](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology)
 * [IBM-Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
+* [SecureKey](http://securekey.com/): [partners with IBM](http://www-03.ibm.com/press/us/en/pressrelease/51841.wss) to enable a new digital identity and attribute sharing network based on Hyperledger Fabric blockchain.
 
 #### Decentralized Identity Foundation[**^**](#Contents) 
 
@@ -253,6 +257,14 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 Tierion, British Colombia Ministry of Citizens Services, Gem, aetna, Equinex, KYC-Chain, BlockPass, Ockam, NuID, MetaX, GS1, DIID, nuggets, trusted key, zinc, ONTology, Mastercard, LNk-E, ID2020, VeridiumID, Mecco, Dominode, Enigma, datum, onfido, identos, diwala, <sitekit>, suru, botlabs, enterprise ethereum alliance, remme.
 
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
+
+### Reports[**^**](#Contents)
+* [How Blockchain Revolutionizes Identity Management](https://www.accenture-insights.nl/en-us/articles/how-blockchain-will-revolutionize-identity-management)
+* [Blockchain: Evolving Decentralized Identity Design](https://www.gartner.com/doc/3834863/blockchain-evolving-decentralized-identity-design)
+* [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
+* [IDENTITY MATTERS](https://cboxxtest.files.wordpress.com/2017/09/cboxxidentitymatters04.pdf)
+* [Accenture: ID2020: DIGITAL IDENTITY with Blockchain and Biometrics](https://www.accenture.com/us-en/insight-blockchain-id2020)
+* [r3- Identity in Depth](https://www.r3.com/wp-content/uploads/2017/06/Identity_indepth_r3.pdf)
 
 ### Sources[**^**](#Contents)
 * [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
