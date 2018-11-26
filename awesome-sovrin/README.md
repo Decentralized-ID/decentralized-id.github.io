@@ -1,5 +1,5 @@
-# Awesome Sovrin Foundation, Hyperledger Indy and DID, the decentralized identifier, Resources.
-**The Protocol, Governance, and the Surrounding Ecosystem** 
+# Awesome Sovrin, Hyperledger Indy and DID Resources.
+**Protocol, Governance, and the Surrounding Ecosystem** 
 
 In part, this is a version of [/awesome-decentralized-id](../README.md) abridged to include only information related to Sovrin\DID and expands to include some information on the subject that isn't found over there.
 
