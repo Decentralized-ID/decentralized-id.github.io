@@ -1,7 +1,8 @@
 # Awesome Sovrin, Hyperledger Indy and DID Resources.
 **Protocol, Governance, and the Surrounding Ecosystem** 
 
-Much of the material in this come from [/awesome-decentralized-id](../README.md), however, there is additional material here that isn't found over there.
+Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
+However, there this file contains additional material that isn't found over there.
 
 ### Contents
 * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
