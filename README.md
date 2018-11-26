@@ -12,7 +12,7 @@ Information is not so easily organized in a linear fashion. This list is a by-pr
 
 In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an awesome list out of them sooner than a live demo of the app that is in progress.
 
-Furthermore, I am working on [sovrin-indy.md](/sovrin-indy.md) as a space to focus more on the foundations, archetecture, and projects within that ecosystem. Eventually some of that material will be thinned out from here.
+Furthermore, I am working on [sovrin-indy.md](/sovrin-indy.md) as a space to focus more on the foundations, archetecture, and projects within that ecosystem. This document being more expansive, and that one more specific.
 
 ### Contents
 
