@@ -49,6 +49,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 ![](http://untangled.world/wp-content/uploads/2017/08/everynym-logo-1400x357.png)
 
 * [Evernym](https://www.evernym.com/) ([**twitter**](https://twitter.com/evernym)) originally created the Sovrin codebase, founded in 2013[[**B**](https://outlierventures.io/portfolio/evernym/)].
+* [Outlier Ventures invests in, becomes strategic partner of Evernym](https://coinreport.net/outlier-ventures-invests-becomes-strategic-partner-evernym/) 8/17
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
 * [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
 
@@ -161,6 +162,17 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 * [Tykn *The Future of Resilient Identity*](https://tykn.tech/) [[**twitter**](https://twitter.com/Tykn_tech)][[**github**](https://github.com/tykntech)][[**Extended Overview**](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)] (Indy\Sovrin)
 * [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)
+* [Evernym and R3 Partner to Apply Self-Sovereign Identity to Financial Services](http://www.paymentsjournal.com/evernym-r3-partner-apply-self-sovereign-identity-financial-services/)
+* [Sovrin Foundation, Ontology and Evernym Collaborate on Interoperable Decentralized Identity Networks](https://globenewswire.com/news-release/2018/10/23/1625715/0/en/Sovrin-Foundation-Ontology-and-Evernym-Collaborate-on-Interoperable-Decentralized-Identity-Networks.html)
+* [Evernym rolls with auto industry association MOBI to promote SSI in automotive and IoT](https://globenewswire.com/news-release/2018/10/05/1617425/0/en/Evernym-rolls-with-auto-industry-association-MOBI-to-promote-SSI-in-automotive-and-IoT.html)
+* [15 Industry Leaders Join Evernym’s Global Accelerator to Build the Future of Digital Identity.](https://globenewswire.com/news-release/2018/11/07/1647044/0/en/15-Industry-Leaders-Join-Evernym-s-Global-Accelerator-to-Build-the-Future-of-Digital-Identity.html)
+   > Founding members of the Accelerator include industry leading organizations ATB Financial, IAG, Irish Life, the International Federation of Red Cross, Spark New Zealand, Truu and three provincial and state governments. Collectively, these organizations represent the interests of 100's of millions of individuals worldwide.
+* [IOTA and Evernym Launch Collaboration Aimed at Making the Internet of Things More Secure](https://globenewswire.com/news-release/2017/08/31/1106292/0/en/IOTA-and-Evernym-Launch-Collaboration-Aimed-at-Making-the-Internet-of-Things-More-Secure.html)
+* [Digital Identity Innovator Helps Non-Profits Get on the Identity Blockchain](https://globenewswire.com/news-release/2018/09/25/1575928/0/en/Digital-Identity-Innovator-Helps-Non-Profits-Get-on-the-Identity-Blockchain.html)
+   >Evernym is opening its Accelerator program to Non Profit Organization (NPOs) applications. Evernym will waive the $50,000 membership fee it normally charges to participate in the program. A panel of judges will select the successful applicants. The first group of awards will be announced before December 2018 and will include 5 organizations. Further NPO cohorts are already planned for 2019.\
+   >The World Bank estimates over 1 billion persons, usually the most vulnerable, are without formal identity.
+* [The Sovrin Foundation Names Cisco Founding Steward](https://globenewswire.com/news-release/2018/06/21/1527830/0/en/The-Sovrin-Foundation-Names-Cisco-Founding-Steward.html)
+* [CULedger partners with decentralized identity innovator Evernym to create MyCUID](https://www.cuinsight.com/press-release/culedger-partners-decentralized-identity-innovator-evernym-create-mycuid)
 
 
 #### DID Adoption [**^**](#Contents)
