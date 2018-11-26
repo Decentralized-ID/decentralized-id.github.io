@@ -1,24 +1,22 @@
-# The Sovrin\Indy\DID Architecture and Ecosystem -DRAFT
-
-// Will gather here all resources that specifically relate to Sovrin, and Indy. Gradually this file will grow with Sovrin related material. While '[awesome-decentralized-id](/README.md)' will be gradually thinned out, or actually it seems like that one should be more expansive, and this one more specific.. Whatever the case may be, just working out which proportions of what should be where.
-
+# The Sovrin\Indy\DID Architecture and Ecosystem
 
 ### Contents
 * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
 * [GDPR](#EU-General-Data-Protection-Regulation-Act)
 * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
   * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier) 
-* [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
 * [Evernym](#Evernym)
 * [The Sovrin Foundation](#The-Sovrin-Foundation)
-  * [Windley.com](#Windley)
+  * [Sovrin Stewards](#Sovrin-Stewards)
+  * [Selected Articles Windley.com](#Selected-Articles-Windley.com)
 * [Hyperledger Indy](#Hyperledger-Indy)
   * [Idemix](#IDEMix)
 * [Video](#Video)
 * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
   * [RWoT Use Cases](#RWoT-Use-Cases) -infographic workflow
 * [Indy \ Sovrin Adoption](#Indy\Sovrin-Adoption)
-  * [DID Adoption](#DID-Adoption)
+* [DID Adoption](#DID-Adoption)
+  * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
 * [Sources](#Sources)
 
 ![](http://imgur.com/3zz62kpl.png)
@@ -70,18 +68,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
 
 
-### Decentralized Identity Foundation[**^**](#Contents) 
 
-On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017):
-
-* [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
-
-![](http://imgur.com/PXGV6Xyl.png)
-
-* [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**github**](https://github.com/decentralized-identity)] [[**twitter**](https://twitter.com/DecentralizedID)] [[**blog**](https://medium.com/decentralized-identity)] 
-* the following links highlight *something each member adds* to the DID ecosystem:
-   - Members include: [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY), [uPort](https://github.com/uport-project/ethr-did/blob/develop/docs/index.md), [IBM](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/), [Sovrin](https://github.com/sovrin-foundation/sovrin/blob/master/spec/did-method-spec-template.html), [SecureKey](https://www.ibm.com/blogs/blockchain/2018/05/self-sovereign-identity-our-recent-activity-as-a-sovrin-steward/), [Blockstack](https://github.com/blockstack/blockstack-core/blob/feature/docs-bns/docs/blockstack_naming_service.md#decentralized-identifiers-dids), [Evernym](https://www.evernym.com/wp-content/uploads/2017/07/What-Goes-On-The-Ledger.pdf), [Hyperledger](https://github.com/hyperledger/indy-sdk/blob/master/doc/getting-started/getting-started.md), [Civic](https://www.civic.com/solutions/kyc-services/), [Accenture](https://www.accenture.com/us-en/insight-blockchain-id2020), [Danube](https://github.com/projectdanube/xdi2), [netki](https://bravenewcoin.com/insights/netki-launches-digital-id-solution-which-bitt-is-using-with-central-banks-in-the-caribbean), [RSA](https://www.rsa.com/en-us/research-and-thought-leadership/rsa-labs), [Consent](https://sovrin.org/steward/global-consent/), [IOTA](https://medium.com/@iotasuppoter/iota-the-case-of-decentralized-digital-identity-de7b95042c12), [Mooti](https://www.cio.com/article/3147358/it-industry/ibm-building-blockchain-ecosystem.html), [r3](https://www.gemalto.com/press/pages/gemalto-and-r3-pilot-blockchain-technology-to-put-users-in-control-of-their-digital-id.aspx), [Authenteq](https://venturebeat.com/2018/08/30/authenteq-launches-blockchain-identity-verification-to-stop-online-trolls/), [Blockchain-foundry](https://www.blockchainfoundry.co/blockchain-foundry-inc-announces-new-software-release-for-blockchain-based/), [Validatedid](https://www.validatedid.com/vidchain-the-future-of-digital-identity/), [1kosmos](https://onekosmos.com/product-details/), [gamecredits](https://medium.com/@gamecredits/introducing-blinking-blink-identity-management-on-the-blockchain-9258c7d76a8d)[[*](https://blinking.id)], [auth0](https://auth0.com/), [jolocom](https://stories.jolocom.com/jolocom-brings-blockchain-identity-to-privacy-week-berlin-acdaee665f0), [Enigma](https://blog.enigma.co/off-chain-identity-claims-with-enigma-2d5b23c31f92), [Humanized-internet](https://www.thehumanizedinternet.org/), [Pillar](https://pillarprojectfoundation.org/blog/announcing-the-pillar-project/), [id2020](https://id2020.org/manifesto/), [Nuggets](https://www.mobilepaymentstoday.com/news/identity-and-payments-platform-nuggets-partners-with-iot-company/).
-* [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 
 
 ### Evernym[**^**](#Contents)
@@ -97,9 +84,9 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
-* The [Sovrin](https://sovrin.org/)
- Foundation is creating a public instance of [Hyperledger](#Hyperledger-Indy) Indy's code; initially developed by [Evernym](#Evernym)\
-  [[**Forum**](https://forum.sovrin.org/)] [[**Slack**](https://sovrin-slack-signup.herokuapp.com/)][[**Twitter**](https://twitter.com/SovrinID)][[**Github**](https://github.com/sovrin-foundation/sovrin)]
+*   [[**Forum**](https://forum.sovrin.org/)] [[**Slack**](https://sovrin-slack-signup.herokuapp.com/)][[**Twitter**](https://twitter.com/SovrinID)][[**Github**](https://github.com/sovrin-foundation/sovrin)]
+* Founded in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
+ Foundation is creating a public instance of the Sovrin\Indy codebase; initially developed by [Evernym](#Evernym)
 * [Sovrin Library](https://sovrin.org/library/)
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
 * [Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust](https://sovrin.org/wp-content/uploads/Sovrin-Protocol-and-Token-White-Paper.pdf)
@@ -108,7 +95,54 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [How Sovrin Works: A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
 * [Sovrin Test Network Trust Anchor Registration](https://s3.us-east-2.amazonaws.com/evernym-cs/sovrin-STNnetwork/www/trust-anchor.html)[[**Forum**](https://forum.sovrin.org/t/testing-on-the-sovrin-test-network-stn/643/17)]
 
-#### Selected readings from Windley.com [**^**](#Contents)
+#### Sovrin Stewards[**^**](#Contents)
+
+The Sovrin ledger is operated by Stewards, trusted organizations within the ecosystem who have agreed to abide by the requirements in the [Sovrin Trust Framework](https://sovrin.org/library/sovrin-governance-framework/) and are responsible for operation the nodes that maintain the Sovrin distributed ledger.
+
+Stewards also, as a group, accept or reject any changes to the ledger-specific portions of the Sovrin open source code by virtue of that role. They thus provide a counterbalance to the Sovrin architects who maintain the Indy code base.
+
+[Aalto University](http://www.aalto.fi/en/)
+| [Absa Group Limited](https://www.absa.africa/absaafrica/)
+| [Amihan Global Strategies](https://amihan.net/)
+| [ARTiFACTS](https://artifacts.ai/)
+| [Attinad Software](http://attinadsoftware.com/)
+| [ATB Financial](http://www.atb.com/Pages/default.aspx)
+| [Best Innovation Group](http://www.big-fintech.com/)
+| [BakerHostetler](https://www.bakerlaw.com/)
+| [Cisco](https://www.cisco.com/)
+| [Certisign](http://www.certisign.com.br/)
+| [Crypto Valley Association](https://cryptovalley.swiss/)
+| [CULedger](http://culedger.com/)
+| [Danube Tech](https://danubetech.com/)
+| [Datum](https://datum.org/)
+| [Desert Financial Credit Union](https://www.desertschools.org/business)
+| [Digicert](https://www.digicert.com/)
+| [Digital Bazaar](https://digitalbazaar.com/)
+| [estatus AG](https://www.esatus.com/)
+| [Evernym](https://www.evernym.com/)
+| [Finicity](https://www.finicity.com/)
+| [First Education Credit Union](https://www.firstedfcu.com/)
+| [Global Consent](http://www.consent.global/)
+| [IBM](https://www.ibm.com/)
+| [InfoCert](https://infocert.digital/)
+| [iRespond](http://irespond.org/)
+| [KYC Chain](https://kyc-chain.com/)
+| [OAS Staff Federal Credit Union](https://www.oasfcu.org/en/default.asp)
+| [Perkins Cole](https://www.perkinscoie.com/)
+| [ProSapien](https://www.prosapien.com/)
+| [Qiy Foundation](https://www.qiyfoundation.org/)
+| [Royal Credit Union](https://www.rcu.org/)
+| [SICPA](https://www.sicpa.com/)
+| [SITA](https://www.sita.aero/)
+| [T-Labs](https://laboratories.telekom.com/)
+| [The City of Osmio](https://osmio.ch/)
+| [TNO](https://www.tno.nl/en/)
+| [Truu](https://www.truu.id/)
+| [TwinPeek](https://twinpeek.net/)
+| [Tykn](https://tykn.tech/)
+| [Veridium](https://veridiumid.com/)
+
+#### Selected articles Windley.com [**^**](#Contents)
 
 * [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
 * [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
@@ -123,22 +157,25 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 ![](https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png)
 
-![](http://imgur.com/2LWlrgvl.png)
+![](http://imgur.com/2LWlrgvl.png)\
 [Linux Foundation -Blockchain for Business -INDY](https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies)
 
-* [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**twitter**](https://twitter.com/Hyperledger)] [[**wiki**](https://wiki.hyperledger.org/projects/indy/documentation)] [[**git**](https://github.com/hyperledger/indy-sdk)]
+* [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**twitter**](https://twitter.com/Hyperledger)] [[**git**](https://github.com/hyperledger/indy-sdk)]
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy) - ANN
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
+* [Indy Documentation Index - wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
+* The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section on Indy.
+
+
+#### Additional Indy Resources 
 * [Plenum Bzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki)
    * "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem."
 * [An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials](https://eprint.iacr.org/2008/539.pdf)
 * [An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation](https://www.iacr.org/archive/eurocrypt2001/20450093.pdf)
-* [SecureKey Technologies to explore interoperability between Verified.Me and Hyperledger Indy](https://securekey.com/press-releases/hyperledger-indy/)
-* The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) edx course may be freely audited and has a section on Indy.
 * [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 
-### IDEMix
-* [What Zero Knowledge Poof Algorithm is used in Sovrin?](https://forum.sovrin.org/t/what-zero-knowledge-proof-algorithm-is-used-in-sovrin/71/2)*
+##### IDEMix
+* [What Zero Knowledge Poof Algorithm is used in Sovrin?](https://forum.sovrin.org/t/what-zero-knowledge-proof-algorithm-is-used-in-sovrin/71/2)
 * [How is IDEMix Implemented in Sovrin\Indy?](https://forum.sovrin.org/t/how-idemex-is-implemented-in-sovrin-indy)
 * [idemix in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.3/idemix.html)
 * [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
@@ -178,6 +215,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [News Release: DHS S&T Awards $749K to Evernym for Decentralized Key Management Research and Development](https://www.dhs.gov/science-and-technology/news/2017/07/20/news-release-dhs-st-awards-749k-evernym-decentralized-key) (Department of Homeland Security)
 * [Evernym and R3 Partner to Apply Self-Sovereign Identity to Financial Services](http://www.paymentsjournal.com/evernym-r3-partner-apply-self-sovereign-identity-financial-services/)
 * [Sovrin Foundation, Ontology and Evernym Collaborate on Interoperable Decentralized Identity Networks](https://globenewswire.com/news-release/2018/10/23/1625715/0/en/Sovrin-Foundation-Ontology-and-Evernym-Collaborate-on-Interoperable-Decentralized-Identity-Networks.html)
+* [SecureKey Technologies to explore interoperability between Verified.Me and Hyperledger Indy](https://securekey.com/press-releases/hyperledger-indy/)
 * [Evernym rolls with auto industry association MOBI to promote SSI in automotive and IoT](https://globenewswire.com/news-release/2018/10/05/1617425/0/en/Evernym-rolls-with-auto-industry-association-MOBI-to-promote-SSI-in-automotive-and-IoT.html)
 * [15 Industry Leaders Join Evernym’s Global Accelerator to Build the Future of Digital Identity.](https://globenewswire.com/news-release/2018/11/07/1647044/0/en/15-Industry-Leaders-Join-Evernym-s-Global-Accelerator-to-Build-the-Future-of-Digital-Identity.html)
    > Founding members of the Accelerator include industry leading organizations ATB Financial, IAG, Irish Life, the International Federation of Red Cross, Spark New Zealand, Truu and three provincial and state governments. Collectively, these organizations represent the interests of 100's of millions of individuals worldwide.
@@ -189,7 +227,10 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [CULedger partners with decentralized identity innovator Evernym to create MyCUID](https://www.cuinsight.com/press-release/culedger-partners-decentralized-identity-innovator-evernym-create-mycuid)
 
 
-#### DID Adoption [**^**](#Contents)
+### DID Adoption [**^**](#Contents)
+
+
+
 * [@ChristopherA on DID adoption](https://twitter.com/ChristopherA/status/989122017348784130)
    > "22/ Over a dozen companies and organizations, using multiple blockchains (Bitcoin, Ethereum, Hyperledger, etc.), have committed to deploying DIDs, including IBM, Microsoft, Digital Bazaar, Consensys, Evernym, Learning Machine, British Columbia, and more:" —[How blockchain could solve the internet privacy problem](https://www.computerworld.com/article/3267930/blockchain/how-blockchain-could-solve-the-internet-privacy-problem.html)
 * [Veres One DID Method 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/did-method-veres-one.md) — a permissionless public ledger designed specifically for the creation and management of decentralized identifiers (DIDs)
@@ -199,7 +240,18 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [U.S. Department of Homeland Security funds four Blockchains](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology)
 * [IBM-Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
 
+#### Decentralized Identity Foundation[**^**](#Contents) 
 
+On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017):
+
+* [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
+
+![](http://imgur.com/PXGV6Xyl.png)
+
+* [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**github**](https://github.com/decentralized-identity)] [[**twitter**](https://twitter.com/DecentralizedID)] [[**blog**](https://medium.com/decentralized-identity)] 
+* the following links highlight *something each member adds* to the DID ecosystem:
+   - Members include: [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY), [uPort](https://github.com/uport-project/ethr-did/blob/develop/docs/index.md), [IBM](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/), [Sovrin](https://github.com/sovrin-foundation/sovrin/blob/master/spec/did-method-spec-template.html), [SecureKey](https://www.ibm.com/blogs/blockchain/2018/05/self-sovereign-identity-our-recent-activity-as-a-sovrin-steward/), [Blockstack](https://github.com/blockstack/blockstack-core/blob/feature/docs-bns/docs/blockstack_naming_service.md#decentralized-identifiers-dids), [Evernym](https://www.evernym.com/wp-content/uploads/2017/07/What-Goes-On-The-Ledger.pdf), [Hyperledger](https://github.com/hyperledger/indy-sdk/blob/master/doc/getting-started/getting-started.md), [Civic](https://www.civic.com/solutions/kyc-services/), [Accenture](https://www.accenture.com/us-en/insight-blockchain-id2020), [Danube](https://github.com/projectdanube/xdi2), [netki](https://bravenewcoin.com/insights/netki-launches-digital-id-solution-which-bitt-is-using-with-central-banks-in-the-caribbean), [RSA](https://www.rsa.com/en-us/research-and-thought-leadership/rsa-labs), [Consent](https://sovrin.org/steward/global-consent/), [IOTA](https://medium.com/@iotasuppoter/iota-the-case-of-decentralized-digital-identity-de7b95042c12), [Mooti](https://www.cio.com/article/3147358/it-industry/ibm-building-blockchain-ecosystem.html), [r3](https://www.gemalto.com/press/pages/gemalto-and-r3-pilot-blockchain-technology-to-put-users-in-control-of-their-digital-id.aspx), [Authenteq](https://venturebeat.com/2018/08/30/authenteq-launches-blockchain-identity-verification-to-stop-online-trolls/), [Blockchain-foundry](https://www.blockchainfoundry.co/blockchain-foundry-inc-announces-new-software-release-for-blockchain-based/), [Validatedid](https://www.validatedid.com/vidchain-the-future-of-digital-identity/), [1kosmos](https://onekosmos.com/product-details/), [gamecredits](https://medium.com/@gamecredits/introducing-blinking-blink-identity-management-on-the-blockchain-9258c7d76a8d)[[*](https://blinking.id)], [auth0](https://auth0.com/), [jolocom](https://stories.jolocom.com/jolocom-brings-blockchain-identity-to-privacy-week-berlin-acdaee665f0), [Enigma](https://blog.enigma.co/off-chain-identity-claims-with-enigma-2d5b23c31f92), [Humanized-internet](https://www.thehumanizedinternet.org/), [Pillar](https://pillarprojectfoundation.org/blog/announcing-the-pillar-project/), [id2020](https://id2020.org/manifesto/), [Nuggets](https://www.mobilepaymentstoday.com/news/identity-and-payments-platform-nuggets-partners-with-iot-company/).
+* [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 
 ### Sources[**^**](#Contents)
 * [/awesome-decentralized-id](/README.md)
