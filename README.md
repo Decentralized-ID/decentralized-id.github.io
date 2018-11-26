@@ -8,7 +8,7 @@ Thanks to those who are working to make our identity experience, and the world, 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
 #### Foreword
-Information is not so easily organized in a linear fashion. This list is a by-product of the effort to enter all of the best blockchain, self-sovereign, and decentralized identity links into a database that will power a [web-app](https://github.com/infominer33/Crypto-library) for search, manual navigation through tags, and pages like this with pre-arranged information. The SuperSource will have comments, submissions, ratings and reactions; so that it can become a co-operative effort among those who get involved.
+Information is not so easily organized in a linear fashion. This list is a by-product of the effort to enter all of the best blockchain, self-sovereign, and decentralized identity links into a database that will power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, and pages like this with pre-arranged information. The SuperSource will have comments, submissions, ratings and reactions; so that it can become a co-operative effort among those who get involved.
 
 In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an awesome list out of them sooner than a live demo of the app that is in progress.
 
