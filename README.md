@@ -7,12 +7,12 @@ Thanks to those who are working to make our identity experience, and the world, 
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
-#### Note
-Information is not so easily organized in a linear fashion. This list is a by-product of the effort to enter all of the best blockchain, self-sovereign, and decentralized identity links into a database, which will power a [web-app](https://github.com/infominer33/Crypto-library) for search, manual navigation through the tags, and pages like this. With comments and reactions, so that it can become a co-operative effort among those who get involved.
+#### Foreword
+Information is not so easily organized in a linear fashion. This list is a by-product of the effort to enter all of the best blockchain, self-sovereign, and decentralized identity links into a database that will power a [web-app](https://github.com/infominer33/Crypto-library) for search, manual navigation through tags, and pages like this with pre-arranged information. The SuperSource will have comments, submissions, ratings and reactions; so that it can become a co-operative effort among those who get involved.
 
 In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an awesome list out of them sooner than a live demo of the app that is in progress.
 
-Furthermore, I am working on [sovrin-indy.md](/sovrin-indy.md) as a place to focus more on the foundations, archetecture, and projects within that ecosystem. This document being more expansive, and that one more focused.
+Furthermore, I am working on [sovrin-indy.md](/sovrin-indy.md) as a place to focus more on the Sovrin\Indy software and ecosystem. This document being more expansive, and that one more focused. At the moment, it containts material specifically related to sovrin, indy, and did adoption that is not found here. I'm open to suggestions on how these documents should be divided.
 
 ### Contents
 
@@ -361,7 +361,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) | [id.ee](https://www.id.ee/)
    * [Estonian Blockchain ID Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
 
-### Assorted Decentralized \ Blockchain ID Related[**^**](#Contents)
+### Blockchain ID Initiatives [**^**](#Contents)
 * [Danube Tech](http://danubetech.com/) — digital identity and personal data, including personal agents, semantic graphs, and blockchain [[**xdi**](https://xdi2.org)] [[**navigator**](https://github.com/projectdanube/xdi2)]
    * Founded by [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**twitter**](https://twitter.com/peacekeeper)] [[**github**](https://github.com/peacekeeper)] [[**blog**](https://medium.com/@markus.sabadello)]
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e) [[**wired**](https://www.wired.com/story/coinbase-distributed-systems-acquisition/)]
@@ -385,12 +385,6 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [I/O Digital Foundation](https://iodigital.io/) | [whitepaper](https://simplebooklet.com/iocoinwhitepaper#page=0)
    * "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
 * [Mooti](https://mooti.co/) - Mooti is reimagining the security and utility of personally identifiable information and authentication based on our self-sovereign identity solutions, asymmetrical encryption, and blockchain technology.
-* [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
-   >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**twitter**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
-   * [Maciek Laskus | BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
-* [Proof of Thought (PoT)](https://bitcointalk.org/index.php?topic=4459113.0)
-* [@SarahJamieLewis Twitter Thread on Identity](https://twitter.com/SarahJamieLewis/status/1041043532654542848)
-   >Any technology which relies on the existence of, or attempts to create a, global, unique identity is oppressive by design. Stop" innovating" oppressive structures.
 
 ### Humanitarian[**^**](#Contents) 
 * [iRespond](https://www.irespond.org/) -international non-profit organization dedicated to solving the identity problem using a unique digital biometric identity solution
@@ -444,7 +438,6 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
 
 ### Reports[**^**](#Contents)
-* [Global Blockchain Identity Management Market 2018-2022](https://www.technavio.com/report/global-blockchain-identity-management-market-analysis-share-2018)
 * [How Blockchain Revolutionizes Identity Management](https://www.accenture-insights.nl/en-us/articles/how-blockchain-will-revolutionize-identity-management)
 * [Digital Identity: the current state of affairs](https://www.bbvaresearch.com/wp-content/uploads/2018/02/Digital-Identity_the-current-state-of-affairs.pdf)
 * [Blockchain: Evolving Decentralized Identity Design](https://www.gartner.com/doc/3834863/blockchain-evolving-decentralized-identity-design)
@@ -453,6 +446,16 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [Accenture: ID2020: DIGITAL IDENTITY with Blockchain and Biometrics](https://www.accenture.com/us-en/insight-blockchain-id2020)
 * [Privacy-Preserving Authentication, Another Reason to Care about Zero-Knowledge Proofs —slideshare](https://www.slideshare.net/eralcnoslen/privacypreserving-authentication-another-reason-to-care-about-zeroknowledge-proofs)
 * [r3- Identity in Depth](https://www.r3.com/wp-content/uploads/2017/06/Identity_indepth_r3.pdf)
+* [Global Blockchain Identity Management Market 2018-2022](https://www.technavio.com/report/global-blockchain-identity-management-market-analysis-share-2018)
+
+
+### Assorted Thought
+* [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
+   >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**twitter**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
+   * [Maciek Laskus | BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
+* [Proof of Thought (PoT)](https://bitcointalk.org/index.php?topic=4459113.0)
+* [@SarahJamieLewis Twitter Thread on Identity](https://twitter.com/SarahJamieLewis/status/1041043532654542848)
+   >Any technology which relies on the existence of, or attempts to create a, global, unique identity is oppressive by design. Stop" innovating" oppressive structures.
 
 
 ### Research-Papers[**^**](#Contents)

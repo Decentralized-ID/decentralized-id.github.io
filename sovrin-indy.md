@@ -10,11 +10,12 @@
   * [Sovrin Stewards](#Sovrin-Stewards)
   * [Selected Articles Windley.com](#Selected-Articles-Windley.com)
 * [Hyperledger Indy](#Hyperledger-Indy)
-  * [Idemix](#IDEMix)
+  * [Additional Indy Related](#Additional-Indy-Related)
+    * [Idemix](#IDEMix)
 * [Video](#Video)
 * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
   * [RWoT Use Cases](#RWoT-Use-Cases) -infographic workflow
-* [Indy \ Sovrin Adoption](#Indy\Sovrin-Adoption)
+* [Evernym\Sovrin\Indy\Adoption](#Evernym\Sovrin\Indy-Adoption)
 * [DID Adoption](#DID-Adoption)
   * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
 * [Sources](#Sources)
@@ -166,15 +167,14 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Indy Documentation Index - wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section on Indy.
 
-
-#### Additional Indy Resources 
+#### Additional Indy Related[**^**](#Contents) 
 * [Plenum Bzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki)
    * "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem."
 * [An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials](https://eprint.iacr.org/2008/539.pdf)
 * [An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation](https://www.iacr.org/archive/eurocrypt2001/20450093.pdf)
 * [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 
-##### IDEMix
+##### IDEMix[**^**](#Contents)
 * [What Zero Knowledge Poof Algorithm is used in Sovrin?](https://forum.sovrin.org/t/what-zero-knowledge-proof-algorithm-is-used-in-sovrin/71/2)
 * [How is IDEMix Implemented in Sovrin\Indy?](https://forum.sovrin.org/t/how-idemex-is-implemented-in-sovrin-indy)
 * [idemix in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.3/idemix.html)
@@ -229,8 +229,6 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 ### DID Adoption [**^**](#Contents)
 
-
-
 * [@ChristopherA on DID adoption](https://twitter.com/ChristopherA/status/989122017348784130)
    > "22/ Over a dozen companies and organizations, using multiple blockchains (Bitcoin, Ethereum, Hyperledger, etc.), have committed to deploying DIDs, including IBM, Microsoft, Digital Bazaar, Consensys, Evernym, Learning Machine, British Columbia, and more:" —[How blockchain could solve the internet privacy problem](https://www.computerworld.com/article/3267930/blockchain/how-blockchain-could-solve-the-internet-privacy-problem.html)
 * [Veres One DID Method 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/did-method-veres-one.md) — a permissionless public ledger designed specifically for the creation and management of decentralized identifiers (DIDs)
@@ -251,9 +249,13 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**github**](https://github.com/decentralized-identity)] [[**twitter**](https://twitter.com/DecentralizedID)] [[**blog**](https://medium.com/decentralized-identity)] 
 * the following links highlight *something each member adds* to the DID ecosystem:
    - Members include: [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY), [uPort](https://github.com/uport-project/ethr-did/blob/develop/docs/index.md), [IBM](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/), [Sovrin](https://github.com/sovrin-foundation/sovrin/blob/master/spec/did-method-spec-template.html), [SecureKey](https://www.ibm.com/blogs/blockchain/2018/05/self-sovereign-identity-our-recent-activity-as-a-sovrin-steward/), [Blockstack](https://github.com/blockstack/blockstack-core/blob/feature/docs-bns/docs/blockstack_naming_service.md#decentralized-identifiers-dids), [Evernym](https://www.evernym.com/wp-content/uploads/2017/07/What-Goes-On-The-Ledger.pdf), [Hyperledger](https://github.com/hyperledger/indy-sdk/blob/master/doc/getting-started/getting-started.md), [Civic](https://www.civic.com/solutions/kyc-services/), [Accenture](https://www.accenture.com/us-en/insight-blockchain-id2020), [Danube](https://github.com/projectdanube/xdi2), [netki](https://bravenewcoin.com/insights/netki-launches-digital-id-solution-which-bitt-is-using-with-central-banks-in-the-caribbean), [RSA](https://www.rsa.com/en-us/research-and-thought-leadership/rsa-labs), [Consent](https://sovrin.org/steward/global-consent/), [IOTA](https://medium.com/@iotasuppoter/iota-the-case-of-decentralized-digital-identity-de7b95042c12), [Mooti](https://www.cio.com/article/3147358/it-industry/ibm-building-blockchain-ecosystem.html), [r3](https://www.gemalto.com/press/pages/gemalto-and-r3-pilot-blockchain-technology-to-put-users-in-control-of-their-digital-id.aspx), [Authenteq](https://venturebeat.com/2018/08/30/authenteq-launches-blockchain-identity-verification-to-stop-online-trolls/), [Blockchain-foundry](https://www.blockchainfoundry.co/blockchain-foundry-inc-announces-new-software-release-for-blockchain-based/), [Validatedid](https://www.validatedid.com/vidchain-the-future-of-digital-identity/), [1kosmos](https://onekosmos.com/product-details/), [gamecredits](https://medium.com/@gamecredits/introducing-blinking-blink-identity-management-on-the-blockchain-9258c7d76a8d)[[*](https://blinking.id)], [auth0](https://auth0.com/), [jolocom](https://stories.jolocom.com/jolocom-brings-blockchain-identity-to-privacy-week-berlin-acdaee665f0), [Enigma](https://blog.enigma.co/off-chain-identity-claims-with-enigma-2d5b23c31f92), [Humanized-internet](https://www.thehumanizedinternet.org/), [Pillar](https://pillarprojectfoundation.org/blog/announcing-the-pillar-project/), [id2020](https://id2020.org/manifesto/), [Nuggets](https://www.mobilepaymentstoday.com/news/identity-and-payments-platform-nuggets-partners-with-iot-company/).
+
+Tierion, British Colombia Ministry of Citizens Services, Gem, aetna, Equinex, KYC-Chain, BlockPass, Ockam, NuID, MetaX, GS1, DIID, nuggets, trusted key, zinc, ONTology, Mastercard, LNk-E, ID2020, VeridiumID, Mecco, Dominode, Enigma, datum, onfido, identos, diwala, <sitekit>, suru, botlabs, enterprise ethereum alliance, remme.
+
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 
 ### Sources[**^**](#Contents)
+* [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
 * [/awesome-decentralized-id](/README.md)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
