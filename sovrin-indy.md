@@ -1,6 +1,6 @@
 # The Sovrin\Indy\DID Architecture and Ecosystem -DRAFT
 
-// Will gather here all resources that specifically relate to Sovrin, and Indy. Gradually this file will grow with Sovrin related material. While '[awesome-decentralized-id](/readme.md)' will be gradually thinned out, or actually it seems like that one should be more expansive, and this one more specific.. Whatever the case may be, just working out which proportions of what should be where.
+// Will gather here all resources that specifically relate to Sovrin, and Indy. Gradually this file will grow with Sovrin related material. While '[awesome-decentralized-id](/README.md)' will be gradually thinned out, or actually it seems like that one should be more expansive, and this one more specific.. Whatever the case may be, just working out which proportions of what should be where.
 
 
 ### Contents
@@ -93,7 +93,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) edx course may be freely audited and has a section on Indy.
 * [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 
-### ZKP 
+### IDEMix
 * [What Zero Knowledge Poof Algorithm is used in Sovrin?](https://forum.sovrin.org/t/what-zero-knowledge-proof-algorithm-is-used-in-sovrin/71/2)*
 * [How is IDEMix Implemented in Sovrin\Indy?](https://forum.sovrin.org/t/how-idemex-is-implemented-in-sovrin-indy)
 * [idemix in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.3/idemix.html)
