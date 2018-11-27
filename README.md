@@ -456,7 +456,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [Global Blockchain Identity Management Market 2018-2022](https://www.technavio.com/report/global-blockchain-identity-management-market-analysis-share-2018)
 
 
-### Assorted Thought
+### Assorted Thoughts
 * [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
    >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**twitter**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
    * [Maciek Laskus | BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
@@ -464,7 +464,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [Proof of Thought (PoT)](https://bitcointalk.org/index.php?topic=4459113.0)
 * [Queer Privacy](https://leanpub.com/queerprivacy)
    >Stories about using the Internet as a tool to find out more about yourself, and as a tool to express and empower; about the dangers of Internet censorship and about the practical realities of maintaining multiple distinct digital identities. 
-* [@SarahJamieLewis Twitter Thread on Identity](https://twitter.com/SarahJamieLewis/status/1041043532654542848)
+* [@SarahJamieLewis Twitter Rant on Identity](https://twitter.com/SarahJamieLewis/status/1041043532654542848)
    >Any technology which relies on the existence of, or attempts to create a, global, unique identity is oppressive by design. Stop" innovating" oppressive structures.
 
 
@@ -500,7 +500,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
  
-![](http://imgur.com/xMd9r0rl.png)       ![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
+![](http://imgur.com/xMd9r0rl.png) ![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
 
 DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
 
