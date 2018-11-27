@@ -2,7 +2,9 @@
 **Protocol, Governance, and the Surrounding Ecosystem** 
 
 Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
-However, there this file contains additional material that isn't found over there.
+However, this file contains additional material that isn't found over there.
+
+Pull Requests Welcome.
 
 ### Contents
 * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
