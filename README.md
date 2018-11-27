@@ -31,7 +31,7 @@ Furthermore, I'm now working on [/awesome-sovrin](https://github.com/infominer33
      * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier) 
    * [Evernym](#Evernym)
    * [The Sovrin Foundation](#The-Sovrin-Foundation)
-     * [Windley.com](#Windley)
+     * [Windley.com](#Selected-articles-from-Windley.com)
      * [Tykn Tech](#Tykn-Tech)
    * [Hyperledger Indy](#Hyperledger-Indy)
      * [Idemix](#IDEMix)
@@ -250,6 +250,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Building Your Business on Sovrin: Domain-Specific Trust Frameworks](http://www.windley.com/archives/2018/03/building_your_business_on_sovrin_domain-specific_trust_frameworks.shtml)
 * [The Sovrin Foundation](http://www.windley.com/archives/2018/07/the_sovrin_foundation.shtml)
 * [Decentralization in Sovrin](http://www.windley.com/archives/2018/10/decentralization_in_sovrin.shtml)
+* [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml)
 
 
 #### Tykn Tech[**^**](#Contents)
