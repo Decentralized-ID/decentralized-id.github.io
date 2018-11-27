@@ -497,10 +497,10 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ### Brought to you by: [The Crypto Library—Super Source](https://github.com/infominer33/Crypto-library)
 
-#### BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
+BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
  
 ![](http://imgur.com/xMd9r0rl.png)       ![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
 
-#### DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
+DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
 
 ![](https://i.imgur.com/0zBLoUP.png)
