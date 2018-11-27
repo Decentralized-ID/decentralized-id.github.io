@@ -64,6 +64,13 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 ### DID the Decentralized Identifier[**^**](#Contents) 
 
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
+  * Authors:
+     * Drummond Reed (Evernym)
+     * Manu Sporny (Digital Bazaar)
+     * Dave Longley (Digital Bazaar)
+     * Christopher Allen (Blockstream)
+     * Ryan Grant
+     * Markus Sabadello (Danube Tech)
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) -[Extended](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)
 * [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
    * [DID auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
