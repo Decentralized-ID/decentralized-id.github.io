@@ -282,3 +282,13 @@ Tierion, British Colombia Ministry of Citizens Services, Gem, aetna, Equinex, KY
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [/blockchain-id.toml](/blockchain-id.toml)
+
+### Brought to you by: [The Crypto Library—Super Source](https://github.com/infominer33/Crypto-library)
+
+#### BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
+ 
+![](http://imgur.com/xMd9r0rl.png)       ![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
+
+#### DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
+
+![](https://i.imgur.com/0zBLoUP.png)
