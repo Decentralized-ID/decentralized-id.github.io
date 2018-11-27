@@ -193,6 +193,13 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 #### DID the Decentralized Identifier[**^**](#Contents) 
 
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
+  * Authors:
+     * Drummond Reed (Evernym)
+     * Manu Sporny (Digital Bazaar)
+     * Dave Longley (Digital Bazaar)
+     * Christopher Allen (Blockstream)
+     * Ryan Grant
+     * Markus Sabadello (Danube Tech)
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) -[Extended](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)
 * [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
    * [DID auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
@@ -206,6 +213,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Blockstack DID Spec](https://github.com/blockstack/blockstack-core/blob/master/docs/blockstack-did-spec.md)[**[*](https://forum.blockstack.org/t/did-method-at-identity-foundation/4287/9)**]
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
 * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
+
 
 
 ### Evernym[**^**](#Contents)
