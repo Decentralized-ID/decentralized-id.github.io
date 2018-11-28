@@ -1,0 +1,189 @@
+["Remme Auth"]
+Link = ["https://remme.io/","https://github.com/Remmeauth"]
+Description = "Using a Hyperledger Sawtooth foundation, Remme implements a DPKI. Its blockchain playing the role of CA and supporting X.509 certificates either signed by the user, or an organization."
+Tags = ["blockchain-id","dpki","sawtooth","X-509"]
+
+["Juru"]
+Link = ["https://juru.io/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["http://signd.id/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://www.shyft.network/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["http://myearth.id/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://cultu.re/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://www.iov42.com/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://hu-manity.co/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://www.zulurepublic.io/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://blocknify.com/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://handshake.org/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://urbit.org/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://vetri.global/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://everid.net/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://www.agrello.io/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["http://gatacaid.com/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://www.clear.me/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://poa.network/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://essentia.one/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://www.digidentity.eu/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://lifeid.io/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["http://www.usechain.net/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["http://ydentity.org/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://www.digi-id.io/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://0xcert.org/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://github.com/MakoLab/graphchain"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://aid.technology/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://cryptoslate.com/t-mobile-next-identity-platform/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://dock.io/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://herdius.com/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["http://ixo.foundation/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://www.hubtoken.org/"]
+Description = ""
+Tags = ["",""]
+
+["Holonet"]
+Link = [""]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["http://finid.me/"]
+Description = ""
+Tags = ["",""]
+
+["Crayonic"]
+Link = [""]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://www.blockpass.org/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://www.ledgerstate.io/"]
+Description = ""
+Tags = ["",""]
+
+[""]
+Link = ["https://keeex.me/"]
+Description = ""
+Tags = ["",""]
