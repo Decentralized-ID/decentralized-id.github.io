@@ -483,6 +483,12 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
 * [Self-Sovereign Identity with Hyperledger Indy\Sovrin- Calvin Cheng - FOSSASIA 2018](https://www.youtube.com/watch?v=hfyIZu3_fw8)
 
+### Podcasts
+
+* [State of Identity](https://oneworldidentity.com/podcasts/)
+* [Analytics Neat—Episode 37: What is a Decentralized Identity (DID)?](https://player.fm/series/analytics-neat/episode-37-what-is-a-decentralized-identity-did)
+* [State Change #41 Unpacking Digital Identity](https://media.consensys.net/state-change-41-unpacking-digital-identity-christian-lundkvist-stephen-wilson-4fb5a75eb6ed)
+
 ### Sources[**^**](#Contents)
 * [IIW-Wiki](http://iiw.idcommons.net/Main_Page)
 * [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
