@@ -270,6 +270,9 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 So now we have the DID, which is gaining adoption. However, that is only one, albeit important, aspect of a decentralized identity. In order for them to be interoperable across different networks will require some agreement on standards for other related protocols. As evidenced by the information here, a lot of effort is being made towards this goal.
 
+### Research Papers
+* [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin)
+
 ### Reports[**^**](#Contents)
 * [How Blockchain Revolutionizes Identity Management](https://www.accenture-insights.nl/en-us/articles/how-blockchain-will-revolutionize-identity-management)
 * [Blockchain: Evolving Decentralized Identity Design](https://www.gartner.com/doc/3834863/blockchain-evolving-decentralized-identity-design)
