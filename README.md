@@ -337,6 +337,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)
 * [Federal Funding for Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html)
+* 
 
 #### Canada[**^**](#Contents)
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
@@ -475,6 +476,8 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [TOWARDS SELF-SOVEREIGN IDENTITY USING BLOCKCHAIN TECHNOLOGY](http://essay.utwente.nl/71274/)
 * [Self-sovereign Identity –	Opportunities and Challenges for the Digital Revolution](https://arxiv.org/pdf/1712.01767.pdf)
 * [The Knowledge Complexity Of Interactive Proofs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&)
+* [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin)
+
 
 
 ### Video[**^**](#Contents)
