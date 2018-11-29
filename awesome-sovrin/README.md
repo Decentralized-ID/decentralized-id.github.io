@@ -179,7 +179,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy) - ANN
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
 * [Indy Documentation Index - wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
-* The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section on Indy.
+* The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section about Indy.
 
 #### Additional Indy Related[**^**](#Contents) 
 * [Plenum Bzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki)
@@ -198,6 +198,9 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ### Video[**^**](#Contents)
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
 * [Self-Sovereign Identity with Hyperledger Indy\Sovrin- Calvin Cheng - FOSSASIA 2018](https://www.youtube.com/watch?v=hfyIZu3_fw8)
+* [Hyperledger Indy introduction with Indy Agents Demo](https://www.youtube.com/watch?v=llwfb5Ut5sg)
+* [Hyperledger Indy Demo Screencast](https://www.youtube.com/watch?v=9WZxlrGMA3s&t=93s)
+* [Architectural Overview of Indy Wallets](https://www.youtube.com/watch?v=Km4IoUdb3Lc)
 
 
 ### Selected 'Rebooting Web of Trust' Whitepapers[**^**](#Contents) 
