@@ -272,6 +272,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 ![](https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png)
 
 * [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**twitter**](https://twitter.com/Hyperledger)] [[**wiki**](https://wiki.hyperledger.org/projects/indy/documentation)] [[**github**](https://github.com/hyperledger/indy-sdk)]
+* [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy) - ANN
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
 * [Plenum Bzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki)
@@ -343,7 +344,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)
 * [Federal Funding for Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html)
-* 
+* [EU BLOCKCHAIN OBSERVATORY AND FORUM—Workshop Report e-Identity](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
 
 #### Canada[**^**](#Contents)
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
@@ -488,17 +489,18 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 
 ### Video[**^**](#Contents)
+* [SSI Meetup Youtube Channel](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)
 * [The Story of Open SSI Standards - Drummond Reed](https://www.youtube.com/watch?v=RllH91rcFdE&feature=youtu.be&t=4m30s)
 * [Is Blockchain the Future of Digital Identity?](https://youtu.be/Aub5dNpj2_k) -CB Insights
 * [Identity and Blockchain Technology](https://www.youtube.com/watch?v=Aub5dNpj2_k)
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
-* [Self-Sovereign Identity with Hyperledger Indy\Sovrin- Calvin Cheng - FOSSASIA 2018](https://www.youtube.com/watch?v=hfyIZu3_fw8)
 
-### Podcasts
 
+### Podcasts[**^**](#Contents)
 * [State of Identity](https://oneworldidentity.com/podcasts/)
 * [Analytics Neat—Episode 37: What is a Decentralized Identity (DID)?](https://player.fm/series/analytics-neat/episode-37-what-is-a-decentralized-identity-did)
 * [State Change #41 Unpacking Digital Identity](https://media.consensys.net/state-change-41-unpacking-digital-identity-christian-lundkvist-stephen-wilson-4fb5a75eb6ed)
+* [MyData Podcast](https://mydata.org/podcast/)
 
 ### Sources[**^**](#Contents)
 * [IIW-Wiki](http://iiw.idcommons.net/Main_Page)
