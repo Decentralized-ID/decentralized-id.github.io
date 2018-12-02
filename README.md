@@ -68,13 +68,14 @@ In 2005, [Kaliya Young](https://identitywoman.net/)[[**twitter**](https://twitte
 
 Since then, the IIW has met bi-anually, actively supporting the development of the identity software-ecosystem, including [OpenID](http://wiki.openid.net)('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1)('06), [OAuth](https://en.wikipedia.org/wiki/OAuth)('10), [FIDO](https://fidoalliance.org/)('13) and OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect)('14). The heart of the internet identity community has been with empowering users and self-sovereign principles, since the early days.
 
-* [*What is Sovereign Source Authority?*](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) shows an early use of 'sovereign' in relation to our internet identities. The term "Self Sovereign Identity" started becoming widely used in 2014.[[**1**](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)][[**2**](https://hubculture.com/hubs/47/news/689/)] 
-* [Not Just Who They Say We Are: Claiming our identity on the Internet](https://vimeo.com/207961532)- short film on the “Identerati” at IIW[[**4**](https://www.prweb.com/releases/identitymovie/iiw2017/prweb14161721.htm)]
+* [Not Just Who They Say We Are: Claiming our identity on the Internet](https://vimeo.com/207961532)- short film on the “Identerati” of the IIW[[**4**](https://www.prweb.com/releases/identitymovie/iiw2017/prweb14161721.htm)]
    * Identirati is a term for those working in the identity ecosystem dating back to at least 2006:
       >[identirati](https://www.zdnet.com/article/the-identity-silo-paradox/)[[**5**](https://www.forgerock.com/blog/who-are-the-identerati)] "have been working on standards and methods that are based on the premise of opening up those [id data] silos"
 * **More information** on iid standards history: **[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** | **[identitywoman.net](https://identitywoman.net/)** | **[windley.com-#identity](http://www.windley.com/tags/identity.shtml)** | **[WoTinfo](https://github.com/WebOfTrustInfo/)**
 
 8/14 The [Credentials Community Group](https://www.w3.org/community/credentials/)[[**6**](https://w3c-ccg.github.io/)] forms, hosted by [World Wide Web Consortium(W3C)](https://www.w3.org/)[[**twitter**](https://twitter.com/w3c)][[**github**](https://github.com/w3c)] : "to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." —proposed by [Manu Sporney](http://manu.sporny.org/)[[**twitter**](https://twitter.com/manusporny)][[**7**](https://digitalbazaar.com/)]
+
+ [*What is Sovereign Source Authority?*](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) shows an early use of 'sovereign' in relation to our internet identities. The term "Self Sovereign Identity" started becoming widely used in 2014.[[**1**](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)][[**2**](https://hubculture.com/hubs/47/news/689/)] 
 
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Sustainable_Development_Goals_chart.svg/787px-Sustainable_Development_Goals_chart.svg.png)
@@ -95,17 +96,21 @@ Since then, the IIW has met bi-anually, actively supporting the development of t
 In relation to SSI, '[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims. *Each party attesting to your identity information becomes a strand in your web of trust.*
 
 The first [Rebooting Web of Trust](http://www.WebOfTrust.info)(RWoT)  workshop was held during [November 2015](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust); attracting the likes of Vitalik Buterin, Peter Todd, Gregory Maxwell, Joel Dietz, Christopher Allen, and Jon Callas, [according to Andreas Antonopolis](https://news.bitcoin.com/andreas-antonopoulos-case-reputation-identity-systems/). 
-[The initial workshop](https://github.com/WebOfTrustInfo/), produced 5 technical white papers: \
-[[5 WoT-usecases](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)][[Decentralized PKI](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)][[Smart Signatures](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf)][[Creating a New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf)][[Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf)]:
 
->The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP [...] the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it.
+[That workshop](https://github.com/WebOfTrustInfo/), produced 5 technical white papers: 
+* [5 WoT-usecases](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
+* [Decentralized PKI](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
+* [Smart Signatures](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf)
+* [Creating a New World of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/whats-the-next-step.pdf)
+* [Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf):
+  >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP [...] the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it.
 
 ### ID2020 and the GDPR[**^**](#Contents)
 
 ![](http://imgur.com/ymviAssl.png)
 
-* [Christopher Allen](http://www.lifewithalacrity.com/)[[**twitter**](https://twitter.com/ChristopherA)][[**github**](https://github.com/ChristopherA)] details the overarching history of internet idenitity standards in his seminal work: 
-   - **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[**3**](https://www.coindesk.com/path-self-sovereign-identity/amp/)].
+[Christopher Allen](http://www.lifewithalacrity.com/)[[**twitter**](https://twitter.com/ChristopherA)][[**github**](https://github.com/ChristopherA)] details the overarching history of internet idenitity standards in his seminal work **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[**3**](https://www.coindesk.com/path-self-sovereign-identity/amp/)]:
+  > I am part of the team putting together the first ID2020 Summit on Digital Identity at the United Nations
 
 [4/16](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en) the EU adopted the GDPR, enacted as law May 2018. The second RWoT workshop ran in conjunction with the UN's [ID2020](https://id2020.org/) Summit in New York that [May](https://press.pwc.com/News-releases/id2020-to-kick-start-digital-identity-summit-at-un-with-pwc-support./s/9fe11be5-cbd8-486b-b4d2-d798f486d0f2). There are an estimated 1.5 billion without a legal identity.[[**9**](https://id2020.org/news/2016/12/2/identity-20)] Without a legal identity it is very difficult to recieve any services, aide, or to advance ones station in life. 
 
