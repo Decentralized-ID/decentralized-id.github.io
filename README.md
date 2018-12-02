@@ -38,6 +38,7 @@ Furthermore, I'm now working on [/awesome-sovrin](https://github.com/infominer33
    * [IBM](#IBM)
    * [Ethereum—Protocol](#Ethereum)
      * [Ethereum Apps](#Ethereum-Identity-Applications)
+   * [Veres One](#Veres-One)
    * [State Led Identity Initiatives](#State-Led-Initiatives)
      * [Canada](#Canada)
      * [Netherlands](#Netherlands)
@@ -338,6 +339,10 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
    * developing "[Sovereign](http://sovereign.software/)", a blockchain direct democracy tool using "vote" tokens to grant democratic participation rights to every human. A proof-of-individuality (POI) process based on peer-to-peer validation establishes that a self-sovereign identity is uniquely tied to a single person. The project introduces a number of interesting socio-technical concepts such as "Social Smart Contract", "Initial Rights Offering", and "Cryptographically Induced Equality". Cooperation is happening with other decentralized identity initiatives such as Blockstack and uPort.
 * [Ockam](https://www.ockam.io/) — creating a ERC20 based platform that registers IOT devices to a blockchain to solve systemic security and interoperability problems.
 * [Cambridge Blockchain](http://cambridge-blockchain.com/) [[**github**](https://github.com/cambridge-blockchain)][[**research**](https://files.ifi.uzh.ch/CSG/staff/Rafati/ID%20Management%20using%20BC-Atif-VA.pdf)]— Blockchain for validating secure digital identity documents, processing electronic signatures, and recording transactions."
+
+### Veres One[**^**](#Contents)
+
+* [Veres One](https://veres.one) is a blockchain build for identity, supporting DIDs, analogous to Sovrin.
 
 ### State Led Initiatives[**^**](#Contents)
 
