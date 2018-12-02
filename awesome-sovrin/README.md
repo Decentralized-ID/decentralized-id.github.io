@@ -2,7 +2,7 @@
 **Protocol, Governance, and the Surrounding Ecosystem** 
 
 Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
-However, there is additional material here that's not found there.
+However, there is one contains attitional material regarding the Sovrin ecosystem, and Hyperledger Indy.
 
 Work in Progress—Pull Requests Welcome.
 
