@@ -73,7 +73,7 @@ Since then, the IIW has met bi-anually, actively supporting the development of t
       >[identirati](https://www.zdnet.com/article/the-identity-silo-paradox/)[[**5**](https://www.forgerock.com/blog/who-are-the-identerati)] "have been working on standards and methods that are based on the premise of opening up those [id data] silos"
 * **More information** on iid standards history: **[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** | **[identitywoman.net](https://identitywoman.net/)** | **[windley.com-#identity](http://www.windley.com/tags/identity.shtml)** | **[WoTinfo](https://github.com/WebOfTrustInfo/)**
 
-8/14 The [Credentials Community Group](https://www.w3.org/community/credentials/)[[**6**](https://w3c-ccg.github.io/)] forms, hosted by [World Wide Web Consortium(W3C)](https://www.w3.org/)[[**twitter**](https://twitter.com/w3c)][[**github**](https://github.com/w3c)] : "to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." —proposed by [Manu Sporney](http://manu.sporny.org/)[[**twitter**](https://twitter.com/manusporny)][[**7**](https://digitalbazaar.com/)]
+[8/14](https://www.w3.org/community/credentials/charter-20140808/) The [Credentials Community Group](https://www.w3.org/community/credentials/)[[**6**](https://w3c-ccg.github.io/)] forms, hosted by [World Wide Web Consortium(W3C)](https://www.w3.org/)[[**twitter**](https://twitter.com/w3c)][[**github**](https://github.com/w3c)] : "to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." —proposed by [Manu Sporney](http://manu.sporny.org/)[[**twitter**](https://twitter.com/manusporny)][[**7**](https://digitalbazaar.com/)]
 
  [*What is Sovereign Source Authority?*](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) shows an early use of 'sovereign' in relation to our internet identities. The term "Self Sovereign Identity" started becoming widely used in 2014.[[**1**](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)][[**2**](https://hubculture.com/hubs/47/news/689/)] 
 
@@ -84,8 +84,15 @@ Since then, the IIW has met bi-anually, actively supporting the development of t
 
 9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*blockchain emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[**8**](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/)] The same month, the UN unveiled it's *Agenda for Sustainable Development*.
 
-* [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld).
-> **Goal 16.9 By 2030, provide legal identity for all, including birth registration.**
+
+>* Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
+>* Substantially reduce corruption and bribery in all their forms
+Develop effective, accountable and transparent institutions at all levels
+>* **By 2030, provide legal identity for all, including birth registration**
+>* Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements
+—Excerpt: [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld) (*emphasis mine*)
+
+
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
 * [AID:Tech](https://aid.technology)[[**twitter**]](https://twitter.com/aidtechnology) — "is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner."
 
@@ -105,6 +112,9 @@ The first [Rebooting Web of Trust](http://www.WebOfTrust.info)(RWoT)  workshop w
 * [Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf):
   >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP [...] the vibrant blockchain community is also drawing new attention to the concept we aim to reboot it.
 
+
+At the end of 2015, the Department of Homeland Security announced that it had funds available for the development of [Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html).
+
 ### ID2020 and the GDPR[**^**](#Contents)
 
 ![](http://imgur.com/ymviAssl.png)
@@ -114,12 +124,15 @@ The first [Rebooting Web of Trust](http://www.WebOfTrust.info)(RWoT)  workshop w
 
 [4/16](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en) the EU adopted the GDPR, enacted as law May 2018. The second RWoT workshop ran in conjunction with the UN's [ID2020](https://id2020.org/) Summit in New York that [May](https://press.pwc.com/News-releases/id2020-to-kick-start-digital-identity-summit-at-un-with-pwc-support./s/9fe11be5-cbd8-486b-b4d2-d798f486d0f2). There are an estimated 1.5 billion without a legal identity.[[**9**](https://id2020.org/news/2016/12/2/identity-20)] Without a legal identity it is very difficult to recieve any services, aide, or to advance ones station in life. 
 
-Evident from the whitepapers produced at the RWoT\ID2020 Workshop[[**10**](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/README.md)] the DID identifier began to emerge:
+Evident from the whitepapers produced by the RWoT\ID2020 Workshop[[**10**](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/README.md)] the DID identifier began to emerge:
 
 [[Clearer Identity Through Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)][[Physician Patient Relationship](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/physician-patient-relationship.pdf)][[Protecting Digital ID in Developing Countries](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)][[Smarter Signatures](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/smarter-signatures.pdf)]
    >"Respect Network is conducting a research project for the [U.S. Department of Homeland Security](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology), HSHQDC-16-C-00061, to analyze the applicability of blockchain technologies to a decentralized identifier system. Our thesis is that blockchains, or more generically distributed ledgers, are a potentially powerful new tool for “identity roots” — the starting points for an Internet identity. However “blockchain identity” may not fully address the core security and privacy principles needed in a complete identity system. In this case DIDs — Decentralized Identifiers rooted on a distributed ledger — may end up being a foundational building block for higher level identity management solutions. -[Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
 
 * At this point in time DLT innovation, the United Nations Sustainable Development Goals, and the EU GDPR all came together supporting a core identirati tenant: Eliminating id data silos and empowering users regarding personal digital identity. 
+
+
+
 
 ### Decentralized Identity Foundation[**^**](#Contents) 
 
@@ -347,7 +360,6 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 ### State Led Initiatives[**^**](#Contents)
 
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)
-* [Federal Funding for Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html)
 * [EU BLOCKCHAIN OBSERVATORY AND FORUM—Workshop Report e-Identity](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
 
 #### Canada[**^**](#Contents)
