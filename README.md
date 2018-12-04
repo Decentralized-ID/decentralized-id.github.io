@@ -543,7 +543,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
-![](http://imgur.com/xMd9r0rl.png) 
+![](http://imgur.com/yXLLm9Bl.png) 
 
 DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
 
