@@ -1,4 +1,4 @@
-I'm not going to make contributing guidelines and qualifications until there is more participation. Until then\
+I'm not going to make contributing guidelines and qualifications until there is more participation. Until then:
 
 <b><u>Pull Requests are Welcome</u></b>
 
