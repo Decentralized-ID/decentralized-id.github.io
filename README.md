@@ -85,11 +85,14 @@ In [April of 2014](https://edps.europa.eu/data-protection/data-protection/legisl
  [*What is Sovereign Source Authority?*](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) shows an early use of 'sovereign' in relation to our internet identities. The term "Self Sovereign Identity" started becoming widely used in 2014.[[**1**](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)][[**2**](https://hubculture.com/hubs/47/news/689/)] 
 
 
-![](https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Sustainable_Development_Goals_chart.svg/787px-Sustainable_Development_Goals_chart.svg.png)
+<img src="https://sustainabledevelopment.un.org/content/images/image18_3741.jpg"/>
+
 
 ### Bitnation and the United Nations[**^**](#Contents) 
 
-9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*blockchain emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[**8**](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/)] The same month, the UN unveiled it's *Agenda for Sustainable Development*.
+9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*blockchain emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[**8**](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/)] 
+
+The same month, the UN unveiled it's *Agenda for Sustainable Development*.
 
 
 >* Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
@@ -407,7 +410,7 @@ Evident from [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorksho
 * [Cicada](https://github.com/the-laughing-monkey/cicada-platform)
    * a Dapp platform built for a "direct democracy." envisions using iris scans to generate decentralized universal identifiers ("HUIDs") for every human on the planet, a method referred to as "biocryptics". "HUIDs" can have "sub-IDs" to support selective disclosure. PII can be stored in an "info wallet". Key parts of the system also include smart contracts, zero-knowledge proofs, mixnets, and more."
 * [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
-* [I/O Digital Foundation](https://iodigital.io/) | [whitepaper](https://simplebooklet.com/iocoinwhitepaper#page=0)
+* [I/O Digital Foundation](https://iodigital.io/) [**[whitepaper](https://simplebooklet.com/iocoinwhitepaper#page=0)**]
    * "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
 
 ### Humanitarian[**^**](#Contents) 
@@ -524,6 +527,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [MyData Podcast](https://mydata.org/podcast/)
 
 ### Sources[**^**](#Contents)
+* [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin)
 * [IIW-Wiki](http://iiw.idcommons.net/Main_Page)
 * [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
