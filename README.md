@@ -1,6 +1,6 @@
 # Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 **DID, Blockchain and Self-Sovereign Identity Resources**
-[<img src="https://i.imgur.com/oUTGZdd.png" align="right">](https://github.com/infominer33/Crypto-library.net)
+[<img src="http://imgur.com/0rvKAhll.png" align="right">](https://github.com/infominer33/Crypto-library.net)
 
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
