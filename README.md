@@ -1,12 +1,10 @@
 # Awesome Decentralized Identity
 **DID, Blockchain and Self-Sovereign Identity Resources**
 
->Thanks to those who are working to make our identity experience, and the world, a better place.
+>Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [-Jerry Cuomo](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/) IBM
 
-//Pull Requests Welcome
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
-
 
 ### Contents
 
@@ -58,9 +56,10 @@ In the mean-time, after gathering all of the links I had already into [one colle
 
 I'm also working on [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin/README.md) as a place to focus more on the Sovrin\Indy protocol and ecosystem. Ideally, I hope for these 'Awesome' lists to compliment each-other along with [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/). It will take a bit of thinking, and perhaps some collaboration to decide the best way to do that.
 
-![](https://i.imgur.com/tjbOZAM.png)
+//Pull Requests Welcome
 
->Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [-Jerry Cuomo](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/) IBM
+
+>Thanks to those who are working to make our identity experience, and the world, a better place.
 
 ## History[**^**](#Contents)
 
