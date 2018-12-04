@@ -1,14 +1,6 @@
-Seeking:
+I'm not going to make contributing guidelines until there is more participation.
 
-* ideas about organizing the "Assorted" section
-* any historical stuff.
-* also, more recent stuff that I don't know about\haven't listed yet
-* All of the Links! 
+The decentralized-id [README](https://github.com/infominer33/awesome-decentralized-id/) is getting close to polished as far as I'm concerned, while there is still plenty of work to do on the Sovrin-Indy [README](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-sovrin/).
 
-Come on, I know you have some bookmarks folder full of awesome sauce! **Don't** hold out on me! I would be happy to sort through them if you don't want to do all that... i do :D
-
-* To connect with other crypto research enthusiasts, and freelancers. 
-* IDK You tell ME what kind of contributions I'm looking for :D
-
-Always interested to connect with others who spend more time studying the tech than the price of assets (although I'll be doing some of that too). Creating these collections is very useful for me as a writer, since I never know how deeply someone will want me to write on a subject. I've thought from the beginning that other freelance writers would find value in the [Crypto-library](https://github.com/infominer33/Crypto-library).
+Always interested to connect with other crypto-nerds, writers, and mostly I just hang out with developers. These lists serve as a great tool for writing and I've thought from the beginning that other freelance writers would find value in the [Crypto-library](https://github.com/infominer33/Crypto-library).
 
