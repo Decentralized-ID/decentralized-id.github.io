@@ -130,7 +130,7 @@ At the end of 2015, the Department of Homeland Security announced that it had fu
 >1.1 Billion people live without an officially recognized identity — This lack of recognized identification deprives them of protection, access to services, and basic rights. ID2020 is a public-private partnership dedicated to solving the challenges of identity for these people through technology. - id2020.org
 
 
-Evident from [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/README.md) submitted to the RWoT\ID2020 Workshop the DID identifier began to emerge:
+Evident from [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/README.md) submitted to the RWoT\ID2020 Workshop, the DID identifier had begun to emerge:
 * [Decentralized Identifiers (DIDs) and Decentralized Identity Management (DIDM)](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/DID-Whitepaper.md)
    >"Decentralized Identifiers (DID) stored in a permissioned blockchain enable principals to directly control their own identities with cryptographic proofs and secure, addressable network endpoints. DIDs further enable a Decentralized Identity Management (DIDM) infrastructure that will empower people and organizations to securely and confidentially manage and assert their identities."
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
