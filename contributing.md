@@ -1,4 +1,4 @@
-I'm not going to make contributing guidelines until there is more participation.
+I'm not going to make contributing guidelines and qualifications until there is more participation. Until then, "<u>Pull Requests are Welcome</u>"
 
 The decentralized-id [README](https://github.com/infominer33/awesome-decentralized-id/) is getting close to polished as far as I'm concerned, while there is still plenty of work to do on the Sovrin-Indy [README](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-sovrin/).
 
