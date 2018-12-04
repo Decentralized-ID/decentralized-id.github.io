@@ -52,7 +52,7 @@
 
    
 
-#### A Note from the Editor[**^**](#Contents)
+### A Note from the Editor[**^**](#Contents)
 
 >Thanks to those who are working to make our identity experience, and the world, a better place.
 
