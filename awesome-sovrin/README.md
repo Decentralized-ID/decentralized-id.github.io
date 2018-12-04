@@ -99,7 +99,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
 *   [[**Forum**](https://forum.sovrin.org/)] [[**Slack**](https://sovrin-slack-signup.herokuapp.com/)][[**Twitter**](https://twitter.com/SovrinID)][[**Github**](https://github.com/sovrin-foundation/sovrin)]
-* Founded in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
+* [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
  Foundation is creating a public instance of the Sovrin\Indy codebase; initially developed by [Evernym](#Evernym)
 * [Sovrin Library](https://sovrin.org/library/)
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
