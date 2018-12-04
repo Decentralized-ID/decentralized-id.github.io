@@ -1,21 +1,16 @@
 # Awesome Decentralized Identity
 **DID, Blockchain and Self-Sovereign Identity Resources**
 
-Thanks to those who are working to make our identity experience, and the world, a better place.
+>Thanks to those who are working to make our identity experience, and the world, a better place.
 
-[Collaboration Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)
+//Pull Requests Welcome
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg)
 
-#### Foreword
-Information is not so easily organized in a linear fashion. This list is a by-product of the effort to enter all of the best blockchain, self-sovereign, and decentralized identity links into a database that will power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, and pages like this with pre-arranged information. The SuperSource will have comments, submissions, ratings and reactions; so that it can become a co-operative effort among those who get involved.
-
-In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an awesome list out of them sooner than a live demo of the app that is in progress.
-
-Furthermore, I'm now working on [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin/README.md) as a place to focus more on the Sovrin\Indy protocol and ecosystem. Ideally, I hope for these 'Awesome' lists to compliment each-other along with [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/). It will take a bit of thinking, and perhaps some collaboration to decide the best way to do that.
 
 ### Contents
 
+* [A Note from the Editor](#A-Note-from-the-Editor)
 * [History](#History)
   * [Internet Identity Workshop—IIW](#Internet-Identity-Workshop) 
   * [#Rebooting-Web-of-Trust (RWoT)](#Rebooting-the-Web-Of-Trust)
@@ -55,10 +50,19 @@ Furthermore, I'm now working on [/awesome-sovrin](https://github.com/infominer33
    * [Videos](#Video)
    * [Sources](#Sources)
    
+
+#### A Note from the Editor[**^**](#Contents)
+Information is not so easily organized in a linear fashion. This list is a by-product of an effort to enter the best blockchain, self-sovereign, and decentralized identity links into a database to will power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, and pages like this with pre-arranged information. The SuperSource will have comments, submissions, ratings and reactions; so that it can become a co-operative effort among those who get involved. Furthermore, the Crypto SuperSource will be a database of all types of crypto information, not only ID.
+
+In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an awesome list out of them sooner than a live demo of the app that is in progress.
+
+I'm also working on [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin/README.md) as a place to focus more on the Sovrin\Indy protocol and ecosystem. Ideally, I hope for these 'Awesome' lists to compliment each-other along with [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/). It will take a bit of thinking, and perhaps some collaboration to decide the best way to do that.
+
+![](https://i.imgur.com/tjbOZAM.png)
+
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [-Jerry Cuomo](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/) IBM
 
-
-## History
+## History[**^**](#Contents)
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
