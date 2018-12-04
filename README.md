@@ -50,7 +50,10 @@
    
 
 #### A Note from the Editor[**^**](#Contents)
-Information is not so easily organized in a linear fashion. This list is a by-product of an effort to enter the best blockchain, self-sovereign, and decentralized identity links into a database to will power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, and pages like this with pre-arranged information. The SuperSource will have comments, submissions, ratings and reactions; so that it can become a co-operative effort among those who get involved. Furthermore, the Crypto SuperSource will be a database of all types of crypto information, not only ID.
+
+>Thanks to those who are working to make our identity experience, and the world, a better place.
+
+—Information is not so easily organized in a linear fashion. This list is a by-product of an effort to enter the best blockchain, self-sovereign, and decentralized identity links into a database to will power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, and pages like this with pre-arranged information. The SuperSource will have comments, submissions, ratings and reactions; so that it can become a co-operative effort among those who get involved. Furthermore, the Crypto SuperSource will be a database of all types of crypto information, not only ID.
 
 In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an awesome list out of them sooner than a live demo of the app that is in progress.
 
@@ -59,7 +62,6 @@ I'm also working on [/awesome-sovrin](https://github.com/infominer33/awesome-dec
 //Pull Requests Welcome
 
 
->Thanks to those who are working to make our identity experience, and the world, a better place.
 
 ## History[**^**](#Contents)
 
