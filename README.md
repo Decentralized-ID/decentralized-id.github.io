@@ -338,6 +338,7 @@ Evident from [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorksho
 * [Ethereum ERC725 Blockchain Based, Self-Sovereign Identity Management](https://bitcoinexchangeguide.com/ethereum-erc725-blockchain-based-self-sovereign-identity-management/)
 * [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — video from DEVCON1
 
+
 #### Ethereum Identity Applications[**^**](#Contents)
 * [uPort](https://www.uport.me/) [[**github**](https://github.com/uport-project/)] [[**twitter**](https://twitter.com/uport_me)]
    * [Ethereum studio ConsenSys launches digital IDs and assets secured on Ubuntu phones](http://www.ibtimes.co.uk/ethereum-studio-consensys-launches-internet-people-digital-ids-assets-secured-unbuntu-phones-1542620)
@@ -350,7 +351,9 @@ Evident from [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorksho
    * a "SmartWallet" for everyone to own their personal digital identity, using [Social Linked Data](https://github.com/solid/solid-spec), WebID, and verifiable claims standards via Ethereum smart contracts. 
 * [Democracy Earth Foundation](http://democracy.earth/) [[**github**](https://github.com/DemocracyEarth/paper)] 
    * developing *[Sovereign](http://sovereign.software/)*, a blockchain direct democracy tool using "vote" tokens to grant democratic participation rights to every human. A proof-of-individuality (POI) process based on peer-to-peer validation establishes that a self-sovereign identity is uniquely tied to a single person. The project introduces a number of interesting socio-technical concepts such as "Social Smart Contract", "Initial Rights Offering", and "Cryptographically Induced Equality". Cooperation is happening with other decentralized identity initiatives such as Blockstack and uPort.
-
+* [poa.network](https://poa.network/)[**[HBBFT](https://medium.com/poa-network/poa-network-how-honey-badger-bft-consensus-works-4b16c0f1ff94)**]
+ POA Network is an Ethereum-based platform that offers an open-source framework for smart contracts. POA Network is a sidechain to Ethereum utilizing [Proof of Authority](https://blockonomi.com/proof-of-authority/)
+ as its consensus mechanism. 
 
 ### State Led Initiatives[**^**](#Contents)
 
@@ -390,7 +393,6 @@ Evident from [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorksho
 * [Danube Tech](http://danubetech.com/) — digital identity and personal data, including personal agents, semantic graphs, and blockchain [[**xdi**](https://xdi2.org)] [[**navigator**](https://github.com/projectdanube/xdi2)]
    * Founded by [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**twitter**](https://twitter.com/peacekeeper)] [[**github**](https://github.com/peacekeeper)] [[**blog**](https://medium.com/@markus.sabadello)]
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e) [[**wired**](https://www.wired.com/story/coinbase-distributed-systems-acquisition/)]
-* [Proof of Authority](https://blockonomi.com/proof-of-authority/)
 * [Shocard](https://shocard.com/) — "Blockchain-Based Mobile Identity Platform"
 * [Authenteq](http://authenteq.com/) [[**twitter**](https://twitter.com/authenteq)] [[**github**](https://github.com/authenteq)]
   * enables users to create their own sovereign digital IDs which are stored encrypted on [BigChainDB](http://docs.bigchaindb.com)
