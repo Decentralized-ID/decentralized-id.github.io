@@ -8,18 +8,13 @@ Link = ["https://juru.io/","https://github.com/juru-identity/dbh17"]
 Description = "Juru Core is an open platform where you can securely store and manage your Identity and Reputation.\n\nToday Juru Core is built on Hyperledger Fabric and BigChainDB, and runs on a permissioned private blockchain. The contributing nodes are hosted by all major banks, which act as reputable gatekeeper.\n\nIt represents your identity and reputation using a smart contract, attributes can be added by the identity owner and are stored in hash form. Attributes and endorsements are formed of field sets, merkle-root hashes are used to allow sharing and verification of partial data"
 Tags = ["blockchain-id","hyperledger-fabric","bigchaindb"]
 
-["SignD"]
-Link = ["http://signd.id/"]
-Description = ""
-Tags = ["",""]
+["Shyft Network"]
+Link = ["https://www.shyft.network/","https://www.shyft.network/pdfs/Shyft-Network-Inc-Whitepaper_V3.1.pdf"]
+Description = "supports the collection of users’ data off-chain using traditional databases and collection strategies with the ability to provide attestation points for third-party utilization."
+Tags = ["blockchain-id","kyc"]
 
-[""]
-Link = ["https://www.shyft.network/"]
-Description = ""
-Tags = ["",""]
-
-[""]
-Link = ["http://myearth.id/"]
+["MyEarth"]
+Link = ["http://myearth.id/","http://myearth.id/wp-content/uploads/2018/04/Earth-ID-Updated-v1.1.pdf"]
 Description = ""
 Tags = ["",""]
 
