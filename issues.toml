@@ -1,4 +1,4 @@
-\\These are issues from peacekeeper/blockchain-id. Converted to toml, they can be added to the readme all at once.
+\\These are issues from peacekeeper/blockchain-id. Once completely converted to toml, they can be added to that readme all at once.
 
 ["Remme Auth"]
 Link = ["https://remme.io/","https://github.com/Remmeauth"]
