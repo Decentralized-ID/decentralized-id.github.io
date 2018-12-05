@@ -1,3 +1,5 @@
+\\These are issues from peacekeeper/blockchain-id. Converted to toml, they can be added to the readme all at once.
+
 ["Remme Auth"]
 Link = ["https://remme.io/","https://github.com/Remmeauth"]
 Description = "Using a Hyperledger Sawtooth foundation, Remme implements a DPKI. Its blockchain playing the role of CA and supporting X.509 certificates either signed by the user, or an organization."
@@ -14,79 +16,71 @@ Description = "supports the collection of users’ data off-chain using traditio
 Tags = ["blockchain-id","kyc"]
 
 ["MyEarth"]
-Link = ["http://myearth.id/","http://myearth.id/wp-content/uploads/2018/04/Earth-ID-Updated-v1.1.pdf"]
-Description = ""
-Tags = ["",""]
+Link = ["http://myearth.id/","http://myearth.id/wp-content/uploads/2018/04/Earth-ID-Updated-v1.1.pdf","http://imgur.com/EKULw96l.png"]
+Description = "MyEarthID will be the first decentralized Identity Management System (IMS) built on
+Hashgraph, where the user will own the ID that can be used for various purposes. Trust score kept based on user activity."
+Tags = ["hashgraph","myearth"]
 
-[""]
-Link = ["https://cultu.re/"]
-Description = ""
-Tags = ["",""]
+["Hu-manity.co"]
+Link = ["https://hu-manity.co/","https://hu-manity.org","https://hu-manity.science"]
+Description = "Hu-manty.science is responsible for researching the convergence of social good and technological innovation. To find new ways, where technology can solve real world problems.\n\nHu-manity.org is borderless and non-political and is responsible for championing choice and continuous consent to ensure people have a say as to how their data is used.\n\nHu-manity.co is the commercial part of the venture that is responsible for the creation and maintenance of the #My31 app."
+Tags = ["hu-manity","data-rights"]
 
-[""]
-Link = ["https://www.iov42.com/"]
-Description = ""
-Tags = ["",""]
+["Zulu Republic"]
+Link = ["https://www.zulurepublic.io/","https://www.zulurepublic.io/whitepaper/"]
+Description = "Zulu Republic is an ecosystem of blockchain tools, services, and platforms, designed as a place where people, businesses, and organizations can thrive on their own terms — a place where the real promise of the cryptocurrency revolution can be realized.Citizens of the Zulu Republic live anywhere and everywhere, united by a shared vision for a future of economic freedom and empowerment — of taking back our destinies from powerful centralized institutions."
+Tags = ["ztx","erc-20"]
 
-[""]
-Link = ["https://hu-manity.co/"]
-Description = ""
-Tags = ["",""]
-
-[""]
-Link = ["https://www.zulurepublic.io/"]
-Description = ""
-Tags = ["",""]
-
-[""]
+["Blocknify"]
 Link = ["https://blocknify.com/"]
-Description = ""
-Tags = ["",""]
+Description = "Blocknify for individuals is for freelancers and small business to sign and securely send their documents to be signed without their papers touching any server at any time."
+Tags = ["notarization"]
 
-[""]
-Link = ["https://handshake.org/"]
-Description = ""
-Tags = ["",""]
+["Handshake"]
+Link = ["https://handshake.org/","https://handshake.org/files/handshake.txt"]
+Description = "This document describes a proposal, operational functionality, and intention to replace centralized trusted internet infrastructure, with a decentralized Certificate Authority and globally unique namespace composed of a decentralized blockchain and cryptographic proofs backed by cryptoeconomic mechanisms. This construction enables the namespaces to point directly to a compact certificate representing a trust anchor which does not rely upon a single trusted authority to create attestations as in the existing federated Certificate Authority model. Handshake builds in compact verifiable proofs to ensure compatibility with embedded and mobile devices, with significant committed merkelized state proof-size and performance improvements."
+Tags = ["handshake","dCA","identification"]
 
 [""]
 Link = ["https://urbit.org/"]
 Description = ""
 Tags = ["",""]
 
-[""]
+["Vetri Global"]
 Link = ["https://vetri.global/"]
-Description = ""
-Tags = ["",""]
+Description = "VETRI is a self-sovereign, blockchain-based digital identity and personal data platform connecting identity owners with data consumers. Once completed, VETRI will operate as a not-for-profit, peer-to-peer, open source personal data management platform managed by the VETRI Foundation. The platform will consist of the VETRI wallet and the VETRI marketplace."
+Tags = ["data-market","blockchain-id","self-sovereign"]
 
-[""]
-Link = ["https://everid.net/"]
-Description = ""
-Tags = ["",""]
+["Everest"]
+Link = ["https://everest.org/","https://everest.org/wp-content/uploads/2018/10/Everest_Whitepaper_Nov2018_v1.pdf"]
+Description = "Everest combines EverID, a user-centric self-sovereign identity solution, with EverWallet, a value transfer and document storage solution, and EverChain, a robust transaction system to create and record all system transactions. This product suite is based on blockchain technology and the cryptographic underpinnings of that system. The core focus of the Everest operating company is to create economic and social value."
+Tags = ["self-sovereign","blockchain-id"]
 
-[""]
+["Agrello"]
 Link = ["https://www.agrello.io/"]
-Description = ""
-Tags = ["",""]
+Description = "The Agrello Platform is a dashboard where you can manage your identity, create contracts, sign the contracts using Agrello legally binding signature and have an overview of all of your agreements"
+Tags = ["identity","legal-contracts"]
 
-[""]
+["Gataca"]
 Link = ["http://gatacaid.com/"]
-Description = ""
-Tags = ["",""]
+Description = "Gataca delivers fast and secure customer on-boarding experiences by removing the burden of identity verification compliance from businesses. Our products, Verification SDK and NoPassword Sign In, enable fully automated KYC processes and simplify GDPR compliance."
+Tags = ["kyc","gdpr-compliant","mit","identification"]
 
-[""]
+["Clear.me"]
 Link = ["https://www.clear.me/"]
-Description = ""
+Description = "Verified identity claims are digitally-signed by issuers, encrypted, and stored via the blockchain and decentralized systems. These claims could include complete know your customer (KYC) compliance, document authentication, or enable privacy through our unique anonymous verification protocol (AVP). We are also extending support for zero-knowledge proofs through zkSNARKs."
 Tags = ["",""]
 
-[""]
-Link = ["https://poa.network/"]
-Description = ""
-Tags = ["",""]
+["POA Network"]
+Link = ["https://poa.network/","https://medium.com/poa-network/poa-network-how-honey-badger-bft-consensus-works-4b16c0f1ff94"]
+Description = "POA Network is an Ethereum-based platform that offers an open-source framework for smart contracts. POA Network is a sidechain to Ethereum utilizing Proof of Authority as its consensus mechanism. POA provides developers with the flexibility to code in Ethereum standards with the added benefits of POA Network's solutions to scalability and interoperability in blockchain networks."
+Tags = ["ethereum","poa","HBBFT"]
 
-[""]
-Link = ["https://essentia.one/"]
-Description = ""
-Tags = ["",""]
+["Essentia"]
+Link = ["https://essentia.one/","https://essentia.one/files/en/essentia_blockchain.pdf"]
+Description = "\"Essentia is a modular decentralized system of interactions and data management [1], which is based on a
+hybrid PoW/PoS consensus protocol.\" Has a ESS-ID component central to its makeup but not deeply described in pdf link."
+Tags = ["essentia",""]
 
 [""]
 Link = ["https://www.digidentity.eu/"]
