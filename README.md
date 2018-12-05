@@ -28,7 +28,7 @@
      * [Windley.com](#Selected-articles-from-Windley.com)
      * [Tykn Tech](#Tykn-Tech)
    * [Hyperledger Indy](#Hyperledger-Indy)
-     * [Idemix](#IDEMix--Zero-Knowledge-Proof's-in-Evernym\Indy)
+     * [IDEMix—Zero Knowledge Proofs in Indy](#IDEMix—Zero-Knowledge-Proofs-in-Indy)
    * [IBM](#IBM)
    * [Ethereum—Protocol](#Ethereum)
      * [Ethereum Apps](#Ethereum-Identity-Applications)
@@ -302,7 +302,7 @@ Evident from [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorksho
 * [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin)
 
 
-#### IDEMix -Zero Knowledge Proof's in Evernym\Indy[**^**](#Contents)
+#### IDEMix—Zero Knowledge Proofs in Indy[**^**](#Contents)
 
 >Our zero-knowledge proofs are part of the [Idemix protocol](http://domino.research.ibm.com/library/cyberdig.nsf/papers/EEB54FF3B91C1D648525759B004FBBB1/%24File/rz3730_revised.pdf), where they are used to prove the possession of [Camenisch-Lysyanskaya credentials](https://eprint.iacr.org/2001/019.pdf). We also use zero-knowledge proofs in the revocation protocol, which is based on [cryptographic accumulators](https://eprint.iacr.org/2008/539.pdf). —*[What Zero Knowledge Poof Algorithm is used in Sovrin?](https://forum.sovrin.org/t/what-zero-knowledge-proof-algorithm-is-used-in-sovrin/71/2)*
 
