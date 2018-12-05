@@ -28,7 +28,7 @@
      * [Windley.com](#Selected-articles-from-Windley.com)
      * [Tykn Tech](#Tykn-Tech)
    * [Hyperledger Indy](#Hyperledger-Indy)
-     * [Idemix](#IDEMix)
+     * [Idemix](#IDEMix--Zero-Knowledge-Proof's-in-Evernym\Indy)
    * [IBM](#IBM)
    * [Ethereum—Protocol](#Ethereum)
      * [Ethereum Apps](#Ethereum-Identity-Applications)
