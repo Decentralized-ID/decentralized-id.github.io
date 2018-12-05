@@ -47,6 +47,7 @@
    * [GDPR](#EU-General-Data-Protection-Regulation-Act)
    * [Reports](#Reports)
    * [Research Papers](#Research-Papers)
+   * [Podcasts](#Podcasts)
    * [Videos](#Video)
    * [Sources](#Sources)
 
