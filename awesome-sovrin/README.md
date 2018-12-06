@@ -267,7 +267,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**github**](https://github.com/decentralized-identity)] [[**twitter**](https://twitter.com/DecentralizedID)] [[**blog**](https://medium.com/decentralized-identity)] 
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 
-So now we have the DID, which is gaining adoption. However, that is only one, albeit important, aspect of a decentralized identity. In order for them to be interoperable across different networks will require some agreement on standards for other related protocols. As evidenced by the information here, a lot of effort is being made towards this goal.
+So now we have the DID, which is gaining adoption. That is only one, albeit important, aspect of a decentralized identity. In order for those DID to be interoperable across different networks will require some agreement on standards for other related protocols. 
 
 ### Video[**^**](#Contents)
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
