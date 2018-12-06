@@ -17,8 +17,7 @@ Tags = ["blockchain-id","kyc"]
 
 ["MyEarth"]
 Link = ["http://myearth.id/","http://myearth.id/wp-content/uploads/2018/04/Earth-ID-Updated-v1.1.pdf","http://imgur.com/EKULw96l.png"]
-Description = "MyEarthID will be the first decentralized Identity Management System (IMS) built on
-Hashgraph, where the user will own the ID that can be used for various purposes. Trust score kept based on user activity."
+Description = "MyEarthID will be the first decentralized Identity Management System (IMS) built on Hashgraph, where the user will own the ID that can be used for various purposes. Trust score kept based on user activity."
 Tags = ["hashgraph","myearth"]
 
 ["Hu-manity.co"]
@@ -78,17 +77,16 @@ Tags = ["ethereum","poa","HBBFT"]
 
 ["Essentia"]
 Link = ["https://essentia.one/","https://essentia.one/files/en/essentia_blockchain.pdf"]
-Description = "\"Essentia is a modular decentralized system of interactions and data management [1], which is based on a
-hybrid PoW/PoS consensus protocol.\" Has a ESS-ID component central to its makeup but not deeply described in pdf link."
+Description = "\"Essentia is a modular decentralized system of interactions and data management [1], which is based on a hybrid PoW/PoS consensus protocol.\" Has a ESS-ID component central to its makeup but not deeply described in pdf link."
 Tags = ["essentia",""]
 
-[""]
+["Digidentity"]
 Link = ["https://www.digidentity.eu/"]
-Description = ""
-Tags = ["",""]
+Description = "You can add an eHerkenning to your Digidentity, but you can also use eSGNG for digital signing. With your Digidentity you can log in to websites or digital services and conduct your business securely and simply.\n\nThe EU member states have agreed that, as from September 2018, European citizens and businesses must be able to log in to all Dutch public sector organisations using their own national login scheme. Thus, the European Union aims to regulate rendering electronic transactions within Europe easier and safer."
+Tags = ["UK","eidas","eu"]
 
-[""]
-Link = ["https://lifeid.io/"]
+["LifeID"]
+Link = ["https://lifeid.io/","https://lifeid.io/whitepaper.pdf"]
 Description = ""
 Tags = ["",""]
 
