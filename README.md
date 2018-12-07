@@ -522,6 +522,11 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [Is Blockchain the Future of Digital Identity?](https://youtu.be/Aub5dNpj2_k) -CB Insights
 * [Identity and Blockchain Technology](https://www.youtube.com/watch?v=Aub5dNpj2_k)
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
+* [Decentralized Identifiers enable self-sovereign identity - MyData 2018](https://www.youtube.com/watch?v=KsIM0zq37fU)
+* [eIDAS and Self-Sovereign Identity - MyData 2018](https://www.youtube.com/watch?v=AHa175AEVVs)
+* [uPort: Self-Sovereign Identity Meets Portable Data](https://www.youtube.com/watch?v=hBIragrwqYc)
+* [MyData Global Youtube](https://www.youtube.com/channel/UCjBkx-XKa1gOr71fyCrJPfg)
+* [Phil Windley on Vimeo](https://vimeo.com/windley/videos)
 
 
 ### Podcasts[**^**](#Contents)
