@@ -167,6 +167,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [The Sovrin Foundation](http://www.windley.com/archives/2018/07/the_sovrin_foundation.shtml)
 * [Decentralization in Sovrin](http://www.windley.com/archives/2018/10/decentralization_in_sovrin.shtml)
 * [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml)
+* [The Sovrin Ecosystem](http://www.windley.com/archives/2018/11/the_sovrin_ecosystem.shtml) (Disambiguating between Evernym, Sovrin, and Indy)
 
 
 ### Hyperledger Indy[**^**](#Contents)
@@ -189,6 +190,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 #### Additional Indy Related[**^**](#Contents) 
 * [Plenum Bzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki)
    * "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem."
+* [HyperledgerIndyWGCall_2018-12-06](https://drive.google.com/file/d/1166XpTM8WgZVMN2ca53CRCJapZlAeUhM/view) Discussion of VON and Plenum Docs (with info graphics)
 * [A Framework for Designing Cryptographic Key Management Systems](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-130.pdf)
 * [An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials](https://eprint.iacr.org/2008/539.pdf)
 * [An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation](https://www.iacr.org/archive/eurocrypt2001/20450093.pdf)
@@ -227,6 +229,10 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 ### Evernym\Sovrin\Indy Adoption[**^**](#Contents)
 
+* [Verified Organization Network](https://vonx.io/) [[**github**](https://github.com/bcgov/von)] [[**^**](#Canada)]
+   * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**github**]](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims.
+   * [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
+   * [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
 * [Tykn *The Future of Resilient Identity*](https://tykn.tech/) [[**twitter**](https://twitter.com/Tykn_tech)][[**github**](https://github.com/tykntech)][[**Extended Overview**](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)] (Indy\Sovrin)
 * [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)
 * [News Release: DHS S&T Awards $749K to Evernym for Decentralized Key Management Research and Development](https://www.dhs.gov/science-and-technology/news/2017/07/20/news-release-dhs-st-awards-749k-evernym-decentralized-key) (Department of Homeland Security)
@@ -246,10 +252,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
    * [Mydata](http://mydata.org/) [[**twitter**](https://twitter.com/mydataorg)] [[**papers**](https://mydata.org/papers/)] [[**declaration**](https://mydata.org/declaration/)]
      * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
    * [Consent](http://www.consent.global/)[[**12**](https://sovrin.org/steward/global-consent/)] — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
-* [Verified Organization Network](https://vonx.io/) [[**github**](https://github.com/bcgov/von)] [[**^**](#Canada)]
-   * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims."
-   * [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
-   * [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
+
 
 
 ### DID Adoption [**^**](#Contents)
@@ -266,29 +269,17 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * Microsoft: [Decentralized Identity—Own and control your identity](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY) [[Coindesk](https://www.coindesk.com/microsoft-is-pushing-new-blockchain-id-products-but-theres-pushback-too)]
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e) 
 
+![](http://imgur.com/PXGV6Xyl.png)
+
 #### Decentralized Identity Foundation[**^**](#Contents) 
 
 On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017):
-
 * [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
-
-![](http://imgur.com/PXGV6Xyl.png)
-
 * [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**github**](https://github.com/decentralized-identity)] [[**twitter**](https://twitter.com/DecentralizedID)] [[**blog**](https://medium.com/decentralized-identity)] 
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 
 So now we have the DID, which is gaining adoption and may be universally resolved. That is only one, albeit important, aspect of a decentralized identity. In order for those DID to be interoperable across different networks will require some agreement on standards for other related protocols. 
 
-### Video[**^**](#Contents)
-* [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
-* [Self-Sovereign Identity with Hyperledger Indy\Sovrin- Calvin Cheng - FOSSASIA 2018](https://www.youtube.com/watch?v=hfyIZu3_fw8)
-* [Hyperledger Indy introduction with Indy Agents Demo](https://www.youtube.com/watch?v=llwfb5Ut5sg)
-* [Hyperledger Indy Demo Screencast](https://www.youtube.com/watch?v=9WZxlrGMA3s&t=93s)
-* [Architectural Overview of Indy Wallets](https://www.youtube.com/watch?v=Km4IoUdb3Lc)
-* [Indy Demo by IBM](https://www.youtube.com/watch?v=cz-6BldajiA)
-
-### Podcasts
-* [MyData Podcast](https://mydata.org/podcast/)
 
 ### Research Papers
 * [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin)
@@ -302,6 +293,17 @@ So now we have the DID, which is gaining adoption and may be universally resolve
 * [IDENTITY MATTERS](https://cboxxtest.files.wordpress.com/2017/09/cboxxidentitymatters04.pdf)
 * [Accenture: ID2020: DIGITAL IDENTITY with Blockchain and Biometrics](https://www.accenture.com/us-en/insight-blockchain-id2020)
 * [r3- Identity in Depth](https://www.r3.com/wp-content/uploads/2017/06/Identity_indepth_r3.pdf)
+
+### Video[**^**](#Contents)
+* [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
+* [Self-Sovereign Identity with Hyperledger Indy\Sovrin- Calvin Cheng - FOSSASIA 2018](https://www.youtube.com/watch?v=hfyIZu3_fw8)
+* [Hyperledger Indy introduction with Indy Agents Demo](https://www.youtube.com/watch?v=llwfb5Ut5sg)
+* [Hyperledger Indy Demo Screencast](https://www.youtube.com/watch?v=9WZxlrGMA3s&t=93s)
+* [Architectural Overview of Indy Wallets](https://www.youtube.com/watch?v=Km4IoUdb3Lc)
+* [Indy Demo by IBM](https://www.youtube.com/watch?v=cz-6BldajiA)
+
+### Podcasts
+* [MyData Podcast](https://mydata.org/podcast/)
 
 ### Sources[**^**](#Contents)
 * [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
