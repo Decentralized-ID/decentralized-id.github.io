@@ -518,6 +518,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [uPort: Self-Sovereign Identity Meets Portable Data](https://www.youtube.com/watch?v=hBIragrwqYc)
 * [MyData Global Youtube](https://www.youtube.com/channel/UCjBkx-XKa1gOr71fyCrJPfg)
 * [Phil Windley on Vimeo](https://vimeo.com/windley/videos)
+* [Internet of Agreements Conference on Identity](https://medium.com/humanizing-the-singularity/identity/home)
 
 
 ### Podcasts[**^**](#Contents)
