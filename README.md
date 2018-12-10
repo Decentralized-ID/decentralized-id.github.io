@@ -35,7 +35,7 @@
    * [Assorted Decentralized \ Blockchain ID Related](#Assorted-Decentralized-\-Blockchain-ID-Related)
    * [Humanitarian](#Humanitarian)
    * [Structured Data Standards](#Structured-Data-Standards)
-   * [Decentralized Public Key Infrastructure](#Decentralized-Public-Key-Infrastructure-(DPKI))
+   * [Decentralized Public Key Infrastructure](#Decentralized-Public-Key-Infrastructure)
    * [Personal Data: Wallets, Marketplaces, etc](#Personal-Data-Wallets-Marketplaces-etc)
    * [GDPR](#EU-General-Data-Protection-Regulation-Act)
    * [Reports](#Reports)
