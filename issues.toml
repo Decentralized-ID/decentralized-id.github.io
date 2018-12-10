@@ -135,20 +135,20 @@ Link = ["http://ixo.foundation/","https://ixo.foundation/wp-content/uploads/2018
 Description = "Until now, it has not been technically or economically feasible to produce, measure and value impact-related data at scale, in ways that are cost-effective and useful.\n\nLegacy data gets locked in silos of proprietary indexed databases, with little to no compatibility, interoperability, or ways of avoiding aggregation errors, such as double-counting. The fidelity of data has been a pervasive problem. It was hard to prove that datasets had not been tampered with, corrupted, or originated from untrustworthy sources. However, with Verifiable Claims, it is now feasible to collect, transport and store data resources in high-fidelity formats. Data can be cryptographically hashed and digitally signed at the point of collection or issuance. This cryptographically verifiable data can be proven not to have been tampered with and the signatures of the claim issuer can be authenticated. This adds trust assurance and data provenance.\n\nWe now also have the technological means to resolve impact-related data to globally unique digital identifiers, rooted in the distributed public key infrastructures of blockchains. The Decentralized Identifier (DID) specification developed by the Rebooting the Web of Trust community (in which we participate) is becoming a W3C web standard. This enables the creation of high-resolution datasets, tagged with globally unique identifiers that can be cryptographically authenticated."
 Tags = ["ixo","data"]
 
-[""]
-Link = ["https://www.hubtoken.org/"]
-Description = ""
-Tags = ["",""]
+["Human Trust Protocol —HubToken"]
+Link = ["https://www.hubtoken.org/","https://www.hubtoken.org/images/hub-introduction.pdf","https://www.hubtoken.org/images/hub-white-paper.pdf"]
+Description = "Whether through messaging systems, online communities, social networks, or the advent of the sharing economy enabled by peer-to-peer marketplaces, Internet applications have provided unprecedented opportunity for billions of users to interact and engage in content, connection and commerce. While such applications have enabled users to come into contact with many more people virtually, a lack of virtual trust between strangers has hindered the realization of greater economic value for users on the Internet. \n\nThe advent of blockchain and cryptocurrency technologies have created an opportunity known as the “Internet of Value” [2]—a protocol-based system that transmits more than just information but units of economic value. These technologies enable decentralized networks to maintain consensual truth while transacting tokens that incentivize users for adding value to the network. By securing the network from harm and encouraging contribution, blockchain technologies produce an economic network effect that results in their rapid expansion."
+Tags = ["hubtoken"]
 
 ["Holonet"]
-Link = [""]
-Description = ""
-Tags = ["",""]
+Link = ["https://simbol.io/","https://www.roadtovr.com/decentralizing-identity-in-vr-with-holonet-self-sovereign-identity/"]
+Description = "Holonet is an open source project that implements the Decentralized Identity Specifications for open web VR platforms like WebXR."
+Tags = ["holonet","uport","simbol"]
 
-[""]
+["finID"]
 Link = ["http://finid.me/"]
-Description = ""
-Tags = ["",""]
+Description = "finID is a mobile wallet and a transparent  EU compliant Trusted Services Provider powered by blockchain infrastructure  supporting self sovereign identity (SSID). Our goal is to  make  SSID compatible with the existing EU eID infrastructure."
+Tags = ["eidas","eid","self-sovereign"]
 
 ["Crayonic"]
 Link = [""]
