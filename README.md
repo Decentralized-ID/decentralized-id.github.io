@@ -25,7 +25,7 @@
      * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier) 
    * [Evernym](#Evernym)
    * [The Sovrin Foundation](#The-Sovrin-Foundation)
-     * [Windley.com](#Selected-articles-from-Windley-com)
+     * [Windley.com](#The-Sovrin-Foundation)
    * [Hyperledger Indy](#Hyperledger-Indy)
      * [IDEMix—Zero Knowledge Proofs in Indy](#idemix-)
    * [IBM](#IBM)
