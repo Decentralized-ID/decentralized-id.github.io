@@ -64,6 +64,9 @@ This is still a work in progress, I expect it to mature over the next month or s
 
 ## History[**^**](#Contents)
 
+* [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
+* [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
+
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
 ### Internet Identity Workshop[**^**](#Contents)
