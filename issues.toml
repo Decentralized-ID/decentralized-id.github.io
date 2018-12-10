@@ -40,10 +40,10 @@ Link = ["https://handshake.org/","https://handshake.org/files/handshake.txt"]
 Description = "This document describes a proposal, operational functionality, and intention to replace centralized trusted internet infrastructure, with a decentralized Certificate Authority and globally unique namespace composed of a decentralized blockchain and cryptographic proofs backed by cryptoeconomic mechanisms. This construction enables the namespaces to point directly to a compact certificate representing a trust anchor which does not rely upon a single trusted authority to create attestations as in the existing federated Certificate Authority model. Handshake builds in compact verifiable proofs to ensure compatibility with embedded and mobile devices, with significant committed merkelized state proof-size and performance improvements."
 Tags = ["handshake","dCA","identification"]
 
-[""]
-Link = ["https://urbit.org/"]
-Description = ""
-Tags = ["",""]
+["Urbit"]
+Link = ["https://urbit.org/","https://urbit.org/docs/","https://news.ycombinator.com/item?id=11817721"]
+Description = "Urbit is a virtual city of general-purpose personal servers.\n\nWhat's a personal server? In a sense, you already have one. Your personal server is the combination of all the cloud services you use now.\n\nThis "server" is a mess. It's broken into 17 different fragments which are scattered all over the planet. You have no control at all over any of the pieces. The more we depend on Web services, the more we realize how unsustainable this situation is."
+Tags = ["urbit","self-sovereign"]
 
 ["Vetri Global"]
 Link = ["https://vetri.global/"]
@@ -90,33 +90,28 @@ Link = ["https://lifeid.io/","https://lifeid.io/whitepaper.pdf"]
 Description = "All PII such as name, date of birth, current living address etc., are never stored on the lifeID Platform. This information is encrypted and only stored on a secure device such as the person’s phone. "
 Tags = ["self-sovereign","blockchain-id","did"]
 
-[""]
-Link = ["http://www.usechain.net/"]
-Description = ""
-Tags = ["",""]
+["Usechain"]
+Link = ["http://www.usechain.net/","https://www.usechain.net/usechain_en.pdf","https://www.usechain.net/usechain_tech_en.pdf"]
+Description = "Usechain is dedicated to developing a public chain based on mirror identity, establishing an ecosystem based on identity public chain, promoting the implementation of all sorts of blockchain applications that links blockchain addresses to verified real users, and realizing close integration between social credit, infrastructure, and commercial use."
+Tags = ["usechain","mirroridentity","blockchain-id"]
 
-[""]
-Link = ["http://ydentity.org/"]
-Description = ""
-Tags = ["",""]
+["Ydentity"]
+Link = ["http://ydentity.org/","http://ydentity.org/doc/YdentityWhitePaper1.0.pdf"]
+Description = "This ERC20 token has a purchase mechanism under BTC or ETH and is designed to address the main elements of General Data Protection Regulation (GDPR) in a time of technological advancement when the consumer has never been more aware of the value of their data."
+Tags = ["erc-token","ydentity","blockchain-id"]
 
-[""]
-Link = ["https://www.digi-id.io/"]
-Description = ""
-Tags = ["",""]
+["Digi-ID"]
+Link = ["https://www.digi-id.io/","https://github.com/digibyte/digiid-js","https://www.digi-id.io/documentation.html"]
+Description = "Digi-ID is an authentication method based on the security of the DigiByte blockchain. This allows you to log in to a website, application, building security and more by simply scanning or tapping on a QR code. Digi-ID does away with the need for usernames and password, or it can be used to compliment them for additional security."
+Tags = ["digi-id","digibyte","blockchain-id"]
 
-[""]
-Link = ["https://0xcert.org/"]
-Description = ""
-Tags = ["",""]
+["0xcert"]
+Link = ["https://0xcert.org/","https://0xcert.org/technical-paper.pdf","https://0xcert.org/whitepaper.pdf","https://github.com/0xcert"]
+Description = "The vision of 0xcert is to provide an open protocol for standardized and certified non-fungible tokens to a wider tech audience​. With 0xcert, you can build on top of the non-fungible token standard, employing a complete toolset, development framework, and a set of conventions for various use cases​."
+Tags = ["erc-token","0xcert"]
 
 [""]
 Link = ["https://github.com/MakoLab/graphchain"]
-Description = ""
-Tags = ["",""]
-
-[""]
-Link = ["https://aid.technology/"]
 Description = ""
 Tags = ["",""]
 
