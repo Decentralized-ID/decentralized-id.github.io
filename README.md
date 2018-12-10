@@ -35,7 +35,7 @@
    * [Assorted Decentralized \ Blockchain ID Related](#Assorted-Decentralized-\-Blockchain-ID-Related)
    * [Humanitarian](#Humanitarian)
    * [Structured Data Standards](#Structured-Data-Standards)
-   * [Decentralized Public Key Infrastructure](#Decentralized-Public-Key-Infrastructure)
+   * [Decentralized Public Key Infrastructure (DPKI)](#Decentralized-Public-Key-Infrastructure-DPKI)
    * [Personal Data: Wallets, Marketplaces, etc](#Personal-Data-Wallets-Marketplaces-etc)
    * [GDPR](#EU-General-Data-Protection-Regulation-Act)
    * [Reports](#Reports)
@@ -420,7 +420,7 @@ Evident from [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorksho
 * [DIDs the Decentralized Identifiers of the W3C^](#DID-the-Decentralized-Identifier)
 
 
-### Decentralized Public Key Infrastructure (DPKI)[**^**](#Contents) 
+### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
 * [Blockstack](https://blockstack.org/) — [[**github**](https://github.com/blockstack)][[**forum**](https://forum.blockstack.org/)][[**blog**](https://blockstack.org/blog)][[**twitter**](https://twitter.com/blockstack)]
    * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
    * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
