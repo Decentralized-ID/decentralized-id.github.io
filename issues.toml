@@ -1,5 +1,3 @@
-\\These are issues from peacekeeper/blockchain-id. Once completely converted to toml, they can be added to that readme all at once.
-
 ["Remme Auth"]
 Link = ["https://remme.io/","https://github.com/Remmeauth"]
 Description = "Using a Hyperledger Sawtooth foundation, Remme implements a DPKI. Its blockchain playing the role of CA and supporting X.509 certificates either signed by the user, or an organization."
@@ -151,21 +149,21 @@ Description = "finID is a mobile wallet and a transparent  EU compliant Trusted 
 Tags = ["eidas","eid","self-sovereign"]
 
 ["Crayonic"]
-Link = [""]
-Description = ""
-Tags = ["",""]
+Link = ["https://www.crayonic.com"]
+Description = "Secure Digital Identity for People and Things\n\n Crayonic develops  hardware module  to secure digital identity.  We refer to it as Crayonic Identity Core  or CIC .  CIC hardware module  is running Crayonic Identity OS  firmware which will soon  be open sourced.  These two technologies combined are the basis for all identity projects within our company and soon it will be available to any one wishing to develop projects where secure identity plays a major role. This technology is protecting identities in all types of digital interactions:  person-to-person (P2P) , person-to-machine (P2M), machine-to-machine (M2M). \n\nRead further about technical details on Crayonic Pen -   our flagship  product built on top of CIC that fully utilizes its  machine learning algorithms in combination with cryptography to protect digital identity of a person. For machine-to-machine use case, please see our case study in IOT identity section. "
+Tags = ["eidas","crayonic"]
 
-[""]
-Link = ["https://www.blockpass.org/"]
-Description = ""
-Tags = ["",""]
+["Blockpass"]
+Link = ["https://www.blockpass.org/","https://www.blockpass.org/downloads/BlockpassWhitepaper.v1.3.2.pdf"]
+Description = "Blockpass is an identity application for regulated services and the Internet of \n\nThings (IoT). It is positioned as a first step towards the development of a fully self-sovereign identity protocol for the Internet of Everything (IoE). An identity application is a software product that allows users to establish (verify), store, and manage identities. The identities that an identity application platform can store include those of people, things, and of other objects. The current, initial, release of the Blockpass app provides an identity solution for humans. Future releases will include solutions for devices and objects. \n\nA self-sovereign identity application is a platform where users can establish, store, and manage identities whilst maintaining full control over all data involved. Data collected to establish a self-sovereign identity is not stored on any central server. Instead, the data is passed to the verifier (be it a machine or a human) to view only for so long as is required to create the identity. When the verification is completed, the data is sent back to the user’s own personal device. "
+Tags = ["blockpass","iot","ssi"]
 
-[""]
-Link = ["https://www.ledgerstate.io/"]
-Description = ""
-Tags = ["",""]
+["Ledgerstate"]
+Link = ["https://www.ledgerstate.io/","https://www.businesswire.com/news/home/20180125005600/en/Yoti-LedgerState-Showcase-Next-Generation-Blockchain-Technology-Transform"]
+Description = "Ledgerstate shapes their product to the end user's needs by not being tied to one specific decentralizing technology. Instead, they pick from the best technologies to create a tailored application for each use-case. Some of the technologies used include: Hashgraph, Yoti, Ethereum\n\nWe make decentralization and the blockchain simple, inclusive, and easy to implement into each company's ecosystem, putting forward the benefits for the end user.\n\nYoti, the digital identity platform, lets people create verified digital identities through their free smartphone app. The app uses facial recognition technology and a security team to match facial biometrics to approved photo IDs. These digital identities can then be written to a private ledger using an evolution of blockchain technology called Hashgraph."
+Tags = ["ledgerstate","yoti","hashgraph","eth"]
 
-[""]
-Link = ["https://keeex.me/"]
-Description = ""
-Tags = ["",""]
+["KeeeX Deploys Bitcoin BIP32 Self Sovereign Identity"]
+Link = ["https://keeex.me/","https://keeex.me/keeex-deploys-bitcoin-bip32-self-sovereign-identity/","https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki"]
+Description = "KeeeX seals trusted metadata in your files to ensure integrity, source and date. Our universal technology makes digital security accessible to everyone and allows you to protect all your file formats.\n\nYour data has value and is easily trackable thanks to a unique identifier. It embeds the link between your documents, your processes and event ledgers (Blockchain, off-chain register).\n\nThe most successful companies are those that have quality data in quantity to supply their analysis tools. You can qualify and insert context elements into your data to make better use of them.\n\nOur patented technology injects trust and exploitation metadata into your files without changing its appearance and format. You are no longer dependent on an infrastructure or Blockchain, all the proofs are in your data.\n\nFor the first time ever, BIP32 hierarchical deterministic wallets can be used to self define, publish, and revoke a cryptographic identity. This identity can be used to generate one time signatures for every item signed, hence achieving unprecedented signature security."
+Tags = ["keeex","data"]
