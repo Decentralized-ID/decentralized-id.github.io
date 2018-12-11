@@ -40,7 +40,7 @@ Tags = ["handshake","dCA","identification"]
 
 ["Urbit"]
 Link = ["https://urbit.org/","https://urbit.org/docs/","https://news.ycombinator.com/item?id=11817721"]
-Description = "Urbit is a virtual city of general-purpose personal servers.\n\nWhat's a personal server? In a sense, you already have one. Your personal server is the combination of all the cloud services you use now.\n\nThis "server" is a mess. It's broken into 17 different fragments which are scattered all over the planet. You have no control at all over any of the pieces. The more we depend on Web services, the more we realize how unsustainable this situation is."
+Description = "Urbit is a virtual city of general-purpose personal servers.\n\nWhat's a personal server? In a sense, you already have one. Your personal server is the combination of all the cloud services you use now.\n\nThis \"server\" is a mess. It's broken into 17 different fragments which are scattered all over the planet. You have no control at all over any of the pieces. The more we depend on Web services, the more we realize how unsustainable this situation is."
 Tags = ["urbit","self-sovereign"]
 
 ["Vetri Global"]
@@ -135,7 +135,7 @@ Tags = ["ixo","data"]
 
 ["Human Trust Protocol —HubToken"]
 Link = ["https://www.hubtoken.org/","https://www.hubtoken.org/images/hub-introduction.pdf","https://www.hubtoken.org/images/hub-white-paper.pdf"]
-Description = "Whether through messaging systems, online communities, social networks, or the advent of the sharing economy enabled by peer-to-peer marketplaces, Internet applications have provided unprecedented opportunity for billions of users to interact and engage in content, connection and commerce. While such applications have enabled users to come into contact with many more people virtually, a lack of virtual trust between strangers has hindered the realization of greater economic value for users on the Internet. \n\nThe advent of blockchain and cryptocurrency technologies have created an opportunity known as the “Internet of Value” [2]—a protocol-based system that transmits more than just information but units of economic value. These technologies enable decentralized networks to maintain consensual truth while transacting tokens that incentivize users for adding value to the network. By securing the network from harm and encouraging contribution, blockchain technologies produce an economic network effect that results in their rapid expansion."
+Description = "Envision a world in which interactions and transactions between Internet strangers are supported by a new trust layer on the Internet enabled by the Human Trust Protocol. Reputation becomes self-sovereign under the control of users. With appropriate permissions, anyone will be able to assess the relevant trustworthiness of anyone else with whom they are about to engage, and users can transfer their trust from one community to any other. In short, there is an opportunity to rework the underlying incentive mechanisms of social networking and sharing economy services to create more trustworthy interaction."
 Tags = ["hubtoken"]
 
 ["Holonet"]
