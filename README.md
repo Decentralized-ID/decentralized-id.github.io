@@ -20,7 +20,7 @@
  * [Resources](#Resources)
    * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
    * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
-      * [RWoT Use Cases](#RWoT-Use-Cases) -infographic workflow
+      * [RWoT Use Cases](#RWoT-Use-Cases) 
    * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
      * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier) 
    * [Evernym](#Evernym)
