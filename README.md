@@ -67,6 +67,8 @@ This is still a work in progress, I expect it to mature over the next month or s
 * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
 * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
 
+This isn't a firm historical outline, just enough to provide context for the rest.
+
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
 ### Internet Identity Workshop[**^**](#Contents)
@@ -132,9 +134,9 @@ At the end of 2015, the Department of Homeland Security announced that it had fu
 [4/16](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en) the EU adopted the GDPR, enacted as law May 2018. 
 [Christopher Allen](http://www.lifewithalacrity.com/)[[**twitter**](https://twitter.com/ChristopherA)][[**github**](https://github.com/ChristopherA)] details the overarching history of internet idenitity standards in his seminal work (Also submitted to the ID2020\RWoT workshop):
 *  **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[**8**](https://www.coindesk.com/path-self-sovereign-identity/amp/)] details the history of identity standards leading up to self-sovereign and details the 10 principles of self-sovereign identity.
-  > I am part of the team putting together the first ID2020 Summit on Digital Identity at the United Nations
+   > I am part of the team putting together the first ID2020 Summit on Digital Identity at the United Nations
 * The second RWoT workshop ran in conjunction with the UN's [ID2020](https://id2020.org/) Summit in New York that [May](https://press.pwc.com/News-releases/id2020-to-kick-start-digital-identity-summit-at-un-with-pwc-support./s/9fe11be5-cbd8-486b-b4d2-d798f486d0f2): 
->1.1 Billion people live without an officially recognized identity — This lack of recognized identification deprives them of protection, access to services, and basic rights. ID2020 is a public-private partnership dedicated to solving the challenges of identity for these people through technology. - id2020.org
+   >1.1 Billion people live without an officially recognized identity — This lack of recognized identification deprives them of protection, access to services, and basic rights. ID2020 is a public-private partnership dedicated to solving the challenges of identity for these people through technology. - id2020.org
 * [Identity Crisis: Clear Identity through Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)
 * [Identity System Essentials](https://www.evernym.com/wp-content/uploads/2017/02/Identity-System-Essentials.pdf) 3/16 (Original Evernym Identity WP also submitted to ID2020\RWoT workshop) 
 
