@@ -2,9 +2,11 @@
 **Protocol, Governance, and the Surrounding Ecosystem** 
 
 Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
-However, there is one contains attitional material regarding the Sovrin ecosystem, and Hyperledger Indy.
+However, this one contains attitional material regarding the Sovrin ecosystem, and Hyperledger Indy.
 
-Work in Progress—Pull Requests Welcome.
+For anyone who wants to think about indy\sovrin-related things without all the noise.
+
+Pull Requests Welcome.
 
 ### Contents
 * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
