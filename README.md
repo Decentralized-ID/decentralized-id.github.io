@@ -551,11 +551,9 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ---
 
-### Brought to you by [The Crypto Library—Super Source](https://github.com/infominer33/Crypto-library)
+#### Brought to you by The [Crypto Library](crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
 
-If you find this to be a valuable resource, feel free to share a tip.\
-Your generosity is appreciated.
-
+Generosity Appreciated
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
