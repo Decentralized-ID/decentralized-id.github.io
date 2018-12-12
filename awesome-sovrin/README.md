@@ -8,8 +8,8 @@ For anyone who wants to think about indy\sovrin-related things without all the n
 
 Pull Requests Welcome.
 
-**Link Key:**
-[[**T**]()witter][[**G**]()ithub][[**B**]()log][[**wp**]() whitepaper][[**ϟ**]() related resource][[**^**]() back to the contents][[**>**]() related section]
+##### Link Shorthand:
+[[**T**](#Link-Shorthand)witter][[**G**](#Link-Shorthand)ithub][[**B**](#Link-Shorthand)log][[**wp**](#Link-Shorthand) whitepaper][[**ϟ**](#Link-Shorthand) related resource][[**^**](#Link-Shorthand) back to the contents][[**>**](#Link-Shorthand) related section]
 
 
 ### Contents
