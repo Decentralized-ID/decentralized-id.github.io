@@ -1,5 +1,5 @@
 # Awesome Sovrin, Hyperledger Indy and DID Resources.
-**Protocol, Governance, and the Surrounding Ecosystem** 
+**Protocol, Governance, and Immediately Surrounding Ecosystem** 
 
 Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
 However, this one contains attitional material regarding the Sovrin ecosystem, and Hyperledger Indy.
