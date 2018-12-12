@@ -54,13 +54,13 @@
 
 >Thanks to those who are working to make our identity experience, and the internet, a better place.
 
-—Information is not so easily organized in a linear fashion. This list is a by-product of an effort to enter the best blockchain, self-sovereign, and decentralized identity links into a database to power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, and pages like this with pre-arranged information. The SuperSource will have comments, submissions, ratings and reactions; so that it can become a collabroative effort among anyone who is interested. Furthermore, the [Crypto SuperSource](http://crypt0library.net) is a growing collection of all types of crypto related information, not only ID.
+—Information is not so easily organized in a linear fashion. This list is a by-product of writing a few articles about Hyperledger Indy, which turned into a few more, that resulted in an effort to enter the best blockchain, self-sovereign, and decentralized identity links into a database to power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, and pages like this with pre-arranged information. The SuperSource will have comments, submissions, ratings and reactions; so that it can become a collabroative effort among anyone who is interested. Furthermore, the [Crypto SuperSource](http://crypt0library.net) is a growing collection of all types of crypto related information, not only ID.
 
-In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an awesome list out of them sooner than a live demo of the app that is in progress. Now there are many more links than I began with.
+In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an [awesome list](https://github.com/sindresorhus/awesome) out of them sooner than a live demo of the app that is in progress. Now, of course, there are many more links than I began with and it is approaching organization. However, this has become a bit more expansive than the Awesome lists, perhaps deserving a category of its own. 
 
-I'm also working on [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin/README.md) as a place to focus more on the Sovrin\Indy protocol and ecosystem. I hope for these 'Awesome' lists to compliment each-other along with [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/). I'm open to suggestions on how to do that. 
+I'm also working on [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin/README.md) as a place to focus more on the Sovrin\Indy protocol and ecosystem, and have spent some time doing upkeep on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/). I hope for these lists to compliment each-other. 
 
-This is still a work in progress, I expect it to mature over the next month or so.
+For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. This is a work in progress, that I expect to be actively engaged with for the next month or so. Within that time it should become a more organized space, and easier for contributors to get involved.
 
 **Pull Requests Welcome**
 
