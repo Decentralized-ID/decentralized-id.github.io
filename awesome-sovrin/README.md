@@ -2,14 +2,14 @@
 **Protocol, Governance, and Immediately Surrounding Ecosystem** 
 
 Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
-However, this one contains attitional material regarding the Sovrin ecosystem, and Hyperledger Indy.
+However, this one contains attitional material about Evernym, Sovrin, and Hyperledger Indy.
 
 For anyone who wants to think about indy\sovrin-related things without all the noise.
 
 Pull Requests Welcome.
 
 ##### Link Shorthand:
-[[**T**](#Link-Shorthand)witter][[**G**](#Link-Shorthand)ithub][[**B**](#Link-Shorthand)log][[**wp**](#Link-Shorthand) whitepaper][[**ϟ**](#Link-Shorthand) related resource][[**^**](#Link-Shorthand) back to the contents][[**>**](#Link-Shorthand) related section]
+[[**T**](#Link-Shorthand)witter][[**G**](#Link-Shorthand)ithub][[**B**](#Link-Shorthand)log][[**wp**](#Link-Shorthand) whitepaper][[**D**](#Link-Shorthand)ocumentation][[**F**](#Link-Shorthand)orums][[**C**](#Link-Shorthand)hat][[**ϟ**](#Link-Shorthand) related resource][[**^**](#Link-Shorthand) back to the contents][[**>**](#Link-Shorthand) related section]
 
 
 ### Contents
@@ -62,8 +62,8 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 ![](http://imgur.com/Lz6RTysl.png)
 
 * [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
-* [Credentials Community Group](https://www.w3.org/community/credentials/)[[**blog**](https://w3c-ccg.github.io/)]  
-* [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**Charter**](https://www.w3.org/2017/vc/charter.html)]
+* [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
+* [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**D**](https://www.w3.org/2017/vc/charter.html)]
 * [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**Use Cases**](https://w3c.github.io/vc-use-cases/)]
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 
@@ -106,7 +106,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
-*   [[**Forum**](https://forum.sovrin.org/)] [[**Chat**](https://chat.sovrin.org/)][[**T**](https://twitter.com/SovrinID)][[**G**](https://github.com/sovrin-foundation/sovrin)]
+*   [[**F**](https://forum.sovrin.org/)orum] [[**C**](https://chat.sovrin.org/)chat][[**T**](https://twitter.com/SovrinID)witter][[**G**](https://github.com/sovrin-foundation/sovrin)ithub]
 * [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
  Foundation is creating a public instance of the Sovrin\Indy codebase; initially developed by [Evernym](#Evernym)
 * [Sovrin Library](https://sovrin.org/library/)
@@ -115,7 +115,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 * [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/)
 * [How Sovrin Works: A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
-* [Sovrin Test Network Trust Anchor Registration](https://s3.us-east-2.amazonaws.com/evernym-cs/sovrin-STNnetwork/www/trust-anchor.html)[[**Forum**](https://forum.sovrin.org/t/testing-on-the-sovrin-test-network-stn/643/17)]
+* [Sovrin Test Network Trust Anchor Registration](https://s3.us-east-2.amazonaws.com/evernym-cs/sovrin-STNnetwork/www/trust-anchor.html)[[**F**](https://forum.sovrin.org/t/testing-on-the-sovrin-test-network-stn/643/17)]
 
 #### Sovrin Stewards[**^**](#Contents)
 
@@ -221,7 +221,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Rebooting the Web of Trust VII: Toronto (September 2018)](https://github.com/WebOfTrustInfo/rwot7) - More recent thoughts.
 * [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
 
-#### RWoT Use Cases[**^**](#Contents)
+### RWoT Use Cases[**^**](#Contents)
 —infogrphic workflow examples 
 * [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)
 * [Re-Imagining What Users Really Want](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/what-users-really-want.md)
@@ -231,15 +231,13 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
 
 
-
-
 ### Evernym\Sovrin\Indy Adoption[**^**](#Contents)
 
-* [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**^**](#Canada)]
+* [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](#Canada)]
    * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**]](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims.
    * [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
    * [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
-* [Tykn *The Future of Resilient Identity*](https://tykn.tech/) [[**T**](https://twitter.com/Tykn_tech)][[**G**](https://github.com/tykntech)][[**Extended Overview**](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)] (Indy\Sovrin)
+* [Tykn *The Future of Resilient Identity*](https://tykn.tech/) [[**T**](https://twitter.com/Tykn_tech)][[**G**](https://github.com/tykntech)][[**D**](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)] (Indy\Sovrin)
 * [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)
 * [News Release: DHS S&T Awards $749K to Evernym for Decentralized Key Management Research and Development](https://www.dhs.gov/science-and-technology/news/2017/07/20/news-release-dhs-st-awards-749k-evernym-decentralized-key) (Department of Homeland Security)
 * [Evernym and R3 Partner to Apply Self-Sovereign Identity to Financial Services](http://www.paymentsjournal.com/evernym-r3-partner-apply-self-sovereign-identity-financial-services/)
@@ -255,9 +253,9 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [The Sovrin Foundation Names Cisco Founding Steward](https://globenewswire.com/news-release/2018/06/21/1527830/0/en/The-Sovrin-Foundation-Names-Cisco-Founding-Steward.html)
 * [CULedger partners with decentralized identity innovator Evernym to create MyCUID](https://www.cuinsight.com/press-release/culedger-partners-decentralized-identity-innovator-evernym-create-mycuid)
 * [Self Sovereign Identity and MyData](https://medium.com/@apoikola/self-sovereign-identity-and-mydata-e1f996a9451)
-  * [Mydata](http://mydata.org/) [[**T**](https://twitter.com/mydataorg)] [[**papers**](https://mydata.org/papers/)] [[**declaration**](https://mydata.org/declaration/)]
+  * [Mydata](http://mydata.org/) [[**T**](https://twitter.com/mydataorg)] [[**D**](https://mydata.org/papers/)] [[**D**](https://mydata.org/declaration/)]
     * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
-  * [Consent](http://www.consent.global/)[[**12**](https://sovrin.org/steward/global-consent/)] — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
+  * [Consent](http://www.consent.global/)[[**ϟ**](https://sovrin.org/steward/global-consent/)] — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
 * [Legal Entity Identifier blockchained by a Hyperledger Indy implementation of GraphChain](http://www.graphchain.io/MTSR2018.pdf)
   >The main idea behind GraphChain is to use blockchain mechanisms on top of an abstract RDF graphs. This paper presents an implementation of GraphChain in the Hyperledger Indy framework. The whole setting is shown to be applied to the RDF graphs containing information about Legal Entity Identifiers (LEIs).
 
@@ -266,7 +264,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [@ChristopherA on DID adoption](https://twitter.com/ChristopherA/status/989122017348784130)
    > "22/ Over a dozen companies and organizations, using multiple blockchains (Bitcoin, Ethereum, Hyperledger, etc.), have committed to deploying DIDs, including IBM, Microsoft, Digital Bazaar, Consensys, Evernym, Learning Machine, British Columbia, and more:" —[How blockchain could solve the internet privacy problem](https://www.computerworld.com/article/3267930/blockchain/how-blockchain-could-solve-the-internet-privacy-problem.html)
 * [Veres One DID Method 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/did-method-veres-one.md) — a permissionless public ledger designed specifically for the creation and management of decentralized identifiers (DIDs)
-* [Blockstack DID Spec](https://github.com/blockstack/blockstack-core/blob/master/docs/blockstack-did-spec.md)[**[*](https://forum.blockstack.org/t/did-method-at-identity-foundation/4287/9)**]
+* [Blockstack DID Spec](https://github.com/blockstack/blockstack-core/blob/master/docs/blockstack-did-spec.md)[**[ϟ](https://forum.blockstack.org/t/did-method-at-identity-foundation/4287/9)**]
 * [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
 * [U.S. Department of Homeland Security funds four Blockchains](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology)
@@ -281,7 +279,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017):
 * [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
-* [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**blog**](https://medium.com/decentralized-identity)] 
+* [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**B**](https://medium.com/decentralized-identity)] 
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 
 So now we have the DID, which is gaining adoption and may be universally resolved. That is only one, albeit important, aspect of a decentralized identity. In order for those DID to be interoperable across different networks will require some agreement on standards for other related protocols. 
