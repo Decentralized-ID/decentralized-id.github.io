@@ -51,7 +51,7 @@
 
 ### A Note from the Editor[**^**](#Contents)
 
->Thanks to those who are working to make our identity experience, and the world, a better place.
+>Thanks to those who are working to make our identity experience, and the internet, a better place.
 
 —Information is not so easily organized in a linear fashion. This list is a by-product of an effort to enter the best blockchain, self-sovereign, and decentralized identity links into a database to will power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, and pages like this with pre-arranged information. The SuperSource will have comments, submissions, ratings and reactions; so that it can become a collabroative effort among anyone who is interested. Furthermore, the [Crypto SuperSource](http://crypt0library.net) is a growing collection of all types of crypto related information, not only ID.
 
