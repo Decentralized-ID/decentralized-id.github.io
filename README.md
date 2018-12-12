@@ -31,11 +31,10 @@
    * [The Sovrin Foundation](#The-Sovrin-Foundation)
      * [Windley.com](#The-Sovrin-Foundation)
    * [Hyperledger Indy](#Hyperledger-Indy)
-     * [IDEMix—Zero Knowledge Proofs in Indy](#idemix-)
    * [IBM](#IBM)
    * [Ethereum—Protocol](#Ethereum)
      * [Ethereum Apps](#Ethereum-Identity-Applications)
-   * [State Led Identity Initiatives](#State-Led-Initiatives)
+   * [State Sanctioned Identity Initiatives](#State-Led-Initiatives)
    * [Assorted Decentralized \ Blockchain ID Related](#Assorted-Decentralized-\-Blockchain-ID-Related)
    * [Humanitarian](#Humanitarian)
    * [Structured Data Standards](#Structured-Data-Standards)
@@ -209,8 +208,8 @@ Evident from other [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignW
 
 * [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
 * [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
-* [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**Charter**](https://www.w3.org/2017/vc/charter.html)]
-* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**Use Cases**](https://w3c.github.io/vc-use-cases/)]
+* [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**D**](https://www.w3.org/2017/vc/charter.html)]
+* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
 * [DIGITAL VERIFICATION COMMUNITY GROUP](https://www.w3.org/community/digital-verification/)[[**G**](https://sea-region.github.com/w3c-dvcg)]
@@ -251,7 +250,8 @@ Blockstack is a network for decentralized applications where users own their ide
    * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
    * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md)
      * [Markus Sabadello – Webinar 10](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)
-* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [**[uniresolver.io](https://uniresolver.io/)**]
+* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)]
+  * [uniresolver.io](https://uniresolver.io/)
 
 ![](http://imgur.com/XMaq5cil.png)
 
@@ -267,7 +267,7 @@ Blockstack is a network for decentralized applications where users own their ide
 
 ### The Sovrin Foundation[**^**](#Contents)
  
-* [[**Forum**](https://forum.sovrin.org/)] [[**Chat**](https://chat.sovrin.org/)] [[**T**](https://twitter.com/SovrinID)] [[**G**](https://github.com/sovrin-foundation/sovrin)]
+* [[**F**](https://forum.sovrin.org/)]orum [[**C**](https://chat.sovrin.org/)]hat [[**T**](https://twitter.com/SovrinID)]witter [[**G**](https://github.com/sovrin-foundation/sovrin)]ithub
 * [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
  Foundation is creating a public instance of the Hyperledger [Indy](#Hyperledger-Indy) code, initially developed by [Evernym](#Evernym) 
 * [Sovrin Library](https://sovrin.org/library/)
@@ -276,7 +276,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 * [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/)
 * [How Sovrin Works—A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
-* [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin) - See here for additional Sovrin related material.
+* [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin) - **See here for additional Sovrin related material.**
 
 #### Selected articles from Windley.com [**^**](#Contents)
 * [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
@@ -306,22 +306,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](https://github.com/infominer33/awesome-decentralized-id#canada-)]
    * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims."
    * [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
-* [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin) - See here for additional indy related material.
-
-
-#### IDEMix ZKP [**^**](#Contents)
-—Zero Knowledge Proofs in Indy
-
-* [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519) (Not ID related)
->Our zero-knowledge proofs are part of the [Idemix protocol](http://domino.research.ibm.com/library/cyberdig.nsf/papers/EEB54FF3B91C1D648525759B004FBBB1/%24File/rz3730_revised.pdf), where they are used to prove the possession of [Camenisch-Lysyanskaya credentials](https://eprint.iacr.org/2001/019.pdf). We also use zero-knowledge proofs in the revocation protocol, which is based on [cryptographic accumulators](https://eprint.iacr.org/2008/539.pdf). —*[What Zero Knowledge Poof Algorithm is used in Sovrin?](https://forum.sovrin.org/t/what-zero-knowledge-proof-algorithm-is-used-in-sovrin/71/2)*
-
->Identity Mixer is not directly (re)implemented by Sovrin, but its cryptographic foundations are very similar, and Sovrin’s implementation includes most of its extended features (predicates, multi-credential, revocation, advanced issuance…). One of the researchers who helped to create Identity Mixer is on Sovrin’s Technical Governance Board and has offered insight to keep the implementations aligned on goals and methods. 
->—*[How is IDEMix Implemented?](https://forum.sovrin.org/t/how-idemex-is-implemented-in-sovrin-indy/)*
-
-* [IBM Identity Mixer](https://www.zurich.ibm.com/identity_mixer/) [[**B**](https://idemix.wordpress.com/)]
-  * [idemix in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.3/idemix.html)
-* [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
-* [AnonCreds: Anonymous credentials protocol implementation in python](https://github.com/hyperledger/indy-anoncreds) [[**ϟ**](https://github.com/hyperledger/indy-anoncreds/blob/master/docs/anoncred-usecase1.pdf)]
+* [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin) - **See here for additional indy related material.**
 
 
 ### IBM[**^**](#Contents)
@@ -361,7 +346,7 @@ Blockstack is a network for decentralized applications where users own their ide
    * a "SmartWallet" for everyone to own their personal digital identity, using [Social Linked Data](https://github.com/solid/solid-spec), WebID, and verifiable claims standards via Ethereum smart contracts. 
 * [Democracy Earth Foundation](http://democracy.earth/) [[**G**](https://github.com/DemocracyEarth/paper)] 
    * developing *[Sovereign](http://sovereign.software/)*, a blockchain direct democracy tool using "vote" tokens to grant democratic participation rights to every human. A proof-of-individuality (POI) process based on peer-to-peer validation establishes that a self-sovereign identity is uniquely tied to a single person. The project introduces a number of interesting socio-technical concepts such as "Social Smart Contract", "Initial Rights Offering", and "Cryptographically Induced Equality". Cooperation is happening with other decentralized identity initiatives such as Blockstack and uPort.
-* [poa.network](https://poa.network/)[**[HBBFT](https://medium.com/poa-network/poa-network-how-honey-badger-bft-consensus-works-4b16c0f1ff94)**]
+* [poa.network](https://poa.network/)[**[D](https://medium.com/poa-network/poa-network-how-honey-badger-bft-consensus-works-4b16c0f1ff94)**]
  POA Network is an Ethereum-based platform that offers an open-source framework for smart contracts. POA Network is a sidechain to Ethereum utilizing [Proof of Authority](https://blockonomi.com/proof-of-authority/)
  as its consensus mechanism. 
 
@@ -381,7 +366,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Self-Sovereign Identity Systems for Humanitarian Interventions—A Case Study on Protective Cash Transfer Programs](https://repository.tudelft.nl/islandora/object/uuid:6cdb5450-9a81-47a9-8ffa-f9bd77c72448/datastream/OBJ1/download)
 * [Deployment of a Blockchain-Based Self-Sovereign Identity - Delft](https://arxiv.org/pdf/1806.01926.pdf)
 * [TrustChain: A Sybil-resistant scalable blockchain - Presentation](http://msn.iecs.fcu.edu.tw/report/download.php?)
-* [Dutch Blockchain Coalition](https://www.dutchdigitaldelta.nl/en/blockchain) [[Action Agenda](https://dutchdigitaldelta.nl/uploads/pdf/Dutch-Blockchain-Coalition-action-agenda-ENG.pdf)]
+* [Dutch Blockchain Coalition](https://www.dutchdigitaldelta.nl/en/blockchain) [[**ϟ**](https://dutchdigitaldelta.nl/uploads/pdf/Dutch-Blockchain-Coalition-action-agenda-ENG.pdf)]
 
 #### USA[**^**](#Contents)
 * [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)
@@ -396,7 +381,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Zug ID: Exploring the First Publicly Verified Blockchain Identity](https://medium.com/uport/zug-id-exploring-the-first-publicly-verified-blockchain-identity-38bd0ee3702) (uport\ethereum)
 
 #### Estonia[**^**](#Contents)
-* [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) [[id.ee](https://www.id.ee/)]
+* [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) [[**id.ee**](https://www.id.ee/)]
    * [Estonian Blockchain ID Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
 
 ### Blockchain ID Initiatives [**^**](#Contents)
@@ -425,7 +410,8 @@ Blockstack is a network for decentralized applications where users own their ide
 * [The Humanized Internet](http://www.thehumanizedinternet.org/) — "to defend the rights of vulnerable people, and give every human being worldwide secure, sovereign control over their own digital identity."
 * [CheapID](http://guptaoption.com/cheapid/) - identity standard designed for use in conflicted environment like those many refugees or disaster victims may find themselves in.
   * uses [State In A Box - Identity Services Architecture](http://guptaoption.com/4.SIAB-ISA.php)
-* [World Identity Netowork](https://win.systems/)  —Blockchain for Impact [(BFI)-UN]((https://www.pvblic.org/blockchainforimpact))
+* [World Identity Netowork](https://win.systems/)  
+  * Blockchain for Impact [(BFI)-UN]((https://www.pvblic.org/blockchainforimpact))
 
 
 ### Structured Data Standards[**^**](#Contents) 
@@ -437,7 +423,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * DIDs[[**>**](#DID-the-Decentralized-Identifier)] and Verifiable Claims of the W3C [[**>**](#World-Wide-Web-Consortium)]
 
 ### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
-* [Blockstack](https://blockstack.org/) — [[**G**](https://github.com/blockstack)][[**forum**](https://forum.blockstack.org/)][[**B**](https://blockstack.org/blog)][[**T**](https://twitter.com/blockstack)]
+* [Blockstack](https://blockstack.org/) — [[**G**](https://github.com/blockstack)]ithub [[**F**](https://forum.blockstack.org/)]orum [[**B**](https://blockstack.org/blog)]log [[**T**](https://twitter.com/blockstack)]witter
    * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
    * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
 * [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
@@ -453,9 +439,9 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ### Personal Data: Wallets, Marketplaces, etc.[**^**](#Contents)
 
-* [Mydata](http://mydata.org/) [[**T**](https://twitter.com/mydataorg)] [[**papers**](https://mydata.org/papers/)] [[**declaration**](https://mydata.org/declaration/)]
+* [Mydata](http://mydata.org/) [[**T**](https://twitter.com/mydataorg)] [[**D**](https://mydata.org/papers/)] [[**D**](https://mydata.org/declaration/)]
    * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
-   * [Consent](http://www.consent.global/)[[**12**](https://sovrin.org/steward/global-consent/)] — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
+   * [Consent](http://www.consent.global/)[[**ϟ**](https://sovrin.org/steward/global-consent/)] — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
 * [Pillar Project](http://pillarproject.io)  [[**wp**](https://pillarproject.io/documents/Pillar-Gray-Paper.pdf)]
    * planning to offer a "Personal Data Locker" consisting of a wallet, browser, and token exchange. Personal assets will be put on a blockchain, and "Pillar" tokens will be issued."
 * [Aversafe](https://www.aversafe.com/) —"allows individuals to store personal details, work history, certificates and achievements. It leverages a permissioned blockchain for trusted audit and participation in the storage of attestation data separate from the actual data stored"
