@@ -9,7 +9,7 @@
 
 
 **Link Shorthand:**
-[[**T**]()witter][[**G**]()ithub][[**B**]()log][[**wp**]() whitepaper][[**ϟ**]() related resource][[**^**]() back to the contents][[**>**]() related section]
+[[**T**](#Contents)witter][[**G**](#Contents)ithub][[**B**](#Contents)log][[**wp**](#Contents) whitepaper][[**ϟ**](#Contents) related resource][[**^**](#Contents) back to the contents][[**>**](#Contents) related section]
 
 ### Contents
 
