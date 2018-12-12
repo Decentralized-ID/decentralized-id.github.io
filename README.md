@@ -428,8 +428,7 @@ Evident from [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorksho
   * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
 * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
    * [ÆTERNITY](http://aeternity.com/) [[**G**](https://github.com/aeternity/protocol)]: using Schema's standards: "offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema's are used for representing data about persons and organizations."
-* [DIDs the Decentralized Identifiers of the W3C^](#DID-the-Decentralized-Identifier)
-
+* DIDs[[**>**](#DID-the-Decentralized-Identifier)] and Verifiable Claims of the W3C [[**>**](#World-Wide-Web-Consortium)]
 
 ### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
 * [Blockstack](https://blockstack.org/) — [[**G**](https://github.com/blockstack)][[**forum**](https://forum.blockstack.org/)][[**B**](https://blockstack.org/blog)][[**T**](https://twitter.com/blockstack)]
