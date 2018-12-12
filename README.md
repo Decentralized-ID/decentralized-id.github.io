@@ -387,7 +387,7 @@ Blockstack is a network for decentralized applications where users own their ide
 ### Blockchain ID Initiatives [**^**](#Contents)
 * [Danube Tech](http://danubetech.com/) — digital identity and personal data, including personal agents, semantic graphs, and blockchain [[**xdi**](https://xdi2.org)] [[**navigator**](https://github.com/projectdanube/xdi2)]
    * Founded by [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**T**](https://twitter.com/peacekeeper)] [[**G**](https://github.com/peacekeeper)] [[**B**](https://medium.com/@markus.sabadello)]
-* [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e) [[**wired**](https://www.wired.com/story/coinbase-distributed-systems-acquisition/)]
+* [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e) [[**ϟ**](https://www.wired.com/story/coinbase-distributed-systems-acquisition/)]
 * [Shocard](https://shocard.com/) — "Blockchain-Based Mobile Identity Platform"
 * [Authenteq](http://authenteq.com/) [[**T**](https://twitter.com/authenteq)] [[**G**](https://github.com/authenteq)]
   * enables users to create their own sovereign digital IDs which are stored encrypted on [BigChainDB](http://docs.bigchaindb.com)
