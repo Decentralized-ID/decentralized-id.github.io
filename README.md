@@ -8,8 +8,8 @@
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [-Jerry Cuomo](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/) (IBM)
 
 
-**Link Shorthand:**
-[[**T**](#Contents)witter][[**G**](#Contents)ithub][[**B**](#Contents)log][[**wp**](#Contents) whitepaper][[**ϟ**](#Contents) related resource][[**^**](#Contents) back to the contents][[**>**](#Contents) related section]
+##### Link Shorthand:
+[[**T**](#Link-Shorthand)witter][[**G**](#Link-Shorthand)ithub][[**B**](#Link-Shorthand)log][[**wp**](#Link-Shorthand) whitepaper][[**ϟ**](#Link-Shorthand) related resource][[**^**](#Link-Shorthand) back to the contents][[**>**](#Link-Shorthand) related section]
 
 ### Contents
 
