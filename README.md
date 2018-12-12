@@ -98,9 +98,9 @@ In [April of 2014](https://edps.europa.eu/data-protection/data-protection/legisl
 
 ### Bitnation and the United Nations[**^**](#Contents) 
 
-9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*blockchain emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[**ϟ**](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/)] 
+9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*Blockchain Emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[**ϟ**](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/)] 
 
-The same month, the UN unveiled it's *Agenda for Sustainable Development*.
+The same month, the UN unveiled it's *[Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)*:
 
 
 >* Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
@@ -108,11 +108,11 @@ The same month, the UN unveiled it's *Agenda for Sustainable Development*.
 Develop effective, accountable and transparent institutions at all levels
 >* **By 2030, provide legal identity for all, including birth registration**
 >* Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements
-—Excerpt: [Transforming our world: the 2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld) (*emphasis mine*)
+—Excerpt:  (*emphasis mine*)
 
 
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
-* [AID:Tech](https://aid.technology) [[**T**]](https://twitter.com/aidtechnology) — "is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner."
+* [AID:Tech](https://aid.technology) [[**T**]](https://twitter.com/aidtechnology) — "is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner." (another early example of blockchain for humanitarian aide)
 
 ![](http://imgur.com/GdYLQjzl.png)
 
