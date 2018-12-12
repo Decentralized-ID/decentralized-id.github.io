@@ -84,13 +84,12 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
    * [DID auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
    * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md)
-   [[ϟ](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
+   [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] 
    * [uniresolver.io](https://uniresolver.io/)
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID).
 * [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
-
 
 
 
@@ -109,7 +108,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
-*   [[**F**](https://forum.sovrin.org/)orum] [[**C**](https://chat.sovrin.org/)chat][[**T**](https://twitter.com/SovrinID)witter][[**G**](https://github.com/sovrin-foundation/sovrin)ithub]
+*   [[**F**](https://forum.sovrin.org/)orum] [[**C**](https://chat.sovrin.org/)hat][[**T**](https://twitter.com/SovrinID)witter][[**G**](https://github.com/sovrin-foundation/sovrin)ithub]
 * [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
  Foundation is creating a public instance of the Sovrin\Indy codebase; initially developed by [Evernym](#Evernym)
 * [Sovrin Library](https://sovrin.org/library/)
@@ -167,7 +166,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 | [Tykn](https://tykn.tech/)
 | [Veridium](https://veridiumid.com/)
 
-#### Selected articles Windley.com [**^**](#Contents)
+#### Selected articles Windley.com [[**^**](#Contents)]
 
 * [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
 * [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
@@ -205,7 +204,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation](https://www.iacr.org/archive/eurocrypt2001/20450093.pdf)
 * [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 
-##### IDEMix[**^**](#Contents)
+#### IDEMix[**^**](#Contents)
 * [What Zero Knowledge Poof Algorithm is used in Sovrin?](https://forum.sovrin.org/t/what-zero-knowledge-proof-algorithm-is-used-in-sovrin/71/2)
 * [How is IDEMix Implemented in Sovrin\Indy?](https://forum.sovrin.org/t/how-idemex-is-implemented-in-sovrin-indy)
 * [idemix in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.3/idemix.html)
