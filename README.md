@@ -9,7 +9,8 @@
 
 
 ##### Link Shorthand:
-[[**T**](#Link-Shorthand)witter][[**G**](#Link-Shorthand)ithub][[**B**](#Link-Shorthand)log][[**wp**](#Link-Shorthand) whitepaper][[**ϟ**](#Link-Shorthand) related resource][[**^**](#Link-Shorthand) back to the contents][[**>**](#Link-Shorthand) related section]
+[[**T**](#Link-Shorthand)]witter [[**G**](#Link-Shorthand)]ithub [[**B**](#Link-Shorthand)]log [[**wp**](#Link-Shorthand)] whitepaper [[**D**](#Link-Shorthand)]ocumentation [[**F**](#Link-Shorthand)]orums [[**C**](#Link-Shorthand)]hat \
+[[**ϟ**](#Link-Shorthand)] related resource [[**>**](#Link-Shorthand)] related section [[**^**](#Link-Shorthand)] back to the contents.
 
 ### Contents
 
@@ -401,10 +402,8 @@ Evident from [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorksho
 * [JLinc](https://www.jlinc.com/) — registers cryptographic public keys on the Stellar blockchain. 
    > "The founders have been at the center of a community of developers working on “user-centric digital identity for almost two decades."
 * [Internet of People](https://iop.global/) — "an open, decentralized infrastructure consisting of device-to-device communication, blockchain tokens, profile servers, and other components." -Founded by [Fermat](http://www.fermat.org)
-* [Blockchain Helix](http://blockchain-helix.com)[[**ico**](https://ico.helix-orange.com/)][[**wp**](https://ico.helix-orange.com/wp-content/uploads/2018/08/HELIX-Orange_Whitepaper_v1.5.pdf)]
-   * "Identity as a Service", "Data as a Service" and "Blockchain as a Service" The company offers to increase the speed of KYC/AML processes while hughly decreasing the cost 
 * [Civic](https://www.civic.com/) launches: [identity.com](https://identity.com)[[**G**](https://github.com/identity-com/)][[**B**](https://www.civic.com/blog/identity-com-first-open-source-update/)]
-* [Mooti](https://mooti.co/) | [docs](https://docs.mooti.co/)
+* [Mooti](https://mooti.co/) [[**D**](https://docs.mooti.co/)]
    * offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features
 * [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
