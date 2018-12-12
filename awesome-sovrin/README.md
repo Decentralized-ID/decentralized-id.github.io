@@ -4,12 +4,13 @@
 Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
 However, this one contains attitional material about Evernym, Sovrin, and Hyperledger Indy.
 
-For anyone who wants to think about indy\sovrin-related things without all the noise.
+For anyone who wants to think just about indy\sovrin-related things without all the noise.
+Since its all related, some jumping back and might be required, but I think its good to have this page "just for Indy" and not so much about other DID solutions.
 
 Pull Requests Welcome.
 
 ##### Link Shorthand:
-[[**T**](#Link-Shorthand)]witter [[**G**](#Link-Shorthand)]ithub [[**B**](#Link-Shorthand)]log [[**wp**](#Link-Shorthand) ] whitepaper [[**D**](#Link-Shorthand)]ocumentation [[**F**](#Link-Shorthand)]orums [[**C**](#Link-Shorthand)]hat [[**ϟ**](#Link-Shorthand)] related resource [[**^**](#Link-Shorthand)] back to the contents [[**>**](#Link-Shorthand)] related section.
+[[**T**](#Link-Shorthand)]witter [[**G**](#Link-Shorthand)]ithub [[**B**](#Link-Shorthand)]log [[**wp**](#Link-Shorthand)] whitepaper [[**D**](#Link-Shorthand)]ocumentation [[**F**](#Link-Shorthand)]orums [[**C**](#Link-Shorthand)]hat [[**ϟ**](#Link-Shorthand)] related resource [[**^**](#Link-Shorthand)] back to the contents [[**>**](#Link-Shorthand)] related section.
 
 
 ### Contents
