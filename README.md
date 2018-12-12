@@ -61,7 +61,7 @@ I'm also working on [/awesome-sovrin](https://github.com/infominer33/awesome-dec
 
 For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. This is a work in progress, that I expect to be actively engaged with for the next month or so. Within that time it should become a more organized space, and easier for contributors to get involved.
 
-**Pull Requests Welcome**
+**[Pull Requests Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)**
 
 
 ## History[**^**](#Contents)
