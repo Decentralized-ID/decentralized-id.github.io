@@ -11,7 +11,7 @@ Pull Requests Welcome.
 
 ##### Link Shorthand:
 [[**T**](#Link-Shorthand)]witter [[**G**](#Link-Shorthand)]ithub [[**B**](#Link-Shorthand)]log [[**wp**](#Link-Shorthand)] whitepaper [[**D**](#Link-Shorthand)]ocumentation [[**F**](#Link-Shorthand)]orums [[**C**](#Link-Shorthand)]hat \
-[[**ϟ**](#Link-Shorthand)] related resource [[**^**](#Link-Shorthand)] back to the contents [[**>**](#Link-Shorthand)] related section.
+[[**ϟ**](#Link-Shorthand)] related resource [[**>**](#Link-Shorthand)] related section [[**^**](#Link-Shorthand)] back to the contents.
 
 
 ### Contents
