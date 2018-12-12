@@ -150,6 +150,8 @@ Evident from [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorksho
    >"Respect Network is conducting a research project for the [U.S. Department of Homeland Security](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology), HSHQDC-16-C-00061, to analyze the applicability of blockchain technologies to a decentralized identifier system. Our thesis is that blockchains, or more generically distributed ledgers, are a potentially powerful new tool for “identity roots” — the starting points for an Internet identity. However “blockchain identity” may not fully address the core security and privacy principles needed in a complete identity system. In this case DIDs — Decentralized Identifiers rooted on a distributed ledger — may end up being a foundational building block for higher level identity management solutions. -
 * At this point in time DLT innovation, the United Nations Sustainable Development Goals, and the EU GDPR all came together supporting a core identirati tenant: Eliminating id data silos and empowering users regarding digital identity. 
 
+![](https://i.imgur.com/XtZQg0j.png)
+[The Story of Open SSI Standards - Drummond Reed/Evernym](https://www.youtube.com/watch?v=RllH91rcFdE)
 
 ### Decentralized Identity Foundation[**^**](#Contents) 
 
@@ -240,8 +242,6 @@ Blockstack is a network for decentralized applications where users own their ide
 * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
 * [Interplanetary Identifiers IPID](https://github.com/jonnycrunch/ipid) - Implementation of the DID spec over IPFS (Interplanetary File System) 
 * [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
-
-![](https://i.imgur.com/XtZQg0j.png)
 
 
 #### DID Auth[**^**](#Contents) 
