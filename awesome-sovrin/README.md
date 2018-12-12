@@ -108,7 +108,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
-*   [[**F**](https://forum.sovrin.org/)orum] [[**C**](https://chat.sovrin.org/)hat][[**T**](https://twitter.com/SovrinID)witter][[**G**](https://github.com/sovrin-foundation/sovrin)ithub]
+* [[**F**](https://forum.sovrin.org/)]orum [[**C**](https://chat.sovrin.org/)]hat [[**T**](https://twitter.com/SovrinID)]witter [[**G**](https://github.com/sovrin-foundation/sovrin)]ithub 
 * [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
  Foundation is creating a public instance of the Sovrin\Indy codebase; initially developed by [Evernym](#Evernym)
 * [Sovrin Library](https://sovrin.org/library/)
@@ -193,6 +193,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
 * [Ernesto.net - What goes on the Ledger](https://www.ernesto.net/ernesto-net-5-minute-course-on-indy-and-what-goes-on-the-blockchain-ledger/)
 * [Ernesto.net - Hyperledger Indy Architecture](https://www.ernesto.net/hyperledger-indy-architecture/)
+* [github.com/IBM-Blockchain-Identity](https://github.com/IBM-Blockchain-Identity) (Docker based tutorial sandbox env)
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section about Indy.
 
 #### Additional Indy Related[**^**](#Contents) 
@@ -279,7 +280,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [U.S. Department of Homeland Security funds four Blockchains](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology)
 * [IBM-Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
 * [SecureKey](http://securekey.com/): [partners with IBM](http://www-03.ibm.com/press/us/en/pressrelease/51841.wss) to enable a new digital identity and attribute sharing network based on Hyperledger Fabric blockchain.
-* Microsoft: [Decentralized Identity—Own and control your identity](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY) [[Coindesk](https://www.coindesk.com/microsoft-is-pushing-new-blockchain-id-products-but-theres-pushback-too)]
+* Microsoft: [Decentralized Identity—Own and control your identity](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY) [[**ϟ**](https://www.coindesk.com/microsoft-is-pushing-new-blockchain-id-products-but-theres-pushback-too)]
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e) 
 
 ![](http://imgur.com/PXGV6Xyl.png)
