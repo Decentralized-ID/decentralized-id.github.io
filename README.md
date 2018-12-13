@@ -1,7 +1,5 @@
-# Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
 **DID, Blockchain and Self-Sovereign Identity Resources**
-<a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
-
 
 ![](https://i.imgur.com/9KpJRDr.png)
 
@@ -37,9 +35,9 @@
   * [The Sovrin Foundation](#The-Sovrin-Foundation)
      * [Windley.com](#The-Sovrin-Foundation)
   * [Hyperledger Indy](#Hyperledger-Indy)
-  * [IBM](#IBM)
   * [Decentralized Public Key Infrastructure (DPKI)](#Decentralized-Public-Key-Infrastructure-DPKI)
   * [Structured Data Standards](#Structured-Data-Standards)
+  * [IBM](#IBM)
   * [Ethereum—Protocol](#Ethereum)
      * [Ethereum Apps](#Ethereum-Identity-Applications)
   * [Personal Data: Wallets, Marketplaces, etc](#Personal-Data-Wallets-Marketplaces-etc)  
