@@ -69,7 +69,8 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [When GDPR Becomes Real, and Blockchain is no longer fairydust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
 * [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
 
-![](http://imgur.com/Lz6RTysl.png)
+![](http://imgur.com/6MLNgXal.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 ### W3C and DID Related Standards[**^**](#Contents)
 
@@ -77,7 +78,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 
-![](http://imgur.com/6MLNgXal.png)\
+![](https://i.imgur.com/XtZQg0j.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 #### DID the Decentralized Identifier[**^**](#Contents) 
