@@ -33,6 +33,7 @@
     * [Hubs-Agents](#Hubs-Agents)
     * [Universal Resolver](#Universal-Resolver)
     * [Decentralized Key Managment DKMS](#Decentralized-Key-Management-DKMS)
+  * [**/awesome-sovrin**](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin/README.md) (takes you to another page)
   * [Evernym](#Evernym)
   * [The Sovrin Foundation](#The-Sovrin-Foundation)
      * [Windley.com](#The-Sovrin-Foundation)
