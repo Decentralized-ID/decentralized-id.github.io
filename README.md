@@ -151,7 +151,7 @@ Evident from other [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignW
 * At this point in time DLT innovation, the United Nations Sustainable Development Goals, and the EU GDPR all came together supporting a core identirati tenant: Eliminating id data silos and empowering users regarding digital identity. 
 
 ![](https://i.imgur.com/XtZQg0j.png)\
-[The Story of Open SSI Standards - Drummond Reed/Evernym](https://www.youtube.com/watch?v=RllH91rcFdE)
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 ### Decentralized Identity Foundation[**^**](#Contents) 
 
@@ -213,8 +213,8 @@ Evident from other [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignW
 * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
 * [DIGITAL VERIFICATION COMMUNITY GROUP](https://www.w3.org/community/digital-verification/)[[**G**](https://sea-region.github.com/w3c-dvcg)]
 
-![](http://imgur.com/6MLNgXal.png)
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>
+![](http://imgur.com/6MLNgXal.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 #### DID the Decentralized Identifier[**^**](#Contents) 
 
@@ -253,14 +253,15 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e) 
 
 
-![](https://i.imgur.com/FBe3S0w.png)
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>
+![](https://i.imgur.com/FBe3S0w.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 #### DID Auth[**^**](#Contents) 
    * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
    * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md) [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
 
-![](https://i.imgur.com/5R51G4Y.png)
+![](https://i.imgur.com/5R51G4Y.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 
 #### Verifiable Claims[**^**](#Contents) 
@@ -268,8 +269,8 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
 
 
-![](http://imgur.com/XMaq5cil.png)
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>
+![](http://imgur.com/XMaq5cil.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 #### Hubs-Agents[**^**](#Contents) 
 
@@ -285,8 +286,8 @@ Blockstack is a network for decentralized applications where users own their ide
 #### Decentralized Key Management DKMS[**^**](#Contents)
 * [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
 
-![](https://i.imgur.com/xmWkc4l.png)
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>
+![](https://i.imgur.com/xmWkc4l.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 ### Evernym[**^**](#Contents)
 
