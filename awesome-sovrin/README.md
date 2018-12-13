@@ -17,8 +17,12 @@ Pull Requests Welcome.
 ### Contents
 * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
 * [GDPR](#EU-General-Data-Protection-Regulation-Act)
-* [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
-  * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier) 
+* [W3C and DID standards](#W3C-and-DID-standards)
+  * [DID and Company](#DID-and-Company)
+  * [Verifiable Claims](#Verifiable-Claims)
+  * [Hubs-Agents](#Hubs-Agents)
+  * [DID Auth](#DID-Auth)
+* [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
 * [Evernym](#Evernym)
 * [The Sovrin Foundation](#The-Sovrin-Foundation)
   * [Sovrin Stewards](#Sovrin-Stewards)
@@ -28,12 +32,14 @@ Pull Requests Welcome.
    * [Idemix](#IDEMix)
 * [Video](#Video)
 * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
-  * [RWoT Use Cases](#RWoT-Use-Cases) -infographic workflow
-* [Evernym\Sovrin\Indy Adoption](#Evernym\Sovrin\Indy-Adoption)
-* [DID Adoption](#DID-Adoption)
-  * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
+  * [RWoT Use Cases](#RWoT-Use-Cases)
+* [Evernym-Sovrin-Indy Adoption](#Evernym-Sovrin-Indy-Adoption)
+* [Research Papers](#Research-Papers)
 * [Reports](#Reports)
+* [Videos](#Video)
+* [Podcasts](#Podcasts)
 * [Sources](#Sources)
+
 
 ![](http://imgur.com/3zz62kpl.png)
 
@@ -69,9 +75,10 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 
 
-### DID and Company[**^**](#Contents) 
+#### DID and Company[**^**](#Contents) 
 
-* [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/) [[**ϟ**](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf)]
+* [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
+* [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
   * Authors:
      * Drummond Reed (Evernym)
      * Manu Sporny (Digital Bazaar)
@@ -80,17 +87,19 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
      * Ryan Grant
      * Markus Sabadello (Danube Tech)
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
-* [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf) 
+* [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
+* [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
 * [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
-* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] 
-   * [uniresolver.io](https://uniresolver.io/)
+* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)]
+  * [uniresolver.io](https://uniresolver.io/)
 
-#### Verifiable Claims
+
+#### Verifiable Claims[**^**](#Contents) 
 * [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**D**](https://www.w3.org/2017/vc/charter.html)]
 * [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**ϟ**](https://w3c.github.io/vc-use-cases/)]
 
 
-#### Hubs \ Agents
+#### Hubs-Agents[**^**](#Contents) 
 * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
 
@@ -258,7 +267,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
 
 
-### Evernym\Sovrin\Indy Adoption[**^**](#Contents)
+### Evernym-Sovrin-Indy Adoption[**^**](#Contents)
 
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](#Canada)]
    * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**]](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims.
@@ -286,10 +295,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Legal Entity Identifier blockchained by a Hyperledger Indy implementation of GraphChain](http://www.graphchain.io/MTSR2018.pdf)
   >The main idea behind GraphChain is to use blockchain mechanisms on top of an abstract RDF graphs. This paper presents an implementation of GraphChain in the Hyperledger Indy framework. The whole setting is shown to be applied to the RDF graphs containing information about Legal Entity Identifiers (LEIs).
 
-
-
-
-### Research Papers
+### Research Papers[**^**](#Contents)
 * [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin)
 * [Evernym Research Collection *2016 Archive*](https://web.archive.org/web/20170206161655/http://www.evernym.com/our-research/)
 
@@ -310,7 +316,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Architectural Overview of Indy Wallets](https://www.youtube.com/watch?v=Km4IoUdb3Lc)
 * [Indy Demo by IBM](https://www.youtube.com/watch?v=cz-6BldajiA)
 
-### Podcasts
+### Podcasts[**^**](#Contents)
 * [MyData Podcast](https://mydata.org/podcast/)
 
 ### Sources[**^**](#Contents)
