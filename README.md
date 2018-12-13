@@ -73,7 +73,7 @@ For now, I'm becoming more familiar with all of this material, and how it fits t
 * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
 * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
 
-This isn't a firm historical outline, just enough to provide context for the rest.
+This isn't meant to be a complete historical outline, just enough iiw\rwot backround to provide context for the rest.
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
