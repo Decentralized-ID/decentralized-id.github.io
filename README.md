@@ -62,7 +62,7 @@
 
 In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an [awesome list](https://github.com/sindresorhus/awesome) out of them sooner than a live demo of the app that is in progress. Now, of course, there are many more links than I began with; and it was already a bit more expansive than typical Awesome lists, then. Pehaps this would be better called "epic-decentralized-id" or is that too much?  
 
-I'm also working on [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin/README.md) as a place to focus more on the Sovrin\Indy protocol and ecosystem, and have spent some time doing upkeep on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/). I hope for these lists to compliment each-other. 
+I'm also working on [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/) as a place to focus more on the Sovrin\Indy protocol and ecosystem, and have spent some time doing upkeep on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/). I hope for these lists to compliment each-other. 
 
 For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. This is a work in progress, that I expect to be actively engaged with for the next month or so. Within that time it should become a more organized space, and easier for contributors to get involved.
 
@@ -294,7 +294,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Identity System Essentials](https://www.evernym.com/wp-content/uploads/2017/02/Identity-System-Essentials.pdf) (Original Evernym Identity WP submitted to ID2020\RWoT) 3/2016
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186) 
 * [RWoT—Decentralized Key Management System](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/topics-and-advance-readings/dkms-decentralized-key-mgmt-system.md)
-* [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin) **See here for additional Evernym-Indy related material.**
+* [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/) **See here for additional Evernym-Indy related material.**
 
 ![](https://cdn-images-1.medium.com/max/800/0*uVmDqgtCxuoeylQ4.png)
 
@@ -309,7 +309,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 * [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/)
 * [How Sovrin Works—A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
-* [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin) - **See here for additional Sovrin related material.**
+* [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/) - **See here for additional Sovrin related material.**
 
 #### Selected articles from Windley.com [**^**](#Contents)
 * [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
@@ -339,7 +339,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](https://github.com/infominer33/awesome-decentralized-id#canada-)]
    * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims."
    * [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
-* [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin) - **See here for additional indy related material.**
+* [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/) - **See here for additional indy related material.**
 
 ### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
 * [Blockstack](https://blockstack.org/) — [[**G**](https://github.com/blockstack)]ithub [[**F**](https://forum.blockstack.org/)]orum [[**B**](https://blockstack.org/blog)]log [[**T**](https://twitter.com/blockstack)]witter
@@ -568,7 +568,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [MyData Podcast](https://mydata.org/podcast/)
 
 ### Sources[**^**](#Contents)
-* [/awesome-sovrin](https://github.com/infominer33/awesome-decentralized-id/tree/master/awesome-sovrin)
+* [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/)
 * [IIW-Wiki](http://iiw.idcommons.net/Main_Page)
 * [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
