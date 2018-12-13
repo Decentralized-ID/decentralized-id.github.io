@@ -35,11 +35,7 @@ Pull Requests Welcome.
 * [Evernym-Sovrin-Indy Adoption](#Evernym-Sovrin-Indy-Adoption)
 * [Research Papers](#Research-Papers)
 * [Reports](#Reports)
-<<<<<<< HEAD
 * [Videos](#Video)
-=======
-* [Video](#Video)
->>>>>>> 3c23fef598293780827af6925fc6744d613536a3
 * [Podcasts](#Podcasts)
 * [Sources](#Sources)
 
@@ -261,7 +257,6 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
 
 ### RWoT Use Cases[**^**](#Contents)
-—infogrphic workflow examples 
 * [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)
 * [Re-Imagining What Users Really Want](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/what-users-really-want.md)
 * [Joram 1.0.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/joram-engagement-model.pdf)
