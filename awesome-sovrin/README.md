@@ -1,5 +1,6 @@
-# Awesome Evernym, Sovrin, and Hyperledger Indy Resources.
+# Awesome Evernym, Sovrin, and Hyperledger Indy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 **Protocol, Governance, and Immediately Surrounding Ecosystem** 
+<a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
 
 Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
 However, this one contains attitional material about Evernym, Sovrin, and Hyperledger Indy.
