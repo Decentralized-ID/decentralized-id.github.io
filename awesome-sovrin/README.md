@@ -345,12 +345,12 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [/blockchain-id.toml](/blockchain-id.toml)
 
-### Brought to you by: [The Crypto Library—Super Source](https://github.com/infominer33/Crypto-library)
+#### Brought to you by The [Crypto Library](crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
- 
-![](http://imgur.com/xMd9r0rl.png)       ![http://crypt0library.net](http://imgur.com/0rvKAhll.png)
+
+![](http://imgur.com/yXLLm9Bl.png) 
 
 DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
 
-![](https://i.imgur.com/0zBLoUP.png)
+![](https://i.imgur.com/0zBLoUP.png) [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
