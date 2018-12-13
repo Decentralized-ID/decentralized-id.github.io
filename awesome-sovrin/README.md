@@ -225,7 +225,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ![](https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png)
 
 ![](http://imgur.com/2LWlrgvl.png)\
-[Linux Foundation -Blockchain for Business -INDY](https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies)
+<sup><a href="https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies">Linux Foundation -Blockchain for Business -INDY</a></sup>
 
 * [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**T**](https://twitter.com/Hyperledger)] [[**G**](https://github.com/hyperledger/indy-sdk)]
 * [Hyperledger Indy — the Future of Decentralized Identity](https://medium.com/axiom-tech/hyperledger-indy-the-future-of-decentralized-identity-9de5c2459e4e)
