@@ -25,8 +25,8 @@
   * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
   * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
     * [RWoT Use Cases](#RWoT-Use-Cases) 
-  * [W3C and DID standards](#W3C-and-DID-standards)
-    * [DID and Company](#DID-and-Company)
+  * [W3C and DID Related Standards](#W3C-and-DID-Related-Standards)
+    * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier)
     * [Hubs-Agents](#Hubs-Agents)
     * [DID Auth](#DID-Auth) 
     * [Verifiable Claims](#Verifiable-Claims)
@@ -204,8 +204,7 @@ Evident from other [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignW
 
 ![](http://imgur.com/Lz6RTysl.png)
 
-### W3C DID and Related Data Standards[**^**](#Contents)
-
+### W3C and DID Related Standards[**^**](#Contents)
 
 * [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
 * [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
@@ -216,7 +215,7 @@ Evident from other [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignW
 ![](http://imgur.com/6MLNgXal.png)
 
 
-#### DID and Company[**^**](#Contents) 
+#### DID the Decentralized Identifier[**^**](#Contents) 
 
 * [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
