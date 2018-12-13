@@ -19,25 +19,29 @@
   * [Internet Identity Workshop—IIW](#Internet-Identity-Workshop) 
   * [#Rebooting-Web-of-Trust (RWoT)](#Rebooting-the-Web-Of-Trust)
   * [Bitnation and the United Nations](#Bitnation-and-the-United-Nations)
-    * [ID2020 and the GDPR](#ID2020-and-the-GDPR)
+  * [ID2020 and the GDPR](#ID2020-and-the-GDPR)
   * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation)
- * [Resources](#Resources)
-   * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
-   * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
-      * [RWoT Use Cases](#RWoT-Use-Cases) 
-   * [World Wide Web Consortium—W3C](#World-Wide-Web-Consortium)
-     * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier) 
-   * [Evernym](#Evernym)
-   * [The Sovrin Foundation](#The-Sovrin-Foundation)
+* [Resources](#Resources)
+  * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
+  * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
+    * [RWoT Use Cases](#RWoT-Use-Cases) 
+  * [W3C and DID standards](#W3C-and-DID-standards)
+    * [DID and Company](#DID-and-Company)
+    * [Hubs-Agents](#Hubs-Agents)
+    * [DID Auth](#DID-Auth) 
+    * [Verifiable Claims](#Verifiable-Claims)
+    * [DID Adoption](#DID-Adoption)
+  * [Evernym](#Evernym)
+  * [The Sovrin Foundation](#The-Sovrin-Foundation)
      * [Windley.com](#The-Sovrin-Foundation)
-   * [Hyperledger Indy](#Hyperledger-Indy)
-   * [IBM](#IBM)
-   * [Ethereum—Protocol](#Ethereum)
+  * [Hyperledger Indy](#Hyperledger-Indy)
+  * [IBM](#IBM)
+  * [Ethereum—Protocol](#Ethereum)
      * [Ethereum Apps](#Ethereum-Identity-Applications)
-   * [State Sanctioned Identity Initiatives](#State-Led-Initiatives)
-   * [Assorted Decentralized \ Blockchain ID Related](#Assorted-Decentralized-\-Blockchain-ID-Related)
-   * [Humanitarian](#Humanitarian)
-   * [Structured Data Standards](#Structured-Data-Standards)
+  * [State Sanctioned Identity Initiatives](#State-Led-Initiatives)
+  * [Assorted Decentralized \ Blockchain ID Related](#Assorted-Decentralized-\-Blockchain-ID-Related)
+  * [Humanitarian](#Humanitarian)
+  * [Structured Data Standards](#Structured-Data-Standards)
    * [Decentralized Public Key Infrastructure (DPKI)](#Decentralized-Public-Key-Infrastructure-DPKI)
    * [Personal Data: Wallets, Marketplaces, etc](#Personal-Data-Wallets-Marketplaces-etc)
    * [GDPR](#EU-General-Data-Protection-Regulation-Act)
@@ -49,7 +53,7 @@
 
    
 
-### A Note from the Editor[**^**](#Contents)
+## A Note from the Editor[**^**](#Contents)
 
 >Thanks to those who are working to make our identity experience, and the internet, a better place.
 
@@ -101,16 +105,11 @@ In [April of 2014](https://edps.europa.eu/data-protection/data-protection/legisl
 9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*Blockchain Emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[**ϟ**](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/)] 
 
 The same month, the UN unveiled it's *[Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)*:
-
-
->* Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
->* Substantially reduce corruption and bribery in all their forms
+  >* Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
+  >* Substantially reduce corruption and bribery in all their forms
 Develop effective, accountable and transparent institutions at all levels
->* **By 2030, provide legal identity for all, including birth registration**
->* Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements
-—Excerpt:  (*emphasis mine*)
-
-
+  >* **By 2030, provide legal identity for all, including birth registration**
+  >* Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements—(*emphasis mine*)
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
 * [AID:Tech](https://aid.technology) [[**T**]](https://twitter.com/aidtechnology) — "is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner." (another early example of blockchain for humanitarian aide)
 
@@ -165,7 +164,7 @@ Evident from other [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignW
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c)  [[**>**](#DID-Auth)]
   * [Uniresolver.io](https://uniresover.io)
-  
+
 
 ## Resources
 
@@ -203,15 +202,13 @@ Evident from other [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignW
 * [Protecting Digital Identities in Developing Countries](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)
 * [Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
 
-
-### World Wide Web Consortium[**^**](#Contents)
-
 ![](http://imgur.com/Lz6RTysl.png)
+
+### W3C DID and Related Data Standards[**^**](#Contents)
+
 
 * [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
 * [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
-* [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**D**](https://www.w3.org/2017/vc/charter.html)]
-* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
 * [DIGITAL VERIFICATION COMMUNITY GROUP](https://www.w3.org/community/digital-verification/)[[**G**](https://sea-region.github.com/w3c-dvcg)]
@@ -219,7 +216,7 @@ Evident from other [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignW
 ![](http://imgur.com/6MLNgXal.png)
 
 
-#### DID the Decentralized Identifier[**^**](#Contents) 
+#### DID and Company[**^**](#Contents) 
 
 * [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
@@ -233,12 +230,13 @@ Evident from other [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignW
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
 * [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
+* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)]
   * [uniresolver.io](https://uniresolver.io/)
 
 
 
-#### Hubs \ Agents
+#### Hubs \ Agents[**^**](#Contents) 
 
 * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
@@ -247,6 +245,10 @@ Evident from other [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignW
 #### DID Auth[**^**](#Contents) 
    * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
    * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md) [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
+
+#### Verifiable Claims[**^**](#Contents) 
+* [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**D**](https://www.w3.org/2017/vc/charter.html)]
+* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
 
 
 #### DID Adoption [**^**](#Contents)
