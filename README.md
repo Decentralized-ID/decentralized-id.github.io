@@ -270,20 +270,6 @@ Blockstack is a network for decentralized applications where users own their ide
 
 ![](http://imgur.com/XMaq5cil.png)
 
-### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
-* [Blockstack](https://blockstack.org/) — [[**G**](https://github.com/blockstack)]ithub [[**F**](https://forum.blockstack.org/)]orum [[**B**](https://blockstack.org/blog)]log [[**T**](https://twitter.com/blockstack)]witter
-   * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
-   * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
-* [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
-* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
-* [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
-* [KeyChains: A Decentralized Public-Key Infrastructure](https://drum.lib.umd.edu/bitstream/handle/1903/3332/0.pdf?sequence=1&isAllowed=y)
-* [ClaimChain: Decentralized Public Key Infrastructure](https://www.researchgate.net/publication/318584251_ClaimChain_Decentralized_Public_Key_Infrastructure)
-* [A Decentralized Public Key Infrastructure with Identity Retention](https://eprint.iacr.org/2014/803.pdf)
-* [Privacy based decentralized Public Key Infrastructure
-(PKI) implementation using Smart contract in
-Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)
-
 
 ### Evernym[**^**](#Contents)
 
@@ -442,6 +428,20 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
   * uses [State In A Box - Identity Services Architecture](http://guptaoption.com/4.SIAB-ISA.php)
 * [World Identity Netowork](https://win.systems/)  
   * Blockchain for Impact [(BFI)-UN]((https://www.pvblic.org/blockchainforimpact))
+
+### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
+* [Blockstack](https://blockstack.org/) — [[**G**](https://github.com/blockstack)]ithub [[**F**](https://forum.blockstack.org/)]orum [[**B**](https://blockstack.org/blog)]log [[**T**](https://twitter.com/blockstack)]witter
+   * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
+   * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
+* [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
+* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
+* [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
+* [KeyChains: A Decentralized Public-Key Infrastructure](https://drum.lib.umd.edu/bitstream/handle/1903/3332/0.pdf?sequence=1&isAllowed=y)
+* [ClaimChain: Decentralized Public Key Infrastructure](https://www.researchgate.net/publication/318584251_ClaimChain_Decentralized_Public_Key_Infrastructure)
+* [A Decentralized Public Key Infrastructure with Identity Retention](https://eprint.iacr.org/2014/803.pdf)
+* [Privacy based decentralized Public Key Infrastructure
+(PKI) implementation using Smart contract in
+Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)
 
 ### Structured Data Standards[**^**](#Contents) 
 
