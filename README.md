@@ -85,10 +85,9 @@ IIW participants began the effort towards creating a truly "[user centric identi
 * [Not Just Who They Say We Are: Claiming our identity on the Internet](https://vimeo.com/207961532)- short film on the “Identerati” of the IIW[[**ϟ**](https://www.prweb.com/releases/identitymovie/iiw2017/prweb14161721.htm)]
    * [identirati](https://www.zdnet.com/article/the-identity-silo-paradox/)[[**ϟ**](https://www.forgerock.com/blog/who-are-the-identerati)] is a term for those working on standards and methods based on the premise of opening up id data silos, dating back to at least 2006:
 * **More information** on iid standards history: 
-  * **[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** ϟ **[identitywoman.net](https://identitywoman.net/)** ϟ **[windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)** ϟ **[WoTinfo](https://github.com/WebOfTrustInfo/)**
   * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
   * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
-
+  * **[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** ϟ **[identitywoman.net](https://identitywoman.net/)** ϟ **[windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)** ϟ **[WoTinfo](https://github.com/WebOfTrustInfo/)**
 
 In [April of 2014](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en), the European Parliament demonstrates strong support for the GDPR, which passes back and forth through the European Council, Commision and Parliment throught the rest of the year.
 
@@ -133,7 +132,7 @@ At the end of 2015, the Department of Homeland Security announced that it had fu
 ![](http://imgur.com/ymviAssl.png)
 
 * [4/16](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en) the EU adopted the GDPR, to be enacted as law May 2018. 
-* The second RWoT workshop ran in conjunction with the UN's [ID2020](https://id2020.org/) Summit in New York that [May](https://press.pwc.com/News-releases/id2020-to-kick-start-digital-identity-summit-at-un-with-pwc-support./s/9fe11be5-cbd8-486b-b4d2-d798f486d0f2) and was clearly a significant time for decentralized identity: 
+* The second RWoT workshop ran in conjunction with the UN's [ID2020](https://id2020.org/) Summit in New York that [May](https://press.pwc.com/News-releases/id2020-to-kick-start-digital-identity-summit-at-un-with-pwc-support./s/9fe11be5-cbd8-486b-b4d2-d798f486d0f2); clearly a significant time for decentralized identity: 
    >1.1 Billion people live without an officially recognized identity — This lack of recognized identification deprives them of protection, access to services, and basic rights. ID2020 is a public-private partnership dedicated to solving the challenges of identity for these people through technology. - id2020.org
 * [Identity Crisis: Clear Identity through Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)
 * [Christopher Allen](http://www.lifewithalacrity.com/)[[**T**](https://twitter.com/ChristopherA)][[**G**](https://github.com/ChristopherA)] details the overarching history of internet idenitity standards in his seminal work (submitted to ID2020\RWoT workshop):
