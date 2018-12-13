@@ -6,5 +6,5 @@ I think I need to remove links from [awesome-decentralized-id](https://github.co
 
 I'm gradually getting more familiar with the material and learning how it all fits together. Feel free to share your ideas too.
 
-Always interested to connect with other crypto-nerds, writers, and usually I hang out with developers. These lists serve as a great tool for writing and I've thought from the beginning that other writers writers and research enthusiasts would find value in the [Crypto-library](https://github.com/infominer33/Crypto-library).
+Always interested to connect with other crypto-nerds, writers, and usually I hang out with developers. These lists serve as a great tool for writing. I've thought from the beginning that other writers writers and research enthusiasts would find value in the [Crypto-library](https://github.com/infominer33/Crypto-library).
 
