@@ -47,6 +47,7 @@
   * [GDPR](#EU-General-Data-Protection-Regulation-Act)
   * [Reports](#Reports)
   * [Research Papers](#Research-Papers)
+  * [Additional Thought around Identity](#Additional-Thought-around-Identity)
   * [Videos](#Video)
   * [Podcasts](#Podcasts)
   * [Sources](#Sources)
@@ -516,17 +517,6 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [A Comprehensive Guide to Self Sovereign Identity](https://ssiscoop.com/) - by Kaliya ['Identity Woman'](https://twitter.com/IdentityWoman) Young and [Heather Vescent](https://twitter.com/heathervescent)
 
 
-### Assorted Thoughts
-* [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
-   >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
-   * [Maciek Laskus ϟ BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
-   * "[I designed](https://twitter.com/MaciekLaskus/status/1066780557906976768) an algorithm that mapped out people working on identity using Twitter data:" [Identity list](https://docs.google.com/spreadsheets/d/1hBBVA0-jqmRRZ_JFQ8HEck9tFub7crsqRzlBZWf01xg/edit?usp=sharing)
-* [Proof of Thought (PoT)](https://bitcointalk.org/index.php?topic=4459113.0)
-* [Queer Privacy](https://leanpub.com/queerprivacy)
-   >Stories about using the Internet as a tool to find out more about yourself, and as a tool to express and empower; about the dangers of Internet censorship and about the practical realities of maintaining multiple distinct digital identities. 
-* [@SarahJamieLewis Twitter thread on Identity](https://twitter.com/SarahJamieLewis/status/1041043532654542848)
-   >Any technology which relies on the existence of, or attempts to create a, global, unique identity is oppressive by design. Stop" innovating" oppressive structures.
-
 
 ### Research-Papers[**^**](#Contents)
 * [Establishing Identity Without Certification Authorities](http://irl.cs.ucla.edu/~yingdi/pub/papers/Ellison-OldFriend-USENIX-Security-1996.pdf)
@@ -539,6 +529,17 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin)
 * [Blockchain for Identity Management](https://www.cs.bgu.ac.il/~frankel/TechnicalReports/2016/16-02.pdf) - Details early efforts towards Blockchain-ID
 * [Evernym Research Collection *2016 Archive*](https://web.archive.org/web/20170206161655/http://www.evernym.com/our-research/)
+
+### Additional Thought around Identity
+* [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
+   >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
+   * [Maciek Laskus ϟ BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
+   * "[I designed](https://twitter.com/MaciekLaskus/status/1066780557906976768) an algorithm that mapped out people working on identity using Twitter data:" [Identity list](https://docs.google.com/spreadsheets/d/1hBBVA0-jqmRRZ_JFQ8HEck9tFub7crsqRzlBZWf01xg/edit?usp=sharing)
+* [Proof of Thought (PoT)](https://bitcointalk.org/index.php?topic=4459113.0)
+* [Queer Privacy](https://leanpub.com/queerprivacy)
+   >Stories about using the Internet as a tool to find out more about yourself, and as a tool to express and empower; about the dangers of Internet censorship and about the practical realities of maintaining multiple distinct digital identities. 
+* [@SarahJamieLewis Twitter thread on Identity](https://twitter.com/SarahJamieLewis/status/1041043532654542848)
+   >Any technology which relies on the existence of, or attempts to create a, global, unique identity is oppressive by design. Stop" innovating" oppressive structures.
 
 
 
