@@ -96,7 +96,6 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
 * [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
-* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
 * For more DID information see **[awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)**
 
 ![](https://i.imgur.com/FBe3S0w.png)\
@@ -142,6 +141,8 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 #### Decentralized Key Management DKMS[**^**](#Contents)
 * [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
 * [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
+* [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
+* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md) [[**>**](https://github.com/infominer33/awesome-decentralized-id/#decentralized-public-key-infrastructure-dpki)]
 
 ![](https://i.imgur.com/xmWkc4l.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
@@ -229,11 +230,11 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 <sup><a href="https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies">Linux Foundation -Blockchain for Business -INDY</a></sup>
 
 * [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**T**](https://twitter.com/Hyperledger)] [[**G**](https://github.com/hyperledger/indy-sdk)]
+* [Indy Documentation Index - wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
+* [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
 * [Hyperledger Indy — the Future of Decentralized Identity](https://medium.com/axiom-tech/hyperledger-indy-the-future-of-decentralized-identity-9de5c2459e4e)
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy) - ANN
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
-* [Indy Documentation Index - wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
-* [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
 * [Ernesto.net - What goes on the Ledger](https://www.ernesto.net/ernesto-net-5-minute-course-on-indy-and-what-goes-on-the-blockchain-ledger/)
 * [Ernesto.net - Hyperledger Indy Architecture](https://www.ernesto.net/hyperledger-indy-architecture/)
 * [github.com/IBM-Blockchain-Identity](https://github.com/IBM-Blockchain-Identity) (Docker based tutorial sandbox env)
