@@ -5,8 +5,7 @@
 Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
 However, this one is focused specifically on Evernym, Sovrin, and Hyperledger Indy.
 
-For anyone who wants to think just about indy\sovrin-related things without all the noise.
-Since its all related, some jumping back and might be required, but I think its good to have this page to focus on information directly related to indy.
+Since the information is all inter-related, some jumping back and might be required. Still, I think its good to have this page for information directly related to indy.
 
 [Pull Requests Welcome](../contributing.md)
 
