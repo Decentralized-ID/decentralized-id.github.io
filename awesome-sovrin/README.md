@@ -26,13 +26,14 @@ Pull Requests Welcome.
 * [Hyperledger Indy](#Hyperledger-Indy)
   * [Additional Indy Related](#Additional-Indy-Related)
    * [Idemix](#IDEMix)
-* [Video](#Video)
 * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
   * [RWoT Use Cases](#RWoT-Use-Cases) -infographic workflow
 * [Evernym\Sovrin\Indy Adoption](#Evernym\Sovrin\Indy-Adoption)
 * [DID Adoption](#DID-Adoption)
   * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
 * [Reports](#Reports)
+* [Video](#Video)
+* [Podcasts](#Podcasts)
 * [Sources](#Sources)
 
 ![](http://imgur.com/3zz62kpl.png)
