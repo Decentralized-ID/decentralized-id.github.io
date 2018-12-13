@@ -17,8 +17,8 @@ Pull Requests Welcome.
 ### Contents
 * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
 * [GDPR](#EU-General-Data-Protection-Regulation-Act)
-* [W3C and DID standards](#W3C-and-DID-standards)
-  * [DID and Company](#DID-and-Company)
+* [W3C and DID Related Standards](#W3C-and-DID-Related-Standards)
+  * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier)
   * [Verifiable Claims](#Verifiable-Claims)
   * [Hubs-Agents](#Hubs-Agents)
   * [DID Auth](#DID-Auth)
@@ -67,14 +67,14 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ![](http://imgur.com/Lz6RTysl.png)
 
-### W3C and DID standards[**^**](#Contents)
+### W3C and DID Related Standards[**^**](#Contents)
 
 * [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
 * [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 
 
-#### DID and Company[**^**](#Contents) 
+#### DID the Decentralized Identifier[**^**](#Contents) 
 
 * [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
