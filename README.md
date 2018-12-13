@@ -1,7 +1,5 @@
-# Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
 **DID, Blockchain and Self-Sovereign Identity Resources**
-<a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
-
 
 ![](https://i.imgur.com/9KpJRDr.png)
 
