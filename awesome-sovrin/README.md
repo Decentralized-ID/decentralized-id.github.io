@@ -3,12 +3,12 @@
 <a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
 
 Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
-However, this one is focused more specifically Evernym, Sovrin, and Hyperledger Indy.
+However, this one is focused specifically on Evernym, Sovrin, and Hyperledger Indy.
 
 For anyone who wants to think just about indy\sovrin-related things without all the noise.
 Since its all related, some jumping back and might be required, but I think its good to have this page "just for Indy" and not so much about other DID solutions.
 
-Pull Requests Welcome.
+[Pull Requests Welcome](../contributing.md)
 
 ##### Link Shorthand:
 [[**T**](#Link-Shorthand)]witter [[**G**](#Link-Shorthand)]ithub [[**B**](#Link-Shorthand)]log [[**wp**](#Link-Shorthand)] whitepaper [[**D**](#Link-Shorthand)]ocumentation [[**F**](#Link-Shorthand)]orums [[**C**](#Link-Shorthand)]hat \
