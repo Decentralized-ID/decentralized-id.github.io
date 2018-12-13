@@ -1,5 +1,4 @@
-# Awesome Sovrin and Hyperledger Indy Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
+# Awesome Sovrin and Hyperledger Indy Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
 **Protocol, Governance, and Immediately Surrounding Ecosystem** 
 
 Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
