@@ -9,6 +9,8 @@ Since the information is all inter-related, some jumping back and might be requi
 
 [Pull Requests Welcome](../contributing.md)
 
+---
+
 ##### Link Shorthand:
 [[**T**](#Link-Shorthand)]witter [[**G**](#Link-Shorthand)]ithub [[**B**](#Link-Shorthand)]log [[**wp**](#Link-Shorthand)] whitepaper [[**D**](#Link-Shorthand)]ocumentation [[**F**](#Link-Shorthand)]orums [[**C**](#Link-Shorthand)]hat \
 [[**ϟ**](#Link-Shorthand)] related resource [[**>**](#Link-Shorthand)] related section [[**^**](#Link-Shorthand)] back to the contents.
@@ -88,7 +90,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
      * [Drummond Reed](https://equalsdrummond.name/) [[**T**](https://twitter.com/drummondreed)] ([Evernym](https://www.evernym.com/))  
      * [Manu Sporney](http://manu.sporny.org/)[[**T**](https://twitter.com/manusporny)]  ([Digital Bazaar](https://digitalbazaar.com))
      * Dave Longley ([Digital Bazaar](https://digitalbazaar.com))
-     * Christopher Allen (Blockstream)
+     * [Christopher Allen](http://www.lifewithalacrity.com/)[[**T**](https://twitter.com/ChristopherA)][[**G**](https://github.com/ChristopherA)] ([Blockstream](https://blockstream.com/))
      * Ryan Grant
      * [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**T**](https://twitter.com/peacekeeper)][[**G**](https://github.com/peacekeeper)][[**B**](https://medium.com/@markus.sabadello)] ([Danube Tech](https://github.com/projectdanube))
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
