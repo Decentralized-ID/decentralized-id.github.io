@@ -30,13 +30,16 @@ Pull Requests Welcome.
 * [Hyperledger Indy](#Hyperledger-Indy)
   * [Additional Indy Related](#Additional-Indy-Related)
    * [Idemix](#IDEMix)
-* [Video](#Video)
 * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
   * [RWoT Use Cases](#RWoT-Use-Cases)
 * [Evernym-Sovrin-Indy Adoption](#Evernym-Sovrin-Indy-Adoption)
 * [Research Papers](#Research-Papers)
 * [Reports](#Reports)
+<<<<<<< HEAD
 * [Videos](#Video)
+=======
+* [Video](#Video)
+>>>>>>> 3c23fef598293780827af6925fc6744d613536a3
 * [Podcasts](#Podcasts)
 * [Sources](#Sources)
 
