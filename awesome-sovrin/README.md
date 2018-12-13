@@ -17,6 +17,13 @@ Pull Requests Welcome.
 ### Contents
 * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
 * [GDPR](#EU-General-Data-Protection-Regulation-Act)
+* [W3C and DID Related Standards](#W3C-and-DID-Related-Standards)
+    * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier)
+    * [DID Auth](#DID-Auth) 
+    * [Verifiable Claims](#Verifiable-Claims)
+    * [Hubs-Agents](#Hubs-Agents)
+    * [Universal Resolver](#Universal-Resolver)
+    * [Decentralized Key Managment DKMS](#Decentralized-Key-Management-DKMS)
 * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
 * [Evernym](#Evernym)
 * [The Sovrin Foundation](#The-Sovrin-Foundation)
@@ -62,7 +69,68 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ![](http://imgur.com/Lz6RTysl.png)
 
+### W3C and DID Related Standards[**^**](#Contents)
 
+* [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
+* [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
+* [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
+
+![](http://imgur.com/6MLNgXal.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
+
+#### DID the Decentralized Identifier[**^**](#Contents) 
+
+* [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
+* [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
+  * Authors:
+     * [Drummond Reed](https://equalsdrummond.name/) [[**T**](https://twitter.com/drummondreed)] ([Evernym](https://www.evernym.com/))  
+     * [Manu Sporney](http://manu.sporny.org/)[[**T**](https://twitter.com/manusporny)]  ([Digital Bazaar](https://digitalbazaar.com))
+     * Dave Longley ([Digital Bazaar](https://digitalbazaar.com))
+     * Christopher Allen (Blockstream)
+     * Ryan Grant
+     * [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**T**](https://twitter.com/peacekeeper)][[**G**](https://github.com/peacekeeper)][[**B**](https://medium.com/@markus.sabadello)] ([Danube Tech](https://github.com/projectdanube))
+* [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
+* [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
+* [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
+* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
+* For more DID information see **[awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)**
+
+![](https://i.imgur.com/FBe3S0w.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
+
+#### DID Auth[**^**](#Contents) 
+   * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
+   * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md) [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
+
+![](https://i.imgur.com/5R51G4Y.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
+
+
+#### Verifiable Claims[**^**](#Contents) 
+* [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**D**](https://www.w3.org/2017/vc/charter.html)]
+* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
+
+
+![](http://imgur.com/XMaq5cil.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
+
+#### Hubs-Agents[**^**](#Contents) 
+
+* [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
+* [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
+
+#### Universal Resolver[**^**](#Contents)
+* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
+  * [uniresolver.io](https://uniresolver.io/)
+* [6/27 Masterclass on the DID Universal Resolver | Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
+
+
+#### Decentralized Key Management DKMS[**^**](#Contents)
+* [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
+* [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
+
+![](https://i.imgur.com/xmWkc4l.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 #### Decentralized Identity Foundation[**^**](#Contents) 
 
@@ -71,7 +139,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**B**](https://medium.com/decentralized-identity)] 
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 
-For more DID information see [awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+
 
 ### Evernym[**^**](#Contents)
 
