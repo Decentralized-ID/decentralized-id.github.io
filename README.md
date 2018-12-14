@@ -14,6 +14,7 @@
 
 * [A Note from the Editor](#A-Note-from-the-Editor)
 * [History](#History)
+  * [The Augmented Social Network and the IDCommons](#the-augmented-social-network-and-the-idcommons)
   * [Internet Identity Workshop—IIW](#Internet-Identity-Workshop) 
   * [#Rebooting-Web-of-Trust (RWoT)](#Rebooting-the-Web-Of-Trust)
   * [Bitnation and the United Nations](#Bitnation-and-the-United-Nations)
@@ -75,7 +76,7 @@ This isn't meant to be a complete historical outline, just enough iiw\rwot backr
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
-### The Augmented Social Network and the IDCommons
+### The Augmented Social Network and the IDCommons[**^**](#Contents)
 
 >"[Identity Commons](http://wiki.idcommons.net/History) was originally created by Owen Davis and Andrew Nelson in 2001 to evangelize the creation of a decentralized user-centric identity infrastructure and to address the resulting social trust issues. It was partially in response to"
   * *[The Augmented Social Network](http://asn.planetwork.net/): Building Identity and Trust into the Next-Generation Internet,* presented at the June 2003 Planetwork conference and published in [First Monday](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1068/988) the Peer-Reviewed Journal on the Internet 8/4/03.
