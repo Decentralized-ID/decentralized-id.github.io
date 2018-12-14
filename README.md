@@ -141,7 +141,7 @@ At the end of 2015, the Department of Homeland Security announced that it had fu
      > I am part of the team putting together the first ID2020 Summit on Digital Identity at the United Nations
 * [Identity System Essentials](https://www.evernym.com/wp-content/uploads/2017/02/Identity-System-Essentials.pdf) 3/16 (Original Evernym Identity WP also submitted to ID2020\RWoT workshop) 
 
-Evident from other [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/README.md) submitted to the RWoT\ID2020 Workshop, the DID identifier had begun to emerge:
+Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/README.md) submitted to the second RWoT Workshop, the DID identifier had begun to emerge:
 * [Decentralized Identifiers (DIDs) and Decentralized Identity Management (DIDM)](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/DID-Whitepaper.md)
    >"Decentralized Identifiers (DID) stored in a permissioned blockchain enable principals to directly control their own identities with cryptographic proofs and secure, addressable network endpoints. DIDs further enable a Decentralized Identity Management (DIDM) infrastructure that will empower people and organizations to securely and confidentially manage and assert their identities."
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
