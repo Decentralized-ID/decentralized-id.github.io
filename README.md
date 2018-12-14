@@ -132,7 +132,7 @@ At the end of 2015, the Department of Homeland Security announced that it had fu
 
 ![](http://imgur.com/ymviAssl.png)
 
-* [4/16](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en) the EU adopted the GDPR, to be enacted as law May 2018. 
+* [4/16](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en) the EU adopted the GDPR to be enacted as law May 2018. 
 * The second RWoT workshop ran in conjunction with the UN's [ID2020](https://id2020.org/) Summit in New York that [May](https://press.pwc.com/News-releases/id2020-to-kick-start-digital-identity-summit-at-un-with-pwc-support./s/9fe11be5-cbd8-486b-b4d2-d798f486d0f2); clearly a significant time for decentralized identity: 
    >1.1 Billion people live without an officially recognized identity — This lack of recognized identification deprives them of protection, access to services, and basic rights. ID2020 is a public-private partnership dedicated to solving the challenges of identity for these people through technology. - id2020.org
 * [Identity Crisis: Clear Identity through Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)
