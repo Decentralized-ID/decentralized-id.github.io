@@ -175,8 +175,11 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * DIF members, sharing the goal of “building an open source decentralized identity ecosystem for people, organizations, apps, and devices” include: 
   * [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY) • [uPort](https://github.com/uport-project/ethr-did/blob/develop/docs/index.md) • [IBM](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/) • [Sovrin](https://github.com/sovrin-foundation/sovrin/blob/master/spec/did-method-spec-template.html) • [SecureKey](https://www.ibm.com/blogs/blockchain/2018/05/self-sovereign-identity-our-recent-activity-as-a-sovrin-steward/) • [Blockstack](https://github.com/blockstack/blockstack-core/blob/feature/docs-bns/docs/blockstack_naming_service.md#decentralized-identifiers-dids) • [Evernym](https://www.evernym.com/wp-content/uploads/2017/07/What-Goes-On-The-Ledger.pdf) • [Hyperledger](https://github.com/hyperledger/indy-sdk/blob/master/doc/getting-started/getting-started.md) • [Civic](https://www.civic.com/solutions/kyc-services/) • [Accenture](https://www.accenture.com/us-en/insight-blockchain-id2020) • [Danube](https://github.com/projectdanube/xdi2) • [netki](https://bravenewcoin.com/insights/netki-launches-digital-id-solution-which-bitt-is-using-with-central-banks-in-the-caribbean) • [RSA](https://www.rsa.com/en-us/research-and-thought-leadership/rsa-labs) • [Consent](https://sovrin.org/steward/global-consent/) • [IOTA](https://medium.com/@iotasuppoter/iota-the-case-of-decentralized-digital-identity-de7b95042c12) • [Mooti](https://www.cio.com/article/3147358/it-industry/ibm-building-blockchain-ecosystem.html) • [R3](https://www.gemalto.com/press/pages/gemalto-and-r3-pilot-blockchain-technology-to-put-users-in-control-of-their-digital-id.aspx) • [Authenteq](https://venturebeat.com/2018/08/30/authenteq-launches-blockchain-identity-verification-to-stop-online-trolls/) • [Blockchain-foundry](https://www.blockchainfoundry.co/blockchain-foundry-inc-announces-new-software-release-for-blockchain-based/) • [Validatedid](https://www.validatedid.com/vidchain-the-future-of-digital-identity/) • [1kosmos](https://onekosmos.com/product-details/) • [gamecredits](https://medium.com/@gamecredits/introducing-blinking-blink-identity-management-on-the-blockchain-9258c7d76a8d)[[**ϟ**](https://blinking.id)] • [auth0](https://auth0.com/) • [Jolocom](https://stories.jolocom.com/jolocom-brings-blockchain-identity-to-privacy-week-berlin-acdaee665f0) • [Enigma](https://blog.enigma.co/off-chain-identity-claims-with-enigma-2d5b23c31f92) • [Humanized-internet](https://www.thehumanizedinternet.org/) • [Pillar](https://pillarprojectfoundation.org/blog/announcing-the-pillar-project/) • [id2020](https://id2020.org/manifesto/) • [Nuggets](https://www.mobilepaymentstoday.com/news/identity-and-payments-platform-nuggets-partners-with-iot-company/) • [Tierion](https://medium.com/tierion/tierion-network-update-january-19-2018-fa88c6bee69f) • [British Columbia Ministry of Citizens Services](https://vonx.io/about/) • [Gem](https://epicenter.tv/episode/207/) • [aetna](https://www.aetna.com/) • [Equinix](https://www.equinix.com/) • [KYC-Chain](https://kyc-chain.com/) • [BlockPass](https://www.blockpass.org/downloads/BlockpassWhitepaper.v1.3.2.pdf) • [Ockam](https://www.ockam.io/) • [NuID](https://nuid.io/pdfs/solution-overview.pdf) • [MetaX](https://adtoken.com/uploads/white-paper.pdf) • [GS1](https://www.gs1.org/standards/id-keys) • [DIID](https://www.diid.io/) • [nuggets](https://nuggets.life/images/Nuggets-White-Paper.pdf) • [Trusted key](https://www.trustedkey.com/) • [zinc](https://tykn.tech/project-zinc/) • ONTology • [Mastercard](https://newsroom.mastercard.com/press-releases/mastercard-microsoft-join-forces-to-advance-digital-identity-innovations/) • LNk-E • ID2020 • Veridium • Meeco • Dominode • Enigma • datum • Onfido • identos • diwala • \<sitekit\> • suru • botlabs • enterprise ethereum alliance • remme • Taqanu • Distributed ID • R_Block • Ideo • BigchainDB • One Kosmos
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
-* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c)  [[**>**](#Universal-Resolver)]
-  * [Uniresolver.io](https://uniresover.io)
+* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
+  * [uniresolver.io](https://uniresolver.io/)
+* [6/27 Masterclass on the DID Universal Resolver | Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
+* [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
+
 
 ### Additional Information on iid standards history[**^**](#Contents) 
 * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
@@ -289,27 +292,18 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
 * [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](https://http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
 
-
-![](http://imgur.com/XMaq5cil.png)\
+![](https://i.imgur.com/xmWkc4l.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
-
-#### Hubs-Agents[**^**](#Contents) 
-
-* [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
-* [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
-
-#### Universal Resolver[**^**](#Contents)
-* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
-  * [uniresolver.io](https://uniresolver.io/)
-* [6/27 Masterclass on the DID Universal Resolver | Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
 
 
 #### Decentralized Key Management DKMS[**^**](#Contents)
 * [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
 * [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
 
-![](https://i.imgur.com/xmWkc4l.png)\
+
+![](http://imgur.com/XMaq5cil.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
+
 
 ### Evernym[**^**](#Contents)
 
