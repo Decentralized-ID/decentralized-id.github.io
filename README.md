@@ -73,7 +73,7 @@ For now, I'm becoming more familiar with all of this material, and how it fits t
 
 ## History[**^**](#Contents)
 
-This isn't meant to be a complete historical outline, just enough iiw\rwot backround to provide context for the rest.
+This isn't meant to be a complete historical outline, but enough backround to provide context for the rest.
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
