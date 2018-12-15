@@ -8,8 +8,8 @@
 
 ### Contents
 
-* [A Note from the Editor](#A-Note-from-the-Editor)
-* [Link Shorthand](#Link-Shorthand)
+* [Introduction](#Introduction)
+  * [Link Shorthand](#Link-Shorthand)
 * [History](#History)
   * [The Augmented Social Network and the IDCommons](#the-augmented-social-network-and-the-idcommons)
   * [Internet Identity Workshop—IIW](#Internet-Identity-Workshop) 
@@ -53,7 +53,7 @@
 
    
 
-## A Note from the Editor[**^**](#Contents)
+## Introduction[**^**](#Contents)
 
 >Thanks to those who are working to make our identity experience, and the internet, a better place.
 
@@ -66,6 +66,8 @@ In the mean-time, after gathering all of the links I had already into [one colle
 For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. I expect to be actively engaged with this repository for the next month or so. Within that time it should become a more organized space, and easier for contributors to get involved.
 
 **[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and\or [Contributions](#brought-to-you-by-the-crypto-librarysuper-source) Welcome**
+
+---
 
 #### Link Shorthand:
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
