@@ -322,7 +322,7 @@ Blockstack is a network for decentralized applications where users own their ide
 
 ### The Sovrin Foundation[**^**](#Contents)
  
-* [[**F**](https://forum.sovrin.org/)]orum [[**C**](https://chat.sovrin.org/)]hat [[**T**](https://twitter.com/SovrinID)]witter [[**G**](https://github.com/sovrin-foundation/sovrin)]ithub
+* [[**F**](https://forum.sovrin.org/)]orum • [[**C**](https://chat.sovrin.org/)]hat • [[**T**](https://twitter.com/SovrinID)]witter • [[**G**](https://github.com/sovrin-foundation/sovrin)]ithub • [[**tele**](https://t.me/sovrin_foundation)]gram • [[**web**](https://sovrin.org/)]site
 * [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
  Foundation is creating a public instance of the Hyperledger [Indy](#Hyperledger-Indy) code, initially developed by [Evernym](#Evernym) 
 * [Sovrin Library](https://sovrin.org/library/)
