@@ -43,8 +43,11 @@ Since the information is all inter-related, there is some overlapp. Jumping back
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents.
 
-**Please see [/awesome-decentralized-id](/README.md) for much more related information—**
+### Introduction
 
+Internet Identity Workshop is where the quest for concious, user-centric, identity began. Rebooting Web-of-Trust Workshops sprung from the IIW, focused on creating standards for DPKI. The United Nations 'Sustainable Development Goals' among which is for all the world to have access to a digital identity by 2020. The UN SDGs, blockchain, and the GDPR converged bringing much energy into the identity ecosystem. 
+
+**Additional history much more related information may be found at [/awesome-decentralized-id](../README.md#Contents)**.
 
 ### Evernym[**^**](#Contents)
 
@@ -54,13 +57,6 @@ Since the information is all inter-related, there is some overlapp. Jumping back
 * [Identity System Essentials](https://www.evernym.com/wp-content/uploads/2017/02/Identity-System-Essentials.pdf) 3/16 (Original Evernym Identity WP submitted to ID2020\RWoT workshop) 
 * [Outlier Ventures invests in, becomes strategic partner of Evernym](https://coinreport.net/outlier-ventures-invests-becomes-strategic-partner-evernym/)[[**ϟ**](https://outlierventures.io/portfolio/evernym/)]
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
-
-#### Decentralized Key Management DKMS[**^**](#Contents)
-* [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
-* [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
-
-![](https://i.imgur.com/xmWkc4l.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 
 ### The Sovrin Foundation[**^**](#Contents)
@@ -225,10 +221,15 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ![](http://imgur.com/XMaq5cil.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
-#### Hubs-Agents[**^**](#Contents) 
+#### Decentralized Key Management-Hubs-Agents[**^**](#Contents) 
 
 * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
+* [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
+* [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
+
+![](https://i.imgur.com/xmWkc4l.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 #### Universal Resolver[**^**](#Contents)
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
@@ -278,8 +279,6 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
   >The main idea behind GraphChain is to use blockchain mechanisms on top of an abstract RDF graphs. This paper presents an implementation of GraphChain in the Hyperledger Indy framework. The whole setting is shown to be applied to the RDF graphs containing information about Legal Entity Identifiers (LEIs).
 
 ### Self Sovereign Identity[**^**](#Contents) [**>>**](../README.md#Self-Sovereign-Identity)
-
-Internet Identity Workshop is where the quest for concious, user-centric, identity began. Rebooting Web-of-Trust Workshops sprung from the IIW, focused on creating standards for decentralized identifiers, along with decentralized key managment\PKI. The United Nations 'Sustainable Development Goals' among which is for all the world to have access to a digital identity by 2020. The UN SDGs, blockchain, and the GDPR converged bringing much energy into the identity ecosystem. Additional history and background information may be found at [awesome-decentralized-id](/README.md#History). 
 
 [Christopher Allen](http://www.lifewithalacrity.com/)[[**T**](https://twitter.com/ChristopherA)][[**G**](https://github.com/ChristopherA)] details the overarching history of internet idenitity standards in his seminal work: 
    * **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[**ϟ**](https://www.coindesk.com/path-self-sovereign-identity/amp/)].
