@@ -327,7 +327,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [Indy Demo by IBM](https://www.youtube.com/watch?v=cz-6BldajiA)
 * [Behind the Cloud Episode 6: Blockchain and Self-Sovereign Identity in the Enterprise](https://www.youtube.com/watch?v=wSdm2-18Z2g)
 
-### Podcasts[**^**](#Contents)
+### Podcasts[**^**](#Contents) [**>>**](../README.md#Podcasts)
 * [MyData Podcast](https://mydata.org/podcast/)
 
 ### Sources[**^**](#Contents)
