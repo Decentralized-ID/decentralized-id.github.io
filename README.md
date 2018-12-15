@@ -581,6 +581,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [MyData Global Youtube](https://www.youtube.com/channel/UCjBkx-XKa1gOr71fyCrJPfg)
 * [Phil Windley on Vimeo](https://vimeo.com/windley/videos)
 * [Internet of Agreements Conference on Identity](https://medium.com/humanizing-the-singularity/identity/home)
+* [Behind the Cloud Episode 6: Blockchain and Self-Sovereign Identity in the Enterprise](https://www.youtube.com/watch?v=wSdm2-18Z2g)
 
 ### Slideshare
 * [Identiverse](https://www.slideshare.net/Identiverse/presentations)

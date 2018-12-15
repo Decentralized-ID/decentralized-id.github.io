@@ -250,6 +250,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation](https://www.iacr.org/archive/eurocrypt2001/20450093.pdf)
 * [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 * [sovrin-foundation/connector-app](https://github.com/sovrin-foundation/connector-app) - Reference mobile edge agent for use with the Sovrin Network built from Hyperledger Indy.
+* [Building binaries of LibIndy for Android](https://github.com/hyperledger/indy-sdk/blob/master/doc/android-build.md)
 
 #### IDEMix ZKP [**^**](#Contents)
 * [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519) (Not ID related)
@@ -339,6 +340,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Hyperledger Indy Demo Screencast](https://www.youtube.com/watch?v=9WZxlrGMA3s&t=93s)
 * [Architectural Overview of Indy Wallets](https://www.youtube.com/watch?v=Km4IoUdb3Lc)
 * [Indy Demo by IBM](https://www.youtube.com/watch?v=cz-6BldajiA)
+* [Behind the Cloud Episode 6: Blockchain and Self-Sovereign Identity in the Enterprise](https://www.youtube.com/watch?v=wSdm2-18Z2g)
 
 ### Podcasts[**^**](#Contents)
 * [MyData Podcast](https://mydata.org/podcast/)
