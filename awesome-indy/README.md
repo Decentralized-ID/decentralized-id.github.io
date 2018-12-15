@@ -294,7 +294,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [7 Myths of Self Sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1)
 * [SSI Meetup](http://ssimeetup.org/)
 * [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
-* For more SSI information see **[awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)**
+
 
 ### EU General Data Protection Regulation Act[**^**](#Contents) [**>>**](../README.md#eu-general-data-protection-regulation-act)
 
