@@ -4,21 +4,9 @@
 
 ![](https://i.imgur.com/KFmYHQ6.png)
 
-##### Link Shorthand:
-[[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
-• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents.
-
-
 ### Contents
 * [Editors Note](#Editors-Note)
-* [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
-* [GDPR](#EU-General-Data-Protection-Regulation-Act)
-* [W3C and DID Related Standards](#W3C-and-DID-Related-Standards)
-    * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier)
-    * [DID Auth](#DID-Auth) 
-    * [Verifiable Claims](#Verifiable-Claims)
-    * [Hubs-Agents](#Hubs-Agents)
-    * [Universal Resolver](#Universal-Resolver)
+* [Link Shorthand](#Link-Shorthand)
 * [Evernym](#Evernym)
     * [Decentralized Key Managment DKMS](#Decentralized-Key-Management-DKMS)
 * [The Sovrin Foundation](#The-Sovrin-Foundation)
@@ -27,6 +15,14 @@
 * [Hyperledger Indy](#Hyperledger-Indy)
   * [Additional Indy Related](#Additional-Indy-Related)
    * [IDEMix ZKP](#IDEMix-ZKP)
+* [W3C and DID Related Standards](#W3C-and-DID-Related-Standards)
+    * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier)
+    * [DID Auth](#DID-Auth) 
+    * [Verifiable Claims](#Verifiable-Claims)
+    * [Hubs-Agents](#Hubs-Agents)
+    * [Universal Resolver](#Universal-Resolver)
+* [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
+* [GDPR](#EU-General-Data-Protection-Regulation-Act)
 * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
   * [RWoT Use Cases](#RWoT-Use-Cases)
 * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
@@ -46,90 +42,9 @@ Since the information is all inter-related, there is some overlapp, and some jum
 
 [Pull Requests Welcome](../contributing.md)
 
-![](http://imgur.com/3zz62kpl.png)
-
-### Self Sovereign Identity[**^**](#Contents)
-
-Internet Identity Workshop is where the quest for concious, user-centric, identity began. Rebooting Web-of-Trust Workshops sprung from the IIW, focused on creating standards for decentralized identifiers, along with decentralized key managment\PKI. The United Nations 'Sustainable Development Goals' among which is for all the world to have access to a digital identity by 2020. The UN SDGs, blockchain, and the GDPR converged bringing much energy into the identity ecosystem. Additional history and background information may be found at [awesome-decentralized-id](/README.md#History). 
-
-[Christopher Allen](http://www.lifewithalacrity.com/)[[**T**](https://twitter.com/ChristopherA)][[**G**](https://github.com/ChristopherA)] details the overarching history of internet idenitity standards in his seminal work: 
-   * **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[**ϟ**](https://www.coindesk.com/path-self-sovereign-identity/amp/)].
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
-
-* [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
-* [Self Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
-* [7 Myths of Self Sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1)
-* [SSI Meetup](http://ssimeetup.org/)
-* [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
-* For more SSI information see **[awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)**
-
-### EU General Data Protection Regulation Act[**^**](#Contents)
-
-* [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
-* [Self-Sovereign Privacy By Design](https://github.com/sovrin-foundation/protocol/blob/master/self_sovereign_privacy_by_design_v1.md)
-* [Privacy by Design The 7 Foundational Principles](https://www.ipc.on.ca/wp-content/uploads/Resources/7foundationalprinciples.pdf) 
-* [When GDPR Becomes Real, and Blockchain is no longer fairydust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
-* [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
-
-![](http://imgur.com/6MLNgXal.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
-
-### W3C and DID Related Standards[**^**](#Contents)
-
-* [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
-* [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
-* [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
-
-![](https://i.imgur.com/XtZQg0j.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
-
-#### DID the Decentralized Identifier[**^**](#Contents) 
-
-* [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
-* [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
-  * Authors:
-     * [Drummond Reed](https://equalsdrummond.name/) [[**T**](https://twitter.com/drummondreed)] ([Evernym](https://www.evernym.com/))  
-     * [Manu Sporney](http://manu.sporny.org/)[[**T**](https://twitter.com/manusporny)]  ([Digital Bazaar](https://digitalbazaar.com))
-     * Dave Longley ([Digital Bazaar](https://digitalbazaar.com))
-     * [Christopher Allen](http://www.lifewithalacrity.com/)[[**T**](https://twitter.com/ChristopherA)][[**G**](https://github.com/ChristopherA)] ([Blockstream](https://blockstream.com/))
-     * Ryan Grant
-     * [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**T**](https://twitter.com/peacekeeper)][[**G**](https://github.com/peacekeeper)][[**B**](https://medium.com/@markus.sabadello)] ([Danube Tech](https://github.com/projectdanube))
-* [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
-* [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
-* [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
-* For more DID information see **[awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)**
-
-![](https://i.imgur.com/FBe3S0w.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
-
-#### DID Auth[**^**](#Contents) 
-   * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
-   * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md) [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
-
-![](https://i.imgur.com/5R51G4Y.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
-
-
-#### Verifiable Claims[**^**](#Contents) 
-* [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**D**](https://www.w3.org/2017/vc/charter.html)]
-* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
-* [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](https://http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
-
-
-![](http://imgur.com/XMaq5cil.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
-
-#### Hubs-Agents[**^**](#Contents) 
-
-* [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
-* [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
-
-#### Universal Resolver[**^**](#Contents)
-* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
-  * [uniresolver.io](https://uniresolver.io/)
-* [6/27 Masterclass on the DID Universal Resolver | Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
-
+#### Link Shorthand
+[[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
+• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents.
 
 
 ### Evernym[**^**](#Contents)
@@ -267,7 +182,92 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
 * [AnonCreds: Anonymous credentials protocol implementation in python](https://github.com/hyperledger/indy-anoncreds) [[**ϟ**](https://github.com/hyperledger/indy-anoncreds/blob/master/docs/anoncred-usecase1.pdf)]
 
+
+### W3C and DID Related Standards[**^**](#Contents)
+
+* [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
+* [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
+* [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
+
+![](https://i.imgur.com/XtZQg0j.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
+
+#### DID the Decentralized Identifier[**^**](#Contents) 
+
+* [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
+* [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
+  * Authors:
+     * [Drummond Reed](https://equalsdrummond.name/) [[**T**](https://twitter.com/drummondreed)] ([Evernym](https://www.evernym.com/))  
+     * [Manu Sporney](http://manu.sporny.org/)[[**T**](https://twitter.com/manusporny)]  ([Digital Bazaar](https://digitalbazaar.com))
+     * Dave Longley ([Digital Bazaar](https://digitalbazaar.com))
+     * [Christopher Allen](http://www.lifewithalacrity.com/)[[**T**](https://twitter.com/ChristopherA)][[**G**](https://github.com/ChristopherA)] ([Blockstream](https://blockstream.com/))
+     * Ryan Grant
+     * [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**T**](https://twitter.com/peacekeeper)][[**G**](https://github.com/peacekeeper)][[**B**](https://medium.com/@markus.sabadello)] ([Danube Tech](https://github.com/projectdanube))
+* [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
+* [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
+* [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
+* For more DID information see **[awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)**
+
+![](https://i.imgur.com/FBe3S0w.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
+
+#### DID Auth[**^**](#Contents) 
+   * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
+   * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md) [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
+
+![](https://i.imgur.com/5R51G4Y.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
+
+
+#### Verifiable Claims[**^**](#Contents) 
+* [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**D**](https://www.w3.org/2017/vc/charter.html)]
+* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
+* [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](https://http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
+
+
+![](http://imgur.com/XMaq5cil.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
+
+#### Hubs-Agents[**^**](#Contents) 
+
+* [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
+* [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
+
+#### Universal Resolver[**^**](#Contents)
+* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
+  * [uniresolver.io](https://uniresolver.io/)
+* [6/27 Masterclass on the DID Universal Resolver | Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
+
 ![](http://imgur.com/GdYLQjzl.png)
+
+![](http://imgur.com/3zz62kpl.png)
+
+### Self Sovereign Identity[**^**](#Contents)
+
+Internet Identity Workshop is where the quest for concious, user-centric, identity began. Rebooting Web-of-Trust Workshops sprung from the IIW, focused on creating standards for decentralized identifiers, along with decentralized key managment\PKI. The United Nations 'Sustainable Development Goals' among which is for all the world to have access to a digital identity by 2020. The UN SDGs, blockchain, and the GDPR converged bringing much energy into the identity ecosystem. Additional history and background information may be found at [awesome-decentralized-id](/README.md#History). 
+
+[Christopher Allen](http://www.lifewithalacrity.com/)[[**T**](https://twitter.com/ChristopherA)][[**G**](https://github.com/ChristopherA)] details the overarching history of internet idenitity standards in his seminal work: 
+   * **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[**ϟ**](https://www.coindesk.com/path-self-sovereign-identity/amp/)].
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
+
+* [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
+* [Self Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
+* [7 Myths of Self Sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1)
+* [SSI Meetup](http://ssimeetup.org/)
+* [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
+* For more SSI information see **[awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)**
+
+### EU General Data Protection Regulation Act[**^**](#Contents)
+
+* [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
+* [Self-Sovereign Privacy By Design](https://github.com/sovrin-foundation/protocol/blob/master/self_sovereign_privacy_by_design_v1.md)
+* [Privacy by Design The 7 Foundational Principles](https://www.ipc.on.ca/wp-content/uploads/Resources/7foundationalprinciples.pdf) 
+* [When GDPR Becomes Real, and Blockchain is no longer fairydust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
+* [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
+
+![](http://imgur.com/6MLNgXal.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 ### Selected 'Rebooting Web of Trust' Whitepapers[**^**](#Contents) 
 * [WebofTrust.info/papers.html](https://www.weboftrust.info/papers.html)
