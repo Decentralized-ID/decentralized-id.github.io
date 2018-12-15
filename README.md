@@ -78,15 +78,20 @@ This isn't meant to be a complete historical outline, just enough iiw\rwot backr
 
 ### The Augmented Social Network and the IDCommons[**^**](#Contents)
 
->"[Identity Commons](http://wiki.idcommons.net/History) was originally created by Owen Davis and Andrew Nelson in 2001 to evangelize the creation of a decentralized user-centric identity infrastructure and to address the resulting social trust issues." Partially in response to:
-  * *[The Augmented Social Network](http://asn.planetwork.net/): Building Identity and Trust into the Next-Generation Internet,* presented at the June 2003 Planetwork conference and published in [First Monday](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1068/988) the Peer-Reviewed Journal on the Internet 8/4/03.
-    >"[This paper](http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf) proposes the creation of an Augmented Social Network (ASN) that would build identity and trust into the architecture of the Internet"
+* *[The Augmented Social Network](http://asn.planetwork.net/): Building Identity and Trust into the Next-Generation Internet,* presented at the June 2003 Planetwork conference and published in [First Monday](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1068/988) the Peer-Reviewed Journal on the Internet 8/4/03.
+  >"[This paper](http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf) proposes the creation of an Augmented Social Network (ASN) that would build identity and trust into the architecture of the Internet"
 
-IDCommons and other groups inspired by the Augmented Social Network led to the creation of:
+Ideas from the ASN were the foundation of much that followed.
+
+The [Identity Commons](http://wiki.idcommons.net/History) (2001-Present) was originally created by Owen Davis and Andrew Nelson in 2001 to evangelize the creation of a decentralized user-centric identity infrastructure and to address the resulting social trust issues." 
+
+>"Their most important contribution may have been the creation, in association with the Identity Gang, of the Internet Identity Workshop (2005-Present) working group. "[[**ϟ**](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)]
+
+
 
 ### Internet Identity Workshop[**^**](#Contents)
 
-In 2005, [Kaliya Young](https://identitywoman.net/)[[**T**](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[**T**](https://twitter.com/windley)], [Drummond Reed](https://www.evernym.com/)[[**T**](https://twitter.com/drummondreed)][[**B**](https://equalsdrummond.name/)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[**T**](https://twitter.com/dsearls)][[**B**](https://blogs.harvard.edu/doc)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)(IIW)[[**T**](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
+In 2005, [Kaliya Young](https://identitywoman.net/)[[**T**](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[**T**](https://twitter.com/windley)][[**V**](https://vimeo.com/windley)], [Drummond Reed](https://www.evernym.com/)[[**T**](https://twitter.com/drummondreed)][[**B**](https://equalsdrummond.name/)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[**T**](https://twitter.com/dsearls)][[**B**](https://blogs.harvard.edu/doc)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)(IIW)[[**T**](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
 Since then, the IIW has met bi-anually, actively supporting the development of the identity software-ecosystem, including [OpenID](http://wiki.openid.net)('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1)('06), [OAuth](https://en.wikipedia.org/wiki/OAuth)('10), [FIDO](https://fidoalliance.org/)('13) and OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect)('14). 
 
@@ -97,6 +102,7 @@ IIW participants began the effort towards creating a truly "[user centric identi
 * **More information** on iid standards history: 
   * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
   * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
+  * [The Path to Self Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
   * **[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** ϟ **[identitywoman.net](https://identitywoman.net/)** ϟ **[windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)** ϟ **[WoTinfo](https://github.com/WebOfTrustInfo/)**
 
 In [April of 2014](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en), the European Parliament demonstrates strong support for the GDPR, which passes back and forth through the European Council, Commision and Parliment throught the rest of the year.
