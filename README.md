@@ -83,7 +83,7 @@ This isn't meant to be a complete historical outline, just enough iiw\rwot backr
 
 Ideas from the ASN were the foundation of much that followed.
 
-The [Identity Commons](http://wiki.idcommons.net/History) (2001-Present) was originally created by Owen Davis and Andrew Nelson in 2001 to evangelize the creation of a decentralized user-centric identity infrastructure and to address the resulting social trust issues." 
+The [Identity Commons](http://wiki.idcommons.net/History) (2001-Present) was originally created by Owen Davis and Andrew Nelson in 2001 to evangelize the creation of a decentralized user-centric identity infrastructure and to address the resulting social trust issues. 
 
 >"Their most important contribution may have been the creation, in association with the Identity Gang, of the Internet Identity Workshop (2005-Present) working group. "[[**ϟ**](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)]
 
