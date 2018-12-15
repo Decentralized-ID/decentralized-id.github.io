@@ -7,7 +7,7 @@ However, this one is focused specifically on, and has additional material for Ev
 
 Since the information is all inter-related, there is some overlapp, and some jumping back and might still be required. Still, I think its good to have this page separate for information directly related to indy.
 
-[Pull Requests Welcome](../contributing.md)
+**[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and\or [Contributions](#brought-to-you-by-the-crypto-librarysuper-source) Welcome**
 
 
 ![](https://i.imgur.com/KFmYHQ6.png)
