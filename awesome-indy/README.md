@@ -182,6 +182,8 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
 * [AnonCreds: Anonymous credentials protocol implementation in python](https://github.com/hyperledger/indy-anoncreds) [[**ϟ**](https://github.com/hyperledger/indy-anoncreds/blob/master/docs/anoncred-usecase1.pdf)]
 
+![](http://imgur.com/6MLNgXal.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
 ### W3C and DID Related Standards[**^**](#Contents)
 
@@ -238,8 +240,6 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
   * [uniresolver.io](https://uniresolver.io/)
 * [6/27 Masterclass on the DID Universal Resolver | Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
 
-![](http://imgur.com/GdYLQjzl.png)
-
 ![](http://imgur.com/3zz62kpl.png)
 
 ### Self Sovereign Identity[**^**](#Contents)
@@ -266,8 +266,9 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [When GDPR Becomes Real, and Blockchain is no longer fairydust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
 * [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
 
-![](http://imgur.com/6MLNgXal.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
+![](http://imgur.com/GdYLQjzl.png)
+
+
 
 ### Selected 'Rebooting Web of Trust' Whitepapers[**^**](#Contents) 
 * [WebofTrust.info/papers.html](https://www.weboftrust.info/papers.html)
