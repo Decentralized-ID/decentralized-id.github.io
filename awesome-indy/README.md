@@ -183,7 +183,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ![](http://imgur.com/6MLNgXal.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
-### W3C and DID Related Standards[**^**](#Contents)
+### W3C and DID Related Standards[**^**](#Contents) [**>>**](../README.md#w3c-and-did-related-standards)
 
 * [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
 * [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
@@ -194,7 +194,6 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 #### DID the Decentralized Identifier[**^**](#Contents) [**>>**](../README.md#did-the-decentralized-identifier)
 
-* [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
   * Authors:
      * [Drummond Reed](https://equalsdrummond.name/) [[**T**](https://twitter.com/drummondreed)] ([Evernym](https://www.evernym.com/))  
@@ -206,7 +205,6 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
 * [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
-* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md) [[**>>**](https://github.com/infominer33/awesome-decentralized-id/README.md#decentralized-public-key-infrastructure-dpki)]
 
 ![](https://i.imgur.com/FBe3S0w.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
