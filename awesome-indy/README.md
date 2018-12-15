@@ -12,8 +12,8 @@ Since the information is all inter-related, some jumping back and might be requi
 ---
 
 ##### Link Shorthand:
-[[**T**](#Link-Shorthand)]witter [[**G**](#Link-Shorthand)]ithub [[**B**](#Link-Shorthand)]log [[**wp**](#Link-Shorthand)] whitepaper [[**D**](#Link-Shorthand)]ocumentation [[**F**](#Link-Shorthand)]orums [[**C**](#Link-Shorthand)]hat \
-[[**ϟ**](#Link-Shorthand)] related resource [[**>**](#Link-Shorthand)] related section [[**^**](#Link-Shorthand)] back to the contents.
+[[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram
+• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents.
 
 
 ### Contents
@@ -153,7 +153,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
-* [[**F**](https://forum.sovrin.org/)]orum [[**C**](https://chat.sovrin.org/)]hat [[**T**](https://twitter.com/SovrinID)]witter [[**G**](https://github.com/sovrin-foundation/sovrin)]ithub 
+* [[**F**](https://forum.sovrin.org/)]orum [[**C**](https://chat.sovrin.org/)]hat [[**T**](https://twitter.com/SovrinID)]witter [[**G**](https://github.com/sovrin-foundation/sovrin)]ithub [[**tele**](https://t.me/sovrin_foundation)]gram
 * [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
  Foundation is creating a public instance of the Sovrin\Indy codebase; initially developed by [Evernym](#Evernym)
 * [Sovrin Library](https://sovrin.org/library/)
