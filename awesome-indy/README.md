@@ -112,6 +112,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 #### Verifiable Claims[**^**](#Contents) 
 * [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**D**](https://www.w3.org/2017/vc/charter.html)]
 * [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
+* [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](https://http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
 
 
 ![](http://imgur.com/XMaq5cil.png)\
