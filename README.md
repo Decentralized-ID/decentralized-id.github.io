@@ -20,7 +20,7 @@
   * [Bitnation and the United Nations](#Bitnation-and-the-United-Nations)
   * [ID2020 and the GDPR](#ID2020-and-the-GDPR)
   * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation)
-  * [Additional Information](#Additional-Information-on-iid-standards-history)
+  * [Additional Information](#additional-informationon-iid-standards-history)
 * [Resources](#Resources)
   * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
   * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
