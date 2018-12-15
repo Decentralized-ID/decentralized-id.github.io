@@ -63,7 +63,7 @@
 
 In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an [awesome list](https://github.com/sindresorhus/awesome) out of them sooner than a live demo of the app that is in progress. Now, of course, there are many more links than I began with; and it was already a bit more expansive than typical Awesome lists. Pehaps this would be better called "epic-decentralized-id" or is that too much?  
 
-**ϟ** I'm also working on [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/) (formerly called 'awesome-sovrin') as a place to focus more on the Sovrin\Indy protocol and ecosystem, and have spent some time on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/), as well. I hope for these lists to compliment each-other.**ϟ**
+**ϟ** I'm also working on **[/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/)** (formerly called 'awesome-sovrin') as a place to focus more on the Sovrin\Indy protocol, governance, and ecosystem, and have spent some time on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/), as well. I hope for these lists to compliment each-other.**ϟ**
 
 For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. I expect to be actively engaged with this repository for the next month or so. Within that time it should become a more organized space, and easier for contributors to get involved.
 
