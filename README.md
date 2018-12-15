@@ -68,7 +68,7 @@ In the mean-time, after gathering all of the links I had already into [one colle
 
 For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. I expect to be actively engaged with this repository for the next month or so. Within that time it should become a more organized space, and easier for contributors to get involved.
 
-**[Pull Requests Welcome](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md)**
+**[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and\or [Crypto Contributions](#brought-to-you-by-the-crypto-librarysuper-source) Welcome**
 
 
 ## History[**^**](#Contents)
