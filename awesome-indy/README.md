@@ -329,7 +329,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 ### Podcasts[**^**](#Contents) [**>>**](../README.md#Podcasts)
 * [MyData Podcast](https://mydata.org/podcast/)
 
-### Sources[**^**](#Contents)
+### Sources[**^**](#Contents) [**>>**](../README.md#Sources)
 * [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
