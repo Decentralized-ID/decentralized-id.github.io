@@ -31,8 +31,6 @@ Since the information is all inter-related, there is some overlapp, and some jum
 * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
 * [Evernym-Sovrin-Indy Adoption](#Evernym-Sovrin-Indy-Adoption)
 * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
-* [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
-  * [RWoT Use Cases](#RWoT-Use-Cases)
 * [GDPR](#EU-General-Data-Protection-Regulation-Act)
 * [Research Papers](#Research-Papers)
 * [Reports](#Reports)
@@ -45,6 +43,8 @@ Since the information is all inter-related, there is some overlapp, and some jum
 #### Link Shorthand
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents.
+
+**Please see [/awesome-decentralized-id](/README.md) for much more related information—**
 
 
 ### Evernym[**^**](#Contents)
@@ -59,8 +59,6 @@ Since the information is all inter-related, there is some overlapp, and some jum
 #### Decentralized Key Management DKMS[**^**](#Contents)
 * [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
 * [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
-* [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
-* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md) [[**>>**](https://github.com/infominer33/awesome-decentralized-id/README.md#decentralized-public-key-infrastructure-dpki)]
 
 ![](https://i.imgur.com/xmWkc4l.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
@@ -208,6 +206,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
 * [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
+* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md) [[**>>**](https://github.com/infominer33/awesome-decentralized-id/README.md#decentralized-public-key-infrastructure-dpki)]
 * For more DID information see **[awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)**
 
 ![](https://i.imgur.com/FBe3S0w.png)\
@@ -298,24 +297,6 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
 * For more SSI information see **[awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)**
 
-
-### Selected 'Rebooting Web of Trust' Whitepapers[**^**](#Contents) 
-* [WebofTrust.info/papers.html](https://www.weboftrust.info/papers.html)
-* [Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf) Original RWoT whitepaper
-* [Framework for the Comparison of Identity Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/Framework-for-Comparison-of-Identity-Systems.md)
-* [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md)
-* [Identity Crisis: Clear Identity through Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)
-* [Rebooting the Web of Trust VII: Toronto (September 2018)](https://github.com/WebOfTrustInfo/rwot7) - More recent thoughts.
-
-
-### RWoT Use Cases[**^**](#Contents)
-* [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)
-* [Re-Imagining What Users Really Want](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/what-users-really-want.md)
-* [Joram 1.0.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/joram-engagement-model.pdf)
-* [Powering the Physician-Patient Relationship with HIE of One Blockchain Health IT](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/physician-patient-relationship.pdf)
-* [Protecting Digital Identities in Developing Countries](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)
-* [Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
-
 ### EU General Data Protection Regulation Act[**^**](#Contents)
 
 * [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
@@ -351,10 +332,11 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ### Sources[**^**](#Contents)
 * [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
-* [/awesome-decentralized-id](/README.md)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [/blockchain-id.toml](/blockchain-id.toml)
+
+**Please see [/awesome-decentralized-id](/README.md) for much more related information—**
 
 ---
 ### Brought to you by The [Crypto Library](crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
