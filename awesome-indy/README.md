@@ -2,10 +2,17 @@
 <a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
 **Protocol, Governance, and Immediately Surrounding Ecosystem** 
 
+This document was born from [/awesome-decentralized-id](../README.md) and contains much of the same material.\
+However, this one is focused specifically on, and has additional material for Evernym, Sovrin, and Hyperledger Indy.
+
+Since the information is all inter-related, there is some overlapp, and some jumping back and might still be required. Still, I think its good to have this page separate for information directly related to indy.
+
+[Pull Requests Welcome](../contributing.md)
+
+
 ![](https://i.imgur.com/KFmYHQ6.png)
 
 ### Contents
-* [Editors Note](#Editors-Note)
 * [Link Shorthand](#Link-Shorthand)
 * [Evernym](#Evernym)
     * [Decentralized Key Managment DKMS](#Decentralized-Key-Management-DKMS)
@@ -33,14 +40,7 @@
 * [Podcasts](#Podcasts)
 * [Sources](#Sources)
 
-### Editors Note
 
-Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
-However, this one is focused specifically on Evernym, Sovrin, and Hyperledger Indy.
-
-Since the information is all inter-related, there is some overlapp, and some jumping back and might still be required. Still, I think its good to have this page separate for information directly related to indy.
-
-[Pull Requests Welcome](../contributing.md)
 
 #### Link Shorthand
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
