@@ -6,13 +6,10 @@
 >Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [-Jerry Cuomo](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/) (IBM)
 
 
-##### Link Shorthand:
-[[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
-• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents.
-
 ### Contents
 
 * [A Note from the Editor](#A-Note-from-the-Editor)
+* [Link Shorthand](#Link-Shorthand)
 * [History](#History)
   * [The Augmented Social Network and the IDCommons](#the-augmented-social-network-and-the-idcommons)
   * [Internet Identity Workshop—IIW](#Internet-Identity-Workshop) 
@@ -68,8 +65,11 @@ In the mean-time, after gathering all of the links I had already into [one colle
 
 For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. I expect to be actively engaged with this repository for the next month or so. Within that time it should become a more organized space, and easier for contributors to get involved.
 
-**[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and\or [Crypto Contributions](#brought-to-you-by-the-crypto-librarysuper-source) Welcome**
+**[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and\or [Contributions](#brought-to-you-by-the-crypto-librarysuper-source) Welcome**
 
+#### Link Shorthand:
+[[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
+• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents.
 
 ## History[**^**](#Contents)
 
@@ -568,7 +568,6 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
    >Any technology which relies on the existence of, or attempts to create a, global, unique identity is oppressive by design. Stop" innovating" oppressive structures.
 
 
-
 ### Video[**^**](#Contents)
 * [SSI Meetup Youtube Channel](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)
 * [The Story of Open SSI Standards - Drummond Reed](https://www.youtube.com/watch?v=RllH91rcFdE&feature=youtu.be&t=4m30s)
@@ -583,7 +582,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [Internet of Agreements Conference on Identity](https://medium.com/humanizing-the-singularity/identity/home)
 * [Behind the Cloud Episode 6: Blockchain and Self-Sovereign Identity in the Enterprise](https://www.youtube.com/watch?v=wSdm2-18Z2g)
 
-### Slideshare
+### Slideshare[**^**](#Contents)
 * [Identiverse](https://www.slideshare.net/Identiverse/presentations)
 * [SSI Meetup](https://www.slideshare.net/SSIMeetup/presentations/)
 * [ChristopherA](https://www.slideshare.net/ChristopherA/presentations)
