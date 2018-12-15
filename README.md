@@ -20,6 +20,7 @@
   * [Bitnation and the United Nations](#Bitnation-and-the-United-Nations)
   * [ID2020 and the GDPR](#ID2020-and-the-GDPR)
   * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation)
+  * [Additional Information](#Additional-Information-on-iid-standards-history)
 * [Resources](#Resources)
   * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
   * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
@@ -99,11 +100,6 @@ IIW participants began the effort towards creating a truly "[user centric identi
 
 * [Not Just Who They Say We Are: Claiming our identity on the Internet](https://vimeo.com/207961532)- short film on the “Identerati” of the IIW[[**ϟ**](https://www.prweb.com/releases/identitymovie/iiw2017/prweb14161721.htm)]
    * [identirati](https://www.zdnet.com/article/the-identity-silo-paradox/)[[**ϟ**](https://www.forgerock.com/blog/who-are-the-identerati)] is a term for those working on standards and methods based on the premise of opening up id data silos, dating back to at least 2006:
-* **More information** on iid standards history: 
-  * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
-  * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
-  * [The Path to Self Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
-  * **[IIW-Wiki](http://iiw.idcommons.net/Main_Page)** ϟ **[identitywoman.net](https://identitywoman.net/)** ϟ **[windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)** ϟ **[WoTinfo](https://github.com/WebOfTrustInfo/)**
 
 In [April of 2014](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en), the European Parliament demonstrates strong support for the GDPR, which passes back and forth through the European Council, Commision and Parliment throught the rest of the year.
 
@@ -180,6 +176,15 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c)  [[**>**](#Universal-Resolver)]
   * [Uniresolver.io](https://uniresover.io)
 
+### Additional Information on iid standards history[**^**](#Contents) 
+* [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
+* [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
+* [Identity Commons-Wiki](http://wiki.idcommons.net/Main_Page)
+* [IIW-Wiki](http://iiw.idcommons.net/Main_Page)
+* [identitywoman.net](https://identitywoman.net/)
+* [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
+* [WoTinfo](https://github.com/WebOfTrustInfo/)
+* [The Path to Self Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
 
 ## Resources
 
