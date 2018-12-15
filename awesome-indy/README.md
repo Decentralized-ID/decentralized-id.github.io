@@ -192,7 +192,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ![](https://i.imgur.com/XtZQg0j.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
 
-#### DID the Decentralized Identifier[**^**](#Contents) 
+#### DID the Decentralized Identifier[**^**](#Contents) [**>>**](../README.md#did-the-decentralized-identifier)
 
 * [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
@@ -207,7 +207,6 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
 * [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md) [[**>>**](https://github.com/infominer33/awesome-decentralized-id/README.md#decentralized-public-key-infrastructure-dpki)]
-* For more DID information see **[awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)**
 
 ![](https://i.imgur.com/FBe3S0w.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
@@ -242,13 +241,13 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ![](http://imgur.com/3zz62kpl.png)
 
 
-### Decentralized Identity Foundation[**^**](#Contents) 
+### Decentralized Identity Foundation[**^**](#Contents) [**>>**](../README.md#Decentralized-Identity-Foundation)
 
 On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017):
 * [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
 * [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**B**](https://medium.com/decentralized-identity)] 
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
-* For more DID information see **[awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id#Decentralized-Identity-Foundation)**
+
 
 ![](https://i.imgur.com/3sfiarQ.png)
 
@@ -281,7 +280,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Legal Entity Identifier blockchained by a Hyperledger Indy implementation of GraphChain](http://www.graphchain.io/MTSR2018.pdf)
   >The main idea behind GraphChain is to use blockchain mechanisms on top of an abstract RDF graphs. This paper presents an implementation of GraphChain in the Hyperledger Indy framework. The whole setting is shown to be applied to the RDF graphs containing information about Legal Entity Identifiers (LEIs).
 
-### Self Sovereign Identity[**^**](#Contents)
+### Self Sovereign Identity[**^**](#Contents) [**>>**](../README.md#Self-Sovereign-Identity)
 
 Internet Identity Workshop is where the quest for concious, user-centric, identity began. Rebooting Web-of-Trust Workshops sprung from the IIW, focused on creating standards for decentralized identifiers, along with decentralized key managment\PKI. The United Nations 'Sustainable Development Goals' among which is for all the world to have access to a digital identity by 2020. The UN SDGs, blockchain, and the GDPR converged bringing much energy into the identity ecosystem. Additional history and background information may be found at [awesome-decentralized-id](/README.md#History). 
 
@@ -297,7 +296,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
 * For more SSI information see **[awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)**
 
-### EU General Data Protection Regulation Act[**^**](#Contents)
+### EU General Data Protection Regulation Act[**^**](#Contents) [**>>**](../README.md#eu-general-data-protection-regulation-act)
 
 * [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
 * [Self-Sovereign Privacy By Design](https://github.com/sovrin-foundation/protocol/blob/master/self_sovereign_privacy_by_design_v1.md)
@@ -308,17 +307,17 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 ![](http://imgur.com/GdYLQjzl.png)
 
 
-### Research Papers[**^**](#Contents)
+### Research Papers[**^**](#Contents) [**>>**](../README.md#Research-Papers)
 * [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin)
 * [Evernym Research Collection *2016 Archive*](https://web.archive.org/web/20170206161655/http://www.evernym.com/our-research/)
 
-### Reports[**^**](#Contents)
+### Reports[**^**](#Contents) [**>>**](../README.md#Reports)
 * [A Comprehensive Evaluation of the Identity Management Utility Sovrin](https://dutchblockchaincoalition.org/uploads/pdf/Blockchain-Sovrin-rapport.pdf)
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
 * [IDENTITY MATTERS](https://cboxxtest.files.wordpress.com/2017/09/cboxxidentitymatters04.pdf)
 
 
-### Video[**^**](#Contents)
+### Video[**^**](#Contents) [**>>**](../README.md#video)
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
 * [Self-Sovereign Identity with Hyperledger Indy\Sovrin- Calvin Cheng - FOSSASIA 2018](https://www.youtube.com/watch?v=hfyIZu3_fw8)
 * [Hyperledger Indy introduction with Indy Agents Demo](https://www.youtube.com/watch?v=llwfb5Ut5sg)
