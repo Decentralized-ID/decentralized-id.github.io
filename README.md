@@ -471,6 +471,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] 
    * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims."
+* [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP)
 
 #### Netherlands[**^**](#Contents)
 * [TU Delft helps develop digital ID for use on your phone](https://www.tudelft.nl/en/2018/tu-delft/tu-delft-helps-develop-digital-id-for-use-on-your-phone/)
