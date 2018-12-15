@@ -14,7 +14,6 @@ Since the information is all inter-related, there is some overlapp. Jumping back
 ### Contents
 * [Link Shorthand](#Link-Shorthand)
 * [Evernym](#Evernym)
-    * [Decentralized Key Managment DKMS](#Decentralized-Key-Management-DKMS)
 * [The Sovrin Foundation](#The-Sovrin-Foundation)
   * [Sovrin Stewards](#Sovrin-Stewards)
   * [Selected Articles Windley.com](#Selected-Articles-Windley.com)
@@ -25,7 +24,7 @@ Since the information is all inter-related, there is some overlapp. Jumping back
     * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier)
     * [DID Auth](#DID-Auth) 
     * [Verifiable Claims](#Verifiable-Claims)
-    * [Hubs-Agents](#Hubs-Agents)
+    * [Hubs-Agents](#decentralized-key-management-hubs-agents)
     * [Universal Resolver](#Universal-Resolver)
 * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
 * [Evernym-Sovrin-Indy Adoption](#Evernym-Sovrin-Indy-Adoption)
