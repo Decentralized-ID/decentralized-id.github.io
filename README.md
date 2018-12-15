@@ -7,8 +7,9 @@
 
 
 ##### Link Shorthand:
-[[**T**](#Link-Shorthand)]witter [[**G**](#Link-Shorthand)]ithub [[**B**](#Link-Shorthand)]log [[**wp**](#Link-Shorthand)] whitepaper [[**D**](#Link-Shorthand)]ocumentation [[**F**](#Link-Shorthand)]orums [[**C**](#Link-Shorthand)]hat \
-[[**ϟ**](#Link-Shorthand)] related resource [[**>**](#Link-Shorthand)] related section [[**^**](#Link-Shorthand)] back to the contents.
+[[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram
+• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents.
+
 
 ### Contents
 
