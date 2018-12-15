@@ -2,14 +2,7 @@
 <a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
 **Protocol, Governance, and Immediately Surrounding Ecosystem** 
 
-Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
-However, this one is focused specifically on Evernym, Sovrin, and Hyperledger Indy.
-
-Since the information is all inter-related, some jumping back and might be required. Still, I think its good to have this page for information directly related to indy.
-
-[Pull Requests Welcome](../contributing.md)
-
----
+![](https://i.imgur.com/KFmYHQ6.png)
 
 ##### Link Shorthand:
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
@@ -17,6 +10,7 @@ Since the information is all inter-related, some jumping back and might be requi
 
 
 ### Contents
+* [Editors Note](#Editors-Note)
 * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
 * [GDPR](#EU-General-Data-Protection-Regulation-Act)
 * [W3C and DID Related Standards](#W3C-and-DID-Related-Standards)
@@ -43,6 +37,14 @@ Since the information is all inter-related, some jumping back and might be requi
 * [Podcasts](#Podcasts)
 * [Sources](#Sources)
 
+### Editors Note
+
+Much of the material in this document came from [/awesome-decentralized-id](../README.md).\
+However, this one is focused specifically on Evernym, Sovrin, and Hyperledger Indy.
+
+Since the information is all inter-related, there is some overlapp, and some jumping back and might still be required. Still, I think its good to have this page separate for information directly related to indy.
+
+[Pull Requests Welcome](../contributing.md)
 
 ![](http://imgur.com/3zz62kpl.png)
 
