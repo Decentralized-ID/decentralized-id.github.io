@@ -91,9 +91,7 @@ This isn't meant to be a complete historical outline, but enough backround to pr
 * *[The Augmented Social Network](http://asn.planetwork.net/): Building Identity and Trust into the Next-Generation Internet,* presented at the June 2003 Planetwork conference and published in [First Monday](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1068/988) the Peer-Reviewed Journal on the Internet 8/4/03.
   >"[This paper](http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf) proposes the creation of an Augmented Social Network (ASN) that would build identity and trust into the architecture of the Internet"
 
-Ideas from the ASN were the foundation of much that followed.
-
-The [Identity Commons](http://wiki.idcommons.net/History) (2001-Present) was originally created by Owen Davis and Andrew Nelson in 2001 to evangelize the creation of a decentralized user-centric identity infrastructure and to address the resulting social trust issues. 
+Ideas from the ASN were the foundation of much that followed. The [Identity Commons](http://wiki.idcommons.net/History) (2001-Present) was originally created by Owen Davis and Andrew Nelson in 2001 to evangelize the creation of a decentralized user-centric identity infrastructure and to address the resulting social trust issues. 
 
 >"Their most important contribution may have been the creation, in association with the Identity Gang, of the Internet Identity Workshop (2005-Present) working group. "[[**ϟ**](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)]
 
