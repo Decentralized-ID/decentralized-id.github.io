@@ -270,7 +270,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 ![](https://i.imgur.com/3sfiarQ.png)
 
-### BCGov's Verifiable Organizations Network VON
+### BCGov's Verifiable Organizations Network VON[**^**](#Contents)
 
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
 * [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
