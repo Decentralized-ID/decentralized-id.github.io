@@ -606,7 +606,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [MyData Podcast](https://mydata.org/podcast/)
 
 ### Sources[**^**](#Contents)
-* [SSI Meetup](http://ssimeetup.org/)
+* [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**ϟ**](https://www.slideshare.net/SSIMeetup/presentations/)] 
 * [IIW-Wiki](http://iiw.idcommons.net/Main_Page)
 * [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
