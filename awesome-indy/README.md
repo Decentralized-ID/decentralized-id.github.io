@@ -2,7 +2,7 @@
 <a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
 **Protocol, Governance, and Immediately Surrounding Ecosystem** 
 
-/awesome-indy is a growing collection of resources about Hyperledger Indy, the Sovrin Foundation, Evernym, and related projects. It was born of [/awesome-decentralized-id](../README.md) and contains some of the same material. This 'list' is focused on everything related to Hyperedger Indy.
+/awesome-indy is a growing collection of resources about Hyperledger Indy, the Sovrin Foundation, Evernym, and related projects. It was born of [/awesome-decentralized-id](../README.md) and contains some of the same material. This list is focused on everything directly related to Hyperedger Indy.
 
 Since the information is all inter-related, there is some overlapp. Jumping back and will be required depending on your particular interests. 
 
