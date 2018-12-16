@@ -272,14 +272,14 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 ### BCGov's Verifiable Organizations Network VON[**^**](#Contents)
 
-* [~~White Paper: Canada’s Digital ID Future - A Federated Approach~~](https://www.cba.ca/embracing-digital-id-in-canada) depreciated
-* [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**D**](https://vonx.io/getting_started/von-overview/)] [[**>**](#Canada)]
-* "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**](https://github.com/bcgov/theorgbook)] that lists entities with their associated public verifiable claims.
-* [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
-* [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
-* [VON’s Blockchain Basis](https://vonx.io/getting_started/vons-blockchain-basis/)
+  * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**](https://github.com/bcgov/theorgbook)] that lists entities with their associated public verifiable claims.
 * [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP)
+* [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
+* [VON’s Blockchain Basis](https://vonx.io/getting_started/vons-blockchain-basis/)
+* [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
+* [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
+
 
 ### Evernym-Sovrin-Indy Adoption[**^**](#Contents)
 
