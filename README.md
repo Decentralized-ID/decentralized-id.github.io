@@ -38,7 +38,7 @@
   * [Microsoft](#Microsoft)
   * [Ethereum—Protocol](#Ethereum)
      * [Ethereum Apps](#Ethereum-Identity-Applications)
-  * [Personal Data Wallets & Marketplaces](#Personal-Data-Wallets-Marketplaces)  
+  * [Personal Data Wallets & Marketplaces](#Personal-Data-Wallets--Marketplaces)  
   * [Blockchain ID Initiatives](#blockchain-id-initiatives-)
   * [State Sanctioned Identity Initiatives](#State-Led-Initiatives)
     * [European Union](#European-Union)
