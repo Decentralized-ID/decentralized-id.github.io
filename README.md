@@ -65,7 +65,7 @@
 
 —Information is not so easily organized in a linear fashion. 
 
-This list is a by-product of a few clients asking me to write about Indy, which led to writing a few more articles about it, which inspired me to enter all of the best self-sovereign \ decentralized identity links into the database I've been working on; to power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, etc. The SuperSource app will have comments, submissions, ratings and reactions; so that it can become a collabroative effort among anyone who gets involved. Furthermore, the [Crypto Library](http://crypt0library.net) is a growing collection of all types of crypto related information, not only ID. But I'm interested to make an identity specific app for it.
+This list is a by-product of a few clients asking me to write about Indy, which led to writing a few more articles about it, which inspired me to enter all of the best self-sovereign \ decentralized identity links into the database I've been working on; to power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, etc. The SuperSource app will have comments, submissions, ratings and reactions; so that it can become a collabroative effort among anyone who gets involved. Furthermore, the [Crypto Library](http://crypt0library.net) is a growing collection of all types of crypto related information, not only ID. However, I'm interested to make an identity specific app for it.
 
 In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an [awesome list](https://github.com/sindresorhus/awesome) out of them sooner than a live demo of the app that is in progress. 
 
