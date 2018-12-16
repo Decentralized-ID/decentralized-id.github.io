@@ -209,7 +209,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
      * [Drummond Reed](https://equalsdrummond.name/) [[**T**](https://twitter.com/drummondreed)] ([Evernym](https://www.evernym.com/))  
      * [Manu Sporney](http://manu.sporny.org/)[[**T**](https://twitter.com/manusporny)]  ([Digital Bazaar](https://digitalbazaar.com))
      * Dave Longley ([Digital Bazaar](https://digitalbazaar.com))
-     * [Christopher Allen](http://www.lifewithalacrity.com/)[[**T**](https://twitter.com/ChristopherA)][[**G**](https://github.com/ChristopherA)] ([Blockstream](https://blockstream.com/))
+     * [Christopher Allen](http://www.lifewithalacrity.com/) [[**info**](https://github.com/ChristopherA/info)] ([Blockstream](https://blockstream.com/))
      * Ryan Grant
      * [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**T**](https://twitter.com/peacekeeper)][[**G**](https://github.com/peacekeeper)][[**B**](https://medium.com/@markus.sabadello)] ([Danube Tech](https://github.com/projectdanube))
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
