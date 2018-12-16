@@ -59,13 +59,9 @@
   * [Podcasts](#Podcasts)
   * [Sources](#Sources)
 
-   
-
 ## Introduction[**^**](#Contents)
 
->Thanks to those who are working to make our identity experience, and the internet, a better place.
-
-—Information is not so easily organized in a linear fashion. 
+>Thanks to those who are working to make digital identity, and the world, a better place.
 
 ### How I got into Decentralized Identity
 
