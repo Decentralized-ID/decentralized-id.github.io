@@ -189,7 +189,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 ![](http://imgur.com/3zz62kpl.png)
 
 *  [The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
-* [<u>A Technlogy-Free Definition of Self-Sovereign Identity (SSI)</u>](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) 
+* [<u>A Technlogy-Free Definition of Self-Sovereign Identity (SSI)</u>](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) is a continuation of the discussion started by Allen.
 * [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
 * [7 Myths of Self Sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1)
 * [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
