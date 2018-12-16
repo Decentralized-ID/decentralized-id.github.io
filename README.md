@@ -403,8 +403,10 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ### Microsoft[**^**](#Contents)
 
-* Microsoft: [Decentralized Identity—Own and control your identity](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY) [[**ϟ**](https://www.coindesk.com/microsoft-is-pushing-new-blockchain-id-products-but-theres-pushback-too)]
-
+* [Microsoft Azure Own your identity](https://azure.microsoft.com/en-us/overview/decentralized-identity/)
+Discover decentralized identity—a new way to take ownership of your personal data. [**wp**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY) [[**ϟ**](https://www.coindesk.com/microsoft-is-pushing-new-blockchain-id-products-but-theres-pushback-too)]
+* [Mastercard, Microsoft Join Forces to Advance Digital Identity Innovations](https://newsroom.mastercard.com/press-releases/mastercard-microsoft-join-forces-to-advance-digital-identity-innovations/)
+* [Decentralized digital identities and blockchain: The future as we see it](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/decentralized-digital-identities-and-blockchain-the-future-as-we-see-it/)
 
 ### Ethereum[**^**](#Contents)
 
