@@ -196,6 +196,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * [7 Myths of Self Sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1)
 * [SSI Meetup](http://ssimeetup.org/)
 * [Self-Sovereign Identity — wiki.p2pfoundation](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
+* [There’s A Facebook Alternative, It’s Called Self-Sovereign Identity](https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity) —coindesk
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
@@ -370,7 +371,7 @@ Blockstack is a network for decentralized applications where users own their ide
    * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
    * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
 * RWoT—[Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
-  * Hyperledger Indy, W3C and DID related standards are the product of RWoT's efforts towards dpki.
+  * Hyperledger Indy, W3C and DID related standards are the product of RWoT efforts towards dpki.
 * [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
 * [KeyChains: A Decentralized Public-Key Infrastructure](https://drum.lib.umd.edu/bitstream/handle/1903/3332/0.pdf?sequence=1&isAllowed=y)
 * [ClaimChain: Decentralized Public Key Infrastructure](https://www.researchgate.net/publication/318584251_ClaimChain_Decentralized_Public_Key_Infrastructure)
@@ -555,6 +556,8 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin)
 * [Blockchain for Identity Management](https://www.cs.bgu.ac.il/~frankel/TechnicalReports/2016/16-02.pdf) - Details early efforts towards Blockchain-ID
 * [Evernym Research Collection *2016 Archive*](https://web.archive.org/web/20170206161655/http://www.evernym.com/our-research/)
+* [Towards Self-Sovereign Identity using
+Blockchain Technology](https://essay.utwente.nl/71274/1/Baars_MA_BMS.pdf)
 
 ### Additional Thought around Identity
 * [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
