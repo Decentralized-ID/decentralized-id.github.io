@@ -50,6 +50,9 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents.
 
+![](http://imgur.com/3zz62kpl.png)
+
+
 ### Self Sovereign Identity[**^**](#Contents) [**>>**](../README.md#Self-Sovereign-Identity)
 
 [Christopher Allen](http://www.lifewithalacrity.com/)[[**T**](https://twitter.com/ChristopherA)][[**G**](https://github.com/ChristopherA)] details the overarching history of internet idenitity standards in his seminal work **[The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)**[[**ϟ**](https://www.coindesk.com/path-self-sovereign-identity/amp/)]
@@ -290,8 +293,6 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
   >The main idea behind GraphChain is to use blockchain mechanisms on top of an abstract RDF graphs. This paper presents an implementation of GraphChain in the Hyperledger Indy framework. The whole setting is shown to be applied to the RDF graphs containing information about Legal Entity Identifiers (LEIs).
 
 
-![](http://imgur.com/3zz62kpl.png)
-
 ### EU General Data Protection Regulation Act[**^**](#Contents) [**>>**](../README.md#eu-general-data-protection-regulation-act)
 
 * [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
@@ -299,8 +300,6 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Privacy by Design The 7 Foundational Principles](https://www.ipc.on.ca/wp-content/uploads/Resources/7foundationalprinciples.pdf) 
 * [When GDPR Becomes Real, and Blockchain is no longer fairydust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
 * [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
-
-![](http://imgur.com/GdYLQjzl.png)
 
 
 ### Research Papers[**^**](#Contents) [**>>**](../README.md#Research-Papers)
