@@ -177,6 +177,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 * [sovrin-foundation/connector-app](https://github.com/sovrin-foundation/connector-app) - Reference mobile edge agent for use with the Sovrin Network built from Hyperledger Indy.
 * [Building binaries of LibIndy for Android](https://github.com/hyperledger/indy-sdk/blob/master/doc/android-build.md)
+* [HIPE 0014-ssi-notation](https://github.com/hyperledger/indy-hipe/tree/master/text/0014-ssi-notation)
 
 #### IDEMix ZKP [**^**](#Contents)
 * [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519) (Not ID related)
@@ -244,6 +245,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 * [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
 * [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
+* [Agent to Agent Communication](https://drive.google.com/file/d/1PHAy8dMefZG9JNg87Zi33SfKkZvUvXvx/view): Daniel Hardman explains the goals of agent to agent communication
 
 ![](http://imgur.com/XMaq5cil.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
