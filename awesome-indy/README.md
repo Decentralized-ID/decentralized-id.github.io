@@ -334,6 +334,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [/blockchain-id.toml](/blockchain-id.toml)
+* [/blockchain-id2.toml](/blockchain-id2.toml)
 
 **Please see [/awesome-decentralized-id](/README.md) for much more related information—**
 
