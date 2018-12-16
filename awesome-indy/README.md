@@ -250,6 +250,9 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 ### Decentralized Identity Foundation[**^**](#Contents) [**>>**](../README.md#Decentralized-Identity-Foundation)
 
+![](http://imgur.com/PXGV6Xyl.png)
+
+
 On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017):
 * [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
 * [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**B**](https://medium.com/decentralized-identity)] 
