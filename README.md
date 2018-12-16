@@ -608,7 +608,6 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
-* [/blockchain-id.toml](https://github.com/infominer33/awesome-decentralized-id/blob/master/blockchain-id.toml)
 * [identitywoman.net](https://identitywoman.net/)
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
 * [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/)
