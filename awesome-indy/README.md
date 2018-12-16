@@ -49,7 +49,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 #### Link Shorthand
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
-• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents.
+• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. • strikethrough indicates [[~~depreciated content~~](#Link-Shorthand)] 
 
 ![](http://imgur.com/3zz62kpl.png)
 
@@ -272,6 +272,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 ### BCGov's Verifiable Organizations Network VON[**^**](#Contents)
 
+* [~~White Paper: Canada’s Digital ID Future - A Federated Approach~~](https://www.cba.ca/embracing-digital-id-in-canada) depreciated
 * [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**D**](https://vonx.io/getting_started/von-overview/)] [[**>**](#Canada)]
 * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**](https://github.com/bcgov/theorgbook)] that lists entities with their associated public verifiable claims.
