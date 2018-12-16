@@ -4,7 +4,7 @@
 
 /awesome-indy is a growing collection of resources about Hyperledger Indy, the Sovrin Foundation, Evernym, and related projects. It was born of [/awesome-decentralized-id](../README.md) and contains some of the same material. This list is focused on everything directly related to Hyperedger Indy.
 
-Since the information is all inter-related, there is some overlapp. Jumping back and will be required depending on your particular interests. 
+Since the information is all inter-related, there is some overlapp. Some skipping back and forth may be required, depending on your particular interests. 
 
 **[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and\or [Contributions](#brought-to-you-by-the-crypto-librarysuper-source) Welcome**
 
