@@ -339,7 +339,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [MyData Podcast](https://mydata.org/podcast/)
 
 ### Sources[**^**](#Contents) [**>>**](../README.md#Sources)
-* [SSI Meetup](http://ssimeetup.org/)
+* [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**ϟ**](https://www.slideshare.net/SSIMeetup/presentations/)] 
 * [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
