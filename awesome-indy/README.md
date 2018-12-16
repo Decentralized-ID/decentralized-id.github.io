@@ -43,13 +43,13 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
 
 Internet Identity Workshop is where the quest for concious, user-centric, identity began. Rebooting Web-of-Trust Workshops sprung from the IIW, focused on creating standards for DPKI. Among the United Nations 'Sustainable Development Goals' is for all the world to have access to a digital identity by 2030. Around 2016, the SDGs, blockchain, and the GDPR converged bringing much energy to the decentralized identity ecosystem. 
 
-**Additional history much more related information may be found at [/awesome-decentralized-id](../README.md#Contents)**.
+**Additional history and related information may be found at [/awesome-decentralized-id](../README.md#Contents)**.
 
 ---
 
 #### Link Shorthand
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
-• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. • strikethrough indicates [[~~depreciated content~~](#Link-Shorthand)] 
+• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. 
 
 ![](http://imgur.com/3zz62kpl.png)
 
@@ -62,7 +62,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
 * [7 Myths of Self Sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1)
 * [SSI Meetup](http://ssimeetup.org/)
-* [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
+* [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/mast• strikethrough indicates er/final-documents/a-roadmap-for-ssi.md)
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
 
