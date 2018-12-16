@@ -127,7 +127,7 @@ The same month, the UN unveiled it's *[Agenda for Sustainable Development](https
   >* Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
   >* Substantially reduce corruption and bribery in all their forms
 Develop effective, accountable and transparent institutions at all levels
-  >* **By 2030, provide legal identity for all, including birth registration**
+  >* **By 2030, [provide legal identity for all](https://sustainabledevelopment.un.org/sdg16), including birth registration**
   >* Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements—(*emphasis mine*)
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
 * [AID:Tech](https://aid.technology) [[**T**]](https://twitter.com/aidtechnology) — "is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner." (another early example of blockchain for humanitarian aide)
