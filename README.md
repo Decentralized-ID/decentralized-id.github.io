@@ -72,7 +72,7 @@ I also [collect resources](http://crypt0library.net) on nearly every subject in 
 
 ### /awesome-indy and /blockchain-identity
 
-**[/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/)** is another list that naturally grew from this one; focused on Sovrin/Indy protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will compliment each-other.
+**[/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/)** is another list that naturally grew from this one; focused on Sovrin/Indy protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will all compliment each-other.
 
 For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. I expect to be actively engaged building this repository for the next month or so, and look forward to it growing along with decentralized identity (irl) over the coming years.
 
