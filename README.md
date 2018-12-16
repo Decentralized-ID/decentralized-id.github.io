@@ -67,11 +67,9 @@
 
 ### How I got into Decentralized Identity
 
-I was offering freelance research services on Fiverr, and was introduced to the subject of digital identity through a different clients. One had me write a 3500 word report on "Blockchain and the United Nations." Another client had me write a 1500 word report on blockchain identity, an exploration of the sector. So, I had collected a ton of information on decentralzied id.
+I was offering freelance research services on Fiverr, and was introduced to the subject of digital identity through a different clients. One had me write a 3500 word report on "Blockchain and the United Nations." Another client had me write a 1500 word report on blockchain identity, an exploration of the sector. So, I had collected a ton of information on decentralzied id. I'm not on fiverr anymore, but I still do reserach :)
 
-I also [collect resources](http://crypt0library.net) on nearly every subject in crypto, which I'm slowly entering into a database to power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, etc. Since I enjoy the subject so much, I decided to enter all of my ID resources into [toml](/blockchain-id.toml), and I knew I could make an [awesome list](https://github.com/sindresorhus/awesome) out of them sooner than a live demo of the app that is in progress. 
-
-The SuperSource app will have comments, submissions, ratings and reactions; so that it can become a collabroative effort among anyone who gets involved. 
+I also [collect resources](http://crypt0library.net) on nearly every subject in crypto, which I'm slowly entering into a database to power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, etc. Since I enjoy the subject so much, I decided to enter all of my DID resources into [toml](/blockchain-id.toml), and I knew I could make an [awesome list](https://github.com/sindresorhus/awesome) out of them sooner than a live demo of the app that is in progress. All of this work feeds into the rest, collecting resources helps me write, writing makes me find more resources. Putting the resources into the database also leads to collecting more resources, which will help me (and others) create quality content as time goes on.
 
 ### /awesome-indy and /blockchain-identity
 
