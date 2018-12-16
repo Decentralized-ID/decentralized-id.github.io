@@ -56,6 +56,7 @@
   * [Research Papers](#Research-Papers)
   * [Additional Thought around Identity](#Additional-Thought-around-Identity)
   * [Videos](#Video)
+  * [Slideshare](#slideshare)
   * [Podcasts](#Podcasts)
   * [Sources](#Sources)
 
