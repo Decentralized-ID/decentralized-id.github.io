@@ -65,9 +65,15 @@
 
 —Information is not so easily organized in a linear fashion. 
 
-This list is a by-product of a few clients asking me to write about Indy, which led to writing a few more articles about it, which inspired me to enter all of the best self-sovereign \ decentralized identity links into the database I've been working on; to power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, etc. The SuperSource app will have comments, submissions, ratings and reactions; so that it can become a collabroative effort among anyone who gets involved. Furthermore, the [Crypto Library](http://crypt0library.net) is a growing collection of all types of crypto related information, not only ID. However, I'm interested to make an identity specific app for it.
+### How I got into Decentralized Identity
 
-In the mean-time, after gathering all of the links I had already into [one collection](/blockchain-id.toml), I knew I could make an [awesome list](https://github.com/sindresorhus/awesome) out of them sooner than a live demo of the app that is in progress. 
+I was offering freelance research services on Fiverr, and was introduced to the subject of digital identity through a different clients. One had me write a 3500 word report on "Blockchain and the United Nations." Another client had me write a 1500 word report on blockchain identity, an exploration of the sector. So, I had collected a ton of information on decentralzied id.
+
+I also [collect resources](http://crypt0library.net) on nearly every subject in crypto, which I'm slowly entering into a database to power a [web-app](https://github.com/infominer33/Crypto-library) for search, navigation by tags, etc. Since I enjoy the subject so much, I decided to enter all of my ID resources into [toml](/blockchain-id.toml), and I knew I could make an [awesome list](https://github.com/sindresorhus/awesome) out of them sooner than a live demo of the app that is in progress. 
+
+The SuperSource app will have comments, submissions, ratings and reactions; so that it can become a collabroative effort among anyone who gets involved. 
+
+### /awesome-indy and /blockchain-identity
 
 **ϟ** **[/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/)** is another list that naturally grew from this one; focused on Sovrin/Indy protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will compliment each-other. **ϟ**
 
