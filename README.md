@@ -9,6 +9,8 @@
 ### Contents
 
 * [Introduction](#Introduction)
+  * [How I got into Decentralized-ID](#how-i-got-into-decentralized-identity)
+  * [/awesome-indy and /blockchain-identity](#awesome-indy-and-blockchain-identity)
   * [Link Shorthand](#Link-Shorthand)
 * [History](#History)
   * [The Augmented Social Network and the IDCommons](#the-augmented-social-network-and-the-idcommons)
@@ -83,7 +85,7 @@ For now, I'm becoming more familiar with all of this material, and how it fits t
 
 #### Link Shorthand:
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
-• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents. • strikethrough indicates [[~~depreciated content~~](#Link-Shorthand)] 
+• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents.
 
 ## History[**^**](#Contents)
 
