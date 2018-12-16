@@ -38,7 +38,7 @@
   * [Microsoft](#Microsoft)
   * [Ethereum—Protocol](#Ethereum)
      * [Ethereum Apps](#Ethereum-Identity-Applications)
-  * [Personal Data: Wallets, Marketplaces, etc](#Personal-Data-Wallets-Marketplaces-etc)  
+  * [Personal Data Wallets & Marketplaces](#Personal-Data-Wallets-Marketplaces)  
   * [Blockchain ID Initiatives](#blockchain-id-initiatives-)
   * [State Sanctioned Identity Initiatives](#State-Led-Initiatives)
     * [European Union](#European-Union)
@@ -440,7 +440,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
  POA Network is an Ethereum-based platform that offers an open-source framework for smart contracts. POA Network is a sidechain to Ethereum utilizing [Proof of Authority](https://blockonomi.com/proof-of-authority/)
  as its consensus mechanism. 
 
-### Personal Data: Wallets, Marketplaces, etc.[**^**](#Contents)
+### Personal Data Wallets & Marketplaces[**^**](#Contents)
 
 * [Mydata](http://mydata.org/) [[**T**](https://twitter.com/mydataorg)] [[**D**](https://mydata.org/papers/)] [[**D**](https://mydata.org/declaration/)]
    * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
