@@ -361,9 +361,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) edx course may be freely audited and has a section on Indy.
 * [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 * [Hyperledger Ursa](https://wiki.hyperledger.org/projects/ursa) "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the [shared library](https://github.com/hyperledger/ursa) will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram)[[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)]
-* [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](https://github.com/infominer33/awesome-decentralized-id#canada-)]
-   * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims."
-   * [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
+* [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](#canada-)]
 * [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/) - **See here for additional indy related material.**
 
 ### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
@@ -478,11 +476,14 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
 
 
-#### Canada [**^**](#Contents)
+#### Canada [**^**](#Contents) [**>**](#Hyperledger-Indy)
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
 * [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
-* [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] 
-   * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://github.com/bcgov/theorgbook) that lists entities with their associated public verifiable claims."
+* [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**D**](https://vonx.io/getting_started/von-overview/)] [[**>**](#Canada)]
+* "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**](https://github.com/bcgov/theorgbook)] that lists entities with their associated public verifiable claims.
+* [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
+* [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
+* [VON’s Blockchain Basis](https://vonx.io/getting_started/vons-blockchain-basis/)
 * [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP)
 
 #### Netherlands[**^**](#Contents)

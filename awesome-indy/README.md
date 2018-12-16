@@ -28,6 +28,7 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
   * [Verifiable Claims](#Verifiable-Claims)
   * [Decentralized Key Management (Agents)](#decentralized-key-management-hubs-agents)
 * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
+* [BCGov's Verifiable Organizations Network (VON)](#bcgovs-verifiable-organizations-network-von)
 * [Evernym-Sovrin-Indy Adoption](#Evernym-Sovrin-Indy-Adoption)
 * [GDPR](#EU-General-Data-Protection-Regulation-Act)
 * [Research Papers](#Research-Papers)
@@ -271,12 +272,14 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 ### BCGov's Verifiable Organizations Network VON
 
-* [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](#Canada)]
+* [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
+* [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
+* [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**D**](https://vonx.io/getting_started/von-overview/)] [[**>**](#Canada)]
 * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**](https://github.com/bcgov/theorgbook)] that lists entities with their associated public verifiable claims.
 * [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
 * [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
 * [VON’s Blockchain Basis](https://vonx.io/getting_started/vons-blockchain-basis/)
-
+* [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP)
 
 ### Evernym-Sovrin-Indy Adoption[**^**](#Contents)
 
