@@ -177,6 +177,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Blockchain development made easy: Getting started with Hyperledger Indy](https://jaxenter.com/hyperledger-indy-interview-hardman-148796.html) - Interview with Daniel Hardman[[**G**](https://github.com/dhh1128)][[**L**](https://www.linkedin.com/in/danielhardman/)][[**T**](https://twitter.com/dhh1128)], Hyperledger Indy maintainer
 * [Hyperledger Indy Working Group Calls](https://drive.google.com/drive/u/0/folders/1AwHWN95KmSEi5fijraID0tFFMzYHoMwt?ogsrc=32)
 
+![](http://i.imgur.com/0Mr3YMn.pnghttps://i.imgur.com/CvQnRZ2.png)
 
 #### BCGov's Verifiable Organizations Network VON[**^**](#Contents)
 
