@@ -1,10 +1,11 @@
 # Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
-**DID, Blockchain and Self-Sovereign Identity Resources**
+**Self-Sovereign, Blockchain and Decentralized Identity Resources**
 
 ![](https://i.imgur.com/9KpJRDr.png)
 
->Imagine a world where you are in direct control of your personal information; a world where you can limit and control how much information you share while retaining the ability to transact in the world. This is self-sovereign identity, and it is already here. Blockchain is the underlying technology paving the path to self-sovereign identity through decentralized networks. It ensures privacy and trust, where transactions are secure, authenticated and verifiable and endorsed by relevant, permissioned participants.  [-Jerry Cuomo](https://techcrunch.com/2017/09/10/the-promise-of-managing-identity-on-the-blockchain/) (IBM)
+>A good self‐sovereign identity system will allow individuals to directly influence how companies,  governments, and others correlate our interactions across different services and locations by default. It  won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. -[Joe Andrieu, A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
 
+This is a gathering of educational materials around decentralized, self-sovereign, and blockchain identity. Its an index for training, developers, students, end-users, investors, and the enterprise to more easily learn and navigate the self-sovereign decentralized identity landscape.
 
 ### Contents
 
