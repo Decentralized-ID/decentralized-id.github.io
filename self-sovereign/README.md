@@ -1,6 +1,10 @@
 # self-sovereign-identity
 Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
 
+I copied this from my fork of [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity)
+
+I'm going to use these materials to create a collaborative article on the Evolution of Self Sovereign Identity; to highlight the best thought on the matter since 2016, and highlight areas where our documentation could be refined.
+
 ## Local to this repository
 * [The Path to Self-Sovereign Identity](ThePathToSelf-SovereignIdentity.md) - The original article on Self-Sovereign Identity and the 10 Principles of Self-Sovereign Identity as published on 2016-04-25 in github and at [Life With Alacrity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) by [Christopher Allen](http://www.github.com/christophera)
 
