@@ -475,12 +475,15 @@ Discover decentralized identity—a new way to take ownership of your personal d
 
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)
 
+![](http://i.imgur.com/DuQXLhs.png)
+
 #### European Union
 
 * [EU BLOCKCHAIN OBSERVATORY AND FORUM—Workshop Report e-Identity](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
 * [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
 * EU Blockchain Forum - [BLOCKCHAIN FOR GOVERNMENT AND PUBLIC SERVICES](https://www.eublockchainforum.eu/sites/default/files/reports/eu_observatory_blockchain_in_government_services_v1_2018-12-07.pdf)
 
+![](http://i.imgur.com/1QmQiy2.png)
 
 #### Canada [**^**](#Contents) [**>**](#Hyperledger-Indy)
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**D**](https://vonx.io/getting_started/von-overview/)] [[**>**](#Canada)]
@@ -493,7 +496,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [SecureKey](http://securekey.com/): [partners with IBM](http://www-03.ibm.com/press/us/en/pressrelease/51841.wss) to enable a new digital identity and attribute sharing network based on Hyperledger Fabric blockchain.
   * [SecureKey Technologies to explore interoperability between Verified.Me and Hyperledger Indy](https://securekey.com/press-releases/hyperledger-indy/)
 
-
+![](http://i.imgur.com/Qx8ZjW0.png)
 
 #### Netherlands[**^**](#Contents)
 * [TU Delft helps develop digital ID for use on your phone](https://www.tudelft.nl/en/2018/tu-delft/tu-delft-helps-develop-digital-id-for-use-on-your-phone/)
@@ -501,17 +504,24 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [TrustChain: A Sybil-resistant scalable blockchain - Presentation](http://msn.iecs.fcu.edu.tw/report/download.php?)
 * [Dutch Blockchain Coalition](https://www.dutchdigitaldelta.nl/en/blockchain) [[**ϟ**](https://dutchdigitaldelta.nl/uploads/pdf/Dutch-Blockchain-Coalition-action-agenda-ENG.pdf)]
 
+![](http://i.imgur.com/5TAfj82.png)
+
 #### USA[**^**](#Contents)
 * [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)
 * [U.S. Department of Homeland Security funds four Blockchains](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology)
 
+![](http://i.imgur.com/JKDcTOK.png)
 
 #### Spain[**^**](#Contents)
 * [Alastria](https://alastria.io/) [[**G**](https://github.com/alastria/alastria-identity)] 
    * a non-profit consortium building a national blockchain ecosystem for Spain. The security and veracity of information will be ensured through the identification of natural and legal persons, while at the same time allowing citizens to have control over their personal information in a transparent way following the guidelines set by the European Union.
 
+![](http://i.imgur.com/yuP8j7V.png)
+
 #### Switzerland[**^**](#Contents)
 * [Zug ID: Exploring the First Publicly Verified Blockchain Identity](https://medium.com/uport/zug-id-exploring-the-first-publicly-verified-blockchain-identity-38bd0ee3702) (uport\ethereum)
+
+![](https://i.imgur.com/CvQnRZ2.png)
 
 #### Estonia[**^**](#Contents)
 * [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) ([**id.ee**](https://www.id.ee/))
