@@ -164,7 +164,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ![](http://imgur.com/2LWlrgvl.png)\
 <sup><a href="https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies">Linux Foundation -Blockchain for Business -INDY</a></sup>
 
-* [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**T**](https://twitter.com/Hyperledger)] [[**G**](https://github.com/hyperledger/indy-sdk)]
+* [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**T**](https://twitter.com/Hyperledger)] [[**G**](https://github.com/hyperledger/indy-sdk)] [[**C**]()]
 * [Indy Documentation Index - wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
 * [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
 * [Hyperledger Indy — the Future of Decentralized Identity](https://medium.com/axiom-tech/hyperledger-indy-the-future-of-decentralized-identity-9de5c2459e4e)
@@ -175,6 +175,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [github.com/IBM-Blockchain-Identity](https://github.com/IBM-Blockchain-Identity) (Docker based tutorial sandbox env)
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section about Indy.
 * [Blockchain development made easy: Getting started with Hyperledger Indy](https://jaxenter.com/hyperledger-indy-interview-hardman-148796.html) - Interview with Daniel Hardman[[**G**](https://github.com/dhh1128)][[**L**](https://www.linkedin.com/in/danielhardman/)][[**T**](https://twitter.com/dhh1128)], Hyperledger Indy maintainer
+* [Hyperledger Indy Working Group Calls](https://drive.google.com/drive/u/0/folders/1AwHWN95KmSEi5fijraID0tFFMzYHoMwt?ogsrc=32)
 
 
 #### BCGov's Verifiable Organizations Network VON[**^**](#Contents)
@@ -183,6 +184,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
   * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**](https://github.com/bcgov/theorgbook)] that lists entities with their associated public verifiable claims.
 * [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP)
 * [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
+* [BC.gov Verifiable Organizations Network Demo](https://drive.google.com/open?id=1Ms2vKqTe-jVDpz5eWtQIqIz8Jl6TLbSE) (video)
 * [VON’s Blockchain Basis](https://vonx.io/getting_started/vons-blockchain-basis/)
 * [Getting Started with Hyperledger Indy](https://cdn.oreillystatic.com/en/assets/1/event/274/Getting%20started%20with%20Hyperledger%20Indy%20Presentation.pdf)
 * [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
