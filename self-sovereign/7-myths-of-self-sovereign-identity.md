@@ -35,6 +35,6 @@ SSI isn't dependent upon any particular means of authentication. It offers a pro
 
 #### Myth 7: User-centric identity is the same as SSI.
 
-User-centric identity gaves the user greater control than before, and that’s great! However, it never realized its original intent — user independence — and it actually left large intermediaries with even more power than before. Facebook and Google, the biggest beneficiaries of the move to user-centric identity, would call their services user-centric.
+User-centric identity gives the user greater control than before, and that’s great! However, it never realized its original intent — user independence — and it actually left large intermediaries with even more power than before. Facebook and Google, the biggest beneficiaries of the move to user-centric identity, would call their services user-centric.
 
 Even the term gives it away: you’re still a user and not the owner, and that means the underlying service is siloed or federated, not self-sovereign. Of course with SSI there are services provided by third parties, such as cloud agent hosting and relationship management apps and tools, but they are modular and replaceable.
