@@ -477,6 +477,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
 
 * [EU BLOCKCHAIN OBSERVATORY AND FORUM—Workshop Report e-Identity](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
 * [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
+* EU Blockchain Forum - [BLOCKCHAIN FOR GOVERNMENT AND PUBLIC SERVICES](https://www.eublockchainforum.eu/sites/default/files/reports/eu_observatory_blockchain_in_government_services_v1_2018-12-07.pdf)
 
 
 #### Canada [**^**](#Contents) [**>**](#Hyperledger-Indy)
@@ -494,7 +495,6 @@ Discover decentralized identity—a new way to take ownership of your personal d
 
 #### Netherlands[**^**](#Contents)
 * [TU Delft helps develop digital ID for use on your phone](https://www.tudelft.nl/en/2018/tu-delft/tu-delft-helps-develop-digital-id-for-use-on-your-phone/)
-* [Self-Sovereign Identity Systems for Humanitarian Interventions—A Case Study on Protective Cash Transfer Programs](https://repository.tudelft.nl/islandora/object/uuid:6cdb5450-9a81-47a9-8ffa-f9bd77c72448/datastream/OBJ1/download)
 * [Deployment of a Blockchain-Based Self-Sovereign Identity - Delft](https://arxiv.org/pdf/1806.01926.pdf)
 * [TrustChain: A Sybil-resistant scalable blockchain - Presentation](http://msn.iecs.fcu.edu.tw/report/download.php?)
 * [Dutch Blockchain Coalition](https://www.dutchdigitaldelta.nl/en/blockchain) [[**ϟ**](https://dutchdigitaldelta.nl/uploads/pdf/Dutch-Blockchain-Coalition-action-agenda-ENG.pdf)]
@@ -525,7 +525,8 @@ Discover decentralized identity—a new way to take ownership of your personal d
   * uses [State In A Box - Identity Services Architecture](http://guptaoption.com/4.SIAB-ISA.php)
 * [World Identity Netowork](https://win.systems/)  
   * Blockchain for Impact [(BFI)-UN]((https://www.pvblic.org/blockchainforimpact))
-
+* [Self-Sovereign Identity Systems for Humanitarian Interventions—A Case Study on Protective Cash Transfer Programs](https://repository.tudelft.nl/islandora/object/uuid:6cdb5450-9a81-47a9-8ffa-f9bd77c72448/datastream/OBJ1/download)
+* [The Nail Finds a Hammer: Self-Sovereign Identity, Design Principles, and Property Rights in the Developing World](https://www.newamerica.org/future-property-rights/reports/nail-finds-hammer/)
 
 ![](https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png)
 
@@ -556,7 +557,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [Global Blockchain Identity Management Market 2018-2022](https://www.technavio.com/report/global-blockchain-identity-management-market-analysis-share-2018)
 * [A Comprehensive Guide to Self Sovereign Identity](https://ssiscoop.com/) - by Kaliya ['Identity Woman'](https://twitter.com/IdentityWoman) Young and [Heather Vescent](https://twitter.com/heathervescent) [[**ϟ**](https://www.thepaypers.com/expert-opinion/10-things-you-need-to-know-about-self-sovereign-identity-part-1/774556)]
 * [Report launch: ‘Identity at the Margins — identification systems for refugees”](https://medium.com/caribou-digital/report-launch-identity-at-the-margins-identification-systems-for-refugees-69466244fa62)
-
+* [WEF: Identity in a Digital World A new chapter in the social contract](http://www3.weforum.org/docs/WEF_INSIGHT_REPORT_Digital%20Identity.pdf)
 
 
 ### Research-Papers[**^**](#Contents)
