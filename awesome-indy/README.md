@@ -20,6 +20,7 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
   * [Sovrin Stewards](#Sovrin-Stewards)
   * [Selected Articles Windley.com](#Selected-Articles-Windley.com)
 * [Hyperledger Indy](#Hyperledger-Indy)
+  * [BCGov's Verifiable Organizations Network (VON)](#bcgovs-verifiable-organizations-network-von)
   * [Additional Indy Related](#Additional-Indy-Related)
   * [IDEMix ZKP](#IDEMix-ZKP)
 * [W3C and DID Related Standards](#W3C-and-DID-Related-Standards)
@@ -28,7 +29,6 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
   * [Verifiable Claims](#Verifiable-Claims)
   * [Decentralized Key Management (Agents)](#decentralized-key-management-hubs-agents)
 * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
-* [BCGov's Verifiable Organizations Network (VON)](#bcgovs-verifiable-organizations-network-von)
 * [Evernym-Sovrin-Indy Adoption](#Evernym-Sovrin-Indy-Adoption)
 * [GDPR](#EU-General-Data-Protection-Regulation-Act)
 * [Research Papers](#Research-Papers)
@@ -168,6 +168,18 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [github.com/IBM-Blockchain-Identity](https://github.com/IBM-Blockchain-Identity) (Docker based tutorial sandbox env)
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section about Indy.
 
+#### BCGov's Verifiable Organizations Network VON[**^**](#Contents)
+
+* [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**D**](https://vonx.io/getting_started/von-overview/)] [[**>**](#Canada)]
+  * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**](https://github.com/bcgov/theorgbook)] that lists entities with their associated public verifiable claims.
+* [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP)
+* [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
+* [VON’s Blockchain Basis](https://vonx.io/getting_started/vons-blockchain-basis/)
+* [Getting Started with Hyperledger Indy](https://cdn.oreillystatic.com/en/assets/1/event/274/Getting%20started%20with%20Hyperledger%20Indy%20Presentation.pdf)
+* [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
+* [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
+
+
 #### Additional Indy Related[**^**](#Contents) 
 * [Plenum Bzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki)
    * "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem."
@@ -269,16 +281,6 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 
 ![](https://i.imgur.com/3sfiarQ.png)
-
-### BCGov's Verifiable Organizations Network VON[**^**](#Contents)
-
-* [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**D**](https://vonx.io/getting_started/von-overview/)] [[**>**](#Canada)]
-  * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**](https://github.com/bcgov/theorgbook)] that lists entities with their associated public verifiable claims.
-* [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP)
-* [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
-* [VON’s Blockchain Basis](https://vonx.io/getting_started/vons-blockchain-basis/)
-* [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
-* [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
 
 
 ### Evernym-Sovrin-Indy Adoption[**^**](#Contents)
