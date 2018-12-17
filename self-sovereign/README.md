@@ -12,7 +12,7 @@ This is just a temporary workspace. I'm going to use these materials to create t
 
 * [Core Characteristics of Self Sovereign Identity](characteristics-of-sovereign-identity.md) - from *A Technology-Free Definition of SSI* for review and comparison against *10 Principles of SSI*
 
-* [7 Myths of Self Sovereign Identity](7-myths-of-self-sovereign-identity.md) - from Tim Ruff's [blog post](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1).
+* [7 Myths of Self Sovereign Identity](7-myths-of-self-sovereign-identity.md) - from Timothy Ruff's [blog post](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1).
 
 ## Elsewhere
 
