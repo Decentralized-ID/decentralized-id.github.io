@@ -1,7 +1,7 @@
 # self-sovereign-identity
 Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
 
-I copied this from my fork of [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity)
+I copied this from [my fork](https://github.com/infominer33/self-sovereign-identity) of [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 
 I'm going to use these materials to create a collaborative article on the Evolution of Self Sovereign Identity; to highlight the best thought on the matter since 2016, and highlight a few needs as I see them.
 
