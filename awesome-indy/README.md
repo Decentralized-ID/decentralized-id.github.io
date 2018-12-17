@@ -92,6 +92,10 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/)
 * [How Sovrin Works: A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
 * [Sovrin Test Network Trust Anchor Registration](https://s3.us-east-2.amazonaws.com/evernym-cs/sovrin-STNnetwork/www/trust-anchor.html)[[**F**](https://forum.sovrin.org/t/testing-on-the-sovrin-test-network-stn/643/17)]
+* [Sovrin Main Net Outage, December 2018](https://forum.sovrin.org/t/sovrin-main-net-outage-december-2018/1010)
+  > The Sovrin Main Network experienced an outage lasting from Saturday 2018-12-08 until Tuesday 2018-12-11. This was our first significant outage of the network. This post describes the incident, how it was addressed, and what we are doing to prevent future incidents and improve our responses.
+  * [Sovrin Status Twitter](https://twitter.com/sovrin_status)
+
 
 #### Sovrin Stewards[**^**](#Contents)
 
@@ -150,9 +154,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Decentralization in Sovrin](http://www.windley.com/archives/2018/10/decentralization_in_sovrin.shtml)
 * [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml)
 * [The Sovrin Ecosystem](http://www.windley.com/archives/2018/11/the_sovrin_ecosystem.shtml) (Disambiguating between Evernym, Sovrin, and Indy)
-* [Sovrin Main Net Outage, December 2018](https://forum.sovrin.org/t/sovrin-main-net-outage-december-2018/1010)
-  > The Sovrin Main Network experienced an outage lasting from Saturday 2018-12-08 until Tuesday 2018-12-11. This was our first significant outage of the network. This post describes the incident, how it was addressed, and what we are doing to prevent future incidents and improve our responses.
-* [Sovrin Status Twitter](https://twitter.com/sovrin_status)
+
 
 
 ### Hyperledger Indy[**^**](#Contents)
