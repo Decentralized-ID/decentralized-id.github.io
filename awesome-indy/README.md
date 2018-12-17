@@ -2,7 +2,7 @@
 <a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
 **Protocol, Governance, and Immediately Surrounding Ecosystem** 
 
-This page contains a growing collection of resources related to Evernym, the Sovrin Foundation, and Hyperledger Indy. It was born from [/awesome-decentralized-id](../README.md) and relates some of the same material. However, this list is focused on everything directly related to Hyperedger Indy. Its an index for end users, students, investors, developers, and enterprise.
+This page contains a growing collection of educational resources related to Evernym, the Sovrin Foundation, and Hyperledger Indy. It was born from [/awesome-decentralized-id](../README.md) and relates some of the same material. However, this list is focused on everything directly related to learning Hyperedger Indy. Its an index for training, end users, students, investors, developers, and enterprise.
 
 Since the information is all inter-related, there is some overlapp. Skipping back and forth may be required, depending on your particular interests. 
 
