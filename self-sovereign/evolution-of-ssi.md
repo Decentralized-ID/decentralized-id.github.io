@@ -51,4 +51,4 @@ That's not exhaustive, but those are 5 goals.  We have the foundations of some c
 
 I can see that I'll need to spend a lot more time with this content, am just learning my way around it right now.  
 
-I'm not the most qualified, I just have the time and motivation.
+I'm not the most qualified, I just have time and motivation.
