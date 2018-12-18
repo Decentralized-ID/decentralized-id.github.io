@@ -40,12 +40,14 @@ This is a modular breakdown of SSI documentation I would like to facilitate:
 
 2. "Principles of SSI" whatever you wanna call it, a complete, concise, and "exhaustive" list of foundational SSI principles or movement in that direction.
 
-3. Myths of SSI
+3. SSI Why Blockchain? (yes, we know why, but it's not written anywhere in a concicse ~1200 word document.)
 
-4. SSI Use Cases.
+4. Myths of SSI
+
+5. SSI Use Cases. (a'la "how to convince dad")
 
 
-That's not exhaustive, but those are 4 goals that I think will improve SSI documentation\onboarding.
+That's not exhaustive, but those are 5 goals.  We have the foundations of some core SSI content\documentation that I think will improve SSI education\onboarding. 
 
 I can see that I'll need to spend a lot more time with this content, am just learning my way around it right now.  
 
