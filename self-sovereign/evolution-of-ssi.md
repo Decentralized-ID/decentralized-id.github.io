@@ -46,7 +46,7 @@ This is a modular breakdown of SSI documentation I would like to facilitate:
 1. History of Digital Identity. Along the lines of Christopher Allen
 
 2. "How SSI works for the User" something along the line of how Antony Lewis 
-  - At its essence, this describes "ssi architecture" so to speak: 'wallet', 'identifier', 'credential' etc and how it interelates 
+   - At its essence, this describes "ssi architecture" so to speak: 'wallet', 'identifier', 'credential' etc and how it interelates 
 
 3. "Principles of SSI" whatever you wanna call it, a complete, concise, and "exhaustive" list of foundational SSI principles or progress in that direction.
 
@@ -55,7 +55,7 @@ This is a modular breakdown of SSI documentation I would like to facilitate:
 5. Myths of SSI
 
 6. SSI Use Cases. (a'la "how to convince dad")
-  - This uses the foundation "how SSI works for the USER" to go into more specific details of real life UX
+   - This uses the foundation "how SSI works for the USER" to go into more specific details of real life UX
 
 I'm not limited to those 6, and I'm not glued to that order, but thats a general goal, and "how I would do it."  We have the foundations of some core SSI content\documentation that I think will improve SSI education\onboarding. Just as in modularizing a codebase, modularizing SSI documentation will make it easier for any aspect to be improved as needed. I hope for these to become living community driven documents. Pesonally, I'm good at collecting, organizing, and digesting information, but am new to the SSI community, so I'm sure there's plenty I'm not thinking of, or am missing.
 
