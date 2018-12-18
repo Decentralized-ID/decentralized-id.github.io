@@ -57,7 +57,7 @@ This is a modular breakdown of SSI documentation I would like to facilitate:
 6. SSI Use Cases. (a'la "how to convince dad")
    - This uses the foundation "how SSI works for the USER" to go into more specific details of real life UX
 
-I'm not limited to those 6, and I'm not glued to that order, but thats a general goal, and "how I would do it."  We have the foundations of some core SSI content\documentation that I think will improve SSI education\onboarding. Just as in modularizing a codebase, modularizing SSI documentation will make it easier for any aspect to be improved as needed. I hope for these to become living community driven documents. Pesonally, I'm good at collecting, organizing, and digesting information, but am new to the SSI community, so I'm sure there's plenty I'm not thinking of, or am missing.
+I'm not limited to those 6, and I'm not glued to that order, but thats a general goal, and "how I would do it."  We have the foundations of some core SSI content\documentation that I think will improve SSI education\onboarding. Just as in modularizing a codebase, modularizing SSI documentation will make it easier for any aspect to be improved as needed. I hope for these to become living community driven documents. Personally, I'm good at collecting, organizing, and digesting information, but am new to the SSI community, so I'm sure there's plenty I'm not considering.
 
 I can see that I'll need to spend a lot more time with this content, am just learning my way around it right now.  
 
