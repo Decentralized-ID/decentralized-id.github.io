@@ -18,7 +18,7 @@ Andrieu explores what people need from self-sovereign identity, independant from
 
 In conclusion, we are offered : **Control**. **Acceptance**. **Zero Cost**.
 
-I'd like to review the <i>the fundamental characteristics of self‐sovereign identity</i> as detailed by Joe Andreiu, and compare it with each of the <i>principles</i> individually. In this way, it will be plain to see how well the principles are represented within the characteristics, and determine if the characteristics are an overall improvement.
+I'd like to review the <i>the fundamental characteristics of self‐sovereign identity</i> as detailed by Joe Andreiu, and compare it with each of the <i>principles</i> individually to determine if the characteristics are an overall improvement.
 
 ### Fundamental Characteristics of Self-Sovereign Identity
 
