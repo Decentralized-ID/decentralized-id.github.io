@@ -10,7 +10,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
 ### Contents
 
 * [Introduction](#Introduction)
-  * [/awesome-indy and /blockchain-identity](#awesome-indy-and-blockchain-identity)
+  * [/awesome-indy and /blockchain-identity](#blockchain-identity-and-awesome-indy)
   * [How I got into Decentralized-ID](#how-i-got-into-decentralized-identity)
   * [Link Shorthand](#Link-Shorthand)
 * [History](#History)
