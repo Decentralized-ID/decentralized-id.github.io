@@ -10,8 +10,8 @@ This is a gathering of educational materials around decentralized, self-sovereig
 ### Contents
 
 * [Introduction](#Introduction)
-  * [How I got into Decentralized-ID](#how-i-got-into-decentralized-identity)
   * [/awesome-indy and /blockchain-identity](#awesome-indy-and-blockchain-identity)
+  * [How I got into Decentralized-ID](#how-i-got-into-decentralized-identity)
   * [Link Shorthand](#Link-Shorthand)
 * [History](#History)
   * [The Augmented Social Network and the IDCommons](#the-augmented-social-network-and-the-idcommons)
@@ -65,6 +65,13 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 >Thanks to those who are working to make digital identity, and the world, a better place.
 
+### /blockchain-identity and /awesome-indy
+
+**[/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/)** is another list that naturally grew from this one; focused on Sovrin/Indy protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will all compliment each-other.
+
+For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. I expect to be actively engaged building this repository for the next month or so, and look forward to it growing along with decentralized identity (irl) over the coming years.
+
+
 ### How I got into Decentralized Identity
 
 I was offering freelance research services on Fiverr, and was introduced to the subject of digital identity through a few different clients. One had me write a 3500 word report on "Blockchain and the United Nations." Another client had me write a 1500 word report on blockchain identity, an exploration of the sector. Besides that I've written a few articles considering the architecture of Hyperledger Indy. Throughout that time, I collected a ton of the best information I could find on decentralzied id, hyperledger indy, and company. I'm not on fiverr anymore, but I still do reserach and content creation :)
@@ -73,11 +80,7 @@ I also [collect resources](http://crypt0library.net) on nearly every subject in 
 
 All of the work I do feeds into the rest: collecting resources helps me write, writing makes me find more resources. Putting the resources into the database also leads to collecting more resources; which helps me to create quality content, and will hopefully help others find the information they're looking for. Generally speaking, everything is harder when you don't know how to find what you're looking for.
 
-### /blockchain-identity and /awesome-indy
-
-**[/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/)** is another list that naturally grew from this one; focused on Sovrin/Indy protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will all compliment each-other.
-
-For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. I expect to be actively engaged building this repository for the next month or so, and look forward to it growing along with decentralized identity (irl) over the coming years.
+---
 
 **[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and\or [Contributions](#brought-to-you-by-the-crypto-librarysuper-source) Welcome**
 
