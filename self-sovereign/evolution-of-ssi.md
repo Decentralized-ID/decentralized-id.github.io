@@ -42,7 +42,7 @@ This is a modular breakdown of SSI documentation I would like to facilitate:
 
 2. "Principles of SSI" whatever you wanna call it, a complete, concise, and "exhaustive" list of foundational SSI principles or movement in that direction.
 
-3. SSI Why Blockchain? (yes, we know why, but it's not written anywhere in a concicse ~1200 word document.)
+3. SSI Why Blockchain? (yes, we know why, but is it written somewhere in a concicse ~800 word document?)
 
 4. Myths of SSI
 
