@@ -324,7 +324,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Evernym](https://www.evernym.com/) [[**T**](https://twitter.com/evernym)] [[**G**](https://github.com/evernym/sovrin)] Founded in 2013
 * [Identity System Essentials](https://www.evernym.com/wp-content/uploads/2017/02/Identity-System-Essentials.pdf) (Original Evernym Identity WP submitted to ID2020\RWoT) 3/2016
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186) 
-* [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/) **See here for additional Evernym-Indy related material.**
+* [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/) **See here for additional Evernym resources.**
 
 ![](https://cdn-images-1.medium.com/max/800/0*uVmDqgtCxuoeylQ4.png)
 
@@ -339,7 +339,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 * [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/)
 * [How Sovrin Works—A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
-* [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/) - **See here for additional Sovrin related material.**
+* [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/) - **See here for additional Sovrin resources.**
 
 #### Selected articles from Windley.com [**^**](#Contents)
 * [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
@@ -368,7 +368,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 * [Hyperledger Ursa](https://wiki.hyperledger.org/projects/ursa) "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the [shared library](https://github.com/hyperledger/ursa) will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram)[[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)]
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](#canada-)]
-* [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/) - **See here for additional indy related material.**
+* [/awesome-indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/awesome-indy/) - **See here for additional resources related to Hyperledger Indy.**
 
 ### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
 * [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper
