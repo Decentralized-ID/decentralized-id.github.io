@@ -374,6 +374,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper
    * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
    * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
+   * [Blockstack DID Spec](https://github.com/blockstack/blockstack-core/blob/master/docs/blockstack-did-spec.md)[**[ϟ](https://forum.blockstack.org/t/did-method-at-identity-foundation/4287/9)**]
 * RWoT—[Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
   * Hyperledger Indy, W3C and DID related standards are the product of RWoT efforts towards dpki.
 * [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
