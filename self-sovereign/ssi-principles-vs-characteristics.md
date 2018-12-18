@@ -20,6 +20,8 @@ In conclusion, we are offered : **Control**. **Acceptance**. **Zero Cost**.
 
 I'd like to review the <i>the fundamental characteristics of self‐sovereign identity</i> as detailed by Joe Andreiu, and compare each of the <i>principles</i> individually to ensure that all of the essentials are considered.
 
+---
+
 ### Fundamental Characteristics of Self-Sovereign Identity
 
 #### CONTROL 
@@ -44,6 +46,8 @@ I'd like to review the <i>the fundamental characteristics of self‐sovereign id
      **In order to reach every last person on the planet**—the explicit target of UN Sustainable Development Goal 16.9—**self‐sovereign identity must be realizable at massive scale with close to zero marginal cost**. 
      
 The systems we use to make sense of the resulting identity transactions will provide more than enough consulting, software, and hardware revenue to finance the development of the core enabling technology. Just as the web browser was a zero cost entry into a vast economic and innovation engine of the world‐wide web, so too must self‐sovereign identity begin with the most cost‐effective on‐ramp that can be engineered. 
+
+---
 
 ### Principles of Self-Sovereign Identity
 
