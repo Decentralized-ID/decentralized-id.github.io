@@ -366,6 +366,8 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 ### Brought to you by The [Crypto Library](crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
+Contact me: <code>infominer <i>at</i> protonmail <i>dot</i> com</code>.
+
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
