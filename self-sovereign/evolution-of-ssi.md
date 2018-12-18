@@ -1,8 +1,11 @@
-# The Evolution of Self Sovereign Identity
+# The Evolution of Self Sovereign Identity (Draft Seeking Feedback)
+
+;TLDR A start at examining leading thought around SSI since 2016, and presenting the idea of "modularizing" essential components of SSI documentation.
+
 
 Christopher Allen's seminal work, [The Path to Self Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md) continues to be an important and influential document for the Self Sovereign Identity community and movement. Rightly so, Allen does a superb job of outlining where digital identity has come from and where its going. However, Christopher intended for the [Principles of SSI]([Principles of Self Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)), gathered from the leading thought on digital identity, to be the start of a conversation.
 
-In order to stimulate the discussion, I've been going through /WebOfTrustInfo/self-sovereign-identity, and adding my own thoughts. So what I'd like to do is gather up some of the best thought on SSI since Christopher's 2016 post, and figure out which parts of it should be fleshed out in an organized and thoughtful mannar.
+In order to stimulate the discussion, I've been going through a [fork of /WebOfTrustInfo/self-sovereign-identity](https://github.com/infominer33/self-sovereign-identity) and organizing some thoughts on SSI since Christopher's 2016 post. There are a few different ways to approach and describe SSI. What I aim to do is come up with a list of different "SSI Cases" to modularize the treatment of the subject. This will allow each to contribute in the way that makes most sense for themselves, rather than trying to discuss SSI as a whole in a single whitepaper.
 
 That October, [Joe Andrieu](https://github.com/jandrieu) submitted [A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) to the third Rebooting the Web of Trust Design Workshop. Within it, he describes the Characteristics of SSI: **Control**, **Acceptance**, and **Zero Cost**.
 
@@ -14,9 +17,9 @@ I decided to put the **10 Principles of SSI** up next to Joe Andrieu's **Charact
 
 I think these two frameworks should be joined, but further consideration is required, and I hope to get some feedback from the community. 
 
-The idea, however, is to come up with list of phinciples, or characteristics, or rights, that is as complete as possible, while also as concise as possible. There are a few 10 pointed lists, I'm ok with combining them as necessary and if it turns into 19, for example, I'm ok w that. I'd rather err on the side of too many and pare it down gradually, than not include enough.  
+The idea, however, is to come up with list of phinciples, or characteristics, or rights, that is as complete as possible, while also as concise as possible. There are a few 10 pointed lists, I'm ok with combining them as necessary and if it turns into 19, for example, I'm ok w that. I'd rather err on the side of too much and pare it down gradually, than to not include enough.  
 
-* Next, there are the [7 Myths of SSI](https://github.com/infominer33/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) from Timothy Ruff's recent blog post. I've extracted them from his two part series into a concise document. There are surely other myths, it would be great to get feedback on that topic as well.
+* Next, there are the [7 Myths of SSI](https://github.com/infominer33/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) from Timothy Ruff's recent blog post. I've extracted them from his two part series into a concise document. There are surely other myths, and perhaps folk who have encountered them first hand will have some comment on the matter.
 
 * A gentle introduction to self-sovereign-identity by @antonylewis has a great section, [How would self-sovereign identity work for the user?](https://github.com/infominer33/awesome-decentralized-id/blob/master/self-sovereign/user-experience.md) that I've extracted into github, in order to make a suitable document based upon it. I need to check on certain specifics, basically I want to re-write that section so I saved it here for that purpose.
 
@@ -37,19 +40,23 @@ Other content highlighted in [/WebOfTrustInfo/self-sovereign-identity](https:git
 ### What I'm hoping for:
 
 This is a modular breakdown of SSI documentation I would like to facilitate:
+(each, perhaps, around 800-1200 words) 
 
-1. "How SSI works for the User" something along the line of how Antony Lewis described
+1. History of Digital Identity. Along the lines of Christopher Allen
 
-2. "Principles of SSI" whatever you wanna call it, a complete, concise, and "exhaustive" list of foundational SSI principles or movement in that direction.
+2. "How SSI works for the User" something along the line of how Antony Lewis 
+  - At its essence, this describes "ssi architecture" so to speak: 'wallet', 'identifier', 'credential' etc and how it interelates 
 
-3. SSI Why Blockchain? (yes, we know why, but is it written somewhere in a concicse ~800 word document?)
+3. "Principles of SSI" whatever you wanna call it, a complete, concise, and "exhaustive" list of foundational SSI principles or progress in that direction.
 
-4. Myths of SSI
+4. SSI Why Blockchain?
 
-5. SSI Use Cases. (a'la "how to convince dad")
+5. Myths of SSI
 
+6. SSI Use Cases. (a'la "how to convince dad")
+  - This uses the foundation "how SSI works for the USER" to go into more specific details of real life UX
 
-That's not exhaustive, but those are 5 goals.  We have the foundations of some core SSI content\documentation that I think will improve SSI education\onboarding. 
+I'm not limited to those 6, and I'm not glued to that order, but thats a general goal, and "how I would do it."  We have the foundations of some core SSI content\documentation that I think will improve SSI education\onboarding. Just as in modularizing a codebase, modularizing SSI documentation will make it easier for any aspect to be improved as needed. I hope for these to become living community driven documents. Pesonally, I'm good at collecting, organizing, and digesting information, but am new to the SSI community, so I'm sure there's plenty I'm not thinking of, or am missing.
 
 I can see that I'll need to spend a lot more time with this content, am just learning my way around it right now.  
 
