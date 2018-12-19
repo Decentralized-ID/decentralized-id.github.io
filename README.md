@@ -493,6 +493,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [EU BLOCKCHAIN OBSERVATORY AND FORUM—Workshop Report e-Identity](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
 * [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
 * EU Blockchain Forum - [BLOCKCHAIN FOR GOVERNMENT AND PUBLIC SERVICES](https://www.eublockchainforum.eu/sites/default/files/reports/eu_observatory_blockchain_in_government_services_v1_2018-12-07.pdf)
+* [Government services and digital identity](https://www.eublockchainforum.eu/sites/default/files/research-paper/20180801_government_services_and_digital_identity.pdf)
 
 ![](http://i.imgur.com/1QmQiy2.png)
 
