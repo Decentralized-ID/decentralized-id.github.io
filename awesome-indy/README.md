@@ -20,15 +20,15 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
   * [Sovrin Stewards](#Sovrin-Stewards)
   * [Selected Articles Windley.com](#Selected-Articles-Windley.com)
 * [Hyperledger Indy](#Hyperledger-Indy)
-  * [BCGov's Verifiable Organizations Network (VON)](#bcgovs-verifiable-organizations-network-von)
   * [Additional Indy Related](#Additional-Indy-Related)
-  * [IDEMix ZKP](#IDEMix-ZKP)
+  * [IDEMix ZKP](#IDEMix-ZKP-)
 * [W3C and DID Related Standards](#W3C-and-DID-Related-Standards)
   * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier)
   * [DID Auth](#DID-Auth) 
   * [Verifiable Claims](#Verifiable-Claims)
   * [Decentralized Key Management (Agents)](#decentralized-key-management-hubs-agents)
 * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
+* [BCGov's Verifiable Organizations Network (VON)](#bcgovs-verifiable-organizations-network-von)
 * [Evernym-Sovrin-Indy Adoption](#Evernym-Sovrin-Indy-Adoption)
 * [GDPR](#EU-General-Data-Protection-Regulation-Act)
 * [Research Papers](#Research-Papers)
@@ -175,26 +175,6 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [github.com/IBM-Blockchain-Identity](https://github.com/IBM-Blockchain-Identity) (Docker based tutorial sandbox env)
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section about Indy.
 * [Blockchain development made easy: Getting started with Hyperledger Indy](https://jaxenter.com/hyperledger-indy-interview-hardman-148796.html) - Interview with Daniel Hardman[[**G**](https://github.com/dhh1128)][[**L**](https://www.linkedin.com/in/danielhardman/)][[**T**](https://twitter.com/dhh1128)], Hyperledger Indy maintainer
-* [Hyperledger Indy Working Group Calls](https://drive.google.com/drive/u/0/folders/1AwHWN95KmSEi5fijraID0tFFMzYHoMwt?ogsrc=32)
-
-![](http://i.imgur.com/0Mr3YMn.pnghttps://i.imgur.com/CvQnRZ2.png)
-
-#### BCGov's Verifiable Organizations Network VON[**^**](#Contents)
-
->VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
->
->VON's founders have delivered new Indy-based open source components which form VON's backbone. TheOrgBook is a publicly accessible repository of verifiable claims about organizations. VON-X enables services to verify and issue credentials.[[**ϟ**](https://hgf18.sched.com/event/G8rm/verifiable-organizations-network-a-production-government-deployment-of-hyperledger-indy-john-jordan-province-of-british-columbia-stephen-curran-cloudcompass-computing-inc)]
-
-* [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**D**](https://vonx.io/getting_started/von-overview/)] [[**ϟ**](https://www.iaca.org/wp-content/uploads/VON-Using-Blockchain-Technology.pdf)] [[**>**](#Canada)]
-  * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**](https://github.com/bcgov/theorgbook)] that lists entities with their associated public verifiable claims.
-* [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP)
-* [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
-* [BC.gov Verifiable Organizations Network Demo](https://drive.google.com/open?id=1Ms2vKqTe-jVDpz5eWtQIqIz8Jl6TLbSE) (video)
-* [VON’s Blockchain Basis](https://vonx.io/getting_started/vons-blockchain-basis/)
-* [Getting Started with Hyperledger Indy](https://cdn.oreillystatic.com/en/assets/1/event/274/Getting%20started%20with%20Hyperledger%20Indy%20Presentation.pdf)
-* [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
-* [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
-* [BCovrin](http://138.197.138.255/) - Indy TestNet
 
 
 #### Additional Indy Related[**^**](#Contents) 
@@ -208,6 +188,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [sovrin-foundation/connector-app](https://github.com/sovrin-foundation/connector-app) - Reference mobile edge agent for use with the Sovrin Network built from Hyperledger Indy.
 * [Building binaries of LibIndy for Android](https://github.com/hyperledger/indy-sdk/blob/master/doc/android-build.md)
 * [HIPE 0014-ssi-notation](https://github.com/hyperledger/indy-hipe/tree/master/text/0014-ssi-notation)
+* [Hyperledger Indy Working Group Calls](https://drive.google.com/drive/u/0/folders/1AwHWN95KmSEi5fijraID0tFFMzYHoMwt?ogsrc=32)
 
 #### IDEMix ZKP [**^**](#Contents)
 * [AnonCreds: Anonymous credentials protocol implementation in python](https://github.com/hyperledger/indy-anoncreds) [[**ϟ**](https://github.com/hyperledger/indy-anoncreds/blob/master/docs/anoncred-usecase1.pdf)]
@@ -225,6 +206,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 ![](http://imgur.com/6MLNgXal.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
+
 
 
 ### W3C and DID Related Standards[**^**](#Contents) [**>>**](../README.md#w3c-and-did-related-standards)
@@ -300,6 +282,25 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
   * [uniresolver.io](https://uniresolver.io/)
 * [6/27 Masterclass on the DID Universal Resolver | Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
 
+![](http://i.imgur.com/0Mr3YMn.pnghttps://i.imgur.com/CvQnRZ2.png)
+
+
+#### BCGov's Verifiable Organizations Network VON[**^**](#Contents)
+
+>VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
+>
+>VON's founders have delivered new Indy-based open source components which form VON's backbone. TheOrgBook is a publicly accessible repository of verifiable claims about organizations. VON-X enables services to verify and issue credentials.[[**ϟ**](https://hgf18.sched.com/event/G8rm/verifiable-organizations-network-a-production-government-deployment-of-hyperledger-indy-john-jordan-province-of-british-columbia-stephen-curran-cloudcompass-computing-inc)]
+
+* [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**D**](https://vonx.io/getting_started/von-overview/)] [[**ϟ**](https://www.iaca.org/wp-content/uploads/VON-Using-Blockchain-Technology.pdf)] [[**>**](#Canada)]
+  * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**](https://github.com/bcgov/theorgbook)] that lists entities with their associated public verifiable claims.
+* [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP)
+* [Demonstrating the Verifiable Organizations Network (VON)](https://docs.google.com/document/d/1wNnXdQKUtWnx--xw3VQ9Fr2TDa0kUNIBSMmFGR4uoMg/edit#heading=h.kphtj2c176xb)
+* [BC.gov Verifiable Organizations Network Demo](https://drive.google.com/open?id=1Ms2vKqTe-jVDpz5eWtQIqIz8Jl6TLbSE) (video)
+* [VON’s Blockchain Basis](https://vonx.io/getting_started/vons-blockchain-basis/)
+* [Getting Started with Hyperledger Indy](https://cdn.oreillystatic.com/en/assets/1/event/274/Getting%20started%20with%20Hyperledger%20Indy%20Presentation.pdf)
+* [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
+* [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
+* [BCovrin](http://138.197.138.255/) - Indy TestNet
 
 ![](https://i.imgur.com/3sfiarQ.png)
 
@@ -347,9 +348,11 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [A Comprehensive Evaluation of the Identity Management Utility Sovrin](https://dutchblockchaincoalition.org/uploads/pdf/Blockchain-Sovrin-rapport.pdf)
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
 * [IDENTITY MATTERS](https://cboxxtest.files.wordpress.com/2017/09/cboxxidentitymatters04.pdf)
+* [A position paper on blockchain enabled identity and the road ahead—Identity Working Group of the German Blockchain Association](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)
 
 
 ### Video[**^**](#Contents) [**>>**](../README.md#video)
+* [Hyperledger Indy Explainer Video](https://www.youtube.com/watch?v=MnO2L6WoqD0)
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
 * [Self-Sovereign Identity with Hyperledger Indy\Sovrin- Calvin Cheng - FOSSASIA 2018](https://www.youtube.com/watch?v=hfyIZu3_fw8)
 * [Hyperledger Indy introduction with Indy Agents Demo](https://www.youtube.com/watch?v=llwfb5Ut5sg)
@@ -357,6 +360,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Architectural Overview of Indy Wallets](https://www.youtube.com/watch?v=Km4IoUdb3Lc)
 * [Indy Demo by IBM](https://www.youtube.com/watch?v=cz-6BldajiA)
 * [Behind the Cloud Episode 6: Blockchain and Self-Sovereign Identity in the Enterprise](https://www.youtube.com/watch?v=wSdm2-18Z2g)
+* [Evernym's contributions to Hyperledger Indy](https://www.youtube.com/playlist?list=PLRp0viTDxBWGLdZk0aamtahB9cpJGV7ZF)
 
 ### Podcasts[**^**](#Contents) [**>>**](../README.md#Podcasts)
 * [MyData Podcast](https://mydata.org/podcast/)
