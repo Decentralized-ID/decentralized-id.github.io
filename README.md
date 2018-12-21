@@ -67,7 +67,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 ### /blockchain-identity and /indy-sovrin-evernym/
 
-**[/indy-sovrin-evernym/](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)** is another list that naturally grew from this one; focused on Hyperledger Indy's protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will all compliment each-other.
+**[/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)** is another list that naturally grew from this one; focused on Hyperledger Indy's protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will all compliment each-other.
 
 For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. I expect to be actively engaged building this repository for the next month or so, and look forward to it growing along with decentralized identity (irl) over the coming years.
 
@@ -348,7 +348,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 * [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/)
 * [How Sovrin Works—A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
-* [/indy-sovrin-evernym/](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - **See here for additional Sovrin resources.**
+* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - **See here for additional Sovrin resources.**
 
 #### Selected articles from Windley.com [**^**](#Contents)
 * [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
@@ -377,7 +377,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 * [Hyperledger Ursa](https://wiki.hyperledger.org/projects/ursa) "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the [shared library](https://github.com/hyperledger/ursa) will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram)[[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)]
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](#canada-)]
-* [/indy-sovrin-evernym/](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - **See here for additional resources related to Hyperledger Indy.**
+* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - **See here for additional resources related to Hyperledger Indy.**
 
 ### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
 * [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper
@@ -488,18 +488,10 @@ Discover decentralized identity—a new way to take ownership of your personal d
 
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)
 
-![](http://i.imgur.com/DuQXLhs.png)
-
-#### European Union
-
-* [EU BLOCKCHAIN OBSERVATORY AND FORUM—Workshop Report e-Identity](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
-* [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
-* EU Blockchain Forum - [BLOCKCHAIN FOR GOVERNMENT AND PUBLIC SERVICES](https://www.eublockchainforum.eu/sites/default/files/reports/eu_observatory_blockchain_in_government_services_v1_2018-12-07.pdf)
-* [Government services and digital identity](https://www.eublockchainforum.eu/sites/default/files/research-paper/20180801_government_services_and_digital_identity.pdf)
-
-![](http://i.imgur.com/1QmQiy2.png)
+#### Australia [**^**](#Contents)
 
 #### Canada [**^**](#Contents) [**>**](#Hyperledger-Indy)
+![](http://i.imgur.com/1QmQiy2.png)
 >VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
 >
 >VON's founders have delivered new Indy-based open source components which form VON's backbone. TheOrgBook is a publicly accessible repository of verifiable claims about organizations. VON-X enables services to verify and issue credentials.[[**ϟ**](https://hgf18.sched.com/event/G8rm/verifiable-organizations-network-a-production-government-deployment-of-hyperledger-indy-john-jordan-province-of-british-columbia-stephen-curran-cloudcompass-computing-inc)]
@@ -514,7 +506,24 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [SecureKey](http://securekey.com/): [partners with IBM](http://www-03.ibm.com/press/us/en/pressrelease/51841.wss) to enable a new digital identity and attribute sharing network based on Hyperledger Fabric blockchain.
   * [SecureKey Technologies to explore interoperability between Verified.Me and Hyperledger Indy](https://securekey.com/press-releases/hyperledger-indy/)
 
-![](http://i.imgur.com/Qx8ZjW0.png)
+
+#### Estonia[**^**](#Contents)
+![](http://i.imgur.com/HyGoqfq.png)
+
+* [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) ([**id.ee**](https://www.id.ee/))
+   * [Estonian Blockchain ID Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
+
+
+#### European Union
+![](http://i.imgur.com/DuQXLhs.png)
+
+
+* [EU BLOCKCHAIN OBSERVATORY AND FORUM—Workshop Report e-Identity](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
+* [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
+* EU Blockchain Forum - [BLOCKCHAIN FOR GOVERNMENT AND PUBLIC SERVICES](https://www.eublockchainforum.eu/sites/default/files/reports/eu_observatory_blockchain_in_government_services_v1_2018-12-07.pdf)
+* [Government services and digital identity](https://www.eublockchainforum.eu/sites/default/files/research-paper/20180801_government_services_and_digital_identity.pdf)
+
+
 
 #### Netherlands[**^**](#Contents)
 * [TU Delft helps develop digital ID for use on your phone](https://www.tudelft.nl/en/2018/tu-delft/tu-delft-helps-develop-digital-id-for-use-on-your-phone/)
@@ -522,29 +531,22 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [TrustChain: A Sybil-resistant scalable blockchain - Presentation](http://msn.iecs.fcu.edu.tw/report/download.php?)
 * [Dutch Blockchain Coalition](https://www.dutchdigitaldelta.nl/en/blockchain) [[**ϟ**](https://dutchdigitaldelta.nl/uploads/pdf/Dutch-Blockchain-Coalition-action-agenda-ENG.pdf)]
 
-![](http://i.imgur.com/5TAfj82.png)
-
-#### USA[**^**](#Contents)
-* [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)
-* [U.S. Department of Homeland Security funds four Blockchains](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology)
-
+#### Spain[**^**](#Contents)
 ![](http://i.imgur.com/JKDcTOK.png)
 
-#### Spain[**^**](#Contents)
 * [Alastria](https://alastria.io/) [[**G**](https://github.com/alastria/alastria-identity)] 
    * a non-profit consortium building a national blockchain ecosystem for Spain. The security and veracity of information will be ensured through the identification of natural and legal persons, while at the same time allowing citizens to have control over their personal information in a transparent way following the guidelines set by the European Union.
 
+#### Switzerland[**^**](#Contents)
 ![](http://i.imgur.com/yuP8j7V.png)
 
-#### Switzerland[**^**](#Contents)
 * [Zug ID: Exploring the First Publicly Verified Blockchain Identity](https://medium.com/uport/zug-id-exploring-the-first-publicly-verified-blockchain-identity-38bd0ee3702) (uport\ethereum)
 
-![](http://i.imgur.com/HyGoqfq.png)
+#### USA[**^**](#Contents)
+![](http://i.imgur.com/5TAfj82.png)
 
-#### Estonia[**^**](#Contents)
-* [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) ([**id.ee**](https://www.id.ee/))
-   * [Estonian Blockchain ID Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
-
+* [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)
+* [U.S. Department of Homeland Security funds four Blockchains](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology)
 
 
 ### Humanitarian[**^**](#Contents) 
@@ -648,7 +650,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [identitywoman.net](https://identitywoman.net/)
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
-* [/indy-sovrin-evernym/](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
+* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
 
 
 
