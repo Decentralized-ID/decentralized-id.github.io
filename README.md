@@ -10,7 +10,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
 ### Contents
 
 * [Introduction](#Introduction)
-  * [/indy-sovrin-evernym and /blockchain-identity](#blockchain-identity-and-awesome-indy)
+  * [/indy-sovrin-evernym/ and /blockchain-identity](#blockchain-identity-and-awesome-indy)
   * [How I got into Decentralized-ID](#how-i-got-into-decentralized-identity)
   * [Link Shorthand](#Link-Shorthand)
 * [History](#History)
@@ -65,9 +65,9 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 >Thanks to those who are working to make digital identity, and the world, a better place.
 
-### /blockchain-identity and /indy-sovrin-evernym
+### /blockchain-identity and /indy-sovrin-evernym/
 
-**[/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym)** is another list that naturally grew from this one; focused on Hyperledger Indy's protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will all compliment each-other.
+**[/indy-sovrin-evernym/](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)** is another list that naturally grew from this one; focused on Hyperledger Indy's protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will all compliment each-other.
 
 For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. I expect to be actively engaged building this repository for the next month or so, and look forward to it growing along with decentralized identity (irl) over the coming years.
 
@@ -348,7 +348,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 * [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/)
 * [How Sovrin Works—A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
-* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - **See here for additional Sovrin resources.**
+* [/indy-sovrin-evernym/](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - **See here for additional Sovrin resources.**
 
 #### Selected articles from Windley.com [**^**](#Contents)
 * [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
@@ -377,7 +377,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 * [Hyperledger Ursa](https://wiki.hyperledger.org/projects/ursa) "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the [shared library](https://github.com/hyperledger/ursa) will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram)[[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)]
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](#canada-)]
-* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - **See here for additional resources related to Hyperledger Indy.**
+* [/indy-sovrin-evernym/](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - **See here for additional resources related to Hyperledger Indy.**
 
 ### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
 * [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper
@@ -648,7 +648,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [identitywoman.net](https://identitywoman.net/)
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
-* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
+* [/indy-sovrin-evernym/](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
 
 
 
