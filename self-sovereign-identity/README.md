@@ -1,5 +1,5 @@
 # Self Sovereign Identity (SSI)
-**Articles and documents associated with the principles of Self Sovereign Identity.**
+**Articles and documents associated with the fundamentals of Self Sovereign Identity.**
 
 This directory was born from [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), the original SSI repository. I've done a bit of work over there, and decided to expand my efforts. The reason I got started on this is because I wanted to write an article about SSI. Then I saw the opportunity to help with its documentation.
 
