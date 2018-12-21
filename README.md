@@ -10,7 +10,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
 ### Contents
 
 * [Introduction](#Introduction)
-  * [/indy-sovrin-evernym/ and /blockchain-identity](#blockchain-identity-and-awesome-indy)
+  * [/indy-sovrin-evernym and /blockchain-identity](#blockchain-identity-and-awesome-indy)
   * [How I got into Decentralized-ID](#how-i-got-into-decentralized-identity)
   * [Link Shorthand](#Link-Shorthand)
 * [History](#History)
@@ -67,7 +67,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 ### /blockchain-identity and /indy-sovrin-evernym/
 
-**[/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)** is another list that naturally grew from this one; focused on Hyperledger Indy's protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will all compliment each-other.
+[/awesome-decentralized-id/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) is another list that naturally grew from this one; focused on Hyperledger Indy's protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will all compliment each-other.
 
 For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. I expect to be actively engaged building this repository for the next month or so, and look forward to it growing along with decentralized identity (irl) over the coming years.
 
@@ -199,15 +199,14 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 
 ![](http://imgur.com/3zz62kpl.png)
 
-[Christopher Allen](http://www.lifewithalacrity.com/)[[**info**](https://christophera.info/)] details the overarching history of internet idenitity standards and outlines [10 Principles of Self Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) in his seminal work [The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)[[**ϟ**](https://www.coindesk.com/path-self-sovereign-identity/amp/)]
+
+* [Christopher Allen](http://www.lifewithalacrity.com/)[[**info**](https://christophera.info/)] details the overarching history of internet idenitity standards and outlines [10 Principles of Self Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) in his seminal work [The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)[[**ϟ**](https://www.coindesk.com/path-self-sovereign-identity/amp/)]
 * <a href="https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf"><u>A Technlogy-Free Definition of Self-Sovereign Identity</u></a> is a continuation of the discussion started by Allen, offering 3 "Core Characteristics of Sovereign Identity".
 * [7 Myths of Self Sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1)
-* [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
-* [WebOfTrustInfo/self-sovereign-id](https://github.com/WebOfTrustInfo/self-sovereign-identity)
-* [SSI Meetup](http://ssimeetup.org/)
-* [Self-Sovereign Identity — wiki.p2pfoundation](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
-* [There’s A Facebook Alternative, It’s Called Self-Sovereign Identity](https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity) —coindesk
+* [SSIMeetup](http://ssimeetup.org/) [[**S**](https://www.slideshare.net/SSIMeetup/presentations)] [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)] [[**tele**](https://t.me/SSIMeetup)]
+\- SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
+* **[/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)** additional SSI resources
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
@@ -573,7 +572,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [Privacy by Design The 7 Foundational Principles](https://www.ipc.on.ca/wp-content/uploads/Resources/7foundationalprinciples.pdf) 
 * [When GDPR Becomes Real, and Blockchain is no longer fairydust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
 * [Self-Sovereign Privacy By Design](https://github.com/sovrin-foundation/protocol/blob/master/self_sovereign_privacy_by_design_v1.md)
-* [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
+* [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [**1**]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
 
 
 ### Reports[**^**](#Contents)
@@ -630,6 +629,8 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [Phil Windley on Vimeo](https://vimeo.com/windley/videos)
 * [Internet of Agreements Conference on Identity](https://medium.com/humanizing-the-singularity/identity/home)
 * [Behind the Cloud Episode 6: Blockchain and Self-Sovereign Identity in the Enterprise](https://www.youtube.com/watch?v=wSdm2-18Z2g)
+* [Identity and the quest for Self Sovereign Identity - Daniel Hardman](https://www.youtube.com/watch?v=iqmY_h49vPs)
+
 
 ### Slideshare[**^**](#Contents)
 * [Identiverse](https://www.slideshare.net/Identiverse/presentations)
