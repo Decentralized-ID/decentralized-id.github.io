@@ -54,16 +54,17 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 ![](http://imgur.com/3zz62kpl.png)
 
 
-### Self Sovereign Identity[**^**](#Contents) [**>>**](../README.md#Self-Sovereign-Identity)
+### Self Sovereign Identity[**^**](#Contents) [**>>**](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)
+
 
 [Christopher Allen](http://www.lifewithalacrity.com/)[[**info**](https://christophera.info/)] details the overarching history of internet idenitity standards and outlines [10 Principles of Self Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) in his seminal work [The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)[[**ϟ**](https://www.coindesk.com/path-self-sovereign-identity/amp/)]
 * <a href="https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf"><u>A Technlogy-Free Definition of Self-Sovereign Identity</u></a> is a continuation of the discussion started by Allen, offering 3 "Core Characteristics of Sovereign Identity".
-* [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
 * [7 Myths of Self Sovereign Identity](https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1)
-* [WebOfTrustInfo/self-sovereign-id](https://github.com/WebOfTrustInfo/self-sovereign-identity)
-* [SSI Meetup](http://ssimeetup.org/)
-* [A Roadmap for SSI](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md) from Rebooting the web of trust, Spring 2018. 
-  > This document proposes the formation of a short-term team to develop consistent messaging for the Self-Sovereign Identity (SSI) market.
+* [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
+* [SSIMeetup](http://ssimeetup.org/) [[**S**](https://www.slideshare.net/SSIMeetup/presentations)] [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)] [[**tele**](https://t.me/SSIMeetup)]
+\- SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
+* **[/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)** additional SSI resources
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
