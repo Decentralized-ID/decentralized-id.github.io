@@ -38,7 +38,6 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
 * [Sources](#Sources)
 
 
-
 ### Introduction[**^**](#Contents)
 
 Internet Identity Workshop is where the quest for concious, user-centric, identity began. Rebooting Web-of-Trust Workshops sprung from the IIW, focused on creating standards for DPKI. Among the United Nations 'Sustainable Development Goals' is for all the world to have access to a digital identity by 2030. Around 2016, the SDGs, blockchain, and the GDPR converged bringing much energy to the decentralized identity ecosystem. 
@@ -62,7 +61,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
 * [SSIMeetup](http://ssimeetup.org/) [[**S**](https://www.slideshare.net/SSIMeetup/presentations)] [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)] [[**tele**](https://t.me/SSIMeetup)]
 \- SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
-* **[/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)** —additional SSI resources
+* **[/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)** —Much additional SSI information
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
@@ -166,7 +165,8 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 * [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**T**](https://twitter.com/Hyperledger)] [[**G**](https://github.com/hyperledger/indy-sdk)] [[**C**]()]
 * [Indy Documentation Index - wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
-* [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
+  * [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
+  * [Indy Docs Framwork](https://github.com/hyperledger/indy-hipe/tree/master/text/0025-indy-docs-framework)
 * [Hyperledger Indy — the Future of Decentralized Identity](https://medium.com/axiom-tech/hyperledger-indy-the-future-of-decentralized-identity-9de5c2459e4e)
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy) - ANN
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
@@ -178,13 +178,13 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 
 #### Additional Indy Related[**^**](#Contents) 
+* [Hyperledger Ursa](https://wiki.hyperledger.org/projects/ursa) "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the [shared library](https://github.com/hyperledger/ursa) will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram)[[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)]
 * [Plenum Bzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki)
    * "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem."
 * [HyperledgerIndyWGCall_2018-12-06](https://drive.google.com/file/d/1166XpTM8WgZVMN2ca53CRCJapZlAeUhM/view) Discussion of VON and Plenum Docs (with info graphics)
 * [A Framework for Designing Cryptographic Key Management Systems](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-130.pdf)
 * [An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials](https://eprint.iacr.org/2008/539.pdf)
 * [An Efficient System for Non-transferable Anonymous Credentials with Optional Anonymity Revocation](https://www.iacr.org/archive/eurocrypt2001/20450093.pdf)
-* [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 * [sovrin-foundation/connector-app](https://github.com/sovrin-foundation/connector-app) - Reference mobile edge agent for use with the Sovrin Network built from Hyperledger Indy.
 * [Building binaries of LibIndy for Android](https://github.com/hyperledger/indy-sdk/blob/master/doc/android-build.md)
 * [HIPE 0014-ssi-notation](https://github.com/hyperledger/indy-hipe/tree/master/text/0014-ssi-notation)
@@ -334,6 +334,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 ### EU General Data Protection Regulation Act[**^**](#Contents) [**>>**](../README.md#eu-general-data-protection-regulation-act)
 
 * [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
+* [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 * [Self-Sovereign Privacy By Design](https://github.com/sovrin-foundation/protocol/blob/master/self_sovereign_privacy_by_design_v1.md)
 * [Privacy by Design The 7 Foundational Principles](https://www.ipc.on.ca/wp-content/uploads/Resources/7foundationalprinciples.pdf) 
 * [When GDPR Becomes Real, and Blockchain is no longer fairydust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
