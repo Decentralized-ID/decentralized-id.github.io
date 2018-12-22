@@ -19,7 +19,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [#Rebooting-Web-of-Trust (RWoT)](#Rebooting-the-Web-Of-Trust)
   * [Bitnation and the United Nations](#Bitnation-and-the-United-Nations)
   * [ID2020 and the GDPR](#ID2020-and-the-GDPR)
-  * [Additional Information](Additional-IID-Standards-History)
+  * [Additional IID Standards History](#Additional-IID-Standards-History)
 * [Resources](#Resources)
   * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
   * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
@@ -44,13 +44,14 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Personal Data Wallets & Marketplaces](#Personal-Data-Wallets--Marketplaces)  
   * [Blockchain ID Initiatives](#blockchain-id-initiatives-)
   * [State Sanctioned Identity Initiatives](#State-Led-Initiatives)
-    * [European Union](#European-Union)
+    * [Australia](#Australia)
     * [Canada](#Canada-)
+    * [Estonia](#Estonia)
+    * [European Union](#European-Union)
     * [Netherlands](#Netherlands)
-    * [USA](#USA)
     * [Spain](#Spain)
     * [Switzerland](#Switzerland)
-    * [Estonia](#Estonia)
+    * [USA](#USA)
   * [Humanitarian](#Humanitarian)
   * [GDPR](#EU-General-Data-Protection-Regulation-Act)
   * [Reports](#Reports)
@@ -489,6 +490,11 @@ Discover decentralized identity—a new way to take ownership of your personal d
 
 #### Australia [**^**](#Contents)
 
+![](http://i.imgur.com/AmyVxCE.png)
+
+* [Australian government reveals decentralized national digital identity plans](https://oneworldidentity.com/australian-government-reveals-decentralized-national-digital-identity-plans/)
+* [Australia Post's Digital ID named best federal govt IT project](https://www.itnews.com.au/news/australia-posts-digital-id-named-best-federal-govt-it-project-485017)
+
 #### Canada [**^**](#Contents) [**>**](#Hyperledger-Indy)
 ![](http://i.imgur.com/1QmQiy2.png)
 >VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
@@ -513,7 +519,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
    * [Estonian Blockchain ID Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
 
 
-#### European Union
+#### European Union[**^**](#Contents)
 ![](http://i.imgur.com/DuQXLhs.png)
 
 
