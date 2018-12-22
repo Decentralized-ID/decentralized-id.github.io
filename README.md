@@ -66,7 +66,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 >Thanks to those who are working to make digital identity, and the world, a better place.
 
-### /blockchain-identity and /indy-sovrin-evernym/[**^**](#Contents)
+### /blockchain-identity and /indy-sovrin-evernym[**^**](#Contents)
 
 [/awesome-decentralized-id/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) is another list that naturally grew from this one; focused on Hyperledger Indy's protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will all compliment each-other.
 
@@ -207,6 +207,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
 * [SSIMeetup](http://ssimeetup.org/) [[**S**](https://www.slideshare.net/SSIMeetup/presentations)] [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)] [[**tele**](https://t.me/SSIMeetup)]
 \- SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
+* [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
 * **[/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)** SSI documentation is still under development. This directory is to organize existing thought on SSI in one place for ease of study, and the development of new documentation.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
@@ -218,7 +219,6 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md)
 * [The DCS Theorem](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/dcs-theorem/The-DCS-Theorem.md) — We use the triangle to show decentralized consensus systems can have _Decentralization_, _Consensus_, or _Scale_, but not all three properties simultaneously.
 * [Rebooting the Web of Trust VII: Toronto (September 2018)](https://github.com/WebOfTrustInfo/rwot7) - More recent thoughts.
-* [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
 
 #### RWoT Use Cases[**^**](#Contents)
 * [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)

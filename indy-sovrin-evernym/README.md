@@ -26,7 +26,7 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
   * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier)
   * [DID Auth](#DID-Auth) 
   * [Verifiable Claims](#Verifiable-Claims)
-  * [Decentralized Key Management (Agents)](#decentralized-key-management-hubs-agents)
+  * [Decentralized Key Management (Agents)](#decentralized-key-management-agents)
 * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
 * [BCGov's Verifiable Organizations Network (VON)](#bcgovs-verifiable-organizations-network-von)
 * [Evernym-Sovrin-Indy Adoption](#Evernym-Sovrin-Indy-Adoption)
@@ -47,7 +47,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ---
 
-#### Link Shorthand
+#### Link Shorthand[**^**](#Contents)
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. 
 
