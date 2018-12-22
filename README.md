@@ -10,7 +10,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
 ### Contents
 
 * [Introduction](#Introduction)
-  * [/indy-sovrin-evernym and /blockchain-identity](#blockchain-identity-and-awesome-indy)
+  * [/indy-sovrin-evernym and /blockchain-identity](#blockchain-identity-and-indy-sovrin-evernym)
   * [How I got into Decentralized-ID](#how-i-got-into-decentralized-identity)
   * [Link Shorthand](#Link-Shorthand)
 * [History](#History)
@@ -19,7 +19,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [#Rebooting-Web-of-Trust (RWoT)](#Rebooting-the-Web-Of-Trust)
   * [Bitnation and the United Nations](#Bitnation-and-the-United-Nations)
   * [ID2020 and the GDPR](#ID2020-and-the-GDPR)
-  * [Additional Information](#additional-informationon-iid-standards-history)
+  * [Additional Information](Additional-IID-Standards-History)
 * [Resources](#Resources)
   * [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
   * [RWoT Whitepapers](#Selected-Rebooting-Web-of-Trust-Whitepapers)
@@ -65,14 +65,14 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 >Thanks to those who are working to make digital identity, and the world, a better place.
 
-### /blockchain-identity and /indy-sovrin-evernym/
+### /blockchain-identity and /indy-sovrin-evernym/[**^**](#Contents)
 
 [/awesome-decentralized-id/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) is another list that naturally grew from this one; focused on Hyperledger Indy's protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will all compliment each-other.
 
 For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. I expect to be actively engaged building this repository for the next month or so, and look forward to it growing along with decentralized identity (irl) over the coming years.
 
 
-### How I got into Decentralized Identity
+### How I got into Decentralized Identity[**^**](#Contents)
 
 I was offering freelance research services on Fiverr, and was introduced to the subject of digital identity through a few different clients. One had me write a 3500 word report on "Blockchain and the United Nations." Another client had me write a 1500 word report on blockchain identity, an exploration of the sector. Besides that I've written a few articles considering the architecture of Hyperledger Indy. Throughout that time, I collected a ton of quality information on decentralzied id, hyperledger indy, and company. 
 
@@ -183,7 +183,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 
 
 
-### Additional Information on iid standards history[**^**](#Contents) 
+### Additional IID Standards History[**^**](#Contents) 
 * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
 * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
 * [Identity Commons-Wiki](http://wiki.idcommons.net/Main_Page)
@@ -206,7 +206,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
 * [SSIMeetup](http://ssimeetup.org/) [[**S**](https://www.slideshare.net/SSIMeetup/presentations)] [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)] [[**tele**](https://t.me/SSIMeetup)]
 \- SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
-* **[/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)** additional SSI resources
+* **[/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)** SSI documentation is still under development. This directory is to organize existing thought on SSI in one place for ease of study, and the development of new documentation.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
