@@ -133,7 +133,8 @@ In [April of 2014](https://edps.europa.eu/data-protection/data-protection/legisl
 
 ### Bitnation and the United Nations[**^**](#Contents) 
 
-9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*Blockchain Emergency IDs*](https://refugees.bitnation.co/)' to refugees.[[**ϟ**](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/)] 
+9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*Blockchain Emergency IDs*](https://refugees.bitnation.co/)' to refugees. [[**>**](#Bitcoin)]
+
 
 The same month, the UN unveiled it's *[Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)*:
   >* Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
@@ -332,8 +333,8 @@ Blockstack is a network for decentralized applications where users own their ide
 
 * [Evernym](https://www.evernym.com/) [[**T**](https://twitter.com/evernym)] [[**G**](https://github.com/evernym/sovrin)] Founded in 2013
 * [Identity System Essentials](https://www.evernym.com/wp-content/uploads/2017/02/Identity-System-Essentials.pdf) (Original Evernym Identity WP submitted to ID2020\RWoT) 3/2016
-* [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186) 
-* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) **See here for additional Evernym resources.**
+* [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186) 
+* [**/indy-sovrin-evernym**](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) **Much additional Evernym information.**
 
 ![](https://cdn-images-1.medium.com/max/800/0*uVmDqgtCxuoeylQ4.png)
 
@@ -343,16 +344,13 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
  Foundation is creating a public instance of the Hyperledger [Indy](#Hyperledger-Indy) code, initially developed by [Evernym](#Evernym) 
 * [Sovrin Library](https://sovrin.org/library/)
-* [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
-* [Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust](https://sovrin.org/wp-content/uploads/Sovrin-Protocol-and-Token-White-Paper.pdf)
+* [Sovrin: A Protocol and Token Whitepaper](https://sovrin.org/wp-content/uploads/Sovrin-Protocol-and-Token-White-Paper.pdf)
+* [How Sovrin Works—A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 * [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/)
-* [How Sovrin Works—A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
-* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - **See here for additional Sovrin resources.**
+* [**/indy-sovrin-evernym**](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - Much additional Sovrin Information.
 
-#### Selected articles from Windley.com [**^**](#Contents)
-* [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
-* [A Universal Trust Framework](http://www.windley.com/archives/2017/01/a_universal_trust_framework.shtml)
+#### Selected articles by Phil Windley [**^**](#Contents)
 * [Building Your Business on Sovrin: Domain-Specific Trust Frameworks](http://www.windley.com/archives/2018/03/building_your_business_on_sovrin_domain-specific_trust_frameworks.shtml)
 * [The Sovrin Foundation](http://www.windley.com/archives/2018/07/the_sovrin_foundation.shtml)
 * [Decentralization in Sovrin](http://www.windley.com/archives/2018/10/decentralization_in_sovrin.shtml)
@@ -365,19 +363,13 @@ Blockstack is a network for decentralized applications where users own their ide
 ![](https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png)
 
 * [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**T**](https://twitter.com/Hyperledger)] [[**wiki**](https://wiki.hyperledger.org/projects/indy/documentation)] [[**G**](https://github.com/hyperledger/indy-sdk)]
-* [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy) - ANN
 * [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
 * [Hyperledger Indy — the Future of Decentralized Identity](https://medium.com/axiom-tech/hyperledger-indy-the-future-of-decentralized-identity-9de5c2459e4e)
-* [Ernesto.net - What goes on the Ledger](https://www.ernesto.net/ernesto-net-5-minute-course-on-indy-and-what-goes-on-the-blockchain-ledger/)
-* [Ernesto.net - Hyperledger Indy Architecture](https://www.ernesto.net/hyperledger-indy-architecture/)
-* [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
-* [Plenum Bzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki)
-   * "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem."
+* [The Rise of Self-Sovereign Identity: Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) edx course may be freely audited and has a section on Indy.
-* [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
 * [Hyperledger Ursa](https://wiki.hyperledger.org/projects/ursa) "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the [shared library](https://github.com/hyperledger/ursa) will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram)[[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)]
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](#canada-)]
-* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - **See here for additional resources related to Hyperledger Indy.**
+* **[/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)** - Much additional info on Hyperledger Indy.
 
 ### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
 * [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper
@@ -385,7 +377,7 @@ Blockstack is a network for decentralized applications where users own their ide
    * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
    * [Blockstack DID Spec](https://github.com/blockstack/blockstack-core/blob/master/docs/blockstack-did-spec.md)[**[ϟ](https://forum.blockstack.org/t/did-method-at-identity-foundation/4287/9)**]
 * RWoT—[Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
-  * Hyperledger Indy, W3C and DID related standards are the product of RWoT efforts towards dpki.
+  * Hyperledger Indy, W3C and DID related standards are a product of RWoT efforts towards dpki.
 * [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
 * [KeyChains: A Decentralized Public-Key Infrastructure](https://drum.lib.umd.edu/bitstream/handle/1903/3332/0.pdf?sequence=1&isAllowed=y)
 * [ClaimChain: Decentralized Public Key Infrastructure](https://www.researchgate.net/publication/318584251_ClaimChain_Decentralized_Public_Key_Infrastructure)
@@ -406,6 +398,8 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ### IBM[**^**](#Contents)
 
+![](http://i.imgur.com/CvZI7R1.png)
+
 * [Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
 * [github.com/IBM-Blockchain-Identity](https://github.com/IBM-Blockchain-Identity) (Docker based tutorial sandbox env)
 * [How do we start tackling the existing identity problem](https://www.ibm.com/blogs/blockchain/2018/06/how-do-we-start-tackling-the-existing-identity-problem/)
@@ -416,6 +410,8 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ### Microsoft[**^**](#Contents)
 
+![](http://i.imgur.com/MEN8iSn.png)
+
 * [Microsoft Azure Own your identity](https://azure.microsoft.com/en-us/overview/decentralized-identity/) [[**ϟ**](https://www.coindesk.com/microsoft-is-pushing-new-blockchain-id-products-but-theres-pushback-too)]
 Discover decentralized identity—a new way to take ownership of your personal data.  
 * [didproject.azurewebsites.net](https://didproject.azurewebsites.net/) [[**D**](https://didproject.azurewebsites.net/docs/overview.html)]ocs [[**wp**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY)]
@@ -423,9 +419,16 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [Mastercard, Microsoft Join Forces to Advance Digital Identity Innovations](https://newsroom.mastercard.com/press-releases/mastercard-microsoft-join-forces-to-advance-digital-identity-innovations/)
 * [Decentralized digital identities and blockchain: The future as we see it](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/decentralized-digital-identities-and-blockchain-the-future-as-we-see-it/)
 
+### Bitcoin [**^**](#Contents)
+
+* [Bitnation taps Blockchain tech to aid Refugees](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/)[[**^**](#Bitnation-and-the-United-Nations)]
+* [BTCR DID Method](https://w3c-ccg.github.io/didm-btcr/) — The Bitcoin Reference DID method (did:btcr) supports DIDs on the public Bitcoin blockchain. The Bitcoin Reference method has minimal design goals: a DID trust anchor based on the Bitcoin blockchain, updates publicly visible and auditable via Bitcoin transactions, and optionally, additional DID Document information referenced in the transaction OP_RETURN data field. No other Personal Identifiable Information (PII) would be placed on the immutable blockchain.
+
+
+
 ### Ethereum[**^**](#Contents)
 
-![](http://imgur.com/Fc6Hoo9l.png)
+![](http://i.imgur.com/7jYhyHC.png)
 
 * [Decentralized Digital Identity on Ethereum](https://www.slideshare.net/FabriceCroiseaux/ethcc-2018-decentralized-digital-identity-on-ethereum) -SlideShare
 * [ERC725](https://github.com/ethereum/EIPs/issues/725) • [ERC735](https://github.com/ethereum/EIPs/issues/735)
@@ -458,6 +461,8 @@ Discover decentralized identity—a new way to take ownership of your personal d
  * [Cryptonomica.net](https://cryptonomica.net) is an identity verification service based on [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) and [Ethereum](https://www.ethereum.org) with legal framework and online dispute resolution for electronic contracts from London-based [court of arbitration](https://cryptonomica.net/#!/arbitration) 
 
 ### Personal Data Wallets & Marketplaces[**^**](#Contents)
+
+![](http://i.imgur.com/jHwsWIx.png)
 
 * [Mydata](http://mydata.org/) [[**T**](https://twitter.com/mydataorg)] [[**D**](https://mydata.org/papers/)] [[**D**](https://mydata.org/declaration/)]
    * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
@@ -514,7 +519,6 @@ Discover decentralized identity—a new way to take ownership of your personal d
 
 #### Estonia[**^**](#Contents)
 ![](http://i.imgur.com/HyGoqfq.png)
-
 * [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) ([**id.ee**](https://www.id.ee/))
    * [Estonian Blockchain ID Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
 
@@ -531,6 +535,9 @@ Discover decentralized identity—a new way to take ownership of your personal d
 
 
 #### Netherlands[**^**](#Contents)
+
+![](http://i.imgur.com/CVA9t94.png)
+
 * [TU Delft helps develop digital ID for use on your phone](https://www.tudelft.nl/en/2018/tu-delft/tu-delft-helps-develop-digital-id-for-use-on-your-phone/)
 * [Deployment of a Blockchain-Based Self-Sovereign Identity - Delft](https://arxiv.org/pdf/1806.01926.pdf)
 * [TrustChain: A Sybil-resistant scalable blockchain - Presentation](http://msn.iecs.fcu.edu.tw/report/download.php?)
