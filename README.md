@@ -334,7 +334,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Evernym](https://www.evernym.com/) [[**T**](https://twitter.com/evernym)] [[**G**](https://github.com/evernym/sovrin)] Founded in 2013
 * [Identity System Essentials](https://www.evernym.com/wp-content/uploads/2017/02/Identity-System-Essentials.pdf) (Original Evernym Identity WP submitted to ID2020\RWoT) 3/2016
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186) 
-* [**/indy-sovrin-evernym**](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) **Much additional Evernym information.**
+* [**/indy-sovrin-evernym**](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) Much additional Evernym information.
 
 ![](https://cdn-images-1.medium.com/max/800/0*uVmDqgtCxuoeylQ4.png)
 
