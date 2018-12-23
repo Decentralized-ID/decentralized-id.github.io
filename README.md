@@ -190,6 +190,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
 * [Identity Commons-Wiki](http://wiki.idcommons.net/Main_Page)
 * [IIW-Wiki](http://iiw.idcommons.net/Main_Page)
+* [IIW - Past Workshops](https://internetidentityworkshop.com/past-workshops/))
 * [identitywoman.net](https://identitywoman.net/)
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
 * [WoTinfo](https://github.com/WebOfTrustInfo/)

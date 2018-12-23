@@ -48,6 +48,7 @@ In the mean-time, I'll adding all of the best SSI resources I can find here.
    >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
 * [Self Sovereign Identity and MyData](https://medium.com/@apoikola/self-sovereign-identity-and-mydata-e1f996a9451)
 * [HIPE 0014-ssi-notation](https://github.com/hyperledger/indy-hipe/tree/master/text/0014-ssi-notation)
+* [IIW - Past Workshops](https://internetidentityworkshop.com/past-workshops/)
 
 #### Video
 
@@ -62,6 +63,8 @@ In the mean-time, I'll adding all of the best SSI resources I can find here.
 
 ### History
 
+* [Kim Cameron Identity Laws](https://channel9.msdn.com/Blogs/scobleizer/Kim-Cameron-Identity-Laws)
+  * [Laws of Identity - Whitepaper](https://web.archive.org/web/20080814163727/http://www.identityblog.com/stories/2004/12/09/thelaws.html)
 *  [*What is Sovereign Source Authority?*](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) shows an early use of 'sovereign' in relation to our internet identities. The term "Self Sovereign Identity" started becoming widely used in 2014.[[**ϟ**](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)][[**ϟ**](https://hubculture.com/hubs/47/news/689/)]
 * [Sovrin Foundation Launches first dedicated Self Sovereign Identity Network](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 
 
