@@ -368,6 +368,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Indy Demo by IBM](https://www.youtube.com/watch?v=cz-6BldajiA)
 * [Behind the Cloud Episode 6: Blockchain and Self-Sovereign Identity in the Enterprise](https://www.youtube.com/watch?v=wSdm2-18Z2g)
 * [Evernym's contributions to Hyperledger Indy](https://www.youtube.com/playlist?list=PLRp0viTDxBWGLdZk0aamtahB9cpJGV7ZF)
+* [Introduction to Indy Plenum Architecture](https://www.youtube.com/watch?v=WZin717AT_A)
 
 ### Podcasts[**^**](#Contents) [**>>**](../README.md#Podcasts)
 * [MyData Podcast](https://mydata.org/podcast/)
