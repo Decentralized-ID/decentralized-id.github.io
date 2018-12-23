@@ -354,7 +354,7 @@ Blockstack is a network for decentralized applications where users own their ide
 • [Jolocom](https://stories.jolocom.com/jolocom-brings-blockchain-identity-to-privacy-week-berlin-acdaee665f0) 
 • [KYC-Chain](https://kyc-chain.com/) 
 • [LNk-E](https://lnketech.com/) 
-• [Mastercard](https://newsroom.mastercard.com/press-releases/mastercard-microsoft-join-forces-to-advance-digital-identity-innovations/) 
+• [Mastercard](https://newsroom.mastercard.com/press-releases/mastercard-microsoft-join-forces-to-advance-digital-identity-innovatioeuns/) 
 • [Meeco](https://meeco.me/) 
 • [MetaX](https://adtoken.com/uploads/white-paper.pdf) 
 • [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY) 
@@ -588,10 +588,10 @@ Discover decentralized identity—a new way to take ownership of your personal d
 #### European Union[**^**](#Contents)
 ![](http://i.imgur.com/DuQXLhs.png)
 
-
 * [EU BLOCKCHAIN OBSERVATORY AND FORUM—Workshop Report e-Identity](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
 * [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
-* EU Blockchain Forum - [BLOCKCHAIN FOR GOVERNMENT AND PUBLIC SERVICES](https://www.eublockchainforum.eu/sites/default/files/reports/eu_observatory_blockchain_in_government_services_v1_2018-12-07.pdf)
+* [EU Report Considers Blockchain-Based Digital Identities, Tokenized National Currencies](https://cointelegraph.com/news/eu-report-considers-blockchain-based-digital-identities-tokenized-national-currencies)
+  * EU Blockchain Forum - [BLOCKCHAIN FOR GOVERNMENT AND PUBLIC SERVICES](https://www.eublockchainforum.eu/sites/default/files/reports/eu_observatory_blockchain_in_government_services_v1_2018-12-07.pdf)
 * [Government services and digital identity](https://www.eublockchainforum.eu/sites/default/files/research-paper/20180801_government_services_and_digital_identity.pdf)
 
 
