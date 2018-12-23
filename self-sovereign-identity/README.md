@@ -50,6 +50,8 @@ In the mean-time, I'll adding all of the best SSI resources I can find here.
 * [HIPE 0014-ssi-notation](https://github.com/hyperledger/indy-hipe/tree/master/text/0014-ssi-notation)
 * [IIW - Past Workshops](https://internetidentityworkshop.com/past-workshops/)
 * [Self Sovereign Identity -identitywoman.net](https://identitywoman.net/self-sovereign-identity/)
+* [Self Sovereign Identity going where no identity has gone before](https://www.brighttalk.com/webcast/16693/342423/self-sovereign-identity-going-where-no-identity-has-gone-before)
+
 
 #### Video
 
