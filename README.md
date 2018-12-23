@@ -274,7 +274,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Peer DID Method Spec](https://github.com/dhh1128/peer-did-method-spec)
 * [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
-* [did:ockam:](https://medium.com/ockam/an-introduction-to-did-ockam-8626d5aecc53)
+* [did:ockam:](https://medium.com/ockam/an-introduction-to-did-ockam-8626d5aecc53) [[**ϟ**](https://twitter.com/Ockam_io/status/1064589363269365763)]
  
 
 
