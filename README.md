@@ -118,8 +118,7 @@ Since then, the IIW has met bi-anually, actively supporting the development of t
 
 IIW participants began the effort towards creating a truly "[user centric identity](https://www.networkworld.com/article/2304596/access-control/what-is--user-centric--identity-.html)," in contrast to identity solutions whos focus has been fulfilling the needs of the enterprise. The pioneers of decentralized identity have long struggled against the "[identity silo paradox](https://www.zdnet.com/article/the-identity-silo-paradox/)," that while the *identerati* continually work on solutions to break up these silos, the enterprise has had a strong financial incentive to retain them.
 
-* [What is IIW?](https://vimeo.com/173562225)[[**ϟ**](https://vimeo.com/207961532)]- short film about the IIW[[**ϟ**](https://www.prweb.com/releases/identitymovie/iiw2017/prweb14161721.htm)]
-   * [identirati](https://www.zdnet.com/article/the-identity-silo-paradox/)[[**ϟ**](https://www.forgerock.com/blog/who-are-the-identerati)] is a term for those working on standards and methods based on the premise of opening up id data silos, dating back to at least 2006.
+* [What is IIW?](https://vimeo.com/173562225) [[**ϟ**](https://vimeo.com/207961532)][[**ϟ**](https://www.prweb.com/releases/identitymovie/iiw2017/prweb14161721.htm)] short film about the [identirati](https://www.zdnet.com/article/the-identity-silo-paradox/)[[**ϟ**](https://www.forgerock.com/blog/who-are-the-identerati)] (a term for those working on identity standards for the purpose of breaking up id data silos, dating back to at least 2006).
 
 In [April of 2014](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en), the European Parliament demonstrates strong support for the GDPR, which passes back and forth through the European Council, Commision and Parliment throught the rest of the year.
 
