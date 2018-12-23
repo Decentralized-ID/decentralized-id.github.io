@@ -418,6 +418,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
   * [DID Registration](https://didproject.azurewebsites.net/docs/registration.html)
 * [Mastercard, Microsoft Join Forces to Advance Digital Identity Innovations](https://newsroom.mastercard.com/press-releases/mastercard-microsoft-join-forces-to-advance-digital-identity-innovations/)
 * [Decentralized digital identities and blockchain: The future as we see it](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/decentralized-digital-identities-and-blockchain-the-future-as-we-see-it/)
+* [Microsoft Identity Standards Blog](https://techcommunity.microsoft.com/t5/Identity-Standards-Blog/bg-p/IdentityStandards)
 
 ### Bitcoin [**^**](#Contents)
 
