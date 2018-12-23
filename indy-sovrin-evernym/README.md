@@ -354,6 +354,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 
 ### Video[**^**](#Contents) [**>>**](../README.md#video)
+* [Meet the Sovrin Foundation](https://vimeo.com/299487829)
 * [Hyperledger Indy Explainer Video](https://www.youtube.com/watch?v=MnO2L6WoqD0)
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
 * [Self-Sovereign Identity with Hyperledger Indy\Sovrin- Calvin Cheng - FOSSASIA 2018](https://www.youtube.com/watch?v=hfyIZu3_fw8)
