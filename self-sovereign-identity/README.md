@@ -51,7 +51,7 @@ In the mean-time, I'll adding all of the best SSI resources I can find here.
 * [IIW - Past Workshops](https://internetidentityworkshop.com/past-workshops/)
 * [Self Sovereign Identity -identitywoman.net](https://identitywoman.net/self-sovereign-identity/)
 * [Self Sovereign Identity going where no identity has gone before](https://www.brighttalk.com/webcast/16693/342423/self-sovereign-identity-going-where-no-identity-has-gone-before)
-
+* [LESS identity](https://medium.com/@trbouma/less-identity-65f65d87f56b)
 
 #### Video
 
