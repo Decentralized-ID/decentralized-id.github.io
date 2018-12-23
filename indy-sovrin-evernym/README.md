@@ -121,6 +121,8 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 • [Digital Bazaar](https://digitalbazaar.com/)
 • [estatus AG](https://www.esatus.com/)
 • [Evernym](https://www.evernym.com/)
+• [European Business Process Institute](https://ebpi.nl/en/home/)
+• []()
 • [Finicity](https://www.finicity.com/)
 • [First Education Credit Union](https://www.firstedfcu.com/)
 • [Global Consent](http://www.consent.global/)
