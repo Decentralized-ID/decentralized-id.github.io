@@ -193,6 +193,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Building binaries of LibIndy for Android](https://github.com/hyperledger/indy-sdk/blob/master/doc/android-build.md)
 * [HIPE 0014-ssi-notation](https://github.com/hyperledger/indy-hipe/tree/master/text/0014-ssi-notation)
 * [Hyperledger Indy Working Group Calls](https://drive.google.com/drive/u/0/folders/1AwHWN95KmSEi5fijraID0tFFMzYHoMwt?ogsrc=32)
+* [How to build a Self Sovereign Identity Wallet](https://www.devteam.space/blog/how-to-build-a-self-sovereign-identity-wallet/)
 
 #### IDEMix ZKP [**^**](#Contents)
 * [AnonCreds: Anonymous credentials protocol implementation in python](https://github.com/hyperledger/indy-anoncreds) [[**ϟ**](https://github.com/hyperledger/indy-anoncreds/blob/master/docs/anoncred-usecase1.pdf)]
