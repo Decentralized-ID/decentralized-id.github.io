@@ -246,6 +246,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 #### DID the Decentralized Identifier[**^**](#Contents) 
 
 * [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
+  * [All you need to know about sequential UUID generators](https://blog.2ndquadrant.com/sequential-uuid-generators/)
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
   * Authors:
      * [Drummond Reed](https://equalsdrummond.name/) [[**T**](https://twitter.com/drummondreed)] ([Evernym](https://www.evernym.com/))  
