@@ -434,12 +434,9 @@ Blockstack is a network for decentralized applications where users own their ide
 * **[/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)** - Much additional info on Hyperledger Indy.
 
 ### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
-* [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper
-   * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
-   * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
-   * [Blockstack DID Spec](https://github.com/blockstack/blockstack-core/blob/master/docs/blockstack-did-spec.md)[**[ϟ](https://forum.blockstack.org/t/did-method-at-identity-foundation/4287/9)**]
+
 * RWoT—[Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
-  * Hyperledger Indy, W3C and DID related standards are a product of RWoT efforts towards dpki.
+  * Hyperledger Indy, and DID related standards are a product of RWoT efforts towards dpki.
 * [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
 * [KeyChains: A Decentralized Public-Key Infrastructure](https://drum.lib.umd.edu/bitstream/handle/1903/3332/0.pdf?sequence=1&isAllowed=y)
 * [ClaimChain: Decentralized Public Key Infrastructure](https://www.researchgate.net/publication/318584251_ClaimChain_Decentralized_Public_Key_Infrastructure)
@@ -447,6 +444,18 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Privacy based decentralized Public Key Infrastructure
 (PKI) implementation using Smart contract in
 Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)
+
+
+#### Blockstack
+* [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper
+   * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
+   * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
+   * [Blockstack DID Spec](https://github.com/blockstack/blockstack-core/blob/master/docs/blockstack-did-spec.md)[**[ϟ](https://forum.blockstack.org/t/did-method-at-identity-foundation/4287/9)**]
+* [App Mining](https://app.co/mining)
+* <a href="https://twitter.com/santisiri/status/1076259390154592256">
+  <img src="http://imgur.com/BHPawJSl.png" />
+</a>
+
 
 ### Structured Data Standards[**^**](#Contents) 
 
