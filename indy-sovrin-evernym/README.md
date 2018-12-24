@@ -338,6 +338,11 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [IXO World](https://ixo.world/) - Guided by the UN framework of 17 Global Goals to end poverty, protect the planet and ensure prosperity for all, by the year 2030. [[**ϟ**](https://twitter.com/phillipgibb/status/1073247433067556865)]
   >"Achieving the Sustainable Development Goals demands embracing the data revolution " UN Secretary - General (2014)
 
+![](https://i.imgur.com/pjs9aPf.png)
+<sup>https://twitter.com/Hyperledger/status/1072892591157510148</sup>
+
+![](https://i.imgur.com/txTBlSU.png)
+<sup>https://twitter.com/techkuz/status/1074492556434698241</sup>
 
 ### EU General Data Protection Regulation Act[**^**](#Contents) [**>>**](../README.md#eu-general-data-protection-regulation-act)
 
