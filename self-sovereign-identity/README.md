@@ -74,8 +74,9 @@ In the mean-time, I'll adding all of the best SSI resources I can find here.
 
 
 ### Assorted
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
+* <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw"><img src="https://i.imgur.com/f3FlznM.png"/></a>
+* <a href="https://twitter.com/VitalikButerin/status/1072160446180810752"><img src="https://i.imgur.com/tNvN7vV.png"/></a>
 * [There’s A Facebook Alternative, It’s Called Self-Sovereign Identity](https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity) —coindesk
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
   * [uniresolver.io](https://uniresolver.io/)
