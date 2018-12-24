@@ -465,7 +465,7 @@ Blockstack is a network for decentralized applications where users own their ide
 
 ### Ethereum[**^**](#Contents)
 
-![](http://i.imgur.com/7jYhyHC.png)
+![](http://imgur.com/SmvFLzCl.png)
 
 * [Decentralized Digital Identity on Ethereum](https://www.slideshare.net/FabriceCroiseaux/ethcc-2018-decentralized-digital-identity-on-ethereum) -SlideShare
 * [ERC725](https://github.com/ethereum/EIPs/issues/725) • [ERC735](https://github.com/ethereum/EIPs/issues/735)
