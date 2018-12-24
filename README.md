@@ -37,7 +37,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Hyperledger Indy](#Hyperledger-Indy)
   * [Blockstack](#blockstack)
   * [Democracy Earth](#democracy-earth-)
-  * [Bitcoin](#Bitcoin)
+  * [Bitcoin](#Bitcoin-)
   * [Ethereum—Protocol](#Ethereum)
      * [Ethereum Apps](#Ethereum-Identity-Applications)
   * [IBM](#IBM)
