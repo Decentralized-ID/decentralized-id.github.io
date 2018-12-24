@@ -341,6 +341,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
   >"Achieving the Sustainable Development Goals demands embracing the data revolution " UN Secretary - General (2014)
 * <a href="https://twitter.com/Hyperledger/status/1072892591157510148"><img src="https://i.imgur.com/pjs9aPf.png"/></a>
 * <a href="https://twitter.com/techkuz/status/1074492556434698241"><img src="https://i.imgur.com/txTBlSU.png"/></a>
+* <a href="https://twitter.com/ByteSizeCapital/status/1046067509869367307"><img src="https://i.imgur.com/WeLDs34.png"/></a>
 
 ### EU General Data Protection Regulation Act[**^**](#Contents) [**>>**](../README.md#eu-general-data-protection-regulation-act)
 
