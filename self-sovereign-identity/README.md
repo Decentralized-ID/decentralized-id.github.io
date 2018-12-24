@@ -80,6 +80,7 @@ In the mean-time, I'll adding all of the best SSI resources I can find here.
 * [There’s A Facebook Alternative, It’s Called Self-Sovereign Identity](https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity) —coindesk
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
   * [uniresolver.io](https://uniresolver.io/)
+* [Blockchain's killer app - Free Beer](http://freebeer.com.au/2018/10/31/blockchains-killer-app/)
 
 
 ### Resources
