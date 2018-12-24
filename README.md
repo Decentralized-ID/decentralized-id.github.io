@@ -457,7 +457,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
   <img src="http://imgur.com/BHPawJSl.png" />
 </a>
 
-### Democracy Earth 
+### Democracy Earth [**^**](#Contents) 
 * [Democracy Earth Foundation](http://democracy.earth/) [[**G**](https://github.com/DemocracyEarth/)][[**B**](https://words.democracy.earth/)][[**T**](https://twitter.com/DemocracyEarth)][[**C**](http://chat.democracy.earth/)] - Crypto Governance
    * [Sovereign](http://sovereign.software/)[[**G**](https://github.com/DemocracyEarth/sovereign)], a blockchain direct democracy tool using "vote" tokens to grant democratic participation rights to every human. A proof-of-individuality (POI) process based on peer-to-peer validation establishes that a self-sovereign identity is uniquely tied to a single person. The project introduces a number of interesting socio-technical concepts such as "Social Smart Contract", "Initial Rights Offering", and "Cryptographically Induced Equality". Cooperation is happening with other decentralized identity initiatives such as Blockstack and uPort.
 * [The Social Smart Contract](https://github.com/DemocracyEarth/paper#The_Social_Smart_Contract)[[**ϟ**](https://www.dropbox.com/s/sifogl4zimwkkei/Democracy%20Earth%20-%20Social%20Smart%20Contract%20-%20Paper%20v0.2.pdf?dl=0)] An Initial Rights Offering from Democracy Earth Foundation.
