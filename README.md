@@ -35,17 +35,18 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [The Sovrin Foundation](#The-Sovrin-Foundation)
      * [Windley.com](#The-Sovrin-Foundation)
   * [Hyperledger Indy](#Hyperledger-Indy)
-  * [Decentralized Public Key Infrastructure (DPKI)](#Decentralized-Public-Key-Infrastructure-DPKI)
   * [Blockstack](#blockstack)
   * [Democracy Earth](#democracy-earth-)
-  * [Structured Data Standards](#Structured-Data-Standards)
-  * [IBM](#IBM)
-  * [Microsoft](#Microsoft)
+  * [Bitcoin](#Bitcoin)
   * [Ethereum—Protocol](#Ethereum)
      * [Ethereum Apps](#Ethereum-Identity-Applications)
+  * [IBM](#IBM)
+  * [Microsoft](#Microsoft)
+  * [Decentralized Public Key Infrastructure (DPKI)](#Decentralized-Public-Key-Infrastructure-DPKI)
+  * [Structured Data Standards](#Structured-Data-Standards)
   * [Personal Data Wallets & Marketplaces](#Personal-Data-Wallets--Marketplaces)  
-  * [Blockchain ID Initiatives](#blockchain-id-initiatives-)
-  * [State Sanctioned Identity Initiatives](#State-Led-Initiatives)
+  * [Blockchain ID](#blockchain-id)
+  * [State Sponsored Identity Initiatives](#State-Led-Initiatives)
     * [Australia](#Australia)
     * [Canada](#Canada-)
     * [Estonia](#Estonia)
@@ -435,19 +436,8 @@ Blockstack is a network for decentralized applications where users own their ide
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](#canada-)]
 * **[/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)** - Much additional info on Hyperledger Indy.
 
-### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
-* RWoT—[Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
-  * Hyperledger Indy, and DID related standards are a product of RWoT efforts towards dpki.
-* [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
-* [KeyChains: A Decentralized Public-Key Infrastructure](https://drum.lib.umd.edu/bitstream/handle/1903/3332/0.pdf?sequence=1&isAllowed=y)
-* [ClaimChain: Decentralized Public Key Infrastructure](https://www.researchgate.net/publication/318584251_ClaimChain_Decentralized_Public_Key_Infrastructure)
-* [A Decentralized Public Key Infrastructure with Identity Retention](https://eprint.iacr.org/2014/803.pdf)
-* [Privacy based decentralized Public Key Infrastructure
-(PKI) implementation using Smart contract in
-Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)
-
-
 ### Blockstack[**^**](#Contents) 
+![](https://i.imgur.com/ZZx8lfR.png)
 * [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper
    * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
    * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
@@ -455,6 +445,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [App Mining](https://app.co/mining)
 
 ### Democracy Earth [**^**](#Contents) 
+![](https://i.imgur.com/KxbXb1t.png)
 * [Democracy Earth Foundation](http://democracy.earth/) [[**G**](https://github.com/DemocracyEarth/)][[**B**](https://words.democracy.earth/)][[**T**](https://twitter.com/DemocracyEarth)][[**C**](http://chat.democracy.earth/)] - Crypto Governance
    * [Sovereign](http://sovereign.software/)[[**G**](https://github.com/DemocracyEarth/sovereign)], a blockchain direct democracy tool using "vote" tokens to grant democratic participation rights to every human. A proof-of-individuality (POI) process based on peer-to-peer validation establishes that a self-sovereign identity is uniquely tied to a single person. Cooperation is happening with other decentralized identity initiatives such as Blockstack and uPort.
 * [The Social Smart Contract](https://github.com/DemocracyEarth/paper#The_Social_Smart_Contract)[[**ϟ**](https://www.dropbox.com/s/sifogl4zimwkkei/Democracy%20Earth%20-%20Social%20Smart%20Contract%20-%20Paper%20v0.2.pdf?dl=0)] An Initial Rights Offering from Democracy Earth Foundation.
@@ -463,44 +454,9 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [Meet the Dad Who Registered His Daughter’s Birth on the Blockchain](https://www.coindesk.com/meet-the-dad-who-registered-his-daughters-birth-on-the-blockchain) [[**ϟ**](https://www.coindesk.com/humans-on-the-blockchain-why-crypto-is-the-best-defense-against-ai-overlords)]
 * Token: [Sale](https://token.democracy.earth/) • [Economics](https://www.dropbox.com/s/8q35dvht2hkfvqa/Democracy%20Earth%20-%20Token%20Economics.pdf?dl=0) • [testnet](https://votest.democracy.earth/)
 >we worked with councils, senates, non profits, student centers, political parties, corporations.. but implementing real digital governance at scale really took off with crypto networks. our partnership with @blockstack is our biggest milestone of 2018. -[Santi](https://twitter.com/santisiri/status/1076259390154592256)
-
-
-### Structured Data Standards[**^**](#Contents) 
-
-* [Blockcerts](https://www.blockcerts.org), developed by[Learning Machine](https://www.learningmachine.com/), is an open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
-  * [CXC (Carribean) Pilots E-Certificates on the Blockchain](https://www.cxc.org/cxc-pilots-e-certificates-on-the-blockchain/)
-  * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
-* [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
-   * [ÆTERNITY](http://aeternity.com/) [[**G**](https://github.com/aeternity/protocol)]: using Schema's standards: "offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema's are used for representing data about persons and organizations."
-* DIDs[[**>**](#DID-the-Decentralized-Identifier)] and Verifiable Claims of the W3C [[**>**](#World-Wide-Web-Consortium)]
-
-
-### IBM[**^**](#Contents)
-
-![](http://i.imgur.com/CvZI7R1.png)
-
-* [Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
-* [github.com/IBM-Blockchain-Identity](https://github.com/IBM-Blockchain-Identity) (Docker based tutorial sandbox env)
-* [How do we start tackling the existing identity problem](https://www.ibm.com/blogs/blockchain/2018/06/how-do-we-start-tackling-the-existing-identity-problem/)
-* [Swipe Right on Verifiably Credentials](https://developer.ibm.com/code/2018/05/22/swipe-right-on-verifiable-credentials/)
-* [WISeKey fully deployed its CertifyID integrating Digital Identity with Blockchain technology](https://globenewswire.com/news-release/2018/07/11/1535718/0/en/WISeKey-fully-deployed-its-CertifyID-integrating-Digital-Identity-with-Blockchain-technology.html)
-* [Mooti](https://mooti.co/) [[**D**](https://docs.mooti.co/)]
-   * offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features [[**ϟ**](https://www.cio.com/article/3147358/it-industry/ibm-building-blockchain-ecosystem.html)]
-* [SecureKey](http://securekey.com/): [partners with IBM](http://www-03.ibm.com/press/us/en/pressrelease/51841.wss) to enable a new digital identity and attribute sharing network based on Hyperledger Fabric blockchain.
-
-### Microsoft[**^**](#Contents)
-
-![](http://i.imgur.com/MEN8iSn.png)
-
-* [Microsoft Azure Own your identity](https://azure.microsoft.com/en-us/overview/decentralized-identity/) [[**ϟ**](https://www.coindesk.com/microsoft-is-pushing-new-blockchain-id-products-but-theres-pushback-too)]
-Discover decentralized identity—a new way to take ownership of your personal data.  
-* [didproject.azurewebsites.net](https://didproject.azurewebsites.net/) [[**D**](https://didproject.azurewebsites.net/docs/overview.html)]ocs [[**wp**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY)]
-  * [DID Registration](https://didproject.azurewebsites.net/docs/registration.html)
-* [Mastercard, Microsoft Join Forces to Advance Digital Identity Innovations](https://newsroom.mastercard.com/press-releases/mastercard-microsoft-join-forces-to-advance-digital-identity-innovations/)
-* [Decentralized digital identities and blockchain: The future as we see it](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/decentralized-digital-identities-and-blockchain-the-future-as-we-see-it/)
-* [Microsoft Identity Standards Blog](https://techcommunity.microsoft.com/t5/Identity-Standards-Blog/bg-p/IdentityStandards)
-
 ### Bitcoin [**^**](#Contents)
+
+![](https://i.imgur.com/q32lAXY.png)
 
 * [Bitnation taps Blockchain tech to aid Refugees](https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/)[[**^**](#Bitnation-and-the-United-Nations)]
 * [BTCR DID Method](https://w3c-ccg.github.io/didm-btcr/) — The Bitcoin Reference DID method (did:btcr) supports DIDs on the public Bitcoin blockchain. The Bitcoin Reference method has minimal design goals: a DID trust anchor based on the Bitcoin blockchain, updates publicly visible and auditable via Bitcoin transactions, and optionally, additional DID Document information referenced in the transaction OP_RETURN data field. No other Personal Identifiable Information (PII) would be placed on the immutable blockchain.
@@ -540,6 +496,54 @@ Discover decentralized identity—a new way to take ownership of your personal d
  * [Cryptonomica.net](https://cryptonomica.net) is an identity verification service based on [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) and [Ethereum](https://www.ethereum.org) with legal framework and online dispute resolution for electronic contracts from London-based [court of arbitration](https://cryptonomica.net/#!/arbitration) 
 
 
+
+### IBM[**^**](#Contents)
+
+![](http://i.imgur.com/CvZI7R1.png)
+
+* [Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
+* [github.com/IBM-Blockchain-Identity](https://github.com/IBM-Blockchain-Identity) (Docker based tutorial sandbox env)
+* [How do we start tackling the existing identity problem](https://www.ibm.com/blogs/blockchain/2018/06/how-do-we-start-tackling-the-existing-identity-problem/)
+* [Swipe Right on Verifiably Credentials](https://developer.ibm.com/code/2018/05/22/swipe-right-on-verifiable-credentials/)
+* [WISeKey fully deployed its CertifyID integrating Digital Identity with Blockchain technology](https://globenewswire.com/news-release/2018/07/11/1535718/0/en/WISeKey-fully-deployed-its-CertifyID-integrating-Digital-Identity-with-Blockchain-technology.html)
+* [Mooti](https://mooti.co/) [[**D**](https://docs.mooti.co/)]
+   * offers an "identity chain" technology that makes it possible to issue and revoke verified claims using elliptic curve cryptography (curve25519, secp256k1) and includes privay-enhancing features [[**ϟ**](https://www.cio.com/article/3147358/it-industry/ibm-building-blockchain-ecosystem.html)]
+* [SecureKey](http://securekey.com/): [partners with IBM](http://www-03.ibm.com/press/us/en/pressrelease/51841.wss) to enable a new digital identity and attribute sharing network based on Hyperledger Fabric blockchain.
+
+### Microsoft[**^**](#Contents)
+
+![](http://i.imgur.com/MEN8iSn.png)
+
+* [Microsoft Azure Own your identity](https://azure.microsoft.com/en-us/overview/decentralized-identity/) [[**ϟ**](https://www.coindesk.com/microsoft-is-pushing-new-blockchain-id-products-but-theres-pushback-too)]
+Discover decentralized identity—a new way to take ownership of your personal data.  
+* [didproject.azurewebsites.net](https://didproject.azurewebsites.net/) [[**D**](https://didproject.azurewebsites.net/docs/overview.html)]ocs [[**wp**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY)]
+  * [DID Registration](https://didproject.azurewebsites.net/docs/registration.html)
+* [Mastercard, Microsoft Join Forces to Advance Digital Identity Innovations](https://newsroom.mastercard.com/press-releases/mastercard-microsoft-join-forces-to-advance-digital-identity-innovations/)
+* [Decentralized digital identities and blockchain: The future as we see it](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/decentralized-digital-identities-and-blockchain-the-future-as-we-see-it/)
+* [Microsoft Identity Standards Blog](https://techcommunity.microsoft.com/t5/Identity-Standards-Blog/bg-p/IdentityStandards)
+
+
+### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
+* RWoT—[Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
+  * Hyperledger Indy, and DID related standards are a product of RWoT efforts towards dpki.
+* [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
+* [KeyChains: A Decentralized Public-Key Infrastructure](https://drum.lib.umd.edu/bitstream/handle/1903/3332/0.pdf?sequence=1&isAllowed=y)
+* [ClaimChain: Decentralized Public Key Infrastructure](https://www.researchgate.net/publication/318584251_ClaimChain_Decentralized_Public_Key_Infrastructure)
+* [A Decentralized Public Key Infrastructure with Identity Retention](https://eprint.iacr.org/2014/803.pdf)
+* [Privacy based decentralized Public Key Infrastructure
+(PKI) implementation using Smart contract in
+Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)
+
+
+### Structured Data Standards[**^**](#Contents) 
+
+* [Blockcerts](https://www.blockcerts.org), developed by[Learning Machine](https://www.learningmachine.com/), is an open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
+  * [CXC (Carribean) Pilots E-Certificates on the Blockchain](https://www.cxc.org/cxc-pilots-e-certificates-on-the-blockchain/)
+  * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
+* [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
+   * [ÆTERNITY](http://aeternity.com/) [[**G**](https://github.com/aeternity/protocol)]: using Schema's standards: "offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema's are used for representing data about persons and organizations."
+* DIDs[[**>**](#DID-the-Decentralized-Identifier)] and Verifiable Claims of the W3C [[**>**](#World-Wide-Web-Consortium)]
+
 ### Personal Data Wallets & Marketplaces[**^**](#Contents)
 
 ![](http://i.imgur.com/jHwsWIx.png)
@@ -556,7 +560,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
    * The platform includes the [Vetri](https://vetri.global/) wallet and marketplace. 'Earn extra income and rewards by joining the data economy.'"
 * [We can do better than selling our data](http://blogs.harvard.edu/doc/2018/09/18/data/)-Doc Searls(*IIW*)
 
-### Blockchain ID Initiatives [**^**](#Contents)
+### Blockchain ID[**^**](#Contents)
 * [Danube Tech](http://danubetech.com/) — digital identity and personal data, including personal agents, semantic graphs, and blockchain ([**xdi**](https://xdi2.org)) ([**navigator**](https://github.com/projectdanube/xdi2))
    * Founded by [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**T**](https://twitter.com/peacekeeper)] [[**G**](https://github.com/peacekeeper)] [[**B**](https://medium.com/@markus.sabadello)]
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e) [[**ϟ**](https://www.wired.com/story/coinbase-distributed-systems-acquisition/)]
