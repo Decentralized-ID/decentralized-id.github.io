@@ -37,6 +37,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Hyperledger Indy](#Hyperledger-Indy)
   * [Decentralized Public Key Infrastructure (DPKI)](#Decentralized-Public-Key-Infrastructure-DPKI)
   * [Blockstack](#blockstack)
+  * [Democracy Earth](#democracy-earth-)
   * [Structured Data Standards](#Structured-Data-Standards)
   * [IBM](#IBM)
   * [Microsoft](#Microsoft)
@@ -435,7 +436,6 @@ Blockstack is a network for decentralized applications where users own their ide
 * **[/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)** - Much additional info on Hyperledger Indy.
 
 ### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
-
 * RWoT—[Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
   * Hyperledger Indy, and DID related standards are a product of RWoT efforts towards dpki.
 * [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
@@ -447,7 +447,7 @@ Blockstack is a network for decentralized applications where users own their ide
 Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)
 
 
-#### Blockstack[**^**](#Contents) 
+### Blockstack[**^**](#Contents) 
 * [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper
    * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
    * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
@@ -463,8 +463,8 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [The Social Smart Contract](https://github.com/DemocracyEarth/paper#The_Social_Smart_Contract)[[**ϟ**](https://www.dropbox.com/s/sifogl4zimwkkei/Democracy%20Earth%20-%20Social%20Smart%20Contract%20-%20Paper%20v0.2.pdf?dl=0)] An Initial Rights Offering from Democracy Earth Foundation.
 * [December App-Mining Results](https://words.democracy.earth/decembers-app-mining-results-are-live-7bd2b4f2390)
 * [Yellow Jackets on the Sovereign Platform](https://words.democracy.earth/yellow-jackets-on-the-sovereign-platform-bdebe6d62ae1)
+* [Meet the Dad Who Registered His Daughter’s Birth on the Blockchain](https://www.coindesk.com/meet-the-dad-who-registered-his-daughters-birth-on-the-blockchain) [[**ϟ**](https://www.coindesk.com/humans-on-the-blockchain-why-crypto-is-the-best-defense-against-ai-overlords)]
 * Token: [Sale](https://token.democracy.earth/) • [Economics](https://www.dropbox.com/s/8q35dvht2hkfvqa/Democracy%20Earth%20-%20Token%20Economics.pdf?dl=0) • [testnet](https://votest.democracy.earth/)
-
 
 
 ### Structured Data Standards[**^**](#Contents) 
