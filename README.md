@@ -36,6 +36,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
      * [Windley.com](#The-Sovrin-Foundation)
   * [Hyperledger Indy](#Hyperledger-Indy)
   * [Decentralized Public Key Infrastructure (DPKI)](#Decentralized-Public-Key-Infrastructure-DPKI)
+  * [Blockstack](#blockstack)
   * [Structured Data Standards](#Structured-Data-Standards)
   * [IBM](#IBM)
   * [Microsoft](#Microsoft)
@@ -446,7 +447,7 @@ Blockstack is a network for decentralized applications where users own their ide
 Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)
 
 
-#### Blockstack
+#### Blockstack[**^**](#Contents) 
 * [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper
    * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
    * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
@@ -455,6 +456,15 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * <a href="https://twitter.com/santisiri/status/1076259390154592256">
   <img src="http://imgur.com/BHPawJSl.png" />
 </a>
+
+### Democracy Earth 
+* [Democracy Earth Foundation](http://democracy.earth/) [[**G**](https://github.com/DemocracyEarth/)][[**B**](https://words.democracy.earth/)][[**T**](https://twitter.com/DemocracyEarth)][[**C**](http://chat.democracy.earth/)] - Crypto Governance
+   * [Sovereign](http://sovereign.software/)[[**G**](https://github.com/DemocracyEarth/sovereign)], a blockchain direct democracy tool using "vote" tokens to grant democratic participation rights to every human. A proof-of-individuality (POI) process based on peer-to-peer validation establishes that a self-sovereign identity is uniquely tied to a single person. The project introduces a number of interesting socio-technical concepts such as "Social Smart Contract", "Initial Rights Offering", and "Cryptographically Induced Equality". Cooperation is happening with other decentralized identity initiatives such as Blockstack and uPort.
+* [The Social Smart Contract](https://github.com/DemocracyEarth/paper#The_Social_Smart_Contract)[[**ϟ**](https://www.dropbox.com/s/sifogl4zimwkkei/Democracy%20Earth%20-%20Social%20Smart%20Contract%20-%20Paper%20v0.2.pdf?dl=0)] An Initial Rights Offering from Democracy Earth Foundation.
+* [December App-Mining Results](https://words.democracy.earth/decembers-app-mining-results-are-live-7bd2b4f2390)
+* [Yellow Jackets on the Sovereign Platform](https://words.democracy.earth/yellow-jackets-on-the-sovereign-platform-bdebe6d62ae1)
+* Token: [Sale](https://token.democracy.earth/) • [Economics](https://www.dropbox.com/s/8q35dvht2hkfvqa/Democracy%20Earth%20-%20Token%20Economics.pdf?dl=0) • [testnet](https://votest.democracy.earth/)
+
 
 
 ### Structured Data Standards[**^**](#Contents) 
@@ -526,12 +536,11 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [Jolocom](http://jolocom.com/) 
    * a "SmartWallet" for everyone to own their personal digital identity, using [Social Linked Data](https://github.com/solid/solid-spec), WebID, and verifiable claims standards via Ethereum smart contracts. 
    * [A universal identity layer we can only build together](https://stories.jolocom.com/a-universal-identity-layer-we-can-only-build-together-e297ed5ae4ed)
-* [Democracy Earth Foundation](http://democracy.earth/) [[**G**](https://github.com/DemocracyEarth/paper)] 
-   * developing *[Sovereign](http://sovereign.software/)*, a blockchain direct democracy tool using "vote" tokens to grant democratic participation rights to every human. A proof-of-individuality (POI) process based on peer-to-peer validation establishes that a self-sovereign identity is uniquely tied to a single person. The project introduces a number of interesting socio-technical concepts such as "Social Smart Contract", "Initial Rights Offering", and "Cryptographically Induced Equality". Cooperation is happening with other decentralized identity initiatives such as Blockstack and uPort.
 * [poa.network](https://poa.network/)[**[D](https://medium.com/poa-network/poa-network-how-honey-badger-bft-consensus-works-4b16c0f1ff94)**]
  POA Network is an Ethereum-based platform that offers an open-source framework for smart contracts. POA Network is a sidechain to Ethereum utilizing [Proof of Authority](https://blockonomi.com/proof-of-authority/)
  as its consensus mechanism. 
  * [Cryptonomica.net](https://cryptonomica.net) is an identity verification service based on [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) and [Ethereum](https://www.ethereum.org) with legal framework and online dispute resolution for electronic contracts from London-based [court of arbitration](https://cryptonomica.net/#!/arbitration) 
+
 
 ### Personal Data Wallets & Marketplaces[**^**](#Contents)
 
