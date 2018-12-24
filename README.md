@@ -81,6 +81,8 @@ I also [collect resources](http://crypt0library.net) on nearly every subject in 
 
 All of the work I do feeds into the rest: collecting resources helps me write, writing makes me find more resources. Putting the resources into the database also leads to collecting more resources; which helps me to create quality content, and will hopefully help others find the information they're looking for.
 
+Although originally this began as a result of freelance gigs, all of my work on this repository has been a personal investment of time into building a brand, and supporting the SSI\DID initiative. This is one of my favorite subjects in crypto, and I've been brainstorming ways to create an income working on it. If I come across some attractive business opportunity in the DID ecosystem, I'll be happy to keep working on its documentation for the foreseeable future. Either way, there's a whole uncharted cryptoverse of information to organize and map out, and that's where I'll be.
+
 ---
 
 **[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and [Contributions](#brought-to-you-by-the-crypto-librarysuper-source) Welcome**
