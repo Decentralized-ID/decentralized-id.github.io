@@ -337,12 +337,8 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [What the EEA and Hyperledger Collaboration Means for Enterprise Blockchain Development](https://media.consensys.net/what-the-eea-and-hyperledger-collaboration-means-for-enterprise-blockchain-development-31580012cb2)
 * [IXO World](https://ixo.world/) - Guided by the UN framework of 17 Global Goals to end poverty, protect the planet and ensure prosperity for all, by the year 2030. [[**ϟ**](https://twitter.com/phillipgibb/status/1073247433067556865)]
   >"Achieving the Sustainable Development Goals demands embracing the data revolution " UN Secretary - General (2014)
-
-<a href="https://twitter.com/Hyperledger/status/1072892591157510148"><img src="https://i.imgur.com/pjs9aPf.png"/></a>
-<sup>https://twitter.com/Hyperledger/status/1072892591157510148</sup>
-
-<a href="https://twitter.com/techkuz/status/1074492556434698241"><img src="https://i.imgur.com/txTBlSU.png"/></a>
-<sup>https://twitter.com/techkuz/status/1074492556434698241</sup>
+* <a href="https://twitter.com/Hyperledger/status/1072892591157510148"><img src="https://i.imgur.com/pjs9aPf.png"/></a>
+* <a href="https://twitter.com/techkuz/status/1074492556434698241"><img src="https://i.imgur.com/txTBlSU.png"/></a>
 
 ### EU General Data Protection Regulation Act[**^**](#Contents) [**>>**](../README.md#eu-general-data-protection-regulation-act)
 
