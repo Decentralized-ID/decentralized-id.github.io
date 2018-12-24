@@ -195,6 +195,8 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [How to build a Self Sovereign Identity Wallet](https://www.devteam.space/blog/how-to-build-a-self-sovereign-identity-wallet/)
 * [Set up Indy Pool in Local Linux Environment Using Docker](https://medium.com/@smaldeniya/setup-hyperledger-indy-pool-in-local-linux-environment-using-docker-304d13eb86dc)
 * [Learn how to set up a DEV Environment with Vagrant on Hyperledger Indy!](https://github.com/hyperledger/indy-node/blob/master/environment/vagrant/sandbox/DevelopmentEnvironment/Virtualbox/Vagrantfile)
+* [Semantics Working Group Shared Docs](https://drive.google.com/drive/u/0/folders/1zkXr--0DG7I1k62vaFuotEzIaTIUH0ou?ogsrc=32)
+  * [Verifiable Credentials, Schema and Overlays- Overview Decks](https://drive.google.com/drive/u/0/folders/1UxLLugRQKuV8Mdvv_X9Y6ty4szSi5ZNU?ogsrc=32)
 
 #### IDEMix ZKP [**^**](#Contents)
 * [AnonCreds: Anonymous credentials protocol implementation in python](https://github.com/hyperledger/indy-anoncreds) [[**ϟ**](https://github.com/hyperledger/indy-anoncreds/blob/master/docs/anoncred-usecase1.pdf)]
