@@ -192,7 +192,6 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [sovrin-foundation/connector-app](https://github.com/sovrin-foundation/connector-app) - Reference mobile edge agent for use with the Sovrin Network built from Hyperledger Indy.
 * [Building binaries of LibIndy for Android](https://github.com/hyperledger/indy-sdk/blob/master/doc/android-build.md)
 * [HIPE 0014-ssi-notation](https://github.com/hyperledger/indy-hipe/tree/master/text/0014-ssi-notation)
-* [Hyperledger Indy Working Group Calls](https://drive.google.com/drive/u/0/folders/1AwHWN95KmSEi5fijraID0tFFMzYHoMwt?ogsrc=32)
 * [How to build a Self Sovereign Identity Wallet](https://www.devteam.space/blog/how-to-build-a-self-sovereign-identity-wallet/)
 
 #### IDEMix ZKP [**^**](#Contents)
@@ -336,6 +335,8 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Legal Entity Identifier blockchained by a Hyperledger Indy implementation of GraphChain](http://www.graphchain.io/MTSR2018.pdf)
   >The main idea behind GraphChain is to use blockchain mechanisms on top of an abstract RDF graphs. This paper presents an implementation of GraphChain in the Hyperledger Indy framework. The whole setting is shown to be applied to the RDF graphs containing information about Legal Entity Identifiers (LEIs).
 * [What the EEA and Hyperledger Collaboration Means for Enterprise Blockchain Development](https://media.consensys.net/what-the-eea-and-hyperledger-collaboration-means-for-enterprise-blockchain-development-31580012cb2)
+* [IXO World](https://ixo.world/) - Guided by the UN framework of 17 Global Goals to end poverty, protect the planet and ensure prosperity for all, by the year 2030. [[**ϟ**](https://twitter.com/phillipgibb/status/1073247433067556865)]
+  >"Achieving the Sustainable Development Goals demands embracing the data revolution " UN Secretary - General (2014)
 
 
 ### EU General Data Protection Regulation Act[**^**](#Contents) [**>>**](../README.md#eu-general-data-protection-regulation-act)
@@ -371,6 +372,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Behind the Cloud Episode 6: Blockchain and Self-Sovereign Identity in the Enterprise](https://www.youtube.com/watch?v=wSdm2-18Z2g)
 * [Evernym's contributions to Hyperledger Indy](https://www.youtube.com/playlist?list=PLRp0viTDxBWGLdZk0aamtahB9cpJGV7ZF)
 * [Introduction to Indy Plenum Architecture](https://www.youtube.com/watch?v=WZin717AT_A)
+* [Hyperledger Indy Working Group Calls](https://drive.google.com/drive/u/0/folders/1AwHWN95KmSEi5fijraID0tFFMzYHoMwt?ogsrc=32)
 
 ### Podcasts[**^**](#Contents) [**>>**](../README.md#Podcasts)
 * [MyData Podcast](https://mydata.org/podcast/)
