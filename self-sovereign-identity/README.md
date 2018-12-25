@@ -1,18 +1,18 @@
 # Self Sovereign Identity (SSI)
-**Articles and documents associated with Self Sovereign Identity fundamentals.**
+**Articles and documents associated with Self Sovereign Identity Fundamentals.**
 
-This directory was born from [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), the original SSI repository. I've done a bit of work over there, and decided to expand my efforts. The reason I got started on this is because I wanted to write an article about SSI. Then I saw the opportunity to help with its documentation.
+This directory was born from [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), the original SSI repository. I've done a bit of work over there, and decided to expand my efforts. The reason I got started on this is because I wanted to write an article about SSI, and saw some areas where I think I can help with some of the legwork towards a more complete, and up-to-date set of SSI literature.
 
-The best overall article on the subject is still Christopher Allen's rallying cry: [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md). Christopher did an excellent job of outlining the history of internet identity standards, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), currently in revision. Additionally, some criticism of the principles has been offered, and a considerable amount of additional material has been created. 
+In my opinion, the best overall article on the subject is still Christopher Allen's rallying cry: [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md). Christopher did an outstanding job of outlining the history of internet identity standards, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), currently in revision. 
 
-I've begun organizing some thoughts around the [Evolution of Self Sovereign Identity](evolution-of-ssi.md). The idea is to collect thought on SSI since 2016, and outline a few areas where I feel like the documentation could be improved. Once I've completed a review of existing literature on the subject, I'll put it into a google shared doc to encourage further participation. 
+However, considerable additional material has been created on the subject since then, including some helpful criticism on the principles. I've organized some of my initial thoughts in [/evolution-of-ssi.md](evolution-of-ssi.md).
 
-In the mean-time, I'll adding all of the best SSI resources I can find here.
+Then I realized that I should make a more complete survey of the subject, if I want to be thorough. So now I'm collecting as much SSI info as I can, and organizing it here. Once I've completed a review of existing literature on the subject, I'll put it into a google shared doc to encourage further participation. 
 
 ![](http://imgur.com/3zz62kpl.png)
 
 
-## Self Sovereign Identity Documentation Components
+## SSI Documentation Components
 
 * [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md) - The original article on Self-Sovereign Identity and the 10 Principles of Self-Sovereign Identity as published on 2016-04-25 in github and at [Life With Alacrity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) by [Christopher Allen](http://www.github.com/christophera) [[**ϟ**](https://www.coindesk.com/path-self-sovereign-identity/amp/)]
   * [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) - The Self-Sovereign Identity Principles, in progress of being revised.
@@ -25,7 +25,7 @@ In the mean-time, I'll adding all of the best SSI resources I can find here.
 * [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md) (\*and your sister and your daughter and your best friend and your nephew) (SSI Use-Cases)
 * [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml)
 
-### Requires Further review
+### Assorted
 
 * [Identity and Digital Self-Sovereignty](https://medium.com/learning-machine-blog/identity-and-digital-self-sovereignty-1f3faab7d9e3#.3jcgvnbok) - Blog post by [Natalie Smolenski](https://medium.com/@nsmolenski)
   * [Sovereignty in Historical Context for Self-Sovereign Identity – Natalie Smolenski – Webinar 18](http://ssimeetup.org/sovereignty-historical-context-self-sovereign-identity-natalie-smolenski-webinar-18/)
