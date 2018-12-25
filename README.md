@@ -33,7 +33,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Decentralized Identity Foundation—DIF](#Decentralized-Identity-Foundation)
   * [Evernym](#Evernym)
   * [The Sovrin Foundation](#The-Sovrin-Foundation)
-     * [Windley.com](#The-Sovrin-Foundation)
+     * [Windley.com](#selected-articles-by-phil-windley-)
   * [Hyperledger Indy](#Hyperledger-Indy)
   * [Blockstack](#blockstack)
   * [Democracy Earth](#democracy-earth-)
