@@ -21,7 +21,7 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
   * [Selected Articles Windley.com](#Selected-Articles-Windley.com)
 * [Hyperledger Indy](#Hyperledger-Indy)
   * [Additional Indy Related](#Additional-Indy-Related)
-  * [IDEMix ZKP](#IDEMix-ZKP-)
+  * [Zero Knowledge Proof in Indy](#zero-knowledge-proofs-in-indy-)
 * [W3C and DID Related Standards](#W3C-and-DID-Related-Standards)
   * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier)
   * [DID Auth](#DID-Auth) 
