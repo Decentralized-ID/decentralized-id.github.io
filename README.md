@@ -700,6 +700,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [The Knowledge Complexity Of Interactive Proofs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&)
 * [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin)
 * [Blockchain for Identity Management](https://www.cs.bgu.ac.il/~frankel/TechnicalReports/2016/16-02.pdf) - Details early efforts towards Blockchain-ID
+* [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
 
 ### Additional Thought around Identity
 * [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
