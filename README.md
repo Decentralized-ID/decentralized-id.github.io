@@ -84,7 +84,7 @@ I also [collect resources](http://crypt0library.net) on nearly every subject in 
 
 All of the work I do feeds into the rest: collecting resources helps me write, writing makes me find more resources. Putting the resources into the database also leads to collecting more resources; which helps me to create quality content, and will hopefully help others find the information they're looking for.
 
-Although originally this began as a result of freelance gigs, all of my work on this repository has been a personal investment of time into building a brand, and supporting the SSI\DID initiative. This is one of my favorite subjects in crypto, and I've been brainstorming ways to create an income working on it. If I come across some attractive business opportunity in the DID ecosystem, I'll be happy to keep working on its documentation for the foreseeable future. Either way, there's a whole uncharted cryptoverse of information to organize and map out, and that's where I'll be.
+Although originally this began as a result of freelance gigs, all of my work on this repository has been a personal investment of time, building my brand as a research enthusiast, and in support of anyone trying to understand the SSI\DID initiative. This is one of my favorite subjects in crypto, and I've been brainstorming ways to create an income working on it. If I come across some attractive business opportunity in the DID ecosystem, I'll be happy to keep working on its documentation for the foreseeable future. Either way, there's a whole uncharted cryptoverse of information to organize and map out, and that's where I'll be.
 
 ---
 
@@ -730,6 +730,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 
 ### Slideshare[**^**](#Contents)
+* [Towards Self Sovereign Identity](https://www.slideshare.net/alehors/towards-self-sovereign-identity-20180508) - A great slide-deck by IBM explaining Indy\Sovrin Architecture.
 * [Identiverse](https://www.slideshare.net/Identiverse/presentations)
 * [SSI Meetup](https://www.slideshare.net/SSIMeetup/presentations/)
 * [ChristopherA](https://www.slideshare.net/ChristopherA/presentations)
