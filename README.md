@@ -100,7 +100,7 @@ Contact: <code>infominer <i>at</i> protonmail <i>dot</i> com</code>.
 
 ## History[**^**](#Contents)
 
-This isn't meant to be a complete historical outline, but enough backround to provide context for the rest.
+This isn't meant to be a complete history, but to provide enough relevant backround to provide context for the this arrangement of resources.
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
