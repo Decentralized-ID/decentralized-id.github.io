@@ -52,6 +52,8 @@ Then I realized that I should make a more complete survey of the subject, if I w
 * [Self Sovereign Identity -identitywoman.net](https://identitywoman.net/self-sovereign-identity/)
 * [Self Sovereign Identity going where no identity has gone before](https://www.brighttalk.com/webcast/16693/342423/self-sovereign-identity-going-where-no-identity-has-gone-before)
 * [LESS identity](https://medium.com/@trbouma/less-identity-65f65d87f56b)
+* [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md); Joe Andrieu describes identity terms in plain language, with regards to what function they serve.
+
 
 #### Video
 
