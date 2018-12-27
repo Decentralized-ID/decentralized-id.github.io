@@ -198,6 +198,8 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Learn how to set up a DEV Environment with Vagrant on Hyperledger Indy!](https://github.com/hyperledger/indy-node/blob/master/environment/vagrant/sandbox/DevelopmentEnvironment/Virtualbox/Vagrantfile)
 * [Semantics Working Group Shared Docs](https://drive.google.com/drive/u/0/folders/1zkXr--0DG7I1k62vaFuotEzIaTIUH0ou?ogsrc=32)
   * [Verifiable Credentials, Schema and Overlays- Overview Decks](https://drive.google.com/drive/u/0/folders/1UxLLugRQKuV8Mdvv_X9Y6ty4szSi5ZNU?ogsrc=32)
+* [Hyperledger Identity Working Group-paper](https://docs.google.com/document/d/1ExFNRx-yYoS8FnDIUX1_0UBMha9TvQkfts2kVnDc4KE/edit#heading=h.7noli5fp1i70)
+* [Hyperledger Ursa](https://wiki.hyperledger.org/projects/ursa) "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the [shared library](https://github.com/hyperledger/ursa) will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin [**tele**](https://t.me/sovrin_foundation)gram[[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)]
 
 
 
@@ -321,7 +323,6 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 ### Evernym-Sovrin-Indy Adoption[**^**](#Contents)
 
-* [Hyperledger Ursa](https://wiki.hyperledger.org/projects/ursa) "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the [shared library](https://github.com/hyperledger/ursa) will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin [**tele**](https://t.me/sovrin_foundation)gram[[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)]
 * [Tykn *The Future of Resilient Identity*](https://tykn.tech/) [[**T**](https://twitter.com/Tykn_tech)][[**G**](https://github.com/tykntech)][[**D**](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)] (Indy\Sovrin)
   * [Why we use Sovrin](https://blog.tykn.tech/why-we-use-sovrin-ee31dd146a47)
 * [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)
