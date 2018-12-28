@@ -572,6 +572,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [JLinc](https://www.jlinc.com/) — registers cryptographic public keys on the Stellar blockchain. 
    > "The founders have been at the center of a community of developers working on “user-centric digital identity for almost two decades."
 * [Civic](https://www.civic.com/) launches: [identity.com](https://identity.com)[[**G**](https://github.com/identity-com/)][[**B**](https://www.civic.com/blog/identity-com-first-open-source-update/)][[**wp**](https://tokensale.civic.com/CivicTokenSaleWhitePaper.pdf)][[**ϟ**](https://www.theblockcrypto.com/2018/12/21/civics-token-illustrates-why-companies-masquerading-tokens-will-fail/)]
+  * [Dapp Framework Melo One to use Civic](https://www.cryptoninjas.net/2018/08/30/dapp-framework-menlo-one-to-use-civic-for-blockchain-identity-verification/)
 * [I/O Digital Foundation](https://iodigital.io/) [**[**wp**](https://simplebooklet.com/iocoinwhitepaper#page=0)**]
    * "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
 
