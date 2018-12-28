@@ -93,3 +93,16 @@ Then I realized that I should make a more complete survey of the subject, if I w
 * [WebOfTrustInfo/self-sovereign-id](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 * [Self-Sovereign Identity — wiki.p2pfoundation](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
 
+### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
+[<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
+
+Check out some of my [other projects](https://github.com/infominer33/Crypto-Library/blob/master/projects.md)\
+<code>infominer <i>at</i> protonmail <i>dot</i> com</code>
+
+BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
+
+![](http://imgur.com/yXLLm9Bl.png) 
+
+DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
+
+![](https://i.imgur.com/0zBLoUP.png) 

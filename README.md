@@ -80,7 +80,7 @@ For now, I'm becoming more familiar with all of this material, and how it fits t
 
 I was initially introduced to blockchain identity through a few clients on Fiverr. The first was 3500 word report on "Blockchain and the United Nations." Another client had me write a 1500 word report on blockchain identity. Besides that I've written a few articles considering the architecture of Hyperledger Indy. Throughout that time, I collected a ton of quality information on decentralzied id, hyperledger indy, and the surrounding ecosystem. 
 
-I also [collect resources](http://crypt0library.net) on nearly every subject in crypto, which I'm slowly entering into a database, to power a [web-app](https://github.com/infominer33/Crypto-library) for search, and navigation by tags, etc. Since I enjoy the subject so much, I decided to enter all of my DID resources into [toml](/blockchain-id.toml) format. Once that was complete, I knew I could make an [awesome list](https://github.com/sindresorhus/awesome) out of them sooner than a live demo of the app that is in progress. 
+I also [collect resources](http://crypt0library.net) on nearly every subject in crypto, which I'm slowly entering into a database, to power a [web-app](https://github.com/infominer33/Crypto-library) for search, and navigation by tags, etc. Creating these lists has become an important part of my process, as a writer. Check out some of my [other projects](https://github.com/infominer33/Crypto-Library/blob/master/projects.md).
 
 Although originally this began as a result of freelance gigs, all of my work on this repository has been a personal investment of time; building my brand as a research enthusiast, in support of anyone trying to understand SSI\DID. This is one of my favorite subjects in crypto, and I've been brainstorming ways to create an income working on it. If I come across some attractive business opportunity in the DID ecosystem, I'll be happy to keep working on its documentation for the foreseeable future. Either way, there's a whole uncharted cryptoverse of information to organize and map out, and that's where I'll be.
 
@@ -755,10 +755,11 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ---
 
-### Brought to you by The [Crypto Library](crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
+### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
-Contact me: <code>infominer <i>at</i> protonmail <i>dot</i> com</code>.
+Check out some of my [other projects](https://github.com/infominer33/Crypto-Library/blob/master/projects.md)\
+<code>infominer <i>at</i> protonmail <i>dot</i> com</code>
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
