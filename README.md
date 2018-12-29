@@ -26,7 +26,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
     * [RWoT Use Cases](#RWoT-Use-Cases) 
   * [W3C and DID Related Standards](#W3C-and-DID-Related-Standards)
     * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier)
-    * [DID Adoption](#DID-Adoption)
+    * [DID Adoption](#DID-Adoption-)
     * [DID Auth](#DID-Auth) 
     * [Verifiable Claims](#Verifiable-Claims)
     * [Decentralized Key Managment DKMS](#Decentralized-Key-Management-DKMS)
@@ -527,7 +527,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
 
 ### Blockpass [**^**](#Contents) 
   <img src="http://imgur.com/mMZ4E2rl.png" />
-  
+
 * [Blockpass](https://www.blockpass.org/) [[**T**](https://twitter.com/BlockpassOrg)] [[**wp**](https://www.blockpass.org/downloads/BlockpassWhitepaper.v1.3.3.pdf)]
   * [Edinburgh Identity Lab](https://identity-lab.blockpass.org/) [[**ϟ**](https://www.newsbtc.com/2018/09/28/worlds-first-blockchain-identity-lab-launched-today-in-edinburgh/)]
 
