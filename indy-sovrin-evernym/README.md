@@ -167,7 +167,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ![](http://imgur.com/2LWlrgvl.png)\
 <sup><a href="https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies">Linux Foundation -Blockchain for Business -INDY</a></sup>
 
-* [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**T**](https://twitter.com/Hyperledger)] [[**G**](https://github.com/hyperledger/indy-sdk)] [[**C**]()]
+* [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**T**](https://twitter.com/Hyperledger)] [[**C**](https://chat.hyperledger.org)]
 * [Indy Documentation Index - wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
   * [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
   * [Indy Docs Framwork](https://github.com/hyperledger/indy-hipe/tree/master/text/0025-indy-docs-framework)
@@ -180,12 +180,25 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section about Indy.
 * [Blockchain development made easy: Getting started with Hyperledger Indy](https://jaxenter.com/hyperledger-indy-interview-hardman-148796.html) - Interview with Daniel Hardman[[**G**](https://github.com/dhh1128)][[**L**](https://www.linkedin.com/in/danielhardman/)][[**T**](https://twitter.com/dhh1128)], Hyperledger Indy maintainer
 
+#### Indy Github Repositories
+
+* [/indy-plenum](https://github.com/hyperledger/indy-plenum) - Byzantine Fault Tolerant Protocol [[**wiki**](https://github.com/hyperledger/indy-plenum/wiki)]
+  * [Storage components](https://github.com/hyperledger/indy-plenum/blob/master/docs/storage.md) - As of now, RocksDB is used as a key-value database for all Storages.
+  > "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem." 
+* [/indy-sdk](https://github.com/hyperledger/indy-sdk) - Everything needed to build applications that interact with an Indy distributed identity ledger.
+* [/indy-node](https://github.com/hyperledger/indy-node) - The server portion of a distributed ledger purpose-built for decentralized identity.
+* [/indy-anoncreds](https://github.com/hyperledger/indy-anoncreds) - Anonymous credentials protocol implementation in python
+* [/indy-crypto](https://github.com/hyperledger/indy-crypto) - shared crypto library for Hyperledger Indy components.
+* [/indy-agent](https://github.com/hyperledger/indy-agent) - reference agents and associated tools.
+* [/indy-test-automation](https://github.com/hyperledger/indy-test-automation) - Automation tools for testing of Indy Project components.
+* [/indy-post-install-automation](https://github.com/hyperledger/indy-post-install-automation)
+* [/indy-hipe](https://github.com/hyperledger/indy-hipe) - 
+Hyperledger Indy Project Enhancements
+* [Hyperledger Ursa](https://wiki.hyperledger.org/projects/ursa)[[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)][[**ϟ**](https://www.coindesk.com/hyperledger-launches-cryptography-toolbox-for-blockchain-developers)] "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the [shared library](https://github.com/hyperledger/ursa) will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram)
+
+
 
 #### Additional Indy Related[**^**](#Contents) 
-* [Hyperledger Ursa](https://wiki.hyperledger.org/projects/ursa)[[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)][[**ϟ**](https://www.coindesk.com/hyperledger-launches-cryptography-toolbox-for-blockchain-developers)] "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the [shared library](https://github.com/hyperledger/ursa) will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram)
-* [Plenum Bzantine Fault Tolerant Protocol](https://github.com/hyperledger/indy-plenum/wiki)
-   * "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem."
-* [Storage components](https://github.com/hyperledger/indy-plenum/blob/master/docs/storage.md) - As of now, RocksDB is used as a key-value database for all Storages.
 * [HyperledgerIndyWGCall_2018-12-06](https://drive.google.com/file/d/1166XpTM8WgZVMN2ca53CRCJapZlAeUhM/view) Discussion of VON and Plenum Docs (with info graphics)
 * [A Framework for Designing Cryptographic Key Management Systems](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-130.pdf)
 * [An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials](https://eprint.iacr.org/2008/539.pdf)
@@ -199,7 +212,6 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Semantics Working Group Shared Docs](https://drive.google.com/drive/u/0/folders/1zkXr--0DG7I1k62vaFuotEzIaTIUH0ou?ogsrc=32)
   * [Verifiable Credentials, Schema and Overlays- Overview Decks](https://drive.google.com/drive/u/0/folders/1UxLLugRQKuV8Mdvv_X9Y6ty4szSi5ZNU?ogsrc=32)
 * [Hyperledger Identity Working Group-paper](https://docs.google.com/document/d/1ExFNRx-yYoS8FnDIUX1_0UBMha9TvQkfts2kVnDc4KE/edit#heading=h.7noli5fp1i70)
-* [Hyperledger Ursa](https://wiki.hyperledger.org/projects/ursa) "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the [shared library](https://github.com/hyperledger/ursa) will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin [**tele**](https://t.me/sovrin_foundation)gram[[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)]
 * [Indy August Update](https://wiki.hyperledger.org/groups/tsc/project-updates/indy-2018-aug) - Most recent report from the Hyperledger Indy team.
 
 
