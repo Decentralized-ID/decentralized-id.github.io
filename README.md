@@ -525,6 +525,11 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [Decentralized digital identities and blockchain: The future as we see it](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/decentralized-digital-identities-and-blockchain-the-future-as-we-see-it/)
 * [Microsoft Identity Standards Blog](https://techcommunity.microsoft.com/t5/Identity-Standards-Blog/bg-p/IdentityStandards)
 
+### Blockpass [**^**](#Contents) 
+
+* [Blockpass](https://www.blockpass.org/) [[**T**](https://twitter.com/BlockpassOrg)] [[**wp**](https://www.blockpass.org/downloads/BlockpassWhitepaper.v1.3.3.pdf)]
+  * [Edinburgh Identity Lab](https://identity-lab.blockpass.org/) [[**ϟ**](https://www.newsbtc.com/2018/09/28/worlds-first-blockchain-identity-lab-launched-today-in-edinburgh/)]
+
 
 ### Decentralized Public Key Infrastructure DPKI[**^**](#Contents) 
 * RWoT—[Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
