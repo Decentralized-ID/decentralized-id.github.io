@@ -20,7 +20,7 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
   * [Sovrin Stewards](#Sovrin-Stewards)
   * [Selected Articles Windley.com](#Selected-Articles-Windley.com)
 * [Hyperledger Indy](#Hyperledger-Indy)
-  * [Indy Github Repositories](#Indy-Github-Repositories-)
+  * [Indy Github Repositories](#Indy-Github-Repositories)
   * [Additional Indy Related](#Additional-Indy-Related)
   * [Zero Knowledge Proof in Indy](#zero-knowledge-proofs-in-indy-)
 * [W3C and DID Related Standards](#W3C-and-DID-Related-Standards-)
