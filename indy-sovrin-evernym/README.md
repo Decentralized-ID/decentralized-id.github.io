@@ -20,6 +20,7 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
   * [Sovrin Stewards](#Sovrin-Stewards)
   * [Selected Articles Windley.com](#Selected-Articles-Windley.com)
 * [Hyperledger Indy](#Hyperledger-Indy)
+  * [Indy Github Repositories](#Indy-Github-Repositories-)
   * [Additional Indy Related](#Additional-Indy-Related)
   * [Zero Knowledge Proof in Indy](#zero-knowledge-proofs-in-indy-)
 * [W3C and DID Related Standards](#W3C-and-DID-Related-Standards-)
@@ -180,7 +181,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section about Indy.
 * [Blockchain development made easy: Getting started with Hyperledger Indy](https://jaxenter.com/hyperledger-indy-interview-hardman-148796.html) - Interview with Daniel Hardman[[**G**](https://github.com/dhh1128)][[**L**](https://www.linkedin.com/in/danielhardman/)][[**T**](https://twitter.com/dhh1128)], Hyperledger Indy maintainer
 
-#### Indy Github Repositories
+#### Indy Github Repositories[**^**](#Contents)
 
 * [/indy-plenum](https://github.com/hyperledger/indy-plenum) - Byzantine Fault Tolerant Protocol [[**wiki**](https://github.com/hyperledger/indy-plenum/wiki)]
   * [Storage components](https://github.com/hyperledger/indy-plenum/blob/master/docs/storage.md) - As of now, RocksDB is used as a key-value database for all Storages.
