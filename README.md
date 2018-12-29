@@ -574,8 +574,10 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
    > "The founders have been at the center of a community of developers working on “user-centric digital identity for almost two decades."
 * [Civic](https://www.civic.com/) launches: [identity.com](https://identity.com)[[**G**](https://github.com/identity-com/)][[**B**](https://www.civic.com/blog/identity-com-first-open-source-update/)][[**wp**](https://tokensale.civic.com/CivicTokenSaleWhitePaper.pdf)][[**ϟ**](https://www.theblockcrypto.com/2018/12/21/civics-token-illustrates-why-companies-masquerading-tokens-will-fail/)]
   * [Dapp Framework Melo One to use Civic](https://www.cryptoninjas.net/2018/08/30/dapp-framework-menlo-one-to-use-civic-for-blockchain-identity-verification/)
+  * [Brave Civic Partnership](https://brave.com/brave-civic-partnership/)
 * [I/O Digital Foundation](https://iodigital.io/) [**[**wp**](https://simplebooklet.com/iocoinwhitepaper#page=0)**]
    * "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
+* [Gemalto and R3 pilot blockchain for SSID](https://www.cryptoninjas.net/2018/09/18/gemalto-and-r3-pilot-blockchain-technology-for-self-sovereign-digital-id-network/#.W6drpckvGLU.twitter)
 
 ### State Led Initiatives[**^**](#Contents)
 
