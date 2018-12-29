@@ -67,6 +67,7 @@ Then I realized that I should make a more complete survey of the subject, if I w
 * [uPort: Self-Sovereign Identity Meets Portable Data](https://www.youtube.com/watch?v=hBIragrwqYc)
 * [Behind the Cloud—Blockchain and Self-Sovereign Identity in the Enterprise](https://www.youtube.com/watch?v=wSdm2-18Z2g)
 * [The Story of Open SSI Standards - Drummond Reed](https://www.youtube.com/watch?v=RllH91rcFdE&feature=youtu.be&t=4m30s)
+* [Kim Cameron - Identity Laws](https://channel9.msdn.com/Blogs/scobleizer/Kim-Cameron-Identity-Laws)
 
 ### History
 
