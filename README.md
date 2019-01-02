@@ -699,6 +699,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [A position paper on blockchain enabled identity and the road ahead](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)—Identity Working Group of the German Blockchain Association
 
 ### Research-Papers[**^**](#Contents)
+* [Security without Identification: Transaction Systems to make Big Brother Obsolete](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - David Chaum 1985
 * [Establishing Identity Without Certification Authorities](http://irl.cs.ucla.edu/~yingdi/pub/papers/Ellison-OldFriend-USENIX-Security-1996.pdf)
 * [A First Look at Identity Management Schemes on the Blockchain](https://arxiv.org/pdf/1801.03294.pdf)
 * [ChainAnchor — Anonymous Identities for Permissioned Blokchains](http://connection.mit.edu/wp-content/uploads/sites/29/2014/12/Anonymous-Identities-for-Permissioned-Blockchains2.pdf)
