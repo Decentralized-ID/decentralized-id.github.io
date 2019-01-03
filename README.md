@@ -10,8 +10,8 @@ This is a gathering of educational materials around decentralized, self-sovereig
 ### Contents
 
 * [Introduction](#Introduction)
-  * [Related Repositories](#related-repositories-)
-  * [How this project began](#how-this-project-began-)
+  * [Related Repositories](#related-repositories)
+  * [How this project began](#how-this-project-began)
   * [Link Shorthand](#Link-Shorthand)
 * [History](#History)
   * [The Augmented Social Network and the IDCommons](#the-augmented-social-network-and-the-idcommons)
