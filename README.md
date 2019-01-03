@@ -10,8 +10,8 @@ This is a gathering of educational materials around decentralized, self-sovereig
 ### Contents
 
 * [Introduction](#Introduction)
-  * [/indy-sovrin-evernym and /blockchain-identity](#blockchain-identity-and-indy-sovrin-evernym)
-  * [How I got into Decentralized-ID](#how-i-got-into-decentralized-identity)
+  * [Related Repositories](#related-repositories-)
+  * [How this project began](#how-this-project-began-)
   * [Link Shorthand](#Link-Shorthand)
 * [History](#History)
   * [The Augmented Social Network and the IDCommons](#the-augmented-social-network-and-the-idcommons)
@@ -69,20 +69,23 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 >Thanks to those who are working to make digital identity, and the world, a better place.
 
-### /blockchain-identity and /indy-sovrin-evernym[**^**](#Contents)
+### Related Repositories[**^**](#Contents)
 
-[/awesome-decentralized-id/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) is another list that naturally grew from this one; focused on Hyperledger Indy's protocol, governance, and ecosystem. I've also worked on [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) and included some of its resources here. Ideally these lists will all compliment each-other.
+* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) - a list for projects related to blockchain-identity. Some of its resources found a home here, but this is not meant to replace it.
 
-For now, I'm becoming more familiar with all of this material, and how it fits together in the decentralized identity space. I expect to be actively engaged building this repository for the next month or so, and look forward to it growing along with decentralized identity (irl) over the coming years.
+* [/awesome-decentralized-id/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - A folder in this repository, for information specific to Hyperledger Indy, the Sovrin Foundation, and Evernym.
 
+* [/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) - Another sub-folder to organize information about Self-Sovereign-Identity.
 
-### How I got into Decentralized Identity[**^**](#Contents)
+* [/bitcoin-history](https://github.com/infominer33/bitcoin-history) - Another repository I've begun collecting historical information leading up to Bitcoin.
+
+### How This Project Began[**^**](#Contents)
 
 I was initially introduced to blockchain identity when offering research and writing services on a popular freelance site. The first was 3500-word essay on "Blockchain and the United Nations," where I learned of Bitnation and the SDGs. Another was a 1500 word report on blockchain identity, giving me a broad view of the sector. Besides that I've written a few articles considering the architecture, and [historical background](https://medium.com/axiom-tech/hyperledger-indy-the-future-of-decentralized-identity-9de5c2459e4e) of Hyperledger Indy. Throughout that time, I collected a ton of quality information on decentralized id, Hyperledger Indy, and the surrounding ecosystem. 
 
-I also [collect resources](http://crypt0library.net) on nearly every subject in crypto, which I'm slowly entering into a database, to power a [web-app](https://github.com/infominer33/Crypto-library) for search, and navigation by tags, etc. Creating these lists has become an essential part of my process as a writer. Check out some of my [other projects](https://github.com/infominer33/awesome-decentralized-id/blob/master/projects.md).
+I got into crypto in mid-2017, and my passion for learning and for [collecting useful information](http://crypt0library.net), on any number of related subjects, has only grown over that time. I'm slowly entering those resources into a database, to power a [web-app](https://github.com/infominer33/Crypto-library) for search, and navigation by tags, etc. Creating these lists has become an essential part of my process as a writer. Check out some of my [other projects](https://github.com/infominer33/awesome-decentralized-id/blob/master/projects.md).
 
-Although initially began as a result of freelance gigs, my work on this repository has been a personal investment of time, building my brand as a research consultant, and in support of anyone trying to make sense of the SSI\DID ecosystem. Decentralized Identity is one of my favorite subjects in tech. However, I have a variety of research interests, and I'm always interested in learning new ways to earn from that research. 
+Although initially began as a result of freelance gigs, my work on this repository has been a personal investment of time, building my brand as a research consultant, and in support of anyone trying to make sense of the SSI\DID ecosystem. Decentralized Identity is one of my favorite subjects in tech. However, I have a variety of research interests, and I'm always interested in learning new ways to earn from that research.
 
 ---
 
