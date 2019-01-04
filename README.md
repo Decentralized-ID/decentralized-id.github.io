@@ -323,7 +323,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
 * [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
 
-![](https://i.imgur.com/orrgxRF.png)
+![](http://i.imgur.com/5qc1qrG.png)\
 [DKMS - An Essential Missing Piece of the SSI Puzzle. Drummond Reed. SSIMeetup.org](http://ssimeetup.org/decentralized-key-management-dkms-essential-missing-piece-ssi-puzzle-drummond-reed-webinar-8/)
 
 ### Decentralized Identity Foundation[**^**](#Contents) 
