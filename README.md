@@ -7,7 +7,7 @@
 
 This is a gathering of educational materials around decentralized, self-sovereign, and blockchain identity. Its an index for research, training, developers, students, end-users, investors, and the enterprise to more easily learn and navigate the decentralized identity landscape.
 
-### Contents
+## Contents
 
 * [Introduction](#Introduction)
   * [Related Repositories](#related-repositories)
@@ -66,7 +66,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Podcasts](#Podcasts)
   * [Sources](#Sources)
 
-## Introduction[**^**](#Contents)
+### Introduction[**^**](#Contents)
 
 >Thanks to those who are working to make digital identity, and the world, a better place.
 
@@ -249,7 +249,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 ![](http://imgur.com/6MLNgXal.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
-#### DID the Decentralized Identifier[**^**](#Contents) 
+### DID the Decentralized Identifier[**^**](#Contents) 
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
 
@@ -271,7 +271,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * [What is a DID?](https://docs.google.com/document/d/1Ym85y_bDVN9xkRZ-oD-zlUUIeZjVGWNihfZBk2GQidk/edit)
 
 
-#### DID Adoption [**^**](#Contents)
+### DID Adoption [**^**](#Contents)
 
 * [@ChristopherA on DID adoption](https://twitter.com/ChristopherA/status/989122017348784130)
    > "22/ Over a dozen companies and organizations, using multiple blockchains (Bitcoin, Ethereum, Hyperledger, etc.), have committed to deploying DIDs, including IBM, Microsoft, Digital Bazaar, Consensys, Evernym, Learning Machine, British Columbia, and more:" —[How blockchain could solve the internet privacy problem](https://www.computerworld.com/article/3267930/blockchain/how-blockchain-could-solve-the-internet-privacy-problem.html)
@@ -288,7 +288,7 @@ Blockstack is a network for decentralized applications where users own their ide
  
 
 
-#### DID Auth[**^**](#Contents) 
+### DID Auth[**^**](#Contents) 
 ![](https://i.imgur.com/FBe3S0w.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
@@ -300,7 +300,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
    * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md) [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
 
 
-#### Verifiable Claims[**^**](#Contents) 
+### Verifiable Claims[**^**](#Contents) 
 
 ![](https://i.imgur.com/5R51G4Y.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
@@ -313,7 +313,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](https://http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
 
 
-#### Decentralized Key Management DKMS[**^**](#Contents)
+### Decentralized Key Management DKMS[**^**](#Contents)
 
 ![](https://i.imgur.com/xmWkc4l.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
