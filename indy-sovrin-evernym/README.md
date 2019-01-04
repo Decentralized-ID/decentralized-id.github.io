@@ -181,6 +181,8 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section about Indy.
 * [Blockchain development made easy: Getting started with Hyperledger Indy](https://jaxenter.com/hyperledger-indy-interview-hardman-148796.html) - Interview with Daniel Hardman[[**G**](https://github.com/dhh1128)][[**L**](https://www.linkedin.com/in/danielhardman/)][[**T**](https://twitter.com/dhh1128)], Hyperledger Indy maintainer
 
+<img src="https://i.imgur.com/a0dpDtr.png"/>
+
 #### Indy Github Repositories[**^**](#Contents)
 
 * [/indy-plenum](https://github.com/hyperledger/indy-plenum) - Byzantine Fault Tolerant Protocol [[**wiki**](https://github.com/hyperledger/indy-plenum/wiki)]
@@ -198,7 +200,6 @@ Hyperledger Indy Project Enhancements
   * https://indy.readthedocs.io/projects/hipe/en/latest/
 * [/indy-crypto](https://github.com/hyperledger/indy-crypto) - shared crypto library for Hyperledger Indy components. To be:
 * [/ursa](https://github.com/hyperledger/ursa) [[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)][[**ϟ**](https://www.coindesk.com/hyperledger-launches-cryptography-toolbox-for-blockchain-developers)] "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the shared library will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram) [[**wiki**](https://wiki.hyperledger.org/projects/ursa)]
-
 
 
 #### Additional Indy Related[**^**](#Contents) 
@@ -252,10 +253,9 @@ Hyperledger Indy Project Enhancements
 * [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 
-![](https://i.imgur.com/XtZQg0j.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
-
 #### DID the Decentralized Identifier[**^**](#Contents) [**>>**](../README.md#did-the-decentralized-identifier)
+
+<a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
 
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
   * Authors:
@@ -271,30 +271,32 @@ Hyperledger Indy Project Enhancements
 * [Peer DID Method Spec](https://github.com/dhh1128/peer-did-method-spec)
 
 
+#### DID Auth[**^**](#Contents) 
+
 ![](https://i.imgur.com/FBe3S0w.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
-#### DID Auth[**^**](#Contents) 
    * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
    * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md) [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
 
-![](https://i.imgur.com/5R51G4Y.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
-
 
 #### Verifiable Claims[**^**](#Contents) 
+
+<a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/nsZ0X7r.png"/></a>
+
+
 * [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**D**](https://www.w3.org/2017/vc/charter.html)]
 * [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
 * [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](https://http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
 
 
 
+#### Decentralized Key Management-Agents[**^**](#Contents) 
+
 
 ![](https://i.imgur.com/xmWkc4l.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
-
-#### Decentralized Key Management-Agents[**^**](#Contents) 
 
 * [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
 * [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
@@ -313,16 +315,16 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
 * [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**B**](https://medium.com/decentralized-identity)] 
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
-* [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
+* [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-dohttps://i.imgur.com/a0dpDtr.pngcuments/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
   * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
   * [uniresolver.io](https://uniresolver.io/)
 * [6/27 Masterclass on the DID Universal Resolver | Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
 
-![](http://i.imgur.com/0Mr3YMn.pnghttps://i.imgur.com/CvQnRZ2.png)
-
 
 #### BCGov's Verifiable Organizations Network VON[**^**](#Contents)
+
+![](http://i.imgur.com/0Mr3YMn.pnghttps://i.imgur.com/CvQnRZ2.png)
 
 >VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
 >
@@ -339,10 +341,10 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
 * [BCovrin](http://138.197.138.255/) - Indy TestNet
 
-![](https://i.imgur.com/3sfiarQ.png)
-
 
 ### Evernym-Sovrin-Indy Adoption[**^**](#Contents)
+
+![](https://i.imgur.com/3sfiarQ.png)
 
 * [Tykn *The Future of Resilient Identity*](https://tykn.tech/) [[**T**](https://twitter.com/Tykn_tech)][[**G**](https://github.com/tykntech)][[**D**](https://docs.google.com/document/d/1pNRO6aOb5eK4s8PVv7yS4x9TkqrGglCJ4jebU1F3Yzo/edit#)] (Indy\Sovrin)
   * [Why we use Sovrin](https://blog.tykn.tech/why-we-use-sovrin-ee31dd146a47)
