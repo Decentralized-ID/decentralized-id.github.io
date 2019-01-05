@@ -611,6 +611,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 * [Australian government reveals decentralized national digital identity plans](https://oneworldidentity.com/australian-government-reveals-decentralized-national-digital-identity-plans/)
 * [Australia Post's Digital ID named best federal govt IT project](https://www.itnews.com.au/news/australia-posts-digital-id-named-best-federal-govt-it-project-485017)
+* [Trusted Identity Framework](https://www.dta.gov.au/our-projects/digital-identity/join-identity-federation/accreditation-and-onboarding/trusted-digital-identity-framework)
 
 #### Canada [**^**](#Contents) [**>**](#Hyperledger-Indy)
 ![](http://i.imgur.com/1QmQiy2.png)
