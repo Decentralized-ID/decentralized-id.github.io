@@ -273,13 +273,15 @@ Hyperledger Indy Project Enhancements
 
 #### DID Auth[**^**](#Contents) 
 
-![](http://i.imgur.com/dPoIio9.png)
-<a href="http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/"><img src="https://i.imgur.com/YNlk8RY.png"/></a>\
-http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
+<a href="http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/"><img src="http://i.imgur.com/dPoIio9.png"/></a>
+<sup><a href="http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/"><img src="https://i.imgur.com/YNlk8RY.png"/></a>\
+http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10</sup>
 
    * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
    * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md) [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
 
+![](http://imgur.com/XMaq5cil.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
 #### Verifiable Claims[**^**](#Contents) 
 
@@ -301,8 +303,6 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
 * [Agent to Agent Communication](https://drive.google.com/file/d/1PHAy8dMefZG9JNg87Zi33SfKkZvUvXvx/view): Daniel Hardman explains the goals of agent to agent communication
 
-![](http://imgur.com/XMaq5cil.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
 
 ### Decentralized Identity Foundation[**^**](#Contents) [**>>**](../README.md#Decentralized-Identity-Foundation)
@@ -340,6 +340,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
 * [BCovrin](http://138.197.138.255/) - Indy TestNet
 
+>The Government of British Columbia and the Government of Ontario have already rolled out a production system using the Sovrin Network for business registration and licensing; together they've issued over 6 million credentials, according to Windley. - [How Blockchain may Kill the Password](https://www.computerworld.com/article/3329962/blockchain/how-blockchain-may-kill-the-password.amp.html)
 
 ### Evernym-Sovrin-Indy Adoption[**^**](#Contents)
 
