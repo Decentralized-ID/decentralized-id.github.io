@@ -273,15 +273,14 @@ Hyperledger Indy Project Enhancements
 
 #### DID Auth[**^**](#Contents) 
 
-<a href="http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/"><img src="http://i.imgur.com/dPoIio9.png"/></a>
-<sup><a href="http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/"><img src="https://i.imgur.com/YNlk8RY.png"/></a>\
-http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10</sup>
+![](http://imgur.com/XMaq5cil.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
    * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
    * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md) [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
 
-![](http://imgur.com/XMaq5cil.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
+<sup><a href="http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/"><img src="https://i.imgur.com/YNlk8RY.png"/></a>\
+http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10</sup>
 
 #### Verifiable Claims[**^**](#Contents) 
 
@@ -296,7 +295,6 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10</sup>
 
 #### Decentralized Key Management-Agents[**^**](#Contents) 
 
-<img src="http://i.imgur.com/ljBR8bY.png"/>
 <img src="http://i.imgur.com/0SLcjUv.png"/>
 
 * [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
