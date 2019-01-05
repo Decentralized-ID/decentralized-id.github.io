@@ -410,6 +410,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Evernym's contributions to Hyperledger Indy](https://www.youtube.com/playlist?list=PLRp0viTDxBWGLdZk0aamtahB9cpJGV7ZF)
 * [Introduction to Indy Plenum Architecture](https://www.youtube.com/watch?v=WZin717AT_A)
 * [Hyperledger Indy Working Group Calls](https://drive.google.com/drive/u/0/folders/1AwHWN95KmSEi5fijraID0tFFMzYHoMwt?ogsrc=32)
+* [Sovrin: Public, Permissioned and Still Decentralized - Nathan George](https://www.youtube.com/watch?v=lVHJiUrHv2A&app=desktop)
 
 ### Podcasts[**^**](#Contents) [**>>**](../README.md#Podcasts)
 * [MyData Podcast](https://mydata.org/podcast/)
