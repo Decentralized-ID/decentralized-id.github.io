@@ -295,7 +295,6 @@ Blockstack is a network for decentralized applications where users own their ide
 
 ![](http://imgur.com/XMaq5cil.png)
 
-![](http://i.imgur.com/dPoIio9.png)
 
    * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
    * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md) [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
@@ -325,7 +324,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
 
 ![](http://i.imgur.com/5qc1qrG.png)\
-[DKMS - An Essential Missing Piece of the SSI Puzzle. Drummond Reed. SSIMeetup.org](http://ssimeetup.org/decentralized-key-management-dkms-essential-missing-piece-ssi-puzzle-drummond-reed-webinar-8/)
+<sup><a href="http://ssimeetup.org/decentralized-key-management-dkms-essential-missing-piece-ssi-puzzle-drummond-reed-webinar-8/">DKMS - An Essential Missing Piece of the SSI Puzzle. Drummond Reed. SSIMeetup.org</a></sup>
 
 ### Decentralized Identity Foundation[**^**](#Contents) 
 
