@@ -46,6 +46,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Decentralized Public Key Infrastructure (DPKI)](#Decentralized-Public-Key-Infrastructure-DPKI)
   * [Structured Data Standards](#Structured-Data-Standards)
   * [Personal Data Wallets & Marketplaces](#Personal-Data-Wallets--Marketplaces)  
+  * [Handshake](#handshake)
   * [Blockchain ID](#blockchain-id)
   * [State Sponsored Identity Initiatives](#State-Led-Initiatives)
     * [Australia](#Australia)
@@ -492,7 +493,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — video from DEVCON1
 
 
-#### Ethereum Identity Applications[**^**](#Contents)
+#### Ethereum Identity Apps[**^**](#Contents)
 * [uPort](https://www.uport.me/) [[**G**](https://github.com/uport-project/)] [[**T**](https://twitter.com/uport_me)]
    * [Ethereum studio ConsenSys launches digital IDs and assets secured on Ubuntu phones](http://www.ibtimes.co.uk/ethereum-studio-consensys-launches-internet-people-digital-ids-assets-secured-unbuntu-phones-1542620)
    * [Year in Review. What's to come in 2018](https://medium.com/uport/uport-year-in-review-whats-to-come-in-2018-15ccb9214439)
@@ -553,6 +554,11 @@ Discover decentralized identity—a new way to take ownership of your personal d
 (PKI) implementation using Smart contract in
 Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)
 
+### Handshake[**^**](#Contents)
+
+<img src="http://i.imgur.com/lhHnC8w.png"/>
+
+* [Handshake](https://handshake.org) [[**wp**](https://handshake.org/files/handshake.txt)] [[**D**](https://handshake-org.github.io/)] - Handshake is a UTXO-based blockchain protocol which manages the registration, renewal and transfer of DNS top-level domains (TLDs). Our naming protocol differs from its predecessors in that it has no concept of namespacing or subdomains at the consensus layer. Its purpose is not to replace DNS, but to replace the root zone file and the root servers.
 
 ### Structured Data Standards[**^**](#Contents) 
 
@@ -578,6 +584,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [Pro-civis](https://procivis.ch) — "e-government as a service" platform called "eID+". It enables citizens to get an official, electronic Citizen-ID on a mobile app. 
    * The platform includes the [Vetri](https://vetri.global/) wallet and marketplace. 'Earn extra income and rewards by joining the data economy.'"
 * [We can do better than selling our data](http://blogs.harvard.edu/doc/2018/09/18/data/)-Doc Searls(*IIW*)
+
 
 ### Blockchain ID[**^**](#Contents)
 * [Danube Tech](http://danubetech.com/) — digital identity and personal data, including personal agents, semantic graphs, and blockchain ([**xdi**](https://xdi2.org)) ([**navigator**](https://github.com/projectdanube/xdi2))
