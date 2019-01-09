@@ -492,7 +492,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [Managing Identity with a UI—ERC-725](https://medium.com/originprotocol/managing-identity-with-a-ui-for-erc-725-5c7422b38c09)
 * [Ethereum ERC725 Blockchain Based, Self-Sovereign Identity Management](https://bitcoinexchangeguide.com/ethereum-erc725-blockchain-based-self-sovereign-identity-management/)
 * [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — video from DEVCON1
-* [github.com/ethhub-io /built-on-ethereum /identity](https://github.com/ethhub-io/ethhub/tree/master/built-on-ethereum/identity)
+* [Identity - EthHub](https://docs.ethhub.io/built-on-ethereum/identity)[**G**](https://github.com/ethhub-io/ethhub/tree/master/built-on-ethereum/identity)
 
 
 #### Ethereum Identity Apps[**^**](#Contents)
