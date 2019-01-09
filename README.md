@@ -75,7 +75,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) - a list for projects related to blockchain-identity. Some of its resources found a home here, but this is not meant to replace it.
 
-* [/awesome-decentralized-id/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - A folder in this repository, for information specific to Hyperledger Indy, the Sovrin Foundation, and Evernym.
+* [/awesome-decentralized-id/indy-sovrin-evernym.md](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym.md/) - A folder in this repository, for information specific to Hyperledger Indy, the Sovrin Foundation, and Evernym.
 
 * [/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) - Another sub-folder to organize information about Self-Sovereign-Identity.
 
@@ -412,7 +412,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [Evernym](https://www.evernym.com/) [[**T**](https://twitter.com/evernym)] [[**G**](https://github.com/evernym/sovrin)] Founded in 2013
 * [Identity System Essentials](https://www.evernym.com/wp-content/uploads/2017/02/Identity-System-Essentials.pdf) (Original Evernym Identity WP submitted to ID2020\RWoT) 3/2016
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186) 
-* [**/indy-sovrin-evernym**](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) Much additional Evernym information.
+* [**/indy-sovrin-evernym.md**](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym.md/) Much additional Evernym information.
 
 ![](https://cdn-images-1.medium.com/max/800/0*uVmDqgtCxuoeylQ4.png)
 
@@ -426,7 +426,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [How Sovrin Works—A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 * [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/)
-* [**/indy-sovrin-evernym**](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - Much additional Sovrin Information.
+* [**/indy-sovrin-evernym.md**](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym.md/) - Much additional Sovrin Information.
 
 #### Selected articles by Phil Windley [**^**](#Contents)
 * [Building Your Business on Sovrin: Domain-Specific Trust Frameworks](http://www.windley.com/archives/2018/03/building_your_business_on_sovrin_domain-specific_trust_frameworks.shtml)
@@ -447,7 +447,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) edx course may be freely audited and has a section on Indy.
 * [Hyperledger Ursa](https://wiki.hyperledger.org/projects/ursa) "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the [shared library](https://github.com/hyperledger/ursa) will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram)[[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)]
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**>**](#canada-)]
-* **[/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)** - Much additional info on Hyperledger Indy.
+* **[/indy-sovrin-evernym.md](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym.md/)** - Much additional info on Hyperledger Indy.
 
 ### Blockstack[**^**](#Contents) 
 ![](https://i.imgur.com/ZZx8lfR.png)
@@ -631,7 +631,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
   * [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
 * [SecureKey](http://securekey.com/): [partners with IBM](http://www-03.ibm.com/press/us/en/pressrelease/51841.wss) to enable a new digital identity and attribute sharing network based on Hyperledger Fabric blockchain.
   * [SecureKey Technologies to explore interoperability between Verified.Me and Hyperledger Indy](https://securekey.com/press-releases/hyperledger-indy/)
-
+* [idtrail.org](http://www.idtrail.org/)
 
 #### Estonia[**^**](#Contents)
 ![](http://i.imgur.com/HyGoqfq.png)
@@ -718,7 +718,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [A Comprehensive Guide to Self Sovereign Identity](https://ssiscoop.com/) - by Kaliya ['Identity Woman'](https://twitter.com/IdentityWoman) Young and [Heather Vescent](https://twitter.com/heathervescent) [[**ϟ**](https://www.thepaypers.com/expert-opinion/10-things-you-need-to-know-about-self-sovereign-identity-part-1/774556)]
 * [Report launch: ‘Identity at the Margins — identification systems for refugees”](https://medium.com/caribou-digital/report-launch-identity-at-the-margins-identification-systems-for-refugees-69466244fa62)
 * [WEF: Identity in a Digital World A new chapter in the social contract](http://www3.weforum.org/docs/WEF_INSIGHT_REPORT_Digital%20Identity.pdf)
-* [A position paper on blockchain enabled identity and the road ahead](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)—Identity Working Group of the German Blockchain Association
+* [A position paper on blockchain enabled identity and the road ahead](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)—Identity Working Group of the German Blockchain Association [[**ϟ**](https://www.bundesblock.de/2018/10/23/position-paper-self-sovereign-identity/)]
 
 ### Research-Papers[**^**](#Contents)
 * [Security without Identification: Transaction Systems to make Big Brother Obsolete](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - David Chaum 1985
@@ -781,7 +781,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [identitywoman.net](https://identitywoman.net/)
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
-* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
+* [/indy-sovrin-evernym.md](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym.md/)
 
 
 
