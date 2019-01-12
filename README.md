@@ -792,10 +792,10 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ---
 
-#### Brought to you by The [Crypto Super Source](https://github.com/infominer33/Crypto-library)
+#### Brought to you by [Infominer](https://infominer.id) and [Crypto SuperSource](https://github.com/infominer33/Crypto-SuperSource)
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
-[infominer.id](https://infominer.id/) —Check out some of my [other projects](projects.md)!!!
+—Check out some of my [other projects](projects.md)!!!
 
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
