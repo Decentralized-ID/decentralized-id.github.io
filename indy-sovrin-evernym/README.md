@@ -172,7 +172,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Indy Documentation Index - wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
   * [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
   * [Indy Docs Framwork](https://github.com/hyperledger/indy-hipe/tree/master/text/0025-indy-docs-framework)
-* [Hyperledger Indy — the Future of Decentralized Identity](https://medium.com/axiom-tech/hyperledger-indy-the-future-of-decentralized-identity-9de5c2459e4e)
+* [Hyperledger Indy — the Future of Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy) - ANN
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
 * [Ernesto.net - What goes on the Ledger](https://www.ernesto.net/ernesto-net-5-minute-course-on-indy-and-what-goes-on-the-blockchain-ledger/)
