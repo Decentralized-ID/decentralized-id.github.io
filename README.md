@@ -94,7 +94,7 @@ Although initially began as a result of freelance gigs, I'm not currently workin
 
 ---
 
-**[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and [Contributions](#Brought-to-you-by-the-Crypto-SuperSource) Welcome**
+**[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and [Contributions](#brought-to-you-by-infominer-and-crypto-supersource) Welcome**
 
 ---
 
