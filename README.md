@@ -80,6 +80,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
 * [/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) - Another sub-folder to organize information about Self-Sovereign-Identity.
 
 * [/bitcoin-history](https://github.com/infominer33/bitcoin-history) - Another repository I've begun collecting historical information leading up to Bitcoin.
+ 
 
 ### How This Project Began[**^**](#Contents)
 
@@ -89,9 +90,11 @@ I got into crypto, mid-2017—my passion for learning and for collecting [useful
 
 Although initially began as a result of freelance gigs, I'm not currently working with anyone. Creating this repository is a personal investment into the decentralized identity ecosystem, in support of anyone trying to make sense of the SSI\DID. 
 
+—[infominer.id](https://infominer.id)
+
 ---
 
-**[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and [Contributions](#brought-to-you-by-the-crypto-librarysuper-source) Welcome**
+**[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and [Contributions](#Brought-to-you-by-the-Crypto-SuperSource) Welcome**
 
 ---
 
@@ -789,7 +792,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ---
 
-#### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
+#### Brought to you by The [Crypto Super Source](https://github.com/infominer33/Crypto-library)
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
 [infominer.id](https://infominer.id/) —Check out some of my [other projects](projects.md)!!!
