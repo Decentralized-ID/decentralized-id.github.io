@@ -85,9 +85,9 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 I was initially introduced to blockchain identity when offering research and writing services on a popular freelance site. The first was 3500-word essay on "Blockchain and the United Nations," where I learned of Bitnation and the SDGs. Another was a 1500 word report on blockchain identity, giving me a broad view of the sector. Besides that I've written a few articles considering the architecture, and [historical background](https://medium.com/axiom-tech/hyperledger-indy-the-future-of-decentralized-identity-9de5c2459e4e) of Hyperledger Indy. Throughout that time, I collected a ton of quality information on decentralized id, Hyperledger Indy, and the surrounding ecosystem. 
 
-I got into crypto in mid-2017, and my passion for learning and for [collecting useful information](http://crypt0library.net), on any number of related subjects, has only grown over that time. I'm slowly entering those resources into a database, to power a [web-app](https://github.com/infominer33/Crypto-library) for search, and navigation by tags, etc. Creating these lists has become an essential part of my process as a writer. Check out some of my [other projects](https://github.com/infominer33/awesome-decentralized-id/blob/master/projects.md).
+I got into crypto, mid-2017—my passion for learning and for collecting [useful information](http://crypt0library.net), on a number of related subjects, has only grown over that time. I'm slowly entering those resources into a database, to power a [web-app](https://github.com/infominer33/Crypto-library) for search, and navigation by tags, etc. Creating these lists has become an essential part of my process as a writer. Check out some of my [other projects](https://github.com/infominer33/awesome-decentralized-id/blob/master/projects.md).
 
-Although initially began as a result of freelance gigs, my work on this repository has been a personal investment of time, building my brand as a research consultant, and in support of anyone trying to make sense of the SSI\DID ecosystem. Decentralized Identity is one of my favorite subjects in tech. However, I have a variety of research interests, and I'm always interested in learning new ways to earn from that research.
+Although initially began as a result of freelance gigs, I'm not currently working with anyone. Creating this repository is a personal investment into the decentralized identity ecosystem, in support of anyone trying to make sense of the SSI\DID. 
 
 ---
 
@@ -457,6 +457,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
 * [Blockstack DID Spec](https://github.com/blockstack/blockstack-core/blob/master/docs/blockstack-did-spec.md)[**[ϟ](https://forum.blockstack.org/t/did-method-at-identity-foundation/4287/9)**]
 * [App Mining](https://app.co/mining)
+* [/dantrevino/awesome-blockstack](https://github.com/dantrevino/awesome-blockstack) [[**ϟ**](https://gitlab.com/dantrevino/awesome-blockstack)]
 
 ### Democracy Earth [**^**](#Contents) 
 ![](https://i.imgur.com/KxbXb1t.png)
