@@ -1,4 +1,5 @@
-# Self Sovereign Identity (SSI) <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
+# Self Sovereign Identity (SSI) 
+<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 **Articles and documents associated with Self Sovereign Identity Fundamentals.**
 
 This directory was born from [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), the original SSI repository. I've done a bit of work over there, and decided to expand my efforts. The reason I got started on this is because I wanted to write an article about SSI, and saw some areas where I think I can help with some of the legwork towards a more complete, and up-to-date set of SSI literature.
