@@ -1,5 +1,5 @@
 # Awesome Hyperledger Indy Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-<a href="https://github.com/infominer33/Crypto-library"><img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140"></a>
+<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 **Protocol, Governance, Education, Ecosystem** 
 
 This page contains a growing collection of educational resources related to Evernym, the Sovrin Foundation, and Hyperledger Indy. It was born from [/awesome-decentralized-id](../README.md) and contains some of the same material, but is quite exhaustive. As a result, I decided to split this list off to focus on learning about Hyperedger Indy, the Sovrin Foundation, adn Evernym. Its an index for training, developers, students, end users, investors, and enterprise to more easily navigate the digital identity landscape enabled by Hyperledger Indy.
