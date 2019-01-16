@@ -67,6 +67,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Slideshare](#slideshare)
   * [Podcasts](#Podcasts)
   * [Sources](#Sources)
+  * [Tips Welcome](#tips-welcome)
 
 ### Introduction[**^**](#Contents)
 
