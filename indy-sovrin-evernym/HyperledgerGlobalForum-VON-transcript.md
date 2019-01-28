@@ -30,13 +30,13 @@ Ian is also here are there colleague Ian over here one of our developers as well
 
 <img src="http://i.imgur.com/bf3lLTq.png"/>
 
-we're gonna focus on business services today and talk about how the government can start to do the things that it does today in paper, which it underpins the economy.
-
-money exists because the government says so businesses exist because the government registers them and allows them to operate and the laws and so forth of the of the government allow commerce to occur 
-
-but we have no way of doing that in the digital economy right now there's no business models in the digital economy other than basically buying stuff and getting your data exploited for advertising. so if you have a Visa card you're in. 
-
-otherwise there's no other really interesting transactions going on and I think big part of that is because we don't have any way of extending the trust of government into the digital realm in a way that is trustworthy 
+>**we're gonna focus on business services today and talk about how the government can start to do the things that it does today in paper**, which it underpins the economy.
+>
+>**money exists because the government says so businesses exist because the government registers them and allows them to operate** and the laws and so forth of the of the government allow commerce to occur 
+>
+>**but we have no way of doing that in the digital economy right now** there's no business models in the digital economy other than basically buying stuff and getting your data exploited for advertising. so if you have a Visa card you're in. 
+>
+>otherwise there's no other really interesting transactions going on and I think big part of that is because **we don't have any way of extending the trust of government into the digital realm in a way that is trustworthy** 
 
 <img src="http://i.imgur.com/BVVoGaA.png"/>
 
@@ -45,47 +45,52 @@ her
 
 <img src="http://i.imgur.com/UN0dT5b.png"/>
 
-I also want to acknowledge that I do all this work I do I do with Carol Prest who is the registrar for BCS so I've been there for a couple years and from day one we've been working together exploring how can we use the registry data as the foundational data for doing business and unfortunately she's not available she's in India right now but having this business partnership and having her in her organization behind this and having the discipline of trying to solve problems for businesspeople is what is making this project I think really fun and also useful 
+I also want to acknowledge that I do all this work I do I do with **Carol Prest** who is the registrar for BCS so I've been there for a couple years and from day one we've been working together exploring how can we use the registry data as the foundational data for doing business and 
+
+unfortunately she's not available she's in India right now but having this business partnership and having her in her organization behind this and having the discipline of trying to **solve problems for businesspeople** is what is making this project really fun and also useful 
 
 <img src="http://i.imgur.com/MrIep94.png"/>
 
-so we're gonna focus on a problem here which is how do we help
-small business we have sort of a an example of Mary's bakery but it could be any kind of business construction mining whatever it is and the problem is that these business people are very excited about starting a business is an exciting time in life but they don't realize sometimes that they have quite a lot of obligations that they must fill for government 
+so we're gonna focus on a problem here which is **how do we help small business** we have sort of a an example of Mary's bakery but **it could be any kind of business** construction mining whatever it is and the problem is that these business people are very excited about starting a business is an exciting time in life but they don't realize sometimes that **they have quite a lot of obligations that they must fill for government**
 
-so we have examples where our research teams have gone out and talked to restauranteurs and they have released a building and so forth it's the perfect spot everything is great and then they realize oh I've got six months of permits and licenses to do because we had to bring it up to building code and they didn't realize this and then there's all these dependencies and they weren't ready to fund that building for six months so those are like real stories we'd like to try and minimize that kind of stuff because we want them to start their businesses and grow 
+so we have examples where our research teams have gone out and talked to restauranteurs and they have released a building and so forth it's the perfect spot everything is great **and then they realize oh I've got six months of permits and licenses to do because we had to bring it up to building code and they didn't realize this and then there's all these dependencies and they weren't ready to fund that building for six months** so those are like real stories **we'd like to try and minimize that kind of stuff** because we want them to start their businesses and grow 
 
 <img src="http://i.imgur.com/FxeKL2D.png"/>
 
-you know the path is also very meandering and it can be in multiple different media you can be faxing you could be email you could be online you're in person and so forth and so all of this is a very difficult yeah both for the business people but also on the government side we are also in different places verifying data all the time who are you what business we representing or you authorized to represent the businesses 
+>you know the path is also very meandering and it can be in multiple different media you can be faxing you could be email you could be online you're in person and so forth and so all of this is a very difficult yeah both for the business people but also on the government side we are also in different places verifying data all the time who are you what business we representing or you authorized to represent the businesses 
 
 <img src="http://i.imgur.com/sIiI6Ni.png"/>
 
-in the most complicated cases for like liquor and so forth shareholders and employees have criminal background checks they make sure that nobody owns more than 8 stores that sells liquor and so forth and so on so I can take up to a year so 
+In the most complicated cases for like liquor and so forth shareholders and employees have **criminal background checks** they make sure that nobody owns more than 8 stores that sells liquor and so forth and so on so I can take up to a year so.
 
 <img src="http://i.imgur.com/GM9FxgX.png"/>
 
-what do we do well one of the things we're doing is we're collaborating with our peers and a couple of other jurisdictions so we're working with a team in Ontario and a
-team in the Government of Canada where I used to work the procurement agency and 
+We're collaborating with a couple of other jurisdictions. We're working with a team in **Ontario** and a
+team in the Government of Canada where I used to work — **The Procurement Agency**.
 
 <img src="http://i.imgur.com/oPuhVyP.png"/>
 
-when we say working together we're actually writing code together there's no mo use no steering committees no work groups they have a couple devs and the business person we have a couple of devs in a business person we sprint together write code all this stuff we're going to show you today has been co-developed and significant portions have been done by each of the groups this is the journey that we'd like to enable 
+**When we say working together, we're actually writing code together**. There's no MOUs, no steering committees, no work groups. They have a couple devs and the business person, we have a couple of devs and a business person. We sprint together, write code. 
+
+All this stuff we're going to show you today has been co-developed, and significant portions have been done by each of the groups this is the journey that we'd like to enable 
 
 <img src="http://i.imgur.com/0MS4yEs.png">
 
-it's a journey that we know well government gives you something you take that something to another institution you use it to prove something and you get and you get the outcome 
+It's a journey that we know well. The government gives you something, you take that something to another institution, you use it to prove something and you get and you get the outcome.
 
-so in this case it's the incorporation information that's given to Mary she goes to the bank and she can open a bank account turns out that that's a very general pattern and this is the pattern that we see in the sort of verifiable credentials realm 
+In this case it's the incorporation information that's given to Mary, she goes to the bank and she can open a bank account. Turns out that's a very general pattern, and this is the pattern that we see in the verifiable credentials realm.
 
 <img src="http://i.imgur.com/FNpnmLg.png"/>
 
-so we have this pattern of holder which is a person or a business but a business can't really hold something on their own. so they have to have people holding it on behalf of the business, they presented to a verifier which is earlier in the sort of workflow they have to decide you know verifier says bring your list of things in and prove prove to me who you are and you have various permits and license and so forth 
+So we have this pattern of: **holder** which *is a person or a business* but a business can't really hold something on their own. They have to have people holding it on behalf of the business. They presented to a verifier, which is earlier in the workflow, the verifier says bring your list of things in and prove to me who you are and you have various permits and license and so forth.
 
-at that point you then to get to enter their form which is usually not that Pleasant go through a process and then you are issued something which you hold and so this is the pattern that we're very familiar with 
+You then get to enter their form which is usually not that pleasant, and then you are issued something which you hold and this is the pattern that we're very familiar with.
 
-we're sitting with you know a wallet full of these things I have bank cards and identity cards and so forth and we're gonna explore how we can do that so when we discovered that we were pretty excited it was about a year ago that we stumbled across Hyperledger Indy after having done a little bit of work with fabric and you know 
+We're sitting with a wallet full of these things. I have bank cards and identity cards and so forth and we're gonna explore how we can do that. 
 
-so it was just Stephen and I on the team and we thought you know if it looked promising that there was this pattern here we could solve some of these hard problems we've been working on for years but we realized we didn't have any of these software for these different organizations or people 
+When we discovered that **we were pretty excited** it was about a year ago that **we stumbled across Hyperledger Indy** after having done a little bit of work with fabric
+
+so it was just Stephen and I on the team and we thought it looked promising that there was this pattern here we could solve some of these hard problems we've been working on for years but we realized we didn't have any of these software for these different organizations or people 
 
 <img src="http://i.imgur.com/hHn9SLm.png"/>
 
