@@ -1,4 +1,5 @@
-# Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy—Hyperledger Global Forum 2018
+# Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy 
+**—Hyperledger Global Forum 2018**
 
 John Jordan, Province of British Columbia & Stephen Curran , CloudCompass Computing, Inc.
 
@@ -20,21 +21,22 @@ We present the Why, What and How including our strategy for bootstrapping VON us
 
 **Pull Requests Welcome**</code>
 
-so my name is John Jordan and I come from the province of British Columbia in Canada this is my colleague Steven Curran we work together on this project
+My name is John Jordan and I come from the province of British Columbia in Canada. This is my colleague Steven Curran we work together on this project.
 
 we're gonna talk about today so I guess I'll just get started and we'll have some slides a demo we should have some
 time for some questions
 
-so ian is also here are there colleague Ian over here one of our developers as well he's a he's a hyper ledger future developer so what we're gonna talk about today is sort of what we're doing in the government of British Columbia and together with some of our pure provinces in the country about how we're trying to solve some very long-standing difficult
-problems 
+Ian is also here are there colleague Ian over here one of our developers as well he's a hyper ledger future developer so what we're gonna talk about today is sort of what we're doing in the government of British Columbia and together with some of our pure provinces in the country about how we're trying to solve some very long-standing difficult problems 
 
 <img src="http://i.imgur.com/bf3lLTq.png"/>
 
-we're gonna focus on business services today and we're gonna talk about how the government can start to do the things that it does today in paper which is it underpins the economy so the
-good you know money exists because the government says so 
+we're gonna focus on business services today and talk about how the government can start to do the things that it does today in paper, which it underpins the economy.
 
-businesses exist because the government registers them and allows them to operate and the laws and so forth of the of the government allow commerce to occur but we have no way of doing that in the digital economy right now there's no business models in the digital economy other than basically buying stuff and getting your data exploited for advertising so if you have a Visa card you're in otherwise there's no other really interesting transactions going on and I think big part of that is because we don't have any way of extending the trust of government into the digital realm in a way that is
-trustworthy 
+money exists because the government says so businesses exist because the government registers them and allows them to operate and the laws and so forth of the of the government allow commerce to occur 
+
+but we have no way of doing that in the digital economy right now there's no business models in the digital economy other than basically buying stuff and getting your data exploited for advertising. so if you have a Visa card you're in. 
+
+otherwise there's no other really interesting transactions going on and I think big part of that is because we don't have any way of extending the trust of government into the digital realm in a way that is trustworthy 
 
 <img src="http://i.imgur.com/BVVoGaA.png"/>
 
