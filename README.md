@@ -621,6 +621,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 #### Canada [**^**](#Contents) [**>**](#Hyperledger-Indy)
 ![](http://i.imgur.com/1QmQiy2.png)
+
 >VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
 >
 >VON's founders have delivered new Indy-based open source components which form VON's backbone. TheOrgBook is a publicly accessible repository of verifiable claims about organizations. VON-X enables services to verify and issue credentials.[[**ϟ**](https://hgf18.sched.com/event/G8rm/verifiable-organizations-network-a-production-government-deployment-of-hyperledger-indy-john-jordan-province-of-british-columbia-stephen-curran-cloudcompass-computing-inc)]
@@ -635,6 +636,9 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [SecureKey](http://securekey.com/): [partners with IBM](http://www-03.ibm.com/press/us/en/pressrelease/51841.wss) to enable a new digital identity and attribute sharing network based on Hyperledger Fabric blockchain.
   * [SecureKey Technologies to explore interoperability between Verified.Me and Hyperledger Indy](https://securekey.com/press-releases/hyperledger-indy/)
 * [idtrail.org](http://www.idtrail.org/)
+
+<a href="https://twitter.com/sboots/status/1070320318487584768"><img src="http://i.imgur.com/wdbN3Ld.png"/></a>
+
 
 #### Estonia[**^**](#Contents)
 ![](http://i.imgur.com/HyGoqfq.png)

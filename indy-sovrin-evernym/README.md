@@ -217,6 +217,7 @@ Hyperledger Indy Project Enhancements
   * [Verifiable Credentials, Schema and Overlays- Overview Decks](https://drive.google.com/drive/u/0/folders/1UxLLugRQKuV8Mdvv_X9Y6ty4szSi5ZNU?ogsrc=32)
 * [Indy August Update](https://wiki.hyperledger.org/groups/tsc/project-updates/indy-2018-aug) - Most recent report from the Hyperledger Indy team.
 
+
 ### Wallets
 
 * [How to build a Self Sovereign Identity Wallet](https://www.devteam.space/blog/how-to-build-a-self-sovereign-identity-wallet/)
@@ -414,6 +415,8 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Introduction to Indy Plenum Architecture](https://www.youtube.com/watch?v=WZin717AT_A)
 * [Hyperledger Indy Working Group Calls](https://drive.google.com/drive/u/0/folders/1AwHWN95KmSEi5fijraID0tFFMzYHoMwt?ogsrc=32)
 * [Sovrin: Public, Permissioned and Still Decentralized - Nathan George](https://www.youtube.com/watch?v=lVHJiUrHv2A&app=desktop)
+* [Hyperledger Global Forum - Video](https://www.youtube.com/playlist?list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP)
+
 
 ### Podcasts[**^**](#Contents) [**>>**](../README.md#Podcasts)
 * [MyData Podcast](https://mydata.org/podcast/)
