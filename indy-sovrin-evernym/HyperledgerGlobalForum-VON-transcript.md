@@ -207,17 +207,17 @@ so every entity and every doing business as is a separate entity on this so beca
 
 from the start we've we built it to be pretty flexible and so you're able to construct it on your own have your own skinning language support there's multiple language support is in there built in already I think those were the main things got the list what's that yeah so 
 
-<img src="http://i.imgur.com/dajxVoN.png"/>
+<img src="http://i.imgur.com/GwrN03q.png"/>
 
-the two more things that I wanted to touch on **come to our workshop on Friday and Saturday** and what we're actually doing is building out issuers and verifier so this is the org book the central piece 
+the two more things that I wanted to touch on: **come to our workshop on Friday and Saturday** and what we're actually doing is building out issuers and verifier so this is the org book the central piece 
 
-<img src="http://i.imgur.com/lc9jCF1.png"/>
+<img src="http://i.imgur.com/PE065NM.png"/>
 
-but what really is important is there's an API behind all this that a issuer of permits can use to learn about the company to fetch the credentials that are already there and have them proven and then issue credentials back to the org book 
+What really is important is there's an API behind all this that a issuer of permits can use to learn about the company to fetch the credentials that are already there and have them proven and then issue credentials back to the org book.
 
-so a key part of this is that being easily able to extend this to many more permits and licensing providers could be within the government which we're working with 
+A key part of this is that being easily able to extend this to many more permits and licensing providers could be within the government which we're working with.
 
-<img src="http://i.imgur.com/pFERRuw.png"/>
+<img src="http://i.imgur.com/cdI0NGO.png"/>
 
 almost every project team we talked to says "oh we can use that!" so we're building that out and trying to make that as easy as possible so our workshop on Friday involves building an issue or verifier and actually deploying it out so you can create your issue your own credentials 
 
@@ -233,15 +233,15 @@ so that webhook capability will just whatever you're subscribed to when when our
 
 <img src="http://i.imgur.com/a8WzejN.png"/>
 
-so do you wanna go to that okay spicy wings we're gonna look at spicy ways so this is our dev site so where this is just new that we're playing with so this is a company that's got four different credentials from different organizations
+so do you wanna go to that okay spicy wings we're gonna look at Spicy Wings. This is our dev site, this is just new, that we're playing with. This is a company that's got four different credentials from different organizations.
 
 <img src="http://i.imgur.com/jUyJEIk.png"/>
 
-they've got a registration a PST that's a tax number from the province a clearance letter for workman's compensation for a worker's insurance and a business license from a from an entity from a municipality 
+They've got a registration a PST that's a tax number from the province, a clearance letter for workman's compensation for a worker's insurance, and a business license from a from an entity from a municipality. 
 
-<img src="http://i.imgur.com/mFfIzCY.png"/>
+<img src="http://i.imgur.com/f7q6CJN.png"/>
 
-so with dFlow what we can do is basically what you're saying is I have a goal as a businessman I have a goal that I want a business license in the city of Surrey and it's going to be for a restaurant what have I got to do to accomplish that what other things do I need and 
+So with [dFlow](https://dev-demo.orgbook.gov.bc.ca/en/home) what we can do is basically what you're saying is I have a goal as a businessman I have a goal that I want a business license in the city of Surrey and it's going to be for a restaurant what have I got to do to accomplish that what other things do I need and 
 
 <img src="http://i.imgur.com/YSIIWLQ.png"/>
 
