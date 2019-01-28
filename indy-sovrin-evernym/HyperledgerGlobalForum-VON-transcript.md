@@ -75,11 +75,11 @@ team in the Government of Canada where I used to work — **The Procurement Agen
 
 **When we say working together, we're actually writing code together**. There's no MOUs, no steering committees, no work groups. They have a couple devs and the business person, we have a couple of devs and a business person. We sprint together, write code. 
 
-All this stuff we're going to show you today has been co-developed, and significant portions have been done by each of the groups this is the journey that we'd like to enable 
+All this stuff we're going to show you today has been co-developed, and significant portions have been done by each of the groups 
 
 <img src="http://i.imgur.com/0MS4yEs.png">
 
-It's a journey that we know well. The government gives you something, you take that something to another institution, you use it to prove something and you get and you get the outcome.
+This is the journey that we'd like to enable, it's a journey that we know well. The government gives you something, you take that something to another institution, you use it to prove something and you get and you get the outcome.
 
 In this case it's the incorporation information that's given to Mary, she goes to the bank and she can open a bank account. Turns out that's a very general pattern, and this is the pattern that we see in the verifiable credentials realm.
 
@@ -245,7 +245,7 @@ So with [dFlow](https://dev-demo.orgbook.gov.bc.ca/en/home) what we can do is ba
 
 <img src="http://i.imgur.com/YSIIWLQ.png"/>
 
-what we've built here is a dynamic workflow that starts with the one you want I want a business license and sort of says oh what are the prerequisites for getting a business license well that's been encaptured in the proof requests that the business requires before it will issue you the credential that they have to offer 
+what we've built here is a [dynamic workflow](https://github.com/bcgov/dFlow) that starts with the one you want I want a business license and sort of says oh what are the prerequisites for getting a business license well that's been encaptured in the proof requests that the business requires before it will issue you the credential that they have to offer 
 
 <img src="http://i.imgur.com/PpzN2E9.png"/>
 
