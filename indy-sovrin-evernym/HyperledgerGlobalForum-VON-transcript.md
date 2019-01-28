@@ -21,12 +21,13 @@ We present the Why, What and How including our strategy for bootstrapping VON us
 
 **Pull Requests Welcome**</code>
 
+-Published on Dec 27, 2018
+
 My name is John Jordan and I come from the province of British Columbia in Canada. This is my colleague Steven Curran we work together on this project.
 
-we're gonna talk about today so I guess I'll just get started and we'll have some slides a demo we should have some
-time for some questions
+I guess I'll just get started, and we'll have some slides, a demo, we should have some time for some questions
 
-Ian is also here are there colleague Ian over here one of our developers as well he's a hyper ledger future developer so what we're gonna talk about today is sort of what we're doing in the government of British Columbia and together with some of our pure provinces in the country about how we're trying to solve some very long-standing difficult problems 
+Ian is also here, one of our developers as well, he's a hyper ledger future developer. What we're gonna talk about today is what we're doing in the government of British Columbia, together with some of our peer provinces in the country — about how we're trying to solve some very long-standing difficult problems.
 
 <img src="http://i.imgur.com/bf3lLTq.png"/>
 
@@ -100,7 +101,7 @@ it turns out our core business is issuing that's what we do every service we hav
 
 <img src="http://i.imgur.com/9IHbEkL.png"/>
 
-we we had purposely picked business realm because if we're dealing with business data we're not triggering all the personal identifiable information problems. In the BC we call it fight by the Freedom of Information Act and Privacy Protection Act. When you get into personal data, of course it triggers all of that which is good but makes it very complicated to play with new technologies 
+we purposely picked business realm because if we're dealing with business data we're not triggering all the personal identifiable information problems. In the BC we call it fight by the Freedom of Information Act and Privacy Protection Act. When you get into personal data, of course it triggers all of that which is good but makes it very complicated to play with new technologies 
 
 <img src="http://i.imgur.com/6KxuQM9.png"/>
 
