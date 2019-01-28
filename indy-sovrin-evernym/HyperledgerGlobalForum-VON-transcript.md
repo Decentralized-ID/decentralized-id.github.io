@@ -160,7 +160,7 @@ so that's why **2.6 million were issued this week** we can do that the first wee
 
 **we had Ontario coming behind us with about five times as many credentials** so we were a little nervous and did a couple of sprints to scale up its capabilities 
 
-BCGov, which has [the developers exchange](https://bcdevexchange.org/), is a pretty progressive environment for developing code. We've got an open shift kubernetes based platform 
+BCGov, which has [the developers exchange](https://bcdevexchange.org/), is a pretty progressive environment for developing code. We've got a Red Hat open shift [kubernetes](https://kubernetes.io/) based platform 
 
 so basically we were able to use the capabilities of that platform to just spin up other instances and be able to scale up the the speed of loading and things like that so we got up to 
 
