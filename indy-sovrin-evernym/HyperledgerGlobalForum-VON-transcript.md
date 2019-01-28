@@ -1,15 +1,17 @@
 # Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy 
 **—Hyperledger Global Forum 2018**
 
-John Jordan, Province of British Columbia & Stephen Curran , CloudCompass Computing, Inc.
+-Published on Dec 27, 2018
+
+[John Jordan](https://twitter.com/jljordan42), Province of British Columbia & [Stephen Curran](https://twitter.com/scurranC3I), [CloudCompass Computing](https://cloudcompass.ca/)
 
 Learn about the Province of British Columbia's experience deploying the first Hyperledger Indy based production ecosystem.
 
-The Verifiable Organizations Network (VON) enables governments and organizations to exchange data in trustworthy ways based on open standards and technology.
+The [Verifiable Organizations Network](https://vonx.io) (VON) enables governments and organizations to exchange data in trustworthy ways based on open standards and technology.
 
 VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
 
-VON's founders have delivered new Indy-based open source components which form VON's backbone. TheOrgBook is a publicly accessible repository of verifiable claims about organizations. VON-X enables services to verify and issue credentials.
+VON's founders have delivered new Indy-based open source components which form VON's backbone. [TheOrgBook](https://orgbook.gov.bc.ca/) is a publicly accessible repository of [verifiable claims](https://w3c.github.io/webpayments-ig/VCTF/charter/faq.html) about organizations. VON-X enables services to verify and issue credentials.
 
 We present the Why, What and How including our strategy for bootstrapping VON using a two-sided market strategy.
 
@@ -17,11 +19,9 @@ We present the Why, What and How including our strategy for bootstrapping VON us
 
 ## Transcript
 
-<code>**Editors Note** I just copy pasted this from youtube's transcript of the video, broke up text so it was easier to read, and added screenshots of different slides for context, and cleaned the text a little. It will be nice to make it a nicely flowing document. 
+<code>**Editors Note** I just copy pasted this from youtube's transcript of the video, broke up text so it was easier to read, and added screenshots of different slides for context, and cleaned the text a little. It will be nice to make it a nicely flowing document.  -infominer
 
 **Pull Requests Welcome**</code>
-
--Published on Dec 27, 2018
 
 My name is John Jordan and I come from the province of British Columbia in Canada. This is my colleague Steven Curran we work together on this project.
 
