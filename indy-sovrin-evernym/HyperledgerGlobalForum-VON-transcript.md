@@ -46,15 +46,15 @@ her
 
 <img src="http://i.imgur.com/UN0dT5b.png"/>
 
-I also want to acknowledge that I do all this work I do I do with **Carol Prest** who is the registrar for BCS so I've been there for a couple years and from day one we've been working together exploring how can we use the registry data as the foundational data for doing business and 
+I also want to acknowledge that **I do all this work with [Carol Prest](https://www.linkedin.com/in/carol-prest-aa34b258/)** who is the registrar for BCS so I've been there for a couple years and **from day one we've been working together exploring how can we use the registry data as the foundational data for doing business.**  
 
-unfortunately she's not available she's in India right now but having this business partnership and having her in her organization behind this and having the discipline of trying to **solve problems for businesspeople** is what is making this project really fun and also useful 
+Unfortunately she's not available she's in India right now, but having this business partnership and having her in her organization behind this, and having the discipline of trying to **solve problems for businesspeople** is what is making this project really fun and also useful 
 
 <img src="http://i.imgur.com/MrIep94.png"/>
 
-so we're gonna focus on a problem here which is **how do we help small business** we have sort of a an example of Mary's bakery but **it could be any kind of business** construction mining whatever it is and the problem is that these business people are very excited about starting a business is an exciting time in life but they don't realize sometimes that **they have quite a lot of obligations that they must fill for government**
+We're gonna focus on a problem here which is **how do we help small business** we have sort of a an example of Mary's bakery but **it could be any kind of business** construction mining whatever it is and the problem is that these business people are very excited about starting a business is an exciting time in life but they don't realize sometimes that **they have quite a lot of obligations that they must fill for government**
 
-so we have examples where our research teams have gone out and talked to restauranteurs and they have released a building and so forth it's the perfect spot everything is great **and then they realize oh I've got six months of permits and licenses to do because we had to bring it up to building code and they didn't realize this and then there's all these dependencies and they weren't ready to fund that building for six months** so those are like real stories **we'd like to try and minimize that kind of stuff** because we want them to start their businesses and grow 
+We have examples where our research teams have gone out and talked to restauranteurs and they have released a building and so forth it's the perfect spot everything is great **and then they realize oh I've got six months of permits and licenses to do because we had to bring it up to building code and they didn't realize this and then there's all these dependencies and they weren't ready to fund that building for six months** so those are like real stories **we'd like to try and minimize that kind of stuff** because we want them to start their businesses and grow.
 
 <img src="http://i.imgur.com/FxeKL2D.png"/>
 
