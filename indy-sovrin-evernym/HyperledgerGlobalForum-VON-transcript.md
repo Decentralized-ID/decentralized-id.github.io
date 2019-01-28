@@ -16,7 +16,7 @@ We present the Why, What and How including our strategy for bootstrapping VON us
 
 ## Transcript
 
-<code>**Editors Note** I just copy pasted this from youtube's transcript of the video, broke up text so it was easier to read, and added screenshots of different slides for context. It will be nice eventually to clean up the text. 
+<code>**Editors Note** I just copy pasted this from youtube's transcript of the video, broke up text so it was easier to read, and added screenshots of different slides for context, and cleaned the text a little. It will be nice to make it a nicely flowing document. 
 
 **Pull Requests Welcome**</code>
 
