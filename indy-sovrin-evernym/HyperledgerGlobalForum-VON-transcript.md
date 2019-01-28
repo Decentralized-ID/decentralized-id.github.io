@@ -293,36 +293,43 @@ so we have this idea where we think The Org Book helps us establish our local ne
 
 <img src="http://i.imgur.com/aYIYVha.png"/>
 
-that makes it easier for us to help them find their way like we just demonstrated because each of these issuers are going to automatically be able to express digitally the preconditions that are necessary for them to be able to allow you into their service and an issue a new permit 
+That makes it easier for us to help them find their way like we just demonstrated because each of these issuers are going to automatically be able to express digitally the preconditions that are necessary for them to be able to allow you into their service and an issue a new permit/ 
 
-so we think that's pretty pretty cool and as a result of this learning we've we've come up with this generalized model that has been accepted as a sub project of Indy so we're calling that Indy catalyst because 
+We think that's pretty pretty cool and as a result of this learning we've we've come up with this generalized model that has been accepted as a sub project of Indy. 
 
-this is sort of a bootstrapping capability and that'll comprised of the code-behind The Org Book in a more generalized fashion and the code behind the issuer verifier service that we've built which we call von X but we'll give some other sub named as an indie catalyst component and 
+<img src="http://i.imgur.com/p8BME5z.png"/>
 
-the big reason behind this is because I work for the government of BC, we're not a software development agency, were serving the public and 
+We're calling that [Indy Catalyst](https://github.com/bcgov/indy-catalyst) because this is sort of a bootstrapping capability, and that'll comprised of the code-behind [The Org Book](https://github.com/bcgov/TheOrgBook) in a more generalized fashion, and the code behind the issuer verifier service that we've built which we call [von-X](https://github.com/PSPC-SPAC-buyandsell/von-x) but we'll give some other sub named as an Indy Catalyst component.
 
-also we want this to be part of a global capability and
-having a sustainable set of software know in a you know well governed organization like the hyper ledger Linux Foundation  we think is a good way to go and so 
+The big reason behind this is because I work for the government of BC, we're not a software development agency, were serving the public.
 
-we think that has over time these neighborhoods as they grow hopefully well beacon will create what we call the verifiable organization Network 
+We want this to be part of a global capability, and
+having a sustainable set of software in a well governed organization like Hyperledger, the Linux Foundation, we think is a good way to go. 
+**24:50**
+We think that as these neighborhoods grow, hopefully well become will create what we call the verifiable organization Network 
+**25:01** 
+<img src="http://i.imgur.com/ANXXvan.png"/>
 
 so this is sort of a concept where if you can use these kinds of tools and it doesn't have to be Hyperledger Indy it could  be any system that is decentralized identifier—verifiable credential compliant
 
-you'll be able to exchange verifiable data amongst businesses and that is really what we want to be able to do it's nice that they could come and do business with us like get the things they need but what's really more important is it that they transact amongst themselves that's what the economy lives so that's the idea of
+you'll be able to exchange verifiable data amongst businesses and that is really what we want to be able to do it's nice that they could come and do business with us like get the things they need but what's really more important is it that they transact amongst themselves that's what the economy lives.
 
-The Verifiable Organisation Network and the coming code that we'll call a Hyperledger Indy Catalyst so that is our
-talk for now 
+That's the idea of the Verifiable Organisation Network and the coming code that we'll call a Hyperledger Indy Catalyst, so that is our talk for now. 
 
-as Steven mentioned **we're having a workshop Friday and Saturday morning** and Ian and Steven and I'll do my best to help will walk you through actually creating an issue we're
-creating schemas and and and doing your own decentralized workflow example 
+<img src="http://i.imgur.com/dbHSiO7.png"/>
 
-we're happy to take questions if there are any yes I think I think it's controlled by the center there hello okay just wanted to check any pre requests for the workshop any required software any comments you 
+**25:40** as Steven mentioned **we're having a workshop Friday and Saturday morning** and Ian and Steven and I'll do my best to help will walk you through actually creating an issue we're
+creating schemas and doing your own decentralized workflow example.
 
-just be installed before hand you need a browser and you need a docker hub ID but you know you could do that while you're there yeah so the prerequisites are a docker hub ID and then everything else can be done in a browser and we'll just we've got all the guidance and so on but you don't need anything else I don't think about Chrome is ideal right chrome is probably the best we're using a tool called play with docker so you don't have to install anything on your machine it's super cool I promise no biometrics No 
+**we're happy to take questions** just wanted to check any **prerequesites for the workshop**, any required software components to be installed before hand: 
+
+>you need a browser and you need a **docker hub ID** but you know you could do that while you're there yeah so the prerequisites are a docker hub ID and then everything else can be done in a browser and we've got all the guidance and so on but you don't need anything else I don't think about **Chrome** is ideal right chrome is probably the best we're using a tool called play with docker so you don't have to install anything on your machine it's super cool I promise no biometrics
 
 so you did mention the verifiable claim and you you implied standards and I just want to confirm with the audience here because we had a side discussion. 
 
-it's w3c compliant verifiable claims and then and so I don't want to ask about the the other adjuncts that the registrar and the verifier because you talk about those concepts but I'm trying to understand what standards you use or what you're developing on your own and what standards apply specifically the registrar right so right now it's Hyperledger Indy version of things but as they progress they'll they'll create the ID doc specs and the end verifiable credential base
+>it's w3c compliant verifiable claims and then and so I don't want to ask about the the other adjuncts that the registrar and the verifier because you talk about those concepts but I'm trying to understand what standards you use or what you're developing on your own and what standards apply specifically the registrar?
+
+right so right now it's Hyperledger Indy version of things but as they progress they'll they'll create the ID doc specs and the end verifiable credential base
 
 but that's still emerging right in terms of how the agents communicate we're actually contributing quite a bit
 to sort of this agent agent protocol and that's being done in the open as well right now in this sort of Hyperledger
