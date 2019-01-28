@@ -145,15 +145,15 @@ This is all public data, this is all open data. This is exactly what they hang o
 
 <img src="http://i.imgur.com/yMMHV01.png"/>
 
-this one has a couple of credentials they actually have a corporate entity and then a couple of names they do business under so they've got several credentials we can see a timeline of when they've got the different credentials so we can take a look at those in it and as the history builds up we haven't loaded all the history of all BC companies yet some of that is on paper which is going to be more challenging but that's that's not for us to worry about but we can load them up so if we can look at our registration we can see an active credential 
+this one has a couple of credentials they actually have a corporate entity and then a couple of names they do business under so [they've got several credentials](https://orgbook.gov.bc.ca/en/organization/BC0057742/cred/1902355) we can see a timeline of when they've got the different credentials so we can take a look at those in it and as the history builds up we haven't loaded all the history of all BC companies yet some of that is on paper which is going to be more challenging but that's that's not for us to worry about but we can load them up so if we can look at our registration we can see an active credential 
 
 <img src="http://i.imgur.com/vmZx8py.png"/>
 
 <img src="http://i.imgur.com/umWHJO7.png"/>
 
-so this is what a credential looks like online basically we present it with the key data that a person might be interested in and then at the bottom we can actually go into the credential from an Hyperledger Indy perspective 
+so this is what a credential looks like online basically we present it with the key data that a person might be interested in and then at the bottom we can actually go [into the credential](https://orgbook.gov.bc.ca/en/organization/BC0057742/cred/1902355/verify) from an Hyperledger Indy perspective 
 
-<img src="http://i.imgur.com/FYuqYtD.png"/>
+<img src="http://i.imgur.com/l3LCLnu.png"/>
 
 so this is the schema if you as they call it on the one side the populated data for this particular version of the
 credential and then down below we get some really fun stuff 
