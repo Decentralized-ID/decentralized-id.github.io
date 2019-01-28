@@ -141,7 +141,7 @@ Let's do a search we're into chocolate because we're in Switzerland so we'll tal
 
 <img src="http://i.imgur.com/0mcU9ru.png"/>
 
-This is all public data, this is all open data. This is exactly what they hang on their walls inside the restaurant and things like that, there's really no place in BC it is actually published but in a very obscure places, very difficult to find. We've actually, as a byproduct of doing this exercise, created a pretty useful facility for citizens to use to find businesses, so we can take a look at them.
+**9:41** This is all public data, this is all open data. This is exactly what they hang on their walls inside the restaurant and things like that, there's really no place in BC it is actually published but in a very obscure places, very difficult to find. We've actually, as a byproduct of doing this exercise, created a pretty useful facility for citizens to use to find businesses, so we can take a look at them.
 
 <img src="http://i.imgur.com/yMMHV01.png"/>
 
@@ -249,7 +249,7 @@ what we've built here is a [dynamic workflow](https://github.com/bcgov/dFlow) th
 
 <img src="http://i.imgur.com/PpzN2E9.png"/>
 
-so we can look at that proof require and then iteratively go back to that proof request and walk back a step and walk back a step all the way back until we get to the starting point and 
+**19:34** so we can look at that proof require and then iteratively go back to that proof request and walk back a step and walk back a step all the way back until we get to the starting point and 
 
 <img src="http://i.imgur.com/XQK4hH3.png"/>
 
@@ -265,11 +265,11 @@ the nice thing about this is all of these entities that are issuing credentials 
 
 <img src="http://i.imgur.com/ZdQrDU3.png"/>
 
-one of the things we're going to do in the workshop is in spinning up your issue or verifier is you'll have to connect to and create ended transactions on Indy blockchain on a distributed ledger 
+**21:15** one of the things we're going to do in the workshop is in spinning up your issue or verifier is you'll have to connect to and create ended transactions on Indy blockchain on a distributed ledger 
 
 so this is a tool we created to be able to browse the network so we can look at in this case the four node network that we've got running we can look at the status of it 
 
-we can do some operations like look at the Genesis transaction but we can also dig in and look at what are the transactions that actually exist on the ledger at this time 
+**21:50** we can do some operations like look at the Genesis transaction but we can also dig in and look at what are the transactions that actually exist on the ledger at this time 
 
 <img src="http://i.imgur.com/J6I6GkD.png"/>
 
@@ -281,15 +281,18 @@ so this gives you a really good way of actually being able to see what is on the
 
 so that's kind of a preview of the site and the ideas that have been emerging as a result of our work but there's a little bit more 
 
-<img src="http://i.imgur.com/8tyRlCK.png"/>
 
-one of the things that we're trying to do is, it's helpful for BC businesses but BC businesses do business all around the world and we want our businesses to be able to interact digitally with everybody else and like Steven mentioned it's not just businesses but it's professionals and so forth and so on 
+<img src="http://i.imgur.com/kO6nCGy.png"/>
+
+**22:55** one of the things that we're trying to do is, it's helpful for BC businesses but BC businesses do business all around the world and we want our businesses to be able to interact digitally with everybody else and like Steven mentioned it's not just businesses but it's professionals and so forth 
+
+<img src="http://i.imgur.com/8tyRlCK.png"/>
 
 this model could work for professional engineering societies medical societies other kinds of things that have public accreditation that you need to check on 
 
 <img src="http://i.imgur.com/3O2CKLa.png"/>
 
-so we have this idea where we think The Org Book helps us establish our local neighborhood. businesses are gaining their credentials and and that's kind of building up our local ecosystem 
+**23:27** so we have this idea where we think The Org Book helps us establish our local neighborhood. businesses are gaining their credentials and and that's kind of building up our local ecosystem 
 
 <img src="http://i.imgur.com/aYIYVha.png"/>
 
@@ -308,6 +311,7 @@ having a sustainable set of software in a well governed organization like Hyperl
 **24:50**
 We think that as these neighborhoods grow, hopefully well become will create what we call the verifiable organization Network 
 **25:01** 
+
 <img src="http://i.imgur.com/ANXXvan.png"/>
 
 so this is sort of a concept where if you can use these kinds of tools and it doesn't have to be Hyperledger Indy it could  be any system that is decentralized identifier—verifiable credential compliant
