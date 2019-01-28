@@ -58,11 +58,13 @@ We have examples where our research teams have gone out and talked to restaurant
 
 <img src="http://i.imgur.com/FxeKL2D.png"/>
 
->you know the path is also very meandering and it can be in multiple different media you can be faxing you could be email you could be online you're in person and so forth and so all of this is a very difficult yeah both for the business people but also on the government side we are also in different places verifying data all the time who are you what business we representing or you authorized to represent the businesses 
+>you know the path is also very meandering and it can be in multiple different media you can be faxing you could be email you could be online you're in person and so forth.
+>
+>**All of this is a very difficult both for the business people but also on the government side**. We are also in different places verifying data all the time: who are you? whos business are you representing? Are you authorized to represent the businesses?
 
 <img src="http://i.imgur.com/sIiI6Ni.png"/>
 
-In the most complicated cases for like liquor and so forth shareholders and employees have **criminal background checks** they make sure that nobody owns more than 8 stores that sells liquor and so forth and so on so I can take up to a year so.
+In the most complicated cases, for liquor and so forth, shareholders and employees have **criminal background checks.** They make sure that nobody owns more than 8 stores that sells liquor, and can take up to a year so.
 
 <img src="http://i.imgur.com/GM9FxgX.png"/>
 
@@ -83,67 +85,71 @@ In this case it's the incorporation information that's given to Mary, she goes t
 
 <img src="http://i.imgur.com/FNpnmLg.png"/>
 
-So we have this pattern of: **holder** which *is a person or a business* but a business can't really hold something on their own. They have to have people holding it on behalf of the business. They presented to a verifier, which is earlier in the workflow, the verifier says bring your list of things in and prove to me who you are and you have various permits and license and so forth.
+So we have this pattern of: **holder** which *is a person or a business* but a business can't really hold something on their own. They have to have people holding it on behalf of the business. 
 
-You then get to enter their form which is usually not that pleasant, and then you are issued something which you hold and this is the pattern that we're very familiar with.
+They presented to a verifier, which is earlier in the workflow, the verifier says bring your list of things in and prove to me who you are, and you have various permits and licenses and so forth. You then get to enter their form which is usually not that pleasant, and then you are issued something which you hold. 
+
+**This is the pattern that we're very familiar with.**
 
 We're sitting with a wallet full of these things. I have bank cards and identity cards and so forth and we're gonna explore how we can do that. 
 
 When we discovered that **we were pretty excited** it was about a year ago that **we stumbled across Hyperledger Indy** after having done a little bit of work with fabric
 
-so it was just Stephen and I on the team and we thought it looked promising that there was this pattern here we could solve some of these hard problems we've been working on for years but we realized we didn't have any of these software for these different organizations or people 
+So it was just Stephen and I on the team and we thought it looked promising, that there was this pattern here we could solve some of these hard problems we've been working on for years but we realized we didn't have any of the software for different organizations or people.
 
 <img src="http://i.imgur.com/hHn9SLm.png"/>
 
-somebody mentioned it this morning that the classic chicken and egg problem we don't have any software out there that we can issue to our issuers don't have software to issue and so forth but so we had a we had an idea actually we we realized actually in this case government is a little bit special which I don't like to say very often but 
+Somebody mentioned it this morning, the classic chicken and egg problem: we don't have any software out there that we can issue to our issuers, don't have software to issue. We realized, in this case government is a little bit special, which I don't like to say very often. 
 
-it turns out our core business is issuing that's what we do every service we have is pretty much an issuer so we thought hmmm what if we what if we could give the services that we are dealing with in the business realm somewhere to issue to 
+It turns out our core business is issuing that's what we do every service we have is pretty much an issuer so we thought: what if we could give the services that we are dealing with in the business realm, somewhere to issue to? 
 
 <img src="http://i.imgur.com/9IHbEkL.png"/>
 
-we purposely picked business realm because if we're dealing with business data we're not triggering all the personal identifiable information problems. In the BC we call it fight by the Freedom of Information Act and Privacy Protection Act. When you get into personal data, of course it triggers all of that which is good but makes it very complicated to play with new technologies 
+We purposely picked business realm because if we're dealing with business data we're not triggering all the personal identifiable information problems. In the BC we call it FoIT, the Freedom of Information Act and Privacy Protection Act. When you get into personal data, of course it triggers all of that which, is good but makes it very complicated to play with new technologies. 
 
 <img src="http://i.imgur.com/6KxuQM9.png"/>
 
-so we just dealing with open business data right now and we thought: what if we could create something where these issuers could issue data to? and it would be a public thing, and we call that **The Org Book** 
+We just deal with open business data right now and we thought: what if we could create something where these issuers could issue data to? and it would be a public thing, and we call that **The Org Book.** 
 
-so this is a bootstrapping technique that we're copying from Facebook. We're just playing with one side of the market. We're gonna deal with the supply side: the issuers of credentials, more commonly known as permits and licenses.
+This is a bootstrapping technique that we're copying from Facebook. We're just playing with one side of the market. **We're gonna deal with the supply side: the issuers of credentials, more commonly known as permits and licenses.**
 
 <img src="http://i.imgur.com/o5KphnK.png"/>
 
-and because they're public and because they're open we can create this directory of searchable verifiable data and we can build software for the issuers 
+Because they're public and because they're open we can create this directory of searchable verifiable data and we can build software for the issuers.
 
-So our goal was how can we make it as easy as possible for existing services to be able to issue their credentials to this OrgBook starting with the foundational data of the registry, and we're going to show you that.
+Our goal was how can we make it as easy as possible for existing services to be able to issue their credentials to this OrgBook starting with the foundational data of the registry, and we're going to show you that.
 
-When we started writing this code built on top of Hyperledger Indy we realized that there could be intermediate benefits. 
+**When we started writing this code built on top of Hyperledger Indy we realized that there could be intermediate benefits.**
 
 <img src="http://i.imgur.com/voKqoaF.png"/>
 
-so first there's some public good and the searching and finding of data will show you that but it turns out we can also create api's and so forth to allow that data be searchable and we created an enterprise agent, for services to be able to verify the data in The Org Book 
+So first there's some public good, and the searching and finding of data will show you that. It turns out we can also create [api's](https://bcgov.github.io/MyGovBC-notification-server/docs/api-overview/) to allow that data to be searchable, and we created an [enterprise agent](https://github.com/bcgov/von_agent) for services to verify the data in The Org Book. 
 
-issue it so later when businesses have their own services for holding verifiable credentials, our issuers are ready 
+So later when businesses have their own services for holding verifiable credentials, our issuers are ready.
 
 <img src="http://i.imgur.com/AdYRiK9.png"/>
 
-so now I'm gonna hand it over to Stephen I'm gonna drive now am I that working okay so we'll show I can look here that's good so this is what The Org Book looks like in British Columbia so there's two instances and we'll show you them both but this is the British Columbia Org book and it's basically a kind of a Yelp type site 
+Now I'm gonna hand it over to Stephen. This is what The Org Book looks like in British Columbia, so there's two instances and we'll show you them both but **this is the [British Columbia Org Book](https://orgbook.gov.bc.ca/en/home) and it's basically a kind of a Yelp type site.** 
 
-<img src="http://i.imgur.com/3WJsovF.png"/>
+<img src="http://i.imgur.com/nsurhhx.png"/>
 
 **we've got five hundred twenty-five thousand active legal entities in British Columbia every one of them has a record in here** they have the credentials that the registries have issued to them 
 
-<img src="http://i.imgur.com/obt8orK.png"/>
+<img src="http://i.imgur.com/ngfzaPh.png"/>
 
-so let's do a search we're into chocolate because we're in Switzerland so we'll talk about a Isla Vancouver Island chocolatier so Purdy's chocolates so we can take a look at them so search capability names we've got other capabilities for what searches we can provide ways to filter and things but when we get into it we can see some information that the registry publishes so previously registered 
+Let's do a search we're into chocolate because we're in Switzerland so we'll talk about a Vancouver Island chocolatier. Purdy's chocolates, we can take a look at them. Search capability names we've got other capabilities for what searches we can provide ways to filter and things. When we get into it, we can see some information that the registry publishes, so previously registered. 
 
-<img src="http://i.imgur.com/lZdyMdh.png"/>
+<img src="http://i.imgur.com/0mcU9ru.png"/>
 
-this is all public data this is all open data this is exactly what they hang on their walls inside the restaurant and things like that there's really no place in BC it is actually published but in a very obscure place very difficult to find so we've actually as a byproduct of doing this exercise created a pretty useful facility for citizens to use to find businesses so we can take a look at them 
+This is all public data, this is all open data. This is exactly what they hang on their walls inside the restaurant and things like that, there's really no place in BC it is actually published but in a very obscure places, very difficult to find. We've actually, as a byproduct of doing this exercise, created a pretty useful facility for citizens to use to find businesses, so we can take a look at them.
 
-<img src="http://i.imgur.com/D7lPViK.png"/>
+<img src="http://i.imgur.com/yMMHV01.png"/>
 
 this one has a couple of credentials they actually have a corporate entity and then a couple of names they do business under so they've got several credentials we can see a timeline of when they've got the different credentials so we can take a look at those in it and as the history builds up we haven't loaded all the history of all BC companies yet some of that is on paper which is going to be more challenging but that's that's not for us to worry about but we can load them up so if we can look at our registration we can see an active credential 
 
-<img src="http://i.imgur.com/IJIhLer.png"/>
+<img src="http://i.imgur.com/vmZx8py.png"/>
+
+<img src="http://i.imgur.com/umWHJO7.png"/>
 
 so this is what a credential looks like online basically we present it with the key data that a person might be interested in and then at the bottom we can actually go into the credential from an Hyperledger Indy perspective 
 
