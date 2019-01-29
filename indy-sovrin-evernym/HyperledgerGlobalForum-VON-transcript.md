@@ -241,13 +241,13 @@ so do you wanna go to that okay spicy wings we're gonna look at Spicy Wings. Thi
 
 They've got a registration a PST that's a tax number from the province, a clearance letter for workman's compensation for a worker's insurance, and a business license from a from an entity from a municipality. 
 
-<img src="http://i.imgur.com/f7q6CJN.png"/>
+<img src="http://i.imgur.com/2fQTCap.png"/>
 
 So with [dFlow](https://dflow.orgbook.gov.bc.ca) what we can do is basically what you're saying is I have a goal as a businessman I have a goal that I want a business license in the city of Surrey and it's going to be for a restaurant what have I got to do to accomplish that what other things do I need and 
 
 <img src="http://i.imgur.com/YSIIWLQ.png"/>
 
-what we've built here is a [dynamic workflow](https://github.com/bcgov/dFlow) that starts with the one you want I want a business license and sort of says oh what are the prerequisites for getting a business license well that's been encaptured in the proof requests that the business requires before it will issue you the credential that they have to offer 
+what we've built here is a [dynamic workflow](https://github.com/bcgov/dFlow) that starts with the one you want I want a business license, and says "what are the prerequisites for getting a business license?" well that's been encaptured in the proof requests that the business requires before it will issue you the credential that they have to offer.
 
 <img src="http://i.imgur.com/PpzN2E9.png"/>
 
