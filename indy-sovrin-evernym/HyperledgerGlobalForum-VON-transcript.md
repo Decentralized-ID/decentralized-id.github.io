@@ -69,7 +69,7 @@ In the most complicated cases, for liquor and so forth, shareholders and employe
 <img src="http://i.imgur.com/GM9FxgX.png"/>
 
 We're collaborating with a couple of other jurisdictions. We're working with a team in **Ontario** and a
-team in the Government of Canada where I used to work — **The Procurement Agency**.
+team **in the Government of Canada**, where I used to work, **The Procurement Agency**.
 
 <img src="http://i.imgur.com/oPuhVyP.png"/>
 
@@ -231,7 +231,7 @@ so a big challenge in all government organizations is this ability to understand
 
 "hey these two businesses just merged they've started a new entity", "those two entities no longer exist they've been dissolved in this new entity exists you should know that" and 
 
-so that webhook capability will just whatever you're subscribed to when when our credential changes we can notify you that it happened and then you can dig in to figure out how that affects your permit and licensing service the other piece that we'll show is thing called decentralized flow dFlow 
+so that webhook capability will just whatever you're subscribed to when when our credential changes we can notify you that it happened and then you can dig in to figure out how that affects your permit and licensing service the other piece that we'll show is thing called decentralized flow - [dFlow](https://dflow.orgbook.gov.bc.ca) 
 
 <img src="http://i.imgur.com/a8WzejN.png"/>
 
@@ -243,7 +243,7 @@ They've got a registration a PST that's a tax number from the province, a cleara
 
 <img src="http://i.imgur.com/f7q6CJN.png"/>
 
-So with [dFlow](https://dev-demo.orgbook.gov.bc.ca/en/home) what we can do is basically what you're saying is I have a goal as a businessman I have a goal that I want a business license in the city of Surrey and it's going to be for a restaurant what have I got to do to accomplish that what other things do I need and 
+So with [dFlow](https://dflow.orgbook.gov.bc.ca) what we can do is basically what you're saying is I have a goal as a businessman I have a goal that I want a business license in the city of Surrey and it's going to be for a restaurant what have I got to do to accomplish that what other things do I need and 
 
 <img src="http://i.imgur.com/YSIIWLQ.png"/>
 
