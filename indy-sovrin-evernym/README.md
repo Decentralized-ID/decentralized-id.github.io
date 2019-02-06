@@ -172,6 +172,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 * [Indy Documentation Index - wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
   * [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
   * [Indy Docs Framwork](https://github.com/hyperledger/indy-hipe/tree/master/text/0025-indy-docs-framework)
+* [Introduction to Hyperledger Indy](https://github.com/hyperledger/education/blob/master/LFS171x/docs/introduction-to-hyperledger-indy.md) (awesome resource from hyperledger github)
 * [Hyperledger Indy — the Future of Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy) - ANN
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
@@ -432,8 +433,9 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 #### Tips Welcome
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
-[infominer.id](https://infominer.id/) —Check out some of my [other projects](projects.md)!!!
 
+
+**Contact Me for Research Based Content—[infominer.id](https://infominer.id)**
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
