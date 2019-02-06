@@ -97,10 +97,10 @@ Then I realized that I should make a more complete survey of the subject, if I w
 
 ---
 
-### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
-[<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
+### Brought to you by The [Crypto Super Source](https://github.com/infominer33/Crypto-library)
+<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
-[infominer.id](https://infominer.id/) —Check out some of my [other projects](projects.md)!!!
+**Contact Me for Research Based Content—[infominer.id](https://infominer.id)**
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 

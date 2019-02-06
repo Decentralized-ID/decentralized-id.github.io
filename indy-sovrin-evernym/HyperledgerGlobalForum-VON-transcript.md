@@ -403,3 +403,6 @@ what chunk of binary data was hashed in there
 so we had to experiment with that that could be quite an interesting matter all right we're just about done any other
 questions or great well hopefully some of you will come for a workshop and thanks for your time
 [Applause]
+
+
+**Contact Me for Research Based Content—[infominer.id](https://infominer.id)**
