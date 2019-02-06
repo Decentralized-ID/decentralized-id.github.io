@@ -67,3 +67,5 @@ I'm not limited to those 6, and I'm not glued to that order, but thats a general
 I can see that I'll need to spend a lot more time with this content, am just learning my way around it right now.  
 
 I'm not the most qualified, I just have time and motivation. (Specifically, sometimes I write about Self-Sovereign Identity. But I want to write about it in an accurate way, which is difficult to do until some order is made of all this material.)
+
+**Contact Me for Research Based Content—[infominer.id](https://infominer.id)**

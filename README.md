@@ -799,7 +799,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 #### Tips Welcome
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
-Check out some of my [other projects](https://infominer.id)!!!
+**Contact Me for Research Based Content—[infominer.id](https://infominer.id)**
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 

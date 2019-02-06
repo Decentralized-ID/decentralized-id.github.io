@@ -86,3 +86,6 @@ This is an important principle that I don't think is represented in the Characte
 This review leaves me with more questions than answers. I'm not sure if we should implement the best parts of the *Characteristics* into the *Principles*, or the other way around.
 
 I'm willing to make an attempt at bringing these together if no one else jumps at the chance. However, I'd like to gather some feedback. I'm tempted to use the Characteristics as the foundation, and simply incorporate any principles not well represented. However, I'm not sure if "Control, Acceptance, and Zero Cost" are the best way to divide them up. 
+
+
+**Contact Me for Research Based Content—[infominer.id](https://infominer.id)**
