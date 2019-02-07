@@ -86,9 +86,9 @@ I was initially introduced to blockchain identity when offering research and wri
 
 I got into crypto, mid-2017—my passion for learning and for collecting [useful information](http://crypt0library.net), on a number of related subjects, has only grown over that time. I'm slowly entering those resources into a database, to power a [web-app](https://github.com/infominer33/Crypto-library) for search, and navigation by tags, etc. Creating these lists has become an essential part of my process as a writer. 
 
-Although initially began as a result of freelance gigs, my work on this repository has been entirely on my own time. I've not been hired by anyone to work on it, and am not currently contracted to write for anyone in the DID ecosystem (I mean I'm available :) Building this repository is an investment into the decentralized identity ecosystem, and my own personal brand — in support of anyone trying to make sense of the SSI\DID. 
+Although initially began as a result of freelance gigs, my work on this repository has been entirely on my own time. I'm available to work with anyone in need of content on related subjects. Building this repository is an investment into the decentralized identity ecosystem, and my brand as a research nerd — in support of anyone trying to make sense of SSI\DID. 
 
-Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover other crypto-resources.
+Check out the [**Crypto SuperSource Discord Server**](https://discord.gg/ahTuPMY), if you'd like to chat or discover other crypto-resources.
 
 —[infominer.id](https://infominer.id)
 
