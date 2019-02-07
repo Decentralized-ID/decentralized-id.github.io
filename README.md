@@ -88,6 +88,8 @@ I got into crypto, mid-2017—my passion for learning and for collecting [useful
 
 Although initially began as a result of freelance gigs, my work on this repository has been entirely on my own time. I've not been hired by anyone to work on it, and am not currently contracted to write for anyone in the DID ecosystem (I mean I'm available :) Building this repository is an investment into the decentralized identity ecosystem, and my own personal brand — in support of anyone trying to make sense of the SSI\DID. 
 
+Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover other crypto-resources.
+
 —[infominer.id](https://infominer.id)
 
 ---
@@ -794,11 +796,12 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
 
 
-
 ---
 
 ### Contact Me for Research Based Content—[infominer.id](https://infominer.id)
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
+
+Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover other crypto-resources.
 
 **Tips Welcome**
 
