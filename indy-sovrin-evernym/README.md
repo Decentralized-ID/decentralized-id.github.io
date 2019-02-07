@@ -434,6 +434,8 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 ### Contact Me for Research Based Content—[infominer.id](https://infominer.id)
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
+Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover our other crypto-resources.
+
 **Tips Welcome**
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
