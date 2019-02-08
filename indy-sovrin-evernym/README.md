@@ -22,6 +22,7 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
 * [Hyperledger Indy](#Hyperledger-Indy)
   * [Indy Github Repositories](#Indy-Github-Repositories)
   * [Additional Indy Related](#Additional-Indy-Related)
+  * [Wallets](#wallets-)
   * [Zero Knowledge Proof in Indy](#zero-knowledge-proofs-in-indy-)
 * [W3C and DID Related Standards](#W3C-and-DID-Related-Standards-)
   * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier-)
@@ -219,7 +220,7 @@ Hyperledger Indy Project Enhancements
 * [Indy August Update](https://wiki.hyperledger.org/groups/tsc/project-updates/indy-2018-aug) - Most recent report from the Hyperledger Indy team.
 
 
-### Wallets
+#### Wallets [**^**](#Contents)
 
 * [How to build a Self Sovereign Identity Wallet](https://www.devteam.space/blog/how-to-build-a-self-sovereign-identity-wallet/)
 * https://github.com/streetcred-id/indy-sdk-storage
