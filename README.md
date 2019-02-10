@@ -86,9 +86,7 @@ I was initially introduced to blockchain identity when offering research and wri
 
 I got into crypto, mid-2017—my passion for learning and for collecting [useful information](http://crypt0library.net), on a number of related subjects, has only grown over that time. I'm slowly entering those resources into a database, to power a [web-app](https://github.com/infominer33/Crypto-library) for search, and navigation by tags, etc. Creating these lists has become an essential part of my process as a writer. 
 
-Check out the [**Crypto SuperSource Discord Server**](https://discord.gg/ahTuPMY), if you'd like to chat or discover other crypto-resources.
-
-—[infominer.id](https://infominer.id)
+I've collected a ton of other crypto related resources in the [**SuperSource**](https://discord.gg/ahTuPMY) Discord chat server, and I have other repositories similar to this for other topics, beyond identity. Have a look around.  —[infominer.id](https://infominer.id)
 
 ---
 
@@ -799,7 +797,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 ### Contact Me for Research Based Content—[infominer.id](https://infominer.id)
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
-Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover other crypto-resources.
+I've collected a ton of other crypto related resources in the [**SuperSource**](https://discord.gg/ahTuPMY) Discord chat server, and I have other repositories similar to this for other topics, beyond identity. Have a look around.  —[infominer.id](https://infominer.id)
 
 **Tips Welcome**
 
