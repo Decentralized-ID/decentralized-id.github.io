@@ -75,9 +75,9 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 ### Related Repositories[**^**](#Contents)
 
-* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) - a list for projects related to blockchain-identity. Some of its resources found a home here, but this is not meant to replace it.
-* [/awesome-decentralized-id/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - A folder in this repository, for information specific to Hyperledger Indy, the Sovrin Foundation, and Evernym.
-* [/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) - Another sub-folder to organize information about Self-Sovereign-Identity.
+I got into crypto, mid-2017—my passion for learning and for collecting [useful information](http://crypt0library.net), on a number of related subjects, has only grown over that time. I'm slowly entering those resources into a database, to power a [web-app](https://github.com/infominer33/Crypto-library) for search, and navigation by tags, etc. Creating these lists has become an essential part of my process as a writer. 
+
+Although initially began as a result of freelance gigs, my work on this repository has been entirely on my own time. I'm available to work with anyone in need of content on related subjects. Building this repository is an investment into the decentralized identity ecosystem, and my brand as a research nerd — in support of anyone trying to make sense of SSI\DID. 
 
 
 ### How This Project Began[**^**](#Contents)
