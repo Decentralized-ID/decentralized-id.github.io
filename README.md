@@ -86,9 +86,11 @@ Feel free to contact me. I'm happy to field questions, research niche blockchain
 
 ### What is Decentralized ID? [**^**](#Contents)
 
-The essence of Decentralized-ID is to create systems for identification that are not owned by any one particular organization, and global collaboration in support of interoperability among emerging technologies. 
+The essence of Decentralized-ID is to create systems for identification that are not owned by any one particular organization, and global collaboration in support of interoperability among emerging technologies for identity. 
 
-It's impossible to have a conversation about decentralized identity without discussing blockchain and self sovereign identity. Blockchain fueled longstanding efforts to create a privacy preserving internet-wide identity protocol. Self Sovereign Identity principles have helped to shape the narrative around putting the identity owner in control over their personal information.
+It's impossible to have a conversation about decentralized-id without discussing blockchain and self sovereign identity: 
+  * Blockchain fueled longstanding efforts to create a privacy preserving internet-wide identity protocol, and inspired development of decentralized networks for online identification. 
+  * Self Sovereign Identity principles (with some help from the GDPR) have helped to shape the narrative around putting the identity owner in control over their personal information.
 
 ---
 
