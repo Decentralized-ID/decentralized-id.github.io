@@ -286,7 +286,7 @@ Blockstack is a network for decentralized applications where users own their ide
 * [BTCR DID Method](https://w3c-ccg.github.io/didm-btcr/) — The Bitcoin Reference DID method (did:btcr) supports DIDs on the public Bitcoin blockchain. The Bitcoin Reference method has minimal design goals: a DID trust anchor based on the Bitcoin blockchain, updates publicly visible and auditable via Bitcoin transactions, and optionally, additional DID Document information referenced in the transaction OP_RETURN data field. No other Personal Identifiable Information (PII) would be placed on the immutable blockchain.
    * [btcr tx conversion playground](https://weboftrustinfo.github.io/btcr-tx-playground.github.io/) 
 * [Interplanetary Identifiers IPID](https://github.com/jonnycrunch/ipid) - Implementation of the DID spec over IPFS (Interplanetary File System) 
-* [Peer DID Method Spec](https://github.com/dhh1128/peer-did-method-spec)
+* [Peer DID Method Spec](https://dhh1128.github.io/peer-did-method-spec/index.html)
 * [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
 * [did:ockam:](https://medium.com/ockam/an-introduction-to-did-ockam-8626d5aecc53) [[**ϟ**](https://twitter.com/Ockam_io/status/1064589363269365763)]
