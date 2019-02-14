@@ -1,5 +1,5 @@
-# Microledgers and Edge-Chains: A Primer—Daniel Hardman, Evernym
-**—Hyperledger Global Forum 2018**
+# Microledgers and Edge-Chains —Hyperledger Global Forum 2018
+**A Primer - Daniel Hardman, Evernym**
 
 [Evernym](https://evernym.com)’s Chief Architect [Daniel Hardman](https://www.evernym.com/team/daniel-hardman/) takes the Hyperledger community through Evernym’s work on Microledgers and Edge-Chains Architecture. Attendees will gain insight into the theory, applications and evolution in Hyperledger Indy along with a practical discussion of their potential.
 
