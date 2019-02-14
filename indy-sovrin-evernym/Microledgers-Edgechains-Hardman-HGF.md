@@ -1,478 +1,249 @@
 # Microledgers and Edge-Chains: A Primer - Daniel Hardman, Evernym
 **—Hyperledger Global Forum 2018**
 
-Evernym’s Chief Architect Daniel Hardman takes the Hyperledger community through Evernym’s work on Microledgers and Edge-Chains Architecture. Attendees will gain insight into the theory, applications and evolution in Hyperledger Indy along with a practical discussion of their potential.
+[Evernym](https://evernym.com)’s Chief Architect [Daniel Hardman](https://www.evernym.com/team/daniel-hardman/) takes the Hyperledger community through Evernym’s work on Microledgers and Edge-Chains Architecture. Attendees will gain insight into the theory, applications and evolution in Hyperledger Indy along with a practical discussion of their potential.
 
 <img src="http://i.imgur.com/H5ijP94.png"/>\
-<sup>https://www.youtube.com/watch?v=iK5vd7-b1zA&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=100</sup>
+<sup><a href="https://www.youtube.com/watch?v=iK5vd7-b1zA&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=100">Youtube: Hyperledger Global Forum- Microledgers and Edge-Chains: A Primer- Daniel Hardman, Evernym</a></sup>
 
 * [Daniel Hardman, Chief Architect - Evernym](https://hgf18.sched.com/event/G8sN/microledgers-and-edge-chains-a-primer-daniel-hardman-evernym)
+  > Daniel Hardman has a quarter century of experience in enterprise software. As a technical director or chief architect, he’s led engineering teams at small startups, an incubator, and a continent-spanning business unit at a Fortune 500 company. He founded a dot com a few years back, serving as CEO and later CTO before selling the business. Daniel designed and personally coded complex scheduling software that runs the biggest supercomputers on the planet. He also worked on big data systems that use natural language processing and machine learning/AI to impute reputation to the entire observable internet. He is a member of Infraguard, has training in cybersecurity, and has spoken at industry conferences such as RSA. Daniel has an MBA plus a master’s degree in computational linguistics. He holds numerous patents and is a prolific blogger.
 
-> Daniel Hardman has a quarter century of experience in enterprise software. As a technical director or chief architect, he’s led engineering teams at small startups, an incubator, and a continent-spanning business unit at a Fortune 500 company. He founded a dot com a few years back, serving as CEO and later CTO before selling the business. Daniel designed and personally coded complex scheduling software that runs the biggest supercomputers on the planet. He also worked on big data systems that use natural language processing and machine learning/AI to impute reputation to the entire observable internet. He is a member of Infraguard, has training in cybersecurity, and has spoken at industry conferences such as RSA. Daniel has an MBA plus a master’s degree in computational linguistics. He holds numerous patents and is a prolific blogger.
+## Contents
 
-## Lightly edited transcript from Youtube.
+* [Microledgers and Edge-Chains](#microledgers-and-edge-chains-)
+* [A Personal Arc](#a-personal-arc)
+* [Blockchain— the new centralization](#Blockchain—-the-new-centralization)
+* [Where Blockchain is Needed (or Not)](#where-blockchain-is-needed-or-not-)
+* [Microledgers and Edge-Chains](#microledgers-and-edge-chains-)
+* [How Blockchain is Still Relevant](#how-blockchain-is-still-relevant-)
+* [App Centralization Continuum](#app-centralization-continuum-)
+* [Teleomergent - More than a decentralized app](#teleomergent---more-than-a-decentralized-app-)
+* [Dapps vs Edgechain Protocols](#dapps-vs-edgechain-protocols-)
+* [Defining an Edgechain Protocol](#defining-an-edgechain-protocol-)
+
+## Microledgers and Edge-Chains [**^**](#contents)
+**Lightly edited transcript from Youtube.**
+
+<img src="http://i.imgur.com/Hu9v2Md.png"/>
 
 Okay, I think we'll go ahead and get started. There are likely to be people trickling in, if they're like I am. If I didn't have to be here speaking I would take my time getting in the next session after lunch feeling a little bit sluggish... but anyway, they'll come in and and we'll already be in the presentation.
 
-my name is Daniel Hardman hopefully you've if you read about this session you might know a little bit about my background I work with hyper ledger
-indie project mostly I'm a maintainer
-there and I also work for well so I have
-a day job with Evernham and then a side
-gig where I work on the technical
-governance port of the sovereign
-foundation which is closely connected to
-the indie project anyway today I'm going
-to talk about some concepts that have
-been marinating in my mind and in the
-minds of some people that I work with
-for quite a while not all these ideas
-are originally mine I want to give
-credit where credit is due lots of other
-smart people have been talking and
-thinking about this as well I'm just a
-spokesman for a lot of other people and
-hopefully the title intrigued you a
-little bit micro Ledger's and edge
-chains I'm going to demystify that and
-when you walk away I hope you're gonna
-think of this as not so much a super
-technical session that you've been to
-but instead a session that kind of has
-some intriguing ideas for you to think
-about later in whatever you're doing so
-I'd like to start by taking you on a
-little bit of a personal journey I
-started working in blockchain two and a
-half years ago and when I first became I
-guess aware of the basic concepts of how
-blockchain worked and so forth I became
-really excited about how blockchain had
-solved a bunch of problems and who I was
-going to go conquer the world with all
-this new technology and it was awesome
-and that was a I lasted in that phase of
-my acquaintance with blockchain for I
-don't know several months but I start
-to encounter practical problems with
-some of the blockchain stuff I was doing
-and I hope as I described the rest of
-this arc you'll smile a little bit to
-yourselves and say yeah I've kind of
-been through the same thing so you know
-after after my in a way this is kind of
-like the Gartner hype cycle you know
-there's the the spike of excitement and
-then the trough of disillusionment so I
-kind of went through learning about some
-of the performance and scaling issues
-that we had to deal with and some of the
-complexity and then I started to realize
-that putting data on the blockchain had
-certain repercussions that I didn't
-always want to deal with and that there
-needed to be some very careful thought
-about how we encrypted data and then I
-realized encrypting it wasn't enough it
-just plain shouldn't be there at all and
-so hopefully you guys are recognizing
-these kinds of patterns in your own
-thinking here and then I got into the
-whole all regulatory compliance of gdpr
-thing and gee this is getting harder and
-harder and then I and several of my
-companions discovered this notion of
-micro Ledger's and we feel like it was
-kind of an aha moment for us so I'll
-explain what micro Ledger's are and I
-think you'll see how that's relevant to
-this arc when I'm done but let me just
-point out that that same kind of arc
-that I just described in my own thinking
-we're seeing unfold in lots of different
-ways in the whole block chain space all
-of the things on this list here are
-examples of projects where somebody has
-fought hard about the original
-blockchain paradigm and tweaked
-something in an interesting way because
-of that same arc and you know the tweaks
-are different plasma is about taking
-smart contracts off the blockchain
-triple signed receipts is about
-preserving confidence in data but not
-having to keep a full history even
-though you have a strong proof that
-you're at the right state anyway they
-all
-different things up there and if you
-don't know about all those I didn't know
-about all of them either until I went
-and researched this talk and I was
-looking for patterns I knew about some
-of them and I found some others there
-but the point is that I think the whole
-industry is going through a maturation
-phase where we're realizing that there's
-certain aspects of what blockchain can
-do that we love and there's other
-aspects of what blockchain gives us that
-we don't love so much and we're trying
-to kind of wrestle against those
-constraints now these are the two things
-that I think these arcs all have in
-common mine and and the things on the
-previous slide
-they're all trying to do less with the
-central big blockchain in some creative
-way so that they can keep the special
-value out of the blockchain but not have
-some of its downsides right okay so I
-want to just point out something I went
-and looked just for fun I went and
-looked up architecture diagrams with
-Google I was looking for old
-client-server architecture diagrams okay
-and these are just three that I picked
-at random out of the Google image search
-results list you see that client-server
-is kind of this old paradigm where we
-have this notion of a centralized thing
-right and client-server equals bad right
-we've been down that road we don't like
-that anymore but here's what's
-interesting I also went and searched for
-some architecture diagrams about
-blockchain and some blockchain supposed
-to be highly decentralized and lo and
-behold there are lots and lots of
-evidence in these diagrams that
-blockchain is actually it just almost
-the exact same thing now there's some
-things about blockchain that are
-different I'm not arguing that they're
-identical but the point is there is this
-phenomenon
-sometimes that blockchain has been used
-in a way that's far more centralized
-than we like to admit yes there are
-nodes that spread the load around and
-yes the nodes create this notion of
-diverse or I mean diffuse trust and yet
-all of those nodes can be treated as one
-bundle in the middle and in fact
-in a lot of architecture diagrams that
-you see in presentations at this
-conference and any other conference you
-will see a little graphic that
-represents the blockchain and a bunch of
-arrows coming to it from all over the
-place and what's that that's
-centralization okay so we don't
-necessarily need the blockchain for
-everything that we think we need it for
-the taluk back in April I'll let you
-read that quote there well actually I'm
-going to read it because it's such a
-good one block chains are far less
-efficient computer and database than
-technologies that have existed for over
-40 years
-efficiency is not what block chains are
-built for if you actually go and look up
-that quote he does a comparison of how
-much it costs to do certain kinds of
-computations on aetherium versus AWS and
-it's about a million to one difference
-in efficiency and then founder of
-liquidity network in June this is a
-really good quote - bottom line is this
-notion you know what why would you need
-a mediator if you're actually agreeing
-with each other now there's an answer to
-that question but there's also some that
-that question exposes some interesting
-things to think about so I think smart
-people in the industry are starting to
-question some basic assumptions and
-here's here's my picture of an
-architecture that's centralized in
-blockchain oriented you got the
-blockchain in the middle here and you
-got the arrows coming to it right this
-is how I was thinking about my own
-particular problem which was the
-identity management relationship
-management problem that's at the core of
-identity when I first came into this
-world and if you see we've got two
-parties that each have a relationship
-and want to trust each other we have
-Alice we have Bob and Alice needs to
-know some things about her view of this
-relationship and she also needs to know
-some things about Bob's view of the
-relationship okay and these two views of
-the world
-what's symmetrical and complimentary but
-they're using the blockchain in the
-middle as the trusted intermediary and
-like I said this view of the world sort
-of works but it became it chafed on me
-and it became increasingly uncomfortable
-as I learned some of the drawbacks and
-challenges to it so here's what I
-evolved to and this is what I want to
-talk to you about is the micro ledger
-notion so in this notion you still have
-a blockchain and blockchain does have
-relevance it's highly relevant but it's
-not used for the main it's not the main
-mediator of the relationship between
-Alice and Bob Alice and Bob talk to each
-other directly and then they have this
-kind of back-channel thing that they can
-use to interact with the blockchain to
-the extent that they need to and I'm
-gonna talk about what they really need
-the blockchain for but it's not as much
-as we thought at least as much as I
-thought to begin with so when you have
-this kind of a relationship what you
-have is two parties that are kind of at
-the edge of the old diagram the instead
-of the thing that's in the middle you
-have the things that are at the edges
-okay and these things at the edge are
-talking to each other and this is how I
-get the concept of an edge chain that's
-where that word in the title of the
-presentation comes from is the notion
-that you can have some of the same
-characteristics of a blockchain you can
-have high trust and tamper resistance
-and diffuse patterns of communication
-and so forth but you don't have the
-blockchain sitting in the middle of it
-it's it's all happening out at the edges
-okay so this evolves even further if you
-have this person Alice having
-relationships with multiple people she
-continues to have these all as kind of
-lateral side relationships she doesn't
-have them through the blockchain now you
-might be saying well wait a minute if
-you take the blockchain and all those
-big arrows out what is it even useful
-for well in my case it's useful for
-certain
-problems that require external trust so
-for example there has to be a place
-where I can announce that a credential
-upon which identity is based has been
-revoked and the world needs to test for
-that condition when they're seeing
-credentials presented I know that
-there's people out here who aren't in
-the identity space
-I think there's analogs to this in in
-non identity world too there's certain
-things that you need to consult the
-blockchain for but the main things that
-aren't on this list are things like
-talking to each other
-storing things doing computation
-interacting none of that stuff has to go
-through smart contracts or any of that
-it just has to have a few very small
-things that make this possible so
-besides revoking credentials in the
-identity space you have to be able to
-revoke a device if you leave your phone
-in on the backseat of an uber you need
-to be able to quickly say don't let
-anybody use that phone to impersonate me
-you need to be able to discover parties
-that are intending to be public
-you need a secret rendezvous spot so if
-you think of secret agents that you know
-they're heading off into enemy territory
-and they agree that if if they're not
-back by such-and-such a time then
-they're going to meet in the square at
-midnight or whatever well you can use a
-blockchain kind of like that as will
-agree that will rendezvous on the
-blockchain if we lose track of one
-another or have to repair a relationship
-and we can't do it by direct
-conversation and it turns out that
-Merkel proofs of state integrity between
-these two parties can be relevant now
-this last one is where I get the name
-micro ledger for this talk and that is
-basically the way that these two parties
-interact with each other has to have
-some characteristics of prove ability
-and tamper evidence even though it's not
-on the main blockchain and you can do
-that by doing some very simple well it's
-not very simple it's simple compared to
-other stuff crypto and so forth on your
-local hard drive and you know when you
-interact with the other
-passing them Merkel proof of state
-having them check it against what they
-have you end up knowing with confidence
-that both of you have the same thing and
-and you haven't drifted or
-misinterpreted one another so you end up
-basically having a tiny little ledger on
-your machine for the relationship Alice
-would have one for the relationship she
-has with Bob I'm talking tiny I'm
-talking 5k 10k little tiny files they're
-not massive they don't last necessarily
-forever they don't store any significant
-amounts of information but they just
-have an orderly sequence of hashes that
-show how state has evolved that's the
-micro ledger concept so after we started
-playing with this idea I started to see
-things a little bit different this is my
-journey again but I thought instead of
-it being kind of a time sequence I saw
-it as a continuum of centralization and
-I really think that's where my mental
-journey took me is I started out
-thinking blockchain was cool and I'm
-going to be decentralized but I wasn't
-really very decentralized in my thinking
-and took me a long time to get there you
-know I started kind of over with put it
-all in the blockchain which isn't so far
-away from traditional client-server ok
-then you start seeing people talking
-about sub chains and side chains and
-things like that that's an example of
-moving farther to the right on the
-continuum and then you hear people
-talking about well just anchor it on the
-blockchain now we're starting to get
-pretty far over to the towards the right
-if you go all the way over to the right
-you have a pure edge chain where you
-really don't need the blockchain at all
-now I don't think I'm gonna write any
-software that looks completely at that
-end of the continuum
-I think the blockchain introduces some
-characteristics of trust that I really
-need but I think I can get pretty far
-over here get all the benefits from
-blockchain that I really care about but
-not have hardly any of the drawbacks or
-complications and the only price is
-complexity darn it
-okay so I put up here on this picture
-also I have gaps right here and edge
-chain protocols when I first started
-exploring this notion of the edge chain
-I was calling the thing that we were
-building adapt because it's a
-decentralized app of course but I
-realized that what the industry is
-calling adapt is actually pretty far
-over to this side because it's typically
-running everything through a smart
-contract that does centralize
-computation and you can there are adapts
-that aren't that way so the DAP thing
-moves over towards the right there are
-some gaps that get maybe almost this far
-but you you can take it all the way over
-here and I think if you go way over to
-the right side it's not really fair to
-call that adapt because it's pretty
-different from what the industry thinks
-adapt is and I'm gonna give you some
-examples here in just a minute so just
-for kicks I'm gonna introduce a new word
-to you
-because this is why I'm excited about
-the right end of that continuum I think
-that the things on the right end of that
-continuum have this characteristic this
-is a big word you know a $24.00 word but
-it tell telly emergent so if you're
-familiar with the word teleology or T
-Liana me this has the notion that you
-have order from chaos okay but it's not
-order that's decreed by some central
-party it's order that arises
-spontaneously T Liana me is used in
-discussions about evolution and biology
-and how a very complex ecosystem can
-manifest really sophisticated patterns
-of behavior even though there's not
-anybody out there telling the Zebras
-which direction to run when the Lions
-chase them and so you may have also
-heard the word chaotic before and you
-may have run into the notion of Adam
-Smith's invisible hand in the economy
-it's the notion that you give a bunch of
-independent actors the right incentives
-and lo and behold the free market causes
-an interesting dynamic to emerge that's
-useful and that's what I think is the
-true characteristic at the far right
-side is that you give independent agents
-the ability to interact and these agents
-find useful ways to interact according
-to a protocol so this is just a little
-compare and contrast I think I'm gonna
-skip over this suffice it to say that
-daps and edge chains have a lot in
-common but I think there's some
-interesting differences and I'll maybe
-during Q&A; we can come back to this
-slide you have questions about it but
-let me now actually give you some
-examples of what I'm talking about
-when you define an edge chain protocol
-you have to answer these four questions
-what are the roles in my protocol what
-types of messages do we exchange what
-stage or sequencing rules apply and how
-our trust and incentives managed so
-here's a really familiar example okay no
-tech involved how do you buy a house
-okay what are the roles in buying a
-house well you have a buyer and a seller
-and the realtor for the buyer and the
-realtor for the seller you have a home
-inspector you have a title company these
-are roles and by the way buying a house
-is a protocol right you can't just go
-order a title insurance on some
-arbitrary home because that would be out
-of order for the it's not the sequence
-that you have to start by doing step one
-and then you go to step two and then you
-go to step three right and the parties
-in this interaction have
-responsibilities they can do certain
-things and not other things okay
-so the kinds of messages that get
-exchanged in this protocol well we have
-an offer to buy a counteroffer an
-acceptance or rejection a home report a
-title search these are messages okay
-what are the state rules that apply well
-this is an example state machine I drew
-you start by negotiating and you can go
-round and round in circles in
-negotiating eventually you exit the
+My name is Daniel Hardman, hopefully you've if you read about this session you might know a little bit about my background. I work with Hyperledger Indy project, mostly. I'm a maintainer there, and I also work for, well so I have a day job with Evernym... and then a side gig, where I work on the technical governance part of the Sovrin Foundation, which is closely connected to the Indy project.
+
+Anyway, today I'm going to talk about some concepts that have been marinating in my mind and in the minds of some people that I work with for quite a while. Not all these ideas are originally mine I want to give credit where credit is due.
+
+Lots of other smart people have been talking and thinking about this as well I'm just a spokesman for a lot of other people, and hopefully the title intrigued you a little bit. 
+
+Microledger's and edge-chains: I'm going to demystify that, and when you walk away I hope you're gonna think of this as not so much a super technical session that you've been to but instead a session that kind of has some intriguing ideas for you to think about later in whatever you're doing.
+
+## A Personal Arc [**^**](#contents) 
+
+<img src="http://i.imgur.com/5aXEDkg.png"/>
+
+I'd like to start by taking you on a little bit of a personal journey. I started working in blockchain two and a half years ago, and when I first became aware of the basic concepts of how blockchain worked and so forth I became really excited about how blockchain had solved a bunch of problems
+
+and how I was going to go conquer the world with all this new technology and it was awesome and that was a I lasted in that phase of my acquaintance with blockchain for, I don't know, several months but I start to encounter practical problems with some of the blockchain stuff I was doing. 
+
+and I hope as I describe the rest of this arc you'll smile a little bit to yourselves, and say, yeah I've kind of been through the same thing. 
+
+in a way this is kind of like the Gartner hype cycle you know there's the the spike of excitement and then the trough of disillusionment. 
+
+<img src="http://i.imgur.com/BsTgEd0.png"/>
+
+I went through learning about some of the performance and scaling issues that we had to deal with, and some of the complexity. 
+
+and then I started to realize that putting data on the blockchain had certain repercussions that I didn't always want to deal with, and that there needed to be some very careful thought about how we encrypted data.
+
+<img src="http://i.imgur.com/kdoyUEq.png"/>
+
+and then I realized encrypting it wasn't enough, it just plain shouldn't be there at all. and so hopefully you guys are recognizing these kinds of patterns in your own thinking here and then I got into the whole all regulatory compliance of GDPR thing and gee this is getting harder and
+harder.
+
+<img src="http://i.imgur.com/V5cyLYb.png"/>
+
+Then I and several of my companions discovered this notion of microledgers, and we feel like it was kind of an aha moment for us. So I'll explain what microledgers are and I think you'll see how that's relevant to this arc when I'm done.
+
+Let me just point out that that same kind of arc that I just described in my own thinking we're seeing unfold in lots of different ways in the whole blockchain space. 
+
+<img src="http://i.imgur.com/oVC0WwF.png"/>
+
+All of the things on this list here are examples of projects where somebody has thought hard about the original blockchain paradigm, and tweaked something in an interesting way because
+of that same arc, and you know the tweaks are different. 
+
+* plasma is about taking smart contracts off the blockchain
+* triple signed receipts is about preserving confidence in data but not having to keep a full history even though you have a strong proof that you're at the right state anyway 
+
+they all different things up there and if you don't know about all those, I didn't know about all of them either until I went and researched this talk, and I was looking for patterns. 
+
+I knew about some of them and I found some others there but the point is that I think the whole industry is going through a maturation phase where we're realizing that there's certain aspects of what blockchain can do that we love, and there's other aspects of what blockchain gives us that we don't love so much and we're trying to kind of wrestle against those constraints 
+
+<img src="http://i.imgur.com/ZBiVQ0J.png"/>
+
+These are the two things that I think these arcs all have in common, mine and and the things on the previous slide:  they're all trying to do less with the central big blockchain in some creative way so that they can keep the special value out of the blockchain but not have some of its downsides.
+
+## Blockchain— the new centralization [**^**](#contents)
+
+I want to just point out something I went and looked just for fun I went and looked up architecture diagrams with Google. I was looking for old client-server architecture diagrams okay and these are just three that I picked at random out of the Google image search results list 
+
+<img src="http://i.imgur.com/yYUdvNr.png"/>
+
+you see that client-server is kind of this old paradigm where we have this notion of a centralized thing, and client-server equals bad, right?
+
+we've been down that road we don't like that anymore, but here's what's interesting I also went and searched for some architecture diagrams about blockchain and some blockchain supposed to be highly decentralized and lo and behold there are lots and lots of evidence in these diagrams that blockchain is actually it just almost the exact same thing 
+
+<img src="http://i.imgur.com/py6olR5.png"/>
+
+now there's some things about blockchain that are different I'm not arguing that they're identical but the point is there is this phenomenon sometimes that blockchain has been used in a way that's far more centralized than we like to admit yes there are nodes that spread the load around and yes the nodes create this notion of diverse or I mean diffuse trust and yet all of those nodes can be treated as one bundle in the middle 
+
+and in fact in a lot of architecture diagrams that you see in presentations at this conference and any other conference you will see a little graphic that represents the blockchain and a bunch of arrows coming to it from all over the place and what's that that's centralization 
+
+## Where Blockchain is Needed (or Not) [**^**](#contents)
+
+<img src="http://i.imgur.com/ugjLkS9.png"/>
+
+so we don't necessarily need the blockchain for everything that we think we need it for the Vitalik, back in April, I'll let you read that quote there, well actually I'm going to read it because it's such a good one:
+
+>Blockchains.. are a far less efficient computer and database than technologies that have existed for over 40 years... efficiency is not what block chains are built for - [Vitalik Buterin, April 2018](https://www.youtube.com/watch?v=jJt3yag96fU)
+
+if you actually go and look up that quote he does a comparison of how much it costs to do certain kinds of computations on Ethereum versus AWS, and it's about a million to one difference in efficiency.
+
+>"Let's say you and I, we are happy to do some transactions with each other.. We don't really need to use the blockchain unless we disagree with each other... Why would you need the mediator if you are actually in accordance...?" - Arther Gervais (Founder of Liquidity Netowrk), June 2018
+
+Then founder of Liquidity Network, in June. This is a really good quote: - bottom line is this notion, you know what? Why would you need a mediator if you're actually agreeing with each other? 
+
+now there's an answer to that question but there's also, that question exposes some interesting things to think about. 
+
+I think smart people in the industry are starting to question some basic assumptions. 
+
+<img src="http://i.imgur.com/ZfhYNAD.png"/>
+
+here's my picture of an architecture that's centralized in blockchain oriented you got the blockchain in the middle here and you got the arrows coming to it right this is how I was thinking about my own particular problem which was the identity management relationship management problem that's at the core of identity when I first came into this world and if you see, 
+
+we've got two parties that each have a relationship and want to trust each other we have  Alice we have Bob and Alice needs to know some things about her view of this relationship and she also needs to know some things about Bob's view of the relationship okay and these two views of the world
+
+
+what's symmetrical and complimentary but they're using the blockchain in the middle as the trusted intermediary and like I said this view of the world sort of works but it chafed on me and it became increasingly uncomfortable as I learned some of the drawbacks and challenges to it 
+
+## Microledgers and Edge-Chains [**^**](#contents)
+
+<img src="http://i.imgur.com/kX93eTU.png"/>
+
+Here's what I evolved to, and this is what I want to talk to you about, is the microledger notion. In this notion you still have a blockchain, and blockchain does have relevance it's highly relevant but it's not the main mediator of the relationship between Alice and Bob.
+
+Alice and Bob talk to each other directly and then they have this kind of back-channel thing that they can use to interact with the blockchain to the extent that they need to and I'm gonna talk about what they really need the blockchain for but it's not as much as we thought at least as much as I thought to begin with 
+
+so when you have this kind of a relationship what you have is two parties that are kind of at the edge of the old diagram, instead of the thing that's in the middle, you have the things that are at the edges okay and these things at the edge are talking to each other. this is how I get the concept of an edge chain 
+
+that's where that word in the title of the presentation comes from, is the notion that you can have some of the same characteristics of a blockchain, you can have high trust and tamper resistance, and diffuse patterns of communication and so forth. but, you don't have the blockchain sitting in the middle of it. it's all happening out at the edges
+
+<img src="http://i.imgur.com/c0mtJW0.png"/>
+
+
+okay so this evolves even further: if you have this person Alice having relationships with multiple people, she
+continues to have these lateral side relationships. she doesn't have them through the blockchain. 
+
+now you might be saying well wait a minute if you take the blockchain and all those big arrows out what is it even useful for?
+
+## How Blockchain is Still Relevant [**^**](#contents)
+
+<img src="http://i.imgur.com/uJ1Kkwq.png"/>
+
+In my case it's useful for certain problems that require external trust. For example, there has to be a place where I can announce that a credential, upon which identity is based, has been revoked.  The world needs to test for that condition when they're seeing credentials presented. 
+
+I know that there's people out here who aren't in the identity space. I think there's analogs to this in in non-identity world too. 
+
+There's certain things that you need to consult the blockchain for. The main things that aren't on this list are things like: 
+  * talking to each other
+  * storing things
+  * doing computation
+  * interacting
+None of that stuff has to go through smart contracts or any of that. It just has to have a few very small things that make this possible. 
+
+Besides revoking credentials, in the identity space: 
+  * You have to be able to revoke a device: If you leave your phone in on the backseat of an uber you need to be able to quickly say don't let anybody use that phone to impersonate me. 
+  * you need to be able to discover parties that are intending to be public 
+  * you need a secret rendezvous spot: so if you think of secret agents that you know they're heading off into enemy territory, and they agree that if if they're not back by such-and-such a time, then they're going to meet in the square at midnight, or whatever...
+You can use a blockchain kind of like that: agree that we'll rendezvous on the blockchain if we lose track of one another, or have to repair a relationship and we can't do it by direct conversation.
+
+It turns out that Merkel proofs of state integrity between these two parties can be relevant. 
+
+This last one is where I get the name micro ledger for this talk. That is, the way that these two parties interact with each other, has to have some characteristics of proveability and tamper-resistance even though it's not on the main blockchain. 
+
+You can do that by doing some very simple (well it's not very simple... it's simple compared to other stuff) crypto on your local hard drive..
+
+When you interact with the other, passing them Merkel proof-of-state and having them check it against what they have.
+
+you end up knowing with confidence that both of you have the same thing, and and you haven't drifted or misinterpreted one another. 
+
+You end up basically having a tiny little ledger on your machine for the relationship. Alice would have one for the relationship she has with Bob. I'm talking tiny, I'm talking 5k 10k little tiny files. 
+
+They're not massive, they don't last necessarily forever, they don't store any significant amounts of information, but they just have an orderly sequence of hashes that show how state has evolved that's the micro ledger concept.
+
+## App Centralization Continuum [**^**](#contents)
+
+<img src="http://i.imgur.com/lnKUizp.png"/>
+
+After we started playing with this idea I started to see things a little bit different this is my journey again but I thought instead of it being kind of a time sequence I saw it as a continuum of centralization and I really think that's where my mental journey took me is I started out thinking blockchain was cool and I'm going to be decentralized but I wasn't really very decentralized in my thinking and took me a long time to get there 
+
+you know I started over with "put it all in the blockchain" which isn't so far away from traditional client-server 
+
+then you start seeing people talking about sub chains and side chains and things like that that's an example of moving farther to the right on the continuum 
+
+then you hear people talking about well just anchor it on the blockchain now we're starting to get pretty far over to the towards the right if you go all the way over to the right you have a pure edge chain where you really don't need the blockchain at all.
+
+I don't think I'm gonna write any software that looks completely at that end of the continuum. I think the blockchain introduces some characteristics of trust that I really need but I think I can get pretty far over here get all the benefits from blockchain that I really care about but not have hardly any of the drawbacks or complications and the only price is complexity darn it
+
+okay so I put up here on this picture, also I have gaps right here and edge chain protocols. when I first started exploring this notion of the edge chain, I was calling the thing that we were building a dApp. because it's a decentralized app, of course. but I realized that what the industry is calling a dApp is actually pretty far over to this side because it's typically running everything through a smart contract that does centralize computation. 
+
+there are dApps that aren't that way, so the DAP thing moves over towards the right. There are some gaps that get maybe almost this far, but you you can take it all the way over here, and I think if you go way over to the right side it's not really fair to call that a dApp because it's pretty different from what the industry thinks a dApp is. 
+
+## Teleomergent - More than a decentralized app [**^**](#contents)
+
+<img src="http://i.imgur.com/1E6jCjZ.png"/>
+
+I'm gonna give you some examples here in just a minute. Just for kicks, I'm gonna introduce a new word to you, because this is why I'm excited about the right end of that continuum. I think that the things on the right end of that continuum have this characteristic.
+
+this is a big word, you know, a $24.00 word. but it's "telly-o-mergent." If you're familiar with the word [teleology](https://www.merriam-webster.com/dictionary/teleology) or [telonomy](https://www.merriam-webster.com/dictionary/teleonomy),  this has the notion that you have order from chaos. 
+
+Okay? but, it's not order that's decreed by some central party it's order that arises spontaneously. Teleonomy is used in discussions about evolution and biology and how a very complex ecosystem can manifest really sophisticated patterns of behavior even though there's not anybody out there telling the Zebras which direction to run when the Lions chase them 
+
+so you may have also heard the word chaotic before and you may have run into the notion of Adam Smith's invisible hand in the economy it's the notion that you give a bunch of independent actors the right incentives and lo and behold the free market causes an interesting dynamic to emerge that's useful 
+
+and that's what I think is the true characteristic at the far right side is that you give independent agents the ability to interact and these agents find useful ways to interact according to a protocol. 
+
+## Dapps vs Edgechain Protocols [**^**](#contents)
+
+this is just a little compare and contrast I think I'm gonna skip over this suffice it to say that daps and edge chains have a lot in common but I think there's some interesting differences 
+
+<img src="http://i.imgur.com/cVg6gFH.png"/>
+
+and I'll maybe during Q&A; we can come back to this slide if you have questions about it, but let me now actually give you some examples of what I'm talking about.
+
+## Defining an Edgechain Protocol [**^**](#contents)
+
+<img src="http://i.imgur.com/vIDt6iO.png"/>
+
+When you define an edge chain protocol you have to answer these four questions:
+
+* what are the roles in my protocol?
+* what types of messages do we exchange?
+* what stage or sequencing rules apply?
+* and how our trust and incentives managed?
+
+<img src="http://i.imgur.com/XEpCvty.png"/>
+
+so here's a really familiar example, okay? no tech involved. how do you buy a house? What are the roles in buying a house?
+
+well you have a buyer and a seller, and the realtor for the buyer and the realtor for the seller. you have a home inspector, you have a title company. 
+
+these are roles, and by the way, buying a house is a protocol. You can't just go order a title, insurance, on some arbitrary home, because that would be out of order for the, it's not the sequence. 
+
+You have to start by doing step one and then you go to step two and then you go to step three right and the parties in this interaction have responsibilities they can do certain things, and not other things. 
+
+The kinds of messages that get exchanged in this protocol: we have an offer to buy, a counter-offer, an acceptance or rejection, a home report, a title search. These are messages. 
+
+What are the state rules that apply? well this is an example state machine I drew you start by negotiating and you can go round and round in circles in negotiating eventually you exit the
 negotiating phase
 you're in the preparing phase where you
 order a title search and a home report
@@ -1046,3 +817,10 @@ want to get some more information about
 if you just come and talk to me that'd
 be great and thanks for your attention I
 appreciate it
+
+
+Great talk by Daniel Hardman! 
+
+I think soon the entire industry will be as excited about microledgers and edge-chains as I am.
+
+@dhh1128 #Hyperledger @evernym #blockchain #crypto https://www.youtube.com/watch?v=iK5vd7-b1zA&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=100
