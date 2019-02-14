@@ -21,6 +21,7 @@
 * [Teleomergent - More than a decentralized app](#teleomergent---more-than-a-decentralized-app-)
 * [Dapps vs Edgechain Protocols](#dapps-vs-edgechain-protocols-)
 * [Defining an Edgechain Protocol](#defining-an-edgechain-protocol-)
+* [A Familiar Example—Buying a House](#a-familiar-example—buying-a-house-)
 * [Trust Ping Protocol](#trust-ping-protocol-)
 * [Tic Tac Toe](#tic-tac-toe-)
 * [DID method for peer (private pairwise) DIDs](#did-method-for-peer-private-pairwise-dids-)
@@ -237,6 +238,8 @@ When you define an edge chain protocol you have to answer these four questions:
 * what types of messages do we exchange?
 * what stage or sequencing rules apply?
 * and how our trust and incentives managed?
+
+## A Familiar Example—Buying a House [**^**](#contents)
 
 <img src="http://i.imgur.com/XEpCvty.png"/>
 
@@ -654,8 +657,3 @@ be great and thanks for your attention I
 appreciate it
 
 
-Great talk by Daniel Hardman! 
-
-I think soon the entire industry will be as excited about microledgers and edge-chains as I am.
-
-@dhh1128 #Hyperledger @evernym #blockchain #crypto https://www.youtube.com/watch?v=iK5vd7-b1zA&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=100
