@@ -2,18 +2,18 @@
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 **Self-Sovereign, Blockchain and Decentralized Identity Resources**
 
+This is a gathering of educational materials around decentralized, self-sovereign, and blockchain identity. Its an index for research, training, developers, students, end-users, investors, and the enterprise to more easily learn and navigate the decentralized identity landscape.
+
 ![](https://i.imgur.com/9KpJRDr.png)
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies,  governments, and others correlate our interactions across different services and locations by default. It  won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
 
-This is a gathering of educational materials around decentralized, self-sovereign, and blockchain identity. Its an index for research, training, developers, students, end-users, investors, and the enterprise to more easily learn and navigate the decentralized identity landscape.
 
 ## Contents
 
 * [Introduction](#Introduction)
   * [Related Repositories](#related-repositories)
-  * [How this project began](#how-this-project-began)
-  * [What is Decentralized Identity?](#what-is-decentralized-identity)
+  * [What is Decentralized ID?](#what-is-decentralized-id-)
   * [Link Shorthand](#Link-Shorthand)
 * [History](#History)
   * [The Augmented Social Network and the IDCommons](#the-augmented-social-network-and-the-idcommons)
@@ -69,26 +69,30 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Sources](#Sources)
   * [Tips Welcome](#tips-welcome)
 
-### Introduction[**^**](#Contents)
+## Introduction [**^**](#Contents)
 
->Thanks to those who are working to make digital identity, and the world, a better place.
+<code>Thanks to those who are working to make digital identity, and the world, a better place!</code>
 
-### Related Repositories[**^**](#Contents)
+I've collected a ton of other crypto related resources in the [**SuperSource**](https://discord.gg/ahTuPMY) Discord chat server, and I have a few other repositories for topics ranging from [bitcoin history](https://github.com/infominer33/bitcoin-history) to [trading crypto](https://github.com/infominer33/learn-crypto-trading) to [SEO](https://github.com/infominer33/learn-seo). Have a look around! 
+
+Feel free to contact me. I'm happy to field questions, research niche blockchain topics, and discuss the potential for collaboration.
+—[infominer.id](https://infominer.id)
+
+### Related Repositories [**^**](#Contents)
 
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) - The original list for projects related to blockchain-identity. 
 * [/awesome-decentralized-id/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - A folder in this repository, for information specific to Hyperledger Indy, the Sovrin Foundation, and Evernym.
 * [/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) - Another sub-folder to organize information about Self-Sovereign-Identity.
 
+### What is Decentralized ID? [**^**](#Contents)
 
-### How This Project Began[**^**](#Contents)
+The essence of Decentralized-ID is to create systems for identification that are not owned by any one particular organization, and global collaboration in support of interoperability among emerging technologies. 
 
-I've collected a ton of other crypto related resources in the [**SuperSource**](https://discord.gg/ahTuPMY) Discord chat server, and I have other repositories similar to this for other topics, beyond identity. Have a look around.  —[infominer.id](https://infominer.id)
-
----
-
-**[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and [Contributions](#brought-to-you-by-infominer-and-crypto-supersource) Welcome**
+It's impossible to have a conversation about decentralized identity without discussing blockchain and self sovereign identity. Blockchain fueled longstanding efforts to create a privacy preserving internet-wide identity protocol. Self Sovereign Identity principles have helped to shape the narrative around putting the identity owner in control over their personal information.
 
 ---
+
+**Pull Requests Welcome**
 
 #### Link Shorthand:
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
@@ -96,7 +100,8 @@ I've collected a ton of other crypto related resources in the [**SuperSource**](
 
 ## History[**^**](#Contents)
 
-This isn't meant to be a complete history, but to provide enough relevant backround to provide context for the this arrangement of resources.
+To provide a little context for the rest of the information in this repository.
+
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
