@@ -21,6 +21,13 @@
 * [Teleomergent - More than a decentralized app](#teleomergent---more-than-a-decentralized-app-)
 * [Dapps vs Edgechain Protocols](#dapps-vs-edgechain-protocols-)
 * [Defining an Edgechain Protocol](#defining-an-edgechain-protocol-)
+* [Trust Ping Protocol](#trust-ping-protocol-)
+* [Tic Tac Toe](#tic-tac-toe-)
+* [DID method for peer (private pairwise) DIDs](#did-method-for-peer-private-pairwise-dids-)
+* [Peer DID Method Spec](#peer-did-method-spec-)
+* [Megaphone Protocol](#megaphone-protocol-)
+* [Call to Action](#call-to-action-)
+* [Q&A](#q&a-)
 
 ## Microledgers and Edge-Chains [**^**](#contents)
 **Lightly edited transcript from Youtube.**
@@ -243,302 +250,130 @@ You have to start by doing step one and then you go to step two and then you go 
 
 The kinds of messages that get exchanged in this protocol: we have an offer to buy, a counter-offer, an acceptance or rejection, a home report, a title search. These are messages. 
 
-What are the state rules that apply? well this is an example state machine I drew you start by negotiating and you can go round and round in circles in negotiating eventually you exit the
-negotiating phase
-you're in the preparing phase where you
-order a title search and a home report
-and all these things and anyway you end
-up consummating the deal or not
-consummating it but that is an edge
-protocol why is it an edge protocol
-there's no blockchain involved right
-it's people out at the edge but there's
-a hundred thousand things like this
-ordering a hamburger is a protocol right
-you can't just walk up to somebody and
-say here's seven twenty five you have to
-walk up to him and say I want number
-three on the menu would then give him
-725 after they ask you whether you want
-it to be is that to go or not to go
-right there's this whole protocol
-involved in that that we all know so the
-reason I'm harping on this is because
-all kinds of business problems are
-solved by protocols all the time and in
-fact they're mostly edge protocols and
-that's a cool thing if you can just hook
-them up to blockchain for just the parts
-that you need them for and not all of it
-the the weight of what you're building
-goes way down so here's a simple edge
-protocol that's techy this one is one
-that's relevant to the identity space
-this is the trust ping protocol and in
-Indy there is a hype which is like an
-RFC about how you ping another person
-you have their D ID for them that's
-their identity their identifier excuse
-me and given that identifier you should
-be able to reach out and talk to that
-person so how do you do it
-and according to the whole indie
-technology should be able to do it no
-matter what transport you're used to
-send messages whether it's HTTP or mail
-or Bluetooth or whatever and you should
-know some things when you engage in this
-trust pink about whether the person on
-the other side is trustworthy and how
-much trust might have been eroded by the
-kind of mechanisms you used in between
-you and stuff like that so there's a
-hype about that you can see the roles
-the ping ER and the ping e and the
-message types let me give you a quick
-demo of this protocol what I have here
-I'm gonna start up an indie agent and
-that agent is going to be listening on
-email and I'm going to talk to it by
-email and I'm gonna use the trust ping
-protocol to to interact with it so this
-is the yeah this is a trust ping
-protocol documentation and the trust
-ping documentation says that if I want
-to ping somebody this is the kind of
-JSON message I need to send it so I'm
-gonna send it one let's go over here to
-my email and I'll bring up my little
-trust ping nothing up my sleeve here's
-the the JSON that I'm sending which is
-just a direct copy and paste out of this
-pipe here so that's the that's the stuff
-that I sent and let's see
-message was sent that's good now what we
-got to see is if the message is going to
-come back there we go so the agent on
-the other side pinged me back and let's
-see what it sent me it sent me a name
-style message except it's not fully
-encrypted right now I turned off the
-encryption this is the JSON that I got
-back it says hi from indie agent so I've
-just engaged in a protocol here now what
-does blockchain add to this I could do
-this entirely without blockchain but
-there's some things I wouldn't have I
-wouldn't have confidence in the other
-sender somebody could sit in between me
-in this protocol and mess with my mind
-right be a man-in-the-middle so most of
-the protocol is not modified but by
-adding a little bit of blockchain pixie
-dust I'll call it I can increase the
-trust behind this protocol and and
-that's the kind of thing that I'm seeing
-over and over again as I get my head
-wrapped
-around this paradigm is you start with a
-paradigm that's really not very
-blockchain heavy and then you say okay
-what are the things that's that's
-wonderful about blockchain that I need
-to add into this and how can I do it as
-light as possible okay so on to the next
-thing here
-Tic Tac Toe we could also play
-tic-tac-toe I'm gonna wait and see if I
-have enough time I'll do a demo of
-tic-tac-toe if you feel like it later
-but anyway I have a demo of that if you
-want to this one was not
-there's no blockchain goodness on this
-this is all the way to the complete
-right side is being a pure hedge
-protocol because you don't need a
-blockchain to play tic-tac-toe okay this
-is a more serious one what if you want
-to manage a relationship so Alice and
-Bob live across the world they use
-complicated complicated technologies
-each of them has different technologies
-one of them has a laptop and a cell
-phone and the other one has a desktop
-computer at work and two cell phones and
-something in the cloud and they want to
-talk to each other and there's different
-pieces of software running on all these
-different things at different version
-levels and all this kind of stuff how
-does Alice tell Bob hey you shouldn't
-accept any messages anymore from my old
-cell phone that I just sent to the
-recycling I think they told me they were
-gonna wipe the hard drive on it but I
-just don't trust I'm gonna tell Bob not
-to do that you know how do you how does
-Alice say hey I upgraded my own world
-here and I've got a new device and now
-if I send messages from that device you
-should trust them
-how does Alice say I'm gonna rotate my
-keys
-all of these are concerns of managing a
-relationship and you need a protocol to
-manage a relationship and guess what
-it's mostly an edge protocol so this is
-a more serious one that matters has
-pretty high stakes and I've been working
-on a method to describe how di DS can be
-created and the did Docs associated with
-those di DS can be shared and there's
-you can see the the roles here are the
-participants in the relationship and
-there's some message types that are
-described here there's actually a did
-method spec draft and I'll show that to
-you really briefly here and you can go
-look it up yourself
-later if you want to I'll give you the
-URL and you can go read it but anyway
-there's this whole spec behind this and
-so this one is the thing that has caused
-I think the most ruminating on the
-concept of a micro ledger because the
-micro ledger as a persistence mechanism
-could provide high trust to back the did
-method that I'm mentioning here
-let me go on to another one that's maybe
-a little bit more interesting so this is
-just an imaginary one but I think I'd
-love if somebody in the audience wants
-to build this I'd be super excited and I
-would buy your app a megaphone protocol
-what I'd like is something where if I'm
-sitting on the beach in Indonesia and a
-tsunami happens I can grab my phone and
-push a button and say run a tsunamis
-coming and my phone contacts all the
-phones all around the resort where I'm
-staying which in turn contact all the
-phone's a mile inland and everybody
-starts running not just the people who
-can see the wave would that be cool I
-want basically a virtual megaphone but
-here's a why do I need blockchain
-there's a really good answer to this I
-can't build this right now because if
-everybody had a real megaphone in real
-life you'd have problems with people
-using it irresponsibly wouldn't you so
-there's a trust problem I can use
-blockchain to require people to put
-stake or put their identity in escrow
-against their responsible behavior so
-that a person can say look when it's a
-life-or-death situation I need an EpiPen
-right now I'm willing to you know have a
-hundred dollars on the line or I'm
-willing to have my identity disclosed if
-I am shown to use that irresponsibly and
-that protocol can hook back to the
-blockchain as a basis for that trust but
-most of everything that's happening is
-all out on the edge okay and you can see
-some of the other ones you know my child
-is lost at Disneyland or I'm desperate
-to get on this plane as somebody in this
-line willing to send me to sell me their
-plane ticket 4000 euros any of these
-kinds of things could be done with this
-kind of a protocol and you would just
-need peer-to-peer communication in your
-app or you could have the app go back to
-the cloud and talk to other apps through
-the cloud if you needed to that would be
-more centralized but anyway there's some
-roles in this a speaker a listener and a
-relay so you could have an app and a
-person could talk through your app to
-another phone that was close to you and
-so the word would spread right if
-anybody's interested there's a link to
-the concept doc when you download the
-slides you can go read more about that
-protocol so here's my suggestion to you
-I hope that I haven't gone too too deep
-I've tried to stay really high-level and
-I hope that I've been general enough
-that even if you're not in the Indy
-space the identity space you're thinking
-a little bit to yourself yeah maybe
-there's some ways that I'm taking for
-granted that we need to use the
-blockchain for something and maybe I
-shouldn't
-maybe I should think from the other
-direction instead start thinking about
-the problem as an edge protocol problem
-and then say how do I sprinkle the the
-magic pixie dust a blockchain just
-enough to get the properties of trust or
-the constraints that I need and what
-I've found is that this is a very
-liberating experience two and a half
-years in a lot of the problems that I
-initially thought were really yucky I'm
-now thinking well if I flip it on its
-head I can get what I need to and I
-don't have the performance problem or I
-don't have the scaling problem or I
-don't have the centralization and trust
-problem or the regulatory problem so I
-want to encourage you to do that think
-in terms of the edge with a blockchain
-as a useful foundation that you can
-refer to but not necessarily as the
-place where it all happens you don't
-have to compute everything in a smart
-contract and you don't have to and if
-you say well I don't know how to do that
-there are some problems that you must
-use
-blockchain for but I'm just saying use
-it wisely and not just peanut butter
-spread it on everything and then I would
-love to get some people here to work
-with me on this peer did method I think
-it's a very high value for the identity
-space that's one specific to my area of
-expertise so with that I'll go back and
-demo something if you want or we can go
-into QA I think we got about ten minutes
-left which is good I was trying hard to
-not go till the very last second well it
-doesn't necessarily have to be a person
-but some entity on the edge yeah and I'm
-really using the term edge of course is
-really vague but what I mean by it
-mostly is it's not the thing in the
-center of the architecture diagram okay
-and then the second question the concept
-of the micro ledger is there any concept
-of persisting the final values of the
-micro ledger onto a blockchain yeah so
-this is if I go back to let's see the
-notion of anchoring something on a
-blockchain a number of people in
-industry are exploring different ways to
-do that and one of the things you could
-anchor on a blockchain is a micro ledger
-so if you needed to prove for example to
-a third party let's say Alice and Bob
-are interacting and it's it's a private
-personal relationship but let's say Bob
-doesn't fully trust Alice and maybe he's
-afraid that alice is gonna steal all of
-his cool music for his next album even
-because he's been sharing it with her so
+What are the state rules that apply? well this is an example state machine I drew. You start by negotiating and you can go round and round in circles in negotiating, eventually you exit the negotiating phase. you're in the preparing phase where you order a title search and a home report and all these things and anyway you end up consummating the deal or not consummating it 
+
+That is an edge protocol. 
+
+Why is it an edge protocol? 
+
+There's no blockchain involved, right? it's people out at the edge.
+
+There's a hundred thousand things like this, ordering a hamburger is a protocol. You can't just walk up to somebody nd say, "here's seven twenty five." You have to walk up to him and say, "I want number three on the menu," then give him $7.25 after they ask you "is that to go or not?" "to go" right? 
+There's this whole protocol involved in that, that we all know. The reason I'm harping on this is because all kinds of business problems are solved by protocols all the time, and in fact, they're mostly edge protocols. 
+
+That's a cool thing if you can just hook them up to blockchain for just the parts that you need them for, and not all of it. The weight of what you're building goes way down. 
+
+## Trust Ping Protocol [**^**](#contents)
+
+<img src="http://i.imgur.com/pUnUIiD.png"/>
+
+Here's a simple edge protocol that's techy. this one is relevant to the identity space. This is the trust ping protocol, and in Indy there is a HIPE (which is like an RFC) about how you ping another person. 
+
+You have their DID, for them that's their identifier, and given that identifier you should be able to reach out and talk to that person. 
+
+So how do you do it? According to the whole Indy technology should be able to do it no matter what transport you're used to send messages whether it's HTTP or mail or Bluetooth or whatever. 
+
+You should know some things when you engage in this trust ping about whether the person on the other side is trustworthy and how much trust might have been eroded by the kind of mechanisms you used in between you. 
+
+There's a HIPE about that, you can see the roles, the pinger and the pingee; and the message types. 
+
+let me give you a quick demo of this protocol. I'm gonna start up an indie agent, and that agent is going to be listening on email, and I'm going to talk to it by email, and I'm gonna use the trust ping protocol to to interact with it. 
+
+<img src="http://i.imgur.com/SA01z4J.png"/>
+
+This is the [trust ping protocol documentation](https://github.com/hyperledger/indy-hipe/pull/67), and the trust ping documentation says that if I want to ping somebody this is the kind of JSON message I need to send it. 
+
+So, I'm gonna send it one. Let's go over here to my email, and I'll bring up my little trust ping. nothing up my sleeve. here's the the JSON that I'm sending, which is just a direct copy and paste out of this HIPE here... so that's the that's the stuff that I sent.
+
+and let's see... message was sent. that's good. now what we've got to see is if the message is going to come back... there we go. 
+
+<img src="http://i.imgur.com/qe7MocA.png"/>
+
+so the agent on the other side pinged me back and let's see what it sent me: it sent me an aim style message. 
+
+This is the JSON that I got back, it says "hi" from Indy agent. So, I've just engaged in a protocol. 
+
+Now what does blockchain add to this? I could do this entirely without blockchain, but there's some things I wouldn't have: I wouldn't have confidence in the other sender. Somebody could sit in between me in this protocol and mess with my mind, right? be a man-in-the-middle.
+
+So most of the protocol is not modified, but by adding a little bit of blockchain pixie dust, I'll call it, I can increase the trust behind this protocol.  
+
+That's the kind of thing that I'm seeing over and over again as I get my head wrapped around this paradigm is you start with a paradigm that's really not very blockchain heavy, and then you say "what are the things that's wonderful about blockchain, that I need to add into this? and how can I do it as light as possible?" 
+
+## Tic Tac Toe [**^**](#contents)
+
+<img src="http://i.imgur.com/Ym9zesW.png"/>
+
+okay so on to the next thing... here. Tic Tac Toe. We could also play tic-tac-toe. I'm gonna wait and see if I have enough time. I'll do a demo of tic-tac-toe if you feel like it later. but anyway I have a demo of that if you want to. this one was not there's no blockchain goodness on this this is all the way to the complete right side is being a pure hedge protocol because you don't need a blockchain to play tic-tac-toe okay.
+
+## DID method for peer (private pairwise) DIDs [**^**](#contents)
+
+<img src="http://i.imgur.com/T3nCl47.png"/>
+
+This is a more serious one. What if you want to manage a relationship? Alice and Bob live across the world, they use complicated technologies. Each of them has different technologies. One of them has a laptop, and a cell phone; and the other one has a desktop computer at work, and two cell phones, and something in the cloud. 
+
+They want to talk to each other and there's different pieces of software running on all these different things at different version levels and all this kind of stuff. 
+
+How does Alice tell Bob: "you shouldn't accept messages anymore from my old cell phone that I just sent to the recycling"? 
+
+I think they told me they were gonna wipe the hard drive on it but I just don't trust I'm gonna tell Bob not to do that. How does Alice say, "I upgraded my own world here, and I've got a new device, and now if I send messages from that device you
+should trust them."
+
+how does Alice say I'm gonna rotate my keys? all of these are concerns of managing a relationship, and you need a protocol to manage a relationship... and guess what? it's mostly an edge protocol. 
+
+## Peer DID Method Spec [**^**](#contents)
+
+This is a more serious one that has pretty high stakes. I've been working on a method to describe how DIDs can be created, and the DID docs associated with those DIDs can be shared.
+
+You can see the the roles here are the participants in the relationship and there's some message types that are described here there's actually a [DID method spec draft](https://dhh1128.github.io/peer-did-method-spec/index.html) and I'll show that to you really briefly here and you can go look it up yourself later if you want to 
+
+<a href="https://dhh1128.github.io/peer-did-method-spec/index.html"><img src="http://imgur.com/QlhWEmfl.png" /></a>
+
+
+I'll give you the URL and you can go read it, but there's this whole spec behind this, and this is what has caused, I think, the most ruminating on the concept of a microledger... because the microledger as a persistence mechanism could provide high trust to back the did method that I'm mentioning. 
+
+## Megaphone Protocol [**^**](#contents)
+
+Let me go on to another one that's maybe a little bit more interesting so this is just an imaginary one but I think I'd love if somebody in the audience wants to build this I'd be super excited and I would buy your app.
+
+<img src="http://i.imgur.com/wzji3sc.png"/>
+
+A megaphone protocol, what I'd like is something where if I'm sitting on the beach in Indonesia and a tsunami happens... I can grab my phone and push a button and say "run a tsunamis coming" and my phone contacts all the phones all around the resort where I'm staying which in turn contact all the phone's a mile inland and everybody starts running not just the people who can see the wave. Would that be cool? 
+
+I want basically a virtual megaphone, but here's a "why do I need blockchain?" there's a really good answer to this, I can't build this right now, because if everybody had a real megaphone in real life you'd have problems with people using it irresponsibly, wouldn't you? 
+
+So there's a trust problem, I can use blockchain to require people to put stake, or put their identity in escrow against their responsible behavior. So that a person can say, when it's a life-or-death situation, "I need an EpiPen right now!"
+
+I'm willing to you know have a hundred dollars on the line or I'm willing to have my identity disclosed if I am shown to use that irresponsibly and that protocol can hook back to the blockchain as a basis for that trust but most of everything that's happening is all out on the edge. 
+
+you can see some of the other ones, you know, "my child is lost at Disneyland," or "I'm desperate to get on this plane as somebody in this line willing to send me to sell me their plane ticket 4000 euros?" 
+
+any of these kinds of things could be done with this kind of protocol, and you would just need peer-to-peer communication in your app. Or you could have the app go back to the cloud and talk to other apps through the cloud, if you needed to.
+
+that would be more centralized but anyway there's some roles in this a speaker a listener and a relay so you could have an app and a person could talk through your app to another phone that was close to you and so the word would spread right if anybody's interested there's a link to the concept doc when you download the slides you can go read more about that protocol 
+
+## Call to Action [**^**](#contents)
+
+<img src="http://i.imgur.com/xLHfZ7b.png"/>
+
+I hope that I haven't gone too too deep, I've tried to stay really high-level and I hope that I've been general enough that even if you're not in the Indy space, the identity space, you're thinking a little bit to yourself yeah maybe there's some ways that I'm taking for granted 
+
+that we need to use the blockchain for something... and maybe I should think from the other direction instead start thinking about the problem as an edge protocol problem and then say how do I sprinkle the the magic pixie dust a blockchain just enough to get the properties of trust or the constraints that I need 
+
+what I've found is that this is a very liberating experience. Two and a half years in, a lot of the problems that I initially thought were really yucky, I'm now thinking, "well if I flip it on its head I can get what I need to and I
+don't have the performance problem or I don't have the scaling problem or I don't have the centralization and trust problem or the regulatory problem. 
+
+So I want to encourage you to do that. Think in terms of the edge, with a blockchain as a useful foundation that you can refer to but not necessarily as the place where it all happens. You don't have to compute everything in a smart contract. 
+
+there are some problems that you must use blockchain for but I'm just saying use it wisely, and not just peanut butter spread it on everything. 
+
+I would love to get some people here to work with me on this peer did method I think it's a very high value for the identity space that's one specific to my area of expertise so with that I'll go back and demo something if you want or we can go into QA I think we got about ten minutes
+left which is good 
+
+## Q&A [**^**](#contents)
+
+<img src="http://i.imgur.com/HNmcUfN.png"/>
+
+I was trying hard to not go till the very last second well it doesn't necessarily have to be a person but some entity on the edge yeah and I'm really using the term edge of course is really vague but what I mean by it mostly is it's not the thing in the center of the architecture diagram okay and then the second question the concept of the micro ledger is there any concept of persisting the final values of the micro ledger onto a blockchain yeah so this is if I go back to let's see the notion of anchoring something on a blockchain a number of people in industry are exploring different ways to do that and one of the things you could anchor on a blockchain is a micro ledger so if you needed to prove for example to a third party let's say Alice and Bob are interacting and it's it's a private personal relationship but let's say Bob doesn't fully trust Alice and maybe he's afraid that alice is gonna steal all of his cool music for his next album even because he's been sharing it with her so
 he goes and he anchors some things on
 the blockchain to provide evidence so
 that if anybody ever you know if there's
