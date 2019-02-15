@@ -15,7 +15,7 @@
 * [A Personal Arc](#a-personal-arc)
 * [Blockchain— the new centralization](#Blockchain—-the-new-centralization)
 * [Where Blockchain is Needed (or Not)](#where-blockchain-is-needed-or-not-)
-* [Microledgers and Edge-Chains](#microledgers-and-edge-chains-)
+* [Microledgers](#microledgers-)
 * [How Blockchain is Still Relevant](#how-blockchain-is-still-relevant-)
 * [App Centralization Continuum](#app-centralization-continuum-)
 * [Teleomergent - More than a decentralized app](#teleomergent---more-than-a-decentralized-app-)
@@ -133,11 +133,11 @@ we've got two parties that each have a relationship and want to trust each other
 
 what's symmetrical and complimentary but they're using the blockchain in the middle as the trusted intermediary and like I said this view of the world sort of works but it chafed on me and it became increasingly uncomfortable as I learned some of the drawbacks and challenges to it 
 
-## Microledgers and Edge-Chains [**^**](#contents)
+## Microledgers [**^**](#contents)
 
 <img src="http://i.imgur.com/kX93eTU.png"/>
 
-Here's what I evolved to, and this is what I want to talk to you about, is the microledger notion. In this notion you still have a blockchain, and blockchain does have relevance it's highly relevant but it's not the main mediator of the relationship between Alice and Bob.
+Here's what I evolved to, and this is what I want to talk to you about, is the microledger notion. In this notion you still have a blockchain, and blockchain does have relevance it's highly relevant, but it's not the main mediator of the relationship between Alice and Bob.
 
 Alice and Bob talk to each other directly and then they have this kind of back-channel thing that they can use to interact with the blockchain to the extent that they need to and I'm gonna talk about what they really need the blockchain for but it's not as much as we thought at least as much as I thought to begin with 
 
