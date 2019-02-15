@@ -32,6 +32,7 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
 * [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
 * [BCGov's Verifiable Organizations Network (VON)](#bcgovs-verifiable-organizations-network-von)
 * [Evernym-Sovrin-Indy Adoption](#Evernym-Sovrin-Indy-Adoption)
+* [Hyperledger Global Forum—2018](#hyperledger-global-forum—2018-)
 * [GDPR](#EU-General-Data-Protection-Regulation-Act)
 * [Research Papers](#Research-Papers)
 * [Reports](#Reports)
@@ -379,7 +380,27 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * <a href="https://twitter.com/techkuz/status/1074492556434698241"><img src="https://i.imgur.com/txTBlSU.png"/></a>
 * <a href="https://twitter.com/ByteSizeCapital/status/1046067509869367307"><img src="https://i.imgur.com/WeLDs34.png"/></a>
 
-### EU General Data Protection Regulation Act[**^**](#Contents) [**>>**](../README.md#eu-general-data-protection-regulation-act)
+### Hyperledger Global Forum—2018 [**^**](#Contents)
+
+<img src="http://i.imgur.com/3WNoTB0.png"/>
+
+Basel Congress Center — Basel, Switzerland — December 12-15,2018 
+
+#### Official Links [**^**](#Contents)
+* https://events.linuxfoundation.org/events/hyperledger-global-forum-2018/
+* https://hgf18.sched.com/
+* [Youtube Playlist](https://www.youtube.com/watch?v=l-CaM4qUHI4&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP)
+
+#### Unofficial Transcripts [**^**](#Contents)
+
+I don't know about you, but when there is information I want that is only available on video, and I can't browse the text, it kinda drives me nuts.  
+
+I've made some navigable transcripts, and will continue to do so as I find "essential" videos from the conference, containing information that isn't widely available elsewhere. 
+
+* [Microledgers and Edge-Chains - Daniel Hardman - Evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/Microledgers-Edgechains-Hardman-HGF.md)
+* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/VerifiableOrganizationsNetwork-HGF.md)
+
+### EU General Data Protection Regulation Act [**^**](#Contents) [**>>**](../README.md#eu-general-data-protection-regulation-act)
 
 * [Digital Identity Management in the Context of GDPR & Sovrin —Why Data Privacy Matters & How to Protect It](https://blog.tykn.tech/digital-identity-management-in-the-context-of-gdpr-sovrin-43028247378b)
 * [Implementing Privacy by Design in Hyperledger Indy](https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy)
