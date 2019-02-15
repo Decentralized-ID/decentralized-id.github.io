@@ -405,9 +405,11 @@ Basel Congress Center — Basel, Switzerland — December 12-15,2018
  
 #### Unofficial Transcripts [**^**](#Contents)
 
-I think I've arranged all of the identity related talks in the previous section.
+I think I've arranged all of the identity related talks in the previous section, except for the following two.
 
 For my own convinience, and perhaps also yours, I've worked on the transcripts a bit to make the content easier to reference, and will continue to do so for any "essential" videos, containing information that isn't widely available elsewhere. 
+
+I'm open to recommendations. If you have any videos you'd like to see transcripts prepared in the following format, feel free to [contact me](https://infominer.id).
 
 * [Microledgers and Edge-Chains - Daniel Hardman - Evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/Microledgers-Edgechains-Hardman-HGF.md)
 * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/VerifiableOrganizationsNetwork-HGF.md)
