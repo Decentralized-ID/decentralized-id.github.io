@@ -17,11 +17,35 @@ We present the Why, What and How including our strategy for bootstrapping VON us
 
 <a href="https://youtu.be/g19VNv3DAd0"><img src="http://i.imgur.com/kODoTdj.png"/></a>
 
-## Transcript
+## Contents
 
-<code>**Editors Note** I just copy pasted this from youtube's transcript of the video, broke up text so it was easier to read, and added screenshots of different slides for context, and cleaned the text a little. It will be nice to make it a nicely flowing document.  -infominer
+* [Transcript](#transcript-)
+* [Introduction](#introduction-)
+* [Solving Problems](#solving-problems-)
+* [Collaboration](#collaboration-)
+* [Verifiable Proofs](#verifiable-proofs-)
+* [Chicken-or-Egg Dilemma](#chicken-or-egg-dilemma-)
+* [The Org Book](#the-org-book-)
+* [The BC Gov Org Book](#the-bc-gov-org-book-)
+* [Verifiable Credentials](#verifiable-credentials-)
+* [Production Network—Live 9-10-18](#production-network—live-9-10-18-)
+* [General Purpose](#general-purpose-)
+* [Ontario Org Book](#ontario-org-book-)
+* [Come to our Workshop](#come-to-our-workshop-)
+* [Bootstrapping Mechanism](#bootstrapping-mechanism-)
+* [dFlow](#dflow-)
+* [Just the First Step](#just-the-first-step-)
+* [Indy Catalyst](#indy-catalyst-)
+* [Serving the Public](#serving-the-public-)
+* [Q&A](#q&a-)
 
-**Pull Requests Welcome**</code>
+## Transcript [**^**](#contents)
+
+<code>**Editors Note** I just copy\pasted this youtube transcript, lightly edited for readability, and added screenshots for context.  -infominer</code>
+
+**Pull Requests Welcome**
+
+## Introduction [**^**](#contents)
 
 My name is John Jordan and I come from the province of British Columbia in Canada. This is my colleague Steven Curran we work together on this project.
 
@@ -48,8 +72,9 @@ her
 
 I also want to acknowledge that **I do all this work with [Carol Prest](https://www.linkedin.com/in/carol-prest-aa34b258/)** who is the registrar for BCS so I've been there for a couple years and **from day one we've been working together exploring how can we use the registry data as the foundational data for doing business.**  
 
-Unfortunately she's not available she's in India right now, but having this business partnership and having her in her organization behind this, and having the discipline of trying to **solve problems for businesspeople** is what is making this project really fun and also useful 
+Unfortunately she's not available she's in India right now, but having this business partnership and having her in her organization behind this, and having the discipline of trying to **solve problems for business people** is what is making this project really fun and also useful 
 
+## Sovling problems [**^**](#contents)
 <img src="http://i.imgur.com/MrIep94.png"/>
 
 We're gonna focus on a problem here which is **how do we help small business** we have sort of a an example of Mary's bakery but **it could be any kind of business** construction mining whatever it is and the problem is that these business people are very excited about starting a business is an exciting time in life but they don't realize sometimes that **they have quite a lot of obligations that they must fill for government**
@@ -66,6 +91,8 @@ We have examples where our research teams have gone out and talked to restaurant
 
 In the most complicated cases, for liquor and so forth, shareholders and employees have **criminal background checks.** They make sure that nobody owns more than 8 stores that sells liquor, and can take up to a year so.
 
+## Collaboration [**^**](#contents)
+
 <img src="http://i.imgur.com/GM9FxgX.png"/>
 
 We're collaborating with a couple of other jurisdictions. We're working with a team in **Ontario** and a
@@ -76,6 +103,8 @@ team **in the Government of Canada**, where I used to work, **The Procurement Ag
 **When we say working together, we're actually writing code together**. There's no MOUs, no steering committees, no work groups. They have a couple devs and the business person, we have a couple of devs and a business person. We sprint together, write code. 
 
 All this stuff we're going to show you today has been co-developed, and significant portions have been done by each of the groups 
+
+## Verifiable Proofs [**^**](#contents)
 
 <img src="http://i.imgur.com/0MS4yEs.png">
 
@@ -97,6 +126,8 @@ When we discovered that **we were pretty excited** it was about a year ago that 
 
 So it was just Stephen and I on the team and we thought it looked promising, that there was this pattern here we could solve some of these hard problems we've been working on for years but we realized we didn't have any of the software for different organizations or people.
 
+## Chicken-or-Egg Dilemma [**^**](#contents)
+
 <img src="http://i.imgur.com/hHn9SLm.png"/>
 
 Somebody mentioned it this morning, the classic chicken and egg problem: we don't have any software out there that we can issue to our issuers, don't have software to issue. We realized, in this case government is a little bit special, which I don't like to say very often. 
@@ -106,6 +137,8 @@ It turns out our core business is issuing that's what we do every service we hav
 <img src="http://i.imgur.com/9IHbEkL.png"/>
 
 We purposely picked business realm because if we're dealing with business data we're not triggering all the personal identifiable information problems. In the BC we call it FoIT, the Freedom of Information Act and Privacy Protection Act. When you get into personal data, of course it triggers all of that which, is good but makes it very complicated to play with new technologies. 
+
+## The Org Book [**^**](#contents)
 
 <img src="http://i.imgur.com/6KxuQM9.png"/>
 
@@ -129,6 +162,8 @@ So later when businesses have their own services for holding verifiable credenti
 
 <img src="http://i.imgur.com/AdYRiK9.png"/>
 
+## BC Gov Org Book [**^**](#contents)
+
 Now I'm gonna hand it over to Stephen. This is what The Org Book looks like in British Columbia, so there's two instances and we'll show you them both but **this is the [British Columbia Org Book](https://orgbook.gov.bc.ca/en/home) and it's basically a kind of a Yelp type site.** 
 
 <img src="http://i.imgur.com/nsurhhx.png"/>
@@ -142,6 +177,8 @@ Let's do a search we're into chocolate because we're in Switzerland so we'll tal
 <img src="http://i.imgur.com/0mcU9ru.png"/>
 
 **9:41** This is all public data, this is all open data. This is exactly what they hang on their walls inside the restaurant and things like that, there's really no place in BC it is actually published but in a very obscure places, very difficult to find. We've actually, as a byproduct of doing this exercise, created a pretty useful facility for citizens to use to find businesses, so we can take a look at them.
+
+## Verifiable Credentials [**^**](#contents)
 
 <img src="http://i.imgur.com/yMMHV01.png"/>
 
@@ -164,6 +201,8 @@ the that's the key
 
 <img src="http://i.imgur.com/47eUSiL.png"/>
 
+## Production Network—Live 9-10-18 [**^**](#contents)
+
 okay I think that's most of what we wanted to show so the idea here that we wanted to talk about a little bit was the title of this, **this is a production system, we've been live since the 10th of September** 
 
 <img src="http://i.imgur.com/cHws3Sb.png"/>
@@ -180,22 +219,23 @@ so basically we were able to use the capabilities of that platform to just spin 
 
 we're now about 12 hours to load the full data set so we're creating issuing and holding about 2600 credentials per minute so decent speed it's kind of weird because we are a single holder for all of these organizations these don't the organizations don't have their own wallet and the first vision and the first thing that Indy wanted to support was the idea of a person having a wallet 
 
-so the database behind it was not the most scalable solution out of the box so the next thing we did as well to to make it scalable was to implement say an enterprise-grade wallet with Postgres in was the developer on that and we were pleased that yesterday his code was merged into the Indy SDK repo so it's now officially hyper ledger code which is kind of cool so that's a contribution we've made to the to the ecosystem in hyper nature Indy 
+so the database behind it was not the most scalable solution out of the box so the next thing we did as well to to make it scalable was to implement say an enterprise-grade wallet with Postgres in was the developer on that and we were pleased that yesterday his code was merged into the Indy SDK repo so it's now officially hyperledger code, which is kind of cool. So that's a contribution we've made to the to the ecosystem in Hyperledger Indy.
+
+## General Purpose [**^**](#contents)
 
 <img src="http://i.imgur.com/rrQSzsd.png"/>
 
-yep so the next piece that I want to talk about where's the search so one of the things you're seeing is this is a BC site but it's really very generic so what we've tried to do is make it completely agnostic of what the actual credentials that will be loaded in 
+So one of the things you're seeing, is this is a BC site, but it's really very generic so what we've tried to do is make it completely agnostic of what the actual credentials that will be loaded in.
 
-we do have the concept that it's a an organization so we've got names we have addresses the concept of addresses we have the concept of credential types we have the concept of dates in there but other than that the structure is whatever the issuer happens to issue so it's very flexible for others to use 
+We do have the concept that it's a an organization so we've got names, we have addresses, the concept of addresses, we have the concept of credential types, we have the concept of dates in there... but other than that the structure is whatever the issuer happens to issue so, it's very flexible for others to use.
 
 <img src="http://i.imgur.com/sewb1Aq.png">
 
 so that search that's up there is you know it was a decent amount of work uses solar and and and so on but is very generic so that other entities other jurisdictions can take this and basically spin up their own instance of this relatively easily using this code and be able to take advantage of the loading the naming the searching the display all of this is flexible and localized localizable 
 
+## Ontario Org Book [**^**](#contents)
 
-<img src="http://i.imgur.com/LhbUVx9.png"/>
-
-//Ontario Org Book is currently locked down, but will be Available Real Soon.
+<img src="http://i.imgur.com/PMpdfJ8.png"/>
 
 let's take a look at the Ontario one so [The Ontario Org Book](https://www.von.gov.on.ca/) looks quite different from BCS obviously the search panel is the same they have different things they want to show and what they they don't want to show 
 
@@ -207,15 +247,20 @@ so every entity and every doing business as is a separate entity on this so beca
 
 <img src="http://i.imgur.com/L97WeSB.png"/>
 
-from the start we've we built it to be pretty flexible and so you're able to construct it on your own have your own skinning language support there's multiple language support is in there built in already I think those were the main things got the list what's that yeah so 
+from the start we've we built it to be pretty flexible and so you're able to construct it on your own have your own skinning language support there's multiple language support is in there built in already I think those were the main things
+
+## Come to our Workshop [**^**](#contents)
 
 <img src="http://i.imgur.com/GwrN03q.png"/>
 
-the two more things that I wanted to touch on: **come to our workshop on Friday and Saturday** and what we're actually doing is building out issuers and verifier so this is the org book the central piece 
+the two more things that I wanted to touch on: **come to our workshop on Friday and Saturday** and what we're actually doing is building out issuers and verifiers
+
+  * [Hands-On with Verifiable Organizations Network - Part 1](https://www.youtube.com/watch?v=R5TB-goL3_o&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=108)
+  * [Hands-On with Verifiable Organizations Network - Part 2](https://www.youtube.com/watch?v=j-lM2hNq1TI&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=107)
 
 <img src="http://i.imgur.com/PE065NM.png"/>
 
-What really is important is there's an API behind all this that a issuer of permits can use to learn about the company to fetch the credentials that are already there and have them proven and then issue credentials back to the org book.
+So this is The Org Book, the central piece. What really is important is there's an API behind all this that a issuer of permits can use to learn about the company to fetch the credentials that are already there and have them proven and then issue credentials back to the org book.
 
 A key part of this is that being easily able to extend this to many more permits and licensing providers could be within the government which we're working with.
 
@@ -225,13 +270,19 @@ almost every project team we talked to says "oh we can use that!" so we're build
 
 <img src="http://i.imgur.com/QyOUf4G.png"/>
 
+## Bootstraping Mechanism [**^**](#contents)
+
 the other side of it that we think is going to be really important is well this is a bootstrapping mechanism we've realized there can be some life to this in that we're going to create we're going to be creating a pub sub subscription service basically so that a business that gets a credential and verifies it can subscribe to that credential in the future and get notified when it changes 
 
 so a big challenge in all government organizations is this ability to understand when things change and we think this can be a super light way for a business to get notified that: 
 
 "hey these two businesses just merged they've started a new entity", "those two entities no longer exist they've been dissolved in this new entity exists you should know that" and 
 
-so that webhook capability will just whatever you're subscribed to when when our credential changes we can notify you that it happened and then you can dig in to figure out how that affects your permit and licensing service the other piece that we'll show is thing called decentralized flow - [dFlow](https://dflow.orgbook.gov.bc.ca) 
+so that webhook capability will just whatever you're subscribed to when when our credential changes we can notify you that it happened and then you can dig in to figure out how that affects your permit and licensing service 
+
+## dFlow [**^**](#contents)
+
+the other piece that we'll show is thing called decentralized flow - [dFlow](https://dflow.orgbook.gov.bc.ca) 
 
 <img src="http://i.imgur.com/a8WzejN.png"/>
 
@@ -283,6 +334,7 @@ so this gives you a really good way of actually being able to see what is on the
 
 so that's kind of a preview of the site and the ideas that have been emerging as a result of our work but there's a little bit more 
 
+## Just the First Step [**^**](#contents)
 
 <img src="http://i.imgur.com/kO6nCGy.png"/>
 
@@ -300,11 +352,15 @@ this model could work for professional engineering societies medical societies o
 
 That makes it easier for us to help them find their way like we just demonstrated because each of these issuers are going to automatically be able to express digitally the preconditions that are necessary for them to be able to allow you into their service and an issue a new permit/ 
 
+## Indy Catalyst [**^**](#contents)
+
 We think that's pretty pretty cool and as a result of this learning we've we've come up with this generalized model that has been accepted as a sub project of Indy. 
 
 <img src="http://i.imgur.com/p8BME5z.png"/>
 
 We're calling that [Indy Catalyst](https://github.com/bcgov/indy-catalyst) because this is sort of a bootstrapping capability, and that'll comprised of the code-behind [The Org Book](https://github.com/bcgov/TheOrgBook) in a more generalized fashion, and the code behind the issuer verifier service that we've built which we call [von-X](https://github.com/PSPC-SPAC-buyandsell/von-x) but we'll give some other sub named as an Indy Catalyst component.
+
+## Serving the Public [**^**](#contents)
 
 The big reason behind this is because I work for the government of BC, we're not a software development agency, were serving the public.
 
@@ -323,6 +379,8 @@ you'll be able to exchange verifiable data amongst businesses and that is really
 That's the idea of the Verifiable Organisation Network and the coming code that we'll call a Hyperledger Indy Catalyst, so that is our talk for now. 
 
 <img src="http://i.imgur.com/dbHSiO7.png"/>
+
+## Q&A [**^**](#contents)
 
 **25:40** as Steven mentioned **we're having a workshop Friday and Saturday morning** and Ian and Steven and I'll do my best to help will walk you through actually creating an issue we're
 creating schemas and doing your own decentralized workflow example.
