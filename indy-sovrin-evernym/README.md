@@ -407,7 +407,9 @@ Basel Congress Center — Basel, Switzerland — December 12-15,2018
 
 I think I've arranged all of the identity related talks in the previous section, except for the following two.
 
-For my own convinience, and perhaps also yours, I've worked on the transcripts a bit to make the content easier to reference, and will continue to do so for any "essential" videos, containing information that isn't widely available elsewhere. 
+For my own convinience, and for anyone else who would like to browse the text, I've worked on the transcripts a bit to make the content easier to reference. 
+
+I'll continue to do this for any "essential" videos containing information that isn't widely available elsewhere. 
 
 I'm open to recommendations. If you have any videos you'd like to see transcripts prepared in the following format, feel free to [contact me](https://infominer.id).
 
