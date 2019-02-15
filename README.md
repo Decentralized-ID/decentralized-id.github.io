@@ -67,7 +67,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Slideshare](#slideshare)
   * [Podcasts](#Podcasts)
   * [Sources](#Sources)
-  * [Tips Welcome](#tips-welcome)
+  * [Contact me for Research Driven Content](#contact-me-for-research-driven-content-)
 
 ## Introduction [**^**](#Contents)
 
@@ -797,10 +797,10 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ---
 
-### Contact Me for Research Based Content—[infominer.id](https://infominer.id)
+### Contact Me for Research Driven Content [**^**](#contents-)
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
-I've collected a ton of other crypto related resources in the [**SuperSource**](https://discord.gg/ahTuPMY) Discord chat server, and I have other repositories similar to this for other topics, beyond identity. Have a look around.  —[infominer.id](https://infominer.id)
+I've collected other crypto resources in the [**SuperSource**](https://discord.gg/ahTuPMY) Discord server, and have other repositories similar to this one for other topics, beyond identity. Have a look around—[infominer.id](https://infominer.id)
 
 **Tips Welcome**
 
