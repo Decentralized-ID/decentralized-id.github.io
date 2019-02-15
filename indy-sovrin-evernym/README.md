@@ -461,12 +461,14 @@ If you have any videos you'd like to see transcripts prepared in the following f
 * [MyData Podcast](https://mydata.org/podcast/)
 
 ### Sources[**^**](#Contents) [**>>**](../README.md#Sources)
+* [Evernym](https://www.evernym.com/)
+* [Sovrin Foundation](https://sovrin.org/)
+* [wiki.hyperledger.org - indy](https://wiki.hyperledger.org/display/indy)
 * [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**SS**](https://www.slideshare.net/SSIMeetup/presentations/)] 
 * [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [/awesome-decentralized-id](/README.md)
-* [wiki.hyperledger.org - indy](https://wiki.hyperledger.org/display/indy)
 
 ---
 
