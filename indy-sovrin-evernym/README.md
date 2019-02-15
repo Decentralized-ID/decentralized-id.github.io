@@ -409,9 +409,9 @@ I think I've arranged all of the identity related talks in the previous section,
 
 For my own convinience, and for anyone else who would like to browse the text, I've worked on the transcripts a bit to make the content easier to reference. 
 
-I'll continue to do this for any "essential" videos containing information that isn't widely available elsewhere. 
+I'll do this for any other "essential" videos containing information that isn't widely available elsewhere, and am open to recommendations. 
 
-I'm open to recommendations. If you have any videos you'd like to see transcripts prepared in the following format, feel free to [contact me](https://infominer.id).
+If you have any videos you'd like to see transcripts prepared in the following format, feel free to [contact me](https://infominer.id).
 
 * [Microledgers and Edge-Chains - Daniel Hardman - Evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/Microledgers-Edgechains-Hardman-HGF.md)
 * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/VerifiableOrganizationsNetwork-HGF.md)
@@ -466,6 +466,7 @@ I'm open to recommendations. If you have any videos you'd like to see transcript
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [/awesome-decentralized-id](/README.md)
+* [wiki.hyperledger.org - indy](https://wiki.hyperledger.org/display/indy)
 
 ---
 
