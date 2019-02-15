@@ -797,7 +797,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ---
 
-### Contact Me for Research Driven Content [**^**](#contents-)
+### Contact Me for Research Driven Content [**^**](#Contents)
 <a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 
 I've collected other crypto resources in the [**SuperSource**](https://discord.gg/ahTuPMY) Discord server, and have other repositories similar to this one for other topics, beyond identity. Have a look around—[infominer.id](https://infominer.id)
