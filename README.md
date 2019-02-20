@@ -152,7 +152,7 @@ Develop effective, accountable and transparent institutions at all levels
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
 * [AID:Tech](https://aid.technology) [[**T**]](https://twitter.com/aidtechnology) — "is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner." (another early example of blockchain for humanitarian aide)
 
-![](http://imgur.com/GdYLQjzl.png)
+![](https://imgur.com/GdYLQjzl.png)
 
 ### Rebooting the Web Of Trust[**^**](#Contents)
 
@@ -169,7 +169,7 @@ At the end of 2015, the Department of Homeland Security announced that it had fu
 
 ### ID2020 and the GDPR[**^**](#Contents)
 
-![](http://imgur.com/ymviAssl.png)
+![](https://imgur.com/ymviAssl.png)
 
 * [4/16](https://edps.europa.eu/data-protection/data-protection/legislation/history-general-data-protection-regulation_en) the EU adopted the GDPR to be enacted as law May 2018. 
 * The second RWoT workshop ran in conjunction with the UN's [ID2020](https://id2020.org/) Summit in New York that [May](https://press.pwc.com/News-releases/id2020-to-kick-start-digital-identity-summit-at-un-with-pwc-support./s/9fe11be5-cbd8-486b-b4d2-d798f486d0f2); clearly a significant time for decentralized identity: 
@@ -196,7 +196,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
 * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
 * [Identity Commons-Wiki](http://wiki.idcommons.net/Main_Page)
-* [IIW-Wiki](http://iiw.idcommons.net/Main_Page)
+* [IIW-Wiki](https://iiw.idcommons.net/Main_Page)
 * [IIW - Past Workshops](https://internetidentityworkshop.com/past-workshops/))
 * [identitywoman.net](https://identitywoman.net/)
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
@@ -207,7 +207,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 
 ### Self Sovereign Identity[**^**](#Contents)
 
-![](http://imgur.com/3zz62kpl.png)
+![](https://imgur.com/3zz62kpl.png)
 
 
 * [Christopher Allen](http://www.lifewithalacrity.com/)[[**info**](https://christophera.info/)] details the overarching history of internet idenitity standards and outlines [10 Principles of Self Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) in his seminal work [The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)[[**ϟ**](https://www.coindesk.com/path-self-sovereign-identity/amp/)]
@@ -239,7 +239,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * [Protecting Digital Identities in Developing Countries](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)
 * [Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
 
-![](http://imgur.com/Lz6RTysl.png)
+![](https://imgur.com/Lz6RTysl.png)
 
 ### W3C and DID Related Standards[**^**](#Contents)
 
@@ -249,7 +249,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
 * [DIGITAL VERIFICATION COMMUNITY GROUP](https://www.w3.org/community/digital-verification/)[[**G**](https://sea-region.github.com/w3c-dvcg)]
 
-![](http://imgur.com/6MLNgXal.png)\
+![](https://imgur.com/6MLNgXal.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
 ### DID the Decentralized Identifier[**^**](#Contents) 
@@ -297,7 +297,7 @@ Blockstack is a network for decentralized applications where users own their ide
 ![](https://i.imgur.com/FBe3S0w.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
-![](http://imgur.com/XMaq5cil.png)
+![](https://imgur.com/XMaq5cil.png)
 
 
    * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
@@ -327,16 +327,16 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
 * [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
 
-![](http://i.imgur.com/5qc1qrG.png)\
+![](https://i.imgur.com/5qc1qrG.png)\
 <sup><a href="http://ssimeetup.org/decentralized-key-management-dkms-essential-missing-piece-ssi-puzzle-drummond-reed-webinar-8/">DKMS - An Essential Missing Piece of the SSI Puzzle. Drummond Reed. SSIMeetup.org</a></sup>
 
 ### Decentralized Identity Foundation[**^**](#Contents) 
 
-![](http://imgur.com/PXGV6Xyl.png)
+![](https://imgur.com/PXGV6Xyl.png)
 
 * On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017)
 * [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
-* [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**B**](https://medium.com/decentralized-identity)] 
+* [Decentralized Identity Foundation](https://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**B**](https://medium.com/decentralized-identity)] 
   >A key piece of the decentralized identity equation is how people, organizations, and devices can be identified and located without centralized systems of identifiers (e.g. email addresses). DIF members are actively working on protocols and implementations that enable creation, resolution, and discovery of decentralized identifiers and names across decentralized systems, like blockchains and distributed ledgers.
 * DIF members, sharing the goal of “building an open source decentralized identity ecosystem for people, organizations, apps, and devices” include: 
   * [1kosmos](https://onekosmos.com/product-details/) 
@@ -482,7 +482,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 
 ### Ethereum[**^**](#Contents)
 
-![](http://imgur.com/SmvFLzCl.png)
+![](https://imgur.com/SmvFLzCl.png)
 
 * [Decentralized Digital Identity on Ethereum](https://www.slideshare.net/FabriceCroiseaux/ethcc-2018-decentralized-digital-identity-on-ethereum) -SlideShare
 * [ERC725](https://github.com/ethereum/EIPs/issues/725) • [ERC735](https://github.com/ethereum/EIPs/issues/735)
@@ -518,7 +518,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 
 ### IBM[**^**](#Contents)
 
-![](http://i.imgur.com/CvZI7R1.png)
+![](https://i.imgur.com/CvZI7R1.png)
 
 * [Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
 * [github.com/IBM-Blockchain-Identity](https://github.com/IBM-Blockchain-Identity) (Docker based tutorial sandbox env)
@@ -531,7 +531,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 
 ### Microsoft[**^**](#Contents)
 
-![](http://i.imgur.com/MEN8iSn.png)
+![](https://i.imgur.com/MEN8iSn.png)
 
 * [Microsoft Azure Own your identity](https://azure.microsoft.com/en-us/overview/decentralized-identity/) [[**ϟ**](https://www.coindesk.com/microsoft-is-pushing-new-blockchain-id-products-but-theres-pushback-too)]
 Discover decentralized identity—a new way to take ownership of your personal data.  
@@ -543,7 +543,7 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [Microsoft working on Project Bali to Give People Control over their data](https://amp.businessinsider.com/microsoft-working-on-project-bali-to-give-people-control-over-data-2019-1)
 
 ### Blockpass [**^**](#Contents) 
-  <img src="http://imgur.com/mMZ4E2rl.png" />
+  <img src="https://imgur.com/mMZ4E2rl.png" />
 
 * [Blockpass](https://www.blockpass.org/) [[**T**](https://twitter.com/BlockpassOrg)] [[**wp**](https://www.blockpass.org/downloads/BlockpassWhitepaper.v1.3.3.pdf)]
   * [Edinburgh Identity Lab](https://identity-lab.blockpass.org/) [[**ϟ**](https://www.newsbtc.com/2018/09/28/worlds-first-blockchain-identity-lab-launched-today-in-edinburgh/)]
@@ -562,7 +562,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ### Handshake[**^**](#Contents)
 
-<img src="http://i.imgur.com/lhHnC8w.png"/>
+<img src="https://i.imgur.com/lhHnC8w.png"/>
 
 * [Handshake](https://handshake.org) [[**wp**](https://handshake.org/files/handshake.txt)] [[**D**](https://handshake-org.github.io/)] - Handshake is a UTXO-based blockchain protocol which manages the registration, renewal and transfer of DNS top-level domains (TLDs). Our naming protocol differs from its predecessors in that it has no concept of namespacing or subdomains at the consensus layer. Its purpose is not to replace DNS, but to replace the root zone file and the root servers.
 
@@ -577,7 +577,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ### Personal Data Wallets & Marketplaces[**^**](#Contents)
 
-![](http://i.imgur.com/jHwsWIx.png)
+![](https://i.imgur.com/jHwsWIx.png)
 
 * [Mydata](http://mydata.org/) [[**T**](https://twitter.com/mydataorg)] [[**D**](https://mydata.org/papers/)] [[**D**](https://mydata.org/declaration/)]
    * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
@@ -614,14 +614,14 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 #### Australia [**^**](#Contents)
 
-![](http://i.imgur.com/AmyVxCE.png)
+![](https://i.imgur.com/AmyVxCE.png)
 
 * [Australian government reveals decentralized national digital identity plans](https://oneworldidentity.com/australian-government-reveals-decentralized-national-digital-identity-plans/)
 * [Australia Post's Digital ID named best federal govt IT project](https://www.itnews.com.au/news/australia-posts-digital-id-named-best-federal-govt-it-project-485017)
 * [Trusted Identity Framework](https://www.dta.gov.au/our-projects/digital-identity/join-identity-federation/accreditation-and-onboarding/trusted-digital-identity-framework)
 
 #### Canada [**^**](#Contents) [**>**](#Hyperledger-Indy)
-![](http://i.imgur.com/1QmQiy2.png)
+![](https://i.imgur.com/1QmQiy2.png)
 
 >VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
 >
@@ -638,17 +638,17 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
   * [SecureKey Technologies to explore interoperability between Verified.Me and Hyperledger Indy](https://securekey.com/press-releases/hyperledger-indy/)
 * [idtrail.org](http://www.idtrail.org/)
 
-<a href="https://twitter.com/sboots/status/1070320318487584768"><img src="http://i.imgur.com/wdbN3Ld.png"/></a>
+<a href="https://twitter.com/sboots/status/1070320318487584768"><img src="https://i.imgur.com/wdbN3Ld.png"/></a>
 
 
 #### Estonia[**^**](#Contents)
-![](http://i.imgur.com/HyGoqfq.png)
+![](https://i.imgur.com/HyGoqfq.png)
 * [Estonia National Blockchain-ID](https://e-estonia.com/solutions/e-identity/id-card/) ([**id.ee**](https://www.id.ee/))
    * [Estonian Blockchain ID Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
 
 
 #### European Union[**^**](#Contents)
-![](http://i.imgur.com/DuQXLhs.png)
+![](https://i.imgur.com/DuQXLhs.png)
 
 * [EU BLOCKCHAIN OBSERVATORY AND FORUM—Workshop Report e-Identity](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
 * [Keyp](https://keyp.io/) —"Welcome to Europe’s fastest growing open digital identity ecosystem."
@@ -660,7 +660,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 #### Netherlands[**^**](#Contents)
 
-![](http://i.imgur.com/CVA9t94.png)
+![](https://i.imgur.com/CVA9t94.png)
 
 * [TU Delft helps develop digital ID for use on your phone](https://www.tudelft.nl/en/2018/tu-delft/tu-delft-helps-develop-digital-id-for-use-on-your-phone/)
 * [Deployment of a Blockchain-Based Self-Sovereign Identity - Delft](https://arxiv.org/pdf/1806.01926.pdf)
@@ -668,18 +668,18 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [Dutch Blockchain Coalition](https://www.dutchdigitaldelta.nl/en/blockchain) [[**ϟ**](https://dutchdigitaldelta.nl/uploads/pdf/Dutch-Blockchain-Coalition-action-agenda-ENG.pdf)]
 
 #### Spain[**^**](#Contents)
-![](http://i.imgur.com/JKDcTOK.png)
+![](https://i.imgur.com/JKDcTOK.png)
 
 * [Alastria](https://alastria.io/) [[**G**](https://github.com/alastria/alastria-identity)] 
    * a non-profit consortium building a national blockchain ecosystem for Spain. The security and veracity of information will be ensured through the identification of natural and legal persons, while at the same time allowing citizens to have control over their personal information in a transparent way following the guidelines set by the European Union.
 
 #### Switzerland[**^**](#Contents)
-![](http://i.imgur.com/yuP8j7V.png)
+![](https://i.imgur.com/yuP8j7V.png)
 
 * [Zug ID: Exploring the First Publicly Verified Blockchain Identity](https://medium.com/uport/zug-id-exploring-the-first-publicly-verified-blockchain-identity-38bd0ee3702) (uport\ethereum)
 
 #### USA[**^**](#Contents)
-![](http://i.imgur.com/5TAfj82.png)
+![](https://i.imgur.com/5TAfj82.png)
 
 * [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)
 * [U.S. Department of Homeland Security funds four Blockchains](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology)
@@ -733,7 +733,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ### Research-Papers[**^**](#Contents)
 * [Security without Identification: Transaction Systems to make Big Brother Obsolete](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - David Chaum 1985
-* [Establishing Identity Without Certification Authorities](http://irl.cs.ucla.edu/~yingdi/pub/papers/Ellison-OldFriend-USENIX-Security-1996.pdf)
+* [Establishing Identity Without Certification Authorities](https://irl.cs.ucla.edu/~yingdi/pub/papers/Ellison-OldFriend-USENIX-Security-1996.pdf)
 * [A First Look at Identity Management Schemes on the Blockchain](https://arxiv.org/pdf/1801.03294.pdf)
 * [ChainAnchor — Anonymous Identities for Permissioned Blokchains](http://connection.mit.edu/wp-content/uploads/sites/29/2014/12/Anonymous-Identities-for-Permissioned-Blockchains2.pdf)
 * [Decentralizing Privacy: Using Blockchain to Protect Personal Data](http://web.media.mit.edu/~guyzys/data/ZNP15.pdf)
@@ -786,7 +786,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 
 ### Sources[**^**](#Contents)
 * [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**ϟ**](https://www.slideshare.net/SSIMeetup/presentations/)] 
-* [IIW-Wiki](http://iiw.idcommons.net/Main_Page)
+* [IIW-Wiki](https://iiw.idcommons.net/Main_Page)
 * [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
@@ -806,7 +806,7 @@ I've collected other crypto resources in the [**SuperSource**](https://discord.g
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
-![](http://imgur.com/yXLLm9Bl.png) 
+![](https://imgur.com/yXLLm9Bl.png) 
 
 DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
 

@@ -53,7 +53,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. 
 
-![](http://imgur.com/3zz62kpl.png)
+![](https://imgur.com/3zz62kpl.png)
 
 
 ### Self Sovereign Identity[**^**](#Contents) [**>>**](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)
@@ -130,7 +130,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 • [Global Consent](http://www.consent.global/) 
 • [IBM](https://www.ibm.com/blogs/blockchain/2018/08/ibm-blockchain-trusted-identity-sovrin-steward-closed-beta-offering/) 
 • [InfoCert](https://infocert.digital/) 
-• [iRespond](http://irespond.org/) 
+• [iRespond](https://irespond.org/) 
 • [KYC Chain](https://kyc-chain.com/) 
 • [lab10 collective](https://lab10.coop/en/) 
 • [OAS Staff Federal Credit Union](https://www.oasfcu.org/en/default.asp) 
@@ -167,7 +167,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 ![](https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png)
 
-![](http://imgur.com/2LWlrgvl.png)\
+![](https://imgur.com/2LWlrgvl.png)\
 <sup><a href="https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies">Linux Foundation -Blockchain for Business -INDY</a></sup>
 
 * [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**T**](https://twitter.com/Hyperledger)] [[**C**](https://chat.hyperledger.org)]
@@ -227,7 +227,7 @@ Hyperledger Indy Project Enhancements
 * https://github.com/streetcred-id/indy-sdk-storage
 
 #### Zero Knowledge Proofs in Indy [**^**](#Contents)
-<a href="https://www.slideshare.net/eralcnoslen/privacypreserving-authentication-another-reason-to-care-about-zeroknowledge-proofs"><img src="http://i.imgur.com/LAUkkbN.png"/><br/><sup>Privacy Preserving Authentication—Another reason to care about ZKP</sup></a>
+<a href="https://www.slideshare.net/eralcnoslen/privacypreserving-authentication-another-reason-to-care-about-zeroknowledge-proofs"><img src="https://i.imgur.com/LAUkkbN.png"/><br/><sup>Privacy Preserving Authentication—Another reason to care about ZKP</sup></a>
 
 * [The Sovrin Network and Zero Knowledge Proof](https://sovrin.org/the-sovrin-network-and-zero-knowledge-proofs/) - high level walk through
 * [AnonCreds: Anonymous credentials protocol implementation in python](https://github.com/hyperledger/indy-anoncreds) [[**ϟ**](https://github.com/hyperledger/indy-anoncreds/blob/master/docs/anoncred-usecase1.pdf)]
@@ -249,7 +249,7 @@ Hyperledger Indy Project Enhancements
 * [Zero-Knowledge Proofs Starter Pack](https://ethresear.ch/t/zero-knowledge-proofs-starter-pack/4519) (Not ID related)
 
 
-![](http://imgur.com/6MLNgXal.png)\
+![](https://imgur.com/6MLNgXal.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
 
@@ -280,7 +280,7 @@ Hyperledger Indy Project Enhancements
 
 #### DID Auth[**^**](#Contents) 
 
-![](http://imgur.com/XMaq5cil.png)\
+![](https://imgur.com/XMaq5cil.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
    * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
@@ -302,7 +302,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10</sup>
 
 #### Decentralized Key Management-Agents[**^**](#Contents) 
 
-<img src="http://i.imgur.com/0SLcjUv.png"/>
+<img src="https://i.imgur.com/0SLcjUv.png"/>
 
 * [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
 * [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
@@ -312,12 +312,12 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10</sup>
 
 ### Decentralized Identity Foundation[**^**](#Contents) [**>>**](../README.md#Decentralized-Identity-Foundation)
 
-![](http://imgur.com/PXGV6Xyl.png)
+![](https://imgur.com/PXGV6Xyl.png)
 
 
 On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017):
 * [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
-* [Decentralized Identity Foundation](http://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**B**](https://medium.com/decentralized-identity)] 
+* [Decentralized Identity Foundation](https://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**B**](https://medium.com/decentralized-identity)] 
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-dohttps://i.imgur.com/a0dpDtr.pngcuments/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
   * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
@@ -328,7 +328,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 #### BCGov's Verifiable Organizations Network VON[**^**](#Contents)
 
-![](http://i.imgur.com/0Mr3YMn.pnghttps://i.imgur.com/CvQnRZ2.png)
+![](https://i.imgur.com/0Mr3YMn.pnghttps://i.imgur.com/CvQnRZ2.png)
 
 >VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
 >
@@ -382,7 +382,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 ### Hyperledger Global Forum—2018 [**^**](#Contents)
 
-<img src="http://i.imgur.com/3WNoTB0.png"/>
+<img src="https://i.imgur.com/3WNoTB0.png"/>
 
 Basel Congress Center — Basel, Switzerland — December 12-15,2018 
 
@@ -482,7 +482,7 @@ Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), i
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
-![](http://imgur.com/yXLLm9Bl.png) 
+![](https://imgur.com/yXLLm9Bl.png) 
 
 DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
 
