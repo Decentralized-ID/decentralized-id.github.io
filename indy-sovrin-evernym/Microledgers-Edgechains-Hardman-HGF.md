@@ -3,7 +3,7 @@
 
 [Evernym](https://evernym.com)’s Chief Architect [Daniel Hardman](https://www.evernym.com/team/daniel-hardman/) takes the Hyperledger community through Evernym’s work on Microledgers and Edge-Chains Architecture. Attendees will gain insight into the theory, applications and evolution in Hyperledger Indy along with a practical discussion of their potential.
 
-<img src="http://i.imgur.com/H5ijP94.png"/>\
+<img src="https://i.imgur.com/H5ijP94.png"/>\
 <sup><a href="https://www.youtube.com/watch?v=iK5vd7-b1zA&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=100">Youtube: Hyperledger Global Forum- Microledgers and Edge-Chains: A Primer- Daniel Hardman, Evernym</a></sup>
 
 * [Daniel Hardman, Chief Architect - Evernym](https://hgf18.sched.com/event/G8sN/microledgers-and-edge-chains-a-primer-daniel-hardman-evernym)
@@ -33,7 +33,7 @@
 ## Microledgers and Edge-Chains [**^**](#contents)
 **Lightly edited transcript from Youtube.**
 
-<img src="http://i.imgur.com/Hu9v2Md.png"/>
+<img src="https://i.imgur.com/Hu9v2Md.png"/>
 
 Okay, I think we'll go ahead and get started. There are likely to be people trickling in, if they're like I am. If I didn't have to be here speaking I would take my time getting in the next session after lunch feeling a little bit sluggish... but anyway, they'll come in and and we'll already be in the presentation.
 
@@ -47,7 +47,7 @@ Microledger's and edge-chains: I'm going to demystify that, and when you walk aw
 
 ## A Personal Arc [**^**](#contents) 
 
-<img src="http://i.imgur.com/5aXEDkg.png"/>
+<img src="https://i.imgur.com/5aXEDkg.png"/>
 
 I'd like to start by taking you on a little bit of a personal journey. I started working in blockchain two and a half years ago, and when I first became aware of the basic concepts of how blockchain worked and so forth I became really excited about how blockchain had solved a bunch of problems
 
@@ -57,24 +57,24 @@ and I hope as I describe the rest of this arc you'll smile a little bit to yours
 
 in a way this is kind of like the Gartner hype cycle you know there's the the spike of excitement and then the trough of disillusionment. 
 
-<img src="http://i.imgur.com/BsTgEd0.png"/>
+<img src="https://i.imgur.com/BsTgEd0.png"/>
 
 I went through learning about some of the performance and scaling issues that we had to deal with, and some of the complexity. 
 
 and then I started to realize that putting data on the blockchain had certain repercussions that I didn't always want to deal with, and that there needed to be some very careful thought about how we encrypted data.
 
-<img src="http://i.imgur.com/kdoyUEq.png"/>
+<img src="https://i.imgur.com/kdoyUEq.png"/>
 
 and then I realized encrypting it wasn't enough, it just plain shouldn't be there at all. and so hopefully you guys are recognizing these kinds of patterns in your own thinking here and then I got into the whole all regulatory compliance of GDPR thing and gee this is getting harder and
 harder.
 
-<img src="http://i.imgur.com/V5cyLYb.png"/>
+<img src="https://i.imgur.com/V5cyLYb.png"/>
 
 Then I and several of my companions discovered this notion of microledgers, and we feel like it was kind of an aha moment for us. So I'll explain what microledgers are and I think you'll see how that's relevant to this arc when I'm done.
 
 Let me just point out that that same kind of arc that I just described in my own thinking we're seeing unfold in lots of different ways in the whole blockchain space. 
 
-<img src="http://i.imgur.com/oVC0WwF.png"/>
+<img src="https://i.imgur.com/oVC0WwF.png"/>
 
 All of the things on this list here are examples of projects where somebody has thought hard about the original blockchain paradigm, and tweaked something in an interesting way because
 of that same arc, and you know the tweaks are different. 
@@ -86,7 +86,7 @@ they all different things up there and if you don't know about all those, I didn
 
 I knew about some of them and I found some others there but the point is that I think the whole industry is going through a maturation phase where we're realizing that there's certain aspects of what blockchain can do that we love, and there's other aspects of what blockchain gives us that we don't love so much and we're trying to kind of wrestle against those constraints 
 
-<img src="http://i.imgur.com/ZBiVQ0J.png"/>
+<img src="https://i.imgur.com/ZBiVQ0J.png"/>
 
 These are the two things that I think these arcs all have in common, mine and and the things on the previous slide:  they're all trying to do less with the central big blockchain in some creative way so that they can keep the special value out of the blockchain but not have some of its downsides.
 
@@ -94,13 +94,13 @@ These are the two things that I think these arcs all have in common, mine and an
 
 I want to just point out something I went and looked just for fun I went and looked up architecture diagrams with Google. I was looking for old client-server architecture diagrams okay and these are just three that I picked at random out of the Google image search results list 
 
-<img src="http://i.imgur.com/yYUdvNr.png"/>
+<img src="https://i.imgur.com/yYUdvNr.png"/>
 
 you see that client-server is kind of this old paradigm where we have this notion of a centralized thing, and client-server equals bad, right?
 
 we've been down that road we don't like that anymore, but here's what's interesting I also went and searched for some architecture diagrams about blockchain and some blockchain supposed to be highly decentralized and lo and behold there are lots and lots of evidence in these diagrams that blockchain is actually it just almost the exact same thing 
 
-<img src="http://i.imgur.com/py6olR5.png"/>
+<img src="https://i.imgur.com/py6olR5.png"/>
 
 now there's some things about blockchain that are different I'm not arguing that they're identical but the point is there is this phenomenon sometimes that blockchain has been used in a way that's far more centralized than we like to admit yes there are nodes that spread the load around and yes the nodes create this notion of diverse or I mean diffuse trust and yet all of those nodes can be treated as one bundle in the middle 
 
@@ -108,7 +108,7 @@ and in fact in a lot of architecture diagrams that you see in presentations at t
 
 ## Where Blockchain is Needed (or Not) [**^**](#contents)
 
-<img src="http://i.imgur.com/ugjLkS9.png"/>
+<img src="https://i.imgur.com/ugjLkS9.png"/>
 
 so we don't necessarily need the blockchain for everything that we think we need it for the Vitalik, back in April, I'll let you read that quote there, well actually I'm going to read it because it's such a good one:
 
@@ -124,7 +124,7 @@ now there's an answer to that question but there's also, that question exposes s
 
 I think smart people in the industry are starting to question some basic assumptions. 
 
-<img src="http://i.imgur.com/ZfhYNAD.png"/>
+<img src="https://i.imgur.com/ZfhYNAD.png"/>
 
 here's my picture of an architecture that's centralized in blockchain oriented you got the blockchain in the middle here and you got the arrows coming to it right this is how I was thinking about my own particular problem which was the identity management relationship management problem that's at the core of identity when I first came into this world and if you see, 
 
@@ -135,7 +135,7 @@ what's symmetrical and complimentary but they're using the blockchain in the mid
 
 ## Microledgers [**^**](#contents)
 
-<img src="http://i.imgur.com/kX93eTU.png"/>
+<img src="https://i.imgur.com/kX93eTU.png"/>
 
 Here's what I evolved to, and this is what I want to talk to you about, is the microledger notion. In this notion you still have a blockchain, and blockchain does have relevance it's highly relevant, but it's not the main mediator of the relationship between Alice and Bob.
 
@@ -145,7 +145,7 @@ so when you have this kind of a relationship what you have is two parties that a
 
 that's where that word in the title of the presentation comes from, is the notion that you can have some of the same characteristics of a blockchain, you can have high trust and tamper resistance, and diffuse patterns of communication and so forth. but, you don't have the blockchain sitting in the middle of it. it's all happening out at the edges
 
-<img src="http://i.imgur.com/c0mtJW0.png"/>
+<img src="https://i.imgur.com/c0mtJW0.png"/>
 
 
 okay so this evolves even further: if you have this person Alice having relationships with multiple people, she
@@ -155,7 +155,7 @@ now you might be saying well wait a minute if you take the blockchain and all th
 
 ## How Blockchain is Still Relevant [**^**](#contents)
 
-<img src="http://i.imgur.com/uJ1Kkwq.png"/>
+<img src="https://i.imgur.com/uJ1Kkwq.png"/>
 
 In my case it's useful for certain problems that require external trust. For example, there has to be a place where I can announce that a credential, upon which identity is based, has been revoked.  The world needs to test for that condition when they're seeing credentials presented. 
 
@@ -190,7 +190,7 @@ They're not massive, they don't last necessarily forever, they don't store any s
 
 ## App Centralization Continuum [**^**](#contents)
 
-<img src="http://i.imgur.com/lnKUizp.png"/>
+<img src="https://i.imgur.com/lnKUizp.png"/>
 
 After we started playing with this idea I started to see things a little bit different this is my journey again but I thought instead of it being kind of a time sequence I saw it as a continuum of centralization and I really think that's where my mental journey took me is I started out thinking blockchain was cool and I'm going to be decentralized but I wasn't really very decentralized in my thinking and took me a long time to get there 
 
@@ -208,7 +208,7 @@ there are dApps that aren't that way, so the DAP thing moves over towards the ri
 
 ## Teleomergent - More than a decentralized app [**^**](#contents)
 
-<img src="http://i.imgur.com/1E6jCjZ.png"/>
+<img src="https://i.imgur.com/1E6jCjZ.png"/>
 
 I'm gonna give you some examples here in just a minute. Just for kicks, I'm gonna introduce a new word to you, because this is why I'm excited about the right end of that continuum. I think that the things on the right end of that continuum have this characteristic.
 
@@ -224,13 +224,13 @@ and that's what I think is the true characteristic at the far right side is that
 
 this is just a little compare and contrast I think I'm gonna skip over this suffice it to say that daps and edge chains have a lot in common but I think there's some interesting differences 
 
-<img src="http://i.imgur.com/cVg6gFH.png"/>
+<img src="https://i.imgur.com/cVg6gFH.png"/>
 
 and I'll maybe during Q&A; we can come back to this slide if you have questions about it, but let me now actually give you some examples of what I'm talking about.
 
 ## Defining an Edgechain Protocol [**^**](#contents)
 
-<img src="http://i.imgur.com/vIDt6iO.png"/>
+<img src="https://i.imgur.com/vIDt6iO.png"/>
 
 When you define an edge chain protocol you have to answer these four questions:
 
@@ -241,7 +241,7 @@ When you define an edge chain protocol you have to answer these four questions:
 
 ## A Familiar Example—Buying a House [**^**](#contents)
 
-<img src="http://i.imgur.com/XEpCvty.png"/>
+<img src="https://i.imgur.com/XEpCvty.png"/>
 
 so here's a really familiar example, okay? no tech involved. how do you buy a house? What are the roles in buying a house?
 
@@ -268,7 +268,7 @@ That's a cool thing if you can just hook them up to blockchain for just the part
 
 ## Trust Ping Protocol [**^**](#contents)
 
-<img src="http://i.imgur.com/pUnUIiD.png"/>
+<img src="https://i.imgur.com/pUnUIiD.png"/>
 
 Here's a simple edge protocol that's techy. this one is relevant to the identity space. This is the trust ping protocol, and in Indy there is a HIPE (which is like an RFC) about how you ping another person. 
 
@@ -282,7 +282,7 @@ There's a HIPE about that, you can see the roles, the pinger and the pingee; and
 
 let me give you a quick demo of this protocol. I'm gonna start up an indie agent, and that agent is going to be listening on email, and I'm going to talk to it by email, and I'm gonna use the trust ping protocol to to interact with it. 
 
-<img src="http://i.imgur.com/SA01z4J.png"/>
+<img src="https://i.imgur.com/SA01z4J.png"/>
 
 This is the [trust ping protocol documentation](https://github.com/hyperledger/indy-hipe/pull/67), and the trust ping documentation says that if I want to ping somebody this is the kind of JSON message I need to send it. 
 
@@ -290,7 +290,7 @@ So, I'm gonna send it one. Let's go over here to my email, and I'll bring up my 
 
 and let's see... message was sent. that's good. now what we've got to see is if the message is going to come back... there we go. 
 
-<img src="http://i.imgur.com/qe7MocA.png"/>
+<img src="https://i.imgur.com/qe7MocA.png"/>
 
 so the agent on the other side pinged me back and let's see what it sent me: it sent me an aim style message. 
 
@@ -304,13 +304,13 @@ That's the kind of thing that I'm seeing over and over again as I get my head wr
 
 ## Tic Tac Toe [**^**](#contents)
 
-<img src="http://i.imgur.com/Ym9zesW.png"/>
+<img src="https://i.imgur.com/Ym9zesW.png"/>
 
 okay so on to the next thing... here. Tic Tac Toe. We could also play tic-tac-toe. I'm gonna wait and see if I have enough time. I'll do a demo of tic-tac-toe if you feel like it later. but anyway I have a demo of that if you want to. this one was not there's no blockchain goodness on this this is all the way to the complete right side is being a pure hedge protocol because you don't need a blockchain to play tic-tac-toe okay.
 
 ## DID method for peer (private pairwise) DIDs [**^**](#contents)
 
-<img src="http://i.imgur.com/T3nCl47.png"/>
+<img src="https://i.imgur.com/T3nCl47.png"/>
 
 This is a more serious one. What if you want to manage a relationship? Alice and Bob live across the world, they use complicated technologies. Each of them has different technologies. One of them has a laptop, and a cell phone; and the other one has a desktop computer at work, and two cell phones, and something in the cloud. 
 
@@ -329,7 +329,7 @@ This is a more serious one that has pretty high stakes. I've been working on a m
 
 You can see the the roles here are the participants in the relationship and there's some message types that are described here there's actually a [DID method spec draft](https://dhh1128.github.io/peer-did-method-spec/index.html) and I'll show that to you really briefly here and you can go look it up yourself later if you want to 
 
-<a href="https://dhh1128.github.io/peer-did-method-spec/index.html"><img src="http://imgur.com/QlhWEmfl.png" /></a>
+<a href="https://dhh1128.github.io/peer-did-method-spec/index.html"><img src="https://imgur.com/QlhWEmfl.png" /></a>
 
 
 I'll give you the URL and you can go read it, but there's this whole spec behind this, and this is what has caused, I think, the most ruminating on the concept of a microledger... because the microledger as a persistence mechanism could provide high trust to back the did method that I'm mentioning. 
@@ -338,7 +338,7 @@ I'll give you the URL and you can go read it, but there's this whole spec behind
 
 Let me go on to another one that's maybe a little bit more interesting so this is just an imaginary one but I think I'd love if somebody in the audience wants to build this I'd be super excited and I would buy your app.
 
-<img src="http://i.imgur.com/wzji3sc.png"/>
+<img src="https://i.imgur.com/wzji3sc.png"/>
 
 A megaphone protocol, what I'd like is something where if I'm sitting on the beach in Indonesia and a tsunami happens... I can grab my phone and push a button and say "run a tsunamis coming" and my phone contacts all the phones all around the resort where I'm staying which in turn contact all the phone's a mile inland and everybody starts running not just the people who can see the wave. Would that be cool? 
 
@@ -356,7 +356,7 @@ that would be more centralized but anyway there's some roles in this a speaker a
 
 ## Call to Action [**^**](#contents)
 
-<img src="http://i.imgur.com/xLHfZ7b.png"/>
+<img src="https://i.imgur.com/xLHfZ7b.png"/>
 
 I hope that I haven't gone too too deep, I've tried to stay really high-level and I hope that I've been general enough that even if you're not in the Indy space, the identity space, you're thinking a little bit to yourself yeah maybe there's some ways that I'm taking for granted 
 
@@ -374,7 +374,7 @@ left which is good
 
 ## Q&A [**^**](#contents)
 
-<img src="http://i.imgur.com/HNmcUfN.png"/>
+<img src="https://i.imgur.com/HNmcUfN.png"/>
 
 I was trying hard to not go till the very last second well it doesn't necessarily have to be a person but some entity on the edge yeah and I'm really using the term edge of course is really vague but what I mean by it mostly is it's not the thing in the center of the architecture diagram okay and then the second question the concept of the micro ledger is there any concept of persisting the final values of the micro ledger onto a blockchain yeah so this is if I go back to let's see the notion of anchoring something on a blockchain a number of people in industry are exploring different ways to do that and one of the things you could anchor on a blockchain is a micro ledger so if you needed to prove for example to a third party let's say Alice and Bob are interacting and it's it's a private personal relationship but let's say Bob doesn't fully trust Alice and maybe he's afraid that alice is gonna steal all of his cool music for his next album even because he's been sharing it with her so
 he goes and he anchors some things on
