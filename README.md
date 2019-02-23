@@ -1,5 +1,5 @@
 # Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
+<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 **Self-Sovereign, Blockchain and Decentralized Identity Resources**
 
 This is a gathering of educational materials around decentralized, self-sovereign, and blockchain identity. Its an index for research, training, developers, students, end-users, investors, and the enterprise to more easily learn and navigate the decentralized identity landscape.
