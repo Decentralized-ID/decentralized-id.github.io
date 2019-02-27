@@ -14,14 +14,14 @@ This is a gathering of educational materials around decentralized, self-sovereig
 ## Contents
 
 * [Introduction](#Introduction)
-  * [Related Repositories](#related-repositories-)
+  * [Related Repositories](#related-repositories)
   * [What is Decentralized ID?](#what-is-decentralized-id-)
   * [Link Shorthand](#link-shorthand)
 * [History](#history-)
   * [The Augmented Social Network and the IDCommons](#the-augmented-social-network-and-the-idcommons-)
   * [Internet Identity Workshop—IIW](#internet-identity-workshop-) 
-  * [#Rebooting-Web-of-Trust (RWoT)](#Rebooting-the-Web-Of-Trust)
   * [Bitnation and the United Nations](#bitnation-and-the-united-nations-)
+  * [#Rebooting-Web-of-Trust (RWoT)](#Rebooting-the-Web-Of-Trust)
   * [ID2020 and the GDPR](#id2020-and-the-gdpr-)
   * [Additional IID Standards History](#additional-iid-standards-history-)
 * [Resources](#resources-)
