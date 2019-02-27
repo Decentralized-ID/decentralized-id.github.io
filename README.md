@@ -13,8 +13,8 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 ## Contents
 
-* [Introduction](#Introduction)
-  * [Related Repositories](#related-repositories)
+* [Introduction](#introduction-)
+  * [Related Repositories](#related-repositories-)
   * [What is Decentralized ID?](#what-is-decentralized-id-)
   * [Link Shorthand](#link-shorthand)
 * [History](#history-)
