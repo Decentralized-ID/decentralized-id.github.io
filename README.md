@@ -4,6 +4,8 @@
 
 This is a gathering of educational materials around decentralized, self-sovereign, and blockchain identity. Its an index for research, training, developers, students, end-users, investors, and the enterprise to more easily learn and navigate the decentralized identity landscape.
 
+**NOTE: This repository is in the process of moving to [decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.cio) so that it can become a community developed website [decentralized-id.com](https://decentralized-id.com). For now this is still the most current version of the page. There will be further notice, here, at a later time.**
+
 ![](https://i.imgur.com/9KpJRDr.png)
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies,  governments, and others correlate our interactions across different services and locations by default. It  won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
