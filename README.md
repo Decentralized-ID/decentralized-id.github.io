@@ -69,7 +69,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Slideshare](#slideshare-)
   * [Podcasts](#podcasts-)
   * [Sources](#sources-)
-  * [Contact me for Research Driven Content](#infominer-id-)
+  * [Contact me for Research Driven Content](#infominerid-)
 
 ## Introduction [**^**](#contents)
 
