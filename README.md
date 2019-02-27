@@ -4,7 +4,7 @@
 
 This is a gathering of educational materials around decentralized, self-sovereign, and blockchain identity. Its an index for research, training, developers, students, end-users, investors, and the enterprise to more easily learn and navigate the decentralized identity landscape.
 
-**NOTE: This repository is in the process of moving to [decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.cio) so that it can become a community developed website [decentralized-id.com](https://decentralized-id.com). For now this is still the most current version of the page. There will be further notice, here, at a later time.**
+**NOTE: This repository is in the process of moving to [decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io) so that it can become a community developed website [decentralized-id.com](https://decentralized-id.com). For now this is still the most current version of the page. There will be further notice, here, at a later time.**
 
 ![](https://i.imgur.com/9KpJRDr.png)
 
