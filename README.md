@@ -96,6 +96,7 @@ The essence of Decentralized-ID is to create systems for identification that are
 It's impossible to have a conversation about decentralized-id without discussing blockchain and self sovereign identity: 
   * Blockchain fueled longstanding efforts to create a privacy preserving internet-wide identity protocol, and inspired development of decentralized networks for online identification. 
   * Self Sovereign Identity principles (with some help from the GDPR) have helped to shape the narrative around putting the identity owner in control over their personal information.
+  * The United Nations Sustainable Development Goals (SDGs) have also helped to shape the narrative and further fueled efforts for a global and widely accessible identity solution.
 
 ---
 
@@ -156,8 +157,7 @@ Develop effective, accountable and transparent institutions at all levels
   >* Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements—(*emphasis mine*)
 * [DIGITAL IDENTITY AS A BASIC HUMAN RIGHT](https://impakter.com/digital-identity-basic-human-right/)
 * [AID:Tech](https://aid.technology) [[**T**]](https://twitter.com/aidtechnology) — "is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner." (another early example of blockchain for humanitarian aide)
-
-![](https://imgur.com/GdYLQjzl.png)
+* [Additional Info on Blockchain and the United Nations](https://infominer.id/research/UnitedNations.html)
 
 ### Rebooting the Web Of Trust [**^**](#contents)
 
