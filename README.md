@@ -13,7 +13,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 ## Contents
 
-**The ToC should be fixed. Sorry for the inconvenience. Please let me know if there are any problems I missed. -[infominer.id](https://infominer.id)**
+**The ToC should be fixed. Sorry for the inconvenience (my editor is more forgiving than github gui). Please let me know if there are any problems I missed. -[infominer.id](https://infominer.id)**
 
 
 * [Introduction](#introduction-)
