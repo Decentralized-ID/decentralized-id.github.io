@@ -13,7 +13,8 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 ## Contents
 
-**Sorry this was broken for so long.** Please let me know if any of the links in this contents are still broken. My editor is more forgiving than github, and I didn't understand before exactly how github turns headers into anchors.
+**The ToC should be fixed. Sorry for the inconvenience. Please let me know if there are any problems I missed. -[infominer.id](https://infominer.id)**
+
 
 * [Introduction](#introduction-)
   * [Related Repositories](#related-repositories-)

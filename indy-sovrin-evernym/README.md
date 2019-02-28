@@ -12,6 +12,9 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
 ![](https://i.imgur.com/KFmYHQ6.png)
 
 ### Contents
+
+**The ToC should be fixed. Sorry for the inconvenience. Please let me know if there are any problems I missed. -[infominer.id](https://infominer.id)**
+
 * [Introduction](#introduction-)
   * [Link Shorthand](#link-shorthand-)
 * [Self Sovereign Identity—SSI](#self-sovereign-identity-)
