@@ -1,5 +1,13 @@
-# Microledgers and Edge-Chains —Hyperledger Global Forum 2018
+---
+title: Microledgers and Edge-Chains — A Primer 
+description: A Transcript of Daniel Hardman of Evernym Presenting at Hyperledger Global Forum — 2018
+image: "https://infominer.id/images/edge-card.png"
+---
+
+# Hyperledger Global Forum 2018 — Microledgers and Edge-Chains 
 **A Primer - Daniel Hardman, Evernym**
+
+<code>Editors Note: I've taken to working on youtube transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
 
 [Evernym](https://evernym.com)’s Chief Architect [Daniel Hardman](https://www.evernym.com/team/daniel-hardman/) takes the Hyperledger community through Evernym’s work on Microledgers and Edge-Chains Architecture. Attendees will gain insight into the theory, applications and evolution in Hyperledger Indy along with a practical discussion of their potential.
 
@@ -12,8 +20,8 @@
 ## Contents
 
 * [Microledgers and Edge-Chains](#microledgers-and-edge-chains-)
-* [A Personal Arc](#a-personal-arc)
-* [Blockchain— the new centralization](#Blockchain—-the-new-centralization)
+* [A Personal Arc](#a-personal-arc-)
+* [Blockchain— the new centralization](#blockchain-the-new-centralization-)
 * [Where Blockchain is Needed (or Not)](#where-blockchain-is-needed-or-not-)
 * [Microledgers](#microledgers-)
 * [How Blockchain is Still Relevant](#how-blockchain-is-still-relevant-)
@@ -21,14 +29,15 @@
 * [Teleomergent - More than a decentralized app](#teleomergent---more-than-a-decentralized-app-)
 * [Dapps vs Edgechain Protocols](#dapps-vs-edgechain-protocols-)
 * [Defining an Edgechain Protocol](#defining-an-edgechain-protocol-)
-* [A Familiar Example—Buying a House](#a-familiar-example—buying-a-house-)
+* [A Familiar Example—Buying a House](#a-familiar-examplebuying-a-house-)
 * [Trust Ping Protocol](#trust-ping-protocol-)
 * [Tic Tac Toe](#tic-tac-toe-)
 * [DID method for peer (private pairwise) DIDs](#did-method-for-peer-private-pairwise-dids-)
 * [Peer DID Method Spec](#peer-did-method-spec-)
 * [Megaphone Protocol](#megaphone-protocol-)
 * [Call to Action](#call-to-action-)
-* [Q&A](#q&a-)
+* [Q&A](#qa-)
+* [Home](https://infominer.id)
 
 ## Microledgers and Edge-Chains [**^**](#contents)
 **Lightly edited transcript from Youtube.**

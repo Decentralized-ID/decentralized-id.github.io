@@ -1,5 +1,13 @@
-# Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy 
-**—Hyperledger Global Forum 2018**
+---
+title: Verifiable Organizations Network - A Production Government Deployment of Hyperledger Indy
+description: Transcript of Presentation by John Jordan and Stephen Curran at HGF 2018
+image: "https://infominer.id/images/VON.png"
+---
+
+# Hyperledger Global Forum 2018 — Verifiable Organizations Network 
+**A Production Government Deployment of Hyperledger Indy**
+
+<code>Editors Note: I've taken to working on youtube transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
 
 -Published on Dec 27, 2018
 
@@ -26,9 +34,9 @@ We present the Why, What and How including our strategy for bootstrapping VON us
 * [Verifiable Proofs](#verifiable-proofs-)
 * [Chicken-or-Egg Dilemma](#chicken-or-egg-dilemma-)
 * [The Org Book](#the-org-book-)
-* [The BC Gov Org Book](#the-bc-gov-org-book-)
+* [BCGov Org Book](#bc-gov-org-book-)
 * [Verifiable Credentials](#verifiable-credentials-)
-* [Production Network—Live 9-10-18](#production-network—live-9-10-18-)
+* [Production Network—Live 9-10-18](#production-networklive-9-10-18-)
 * [General Purpose](#general-purpose-)
 * [Ontario Org Book](#ontario-org-book-)
 * [Come to our Workshop](#come-to-our-workshop-)
@@ -37,7 +45,8 @@ We present the Why, What and How including our strategy for bootstrapping VON us
 * [Just the First Step](#just-the-first-step-)
 * [Indy Catalyst](#indy-catalyst-)
 * [Serving the Public](#serving-the-public-)
-* [Q&A](#q&a-)
+* [Q&A](#qa-)
+* [Home](https://infominer.id)
 
 ## Transcript [**^**](#contents)
 
@@ -74,7 +83,7 @@ I also want to acknowledge that **I do all this work with [Carol Prest](https://
 
 Unfortunately she's not available she's in India right now, but having this business partnership and having her in her organization behind this, and having the discipline of trying to **solve problems for business people** is what is making this project really fun and also useful 
 
-## Sovling problems [**^**](#contents)
+## Solving problems [**^**](#contents)
 <img src="http://i.imgur.com/MrIep94.png"/>
 
 We're gonna focus on a problem here which is **how do we help small business** we have sort of a an example of Mary's bakery but **it could be any kind of business** construction mining whatever it is and the problem is that these business people are very excited about starting a business is an exciting time in life but they don't realize sometimes that **they have quite a lot of obligations that they must fill for government**
@@ -270,7 +279,7 @@ almost every project team we talked to says "oh we can use that!" so we're build
 
 <img src="http://i.imgur.com/QyOUf4G.png"/>
 
-## Bootstraping Mechanism [**^**](#contents)
+## Bootstrapping Mechanism [**^**](#contents)
 
 the other side of it that we think is going to be really important is well this is a bootstrapping mechanism we've realized there can be some life to this in that we're going to create we're going to be creating a pub sub subscription service basically so that a business that gets a credential and verifies it can subscribe to that credential in the future and get notified when it changes 
 
