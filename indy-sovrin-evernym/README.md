@@ -12,36 +12,36 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
 ![](https://i.imgur.com/KFmYHQ6.png)
 
 ### Contents
-* [Introduction](#Introduction)
-  * [Link Shorthand](#Link-Shorthand)
-* [Self Sovereign Identity—SSI](#Self-Sovereign-Identity)
-* [Evernym](#Evernym)
-* [The Sovrin Foundation](#The-Sovrin-Foundation)
-  * [Sovrin Stewards](#Sovrin-Stewards)
-  * [Selected Articles Windley.com](#Selected-Articles-Windley.com)
-* [Hyperledger Indy](#Hyperledger-Indy)
-  * [Indy Github Repositories](#Indy-Github-Repositories)
-  * [Additional Indy Related](#Additional-Indy-Related)
+* [Introduction](#introduction-)
+  * [Link Shorthand](#link-shorthand-)
+* [Self Sovereign Identity—SSI](#self-sovereign-identity-)
+* [Evernym](#evernym-)
+* [The Sovrin Foundation](#the-sovrin-foundation-)
+  * [Sovrin Stewards](#sovrin-stewards-)
+  * [Selected Articles Windley.com](#selected-articles-windleycom-)
+* [Hyperledger Indy](#hyperledger-indy-)
+  * [Indy Github Repositories](#indy-github-repositories-)
+  * [Additional Indy Related](#additional-indy-related-)
   * [Wallets](#wallets-)
   * [Zero Knowledge Proof in Indy](#zero-knowledge-proofs-in-indy-)
-* [W3C and DID Related Standards](#W3C-and-DID-Related-Standards-)
-  * [DID the Decentralized Identifier](#DID-the-Decentralized-Identifier-)
-  * [DID Auth](#DID-Auth) 
-  * [Verifiable Claims](#Verifiable-Claims)
-  * [Decentralized Key Management (Agents)](#decentralized-key-management-agents)
-* [The Decentralized Identity Foundation (DIF)](#Decentralized-Identity-Foundation)
-* [BCGov's Verifiable Organizations Network (VON)](#bcgovs-verifiable-organizations-network-von)
-* [Evernym-Sovrin-Indy Adoption](#Evernym-Sovrin-Indy-Adoption)
+* [W3C and DID Related Standards](#w3c-and-did-related-standards-)
+  * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
+  * [DID Auth](#did-auth) 
+  * [Verifiable Claims](#verifiable-claims-)
+  * [Decentralized Key Management (Agents)](#decentralized-key-management-agents-)
+* [The Decentralized Identity Foundation (DIF)](#decentralized-identity-foundation-)
+* [BCGov's Verifiable Organizations Network (VON)](#bcgovs-verifiable-organizations-network-von-)
+* [Evernym-Sovrin-Indy Adoption](#evernym-sovrin-indy-adoption)
 * [Hyperledger Global Forum—2018](#hyperledger-global-forum—2018-)
-* [GDPR](#EU-General-Data-Protection-Regulation-Act)
-* [Research Papers](#Research-Papers)
-* [Reports](#Reports)
-* [Videos](#Video)
-* [Podcasts](#Podcasts)
-* [Sources](#Sources)
+* [GDPR](#eu-general-data-protection-regulation-act-)
+* [Research Papers](#research-papers-)
+* [Reports](#reports-)
+* [Videos](#video-)
+* [Podcasts](#podcasts-)
+* [Sources](#sources-)
 
 
-### Introduction[**^**](#Contents)
+### Introduction [**^**](#Contents)
 
 Internet Identity Workshop is where the quest for concious, user-centric, identity began. Rebooting Web-of-Trust Workshops sprung from the IIW, focused on creating standards for DPKI. Among the United Nations 'Sustainable Development Goals' is for all the world to have access to a digital identity by 2030. Around 2016, the SDGs, blockchain, and the GDPR converged bringing much energy to the decentralized identity ecosystem. 
 
@@ -49,14 +49,14 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ---
 
-#### Link Shorthand[**^**](#Contents)
+#### Link Shorthand [**^**](#Contents)
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. 
 
 ![](https://imgur.com/3zz62kpl.png)
 
 
-### Self Sovereign Identity[**^**](#Contents) [**>>**](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)
+### Self Sovereign Identity [**^**](#Contents) [**>>**](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)
 
 
 [Christopher Allen](http://www.lifewithalacrity.com/)[[**info**](https://christophera.info/)] details the overarching history of internet idenitity standards and outlines [10 Principles of Self Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) in his seminal work [The Path to Self-Soverereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)[[**ϟ**](https://www.coindesk.com/path-self-sovereign-identity/amp/)]
@@ -70,7 +70,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
 
-### Evernym[**^**](#Contents)
+### Evernym [**^**](#Contents)
 
 ![](http://untangled.world/wp-content/uploads/2017/08/everynym-logo-1400x357.png)
 
@@ -80,7 +80,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
 
 
-### The Sovrin Foundation[**^**](#Contents)
+### The Sovrin Foundation [**^**](#Contents)
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
@@ -99,7 +99,7 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
   * [Sovrin Status Twitter](https://twitter.com/sovrin_status)
 
 
-#### Sovrin Stewards[**^**](#Contents)
+#### Sovrin Stewards [**^**](#Contents)
 
 The Sovrin ledger is operated by Stewards, trusted organizations within the ecosystem who have agreed to abide by the requirements in the [Sovrin Trust Framework](https://sovrin.org/library/sovrin-governance-framework/) and are responsible for operation the nodes that maintain the Sovrin distributed ledger.
 
@@ -163,7 +163,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 
 
-### Hyperledger Indy[**^**](#Contents)
+### Hyperledger Indy [**^**](#Contents)
 
 ![](https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png)
 
@@ -186,7 +186,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 
 <img src="https://i.imgur.com/a0dpDtr.png"/>
 
-#### Indy Github Repositories[**^**](#Contents)
+#### Indy Github Repositories [**^**](#Contents)
 
 * [/indy-plenum](https://github.com/hyperledger/indy-plenum) - Byzantine Fault Tolerant Protocol [[**wiki**](https://github.com/hyperledger/indy-plenum/wiki)]
     > "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem." 
@@ -205,7 +205,7 @@ Hyperledger Indy Project Enhancements
 * [/ursa](https://github.com/hyperledger/ursa) [[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)][[**ϟ**](https://www.coindesk.com/hyperledger-launches-cryptography-toolbox-for-blockchain-developers)] "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the shared library will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram) [[**wiki**](https://wiki.hyperledger.org/projects/ursa)]
 
 
-#### Additional Indy Related[**^**](#Contents) 
+#### Additional Indy Related [**^**](#Contents) 
 * [Hyperledger Identity Working Group-paper](https://docs.google.com/document/d/1ExFNRx-yYoS8FnDIUX1_0UBMha9TvQkfts2kVnDc4KE/edit#heading=h.7noli5fp1i70)
 * [HyperledgerIndyWGCall_2018-12-06](https://drive.google.com/file/d/1166XpTM8WgZVMN2ca53CRCJapZlAeUhM/view) Discussion of VON and Plenum Docs (w info-graphics)
 * [A Framework for Designing Cryptographic Key Management Systems](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-130.pdf) 
@@ -254,13 +254,13 @@ Hyperledger Indy Project Enhancements
 
 
 
-### W3C and DID Related Standards[**^**](#Contents) [**>>**](../README.md#w3c-and-did-related-standards)
+### W3C and DID Related Standards [**^**](#Contents) [**>>**](../README.md#w3c-and-did-related-standards)
 
 * [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
 * [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 
-#### DID the Decentralized Identifier[**^**](#Contents) [**>>**](../README.md#did-the-decentralized-identifier)
+#### DID the Decentralized Identifier [**^**](#Contents) [**>>**](../README.md#did-the-decentralized-identifier)
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
 
@@ -278,7 +278,7 @@ Hyperledger Indy Project Enhancements
 * [Peer DID Method Spec](https://github.com/dhh1128/peer-did-method-spec)
 
 
-#### DID Auth[**^**](#Contents) 
+#### DID Auth [**^**](#Contents) 
 
 ![](https://imgur.com/XMaq5cil.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
@@ -289,7 +289,7 @@ Hyperledger Indy Project Enhancements
 <sup><a href="http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/"><img src="https://i.imgur.com/YNlk8RY.png"/></a>\
 http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10</sup>
 
-#### Verifiable Claims[**^**](#Contents) 
+#### Verifiable Claims [**^**](#Contents) 
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/nsZ0X7r.png"/></a>
 
@@ -300,7 +300,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10</sup>
 
 
 
-#### Decentralized Key Management-Agents[**^**](#Contents) 
+#### Decentralized Key Management-Agents [**^**](#Contents) 
 
 <img src="https://i.imgur.com/0SLcjUv.png"/>
 
@@ -310,7 +310,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10</sup>
 
 
 
-### Decentralized Identity Foundation[**^**](#Contents) [**>>**](../README.md#Decentralized-Identity-Foundation)
+### Decentralized Identity Foundation [**^**](#Contents) [**>>**](../README.md#Decentralized-Identity-Foundation)
 
 ![](https://imgur.com/PXGV6Xyl.png)
 
@@ -326,7 +326,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [6/27 Masterclass on the DID Universal Resolver | Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
 
 
-#### BCGov's Verifiable Organizations Network VON[**^**](#Contents)
+#### BCGov's Verifiable Organizations Network VON [**^**](#Contents)
 
 ![](https://i.imgur.com/0Mr3YMn.pnghttps://i.imgur.com/CvQnRZ2.png)
 
@@ -347,7 +347,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 
 >The Government of British Columbia and the Government of Ontario have already rolled out a production system using the Sovrin Network for business registration and licensing; together they've issued over 6 million credentials, according to Windley. - [How Blockchain may Kill the Password](https://www.computerworld.com/article/3329962/blockchain/how-blockchain-may-kill-the-password.amp.html)
 
-### Evernym-Sovrin-Indy Adoption[**^**](#Contents)
+### Evernym-Sovrin-Indy Adoption [**^**](#Contents)
 
 ![](https://i.imgur.com/3sfiarQ.png)
 
@@ -426,21 +426,21 @@ If you have any videos you'd like to see transcripts prepared in the following f
 * [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
 * [Privacy by Design in Hyperledger Indy](https://www.hyperledger.org/blog/2018/09/12/privacy-by-design-in-hyperledger-indy)
 
-### Research Papers[**^**](#Contents) [**>>**](../README.md#Research-Papers)
+### Research Papers [**^**](#Contents) [**>>**](../README.md#Research-Papers)
 * [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin)
 * [Evernym Research Collection *2016 Archive*](https://web.archive.org/web/20170206161655/http://www.evernym.com/our-research/)
 * [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
 * [A First Look at Identity Management Schemes on the Blockchain](https://arxiv.org/pdf/1801.03294.pdf)
 
 
-### Reports[**^**](#Contents) [**>>**](../README.md#Reports)
+### Reports [**^**](#Contents) [**>>**](../README.md#Reports)
 * [A Comprehensive Evaluation of the Identity Management Utility Sovrin](https://dutchblockchaincoalition.org/uploads/pdf/Blockchain-Sovrin-rapport.pdf)
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
 * [IDENTITY MATTERS](https://cboxxtest.files.wordpress.com/2017/09/cboxxidentitymatters04.pdf)
 * [A position paper on blockchain enabled identity and the road ahead—Identity Working Group of the German Blockchain Association](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)
 
 
-### Video[**^**](#Contents) [**>>**](../README.md#video)
+### Video [**^**](#Contents) [**>>**](../README.md#video)
 * [Meet the Sovrin Foundation](https://vimeo.com/299487829)
 * [Hyperledger Indy Explainer Video](https://www.youtube.com/watch?v=MnO2L6WoqD0)
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
@@ -457,10 +457,10 @@ If you have any videos you'd like to see transcripts prepared in the following f
 * [Hyperledger Global Forum - Video](https://www.youtube.com/playlist?list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP)
 
 
-### Podcasts[**^**](#Contents) [**>>**](../README.md#Podcasts)
+### Podcasts [**^**](#Contents) [**>>**](../README.md#Podcasts)
 * [MyData Podcast](https://mydata.org/podcast/)
 
-### Sources[**^**](#Contents) [**>>**](../README.md#Sources)
+### Sources [**^**](#Contents) [**>>**](../README.md#Sources)
 * [Evernym](https://www.evernym.com/)
 * [Sovrin Foundation](https://sovrin.org/)
 * [wiki.hyperledger.org—Indy](https://wiki.hyperledger.org/display/indy)
