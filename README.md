@@ -46,7 +46,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Democracy Earth](#democracy-earth-)
   * [Bitcoin](#bitcoin-)
   * [Ethereum](#ethereum)
-     * [Ethereum Apps](#ethereum-identity-applications-)
+     * [Ethereum Apps](#ethereum-identity-appls-)
   * [IBM](#ibm-)
   * [Microsoft](#microsoft-)
   * [Decentralized Public Key Infrastructure (DPKI)](#decentralized-public-key-infrastructure-dpki-)
@@ -476,6 +476,8 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [Meet the Dad Who Registered His Daughter’s Birth on the Blockchain](https://www.coindesk.com/meet-the-dad-who-registered-his-daughters-birth-on-the-blockchain) [[**ϟ**](https://www.coindesk.com/humans-on-the-blockchain-why-crypto-is-the-best-defense-against-ai-overlords)]
 * Token: [Sale](https://token.democracy.earth/) • [Economics](https://www.dropbox.com/s/8q35dvht2hkfvqa/Democracy%20Earth%20-%20Token%20Economics.pdf?dl=0) • [testnet](https://votest.democracy.earth/)
 >we worked with councils, senates, non profits, student centers, political parties, corporations.. but implementing real digital governance at scale really took off with crypto networks. our partnership with @blockstack is our biggest milestone of 2018. -[Santi](https://twitter.com/santisiri/status/1076259390154592256)
+
+
 ### Bitcoin [**^**](#contents)
 
 ![](https://i.imgur.com/q32lAXY.png)
