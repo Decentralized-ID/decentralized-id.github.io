@@ -1,4 +1,4 @@
-# Rebooting Web Of Trust - Papers and Advanced Readings Index
+# Rebooting Web Of Trust - Papers and Advance Readings Index
 
 I wanted a list of all RWoT papers in one place, rather than having to directory hop to look for what I need. 
 
