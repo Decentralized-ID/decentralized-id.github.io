@@ -16,9 +16,8 @@ This is a gathering of educational materials around decentralized, self-sovereig
 **The ToC should be fixed. Sorry for the inconvenience (my editor is more forgiving than github gui). Please let me know if there are any problems I missed. -[infominer.id](https://infominer.id)**
 
 
-* [Introduction](#introduction-)
-  * [Related Repositories](#related-repositories-)
-  * [What is Decentralized ID?](#what-is-decentralized-id-)
+* [What is Decentralized ID?](#what-is-decentralized-id-)
+  * [Related Repositories](#related-repositories-)  
   * [Link Shorthand](#link-shorthand)
 * [History](#history-)
   * [The Augmented Social Network and the IDCommons](#the-augmented-social-network-and-the-idcommons-)
@@ -81,7 +80,7 @@ The essence of Decentralized-ID is to create systems for identification that are
 It's impossible to have a conversation about decentralized-id without discussing blockchain and self sovereign identity: 
   * Blockchain fueled longstanding efforts to create a privacy preserving internet-wide identity protocol, and inspired development of decentralized networks for online identification. 
   * Self Sovereign Identity principles (with some help from the GDPR) have helped to shape the narrative around putting the identity owner in control over their personal information.
-  * The United Nations Sustainable Development Goals (SDGs) have also helped to shape the narrative and further fueled efforts for a global and widely accessible identity solution.
+  * The United Nations Sustainable Development Goals (SDGs) have also helped to fueled efforts for a global and widely accessible identity solution.
 
 —[infominer.id](https://infominer.id)
 
