@@ -16,7 +16,12 @@ This is a gathering of educational materials around decentralized, self-sovereig
 **The ToC should be fixed. Sorry for the inconvenience (my editor is more forgiving than github gui). Please let me know if there are any problems I missed. -[infominer.id](https://infominer.id)**
 
 
-* [Directory](#directory)
+* [Directory](#directory-) 
+  - Related files and Resources
+     * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/)
+     * [Self-Sovereign-Identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)
+     * [/history.md](/history.md)
+     * [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
   * [What is Decentralized ID?](#what-is-decentralized-id-)
   * [Link Shorthand](#link-shorthand)
 * [Resources](#resources)
@@ -66,7 +71,7 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Sources](#sources-)
   * [Contact me for Research Driven Content](#infominerid-)
 
-## Directory
+## Directory [**^**](#contents)
 Other files within, and related to this repository
 
 * [History](/history.md) - SSI\DID History now lives here.
