@@ -10,7 +10,7 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 
 * [Rebooting the Web of Trust I](#rebooting-the-web-of-trust-i)
   * [Completed Papers](#completed-papers-1)
-  * [Topics and Advanced Readings](#topics---advanced-readings-1-)
+  * [Topics and Advanced Readings](##topics--advance-readings-1-)
 
 
 
