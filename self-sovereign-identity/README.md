@@ -97,17 +97,5 @@ Then I realized that I should make a more complete survey of the subject, if I w
 
 ---
 
-### Contact Me for Research Based Content—[infominer.id](https://infominer.id)
+### [infominer.id](https://infominer.id)
 <a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
-
-Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover our other crypto-resources.
-
-**Tips Welcome**
-
-BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
-
-![](http://imgur.com/yXLLm9Bl.png) 
-
-DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
-
-![](https://i.imgur.com/0zBLoUP.png) 
