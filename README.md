@@ -74,21 +74,6 @@ This is a gathering of educational materials around decentralized, self-sovereig
   * [Sources](#sources-)
   * [Contact me for Research Driven Content](#infominerid-)
 
-## Introduction [**^**](#contents)
-
-<code>Thanks to those who are working to make digital identity, and the world, a better place!</code>
-
-I've collected a ton of other crypto related resources in the [**SuperSource**](https://discord.gg/ahTuPMY) Discord chat server, and I have a few other repositories for topics ranging from [bitcoin history](https://github.com/infominer33/bitcoin-history) to [trading crypto](https://github.com/infominer33/learn-crypto-trading) to [SEO](https://github.com/infominer33/learn-seo). Have a look around! 
-
-Feel free to contact me. I'm happy to field questions, research niche blockchain topics, and discuss the potential for collaboration.
-—[infominer.id](https://infominer.id)
-
-### Related Repositories [**^**](#contents)
-
-* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) - The original list for projects related to blockchain-identity. 
-* [/awesome-decentralized-id/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - A folder in this repository, for information specific to Hyperledger Indy, the Sovrin Foundation, and Evernym.
-* [/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) - Another sub-folder to organize information about Self-Sovereign-Identity.
-
 ### What is Decentralized ID? [**^**](#contents)
 
 The essence of Decentralized-ID is to create systems for identification that are not owned by any one particular organization, and global collaboration in support of interoperability among emerging technologies for identity. 
@@ -97,6 +82,15 @@ It's impossible to have a conversation about decentralized-id without discussing
   * Blockchain fueled longstanding efforts to create a privacy preserving internet-wide identity protocol, and inspired development of decentralized networks for online identification. 
   * Self Sovereign Identity principles (with some help from the GDPR) have helped to shape the narrative around putting the identity owner in control over their personal information.
   * The United Nations Sustainable Development Goals (SDGs) have also helped to shape the narrative and further fueled efforts for a global and widely accessible identity solution.
+
+—[infominer.id](https://infominer.id)
+
+### Related Repositories [**^**](#contents)
+
+* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) - The original list for projects related to blockchain-identity. 
+* [/awesome-decentralized-id/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - A folder in this repository, for information specific to Hyperledger Indy, the Sovrin Foundation, and Evernym.
+* [/awesome-decentralized-id/self-sovereign-identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) - Another sub-folder to organize information about Self-Sovereign-Identity.
+
 
 ---
 
