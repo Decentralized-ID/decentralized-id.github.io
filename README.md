@@ -22,7 +22,6 @@
   * [Verifiable Claims](#verifiable-claims-)
   * [Decentralized Key Managment DKMS](#decentralized-key-management-dkms-)
 * [DID Adoption](#did-adoption-)
-* [Sources](#sources-)
 * [Directory](#directory) 
   * [SSI\DID History](/history.md)
   * [Self Sovereign Identity](/self-sovereign-identity)
@@ -37,6 +36,7 @@
   * [Microsoft](/microsoft)
   * [Humanitarian](/humanitarian)
   * [GDPR](/gdpr)
+* [Sources](#sources-)
 
 
 *Pull Requests Welcome*
@@ -197,17 +197,6 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 
 2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
 
-
-## Sources [**^**](#contents)
-* [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**ϟ**](https://www.slideshare.net/SSIMeetup/presentations/)] 
-* [IIW-Wiki](https://iiw.idcommons.net/Main_Page)
-* [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
-* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
-* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
-* [identitywoman.net](https://identitywoman.net/)
-* [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
-* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
-
 ## Directory [**^**](#contents)
 Other files and folders within this repository:
 
@@ -224,6 +213,16 @@ Other files and folders within this repository:
 * [Microsoft](/microsoft)
 * [Humanitarian](/humanitarian)
 * [GDPR](/gdpr)
+
+## Sources [**^**](#contents)
+* [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**ϟ**](https://www.slideshare.net/SSIMeetup/presentations/)] 
+* [IIW-Wiki](https://iiw.idcommons.net/Main_Page)
+* [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
+* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
+* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
+* [identitywoman.net](https://identitywoman.net/)
+* [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
+* [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
 
 ---
 
