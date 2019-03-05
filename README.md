@@ -26,6 +26,7 @@
   * [Microsoft](/microsoft)
   * [Humanitarian](/humanitarian)
   * [GDPR](/gdpr)
+* [Link Shorthand](#link-shorthand-)
 * [Resources](#resources)
   * [Link Shorthand](#link-shorthand)
   * [What is Decentralized ID?](#what-is-decentralized-id-)
@@ -43,8 +44,6 @@
 ## Directory [**^**](#contents)
 Other files within, and related to this repository
 
-**Internal**
-
 * [/history.md](/history.md) - SSI\DID History
 * [/Rebooting-Web-of-Trust](/Rebooting-Web-of-Trust) 
 * [/Self-Sovereign-Identity](/self-sovereign-identity)
@@ -58,17 +57,15 @@ Other files within, and related to this repository
 * [Humanitarian](/humanitarian)
 * [GDPR](/gdpr)
 
-**External**
-* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) - The original list for projects related to blockchain-identity. 
-* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo) - Repositories for #RebootingWebOfTrust design workshops.
-
-## Resources
-
-### Link Shorthand:
+## Link Shorthand:
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents.
 
+## Resources
+
 *Pull Requests Welcome*
+
+![](https://i.imgur.com/h4eLx4l.png)
 
 ### What is Decentralized ID? [**^**](#contents)
 
@@ -232,9 +229,7 @@ Blockstack is a network for decentralized applications where users own their ide
 ### [infominer.id](https://infominer.id) [**^**](#contents)
 <a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 
-I've collected other crypto resources in the [**SuperSource**](https://discord.gg/ahTuPMY) Discord server, and have other repositories similar to this one for other topics, beyond identity. Have a look around—[infominer.id](https://infominer.id)
-
-**Tips Welcome**
+**Tip Jar**
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
