@@ -8,8 +8,6 @@
 * [Additional IID Standards History](#additional-iid-standards-history-)
 
 
-![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
-
 ### The Augmented Social Network and the IDCommons [**^**](#contents)
 
 * *[The Augmented Social Network](http://asn.planetwork.net/): Building Identity and Trust into the Next-Generation Internet,* presented at the June 2003 Planetwork conference and published in [First Monday](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1068/988) the Peer-Reviewed Journal on the Internet 8/4/03.
@@ -20,8 +18,9 @@ Ideas from the ASN were the foundation of much that followed. The [Identity Comm
 >"Their most important contribution may have been the creation, in association with the Identity Gang, of the Internet Identity Workshop (2005-Present) working group. "[[**ϟ**](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)]
 
 
-
 ### Internet Identity Workshop [**^**](#contents)
+![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
+
 
 In 2005, [Kaliya Young](https://identitywoman.net/)[[**T**](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[**T**](https://twitter.com/windley)][[**V**](https://vimeo.com/windley)][[**G**](https://github.com/windley)], [Drummond Reed](https://www.evernym.com/)[[**T**](https://twitter.com/drummondreed)][[**B**](https://equalsdrummond.name/)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[**T**](https://twitter.com/dsearls)][[**B**](https://blogs.harvard.edu/doc)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)(IIW)[[**T**](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
 
@@ -89,12 +88,20 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
    >"Respect Network is conducting a research project for the [U.S. Department of Homeland Security](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology), HSHQDC-16-C-00061, to analyze the applicability of blockchain technologies to a decentralized identifier system. Our thesis is that blockchains, or more generically distributed ledgers, are a potentially powerful new tool for “identity roots” — the starting points for an Internet identity. However “blockchain identity” may not fully address the core security and privacy principles needed in a complete identity system. In this case DIDs — Decentralized Identifiers rooted on a distributed ledger — may end up being a foundational building block for higher level identity management solutions. -
 * At this point in time DLT innovation, the United Nations Sustainable Development Goals, and the EU GDPR all came together supporting a core identirati tenant: Eliminating id data silos and empowering users regarding digital identity. 
 
-![](https://i.imgur.com/XtZQg0j.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a></sup>
+![](https://i.imgur.com/XtZQg0j.png)
+
+![](https://i.imgur.com/FBe3S0w.png)
+
+![](https://i.imgur.com/5R51G4Y.png)
+
+![](https://i.imgur.com/xmWkc4l.png)
+
+
+<a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a> [<a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">**ϟ**</a>]
 
 
 
-### Additional IID Standards History [**^**](#contents) 
+## Additional IID Standards History [**^**](#contents) 
 * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
 * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
 * [Identity Commons-Wiki](http://wiki.idcommons.net/Main_Page)
