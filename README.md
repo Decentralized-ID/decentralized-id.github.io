@@ -66,16 +66,14 @@ Other files within, and related to this repository
 
 **Internal**
 * [History](/history.md) - SSI\DID History now lives here.
-* [/Rebooting-Web-of-Trust](https://github.com/infominer33/awesome-decentralized-id/blob/master/Rebooting-Web-of-Trust)
-* [/Self-Sovereign-Identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) - Another sub-folder to organize information about Self-Sovereign-Identity.
+* [/Rebooting-Web-of-Trust](https://github.com/infominer33/awesome-decentralized-id/blob/master/Rebooting-Web-of-Trust) - One Page for Links to All Papers Produced via RWoT.
+* [/Self-Sovereign-Identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) 
 * [/w3c-and-did-related-standards.md](https://github.com/infominer33/awesome-decentralized-id/blob/master/w3c-and-did-related-standards.md)
 * [/Indy-Sovrin-Evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - A folder in this repository, for information specific to Hyperledger Indy, the Sovrin Foundation, and Evernym.
 
 **External**
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) - The original list for projects related to blockchain-identity. 
-* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo) - Repositories for 
-
-
+* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo) - Repositories for #RebootingWebOfTrust design workshops.
 
 
 ## Resources
