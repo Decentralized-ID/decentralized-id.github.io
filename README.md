@@ -2,9 +2,9 @@
 <a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 *Self-Sovereign, Blockchain and Decentralized Identity Resources*
 
-**Under Construction: to become a community developed website [decentralized-id.com](https://decentralized-id.com).**
+**Under Construction: to become [decentralized-id.com](https://decentralized-id.com).**
 
-**It may be easier for you to navigate [/decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io) or [decentralized-id.com](https://decentralized-id.com) while I work on tearing this one apart.**
+**It may be easier for you to navigate [/decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io) while I work on tearing this one apart.**
 
 ![](https://i.imgur.com/9KpJRDr.png)
 
@@ -13,8 +13,8 @@
 
 ## Contents
 
-* [Directory](#directory-) 
-  * [/history.md](/history.md)
+* [Directory](#directory) 
+  * [SSI\DID History](/history.md)
   * [Rebooting Web of Trust](/Rebooting-Web-of-Trust)
   * [Self Sovereign Identity](/self-sovereign-identity)
   * [W3C and DID Related Standards](/standards)
@@ -26,27 +26,21 @@
   * [Microsoft](/microsoft)
   * [Humanitarian](/humanitarian)
   * [GDPR](/gdpr)
-* [Link Shorthand](#link-shorthand-)
-* [Resources](#resources)
-  * [Link Shorthand](#link-shorthand)
+* [Link Shorthand](#link-shorthand)
+* [Resources](#resources-)
   * [What is Decentralized ID?](#what-is-decentralized-id-)
-  * [What is Self Sovereign Identity?](#what-is-self-sovereign-identity-)
+  * [What is Self Sovereign Identity?](#self-sovereign-identity-)
   * [DID Adoption](#did-adoption-)
-  * [Reports](#reports-)
-  * [Research Papers](#research-papers-)
-  * [Additional Thought around Identity](#additional-thought-around-identity-)
-  * [Videos](#video-)
-  * [Slideshare](#slideshare-)
-  * [Podcasts](#podcasts-)
   * [Sources](#sources-)
 
-## Directory [**^**](#contents)
-Other files within, and related to this repository
+## Directory
+Other files and folders within this repository:
 
 * [/history.md](/history.md) - SSI\DID History
-* [/Rebooting-Web-of-Trust](/Rebooting-Web-of-Trust) 
 * [/Self-Sovereign-Identity](/self-sovereign-identity)
 * [/w3c-and-did-related-standards.md](/standards)
+* [Literature](/literature) - Research and Reports
+  * [/Rebooting-Web-of-Trust](/literature/Rebooting-Web-of-Trust) 
 * [/Hyperledger Indy, the Sovrin Foundation, and Evernym](/indy-sovrin-evernym/)
 * [Decentralized Identity Foundation—DIF](/identity-foundation)
 * [Ethereum](/ethereum)
@@ -55,12 +49,13 @@ Other files within, and related to this repository
 * [Microsoft](/microsoft)
 * [Humanitarian](/humanitarian)
 * [GDPR](/gdpr)
+* [Media](/asst-media) - Video, Podcasts and Slideshare
 
-## Link Shorthand:
+## Link Shorthand
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents.
 
-## Resources
+## Resources [**^**](#contents)
 
 *Pull Requests Welcome*
 
@@ -152,65 +147,6 @@ Blockstack is a network for decentralized applications where users own their ide
 
 2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
 
-
-
-### Reports [**^**](#contents)
-* [EU BLOCKCHAIN OBSERVATORY AND FORUM — Workshop Report — e-Identity, Brussels, November 7, 2018](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
-* [A Comprehensive Evaluation of the Identity Management Utility Sovrin](https://dutchblockchaincoalition.org/uploads/pdf/Blockchain-Sovrin-rapport.pdf)
-* [How Blockchain Revolutionizes Identity Management](https://www.accenture-insights.nl/en-us/articles/how-blockchain-will-revolutionize-identity-management)
-* [Digital Identity: the current state of affairs](https://www.bbvaresearch.com/wp-content/uploads/2018/02/Digital-Identity_the-current-state-of-affairs.pdf)
-* [Blockchain: Evolving Decentralized Identity Design](https://www.gartner.com/doc/3834863/blockchain-evolving-decentralized-identity-design)
-* [IDENTITY MATTERS](https://cboxxtest.files.wordpress.com/2017/09/cboxxidentitymatters04.pdf)
-* [Accenture: ID2020: DIGITAL IDENTITY with Blockchain and Biometrics](https://www.accenture.com/us-en/insight-blockchain-id2020)
-* [Privacy-Preserving Authentication, Another Reason to Care about Zero-Knowledge Proofs —slideshare](https://www.slideshare.net/eralcnoslen/privacypreserving-authentication-another-reason-to-care-about-zeroknowledge-proofs)
-* [r3- Identity in Depth](https://www.r3.com/wp-content/uploads/2017/06/Identity_indepth_r3.pdf)
-* [Global Blockchain Identity Management Market 2018-2022](https://www.technavio.com/report/global-blockchain-identity-management-market-analysis-share-2018)
-* [A Comprehensive Guide to Self Sovereign Identity](https://ssiscoop.com/) - by Kaliya ['Identity Woman'](https://twitter.com/IdentityWoman) Young and [Heather Vescent](https://twitter.com/heathervescent) [[**ϟ**](https://www.thepaypers.com/expert-opinion/10-things-you-need-to-know-about-self-sovereign-identity-part-1/774556)]
-* [Report launch: ‘Identity at the Margins — identification systems for refugees”](https://medium.com/caribou-digital/report-launch-identity-at-the-margins-identification-systems-for-refugees-69466244fa62)
-* [WEF: Identity in a Digital World A new chapter in the social contract](http://www3.weforum.org/docs/WEF_INSIGHT_REPORT_Digital%20Identity.pdf)
-* [A position paper on blockchain enabled identity and the road ahead](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)—Identity Working Group of the German Blockchain Association [[**ϟ**](https://www.bundesblock.de/2018/10/23/position-paper-self-sovereign-identity/)]
-
-### Research-Papers [**^**](#contents)
-* [Security without Identification: Transaction Systems to make Big Brother Obsolete](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - David Chaum 1985
-* [Establishing Identity Without Certification Authorities](https://irl.cs.ucla.edu/~yingdi/pub/papers/Ellison-OldFriend-USENIX-Security-1996.pdf)
-* [A First Look at Identity Management Schemes on the Blockchain](https://arxiv.org/pdf/1801.03294.pdf)
-* [ChainAnchor — Anonymous Identities for Permissioned Blokchains](http://connection.mit.edu/wp-content/uploads/sites/29/2014/12/Anonymous-Identities-for-Permissioned-Blockchains2.pdf)
-* [Decentralizing Privacy: Using Blockchain to Protect Personal Data](http://web.media.mit.edu/~guyzys/data/ZNP15.pdf)
-* [Towards Self-Sovereign Identity using Blockchain Technology](https://essay.utwente.nl/71274/1/Baars_MA_BMS.pdf)
-* [Self-sovereign Identity –	Opportunities and Challenges for the Digital Revolution](https://arxiv.org/pdf/1712.01767.pdf)
-* [The Knowledge Complexity Of Interactive Proofs](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.419.8132&)
-* [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin)
-* [Blockchain for Identity Management](https://www.cs.bgu.ac.il/~frankel/TechnicalReports/2016/16-02.pdf) - Details early efforts towards Blockchain-ID
-* [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
-
-
-### Video [**^**](#contents)
-* [SSI Meetup Youtube Channel](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)
-* [The Story of Open SSI Standards - Drummond Reed](https://www.youtube.com/watch?v=RllH91rcFdE&feature=youtu.be&t=4m30s)
-* [Is Blockchain the Future of Digital Identity?](https://youtu.be/Aub5dNpj2_k) -CB Insights
-* [Identity and Blockchain Technology](https://www.youtube.com/watch?v=Aub5dNpj2_k)
-* [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
-* [Decentralized Identifiers enable self-sovereign identity - MyData 2018](https://www.youtube.com/watch?v=KsIM0zq37fU)
-* [eIDAS and Self-Sovereign Identity - MyData 2018](https://www.youtube.com/watch?v=AHa175AEVVs)
-* [uPort: Self-Sovereign Identity Meets Portable Data](https://www.youtube.com/watch?v=hBIragrwqYc)
-* [MyData Global Youtube](https://www.youtube.com/channel/UCjBkx-XKa1gOr71fyCrJPfg)
-* [Phil Windley on Vimeo](https://vimeo.com/windley/videos)
-* [Internet of Agreements Conference on Identity](https://medium.com/humanizing-the-singularity/identity/home)
-* [Behind the Cloud Episode 6: Blockchain and Self-Sovereign Identity in the Enterprise](https://www.youtube.com/watch?v=wSdm2-18Z2g)
-* [Identity and the quest for Self Sovereign Identity - Daniel Hardman](https://www.youtube.com/watch?v=iqmY_h49vPs)
-
-
-### Slideshare [**^**](#contents)
-* [Towards Self Sovereign Identity](https://www.slideshare.net/alehors/towards-self-sovereign-identity-20180508) - A great slide-deck by IBM explaining Indy\Sovrin Architecture.
-* [Identiverse](https://www.slideshare.net/Identiverse/presentations)
-* [SSI Meetup](https://www.slideshare.net/SSIMeetup/presentations/)
-* [ChristopherA](https://www.slideshare.net/ChristopherA/presentations)
-
-### Podcasts [**^**](#contents)
-* [State of Identity](https://oneworldidentity.com/podcasts/)
-* [Analytics Neat—Episode 37: What is a Decentralized Identity (DID)?](https://player.fm/series/analytics-neat/episode-37-what-is-a-decentralized-identity-did)
-* [State Change #41 Unpacking Digital Identity](https://media.consensys.net/state-change-41-unpacking-digital-identity-christian-lundkvist-stephen-wilson-4fb5a75eb6ed)
-* [MyData Podcast](https://mydata.org/podcast/)
 
 ### Sources [**^**](#contents)
 * [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**ϟ**](https://www.slideshare.net/SSIMeetup/presentations/)] 
