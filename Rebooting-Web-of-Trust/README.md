@@ -96,8 +96,8 @@ In advance of the design workshop, all participants produced a one-or-two page t
   - Juan S. Galt *[@juansgalt](https://twitter.com/juansgalt) \<juans.galt@tuta.io\>*
 * **[Identity, Guidance and Situational Awareness](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Identity_Guidance_and_Situational_Awareness.md)** 
   - Matthew Schutte *[@MatthewJosef](https://twitter.com/matthewjosef) \<matt@calabs.org\>*
-*  **[Identity, Property and Simulation](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Identity-Property-Simulation.md)** 
-  - Patrick Deegan *\<pdeegan@gmail.com\>*
+* **[Identity, Property and Simulation](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Identity-Property-Simulation.md)**
+  - Patrick Deegan \<pdeegan@gmail.com\>
 * **[Key revocation of lost and stolen keys](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Key-revokation-of-lost-and-stolen-keys.md)** 
   - Martin Koeppelmann *[@koeppelmann](https://twitter.com/koeppelmann) \<martin.koeppelmann@consensys.net \>*
 * **[Key Transparency for End Users](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/key-transparency-for-end-users.md)** 
@@ -154,23 +154,22 @@ The goal of the workshop was to generate five technical white papers and/or prop
 
 ### Completed Papers II [**^**](#contents)
 
-The design workshop successfully completed its five papers, which are now all available online:
-
 * [**Identity Crisis: Clearer Identity Through Correlation**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/identity-crisis.pdf) 
-  * Joe Andrieu, Kevin Gannon, Igor Kruiper, Ajit Tripathi, and Gary Zimmerman
   * A new way to look at identity, as correlation over time.
+    * Joe Andrieu, Kevin Gannon, Igor Kruiper, Ajit Tripathi, and Gary Zimmerman
 * [**Powering the Physician-Patient Relationship with HIE of One Blockchain Health IT**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/physician-patient-relationship.pdf) 
-  * Adrian Gropper, MD
   * Using Blockchains and DIDs for physician-patient interactions.
+    * Adrian Gropper, MD
 * [**Protecting Digital Identities in Developing Countries**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)
-  * Wayne Hennessy-Barrett
   * A real-world use case, describing issues of identity in the developing world.
+    * Wayne Hennessy-Barrett
 * [**Requirements for DIDs (Decentralized Identifiers)**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/requirements-for-dids.pdf) 
-  * Drummond Reed and Les Chasen
   * The first of a series of papers abou tproducing a concrete DID system.
+    * Drummond Reed and Les Chasen
 * [**Smarter Signatures: Experiments in Verifications**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/smarter-signatures.pdf) 
-  * Christopher Allen and Shannon Appelcline
   * A look at uses and requirements of next-generation smart signature systems.
+    * Christopher Allen and Shannon Appelcline
+  
 
 ### Topics & Advance Readings II [**^**](#contents)
 
@@ -243,40 +242,29 @@ The third Rebooting the Web of Trust design workshop, which ran in San Francisco
 
 ### Completed Papers III [**^**](#contents)
 
-The design workshop exceeded its mandate by producing seven papers, which are now all available online:
+The design workshop exceeded its mandate by producing seven papers:
 
-* [**DID (Decentralized Identifier) Data Model and Generic Syntax 1.0 Implementer’s Draft 01**](final-documents/did-implementer-draft-10.pdf)
-  - Drummond Reed, Les Chasen, Christopher Allen, and Ryan Grant
-    - The complete draft of the Decentralized IDentifier (DID) model and syntac, a project that has run through the RWOT workshops to date.
-* [**Digital Verification Advancements at RWoT III**](final-documents/digital-verification-advancements.pdf)
-  - Manu Sporny with Christopher Allen, Harlan Wood, and Jason Law
-   - A short overview of enhancements to Digital Verification that came out of RWOT III.
-
-## [*Embedding Human Wisdom in Our Digital Tomorrow*](final-documents/WisdomEmbedding-Human-Wisdom-in-Our-Digital-Tomorrow.pdf)
-#### by Daniel Hardman, Kaliya “Identity Woman” Young, and Matthew Schutte
-
-> A discussion of the dangers of transferring wisdom into the digital world, seen through the lenses of vulnerability, shadows, healing, tensions, complexity and gestalt, and organizational choices.
-
-## [*Hubs*](final-documents/hubs.pdf)
-#### by Daniel Buchner, Wayne Vaughan, and Ryan Shea
-
-> An overview of the hubs datastore system.
-
-## [*Joram 1.0.0*](final-documents/joram-engagement-model.pdf)
-#### by Joe Andrieu and Bob Clint
-
-> An Information Lifecycle Engagement Model that offers a use case for a Syrian refugee.
-
-## [*Portable Reputation Toolkit Use Cases*](final-documents/reputation-toolkit.pdf)
-#### by Christopher Allen, Tim Daubenschütz, Manu Sporny, Noah Thorp, Harlan Wood, Glenn Willen, and Alessandro Voto
-
-> A model and proof-of-concept implementation for decentralized verification.
-
-## [*Smart Consent Protocol*](final-documents/smart-consent-protocol.pdf)
-#### by Dr. Shaun Conway, Lohan Spies, Jonathan Endersby, and Tim Daubenschütz
-
-> Bringing together COALA IP and Consent to deal with digital intellectual property.
-
+* [**DID (Decentralized Identifier) Data Model and Generic Syntax 1.0 Implementer’s Draft 01**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/did-implementer-draft-10.pdf)
+  - The complete draft of the Decentralized IDentifier (DID) model and syntac, a project that has run through the RWOT workshops to date.
+    - Drummond Reed, Les Chasen, Christopher Allen, and Ryan Grant
+* [**Digital Verification Advancements at RWoT III**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/digital-verification-advancements.pdf)
+  - A short overview of enhancements to Digital Verification that came out of RWOT III.
+    - Manu Sporny with Christopher Allen, Harlan Wood, and Jason Law
+* [**Embedding Human Wisdom in Our Digital Tomorrow**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/WisdomEmbedding-Human-Wisdom-in-Our-Digital-Tomorrow.pdf)
+  - A discussion of the dangers of transferring wisdom into the digital world, seen through the lenses of vulnerability, shadows, healing, tensions, complexity and gestalt, and organizational choices.
+    - Daniel Hardman, Kaliya “Identity Woman” Young, and Matthew Schutte
+* [**Hubs**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/hubs.pdf)
+  - An overview of the hubs datastore system.
+    - Daniel Buchner, Wayne Vaughan, and Ryan Shea
+* [**Joram 1.0.0**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/joram-engagement-model.pdf)
+  - An Information Lifecycle Engagement Model that offers a use case for a Syrian refugee.
+    - Joe Andrieu and Bob Clint
+* [**Portable Reputation Toolkit Use Cases**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/reputation-toolkit.pdf)
+  - A model and proof-of-concept implementation for decentralized verification.
+    - Christopher Allen, Tim Daubenschütz, Manu Sporny, Noah Thorp, Harlan Wood, Glenn Willen, and Alessandro Voto
+* [**Smart Consent Protocol**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/smart-consent-protocol.pdf)
+  - Bringing together COALA IP and Consent to deal with digital intellectual property.
+    - Dr. Shaun Conway, Lohan Spies, Jonathan Endersby, and Tim Daubenschütz
 
 ### Topics & Advance Readings III [**^**](#contents)
 
@@ -285,7 +273,48 @@ In advance of the design workshop, all participants produced a one-or-two page t
 * A specific problem that they wanted to solve with a web-of-trust solution, and why current solutions (PGP or CA-based PKI) can't address the problem?
 *  A specific solution related to the web-of-trust that you'd like others to use or contribute to?
 
-https://github.com/WebOfTrustInfo/rwot3-sf
+**The topic papers submitted were:**
+
+* [Identity as Linked Data on Immutable Ledgers](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/identity-as-linked-data-on-immutable-ledgers.md) 
+  - Tim Daubenschuetz and Trent McConaghy 
+* [EU General Data Protection Regulation & Self-Sovereign Identifier(s)](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/EU%20General%20Data%20Protection%20Regulation%20%26%20Self-Sovereign%20Identifier(s)) 
+  - David Robert
+* [Identity Forking and Federated Reputation](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/identity-forking-and-federated-reputation.md) 
+  - Christopher Malon
+* [OpenTimestamps: Scalable, Trustless, Distributed Timestamping with Bitcoin](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/opentimestamps.md) 
+  - Peter Todd
+* [Distributed Identity, Distributed Self](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/DistributedIdentityDistributedSelf.md) 
+  - Natalie Smolenski
+* [Blockchain Extensions for Linked Data Signatures](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/blockchain-extensions-for-linked-data-signatures.md) 
+  - the Signature Super Friends (Manu Sporny, Harlan Wood, Noah Thorp, Wayne Vaughn, Christopher Allen, Jason Bukowski, and Dave Longley)
+* [Fit for Purpose Blockchains](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/fit-for-purpose-blockchains.md) 
+  - Digital Bazaar (Manu Sporny, Dave Longley, Dave Lehn, and Adam Lake)
+* [Taxonomy of Identity Interaction Types](https://github.com/Identitywoman/Writing/blob/master/Taxonomy-of-Identity-Interaction-Types.md) 
+  - Kaliya Young
+* [Privacy Preserving Identity Architectures](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/privacy-preserving-identity-architectures.md) 
+  - Anonymous (no, not that Anonymous, the other one)
+* [A Technlogy-Free Definition of Self-Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) 
+  - Joe Andrieu
+* [Architecture of Proof-of-Stake Blockchain that Doesn’t Have Native Coin and its Applicability to Decentralized Trading](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/Proof-of-stake-without-native-coin.md) 
+  - Pavel Kravchenko
+* [JXD Examples](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/JXD-Examples.md) 
+  - Markus Sabadello
+* [Anonymous Credentials in Sovrin](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/anonymous-credentials-in-sovrin.md)
+  - Jason Law and Daniel Hardman
+* [Portable Reputation Toolkit](/topics-and-advance-readings/portable-reputation-toolkit.md) 
+  - Noah Thorp and Harlan Wood
+* [Blockchain Attestation Taxonomies](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/attestation-taxonomies.md) 
+  - Christian Lundkvist
+* [Slepak's Triangle: The fundamental user limit of decentralized consensus systems](topics-and-advance-readings/Slepaks-Triangle.pdf) 
+  - Greg Slepak (@taoeffect)
+* [Sovereign Identity Model for Digital Ecologies](topics-and-advance-readings/Sovereign-Identity-Model-for-Digital-Ecologies.md) 
+  - Patrick Deegan
+* [Alternative Futures: Framework for Identity Scenarios](topics-and-advance-readings/alternative-futures-frameworks.md)
+  - Alessandro Voto
+* [Powering the Physician-Patient Relationship with HIW of One Blockchain Health IT](physician-patient-relationship.pdf) 
+  - Adrian Gropper
+* [Creating a Humanized Internet](https://github.com/vshen2010/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/Creating%20a%20Humanized%20Internet.pdf) 
+  - Monique Morrow, et al
 
 ## Complete Rebooting the Web of Trust Listing
 
