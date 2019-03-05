@@ -15,10 +15,10 @@
 
 * [Directory](#directory-) 
   * [/history.md](/history.md)
-  * [/Rebooting-Web-of-Trust](/Rebooting-Web-of-Trust)
-  * [/Self-Sovereign-Identity](/self-sovereign-identity)
-  * [/w3c-and-did-related-standards.md](/standards)
-  * [/Indy-Sovrin-Evernym](/indy-sovrin-evernym/)
+  * [Rebooting Web of Trust](/Rebooting-Web-of-Trust)
+  * [Self Sovereign Identity](/self-sovereign-identity)
+  * [W3C and DID Related Standards](/standards)
+  * [Indy-Sovrin-Evernym](/indy-sovrin-evernym/)
   * [Decentralized Identity Foundation—DIF](/identity-foundation)
   * [Ethereum](/ethereum)
   * [State Sponsored](/state-sponsored)
@@ -39,7 +39,6 @@
   * [Slideshare](#slideshare-)
   * [Podcasts](#podcasts-)
   * [Sources](#sources-)
-  * [Contact me for Research Driven Content](#infominerid-)
 
 ## Directory [**^**](#contents)
 Other files within, and related to this repository
