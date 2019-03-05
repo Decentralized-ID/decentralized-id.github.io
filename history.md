@@ -68,6 +68,16 @@ The first [Rebooting Web of Trust](http://www.WebOfTrust.info)(RWoT)  workshop w
 
 At the end of 2015, the Department of Homeland Security announced that it had funds available for the development of [Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html).
 
+### Evernym [**^**](#Contents)
+
+![](http://untangled.world/wp-content/uploads/2017/08/everynym-logo-1400x357.png)
+
+* [Evernym](https://www.evernym.com/)[[**T**](https://twitter.com/evernym)] originally created the Sovrin codebase, founded in 2013.
+* [Identity System Essentials](https://www.evernym.com/wp-content/uploads/2017/02/Identity-System-Essentials.pdf) 3/16 (Original Evernym Identity WP submitted to ID2020\RWoT workshop) 
+* [Outlier Ventures invests in, becomes strategic partner of Evernym](https://coinreport.net/outlier-ventures-invests-becomes-strategic-partner-evernym/)[[**ϟ**](https://outlierventures.io/portfolio/evernym/)]
+* [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
+
+
 ### ID2020 and the GDPR [**^**](#contents)
 
 ![](https://imgur.com/ymviAssl.png)
