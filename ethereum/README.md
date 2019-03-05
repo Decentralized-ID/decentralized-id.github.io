@@ -1,13 +1,12 @@
 # Ethereum Identity 
 **Specifications, Literature, Applications**
 
-![](https://imgur.com/SmvFLzCl.png)
-
 * [Decentralized Digital Identity on Ethereum](https://www.slideshare.net/FabriceCroiseaux/ethcc-2018-decentralized-digital-identity-on-ethereum) -SlideShare
-* [Proof-of-Individuality](http://proofofindividuality.online/) — how to prove a person only has one account
-   * [Anti-Sybil Protocol using virtual pseudonym parties](https://medium.com/@unlisted/anti-sybil-protocol-using-virtual-pseudonym-parties-10276fcf3b20)
+  ![](https://i.imgur.com/XWeGM72.png)
 * [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — video from DEVCON1
 * [Identity - EthHub](https://docs.ethhub.io/built-on-ethereum/identity) [[**G**](https://github.com/ethhub-io/ethhub/tree/master/built-on-ethereum/identity)]
+* [Proof-of-Individuality](http://proofofindividuality.online/) — how to prove a person only has one account
+   * [Anti-Sybil Protocol using virtual pseudonym parties](https://medium.com/@unlisted/anti-sybil-protocol-using-virtual-pseudonym-parties-10276fcf3b20)
 
 ## ERC
 
