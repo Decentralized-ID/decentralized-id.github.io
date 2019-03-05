@@ -75,93 +75,106 @@ In advance of the design workshop, all participants produced a one-or-two page t
 
 **Topic Papers Submitted**
 
-* **[Advanced Web-of-Trust Concepts](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/advanced-web-of-trust-concepts.md)** 
+* [Advanced Web-of-Trust Concepts](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/advanced-web-of-trust-concepts.md) 
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>*
-* **[Attempts at common terminology for digital identity systems](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/shared_terminology_for_digital_identity_systems.md)** 
+* [Attempts at common terminology for digital identity systems](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/shared_terminology_for_digital_identity_systems.md) 
   - Christian Lundkvist - *[@ChrisLundkvist](https://twitter.com/chrislundkvist) \<christian.lundkvist@consensys.net>*
-* **[Authorities vs. Peers: Pain Points in Security](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/authorities-vs-peers--pain-points-in-security.md)** 
+* [Authorities vs. Peers: Pain Points in Security](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/authorities-vs-peers--pain-points-in-security.md) 
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>* & Shannon Appelcline *[@Appelcline](https://twitter.com/Appelcline) \<ShannonA@skotos.net\>*
-* **[Avoiding Confused Deputy Attack Using Capabilities](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/AvoidingConfusedDeputyAttackUsingCapabilities.md)** 
+* [Avoiding Confused Deputy Attack Using Capabilities](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/AvoidingConfusedDeputyAttackUsingCapabilities.md) 
   - Tyler Close *\<tyler.close@gmail.com\>*
-* **[Binding Identity in a Decentralized System](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/binding-identity-in-decentralized-system.md)** 
+* [Binding Identity in a Decentralized System](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/binding-identity-in-decentralized-system.md) 
   - Wayne Thayer *[@WThayer](https://twitter.com/wthayer) \<wthayer@gmail.com\>*
-* **[Blockchain-based Trust for Software Components](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/code-and-file-signing.adoc)** 
+* [Blockchain-based Trust for Software Components](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/code-and-file-signing.adoc) 
   - Sean Gilligan *[@msgilligan](https://twitter.com/msgilligan) \<sean@msgilligan.com\>*
-* **[Blockchain Tech Opportunities in the Web-of-Trust](blockchain-opportunities.txt)** 
+* [Blockchain Tech Opportunities in the Web-of-Trust](blockchain-opportunities.txt) 
   - Peter Todd *[@PeterToddBTC](https://twitter.com/PeterToddBTC) \<pete@petertodd.org\>*
-* **[Building a Web of Trust for E-commerce](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/decentralized_e-commerce.md)** 
+* [Building a Web of Trust for E-commerce](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/decentralized_e-commerce.md) 
   - Michael Folkson *[@michaelfolkson](https://twitter.com/michaelfolkson) \<michaelfolkson@gmail.com\>*
-* **[Cool hack with XDI graphs, blockstore, link contracts, and cryptographic identifiers](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/cool-hack-xdi-blockstore-bip32.md)** 
+* [Cool hack with XDI graphs, blockstore, link contracts, and cryptographic identifiers](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/cool-hack-xdi-blockstore-bip32.md) 
   - Markus Sabadello *[@Peacekeeper](https://twitter.com/Peacekeeper) \<markus@projectdanube.org\>*
-* **[Dealing with key loss in digital identity systems](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/dealing_with_key_loss_in_digital_identity.md)** 
+* [Dealing with key loss in digital identity systems](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/dealing_with_key_loss_in_digital_identity.md) 
   - Christian Lundkvist - *[@ChrisLundkvist](https://twitter.com/chrislundkvist) \<christian.lundkvist@consensys.net>*
-* **[Decentralized Authentication with Blockchain Auth](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Decentralized-Authentication-with-Blockchain-Auth.md)** 
+* [Decentralized Authentication with Blockchain Auth](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Decentralized-Authentication-with-Blockchain-Auth.md) 
   - Ryan Shea *[@ryaneshea](https://twitter.com/ryaneshea) \<ryan@onename.com\>*
-* **[Decentralized Cooperation Needs Decentralized Reputation](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/DecentralizedCooperationNeedsDecentralizedReputation.md)** 
+* [Decentralized Cooperation Needs Decentralized Reputation](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/DecentralizedCooperationNeedsDecentralizedReputation.md) 
   - Noah Thorp *[@noahthorp](https://twitter.com/noahthorp) \<noah@citizencode.io\>*
-* **[Different Models for Trust](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/different-models-for-trust.md)** 
+* [Different Models for Trust](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/different-models-for-trust.md) 
   - Kaliya Hamlin *[@IdentityWoman](https://twitter.com/identitywoman) \<kaliya@identitywoman.net\>*
-* **[Distributed multi-ledger model for financial industry](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/DistributedMulti-ledgerModelForFinancialIndustry.md)** 
+* [Distributed multi-ledger model for financial industry](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/DistributedMulti-ledgerModelForFinancialIndustry.md) 
   - Pavel Kravchenko *[@kravchenkopo](https://twitter.com/kravchenkopo) \<kravchenkopo@gmail.com\>*
-* **[Distributed Receptor-Based Computing](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Distributed_Receptor-Based_Computing.md)** 
+* [Distributed Receptor-Based Computing](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Distributed_Receptor-Based_Computing.md) 
   - Arthur Brock - *[@ArtBrock](https://twitter.com/artbrock) \<artbrock@gmail.com>*
-* **[Distributed Trust Systems and the Kenyesian Beauty Contest](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Distributed-Trust-Systems-and-the-Kenyesian-Beauty-Contest.md)** 
+* [Distributed Trust Systems and the Kenyesian Beauty Contest](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Distributed-Trust-Systems-and-the-Kenyesian-Beauty-Contest.md) 
   - Joel Dietz *[@fractastical](https://twitter.com/fractastical) \<jdietz@gmail.com\>*
-* **[First Encounters with PGP](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/FirstEncountersWithPGP.md)** 
+* [First Encounters with PGP](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/FirstEncountersWithPGP.md) 
   - Kiara Robles *[@anarchoass](https://twitter.com/anarchoass) \<kiara.robles@gmail.com\>*
-* **[Hierarchical Deterministic Keys: BIP32 & Beyond](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/hierarchical-deterministic-keys--bip32-and-beyond.md)** 
+* [Hierarchical Deterministic Keys: BIP32 & Beyond](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/hierarchical-deterministic-keys--bip32-and-beyond.md) 
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>* & Shannon Appelcline *[@Appelcline](https://twitter.com/Appelcline) \<ShannonA@skotos.net\>*
-* **[How not to build an Orwellian reputation system](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/How-not-to-build-an-orwellian-reputation-system)** 
+* [How not to build an Orwellian reputation system](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/How-not-to-build-an-orwellian-reputation-system) 
   - Juan S. Galt *[@juansgalt](https://twitter.com/juansgalt) \<juans.galt@tuta.io\>*
-* **[Identity, Guidance and Situational Awareness](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Identity_Guidance_and_Situational_Awareness.md)** 
+* [Identity, Guidance and Situational Awareness](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Identity_Guidance_and_Situational_Awareness.md) 
   - Matthew Schutte *[@MatthewJosef](https://twitter.com/matthewjosef) \<matt@calabs.org\>*
-* **[Identity, Property and Simulation](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Identity-Property-Simulation.md)**
+* [Identity, Property and Simulation](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Identity-Property-Simulation.md)
   - Patrick Deegan \<pdeegan@gmail.com\>
-* **[Key revocation of lost and stolen keys](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Key-revokation-of-lost-and-stolen-keys.md)** 
+* [Key revocation of lost and stolen keys](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Key-revokation-of-lost-and-stolen-keys.md) 
   - Martin Koeppelmann *[@koeppelmann](https://twitter.com/koeppelmann) \<martin.koeppelmann@consensys.net \>*
-* **[Key Transparency for End Users](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/key-transparency-for-end-users.md)** 
+* [Key Transparency for End Users](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/key-transparency-for-end-users.md) 
   - Joseph Bonneau *[@JosephBonneau](https://twitter.com/josephbonneau) \<jbonneau@cs.stanford.edu\>*
-* **[Knowing When Your Digital Identity Has Been Compromised](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/knowing-when-your-identity-has-been-compromised.md)** 
+* [Knowing When Your Digital Identity Has Been Compromised](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/knowing-when-your-identity-has-been-compromised.md) 
   - Justin Newton *[@JustinwNewton](https://twitter.com/justinwnewton) \<justin@netki.com\>*
-* **[Lightning Network and Web of Trust](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/lightning-network-and-web-of-trust.md)** 
+* [Lightning Network and Web of Trust](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/lightning-network-and-web-of-trust.md) 
   - Joseph Poon *\<joseph@lightning.network\>*
-* **[Linked Local Names](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/linked-local-names.md)** 
+* [Linked Local Names](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/linked-local-names.md) 
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>*
-* **[Modern PKI: Identity Assertions Forming Trust Networks](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/modern-pki-identity-assertions.md)** 
+* [Modern PKI: Identity Assertions Forming Trust Networks](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/modern-pki-identity-assertions.md) 
   - Duke Dorje  *[@dukedorje](https://twitter.com/dukedorje) \<duke@citizencode.io\>*
-* **[PGP Paradigm](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/PGP-Paradigm.pdf)** 
+* [PGP Paradigm](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/PGP-Paradigm.pdf) 
   - Jon Callas - *[@JonCallas](https://twitter.com/joncallas) \<jon@crypto.expert>* & Phil Zimmerman - *\<prz@mit.edu\>*
-* **[PKI Tools in EVM-based blockchains](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/pki_tools_in_evm_blockchains.md)** 
+* [PKI Tools in EVM-based blockchains](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/pki_tools_in_evm_blockchains.md) 
   - ChristianLundkvist - *[@ChrisLundkvist](https://twitter.com/chrislundkvist) \<christian.lundkvist@consensys.net>*
-* **[Progressive Trust](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/progressive-trust.md)** 
+* [Progressive Trust](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/progressive-trust.md) 
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>*
-* **[Real life application of WoT: Refugee Use Case](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/refugee-use-case.md)** 
+* [Real life application of WoT: Refugee Use Case](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/refugee-use-case.md) 
   - Alicia Carmona *\<alicia.carmona@id2020.org\>*
-* **[Reputation and the Real World](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/ReputationAndTheRealWorld.md)** 
+* [Reputation and the Real World](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/ReputationAndTheRealWorld.md) 
   - Randy Farmer *[@FRandallFarmer](https://twitter.com/FRandallFarmer) \<randy.farmer@pobox.com\>*
-* **[Schnorr Signatures: An Overview](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Schnorr-Signatures--An-Overview.md)** 
+* [Schnorr Signatures: An Overview](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Schnorr-Signatures--An-Overview.md) 
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>* & Shannon Appelcline *[@Appelcline](https://twitter.com/Appelcline) \<ShannonA@skotos.net\>*
-* **[Secret Handshake: Key Exchange as a Capability System](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/key-exchange-as-capability-system.md)** 
+* [Secret Handshake: Key Exchange as a Capability System](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/key-exchange-as-capability-system.md) 
   - Dominic Tarr *[@DominicTarr](https://twitter.com/DominicTarr) \<dominic.tarr@gmail.com\>*
-* **[Secure Naming on the Blockchain](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Secure-Naming-on-the-Blockchain.md)** 
+* [Secure Naming on the Blockchain](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Secure-Naming-on-the-Blockchain.md) 
   - Muneeb Ali *[@muneeb](https://twitter.com/muneeb) \<muneeb@onename.com\>* and Ryan Shea *[@ryaneshea](https://twitter.com/ryaneshea) \<ryan@onename.com\>*
-* **[Selective Disclosure of Identity with Hierarchical Deterministic Keys and JSON Web Tokens](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Selective-Disclosure-of-Identity.md)** 
+* [Selective Disclosure of Identity with Hierarchical Deterministic Keys and JSON Web Tokens](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Selective-Disclosure-of-Identity.md) 
   - Ryan Shea *[@ryaneshea](https://twitter.com/ryaneshea) \<ryan@onename.com\>*
-* **[Tensions related to identity and community regulation](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/tensions-related-to-identity-and-community-regulation.md)** 
+* [Tensions related to identity and community regulation](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/tensions-related-to-identity-and-community-regulation.md) 
   - Matthew Schutte *[@MatthewJosef](https://twitter.com/matthewjosef) \<matt@calabs.org\>*
-* **[The Naming of Things](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/The-Naming-of-Things.txt)** 
+* [The Naming of Things](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/The-Naming-of-Things.txt) 
   - Matthew Schutte *[@MatthewJosef](https://twitter.com/matthewjosef) \<matt@calabs.org\>*
-* **[Thin Clients](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/thin-clients.md)** 
+* [Thin Clients](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/thin-clients.md) 
   - Greg Slepak *[@TaoEffect](https://twitter.com/TaoEffect) \<hi@okturtles.com\>*
-* **[Trust Exchange: An Architecture for a Permanent Open Trust Network](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Trust-Exchange-An-Architecture-for-a-Permanent-Open-Trust-Network.md)** 
+* [Trust Exchange: An Architecture for a Permanent Open Trust Network](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Trust-Exchange-An-Architecture-for-a-Permanent-Open-Trust-Network.md) 
   - Harlan T. Wood *[@HarlanTWood](https://twitter.com/harlantwood) \<h@rlan.me \>*
-* **[Web of Trust with Blockchain IDs](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Web-of-Trust-with-Blockchain-IDs.md)** 
+* [Web of Trust with Blockchain IDs](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Web-of-Trust-with-Blockchain-IDs.md) 
   - Ryan Shea *[@ryaneshea](https://twitter.com/ryaneshea) \<ryan@onename.com\>*
-* **[White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md)** 
+* [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>*
-* **[XDI Link Contracts: An Overview](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/xdi-link-contracts.md)** 
+* [XDI Link Contracts: An Overview](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/xdi-link-contracts.md) 
   - Drummond Reed *[@DrummondReed](https://twitter.com/DrummondReed) \<drummond@respect.network\>*
 
+---
+
+* [How Not to build and Orwellian reputation system](How-Not-to-build-an-Orwellian-reputation-system.md) 
+  - [Juan S. Galt](http://twitter.com/juansgalt)
+* [Notes on the IPFS Keychain (or the Web Keychain)](ipfs-keychain.md) 
+* [IPFS - The Permanent Web](ipfs-links.md)
+* [multiplexed: a 'slightly radical' framing of identity](multiplexed--a-slightly-radical-framing-of-identity.md) 
+  - \<[du5t@multiplexed.be](mailto:du5t@multiplexed.be)\>
+* [RLPx: Cryptographic Network & Transport Protocol - Version 0.3](rlpx.md) 
+  - Alex Leverington
+* [Self-certifying File System](sfs.md)
+* [Trust Models, Accountability, LIfeCycle and Social Context](Trust%20Models%2C%20Accountability%2C%20LIfeCycle%20and%20Social%20Context.md) 
+  - by Kaliya "[Identity Woman](http://www.identitywoman.net/)" Young (formerly Hamlin)
 
 ## Rebooting the Web of Trust II - ID2020 [**^**](#contents)
 
@@ -199,7 +212,6 @@ In advance of the [ID 2020 Design DesignShop](https://github.com/WebOfTrustInfo/
 * A specific solution related to the decentralized identity or web-of-trust that you'd like others to use or contribute to.
 
 **The topic papers submitted:**
-
 
 * [A Double Edge Sword of Having an Identity](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/double_edged_identity.md) 
   - Marta Piekarska \<marta@blockstream.io\>
@@ -251,6 +263,19 @@ In advance of the [ID 2020 Design DesignShop](https://github.com/WebOfTrustInfo/
   - Patrick Deegan
 * [Identity and decentralised Communication](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/Identity%20and%20decentralised%20communications.md) 
   - By Harsh Patel
+
+---
+
+
+* [Chime National Patent ID Challenge](/topics-and-advance-readings/CHIMENationalPatientIDChallenge.pdf)
+* [Usability and Multiplicity in Global Identity Management](/topics-and-advance-readings/Crocker-ID-Usability-Multiplicity.md) — by D. Crocker ~ \<[dcrocker@bbiw.net](mailto:dcrocker@bbiw.net)\>
+* [Decentralized Identity Satoshi Style](/topics-and-advance-readings/Decentralized-Identity-Satoshi-Style) - by Darrell Duane - \<[darrell@idi.io](mailto:darrell@idi.io)\>
+* [Declaration of Identity - Printed.pdf](https://github.com/infominer33/rwot2-id2020/blob/master/topics-and-advance-readings/Declaration%20of%20Identity%20-%20Printed.pdf)
+* [Identities for Moving Things](/topics-and-advance-readings/IdentitiesForMovingThings.md) - by Daniel Ford - \<[dan@keoja.com](mailto:dan@keoja.com)\>
+* [Legalizing Identity Protocols for the United Nations 16.9](/topics-and-advance-readings/Legalizing-Identity-Protocols-United-Nations.md) 
+* [Personal Levels of Assurance (PLOA)](/topics-and-advance-readings/PLOA%20White%20Paper%20-%20v1.01.pdf) — by J. Oliver Glasgow and Jeff Dogen, Kennie Kwong, David Chen, Johannes Jaskolski, Kevin Castellow, Dan Druta — An AT&T Whitepaper on Assurance 
+* [Clues](/topics-and-advance-readings/clues.md) — by Nicola Greco
+— something that serves to guide or direct in the solution of a problem or mystery. 
 
 
 ## Rebooting the Web of Trust III [**^**](#contents)
@@ -334,6 +359,28 @@ In advance of the design workshop, all participants produced a one-or-two page t
   - Adrian Gropper
 * [Creating a Humanized Internet](https://github.com/vshen2010/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/Creating%20a%20Humanized%20Internet.pdf) 
   - Monique Morrow, et al
+
+---
+
+* [Smart Consent Protocol](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/Consent%20and%20rights%20to%20use%20Personal%20Data.md)
+  - Dr Shaun Conway, Lohan Spies, Jonathan Endersby, Tim Daubenschütz (see [Completed Papers III](#completed-papers-iii-))
+* [Creating a Humanized Internet](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/Creating%20a%20Humanized%20Internet.pdf)
+  - Akram Alfawakheeri \<[akram.f1_1@gmail.com](mailto:akram.f1_1@gmail.com)\>, Mark Kovarski \<mark@kovarski.org\>, Aron Dutta <\aron_dutta@yahoo.com\>, Monique Morrow \<monique.morrow223@gmail.com\>, Vivien Shen \<vshen670@gmail.com\>
+* [DIDs and Personal Data Storage for Children](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/DIDsandPersonalDataStorageforChildren.pdf) 
+  - Jonathan Endersby, Shaun Conway, Lohan Spies
+* [BIP32-Ed25519 Hierarchical Deterministic Keys of a Non-Linear Keyspace](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/HDKeys-Ed25519.pdf) 
+  - Dmitry Khovratovich, Jason Law
+* [Sovrin - Digital Identities in the Blockchain Era](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/Sovrin--digital-identities-in-the-blockchain-era.pdf)
+* [Alternative Futures: Framework for Identity Scenarios](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/alternative-futures-framework.md)
+  - by Alessandro Voto
+* [Blockchain Technologies Feature Analysis](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/blockchain-technologies-feature-analysis.md) 
+  -Copyright 2016 Digital Bazaar, Inc.
+* [DID (Decentralized Identifier) Specification](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/did-spec-working-draft-03.md) 
+  - Editors: Drummond Reed, Les Chasen Contributors: Christopher Allen, Manu Sporny, David Longley, Jason Law, Daniel Hardman, Markus Sabadello (see [Completed Papers III](#completed-papers-iii-))
+* [https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/opentimestamps-merkle-tree.png](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/opentimestamps-merkle-tree.png)
+  ![](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/opentimestamps-merkle-tree.png?raw=true)
+* [Towards a User Interface for Selectively Revealing Fine-Grained Personal Information to Transaction Counterparties](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/rgrant-user-interface-standards-rwot-fall2016.md)
+* [Recovery strategy for user-controlled keys for self-sovereign identity](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/user-controlled-key-recovery.md)
 
 ## Complete Rebooting the Web of Trust Listing
 
