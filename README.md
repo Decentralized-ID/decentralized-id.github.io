@@ -2,16 +2,14 @@
 <a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 *Self-Sovereign, Blockchain and Decentralized Identity Resources*
 
-**Under Construction: to become [decentralized-id.com](https://decentralized-id.com).**
+>A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
 
-**It may be easier for you to navigate [/decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io) while I work on tearing this one apart.**
-
-![](https://i.imgur.com/9KpJRDr.png)
-
->A good self‐sovereign identity system will allow individuals to directly influence how companies,  governments, and others correlate our interactions across different services and locations by default. It  won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
-
+**Under Construction: to become [decentralized-id.com](https://decentralized-id.com)** 
+  >See [/decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io)
 
 ## Contents
+[[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
+• [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**^**](#contents)] back to the contents.
 
 * [Link Shorthand](#link-shorthand)
 * [What is Decentralized ID?](#what-is-decentralized-id-)
@@ -41,12 +39,11 @@
 
 *Pull Requests Welcome*
 
-## Link Shorthand
-[[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
-• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents.
 
 
-![](https://i.imgur.com/h4eLx4l.png)
+
+![](https://i.imgur.com/9KpJRDr.png)
+
 
 ## What is Decentralized ID? [**^**](#contents)
 
