@@ -2,15 +2,27 @@
 
 ## Contents
 
- * [W3C and DID Related Standards](#w3c-and-did-related-standards-)
-    * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
-    * [DID Adoption](#did-adoption-)
-    * [DID Auth](#did-auth-) 
-    * [Verifiable Claims](#verifiable-claims-)
-    * [Decentralized Key Managment DKMS](#decentralized-key-management-dkms-)
- 
+* [Decentralized Public Key Infrastructure DPKI](decentralized-public-key-infrastructure-dpki-)
+* [W3C and DID Related Standards](#w3c-and-did-related-standards-)
+  * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
+  * [DID Auth](#did-auth-) 
+  * [Verifiable Claims](#verifiable-claims-)
+  * [Decentralized Key Managment DKMS](#decentralized-key-management-dkms-)
+ * [Structured Data Standards](#structured-data-standards-)
 
-### W3C and DID Related Standards [**^**](#contents)
+## Decentralized Public Key Infrastructure DPKI [**^**](#contents) 
+* RWoT—[Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
+  * Hyperledger Indy, and DID related standards are a product of RWoT efforts towards dpki.
+* [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
+* [KeyChains: A Decentralized Public-Key Infrastructure](https://drum.lib.umd.edu/bitstream/handle/1903/3332/0.pdf?sequence=1&isAllowed=y)
+* [ClaimChain: Decentralized Public Key Infrastructure](https://www.researchgate.net/publication/318584251_ClaimChain_Decentralized_Public_Key_Infrastructure)
+* [A Decentralized Public Key Infrastructure with Identity Retention](https://eprint.iacr.org/2014/803.pdf)
+* [Privacy based decentralized Public Key Infrastructure
+(PKI) implementation using Smart contract in
+Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)
+
+
+## W3C and DID Related Standards [**^**](#contents)
 ![](https://imgur.com/Lz6RTysl.png)
 
 
@@ -69,7 +81,6 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
 * [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
 
-
 ### Decentralized Key Management DKMS [**^**](#contents)
 
 * [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
@@ -77,3 +88,11 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 
 ![](https://i.imgur.com/5qc1qrG.png)\
 <sup><a href="http://ssimeetup.org/decentralized-key-management-dkms-essential-missing-piece-ssi-puzzle-drummond-reed-webinar-8/">DKMS - An Essential Missing Piece of the SSI Puzzle. Drummond Reed. SSIMeetup.org</a></sup>
+
+## Structured Data Standards [**^**](#contents) 
+
+* [Blockcerts](https://www.blockcerts.org), developed by[Learning Machine](https://www.learningmachine.com/), is an open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
+  * [CXC (Carribean) Pilots E-Certificates on the Blockchain](https://www.cxc.org/cxc-pilots-e-certificates-on-the-blockchain/)
+  * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
+* [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
+   * [ÆTERNITY](http://aeternity.com/) [[**G**](https://github.com/aeternity/protocol)]: using Schema's standards: "offers an identity architecture where every account has a unique ID number, and unique names can be registered and linked to arbitrary data such as addresses on the blockchain. Schema's are used for representing data about persons and organizations."
