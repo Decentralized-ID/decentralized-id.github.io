@@ -1,5 +1,7 @@
 # Hyperledger Global Forum—2018
 
+For Identity Related Presentations at HGF-2018
+
 <img src="https://i.imgur.com/3WNoTB0.png"/>
 
 Basel Congress Center — Basel, Switzerland — December 12-15,2018 
@@ -31,5 +33,5 @@ I'll do this for any other "essential" videos containing information that isn't 
 
 If you have any videos you'd like to see transcripts prepared in the following format, feel free to [contact me](https://infominer.id).
 
-* [Microledgers and Edge-Chains - Daniel Hardman - Evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/VON/Microledgers-Edgechains-Hardman-HGF.md)
-* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/VON/VerifiableOrganizationsNetwork-HGF.md)
+* [Microledgers and Edge-Chains - Daniel Hardman - Evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF.md)
+* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF.md)
