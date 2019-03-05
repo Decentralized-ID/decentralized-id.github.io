@@ -4,7 +4,9 @@
 
 This is a gathering of educational materials around decentralized, self-sovereign, and blockchain identity. Its an index for research, training, developers, students, end-users, investors, and the enterprise to more easily learn and navigate the decentralized identity landscape.
 
-**NOTE: This repository is in the process of moving to [decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io) so that it can become a community developed website [decentralized-id.com](https://decentralized-id.com). For now this is still the most current version of the page. There will be further notice, here, at a later time.**
+**NOTE: This repository is in the process of restructuring, along its way to [decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io), to become a community developed website [decentralized-id.com](https://decentralized-id.com).**
+
+**There will be further notice, here, at a later time.**
 
 ![](https://i.imgur.com/9KpJRDr.png)
 
@@ -13,27 +15,15 @@ This is a gathering of educational materials around decentralized, self-sovereig
 
 ## Contents
 
-**The ToC should be fixed. Sorry for the inconvenience (my editor is more forgiving than github gui). Please let me know if there are any problems I missed. -[infominer.id](https://infominer.id)**
-
-
 * [Directory](#directory-) 
-  - Related files and Resources
-     * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/)
-     * [Self-Sovereign-Identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)
      * [/history.md](/history.md)
-     * [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
-  * [What is Decentralized ID?](#what-is-decentralized-id-)
-  * [Link Shorthand](#link-shorthand)
+     * [/Rebooting-Web-of-Trust](https://github.com/infominer33/awesome-decentralized-id/blob/master/Rebooting-Web-of-Trust)
+     * [/Self-Sovereign-Identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity)
+     * [/w3c-and-did-related-standards.md](https://github.com/infominer33/awesome-decentralized-id/blob/master/w3c-and-did-related-standards.md)
+     * [/Indy-Sovrin-Evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
 * [Resources](#resources)
-  * [Self Sovereign Identity—SSI](#self-sovereign-identity-)
-  * [RWoT Whitepapers](#selected-rebooting-web-of-trust-whitepapers-)
-    * [RWoT Use Cases](#rwot-use-cases-) 
-  * [W3C and DID Related Standards](#w3c-and-did-related-standards-)
-    * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
-    * [DID Adoption](#did-adoption-)
-    * [DID Auth](#did-auth-) 
-    * [Verifiable Claims](#verifiable-claims-)
-    * [Decentralized Key Managment DKMS](#decentralized-key-management-dkms-)
+  * [Link Shorthand](#link-shorthand)
+  * [What is Decentralized ID?](#what-is-decentralized-id-)
   * [Decentralized Identity Foundation—DIF](#decentralized-identity-foundation-)
   * [Evernym](#evernym-)
   * [The Sovrin Foundation](#the-sovrin-foundation-)
@@ -74,11 +64,27 @@ This is a gathering of educational materials around decentralized, self-sovereig
 ## Directory [**^**](#contents)
 Other files within, and related to this repository
 
+**Internal**
 * [History](/history.md) - SSI\DID History now lives here.
-* [Indy-Sovrin-Evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - A folder in this repository, for information specific to Hyperledger Indy, the Sovrin Foundation, and Evernym.
-* [Self-Sovereign-Identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) - Another sub-folder to organize information about Self-Sovereign-Identity.
-* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) - The original list for projects related to blockchain-identity. 
+* [/Rebooting-Web-of-Trust](https://github.com/infominer33/awesome-decentralized-id/blob/master/Rebooting-Web-of-Trust)
+* [/Self-Sovereign-Identity](https://github.com/infominer33/awesome-decentralized-id/tree/master/self-sovereign-identity) - Another sub-folder to organize information about Self-Sovereign-Identity.
+* [/w3c-and-did-related-standards.md](https://github.com/infominer33/awesome-decentralized-id/blob/master/w3c-and-did-related-standards.md)
+* [/Indy-Sovrin-Evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/) - A folder in this repository, for information specific to Hyperledger Indy, the Sovrin Foundation, and Evernym.
 
+**External**
+* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity/) - The original list for projects related to blockchain-identity. 
+* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo) - Repositories for 
+
+
+
+
+## Resources
+
+### Link Shorthand:
+[[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
+• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents.
+
+*Pull Requests Welcome*
 
 ### What is Decentralized ID? [**^**](#contents)
 
@@ -91,15 +97,6 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 —[infominer.id](https://infominer.id)
 
-
-**Pull Requests Welcome**
-
-### Link Shorthand:
-[[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
-• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**^**](#Link-Shorthand)] back to the contents.
-
-
-## Resources
 
 ### Self Sovereign Identity [**^**](#contents)
 
@@ -119,60 +116,9 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">0/ “Self-Sovereign Identity: A Progress Report”…</p>&mdash; Christopher Allen (@ChristopherA) <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw">April 25, 2018</a></blockquote>
 
-### Selected 'Rebooting Web of Trust' Whitepapers [**^**](#contents) 
-* [WebofTrust.info/papers.html](https://www.weboftrust.info/papers.html)
-* [Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf) Original RWoT whitepaper
-* [Framework for the Comparison of Identity Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/Framework-for-Comparison-of-Identity-Systems.md)
-* [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md)
-* [The DCS Theorem](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/dcs-theorem/The-DCS-Theorem.md) — We use the triangle to show decentralized consensus systems can have _Decentralization_, _Consensus_, or _Scale_, but not all three properties simultaneously.
-* [Rebooting the Web of Trust VII: Toronto (September 2018)](https://github.com/WebOfTrustInfo/rwot7) - More recent thoughts.
-
-#### RWoT Use Cases [**^**](#contents)
-* [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)
-* [Re-Imagining What Users Really Want](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/what-users-really-want.md)
-* [Joram 1.0.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/joram-engagement-model.pdf)
-* [Powering the Physician-Patient Relationship with HIE of One Blockchain Health IT](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/physician-patient-relationship.pdf)
-* [Protecting Digital Identities in Developing Countries](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)
-* [Opportunities Created by the Web of Trust for Controlling and Leveraging Personal Data](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/satisfying-real-world-use-cases.pdf)
-
-![](https://imgur.com/Lz6RTysl.png)
-
-### W3C and DID Related Standards [**^**](#contents)
-
-* [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
-* [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
-* [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
-* [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
-* [DIGITAL VERIFICATION COMMUNITY GROUP](https://www.w3.org/community/digital-verification/)[[**G**](https://sea-region.github.com/w3c-dvcg)]
-
-![](https://imgur.com/6MLNgXal.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
-
-### DID the Decentralized Identifier [**^**](#contents) 
-
-<a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
-
-* [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
-  * [All you need to know about sequential UUID generators](https://blog.2ndquadrant.com/sequential-uuid-generators/)
-* [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
-  * Authors:
-     * [Drummond Reed](https://equalsdrummond.name/) [[**T**](https://twitter.com/drummondreed)] ([Evernym](https://www.evernym.com/))  
-     * [Manu Sporney](http://manu.sporny.org/)[[**T**](https://twitter.com/manusporny)]  ([Digital Bazaar](https://digitalbazaar.com))
-     * Dave Longley ([Digital Bazaar](https://digitalbazaar.com))
-     * [Christopher Allen](http://www.lifewithalacrity.com/) [[**info**](https://github.com/ChristopherA/info)] ([Blockstream](https://blockstream.com/))
-     * Ryan Grant
-     * [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**T**](https://twitter.com/peacekeeper)] [[**G**](https://github.com/peacekeeper)] [[**B**](https://medium.com/@markus.sabadello)] ([Danube Tech](https://github.com/projectdanube))
-* [Understanding Decentralized IDs (DIDs)](https://medium.com/@adam_14796/understanding-decentralized-ids-dids-839798b91809)
-* [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
-* [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
-* [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
-* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
-* [What is a DID?](https://docs.google.com/document/d/1Ym85y_bDVN9xkRZ-oD-zlUUIeZjVGWNihfZBk2GQidk/edit)
-* [The Path from an id (DID) to a Real-Life Something](https://hyperonomy.com/2019/01/04/the-path-from-a-id-did-to-a-real-life-something)
-
-<a href="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png"><img src="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png?w=500"/></a>
-
 ### DID Adoption [**^**](#contents)
+
+<img src="http://i.imgur.com/bv5yw1B.png"/>
 
 * [@ChristopherA on DID adoption](https://twitter.com/ChristopherA/status/989122017348784130)
    > "22/ Over a dozen companies and organizations, using multiple blockchains (Bitcoin, Ethereum, Hyperledger, etc.), have committed to deploying DIDs, including IBM, Microsoft, Digital Bazaar, Consensys, Evernym, Learning Machine, British Columbia, and more:" —[How blockchain could solve the internet privacy problem](https://www.computerworld.com/article/3267930/blockchain/how-blockchain-could-solve-the-internet-privacy-problem.html)
@@ -188,43 +134,6 @@ Blockstack is a network for decentralized applications where users own their ide
 * [did:ockam:](https://medium.com/ockam/an-introduction-to-did-ockam-8626d5aecc53) [[**ϟ**](https://twitter.com/Ockam_io/status/1064589363269365763)]
  
 
-
-### DID Auth [**^**](#contents) 
-![](https://i.imgur.com/FBe3S0w.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
-
-![](https://imgur.com/XMaq5cil.png)
-
-
-   * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
-   * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md) [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
-
-<a href="http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/"><img src="https://i.imgur.com/YNlk8RY.png"/></a>\
-http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
-
-### Verifiable Claims [**^**](#contents) 
-
-![](https://i.imgur.com/5R51G4Y.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
-
-<a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/nsZ0X7r.png"/></a>
-
-
-* [Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) [[**D**](https://www.w3.org/2017/vc/charter.html)]
-* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
-* [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
-
-
-### Decentralized Key Management DKMS [**^**](#contents)
-
-![](https://i.imgur.com/xmWkc4l.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
-
-* [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
-* [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
-
-![](https://i.imgur.com/5qc1qrG.png)\
-<sup><a href="http://ssimeetup.org/decentralized-key-management-dkms-essential-missing-piece-ssi-puzzle-drummond-reed-webinar-8/">DKMS - An Essential Missing Piece of the SSI Puzzle. Drummond Reed. SSIMeetup.org</a></sup>
 
 ### Decentralized Identity Foundation [**^**](#contents) 
 
@@ -582,6 +491,18 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)
 * [U.S. Department of Homeland Security funds four Blockchains](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology)
 
+### Additional Thought around Identity [**^**](#contents)
+* [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
+   >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
+   * [Maciek Laskus | BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
+   * "I designed an algorithm that mapped out people [working on identity](https://twitter.com/MaciekLaskus/status/1066780557906976768) using Twitter data:" [Identity list](https://docs.google.com/spreadsheets/d/1hBBVA0-jqmRRZ_JFQ8HEck9tFub7crsqRzlBZWf01xg/edit?usp=sharing)
+* [Proof of Thought (PoT)](https://bitcointalk.org/index.php?topic=4459113.0)
+* [Queer Privacy](https://leanpub.com/queerprivacy)
+   >Stories about using the Internet as a tool to find out more about yourself, and as a tool to express and empower; about the dangers of Internet censorship and about the practical realities of maintaining multiple distinct digital identities. 
+* [@SarahJamieLewis Twitter thread on Identity](https://twitter.com/SarahJamieLewis/status/1041043532654542848)
+   >Any technology which relies on the existence of, or attempts to create a, global, unique identity is oppressive by design. Stop" innovating" oppressive structures.
+
+
 
 ### Humanitarian [**^**](#contents) 
 * [Blockchain Can Empower Stateless Refugees](https://www.law360.com/technology/articles/1095148/blockchain-can-empower-stateless-refugees)
@@ -641,17 +562,6 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
 * [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin)
 * [Blockchain for Identity Management](https://www.cs.bgu.ac.il/~frankel/TechnicalReports/2016/16-02.pdf) - Details early efforts towards Blockchain-ID
 * [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
-
-### Additional Thought around Identity [**^**](#contents)
-* [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
-   >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
-   * [Maciek Laskus | BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
-   * "I designed an algorithm that mapped out people [working on identity](https://twitter.com/MaciekLaskus/status/1066780557906976768) using Twitter data:" [Identity list](https://docs.google.com/spreadsheets/d/1hBBVA0-jqmRRZ_JFQ8HEck9tFub7crsqRzlBZWf01xg/edit?usp=sharing)
-* [Proof of Thought (PoT)](https://bitcointalk.org/index.php?topic=4459113.0)
-* [Queer Privacy](https://leanpub.com/queerprivacy)
-   >Stories about using the Internet as a tool to find out more about yourself, and as a tool to express and empower; about the dangers of Internet censorship and about the practical realities of maintaining multiple distinct digital identities. 
-* [@SarahJamieLewis Twitter thread on Identity](https://twitter.com/SarahJamieLewis/status/1041043532654542848)
-   >Any technology which relies on the existence of, or attempts to create a, global, unique identity is oppressive by design. Stop" innovating" oppressive structures.
 
 
 ### Video [**^**](#contents)
