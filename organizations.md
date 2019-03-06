@@ -133,6 +133,10 @@ DIF members, who share the goal of “building an open source decentralized iden
 
 **>>** [DIF GitHub Repositories](github/README.md#decentralized-identity---dif) **>>**
 
+## Ethereum
+
+
+
 ## SSI-Meetup
 
 >[SSI Meetup](https://ssimeetup.org) is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. Our main mission is to help you connect with other SSI enthusiasts and create a dynamic, local, yet globally connected community.
