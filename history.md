@@ -1,5 +1,6 @@
 # DID-SSI History 
 
+## Contents
 * [The Augmented Social Network and the IDCommons](#the-augmented-social-network-and-the-idcommons-)
 * [Internet Identity Workshop—IIW](#internet-identity-workshop-) 
 * [Bitnation and the United Nations](#bitnation-and-the-united-nations-)
@@ -8,7 +9,7 @@
 * [Additional IID Standards History](#additional-iid-standards-history-)
 
 
-### The Augmented Social Network and the IDCommons [**^**](#contents)
+## The Augmented Social Network and the IDCommons 
 
 * *[The Augmented Social Network](http://asn.planetwork.net/): Building Identity and Trust into the Next-Generation Internet,* presented at the June 2003 Planetwork conference and published in [First Monday](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1068/988) the Peer-Reviewed Journal on the Internet 8/4/03.
   >"[This paper](http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf) proposes the creation of an Augmented Social Network (ASN) that would build identity and trust into the architecture of the Internet"
@@ -18,7 +19,7 @@ Ideas from the ASN were the foundation of much that followed. The [Identity Comm
 >"Their most important contribution may have been the creation, in association with the Identity Gang, of the Internet Identity Workshop (2005-Present) working group. "[[**ϟ**](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)]
 
 
-### Internet Identity Workshop [**^**](#contents)
+## Internet Identity Workshop 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
 
@@ -40,7 +41,7 @@ In [April of 2014](https://edps.europa.eu/data-protection/data-protection/legisl
 <img src="https://sustainabledevelopment.un.org/content/images/image18_3741.jpg"/>
 
 
-### Bitnation and the United Nations [**^**](#contents) 
+## Bitnation and the United Nations  
 
 9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*Blockchain Emergency IDs*](https://refugees.bitnation.co/)' to refugees. [[**>**](#Bitcoin)]
 
@@ -55,7 +56,7 @@ Develop effective, accountable and transparent institutions at all levels
 * [AID:Tech](https://aid.technology) [[**T**]](https://twitter.com/aidtechnology) — "is a voucher and digital identity solution for refugees. A digital record of a person's identity is stored on a smart card, along with various additional information. Blockchain technology is used to distribute all resources in a highly traceable manner." (another early example of blockchain for humanitarian aide)
 * [Additional Info on Blockchain and the United Nations](https://infominer.id/research/UnitedNations.html)
 
-### Rebooting the Web Of Trust [**^**](#contents)
+## Rebooting the Web Of Trust 
 
 In relation to SSI, '[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims. *Each party attesting to your identity information becomes a strand in your web of trust.*
 
@@ -68,7 +69,7 @@ The first [Rebooting Web of Trust](http://www.WebOfTrust.info)(RWoT)  workshop w
 
 At the end of 2015, the Department of Homeland Security announced that it had funds available for the development of [Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html).
 
-### Evernym [**^**](#Contents)
+## Evernym 
 
 ![](http://untangled.world/wp-content/uploads/2017/08/everynym-logo-1400x357.png)
 
@@ -78,7 +79,7 @@ At the end of 2015, the Department of Homeland Security announced that it had fu
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
 
 
-### ID2020 and the GDPR [**^**](#contents)
+## ID2020 and the GDPR 
 
 ![](https://imgur.com/ymviAssl.png)
 
@@ -98,6 +99,14 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
    >"Respect Network is conducting a research project for the [U.S. Department of Homeland Security](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology), HSHQDC-16-C-00061, to analyze the applicability of blockchain technologies to a decentralized identifier system. Our thesis is that blockchains, or more generically distributed ledgers, are a potentially powerful new tool for “identity roots” — the starting points for an Internet identity. However “blockchain identity” may not fully address the core security and privacy principles needed in a complete identity system. In this case DIDs — Decentralized Identifiers rooted on a distributed ledger — may end up being a foundational building block for higher level identity management solutions. -
 * At this point in time DLT innovation, the United Nations Sustainable Development Goals, and the EU GDPR all came together supporting a core identirati tenant: Eliminating id data silos and empowering users regarding digital identity. 
 
+## Decentralized Identity Foundation
+
+On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/decentralized-identity-foundation-announces-formation-at-consensus-2017):
+* [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
+* [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
+
+
+## Standards History
 ![](https://i.imgur.com/XtZQg0j.png)
 
 ![](https://i.imgur.com/FBe3S0w.png)
@@ -110,8 +119,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 <a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a> [<a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">**ϟ**</a>]
 
 
-
-## Additional IID Standards History [**^**](#contents) 
+## Resources 
 * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
 * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
 * [Identity Commons-Wiki](http://wiki.idcommons.net/Main_Page)
