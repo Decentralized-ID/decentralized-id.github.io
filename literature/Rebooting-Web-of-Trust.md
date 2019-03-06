@@ -21,6 +21,13 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
   * [Topics and Advanced Readings](##topics--advance-readings-iii-)
 
 ## Selected 'Rebooting Web of Trust' Whitepapers [**^**](#contents) 
+* [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
+  >Our goal for this initial #RebootingWebOfTrust design workshop is to:
+  >
+  > * Focus on the creation of the next generation of decentralized web-of-trust based identity systems.
+  > * To generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future"
+  >
+  > To this end, I thought it would be useful to define what is a white paper, and as some people desire to go beyond this, what is a specification and proof of concept code.
 * [WebofTrust.info/papers.html](https://www.weboftrust.info/papers.html)
 * [Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf) Original RWoT whitepaper
 * [Framework for the Comparison of Identity Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/Framework-for-Comparison-of-Identity-Systems.md)
