@@ -4,7 +4,8 @@ Where you can get started working with DID Today.
 ## Contents
 
 * [/WebOfTrustInfo](#weboftrustinfo---design-workshop)
-* [/w3c](#w3c---world-wide-web-consortium)
+* [/w3c](#w3c---world-wide-web-consortium-)
+  * [Credentials Community Group](#ccg)
 * [/hyperledger Indy](#hyperledger-indy)
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity)
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio)
@@ -28,7 +29,7 @@ The workshop itself also produces technical whitepapers, this Repository holds a
 
 ## /w3c - World Wide Web Consortium
 
-### Verifiable Claims WG
+### /w3c/verifiable-claims  - VC Working Group
 
 <a href="https://lists.w3.org/Archives/Public/public-vc-wg/" target="_blank">Verifiable Claims WG - Mailing List</a> (and archives)
 
@@ -38,9 +39,9 @@ The workshop itself also produces technical whitepapers, this Repository holds a
 * <a href="https://github.com/w3c/vc-test-suite" target="_blank">/w3c/vc-test-suite</a> - Verifiable Claims WG Test Suite.
 * <a href="https://github.com/w3c/vc-imp-guide" target="_blank">/w3c/vc-imp-guide</a> - Verifiable Credentials Implementation Guidelines
 
-## /w3c-ccg - Credentials Community Group
+### /w3c-ccg - Credentials Community Group [**^**](#contents)
 
-### CCG
+#### CCG [**^**](#contents)
 
 <a href="http://lists.w3.org/Archives/Public/public-credentials/" target="_blank">Public mailing list for the Credentials Community Group</a> (and archives) - Anyone may read or write to this list.
   * <a href="https://github.com/w3c-ccg/meetings" target="_blank">/w3c-ccg/meetings</a> CCG Meeting Transcripts
@@ -49,9 +50,34 @@ The workshop itself also produces technical whitepapers, this Repository holds a
 * <a href="https://github.com/w3c-ccg/w3c-ccg-process" target="_blank">/w3c-ccg/w3c-ccg-process</a>
 * <a href="https://github.com/w3c-ccg/registries-process" target="_blank">/w3c-ccg/registries-process</a>
 
-**>>** **[More CCG Repositories](w3c.md#html)** **>>**
+#### DID [**^**](#contents)
 
-## W3C Digital Verification Community Group
+* <a href="https://github.com/w3c-ccg/did-primer" target="_blank">/w3c-ccg/did-primer</a> - A Primer for Decentralized Identifiers
+* <a href="https://github.com/w3c-ccg/did-spec" target="_blank">/w3c-ccg/did-spec</a> - Decentralized Identifier (DID) 1.0 Specification - Data Model and Syntax
+* <a href="https://github.com/w3c-ccg/did-resolution" target="_blank">/w3c-ccg/did-resolution</a> Spec 1.0
+* <a href="https://github.com/w3c-ccg/did-use-cases" target="_blank">/w3c-ccg/did-use-cases</a>
+* <a href="https://github.com/w3c-ccg/did-method-registry" target="_blank">/w3c-ccg/did-method-registry</a> - a list of all known DID Methods and their current level of maturity.
+  * <a href="https://github.com/w3c-ccg/didm-btcr" target="_blank">/w3c-ccg/didm-btcr</a> - WORK ITEM: BTCR DID Method Spec
+  * <a href="https://github.com/w3c-ccg/didm-veres-one" target="_blank">/w3c-ccg/didm-veres-one</a> - Veres One Decentralized Identifier Method Specification
+* <a href="https://github.com/w3c-ccg/did-wg-proposal" target="_blank">/w3c-ccg/did-wg-proposal</a> - Proposal to W3C membership for a DID Working Group.
+  * <a href="https://github.com/w3c-ccg/did-wg-charter" target="_blank">/w3c-ccg/did-wg-charter</a> - EXPERIMENTAL charter for the W3C Decentralized Identifier Working Group 
+* <a href="https://github.com/w3c-ccg/did-hackathon-2018" target="_blank">/w3c-ccg/did-hackathon-2018</a>
+* <a href="https://github.com/w3c-ccg/data-minimization" target="_blank">/w3c-ccg/data-minimization</a> - Data Minimization, Selective Disclosure, and Progressive Trust
+* <a href="https://github.com/w3c-ccg/credential-handler-api" target="_blank">/w3c-ccg/credential-handler-api</a>
+* <a href="https://github.com/w3c-ccg/amira" target="_blank">/w3c-ccg/amira</a> - Amira Engagement Model.
+* <a href="https://github.com/w3c-ccg/functional-identity" target="_blank">/w3c-ccg/functional-identity</a>
+
+#### CCG - Verifiable Credentials [**^**](#contents)
+
+* <a href="https://github.com/w3c-ccg/vc-status-registry" target="_blank"></a> - REGISTRY: The Verifiable Credentials Status Scheme Registry.
+* <a href="https://github.com/w3c-ccg/edu_occ_verifiable_credentials" target="_blank">/w3c-ccg/edu_occ_verifiable_credentials</a> - WORK ITEM: Drafts and Ideas of Educational and Occupational Verifiable Credentials.
+* <a href="https://github.com/w3c-ccg/vc-examples" target="_blank">/w3c-ccg/vc-examples</a> - WORK ITEM: Verifiable Credentials Examples
+
+#### CCG -  Linked Data [**^**](#contents)
+* <a href="https://github.com/w3c-ccg/ocap-ld" target="_blank">/w3c-ccg/ocap-ld</a> - WORK ITEM: Linked Data Object Capabilities specification
+* <a href="https://github.com/w3c-ccg/ld-cryptosuite-registry" target="_blank">/w3c-ccg/ld-cryptosuite-registry</a> - REGISTRY: Linked Data Keys Registry
+
+### Digital Verification Community Group [**^**](#contents)
 > The mission of the W3C Digital Verification Community Group is to study, design, promote, and deploy systems that increase trust on the Web.
 
 * <a href="https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io" target="_blank">/w3c-dvcg/w3c-dvcg.github.io</a> - Landing site for W3C Digital Verification Community Group.
@@ -74,7 +100,7 @@ Linked Data Proofs Specification
 * <a href="https://sea-region.github.com/w3c-dvcg/lds-pseudonymous2016/" target="_blank">/w3c-dvcg/lds-pseudonymous2016/</a>
 * <a href="https://sea-region.github.com/w3c-dvcg/lds-rsa2016/" target="_blank">/w3c-dvcg/lds-rsa2016/</a>
 
-## /opencreds
+### /opencreds
 
 * <a href="https://github.com/opencreds/website" target="_blank">/opencreds/website</a> - The Open Credentials Website
 * <a href="https://github.com/opencreds/minutes" target="_blank">/opencreds/minutes</a> - 
