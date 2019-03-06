@@ -1,9 +1,10 @@
----
-title: SSI-DID Github Repositories
-description: ... and you can too!
----
+<!--
+  Title: SSI-DID Github Repositories
+  Description: description: ... and you can too!
+  Author: aloisdg
+  -->
 
-# GitHub Repositories 
+# SSI-DID Github Repositories
 **... and you can too!**
 
 ## Contents
