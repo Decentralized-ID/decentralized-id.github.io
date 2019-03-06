@@ -4,7 +4,21 @@ Get involved
 
 ## IIW - Internet Identity Workshop
 
->The [Internet Identity Workshop](https://internetidentityworkshop.com) has been finding, probing and solving identity issues twice every year since 2005. We meet in the Computer History Museum in Mountain View, CA. Every IIW moves topics, code and projects downfield. Name an identity topic and it’s likely that more substantial discussion and work has been done at IIW than any other conference!
+>The [Internet Identity Workshop](https://internetidentityworkshop.com) has been finding, probing and solving identity issues twice every year since 2005. 
+
+... 
+
+<blockquote>
+IIW is at its heart a participatory conference. Through dozens of sessions, lunches, and two evening meals (all included in ticket) you’ll have plenty of chances to exchange ideas and make new professional connections.
+
+This is the time and place that you get to discuss, share your knowledge, work on and learn about anything & everything related to Internet Identity today.
+
+Spring: April 30, 2019 – May 2, 2019
+
+Fall: October 01, 2019 – October 03, 2019
+</blockquote>
+
+[![](https://i.imgur.com/DRSuywW.png)](https://vimeo.com/173562225)
 
 ## Rebooting Web of Trust
 
@@ -17,6 +31,15 @@ Get involved
   > To this end, I thought it would be useful to define what is a white paper, and as some people desire to go beyond this, what is a specification and proof of concept code.
 
 * <a href="http://www.weboftrust.info/next-event-page.html" target="_blank">WebOfTrust.info - Upcoming Events</a>
+
+## MyData
+
+* [Mydata](http://mydata.org/) [[**T**](https://twitter.com/mydataorg)] [[**D**](https://mydata.org/papers/)] [[**D**](https://mydata.org/declaration/)]
+   * goal: to empower individuals with their personal data, thus helping them and their communities develop knowledge, make informed decisions, and interact more consciously and efficiently with each other as well as with organisations."
+
+>When you join the MyData Global, you are helping to create a trustworthy human centered data economy. Read from the [MyData Declaration](https://mydata.org/declaration/) what we mean by this.
+
+![](https://i.imgur.com/gIbUsDQ.png)
 
 ## W3C
 
@@ -99,9 +122,9 @@ DIF members, who share the goal of “building an open source decentralized iden
 • [Veridium](https://www.veridiumid.com/) 
 • [zinc](https://tykn.tech/project-zinc/) 
 
-
 ### DIF - Work
 
+* <a href="https://github.com/decentralized-identity/org" target="_blank">DIF Organizational Materials</a>
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
   * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
@@ -111,3 +134,15 @@ DIF members, who share the goal of “building an open source decentralized iden
 **>>** [DIF GitHub Repositories](github/README.md#decentralized-identity---dif) **>>**
 
 ## SSI-Meetup
+
+>[SSI Meetup](https://ssimeetup.org) is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. Our main mission is to help you connect with other SSI enthusiasts and create a dynamic, local, yet globally connected community.
+
+...[Monthly webinars](https://ssimeetup.org/blog/), the slideshares of which provide a ton of value.
+
+Who can join?
+Anyone deals with or who wants to deal with Self-Sovereign Identity. This includes: SSI companies, SSI loving organizations, and any SSI evangelist wanting to use community SSI tools or who is otherwise interested in contributing.
+
+Our Principles
+What can I/we do?
+Anything to support the cause – please get in touch and we will try to find a way to make it happen as we build the community.
+
