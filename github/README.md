@@ -11,7 +11,7 @@ Where you can get started working with DID Today.
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio)
 * []
 
-## /WebOfTrustInfo - Design Workshop [**^**](#contents)
+## /WebOfTrustInfo - Design Workshop
 
 >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
 
@@ -27,9 +27,9 @@ The workshop itself also produces technical whitepapers, this Repository holds a
 * <a href="https://github.com/WebOfTrustInfo/" target="_blank">https://github.com/WebOfTrustInfo/</a>
 * <a href="literature/Rebooting-Web-of-Trust.md">One Page List of RWoT Literature</a>
 
-## /w3c - World Wide Web Consortium
+## /w3c - World Wide Web Consortium [**^**](#contents)
 
-### /w3c/verifiable-claims  - VC Working Group
+### /w3c/verifiable-claims  - VC Working Group [**^**](#contents)
 
 <a href="https://lists.w3.org/Archives/Public/public-vc-wg/" target="_blank">Verifiable Claims WG - Mailing List</a> (and archives)
 
