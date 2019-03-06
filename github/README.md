@@ -17,6 +17,16 @@ description: ... and you can too!
     * [Linked Data](#ccg----linked-data-)
   * [Digital Verification Community Group](#digital-verification-community-group-)
   * [OpenCreds](#opencreds-)
+* [Learning Machine](#learning-machine-)
+  * [Blockcerts](#blockcerts-)
+    * [Blockcerts Json](#blockcerts-json-)
+    * [Blockcerts Web](#blockcerts-web-)
+    * [Blockcerts Mobile](#blockcerts-mobile-)
+* [Digital Bazaar](#digital-bazaar-)
+  * [DB - Identity](#db---identity-)
+  * [DB - Credentials](#db---credentials-)
+  * [DB - DID](#db---did-)
+  * [DB - Linked Data](#db---linked-data-)
 * [Decentralized Identity Foundation](#decentralized-identity---dif-)
   * [DIF - DID](#dif---did-)
   * [DIF - DID-Auth](#dif---did-auth-)
@@ -30,6 +40,7 @@ description: ... and you can too!
     * [VON - Agents](#von-agents-)
   * [BCGov - DID-Auth](#bcgov---did-auth-)
   * [PSPC-SPAC-buyandsell](#pspc-spac-buyandsell-) - Public Services and Procurement Canada
+* [Veres One](#veres-one-)
 * [Ethereum](#ethereum-)
 * [uPort](#uport-)
   * [uPort DID](#uport-did-)
@@ -142,6 +153,129 @@ Linked Data Proofs Specification
 * <a href="https://github.com/opencreds/minutes" target="_blank">/opencreds/minutes</a> - 
 Text and audio meeting minutes for W3C Credentials Community Group
 
+## Learning Machine [**^**](#contents)
+
+* <a href="https://github.com/learningmachine/stage.blockcerts.github.io" target="_blank">/learningmachine/stage.blockcerts.github.io</a> - Web site 
+  - Forked from blockchain-certificates/blockchain-certificates.github.io
+* <a href="https://github.com/learningmachine/polymer-redux" target="_blank">/learningmachine/polymer-redux</a> - An example use-case to showcase the state/view abstraction in Polymer 3, LitElement and Redux context
+* <a href="https://github.com/learningmachine/ajv" target="_blank">/learningmachine/ajv</a> -The fastest JSON-Schema Validator. Supports draft-06
+  - Forked from epoberezkin/ajv
+* <a href="https://github.com/learningmachine/Foundatio" target="_blank">/learningmachine/Foundatio</a> - Pluggable foundation blocks for building distributed apps.
+  - Forked from FoundatioFx/Foundatio
+
+### Blockcerts [**^**](#contents)
+
+* <a href="https://github.com/blockchain-certificates/blockcerts-verifier" target="_blank">/blockchain-certificates/blockcerts-verifier</a> - A Blockcerts verifier and viewer
+* <a href="https://github.com/blockchain-certificates/cert-issuer" target="_blank">/blockchain-certificates/cert-issuer</a> - Issues Blockcerts using either the Bitcoin or Ethereum blockchain
+* <a href="https://github.com/blockchain-certificates/cert-verifier" target="_blank">/blockchain-certificates/cert-verifier</a> - Python library for verifying Blockcerts
+* <a href="https://github.com/blockchain-certificates/cert-schema" target="_blank">/blockchain-certificates/cert-schema</a> - The schema for Blockcerts
+  - Forked from IMSGlobal/cert-schema
+* <a href="https://github.com/blockchain-certificates/assets" target="_blank">/blockchain-certificates/assets</a>
+* <a href="https://github.com/blockchain-certificates/cert-verifier-js" target="_blank">/blockchain-certificates/cert-verifier-js</a> - Javascript library for verifying Blockcerts Certificates
+* <a href="https://github.com/blockchain-certificates/cert-tools" target="_blank">/blockchain-certificates/cert-tools</a> -Command line tools for designing certificate templates and instantiating a certificate batch
+* <a href="https://github.com/blockchain-certificates/obi-baking" target="_blank">/blockchain-certificates/obi-baking</a> - Example of baking a blockcert into an Open Badge
+* <a href="https://github.com/blockchain-certificates/cert-core" target="_blank">/blockchain-certificates/cert-core</a>
+* <a href="https://github.com/blockchain-certificates/wallet-test-resources" target="_blank">/blockchain-certificates/wallet-test-resources</a> - These are resources used to test implementations of the evolving blockcerts certificate standard and issuer conventions.
+* <a href="https://github.com/blockchain-certificates/pyld" target="_blank">/blockchain-certificates/pyld</a> - JSON-LD processor written in Python
+  - Forked from digitalbazaar/pyld
+* <a href="https://github.com/blockchain-certificates/archived-cert-store" target="_blank">/blockchain-certificates/archived-cert-store</a> - Storage library and service for Blockchain Certificates
+* <a href="https://github.com/blockchain-certificates/openbadges-validator-core" target="_blank">/blockchain-certificates/openbadges-validator-core</a> - Open Badges validation in python 
+  - Forked from IMSGlobal/openbadges-validator-core
+* <a href="https://github.com/blockchain-certificates/PodSpecs" target="_blank">/blockchain-certificates/PodSpecs</a> - A listing of CocoaPod .podspec files for all pods created in the Blockchain Certificates project.
+* <a href="https://github.com/blockchain-certificates/openbadges-bakery" target="_blank">/blockchain-certificates/openbadges-bakery</a> - An OpenBadges image baking library that works with PNGs and SVGs
+  - Forked from mozilla/openbadges-bakery
+
+#### Blockcerts Json [**^**](#contents)
+* <a href="https://github.com/blockchain-certificates/JSONLD" target="_blank">/blockchain-certificates/JSONLD</a> - An iOS framework for processing JSON-LD files.
+* <a href="https://github.com/blockchain-certificates/JSONLDProcessor" target="_blank">/blockchain-certificates/JSONLDProcessor</a> - An iOS framework for processing JSON-LD files.
+
+
+#### Blockcerts Web [**^**](#contents)
+
+* <a href="https://github.com/blockchain-certificates/cert-viewer" target="_blank">/blockchain-certificates/cert-viewer</a> - A web app for viewing and validating Blockchain Certificates
+* <a href="https://github.com/blockchain-certificates/blockcerts-playground.github.io" target="_blank">/blockchain-certificates/blockcerts-playground.github.io</a> - In-browser tool to experiment with Blockcerts
+* <a href="https://github.com/blockchain-certificates/blockchain-certificates.github.io" target="_blank">/blockchain-certificates/blockchain-certificates.github.io</a> 
+  - Forked from mmistakes/minimal-mistakes
+* <a href="https://github.com/blockchain-certificates/cert-web-component" target="_blank">/blockchain-certificates/cert-web-component</a> - A web component for displaying blockchain certificates.
+
+#### Blockcerts Mobile [**^**](#contents)
+
+* <a href="https://github.com/blockchain-certificates/wallet-android" target="_blank">/blockchain-certificates/wallet-android</a> - An Android app for Blockcerts
+* <a href="https://github.com/blockchain-certificates/BlockcertsFramework-iOS" target="_blank">/blockchain-certificates/BlockcertsFramework-iOS</a> - An iOS wallet for viewing, validating, and sharing certs
+* <a href="https://github.com/blockchain-certificates/wallet-iOS" target="_blank">/blockchain-certificates/wallet-iOS</a> - An iOS wallet for Blockcerts
+
+## Digital Bazaar [**^**](#contents)
+
+* <a href="https://github.com/digitalbazaar/bedrock" target="_blank">/digitalbazaar/bedrock</a> - Bedrock: A core foundation for rich Web applications.
+* <a href="https://github.com/digitalbazaar/forge" target="_blank">/digitalbazaar/forge</a> - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps 
+* <a href="https://github.com/digitalbazaar/veres-delta-docs" target="_blank">/digitalbazaar/veres-delta-docs</a>
+* <a href="https://github.com/digitalbazaar/uuid-random" target="_blank">/digitalbazaar/uuid-random</a>
+
+
+### DB - Identity [**^**](#contents)
+* <a href="https://github.com/digitalbazaar/bedrock-angular-identity-composer" target="_blank">/digitalbazaar/bedrock-angular-identity-composer</a> - An bedrock-based AngularJS directive for composing an Identity from a set of credentials
+* <a href="https://github.com/digitalbazaar/bedrock-identity-http" target="_blank">/digitalbazaar/bedrock-identity-http</a>
+* <a href="https://github.com/digitalbazaar/opencred-idp" target="_blank">/digitalbazaar/opencred-idp</a> - Open Credentials Identity Provider and demo websites
+* <a href="https://github.com/digitalbazaar/bedrock-angular-identity" target="_blank">/digitalbazaar/bedrock-angular-identity</a> - Bedrock AngularJS Identity Modules
+* <a href="https://github.com/digitalbazaar/bedrock-identity" target="_blank">/digitalbazaar/bedrock-identity</a> - Bedrock identity
+* <a href="https://github.com/digitalbazaar/bedrock-idp" target="_blank">/digitalbazaar/bedrock-idp</a> - Bedrock Identity Provider
+
+### DB - Credentials
+* <a href="https://github.com/digitalbazaar/vc-data-model" target="_blank">/digitalbazaar/vc-data-model</a> - Verifiable Claims Data Model and Representations specification
+  - Forked from w3c/vc-data-model
+* <a href="https://github.com/digitalbazaar/vc-test-suite" target="_blank">/digitalbazaar/vc-test-suite</a> - Verifiable Claims WG Test Suite
+  - Forked from w3c/vc-test-suite
+* <a href="https://github.com/digitalbazaar/vc-js" target="_blank">/digitalbazaar/vc-js</a> - Verifiable Claims JavaScript library
+* <a href="https://github.com/digitalbazaar/credentials-io" target="_blank">/digitalbazaar/credentials-io</a> - Library for reading/writing credentials
+* <a href="https://github.com/digitalbazaar/bedrock-credentials-rest" target="_blank">/digitalbazaar/bedrock-credentials-rest</a> - A RESTful API for credential storage
+* <a href="https://github.com/digitalbazaar/" target="_blank">/digitalbazaar/bedrock-credential-vocabs</a> - Semantic web vocabularies for processing credentials.
+* <a href="https://github.com/digitalbazaar/bedrock-address-credential-issuer" target="_blank">/digitalbazaar/bedrock-address-credential-issuer</a> - A module for issuing address credentials
+* <a href="https://github.com/digitalbazaar/opencred-verifier" target="_blank">/digitalbazaar/opencred-verifier</a> - Open Credentials Verifier JavaScript API
+* <a href="https://github.com/digitalbazaar/opencred-idp" target="_blank">/digitalbazaar/opencred-idp</a> - Open Credentials Identity Provider and demo websites
+* <a href="https://github.com/digitalbazaar/" target="_blank">/digitalbazaar/bedrock-credential-notifications</a> - Notification issuing for credentials.
+* <a href="https://github.com/digitalbazaar/bedrock-credentials-mongodb" target="_blank">/digitalbazaar/bedrock-credentials-mongodb</a> - Credential storage in mongodb
+* <a href="https://github.com/digitalbazaar/bedrock-credentials-context" target="_blank">/digitalbazaar/bedrock-credentials-context</a>
+* <a href="https://github.com/digitalbazaar/bedrock-angular-card-displayer" target="_blank">/digitalbazaar/bedrock-angular-card-displayer</a> - Bedrock displayer for card-based credentials
+* <a href="https://github.com/digitalbazaar/bedrock-credential-handler" target="_blank">/digitalbazaar/bedrock-credential-handler</a> - Credential Handler for DID-based credentials
+* <a href="https://github.com/digitalbazaar/bedrock-web-vc-store" target="_blank">/digitalbazaar/bedrock-web-vc-store</a> - A Javascript library for storing Verifiable Credentials for Bedrock web apps
+* <a href="https://github.com/digitalbazaar/web-vc-query-creator" target="_blank">/digitalbazaar/web-vc-query-creator</a> - A Javascript library providing a simplified API for creating Verifiable Credentials queries for web apps.
+* <a href="https://github.com/digitalbazaar/bedrock-angular-identity-composer" target="_blank">/digitalbazaar/bedrock-angular-identity-composer</a> - An bedrock-based AngularJS directive for composing an Identity from a set of credentials
+* <a href="https://github.com/digitalbazaar/bedrock-web-profile-composer" target="_blank">/digitalbazaar/bedrock-web-profile-composer</a> - A Javascript library for fulfilling Verifiable Credentials queries for Bedrock web apps
+
+
+### DB - DID
+* <a href="https://github.com/digitalbazaar/did-whisper" target="_blank">/digitalbazaar/did-whisper</a> - DID whisper
+* <a href="https://github.com/digitalbazaar/did-whisper-server" target="_blank">/digitalbazaar/did-whisper-server</a> - A simple DID Whisper server
+* <a href="https://github.com/digitalbazaar/bedrock-web-did-store" target="_blank">/digitalbazaar/bedrock-web-did-store</a> - Enables storage and management of DIDs in a Web App
+* <a href="https://github.com/digitalbazaar/bedrock-authn-did" target="_blank">/digitalbazaar/bedrock-authn-did</a>
+* <a href="https://github.com/digitalbazaar/did-ssh" target="_blank">/digitalbazaar/did-ssh</a>
+bedrock-angular-authn-did
+* <a href="https://github.com/digitalbazaar/did-cli" target="_blank">/digitalbazaar/did-cli</a> - A client for managing Decentralized Identifiers
+* <a href="https://github.com/digitalbazaar/did-io" target="_blank">/digitalbazaar/did-io</a> - Decentralized identifier management library for browser and node.js
+* <a href="https://github.com/digitalbazaar/bedrock-authn-did-jwt" target="_blank">/digitalbazaar/bedrock-authn-did-jwt</a>
+* <a href="https://github.com/digitalbazaar/bedrock-did-client" target="_blank">/digitalbazaar/bedrock-did-client</a>
+* <a href="https://github.com/digitalbazaar/bedrock-angular-authn-did-jwt" target="_blank">/digitalbazaar/bedrock-angular-authn-did-jwt</a>
+* <a href="https://github.com/digitalbazaar/bedrock-credential-handler" target="_blank">/digitalbazaar/bedrock-credential-handler</a> - Credential Handler for DID-based credentials
+
+
+### DB - Linked Data
+
+* <a href="https://github.com/digitalbazaar/php-json-ld" target="_blank">/digitalbazaar/php-json-ld</a> - PHP implementation of a JSON-LD Processor and API
+* <a href="https://github.com/digitalbazaar/pyld" target="_blank">/digitalbazaar/pyld</a> - JSON-LD processor written in Python
+* <a href="https://github.com/digitalbazaar/" target="_blank">/digitalbazaar/jsonld.js</a> - A JSON-LD Processor and API implementation in JavaScript
+* <a href="https://github.com/digitalbazaar/jsonld-signatures" target="_blank">/digitalbazaar/jsonld-signatures</a> - An implementation of the Linked Data Signatures specification for JSON-LD. Works in the browser and node.js.
+* <a href="https://github.com/digitalbazaar/json-ld" target="_blank">/digitalbazaar/json-ld</a> - A Context-based JSON Serialization for Linked Data
+* <a href="https://github.com/digitalbazaar/ocapld.js" target="_blank">/digitalbazaar/ocapld.js</a> - Linked Data Capabilities reference implementation
+* <a href="https://github.com/digitalbazaar/cuckoo-ldp" target="_blank">/digitalbazaar/cuckoo-ldp</a> - Cuckoo Cycle Based Linked Data Proofs
+* <a href="https://github.com/digitalbazaar/bedrock-ldn-receiver" target="_blank">/digitalbazaar/bedrock-ldn-receiver</a> - Bedrock module for Linked Data Notification Receiver
+* <a href="https://github.com/digitalbazaar/bedrock-ldn-inbox" target="_blank">/digitalbazaar/bedrock-ldn-inbox</a> - Bedrock module for Linked Data Notification Inboxes
+* <a href="https://github.com/digitalbazaar/bedrock-angular-ldn" target="_blank">/digitalbazaar/bedrock-angular-ldn</a> - Bedrock AngularJS module for Linked Data Notification Sender+Consumer
+* <a href="https://github.com/digitalbazaar/" target="_blank">/digitalbazaar/json-ld.org</a> - Forked from json-ld/json-ld.org
+JSON for Linked Data
+* <a href="https://github.com/digitalbazaar/flex-ledger" target="_blank">/digitalbazaar/flex-ledger</a> - Forked from web-payments/flex-ledger
+A decentralized Linked Data Ledger for the Web
+
+
 ## /decentralized-identity - DIF [**^**](#contents)
 
 * <a href="https://github.com/decentralized-identity/decentralized-identity.github.io" target="_blank">/decentralized-identity/decentralized-identity.github.io</a>  - Site for the open source, community-driven group of dev and organizations working toward an interoperable, decentralized identity ecosystem
@@ -241,7 +375,6 @@ Hyperledger Indy Project Enhancements
 * <a href="https://github.com/bcgov/did-auth-extension" target="_blank">/bcgov/did-auth-extension</a> - DID Auth browser extension.
 * <a href="https://github.com/bcgov/http-did-auth-proxy" target="_blank">/bcgov/http-did-auth-proxy</a> - DID Auth HTTP proxy.
 * <a href="https://github.com/bcgov/did-auth-relying-party" target="_blank">/bcgov/did-auth-relying-party</a> - DID Auth relying party.
-* <a href="" target="_blank"></a>
 
 ### /PSPC-SPAC-buyandsell [**^**](#contents)
 **Public Services and Procurement Canada: buyandsell.gc.ca --- Services publics et Approvisionnement Canada : Achatsetventes.gc.ca**
@@ -258,7 +391,20 @@ Hyperledger Indy Project Enhancements
 * <a href="https://github.com/PSPC-SPAC-buyandsell/von_conx" target="_blank">/PSPC-SPAC-buyandsell/von_conx</a> - Reference implementation (sample) for a VON Connector using tools of VON_X
 * <a href="https://github.com/PSPC-SPAC-buyandsell/demo-agent" target="_blank">/PSPC-SPAC-buyandsell/demo-agent</a> - agent and api wrapper code base
 
-## Ethereum [**^**](#ethereum)
+## Veres One [**^**](#contents)
+
+* <a href="https://github.com/veres-one/veres-one" target="_blank">/veres-one/veres-one</a> - A ledger for acquiring and managing decentralized identifiers
+* <a href="https://github.com/veres-one/did-veres-one" target="_blank">/veres-one/did-veres-one</a> - A Decentralized Identifier utility library for Veres One
+* <a href="https://github.com/veres-one/veres-one-validator" target="_blank">/veres-one/veres-one-validator</a> - A ledger validator that accepts either signatures or proof of work
+* <a href="https://github.com/veres-one/veres-one-context" target="_blank">/veres-one/veres-one-context</a>
+* <a href="https://github.com/veres-one/veres-one-consensus-continuity-elector-selection" target="_blank">/veres-one/veres-one-consensus-continuity-elector-selection</a>
+* <a href="https://github.com/veres-one/did-client-veres-one" target="_blank">/veres-one/did-client-veres-one</a> - DID client APIs for Veres One
+* <a href="https://github.com/veres-one/docs.veres.one" target="_blank">/veres-one/docs.veres.one</a> - Documentation for the Veres One Project
+* <a href="https://github.com/veres-one/status.testnet.veres.one" target="_blank">/veres-one/status.testnet.veres.one</a> - Testnet status dashboard website
+* <a href="https://github.com/veres-one/veres-one-project" target="_blank">/veres-one/veres-one-project</a>
+
+
+## Ethereum [**^**](#contents)
 * [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
 * [ERC-1484: Digital Identity Aggregator #1495](https://github.com/ethereum/EIPs/issues/1495) —A protocol for aggregating digital identity information that's broadly interoperable with existing, proposed, and hypothetical future digital identity standards.
 * [ERC725](https://github.com/ethereum/EIPs/issues/725) 
