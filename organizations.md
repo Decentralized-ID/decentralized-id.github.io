@@ -4,9 +4,29 @@ Get involved
 
 ## IIW - Internet Identity Workshop
 
+>The [Internet Identity Workshop](https://internetidentityworkshop.com) has been finding, probing and solving identity issues twice every year since 2005. We meet in the Computer History Museum in Mountain View, CA. Every IIW moves topics, code and projects downfield. Name an identity topic and it’s likely that more substantial discussion and work has been done at IIW than any other conference!
+
 ## Rebooting Web of Trust
 
+* [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
+  >Our goal for this initial #RebootingWebOfTrust design workshop is to:
+  >
+  > * Focus on the creation of the next generation of decentralized web-of-trust based identity systems.
+  > * To generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future"
+  >
+  > To this end, I thought it would be useful to define what is a white paper, and as some people desire to go beyond this, what is a specification and proof of concept code.
+
+* <a href="http://www.weboftrust.info/next-event-page.html" target="_blank">WebOfTrust.info - Upcoming Events</a>
+
 ## W3C
+
+>The [World Wide Web Consortium (W3C)](https://www.w3.org/Consortium/) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards. Led by Web inventor and Director Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to lead the Web to its full potential.
+
+* <a href="https://lists.w3.org/Archives/Public/public-vc-wg/" target="_blank">Verifiable Claims WG - Mailing List</a> (and archives)
+* <a href="http://lists.w3.org/Archives/Public/public-credentials/" target="_blank">Public mailing list for the Credentials Community Group</a> (and archives) - Anyone may read or write to this list.
+* <a href="https://github.com/opencreds/website" target="_blank">/opencreds/website</a> - The Open Credentials Website
+* <a href="https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io" target="_blank">/w3c-dvcg/w3c-dvcg.github.io</a> - Landing site for W3C Digital Verification Community Group.
+
 
 ## Decentralized Identity Foundation
 
@@ -88,5 +108,6 @@ DIF members, who share the goal of “building an open source decentralized iden
   * [uniresolver.io](https://uniresolver.io/)
 * [6/27 Masterclass on the DID Universal Resolver | Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
 
+**>>** [DIF GitHub Repositories](github/README.md#decentralized-identity---dif) **>>**
 
 ## SSI-Meetup
