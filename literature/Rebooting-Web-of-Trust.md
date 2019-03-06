@@ -75,6 +75,15 @@ In advance of the design workshop, all participants produced a one-or-two page t
 
 **Topic Papers Submitted**
 
+* [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
+  >Our goal for this initial #RebootingWebOfTrust design workshop is to:
+  >
+  > * Focus on the creation of the next generation of decentralized web-of-trust based identity systems.
+  > * To generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future"
+  >
+  > To this end, I thought it would be useful to define what is a white paper, and as some people desire to go beyond this, what is a specification and proof of concept code.
+
+
 * [Advanced Web-of-Trust Concepts](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/advanced-web-of-trust-concepts.md) 
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>*
 * [Attempts at common terminology for digital identity systems](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/shared_terminology_for_digital_identity_systems.md) 
@@ -157,7 +166,6 @@ In advance of the design workshop, all participants produced a one-or-two page t
   - Harlan T. Wood *[@HarlanTWood](https://twitter.com/harlantwood) \<h@rlan.me \>*
 * [Web of Trust with Blockchain IDs](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Web-of-Trust-with-Blockchain-IDs.md) 
   - Ryan Shea *[@ryaneshea](https://twitter.com/ryaneshea) \<ryan@onename.com\>*
-* [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>*
 * [XDI Link Contracts: An Overview](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/xdi-link-contracts.md) 
   - Drummond Reed *[@DrummondReed](https://twitter.com/DrummondReed) \<drummond@respect.network\>*
