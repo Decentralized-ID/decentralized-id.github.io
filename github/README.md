@@ -1,8 +1,7 @@
-<!--
-  Title: SSI-DID Github Repositories
-  Description: description: ... and you can too!
-  Author: aloisdg
-  -->
+---
+title: SSI-DID Github Repositories
+description: ... and you can too!
+---
 
 # SSI-DID Github Repositories
 **... and you can too!**
@@ -20,10 +19,19 @@
   * [Digital Verification Community Group](#digital-verification-community-group-)
   * [OpenCreds](#opencreds-)
 * [Decentralized Identity Foundation](#decentralized-identity---dif-)
+  * [DIF - DID](#dif---did-)
+  * [DIF - DID-Auth](#dif---did-auth-)
+  * [DIF - Sidetree](#dif---sidetree-)
+  * [DIF - Hub](#dif---hub-)
+  * [DIF - Uniresolver](#dif---uniresolver-)
 * [/hyperledger Indy](#hyperledger-indy-)
+* [/bcgov](#bcgov-)
+  * [BCGov - VON](#bcgov---von-)
+  * [Von - Indy](#von---indy-)
+  * [BCGov - DID-Auth](#bcgov---did-auth-)
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
-* []
+
 
 ## /WebOfTrustInfo - Design Workshop
 
@@ -124,8 +132,11 @@ Text and audio meeting minutes for W3C Credentials Community Group
 
 * <a href="https://github.com/decentralized-identity/decentralized-identity.github.io" target="_blank">/decentralized-identity/decentralized-identity.github.io</a>  - Site for the open source, community-driven group of dev and organizations working toward an interoperable, decentralized identity ecosystem
 * <a href="https://github.com/decentralized-identity/org" target="_blank">/decentralized-identity/org</a> - DIF docs, wiki, and organizational material
+* <a href="https://github.com/decentralized-identity/credential-manifest" target="_blank">/decentralized-identity/credential-manifest</a> - Format that normalizes the definition of requirements for the issuance of a credential
+* <a href="https://github.com/decentralized-identity/universal-registrar" target="_blank">/decentralized-identity/universal-registrar</a> - Specifications and implementation of a universal identifier registrar
+* <a href="https://github.com/decentralized-identity/attestations" target="_blank">decentralized-identity/attestations</a> - Attestation API implementations for various languages and platforms.
 
-### DIF - DID
+### DIF - DID [**^**](#contents)
 * <a href="https://github.com/decentralized-identity/did-methods" target="_blank">/decentralized-identity/did-methods</a> - DID Method specs, docs, and materials
 * <a href="https://github.com/decentralized-identity/did-common-typescript" target="_blank">/decentralized-identity/did-common-typescript
 </a> - A common bundle of shared code and modules for working with DIDs, DID Documents, and other DID-related activities
@@ -134,17 +145,21 @@ Text and audio meeting minutes for W3C Credentials Community Group
 * <a href="https://github.com/decentralized-identity/did-common-java" target="_blank">/decentralized-identity/did-common-java</a> - Shared DID Java library.
 * <a href="https://github.com/decentralized-identity/ua-web-extension" target="_blank">/decentralized-identity/ua-web-extension</a> - Basic web extension version of a DID User Agent
 * <a href="https://github.com/decentralized-identity/did-recovery" target="_blank">/decentralized-identity/did-recovery</a> - Various methods for DID recovery
+* <a href="https://github.com/decentralized-identity/web-polyfills" target="_blank">/decentralized-identity/web-polyfills</a> - Polyfills for proposed or emerging DID-centric Web APIs
+* <a href="https://github.com/decentralized-identity/" target="_blank">/decentralized-identity/</a>
+* <a href="https://github.com/decentralized-identity/http-did-auth-proxy" target="_blank">/decentralized-identity/http-did-auth-proxy</a> - Forked from bcgov/http-did-auth-proxy
+DID Auth HTTP proxy.
 
-### DIF - DID-Auth
+### DIF - DID-Auth [**^**](#contents)
 * <a href="https://github.com/decentralized-identity/did-auth-jose" target="_blank">/decentralized-identity/did-auth-jose</a> - JOSE-based implementation of DID Authenticated Encryption
 
-### DIF - Sidetree
+### DIF - Sidetree [**^**](#contents)
 * <a href="https://github.com/decentralized-identity/sidetree-ipfs" target="_blank">/decentralized-identity/sidetree-ipfs</a> - IPFS module for storing and accessing Sidetree entity operation data via content addressable storage
 * <a href="https://github.com/decentralized-identity/sidetree-core" target="_blank">/decentralized-identity/sidetree-core</a> - The blockchain-agnostic server implementation of the Sidetree protocol.
 * <a href="https://github.com/decentralized-identity/sidetree-bitcoin" target="_blank">/decentralized-identity/sidetree-bitcoin</a> - Blockchain-specific code for the Sidetree-based DID Method implementation on Bitcoin
 * <a href="https://github.com/decentralized-identity/ion" target="_blank">/decentralized-identity/ion</a> - DID Method implementation using the Sidetree protocol on top of Bitcoin
 
-### DIF - Hub
+### DIF - Hub [**^**](#contents)
 * <a href="https://github.com/decentralized-identity/hub-sdk-js-sample" target="_blank">/decentralized-identity/hub-sdk-js-sample</a> - Sample app demonstrating use of the DIF Identity Hub JavaScript SDK.
 * <a href="https://github.com/decentralized-identity/hub-sdk-js" target="_blank">/decentralized-identity/hub-sdk-js</a> - JavaScript SDK for interacting with Identity Hubs
 * <a href="https://github.com/decentralized-identity/hub-common-js" target="_blank">/decentralized-identity/hub-common-js</a> - Common interfaces for working with Identity Hubs in JavaScript/TypeScript
@@ -152,34 +167,33 @@ Text and audio meeting minutes for W3C Credentials Community Group
 * <a href="https://github.com/decentralized-identity/identity-hub" target="_blank">/decentralized-identity/identity-hub</a> - Storage and compute nodes for decentralized identity data and interactions
 * <a href="https://github.com/decentralized-identity/hub-node-reference" target="_blank">/decentralized-identity/hub-node-reference</a> - The official Identity Hub reference implementation bundle for Node.js
 
-### DIF - Uniresolver
+### DIF - Uniresolver [**^**](#contents)
 
 * <a href="https://github.com/decentralized-identity/universal-resolver" target="_blank">/decentralized-identity/universal-resolver</a> - Universal Resolver implementation and drivers.
 * <a href="https://github.com/decentralized-identity/universal-resolver-frontend" target="_blank">/decentralized-identity/universal-resolver-frontend</a> - Frontend web UI for Universal Resolver
 * <a href="https://github.com/decentralized-identity/universal-resolver-python" target="_blank">/decentralized-identity/universal-resolver-python</a>
 * <a href="https://github.com/decentralized-identity/universal-resolver-java" target="_blank">/decentralized-identity/universal-resolver-java</a>
 
-### DIF - Other 
-* <a href="https://github.com/decentralized-identity/credential-manifest" target="_blank">/decentralized-identity/credential-manifest</a> - Format that normalizes the definition of requirements for the issuance of a credential
-* <a href="https://github.com/decentralized-identity/web-polyfills" target="_blank">/decentralized-identity/web-polyfills</a> - Polyfills for proposed or emerging DID-centric Web APIs
-* <a href="https://github.com/decentralized-identity/" target="_blank">/decentralized-identity/</a>
-* <a href="https://github.com/decentralized-identity/http-did-auth-proxy" target="_blank">/decentralized-identity/http-did-auth-proxy</a> - Forked from bcgov/http-did-auth-proxy
-DID Auth HTTP proxy.
-
-* <a href="https://github.com/decentralized-identity/universal-registrar" target="_blank">/decentralized-identity/universal-registrar</a> - Specifications and implementation of a universal identifier registrar
-* <a href="https://github.com/decentralized-identity/attestations" target="_blank">decentralized-identity/attestations</a> - Attestation API implementations for various languages and platforms.
 
 
 ## /hyperledger Indy [**^**](#contents)
-* [/hyperledger/indy-plenum](https://github.com/hyperledger/indy-plenum) - Byzantine Fault Tolerant Protocol [[**wiki**](https://github.com/hyperledger/indy-plenum/wiki)]
+* [/indy-plenum](https://github.com/hyperledger/indy-plenum) - Byzantine Fault Tolerant Protocol [[**wiki**](https://github.com/hyperledger/indy-plenum/wiki)]
     > "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem." 
     * [Storage components](https://github.com/hyperledger/indy-plenum/blob/master/docs/storage.md) - As of now, RocksDB is used as a key-value database for all Storages.
-* [/hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk) - Everything needed to build applications that interact with an Indy distributed identity ledger.
+* [/indy-sdk](https://github.com/hyperledger/indy-sdk) - Everything needed to build applications that interact with an Indy distributed identity ledger.
   * [MAINTAINERS.md](https://github.com/hyperledger/indy-sdk/blob/master/MAINTAINERS.md)
-* [/hyperledger/indy-node](https://github.com/hyperledger/indy-node) - The server portion of a distributed ledger purpose-built for decentralized identity.
-* [/hyperledger/indy-anoncreds](https://github.com/hyperledger/indy-anoncreds) - Anonymous credentials protocol implementation in python
+* [/indy-node](https://github.com/hyperledger/indy-node) - The server portion of a distributed ledger purpose-built for decentralized identity.
+* [/indy-anoncreds](https://github.com/hyperledger/indy-anoncreds) - Anonymous credentials protocol implementation in python
+* [/indy-agent](https://github.com/hyperledger/indy-agent) - reference agents and associated tools.
+* [/indy-test-automation](https://github.com/hyperledger/indy-test-automation) - Automation tools for testing of Indy Project components.
+* [/indy-post-install-automation](https://github.com/hyperledger/indy-post-install-automation)
+* [/indy-hipe](https://github.com/hyperledger/indy-hipe) - 
+Hyperledger Indy Project Enhancements
+  * https://indy.readthedocs.io/projects/hipe/en/latest/
+* [/indy-crypto](https://github.com/hyperledger/indy-crypto) - shared crypto library for Hyperledger Indy components. To be:
+* [/ursa](https://github.com/hyperledger/ursa) [[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)][[**ϟ**](https://www.coindesk.com/hyperledger-launches-cryptography-toolbox-for-blockchain-developers)] 
+  > "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the shared library will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram) [[**wiki**](https://wiki.hyperledger.org/projects/ursa)]
 
-**>>** **[MORE Indy Related Repositories](../hyperledger/indy-ecosystem/indy-github.md)** **>>**
 
 ## /bcgov [**^**](#contents)
 
