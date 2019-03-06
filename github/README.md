@@ -1,14 +1,27 @@
+---
+title: SSI-DID Github Repositories
+description: ... and you can too!
+---
+
 # GitHub Repositories 
-Where you can get started working with DID Today.
+**... and you can too!**
 
 ## Contents
 
 * [/WebOfTrustInfo](#weboftrustinfo---design-workshop)
 * [/w3c](#w3c---world-wide-web-consortium-)
-  * [Credentials Community Group](#ccg)
-* [/hyperledger Indy](#hyperledger-indy)
-* [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity)
-* [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio)
+  * [Verifiable Claims Working Group](#w3cverifiable-claims----vc-working-group-)
+  * [Credentials Community Group](#w3c-ccg---credentials-community-group-)
+    * [CCG](#ccg-)
+    * [DID](did-)
+    * [Verifiable Credentials](#ccg---verifiable-credentials-)
+    * [Linked Data](#ccg----linked-data-)
+  * [Digital Verification Community Group](#digital-verification-community-group-)
+  * [OpenCreds](#opencreds-)
+* [Decentralized Identity Foundation](#decentralized-identity---dif-)
+* [/hyperledger Indy](#hyperledger-indy-)
+* [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
+* [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
 * []
 
 ## /WebOfTrustInfo - Design Workshop
@@ -100,13 +113,13 @@ Linked Data Proofs Specification
 * <a href="https://sea-region.github.com/w3c-dvcg/lds-pseudonymous2016/" target="_blank">/w3c-dvcg/lds-pseudonymous2016/</a>
 * <a href="https://sea-region.github.com/w3c-dvcg/lds-rsa2016/" target="_blank">/w3c-dvcg/lds-rsa2016/</a>
 
-### /opencreds
+### /opencreds [**^**](#contents)
 
 * <a href="https://github.com/opencreds/website" target="_blank">/opencreds/website</a> - The Open Credentials Website
 * <a href="https://github.com/opencreds/minutes" target="_blank">/opencreds/minutes</a> - 
 Text and audio meeting minutes for W3C Credentials Community Group
 
-## /decentralized-identity - DIF
+## /decentralized-identity - DIF [**^**](#contents)
 
 * <a href="https://github.com/decentralized-identity/decentralized-identity.github.io" target="_blank">/decentralized-identity/decentralized-identity.github.io</a>  - Site for the open source, community-driven group of dev and organizations working toward an interoperable, decentralized identity ecosystem
 * <a href="https://github.com/decentralized-identity/org" target="_blank">/decentralized-identity/org</a> - DIF docs, wiki, and organizational material
@@ -156,7 +169,7 @@ DID Auth HTTP proxy.
 * <a href="https://github.com/decentralized-identity/attestations" target="_blank">decentralized-identity/attestations</a> - Attestation API implementations for various languages and platforms.
 
 
-## /hyperledger Indy
+## /hyperledger Indy [**^**](#contents)
 * [/hyperledger/indy-plenum](https://github.com/hyperledger/indy-plenum) - Byzantine Fault Tolerant Protocol [[**wiki**](https://github.com/hyperledger/indy-plenum/wiki)]
     > "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem." 
     * [Storage components](https://github.com/hyperledger/indy-plenum/blob/master/docs/storage.md) - As of now, RocksDB is used as a key-value database for all Storages.
@@ -167,12 +180,12 @@ DID Auth HTTP proxy.
 
 **>>** **[MORE Indy Related Repositories](../hyperledger/indy-ecosystem/indy-github.md)** **>>**
 
-## /bcgov
+## /bcgov [**^**](#contents)
 
 * <a href="https://github.com/bcgov/BC-Policy-Framework-For-GitHub" target="_blank">/bcgov/BC-Policy-Framework-For-GitHub</a> - Policy information for BC Government employees using GitHub
 * <a href="https://github.com/bcgov/design-system" target="_blank">/bcgov/design-system</a> - British Columbia Government Design System for Digital Services
 
-### BCGov - VON
+### BCGov - VON [**^**](#contents)
 * <a href="https://github.com/bcgov/TheOrgBook" target="_blank">/bcgov/TheOrgBook</a> - A public repository of verifiable claims about organizations. A key component of the Verifiable Organization Network.
 * <a href="https://github.com/bcgov/von" target="_blank">/bcgov/von</a> - Verifiable Organizations Network
 * <a href="https://github.com/bcgov/von-connector" target="_blank">/bcgov/von-connector</a> - Verifiable Organization Network Connector
@@ -180,7 +193,7 @@ DID Auth HTTP proxy.
 * <a href="https://github.com/bcgov/von-ledger-explorer" target="_blank">/bcgov/von-ledger-explorer</a> - The VON Ledger Explorer
 * <a href="https://github.com/bcgov/dFlow" target="_blank">/bcgov/dFlow</a> - A demonstration of the verifiable organization network showing a new restaurant gathering the permits necessary to open.
 
-### VON - Indy
+### VON - Indy [**^**](#contents)
 
 * <a href="https://github.com/bcgov/indy-catalyst" target="_blank">/bcgov/indy-catalyst</a> - Hyperledger Indy Catalyst is a set of application level software components designed to accelerate the adoption of trustworthy entity to entity communications.
 * <a href="https://github.com/bcgov/indy-sdk-postgres-storage" target="_blank">/bcgov/indy-sdk-postgres-storage</a> - PostgreSQL plug-in for use with the indy-sdk
@@ -194,7 +207,7 @@ DID Auth HTTP proxy.
 * <a href="https://github.com/bcgov/von_agent" target="_blank">/bcgov/von_agent</a> Forked from PSPC-SPAC-buyandsell/von_agent - VON agents using indy-sdk
 
 
-### BCGov - DID-Auth
+### BCGov - DID-Auth [**^**](#contents)
 * <a href="https://github.com/bcgov/did-auth-extension" target="_blank">/bcgov/did-auth-extension</a> - DID Auth browser extension.
 * <a href="https://github.com/bcgov/http-did-auth-proxy" target="_blank">/bcgov/http-did-auth-proxy</a> - DID Auth HTTP proxy.
 * <a href="https://github.com/bcgov/did-auth-relying-party" target="_blank">/bcgov/did-auth-relying-party</a> - DID Auth relying party.
@@ -202,7 +215,7 @@ DID Auth HTTP proxy.
 
 
 
-## /peacekeeper/blockchain-identity
+## /peacekeeper/blockchain-identity [**^**](#contents)
 
 >Projects/companies working on blockchain and identity
 
@@ -210,7 +223,7 @@ DID Auth HTTP proxy.
 
 Maintained by, [Markus Sabadello (Peacekeeper)](https://medium.com/@markus.sabadello)
 
-## /decentralized-id/decentralized-id.github.io
+## /decentralized-id/decentralized-id.github.io [**^**](#contents)
 You can join in on the research, and help build this educational resource.
 
 * [/decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io)
