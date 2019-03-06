@@ -11,7 +11,7 @@ Where you can get started working with DID Today.
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio)
 * []
 
-## /WebOfTrustInfo - Design Workshop
+## /WebOfTrustInfo - Design Workshop [**^**](#contents)
 
 >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
 
