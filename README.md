@@ -198,15 +198,17 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 
 2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
 
-## Directory [**^**](#contents)
+## Directory
 Other files and folders within this repository:
 
-* [/history.md](/history.md) - SSI\DID History
-* [/Self-Sovereign-Identity](/self-sovereign-identity)
+* [SSI\DID History](/history.md)
+* [Self-Sovereign-Identity](/self-sovereign-identity)
 * [Literature](/literature) - Research and Reports
-  * [/Rebooting-Web-of-Trust](/literature/Rebooting-Web-of-Trust) 
+  * [Rebooting-Web-of-Trust](/literature/Rebooting-Web-of-Trust) 
 * [Media](/asst-media) - Video, Podcasts and Slideshare
-* [/Hyperledger Indy, the Sovrin Foundation, and Evernym](/indy-sovrin-evernym/)
+* [The Sovrin Foundation](/sovrin-foundation)
+* [Indy Ecosystem](/hyperledger/indy-ecosystem)
+* [Hyperledger Global Forum](/hyperledger/hgf-2018)
 * [Decentralized Identity Foundation—DIF](/identity-foundation)
 * [Ethereum](/ethereum)
 * [State Sponsored](/state-sponsored)
