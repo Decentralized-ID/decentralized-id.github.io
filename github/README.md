@@ -1,14 +1,22 @@
 ---
 title: SSI-DID Github Repositories
-description: ... and you can too!
+description: A start at listing all DID-SSI related GitHub Repositories.
+image: "https://infominer.id/images/github.jpeg"
+twitter:
+  card: "summary_large_image"
 ---
 
 # SSI-DID Github Repositories
-**... and you can too!**
+
+Please send me [a message](../index.html#contact), open an issue or submit a pull-request with any that I've missed.
 
 ## Contents
 
 * [/WebOfTrustInfo](#weboftrustinfo---design-workshop)
+  * [RWoT Design Workshop](#rwot-design-workshop-)
+  * [RWoT BTCR](#rwot-btcr-)
+  * [RWoT Txref Conversion](#rwot-txref-conversion-)
+  * [RWoT Linked Data](#rwot-linked-data-)
 * [/w3c](#w3c---world-wide-web-consortium-)
   * [Verifiable Claims Working Group](#w3cverifiable-claims----vc-working-group)
   * [Credentials Community Group](#w3c-ccg---credentials-community-group-)
@@ -27,6 +35,8 @@ description: ... and you can too!
   * [DB - Credentials](#db---credentials-)
   * [DB - DID](#db---did-)
   * [DB - Linked Data](#db---linked-data-)
+* [Sovrin Foundation](#sovrin-foundation-)
+  * [Sovrin - Indy](#sovrin-indy-)
 * [Decentralized Identity Foundation](#decentralized-identity---dif-)
   * [DIF - DID](#dif---did-)
   * [DIF - DID-Auth](#dif---did-auth-)
@@ -42,6 +52,7 @@ description: ... and you can too!
   * [PSPC-SPAC-buyandsell](#pspc-spac-buyandsell-) - Public Services and Procurement Canada
 * [Veres One](#veres-one-)
 * [Ethereum](#ethereum-)
+  * [Assorted Ethereum Apps](#assorted-ethereum-apps)
 * [uPort](#uport-)
   * [uPort DID](#uport-did-)
   * [uPort Identification](#uport-identification-)
@@ -58,9 +69,10 @@ description: ... and you can too!
 * [Ockam Network](#ockam-network-)
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
+* [HOME](https://infominer.id)
 
 
-## /WebOfTrustInfo - Design Workshop
+## /WebOfTrustInfo
 
 >The Web of Trust is a buzzword for a new model of decentralized self-sovereign identity. It’s a phrase that dates back almost twenty-five years, the classic definition derives from PGP.
 
@@ -73,8 +85,53 @@ In advance of each workshop, all participants produce a one-or-two page topic pa
 
 The workshop itself also produces technical whitepapers, this Repository holds a record of the progression of thought in SSI, since November, 2015.
 
-* <a href="https://github.com/WebOfTrustInfo/" target="_blank">https://github.com/WebOfTrustInfo/</a>
-* <a href="literature/Rebooting-Web-of-Trust.md">One Page List of RWoT Literature</a>
+* <a href="literature/Rebooting-Web-of-Trust.md">One Page List of RWoT Literature</a> (not complete)
+* <a href="https://github.com/WebOfTrustInfo/self-sovereign-identity" target="_blank">/WebOfTrustInfo/self-sovereign-identity</a> - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
+* <a href="https://github.com/WebOfTrustInfo/website" target="_blank">/WebOfTrustInfo/website</a> - Website for http://www.WebOfTrust.info
+* <a href="https://github.com/WebOfTrustInfo/community-resilience" target="_blank">/WebOfTrustInfo/community-resilience</a> - Rebooting Web of Trust Community Resilience Team
+* <a href="https://github.com/WebOfTrustInfo/satyrn" target="_blank">/WebOfTrustInfo/satyrn</a> - A Markdown-based JavaScript Sandbox
+* <a href="https://github.com/WebOfTrustInfo/sss" target="_blank">/WebOfTrustInfo/sss</a> - Library for the Shamir secret sharing scheme
+  - Forked from dsprenkels/sss
+* <a href="https://github.com/WebOfTrustInfo/verifiable-news" target="_blank">/WebOfTrustInfo/verifiable-news</a> - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
+* <a href="https://github.com/WebOfTrustInfo/portable-reputation-toolkit" target="_blank">/WebOfTrustInfo/portable-reputation-toolkit</a>
+
+
+### RWoT Design Workshop [**^**](#contents)
+
+* [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
+  >Our goal for this initial #RebootingWebOfTrust design workshop is to:
+  >
+  > * Focus on the creation of the next generation of decentralized web-of-trust based identity systems.
+  > * To generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future"
+  >
+  > To this end, I thought it would be useful to define what is a white paper, and as some people desire to go beyond this, what is a specification and proof of concept code.
+* <a href="https://github.com/WebOfTrustInfo/rwot1-sf" target="_blank">/WebOfTrustInfo/rwot1-sf</a> - RWOT1 in San Francisco, California (November 2015)
+* <a href="https://github.com/WebOfTrustInfo/rwot2-id2020" target="_blank">/WebOfTrustInfo/rwot2-id2020</a> - RWOT2 for the ID2020 UN Summit (May 2016)
+* <a href="https://github.com/WebOfTrustInfo/rwot3-sf" target="_blank">/WebOfTrustInfo/rwot3-sf</a> - RWOT3 in San Francisco, California (October 2016)
+* <a href="https://github.com/WebOfTrustInfo/rwot4-paris" target="_blank">/WebOfTrustInfo/rwot4-paris</a> - RWOT4 in Paris, France (April 2017)
+* <a href="https://github.com/WebOfTrustInfo/rwot5-boston" target="_blank">/WebOfTrustInfo/rwot5-boston</a> - RWOT5 in Boston, Massachusetts (October 2017)
+* <a href="https://github.com/WebOfTrustInfo/rwot6-santabarbara" target="_blank">/WebOfTrustInfo/rwot6-santabarbara</a> - RWOT6 in Santa Barbara, California (March 2018)
+* <a href="https://github.com/WebOfTrustInfo/rwot7-toronto" target="_blank">/WebOfTrustInfo/rwot7-toronto</a> - RWOT7 in Toronto, Canada (September 2018)
+* <a href="https://github.com/WebOfTrustInfo/rwot8-barcelona" target="_blank">/WebOfTrustInfo/rwot8-barcelona</a> - RWOT8 in Barcelona, Spain (March 2019)
+
+### RWot BTCR [**^**](#contents)
+
+* <a href="https://github.com/WebOfTrustInfo/btcr-tx-playground.github.io" target="_blank">/WebOfTrustInfo/btcr-tx-playground.github.io</a>
+* <a href="https://github.com/WebOfTrustInfo/btcr-did-tools-js" target="_blank">/WebOfTrustInfo/btcr-did-tools-js</a>
+* <a href="https://github.com/WebOfTrustInfo/btcr-hackathon" target="_blank">/WebOfTrustInfo/btcr-hackathon</a> - Virtual hackathon to create spec and code for Bitcoin-based Decentralized Identifiers (DIDs)
+
+### RWoT Txref Conversion
+
+* <a href="https://github.com/WebOfTrustInfo/txref-conversion-java" target="_blank">/WebOfTrustInfo/txref-conversion-java</a> - Java library for converting txids to txrefs and back
+* <a href="https://github.com/WebOfTrustInfo/txref-conversion-js" target="_blank">/WebOfTrustInfo/txref-conversion-js</a> - Javascript library for converting txids to txrefs and back
+* <a href="https://github.com/WebOfTrustInfo/txref-conversion-python" target="_blank">/WebOfTrustInfo/txref-conversion-python</a> - Python library to handle conversion between TxRef(bech32) <-> TxID
+
+### RWoT Linked Data [**^**](#contents)
+
+* <a href="https://github.com/WebOfTrustInfo/" target="_blank">/WebOfTrustInfo/schemas</a> - Draft schemas for JSON-LD etc.
+* <a href="https://github.com/WebOfTrustInfo/ld-signatures-java" target="_blank">/WebOfTrustInfo/ld-signatures-java</a> - Java implementation of Linked Data Signatures
+* <a href="https://github.com/WebOfTrustInfo/ld-signatures-python" target="_blank">/WebOfTrustInfo/ld-signatures-python</a> - JSON-LD Signatures with JSON Web Signatures
+
 
 ## /w3c - World Wide Web Consortium [**^**](#contents)
 
@@ -275,6 +332,29 @@ JSON for Linked Data
 * <a href="https://github.com/digitalbazaar/flex-ledger" target="_blank">/digitalbazaar/flex-ledger</a> - Forked from web-payments/flex-ledger
 A decentralized Linked Data Ledger for the Web
 
+## Sovrin Foundation [**^**](#contents)
+
+* <a href="https://github.com/sovrin-foundation/sovrin.org" target="_blank">/sovrin-foundation/sovrin.org</a> - the foundation web site
+* <a href="https://github.com/sovrin-foundation/sovrin" target="_blank">/sovrin-foundation/sovrin</a>
+* <a href="https://github.com/sovrin-foundation/sovrin-sip" target="_blank">/sovrin-foundation/sovrin-sip</a> - controlled techical docs/standards for Sovrin Foundation
+* <a href="https://github.com/sovrin-foundation/sov-docs-conf" target="_blank">/sovrin-foundation/sov-docs-conf</a> - A repository containing the code that builds the Sovrin documentation website's shared repository sidebar
+* <a href="https://github.com/sovrin-foundation/ssi-protocol" target="_blank">/sovrin-foundation/ssi-protocol</a> - Document the interactions and conventions that make self-sovereign identity interoperable.
+* <a href="https://github.com/sovrin-foundation/protocol" target="_blank">/sovrin-foundation/protocol</a> 
+* <a href="https://github.com/sovrin-foundation/steward-tools" target="_blank">/sovrin-foundation/steward-tools</a> - tools for Sovrin steward
+* <a href="https://github.com/sovrin-foundation/token-plugin" target="_blank">/sovrin-foundation/token-plugin</a> - source code and tests for Sovrin Ledger plugins
+* <a href="https://github.com/sovrin-foundation/sovrin-test-automation" target="_blank">/sovrin-foundation/sovrin-test-automation</a> - quality assurance automation for Sovrin repos.
+* <a href="https://github.com/sovrin-foundation/agent-sdk" target="_blank">/sovrin-foundation/agent-sdk</a> - Reference Agent
+* <a href="https://github.com/sovrin-foundation/sovrin-connector-preview" target="_blank">/sovrin-foundation/sovrin-connector-preview</a> - Forked from evernym/sovrin-connector-preview
+* <a href="https://github.com/sovrin-foundation/pipeline-test" target="_blank">/sovrin-foundation/pipeline-test</a> - Test integrations, hooks and build pipelines.
+
+
+### Sovrin - Indy [**^**](#contents)
+* <a href="https://github.com/sovrin-foundation/indy-dev" target="_blank">/sovrin-foundation/indy-dev</a> - Forked from michaeldboyd/indy-dev</a> - This is a quick way to setup a development environment to experiment with IndySDK
+* <a href="https://github.com/sovrin-foundation/libsovtoken" target="_blank">/sovrin-foundation/libsovtoken</a> - This is a payment handler library to work with libindy. It may one day be merged into libindy.
+* <a href="https://github.com/sovrin-foundation/sovrin-indy-android-dependencies" target="_blank">/sovrin-foundation/sovrin-indy-android-dependencies</a> - indy-android-dependencies
+* <a href="https://github.com/sovrin-foundation/connector-app" target="_blank">/sovrin-foundation/connector-app</a> - Reference mobile edge agent for use with the Sovrin Network built from Hyperledger Indy.
+* <a href="https://github.com/sovrin-foundation/indy-android-dependencies" target="_blank">/sovrin-foundation/indy-android-dependencies</a> - Dependencies required to build indy-sdk
+
 
 ## /decentralized-identity - DIF [**^**](#contents)
 
@@ -416,6 +496,10 @@ Hyperledger Indy Project Enhancements
 * [EIP-1078](https://github.com/ethereum/EIPs/blob/ed621645c8f3bc5756492f327cda015f35d9f8da/EIPS/eip-1078.md) - 
 This presents a method to replace the usual signup/login design pattern with a minimal ethereum native scheme, that doesn’t require passwords, backing up private keys nor typing seed phrases. 
 
+### Assorted Ethereum Apps [**^**](#contents)
+
+<a href="https://github.com/XLNT/meirl" target="_blank">/XLNT/meirl> - Counterfactual and Upgradable Self-Sovereign Identity for Ethereum, using Gnosis Safe
+
 ## uPort [**^**](#contents)
 
 * <a href="https://github.com/uport-project/developers" target="_blank">/uport-project/developers</a> - Developer portal for documentation and application management
@@ -432,7 +516,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/uport-project/community-projects" target="_blank">/uport-project/community-projects</a> - A list of community hackathon projects and other experiments.
 * <a href="https://github.com/uport-project/udoor" target="_blank">/uport-project/udoor</a> - uPort Door Management
 * <a href="https://github.com/uport-project/uport-bounties" target="_blank">/uport-project/uport-bounties</a>- A Library of uPort Bounties
-
+* <a href="https://github.com/dconroy/CityKey" target="_blank">/dconroy/CityKey</a> - Adding uPort support to Chicago CityKey, adding all the benefits of Self Sovereign Identity to municipal services. http://citykeychained.com
 
 ### uPort DID [**^**](#contents)
 
@@ -580,16 +664,11 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/SelfKeyFoundation/react-jsonschema-form" target="_blank">react-jsonschema-form</a> - Forked from rodrigopavezi/react-jsonschema-form
 A React component for building Web forms from JSON Schema.
 
-
-
-
 ## Ockam Network [**^**](#contents)
 
 * <a href="https://github.com/ockam-network/ockam" target="_blank">/ockam-network/ockam</a> - Tools for building identity, trust and interoperability into connected devices.
 * <a href="https://github.com/ockam-network/did" target="_blank">/ockam-network/did</a> - A golang package to work with Decentralized Identifiers (DIDs)
 * <a href="https://github.com/ockam-network/did-method-spec" target="_blank">/ockam-network/did-method-spec</a> - Ockam DID Method Specification
-
-
 
 ## /peacekeeper/blockchain-identity [**^**](#contents)
 
@@ -604,3 +683,6 @@ You can join in on the research, and help build this educational resource.
 
 * [/decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io)
 
+---
+
+## [infominer.id](https://infominer.id) 
