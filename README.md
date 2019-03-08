@@ -167,6 +167,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 ### Learning Machine [**^**](#contents) 
 
 [Learning Machine](https://www.learningmachine.com/)
+* [Academic Credentialing and the Blockchain](https://www.learningmachine.com/academic-credentialing-blockchain/)
 
 #### Blockcerts [**^**](#contents) 
 
@@ -247,22 +248,21 @@ Other files and folders within this repository:
 * [Literature](/literature) - Research and Reports
   * [Rebooting-Web-of-Trust](/literature/Rebooting-Web-of-Trust) 
 * [Media](/asst-media) - Video, Podcasts and Slideshare
-* [Hyperledger Foundation](hyperledger)
-  * [Hyperledger Global Forum - 2018](hyperledger/hgf-2018)
-  * [Indy Ecosystem](hyperledger/indy-ecosystem)
-    * [Indy Github Repositories](hyperledger/indy-github.md)
-    * [Literature](hyperledger/literature.md)
-    * [Adoption](hyperledger/adoption.md)
-    * [Sovrin Foundation](hyperledger/sovrin.foundation.md)
-    * [VON](hyperledger/VON.md)
-* [Hyperledger Global Forum](/hyperledger/hgf-2018)
-* [Decentralized Identity Foundation—DIF](/identity-foundation)
-* [Ethereum](/ethereum)
-* [State Sponsored](/state-sponsored)
-* [IBM](/ibm)
-* [Microsoft](/microsoft)
-* [Humanitarian](/humanitarian)
-* [GDPR](/gdpr)
+* [Hyperledger Global Forum - 2018](hyperledger/hgf-2018)
+* [Indy Ecosystem](hyperledger/indy-ecosystem)
+    * [Indy Github Repositories](indy-ecosystem/indy-github.md)
+    * [Literature](indy-ecosystem/literature.md)
+    * [Adoption](indy-ecosystem/adoption.md)
+    * [Sovrin Foundation](indy-ecosystem/sovrin.foundation.md)
+    * [VON](indy-ecosystem/VON.md)
+* [Hyperledger Global Forum](hyperledger/hgf-2018)
+* [Decentralized Identity Foundation—DIF](identity-foundation)
+* [Ethereum](ethereum)
+* [State Sponsored](state-sponsored)
+* [IBM](ibm)
+* [Microsoft](microsoft)
+* [Humanitarian](humanitarian)
+* [GDPR](gdpr)
 
 ## Sources [**^**](#contents)
 * [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**ϟ**](https://www.slideshare.net/SSIMeetup/presentations/)] 
