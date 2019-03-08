@@ -2,13 +2,11 @@
 title: SSI-DID Github Repositories
 description: A start at listing all DID-SSI related GitHub Repositories.
 image: "https://infominer.id/images/github.jpeg"
-twitter:
-  card: "summary_large_image"
 ---
 
 # SSI-DID Github Repositories
 
-Please send me [a message](../index.html#contact), open an issue or submit a pull-request with any that I've missed.
+Please send [a message](../index.html#contact), open an issue or submit a pull-request with any suggestions\recommendations.
 
 ## Contents
 
@@ -44,6 +42,7 @@ Please send me [a message](../index.html#contact), open an issue or submit a pul
   * [DIF - Hub](#dif---hub-)
   * [DIF - Uniresolver](#dif---uniresolver-)
 * [/hyperledger Indy](#hyperledger-indy-)
+  * [/IBM-BLockchain-Identity](#ibm-blockchain-identity-)
 * [Verifiable Organizations Network](#verifiable-organizations-network-)
   * [BCGov - VON](#bcgov---von-)
     * [VON - Indy](#von---indy-)
@@ -67,6 +66,8 @@ Please send me [a message](../index.html#contact), open an issue or submit a pul
   * [Selfkey Javascript](#selfkey-javascript-)
   * [Selfkey Assorted](#selfkey-assorted)
 * [Ockam Network](#ockam-network-)
+* [Ontology](#ontology-)
+* [Assorted](#assorted-)
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
 * [HOME](https://infominer.id)
@@ -422,6 +423,13 @@ Hyperledger Indy Project Enhancements
 * [/ursa](https://github.com/hyperledger/ursa) [[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)][[**ϟ**](https://www.coindesk.com/hyperledger-launches-cryptography-toolbox-for-blockchain-developers)] 
   > "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the shared library will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram) [[**wiki**](https://wiki.hyperledger.org/projects/ursa)]
 
+### /IBM-Blockchain-Identity [**^**](#contents)
+
+<a href="https://github.com/IBM-Blockchain-Identity/indy-tutorial-sandbox" target="_blank">/IBM-Blockchain-Identity/indy-tutorial-sandbox</a> - Forked from brycecurtis/indy-tutorial-sandbox
+A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyperledger Indy concepts.
+
+<a href="https://github.com/IBM-Blockchain-Identity/indy-ssivc-tutorial" target="_blank">/IBM-Blockchain-Identityindy-ssivc-tutorial</a> - A turnkey, Docker-based tutorial for help developers get acquainted with Self-Sovereign Identity and Verifiable Credentials.
+ 
 
 ## Verifiable Organizations Network [**^**](#contents)
 
@@ -664,11 +672,41 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/SelfKeyFoundation/react-jsonschema-form" target="_blank">react-jsonschema-form</a> - Forked from rodrigopavezi/react-jsonschema-form
 A React component for building Web forms from JSON Schema.
 
+
 ## Ockam Network [**^**](#contents)
 
 * <a href="https://github.com/ockam-network/ockam" target="_blank">/ockam-network/ockam</a> - Tools for building identity, trust and interoperability into connected devices.
 * <a href="https://github.com/ockam-network/did" target="_blank">/ockam-network/did</a> - A golang package to work with Decentralized Identifiers (DIDs)
 * <a href="https://github.com/ockam-network/did-method-spec" target="_blank">/ockam-network/did-method-spec</a> - Ockam DID Method Specification
+
+## Ontology [**^**](#contents)
+
+* <a href="https://github.com/ontio/ontology" target="_blank">/ontio/ontology</a> - Official Go implementation of the Ontology protocol. https://dev-docs.ont.io/#/
+* <a href="https://github.com/ontio/documentation" target="_blank">/ontio/documentation</a> - Ontology Documents https://ont.io
+* <a href="https://github.com/ontio/ontology-DID" target="_blank">/ontio/ontology-DID</a> - Ontology decentralized identification protocol based on W3C DID specifications.
+* <a href="https://github.com/ontio/ontology-crypto" target="_blank">/ontio/ontology-crypto</a> 
+* <a href="https://github.com/ontio/OWallet" target="_blank">/ontio/OWallet</a> - a comprehensive Ontology desktop wallet
+* <a href="https://github.com/ontio/ontology-dapi" target="_blank">/ontio/ontology-dapi</a> - A lightweight Javascript library for interacting with Ontology node and Ontology wallets
+* <a href="https://github.com/ontio/ontology-ddxf" target="_blank">/ontio/ontology-ddxf</a> - Distributed data eXchange Framework,which allows to build data marketplaces . 
+
+## TangleID [**^**](#contents)
+
+* <a href="https://github.com/TangleID/TangleID/" target="_blank">/TangleID/TangleID/</a> - Secure self-sovereign identity built on IOTA/Tangle
+identity
+* <a href="https://github.com/TangleID/api-examples/" target="_blank">/TangleID/api-examples/</a> - API examples for TangleID
+* <a href="https://github.com/TangleID/TangleID.github.io/" target="_blank">/TangleID/TangleID.github.io/</a> - TangleID Landing Page
+* <a href="https://github.com/TangleID/tangleid-client/" target="_blank">/TangleID/tangleid-client/</a> - TangleID Client/Mobile application
+* <a href="https://github.com/TangleID/demo-site/" target="_blank">/TangleID/demo-site/</a> - A sample web illustrating how to issue claims to the participants with TangleID
+* <a href="https://github.com/TangleID/docs" target="_blank">/TangleID/docs</a> - TangleID API Documentation
+  - Forked from lord/slate
+* <a href="https://github.com/TangleID/sample-issuer/" target="_blank">/TangleID/sample-issuer/</a> - TangleID Sample Issuer
+
+
+
+## Assorted
+
+<a href="https://github.com/bnelson777/id.ly" target="_blank">/bnelson777/id.ly</a> - Cross-platform self-sovereign identity business card and messaging app
+
 
 ## /peacekeeper/blockchain-identity [**^**](#contents)
 
