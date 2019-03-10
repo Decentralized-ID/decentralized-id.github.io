@@ -10,28 +10,17 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 
 * [Selected RWoT Whitepapers](#selected-rebooting-web-of-trust-whitepapers-)
   * [Use Cases](#rwot-use-cases-) 
-* [Rebooting the Web of Trust I](#rebooting-the-web-of-trust-i)
-  * [Completed Papers](#completed-papers-i)
-  * [Topics and Advanced Readings](##topics--advance-readings-i-)
-* [Rebooting the Web of Trust II - ID2020](#rebooting-the-web-of-trust-ii---id2020-)
-  * [Completed Papers](#completed-papers-ii-)
-  * [Topics and Advanced Readings](##topics--advance-readings-ii-)
-* [Rebooting the Web of Trust III](#rebooting-the-web-of-trust-iii-)
-  * [Completed Papers](#completed-papers-iii-)
-  * [Topics and Advanced Readings](##topics--advance-readings-iii-)
-* [Rebooting the Web of Trust IV](#rebooting-the-web-of-trust-iv-)
-  * [Completed Papers](#completed-papers-iv-)
-  * [Topics and Advanced Readings](##topics--advance-readings-iv-)
-* [Rebooting the Web of Trust V](#rebooting-the-web-of-trust-v-)
-  * [Completed Papers](#completed-papers-v-)
-  * [Topics and Advanced Readings](##topics--advance-readings-v-)
-* [Rebooting the Web of Trust VI](#rebooting-the-web-of-trust-vi-)
-  * [Completed Papers](#completed-papers-vi-)
-  * [Topics and Advanced Readings](##topics--advance-readings-vi-)
-* [Rebooting the Web of Trust VII](#rebooting-the-web-of-trust-vii-)
-  * [Completed Papers](#completed-papers-vii-)
-  * [Topics and Advanced Readings](##topics--advance-readings-vii-)
-* [Rebooting the Web of Trust VIII](#rebooting-the-web-of-trust-viii-)
+* [Completed Papers](#completed-papers-)
+  * [Rebooting the Web of Trust I](#rebooting-the-web-of-trust-i)
+  * [Rebooting the Web of Trust II - ID2020](#rebooting-the-web-of-trust-ii---id2020-)
+  * [Rebooting the Web of Trust III](#rebooting-the-web-of-trust-iii-)
+  * [Rebooting the Web of Trust IV](#rebooting-the-web-of-trust-iv-)
+  * [Rebooting the Web of Trust V](#rebooting-the-web-of-trust-v-)
+  * [Rebooting the Web of Trust VI](#rebooting-the-web-of-trust-vi-)
+  * [Rebooting the Web of Trust VII](#rebooting-the-web-of-trust-vii-)
+* [Topics and Advance Readings](#topics-and-advance-readings-)
+  * [RWoT 1](#rwot-1-)
+  * [RWoT 2](#rwot-2-)
   * [Completed Papers](#completed-papers-viii-)
   * [Topics and Advanced Readings](##topics--advance-readings-viii-)
 
@@ -66,15 +55,11 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 
 
 
-## Rebooting the Web of Trust I
+## Completed Papers [**^**](#contents)
 
-* [/WebOfTrustInfo/rwot1-sf/](https://github.com/WebOfTrustInfo/rwot1-sf/)
+### Rebooting the Web of Trust I [**^**](#contents)
 
 The first Rebooting the Web of Trust design workshop, held in San Francisco, CA - November 3rd & 4th, 2015.
-
-Its goal was to generate five technical white papers\proposals on topics that would have the greatest impact on the future.
-
-### Completed Papers I
 
 * **[Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/final-documents/rebranding-web-of-trust.pdf)** 
   * A history of the Web of Trust and a look at what the term could mean for the future.
@@ -92,16 +77,151 @@ Its goal was to generate five technical white papers\proposals on topics that wo
 * **[Creating the New World of Trust](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/final-documents/whats-the-next-step.pdf)** 
   * A summary of the next step for the Rebooting the Web of Trust group.
     * Shannon Appelcline
-    
 
-###  Topics & Advance Readings I [**^**](#contents)
+### Rebooting the Web of Trust II - ID2020 [**^**](#contents)
 
-In advance of the design workshop, all participants produced a one-or-two page topic paper to be shared with the other attendees on either:
+The second Rebooting the Web of Trust design workshop, in San Francisco, CA, on May 21st & 22nd, 2016. It was run in conjunction with the UN ID2020 Summit on Identity, which occurred at the UN in New York on May 20th, 2016. 
+
+* [**Identity Crisis: Clearer Identity Through Correlation**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/identity-crisis.pdf) 
+  * A new way to look at identity, as correlation over time.
+    * Joe Andrieu, Kevin Gannon, Igor Kruiper, Ajit Tripathi, and Gary Zimmerman
+* [**Powering the Physician-Patient Relationship with HIE of One Blockchain Health IT**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/physician-patient-relationship.pdf) 
+  * Using Blockchains and DIDs for physician-patient interactions.
+    * Adrian Gropper, MD
+* [**Protecting Digital Identities in Developing Countries**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)
+  * A real-world use case, describing issues of identity in the developing world.
+    * Wayne Hennessy-Barrett
+* [**Requirements for DIDs (Decentralized Identifiers)**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/requirements-for-dids.pdf) 
+  * The first of a series of papers abou tproducing a concrete DID system.
+    * Drummond Reed and Les Chasen
+* [**Smarter Signatures: Experiments in Verifications**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/smarter-signatures.pdf) 
+  * A look at uses and requirements of next-generation smart signature systems.
+    * Christopher Allen and Shannon Appelcline
+  
+### Rebooting the Web of Trust III [**^**](#contents)
+
+The design workshop exceeded its mandate by producing seven papers:
+
+* [**DID (Decentralized Identifier) Data Model and Generic Syntax 1.0 Implementer’s Draft 01**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/did-implementer-draft-10.pdf)
+  - The complete draft of the Decentralized IDentifier (DID) model and syntac, a project that has run through the RWOT workshops to date.
+    - Drummond Reed, Les Chasen, Christopher Allen, and Ryan Grant
+* [**Digital Verification Advancements at RWoT III**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/digital-verification-advancements.pdf)
+  - A short overview of enhancements to Digital Verification that came out of RWOT III.
+    - Manu Sporny with Christopher Allen, Harlan Wood, and Jason Law
+* [**Embedding Human Wisdom in Our Digital Tomorrow**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/WisdomEmbedding-Human-Wisdom-in-Our-Digital-Tomorrow.pdf)
+  - A discussion of the dangers of transferring wisdom into the digital world, seen through the lenses of vulnerability, shadows, healing, tensions, complexity and gestalt, and organizational choices.
+    - Daniel Hardman, Kaliya “Identity Woman” Young, and Matthew Schutte
+* [**Hubs**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/hubs.pdf)
+  - An overview of the hubs datastore system.
+    - Daniel Buchner, Wayne Vaughan, and Ryan Shea
+* [**Joram 1.0.0**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/joram-engagement-model.pdf)
+  - An Information Lifecycle Engagement Model that offers a use case for a Syrian refugee.
+    - Joe Andrieu and Bob Clint
+* [**Portable Reputation Toolkit Use Cases**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/reputation-toolkit.pdf)
+  - A model and proof-of-concept implementation for decentralized verification.
+    - Christopher Allen, Tim Daubenschütz, Manu Sporny, Noah Thorp, Harlan Wood, Glenn Willen, and Alessandro Voto
+* [**Smart Consent Protocol**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/smart-consent-protocol.pdf)
+  - Bringing together COALA IP and Consent to deal with digital intellectual property.
+    - Dr. Shaun Conway, Lohan Spies, Jonathan Endersby, and Tim Daubenschütz
+
+### Rebooting the Web of Trust IV [**^**](#contents)
+
+The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on April 19th-21st, 2017.
+
+
+* [*Design Considerations for Decentralized Reputation Systems*](https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/reputation-design.md)
+  - Angus Champion de Crespigny, Dmitry Khovratovich, Florent Blondeau, Klara Sok, Philippe Honigman, Nikolaos Alexopoulos, Fabien Petitcolas, and Shaun Conway
+* [*LD Signature Format Alignment*](https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/ld-signatures.md) - Bringing JSON-LD signatures into alignment with JOSE JSON Web Signature (JWS) standards.
+  - Kim Hamilton Duffy, Rodolphe Marques, Markus Sabadello, and Manu Sporny
+* [*Re-Imagining What Users Really Want*](https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/what-users-really-want.md) - Five people, five opportunities for self-sovereign identity.
+   - Joe Andrieu, Frederic Engel, Adam Lake, Moses Ma, Olivier Maas, and Mark van der Waal.
+
+
+
+### Rebooting the Web of Trust V [**^**](#contents)
+
+
+* [**ActivityPub: From Decentralized to Distributed Social Networks**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/activitypub-decentralized-distributed.md)
+  - Christopher Lemmer Webber & Manu Sporny
+  -  An overview of the W3C ActivityPub protocol.
+* [**Amira 1.0.0**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md) 
+  - Joe Andrieu & Team
+  - This paper [...] presents a human-centric illustration of an individual’s experience in a self-sovereign, decentralized realization of the Web of Trust as originally conceived by Phil Zimmerman for PGP.
+* [**The DCS Theorem**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/dcs-theorem/The-DCS-Theorem.pdf) 
+  - Greg Slepak & Anya Petrova
+  - A probability proof of the DCS Triangle. Why can't decentralized consensus systems have all three of decentralization, consensus, and scale? Plus, two methods for getting around these limitations.
+* [**A Decentralized Approach to Blockcerts Credential Revocation**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md) 
+  - João Santos & Kim Hamilton Duffy
+  - Blockcerts are blockchain-anchored credentials with a verification process designed to be decentralized and trustless. This proposal describes an alternate method of issuing Blockcerts using Ethereum, which allows for a new form of revocation by either the issuer or the recipient.
+* [**Engineering Privacy for Verified Credentials: In Which We Describe Data Minimization, Selective Disclosure, and Progressive Trust**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/data-minimization-sd.md)
+  - Lionel Wolberger, Brent Zundel, Zachary Larson, Irene Hernandez & Katryna Dow
+  - we have identified three related but distinct privacy enhancing strategies: "data minimization," "selective disclosure," and "progressive trust." These enhancements are enabled with cryptography. The goal of this paper is to enable decision makers, particularly non-technical ones, to gain a nuanced grasp of these enhancements along with some idea of how their enablers work.
+* [**Identity Hubs Capabilities Perspective**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) 
+    - by Adrian Gropper, Drummond Reed & Mark S. Miller  
+  > Identity Hubs as currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID) based user-controlled agent, based on ACLs rather than an object-capabilities (ocap) architecture. Transitioning the Hubs design to an ocap model can be achieved by introducing an UMA authorization server as the control endpoint.
+* [**Linked Data Capabilities**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/lds-ocap.md)
+  - Christopher Lemmer Webber & Mark S. Miller
+    > Linked Data Signatures enable a method of asserting the integrity of linked data documents that are passed throughout the web. The object capability model is a powerful system for ensuring the security of computing systems. 
+* [**Veres One DID Method**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/did-method-veres-one.md)
+  - Manu Sporny & Dave Longley
+    > The Veres One Ledger is a permissionless public ledger designed specifically for the creation and management of decentralized identifiers (DIDs). This specification defines how a developer may create and update DIDs in the Veres One Ledger.
+* [**When GDPR becomes real, and Blockchain is no longer Fairy Dust**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
+  - Marta Piekarska, Michael Lodder, Zachary Larson & Kaliya Young (Identity Woman)
+    > This document describes the GDPR requirements and the different approaches to digital identity solutions and finally explains why distributed ledger technology may offer an opportunity for enterprises to simplify data management solutions that are GDPR compliant.
+
+### Rebooting the Web of Trust VI [**^**](#contents)
+
+The sixth Rebooting the Web of Trust design workshop ran in Santa Barbara, California, on March 6th to 8th, 2018. 
+
+* [**BTCR DID Resolver Specification**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/btcr-resolver.md)
+  - Kim Hamilton Duffy, Christopher Allen, Ryan Grant, and Dan Pape
+> This describes the process of resolving a BTCR DID into a DID Document. The draft reference implementation is available at https://github.com/WebOfTrustInfo/btcr-did-tools-js (see didFormatter.js). Note that not all steps described in this document are implemented yet.
+* [**Decentralized Autonomic Data (DAD) and the three R's of Key Management**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/DecentralizedAutonomicData.md)
+  - by Samuel M. Smith Ph.D. with Vishal Gupta
+> This paper proposes a new class of data called decentralized autonomic data (DAD). The term decentralized means that the governance of the data may not reside with a single party. A related concept is that the trust in the data provenance is diffuse in nature. Central to the approach is leveraging the emerging DID (decentralized identifier) standard. The term autonomic means self-managing or self-regulating. In the context of data, we crystalize the meaning of self-managing to include cryptographic techniques for maintaining data provenance that make the data self-identifying, self-certifying, and self-securing. Implied thereby is the use of cryptographic keys and signatures to provide a root of trust for data integrity and to maintain that trust over transformation of that data, e.g. provenance. Thus key management must be a first order property of DADs. This includes key reproduction, rotation, and recovery. The pre-rotation and hybrid recovery methods presented herein are somewhat novel.
+
+* [**Decentralized Identifiers v1.0**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-spec-1.0.md)
+  - A Status Note
+
+> The Decentralized Identifiers specification editors and implementers spent some time at Rebooting the Web of Trust 6 processing the remaining issues in the issue tracker. This document summarizes the proposed resolutions that the group has put forward to resolve all of the DID specification issues that were submitted before 2018-03-05.
+
+* [*Exploring Sustainable Technology Commons using Appreciative Inquiry*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/sustainable-commons.md)
+  - by Heather Vescent, Kaliya “Identity Woman” Young, Adrian Gropper, and Juan Caballero
+
+> Technology commons come in a variety of flavors and have achieved varying levels of financial success. For-profit corporate activities have in few historical cases been set up with a financial feedback mechanism to support the commons upon which they depend and capitalize. Why do the commons and the technology sectors’ available forms of capitalism act as incompatible as oil and water, even though they support each other’s aims? When capitalist benefactors support the technology commons that they utilize, it creates a sustainable and thriving commons which enables and supports additional capitalistic technology innovation. Having worked on both sides of the equation, the authors of this piece propose a vocabulary to nourish these interactions between the two sides; identified characteristics of a sustainable technology commons; identified commons models and variations; applied Appreciative Inquiry principles to one commons model; and identified future research areas.
+
+* [*Identity Hub Attestation Flows and Components*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/identity-hub-attestations.md)
+  - by Daniel Buchner, Cherie Duncan, John Toohey, Ron Kreutzer, and Stephen Curran
+
+> In this document, we define a set of user flows and describe the associated Action Objects that support a Hub-centric approach to the request, issuance, presentation, verification, and revocation of interoperable attestations. This document extends the [Identity Hub Explainer](https://github.com/decentralized-identity/hubs/blob/master/explainer.md).
+
+* [*Introduction to DID Auth*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md)
+  - by Markus Sabadello, Kyle Den Hartog, Christian Lundkvist, Cedric Franz, Alberto Elias, Andrew Hughes, John Jordan & Dmitri Zagidulin
+
+> The term DID Auth has been used in different ways and is currently not well-defined. We define DID Auth as a ceremony where an identity owner, with the help of various components such as web browsers, mobile devices, and other agents, proves to a relying party that they are in control of a DID. This means demonstrating control of the DID using the mechanism specified in the DID Document's "authentication" object. This could take place using a number of different data formats, protocols, and flows. DID Auth includes the ability to establish mutually authenticated communication channels and to authenticate to web sites and applications. Authorization, Verifiable Credentials, and Capabilities are built on top of DID Auth and are out of scope for this document. This paper gives on overview of the scope of DID Auth, supported protocols and flows, and the use of components of the DID Documents that are relevant to authentication, as well as formats for challenges and responses.
+
+* [*Open Badges are Verifiable Credentials*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/open-badges-are-verifiable-credentials.md)
+  - By Nate Otto & Kim Hamilton Duffy
+
+> We identify use cases and requirements that connect threads of work happening in the Rebooting Web of Trust community around: educational achievement claims (particularly using the Open Badges vocabulary); use of decentralized identifiers (DIDs) within web services where educational claims circulate; and integrating blockchain-reliant verification layers. We illustrate each of these cases with a set of example documents and describe user stories for Open Badges ecosystem software in the roles of Issuer, Host/Backpack, Displayer, and Verifier that need to be implemented in order to enable the capabilities described.
+
+* [*SSI: A Roadmap for Adoption*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
+  - By Moses Ma, Claire Rumore, Dan Gisolfi, Wes Kussmaul & Dan Greening (Senex Rex)
+
+> This document proposes the formation of a short-term team to develop consistent messaging for the Self-Sovereign Identity (SSI) market. It will target key stakeholders who would actively promote SSI adoption. The goal is to create an SSI market roadmap. This roadmap will help SSI leaders, standards bodies, developers, academics, media, and investors coordinate and clarify their messaging for the market, to accelerate the SSI adoption. 
+
+
+
+## Topics & Advance Readings [**^**](#contents)
+
+In advance of the design workshop, all participants are requested to produce a one-or-two page topic paper to be shared with the other attendees on either:
 
 * A specific problem that they wanted to solve with a web-of-trust solution, and why current solutions (PGP or CA-based PKI) can't address the problem?
 *  A specific solution related to the web-of-trust that you'd like others to use or contribute to?
 
-**Topic Papers Submitted**
+
+### RWoT 1 [**^**](#contents)
+
 
 * [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
   >Our goal for this initial #RebootingWebOfTrust design workshop is to:
@@ -110,8 +230,6 @@ In advance of the design workshop, all participants produced a one-or-two page t
   > * To generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future"
   >
   > To this end, I thought it would be useful to define what is a white paper, and as some people desire to go beyond this, what is a specification and proof of concept code.
-
-
 * [Advanced Web-of-Trust Concepts](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/advanced-web-of-trust-concepts.md) 
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>*
 * [Attempts at common terminology for digital identity systems](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/shared_terminology_for_digital_identity_systems.md) 
@@ -197,9 +315,6 @@ In advance of the design workshop, all participants produced a one-or-two page t
   - Christopher Allen *[@ChristopherA](https://twitter.com/ChristopherA) \<ChristopherA@LifeWithAlacrity.com\>*
 * [XDI Link Contracts: An Overview](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/xdi-link-contracts.md) 
   - Drummond Reed *[@DrummondReed](https://twitter.com/DrummondReed) \<drummond@respect.network\>*
-
----
-
 * [How Not to build and Orwellian reputation system](How-Not-to-build-an-Orwellian-reputation-system.md) 
   - [Juan S. Galt](http://twitter.com/juansgalt)
 * [Notes on the IPFS Keychain (or the Web Keychain)](ipfs-keychain.md) 
@@ -212,42 +327,9 @@ In advance of the design workshop, all participants produced a one-or-two page t
 * [Trust Models, Accountability, LIfeCycle and Social Context](Trust%20Models%2C%20Accountability%2C%20LIfeCycle%20and%20Social%20Context.md) 
   - by Kaliya "[Identity Woman](http://www.identitywoman.net/)" Young (formerly Hamlin)
 
-## Rebooting the Web of Trust II - ID2020 [**^**](#contents)
 
-* [WebOfTrustInfo/rwot2-id2020](https://github.com/WebOfTrustInfo/rwot2-id2020)
 
-The second Rebooting the Web of Trust design workshop, in San Francisco, CA, on May 21st & 22nd, 2016. It was run in conjunction with the UN ID2020 Summit on Identity, which occurred at the UN in New York on May 20th, 2016. 
-
-The goal of the workshop was to generate five technical white papers and/or proposals on topics decided by the group that would have the greatest impact on the future.
-
-### Completed Papers II [**^**](#contents)
-
-* [**Identity Crisis: Clearer Identity Through Correlation**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/identity-crisis.pdf) 
-  * A new way to look at identity, as correlation over time.
-    * Joe Andrieu, Kevin Gannon, Igor Kruiper, Ajit Tripathi, and Gary Zimmerman
-* [**Powering the Physician-Patient Relationship with HIE of One Blockchain Health IT**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/physician-patient-relationship.pdf) 
-  * Using Blockchains and DIDs for physician-patient interactions.
-    * Adrian Gropper, MD
-* [**Protecting Digital Identities in Developing Countries**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/protecting-digital-identities-in-developing-countries.pdf)
-  * A real-world use case, describing issues of identity in the developing world.
-    * Wayne Hennessy-Barrett
-* [**Requirements for DIDs (Decentralized Identifiers)**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/requirements-for-dids.pdf) 
-  * The first of a series of papers abou tproducing a concrete DID system.
-    * Drummond Reed and Les Chasen
-* [**Smarter Signatures: Experiments in Verifications**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/smarter-signatures.pdf) 
-  * A look at uses and requirements of next-generation smart signature systems.
-    * Christopher Allen and Shannon Appelcline
-  
-
-### Topics & Advance Readings II [**^**](#contents)
-
-In advance of the [ID 2020 Design DesignShop](https://github.com/WebOfTrustInfo/rwot2-id2020/) on May 21st and 22nd, all participants were requested to submit a 1 or 2 page topics paper to be shared with other attendees on either:
-
-* A specific decentralized identity use case related to the topic of the UN ID 2020 Summit
-* A specific problem that you'd like to solve with a decentralized or web-of-trust solution, and why current solutions (pgp or ca-based pki) can't address the problem
-* A specific solution related to the decentralized identity or web-of-trust that you'd like others to use or contribute to.
-
-**The topic papers submitted:**
+### RWoT 2 [**^**](#contents)
 
 * [A Double Edge Sword of Having an Identity](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/double_edged_identity.md) 
   - Marta Piekarska \<marta@blockstream.io\>
@@ -299,10 +381,6 @@ In advance of the [ID 2020 Design DesignShop](https://github.com/WebOfTrustInfo/
   - Patrick Deegan
 * [Identity and decentralised Communication](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/Identity%20and%20decentralised%20communications.md) 
   - By Harsh Patel
-
----
-
-
 * [Chime National Patent ID Challenge](/topics-and-advance-readings/CHIMENationalPatientIDChallenge.pdf)
 * [Usability and Multiplicity in Global Identity Management](/topics-and-advance-readings/Crocker-ID-Usability-Multiplicity.md) — by D. Crocker ~ \<[dcrocker@bbiw.net](mailto:dcrocker@bbiw.net)\>
 * [Decentralized Identity Satoshi Style](/topics-and-advance-readings/Decentralized-Identity-Satoshi-Style) - by Darrell Duane - \<[darrell@idi.io](mailto:darrell@idi.io)\>
@@ -314,46 +392,9 @@ In advance of the [ID 2020 Design DesignShop](https://github.com/WebOfTrustInfo/
 — something that serves to guide or direct in the solution of a problem or mystery. 
 
 
-## Rebooting the Web of Trust III [**^**](#contents)
 
-* [WebOfTrustInfo/rwot3-sf](https://github.com/WebOfTrustInfo/rwot3-sf)
+### RWoT 3 [**^**](#contents)
 
-The third Rebooting the Web of Trust design workshop, which ran in San Francisco, CA, on October 19th-21st, 2016. The goal of the workshop was to generate five technical white papers and/or proposals on topics decided by the group that would have the greatest impact on the future.
-
-### Completed Papers III [**^**](#contents)
-
-The design workshop exceeded its mandate by producing seven papers:
-
-* [**DID (Decentralized Identifier) Data Model and Generic Syntax 1.0 Implementer’s Draft 01**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/did-implementer-draft-10.pdf)
-  - The complete draft of the Decentralized IDentifier (DID) model and syntac, a project that has run through the RWOT workshops to date.
-    - Drummond Reed, Les Chasen, Christopher Allen, and Ryan Grant
-* [**Digital Verification Advancements at RWoT III**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/digital-verification-advancements.pdf)
-  - A short overview of enhancements to Digital Verification that came out of RWOT III.
-    - Manu Sporny with Christopher Allen, Harlan Wood, and Jason Law
-* [**Embedding Human Wisdom in Our Digital Tomorrow**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/WisdomEmbedding-Human-Wisdom-in-Our-Digital-Tomorrow.pdf)
-  - A discussion of the dangers of transferring wisdom into the digital world, seen through the lenses of vulnerability, shadows, healing, tensions, complexity and gestalt, and organizational choices.
-    - Daniel Hardman, Kaliya “Identity Woman” Young, and Matthew Schutte
-* [**Hubs**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/hubs.pdf)
-  - An overview of the hubs datastore system.
-    - Daniel Buchner, Wayne Vaughan, and Ryan Shea
-* [**Joram 1.0.0**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/joram-engagement-model.pdf)
-  - An Information Lifecycle Engagement Model that offers a use case for a Syrian refugee.
-    - Joe Andrieu and Bob Clint
-* [**Portable Reputation Toolkit Use Cases**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/reputation-toolkit.pdf)
-  - A model and proof-of-concept implementation for decentralized verification.
-    - Christopher Allen, Tim Daubenschütz, Manu Sporny, Noah Thorp, Harlan Wood, Glenn Willen, and Alessandro Voto
-* [**Smart Consent Protocol**](https://github.com/WebOfTrustInfo/rwot3-sf/tree/master/final-documents/smart-consent-protocol.pdf)
-  - Bringing together COALA IP and Consent to deal with digital intellectual property.
-    - Dr. Shaun Conway, Lohan Spies, Jonathan Endersby, and Tim Daubenschütz
-
-### Topics & Advance Readings III [**^**](#contents)
-
-In advance of the design workshop, all participants produced a one-or-two page topic paper to be shared with the other attendees on either:
-
-* A specific problem that they wanted to solve with a web-of-trust solution, and why current solutions (PGP or CA-based PKI) can't address the problem?
-*  A specific solution related to the web-of-trust that you'd like others to use or contribute to?
-
-**The topic papers submitted were:**
 
 * [Identity as Linked Data on Immutable Ledgers](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/identity-as-linked-data-on-immutable-ledgers.md) 
   - Tim Daubenschuetz and Trent McConaghy 
@@ -395,9 +436,6 @@ In advance of the design workshop, all participants produced a one-or-two page t
   - Adrian Gropper
 * [Creating a Humanized Internet](https://github.com/vshen2010/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/Creating%20a%20Humanized%20Internet.pdf) 
   - Monique Morrow, et al
-
----
-
 * [Smart Consent Protocol](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/Consent%20and%20rights%20to%20use%20Personal%20Data.md)
   - Dr Shaun Conway, Lohan Spies, Jonathan Endersby, Tim Daubenschütz (see [Completed Papers III](#completed-papers-iii-))
 * [Creating a Humanized Internet](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/Creating%20a%20Humanized%20Internet.pdf)
@@ -418,29 +456,8 @@ In advance of the design workshop, all participants produced a one-or-two page t
 * [Towards a User Interface for Selectively Revealing Fine-Grained Personal Information to Transaction Counterparties](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/rgrant-user-interface-standards-rwot-fall2016.md)
 * [Recovery strategy for user-controlled keys for self-sovereign identity](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/user-controlled-key-recovery.md)
 
-## Rebooting the Web of Trust IV [**^**](#contents)
 
-The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on April 19th-21st, 2017.
-
-### Completed Papers IV
-
-* [*Design Considerations for Decentralized Reputation Systems*](https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/reputation-design.md)
-  - Angus Champion de Crespigny, Dmitry Khovratovich, Florent Blondeau, Klara Sok, Philippe Honigman, Nikolaos Alexopoulos, Fabien Petitcolas, and Shaun Conway
-
-* [*LD Signature Format Alignment*](https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/ld-signatures.md) - Bringing JSON-LD signatures into alignment with JOSE JSON Web Signature (JWS) standards.
-  - Kim Hamilton Duffy, Rodolphe Marques, Markus Sabadello, and Manu Sporny
-
-* [*Re-Imagining What Users Really Want*](https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/what-users-really-want.md) - Five people, five opportunities for self-sovereign identity.
-   - Joe Andrieu, Frederic Engel, Adam Lake, Moses Ma, Olivier Maas, and Mark van der Waal.
-
-## Advance Readings IV
-
-In advance of the April DesignShop, all participants were requested to prepare a one- or two-page topics paper to be shared with other attendees on either:
-
-* A specific problem that you'd like to solve with a web-of-trust solution, and why current solutions (such as PGP or CA-based PKI) can't address the problem.
-*  A specific solution related to the web-of-trust that you'd like others to use or contribute to.
-
-**Topic Papers Submitted:**
+### RWoT 4 [**^**](#contents)
 
 * [Aligning Signature Formats](https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings/SignatureFormatAlignment.md) by Manu Sporny, Christopher Allen, Jason Law, and Ryan Shea
 * [Beyond Identity Cards](https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings/Beyond-Identity-Cards.pdf) by Joe Andrieu
@@ -466,56 +483,7 @@ In advance of the April DesignShop, all participants were requested to prepare a
 * [Verifiable Claims and Web of Trust](https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings/WoTVerifiableClaims.md) by Manu Sporny, Christopher Allen, Joe Andrieu, Matthew Collier, Dave Longley, and Adam Lake
 * [XDI Verifiable Claims and Link Contracts](https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings/xdi-verifiable-claims-link-contracts.md) by Markus Sabadello
 
-
-## Rebooting the Web of Trust V [**^**](#contents)
-
-The fifth Rebooting the Web of Trust design workshop was in Boston, Massachusetts, on October 3rd-5th, 2017.
-
-### Completed Papers V [**^**](#contents)
-
-The design workshop exceeded its goal of three to five white papers with a total of eight publications:
-
-* [**ActivityPub: From Decentralized to Distributed Social Networks**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/activitypub-decentralized-distributed.md)
-  - Christopher Lemmer Webber & Manu Sporny
-  -  An overview of the W3C ActivityPub protocol.
-
-
-* [**Amira 1.0.0**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md) 
-  - Joe Andrieu & Team
-  - This paper [...] presents a human-centric illustration of an individual’s experience in a self-sovereign, decentralized realization of the Web of Trust as originally conceived by Phil Zimmerman for PGP.
-
-* [**The DCS Theorem**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/dcs-theorem/The-DCS-Theorem.pdf) 
-  - Greg Slepak & Anya Petrova
-  - A probability proof of the DCS Triangle. Why can't decentralized consensus systems have all three of decentralization, consensus, and scale? Plus, two methods for getting around these limitations.
-
-
-* [**A Decentralized Approach to Blockcerts Credential Revocation**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md) 
-  - João Santos & Kim Hamilton Duffy
-  - Blockcerts are blockchain-anchored credentials with a verification process designed to be decentralized and trustless. This proposal describes an alternate method of issuing Blockcerts using Ethereum, which allows for a new form of revocation by either the issuer or the recipient.
-
-* [**Engineering Privacy for Verified Credentials: In Which We Describe Data Minimization, Selective Disclosure, and Progressive Trust**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/data-minimization-sd.md)
-  - Lionel Wolberger, Brent Zundel, Zachary Larson, Irene Hernandez & Katryna Dow
-  - we have identified three related but distinct privacy enhancing strategies: "data minimization," "selective disclosure," and "progressive trust." These enhancements are enabled with cryptography. The goal of this paper is to enable decision makers, particularly non-technical ones, to gain a nuanced grasp of these enhancements along with some idea of how their enablers work.
-
-* [**Identity Hubs Capabilities Perspective**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) 
-    - by Adrian Gropper, Drummond Reed & Mark S. Miller  
-  > Identity Hubs as currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID) based user-controlled agent, based on ACLs rather than an object-capabilities (ocap) architecture. Transitioning the Hubs design to an ocap model can be achieved by introducing an UMA authorization server as the control endpoint.
-
-* [**Linked Data Capabilities**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/lds-ocap.md)
-  - Christopher Lemmer Webber & Mark S. Miller
-    > Linked Data Signatures enable a method of asserting the integrity of linked data documents that are passed throughout the web. The object capability model is a powerful system for ensuring the security of computing systems. 
-
-* [**Veres One DID Method**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/did-method-veres-one.md)
-  - Manu Sporny & Dave Longley
-    > The Veres One Ledger is a permissionless public ledger designed specifically for the creation and management of decentralized identifiers (DIDs). This specification defines how a developer may create and update DIDs in the Veres One Ledger.
-
-* [**When GDPR becomes real, and Blockchain is no longer Fairy Dust**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
-  - Marta Piekarska, Michael Lodder, Zachary Larson & Kaliya Young (Identity Woman)
-    > This document describes the GDPR requirements and the different approaches to digital identity solutions and finally explains why distributed ledger technology may offer an opportunity for enterprises to simplify data management solutions that are GDPR compliant.
-
-
-
-##  Topics & Advance Readings V [**^**](#contents)
+### RWoT 5 [**^**](#contents)
 
 
 The following advanced readings have been prepared as primers, intended to give you a foundation in some of the topics that may be discussed at the design workshop:
@@ -559,53 +527,7 @@ Here are the rest of the advance readings to date:
 * [Data Minimization and Selective Disclosure](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/Data-minimization-and-selective-disclosure.md) by Lionel Wolberger
 * [HIE of One Loop: A Patient-Controlled Independent Health Record](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/Loop-white-paper.pdf) by Adrian Gropper, MD and the Loop Project Team
 
-## Rebooting the Web of Trust VI [**^**](#contents)
-
-The sixth Rebooting the Web of Trust design workshop ran in Santa Barbara, California, on March 6th to 8th, 2018. 
-
-## Complete Papers VI [**^**](#contents)
-
-* [**BTCR DID Resolver Specification**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/btcr-resolver.md)
-  - Kim Hamilton Duffy, Christopher Allen, Ryan Grant, and Dan Pape
-
-> This describes the process of resolving a BTCR DID into a DID Document. The draft reference implementation is available at https://github.com/WebOfTrustInfo/btcr-did-tools-js (see didFormatter.js). Note that not all steps described in this document are implemented yet.
-
-* [**Decentralized Autonomic Data (DAD) and the three R's of Key Management**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/DecentralizedAutonomicData.md)
-  - by Samuel M. Smith Ph.D. with Vishal Gupta
-
-> This paper proposes a new class of data called decentralized autonomic data (DAD). The term decentralized means that the governance of the data may not reside with a single party. A related concept is that the trust in the data provenance is diffuse in nature. Central to the approach is leveraging the emerging DID (decentralized identifier) standard. The term autonomic means self-managing or self-regulating. In the context of data, we crystalize the meaning of self-managing to include cryptographic techniques for maintaining data provenance that make the data self-identifying, self-certifying, and self-securing. Implied thereby is the use of cryptographic keys and signatures to provide a root of trust for data integrity and to maintain that trust over transformation of that data, e.g. provenance. Thus key management must be a first order property of DADs. This includes key reproduction, rotation, and recovery. The pre-rotation and hybrid recovery methods presented herein are somewhat novel.
-
-* [**Decentralized Identifiers v1.0**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-spec-1.0.md)
-  - A Status Note
-
-> The Decentralized Identifiers specification editors and implementers spent some time at Rebooting the Web of Trust 6 processing the remaining issues in the issue tracker. This document summarizes the proposed resolutions that the group has put forward to resolve all of the DID specification issues that were submitted before 2018-03-05.
-
-* [*Exploring Sustainable Technology Commons using Appreciative Inquiry*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/sustainable-commons.md)
-  - by Heather Vescent, Kaliya “Identity Woman” Young, Adrian Gropper, and Juan Caballero
-
-> Technology commons come in a variety of flavors and have achieved varying levels of financial success. For-profit corporate activities have in few historical cases been set up with a financial feedback mechanism to support the commons upon which they depend and capitalize. Why do the commons and the technology sectors’ available forms of capitalism act as incompatible as oil and water, even though they support each other’s aims? When capitalist benefactors support the technology commons that they utilize, it creates a sustainable and thriving commons which enables and supports additional capitalistic technology innovation. Having worked on both sides of the equation, the authors of this piece propose a vocabulary to nourish these interactions between the two sides; identified characteristics of a sustainable technology commons; identified commons models and variations; applied Appreciative Inquiry principles to one commons model; and identified future research areas.
-
-* [*Identity Hub Attestation Flows and Components*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/identity-hub-attestations.md)
-  - by Daniel Buchner, Cherie Duncan, John Toohey, Ron Kreutzer, and Stephen Curran
-
-> In this document, we define a set of user flows and describe the associated Action Objects that support a Hub-centric approach to the request, issuance, presentation, verification, and revocation of interoperable attestations. This document extends the [Identity Hub Explainer](https://github.com/decentralized-identity/hubs/blob/master/explainer.md).
-
-* [*Introduction to DID Auth*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md)
-  - by Markus Sabadello, Kyle Den Hartog, Christian Lundkvist, Cedric Franz, Alberto Elias, Andrew Hughes, John Jordan & Dmitri Zagidulin
-
-> The term DID Auth has been used in different ways and is currently not well-defined. We define DID Auth as a ceremony where an identity owner, with the help of various components such as web browsers, mobile devices, and other agents, proves to a relying party that they are in control of a DID. This means demonstrating control of the DID using the mechanism specified in the DID Document's "authentication" object. This could take place using a number of different data formats, protocols, and flows. DID Auth includes the ability to establish mutually authenticated communication channels and to authenticate to web sites and applications. Authorization, Verifiable Credentials, and Capabilities are built on top of DID Auth and are out of scope for this document. This paper gives on overview of the scope of DID Auth, supported protocols and flows, and the use of components of the DID Documents that are relevant to authentication, as well as formats for challenges and responses.
-
-* [*Open Badges are Verifiable Credentials*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/open-badges-are-verifiable-credentials.md)
-  - By Nate Otto & Kim Hamilton Duffy
-
-> We identify use cases and requirements that connect threads of work happening in the Rebooting Web of Trust community around: educational achievement claims (particularly using the Open Badges vocabulary); use of decentralized identifiers (DIDs) within web services where educational claims circulate; and integrating blockchain-reliant verification layers. We illustrate each of these cases with a set of example documents and describe user stories for Open Badges ecosystem software in the roles of Issuer, Host/Backpack, Displayer, and Verifier that need to be implemented in order to enable the capabilities described.
-
-* [*SSI: A Roadmap for Adoption*](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md)
-  - By Moses Ma, Claire Rumore, Dan Gisolfi, Wes Kussmaul & Dan Greening (Senex Rex)
-
-> This document proposes the formation of a short-term team to develop consistent messaging for the Self-Sovereign Identity (SSI) market. It will target key stakeholders who would actively promote SSI adoption. The goal is to create an SSI market roadmap. This roadmap will help SSI leaders, standards bodies, developers, academics, media, and investors coordinate and clarify their messaging for the market, to accelerate the SSI adoption. 
-
-## Advance Readings VI [**^**](#contents)
+## RWoT 6 [**^**](#contents)
 
 Here are the advanced readings to date:
 
