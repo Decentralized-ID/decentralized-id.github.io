@@ -10,7 +10,7 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 
 ## Contents
 
-* [/WebOfTrustInfo](#weboftrustinfo---design-workshop)
+* [/WebOfTrustInfo](#weboftrustinfo)
   * [RWoT Design Workshop](#rwot-design-workshop-)
   * [RWoT BTCR](#rwot-btcr-)
   * [RWoT Txref Conversion](#rwot-txref-conversion-)
@@ -86,7 +86,7 @@ In advance of each workshop, all participants produce a one-or-two page topic pa
 
 The workshop itself also produces technical whitepapers, this Repository holds a record of the progression of thought in SSI, since November, 2015.
 
-* <a href="literature/Rebooting-Web-of-Trust.md">One Page List of RWoT Literature</a> (not complete)
+* <a href="Rebooting-Web-of-Trust.md">One Page List of RWoT Literature</a> 
 * <a href="https://github.com/WebOfTrustInfo/self-sovereign-identity" target="_blank">/WebOfTrustInfo/self-sovereign-identity</a> - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
 * <a href="https://github.com/WebOfTrustInfo/website" target="_blank">/WebOfTrustInfo/website</a> - Website for http://www.WebOfTrust.info
 * <a href="https://github.com/WebOfTrustInfo/community-resilience" target="_blank">/WebOfTrustInfo/community-resilience</a> - Rebooting Web of Trust Community Resilience Team
@@ -721,7 +721,8 @@ Maintained by, [Markus Sabadello (Peacekeeper)](https://medium.com/@markus.sabad
 ## /decentralized-id/decentralized-id.github.io [**^**](#contents)
 You can join in on the research, and help build this educational resource.
 
-* [/decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io)
+* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) is becoming
+* [decentralized-id.com](https://github.com/decentralized-id/decentralized-id.github.io)
 
 ---
 
