@@ -1,17 +1,27 @@
+---
+title: "A \"complete\" listing of #RebootingWebOfTrust Papers, Topics, and Advance Readings"
+description: Lets make this awesome collaborative work easier to explore!
+image: "https://i.imgur.com/Nmxk4fE.png"
+---
+
 # Rebooting Web Of Trust - Papers and Advance Readings Index
 
-I wanted a list of all RWoT papers in one place, rather than having to directory hop to look for what I need. 
+I wanted a list of all RWoT papers in one place, rather than having to directory hop to look for what I need. I'll be adding a short exerpt to each advance reading and then turning this into a database, so that it's easily searchable.+
 
 See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrustInfo](https://github.com/WebOfTrustInfo/) for more information.
 
 > '[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims. *Each party attesting to your identity information becomes a strand in your web of trust.*
 
+![](https://i.imgur.com/Nmxk4fE.png)
+
 ## Contents
 
 * [Selected RWoT Whitepapers](#selected-rebooting-web-of-trust-whitepapers-)
-  * [Use Cases](#rwot-use-cases-) 
+  * [Primers](#primers)
+  * [RWoT Workshop Related](#rwot-workshop-related-)
+  * [Use Cases](#use-cases-) 
 * [Completed Papers](#completed-papers-)
-  * [Rebooting the Web of Trust I](#rebooting-the-web-of-trust-i)
+  * [Rebooting the Web of Trust I](#rebooting-the-web-of-trust-i-)
   * [Rebooting the Web of Trust II - ID2020](#rebooting-the-web-of-trust-ii---id2020-)
   * [Rebooting the Web of Trust III](#rebooting-the-web-of-trust-iii-)
   * [Rebooting the Web of Trust IV](#rebooting-the-web-of-trust-iv-)
@@ -20,9 +30,14 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
   * [Rebooting the Web of Trust VII](#rebooting-the-web-of-trust-vii-)
 * [Topics and Advance Readings](#topics-and-advance-readings-)
   * [RWoT 1](#rwot-1-)
-  * [RWoT 2](#rwot-2-)
-  * [Completed Papers](#completed-papers-viii-)
-  * [Topics and Advanced Readings](##topics--advance-readings-viii-)
+  * [RWoT 2](#rwot-id2020-)
+  * [RWoT 3](#rwot-3-)
+  * [RWoT 4](#rwot-4-)
+  * [RWoT 5](#rwot-5-)
+  * [RWoT 6](#rwot-6-)
+  * [RWoT 7](#rwot-7-)
+* [RWoT GitHub Listing](#rwot-github-listing-)
+* [Home](#home-)
 
 ## Selected 'Rebooting Web of Trust' Whitepapers [**^**](#contents) 
 
@@ -34,7 +49,7 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 * [A Verifiable Claims Primer](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/topics-and-advance-readings/verifiable-claims-primer.md) by Manu Sporny
 * [Framework for the Comparison of Identity Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/Framework-for-Comparison-of-Identity-Systems.md)
 
-### Workshop
+### RWoT Workshop Related [**^**](#contents) 
 * [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
   >Our goal for this initial #RebootingWebOfTrust design workshop is to:
   >
@@ -59,6 +74,8 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 
 ### Rebooting the Web of Trust I [**^**](#contents)
 
+![](https://i.imgur.com/pes1Vm8.png)
+
 The first Rebooting the Web of Trust design workshop, held in San Francisco, CA - November 3rd & 4th, 2015.
 
 * **[Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/final-documents/rebranding-web-of-trust.pdf)** 
@@ -80,6 +97,8 @@ The first Rebooting the Web of Trust design workshop, held in San Francisco, CA 
 
 ### Rebooting the Web of Trust II - ID2020 [**^**](#contents)
 
+![](https://i.imgur.com/cn5CQEI.png)
+
 The second Rebooting the Web of Trust design workshop, in San Francisco, CA, on May 21st & 22nd, 2016. It was run in conjunction with the UN ID2020 Summit on Identity, which occurred at the UN in New York on May 20th, 2016. 
 
 * [**Identity Crisis: Clearer Identity Through Correlation**](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/final-documents/identity-crisis.pdf) 
@@ -99,6 +118,8 @@ The second Rebooting the Web of Trust design workshop, in San Francisco, CA, on 
     * Christopher Allen and Shannon Appelcline
   
 ### Rebooting the Web of Trust III [**^**](#contents)
+
+![](http://i.imgur.com/37wRZ9B.png)
 
 The design workshop exceeded its mandate by producing seven papers:
 
@@ -126,8 +147,9 @@ The design workshop exceeded its mandate by producing seven papers:
 
 ### Rebooting the Web of Trust IV [**^**](#contents)
 
-The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on April 19th-21st, 2017.
+![](http://i.imgur.com/ZtP6Dny.png)
 
+The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on April 19th-21st, 2017.
 
 * [*Design Considerations for Decentralized Reputation Systems*](https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/reputation-design.md)
   - Angus Champion de Crespigny, Dmitry Khovratovich, Florent Blondeau, Klara Sok, Philippe Honigman, Nikolaos Alexopoulos, Fabien Petitcolas, and Shaun Conway
@@ -136,10 +158,8 @@ The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on A
 * [*Re-Imagining What Users Really Want*](https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/what-users-really-want.md) - Five people, five opportunities for self-sovereign identity.
    - Joe Andrieu, Frederic Engel, Adam Lake, Moses Ma, Olivier Maas, and Mark van der Waal.
 
-
-
 ### Rebooting the Web of Trust V [**^**](#contents)
-
+![](http://i.imgur.com/H7i3KFD.png)
 
 * [**ActivityPub: From Decentralized to Distributed Social Networks**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/activitypub-decentralized-distributed.md)
   - Christopher Lemmer Webber & Manu Sporny
@@ -170,6 +190,8 @@ The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on A
     > This document describes the GDPR requirements and the different approaches to digital identity solutions and finally explains why distributed ledger technology may offer an opportunity for enterprises to simplify data management solutions that are GDPR compliant.
 
 ### Rebooting the Web of Trust VI [**^**](#contents)
+
+![](http://i.imgur.com/9yhGv6a.png)
 
 The sixth Rebooting the Web of Trust design workshop ran in Santa Barbara, California, on March 6th to 8th, 2018. 
 
@@ -210,9 +232,59 @@ The sixth Rebooting the Web of Trust design workshop ran in Santa Barbara, Calif
 
 > This document proposes the formation of a short-term team to develop consistent messaging for the Self-Sovereign Identity (SSI) market. It will target key stakeholders who would actively promote SSI adoption. The goal is to create an SSI market roadmap. This roadmap will help SSI leaders, standards bodies, developers, academics, media, and investors coordinate and clarify their messaging for the market, to accelerate the SSI adoption. 
 
+### Rebooting the Web of Trust VII [**^**](#contents)
+
+![](http://i.imgur.com/tHcfNsK.png)
+
+The seventh Rebooting the Web of Trust design workshop, ran near Toronto, Canada, on September 26th to 28th, 2018.
+
+* [*BTCR v0.1 Decisions*](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/btcr_0_1.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/btcr_0_1.md)
+  - Kim Hamilton Duffy, Christopher Allen, and Dan Pape
+
+> The Bitcoin Reference (BTCR) DID method supports DIDs using the Bitcoin blockchain. This method has been under development through Rebooting Web of Trust events and hackathons over the past year. The BTCR method's reliance on the Bitcoin blockchain presents both advantages and design challenges. During RWOT7, the authors made a number of design and implementation decisions -- largely scope-cutting in nature -- in order to lock down a Minimum Viable Product (MVP) version, which we'll refer to as v0.1. This paper documents those decisions, which will apply to the upcoming v0.1 BTCR method specification and associated v0.1 BTCR reference implementation.
+
+* [*A DID for Everything*](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/A_DID_for_everything.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/A_DID_for_everything.md)
+  - Shaun Conway, Andrew Hughes, Moses Ma, Jack Poole, Martin Riedel, Samuel M. Smith Ph.D., and Carsten Stöcker
+
+> The decentralized identifier (DID) is a new and open standard type of globally unique identifier that offers a model for lifetime-scope portable digital identity that does not depend on any centralized authority and that can never be taken away by third-parties. DIDs are supported by the W3C community and the Decentralized Identity Foundation (DIF). They are the "atomic units" of a new layer of decentralized identity infrastructure. However, DIDs can be extended from identifiers for people to any entity, thus identifying everything. We can use DIDs to help us identify and manage objects, machines, or agents through their digital twins; we can expand them to locations, to events, and even to pure data objects, which we refer to as decentralized autonomic data (DAD) items.
+
+> The paper will present novel use-cases for DIDs and DADs and propose a new cryptographic data structure that is a self-contained blockchain of DADs. This enables the verification of the provenance of a given data flow. It builds on a prior paper and an associated reading.
+
+* [*How to Convince Dad\* of the Importance of Self-Sovereign Identity*](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md)
+  - Shannon Appelcline, Kenneth Bok, Lucas Parker, Peter Scott, and Matthew Wong
+
+> One of the major problems with bootstrapping self-sovereign identity is that it requires adoption by a large number of people. Pushing self-sovereign identity from the top-down is most likely to result in a technology that’s not actually used, but instead encouraging the average person to demand self-sovereign identity from the bottom-up will result in the organic development of a vibrant, well-utilized decentralized web-of-trust ecosystem.
+
+> This paper addresses that need by offering arguments to a variety of people who might be reluctant to use self-sovereign identity, uninterested in its possibilities, or oblivious to the dangers of centralization. By focusing on the needs of real people, we hope to also encourage developers, engineers, and software business owners to create the apps that will address their reluctance and fulfill their needs, making self-sovereign identity a reality.
+
+* [*IPLD as a general pattern for DID documents and Verifiable Claims*](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/ipld-did.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/ipld-did.md)
+  - jonnycrunch, Anthony Ronning, Kim Duffy, Christian Lundkvist
+
+> Since the emergence of the Decentralized Identifier (DID) specification at the Fall 2016 Rebooting the Web of Trust [1], numerous DID method specifications have appeared. Each DID method specification defines how to resolve a cryptographically-tied DID document given a method-specific identifier. In this paper, we describe a way to represent the DID document as a content-addressed Merkle Directed Acyclic Graph (DAG) using Interplanetary Linked Data (IPLD). This technique enables more cost-efficient, scaleable creation of DIDs and can be applied across different DID method specifications.
+
+* [*Peer to Peer Degrees of Trust*](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/peer-to-peer-degrees-of-trust.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/peer-to-peer-degrees-of-trust.md)
+  - Harrison Stahl, Titus Capilnean, Peter Snyder, and Tyler Yasaka
+
+> Aunthenticity is a challenge for any identity solution. In the physical world, at least in America, it is not difficult to change one's identity. In the digital world, there is the problem of bots. The botnet detection market is expected to be worth over one billion USD by 2023, in a landscape where most digital activity is still heavily centralized. These centralized digital solutions have the advantage of being able to track IP addresses, request phone verification, and present CAPTCHAs to users in order to authenticate them. If this problem is so difficult to solve in the centralized world, how much more challenging will it be in the decentralized world, where none of these techniques are available?
+
+> In this paper, we explore the idea of using a web of trust as a tool to add authenticity to decentralized identifiers (DIDs). We define a framework for deriving relative trust degrees using a given trust metric: a "trustworthiness" score for a given identity from the perspective of another identity. It is our intent that this framework may be used as a starting point for an ongoing exploration of graph-based, decentralized trust. We believe this approach may ultimately be used as a foundation for decentralized reputation.
+
+* [*Resource Integrity Proofs*](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/resource-integrity-proofs.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/resource-integrity-proofs.md)
+  - Ganesh Annan and Kim Hamilton Duffy
+
+> Currently, the Web provides a simple yet powerful mechanism for the dissemination of information via links. Unfortunately, there is no generalized mechanism that enables verifying that a fetched resource has been delivered without unexpected manipulation. Would it be possible to create an extensible and multipurpose cryptographic link that provides discoverability, integrity, and scheme agility?
+
+> This paper proposes a linking solution that decouples integrity information from link and resource syntaxes, enabling verification of any representation of a resource from any type of link. We call this approach Resource Integrity Proofs (RIPs). RIPs provide a succinct way to link to resources with cryptographically verifiable content integrity. RIPs can be combined with blockchain technology to create discoverable proofs of existence to off-chain resources.
+
+* [*Use Cases and Proposed Solutions for Verifiable Offline Credentials*](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/offline-use-cases.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/offline-use-cases.md)
+  - Michael Lodder, Samantha Mathews Chase, and Wolf McNally
+
+> In this paper we cover various scenarios where some or all parties have intermittent, unreliable, untrusted, insecure, or no network access, but require cryptographic verification (message protection and/or proofs). Furthermore, communications between the parties may be only via legacy voice channels. Applicable situations include marine, subterranean, remote expeditions, disaster areas, refugee camps, and high-security installations. This paper then recommends solutions for addressing offline deployments.
+
+![](https://i.imgur.com/TpsPXoa.png)
 
 
-## Topics & Advance Readings [**^**](#contents)
+## Topics and Advance Readings [**^**](#contents)
 
 In advance of the design workshop, all participants are requested to produce a one-or-two page topic paper to be shared with the other attendees on either:
 
@@ -222,6 +294,7 @@ In advance of the design workshop, all participants are requested to produce a o
 
 ### RWoT 1 [**^**](#contents)
 
+![](https://i.imgur.com/Hv2rPVy.png)
 
 * [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
   >Our goal for this initial #RebootingWebOfTrust design workshop is to:
@@ -327,9 +400,9 @@ In advance of the design workshop, all participants are requested to produce a o
 * [Trust Models, Accountability, LIfeCycle and Social Context](Trust%20Models%2C%20Accountability%2C%20LIfeCycle%20and%20Social%20Context.md) 
   - by Kaliya "[Identity Woman](http://www.identitywoman.net/)" Young (formerly Hamlin)
 
+### RWoT ID2020 [**^**](#contents)
 
-
-### RWoT 2 [**^**](#contents)
+![](https://i.imgur.com/ZG5msLT.png)
 
 * [A Double Edge Sword of Having an Identity](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/double_edged_identity.md) 
   - Marta Piekarska \<marta@blockstream.io\>
@@ -395,6 +468,7 @@ In advance of the design workshop, all participants are requested to produce a o
 
 ### RWoT 3 [**^**](#contents)
 
+![](https://i.imgur.com/05aTksa.png)
 
 * [Identity as Linked Data on Immutable Ledgers](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/identity-as-linked-data-on-immutable-ledgers.md) 
   - Tim Daubenschuetz and Trent McConaghy 
@@ -451,13 +525,13 @@ In advance of the design workshop, all participants are requested to produce a o
   -Copyright 2016 Digital Bazaar, Inc.
 * [DID (Decentralized Identifier) Specification](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/did-spec-working-draft-03.md) 
   - Editors: Drummond Reed, Les Chasen Contributors: Christopher Allen, Manu Sporny, David Longley, Jason Law, Daniel Hardman, Markus Sabadello (see [Completed Papers III](#completed-papers-iii-))
-* [https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/opentimestamps-merkle-tree.png](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/opentimestamps-merkle-tree.png)
-  ![](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/opentimestamps-merkle-tree.png?raw=true)
 * [Towards a User Interface for Selectively Revealing Fine-Grained Personal Information to Transaction Counterparties](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/rgrant-user-interface-standards-rwot-fall2016.md)
 * [Recovery strategy for user-controlled keys for self-sovereign identity](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/user-controlled-key-recovery.md)
 
 
 ### RWoT 4 [**^**](#contents)
+
+![](https://i.imgur.com/HcVlTZQ.png)
 
 * [Aligning Signature Formats](https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings/SignatureFormatAlignment.md) by Manu Sporny, Christopher Allen, Jason Law, and Ryan Shea
 * [Beyond Identity Cards](https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings/Beyond-Identity-Cards.pdf) by Joe Andrieu
@@ -485,6 +559,7 @@ In advance of the design workshop, all participants are requested to produce a o
 
 ### RWoT 5 [**^**](#contents)
 
+![](https://i.imgur.com/0yF0Ai7.png)
 
 The following advanced readings have been prepared as primers, intended to give you a foundation in some of the topics that may be discussed at the design workshop:
 
@@ -527,9 +602,9 @@ Here are the rest of the advance readings to date:
 * [Data Minimization and Selective Disclosure](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/Data-minimization-and-selective-disclosure.md) by Lionel Wolberger
 * [HIE of One Loop: A Patient-Controlled Independent Health Record](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/Loop-white-paper.pdf) by Adrian Gropper, MD and the Loop Project Team
 
-## RWoT 6 [**^**](#contents)
+### RWoT 6 [**^**](#contents)
 
-Here are the advanced readings to date:
+![](https://i.imgur.com/LmmFZws.png)
 
 * [Attribute Based Credentials and Variable Length Data Graphs](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/topics-and-advance-readings/AttributeBasedCredentials_and_VariableLengthDataGraphs.md) by nage
 * [Blockchain Timestamps Unnecessary In Proof-of-Work?](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/topics-and-advance-readings/Blockchains-Timestamps-Unnecessary-In-PoW.md) by Greg Slepak
@@ -565,58 +640,9 @@ Here are the advanced readings to date:
 * [Veres One Demo](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/topics-and-advance-readings/veres-one-demo.md) by David I. Lehn, et. al.
 * [Web of Pragmatics: A Comment on Methodology](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/topics-and-advance-readings/Web-of-Pragmatics.md) by D. Crocker
 
-## Rebooting the Web of Trust VII [**^**](#contents)
+### RWoT 7 [**^**](#contents)
 
-The seventh Rebooting the Web of Trust design workshop, ran near Toronto, Canada, on September 26th to 28th, 2018.
-
-### Final Papers VII [**^**](#contents)
-
-
-* [*BTCR v0.1 Decisions*](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/btcr_0_1.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/btcr_0_1.md)
-  - Kim Hamilton Duffy, Christopher Allen, and Dan Pape
-
-> The Bitcoin Reference (BTCR) DID method supports DIDs using the Bitcoin blockchain. This method has been under development through Rebooting Web of Trust events and hackathons over the past year. The BTCR method's reliance on the Bitcoin blockchain presents both advantages and design challenges. During RWOT7, the authors made a number of design and implementation decisions -- largely scope-cutting in nature -- in order to lock down a Minimum Viable Product (MVP) version, which we'll refer to as v0.1. This paper documents those decisions, which will apply to the upcoming v0.1 BTCR method specification and associated v0.1 BTCR reference implementation.
-
-* [*A DID for Everything*](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/A_DID_for_everything.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/A_DID_for_everything.md)
-  - Shaun Conway, Andrew Hughes, Moses Ma, Jack Poole, Martin Riedel, Samuel M. Smith Ph.D., and Carsten Stöcker
-
-> The decentralized identifier (DID) is a new and open standard type of globally unique identifier that offers a model for lifetime-scope portable digital identity that does not depend on any centralized authority and that can never be taken away by third-parties. DIDs are supported by the W3C community and the Decentralized Identity Foundation (DIF). They are the "atomic units" of a new layer of decentralized identity infrastructure. However, DIDs can be extended from identifiers for people to any entity, thus identifying everything. We can use DIDs to help us identify and manage objects, machines, or agents through their digital twins; we can expand them to locations, to events, and even to pure data objects, which we refer to as decentralized autonomic data (DAD) items.
-
-> The paper will present novel use-cases for DIDs and DADs and propose a new cryptographic data structure that is a self-contained blockchain of DADs. This enables the verification of the provenance of a given data flow. It builds on a prior paper and an associated reading.
-
-* [*How to Convince Dad\* of the Importance of Self-Sovereign Identity*](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md)
-  - Shannon Appelcline, Kenneth Bok, Lucas Parker, Peter Scott, and Matthew Wong
-
-> One of the major problems with bootstrapping self-sovereign identity is that it requires adoption by a large number of people. Pushing self-sovereign identity from the top-down is most likely to result in a technology that’s not actually used, but instead encouraging the average person to demand self-sovereign identity from the bottom-up will result in the organic development of a vibrant, well-utilized decentralized web-of-trust ecosystem.
-
-> This paper addresses that need by offering arguments to a variety of people who might be reluctant to use self-sovereign identity, uninterested in its possibilities, or oblivious to the dangers of centralization. By focusing on the needs of real people, we hope to also encourage developers, engineers, and software business owners to create the apps that will address their reluctance and fulfill their needs, making self-sovereign identity a reality.
-
-* [*IPLD as a general pattern for DID documents and Verifiable Claims*](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/ipld-did.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/ipld-did.md)
-  - jonnycrunch, Anthony Ronning, Kim Duffy, Christian Lundkvist
-
-> Since the emergence of the Decentralized Identifier (DID) specification at the Fall 2016 Rebooting the Web of Trust [1], numerous DID method specifications have appeared. Each DID method specification defines how to resolve a cryptographically-tied DID document given a method-specific identifier. In this paper, we describe a way to represent the DID document as a content-addressed Merkle Directed Acyclic Graph (DAG) using Interplanetary Linked Data (IPLD). This technique enables more cost-efficient, scaleable creation of DIDs and can be applied across different DID method specifications.
-
-* [*Peer to Peer Degrees of Trust*](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/peer-to-peer-degrees-of-trust.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/peer-to-peer-degrees-of-trust.md)
-  - Harrison Stahl, Titus Capilnean, Peter Snyder, and Tyler Yasaka
-
-> Aunthenticity is a challenge for any identity solution. In the physical world, at least in America, it is not difficult to change one's identity. In the digital world, there is the problem of bots. The botnet detection market is expected to be worth over one billion USD by 2023, in a landscape where most digital activity is still heavily centralized. These centralized digital solutions have the advantage of being able to track IP addresses, request phone verification, and present CAPTCHAs to users in order to authenticate them. If this problem is so difficult to solve in the centralized world, how much more challenging will it be in the decentralized world, where none of these techniques are available?
-
-> In this paper, we explore the idea of using a web of trust as a tool to add authenticity to decentralized identifiers (DIDs). We define a framework for deriving relative trust degrees using a given trust metric: a "trustworthiness" score for a given identity from the perspective of another identity. It is our intent that this framework may be used as a starting point for an ongoing exploration of graph-based, decentralized trust. We believe this approach may ultimately be used as a foundation for decentralized reputation.
-
-* [*Resource Integrity Proofs*](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/resource-integrity-proofs.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/resource-integrity-proofs.md)
-  - Ganesh Annan and Kim Hamilton Duffy
-
-> Currently, the Web provides a simple yet powerful mechanism for the dissemination of information via links. Unfortunately, there is no generalized mechanism that enables verifying that a fetched resource has been delivered without unexpected manipulation. Would it be possible to create an extensible and multipurpose cryptographic link that provides discoverability, integrity, and scheme agility?
-
-> This paper proposes a linking solution that decouples integrity information from link and resource syntaxes, enabling verification of any representation of a resource from any type of link. We call this approach Resource Integrity Proofs (RIPs). RIPs provide a succinct way to link to resources with cryptographically verifiable content integrity. RIPs can be combined with blockchain technology to create discoverable proofs of existence to off-chain resources.
-
-* [*Use Cases and Proposed Solutions for Verifiable Offline Credentials*](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/offline-use-cases.pdf) [(Text)](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/final-documents/offline-use-cases.md)
-  - Michael Lodder, Samantha Mathews Chase, and Wolf McNally
-
-> In this paper we cover various scenarios where some or all parties have intermittent, unreliable, untrusted, insecure, or no network access, but require cryptographic verification (message protection and/or proofs). Furthermore, communications between the parties may be only via legacy voice channels. Applicable situations include marine, subterranean, remote expeditions, disaster areas, refugee camps, and high-security installations. This paper then recommends solutions for addressing offline deployments.
-
-###  Topics & Advance Readings [**^**](#contents)
-
+![](https://i.imgur.com/MCjnuJw.png)
 
 * [Addressing Global/Local Barriers to Adoption of Decentralized Identity Systems](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/Adoption.md) by Eric Brown
 * [Agent to Agent Communication Protocol Overview](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/a2a-comm-protocol-overview.md) by Kyle Den Hartog
@@ -661,9 +687,18 @@ The seventh Rebooting the Web of Trust design workshop, ran near Toronto, Canada
 
 
 
-## Complete Rebooting the Web of Trust Listing [**^**](#contents)
+## RWoT Github Listing [**^**](#contents)
 
-A different repository is available for each of the Rebooting the Web of Trust design workshops:
+* <a href="https://github.com/WebOfTrustInfo/self-sovereign-identity" target="_blank">/WebOfTrustInfo/self-sovereign-identity</a> - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
+* <a href="https://github.com/WebOfTrustInfo/website" target="_blank">/WebOfTrustInfo/website</a> - Website for http://www.WebOfTrust.info
+* <a href="https://github.com/WebOfTrustInfo/community-resilience" target="_blank">/WebOfTrustInfo/community-resilience</a> - Rebooting Web of Trust Community Resilience Team
+* <a href="https://github.com/WebOfTrustInfo/satyrn" target="_blank">/WebOfTrustInfo/satyrn</a> - A Markdown-based JavaScript Sandbox
+* <a href="https://github.com/WebOfTrustInfo/sss" target="_blank">/WebOfTrustInfo/sss</a> - Library for the Shamir secret sharing scheme
+  - Forked from dsprenkels/sss
+* <a href="https://github.com/WebOfTrustInfo/verifiable-news" target="_blank">/WebOfTrustInfo/verifiable-news</a> - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
+* <a href="https://github.com/WebOfTrustInfo/portable-reputation-toolkit" target="_blank">/WebOfTrustInfo/portable-reputation-toolkit</a>
+
+### Workshops [**^**](#contents)
 
 * [Rebooting the Web of Trust I: San Francisco (November 2015)](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust)
 * [Rebooting the Web of Trust II: ID2020 (May 2016)](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop)
@@ -673,6 +708,12 @@ A different repository is available for each of the Rebooting the Web of Trust d
 * [Rebooting the Web of Trust VI: Santa Barbara (March 2018)](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018)
 * [Rebooting the Web of Trust VII: Toronto (September 2018)](https://github.com/WebOfTrustInfo/rwot7-fall2018)
 
-## License
+
+## License [**^**](#contents)
 
 All of the contents of this directory are licensed [Creative Commons CC-BY](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/LICENSE-CC-BY-4.0.md) their contributors.
+
+## Home [**^**](#contents)
+
+* [infominer.id](https://infominer.id)
+* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decetralized-id)
