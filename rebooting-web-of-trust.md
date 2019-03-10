@@ -684,7 +684,9 @@ Here are the rest of the advance readings to date:
 * [Digital Identity for the Homeless](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/Digital-Identity-for-the-Homeless.md) by Matthew Wong, T. Tian & CG Chen
 * [Zero Trust Computing with DIDs and DADs](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/ZeroTrustComputingWithDidsAndDads.md) by Samuel M. Smith
 
+## License [**^**](#contents)
 
+Unless otherwise noted, all RWoT Completed Papers, Topics and Advance Readings are licensed [Creative Commons CC-BY](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/LICENSE-CC-BY-4.0.md).
 
 
 ## RWoT Github Listing [**^**](#contents)
@@ -709,9 +711,6 @@ Here are the rest of the advance readings to date:
 * [Rebooting the Web of Trust VII: Toronto (September 2018)](https://github.com/WebOfTrustInfo/rwot7-fall2018)
 
 
-## License [**^**](#contents)
-
-All of the contents of this directory are licensed [Creative Commons CC-BY](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/LICENSE-CC-BY-4.0.md) their contributors.
 
 ## Home [**^**](#contents)
 
