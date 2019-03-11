@@ -247,11 +247,11 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 ## Directory
 Other files and folders within this repository:
 
-* [SSI\DID History](/history.md)
-* [Self-Sovereign-Identity](/self-sovereign-identity)
-* [Literature](/literature) - Research and Reports
-  * [Rebooting-Web-of-Trust](/literature/Rebooting-Web-of-Trust) 
-* [Media](/asst-media) - Video, Podcasts and Slideshare
+* [SSI\DID History](history.md)
+* [Self-Sovereign-Identity](self-sovereign-identity)
+* [Literature](literature) - Research and Reports
+  * [Rebooting-Web-of-Trust](rebooting-web-of-trust.md) 
+* [Media](asst-media) - Video, Podcasts and Slideshare
 * [Indy Ecosystem](indy-ecosystem)
     * [Indy Github Repositories](indy-ecosystem/indy-github.md)
     * [Literature](indy-ecosystem/literature.md)
