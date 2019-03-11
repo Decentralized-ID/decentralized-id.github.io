@@ -164,6 +164,10 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 ![](https://i.imgur.com/5qc1qrG.png)\
 <sup><a href="http://ssimeetup.org/decentralized-key-management-dkms-essential-missing-piece-ssi-puzzle-drummond-reed-webinar-8/">DKMS - An Essential Missing Piece of the SSI Puzzle. Drummond Reed. SSIMeetup.org</a></sup>
 
+* <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY" target="_blank">Microsoft- Decentralized Identity — Own and Control Your Identity.</a>
+![](https://i.imgur.com/ozOLCuW.png)
+
+
 ### Learning Machine [**^**](#contents) 
 
 [Learning Machine](https://www.learningmachine.com/)
@@ -248,14 +252,13 @@ Other files and folders within this repository:
 * [Literature](/literature) - Research and Reports
   * [Rebooting-Web-of-Trust](/literature/Rebooting-Web-of-Trust) 
 * [Media](/asst-media) - Video, Podcasts and Slideshare
-* [Hyperledger Global Forum - 2018](hyperledger/hgf-2018)
-* [Indy Ecosystem](hyperledger/indy-ecosystem)
+* [Indy Ecosystem](indy-ecosystem)
     * [Indy Github Repositories](indy-ecosystem/indy-github.md)
     * [Literature](indy-ecosystem/literature.md)
     * [Adoption](indy-ecosystem/adoption.md)
     * [Sovrin Foundation](indy-ecosystem/sovrin.foundation.md)
     * [VON](indy-ecosystem/VON.md)
-* [Hyperledger Global Forum](hyperledger/hgf-2018)
+* [Hyperledger Global Forum](hgf-2018)
 * [Decentralized Identity Foundation—DIF](identity-foundation)
 * [Ethereum](ethereum)
 * [State Sponsored](state-sponsored)
