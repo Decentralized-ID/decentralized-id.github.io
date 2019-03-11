@@ -249,23 +249,24 @@ Other files and folders within this repository:
 
 * [SSI\DID History](history.md)
 * [Self-Sovereign-Identity](self-sovereign-identity)
-* [Literature](literature) - Research and Reports
+* [Identity Related GitHub Repositories](github/)
+* [Literature](literature/) - Research and Reports
   * [Rebooting-Web-of-Trust](rebooting-web-of-trust.md) 
-* [Media](asst-media) - Video, Podcasts and Slideshare
-* [Indy Ecosystem](indy-ecosystem)
+* [Media](asst-media/) - Video, Podcasts and Slideshare
+* [Indy Ecosystem](indy-ecosystem/)
     * [Indy Github Repositories](indy-ecosystem/indy-github.md)
     * [Literature](indy-ecosystem/literature.md)
     * [Adoption](indy-ecosystem/adoption.md)
     * [Sovrin Foundation](indy-ecosystem/sovrin.foundation.md)
     * [VON](indy-ecosystem/VON.md)
-* [Hyperledger Global Forum](hgf-2018)
-* [Decentralized Identity Foundation—DIF](identity-foundation)
-* [Ethereum](ethereum)
-* [State Sponsored](state-sponsored)
-* [IBM](ibm)
-* [Microsoft](microsoft)
-* [Humanitarian](humanitarian)
-* [GDPR](gdpr)
+* [Hyperledger Global Forum](hgf-2018/)
+* [Decentralized Identity Foundation—DIF](identity-foundation/)
+* [Ethereum](ethereum/)
+* [State Sponsored](state-sponsored/)
+* [IBM](ibm/)
+* [Microsoft](microsoft/)
+* [Humanitarian](humanitarian/)
+* [GDPR](gdpr/)
 
 ## Sources [**^**](#contents)
 * [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**ϟ**](https://www.slideshare.net/SSIMeetup/presentations/)] 
