@@ -41,99 +41,46 @@ Fall: October 01, 2019 – October 03, 2019
 
 ![](https://i.imgur.com/gIbUsDQ.png)
 
-## W3C
+## Danube
 
->The [World Wide Web Consortium (W3C)](https://www.w3.org/Consortium/) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards. Led by Web inventor and Director Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to lead the Web to its full potential.
+* [Danube Tech](http://danubetech.com/) — digital identity and personal data, including personal agents, semantic graphs, and blockchain ([**xdi**](https://xdi2.org)) ([**navigator**](https://github.com/projectdanube/xdi2))
+   * Founded by [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**T**](https://twitter.com/peacekeeper)] [[**G**](https://github.com/peacekeeper)] [[**B**](https://medium.com/@markus.sabadello)]
 
-* <a href="https://lists.w3.org/Archives/Public/public-vc-wg/" target="_blank">Verifiable Claims WG - Mailing List</a> (and archives)
-* <a href="http://lists.w3.org/Archives/Public/public-credentials/" target="_blank">Public mailing list for the Credentials Community Group</a> (and archives) - Anyone may read or write to this list.
-* <a href="https://github.com/opencreds/website" target="_blank">/opencreds/website</a> - The Open Credentials Website
-* <a href="https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io" target="_blank">/w3c-dvcg/w3c-dvcg.github.io</a> - Landing site for W3C Digital Verification Community Group.
+## Blockstack [**^**](#contents) 
+![](https://i.imgur.com/ZZx8lfR.png)
+* [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper • [[**bitcoinwiki**](https://en.bitcoinwiki.org/wiki/BlockStack)]
+* a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
+* [Extending Existing Blockchains with Virtualchain](https://www.zurich.ibm.com/dccl/papers/nelson_dccl.pdf)
+* [Onename](https://onename.com/) — "a product built on Blockstack that allows people to register identities"
+* [Blockstack DID Spec](https://github.com/blockstack/blockstack-core/blob/master/docs/blockstack-did-spec.md)[**[ϟ](https://forum.blockstack.org/t/did-method-at-identity-foundation/4287/9)**]
+* [App Mining](https://app.co/mining)
+* [/dantrevino/awesome-blockstack](https://github.com/dantrevino/awesome-blockstack) [[**ϟ**](https://gitlab.com/dantrevino/awesome-blockstack)]
+
+## Democracy Earth [**^**](#contents) 
+![](https://i.imgur.com/KxbXb1t.png)
+* [Democracy Earth Foundation](http://democracy.earth/) [[**G**](https://github.com/DemocracyEarth/)][[**B**](https://words.democracy.earth/)][[**T**](https://twitter.com/DemocracyEarth)][[**C**](http://chat.democracy.earth/)] - Crypto Governance
+   * [Sovereign](http://sovereign.software/)[[**G**](https://github.com/DemocracyEarth/sovereign)], a blockchain direct democracy tool using "vote" tokens to grant democratic participation rights to every human. A proof-of-individuality (POI) process based on peer-to-peer validation establishes that a self-sovereign identity is uniquely tied to a single person. Cooperation is happening with other decentralized identity initiatives such as Blockstack and uPort.
+* [The Social Smart Contract](https://github.com/DemocracyEarth/paper#The_Social_Smart_Contract)[[**ϟ**](https://www.dropbox.com/s/sifogl4zimwkkei/Democracy%20Earth%20-%20Social%20Smart%20Contract%20-%20Paper%20v0.2.pdf?dl=0)] An Initial Rights Offering from Democracy Earth Foundation.
+* [December App-Mining Results](https://words.democracy.earth/decembers-app-mining-results-are-live-7bd2b4f2390)
+* [Yellow Jackets on the Sovereign Platform](https://words.democracy.earth/yellow-jackets-on-the-sovereign-platform-bdebe6d62ae1)
+* [Meet the Dad Who Registered His Daughter’s Birth on the Blockchain](https://www.coindesk.com/meet-the-dad-who-registered-his-daughters-birth-on-the-blockchain) [[**ϟ**](https://www.coindesk.com/humans-on-the-blockchain-why-crypto-is-the-best-defense-against-ai-overlords)]
+* Token: [Sale](https://token.democracy.earth/) • [Economics](https://www.dropbox.com/s/8q35dvht2hkfvqa/Democracy%20Earth%20-%20Token%20Economics.pdf?dl=0) • [testnet](https://votest.democracy.earth/)
+>we worked with councils, senates, non profits, student centers, political parties, corporations.. but implementing real digital governance at scale really took off with crypto networks. our partnership with @blockstack is our biggest milestone of 2018. -[Santi](https://twitter.com/santisiri/status/1076259390154592256)
 
 
-## Decentralized Identity Foundation
 
-![](https://imgur.com/PXGV6Xyl.png)
+## Blockpass [**^**](#contents) 
+  <img src="https://imgur.com/mMZ4E2rl.png" />
 
-* [Decentralized Identity Foundation](https://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**B**](https://medium.com/decentralized-identity)] 
-  >A key piece of the decentralized identity equation is how people, organizations, and devices can be identified and located without centralized systems of identifiers (e.g. email addresses). DIF members are actively working on protocols and implementations that enable creation, resolution, and discovery of decentralized identifiers and names across decentralized systems, like blockchains and distributed ledgers.
+* [Blockpass](https://www.blockpass.org/) [[**T**](https://twitter.com/BlockpassOrg)] [[**wp**](https://www.blockpass.org/downloads/BlockpassWhitepaper.v1.3.3.pdf)]
+  * [Edinburgh Identity Lab](https://identity-lab.blockpass.org/) [[**ϟ**](https://www.newsbtc.com/2018/09/28/worlds-first-blockchain-identity-lab-launched-today-in-edinburgh/)]
 
-DIF members, who share the goal of “building an open source decentralized identity ecosystem for people, organizations, apps, and devices” include: 
-  * [1kosmos](https://onekosmos.com/product-details/) 
-• [Accenture](https://www.accenture.com/us-en/insight-blockchain-id2020) 
-• [aetna](https://www.aetna.com/) 
-• [Authenteq](https://venturebeat.com/2018/08/30/authenteq-launches-blockchain-identity-verification-to-stop-online-trolls/) 
-• [auth0](https://auth0.com/) 
-• [BigchainDB](http://docs.bigchaindb.com/en/latest/)
-• [BlockPass](https://www.blockpass.org/downloads/BlockpassWhitepaper.v1.3.2.pdf) 
-• [Blockchain-foundry](https://www.blockchainfoundry.co/blockchain-foundry-inc-announces-new-software-release-for-blockchain-based/) 
-• [Blockstack](https://github.com/blockstack/blockstack-core/blob/feature/docs-bns/docs/blockstack_naming_service.md#decentralized-identifiers-dids) 
-• [British Columbia Ministry of Citizens Services](https://vonx.io/about/) 
-• [botlabs](https://botlabs.org/) 
-• [Civic](https://www.civic.com/solutions/kyc-services/) 
-• [Consent](https://sovrin.org/steward/global-consent/) 
-• [Danube](https://github.com/projectdanube/xdi2) 
-• [datum](https://datum.org/) 
-• [Distributed ID](https://www.diid.io/) 
-• [diwala](https://diwala.io/) 
-• [Dominode](https://dominode.com/) 
-• [Enigma](https://blog.enigma.co/off-chain-identity-claims-with-enigma-2d5b23c31f92) 
-• [Enterprise Ethereum Alliance](https://entethalliance.org/participate/working-groups/) 
-• [Evernym](https://www.evernym.com/wp-content/uploads/2017/07/What-Goes-On-The-Ledger.pdf) 
-• [Equinix](https://www.equinix.com/) 
-• [gamecredits](https://medium.com/@gamecredits/introducing-blinking-blink-identity-management-on-the-blockchain-9258c7d76a8d)[[**ϟ**](https://blinking.id)] 
-• [Gem](https://epicenter.tv/episode/207/) 
-• [GS1](https://www.gs1.org/standards/id-keys) 
-• [Humanized-internet](https://www.thehumanizedinternet.org/) 
-• [Hyperledger](https://github.com/hyperledger/indy-sdk/blob/master/doc/getting-started/getting-started.md) 
-• [ID2020](https://id2020.org/manifesto/) 
-• [Ideo](https://medium.com/ideo-colab/a-framework-for-identity-f7f072829cbb) 
-• [identos](https://identos.com/) 
-• [IBM](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/) 
-• [IOTA](https://medium.com/@iotasuppoter/iota-the-case-of-decentralized-digital-identity-de7b95042c12) 
-• [Jolocom](https://stories.jolocom.com/jolocom-brings-blockchain-identity-to-privacy-week-berlin-acdaee665f0) 
-• [KYC-Chain](https://kyc-chain.com/) 
-• [LNk-E](https://lnketech.com/) 
-• [Mastercard](https://newsroom.mastercard.com/press-releases/mastercard-microsoft-join-forces-to-advance-digital-identity-innovatioeuns/) 
-• [Meeco](https://meeco.me/) 
-• [MetaX](https://adtoken.com/uploads/white-paper.pdf) 
-• [Microsoft](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY) 
-• [Mooti](https://mooti.co/) 
-• [netki](https://bravenewcoin.com/insights/netki-launches-digital-id-solution-which-bitt-is-using-with-central-banks-in-the-caribbean) 
-• [NuID](https://nuid.io/pdfs/solution-overview.pdf) 
-• [Nuggets](https://www.mobilepaymentstoday.com/news/identity-and-payments-platform-nuggets-partners-with-iot-company/) 
-• [Ockam](https://www.ockam.io/) 
-• [Onfido](https://onfido.com/) 
-• [ONTology](https://ont.io/) 
-• [Pillar](https://pillarprojectfoundation.org/blog/announcing-the-pillar-project/) 
-• [R_Block](https://zinc.work/) 
-• [R3](https://www.gemalto.com/press/pages/gemalto-and-r3-pilot-blockchain-technology-to-put-users-in-control-of-their-digital-id.aspx) 
-• [remme](https://remme.io/features) 
-• [RSA](https://www.rsa.com/en-us/research-and-thought-leadership/rsa-labs) 
-• [SecureKey](https://www.ibm.com/blogs/blockchain/2018/05/self-sovereign-identity-our-recent-activity-as-a-sovrin-steward/) 
-• [\<sitekit>](https://www.sitekit.net/) 
-• [Sovrin](https://github.com/sovrin-foundation/sovrin/blob/master/spec/did-method-spec-template.html) 
-• [suru](https://surugroup.com/philosophy/suru-identity/) 
-• [Taqanu](https://www.taqanu.com/) 
-• [Tierion](https://medium.com/tierion/tierion-network-update-january-19-2018-fa88c6bee69f) 
-• [Trusted key](https://www.trustedkey.com/) 
-• [uPort](https://github.com/uport-project/ethr-did/blob/develop/docs/index.md) 
-• [Validatedid](https://www.validatedid.com/vidchain-the-future-of-digital-identity/) 
-• [Veridium](https://www.veridiumid.com/) 
-• [zinc](https://tykn.tech/project-zinc/) 
 
-### DIF - Work
+## Handshake [**^**](#contents)
 
-* <a href="https://github.com/decentralized-identity/org" target="_blank">DIF Organizational Materials</a>
-* [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
-  * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
-* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
-  * [uniresolver.io](https://uniresolver.io/)
-* [6/27 Masterclass on the DID Universal Resolver | Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
+<img src="https://i.imgur.com/lhHnC8w.png"/>
 
-**>>** [DIF GitHub Repositories](github/README.md#decentralized-identity---dif) **>>**
-
-## Ethereum
+* [Handshake](https://handshake.org) [[**wp**](https://handshake.org/files/handshake.txt)] [[**D**](https://handshake-org.github.io/)] - Handshake is a UTXO-based blockchain protocol which manages the registration, renewal and transfer of DNS top-level domains (TLDs). Our naming protocol differs from its predecessors in that it has no concept of namespacing or subdomains at the consensus layer. Its purpose is not to replace DNS, but to replace the root zone file and the root servers.
 
 
 
@@ -149,4 +96,32 @@ Anyone deals with or who wants to deal with Self-Sovereign Identity. This includ
 Our Principles
 What can I/we do?
 Anything to support the cause – please get in touch and we will try to find a way to make it happen as we build the community.
+
+## Blockchain ID
+
+* [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e) [[**ϟ**](https://www.wired.com/story/coinbase-distributed-systems-acquisition/)]
+* [Shocard](https://shocard.com/) — "Blockchain-Based Mobile Identity Platform" [[**ϟ**](https://medium.com/shocard/why-shocard-is-the-premier-blockchain-based-mobile-identity-platform-6fad15410106)]
+* [Authenteq](http://authenteq.com/) [[**T**](https://twitter.com/authenteq)] [[**G**](https://github.com/authenteq)]
+  * enables users to create their own sovereign digital IDs which are stored encrypted on [BigChainDB](http://docs.bigchaindb.com)
+* [JLinc](https://www.jlinc.com/) — registers cryptographic public keys on the Stellar blockchain. 
+   > "The founders have been at the center of a community of developers working on “user-centric digital identity for almost two decades."
+* [Civic](https://www.civic.com/) launches: [identity.com](https://identity.com)[[**G**](https://github.com/identity-com/)][[**B**](https://www.civic.com/blog/identity-com-first-open-source-update/)][[**wp**](https://tokensale.civic.com/CivicTokenSaleWhitePaper.pdf)][[**ϟ**](https://www.theblockcrypto.com/2018/12/21/civics-token-illustrates-why-companies-masquerading-tokens-will-fail/)]
+  * [Dapp Framework Melo One to use Civic](https://www.cryptoninjas.net/2018/08/30/dapp-framework-menlo-one-to-use-civic-for-blockchain-identity-verification/)
+  * [Brave Civic Partnership](https://brave.com/brave-civic-partnership/)
+* [I/O Digital Foundation](https://iodigital.io/) [**[**wp**](https://simplebooklet.com/iocoinwhitepaper#page=0)**]
+   * "offers a Proof-of-Stake blockchain called Decentralised Input Output Name Server (DIONS). It will enable applications such as identity and alias registration, storage of legal documents, key exchange, and encrypted messaging."
+* [Gemalto and R3 pilot blockchain for SSID](https://www.cryptoninjas.net/2018/09/18/gemalto-and-r3-pilot-blockchain-technology-for-self-sovereign-digital-id-network/#.W6drpckvGLU.twitter)
+
+# Personal Data Wallets & Marketplaces
+
+![](https://i.imgur.com/jHwsWIx.png)
+
+* [Pillar Project](http://pillarproject.io)  [[**wp**](https://pillarproject.io/documents/Pillar-Gray-Paper.pdf)]
+   * planning to offer a "Personal Data Locker" consisting of a wallet, browser, and token exchange. Personal assets will be put on a blockchain, and "Pillar" tokens will be issued."
+* [Datum](https://datum.org) [[**wp**](https://datum.org/assets/Datum-WhitePaper.pdf)]
+   * "network allows anyone to store structured data on a smart contract blockchain. Data can optionally be bought and sold on a marketplace using the DAT token. Datum leverages BigchainDB and IPFS as data storage backends. All data is encrypted and protected using AES256-GCM.
+* [ONTology](https://ont.io/) [[**G**](https://github.com/ontio/ontology-DID)]— "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
+* [Pro-civis](https://procivis.ch) — "e-government as a service" platform called "eID+". It enables citizens to get an official, electronic Citizen-ID on a mobile app. 
+   * The platform includes the [Vetri](https://vetri.global/) wallet and marketplace. 'Earn extra income and rewards by joining the data economy.'"
+* [We can do better than selling our data](http://blogs.harvard.edu/doc/2018/09/18/data/)-Doc Searls(*IIW*)
 
