@@ -26,20 +26,22 @@
     * [ERC 725 - 735](#erc-725---735-)
     * [ERC Other](#erc-other-)
   * [Schema](#schema-)
+  * [Assorted Thought Around Identity](#assorted-thought-around-identity)
 * [DID Adoption](#did-adoption-)
 * [Directory](#directory) 
   * [SSI\DID History](history.md)
   * [Self Sovereign Identity](self-sovereign-identity)
-  * [Literature](literature)
-    * [Rebooting Web of Trust](literature/Rebooting-Web-of-Trust)
-  * [Media](asst-media) - Video, Podcasts and Slideshare  
-  * [Indy-Sovrin-Evernym](indy-sovrin-evernym/)
-  * [Decentralized Identity Foundation—DIF](identity-foundation)
+  * [Identity Related GitHub Repositories](identity-github.md)
+  * [Literature](literature.md)
+  * [Rebooting Web of Trust](rebooting-web-of-trust.md)
+  * [Media](assorted-media.md) - Video, Podcasts and Slideshare  
+  * [Indy Ecosystem](indy-ecosystem/)
+  * [Decentralized Identity Foundation—DIF](identity-foundation.md)
   * [Ethereum](ethereum)
-  * [State Sponsored](state-sponsored)
-  * [IBM](ibm)
-  * [Microsoft](microsoft)
-  * [Humanitarian](humanitarian)
+  * [State Sponsored](state-sponsored.md)
+  * [IBM](ibm.md)
+  * [Microsoft](microsoft.md)
+  * [Humanitarian](humanitarian.md)
   * [GDPR](gdpr)
 * [Sources](#sources-)
 
@@ -98,10 +100,14 @@ It's impossible to have a conversation about decentralized-id without discussing
 ![](https://imgur.com/Lz6RTysl.png)
 
 * [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
+  >The [World Wide Web Consortium (W3C)](https://www.w3.org/Consortium/) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards. Led by Web inventor and Director Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to lead the Web to its full potential.
+* <a href="https://lists.w3.org/Archives/Public/public-vc-wg/" target="_blank">Verifiable Claims WG - Mailing List</a> (and archives)
 * [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
+* <a href="http://lists.w3.org/Archives/Public/public-credentials/" target="_blank">Public mailing list for the Credentials Community Group</a> (and archives) - Anyone may read or write to this list.
+* <a href="https://github.com/opencreds/website" target="_blank">/opencreds/website</a> 
+  * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
+* <a href="https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io" target="_blank">/w3c-dvcg/w3c-dvcg.github.io</a> - Landing site for W3C Digital Verification Community Group. [<a href="https://www.w3.org/community/digital-verification/">**W**</a>]
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
-* [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
-* [DIGITAL VERIFICATION COMMUNITY GROUP](https://www.w3.org/community/digital-verification/)[[**G**](https://sea-region.github.com/w3c-dvcg)]
 
 ![](https://imgur.com/6MLNgXal.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
@@ -200,6 +206,18 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 ### Schema [**^**](#contents)
 * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
 
+## Assorted Thought around Identity [**^**](#contents)
+* [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
+   >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
+   * [Maciek Laskus | BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
+   * "I designed an algorithm that mapped out people [working on identity](https://twitter.com/MaciekLaskus/status/1066780557906976768) using Twitter data:" [Identity list](https://docs.google.com/spreadsheets/d/1hBBVA0-jqmRRZ_JFQ8HEck9tFub7crsqRzlBZWf01xg/edit?usp=sharing)
+* [Proof of Thought (PoT)](https://bitcointalk.org/index.php?topic=4459113.0)
+* [Queer Privacy](https://leanpub.com/queerprivacy)
+   >Stories about using the Internet as a tool to find out more about yourself, and as a tool to express and empower; about the dangers of Internet censorship and about the practical realities of maintaining multiple distinct digital identities. 
+* [@SarahJamieLewis Twitter thread on Identity](https://twitter.com/SarahJamieLewis/status/1041043532654542848)
+   >Any technology which relies on the existence of, or attempts to create a, global, unique identity is oppressive by design. Stop" innovating" oppressive structures.
+
+
 ## DID Adoption [**^**](#contents)
 
 **[DID Method Registry](https://w3c-ccg.github.io/did-method-registry/#the-registry)**
@@ -244,29 +262,31 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 
 2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
 
-## Directory
+## Directory [**^**](#contents)
 Other files and folders within this repository:
 
 * [SSI\DID History](history.md)
-* [Self-Sovereign-Identity](self-sovereign-identity)
-* [Identity Related GitHub Repositories](github/)
+* [Self Sovereign Identity](self-sovereign-identity)
+* [Identity Related GitHub Repositories](identity-github.md)
 * [Literature](literature/) - Research and Reports
-  * [Rebooting-Web-of-Trust](rebooting-web-of-trust.md) 
-* [Media](asst-media/) - Video, Podcasts and Slideshare
+* [Rebooting-Web-of-Trust](rebooting-web-of-trust.md) 
+* [Media](assorted-media.md) - Video, Podcasts and 
 * [Indy Ecosystem](indy-ecosystem/)
-    * [Indy Github Repositories](indy-ecosystem/indy-github.md)
-    * [Literature](indy-ecosystem/literature.md)
-    * [Adoption](indy-ecosystem/adoption.md)
-    * [Sovrin Foundation](indy-ecosystem/sovrin.foundation.md)
-    * [VON](indy-ecosystem/VON.md)
+  * [Indy Github](indy-ecosystem/indy-github.md)
+  * [Literature](indy-ecosystem/literature.md)
+  * [Adoption](indy-ecosystem/adoption.md)
+  * [Sovrin Foundation](indy-ecosystem/sovrin.foundation.md)
+    [VON](indy-ecosystem/VON.md)
 * [Hyperledger Global Forum](hgf-2018/)
-* [Decentralized Identity Foundation—DIF](identity-foundation/)
+* [Decentralized Identity Foundation—DIF](identity-foundation.md)
 * [Ethereum](ethereum/)
-* [State Sponsored](state-sponsored/)
-* [IBM](ibm/)
-* [Microsoft](microsoft/)
-* [Humanitarian](humanitarian/)
-* [GDPR](gdpr/)
+* [State Sponsored](state-sponsored.md)
+* [IBM](ibm.md)
+* [Microsoft](microsoft.md)
+* [Humanitarian](humanitarian.md)
+* [GDPR](gdpr.md)
+
+
 
 ## Sources [**^**](#contents)
 * [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**ϟ**](https://www.slideshare.net/SSIMeetup/presentations/)] 
