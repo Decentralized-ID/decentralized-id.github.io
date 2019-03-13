@@ -6,6 +6,8 @@
 **Note: becoming [decentralized-id.com](https://decentralized-id.com)** 
   >See [/decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io)
 
+For now, however, this is still home and best maintained.
+
 ## Contents
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**^**](#contents)] back to the contents.
@@ -28,8 +30,8 @@
     * [ERC 725 - 735](#erc-725---735-)
     * [ERC Other](#erc-other-)
   * [Schema](#schema-)
-  * [Assorted Thought Around Identity](#assorted-thought-around-identity)
 * [DID Adoption](#did-adoption-)
+* [Assorted Thought Around Identity](#assorted-thought-around-identity)
 * [Directory](#directory) 
   * [SSI\DID History](history.md)
   * [Self Sovereign Identity](self-sovereign-identity)
@@ -211,6 +213,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
 
 ## Assorted Thought around Identity [**^**](#contents)
+* [Is putting hashed PII on any immutable ledger(blockchain) is a bad Idea](https://identitywoman.net/putting-hashed-pii-immutable-ledgerblockchain-bad-idea/)
 * [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
    >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
    * [Maciek Laskus - BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
