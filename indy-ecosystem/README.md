@@ -147,12 +147,11 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ---
 
-### Contact Me for Research Based Content—[infominer.id](https://infominer.id)
-<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
+## [infominer.id](https://infominer.id)  ([**^**](#contents))
 
-Check out the [Crypto SuperSource Discord Server](https://discord.gg/ahTuPMY), if you'd like to chat or discover our other crypto-resources.
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
-**Tips Welcome**
+**Tips Jar**
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
