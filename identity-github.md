@@ -28,6 +28,10 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
     * [Linked Data](#ccg----linked-data-)
   * [Digital Verification Community Group](#digital-verification-community-group-)
   * [OpenCreds](#opencreds-)
+* [Spidchain](#spidchain-)
+  * [BTCR](#spid-btcr-)
+  * [Ethereum](#spid-ethereum-)
+  * [Hackathon](#spid-hackathon-)
 * [Ethereum](#ethereum-)
   * [Assorted Ethereum Apps](#assorted-ethereum-apps)
 * [uPort](#uport-)
@@ -281,6 +285,63 @@ Linked Data Proofs Specification
 * <a href="https://github.com/opencreds/minutes" target="_blank">/opencreds/minutes</a> - 
 Text and audio meeting minutes for W3C Credentials Community Group
 
+## Spidchain [**^**](#contents)
+
+* [Spidchain.com](http://www.spidchain.com/) -Blockchain for Self Sovereign Identity
+
+### Spid Bitcoin [**^**](#contents)
+* <a href="https://github.com/SpidChain/spidchain-btcr" target="_blank">/SpidChain/spidchain-btcr</a> - An implementation of the btcr standard for self sovereign distributed digital identity
+* <a href="https://github.com/SpidChain/electrumx" target="_blank">/SpidChain/electrumx</a> Forked from kyuupichan/electrumx
+  - Alternative implementation of spesmilo/electrum-server
+* <a href="https://github.com/SpidChain/btcr-spv" target="_blank">/SpidChain/btcr-spv</a> - Poc of an SPV implementation of BTCR
+* <a href="https://github.com/SpidChain/satoshis-wheel-of-fortune" target="_blank">/SpidChain/satoshis-wheel-of-fortune</a> - Pick a name from a list randomly in a provably honest way
+* <a href="https://github.com/SpidChain/txref-conversion-js" target="_blank">/SpidChain/txref-conversion-js</a> - Forked from WebOfTrustInfo/txref-conversion-js
+  - Javascript library for converting txids to txrefs and back
+
+
+### Spid Ethereum [**^**](#contents)
+* <a href="https://github.com/SpidChain/eth-lightwallet" target="_blank">/SpidChain/eth-lightwallet</a> - Forked from ConsenSys/eth-lightwallet
+  - Lightweight JS Wallet for Node and the browser
+* <a href="https://github.com/SpidChain/truffle" target="_blank">/SpidChain/truffle</a> - Forked from trufflesuite/truffle
+  - A development framework for Ethereum
+* <a href="https://github.com/SpidChain/VotingSystem" target="_blank">/SpidChain/VotingSystem</a> - A dapp, library and smart contract to notarize votes on the ethereum blockchain
+* <a href="https://github.com/SpidChain/ethers-wallet" target="_blank">/SpidChain/ethers-wallet</a> - Forked from ethers-io/ethers.js
+  - Complete Ethereum wallet implementation and library in JavaScript.
+* <a href="https://github.com/SpidChain/nodejs-ethereum" target="_blank">/SpidChain/nodejs-ethereum</a> - Forked from b9lab/nodejs-ethereum
+Example of using NodeJs with Ethereum
+
+### Spid Hackathon [**^**](#contents)
+* <a href="https://github.com/SpidChain/chainpass" target="_blank">/SpidChain/chainpass</a> - App for Trenitalia hackathon - 09 / 16 / 2017 - Rome
+* <a href="https://github.com/SpidChain/vipPrice" target="_blank">/SpidChain/vipPrice</a> - #internationalhackathon #spidchain
+
+### Democracy Earth [**^**](#contents)
+
+* <a href="https://github.com/democracyearth/self" target="_blank">/democracyearth/self</a> - Cryptgraphic peer authentication.
+  >We keep the identity 100% in the hands of the user. We took the decentralization approach to create a login protocol and Cryptography (SHA-256 hash function) to ensure security and identity. We allow users to show the information that they want, when they want and to they want.
+* <a href="https://github.com/democracyearth/sovereign" target="_blank">/democracyearth/sovereign</a> - earth_americas Blockchain democracy.
+* <a href="https://github.com/democracyearth/paper" target="_blank">/democracyearth/paper</a> - On decentralized digital democracy.
+* <a href="https://github.com/democracyearth/community." target="_blank">/democracyearth/community.</a> - earth_americas Be an Ambassador or Student Ambassador anywhere in the world.
+* <a href="https://github.com/democracyearth/vote" target="_blank">/democracyearth/vote</a> - Smart contracts for vote token.
+* <a href="https://github.com/democracyearth/dapp" target="_blank">/democracyearth/dapp</a> - Liquid democracy smart contract implementation
+* <a href="https://github.com/democracyearth/blockchain" target="_blank">/democracyearth/blockchain</a> - A block chain for democracy.
+* <a href="https://github.com/democracyearth/handbook" target="_blank">/democracyearth/handbook</a> - Forked from loomio/loomio-coop-handbook
+  - Handbook for Democracy Earth Foundation
+* <a href="https://github.com/democracyearth/press-kit" target="_blank">/democracyearth/press-kit</a> - A set of resources about the Democracy Earth Foundation to share with journalists and media.
+* <a href="https://github.com/democracyearth/exodus" target="_blank">/democracyearth/exodus</a> - Smart contracts enabling a Universal Basic Income for self-sovereign citizens earth_americas
+* <a href="https://github.com/democracyearth/party" target="_blank">/democracyearth/party</a> -  horse Trojan political party.
+* <a href="https://github.com/democracyearth/balance-keeper" target="_blank">/democracyearth/balance-keeper</a> - token balance keeper daemon.
+* <a href="https://github.com/democracyearth/dapp" target="_blank">/democracyearth/dapp</a> - Liquid democracy smart contract implementation
+* <a href="https://github.com/democracyearth/DesignSystem" target="_blank">/democracyearth/DesignSystem</a>
+* <a href="https://github.com/democracyearth/vzla-propone-cambio" target="_blank">/democracyearth/vzla-propone-cambio</a> - venezuelaVenezuela sera libre
+* <a href="https://github.com/democracyearth/advocacy" target="_blank">/democracyearth/advocacy</a> - Toolkit with static and live documents that will concentrate relevant information aimed at advocacy efforts for liquid democracy around the world.
+* <a href="https://github.com/democracyearth/protocol" target="_blank">/democracyearth/protocol</a> - Forked from arikan/bitcoin-voting
+  - bulb Cryptocurrency voting schema.
+* <a href="https://github.com/democracyearth/dips" target="_blank">/democracyearth/dips</a> - Democracy Improvement Proposals
+* <a href="https://github.com/democracyearth/micropayment-voting" target="_blank">/democracyearth/micropayment-voting</a> - eagle Vote as bitcoin micropayment.
+* <a href="https://github.com/democracyearth/concept" target="_blank">/democracyearth/concept</a> - Forked from makingdevs/mecate-democra
+
+
+
 ## Ethereum [**^**](#contents)
 * [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
 * [ERC-1484: Digital Identity Aggregator #1495](https://github.com/ethereum/EIPs/issues/1495) —A protocol for aggregating digital identity information that's broadly interoperable with existing, proposed, and hypothetical future digital identity standards.
@@ -295,7 +356,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 
 ### Assorted Ethereum Apps [**^**](#contents)
 
-<a href="https://github.com/XLNT/meirl" target="_blank">/XLNT/meirl> - Counterfactual and Upgradable Self-Sovereign Identity for Ethereum, using Gnosis Safe
+<a href="https://github.com/XLNT/meirl" target="_blank">/XLNT/meirl</a> - Counterfactual and Upgradable Self-Sovereign Identity for Ethereum, using Gnosis Safe
 
 ## uPort [**^**](#contents)
 
@@ -564,6 +625,21 @@ Hyperledger Indy Project Enhancements
 * [/indy-crypto](https://github.com/hyperledger/indy-crypto) - shared crypto library for Hyperledger Indy components. To be:
 * [/ursa](https://github.com/hyperledger/ursa) [[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)][[**ϟ**](https://www.coindesk.com/hyperledger-launches-cryptography-toolbox-for-blockchain-developers)] 
   > "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the shared library will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram) [[**wiki**](https://wiki.hyperledger.org/projects/ursa)]
+
+### IDChain [**^**](#contents)
+
+* <a href="https://github.com/ID-Chain/IEA-API" target="_blank">/ID-Chain/IEA-API</a> - Institutional Edge Agent Generic API
+* <a href="https://github.com/ID-Chain/Common" target="_blank">/ID-Chain/Common</a> - Common Repository for IdentityChain Project
+* <a href="https://github.com/ID-Chain/tlabshack" target="_blank">/ID-Chain/tlabshack</a> - Repository to hold files for the tlabshack hackathon
+* <a href="https://github.com/ID-Chain/ID-Chain.github.io" target="_blank">/ID-Chain/ID-Chain.github.io</a> - Documentation site for IdentityChain Project
+* <a href="https://github.com/ID-Chain/Cloud-Agent" target="_blank">/ID-Chain/Cloud-Agent</a> - Indy Cloud Agent using Google Firebase Cloud Messaging
+* <a href="https://github.com/ID-Chain/Chamber-Of-Commerce" target="_blank">/ID-Chain/Chamber-Of-Commerce</a> - Institutional Edge Agent Legacy Example (Verifier + Issuer)
+* <a href="https://github.com/ID-Chain/Government" target="_blank">/ID-Chain/Government</a> - Institutional Edge Agent Legacy Example (Initial Issuer)
+* <a href="https://github.com/ID-Chain/IEA-Admin-UI" target="_blank">/ID-Chain/IEA-Admin-UI</a> - Admin User Interface to manage the Institutional Edge Agent API
+* <a href="https://github.com/ID-Chain/Schema-Extensions" target="_blank">/ID-Chain/Schema-Extensions</a> - High level Schema Extensions (Compiler & Checker)
+* <a href="https://github.com/ID-Chain/Mobile-Edge-Agent" target="_blank">/ID-Chain/Mobile-Edge-Agent</a> - Mobile Edge Agent Application
+
+
 
 ### /IBM-Blockchain-Identity [**^**](#contents)
 
