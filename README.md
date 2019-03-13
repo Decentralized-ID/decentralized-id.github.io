@@ -1,5 +1,4 @@
 # Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 *Self-Sovereign, Blockchain and Decentralized Identity Resources*
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
@@ -10,6 +9,9 @@
 ## Contents
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**^**](#contents)] back to the contents.
+
+
+<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 
 * [Link Shorthand](#link-shorthand)
 * [What is Decentralized ID?](#what-is-decentralized-id-)
@@ -56,11 +58,13 @@
 
 ## What is Decentralized ID? [**^**](#contents)
 
-The essence of Decentralized-ID is to create systems for identification that are not owned by any one particular organization, and global collaboration in support of interoperability among emerging technologies for identity. 
+That's a big question, and what follows are just some notes, until I work out a more thoughtful answer.
+
+The essence of Decentralized-ID is in creating open standards for a privacy preserving internet-wide identity layer — not owned by any one particular organization, but interoperable between all.
 
 It's impossible to have a conversation about decentralized-id without discussing blockchain and self sovereign identity: 
-  * Blockchain fueled longstanding efforts to create a privacy preserving internet-wide identity protocol, and inspired development of decentralized networks for online identification. 
   * Self Sovereign Identity principles (with some help from the GDPR) have helped to shape the narrative around putting the identity owner in control over their personal information.
+  * Blockchain fueled longstanding efforts to create a privacy preserving internet-wide identity protocol, and inspired development of decentralized networks for online identification. 
   * The United Nations Sustainable Development Goals (SDGs) have also helped to fueled efforts for a global and widely accessible identity solution.
 
 —[infominer.id](https://infominer.id)
@@ -209,7 +213,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 ## Assorted Thought around Identity [**^**](#contents)
 * [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
    >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
-   * [Maciek Laskus | BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
+   * [Maciek Laskus - BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
    * "I designed an algorithm that mapped out people [working on identity](https://twitter.com/MaciekLaskus/status/1066780557906976768) using Twitter data:" [Identity list](https://docs.google.com/spreadsheets/d/1hBBVA0-jqmRRZ_JFQ8HEck9tFub7crsqRzlBZWf01xg/edit?usp=sharing)
 * [Proof of Thought (PoT)](https://bitcointalk.org/index.php?topic=4459113.0)
 * [Queer Privacy](https://leanpub.com/queerprivacy)
