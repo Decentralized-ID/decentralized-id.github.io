@@ -1,10 +1,8 @@
 # BCGov's Verifiable Organizations Network 
 
-![](https://i.imgur.com/0Mr3YMn.pnghttps://i.imgur.com/CvQnRZ2.png)
-
 >VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
 >
->VON's founders have delivered new Indy-based open source components which form VON's backbone. TheOrgBook is a publicly accessible repository of verifiable claims about organizations. VON-X enables services to verify and issue credentials.[[**ϟ**](https://hgf18.sched.com/event/G8rm/verifiable-organizations-network-a-production-government-deployment-of-hyperledger-indy-john-jordan-province-of-british-columbia-stephen-curran-cloudcompass-computing-inc)]
+>VON's founders have delivered new Indy-based open source components which form VON's backbone. TheOrgBook is a publicly accessible repository of verifiable claims about organizations. VON-X enables services to verify and issue credentials. - [A Production Government Deployment of Hyperledger Indy- John Jordan, Stephen Curran.](https://hgf18.sched.com/event/G8rm/verifiable-organizations-network-a-production-government-deployment-of-hyperledger-indy-john-jordan-province-of-british-columbia-stephen-curran-cloudcompass-computing-inc)
 
 ## Contents
 
@@ -18,6 +16,8 @@
 
 
 ## VON
+
+![](https://i.imgur.com/0Mr3YMn.pnghttps://i.imgur.com/CvQnRZ2.png)
 
 * [Verified Organization Network](https://vonx.io/) [[**G**](https://github.com/bcgov/von)] [[**D**](https://vonx.io/getting_started/von-overview/)] [[**ϟ**](https://www.iaca.org/wp-content/uploads/VON-Using-Blockchain-Technology.pdf)] [[**>**](#Canada)]
   * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**](https://github.com/bcgov/theorgbook)] that lists entities with their associated public verifiable claims.
