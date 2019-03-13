@@ -83,7 +83,6 @@ Fall: October 01, 2019 – October 03, 2019
 * [Handshake](https://handshake.org) [[**wp**](https://handshake.org/files/handshake.txt)] [[**D**](https://handshake-org.github.io/)] - Handshake is a UTXO-based blockchain protocol which manages the registration, renewal and transfer of DNS top-level domains (TLDs). Our naming protocol differs from its predecessors in that it has no concept of namespacing or subdomains at the consensus layer. Its purpose is not to replace DNS, but to replace the root zone file and the root servers.
 
 
-
 ## SSI-Meetup
 
 >[SSI Meetup](https://ssimeetup.org) is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. Our main mission is to help you connect with other SSI enthusiasts and create a dynamic, local, yet globally connected community.
@@ -116,8 +115,6 @@ Anything to support the cause – please get in touch and we will try to find a 
 
 ![](https://i.imgur.com/jHwsWIx.png)
 
-* [Pillar Project](http://pillarproject.io)  [[**wp**](https://pillarproject.io/documents/Pillar-Gray-Paper.pdf)]
-   * planning to offer a "Personal Data Locker" consisting of a wallet, browser, and token exchange. Personal assets will be put on a blockchain, and "Pillar" tokens will be issued."
 * [Datum](https://datum.org) [[**wp**](https://datum.org/assets/Datum-WhitePaper.pdf)]
    * "network allows anyone to store structured data on a smart contract blockchain. Data can optionally be bought and sold on a marketplace using the DAT token. Datum leverages BigchainDB and IPFS as data storage backends. All data is encrypted and protected using AES256-GCM.
 * [ONTology](https://ont.io/) [[**G**](https://github.com/ontio/ontology-DID)]— "a "Distributed Trust Network" which combines a cross-chain identity system, peer-to-peer data transmission, data authorization mechanisms, distributed data storage, attestation, and various industry-specific modules. It also includes an Ontology Crypto Package (OCP) and an Ontology Marketplace (OM)."
