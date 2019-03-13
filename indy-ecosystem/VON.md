@@ -29,7 +29,7 @@
 * [BCGov Verifiable Organization Network – Impressive Client Demo](https://www.continuumloop.com/bcgov-verifiable-organization-network/)
 * [bcdevexchange.org/opportunities](https://bcdevexchange.org/opportunities)
 * [BCovrin](http://138.197.138.255/) - Indy TestNet
-
+* [ssimeetup- Overview of Proposed Pan Canadian Trust Framework](https://ssimeetup.org/overview-proposed-pan-canadian-trust-framework-ssi-tim-bouma-webinar-19/) 1\19
 >The Government of British Columbia and the Government of Ontario have already rolled out a production system using the Sovrin Network for business registration and licensing; together they've issued over 6 million credentials, according to Windley. - [How Blockchain may Kill the Password](https://www.computerworld.com/article/3329962/blockchain/how-blockchain-may-kill-the-password.amp.html)
 
 ## BCGov Github [**^**](#contents)
@@ -65,7 +65,7 @@
 * <a href="https://github.com/bcgov/did-auth-relying-party" target="_blank">/bcgov/did-auth-relying-party</a> - DID Auth relying party.
 
 ### /PSPC-SPAC-buyandsell [**^**](#contents)
-**Public Services and Procurement Canada: buyandsell.gc.ca --- Services publics et Approvisionnement Canada : Achatsetventes.gc.ca**
+Public Services and Procurement Canada: buyandsell.gc.ca --- Services publics et Approvisionnement Canada : Achatsetventes.gc.ca
 
 * <a href="https://github.com/PSPC-SPAC-buyandsell/von_tails" target="_blank">/PSPC-SPAC-buyandsell/von_tails</a> - Tails file server for von_anchor issuer and holder-prover anchors
 * <a href="https://github.com/PSPC-SPAC-buyandsell/von_base" target="_blank">/PSPC-SPAC-buyandsell/von_base</a>
