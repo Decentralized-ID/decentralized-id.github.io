@@ -11,7 +11,7 @@
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**^**](#contents)] back to the contents.
 
 
-<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align=right width="170" height="170"/>
 
 * [Link Shorthand](#link-shorthand)
 * [What is Decentralized ID?](#what-is-decentralized-id-)
@@ -302,10 +302,10 @@ Other files and folders within this repository:
 
 ---
 
-## [infominer.id](https://infominer.id)
-<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
+## [infominer.id](https://infominer.id)  ([**^**](#contents))
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/> 
 
-**Tip Jar** [**^**](#contents)
+**Tips Jar**
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
