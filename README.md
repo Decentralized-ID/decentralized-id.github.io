@@ -303,7 +303,8 @@ Other files and folders within this repository:
 ---
 
 ## [infominer.id](https://infominer.id)  ([**^**](#contents))
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/> 
+
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
 **Tips Jar**
 
