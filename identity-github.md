@@ -71,6 +71,8 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
   * [Selfkey Assorted](#selfkey-assorted)
 * [Ockam Network](#ockam-network-)
 * [Ontology](#ontology-)
+* [TangleID](#tangleid-)
+* [Simbol](#simbol-)
 * [Assorted](#assorted-)
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
@@ -779,9 +781,19 @@ identity
   - Forked from lord/slate
 * <a href="https://github.com/TangleID/sample-issuer/" target="_blank">/TangleID/sample-issuer/</a> - TangleID Sample Issuer
 
+## Simbol [**^**](#contents)
+
+AR\VR\Mixed
+
+* <a href="https://github.com/wearesimbol/simbol-design" target="_blank">/wearesimbol/simbol-design</a>
+* <a href="https://github.com/wearesimbol/a-simbol" target="_blank">/wearesimbol/a-simbol</a> - A-Frame component for Simbol
+* <a href="https://github.com/wearesimbol/simbol" target="_blank">/wearesimbol/simbol</a> - Social and Communications platform WebXR sites with a self-sovereign identity
+* <a href="https://github.com/wearesimbol/simbol-server" target="_blank">/wearesimbol/simbol-server</a> - Simple Web and WebSocket server, specially for sites that use Simbol
+* <a href="https://github.com/wearesimbol/simbol-demo" target="_blank">/wearesimbol/simbol-demo</a> - Create a fullstack Simbol virtual world very easily
 
 
-## Assorted
+
+## Assorted [**^**](#contents)
 
 <a href="https://github.com/bnelson777/id.ly" target="_blank">/bnelson777/id.ly</a> - Cross-platform self-sovereign identity business card and messaging app
 
