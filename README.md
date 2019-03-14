@@ -27,7 +27,6 @@ For now, this is still home and best maintained.
   * [Blockcerts](#blockcerts-)
   * [Schema](#schema-)
 * [DID Adoption](#did-adoption-)
-* [Assorted Thought Around Identity](#assorted-thought-around-identity)
 * [Directory](#directory) 
   * [SSI\DID History](history.md)
   * [Self Sovereign Identity](self-sovereign-identity)
@@ -241,18 +240,6 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 ![](https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png)
 
 2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
-
-## Assorted Thought around Identity [**^**](#contents)
-* [Is putting hashed PII on any immutable ledger(blockchain) is a bad Idea](https://identitywoman.net/putting-hashed-pii-immutable-ledgerblockchain-bad-idea/)
-* [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
-   >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
-   * [Maciek Laskus - BLOCKWALKS](https://www.youtube.com/watch?v=KAgJpQfQXxs) (video)
-   * "I designed an algorithm that mapped out people [working on identity](https://twitter.com/MaciekLaskus/status/1066780557906976768) using Twitter data:" [Identity list](https://docs.google.com/spreadsheets/d/1hBBVA0-jqmRRZ_JFQ8HEck9tFub7crsqRzlBZWf01xg/edit?usp=sharing)
-* [Proof of Thought (PoT)](https://bitcointalk.org/index.php?topic=4459113.0)
-* [Queer Privacy](https://leanpub.com/queerprivacy)
-   >Stories about using the Internet as a tool to find out more about yourself, and as a tool to express and empower; about the dangers of Internet censorship and about the practical realities of maintaining multiple distinct digital identities. 
-* [@SarahJamieLewis Twitter thread on Identity](https://twitter.com/SarahJamieLewis/status/1041043532654542848)
-   >Any technology which relies on the existence of, or attempts to create a, global, unique identity is oppressive by design. Stop" innovating" oppressive structures.
 
 
 
