@@ -1,6 +1,6 @@
 # DID-SSI Organizations
 
-Get involved
+this page is a work in progress
 
 ## IIW - Internet Identity Workshop
 
