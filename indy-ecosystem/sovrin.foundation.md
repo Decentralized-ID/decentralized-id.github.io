@@ -158,13 +158,3 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ### Veridium
 • [Veridium](https://veridiumid.com/)
 
-## Selected articles Windley.com [[**^**](#Contents)]
-
-* [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
-* [An Internet for Identity](http://www.windley.com/archives/2016/08/an_internet_for_identity.shtml)
-* [A Universal Trust Framework](http://www.windley.com/archives/2017/01/a_universal_trust_framework.shtml)
-* [Building Your Business on Sovrin: Domain-Specific Trust Frameworks](http://www.windley.com/archives/2018/03/building_your_business_on_sovrin_domain-specific_trust_frameworks.shtml)
-* [The Sovrin Foundation](http://www.windley.com/archives/2018/07/the_sovrin_foundation.shtml)
-* [Decentralization in Sovrin](http://www.windley.com/archives/2018/10/decentralization_in_sovrin.shtml)
-* [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml)
-* [The Sovrin Ecosystem](http://www.windley.com/archives/2018/11/the_sovrin_ecosystem.shtml) (Disambiguating between Evernym, Sovrin, and Indy)
