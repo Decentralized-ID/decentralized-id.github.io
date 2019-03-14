@@ -9,12 +9,8 @@
 
 * [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
-
-## Spidchain [**^**](#contents)
-
-* [Spidchain.com](http://www.spidchain.com/) -Blockchain for Self Sovereign Identity
-
-### Spid Bitcoin [**^**](#contents)
+   
+### Spidchain Bitcoin Repos [**^**](#contents)
 * <a href="https://github.com/SpidChain/spidchain-btcr" target="_blank">/SpidChain/spidchain-btcr</a> - An implementation of the btcr standard for self sovereign distributed digital identity
 * <a href="https://github.com/SpidChain/electrumx" target="_blank">/SpidChain/electrumx</a> Forked from kyuupichan/electrumx
   - Alternative implementation of spesmilo/electrum-server
