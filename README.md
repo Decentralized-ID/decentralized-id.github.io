@@ -6,7 +6,7 @@
 **Note: becoming [decentralized-id.com](https://decentralized-id.com)** 
   >See [/decentralized-id/decentralized-id.github.io](https://github.com/decentralized-id/decentralized-id.github.io)
 
-For now, however, this is still home and best maintained.
+For now, this is still home and best maintained.
 
 ## Contents
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
@@ -24,11 +24,7 @@ For now, however, this is still home and best maintained.
     * [Verifiable Claims](#verifiable-claims-)
   * [Decentralized Key Managment DKMS](#decentralized-key-management-dkms-)
   * [DID Auth](#did-auth-) 
-  * [Learning Machine](#learning-machine-)
-    * [Blockcerts](#blockcerts-)
-  * [ERC - EIP](#erc---eip-)
-    * [ERC 725 - 735](#erc-725---735-)
-    * [ERC Other](#erc-other-)
+  * [Blockcerts](#blockcerts-)
   * [Schema](#schema-)
 * [DID Adoption](#did-adoption-)
 * [Assorted Thought Around Identity](#assorted-thought-around-identity)
@@ -50,6 +46,7 @@ For now, however, this is still home and best maintained.
   * [Bitcoin](bitcoin.md)
     * [Spidchain](bitcoin.md#spidchain-)
   * [Ethereum](ethereum.md)
+    * [ERC-EIP](ethereum.md#erc-eip-)
     * [uPort](ethereum.md#uport-)
     * [Jolocom](ethereum.md#jolocom-)
     * [Spidchain](ethereum.md#spidchain-)
@@ -191,34 +188,13 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 ![](https://i.imgur.com/ozOLCuW.png)
 
 
-### Learning Machine [**^**](#contents) 
-
-[Learning Machine](https://www.learningmachine.com/)
+### Blockcerts [**^**](#contents) 
+* [Learning Machine](https://www.learningmachine.com/)
 * [Academic Credentialing and the Blockchain](https://www.learningmachine.com/academic-credentialing-blockchain/)
-
-#### Blockcerts [**^**](#contents) 
-
 * [Blockcerts](https://www.blockcerts.org), developed by learning machine is an open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
   * [CXC (Carribean) Pilots E-Certificates on the Blockchain](https://www.cxc.org/cxc-pilots-e-certificates-on-the-blockchain/)
   * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
 
-### ERC - EIP [**^**](#contents)
-
-#### ERC 725 - 735 
-
-* [ERC725](https://github.com/ethereum/EIPs/issues/725) • [ERC735](https://github.com/ethereum/EIPs/issues/735)
-   * proposals in the Ethereum community to standardize smart contracts for certain identity-related operations such as key management, as well as signing transactions, documents, and "claims", which may be attested by third parties or self-asserted.
-   * [Origin partners on ERC725](https://coinjournal.net/origin-protocol-partners-on-new-erc-725-alliance-to-promote-the-adoption-of-blockchain-based-identity-standard)
-* [Managing Identity with a UI—ERC-725](https://medium.com/originprotocol/managing-identity-with-a-ui-for-erc-725-5c7422b38c09)
-* [Ethereum ERC725 Blockchain Based, Self-Sovereign Identity Management](https://bitcoinexchangeguide.com/ethereum-erc725-blockchain-based-self-sovereign-identity-management/)
-* [erc725alliance.org](https://erc725alliance.org)
-
-#### ERC Other [**^**](#contents)
-
-* [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
-* [ERC-1484: Digital Identity Aggregator #1495](https://github.com/ethereum/EIPs/issues/1495) —A protocol for aggregating digital identity information that's broadly interoperable with existing, proposed, and hypothetical future digital identity standards.
-* [ERC1056 ❤ ERC780 — an open identity and claims protocol for Ethereum](https://medium.com/uport/erc1056-erc780-an-open-identity-and-claims-protocol-for-ethereum-aef7207bc744)
-* [ERC-1077 and ERC-1078: The magic of executable signed messages](https://ethereum-magicians.org/t/erc-1077-and-erc-1078-the-magic-of-executable-signed-messages-to-login-and-do-actions/351)
 
 ### Schema [**^**](#contents)
 * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
