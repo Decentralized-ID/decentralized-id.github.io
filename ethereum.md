@@ -18,6 +18,8 @@
   * [uPort Assorted](#uport-assorted-)
 * [Jolocom](#jolocom-)
   * [Jolocom Github Repos](#jolocom-github-repos-)
+* [Spidchain](#spidchain-)
+  * [Spid-Eth Repos](#spid-eth-repos-)
 * [Assorted Ethereum Apps](#assorted-ethereum-apps-)
 
 
@@ -158,6 +160,23 @@
 * <a href="https://github.com/jolocom/registry-contract" target="_blank">/jolocom/registry-contract</a> - A basic smart contract on top of the Ethereum network that registers mappings between DID and IPFS DDO hashes.
 * <a href="https://github.com/jolocom/smartwallet-webid-proxy" target="_blank">/jolocom/smartwallet-webid-proxy</a> - WebID proxy service
 
+## Spidchain [**^**](#contents)
+
+![](https://i.imgur.com/azuC8lh.png)
+
+* [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
+   * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
+
+### Spid-Eth Repos [**^**](#contents)
+* <a href="https://github.com/SpidChain/eth-lightwallet" target="_blank">/SpidChain/eth-lightwallet</a> - Forked from ConsenSys/eth-lightwallet
+  - Lightweight JS Wallet for Node and the browser
+* <a href="https://github.com/SpidChain/truffle" target="_blank">/SpidChain/truffle</a> - Forked from trufflesuite/truffle
+  - A development framework for Ethereum
+* <a href="https://github.com/SpidChain/VotingSystem" target="_blank">/SpidChain/VotingSystem</a> - A dapp, library and smart contract to notarize votes on the ethereum blockchain
+* <a href="https://github.com/SpidChain/ethers-wallet" target="_blank">/SpidChain/ethers-wallet</a> - Forked from ethers-io/ethers.js
+  - Complete Ethereum wallet implementation and library in JavaScript.
+* <a href="https://github.com/SpidChain/nodejs-ethereum" target="_blank">/SpidChain/nodejs-ethereum</a> - Forked from b9lab/nodejs-ethereum
+Example of using NodeJs with Ethereum
 
 
 ### Assorted Ethereum Apps [**^**](#contents)
