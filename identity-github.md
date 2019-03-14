@@ -57,7 +57,7 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
   * [DIF - Uniresolver](#dif---uniresolver-)
 * [Veres One](#veres-one-)
 * [/hyperledger Indy](#hyperledger-indy-)
-  * [/IBM-BLockchain-Identity](#ibm-blockchain-identity-)
+  * [/IBM-Blockchain-Identity](#ibm-blockchain-identity-)
 * [Verifiable Organizations Network](#verifiable-organizations-network-)
   * [BCGov - VON](#bcgov---von-)
     * [VON - Indy](#von---indy-)
