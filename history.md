@@ -1,22 +1,81 @@
 # DID-SSI History 
 
 ## Contents
-* [The Augmented Social Network and the IDCommons](#the-augmented-social-network-and-the-idcommons-)
+* [Losing Control over our Personal Information](#losing-control-over-our-personal-information)
+* [International Planetwork Conference](#international-planetwork-conference-)
+* [XNS Public Trust Organization](#xns-public-trust-organization-)
+* [The Augmented Social Network](#the-augmented-social-network-)
+* [IDCommons and the Identity Gang](#idcommons-and-the-identity-gang-)
 * [Internet Identity Workshop—IIW](#internet-identity-workshop-) 
 * [Bitnation and the United Nations](#bitnation-and-the-united-nations-)
 * [#Rebooting-Web-of-Trust (RWoT)](#rebooting-the-web-of-trust-)
 * [ID2020 and the GDPR](#id2020-and-the-gdpr-)
 * [Additional IID Standards History](#additional-iid-standards-history-)
 
+## Losing Control Over our Personal Information
 
-## IDCommons and the Augmented Social Network
+* [Security without Identification: Transaction Systems to Make Big Brother Obsolete](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - David Chaum, 1985.
+  * The large-scale automated transaction systems of the near future can be designed to protect the privacy and maintain the security of both individuals and organizations. 
+    > Computerization is robbing individuals of the ability to monitor and control the ways information about them is used. As organizations in both the private and the public sectors routinely exchange such informa- tion, individ.uals have no way of knowing if the information is inaccurate, obsolete, or otherwise inap- propriate. The foundation is being laid for a dossier society, in which computers could be used to infer individuals’ life-styles, habits, whereabouts, and asso- ciations from data collected in ordinary consumer transactions. Uncertainty about whether data will re- main secure against abuse by those maintaining or tapping it can have a “chilling effect,” causing people to alter their observable activities. As computerization becomes mclre pervasive, the potential for these prob- lems will grow dramatically.
+
+* [Information Technology and Dataveillance](http://www.rogerclarke.com/DV/CACM88.html) - Roger Clarke, 1988.
+  > The concept of 'dataveillance' is introduced, and defined as the systematic monitoring of people's actions or communications through the application of information technology. Dataveillance's origins are traced, and an explanation provided as to why it is becoming the dominant means of monitoring individuals and populations.
+  >
+  > The paper identifies, classifies and describes the various dataveillance techniques. It then examines the benefits, and especially the dangers, arising from dataveillance. It considers the intrinsic and extrinsic controls that act to keep the application of dataveillance under control, and suggests some appropriate policy measures. 
+
+## PGP - Web of Trust [**^**](#contents)
+
+Phil [Zimmerman creates PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html), 1991. 
+  * First time strong encryption widely available to general public. 
+  * PGP’s web-of-trust provide early foundation for SSI. However, PGP is known as difficult to use and failed to reach wide adoption for personal communication\identification.
+
+* [PGP -Web of Trust -linux.com](https://www.linux.com/learn/pgp-web-trust-core-concepts-behind-trusted-communication)
+
+## International Planetwork Conference [**^**](#contents)
+
+The first International [Planetwork](https://planetwork.net/about.html) Conference -  Global Ecology and Information Technology, San Francisco, May 2000.
+
+The community that developed around the Planetwork conferences, including [Linktank](https://planetwork.net/linktank.html), form an intellectual foundation for what became Self Sovereign Identity.
+
+## XNS Public Trust Organization [**^**](#contents)
+
+XNS Public Trust Organization. Founded in July 2000, shortly after Planetwork Conference. -[xdi.org - History](http://xdi.org/?page_id=13)
+
+> to promote the concept of individuals owning their own digital identity and data based on a nascent technology being produced by two Technical Committees at OASIS: XRI (Extensible Resource Identifier) and XDI (Extensible Data Interchange).
+
+## Augmented Social Network [**^**](#contents)
 
 * *[The Augmented Social Network](http://asn.planetwork.net/): Building Identity and Trust into the Next-Generation Internet,* presented at the June 2003 Planetwork conference and published in [First Monday](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1068/988) the Peer-Reviewed Journal on the Internet 8/4/03.
   >"[This paper](http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf) proposes the creation of an Augmented Social Network (ASN) that would build identity and trust into the architecture of the Internet"
 
-Ideas from the ASN were the foundation of much that followed. The [Identity Commons](http://wiki.idcommons.net/History) (2001-Present) was originally created by Owen Davis and Andrew Nelson in 2001 to evangelize the creation of a decentralized user-centric identity infrastructure and to address the resulting social trust issues. 
+## IDCommons and the Identity Gang [**^**](#contents)
 
->"Their most important contribution may have been the creation, in association with the Identity Gang, of the Internet Identity Workshop (2005-Present) working group. "[[**ϟ**](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)]
+The [Identity Commons](http://wiki.idcommons.net/History) (2001-Present) was originally created by Owen Davis and Andrew Nelson in 2001 to evangelize the creation of a decentralized user-centric identity infrastructure and to address the resulting social trust issues. 
+
+* Kaliya Young began working with Identity Commons following June 2004 Planetwork Conference. Working with Social Physics team, led by Paul Trevithick and Mary Ruddy, and included Doc Searls and Phil Windley.
+
+* This community focused on user-centric identity, coming together at the Digital Identity World conference, of 2004. Which led to the mailing list:
+* [community@lists.idcommons.net](https://lists.idcommons.net/lists/info/community)
+  > The general community mailing list for Identity Commons. The list is also called the Identity Gang mailing list and was formerly idworkshop at googlegroups.
+
+* [The original identity gang](https://www.idcommons.org/the-original-identity-gang/)
+
+ Doc Searls invited a number of identity leaders to appear together on the Gilmore Gang podcast. That’s where the name Identity Gang was coined, and at the encouragement of Doc Searls, a number of people began blogging about user-centric identity. 
+
+ * [The Gillmor Gang - December 31, 2004](http://web.archive.org/web/20130729213722id_/http://itc.conversationsnetwork.org/shows/detail394.html) Featuring:
+  > * Steve Gillmor, contributing editor, ZDNet
+  > * Doc Searls, senior editor, Linux Journal
+  > * Craig Burton, founding member, Novell; co-founder, The Burton Group
+  > * Kim Cameron, Microsoft's Architect of Identity and Access Systems 
+  > * Dave Winer, father of RSS and more
+  > * Marc Canter, Broadband Mechanics
+  > * Bryan Field-Elliot, CTO, Ping Identity Corporation 
+  > * Phil Windley, Brigham Young University 
+  > * Drummond Reed, CTO, Cordance 
+
+
+
+  "Their most important contribution may have been the creation, in association with the Identity Gang, of the Internet Identity Workshop (2005-Present) working group." -[*Path to Self Sovereign Identity*](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
 
 ## Kim Cameron - Laws of Identity [**^**](#contents)
 
