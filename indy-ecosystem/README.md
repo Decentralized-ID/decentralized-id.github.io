@@ -34,6 +34,9 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
     * [Research Papers](literature.md#research-papers-)
     * [Reports](literature.md#reports)
 * [Sources](#sources-)
+* [<< /awesome-decentralized-id](../README.md)
+* [**infominer.id**](https://infominer.id)
+
 
 ## Link Shorthand [**^**](#Contents)
 [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
