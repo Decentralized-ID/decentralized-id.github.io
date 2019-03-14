@@ -1,13 +1,15 @@
 # Ethereum Identity 
 **Specifications, Literature, Applications**
 
-
-* [Decentralized Digital Identity on Ethereum](https://www.slideshare.net/FabriceCroiseaux/ethcc-2018-decentralized-digital-identity-on-ethereum) -SlideShare
   ![](https://i.imgur.com/XWeGM72.png)
 
+* [Decentralized Digital Identity on Ethereum](https://www.slideshare.net/FabriceCroiseaux/ethcc-2018-decentralized-digital-identity-on-ethereum) -SlideShare
+* [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — video from DEVCON1
+* [Proof-of-Individuality](http://proofofindividuality.online/) — how to prove a person only has one account
+   * [Anti-Sybil Protocol using virtual pseudonym parties](https://medium.com/@unlisted/anti-sybil-protocol-using-virtual-pseudonym-parties-10276fcf3b20)
 
 ## Contents
-* [Ethereum ID](#ethereum-id)
+* [ERC-EIP](#erc-eip-)
 * [uPort](#uport-)
   * [uPort GitHub Repos](#uport-github-repos-)
   * [uPort DID](#uport-did-)
@@ -23,11 +25,19 @@
 * [Assorted Ethereum Apps](#assorted-ethereum-apps-)
 
 
-## Ethereum ID 
+## ERC-EIP [**^**](#contents)
 
-* [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — video from DEVCON1
-* [Proof-of-Individuality](http://proofofindividuality.online/) — how to prove a person only has one account
-   * [Anti-Sybil Protocol using virtual pseudonym parties](https://medium.com/@unlisted/anti-sybil-protocol-using-virtual-pseudonym-parties-10276fcf3b20)
+* [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
+* [ERC-1484: Digital Identity Aggregator #1495](https://github.com/ethereum/EIPs/issues/1495) —A protocol for aggregating digital identity information that's broadly interoperable with existing, proposed, and hypothetical future digital identity standards.
+* [ERC725](https://github.com/ethereum/EIPs/issues/725) 
+  * The following describes standard functions for a unique identifiable proxy account to be used by humans, groups, organisations, objects and machines
+* [ERC735](https://github.com/ethereum/EIPs/issues/735) -  The following describes standard functions for adding, removing and holding of claims.
+  - These claims can attested from third parties (issuers) or self attested.
+* [EIP712](https://github.com/ethereum/EIPs/blob/f29527ab39357548b06b29e937a48f06ae099de7/EIPS/eip-712.md) - This is a standard for hashing and signing of typed structured data
+* [ERC: Ethereum Claims Registry #780](https://github.com/ethereum/EIPs/issues/780)
+* [EIP-1078](https://github.com/ethereum/EIPs/blob/ed621645c8f3bc5756492f327cda015f35d9f8da/EIPS/eip-1078.md) - 
+This presents a method to replace the usual signup/login design pattern with a minimal ethereum native scheme, that doesn’t require passwords, backing up private keys nor typing seed phrases. 
+
 
 ## uPort [**^**](#contents)
 
