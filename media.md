@@ -1,4 +1,6 @@
-# SSI and DID Related Video
+# SSI and DID Related Media
+
+## Video
 
 * [SSI Meetup Youtube Channel](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)
 * [The Story of Open SSI Standards - Drummond Reed](https://www.youtube.com/watch?v=RllH91rcFdE&feature=youtu.be&t=4m30s)
