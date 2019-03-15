@@ -7,17 +7,19 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 
 ## Contents
 
+* [RWoT Papers](#rwot-papers-)
 * [Project Danube](#project-danube-)
-* [Project Danube Github Repos](#project-danube-github-repos-)
-  * [XDI Libraries](#xdi-libraries-)
-  * [XDI - Various Integrations](#xdi---various-integrations-)
-  * [XDI Configurations](#xdi-configurations-)
-  * [XDI Examples](#xdi-examples-)
-  * [XDI Plugins](#xdi-plugins-)
-  * [Aeternam](#aeternam-)
-  * [XDI Cloud](#xdi-cloud-)
-  * [XDI Server Deployed Via](#xdi-server-deployed-via-)
-  * [Services](#services-)
+* [Github Repos](#github-repos-)
+  * [OASIS XDI TC Technical Committee](#oasis-xdi-tc-technical-committee-)
+  * [Danube Github](#danube-github-)
+    * [XDI - Various Integrations](#xdi---various-integrations-)
+    * [XDI Configurations](#xdi-configurations-)
+    * [XDI Examples](#xdi-examples-)
+    * [XDI Plugins](#xdi-plugins-)
+    * [Aeternam](#aeternam-)
+    * [XDI Cloud](#xdi-cloud-)
+    * [XDI Server Deployed Via](#xdi-server-deployed-via-)
+    * [Services](#services-)
 
 ## RWoT Papers
 
@@ -52,14 +54,27 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
   > * A discovery function - enables looking up a registered DID in the blockchain
   > * A master key recovery function
 
+
+
 ## Project Danube [**^**](#contents)
 
 Markus Sabadello began working on Project Danube [around 2010](https://web.archive.org/web/20101221105543/http://projectdanube.org/)
 
 >This is an open-source project offering software for identity and personal data services on the Internet. The core of this project is an XDI-based Personal Data Store - a semantic database for your personal data, which always remains under your control. Applications on top of this database include the Federated Social Web, the selective sharing of personal data with organizations, and much more.
 
-## Project Danube Github Repos [**^**](#contents)
+## Github Repos [**^**](#contents)
 
+## OASIS XDI TC Technical Committee [**^**](#contents)
+
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-docbook">/OASIS-XDI-Technical-Committee/xdi-spec-docbook</a> - XDI Specifications (Docbook)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-developers-guide">/OASIS-XDI-Technical-Committee/xdi-developers-guide</a> - XDI Developer's Guide
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-openoffice">/OASIS-XDI-Technical-Committee/xdi-spec-openoffice</a> - XDI Specifications (Open Office)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-dita">/OASIS-XDI-Technical-Committee/xdi-spec-dita</a> - XDI Specifications (DITA)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a>
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a>
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a>
+
+## Danube Github [**^**](#contents)
 * <a href="https://github.com/projectdanube/xdi2" target="_blank">/projectdanube/xdi2</a> - XDI2 general purpose library and server
 * <a href="https://github.com/projectdanube/xdi-js" target="_blank">/projectdanube/xdi-js</a> - XDI client library for JavaScript
 * <a href="https://github.com/projectdanube/xdi2-connect-core" target="_blank">/projectdanube/xdi2-connect-core</a> - Shared library for the XDI Connect protocol
