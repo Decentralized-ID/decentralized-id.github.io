@@ -1,0 +1,16 @@
+plugins:
+    - jekyll-seo-tag
+    - jekyll-github-metadata
+    - jekyll-redirect-from
+    
+theme: jekyll-theme-slate
+
+
+url           : "http://infominer.id/awesome-decentralized-id"
+baseurl       : "/awesome-decentralized-id"
+title         : "Decentralized Identity"
+description   : "Self-Sovereign, User-Owned and Controlled, Internet-Wide Identity."
+author        : "⧉ Infominer"
+logo          : "https://infominer.id/images/crypt0library.png"
+repository    : "infominer33/awesome-decentralized-id"
+github        : [metadata]
