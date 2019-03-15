@@ -20,6 +20,7 @@ For now, this is still home and best maintained.
 * [Decentralized Identity History](#decentralized-identity-history-)
 * [What is Self Sovereign Identity?](#self-sovereign-identity-)
 * [DID Related Web Standards](#did-related-web-standards-)
+  * [OASIS XDI TC Technical Committee](#oasis-xdi-tc-technical-committee-)
   * [W3C](#w3c-)
     * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
     * [Verifiable Claims](#verifiable-claims-)
@@ -123,6 +124,14 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 
 ## DID Related Web Standards [**^**](#contents)
+
+### OASIS XDI TC Technical Committee [**^**](#contents)
+
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-docbook">/OASIS-XDI-Technical-Committee/xdi-spec-docbook</a> - XDI Specifications (Docbook)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-developers-guide">/OASIS-XDI-Technical-Committee/xdi-developers-guide</a> - XDI Developer's Guide
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-openoffice">/OASIS-XDI-Technical-Committee/xdi-spec-openoffice</a> - XDI Specifications (Open Office)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-dita">/OASIS-XDI-Technical-Committee/xdi-spec-dita</a> - XDI Specifications (DITA)
+
 
 ### W3C [**^**](#contents)
 

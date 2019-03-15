@@ -21,6 +21,7 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
   * [XDI Cloud](#xdi-cloud-)
   * [XDI Server Deployed Via](#xdi-server-deployed-via-)
   * [Services](#services-)
+* [OASIS XDI TC Technical Committee](#oasis-xdi-tc-technical-committee-)
 * [Digital Bazaar](#digital-bazaar-)
   * [DB - Identity](#db---identity-)
   * [DB - Credentials](#db---credentials-)
@@ -190,7 +191,15 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/projectdanube/xdi2-connect-auth-service" target="_blank">/projectdanube/xdi2-connect-auth-service</a> - This is a "Connect Auth Service" component for the XDI Browser binding.
 
 
+## OASIS XDI TC Technical Committee [**^**](#contents)
 
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-docbook">/OASIS-XDI-Technical-Committee/xdi-spec-docbook</a> - XDI Specifications (Docbook)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-developers-guide">/OASIS-XDI-Technical-Committee/xdi-developers-guide</a> - XDI Developer's Guide
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-openoffice">/OASIS-XDI-Technical-Committee/xdi-spec-openoffice</a> - XDI Specifications (Open Office)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-dita">/OASIS-XDI-Technical-Committee/xdi-spec-dita</a> - XDI Specifications (DITA)
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a>
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a>
+* <a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a>
 
 
 
