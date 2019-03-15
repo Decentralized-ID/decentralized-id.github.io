@@ -1,21 +1,23 @@
 # DID-SSI History 
 
 ## Contents
-* [Losing Control over our Personal Information](#losing-control-over-our-personal-information)
-* [International Planetwork Conference](#international-planetwork-conference-)
+* [Losing Control over our Personal Information](#losing-control-over-our-personal-information) '80s
+* [International Planetwork Conference](#international-planetwork-conference-) '00s
 * [XNS Public Trust Organization](#xns-public-trust-organization-)
-* [The Augmented Social Network](#the-augmented-social-network-)
-* [IDCommons](#idcommons-)
-* [Identity Gang](#identity-gang-)
-  * [Kim Cameron - Laws of Identity](#kim-cameron---laws-of-identity)
-* [Internet Identity Workshop—IIW](#internet-identity-workshop-) 
-* [W3C Credentials Community Group](#w3c-credentials-community-group-)
-* [Bitnation](#bitnation-)
-* [The United Nations Sustainable Development Goals](#the-united-nations-sustainable-development-goals-)
-* [#Rebooting-Web-of-Trust (RWoT)](#rebooting-the-web-of-trust-)
-* [ID2020 and the GDPR](#id2020-and-the-gdpr-)
-* [DHS S&T SBIResearch](#dhs-st-sbiresearch-)
-* [Additional IID Standards History](#additional-iid-standards-history-)
+* [The Augmented Social Network](#the-augmented-social-network-) '03
+* [IDCommons](#idcommons-) '01
+* [Identity Gang](#identity-gang-) '04
+  * [Kim Cameron - Laws of Identity](#kim-cameron---laws-of-identity) 
+* [Internet Identity Workshop—IIW](#internet-identity-workshop-) '05
+* [W3C Credentials Community Group](#w3c-credentials-community-group-) '14 
+* [Bitnation](#bitnation-) '15
+* [The United Nations Sustainable Development Goals](#the-united-nations-sustainable-development-goals-) '15
+* [#Rebooting-Web-of-Trust (RWoT)](#rebooting-the-web-of-trust-) 
+* [ID2020 and the GDPR](#id2020-and-the-gdpr-) '16
+* [The End of 2016](#the-end-of-2016-)
+* [Decentralized Identity Foundation](#decentralized-identity-foundation-) '17
+* [Standards History](#standards-history-)
+* [Resources](#resources-)
 
 ## Losing Control Over our Personal Information
 
@@ -212,7 +214,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
    >"Respect Network is conducting a research project for the [U.S. Department of Homeland Security](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology), HSHQDC-16-C-00061, to analyze the applicability of blockchain technologies to a decentralized identifier system. Our thesis is that blockchains, or more generically distributed ledgers, are a potentially powerful new tool for “identity roots” — the starting points for an Internet identity. However “blockchain identity” may not fully address the core security and privacy principles needed in a complete identity system. In this case DIDs — Decentralized Identifiers rooted on a distributed ledger — may end up being a foundational building block for higher level identity management solutions. -
 
-## DHS S&T SBIResearch [**^**](#contents)
+## The End of 2016 [**^**](#contents)
 
 * [News Release: DHS S&T Awards $1.3 Million to Small Businesses for Cyber Security Research and Development](https://www.dhs.gov/science-and-technology/news/2016/08/12/news-release-dhs-st-awards-13-million-small-businesses-cyber) -2016
   * [Applying Blockchain to Decentralized Identity](https://www.sbir.gov/sbirsearch/detail/1241097) 
@@ -220,10 +222,17 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
   * [Credentials on Public/Private Linked Ledgers](https://www.sbir.gov/sbirsearch/detail/1241085)
     > A wide variety of applications could benefit from combining identity management technology with decentralized ledgers (aka blockchains). However, not every application uses the same data or requires the same consensus or authorization models. While a single solution is unlikely, we assert each application could benefit from a standard, configurable, decentralized ledger with flexible semantics. We will study the feasibility of this concept by building a proof-of-concept Linked Data ledger format and architecture.
 
-## Pan Canadian Trust Framework [**^**](#contents)
 
 * [Pan Canadian Trust Framework](https://diacc.ca/pan-canadian-trust-framework/) - 2016
   >The Pan-Canadian Trust Framework (PCTF) enables Canada’s full and secure participation in the global digital economy through economic sector innovation and the enablement of modernized digital service delivery. The PCTF supports open government principles.
+
+* Phil Windley [announces formation of the Sovrin Foundation](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) charged with maintaining its, public-permissioned, distributed ledger for identity, donated by Evernym -September 2016. 
+  >Sovrin Foundation is a private-sector, international non-profit established to govern a global public utility for self-sovereign identity.
+
+* MyData founded to give structure to an international movement, promoting the rights of individuals to have control over our personal information - [August, 2016](http://mydata2016.org/)
+
+* Learning Machine working with MIT on an [open standard](https://medium.com/learning-machine-blog/blockchain-credentials-b4cf5d02bbb7) for blockchain credentials for the past year. Led by Chris Jagers, Kim Hamilton Duffy, and John Papinchak their Blockcerts prototype was released in October 2016.
+
 
 ## Decentralized Identity Foundation [**^**](#contents)
 
@@ -232,7 +241,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/decentralized-identity/decentralized-identity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 
 
-## Standards History
+## Standards History [**^**](#contents)
 ![](https://i.imgur.com/XtZQg0j.png)
 
 ![](https://i.imgur.com/FBe3S0w.png)
@@ -245,7 +254,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 <a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a> [<a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">**ϟ**</a>]
 
 
-## Resources 
+## Resources [**^**](#contents)
 * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
 * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
 * [Identity Commons-Wiki](http://wiki.idcommons.net/Main_Page)
