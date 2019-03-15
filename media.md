@@ -18,6 +18,7 @@
 
 
 ## Slideshare
+* [Blockchain Based Solutions For Identity Access Management](https://www.slideshare.net/prabathsiriwardena/blockchainbased-solutions-for-identity-access-management)
 * [Towards Self Sovereign Identity](https://www.slideshare.net/alehors/towards-self-sovereign-identity-20180508) - A great slide-deck by IBM explaining Indy\Sovrin Architecture.
 * [Identiverse](https://www.slideshare.net/Identiverse/presentations)
 * [SSI Meetup](https://www.slideshare.net/SSIMeetup/presentations/)
