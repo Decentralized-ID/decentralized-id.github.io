@@ -2,6 +2,7 @@
 
 ## Contents
 * [Losing Control over our Personal Information](#losing-control-over-our-personal-information) '80s
+* [PGP - Web of Trust](#pgp---web-of-trust-) '91
 * [International Planetwork Conference](#international-planetwork-conference-) '00s
 * [XNS Public Trust Organization](#xns-public-trust-organization-)
 * [The Augmented Social Network](#the-augmented-social-network-) '03
@@ -13,11 +14,13 @@
 * [Bitnation](#bitnation-) '15
 * [The United Nations Sustainable Development Goals](#the-united-nations-sustainable-development-goals-) '15
 * [#Rebooting-Web-of-Trust (RWoT)](#rebooting-the-web-of-trust-) 
+* [Evernym](#evernym-)
 * [ID2020 and the GDPR](#id2020-and-the-gdpr-) '16
 * [The End of 2016](#the-end-of-2016-)
 * [Decentralized Identity Foundation](#decentralized-identity-foundation-) '17
 * [Standards History](#standards-history-)
 * [Resources](#resources-)
+* [**infominer.id**](https://infominer.id)
 
 ## Losing Control Over our Personal Information
 
@@ -130,6 +133,8 @@ Since then, the IIW has met bi-anually, actively supporting the development of t
 ---
 
 > Founded in 2011, the [Personal Data Ecosystem](https://www.idcommons.org/working-groups/personal-data-ecosystem-consortium/) Consortium advocates a user-centric approach to managing personal data
+
+![](https://i.imgur.com/wuvo5BG.png)
 
 IIW participants began the effort towards creating a truly [user centric identity](https://www.networkworld.com/article/2304596/access-control/what-is--user-centric--identity-.html), in contrast to identity solutions whos focus has been fulfilling the needs of the enterprise. The pioneers of decentralized identity have long struggled against the "[identity silo paradox](https://www.zdnet.com/article/the-identity-silo-paradox/)," that while the *identerati* continually work on solutions to break up these silos, the enterprise has had a strong financial incentive to retain them.
 
