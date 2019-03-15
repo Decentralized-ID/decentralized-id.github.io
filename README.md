@@ -283,6 +283,7 @@ Other files and folders within this repository:
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [identitywoman.net](https://identitywoman.net/)
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
+* [Kim Camerons Identity Blog](https://identityblog.com)
 * [/indy-sovrin-evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/indy-sovrin-evernym/)
 
 ---
