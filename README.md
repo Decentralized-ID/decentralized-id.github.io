@@ -17,8 +17,9 @@ For now, this is still home and best maintained.
 
 * [Link Shorthand](#link-shorthand)
 * [What is Decentralized ID?](#what-is-decentralized-id-)
+* [Decentralized Identity History](#decentralized-identity-history-)
 * [What is Self Sovereign Identity?](#self-sovereign-identity-)
-* [DID Related Web Standards](did-related-web-standards-)
+* [DID Related Web Standards](#did-related-web-standards-)
   * [W3C](#w3c-)
     * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
     * [Verifiable Claims](#verifiable-claims-)
@@ -78,14 +79,29 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 —[infominer.id](https://infominer.id)
 
-## DID-SSI History 
+## Decentralized Identity History [**^**](#contents)
 
-* [The Augmented Social Network and the IDCommons](/history.md#the-augmented-social-network-and-the-idcommons-)
-* [Internet Identity Workshop—IIW](/history.md#internet-identity-workshop-) 
-* [Bitnation and the United Nations](/history.md#bitnation-and-the-united-nations-)
-* [#Rebooting-Web-of-Trust (RWoT)](/history.md#rebooting-the-web-of-trust-)
-* [ID2020 and the GDPR](/history.md#id2020-and-the-gdpr-)
-* [Additional IID Standards History](/history.md#additional-iid-standards-history-)
+* [Losing Control over our Personal Information >>](history.md#losing-control-over-our-personal-information) '80s
+* [PGP - Web of Trust >>](#pgp---web-of-trust-) '91
+* [International Planetwork Conference >>](history.md#international-planetwork-conference-) '00s
+* [XNS Public Trust Organization >>](history.md#xns-public-trust-organization-)
+* [The Augmented Social Network >>](history.md#the-augmented-social-network-) '03
+* [IDCommons >>](history.md#idcommons-) '01
+* [Identity Gang >>](history.md#identity-gang-) '04
+  * [Kim Cameron - Laws of Identity >>](history.md#kim-cameron---laws-of-identity) 
+* [Internet Identity Workshop—IIW >>](history.md#internet-identity-workshop-) '05
+* [W3C Credentials Community Group >>](history.md#w3c-credentials-community-group-) '14 
+* [Bitnation >>](history.md#bitnation-) '15
+* [The United Nations Sustainable Development Goals >>](history.md#the-united-nations-sustainable-development-goals-) '15
+* [history.md#Rebooting-Web-of-Trust (RWoT) >>](history.md#rebooting-the-web-of-trust-) 
+* [Evernym >>](history.md#evernym-)
+* [ID2020 and the GDPR >>](history.md#id2020-and-the-gdpr-) '16
+* [The End of 2016 >>](history.md#the-end-of-2016-)
+* [Decentralized Identity Foundation >>](history.md#decentralized-identity-foundation-) '17
+* [Standards History >>](history.md#standards-history-)
+* [Resources >>](history.md#resources-)
+* [**infominer.id**](https://infominer.id)
+
 
 ## Self Sovereign Identity [**^**](#contents)
 
@@ -129,6 +145,16 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
 
+* [DID Whitepaper](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/DID-Whitepaper.md)
+  > A DID architecture should focus on the set of components that Mr. Gupta refers to as "the minimum required for people to be able to do business (or other critical functions) together".
+  >
+  >**A Decentralized Identifier (DID) Registry and Discovery Service**
+  >
+  > This "minimum required" is defined by a union of the proposed requirements identified by the W3C Credential Community Group, the XDI.org Registry Working Group, and the Rebooting the Web of Trust group. It consists of three functions that can be addressed by a combination of blockchain and DHT technology:
+  >
+  > * A DID registration function
+  > * A discovery function that enables looking up a registered DID in the blockchain
+  > * A master key recovery function
 * [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
   * [All you need to know about sequential UUID generators](https://blog.2ndquadrant.com/sequential-uuid-generators/)
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
