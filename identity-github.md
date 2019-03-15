@@ -11,6 +11,16 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 ## Contents
 
 * [Project Danube](#project-danube-)
+  * [XDI](#xdi-)
+  * [XDI Libraries](#xdi-libraries-)
+  * [XDI - Various Integrations](#xdi---various-integrations-)
+  * [XDI Configurations](#xdi-configurations-)
+  * [XDI Examples](#xdi-examples-)
+  * [XDI Plugins](#xdi-plugins-)
+  * [Aeternam](#aeternam-)
+  * [XDI Cloud](#xdi-cloud-)
+  * [XDI Server Deployed Via](#xdi-server-deployed-via-)
+  * [Services](#services-)
 * [Digital Bazaar](#digital-bazaar-)
   * [DB - Identity](#db---identity-)
   * [DB - Credentials](#db---credentials-)
@@ -87,19 +97,22 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 
 ### XDI [**^**](#contents)
 
+>[XDI.org](https://xdi.org) is a non-profit public trust organization whose purpose is to provide public infrastructure for digital identity, security, and privacy using the open standard XDI semantic data interchange protocol developed by the OASIS XDI Technical Committee.
 * <a href="https://github.com/projectdanube/xdi-tutorial" target="_blank">/projectdanube/xdi-tutorial</a> - XDI Tutorial
 * <a href="https://github.com/projectdanube/XDINinja-swing" target="_blank">/projectdanube/XDINinja-swing</a> - XDI-enabled standalone client application
 * <a href="https://github.com/projectdanube/xdi2-tools" target="_blank">/projectdanube/xdi2-tools</a> - XDI2 maintenance and other tools
-* <a href="https://github.com/projectdanube/xdi2-connect-auth-service" target="_blank">/projectdanube/xdi2-connect-auth-service</a> - This is a "Connect Auth Service" component for the XDI Browser binding.
+* <a href="https://github.com/projectdanube/xdi2-connector-personal" target="_blank">/projectdanube/xdi2-connector-personal</a> - A connector plugin for the XDI2 server that maps data from Personal.com to XDI
+* <a href="https://github.com/projectdanube/xdi2-docker" target="_blank">/projectdanube/xdi2-docker</a> - Dockerfiles for XDI2
+* <a href="https://github.com/projectdanube/xdi2-connect-buttonbuilder" target="_blank">/projectdanube/xdi2-connect-buttonbuilder</a> - "Button Builder" component for the XDI Connect protocol
 
-#### XDI libraries [**^**](#contents)
+### XDI libraries [**^**](#contents)
 
 * <a href="https://github.com/projectdanube/xdi2" target="_blank">/projectdanube/xdi2</a> - XDI2 general purpose library and server
 * <a href="https://github.com/projectdanube/xdi-js" target="_blank">/projectdanube/xdi-js</a> - XDI client library for JavaScript
 * <a href="https://github.com/projectdanube/xdi2-connect-core" target="_blank">/projectdanube/xdi2-connect-core</a> - Shared library for the XDI Connect protocol
 
 
-#### XDI - Various Integrations [**^**]
+### XDI - Various Integrations [**^**](#contents)
 
 * <a href="https://github.com/projectdanube/xdi2-bdb" target="_blank">/projectdanube/xdi2-bdb</a> - Support for using BDB as XDI2 backend storage
 * <a href="https://github.com/projectdanube/xdi2-mongodb" target="_blank">/projectdanube/xdi2-mongodb</a> - Support for using MongoDB as XDI2 backend storage
@@ -107,20 +120,24 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 * <a href="https://github.com/projectdanube/xdi2-redis" target="_blank">/projectdanube/xdi2-redis</a> - Support for using Redis as XDI2 backend storage
 * <a href="https://github.com/projectdanube/xdi2-tor" target="_blank">/projectdanube/xdi2-tor</a> - Integration of XDI and Tor
 * <a href="https://github.com/projectdanube/xdi2-ipfs" target="_blank">/projectdanube/xdi2-ipfs</a> - Integration of XDI and IPFS
+* <a href="https://github.com/projectdanube/withsqlite" target="_blank">/projectdanube/withsqlite</a> - A module for a python dict that back ends on an sqlite3 database. It's bit like shelve but with json and sqlite3.
+  - Forked from jvasile/withsqlite
 
-#### XDI Configuration [**^**](#contents)
+### XDI Configuration [**^**](#contents)
 
 * <a href="https://github.com/projectdanube/xdi2-selfhosted" target="_blank">/projectdanube/xdi2-selfhosted</a> - A configuration profile of the XDI2 server for self-hosting a single XDI graph.
 * <a href="https://github.com/projectdanube/xdi2-csp" target="_blank">/projectdanube/xdi2-csp</a> - A configuration profile of the XDI2 server for hosting a dynamic number of XDI graphs.
 * <a href="https://github.com/projectdanube/xdi2-registry" target="_blank">/projectdanube/xdi2-registry</a> - 
 A configuration profile of the XDI2 server for hosting a registry of XDI names and XDI numbers.
 
-#### XDI Examples [**^**](#contents)
+### XDI Examples [**^**](#contents)
 
-* <a href="https://github.com/projectdanube/xdi2-example-secp256k1-server" target="_blank">/projectdanube/xdi2-example-secp256k1-server</a> - Example XDI server using cid-2 cryptographic XDI numbers.
-* <a href="https://github.com/projectdanube/xdi2-example-ec25519-server" target="_blank">/projectdanube/xdi2-example-ec25519-server</a> - Example XDI server using cid-1 cryptographic XDI numbers.
 * <a href="https://github.com/projectdanube/xdi2-example-messaging" target="_blank">/projectdanube/xdi2-example-messaging</a> - XDI2 Examples: Basic messaging functionality.
 * <a href="https://github.com/projectdanube/xdi2-example-advanced-server" target="_blank">/projectdanube/xdi2-example-advanced-server</a> - XDI2 Examples: Setting up advanced XDI servers.
+* <a href="https://github.com/projectdanube/xdi2-example-core" target="_blank">/projectdanube/xdi2-example-core</a> - XDI2 Examples: Simple uses of the core functionality.
+* <a href="https://github.com/projectdanube/xdi2-example-client" target="_blank">/projectdanube/xdi2-example-client</a> - XDI2 Examples: Writing XDI client applications.
+* <a href="https://github.com/projectdanube/xdi2-example-secp256k1-server" target="_blank">/projectdanube/xdi2-example-secp256k1-server</a> - Example XDI server using cid-2 cryptographic XDI numbers.
+* <a href="https://github.com/projectdanube/xdi2-example-ec25519-server" target="_blank">/projectdanube/xdi2-example-ec25519-server</a> - Example XDI server using cid-1 cryptographic XDI numbers.
 * <a href="https://github.com/projectdanube/xdi2-connect-acmenews" target="_blank">/projectdanube/xdi2-connect-acmenews</a> - +acmenews XDI2 demo
 * <a href="https://github.com/projectdanube/xdi2-connect-leshop" target="_blank">/projectdanube/xdi2-connect-leshop</a> - +leshop XDI2 demo
 * <a href="https://github.com/projectdanube/xdi2-example-secp256k1-client" target="_blank">/projectdanube/xdi2-example-secp256k1-client</a> - Example XDI client using cid-2 cryptographic XDI numbers.
@@ -128,7 +145,7 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 
 
 
-#### XDI Plugins [**^**](#contents)
+### XDI Plugins [**^**](#contents)
 
 * <a href="https://github.com/projectdanube/xdi2-crypto-secp256k1" target="_blank">/projectdanube/xdi2-crypto-secp256k1</a> - This is an secp256k1 crypto plugin for the XDI2 client and server.
 * <a href="https://github.com/projectdanube/xdi2-crypto-ec25519" target="_blank">/projectdanube/xdi2-crypto-ec25519</a> - This is an Ed25519 crypto plugin for the XDI2 client and server.
@@ -138,7 +155,7 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/projectdanube/xdi2-connector-cozy" target="_blank">/projectdanube/xdi2-connector-cozy</a> - A connector plugin for CozyCloud
 * <a href="https://github.com/projectdanube/xdi2-filesys" target="_blank">/projectdanube/xdi2-filesys</a> - Plugin for an XDI2 server to integrate with a local filesystem
 
-#### Aeternam [**^**](#contents)
+### Aeternam [**^**](#contents)
 
 * <a href="https://github.com/projectdanube/aeternam-xdi-sncf" target="_blank">/projectdanube/aeternam-xdi-sncf</a> - Aeternam PNR Demo: SNCF
 * <a href="https://github.com/projectdanube/aeternam-xdi-db" target="_blank">/projectdanube/aeternam-xdi-db</a> - Aeternam PNR Demo: Deutsche Bahn
@@ -147,13 +164,14 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/projectdanube/aeternam-xdi-webshop" target="_blank">/projectdanube/aeternam-xdi-webshop</a> - Aeternam PNR Demo: Webshop
 * <a href="https://github.com/projectdanube/aeternam-xdi-oebb" target="_blank">/projectdanube/aeternam-xdi-oebb</a> - Aeternam PNR Demo: ÖBB
 
-#### XDI Cloud [**^**](#contents)
+### XDI Cloud [**^**](#contents)
 
 * <a href="https://github.com/projectdanube/xdi2-cloudcards" target="_blank">/projectdanube/xdi2-cloudcards</a> - XDI Cloud Card Viewer
 * <a href="https://github.com/projectdanube/xdi2-messenger" target="_blank">/projectdanube/xdi2-messenger</a> - XDI Cloud Messenger
 * <a href="https://github.com/projectdanube/xdi2-manager" target="_blank">/projectdanube/xdi2-manager</a> - XDI Cloud Manager
+* <a href="https://github.com/projectdanube/xdi2-pixel" target="_blank">/projectdanube/xdi2-pixel</a> - Tool to translate a personal cloud policy language (Pixel) to XDI link contracts.
 
-#### XDI Server Deployed Via...
+### XDI Server Deployed Via [**^**](#contents)
 
 * <a href="https://github.com/projectdanube/xdi2-server-grizzly" target="_blank">/projectdanube/xdi2-server-grizzly</a> - XDI2 Server deployed via Grizzly
 * <a href="https://github.com/projectdanube/xdi2-server-mina" target="_blank">/projectdanube/xdi2-server-mina</a> - XDI2 Server deployed via Apache MINA
@@ -161,55 +179,17 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/projectdanube/xdi2-server-undertow" target="_blank">/projectdanube/xdi2-server-undertow</a> - XDI2 Server deployed via Undertow
 * <a href="https://github.com/projectdanube/xdi2-server-vertx" target="_blank">/projectdanube/xdi2-server-vertx</a> - XDI2 Server deployed via vert.x
 
----
+### Sevices [**^**](#contents)
 * <a href="https://github.com/projectdanube/xdi2-connect-service" target="_blank">/projectdanube/xdi2-connect-service</a> - This is a "Connect Service" component for the XDI Browser binding.
+* <a href="https://github.com/projectdanube/neustar-discovery-service" target="_blank">/projectdanube/neustar-discovery-service</a> - Neustar XDI Discovery Service based on XRI Resolution
+  - Forked from neustarpc/neustar-discovery-service
+* <a href="https://github.com/projectdanube/xdi2-connect-auth-service-war" target="_blank">/projectdanube/xdi2-connect-auth-service-war</a> - "Authorization Service" for the XDI Connect protocol, packaged as .WAR file
+* <a href="https://github.com/projectdanube/xdi2-connect-service-war" target="_blank">/projectdanube/xdi2-connect-service-war</a> - "Connect Service" for the XDI Connect protocol, packaged as .WAR file
+* <a href="https://github.com/projectdanube/xdi-grapheditor" target="_blank">/projectdanube/xdi-grapheditor</a> - An XDI Graph Editor
+  -Forked from neustar/xdi-grapheditor
+* <a href="https://github.com/projectdanube/xdi2-connect-auth-service" target="_blank">/projectdanube/xdi2-connect-auth-service</a> - This is a "Connect Auth Service" component for the XDI Browser binding.
 
-* <a href="https://github.com/projectdanube/" target="_blank">/projectdanube/</a>
-* <a href="https://github.com/projectdanube/" target="_blank">/projectdanube/</a>
-* <a href="https://github.com/projectdanube/" target="_blank">/projectdanube/</a>
-* <a href="https://github.com/projectdanube/" target="_blank">/projectdanube/</a>
-* <a href="https://github.com/projectdanube/" target="_blank">/projectdanube/</a>
-* <a href="https://github.com/projectdanube/" target="_blank">/projectdanube/</a>
 
-Updated on Sep 14, 2015
-xdi2-example-client
-XDI2 Examples: Writing XDI client applications.
- Java  1 MIT Updated on Sep 8, 2015
-xdi2-example-core
-XDI2 Examples: Simple uses of the core functionality.
- Java  1  1 MIT Updated on Sep 8, 2015
-neustar-discovery-service
-Forked from neustarpc/neustar-discovery-service
-Neustar XDI Discovery Service based on XRI Resolution
- Java  2 MIT Updated on Aug 10, 2015
-xdi2-connect-auth-service-war
-"Authorization Service" for the XDI Connect protocol, packaged as .WAR file
- Java AGPL-3.0 Updated on Jul 29, 2015
-xdi2-connect-service-war
-"Connect Service" for the XDI Connect protocol, packaged as .WAR file
- Java Updated on Jul 28, 2015
-xdi-grapheditor
-Forked from neustar/xdi-grapheditor
-An XDI Graph Editor
- JavaScript  6 MIT Updated on Apr 29, 2015
-xdi2-connector-personal
-A connector plugin for the XDI2 server that maps data from Personal.com to XDI
- Java  1  2 MIT Updated on Nov 18, 2014
-xdi2-docker
-Dockerfiles for XDI2
- Shell Updated on Nov 18, 2014
-xdi2-connect-buttonbuilder
-"Button Builder" component for the XDI Connect protocol
- JavaScript MIT Updated on Aug 26, 2014
-withsqlite
-Forked from jvasile/withsqlite
-A module for a python dict that back ends on an sqlite3 database. It's bit like shelve but with json and sqlite3.
- Python  4 GPL-3.0 Updated on Apr 28, 2014
-xdi2-pixel
-Tool to translate a personal cloud policy language (Pixel) to XDI link contracts.
- Java  1 Updated on Feb 9, 2014
-xdi2-oauth2
-DEPRECATED: Dynamic provisioning of XDI link contracts via OAuth 2.0
 
 
 
