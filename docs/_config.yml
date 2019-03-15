@@ -2,10 +2,7 @@ plugins:
     - jekyll-seo-tag
     - jekyll-github-metadata
     - jekyll-redirect-from
-    
-theme: jekyll-theme-slate
-
-
+ 
 url           : "http://infominer.id/awesome-decentralized-id"
 baseurl       : "/awesome-decentralized-id"
 title         : "Decentralized Identity"
