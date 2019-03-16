@@ -14,9 +14,9 @@
   * [PSPC-SPAC-buyandsell](#pspc-spac-buyandsell-) - Public Services and Procurement Canada
 * [History](#history-)
 ---
-* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
-* [infominer.id/Decentralized-ID/indy-ecosystem](https://infominer.id/Decentralized-ID/indy-ecosystem)
-* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID/indy-ecosystem](https://infominer.id/DecentralizedID/indy-ecosystem)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)
 
 
@@ -96,8 +96,8 @@ Public Services and Procurement Canada: buyandsell.gc.ca --- Services publics et
 
 ---
 
-* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
-* [infominer.id/Decentralized-ID/indy-ecosystem](https://infominer.id/Decentralized-ID/indy-ecosystem)
-* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID/indy-ecosystem](https://infominer.id/DecentralizedID/indy-ecosystem)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)
 

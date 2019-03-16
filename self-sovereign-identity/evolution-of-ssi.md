@@ -71,9 +71,9 @@ I'm not the most qualified, I just have time and motivation. (Specifically, some
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
 ## [infominer.id](https://infominer.id)  ([**^**](#contents))
-* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
-* [infominer.id/Decentralized-ID/self-sovereign-identity](https://infominer.id/Decentralized-ID/self-sovereign-identity)
-* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID/self-sovereign-identity](https://infominer.id/DecentralizedID/self-sovereign-identity)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)
 
 

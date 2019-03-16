@@ -38,8 +38,8 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
 
 ---
 
-* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
-* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)
 
 
@@ -174,8 +174,8 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
 ## [infominer.id](https://infominer.id)  ([**^**](#contents))
-* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
-* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 
 
 **Tips Jar**
