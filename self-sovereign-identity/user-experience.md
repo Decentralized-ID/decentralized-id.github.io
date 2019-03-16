@@ -26,3 +26,10 @@ Even banks themselves could attest to the person having an account with them. We
 Data sharing
 Data would be stored on the person’s device (as pieces of paper are currently stored at home today), and then when requested, the person would approve a third party to collect specific data, by tapping a notification on their device, We already have something similar to this – if you have ever used a service by “linking” your Facebook or LinkedIn account, this is similar – but instead of going to Facebook’s servers to collect your personal data, it requests it from your phone, and you have granular control over what data is shared.
 
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
+
+## [infominer.id](https://infominer.id)  ([**^**](#contents))
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+
+

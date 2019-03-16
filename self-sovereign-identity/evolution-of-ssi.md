@@ -68,5 +68,10 @@ I can see that I'll need to spend a lot more time with this content, am just lea
 
 I'm not the most qualified, I just have time and motivation. (Specifically, sometimes I write about Self-Sovereign Identity. But I want to write about it in an accurate way, which is difficult to do until some order is made of all this material.)
 
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
+
 ## [infominer.id](https://infominer.id)  ([**^**](#contents))
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/> 
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+
+
