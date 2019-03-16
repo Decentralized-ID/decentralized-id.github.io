@@ -35,6 +35,9 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
     * [Research Papers](literature.md#research-papers-)
     * [Reports](literature.md#reports)
 * [Sources](#sources-)
+
+---
+
 * [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
 * [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 * [infominer.id](https://infominer.id)

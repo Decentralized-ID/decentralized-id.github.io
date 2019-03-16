@@ -93,6 +93,9 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 * [Simbol](#simbol-)
 * [Assorted](#assorted-)
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
+
+---
+
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
 * [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
 * [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)

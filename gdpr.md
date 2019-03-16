@@ -15,6 +15,7 @@
 * [When GDPR Becomes Real, and Blockchain is no longer fairydust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/gdpr.md)
 * [Self-Sovereign Privacy By Design](https://github.com/sovrin-foundation/protocol/blob/master/self_sovereign_privacy_by_design_v1.md)s
 
+---
 
 * [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
 * [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
