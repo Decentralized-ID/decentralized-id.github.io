@@ -6,7 +6,7 @@
 
 You will notice I changed the name of the repository, as it no longer resembles anything like an awesome-list and won't move that direction any time soon. I also figured out how to run this page as a directory off of my personal page... I plan to keep it current with [Decentralized-ID.com](https://github.com/decentralized-id/decentralized-id.github.io) but that's more of a placeholder for a time where there are others who would like to take a more active role to ensure this resource accurately reflects the ecosystem it is made for.
 
-For the time being, [**infominer.id/Decentralized-ID**] will be the most current version of this resource, and I will make every effort to optimize it for that experience rather than navigating through the repository.
+For the time being, [**infominer.id/DecentralizedID**](https://infominer.id/DecentralizedID) will be the most current version of this resource, and I will make every effort to optimize it for that experience, including mobile; rather than for navigating through the repository.
 
 ## Contents
 
