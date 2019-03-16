@@ -12,6 +12,8 @@ You will notice I changed the name of the repository, as it no longer resembles 
 
 For now, [**infominer.id/DecentralizedID**](https://infominer.id/DecentralizedID) will be the most up to date - and I will make every effort to optimize it for that experience, including mobile; rather than for navigation through the repository.
 
+..test..
+
 ## Contents
 
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
