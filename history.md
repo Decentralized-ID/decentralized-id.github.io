@@ -20,6 +20,9 @@
 * [Decentralized Identity Foundation](#decentralized-identity-foundation-) '17
 * [Standards History](#standards-history-)
 * [Resources](#resources-)
+
+---
+
 * [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
 * [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 * [infominer.id](https://infominer.id)

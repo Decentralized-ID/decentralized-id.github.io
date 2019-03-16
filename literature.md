@@ -8,7 +8,9 @@
 * [Rebooting Web of Trust -Directory](#rebooting-web-of-trust-)
 * [Assorted Thought Around Identity](#assorted-thought-around-identity)
 * [>> Sovrin Related Literature](indy-ecosystem/literature.md)
+
 ---
+
 * [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
 * [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 * [infominer.id](https://infominer.id)

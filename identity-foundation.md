@@ -11,7 +11,9 @@
   * [DIF - Sidetree](#dif---sidetree-)
   * [DIF - Hub](#dif---hub-)
   * [DIF - Uniresolver](#dif---uniresolver-)
+
 ---
+
 * [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
 * [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 * [infominer.id](https://infominer.id)

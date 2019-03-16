@@ -26,7 +26,9 @@
 * [Cryptonomica](#cryptonomica-)
   * [Cryptonomica Github Repos](#cryptonomica-github-repos-)
 * [Assorted Ethereum Apps](#assorted-ethereum-apps-)
+
 ---
+
 * [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
 * [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 * [infominer.id](https://infominer.id)
