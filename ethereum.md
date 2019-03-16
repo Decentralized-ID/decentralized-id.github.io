@@ -23,6 +23,8 @@
   * [Jolocom Github Repos](#jolocom-github-repos-)
 * [Spidchain](#spidchain-)
   * [Spid-Eth Repos](#spid-eth-repos-)
+* [Cryptonomica](#cryptonomica-)
+  * [Cryptonomica Github Repos](#cryptonomica-github-repos-)
 * [Assorted Ethereum Apps](#assorted-ethereum-apps-)
 
 
@@ -200,6 +202,21 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/SpidChain/nodejs-ethereum" target="_blank">/SpidChain/nodejs-ethereum</a> - Forked from b9lab/nodejs-ethereum
 Example of using NodeJs with Ethereum
 
+## Cryptonomica [**^**](#contents)
+
+[![](http://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
+
+ * [Cryptonomica.net](https://cryptonomica.net) is an identity verification service based on [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) and [Ethereum](https://www.ethereum.org) with legal framework and online dispute resolution for electronic contracts from London-based [court of arbitration](https://cryptonomica.net/#!/arbitration) 
+
+### Cryptonomica Github Repos [**^**](#contents)
+* <a href="https://github.com/Cryptonomica/cryptonomica" target="_blank">/Cryptonomica/cryptonomica</a> - Cryptonomica keys server
+* <a href="https://github.com/Cryptonomica/cryptonomica.github.io" target="_blank">/Cryptonomica/cryptonomica.github.io</a> - Cryptonomica frontend
+* <a href="https://github.com/Cryptonomica/arbitration-rules" target="_blank">/Cryptonomica/arbitration-rules</a> - Cryptonomica Arbitration Rules
+* <a href="https://github.com/Cryptonomica/dappathon-tlv" target="_blank">/Cryptonomica/dappathon-tlv</a>
+* <a href="https://github.com/Cryptonomica/Ethereum-IdentityVerification" target="_blank">/Cryptonomica/Ethereum-IdentityVerification</a> - Indentity verification and KYC for Ethereum blockchain
+* <a href="https://github.com/Cryptonomica/ethnode.cryptonomica.net" target="_blank">/Cryptonomica/ethnode.cryptonomica.net</a> - Ethereum node with API on nodejs and web3.js
+* <a href="https://github.com/Cryptonomica/Ethereum-IdentityProof" target="_blank">/Cryptonomica/Ethereum-IdentityProof</a> - Smart contract for Ethereum's account owner verification using Cryptonomica.net
+* <a href="https://github.com/Cryptonomica/international-arbitration-law" target="_blank">/Cryptonomica/international-arbitration-law</a> - Repository for collecting information about international arbitration law and practice
 
 ### Assorted Ethereum Apps [**^**](#contents)
 
@@ -210,5 +227,3 @@ Example of using NodeJs with Ethereum
 * [poa.network](https://poa.network/)[**[D](https://medium.com/poa-network/poa-network-how-honey-badger-bft-consensus-works-4b16c0f1ff94)**]
  POA Network is an Ethereum-based platform that offers an open-source framework for smart contracts. POA Network is a sidechain to Ethereum utilizing [Proof of Authority](https://blockonomi.com/proof-of-authority/)
  as its consensus mechanism. 
- * [Cryptonomica.net](https://cryptonomica.net) is an identity verification service based on [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) and [Ethereum](https://www.ethereum.org) with legal framework and online dispute resolution for electronic contracts from London-based [court of arbitration](https://cryptonomica.net/#!/arbitration) 
-
