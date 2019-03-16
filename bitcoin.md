@@ -4,11 +4,26 @@
 
 ## Contents
 
+* [BTCR](#btcr-)
+* [RWoT BTCR](#rwot-btcr-)
 * [Bitnation](#bitnation)
 * [Spidchain](#spidchain)
 * [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
 * [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
 * [infominer.id](https://infominer.id)
+
+### BTCR
+* <a href="https://github.com/w3c-ccg/didm-btcr" target="_blank">/w3c-ccg/didm-btcr</a> - WORK ITEM: BTCR DID Method Spec
+* did:btcr:      - [BTCR DID Method](https://w3c-ccg.github.io/didm-btcr/) 
+  * The Bitcoin Reference DID method (did:btcr) supports DIDs on the public Bitcoin blockchain. The Bitcoin Reference method has minimal design goals: a DID trust anchor based on the Bitcoin blockchain, updates publicly visible and auditable via Bitcoin transactions, and optionally, additional DID Document information referenced in the transaction OP_RETURN data field. No other Personal Identifiable Information (PII) would be placed on the immutable blockchain.
+  * [btcr tx conversion playground](https://weboftrustinfo.github.io/btcr-tx-playground.github.io/) 
+  
+
+### RWot BTCR [**^**](#contents)
+
+* <a href="https://github.com/WebOfTrustInfo/btcr-tx-playground.github.io" target="_blank">/WebOfTrustInfo/btcr-tx-playground.github.io</a>
+* <a href="https://github.com/WebOfTrustInfo/btcr-did-tools-js" target="_blank">/WebOfTrustInfo/btcr-did-tools-js</a>
+* <a href="https://github.com/WebOfTrustInfo/btcr-hackathon" target="_blank">/WebOfTrustInfo/btcr-hackathon</a> - Virtual hackathon to create spec and code for Bitcoin-based Decentralized Identifiers (DIDs)
 
 
 ## Bitnation
