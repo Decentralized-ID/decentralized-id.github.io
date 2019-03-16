@@ -9,3 +9,8 @@
 * [Self-Sovereign Identity Systems for Humanitarian Interventions—A Case Study on Protective Cash Transfer Programs](https://repository.tudelft.nl/islandora/object/uuid:6cdb5450-9a81-47a9-8ffa-f9bd77c72448/datastream/OBJ1/download)
 * [The Nail Finds a Hammer: Self-Sovereign Identity, Design Principles, and Property Rights in the Developing World](https://www.newamerica.org/future-property-rights/reports/nail-finds-hammer/)
 
+---
+
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)

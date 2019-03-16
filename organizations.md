@@ -1,6 +1,8 @@
 # DID-SSI Organizations
 
-this page is a work in progress
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
 
 ## IIW - Internet Identity Workshop
 

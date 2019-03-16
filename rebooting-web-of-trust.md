@@ -39,8 +39,10 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 * [RWoT GitHub Listing](#rwot-github-listing-)
 * [>> Identity Research and Literature](literature.md)
 * [>> Sovrin Related Literature](indy-ecosystem/literature.md)
-* [<< /awesome-decentralized-id](README.md)
-* [**infominer.id**](https://infominer.id)
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
+
 
 ## Selected 'Rebooting Web of Trust' Whitepapers [**^**](#contents) 
 
