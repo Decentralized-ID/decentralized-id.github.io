@@ -16,3 +16,9 @@ Hyperledger Indy Project Enhancements
 * [/indy-crypto](https://github.com/hyperledger/indy-crypto) - shared crypto library for Hyperledger Indy components. To be:
 * [/ursa](https://github.com/hyperledger/ursa) [[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)][[**ϟ**](https://www.coindesk.com/hyperledger-launches-cryptography-toolbox-for-blockchain-developers)] "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the shared library will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram) [[**wiki**](https://wiki.hyperledger.org/projects/ursa)]
 
+---
+
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id/indy-ecosystem](https://infominer.id/awesome-decentralized-id/indy-ecosystem)
+* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+* [infominer.id](https://infominer.id)

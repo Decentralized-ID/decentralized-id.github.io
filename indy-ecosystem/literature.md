@@ -6,9 +6,10 @@
 * [EU General Data Protection Regulation Act](#eu-general-data-protection-regulation-act-)
 * [Research Papers](#research-papers-)
 * [Reports](#reports)
-* [/indy-ecosystem/README.md](README.md)
-* [<< /awesome-decentralized-id](../README.md)
-* [**infominer.id**](https://infominer.id)
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id/indy-ecosystem](https://infominer.id/awesome-decentralized-id/indy-ecosystem)
+* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+* [infominer.id](https://infominer.id)
 
 
 ## Selected articles Windley.com [**^**](#Contents)

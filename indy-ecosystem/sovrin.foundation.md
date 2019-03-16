@@ -2,6 +2,7 @@
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
 
+
 * [[**F**](https://forum.sovrin.org/)]orum • [[**C**](https://chat.sovrin.org/)]hat • [[**T**](https://twitter.com/SovrinID)]witter • [[**G**](https://github.com/sovrin-foundation/sovrin)]ithub • [[**tele**](https://t.me/sovrin_foundation)]gram • [[**web**](https://sovrin.org/)]site
 * [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
  Foundation is creating a public instance of the Sovrin\Indy codebase; initially developed by [Evernym](#Evernym)
@@ -158,3 +159,9 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ### Veridium
 • [Veridium](https://veridiumid.com/)
 
+---
+
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id/indy-ecosystem](https://infominer.id/awesome-decentralized-id/indy-ecosystem)
+* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+* [infominer.id](https://infominer.id)
