@@ -30,3 +30,10 @@
 * <a href="https://twitter.com/Hyperledger/status/1072892591157510148"><img src="https://i.imgur.com/pjs9aPf.png"/></a>
 * <a href="https://twitter.com/techkuz/status/1074492556434698241"><img src="https://i.imgur.com/txTBlSU.png"/></a>
 * <a href="https://twitter.com/ByteSizeCapital/status/1046067509869367307"><img src="https://i.imgur.com/WeLDs34.png"/></a>
+
+---
+
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id/indy-ecosystem](https://infominer.id/awesome-decentralized-id/indy-ecosystem)
+* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+* [infominer.id](https://infominer.id)
