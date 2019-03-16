@@ -12,7 +12,7 @@ You will notice I changed the name of the repository, as it no longer resembles 
 
 For now, [**infominer.id/DecentralizedID**](https://infominer.id/DecentralizedID) will be the most up to date - and I will make every effort to optimize it for that experience, including mobile; rather than for navigation through the repository.
 
-..test..
+..test.
 
 ## Contents
 
