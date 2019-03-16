@@ -46,7 +46,10 @@ We present the Why, What and How including our strategy for bootstrapping VON us
 * [Indy Catalyst](#indy-catalyst-)
 * [Serving the Public](#serving-the-public-)
 * [Q&A](#qa-)
-* [Home](https://infominer.id)
+---
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
 
 ## Transcript [**^**](#contents)
 
@@ -471,5 +474,8 @@ so we had to experiment with that that could be quite an interesting matter all 
 questions or great well hopefully some of you will come for a workshop and thanks for your time
 [Applause]
 
+---
 
-**Contact Me for Research Based Content—[infominer.id](https://infominer.id)**
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
