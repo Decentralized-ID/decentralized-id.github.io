@@ -90,9 +90,9 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 * [Simbol](#simbol-)
 * [Assorted](#assorted-)
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
-* [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
 * [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+  * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
+  * [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
 * [infominer.id](https://infominer.id)
 
 

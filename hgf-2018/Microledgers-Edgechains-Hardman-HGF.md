@@ -37,7 +37,10 @@ image: "https://infominer.id/images/edge-card.png"
 * [Megaphone Protocol](#megaphone-protocol-)
 * [Call to Action](#call-to-action-)
 * [Q&A](#qa-)
-* [Home](https://infominer.id)
+---
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
 
 ## Microledgers and Edge-Chains [**^**](#contents)
 **Lightly edited transcript from Youtube.**
@@ -666,3 +669,7 @@ be great and thanks for your attention I
 appreciate it
 
 
+---
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
