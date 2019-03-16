@@ -6,10 +6,12 @@
 * [EU General Data Protection Regulation Act](#eu-general-data-protection-regulation-act-)
 * [Research Papers](#research-papers-)
 * [Reports](#reports)
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id/indy-ecosystem](https://infominer.id/awesome-decentralized-id/indy-ecosystem)
-* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+---
+* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
+* [infominer.id/Decentralized-ID/indy-ecosystem](https://infominer.id/Decentralized-ID/indy-ecosystem)
+* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 * [infominer.id](https://infominer.id)
+
 
 
 ## Selected articles Windley.com [**^**](#Contents)
@@ -46,3 +48,11 @@
 * [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
 * [IDENTITY MATTERS](https://cboxxtest.files.wordpress.com/2017/09/cboxxidentitymatters04.pdf)
 * [A position paper on blockchain enabled identity and the road ahead—Identity Working Group of the German Blockchain Association](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)
+
+---
+
+* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
+* [infominer.id/Decentralized-ID/indy-ecosystem](https://infominer.id/Decentralized-ID/indy-ecosystem)
+* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
+* [infominer.id](https://infominer.id)
+
