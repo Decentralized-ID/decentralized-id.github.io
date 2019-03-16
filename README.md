@@ -8,7 +8,7 @@ description: "Resources for Creating a Vendor Agnostic, User-Controlled, Identit
 
 ## Note:
 
-You will notice I changed the name of the repository, as it no longer resembles anything like an awesome-list and won't move that direction any time soon. I also figured out how to run this page as a directory off of my personal page... I plan to keep it current with [Decentralized-ID.com](https://github.com/decentralized-id/decentralized-id.github.io) but that's more of a placeholder for a time where there are others who would like to take a more active role to ensure this resource accurately reflects the ecosystem it is made for.
+I changed the name of the repository, as it no longer resembles anything like an awesome-list and won't move that direction any time soon. I also figured out how to run this as a directory off of my personal page... and will try to keep  [Decentralized-ID.com](https://github.com/decentralized-id/decentralized-id.github.io) running a current version of this page, but that's more of a placeholder - an invitation - for others to take an active role to ensure this resource reflects the ecosystem it is made for.
 
 For now, [**infominer.id/DecentralizedID**](https://infominer.id/DecentralizedID) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github.
 
