@@ -41,9 +41,12 @@ For now, this is still home and best maintained.
     * [Spidchain](bitcoin.md#spidchain-) >>
   * [Ethereum](ethereum.md) >>
     * [ERC-EIP](ethereum.md#erc-eip-) >>
+    * [ERC725-735](ethereum.md#erc725-735-)
     * [uPort](ethereum.md#uport-) >>
     * [Jolocom](ethereum.md#jolocom-) >>
     * [Spidchain](ethereum.md#spidchain-) >>
+    * [Cryptonomica](ethereum.md#cryptonomica-) >>
+    * [Assorted Ethereum Apps](ethereum.md#assorted-ethereum-apps-) >>
   * [Indy Ecosystem](indy-ecosystem/) >>
     * [Adoption](indy-ecosystem/adoption.md) >>
     * [Indy Github](indy-ecosystem/indy-github.md) >>
