@@ -7,7 +7,15 @@ image: "https://infominer.id/images/edge-card.png"
 # Hyperledger Global Forum 2018 — Microledgers and Edge-Chains 
 **A Primer - Daniel Hardman, Evernym**
 
+---
+
 <code>Editors Note: I've taken to working on youtube transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
+
+
+* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
+* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
+
+---
 
 [Evernym](https://evernym.com)’s Chief Architect [Daniel Hardman](https://www.evernym.com/team/daniel-hardman/) takes the Hyperledger community through Evernym’s work on Microledgers and Edge-Chains Architecture. Attendees will gain insight into the theory, applications and evolution in Hyperledger Indy along with a practical discussion of their potential.
 
@@ -37,10 +45,7 @@ image: "https://infominer.id/images/edge-card.png"
 * [Megaphone Protocol](#megaphone-protocol-)
 * [Call to Action](#call-to-action-)
 * [Q&A](#qa-)
----
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
-* [infominer.id](https://infominer.id)
+* [Home](https://infominer.id)
 
 ## Microledgers and Edge-Chains [**^**](#contents)
 **Lightly edited transcript from Youtube.**
@@ -670,6 +675,8 @@ appreciate it
 
 
 ---
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+
+* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
+* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 * [infominer.id](https://infominer.id)
+

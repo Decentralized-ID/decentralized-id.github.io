@@ -7,7 +7,14 @@ image: "https://infominer.id/images/VON.png"
 # Hyperledger Global Forum 2018 — Verifiable Organizations Network 
 **A Production Government Deployment of Hyperledger Indy**
 
+---
+
 <code>Editors Note: I've taken to working on youtube transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
+
+* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
+* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
+
+---
 
 -Published on Dec 27, 2018
 
@@ -46,10 +53,7 @@ We present the Why, What and How including our strategy for bootstrapping VON us
 * [Indy Catalyst](#indy-catalyst-)
 * [Serving the Public](#serving-the-public-)
 * [Q&A](#qa-)
----
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
-* [infominer.id](https://infominer.id)
+* [Home](https://infominer.id)
 
 ## Transcript [**^**](#contents)
 
@@ -474,8 +478,10 @@ so we had to experiment with that that could be quite an interesting matter all 
 questions or great well hopefully some of you will come for a workshop and thanks for your time
 [Applause]
 
+
 ---
 
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
+* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 * [infominer.id](https://infominer.id)
+

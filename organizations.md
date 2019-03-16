@@ -1,8 +1,12 @@
 # DID-SSI Organizations
 
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+---
+* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
+* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 * [infominer.id](https://infominer.id)
+---
+
+in progress....
 
 ## IIW - Internet Identity Workshop
 
@@ -123,3 +127,8 @@ Anything to support the cause – please get in touch and we will try to find a 
    * The platform includes the [Vetri](https://vetri.global/) wallet and marketplace. 'Earn extra income and rewards by joining the data economy.'"
 * [We can do better than selling our data](http://blogs.harvard.edu/doc/2018/09/18/data/)-Doc Searls(*IIW*)
 
+---
+
+* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
+* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
+* [infominer.id](https://infominer.id)

@@ -16,6 +16,6 @@
 * [Self-Sovereign Privacy By Design](https://github.com/sovrin-foundation/protocol/blob/master/self_sovereign_privacy_by_design_v1.md)s
 
 
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
+* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 * [infominer.id](https://infominer.id)
