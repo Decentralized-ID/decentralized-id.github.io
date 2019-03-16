@@ -20,7 +20,10 @@
 * [Decentralized Identity Foundation](#decentralized-identity-foundation-) '17
 * [Standards History](#standards-history-)
 * [Resources](#resources-)
-* [**infominer.id**](https://infominer.id)
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
+
 
 ## Losing Control Over our Personal Information
 

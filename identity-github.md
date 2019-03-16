@@ -12,8 +12,6 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 
 ## Contents
 
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
 * [Project Danube](#project-danube-)
   * [XDI](#xdi-)
   * [XDI Libraries](#xdi-libraries-)
@@ -93,7 +91,10 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 * [Assorted](#assorted-)
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
-* [HOME](https://infominer.id)
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
+
 
 ## /project-danube [**^**](#contents)
 

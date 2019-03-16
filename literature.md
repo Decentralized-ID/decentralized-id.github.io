@@ -9,7 +9,10 @@
 * [Assorted Thought Around Identity](#assorted-thought-around-identity)
 * [>> Sovrin Related Literature](indy-ecosystem/literature.md)
 * [<< /awesome-decentralized-id](README.md)
-  * [**infominer.id**](https://infominer.id)
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id](https://infominer.id/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
+
 
 ## Literature [**^**](#contents)
 
