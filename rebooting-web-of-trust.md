@@ -40,8 +40,8 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 * [>> Identity Research and Literature](literature.md)
 * [>> Sovrin Related Literature](indy-ecosystem/literature.md)
 ---
-* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
-* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)
 
 

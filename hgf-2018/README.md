@@ -38,11 +38,11 @@ I'll do this for any other "essential" videos containing information that isn't 
 
 If you have any videos you'd like to see transcripts prepared in the following format, feel free to [contact me](https://infominer.id).
 
-* [Microledgers and Edge-Chains - Daniel Hardman - Evernym](https://github.com/infominer33/awesome-decentralized-id/blob/master/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF.md)
-* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](https://github.com/infominer33/awesome-decentralized-id/blob/master/hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF.md)
+* [Microledgers and Edge-Chains - Daniel Hardman - Evernym](Microledgers-Edgechains-Hardman-HGF.md)
+* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](VerifiableOrganizationsNetwork-HGF.md)
 
 ---
 
-* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
-* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)

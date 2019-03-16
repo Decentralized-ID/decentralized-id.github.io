@@ -45,7 +45,7 @@ Then I realized that I should make a more complete survey of the subject, if I w
 * [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
 * [Towards Self-Sovereign Identity using Blockchain Technology](https://essay.utwente.nl/71274/1/Baars_MA_BMS.pdf)
 * [Self-sovereign Identity –	Opportunities and Challenges for the Digital Revolution](https://arxiv.org/pdf/1712.01767.pdf)
-* [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
+* [Decentralized Identity Trilemma](http://maciek.blog/DecentralizedIDentity-trilemma/)
    >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
 * [Self Sovereign Identity and MyData](https://medium.com/@apoikola/self-sovereign-identity-and-mydata-e1f996a9451)
 * [HIPE 0014-ssi-notation](https://github.com/hyperledger/indy-hipe/tree/master/text/0014-ssi-notation)
@@ -84,7 +84,7 @@ Then I realized that I should make a more complete survey of the subject, if I w
 * <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw"><img src="https://i.imgur.com/f3FlznM.png"/></a>
 * <a href="https://twitter.com/VitalikButerin/status/1072160446180810752"><img src="https://i.imgur.com/tNvN7vV.png"/></a>
 * [There’s A Facebook Alternative, It’s Called Self-Sovereign Identity](https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity) —coindesk
-* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
+* [A Universal Resolver for self-sovereign identifiers](https://medium.com/DecentralizedIDentity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/DecentralizedIDentity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
   * [uniresolver.io](https://uniresolver.io/)
 
 
@@ -99,8 +99,8 @@ Then I realized that I should make a more complete survey of the subject, if I w
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
 ## [infominer.id](https://infominer.id)  ([**^**](#contents))
-* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
-* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
+* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)
 
 
