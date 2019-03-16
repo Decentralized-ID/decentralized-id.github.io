@@ -1,3 +1,7 @@
+---
+title: Decentralized Identity — SSI- DID
+description: "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
+---
 # SSI - DID Resources
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
@@ -7,7 +11,6 @@
 You will notice I changed the name of the repository, as it no longer resembles anything like an awesome-list and won't move that direction any time soon. I also figured out how to run this page as a directory off of my personal page... I plan to keep it current with [Decentralized-ID.com](https://github.com/decentralized-id/decentralized-id.github.io) but that's more of a placeholder for a time where there are others who would like to take a more active role to ensure this resource accurately reflects the ecosystem it is made for.
 
 For now, [**infominer.id/DecentralizedID**](https://infominer.id/DecentralizedID) will be the most up to date - and I will make every effort to optimize it for that experience, including mobile; rather than for navigation through the repository.
-
 
 ## Contents
 
@@ -61,7 +64,7 @@ For now, [**infominer.id/DecentralizedID**](https://infominer.id/DecentralizedID
   * [Microsoft](microsoft.md) >>
   * [IBM](ibm.md) >>
 * [Sources](#sources-)
-* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
+* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
 * [infominer.id](https://infominer.id)
 
 

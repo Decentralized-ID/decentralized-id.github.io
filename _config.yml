@@ -1,0 +1,21 @@
+plugins:
+    - jekyll-seo-tag
+    - jekyll-github-metadata
+    - jekyll-redirect-from
+
+url           : "https://infominer.id/DecentralizedID"
+baseurl       : "DecentralizedID"
+title         : Decentralized Identity — DID
+description   : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
+author        : "⧉ Infominer"
+logo          : "https://infominer.id/images/crypt0library.png"
+repository    : "infominer33/DecentralizedID"
+github        : [metadata]
+
+theme: jekyll-theme-modernist
+
+twitter:
+  title       : Decentralized Identity — DID
+  description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
+  image       : "https://infominer.id/images/og-image.jpg"
+  card        : "summary"
