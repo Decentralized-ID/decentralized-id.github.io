@@ -41,7 +41,9 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 * [RWoT GitHub Listing](#rwot-github-listing-)
 * [>> Identity Research and Literature](literature.md)
 * [>> Sovrin Related Literature](indy-ecosystem/literature.md)
+
 ---
+
 * [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
 * [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
 * [infominer.id](https://infominer.id)
