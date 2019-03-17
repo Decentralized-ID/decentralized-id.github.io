@@ -68,7 +68,7 @@ This presents a method to replace the usual signup/login design pattern with a m
    * [Ethereum studio ConsenSys launches digital IDs and assets secured on Ubuntu phones](http://www.ibtimes.co.uk/ethereum-studio-consensys-launches-internet-people-digital-ids-assets-secured-unbuntu-phones-1542620)
    * [Year in Review. What's to come in 2018](https://medium.com/uport/uport-year-in-review-whats-to-come-in-2018-15ccb9214439)
 * [Different Approaches to Ethereum Identity Standards](https://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87)
-  ![](http://i.imgur.com/ASI0PaB.png)
+  ![](https://i.imgur.com/ASI0PaB.png)
 
 ## uPort Github Repos [**^**](#contents)
 
@@ -211,7 +211,7 @@ Example of using NodeJs with Ethereum
 
 ## Cryptonomica [**^**](#contents)
 
-[![](http://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
+[![](https://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
 
  * [Cryptonomica.net](https://cryptonomica.net) is an identity verification service based on [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) and [Ethereum](https://www.ethereum.org) with legal framework and online dispute resolution for electronic contracts from London-based [court of arbitration](https://cryptonomica.net/#!/arbitration) 
 
