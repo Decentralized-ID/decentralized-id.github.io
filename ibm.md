@@ -22,7 +22,7 @@ A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyper
 
 ---
 
-* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
-* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
+* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
+* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
 * [infominer.id](https://infominer.id)
 

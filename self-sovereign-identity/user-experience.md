@@ -29,6 +29,6 @@ Data would be stored on the person’s device (as pieces of paper are currently 
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
 ## [infominer.id](https://infominer.id)  ([**^**](#contents))
-* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
-* [infominer.id/DecentralizedID/self-sovereign-identity](https://infominer.id/DecentralizedID/self-sovereign-identity)
-* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
+* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
+* [infominer.id/DIDecentralized/self-sovereign-identity](https://infominer.id/DIDecentralized/self-sovereign-identity)
+* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)

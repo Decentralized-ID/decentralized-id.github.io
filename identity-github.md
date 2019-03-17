@@ -97,8 +97,8 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 ---
 
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
-* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
-* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
+* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
+* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
 * [infominer.id](https://infominer.id)
 
 
@@ -974,5 +974,5 @@ Cover Image Source:
 
 ## [infominer.id](https://infominer.id) 
 
-* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
-* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
+* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
+* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
