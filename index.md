@@ -1,6 +1,7 @@
 ---
 title: Decentralized Identity — SSI- DID
 description: "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
+layout: "default"
 ---
 
 # SSI - DID Resources
