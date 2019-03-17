@@ -129,7 +129,7 @@ The second Rebooting the Web of Trust design workshop, in San Francisco, CA, on 
   
 ### Rebooting the Web of Trust III [**^**](#contents)
 
-![](http://i.imgur.com/37wRZ9B.png)
+![](https://i.imgur.com/37wRZ9B.png)
 
 The design workshop exceeded its mandate by producing seven papers:
 
@@ -157,7 +157,7 @@ The design workshop exceeded its mandate by producing seven papers:
 
 ### Rebooting the Web of Trust IV [**^**](#contents)
 
-![](http://i.imgur.com/ZtP6Dny.png)
+![](https://i.imgur.com/ZtP6Dny.png)
 
 The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on April 19th-21st, 2017.
 
@@ -169,7 +169,7 @@ The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on A
    - Joe Andrieu, Frederic Engel, Adam Lake, Moses Ma, Olivier Maas, and Mark van der Waal.
 
 ### Rebooting the Web of Trust V [**^**](#contents)
-![](http://i.imgur.com/H7i3KFD.png)
+![](https://i.imgur.com/H7i3KFD.png)
 
 * [**ActivityPub: From Decentralized to Distributed Social Networks**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/activitypub-decentralized-distributed.md)
   - Christopher Lemmer Webber & Manu Sporny
@@ -201,7 +201,7 @@ The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on A
 
 ### Rebooting the Web of Trust VI [**^**](#contents)
 
-![](http://i.imgur.com/9yhGv6a.png)
+![](https://i.imgur.com/9yhGv6a.png)
 
 The sixth Rebooting the Web of Trust design workshop ran in Santa Barbara, California, on March 6th to 8th, 2018. 
 
@@ -244,7 +244,7 @@ The sixth Rebooting the Web of Trust design workshop ran in Santa Barbara, Calif
 
 ### Rebooting the Web of Trust VII [**^**](#contents)
 
-![](http://i.imgur.com/tHcfNsK.png)
+![](https://i.imgur.com/tHcfNsK.png)
 
 The seventh Rebooting the Web of Trust design workshop, ran near Toronto, Canada, on September 26th to 28th, 2018.
 
