@@ -2,6 +2,8 @@
 title: "A \"complete\" listing of #RebootingWebOfTrust Papers, Topics, and Advance Readings"
 description: Lets make this awesome collaborative work easier to explore!
 image: "https://i.imgur.com/Nmxk4fE.png"
+redirect_from:
+  - "Rebooting-Web-of-Trust.html"
 ---
 
 # Rebooting Web Of Trust - Papers and Advance Readings Index
