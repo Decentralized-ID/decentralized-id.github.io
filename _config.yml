@@ -3,13 +3,13 @@ plugins:
     - jekyll-github-metadata
     - jekyll-redirect-from
 
-url           : "https://infominer.id/DecentralizedID"
-baseurl       : "DecentralizedID"
+url           : "https://infominer.id/DIDecentralized"
+baseurl       : "DIDecentralized"
 title         : Decentralized Identity — DID
 description   : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 author        : "⧉ Infominer"
 logo          : "https://infominer.id/images/crypt0library.png"
-repository    : "infominer33/DecentralizedID"
+repository    : "infominer33/DIDecentralized"
 github        : [metadata]
 
 theme: jekyll-theme-modernist

@@ -7,9 +7,9 @@
 * [Research Papers](#research-papers-)
 * [Reports](#reports)
 ---
-* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
-* [infominer.id/DecentralizedID/indy-ecosystem](https://infominer.id/DecentralizedID/indy-ecosystem)
-* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
+* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
+* [infominer.id/DIDecentralized/indy-ecosystem](https://infominer.id/DIDecentralized/indy-ecosystem)
+* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
 * [infominer.id](https://infominer.id)
 
 
@@ -51,8 +51,8 @@
 
 ---
 
-* [github.com/infominer33/DecentralizedID](https://github.com/infominer33/DecentralizedID)
-* [infominer.id/DecentralizedID/indy-ecosystem](https://infominer.id/DecentralizedID/indy-ecosystem)
-* [infominer.id/DecentralizedID](https://infominer.id/DecentralizedID)
+* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
+* [infominer.id/DIDecentralized/indy-ecosystem](https://infominer.id/DIDecentralized/indy-ecosystem)
+* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
 * [infominer.id](https://infominer.id)
 
