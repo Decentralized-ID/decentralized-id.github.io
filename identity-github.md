@@ -612,7 +612,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 
 ## Cryptonomica [**^**](#contents)
 
-[![](http://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
+[![](https://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
 
 * <a href="https://github.com/Cryptonomica/cryptonomica" target="_blank">/Cryptonomica/cryptonomica</a> - Cryptonomica keys server
 * <a href="https://github.com/Cryptonomica/cryptonomica.github.io" target="_blank">/Cryptonomica/cryptonomica.github.io</a> - Cryptonomica frontend
@@ -967,7 +967,7 @@ You can join in on the research, and help build this educational resource.
 
 Cover Image Source:
 
-<a href="https://github.myshopify.com/products/die-cut-github-stickers" target="_blank"><img src="http://i.imgur.com/RhbNQXF.png"/></a><br/>
+<a href="https://github.myshopify.com/products/die-cut-github-stickers" target="_blank"><img src="https://i.imgur.com/RhbNQXF.png"/></a><br/>
 <a href="https://github.myshopify.com/products/die-cut-github-stickers" target="_blank">https://github.myshopify.com/products/die-cut-github-stickers</a>
 
 ---
