@@ -35,7 +35,7 @@ For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized
   * [Blockcerts](#blockcerts-)
   * [Schema](#schema-)
 * [DID Adoption](#did-adoption-)
-* [Directory](#directory) To other pages within this repository.
+* [Directory](#directory-) To other pages within this repository.
   * [SSI\DID History](history.md) >>
   * [Self Sovereign Identity](self-sovereign-identity) >>
   * [GDPR](gdpr) >>
