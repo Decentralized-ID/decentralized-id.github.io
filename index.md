@@ -14,6 +14,13 @@ I changed the name of the repository, as it no longer resembles anything like an
 
 For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github.
 
+**ATTN:** It would be really helpful to me, if you have a project in this ecosystem and want to make a page that highlights your best traits and includes your most valuable resources - or even personal page - I can add it to the repository and build upon it, or simply add it to the collection, whatever works for everyone. 
+
+I'm open to collaboration.
+
+This site is licensed [CC0 1.0 Universal (CC0 1.0)
+Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## Contents
 
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
