@@ -1,5 +1,5 @@
 ---
-title: Digital Identity Decentralized — DID
+title: DID—Digital Identity Decentralized
 description: "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 layout: "default"
 ---
