@@ -24,7 +24,7 @@ For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized
   * [W3C](#w3c-)
     * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
     * [Verifiable Claims](#verifiable-claims-)
-  * [Decentralized Key Managment DKMS]('#decentralized-key-management-agents-)
+  * [Decentralized Key Managment DKMS](#decentralized-key-management-agents-)
   * [DID Auth](#did-auth-) 
   * [Blockcerts](#blockcerts-)
   * [Schema](#schema-)
