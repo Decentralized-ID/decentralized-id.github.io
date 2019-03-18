@@ -4,17 +4,14 @@
 
 ## Note:
 
-I changed the name of the repository, as it no longer resembles anything like an awesome-list and won't move that direction any time soon. I also figured out how to run this as a directory off of my personal page... and will try to keep  [Decentralized-ID.com](https://github.com/decentralized-id/decentralized-id.github.io) running a current version of this page, but that's more of a placeholder - an invitation - for others to take an active role to ensure this resource reflects the ecosystem it is made for.
+I changed the name of the repository, as it no longer resembles anything like an awesome-list and won't move that direction any time soon. I also figured out how to run this as a directory off of my personal page... and will try to keep  [Decentralized-ID.com](https://github.com/decentralized-id/decentralized-id.github.io) running a current version of this page, but that's more of a placeholder - and an invitation - for others to take an active role, and to ensure this space reflects the ecosystem it is made for. Eventually it will out-grow this domain, one way or the other.
 
-For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github.
+For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github. 
 
-**ATTN:** It would be really helpful to me, if you have a project in this ecosystem and want to make a page that highlights your best traits and includes your most valuable resources - or even personal page - I can add it to the repository and build upon it, or simply add it to the collection, whatever works for everyone. 
+**ATTN:** It would be really helpful to me, if you have a project in this ecosystem and want to make a page that highlights your best traits and includes your most valuable resources - or even personal page that describes who you are and what you do, history, as far as you want to go really- I can add it to the repository and build upon it, or simply add it to the collection, whatever works for everyone. 
 
 I'm open to collaboration.
 
-
-This site is licensed [CC0 1.0 Universal (CC0 1.0)
-Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Contents
 
