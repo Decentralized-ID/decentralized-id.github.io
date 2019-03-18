@@ -18,8 +18,6 @@ For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized
 
 I'm open to collaboration.
 
-This site is licensed [CC0 1.0 Universal (CC0 1.0)
-Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Contents
 
