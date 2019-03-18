@@ -20,3 +20,5 @@ twitter:
   description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
   image       : "https://infominer.id/images/og-image.jpg"
   card        : "summary"
+ 
+google_analytics: UA-132558656-1
