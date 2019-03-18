@@ -6,7 +6,7 @@ plugins:
     
 url           : "https://infominer.id/DIDecentralized"
 baseurl       : "/DIDecentralized"
-title         : Digital Identity Decentralized — DID
+title         : Digital Identity Decentralized
 description   : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 author        : "⧉ Infominer"
 logo          : "https://infominer.id/images/crypt0library.png"
@@ -16,7 +16,7 @@ github        : [metadata]
 theme: jekyll-theme-modernist
 
 twitter:
-  title       : Digital Identity Decentralized — DID
+  title       : Digital Identity Decentralized
   site        : "infominer33"
   description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
   card        : "summary"
