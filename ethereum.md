@@ -1,7 +1,7 @@
 ---
 title       : "Ethereum Identity Specs and Apps"
 description : "A Collection of Ethereum-based Decentralized Identity Resources"
-image       : "https://i.imgur.com/XWeGM72.png"
+image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
 ---
 
 # Ethereum Identity 
