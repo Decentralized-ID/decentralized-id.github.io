@@ -19,10 +19,3 @@
 A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyperledger Indy concepts.
 
 <a href="https://github.com/IBM-Blockchain-Identity/indy-ssivc-tutorial" target="_blank">/IBM-Blockchain-Identityindy-ssivc-tutorial</a> - A turnkey, Docker-based tutorial for help developers get acquainted with Self-Sovereign Identity and Verifiable Credentials.
-
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-

@@ -477,11 +477,3 @@ what chunk of binary data was hashed in there
 so we had to experiment with that that could be quite an interesting matter all right we're just about done any other
 questions or great well hopefully some of you will come for a workshop and thanks for your time
 [Applause]
-
-
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-

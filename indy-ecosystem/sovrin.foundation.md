@@ -159,10 +159,3 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ### Veridium
 • [Veridium](https://veridiumid.com/)
 
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized/indy-ecosystem](https://infominer.id/DIDecentralized/indy-ecosystem)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-

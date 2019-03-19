@@ -10,9 +10,3 @@ Discover decentralized identity—a new way to take ownership of your personal d
 * [Decentralized digital identities and blockchain: The future as we see it](https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/decentralized-digital-identities-and-blockchain-the-future-as-we-see-it/)
 * [Microsoft Identity Standards Blog](https://techcommunity.microsoft.com/t5/Identity-Standards-Blog/bg-p/IdentityStandards)
 * [Microsoft working on Project Bali to Give People Control over their data](https://amp.businessinsider.com/microsoft-working-on-project-bali-to-give-people-control-over-data-2019-1)
-
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)

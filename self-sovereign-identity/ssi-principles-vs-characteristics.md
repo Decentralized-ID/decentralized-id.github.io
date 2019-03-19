@@ -87,12 +87,3 @@ This review leaves me with more questions than answers. I'm not sure if we shoul
 
 I'm willing to make an attempt at bringing these together if no one else jumps at the chance. However, I'd like to gather some feedback. I'm tempted to use the Characteristics as the foundation, and simply incorporate any principles not well represented. However, I'm not sure if "Control, Acceptance, and Zero Cost" are the best way to divide them up. 
 
-
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
-
-## [infominer.id](https://infominer.id)  ([**^**](#contents))
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized/self-sovereign-identity](https://infominer.id/DIDecentralized/self-sovereign-identity)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-
-
