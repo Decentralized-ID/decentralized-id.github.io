@@ -3,6 +3,8 @@ plugins:
     - jekyll-github-metadata
     - jekyll-redirect-from
     - jekyll-sitemap
+
+theme: jekyll-theme-modernist
     
 url           : "https://infominer.id/DIDecentralized"
 baseurl       : "/DIDecentralized"
@@ -13,7 +15,6 @@ logo          : "https://infominer.id/images/crypt0library.png"
 repository    : "infominer33/DIDecentralized"
 github        : [metadata]
 
-theme: jekyll-theme-modernist
 
 twitter:
   title       : Digital Identity Decentralized
