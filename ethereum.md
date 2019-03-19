@@ -18,7 +18,7 @@ image: "https://i.imgur.com/XWeGM72.png"
 * [ERC-EIP](#erc-eip-)
 * [ERC725-735](#erc725-735-)
 * [uPort](#uport-)
-  * [uPort GitHub Repos](#uport-github-repos-)
+* [uPort GitHub Repos](#uport-github-repos-)
   * [uPort DID](#uport-did-)
   * [uPort Identification](#uport-identification-)
   * [uPort Mobile](#uport-mobile-)
