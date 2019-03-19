@@ -5,6 +5,7 @@ This page contains a growing collection of educational resources related to Hype
 
 Its an index for all to more easily navigate the information surrounding Hyperledger Indy.
  
+
 ![](https://i.imgur.com/6O3gTXX.png)
 
 **Legend:** [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
