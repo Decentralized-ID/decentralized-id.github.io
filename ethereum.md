@@ -37,13 +37,6 @@ image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
   * [Cryptonomica Github Repos](#cryptonomica-github-repos-)
 * [Assorted Ethereum Apps](#assorted-ethereum-apps-)
 
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-
-
 
 ## ERC-EIP [**^**](#contents)
 
