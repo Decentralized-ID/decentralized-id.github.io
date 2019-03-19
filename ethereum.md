@@ -1,11 +1,11 @@
 ---
 title       : "Ethereum Identity Specs and Apps"
-description : "A Collection of Ethereum-based Decentralized Identity Specs, Literature, (D)Apps, and GitHub Repositories."
+description : "A Collection of Ethereum-based Decentralized Identity Specs, Literature, (d)Apps, and GitHub Repositories."
 image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
 ---
 
 # Ethereum Identity 
-**Specifications, Literature, (D)Apps, and GitHub Repositories**
+**Specifications, Literature, (d)Apps, and GitHub Repositories**
 
 * [infominer.id](https://infominer.id)
 * [DIDecentralized](https://infominer.id/DIDecentralized)
