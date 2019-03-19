@@ -95,10 +95,8 @@ Then I realized that I should make a more complete survey of the subject, if I w
 * [WebOfTrustInfo/self-sovereign-id](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 * [Self-Sovereign Identity — wiki.p2pfoundation](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
 
+---
 
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
-
-## [infominer.id](https://infominer.id)  ([**^**](#contents))
 * [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
 * [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
 * [infominer.id](https://infominer.id)
