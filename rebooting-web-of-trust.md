@@ -42,13 +42,6 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 * [>> Identity Research and Literature](literature.md)
 * [>> Sovrin Related Literature](indy-ecosystem/literature.md)
 
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-
-
 ## Selected 'Rebooting Web of Trust' Whitepapers [**^**](#contents) 
 
 ### Primers

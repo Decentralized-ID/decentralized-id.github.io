@@ -11,9 +11,6 @@ image: "https://infominer.id/images/VON.png"
 
 <code>Editors Note: I've taken to working on youtube transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
 
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-
 ---
 
 -Published on Dec 27, 2018

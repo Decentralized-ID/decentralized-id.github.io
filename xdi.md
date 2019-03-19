@@ -20,10 +20,6 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
     * [XDI Cloud](#xdi-cloud-)
     * [XDI Server Deployed Via](#xdi-server-deployed-via-)
     * [Services](#services-)
----
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
 
 ## RWoT Papers
 

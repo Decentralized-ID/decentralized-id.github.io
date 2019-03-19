@@ -11,10 +11,6 @@ image: "https://infominer.id/images/edge-card.png"
 
 <code>Editors Note: I've taken to working on youtube transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
 
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-
 ---
 
 [Evernym](https://evernym.com)’s Chief Architect [Daniel Hardman](https://www.evernym.com/team/daniel-hardman/) takes the Hyperledger community through Evernym’s work on Microledgers and Edge-Chains Architecture. Attendees will gain insight into the theory, applications and evolution in Hyperledger Indy along with a practical discussion of their potential.

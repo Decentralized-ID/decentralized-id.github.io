@@ -10,10 +10,6 @@
   * [Spain](#spain-)
   * [Switzerland](#switzerland-)
   * [USA](#usa-)
-  ---
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
 
 ## Canada [**^**](#contents) [**>**](#Hyperledger-Indy)
 ![](https://i.imgur.com/1QmQiy2.png)
