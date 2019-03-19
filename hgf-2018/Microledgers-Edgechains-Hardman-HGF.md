@@ -673,10 +673,3 @@ if you just come and talk to me that'd
 be great and thanks for your attention I
 appreciate it
 
-
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-

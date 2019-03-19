@@ -1,5 +1,5 @@
 # Self Sovereign Identity (SSI) 
-<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
+<a href="https://infominer.id"><img src="https://infominer.id/DIDecentralized/infominer.png" align="right" width="150"></a>
 **Articles and documents associated with Self Sovereign Identity Fundamentals.**
 
 This directory was born from [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), the original SSI repository. I've done a bit of work over there, and decided to expand my efforts. The reason I got started on this is because I wanted to write an article about SSI, and saw some areas where I think I can help with some of the legwork towards a more complete, and up-to-date set of SSI literature.
@@ -94,13 +94,5 @@ Then I realized that I should make a more complete survey of the subject, if I w
 \- SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
 * [WebOfTrustInfo/self-sovereign-id](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 * [Self-Sovereign Identity — wiki.p2pfoundation](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
-
-
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
-
-## [infominer.id](https://infominer.id)  ([**^**](#contents))
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
 
 

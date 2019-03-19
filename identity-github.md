@@ -970,9 +970,3 @@ Cover Image Source:
 <a href="https://github.myshopify.com/products/die-cut-github-stickers" target="_blank"><img src="https://i.imgur.com/RhbNQXF.png"/></a><br/>
 <a href="https://github.myshopify.com/products/die-cut-github-stickers" target="_blank">https://github.myshopify.com/products/die-cut-github-stickers</a>
 
----
-
-## [infominer.id](https://infominer.id) 
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)

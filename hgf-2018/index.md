@@ -41,8 +41,3 @@ If you have any videos you'd like to see transcripts prepared in the following f
 * [Microledgers and Edge-Chains - Daniel Hardman - Evernym](Microledgers-Edgechains-Hardman-HGF.md)
 * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](VerifiableOrganizationsNetwork-HGF.md)
 
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)

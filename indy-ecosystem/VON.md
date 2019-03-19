@@ -14,7 +14,6 @@
   * [PSPC-SPAC-buyandsell](#pspc-spac-buyandsell-) - Public Services and Procurement Canada
 * [History](#history-)
 ---
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
 * [infominer.id/DIDecentralized/indy-ecosystem](https://infominer.id/DIDecentralized/indy-ecosystem)
 * [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
 * [infominer.id](https://infominer.id)
@@ -93,11 +92,4 @@ Public Services and Procurement Canada: buyandsell.gc.ca --- Services publics et
 [Treasury Board Identity Management Policy and Pan-Canadian Trust Framework — Identity Management Policy Workshop](https://docs.google.com/presentation/d/189DxjNv7EE7KtjkidB6EpwuvO2lIy7kEL-3DWtMAiQg/edit)
 
 * [Pan Canadian Trust Framework](https://diacc.ca/2016/08/11/pctf-overview/) - 2016
-
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized/indy-ecosystem](https://infominer.id/DIDecentralized/indy-ecosystem)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
 
