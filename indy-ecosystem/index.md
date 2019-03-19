@@ -1,21 +1,22 @@
 
-# Awesome Hyperledger Indy Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
+# Hyperledger Indy Resources
 **Protocol, Governance, Education, Ecosystem** 
 
-This page contains a growing collection of educational resources related to Evernym, the Sovrin Foundation, and Hyperledger Indy. It was born from [/awesome-decentralized-id](../README.md) and contains some of the same material, but is quite exhaustive. As a result, I decided to split this list off to focus on learning about Hyperedger Indy, the Sovrin Foundation, adn Evernym. Its an index for training, developers, students, end users, investors, and enterprise to more easily navigate the digital identity landscape enabled by Hyperledger Indy.
+This page contains a growing collection of educational resources related to Hyperledger Indy, the Sovrin Foundation, and Evernym. 
+
+Its an index for all to more easily navigate the information surrounding Hyperledger Indy.
  
-Since the information is all inter-related, there is some overlapp. Skipping back and forth may be required, depending on your particular interests. 
 
-**[Pull Requests](https://github.com/infominer33/awesome-decentralized-id/blob/master/contributing.md) and\or [Contributions](#brought-to-you-by-the-crypto-librarysuper-source) Welcome**
+* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
+* [infominer.id](https://infominer.id)
 
+![](https://i.imgur.com/6O3gTXX.png)
 
-![](https://i.imgur.com/KFmYHQ6.png)
+**Legend:** [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
+• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. 
 
 ## Contents
 
-* [Introduction](#introduction-)
-* [Link Shorthand](#link-shorthand-)
 * [Self Sovereign Identity—SSI](#self-sovereign-identity-)
 * [Hyperledger Indy](#hyperledger-indy-)
   * [Additional Indy Related](#additional-indy-related-)
@@ -26,9 +27,9 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
 * [Directory](#directory-)
   * [Indy GitHub Repos](indy-github.md)
   * [Adoption](adoption.md)	
-    * [VON.md](VON.md)
-      * [VerifiableOrganizationsNetwork-HGF.md](../hgf-2018/VerifiableOrganizationsNetwork-HGF.md)	
-      * [Microledgers-Edgechains-Hardman-HGF.md](../hgf-2018/Microledgers-Edgechains-Hardman-HGF.md)	
+  * [VON.md](VON.md)
+    * [VerifiableOrganizationsNetwork-HGF.md](../hgf-2018/VerifiableOrganizationsNetwork-HGF.md)	
+    * [Microledgers-Edgechains-Hardman-HGF.md](../hgf-2018/Microledgers-Edgechains-Hardman-HGF.md)	
   * [Literature](literature.md)
     * [Selected Articles Windley.com](literature.md#selected-articles-windleycom-)
     * [EU General Data Protection Regulation Act](literature.md#eu-general-data-protection-regulation-act-)
@@ -36,32 +37,14 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
     * [Reports](literature.md#reports)
 * [Sources](#sources-)
 
----
 
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-
-
-
-## Link Shorthand [**^**](#Contents)
-[[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
-• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. 
-
-![](https://imgur.com/3zz62kpl.png)
-
-## Introduction [**^**](#Contents)
-
-Internet Identity Workshop is where the quest for concious, user-centric, identity began. Rebooting Web-of-Trust Workshops sprung from the IIW, focused on creating standards for DPKI. Among the United Nations 'Sustainable Development Goals' is for all the world to have access to a digital identity by 2030. Around 2016, the SDGs, blockchain, and the GDPR converged bringing much energy to the decentralized identity ecosystem. 
-
-**Additional history and related information may be found at [/awesome-decentralized-id](../README.md#Contents)**.
+![](https://imgur.com/2LWlrgvl.png)\
+<sup><a href="https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies">Linux Foundation -Blockchain for Business -INDY</a></sup>
 
 ## Hyperledger Indy [**^**](#Contents)
 
 ![](https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png)
 
-![](https://imgur.com/2LWlrgvl.png)\
-<sup><a href="https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies">Linux Foundation -Blockchain for Business -INDY</a></sup>
 
 * [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**T**](https://twitter.com/Hyperledger)] [[**C**](https://chat.hyperledger.org)]
 * [Indy Documentation Index - wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
@@ -147,11 +130,12 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [MyData Podcast](https://mydata.org/podcast/)
 
 ### Directory [**^**](#contents)
+* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
   * [Indy GitHub Repos](indy-github.md)
   * [Adoption](adoption.md)	
-    * [VON.md](VON.md)
-      * [VerifiableOrganizationsNetwork-HGF.md](../hgf-2018/VerifiableOrganizationsNetwork-HGF.md)	
-      * [Microledgers-Edgechains-Hardman-HGF.md](../hgf-2018/Microledgers-Edgechains-Hardman-HGF.md)	
+  * [VON.md](VON.md)
+    * [VerifiableOrganizationsNetwork-HGF.md](../hgf-2018/VerifiableOrganizationsNetwork-HGF.md)	
+    * [Microledgers-Edgechains-Hardman-HGF.md](../hgf-2018/Microledgers-Edgechains-Hardman-HGF.md)	
   * [Literature](literature.md)
     * [Selected Articles Windley.com](literature.md#selected-articles-windleycom-)
     * [EU General Data Protection Regulation Act](literature.md#eu-general-data-protection-regulation-act-)
@@ -166,19 +150,11 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 * [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**SS**](https://www.slideshare.net/SSIMeetup/presentations/)] 
 * [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
-* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
-* [/awesome-decentralized-id](/README.md)
+* [/awesome-decentralized-id](https://github.com/infominer33/DIDecentralized)
 
 ---
 
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
-
-## [infominer.id](https://infominer.id)  ([**^**](#contents))
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-
-
-**Tips Jar**
+## Tips Jar [**^**](#contents)
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
