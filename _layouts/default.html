@@ -28,6 +28,14 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
+        <table>
+          <tr>
+            <th><a href="{{ site.url }}">DIDecentral</a></th> 
+            <th><a href="{{ site.url }}/self-sovereign-identity/">Sovereign-ID</a></th> 
+            <th><a href="{{ site.url }}/hgf-2018/">HGF-2018</a></th> 
+            <th><a href="{{ site.url }}/indy-ecosystem/">Indy</a></th> 
+          </tr>
+        </table>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -36,14 +44,6 @@
         <ul>
           <li><a href="https://github.com/infominer33/DIDecentralized/tree/master/{{page.path}}">View On <strong>GitHub</strong></a></li>
         </ul>
-        <table>
-          <tr>
-            <td><a href="{{ site.url }}">DIDecentral</a></td> 
-            <td><a href="{{ site.url }}/self-sovereign-identity/">Sovereign-ID</a></td> 
-            <td><a href="{{ site.url }}/hgf-2018/">HGF-2018</a></td> 
-            <td><a href="{{ site.url }}/indy-ecosystem/">Indy</a></td> 
-          </tr>
-        </table>
       </header>
       <section>
 
@@ -51,8 +51,6 @@
 
       
       </section>
-    </div>
-    <footer>
       <table>
         <tr>
           <th><a href="{{ site.url }}">DIDecentral</a></th> 
@@ -61,6 +59,8 @@
           <th><a href="{{ site.url }}/indy-ecosystem/">Indy</a></th> 
         </tr>
       </table>
+    </div>
+    <footer>
       <p><a href="https://infominer.id/">&#x29C9; Infominer</a> — 
         Creative Commons <a href="https://creativecommons.org/publicdomain/zero/1.0/">(CC0 1.0)</a> 
         Public Domain — <a href="https://github.com/infominer33/DIDecentralized/blob/master/{{page.path}}">Edit this page</a>.</p>
