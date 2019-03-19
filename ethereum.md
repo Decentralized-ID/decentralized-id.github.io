@@ -1,11 +1,11 @@
 ---
 title       : "Ethereum Identity Specs and Apps"
-description : "A Collection of Ethereum-based Decentralized Identity Resources"
+description : "A Collection of Ethereum-based Decentralized Identity Specs, Literature, (D)Apps, and GitHub Repositories."
 image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
 ---
 
 # Ethereum Identity 
-**Specifications, Literature, Applications**
+**Specifications, Literature, (D)Apps, and GitHub Repositories**
 
 * [infominer.id](https://infominer.id)
 * [DIDecentralized](https://infominer.id/DIDecentralized)
@@ -239,6 +239,5 @@ Example of using NodeJs with Ethereum
  as its consensus mechanism. 
 
 ---
-
 * [DIDecentralized](https://infominer.id/DIDecentralized)
 
