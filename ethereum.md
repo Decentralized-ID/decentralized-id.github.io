@@ -240,6 +240,5 @@ Example of using NodeJs with Ethereum
 
 ---
 
-* [infominer.id](https://infominer.id)
 * [DIDecentralized](https://infominer.id/DIDecentralized)
 
