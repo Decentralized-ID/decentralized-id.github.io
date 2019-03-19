@@ -28,14 +28,6 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <table>
-          <tr>
-            <th><a href="{{ site.url }}">DIDecentral</a></th> 
-            <th><a href="{{ site.url }}/self-sovereign-identity/">Sovereign-ID</a></th> 
-            <th><a href="{{ site.url }}/hgf-2018/">HGF-2018</a></th> 
-            <th><a href="{{ site.url }}/indy-ecosystem/">Indy</a></th> 
-          </tr>
-        </table>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -46,11 +38,17 @@
         </ul>
       </header>
       <section>
-
+        <table>
+          <tr>
+            <th><a href="{{ site.url }}">DIDecentral</a></th> 
+            <th><a href="{{ site.url }}/self-sovereign-identity/">Sovereign-ID</a></th> 
+            <th><a href="{{ site.url }}/hgf-2018/">HGF-2018</a></th> 
+            <th><a href="{{ site.url }}/indy-ecosystem/">Indy</a></th> 
+          </tr>
+        </table>
+  
       {{ content }}
 
-      
-      </section>
       <table>
         <tr>
           <th><a href="{{ site.url }}">DIDecentral</a></th> 
@@ -59,6 +57,7 @@
           <th><a href="{{ site.url }}/indy-ecosystem/">Indy</a></th> 
         </tr>
       </table>
+      </section>
     </div>
     <footer>
       <p><a href="https://infominer.id/">&#x29C9; Infominer</a> — 
@@ -66,6 +65,5 @@
         Public Domain — <a href="https://github.com/infominer33/DIDecentralized/blob/master/{{page.path}}">Edit this page</a>.</p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-  
   </body>
 </html>

@@ -1,13 +1,5 @@
 # DID-SSI Organizations
 
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-
----
-
 in progress....
 
 ## IIW - Internet Identity Workshop
