@@ -7,11 +7,6 @@ image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
 # Ethereum Identity 
 **Specifications, Literature, (d)Apps, and GitHub Repositories**
 
-* [infominer.id](https://infominer.id)
-* [DIDecentralized](https://infominer.id/DIDecentralized)
-
----
-
   ![](https://i.imgur.com/XWeGM72.png)
 * [Decentralized Digital Identity on Ethereum](https://www.slideshare.net/FabriceCroiseaux/ethcc-2018-decentralized-digital-identity-on-ethereum) -SlideShare
 * [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — video from DEVCON1
