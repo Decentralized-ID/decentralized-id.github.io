@@ -7,8 +7,12 @@ image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
 # Ethereum Identity 
 **Specifications, Literature, Applications**
 
-  ![](https://i.imgur.com/XWeGM72.png)
+* [infominer.id](https://infominer.id)
+* [DIDecentralized](https://infominer.id/DIDecentralized)
 
+---
+
+  ![](https://i.imgur.com/XWeGM72.png)
 * [Decentralized Digital Identity on Ethereum](https://www.slideshare.net/FabriceCroiseaux/ethcc-2018-decentralized-digital-identity-on-ethereum) -SlideShare
 * [DEVCON1: Digital Identity](https://www.youtube.com/watch?v=QpaTOvAhLR4) — video from DEVCON1
 * [Proof-of-Individuality](http://proofofindividuality.online/) — how to prove a person only has one account
@@ -240,3 +244,9 @@ Example of using NodeJs with Ethereum
 * [poa.network](https://poa.network/)[**[D](https://medium.com/poa-network/poa-network-how-honey-badger-bft-consensus-works-4b16c0f1ff94)**]
  POA Network is an Ethereum-based platform that offers an open-source framework for smart contracts. POA Network is a sidechain to Ethereum utilizing [Proof of Authority](https://blockonomi.com/proof-of-authority/)
  as its consensus mechanism. 
+
+---
+
+* [infominer.id](https://infominer.id)
+* [DIDecentralized](https://infominer.id/DIDecentralized)
+
