@@ -1,3 +1,9 @@
+---
+title: Ethereum Identity Specs and Apps
+description: A Collection of Ethereum-based Decentralized Identity Resources
+image: "https://i.imgur.com/XWeGM72.png"
+---
+
 # Ethereum Identity 
 **Specifications, Literature, Applications**
 
