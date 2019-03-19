@@ -1,11 +1,10 @@
 <table>
   <tr>
-  <th><a href="https://infominer.id/">&#x29C9;</a></th>
-  <th><a href="{{ site.url }}">DIDecentral</a></th> 
-  <th><a href="{{ site.url }}/indy-ecosystem/indy-github.html">GitHub Repos</a></th> 
-  <th><a href="{{ site.url }}/indy-ecosystem/adoption.html">Adoption</a></th> 
-  <th><a href="{{ site.url }}/indy-ecosystem/VON.html">VON</a></th> 
-  <th><a href="{{ site.url }}/indy-ecosystem/literature.html">Literature</a></th> 
+  <td><a href="{{ site.url }}/indy-ecosystem/indy-github.html">GitHub Repos</a></td> 
+  <td><a href="{{ site.url }}/indy-ecosystem/sovrin.foundation.html">Sovrin</a></td> 
+  <td><a href="{{ site.url }}/indy-ecosystem/adoption.html">Adoption</a></td> 
+  <td><a href="{{ site.url }}/indy-ecosystem/VON.html">VON</a></td> 
+  <td><a href="{{ site.url }}/indy-ecosystem/literature.html">Literature</a></td> 
   </tr>
 </table>
 
