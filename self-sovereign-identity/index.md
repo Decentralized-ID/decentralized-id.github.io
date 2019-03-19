@@ -10,8 +10,8 @@ However, considerable additional material has been created on the subject since 
 
 Then I realized that I should make a more complete survey of the subject, if I want to be thorough. So now I'm collecting as much SSI info as I can, and organizing it here. Once I've completed a review of existing literature on the subject, I'll put it into a google shared doc to encourage further participation. 
 
-![](http://imgur.com/3zz62kpl.png)
-
+![](https://i.imgur.com/S9uBk4k.png)
+[Self Sovereign Identity - An Unofficial Generic Icon](https://medium.com/@trbouma/self-sovereign-identity-an-unofficial-generic-icon-a5a6ab332cd7)
 
 ## SSI Documentation Components
 
@@ -25,6 +25,9 @@ Then I realized that I should make a more complete survey of the subject, if I w
 * [A Gentle Guide to Self Sovereign Identity](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/) has a section called "How would self-sovereign identity work for the user?" that could be [modularized](https://github.com/infominer33/awesome-decentralized-id/blob/master/self-sovereign-identity/user-experience.md).
 * [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md) (\*and your sister and your daughter and your best friend and your nephew) (SSI Use-Cases)
 * [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml)
+
+![](http://imgur.com/3zz62kpl.png)
+
 
 ### Assorted
 
