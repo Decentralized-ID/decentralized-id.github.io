@@ -1,3 +1,14 @@
+<table>
+  <tr>
+  <td><a href="{{ site.url }}/indy-ecosystem/indy-github.html">GitHub Repos</a></td> 
+  <td><a href="{{ site.url }}/indy-ecosystem/sovrin.foundation.html">Sovrin</a></td> 
+  <td><a href="{{ site.url }}/indy-ecosystem/adoption.html">Adoption</a></td> 
+  <td><a href="{{ site.url }}/indy-ecosystem/VON.html">VON</a></td> 
+  <td><a href="{{ site.url }}/indy-ecosystem/literature.html">Literature</a></td> 
+  </tr>
+</table>
+
+
 # Evernym-Sovrin-Indy Adoption
 
 ![](https://i.imgur.com/3sfiarQ.png)
