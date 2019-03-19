@@ -9,11 +9,6 @@
 * [Bitnation](#bitnation)
 * [Spidchain](#spidchain)
 
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
 
 ### BTCR
 * <a href="https://github.com/w3c-ccg/didm-btcr" target="_blank">/w3c-ccg/didm-btcr</a> - WORK ITEM: BTCR DID Method Spec

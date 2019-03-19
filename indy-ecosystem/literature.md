@@ -16,12 +16,6 @@
 * [EU General Data Protection Regulation Act](#eu-general-data-protection-regulation-act-)
 * [Research Papers](#research-papers-)
 * [Reports](#reports)
----
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized/indy-ecosystem](https://infominer.id/DIDecentralized/indy-ecosystem)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-
 
 
 ## Selected articles Windley.com [**^**](#Contents)

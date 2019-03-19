@@ -9,12 +9,6 @@
 * [Assorted Thought Around Identity](#assorted-thought-around-identity)
 * [>> Sovrin Related Literature](indy-ecosystem/literature.md)
 
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-
 
 ## Literature [**^**](#contents)
 

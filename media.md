@@ -7,12 +7,6 @@
 * [Slideshare](#slideshare)
 * [Podcasts](#podcasts)
 
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-
 
 ## Video
 

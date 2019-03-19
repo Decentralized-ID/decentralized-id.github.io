@@ -21,12 +21,6 @@
 * [Standards History](#standards-history-)
 * [Resources](#resources-)
 
----
-
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
-* [infominer.id](https://infominer.id)
-
 
 
 ## Losing Control Over our Personal Information
