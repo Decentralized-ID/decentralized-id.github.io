@@ -1,8 +1,15 @@
-# Self Sovereign Identity (SSI) 
-<a href="https://infominer.id"><img src="https://infominer.id/DIDecentralized/infominer.png" align="right" width="150"></a>
-**Articles and documents associated with Self Sovereign Identity Fundamentals.**
+---
+title: Self Sovereign Identity (SSI)
+description: Literature associated with the Fundamentals of Self-Sovereign Identity.
+image: "https://infominer.id/DIDecentralized/images/self-sovereign-identity.png"
+---
 
-This directory was born from [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), the original SSI repository. I've done a bit of work over there, and decided to expand my efforts. The reason I got started on this is because I wanted to write an article about SSI, and saw some areas where I think I can help with some of the legwork towards a more complete, and up-to-date set of SSI literature.
+# Self Sovereign Identity (SSI) 
+**Literature associated with the Fundamentals of Self-Sovereign Identity.**
+
+This directory was born from [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), the original SSI repository. 
+
+The reason I got started on this is because I wanted to write an article about SSI, and saw some areas where I could help with some of the legwork towards a more complete, and up-to-date set of SSI literature.
 
 In my opinion, the best overall article on the subject is still Christopher Allen's rallying cry: [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md). Christopher did an outstanding job of outlining the history of internet identity standards, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), currently in revision. 
 
