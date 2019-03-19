@@ -10,7 +10,9 @@ layout: "default"
 
 ## Note:
 
-I changed the name of the repository, as it no longer resembles anything like an awesome-list and won't move that direction any time soon. I also figured out how to run this as a directory off of my personal page... and will try to keep  [Decentralized-ID.com](https://github.com/decentralized-id/decentralized-id.github.io) running a current version of this page, but that's more of a placeholder - and an invitation - for others to take an active role, and to ensure this space reflects the ecosystem it is made for. Eventually it will out-grow this domain, one way or the other.
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
+
+I changed the name of the repository, as it no longer resembles anything like an awesome-list and won't move that direction any time soon. I also figured out how to run this as a directory off of my personal page...
 
 For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github.
 
@@ -20,8 +22,6 @@ I'm open to collaboration.
 
 
 ## Contents
-
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**>>**](#contents)] another page on site. • [[**^**](#contents)] back to the contents.
