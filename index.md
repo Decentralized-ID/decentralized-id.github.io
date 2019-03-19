@@ -71,6 +71,7 @@ I'm open to collaboration.
   * [Microsoft](microsoft.md) >>
   * [IBM](ibm.md) >>
 * [Sources](#sources-)
+* [Tips Jar](#tips-jar-)
 * [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
 * [infominer.id](https://infominer.id)
 
@@ -335,13 +336,7 @@ Other files and folders within this repository:
 
 ---
 
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
-
-## [infominer.id](https://infominer.id)  ([**^**](#contents))
-* [github.com/infominer33/DIDecentralized](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/DIDecentralized/](https://infominer.id/DIDecentralized/)
-
-**Tips Jar**
+## Tips Jar [**^**](#contents)
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
