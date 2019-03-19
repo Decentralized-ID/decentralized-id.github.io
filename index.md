@@ -1,6 +1,7 @@
 ---
-title: Digital Identity Decentralized
-description: "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
+title       : Digital Identity Decentralized
+description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
+image       : "https://infominer.id/DIDecentralized/infominer.png"
 layout: "default"
 ---
 
