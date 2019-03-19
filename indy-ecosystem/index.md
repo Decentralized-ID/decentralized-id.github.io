@@ -1,3 +1,13 @@
+<table>
+  <tr>
+  <th><a href="https://infominer.id/">&#x29C9;</a></th>
+  <th><a href="{{ site.url }}">DIDecentral</a></th> 
+  <th><a href="{{ site.url }}/indy-ecosystem/indy-github.html">GitHub Repos</a></th> 
+  <th><a href="{{ site.url }}/indy-ecosystem/adoption.html">Adoption</a></th> 
+  <th><a href="{{ site.url }}/indy-ecosystem/VON.html">VON</a></th> 
+  <th><a href="{{ site.url }}/indy-ecosystem/literature.html">Literature</a></th> 
+  </tr>
+</table>
 
 # Hyperledger Indy Resources
 **Protocol, Governance, Education, Ecosystem** 
