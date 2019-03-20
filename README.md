@@ -8,7 +8,7 @@
 
 I changed the name of the repository, as it no longer resembles anything like an awesome-list and won't move that direction any time soon. I also figured out how to run this as a directory off of my personal page...
 
-For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github.
+For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github. (don't worry, I won't neglect the README's)
 
 **ATTN:** It would be really helpful to me, if you have a project in this ecosystem and want to make a page that highlights your best traits and includes your most valuable resources - or even personal page that describes who you are and what you do, history, as far as you want to go really- I can add it to the repository and build upon it, or simply add it to the collection, whatever works for everyone. 
 
