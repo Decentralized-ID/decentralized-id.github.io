@@ -13,10 +13,10 @@ baseurl       : "/DIDecentralized"
 title         : "Identity Decentralized"
 description   : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 author        : "⧉ Infominer"
-logo          : "https://infominer.id/DIDecentralized/images/identity-decentralized.png"
+logo          : "https://infominer.id/DIDecentralized/images/IDecentralized.png"
 repository    : "infominer33/DIDecentralized"
 github        : [metadata]
-image         : "https://infominer.id/DIDecentralized/identity-decentralized.png"
+image         : "https://infominer.id/DIDecentralized/images/IDecentralized.png"
 
 twitter:
   site        : "infominer33"

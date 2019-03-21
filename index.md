@@ -4,7 +4,7 @@ title       : Identity Decentralized
 description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 twitter:
   card      : "summary_large_image"
-image       : "https://infominer.id/DIDecentralized/images/identity-decentralized.png"
+image       : "https://infominer.id/DIDecentralized/images/IDecentralized.png"
 ---
 
 <center><img src="images/identity-decentralized.png"/></center>
