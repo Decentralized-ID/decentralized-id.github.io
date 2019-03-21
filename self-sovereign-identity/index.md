@@ -38,7 +38,7 @@ Then I realized that I should make a more complete survey of the subject, if I w
 * [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md) (\*and your sister and your daughter and your best friend and your nephew) (SSI Use-Cases)
 * [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml)
 
-![](http://imgur.com/3zz62kpl.png)
+![](https://imgur.com/3zz62kpl.png)
 
 
 ### Assorted

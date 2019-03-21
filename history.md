@@ -64,7 +64,7 @@ XNS Public Trust Organization. Founded in July 2000, shortly after Planetwork Co
 
 ## Augmented Social Network [**^**](#contents)
 
-![](http://i.imgur.com/B5Bja7O.png)
+![](https://i.imgur.com/B5Bja7O.png)
 
 * *[The Augmented Social Network](http://asn.planetwork.net/): Building Identity and Trust into the Next-Generation Internet,* presented at the June 2003 Planetwork conference and published in [First Monday](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1068/988) the Peer-Reviewed Journal on the Internet 8/4/03.
   >"[This paper](http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf) proposes the creation of an Augmented Social Network (ASN) that would build identity and trust into the architecture of the Internet"
@@ -83,14 +83,14 @@ Resuling in a mailing list:
 
 ## Identity Gang [**^**](#contents)
 
-![](http://i.imgur.com/xbfK3EF.png)
+![](https://i.imgur.com/xbfK3EF.png)
 
 * [The original identity gang](https://www.idcommons.org/the-original-identity-gang/)
   Doc Searls invited identity leaders to appear on the Gilmore Gang podcast, where the name "Identity Gang" was coined.
   
   At the encouragement of Doc Searls, a number of people began blogging about user-centric identity. 
 
- * [The Gillmor Gang - December 31, 2004](http://web.archive.org/web/20130729213722id_/http://itc.conversationsnetwork.org/shows/detail394.html) Featuring:
+ * [The Gillmor Gang - December 31, 2004](http://web.archive.org/web/20130729213722id_/https://itc.conversationsnetwork.org/shows/detail394.html) Featuring:
   > * Steve Gillmor, contributing editor, ZDNet
   > * Doc Searls, senior editor, Linux Journal
   > * Craig Burton, founding member, Novell; co-founder, The Burton Group
@@ -110,7 +110,7 @@ Resuling in a mailing list:
 
 ### Kim Cameron - Laws of Identity [**^**](#contents)
 
-[![](http://i.imgur.com/570mUhZ.png)](https://identityblog.com)
+[![](https://i.imgur.com/570mUhZ.png)](https://identityblog.com)
 
 * [Kim Cameron Identity Laws](https://channel9.msdn.com/Blogs/scobleizer/Kim-Cameron-Identity-Laws) [[**x**](https://www.identityblog.com/?m=200412)]
   * [Laws of Identity - Whitepaper](https://web.archive.org/web/20080814163727/http://www.identityblog.com/stories/2004/12/09/thelaws.html)
@@ -157,7 +157,7 @@ IIW participants began the effort towards creating a truly [user centric identit
 
 ## The United Nations Sustainable Development Goals [**^**](#contents)
 
-<img src="http://i.imgur.com/6ffztbs.png"/>
+<img src="https://i.imgur.com/6ffztbs.png"/>
 
 The same month, the UN unveiled it's *[Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld)*:
   >* Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
