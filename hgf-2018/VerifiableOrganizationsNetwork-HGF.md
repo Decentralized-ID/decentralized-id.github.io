@@ -27,7 +27,7 @@ VON's founders have delivered new Indy-based open source components which form V
 
 We present the Why, What and How including our strategy for bootstrapping VON using a two-sided market strategy.
 
-<a href="https://youtu.be/g19VNv3DAd0"><img src="http://i.imgur.com/kODoTdj.png"/></a>
+<a href="https://youtu.be/g19VNv3DAd0"><img src="https://i.imgur.com/kODoTdj.png"/></a>
 
 ## Contents
 
@@ -66,7 +66,7 @@ I guess I'll just get started, and we'll have some slides, a demo, we should hav
 
 Ian is also here, one of our developers as well, he's a hyper ledger future developer. What we're gonna talk about today is what we're doing in the government of British Columbia, together with some of our peer provinces in the country — about how we're trying to solve some very long-standing difficult problems.
 
-<img src="http://i.imgur.com/bf3lLTq.png"/>
+<img src="https://i.imgur.com/bf3lLTq.png"/>
 
 >**we're gonna focus on business services today and talk about how the government can start to do the things that it does today in paper**, which it underpins the economy.
 >
@@ -76,42 +76,42 @@ Ian is also here, one of our developers as well, he's a hyper ledger future deve
 >
 >otherwise there's no other really interesting transactions going on and I think big part of that is because **we don't have any way of extending the trust of government into the digital realm in a way that is trustworthy** 
 
-<img src="http://i.imgur.com/BVVoGaA.png"/>
+<img src="https://i.imgur.com/BVVoGaA.png"/>
 
 so we're going to talk about that this is our fun slide this is where we're from Canada with a variety of animals quite a lot of space we come from Victoria BC I norm I actually grew up in Ottawa which is around the beaver and people think that's kind of humorous but so there you go that's her that's
 her 
 
-<img src="http://i.imgur.com/UN0dT5b.png"/>
+<img src="https://i.imgur.com/UN0dT5b.png"/>
 
 I also want to acknowledge that **I do all this work with [Carol Prest](https://www.linkedin.com/in/carol-prest-aa34b258/)** who is the registrar for BCS so I've been there for a couple years and **from day one we've been working together exploring how can we use the registry data as the foundational data for doing business.**  
 
 Unfortunately she's not available she's in India right now, but having this business partnership and having her in her organization behind this, and having the discipline of trying to **solve problems for business people** is what is making this project really fun and also useful 
 
 ## Solving problems [**^**](#contents)
-<img src="http://i.imgur.com/MrIep94.png"/>
+<img src="https://i.imgur.com/MrIep94.png"/>
 
 We're gonna focus on a problem here which is **how do we help small business** we have sort of a an example of Mary's bakery but **it could be any kind of business** construction mining whatever it is and the problem is that these business people are very excited about starting a business is an exciting time in life but they don't realize sometimes that **they have quite a lot of obligations that they must fill for government**
 
 We have examples where our research teams have gone out and talked to restauranteurs and they have released a building and so forth it's the perfect spot everything is great **and then they realize oh I've got six months of permits and licenses to do because we had to bring it up to building code and they didn't realize this and then there's all these dependencies and they weren't ready to fund that building for six months** so those are like real stories **we'd like to try and minimize that kind of stuff** because we want them to start their businesses and grow.
 
-<img src="http://i.imgur.com/FxeKL2D.png"/>
+<img src="https://i.imgur.com/FxeKL2D.png"/>
 
 >you know the path is also very meandering and it can be in multiple different media you can be faxing you could be email you could be online you're in person and so forth.
 >
 >**All of this is a very difficult both for the business people but also on the government side**. We are also in different places verifying data all the time: who are you? whos business are you representing? Are you authorized to represent the businesses?
 
-<img src="http://i.imgur.com/sIiI6Ni.png"/>
+<img src="https://i.imgur.com/sIiI6Ni.png"/>
 
 In the most complicated cases, for liquor and so forth, shareholders and employees have **criminal background checks.** They make sure that nobody owns more than 8 stores that sells liquor, and can take up to a year so.
 
 ## Collaboration [**^**](#contents)
 
-<img src="http://i.imgur.com/GM9FxgX.png"/>
+<img src="https://i.imgur.com/GM9FxgX.png"/>
 
 We're collaborating with a couple of other jurisdictions. We're working with a team in **Ontario** and a
 team **in the Government of Canada**, where I used to work, **The Procurement Agency**.
 
-<img src="http://i.imgur.com/oPuhVyP.png"/>
+<img src="https://i.imgur.com/oPuhVyP.png"/>
 
 **When we say working together, we're actually writing code together**. There's no MOUs, no steering committees, no work groups. They have a couple devs and the business person, we have a couple of devs and a business person. We sprint together, write code. 
 
@@ -119,13 +119,13 @@ All this stuff we're going to show you today has been co-developed, and signific
 
 ## Verifiable Proofs [**^**](#contents)
 
-<img src="http://i.imgur.com/0MS4yEs.png">
+<img src="https://i.imgur.com/0MS4yEs.png">
 
 This is the journey that we'd like to enable, it's a journey that we know well. The government gives you something, you take that something to another institution, you use it to prove something and you get and you get the outcome.
 
 In this case it's the incorporation information that's given to Mary, she goes to the bank and she can open a bank account. Turns out that's a very general pattern, and this is the pattern that we see in the verifiable credentials realm.
 
-<img src="http://i.imgur.com/FNpnmLg.png"/>
+<img src="https://i.imgur.com/FNpnmLg.png"/>
 
 So we have this pattern of: **holder** which *is a person or a business* but a business can't really hold something on their own. They have to have people holding it on behalf of the business. 
 
@@ -141,25 +141,25 @@ So it was just Stephen and I on the team and we thought it looked promising, tha
 
 ## Chicken-or-Egg Dilemma [**^**](#contents)
 
-<img src="http://i.imgur.com/hHn9SLm.png"/>
+<img src="https://i.imgur.com/hHn9SLm.png"/>
 
 Somebody mentioned it this morning, the classic chicken and egg problem: we don't have any software out there that we can issue to our issuers, don't have software to issue. We realized, in this case government is a little bit special, which I don't like to say very often. 
 
 It turns out our core business is issuing that's what we do every service we have is pretty much an issuer so we thought: what if we could give the services that we are dealing with in the business realm, somewhere to issue to? 
 
-<img src="http://i.imgur.com/9IHbEkL.png"/>
+<img src="https://i.imgur.com/9IHbEkL.png"/>
 
 We purposely picked business realm because if we're dealing with business data we're not triggering all the personal identifiable information problems. In the BC we call it FoIT, the Freedom of Information Act and Privacy Protection Act. When you get into personal data, of course it triggers all of that which, is good but makes it very complicated to play with new technologies. 
 
 ## The Org Book [**^**](#contents)
 
-<img src="http://i.imgur.com/6KxuQM9.png"/>
+<img src="https://i.imgur.com/6KxuQM9.png"/>
 
 We just deal with open business data right now and we thought: what if we could create something where these issuers could issue data to? and it would be a public thing, and we call that **The Org Book.** 
 
 This is a bootstrapping technique that we're copying from Facebook. We're just playing with one side of the market. **We're gonna deal with the supply side: the issuers of credentials, more commonly known as permits and licenses.**
 
-<img src="http://i.imgur.com/o5KphnK.png"/>
+<img src="https://i.imgur.com/o5KphnK.png"/>
 
 Because they're public and because they're open we can create this directory of searchable verifiable data and we can build software for the issuers.
 
@@ -167,43 +167,43 @@ Our goal was how can we make it as easy as possible for existing services to be 
 
 **When we started writing this code built on top of Hyperledger Indy we realized that there could be intermediate benefits.**
 
-<img src="http://i.imgur.com/voKqoaF.png"/>
+<img src="https://i.imgur.com/voKqoaF.png"/>
 
 So first there's some public good, and the searching and finding of data will show you that. It turns out we can also create [api's](https://bcgov.github.io/MyGovBC-notification-server/docs/api-overview/) to allow that data to be searchable, and we created an [enterprise agent](https://github.com/bcgov/von_agent) for services to verify the data in The Org Book. 
 
 So later when businesses have their own services for holding verifiable credentials, our issuers are ready.
 
-<img src="http://i.imgur.com/AdYRiK9.png"/>
+<img src="https://i.imgur.com/AdYRiK9.png"/>
 
 ## BC Gov Org Book [**^**](#contents)
 
 Now I'm gonna hand it over to Stephen. This is what The Org Book looks like in British Columbia, so there's two instances and we'll show you them both but **this is the [British Columbia Org Book](https://orgbook.gov.bc.ca/en/home) and it's basically a kind of a Yelp type site.** 
 
-<img src="http://i.imgur.com/nsurhhx.png"/>
+<img src="https://i.imgur.com/nsurhhx.png"/>
 
 **we've got five hundred twenty-five thousand active legal entities in British Columbia every one of them has a record in here** they have the credentials that the registries have issued to them 
 
-<img src="http://i.imgur.com/ngfzaPh.png"/>
+<img src="https://i.imgur.com/ngfzaPh.png"/>
 
 Let's do a search we're into chocolate because we're in Switzerland so we'll talk about a Vancouver Island chocolatier. Purdy's chocolates, we can take a look at them. Search capability names we've got other capabilities for what searches we can provide ways to filter and things. When we get into it, we can see some information that the registry publishes, so previously registered. 
 
-<img src="http://i.imgur.com/0mcU9ru.png"/>
+<img src="https://i.imgur.com/0mcU9ru.png"/>
 
 **9:41** This is all public data, this is all open data. This is exactly what they hang on their walls inside the restaurant and things like that, there's really no place in BC it is actually published but in a very obscure places, very difficult to find. We've actually, as a byproduct of doing this exercise, created a pretty useful facility for citizens to use to find businesses, so we can take a look at them.
 
 ## Verifiable Credentials [**^**](#contents)
 
-<img src="http://i.imgur.com/yMMHV01.png"/>
+<img src="https://i.imgur.com/yMMHV01.png"/>
 
 this one has a couple of credentials they actually have a corporate entity and then a couple of names they do business under so [they've got several credentials](https://orgbook.gov.bc.ca/en/organization/BC0057742/cred/1902355) we can see a timeline of when they've got the different credentials so we can take a look at those in it and as the history builds up we haven't loaded all the history of all BC companies yet some of that is on paper which is going to be more challenging but that's that's not for us to worry about but we can load them up so if we can look at our registration we can see an active credential 
 
-<img src="http://i.imgur.com/vmZx8py.png"/>
+<img src="https://i.imgur.com/vmZx8py.png"/>
 
-<img src="http://i.imgur.com/umWHJO7.png"/>
+<img src="https://i.imgur.com/umWHJO7.png"/>
 
 so this is what a credential looks like online basically we present it with the key data that a person might be interested in and then at the bottom we can actually go [into the credential](https://orgbook.gov.bc.ca/en/organization/BC0057742/cred/1902355/verify) from an Hyperledger Indy perspective 
 
-<img src="http://i.imgur.com/l3LCLnu.png"/>
+<img src="https://i.imgur.com/l3LCLnu.png"/>
 
 so this is the schema if you as they call it on the one side the populated data for this particular version of the
 credential and then down below we get some really fun stuff 
@@ -212,13 +212,13 @@ this allows any citizen to go and do the cryptography on
 paper themselves to prove that this is a proven credential yeah and we say verified see the check up there that's
 the that's the key 
 
-<img src="http://i.imgur.com/47eUSiL.png"/>
+<img src="https://i.imgur.com/47eUSiL.png"/>
 
 ## Production Network—Live 9-10-18 [**^**](#contents)
 
 okay I think that's most of what we wanted to show so the idea here that we wanted to talk about a little bit was the title of this, **this is a production system, we've been live since the 10th of September** 
 
-<img src="http://i.imgur.com/cHws3Sb.png"/>
+<img src="https://i.imgur.com/cHws3Sb.png"/>
 
 there's a little story there so let's go back to the home page and let me talk about a couple of things there the current statistics those are actual statistics we actually recreated the credentials and loaded them this week 
 
@@ -236,52 +236,52 @@ so the database behind it was not the most scalable solution out of the box so t
 
 ## General Purpose [**^**](#contents)
 
-<img src="http://i.imgur.com/rrQSzsd.png"/>
+<img src="https://i.imgur.com/rrQSzsd.png"/>
 
 So one of the things you're seeing, is this is a BC site, but it's really very generic so what we've tried to do is make it completely agnostic of what the actual credentials that will be loaded in.
 
 We do have the concept that it's a an organization so we've got names, we have addresses, the concept of addresses, we have the concept of credential types, we have the concept of dates in there... but other than that the structure is whatever the issuer happens to issue so, it's very flexible for others to use.
 
-<img src="http://i.imgur.com/sewb1Aq.png">
+<img src="https://i.imgur.com/sewb1Aq.png">
 
 so that search that's up there is you know it was a decent amount of work uses solar and and and so on but is very generic so that other entities other jurisdictions can take this and basically spin up their own instance of this relatively easily using this code and be able to take advantage of the loading the naming the searching the display all of this is flexible and localized localizable 
 
 ## Ontario Org Book [**^**](#contents)
 
-<img src="http://i.imgur.com/PMpdfJ8.png"/>
+<img src="https://i.imgur.com/PMpdfJ8.png"/>
 
 let's take a look at the Ontario one so [The Ontario Org Book](https://www.von.gov.on.ca/) looks quite different from BCS obviously the search panel is the same they have different things they want to show and what they they don't want to show 
 
-<img src="http://i.imgur.com/wfCQNDT.png"/>
+<img src="https://i.imgur.com/wfCQNDT.png"/>
 
 so for example in Ontario they didn't want to show the structure of a company they actually have a contract that charges for that so they weren't able to do that through this 
 
 so every entity and every doing business as is a separate entity on this so because we were building with multiple jurisdictions in mind right 
 
-<img src="http://i.imgur.com/L97WeSB.png"/>
+<img src="https://i.imgur.com/L97WeSB.png"/>
 
 from the start we've we built it to be pretty flexible and so you're able to construct it on your own have your own skinning language support there's multiple language support is in there built in already I think those were the main things
 
 ## Come to our Workshop [**^**](#contents)
 
-<img src="http://i.imgur.com/GwrN03q.png"/>
+<img src="https://i.imgur.com/GwrN03q.png"/>
 
 the two more things that I wanted to touch on: **come to our workshop on Friday and Saturday** and what we're actually doing is building out issuers and verifiers
 
   * [Hands-On with Verifiable Organizations Network - Part 1](https://www.youtube.com/watch?v=R5TB-goL3_o&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=108)
   * [Hands-On with Verifiable Organizations Network - Part 2](https://www.youtube.com/watch?v=j-lM2hNq1TI&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=107)
 
-<img src="http://i.imgur.com/PE065NM.png"/>
+<img src="https://i.imgur.com/PE065NM.png"/>
 
 So this is The Org Book, the central piece. What really is important is there's an API behind all this that a issuer of permits can use to learn about the company to fetch the credentials that are already there and have them proven and then issue credentials back to the org book.
 
 A key part of this is that being easily able to extend this to many more permits and licensing providers could be within the government which we're working with.
 
-<img src="http://i.imgur.com/cdI0NGO.png"/>
+<img src="https://i.imgur.com/cdI0NGO.png"/>
 
 almost every project team we talked to says "oh we can use that!" so we're building that out and trying to make that as easy as possible so our workshop on Friday involves building an issue or verifier and actually deploying it out so you can create your issue your own credentials 
 
-<img src="http://i.imgur.com/QyOUf4G.png"/>
+<img src="https://i.imgur.com/QyOUf4G.png"/>
 
 ## Bootstrapping Mechanism [**^**](#contents)
 
@@ -297,39 +297,39 @@ so that webhook capability will just whatever you're subscribed to when when our
 
 the other piece that we'll show is thing called decentralized flow - [dFlow](https://dflow.orgbook.gov.bc.ca) 
 
-<img src="http://i.imgur.com/a8WzejN.png"/>
+<img src="https://i.imgur.com/a8WzejN.png"/>
 
 so do you wanna go to that okay spicy wings we're gonna look at Spicy Wings. This is our dev site, this is just new, that we're playing with. This is a company that's got four different credentials from different organizations.
 
-<img src="http://i.imgur.com/jUyJEIk.png"/>
+<img src="https://i.imgur.com/jUyJEIk.png"/>
 
 They've got a registration a PST that's a tax number from the province, a clearance letter for workman's compensation for a worker's insurance, and a business license from a from an entity from a municipality. 
 
-<img src="http://i.imgur.com/2fQTCap.png"/>
+<img src="https://i.imgur.com/2fQTCap.png"/>
 
 So with [dFlow](https://dflow.orgbook.gov.bc.ca) what we can do is basically what you're saying is I have a goal as a businessman I have a goal that I want a business license in the city of Surrey and it's going to be for a restaurant what have I got to do to accomplish that what other things do I need and 
 
-<img src="http://i.imgur.com/YSIIWLQ.png"/>
+<img src="https://i.imgur.com/YSIIWLQ.png"/>
 
 what we've built here is a [dynamic workflow](https://github.com/bcgov/dFlow) that starts with the one you want I want a business license, and says "what are the prerequisites for getting a business license?" well that's been encaptured in the proof requests that the business requires before it will issue you the credential that they have to offer.
 
-<img src="http://i.imgur.com/PpzN2E9.png"/>
+<img src="https://i.imgur.com/PpzN2E9.png"/>
 
 **19:34** so we can look at that proof require and then iteratively go back to that proof request and walk back a step and walk back a step all the way back until we get to the starting point and 
 
-<img src="http://i.imgur.com/XQK4hH3.png"/>
+<img src="https://i.imgur.com/XQK4hH3.png"/>
 
 now we can display dynamically what does that company need in order to get a business licencse there their goal and then what have they already got that allows them to proceed 
 
-<img src="http://i.imgur.com/FvA5vMU.png"/>
+<img src="https://i.imgur.com/FvA5vMU.png"/>
 
 so basically this company the ones in blue they already have and they can take a look at it the ones in yellow they're able to acquire now because they have all the prerequisites they haven't got it yet but they have the prerequisites for it and the ones in red they don't have the prerequisites they're just going to get rejected so no need to start in on those already 
 
-<img src="http://i.imgur.com/Pmtg8km.png"/>
+<img src="https://i.imgur.com/Pmtg8km.png"/>
 
 the nice thing about this is all of these entities that are issuing credentials that are issuing permits and licenses don't have to know the whole journey that that's really hard to figure out all they have to know is what their prerequisites are and as soon as they express those in the form of a proof request we can dynamically walk that chain and figure out what what else they need compare that with what's in their wallet what credentials they already have and now we can give them a picture of where they are all right if we got a minute 
 
-<img src="http://i.imgur.com/ZdQrDU3.png"/>
+<img src="https://i.imgur.com/ZdQrDU3.png"/>
 
 **21:15** one of the things we're going to do in the workshop is in spinning up your issue or verifier is you'll have to connect to and create ended transactions on Indy blockchain on a distributed ledger 
 
@@ -337,11 +337,11 @@ so this is a tool we created to be able to browse the network so we can look at 
 
 **21:50** we can do some operations like look at the Genesis transaction but we can also dig in and look at what are the transactions that actually exist on the ledger at this time 
 
-<img src="http://i.imgur.com/J6I6GkD.png"/>
+<img src="https://i.imgur.com/J6I6GkD.png"/>
 
 we can do some searching for things and find all the ones that have tax in the name we can search by types of in this case we're looking for schema 
 
-<img src="http://i.imgur.com/QfgNVr1.png"/>
+<img src="https://i.imgur.com/QfgNVr1.png"/>
 
 so this gives you a really good way of actually being able to see what is on the ledger you know get an idea as you register an issue or verifier take a look at what's there 
 
@@ -349,19 +349,19 @@ so that's kind of a preview of the site and the ideas that have been emerging as
 
 ## Just the First Step [**^**](#contents)
 
-<img src="http://i.imgur.com/kO6nCGy.png"/>
+<img src="https://i.imgur.com/kO6nCGy.png"/>
 
 **22:55** one of the things that we're trying to do is, it's helpful for BC businesses but BC businesses do business all around the world and we want our businesses to be able to interact digitally with everybody else and like Steven mentioned it's not just businesses but it's professionals and so forth 
 
-<img src="http://i.imgur.com/8tyRlCK.png"/>
+<img src="https://i.imgur.com/8tyRlCK.png"/>
 
 this model could work for professional engineering societies medical societies other kinds of things that have public accreditation that you need to check on 
 
-<img src="http://i.imgur.com/3O2CKLa.png"/>
+<img src="https://i.imgur.com/3O2CKLa.png"/>
 
 **23:27** so we have this idea where we think The Org Book helps us establish our local neighborhood. businesses are gaining their credentials and and that's kind of building up our local ecosystem 
 
-<img src="http://i.imgur.com/aYIYVha.png"/>
+<img src="https://i.imgur.com/aYIYVha.png"/>
 
 That makes it easier for us to help them find their way like we just demonstrated because each of these issuers are going to automatically be able to express digitally the preconditions that are necessary for them to be able to allow you into their service and an issue a new permit/ 
 
@@ -369,7 +369,7 @@ That makes it easier for us to help them find their way like we just demonstrate
 
 We think that's pretty pretty cool and as a result of this learning we've we've come up with this generalized model that has been accepted as a sub project of Indy. 
 
-<img src="http://i.imgur.com/p8BME5z.png"/>
+<img src="https://i.imgur.com/p8BME5z.png"/>
 
 We're calling that [Indy Catalyst](https://github.com/bcgov/indy-catalyst) because this is sort of a bootstrapping capability, and that'll comprised of the code-behind [The Org Book](https://github.com/bcgov/TheOrgBook) in a more generalized fashion, and the code behind the issuer verifier service that we've built which we call [von-X](https://github.com/PSPC-SPAC-buyandsell/von-x) but we'll give some other sub named as an Indy Catalyst component.
 
@@ -383,7 +383,7 @@ having a sustainable set of software in a well governed organization like Hyperl
 We think that as these neighborhoods grow, hopefully well become will create what we call the verifiable organization Network 
 **25:01** 
 
-<img src="http://i.imgur.com/ANXXvan.png"/>
+<img src="https://i.imgur.com/ANXXvan.png"/>
 
 so this is sort of a concept where if you can use these kinds of tools and it doesn't have to be Hyperledger Indy it could  be any system that is decentralized identifier—verifiable credential compliant
 
@@ -391,7 +391,7 @@ you'll be able to exchange verifiable data amongst businesses and that is really
 
 That's the idea of the Verifiable Organisation Network and the coming code that we'll call a Hyperledger Indy Catalyst, so that is our talk for now. 
 
-<img src="http://i.imgur.com/dbHSiO7.png"/>
+<img src="https://i.imgur.com/dbHSiO7.png"/>
 
 ## Q&A [**^**](#contents)
 
