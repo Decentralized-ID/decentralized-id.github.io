@@ -16,7 +16,7 @@ layout: "default"
 I changed the name of the repository, as it no longer resembles anything like an awesome-list and won't move that direction any time soon. I also figured out how to run this as a directory off of my personal page...
 
 Don't worry, I won't neglect the README's.
-![](https://i.imgur.com/wxXn6AB.png)
+![](/images/distracted-infominer.png)
 
 
 For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github.
@@ -338,9 +338,6 @@ Other files and folders within this repository:
 * [Kim Camerons Identity Blog](https://identityblog.com)
 
 ---
-
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
-
 
 ## Tips Jar [**^**](#contents)
 
