@@ -1,11 +1,11 @@
 ---
 title       : Identity Decentralized
 description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
-image       : "https://infominer.id/DIDecentralized/identity-decentralized.png"
+image       : "https://infominer.id/DIDecentralized/images/identity-decentralized.png"
 layout: "default"
 ---
 
-![](identity-decentralized.png)
+<center><img src="images/identity-decentralized.png"/></center>
 
 # Identity Decentralized
 

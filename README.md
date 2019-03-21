@@ -1,5 +1,5 @@
 
-![](identity-decentralized.png)
+<center><img src="images/identity-decentralized.png"/></center>
 
 # Identity Decentralized
 
