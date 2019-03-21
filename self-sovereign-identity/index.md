@@ -1,8 +1,10 @@
 ---
 title: Self Sovereign Identity (SSI)
 description: Literature associated with the Fundamentals of Self-Sovereign Identity.
-image: "https://infominer.id/DIDecentralized/images/self-sovereign-identity.png"
+image: "https://infominer.id/DIDecentralized/images/sovereign-identity.png"
 ---
+
+<center><img src="https://infominer.id/DIDecentralized/images/sovereign-identity.png"/></center>
 
 # Self Sovereign Identity (SSI) 
 **Literature associated with the Fundamentals of Self-Sovereign Identity.**
