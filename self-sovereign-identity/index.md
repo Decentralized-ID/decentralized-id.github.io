@@ -7,7 +7,7 @@ twitter:
 
 ---
 
-<center><img src="https://infominer.id/DIDecentralized/images/sovereign-identity.png"/></center>
+<center><img src="../images/sovereign-id-wide.png"/></center>
 
 # Self Sovereign Identity (SSI) 
 **Literature associated with the Fundamentals of Self-Sovereign Identity.**
