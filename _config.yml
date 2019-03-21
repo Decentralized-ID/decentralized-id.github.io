@@ -8,7 +8,7 @@ plugins:
 jekyll-mentions: https://twitter.com
 
 theme: jekyll-theme-modernist
-    
+rooturl       : "https://infominer.id/DIDecentralized"    
 baseurl       : "/DIDecentralized"
 title         : "Identity Decentralized"
 description   : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
