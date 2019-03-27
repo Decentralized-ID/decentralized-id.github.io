@@ -40,6 +40,7 @@ I'm getting to know the minimal-mistakes theme over at [SourceCrypto](https://in
   * [Blockcerts](#blockcerts-)
   * [Schema](#schema-)
 * [DID Adoption](#did-adoption-)
+* [Public Key Crypto - Attack Vectors](#public-key-crypto---attack-vectors-)
 * [Directory](#directory-) To other pages within this repository.
   * [SSI\DID History](history.md) >>
   * [Self Sovereign Identity](self-sovereign-identity) >>
@@ -289,6 +290,8 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 ![](https://oneworldidentity.com/wp-content/uploads/2018/10/companies.png)
 
 2018 Identity Landsacpe brought to you by: [One World Identity](https://oneworldidentity.com/) — independent advisory and digital strategy consultancy focused on trust and the data economy.
+
+## Public Key Crypto - Attack Vectors [**^**](#contents)
 
 
 
