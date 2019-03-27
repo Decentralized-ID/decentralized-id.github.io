@@ -22,6 +22,19 @@ image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
 * [Cryptonomica](#cryptonomica-)
 * [Assorted Ethereum Apps](#assorted-ethereum-apps-)
 
+### Directory
+* [Eth Github Repositories](eth-id-github.md) **>>**
+  * [EIP - ERC](eth-id-github.md#eip---erc-) **>>**
+  * [Jolocom](eth-id-github.md#jolocom-) **>>**
+  * [uPort](eth-id-github.md#uport-) **>>**
+    * [uPort DID](eth-id-github.md#uport-did-) **>>**
+    * [uPort Identification](eth-id-github.md#uport-identification-) **>>**
+    * [uPort Mobile](eth-id-github.md#uport-mobile-) **>>**
+    * [uPort Lambda](eth-id-github.md#uport-lambda-) **>>**
+    * [uPort React](eth-id-github.md#uport-react-) **>>**
+    * [uPort Assorted](eth-id-github.md#uport-assorted-) **>>**
+  * [Spid-Eth](eth-id-github.md#spid-eth-) **>>**
+  * [Cryptonomica](eth-id-github.md#cryptonomica-) **>>**
 
 ## ERC-EIP [**^**](#contents)
 
@@ -33,6 +46,7 @@ image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
 * [EIP-1078](https://github.com/ethereum/EIPs/blob/ed621645c8f3bc5756492f327cda015f35d9f8da/EIPS/eip-1078.md) - 
 This presents a method to replace the usual signup/login design pattern with a minimal ethereum native scheme, that doesn’t require passwords, backing up private keys nor typing seed phrases. 
 * [ERC-1077 and ERC-1078: The magic of executable signed messages](https://ethereum-magicians.org/t/erc-1077-and-erc-1078-the-magic-of-executable-signed-messages-to-login-and-do-actions/351)
+* [ERC-EIP on GitHub](eth-id-github.html#eip---erc-) **>>**
 
 ### ERC725-735 [**^**](#contents-)
 
