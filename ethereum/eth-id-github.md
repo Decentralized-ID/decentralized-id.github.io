@@ -143,7 +143,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 
 
 
-### Spid-Eth [**^**](#contents)
+## Spid-Eth [**^**](#contents)
 * <a href="https://github.com/SpidChain/eth-lightwallet" target="_blank">/SpidChain/eth-lightwallet</a> - Forked from ConsenSys/eth-lightwallet
   - Lightweight JS Wallet for Node and the browser
 * <a href="https://github.com/SpidChain/truffle" target="_blank">/SpidChain/truffle</a> - Forked from trufflesuite/truffle
