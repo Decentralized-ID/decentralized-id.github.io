@@ -38,7 +38,59 @@
 * [A Comprehensive Guide to Self Sovereign Identity](https://ssiscoop.com/) - by Kaliya ['Identity Woman'](https://twitter.com/IdentityWoman) Young and [Heather Vescent](https://twitter.com/heathervescent) [[**ϟ**](https://www.thepaypers.com/expert-opinion/10-things-you-need-to-know-about-self-sovereign-identity-part-1/774556)]
 * [Report launch: ‘Identity at the Margins — identification systems for refugees”](https://medium.com/caribou-digital/report-launch-identity-at-the-margins-identification-systems-for-refugees-69466244fa62)
 * [WEF: Identity in a Digital World A new chapter in the social contract](http://www3.weforum.org/docs/WEF_INSIGHT_REPORT_Digital%20Identity.pdf)
+
+## Bundlesblok Position Paper
+
 * [A position paper on blockchain enabled identity and the road ahead](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)—Identity Working Group of the German Blockchain Association [[**ϟ**](https://www.bundesblock.de/2018/10/23/position-paper-self-sovereign-identity/)]
+  >### Appendix VII – Pilot Projects and Proof of Concepts
+  >
+  >The provided list of pilot projects and proof of concepts is only preliminary, as the number of projects grows quickly.
+  >
+  >**TheOrgBook (British Columbia - Canada)**
+  >
+  >The Province of British Columbia is currently collaborating with the Province of Ontario and the Canadian Federal Government to provide verified digital claims about businesses. 
+  >
+  >The Verified Organization Network is an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called TheOrgBook that lists entities with their associated public verifiable claims. In this project businesses and their representatives are given access to streamlined government services and digital transactions in the broader economy.
+  >
+  > **TrustNet (Finland)**
+  >
+  > TrustNet is a heavily industry-networked research project that focuses on developing a blockchain-based distributed environment for personal data management following the MyData principles. Such an environment is the cornerstone for functional personal data markets as it allows individuals to control the flow of their personal data across companies and industries and creates the foundational building blocks for creating new personal data-centric services.
+  >
+  > **Alastria (Spain)**
+  >
+  > Alastria is a non-profit consortium building a national blockchain ecosystem for Spain. The security and veracity of information will be ensured through the identification of natural and legal persons, while at the same time allowing citizens to have control over their personal information in a transparent way following the guidelines set by the European Union.
+  >
+  > **Illinois blockchain initiative (United States of America)**
+  >
+  > The Illinois Blockchain Initiative is partnering with Evernym to develop a birth registry pilot, where self-sovereign identities are created, and government agencies issue "verifiable claims" for birth registration attributes such as legal name, date of birth, sex or blood type. 
+  >
+  > **Blockchain on the Move (Antwerp, Belgium)**
+  >
+  > As a cooperation project between the city of Antwerp, the Flemish Information Agency, Digipolis and the Flemish ICT organization (V-ICT-OR), the project Blockchain on the Move is a pilot project on SSI and its application on the municipal level. It explores the potential of SSI for e-Government use cases and State-issued credentials for private sector B2B and B2C use cases.
+  >
+  > **City of Zug (UPort and ti&m)**
+  >
+  > As a first pilot project in Switzerland, the city of Zug is currently piloting a SSI solution. The local administration is cooperating with the IT consulting company ti&m, as well as UPort to provide a basic infrastructure for their citizens to attest their identity. With the SSI implemented in Zug, users can now pay their parking fees, register for elections or perform online sign on for e-government services33. The benefits range for the city of Zug are low infrastructure requirements, decreased security risks, cost effectiveness, GDPR compliance and scalability.
+  >
+  > **Danube Tech (Austria)**
+  >
+  >In a SSI proof-of-concept during the first half of 2018, 3 banks, an insurance company, the Austrian Post, and an institution representing notaries has cooperated to implement a range of use cases based on DIDs, Verifiable Credentials, Sovrin, and the XDI protocol. The use cases included:
+  > * digital ID onboarding for existing clients,
+  > * SSO for new clients,
+  > * sharing of KYC data between organizations,
+  > * dynamic data verification (change-of-address),
+  > * secure communication (e-mail with ID confirmation),
+  > * change of identity service providers,
+  > * personal ID verification in a peer-to-peer marketplace
+  >
+  > 28 https://github.com/bcgov/von accessed 30 September 2018\
+  > 29 https://github.com/bcgov/theorgbook accessed 30 September 2018\
+  > 30 http://trustnet.fi/ accessed 30 September 2018\
+  > 31 https://alastria.io/#1 accessed 30 September 2018\
+  > 32 https://illinoisblockchain.tech/ accessed 30 September 2018\
+  > 33 https://medium.com/uport/zug-id-exploring-the-first-publicly-verified-blockchain-identity-38bd0ee3702
+
+
 
 ## Decentralized Public Key Infrastructure DPKI [**^**](#contents)
 * RWoT—[Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)

@@ -33,7 +33,7 @@ image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
     * [uPort Lambda](eth-id-github.md#uport-lambda-) **>>**
     * [uPort React](eth-id-github.md#uport-react-) **>>**
     * [uPort Assorted](eth-id-github.md#uport-assorted-) **>>**
-  * [Spid-Eth](eth-id-github.md#spid-eth-) **>>**
+  * [Spid-Eth](eth-id-github.md#spidchain-) **>>**
   * [Cryptonomica](eth-id-github.md#cryptonomica-) **>>**
 
 ## ERC-EIP [**^**](#contents)
