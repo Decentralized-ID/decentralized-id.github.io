@@ -1,12 +1,15 @@
 # XDI
 
-The XNS Public Trust Organization was founded in July 2000, shortly after International Planetwork Conference. -[xdi.org - History](http://xdi.org/?page_id=13)
-  > to promote the concept of individuals owning their own digital identity and data based on a nascent technology being produced by two Technical Committees at OASIS: XRI (Extensible Resource Identifier) and XDI (Extensible Data Interchange).
-
-* [xdi.org](http://xdi.org/) is a non-profit public trust organization whose purpose is to provide public infrastructure for digital identity, security, and privacy using the open standard XDI semantic data interchange protocol developed by the OASIS XDI Technical Committee.
+* [tutorial.xdi2.org](https://tutorial.xdi2.org)
+  > XDI is a technology for modeling, storing, and manipulating data.
+  >
+  > It fits into a similar category of technologies as JSON, XML and RDF, but also has a number of properties that distinguishes it.
+  >
+  > XDI is a graph-based data model. This means that all data is expressed using nodes and arcs in a graph. At a minimum, a graph consists of a single node, called the common root node.
 
 ## Contents
 
+* [Intro](#intro)
 * [RWoT Papers](#rwot-papers-)
 * [Project Danube](#project-danube-)
 * [Github Repos](#github-repos-)
@@ -20,6 +23,13 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
     * [XDI Cloud](#xdi-cloud-)
     * [XDI Server Deployed Via](#xdi-server-deployed-via-)
     * [Services](#services-)
+
+## Intro
+
+The XNS Public Trust Organization was founded in July 2000, shortly after International Planetwork Conference. -[xdi.org - History](http://xdi.org/?page_id=13)
+  > to promote the concept of individuals owning their own digital identity and data based on a nascent technology being produced by two Technical Committees at OASIS: XRI (Extensible Resource Identifier) and XDI (Extensible Data Interchange).
+* [xdi.org](http://xdi.org/) is a non-profit public trust organization whose purpose is to provide public infrastructure for digital identity, security, and privacy using the open standard XDI semantic data interchange protocol developed by the OASIS XDI Technical Committee.
+
 
 ## RWoT Papers
 
