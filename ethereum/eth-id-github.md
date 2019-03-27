@@ -13,7 +13,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
   * [uPort Lambda](#uport-lambda-)
   * [uPort React](#uport-react-)
   * [uPort Assorted](#uport-assorted-)
-* [Spid-Eth](#spid-eth-)
+* [Spid-Eth](#spidchain-)
 * [Cryptonomica](#cryptonomica-)
 
 
@@ -143,7 +143,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 
 
 
-## Spid-Eth [**^**](#contents)
+## Spidchain [**^**](#contents)
 * <a href="https://github.com/SpidChain/eth-lightwallet" target="_blank">/SpidChain/eth-lightwallet</a> - Forked from ConsenSys/eth-lightwallet
   - Lightweight JS Wallet for Node and the browser
 * <a href="https://github.com/SpidChain/truffle" target="_blank">/SpidChain/truffle</a> - Forked from trufflesuite/truffle
@@ -155,7 +155,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 Example of using NodeJs with Ethereum
 
 
-## Cryptonomica [**^**](#cryptonomica)
+## Cryptonomica [**^**](#contents)
 * <a href="https://github.com/Cryptonomica/cryptonomica" target="_blank">/Cryptonomica/cryptonomica</a> - Cryptonomica keys server
 * <a href="https://github.com/Cryptonomica/cryptonomica.github.io" target="_blank">/Cryptonomica/cryptonomica.github.io</a> - Cryptonomica frontend
 * <a href="https://github.com/Cryptonomica/arbitration-rules" target="_blank">/Cryptonomica/arbitration-rules</a> - Cryptonomica Arbitration Rules
