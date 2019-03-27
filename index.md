@@ -19,8 +19,6 @@ I'm getting to know the minimal-mistakes theme over at [SourceCrypto](https://in
 
 As you can see, I'm continually working to break up the info into separate files, so it can all grow :D
 
-Submit any information you'd like included in this resource with an issue, or a pull-request.
-
 
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**>>**](#contents)] another page on site. • [[**^**](#contents)] back to the contents.
@@ -103,6 +101,9 @@ To other pages within this repository.
     * [Decentralized Identity Foundation >>](history.md#decentralized-identity-foundation-) '17
     * [DID Standards History >>](history.md#standards-history-)
 * [Self Sovereign Identity](self-sovereign-identity) >>
+  * [Evolution of SSI](evolution-of-ssi.html) >>
+  * [SSI Principles vs Characteristics](ssi-principles-vs-characteristics.html) >>
+  * [User Experience](user-experience.html) >>
 * [DID Related Web Standards](standards) >>
   * [XDI](standards/#xdi-) >>
     * [OASIS XDI TC Technical Committee on GitHub](standards/#oasis-xdi-tech-committee-on-github-) >>
@@ -118,29 +119,32 @@ To other pages within this repository.
 * [Humanitarian](humanitarian.md) >>
 * [Identity Related GitHub Repositories](identity-github.md) >>
 * [Literature](literature.md) >>
-* [Rebooting Web of Trust](rebooting-web-of-trust.md) >>
+* [Workshops](workshops) >>
+  * [Rebooting Web of Trust](workshops/rebooting-web-of-trust.md) >>
 * [Media](media.md) >> - Video, Podcasts and Slideshare  
-* [Decentralized Identity Foundation—DIF](identity-foundation.md) >>
-* [Bitcoin](bitcoin.md) >>
-  * [Spidchain](bitcoin.md#spidchain-) >>
-* [Ethereum](ethereum/) >>
-  * [ERC-EIP](ethereum/#erc-eip-) >>
-  * [ERC725-735](ethereum/erc725-735-)
-  * [uPort](ethereum/#uport-) >>
-  * [Jolocom](ethereum/#jolocom-) >>
-  * [Spidchain](ethereum/#spidchain-) >>
-  * [Cryptonomica](ethereum/cryptonomica.html) >>
-  * [Assorted Ethereum Apps](ethereum/#assorted-ethereum-apps-) >>
-* [Indy Ecosystem](indy-ecosystem/) >>
-  * [Adoption](indy-ecosystem/adoption.md) >>
-  * [Indy Github](indy-ecosystem/indy-github.md) >>
-  * [Literature](indy-ecosystem/literature.md) >>
-  * [Sovrin Foundation](indy-ecosystem/sovrin.foundation.md) >>
-  * [VON](indy-ecosystem/VON.md) >>
+* [Organizations](organizations) >>
+  * [Decentralized Identity Foundation—DIF](organizations/identity-foundation.md) >>
+  * [Sovrin Foundation](organizations/sovrin.foundation.md) >>
+* DID\SSI Initiatives
+  * [Bitcoin](initiatives/bitcoin.md) >>
+    * [Spidchain](initiatives/bitcoin.md#spidchain-) >>
+  * [Ethereum](initiatives/ethereum/) >>
+    * [ERC-EIP](initiatives/ethereum/#erc-eip-) >>
+    * [ERC725-735](initiatives/ethereum/erc725-735-)
+    * [uPort](initiatives/ethereum/#uport-) >>
+    * [Jolocom](initiatives/ethereum/#jolocom-) >>
+    * [Spidchain](initiatives/ethereum/#spidchain-) >>
+    * [Cryptonomica](initiatives/ethereum/cryptonomica.html) >>
+    * [Assorted Ethereum Apps](initiatives/ethereum/#assorted-ethereum-apps-) >>
+  * [Indy](initiatives/indy-ecosystem/) >>
+    * [Adoption](initiatives/indy-ecosystem/adoption.md) >>
+    * [Indy Github](initiatives/indy-ecosystem/indy-github.md) >>
+    * [Literature](initiatives/indy-ecosystem/literature.md) >>
+    * [VON](initiatives/indy-ecosystem/VON.md) >>
+  * [Microsoft](microsoft.md) >>
+  * [IBM](ibm.md) >>
 * [Hyperledger Global Forum](hgf-2018/) >>
 * [State Sponsored](state-sponsored.md) >>
-* [Microsoft](microsoft.md) >>
-* [IBM](ibm.md) >>
 
 
 
