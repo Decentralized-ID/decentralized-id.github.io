@@ -27,7 +27,6 @@ Submit any information you'd like included in this resource with an issue, or a 
 
 ## Contents
 * [What is Decentralized ID?](#what-is-decentralized-id-)
-* [Decentralized Identity History](#decentralized-identity-history-)
 * [What is Self Sovereign Identity?](#self-sovereign-identity-)
 * [Directory](#directory-)
 * [Sources](#sources-)
