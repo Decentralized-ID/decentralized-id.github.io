@@ -53,8 +53,8 @@ The essence of Decentralized-ID is in creating open standards for a privacy pres
 
 It's impossible to have a conversation about decentralized-id without discussing blockchain and self sovereign identity: 
   * Self Sovereign Identity principles (with some help from the GDPR) have helped to shape the narrative around putting the identity owner in control over their personal information.
-  * Blockchain fueled longstanding efforts to create a privacy preserving internet-wide identity protocol, and inspired development of decentralized networks for online identification. 
-  * The United Nations Sustainable Development Goals (SDGs) have also helped to fueled efforts for a global and widely accessible identity solution.
+  * Excitement over Blockchain Tech has spilled over in support of longstanding efforts to create a privacy preserving internet-wide identity protocol, and inspired development of decentralized networks for online identification. 
+  * The United Nations Sustainable Development Goals (SDGs) have also fueled efforts towards a global and widely accessible identity solution.
 
 
 
