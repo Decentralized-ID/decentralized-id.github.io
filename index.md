@@ -32,7 +32,9 @@ Submit any information you'd like included in this resource with an issue, or a 
 * [Directory](#directory-)
 * [Sources](#sources-)
 * [Tips Jar](#tips-jar-)
+
 ---
+
 * [Edit this Page](https://github.com/infominer33/DIDecentralized)
 * [infominer.id](https://infominer.id)
 
