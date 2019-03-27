@@ -105,7 +105,7 @@ To other pages within this repository.
 * [Self Sovereign Identity](self-sovereign-identity) >>
 * [DID Related Web Standards](standards) >>
   * [XDI](standards/#xdi-) >>
-  * [OASIS XDI TC Technical Committee on GitHub](standards/#oasis-xdi-tech-committee-on-github-) >>
+    * [OASIS XDI TC Technical Committee on GitHub](standards/#oasis-xdi-tech-committee-on-github-) >>
   * [W3C](standards/#w3c-) >>
     * [DID the Decentralized Identifier](standards/#did-the-decentralized-identifier-) >>
     * [Verifiable Claims](standards/#verifiable-claims-) >>
@@ -129,7 +129,7 @@ To other pages within this repository.
   * [uPort](ethereum/#uport-) >>
   * [Jolocom](ethereum/#jolocom-) >>
   * [Spidchain](ethereum/#spidchain-) >>
-  * [Cryptonomica](ethereum/#cryptonomica-) >>
+  * [Cryptonomica](ethereum/cryptonomica.html) >>
   * [Assorted Ethereum Apps](ethereum/#assorted-ethereum-apps-) >>
 * [Indy Ecosystem](indy-ecosystem/) >>
   * [Adoption](indy-ecosystem/adoption.md) >>
