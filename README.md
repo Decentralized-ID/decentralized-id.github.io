@@ -1,25 +1,20 @@
+---
+layout: "default"
+title       : Identity Decentralized
+description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
+twitter:
+  card      : "summary_large_image"
+image       : "https://infominer.id/DIDecentralized/images/IDecentralized.png"
+---
 
 <center><img src="images/identity-decentralized.png"/></center>
 
-# DID - Identity Decentralized
+# DID - Digital Identity Decentralized
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
 
-## Note:
 
-I changed the name of the repository, as it no longer resembles anything like an awesome-list and won't move that direction any time soon. I also figured out how to run this as a directory off of my personal page...
-
-Don't worry, I won't neglect the README's.
-![](/images/distracted-infominer.png)
-
-
-For now, [**infominer.id/DIDecentralized**](https://infominer.id/DIDecentralized) will be the most up to date - and I will make every effort to optimize for that experience, including mobile; rather than for navigation through github.
-
-**ATTN:** It would be really helpful to me, if you have a project in this ecosystem and want to make a page that highlights your best traits and includes your most valuable resources - or even personal page that describes who you are and what you do, history, as far as you want to go really- I can add it to the repository and build upon it, or simply add it to the collection, whatever works for everyone. 
-
-I'm open to collaboration.
-
-
+**ATTN:** Submit any information you'd like included in this resource with an issue, or a pull-request.
 
 ## Contents
 
@@ -320,8 +315,6 @@ Other files and folders within this repository:
   * [State Sponsored](state-sponsored.md)
   * [IBM](ibm.md)
   * [Microsoft](microsoft.md)
-
-
 
 
 ## Sources [**^**](#contents)
