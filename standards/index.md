@@ -1,8 +1,22 @@
 # DID Related Web Standards [**^**](#contents)
 
-* [**XDI**](xdi.html) **>>**
+## contents
+
+* [XDI](#xdi-)
+  * [OASIS XDI TC Technical Committee on GitHub](#oasis-xdi-tech-committee-on-github-)
+  * [W3C](#w3c-)
+    * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
+    * [Verifiable Claims](#verifiable-claims-)
+  * [Decentralized Key Managment DKMS](#decentralized-key-management-agents-)
+  * [DID Auth](#did-auth-) 
+  * [Blockcerts](#blockcerts-)
+  * [Schema](#schema-)
+
+
 
 ## XDI [**^**](#contents)
+
+* [**XDI**](xdi.html) **>>**
 
 The XNS Public Trust Organization was founded in July 2000, shortly after International Planetwork Conference. -[xdi.org - History](http://xdi.org/?page_id=13)
   > to promote the concept of individuals owning their own digital identity and data based on a nascent technology being produced by two Technical Committees at OASIS: XRI (Extensible Resource Identifier) and XDI (Extensible Data Interchange).
@@ -13,7 +27,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
   >
   > XDI is a graph-based data model. This means that all data is expressed using nodes and arcs in a graph. At a minimum, a graph consists of a single node, called the common root node.
 
-### OASIS XDI Tech Committee on Github
+### OASIS XDI Tech Committee on Github [**^**](#contents)
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-docbook">/OASIS-XDI-Technical-Committee/xdi-spec-docbook</a> - XDI Specifications (Docbook)
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-developers-guide">/OASIS-XDI-Technical-Committee/xdi-developers-guide</a> - XDI Developer's Guide
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-openoffice">/OASIS-XDI-Technical-Committee/xdi-spec-openoffice</a> - XDI Specifications (Open Office)
