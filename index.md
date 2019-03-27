@@ -15,7 +15,7 @@ image       : "https://infominer.id/DIDecentralized/images/IDecentralized.png"
 
 ## Note:
 
-I'm getting to know the minimal-mistakes theme over at [SourceCrypto](https://infominer.id/SourceCrypto). I've gone as far with this theme as it can take me, and don't want to mess with it any more until I get the hang of  [minimal-mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/).
+I'm getting to know the minimal-mistakes theme over at [SourceCrypto](https://infominer.id/SourceCrypto). I've gone as far with this theme as it can take me, and don't want to mess with the structure of this site any more until I get the hang of  [minimal-mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/).
 
 
 **ATTN:** Submit any information you'd like included in this resource with an issue, or a pull-request.
@@ -53,14 +53,14 @@ I'm getting to know the minimal-mistakes theme over at [SourceCrypto](https://in
   * [Decentralized Identity Foundation—DIF](identity-foundation.md) >>
   * [Bitcoin](bitcoin.md) >>
     * [Spidchain](bitcoin.md#spidchain-) >>
-  * [Ethereum](ethereum.md) >>
-    * [ERC-EIP](ethereum.md#erc-eip-) >>
-    * [ERC725-735](ethereum.md#erc725-735-)
-    * [uPort](ethereum.md#uport-) >>
-    * [Jolocom](ethereum.md#jolocom-) >>
-    * [Spidchain](ethereum.md#spidchain-) >>
-    * [Cryptonomica](ethereum.md#cryptonomica-) >>
-    * [Assorted Ethereum Apps](ethereum.md#assorted-ethereum-apps-) >>
+  * [Ethereum](ethereum/) >>
+    * [ERC-EIP](ethereum/#erc-eip-) >>
+    * [ERC725-735](ethereum/erc725-735-)
+    * [uPort](ethereum/#uport-) >>
+    * [Jolocom](ethereum/#jolocom-) >>
+    * [Spidchain](ethereum/#spidchain-) >>
+    * [Cryptonomica](ethereum/#cryptonomica-) >>
+    * [Assorted Ethereum Apps](ethereum/#assorted-ethereum-apps-) >>
   * [Indy Ecosystem](indy-ecosystem/) >>
     * [Adoption](indy-ecosystem/adoption.md) >>
     * [Indy Github](indy-ecosystem/indy-github.md) >>
@@ -309,10 +309,14 @@ Other files and folders within this repository:
   * [Decentralized Identity Foundation—DIF](identity-foundation.md)
   * [Bitcoin](bitcoin.md)
     * [Spidchain](bitcoin.md#spidchain-)
-  * [Ethereum](ethereum.md)
-    * [uPort](ethereum.md#uport-)
-    * [Jolocom](ethereum.md#jolocom-)
-    * [Spidchain](ethereum.md#spidchain-)
+  * [Ethereum](ethereum/)
+    * [ERC-EIP](ethereum/#erc-eip-)
+    * [ERC725-735](ethereum/erc725-735-)
+    * [uPort](ethereum/#uport-)
+    * [Jolocom](ethereum/#jolocom-)
+    * [Spidchain](ethereum/#spidchain-)
+    * [Cryptonomica](ethereum/#cryptonomica-)
+    * [Assorted Ethereum Apps](ethereum/#assorted-ethereum-apps-)
   * [Indy Ecosystem](indy-ecosystem/)
     * [Adoption](indy-ecosystem/adoption.md)
     * [Indy Github](indy-ecosystem/indy-github.md)
