@@ -15,7 +15,7 @@ image       : "https://infominer.id/DIDecentralized/images/IDecentralized.png"
 
 ## Note:
 
-I'm getting to know the minimal-mistakes theme over at [SourceCrypto](https://infominer.id/SourceCrypto). This theme is excellent and beautiful, but it has proprietary code, where [minimal-mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/) is quite versitile and open-source. Once I get the hang of it, then I'll set it up here. As this site is pretty well set up, as it is, I don't want to mess with it until I really know what I'm doing.
+I'm getting to know the minimal-mistakes theme over at [SourceCrypto](https://infominer.id/SourceCrypto). I've gone as far with this theme as it can take me, and don't want to mess with it any more until I get the hang of  [minimal-mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/).
 
 
 **ATTN:** Submit any information you'd like included in this resource with an issue, or a pull-request.
