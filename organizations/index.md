@@ -2,36 +2,6 @@
 
 in progress....
 
-## IIW - Internet Identity Workshop
-
->The [Internet Identity Workshop](https://internetidentityworkshop.com) has been finding, probing and solving identity issues twice every year since 2005. 
-
-... 
-
-<blockquote>
-IIW is at its heart a participatory conference. Through dozens of sessions, lunches, and two evening meals (all included in ticket) you’ll have plenty of chances to exchange ideas and make new professional connections.
-
-This is the time and place that you get to discuss, share your knowledge, work on and learn about anything & everything related to Internet Identity today.
-
-Spring: April 30, 2019 – May 2, 2019
-
-Fall: October 01, 2019 – October 03, 2019
-</blockquote>
-
-[![](https://i.imgur.com/DRSuywW.png)](https://vimeo.com/173562225)
-
-## Rebooting Web of Trust
-
-* [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
-  >Our goal for this initial #RebootingWebOfTrust design workshop is to:
-  >
-  > * Focus on the creation of the next generation of decentralized web-of-trust based identity systems.
-  > * To generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future"
-  >
-  > To this end, I thought it would be useful to define what is a white paper, and as some people desire to go beyond this, what is a specification and proof of concept code.
-
-* <a href="http://www.weboftrust.info/next-event-page.html" target="_blank">WebOfTrust.info - Upcoming Events</a>
-
 ## MyData
 
 * [Mydata](http://mydata.org/) [[**T**](https://twitter.com/mydataorg)] [[**D**](https://mydata.org/papers/)] [[**D**](https://mydata.org/declaration/)]
