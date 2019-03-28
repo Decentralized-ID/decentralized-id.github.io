@@ -101,9 +101,9 @@ To other pages within this repository.
     * [Decentralized Identity Foundation >>](history.md#decentralized-identity-foundation-) '17
     * [DID Standards History >>](history.md#standards-history-)
 * [Self Sovereign Identity](self-sovereign-identity) >>
-  * [Evolution of SSI](evolution-of-ssi.html) >>
-  * [SSI Principles vs Characteristics](ssi-principles-vs-characteristics.html) >>
-  * [User Experience](user-experience.html) >>
+  * [Evolution of SSI](evolution-of-ssi.md) >>
+  * [SSI Principles vs Characteristics](ssi-principles-vs-characteristics.md) >>
+  * [User Experience](user-experience.md) >>
 * [DID Related Web Standards](standards) >>
   * [XDI](standards/#xdi-) >>
     * [OASIS XDI TC Technical Committee on GitHub](standards/#oasis-xdi-tech-committee-on-github-) >>
@@ -114,35 +114,46 @@ To other pages within this repository.
   * [DID Auth](standards/#did-auth-) >>
   * [Blockcerts](standards/#blockcerts-) >>
   * [Schema](standards/#schema-) >>
-* [DID Adoption](adoption.html) >>
+* [DID Adoption](adoption.md) >>
 * [GDPR](gdpr) >>
 * [Humanitarian](humanitarian.md) >>
 * [Identity Related GitHub Repositories](identity-github.md) >>
 * [Literature](literature.md) >>
 * [Workshops](workshops) >>
   * [Rebooting Web of Trust](workshops/rebooting-web-of-trust.md) >>
-* [Media](media.md) >> - Video, Podcasts and Slideshare  
+* [Media](media.md) >> (Video, Podcasts and Slideshare) 
 * [Organizations](organizations) >>
   * [Decentralized Identity Foundation—DIF](organizations/identity-foundation.md) >>
+  * [My Data](organizations/mydata.md)
   * [Sovrin Foundation](organizations/sovrin.foundation.md) >>
-* DID\SSI Initiatives
-  * [Bitcoin](initiatives/bitcoin.md) >>
-    * [Spidchain](initiatives/bitcoin.md#spidchain-) >>
-  * [Ethereum](initiatives/ethereum/) >>
-    * [ERC-EIP](initiatives/ethereum/#erc-eip-) >>
-    * [ERC725-735](initiatives/ethereum/erc725-735-)
-    * [uPort](initiatives/ethereum/#uport-) >>
-    * [Jolocom](initiatives/ethereum/#jolocom-) >>
-    * [Spidchain](initiatives/ethereum/#spidchain-) >>
-    * [Cryptonomica](initiatives/ethereum/cryptonomica.html) >>
-    * [Assorted Ethereum Apps](initiatives/ethereum/#assorted-ethereum-apps-) >>
-  * [Indy](initiatives/indy-ecosystem/) >>
-    * [Adoption](initiatives/indy-ecosystem/adoption.md) >>
-    * [Indy Github](initiatives/indy-ecosystem/indy-github.md) >>
-    * [Literature](initiatives/indy-ecosystem/literature.md) >>
-    * [VON](initiatives/indy-ecosystem/VON.md) >>
-  * [Microsoft](microsoft.md) >>
-  * [IBM](ibm.md) >>
+  * [SSI Meetup](organizations/ssi-meetup.md)
+* [DID\SSI Initiatives](id-initiatives) >>
+  * [Bitcoin](id-initiatives/bitcoin.md) >>
+    * [Spidchain](id-initiatives/bitcoin.md#spidchain-) >>
+  * [Blockstack](id-initiatives/blockstack.md) >>
+  * [Blockpass](id-initiatives/blockpass.md)
+  * [Danube](id-initiatives/danube.md)
+  * [Democracy Earth](id-initiatives/democracy-earth.md)
+  * [Digital Bazaar](id-initiatives/digital-bazaar.md)
+  * [Ethereum](id-initiatives/ethereum/) >>
+    * [ERC-EIP](id-initiatives/ethereum/#erc-eip-) >>
+    * [ERC725-735](id-initiatives/ethereum/erc725-735-)
+    * [uPort](id-initiatives/ethereum/#uport-) >>
+    * [Jolocom](id-initiatives/ethereum/#jolocom-) >>
+    * [Spidchain](id-initiatives/ethereum/#spidchain-) >>
+    * [Cryptonomica](id-initiatives/ethereum/cryptonomica.md) >>
+    * [Assorted Ethereum Apps](id-initiatives/ethereum/#assorted-ethereum-apps-) >>
+  * [Handshake](id-initiatives/handshake.md)
+  * [Indy](id-initiatives/indy-ecosystem/) >>
+    * [Adoption](id-initiatives/indy-ecosystem/adoption.md) >>
+    * [Indy Github](id-initiatives/indy-ecosystem/indy-github.md) >>
+    * [Literature](id-initiatives/indy-ecosystem/literature.md) >>
+    * [VON](id-initiatives/indy-ecosystem/VON.md) >>
+  * [IBM](id-initiatives/ibm.md) >>
+  * [Microsoft](id-initiatives/microsoft.md) >>
+  * [Ontology](id-initiatives/ontology.md)
+  * [Spid-chain](id-initiatives/spid-chain.md)
+  * [Danube Tech](id-initiatives/danube.md) >> 
 * [Hyperledger Global Forum](hgf-2018/) >>
 * [State Sponsored](state-sponsored.md) >>
 
