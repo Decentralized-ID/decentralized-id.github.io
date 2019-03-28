@@ -1,4 +1,7 @@
-# XDI
+---
+title: XDI
+layout: single
+---
 
 * [tutorial.xdi2.org](https://tutorial.xdi2.org)
   > XDI is a technology for modeling, storing, and manipulating data.
@@ -66,15 +69,15 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 
 
 
-## Project Danube [**^**](#contents)
+## Project Danube
 
 Markus Sabadello began working on Project Danube [around 2010](https://web.archive.org/web/20101221105543/http://projectdanube.org/)
 
 >This is an open-source project offering software for identity and personal data services on the Internet. The core of this project is an XDI-based Personal Data Store - a semantic database for your personal data, which always remains under your control. Applications on top of this database include the Federated Social Web, the selective sharing of personal data with organizations, and much more.
 
-## Github Repos [**^**](#contents)
+## Github Repos
 
-## OASIS XDI TC Technical Committee [**^**](#contents)
+## OASIS XDI TC Technical Committee
 
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-docbook">/OASIS-XDI-Technical-Committee/xdi-spec-docbook</a> - XDI Specifications (Docbook)
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-developers-guide">/OASIS-XDI-Technical-Committee/xdi-developers-guide</a> - XDI Developer's Guide
@@ -84,7 +87,7 @@ Markus Sabadello began working on Project Danube [around 2010](https://web.archi
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a>
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a>
 
-## Danube Github [**^**](#contents)
+## Danube Github
 * <a href="https://github.com/projectdanube/xdi2" target="_blank">/projectdanube/xdi2</a> - XDI2 general purpose library and server
 * <a href="https://github.com/projectdanube/xdi-js" target="_blank">/projectdanube/xdi-js</a> - XDI client library for JavaScript
 * <a href="https://github.com/projectdanube/xdi2-connect-core" target="_blank">/projectdanube/xdi2-connect-core</a> - Shared library for the XDI Connect protocol
@@ -107,14 +110,14 @@ Markus Sabadello began working on Project Danube [around 2010](https://web.archi
   - Forked from jvasile/withsqlite
 * <a href="https://github.com/projectdanube/blockstack-cli-java" target="_blank">/projectdanube/blockstack-cli-java</a> - Java client for Blockstore
 
-### XDI Configuration [**^**](#contents)
+### XDI Configuration
 
 * <a href="https://github.com/projectdanube/xdi2-selfhosted" target="_blank">/projectdanube/xdi2-selfhosted</a> - A configuration profile of the XDI2 server for self-hosting a single XDI graph.
 * <a href="https://github.com/projectdanube/xdi2-csp" target="_blank">/projectdanube/xdi2-csp</a> - A configuration profile of the XDI2 server for hosting a dynamic number of XDI graphs.
 * <a href="https://github.com/projectdanube/xdi2-registry" target="_blank">/projectdanube/xdi2-registry</a> - 
 A configuration profile of the XDI2 server for hosting a registry of XDI names and XDI numbers.
 
-### XDI Examples [**^**](#contents)
+### XDI Examples
 
 * <a href="https://github.com/projectdanube/xdi2-example-messaging" target="_blank">/projectdanube/xdi2-example-messaging</a> - XDI2 Examples: Basic messaging functionality.
 * <a href="https://github.com/projectdanube/xdi2-example-advanced-server" target="_blank">/projectdanube/xdi2-example-advanced-server</a> - XDI2 Examples: Setting up advanced XDI servers.
@@ -127,7 +130,7 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/projectdanube/xdi2-example-secp256k1-client" target="_blank">/projectdanube/xdi2-example-secp256k1-client</a> - Example XDI client using cid-2 cryptographic XDI numbers.
 * <a href="https://github.com/projectdanube/xdi2-example-ec25519-client" target="_blank">/projectdanube/xdi2-example-ec25519-client</a> - Example XDI client using cid-1 cryptographic XDI numbers.
 
-### XDI Plugins [**^**](#contents)
+### XDI Plugins
 
 * <a href="https://github.com/projectdanube/xdi2-crypto-secp256k1" target="_blank">/projectdanube/xdi2-crypto-secp256k1</a> - This is an secp256k1 crypto plugin for the XDI2 client and server.
 * <a href="https://github.com/projectdanube/xdi2-crypto-ec25519" target="_blank">/projectdanube/xdi2-crypto-ec25519</a> - This is an Ed25519 crypto plugin for the XDI2 client and server.
@@ -138,7 +141,7 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/projectdanube/xdi2-filesys" target="_blank">/projectdanube/xdi2-filesys</a> - Plugin for an XDI2 server to integrate with a local filesystem
 * <a href="https://github.com/projectdanube/xdi2-connector-personal" target="_blank">/projectdanube/xdi2-connector-personal</a> - A connector plugin for the XDI2 server that maps data from Personal.com to XDI
 
-### Aeternam [**^**](#contents)
+### Aeternam
 
 * <a href="https://github.com/projectdanube/aeternam-xdi-sncf" target="_blank">/projectdanube/aeternam-xdi-sncf</a> - Aeternam PNR Demo: SNCF
 * <a href="https://github.com/projectdanube/aeternam-xdi-db" target="_blank">/projectdanube/aeternam-xdi-db</a> - Aeternam PNR Demo: Deutsche Bahn
@@ -147,14 +150,14 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/projectdanube/aeternam-xdi-webshop" target="_blank">/projectdanube/aeternam-xdi-webshop</a> - Aeternam PNR Demo: Webshop
 * <a href="https://github.com/projectdanube/aeternam-xdi-oebb" target="_blank">/projectdanube/aeternam-xdi-oebb</a> - Aeternam PNR Demo: ÖBB
 
-### XDI Cloud [**^**](#contents)
+### XDI Cloud
 
 * <a href="https://github.com/projectdanube/xdi2-cloudcards" target="_blank">/projectdanube/xdi2-cloudcards</a> - XDI Cloud Card Viewer
 * <a href="https://github.com/projectdanube/xdi2-messenger" target="_blank">/projectdanube/xdi2-messenger</a> - XDI Cloud Messenger
 * <a href="https://github.com/projectdanube/xdi2-manager" target="_blank">/projectdanube/xdi2-manager</a> - XDI Cloud Manager
 * <a href="https://github.com/projectdanube/xdi2-pixel" target="_blank">/projectdanube/xdi2-pixel</a> - Tool to translate a personal cloud policy language (Pixel) to XDI link contracts.
 
-### XDI Server Deployed Via [**^**](#contents)
+### XDI Server Deployed Via
 
 * <a href="https://github.com/projectdanube/xdi2-server-grizzly" target="_blank">/projectdanube/xdi2-server-grizzly</a> - XDI2 Server deployed via Grizzly
 * <a href="https://github.com/projectdanube/xdi2-server-mina" target="_blank">/projectdanube/xdi2-server-mina</a> - XDI2 Server deployed via Apache MINA
@@ -162,7 +165,7 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/projectdanube/xdi2-server-undertow" target="_blank">/projectdanube/xdi2-server-undertow</a> - XDI2 Server deployed via Undertow
 * <a href="https://github.com/projectdanube/xdi2-server-vertx" target="_blank">/projectdanube/xdi2-server-vertx</a> - XDI2 Server deployed via vert.x
 
-### Sevices [**^**](#contents)
+### Sevices
 * <a href="https://github.com/projectdanube/xdi2-connect-service" target="_blank">/projectdanube/xdi2-connect-service</a> - This is a "Connect Service" component for the XDI Browser binding.
 * <a href="https://github.com/projectdanube/neustar-discovery-service" target="_blank">/projectdanube/neustar-discovery-service</a> - Neustar XDI Discovery Service based on XRI Resolution
   - Forked from neustarpc/neustar-discovery-service

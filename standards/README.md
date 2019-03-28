@@ -1,4 +1,4 @@
-# DID Related Web Standards [**^**](#contents)
+# DID Related Web Standards
 
 ## contents
 
@@ -14,7 +14,7 @@
 * [Schema](#schema-)
 
 
-## XDI [**^**](#contents)
+## XDI
 
 * [**XDI**](xdi.html) **>>**
 
@@ -27,14 +27,14 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
   >
   > XDI is a graph-based data model. This means that all data is expressed using nodes and arcs in a graph. At a minimum, a graph consists of a single node, called the common root node.
 
-### OASIS XDI Tech Committee on Github [**^**](#contents)
+### OASIS XDI Tech Committee on Github
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-docbook">/OASIS-XDI-Technical-Committee/xdi-spec-docbook</a> - XDI Specifications (Docbook)
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-developers-guide">/OASIS-XDI-Technical-Committee/xdi-developers-guide</a> - XDI Developer's Guide
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-openoffice">/OASIS-XDI-Technical-Committee/xdi-spec-openoffice</a> - XDI Specifications (Open Office)
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-dita">/OASIS-XDI-Technical-Committee/xdi-spec-dita</a> - XDI Specifications (DITA)
 
 
-## W3C [**^**](#contents)
+## W3C
 
 ![](https://imgur.com/Lz6RTysl.png)
 
@@ -51,7 +51,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 ![](https://imgur.com/6MLNgXal.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
-### DID the Decentralized Identifier [**^**](#contents) 
+### DID the Decentralized Identifier 
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
 
@@ -85,7 +85,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 
 <a href="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png"><img src="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png?w=500"/></a>
 
-### Verifiable Claims [**^**](#contents) 
+### Verifiable Claims 
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/nsZ0X7r.png"/></a>
 
@@ -95,7 +95,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 * [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
 
 
-## DID Auth [**^**](#contents) 
+## DID Auth 
 
 ![](https://imgur.com/XMaq5cil.png)
 
@@ -107,7 +107,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 
 
-## Decentralized Key Management-Agents [**^**](#contents) 
+## Decentralized Key Management-Agents 
 
 <img src="https://i.imgur.com/0SLcjUv.png"/>
 
@@ -122,7 +122,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY" target="_blank">Microsoft- Decentralized Identity — Own and Control Your Identity.</a>
 ![](https://i.imgur.com/ozOLCuW.png)
 
-## Ethereum ERC-EIP [**^**](#contents)
+## Ethereum ERC-EIP
 
 * [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
 * [ERC1056 ❤ ERC780 — an open identity and claims protocol for Ethereum](https://medium.com/uport/erc1056-erc780-an-open-identity-and-claims-protocol-for-ethereum-aef7207bc744)
@@ -148,7 +148,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 
 
 
-### Blockcerts [**^**](#contents) 
+### Blockcerts 
 * [Learning Machine](https://www.learningmachine.com/)
 * [Academic Credentialing and the Blockchain](https://www.learningmachine.com/academic-credentialing-blockchain/)
 * [Blockcerts](https://www.blockcerts.org), developed by learning machine is an open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
@@ -156,5 +156,5 @@ This presents a method to replace the usual signup/login design pattern with a m
   * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
 
 
-### Schema [**^**](#contents)
+### Schema
 * [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."

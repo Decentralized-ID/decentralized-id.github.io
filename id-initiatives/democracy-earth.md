@@ -1,4 +1,9 @@
-# Democracy Earth [**^**](#contents) 
+---
+title: Democracy Earth
+layout: single
+classes: wide
+toc: false
+---
 
 ![](https://i.imgur.com/KxbXb1t.png)
 

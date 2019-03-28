@@ -1,4 +1,7 @@
-# SSI and DID Related Media
+---
+title: SSI and DID Related Media
+layout: single
+---
 
 
 ## Contents

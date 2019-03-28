@@ -1,4 +1,12 @@
-# EU General Data Protection Regulation Act 
+---
+title: EU General Data Protection Regulation Act 
+layout: single
+classes: wide
+toc: false
+
+---
+
+
 
 * [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [**1**]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
 

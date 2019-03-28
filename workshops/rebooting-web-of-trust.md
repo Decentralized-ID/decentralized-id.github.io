@@ -1,12 +1,11 @@
 ---
-title: "A \"complete\" listing of #RebootingWebOfTrust Papers, Topics, and Advance Readings"
-description: Lets make this awesome collaborative work easier to explore!
+title: Rebooting Web Of Trust - Papers and Advance Readings Index
+description: "A reasonably complete listing of #RebootingWebOfTrust Papers, Topics, and Advance Readings
 image: "https://i.imgur.com/Nmxk4fE.png"
 redirect_from:
   - "Rebooting-Web-of-Trust.html"
+layout: single
 ---
-
-# Rebooting Web Of Trust - Papers and Advance Readings Index
 
 I wanted a list of all RWoT papers in one place, rather than having to directory hop to look for what I need. I'll be adding a short exerpt to each advance reading and then turning this into a database, so that it's easily searchable.+
 
@@ -42,7 +41,7 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 * [>> Identity Research and Literature](literature.md)
 * [>> Sovrin Related Literature](indy-ecosystem/literature.md)
 
-## Selected 'Rebooting Web of Trust' Whitepapers [**^**](#contents) 
+## Selected 'Rebooting Web of Trust' Whitepapers 
 
 ### Primers
 
@@ -52,7 +51,7 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 * [A Verifiable Claims Primer](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/topics-and-advance-readings/verifiable-claims-primer.md) by Manu Sporny
 * [Framework for the Comparison of Identity Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/Framework-for-Comparison-of-Identity-Systems.md)
 
-### RWoT Workshop Related [**^**](#contents) 
+### RWoT Workshop Related 
 * [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
   >Our goal for this initial #RebootingWebOfTrust design workshop is to:
   >
@@ -63,7 +62,7 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 * [Rebranding the Web of Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/rebranding-web-of-trust.pdf) Original RWoT whitepaper
 * [WebofTrust.info/papers.html](https://www.weboftrust.info/papers.html)
 
-### Use Cases [**^**](#contents)
+### Use Cases
 * [Amira 1.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/amira.md)
 * [Re-Imagining What Users Really Want](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/what-users-really-want.md)
 * [Joram 1.0.0](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/final-documents/joram-engagement-model.pdf)
@@ -73,9 +72,9 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 
 
 
-## Completed Papers [**^**](#contents)
+## Completed Papers
 
-### Rebooting the Web of Trust I [**^**](#contents)
+### Rebooting the Web of Trust I
 
 ![](https://i.imgur.com/pes1Vm8.png)
 
@@ -98,7 +97,7 @@ The first Rebooting the Web of Trust design workshop, held in San Francisco, CA 
   * A summary of the next step for the Rebooting the Web of Trust group.
     * Shannon Appelcline
 
-### Rebooting the Web of Trust II - ID2020 [**^**](#contents)
+### Rebooting the Web of Trust II - ID2020
 
 ![](https://i.imgur.com/cn5CQEI.png)
 
@@ -120,7 +119,7 @@ The second Rebooting the Web of Trust design workshop, in San Francisco, CA, on 
   * A look at uses and requirements of next-generation smart signature systems.
     * Christopher Allen and Shannon Appelcline
   
-### Rebooting the Web of Trust III [**^**](#contents)
+### Rebooting the Web of Trust III
 
 ![](https://i.imgur.com/37wRZ9B.png)
 
@@ -148,7 +147,7 @@ The design workshop exceeded its mandate by producing seven papers:
   - Bringing together COALA IP and Consent to deal with digital intellectual property.
     - Dr. Shaun Conway, Lohan Spies, Jonathan Endersby, and Tim Daubenschütz
 
-### Rebooting the Web of Trust IV [**^**](#contents)
+### Rebooting the Web of Trust IV
 
 ![](https://i.imgur.com/ZtP6Dny.png)
 
@@ -161,7 +160,7 @@ The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on A
 * [*Re-Imagining What Users Really Want*](https://github.com/WebOfTrustInfo/rwot4-paris/blob/master/final-documents/what-users-really-want.md) - Five people, five opportunities for self-sovereign identity.
    - Joe Andrieu, Frederic Engel, Adam Lake, Moses Ma, Olivier Maas, and Mark van der Waal.
 
-### Rebooting the Web of Trust V [**^**](#contents)
+### Rebooting the Web of Trust V
 ![](https://i.imgur.com/H7i3KFD.png)
 
 * [**ActivityPub: From Decentralized to Distributed Social Networks**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/activitypub-decentralized-distributed.md)
@@ -192,7 +191,7 @@ The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on A
   - Marta Piekarska, Michael Lodder, Zachary Larson & Kaliya Young (Identity Woman)
     > This document describes the GDPR requirements and the different approaches to digital identity solutions and finally explains why distributed ledger technology may offer an opportunity for enterprises to simplify data management solutions that are GDPR compliant.
 
-### Rebooting the Web of Trust VI [**^**](#contents)
+### Rebooting the Web of Trust VI
 
 ![](https://i.imgur.com/9yhGv6a.png)
 
@@ -235,7 +234,7 @@ The sixth Rebooting the Web of Trust design workshop ran in Santa Barbara, Calif
 
 > This document proposes the formation of a short-term team to develop consistent messaging for the Self-Sovereign Identity (SSI) market. It will target key stakeholders who would actively promote SSI adoption. The goal is to create an SSI market roadmap. This roadmap will help SSI leaders, standards bodies, developers, academics, media, and investors coordinate and clarify their messaging for the market, to accelerate the SSI adoption. 
 
-### Rebooting the Web of Trust VII [**^**](#contents)
+### Rebooting the Web of Trust VII
 
 ![](https://i.imgur.com/tHcfNsK.png)
 
@@ -287,7 +286,7 @@ The seventh Rebooting the Web of Trust design workshop, ran near Toronto, Canada
 ![](https://i.imgur.com/TpsPXoa.png)
 
 
-## Topics and Advance Readings [**^**](#contents)
+## Topics and Advance Readings
 
 In advance of the design workshop, all participants are requested to produce a one-or-two page topic paper to be shared with the other attendees on either:
 
@@ -295,7 +294,7 @@ In advance of the design workshop, all participants are requested to produce a o
 *  A specific solution related to the web-of-trust that you'd like others to use or contribute to?
 
 
-### RWoT 1 [**^**](#contents)
+### RWoT 1
 
 ![](https://i.imgur.com/Hv2rPVy.png)
 
@@ -403,7 +402,7 @@ In advance of the design workshop, all participants are requested to produce a o
 * [Trust Models, Accountability, LIfeCycle and Social Context](Trust%20Models%2C%20Accountability%2C%20LIfeCycle%20and%20Social%20Context.md) 
   - by Kaliya "[Identity Woman](http://www.identitywoman.net/)" Young (formerly Hamlin)
 
-### RWoT ID2020 [**^**](#contents)
+### RWoT ID2020
 
 ![](https://i.imgur.com/ZG5msLT.png)
 
@@ -469,7 +468,7 @@ In advance of the design workshop, all participants are requested to produce a o
 
 
 
-### RWoT 3 [**^**](#contents)
+### RWoT 3
 
 ![](https://i.imgur.com/05aTksa.png)
 
@@ -532,7 +531,7 @@ In advance of the design workshop, all participants are requested to produce a o
 * [Recovery strategy for user-controlled keys for self-sovereign identity](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/user-controlled-key-recovery.md)
 
 
-### RWoT 4 [**^**](#contents)
+### RWoT 4
 
 ![](https://i.imgur.com/HcVlTZQ.png)
 
@@ -560,7 +559,7 @@ In advance of the design workshop, all participants are requested to produce a o
 * [Verifiable Claims and Web of Trust](https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings/WoTVerifiableClaims.md) by Manu Sporny, Christopher Allen, Joe Andrieu, Matthew Collier, Dave Longley, and Adam Lake
 * [XDI Verifiable Claims and Link Contracts](https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings/xdi-verifiable-claims-link-contracts.md) by Markus Sabadello
 
-### RWoT 5 [**^**](#contents)
+### RWoT 5
 
 ![](https://i.imgur.com/0yF0Ai7.png)
 
@@ -605,7 +604,7 @@ Here are the rest of the advance readings to date:
 * [Data Minimization and Selective Disclosure](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/Data-minimization-and-selective-disclosure.md) by Lionel Wolberger
 * [HIE of One Loop: A Patient-Controlled Independent Health Record](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/Loop-white-paper.pdf) by Adrian Gropper, MD and the Loop Project Team
 
-### RWoT 6 [**^**](#contents)
+### RWoT 6
 
 ![](https://i.imgur.com/LmmFZws.png)
 
@@ -643,7 +642,7 @@ Here are the rest of the advance readings to date:
 * [Veres One Demo](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/topics-and-advance-readings/veres-one-demo.md) by David I. Lehn, et. al.
 * [Web of Pragmatics: A Comment on Methodology](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/topics-and-advance-readings/Web-of-Pragmatics.md) by D. Crocker
 
-### RWoT 7 [**^**](#contents)
+### RWoT 7
 
 ![](https://i.imgur.com/MCjnuJw.png)
 
@@ -687,12 +686,12 @@ Here are the rest of the advance readings to date:
 * [Digital Identity for the Homeless](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/Digital-Identity-for-the-Homeless.md) by Matthew Wong, T. Tian & CG Chen
 * [Zero Trust Computing with DIDs and DADs](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/ZeroTrustComputingWithDidsAndDads.md) by Samuel M. Smith
 
-## License [**^**](#contents)
+## License
 
 Unless otherwise noted, all RWoT Completed Papers, Topics and Advance Readings are licensed [Creative Commons CC-BY](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/LICENSE-CC-BY-4.0.md).
 
 
-## RWoT Github Listing [**^**](#contents)
+## RWoT Github Listing
 
 * <a href="https://github.com/WebOfTrustInfo/self-sovereign-identity" target="_blank">/WebOfTrustInfo/self-sovereign-identity</a> - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
 * <a href="https://github.com/WebOfTrustInfo/website" target="_blank">/WebOfTrustInfo/website</a> - Website for http://www.WebOfTrust.info
@@ -703,7 +702,7 @@ Unless otherwise noted, all RWoT Completed Papers, Topics and Advance Readings a
 * <a href="https://github.com/WebOfTrustInfo/verifiable-news" target="_blank">/WebOfTrustInfo/verifiable-news</a> - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
 * <a href="https://github.com/WebOfTrustInfo/portable-reputation-toolkit" target="_blank">/WebOfTrustInfo/portable-reputation-toolkit</a>
 
-### Workshops [**^**](#contents)
+### Workshops
 
 * [Rebooting the Web of Trust I: San Francisco (November 2015)](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust)
 * [Rebooting the Web of Trust II: ID2020 (May 2016)](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop)

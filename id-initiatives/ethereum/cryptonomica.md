@@ -1,5 +1,9 @@
-# Cryptonomica
-
+---
+title: Cryptonomica
+layout: single
+classes: wide
+toc: false
+---
 
 [![](https://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
 
@@ -38,7 +42,7 @@ Often the keys for the client-bank systems are created this way.
 >We can provide a legal mechanism for recognizing digitally signed contracts in almost every country: every digital contract in the need can be "transformed" in arbitral award recognized under [The Convention on the Recognition and Enforcement of Foreign Arbitral Awards](http://www.uncitral.org/uncitral/en/uncitral_texts/arbitration/NYConvention.html), and using modern technologies (web-server, databases, videoconferencing, e-mail) make [international arbitration](https://en.wikipedia.org/wiki/International_arbitration) affordable even for small business and individual clients.
 
 
-## Github Repos [**^**](#contents)
+## Github Repos
 * <a href="https://github.com/Cryptonomica/cryptonomica" target="_blank">/Cryptonomica/cryptonomica</a> - Cryptonomica keys server
 * <a href="https://github.com/Cryptonomica/cryptonomica.github.io" target="_blank">/Cryptonomica/cryptonomica.github.io</a> - Cryptonomica frontend
 * <a href="https://github.com/Cryptonomica/arbitration-rules" target="_blank">/Cryptonomica/arbitration-rules</a> - Cryptonomica Arbitration Rules

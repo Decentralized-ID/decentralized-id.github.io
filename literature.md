@@ -1,4 +1,8 @@
-# Identity Articles, Research and Literature
+---
+title: Identity Articles, Research and Literature
+layout: single
+---
+
 
 ## Contents
 
@@ -7,10 +11,10 @@
 * [Decentralized Public Key Infrastructure DPKI](#decentralized-public-key-infrastructure-dpki-)
 * [Rebooting Web of Trust -Directory](#rebooting-web-of-trust-)
 * [Assorted Thought Around Identity](#assorted-thought-around-identity)
-* [>> Sovrin Related Literature](indy-ecosystem/literature.md)
+* [>> Sovrin Related Literature](/id-initiatives/indy-ecosystem/literature/)
 
 
-## Literature [**^**](#contents)
+## Literature
 
 * [Security without Identification: Transaction Systems to make Big Brother Obsolete](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - David Chaum 1985
 * [Establishing Identity Without Certification Authorities](https://irl.cs.ucla.edu/~yingdi/pub/papers/Ellison-OldFriend-USENIX-Security-1996.pdf)
@@ -24,7 +28,7 @@
 * [Blockchain for Identity Management](https://www.cs.bgu.ac.il/~frankel/TechnicalReports/2016/16-02.pdf) - Details early efforts towards Blockchain-ID
 * [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
 
-## Reports [**^**](#contents)
+## Reports
 * [EU BLOCKCHAIN OBSERVATORY AND FORUM — Workshop Report — e-Identity, Brussels, November 7, 2018](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
 * [A Comprehensive Evaluation of the Identity Management Utility Sovrin](https://dutchblockchaincoalition.org/uploads/pdf/Blockchain-Sovrin-rapport.pdf)
 * [How Blockchain Revolutionizes Identity Management](https://www.accenture-insights.nl/en-us/articles/how-blockchain-will-revolutionize-identity-management)
@@ -92,7 +96,7 @@
 
 
 
-## Decentralized Public Key Infrastructure DPKI [**^**](#contents)
+## Decentralized Public Key Infrastructure DPKI
 * RWoT—[Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf)
 * [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
 * [KeyChains: A Decentralized Public-Key Infrastructure](https://drum.lib.umd.edu/bitstream/handle/1903/3332/0.pdf?sequence=1&isAllowed=y)
@@ -102,7 +106,7 @@
 (PKI) implementation using Smart contract in
 Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)
 
-### Rebooting Web of Trust [**^**](#contents)
+### Rebooting Web of Trust
 
 [**>> Rebooting Web of Trust - "complete" Papers, Topics and Advance Readings >>**](rebooting-web-of-trust.md)
 * [Selected RWoT Whitepapers](rebooting-web-of-trust.md#selected-rebooting-web-of-trust-whitepapers-)
@@ -126,7 +130,7 @@ Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper
   * [RWoT 6](#rwot-6-)
   * [RWoT 7](#rwot-7-)
 
-## Additional Thought around Identity [**^**](#contents)
+## Additional Thought around Identity
 * [Is putting hashed PII on any immutable ledger(blockchain) is a bad Idea](https://identitywoman.net/putting-hashed-pii-immutable-ledgerblockchain-bad-idea/)
 * [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
    >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]

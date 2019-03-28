@@ -43,7 +43,7 @@ image: "https://infominer.id/images/edge-card.png"
 * [Q&A](#qa-)
 * [Home](https://infominer.id)
 
-## Microledgers and Edge-Chains [**^**](#contents)
+## Microledgers and Edge-Chains 
 **Lightly edited transcript from Youtube.**
 
 <img src="https://i.imgur.com/Hu9v2Md.png"/>
@@ -58,7 +58,7 @@ Lots of other smart people have been talking and thinking about this as well I'm
 
 Microledger's and edge-chains: I'm going to demystify that, and when you walk away I hope you're gonna think of this as not so much a super technical session that you've been to but instead a session that kind of has some intriguing ideas for you to think about later in whatever you're doing.
 
-## A Personal Arc [**^**](#contents) 
+## A Personal Arc  
 
 <img src="https://i.imgur.com/5aXEDkg.png"/>
 
@@ -103,7 +103,7 @@ I knew about some of them and I found some others there but the point is that I 
 
 These are the two things that I think these arcs all have in common, mine and and the things on the previous slide:  they're all trying to do less with the central big blockchain in some creative way so that they can keep the special value out of the blockchain but not have some of its downsides.
 
-## Blockchain— the new centralization [**^**](#contents)
+## Blockchain— the new centralization 
 
 I want to just point out something I went and looked just for fun I went and looked up architecture diagrams with Google. I was looking for old client-server architecture diagrams okay and these are just three that I picked at random out of the Google image search results list 
 
@@ -119,7 +119,7 @@ now there's some things about blockchain that are different I'm not arguing that
 
 and in fact in a lot of architecture diagrams that you see in presentations at this conference and any other conference you will see a little graphic that represents the blockchain and a bunch of arrows coming to it from all over the place and what's that that's centralization 
 
-## Where Blockchain is Needed (or Not) [**^**](#contents)
+## Where Blockchain is Needed (or Not) 
 
 <img src="https://i.imgur.com/ugjLkS9.png"/>
 
@@ -146,7 +146,7 @@ we've got two parties that each have a relationship and want to trust each other
 
 what's symmetrical and complimentary but they're using the blockchain in the middle as the trusted intermediary and like I said this view of the world sort of works but it chafed on me and it became increasingly uncomfortable as I learned some of the drawbacks and challenges to it 
 
-## Microledgers [**^**](#contents)
+## Microledgers 
 
 <img src="https://i.imgur.com/kX93eTU.png"/>
 
@@ -166,7 +166,7 @@ continues to have these lateral side relationships. she doesn't have them throug
 
 now you might be saying well wait a minute if you take the blockchain and all those big arrows out what is it even useful for?
 
-## How Blockchain is Still Relevant [**^**](#contents)
+## How Blockchain is Still Relevant 
 
 <img src="https://i.imgur.com/uJ1Kkwq.png"/>
 
@@ -201,7 +201,7 @@ You end up basically having a tiny little ledger on your machine for the relatio
 
 They're not massive, they don't last necessarily forever, they don't store any significant amounts of information, but they just have an orderly sequence of hashes that show how state has evolved that's the micro ledger concept.
 
-## App Centralization Continuum [**^**](#contents)
+## App Centralization Continuum 
 
 <img src="https://i.imgur.com/lnKUizp.png"/>
 
@@ -219,7 +219,7 @@ okay so I put up here on this picture, also I have gaps right here and edge chai
 
 there are dApps that aren't that way, so the DAP thing moves over towards the right. There are some gaps that get maybe almost this far, but you you can take it all the way over here, and I think if you go way over to the right side it's not really fair to call that a dApp because it's pretty different from what the industry thinks a dApp is. 
 
-## Teleomergent - More than a decentralized app [**^**](#contents)
+## Teleomergent - More than a decentralized app 
 
 <img src="https://i.imgur.com/1E6jCjZ.png"/>
 
@@ -233,7 +233,7 @@ so you may have also heard the word chaotic before and you may have run into the
 
 and that's what I think is the true characteristic at the far right side is that you give independent agents the ability to interact and these agents find useful ways to interact according to a protocol. 
 
-## Dapps vs Edgechain Protocols [**^**](#contents)
+## Dapps vs Edgechain Protocols 
 
 this is just a little compare and contrast I think I'm gonna skip over this suffice it to say that daps and edge chains have a lot in common but I think there's some interesting differences 
 
@@ -241,7 +241,7 @@ this is just a little compare and contrast I think I'm gonna skip over this suff
 
 and I'll maybe during Q&A; we can come back to this slide if you have questions about it, but let me now actually give you some examples of what I'm talking about.
 
-## Defining an Edgechain Protocol [**^**](#contents)
+## Defining an Edgechain Protocol 
 
 <img src="https://i.imgur.com/vIDt6iO.png"/>
 
@@ -252,7 +252,7 @@ When you define an edge chain protocol you have to answer these four questions:
 * what stage or sequencing rules apply?
 * and how our trust and incentives managed?
 
-## A Familiar Example—Buying a House [**^**](#contents)
+## A Familiar Example—Buying a House 
 
 <img src="https://i.imgur.com/XEpCvty.png"/>
 
@@ -279,7 +279,7 @@ There's this whole protocol involved in that, that we all know. The reason I'm h
 
 That's a cool thing if you can just hook them up to blockchain for just the parts that you need them for, and not all of it. The weight of what you're building goes way down. 
 
-## Trust Ping Protocol [**^**](#contents)
+## Trust Ping Protocol 
 
 <img src="https://i.imgur.com/pUnUIiD.png"/>
 
@@ -315,13 +315,13 @@ So most of the protocol is not modified, but by adding a little bit of blockchai
 
 That's the kind of thing that I'm seeing over and over again as I get my head wrapped around this paradigm is you start with a paradigm that's really not very blockchain heavy, and then you say "what are the things that's wonderful about blockchain, that I need to add into this? and how can I do it as light as possible?" 
 
-## Tic Tac Toe [**^**](#contents)
+## Tic Tac Toe 
 
 <img src="https://i.imgur.com/Ym9zesW.png"/>
 
 okay so on to the next thing... here. Tic Tac Toe. We could also play tic-tac-toe. I'm gonna wait and see if I have enough time. I'll do a demo of tic-tac-toe if you feel like it later. but anyway I have a demo of that if you want to. this one was not there's no blockchain goodness on this this is all the way to the complete right side is being a pure hedge protocol because you don't need a blockchain to play tic-tac-toe okay.
 
-## DID method for peer (private pairwise) DIDs [**^**](#contents)
+## DID method for peer (private pairwise) DIDs 
 
 <img src="https://i.imgur.com/T3nCl47.png"/>
 
@@ -336,7 +336,7 @@ should trust them."
 
 how does Alice say I'm gonna rotate my keys? all of these are concerns of managing a relationship, and you need a protocol to manage a relationship... and guess what? it's mostly an edge protocol. 
 
-## Peer DID Method Spec [**^**](#contents)
+## Peer DID Method Spec 
 
 This is a more serious one that has pretty high stakes. I've been working on a method to describe how DIDs can be created, and the DID docs associated with those DIDs can be shared.
 
@@ -347,7 +347,7 @@ You can see the the roles here are the participants in the relationship and ther
 
 I'll give you the URL and you can go read it, but there's this whole spec behind this, and this is what has caused, I think, the most ruminating on the concept of a microledger... because the microledger as a persistence mechanism could provide high trust to back the did method that I'm mentioning. 
 
-## Megaphone Protocol [**^**](#contents)
+## Megaphone Protocol 
 
 Let me go on to another one that's maybe a little bit more interesting so this is just an imaginary one but I think I'd love if somebody in the audience wants to build this I'd be super excited and I would buy your app.
 
@@ -367,7 +367,7 @@ any of these kinds of things could be done with this kind of protocol, and you w
 
 that would be more centralized but anyway there's some roles in this a speaker a listener and a relay so you could have an app and a person could talk through your app to another phone that was close to you and so the word would spread right if anybody's interested there's a link to the concept doc when you download the slides you can go read more about that protocol 
 
-## Call to Action [**^**](#contents)
+## Call to Action 
 
 <img src="https://i.imgur.com/xLHfZ7b.png"/>
 
@@ -385,7 +385,7 @@ there are some problems that you must use blockchain for but I'm just saying use
 I would love to get some people here to work with me on this peer did method I think it's a very high value for the identity space that's one specific to my area of expertise so with that I'll go back and demo something if you want or we can go into QA I think we got about ten minutes
 left which is good 
 
-## Q&A [**^**](#contents)
+## Q&A 
 
 <img src="https://i.imgur.com/HNmcUfN.png"/>
 

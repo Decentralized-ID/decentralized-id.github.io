@@ -2,6 +2,7 @@
 title       : "Ethereum Identity Specs and Apps"
 description : "A Collection of Ethereum-based Decentralized Identity Specs, Literature, (d)Apps, and GitHub Repositories."
 image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
+layout: single
 ---
 
 # Ethereum Identity 
@@ -36,7 +37,7 @@ image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
   * [Spid-Eth](eth-id-github.md#spidchain-) **>>**
   * [Cryptonomica](eth-id-github.md#cryptonomica-) **>>**
 
-## ERC-EIP [**^**](#contents)
+## ERC-EIP
 
 * [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
 * [ERC1056 ❤ ERC780 — an open identity and claims protocol for Ethereum](https://medium.com/uport/erc1056-erc780-an-open-identity-and-claims-protocol-for-ethereum-aef7207bc744)
@@ -62,7 +63,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 
 
 
-## uPort [**^**](#contents)
+## uPort
 
 ![](https://i.imgur.com/sPAP2g3.png)
 
@@ -82,7 +83,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 
 
 
-## Jolocom [**^**](#contents)
+## Jolocom
 
 ![](https://i.imgur.com/BNmq1U9.png)
 
@@ -91,7 +92,7 @@ This presents a method to replace the usual signup/login design pattern with a m
    * [A universal identity layer we can only build together](https://stories.jolocom.com/a-universal-identity-layer-we-can-only-build-together-e297ed5ae4ed)
 * [Jolocom Github Repos](eth-id-github.html#jolocom-)
 
-## Spidchain [**^**](#contents)
+## Spidchain
 
 ![](https://i.imgur.com/azuC8lh.png)
 
@@ -99,7 +100,7 @@ This presents a method to replace the usual signup/login design pattern with a m
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
 * [Spid-Eth GitHub Repos](eth-id-github.html#spid-eth-repos-)
 
-## Cryptonomica [**^**](#contents)
+## Cryptonomica
 
 [![](https://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
 
@@ -107,7 +108,7 @@ This presents a method to replace the usual signup/login design pattern with a m
   * [Cryptonomica Github Repos](eth-id-github.html#cryptonomica-)
   
 
-### Assorted Ethereum Apps [**^**](#contents)
+### Assorted Ethereum Apps
 
 * [Deloitte SmartID](http://www.deloitte.co.uk/smartid/) [[**G**](https://github.com/SmartIdentity/smartId-contracts)]
    * "Smart Identity uses the Ethereum blockchain to represent an identity using a smart contract, attributes can be added by the identity owner and are stored in hash form"

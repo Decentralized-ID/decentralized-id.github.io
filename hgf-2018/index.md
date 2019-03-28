@@ -1,4 +1,9 @@
-# Hyperledger Global Forum—2018
+---
+title: Hyperledger Global Forum—2018
+layout: single
+classes: wide
+toc: false
+---
 
 For Identity Related Presentations at HGF-2018
 

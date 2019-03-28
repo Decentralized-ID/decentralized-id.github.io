@@ -1,4 +1,10 @@
-# A Comparison Between SSI Principles, and Characteristics
+---
+title: A Comparison Between SSI Principles, and Characteristics
+layout: single
+classes: wide
+toc: false
+---
+
 
 In April of 2016, Christopher Allen published "[The Path to Self Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md)." 
 

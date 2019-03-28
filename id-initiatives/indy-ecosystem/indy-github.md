@@ -1,4 +1,8 @@
-# Indy Github Repositories
+---
+title: Indy Github Repositories
+layout: single
+---
+
 <table>
   <tr>
   <td><a href="{{ site.rooturl }}/indy-ecosystem/indy-github.html">GitHub Repos</a></td> 
