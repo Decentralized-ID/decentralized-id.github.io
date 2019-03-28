@@ -27,9 +27,6 @@ As you can see, I'm continually working to break up the info into separate files
 * [Edit this Page](https://github.com/infominer33/DIDecentralized)
 * [infominer.id](https://infominer.id)
 
-*Pull Requests Welcome*
-
-
 
 
 ![](https://i.imgur.com/9KpJRDr.png)
