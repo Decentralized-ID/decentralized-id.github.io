@@ -1,0 +1,169 @@
+["Remme Auth"]
+Link = ["https://remme.io/","https://github.com/Remmeauth"]
+Description = "Using a Hyperledger Sawtooth foundation, Remme implements a DPKI. Its blockchain playing the role of CA and supporting X.509 certificates either signed by the user, or an organization."
+Tags = ["blockchain-id","dpki","sawtooth","x-509"]
+
+["Juru"]
+Link = ["https://juru.io/","https://github.com/juru-identity/dbh17"]
+Description = "Juru Core is an open platform where you can securely store and manage your Identity and Reputation.\n\nToday Juru Core is built on Hyperledger Fabric and BigChainDB, and runs on a permissioned private blockchain. The contributing nodes are hosted by all major banks, which act as reputable gatekeeper.\n\nIt represents your identity and reputation using a smart contract, attributes can be added by the identity owner and are stored in hash form. Attributes and endorsements are formed of field sets, merkle-root hashes are used to allow sharing and verification of partial data"
+Tags = ["blockchain-id","hyperledger-fabric","bigchaindb"]
+
+["Shyft Network"]
+Link = ["https://www.shyft.network/","https://www.shyft.network/pdfs/Shyft-Network-Inc-Whitepaper_V3.1.pdf"]
+Description = "supports the collection of users’ data off-chain using traditional databases and collection strategies with the ability to provide attestation points for third-party utilization."
+Tags = ["blockchain-id","kyc"]
+
+["MyEarth"]
+Link = ["http://myearth.id/","http://myearth.id/wp-content/uploads/2018/04/Earth-ID-Updated-v1.1.pdf","https://imgur.com/EKULw96l.png"]
+Description = "MyEarthID will be the first decentralized Identity Management System (IMS) built on Hashgraph, where the user will own the ID that can be used for various purposes. Trust score kept based on user activity."
+Tags = ["hashgraph","myearth"]
+
+["Hu-manity.co"]
+Link = ["https://hu-manity.co/","https://hu-manity.org","https://hu-manity.science"]
+Description = "Hu-manty.science is responsible for researching the convergence of social good and technological innovation. To find new ways, where technology can solve real world problems.\n\nHu-manity.org is borderless and non-political and is responsible for championing choice and continuous consent to ensure people have a say as to how their data is used.\n\nHu-manity.co is the commercial part of the venture that is responsible for the creation and maintenance of the #My31 app."
+Tags = ["hu-manity","data-rights"]
+
+["Zulu Republic"]
+Link = ["https://www.zulurepublic.io/","https://www.zulurepublic.io/whitepaper/"]
+Description = "Zulu Republic is an ecosystem of blockchain tools, services, and platforms, designed as a place where people, businesses, and organizations can thrive on their own terms — a place where the real promise of the cryptocurrency revolution can be realized.Citizens of the Zulu Republic live anywhere and everywhere, united by a shared vision for a future of economic freedom and empowerment — of taking back our destinies from powerful centralized institutions."
+Tags = ["ztx","erc-20"]
+
+["Blocknify"]
+Link = ["https://blocknify.com/"]
+Description = "Blocknify for individuals is for freelancers and small business to sign and securely send their documents to be signed without their papers touching any server at any time."
+Tags = ["notarization"]
+
+["Handshake"]
+Link = ["https://handshake.org/","https://handshake.org/files/handshake.txt"]
+Description = "This document describes a proposal, operational functionality, and intention to replace centralized trusted internet infrastructure, with a decentralized Certificate Authority and globally unique namespace composed of a decentralized blockchain and cryptographic proofs backed by cryptoeconomic mechanisms. This construction enables the namespaces to point directly to a compact certificate representing a trust anchor which does not rely upon a single trusted authority to create attestations as in the existing federated Certificate Authority model. Handshake builds in compact verifiable proofs to ensure compatibility with embedded and mobile devices, with significant committed merkelized state proof-size and performance improvements."
+Tags = ["handshake","dCA","identification"]
+
+["Urbit"]
+Link = ["https://urbit.org/","https://urbit.org/docs/","https://news.ycombinator.com/item?id=11817721"]
+Description = "Urbit is a virtual city of general-purpose personal servers.\n\nWhat's a personal server? In a sense, you already have one. Your personal server is the combination of all the cloud services you use now.\n\nThis \"server\" is a mess. It's broken into 17 different fragments which are scattered all over the planet. You have no control at all over any of the pieces. The more we depend on Web services, the more we realize how unsustainable this situation is."
+Tags = ["urbit","self-sovereign"]
+
+["Vetri Global"]
+Link = ["https://vetri.global/"]
+Description = "VETRI is a self-sovereign, blockchain-based digital identity and personal data platform connecting identity owners with data consumers. Once completed, VETRI will operate as a not-for-profit, peer-to-peer, open source personal data management platform managed by the VETRI Foundation. The platform will consist of the VETRI wallet and the VETRI marketplace."
+Tags = ["data-market","blockchain-id","self-sovereign"]
+
+["Everest"]
+Link = ["https://everest.org/","https://everest.org/wp-content/uploads/2018/10/Everest_Whitepaper_Nov2018_v1.pdf"]
+Description = "Everest combines EverID, a user-centric self-sovereign identity solution, with EverWallet, a value transfer and document storage solution, and EverChain, a robust transaction system to create and record all system transactions. This product suite is based on blockchain technology and the cryptographic underpinnings of that system. The core focus of the Everest operating company is to create economic and social value."
+Tags = ["self-sovereign","blockchain-id"]
+
+["Agrello"]
+Link = ["https://www.agrello.io/"]
+Description = "The Agrello Platform is a dashboard where you can manage your identity, create contracts, sign the contracts using Agrello legally binding signature and have an overview of all of your agreements"
+Tags = ["identity","legal-contracts"]
+
+["Gataca"]
+Link = ["http://gatacaid.com/"]
+Description = "Gataca delivers fast and secure customer on-boarding experiences by removing the burden of identity verification compliance from businesses. Our products, Verification SDK and NoPassword Sign In, enable fully automated KYC processes and simplify GDPR compliance."
+Tags = ["kyc","gdpr-compliant","mit","identification"]
+
+["Clear.me"]
+Link = ["https://www.clear.me/"]
+Description = "Verified identity claims are digitally-signed by issuers, encrypted, and stored via the blockchain and decentralized systems. These claims could include complete know your customer (KYC) compliance, document authentication, or enable privacy through our unique anonymous verification protocol (AVP). We are also extending support for zero-knowledge proofs through zkSNARKs."
+Tags = ["",""]
+
+["POA Network"]
+Link = ["https://poa.network/","https://medium.com/poa-network/poa-network-how-honey-badger-bft-consensus-works-4b16c0f1ff94"]
+Description = "POA Network is an Ethereum-based platform that offers an open-source framework for smart contracts. POA Network is a sidechain to Ethereum utilizing Proof of Authority as its consensus mechanism. POA provides developers with the flexibility to code in Ethereum standards with the added benefits of POA Network's solutions to scalability and interoperability in blockchain networks."
+Tags = ["ethereum","poa","HBBFT"]
+
+["Essentia"]
+Link = ["https://essentia.one/","https://essentia.one/files/en/essentia_blockchain.pdf"]
+Description = "\"Essentia is a modular decentralized system of interactions and data management [1], which is based on a hybrid PoW/PoS consensus protocol.\" Has a ESS-ID component central to its makeup but not deeply described in pdf link."
+Tags = ["essentia"]
+
+["Digidentity"]
+Link = ["https://www.digidentity.eu/"]
+Description = "You can add an eHerkenning to your Digidentity, but you can also use eSGNG for digital signing. With your Digidentity you can log in to websites or digital services and conduct your business securely and simply.\n\nThe EU member states have agreed that, as from September 2018, European citizens and businesses must be able to log in to all Dutch public sector organisations using their own national login scheme. Thus, the European Union aims to regulate rendering electronic transactions within Europe easier and safer."
+Tags = ["UK","eidas","eu","blockchain-id"]
+
+["LifeID"]
+Link = ["https://lifeid.io/","https://lifeid.io/whitepaper.pdf"]
+Description = "All PII such as name, date of birth, current living address etc., are never stored on the lifeID Platform. This information is encrypted and only stored on a secure device such as the person’s phone. "
+Tags = ["self-sovereign","blockchain-id","did"]
+
+["Usechain"]
+Link = ["http://www.usechain.net/","https://www.usechain.net/usechain_en.pdf","https://www.usechain.net/usechain_tech_en.pdf"]
+Description = "Usechain is dedicated to developing a public chain based on mirror identity, establishing an ecosystem based on identity public chain, promoting the implementation of all sorts of blockchain applications that links blockchain addresses to verified real users, and realizing close integration between social credit, infrastructure, and commercial use."
+Tags = ["usechain","mirroridentity","blockchain-id"]
+
+["Ydentity"]
+Link = ["http://ydentity.org/","http://ydentity.org/doc/YdentityWhitePaper1.0.pdf"]
+Description = "This ERC20 token has a purchase mechanism under BTC or ETH and is designed to address the main elements of General Data Protection Regulation (GDPR) in a time of technological advancement when the consumer has never been more aware of the value of their data."
+Tags = ["eth-app","ydentity","blockchain-id"]
+
+["Digi-ID"]
+Link = ["https://www.digi-id.io/","https://github.com/digibyte/digiid-js","https://www.digi-id.io/documentation.html"]
+Description = "Digi-ID is an authentication method based on the security of the DigiByte blockchain. This allows you to log in to a website, application, building security and more by simply scanning or tapping on a QR code. Digi-ID does away with the need for usernames and password, or it can be used to compliment them for additional security."
+Tags = ["digi-id","digibyte","blockchain-id"]
+
+["0xcert"]
+Link = ["https://0xcert.org/","https://0xcert.org/technical-paper.pdf","https://0xcert.org/whitepaper.pdf","https://github.com/0xcert"]
+Description = "The vision of 0xcert is to provide an open protocol for standardized and certified non-fungible tokens to a wider tech audience​. With 0xcert, you can build on top of the non-fungible token standard, employing a complete toolset, development framework, and a set of conventions for various use cases​."
+Tags = ["eth-app","0xcert"]
+
+["Graphchain"]
+Link = ["https://github.com/MakoLab/graphchain","http://www.graphchain.io/MTSR2018.pdf","https://www.slideshare.net/sopekmir/graphchain"]
+Description = "Rather than trying to add Graphs and Ontologies to Blockchain, GraphChain starts with RDF database and then adds Blockchain features to the system.\n\nLegal Entity Identifier blockchained by a Hyperledger Indy implementation of GraphChain\n\nThe main idea behind GraphChain is to use blockchain mechanisms on top of an abstract RDF graphs. This paper presents an implementation of GraphChain in the Hyperledger Indy framework. The whole setting is shown to be applied to the RDF graphs containing information about Legal Entity Identifiers (LEIs)."
+Tags = ["graphchain","indy"]
+
+["T-Mobile Unveils Identity Platform: Next"]
+Link = ["https://cryptoslate.com/t-mobile-next-identity-platform/","https://github.com/hyperledger/sawtooth-next-directory","http://intelligentsystemsmonitoring.com/community/blockchain-community/t-mobile-unveils-the-next-identity-platform-a-blockchain-powered-database/"]
+Description = "Hyperledger Sawtooth NEXT Identity Platform\n\nIn a company with millions of users with differing levels of service, permission management is a considerable bottleneck. Regulations around user security and privacy add a further layer of complexity to such a system.\n\nNext Identity combines the functionality of a traditional database with the benefits of a centralized ledger. The system handles user identities, accesses, and approvals while retaining the integrity of an immutable blockchain."
+Tags = ["next","sawtooth"]
+
+["dock: Decentralized data exchange powered by Ethereum"]
+Link = ["https://dock.io/","https://dock.io/whitepaper"]
+Description = "By utilizing the secure Ethereum mainchain, data encryption, as well as a token model, the Dock protocol will allow users to take control of their data and exchange it between applications. The Dock token model will simultaneously motivate applications to exchange information by making it beneficial for both platforms involved in the transaction"
+Tags = ["dock","eth-app"]
+
+["Herdius"]
+Link = ["https://herdius.com/"]
+Description = "Herdius intends to build a new infrastructure layer on top of all blockchains. Through our vertically scalable chain and distributed virtual wallet network, Herdius aims to tackle identity & interoperability as well as create a crypto asset agnostic decentralized exchange."
+Tags = ["herdius"]
+
+["IXO Foundation"]
+Link = ["http://ixo.foundation/","https://ixo.foundation/wp-content/uploads/2018/08/ixo-Technical-White-Paper-w-Cover-Version-3.0-8-December-2017-1.pdf"]
+Description = "We are developing the mechanisms to share data-sets through software-mediated governance mechanisms, using the Ocean Protocol. Data resources will become locatable across any data store, using content-addressing, based on the Interplanetary Linked Data (IPLD) specification. The quality of these datasets will improve through the economic incentives and coordination capabilities of curation markets, as described by Simon De la Rouviere."
+Tags = ["ixo","data"]
+
+["Human Trust Protocol —HubToken"]
+Link = ["https://www.hubtoken.org/","https://www.hubtoken.org/images/hub-introduction.pdf","https://www.hubtoken.org/images/hub-white-paper.pdf"]
+Description = "Envision a world in which interactions and transactions between Internet strangers are supported by a new trust layer on the Internet enabled by the Human Trust Protocol. Reputation becomes self-sovereign under the control of users. With appropriate permissions, anyone will be able to assess the relevant trustworthiness of anyone else with whom they are about to engage, and users can transfer their trust from one community to any other. In short, there is an opportunity to rework the underlying incentive mechanisms of social networking and sharing economy services to create more trustworthy interaction."
+Tags = ["hubtoken"]
+
+["Holonet"]
+Link = ["https://simbol.io/","https://www.roadtovr.com/decentralizing-identity-in-vr-with-holonet-self-sovereign-identity/"]
+Description = "Holonet is an open source project that implements the Decentralized Identity Specifications for open web VR platforms like WebXR."
+Tags = ["holonet","uport","simbol"]
+
+["finID"]
+Link = ["http://finid.me/"]
+Description = "finID is a mobile wallet and a transparent  EU compliant Trusted Services Provider powered by blockchain infrastructure  supporting self sovereign identity (SSID). Our goal is to  make  SSID compatible with the existing EU eID infrastructure."
+Tags = ["eidas","eid","self-sovereign"]
+
+["Crayonic"]
+Link = ["https://www.crayonic.com"]
+Description = "Secure Digital Identity for People and Things\n\n Crayonic develops  hardware module  to secure digital identity.  We refer to it as Crayonic Identity Core  or CIC .  CIC hardware module  is running Crayonic Identity OS  firmware which will soon  be open sourced.  These two technologies combined are the basis for all identity projects within our company and soon it will be available to any one wishing to develop projects where secure identity plays a major role. This technology is protecting identities in all types of digital interactions:  person-to-person (P2P) , person-to-machine (P2M), machine-to-machine (M2M). \n\nRead further about technical details on Crayonic Pen -   our flagship  product built on top of CIC that fully utilizes its  machine learning algorithms in combination with cryptography to protect digital identity of a person. For machine-to-machine use case, please see our case study in IOT identity section. "
+Tags = ["eidas","crayonic"]
+
+["Blockpass"]
+Link = ["https://www.blockpass.org/","https://www.blockpass.org/downloads/BlockpassWhitepaper.v1.3.2.pdf"]
+Description = "Blockpass is an identity application for regulated services and the Internet of \n\nThings (IoT). It is positioned as a first step towards the development of a fully self-sovereign identity protocol for the Internet of Everything (IoE). An identity application is a software product that allows users to establish (verify), store, and manage identities. The identities that an identity application platform can store include those of people, things, and of other objects. The current, initial, release of the Blockpass app provides an identity solution for humans. Future releases will include solutions for devices and objects. \n\nA self-sovereign identity application is a platform where users can establish, store, and manage identities whilst maintaining full control over all data involved. Data collected to establish a self-sovereign identity is not stored on any central server. Instead, the data is passed to the verifier (be it a machine or a human) to view only for so long as is required to create the identity. When the verification is completed, the data is sent back to the user’s own personal device. "
+Tags = ["blockpass","iot","ssi"]
+
+["Ledgerstate"]
+Link = ["https://www.ledgerstate.io/","https://www.businesswire.com/news/home/20180125005600/en/Yoti-LedgerState-Showcase-Next-Generation-Blockchain-Technology-Transform"]
+Description = "Ledgerstate shapes their product to the end user's needs by not being tied to one specific decentralizing technology. Instead, they pick from the best technologies to create a tailored application for each use-case. Some of the technologies used include: Hashgraph, Yoti, Ethereum\n\nWe make decentralization and the blockchain simple, inclusive, and easy to implement into each company's ecosystem, putting forward the benefits for the end user.\n\nYoti, the digital identity platform, lets people create verified digital identities through their free smartphone app. The app uses facial recognition technology and a security team to match facial biometrics to approved photo IDs. These digital identities can then be written to a private ledger using an evolution of blockchain technology called Hashgraph."
+Tags = ["ledgerstate","yoti","hashgraph","eth"]
+
+["KeeeX Deploys Bitcoin BIP32 Self Sovereign Identity"]
+Link = ["https://keeex.me/","https://keeex.me/keeex-deploys-bitcoin-bip32-self-sovereign-identity/","https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki"]
+Description = "KeeeX seals trusted metadata in your files to ensure integrity, source and date. Our universal technology makes digital security accessible to everyone and allows you to protect all your file formats.\n\nYour data has value and is easily trackable thanks to a unique identifier. It embeds the link between your documents, your processes and event ledgers (Blockchain, off-chain register).\n\nThe most successful companies are those that have quality data in quantity to supply their analysis tools. You can qualify and insert context elements into your data to make better use of them.\n\nOur patented technology injects trust and exploitation metadata into your files without changing its appearance and format. You are no longer dependent on an infrastructure or Blockchain, all the proofs are in your data.\n\nFor the first time ever, BIP32 hierarchical deterministic wallets can be used to self define, publish, and revoke a cryptographic identity. This identity can be used to generate one time signatures for every item signed, hence achieving unprecedented signature security."
+Tags = ["keeex","data"]

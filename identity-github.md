@@ -2,107 +2,22 @@
 title         : SSI-DID Github Repositories
 description   : "A start at listing all DID-SSI related GitHub Repositories."
 image         : "https://infominer.id/images/github.jpeg"
-redirect_from :
-  - "https://infominer.id/awesome-decentralized-id/identity-github.html"
+layout: single
+toc_sticky: false
 
 ---
-
-# SSI-DID Github Repositories
 
 Please send [a message](../index.html#contact), open an issue or submit a pull-request with any suggestions\recommendations.
 
 [![](https://i.imgur.com/rsGOVgt.png)](https://internetidentityworkshop.com/)
 
-## Contents
-
-* [Project Danube](#project-danube-)
-  * [Danube XDI](#danube---xdi-)
-  * [Danube XDI Libraries](#danube---xdi-libraries-)
-  * [Danube XDI - Various Integrations](#danube---xdi---various-integrations-)
-  * [Danube XDI Configurations](#danube---xdi-configurations-)
-  * [Danube XDI Examples](#danube---xdi-examples-)
-  * [Danube XDI Plugins](#danube---xdi-plugins-)
-  * [Danube Aeternam](#danube---aeternam-)
-  * [Danube XDI Cloud](#danube---xdi-cloud-)
-  * [Danube XDI Server Deployed Via](#danube---xdi-server-deployed-via-)
-  * [Danube Services](#danube---services-)
-* [OASIS XDI TC Technical Committee](#oasis-xdi-tc-technical-committee-)
-* [Digital Bazaar](#digital-bazaar-)
-  * [DB - Identity](#db---identity-)
-  * [DB - Credentials](#db---credentials-)
-  * [DB - DID](#db---did-)
-  * [DB - Linked Data](#db---linked-data-)
-* [/WebOfTrustInfo](#weboftrustinfo)
-  * [RWoT Design Workshop](#rwot-design-workshop-)
-  * [RWoT BTCR](#rwot-btcr-)
-  * [RWoT Txref Conversion](#rwot-txref-conversion-)
-  * [RWoT Linked Data](#rwot-linked-data-)
-* [/w3c](#w3c---world-wide-web-consortium-)
-  * [Verifiable Claims Working Group](#w3cverifiable-claims----vc-working-group)
-  * [Credentials Community Group](#w3c-ccg---credentials-community-group-)
-    * [CCG - DID](ccg---did-)
-    * [Verifiable Credentials](#ccg---verifiable-credentials-)
-    * [Linked Data](#ccg----linked-data-)
-  * [Digital Verification Community Group](#digital-verification-community-group-)
-  * [OpenCreds](#opencreds-)
-* [Spidchain](#spidchain-)
-  * [BTCR](#spid-btcr-)
-  * [Ethereum](#spid-ethereum-)
-  * [Hackathon](#spid-hackathon-)
-* [Ethereum](#ethereum-)
-  * [Assorted Ethereum Apps](#assorted-ethereum-apps-)
-* [uPort](#uport-)
-  * [uPort DID](#uport-did-)
-  * [uPort Identification](#uport-identification-)
-  * [uPort Mobile](#uport-mobile-)
-  * [uPort Lambda](#uport-lambda-)
-  * [uPort React](#uport-react-)
-  * [uPort Assorted](#uport-assorted-)
-* [Jolocom](#jolocom-)
-* [Cryptonomica](#cryptonomica-)
-* [Learning Machine](#learning-machine-)
-  * [Blockcerts](#blockcerts-)
-    * [Blockcerts Json](#blockcerts-json-)
-    * [Blockcerts Web](#blockcerts-web-)
-    * [Blockcerts Mobile](#blockcerts-mobile-)
-* [Sovrin Foundation](#sovrin-foundation-)
-  * [Sovrin - Indy](#sovrin-indy-)
-* [Decentralized Identity Foundation](#decentralized-identity---dif-)
-  * [DIF - DID](#dif---did-)
-  * [DIF - DID-Auth](#dif---did-auth-)
-  * [DIF - Sidetree](#dif---sidetree-)
-  * [DIF - Hub](#dif---hub-)
-  * [DIF - Uniresolver](#dif---uniresolver-)
-* [Veres One](#veres-one-)
-* [/hyperledger Indy](#hyperledger-indy-)
-  * [/IBM-Blockchain-Identity](#ibm-blockchain-identity-)
-* [Verifiable Organizations Network](#verifiable-organizations-network-)
-  * [BCGov - VON](#bcgov---von-)
-    * [VON - Indy](#von---indy-)
-    * [VON - Agents](#von-agents-)
-  * [BCGov - DID-Auth](#bcgov---did-auth-)
-  * [PSPC-SPAC-buyandsell](#pspc-spac-buyandsell-) - Public Services and Procurement Canada
-* [Selfkey Foundation](#selfkey-foundation-)
-  * [Selfkey DID](#selfkey-did-)
-  * [Selfkey SmartContracts](#selfkey-smartcontracts-)
-  * [Selfkey Javascript](#selfkey-javascript-)
-  * [Selfkey Assorted](#selfkey-assorted)
-* [Ockam Network](#ockam-network-)
-* [Ontology](#ontology-)
-* [TangleID](#tangleid-)
-* [Simbol](#simbol-)
-* [Assorted](#assorted-)
-* [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
-
-
-
-## /project-danube [**^**](#contents)
+## /project-danube
 
 * <a href="https://github.com/projectdanube/indy-sdk-java" target="_blank">/projectdanube/indy-sdk-java</a> - Java binding to the native Indy SDK
 * <a href="https://github.com/projectdanube/blockstack-cli-java" target="_blank">/projectdanube/blockstack-cli-java</a> - Java client for Blockstore
 
 
-### Danube - XDI [**^**](#contents)
+### Danube - XDI
 
 >[XDI.org](https://xdi.org) is a non-profit public trust organization whose purpose is to provide public infrastructure for digital identity, security, and privacy using the open standard XDI semantic data interchange protocol developed by the OASIS XDI Technical Committee.
 * <a href="https://github.com/projectdanube/xdi-tutorial" target="_blank">/projectdanube/xdi-tutorial</a> - XDI Tutorial
@@ -112,14 +27,14 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 * <a href="https://github.com/projectdanube/xdi2-docker" target="_blank">/projectdanube/xdi2-docker</a> - Dockerfiles for XDI2
 * <a href="https://github.com/projectdanube/xdi2-connect-buttonbuilder" target="_blank">/projectdanube/xdi2-connect-buttonbuilder</a> - "Button Builder" component for the XDI Connect protocol
 
-### Danube - XDI libraries [**^**](#contents)
+### Danube - XDI libraries
 
 * <a href="https://github.com/projectdanube/xdi2" target="_blank">/projectdanube/xdi2</a> - XDI2 general purpose library and server
 * <a href="https://github.com/projectdanube/xdi-js" target="_blank">/projectdanube/xdi-js</a> - XDI client library for JavaScript
 * <a href="https://github.com/projectdanube/xdi2-connect-core" target="_blank">/projectdanube/xdi2-connect-core</a> - Shared library for the XDI Connect protocol
 
 
-### Danube - XDI - Various Integrations [**^**](#contents)
+### Danube - XDI - Various Integrations
 
 * <a href="https://github.com/projectdanube/xdi2-bdb" target="_blank">/projectdanube/xdi2-bdb</a> - Support for using BDB as XDI2 backend storage
 * <a href="https://github.com/projectdanube/xdi2-mongodb" target="_blank">/projectdanube/xdi2-mongodb</a> - Support for using MongoDB as XDI2 backend storage
@@ -130,14 +45,14 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 * <a href="https://github.com/projectdanube/withsqlite" target="_blank">/projectdanube/withsqlite</a> - A module for a python dict that back ends on an sqlite3 database. It's bit like shelve but with json and sqlite3.
   - Forked from jvasile/withsqlite
 
-### Danube - XDI Configuration [**^**](#contents)
+### Danube - XDI Configuration
 
 * <a href="https://github.com/projectdanube/xdi2-selfhosted" target="_blank">/projectdanube/xdi2-selfhosted</a> - A configuration profile of the XDI2 server for self-hosting a single XDI graph.
 * <a href="https://github.com/projectdanube/xdi2-csp" target="_blank">/projectdanube/xdi2-csp</a> - A configuration profile of the XDI2 server for hosting a dynamic number of XDI graphs.
 * <a href="https://github.com/projectdanube/xdi2-registry" target="_blank">/projectdanube/xdi2-registry</a> - 
 A configuration profile of the XDI2 server for hosting a registry of XDI names and XDI numbers.
 
-### Danube - XDI Examples [**^**](#contents)
+### Danube - XDI Examples
 
 * <a href="https://github.com/projectdanube/xdi2-example-messaging" target="_blank">/projectdanube/xdi2-example-messaging</a> - XDI2 Examples: Basic messaging functionality.
 * <a href="https://github.com/projectdanube/xdi2-example-advanced-server" target="_blank">/projectdanube/xdi2-example-advanced-server</a> - XDI2 Examples: Setting up advanced XDI servers.
@@ -152,7 +67,7 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 
 
 
-### Danube - XDI Plugins [**^**](#contents)
+### Danube - XDI Plugins
 
 * <a href="https://github.com/projectdanube/xdi2-crypto-secp256k1" target="_blank">/projectdanube/xdi2-crypto-secp256k1</a> - This is an secp256k1 crypto plugin for the XDI2 client and server.
 * <a href="https://github.com/projectdanube/xdi2-crypto-ec25519" target="_blank">/projectdanube/xdi2-crypto-ec25519</a> - This is an Ed25519 crypto plugin for the XDI2 client and server.
@@ -162,7 +77,7 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/projectdanube/xdi2-connector-cozy" target="_blank">/projectdanube/xdi2-connector-cozy</a> - A connector plugin for CozyCloud
 * <a href="https://github.com/projectdanube/xdi2-filesys" target="_blank">/projectdanube/xdi2-filesys</a> - Plugin for an XDI2 server to integrate with a local filesystem
 
-### Danube - Aeternam [**^**](#contents)
+### Danube - Aeternam
 
 * <a href="https://github.com/projectdanube/aeternam-xdi-sncf" target="_blank">/projectdanube/aeternam-xdi-sncf</a> - Aeternam PNR Demo: SNCF
 * <a href="https://github.com/projectdanube/aeternam-xdi-db" target="_blank">/projectdanube/aeternam-xdi-db</a> - Aeternam PNR Demo: Deutsche Bahn
@@ -171,14 +86,14 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/projectdanube/aeternam-xdi-webshop" target="_blank">/projectdanube/aeternam-xdi-webshop</a> - Aeternam PNR Demo: Webshop
 * <a href="https://github.com/projectdanube/aeternam-xdi-oebb" target="_blank">/projectdanube/aeternam-xdi-oebb</a> - Aeternam PNR Demo: ÖBB
 
-### Danube - XDI Cloud [**^**](#contents)
+### Danube - XDI Cloud
 
 * <a href="https://github.com/projectdanube/xdi2-cloudcards" target="_blank">/projectdanube/xdi2-cloudcards</a> - XDI Cloud Card Viewer
 * <a href="https://github.com/projectdanube/xdi2-messenger" target="_blank">/projectdanube/xdi2-messenger</a> - XDI Cloud Messenger
 * <a href="https://github.com/projectdanube/xdi2-manager" target="_blank">/projectdanube/xdi2-manager</a> - XDI Cloud Manager
 * <a href="https://github.com/projectdanube/xdi2-pixel" target="_blank">/projectdanube/xdi2-pixel</a> - Tool to translate a personal cloud policy language (Pixel) to XDI link contracts.
 
-### Danube - XDI Server Deployed Via [**^**](#contents)
+### Danube - XDI Server Deployed Via
 
 * <a href="https://github.com/projectdanube/xdi2-server-grizzly" target="_blank">/projectdanube/xdi2-server-grizzly</a> - XDI2 Server deployed via Grizzly
 * <a href="https://github.com/projectdanube/xdi2-server-mina" target="_blank">/projectdanube/xdi2-server-mina</a> - XDI2 Server deployed via Apache MINA
@@ -186,7 +101,7 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/projectdanube/xdi2-server-undertow" target="_blank">/projectdanube/xdi2-server-undertow</a> - XDI2 Server deployed via Undertow
 * <a href="https://github.com/projectdanube/xdi2-server-vertx" target="_blank">/projectdanube/xdi2-server-vertx</a> - XDI2 Server deployed via vert.x
 
-### Danube Sevices [**^**](#contents)
+### Danube Sevices
 * <a href="https://github.com/projectdanube/xdi2-connect-service" target="_blank">/projectdanube/xdi2-connect-service</a> - This is a "Connect Service" component for the XDI Browser binding.
 * <a href="https://github.com/projectdanube/neustar-discovery-service" target="_blank">/projectdanube/neustar-discovery-service</a> - Neustar XDI Discovery Service based on XRI Resolution
   - Forked from neustarpc/neustar-discovery-service
@@ -197,7 +112,7 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/projectdanube/xdi2-connect-auth-service" target="_blank">/projectdanube/xdi2-connect-auth-service</a> - This is a "Connect Auth Service" component for the XDI Browser binding.
 
 
-## OASIS XDI TC Technical Committee [**^**](#contents)
+## OASIS XDI TC Technical Committee
 
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-docbook">/OASIS-XDI-Technical-Committee/xdi-spec-docbook</a> - XDI Specifications (Docbook)
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-developers-guide">/OASIS-XDI-Technical-Committee/xdi-developers-guide</a> - XDI Developer's Guide
@@ -209,7 +124,7 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 
 
 
-## Digital Bazaar [**^**](#contents)
+## Digital Bazaar
 
 * <a href="https://github.com/digitalbazaar/bedrock" target="_blank">/digitalbazaar/bedrock</a> - Bedrock: A core foundation for rich Web applications.
 * <a href="https://github.com/digitalbazaar/forge" target="_blank">/digitalbazaar/forge</a> - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps 
@@ -217,7 +132,7 @@ A configuration profile of the XDI2 server for hosting a registry of XDI names a
 * <a href="https://github.com/digitalbazaar/uuid-random" target="_blank">/digitalbazaar/uuid-random</a>
 
 
-### DB - Identity [**^**](#contents)
+### DB - Identity
 * <a href="https://github.com/digitalbazaar/bedrock-angular-identity-composer" target="_blank">/digitalbazaar/bedrock-angular-identity-composer</a> - An bedrock-based AngularJS directive for composing an Identity from a set of credentials
 * <a href="https://github.com/digitalbazaar/bedrock-identity-http" target="_blank">/digitalbazaar/bedrock-identity-http</a>
 * <a href="https://github.com/digitalbazaar/opencred-idp" target="_blank">/digitalbazaar/opencred-idp</a> - Open Credentials Identity Provider and demo websites
@@ -303,7 +218,7 @@ The workshop itself also produces technical whitepapers, this Repository holds a
 * <a href="https://github.com/WebOfTrustInfo/verifiable-news" target="_blank">/WebOfTrustInfo/verifiable-news</a> - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
 * <a href="https://github.com/WebOfTrustInfo/portable-reputation-toolkit" target="_blank">/WebOfTrustInfo/portable-reputation-toolkit</a>
 
-### RWoT Design Workshop [**^**](#contents)
+### RWoT Design Workshop
 
 * [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
   >Our goal for this initial #RebootingWebOfTrust design workshop is to:
@@ -321,7 +236,7 @@ The workshop itself also produces technical whitepapers, this Repository holds a
 * <a href="https://github.com/WebOfTrustInfo/rwot7-toronto" target="_blank">/WebOfTrustInfo/rwot7-toronto</a> - RWOT7 in Toronto, Canada (September 2018)
 * <a href="https://github.com/WebOfTrustInfo/rwot8-barcelona" target="_blank">/WebOfTrustInfo/rwot8-barcelona</a> - RWOT8 in Barcelona, Spain (March 2019)
 
-### RWot BTCR [**^**](#contents)
+### RWot BTCR
 
 * <a href="https://github.com/WebOfTrustInfo/btcr-tx-playground.github.io" target="_blank">/WebOfTrustInfo/btcr-tx-playground.github.io</a>
 * <a href="https://github.com/WebOfTrustInfo/btcr-did-tools-js" target="_blank">/WebOfTrustInfo/btcr-did-tools-js</a>
@@ -333,14 +248,14 @@ The workshop itself also produces technical whitepapers, this Repository holds a
 * <a href="https://github.com/WebOfTrustInfo/txref-conversion-js" target="_blank">/WebOfTrustInfo/txref-conversion-js</a> - Javascript library for converting txids to txrefs and back
 * <a href="https://github.com/WebOfTrustInfo/txref-conversion-python" target="_blank">/WebOfTrustInfo/txref-conversion-python</a> - Python library to handle conversion between TxRef(bech32) <-> TxID
 
-### RWoT Linked Data [**^**](#contents)
+### RWoT Linked Data
 
 * <a href="https://github.com/WebOfTrustInfo/" target="_blank">/WebOfTrustInfo/schemas</a> - Draft schemas for JSON-LD etc.
 * <a href="https://github.com/WebOfTrustInfo/ld-signatures-java" target="_blank">/WebOfTrustInfo/ld-signatures-java</a> - Java implementation of Linked Data Signatures
 * <a href="https://github.com/WebOfTrustInfo/ld-signatures-python" target="_blank">/WebOfTrustInfo/ld-signatures-python</a> - JSON-LD Signatures with JSON Web Signatures
 
 
-## /w3c - World Wide Web Consortium [**^**](#contents)
+## /w3c - World Wide Web Consortium
 
 ### /w3c/verifiable-claims  - VC Working Group
 
@@ -352,7 +267,7 @@ The workshop itself also produces technical whitepapers, this Repository holds a
 * <a href="https://github.com/w3c/vc-test-suite" target="_blank">/w3c/vc-test-suite</a> - Verifiable Claims WG Test Suite.
 * <a href="https://github.com/w3c/vc-imp-guide" target="_blank">/w3c/vc-imp-guide</a> - Verifiable Credentials Implementation Guidelines
 
-### /w3c-ccg - Credentials Community Group [**^**](#contents)
+### /w3c-ccg - Credentials Community Group
 
 <a href="http://lists.w3.org/Archives/Public/public-credentials/" target="_blank">Public mailing list for the Credentials Community Group</a> (and archives) - Anyone may read or write to this list.
   * <a href="https://github.com/w3c-ccg/meetings" target="_blank">/w3c-ccg/meetings</a> CCG Meeting Transcripts
@@ -361,7 +276,7 @@ The workshop itself also produces technical whitepapers, this Repository holds a
 * <a href="https://github.com/w3c-ccg/w3c-ccg-process" target="_blank">/w3c-ccg/w3c-ccg-process</a>
 * <a href="https://github.com/w3c-ccg/registries-process" target="_blank">/w3c-ccg/registries-process</a>
 
-#### CCG - DID [**^**](#contents)
+#### CCG - DID
 
 * <a href="https://github.com/w3c-ccg/did-primer" target="_blank">/w3c-ccg/did-primer</a> - A Primer for Decentralized Identifiers
 * <a href="https://github.com/w3c-ccg/did-spec" target="_blank">/w3c-ccg/did-spec</a> - Decentralized Identifier (DID) 1.0 Specification - Data Model and Syntax
@@ -378,17 +293,17 @@ The workshop itself also produces technical whitepapers, this Repository holds a
 * <a href="https://github.com/w3c-ccg/amira" target="_blank">/w3c-ccg/amira</a> - Amira Engagement Model.
 * <a href="https://github.com/w3c-ccg/functional-identity" target="_blank">/w3c-ccg/functional-identity</a>
 
-#### CCG - Verifiable Credentials [**^**](#contents)
+#### CCG - Verifiable Credentials
 
 * <a href="https://github.com/w3c-ccg/vc-status-registry" target="_blank"></a> - REGISTRY: The Verifiable Credentials Status Scheme Registry.
 * <a href="https://github.com/w3c-ccg/edu_occ_verifiable_credentials" target="_blank">/w3c-ccg/edu_occ_verifiable_credentials</a> - WORK ITEM: Drafts and Ideas of Educational and Occupational Verifiable Credentials.
 * <a href="https://github.com/w3c-ccg/vc-examples" target="_blank">/w3c-ccg/vc-examples</a> - WORK ITEM: Verifiable Credentials Examples
 
-#### CCG -  Linked Data [**^**](#contents)
+#### CCG -  Linked Data
 * <a href="https://github.com/w3c-ccg/ocap-ld" target="_blank">/w3c-ccg/ocap-ld</a> - WORK ITEM: Linked Data Object Capabilities specification
 * <a href="https://github.com/w3c-ccg/ld-cryptosuite-registry" target="_blank">/w3c-ccg/ld-cryptosuite-registry</a> - REGISTRY: Linked Data Keys Registry
 
-### Digital Verification Community Group [**^**](#contents)
+### Digital Verification Community Group
 > The mission of the W3C Digital Verification Community Group is to study, design, promote, and deploy systems that increase trust on the Web.
 
 * <a href="https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io" target="_blank">/w3c-dvcg/w3c-dvcg.github.io</a> - Landing site for W3C Digital Verification Community Group.
@@ -411,17 +326,17 @@ Linked Data Proofs Specification
 * <a href="https://sea-region.github.com/w3c-dvcg/lds-pseudonymous2016/" target="_blank">/w3c-dvcg/lds-pseudonymous2016/</a>
 * <a href="https://sea-region.github.com/w3c-dvcg/lds-rsa2016/" target="_blank">/w3c-dvcg/lds-rsa2016/</a>
 
-### /opencreds [**^**](#contents)
+### /opencreds
 
 * <a href="https://github.com/opencreds/website" target="_blank">/opencreds/website</a> - The Open Credentials Website
 * <a href="https://github.com/opencreds/minutes" target="_blank">/opencreds/minutes</a> - 
 Text and audio meeting minutes for W3C Credentials Community Group
 
-## Spidchain [**^**](#contents)
+## Spidchain
 
 * [Spidchain.com](http://www.spidchain.com/) -Blockchain for Self Sovereign Identity
 
-### Spid Bitcoin [**^**](#contents)
+### Spid Bitcoin
 * <a href="https://github.com/SpidChain/spidchain-btcr" target="_blank">/SpidChain/spidchain-btcr</a> - An implementation of the btcr standard for self sovereign distributed digital identity
 * <a href="https://github.com/SpidChain/electrumx" target="_blank">/SpidChain/electrumx</a> Forked from kyuupichan/electrumx
   - Alternative implementation of spesmilo/electrum-server
@@ -431,7 +346,7 @@ Text and audio meeting minutes for W3C Credentials Community Group
   - Javascript library for converting txids to txrefs and back
 
 
-### Spid Ethereum [**^**](#contents)
+### Spid Ethereum
 * <a href="https://github.com/SpidChain/eth-lightwallet" target="_blank">/SpidChain/eth-lightwallet</a> - Forked from ConsenSys/eth-lightwallet
   - Lightweight JS Wallet for Node and the browser
 * <a href="https://github.com/SpidChain/truffle" target="_blank">/SpidChain/truffle</a> - Forked from trufflesuite/truffle
@@ -442,11 +357,11 @@ Text and audio meeting minutes for W3C Credentials Community Group
 * <a href="https://github.com/SpidChain/nodejs-ethereum" target="_blank">/SpidChain/nodejs-ethereum</a> - Forked from b9lab/nodejs-ethereum
 Example of using NodeJs with Ethereum
 
-### Spid Hackathon [**^**](#contents)
+### Spid Hackathon
 * <a href="https://github.com/SpidChain/chainpass" target="_blank">/SpidChain/chainpass</a> - App for Trenitalia hackathon - 09 / 16 / 2017 - Rome
 * <a href="https://github.com/SpidChain/vipPrice" target="_blank">/SpidChain/vipPrice</a> - #internationalhackathon #spidchain
 
-### Democracy Earth [**^**](#contents)
+### Democracy Earth
 
 * <a href="https://github.com/democracyearth/self" target="_blank">/democracyearth/self</a> - Cryptgraphic peer authentication.
   >We keep the identity 100% in the hands of the user. We took the decentralization approach to create a login protocol and Cryptography (SHA-256 hash function) to ensure security and identity. We allow users to show the information that they want, when they want and to they want.
@@ -474,7 +389,7 @@ Example of using NodeJs with Ethereum
 
 
 
-## Ethereum [**^**](#contents)
+## Ethereum
 * [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
 * [ERC-1484: Digital Identity Aggregator #1495](https://github.com/ethereum/EIPs/issues/1495) —A protocol for aggregating digital identity information that's broadly interoperable with existing, proposed, and hypothetical future digital identity standards.
 * [ERC725](https://github.com/ethereum/EIPs/issues/725) 
@@ -486,13 +401,13 @@ Example of using NodeJs with Ethereum
 * [EIP-1078](https://github.com/ethereum/EIPs/blob/ed621645c8f3bc5756492f327cda015f35d9f8da/EIPS/eip-1078.md) - 
 This presents a method to replace the usual signup/login design pattern with a minimal ethereum native scheme, that doesn’t require passwords, backing up private keys nor typing seed phrases. 
 
-### Assorted Ethereum Apps [**^**](#contents)
+### Assorted Ethereum Apps
 
 <a href="https://github.com/XLNT/meirl" target="_blank">/XLNT/meirl</a> - Counterfactual and Upgradable Self-Sovereign Identity for Ethereum, using Gnosis Safe
 
 
 
-## uPort [**^**](#contents)
+## uPort
 
 * <a href="https://github.com/uport-project/developers" target="_blank">/uport-project/developers</a> - Developer portal for documentation and application management
 * <a href="https://github.com/uport-project/specs" target="_blank">/uport-project/specs</a> - uPort Protocol Specs
@@ -510,7 +425,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/uport-project/uport-bounties" target="_blank">/uport-project/uport-bounties</a>- A Library of uPort Bounties
 * <a href="https://github.com/dconroy/CityKey" target="_blank">/dconroy/CityKey</a> - Adding uPort support to Chicago CityKey, adding all the benefits of Self Sovereign Identity to municipal services. http://citykeychained.com
 
-### uPort DID [**^**](#contents)
+### uPort DID
 
 * <a href="https://github.com/uport-project/ethr-did-resolver" target="_blank">/uport-project/ethr-did-resolver</a> - DID resolver for Ethereum Addresses with support for key management
 * <a href="https://github.com/uport-project/secp256k1-did-resolver" target="_blank">/uport-project/secp256k1-did-resolver</a> - Resolve DID documents for secp256k1 public keys
@@ -525,7 +440,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/uport-project/uport-did-resolver" target="_blank">/uport-project/uport-did-resolver</a> - DID resolver for uPort identities
 
 
-### uPort Identification [**^**](#contents)
+### uPort Identification
 * <a href="https://github.com/uport-project/openid" target="_blank">/uport-project/openid</a> - uPort openid
 * <a href="https://github.com/uport-project/kmnid" target="_blank">/uport-project/kmnid</a> - A kotlin implementation of MNID
 * <a href="https://github.com/uport-project/uport-registry" target="_blank">/uport-project/uport-registry</a> - Core uPort registry contract for linking attributes to uPort identities.
@@ -535,7 +450,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 
 
 
-### uPort Mobile [**^**](#contents)
+### uPort Mobile
 
 * <a href="https://github.com/uport-project/uport-android-sdk" target="_blank">/uport-project/uport-android-sdk</a> - Collections of tools and helper libraries for android to issue and use identities on the uPort platform
 * <a href="https://github.com/uport-project/uport-android-signer" target="_blank">/uport-project/uport-android-signer</a> - android ETH signer library to be used by uport app and sdk
@@ -550,7 +465,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 
 
 
-### uPort Lambda [**^**](#contents)
+### uPort Lambda
 
 * <a href="https://github.com/uport-project/lambda-chasqui" target="_blank">/uport-project/lambda-chasqui</a> - running_man Messenger service running_man
 * <a href="https://github.com/uport-project/lambda-agora" target="_blank">/uport-project/lambda-agora</a> - An open public space where an assembly of applications can share details and be discovered (pre-alpha)
@@ -565,7 +480,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/uport-project/lambda-nisaba" target="_blank">/uport-project/lambda-nisaba</a> - Lambda functions for anti-sybill
 * <a href="https://github.com/uport-project/lambda-unnu" target="_blank">/uport-project/lambda-unnu</a> - Creator of Identities
 
-### uPort React [**^**](#contents)
+### uPort React
 
 * <a href="https://github.com/uport-project/react-native-uport-signer" target="_blank">/uport-project/react-native-uport-signer</a> 
 * <a href="https://github.com/uport-project/react-native-signer-demo" target="_blank">/uport-project/react-native-signer-demo</a> 
@@ -574,7 +489,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/uport-project/react-uport-box" target="_blank">/uport-project/react-uport-box</a> - Truffle and React/Redux boilerplate with uPort Connect
 * <a href="https://github.com/uport-project/react-native-passcode-android" target="_blank">/uport-project/react-native-passcode-android</a> - Forked from aldigjo/react-native-passcode-android
 
-### uPort Assorted [**^**](#contents)
+### uPort Assorted
 * <a href="https://github.com/uport-project/champagne-dapp" target="_blank">/uport-project/champagne-dapp</a> - Champagne Project dApp
 * <a href="https://github.com/uport-project/tweetnacl-k" target="_blank">/uport-project/tweetnacl-k</a> - kotlin implementation of tweetnacl
 * <a href="https://github.com/uport-project/sample-data-generator" target="_blank">/uport-project/sample-data-generator</a>
@@ -588,7 +503,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/uport-project/ed2curve-js" target="_blank">/uport-project/ed2curve-js</a> - Convert Ed25519 signing keys into Curve25519 Diffie-Hellman keys
 
 
-## Jolocom [**^**](#contents)
+## Jolocom
 
 * <a href="https://github.com/jolocom/docs" target="_blank">/jolocom/docs</a> - Documentation
 * <a href="https://github.com/jolocom/smartwallet-app" target="_blank">/jolocom/smartwallet-app</a> - A decentralized self sovereign identity solution developed by Jolocom.
@@ -604,7 +519,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/jolocom/registry-contract" target="_blank">/jolocom/registry-contract</a> - A basic smart contract on top of the Ethereum network that registers mappings between DID and IPFS DDO hashes.
 * <a href="https://github.com/jolocom/smartwallet-webid-proxy" target="_blank">/jolocom/smartwallet-webid-proxy</a> - WebID proxy service
 
-## Cryptonomica [**^**](#contents)
+## Cryptonomica
 
 [![](https://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
 
@@ -619,7 +534,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 
 
 
-## Learning Machine [**^**](#contents)
+## Learning Machine
 
 * <a href="https://github.com/learningmachine/stage.blockcerts.github.io" target="_blank">/learningmachine/stage.blockcerts.github.io</a> - Web site 
   - Forked from blockchain-certificates/blockchain-certificates.github.io
@@ -629,7 +544,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/learningmachine/Foundatio" target="_blank">/learningmachine/Foundatio</a> - Pluggable foundation blocks for building distributed apps.
   - Forked from FoundatioFx/Foundatio
 
-### Blockcerts [**^**](#contents)
+### Blockcerts
 
 * <a href="https://github.com/blockchain-certificates/blockcerts-verifier" target="_blank">/blockchain-certificates/blockcerts-verifier</a> - A Blockcerts verifier and viewer
 * <a href="https://github.com/blockchain-certificates/cert-issuer" target="_blank">/blockchain-certificates/cert-issuer</a> - Issues Blockcerts using either the Bitcoin or Ethereum blockchain
@@ -651,12 +566,12 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/blockchain-certificates/openbadges-bakery" target="_blank">/blockchain-certificates/openbadges-bakery</a> - An OpenBadges image baking library that works with PNGs and SVGs
   - Forked from mozilla/openbadges-bakery
 
-#### Blockcerts Json [**^**](#contents)
+#### Blockcerts Json
 * <a href="https://github.com/blockchain-certificates/JSONLD" target="_blank">/blockchain-certificates/JSONLD</a> - An iOS framework for processing JSON-LD files.
 * <a href="https://github.com/blockchain-certificates/JSONLDProcessor" target="_blank">/blockchain-certificates/JSONLDProcessor</a> - An iOS framework for processing JSON-LD files.
 
 
-#### Blockcerts Web [**^**](#contents)
+#### Blockcerts Web
 
 * <a href="https://github.com/blockchain-certificates/cert-viewer" target="_blank">/blockchain-certificates/cert-viewer</a> - A web app for viewing and validating Blockchain Certificates
 * <a href="https://github.com/blockchain-certificates/blockcerts-playground.github.io" target="_blank">/blockchain-certificates/blockcerts-playground.github.io</a> - In-browser tool to experiment with Blockcerts
@@ -664,14 +579,14 @@ This presents a method to replace the usual signup/login design pattern with a m
   - Forked from mmistakes/minimal-mistakes
 * <a href="https://github.com/blockchain-certificates/cert-web-component" target="_blank">/blockchain-certificates/cert-web-component</a> - A web component for displaying blockchain certificates.
 
-#### Blockcerts Mobile [**^**](#contents)
+#### Blockcerts Mobile
 
 * <a href="https://github.com/blockchain-certificates/wallet-android" target="_blank">/blockchain-certificates/wallet-android</a> - An Android app for Blockcerts
 * <a href="https://github.com/blockchain-certificates/BlockcertsFramework-iOS" target="_blank">/blockchain-certificates/BlockcertsFramework-iOS</a> - An iOS wallet for viewing, validating, and sharing certs
 * <a href="https://github.com/blockchain-certificates/wallet-iOS" target="_blank">/blockchain-certificates/wallet-iOS</a> - An iOS wallet for Blockcerts
 
 
-## Sovrin Foundation [**^**](#contents)
+## Sovrin Foundation
 
 * <a href="https://github.com/sovrin-foundation/sovrin.org" target="_blank">/sovrin-foundation/sovrin.org</a> - the foundation web site
 * <a href="https://github.com/sovrin-foundation/sovrin" target="_blank">/sovrin-foundation/sovrin</a>
@@ -687,7 +602,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/sovrin-foundation/pipeline-test" target="_blank">/sovrin-foundation/pipeline-test</a> - Test integrations, hooks and build pipelines.
 
 
-### Sovrin - Indy [**^**](#contents)
+### Sovrin - Indy
 * <a href="https://github.com/sovrin-foundation/indy-dev" target="_blank">/sovrin-foundation/indy-dev</a> - Forked from michaeldboyd/indy-dev</a> - This is a quick way to setup a development environment to experiment with IndySDK
 * <a href="https://github.com/sovrin-foundation/libsovtoken" target="_blank">/sovrin-foundation/libsovtoken</a> - This is a payment handler library to work with libindy. It may one day be merged into libindy.
 * <a href="https://github.com/sovrin-foundation/sovrin-indy-android-dependencies" target="_blank">/sovrin-foundation/sovrin-indy-android-dependencies</a> - indy-android-dependencies
@@ -695,7 +610,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/sovrin-foundation/indy-android-dependencies" target="_blank">/sovrin-foundation/indy-android-dependencies</a> - Dependencies required to build indy-sdk
 
 
-## /decentralized-identity - DIF [**^**](#contents)
+## /decentralized-identity - DIF
 
 * <a href="https://github.com/decentralized-identity/decentralized-identity.github.io" target="_blank">/decentralized-identity/decentralized-identity.github.io</a>  - Site for the open source, community-driven group of dev and organizations working toward an interoperable, decentralized identity ecosystem
 * <a href="https://github.com/decentralized-identity/org" target="_blank">/decentralized-identity/org</a> - DIF docs, wiki, and organizational material
@@ -703,7 +618,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/decentralized-identity/universal-registrar" target="_blank">/decentralized-identity/universal-registrar</a> - Specifications and implementation of a universal identifier registrar
 * <a href="https://github.com/decentralized-identity/attestations" target="_blank">decentralized-identity/attestations</a> - Attestation API implementations for various languages and platforms.
 
-### DIF - DID [**^**](#contents)
+### DIF - DID
 * <a href="https://github.com/decentralized-identity/did-methods" target="_blank">/decentralized-identity/did-methods</a> - DID Method specs, docs, and materials
 * <a href="https://github.com/decentralized-identity/did-common-typescript" target="_blank">/decentralized-identity/did-common-typescript
 </a> - A common bundle of shared code and modules for working with DIDs, DID Documents, and other DID-related activities
@@ -717,16 +632,16 @@ This presents a method to replace the usual signup/login design pattern with a m
 * <a href="https://github.com/decentralized-identity/http-did-auth-proxy" target="_blank">/decentralized-identity/http-did-auth-proxy</a> - Forked from bcgov/http-did-auth-proxy
 DID Auth HTTP proxy.
 
-### DIF - DID-Auth [**^**](#contents)
+### DIF - DID-Auth
 * <a href="https://github.com/decentralized-identity/did-auth-jose" target="_blank">/decentralized-identity/did-auth-jose</a> - JOSE-based implementation of DID Authenticated Encryption
 
-### DIF - Sidetree [**^**](#contents)
+### DIF - Sidetree
 * <a href="https://github.com/decentralized-identity/sidetree-ipfs" target="_blank">/decentralized-identity/sidetree-ipfs</a> - IPFS module for storing and accessing Sidetree entity operation data via content addressable storage
 * <a href="https://github.com/decentralized-identity/sidetree-core" target="_blank">/decentralized-identity/sidetree-core</a> - The blockchain-agnostic server implementation of the Sidetree protocol.
 * <a href="https://github.com/decentralized-identity/sidetree-bitcoin" target="_blank">/decentralized-identity/sidetree-bitcoin</a> - Blockchain-specific code for the Sidetree-based DID Method implementation on Bitcoin
 * <a href="https://github.com/decentralized-identity/ion" target="_blank">/decentralized-identity/ion</a> - DID Method implementation using the Sidetree protocol on top of Bitcoin
 
-### DIF - Hub [**^**](#contents)
+### DIF - Hub
 * <a href="https://github.com/decentralized-identity/hub-sdk-js-sample" target="_blank">/decentralized-identity/hub-sdk-js-sample</a> - Sample app demonstrating use of the DIF Identity Hub JavaScript SDK.
 * <a href="https://github.com/decentralized-identity/hub-sdk-js" target="_blank">/decentralized-identity/hub-sdk-js</a> - JavaScript SDK for interacting with Identity Hubs
 * <a href="https://github.com/decentralized-identity/hub-common-js" target="_blank">/decentralized-identity/hub-common-js</a> - Common interfaces for working with Identity Hubs in JavaScript/TypeScript
@@ -734,14 +649,14 @@ DID Auth HTTP proxy.
 * <a href="https://github.com/decentralized-identity/identity-hub" target="_blank">/decentralized-identity/identity-hub</a> - Storage and compute nodes for decentralized identity data and interactions
 * <a href="https://github.com/decentralized-identity/hub-node-reference" target="_blank">/decentralized-identity/hub-node-reference</a> - The official Identity Hub reference implementation bundle for Node.js
 
-### DIF - Uniresolver [**^**](#contents)
+### DIF - Uniresolver
 
 * <a href="https://github.com/decentralized-identity/universal-resolver" target="_blank">/decentralized-identity/universal-resolver</a> - Universal Resolver implementation and drivers.
 * <a href="https://github.com/decentralized-identity/universal-resolver-frontend" target="_blank">/decentralized-identity/universal-resolver-frontend</a> - Frontend web UI for Universal Resolver
 * <a href="https://github.com/decentralized-identity/universal-resolver-python" target="_blank">/decentralized-identity/universal-resolver-python</a>
 * <a href="https://github.com/decentralized-identity/universal-resolver-java" target="_blank">/decentralized-identity/universal-resolver-java</a>
 
-## Veres One [**^**](#contents)
+## Veres One
 
 * <a href="https://github.com/veres-one/veres-one" target="_blank">/veres-one/veres-one</a> - A ledger for acquiring and managing decentralized identifiers
 * <a href="https://github.com/veres-one/did-veres-one" target="_blank">/veres-one/did-veres-one</a> - A Decentralized Identifier utility library for Veres One
@@ -755,7 +670,7 @@ DID Auth HTTP proxy.
 
 
 
-## /hyperledger Indy [**^**](#contents)
+## /hyperledger Indy
 * [/indy-plenum](https://github.com/hyperledger/indy-plenum) - Byzantine Fault Tolerant Protocol [[**wiki**](https://github.com/hyperledger/indy-plenum/wiki)]
     > "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem." 
     * [Storage components](https://github.com/hyperledger/indy-plenum/blob/master/docs/storage.md) - As of now, RocksDB is used as a key-value database for all Storages.
@@ -773,7 +688,7 @@ Hyperledger Indy Project Enhancements
 * [/ursa](https://github.com/hyperledger/ursa) [[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)][[**ϟ**](https://www.coindesk.com/hyperledger-launches-cryptography-toolbox-for-blockchain-developers)] 
   > "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the shared library will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram) [[**wiki**](https://wiki.hyperledger.org/projects/ursa)]
 
-### IDChain [**^**](#contents)
+### IDChain
 
 * <a href="https://github.com/ID-Chain/IEA-API" target="_blank">/ID-Chain/IEA-API</a> - Institutional Edge Agent Generic API
 * <a href="https://github.com/ID-Chain/Common" target="_blank">/ID-Chain/Common</a> - Common Repository for IdentityChain Project
@@ -788,7 +703,7 @@ Hyperledger Indy Project Enhancements
 
 
 
-### /IBM-Blockchain-Identity [**^**](#contents)
+### /IBM-Blockchain-Identity
 
 <a href="https://github.com/IBM-Blockchain-Identity/indy-tutorial-sandbox" target="_blank">/IBM-Blockchain-Identity/indy-tutorial-sandbox</a> - Forked from brycecurtis/indy-tutorial-sandbox
 A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyperledger Indy concepts.
@@ -796,12 +711,12 @@ A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyper
 <a href="https://github.com/IBM-Blockchain-Identity/indy-ssivc-tutorial" target="_blank">/IBM-Blockchain-Identityindy-ssivc-tutorial</a> - A turnkey, Docker-based tutorial for help developers get acquainted with Self-Sovereign Identity and Verifiable Credentials.
  
 
-## Verifiable Organizations Network [**^**](#contents)
+## Verifiable Organizations Network
 
 * <a href="https://github.com/bcgov/BC-Policy-Framework-For-GitHub" target="_blank">/bcgov/BC-Policy-Framework-For-GitHub</a> - Policy information for BC Government employees using GitHub
 * <a href="https://github.com/bcgov/design-system" target="_blank">/bcgov/design-system</a> - British Columbia Government Design System for Digital Services
 
-### BCGov - VON [**^**](#contents)
+### BCGov - VON
 * <a href="https://github.com/bcgov/TheOrgBook" target="_blank">/bcgov/TheOrgBook</a> - A public repository of verifiable claims about organizations. A key component of the Verifiable Organization Network.
 * <a href="https://github.com/bcgov/von" target="_blank">/bcgov/von</a> - Verifiable Organizations Network
 * <a href="https://github.com/bcgov/von-connector" target="_blank">/bcgov/von-connector</a> - Verifiable Organization Network Connector
@@ -809,12 +724,12 @@ A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyper
 * <a href="https://github.com/bcgov/von-ledger-explorer" target="_blank">/bcgov/von-ledger-explorer</a> - The VON Ledger Explorer
 * <a href="https://github.com/bcgov/dFlow" target="_blank">/bcgov/dFlow</a> - A demonstration of the verifiable organization network showing a new restaurant gathering the permits necessary to open.
 
-#### VON - Indy [**^**](#contents)
+#### VON - Indy
 
 * <a href="https://github.com/bcgov/indy-catalyst" target="_blank">/bcgov/indy-catalyst</a> - Hyperledger Indy Catalyst is a set of application level software components designed to accelerate the adoption of trustworthy entity to entity communications.
 * <a href="https://github.com/bcgov/indy-sdk-postgres-storage" target="_blank">/bcgov/indy-sdk-postgres-storage</a> - PostgreSQL plug-in for use with the indy-sdk
 
-#### VON - Agents [**^**](#contents)
+#### VON - Agents
 
 
 * <a href="https://github.com/bcgov/von-personal-agent" target="_blank">/bcgov/von-personal-agent</a> - A personal agent for the von network.
@@ -824,12 +739,12 @@ A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyper
 * <a href="https://github.com/bcgov/von_agent" target="_blank">/bcgov/von_agent</a> Forked from PSPC-SPAC-buyandsell/von_agent - VON agents using indy-sdk
 
 
-### BCGov - DID-Auth [**^**](#contents)
+### BCGov - DID-Auth
 * <a href="https://github.com/bcgov/did-auth-extension" target="_blank">/bcgov/did-auth-extension</a> - DID Auth browser extension.
 * <a href="https://github.com/bcgov/http-did-auth-proxy" target="_blank">/bcgov/http-did-auth-proxy</a> - DID Auth HTTP proxy.
 * <a href="https://github.com/bcgov/did-auth-relying-party" target="_blank">/bcgov/did-auth-relying-party</a> - DID Auth relying party.
 
-### /PSPC-SPAC-buyandsell [**^**](#contents)
+### /PSPC-SPAC-buyandsell
 **Public Services and Procurement Canada: buyandsell.gc.ca --- Services publics et Approvisionnement Canada : Achatsetventes.gc.ca**
 
 * <a href="https://github.com/PSPC-SPAC-buyandsell/von_tails" target="_blank">/PSPC-SPAC-buyandsell/von_tails</a> - Tails file server for von_anchor issuer and holder-prover anchors
@@ -844,7 +759,7 @@ A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyper
 * <a href="https://github.com/PSPC-SPAC-buyandsell/von_conx" target="_blank">/PSPC-SPAC-buyandsell/von_conx</a> - Reference implementation (sample) for a VON Connector using tools of VON_X
 * <a href="https://github.com/PSPC-SPAC-buyandsell/demo-agent" target="_blank">/PSPC-SPAC-buyandsell/demo-agent</a> - agent and api wrapper code base
 
-## Selfkey Foundation [**^**](#contents)
+## Selfkey Foundation
 
 * <a href="https://github.com/SelfKeyFoundation/selfkeyfoundation.github.io" target="_blank">/SelfKeyFoundation/selfkeyfoundation.github.io</a>
 * <a href="https://github.com/SelfKeyFoundation/selfkey-developers" target="_blank">/SelfKeyFoundation/selfkey-developers</a> - SelfKey Developer Site
@@ -868,13 +783,13 @@ A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyper
 * <a href="https://github.com/SelfKeyFoundation/Marketplaces" target="_blank">/SelfKeyFoundation/Marketplaces</a> - Marketplace Applications
 * <a href="https://github.com/SelfKeyFoundation/identity-wallet-mobile" target="_blank">/SelfKeyFoundation/identity-wallet-mobile</a> - The React Native mobile application for SelfKey.
 
-### Selfkey DID [**^**](#contents)
+### Selfkey DID
 
 * <a href="https://github.com/SelfKeyFoundation/selfkey-did" target="_blank">/SelfKeyFoundation/selfkey-did</a> - Library for DID managemente and issuance and verification of verifiable credentials
 * <a href="https://github.com/SelfKeyFoundation/selfkey-claim-registry" target="_blank">/SelfKeyFoundation/selfkey-claim-registry</a> - Public claim registry for Selfkey DIDs
 * <a href="https://github.com/SelfKeyFoundation/selfkey-did-resolver" target="_blank">/SelfKeyFoundation/selfkey-did-resolver</a> - Library for resolving DIDs in SelfKey method space
 
-### Selfkey SmartContracts [**^**](#contents)
+### Selfkey SmartContracts
 * <a href="https://github.com/SelfKeyFoundation/selfkey-commerce" target="_blank">/SelfKeyFoundation/selfkey-commerce</a> - Payment, Escrow and Affiliate Smart Contract Development
 * <a href="https://github.com/SelfKeyFoundation/selfkey-token" target="_blank">/SelfKeyFoundation/selfkey-token</a> - Crowdsale Smart Contract
 * <a href="https://github.com/SelfKeyFoundation/selfkey-identity" target="_blank">/SelfKeyFoundation/selfkey-identity</a> - Smart contracts supporting SelfKey identity platform
@@ -882,12 +797,12 @@ A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyper
 * <a href="https://github.com/SelfKeyFoundation/identity-contracts" target="_blank">/SelfKeyFoundation/identity-contracts</a> - Development on self-sovereign identity and verifiable claims
 * <a href="https://github.com/SelfKeyFoundation/selfkey-name-registry" target="_blank">/SelfKeyFoundation/selfkey-name-registry</a> - Smart contract for registering names
 
-### Selfkey Javascript [**^**](#contents)
+### Selfkey Javascript
 * <a href="https://github.com/SelfKeyFoundation/keythereum" target="_blank">/SelfKeyFoundation/keythereum</a> - Forked from ethereumjs/keythereum - Create, import and export Ethereum keys
 * <a href="https://github.com/SelfKeyFoundation/selfkey-js-client" target="_blank">/SelfKeyFoundation/selfkey-js-client</a> - JavaScript Client Library for integrating Login with SelfKey
 * <a href="https://github.com/SelfKeyFoundation/selfkey-nodejs-demo" target="_blank">/SelfKeyFoundation/selfkey-nodejs-demo</a> - Demo Site For Testing SelfKey Marketplace and LWS Integrations
 
-### Selfkey Assorted [**^**](#contents)
+### Selfkey Assorted
 
 * <a href="https://github.com/SelfKeyFoundation/trezor-wallet-provider" target="_blank">/SelfKeyFoundation/trezor-wallet-provider</a> - Forked from HartgerV/trezor-wallet-provider - Trezor wallet provider for the Web3 ProviderEngine
 * <a href="https://github.com/SelfKeyFoundation/lws-app" target="_blank">/SelfKeyFoundation/lws-app</a> - lws-app react app prototype
@@ -898,13 +813,13 @@ A React component for building Web forms from JSON Schema.
 
 
 
-## Ockam Network [**^**](#contents)
+## Ockam Network
 
 * <a href="https://github.com/ockam-network/ockam" target="_blank">/ockam-network/ockam</a> - Tools for building identity, trust and interoperability into connected devices.
 * <a href="https://github.com/ockam-network/did" target="_blank">/ockam-network/did</a> - A golang package to work with Decentralized Identifiers (DIDs)
 * <a href="https://github.com/ockam-network/did-method-spec" target="_blank">/ockam-network/did-method-spec</a> - Ockam DID Method Specification
 
-## Ontology [**^**](#contents)
+## Ontology
 
 * <a href="https://github.com/ontio/ontology" target="_blank">/ontio/ontology</a> - Official Go implementation of the Ontology protocol. https://dev-docs.ont.io/#/
 * <a href="https://github.com/ontio/documentation" target="_blank">/ontio/documentation</a> - Ontology Documents https://ont.io
@@ -914,7 +829,7 @@ A React component for building Web forms from JSON Schema.
 * <a href="https://github.com/ontio/ontology-dapi" target="_blank">/ontio/ontology-dapi</a> - A lightweight Javascript library for interacting with Ontology node and Ontology wallets
 * <a href="https://github.com/ontio/ontology-ddxf" target="_blank">/ontio/ontology-ddxf</a> - Distributed data eXchange Framework,which allows to build data marketplaces . 
 
-## TangleID [**^**](#contents)
+## TangleID
 
 * <a href="https://github.com/TangleID/TangleID/" target="_blank">/TangleID/TangleID/</a> - Secure self-sovereign identity built on IOTA/Tangle
 identity
@@ -926,7 +841,7 @@ identity
   - Forked from lord/slate
 * <a href="https://github.com/TangleID/sample-issuer/" target="_blank">/TangleID/sample-issuer/</a> - TangleID Sample Issuer
 
-## Simbol [**^**](#contents)
+## Simbol
 
 AR\VR\Mixed
 
@@ -938,24 +853,18 @@ AR\VR\Mixed
 
 
 
-## Assorted [**^**](#contents)
+## Assorted
 
 <a href="https://github.com/bnelson777/id.ly" target="_blank">/bnelson777/id.ly</a> - Cross-platform self-sovereign identity business card and messaging app
 
 
-## /peacekeeper/blockchain-identity [**^**](#contents)
+## /peacekeeper/blockchain-identity
 
 >Projects/companies working on blockchain and identity
 
 * [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity) - The Original list of Blockchain Identity Initiatives. 
 
 Maintained by, [Markus Sabadello (Peacekeeper)](https://medium.com/@markus.sabadello)
-
-## /decentralized-id/decentralized-id.github.io [**^**](#contents)
-You can join in on the research, and help build this educational resource.
-
-* [/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id) is becoming
-* [decentralized-id.com](https://github.com/decentralized-id/decentralized-id.github.io)
 
 ---
 

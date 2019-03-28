@@ -1,5 +1,7 @@
-
-## Decentralized Identity Foundation
+---
+title: Decentralized Identity Foundation - DIF
+layout: single
+---
 
   >A key piece of the decentralized identity equation is how people, organizations, and devices can be identified and located without centralized systems of identifiers (e.g. email addresses). DIF members are actively working on protocols and implementations that enable creation, resolution, and discovery of decentralized identifiers and names across decentralized systems, like blockchains and distributed ledgers.
 
@@ -91,7 +93,7 @@ DIF members, who share the goal of “building an open source decentralized iden
 
 
 
-## /decentralized-identity - GitHub [**^**](#contents)
+## /decentralized-identity - GitHub 
 
 * <a href="https://github.com/decentralized-identity/decentralized-identity.github.io" target="_blank">/decentralized-identity/decentralized-identity.github.io</a>  - Site for the open source, community-driven group of dev and organizations working toward an interoperable, decentralized identity ecosystem
 * <a href="https://github.com/decentralized-identity/org" target="_blank">/decentralized-identity/org</a> - DIF docs, wiki, and organizational material
@@ -99,7 +101,7 @@ DIF members, who share the goal of “building an open source decentralized iden
 * <a href="https://github.com/decentralized-identity/universal-registrar" target="_blank">/decentralized-identity/universal-registrar</a> - Specifications and implementation of a universal identifier registrar
 * <a href="https://github.com/decentralized-identity/attestations" target="_blank">decentralized-identity/attestations</a> - Attestation API implementations for various languages and platforms.
 
-### DIF - DID [**^**](#contents)
+### DIF - DID 
 * <a href="https://github.com/decentralized-identity/did-methods" target="_blank">/decentralized-identity/did-methods</a> - DID Method specs, docs, and materials
 * <a href="https://github.com/decentralized-identity/did-common-typescript" target="_blank">/decentralized-identity/did-common-typescript
 </a> - A common bundle of shared code and modules for working with DIDs, DID Documents, and other DID-related activities
@@ -113,16 +115,16 @@ DIF members, who share the goal of “building an open source decentralized iden
 * <a href="https://github.com/decentralized-identity/http-did-auth-proxy" target="_blank">/decentralized-identity/http-did-auth-proxy</a> - Forked from bcgov/http-did-auth-proxy
 DID Auth HTTP proxy.
 
-### DIF - DID-Auth [**^**](#contents)
+### DIF - DID-Auth 
 * <a href="https://github.com/decentralized-identity/did-auth-jose" target="_blank">/decentralized-identity/did-auth-jose</a> - JOSE-based implementation of DID Authenticated Encryption
 
-### DIF - Sidetree [**^**](#contents)
+### DIF - Sidetree 
 * <a href="https://github.com/decentralized-identity/sidetree-ipfs" target="_blank">/decentralized-identity/sidetree-ipfs</a> - IPFS module for storing and accessing Sidetree entity operation data via content addressable storage
 * <a href="https://github.com/decentralized-identity/sidetree-core" target="_blank">/decentralized-identity/sidetree-core</a> - The blockchain-agnostic server implementation of the Sidetree protocol.
 * <a href="https://github.com/decentralized-identity/sidetree-bitcoin" target="_blank">/decentralized-identity/sidetree-bitcoin</a> - Blockchain-specific code for the Sidetree-based DID Method implementation on Bitcoin
 * <a href="https://github.com/decentralized-identity/ion" target="_blank">/decentralized-identity/ion</a> - DID Method implementation using the Sidetree protocol on top of Bitcoin
 
-### DIF - Hub [**^**](#contents)
+### DIF - Hub 
 * <a href="https://github.com/decentralized-identity/hub-sdk-js-sample" target="_blank">/decentralized-identity/hub-sdk-js-sample</a> - Sample app demonstrating use of the DIF Identity Hub JavaScript SDK.
 * <a href="https://github.com/decentralized-identity/hub-sdk-js" target="_blank">/decentralized-identity/hub-sdk-js</a> - JavaScript SDK for interacting with Identity Hubs
 * <a href="https://github.com/decentralized-identity/hub-common-js" target="_blank">/decentralized-identity/hub-common-js</a> - Common interfaces for working with Identity Hubs in JavaScript/TypeScript
@@ -130,7 +132,7 @@ DID Auth HTTP proxy.
 * <a href="https://github.com/decentralized-identity/identity-hub" target="_blank">/decentralized-identity/identity-hub</a> - Storage and compute nodes for decentralized identity data and interactions
 * <a href="https://github.com/decentralized-identity/hub-node-reference" target="_blank">/decentralized-identity/hub-node-reference</a> - The official Identity Hub reference implementation bundle for Node.js
 
-### DIF - Uniresolver [**^**](#contents)
+### DIF - Uniresolver 
 
 * <a href="https://github.com/decentralized-identity/universal-resolver" target="_blank">/decentralized-identity/universal-resolver</a> - Universal Resolver implementation and drivers.
 * <a href="https://github.com/decentralized-identity/universal-resolver-frontend" target="_blank">/decentralized-identity/universal-resolver-frontend</a> - Frontend web UI for Universal Resolver

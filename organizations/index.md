@@ -1,4 +1,7 @@
-# DID-SSI Organizations
+---
+title: DID-SSI Organizations
+layout: single
+---
 
 work in progress....
 

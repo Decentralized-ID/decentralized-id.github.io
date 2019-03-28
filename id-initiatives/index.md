@@ -1,4 +1,7 @@
-# Decentralized Identity Initiatives
+---
+title: Decentralized Identity Initiatives
+layout: single
+---
 
 ## Directory
 

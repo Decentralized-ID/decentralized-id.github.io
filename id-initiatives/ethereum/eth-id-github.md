@@ -1,4 +1,7 @@
-# Ethereum Decentralized-Identity Github Repositories
+---
+title: Ethereum Decentralized-Identity Github Repositories
+layout: single
+---
 
 A listing of any Github Repositories for Ethereum Based Decentralized Identity specifications and applications.
 
@@ -17,7 +20,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 * [Cryptonomica](#cryptonomica-)
 
 
-## EIP - ERC [**^**](#contents)
+## EIP - ERC
 
 * [ethereum/EIPs/issues/1056](https://github.com/ethereum/EIPs/issues/1056) - ERC: Lightweight Identity
   - This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
@@ -30,7 +33,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
   - This presents a method to replace the usual signup/login design pattern with a minimal ethereum native scheme, that doesn’t require passwords, backing up private keys nor typing seed phrases. 
 
 
-## Jolocom [**^**](#contents)
+## Jolocom
 
 * <a href="https://github.com/jolocom/docs" target="_blank">/jolocom/docs</a> - Documentation
 * <a href="https://github.com/jolocom/smartwallet-app" target="_blank">/jolocom/smartwallet-app</a> - A decentralized self sovereign identity solution developed by Jolocom.
@@ -46,7 +49,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 * <a href="https://github.com/jolocom/registry-contract" target="_blank">/jolocom/registry-contract</a> - A basic smart contract on top of the Ethereum network that registers mappings between DID and IPFS DDO hashes.
 * <a href="https://github.com/jolocom/smartwallet-webid-proxy" target="_blank">/jolocom/smartwallet-webid-proxy</a> - WebID proxy service
 
-## uPort [**^**](#contents)
+## uPort
 
 * <a href="https://github.com/uport-project/developers" target="_blank">/uport-project/developers</a> - Developer portal for documentation and application management
 * <a href="https://github.com/uport-project/specs" target="_blank">/uport-project/specs</a> - uPort Protocol Specs
@@ -64,7 +67,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 * <a href="https://github.com/uport-project/uport-bounties" target="_blank">/uport-project/uport-bounties</a>- A Library of uPort Bounties
 * <a href="https://github.com/dconroy/CityKey" target="_blank">/dconroy/CityKey</a> - Adding uPort support to Chicago CityKey, adding all the benefits of Self Sovereign Identity to municipal services. http://citykeychained.com
 
-### uPort DID [**^**](#contents)
+### uPort DID
 
 * <a href="https://github.com/uport-project/ethr-did-resolver" target="_blank">/uport-project/ethr-did-resolver</a> - DID resolver for Ethereum Addresses with support for key management
 * <a href="https://github.com/uport-project/secp256k1-did-resolver" target="_blank">/uport-project/secp256k1-did-resolver</a> - Resolve DID documents for secp256k1 public keys
@@ -79,7 +82,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 * <a href="https://github.com/uport-project/uport-did-resolver" target="_blank">/uport-project/uport-did-resolver</a> - DID resolver for uPort identities
 
 
-### uPort Identification [**^**](#contents)
+### uPort Identification
 * <a href="https://github.com/uport-project/openid" target="_blank">/uport-project/openid</a> - uPort openid
 * <a href="https://github.com/uport-project/kmnid" target="_blank">/uport-project/kmnid</a> - A kotlin implementation of MNID
 * <a href="https://github.com/uport-project/uport-registry" target="_blank">/uport-project/uport-registry</a> - Core uPort registry contract for linking attributes to uPort identities.
@@ -89,7 +92,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 
 
 
-### uPort Mobile [**^**](#contents)
+### uPort Mobile
 
 * <a href="https://github.com/uport-project/uport-android-sdk" target="_blank">/uport-project/uport-android-sdk</a> - Collections of tools and helper libraries for android to issue and use identities on the uPort platform
 * <a href="https://github.com/uport-project/uport-android-signer" target="_blank">/uport-project/uport-android-signer</a> - android ETH signer library to be used by uport app and sdk
@@ -104,7 +107,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 
 
 
-### uPort Lambda [**^**](#contents)
+### uPort Lambda
 
 * <a href="https://github.com/uport-project/lambda-chasqui" target="_blank">/uport-project/lambda-chasqui</a> - running_man Messenger service running_man
 * <a href="https://github.com/uport-project/lambda-agora" target="_blank">/uport-project/lambda-agora</a> - An open public space where an assembly of applications can share details and be discovered (pre-alpha)
@@ -119,7 +122,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 * <a href="https://github.com/uport-project/lambda-nisaba" target="_blank">/uport-project/lambda-nisaba</a> - Lambda functions for anti-sybill
 * <a href="https://github.com/uport-project/lambda-unnu" target="_blank">/uport-project/lambda-unnu</a> - Creator of Identities
 
-### uPort React [**^**](#contents)
+### uPort React
 
 * <a href="https://github.com/uport-project/react-native-uport-signer" target="_blank">/uport-project/react-native-uport-signer</a> 
 * <a href="https://github.com/uport-project/react-native-signer-demo" target="_blank">/uport-project/react-native-signer-demo</a> 
@@ -128,7 +131,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 * <a href="https://github.com/uport-project/react-uport-box" target="_blank">/uport-project/react-uport-box</a> - Truffle and React/Redux boilerplate with uPort Connect
 * <a href="https://github.com/uport-project/react-native-passcode-android" target="_blank">/uport-project/react-native-passcode-android</a> - Forked from aldigjo/react-native-passcode-android
 
-### uPort Assorted [**^**](#contents)
+### uPort Assorted
 * <a href="https://github.com/uport-project/champagne-dapp" target="_blank">/uport-project/champagne-dapp</a> - Champagne Project dApp
 * <a href="https://github.com/uport-project/tweetnacl-k" target="_blank">/uport-project/tweetnacl-k</a> - kotlin implementation of tweetnacl
 * <a href="https://github.com/uport-project/sample-data-generator" target="_blank">/uport-project/sample-data-generator</a>
@@ -143,7 +146,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 
 
 
-## Spidchain [**^**](#contents)
+## Spidchain
 * <a href="https://github.com/SpidChain/eth-lightwallet" target="_blank">/SpidChain/eth-lightwallet</a> - Forked from ConsenSys/eth-lightwallet
   - Lightweight JS Wallet for Node and the browser
 * <a href="https://github.com/SpidChain/truffle" target="_blank">/SpidChain/truffle</a> - Forked from trufflesuite/truffle
@@ -155,7 +158,7 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 Example of using NodeJs with Ethereum
 
 
-## Cryptonomica [**^**](#contents)
+## Cryptonomica
 * <a href="https://github.com/Cryptonomica/cryptonomica" target="_blank">/Cryptonomica/cryptonomica</a> - Cryptonomica keys server
 * <a href="https://github.com/Cryptonomica/cryptonomica.github.io" target="_blank">/Cryptonomica/cryptonomica.github.io</a> - Cryptonomica frontend
 * <a href="https://github.com/Cryptonomica/arbitration-rules" target="_blank">/Cryptonomica/arbitration-rules</a> - Cryptonomica Arbitration Rules

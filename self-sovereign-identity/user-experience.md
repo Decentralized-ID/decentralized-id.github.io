@@ -1,4 +1,10 @@
-# How would self-sovereign identity work for the user?
+---
+title: How would self-sovereign identity work for the user?
+layout: single
+classes: wide
+toc: false
+---
+
 Adapted from [A gentle introduction to self-sovereign-identity](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/) by [@antonylewis](https://github.com/antonylewis). I think this could use some polishing, but this is a good start, and a good example of a basic necessary SSI explainer.
 
 You would have an app on a smartphone or computer, some sort of “identity wallet” where identity data would be stored on the hard drive of your device, or with an agent of your choosing, but crucially not stored in a central repository.

@@ -1,5 +1,9 @@
-# IBM Identity
-**Specifications, Literature, Applications**
+---
+title: IBM Identity
+layout: single
+classes: wide
+toc: false
+---
 
 ![](https://i.imgur.com/CvZI7R1.png)
 
@@ -13,7 +17,7 @@
 * [SecureKey](http://securekey.com/): [partners with IBM](http://www-03.ibm.com/press/us/en/pressrelease/51841.wss) to enable a new digital identity and attribute sharing network based on Hyperledger Fabric blockchain.
 
 
-### /IBM-Blockchain-Identity [**^**](#contents)
+## /IBM-Blockchain-Identity
 
 <a href="https://github.com/IBM-Blockchain-Identity/indy-tutorial-sandbox" target="_blank">/IBM-Blockchain-Identity/indy-tutorial-sandbox</a> - Forked from brycecurtis/indy-tutorial-sandbox
 A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyperledger Indy concepts.

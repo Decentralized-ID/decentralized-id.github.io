@@ -1,0 +1,16 @@
+{
+    "name": "Source\u29c9Crypto",
+    "short_name": "Source\u29c9Crypto",
+
+    {
+        "icons": [
+            {
+                "src": "https://infominer.id/SourceCrypto/assets/icons/android-chrome-144x144.png",
+                "sizes": "144x144",
+                "type": "image/png"
+            }
+        ],
+        "theme_color": "#ffffff",
+        "background_color": "#ffffff",
+        "display": "standalone"
+    

@@ -1,8 +1,11 @@
-# The Evolution of Self Sovereign Identity (Draft Seeking Feedback)
-
-;TLDR A start at examining leading thought around SSI since 2016, and presenting the idea of "modularizing" essential components of SSI documentation.
-
 ---
+title: The Evolution of Self Sovereign Identity (Draft Seeking Feedback)
+description: A start at examining leading thought around SSI since 2016, and presenting the idea of "modularizing" essential components of SSI documentation.
+layout: single
+classes: wide
+toc: false
+---
+
 
 Christopher Allen's seminal work, [The Path to Self Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md) continues to be an important and influential document for the Self Sovereign Identity community and movement. Rightly so, Allen does a superb job of outlining where digital identity has come from and where its going. However, Christopher intended for the [Principles of SSI](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), gathered from the leading thought on digital identity, to be the start of a conversation.
 
@@ -14,7 +17,7 @@ That October, [Joe Andrieu](https://github.com/jandrieu) submitted [A Technology
 
 I decided to put the **10 Principles of SSI** up next to Joe Andrieu's **Characteristics of SSI** 
 
-* [SSI Principles vs. Characteristics](https://github.com/infominer33/awesome-decentralized-id/blob/master/self-sovereign/ssi-principles-vs-characteristics.md)
+* [SSI Principles vs. Characteristics](ssi-principles-vs-characteristics)
 
 Which should also be considered against:
 

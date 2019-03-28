@@ -1,4 +1,10 @@
-# uPort
+---
+title: uPort
+layout: single
+classes: wide
+toc: false
+---
+
 
 ![](https://i.imgur.com/sPAP2g3.png)
 

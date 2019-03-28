@@ -1,5 +1,9 @@
-# Bitcoin Identity Standards and Applications
-
+---
+title: Bitcoin Identity Standards and Applications
+layout: single
+classes: wide
+toc: false
+---
 ![](https://i.imgur.com/q32lAXY.png)
 
 ## Contents
@@ -17,7 +21,7 @@
   * [btcr tx conversion playground](https://weboftrustinfo.github.io/btcr-tx-playground.github.io/) 
   
 
-### RWot BTCR [**^**](#contents)
+### RWot BTCR
 
 * <a href="https://github.com/WebOfTrustInfo/btcr-tx-playground.github.io" target="_blank">/WebOfTrustInfo/btcr-tx-playground.github.io</a>
 * <a href="https://github.com/WebOfTrustInfo/btcr-did-tools-js" target="_blank">/WebOfTrustInfo/btcr-did-tools-js</a>
@@ -34,7 +38,7 @@
 * [Spidchain](http://www.spidchain.com/) [[**wp**](https://drive.google.com/file/d/0B89WE3IIHmy1Z0ZSSWVmVEtaaG8/view)]
    * "offers a platform for self-sovereign identity, including desktop and mobile apps for end-users. It uses Decentralized Identifiers (DIDs) - backed by optionally Bitcoin or Ethereum - to implement a marketplace for verifiable claims. The Spidchain applications allow individuals to create, recover, and revoke DIDs, to authenticate, to sign and verify files and claims, and more."
    
-### Spidchain Bitcoin Repos [**^**](#contents)
+### Spidchain Bitcoin Repos
 * <a href="https://github.com/SpidChain/spidchain-btcr" target="_blank">/SpidChain/spidchain-btcr</a> - An implementation of the btcr standard for self sovereign distributed digital identity
 * <a href="https://github.com/SpidChain/electrumx" target="_blank">/SpidChain/electrumx</a> Forked from kyuupichan/electrumx
   - Alternative implementation of spesmilo/electrum-server

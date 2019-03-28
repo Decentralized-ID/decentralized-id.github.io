@@ -1,4 +1,7 @@
-# Decentralized-ID Workshops
+---
+title: Decentralized-ID Workshops
+layout: single
+---
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 

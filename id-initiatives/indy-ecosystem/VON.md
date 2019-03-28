@@ -1,4 +1,7 @@
-# BCGov's Verifiable Organizations Network 
+---
+title: BCGov's Verifiable Organizations Network 
+layout: single
+---
 
 <table>
   <tr>

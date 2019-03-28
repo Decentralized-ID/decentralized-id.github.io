@@ -1,5 +1,7 @@
-# State Sponsored Identity Initiatives
-
+---
+title: State Sponsored Identity Initiatives
+layout: single
+---
 
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)
 
@@ -11,7 +13,7 @@
   * [Switzerland](#switzerland-)
   * [USA](#usa-)
 
-## Canada [**^**](#contents) [**>**](#Hyperledger-Indy)
+## Canada
 ![](https://i.imgur.com/1QmQiy2.png)
 
 >VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
@@ -26,7 +28,7 @@
 <a href="https://twitter.com/sboots/status/1070320318487584768"><img src="https://i.imgur.com/wdbN3Ld.png"/></a>
 
 
-## European Union [**^**](#contents)
+## European Union
 ![](https://i.imgur.com/DuQXLhs.png)
 
 * [EU BLOCKCHAIN OBSERVATORY AND FORUM—Workshop Report e-Identity](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
@@ -36,7 +38,7 @@
 * [Government services and digital identity](https://www.eublockchainforum.eu/sites/default/files/research-paper/20180801_government_services_and_digital_identity.pdf)
 
 
-## Netherlands [**^**](#contents)
+## Netherlands
 
 ![](https://i.imgur.com/CVA9t94.png)
 
@@ -45,18 +47,18 @@
 * [TrustChain: A Sybil-resistant scalable blockchain - Presentation](http://msn.iecs.fcu.edu.tw/report/download.php?)
 * [Dutch Blockchain Coalition](https://www.dutchdigitaldelta.nl/en/blockchain) [[**ϟ**](https://dutchdigitaldelta.nl/uploads/pdf/Dutch-Blockchain-Coalition-action-agenda-ENG.pdf)]
 
-## Spain [**^**](#contents)
+## Spain
 ![](https://i.imgur.com/JKDcTOK.png)
 
 * [Alastria](https://alastria.io/) [[**G**](https://github.com/alastria/alastria-identity)] 
    * a non-profit consortium building a national blockchain ecosystem for Spain. The security and veracity of information will be ensured through the identification of natural and legal persons, while at the same time allowing citizens to have control over their personal information in a transparent way following the guidelines set by the European Union.
 
-## Switzerland [**^**](#contents)
+## Switzerland
 ![](https://i.imgur.com/yuP8j7V.png)
 
 * [Zug ID: Exploring the First Publicly Verified Blockchain Identity](https://medium.com/uport/zug-id-exploring-the-first-publicly-verified-blockchain-identity-38bd0ee3702) (uport\ethereum)
 
-## USA [**^**](#contents)
+## USA
 ![](https://i.imgur.com/5TAfj82.png)
 
 * [Illinois Blockchain Initiative](https://illinoisblockchain.tech/) — [partners with Evernym to launch birth registration pilot](https://illinoisblockchain.tech/illinois-partners-with-evernym-to-launch-birth-registration-pilot-f2668664f67c)

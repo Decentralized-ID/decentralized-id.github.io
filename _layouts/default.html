@@ -1,82 +1,42 @@
+---
+---
+
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<!--
+  Minimal Mistakes Jekyll Theme 4.15.2 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
-    <title>{{ site.author }} | {{ page.title }}</title>
-    <!-- Global Site Tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132558656-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-132558656-1');
-    </script>
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-    {% seo %}
-
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    {% include head.html %}
+    {% include head/custom.html %}
   </head>
-  <body>
-    <div class="wrapper">
-      <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        {% if site.description or site.github.project_tagline %}
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-        {% endif %}
-        <p class="view"><a href="https://github.com/infominer33/DIDecentralized/tree/master/{{page.path}}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        <ul>
-          <li><a href="https://github.com/infominer33/DIDecentralized/tree/master/{{page.path}}">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-      <section>
-      <table>
-        <tr>
-          <td><a href="https://infominer.id/">&#x29C9;</a></td>
-          <td><a href="https://infominer.id/bitcoin-history/">Bitcoin History</a></td> 
-          <td><a href="https://infominer.id/learn-crypto-trading/">Crypto-Trading</a></td> 
-          <td><a href="https://infominer.id/SourceCrypto/">Source&#x29C9;Crypto</a></td> 
-        </tr>
-        <tr>
-          <th><a href="{{ site.rooturl }}">DIDecentral</a></th> 
-          <th><a href="{{ site.rooturl }}/standards/">Standards</a></th> 
-          <th><a href="{{ site.rooturl }}/ethereum/">Ethereum</a></th> 
-          <th><a href="{{ site.rooturl }}/indy-ecosystem/">Indy</a></th> 
-        </tr>
-      </table>
 
-  
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+
+    {% include_cached browser-upgrade.html %}
+    {% include_cached masthead.html %}
+
+    <div class="initial-content">
       {{ content }}
-
-      <table>
-        <tr>
-          <th><a href="https://infominer.id/">&#x29C9;</a></th>
-          <th><a href="{{ site.rooturl }}">DIDecentral</a></th> 
-          <th><a href="{{ site.rooturl }}/workshops/rebooting-web-of-trust.html">RWoT</a></th> 
-          <th><a href="{{ site.rooturl }}/ethereum/">Ethereum</a></th> 
-          <th><a href="{{ site.rooturl }}/identity.github.html">ID GitHub</a></th> 
-        </tr>
-      </table>
-
-      {% include share-bar.html %}
-
-    </section>
-
-
     </div>
-    <footer>
-      <p><a href="https://infominer.id/">&#x29C9; Infominer</a> — 
-        Creative Commons <a href="https://creativecommons.org/publicdomain/zero/1.0/">(CC0 1.0)</a> 
-        Public Domain — <a href="https://github.com/infominer33/DIDecentralized/blob/master/{{page.path}}">Edit this page</a>.</p>
-    </footer>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html %}
+      </div>
+    {% endif %}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
   </body>
 </html>
