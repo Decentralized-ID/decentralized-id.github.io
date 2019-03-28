@@ -4,14 +4,14 @@
 
 * [XDI](#xdi-)
   * [OASIS XDI TC Technical Committee on GitHub](#oasis-xdi-tech-committee-on-github-)
-  * [W3C](#w3c-)
-    * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
-    * [Verifiable Claims](#verifiable-claims-)
-  * [Decentralized Key Managment DKMS](#decentralized-key-management-agents-)
-  * [DID Auth](#did-auth-) 
-  * [Blockcerts](#blockcerts-)
-  * [Schema](#schema-)
-
+* [W3C](#w3c-)
+  * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
+  * [Verifiable Claims](#verifiable-claims-)
+* [Decentralized Key Managment DKMS](#decentralized-key-management-agents-)
+* [DID Auth](#did-auth-) 
+* [Ethereum ERC-EIP](#ethereum-erc-eip-)
+* [Blockcerts](#blockcerts-)
+* [Schema](#schema-)
 
 
 ## XDI [**^**](#contents)
@@ -34,7 +34,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 * <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-dita">/OASIS-XDI-Technical-Committee/xdi-spec-dita</a> - XDI Specifications (DITA)
 
 
-### W3C [**^**](#contents)
+## W3C [**^**](#contents)
 
 ![](https://imgur.com/Lz6RTysl.png)
 
@@ -51,7 +51,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 ![](https://imgur.com/6MLNgXal.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
-#### DID the Decentralized Identifier [**^**](#contents) 
+### DID the Decentralized Identifier [**^**](#contents) 
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
 
@@ -85,7 +85,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 
 <a href="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png"><img src="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png?w=500"/></a>
 
-#### Verifiable Claims [**^**](#contents) 
+### Verifiable Claims [**^**](#contents) 
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/nsZ0X7r.png"/></a>
 
@@ -95,7 +95,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 * [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
 
 
-### DID Auth [**^**](#contents) 
+## DID Auth [**^**](#contents) 
 
 ![](https://imgur.com/XMaq5cil.png)
 
@@ -107,7 +107,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 
 
-### Decentralized Key Management-Agents [**^**](#contents) 
+## Decentralized Key Management-Agents [**^**](#contents) 
 
 <img src="https://i.imgur.com/0SLcjUv.png"/>
 
@@ -121,6 +121,31 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 
 * <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY" target="_blank">Microsoft- Decentralized Identity — Own and Control Your Identity.</a>
 ![](https://i.imgur.com/ozOLCuW.png)
+
+## Ethereum ERC-EIP [**^**](#contents)
+
+* [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
+* [ERC1056 ❤ ERC780 — an open identity and claims protocol for Ethereum](https://medium.com/uport/erc1056-erc780-an-open-identity-and-claims-protocol-for-ethereum-aef7207bc744)
+* [EIP-780 Ethereum Claims Registry](https://github.com/ethereum/EIPs/issues/780)
+* [EIP712](https://github.com/ethereum/EIPs/blob/f29527ab39357548b06b29e937a48f06ae099de7/EIPS/eip-712.md) - This is a standard for hashing and signing of typed structured data
+* [ERC-1484 Digital Identity Aggregator](https://github.com/ethereum/EIPs/issues/1495) —A protocol for aggregating digital identity information that's broadly interoperable with existing, proposed, and hypothetical future digital identity standards.
+* [EIP-1078](https://github.com/ethereum/EIPs/blob/ed621645c8f3bc5756492f327cda015f35d9f8da/EIPS/eip-1078.md) - 
+This presents a method to replace the usual signup/login design pattern with a minimal ethereum native scheme, that doesn’t require passwords, backing up private keys nor typing seed phrases. 
+* [ERC-1077 and ERC-1078: The magic of executable signed messages](https://ethereum-magicians.org/t/erc-1077-and-erc-1078-the-magic-of-executable-signed-messages-to-login-and-do-actions/351)
+* [ERC-EIP on GitHub](eth-id-github.html#eip---erc-) **>>**
+
+### ERC725-735 [**^**](#contents-)
+
+* [ERC725](https://github.com/ethereum/EIPs/issues/725) 
+  * The following describes standard functions for a unique identifiable proxy account to be used by humans, groups, organisations, objects and machines
+* [ERC735](https://github.com/ethereum/EIPs/issues/735) -  The following describes standard functions for adding, removing and holding of claims.
+  - These claims can attested from third parties (issuers) or self attested.
+* [Origin partners on ERC725](https://coinjournal.net/origin-protocol-partners-on-new-erc-725-alliance-to-promote-the-adoption-of-blockchain-based-identity-standard)
+* [Managing Identity with a UI—ERC-725](https://medium.com/originprotocol/managing-identity-with-a-ui-for-erc-725-5c7422b38c09)
+* [Ethereum ERC725 Blockchain Based, Self-Sovereign Identity Management](https://bitcoinexchangeguide.com/ethereum-erc725-blockchain-based-self-sovereign-identity-management/)
+* [erc725alliance.org](https://erc725alliance.org)
+* [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
+
 
 
 ### Blockcerts [**^**](#contents) 
