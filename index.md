@@ -1,6 +1,6 @@
 ---
 layout: "single"
-title       : DID - Digital Identity Decentralized
+title       : Identity Decentralized
 description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 twitter:
   card      : "summary_large_image"
