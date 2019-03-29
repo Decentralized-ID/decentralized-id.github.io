@@ -49,7 +49,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 * [ERC-1077 and ERC-1078: The magic of executable signed messages](https://ethereum-magicians.org/t/erc-1077-and-erc-1078-the-magic-of-executable-signed-messages-to-login-and-do-actions/351)
 * [ERC-EIP on GitHub](eth-id-github.html#eip---erc) **>>**
 
-### ERC725-735 [**^**](#contents)
+### ERC725-735 
 
 * [ERC725](https://github.com/ethereum/EIPs/issues/725) 
   * The following describes standard functions for a unique identifiable proxy account to be used by humans, groups, organisations, objects and machines
