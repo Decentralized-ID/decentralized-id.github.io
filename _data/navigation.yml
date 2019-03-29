@@ -1,8 +1,5 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    description: "This Page is in Active Development."
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "⧉InfoMine⧉"
     url: "https://infominer.id/"
   - title: "Bitcoin Historical Index"
@@ -18,33 +15,37 @@ main:
     url: "https://infominer.id/DIDecentralized"
 
 didnav:
+  - title: Short-Cuts
+    children:
+      - title: "Web Standards"
+        url: "/standards/"
+      - title: "GitHub Repositories"
+        url: "/identity-github/"
+      - title: "RWoT - Papers Index"
+        url: "/workshops/rebooting-web-of-trust/"
+      - title: "Blockchain Identity TOML"
+        description: "The contents of two Blockchain-ID TOML files."
+        url: "toml/id-toml.html"
+      - title: "Hyperledger Indy"
+        url: "/id-initiatives/indy-ecosystem/"
   - title: DIDecentral
     children:
       - title: "History"
         url: "/history/"
-      - title: "Web Standards"
-        url: "/standards/"
       - title: "DID Adoption"
         url: "/adoption/"
       - title: "GDPR"
         url: "/gdpr/"
       - title: "Humanitarian"
         url: "/humanitarian/"
-      - title: "GitHub Repositories"
-        url: "/identity-github/"
       - title: "Literature"
         url: "/literature/" 
       - title: "Workshops"
         url: "/workshops/"
-      - title: "RWoT - Papers"
-        url: "/workshops/rebooting-web-of-trust/"
       - title: "Video, Podcasts and Slideshare"
         url: "/media/"
       - title: "Hyperledger Global Forum - 2018"
         url: "/hgf-2018/"
-      - title: "Blockchain Identity TOML"
-        description: "The contents of two Blockchain-ID TOML files."
-        url: toml/id-toml.html
   - title: Self-Sovereign Identity
     children:
       - title: "SSI - Documentation Efforts"
