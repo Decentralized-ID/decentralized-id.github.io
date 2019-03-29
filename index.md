@@ -23,11 +23,11 @@ As you can see, I'm continually working to break up the info into separate files
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**>>**](#contents)] another page on site.
 
 ## Contents
-* [What is Decentralized ID?](#what-is-decentralized-id-)
-* [What is Self Sovereign Identity?](#self-sovereign-identity-)
-* [Directory](#directory-)
-* [Sources](#sources-)
-* [Tips Jar](#tips-jar-)
+* [What is Decentralized ID?](#what-is-decentralized-id)
+* [What is Self Sovereign Identity?](#self-sovereign-identity)
+* [Directory](#directory)
+* [Sources](#sources)
+* [Tips Jar](#tips-jar)
 
 ---
 
@@ -82,37 +82,38 @@ To other pages within this repository.
 
   * [SSI\DID History]({{ site.baseurl }}{{ site.baseurl }}/history/) 
     * [Losing Control over our Personal Information]({{ site.baseurl }}/history/#losing-control-over-our-personal-information) '80s
-    * [PGP - Web of Trust]({{ site.baseurl }}/history/#pgp---web-of-trust-) '91
-    * [International Planetwork Conference]({{ site.baseurl }}/history/#international-planetwork-conference-) '00s
-    * [XNS Public Trust Organization]({{ site.baseurl }}/history/#xns-public-trust-organization-)
-    * [The Augmented Social Network]({{ site.baseurl }}/history/#the-augmented-social-network-) '03
-    * [IDCommons]({{ site.baseurl }}/history/#idcommons-) '01
-    * [Identity Gang]({{ site.baseurl }}/history/#identity-gang-) '04
+    * [PGP - Web of Trust]({{ site.baseurl }}/history/#pgp---web-of-trust) '91
+    * [International Planetwork Conference]({{ site.baseurl }}/history/#international-planetwork-conference) '00s
+    * [XNS Public Trust Organization]({{ site.baseurl }}/history/#xns-public-trust-organization)
+    * [The Augmented Social Network]({{ site.baseurl }}/history/#the-augmented-social-network) '03
+    * [IDCommons]({{ site.baseurl }}/history/#idcommons) '01
+    * [Identity Gang]({{ site.baseurl }}/history/#identity-gang) '04
       * [Kim Cameron - Laws of Identity]({{ site.baseurl }}/history/#kim-cameron---laws-of-identity) 
-    * [Internet Identity Workshop—IIW]({{ site.baseurl }}/history/#internet-identity-workshop-) '05
-    * [W3C Credentials Community Group]({{ site.baseurl }}/history/#w3c-credentials-community-group-) '14 
-    * [Bitnation]({{ site.baseurl }}/history/#bitnation-) '15
-    * [The United Nations Sustainable Development Goals]({{ site.baseurl }}/history/#the-united-nations-sustainable-development-goals-) '15
-    * [Rebooting-Web-of-Trust (/RWoT)]({{ site.baseurl }}/history/#rebooting-the-web-of-trust-)
-    * [Evernym]({{ site.baseurl }}/history/#evernym-)
-    * [ID2020 and the GDPR]({{ site.baseurl }}/history/#id2020-and-the-gdpr-) '16
-    * [The End of 2016]({{ site.baseurl }}/history/#the-end-of-2016-)
-    * [Decentralized Identity Foundation]({{ site.baseurl }}/history/#decentralized-identity-foundation-) '17
-    * [DID Standards History]({{ site.baseurl }}/history/#standards-history-)
+    * [Internet Identity Workshop—IIW]({{ site.baseurl }}/history/#internet-identity-workshop) '05
+    * [W3C Credentials Community Group]({{ site.baseurl }}/history/#w3c-credentials-community-group) '14 
+    * [Bitnation]({{ site.baseurl }}/history/#bitnation) '15
+    * [The United Nations Sustainable Development Goals]({{ site.baseurl }}/history/#the-united-nations-sustainable-development-goals) '15
+    * [Rebooting-Web-of-Trust (/RWoT)]({{ site.baseurl }}/history/#rebooting-the-web-of-trust)
+    * [Evernym]({{ site.baseurl }}/history/#evernym)
+    * [ID2020 and the GDPR]({{ site.baseurl }}/history/#id2020-and-the-gdpr) '16
+    * [The End of 2016]({{ site.baseurl }}/history/#the-end-of-2016)
+    * [Decentralized Identity Foundation]({{ site.baseurl }}/history/#decentralized-identity-foundation) '17
+    * [DID Standards History]({{ site.baseurl }}/history/#standards-history)
 * [Self Sovereign Identity]({{ site.baseurl }}/self-sovereign-identity) 
   * [Evolution of SSI]({{ site.baseurl }}/evolution-of-ssi/) 
   * [SSI Principles vs Characteristics]({{ site.baseurl }}/ssi-principles-vs-characteristics/) 
   * [User Experience]({{ site.baseurl }}/user-experience/) 
 * [DID Related Web Standards]({{ site.baseurl }}/standards) 
-  * [XDI]({{ site.baseurl }}/standards/#xdi-) 
-    * [OASIS XDI TC Technical Committee on GitHub]({{ site.baseurl }}/standards/#oasis-xdi-tech-committee-on-github-) 
-  * [W3C]({{ site.baseurl }}/standards/#w3c-) 
-    * [DID the Decentralized Identifier]({{ site.baseurl }}/standards/#did-the-decentralized-identifier-) 
-    * [Verifiable Claims]({{ site.baseurl }}/standards/#verifiable-claims-) 
-  * [Decentralized Key Managment DKMS]({{ site.baseurl }}/standards/#decentralized-key-management-agents-) 
-  * [DID Auth]({{ site.baseurl }}/standards/#did-auth-) 
-  * [Blockcerts]({{ site.baseurl }}/standards/#blockcerts-) 
-  * [Schema]({{ site.baseurl }}/standards/#schema-) 
+  * [XDI]({{ site.baseurl }}/standards/#xdi) 
+    * [OASIS XDI TC Technical Committee on GitHub]({{ site.baseurl }}/standards/#oasis-xdi-tech-committee-on-github) 
+  * [W3C]({{ site.baseurl }}/standards/#w3c) 
+    * [DID the Decentralized Identifier]({{ site.baseurl }}/standards/#did-the-decentralized-identifier) 
+    * [Verifiable Claims]({{ site.baseurl }}/standards/#verifiable-claims) 
+  * [Decentralized Key Managment DKMS]({{ site.baseurl }}/standards/#decentralized-key-management-agents) 
+  * [Ethereum ERC-EIP]({{ site.baseurl }}/standards/Ethereum ERC-EIP)
+  * [DID Auth]({{ site.baseurl }}/standards/#did-auth) 
+  * [Blockcerts]({{ site.baseurl }}/standards/#blockcerts) 
+  * [Schema]({{ site.baseurl }}/standards/#schema) 
 * [DID Adoption]({{ site.baseurl }}/adoption/) 
 * [GDPR]({{ site.baseurl }}/gdpr) 
 * [Humanitarian]({{ site.baseurl }}/humanitarian/) 
@@ -128,23 +129,23 @@ To other pages within this repository.
   * [SSI Meetup]({{ site.baseurl }}/organizations/ssi-meetup/)
 * [DID\SSI Initiatives]({{ site.baseurl }}/id-initiatives) 
   * [Bitcoin]({{ site.baseurl }}/id-initiatives/bitcoin/) 
-    * [BTCR]({{ site.baseurl }}/id-initiatives/bitcoin/#btcr-)
-    * [RWoT BTCR]({{ site.baseurl }}/id-initiatives/bitcoin/#rwot-btcr-)
+    * [BTCR]({{ site.baseurl }}/id-initiatives/bitcoin/#btcr)
+    * [RWoT BTCR]({{ site.baseurl }}/id-initiatives/bitcoin/#rwot-btcr)
     * [Bitnation]({{ site.baseurl }}/id-initiatives/bitcoin/#bitnation)
-    * [Spidchain]({{ site.baseurl }}/id-initiatives/bitcoin/#spidchain-) 
+    * [Spidchain]({{ site.baseurl }}/id-initiatives/bitcoin/#spidchain) 
   * [Blockstack]({{ site.baseurl }}/id-initiatives/blockstack/) 
   * [Blockpass]({{ site.baseurl }}/id-initiatives/blockpass/)
   * [Danube]({{ site.baseurl }}/id-initiatives/danube/)
   * [Democracy Earth]({{ site.baseurl }}/id-initiatives/democracy-earth/)
   * [Digital Bazaar]({{ site.baseurl }}/id-initiatives/digital-bazaar/)
   * [Ethereum]({{ site.baseurl }}/id-initiatives/ethereum/) 
-    * [ERC-EIP]({{ site.baseurl }}/id-initiatives/ethereum/#erc-eip-) 
-    * [ERC725-735]({{ site.baseurl }}/id-initiatives/ethereum/erc725-735-)
-    * [uPort]({{ site.baseurl }}/id-initiatives/ethereum/#uport-) 
-    * [Jolocom]({{ site.baseurl }}/id-initiatives/ethereum/#jolocom-) 
-    * [Spidchain]({{ site.baseurl }}/id-initiatives/ethereum/#spidchain-) 
+    * [ERC-EIP]({{ site.baseurl }}/id-initiatives/ethereum/#erc-eip) 
+    * [ERC725-735]({{ site.baseurl }}/id-initiatives/ethereum/erc725-735)
+    * [uPort]({{ site.baseurl }}/id-initiatives/ethereum/#uport) 
+    * [Jolocom]({{ site.baseurl }}/id-initiatives/ethereum/#jolocom) 
+    * [Spidchain]({{ site.baseurl }}/id-initiatives/ethereum/#spidchain) 
     * [Cryptonomica]({{ site.baseurl }}/id-initiatives/ethereum/cryptonomica/) 
-    * [Assorted Ethereum Apps]({{ site.baseurl }}/id-initiatives/ethereum/#assorted-ethereum-apps-) 
+    * [Assorted Ethereum Apps]({{ site.baseurl }}/id-initiatives/ethereum/#assorted-ethereum-apps) 
   * [Handshake]({{ site.baseurl }}/id-initiatives/handshake/)
   * [Indy]({{ site.baseurl }}/id-initiatives/indy-ecosystem/) 
     * [Adoption]({{ site.baseurl }}/id-initiatives/indy-ecosystem/adoption/) 

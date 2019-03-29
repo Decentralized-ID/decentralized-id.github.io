@@ -6,24 +6,24 @@ layout: single
 
 ## Contents
 * [Losing Control over our Personal Information](#losing-control-over-our-personal-information) '80s
-* [PGP - Web of Trust](#pgp---web-of-trust-) '91
-* [International Planetwork Conference](#international-planetwork-conference-) '00s
-* [XNS Public Trust Organization](#xns-public-trust-organization-)
-* [The Augmented Social Network](#the-augmented-social-network-) '03
-* [IDCommons](#idcommons-) '01
-* [Identity Gang](#identity-gang-) '04
+* [PGP - Web of Trust](#pgp---web-of-trust) '91
+* [International Planetwork Conference](#international-planetwork-conference) '00s
+* [XNS Public Trust Organization](#xns-public-trust-organization)
+* [The Augmented Social Network](#the-augmented-social-network) '03
+* [IDCommons](#idcommons) '01
+* [Identity Gang](#identity-gang) '04
   * [Kim Cameron - Laws of Identity](#kim-cameron---laws-of-identity) 
-* [Internet Identity Workshop—IIW](#internet-identity-workshop-) '05
-* [W3C Credentials Community Group](#w3c-credentials-community-group-) '14 
-* [Bitnation](#bitnation-) '15
-* [The United Nations Sustainable Development Goals](#the-united-nations-sustainable-development-goals-) '15
-* [#Rebooting-Web-of-Trust (RWoT)](#rebooting-the-web-of-trust-) 
-* [Evernym](#evernym-)
-* [ID2020 and the GDPR](#id2020-and-the-gdpr-) '16
-* [The End of 2016](#the-end-of-2016-)
-* [Decentralized Identity Foundation](#decentralized-identity-foundation-) '17
-* [Standards History](#standards-history-)
-* [Resources](#resources-)
+* [Internet Identity Workshop—IIW](#internet-identity-workshop) '05
+* [W3C Credentials Community Group](#w3c-credentials-community-group) '14 
+* [Bitnation](#bitnation) '15
+* [The United Nations Sustainable Development Goals](#the-united-nations-sustainable-development-goals) '15
+* [#Rebooting-Web-of-Trust (RWoT)](#rebooting-the-web-of-trust) 
+* [Evernym](#evernym)
+* [ID2020 and the GDPR](#id2020-and-the-gdpr) '16
+* [The End of 2016](#the-end-of-2016)
+* [Decentralized Identity Foundation](#decentralized-identity-foundation) '17
+* [Standards History](#standards-history)
+* [Resources](#resources)
 
 
 

@@ -8,8 +8,8 @@ toc: false
 
 ## Contents
 
-* [BTCR](#btcr-)
-* [RWoT BTCR](#rwot-btcr-)
+* [BTCR](#btcr)
+* [RWoT BTCR](#rwot-btcr)
 * [Bitnation](#bitnation)
 * [Spidchain](#spidchain)
 

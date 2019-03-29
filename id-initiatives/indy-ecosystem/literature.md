@@ -15,9 +15,9 @@ layout: single
 
 ## Contents
 
-* [Selected articles from Windley.com](#selected-articles-windleycom-)
-* [EU General Data Protection Regulation Act](#eu-general-data-protection-regulation-act-)
-* [Research Papers](#research-papers-)
+* [Selected articles from Windley.com](#selected-articles-windleycom)
+* [EU General Data Protection Regulation Act](#eu-general-data-protection-regulation-act)
+* [Research Papers](#research-papers)
 * [Reports](#reports)
 
 
