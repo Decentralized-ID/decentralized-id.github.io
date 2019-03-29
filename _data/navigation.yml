@@ -27,7 +27,7 @@ didnav:
         description: "The contents of two Blockchain-ID TOML files."
         url: "toml/id-toml.html"
       - title: "Hyperledger Indy"
-        url: "/id-initiatives/indy-ecosystem/"
+        url: "/id-initiatives/Indy-Sovrin/"
   - title: DIDecentral
     children:
       - title: "History"
