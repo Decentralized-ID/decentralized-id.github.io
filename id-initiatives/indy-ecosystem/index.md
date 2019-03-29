@@ -5,6 +5,7 @@ twitter:
   card: summary_large_image
 image: "https://i.imgur.com/6O3gTXX.png"
 layout: single
+permalink: /Indy-Sovrin
 ---
 
 **Protocol, Governance, Education, Ecosystem** 

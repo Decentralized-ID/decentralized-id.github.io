@@ -1,6 +1,8 @@
 ---
 title: Decentralized-ID Workshops
 layout: single
+classes: wide
+toc: false
 ---
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
