@@ -13,6 +13,9 @@ main:
     url: "https://infominer.id/learn-crypto-trading"
   - title: "DIDecentralized"
     url: "https://infominer.id/DIDecentralized"
+  - title: "Quick-Start Guide"
+    description: "This Page is in Active Development."
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 didnav:
   - title: Short-Cuts
