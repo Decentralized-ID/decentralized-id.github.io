@@ -25,7 +25,7 @@ baseurl                  : /DIDecentralized
 repository               : "infominer33/DIDecentralized"
 github                   : [metadata]
 teaser                   : # /assets/images/500x300.png
-logo                     : "/assets/icons/99.png"
+logo                     : "/assets/icons/icon88.png"
 masthead_title           : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
