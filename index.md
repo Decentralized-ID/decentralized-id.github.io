@@ -16,6 +16,8 @@ image       : "https://infominer.id/DIDecentralized/assets/img/didecentral.png"
 
 I'm beginning to realize that the more accessible this becomes as a web-page, the less accessible it becomes as a directory on GitHub. I guess that's ok, I'm not really sure. I plan to set up comments soon, and find other ways for visitors to easily offer feedback. For example, I feel like the desktop font was too big so I reduced it, but now I wonder if the mobile font is too small.. and I'm going to try and adjust that.. but it would be helpful to know what your experience is.
 
+And yeah, I'm still working out the deets with the logos... Other than that I'm super excited about how well this site works now :D Those logos will drive me nuts until I figure out something that looks good, but really I need to focus on something else for the moment.
+
 As you can see, I'm continually working to break up the info into separate files, so it can all grow. If a page looks empty, feel free to share any links you have.. or just hold tight It's all coming together..
 
 
