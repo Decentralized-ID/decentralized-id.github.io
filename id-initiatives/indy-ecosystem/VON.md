@@ -46,12 +46,12 @@ layout: single
 * [ssimeetup- Overview of Proposed Pan Canadian Trust Framework](https://ssimeetup.org/overview-proposed-pan-canadian-trust-framework-ssi-tim-bouma-webinar-19/) 1\19
 >The Government of British Columbia and the Government of Ontario have already rolled out a production system using the Sovrin Network for business registration and licensing; together they've issued over 6 million credentials, according to Windley. - [How Blockchain may Kill the Password](https://www.computerworld.com/article/3329962/blockchain/how-blockchain-may-kill-the-password.amp.html)
 
-## BCGov Github [**^**](#contents)
+## BCGov Github 
 
 * <a href="https://github.com/bcgov/BC-Policy-Framework-For-GitHub" target="_blank">/bcgov/BC-Policy-Framework-For-GitHub</a> - Policy information for BC Government employees using GitHub
 * <a href="https://github.com/bcgov/design-system" target="_blank">/bcgov/design-system</a> - British Columbia Government Design System for Digital Services
 
-### BCGov - VON [**^**](#contents)
+### BCGov - VON 
 * <a href="https://github.com/bcgov/TheOrgBook" target="_blank">/bcgov/TheOrgBook</a> - A public repository of verifiable claims about organizations. A key component of the Verifiable Organization Network.
 * <a href="https://github.com/bcgov/von" target="_blank">/bcgov/von</a> - Verifiable Organizations Network
 * <a href="https://github.com/bcgov/von-connector" target="_blank">/bcgov/von-connector</a> - Verifiable Organization Network Connector
@@ -59,12 +59,12 @@ layout: single
 * <a href="https://github.com/bcgov/von-ledger-explorer" target="_blank">/bcgov/von-ledger-explorer</a> - The VON Ledger Explorer
 * <a href="https://github.com/bcgov/dFlow" target="_blank">/bcgov/dFlow</a> - A demonstration of the verifiable organization network showing a new restaurant gathering the permits necessary to open.
 
-### VON - Indy [**^**](#contents)
+### VON - Indy 
 
 * <a href="https://github.com/bcgov/indy-catalyst" target="_blank">/bcgov/indy-catalyst</a> - Hyperledger Indy Catalyst is a set of application level software components designed to accelerate the adoption of trustworthy entity to entity communications.
 * <a href="https://github.com/bcgov/indy-sdk-postgres-storage" target="_blank">/bcgov/indy-sdk-postgres-storage</a> - PostgreSQL plug-in for use with the indy-sdk
 
-### VON - Agents [**^**](#contents)
+### VON - Agents 
 
 * <a href="https://github.com/bcgov/von-personal-agent" target="_blank">/bcgov/von-personal-agent</a> - A personal agent for the von network.
 * <a href="https://github.com/bcgov/VON-ESB-DRS-Agent" target="_blank">/bcgov/VON-ESB-DRS-Agent</a> - Piloting the Dispute Resolution Suite with connections to the OrgBook
@@ -73,12 +73,12 @@ layout: single
 * <a href="https://github.com/bcgov/von_agent" target="_blank">/bcgov/von_agent</a> Forked from PSPC-SPAC-buyandsell/von_agent - VON agents using indy-sdk
 
 
-### BCGov - DID-Auth [**^**](#contents)
+### BCGov - DID-Auth 
 * <a href="https://github.com/bcgov/did-auth-extension" target="_blank">/bcgov/did-auth-extension</a> - DID Auth browser extension.
 * <a href="https://github.com/bcgov/http-did-auth-proxy" target="_blank">/bcgov/http-did-auth-proxy</a> - DID Auth HTTP proxy.
 * <a href="https://github.com/bcgov/did-auth-relying-party" target="_blank">/bcgov/did-auth-relying-party</a> - DID Auth relying party.
 
-### /PSPC-SPAC-buyandsell [**^**](#contents)
+### /PSPC-SPAC-buyandsell 
 Public Services and Procurement Canada: buyandsell.gc.ca --- Services publics et Approvisionnement Canada : Achatsetventes.gc.ca
 
 * <a href="https://github.com/PSPC-SPAC-buyandsell/von_tails" target="_blank">/PSPC-SPAC-buyandsell/von_tails</a> - Tails file server for von_anchor issuer and holder-prover anchors
@@ -95,7 +95,7 @@ Public Services and Procurement Canada: buyandsell.gc.ca --- Services publics et
 
 
 
-## History [**^**](#contents)
+## History 
 
 [![](https://i.imgur.com/Pd6Z2Cf.png)](https://docs.google.com/presentation/d/189DxjNv7EE7KtjkidB6EpwuvO2lIy7kEL-3DWtMAiQg/edit)
 [Treasury Board Identity Management Policy and Pan-Canadian Trust Framework — Identity Management Policy Workshop](https://docs.google.com/presentation/d/189DxjNv7EE7KtjkidB6EpwuvO2lIy7kEL-3DWtMAiQg/edit)

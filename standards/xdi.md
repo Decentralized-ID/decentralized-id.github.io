@@ -98,7 +98,7 @@ Markus Sabadello began working on Project Danube [around 2010](https://web.archi
 * <a href="https://github.com/projectdanube/xdi2-docker" target="_blank">/projectdanube/xdi2-docker</a> - Dockerfiles for XDI2
 * <a href="https://github.com/projectdanube/xdi2-connect-buttonbuilder" target="_blank">/projectdanube/xdi2-connect-buttonbuilder</a> - "Button Builder" component for the XDI Connect protocol
 
-### XDI - Various Integrations [**^**](#contents)
+### XDI - Various Integrations 
 
 * <a href="https://github.com/projectdanube/xdi2-bdb" target="_blank">/projectdanube/xdi2-bdb</a> - Support for using BDB as XDI2 backend storage
 * <a href="https://github.com/projectdanube/xdi2-mongodb" target="_blank">/projectdanube/xdi2-mongodb</a> - Support for using MongoDB as XDI2 backend storage
