@@ -10,18 +10,18 @@ Danube Tech must be the longest running firm working towards user-owned and cont
 
 ## Contents
 
-* [Danube](#danube-)
-* [Project Danube on Github](#project-danube-github-)
-  * [Danube XDI](#xdi-)
-  * [Danube XDI Libraries](#xdi-libraries-)
-  * [Danube XDI - Various Integrations](#xdi---various-integrations-)
-  * [Danube XDI Configurations](#xdi-configurations-)
-  * [Danube XDI Examples](#xdi-examples-)
-  * [Danube XDI Plugins](#xdi-plugins-)
-  * [Danube Aeternam](#aeternam-)
-  * [Danube XDI Cloud](#xdi-cloud-)
-  * [Danube XDI Server Deployed Via](#xdi-server-deployed-via-)
-  * [Danube Services](#services-)
+* [Danube](#danube)
+* [Project Danube on Github](#project-danube-github)
+  * [Danube XDI](#xdi)
+  * [Danube XDI Libraries](#xdi-libraries)
+  * [Danube XDI - Various Integrations](#xdi---various-integrations)
+  * [Danube XDI Configurations](#xdi-configurations)
+  * [Danube XDI Examples](#xdi-examples)
+  * [Danube XDI Plugins](#xdi-plugins)
+  * [Danube Aeternam](#aeternam)
+  * [Danube XDI Cloud](#xdi-cloud)
+  * [Danube XDI Server Deployed Via](#xdi-server-deployed-via)
+  * [Danube Services](#services)
 * [**See also: XDI**](standards/xdi.html) >>
 
 ## Danube

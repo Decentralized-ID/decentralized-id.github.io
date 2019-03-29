@@ -6,12 +6,12 @@ layout: single
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)
 
 ## Contents
-  * [Canada](#canada-)
-  * [European Union](#european-union-)
-  * [Netherlands](#netherlands-)
-  * [Spain](#spain-)
-  * [Switzerland](#switzerland-)
-  * [USA](#usa-)
+  * [Canada](#canada)
+  * [European Union](#european-union)
+  * [Netherlands](#netherlands)
+  * [Spain](#spain)
+  * [Switzerland](#switzerland)
+  * [USA](#usa)
 
 ## Canada
 ![](https://i.imgur.com/1QmQiy2.png)

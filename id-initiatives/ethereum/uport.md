@@ -27,13 +27,13 @@ toc: false
 
 ## GitHub
 
-* [uPort GitHub Repos](eth-id-github.html#uport-)
-  * [uPort DID](eth-id-github.html#uport-did-)
-  * [uPort Identification](eth-id-github.html#uport-identification-)
-  * [uPort Mobile](eth-id-github.html#uport-mobile-)
-  * [uPort Lambda](eth-id-github.html#uport-lambda-)
-  * [uPort React](eth-id-github.html#uport-react-)
-  * [uPort Assorted](eth-id-github.html#uport-assorted-)
+* [uPort GitHub Repos](eth-id-github.html#uport)
+  * [uPort DID](eth-id-github.html#uport-did)
+  * [uPort Identification](eth-id-github.html#uport-identification)
+  * [uPort Mobile](eth-id-github.html#uport-mobile)
+  * [uPort Lambda](eth-id-github.html#uport-lambda)
+  * [uPort React](eth-id-github.html#uport-react)
+  * [uPort Assorted](eth-id-github.html#uport-assorted)
 
 ## Literature
 

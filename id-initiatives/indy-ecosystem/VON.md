@@ -21,12 +21,12 @@ layout: single
 ## Contents
 
 * [VON](#von)
-* [BCGov Github](#bcgov-github-)
-* [BCGov - VON](#bcgov---von-)
-  * [VON - Agents](#von-agents-)
-  * [BCGov - DID-Auth](#bcgov---did-auth-)
-  * [PSPC-SPAC-buyandsell](#pspc-spac-buyandsell-) - Public Services and Procurement Canada
-* [History](#history-)
+* [BCGov Github](#bcgov-github)
+* [BCGov - VON](#bcgov---von)
+  * [VON - Agents](#von-agents)
+  * [BCGov - DID-Auth](#bcgov---did-auth)
+  * [PSPC-SPAC-buyandsell](#pspc-spac-buyandsell) - Public Services and Procurement Canada
+* [History](#history)
 
 
 ## VON
