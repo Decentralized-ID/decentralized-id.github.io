@@ -102,9 +102,9 @@ To other pages within this repository.
     * [Decentralized Identity Foundation](history.md#decentralized-identity-foundation) '17
     * [DID Standards History](history.md#standards-history)
 * [Self Sovereign Identity](/self-sovereign-identity) 
-  * [Evolution of SSI](/self-sovereign-identity/evolution-of-ssi/) 
-  * [SSI Principles vs Characteristics](/self-sovereign-identity/ssi-principles-vs-characteristics/) 
-  * [User Experience](/self-sovereign-identity/user-experience/) 
+  * [Evolution of SSI](/self-sovereign-identity/evolution-of-ssi.md) 
+  * [SSI Principles vs Characteristics](/self-sovereign-identity/ssi-principles-vs-characteristics.md) 
+  * [User Experience](/self-sovereign-identity/user-experience.md) 
 * [DID Related Web Standards](/standards) 
   * [XDI](/standards/#xdi) 
     * [OASIS XDI TC Technical Committee on GitHub](/standards/#oasis-xdi-tech-committee-on-github) 
