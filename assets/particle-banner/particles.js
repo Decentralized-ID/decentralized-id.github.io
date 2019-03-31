@@ -2,16 +2,16 @@
 
 // settings:
 const canvasName = "did-canvas"
-const maxNodes = 100 // using too many will impact performance.
-const nodeMinSize = 2 
+const maxNodes = 40 // using too many will impact performance.
+const nodeMinSize = 3
 const nodeMaxSize = 4
-const nodeMinSpeed = 0.03
-const nodeMaxSpeed = 0.8
+const nodeMinSpeed = 0.02
+const nodeMaxSpeed = 0.3
 const nodeMaxConnections = 20
-const connectionThickness = 1 
-const connectionDist = 100
-const connectionColor = "#ffffff"
-const nodeColors = ["#ff9900", "ffcc99"] // you may enter multiple colors
+const connectionThickness = 2;
+const connectionDist = 102
+const connectionColor = "#0f477e"
+const nodeColors = ['#0f477e'] // you may enter multiple colors ["#65c665", "#40a040"]
 const warpEdges = false // if false nodes will bounce off the edges
 const useIcon = false // if false then colored circles will be used
 const iconPath = "https://image.flaticon.com/icons/png/128/137/137068.png"
