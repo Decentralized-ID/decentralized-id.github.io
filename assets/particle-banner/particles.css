@@ -5,8 +5,9 @@
     height: 200px;
     text-align: center;
     vertical-align: middle;
-    color: white;
-    overflow: hidden;
+    color:#0f477e;
+    overflow: visible;
+    font-size: 2em;
   }
   
   .did-title .content{
@@ -15,7 +16,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    text-shadow: 0px 0px 10px #222222, 0px 0px 20px #222222, 0px 0px 30px #222222, 0px 0px 8px #222222;
+    text-shadow: 0px 0px 10px #f0fff0, 0px 0px 20px #f0fff0;
   }
   
   .did-title canvas{
