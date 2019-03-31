@@ -143,7 +143,7 @@ To other pages within this repository.
   * [Ethereum]({{ site.baseurl }}/id-initiatives/ethereum/) 
     * [ERC-EIP]({{ site.baseurl }}/id-initiatives/ethereum/#erc-eip) 
     * [ERC725-735]({{ site.baseurl }}/id-initiatives/ethereum/erc725-735)
-    * [uPort]({{ site.baseurl }}/id-initiatives/ethereum/#uport) 
+    * [uPort]({{ site.baseurl }}/id-initiatives/ethereum/uport/) 
     * [Jolocom]({{ site.baseurl }}/id-initiatives/ethereum/#jolocom) 
     * [Spidchain]({{ site.baseurl }}/id-initiatives/ethereum/#spidchain) 
     * [Cryptonomica]({{ site.baseurl }}/id-initiatives/ethereum/cryptonomica/) 
