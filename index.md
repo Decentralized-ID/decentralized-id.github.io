@@ -135,7 +135,7 @@ To other pages within this repository.
     * [RWoT BTCR]({{ site.baseurl }}/id-initiatives/bitcoin/#rwot-btcr)
     * [Bitnation]({{ site.baseurl }}/id-initiatives/bitcoin/#bitnation)
     * [Spidchain]({{ site.baseurl }}/id-initiatives/bitcoin/#spidchain) 
-  * [Blockstack]({{ site.baseurl }}/id-initiatives/blockstack/) 
+  * [Blockstack]({{ site.baseurl }}/id-initiatives/blockstack/)
   * [Blockpass]({{ site.baseurl }}/id-initiatives/blockpass/)
   * [Danube]({{ site.baseurl }}/id-initiatives/danube/)
   * [Democracy Earth]({{ site.baseurl }}/id-initiatives/democracy-earth/)
