@@ -82,29 +82,29 @@ It's impossible to have a conversation about decentralized-id without discussing
 ## Directory
 To other pages within this repository.
 
-  * [SSI\DID History](/history/) 
-    * [Losing Control over our Personal Information](/history/#losing-control-over-our-personal-information) '80s
-    * [PGP - Web of Trust](/history/#pgp---web-of-trust) '91
-    * [International Planetwork Conference](/history/#international-planetwork-conference) '00s
-    * [XNS Public Trust Organization](/history/#xns-public-trust-organization)
-    * [The Augmented Social Network](/history/#the-augmented-social-network) '03
-    * [IDCommons](/history/#idcommons) '01
-    * [Identity Gang](/history/#identity-gang) '04
-      * [Kim Cameron - Laws of Identity](/history/#kim-cameron---laws-of-identity) 
-    * [Internet Identity Workshop—IIW](/history/#internet-identity-workshop) '05
-    * [W3C Credentials Community Group](/history/#w3c-credentials-community-group) '14 
-    * [Bitnation](/history/#bitnation) '15
-    * [The United Nations Sustainable Development Goals](/history/#the-united-nations-sustainable-development-goals) '15
-    * [Rebooting-Web-of-Trust (/RWoT)](/history/#rebooting-the-web-of-trust)
-    * [Evernym](/history/#evernym)
-    * [ID2020 and the GDPR](/history/#id2020-and-the-gdpr) '16
-    * [The End of 2016](/history/#the-end-of-2016)
-    * [Decentralized Identity Foundation](/history/#decentralized-identity-foundation) '17
-    * [DID Standards History](/history/#standards-history)
+  * [SSI\DID History](history.md) 
+    * [Losing Control over our Personal Information](history.md#losing-control-over-our-personal-information) '80s
+    * [PGP - Web of Trust](history.md#pgp---web-of-trust) '91
+    * [International Planetwork Conference](history.md#international-planetwork-conference) '00s
+    * [XNS Public Trust Organization](history.md#xns-public-trust-organization)
+    * [The Augmented Social Network](history.md#the-augmented-social-network) '03
+    * [IDCommons](history.md#idcommons) '01
+    * [Identity Gang](history.md#identity-gang) '04
+      * [Kim Cameron - Laws of Identity](history.md#kim-cameron---laws-of-identity) 
+    * [Internet Identity Workshop—IIW](history.md#internet-identity-workshop) '05
+    * [W3C Credentials Community Group](history.md#w3c-credentials-community-group) '14 
+    * [Bitnation](history.md#bitnation) '15
+    * [The United Nations Sustainable Development Goals](history.md#the-united-nations-sustainable-development-goals) '15
+    * [Rebooting-Web-of-Trust (/RWoT)](history.md#rebooting-the-web-of-trust)
+    * [Evernym](history.md#evernym)
+    * [ID2020 and the GDPR](history.md#id2020-and-the-gdpr) '16
+    * [The End of 2016](history.md#the-end-of-2016)
+    * [Decentralized Identity Foundation](history.md#decentralized-identity-foundation) '17
+    * [DID Standards History](history.md#standards-history)
 * [Self Sovereign Identity](/self-sovereign-identity) 
-  * [Evolution of SSI](/evolution-of-ssi/) 
-  * [SSI Principles vs Characteristics](/ssi-principles-vs-characteristics/) 
-  * [User Experience](/user-experience/) 
+  * [Evolution of SSI](/self-sovereign-identity/evolution-of-ssi/) 
+  * [SSI Principles vs Characteristics](/self-sovereign-identity/ssi-principles-vs-characteristics/) 
+  * [User Experience](/self-sovereign-identity/user-experience/) 
 * [DID Related Web Standards](/standards) 
   * [XDI](/standards/#xdi) 
     * [OASIS XDI TC Technical Committee on GitHub](/standards/#oasis-xdi-tech-committee-on-github) 
@@ -113,7 +113,7 @@ To other pages within this repository.
     * [Verifiable Claims](/standards/#verifiable-claims) 
   * [DID Auth](/standards/#did-auth) 
   * [Decentralized Key Managment DKMS](/standards/#decentralized-key-management-agents) 
-  * [Ethereum ERC-EIP](/standards/Ethereum ERC-EIP)
+  * [Ethereum ERC-EIP](/standards/#ethereum-erc-eip)
   * [Blockcerts](/standards/#blockcerts) 
   * [Schema](/standards/#schema) 
 * [DID Adoption](/adoption/) 
