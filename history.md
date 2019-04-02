@@ -149,6 +149,17 @@ IIW participants began the effort towards creating a truly [user centric identit
   * [HubID First to Deploy Windhover Principles and Framework for Digital Identity, Trust and Open Data](https://hubculture.com/hubs/47/news/689/)
 * [WEForum - Personal Data: The Emergence of a New Asset Class](http://www3.weforum.org/docs/WEF_ITTC_PersonalDataNewAsset_Report_2011.pdf)
 
+## Respect Network
+
+[Around 2011](https://web.archive.org/web/20121004035433/http://respectnetwork.com/respect-trust-framework), Respect Network began working to promote the idea of personal data clouds for the protection of personal information:
+
+* Respect Network is the world's first trusted personal data network that will let customers and companies connect over direct, personal channels that are always under the customer's control. Every member of the Respect Network agrees to the award-winning Respect Trust Framework so customers can be sure that the privacy and security of their personal data will always be respected.
+
+> The foundation of the Respect Network is the Respect Trust Framework, which was listed with the Open Identity Exchange in May 2011 and honored with the Privacy Award at the 2011 European Identity Conference. This is the umbrella legal contract to which every member (person or business) of the Respect Network agrees when they join the network
+  >
+  > * The Respect Trust Framework establishes a set of five simple yet universal principles governing the control and protection of identity and personal data­­—principles that operate at a higher level than conventional privacy policies. These five principles can be summed up by “the 5 p’s” in one sentence: A promise of permission, protection, portability, and proof.
+
+
 ## W3C Credentials Community Group
 
 [8/14](https://www.w3.org/community/credentials/charter-20140808/) The [Credentials Community Group](https://www.w3.org/community/credentials/)[[**ϟ**](https://w3c-ccg.github.io/)] forms, hosted by [World Wide Web Consortium(W3C)](https://www.w3.org/)[[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)] : "to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." —proposed by [Manu Sporney](http://manu.sporny.org/)[[**T**](https://twitter.com/manusporny)] (of [digitalbazaar.com](https://digitalbazaar.com/))
