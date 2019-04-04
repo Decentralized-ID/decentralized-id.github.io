@@ -278,7 +278,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 ## Resources
 * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
 * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
-* [Identity Commons-Wiki](http://wiki.idcommons.net/Main_Page)
+* [Identity Commons-History](http://wiki.idcommons.net/History)
 * [IIW-Wiki](https://iiw.idcommons.net/Main_Page)
 * [IIW - Past Workshops](https://internetidentityworkshop.com/past-workshops/)
 * [identitywoman.net](https://identitywoman.net/)

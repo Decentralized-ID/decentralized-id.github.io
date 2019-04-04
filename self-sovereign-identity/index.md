@@ -17,6 +17,7 @@ This directory was born from [/WebOfTrustInfo/self-sovereign-identity](https://g
 
 The reason I got started on this is because I wanted to write an article about SSI, and saw some areas where I could help with some of the legwork towards a more complete, and up-to-date set of SSI literature.
 
+
 In my opinion, the best overall article on the subject is still Christopher Allen's rallying cry: [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md). Christopher did an outstanding job of outlining the history of internet identity standards, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), currently in revision. 
 
 However, considerable additional material has been created on the subject since then, including some helpful criticism on the principles. I've organized some of my initial thoughts in [evolution-of-ssi](evolution-of-ssi/).
@@ -71,7 +72,7 @@ Then I realized that I should make a more complete survey of the subject, if I w
 * [LESS identity](https://medium.com/@trbouma/less-identity-65f65d87f56b)
 * [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md); Joe Andrieu describes identity terms in plain language, with regards to what function they serve.
 * [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
-
+* [A Brief Introduction to How SSI Infrastructure Can Integrate Digital Fiat Currency (DFC)](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20180718/Documents/D_Reed.pdf)
 
 
 #### Video
