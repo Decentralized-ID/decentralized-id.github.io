@@ -28,6 +28,7 @@ layout: single
 * [Blockchain for Identity Management](https://www.cs.bgu.ac.il/~frankel/TechnicalReports/2016/16-02.pdf) - Details early efforts towards Blockchain-ID
 * [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
 * [OIX White Paper: Trust Frameworks for Identity Systems](https://www.oixnet.org/news-whitepaper/)
+* [WEF The Known Traveller Digital Identity Concept](http://www3.weforum.org/docs/WEF_The_Known_Traveller_Digital_Identity_Concept.pdf)
 
 ## Reports
 * [EU BLOCKCHAIN OBSERVATORY AND FORUM — Workshop Report — e-Identity, Brussels, November 7, 2018](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
