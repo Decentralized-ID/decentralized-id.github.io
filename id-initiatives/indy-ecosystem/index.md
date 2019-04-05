@@ -12,6 +12,7 @@ redirect_from: indy-sovrin
 ---
 
 **Protocol, Governance, Education, Ecosystem** 
+
 <table>
   <tr>
   <td><a href="{{ site.rooturl }}/indy-ecosystem/indy-github.html">GitHub Repos</a></td> 
