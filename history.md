@@ -1,6 +1,7 @@
 ---
 title: DID-SSI History 
 layout: single
+image: https://i.imgur.com/2Q70iRk.png
 ---
 
 
