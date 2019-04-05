@@ -3,15 +3,6 @@ title: Indy Github Repositories
 layout: single
 ---
 
-<table>
-  <tr>
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/indy-github.html">GitHub Repos</a></td> 
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/sovrin.foundation.html">Sovrin</a></td> 
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/adoption.html">Adoption</a></td> 
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/VON.html">VON</a></td> 
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/literature.html">Literature</a></td> 
-  </tr>
-</table>
 
 * [/indy-plenum](https://github.com/hyperledger/indy-plenum) - Byzantine Fault Tolerant Protocol [[**wiki**](https://github.com/hyperledger/indy-plenum/wiki)]
     > "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem." 
