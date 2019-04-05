@@ -1,11 +1,11 @@
 ---
+layout: single
 title: "Hyperledger Indy Resources" 
 description: "A growing collection of educational resources related to Hyperledger Indy, the Sovrin Foundation, and Evernym."
 twitter:
   card: "summary_large_image"
 header:
   image: "https://i.imgur.com/6O3gTXX.png"
-layout: single
 permalink: Indy-Sovrin
 redirect_from: indy-sovrin
 
