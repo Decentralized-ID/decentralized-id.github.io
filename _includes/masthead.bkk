@@ -11,7 +11,14 @@
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
         {% endunless %}
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a>
+        <div class="did-title">
+          <div class="content">
+            <a class="site-title" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a>
+          </div>
+          <canvas id="did-canvas"></canvas>
+        </div>
+        <link rel="stylesheet" type="text/css" href="/DIDecentralized/assets/particle-banner/particles.css">
+        <script src="/DIDecentralized/assets/particle-banner/particles.js"></script>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             {%- if link.url contains '://' -%}
