@@ -126,7 +126,7 @@ author:
 #  email            : infominer@protonmail.com
   links:
     - label: "Info⧉Mine"
-      icon: "fas fa-fw fa-home"
+      icon: "fal fa-fw fa-cube"
       url: "https://infominer.id"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -146,6 +146,9 @@ author:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/InfoMiner33"
+   # - label: "Bitcoin"
+    #  icon: "fab fa-fw fa-bitcoin"
+     # url: 
 
 # Site Footer
 footer:
