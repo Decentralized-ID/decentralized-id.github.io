@@ -91,8 +91,8 @@ twitter:
   title                  : "DIDecentral ⧉ Identity Decentralized"
   description            : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
   image                  : "https://infominer.id/DIDecentralized/images/IDecentralized.png"
-  #card                   : "summary_large_image"
-  card                   : "summary"
+  card                   : "summary_large_image"
+  #card                   : "summary"
 facebook:
   username               :
   app_id                 :
@@ -316,4 +316,4 @@ defaults:
 
 
 
-# copyright:             Infominer ⧉  Creative Commons [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)  Public Domain
+copyright: Infominer ⧉ Creative Commons [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) Public Domain
