@@ -1,7 +1,7 @@
 ---
 title: History — Self-Soveregin, Decentralized—ID
 description: Starting with David Chaum in the 80s, PGP, the International Planetwork Conference, Agenda for Sustainable Development, GDPR, and Bitcoin to the Present.
-image: "https://i.imgur.com/wuvo5BG.png"
+image: https://i.imgur.com/wuvo5BG.png
 card: summary_large_image
 layout: single
 ---
