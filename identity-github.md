@@ -2,9 +2,11 @@
 layout: single
 title         : SSI-DID Github Repositories
 description   : "A start at listing all DID-SSI related GitHub Repositories."
+header:
+  image: "https://infominer.id/images/github.jpeg"
 twitter:
   card: summary_large_image
-  image : "https://infominer.id/images/github.jpeg"
+
 toc_sticky: false
 
 ---
