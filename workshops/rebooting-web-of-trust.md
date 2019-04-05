@@ -2,7 +2,8 @@
 layout: single
 title: Rebooting Web Of Trust - Papers and Advance Readings Index
 description: "A reasonably complete listing of #RebootingWebOfTrust Papers, Topics, and Advance Readings"
-image: "https://i.imgur.com/Nmxk4fE.png"
+header: 
+  image: "https://i.imgur.com/Nmxk4fE.png"
 redirect_from:
   - "Rebooting-Web-of-Trust.html"
 ---
