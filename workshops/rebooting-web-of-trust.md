@@ -1,10 +1,10 @@
 ---
+layout: single
 title: Rebooting Web Of Trust - Papers and Advance Readings Index
-description: "A reasonably complete listing of #RebootingWebOfTrust Papers, Topics, and Advance Readings
+description: "A reasonably complete listing of #RebootingWebOfTrust Papers, Topics, and Advance Readings"
 image: "https://i.imgur.com/Nmxk4fE.png"
 redirect_from:
   - "Rebooting-Web-of-Trust.html"
-layout: single
 ---
 
 I wanted a list of all RWoT papers in one place, rather than having to directory hop to look for what I need. I'll be adding a short exerpt to each advance reading and then turning this into a database, so that it's easily searchable.+
