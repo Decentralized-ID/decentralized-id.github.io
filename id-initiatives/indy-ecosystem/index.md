@@ -12,7 +12,9 @@ redirect_from:
   - id-initiatives/indy-ecosytem
   - Indy-Sovrin
 sidebar:
-  nav: "sovnav"
+  nav: 
+    - "sovnav"
+    - "didnav"
       
 ---
 
