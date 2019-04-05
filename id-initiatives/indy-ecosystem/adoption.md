@@ -7,9 +7,8 @@ permalink: indy-ecosystem/adoption
 redirect_from:
   - id-initiatives/indy-ecosystem
 sidebar:
-  title: DIDecentral
-  nav: "sovnav"
- 
+  title: DIDecentralized
+  nav: "sovnav" 
 ---
 
 

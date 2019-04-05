@@ -5,9 +5,8 @@ permalink: indy-ecosystem/literature
 redirect_from:
   - id-initiatives/indy-ecosystem/literature.html
 sidebar:
-  title: DIDecentral
+  title: DIDecentralized
   nav: "sovnav"
-
 ---
 
 ## Contents
