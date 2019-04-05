@@ -3,16 +3,6 @@ title: Sovrin Related Literature and Media
 layout: single
 ---
 
-<table>
-  <tr>
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/indy-github.html">GitHub Repos</a></td> 
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/sovrin.foundation.html">Sovrin</a></td> 
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/adoption.html">Adoption</a></td> 
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/VON.html">VON</a></td> 
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/literature.html">Literature</a></td> 
-  </tr>
-</table>
-
 ## Contents
 
 * [Selected articles from Windley.com](#selected-articles-windleycom)
