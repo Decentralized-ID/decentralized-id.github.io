@@ -7,7 +7,6 @@ redirect_from:
 sidebar:
   nav: 
     - "sovnav"
-    - "didnav"
   
 ---
 

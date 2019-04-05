@@ -6,8 +6,6 @@ twitter:
   card      : "summary_large_image"
 header:
   image     : "https://infominer.id/DIDecentralized/assets/img/didecentral.png"
-sidebar:
-  nav       : "sovnav"
 
 ---
 
