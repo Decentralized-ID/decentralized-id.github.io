@@ -2,9 +2,10 @@
 layout: single
 title: "History — Self-Soveregin, Decentralized—ID"
 description: "Starting with David Chaum in the 80s, PGP, the International Planetwork Conference, Agenda for Sustainable Development, GDPR, and Bitcoin to the Present."
+header:
+  image: "https://infominer.id/DIDecentralized/assets/img/history-user-centric-identity.png"
 twitter:
   card: "summary_large_image"
-image: "https://infominer.id/DIDecentralized/assets/img/history-user-centric-identity.png"
 
 ---
 
