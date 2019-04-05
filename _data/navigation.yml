@@ -29,7 +29,7 @@ didnav:
         description: "The contents of two Blockchain-ID TOML files."
         url: "toml/id-toml.html"
       - title: "Hyperledger Indy"
-        url: "id-initiatives/indy-ecosystem/"
+        url: "Indy-Sovrin/"
       - title: "Practical Cryptography - PGP and Me"
         url: "https://infominer.id/bitcoin-history/pgp-and-me/"
       - title: "Github Pages Starter Pack"
