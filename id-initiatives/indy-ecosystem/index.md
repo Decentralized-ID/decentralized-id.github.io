@@ -13,16 +13,6 @@ redirect_from: indy-sovrin
 
 **Protocol, Governance, Education, Ecosystem** 
 
-<table>
-  <tr>
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/indy-github.html">GitHub Repos</a></td> 
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/sovrin.foundation.html">Sovrin</a></td> 
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/adoption.html">Adoption</a></td> 
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/VON.html">VON</a></td> 
-  <td><a href="{{ site.rooturl }}/indy-ecosystem/literature.html">Literature</a></td> 
-  </tr>
-</table>
-
 This page contains a growing collection of educational resources related to Hyperledger Indy, the Sovrin Foundation, and Evernym. 
 
 Its an index for all to more easily navigate the information surrounding Hyperledger Indy.
