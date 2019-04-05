@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "History — Self-Soveregin, Decentralized—ID"
+title: "History — Self-Sovereign, Decentralized, Identity."
 description: "Starting with David Chaum in the 80s, PGP, the International Planetwork Conference, Agenda for Sustainable Development, GDPR, and Bitcoin to the Present."
 header:
   image: "https://infominer.id/DIDecentralized/assets/img/history-user-centric-identity.png"
@@ -35,7 +35,7 @@ twitter:
 
 ## Losing Control Over our Personal Information
 
-![](https://i.imgur.com/ESDJa4P.png)
+![](assets/img/chaum-security-without-identification-big-brother.png)
 
 * [Security without Identification: Transaction Systems to Make Big Brother Obsolete](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - David Chaum, 1985.
   * The large-scale automated transaction systems of the near future can be designed to protect the privacy and maintain the security of both individuals and organizations. 
