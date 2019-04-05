@@ -6,9 +6,14 @@ twitter:
   card: "summary_large_image"
 header:
   image: "https://i.imgur.com/6O3gTXX.png"
-permalink: Indy-Sovrin
-redirect_from: indy-sovrin
-
+permalink: indy-ecosystem/
+redirect_from: 
+  - indy-sovrin
+  - id-initiatives/indy-ecosytem
+  - Indy-Sovrin
+sidebar:
+  nav: "sovnav"
+      
 ---
 
 **Protocol, Governance, Education, Ecosystem** 

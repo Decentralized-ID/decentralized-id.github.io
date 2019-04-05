@@ -1,6 +1,12 @@
 ---
 title: Indy Github Repositories
 layout: single
+permalink: indy-ecosystem/github
+redirect_from:
+  - id-initiatives/indy-ecosystem/indy-github.html
+sidebar:
+  nav: "sovnav"
+
 ---
 
 
