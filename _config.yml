@@ -125,41 +125,42 @@ author:
 #  location         : "I spend most of my time right here."
   email            : infominer@protonmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:infominer@protonmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/infominer33"
+    - label: "⧉InfoMine⧉"
+      icon: "fas fa-fw fa-home"
+      url: "https://infominer.id"
+    - label: "Keybase"
+      icon: "fab fa-fw fa-keybase"
+      url:  "https://keybase.io/infominer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/infominer33"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/infominer33"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/ahTuPMY"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/infominer33"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:infominer@protonmail.com"
+    - label: "Keybase"
+      icon: "fab fa-fw fa-keybase"
+      url:  "https://keybase.io/infominer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/infominer33"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/infominer33"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/ahTuPMY"
+    
+    
 
 # Reading Files
 include:
