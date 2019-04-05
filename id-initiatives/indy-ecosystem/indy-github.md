@@ -5,7 +5,7 @@ permalink: indy-ecosystem/github
 redirect_from:
   - id-initiatives/indy-ecosystem/indy-github.html
 sidebar:
-  title: IndyNav
+  title: DIDecentral
   nav: "sovnav"
 
 ---
