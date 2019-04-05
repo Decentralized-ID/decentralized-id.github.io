@@ -143,6 +143,9 @@ author:
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/ahTuPMY"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/InfoMiner33"
 
 # Site Footer
 footer:
@@ -165,6 +168,9 @@ footer:
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/ahTuPMY"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/InfoMiner33"
     
     
 
