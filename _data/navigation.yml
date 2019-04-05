@@ -18,7 +18,7 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 didnav:
-  - title: Short-Cuts
+  - title: Featured
     children:
       - title: "Web Standards"
         url: "/standards/"
@@ -31,6 +31,10 @@ didnav:
         url: "toml/id-toml.html"
       - title: "Hyperledger Indy"
         url: "/Indy-Sovrin"
+      - title: "Practical Cryptography - PGP and Me"
+        url: "https://infominer.id/bitcoin-history/pgp-and-me/"
+      - title: "Github Pages Starter Pack"
+        url: "https://infominer.id/gh-pages-starter-pack.html"
   - title: DIDecentral
     children:
       - title: "History"
