@@ -16,6 +16,24 @@ main:
   - title: "Github Pages Starter Pack"
     url: "https://infominer.id/gh-pages-starter-pack.html"
 
+sovnav:
+  - title: Indy Nav
+    children:
+      - title: Index
+        description: Index of Resources Surrounding Hyperledger Indy, the Sovrin Foundation, and Evernym.
+        url: indy-ecosystem
+      - title: Adoption
+        description: Partnerships and Application of Evernym, Sovrin, and Indy.
+        url: indy-ecosystem/adoption
+      - title: Indy Github 
+        description: GitHub Repositories Related to Hyperledger Indy.
+        url: indy-ecosystem/github
+      - title: Literature
+        description: Research and Literature Related to the Indy Ecosystem.
+        url: indy-ecosystem/literature
+      - title: VON
+        description: Resources Related to the Verifiable Organizations Network
+        url: indy-ecosystem/von
 didnav:
   - title: Featured
     children:
