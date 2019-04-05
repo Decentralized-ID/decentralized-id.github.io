@@ -154,7 +154,7 @@ author:
 footer:
   links:
     - label: "Info⧉Mine"
-      icon: "fas fa-fw fa-home"
+      icon: "fal fa-fw fa-cube"
       url: "https://infominer.id"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
