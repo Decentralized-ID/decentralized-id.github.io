@@ -54,8 +54,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
 
 
-![](https://imgur.com/2LWlrgvl.png)\
-<sup><a href="https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies">Linux Foundation -Blockchain for Business -INDY</a></sup>
+![](/assets/img/private-public-permissioned-permissionless.png)
 
 ## Hyperledger Indy
 
@@ -75,6 +74,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [github.com/IBM-Blockchain-Identity](https://github.com/IBM-Blockchain-Identity) (Docker based tutorial sandbox env)
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section about Indy.
 * [Blockchain development made easy: Getting started with Hyperledger Indy](https://jaxenter.com/hyperledger-indy-interview-hardman-148796.html) - Interview with Daniel Hardman[[**G**](https://github.com/dhh1128)][[**L**](https://www.linkedin.com/in/danielhardman/)][[**T**](https://twitter.com/dhh1128)], Hyperledger Indy maintainer
+* <a href="https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies">Linux Foundation -Blockchain for Business -INDY</a>
 
 <img src="https://i.imgur.com/a0dpDtr.png"/>
 
