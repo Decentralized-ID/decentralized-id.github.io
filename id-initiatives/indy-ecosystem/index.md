@@ -54,8 +54,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
 
 
-![](/assets/img/private-public-permissioned-permissionless.png)
-
+![](https://infominer.id/DIDecentralized/assets/img/private-public-permissioned-permissionless.png)
 Infographic By: @Delpadschnick
 
 ## Hyperledger Indy
