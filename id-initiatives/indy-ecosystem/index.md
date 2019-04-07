@@ -55,6 +55,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 
 
 ![](/assets/img/private-public-permissioned-permissionless.png)
+Infographic By: @Delpadschnick
 
 ## Hyperledger Indy
 
