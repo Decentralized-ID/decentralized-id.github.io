@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Inf⧉Mine"
+  - title: "Inf⧉Mine⧉"
     url: "https://infominer.id/"
   - title: "Bitcoin Historical Index"
     description: "Resources on the History leading up to and Surrounding Bitcoin."
@@ -216,13 +216,13 @@ sovnav:
         url: "/id-initiatives/spid-chain/"
       - title: "State Led"
         url: "/state-sponsored/"
-  - title: "⧉InfoMine⧉"
+  - title: "Inf⧉Mine⧉"
     children:
       - title: "infominer.id"
         url: "https://infominer.id/"
       - title: "Bitcoin Historical Index"
         url: "https://infominer.id/bitcoin-history"
-      - title: "Source⧉Crypto"
+      - title: "S⧉urce Crypt⧉"
         url: "https://infominer.id/SourceCrypto"
       - title: "Learn Crypto Trading"
         url: "https://infominer.id/learn-crypto-trading"
