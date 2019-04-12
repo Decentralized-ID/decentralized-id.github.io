@@ -35,7 +35,7 @@ Often the keys for the client-bank systems are created this way.
 >
 >We offer exactly the solution for this problem that is mentioned in Wikipedia as not yet found. We deny automatic key check, we are offering the user to check and download each key manually.
 >
->We make verification of key owner's identity and store data about this verification: who, when, using which document made verification. And unlike in ['Web of trust']((https://en.wikipedia.org/wiki/Pretty_Good_Privacy#Web_of_trust)) there is an established procedure for key verification, i.e. known rules according to witch identity of the key owner have to be proven.
+>We make verification of key owner's identity and store data about this verification: who, when, using which document made verification. And unlike in ['Web of trust'](https://en.wikipedia.org/wiki/Pretty_Good_Privacy#Web_of_trust) there is an established procedure for key verification, i.e. known rules according to witch identity of the key owner have to be proven.
 >
 >The user can make the information of the key or keys in the database available to all other users of the database, or available only for specified users or user group. Accordingly database user will have access to data about keys of others users, which is open to all users or shared with him, (for some cases, i.e. for arbitrators, including scans on the paper documents)
 >
