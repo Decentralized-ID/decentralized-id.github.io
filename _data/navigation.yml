@@ -149,6 +149,8 @@ sovnav:
         url: indy-ecosystem/von
   - title: DIDecentral
     children:
+      - title: DIDecentralized
+        url: https://infominer.id/DIDecentralized
       - title: "History"
         url: "/history/"
       - title: "DID Adoption"
