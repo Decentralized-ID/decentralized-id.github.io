@@ -5,8 +5,6 @@ classes: wide
 toc: false
 permalink: organizations/sovrin-foundation/
 redirect_from: 
-  - organizations/sovrin.foundation/
-  - organizations/sovrin.foundation
   - organizations/sovrin-foundation
 ---
 
