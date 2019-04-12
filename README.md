@@ -74,24 +74,24 @@ It's impossible to have a conversation about decentralized-id without discussing
 To other pages within this repository.
 
   * [SSI\DID History](_pages/history.md) 
-    * [Losing Control over our Personal Information](_pages/history.md#losing-control-over-our-personal-information) '80s
-    * [PGP - Web of Trust](_pages/history.md#pgp---web-of-trust) '91
-    * [International Planetwork Conference](_pages/history.md#international-planetwork-conference) '00s
-    * [XNS Public Trust Organization](_pages/history.md#xns-public-trust-organization)
-    * [The Augmented Social Network](_pages/history.md#augmented-social-network) '03
-    * [IDCommons](_pages/history.md#idcommons) '01
-    * [Identity Gang](_pages/history.md#identity-gang) '04
-      * [Kim Cameron - Laws of Identity](_pages/history.md#kim-cameron---laws-of-identity) 
-    * [Internet Identity Workshop—IIW](_pages/history.md#internet-identity-workshop) '05
-    * [W3C Credentials Community Group](_pages/history.md#w3c-credentials-community-group) '14 
-    * [Bitnation](_pages/history.md#bitnation) '15
-    * [The United Nations Sustainable Development Goals](_pages/history.md#the-united-nations-sustainable-development-goals) '15
-    * [Rebooting-Web-of-Trust (/RWoT)](_pages/history.md#rebooting-the-web-of-trust)
+    * [Losing Control over our Personal Information](_pages/history.md#losing-control-over-our-personal-information-) '80s
+    * [PGP - Web of Trust](_pages/history.md#pgp---web-of-trust-) '91
+    * [International Planetwork Conference](_pages/history.md#international-planetwork-conference-) '00s
+    * [XNS Public Trust Organization](_pages/history.md#xns-public-trust-organization-)
+    * [The Augmented Social Network](_pages/history.md#augmented-social-network-) '03
+    * [IDCommons](_pages/history.md#idcommons-) '01
+    * [Identity Gang](_pages/history.md#identity-gang-) '04
+      * [Kim Cameron - Laws of Identity](_pages/history.md#kim-cameron---laws-of-identity-) 
+    * [Internet Identity Workshop—IIW](_pages/history.md#internet-identity-workshop-) '05
+    * [W3C Credentials Community Group](_pages/history.md#w3c-credentials-community-group-) '14 
+    * [Bitnation](_pages/history.md#bitnation-) '15
+    * [United Nations Sustainable Development Goals](_pages/history.md#united-nations-sustainable-development-goals-) '15
+    * [Rebooting-Web-of-Trust (/RWoT)](_pages/history.md#rebooting-the-web-of-trust-)
     * [Evernym](_pages/history.md#evernym)
-    * [ID2020 and the GDPR](_pages/history.md#id2020-and-the-gdpr) '16
-    * [The End of 2016](_pages/history.md#the-end-of-2016)
-    * [Decentralized Identity Foundation](_pages/history.md#decentralized-identity-foundation) '17
-    * [DID Standards History](_pages/history.md#standards-history)
+    * [ID2020 and the GDPR](_pages/history.md#id2020-and-the-gdpr-) '16
+    * [Late 2016](_pages/history.md#late-2016)
+    * [Identity Foundation](_pages/history.md#identity-foundation-) '17
+    * [DID Standards History](_pages/history.md#standards-history-)
 * [Self Sovereign Identity](_pages/self-sovereign-identity) 
   * [Evolution of SSI](_pages/self-sovereign-identity/evolution-of-ssi.md) 
   * [SSI Principles vs Characteristics](_pages/self-sovereign-identity/ssi-principles-vs-characteristics.md) 
