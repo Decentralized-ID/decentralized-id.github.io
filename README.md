@@ -78,7 +78,7 @@ To other pages within this repository.
     * [PGP - Web of Trust](_pages/history.md#pgp---web-of-trust) '91
     * [International Planetwork Conference](_pages/history.md#international-planetwork-conference) '00s
     * [XNS Public Trust Organization](_pages/history.md#xns-public-trust-organization)
-    * [The Augmented Social Network](_pages/history.md#the-augmented-social-network) '03
+    * [The Augmented Social Network](_pages/history.md#augmented-social-network) '03
     * [IDCommons](_pages/history.md#idcommons) '01
     * [Identity Gang](_pages/history.md#identity-gang) '04
       * [Kim Cameron - Laws of Identity](_pages/history.md#kim-cameron---laws-of-identity) 

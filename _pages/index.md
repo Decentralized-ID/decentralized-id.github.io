@@ -90,7 +90,7 @@ To other pages within this repository.
     * [PGP - Web of Trust]({{ site.baseurl }}/history/#pgp---web-of-trust) '91
     * [International Planetwork Conference]({{ site.baseurl }}/history/#international-planetwork-conference) '00s
     * [XNS Public Trust Organization]({{ site.baseurl }}/history/#xns-public-trust-organization)
-    * [The Augmented Social Network]({{ site.baseurl }}/history/#the-augmented-social-network) '03
+    * [The Augmented Social Network]({{ site.baseurl }}/history/#augmented-social-network) '03
     * [IDCommons]({{ site.baseurl }}/history/#idcommons) '01
     * [Identity Gang]({{ site.baseurl }}/history/#identity-gang) '04
       * [Kim Cameron - Laws of Identity]({{ site.baseurl }}/history/#kim-cameron---laws-of-identity) 
