@@ -3,6 +3,7 @@ title:  DID Related Web Standards
 layout: single
 permalink: standards/
 redirect_from: standards
+author_profile: true
 ---
 
 ## contents
