@@ -75,7 +75,7 @@ didnav:
       - title: "My Data"
         url: "/organizations/mydata/"
       - title: "Sovrin Foundation"
-        url: "/organizations/sovrin.foundation/"
+        url: "/organizations/sovrin-foundation/"
       - title: "SSI Meetup"
         url: "/organizations/ssi-meetup/"
   - title: Initiatives
@@ -186,7 +186,7 @@ sovnav:
       - title: "My Data"
         url: "/organizations/mydata/"
       - title: "Sovrin Foundation"
-        url: "/organizations/sovrin.foundation/"
+        url: "/organizations/sovrin-foundation/"
       - title: "SSI Meetup"
         url: "/organizations/ssi-meetup/"
   - title: Initiatives
