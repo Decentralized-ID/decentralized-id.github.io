@@ -130,7 +130,7 @@ To other pages within this repository.
 * [Organizations]({{ site.baseurl }}/organizations) 
   * [Decentralized Identity Foundation—DIF]({{ site.baseurl }}/organizations/identity-foundation/) 
   * [My Data]({{ site.baseurl }}/organizations/mydata/)
-  * [Sovrin Foundation]({{ site.baseurl }}/organizations/sovrin.foundation/) 
+  * [Sovrin Foundation]({{ site.baseurl }}/organizations/sovrin-foundation/) 
   * [SSI Meetup]({{ site.baseurl }}/organizations/ssi-meetup/)
 * [DID\SSI Initiatives]({{ site.baseurl }}/id-initiatives) 
   * [Bitcoin]({{ site.baseurl }}/id-initiatives/bitcoin/) 
