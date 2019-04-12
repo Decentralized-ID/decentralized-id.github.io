@@ -277,7 +277,7 @@ The workshop itself also produces technical whitepapers, this Repository holds a
 
 <a href="http://lists.w3.org/Archives/Public/public-credentials/" target="_blank">Public mailing list for the Credentials Community Group</a> (and archives) - Anyone may read or write to this list.
   * <a href="https://github.com/w3c-ccg/meetings" target="_blank">/w3c-ccg/meetings</a> CCG Meeting Transcripts
-* <a href=" https://github.com/w3c-ccg/community" target="_blank">/w3c-ccg/community</a> - CCG Community Repo
+* <a href="https://github.com/w3c-ccg/community" target="_blank">/w3c-ccg/community</a> - CCG Community Repo
 * <a href="https://github.com/w3c-ccg/announcements" target="_blank">/w3c-ccg/announcements</a> - CCG Announcements
 * <a href="https://github.com/w3c-ccg/w3c-ccg-process" target="_blank">/w3c-ccg/w3c-ccg-process</a>
 * <a href="https://github.com/w3c-ccg/registries-process" target="_blank">/w3c-ccg/registries-process</a>
