@@ -325,7 +325,8 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "didnav"
+        title: DIDecentralized
+        nav: "sovnav"
       toc: true
       toc_label   : "Contents"
       toc_icon    : "link"
