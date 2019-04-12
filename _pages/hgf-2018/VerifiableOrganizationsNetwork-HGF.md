@@ -4,6 +4,7 @@ description: Transcript of Presentation by John Jordan and Stephen Curran at HGF
 image: "https://infominer.id/images/VON.png"
 permalink: hgf-2018/VerifiableOrganizationsNetwork-HGF/
 redirect_from: hgf-2018/VerifiableOrganizationsNetwork-HGF
+author_profile: true
 ---
 
 # Hyperledger Global Forum 2018 — Verifiable Organizations Network 

@@ -4,6 +4,7 @@ description: A Transcript of Daniel Hardman of Evernym Presenting at Hyperledger
 image: "https://infominer.id/images/edge-card.png"
 permalink: hgf-2018/Microledgers-Edgechains-Hardman-HGF/
 redirect_from: hgf-2018/Microledgers-Edgechains-Hardman-HGF
+author_profile: true
 ---
 
 # Hyperledger Global Forum 2018 — Microledgers and Edge-Chains 
