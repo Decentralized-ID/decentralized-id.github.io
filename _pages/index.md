@@ -10,22 +10,13 @@ author_profile: true
 permalink: /
 ---
 
-<img src="https://infominer.id/DIDecentralized/assets/img/didecentral.png"/>
-
-
 >A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
-
-## Note:
-
-I'm beginning to realize that the more accessible this becomes as a web-page, the less accessible it becomes as a directory on GitHub. I guess that's ok, I'm not really sure. I plan to set up comments soon, and find other ways for visitors to easily offer feedback. For example, I feel like the desktop font was too big so I reduced it, but now I wonder if the mobile font is too small.. and I'm going to try and adjust that.. but it would be helpful to know what your experience is.
-
-And yeah, I'm still working out the deets with the logos... Other than that I'm super excited about how well this site works now :D Those logos will drive me nuts until I figure out something that looks good, but really I need to focus on something else for the moment.
-
-As you can see, I'm continually working to break up the info into separate files, so it can all grow. If a page looks empty, feel free to share any links you have and\or submit a few sentences. Otherwise, hold tight. There is a vision, it's all coming together..
 
 
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**>>**](#contents)] another page on site.
+
+*Pull Requests Welcome*
 
 ## Contents
 * [What is Decentralized ID?](#what-is-decentralized-id)
@@ -33,15 +24,6 @@ As you can see, I'm continually working to break up the info into separate files
 * [Directory](#directory)
 * [Sources](#sources)
 * [Tips Jar](#tips-jar)
-
----
-
-* [Edit this Page](https://github.com/infominer33/DIDecentralized)
-* [infominer.id](https://infominer.id)
-
-*Pull Requests Welcome*
-
-
 
 
 ![](https://i.imgur.com/9KpJRDr.png)
@@ -77,6 +59,8 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 * **[/DIDecentralized/self-sovereign-identity](self-sovereign-identity)** SSI documentation is still under development. This directory is to organize existing thought on SSI in one place for ease of study, and the development of new documentation.
 
+
+<img src="https://infominer.id/DIDecentralized/assets/img/identity-decentralized.png"/>
 
 
 
