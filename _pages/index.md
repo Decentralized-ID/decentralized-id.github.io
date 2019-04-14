@@ -63,11 +63,7 @@ It's impossible to have a conversation about decentralized-id without discussing
 <img src="https://infominer.id/DIDecentralized/assets/img/identity-decentralized.png"/>
 
 
-
-
-
 ## Directory
-To other pages within this repository.
 
   * [SSI\DID History]({{ site.baseurl }}{{ site.baseurl }}/history/) 
     * [Losing Control over our Personal Information]({{ site.baseurl }}/history/#losing-control-over-our-personal-information) '80s
