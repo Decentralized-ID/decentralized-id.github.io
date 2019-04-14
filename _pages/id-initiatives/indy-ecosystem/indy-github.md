@@ -1,8 +1,9 @@
 ---
 title: Indy Github Repositories
 layout: single
-permalink: indy-ecosystem/github
+permalink: id-initiatives/indy-ecosystem/github/
 redirect_from:
+  - indy-ecosystem/github
   - id-initiatives/indy-ecosystem/indy-github.html
 sidebar:
   title: DIDecentralized
