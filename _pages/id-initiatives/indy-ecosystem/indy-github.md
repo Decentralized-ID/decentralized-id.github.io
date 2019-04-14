@@ -9,6 +9,7 @@ redirect_from:
 sidebar:
   title: DIDecentralized
   nav: "sovnav"
+toc: false
 ---
 
 
