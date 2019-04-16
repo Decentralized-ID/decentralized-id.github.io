@@ -25,7 +25,7 @@ baseurl                  : /DIDecentralized
 repository               : "infominer33/DIDecentralized"
 github                   : [metadata]
 teaser                   : # /assets/images/500x300.png
-logo                     : "https://infominer.id/assets/img/whiteout.png"
+logo                     : "/assets/icons/apple-touch-icon.png"
 masthead_title           : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -120,8 +120,8 @@ author:
 # Site Author
 author:
   name             : "⧉ Infominer"
-  avatar           : "/assets/img/bio-photo.jpg"
-#  bio              : "I was growing up as the web first came of age, and am a computer nerd from way back. However, I had other interests which kept me out of tech for quite a while. So I'm starting a new phase of my life, and returning to my roots by diving into web-work."
+  avatar           : "https://infominer.id/assets/img/whiteout.png"
+#  bio             
 #  location         : "I spend most of my time right here."
 #  email            : infominer@protonmail.com
   links:
