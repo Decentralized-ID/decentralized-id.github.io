@@ -3,9 +3,8 @@ layout: single
 title: "History Surrounding Self-Sovereign, Decentralized, Identity."
 description: "Starting with David Chaum in the 80s, PGP, the International Planetwork Conference, Agenda for Sustainable Development, GDPR, and Bitcoin to the Present."
 header:
-  image: "https://infominer.id/DIDecentralized/assets/img/history-user-centric-identity.png"
-twitter:
-  card: "summary_large_image"
+  image: "https://infominer.id/DIDecentralized/assets/img/history-user-centric-data-identity.png"
+  caption: "2011 - [napsterization.org - Who Stewards the Personal Data Question? Org Chart](http://napsterization.org/stories/archives/000769.html)"
 permalink: history/
 redirect_from: history
 ---
