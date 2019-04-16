@@ -18,14 +18,6 @@ permalink: /
 
 *Pull Requests Welcome*
 
-## Contents
-* [What is Decentralized ID?](#what-is-decentralized-id)
-* [What is Self Sovereign Identity?](#self-sovereign-identity)
-* [Directory](#directory)
-* [Sources](#sources)
-* [Tips Jar](#tips-jar)
-
-
 ![](https://i.imgur.com/9KpJRDr.png)
 
 
@@ -65,7 +57,7 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 ## Directory
 
-  * [SSI\DID History]({{ site.baseurl }}{{ site.baseurl }}/history/) 
+  * [SSI\DID History]({{ site.baseurl }}/history/) 
     * [Losing Control over our Personal Information]({{ site.baseurl }}/history/#losing-control-over-our-personal-information) '80s
     * [PGP - Web of Trust]({{ site.baseurl }}/history/#pgp---web-of-trust) '91
     * [International Planetwork Conference]({{ site.baseurl }}/history/#international-planetwork-conference) '00s
