@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Hyperledger Indy Resources
 **Protocol, Governance, Education, Ecosystem** 
 

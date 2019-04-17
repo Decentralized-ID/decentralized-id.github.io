@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Decentralized Identity Initiatives
 
 ## Directory

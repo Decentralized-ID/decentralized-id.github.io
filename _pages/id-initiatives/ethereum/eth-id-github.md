@@ -5,20 +5,6 @@ layout: single
 
 A listing of any Github Repositories for Ethereum Based Decentralized Identity specifications and applications.
 
-## Contents
-
-* [EIP - ERC](#eip---erc)
-* [Jolocom](#jolocom)
-* [uPort](#uport)
-  * [uPort DID](#uport-did)
-  * [uPort Identification](#uport-identification)
-  * [uPort Mobile](#uport-mobile)
-  * [uPort Lambda](#uport-lambda)
-  * [uPort React](#uport-react)
-  * [uPort Assorted](#uport-assorted)
-* [Spid-Eth](#spidchain)
-* [Cryptonomica](#cryptonomica)
-
 
 ## EIP - ERC
 
