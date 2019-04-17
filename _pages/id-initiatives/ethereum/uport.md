@@ -29,13 +29,14 @@ redirect_from: id-initiatives/ethereum/uport/
 
 ## GitHub
 
-* [uPort GitHub Repos](eth-id-github.html#uport)
-  * [uPort DID](eth-id-github.html#uport-did)
-  * [uPort Identification](eth-id-github.html#uport-identification)
-  * [uPort Mobile](eth-id-github.html#uport-mobile)
-  * [uPort Lambda](eth-id-github.html#uport-lambda)
-  * [uPort React](eth-id-github.html#uport-react)
-  * [uPort Assorted](eth-id-github.html#uport-assorted)
+
+* [uPort GitHub Repos](https://infominer.id/DIDecentralized/ethereum/id-github/#uport)
+  * [uPort DID](https://infominer.id/DIDecentralized/ethereum/id-github/#uport-did)
+  * [uPort Identification](https://infominer.id/DIDecentralized/ethereum/id-github/#uport-identification)
+  * [uPort Mobile](https://infominer.id/DIDecentralized/ethereum/id-github/#uport-mobile)
+  * [uPort Lambda](https://infominer.id/DIDecentralized/ethereum/id-github/#uport-lambda)
+  * [uPort React](https://infominer.id/DIDecentralized/ethereum/id-github/#uport-react)
+  * [uPort Assorted](https://infominer.id/DIDecentralized/ethereum/id-github/#uport-assorted)
 
 ## Literature
 
