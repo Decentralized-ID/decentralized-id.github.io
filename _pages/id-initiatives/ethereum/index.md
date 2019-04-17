@@ -17,29 +17,6 @@ redirect_from: id-initiatives/ethereum
 * [Proof-of-Individuality](http://proofofindividuality.online/) — how to prove a person only has one account
    * [Anti-Sybil Protocol using virtual pseudonym parties](https://medium.com/@unlisted/anti-sybil-protocol-using-virtual-pseudonym-parties-10276fcf3b20)
 
-## Contents
-* [ERC-EIP](#erc-eip)
-* [ERC725-735](#erc725-735)
-* [uPort](#uport)
-* [Jolocom](#jolocom)
-* [Spidchain](#spidchain)
-* [Cryptonomica](#cryptonomica)
-* [Assorted Ethereum Apps](#assorted-ethereum-apps)
-
-### Directory
-* [Eth Github Repositories](eth-id-github.md) **>>**
-  * [EIP - ERC](eth-id-github.md#eip---erc) **>>**
-  * [Jolocom](eth-id-github.md#jolocom) **>>**
-  * [uPort](eth-id-github.md#uport) **>>**
-    * [uPort DID](eth-id-github.md#uport-did) **>>**
-    * [uPort Identification](eth-id-github.md#uport-identification) **>>**
-    * [uPort Mobile](eth-id-github.md#uport-mobile) **>>**
-    * [uPort Lambda](eth-id-github.md#uport-lambda) **>>**
-    * [uPort React](eth-id-github.md#uport-react) **>>**
-    * [uPort Assorted](eth-id-github.md#uport-assorted) **>>**
-  * [Spid-Eth](eth-id-github.md#spidchain) **>>**
-  * [Cryptonomica](eth-id-github.md#cryptonomica) **>>**
-
 ## ERC-EIP
 
 * [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
