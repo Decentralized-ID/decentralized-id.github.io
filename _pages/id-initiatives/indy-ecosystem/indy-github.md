@@ -1,7 +1,7 @@
 ---
 title: Indy Github Repositories
 layout: single
-permalink: id-initiatives/indy-ecosystem/github/
+permalink: indy-ecosystem/github/
 redirect_from:
   - id-initiatives/indy-ecosystem/indy-github/
   - indy-ecosystem/github
