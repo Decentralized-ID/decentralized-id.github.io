@@ -11,29 +11,6 @@ redirect_from: history
 
 
 
-## Contents
-* [Losing Control over our Personal Information](#losing-control-over-our-personal-information) '80s
-* [PGP - Web of Trust](#pgp---web-of-trust) '91
-* [International Planetwork Conference](#international-planetwork-conference) '00s
-* [XNS Public Trust Organization](#xns-public-trust-organization)
-* [The Augmented Social Network](#augmented-social-network) '03
-* [IDCommons](#idcommons) '01
-* [Identity Gang](#identity-gang) '04
-  * [Kim Cameron - Laws of Identity](#kim-cameron---laws-of-identity) 
-* [Internet Identity Workshop—IIW](#internet-identity-workshop) '05
-* [W3C Credentials Community Group](#w3c-credentials-community-group) '14 
-* [Bitnation](#bitnation) '15
-* [The United Nations Sustainable Development Goals](#united-nations-sustainable-development-goals) '15
-* [#Rebooting-Web-of-Trust (RWoT)](#rebooting-the-web-of-trust) 
-* [Evernym](#evernym)
-* [ID2020 and the GDPR](#id2020-and-the-gdpr) '16
-* [Late 2016](#late-2016)
-* [Identity Foundation](#identity-foundation) '17
-* [Standards History](#standards-history)
-* [Resources](#resources)
-
-
-
 ## Losing Control Over our Personal Information [**^**](#contents)
 
 ![](assets/img/chaum-security-without-identification-big-brother.png)

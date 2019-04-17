@@ -2,10 +2,9 @@
 layout: single
 title: "Hyperledger Indy Resources" 
 description: "A growing collection of educational resources related to Hyperledger Indy, the Sovrin Foundation, and Evernym."
-twitter:
-  card: "summary_large_image"
 header:
-  image: "https://i.imgur.com/6O3gTXX.png"
+  image: "https://infominer.id/DIDecentralized/assets/img/evernym-indy-sovrin.png"
+  caption: "[OdysseyHackathon-21st Century Digital Citizenship Presentation](https://www.slideshare.net/OdysseyHackathon/21st-century-digital-citizenship-presentation)"
 permalink: indy-ecosystem/
 redirect_from: 
   - indy-sovrin
