@@ -25,7 +25,7 @@ baseurl                  : /DIDecentralized
 repository               : "infominer33/DIDecentralized"
 github                   : [metadata]
 teaser                   : # /assets/images/500x300.png
-logo                     : "/assets/icons/apple-touch-icon.png"
+logo                     : "https://infominer.id/DIDecentralized/assets/icons/apple-touch-icon.png"
 masthead_title           : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -97,7 +97,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : assets/img/IDecentralized.png
+og_image                 : https://infominer.id/DIDecentralized/assets/img/IDecentralized.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
