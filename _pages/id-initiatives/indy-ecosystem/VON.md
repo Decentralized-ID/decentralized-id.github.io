@@ -1,9 +1,10 @@
 ---
 title: BCGov's Verifiable Organizations Network 
 layout: single
-permalink: indy-ecosystem/von
+permalink: indy-ecosystem/von/
 redirect_from:
   - id-initiatives/indy-ecosystem/von.html
+  - indy-ecosystem/von
 sidebar:
   title: DIDecentralized
   nav: "sovnav"  
@@ -13,16 +14,6 @@ sidebar:
 >VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON. 
 >
 >VON's founders have delivered new Indy-based open source components which form VON's backbone. TheOrgBook is a publicly accessible repository of verifiable claims about organizations. VON-X enables services to verify and issue credentials. - [A Production Government Deployment of Hyperledger Indy- John Jordan, Stephen Curran.](https://hgf18.sched.com/event/G8rm/verifiable-organizations-network-a-production-government-deployment-of-hyperledger-indy-john-jordan-province-of-british-columbia-stephen-curran-cloudcompass-computing-inc)
-
-## Contents
-
-* [VON](#von)
-* [BCGov Github](#bcgov-github)
-* [BCGov - VON](#bcgov---von)
-  * [VON - Agents](#von-agents)
-  * [BCGov - DID-Auth](#bcgov---did-auth)
-  * [PSPC-SPAC-buyandsell](#pspc-spac-buyandsell) - Public Services and Procurement Canada
-* [History](#history)
 
 
 ## VON

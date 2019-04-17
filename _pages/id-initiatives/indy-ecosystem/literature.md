@@ -1,9 +1,10 @@
 ---
 title: Sovrin Related Literature and Media
 layout: single
-permalink: indy-ecosystem/literature
+permalink: indy-ecosystem/literature/
 redirect_from:
   - id-initiatives/indy-ecosystem/literature.html
+  - indy-ecosystem/literature
 sidebar:
   title: DIDecentralized
   nav: "sovnav"
