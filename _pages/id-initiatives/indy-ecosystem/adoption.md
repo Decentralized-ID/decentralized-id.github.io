@@ -3,9 +3,10 @@ title: Evernym-Sovrin-Indy Adoption
 layout: single
 classes: wide
 toc: false
-permalink: indy-ecosystem/adoption
+permalink: indy-ecosystem/adoption/
 redirect_from:
   - id-initiatives/indy-ecosystem
+  - indy-ecosystem/adoption
 sidebar:
   title: DIDecentralized
   nav: "sovnav" 
