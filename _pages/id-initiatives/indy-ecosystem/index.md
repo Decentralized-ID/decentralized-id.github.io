@@ -18,25 +18,15 @@ author_profile: true
 
 **Protocol, Governance, Education, Ecosystem** 
 
+![](https://i.imgur.com/6O3gTXX.png)
+
 This page contains a growing collection of educational resources related to Hyperledger Indy, the Sovrin Foundation, and Evernym. 
 
 Its an index for all to more easily navigate the information surrounding Hyperledger Indy.
  
 
-![](https://i.imgur.com/6O3gTXX.png)
-
 **Legend:** [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. 
-
-## Contents
-
-* [Self Sovereign Identity—SSI](#self-sovereign-identity)
-* [Hyperledger Indy](#hyperledger-indy)
-  * [Additional Indy Related](#additional-indy-related)
-  * [Wallets](#wallets)
-  * [Zero Knowledge Proof in Indy](#zero-knowledge-proofs-in-indy)
-* [Videos](#video)
-* [Podcasts](#podcasts)
 
 
 ![](https://infominer.id/DIDecentralized/assets/img/private-public-permissioned-permissionless.png)
