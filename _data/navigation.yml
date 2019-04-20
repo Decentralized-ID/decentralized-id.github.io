@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Transcripts"
+    url: "https://infominer.id/transcripts"
   - title: "Inf⧉Mine⧉"
     url: "https://infominer.id/"
   - title: "Bitcoin Historical Index"
@@ -249,6 +251,8 @@ sovnav:
     children:
       - title: "• infominer.id"
         url: "https://infominer.id/"
+      - title: "Transcripts"
+        url: "https://infominer.id/transcripts"
       - title: "• Bitcoin Historical Index"
         url: "https://infominer.id/bitcoin-history"
       - title: "• S⧉urce Crypt⧉"
