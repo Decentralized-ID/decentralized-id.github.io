@@ -70,6 +70,8 @@ Infographic By: @Delpadschnick
   * [Verifiable Credentials, Schema and Overlays- Overview Decks](https://drive.google.com/drive/u/0/folders/1UxLLugRQKuV8Mdvv_X9Y6ty4szSi5ZNU?ogsrc=32)
 * [Indy August Update](https://wiki.hyperledger.org/groups/tsc/project-updates/indy-2018-aug) - Most recent report from the Hyperledger Indy team.
 * [https://inatba.org/](https://inatba.org/)
+* [forum.sovrin.org - Researching Sovrin Ledger 2.0](https://forum.sovrin.org/t/researching-sovrin-ledger-2-0/1008/6)
+* [forum.sovrin.org - Stewards as a VM on Major Cloud Providers](https://forum.sovrin.org/t/stewards-as-vm-on-major-cloud-providers/1047/6)
 
 ### Wallets
 
