@@ -149,7 +149,6 @@ It's impossible to have a conversation about decentralized-id without discussing
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
 * [Kim Camerons Identity Blog](https://identityblog.com)
 
----
 
 ## Tips Jar
 
@@ -157,8 +156,6 @@ BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 
 ![](https://imgur.com/yXLLm9Bl.png) 
 
-DOGE— DSzMxfABB8EwKiumzV7YHhS7HTvWAyM7QF
+DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
 
-![](https://i.imgur.com/0zBLoUP.png) 
-
-...
+<img src="https://imgur.com/z316u0c.png" width="150"> 
