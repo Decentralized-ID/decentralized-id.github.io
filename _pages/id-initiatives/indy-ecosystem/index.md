@@ -30,8 +30,8 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. 
 
 
-![](https://infominer.id/DIDecentralized/assets/img/private-public-permissioned-permissionless.png)
-Infographic By: @Delpadschnick
+{% include figure image_path="https://infominer.id/DIDecentralized/assets/img/private-public-permissioned-permissionless.png" alt="this is a placeholder image" caption="By: @Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
+
 
 ## Hyperledger Indy
 
