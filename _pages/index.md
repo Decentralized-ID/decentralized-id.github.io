@@ -6,7 +6,7 @@ twitter:
   card      : "summary_large_image"
 header:
   image     : "https://infominer.id/DIDecentralized/assets/img/didecentral.png"
-  caption   : "@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)"
+  caption   : "@Delpadschnick - [CryptoDesign.io](https://CryptoDesign.io)"
 author_profile: true
 permalink: /
 ---
