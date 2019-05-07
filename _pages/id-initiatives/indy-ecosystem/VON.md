@@ -5,6 +5,8 @@ permalink: indy-ecosystem/von/
 redirect_from:
   - id-initiatives/indy-ecosystem/von.html
   - indy-ecosystem/von
+  - indy-ecosystem/VON.html
+  - id-initiatives/indy-ecosystem/VON/
 sidebar:
   title: DIDecentralized
   nav: "sovnav"  

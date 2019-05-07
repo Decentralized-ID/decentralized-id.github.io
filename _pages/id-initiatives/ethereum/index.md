@@ -8,6 +8,7 @@ permalink: ethereum/
 redirect_from: 
   - id-initiatives/ethereum
   - id-initiatives/ethereum/
+  - ethereum.html
 ---
 
 # Ethereum Identity 

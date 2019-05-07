@@ -10,6 +10,7 @@ redirect_from:
   - indy-sovrin
   - id-initiatives/indy-ecosytem
   - Indy-Sovrin
+  - indy-ecosystem
 sidebar:
   title: DIDecentralized
   nav: "sovnav"
