@@ -42,7 +42,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 ![](https://imgur.com/2LWlrgvl.png)\
 <sup><a href="https://www.edx.org/course/blockchain-for-business-an-introduction-to-hyperledger-technologies">Linux Foundation -Blockchain for Business -INDY</a></sup>
 
-## Hyperledger Indy [**^**](#Contents)
+## Hyperledger Indy
 
 ![](https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png)
 
@@ -64,7 +64,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 <img src="https://i.imgur.com/a0dpDtr.png"/>
 
 
-## Additional Indy Related [**^**](#Contents) 
+## Additional Indy Related 
 * [Hyperledger Identity Working Group-paper](https://docs.google.com/document/d/1ExFNRx-yYoS8FnDIUX1_0UBMha9TvQkfts2kVnDc4KE/edit#heading=h.7noli5fp1i70)
 * [HyperledgerIndyWGCall_2018-12-06](https://drive.google.com/file/d/1166XpTM8WgZVMN2ca53CRCJapZlAeUhM/view) Discussion of VON and Plenum Docs (w info-graphics)
 * [A Framework for Designing Cryptographic Key Management Systems](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-130.pdf) 
@@ -81,12 +81,12 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [forum.sovrin.org - Researching Sovrin Ledger 2.0](https://forum.sovrin.org/t/researching-sovrin-ledger-2-0/1008/6)
 * [forum.sovrin.org - Stewards as a VM on Major Cloud Providers](https://forum.sovrin.org/t/stewards-as-vm-on-major-cloud-providers/1047/6)
 
-### Wallets [**^**](#Contents)
+### Wallets
 
 * [How to build a Self Sovereign Identity Wallet](https://www.devteam.space/blog/how-to-build-a-self-sovereign-identity-wallet/)
 * https://github.com/streetcred-id/indy-sdk-storage
 
-### Zero Knowledge Proofs in Indy [**^**](#Contents)
+### Zero Knowledge Proofs in Indy
 <a href="https://www.slideshare.net/eralcnoslen/privacypreserving-authentication-another-reason-to-care-about-zeroknowledge-proofs"><img src="https://i.imgur.com/LAUkkbN.png"/><br/><sup>Privacy Preserving Authentication—Another reason to care about ZKP</sup></a>
 
 * [The Sovrin Network and Zero Knowledge Proof](https://sovrin.org/the-sovrin-network-and-zero-knowledge-proofs/) - high level walk through
@@ -111,7 +111,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 
 
 
-### Video [**^**](#Contents) 
+### Video 
 * [Meet the Sovrin Foundation](https://vimeo.com/299487829)
 * [Hyperledger Indy Explainer Video](https://www.youtube.com/watch?v=MnO2L6WoqD0)
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
@@ -128,10 +128,10 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [Hyperledger Global Forum - Video](https://www.youtube.com/playlist?list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP)
 
 
-### Podcasts [**^**](#contents) 
+### Podcasts 
 * [MyData Podcast](https://mydata.org/podcast/)
 
-### Directory [**^**](#contents)
+### Directory
 * [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
   * [Indy GitHub Repos](indy-github.md)
   * [Adoption](adoption.md)	
@@ -144,7 +144,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
     * [Research Papers](literature.md#research-papers-)
     * [Reports](literature.md#reports)
 
-### Sources [**^**](#contents) 
+### Sources 
 * [Evernym](https://www.evernym.com/)
 * [Sovrin Foundation](https://sovrin.org/)
 * [wiki.hyperledger.org—Indy](https://wiki.hyperledger.org/display/indy)
@@ -156,7 +156,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 
 ---
 
-## Tips Jar [**^**](#contents)
+## Tips Jar
 
 BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
 

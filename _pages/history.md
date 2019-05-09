@@ -11,7 +11,7 @@ redirect_from: history
 
 
 
-## Losing Control Over our Personal Information [**^**](#contents)
+## Losing Control Over our Personal Information
 
 ![](assets/img/chaum-security-without-identification-big-brother.png)
 
@@ -24,7 +24,7 @@ redirect_from: history
   >
   > The paper identifies, classifies and describes the various dataveillance techniques. It then examines the benefits, and especially the dangers, arising from dataveillance. It considers the intrinsic and extrinsic controls that act to keep the application of dataveillance under control, and suggests some appropriate policy measures. 
 
-## PGP - Web of Trust [**^**](#contents)
+## PGP - Web of Trust
 
 [![](https://i.imgur.com/sMV9PE4.png)](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 
@@ -34,7 +34,7 @@ Phil [Zimmerman creates PGP](https://www.philzimmermann.com/EN/essays/WhyIWroteP
 
 * [PGP -Web of Trust -linux.com](https://www.linux.com/learn/pgp-web-trust-core-concepts-behind-trusted-communication)
 
-## International Planetwork Conference [**^**](#contents)
+## International Planetwork Conference
 
 ![](https://i.imgur.com/RfKqBP9.png)
 
@@ -42,7 +42,7 @@ The first International [Planetwork](https://planetwork.net/about.html) Conferen
 
 The community that developed around the Planetwork conferences, including [Linktank](https://planetwork.net/linktank.html), form an intellectual foundation for what became Self Sovereign Identity.
 
-## XNS Public Trust Organization [**^**](#contents)
+## XNS Public Trust Organization
 
 ![](https://i.imgur.com/BNpzEkE.png)
 
@@ -50,14 +50,14 @@ XNS Public Trust Organization. Founded in July 2000, shortly after Planetwork Co
 
 > to promote the concept of individuals owning their own digital identity and data based on a nascent technology being produced by two Technical Committees at OASIS: XRI (Extensible Resource Identifier) and XDI (Extensible Data Interchange).
 
-## Augmented Social Network [**^**](#contents)
+## Augmented Social Network
 
 ![](https://i.imgur.com/B5Bja7O.png)
 
 * *[The Augmented Social Network](http://asn.planetwork.net/): Building Identity and Trust into the Next-Generation Internet,* presented at the June 2003 Planetwork conference and published in [First Monday](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1068/988) the Peer-Reviewed Journal on the Internet 8/4/03.
   >"[This paper](http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf) proposes the creation of an Augmented Social Network (ASN) that would build identity and trust into the architecture of the Internet"
 
-## IDCommons [**^**](#contents)
+## IDCommons
 
 ![](https://i.imgur.com/AOw2oXx.png)
 
@@ -69,7 +69,7 @@ Resuling in a mailing list:
 * [community@lists.idcommons.net](https://lists.idcommons.net/lists/info/community)
   > The general community mailing list for Identity Commons. The list is also called the Identity Gang mailing list and was formerly idworkshop at googlegroups.
 
-## Identity Gang [**^**](#contents)
+## Identity Gang
 
 ![](https://i.imgur.com/xbfK3EF.png)
 
@@ -96,7 +96,7 @@ Resuling in a mailing list:
 * Paul Trevithick created the [Identity Gang Lexicon](https://web.archive.org/web/20080916112039/wiki.idcommons.net/Lexicon) -2005.
 
 
-### Kim Cameron - Laws of Identity [**^**](#contents)
+### Kim Cameron - Laws of Identity
 
 [![](https://i.imgur.com/570mUhZ.png)](https://identityblog.com)
 
@@ -105,7 +105,7 @@ Resuling in a mailing list:
 
 
 
-## Internet Identity Workshop [**^**](#contents)
+## Internet Identity Workshop
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
 
 
@@ -133,7 +133,7 @@ IIW participants began the effort towards creating a truly [user centric identit
   * [HubID First to Deploy Windhover Principles and Framework for Digital Identity, Trust and Open Data](https://hubculture.com/hubs/47/news/689/)
 * [WEForum - Personal Data: The Emergence of a New Asset Class](http://www3.weforum.org/docs/WEF_ITTC_PersonalDataNewAsset_Report_2011.pdf)
 
-## Respect Network [**^**](#contents)
+## Respect Network
 
 [Around 2011](https://web.archive.org/web/20121004035433/http://respectnetwork.com/respect-trust-framework), Respect Network began working to promote the idea of personal data clouds for the protection of personal information:
 
@@ -144,17 +144,17 @@ IIW participants began the effort towards creating a truly [user centric identit
   > * The Respect Trust Framework establishes a set of five simple yet universal principles governing the control and protection of identity and personal data­­—principles that operate at a higher level than conventional privacy policies. These five principles can be summed up by “the 5 p’s” in one sentence: A promise of permission, protection, portability, and proof.
 
 
-## W3C Credentials Community Group [**^**](#contents)
+## W3C Credentials Community Group
 
 [8/14](https://www.w3.org/community/credentials/charter-20140808/) The [Credentials Community Group](https://www.w3.org/community/credentials/)[[**ϟ**](https://w3c-ccg.github.io/)] forms, hosted by [World Wide Web Consortium(W3C)](https://www.w3.org/)[[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)] : "to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." —proposed by [Manu Sporney](http://manu.sporny.org/)[[**T**](https://twitter.com/manusporny)] (of [digitalbazaar.com](https://digitalbazaar.com/))
 
 * [Consensys begins work on uPort](https://medium.com/@ConsenSys/identity-is-defined-in-merriam-s-dictionary-as-who-someone-is-a3d6a69f5fa4) -2015
 
-## Bitnation [**^**](#contents)
+## Bitnation
 
 9\15 [Bitnation](https://bitnation.co/) "seeks to establish the concept of '*world citizenship*' via a bitcoin based identity, offering '[*Blockchain Emergency IDs*](https://refugees.bitnation.co/)' to refugees. [[**>**](#Bitcoin)]
 
-## United Nations Sustainable Development Goals [**^**](#contents)
+## United Nations Sustainable Development Goals
 
 <img src="https://i.imgur.com/6ffztbs.png"/>
 
@@ -170,7 +170,7 @@ Develop effective, accountable and transparent institutions at all levels
 * [Additional Info on Blockchain and the United Nations](https://infominer.id/research/UnitedNations.html)
 
 
-## Rebooting the Web Of Trust [**^**](#contents)
+## Rebooting the Web Of Trust
 
 In relation to SSI, '[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims. *Each party attesting to your identity information becomes a strand in your web of trust.*
 
@@ -188,7 +188,7 @@ The first [Rebooting Web of Trust](http://www.WebOfTrust.info)(RWoT)  workshop w
 
 At the end of 2015, the Department of Homeland Security announced that it had funds available for the development of [Blockchain Security and Identity Verification Technologies](https://blog.aniljohn.com/2015/12/federal-gov-funds-for-identity-r-and-d.html).
 
-## Evernym [**^**](#contents)
+## Evernym
 
 ![](https://untangled.world/wp-content/uploads/2017/08/everynym-logo-1400x357.png)
 
@@ -198,7 +198,7 @@ At the end of 2015, the Department of Homeland Security announced that it had fu
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186)
 
 
-## ID2020 and the GDPR [**^**](#contents)
+## ID2020 and the GDPR
 
 ![](https://imgur.com/ymviAssl.png)
 
@@ -219,7 +219,7 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
    >"Respect Network is conducting a research project for the [U.S. Department of Homeland Security](https://bravenewcoin.com/insights/u-s-department-of-homeland-security-funds-four-blockchain-companies-developing-new-cyber-security-technology), HSHQDC-16-C-00061, to analyze the applicability of blockchain technologies to a decentralized identifier system. Our thesis is that blockchains, or more generically distributed ledgers, are a potentially powerful new tool for “identity roots” — the starting points for an Internet identity. However “blockchain identity” may not fully address the core security and privacy principles needed in a complete identity system. In this case DIDs — Decentralized Identifiers rooted on a distributed ledger — may end up being a foundational building block for higher level identity management solutions. -
 
-## Late 2016 [**^**](#contents)
+## Late 2016
 
 * [News Release: DHS S&T Awards $1.3 Million to Small Businesses for Cyber Security Research and Development](https://www.dhs.gov/science-and-technology/news/2016/08/12/news-release-dhs-st-awards-13-million-small-businesses-cyber) -2016
   * [Applying Blockchain to Decentralized Identity](https://www.sbir.gov/sbirsearch/detail/1241097) 
@@ -239,14 +239,14 @@ Evident from the other [whitepapers](https://github.com/WebOfTrustInfo/ID2020Des
 * Learning Machine working with MIT on an [open standard](https://medium.com/learning-machine-blog/blockchain-credentials-b4cf5d02bbb7) for blockchain credentials for the past year. Led by Chris Jagers, Kim Hamilton Duffy, and John Papinchak their Blockcerts prototype was released in October 2016.
 
 
-## Identity Foundation [**^**](#contents)
+## Identity Foundation
 
 On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundation (DIF) [was announced](https://www.ethnews.com/DecentralizedIDentity-foundation-announces-formation-at-consensus-2017):
 * [Conensus 2017 - Building an Foundation for Decentralized Identity](https://www.youtube.com/watch?v=l5laRZfn8AI) (video)
 * [Decentralized Identity Foundation Grows To 56 Members In Our First Year](https://medium.com/DecentralizedIDentity/DecentralizedIDentity-foundation-grows-to-56-members-in-our-first-year-3ec117e811d8)
 
 
-## Standards History [**^**](#contents)
+## Standards History
 ![](https://i.imgur.com/XtZQg0j.png)
 
 ![](https://i.imgur.com/FBe3S0w.png)
@@ -259,7 +259,7 @@ On May 22 at Consensus 2017 the formation of the Decentralized Identity Foundati
 <a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a> [<a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">**ϟ**</a>]
 
 
-## Resources [**^**](#contents)
+## Resources
 * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
 * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
 * [Identity Commons-History](http://wiki.idcommons.net/History)
