@@ -145,7 +145,6 @@ IIW participants began the effort towards creating a truly [user centric identit
 
 
 ## W3C Credentials Community Group
-
 [8/14](https://www.w3.org/community/credentials/charter-20140808/) The [Credentials Community Group](https://www.w3.org/community/credentials/)[[**ϟ**](https://w3c-ccg.github.io/)] forms, hosted by [World Wide Web Consortium(W3C)](https://www.w3.org/)[[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)] : "to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." —proposed by [Manu Sporney](http://manu.sporny.org/)[[**T**](https://twitter.com/manusporny)] (of [digitalbazaar.com](https://digitalbazaar.com/))
 
 * [Consensys begins work on uPort](https://medium.com/@ConsenSys/identity-is-defined-in-merriam-s-dictionary-as-who-someone-is-a3d6a69f5fa4) -2015
