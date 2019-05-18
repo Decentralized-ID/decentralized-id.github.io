@@ -3,7 +3,7 @@ title: Decentralized Identity Initiatives
 layout: single
 permalink: id-initiatives/
 redirect_from: id-initiatives
-author_profile: true 
+author_profile: false
 ---
 
 ## Directory
