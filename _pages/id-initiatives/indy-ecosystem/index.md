@@ -72,7 +72,6 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [Indy August Update](https://wiki.hyperledger.org/groups/tsc/project-updates/indy-2018-aug) - Most recent report from the Hyperledger Indy team.
 * [https://inatba.org/](https://inatba.org/)
 * [forum.sovrin.org - Researching Sovrin Ledger 2.0](https://forum.sovrin.org/t/researching-sovrin-ledger-2-0/1008/6)
-* [forum.sovrin.org - Stewards as a VM on Major Cloud Providers](https://forum.sovrin.org/t/stewards-as-vm-on-major-cloud-providers/1047/6)
 
 ### Wallets
 
@@ -100,8 +99,11 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
 * [Concepts and Languages for Privacy-Preserving Attribute-Based Authentication](http://dl.ifip.org/db/conf/idman/idman2013/CamenischDLNPP13.pdf)
 
+### Known Concerns
 
-
+* [forum.sovrin.org - Stewards as a VM on Major Cloud Providers](https://forum.sovrin.org/t/stewards-as-vm-on-major-cloud-providers/1047/6)
+* [raw attrib data allows arbitrary data to be anchored to a nym.](https://jira.hyperledger.org/browse/INDY-2101)
+* [Vanity did's are not discouraged in software.](https://jira.hyperledger.org/browse/INDY-2100)
 
 
 ### Video 
