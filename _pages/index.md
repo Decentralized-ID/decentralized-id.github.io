@@ -118,7 +118,6 @@ It's impossible to have a conversation about decentralized-id without discussing
   * [Blockpass]({{ site.baseurl }}/id-initiatives/blockpass/)
   * [Danube]({{ site.baseurl }}/id-initiatives/danube/)
   * [Democracy Earth]({{ site.baseurl }}/id-initiatives/democracy-earth/)
-  * [Digital Bazaar]({{ site.baseurl }}/id-initiatives/digital-bazaar/)
   * [Ethereum]({{ site.baseurl }}/id-initiatives/ethereum/) 
     * [ERC-EIP]({{ site.baseurl }}/id-initiatives/ethereum/#erc-eip) 
     * [ERC725-735]({{ site.baseurl }}/id-initiatives/ethereum/erc725-735)
