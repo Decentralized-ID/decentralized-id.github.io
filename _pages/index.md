@@ -4,7 +4,7 @@ title       : Identity Decentralized
 description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 header:
   image     : "https://infominer.id/DIDecentralized/assets/img/did-header.png"
-  caption   : [infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
+  caption   : "[infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)"
   og_image  : "https://infominer.id/DIDecentralized/assets/img/didecentral.png"
 author_profile: false
 permalink: /
