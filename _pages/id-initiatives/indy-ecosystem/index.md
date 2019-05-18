@@ -7,8 +7,12 @@ header:
   caption: "[OdysseyHackathon-21st Century Digital Citizenship Presentation](https://www.slideshare.net/OdysseyHackathon/21st-century-digital-citizenship-presentation)"
 permalink: indy-ecosystem/
 redirect_from: 
+  - indy-sovrin/
   - indy-sovrin
   - id-initiatives/indy-ecosytem
+  - id-initiatives/indy-ecosytem/
+  - Indy-Sovrin/
+  - indy-ecosystem/
   - Indy-Sovrin
   - indy-ecosystem
 sidebar:
