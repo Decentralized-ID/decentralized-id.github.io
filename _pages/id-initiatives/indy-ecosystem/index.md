@@ -60,7 +60,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 <img src="https://i.imgur.com/a0dpDtr.png"/>
 
 
-## Additional Indy Related 
+## Assorted
 * [Hyperledger Identity Working Group-paper](https://docs.google.com/document/d/1ExFNRx-yYoS8FnDIUX1_0UBMha9TvQkfts2kVnDc4KE/edit#heading=h.7noli5fp1i70)
 * [HyperledgerIndyWGCall_2018-12-06](https://drive.google.com/file/d/1166XpTM8WgZVMN2ca53CRCJapZlAeUhM/view) Discussion of VON and Plenum Docs (w info-graphics)
 * [A Framework for Designing Cryptographic Key Management Systems](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-130.pdf) 
@@ -77,12 +77,12 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [https://inatba.org/](https://inatba.org/)
 * [forum.sovrin.org - Researching Sovrin Ledger 2.0](https://forum.sovrin.org/t/researching-sovrin-ledger-2-0/1008/6)
 
-### Wallets
+## Wallets
 
 * [How to build a Self Sovereign Identity Wallet](https://www.devteam.space/blog/how-to-build-a-self-sovereign-identity-wallet/)
 * https://github.com/streetcred-id/indy-sdk-storage
 
-### Zero Knowledge Proofs in Indy
+## Zero Knowledge Proofs in Indy
 <a href="https://www.slideshare.net/eralcnoslen/privacypreserving-authentication-another-reason-to-care-about-zeroknowledge-proofs"><img src="https://i.imgur.com/LAUkkbN.png"/><br/><sup>Privacy Preserving Authentication—Another reason to care about ZKP</sup></a>
 
 * [The Sovrin Network and Zero Knowledge Proof](https://sovrin.org/the-sovrin-network-and-zero-knowledge-proofs/) - high level walk through
@@ -103,7 +103,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [Concepts and Features of Privacy-Preserving Attribute-Based Credentials](https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features)
 * [Concepts and Languages for Privacy-Preserving Attribute-Based Authentication](http://dl.ifip.org/db/conf/idman/idman2013/CamenischDLNPP13.pdf)
 
-### Known Concerns
+## Known Concerns
 
 * [forum.sovrin.org - Stewards as a VM on Major Cloud Providers](https://forum.sovrin.org/t/stewards-as-vm-on-major-cloud-providers/1047/6)
 * [Sovrin Stewards: REMINDER Feedback due on Sovrin Governance Framework V2 — Stakeholder Review Draft 02 documents](https://infominer.id/DIDecentralized/assets/10-31-2018-REMINDER-Feedback-due-on-Sovrin.pdf)
@@ -112,7 +112,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [Vanity did's are not discouraged in software.](https://jira.hyperledger.org/browse/INDY-2100)
 
 
-### Video 
+## Video 
 * [Meet the Sovrin Foundation](https://vimeo.com/299487829)
 * [Hyperledger Indy Explainer Video](https://www.youtube.com/watch?v=MnO2L6WoqD0)
 * [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
@@ -129,10 +129,10 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [Hyperledger Global Forum - Video](https://www.youtube.com/playlist?list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP)
 
 
-### Podcasts 
+## Podcasts 
 * [MyData Podcast](https://mydata.org/podcast/)
 
-### Directory
+## Directory
 * [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
   * [Indy GitHub Repos](https://infominer.id/DIDecentralized/id-initiatives/indy-ecosystem/github/)
   * [Adoption](https://infominer.id/DIDecentralized/id-initiatives/indy-ecosystem/adoption/)	
@@ -145,7 +145,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
     * [Research Papers](literature.md#research-papers)
     * [Reports](literature.md#reports)
 
-### Sources 
+## Sources 
 * [Evernym](https://www.evernym.com/)
 * [Sovrin Foundation](https://sovrin.org/)
 * [wiki.hyperledger.org—Indy](https://wiki.hyperledger.org/display/indy)
