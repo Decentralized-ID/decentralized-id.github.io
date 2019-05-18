@@ -12,7 +12,6 @@ redirect_from:
   - id-initiatives/indy-ecosytem
   - id-initiatives/indy-ecosytem/
   - Indy-Sovrin/
-  - indy-ecosystem/
   - Indy-Sovrin
   - indy-ecosystem
 sidebar:
