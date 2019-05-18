@@ -2,11 +2,10 @@
 layout      : "single"
 title       : Identity Decentralized
 description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
-twitter:
-  card      : "summary_large_image"
 header:
-  image     : "https://infominer.id/DIDecentralized/assets/img/didecentral.png"
+  image     : "https://infominer.id/DIDecentralized/assets/img/did-header.png"
   caption   : "@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)"
+  og_image  : "https://infominer.id/DIDecentralized/assets/img/didecentral.png"
 author_profile: false
 permalink: /
 ---
