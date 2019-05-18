@@ -14,7 +14,7 @@ redirect_from:
 sidebar:
   title: DIDecentralized
   nav: "sovnav"
-author_profile: true      
+author_profile: false      
 ---
 
 **Protocol, Governance, Education, Ecosystem** 
