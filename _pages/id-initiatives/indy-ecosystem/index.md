@@ -102,6 +102,9 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 ### Known Concerns
 
 * [forum.sovrin.org - Stewards as a VM on Major Cloud Providers](https://forum.sovrin.org/t/stewards-as-vm-on-major-cloud-providers/1047/6)
+* [Sovrin Stewards: REMINDER Feedback due on Sovrin Governance Framework V2 — Stakeholder Review Draft 02 documents](https://infominer.id/DIDecentralized/assets/10-31-2018-REMINDER-Feedback-due-on-Sovrin.pdf)
+>Note that the main risk may not be that a Cloud Provider or some of its key staff goes rogue, but that a rogue nation gives a secret order to subtly sabotage the system to a Cloud Provider that has its headquarters in that nation. Sufficient jurisdictional diversity is hence needed for both Stewards and its supporting Cloud Providers, to assure that such a sabotage attempt does not go undetected.
+
 * [raw attrib data allows arbitrary data to be anchored to a nym.](https://jira.hyperledger.org/browse/INDY-2101)
 * [Vanity did's are not discouraged in software.](https://jira.hyperledger.org/browse/INDY-2100)
 
