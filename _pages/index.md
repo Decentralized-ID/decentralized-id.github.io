@@ -8,6 +8,7 @@ header:
   og_image  : "https://infominer.id/DIDecentralized/assets/img/didecentral.png"
 author_profile: false
 permalink: /
+
 ---
 
 {% include figure image_path="https://infominer.id/DIDecentralized/assets/img/DID.png" alt="Identity Decentralized" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
