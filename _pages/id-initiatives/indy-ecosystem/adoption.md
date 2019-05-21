@@ -5,7 +5,6 @@ classes: wide
 toc: false
 permalink: indy-ecosystem/adoption/
 redirect_from:
-  - id-initiatives/indy-ecosystem
   - indy-ecosystem/adoption
   - id-initiatives/indy-ecosystem/adoption/
 sidebar:
