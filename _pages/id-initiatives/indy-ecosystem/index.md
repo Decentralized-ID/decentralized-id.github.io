@@ -153,16 +153,3 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
 * [/awesome-decentralized-id](https://github.com/infominer33/DIDecentralized)
-
----
-
-## Tips Jar
-
-BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
-
-![](https://imgur.com/yXLLm9Bl.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 
- 
