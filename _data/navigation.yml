@@ -21,7 +21,7 @@ main:
     url: "https://infominer.id/gh-pages-starter-pack.html"
   - title: "Minimal Mistakes Quickstart Guide"
     url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
-  - title: "Inf⧉Mine⧉"
+  - title: "⧉InfoMine⧉"
     url: "https://infominer.id/"
 
 
@@ -253,7 +253,7 @@ sovnav:
         url: "https://infominer.id/bitcoin-history/pgp-and-me/"
       - title: "• Github Pages Starter Pack"
         url: "https://infominer.id/gh-pages-starter-pack.html"
-  - title: "Inf⧉Mine⧉"
+  - title: "⧉InfoMine⧉"
     children:
       - title: "• infominer.id"
         url: "https://infominer.id/"
