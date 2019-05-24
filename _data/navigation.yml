@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Sitemap"
+    url: "/sitemap/"
   - title: "webwork.tools"
     url: "https://infominer.id/web-work/"
   - title: "IndieWeb"
@@ -28,6 +30,8 @@ main:
 didnav:
   - title: Featured
     children:
+      - title: "Sitemap"
+        url: "/sitemap/"
       - title: "• Identity Commons on Github"
         url: "https://github.com/identitywoman/identity-commons"
       - title: "• Web Standards"
