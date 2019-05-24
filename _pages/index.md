@@ -151,14 +151,3 @@ It's impossible to have a conversation about decentralized-id without discussing
 * [identitywoman.net](https://identitywoman.net/)
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
 * [Kim Camerons Identity Blog](https://identityblog.com)
-
-
-## Tips Jar
-
-BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
-
-![](https://imgur.com/yXLLm9Bl.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 
