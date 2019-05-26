@@ -3,7 +3,7 @@ layout: single
 title: "Hyperledger Indy Resources" 
 description: "A growing collection of educational resources related to Hyperledger Indy, the Sovrin Foundation, and Evernym."
 header:
-  image: "https://infominer.id/DIDecentralized/assets/img/evernym-indy-sovrin.png"
+  image: "https://infominer.id/DIDecentralized/images/evernym-indy-sovrin.png"
   caption: "[OdysseyHackathon-21st Century Digital Citizenship Presentation](https://www.slideshare.net/OdysseyHackathon/21st-century-digital-citizenship-presentation)"
 permalink: indy-ecosystem/
 redirect_from: 
@@ -33,7 +33,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. 
 
 
-{% include figure image_path="https://infominer.id/DIDecentralized/assets/img/private-public-permissioned-permissionless.png" alt="this is a placeholder image" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
+{% include figure image_path="https://infominer.id/DIDecentralized/images/private-public-permissioned-permissionless.png" alt="this is a placeholder image" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
 
 
 ## Hyperledger Indy
