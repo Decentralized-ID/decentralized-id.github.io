@@ -3,15 +3,15 @@ layout      : "single"
 title       : Identity Decentralized
 description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 header:
-  image     : "https://infominer.id/DIDecentralized/assets/img/did-header.png"
+  image     : "https://infominer.id/DIDecentralized/images/did-header.png"
   caption   : "[infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)"
-  og_image  : "https://infominer.id/DIDecentralized/assets/img/didecentral.png"
+  og_image  : "https://infominer.id/DIDecentralized/images/didecentral.png"
 author_profile: false
 permalink: /
 
 ---
 
-{% include figure image_path="https://infominer.id/DIDecentralized/assets/img/DID.png" alt="Identity Decentralized" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
+{% include figure image_path="https://infominer.id/DIDecentralized/images/DID.png" alt="Identity Decentralized" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
 
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
@@ -56,7 +56,7 @@ It's impossible to have a conversation about decentralized-id without discussing
 * **[/DIDecentralized/self-sovereign-identity](self-sovereign-identity)** SSI documentation is still under development. This directory is to organize existing thought on SSI in one place for ease of study, and the development of new documentation.
 
 
-<img src="https://infominer.id/DIDecentralized/assets/img/identity-decentralized.png"/>
+<img src="https://infominer.id/DIDecentralized/images/identity-decentralized.png"/>
 
 
 ## Directory

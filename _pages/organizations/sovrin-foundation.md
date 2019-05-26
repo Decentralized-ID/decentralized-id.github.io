@@ -4,8 +4,8 @@ layout: single
 classes: wide
 toc: false
 header: 
-  image: "https://infominer.id/DIDecentralized/assets/img/sovrin-foundation.png"
-  og_image: "https://infominer.id/DIDecentralized/assets/img/sovrin-foundation.png"
+  image: "https://infominer.id/DIDecentralized/images/sovrin-foundation.png"
+  og_image: "https://infominer.id/DIDecentralized/images/sovrin-foundation.png"
   caption: "[cryptodesign.io](http://cryptodesign.io/portfolio/sovrin-stewards/)"
 permalink: organizations/sovrin-foundation/
 redirect_from: 
