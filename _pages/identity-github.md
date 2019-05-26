@@ -1,7 +1,7 @@
 ---
 layout: single
-title         : SSI-DID Github Repositories
-description   : "A start at listing all DID-SSI related GitHub Repositories."
+title: SSI-DID Github Repositories
+description: "A start at listing all DID-SSI related GitHub Repositories."
 header:
   image: "https://infominer.id/images/decentralized-identity-github-repositories.png"
 twitter:
