@@ -77,7 +77,7 @@ To other pages within this repository.
     * [W3C Credentials Community Group](_pages/history.md#w3c-credentials-community-group-) '14 
     * [Bitnation](_pages/history.md#bitnation-) '15
     * [United Nations Sustainable Development Goals](_pages/history.md#united-nations-sustainable-development-goals-) '15
-    * [Rebooting-Web-of-Trust (/RWoT)](_pages/history.md#rebooting-the-web-of-trust-)
+    * [Rebooting-Web-of-Trust)](_pages/history.md#rebooting-the-web-of-trust)
     * [Evernym](_pages/history.md#evernym)
     * [ID2020 and the GDPR](_pages/history.md#id2020-and-the-gdpr-) '16
     * [Late 2016](_pages/history.md#late-2016)
