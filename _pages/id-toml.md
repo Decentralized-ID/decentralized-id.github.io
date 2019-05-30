@@ -4,6 +4,7 @@ classes: wide
 title: Blockchain Identity Reources - TOML
 description: The beginnings of a tagged database for blockchain identity related resources.
 permalink: toml/id-toml/
+canonical_url: 'https://infominer.id/DIDecentralized/toml/id-toml/'
 redirect_from:
   - toml/id-toml.html
   - toml/id-toml

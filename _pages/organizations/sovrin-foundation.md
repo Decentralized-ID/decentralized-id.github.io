@@ -8,6 +8,7 @@ header:
   og_image: "https://infominer.id/DIDecentralized/images/sovrin-foundation.png"
   caption: "[cryptodesign.io](http://cryptodesign.io/portfolio/sovrin-stewards/)"
 permalink: organizations/sovrin-foundation/
+canonical_url: 'https://infominer.id/DIDecentralized/organizations/sovrin-foundation/'
 redirect_from: 
   - organizations/sovrin-foundation
 ---

@@ -5,6 +5,7 @@ description: "A reasonably complete listing of #RebootingWebOfTrust Papers, Topi
 header: 
   image: "https://i.imgur.com/Nmxk4fE.png"
 permalink: rebooting-web-of-trust/
+canonical_url: 'https://infominer.id/DIDecentralized/rebooting-web-of-trust/'
 redirect_from:
   - "Rebooting-Web-of-Trust.html"
   - workshops/rebooting-web-of-trust/

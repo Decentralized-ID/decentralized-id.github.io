@@ -4,6 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/ontology/
+canonical_url: 'https://infominer.id/DIDecentralized/id-initiatives/ontology/'
 redirect_from: id-initiatives/ontology
 ---
 

@@ -4,6 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/ibm/
+canonical_url: 'https://infominer.id/DIDecentralized/id-initiatives/ibm/'
 redirect_from: id-initiatives/ibm
 ---
 

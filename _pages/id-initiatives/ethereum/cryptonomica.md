@@ -4,6 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/ethereum/cryptonomica/
+canonical_url: 'https://infominer.id/DIDecentralized/id-initiatives/ethereum/cryptonomica/'
 redirect_from: id-initiatives/ethereum/cryptonomica
 ---
 

@@ -4,6 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: organizations/mydata/
+canonical_url: 'https://infominer.id/DIDecentralized/organizations/mydata/'
 redirect_from: organizations/mydata
 ---
 

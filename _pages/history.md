@@ -6,6 +6,7 @@ header:
   image: "https://infominer.id/DIDecentralized/images/history-user-centric-data-identity.png"
   caption: "2011 - [napsterization.org - Who Stewards the Personal Data Question? Org Chart](http://napsterization.org/stories/archives/000769.html)"
 permalink: history/
+canonical_url: 'https://infominer.id/DIDecentralized/history/'
 redirect_from: history
 ---
 

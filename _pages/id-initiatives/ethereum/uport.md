@@ -4,6 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/ethereum/uPort/
+canonical_url: 'https://infominer.id/DIDecentralized/id-initiatives/ethereum/uPort/'
 redirect_from: id-initiatives/ethereum/uport/
 ---
 

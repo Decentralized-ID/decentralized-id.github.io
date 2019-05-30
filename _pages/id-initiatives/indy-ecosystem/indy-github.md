@@ -2,6 +2,7 @@
 title: Indy Github Repositories
 layout: single
 permalink: indy-ecosystem/github/
+canonical_url: 'https://infominer.id/DIDecentralized/indy-ecosystem/github/'
 redirect_from:
   - id-initiatives/indy-ecosystem/indy-github/
   - indy-ecosystem/github

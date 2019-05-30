@@ -4,6 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/microsoft/
+canonical_url: 'https://infominer.id/DIDecentralized/id-initiatives/microsoft/'
 redirect_from: id-initiatives/microsoft
 ---
 
