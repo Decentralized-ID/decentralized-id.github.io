@@ -3,32 +3,11 @@ title: Decentralized Identity Initiatives
 layout: single
 permalink: id-initiatives/
 canonical_url: 'https://infominer.id/DIDecentralized/id-initiatives/'
-redirect_from: id-initiatives
+redirect_from: 
+  - id-initiatives
 author_profile: false
 ---
 
-## Directory
-
-* [Bitcoin](bitcoin.md)
-* [Blockstack](blockstack.md)
-* [Blockpass](blockpass.md)
-* [Danube](danube.md)
-* [Democracy Earth](democracy-earth.md)
-* [Digital Bazaar](digital-bazaar.md)
-* [Ethereum](ethereum)
-  * [Etherem Identity Github Repos](ethereum/eth-id-github.md)
-  * [Cryptonomica](ethereum/cryptonomica.md)
-  * [uPort](ethereum/uport.md)
-* [Handshake](handshake.md)
-* [Hyperledger Indy](indy-ecosystem)
-  * [Indy Github](indy-ecosystem/indy-github.md)
-  * [Literature](indy-ecosystem/literature.md)
-  * [VON](indy-ecosystem/VON.md)
-  * [Adoption](indy-ecosystem/adoption.md)
-* [IBM](ibm.md)
-* [Microsoft](microsoft.md)
-* [Ontology](ontology.md)
-* [Spid-chain](spid-chain.md)
 
 ## Assorted Identity Initiatives
 

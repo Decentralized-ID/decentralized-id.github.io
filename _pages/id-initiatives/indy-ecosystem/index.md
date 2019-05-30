@@ -10,8 +10,8 @@ canonical_url: 'https://infominer.id/DIDecentralized/indy-ecosystem/'
 redirect_from: 
   - indy-sovrin/
   - indy-sovrin
-  - id-initiatives/indy-ecosytem
-  - id-initiatives/indy-ecosytem/
+  - id-initiatives/indy-ecosystem
+  - id-initiatives/indy-ecosystem/
   - Indy-Sovrin/
   - Indy-Sovrin
   - indy-ecosystem
