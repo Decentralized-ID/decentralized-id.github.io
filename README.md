@@ -1,4 +1,4 @@
-<center><img src="assets/img/didecentral.png"/></center>
+<center><img src="images/didecentral.png"/></center>
 
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
@@ -77,7 +77,7 @@ To other pages within this repository.
     * [W3C Credentials Community Group](_pages/history.md#w3c-credentials-community-group-) '14 
     * [Bitnation](_pages/history.md#bitnation-) '15
     * [United Nations Sustainable Development Goals](_pages/history.md#united-nations-sustainable-development-goals-) '15
-    * [Rebooting-Web-of-Trust (/RWoT)](_pages/history.md#rebooting-the-web-of-trust-)
+    * [Rebooting-Web-of-Trust)](_pages/history.md#rebooting-the-web-of-trust)
     * [Evernym](_pages/history.md#evernym)
     * [ID2020 and the GDPR](_pages/history.md#id2020-and-the-gdpr-) '16
     * [Late 2016](_pages/history.md#late-2016)
