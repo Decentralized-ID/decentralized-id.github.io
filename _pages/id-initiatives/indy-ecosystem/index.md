@@ -6,6 +6,7 @@ header:
   image: "https://infominer.id/DIDecentralized/images/evernym-indy-sovrin.png"
   caption: "[OdysseyHackathon-21st Century Digital Citizenship Presentation](https://www.slideshare.net/OdysseyHackathon/21st-century-digital-citizenship-presentation)"
 permalink: indy-ecosystem/
+canonical_url: 'https://infominer.id/DIDecentralized/indy-ecosystem/'
 redirect_from: 
   - indy-sovrin/
   - indy-sovrin

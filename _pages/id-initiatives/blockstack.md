@@ -4,6 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/blockstack/
+canonical_url: 'https://infominer.id/DIDecentralized/id-initiatives/blockstack/'
 redirect_from: id-initiatives/blockstack
 ---
 ![](https://i.imgur.com/ZZx8lfR.png)

@@ -4,6 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/blockpass/
+canonical_url: 'https://infominer.id/DIDecentralized/id-initiatives/blockpass/'
 redirect_from: id-initiatives/blockpass
 ---
 

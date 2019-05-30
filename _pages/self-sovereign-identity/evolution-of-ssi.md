@@ -5,6 +5,7 @@ layout: single
 classes: wide
 toc: false
 permalink: self-sovereign-identity/evolution-of-ssi/
+canonical_url: 'https://infominer.id/DIDecentralized/self-sovereign-identity/evolution-of-ssi/'
 redirect_from: self-sovereign-identity/evolution-of-ssi
 ---
 

@@ -8,6 +8,7 @@ header:
   og_image  : "https://infominer.id/DIDecentralized/images/didecentral.png"
 author_profile: false
 permalink: /
+canonical_url: 'https://infominer.id/DIDecentralized//'
 
 ---
 

@@ -8,6 +8,7 @@ twitter:
   card: summary_large_image
 author_profile: true
 permalink: identity-github/
+canonical_url: 'https://infominer.id/DIDecentralized/identity-github/'
 redirect_from: identity-github
 toc_sticky: false
 

@@ -2,6 +2,7 @@
 title: Ethereum Decentralized-Identity Github Repositories
 layout: single
 permalink: ethereum/id-github/
+canonical_url: 'https://infominer.id/DIDecentralized/ethereum/id-github/'
 ---
 
 A listing of any Github Repositories for Ethereum Based Decentralized Identity specifications and applications.

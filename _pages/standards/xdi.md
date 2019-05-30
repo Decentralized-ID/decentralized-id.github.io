@@ -2,6 +2,7 @@
 title: XDI
 layout: single
 permalink: standards/xdi/
+canonical_url: 'https://infominer.id/DIDecentralized/standards/xdi/'
 redirect_from: standards/xdi
 ---
 

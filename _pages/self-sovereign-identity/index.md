@@ -7,6 +7,7 @@ twitter:
 layout: single
 author_profile: true 
 permalink: self-sovereign-identity/
+canonical_url: 'https://infominer.id/DIDecentralized/self-sovereign-identity/'
 redirect_from: self-sovereign-identity
 ---
 

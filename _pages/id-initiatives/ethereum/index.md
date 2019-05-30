@@ -5,6 +5,7 @@ image       : "https://infominer.id/DIDecentralized/images/ethereum.png"
 layout: single
 author_profile: true 
 permalink: ethereum/
+canonical_url: 'https://infominer.id/DIDecentralized/ethereum/'
 redirect_from: 
   - id-initiatives/ethereum
   - id-initiatives/ethereum/
