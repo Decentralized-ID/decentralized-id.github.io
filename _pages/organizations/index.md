@@ -9,7 +9,7 @@ redirect_from: organizations
 work in progress....
 
 
-  * [Decentralized Identity Foundation—DIF](identity-foundation.md) >>
-  * [My Data](mydata.md) >>
-  * [Sovrin Foundation](sovrin.foundation.md) >>
-  * [SSI Meetup](ssi-meetup.md) >>
+  * [Decentralized Identity Foundation—DIF](identity-foundation/) >>
+  * [My Data](mydata/) >>
+  * [Sovrin Foundation](sovrin-foundation/) >>
+  * [SSI Meetup](ssi-meetup/) >>
