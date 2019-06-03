@@ -32,7 +32,7 @@ didnav:
     children:
       - title: "• Sitemap"
         url: "/sitemap/"
-      - title: "• FreeNode IRC #indieweb-dev on IIW RWoT and DID's"
+      - title: "• #indieweb-dev on IIW RWoT and DID's -FreeNode"
         url: "https://infominer.id/web-work/posts/indieweb-dev-on-did/"
       - title: "• Identity Commons on Github"
         url: "https://github.com/identitywoman/identity-commons"
