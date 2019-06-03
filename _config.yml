@@ -311,6 +311,18 @@ compress_html:
     envs: development
 
 
+
+
+
+# Collections
+collections_dir: collections
+collections:
+  general:
+    output: true
+    permalink: /:collection/:path/
+    share: true
+
+
 # Defaults
 defaults:
   # _posts
@@ -333,7 +345,20 @@ defaults:
       toc_sticky  : true
       twitter:
         card: summary_large_image
-
-
-
-
+  # _2018-W3C-Authentication-Identity-Workshop
+  - scope:
+      path: ""
+      type: 2018-W3C-Authentication-Identity-Workshop
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: # true
+      share: true
+      related: true
+      idwkshp: true
+      sidebar:
+        title: DIDecentralized
+        nav: "didnav"
+      twitter:
+        card: summary_large_image
