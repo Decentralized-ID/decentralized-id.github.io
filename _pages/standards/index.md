@@ -7,6 +7,12 @@ redirect_from: standards
 author_profile: true
 ---
 
+This list page was a good start, but is due for an overhaul. 
+
+In the mean-time, heres a link you should appreciate:
+
+* [W3C Workshop on Strong Authentication & Identity](https://www.w3.org/Security/strong-authentication-and-identity-workshop/report.html)
+
 ## contents
 
 * [XDI](#xdi)
