@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: workshops/
-canonical_url: 'https://didecentral.github.io/workshops/'
+canonical_url: 'https://decentralized-id.com/workshops/'
 redirect_from: workshops
 ---
 

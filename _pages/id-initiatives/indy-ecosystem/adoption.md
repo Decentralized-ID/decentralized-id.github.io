@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: indy-ecosystem/adoption/
-canonical_url: 'https://didecentral.github.io/indy-ecosystem/adoption/'
+canonical_url: 'https://decentralized-id.com/indy-ecosystem/adoption/'
 redirect_from:
   - indy-ecosystem/adoption
   - id-initiatives/indy-ecosystem/adoption/

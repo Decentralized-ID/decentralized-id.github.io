@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/ethereum/uPort/
-canonical_url: 'https://didecentral.github.io/id-initiatives/ethereum/uPort/'
+canonical_url: 'https://decentralized-id.com/id-initiatives/ethereum/uPort/'
 redirect_from: id-initiatives/ethereum/uport/
 ---
 
@@ -31,13 +31,13 @@ redirect_from: id-initiatives/ethereum/uport/
 ## GitHub
 
 
-* [uPort GitHub Repos](https://didecentral.github.io/ethereum/id-github/#uport)
-  * [uPort DID](https://didecentral.github.io/ethereum/id-github/#uport-did)
-  * [uPort Identification](https://didecentral.github.io/ethereum/id-github/#uport-identification)
-  * [uPort Mobile](https://didecentral.github.io/ethereum/id-github/#uport-mobile)
-  * [uPort Lambda](https://didecentral.github.io/ethereum/id-github/#uport-lambda)
-  * [uPort React](https://didecentral.github.io/ethereum/id-github/#uport-react)
-  * [uPort Assorted](https://didecentral.github.io/ethereum/id-github/#uport-assorted)
+* [uPort GitHub Repos](https://decentralized-id.com/ethereum/id-github/#uport)
+  * [uPort DID](https://decentralized-id.com/ethereum/id-github/#uport-did)
+  * [uPort Identification](https://decentralized-id.com/ethereum/id-github/#uport-identification)
+  * [uPort Mobile](https://decentralized-id.com/ethereum/id-github/#uport-mobile)
+  * [uPort Lambda](https://decentralized-id.com/ethereum/id-github/#uport-lambda)
+  * [uPort React](https://decentralized-id.com/ethereum/id-github/#uport-react)
+  * [uPort Assorted](https://decentralized-id.com/ethereum/id-github/#uport-assorted)
 
 ## Literature
 

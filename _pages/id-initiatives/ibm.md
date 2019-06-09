@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/ibm/
-canonical_url: 'https://didecentral.github.io/id-initiatives/ibm/'
+canonical_url: 'https://decentralized-id.com/id-initiatives/ibm/'
 redirect_from: id-initiatives/ibm
 ---
 

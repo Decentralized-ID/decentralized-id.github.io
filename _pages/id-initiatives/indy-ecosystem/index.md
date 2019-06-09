@@ -3,10 +3,10 @@ layout: single
 title: "Hyperledger Indy Resources" 
 description: "A growing collection of educational resources related to Hyperledger Indy, the Sovrin Foundation, and Evernym."
 header:
-  image: "https://didecentral.github.io/images/evernym-indy-sovrin.png"
+  image: "https://decentralized-id.com/images/evernym-indy-sovrin.png"
   caption: "[OdysseyHackathon-21st Century Digital Citizenship Presentation](https://www.slideshare.net/OdysseyHackathon/21st-century-digital-citizenship-presentation)"
 permalink: indy-ecosystem/
-canonical_url: 'https://didecentral.github.io/indy-ecosystem/'
+canonical_url: 'https://decentralized-id.com/indy-ecosystem/'
 redirect_from: 
   - indy-sovrin/
   - indy-sovrin
@@ -34,7 +34,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 • [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. 
 
 
-{% include figure image_path="https://didecentral.github.io/images/private-public-permissioned-permissionless.png" alt="this is a placeholder image" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
+{% include figure image_path="https://decentralized-id.com/images/private-public-permissioned-permissionless.png" alt="this is a placeholder image" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
 
 
 ## Hyperledger Indy
@@ -106,7 +106,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 ## Known Concerns
 
 * [forum.sovrin.org - Stewards as a VM on Major Cloud Providers](https://forum.sovrin.org/t/stewards-as-vm-on-major-cloud-providers/1047/6)
-* [Sovrin Stewards: REMINDER Feedback due on Sovrin Governance Framework V2 — Stakeholder Review Draft 02 documents](https://didecentral.github.io/assets/10-31-2018-REMINDER-Feedback-due-on-Sovrin.pdf)
+* [Sovrin Stewards: REMINDER Feedback due on Sovrin Governance Framework V2 — Stakeholder Review Draft 02 documents](https://decentralized-id.com/assets/10-31-2018-REMINDER-Feedback-due-on-Sovrin.pdf)
   >Note that the main risk may not be that a Cloud Provider or some of its key staff goes rogue, but that a rogue nation gives a secret order to subtly sabotage the system to a Cloud Provider that has its headquarters in that nation. Sufficient jurisdictional diversity is hence needed for both Stewards and its supporting Cloud Providers, to assure that such a sabotage attempt does not go undetected.
 * [raw attrib data allows arbitrary data to be anchored to a nym.](https://jira.hyperledger.org/browse/INDY-2101)
 * [Vanity did's are not discouraged in software.](https://jira.hyperledger.org/browse/INDY-2100)
@@ -133,14 +133,14 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [MyData Podcast](https://mydata.org/podcast/)
 
 ## Directory
-* [didecentral.github.io](https://didecentral.github.io)
-  * [Indy GitHub Repos](https://didecentral.github.io/id-initiatives/indy-ecosystem/github/)
-  * [Adoption](https://didecentral.github.io/id-initiatives/indy-ecosystem/adoption/)	
-  * [VON.md](https://didecentral.github.io/id-initiatives/indy-ecosystem/von/)
-    * [VerifiableOrganizationsNetwork-HGF.md](https://didecentral.github.io/hgf-2018/VerifiableOrganizationsNetwork-HGF/)	
-    * [Microledgers-Edgechains-Hardman-HGF.md](https://didecentral.github.io/hgf-2018/Microledgers-Edgechains-Hardman-HGF/)	
-  * [Literature](https://didecentral.github.io/indy-ecosystem/literature/)
-    * [Selected Articles Windley.com](https://didecentral.github.io/indy-ecosystem/literature/#selected-articles-windleycom)
+* [didecentral.github.io](https://decentralized-id.com)
+  * [Indy GitHub Repos](https://decentralized-id.com/id-initiatives/indy-ecosystem/github/)
+  * [Adoption](https://decentralized-id.com/id-initiatives/indy-ecosystem/adoption/)	
+  * [VON.md](https://decentralized-id.com/id-initiatives/indy-ecosystem/von/)
+    * [VerifiableOrganizationsNetwork-HGF.md](https://decentralized-id.com/hgf-2018/VerifiableOrganizationsNetwork-HGF/)	
+    * [Microledgers-Edgechains-Hardman-HGF.md](https://decentralized-id.com/hgf-2018/Microledgers-Edgechains-Hardman-HGF/)	
+  * [Literature](https://decentralized-id.com/indy-ecosystem/literature/)
+    * [Selected Articles Windley.com](https://decentralized-id.com/indy-ecosystem/literature/#selected-articles-windleycom)
     * [EU General Data Protection Regulation Act](literature.md#eu-general-data-protection-regulation-act)
     * [Research Papers](literature.md#research-papers)
     * [Reports](literature.md#reports)

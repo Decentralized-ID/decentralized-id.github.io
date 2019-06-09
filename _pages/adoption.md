@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: adoption/
-canonical_url: 'https://didecentral.github.io/adoption/'
+canonical_url: 'https://decentralized-id.com/adoption/'
 redirect_from: adoption
 ---
 

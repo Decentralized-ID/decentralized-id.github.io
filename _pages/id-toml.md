@@ -4,7 +4,7 @@ classes: wide
 title: Blockchain Identity Reources - TOML
 description: The beginnings of a tagged database for blockchain identity related resources.
 permalink: toml/id-toml/
-canonical_url: 'https://didecentral.github.io/toml/id-toml/'
+canonical_url: 'https://decentralized-id.com/toml/id-toml/'
 redirect_from:
   - toml/id-toml.html
   - toml/id-toml
@@ -18,7 +18,7 @@ This page has two toml files from [infominer33/SourceCrypto](https://github.com/
 
 ## Wish List
 
-* some simple way to check [didecentral.github.io](https://didecentral.github.io) against these lists, and output a list of links that have yet to be included.
+* some simple way to check [didecentral.github.io](https://decentralized-id.com) against these lists, and output a list of links that have yet to be included.
 
 * an app that will take a list of links as the input and output a toml file with title\description automatically populated based on metadata..
 

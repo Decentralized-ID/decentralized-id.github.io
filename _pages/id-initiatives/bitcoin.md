@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/bitcoin/
-canonical_url: 'https://didecentral.github.io/id-initiatives/bitcoin/'
+canonical_url: 'https://decentralized-id.com/id-initiatives/bitcoin/'
 redirect_from: id-initiatives/bitcoin
 ---
 ![](https://i.imgur.com/q32lAXY.png)

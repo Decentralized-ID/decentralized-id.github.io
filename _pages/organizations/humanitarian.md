@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: humanitarian/
-canonical_url: 'https://didecentral.github.io/humanitarian/'
+canonical_url: 'https://decentralized-id.com/humanitarian/'
 redirect_from: humanitarian
 ---
 

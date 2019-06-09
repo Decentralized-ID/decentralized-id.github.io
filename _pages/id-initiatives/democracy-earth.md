@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/democracy-earth/
-canonical_url: 'https://didecentral.github.io/id-initiatives/democracy-earth/'
+canonical_url: 'https://decentralized-id.com/id-initiatives/democracy-earth/'
 redirect_from: id-initiatives/democracy-earth
 ---
 

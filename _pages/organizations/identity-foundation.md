@@ -2,7 +2,7 @@
 title: Decentralized Identity Foundation - DIF
 layout: single
 permalink: organizations/identity-foundation/
-canonical_url: 'https://didecentral.github.io/organizations/identity-foundation/'
+canonical_url: 'https://decentralized-id.com/organizations/identity-foundation/'
 redirect_from:
   - organizations/identity-foundation
   - identity-foundation.html

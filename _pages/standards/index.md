@@ -2,7 +2,7 @@
 title:  DID Related Web Standards
 layout: single
 permalink: standards/
-canonical_url: 'https://didecentral.github.io/standards/'
+canonical_url: 'https://decentralized-id.com/standards/'
 redirect_from: standards
 author_profile: true
 ---

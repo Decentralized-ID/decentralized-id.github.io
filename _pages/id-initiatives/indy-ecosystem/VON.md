@@ -2,7 +2,7 @@
 title: BCGov's Verifiable Organizations Network 
 layout: single
 permalink: indy-ecosystem/von/
-canonical_url: 'https://didecentral.github.io/indy-ecosystem/von/'
+canonical_url: 'https://decentralized-id.com/indy-ecosystem/von/'
 redirect_from:
   - id-initiatives/indy-ecosystem/von.html
   - indy-ecosystem/von

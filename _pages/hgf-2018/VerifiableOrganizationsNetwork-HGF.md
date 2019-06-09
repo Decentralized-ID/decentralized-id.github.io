@@ -3,7 +3,7 @@ title: Verifiable Organizations Network - A Production Government Deployment of 
 description: Transcript of Presentation by John Jordan and Stephen Curran at HGF 2018
 image: "https://infominer.id/images/VON.png"
 permalink: hgf-2018/VerifiableOrganizationsNetwork-HGF/
-canonical_url: 'https://didecentral.github.io/hgf-2018/VerifiableOrganizationsNetwork-HGF/'
+canonical_url: 'https://decentralized-id.com/hgf-2018/VerifiableOrganizationsNetwork-HGF/'
 redirect_from: hgf-2018/VerifiableOrganizationsNetwork-HGF
 author_profile: true
 ---

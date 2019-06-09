@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/ontology/
-canonical_url: 'https://didecentral.github.io/id-initiatives/ontology/'
+canonical_url: 'https://decentralized-id.com/id-initiatives/ontology/'
 redirect_from: id-initiatives/ontology
 ---
 

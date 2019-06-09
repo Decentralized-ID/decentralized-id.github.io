@@ -1,13 +1,13 @@
 ---
 title       : Self Sovereign Identity (SSI)
 description : Literature associated with the Fundamentals of Self-Sovereign Identity.
-image       : "https://didecentral.github.io/images/sovereign-identity.png"
+image       : "https://decentralized-id.com/images/sovereign-identity.png"
 twitter:
   card      : "summary_large_image"
 layout: single
 author_profile: true 
 permalink: self-sovereign-identity/
-canonical_url: 'https://didecentral.github.io/self-sovereign-identity/'
+canonical_url: 'https://decentralized-id.com/self-sovereign-identity/'
 redirect_from: self-sovereign-identity
 ---
 

@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: gdpr/
-canonical_url: 'https://didecentral.github.io/gdpr/'
+canonical_url: 'https://decentralized-id.com/gdpr/'
 redirect_from: gdpr
 ---
 

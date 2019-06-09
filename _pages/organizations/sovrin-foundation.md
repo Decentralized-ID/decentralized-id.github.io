@@ -4,11 +4,11 @@ layout: single
 classes: wide
 toc: false
 header: 
-  image: "https://didecentral.github.io/images/sovrin-foundation.png"
-  og_image: "https://didecentral.github.io/images/sovrin-foundation.png"
+  image: "https://decentralized-id.com/images/sovrin-foundation.png"
+  og_image: "https://decentralized-id.com/images/sovrin-foundation.png"
   caption: "[cryptodesign.io](http://cryptodesign.io/portfolio/sovrin-stewards/)"
 permalink: organizations/sovrin-foundation/
-canonical_url: 'https://didecentral.github.io/organizations/sovrin-foundation/'
+canonical_url: 'https://decentralized-id.com/organizations/sovrin-foundation/'
 redirect_from: 
   - organizations/sovrin-foundation
 ---

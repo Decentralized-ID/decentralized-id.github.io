@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/ethereum/cryptonomica/
-canonical_url: 'https://didecentral.github.io/id-initiatives/ethereum/cryptonomica/'
+canonical_url: 'https://decentralized-id.com/id-initiatives/ethereum/cryptonomica/'
 redirect_from: id-initiatives/ethereum/cryptonomica
 ---
 
