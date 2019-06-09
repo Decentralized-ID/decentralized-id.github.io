@@ -8,7 +8,7 @@ header:
   og_image  : "https://didecentral.github.io/images/didecentral.png"
 author_profile: false
 permalink: /
-canonical_url: 'https://didecentral.github.io//'
+canonical_url: 'https://didecentral.github.io/'
 
 ---
 
