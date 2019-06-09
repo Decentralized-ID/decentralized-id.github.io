@@ -169,6 +169,8 @@ sovnav:
     children:
       - title: "• DIDecentralized"
         url: https://decentralized-id.com
+      - title: "• Our Values"
+        url: "https://decentralized-id.com/values/"
       - title: "• History"
         url: "https://decentralized-id.com/history/"
       - title: "• DID Adoption"
