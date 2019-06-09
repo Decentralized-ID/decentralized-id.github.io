@@ -1,11 +1,11 @@
 ---
 title       : "Ethereum Identity Specs and Apps"
 description : "A Collection of Ethereum-based Decentralized Identity Specs, Literature, (d)Apps, and GitHub Repositories."
-image       : "https://didecentral.github.io/images/ethereum.png"
+image       : "https://decentralized-id.com/images/ethereum.png"
 layout: single
 author_profile: true 
 permalink: ethereum/
-canonical_url: 'https://didecentral.github.io/ethereum/'
+canonical_url: 'https://decentralized-id.com/ethereum/'
 redirect_from: 
   - id-initiatives/ethereum
   - id-initiatives/ethereum/
@@ -56,13 +56,13 @@ This presents a method to replace the usual signup/login design pattern with a m
 * [Different Approaches to Ethereum Identity Standards](https://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87)
   ![](https://i.imgur.com/ASI0PaB.png)
 
-* [uPort GitHub Repos](https://didecentral.github.io/ethereum/id-github/#uport)
-  * [uPort DID](https://didecentral.github.io/ethereum/id-github/#uport-did)
-  * [uPort Identification](https://didecentral.github.io/ethereum/id-github/#uport-identification)
-  * [uPort Mobile](https://didecentral.github.io/ethereum/id-github/#uport-mobile)
-  * [uPort Lambda](https://didecentral.github.io/ethereum/id-github/#uport-lambda)
-  * [uPort React](https://didecentral.github.io/ethereum/id-github/#uport-react)
-  * [uPort Assorted](https://didecentral.github.io/ethereum/id-github/#uport-assorted)
+* [uPort GitHub Repos](https://decentralized-id.com/ethereum/id-github/#uport)
+  * [uPort DID](https://decentralized-id.com/ethereum/id-github/#uport-did)
+  * [uPort Identification](https://decentralized-id.com/ethereum/id-github/#uport-identification)
+  * [uPort Mobile](https://decentralized-id.com/ethereum/id-github/#uport-mobile)
+  * [uPort Lambda](https://decentralized-id.com/ethereum/id-github/#uport-lambda)
+  * [uPort React](https://decentralized-id.com/ethereum/id-github/#uport-react)
+  * [uPort Assorted](https://decentralized-id.com/ethereum/id-github/#uport-assorted)
 
 
 

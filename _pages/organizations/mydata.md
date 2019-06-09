@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: organizations/mydata/
-canonical_url: 'https://didecentral.github.io/organizations/mydata/'
+canonical_url: 'https://decentralized-id.com/organizations/mydata/'
 redirect_from: organizations/mydata
 ---
 

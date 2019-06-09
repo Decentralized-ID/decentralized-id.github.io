@@ -2,7 +2,7 @@
 title: Decentralized Identity Initiatives
 layout: single
 permalink: id-initiatives/
-canonical_url: 'https://didecentral.github.io/id-initiatives/'
+canonical_url: 'https://decentralized-id.com/id-initiatives/'
 redirect_from: 
   - id-initiatives
 author_profile: false

@@ -36,7 +36,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
     * [Reports](literature.md#reports)
 * [Sources](#sources-)
 * [infominer.id](https://infominer.id)
-* [didecentral.github.io](https://didecentral.github.io)
+* [didecentral.github.io](https://decentralized-id.com)
 
 
 ![](https://imgur.com/2LWlrgvl.png)\
@@ -132,7 +132,7 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [MyData Podcast](https://mydata.org/podcast/)
 
 ### Directory
-* [didecentral.github.io](https://didecentral.github.io)
+* [didecentral.github.io](https://decentralized-id.com)
   * [Indy GitHub Repos](indy-github.md)
   * [Adoption](adoption.md)	
   * [VON.md](VON.md)

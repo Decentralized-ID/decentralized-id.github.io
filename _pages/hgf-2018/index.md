@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: hgf-2018/
-canonical_url: 'https://didecentral.github.io/hgf-2018/'
+canonical_url: 'https://decentralized-id.com/hgf-2018/'
 redirect_from: hgf-2018
 ---
 

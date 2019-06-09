@@ -2,7 +2,7 @@
 title: Identity Articles, Research and Literature
 layout: single
 permalink: literature
-canonical_url: 'https://didecentral.github.io/literature'
+canonical_url: 'https://decentralized-id.com/literature'
 redirect_from: literature/
 ---
 

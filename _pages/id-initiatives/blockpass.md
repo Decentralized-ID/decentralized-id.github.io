@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/blockpass/
-canonical_url: 'https://didecentral.github.io/id-initiatives/blockpass/'
+canonical_url: 'https://decentralized-id.com/id-initiatives/blockpass/'
 redirect_from: id-initiatives/blockpass
 ---
 

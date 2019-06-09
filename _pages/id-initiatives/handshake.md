@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/handshake/
-canonical_url: 'https://didecentral.github.io/id-initiatives/handshake/'
+canonical_url: 'https://decentralized-id.com/id-initiatives/handshake/'
 redirect_from: id-initiatives/handshake
 ---
 

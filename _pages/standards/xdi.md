@@ -2,7 +2,7 @@
 title: XDI
 layout: single
 permalink: standards/xdi/
-canonical_url: 'https://didecentral.github.io/standards/xdi/'
+canonical_url: 'https://decentralized-id.com/standards/xdi/'
 redirect_from: standards/xdi
 ---
 
