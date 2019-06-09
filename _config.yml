@@ -20,9 +20,9 @@ title                    : "DIDecentral"
 title_separator          : "⧉ "
 name                     : "Infominer"
 description              : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
-url                      : "https://infominer.id"
-baseurl                  : /DIDecentralized
-repository               : "infominer33/DIDecentralized"
+url                      : "https://didecentral.github.io"
+baseurl                  : ""
+repository               : "didecentral/didecentral.github.io"
 github                   : [metadata]
 teaser                   : # /assets/images/500x300.png
 logo                     : "https://infominer.id/DIDecentralized/assets/icons/apple-touch-icon.png"
