@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: organizations/ssi-meetup/
-canonical_url: 'https://infominer.id/DIDecentralized/organizations/ssi-meetup/'
+canonical_url: 'https://didecentral.github.io/organizations/ssi-meetup/'
 redirect_from: organizations/ssi-meetup
 ---
 

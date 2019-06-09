@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: workshops/
-canonical_url: 'https://infominer.id/DIDecentralized/workshops/'
+canonical_url: 'https://didecentral.github.io/workshops/'
 redirect_from: workshops
 ---
 

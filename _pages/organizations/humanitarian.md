@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: humanitarian/
-canonical_url: 'https://infominer.id/DIDecentralized/humanitarian/'
+canonical_url: 'https://didecentral.github.io/humanitarian/'
 redirect_from: humanitarian
 ---
 

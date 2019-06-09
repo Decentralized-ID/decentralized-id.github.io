@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: self-sovereign-identity/ssi-principles-vs-characteristics/
-canonical_url: 'https://infominer.id/DIDecentralized/self-sovereign-identity/ssi-principles-vs-characteristics/'
+canonical_url: 'https://didecentral.github.io/self-sovereign-identity/ssi-principles-vs-characteristics/'
 redirect_from: self-sovereign-identity/ssi-principles-vs-characteristics
 ---
 

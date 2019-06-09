@@ -2,7 +2,7 @@
 title: Project Danube
 layout: single
 permalink: id-initiatives/danube/
-canonical_url: 'https://infominer.id/DIDecentralized/id-initiatives/danube/'
+canonical_url: 'https://didecentral.github.io/id-initiatives/danube/'
 redirect_from: id-initiatives/danube
 ---
 

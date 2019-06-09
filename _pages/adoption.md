@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: adoption/
-canonical_url: 'https://infominer.id/DIDecentralized/adoption/'
+canonical_url: 'https://didecentral.github.io/adoption/'
 redirect_from: adoption
 ---
 

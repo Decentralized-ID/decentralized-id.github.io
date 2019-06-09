@@ -48,5 +48,5 @@ If you have any videos you'd like to see transcripts prepared in the following f
 ---
 
 * [github.com/infominer33/DIDecentralized](https://github.com/infominer33/DIDecentralized)
-* [infominer.id/DIDecentralized](https://infominer.id/DIDecentralized)
+* [didecentral.github.io](https://didecentral.github.io)
 * [infominer.id](https://infominer.id)

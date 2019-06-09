@@ -2,7 +2,7 @@
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/
-canonical_url: 'https://infominer.id/DIDecentralized//sitemap/'
+canonical_url: 'https://didecentral.github.io//sitemap/'
 author_profile: false
 sidebar:
   nav: "sourcenav" 
