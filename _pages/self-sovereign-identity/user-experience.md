@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: self-sovereign-identity/user-experience/
-canonical_url: 'https://infominer.id/DIDecentralized/self-sovereign-identity/user-experience/'
+canonical_url: 'https://didecentral.github.io/self-sovereign-identity/user-experience/'
 redirect_from: self-sovereign-identity/user-experience
 ---
 

@@ -2,7 +2,7 @@
 title: DID-SSI Organizations
 layout: single
 permalink: organizations/
-canonical_url: 'https://infominer.id/DIDecentralized/organizations/'
+canonical_url: 'https://didecentral.github.io/organizations/'
 redirect_from: organizations
 ---
 

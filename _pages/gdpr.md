@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: gdpr/
-canonical_url: 'https://infominer.id/DIDecentralized/gdpr/'
+canonical_url: 'https://didecentral.github.io/gdpr/'
 redirect_from: gdpr
 ---
 

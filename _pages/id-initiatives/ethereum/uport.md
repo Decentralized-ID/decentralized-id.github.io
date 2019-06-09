@@ -4,7 +4,7 @@ layout: single
 classes: wide
 toc: false
 permalink: id-initiatives/ethereum/uPort/
-canonical_url: 'https://infominer.id/DIDecentralized/id-initiatives/ethereum/uPort/'
+canonical_url: 'https://didecentral.github.io/id-initiatives/ethereum/uPort/'
 redirect_from: id-initiatives/ethereum/uport/
 ---
 
@@ -31,13 +31,13 @@ redirect_from: id-initiatives/ethereum/uport/
 ## GitHub
 
 
-* [uPort GitHub Repos](https://infominer.id/DIDecentralized/ethereum/id-github/#uport)
-  * [uPort DID](https://infominer.id/DIDecentralized/ethereum/id-github/#uport-did)
-  * [uPort Identification](https://infominer.id/DIDecentralized/ethereum/id-github/#uport-identification)
-  * [uPort Mobile](https://infominer.id/DIDecentralized/ethereum/id-github/#uport-mobile)
-  * [uPort Lambda](https://infominer.id/DIDecentralized/ethereum/id-github/#uport-lambda)
-  * [uPort React](https://infominer.id/DIDecentralized/ethereum/id-github/#uport-react)
-  * [uPort Assorted](https://infominer.id/DIDecentralized/ethereum/id-github/#uport-assorted)
+* [uPort GitHub Repos](https://didecentral.github.io/ethereum/id-github/#uport)
+  * [uPort DID](https://didecentral.github.io/ethereum/id-github/#uport-did)
+  * [uPort Identification](https://didecentral.github.io/ethereum/id-github/#uport-identification)
+  * [uPort Mobile](https://didecentral.github.io/ethereum/id-github/#uport-mobile)
+  * [uPort Lambda](https://didecentral.github.io/ethereum/id-github/#uport-lambda)
+  * [uPort React](https://didecentral.github.io/ethereum/id-github/#uport-react)
+  * [uPort Assorted](https://didecentral.github.io/ethereum/id-github/#uport-assorted)
 
 ## Literature
 

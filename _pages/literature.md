@@ -2,7 +2,7 @@
 title: Identity Articles, Research and Literature
 layout: single
 permalink: literature
-canonical_url: 'https://infominer.id/DIDecentralized/literature'
+canonical_url: 'https://didecentral.github.io/literature'
 redirect_from: literature/
 ---
 

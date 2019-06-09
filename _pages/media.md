@@ -2,7 +2,7 @@
 title: SSI and DID Related Media
 layout: single
 permalink: media/
-canonical_url: 'https://infominer.id/DIDecentralized/media/'
+canonical_url: 'https://didecentral.github.io/media/'
 redirect_from: media
 ---
 

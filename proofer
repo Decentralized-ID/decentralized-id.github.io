@@ -3929,7 +3929,7 @@ Ran on 113 files!
   *  image https://i.imgur.com/9KpJRDr.png does not have an alt attribute (line 828)
   *  image https://imgur.com/3zz62kpl.png does not have an alt attribute (line 845)
   *  image https://imgur.com/yXLLm9Bl.png does not have an alt attribute (line 1034)
-  *  image https://infominer.id/DIDecentralized/images/identity-decentralized.png does not have an alt attribute (line 869)
+  *  image https://didecentral.github.io/images/identity-decentralized.png does not have an alt attribute (line 869)
   *  internal image /DIDecentralized/assets/icons/apple-touch-icon.png does not exist (line 144)
   *  internal script /DIDecentralized/assets/js/main.min.js does not exist (line 1135)
   *  internally linking to /DIDecentralized/, which does not exist (line 144)
@@ -4398,8 +4398,8 @@ Ran on 113 files!
              Either way, the return message (if any) from the server is: Peer certificate cannot be authenticated with given CA certificates
   *  External link https://github.com/hyperledger/indy-node/blob/master/docs/relationship-diagram.png failed: 404 No error
   *  External link https://github.com/hyperledger/indy-sdk/blob/master/doc/android-build.md failed: 404 No error
-  *  External link https://infominer.id/DIDecentralized/id-initiatives/indy-ecosystem/adoption/ failed: 404 No error
-  *  External link https://infominer.id/DIDecentralized/id-initiatives/indy-ecosystem/von/ failed: 404 No error
+  *  External link https://didecentral.github.io/id-initiatives/indy-ecosystem/adoption/ failed: 404 No error
+  *  External link https://didecentral.github.io/id-initiatives/indy-ecosystem/von/ failed: 404 No error
   *  External link https://wiki.hyperledger.org/groups/tsc/project-updates/indy-2018-aug failed: 404 No error
   *  External link https://wiki.hyperledger.org/projects/indy/documentation failed: 404 No error
   *  External link https://www.linkedin.com/in/danielhardman/ failed: 999 No error
@@ -4413,7 +4413,7 @@ Ran on 113 files!
   *  image https://i.imgur.com/LAUkkbN.png does not have an alt attribute (line 992)
   *  image https://i.imgur.com/a0dpDtr.png does not have an alt attribute (line 957)
   *  image https://imgur.com/yXLLm9Bl.png does not have an alt attribute (line 1098)
-  *  image https://infominer.id/DIDecentralized/images/private-public-permissioned-permissionless.png does not have an alt attribute (line 923)
+  *  image https://didecentral.github.io/images/private-public-permissioned-permissionless.png does not have an alt attribute (line 923)
   *  image https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png does not have an alt attribute (line 928)
   *  internal image /DIDecentralized/assets/icons/apple-touch-icon.png does not exist (line 144)
   *  internal script /DIDecentralized/assets/js/main.min.js does not exist (line 1197)
