@@ -1,3 +1,10 @@
+---
+title: Our Values
+layout: single
+permalink: values/
+canonical_url: 'https://decentralized-id.com/values/'
+redirect_from: values
+---
 Decentralized-id.com is a collaborative, participatory learning community oriented that strives to support the elaboration and adoption of a user-controlled decentralized identity layer for the internets of the future. All of this is a labor of love and a work in progress, but certain shared values undergird our work and set the terms of our engagement with the broader public. We strive to be:
 
 \-          **Educational**.  Our primary motivation is always to teach people what they want to learn, collecting, promoting, and disseminating the best information we can find along the way. We believe that a well-educated populous and a better-educated labor pool for the sector are both public goods that maximize the chances of interoperable, vendor-neutral identity becoming and remaining a reality.
