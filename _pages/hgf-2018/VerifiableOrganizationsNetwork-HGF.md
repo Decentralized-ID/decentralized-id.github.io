@@ -1,21 +1,14 @@
 ---
 title: Verifiable Organizations Network - A Production Government Deployment of Hyperledger Indy
 description: Transcript of Presentation by John Jordan and Stephen Curran at HGF 2018
-image: "https://infominer.id/images/VON.png"
-permalink: hgf-2018/VerifiableOrganizationsNetwork-HGF/
-canonical_url: 'https://decentralized-id.com/hgf-2018/VerifiableOrganizationsNetwork-HGF/'
-redirect_from: hgf-2018/VerifiableOrganizationsNetwork-HGF
+image: "https://infominer.id/transcripts/assets/img/OrgBook-Hyperledger-Indy-Case-Study.png"
+permalink: DIDecentralized/hgf-2018/VerifiableOrganizationsNetwork-HGF/
+canonical_url: 'https://infominer.id/transcripts/VON-Presentation-Jordan-Curran-HGF/'
+redirect_from: DIDecentralized/hgf-2018/VerifiableOrganizationsNetwork-HGF
 author_profile: true
 ---
 
-# Hyperledger Global Forum 2018 — Verifiable Organizations Network 
 **A Production Government Deployment of Hyperledger Indy**
-
----
-
-<code>Editors Note: I've taken to working on youtube transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
-
----
 
 -Published on Dec 27, 2018
 
