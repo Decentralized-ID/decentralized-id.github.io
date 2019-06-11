@@ -6,14 +6,6 @@ canonical_url: 'https://decentralized-id.com/values/'
 redirect_from: values
 ---
 
-Decentralized-id.com is a collaborative, participatory learning community oriented that strives to support the elaboration and adoption of a user-controlled decentralized identity layer for the internets of the future. All of this is a labor of love and a work in progress, but certain shared values undergird our work and set the terms of our engagement with the broader public. We strive to be:---
-title: Our Values
-layout: single
-permalink: values/
-canonical_url: 'https://decentralized-id.com/values/'
-redirect_from: values
----
-
 Decentralized-id.com is a collaborative, participatory learning community oriented that strives to support the elaboration and adoption of a user-controlled decentralized identity layer for the internets of the future. All of this is a labor of love and a work in progress, but certain shared values undergird our work and set the terms of our engagement with the broader public. We strive to be:
 
 \-          **Educational**.  Our primary motivation is to make it easier to navigate the information around creating decentralized identity systems. To create a decentralized identity layer for the internet is a monumental task. Understanding the history of this effort, and it's many inter-related parts, is helpful for weighing potential solutions. However, as it stands such information is widely dispersed, and it takes quite a bit of effort and research to gather all of this information into one place. Once the most important themes and elements are laid out, and organized for our consumption, it should be easier to move forward with the best solutions for each use case.
