@@ -12,7 +12,7 @@ Decentralized-id.com is a collaborative, participatory learning community orient
 
 \-          **Impartial**.  We aim for impartiality. It is not our intention to play favorites, take sides, offer investment advice, or play into market dynamics whereby vendors and platforms jockey for relative advantage. The best we can do is to present the most complete picture possible, in breadth and depth. The strengths and weaknesses of each implementation are presented as we encounter them. 
 
-\           We and\or our contributors are likely to have our own prejudices. However, we aim to leave them at the door, and present all information in a non-adversarial fashion. The important thing is for the Internet to have a Decentralized Identity Layer. Not for any particular application or organization to win or lose.
+We and\or our contributors are likely to have our own prejudices. However, we aim to leave them at the door, and present all information in a civil and non-adversarial fashion. The important thing is for the Internet to have a Decentralized Identity Layer. Not for any particular application or organization to win or lose.
 
 
 \-          **Inclusive**.  Community bonds are the only effective countermeasure against profit motives and ulterior motives. Everyone is welcome to contribute to this resource. Ideally, it will mature to the point that the community can maintain it with minimal effort from any particular individual. It is outside the scope of this document, but detailed contributors guidelines are forthcoming and should make it easy for anyone to participate.
