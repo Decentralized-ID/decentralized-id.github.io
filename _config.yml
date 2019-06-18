@@ -24,8 +24,8 @@ url                      : "https://decentralized-id.com"
 baseurl                  : ""
 repository               : "didecentral/didecentral.github.io"
 github                   : [metadata]
-teaser                   : # /assets/images/500x300.png
-logo                     : "https://decentralized-id.com/assets/icons/apple-touch-icon.png"
+teaser                   : /images/didecentral-tw.png
+logo                     : "https://decentralized-id.com/assets/images/DID.png"
 masthead_title           : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -88,16 +88,14 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               : "infominer33"
-#  title                  : "DIDecentral ⧉ Identity Decentralized"
+  site: didecentral
 #  description            : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 #  image                  : "https://decentralized-id.com/images/IDecentralized.png"
-#  card                   : "summary_large_image"
-#  card                   : "summary"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : https://decentralized-id.com/images/IDecentralized.png
+og_image                 : https://decentralized-id.com/images/didecentral-tw.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -112,20 +110,17 @@ analytics:
     tracking_id          : UA-132558656-3
     anonymize_ip         : # true, false (default)
 
-author:
-  name:                
-  email:               
-  twitter:             infominer33
+
+
 
 # Site Author
 author:
   name             : "⧉ Infominer"
   avatar           : "https://infominer.id/assets/img/bio-photo2.png"
- # bio              : ""
-#  location         : "I spend most of my time right here."
-#  email            : infominer@protonmail.com
+  twitter:             infominer33
+  email            : infominer@protonmail.com
   links:
-    - label: "Inf⧉Mine"
+    - label: "Info⧉Hub"
       icon: "fa fa-fw fa-cube"
       url: "https://infominer.id"
     - label: "Email"
@@ -136,10 +131,10 @@ author:
       url:  "https://keybase.io/infominer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/didecentral/didecentral.github.io"
+      url: "https://github.com/didecentral"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/infominer33"
+      url: "https://twitter.com/didecentral"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/ahTuPMY"
@@ -153,7 +148,7 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Inf⧉Mine"
+    - label: "Info⧉Hub"
       icon: "fa fa-fw fa-cube"
       url: "https://infominer.id"
     - label: "Email"
@@ -164,7 +159,7 @@ footer:
       url:  "https://keybase.io/infominer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/didecentral/didecentral.github.io"
+      url: "https://github.com/didecentral"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/infominer33"
@@ -272,6 +267,11 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-target-blank
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-mentions
 
 
 # Archives
@@ -337,12 +337,10 @@ defaults:
       share: true
       related: true
       sidebar:
-        title: DIDecentralized
+        title: DIDecentral
         nav: "didnav"
       toc: true
       toc_label   : "Contents"
       toc_icon    : "link"
       toc_sticky  : true
-      twitter:
-        card: summary_large_image
   
