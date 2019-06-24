@@ -11,5 +11,4 @@ Likewise, if you have any other info you want to share, but aren't sure where to
 
 ## LICENSING
 
-Everything I publish is Public Domain. If you contribute anything you'd like licensed otherwise, please provide a link to the full-text of the license
-
+Everything I publish on this website a contribution to the Public Domain. If you contribute anything you'd like licensed otherwise, please provide a link to the full-text of the license.
