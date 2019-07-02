@@ -339,6 +339,7 @@ Linked Data Proofs Specification
 * <a href="https://github.com/opencreds/minutes" target="_blank">/opencreds/minutes</a> - 
 Text and audio meeting minutes for W3C Credentials Community Group
 
+
 ## Spidchain
 
 * [Spidchain.com](http://www.spidchain.com/) -Blockchain for Self Sovereign Identity
