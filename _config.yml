@@ -22,7 +22,7 @@ name                     : "Infominer"
 description              : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 url                      : "https://decentralized-id.com"
 baseurl                  : ""
-repository               : "didecentral/didecentral.github.io"
+repository               : "didecentral/decentralized-id.com"
 github                   : [metadata]
 teaser                   : /images/didecentral-tw.png
 logo                     : "https://decentralized-id.com/images/DID.png"
