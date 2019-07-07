@@ -31,7 +31,7 @@ authors:
   - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
 permalink: contributors-intro/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading, Contributors-Guide]
-published: true
+published: false
 last_modified_at: 2019-06-26T11:22:33-23:00
 ---
 
