@@ -11,7 +11,7 @@ canonical_url: 'https://decentralized-id.com/self-sovereign-identity/'
 redirect_from: self-sovereign-identity
 ---
 
-<center><img src="../images/sovereign-id-wide.png"/></center>
+<center><img src="https://decentralized-id.com/images/sovereign-id-wide.png"/></center>
 
 # Self Sovereign Identity (SSI) 
 **Literature associated with the Fundamentals of Self-Sovereign Identity.**
