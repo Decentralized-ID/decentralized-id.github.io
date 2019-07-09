@@ -1,5 +1,7 @@
 # decentralized-id.com
 
+This branch is just to save the current state, as there will be many changes over the next week, and this will make it easy to jump back in time to before all of that.
+
 **Be sure to check out our Community Site: [DIDecentral.com](https://didecentral.com)**
 On GitHub: [didecentral/didecentral.github.io](https://github.com/didecentral/didecentral.github.io)
 
