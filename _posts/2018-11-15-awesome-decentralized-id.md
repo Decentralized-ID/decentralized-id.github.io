@@ -2,8 +2,8 @@
 layout      : "single"
 description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 header:
-  image     : "https://decentralized-id.com/images/did-header.png"
-  caption   : "[didecentral/didecentral.github.io](https://github.com/didecentral/didecentral.github.io)"
+  image     : "https://decentralized-id.com/images/identity-decentralized.png"
+  caption   : "@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)"
   og_image  : "https://decentralized-id.com/images/didecentral.png"
 author_profile: true
 permalink: /awesome-decentralized-id/
@@ -11,9 +11,6 @@ published: true
 classes: wide
 last_modified_at: 2019-07-08T11:22:33-23:00
 ---
-
-{% include figure image_path="https://decentralized-id.com/images/DID.png" alt="Identity Decentralized" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
-
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
 
