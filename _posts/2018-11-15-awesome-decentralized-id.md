@@ -1,6 +1,5 @@
 ---
 layout      : "single"
-title       : Awesome Decentralized ID
 description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 header:
   image     : "https://decentralized-id.com/images/did-header.png"
@@ -9,8 +8,8 @@ header:
 author_profile: true
 permalink: /awesome-decentralized-id/
 published: true
+classes: wide
 last_modified_at: 2019-07-08T11:22:33-23:00
-
 ---
 
 {% include figure image_path="https://decentralized-id.com/images/DID.png" alt="Identity Decentralized" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
