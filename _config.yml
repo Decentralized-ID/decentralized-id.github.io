@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DIDecentral"
+title                    : "Identity Decentralized"
 title_separator          : "⧉ "
 name                     : "Infominer"
 description              : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
@@ -31,18 +31,6 @@ masthead_title           : "Resources for Creating a Vendor Agnostic, User-Contr
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -65,9 +53,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true
+search_provider          : lunr # (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -88,7 +75,7 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               : "infominer33"
-  site: didecentral
+  site: decentralized-id.com
 #  description            : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 #  image                  : "https://decentralized-id.com/images/IDecentralized.png"
 facebook:
@@ -112,60 +99,51 @@ analytics:
 
 # Site Author
 author:
-  name             : "⧉ Infominer"
-  avatar           : "https://infominer.id/assets/img/bio-photo2.png"
-  twitter:             infominer33
-  email            : infominer@protonmail.com
+  name             : "DIDecentral"
+  avatar           : https://didecentral.com/assets/images/did-square.png
+  bio              : "Open Source, Public Domain, Educational Initiative"
+  location         : "Curating the Web"
   links:
-    - label: "Info⧉Hub"
-      icon: "fa fa-fw fa-cube"
-      url: "https://infominer.id"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:infominer@protonmail.com"
-    - label: "Keybase"
-      icon: "fab fa-fw fa-keybase"
-      url:  "https://keybase.io/infominer"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/didecentral"
+      url: mailto:identitydecentralized@gmail.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://decentralized-id.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/didecentral"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/didecentral"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/ahTuPMY"
-    - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/InfoMiner33"
-   # - label: "Bitcoin"
-    #  icon: "fab fa-fw fa-bitcoin"
-     # url: 
+      url: "https://discord.gg/eYm2XvZ"
+    #- label: "Telegram" 
+      icon:  #"fab fa-fw fa-telegram"  
+      url:  #"https://t.me/InfoMiner33"
+# https://fontawesome.com/icons/telegram?style=brands
+# Just go to fontawesome.com and add whatever social sites you need here.
+
 
 # Site Footer
 footer:
   links:
-    - label: "Info⧉Hub"
-      icon: "fa fa-fw fa-cube"
-      url: "https://infominer.id"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:infominer@protonmail.com"
-    - label: "Keybase"
-      icon: "fab fa-fw fa-keybase"
-      url:  "https://keybase.io/infominer"
+      url: mailto:identitydecentralized@gmail.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://decentralized-id.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/didecentral"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/didecentral"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/infominer33"
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/ahTuPMY"
-    - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/InfoMiner33"
+      url: "https://discord.gg/eYm2XvZ"
     
     
 
@@ -173,6 +151,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -322,14 +301,32 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: false
       read_time: false
+      comments: # true
+      share: true
+      related: true
+      sidebar:
+        title: DIDecentral
+        nav: "didnav"
+      toc: true
+      toc_label   : "Contents"
+      toc_icon    : "link"
+      toc_sticky  : true  
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
       comments: # true
       share: true
       related: true
