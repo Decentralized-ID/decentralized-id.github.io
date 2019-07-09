@@ -1,14 +1,15 @@
 ---
 layout      : "single"
-title       : Identity Decentralized
+title       : Awesome Decentralized ID
 description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 header:
   image     : "https://decentralized-id.com/images/did-header.png"
   caption   : "[didecentral/didecentral.github.io](https://github.com/didecentral/didecentral.github.io)"
   og_image  : "https://decentralized-id.com/images/didecentral.png"
-author_profile: false
-permalink: /
-canonical_url: 'https://decentralized-id.com/'
+author_profile: true
+permalink: /awesome-decentralized-id/
+published: true
+last_modified_at: 2019-07-08T11:22:33-23:00
 
 ---
 
