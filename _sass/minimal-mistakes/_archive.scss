@@ -41,7 +41,7 @@
   overflow: hidden;
   text-overflow: ellipsis;
 
-  a::before {
+  a[rel="permalink"]::before {
     content: '';
     position: absolute;
     left: 0;
