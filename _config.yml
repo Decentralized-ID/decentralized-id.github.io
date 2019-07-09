@@ -30,27 +30,27 @@ masthead_title           : "Resources for Creating a Vendor Agnostic, User-Contr
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # "staticman_v2"
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment by {fields.name}"
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  allowedFields          : ["name", "email", "url", "message"]
+  repository             : didecentral/decentralized-id.com 
+  branch                 : "master"
+  commitMessage          : "New comment by {fields.name}"
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ["name", "email", "message"]
   transforms:
-    email                : # "md5"
+    email                : "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type: "date"
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
-reCaptcha:
-  siteKey                :
-  secret                 :
+        format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  endpoint               : # https://staticman3.herokuapp.com/v3/entry/github/
+  reCaptcha:
+    siteKey:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
@@ -75,7 +75,7 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               : "infominer33"
-  site: decentralized-id.com
+  site: "didecentral"
 #  description            : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 #  image                  : "https://decentralized-id.com/images/IDecentralized.png"
 facebook:
@@ -119,9 +119,6 @@ author:
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/eYm2XvZ"
-    #- label: "Telegram" 
-      icon:  #"fab fa-fw fa-telegram"  
-      url:  #"https://t.me/InfoMiner33"
 # https://fontawesome.com/icons/telegram?style=brands
 # Just go to fontawesome.com and add whatever social sites you need here.
 
