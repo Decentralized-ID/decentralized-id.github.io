@@ -7,6 +7,7 @@ header:
   og_image  : "https://decentralized-id.com/images/didecentral.png"
 author_profile: true
 permalink: /awesome-decentralized-id/
+canonical_url: https://decentralized-id.com/awesome-decentralized-id/
 published: true
 classes: wide
 last_modified_at: 2019-07-08T11:22:33-23:00

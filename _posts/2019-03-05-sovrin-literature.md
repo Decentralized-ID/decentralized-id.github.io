@@ -9,6 +9,8 @@ redirect_from:
 sidebar:
   title: DIDecentralized
   nav: "sovnav"
+categories: ["literature"]
+tags: ["Sovrin","Indy"]
 ---
 
 ## Contents

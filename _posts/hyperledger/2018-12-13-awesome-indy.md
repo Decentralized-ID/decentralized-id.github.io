@@ -15,6 +15,7 @@ redirect_from:
   - Indy-Sovrin/
   - Indy-Sovrin
   - indy-ecosystem
+  - hyperledger/indy
 sidebar:
   title: DIDecentralized
   nav: "sovnav"

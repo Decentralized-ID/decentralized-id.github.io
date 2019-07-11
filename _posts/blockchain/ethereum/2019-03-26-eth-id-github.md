@@ -3,6 +3,10 @@ title: Ethereum Decentralized-Identity Github Repositories
 layout: single
 permalink: ethereum/id-github/
 canonical_url: 'https://decentralized-id.com/ethereum/id-github/'
+categories: ["blockchain","ethereum"]
+tags: ["code"]
+last_modified_at: 2019-07-11T11:22:33-23:00
+
 ---
 
 A listing of any Github Repositories for Ethereum Based Decentralized Identity specifications and applications.
