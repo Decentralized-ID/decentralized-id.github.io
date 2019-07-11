@@ -6,6 +6,8 @@ toc: false
 permalink: organizations/ssi-meetup/
 canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/'
 redirect_from: organizations/ssi-meetup
+categories: ["Organizations"]
+
 ---
 
 

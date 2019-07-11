@@ -8,8 +8,8 @@ canonical_url: 'https://decentralized-id.com/id-initiatives/handshake/'
 redirect_from:
   - id-initiatives/handshake
   - id-initiatives/handshake/
-categories: ["dns","blockchain"]
-tags: ["handshake"]
+categories: ["Blockchain","DNS"]
+tags: ["Handshake"]
 ---
 
 <img src="https://i.imgur.com/lhHnC8w.png"/>

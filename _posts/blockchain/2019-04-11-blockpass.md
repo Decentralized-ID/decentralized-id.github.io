@@ -8,8 +8,8 @@ canonical_url: 'https://decentralized-id.com/blockchain/blockpass/'
 redirect_from: 
   - id-initiatives/blockpass
   - id-initiatives/blockpass/
-categories: ["blockchain"]
-tags: ["blockpass"]
+categories: ["Blockchain"]
+tags: ["Blockpass"]
 ---
 
 <img src="https://imgur.com/mMZ4E2rl.png" />

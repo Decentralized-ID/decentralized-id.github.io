@@ -8,8 +8,8 @@ canonical_url: 'https://decentralized-id.com/blockchain/blockstack/'
 redirect_from: 
   - id-initiatives/blockstack
   - id-initiatives/blockstack/
-categories: ["blockchain"]
-tags: ["blockpass"]
+categories: ["Blockchain"]
+tags: ["Blockpass"]
 
 ---
 

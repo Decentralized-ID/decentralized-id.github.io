@@ -8,8 +8,8 @@ canonical_url: 'https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sov
 redirect_from: 
   - self-sovereign-identity/user-experience
   - self-sovereign-identity/user-experience/
-categories: ["literature","self-sovereign-identity"]
-tags: ["user-experience"]
+categories: ["Self-Sovereign-Identity","Literature"]
+tags: ["User-experience"]
 last_modified_at: 2019-07-08T11:22:33-23:00
 published: true
 

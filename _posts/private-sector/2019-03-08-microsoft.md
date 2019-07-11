@@ -6,6 +6,8 @@ toc: false
 permalink: id-initiatives/microsoft/
 canonical_url: 'https://decentralized-id.com/id-initiatives/microsoft/'
 redirect_from: id-initiatives/microsoft
+categories: ["Private-sector"]
+tags: ["Microsoft"]
 ---
 
 ![](https://i.imgur.com/MEN8iSn.png)

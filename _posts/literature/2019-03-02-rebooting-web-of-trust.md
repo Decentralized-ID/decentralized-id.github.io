@@ -13,7 +13,7 @@ redirect_from:
   - /rebooting-web-of-trust/
 author_profile: true
 toc_sticky: false
-categories: ["organizations","literature"]
+categories: ["Literature"]
 tags: ["RebootingWebofTrust"]
 ---
 
