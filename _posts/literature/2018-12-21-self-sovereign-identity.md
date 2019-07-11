@@ -10,23 +10,16 @@ redirect_from:
 categories: ["literature", "self-sovereign-identity"]
 last_modified_at: 2019-07-10T11:22:33-23:00
 published: true
-author_profile: false
 
 ---
 
 <center><img src="https://decentralized-id.com/images/sovereign-id-wide.png"/></center>
 
-# Self Sovereign Identity (SSI) 
-**Literature associated with the Fundamentals of Self-Sovereign Identity.**
-
 This directory was born from [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), the original SSI repository. 
-
-The reason I got started on this is because I wanted to write an article about SSI, and saw some areas where I could help with some of the legwork towards a more complete, and up-to-date set of SSI literature.
-
 
 In my opinion, the best overall article on the subject is still Christopher Allen's rallying cry: [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md). Christopher did an outstanding job of outlining the history of internet identity standards, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), currently in revision. 
 
-However, considerable additional material has been created on the subject since then, including some helpful criticism on the principles. I've organized some of my initial thoughts in [evolution-of-ssi](evolution-of-ssi/).
+However, considerable additional material has been created on the subject since then, including some helpful criticism on the principles. Some of initial thoughts have been organized in [evolution-of-ssi](evolution-of-ssi/).
 
 Then I realized that I should make a more complete survey of the subject, if I want to be thorough. So now I'm collecting as much SSI info as I can, and organizing it here. Once I've completed a review of existing literature on the subject, I'll put it into a google shared doc to encourage further participation. 
 
@@ -79,6 +72,12 @@ Then I realized that I should make a more complete survey of the subject, if I w
 * [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md); Joe Andrieu describes identity terms in plain language, with regards to what function they serve.
 * [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
 * [A Brief Introduction to How SSI Infrastructure Can Integrate Digital Fiat Currency (DFC)](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20180718/Documents/D_Reed.pdf)
+* <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw"><img src="https://i.imgur.com/f3FlznM.png"/></a>
+* <a href="https://twitter.com/VitalikButerin/status/1072160446180810752"><img src="https://i.imgur.com/tNvN7vV.png"/></a>
+* [There’s A Facebook Alternative, It’s Called Self-Sovereign Identity](https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity) —coindesk
+* [A Universal Resolver for self-sovereign identifiers](https://medium.com/DecentralizedIDentity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/DecentralizedIDentity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
+  * [uniresolver.io](https://uniresolver.io/)
+
 
 
 #### Video
@@ -102,13 +101,6 @@ Then I realized that I should make a more complete survey of the subject, if I w
 
 
 
-### Assorted
-
-* <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw"><img src="https://i.imgur.com/f3FlznM.png"/></a>
-* <a href="https://twitter.com/VitalikButerin/status/1072160446180810752"><img src="https://i.imgur.com/tNvN7vV.png"/></a>
-* [There’s A Facebook Alternative, It’s Called Self-Sovereign Identity](https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity) —coindesk
-* [A Universal Resolver for self-sovereign identifiers](https://medium.com/DecentralizedIDentity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/DecentralizedIDentity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
-  * [uniresolver.io](https://uniresolver.io/)
 
 
 ### Resources
