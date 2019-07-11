@@ -3,9 +3,13 @@ title: Blockpass
 layout: single
 classes: wide
 toc: false
-permalink: id-initiatives/blockpass/
-canonical_url: 'https://decentralized-id.com/id-initiatives/blockpass/'
-redirect_from: id-initiatives/blockpass
+permalink: blockchain/blockpass/
+canonical_url: 'https://decentralized-id.com/blockchain/blockpass/'
+redirect_from: 
+  - id-initiatives/blockpass
+  - id-initiatives/blockpass/
+categories: ["blockchain"]
+tags: ["blockpass"]
 ---
 
 <img src="https://imgur.com/mMZ4E2rl.png" />

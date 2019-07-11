@@ -4,6 +4,7 @@ layout: single
 permalink: organizations/
 canonical_url: 'https://decentralized-id.com/organizations/'
 redirect_from: organizations
+categories: ["organizations"]
 ---
 
 work in progress....

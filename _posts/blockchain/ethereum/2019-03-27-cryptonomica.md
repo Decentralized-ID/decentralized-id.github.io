@@ -3,9 +3,15 @@ title: Cryptonomica
 layout: single
 classes: wide
 toc: false
-permalink: id-initiatives/ethereum/cryptonomica/
-canonical_url: 'https://decentralized-id.com/id-initiatives/ethereum/cryptonomica/'
-redirect_from: id-initiatives/ethereum/cryptonomica
+permalink: blockchain/ethereum/cryptonomica/
+canonical_url: 'https://decentralized-id.com/blockchain/ethereum/cryptonomica/'
+redirect_from: 
+  - id-initiatives/ethereum/cryptonomica
+  - id-initiatives/ethereum/cryptonomica/
+categories: ["blockchain","ethereum"]
+tags: ["cryptonomica"]
+last_modified_at: 2019-07-11T11:22:33-23:00
+
 ---
 
 [![](https://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
