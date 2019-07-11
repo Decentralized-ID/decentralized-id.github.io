@@ -19,14 +19,14 @@ locale                   : "en-US"
 title                    : "Identity Decentralized"
 title_separator          : "⧉ "
 name                     : "Infominer"
-description              : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
+description              : "Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 url                      : "https://decentralized-id.com"
 baseurl                  : ""
 repository               : "didecentral/decentralized-id.com"
 github                   : [metadata]
 teaser                   : /images/didecentral-tw.png
 logo                     : "https://decentralized-id.com/images/DID.png"
-masthead_title           : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
+masthead_title           : "Creating a Vendor Agnostic, Sovereign, Identity Layer for the Internet."
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -210,7 +210,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
