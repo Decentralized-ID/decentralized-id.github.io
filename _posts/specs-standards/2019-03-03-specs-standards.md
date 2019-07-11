@@ -1,10 +1,13 @@
 ---
 title:  DID Related Web Standards
 layout: single
-permalink: standards/
-canonical_url: 'https://decentralized-id.com/standards/'
-redirect_from: standards
+permalink: specs-standards/
+canonical_url: 'https://decentralized-id.com/specs-standards/'
+redirect_from: 
+  - standards
+  - standards/
 author_profile: true
+categories: ["specs-standards"]
 ---
 
 This list page was a good start, but is due for an overhaul. 

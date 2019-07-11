@@ -2,20 +2,18 @@
 title: Microledgers and Edge-Chains - A Primer 
 description: A Transcript of Daniel Hardman of Evernym Presenting at Hyperledger Global Forum — 2018
 image: "https://i.imgur.com/qbVl47T.png"
-permalink: hgf-2018/Microledgers-Edgechains-Hardman-HGF/
 canonical_url: 'https://infominer.id/transcripts/Microledgers-Edgechains-Dan-Hardman/'
-redirect_from: hgf-2018/Microledgers-Edgechains-Hardman-HGF
+redirect_from:
+  - /hgf-2018/Microledgers-Edgechains-Hardman-HGF/
+  - /hgf-2018/Microledgers-Edgechains-Hardman-HGF
+permalink:  /hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/
 author_profile: true
+categories: ["hyperledger","HGF-2018"]
+tags: ["Indy","Von","transcripts","microledgers","edge-chains"]
+published: true
+last_modified_at: 2019-07-11T11:22:33-23:00
 ---
 
-# Hyperledger Global Forum 2018 — Microledgers and Edge-Chains 
-**A Primer - Daniel Hardman, Evernym**
-
----
-
-<code>Editors Note: I've taken to working on youtube transcripts for podcasts and videos whos content is valuable and not readily accessible in text form, so that it will be easier for anyone to reference. -<a href="https://infominer.id">infominer</a></code>
-
----
 
 [Evernym](https://evernym.com)’s Chief Architect [Daniel Hardman](https://www.evernym.com/team/daniel-hardman/) takes the Hyperledger community through Evernym’s work on Microledgers and Edge-Chains Architecture. Attendees will gain insight into the theory, applications and evolution in Hyperledger Indy along with a practical discussion of their potential.
 

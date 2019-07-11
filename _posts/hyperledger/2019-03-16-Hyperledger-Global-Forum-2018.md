@@ -1,8 +1,15 @@
 ---
-published: false
+title: Hyperledger Global Forum-2018
+layout: single
+classes: wide
+toc: false
+permalink: /hyperledger/hgf-2018/
+canonical_url: 'https://decentralized-id.com/hyperledger/hgf-2018/'
+redirect_from: 
+  - hgf-2018
+  - hgf-2018/
+categories: ["hyperledger","HGF-2018"]
 ---
-
-# Hyperledger Global Forum—2018
 
 For Identity Related Presentations at HGF-2018
 
@@ -45,8 +52,3 @@ If you have any videos you'd like to see transcripts prepared in the following f
 * [Microledgers and Edge-Chains - Daniel Hardman - Evernym](Microledgers-Edgechains-Hardman-HGF.md)
 * [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](VerifiableOrganizationsNetwork-HGF.md)
 
----
-
-* [github.com/didecentral/didecentral.github.io](https://github.com/didecentral/didecentral.github.io)
-* [didecentral.github.io](https://decentralized-id.com)
-* [infominer.id](https://infominer.id)

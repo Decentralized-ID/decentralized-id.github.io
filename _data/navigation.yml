@@ -1,36 +1,26 @@
 # main links
 main:
-  - title: "Info⧉Hub"
-    url: "https://infominer.id/"
-  - title: "Bitcoin Histories"
-    description: "Resources on the History leading up to and Surrounding Bitcoin."
-    url: "https://sourcecrypto.pub"
-  - title: "Decentralized Web"
-    description: "Resources on the History leading up to and Surrounding Bitcoin."
+  - title: "Posts by Category"
+    url: "/categories/"
+  - title: "Posts by Tag"
+    url: "/tags/"
+  - title: "Sitemap"
+    url: "/sitemap/"
+  - title: "DIDecentral - Community Site"
+    url: "https://didecentral.com"
+  - title: "RebootingWebOfTrust - Archive"
     url: "https://sourcecrypto.pub/decentralized-web/"
-  - title: "Source⧉Crypto"
-    description: "A Discord Chat for Creating a Database of Information Surrounding Blockchain and Cryptocurrency."
-    url: "https://sourcecrypto.pub"
-  - title: "Web-work.tools"
-    url: "https://web-work.tools"
+  - title: "Identity Commons on Github"
+    url: "https://github.com/identitywoman/identity-commons"
+  - title: "Decentralized Web"
+    url: "https://sourcecrypto.pub/decentralized-web/"
   - title: "IndieWeb"
     url: "https://web-work.tools/indieweb/"
-  - title: "Transcripts"
-    url: "https://sourcecrypto.pub/transcripts"
-  - title: "Learn Crypto Trading"
-    description: "Resources for learning Technical Analysis and the Fundamentals of Crypto Trading"
-    url: "https://learncryptotrading.co"
-  - title: "DIDecentralized"
-    url: "https://decentralized-id.com"
-  - title: "Github Pages Starter Pack"
-    url: "https://web-work.tools/github-pages-starter-pack/"
 
 
 didnav:
   - title: Featured
     children:
-      - title: "• Sitemap"
-        url: "/sitemap/"
       - title: "• #indieweb-dev on IIW RWoT and DID's -FreeNode"
         url: "https://web-work.tools/indieweb/indieweb-dev-on-did/"
       - title: "• Identity Commons on Github"
@@ -50,7 +40,7 @@ didnav:
       - title: "• Hyperledger Indy"
         url: "https://decentralized-id.com/indy-ecosystem/"
       - title: "• Practical Cryptography - PGP and Me"
-        url: "https://infominer.id/bitcoin-history/pgp-and-me/"
+        url: "https://web-work.tools/practical-public-key-crypto/"
   - title: DIDecentral
     children:
       - title: "• Our Values"
