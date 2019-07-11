@@ -1,9 +1,10 @@
 ---
 title: Identity Articles, Research and Literature
 layout: single
-permalink: literature
+permalink: literature/
 canonical_url: 'https://decentralized-id.com/literature'
-redirect_from: literature/
+redirect_from: literature
+categories: ["literature"]
 ---
 
 

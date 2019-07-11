@@ -3,9 +3,16 @@ title: How would self-sovereign identity work for the user?
 layout: single
 classes: wide
 toc: false
-permalink: self-sovereign-identity/user-experience/
-canonical_url: 'https://decentralized-id.com/self-sovereign-identity/user-experience/'
-redirect_from: self-sovereign-identity/user-experience
+permalink: /literature/self-sovereign-identity/user-experience/
+canonical_url: 'https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/'
+redirect_from: 
+  - self-sovereign-identity/user-experience
+  - self-sovereign-identity/user-experience/
+categories: ["literature","self-sovereign-identity"]
+tags: ["user-experience"]
+last_modified_at: 2019-07-08T11:22:33-23:00
+published: true
+
 ---
 
 Adapted from [A gentle introduction to self-sovereign-identity](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/) by [@antonylewis](https://github.com/antonylewis). I think this could use some polishing, but this is a good start, and a good example of a basic necessary SSI explainer.

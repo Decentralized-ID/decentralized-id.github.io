@@ -5,8 +5,8 @@ description: "A growing collection of educational resources related to Hyperledg
 header:
   image: "https://decentralized-id.com/images/evernym-indy-sovrin.png"
   caption: "[OdysseyHackathon-21st Century Digital Citizenship Presentation](https://www.slideshare.net/OdysseyHackathon/21st-century-digital-citizenship-presentation)"
-permalink: indy-ecosystem/
-canonical_url: 'https://decentralized-id.com/indy-ecosystem/'
+permalink: /hyperledger/indy/
+canonical_url: 'https://decentralized-id.com/hyperledger/indy/'
 redirect_from: 
   - indy-sovrin/
   - indy-sovrin
@@ -18,8 +18,10 @@ redirect_from:
 sidebar:
   title: DIDecentralized
   nav: "sovnav"
-author_profile: false   
-published: false   
+author_profile: false      
+last_modified_at: 2019-07-10T11:22:33-23:00
+tags: ["Evernym","Indy","Von"]
+categories: ["Sovrin","Hyperledger"]
 ---
 
 **Protocol, Governance, Education, Ecosystem** 

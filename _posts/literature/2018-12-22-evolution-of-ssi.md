@@ -1,12 +1,20 @@
 ---
-title: The Evolution of Self Sovereign Identity (Draft Seeking Feedback)
+title: "The Evolution of Self Sovereign Identity (Draft Seeking Feedback)"
 description: A start at examining leading thought around SSI since 2016, and presenting the idea of "modularizing" essential components of SSI documentation.
 layout: single
 classes: wide
 toc: false
-permalink: self-sovereign-identity/evolution-of-ssi/
-canonical_url: 'https://decentralized-id.com/self-sovereign-identity/evolution-of-ssi/'
-redirect_from: self-sovereign-identity/evolution-of-ssi
+redirect_from: 
+  - /literature/self-sovereign-identity/evolution-of-ssi
+  - /self-sovereign-identity/evolution-of-ssi/
+  - /self-sovereign-identity/evolution-of-ssi
+permalink: /literature/self-sovereign-identity/evolution-of-ssi/
+canonical_url: 'https://decentralized-id.com/literature/self-sovereign-identity/evolution-of-ssi/'
+categories: ["self-sovereign-identity","literature"]
+tags: ["documentation-drafts"]
+last_modified_at: 2019-07-10T11:22:33-23:00
+published: true
+
 ---
 
 
