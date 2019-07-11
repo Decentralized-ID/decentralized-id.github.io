@@ -3,9 +3,13 @@ title: Democracy Earth
 layout: single
 classes: wide
 toc: false
-permalink: id-initiatives/democracy-earth/
-canonical_url: 'https://decentralized-id.com/id-initiatives/democracy-earth/'
-redirect_from: id-initiatives/democracy-earth
+permalink: blockchain/democracy-earth/
+canonical_url: 'https://decentralized-id.com/blockchain/democracy-earth/'
+redirect_from:
+  - id-initiatives/democracy-earth
+  - id-initiatives/democracy-earth/
+categories: ["blockchain"]
+tags: ["Democracy Earth","governance","humanitarian"]
 ---
 
 ![](https://i.imgur.com/KxbXb1t.png)

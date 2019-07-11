@@ -3,9 +3,13 @@ title: Handshake
 layout: single
 classes: wide
 toc: false
-permalink: id-initiatives/handshake/
+permalink: blockchain/handshake/
 canonical_url: 'https://decentralized-id.com/id-initiatives/handshake/'
-redirect_from: id-initiatives/handshake
+redirect_from:
+  - id-initiatives/handshake
+  - id-initiatives/handshake/
+categories: ["dns","blockchain"]
+tags: ["handshake"]
 ---
 
 <img src="https://i.imgur.com/lhHnC8w.png"/>

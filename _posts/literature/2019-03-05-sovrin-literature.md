@@ -1,11 +1,12 @@
 ---
 title: Sovrin Related Literature and Media
 layout: single
-permalink: indy-ecosystem/literature/
+permalink: /literature/Sovrin/
 canonical_url: 'https://decentralized-id.com/indy-ecosystem/literature/'
 redirect_from:
   - id-initiatives/indy-ecosystem/literature.html
   - indy-ecosystem/literature
+  - indy-ecosystem/literature/
 sidebar:
   title: DIDecentralized
   nav: "sovnav"

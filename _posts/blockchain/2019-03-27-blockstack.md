@@ -3,10 +3,16 @@ title: Blockstack
 layout: single
 classes: wide
 toc: false
-permalink: id-initiatives/blockstack/
-canonical_url: 'https://decentralized-id.com/id-initiatives/blockstack/'
-redirect_from: id-initiatives/blockstack
+permalink: blockchain/blockstack/
+canonical_url: 'https://decentralized-id.com/blockchain/blockstack/'
+redirect_from: 
+  - id-initiatives/blockstack
+  - id-initiatives/blockstack/
+categories: ["blockchain"]
+tags: ["blockpass"]
+
 ---
+
 ![](https://i.imgur.com/ZZx8lfR.png)
 * [Blockstack](https://blockstack.org/) • [[**G**](https://github.com/blockstack)]ithub • [[**F**](https://forum.blockstack.org/)]orum • [[**B**](https://blockstack.org/blog)]log • [[**T**](https://twitter.com/blockstack)]witter • [[**W**](https://blockstack.org/whitepaper.pdf)]hitepaper • [[**bitcoinwiki**](https://en.bitcoinwiki.org/wiki/BlockStack)]
 * a network of computers that collectively maintain a global registry of domain names, public keys, and cryptographic hashes. With this registry, Blockstack serves as a decentralized domain name system (DNS) and a decentralized public key infrastructure (PKI).
