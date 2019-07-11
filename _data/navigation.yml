@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Posts by Category"
-    url: "/categories/"
   - title: "Posts by Tag"
     url: "/tags/"
   - title: "Sitemap"
     url: "/sitemap/"
-  - title: "DIDecentral - Community Site"
+  - title: "DIDecentral"
     url: "https://didecentral.com"
   - title: "RebootingWebOfTrust - Archive"
     url: "https://sourcecrypto.pub/decentralized-web/"
@@ -32,10 +30,8 @@ didnav:
       - title: "• RWoT - Papers Index"
         url: "https://decentralized-id.com/workshops/rebooting-web-of-trust/"
       - title: "• Microledgers and Edgechains—HGF18"
-        description: "A Transcript of Daniel Hardman of Evernym Presenting at Hyperledger Global Forum—18"
         url: "https://decentralized-id.com/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
       - title: "• Verifiable Organizations Network—HGF18"
-        description: "Transcript of Presentation by John Jordan and Stephen Curran at HGF 2018"
         url: "https://decentralized-id.com/hgf-2018/VerifiableOrganizationsNetwork-HGF/"
       - title: "• Hyperledger Indy"
         url: "https://decentralized-id.com/indy-ecosystem/"
@@ -60,7 +56,7 @@ didnav:
       - title: "• Video, Podcasts and Slideshare"
         url: "https://decentralized-id.com/media/"
       - title: "• Hyperledger Global Forum - 2018"
-        url: "https://decentralized-id.com/hgf-2018/"
+        url: "https://decentralized-id.com/hyperledger/hgf-2018/"
   - title: Self-Sovereign Identity
     children:
       - title: "• SSI - Documentation Efforts"
