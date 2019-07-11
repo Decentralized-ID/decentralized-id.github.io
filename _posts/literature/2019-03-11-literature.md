@@ -4,7 +4,7 @@ layout: single
 permalink: literature/
 canonical_url: 'https://decentralized-id.com/literature'
 redirect_from: literature
-categories: ["literature"]
+categories: ["Literature"]
 ---
 
 

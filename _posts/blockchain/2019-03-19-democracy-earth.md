@@ -8,8 +8,8 @@ canonical_url: 'https://decentralized-id.com/blockchain/democracy-earth/'
 redirect_from:
   - id-initiatives/democracy-earth
   - id-initiatives/democracy-earth/
-categories: ["blockchain"]
-tags: ["Democracy Earth","governance","humanitarian"]
+categories: ["Blockchain"]
+tags: ["Democracy Earth","Governance","Humanitarian"]
 ---
 
 ![](https://i.imgur.com/KxbXb1t.png)

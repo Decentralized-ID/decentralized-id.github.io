@@ -8,7 +8,7 @@ canonical_url: 'https://decentralized-id.com/literature/self-sovereign-identity/
 redirect_from:
   - /self-sovereign-identity/ssi-principles-vs-characteristics
   - /self-sovereign-identity/ssi-principles-vs-characteristics/
-categories: ["self-sovereign-identity"]
+categories: ["Self-Sovereign-Identity","Literature"]
 last_modified_at: 2019-07-10T11:22:33-23:00
 published: true
 

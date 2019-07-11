@@ -9,7 +9,7 @@ redirect_from:
   - id-initiatives/state-sponsored
   - state-sponsored/
   - state-sponsored
-categories: ["public-sector"]
+categories: ["Public-sector"]
 ---
 
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)

@@ -7,7 +7,7 @@ redirect_from:
   - standards
   - standards/
 author_profile: true
-categories: ["specs-standards"]
+categories: ["Specs-standards"]
 ---
 
 This list page was a good start, but is due for an overhaul. 

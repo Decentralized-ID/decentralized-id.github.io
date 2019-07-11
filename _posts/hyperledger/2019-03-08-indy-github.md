@@ -11,7 +11,7 @@ sidebar:
   title: DIDecentralized
   nav: "sovnav"
 toc: false
-categories: ["hyperledger","code"]
+categories: ["Hyperledger","Code"]
 tags: ["Evernym","Indy","Von"]
 ---
 
