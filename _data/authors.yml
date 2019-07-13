@@ -1,0 +1,40 @@
+# /_data/authors.yml
+
+Infominer:
+  name        : "Infominer"
+  bio         : "Information Logistics"
+  avatar      : "https://infominer.id/assets/img/info-lit3.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:infominer@protonmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://infominer.id"
+    - label: "Keybase"
+      icon: "fab fa-fw fa-keybase"
+      url:  "https://keybase.io/infominer"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/infominer33/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/infominer33"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/ahTuPMY"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/InfoMiner33"
+
+Cornelius Fiddlebone:
+  name        : "Cornelius Fiddlebone"
+  bio         : "I ordered what?"
+  avatar      : "/assets/images/bio-photo.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit"

@@ -37,9 +37,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-target-blank"
   gem "jekyll-optional-front-matter"
-  gem "jekyll-readme-index"
   gem "jekyll-redirect-from"
-  gem "jekyll-seo-tag"
   gem "jekyll-mentions"
   gem "html-proofer"
   

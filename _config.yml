@@ -225,7 +225,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-target-blank
   - jekyll-optional-front-matter
-  - jekyll-readme-index
   - jekyll-redirect-from
   - jekyll-mentions
 
@@ -242,7 +241,6 @@ whitelist:
   - jekyll-include-cache
   - jekyll-target-blank
   - jekyll-optional-front-matter
-  - jekyll-readme-index
   - jekyll-redirect-from
   - jekyll-mentions
 
