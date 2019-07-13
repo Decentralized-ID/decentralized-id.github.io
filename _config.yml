@@ -26,7 +26,7 @@ repository               : "didecentral/decentralized-id.com"
 github                   : [metadata]
 teaser                   : /images/didecentral-tw.png
 logo                     : "https://decentralized-id.com/images/DID.png"
-masthead_title           : "Sovereign Identity for the Internet."
+masthead_title           : "Sovereign Identity Info"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
