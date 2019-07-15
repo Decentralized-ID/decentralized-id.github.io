@@ -15,6 +15,7 @@ categories: ["Hyperledger","Code"]
 tags: ["Evernym","Indy","Von"]
 ---
 
+<!-- Every company or organization using indy code should be listed in tags, above -->
 
 * [/indy-plenum](https://github.com/hyperledger/indy-plenum) - Byzantine Fault Tolerant Protocol [[**wiki**](https://github.com/hyperledger/indy-plenum/wiki)]
     > "Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals' Problem, which is a generalized version of the Two Generals' Problem." 

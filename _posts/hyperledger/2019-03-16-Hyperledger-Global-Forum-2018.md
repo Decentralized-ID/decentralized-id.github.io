@@ -8,7 +8,8 @@ canonical_url: 'https://decentralized-id.com/hyperledger/hgf-2018/'
 redirect_from: 
   - hgf-2018
   - hgf-2018/
-categories: ["Hyperledger","HGF-2018"]
+categories: ["Hyperledger","HGF-2018","Event"]
+tags: ["Presentations"]
 ---
 
 For Identity Related Presentations at HGF-2018
