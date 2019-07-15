@@ -5,6 +5,7 @@ permalink: literature/
 canonical_url: 'https://decentralized-id.com/literature'
 redirect_from: literature
 categories: ["Literature"]
+tags: ["Index"]
 ---
 
 

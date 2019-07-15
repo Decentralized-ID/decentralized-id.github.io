@@ -10,8 +10,8 @@ redirect_from:
   - /self-sovereign-identity/evolution-of-ssi
 permalink: /literature/self-sovereign-identity/evolution-of-ssi/
 canonical_url: 'https://decentralized-id.com/literature/self-sovereign-identity/evolution-of-ssi/'
-categories: ["Self-Sovereign-Identity","Literature"]
-tags: ["documentation-drafts"]
+categories: ["Literature"]
+tags: ["Self-Sovereign-Identity","documentation-drafts"]
 last_modified_at: 2019-07-10T11:22:33-23:00
 published: true
 

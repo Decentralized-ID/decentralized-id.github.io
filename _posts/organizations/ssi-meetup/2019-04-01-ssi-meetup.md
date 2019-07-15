@@ -5,6 +5,7 @@ permalink: organizations/ssi-meetup/
 canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/'
 redirect_from: organizations/ssi-meetup
 categories: ["Organizations"]
+tags: ["SSI-Meetup"]
 last_modified_at: 2019-07-11T11:22:33-23:00
 toc_sticky: false
 ---
