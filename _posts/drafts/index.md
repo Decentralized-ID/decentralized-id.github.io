@@ -9,6 +9,7 @@ author_profile: false
 ---
 
 
+
 ## Assorted Identity Initiatives
 
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e) [[**ϟ**](https://www.wired.com/story/coinbase-distributed-systems-acquisition/)]

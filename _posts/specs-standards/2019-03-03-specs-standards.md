@@ -8,6 +8,7 @@ redirect_from:
   - standards/
 author_profile: true
 categories: ["Specs-standards"]
+tags: ["Index"]
 ---
 
 This list page was a good start, but is due for an overhaul. 

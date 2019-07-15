@@ -12,7 +12,7 @@ sidebar:
   nav: "sovnav"
 toc: false
 categories: ["Hyperledger","Code"]
-tags: ["Evernym","Indy","Von"]
+tags: ["Evernym","Indy","Von","Sovrin"]
 ---
 
 <!-- Every company or organization using indy code should be listed in tags, above -->

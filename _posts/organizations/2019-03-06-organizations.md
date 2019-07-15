@@ -5,6 +5,7 @@ permalink: organizations/
 canonical_url: 'https://decentralized-id.com/organizations/'
 redirect_from: organizations
 categories: ["Organizations"]
+tags: ["Index"]
 ---
 
 work in progress....

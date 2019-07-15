@@ -6,6 +6,8 @@ toc: false
 permalink: workshops/
 canonical_url: 'https://decentralized-id.com/workshops/'
 redirect_from: workshops
+categories: ["Workshops"]
+tags: ["IIW","RWoT"]
 ---
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)

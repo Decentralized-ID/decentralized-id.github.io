@@ -12,6 +12,7 @@ redirect_from:
   - identity-github/
 toc_sticky: false
 categories: ["Code"]
+tags: ["Index"]
 ---
 
 Please send [a message](../index.html#contact), open an issue or submit a pull-request with any suggestions\recommendations.
