@@ -66,109 +66,177 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 
 
-## Directory
-To other pages within this repository.
+<h2 id="directory">Directory</h2>
 
-  * [SSI\DID History](_pages/history.md) 
-    * [Losing Control over our Personal Information](_pages/history.md#losing-control-over-our-personal-information-) '80s
-    * [PGP - Web of Trust](_pages/history.md#pgp---web-of-trust-) '91
-    * [International Planetwork Conference](_pages/history.md#international-planetwork-conference-) '00s
-    * [XNS Public Trust Organization](_pages/history.md#xns-public-trust-organization-)
-    * [The Augmented Social Network](_pages/history.md#augmented-social-network-) '03
-    * [IDCommons](_pages/history.md#idcommons-) '01
-    * [Identity Gang](_pages/history.md#identity-gang-) '04
-      * [Kim Cameron - Laws of Identity](_pages/history.md#kim-cameron---laws-of-identity-) 
-    * [Internet Identity Workshop—IIW](_pages/history.md#internet-identity-workshop-) '05
-    * [W3C Credentials Community Group](_pages/history.md#w3c-credentials-community-group-) '14 
-    * [Bitnation](_pages/history.md#bitnation-) '15
-    * [United Nations Sustainable Development Goals](_pages/history.md#united-nations-sustainable-development-goals-) '15
-    * [Rebooting-Web-of-Trust)](_pages/history.md#rebooting-the-web-of-trust)
-    * [Evernym](_pages/history.md#evernym)
-    * [ID2020 and the GDPR](_pages/history.md#id2020-and-the-gdpr-) '16
-    * [Late 2016](_pages/history.md#late-2016)
-    * [Identity Foundation](_pages/history.md#identity-foundation-) '17
-    * [DID Standards History](_pages/history.md#standards-history-)
-* [Self Sovereign Identity](_pages/self-sovereign-identity) 
-  * [Evolution of SSI](_pages/self-sovereign-identity/evolution-of-ssi.md) 
-  * [SSI Principles vs Characteristics](_pages/self-sovereign-identity/ssi-principles-vs-characteristics.md) 
-  * [User Experience](_pages/self-sovereign-identity/user-experience.md) 
-* [DID Related Web Standards](_pages/standards) 
-  * [XDI](_pages/standards/#xdi) 
-    * [OASIS XDI TC Technical Committee on GitHub](_pages/standards/#oasis-xdi-tech-committee-on-github) 
-  * [W3C](_pages/standards/#w3c) 
-    * [DID the Decentralized Identifier](_pages/standards/#did-the-decentralized-identifier) 
-    * [Verifiable Claims](_pages/standards/#verifiable-claims) 
-  * [DID Auth](_pages/standards/#did-auth) 
-  * [Decentralized Key Managment DKMS](_pages/standards/#decentralized-key-management-agents) 
-  * [Ethereum ERC-EIP](_pages/standards/#ethereum-erc-eip)
-  * [Blockcerts](_pages/standards/#blockcerts) 
-  * [Schema](_pages/standards/#schema) 
-* [DID Adoption](_pages/adoption.md) 
-* [GDPR](_pages/gdpr.md) 
-* [Humanitarian](_pages/humanitarian.md) 
-* [Identity Related GitHub Repositories](_pages/identity-github.md) 
-* [Literature](_pages/literature.md) 
-* [Workshops](_pages/workshops) 
-  * [Rebooting Web of Trust](_pages/workshops/rebooting-web-of-trust.md) 
-* [Media](_pages/media.md)  (Video, Podcasts and Slideshare) 
-* [Organizations](_pages/organizations) 
-  * [Decentralized Identity Foundation—DIF](_pages/organizations/identity-foundation.md) 
-  * [My Data](_pages/organizations/mydata.md)
-  * [Sovrin Foundation](_pages/organizations/sovrin-foundation.md) 
-  * [SSI Meetup](_pages/organizations/ssi-meetup.md)
-* [DID\SSI Initiatives](_pages/id-initiatives) 
-  * [Bitcoin](_pages/id-initiatives/bitcoin.md) 
-    * [BTCR](_pages/id-initiatives/bitcoin.md#btcr)
-    * [RWoT BTCR](_pages/id-initiatives/bitcoin.md#rwot-btcr)
-    * [Bitnation](_pages/id-initiatives/bitcoin.md#bitnation)
-    * [Spidchain](_pages/id-initiatives/bitcoin.md#spidchain) 
-  * [Blockstack](_pages/id-initiatives/blockstack.md)
-  * [Blockpass](_pages/id-initiatives/blockpass.md)
-  * [Danube](_pages/id-initiatives/danube.md)
-  * [Democracy Earth](_pages/id-initiatives/democracy-earth.md)
-  * [Digital Bazaar](_pages/id-initiatives/digital-bazaar.md)
-  * [Ethereum](_pages/id-initiatives/ethereum/) 
-    * [ERC-EIP](_pages/id-initiatives/ethereum/#erc-eip) 
-    * [ERC725-735](_pages/id-initiatives/ethereum/erc725-735)
-    * [uPort](_pages/id-initiatives/ethereum/uport.md) 
-    * [Jolocom](_pages/id-initiatives/ethereum/#jolocom) 
-    * [Spidchain](_pages/id-initiatives/ethereum/#spidchain) 
-    * [Cryptonomica](_pages/id-initiatives/ethereum/cryptonomica.md) 
-    * [Assorted Ethereum Apps](_pages/id-initiatives/ethereum/#assorted-ethereum-apps) 
-  * [Handshake](_pages/id-initiatives/handshake.md)
-  * [Indy](_pages/id-initiatives/indy-ecosystem/) 
-    * [Adoption](_pages/id-initiatives/indy-ecosystem/adoption.md) 
-    * [Indy Github](_pages/id-initiatives/indy-ecosystem/indy-github.md) 
-    * [Literature](_pages/id-initiatives/indy-ecosystem/literature.md) 
-    * [VON](_pages/id-initiatives/indy-ecosystem/VON.md) 
-  * [IBM](_pages/id-initiatives/ibm.md) 
-  * [Microsoft](_pages/id-initiatives/microsoft.md) 
-  * [Ontology](_pages/id-initiatives/ontology.md)
-  * [Spid-chain](_pages/id-initiatives/spid-chain.md)
-* [Hyperledger Global Forum](_pages/hgf-2018/) 
-* [State Sponsored](_pages/state-sponsored.md) 
+<ul>
+  <li>
+<a href="/history/">SSI\DID History</a>
+    <ul>
+      <li>
+<a href="/history/#losing-control-over-our-personal-information">Losing Control over our Personal Information</a> ’80s</li>
+      <li>
+<a href="/history/#pgp---web-of-trust">PGP - Web of Trust</a> ‘91</li>
+      <li>
+<a href="/history/#international-planetwork-conference">International Planetwork Conference</a> ’00s</li>
+      <li><a href="/history/#xns-public-trust-organization">XNS Public Trust Organization</a></li>
+      <li>
+<a href="/history/#augmented-social-network">The Augmented Social Network</a> ‘03</li>
+      <li>
+<a href="/history/#idcommons">IDCommons</a> ‘01</li>
+      <li>
+<a href="/history/#identity-gang">Identity Gang</a> ‘04
+        <ul>
+          <li><a href="/history/#kim-cameron---laws-of-identity">Kim Cameron - Laws of Identity</a></li>
+        </ul>
+      </li>
+      <li>
+<a href="/history/#internet-identity-workshop">Internet Identity Workshop—IIW</a> ‘05</li>
+      <li>
+<a href="/history/#w3c-credentials-community-group">W3C Credentials Community Group</a> ‘14</li>
+      <li>
+<a href="/history/#bitnation">Bitnation</a> ‘15</li>
+      <li>
+<a href="/history/#the-united-nations-sustainable-development-goals">The United Nations Sustainable Development Goals</a> ‘15</li>
+      <li><a href="/history/#rebooting-the-web-of-trust">Rebooting-Web-of-Trust (/RWoT)</a></li>
+      <li><a href="/history/#evernym">Evernym</a></li>
+      <li>
+<a href="/history/#id2020-and-the-gdpr">ID2020 and the GDPR</a> ‘16</li>
+      <li><a href="/history/#the-end-of-2016">The End of 2016</a></li>
+      <li>
+<a href="/history/#decentralized-identity-foundation">Decentralized Identity Foundation</a> ‘17</li>
+      <li><a href="/history/#standards-history">DID Standards History</a></li>
+    </ul>
+  </li>
+  <li>
+<a href="/self-sovereign-identity">Self Sovereign Identity</a>
+    <ul>
+      <li><a href="/self-sovereign-identity/evolution-of-ssi/">Evolution of SSI</a></li>
+      <li><a href="/self-sovereign-identity/ssi-principles-vs-characteristics/">SSI Principles vs Characteristics</a></li>
+      <li><a href="/self-sovereign-identity/user-experience/">User Experience</a></li>
+    </ul>
+  </li>
+  <li>
+<a href="/standards">DID Related Web Standards</a>
+    <ul>
+      <li>
+<a href="/standards/#xdi">XDI</a>
+        <ul>
+          <li><a href="/standards/#oasis-xdi-tech-committee-on-github">OASIS XDI TC Technical Committee on GitHub</a></li>
+        </ul>
+      </li>
+      <li>
+<a href="/standards/#w3c">W3C</a>
+        <ul>
+          <li><a href="/standards/#did-the-decentralized-identifier">DID the Decentralized Identifier</a></li>
+          <li><a href="/standards/#verifiable-claims">Verifiable Claims</a></li>
+        </ul>
+      </li>
+      <li><a href="/standards/#did-auth">DID Auth</a></li>
+      <li><a href="/standards/#decentralized-key-management-agents">Decentralized Key Managment DKMS</a></li>
+      <li><a href="/standards/#ethereum-erc-eip">Ethereum ERC-EIP</a></li>
+      <li><a href="/standards/#blockcerts">Blockcerts</a></li>
+      <li><a href="/standards/#schema">Schema</a></li>
+    </ul>
+  </li>
+  <li><a href="/adoption/">DID Adoption</a></li>
+  <li><a href="/gdpr">GDPR</a></li>
+  <li><a href="/humanitarian/">Humanitarian</a></li>
+  <li><a href="/identity-github/">Identity Related GitHub Repositories</a></li>
+  <li><a href="/literature/">Literature</a></li>
+  <li>
+<a href="/workshops">Workshops</a>
+    <ul>
+      <li><a href="/workshops/rebooting-web-of-trust/">Rebooting Web of Trust</a></li>
+    </ul>
+  </li>
+  <li>
+<a href="/media/">Media</a>  (Video, Podcasts and Slideshare)</li>
+  <li>
+<a href="/organizations">Organizations</a>
+    <ul>
+      <li><a href="/organizations/identity-foundation/">Decentralized Identity Foundation—DIF</a></li>
+      <li><a href="/organizations/mydata/">My Data</a></li>
+      <li><a href="/organizations/sovrin-foundation/">Sovrin Foundation</a></li>
+      <li><a href="/organizations/ssi-meetup/">SSI Meetup</a></li>
+    </ul>
+  </li>
+  <li>
+<a href="/id-initiatives">DID\SSI Initiatives</a>
+    <ul>
+      <li>
+<a href="/id-initiatives/bitcoin/">Bitcoin</a>
+        <ul>
+          <li><a href="/id-initiatives/bitcoin/#btcr">BTCR</a></li>
+          <li><a href="/id-initiatives/bitcoin/#rwot-btcr">RWoT BTCR</a></li>
+          <li><a href="/id-initiatives/bitcoin/#bitnation">Bitnation</a></li>
+          <li><a href="/id-initiatives/bitcoin/#spidchain">Spidchain</a></li>
+        </ul>
+      </li>
+      <li><a href="/id-initiatives/blockstack/">Blockstack</a></li>
+      <li><a href="/id-initiatives/blockpass/">Blockpass</a></li>
+      <li><a href="/id-initiatives/danube/">Danube</a></li>
+      <li><a href="/id-initiatives/democracy-earth/">Democracy Earth</a></li>
+      <li>
+<a href="/id-initiatives/ethereum/">Ethereum</a>
+        <ul>
+          <li><a href="/id-initiatives/ethereum/#erc-eip">ERC-EIP</a></li>
+          <li><a href="/id-initiatives/ethereum/#erc725-735">ERC725-735</a></li>
+          <li><a href="/id-initiatives/ethereum/#uport">uPort</a></li>
+          <li><a href="/id-initiatives/ethereum/#jolocom">Jolocom</a></li>
+          <li><a href="/id-initiatives/ethereum/#spidchain">Spidchain</a></li>
+          <li><a href="/id-initiatives/ethereum/#cryptonomica">Cryptonomica</a></li>
+          <li><a href="/id-initiatives/ethereum/#assorted-ethereum-apps">Assorted Ethereum Apps</a></li>
+        </ul>
+      </li>
+      <li><a href="/id-initiatives/handshake/">Handshake</a></li>
+      <li>
+<a href="/id-initiatives/indy-ecosystem/">Indy</a>
+        <ul>
+          <li><a href="/id-initiatives/indy-ecosystem/adoption/">Adoption</a></li>
+          <li><a href="/id-initiatives/indy-ecosystem/indy-github/">Indy Github</a></li>
+          <li><a href="/id-initiatives/indy-ecosystem/literature/">Literature</a></li>
+          <li><a href="/id-initiatives/indy-ecosystem/VON/">VON</a></li>
+        </ul>
+      </li>
+      <li><a href="/id-initiatives/ibm/">IBM</a></li>
+      <li><a href="/id-initiatives/microsoft/">Microsoft</a></li>
+      <li><a href="/id-initiatives/ontology/">Ontology</a></li>
+      <li><a href="/id-initiatives/spid-chain/">Spid-chain</a></li>
+      <li><a href="/id-initiatives/danube/">Danube Tech</a></li>
+    </ul>
+  </li>
+  <li><a href="/hgf-2018/">Hyperledger Global Forum</a></li>
+  <li><a href="/state-sponsored/">State Sponsored</a></li>
+</ul>
 
-
-
-## Sources
-* [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**ϟ**](https://www.slideshare.net/SSIMeetup/presentations/)] 
-* [IIW-Wiki](https://iiw.idcommons.net/Main_Page)
-* [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
-* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
-* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
-* [identitywoman.net](https://identitywoman.net/)
-* [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
-* [Kim Camerons Identity Blog](https://identityblog.com)
-
----
-
-## Tips Jar
-
-BTC— 1GvkjHtiy9LUjVkStnEAXxjhcoS56aCokY
-
-![](https://imgur.com/yXLLm9Bl.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 
- 
+<h2 id="sources">Sources</h2>
+<ul>
+  <li>
+<a href="http://ssimeetup.org/">SSI Meetup</a> [<a href="https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og"><strong>V</strong></a>][<a href="https://www.slideshare.net/SSIMeetup/presentations/"><strong>ϟ</strong></a>]</li>
+  <li><a href="https://iiw.idcommons.net/Main_Page">IIW-Wiki</a></li>
+  <li><a href="http://wiki.idcommons.net/Main_Page">wiki.idcommons.net</a></li>
+  <li><a href="https://github.com/WebOfTrustInfo/">/WebOfTrustInfo</a></li>
+  <li><a href="https://github.com/peacekeeper/blockchain-identity">/peacekeeper/blockchain-identity</a></li>
+  <li><a href="https://identitywoman.net/">identitywoman.net</a></li>
+  <li><a href="http://www.windley.com/tags/identity.shtml">windley.com/tags/identity</a></li>
+  <li><a href="https://identityblog.com">Kim Camerons Identity Blog</a></li>
+</ul>
+<h3>Tips Welcome</h3>
+<table class="table table-bordered table-hover table-condensed">
+  <thead>
+    <tr>
+      <th title="Field #1">Bitcoin</th>
+      <th title="Field #2">DOGE</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>1D9382Y1hwF9mx8tRu8ZUVxcm2aq6yZDYR</td>
+      <td>D9y38ChAZP9aZG2mAJ94VAynAG4YGSvTpp</td>
+    </tr>
+    <tr>
+      <td><img src="https://imgur.com/j1hzcTo.png" width="150"></td>
+      <td><img src="https://i.imgur.com/V3EnMAes.png" width="150"></td>
+    </tr>
+  </tbody>
+</table>  
