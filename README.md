@@ -70,143 +70,143 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 <ul>
   <li>
-<a href="/history/">SSI\DID History</a>
+<a href="https://decentralized-id.com/history/">SSI\DID History</a>
     <ul>
       <li>
-<a href="/history/#losing-control-over-our-personal-information">Losing Control over our Personal Information</a> ’80s</li>
+<a href="https://decentralized-id.com/history/#losing-control-over-our-personal-information">Losing Control over our Personal Information</a> ’80s</li>
       <li>
-<a href="/history/#pgp---web-of-trust">PGP - Web of Trust</a> ‘91</li>
+<a href="https://decentralized-id.com/history/#pgp---web-of-trust">PGP - Web of Trust</a> ‘91</li>
       <li>
-<a href="/history/#international-planetwork-conference">International Planetwork Conference</a> ’00s</li>
-      <li><a href="/history/#xns-public-trust-organization">XNS Public Trust Organization</a></li>
+<a href="https://decentralized-id.com/history/#international-planetwork-conference">International Planetwork Conference</a> ’00s</li>
+      <li><a href="https://decentralized-id.com/history/#xns-public-trust-organization">XNS Public Trust Organization</a></li>
       <li>
-<a href="/history/#augmented-social-network">The Augmented Social Network</a> ‘03</li>
+<a href="https://decentralized-id.com/history/#augmented-social-network">The Augmented Social Network</a> ‘03</li>
       <li>
-<a href="/history/#idcommons">IDCommons</a> ‘01</li>
+<a href="https://decentralized-id.com/history/#idcommons">IDCommons</a> ‘01</li>
       <li>
-<a href="/history/#identity-gang">Identity Gang</a> ‘04
+<a href="https://decentralized-id.com/history/#identity-gang">Identity Gang</a> ‘04
         <ul>
-          <li><a href="/history/#kim-cameron---laws-of-identity">Kim Cameron - Laws of Identity</a></li>
+          <li><a href="https://decentralized-id.com/history/#kim-cameron---laws-of-identity">Kim Cameron - Laws of Identity</a></li>
         </ul>
       </li>
       <li>
-<a href="/history/#internet-identity-workshop">Internet Identity Workshop—IIW</a> ‘05</li>
+<a href="https://decentralized-id.com/history/#internet-identity-workshop">Internet Identity Workshop—IIW</a> ‘05</li>
       <li>
-<a href="/history/#w3c-credentials-community-group">W3C Credentials Community Group</a> ‘14</li>
+<a href="https://decentralized-id.com/history/#w3c-credentials-community-group">W3C Credentials Community Group</a> ‘14</li>
       <li>
-<a href="/history/#bitnation">Bitnation</a> ‘15</li>
+<a href="https://decentralized-id.com/history/#bitnation">Bitnation</a> ‘15</li>
       <li>
-<a href="/history/#the-united-nations-sustainable-development-goals">The United Nations Sustainable Development Goals</a> ‘15</li>
-      <li><a href="/history/#rebooting-the-web-of-trust">Rebooting-Web-of-Trust (/RWoT)</a></li>
-      <li><a href="/history/#evernym">Evernym</a></li>
+<a href="https://decentralized-id.com/history/#the-united-nations-sustainable-development-goals">The United Nations Sustainable Development Goals</a> ‘15</li>
+      <li><a href="https://decentralized-id.com/history/#rebooting-the-web-of-trust">Rebooting-Web-of-Trust (/RWoT)</a></li>
+      <li><a href="https://decentralized-id.com/history/#evernym">Evernym</a></li>
       <li>
-<a href="/history/#id2020-and-the-gdpr">ID2020 and the GDPR</a> ‘16</li>
-      <li><a href="/history/#the-end-of-2016">The End of 2016</a></li>
+<a href="https://decentralized-id.com/history/#id2020-and-the-gdpr">ID2020 and the GDPR</a> ‘16</li>
+      <li><a href="https://decentralized-id.com/history/#the-end-of-2016">The End of 2016</a></li>
       <li>
-<a href="/history/#decentralized-identity-foundation">Decentralized Identity Foundation</a> ‘17</li>
-      <li><a href="/history/#standards-history">DID Standards History</a></li>
+<a href="https://decentralized-id.com/history/#decentralized-identity-foundation">Decentralized Identity Foundation</a> ‘17</li>
+      <li><a href="https://decentralized-id.com/history/#standards-history">DID Standards History</a></li>
     </ul>
   </li>
   <li>
-<a href="/self-sovereign-identity">Self Sovereign Identity</a>
+<a href="https://decentralized-id.com/self-sovereign-identity">Self Sovereign Identity</a>
     <ul>
-      <li><a href="/self-sovereign-identity/evolution-of-ssi/">Evolution of SSI</a></li>
-      <li><a href="/self-sovereign-identity/ssi-principles-vs-characteristics/">SSI Principles vs Characteristics</a></li>
-      <li><a href="/self-sovereign-identity/user-experience/">User Experience</a></li>
+      <li><a href="https://decentralized-id.com/self-sovereign-identity/evolution-of-ssi/">Evolution of SSI</a></li>
+      <li><a href="https://decentralized-id.com/self-sovereign-identity/ssi-principles-vs-characteristics/">SSI Principles vs Characteristics</a></li>
+      <li><a href="https://decentralized-id.com/self-sovereign-identity/user-experience/">User Experience</a></li>
     </ul>
   </li>
   <li>
-<a href="/standards">DID Related Web Standards</a>
+<a href="https://decentralized-id.com/standards">DID Related Web Standards</a>
     <ul>
       <li>
-<a href="/standards/#xdi">XDI</a>
+<a href="https://decentralized-id.com/standards/#xdi">XDI</a>
         <ul>
-          <li><a href="/standards/#oasis-xdi-tech-committee-on-github">OASIS XDI TC Technical Committee on GitHub</a></li>
+          <li><a href="https://decentralized-id.com/standards/#oasis-xdi-tech-committee-on-github">OASIS XDI TC Technical Committee on GitHub</a></li>
         </ul>
       </li>
       <li>
-<a href="/standards/#w3c">W3C</a>
+<a href="https://decentralized-id.com/standards/#w3c">W3C</a>
         <ul>
-          <li><a href="/standards/#did-the-decentralized-identifier">DID the Decentralized Identifier</a></li>
-          <li><a href="/standards/#verifiable-claims">Verifiable Claims</a></li>
+          <li><a href="https://decentralized-id.com/standards/#did-the-decentralized-identifier">DID the Decentralized Identifier</a></li>
+          <li><a href="https://decentralized-id.com/standards/#verifiable-claims">Verifiable Claims</a></li>
         </ul>
       </li>
-      <li><a href="/standards/#did-auth">DID Auth</a></li>
-      <li><a href="/standards/#decentralized-key-management-agents">Decentralized Key Managment DKMS</a></li>
-      <li><a href="/standards/#ethereum-erc-eip">Ethereum ERC-EIP</a></li>
-      <li><a href="/standards/#blockcerts">Blockcerts</a></li>
-      <li><a href="/standards/#schema">Schema</a></li>
+      <li><a href="https://decentralized-id.com/standards/#did-auth">DID Auth</a></li>
+      <li><a href="https://decentralized-id.com/standards/#decentralized-key-management-agents">Decentralized Key Managment DKMS</a></li>
+      <li><a href="https://decentralized-id.com/standards/#ethereum-erc-eip">Ethereum ERC-EIP</a></li>
+      <li><a href="https://decentralized-id.com/standards/#blockcerts">Blockcerts</a></li>
+      <li><a href="https://decentralized-id.com/standards/#schema">Schema</a></li>
     </ul>
   </li>
-  <li><a href="/adoption/">DID Adoption</a></li>
-  <li><a href="/gdpr">GDPR</a></li>
-  <li><a href="/humanitarian/">Humanitarian</a></li>
-  <li><a href="/identity-github/">Identity Related GitHub Repositories</a></li>
-  <li><a href="/literature/">Literature</a></li>
+  <li><a href="https://decentralized-id.com/adoption/">DID Adoption</a></li>
+  <li><a href="https://decentralized-id.com/gdpr">GDPR</a></li>
+  <li><a href="https://decentralized-id.com/humanitarian/">Humanitarian</a></li>
+  <li><a href="https://decentralized-id.com/identity-github/">Identity Related GitHub Repositories</a></li>
+  <li><a href="https://decentralized-id.com/literature/">Literature</a></li>
   <li>
-<a href="/workshops">Workshops</a>
+<a href="https://decentralized-id.com/workshops">Workshops</a>
     <ul>
-      <li><a href="/workshops/rebooting-web-of-trust/">Rebooting Web of Trust</a></li>
+      <li><a href="https://decentralized-id.com/workshops/rebooting-web-of-trust/">Rebooting Web of Trust</a></li>
     </ul>
   </li>
   <li>
-<a href="/media/">Media</a>  (Video, Podcasts and Slideshare)</li>
+<a href="https://decentralized-id.com/media/">Media</a>  (Video, Podcasts and Slideshare)</li>
   <li>
-<a href="/organizations">Organizations</a>
+<a href="https://decentralized-id.com/organizations">Organizations</a>
     <ul>
-      <li><a href="/organizations/identity-foundation/">Decentralized Identity Foundation—DIF</a></li>
-      <li><a href="/organizations/mydata/">My Data</a></li>
-      <li><a href="/organizations/sovrin-foundation/">Sovrin Foundation</a></li>
-      <li><a href="/organizations/ssi-meetup/">SSI Meetup</a></li>
+      <li><a href="https://decentralized-id.com/organizations/identity-foundation/">Decentralized Identity Foundation—DIF</a></li>
+      <li><a href="https://decentralized-id.com/organizations/mydata/">My Data</a></li>
+      <li><a href="https://decentralized-id.com/organizations/sovrin-foundation/">Sovrin Foundation</a></li>
+      <li><a href="https://decentralized-id.com/organizations/ssi-meetup/">SSI Meetup</a></li>
     </ul>
   </li>
   <li>
-<a href="/id-initiatives">DID\SSI Initiatives</a>
+<a href="https://decentralized-id.com/id-initiatives">DID\SSI Initiatives</a>
     <ul>
       <li>
-<a href="/id-initiatives/bitcoin/">Bitcoin</a>
+<a href="https://decentralized-id.com/id-initiatives/bitcoin/">Bitcoin</a>
         <ul>
-          <li><a href="/id-initiatives/bitcoin/#btcr">BTCR</a></li>
-          <li><a href="/id-initiatives/bitcoin/#rwot-btcr">RWoT BTCR</a></li>
-          <li><a href="/id-initiatives/bitcoin/#bitnation">Bitnation</a></li>
-          <li><a href="/id-initiatives/bitcoin/#spidchain">Spidchain</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/bitcoin/#btcr">BTCR</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/bitcoin/#rwot-btcr">RWoT BTCR</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/bitcoin/#bitnation">Bitnation</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/bitcoin/#spidchain">Spidchain</a></li>
         </ul>
       </li>
-      <li><a href="/id-initiatives/blockstack/">Blockstack</a></li>
-      <li><a href="/id-initiatives/blockpass/">Blockpass</a></li>
-      <li><a href="/id-initiatives/danube/">Danube</a></li>
-      <li><a href="/id-initiatives/democracy-earth/">Democracy Earth</a></li>
+      <li><a href="https://decentralized-id.com/id-initiatives/blockstack/">Blockstack</a></li>
+      <li><a href="https://decentralized-id.com/id-initiatives/blockpass/">Blockpass</a></li>
+      <li><a href="https://decentralized-id.com/id-initiatives/danube/">Danube</a></li>
+      <li><a href="https://decentralized-id.com/id-initiatives/democracy-earth/">Democracy Earth</a></li>
       <li>
-<a href="/id-initiatives/ethereum/">Ethereum</a>
+<a href="https://decentralized-id.com/id-initiatives/ethereum/">Ethereum</a>
         <ul>
-          <li><a href="/id-initiatives/ethereum/#erc-eip">ERC-EIP</a></li>
-          <li><a href="/id-initiatives/ethereum/#erc725-735">ERC725-735</a></li>
-          <li><a href="/id-initiatives/ethereum/#uport">uPort</a></li>
-          <li><a href="/id-initiatives/ethereum/#jolocom">Jolocom</a></li>
-          <li><a href="/id-initiatives/ethereum/#spidchain">Spidchain</a></li>
-          <li><a href="/id-initiatives/ethereum/#cryptonomica">Cryptonomica</a></li>
-          <li><a href="/id-initiatives/ethereum/#assorted-ethereum-apps">Assorted Ethereum Apps</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/ethereum/#erc-eip">ERC-EIP</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/ethereum/#erc725-735">ERC725-735</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/ethereum/#uport">uPort</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/ethereum/#jolocom">Jolocom</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/ethereum/#spidchain">Spidchain</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/ethereum/#cryptonomica">Cryptonomica</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/ethereum/#assorted-ethereum-apps">Assorted Ethereum Apps</a></li>
         </ul>
       </li>
-      <li><a href="/id-initiatives/handshake/">Handshake</a></li>
+      <li><a href="https://decentralized-id.com/id-initiatives/handshake/">Handshake</a></li>
       <li>
-<a href="/id-initiatives/indy-ecosystem/">Indy</a>
+<a href="https://decentralized-id.com/id-initiatives/indy-ecosystem/">Indy</a>
         <ul>
-          <li><a href="/id-initiatives/indy-ecosystem/adoption/">Adoption</a></li>
-          <li><a href="/id-initiatives/indy-ecosystem/indy-github/">Indy Github</a></li>
-          <li><a href="/id-initiatives/indy-ecosystem/literature/">Literature</a></li>
-          <li><a href="/id-initiatives/indy-ecosystem/VON/">VON</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/indy-ecosystem/adoption/">Adoption</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/indy-ecosystem/indy-github/">Indy Github</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/indy-ecosystem/literature/">Literature</a></li>
+          <li><a href="https://decentralized-id.com/id-initiatives/indy-ecosystem/VON/">VON</a></li>
         </ul>
       </li>
-      <li><a href="/id-initiatives/ibm/">IBM</a></li>
-      <li><a href="/id-initiatives/microsoft/">Microsoft</a></li>
-      <li><a href="/id-initiatives/ontology/">Ontology</a></li>
-      <li><a href="/id-initiatives/spid-chain/">Spid-chain</a></li>
-      <li><a href="/id-initiatives/danube/">Danube Tech</a></li>
+      <li><a href="https://decentralized-id.com/id-initiatives/ibm/">IBM</a></li>
+      <li><a href="https://decentralized-id.com/id-initiatives/microsoft/">Microsoft</a></li>
+      <li><a href="https://decentralized-id.com/id-initiatives/ontology/">Ontology</a></li>
+      <li><a href="https://decentralized-id.com/id-initiatives/spid-chain/">Spid-chain</a></li>
+      <li><a href="https://decentralized-id.com/id-initiatives/danube/">Danube Tech</a></li>
     </ul>
   </li>
-  <li><a href="/hgf-2018/">Hyperledger Global Forum</a></li>
-  <li><a href="/state-sponsored/">State Sponsored</a></li>
+  <li><a href="https://decentralized-id.com/hgf-2018/">Hyperledger Global Forum</a></li>
+  <li><a href="https://decentralized-id.com/state-sponsored/">State Sponsored</a></li>
 </ul>
 
 <h2 id="sources">Sources</h2>
