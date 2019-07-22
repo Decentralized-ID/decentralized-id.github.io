@@ -1,4 +1,4 @@
-# decentralized-id.com
+# [decentralized-id.com](https://decentralized-id.com)
 
 **Be sure to check out our Community Site: [DIDecentral.com](https://didecentral.com)**
 On GitHub: [didecentral/didecentral.github.io](https://github.com/didecentral/didecentral.github.io)
