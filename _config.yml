@@ -22,7 +22,7 @@ name                     : "Infominer"
 description              : "Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 url                      : "https://decentralized-id.com"
 baseurl                  : ""
-repository               : "didecentral/decentralized-id.com"
+repository               : "didecentral/didecentral.github.io"
 github                   : [metadata]
 teaser                   : /images/didecentral-tw.png
 logo                     : "https://decentralized-id.com/images/DID.png"
@@ -33,7 +33,7 @@ comments:
   provider               : # "staticman_v2"
 staticman:
   allowedFields          : ["name", "email", "url", "message"]
-  repository             : didecentral/decentralized-id.com 
+  repository             : didecentral/didecentral.github.io 
   branch                 : "master"
   commitMessage          : "New comment by {fields.name}"
   filename               : comment-{@timestamp}
