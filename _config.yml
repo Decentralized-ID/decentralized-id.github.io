@@ -324,8 +324,6 @@ defaults:
         title: DIDecentral
         nav: didnav
       toc: true
-      toc_label   : "Contents"
-      toc_icon    : "link"
       toc_sticky  : true  
   # _posts
   - scope:
