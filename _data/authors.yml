@@ -3,7 +3,7 @@
 Infominer:
   name        : "Infominer"
   bio         : "Information Logistics"
-  avatar      : "https://infominer.id/assets/img/info-lit3.png"
+  avatar      : "/images/info-id.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
