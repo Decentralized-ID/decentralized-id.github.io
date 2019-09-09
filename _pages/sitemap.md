@@ -5,7 +5,7 @@ permalink: /sitemap/
 canonical_url: 'https://decentralized-id.com/sitemap/'
 author_profile: false
 sidebar:
-  nav: "sourcenav" 
+  nav: "didnav" 
 share: true
 ---
 
