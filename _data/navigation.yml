@@ -18,26 +18,6 @@ main:
     url: "https://web-work.tools/indieweb/"
 
 didnav:
-  - title: Featured
-    children:
-      - title: "• #indieweb-dev on IIW RWoT and DID's -FreeNode"
-        url: "https://web-work.tools/indieweb/indieweb-dev-on-did/"
-      - title: "• Identity Commons on Github"
-        url: "https://github.com/identitywoman/identity-commons"
-      - title: "• Web Standards"
-        url: "https://decentralized-id.com/standards/"
-      - title: "• GitHub Repositories"
-        url: "https://decentralized-id.com/identity-github/"
-      - title: "• RWoT - Papers Index"
-        url: "https://decentralized-id.com/workshops/rebooting-web-of-trust/"
-      - title: "• Microledgers and Edgechains—HGF18"
-        url: "https://decentralized-id.com/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
-      - title: "• Verifiable Organizations Network—HGF18"
-        url: "https://decentralized-id.com/hgf-2018/VerifiableOrganizationsNetwork-HGF/"
-      - title: "• Hyperledger Indy"
-        url: "https://decentralized-id.com/indy-ecosystem/"
-      - title: "• Practical Cryptography - PGP and Me"
-        url: "https://web-work.tools/practical-public-key-crypto/"
   - title: DIDecentral
     children:
       - title: "• Our Values"
@@ -68,6 +48,26 @@ didnav:
         url: "https://decentralized-id.com/self-sovereign-identity/ssi-principles-vs-characteristics/"
       - title: "• User Experience"
         url: "https://decentralized-id.com/self-sovereign-identity/user-experience/"
+  - title: Featured Content
+    children:
+      - title: "• Identity Commons on Github"
+        url: "https://github.com/identitywoman/identity-commons"
+      - title: "• Web Standards"
+        url: "https://decentralized-id.com/standards/"
+      - title: "• GitHub Repositories"
+        url: "https://decentralized-id.com/identity-github/"
+      - title: "• RWoT - Papers Index"
+        url: "https://decentralized-id.com/workshops/rebooting-web-of-trust/"
+      - title: "• Microledgers and Edgechains—HGF18"
+        url: "https://decentralized-id.com/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
+      - title: "• Verifiable Organizations Network—HGF18"
+        url: "https://decentralized-id.com/hgf-2018/VerifiableOrganizationsNetwork-HGF/"
+      - title: "• Hyperledger Indy"
+        url: "https://decentralized-id.com/indy-ecosystem/"
+      - title: "• Practical Cryptography - PGP and Me"
+        url: "https://web-work.tools/practical-public-key-crypto/"
+      - title: "• #indieweb-dev on IIW RWoT and DID's -FreeNode"
+        url: "https://web-work.tools/indieweb/indieweb-dev-on-did/"
   - title: Organizations
     children:
       - title: "• Index"
