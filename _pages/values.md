@@ -4,6 +4,8 @@ layout: single
 permalink: values/
 canonical_url: 'https://decentralized-id.com/values/'
 redirect_from: values
+toc: false
+classes: wide
 ---
 
 Decentralized-id.com is a collaborative, participatory learning community oriented that strives to support the elaboration and adoption of a user-controlled decentralized identity layer for the internets of the future. All of this is a labor of love and a work in progress, but certain shared values undergird our work and set the terms of our engagement with the broader public. We strive to be:
@@ -18,4 +20,4 @@ We and/or our contributors are likely to have our own prejudices. However, we ai
 
 \-          **Not for Profit.** The purpose of this site is to learn and share knowledge. That being said, the research involved is a lot of work, along with building the site. We accept private donations and/or corporate sponsorships to cover expenses. Additionally, individual contributors may do paid consulting, writing, or other commercial ventures independent of this project.
 
-\-          **Public Domain** Unless otherwise noted, all the content of this site is released to the public domain. Any contributions belong solely to their contributors unless otherwise specified. This work 
+\-          **Public Domain** Unless otherwise noted, all the content of this site is released to the public domain. Any contributions belong solely to their contributors unless otherwise specified.
