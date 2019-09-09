@@ -1,7 +1,7 @@
 # [decentralized-id.com](https://decentralized-id.com)
 
 **Be sure to check out our Community Site: [DIDecentral.com](https://didecentral.com)**
-On GitHub: [didecentral/didecentral.github.io](https://github.com/didecentral/didecentral.github.io/community-website)
+On GitHub: [didecentral/community-website](https://github.com/didecentral/community-website)
 
 <center><img src="images/didecentral.png"/></center>
 
@@ -70,7 +70,7 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 <ul>
   <li>
-<a href="https://decentralized-id.com/history/">SSI\DID History</a> (<a href="https://decentralized-id.com/history/archive/">Collaborative Curation - History Archive</a></li>
+<a href="https://decentralized-id.com/history/">SSI\DID History</a> (<a href="https://decentralized-id.com/history/archive/">Collaborative Curation - History Archive</a>)</li>
     <ul>
       <li>
 <a href="https://decentralized-id.com/history/#losing-control-over-our-personal-information">Losing Control over our Personal Information</a> ’80s</li>
