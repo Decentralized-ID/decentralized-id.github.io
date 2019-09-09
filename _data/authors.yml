@@ -27,6 +27,28 @@ Infominer:
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/InfoMiner33"
 
+DIDecentral:
+  name             : "DIDecentral"
+  avatar           : https://didecentral.com/assets/images/did-square.png
+  bio              : "Collaborative Curation, Community Research Initiative"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:identitydecentralized@gmail.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://didecentral.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/didecentral"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/eYm2XvZ"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/didecentral"
+
+
 Cornelius Fiddlebone:
   name        : "Cornelius Fiddlebone"
   bio         : "I ordered what?"
