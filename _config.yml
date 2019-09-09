@@ -286,7 +286,6 @@ compress_html:
 
 
 # Collections
-collections_dir: history-archive
 collections:
   1970thru90s:
     output: true
@@ -306,9 +305,6 @@ collections:
   assorted:
     output: true
     permalink: /history/archive/:collection/:path/
-  people:
-    output: true
-    permalink: /history/archive/:collection/:path/
 
 
 # Defaults
@@ -326,7 +322,7 @@ defaults:
       related: true
       sidebar:
         title: DIDecentral
-        nav: "didnav"
+        nav: didnav
       toc: true
       toc_label   : "Contents"
       toc_icon    : "link"
@@ -344,14 +340,14 @@ defaults:
       related: true
       sidebar:
         title: DIDecentral
-        nav: "didnav"
+        nav: didnav
       toc: true
       toc_label   : "Contents"
       toc_icon    : "link"
       toc_sticky  : true
     # _1970thru90s
   - scope:
-      path: "_1970thru90s"
+      path: "/history-archive/_1970thru90s"
       type: 1970thru90s
     values:
       layout: single
@@ -368,7 +364,7 @@ defaults:
         teaser: https://didecentral.com/assets/images/did-og.png
     # _2000s
   - scope:
-      path: "_2000s"
+      path: "/history-archive/_2000s"
       type: 2000s
     values:
       layout: single
@@ -385,7 +381,7 @@ defaults:
         teaser: https://didecentral.com/assets/images/did-og.png
     # _2010s
   - scope:
-      path: "_2010s"
+      path: "/history-archive/_2010s"
       type: 2010s
     values:
       layout: single
@@ -402,7 +398,7 @@ defaults:
         teaser: https://didecentral.com/assets/images/did-og.png
     # _2016class
   - scope:
-      path: "_2016class"
+      path: "/history-archive/_2016class"
       type: 2016class
     values:
       layout: single
@@ -419,7 +415,7 @@ defaults:
         teaser: https://didecentral.com/assets/images/did-og.png
     # _2017present
   - scope:
-      path: "_2017present"
+      path: "/history-archive/_2017present"
       type: 2017present
     values:
       layout: single
@@ -436,25 +432,8 @@ defaults:
         teaser: https://didecentral.com/assets/images/did-og.png
     # _assorted
   - scope:
-      path: "_assorted"
+      path: "/history-archive/_assorted"
       type: assorted
-    values:
-      layout: single
-      share: true
-      related: true
-      sidebar:
-        title: DID History
-        nav: "didhistory"
-      classes: wide
-      disco: true
-      header:
-        image: /images/did-header1.png
-        og_image: https://didecentral.com/assets/images/did-og.png
-        teaser: https://didecentral.com/assets/images/did-og.png
-    # _people
-  - scope:
-      path: "_people"
-      type: people
     values:
       layout: single
       share: true

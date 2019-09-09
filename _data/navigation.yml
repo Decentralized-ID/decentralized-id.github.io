@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Historical Archive"
+    url: "/history/archive/"
   - title: "Posts by Tag"
     url: "/tags/"
   - title: "Sitemap"
@@ -14,7 +16,6 @@ main:
     url: "https://sourcecrypto.pub/decentralized-web/"
   - title: "IndieWeb"
     url: "https://web-work.tools/indieweb/"
-
 
 didnav:
   - title: Featured
@@ -91,8 +92,6 @@ didnav:
         url: "https://decentralized-id.com/id-initiatives/bitcoin/" 
       - title: "• Democracy Earth"
         url: "https://decentralized-id.com/id-initiatives/democracy-earth/"
-      #- title: "• Digital Bazaar"
-        #url: "https://decentralized-id.com/id-initiatives/digital-bazaar/" 
       - title: "• Ethereum"
         url: "https://decentralized-id.com/id-initiatives/ethereum/" 
       - title: "• Cryptonomica"
@@ -111,8 +110,6 @@ didnav:
         url: "https://decentralized-id.com/id-initiatives/microsoft/"
       - title: "• Ontology"
         url: "https://decentralized-id.com/id-initiatives/ontology/"
-      #- title: "• Spid-chain"
-       # url: "https://decentralized-id.com/id-initiatives/spid-chain/"
       - title: "• State Led"
         url: "https://decentralized-id.com/state-sponsored/"
   - title: "⧉InfoMine⧉"
