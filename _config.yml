@@ -347,7 +347,7 @@ defaults:
       toc_sticky  : true
     # _1970thru90s
   - scope:
-      path: "/history-archive/_1970thru90s"
+      path: "_1970thru90s"
       type: 1970thru90s
     values:
       layout: single
@@ -364,7 +364,7 @@ defaults:
         teaser: https://didecentral.com/assets/images/did-og.png
     # _2000s
   - scope:
-      path: "/history-archive/_2000s"
+      path: "_2000s"
       type: 2000s
     values:
       layout: single
@@ -381,7 +381,7 @@ defaults:
         teaser: https://didecentral.com/assets/images/did-og.png
     # _2010s
   - scope:
-      path: "/history-archive/_2010s"
+      path: "_2010s"
       type: 2010s
     values:
       layout: single
@@ -398,7 +398,7 @@ defaults:
         teaser: https://didecentral.com/assets/images/did-og.png
     # _2016class
   - scope:
-      path: "/history-archive/_2016class"
+      path: "_2016class"
       type: 2016class
     values:
       layout: single
@@ -415,7 +415,7 @@ defaults:
         teaser: https://didecentral.com/assets/images/did-og.png
     # _2017present
   - scope:
-      path: "/history-archive/_2017present"
+      path: "_2017present"
       type: 2017present
     values:
       layout: single
@@ -432,7 +432,7 @@ defaults:
         teaser: https://didecentral.com/assets/images/did-og.png
     # _assorted
   - scope:
-      path: "/history-archive/_assorted"
+      path: "_assorted"
       type: assorted
     values:
       layout: single
