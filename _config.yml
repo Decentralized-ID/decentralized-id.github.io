@@ -223,8 +223,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-target-blank
-  - jekyll-optional-front-matter
   - jekyll-redirect-from
   - jekyll-mentions
 
@@ -239,8 +237,6 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-target-blank
-  - jekyll-optional-front-matter
   - jekyll-redirect-from
   - jekyll-mentions
 

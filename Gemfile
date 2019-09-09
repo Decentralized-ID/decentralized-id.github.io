@@ -35,8 +35,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-include-cache"
-  gem "jekyll-target-blank"
-  gem "jekyll-optional-front-matter"
   gem "jekyll-redirect-from"
   gem "jekyll-mentions"
   gem "html-proofer"
