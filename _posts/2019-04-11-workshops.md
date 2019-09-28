@@ -42,5 +42,5 @@ Fall: October 01, 2019 – October 03, 2019
   > * To generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future"
   >
   > To this end, I thought it would be useful to define what is a white paper, and as some people desire to go beyond this, what is a specification and proof of concept code.
-* <a href="http://www.weboftrust.info/next-event-page.html" target="_blank">WebOfTrust.info - Upcoming Events</a>
+* <a href="http://www.weboftrust.info/next-event-page.html" />WebOfTrust.info - Upcoming Events</a>
 * [**Rebooting Web Of Trust - Papers and Advance Readings Index**](rebooting-web-of-trust.html) **>>**
