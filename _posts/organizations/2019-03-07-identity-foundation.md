@@ -28,7 +28,7 @@ tags:
 ![](https://imgur.com/PXGV6Xyl.png)
 
 * [Decentralized Identity Foundation](https://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**B**](https://medium.com/decentralized-identity)] 
-* <a href="https://github.com/decentralized-identity/org" target="_blank">DIF Organizational Materials</a>
+* <a href="https://github.com/decentralized-identity/org" />DIF Organizational Materials</a>
 * [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
   * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
@@ -103,46 +103,46 @@ DIF members, who share the goal of “building an open source decentralized iden
 
 ## /decentralized-identity - GitHub 
 
-* <a href="https://github.com/decentralized-identity/decentralized-identity.github.io" target="_blank">/decentralized-identity/decentralized-identity.github.io</a>  - Site for the open source, community-driven group of dev and organizations working toward an interoperable, decentralized identity ecosystem
-* <a href="https://github.com/decentralized-identity/org" target="_blank">/decentralized-identity/org</a> - DIF docs, wiki, and organizational material
-* <a href="https://github.com/decentralized-identity/credential-manifest" target="_blank">/decentralized-identity/credential-manifest</a> - Format that normalizes the definition of requirements for the issuance of a credential
-* <a href="https://github.com/decentralized-identity/universal-registrar" target="_blank">/decentralized-identity/universal-registrar</a> - Specifications and implementation of a universal identifier registrar
-* <a href="https://github.com/decentralized-identity/attestations" target="_blank">decentralized-identity/attestations</a> - Attestation API implementations for various languages and platforms.
+* <a href="https://github.com/decentralized-identity/decentralized-identity.github.io" />/decentralized-identity/decentralized-identity.github.io</a>  - Site for the open source, community-driven group of dev and organizations working toward an interoperable, decentralized identity ecosystem
+* <a href="https://github.com/decentralized-identity/org" />/decentralized-identity/org</a> - DIF docs, wiki, and organizational material
+* <a href="https://github.com/decentralized-identity/credential-manifest" />/decentralized-identity/credential-manifest</a> - Format that normalizes the definition of requirements for the issuance of a credential
+* <a href="https://github.com/decentralized-identity/universal-registrar" />/decentralized-identity/universal-registrar</a> - Specifications and implementation of a universal identifier registrar
+* <a href="https://github.com/decentralized-identity/attestations" />decentralized-identity/attestations</a> - Attestation API implementations for various languages and platforms.
 
 ### DIF - DID 
-* <a href="https://github.com/decentralized-identity/did-methods" target="_blank">/decentralized-identity/did-methods</a> - DID Method specs, docs, and materials
-* <a href="https://github.com/decentralized-identity/did-common-typescript" target="_blank">/decentralized-identity/did-common-typescript
+* <a href="https://github.com/decentralized-identity/did-methods" />/decentralized-identity/did-methods</a> - DID Method specs, docs, and materials
+* <a href="https://github.com/decentralized-identity/did-common-typescript" />/decentralized-identity/did-common-typescript
 </a> - A common bundle of shared code and modules for working with DIDs, DID Documents, and other DID-related activities
-* <a href="https://github.com/decentralized-identity/did-security-csharp" target="_blank">/decentralized-identity/did-security-csharp</a> - C# implementation of DID security and privacy controls
-* <a href="https://github.com/decentralized-identity/did-security-typescript" target="_blank">/decentralized-identity/did-security-typescript</a> - Typescript implementation of DID security and privacy controls
-* <a href="https://github.com/decentralized-identity/did-common-java" target="_blank">/decentralized-identity/did-common-java</a> - Shared DID Java library.
-* <a href="https://github.com/decentralized-identity/ua-web-extension" target="_blank">/decentralized-identity/ua-web-extension</a> - Basic web extension version of a DID User Agent
-* <a href="https://github.com/decentralized-identity/did-recovery" target="_blank">/decentralized-identity/did-recovery</a> - Various methods for DID recovery
-* <a href="https://github.com/decentralized-identity/web-polyfills" target="_blank">/decentralized-identity/web-polyfills</a> - Polyfills for proposed or emerging DID-centric Web APIs
-* <a href="https://github.com/decentralized-identity/" target="_blank">/decentralized-identity/</a>
-* <a href="https://github.com/decentralized-identity/http-did-auth-proxy" target="_blank">/decentralized-identity/http-did-auth-proxy</a> - Forked from bcgov/http-did-auth-proxy
+* <a href="https://github.com/decentralized-identity/did-security-csharp" />/decentralized-identity/did-security-csharp</a> - C# implementation of DID security and privacy controls
+* <a href="https://github.com/decentralized-identity/did-security-typescript" />/decentralized-identity/did-security-typescript</a> - Typescript implementation of DID security and privacy controls
+* <a href="https://github.com/decentralized-identity/did-common-java" />/decentralized-identity/did-common-java</a> - Shared DID Java library.
+* <a href="https://github.com/decentralized-identity/ua-web-extension" />/decentralized-identity/ua-web-extension</a> - Basic web extension version of a DID User Agent
+* <a href="https://github.com/decentralized-identity/did-recovery" />/decentralized-identity/did-recovery</a> - Various methods for DID recovery
+* <a href="https://github.com/decentralized-identity/web-polyfills" />/decentralized-identity/web-polyfills</a> - Polyfills for proposed or emerging DID-centric Web APIs
+* <a href="https://github.com/decentralized-identity/" />/decentralized-identity/</a>
+* <a href="https://github.com/decentralized-identity/http-did-auth-proxy" />/decentralized-identity/http-did-auth-proxy</a> - Forked from bcgov/http-did-auth-proxy
 DID Auth HTTP proxy.
 
 ### DIF - DID-Auth 
-* <a href="https://github.com/decentralized-identity/did-auth-jose" target="_blank">/decentralized-identity/did-auth-jose</a> - JOSE-based implementation of DID Authenticated Encryption
+* <a href="https://github.com/decentralized-identity/did-auth-jose" />/decentralized-identity/did-auth-jose</a> - JOSE-based implementation of DID Authenticated Encryption
 
 ### DIF - Sidetree 
-* <a href="https://github.com/decentralized-identity/sidetree-ipfs" target="_blank">/decentralized-identity/sidetree-ipfs</a> - IPFS module for storing and accessing Sidetree entity operation data via content addressable storage
-* <a href="https://github.com/decentralized-identity/sidetree-core" target="_blank">/decentralized-identity/sidetree-core</a> - The blockchain-agnostic server implementation of the Sidetree protocol.
-* <a href="https://github.com/decentralized-identity/sidetree-bitcoin" target="_blank">/decentralized-identity/sidetree-bitcoin</a> - Blockchain-specific code for the Sidetree-based DID Method implementation on Bitcoin
-* <a href="https://github.com/decentralized-identity/ion" target="_blank">/decentralized-identity/ion</a> - DID Method implementation using the Sidetree protocol on top of Bitcoin
+* <a href="https://github.com/decentralized-identity/sidetree-ipfs" />/decentralized-identity/sidetree-ipfs</a> - IPFS module for storing and accessing Sidetree entity operation data via content addressable storage
+* <a href="https://github.com/decentralized-identity/sidetree-core" />/decentralized-identity/sidetree-core</a> - The blockchain-agnostic server implementation of the Sidetree protocol.
+* <a href="https://github.com/decentralized-identity/sidetree-bitcoin" />/decentralized-identity/sidetree-bitcoin</a> - Blockchain-specific code for the Sidetree-based DID Method implementation on Bitcoin
+* <a href="https://github.com/decentralized-identity/ion" />/decentralized-identity/ion</a> - DID Method implementation using the Sidetree protocol on top of Bitcoin
 
 ### DIF - Hub 
-* <a href="https://github.com/decentralized-identity/hub-sdk-js-sample" target="_blank">/decentralized-identity/hub-sdk-js-sample</a> - Sample app demonstrating use of the DIF Identity Hub JavaScript SDK.
-* <a href="https://github.com/decentralized-identity/hub-sdk-js" target="_blank">/decentralized-identity/hub-sdk-js</a> - JavaScript SDK for interacting with Identity Hubs
-* <a href="https://github.com/decentralized-identity/hub-common-js" target="_blank">/decentralized-identity/hub-common-js</a> - Common interfaces for working with Identity Hubs in JavaScript/TypeScript
-* <a href="https://github.com/decentralized-identity/hub-node-core" target="_blank">/decentralized-identity/hub-node-core</a> - Node.js implementation of the Identity Hub interfaces, business logic, and replication protocol.
-* <a href="https://github.com/decentralized-identity/identity-hub" target="_blank">/decentralized-identity/identity-hub</a> - Storage and compute nodes for decentralized identity data and interactions
-* <a href="https://github.com/decentralized-identity/hub-node-reference" target="_blank">/decentralized-identity/hub-node-reference</a> - The official Identity Hub reference implementation bundle for Node.js
+* <a href="https://github.com/decentralized-identity/hub-sdk-js-sample" />/decentralized-identity/hub-sdk-js-sample</a> - Sample app demonstrating use of the DIF Identity Hub JavaScript SDK.
+* <a href="https://github.com/decentralized-identity/hub-sdk-js" />/decentralized-identity/hub-sdk-js</a> - JavaScript SDK for interacting with Identity Hubs
+* <a href="https://github.com/decentralized-identity/hub-common-js" />/decentralized-identity/hub-common-js</a> - Common interfaces for working with Identity Hubs in JavaScript/TypeScript
+* <a href="https://github.com/decentralized-identity/hub-node-core" />/decentralized-identity/hub-node-core</a> - Node.js implementation of the Identity Hub interfaces, business logic, and replication protocol.
+* <a href="https://github.com/decentralized-identity/identity-hub" />/decentralized-identity/identity-hub</a> - Storage and compute nodes for decentralized identity data and interactions
+* <a href="https://github.com/decentralized-identity/hub-node-reference" />/decentralized-identity/hub-node-reference</a> - The official Identity Hub reference implementation bundle for Node.js
 
 ### DIF - Uniresolver 
 
-* <a href="https://github.com/decentralized-identity/universal-resolver" target="_blank">/decentralized-identity/universal-resolver</a> - Universal Resolver implementation and drivers.
-* <a href="https://github.com/decentralized-identity/universal-resolver-frontend" target="_blank">/decentralized-identity/universal-resolver-frontend</a> - Frontend web UI for Universal Resolver
-* <a href="https://github.com/decentralized-identity/universal-resolver-python" target="_blank">/decentralized-identity/universal-resolver-python</a>
-* <a href="https://github.com/decentralized-identity/universal-resolver-java" target="_blank">/decentralized-identity/universal-resolver-java</a>
+* <a href="https://github.com/decentralized-identity/universal-resolver" />/decentralized-identity/universal-resolver</a> - Universal Resolver implementation and drivers.
+* <a href="https://github.com/decentralized-identity/universal-resolver-frontend" />/decentralized-identity/universal-resolver-frontend</a> - Frontend web UI for Universal Resolver
+* <a href="https://github.com/decentralized-identity/universal-resolver-python" />/decentralized-identity/universal-resolver-python</a>
+* <a href="https://github.com/decentralized-identity/universal-resolver-java" />/decentralized-identity/universal-resolver-java</a>
