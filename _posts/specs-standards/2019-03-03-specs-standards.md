@@ -9,13 +9,16 @@ redirect_from:
 author_profile: true
 categories: ["Specs-standards"]
 tags: ["Index"]
+last_modified_at: 2019-09-29T11:22:33-23:00
 ---
 
-This list page was a good start, but is due for an overhaul. 
+This page is in the process of an overhaul.
 
-In the mean-time, heres a link you should appreciate:
+I'll start with a few useful links at the top, and gradually fill-out \ clean up the rest.
 
 * [W3C Workshop on Strong Authentication & Identity](https://www.w3.org/Security/strong-authentication-and-identity-workshop/report.html)
+* https://wiki.hyperledger.org/display/IWG/Identity+Standards
+  * https://medium.com/decentralized-identity/the-self-sovereign-identity-stack-8a2cc95f2d45
 
 ## contents
 
@@ -64,7 +67,12 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 ![](https://imgur.com/6MLNgXal.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
-### DID the Decentralized Identifier 
+### Credentials Community Group
+
+* [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
+* <a href="http://lists.w3.org/Archives/Public/public-credentials/" />Public mailing list for the Credentials Community Group</a> (and archives) - Anyone may read or write to this list.
+
+#### DID the Decentralized Identifier 
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
 
@@ -81,13 +89,6 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 * [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
   * [All you need to know about sequential UUID generators](https://blog.2ndquadrant.com/sequential-uuid-generators/)
 * [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
-  * Authors:
-     * [Drummond Reed](https://equalsdrummond.name/) [[**T**](https://twitter.com/drummondreed)] ([Evernym](https://www.evernym.com/))  
-     * [Manu Sporney](http://manu.sporny.org/)[[**T**](https://twitter.com/manusporny)]  ([Digital Bazaar](https://digitalbazaar.com))
-     * Dave Longley ([Digital Bazaar](https://digitalbazaar.com))
-     * [Christopher Allen](http://www.lifewithalacrity.com/) [[**info**](https://github.com/ChristopherA/info)] ([Blockstream](https://blockstream.com/))
-     * Ryan Grant
-     * [Markus Sabadello (Peacekeeper)](http://mydata2016.org/speaker/markus-sabadello/) [[**T**](https://twitter.com/peacekeeper)] [[**G**](https://github.com/peacekeeper)] [[**B**](https://medium.com/@markus.sabadello)] ([Danube Tech](https://github.com/projectdanube))
 * [Understanding Decentralized IDs (DIDs)](https://medium.com/@adam_14796/understanding-decentralized-ids-dids-839798b91809)
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
 * [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
@@ -98,7 +99,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 
 <a href="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png"><img src="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png?w=500"/></a>
 
-### Verifiable Claims 
+### Verifiable Credentials 
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/nsZ0X7r.png"/></a>
 
@@ -107,10 +108,6 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 * <a href="https://lists.w3.org/Archives/Public/public-vc-wg/" />Verifiable Claims WG - Mailing List</a> (and archives)
 * [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
 
-### Credentials Community Group
-
-* [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
-* <a href="http://lists.w3.org/Archives/Public/public-credentials/" />Public mailing list for the Credentials Community Group</a> (and archives) - Anyone may read or write to this list.
 
 ## DIF
 
