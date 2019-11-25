@@ -2,15 +2,16 @@
 title: Microledgers and Edge-Chains - A Primer 
 description: A Transcript of Daniel Hardman of Evernym Presenting at Hyperledger Global Forum — 2018
 image: "https://i.imgur.com/qbVl47T.png"
-canonical_url: 'https://infominer.id/transcripts/Microledgers-Edgechains-Dan-Hardman/'
+canonical_url: 'https://decentralized-id.com/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/'
 redirect_from:
   - /hgf-2018/Microledgers-Edgechains-Hardman-HGF/
   - /hgf-2018/Microledgers-Edgechains-Hardman-HGF
 permalink:  /hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/
-author_profile: true
+author_profile: false
 categories: ["Hyperledger","Presentations"]
 tags: ["Indy","Von","Transcripts","Microledgers","HGF-2018","Edge-chains"]
 published: true
+classes: wide
 last_modified_at: 2019-07-11T11:22:33-23:00
 ---
 
@@ -22,28 +23,6 @@ last_modified_at: 2019-07-11T11:22:33-23:00
 
 * [Daniel Hardman, Chief Architect - Evernym](https://hgf18.sched.com/event/G8sN/microledgers-and-edge-chains-a-primer-daniel-hardman-evernym)
   > Daniel Hardman has a quarter century of experience in enterprise software. As a technical director or chief architect, he’s led engineering teams at small startups, an incubator, and a continent-spanning business unit at a Fortune 500 company. He founded a dot com a few years back, serving as CEO and later CTO before selling the business. Daniel designed and personally coded complex scheduling software that runs the biggest supercomputers on the planet. He also worked on big data systems that use natural language processing and machine learning/AI to impute reputation to the entire observable internet. He is a member of Infraguard, has training in cybersecurity, and has spoken at industry conferences such as RSA. Daniel has an MBA plus a master’s degree in computational linguistics. He holds numerous patents and is a prolific blogger.
-
-## Contents
-
-* [Microledgers and Edge-Chains](#microledgers-and-edge-chains)
-* [A Personal Arc](#a-personal-arc)
-* [Blockchain— the new centralization](#blockchain-the-new-centralization)
-* [Where Blockchain is Needed (or Not)](#where-blockchain-is-needed-or-not)
-* [Microledgers](#microledgers)
-* [How Blockchain is Still Relevant](#how-blockchain-is-still-relevant)
-* [App Centralization Continuum](#app-centralization-continuum)
-* [Teleomergent - More than a decentralized app](#teleomergent---more-than-a-decentralized-app)
-* [Dapps vs Edgechain Protocols](#dapps-vs-edgechain-protocols)
-* [Defining an Edgechain Protocol](#defining-an-edgechain-protocol)
-* [A Familiar Example—Buying a House](#a-familiar-examplebuying-a-house)
-* [Trust Ping Protocol](#trust-ping-protocol)
-* [Tic Tac Toe](#tic-tac-toe)
-* [DID method for peer (private pairwise) DIDs](#did-method-for-peer-private-pairwise-dids)
-* [Peer DID Method Spec](#peer-did-method-spec)
-* [Megaphone Protocol](#megaphone-protocol)
-* [Call to Action](#call-to-action)
-* [Q&A](#qa)
-* [Home](https://infominer.id)
 
 ## Microledgers and Edge-Chains 
 **Lightly edited transcript from Youtube.**
