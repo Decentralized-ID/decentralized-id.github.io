@@ -16,7 +16,7 @@ I've begun exploring and becoming more familiar with the decentralized nature of
 
 ## This page requires a lot of attention. 
 
-I will begin with a listing of standards bodies, organizations and open processes to which, I'm paying attention, (other than those previously gathered). From there, I will gradually, then suddenly, integrate and expand.
+I will begin with a listing of standards bodies, organizations and open processes, to which I'm paying attention (other than those previously gathered). From there, I will gradually, then suddenly, integrate and expand.
 
 * [ISSA (Information Systems Security Association)](https://www.issa.org/)
 * [ISAO Standards](https://www.isao.org/)
