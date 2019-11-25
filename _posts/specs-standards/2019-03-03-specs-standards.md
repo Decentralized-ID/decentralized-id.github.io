@@ -9,7 +9,7 @@ redirect_from:
 author_profile: true
 categories: ["Specs-standards"]
 tags: ["Index"]
-last_modified_at: 2019-09-29T11:22:33-23:00
+last_modified_at: 2019-11-25T11:22:33-23:00
 ---
 
 I've begun exploring and becoming more familiar with the decentralized nature of digital identity. Open standards, processes, and organizations revolving around such are the most critical components of that decentralized but widely interoperable ideal.
@@ -25,6 +25,7 @@ I will begin with a listing of standards bodies, organizations and open processe
 * [ISO](https://www.iso.org/committee/6266604/x/catalogue/p/0/u/1/w/0/d/0)
 * [IEEE](https://standards.ieee.org/)
 * [DIF](https://identity.foundation/working-groups/) - [GitHub](https://github.com/decentralized-identity/)
+  * [Self Sovereign Identity Stack](https://medium.com/decentralized-identity/the-self-sovereign-identity-stack-8a2cc95f2d45)
 * [Fido Alliance](https://fidoalliance.org/)
 * [Hyperledger](https://www.hyperledger.org/join-a-group) - [Wiki](https://wiki.hyperledger.org/display/HYP/Working+Groups)
 * [Kantara](https://kantarainitiative.org/groups/)	
@@ -32,7 +33,7 @@ I will begin with a listing of standards bodies, organizations and open processe
 * [Sovrin](https://sovrin.org/announcing-four-sovrin-governance-framework-wg-task-forces/) - [Forum](https://forum.sovrin.org/c/working-groups)
 * [Me2B Alliance](https://www.me2balliance.org/repository.html)
 * [Ethereum Enterprise Alliance](https://entethalliance.org/participate/working-groups/)
-
+  
 ## contents
 
 * [XDI](#xdi)
