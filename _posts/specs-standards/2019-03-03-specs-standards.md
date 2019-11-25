@@ -11,11 +11,26 @@ categories: ["Specs-standards"]
 tags: ["Index"]
 ---
 
-This list page was a good start, but is due for an overhaul. 
+I've begun exploring and becoming more familiar with the decentralized nature of digital identity. Open standards, processes, and organizations revolving around such are the most critical components of that decentralized but widely interoperable ideal.
 
-In the mean-time, heres a link you should appreciate:
+## This page requires a lot of attention. 
 
-* [W3C Workshop on Strong Authentication & Identity](https://www.w3.org/Security/strong-authentication-and-identity-workshop/report.html)
+I will begin with a listing of standards bodies, organizations and open processes to which, I'm paying attention, (other than those previously gathered). From there, I will gradually, then suddenly, integrate and expand.
+
+* [ISSA (Information Systems Security Association)](https://www.issa.org/)
+* [ISAO Standards](https://www.isao.org/)
+* [IETF](https://datatracker.ietf.org/wg/)
+* [NIST](https://www.nist.gov/)
+* [ISO](https://www.iso.org/committee/6266604/x/catalogue/p/0/u/1/w/0/d/0)
+* [IEEE](https://standards.ieee.org/)
+* [DIF](https://identity.foundation/working-groups/) - [GitHub](https://github.com/decentralized-identity/)
+* [Fido Alliance](https://fidoalliance.org/)
+* [Hyperledger](https://www.hyperledger.org/join-a-group) - [Wiki](https://wiki.hyperledger.org/display/HYP/Working+Groups)
+* [Kantara](https://kantarainitiative.org/groups/)	
+* [OpenID](https://openid.net/wg/)
+* [Sovrin](https://sovrin.org/announcing-four-sovrin-governance-framework-wg-task-forces/) - [Forum](https://forum.sovrin.org/c/working-groups)
+* [Me2B Alliance](https://www.me2balliance.org/repository.html)
+* [Ethereum Enterprise Alliance](https://entethalliance.org/participate/working-groups/)
 
 ## contents
 
@@ -65,6 +80,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
   * [opencreds.org — Identity Credentials 1.0](https://opencreds.org/specs/source/identity-credentials/)
 * <a href="https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io" target="_blank">/w3c-dvcg/w3c-dvcg.github.io</a> - Landing site for W3C Digital Verification Community Group. [<a href="https://www.w3.org/community/digital-verification/">**W**</a>]
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
+* [W3C Workshop on Strong Authentication & Identity](https://www.w3.org/Security/strong-authentication-and-identity-workshop/report.html)
 
 ![](https://imgur.com/6MLNgXal.png)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
