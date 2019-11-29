@@ -20,8 +20,8 @@ main:
 didnav:
   - title: DIDecentral
     children:
-      - title: "• Our Values"
-        url: "/values/"
+      - title: "• Our Aim"
+        url: "/aim/"
       - title: "• History"
         url: "/history/"
       - title: "• DID Adoption"
