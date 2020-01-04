@@ -5,8 +5,8 @@ description: "Various ways to contribute to the InfoHub, and its Associated Web-
 excerpt: >
   This contributors introduction is to encourage participation, with minimal barriar to entry.
 header:
-  teaser: https://infominer.id/assets/img/infohub-contributors-thumb.png
-  image: https://infominer.id/assets/img/infohub-contributors-intro.png
+  teaser: https://infominer.xyz/assets/img/infohub-contributors-thumb.png
+  image: https://infominer.xyz/assets/img/infohub-contributors-intro.png
   caption: "Quickstart for [GitHub](https://github.com/infominer33), [Twitter](https://twitter.com/SourceCrypto), and [Discord](https://discord.gg/29mZwPQ) Participation."
 tags: 
   - Public-Domain
@@ -27,7 +27,7 @@ tags:
   - GitHub
   - Integrations
 authors: 
-  - "<a href='https://infominer.id'>Infominer</a>"
+  - "<a href='https://infominer.xyz'>Infominer</a>"
   - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
 permalink: contributors-intro/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading, Contributors-Guide]
@@ -85,7 +85,7 @@ Whether it's an actual improvement, fully functioning with proper markup, or sim
 
 ## If you all could just..
 
-![](https://infominer.id/bookmark-donations/that-would-be-great.jpg)
+![](https://infominer.xyz/bookmark-donations/that-would-be-great.jpg)
 
 If you would export me a copy of your bookmarks.... that would be great! After a while I'll make a few fine grained how-to. This is one of the simplest ways that nearly anyone could make a significant contribution. I want to create detailed guides, to ensure that everyone is able.
 
@@ -115,9 +115,9 @@ Here I'm visiting [Dev.to](https://dev.to) on my smoke break, and find some usef
 I had to enable sharing to discord, and you might have to do the same type of thing with android. Once you've set up the sharing integration, then it's simple to do, on the go.
 
 
-**1** ![](https://infominer.id/assets/img/discord-share-workflow-1.png) **2** ![](https://infominer.id/assets/img/discord-share-workflow-2.png)
+**1** ![](https://infominer.xyz/assets/img/discord-share-workflow-1.png) **2** ![](https://infominer.xyz/assets/img/discord-share-workflow-2.png)
 
-**3** ![](https://infominer.id/assets/img/discord-share-workflow-3.png) **4** ![](https://infominer.id/assets/img/discord-share-workflow-4.png)
+**3** ![](https://infominer.xyz/assets/img/discord-share-workflow-3.png) **4** ![](https://infominer.xyz/assets/img/discord-share-workflow-4.png)
 
 
 ## Thanks for Visiting!

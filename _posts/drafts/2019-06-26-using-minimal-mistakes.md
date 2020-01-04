@@ -21,7 +21,7 @@ tags:
   - Web-Pub
   - Web-Working
 #authors: 
-#  - "<a href='https://infominer.id'>Infominer</a>"
+#  - "<a href='https://infominer.xyz'>Infominer</a>"
 #  - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
 permalink: using-minimal-mistakes/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading, Contributors-Guide]
@@ -266,7 +266,7 @@ This guide is designed to familiarize those interested in contributing to the In
 
 ### [_config.yml](https://github.com/infominer33/infominer33.github.io/raw/master/_config.yml)
 
-These are the most important settings for Infominer.id
+These are the most important settings for infominer.xyz
 
 ```yaml
 # Welcome to Jekyll!
@@ -285,7 +285,7 @@ title                    : "InfoHub"
 title_separator          : "|"
 name                     : "⧉ Infominer"
 description              : "Infominer on Bitcoin History, Self-Sovereign Identity, Blockchain Development and other Web Technologies."
-url                      : "https://infominer.id"
+url                      : "https://infominer.xyz"
 baseurl                  : ''
 repository               : "infominer33/infominer33.github.io"
 github                   : [metadata]
@@ -326,9 +326,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/infominer33"
-    - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/ahTuPMY"
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/InfoMiner33"
@@ -341,7 +338,7 @@ footer:
   links:
     - label: "Inf⧉Hub"
       icon: "fa fa-fw fa-cube"
-      url: "https://infominer.id"
+      url: "https://infominer.xyz"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:infominer@protonmail.com"
@@ -354,9 +351,6 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/infominer33"
-    - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/ahTuPMY"
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/InfoMiner33"
@@ -431,7 +425,7 @@ defaults:
 
 ### [Gemfile](https://github.com/infominer33/infominer33.github.io/raw/master/Gemfile)
 
-These Gem settings are necessary to build [infominer.id](https://infominer.id) locally, when testing larger changes.
+These Gem settings are necessary to build [infominer.xyz](https://infominer.xyz) locally, when testing larger changes.
 
 ```yaml
 source "https://rubygems.org"
@@ -483,7 +477,7 @@ The `excerpt` is what social media uses in the preview, when sharing... and it a
 ```yaml
 header:
   teaser: https://imgur.com/xeWd7Zz.png
-  image: https://infominer.id/assets/img/minimal-mistakes-teaser.png
+  image: https://infominer.xyz/assets/img/minimal-mistakes-teaser.png
   caption: "Minimal Mistakes Setup and [Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)."
 ```
 
@@ -506,7 +500,7 @@ tags:
   - GITHUB-PAGES
   - WEB-WORK
 authors: 
-  - "<a href='https://infominer.id'>Infominer</a>"
+  - "<a href='https://infominer.xyz'>Infominer</a>"
   - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
 permalink: how-i-use-minmal-mistakes/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
@@ -636,7 +630,7 @@ Frontmatter for feature images:
 
 ```yaml
 intro:
-  - image_path: https://infominer.id/assets/img/infohub-contributors-thumb.png
+  - image_path: https://infominer.xyz/assets/img/infohub-contributors-thumb.png
     alt: "Contributors Guide"
     title: "Contributors Guide: Introduction"
     excerpt: "This contributors introduction is to encourage participation, with minimal barriar to entry. Quickstart for [GitHub](https://github.com/infominer33), [Twitter](https://twitter.com/SourceCrypto), and [Discord](https://discord.gg/29mZwPQ) Contributions."
@@ -740,7 +734,7 @@ I modified this to include the 'Edit this page' button, and some cryptocurrency 
   <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | url_encode }}" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
   <a href="https://www.reddit.com/submit?url={{ page.url | relative_url }}&title={{ page.title }}" class="btn btn--reddit" title="{{ site.data.ui-text[site.locale].share_on_label }} Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
-  <p><img src="https://infominer.id/assets/img/1pLr.gif"/></p>
+  <p><img src="https://infominer.xyz/assets/img/1pLr.gif"/></p>
   <h4>SUPPORT THE CAUSE</h4>
     <p>Feel free to <a href="mailto:infominer@protonmail.com">contact me</a>!</p>
     <p>Especially if you're interested in <a href="https://web-work.tools/services/#iso-clients-who-want-bitcoin-related-content">bitcoin related content</a> and/or research!</p>
