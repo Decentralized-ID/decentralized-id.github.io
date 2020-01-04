@@ -95,13 +95,14 @@ Phil [Zimmerman creates PGP](https://www.philzimmermann.com/EN/essays/WhyIWroteP
 * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
   > As Identity 3.0 continues to evolve, fascinating implementations and use cases are on the rise with the most talked-about frontier of the technological landscape: the Internet of Things (IoT).
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ujYqOXNEaaogEq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong><a href="//www.slideshare.net/prabathsiriwardena/the-evolution-of-internet-identity" title="The Evolution of Internet Identity" />The Evolution of Internet Identity</a></strong> from <strong><a href="https://www.slideshare.net/prabathsiriwardena" />Prabath Siriwardena</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ujYqOXNEaaogEq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+<strong> <a href="//www.slideshare.net/prabathsiriwardena/the-evolution-of-internet-identity">The Evolution of Internet Identity</a> </strong> from <strong> <a href="https://www.slideshare.net/prabathsiriwardena">Prabath Siriwardena</a> </strong> 
 
 ### open-standards
 
 * [The Story of Open SSI Standards - Drummond Reed/Evernym - Webinar 1](https://ssimeetup.org/story-open-ssi-standards-drummond-reed-evernym-webinar-1/) - [video](https://www.youtube.com/watch?v=RllH91rcFdE) - [Self Sovereign Identity (SSI) Open standards with Drummond Reed](slideshare.net)
   > Drummond Reed, Chief Trust Officer at Evernym and Sovrin Foundation Trustee, features in our first Webinar "The Story of SSI Open Standards" by giving us the background on the foundation of Self Sovereign Identity.
-* [Identity_Standards:_The_Soap*Opera*(catch_up_on_previous*episodes*...](https://iiw.idcommons.net/Identity_Standards:_The_Soap_Opera_(catch_up_on_previous_episodes_%2B_review_major_plot_points)
+* <a href="https://iiw.idcommons.net/Identity_Standards:_The_Soap_Opera_(catch_up_on_previous_episodes_%2B_review_major_plot_points">Identity_Standards: The_Soap Opera* - catch_up_on_previous episodes</a>
 
 ![](https://i.imgur.com/XtZQg0j.png)
 
