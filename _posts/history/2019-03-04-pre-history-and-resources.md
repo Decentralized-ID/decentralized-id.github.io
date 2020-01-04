@@ -42,7 +42,7 @@ These pages are loosely categorized by year and era. The date ranges, are somewh
 * [Oral History of Elizabeth (Jake) Feinler](https://web.archive.org/web/20110811175249/http://archive.computerhistory.org/resources/access/text/Oral_History/102702199.05.01.acc.pdf)
 * [Establishing Identity Without Certification Authorities (1996)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.7263) - Carl M. Ellison - CyberCash, Inc
 
-## Losing Control Over our Personal Information
+### Losing Control Over our Personal Information
 
 ![](/images/chaum-security-without-identification-big-brother.png)
 
@@ -54,12 +54,12 @@ These pages are loosely categorized by year and era. The date ranges, are somewh
 > The solution is based on an individual’s ability to take a specially coded credential issued under one pseudonym and to transform it into a similarly coded form of the same credential that can be shown under the individual’s other pseudonyms. -[*Security without Identification*](https://www.chaum.com/publications/Security_Wthout_Identification.html)
 
 
-### Roger Clarke - Dataveillance
+#### Roger Clarke - Dataveillance
 
 * [Information Technology and Dataveillance](http://www.rogerclarke.com/DV/CACM88.html)
   > The concept of 'dataveillance' is introduced, and defined as the systematic monitoring of people's actions or communications through the application of information technology. Dataveillance's origins are traced, and an explanation provided as to why it is becoming the dominant means of monitoring individuals and populations. The paper identifies, classifies and describes the various dataveillance techniques. It then examines the benefits, and especially the dangers, arising from dataveillance. It considers the intrinsic and extrinsic controls that act to keep the application of dataveillance under control, and suggests some appropriate policy measures.
 
-## PGP - Web of Trust
+### PGP - Web of Trust
 
 [![](https://i.imgur.com/sMV9PE4.png)](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 
