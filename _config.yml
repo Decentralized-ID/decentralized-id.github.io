@@ -113,9 +113,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/didecentral"
-    - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/eYm2XvZ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/didecentral"
@@ -138,9 +135,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/didecentral"
-    - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "https://discord.gg/eYm2XvZ"
     
     
 
@@ -279,30 +273,6 @@ compress_html:
 
 
 
-
-
-# Collections
-collections:
-  1970thru90s:
-    output: true
-    permalink: /history/archive/1970s-90s/:path/
-  2000s:
-    output: true
-    permalink: /history/archive/:collection/:path/
-  2010s:
-    output: true
-    permalink: /history/archive/:collection/:path/
-  2016class:
-    output: true
-    permalink: /history/archive/2016/:path/
-  2017present:
-    output: true
-    permalink: /history/archive/2017-present/:path/
-  assorted:
-    output: true
-    permalink: /history/archive/:collection/:path/
-
-
 # Defaults
 defaults:
   # _pages
@@ -331,6 +301,7 @@ defaults:
       read_time: true
       comments: # true
       share: true
+      classes: wide
       related: true
       sidebar:
         title: DIDecentral
@@ -339,106 +310,3 @@ defaults:
       toc_label   : "Contents"
       toc_icon    : "link"
       toc_sticky  : true
-    # _1970thru90s
-  - scope:
-      path: "_1970thru90s"
-      type: 1970thru90s
-    values:
-      layout: single
-      share: true
-      related: true
-      sidebar:
-        title: DID History
-        nav: "didhistory"
-      classes: wide
-      disco: true
-      header:
-        image: /images/did-header1.png
-        og_image: https://didecentral.com/assets/images/did-og.png
-        teaser: https://didecentral.com/assets/images/did-og.png
-    # _2000s
-  - scope:
-      path: "_2000s"
-      type: 2000s
-    values:
-      layout: single
-      share: true
-      related: true
-      sidebar:
-        title: DID History
-        nav: "didhistory"
-      classes: wide
-      disco: true
-      header:
-        image: /images/did-header1.png
-        og_image: https://didecentral.com/assets/images/did-og.png
-        teaser: https://didecentral.com/assets/images/did-og.png
-    # _2010s
-  - scope:
-      path: "_2010s"
-      type: 2010s
-    values:
-      layout: single
-      share: true
-      related: true
-      sidebar:
-        title: DID History
-        nav: "didhistory"
-      classes: wide
-      disco: true
-      header:
-        image: /images/did-header1.png
-        og_image: https://didecentral.com/assets/images/did-og.png
-        teaser: https://didecentral.com/assets/images/did-og.png
-    # _2016class
-  - scope:
-      path: "_2016class"
-      type: 2016class
-    values:
-      layout: single
-      share: true
-      related: true
-      sidebar:
-        title: DID History
-        nav: "didhistory"
-      classes: wide
-      disco: true
-      header:
-        image: /images/did-header1.png
-        og_image: https://didecentral.com/assets/images/did-og.png
-        teaser: https://didecentral.com/assets/images/did-og.png
-    # _2017present
-  - scope:
-      path: "_2017present"
-      type: 2017present
-    values:
-      layout: single
-      share: true
-      related: true
-      sidebar:
-        title: DID History
-        nav: "didhistory"
-      classes: wide
-      disco: true
-      header:
-        image: /images/did-header1.png
-        og_image: https://didecentral.com/assets/images/did-og.png
-        teaser: https://didecentral.com/assets/images/did-og.png
-    # _assorted
-  - scope:
-      path: "_assorted"
-      type: assorted
-    values:
-      layout: single
-      share: true
-      related: true
-      sidebar:
-        title: DID History
-        nav: "didhistory"
-      classes: wide
-      disco: true
-      header:
-        image: /images/did-header1.png
-        og_image: https://didecentral.com/assets/images/did-og.png
-        teaser: https://didecentral.com/assets/images/did-og.png
-
