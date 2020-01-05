@@ -7,10 +7,10 @@ last_modified_at: 2019-07-15T11:22:33-23:00
 
 ---
 
-* [womeninidentity.org](https://womeninidentity.org)
-* [womeninidentity.org/forums/](https://womeninidentity.org/forums/)
-* [twitter.com/WomeninID](https://twitter.com/WomeninID)
-* [linkedin.com/company/women-in-identity/](https://www.linkedin.com/company/women-in-identity/)
+* [Women in Identity](https://womeninidentity.org)
+* [Women in ID - Forum](https://womeninidentity.org/forums/)
+* [@WomeninID](https://twitter.com/WomeninID)
+* [Linkedin](https://www.linkedin.com/company/women-in-identity/)
 
 ## Blog
 

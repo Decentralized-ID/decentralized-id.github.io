@@ -20,7 +20,7 @@ sidebar:
   title: DIDecentralized
   nav: "sovnav"
 last_modified_at: 2019-07-10T11:22:33-23:00
-tags: ["Evernym","Indy","Von","Sovrin"]
+tags: ["Evernym","Indy","Von"]
 categories: ["Sovrin Foundation","Hyperledger"]
 ---
 

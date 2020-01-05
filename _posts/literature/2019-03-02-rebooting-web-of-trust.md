@@ -13,8 +13,8 @@ redirect_from:
   - /rebooting-web-of-trust/
 author_profile: true
 toc_sticky: false
-categories: ["Literature"]
-tags: ["Rebooting WoT","Bitcoin","Ethereum","Blockcerts","DID","DPKI","Verifiable Credentials","Blockstack", "JSON-LD", "Hubs","Self Sovereign Identity","eIDAS","Blockcerts","GDPR"]
+categories: ["Literature","Workshops"]
+tags: ["Rebooting WoT","Bitcoin","Ethereum","Blockcerts","DID","DPKI","Verifiable Credentials","Blockstack", "JSON-LD", "Hubs","Self Sovereign Identity","eIDAS","Blockcerts","GDPR","PGP"]
 ---
 
 I wanted a list of all RWoT papers in one place, rather than having to directory hop to look for what I need. I'll be adding a short exerpt to each advance reading and then turning this into a database, so that it's easily searchable.
