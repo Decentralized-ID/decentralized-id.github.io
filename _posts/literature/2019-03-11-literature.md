@@ -5,7 +5,7 @@ permalink: literature/
 canonical_url: 'https://decentralized-id.com/literature'
 redirect_from: literature
 categories: ["Literature"]
-tags: ["Index"]
+tags: ["DPKI","Rebooting WoT","Self Sovereign Identity","WEF","ID2020"]
 ---
 
 

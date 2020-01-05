@@ -8,8 +8,8 @@ redirect_from:
   - /hgf-2018/Microledgers-Edgechains-Hardman-HGF
 permalink:  /hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/
 author_profile: false
-categories: ["Hyperledger","Presentations"]
-tags: ["Indy","Von","Transcripts","Microledgers","HGF-2018","Edge-chains"]
+categories: ["Sovrin Foundation","Hyperledger","Literature","Presentations"]
+tags: ["Indy","Von","Transcripts","Hyperledger Global Forum","GDPR"]
 published: true
 classes: wide
 last_modified_at: 2019-07-11T11:22:33-23:00

@@ -5,9 +5,7 @@ description: "Starting with David Chaum in the 80s, PGP, the International Plane
 permalink: /history/
 cannonical_url: https://decentralized-id.com/history/
 categories: ["History"]
-tags: ["Index"]
-author: Infominer
-author_profile: true
+tags: ["Web of Trust", "IETF","DPKI","GDPR"]
 last_modified_at: 2020-01-04T13:22:33-23:00
 sidebar: 
   nav: didhistory

@@ -14,7 +14,7 @@ redirect_from:
 author_profile: true
 toc_sticky: false
 categories: ["Literature"]
-tags: ["RWoT"]
+tags: ["Rebooting WoT","Bitcoin","Ethereum","Blockcerts","DID","DPKI","Verifiable Credentials","Blockstack", "JSON-LD", "Hubs","Self Sovereign Identity","eIDAS","Blockcerts","GDPR"]
 ---
 
 I wanted a list of all RWoT papers in one place, rather than having to directory hop to look for what I need. I'll be adding a short exerpt to each advance reading and then turning this into a database, so that it's easily searchable.
@@ -672,18 +672,16 @@ Here are the rest of the advance readings to date:
 
 Unless otherwise noted, all RWoT Completed Papers, Topics and Advance Readings are licensed [Creative Commons CC-BY](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/LICENSE-CC-BY-4.0.md).
 
-
-
 ## RWoT Github Listing
 
-* <a href="https://github.com/WebOfTrustInfo/self-sovereign-identity" />/WebOfTrustInfo/self-sovereign-identity</a> - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
-* <a href="https://github.com/WebOfTrustInfo/website" />/WebOfTrustInfo/website</a> - Website for http://www.WebOfTrust.info
-* <a href="https://github.com/WebOfTrustInfo/community-resilience" />/WebOfTrustInfo/community-resilience</a> - Rebooting Web of Trust Community Resilience Team
-* <a href="https://github.com/WebOfTrustInfo/satyrn" />/WebOfTrustInfo/satyrn</a> - A Markdown-based JavaScript Sandbox
-* <a href="https://github.com/WebOfTrustInfo/sss" />/WebOfTrustInfo/sss</a> - Library for the Shamir secret sharing scheme
+* [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
+* [/WebOfTrustInfo/website](https://github.com/WebOfTrustInfo/website) - Website for http://www.WebOfTrust.info
+* [/WebOfTrustInfo/community-resilience](https://github.com/WebOfTrustInfo/community-resilience) - Rebooting Web of Trust Community Resilience Team
+* [/WebOfTrustInfo/satyrn](https://github.com/WebOfTrustInfo/satyrn) - A Markdown-based JavaScript Sandbox
+* [/WebOfTrustInfo/sss](https://github.com/WebOfTrustInfo/sss) - Library for the Shamir secret sharing scheme
   - Forked from dsprenkels/sss
-* <a href="https://github.com/WebOfTrustInfo/verifiable-news" />/WebOfTrustInfo/verifiable-news</a> - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
-* <a href="https://github.com/WebOfTrustInfo/portable-reputation-toolkit" />/WebOfTrustInfo/portable-reputation-toolkit</a>
+* [/WebOfTrustInfo/verifiable-news](https://github.com/WebOfTrustInfo/verifiable-news) - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
+* [/WebOfTrustInfo/portable-reputation-toolkit](https://github.com/WebOfTrustInfo/portable-reputation-toolkit)
 
 ### Workshops
 

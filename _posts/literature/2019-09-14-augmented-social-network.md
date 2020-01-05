@@ -11,4 +11,3 @@ published: false
 ---
 
 **Building identity and trust into the next-generation Internet** by *Ken Jordan*, *Jan Hauser*, and *Steven Foster*.
-**Building identity and trust into the next-generation Internet** by *Ken Jordan*, *Jan Hauser*, and *Steven Foster*.

@@ -1,10 +1,10 @@
 ---
 title:  SSI-Meetup on Open Standards and Implementations
 layout: single
-permalink: organizations/ssi-meetup/open-standards/
-canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/open-standards/'
-redirect_from: #organizations/ssi-meetup
-categories: ["Open Standards"]
+permalink: organizations/ssi-meetup/open-specs/
+canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/open-specs/'
+redirect_from: organizations/ssi-meetup/open-standards/
+categories: ["Specs-Standards"]
 tags: ["SSI-Meetup","DID","BTCR","Verifiable Credentials","W3C","DKMS"]
 last_modified_at: 2019-07-20T11:22:33-23:00
 toc_sticky: false

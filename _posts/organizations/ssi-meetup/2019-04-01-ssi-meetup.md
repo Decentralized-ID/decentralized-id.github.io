@@ -4,8 +4,8 @@ layout: single
 permalink: organizations/ssi-meetup/
 canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/'
 redirect_from: organizations/ssi-meetup
-categories: ["Organizations"]
-tags: ["SSI-Meetup"]
+categories: ["Multi-Media"]
+tags: ["SSI-Meetup","GDPR"]
 last_modified_at: 2019-07-20T11:22:33-23:00
 toc_sticky: false
 ---

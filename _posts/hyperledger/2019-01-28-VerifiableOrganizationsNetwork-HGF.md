@@ -8,8 +8,8 @@ redirect_from:
   - /hgf-2018/VerifiableOrganizationsNetwork-HGF/
 permalink: /hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF/
 toc_sticky: false
-categories: ["Hyperledger","Application"]
-tags: ["Indy","VON","Transcripts","HGF-2018"]
+categories: ["Sovrin Foundation","Hyperledger", "Presentations","Literature"]
+tags: ["Indy","VON","Transcripts","Hyperledger Global Forum"]
 last_modified_at: 2019-07-11T11:22:33-23:00
 ---
 

@@ -2,13 +2,13 @@
 title:  DID Related Web Standards
 layout: single
 permalink: specs-standards/
-canonical_url: 'https://decentralized-id.com/open-standardization/'
+canonical_url: 'https://decentralized-id.com/specs-standards/'
 redirect_from: 
   - standards
   - standards/
 author_profile: true
-categories: ["Specs-standards"]
-tags: ["Index"]
+categories: ["Specs-Standards","Hyperledger"]
+tags: ["Index","Credentials Community Group", "DIF","FIDO","OpenID","XDI","W3C","OASIS","JSON-LD"]
 last_modified_at: 2019-11-25T11:22:33-23:00
 ---
 
