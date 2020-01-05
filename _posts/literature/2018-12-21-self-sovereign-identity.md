@@ -8,7 +8,7 @@ redirect_from:
   - /self-sovereign-identity
   - /self-sovereign-identity/
 categories: ["Literature"]
-tags: ["Self-Sovereign-Identity"]
+tags: ["Self Sovereign Identity","Laws of Identity","eIDAS","GDPR"]
 last_modified_at: 2019-07-10T11:22:33-23:00
 published: true
 
@@ -76,9 +76,7 @@ Then I realized that I should make a more complete survey of the subject, if I w
 * <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw"><img src="https://i.imgur.com/f3FlznM.png"/></a>
 * <a href="https://twitter.com/VitalikButerin/status/1072160446180810752"><img src="https://i.imgur.com/tNvN7vV.png"/></a>
 * [There’s A Facebook Alternative, It’s Called Self-Sovereign Identity](https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity) —coindesk
-* [A Universal Resolver for self-sovereign identifiers](https://medium.com/DecentralizedIDentity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/DecentralizedIDentity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
-  * [uniresolver.io](https://uniresolver.io/)
-
+* [A Universal Resolver for self-sovereign identifiers](https://medium.com/DecentralizedIDentity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c)
 
 
 #### Video

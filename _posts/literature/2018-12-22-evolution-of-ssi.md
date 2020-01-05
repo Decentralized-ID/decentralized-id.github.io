@@ -11,7 +11,7 @@ redirect_from:
 permalink: /literature/self-sovereign-identity/evolution-of-ssi/
 canonical_url: 'https://decentralized-id.com/literature/self-sovereign-identity/evolution-of-ssi/'
 categories: ["Literature"]
-tags: ["Self-Sovereign-Identity","documentation-drafts"]
+tags: ["Self Sovereign Identity", "notes"]
 last_modified_at: 2019-07-10T11:22:33-23:00
 published: true
 
@@ -35,7 +35,6 @@ Which should also be considered against:
 * [Self-Sovereign Bill of Rights](self-sovereign-identity-bill-of-rights.md) - lifeID (founded by [Chris Boscolo](https://github.com/cboscolo)) adapted the 10 Principles of Self-Sovereign Identity into a [Bill of Rights](https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b) that all self-sovereign identity solution should uphold.
 
 * [Schutte's Take](https://github.com/infominer33/self-sovereign-identity/blob/master/Schutte-on-SSI.md) which offers criticism on the 10 principles.
-
 
 I think all of this thought should be consolidated into a cohesive declaration of ssi. The idea is to come up with list of phinciples, or characteristics, or rights, that is as complete as possible, while also as concise as possible. There are a few 10 pointed lists, I'm ok with combining them as necessary and if it turns into 19, for example, I'm ok w that. I'd rather err on the side of too much and pare it down gradually, than to not include enough.  
 

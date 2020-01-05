@@ -9,7 +9,8 @@ redirect_from:
   - id-initiatives/state-sponsored
   - state-sponsored/
   - state-sponsored
-categories: ["Public-sector"]
+categories: ["Blockchain","Public Sector"]
+tags: ["VON","Evernym","uPort","DHS-SBIR"]
 ---
 
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)

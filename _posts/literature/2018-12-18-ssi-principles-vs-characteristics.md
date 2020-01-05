@@ -9,7 +9,7 @@ redirect_from:
   - /self-sovereign-identity/ssi-principles-vs-characteristics
   - /self-sovereign-identity/ssi-principles-vs-characteristics/
 categories: ["Literature"]
-tags: ["Self-Sovereign-Identity"]
+tags: ["Self Sovereign Identity", "Rebooting WoT","Laws of Identity", "notes"]
 last_modified_at: 2019-07-10T11:22:33-23:00
 published: true
 
@@ -80,7 +80,7 @@ The principle of Control must be well represented, since the characteristic of *
 >3. **Access.** *Users must have access to their own data.* A user must always be able to easily retrieve all the claims and other data within his identity. There must be no hidden data and no gatekeepers. This does not mean that a user can necessarily modify all the claims associated with his identity, but it does mean they should be aware of them. It also does not mean that users have equal access to others’ data, only to their own.
 >4. **Transparency**. *Systems and algorithms must be transparent.* The systems used to administer and operate a network of identities must be open, both in how they function and in how they are managed and updated. The algorithms should be free, open-source, well-known, and as independent as possible of any particular architecture; anyone should be able to examine how they work.
 
-Access and Transparency are not not explicitly represented in the Characteristics of SSI. The *Control* characteristic should be examined in relation.
+Access and Transparency are not explicitly represented in the Characteristics of SSI. The *Control* characteristic should be examined in relation.
 
 >5. **Persistence.** *Identities must be long-lived.* Preferably, identities should last forever, or at least for as long as the user wishes. Though private keys might need to be rotated and data might need to be changed, the identity remains. In the fast-moving world of the Internet, this goal may not be entirely reasonable, so at the least identities should last until they’ve been outdated by newer identity systems. This must not contradict a “right to be forgotten”; a user should be able to dispose of an identity if he wishes and claims should be modified or removed as appropriate over time. To do this requires a firm separation between an identity and its claims: they can't be tied forever.
 >6. **Portability.** *Information and services about identity must be transportable.* Identities must not be held by a singular third-party entity, even if it's a trusted entity that is expected to work in the best interest of the user. The problem is that entities can disappear — and on the Internet, most eventually do. Regimes may change, users may move to different jurisdictions. Transportable identities ensure that the user remains in control of his identity no matter what, and can also improve an identity’s persistence over time.
@@ -97,9 +97,12 @@ I think these two principles are well represented by the *Control* characteristi
 
 This is an important principle that I don't think is represented in the Characteristics.
 
-### Conclusion
 
-This review leaves me with more questions than answers. I'm not sure if we should implement the best parts of the *Characteristics* into the *Principles*, or the other way around.
+---
 
-I'm willing to make an attempt at bringing these together if no one else jumps at the chance. However, I'd like to gather some feedback. I'm tempted to use the Characteristics as the foundation, and simply incorporate any principles not well represented. However, I'm not sure if "Control, Acceptance, and Zero Cost" are the best way to divide them up. 
+I think these ideas are worth examining further. Perhaps a continuing with a comparative exploration of other responsese, similar frameworks, with a consideration for the United Nations SDGs.
 
+* [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf)
+* [The Windhover Principles for Digital Identity, Trust, and Data](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)
+* [Self-Sovereign Bill of Rights](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-bill-of-rights.md)
+* [Schutte's Take](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/Schutte-on-SSI.md) offers criticism on the 10 principles.
