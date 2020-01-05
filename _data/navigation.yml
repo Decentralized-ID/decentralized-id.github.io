@@ -25,6 +25,24 @@ didnav:
         url: /history/2010-2014/
       - title: "• 2015-2019"
         url: /history/2015-2019/
+  - title: Feature
+    children:
+      - title: "• Web Standards"
+        url: "/specs-standards/"
+      - title: " - JSON-LD"
+        url: "/specs-standards/JSON-LD/"
+      - title: "• GitHub Repositories"
+        url: "/identity-github/"
+      - title: " - Identity Commons on Github"
+        url: "https://github.com/identitywoman/identity-commons"
+      - title: "• Literature"
+        url: "/literature/" 
+      - title: " - RWoT - Papers Index"
+        url: "/workshops/rebooting-web-of-trust/"
+      - title: " - Microledgers and Edgechains"
+        url: "/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
+      - title: "• #indieweb-dev on IIW RWoT and DID's"
+        url: " /chatlog/indieweb-dev-on-did/"
   - title: Self-Sovereign Identity
     children:
       - title: "• SSI - Documentation Efforts"
@@ -35,24 +53,6 @@ didnav:
         url: "/self-sovereign-identity/ssi-principles-vs-characteristics/"
       - title: "• User Experience"
         url: "/self-sovereign-identity/user-experience/"
-  - title: Featured Content
-    children:
-      - title: "• GitHub Repositories"
-        url: "/identity-github/"
-      - title: " - Identity Commons on Github"
-        url: "https://github.com/identitywoman/identity-commons"
-      - title: "• Web Standards"
-        url: "/specs-standards/"
-      - title: " - JSON-LD"
-        url: "/specs-standards/JSON-LD/"
-      - title: "• Literature"
-        url: "/literature/" 
-      - title: " - RWoT - Papers Index"
-        url: "/workshops/rebooting-web-of-trust/"
-      - title: " - Microledgers and Edgechains—HGF18"
-        url: "/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
-      - title: "• #indieweb-dev on IIW RWoT and DID's -FreeNode"
-        url: " /chatlog/indieweb-dev-on-did/"
   - title: "Organizations"
     url: "/organizations/"
     children:
@@ -120,18 +120,6 @@ sovnav:
       - title: "• VON"
         description: Resources Related to the Verifiable Organizations Network
         url: "/indy-ecosystem/von/"
-  - title: DIDecentral
-    children:
-      - title: "• Our Aim"
-        url: "/aim/"
-      - title: "• DID Adoption"
-        url: "/adoption/"
-      - title: "• GDPR"
-        url: "/gdpr/"
-      - title: "• Literature"
-        url: "/literature/" 
-      - title: "• Hyperledger Global Forum - 2018"
-        url: "/hyperledger/hgf-2018/"
   - title: "History"
     url: "/history/"  
     children:
@@ -143,6 +131,24 @@ sovnav:
         url: /history/2010-2014/
       - title: "• 2015-2019"
         url: /history/2015-2019/
+  - title: Feature
+    children:
+      - title: "• Web Standards"
+        url: "/specs-standards/"
+      - title: " - JSON-LD"
+        url: "/specs-standards/JSON-LD/"
+      - title: "• GitHub Repositories"
+        url: "/identity-github/"
+      - title: " - Identity Commons on Github"
+        url: "https://github.com/identitywoman/identity-commons"
+      - title: "• Literature"
+        url: "/literature/" 
+      - title: " - RWoT - Papers Index"
+        url: "/workshops/rebooting-web-of-trust/"
+      - title: " - Microledgers and Edgechains—HGF18"
+        url: "/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
+      - title: "• #indieweb-dev on IIW RWoT and DID's -FreeNode"
+        url: " /chatlog/indieweb-dev-on-did/"
   - title: Self-Sovereign Identity
     children:
       - title: "• SSI - Documentation Efforts"
@@ -153,24 +159,6 @@ sovnav:
         url: "/self-sovereign-identity/ssi-principles-vs-characteristics/"
       - title: "• User Experience"
         url: "/self-sovereign-identity/user-experience/"
-  - title: Featured Content
-    children:
-      - title: "• Identity Commons on Github"
-        url: "https://github.com/identitywoman/identity-commons"
-      - title: "• Web Standards"
-        url: "/standards/"
-      - title: "• GitHub Repositories"
-        url: "/identity-github/"
-      - title: "• RWoT - Papers Index"
-        url: "/workshops/rebooting-web-of-trust/"
-      - title: "• Microledgers and Edgechains—HGF18"
-        url: "/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
-      - title: "• Verifiable Organizations Network—HGF18"
-        url: "/hgf-2018/VerifiableOrganizationsNetwork-HGF/"
-      - title: "• Hyperledger Indy"
-        url: "/indy-ecosystem/"
-      - title: "• #indieweb-dev on IIW RWoT and DID's -FreeNode"
-        url: "https://web-work.tools/indieweb/indieweb-dev-on-did/"
   - title: "Organizations"
     url: "/organizations/"
     children:
