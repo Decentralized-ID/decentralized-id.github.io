@@ -272,6 +272,11 @@ compress_html:
     envs: development
 
 
+collections:
+  HowToContribute:
+    output: true
+    permalink: /how-to-contribute/:path/
+
 
 # Defaults
 defaults:
@@ -310,3 +315,14 @@ defaults:
       toc_label   : "Contents"
       toc_icon    : "link"
       toc_sticky  : true
+  # _HowToContribute
+  - scope:
+      path: "_HowToContribute"
+      type: HowToContribute
+    values:
+      layout: single
+      share: true
+      related: true
+      sidebar:
+        nav: "didnav"
+      classes: wide
