@@ -12,7 +12,7 @@ redirect_from:
 toc_sticky: false
 categories: ["Code","Specs-Standards"]
 tags: ["ID2020","Danube","W3C","XDI","OASIS","Digital Bazaar","Rebooting WoT","JSON-LD","
-Credentials Community Group","RDF"]
+Credentials Community Group","RDF","Veres One"]
 ---
 
 Please send [a message](../index.html#contact), open an issue or submit a pull-request with any suggestions\recommendations.

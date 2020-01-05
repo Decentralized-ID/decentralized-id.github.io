@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Our Aim"
+    url: "/aim/"
   - title: "Posts by Tag"
     url: "/tags/"
   - title: "Sitemap"
@@ -12,18 +14,6 @@ main:
     url: "https://sourcecrypto.pub/decentralized-web/"
 
 didnav:
-  - title: DIDecentral
-    children:
-      - title: "• Our Aim"
-        url: "/aim/"
-      - title: "• DID Adoption"
-        url: "/adoption/"
-      - title: "• JSON-LD"
-        url: "/specs-standards/JSON-LD/"
-      - title: "• Literature"
-        url: "/literature/" 
-      - title: "• Hyperledger Global Forum - 2018"
-        url: "/hyperledger/hgf-2018/"
   - title: "History"
     url: "/history/"  
     children:
@@ -47,22 +37,22 @@ didnav:
         url: "/self-sovereign-identity/user-experience/"
   - title: Featured Content
     children:
-      - title: "• Identity Commons on Github"
-        url: "https://github.com/identitywoman/identity-commons"
-      - title: "• Web Standards"
-        url: "/standards/"
       - title: "• GitHub Repositories"
         url: "/identity-github/"
-      - title: "• RWoT - Papers Index"
+      - title: " - Identity Commons on Github"
+        url: "https://github.com/identitywoman/identity-commons"
+      - title: "• Web Standards"
+        url: "/specs-standards/"
+      - title: " - JSON-LD"
+        url: "/specs-standards/JSON-LD/"
+      - title: "• Literature"
+        url: "/literature/" 
+      - title: " - RWoT - Papers Index"
         url: "/workshops/rebooting-web-of-trust/"
-      - title: "• Microledgers and Edgechains—HGF18"
+      - title: " - Microledgers and Edgechains—HGF18"
         url: "/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
-      - title: "• Verifiable Organizations Network—HGF18"
-        url: "/hgf-2018/VerifiableOrganizationsNetwork-HGF/"
-      - title: "• Hyperledger Indy"
-        url: "/indy-ecosystem/"
       - title: "• #indieweb-dev on IIW RWoT and DID's -FreeNode"
-        url: "https://web-work.tools/indieweb/indieweb-dev-on-did/"
+        url: " /chatlog/indieweb-dev-on-did/"
   - title: "Organizations"
     url: "/organizations/"
     children:
