@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Identity Decentralized"
+title                    : "Sovereign ID Curated"
 title_separator          : "| "
 name                     : "Infominer"
 description              : "Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
@@ -26,7 +26,7 @@ repository               : "didecentral/didecentral.github.io"
 github                   : [metadata]
 teaser                   : /images/didecentral-tw.png
 logo                     : "https://decentralized-id.com/images/DID.png"
-masthead_title           : "Sovereign Identity Info"
+masthead_title           : "Identity Decentralized"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
