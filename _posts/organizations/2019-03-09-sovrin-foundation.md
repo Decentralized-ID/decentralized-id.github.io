@@ -11,8 +11,8 @@ permalink: organizations/sovrin-foundation/
 canonical_url: 'https://decentralized-id.com/organizations/sovrin-foundation/'
 redirect_from: 
   - organizations/sovrin-foundation
-categories: ["Organizations"]
-tags: ["Indy","VON","Sovrin"]
+categories: ["Organizations","Sovrin Foundation"]
+tags: ["Indy","VON"]
 ---
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)

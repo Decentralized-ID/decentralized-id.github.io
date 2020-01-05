@@ -1,12 +1,12 @@
 ---
 layout: single
 title: "Resources & Pre-History - Decentralized Self-Sovereign Identity."
-description: "Starting with David Chaum in the 80s, PGP, the International Planetwork Conference, Agenda for Sustainable Development, GDPR, and Bitcoin to the Present."
+description: "As computers began to proliferate, concern grew over our lack of control over our personal information. Naturally arising through this concern, is to consider ways an individual might have ownership over their personal idenitifier that relates with our personal data."
 permalink: /history/
 cannonical_url: https://decentralized-id.com/history/
 categories: ["History"]
-tags: ["Web of Trust", "IETF","DPKI","GDPR"]
-last_modified_at: 2020-01-04T13:22:33-23:00
+tags: ["IETF","DPKI","PGP"]
+last_modified_at: 2020-01-05T13:22:33-23:00
 sidebar: 
   nav: didhistory
 classes: wide
