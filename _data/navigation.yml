@@ -42,7 +42,7 @@ didnav:
       - title: " - Microledgers and Edgechains"
         url: "/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
       - title: "• #indieweb-dev on IIW RWoT and DID's"
-        url: " /chatlog/indieweb-dev-on-did/"
+        url: "/specs-standards/indieweb-dev-on-did/"
   - title: Regulation
     children:
       - title: "• eDIAS"
@@ -154,7 +154,7 @@ sovnav:
       - title: " - Microledgers and Edgechains—HGF18"
         url: "/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
       - title: "• #indieweb-dev on IIW RWoT and DID's -FreeNode"
-        url: " /chatlog/indieweb-dev-on-did/"
+        url: "/specs-standards/indieweb-dev-on-did/"
   - title: Self-Sovereign Identity
     children:
       - title: "• SSI - Documentation Efforts"

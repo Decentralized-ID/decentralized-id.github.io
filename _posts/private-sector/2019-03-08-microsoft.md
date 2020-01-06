@@ -3,9 +3,10 @@ title: Microsoft Identity
 layout: single
 permalink: id-initiatives/microsoft/
 canonical_url: 'https://decentralized-id.com/id-initiatives/microsoft/'
-redirect_from: id-initiatives/microsoft
+redirect_from: private-sector/microsoft/
+  - id-initiatives/microsoft
 categories: ["Private-sector"]
-tags: ["Microsoft","DID"]
+tags: ["Microsoft","DID","ION"]
 last_modified_at: 2019-07-11T11:22:33-23:00
 ---
 
