@@ -3,6 +3,7 @@ title: "Contributors Quickstart (A Gentle Introduction to GitHub)"
 excerpt: "Learn how to revise/add content to a page, or submit your first blog-post via web-browser."
 tags: ["Quickstart","Tools", "GitHub Pages", "Minimal Mistakes"]
 author: Infominer
+published: false
 author_profile: false
 toc_sticky: true
 date: 2019-07-13

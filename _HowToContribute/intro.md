@@ -21,22 +21,6 @@ published: false
 last_modified_at: 2019-07-14T11:22:33-23:00
 ---
 
-We are happy for contributions from anyone, regardless of technical skills, or pre-existing knowledge. The intention for this Community Website is to focus on detailing a variety of ways to contribute, and to enable anyone to become more familiar with web-publishing, in a low stakes environment, while pursuing a passion for Sovereign Identity.
-
-## Comments!!!!
-
-Yay! Because of the static nature of webpages hosted from GitHub, its required to make an integration of some sort. Some active agent online must recieve the comment, and leave a properly formatted pull-request.  
-
-It would be simple enough to use a third party comments system. However, I really wanted to use @Staticman which is an open source application that I could independently run on a pi, or even a free heroku instance. It's a portable solution, that enables complete operator control over its implementation.
-
-![](https://imgur.com/4x0dN7k.png)
-
-It took quite a bit of effort, searching through github issues, and following all trails, but I finally figured out a good build and got it properly set up.
-
-
-Soon, you will be able to leave a comment on any page in the DIDecentral ecosystem. Making it simple for **anyone** to note ideas, share links, suggestions, and typos as you browse.
-
-## GitHub is Designed for Collaboration
 
 We welcome issues or pull requests for question, comments, or contributions of every type. While some may feel intimidated to get started with GitHub, we assure you it's just like any other social platform with user profiles, content, text fields and buttons.
 
@@ -96,70 +80,6 @@ Whether it's an actual improvement, fully functioning with proper markup, or sim
 
 None of us are necessarily professional or experts with git or web-publishing. However, we do wish to learn and grow our digital skillset.
 
-## If you all could just..
-
-![](https://infominer.id/bookmark-donations/that-would-be-great.jpg)
-
-If you would export me a copy of your bookmarks.... that would be great! After a while I'll make a few fine grained how-to. This is one of the simplest ways that nearly anyone could make a significant contribution. 
-
-We would be happy to accept your raw unsorted bookmark exports! :D
-
-I will create detailed guides, to ensure that everyone is able to click a few buttons and share the wealth!.
-
-## Twitter @ Mention and Hash Tags
-
-You can simply @ mention @didecentral, and it's activity will be preserved, soon to by syndicated here on this website, via [indieweb](https://web-work.tools/indieweb/) design. I will also follow related hash-tags and see about re-publishing them here, somehow. 
-
-I will track #decentralizedidentity, #selfsovereignidentity, and #didecentral. The final one is similar to @mention, a way for the community to track a larger volume and variety of content than would typically warrant a @mention.
-
-## Contributing Via Discord
-
->Discord is, hands down, my favorite way to organize information on the fly. It's also quite useful for collaboration. -@infominer33
-
-If you've never used it before, Discord is a powerful, free-to-use, closed-source communication/collaboration platform like Slack or Telegram, originally designed for the gaming community but since popular with opensource projects and startups. 
-
-![](/assets/images/share-button.png){: .align-right}
-
-There are a couple simple ways of sharing to discord that have made it quite convenient for keeping track of information.
-
-Its also possible to leave comments, and questions inline with the links. Any that have substance, and are on-topic for the channel they are in, will be re-published in the periodic export of discord to this web-site.
-
-One of the great things about Discord is that they have made it a very welcoming space for developers. There are a multitude of open source bots already made for discord, and plenty of people learn to develop by building them. (leaving a wide open door for future integrations)
-
-### Discord Desktop
-
-Desktop is much nicer than Moble, for my purposes. Once opened to the Discord App, hit `ctrl + k` and begin typing the name of the channel where you'd like to go.
-
-![](https://imgur.com/LBIoqR7.png)
-
-Even if you don't remember the channel name, it's usually simple enough, even dropping it in the #library-submissions or #general will suffice on the fly, and later, the link will be dropped in its appropirate channel.
-
-### Discord Mobile Share 
-
-I have an iPhone, and will have to discover how to do this with Android. However, I hope it's rather intuitive, once you think of it. 
-
-I had to enable sharing to discord, and you might have to do the same type of thing with android. Once you've set up the sharing integration, then it's simple to do, on the go.
-
-
-**1** ![](https://infominer.id/assets/img/discord-share-workflow-1.png) **2** ![](https://infominer.id/assets/img/discord-share-workflow-2.png)
-
-**3** ![](https://infominer.id/assets/img/discord-share-workflow-3.png) **4** ![](https://infominer.id/assets/img/discord-share-workflow-4.png)
-
-### Discord Web App
-
-There is totally a web-app for discord if for some reason you are unable to install the app. We'll embed it into the website sometime :)
-
-* [discordapp.com](https://discordapp.com/)
-
-## Telegram Chat
-
-I've heard complaints that Discord uses a lot of mobile bandwidth, and that we should have a telegram channel.
-
-If you want to open a DIDecentral telegram chat, please do and invite [@infominer](https://t.me/infominer33), invites open.
-
-
 ## Thanks for Visiting!
-
-As I hope is clear, we are committed to making this resource as accessible for collaboration as possible. To eventually include how-tos for everything from the simple to the big picture.
 
 Feel free to visit [Web-work.tools](https://web-work.tools) for an array of entry-level web-work how-tools.
