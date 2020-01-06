@@ -1,4 +1,5 @@
 ---
+date: 2019-03-11
 layout: single
 title: SSI-DID Github Repositories
 description: "A start at listing all DID-SSI related GitHub Repositories."
@@ -13,9 +14,8 @@ toc_sticky: false
 categories: ["Code","Specs-Standards"]
 tags: ["ID2020","Danube","W3C","XDI","OASIS","Digital Bazaar","Rebooting WoT","JSON-LD","
 Credentials Community Group","RDF","Veres One"]
+last_modified_at: 2019-03-15
 ---
-
-Please send [a message](../index.html#contact), open an issue or submit a pull-request with any suggestions\recommendations.
 
 [![](https://i.imgur.com/rsGOVgt.png)](https://internetidentityworkshop.com/)
 

@@ -1,10 +1,12 @@
 ---
+date: 2019-04-11
 title: Assorted Blockchain Identity Initiatives
 layout: single
 classes: wide
 permalink: /blockchain/
 categories: ["Blockchain"]
 tags: ["Blockpass","Ontology","Blockstack","Handshake","Democracy Earth"]
+last_modified_at: 2019-04-11
 ---
 
 

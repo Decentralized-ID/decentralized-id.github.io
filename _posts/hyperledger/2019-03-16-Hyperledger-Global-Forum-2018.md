@@ -1,4 +1,5 @@
 ---
+date: 2019-03-06
 title: Hyperledger Global Forum-2018
 layout: single
 classes: wide
@@ -10,6 +11,7 @@ redirect_from:
   - hgf-2018/
 categories: ["Hyperledger Foundation","Presentations"]
 tags: ["Hyperledger Global Forum","GDPR"]
+last_modified_at: 2019-03-06
 ---
 
 For Identity Related Presentations at HGF-2018

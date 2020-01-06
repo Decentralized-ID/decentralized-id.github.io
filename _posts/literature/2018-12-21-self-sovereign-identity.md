@@ -1,4 +1,5 @@
 ---
+date: 2018-12-21
 title       : "Self Sovereign Identity (SSI)"
 description : Literature associated with the Fundamentals of Self-Sovereign Identity.
 image       : "https://decentralized-id.com/images/sovereign-identity.png"

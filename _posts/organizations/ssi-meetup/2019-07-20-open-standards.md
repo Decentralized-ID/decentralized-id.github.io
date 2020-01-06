@@ -1,10 +1,11 @@
 ---
+date: 2019-07-20
 title:  SSI-Meetup on Open Standards and Implementations
 layout: single
 permalink: organizations/ssi-meetup/open-specs/
 canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/open-specs/'
 redirect_from: organizations/ssi-meetup/open-standards/
-categories: ["Specs-Standards"]
+categories: ["Specs-Standards","Multi-Media"]
 tags: ["SSI-Meetup","DID","BTCR","Verifiable Credentials","W3C","DKMS"]
 last_modified_at: 2019-07-20
 toc_sticky: false

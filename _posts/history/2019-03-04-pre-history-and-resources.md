@@ -1,4 +1,5 @@
 ---
+date: 2019-03-04
 layout: single
 title: "Pre-history and resources for further exploration."
 description: "As computers began to proliferate, concern grew over our lack of control over our personal information. Naturally arising through this concern, is to consider ways an individual might have ownership over their personal idenitifier that relates with our personal data."

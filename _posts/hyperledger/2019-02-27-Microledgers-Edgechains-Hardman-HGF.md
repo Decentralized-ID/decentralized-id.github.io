@@ -1,4 +1,5 @@
 ---
+date: 2019-02-27
 title: Microledgers and Edge-Chains - A Primer 
 description: A Transcript of Daniel Hardman of Evernym Presenting at Hyperledger Global Forum — 2018
 image: "https://i.imgur.com/qbVl47T.png"

@@ -1,4 +1,5 @@
 ---
+date: 2018-12-18
 title: A Comparison Between SSI Principles, and Characteristics
 layout: single
 classes: wide

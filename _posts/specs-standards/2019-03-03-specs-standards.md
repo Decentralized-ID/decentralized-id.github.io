@@ -1,4 +1,5 @@
 ---
+date: 2019-03-03
 title:  DID Related Web Standards
 layout: single
 permalink: specs-standards/

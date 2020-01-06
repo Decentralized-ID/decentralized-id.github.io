@@ -1,4 +1,5 @@
 ---
+date: 2019-04-01
 title:  SSI-Meetup
 layout: single
 permalink: organizations/ssi-meetup/

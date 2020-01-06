@@ -1,4 +1,5 @@
 ---
+date: 2019-03-02
 layout: single
 title: Rebooting Web Of Trust - Papers and Advance Readings Index
 description: "A reasonably complete listing of #RebootingWebOfTrust Papers, Topics, and Advance Readings"
@@ -14,6 +15,7 @@ redirect_from:
 toc_sticky: false
 categories: ["Literature","Workshops"]
 tags: ["Rebooting WoT","Bitcoin","Ethereum","Blockcerts","DID","DPKI","Verifiable Credentials","Blockstack", "JSON-LD", "Hubs","Self Sovereign Identity","eIDAS","Blockcerts","GDPR","PGP","Veres One"]
+last_modified_at: 2019-07-07
 ---
 
 I wanted a list of all RWoT papers in one place, rather than having to directory hop to look for what I need. I'll be adding a short exerpt to each advance reading and then turning this into a database, so that it's easily searchable.
