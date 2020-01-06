@@ -13,13 +13,11 @@ published: true
 last_modified_at: 2020-01-05T11:22:33-23:00
 ---
 
-I'm creating this resource while I do the initial setup so that DIDecentral, the Organization, has a guide to how its websites work. This will compliment [decentralized-id.com](https://decentralized-id.com), and support its co-creation.
+This guide should make it easier for contributors to understand how this site works. It should also be useful as a way to learn the basics of using Jekyll with the Minimal Mistakes theme, to publish a website via GitHub pages.
 
-This guide should make it easier for contributors to understand how this site works, or even for you to use this guide and create your own web-site!
+Granted, you don't *need* to know all of this to simply add content to a page. 
 
-Granted, you don't *need* to know any of this to participate with and contribute to this resource. I'm sharing this here, for anyone who wants to see how this site works.
-
-Soon, there will other guides that simplify onboarding, so that anyone can contribute to this resource, via their preferred social platform.
+I'm just sharing this here, for anyone who is interested.
 
 ## Why Minimal Mistakes?
 
@@ -341,7 +339,7 @@ analytics:
 # Site Author
 author:
   name             : "DIDecentral"
-  avatar           : https://didecentral.com/assets/images/did-square.png
+  avatar           : /images/did-square.png
   bio              : "Collaborative Curation, Community Research Initiative"
   location         : "Curating the Web"
   links:
