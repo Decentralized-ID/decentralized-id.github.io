@@ -75,7 +75,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 
 * [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
   >The [World Wide Web Consortium (W3C)](https://www.w3.org/Consortium/) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards. Led by Web inventor and Director Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to lead the Web to its full potential.
-* <a href="https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io" />/w3c-dvcg/w3c-dvcg.github.io</a> - Landing site for W3C Digital Verification Community Group. [<a href="https://www.w3.org/community/digital-verification/">**W**</a>]
+* [/w3c-dvcg/w3c-dvcg.github.io</a> - Landing site for W3C Digital Verification Community Group. [<a href="https://www.w3.org/community/digital-verification/">**W**](https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io)]
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 * [W3C Workshop on Strong Authentication & Identity](https://www.w3.org/Security/strong-authentication-and-identity-workshop/report.html)
 
@@ -85,7 +85,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 ### Credentials Community Group
 
 * [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
-* <a href="http://lists.w3.org/Archives/Public/public-credentials/" />Public mailing list for the Credentials Community Group</a> (and archives) - Anyone may read or write to this list.
+* [Public mailing list for the Credentials Community Group](http://lists.w3.org/Archives/Public/public-credentials/) (and archives) - Anyone may read or write to this list.
 
 #### DID the Decentralized Identifier 
 
@@ -120,7 +120,7 @@ The XNS Public Trust Organization was founded in July 2000, shortly after Intern
 
 * [Verifiable Claims Working Group](https://w3c.github.io/verifiable-claims/)
 * [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
-* <a href="https://lists.w3.org/Archives/Public/public-vc-wg/" />Verifiable Claims WG - Mailing List</a> (and archives)
+* [Verifiable Claims WG - Mailing List](https://lists.w3.org/Archives/Public/public-vc-wg/) (and archives)
 * [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
 
 
@@ -150,7 +150,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 ![](https://i.imgur.com/5qc1qrG.png)\
 <sup><a href="http://ssimeetup.org/decentralized-key-management-dkms-essential-missing-piece-ssi-puzzle-drummond-reed-webinar-8/">DKMS - An Essential Missing Piece of the SSI Puzzle. Drummond Reed. SSIMeetup.org</a></sup>
 
-* <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY" />Microsoft- Decentralized Identity — Own and Control Your Identity.</a>
+* [Microsoft- Decentralized Identity — Own and Control Your Identity.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY)
 ![](https://i.imgur.com/ozOLCuW.png)
 
 ## Ethereum ERC-EIP
