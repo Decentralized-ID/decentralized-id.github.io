@@ -4,6 +4,7 @@ title: Global Digital Identity and Privacy Regulations
 permalink: /regulation/
 toc: false
 last_modified_at: 2020-01-06
+published: false
 ---
 
 [Self Sovereign Identity & Decentralized Identity: Control Your Data](https://dragonchain.com/blog/decentralized-identity-self-sovereign-identity-explained/#toc_15). Provides outline of some global regulations related to identity and privacy, as part of a high level SSI primer, breifly discussing:

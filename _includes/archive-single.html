@@ -30,7 +30,8 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-      <p class="page__meta"><strong>Published:</strong> {{ post.date | date: "%Y-%m-%d" }} <strong>Modified:</strong> {{ post.last_modified_at }} <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p> 
+      <p class="page__meta"><strong>Tags:</strong> {% for tag in post.tags %}[<u>{{ tag }}</u>] {% endfor %}</p> 
+      <p class="page__meta"><strong>Published:</strong> {{ post.date | date: "%Y-%m-%d" }} <strong>Modified:</strong> {{ post.last_modified_at }} <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
