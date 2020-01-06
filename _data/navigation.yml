@@ -70,11 +70,13 @@ didnav:
         url: "/organizations/sovrin-foundation/"
       - title: "• SSI Meetup"
         url: "/organizations/ssi-meetup/"
+      - title: "• Women in Identity"
+        url: "organizations/women-in-identity/"
   - title: Initiatives
     children:
       - title: "• Danube"
         url: "/private-sector/danube/" 
-      - title: " Blockchain"
+      - title: "• Blockchain"
         url: "/blockchain/"
       - title: "• Bitcoin"
         url: "/blockchain/bitcoin/" 
@@ -85,7 +87,7 @@ didnav:
       - title: "• Hyperledger Indy"
         url: "/hyperledger/indy/"
       - title: "• VON"
-        url: "/indy-ecosystem/VON/" 
+        url: "/public-sector/von/" 
       - title: "• IBM"
         url: "/private-sector/ibm/"
       - title: "• Microsoft"
