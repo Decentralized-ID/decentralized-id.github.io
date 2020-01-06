@@ -34,8 +34,9 @@ last_modified_at: 2019-07-13
   > The Sovrin Main Network experienced an outage lasting from Saturday 2018-12-08 until Tuesday 2018-12-11. This was our first significant outage of the network. This post describes the incident, how it was addressed, and what we are doing to prevent future incidents and improve our responses.
   * [Sovrin Status Twitter](https://twitter.com/sovrin_status)
 
-[Self SSI](https://self-ssi.com/en/)
+[Self SSI](https://self-ssi.com/en/) - a solution developed by the [esatus AG](https://esatus.com/), an information security specialist with a strong focus on Identity & Access (I&A). In alignment with its mission «Enforcing Information Security» and being vendor neutral, esatus AG offers conceptual and implementation support across a wide range of solutions.
   > SeLF allows you to integrate the Self-Sovereign Identity into your infrastructure without modifying your legacy IT-applications, directories or management systems. SSI credential-based access rules (CrBAC) transform the new technology into authentication and authorization objects that can be synchronized and used by conventional technologies like SAML or LDAP.
+
 
 {% include video id="305420834" provider="vimeo" %}
 
@@ -48,11 +49,10 @@ The Sovrin ledger is operated by Stewards, trusted organizations within the ecos
 Stewards also, as a group, accept or reject any changes to the ledger-specific portions of the Sovrin open source code by virtue of that role. They thus provide a counterbalance to the Sovrin architects who maintain the Indy code base.
 
 ### Aalto University
-
-[Aalto University](http://www.aalto.fi/en/) 
+• [Aalto University](http://www.aalto.fi/en/) 
 
 ### Absa Group Limited
-[Absa Group Limited](https://www.absa.africa/absaafrica/) 
+• [Absa Group Limited](https://www.absa.africa/absaafrica/) 
 
 ### Amihan Global Strategies
 • [Amihan Global Strategies](https://amihan.net/) 
@@ -115,11 +115,9 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 • [First Education Credit Union](https://www.firstedfcu.com/) 
 
 ### Consent.Global
-• [Global Consent](http://www.consent.global/) 
-* [Consent](http://www.consent.global/)[[**ϟ**](https://sovrin.org/steward/global-consent/)] — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
+• [Global Consent](http://www.consent.global/) [[**ϟ**](https://sovrin.org/steward/global-consent/)] — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
 
 ### IBM
-
 • [IBM](https://www.ibm.com/blogs/blockchain/2018/08/ibm-blockchain-trusted-identity-sovrin-steward-closed-beta-offering/) 
 
 ### InfoCert
