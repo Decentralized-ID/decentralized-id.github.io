@@ -5,15 +5,13 @@ title: Blockchain Identity Reources - TOML
 description: The beginnings of a tagged database for blockchain identity related resources.
 permalink: toml/id-toml/
 canonical_url: 'https://decentralized-id.com/toml/id-toml/'
+date: 2019-03-28
 redirect_from:
   - toml/id-toml.html
   - toml/id-toml
   - id-toml/
   - id-toml
-categories: ["data"]
 ---
-
-My first page besides "home" with the minimal mistakes theme. All of my pages will migrate to minimal mistakes, and integrated, once I get the feel for it.
 
 This page has two toml files from [infominer33/SourceCrypto](https://github.com/infominer33/SourceCrypto) embedded into it, with some help from [gist-it.appspot.com](https://gist-it.appspot.com)
 

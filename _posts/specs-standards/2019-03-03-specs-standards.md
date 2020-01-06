@@ -7,7 +7,7 @@ redirect_from:
   - standards
   - standards/
 author_profile: true
-categories: ["Specs-Standards","Hyperledger"]
+categories: ["Specs-Standards","Hyperledger Foundation"]
 tags: ["Index","Credentials Community Group", "DIF","FIDO","OpenID","XDI","W3C","OASIS","JSON-LD"]
 last_modified_at: 2019-11-25T11:22:33-23:00
 ---

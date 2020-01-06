@@ -11,7 +11,7 @@ sidebar:
   title: DIDecentralized
   nav: "sovnav"
 toc: false
-categories: ["Hyperledger","Code"]
+categories: ["Hyperledger Foundation","Code"]
 tags: ["Anoncreds","Indy","Ursa","Aries"]
 ---
 
