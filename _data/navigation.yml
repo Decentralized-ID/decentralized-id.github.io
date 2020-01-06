@@ -45,8 +45,8 @@ didnav:
         url: "/specs-standards/indieweb-dev-on-did/"
   - title: Regulation
     children:
-      - title: "• eDIAS"
-        url: "/regulation/edias/"
+      - title: "• eIDAS"
+        url: "/regulation/eidas/"
       - title: "• GDPR"
         url: "/regulation/GDPR/"
   - title: Self-Sovereign Identity
@@ -151,10 +151,16 @@ sovnav:
         url: "/literature/" 
       - title: " - RWoT - Papers Index"
         url: "/workshops/rebooting-web-of-trust/"
-      - title: " - Microledgers and Edgechains—HGF18"
+      - title: " - Microledgers and Edgechains"
         url: "/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
-      - title: "• #indieweb-dev on IIW RWoT and DID's -FreeNode"
+      - title: "• #indieweb-dev on IIW RWoT and DID's"
         url: "/specs-standards/indieweb-dev-on-did/"
+  - title: Regulation
+    children:
+      - title: "• eIDAS"
+        url: "/regulation/eidas/"
+      - title: "• GDPR"
+        url: "/regulation/GDPR/"
   - title: Self-Sovereign Identity
     children:
       - title: "• SSI - Documentation Efforts"
@@ -176,11 +182,13 @@ sovnav:
         url: "/organizations/sovrin-foundation/"
       - title: "• SSI Meetup"
         url: "/organizations/ssi-meetup/"
+      - title: "• Women in Identity"
+        url: "organizations/women-in-identity/"
   - title: Initiatives
     children:
       - title: "• Danube"
         url: "/private-sector/danube/" 
-      - title: " Blockchain"
+      - title: "• Blockchain"
         url: "/blockchain/"
       - title: "• Bitcoin"
         url: "/blockchain/bitcoin/" 
@@ -191,7 +199,7 @@ sovnav:
       - title: "• Hyperledger Indy"
         url: "/hyperledger/indy/"
       - title: "• VON"
-        url: "/indy-ecosystem/VON/" 
+        url: "/public-sector/von/" 
       - title: "• IBM"
         url: "/private-sector/ibm/"
       - title: "• Microsoft"
