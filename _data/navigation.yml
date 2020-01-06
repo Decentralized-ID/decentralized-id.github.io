@@ -43,6 +43,12 @@ didnav:
         url: "/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
       - title: "• #indieweb-dev on IIW RWoT and DID's"
         url: " /chatlog/indieweb-dev-on-did/"
+  - title: Regulation
+    children:
+      - title: "• eDIAS"
+        url: "/regulation/edias/"
+      - title: "• GDPR"
+        url: "/regulation/GDPR/"
   - title: Self-Sovereign Identity
     children:
       - title: "• SSI - Documentation Efforts"
@@ -94,8 +100,6 @@ didnav:
         url: "sourcecrypto.pub/posts/history"
       - title: "• Source⧉Crypto"
         url: "https://sourcecrypto.pub"
-      - title: "• Learn Crypto Trading"
-        url: "https://learncryptotrading.co"
       - title: "• Decentralized Web"
         url: "https://sourcecrypto.pub/decentralized-web/"
       - title: "• Bitcoin Info"
@@ -200,8 +204,6 @@ sovnav:
         url: "sourcecrypto.pub/posts/history"
       - title: "• Source⧉Crypto"
         url: "https://sourcecrypto.pub"
-      - title: "• Learn Crypto Trading"
-        url: "https://learncryptotrading.co"
       - title: "• Decentralized Web"
         url: "https://sourcecrypto.pub/decentralized-web/"
       - title: "• Bitcoin Info"

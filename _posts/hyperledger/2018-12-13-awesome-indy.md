@@ -21,7 +21,7 @@ sidebar:
   nav: "sovnav"
 last_modified_at: 2019-07-10T11:22:33-23:00
 tags: ["Evernym","Indy","Von"]
-categories: ["Sovrin Foundation","Hyperledger"]
+categories: ["Sovrin Foundation","Hyperledger Foundation"]
 ---
 
 **Protocol, Governance, Education, Ecosystem** 

@@ -18,9 +18,9 @@ published: true
 
 This directory was born from [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), the original SSI repository. 
 
-In my opinion, the best overall article on the subject is still Christopher Allen's rallying cry: [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md). Christopher did an outstanding job of outlining the history of internet identity standards, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), currently in revision. 
+In my opinion, the best overall article on the subject is still Christopher Allen's [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md). Christopher did a great job outlining the history of internet identity standards, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), currently in revision. 
 
-However, considerable additional material has been created on the subject since then, including some helpful criticism on the principles. Some of initial thoughts have been organized in [evolution-of-ssi](evolution-of-ssi/).
+However, considerable additional material has been created on the subject since then, including some helpful criticism on the principles. Some of initial thoughts have been organized in [evolution-of-ssi](/literature/self-sovereign-identity/evolution-of-ssi/).
 
 Then I realized that I should make a more complete survey of the subject, if I want to be thorough. So now I'm collecting as much SSI info as I can, and organizing it here. Once I've completed a review of existing literature on the subject, I'll put it into a google shared doc to encourage further participation. 
 

@@ -156,3 +156,9 @@ The Voices & View from FemTech Leaders
 
 * [ChristopherA/info](https://christophera.info/)
   > Simple Identity Website for Christopher Allen. 
+
+## Heather Dahl
+
+[Ep. 74 – Self Sovereign Identity – insights from Sovrin](https://www.insureblocks.com/ep-74-self-sovereign-identity-insights-from-sovrin/)
+
+[Heather Dahl](https://www.linkedin.com/in/heathercdahl/) is the CEO of Sovrin, one of the leading self-sovereign identity solutions. In this podcast we discuss how identity has evolved from the offline world, to the limitations of it being online in the internet and finally to the opportunities it brings in a blockchain world.

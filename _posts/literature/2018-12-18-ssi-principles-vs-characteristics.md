@@ -10,7 +10,7 @@ redirect_from:
   - /self-sovereign-identity/ssi-principles-vs-characteristics/
 categories: ["Literature"]
 tags: ["Self Sovereign Identity", "Rebooting WoT","Laws of Identity", "notes"]
-last_modified_at: 2019-07-10T11:22:33-23:00
+last_modified_at: 2020-01-05T:11:22:33:23:00
 published: true
 
 ---
@@ -106,3 +106,5 @@ I think these ideas are worth examining further. Perhaps a continuing with a com
 * [The Windhover Principles for Digital Identity, Trust, and Data](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)
 * [Self-Sovereign Bill of Rights](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-bill-of-rights.md)
 * [Schutte's Take](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/Schutte-on-SSI.md) offers criticism on the 10 principles.
+
+More on that : [Evolution of SSI](/literature/self-sovereign-identity/evolution-of-ssi/)
