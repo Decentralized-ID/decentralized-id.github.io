@@ -2,9 +2,9 @@
 title: "FreeNode IRC #indieweb-dev on IIW RWoT and DID's"
 description: "Conversation about RWoT and DIDs at #indieweb-dev on Freenode"
 date: "2019-06-03T11:22:33-23:00"
-categories: ["Chatlog"]
+categories: ["Specs-Standards"]
 tags: ["P2P", "IndieAuth","IndieWeb","Rebooting WoT", "IIW","DID"]
-permalink: /chatlog/indieweb-dev-on-did/
+permalink: /specs-standards/indieweb-dev-on-did/
 ---
 
 ## Contents

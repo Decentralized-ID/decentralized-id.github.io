@@ -303,6 +303,8 @@ defaults:
     values:
       layout: single
       author_profile: false
+      header:
+        image: /images/didecentral-tw.png
       read_time: true
       comments: # true
       share: true
@@ -320,6 +322,8 @@ defaults:
       path: "_HowToContribute"
       type: HowToContribute
     values:
+      header:
+        image: /images/didecentral-tw.png
       layout: single
       share: true
       related: true
