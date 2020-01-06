@@ -1,4 +1,5 @@
 ---
+date: 2019-03-01
 title: State Sponsored Identity Initiatives
 layout: single
 permalink: public-sector/
@@ -11,6 +12,7 @@ redirect_from:
   - state-sponsored
 categories: ["Blockchain","Public Sector"]
 tags: ["VON","Evernym","uPort","DHS-SBIR"]
+last_modified_at: 2019-03-01
 ---
 
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html)

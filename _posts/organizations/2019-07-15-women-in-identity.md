@@ -1,4 +1,5 @@
 ---
+date: 2019-07-15
 title: "Women in Identity - @WomeninID"
 categories: ["Organizations"]
 tags: ["WomeninID","GDPR"]

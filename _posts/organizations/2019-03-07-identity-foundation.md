@@ -1,4 +1,5 @@
 ---
+date: 2019-03-07
 title: Decentralized Identity Foundation - DIF
 layout: single
 permalink: organizations/identity-foundation/
@@ -9,6 +10,7 @@ redirect_from:
 categories: ["Organizations"]
 tags: 
   - "DIF"
+last_modified_at: 2019-07-19
 ---
 
   >A key piece of the decentralized identity equation is how people, organizations, and devices can be identified and located without centralized systems of identifiers (e.g. email addresses). DIF members are actively working on protocols and implementations that enable creation, resolution, and discovery of decentralized identifiers and names across decentralized systems, like blockchains and distributed ledgers.

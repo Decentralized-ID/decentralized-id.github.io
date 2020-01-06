@@ -1,4 +1,5 @@
 ---
+date: 2018-12-19
 title: How would self-sovereign identity work for the user?
 layout: single
 classes: wide

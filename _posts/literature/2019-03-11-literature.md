@@ -1,4 +1,5 @@
 ---
+date: 2019-03-11
 title: Identity Articles, Research and Literature
 layout: single
 permalink: literature/
@@ -6,6 +7,7 @@ canonical_url: 'https://decentralized-id.com/literature'
 redirect_from: literature
 categories: ["Literature"]
 tags: ["DPKI","Rebooting WoT","Self Sovereign Identity","WEF","ID2020"]
+last_modified_at: 2019-07-11
 ---
 
 

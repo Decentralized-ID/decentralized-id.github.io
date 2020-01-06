@@ -1,4 +1,5 @@
 ---
+date: 2018-11-15
 layout      : "single"
 description : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 header:
@@ -10,6 +11,7 @@ permalink: /awesome-decentralized-id/
 canonical_url: https://decentralized-id.com/awesome-decentralized-id/
 published: true
 classes: wide
+redirect_to: https://decentralized-id.com
 tags: ["Index"]
 last_modified_at: 2019-07-08
 ---

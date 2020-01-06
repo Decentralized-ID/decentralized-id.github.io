@@ -1,4 +1,5 @@
 ---
+date: 2018-12-22
 title: "The Evolution of Self Sovereign Identity (Draft Seeking Feedback)"
 description: A start at examining leading thought around SSI since 2016, and presenting the idea of "modularizing" essential components of SSI documentation.
 layout: single

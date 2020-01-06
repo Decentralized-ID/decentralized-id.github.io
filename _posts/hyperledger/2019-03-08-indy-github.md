@@ -1,4 +1,5 @@
 ---
+date: 2019-03-08
 title: Indy Github Repositories
 layout: single
 permalink: hyperledger/indy/github/
@@ -13,6 +14,7 @@ sidebar:
 toc: false
 categories: ["Hyperledger Foundation","Code"]
 tags: ["Anoncreds","Indy","Ursa","Aries"]
+last_modified_at: 2019-03-08
 ---
 
 <!-- Every company or organization using indy code should be listed in tags, above -->

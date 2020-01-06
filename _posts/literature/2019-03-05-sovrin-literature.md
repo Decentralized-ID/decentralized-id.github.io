@@ -1,4 +1,5 @@
 ---
+date: 2019-03-05
 title: Sovrin Related Literature and Media
 layout: single
 permalink: /literature/Sovrin/
@@ -12,6 +13,7 @@ sidebar:
   nav: "sovnav"
 categories: ["Literature", "Sovrin Foundation"]
 tags: ["Indy","Evernym","GDPR"]
+last_modified_at: 2019-07-13
 ---
 
 ## Contents

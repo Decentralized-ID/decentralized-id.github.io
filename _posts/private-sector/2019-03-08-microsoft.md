@@ -1,4 +1,5 @@
 ---
+date: 2019-03-08
 title: Microsoft Identity
 layout: single
 permalink: id-initiatives/microsoft/

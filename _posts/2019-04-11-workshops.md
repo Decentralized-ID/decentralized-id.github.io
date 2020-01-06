@@ -1,4 +1,5 @@
 ---
+date: 2019-04-11
 title: Decentralized-ID Workshops
 layout: single
 classes: wide
@@ -8,6 +9,7 @@ canonical_url: 'https://decentralized-id.com/workshops/'
 redirect_from: workshops
 categories: ["Workshops"]
 tags: ["IIW","Rebooting WoT"]
+last_modified_at: 2019-06-12
 ---
 
 ![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)

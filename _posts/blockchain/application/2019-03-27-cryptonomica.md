@@ -1,4 +1,5 @@
 ---
+date: 2019-03-27
 title: Cryptonomica
 layout: single
 classes: wide

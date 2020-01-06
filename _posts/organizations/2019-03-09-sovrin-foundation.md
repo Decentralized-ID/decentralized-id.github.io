@@ -1,4 +1,5 @@
 ---
+date: 2019-03-09
 title: The Sovrin Foundation
 layout: single
 classes: wide
@@ -13,6 +14,7 @@ redirect_from:
   - organizations/sovrin-foundation
 categories: ["Organizations","Sovrin Foundation"]
 tags: ["Indy","VON"]
+last_modified_at: 2019-07-13
 ---
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)

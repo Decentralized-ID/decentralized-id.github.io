@@ -1,4 +1,5 @@
 ---
+date: 2020-01-06
 title: Global Digital Identity and Privacy Regulations
 permalink: /regulation/
 toc: false

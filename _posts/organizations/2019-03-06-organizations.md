@@ -1,4 +1,5 @@
 ---
+date: 2019-03-06
 title: DID-SSI Organizations
 layout: single
 permalink: organizations/
@@ -6,6 +7,7 @@ canonical_url: 'https://decentralized-id.com/organizations/'
 redirect_from: organizations
 categories: ["Organizations"]
 tags: ["Index"]
+last_modified_at: 2019-07-11
 ---
 
 work in progress....
