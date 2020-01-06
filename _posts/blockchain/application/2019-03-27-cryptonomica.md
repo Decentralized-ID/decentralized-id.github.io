@@ -10,7 +10,7 @@ redirect_from:
   - id-initiatives/ethereum/cryptonomica/
 categories: ["Blockchain"]
 tags: ["Ethereum","PGP"]
-last_modified_at: 2019-07-11T11:22:33-23:00
+last_modified_at: 2019-07-11
 
 ---
 

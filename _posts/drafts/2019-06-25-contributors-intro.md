@@ -32,7 +32,7 @@ authors:
 permalink: contributors-intro/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading, Contributors-Guide]
 published: false
-last_modified_at: 2019-06-26T11:22:33-23:00
+last_modified_at: 2019-06-26
 ---
 
 Perhaps you've browsed these sites and wondered about contributing, but aren't sure where to start. In this post, we'll go over the simplest ways to contribute, as a broad overview.

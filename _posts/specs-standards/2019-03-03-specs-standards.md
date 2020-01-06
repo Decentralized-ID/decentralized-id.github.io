@@ -9,7 +9,7 @@ redirect_from:
 author_profile: true
 categories: ["Specs-Standards","Hyperledger Foundation"]
 tags: ["Index","Credentials Community Group", "DIF","FIDO","OpenID","XDI","W3C","OASIS","JSON-LD"]
-last_modified_at: 2019-11-25T11:22:33-23:00
+last_modified_at: 2019-11-25
 ---
 
 I've begun exploring and becoming more familiar with the decentralized nature of digital identity. Open standards, processes, and organizations revolving around such are the most critical components of that decentralized but widely interoperable ideal.

@@ -6,7 +6,7 @@ permalink: organizations/women-in-identity/
 redirect_from: 
   - organizations/womeninid/
   - organizations/women-in-id/
-last_modified_at: 2019-07-15T11:22:33-23:00
+last_modified_at: 2019-07-15
 
 ---
 

@@ -12,7 +12,7 @@ categories: ["Sovrin Foundation","Hyperledger Foundation","Literature","Presenta
 tags: ["Indy","Von","Transcripts","Hyperledger Global Forum","GDPR"]
 published: true
 classes: wide
-last_modified_at: 2019-07-11T11:22:33-23:00
+last_modified_at: 2019-07-11
 ---
 
 
