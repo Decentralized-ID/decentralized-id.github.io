@@ -52,11 +52,11 @@ Often the keys for the client-bank systems are created this way.
 
 
 ## Github Repos
-* <a href="https://github.com/Cryptonomica/cryptonomica" />/Cryptonomica/cryptonomica</a> - Cryptonomica keys server
-* <a href="https://github.com/Cryptonomica/cryptonomica.github.io" />/Cryptonomica/cryptonomica.github.io</a> - Cryptonomica frontend
-* <a href="https://github.com/Cryptonomica/arbitration-rules" />/Cryptonomica/arbitration-rules</a> - Cryptonomica Arbitration Rules
-* <a href="https://github.com/Cryptonomica/dappathon-tlv" />/Cryptonomica/dappathon-tlv</a>
-* <a href="https://github.com/Cryptonomica/Ethereum-IdentityVerification" />/Cryptonomica/Ethereum-IdentityVerification</a> - Indentity verification and KYC for Ethereum blockchain
-* <a href="https://github.com/Cryptonomica/ethnode.cryptonomica.net" />/Cryptonomica/ethnode.cryptonomica.net</a> - Ethereum node with API on nodejs and web3.js
-* <a href="https://github.com/Cryptonomica/Ethereum-IdentityProof" />/Cryptonomica/Ethereum-IdentityProof</a> - Smart contract for Ethereum's account owner verification using Cryptonomica.net
-* <a href="https://github.com/Cryptonomica/international-arbitration-law" />/Cryptonomica/international-arbitration-law</a> - Repository for collecting information about international arbitration law and practice
+* [/Cryptonomica/cryptonomica](https://github.com/Cryptonomica/cryptonomica) - Cryptonomica keys server
+* [/Cryptonomica/cryptonomica.github.io](https://github.com/Cryptonomica/cryptonomica.github.io) - Cryptonomica frontend
+* [/Cryptonomica/arbitration-rules](https://github.com/Cryptonomica/arbitration-rules) - Cryptonomica Arbitration Rules
+* [/Cryptonomica/dappathon-tlv](https://github.com/Cryptonomica/dappathon-tlv)
+* [/Cryptonomica/Ethereum-IdentityVerification](https://github.com/Cryptonomica/Ethereum-IdentityVerification) - Indentity verification and KYC for Ethereum blockchain
+* [/Cryptonomica/ethnode.cryptonomica.net](https://github.com/Cryptonomica/ethnode.cryptonomica.net) - Ethereum node with API on nodejs and web3.js
+* [/Cryptonomica/Ethereum-IdentityProof](https://github.com/Cryptonomica/Ethereum-IdentityProof) - Smart contract for Ethereum's account owner verification using Cryptonomica.net
+* [/Cryptonomica/international-arbitration-law](https://github.com/Cryptonomica/international-arbitration-law) - Repository for collecting information about international arbitration law and practice

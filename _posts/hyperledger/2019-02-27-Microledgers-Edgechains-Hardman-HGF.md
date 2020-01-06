@@ -323,7 +323,7 @@ This is a more serious one that has pretty high stakes. I've been working on a m
 
 You can see the the roles here are the participants in the relationship and there's some message types that are described here there's actually a [DID method spec draft](https://dhh1128.github.io/peer-did-method-spec/index.html) and I'll show that to you really briefly here and you can go look it up yourself later if you want to 
 
-<a href="https://dhh1128.github.io/peer-did-method-spec/index.html"><img src="https://imgur.com/QlhWEmfl.png" /></a>
+[](https://dhh1128.github.io/peer-did-method-spec/index.html"><img src="https://imgur.com/QlhWEmfl.png)
 
 
 I'll give you the URL and you can go read it, but there's this whole spec behind this, and this is what has caused, I think, the most ruminating on the concept of a microledger... because the microledger as a persistence mechanism could provide high trust to back the did method that I'm mentioning. 
