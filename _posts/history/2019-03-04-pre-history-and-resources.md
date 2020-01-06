@@ -6,7 +6,7 @@ permalink: /history/
 cannonical_url: https://decentralized-id.com/history/
 categories: ["History"]
 tags: ["IETF","DPKI","PGP"]
-last_modified_at: 2020-01-05T13:22:33-23:00
+last_modified_at: 2020-01-05
 sidebar: 
   nav: didnav
 classes: wide

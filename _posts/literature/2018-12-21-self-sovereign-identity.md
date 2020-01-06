@@ -9,7 +9,7 @@ redirect_from:
   - /self-sovereign-identity/
 categories: ["Literature"]
 tags: ["Self Sovereign Identity","Laws of Identity","eIDAS","GDPR"]
-last_modified_at: 2019-07-10T11:22:33-23:00
+last_modified_at: 2019-07-10
 published: true
 
 ---

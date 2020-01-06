@@ -10,7 +10,7 @@ permalink: /hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF/
 toc_sticky: false
 categories: ["Sovrin Foundation","Hyperledger Foundation", "Presentations","Literature"]
 tags: ["Indy","VON","Transcripts","Hyperledger Global Forum"]
-last_modified_at: 2019-07-11T11:22:33-23:00
+last_modified_at: 2019-07-11
 ---
 
 **A Production Government Deployment of Hyperledger Indy**

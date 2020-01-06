@@ -6,7 +6,7 @@ canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/open-specs
 redirect_from: organizations/ssi-meetup/open-standards/
 categories: ["Specs-Standards"]
 tags: ["SSI-Meetup","DID","BTCR","Verifiable Credentials","W3C","DKMS"]
-last_modified_at: 2019-07-20T11:22:33-23:00
+last_modified_at: 2019-07-20
 toc_sticky: false
 ---
 

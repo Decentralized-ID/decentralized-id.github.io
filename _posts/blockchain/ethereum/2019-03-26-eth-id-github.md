@@ -5,7 +5,7 @@ permalink: ethereum/id-github/
 canonical_url: 'https://decentralized-id.com/ethereum/id-github/'
 categories: ["Code","Blockchain"]
 tags: ["Ethereum","Jolocom"]
-last_modified_at: 2019-07-11T11:22:33-23:00
+last_modified_at: 2019-07-11
 
 ---
 

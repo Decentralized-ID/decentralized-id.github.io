@@ -7,7 +7,7 @@ redirect_from: private-sector/microsoft/
   - id-initiatives/microsoft
 categories: ["Private-sector"]
 tags: ["Microsoft","DID","ION"]
-last_modified_at: 2019-07-11T11:22:33-23:00
+last_modified_at: 2019-07-11
 ---
 
 ![](https://i.imgur.com/MEN8iSn.png)

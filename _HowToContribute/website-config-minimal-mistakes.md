@@ -10,7 +10,7 @@ authors:
   - "<a href='https://infominer.id'>Infominer</a>"
   - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
 published: true
-last_modified_at: 2020-01-05T11:22:33-23:00
+last_modified_at: 2020-01-05
 ---
 
 This guide should make it easier for contributors to understand how this site works. It should also be useful as a way to learn the basics of using Jekyll with the Minimal Mistakes theme, to publish a website via GitHub pages.

@@ -26,7 +26,7 @@ tags:
 permalink: using-minimal-mistakes/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading, Contributors-Guide]
 published: false
-last_modified_at: 2019-06-26T11:22:33-23:00
+last_modified_at: 2019-06-26
 ---
 
 Since I've created four GitHub organizations for these public-domain educational resources, I needed to make it clear for others to understand and join in on the fun.
@@ -505,7 +505,7 @@ authors:
 permalink: how-i-use-minmal-mistakes/
 categories: [InfoHub, SourceCrypto, Web-Work-Tools, DIDecentral, Learn-Crypto-Trading]
 published: true
-last_modified_at: 2019-06-25T11:22:33-23:00
+last_modified_at: 2019-06-25
 ---
 ```
 

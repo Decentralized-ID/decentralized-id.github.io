@@ -7,7 +7,7 @@ published: false
 author_profile: false
 toc_sticky: true
 date: 2019-07-13
-last_modified_at: 2019-07-14T11:22:33-23:00
+last_modified_at: 2019-07-14
 ---
 
 So far, we've covered quite a lot of ground in our contributors guides!
@@ -87,7 +87,7 @@ redirect_from:
   - welcome-didecentral
 toc_sticky: true
 published: true
-last_modified_at: 2019-07-10T11:22:33-23:00
+last_modified_at: 2019-07-10
 #Be sure to change the modified date. I create my own custom made-up time, with the actual date. You can simply ignore the time, and update the date, or use whatever you'd like for the time. Later, the most recently modified content will be featured.
 ---
 {% endraw %}
