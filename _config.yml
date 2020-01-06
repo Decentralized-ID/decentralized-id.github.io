@@ -100,7 +100,7 @@ analytics:
 # Site Author
 author:
   name             : "DIDecentral"
-  avatar           : https://didecentral.com/assets/images/did-square.png
+  avatar           : /images/did-square.png
   bio              : "Collaborative Curation, Community Research Initiative"
   location         : "Curating the Web"
   links:
@@ -109,7 +109,7 @@ author:
       url: mailto:identitydecentralized@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://didecentral.com"
+      url: "https://decentralized-id.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/didecentral"
@@ -128,7 +128,7 @@ footer:
       url: mailto:identitydecentralized@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://didecentral.com"
+      url: "https://decentralized-id.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/didecentral"
