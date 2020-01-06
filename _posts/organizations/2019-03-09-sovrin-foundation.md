@@ -5,7 +5,7 @@ layout: single
 classes: wide
 toc: false
 header: 
-  image: "https://decentralized-id.com/images/sovrin-foundation.png"
+  image: "/images/sovrin-header.png"
   og_image: "https://decentralized-id.com/images/sovrin-foundation.png"
   caption: "[cryptodesign.io](http://cryptodesign.io/portfolio/sovrin-stewards/)"
 permalink: organizations/sovrin-foundation/
@@ -34,6 +34,12 @@ last_modified_at: 2019-07-13
   > The Sovrin Main Network experienced an outage lasting from Saturday 2018-12-08 until Tuesday 2018-12-11. This was our first significant outage of the network. This post describes the incident, how it was addressed, and what we are doing to prevent future incidents and improve our responses.
   * [Sovrin Status Twitter](https://twitter.com/sovrin_status)
 
+[Self SSI](https://self-ssi.com/en/)
+  > SeLF allows you to integrate the Self-Sovereign Identity into your infrastructure without modifying your legacy IT-applications, directories or management systems. SSI credential-based access rules (CrBAC) transform the new technology into authentication and authorization objects that can be synchronized and used by conventional technologies like SAML or LDAP.
+
+{% include video id="305420834" provider="vimeo" %}
+
+[The Sovrin Network- Making Self-Sovereign Identity a Reality](https://vimeo.com/305420834) from [Sovrin Foundation](https://vimeo.com/sovrinfoundation).
 
 ## Sovrin Stewards
 
