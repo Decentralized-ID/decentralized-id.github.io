@@ -26,7 +26,7 @@ Infominer:
 
 DIDecentral:
   name             : "DIDecentral"
-  avatar           : https://didecentral.com/assets/images/did-square.png
+  avatar           : https://decentralized-id.com/images/did-square.png
   bio              : "Collaborative Curation, Community Research Initiative"
   links:
     - label: "Email"
@@ -34,7 +34,7 @@ DIDecentral:
       url: mailto:identitydecentralized@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://didecentral.com"
+      url: "https://decentralized-id.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/didecentral"
