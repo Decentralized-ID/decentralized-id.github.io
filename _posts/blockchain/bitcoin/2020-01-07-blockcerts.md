@@ -46,7 +46,7 @@ last_modified_at:  2020-01-07
 * [Security analysis of a blockchain-based protocol forthe certification of academic credentials](https://arxiv.org/pdf/1910.04622.pdf) by Marco Baldi, Franco Chiaraluce, Migelan Kodra and Luca Spalazzi
   > Abstract—We consider a blockchain-based protocol forthe certification of academic credentials named Blockcerts,which is currently used worldwide for validating digitalcertificates of competence compliant with the Open Badgesstandard. We study the certification steps that are per-formed by the Blockcerts protocol to validate a certificate,and find that they are vulnerable to a certain typeof impersonation attacks. More in detail, authenticationof the issuing institution is performed by retrieving anunauthenticated issuer profile online, and comparing somedata reported there with those included in the issuedcertificate. We show that, by fabricating a fake issuerprofile and generating a suitably altered certificate, anattacker is able to impersonate a legitimate issuer andcan produce certificates that cannot be distinguished fromoriginals by the Blockcerts validation procedure. We alsopropose some possible countermeasures against an attackof this type, which require the use of a classic public keyinfrastructure or a decentralized identity system integratedwith the Blockcerts protocol.
 
-<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/rVC25i8FzeTPiw" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> </center>
+<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/rVC25i8FzeTPiw" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> </center>
 
 [Blockcerts: The Open Standard for Blockchain Credentials](https://www.slideshare.net/SSIMeetup/blockcerts-the-open-standard-for-blockchain-credentials) - [SSI-Meetup – Webinar 39](https://ssimeetup.org/blockcerts-open-standard-blockchain-credentials-daniel-paramo-anthony-ronning-webinar-39/)
 
@@ -70,3 +70,59 @@ last_modified_at:  2020-01-07
   >   * [Blockcerts](https://blockcerts.org/) standard
 * [cowcerts/schemas/](https://gitlab.com/cowcerts/schemas)
   > Specifications, JSON Schemas and JSON Linked Data definitions for Cowcerts certificates [https://cowcerts.dev](https://cowcerts.dev)
+
+  ## GitHub Repositories
+
+* [blockchain-certificates/blockchain-certificates.github.io](https://github.com/blockchain-certificates/blockchain-certificates.github.io) - Web site. 
+* [learningmachine/stage.blockcerts.github.io](https://github.com/learningmachine/stage.blockcerts.github.io)
+* [blockchain-certificates/blockcerts-playground.github.io](https://github.com/blockchain-certificates/blockcerts-playground.github.io) - In-browser tool to experiment with Blockcerts. 
+
+---
+
+* [learningmachine/Foundatio](https://github.com/learningmachine/Foundatio) Pluggable foundation blocks for building distributed apps.
+* [blockchain-certificates/pyld](https://github.com/blockchain-certificates/pyld) - JSON-LD processor written in Python. 
+* [learningmachine/polymer-redux](https://github.com/learningmachine/polymer-redux)
+  > An example use-case to showcase the state/view abstraction in Polymer 3, LitElement and Redux context
+* [blockchain-certificates/assets](https://github.com/blockchain-certificates/assets)
+* [blockchain-certificates/archived-cert-store](https://github.com/blockchain-certificates/archived-cert-store)
+  > Storage library and service for Blockchain Certificates
+* [blockchain-certificates/PodSpecs](https://github.com/blockchain-certificates/PodSpecs)
+  > A listing of CocoaPod .podspec files for all pods created in the Blockchain Certificates project.
+
+### Issuing
+
+* [blockchain-certificates/cert-schema](https://github.com/blockchain-certificates/cert-schema)
+  > The schema for Blockcerts. 
+* [blockchain-certificates/cert-issuer](https://github.com/blockchain-certificates/cert-issuer) - Issues Blockcerts using either the Bitcoin or Ethereum blockchain
+* [blockchain-certificates/cert-tools](https://github.com/blockchain-certificates/cert-tools)
+  > Command line tools for designing certificate templates and instantiating a certificate batch
+* [blockchain-certificates/obi-baking](https://github.com/blockchain-certificates/obi-baking) 
+  > Example of baking a blockcert into an Open Badge. 
+* [blockchain-certificates/cert-core](https://github.com/blockchain-certificates/cert-core)
+* [blockchain-certificates/wallet-test-resources](https://github.com/blockchain-certificates/wallet-test-resources)
+  > These are resources used to test implementations of the evolving blockcerts certificate standard and issuer conventions.
+
+### Validation
+
+* [learningmachine/ajv](https://github.com/learningmachine/ajv)
+  > The fastest JSON-Schema Validator. Supports draft-06
+* [blockchain-certificates/openbadges-validator-core](https://github.com/blockchain-certificates/openbadges-validator-core) - Open Badges validation in python. 
+
+
+### Verification
+
+* [blockchain-certificates/blockcerts-verifier](https://github.com/blockchain-certificates/blockcerts-verifier) - A Blockcerts verifier and viewer. 
+* [blockchain-certificates/cert-verifier](https://github.com/blockchain-certificates/cert-verifier)
+Python library for verifying Blockcerts. 
+* [blockchain-certificates/cert-verifier-js](https://github.com/blockchain-certificates/cert-verifier-js) - Javascript library for verifying Blockcerts Certificates
+
+### Web
+
+* [blockchain-certificates/cert-web-component](https://github.com/blockchain-certificates/cert-web-component) - A web component for displaying blockchain certificates.
+* [blockchain-certificates/cert-viewer](https://github.com/blockchain-certificates/cert-viewer) - A web app for viewing and validating Blockchain Certificates
+
+### Mobile
+
+* [blockchain-certificates/wallet-android](https://github.com/blockchain-certificates/wallet-android) - An Android app for Blockcerts. 
+* [blockchain-certificates/BlockcertsFramework-iOS](https://github.com/blockchain-certificates/BlockcertsFramework-iOS) - An iOS wallet for viewing, validating, and sharing certs
+* [blockchain-certificates/wallet-iOS](https://github.com/blockchain-certificates/wallet-iOS) - An iOS wallet for Blockcerts. 
