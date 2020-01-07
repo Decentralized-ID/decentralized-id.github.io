@@ -292,7 +292,6 @@ defaults:
       share: true
       related: true
       sidebar:
-        title: DIDecentral
         nav: didnav
       toc: true
       toc_sticky  : true  
@@ -311,7 +310,6 @@ defaults:
       classes: wide
       related: true
       sidebar:
-        title: DIDecentral
         nav: didnav
       toc: true
       toc_label   : "Contents"
