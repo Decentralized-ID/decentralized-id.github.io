@@ -425,7 +425,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 
 ### Assorted Ethereum Apps
 
-[/XLNT/meirl](https://github.com/XLNT/meirl) - Counterfactual and Upgradable Self-Sovereign Identity for Ethereum, using Gnosis Safe
+[XLNT/meirl](https://github.com/XLNT/meirl) - Counterfactual and Upgradable Self-Sovereign Identity for Ethereum, using Gnosis Safe
 
 
 
@@ -727,10 +727,10 @@ Hyperledger Indy Project Enhancements
 
 ### /IBM-Blockchain-Identity
 
-[/IBM-Blockchain-Identity/indy-tutorial-sandbox](https://github.com/IBM-Blockchain-Identity/indy-tutorial-sandbox) - Forked from brycecurtis/indy-tutorial-sandbox
+[IBM-Blockchain-Identity/indy-tutorial-sandbox](https://github.com/IBM-Blockchain-Identity/indy-tutorial-sandbox) - Forked from brycecurtis/indy-tutorial-sandbox
 A turnkey, Docker-based sandbox that enables quick and easy exploration of Hyperledger Indy concepts.
 
-[/IBM-Blockchain-Identityindy-ssivc-tutorial](https://github.com/IBM-Blockchain-Identity/indy-ssivc-tutorial) - A turnkey, Docker-based tutorial for help developers get acquainted with Self-Sovereign Identity and Verifiable Credentials.
+[IBM-Blockchain-Identityindy-ssivc-tutorial](https://github.com/IBM-Blockchain-Identity/indy-ssivc-tutorial) - A turnkey, Docker-based tutorial for help developers get acquainted with Self-Sovereign Identity and Verifiable Credentials.
  
 
 ## Verifiable Organizations Network
@@ -877,7 +877,7 @@ AR\VR\Mixed
 
 ## Assorted
 
-[/bnelson777/id.ly](https://github.com/bnelson777/id.ly) - Cross-platform self-sovereign identity business card and messaging app
+[bnelson777/id.ly](https://github.com/bnelson777/id.ly) - Cross-platform self-sovereign identity business card and messaging app
 
 
 ## /peacekeeper/blockchain-identity

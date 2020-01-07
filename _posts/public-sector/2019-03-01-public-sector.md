@@ -36,7 +36,7 @@ last_modified_at: 2019-03-01
   * "an initiative by the government of British Columbia to create a trusted network of organizational data. It allows organizations to claim credentials that are part of their own digital identity, using a component called [TheOrgBook](https://theorgbook.pathfinder.gov.bc.ca/en/home)[[**G**](https://github.com/bcgov/theorgbook)] that lists entities with their associated public verifiable claims.
   * [Pan-Canadian Trust Framework](https://github.com/canada-ca/PCTF-CCP)
 * [idtrail.org](http://www.idtrail.org/)
-* [/indy-ecosystem/VON.md](indy-ecosystem/VON.md)
+* [indy-ecosystem/VON.md](indy-ecosystem/VON.md)
 <a href="https://twitter.com/sboots/status/1070320318487584768"><img src="https://i.imgur.com/wdbN3Ld.png"/></a>
 
 

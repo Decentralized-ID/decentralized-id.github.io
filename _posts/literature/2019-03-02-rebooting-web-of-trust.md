@@ -675,14 +675,14 @@ Unless otherwise noted, all RWoT Completed Papers, Topics and Advance Readings a
 
 ## RWoT Github Listing
 
-* [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
-* [/WebOfTrustInfo/website](https://github.com/WebOfTrustInfo/website) - Website for http://www.WebOfTrust.info
-* [/WebOfTrustInfo/community-resilience](https://github.com/WebOfTrustInfo/community-resilience) - Rebooting Web of Trust Community Resilience Team
-* [/WebOfTrustInfo/satyrn](https://github.com/WebOfTrustInfo/satyrn) - A Markdown-based JavaScript Sandbox
-* [/WebOfTrustInfo/sss](https://github.com/WebOfTrustInfo/sss) - Library for the Shamir secret sharing scheme
+* [WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
+* [WebOfTrustInfo/website](https://github.com/WebOfTrustInfo/website) - Website for http://www.WebOfTrust.info
+* [WebOfTrustInfo/community-resilience](https://github.com/WebOfTrustInfo/community-resilience) - Rebooting Web of Trust Community Resilience Team
+* [WebOfTrustInfo/satyrn](https://github.com/WebOfTrustInfo/satyrn) - A Markdown-based JavaScript Sandbox
+* [WebOfTrustInfo/sss](https://github.com/WebOfTrustInfo/sss) - Library for the Shamir secret sharing scheme
   - Forked from dsprenkels/sss
-* [/WebOfTrustInfo/verifiable-news](https://github.com/WebOfTrustInfo/verifiable-news) - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
-* [/WebOfTrustInfo/portable-reputation-toolkit](https://github.com/WebOfTrustInfo/portable-reputation-toolkit)
+* [WebOfTrustInfo/verifiable-news](https://github.com/WebOfTrustInfo/verifiable-news) - TBD: W3C Credentials Community Group repository for curbing "social bots" and mitigating the spread of online misinformation and "fake news".
+* [WebOfTrustInfo/portable-reputation-toolkit](https://github.com/WebOfTrustInfo/portable-reputation-toolkit)
 
 ### Workshops
 
