@@ -14,7 +14,7 @@ categories: ["Sovrin Foundation","Hyperledger Foundation","Literature","Presenta
 tags: ["Indy","Von","Transcripts","Hyperledger Global Forum","GDPR"]
 published: true
 classes: wide
-last_modified_at: 2019-07-11
+last_modified_at: 2019-12-11
 ---
 
 
@@ -368,287 +368,29 @@ there are some problems that you must use blockchain for but I'm just saying use
 I would love to get some people here to work with me on this peer did method I think it's a very high value for the identity space that's one specific to my area of expertise so with that I'll go back and demo something if you want or we can go into QA I think we got about ten minutes
 left which is good 
 
-## Q&A 
+## Q&A
 
 <img src="https://i.imgur.com/HNmcUfN.png"/>
+I was trying hard to not go till the very last second well it doesn't necessarily have to be a person but some entity on the edge yeah and I'm really using the term edge of course is really vague but what I mean by it mostly is it's not the thing in the center of the architecture diagram okay and then the second question the concept of the micro ledger is there any concept of persisting the final values of the micro ledger onto a blockchain 
 
-I was trying hard to not go till the very last second well it doesn't necessarily have to be a person but some entity on the edge yeah and I'm really using the term edge of course is really vague but what I mean by it mostly is it's not the thing in the center of the architecture diagram okay and then the second question the concept of the micro ledger is there any concept of persisting the final values of the micro ledger onto a blockchain yeah so this is if I go back to let's see the notion of anchoring something on a blockchain a number of people in industry are exploring different ways to do that and one of the things you could anchor on a blockchain is a micro ledger so if you needed to prove for example to a third party let's say Alice and Bob are interacting and it's it's a private personal relationship but let's say Bob doesn't fully trust Alice and maybe he's afraid that alice is gonna steal all of his cool music for his next album even because he's been sharing it with her so
-he goes and he anchors some things on
-the blockchain to provide evidence so
-that if anybody ever you know if there's
-ever an argument there's a third party
-that's a witness that kind of a thing
-and there's other kinds of use cases
-like that too
-hi so obviously it's a communication
-protocol so I'm wondering if there was
-any thoughts about communication
-recording or if it could be useful in
-any way I know there have been papers
-for TLS communication recording but
-obviously it's not easy to do at this
-point with TLS and HTTPS so is there any
-ideas about communication recording
-between the agents or da DS and how it
-could be possibly useful so that's an
-interesting question I used to work at
-Blue Coat which makes a line of products
-actually blue coats been acquired by
-Symantec so if you look this up now
-online you're gonna have to look under
-Symantec but anyway blue coat makes a
-made a product called an SSL visibility
-appliance and what it is is a
-deliberately constructed
-man-in-the-middle attack on a TLS
-session so an enterprise does some fancy
-magic with certificates to make it so
-that when you inside the enterprise talk
-to somebody outside the enterprise that
-appliance catches the traffic and it man
-in the Middle's both of you neither side
-can tell that there's this thing in the
-middle and the whole point of it is make
-the TLS channel visible so that the
-enterprise can look for malware that's
-coming into the environment and stuff
-like that so where I'm going with this
-is that same kind of technique could be
-used in agent to agent communication
-however you would have to get the
-consent of both ends of the conversation
-you don't have the ability like you do
-in an enterprise to simply say well
-every browser in our enterprise is going
-to accept this certificate authority
-therefore nobody's going to get any
-warnings when they click and and stuff
-like that so self sovereign identity
-technologies provide a protection
-against that kind of sniffing happening
-invisibly but it could be done and the
-old the other thing I was going to say
-is there's also a hype
-a proposal about message tracing this is
-cooperative voluntary message tracing
-where people are trying to troubleshoot
-a complex interaction and they say hey
-please tell me when you get this message
-and forward it on so that I can see
-what's happening parties don't have to
-follow it and but it's somewhat related
-to recording so I I guess I can only
-think of two those two comments about
-the recording concept maybe we can talk
-some more after Danny I actually have a
-follow-up question and what what
-happened here so I'm sure you're
-familiar with signal in signal low using
-a double ratchet it's right in Triple D
-filmin and they create that end-to-end
-encryption so how does this really
-different when it comes to peer-to-peer
-and then just creating that encryption
-because you just mentioned that if
-you're going to man in the middle attack
-I'm quite familiar with what Bluecoat
-does I work at Symantec as well so you
-have access to the private key you are
-able to record a session and then you're
-able to replay it
-so basically acting as a proxy so how
-does this does not apply in this
-scenario because if I'm able to actually
-sit in between let's say I hold the
-network and then I compromise one of the
-parties then this is basically just a
-broken channel well first of all indie
-communication there's a this has not
-been implemented but the hype has been
-accepted is adopting signals double
-ratchet algorithm so forward secrecy and
-so forth is a property of the
-communication channel the same way it
-would be with signal the did method spec
-that I talked about here one of the key
-characteristics that it has is that when
-you created did you must create it by
-deriving it from the public key of a key
-pair that exists and the reason that
-that requirement exists is because you
-don't want if you had it if you did well
-let me take you down a different path if
-if you started a D ID as just like let's
-say some UUID and then later you
-associated it with keys what could
-happen is you could start it and a
-person who's proactive and malicious
-could notice what your D ID is
-but you haven't asserted keys and jump
-in and create the kind of man in a
-middle situation that we're really
-worried about here but because DIDS
-require you to derive the thing from the
-key the the did value from the key there
-is no point in time where the creator of
-the did is vulnerable to the man in the
-middle attack that's only a partial
-answer to your question let's talk about
-it after yeah I had yet another
-follow-up on this thread so the ietf has
-a existing internet standard called the
-host identity protocol and it does
-exactly the same thing the intention
-there is because right now in networks
-there's the IP address is the identity
-but this is not verifiable so they made
-this protocol with the intention that it
-existed to be compatible with the
-Internet's tcp/ip stack so there is no
-tie to and etherion network or a hyper
-ledger implementation it's just part of
-the general Internet can you give me
-some context as to why this is existing
-separate from that and we don't just use
-the host identity protocol existing on
-the internet already so that's a great
-question there's several different
-answers that are all kind of related
-that kind of add up the first thing is
-that this communication mechanism has to
-work on things besides the Internet
-so not everything has IP addresses and
-still we have to be able to communicate
-we certainly live in a highly IP centric
-world but there's plenty of use cases
-that are outside that the second thing
-is that like with certificates my
-understanding of the host identity
-technology is that it focuses on servers
-now of course it could be used for
-clients and stuff too but TLS in general
-even though it has
-the option of identifying both parties
-is almost a hundred percent used to
-identify only the server side of an
-interaction so when you want to identify
-the client side what do you do you have
-this great channel but you don't use
-certificates you have an entirely
-different mechanism which is
-browser-based sessions and cookies and
-all this other stuff to identify the
-other party you log in you present some
-credentials and I think the same kind of
-phenomenon maybe is undermining some of
-the value of that protocol where it's
-it's going to be applied whether the
-protocol is written that way or not it's
-going to be applied just to identify
-things that have a permanent presence
-does it does it work for mobile phones
-that are changing IP addresses
-constantly and that are refreshing their
-software and all that other stuff I
-don't know enough to know maybe we can
-can you share a link with me or
-something and I'll go learn some more
-about it
-state channels are on my list of we're
-right here
-well state channels yeah the state
-channels are an example of this kind of
-thinking yeah I have one question
-concerning the etch chain protocols as I
-understood you you suggest we make small
-protocols and different apps but what
-when I want to glue them together
-because they together build higher-level
-protocols would I then try to make the
-glue in the blockchain so things that
-those protocols need store it there or
-would I define let's say super H J chain
-protocol
-well yeah protocols are one of those
-things that can be understood at there's
-there's lower level ones and higher
-level ones just like there's the OSI
-stack and so forth in networking and you
-can combine logical entities into bigger
-constructs to make higher-level
-protocols something that you said kind
-of gets at this slide that I skipped
-over one of the things that's different
-between DAPs and edge chain protocols is
-that edge chain protocols there there's
-no set of apps that you have to have you
-just need to have software that is
-capable of playing all of the roles in
-your protocol and it could be written by
-ten different people and there could be
-ten different providers of one of the
-roles if you wanted right so think about
-like buying a house we don't have only
-one place that you go to get all the the
-actors in the buy a house protocol and
-yet DAPs are typically written where you
-write a DAP that implements the whole
-thing and so that's a little bit of a
-paradigm shift
-yeah yeah yeah
-theirs doesn't have to be implemented on
-server so it's not exactly micro
-services but it's like that in the sense
-that it's a bunch of little granular
-things hi thanks this was really
-interesting I was going to offer a bit
-of nitpicking for the megaphone protocol
-I think if you don't take in
-consideration economic pressure
-I think the protocol probably fall apart
-because some people will be in such
-situations that they'll be willing to
-trade what they consider their important
-identity to spam people nearby and
-there'll be markets that will probably
-show up saying hey if you can if you do
-this for us we'll give you some money
-and people might burn through their
-identity because they don't see the
-value of it or maybe they will try and
-stack up multiple identities as much as
-they can
-obviously we we would expect this the
-product or the system the overall
-underlying self sovereign identity
-system not to allow that but I think if
-you don't count factor in economic
-pressures especially for those of us who
-are very poor like you won't be able to
-expect some of the ways that the
-protocol will be manipulated
-that's good comment the the concept
-document includes the notion that
-megaphones have a volume and you can
-select the volume if you say look I'm
-tired and hungry and I'm a mom in an
-airport and I have a baby and I need to
-change the baby's diaper and I forgot a
-diaper that's not a life-threatening
-crisis so you don't need
-life-threatening volume and so there's
-probably different staking for different
-levels of volume but I think there's
-still you're right that there's
-potential for abuse which is maybe one
-of the reasons that nobody's been
-working on it yet
-okay well I think we should declare the
-the session over and I'll be up here if
-anybody wants to ask more questions a
-couple of you asked me questions that I
-want to get some more information about
-if you just come and talk to me that'd
-be great and thanks for your attention I
-appreciate it
+yeah so this is if I go back to let's see... the notion of anchoring something on a blockchain a number of people in industry are exploring different ways to do that and one of the things you could anchor on a blockchain is a micro ledger so if you needed to prove for example to a third party let's say Alice and Bob are interacting and it's it's a private personal relationship but let's say Bob doesn't fully trust Alice and maybe he's afraid that alice is gonna steal all of his cool music for his next album even because he's been sharing it with her so he goes and he anchors some things on the blockchain to provide evidence so that if anybody ever you know if there's ever an argument there's a third party that's a witness that kind of a thing and there's other kinds of use cases like that too 
+
+<b>hi so obviously it's a communication protocol so I'm wondering if there was any thoughts about communication recording or if it could be useful in any way I know there have been papers for TLS communication recording but obviously it's not easy to do at this point with TLS and HTTPS so is there any ideas about communication recording between the agents or da DS and how it could be possibly useful</b>
+
+so that's an interesting question I used to work at Blue Coat which makes a line of products actually blue coats been acquired by Symantec so if you look this up now online you're gonna have to look under Symantec but anyway blue coat makes a made a product called an SSL visibility appliance and what it is is a deliberately constructed man-in-the-middle attack on a TLS session so an enterprise does some fancy magic with certificates to make it so that when you inside the enterprise talk to somebody outside the enterprise that appliance catches the traffic and it man in the Middle's both of you neither side can tell that there's this thing in the middle and the whole point of it is make the TLS channel visible so that the enterprise can look for malware that's coming into the environment and stuff like that 
+
+so where I'm going with this is that same kind of technique could be used in agent to agent communication however you would have to get the consent of both ends of the conversation you don't have the ability like you do in an enterprise to simply say well every browser in our enterprise is going to accept this certificate authority therefore nobody's going to get any warnings when they click and and stuff like that so self sovereign identity technologies provide a protection against that kind of sniffing happening invisibly but it could be done and the other thing I was going to say is there's also a hype a proposal about message tracing this is cooperative voluntary message tracing where people are trying to troubleshoot a complex interaction and they say hey please tell me when you get this message and forward it on so that I can see what's happening parties don't have to follow it and but it's somewhat related to recording so I I guess I can only think of two those two comments about the recording concept maybe we can talk some more after Danny 
+
+I actually have a follow-up question and what what happened here so I'm sure you're familiar with signal in signal low using a double ratchet it's right in Triple D filmin and they create that end-to-end encryption so how does this really different when it comes to peer-to-peer and then just creating that encryption because you just mentioned that if you're going to man in the middle attack I'm quite familiar with what Bluecoat does I work at Symantec as well so you have access to the private key you are able to record a session and then you're able to replay it so basically acting as a proxy so how does this does not apply in this scenario because if I'm able to actually sit in between let's say I hold the network and then I compromise one of the parties then this is basically just a broken channel 
+
+well first of all indie communication there's a this has not been implemented but the hype has been accepted is adopting signals double ratchet algorithm so forward secrecy and so forth is a property of the communication channel the same way it would be with signal the did method spec that I talked about here one of the key characteristics that it has is that when you created did you must create it by deriving it from the public key of a key pair that exists and the reason that that requirement exists is because you don't want if you had it if you did well let me take you down a different path if if you started a D ID as just like let's say some UUID and then later you associated it with keys what could happen is you could start it and a person who's proactive and malicious could notice what your D ID is but you haven't asserted keys and jump in and create the kind of man in a middle situation that we're really worried about here but because DIDS require you to derive the thing from the key the the did value from the key there is no point in time where the creator of the did is vulnerable to the man in the middle attack that's only a partial answer to your question let's talk about it after yeah 
+
+I had yet another follow-up on this thread so the ietf has a existing internet standard called the host identity protocol and it does exactly the same thing the intention there is because right now in networks there's the IP address is the identity but this is not verifiable so they made this protocol with the intention that it existed to be compatible with the Internet's tcp/ip stack so there is no tie to and etherion network or a hyper ledger implementation it's just part of the general Internet can you give me some context as to why this is existing separate from that and we don't just use the host identity protocol existing on the internet already so that's a great question there's several different answers that are all kind of related that kind of add up the first thing is that this communication mechanism has to work on things besides the Internet so not everything has IP addresses and still we have to be able to communicate we certainly live in a highly IP centric world but there's plenty of use cases that are outside that the second thing is that like with certificates my understanding of the host identity technology is that it focuses on servers now of course it could be used for clients and stuff too but TLS in general even though it has the option of identifying both parties is almost a hundred percent used to identify only the server side of an interaction so when you want to identify the client side what do you do you have this great channel but you don't use certificates you have an entirely different mechanism which is browser-based sessions and cookies and all this other stuff to identify the other party you log in you present some credentials and I think the same kind of phenomenon maybe is undermining some of the value of that protocol where it's it's going to be applied whether the protocol is written that way or not it's going to be applied just to identify things that have a permanent presence does it does it work for mobile phones that are changing IP addresses constantly and that are refreshing their software and all that other stuff I don't know enough to know maybe we can can you share a link with me or something and I'll go learn some more about it state channels are on my list of we're right here well state channels yeah the state channels are an example of this kind of thinking yeah 
+
+I have one question concerning the etch chain protocols as I understood you you suggest we make small protocols and different apps but what when I want to glue them together because they together build higher-level protocols would I then try to make the glue in the blockchain so things that those protocols need store it there or would I define let's say super H J chain protocol well yeah protocols are one of those things that can be understood at there's there's lower level ones and higher level ones just like there's the OSI stack and so forth in networking and you can combine logical entities into bigger constructs to make higher-level protocols 
+
+something that you said kind of gets at this slide that I skipped over one of the things that's different between DAPs and edge chain protocols is that edge chain protocols there there's no set of apps that you have to have you just need to have software that is capable of playing all of the roles in your protocol and it could be written by ten different people and there could be ten different providers of one of the roles if you wanted right so think about like buying a house we don't have only one place that you go to get all the the actors in the buy a house protocol and yet DAPs are typically written where you write a DAP that implements the whole thing and so that's a little bit of a paradigm shift yeah yeah yeah theirs doesn't have to be implemented on server so it's not exactly micro services but it's like that in the sense that it's a bunch of little granular things hi thanks this was really interesting I was going to offer a bit of nitpicking for the megaphone protocol I think if you don't take in consideration economic pressure I think the protocol probably fall apart because some people will be in such situations that they'll be willing to trade what they consider their important identity to spam people nearby and there'll be markets that will probably show up saying hey if you can if you do this for us we'll give you some money and people might burn through their identity because they don't see the value of it or maybe they will try and stack up multiple identities as much as they can 
+
+obviously we we would expect this the product or the system the overall underlying self sovereign identity system not to allow that but I think if you don't count factor in economic pressures especially for those of us who are very poor like you won't be able to expect some of the ways that the protocol will be manipulated that's good comment the the concept document includes the notion that megaphones have a volume and you can select the volume if you say look I'm tired and hungry and I'm a mom in an airport and I have a baby and I need to change the baby's diaper and I forgot a diaper that's not a life-threatening crisis so you don't need life-threatening volume and so there's probably different staking for different levels of volume but I think there's still you're right that there's potential for abuse which is maybe one of the reasons that nobody's been working on it yet okay well I think we should declare the the session over and I'll be up here if anybody wants to ask more questions a couple of you asked me questions that I want to get some more information about if you just come and talk to me that'd be great and thanks for your attention I appreciate it
+
 

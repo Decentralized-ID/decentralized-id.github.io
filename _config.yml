@@ -54,12 +54,12 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
-search_provider          : lunr # (default), algolia, google
+search_provider          : algolia #  lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : Q7H7K9X8DV
+  index_name             : didecentral
+  search_only_api_key    : c02bbc81162fc9aaaf03cd6573962a94 # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
