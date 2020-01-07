@@ -2,6 +2,7 @@
 date: 2019-03-11
 title: Identity Articles, Research and Literature
 layout: single
+excerpt: A selection of DID literature and top level resources for discovery of more.
 permalink: literature/
 canonical_url: 'https://decentralized-id.com/literature'
 redirect_from: literature
@@ -55,7 +56,7 @@ last_modified_at: 2019-07-11
 ## Bundlesblok Position Paper
 
 * [A position paper on blockchain enabled identity and the road ahead](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)—Identity Working Group of the German Blockchain Association [[**ϟ**](https://www.bundesblock.de/2018/10/23/position-paper-self-sovereign-identity/)]
-  >### Appendix VII – Pilot Projects and Proof of Concepts
+  >**_Appendix VII – Pilot Projects and Proof of Concepts_**
   >
   >The provided list of pilot projects and proof of concepts is only preliminary, as the number of projects grows quickly.
   >
