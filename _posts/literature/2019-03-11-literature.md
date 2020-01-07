@@ -2,12 +2,15 @@
 date: 2019-03-11
 title: Identity Articles, Research and Literature
 layout: single
-excerpt: A selection of DID literature and top level resources for discovery of more.
-permalink: literature/
-canonical_url: 'https://decentralized-id.com/literature'
-redirect_from: literature
+description: A selection of DID related literature and top level resources for discovery of more.
+excerpt: A selection of DID related literature and top level resources for discovery of more.
+header: 
+  image: /images/literature-christian-wiediger-unsplash.jpg
 categories: ["Literature"]
 tags: ["DPKI","Rebooting WoT","Self Sovereign Identity","WEF","ID2020"]
+redirect_from: literature
+permalink: literature/
+canonical_url: 'https://decentralized-id.com/literature'
 last_modified_at: 2019-07-11
 ---
 
@@ -37,6 +40,11 @@ last_modified_at: 2019-07-11
 * [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
 * [OIX White Paper: Trust Frameworks for Identity Systems](https://www.oixnet.org/news-whitepaper/)
 * [WEF The Known Traveller Digital Identity Concept](http://www3.weforum.org/docs/WEF_The_Known_Traveller_Digital_Identity_Concept.pdf)
+* [Analysis and Evaluation of Blockchain-based Self-Sovereign Identity Systems](https://wwwmatthes.in.tum.de/pages/hhh5oin2o5sw/Master-s-Thesis-Martin-Schaeffner)
+  > The components of SSI will be described in detail, evaluated, and visualized in a components architecture. These include standards like decentralized identifiers (DIDs), verifiable credentials (VCs), and verifiable presentations (VPs). Further, the concepts of a decentralized public key infrastructure (DPKI) and a decentralized key management system (DKMS) are introduced. Additionally, this thesis deals in detail with the trust infrastructure of SSI.
+  > 
+  > Additionally, this thesis focuses on SSI systems and their underlying DID methods. To provide an overview of existing identity systems, the SSI ecosystem is analyzed on its currently existing DID methods. Based on the presented DID methods, representative DID methods are selected and examined for further analysis and evaluation of the system. To analyze the DID methods and their systems, criteria are defined to emphasize the differences of each DID method. The results from the analysis are then used for evaluating the DID methods.
+
 
 ## Reports
 * [EU BLOCKCHAIN OBSERVATORY AND FORUM — Workshop Report — e-Identity, Brussels, November 7, 2018](https://www.eublockchainforum.eu/sites/default/files/reports/workshop_5_report_-_e-identity.pdf)
