@@ -5,13 +5,15 @@ excerpt: >
   Blockcerts is an open standard for building apps that issue and verify blockchain-based official records. These may include certificates for civic records, academic credentials, professional licenses, workforce development, and more.
 
   Blockcerts consists of open-source libraries, tools, and mobile apps enabling a decentralized, standards-based, recipient-centric ecosystem, enabling trustless verification through blockchain technologies.
+header:
+  image: /images/blockcerts-header.png
 permalink: /blockchain/bitcoin/blockcerts/
 categories: ["Blockchain"]
 tags: ["Bitcoin","Learning Machine"]
 ---
 
 * [Learning Machine](https://www.learningmachine.com/)
-  * [Blockcerts](https://www.blockcerts.org/) - [Forum](http://community.blockcerts.org/) - [Github](https://github.com/blockchain-certificates)
+  * [Blockcerts](https://www.blockcerts.org/) - [Forum](http://community.blockcerts.org/) - [Github](https://github.com/blockchain-certificates) - [Twitter](https://twitter.com/blockcerts)
     > open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
 * [Introduction](https://www.blockcerts.org/guide/)
   > Blockcerts is an open standard for building apps that issue and verify blockchain-based official records. These may include certificates for civic records, academic credentials, professional licenses, workforce development, and more.
@@ -20,7 +22,7 @@ tags: ["Bitcoin","Learning Machine"]
   > 
   > Blockcerts uses and encourages consolidation on open standards. Blockcerts is committed to self-sovereign identity of all participants, and enabling recipient control of their claims through easy-to-use tools such as the certificate wallet (mobile app). Blockcerts is also committed to availability of credentials, without single points of failure.
 
-![](/images/blockcerts.jpg)
+![](/images/blockcerts.png)
 
 * [Academic Credentialing and the Blockchain](https://www.learningmachine.com/academic-credentialing-blockchain/)
 * [Blockcerts — An Open Infrastructure for Academic Credentials on the Blockchain](https://medium.com/mit-media-lab/blockcerts-an-open-infrastructure-for-academic-credentials-on-the-blockchain-899a6b880b2f)
@@ -42,6 +44,9 @@ tags: ["Bitcoin","Learning Machine"]
 * [Security analysis of a blockchain-based protocol forthe certification of academic credentials](https://arxiv.org/pdf/1910.04622.pdf) by Marco Baldi, Franco Chiaraluce, Migelan Kodra and Luca Spalazzi
   > Abstract—We consider a blockchain-based protocol forthe certification of academic credentials named Blockcerts,which is currently used worldwide for validating digitalcertificates of competence compliant with the Open Badgesstandard. We study the certification steps that are per-formed by the Blockcerts protocol to validate a certificate,and find that they are vulnerable to a certain typeof impersonation attacks. More in detail, authenticationof the issuing institution is performed by retrieving anunauthenticated issuer profile online, and comparing somedata reported there with those included in the issuedcertificate. We show that, by fabricating a fake issuerprofile and generating a suitably altered certificate, anattacker is able to impersonate a legitimate issuer andcan produce certificates that cannot be distinguished fromoriginals by the Blockcerts validation procedure. We alsopropose some possible countermeasures against an attackof this type, which require the use of a classic public keyinfrastructure or a decentralized identity system integratedwith the Blockcerts protocol.
 
+<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/rVC25i8FzeTPiw" width="510" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> </center>
+
+[Blockcerts: The Open Standard for Blockchain Credentials](https://www.slideshare.net/SSIMeetup/blockcerts-the-open-standard-for-blockchain-credentials) - [SSI-Meetup – Webinar 39](https://ssimeetup.org/blockcerts-open-standard-blockchain-credentials-daniel-paramo-anthony-ronning-webinar-39/)
 
 ## Adoption
 
