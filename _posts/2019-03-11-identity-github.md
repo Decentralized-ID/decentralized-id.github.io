@@ -13,7 +13,7 @@ redirect_from:
 toc_sticky: false
 categories: ["Code","Specs-Standards"]
 tags: ["ID2020","Danube","W3C","XDI","OASIS","Digital Bazaar","Rebooting WoT","JSON-LD","
-Credentials Community Group","RDF","Veres One"]
+Credentials Community Group","RDF","Veres One","Learning Machine"]
 last_modified_at: 2019-03-15
 ---
 
