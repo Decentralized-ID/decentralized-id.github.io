@@ -4,7 +4,14 @@
 
 .archive {
   margin-top: 1em;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
+  
+  blockquote
+  p,
+  li,
+  dl {
+    font-size: 0.85em;
+  }
 
   @include breakpoint($large) {
     float: right;
@@ -61,6 +68,7 @@
     margin-top: 1em;
     border-bottom: none;
   }
+
 }
 
 .archive__item-excerpt {
@@ -120,7 +128,7 @@
 .list__item {
   .page__meta {
     margin: 0 0 2px;
-    font-size: 0.6em;
+    font-size: 0.7em;
     border-bottom: none;
   }
 }
