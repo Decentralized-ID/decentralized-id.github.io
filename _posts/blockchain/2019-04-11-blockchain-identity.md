@@ -1,6 +1,7 @@
 ---
 date: 2019-04-11
-title: Assorted Blockchain Identity Initiatives
+title: Blockchain Identity
+description: "Why Blockchain for Identity? + Assorted Blockchain ID Initiatives"
 layout: single
 classes: wide
 permalink: /blockchain/

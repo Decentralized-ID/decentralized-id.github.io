@@ -1,4 +1,5 @@
 ---
+date: 2020-01-07
 title: Blockcerts
 description: "Open Standard for Blockchain Certificates"
 excerpt: >
@@ -10,6 +11,7 @@ header:
 permalink: /blockchain/bitcoin/blockcerts/
 categories: ["Blockchain"]
 tags: ["Bitcoin","Learning Machine"]
+last_modified_at:  2020-01-07
 ---
 
 * [Learning Machine](https://www.learningmachine.com/)
