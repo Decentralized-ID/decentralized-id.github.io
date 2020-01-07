@@ -80,6 +80,8 @@ didnav:
         url: "/blockchain/"
       - title: "• Bitcoin"
         url: "/blockchain/bitcoin/" 
+      - title: "• Blockcerts"
+        url: "/blockchain/bitcoin/blockcerts/" 
       - title: "• Ethereum"
         url: "/blockchain/ethereum/" 
       - title: "• uPort"
