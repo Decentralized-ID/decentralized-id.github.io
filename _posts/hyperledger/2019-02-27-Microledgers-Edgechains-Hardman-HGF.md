@@ -2,6 +2,7 @@
 date: 2019-02-27
 title: Microledgers and Edge-Chains - A Primer 
 description: A Transcript of Daniel Hardman of Evernym Presenting at Hyperledger Global Forum — 2018
+excerpt: "Evernym’s Chief Architect Daniel Hardman takes the Hyperledger community through Evernym’s work on Microledgers and Edge-Chains Architecture. Attendees will gain insight into the theory, applications and evolution in Hyperledger Indy along with a practical discussion of their potential."
 image: "https://i.imgur.com/qbVl47T.png"
 canonical_url: 'https://decentralized-id.com/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/'
 redirect_from:

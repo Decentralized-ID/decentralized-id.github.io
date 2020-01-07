@@ -1,6 +1,12 @@
 ---
 date: 2018-12-21
 title       : "Self Sovereign Identity (SSI)"
+excerpt: >
+  Christopher did a great job outlining the history of internet identity standards, and introduces 10 Principles of Self-Sovereign Identity, currently in revision.
+  
+  However, considerable additional material has been created on the subject since then, including some helpful criticism on the principles. 
+  
+  Resultingly, I've begun collecting as much source grade material on Self Sovereign Identity, as possible, organizing it here. 
 description : Literature associated with the Fundamentals of Self-Sovereign Identity.
 image       : "https://decentralized-id.com/images/sovereign-identity.png"
 permalink: /literature/self-sovereign-identity/
@@ -17,7 +23,7 @@ published: true
 
 <center><img src="https://decentralized-id.com/images/sovereign-id-wide.png"/></center>
 
-This directory was born from [WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), the original SSI repository. 
+This directory was born from [WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), *the original* SSI repository. 
 
 In my opinion, the best overall article on the subject is still Christopher Allen's [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md). Christopher did a great job outlining the history of internet identity standards, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), currently in revision. 
 

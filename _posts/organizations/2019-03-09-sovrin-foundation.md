@@ -1,6 +1,8 @@
 ---
 date: 2019-03-09
 title: The Sovrin Foundation
+description: The Sovrin Foundation is a private-sector, international non-profit that was established to govern the world's first self-sovereign identity (SSI) network.
+excerpt: The Sovrin Foundation is a private-sector, international non-profit that was established to govern the world's first self-sovereign identity (SSI) network.
 layout: single
 classes: wide
 toc: false
@@ -21,8 +23,8 @@ last_modified_at: 2019-07-13
 
 
 * [[**F**](https://forum.sovrin.org/)]orum • [[**C**](https://chat.sovrin.org/)]hat • [[**T**](https://twitter.com/SovrinID)]witter • [[**G**](https://github.com/sovrin-foundation/sovrin)]ithub • [[**tele**](https://t.me/sovrin_foundation)]gram • [[**web**](https://sovrin.org/)]site
-* [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016, The [Sovrin](https://sovrin.org/)
- Foundation is creating a public instance of the Sovrin\Indy codebase; initially developed by [Evernym](#Evernym)
+* [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) LONDON, Sept. 29, 2016 /PRNewswire-USNewswire/ -- Evernym, Inc. announced today at the Ctrl-Shift Personal Information Economy conference that it has donated the intellectual property for the Sovrin Identity Network—the world's first and only dedicated self-sovereign identity platform—to a newly-formed nonprofit organization. The Sovrin Foundation, which is run by a group of internationally recognized identity experts, has a mission to empower everyone with a digital identity which they fully own and control.
+
 * [Sovrin Library](https://sovrin.org/library/)
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
 * [Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust](https://sovrin.org/wp-content/uploads/Sovrin-Protocol-and-Token-White-Paper.pdf)

@@ -3,6 +3,8 @@ date: 2018-12-13
 layout: single
 title: "Hyperledger Indy Resources" 
 description: "A growing collection of educational resources related to Hyperledger Indy, the Sovrin Foundation, and Evernym."
+excerpt: >
+  Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo. Indy is interoperable with other blockchains or can be used standalone powering the decentralization of identity.
 header:
   image: "https://decentralized-id.com/images/evernym-indy-sovrin.png"
   caption: "[OdysseyHackathon-21st Century Digital Citizenship Presentation](https://www.slideshare.net/OdysseyHackathon/21st-century-digital-citizenship-presentation)"
@@ -32,11 +34,6 @@ categories: ["Sovrin Foundation","Hyperledger Foundation"]
 This page contains a growing collection of educational resources related to Hyperledger Indy, the Sovrin Foundation, and Evernym. 
 
 Its an index for all to more easily navigate the information surrounding Hyperledger Indy.
- 
-
-**Legend:** [[**T**](#Link-Shorthand)]witter • [[**G**](#Link-Shorthand)]ithub • [[**B**](#Link-Shorthand)]log • [[**wp**](#Link-Shorthand)] whitepaper • [[**D**](#Link-Shorthand)]ocumentation • [[**F**](#Link-Shorthand)]orums • [[**C**](#Link-Shorthand)]hat • [[**tele**](Link-Shorthand)]gram • [[**web**](Link-Shorthand)]site
-• [[**ϟ**](#Link-Shorthand)] related resource • [[**>**](#Link-Shorthand)] related section • [[**>>**]()] related section on awesome-decentralized-id • [[**^**](#Link-Shorthand)] back to the contents. 
-
 
 {% include figure image_path="https://decentralized-id.com/images/private-public-permissioned-permissionless.png" alt="this is a placeholder image" caption="@Delpadschnick | [CryptoDesign.io](https://CryptoDesign.io)" %}
 

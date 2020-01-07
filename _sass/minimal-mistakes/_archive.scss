@@ -6,11 +6,11 @@
   margin-top: 1em;
   margin-bottom: 1em;
   
-  blockquote
+  blockquote,
   p,
   li,
   dl {
-    font-size: 0.85em;
+    font-size: 0.9em;
   }
 
   @include breakpoint($large) {

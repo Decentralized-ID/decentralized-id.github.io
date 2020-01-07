@@ -1,22 +1,16 @@
 ---
 date: 2019-03-06
 title: DID-SSI Organizations
+excerpt: Assorted Humanitarian Organizations
 layout: single
 permalink: organizations/
 canonical_url: 'https://decentralized-id.com/organizations/'
 redirect_from: organizations
 categories: ["Organizations"]
 tags: ["Index"]
-last_modified_at: 2019-07-11
+last_modified_at: 2019-03-11
 ---
 
-work in progress....
-
-
-  * [Decentralized Identity Foundation—DIF](identity-foundation/) >>
-  * [My Data](mydata/) >>
-  * [Sovrin Foundation](sovrin-foundation/) >>
-  * [SSI Meetup](ssi-meetup/) >>
 
 ## Humanitarian
 

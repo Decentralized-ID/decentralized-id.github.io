@@ -1,6 +1,8 @@
 ---
 date: 2019-03-06
 title: Hyperledger Global Forum-2018
+excerpt: >
+  "SAN FRANCISCO AND BASEL, SWITZERLAND – (December 12, 2018) – Hyperledger, an open source collaborative effort created to advance cross-industry blockchain technologies, today kicked off the first day of its Hyperledger Global Forum. The event has drawn more than 650 attendees from as far as Australia and Argentina for an extended conversation about the state of open source enterprise blockchain and vision for the Hyperledger community and technologies."
 layout: single
 classes: wide
 toc: false
