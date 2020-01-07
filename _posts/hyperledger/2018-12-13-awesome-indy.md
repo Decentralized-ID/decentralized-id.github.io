@@ -154,5 +154,5 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [indy.readthedocs.io](https://indy.readthedocs.io)
 * [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**SS**](https://www.slideshare.net/SSIMeetup/presentations/)] 
 * [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
-* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
-* [/awesome-decentralized-id](https://github.com/didecentral/didecentral.github.io)
+* [WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
+* [awesome-decentralized-id](https://github.com/didecentral/didecentral.github.io)

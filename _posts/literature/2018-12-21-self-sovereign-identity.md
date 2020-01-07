@@ -17,7 +17,7 @@ published: true
 
 <center><img src="https://decentralized-id.com/images/sovereign-id-wide.png"/></center>
 
-This directory was born from [/WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), the original SSI repository. 
+This directory was born from [WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), the original SSI repository. 
 
 In my opinion, the best overall article on the subject is still Christopher Allen's [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md). Christopher did a great job outlining the history of internet identity standards, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), currently in revision. 
 
