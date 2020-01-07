@@ -3,4 +3,4 @@ Gemfile.lock.tmp
 Rakefile
 _config.bak
 _site/
-
+_algolia_api_key
