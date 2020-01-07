@@ -3,6 +3,7 @@ date: 2019-03-11
 layout: single
 title: SSI-DID Github Repositories
 description: "A start at listing all DID-SSI related GitHub Repositories."
+excerpt: "A start at listing all DID-SSI related GitHub Repositories."
 permalink: /code/github/
 canonical_url: 'https://decentralized-id.com/identity-github/'
 redirect_from: 
@@ -13,7 +14,7 @@ redirect_from:
 toc_sticky: false
 categories: ["Code","Specs-Standards"]
 tags: ["ID2020","Danube","W3C","XDI","OASIS","Digital Bazaar","Rebooting WoT","JSON-LD","
-Credentials Community Group","RDF","Veres One","Learning Machine"]
+Credentials Community Group","RDF","Veres One","Learning Machine","BTCR"]
 last_modified_at: 2019-03-15
 ---
 

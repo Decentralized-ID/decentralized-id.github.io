@@ -2,6 +2,10 @@
 date: 2019-01-28
 title: Verifiable Organizations Network - A Production Government Deployment of Hyperledger Indy
 description: Transcript of Presentation by John Jordan and Stephen Curran at HGF 2018
+excerpt: > 
+  VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON.
+  
+  VON's founders have delivered new Indy-based open source components which form VON's backbone. TheOrgBook is a publicly accessible repository of verifiable claims about organizations. VON-X enables services to verify and issue credentials.  
 image: "https://infominer.xyz/transcripts/assets/img/OrgBook-Hyperledger-Indy-Case-Study.png"
 canonical_url: 'https://sourcecrypto.pub/transcripts/VON-Presentation-Jordan-Curran-HGF/'
 redirect_from: 

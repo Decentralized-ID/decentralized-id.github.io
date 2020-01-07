@@ -1,14 +1,16 @@
 ---
 date: 2019-04-01
-title:  SSI-Meetup
 layout: single
-permalink: organizations/ssi-meetup/
-canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/'
-redirect_from: organizations/ssi-meetup
+title:  SSI-Meetup
+excerpt: >
+  SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. Our main mission is to help you connect with other SSI enthusiasts and create a dynamic, local, yet globally connected community.
+toc_sticky: false
 categories: ["Multi-Media"]
 tags: ["SSI-Meetup","GDPR"]
+canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/'
+redirect_from: organizations/ssi-meetup
+permalink: organizations/ssi-meetup/
 last_modified_at: 2019-07-20
-toc_sticky: false
 ---
 
 

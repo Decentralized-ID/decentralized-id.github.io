@@ -1,6 +1,10 @@
 ---
 date: 2018-12-18
 title: A Comparison Between SSI Principles, and Characteristics
+excerpt: >
+  'No disrespect to Christopher Allen’s opening to the conversation, The Path to Self Sovereign Identity ‐ Christopher Allen 2016 http://www.lifewithalacrity.com/2016/04/the‐path‐to‐self‐soverereign‐identity.html 
+  
+  It gets a lot right, but leaves a few requirements out, e.g., recoverability and zero cost, and conflates “identities” and claims in an ambiguous manner. Chris clearly intended the paper would start the conversation; it has done a good job at that.'
 layout: single
 classes: wide
 toc: false
@@ -25,7 +29,7 @@ In April of 2016, Christopher Allen published "[The Path to Self Sovereign Ident
 
 His article details the history of digital identity standards, and the user experience accompanying those standards. After describing from where we've come, Allen draws from leading thought on digital identity to compose the [Principles of Self Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md). 
 
-That October, [Joe Andrieu](https://github.com/jandrieu) submitted [A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) to the third Rebooting the Web of Trust Design Workshop.
+That October, [Joe Andrieu](https://github.com/jandrieu) submitted [A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/) to the third Rebooting the Web of Trust Design Workshop.
 
 >1 No disrespect to Christopher Allen’s opening to the conversation, The Path to Self Sovereign Identity [...] It gets a lot right, but leaves a few requirements out, e.g., recoverability and zero cost, and conflates “identities” and claims in an ambiguous manner.
 

@@ -2,6 +2,10 @@
 date: 2019-06-03
 title: "FreeNode IRC #indieweb-dev on IIW RWoT and DID's"
 description: "Conversation about RWoT and DIDs at #indieweb-dev on Freenode"
+excerpt: >
+  OAuth has become the de facto standard for authorization and authentication on the web. Nearly every company with an API used by third party developers has implemented OAuth to enable people to build apps on top of it.
+
+  While OAuth is a great framework for this, the way it has ended up being used is much more centralized and closed than prior efforts like OpenID 1. Every service that spins up an OAuth-enabled API ends up being its own isolated system. For example, if I want to build an app that can read someone's step count from FitBit, I have to first go register as a developer on FitBit's website in order to get API keys to use with their OAuth API
 date: "2019-06-03T11:22:33-23:00"
 categories: ["Specs-Standards"]
 tags: ["P2P", "IndieAuth","IndieWeb","Rebooting WoT", "IIW","DID"]

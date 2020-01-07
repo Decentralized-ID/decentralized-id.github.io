@@ -3,6 +3,8 @@ date: 2019-03-02
 layout: single
 title: Rebooting Web Of Trust - Papers and Advance Readings Index
 description: "A reasonably complete listing of #RebootingWebOfTrust Papers, Topics, and Advance Readings"
+excerpt: >
+  The Web of Trust. It’s the buzzword for a new model of decentralized identity. However, it’s also a phrase that dates back almost twenty-five years and has been heavily overloaded with meaning during that time. The classic definition of Web of Trust derives from PGP, but the top Google results refer to a website reputation rating system created by a Finnish internet company. Meanwhile, some use it as a big tent that includes identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the classic concept.
 header: 
   image: "/images/rebooting-web-of-trust.png"
 permalink: /literature/rebooting-web-of-trust/

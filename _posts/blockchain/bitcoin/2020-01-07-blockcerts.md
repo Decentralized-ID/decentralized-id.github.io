@@ -10,7 +10,7 @@ header:
   image: /images/blockcerts-header.png
 permalink: /blockchain/bitcoin/blockcerts/
 categories: ["Blockchain"]
-tags: ["Bitcoin","Learning Machine"]
+tags: ["Bitcoin","Learning Machine","BTCR"]
 last_modified_at:  2020-01-07
 ---
 
