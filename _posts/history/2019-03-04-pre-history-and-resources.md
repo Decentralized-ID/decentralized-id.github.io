@@ -1,8 +1,9 @@
 ---
 date: 2019-03-04
 layout: single
-title: "Pre-history and resources for further exploration."
+title: "Decentralized Identity. Pre-history + resources for further exploration."
 description: "As computers began to proliferate, concern grew over our lack of control over our personal information. Naturally arising through this concern, is to consider ways an individual might have ownership over their personal idenitifier that relates with our personal data."
+excerpt: "These pages are loosely categorized by year and era. The date ranges, are somewhat arbitrary and not perfectly adhered to, and the headings are not perfect descriptors of those date ranges. Rather those are some major themes occuring within that time period."
 permalink: /history/
 cannonical_url: https://decentralized-id.com/history/
 categories: ["History"]
