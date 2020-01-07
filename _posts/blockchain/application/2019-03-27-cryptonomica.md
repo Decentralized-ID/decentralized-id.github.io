@@ -1,6 +1,13 @@
 ---
 date: 2019-03-27
 title: Cryptonomica
+description: Cryptonomica.net is an identity verification service based on OpenPGP and Ethereum with legal framework and online dispute resolution for electronic contracts from London-based court of arbitration
+excerpt: >
+  Users have been willing to accept certificates and check their validity manually or to simply accept them. No satisfactory solution has been found for the underlying problem
+
+  We offer exactly the solution for this problem that is mentioned in Wikipedia as not yet found. We deny automatic key check, we are offering the user to check and download each key manually.
+
+  We make verification of key owner's identity and store data about this verification: who, when, using which document made verification. And unlike in 'Web of trust' there is an established procedure for key verification, i.e. known rules according to witch identity of the key owner have to be proven.
 layout: single
 classes: wide
 toc: false

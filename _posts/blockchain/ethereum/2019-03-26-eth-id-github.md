@@ -1,6 +1,8 @@
 ---
 date: 2019-03-26
 title: Ethereum Decentralized-Identity Github Repositories
+description: Github Repositories for projects related to Ethereum Based Decentralized Identity.
+excerpt: A listing of Github Repositories for projects related to Ethereum Based Decentralized Identity.
 layout: single
 permalink: ethereum/id-github/
 canonical_url: 'https://decentralized-id.com/ethereum/id-github/'
