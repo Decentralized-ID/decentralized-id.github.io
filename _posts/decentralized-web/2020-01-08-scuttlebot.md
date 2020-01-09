@@ -16,6 +16,8 @@ tags: ["Scuttlebot"]
   > * [Dynamo: Amazon’s Highly Available Key-value Store Giuseppe DeCandia, Deniz Hastorun, Madan Jampani, Gunavardhan Kakulapati, Avinash Lakshman, Alex Pilchin, Swaminathan Sivasubramanian, Peter Vosshall and Werner Vogels](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
   > * [The Nomad Who’s Exploding the Internet Into Pieces](https://www.theatlantic.com/technology/archive/2017/05/meet-the-counterantidisintermediationists/527553/)
 
+
+
 [Announcing: SSB Rooms](https://www.manyver.se/blog/announcing-ssb-rooms) - [news.ycombinator.com](https://news.ycombinator.com/item?id=20828356)
   > Today I'm launching something I've been working on since May to help improve the Secure Scuttlebutt (SSB) ecosystem with a new type of server: SSB Rooms. As an alternative or complement to pub servers, rooms are servers intended as meeting places where peers come to discover others and establish network connections with each other.
 
