@@ -1,46 +1,92 @@
 ---
-title: Secure Scuttlebot
-excerpt: 'a gossip protocol that synchronises messages via a vector clock of per-node timestamps or sequences. Dominic got this name from an amazon paper "Efficient Reconciliation and Flow Control for Anti-Entropy Protocols". This is the original scuttlebutt module which should now be known as "insecure scuttlebutt".'
+title: Secure Scuttlebutt
+description: Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds.
+excerpt: >
+  Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds.
+
+  "Unforgeable" means that only the owner of a feed can update that feed, as enforced by digital signing (see Security properties). This property makes Secure Scuttlebutt useful for peer-to-peer applications. Secure Scuttlebutt also makes it easy to encrypt messages.
 permalink: /decentralized-web/scuttlebot/
 categories: ["Decentralized Web"]
-tags: ["Scuttlebot"]
+tags: ["Scuttlebot", "P2P"]
+header: 
+  image: /images/scuttlebutt-header.png
+  caption: "[In the Mesh: Scuttlebutt, A Decentralized Social Platform](https://www.inthemesh.com/archive/secure-scuttlebutt-facebook-alternative/)"
+last_modified_at: 2020-01-09
 ---
 
+## Secure Scuttlebutt
 
-[Scuttlebot.io](https://scuttlebot.io/)
-[Design Challenge: Avoid Centralization and Singletons](https://scuttlebot.io/more/articles/design-challenge-avoid-centralization-and-singletons.html)
-  > SecureScuttlebutt goes out of it's way to avoid both centralization and singletons.
-  
-[‎Show Zero Knowledge, Ep Episode 81: P2P Messaging & Scuttlebutt with Dominic Tarr](https://podcasts.apple.com/us/podcast/zero-knowledge/id1326503043?i=1000441290356) - Jun 12, 2019
+* [Scuttlebutt social network](https://scuttlebutt.nz) - a decentralised platform
+
+* [Secure Scuttlebutt](https://scuttlebot.io/more/protocols/secure-scuttlebutt.html)  is a database protocol for unforgeable append-only message feeds.
+  > "Unforgeable" means that only the owner of a feed can update that feed, as enforced by digital signing (see Security properties). This property makes Secure Scuttlebutt useful for peer-to-peer applications. Secure Scuttlebutt also makes it easy to encrypt messages.
+  > 
+  > Scuttlebot forms a global cryptographic social network with its peers. Each user is identified by a public key, and publishes a log of signed messages, which other users follow socially.
+  > 
+  > Scuttlebot searches the P2P mesh for new messages and files from followed users and from FoaFs (friend of a friend's). The messages and files are stored locally, indefinitely, for applications to read.
+  > 
+  > **Identity**
+  > Users are identified by confirmations and signals in the social graph. This is known as a Web-of-Trust. There is no global registry of usernames. Instead, users name themselves, and share petnames for each other.
+  > 
+  > Discovery occurs by examining the social graph, or by out-of-band sharing. Applications can analyze the follow-graph, and look for "flag" messages, to determine who is trust-worthy in the network.
+* [Scuttlebot](https://scuttlebot.io/) - a peer-to-peer log store
+  > Scuttlebot is an open source peer-to-peer log store used as a database, identity provider, and messaging system. It features global replication, file-syncronization, and end-to-end encryption.
+* [ssbc.github.io/docs/](https://ssbc.github.io/docs/) - Get started with Scuttlebot and the Secure Scuttlebutt protocol
+  > Scuttlebot implemented by [ssb-server](http://ssbc.github.io/ssb-server/): a p2p log store
+  > Secure Scuttlebutt implemented by [ssb-db](http://ssbc.github.io/ssb-db/): a global database protocol
+  > [Patchwork](http://ssbc.github.io/patchwork/): a social messaging app built on ssb-server and ssb-db
+* [Secure-scuttlebutt vs scuttlebutt vs scuttlebot vs sbot?](https://www.scuttlebutt.nz/faq/basics/ssb-vs-scuttlebutt-vs-scuttlebot-vs-sbot) -  Explanation of terms, repos and project history
+  > - scuttlebutt: a gossip protocol that synchronises messages via a vector clock of per-node timestamps or sequences. Dominic got this name from an amazon paper "Efficient Reconciliation and Flow Control for Anti-Entropy Protocols". This is the original scuttlebutt module which should now be known as "insecure scuttlebutt". This repo is generally no longer used by the ssb community.
+  > - ssb-db: this is the database part of ssb. Previously this term referred to the protocol/database as a whole.
+  > - ssb-server: this repo adds networking behaviour to the database (secure-scuttlebutt).
+  > - sbot: short for scuttlebot, previously the CLI command name to control ssb-server. Now also named ssb-server.
+* [Manyverse](https://www.manyver.se) -  Mobile App
+  > Manyverse is a social network mobile app with features you would expect: posts, threads, likes, profiles, etc. But it's not running in the cloud owned by a company, instead, your friends' posts and all your social data live entirely in your phone. This way, even when you're offline, you can scroll, read anything, and even write posts and like content! When your phone is back online, it syncs the latest updates directly with your friends' phones, through a shared local Wi-Fi or on the internet.
+
+## Literature
+
+* [A collection of news articles and blogs about Scuttlebutt](https://scuttlebutt.nz/docs/media/)
+* [Design Challenge: Avoid Centralization and Singletons](https://scuttlebot.io/more/articles/design-challenge-avoid-centralization-and-singletons.html)
+    > The danger of centralization is obvious: it creates a single point of failure that can easily be attacked, or act as an attacker. And, it creates a monoculture of information, as the central point starts to control what information is trusted, or ranked highly.
+* [Design Challenge: Sybil Attacks](https://scuttlebot.io/more/articles/design-challenge-sybil-attack.html)
+    > If it is possible for an anyone to connect to a computer system then it may be possible to interfere with the operation of that system, and defenses against interference must be designed in.
+* [*Efficient Reconciliation and Flow Control for Anti-Entropy Protocols*](https://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf)
+  > The paper shows that anti-entropy protocols can process only a limited rate of updates, and proposes and evaluates a new state reconciliation mechanism as well as a flow control scheme for anti-entropy protocols.
+* [Announcing: SSB Rooms](https://www.manyver.se/blog/announcing-ssb-rooms) - [news.ycombinator.com](https://news.ycombinator.com/item?id=20828356)
+  > Today I'm launching something I've been working on since May to help improve the Secure Scuttlebutt (SSB) ecosystem with a new type of server: SSB Rooms. As an alternative or complement to pub servers, rooms are servers intended as meeting places where peers come to discover others and establish network connections with each other.
+* [Scuttlebutt - P2PFR](https://wiki.p2pfr.com/p2p/scuttlebutt)
+  > Scuttlebutt est un logiciel libre, développé pour assurer des fonctions utiles à un réseau social (type Facebook, Mastodon, Diaspora…). Nous n'en parlerions pas autrement, la communication entre chaque participant(e) au réseau se fait en pair-à-pair. rec
+* [Counter-Anti-Disintermediation](http://wiki.p2pfoundation.net/Counter-Anti-Disintermediation)
+* [The Nomad Who’s Exploding the Internet Into Pieces](https://www.theatlantic.com/technology/archive/2017/05/meet-the-counterantidisintermediationists/527553/) - Could decentralizing online life make it more compatible with human life?
+* [Scuttlebutt: an "off-grid" P2P social network that runs without servers and can fall back to sneakernet](https://boingboing.net/2017/04/07/bug-in-tech-for-antipreppers.html)
+* [Efficient Reconciliation and Flow Control for Anti-Entropy Protocols]
+  >The paper shows that anti-entropy protocols can process only a limited rate of updates, and proposes and evaluates a new state reconciliation mechanism as well as a flow control scheme for anti-entropy protocols. 
+* [Designing a Secret Handshake: Authenticated Key Exchange as a Capability System](https://dominictarr.github.io/secret-handshake-paper/shs.pdf)
+  > Capability Based Security is a conceptual framework for designing decentralized access control systems, yet there is no widely implemented protocol for establishing secure two-way communication that also forms a capability system. We examine the ways various key exchange protocols arn’t capability systems, and then present a secure key exchange protocol designed with capability systems in mind. In this protocol, the server’s public key forms an access capability. Using a preauthentication step, we authenticate the client before the server, but still accomplish mutual authentication within 4 passes. All long term keys are kept secret from any unauthenticated actors.
+
+## Podcasts
+
+* [‎Show Zero Knowledge, Ep Episode 81: P2P Messaging & Scuttlebutt with Dominic Tarr](https://podcasts.apple.com/us/podcast/zero-knowledge/id1326503043?i=1000441290356) - Jun 12, 2019
   > In this week’s episode, we meet with Dominic Tarr, a protocol designer and security auditor at Least Authority who works on Scuttlebutt - a decentralized secure gossip platform. We discuss P2P messaging and the challenges of sending messages within a p2p network in a truly decentralised manner.
   > * [Dynamo: Amazon’s Highly Available Key-value Store Giuseppe DeCandia, Deniz Hastorun, Madan Jampani, Gunavardhan Kakulapati, Avinash Lakshman, Alex Pilchin, Swaminathan Sivasubramanian, Peter Vosshall and Werner Vogels](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
   > * [The Nomad Who’s Exploding the Internet Into Pieces](https://www.theatlantic.com/technology/archive/2017/05/meet-the-counterantidisintermediationists/527553/)
-
-
-
-[Announcing: SSB Rooms](https://www.manyver.se/blog/announcing-ssb-rooms) - [news.ycombinator.com](https://news.ycombinator.com/item?id=20828356)
-  > Today I'm launching something I've been working on since May to help improve the Secure Scuttlebutt (SSB) ecosystem with a new type of server: SSB Rooms. As an alternative or complement to pub servers, rooms are servers intended as meeting places where peers come to discover others and establish network connections with each other.
-
-[Secure-scuttlebutt vs scuttlebutt vs scuttlebot vs sbot?](https://www.scuttlebutt.nz/faq/basics/ssb-vs-scuttlebutt-vs-scuttlebot-vs-sbot) -  Explanation of terms, repos and project history
-  > scuttlebutt: a gossip protocol that synchronises messages via a vector clock of per-node timestamps or sequences. Dominic got this name from an amazon paper "Efficient Reconciliation and Flow Control for Anti-Entropy Protocols". This is the original scuttlebutt module which should now be known as "insecure scuttlebutt". This repo is generally no longer used by the ssb community.
-  > 
-  > ssb-db: this is the database part of ssb. Previously this term referred to the protocol/database as a whole.
-  > 
-  > ssb-server: this repo adds networking behaviour to the database (secure-scuttlebutt).
-  > 
-  > sbot: short for scuttlebot, previously the CLI command name to control ssb-server. Now also named ssb-server.
-
-[*Efficient Reconciliation and Flow Control for Anti-Entropy Protocols*](https://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf)
-> The paper shows that anti-entropy protocols can process only a limited rate of updates, and proposes and evaluates a new state reconciliation mechanism as well as a flow control scheme for anti-entropy protocols.
+* [Libre Lounge - Episode 14: Secure Scuttlebutt with Joey Hess](https://librelounge.org/episodes/episode-14-secure-scuttlebutt-with-joey-hess.html)
+  > Libre Lounge comes to you with an interview from Libre Planet with Joey Hess discussing the Secure Scuttbutt project, a secure social network. The interview goes into detail about the protocol, differences between SSB and ActivityPub, and how Secure Scuttlebutt is a bit like Git.
+* [Epicenter - Secure Scuttlebutt – The “Localized” but Distributed Social Network](https://epicenter.tv/episode/290/) Dominic Tarr
+  > We’re joined by Dominic Tarr, a sailor, and the Founder of Secure Scuttlebutt. This curiously named project has a fascinating approach to creating a truly distributed social network. One might even say that Secure Scuttlebutt is “localized” as it gracefully degrades to Sneakernet, something few blockchain projects can claim. In actuality, the SSB protocol isn’t a blockchain in the traditional sense – each user’s feed acts as a sort of localized chain of posts, signed by their public key, and possibly encrypted for a friend’s key to decrypt. When users meet, the system syncs their local databases using a gossip protocol and replicates the data. Encrypted data is transported from peer, to peer, to peer (or friends of friends) until it reaches its intended recipient. User may also optionally rely on public servers to sync data over the internet.
+* [The Third Web #11 - Scuttlebutt & Cypherspace](https://soundcloud.com/arthurfalls/the-third-web-11-scuttlebutt-cypherspace)
+  > The first application has been a multi-client decentralized social media platform that is an absolute joy to use, and I encourage everyone to download my favourite desktop client, Patchwork, or Manyverse for Android. As an autonomous software system, like Bitcoin, Scuttlebutt rewards the provisioning of resources to support the network, only rather than a point system and money myth, Scuttlebutt offers something far more valuable, conversation. This mostly covers the origin of the protocol but I will definitely conduct more interviews with Dom and others close to the project, which is today one of the most impressive, and well used decentralized applications in existence.
 
 
 ## Secure Scuttlebutt Consortium - GitHub Repos
 
-[Secure Scuttlebutt Consortium](https://github.com/ssbc) - A distributed and secure peer to peer social network
+* [Secure Scuttlebutt Consortium](https://github.com/ssbc) - A distributed and secure peer to peer social network
 - [somebodyshould](https://github.com/ssbc/somebodyshould) - A repo of suggestions / issues / bugs / ideas / feedback for ssb
 - [.github](https://github.com/ssbc/.github)
 Settings for the SSBC GitHub organization.
 - [scuttlebot.io](https://github.com/ssbc/scuttlebot.io) - Source repo for [https://scuttlebot.io](https://scuttlebot.io/)
+
+Nearly all of these repositories have seen activity within the past year!
 
 ### Info
 
@@ -234,7 +280,7 @@ village-tracker community volunteer coordination project
 - [scuttlebutt-mars-workshop](https://github.com/ssbc/scuttlebutt-mars-workshop)
 - [scuttle-tag](https://github.com/ssbc/scuttle-tag)- Forked from [wittjosiah/scuttle-tag](https://github.com/wittjosiah/scuttle-tag)
 - [scuttle-poll](https://github.com/ssbc/scuttle-poll)
-[gathering](https://github.com/search?q=topic%3Agathering+org%3Assbc&type=Repositories)
+* [gathering](https://github.com/search?q=topic%3Agathering+org%3Assbc&type=Repositories)
 - [scuttle-inject](https://github.com/ssbc/scuttle-inject)
 - [scuttle-gathering](https://github.com/ssbc/scuttle-gathering)
 - [scuttle-blog](https://github.com/ssbc/scuttle-blog)
@@ -263,3 +309,5 @@ emoji middleware/server
 - [multiserver-address](https://github.com/ssbc/multiserver-address)
 - [level-sublevel](https://github.com/ssbc/level-sublevel)- Forked from [dominictarr/level-sublevel](https://github.com/dominictarr/level-sublevel) - no longer maintained, sorry!
 - [packet-stream-codec](https://github.com/ssbc/packet-stream-codec)
+
+
