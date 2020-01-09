@@ -23,7 +23,8 @@ last_modified_at: 2019-07-13
 
 
 * [[**F**](https://forum.sovrin.org/)]orum • [[**C**](https://chat.sovrin.org/)]hat • [[**T**](https://twitter.com/SovrinID)]witter • [[**G**](https://github.com/sovrin-foundation/sovrin)]ithub • [[**tele**](https://t.me/sovrin_foundation)]gram • [[**web**](https://sovrin.org/)]site
-* [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) LONDON, Sept. 29, 2016 /PRNewswire-USNewswire/ -- Evernym, Inc. announced today at the Ctrl-Shift Personal Information Economy conference that it has donated the intellectual property for the Sovrin Identity Network—the world's first and only dedicated self-sovereign identity platform—to a newly-formed nonprofit organization. The Sovrin Foundation, which is run by a group of internationally recognized identity experts, has a mission to empower everyone with a digital identity which they fully own and control.
+* [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 
+  > LONDON, Sept. 29, 2016 /PRNewswire-USNewswire/ -- Evernym, Inc. announced today at the Ctrl-Shift Personal Information Economy conference that it has donated the intellectual property for the Sovrin Identity Network—the world's first and only dedicated self-sovereign identity platform—to a newly-formed nonprofit organization. The Sovrin Foundation, which is run by a group of internationally recognized identity experts, has a mission to empower everyone with a digital identity which they fully own and control.
 
 * [Sovrin Library](https://sovrin.org/library/)
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
@@ -36,9 +37,14 @@ last_modified_at: 2019-07-13
   > The Sovrin Main Network experienced an outage lasting from Saturday 2018-12-08 until Tuesday 2018-12-11. This was our first significant outage of the network. This post describes the incident, how it was addressed, and what we are doing to prevent future incidents and improve our responses.
   * [Sovrin Status Twitter](https://twitter.com/sovrin_status)
 
+
+[Giving people the privacy protection they need in the coming decade](https://sovrin.org/gdpr-paper/)
+  > Sovrin Foundation makes the  case that self-sovereign identity is the most flexible system for handling data privacy as regulations are adopted in different jurisdictions and evolve to meet changing local needs over the next decade. The paper examines how GDPR applies to participants in a blockchain network and addresses recent guidance from EU regulators and the Commission Nationale de l’Informatique et des Libertés.
+  > * [Innovation Meets ComplianceData Privacy Regulation and Distributed Ledger Technology](https://sovrin.org/wp-content/uploads/GDPR-Paper_V1.pdf)
+
+
 [Self SSI](https://self-ssi.com/en/) - a solution developed by the [esatus AG](https://esatus.com/), an information security specialist with a strong focus on Identity & Access (I&A). In alignment with its mission «Enforcing Information Security» and being vendor neutral, esatus AG offers conceptual and implementation support across a wide range of solutions.
   > SeLF allows you to integrate the Self-Sovereign Identity into your infrastructure without modifying your legacy IT-applications, directories or management systems. SSI credential-based access rules (CrBAC) transform the new technology into authentication and authorization objects that can be synchronized and used by conventional technologies like SAML or LDAP.
-
 
 {% include video id="305420834" provider="vimeo" %}
 
