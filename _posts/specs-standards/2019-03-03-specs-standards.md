@@ -35,20 +35,11 @@ I will begin with a listing of standards bodies, organizations and open processe
 * [Me2B Alliance](https://www.me2balliance.org/repository.html)
 * [Ethereum Enterprise Alliance](https://entethalliance.org/participate/working-groups/)
   
-## contents
 
-* [XDI](#xdi)
-  * [OASIS XDI TC Technical Committee on GitHub](#oasis-xdi-tech-committee-on-github)
-* [W3C](#w3c)
-  * [DID the Decentralized Identifier](#did-the-decentralized-identifier)
-  * [Verifiable Claims](#verifiable-claims)
-* [Decentralized Key Managment DKMS](#decentralized-key-management-agents)
-* [DID Auth](#did-auth) 
-* [Ethereum ERC-EIP](#ethereum-erc-eip)
-  * [ERC725-735](#erc725-735)
-* [Blockcerts](#blockcerts)
-* [Schema](#schema)
-
+[Why Engage with Standards?](https://www.continuumloop.com/why-engage-with-standards/)
+  > too many people complain about problems but don’t step to Fix It!. There are certainly a lot of flawed standards – but they make interoperability possible – not perfect – but possible. If you haven’t used them then you have no right to complain that they are too complex, too simple (even in the same standard) or too domain specific – or any of the other rants and raves that go on.
+  > 
+  > If you’re willing to put up with a lot of work for incremental improvements then step up and join a standard. Whether that is a (relatively) fast moving standard group like OASIS (www.oasis-open.org) or a slower but more international group like ISO you will learn. You’ll also benefit from working with experts. These experts donate their time and are more than happy to provide ideas, guidance, and leadership.
 
 ## XDI
 
