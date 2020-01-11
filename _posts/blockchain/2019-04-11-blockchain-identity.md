@@ -21,6 +21,11 @@ JULY 9, 2019
   > If ledger isn’t used, then every issuer of a credential has to maintain infrastructure or contract service provider to respond to DID resolution & revocation requests. And, credential issuers would know when the credential  was used, impacting privacy.
 
 
+<iframe src="https://channel9.msdn.com/Shows/Blocktalk/Decentralized-Identity-and-Blockchain/player" width="640" height="360" allowFullScreen frameBorder="0" title="Decentralized Identity and Blockchain - Microsoft Channel 9 Video"></iframe>
+
+[Identity and Distributed Ledger - Today and Tomorrow - June 26 | Identiverse 2019](https://www.youtube.com/watch?v=l04AHP7kPPw)
+[Distributed Ledger Technologies, IAM, and the Truth in Things - June 27 | Identiverse 2019](https://www.youtube.com/watch?v=VV2rLgH9TUE) - Robert Brown
+[Decentralized Identity: Intersection of Identity and Distributed Ledger - June 25 | Identiverse 2019](https://www.youtube.com/watch?v=bjlnZyMTf1M) - Preeti Rastogi
 ## Blockpass
 
 <img src="https://imgur.com/mMZ4E2rl.png" />

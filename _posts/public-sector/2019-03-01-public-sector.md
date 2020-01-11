@@ -39,6 +39,10 @@ last_modified_at: 2019-03-01
 * [indy-ecosystem/VON.md](indy-ecosystem/VON.md)
 <a href="https://twitter.com/sboots/status/1070320318487584768"><img src="https://i.imgur.com/wdbN3Ld.png"/></a>
 
+[User-Centric Verifiable Digital Credentials](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
+  > The Treasury Board Secretariat of Canada (TBS) and Shared Services Canada (SSC) are seeking a standardized method to issue and rapidly verify portable digital credentials across many different contexts, thereby reducing human judgement error, increasing efficiency and ensuring digital credential veracity using cryptography.
+
+[USER AUTHENTICATION GUIDANCE FORINFORMATION TECHNOLOGY SYSTEMS](https://www.cse-cst.gc.ca/en/system/files/pdf_documents/itsp.30.031v3-eng_0.pdf)
 
 ## European Union
 ![](https://i.imgur.com/DuQXLhs.png)
