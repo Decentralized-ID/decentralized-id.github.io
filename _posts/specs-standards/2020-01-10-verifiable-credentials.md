@@ -3,7 +3,7 @@ title: Verifiable Credentials
 permalink: /specs-standards/verifiable-credentials/
 tags: ["W3C", "CCG","VC-WG"]
 categories: ["Specs-Standards"]
-last_modified_at: 2020-01-09
+last_modified_at: 2020-01-10
 ---
 
 [![IIW26 Primer On DIDs and VCs](/images/iiw-verifiable-credentials.png)](https://docs.google.com/presentation/d/1GMQy4rI093c_9zojwLRgp2r-fTscpDUSfX-wqwBk4j4/edit#slide=id.g3605fe1474_2_0)
@@ -37,24 +37,30 @@ Not all verifiable credentials are created the same. This post examines the cate
     > Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC)
 * [Full-text Search for Verifiable Credential Metadata on Distributed Ledgers](https://arxiv.org/abs/1909.02895)
 * [Blockstack and Verifiable Credentials - Paris P2P Festival](https://p2p.paris/gen/attADzQJ92rNIv6B3-Blockstack_and_Verifiable_Credentials_-_Paris_P2P_Festival_.pdf)
-* [Open Badges are Verifable Credentials](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/open-badges-are-verifiable-credentials.pdf)
-  > The Open Badges Specifcation is a vocabulary and set of protocols that describes credentials. The vocabulary can describe any achievement in terms of a common set of attributes and is most often used for educational or occupational credentials. At present in version 2.0, Open Badges defnes two verifcation methods: HostedBadge (requiring resources hosted on HTTP in specifc locations) and SignedBadge (using a JSON Web Signature, which references hosted Issuer Profle and CryptographicKey information).
-  > 
-  > The Blockcerts Open Badges Draft Extension introduced a verifcation method based on those used by Verifable Credentials for the specifc use case of blockchain-anchored credentials. This paper expands that work and proposes a new option that can reside alongside existing Open Badges verifcation methods.
-* [OPEN BADGES ON THE BLOCKCHAIN](https://draftin.com/documents/1138961?token=hQ5q0mCHizZum8-pkDFYUZr4YFYOWMN01BPT-5uX00hAaGxYOAlgAlhyenat76hjNpTCs-CMWPI38KWn_omp0Oc)
-  > This document gives an overview of the status, interesting companies and people regarding Verifiable Open Badges on the Blockchain. 
 * [Enabling Decentralised Identifiers and Verifiable Credentials for Constrained IoT Devices using OAuth-based Delegation](https://www.ndss-symposium.org/wp-content/uploads/diss2019_05_Lagutin_paper.pdf)
   > Abstract—Decentralised identifiers (DIDs) and verifiable credentials (VCs) are upcoming standards for self-sovereign privacypreserving identifiers and authorisation, respectively. This focus on privacy can help improve many services and open up new business models, but using DIDs and VCs directly on constrained IoT devices can be problematic due to the management and resource overhead. This paper presents an OAuth-based method to delegate the processing and access policy management to the Authorisation Server thus allowing also systems with constrained IoT devices to benefit from DIDs and VCs.
 * [W3C Verifiable Credentials - Kent Branch](https://www.bcs.org/events/2019/october/w3c-verifiable-credentials-kent-branch/) - [pdf](https://cdn.bcs.org/bcs-org-media/4653/kent-w3c-verifiable-credentials-031019.pdf)
   > The speaker will introduce the W3C Verifiable Credentials Data Model, which was published as a Proposed Recommendation in September 2019. Verifiable Credentials are the latest development in identity management and are fundamentally different from today's federated identity management systems such as SAML and OpenID Connect.
   > 
   > David will describe the VC ecosystem and data model. He will then describe the prototype implementation which was built with colleagues from the University of Toulouse. They built a prototype system, which uses Fast Identity Online (FIDO) for user authentication, meaning that usernames and passwords are no longer needed. A pilot application was tested with a small sample of NHS patients and the speaker will present the results of this trial.
-* [Workday Credentials & WayTo™ By Workday](https://credentials.workday.com/docs/overview/)
-  > An issuer is any entity that wishes to relinqiush and publicly attest to the veracity of data pertaining to a user. Public attestation comes in the form of a digital signature. When an issuer offers a credential to a user, Workday Credentials cryptographically signs the data in each credential with the issuer's private key before offering it to the user. The signing key's corresponding public key is written to a public ledger and is declared as belonging to the issuer, so that anyone can use that public key to verify the signature embedded in a user's digital credentials and establish trust in a credential's authenticity.
 * [IBM Verify Credentials](https://docs.info.verify-creds.com)
   > With IBM Verify Credentials and our alpha components, you can begin your journey of exploring the benefits of decentralized identity. We have provided an interactive experience centered around the challenge of proving your identity while opening a financial account. Additionally, we will walk you through the development of your first end-to-end decentralized identity solution.
 * [Verifiable credentials and libp2p](https://discuss.libp2p.io/t/verifiable-credentials-and-libp2p/206)
   > Hi - we’re looking into libp2p as a network stack for our application and exploring how we could integrate verifiable credentials (https://w3c.github.io/vc-data-model/ 2) infrastructure. A basic use case is that of a node being challenged to provide some specific credential to join the network. The bootstrap node handling the incoming connection should verify the credential with the issuer and complete the connection/bootstrap or terminate it.
+* [Open Badges are Verifable Credentials](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/open-badges-are-verifiable-credentials.pdf)
+  > The Open Badges Specifcation is a vocabulary and set of protocols that describes credentials. The vocabulary can describe any achievement in terms of a common set of attributes and is most often used for educational or occupational credentials. At present in version 2.0, Open Badges defnes two verifcation methods: HostedBadge (requiring resources hosted on HTTP in specifc locations) and SignedBadge (using a JSON Web Signature, which references hosted Issuer Profle and CryptographicKey information).
+  > 
+  > The Blockcerts Open Badges Draft Extension introduced a verifcation method based on those used by Verifable Credentials for the specifc use case of blockchain-anchored credentials. This paper expands that work and proposes a new option that can reside alongside existing Open Badges verifcation methods.
+* [OPEN BADGES ON THE BLOCKCHAIN](https://draftin.com/documents/1138961?token=hQ5q0mCHizZum8-pkDFYUZr4YFYOWMN01BPT-5uX00hAaGxYOAlgAlhyenat76hjNpTCs-CMWPI38KWn_omp0Oc)
+  > This document gives an overview of the status, interesting companies and people regarding Verifiable Open Badges on the Blockchain. 
+* [Addition of Proof Request/Response to a formal Verifiable Credentials specification](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/verifiable-credentials-proof-request.md)
+  > The W3C Verifiable Credentials (hereafter VC) specification does not currently outline how credential data should be requested by a Verifier. This document outlines the approach taken at Workday and proposes it as an addition or companion to the VC spec.
+  > 
+  > At RWoT we wish to present our approach in order to get community feedback and consensus. Workday recently announced our credentialing platform and will shortly begin to issue credentials within our market verticals. We fully intend to support the community standards around credentialing and therefore wish to drive consensus in the community on a simple, standard approach for requesting and sharing VCs between a holder and verifier.
+* [Workday Credentials & WayTo™ By Workday](https://credentials.workday.com/docs/overview/)
+  > An issuer is any entity that wishes to relinqiush and publicly attest to the veracity of data pertaining to a user. Public attestation comes in the form of a digital signature. When an issuer offers a credential to a user, Workday Credentials cryptographically signs the data in each credential with the issuer's private key before offering it to the user. The signing key's corresponding public key is written to a public ledger and is declared as belonging to the issuer, so that anyone can use that public key to verify the signature embedded in a user's digital credentials and establish trust in a credential's authenticity.
+
+
 
 ## Code
 
@@ -62,6 +68,10 @@ Not all verifiable credentials are created the same. This post examines the cate
   > This Javascript Library provides functionality around Verifiable Credentials (VC), a W3C standard. Enables Validators to issue, Credential Wallets to verify, filter and Requesters to verify credentials.
 * [EDCI-Data-Model](https://github.com/european-commission-europass/EDCI-Data-Model)
   > The European Commission is developing the Europass Digital Credentials Infrastructure (EDCI) – a set of tools, services and software to support the issuance of authentic, tamper-proof digital credentials (such as qualifications and other learning achievements) across Europe. The EDCI is being developed as part of ongoing work to implement the new Europass Framework for supporting transparency of skills and qualifications in Europe.
+* [gautamdhameja/substrate-verifiable-credentials](https://github.com/gautamdhameja/substrate-verifiable-credentials)
+  > A minimal Substrate runtime for verifiable credentials' issuance and verification.
+* [bcgov/TheOrgBook](https://github.com/bcgov/TheOrgBook)
+  > A public repository of verifiable claims about organizations. A key component of the Verifiable Organization Network.
 
 ## CCG
 

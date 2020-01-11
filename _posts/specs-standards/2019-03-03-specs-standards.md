@@ -41,24 +41,8 @@ I will begin with a listing of standards bodies, organizations and open processe
   > 
   > If you’re willing to put up with a lot of work for incremental improvements then step up and join a standard. Whether that is a (relatively) fast moving standard group like OASIS (www.oasis-open.org) or a slower but more international group like ISO you will learn. You’ll also benefit from working with experts. These experts donate their time and are more than happy to provide ideas, guidance, and leadership.
 
-## XDI
-
-* [**XDI**](xdi.html) **>>**
-
-The XNS Public Trust Organization was founded in July 2000, shortly after International Planetwork Conference. -[xdi.org - History](http://xdi.org/?page_id=13)
-  > to promote the concept of individuals owning their own digital identity and data based on a nascent technology being produced by two Technical Committees at OASIS: XRI (Extensible Resource Identifier) and XDI (Extensible Data Interchange).
-* [tutorial.xdi2.org](https://tutorial.xdi2.org)
-  > XDI is a technology for modeling, storing, and manipulating data.
-  >
-  > It fits into a similar category of technologies as JSON, XML and RDF, but also has a number of properties that distinguishes it.
-  >
-  > XDI is a graph-based data model. This means that all data is expressed using nodes and arcs in a graph. At a minimum, a graph consists of a single node, called the common root node.
-
-### OASIS XDI Tech Committee on Github
-* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-docbook">/OASIS-XDI-Technical-Committee/xdi-spec-docbook</a> - XDI Specifications (Docbook)
-* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-developers-guide">/OASIS-XDI-Technical-Committee/xdi-developers-guide</a> - XDI Developer's Guide
-* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-openoffice">/OASIS-XDI-Technical-Committee/xdi-spec-openoffice</a> - XDI Specifications (Open Office)
-* <a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-dita">/OASIS-XDI-Technical-Committee/xdi-spec-dita</a> - XDI Specifications (DITA)
+[Who Are the Identerati? | ForgeRock](https://www.forgerock.com/blog/who-are-the-identerati)
+  > You’re familiar with digital identity standards like OpenID Connect, OAuth, and User-Managed Access, fundamental elements of privacy and security on the internet. But have you ever wondered how they came to be? A lot of work on these protocols went on (and goes on) behind t...
 
 
 ## W3C

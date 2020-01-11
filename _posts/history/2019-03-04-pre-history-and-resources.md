@@ -87,7 +87,9 @@ Phil [Zimmerman creates PGP](https://www.philzimmermann.com/EN/essays/WhyIWroteP
   > Shared repositories for #RebootingWebOfTrust Design Workshops - Web of Trust Info
 * [The Evolution of Internet Identity](https://www.slideshare.net/prabathsiriwardena/the-evolution-of-internet-identity)
 * [A Brief History of Digital Identity](https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5)
-  > On April 10th, Mattereum hosted the third Internet of Agreements® (IoA) conference at the Google Campus in London, dedicated to the topic…
+  > Many histories of digital identity start at the advent of the Internet, but the construction of name spaces is much older.
+  >
+  > Identity in our social systems is less concerned with encapsulating the human and more about the act of naming. As Silicon Valley’s Jared Dunn says in a moment of sad wisdom, “a name is just a sound that somebody makes when they need you.” The purpose of these names (or numbers) is to prove the uniqueness of a particular individual, to ensure accountability, and to establish some trust between individuals and institutions, to provide points of reference for the framework of laws and other social contracts that run our society.
 * [Identity Management OSS Map](http://web.archive.org/web/20110207095948/docs.safehaus.org/display/HAUS/Id+OSS+Map) - web.archive.org
 * [Vendor List](http://identityaccessmanagement.blogspot.com/2005/05/vendor-list.html) - identityaccessmanagement.blogspot.com
   > Updated: November 12 2006 I am trying to come up with the list of vendors and associated products in the Identity and Access Management ar...
