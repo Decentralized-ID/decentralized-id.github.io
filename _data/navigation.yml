@@ -2,9 +2,11 @@
 main:
   - title: "Our Aim"
     url: "/aim/"
+  - title: Getting Started
+    url: /101/
   - title: "Posts by Tag"
     url: "/tags/"
-  - title: "Posts by Date"
+  - title: "Recent Posts"
     url: "/posts/"
   - title: "identitywoman/identity-commons"
     url: "https://github.com/identitywoman/identity-commons"
