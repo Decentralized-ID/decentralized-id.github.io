@@ -15,7 +15,7 @@ redirect_from:
   - /self-sovereign-identity
   - /self-sovereign-identity/
 categories: ["Literature"]
-tags: ["Self Sovereign Identity","Laws of Identity","eIDAS","GDPR"]
+tags: ["Self Sovereign Identity","Laws of Identity"]
 last_modified_at: 2019-07-10
 published: true
 
@@ -25,16 +25,16 @@ published: true
 
 This directory was born from [WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), *the original* SSI repository. 
 
-In my opinion, the best overall article on the subject is still Christopher Allen's [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md). Christopher did a great job outlining the history of internet identity standards, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), currently in revision. 
+It would seem that Christopher Allen's [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md) is still the most comprehensive article on the subject of Self Sovereign Identity. It outlines some of the underlying history, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), born from the collective thoughts on identity leading to it. 
 
-However, considerable additional material has been created on the subject since then, including some helpful criticism on the principles. Some of initial thoughts have been organized in [evolution-of-ssi](/literature/self-sovereign-identity/evolution-of-ssi/).
-
-Then I realized that I should make a more complete survey of the subject, if I want to be thorough. So now I'm collecting as much SSI info as I can, and organizing it here. Once I've completed a review of existing literature on the subject, I'll put it into a google shared doc to encourage further participation. 
+Considerable additional material has been created on the subject since then, including some helpful criticism on the principles. Some of initial thoughts have been organized in [evolution-of-ssi](/literature/self-sovereign-identity/evolution-of-ssi/).
 
 ![](https://i.imgur.com/S9uBk4k.png)
 [Self Sovereign Identity - An Unofficial Generic Icon](https://medium.com/@trbouma/self-sovereign-identity-an-unofficial-generic-icon-a5a6ab332cd7)
 
 ## SSI Documentation Components
+
+While none of this is authoritative, it's useful to keep in mind the philosophy an principles that have developed around creating next generation digital identification schemes. 
 
 * [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md) - The original article on Self-Sovereign Identity and the 10 Principles of Self-Sovereign Identity as published on 2016-04-25 in github and at [Life With Alacrity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) by [Christopher Allen](http://www.github.com/christophera) [[**ϟ**](https://www.coindesk.com/path-self-sovereign-identity/amp/)]
   * [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) - The Self-Sovereign Identity Principles, in progress of being revised.
@@ -46,45 +46,45 @@ Then I realized that I should make a more complete survey of the subject, if I w
 * [A Gentle Guide to Self Sovereign Identity](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/) has a section called "How would self-sovereign identity work for the user?" that could be [modularized](user-experience/).
 * [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md) (\*and your sister and your daughter and your best friend and your nephew) (SSI Use-Cases)
 * [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml)
+* [HIPE 0014-ssi-notation](https://github.com/hyperledger/indy-hipe/tree/master/text/0014-ssi-notation)
+* [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md) from Rebooting the web of trust, Spring 2018. 
+  > This document proposes the formation of a short-term team to develop consistent messaging for the Self-Sovereign Identity (SSI) market.
 
 ![](https://imgur.com/3zz62kpl.png)
 
 
-### Assorted
+### About SSI
 
-* [Identity and Digital Self-Sovereignty](https://medium.com/learning-machine-blog/identity-and-digital-self-sovereignty-1f3faab7d9e3#.3jcgvnbok) - Blog post by [Natalie Smolenski](https://medium.com/@nsmolenski)
-  * [Sovereignty in Historical Context for Self-Sovereign Identity – Natalie Smolenski – Webinar 18](http://ssimeetup.org/sovereignty-historical-context-self-sovereign-identity-natalie-smolenski-webinar-18/)
-* [SSI: A Roadmap for Adoption](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/a-roadmap-for-ssi.md) from Rebooting the web of trust, Spring 2018. 
-  > This document proposes the formation of a short-term team to develop consistent messaging for the Self-Sovereign Identity (SSI) market.
-* [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
-* [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
-* [IBM-Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
-* [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186) 
-* [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
-* [Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
-* [Deployment of a Blockchain-Based Self-Sovereign Identity - Delft](https://arxiv.org/pdf/1806.01926.pdf)
-* [The Nail Finds a Hammer: Self-Sovereign Identity, Design Principles, and Property Rights in the Developing World](https://www.newamerica.org/future-property-rights/reports/nail-finds-hammer/)
-* [GDPR - A reflection on the 'self-sovereign identity' and the Blockchain](https://www.linkedin.com/pulse/gdpr-reflection-self-sovereign-identity-blockchain-nicolas-ameye/)
-* [Self-Sovereign Privacy By Design](https://github.com/sovrin-foundation/protocol/blob/master/self_sovereign_privacy_by_design_v1.md)
-* [Is Self-Sovereign Identity the ultimate GDPR compliance tool? [1\3]](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-9d8110752f89) [[**2**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-40db94c1c437)] [[**3**](https://medium.com/evernym/is-self-sovereign-identity-ssi-the-ultimate-gdpr-compliance-tool-7296a3b07769)]
-* [Towards Self-Sovereign Identity using Blockchain Technology](https://essay.utwente.nl/71274/1/Baars_MA_BMS.pdf)
-* [Self-sovereign Identity –	Opportunities and Challenges for the Digital Revolution](https://arxiv.org/pdf/1712.01767.pdf)
-* [Decentralized Identity Trilemma](http://maciek.blog/DecentralizedIDentity-trilemma/)
-   >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
-* [Self Sovereign Identity and MyData](https://medium.com/@apoikola/self-sovereign-identity-and-mydata-e1f996a9451)
-* [HIPE 0014-ssi-notation](https://github.com/hyperledger/indy-hipe/tree/master/text/0014-ssi-notation)
-* [IIW - Past Workshops](https://internetidentityworkshop.com/past-workshops/)
+* [There’s A Facebook Alternative, It’s Called Self-Sovereign Identity](https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity) —coindesk
 * [Self Sovereign Identity -identitywoman.net](https://identitywoman.net/self-sovereign-identity/)
 * [Self Sovereign Identity going where no identity has gone before](https://www.brighttalk.com/webcast/16693/342423/self-sovereign-identity-going-where-no-identity-has-gone-before)
 * [LESS identity](https://medium.com/@trbouma/less-identity-65f65d87f56b)
 * [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md); Joe Andrieu describes identity terms in plain language, with regards to what function they serve.
+* [karimStekelenburg/awesome-self-sovereign-identity](https://github.com/karimStekelenburg/awesome-self-sovereign-identity)
+* [Identity and Digital Self-Sovereignty](https://medium.com/learning-machine-blog/identity-and-digital-self-sovereignty-1f3faab7d9e3#.3jcgvnbok) - Blog post by [Natalie Smolenski](https://medium.com/@nsmolenski)
+* [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
+* [IBM-Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
+* [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186) 
+* [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
+* [Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
+* [The Nail Finds a Hammer: Self-Sovereign Identity, Design Principles, and Property Rights in the Developing World](https://www.newamerica.org/future-property-rights/reports/nail-finds-hammer/)
+* [Self-Sovereign Privacy By Design](https://github.com/sovrin-foundation/protocol/blob/master/self_sovereign_privacy_by_design_v1.md)
+* [Self-sovereign Identity –	Opportunities and Challenges for the Digital Revolution](https://arxiv.org/pdf/1712.01767.pdf)
+* [Decentralized Identity Trilemma](http://maciek.blog/DecentralizedIDentity-trilemma/)
+   >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
+* [Self Sovereign Identity and MyData](https://medium.com/@apoikola/self-sovereign-identity-and-mydata-e1f996a9451)
+* [IIW - Past Workshops](https://internetidentityworkshop.com/past-workshops/)
 * [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
 * [A Brief Introduction to How SSI Infrastructure Can Integrate Digital Fiat Currency (DFC)](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20180718/Documents/D_Reed.pdf)
-* <a href="https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw"><img src="https://i.imgur.com/f3FlznM.png"/></a>
-* <a href="https://twitter.com/VitalikButerin/status/1072160446180810752"><img src="https://i.imgur.com/tNvN7vV.png"/></a>
-* [There’s A Facebook Alternative, It’s Called Self-Sovereign Identity](https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity) —coindesk
-* [A Universal Resolver for self-sovereign identifiers](https://medium.com/DecentralizedIDentity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c)
+* [![](https://i.imgur.com/tNvN7vV.png)](https://twitter.com/VitalikButerin/status/1072160446180810752)
 
+[![](https://i.imgur.com/f3FlznM.png)](https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw)
+
+[The Three Pillars of Self-Sovereign Identity](https://www.evernym.com/blog/the-three-pillars-of-self-sovereign-identity/)
+[Self-sovereign identity: 3 key questions](https://www.csoonline.com/article/3366261/self-sovereign-identity-3-key-questions.html)
+  > SSI is on the extreme end of the digital identity spectrum. Its focus is putting control back in the hands of you, the user. But SSI is not the only way to skin a cat.
+[Answering Questions about Self-Sovereign Identity](https://www.windley.com/archives/2019/07/answering_questions_about_self-sovereign_identity.shtml)
+  > Identity professionals continue to have questions about self-sovereign identity (SSI). In this post, I answer a few questions that Susan Morrow raised about the commercial viability, security, privacy, and desired user experience of SSI.
 
 #### Video
 
@@ -104,10 +104,6 @@ Then I realized that I should make a more complete survey of the subject, if I w
   * [Laws of Identity - Whitepaper](https://web.archive.org/web/20080814163727/http://www.identityblog.com/stories/2004/12/09/thelaws.html)
 *  [*What is Sovereign Source Authority?*](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) shows an early use of 'sovereign' in relation to our internet identities. The term "Self Sovereign Identity" started becoming widely used in 2014.[[**ϟ**](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)][[**ϟ**](https://hubculture.com/hubs/47/news/689/)]
 * [Sovrin Foundation Launches first dedicated Self Sovereign Identity Network](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 
-
-
-
-
 
 ### Resources
 

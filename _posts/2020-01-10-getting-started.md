@@ -1,6 +1,6 @@
 ---
-title: "Getting Started - 101"
-permalink: /101/
+title: "What is Decentralized Identity? + Digital ID Fundamentals."
+permalink: /getting-started/
 ---
 
 ![](https://i.imgur.com/9KpJRDr.png)
@@ -20,17 +20,24 @@ It's impossible to have a conversation about decentralized-id without discussing
 * <a href="https://sourcecrypto.pub/decentralized-web/">Decentralized web</a> and P2P technologists also lend strength to Decentralized Identity efforts.
 * Collectively arrived at solutions are trending towards congruence with the spirit of innovation, privacy concerns, and compliance within the global regulatory landscape.
 
-## Assorted 
-* [The Laws of Identity](http://www.windley.com/archives/2019/01/the_laws_of_identity.shtml)
-  > In 2005, Microsoft's Chief Identity Architect, Kim Cameron wrote an influential paper called The Laws of Identity (PDF). Kim had been talking about and formulating these laws in 2004 and throughout 2005. It's no coincidence that Internet Identity Workshop got started in 2005. Many people were talking about user-centric identity and developing ideas about how we might be able to create an identity layer for the Internet. Fifteen years later, we're still at it, but getting closer and closer all the time.
-  > 
+## Getting Started with Decentralized ID
+
+[The Laws of Identity](http://www.windley.com/archives/2019/01/the_laws_of_identity.shtml)
   > The Internet was created without any way to identify the people who used it. The Internet was a network of machines. Consequently, all the identity in Internet protocols is designed to identify machines and services. People used the Internet through some institution (their company or university) and were part of that institution's administrative identity system. This can still be seen in the format of email addresses that identify both recipient and sender as someone@someplace. As the Internet grew to include people who weren't formally associated with an institution, every Web site and service created their own administrative identity domains. The result is the fractured plethora of identifiers, policies, and user experiences that constitute digital identity in 2019.
-* [Difference Between Authentication and Authorization](https://techdifferences.com/difference-between-authentication-and-authorization.html)
-  > The identity of a person is assured by authentication. On the other hand, authorization checks the access list that the authenticated person has. In other words, the authorization includes the permissions that a person has given.
-* [Identity: The Elephant in the Enterprise Blockchain Room](https://hackernoon.com/identity-the-elephant-in-the-enterprise-blockchain-room-6f31ed8d4132)
+
+[Identity: The Elephant in the Enterprise Blockchain Room](https://hackernoon.com/identity-the-elephant-in-the-enterprise-blockchain-room-6f31ed8d4132)
   > The adoption of permissioned blockchain technologies in the enterprise is a road full of challenges. The so called Web3 stack based on decentralized ledgers is still fundamentally immature to enable sophisticated enterprise business processes. Among the building blocks missing from enterprise blockchain platforms, identity raises to the top of the list as one of the omnipresent challenges of this new generation of enterprise solutions. At Invector Labs, we are regularly faced with the challenges of enabling identity management capabilities in permissioned blockchain solutions. As a result, we have developed certain ideas of the key capabilities and models of an identity layer for enterprise blockchain solutions which I would like to outline in this article.
+
+[The Case for Decentralized Identity](https://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml)
+  > We cannot decentralize many interesting systems without also decentralizing the identity systems upon which they rely. We're finally in a position to create truly decentralized systems for digital identity.
+
+
+## Digital Identity Fundamentals
+
 * [What is Digital Identity?](https://medium.com/humanizing-the-singularity/what-is-digital-identity-c77983c03306)
   > The Sapir–Whorf Hypothesis, also known as the principle of linguistic relativity, posits that language constructs our reality and worldview. While the hypothesis has been contested over the years, language is unarguably fundamental to the models of the world we build in our heads — and in our systems.
+* [Difference Between Authentication and Authorization](https://techdifferences.com/difference-between-authentication-and-authorization.html)
+  > The identity of a person is assured by authentication. On the other hand, authorization checks the access list that the authenticated person has. In other words, the authorization includes the permissions that a person has given.
 * [IDPro Member Presentations - Identiverse 2019](https://idpro.org/member-present) - [playlist](https://www.youtube.com/playlist?list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf)
   * [2019 | Introduction to Identity Part 1 | Identiverse](https://www.youtube.com/watch?v=T5w1EXqMqR0&list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf&index=5&t=0s) -  [slideshare](https://www.slideshare.net/Identiverse/2019-introduction-to-identity-part-1-identiverse-day-1-june-25)
     > This workshop — provided by IDPro — will provide a comprehensive (and fun) introductory view of the identity world that will give participants a solid understanding of IAM’s foundations. Part 1 of this 2-part class begins with the basics like directories, identity proofing, provisioning, authentication (including multi-factor), authorization, as well as federation technologies like SAML, OAuth, and OpenID Connect. In Part 2, we build on those foundational technologies to explain PKI & digital certificates, privileged access management, identity for IoT, identity assurance, privacy issues, identity standards organizations, and even known attack vectors.
@@ -38,6 +45,7 @@ It's impossible to have a conversation about decentralized-id without discussing
   * [Modern Identity for Developers 101 - June 25 | Identiverse 2019](https://www.youtube.com/watch?v=kWpqFWz_9II)
     > Modern identity promises to solve some of the thorniest problems that historically plagued handling authentication and access control in applications. That sounds great in theory, but how do thinks really look like when the rubber hits the road – what does it take to incorporate modern identity in your applications development practice? Come to this session to learn the basis of modern identity development and be better equipped to understand and participate to the session in this year’s Identiverse development track.
   * [An Introduction to Mobile Identity - June 25 | Identiverse 2019](https://www.youtube.com/watch?v=25qiVyZEZOg&list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf&index=18)
+
 
 ## Glossaries
 
@@ -47,12 +55,12 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 ## Resources
 
-* [karimStekelenburg/awesome-self-sovereign-identity](https://github.com/karimStekelenburg/awesome-self-sovereign-identity)
 * [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**ϟ**](https://www.slideshare.net/SSIMeetup/presentations/)] 
 * [IIW-Wiki](https://iiw.idcommons.net/Main_Page)
 * [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
-* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
-* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
+* [WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
+* [peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
 * [identitywoman.net](https://identitywoman.net/)
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
 * [Kim Camerons Identity Blog](https://identityblog.com)
+* [karimStekelenburg/awesome-self-sovereign-identity](https://github.com/karimStekelenburg/awesome-self-sovereign-identity)
