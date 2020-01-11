@@ -10,6 +10,16 @@ tags: ["Blockpass","Ontology","Blockstack","Handshake","Democracy Earth"]
 last_modified_at: 2019-04-11
 ---
 
+## Blockchain
+
+[**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) NIST CYBERSECURITY WHITE PAPER (DRAFT) BLOCKCHAIN IDENTITY MANAGEMENT APPROACHES
+JULY 9, 2019
+  > Identity management systems (IDMSs) are widely used to provision user identities while managing authentication, authorization, and data sharing both within organizations as well as on the Internet more broadly. Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues such as encouraging mass data collection and user tracking. Blockchain technology has the potential to support novel data ownership and governance models with built-in control and consent mechanisms, which may benefit both users and businesses by alleviating these concerns; as a result, blockchain-based IDMSs are beginning to proliferate. This work categorizes these systems into a taxonomy based on differences in architecture, governance models, and other salient features. We provide context for the taxonomy by describing related terms, emerging standards, and use cases, while highlighting relevant security and privacy considerations.
+[Identity Management with Blockchain: The Definitive Guide (2019)](https://tykn.tech/identity-management-blockchain/)
+  > Learn everything about how Blockchain is used for Identity Management. This Definitive Guide to Identity Management with Blockchain has the answers.
+[Phil Windley (@windley)](https://twitter.com/windley/status/1071469217650638848)
+  > If ledger isn’t used, then every issuer of a credential has to maintain infrastructure or contract service provider to respond to DID resolution & revocation requests. And, credential issuers would know when the credential  was used, impacting privacy.
+
 
 ## Blockpass
 
