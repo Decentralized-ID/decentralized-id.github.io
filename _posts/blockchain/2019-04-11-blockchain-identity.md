@@ -10,25 +10,37 @@ tags: ["Blockpass","Ontology","Blockstack","Handshake","Democracy Earth"]
 last_modified_at: 2019-04-11
 ---
 
-## Blockchain
+## Blockchain Identity
 
-[**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) NIST CYBERSECURITY WHITE PAPER (DRAFT) BLOCKCHAIN IDENTITY MANAGEMENT APPROACHES
+* [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
+* [Deployment of a Blockchain-Based Self-Sovereign Identity - Delft](https://arxiv.org/pdf/1806.01926.pdf)
+* [**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) NIST CYBERSECURITY WHITE PAPER (DRAFT) BLOCKCHAIN IDENTITY MANAGEMENT APPROACHES
 JULY 9, 2019
   > Identity management systems (IDMSs) are widely used to provision user identities while managing authentication, authorization, and data sharing both within organizations as well as on the Internet more broadly. Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues such as encouraging mass data collection and user tracking. Blockchain technology has the potential to support novel data ownership and governance models with built-in control and consent mechanisms, which may benefit both users and businesses by alleviating these concerns; as a result, blockchain-based IDMSs are beginning to proliferate. This work categorizes these systems into a taxonomy based on differences in architecture, governance models, and other salient features. We provide context for the taxonomy by describing related terms, emerging standards, and use cases, while highlighting relevant security and privacy considerations.
-[Identity Management with Blockchain: The Definitive Guide (2019)](https://tykn.tech/identity-management-blockchain/)
+* [Identity Management with Blockchain: The Definitive Guide (2019)](https://tykn.tech/identity-management-blockchain/)
   > Learn everything about how Blockchain is used for Identity Management. This Definitive Guide to Identity Management with Blockchain has the answers.
-[Phil Windley (@windley)](https://twitter.com/windley/status/1071469217650638848)
+* [Phil Windley (@windley)](https://twitter.com/windley/status/1071469217650638848)
   > If ledger isn’t used, then every issuer of a credential has to maintain infrastructure or contract service provider to respond to DID resolution & revocation requests. And, credential issuers would know when the credential  was used, impacting privacy.
 
+![](http://i.imgur.com/bMbh6N7.png)
+
+* [Blockchain Identity – Success Factors and Challenges](https://www.kuppingercole.com/blog/kuppinger/blockchain-identity-success-factors-and-challenges) by Martin Kuppinger
+  > When new things arrive, which are still in the pioneering stage and far from reaching maturity, there is always a lot of discussion. This is even more true for Blockchain Identity, where the massive hype around Blockchains, a long history of clever ideas failing, and a few interesting technical and security challenges come together. During my keynote at this year’s EIC, I addressed the challenges and success factors for Blockchain ID as well. That led to a discussion on Twitter about whether some of these success factors are contradictory.
+* [GDPR - A reflection on the 'self-sovereign identity' and the Blockchain](https://www.linkedin.com/pulse/gdpr-reflection-self-sovereign-identity-blockchain-nicolas-ameye/)
 
 <iframe src="https://channel9.msdn.com/Shows/Blocktalk/Decentralized-Identity-and-Blockchain/player" width="640" height="360" allowFullScreen frameBorder="0" title="Decentralized Identity and Blockchain - Microsoft Channel 9 Video"></iframe>
 
-[Identity and Distributed Ledger - Today and Tomorrow - June 26 | Identiverse 2019](https://www.youtube.com/watch?v=l04AHP7kPPw)
-[Distributed Ledger Technologies, IAM, and the Truth in Things - June 27 | Identiverse 2019](https://www.youtube.com/watch?v=VV2rLgH9TUE) - Robert Brown
-[Decentralized Identity: Intersection of Identity and Distributed Ledger - June 25 | Identiverse 2019](https://www.youtube.com/watch?v=bjlnZyMTf1M) - Preeti Rastogi
+* [Towards Self-Sovereign Identity using Blockchain Technology](https://essay.utwente.nl/71274/1/Baars_MA_BMS.pdf)
+* [Identity and Distributed Ledger - Today and Tomorrow - June 26 | Identiverse 2019](https://www.youtube.com/watch?v=l04AHP7kPPw)
+* [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml)
+* [Distributed Ledger Technologies, IAM, and the Truth in Things - June 27 | Identiverse 2019](https://www.youtube.com/watch?v=VV2rLgH9TUE) - Robert Brown
+* [Decentralized Identity: Intersection of Identity and Distributed Ledger - June 25 | Identiverse 2019](https://www.youtube.com/watch?v=bjlnZyMTf1M) - Preeti Rastogi
+* [Blockchain for Identity - Myth or Potential](https://www.kuppingercole.com/blog/kuppinger/blockchain-for-identity-myth-or-potential)
+  ![](http://i.imgur.com/YSyv11h.png)
 
-## Assorted Blockchain ID
+## Assorted Blockchain ID Initiatives
 
+* [peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity) - Blockchain and Identity 
 * [Identity at Coinbase: Welcoming the Distributed Systems team](https://blog.coinbase.com/identity-at-coinbase-welcoming-the-distributed-systems-team-d929dd64de2e) [[**ϟ**](https://www.wired.com/story/coinbase-distributed-systems-acquisition/)]
 * [Shocard](https://shocard.com/) — "Blockchain-Based Mobile Identity Platform" [[**ϟ**](https://medium.com/shocard/why-shocard-is-the-premier-blockchain-based-mobile-identity-platform-6fad15410106)]
 * [Authenteq](http://authenteq.com/) [[**T**](https://twitter.com/authenteq)] [[**G**](https://github.com/authenteq)]
