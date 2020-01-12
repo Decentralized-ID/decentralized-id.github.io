@@ -4,7 +4,7 @@ title: Decentralized Identity and the Public Sector
 description: "Assorted Resources Related to Blockchain and Identity for Government and the Public Sector."
 excerpt: "Modern identity and access management (IAM) came into focus during the late 1930s, when a group of European countries began issuing national ID cards. During this time, creating a more systematic approach for establishing and authenticating the official use of trusted identities emerged."
 layout: single
-permalink: 
+permalink: /government/
 canonical_url: 'https://decentralized-id.com/government/'
 redirect_from: 
   - id-initiatives/state-sponsored
