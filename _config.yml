@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sovereign ID Curated"
+title                    : "Decentralized ID - Curated Info"
 title_separator          : "| "
 name                     : "Infominer"
-description              : "Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
+description              : "Learning to create an Identity Layer for the Internet, that is vendor agnostic and as widely interoperable, as possible, putting users in control of their personal information."
 url                      : "https://decentralized-id.com"
 baseurl                  : ""
 repository               : "didecentral/didecentral.github.io"
 github                   : [metadata]
 teaser                   : /images/didecentral-tw.png
 logo                     : "https://decentralized-id.com/images/DID.png"
-masthead_title           : "Identity Decentralized"
+masthead_title           : "Digital Identity Decentralized"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -285,14 +285,16 @@ defaults:
       path: "_pages"
       type: pages
     values:
+      sidebar:
+        - title: "Identity Decentralized"
+          image: "/images/regulation_gdpr_data_protection_TheDigitalArtist.png"
+          nav: "didnav"
       layout: single
       author_profile: false
       read_time: false
       comments: # true
       share: true
       related: true
-      sidebar:
-        nav: didnav
       toc: true
       toc_sticky  : true  
   # _posts
@@ -300,6 +302,10 @@ defaults:
       path: "_posts"
       type: posts
     values:
+      sidebar:
+        - title: "Identity Decentralized"
+          image: "/images/regulation_gdpr_data_protection_TheDigitalArtist.png"
+          nav: "didnav"
       layout: single
       author_profile: false
       header:
@@ -309,8 +315,6 @@ defaults:
       share: true
       classes: wide
       related: true
-      sidebar:
-        nav: didnav
       toc: true
       toc_label   : "Contents"
       toc_icon    : "link"
@@ -326,5 +330,7 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "didnav"
+        - title: "Identity Decentralized"
+          image: "/images/regulation_gdpr_data_protection_TheDigitalArtist.png"
+          nav: "didnav"
       classes: wide

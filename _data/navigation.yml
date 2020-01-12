@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Our Aim"
-    url: "/aim/"
   - title: Getting Started
     url: /getting-started/
-  - title: "Posts by Tag"
-    url: "/tags/"
   - title: "Recent Posts"
     url: "/posts/"
+  - title: "Tags"
+    url: "/tags/"
+  - title: "Our Aim"
+    url: "/aim/"
   - title: "identitywoman/identity-commons"
     url: "https://github.com/identitywoman/identity-commons"
   - title: "RebootingWebOfTrust - Archive"
@@ -16,8 +16,8 @@ main:
     url: "https://sourcecrypto.pub/decentralized-web/"
 
 didnav:
-  - title: "History"
-    url: "/history/"  
+  - title: "Navigation"
+    url: "/"
     children:
       - title: "• Resources & Pre-History"
         url: "/history/"
