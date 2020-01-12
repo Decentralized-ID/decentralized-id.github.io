@@ -13,7 +13,7 @@ redirect_from:
   - /self-sovereign-identity/
 categories: ["Literature"]
 tags: ["Self Sovereign Identity","Laws of Identity"]
-last_modified_at: 2019-07-10
+last_modified_at: 2020-01-11
 published: true
 
 ---
