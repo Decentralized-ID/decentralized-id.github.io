@@ -12,6 +12,7 @@ last_modified_at: 2019-04-11
 
 ## Blockchain Identity
 
+* [](https://www.tcs.com/content/dam/tcs-bancs/protected-pdf/Impact%20of%20Blockchain%20on%20Digital%20identity.pdf)
 * [Self-Sovereign Identity: Why Blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)
 * [Deployment of a Blockchain-Based Self-Sovereign Identity - Delft](https://arxiv.org/pdf/1806.01926.pdf)
 * [**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) NIST CYBERSECURITY WHITE PAPER (DRAFT) BLOCKCHAIN IDENTITY MANAGEMENT APPROACHES
@@ -22,9 +23,11 @@ JULY 9, 2019
 * [Phil Windley (@windley)](https://twitter.com/windley/status/1071469217650638848)
   > If ledger isn’t used, then every issuer of a credential has to maintain infrastructure or contract service provider to respond to DID resolution & revocation requests. And, credential issuers would know when the credential  was used, impacting privacy.
 
-![](http://i.imgur.com/bMbh6N7.png)
+{% include video id="hUYpvI43bHA" provider="youtube" %}
+[Daniel Buchner - Blockchain-Anchored Identity – A Gateway to Decentralized Apps and Services](https://www.youtube.com/watch?v=hUYpvI43bHA)
 
-* [Blockchain Identity – Success Factors and Challenges](https://www.kuppingercole.com/blog/kuppinger/blockchain-identity-success-factors-and-challenges) by Martin Kuppinger
+![](http://i.imgur.com/bMbh6N7.png)
+[Blockchain Identity – Success Factors and Challenges](https://www.kuppingercole.com/blog/kuppinger/blockchain-identity-success-factors-and-challenges) by Martin Kuppinger
   > When new things arrive, which are still in the pioneering stage and far from reaching maturity, there is always a lot of discussion. This is even more true for Blockchain Identity, where the massive hype around Blockchains, a long history of clever ideas failing, and a few interesting technical and security challenges come together. During my keynote at this year’s EIC, I addressed the challenges and success factors for Blockchain ID as well. That led to a discussion on Twitter about whether some of these success factors are contradictory.
 * [GDPR - A reflection on the 'self-sovereign identity' and the Blockchain](https://www.linkedin.com/pulse/gdpr-reflection-self-sovereign-identity-blockchain-nicolas-ameye/)
 

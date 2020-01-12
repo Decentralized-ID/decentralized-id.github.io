@@ -22,6 +22,8 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 ## Getting Started with Decentralized ID
 
+[A Primer on Decentralized Identity](https://selfkey.org/a-primer-on-decentralized-identity/)
+  > Blockchain technology has changed the world and has helped society enact radical changes, especially when it comes to privacy and identity. Decentralized identity (DID) redefines the way we share, control, and access our personal information. In short, it gives power back to the people when it comes to identity.
 [The Laws of Identity](http://www.windley.com/archives/2019/01/the_laws_of_identity.shtml)
   > The Internet was created without any way to identify the people who used it. The Internet was a network of machines. Consequently, all the identity in Internet protocols is designed to identify machines and services. People used the Internet through some institution (their company or university) and were part of that institution's administrative identity system. This can still be seen in the format of email addresses that identify both recipient and sender as someone@someplace. As the Internet grew to include people who weren't formally associated with an institution, every Web site and service created their own administrative identity domains. The result is the fractured plethora of identifiers, policies, and user experiences that constitute digital identity in 2019.
 
@@ -31,6 +33,9 @@ It's impossible to have a conversation about decentralized-id without discussing
 [The Case for Decentralized Identity](https://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml)
   > We cannot decentralize many interesting systems without also decentralizing the identity systems upon which they rely. We're finally in a position to create truly decentralized systems for digital identity.
 
+[Decentralized Identity: An alternative to password-based authentication](https://www.ibm.com/blogs/blockchain/2018/10/decentralized-identity-an-alternative-to-password-based-authentication/)
+
+[![](http://i.imgur.com/7asRg1y.png)](https://www.gsma.com/identity/wp-content/uploads/2019/11/MWCA-19-ID-seminar-Microsoft-presentation-final.pdf)
 
 ## Digital Identity Fundamentals
 

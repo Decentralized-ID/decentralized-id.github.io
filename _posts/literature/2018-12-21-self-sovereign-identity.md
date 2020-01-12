@@ -1,12 +1,9 @@
 ---
-date: 2018-12-21
 title       : "Self Sovereign Identity (SSI)"
 excerpt: >
-  Christopher did a great job outlining the history of internet identity standards, and introduces 10 Principles of Self-Sovereign Identity, currently in revision.
-  
-  However, considerable additional material has been created on the subject since then, including some helpful criticism on the principles. 
-  
-  Resultingly, I've begun collecting as much source grade material on Self Sovereign Identity, as possible, organizing it here. 
+  It would seem that Christopher Allen's The Path to Self-Sovereign Identity is still the most comprehensive article on the subject of Self Sovereign Identity. It outlines some of the underlying history, and introduces 10 Principles of Self-Sovereign Identity, born from the collective thoughts on identity leading to it.
+
+  Considerable additional material has been created on the subject since then, including some helpful criticism on the principles. Some of initial thoughts have been organized in evolution-of-ssi.
 description : Literature associated with the Fundamentals of Self-Sovereign Identity.
 image       : "https://decentralized-id.com/images/sovereign-identity.png"
 permalink: /literature/self-sovereign-identity/
@@ -29,8 +26,9 @@ It would seem that Christopher Allen's [The Path to Self-Sovereign Identity](htt
 
 Considerable additional material has been created on the subject since then, including some helpful criticism on the principles. Some of initial thoughts have been organized in [evolution-of-ssi](/literature/self-sovereign-identity/evolution-of-ssi/).
 
-![](https://i.imgur.com/S9uBk4k.png)
-[Self Sovereign Identity - An Unofficial Generic Icon](https://medium.com/@trbouma/self-sovereign-identity-an-unofficial-generic-icon-a5a6ab332cd7)
+[![](https://i.imgur.com/S9uBk4k.png)]((https://medium.com/@trbouma/self-sovereign-identity-an-unofficial-generic-icon-a5a6ab332cd7))
+
+{% include video id="U8bZ4GYFwKY" provider="youtube" %}
 
 ## SSI Documentation Components
 
@@ -52,9 +50,18 @@ While none of this is authoritative, it's useful to keep in mind the philosophy 
 
 ![](https://imgur.com/3zz62kpl.png)
 
+{% include video id="rygsE1JC-8Q" provider="youtube" %}
+[What is self-sovereign identity? [Webinar]](https://www.youtube.com/watch?v=rygsE1JC-8Q)
+  > - A brief history and overview of self-sovereign identity / decentralized identity
+  > - The top consumer-focused and business-focused benefits of SSI
+  > - Real-world examples of SSI in action
+  > - How organizations can the journey to a decentralized future
+
 
 ### About SSI
 
+* [Self-Sovereign Identity](https://thelivinglib.org/self-sovereign-identity/)
+  > Identification document (ID) is a crucial part of every individual’s life, in that it is often a prerequisite for accessing a variety of services — ranging from creating a bank account to enrolling children in school to buying alcoholic beverages to signing up for an email account to voting in an election — and also a proof of simply being.
 * [There’s A Facebook Alternative, It’s Called Self-Sovereign Identity](https://www.coindesk.com/theres-alternative-facebook-called-self-sovereign-identity) —coindesk
 * [Self Sovereign Identity -identitywoman.net](https://identitywoman.net/self-sovereign-identity/)
 * [Self Sovereign Identity going where no identity has gone before](https://www.brighttalk.com/webcast/16693/342423/self-sovereign-identity-going-where-no-identity-has-gone-before)
@@ -86,6 +93,12 @@ While none of this is authoritative, it's useful to keep in mind the philosophy 
 [Answering Questions about Self-Sovereign Identity](https://www.windley.com/archives/2019/07/answering_questions_about_self-sovereign_identity.shtml)
   > Identity professionals continue to have questions about self-sovereign identity (SSI). In this post, I answer a few questions that Susan Morrow raised about the commercial viability, security, privacy, and desired user experience of SSI.
 
+![](http://i.imgur.com/MMa72Dx.png)
+
+[Self-Sovereign Identity: Shifting the Locus of Control](https://medium.com/@trbouma/self-sovereign-identity-shifting-the-locus-of-control-10da1c8757ad)
+  > Simply put, the old (centralized and federated models) the locus of control was between the other parties that could make decisions about me, whether I was in the picture or not. In the new model (self-sovereign identity), the user is put into the centre of his/her own locus of control. See above.
+ 
+
 #### Video
 
 * [Identity and the quest for Self Sovereign Identity - Daniel Hardman](https://www.youtube.com/watch?v=iqmY_h49vPs)
@@ -107,8 +120,7 @@ While none of this is authoritative, it's useful to keep in mind the philosophy 
 
 ### Resources
 
-* [SSIMeetup](http://ssimeetup.org/) [[**S**](https://www.slideshare.net/SSIMeetup/presentations)] [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)] [[**tele**](https://t.me/SSIMeetup)]
-\- SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
+* [SSIMeetup](http://ssimeetup.org/) [[Slideshare](https://www.slideshare.net/SSIMeetup/presentations)] [[Youtube](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)] [[Telegram](https://t.me/SSIMeetup)] - SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
 * [WebOfTrustInfo/self-sovereign-id](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 * [Self-Sovereign Identity — wiki.p2pfoundation](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
 

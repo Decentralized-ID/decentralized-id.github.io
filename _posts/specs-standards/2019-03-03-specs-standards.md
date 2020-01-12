@@ -10,14 +10,22 @@ redirect_from:
 author_profile: true
 categories: ["Specs-Standards","Hyperledger Foundation"]
 tags: ["Index","Credentials Community Group", "DIF","FIDO","OpenID","XDI","W3C","OASIS","JSON-LD"]
-last_modified_at: 2019-11-25
+last_modified_at: 2020-01-11
 ---
 
-I've begun exploring and becoming more familiar with the decentralized nature of digital identity. Open standards, processes, and organizations revolving around such are the most critical components of that decentralized but widely interoperable ideal.
+I've begun exploring and becoming more familiar with the decentralized nature of digital identity. Open processes for standardization, are critical components for enabling a system for identification that's both decentralized and widely interoperable.
+
+* [**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) NIST CYBERSECURITY WHITE PAPER (DRAFT) BLOCKCHAIN IDENTITY MANAGEMENT APPROACHES
+JULY 9, 2019
+  > Identity management systems (IDMSs) are widely used to provision user identities while managing authentication, authorization, and data sharing both within organizations as well as on the Internet more broadly. Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues such as encouraging mass data collection and user tracking. Blockchain technology has the potential to support novel data ownership and governance models with built-in control and consent mechanisms, which may benefit both users and businesses by alleviating these concerns; as a result, blockchain-based IDMSs are beginning to proliferate. This work categorizes these systems into a taxonomy based on differences in architecture, governance models, and other salient features. We provide context for the taxonomy by describing related terms, emerging standards, and use cases, while highlighting relevant security and privacy considerations.
+
+[Hyperledger Identity Working Group - Identity Standards](https://wiki.hyperledger.org/display/IWG/Identity+Standards)
+
+[The Self-Sovereign Identity Stack by Oliver Terbu OSI](https://medium.com/decentralized-identity/the-self-sovereign-identity-stack-8a2cc95f2d45)
 
 ## This page requires a lot of attention. 
 
-I will begin with a listing of standards bodies, organizations and open processes, to which I'm paying attention (in additino to those previously gathered). From there, I can integrate and expand, as able. 
+I will begin with a listing of standards bodies, organizations and open processes, to which I'm paying attention (in addition to those previously gathered). From there, I can integrate and expand, as able. 
 
 * [ISSA (Information Systems Security Association)](https://www.issa.org/)
 * [ISAO Standards](https://www.isao.org/)
@@ -44,6 +52,8 @@ I will begin with a listing of standards bodies, organizations and open processe
 [Who Are the Identerati? | ForgeRock](https://www.forgerock.com/blog/who-are-the-identerati)
   > You’re familiar with digital identity standards like OpenID Connect, OAuth, and User-Managed Access, fundamental elements of privacy and security on the internet. But have you ever wondered how they came to be? A lot of work on these protocols went on (and goes on) behind t...
 
+[Building Blocks for a New Architecture](https://medium.com/@trbouma/building-blocks-for-a-new-architecture-fda2238ac005)
+  > After looking at the many different digital platforms and mechanisms: centralized, decentralized, proof-of-work, proof-of-stake, the list goes on, I have concluded that all of these new platforms boil down to fulfilling three core societal functions: value, identity, and status, underpinned by consensus.
 
 ## W3C
 
