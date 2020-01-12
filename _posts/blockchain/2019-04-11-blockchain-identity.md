@@ -7,7 +7,7 @@ classes: wide
 permalink: /blockchain/
 categories: ["Blockchain"]
 tags: ["Blockpass","Ontology","Blockstack","Handshake","Democracy Earth"]
-last_modified_at: 2019-04-11
+last_modified_at: 2020-01-11
 ---
 
 ## Blockchain Identity
