@@ -35,7 +35,7 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 [Decentralized Identity: An alternative to password-based authentication](https://www.ibm.com/blogs/blockchain/2018/10/decentralized-identity-an-alternative-to-password-based-authentication/)
 
-[![](http://i.imgur.com/7asRg1y.png)](https://www.gsma.com/identity/wp-content/uploads/2019/11/MWCA-19-ID-seminar-Microsoft-presentation-final.pdf)
+[![](https://i.imgur.com/7asRg1y.png)](https://www.gsma.com/identity/wp-content/uploads/2019/11/MWCA-19-ID-seminar-Microsoft-presentation-final.pdf)
 
 ## Digital Identity Fundamentals
 

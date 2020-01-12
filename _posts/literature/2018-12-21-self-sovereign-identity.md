@@ -93,7 +93,7 @@ While none of this is authoritative, it's useful to keep in mind the philosophy 
 [Answering Questions about Self-Sovereign Identity](https://www.windley.com/archives/2019/07/answering_questions_about_self-sovereign_identity.shtml)
   > Identity professionals continue to have questions about self-sovereign identity (SSI). In this post, I answer a few questions that Susan Morrow raised about the commercial viability, security, privacy, and desired user experience of SSI.
 
-![](http://i.imgur.com/MMa72Dx.png)
+![](https://i.imgur.com/MMa72Dx.png)
 
 [Self-Sovereign Identity: Shifting the Locus of Control](https://medium.com/@trbouma/self-sovereign-identity-shifting-the-locus-of-control-10da1c8757ad)
   > Simply put, the old (centralized and federated models) the locus of control was between the other parties that could make decisions about me, whether I was in the picture or not. In the new model (self-sovereign identity), the user is put into the centre of his/her own locus of control. See above.

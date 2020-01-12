@@ -26,7 +26,7 @@ JULY 9, 2019
 {% include video id="hUYpvI43bHA" provider="youtube" %}
 [Daniel Buchner - Blockchain-Anchored Identity – A Gateway to Decentralized Apps and Services](https://www.youtube.com/watch?v=hUYpvI43bHA)
 
-![](http://i.imgur.com/bMbh6N7.png)
+![](https://i.imgur.com/bMbh6N7.png)
 [Blockchain Identity – Success Factors and Challenges](https://www.kuppingercole.com/blog/kuppinger/blockchain-identity-success-factors-and-challenges) by Martin Kuppinger
   > When new things arrive, which are still in the pioneering stage and far from reaching maturity, there is always a lot of discussion. This is even more true for Blockchain Identity, where the massive hype around Blockchains, a long history of clever ideas failing, and a few interesting technical and security challenges come together. During my keynote at this year’s EIC, I addressed the challenges and success factors for Blockchain ID as well. That led to a discussion on Twitter about whether some of these success factors are contradictory.
 * [GDPR - A reflection on the 'self-sovereign identity' and the Blockchain](https://www.linkedin.com/pulse/gdpr-reflection-self-sovereign-identity-blockchain-nicolas-ameye/)
@@ -39,7 +39,7 @@ JULY 9, 2019
 * [Distributed Ledger Technologies, IAM, and the Truth in Things - June 27 - Identiverse 2019](https://www.youtube.com/watch?v=VV2rLgH9TUE) - Robert Brown
 * [Decentralized Identity: Intersection of Identity and Distributed Ledger - June 25 - Identiverse 2019](https://www.youtube.com/watch?v=bjlnZyMTf1M) - Preeti Rastogi
 * [Blockchain for Identity - Myth or Potential](https://www.kuppingercole.com/blog/kuppinger/blockchain-for-identity-myth-or-potential)
-  ![](http://i.imgur.com/YSyv11h.png)
+  ![](https://i.imgur.com/YSyv11h.png)
 
 ## Assorted Blockchain ID Initiatives
 
