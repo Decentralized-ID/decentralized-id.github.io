@@ -44,12 +44,12 @@ It's impossible to have a conversation about decentralized-id without discussing
 * [Difference Between Authentication and Authorization](https://techdifferences.com/difference-between-authentication-and-authorization.html)
   > The identity of a person is assured by authentication. On the other hand, authorization checks the access list that the authenticated person has. In other words, the authorization includes the permissions that a person has given.
 * [IDPro Member Presentations - Identiverse 2019](https://idpro.org/member-present) - [playlist](https://www.youtube.com/playlist?list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf)
-  * [2019 | Introduction to Identity Part 1 | Identiverse](https://www.youtube.com/watch?v=T5w1EXqMqR0&list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf&index=5&t=0s) -  [slideshare](https://www.slideshare.net/Identiverse/2019-introduction-to-identity-part-1-identiverse-day-1-june-25)
+  * [2019 | Introduction to Identity Part 1 - Identiverse](https://www.youtube.com/watch?v=T5w1EXqMqR0&list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf&index=5&t=0s) -  [slideshare](https://www.slideshare.net/Identiverse/2019-introduction-to-identity-part-1-identiverse-day-1-june-25)
     > This workshop — provided by IDPro — will provide a comprehensive (and fun) introductory view of the identity world that will give participants a solid understanding of IAM’s foundations. Part 1 of this 2-part class begins with the basics like directories, identity proofing, provisioning, authentication (including multi-factor), authorization, as well as federation technologies like SAML, OAuth, and OpenID Connect. In Part 2, we build on those foundational technologies to explain PKI & digital certificates, privileged access management, identity for IoT, identity assurance, privacy issues, identity standards organizations, and even known attack vectors.
-  * [Introduction to Identity Part 2 - June 25 | Identiverse 2019](https://www.youtube.com/watch?v=zxKRUXmTLJs)
-  * [Modern Identity for Developers 101 - June 25 | Identiverse 2019](https://www.youtube.com/watch?v=kWpqFWz_9II)
+  * [Introduction to Identity Part 2 - June 25 - Identiverse 2019](https://www.youtube.com/watch?v=zxKRUXmTLJs)
+  * [Modern Identity for Developers 101 - June 25 - Identiverse 2019](https://www.youtube.com/watch?v=kWpqFWz_9II)
     > Modern identity promises to solve some of the thorniest problems that historically plagued handling authentication and access control in applications. That sounds great in theory, but how do thinks really look like when the rubber hits the road – what does it take to incorporate modern identity in your applications development practice? Come to this session to learn the basis of modern identity development and be better equipped to understand and participate to the session in this year’s Identiverse development track.
-  * [An Introduction to Mobile Identity - June 25 | Identiverse 2019](https://www.youtube.com/watch?v=25qiVyZEZOg&list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf&index=18)
+  * [An Introduction to Mobile Identity - June 25 - Identiverse 2019](https://www.youtube.com/watch?v=25qiVyZEZOg&list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf&index=18)
 
 
 ## Glossaries

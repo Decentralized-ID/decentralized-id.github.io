@@ -19,7 +19,7 @@ last_modified_at:  2020-01-07
 [The Digital Identity Problem Space](https://www.learningmachine.com/digital-identity/)
   > A framework for organizing the categories of digital identity and an analysis of where disruptive innovation is most likely to succeed.
 * [Learning Machine](https://www.learningmachine.com/)
-* [Natalie Smolenski | Author, Speaker](https://www.nataliesmolenski.com/)
+* [Natalie Smolenski - Author, Speaker](https://www.nataliesmolenski.com/)
   > Natalie Smolenski is an anthropologist leading business development for blockchain technology firm Learning Machine. She writes and speaks about identity, tech, and government.
 
 ## Blockcerts

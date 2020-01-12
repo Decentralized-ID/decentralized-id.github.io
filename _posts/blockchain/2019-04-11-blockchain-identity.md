@@ -34,10 +34,10 @@ JULY 9, 2019
 <iframe src="https://channel9.msdn.com/Shows/Blocktalk/Decentralized-Identity-and-Blockchain/player" width="640" height="360" allowFullScreen frameBorder="0" title="Decentralized Identity and Blockchain - Microsoft Channel 9 Video"></iframe>
 
 * [Towards Self-Sovereign Identity using Blockchain Technology](https://essay.utwente.nl/71274/1/Baars_MA_BMS.pdf)
-* [Identity and Distributed Ledger - Today and Tomorrow - June 26 | Identiverse 2019](https://www.youtube.com/watch?v=l04AHP7kPPw)
+* [Identity and Distributed Ledger - Today and Tomorrow - June 26 - Identiverse 2019](https://www.youtube.com/watch?v=l04AHP7kPPw)
 * [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml)
-* [Distributed Ledger Technologies, IAM, and the Truth in Things - June 27 | Identiverse 2019](https://www.youtube.com/watch?v=VV2rLgH9TUE) - Robert Brown
-* [Decentralized Identity: Intersection of Identity and Distributed Ledger - June 25 | Identiverse 2019](https://www.youtube.com/watch?v=bjlnZyMTf1M) - Preeti Rastogi
+* [Distributed Ledger Technologies, IAM, and the Truth in Things - June 27 - Identiverse 2019](https://www.youtube.com/watch?v=VV2rLgH9TUE) - Robert Brown
+* [Decentralized Identity: Intersection of Identity and Distributed Ledger - June 25 - Identiverse 2019](https://www.youtube.com/watch?v=bjlnZyMTf1M) - Preeti Rastogi
 * [Blockchain for Identity - Myth or Potential](https://www.kuppingercole.com/blog/kuppinger/blockchain-for-identity-myth-or-potential)
   ![](http://i.imgur.com/YSyv11h.png)
 
