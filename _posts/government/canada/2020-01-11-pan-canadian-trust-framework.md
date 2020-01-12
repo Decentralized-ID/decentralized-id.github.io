@@ -1,5 +1,8 @@
 ---
-title: "Canadian Governments, Decentralized ID, and the Pan Canadian Trust Framework"
+title: "Governments of Canada and the Pan Canadian Trust Framework"
+description: "This framework is the next major step after the 2016 publication of the Pan-Canadian Trust Framework Overview by the Digital Identification and Authentication Council of Canada (DIACC)"
+excerpt: >
+  "The Treasury Board Secretariat of Canada (TBS) and Shared Services Canada (SSC) are seeking a standardized method to issue and rapidly verify portable digital credentials across many different contexts, thereby reducing human judgement error, increasing efficiency and ensuring digital credential veracity using cryptography." 
 permalink: /public-sector/canada/
 tags: ["Pan Canadian Trust Framework"]
 categories: ["Public Sector"]
