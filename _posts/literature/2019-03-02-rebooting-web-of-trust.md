@@ -26,7 +26,7 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 
 > '[Web of Trust](https://en.wikipedia.org/wiki/Web_of_trust)' is a network of relationships that attest to our identity claims. *Each party attesting to your identity information becomes a strand in your web of trust.*
 
-![](https://i.imgur.com/Y40CPAR.png)
+![](https://i.imgur.com/Y40CPAR.png){: .align-center}
 
 ## Selected 'Rebooting Web of Trust' Whitepapers 
 
