@@ -1,6 +1,8 @@
 ---
 date: 2019-03-01
 title: Decentralized Identity and the Public Sector
+description: "Assorted Resources Related to Blockchain and Identity for Government and the Public Sector."
+excerpt: "Modern identity and access management (IAM) came into focus during the late 1930s, when a group of European countries began issuing national ID cards. During this time, creating a more systematic approach for establishing and authenticating the official use of trusted identities emerged."
 layout: single
 permalink: 
 canonical_url: 'https://decentralized-id.com/government/'
@@ -10,12 +12,20 @@ redirect_from:
   - state-sponsored
   - public-sector/
   - id-initiatives/state-sponsored/
+header:
+  image: /images/blockchange-identity-header.png
+  caption: "[On the Emergent Use of Distributed Ledger Technologies for Identity Management](https://blockchan.ge/blockchange-fieldreport.pdf)"
 categories: ["Blockchain","Government"]
 tags: ["USA","Canada","Europe"]
 last_modified_at: 2019-01-11
 toc: false
 ---
 
+#### [European Government Identity Initiatives]({% link _posts/government/europe/2020-01-11-europe.md %})
+
+#### [Decentralized Identity and the United States Public Sector]({% link _posts/government/2020-01-11-usa.md %})
+
+## Blockchain and Digital ID
 
 [Blockchain for digital government](https://joinup.ec.europa.eu/sites/default/files/document/2019-04/JRC115049%20blockchain%20for%20digital%20government.pdf)
   > This report looks at the ongoing exploration of blockchain technology by governments. The analysis of a group of pioneering developments of public services shows that blockchain technology can reduce bureaucracy, increase the efficiency of administrative processes and increase the level of trust in public recordkeeping. Based on the state-ofart developments, blockchain has not yet demonstrated to be either transformative or even disruptive innovation for governments as it is sometimes portrayed. Ongoing projects bring incremental rather than fundamental changes to the operational capacities of governments. Nevertheless some of them propose clear value for citizens.

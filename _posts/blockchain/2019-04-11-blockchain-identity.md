@@ -2,6 +2,10 @@
 date: 2019-04-11
 title: Blockchain Identity
 description: "Why Blockchain for Identity? + Assorted Blockchain ID Initiatives"
+excerpt: "Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues such as encouraging mass data collection and user tracking. Blockchain technology has the potential to support novel data ownership and governance models with built-in control and consent mechanisms, which may benefit both users and businesses by alleviating these concerns; as a result, blockchain-based IDMSs are beginning to proliferate."
+header: 
+  image: /images/blockchain-id-header.png
+  caption: "[NIST Cybersecurity (DRAFT) Blockchain Identity Management Approaches](https://arxiv.org/pdf/1908.00929.pdf)" 
 layout: single
 classes: wide
 permalink: /blockchain/

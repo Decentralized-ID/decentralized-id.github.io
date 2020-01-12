@@ -26,7 +26,7 @@ It would seem that Christopher Allen's [The Path to Self-Sovereign Identity](htt
 
 Considerable additional material has been created on the subject since then, including some helpful criticism on the principles. Some of initial thoughts have been organized in [evolution-of-ssi](/literature/self-sovereign-identity/evolution-of-ssi/).
 
-[![](https://i.imgur.com/S9uBk4k.png)]((https://medium.com/@trbouma/self-sovereign-identity-an-unofficial-generic-icon-a5a6ab332cd7))
+[![](https://i.imgur.com/S9uBk4k.png)](https://medium.com/@trbouma/self-sovereign-identity-an-unofficial-generic-icon-a5a6ab332cd7)
 
 {% include video id="U8bZ4GYFwKY" provider="youtube" %}
 
