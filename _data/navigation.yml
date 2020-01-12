@@ -96,8 +96,6 @@ didnav:
         url: "/private-sector/ibm/"
       - title: "• Microsoft"
         url: "/private-sector/microsoft/"
-      - title: "• State Led"
-        url: "/public-sector/"
   - title: "⧉InfoMine⧉"
     children:
       - title: "• InfoHub"
