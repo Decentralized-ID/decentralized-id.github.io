@@ -3,7 +3,7 @@ main:
   - title: "Our Aim"
     url: "/aim/"
   - title: Getting Started
-    url: /101/
+    url: /getting-started/
   - title: "Posts by Tag"
     url: "/tags/"
   - title: "Recent Posts"

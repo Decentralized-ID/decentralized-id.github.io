@@ -27,7 +27,7 @@ published: false
 * [maryruddy (@maryruddy)](https://twitter.com/maryruddy/status/8000292905?s=20)
   > Re @identiywoman to @davemcclure, I'm @maryruddy working on the adoption and implementation of open identity standards.
 
-* [Mary Ruddy | Gartner](https://www.gartner.com/analyst/44158/Mary-Ruddy)
+* [Mary Ruddy - Gartner](https://www.gartner.com/analyst/44158/Mary-Ruddy)
 
 View Mary Ruddy's Gartner analyst profile. Gartner is the world's leading information technology research and advisory company.
 
@@ -59,10 +59,10 @@ Kaliya Young (“The Identity Woman”) explains 16 domains of identity --variou
 
 ## natalie-smolenski
 
-* [Natalie Smolenski | Author, Speaker](https://www.nataliesmolenski.com/)
+* [Natalie Smolenski - Author, Speaker](https://www.nataliesmolenski.com/)
   > Natalie Smolenski is an anthropologist leading business development for blockchain technology firm Learning Machine. She writes and speaks about identity, tech, and government.
 
-* [Natalie Smolenski | University of Michigan - Academia.edu](http://umich.academia.edu/NatalieSmolenski)
+* [Natalie Smolenski - University of Michigan - Academia.edu](http://umich.academia.edu/NatalieSmolenski)
   > Natalie Smolenski, University of Michigan, Anthropology and History Department, Graduate Student. Studies Phenomenological Psychology, Self psychology, and Anthropology of Religion. Natalie Smolenski is a psychological anthropologist and historian
 
 * [Truth of Your Life - About](https://www.truthofyourlife.com/about.html)
@@ -134,7 +134,7 @@ Adventures of an Eternal Optimist
 * [FinTech Insider on Tour @ Money20/20 Europe 2018: Katryna Dow, CEO Meeco](https://www.youtube.com/watch?v=q3yzXgesKJY)
   > Sam sits down with Katryna Dow from Meeco to discuss data and taking control.
 
-* [Katryna Dow | FemTech Leaders](http://web.archive.org/web/20151122105350/http:/www.femtechleaders.com/oceania/katryna-dow-2/) - 2015
+* [Katryna Dow - FemTech Leaders](http://web.archive.org/web/20151122105350/http:/www.femtechleaders.com/oceania/katryna-dow-2/) - 2015
 
 The Voices & View from FemTech Leaders
 

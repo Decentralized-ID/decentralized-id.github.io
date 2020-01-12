@@ -49,7 +49,7 @@ I will begin with a listing of standards bodies, organizations and open processe
   > 
   > If you’re willing to put up with a lot of work for incremental improvements then step up and join a standard. Whether that is a (relatively) fast moving standard group like OASIS (www.oasis-open.org) or a slower but more international group like ISO you will learn. You’ll also benefit from working with experts. These experts donate their time and are more than happy to provide ideas, guidance, and leadership.
 
-[Who Are the Identerati? | ForgeRock](https://www.forgerock.com/blog/who-are-the-identerati)
+[Who Are the Identerati? - ForgeRock](https://www.forgerock.com/blog/who-are-the-identerati)
   > You’re familiar with digital identity standards like OpenID Connect, OAuth, and User-Managed Access, fundamental elements of privacy and security on the internet. But have you ever wondered how they came to be? A lot of work on these protocols went on (and goes on) behind t...
 
 [Building Blocks for a New Architecture](https://medium.com/@trbouma/building-blocks-for-a-new-architecture-fda2238ac005)
