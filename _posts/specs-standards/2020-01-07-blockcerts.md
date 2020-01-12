@@ -14,9 +14,19 @@ tags: ["Bitcoin","Learning Machine","BTCR"]
 last_modified_at:  2020-01-07
 ---
 
+## Learning Machine
+
+[The Digital Identity Problem Space](https://www.learningmachine.com/digital-identity/)
+  > A framework for organizing the categories of digital identity and an analysis of where disruptive innovation is most likely to succeed.
 * [Learning Machine](https://www.learningmachine.com/)
-  * [Blockcerts](https://www.blockcerts.org/) - [Forum](http://community.blockcerts.org/) - [Github](https://github.com/blockchain-certificates) - [Twitter](https://twitter.com/blockcerts)
+* [Natalie Smolenski | Author, Speaker](https://www.nataliesmolenski.com/)
+  > Natalie Smolenski is an anthropologist leading business development for blockchain technology firm Learning Machine. She writes and speaks about identity, tech, and government.
+
+## Blockcerts
+
+* [Blockcerts](https://www.blockcerts.org/)  - [Forum](http://community.blockcerts.org/) - [Github](https://github.com/blockchain-certificates) - [Twitter](https://twitter.com/blockcerts)
     > open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
+  
 * [Introduction](https://www.blockcerts.org/guide/)
   > Blockcerts is an open standard for building apps that issue and verify blockchain-based official records. These may include certificates for civic records, academic credentials, professional licenses, workforce development, and more.
   > 
@@ -71,7 +81,7 @@ last_modified_at:  2020-01-07
 * [cowcerts/schemas/](https://gitlab.com/cowcerts/schemas)
   > Specifications, JSON Schemas and JSON Linked Data definitions for Cowcerts certificates [https://cowcerts.dev](https://cowcerts.dev)
 
-  ## GitHub Repositories
+## GitHub Repositories
 
 * [blockchain-certificates/blockchain-certificates.github.io](https://github.com/blockchain-certificates/blockchain-certificates.github.io) - Web site. 
 * [learningmachine/stage.blockcerts.github.io](https://github.com/learningmachine/stage.blockcerts.github.io)
