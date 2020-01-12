@@ -16,7 +16,7 @@ Not all verifiable credentials are created the same. This post examines the cate
 * [A Verifiable Credentials Primer](https://github.com/WebOfTrustInfo/rwot7-toronto/blob/master/topics-and-advance-readings/verifiable-credentials-primer.md)
   > NOTE: "Verifiable Claims" are now known as "Verifiable Credentials". The W3C Verifiable Claims Working Group's experience with using the term "Verifiable Claims" demonstrated that it led to confusion in the marketplace. The group has since found consensus in shifting to use the term "Verifiable Credentials", which contain "Claims".
 
-[![](http://i.imgur.com/S6ULDcB.png)](https://drive.google.com/file/d/1kJCDF_JcRihUQ5uRFbo47dEJPFsQB7FD/view)
+[![](https://i.imgur.com/S6ULDcB.png)](https://drive.google.com/file/d/1kJCDF_JcRihUQ5uRFbo47dEJPFsQB7FD/view)
 
 * [Verifiable Credential Exchange](https://www.windley.com/archives/2018/12/verifiable_credential_exchange.shtml)
   > Multi-source identity (MSI) depends on issuing, exchanging, and verifying digital credentials. The specification for verifiable credentials is being formulated by the World Wide Web Consortium’s Verifiable Credentials Working Group. Verifiable credentials provide a standard way to express credentials in a way that is cryptographically secure, privacy respecting, and automatically verifiable.
@@ -104,7 +104,7 @@ Verifiable Claims WG Test Suite.
 
 ## Sovrin
 
-![](http://i.imgur.com/hpXr1Af.png)
+![](https://i.imgur.com/hpXr1Af.png)
 
 * [https://drive.google.com/drive/u/0/folders/1UxLLugRQKuV8Mdvv_X9Y6ty4szSi5ZNU?ogsrc=32](https://drive.google.com/drive/u/0/folders/1UxLLugRQKuV8Mdvv_X9Y6ty4szSi5ZNU?ogsrc=32)
 
