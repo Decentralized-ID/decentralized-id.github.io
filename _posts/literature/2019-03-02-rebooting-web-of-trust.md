@@ -63,7 +63,7 @@ See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrust
 
 ### Rebooting the Web of Trust I
 
-![](https://i.imgur.com/pes1Vm8.png)
+![](https://i.imgur.com/pes1Vm8.png){: .align-center}
 
 The first Rebooting the Web of Trust design workshop, held in San Francisco, CA - November 3rd & 4th, 2015.
 
@@ -86,7 +86,7 @@ The first Rebooting the Web of Trust design workshop, held in San Francisco, CA 
 
 ### Rebooting the Web of Trust II - ID2020
 
-![](https://i.imgur.com/cn5CQEI.png)
+![](https://i.imgur.com/cn5CQEI.png){: .align-center}
 
 The second Rebooting the Web of Trust design workshop, in San Francisco, CA, on May 21st & 22nd, 2016. It was run in conjunction with the UN ID2020 Summit on Identity, which occurred at the UN in New York on May 20th, 2016. 
 
@@ -108,7 +108,7 @@ The second Rebooting the Web of Trust design workshop, in San Francisco, CA, on 
   
 ### Rebooting the Web of Trust III
 
-![](https://i.imgur.com/37wRZ9B.png)
+![](https://i.imgur.com/37wRZ9B.png){: .align-center}
 
 The design workshop exceeded its mandate by producing seven papers:
 
@@ -136,7 +136,7 @@ The design workshop exceeded its mandate by producing seven papers:
 
 ### Rebooting the Web of Trust IV
 
-![](https://i.imgur.com/ZtP6Dny.png)
+![](https://i.imgur.com/ZtP6Dny.png){: .align-center}
 
 The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on April 19th-21st, 2017.
 
@@ -148,7 +148,7 @@ The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on A
    - Joe Andrieu, Frederic Engel, Adam Lake, Moses Ma, Olivier Maas, and Mark van der Waal.
 
 ### Rebooting the Web of Trust V
-![](https://i.imgur.com/H7i3KFD.png)
+![](https://i.imgur.com/H7i3KFD.png){: .align-center}
 
 * [**ActivityPub: From Decentralized to Distributed Social Networks**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/activitypub-decentralized-distributed.md)
   - Christopher Lemmer Webber & Manu Sporny
@@ -180,7 +180,7 @@ The fourth Rebooting the Web of Trust design workshop ran in Paris, France, on A
 
 ### Rebooting the Web of Trust VI
 
-![](https://i.imgur.com/9yhGv6a.png)
+![](https://i.imgur.com/9yhGv6a.png){: .align-center}
 
 The sixth Rebooting the Web of Trust design workshop ran in Santa Barbara, California, on March 6th to 8th, 2018. 
 
@@ -223,7 +223,7 @@ The sixth Rebooting the Web of Trust design workshop ran in Santa Barbara, Calif
 
 ### Rebooting the Web of Trust VII
 
-![](https://i.imgur.com/tHcfNsK.png)
+![](https://i.imgur.com/tHcfNsK.png){: .align-center}
 
 The seventh Rebooting the Web of Trust design workshop, ran near Toronto, Canada, on September 26th to 28th, 2018.
 
@@ -270,7 +270,7 @@ The seventh Rebooting the Web of Trust design workshop, ran near Toronto, Canada
 
 > In this paper we cover various scenarios where some or all parties have intermittent, unreliable, untrusted, insecure, or no network access, but require cryptographic verification (message protection and/or proofs). Furthermore, communications between the parties may be only via legacy voice channels. Applicable situations include marine, subterranean, remote expeditions, disaster areas, refugee camps, and high-security installations. This paper then recommends solutions for addressing offline deployments.
 
-![](https://i.imgur.com/TpsPXoa.png)
+![](https://i.imgur.com/TpsPXoa.png){: .align-center}
 
 
 ## Topics and Advance Readings
@@ -283,7 +283,7 @@ In advance of the design workshop, all participants are requested to produce a o
 
 ### RWoT 1
 
-![](https://i.imgur.com/Hv2rPVy.png)
+![](https://i.imgur.com/Hv2rPVy.png){: .align-center}
 
 * [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
   >Our goal for this initial #RebootingWebOfTrust design workshop is to:
@@ -389,7 +389,7 @@ In advance of the design workshop, all participants are requested to produce a o
 
 ### RWoT ID2020
 
-![](https://i.imgur.com/ZG5msLT.png)
+![](https://i.imgur.com/ZG5msLT.png){: .align-center}
 
 * [A Double Edge Sword of Having an Identity](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/double_edged_identity.md) 
   - Marta Piekarska \<marta@blockstream.io\>
@@ -455,7 +455,7 @@ In advance of the design workshop, all participants are requested to produce a o
 
 ### RWoT 3
 
-![](https://i.imgur.com/05aTksa.png)
+![](https://i.imgur.com/05aTksa.png){: .align-center}
 
 * [Identity as Linked Data on Immutable Ledgers](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/identity-as-linked-data-on-immutable-ledgers.md) 
   - Tim Daubenschuetz and Trent McConaghy 
@@ -518,7 +518,7 @@ In advance of the design workshop, all participants are requested to produce a o
 
 ### RWoT 4
 
-![](https://i.imgur.com/HcVlTZQ.png)
+![](https://i.imgur.com/HcVlTZQ.png){: .align-center}
 
 * [Aligning Signature Formats](https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings/SignatureFormatAlignment.md) by Manu Sporny, Christopher Allen, Jason Law, and Ryan Shea
 * [Beyond Identity Cards](https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings/Beyond-Identity-Cards.pdf) by Joe Andrieu
@@ -546,7 +546,7 @@ In advance of the design workshop, all participants are requested to produce a o
 
 ### RWoT 5
 
-![](https://i.imgur.com/0yF0Ai7.png)
+![](https://i.imgur.com/0yF0Ai7.png){: .align-center}
 
 The following advanced readings have been prepared as primers, intended to give you a foundation in some of the topics that may be discussed at the design workshop:
 
@@ -591,7 +591,7 @@ Here are the rest of the advance readings to date:
 
 ### RWoT 6
 
-![](https://i.imgur.com/LmmFZws.png)
+![](https://i.imgur.com/LmmFZws.png){: .align-center}
 
 * [Attribute Based Credentials and Variable Length Data Graphs](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/topics-and-advance-readings/AttributeBasedCredentials_and_VariableLengthDataGraphs.md) by nage
 * [Blockchain Timestamps Unnecessary In Proof-of-Work?](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/topics-and-advance-readings/Blockchains-Timestamps-Unnecessary-In-PoW.md) by Greg Slepak
@@ -629,7 +629,7 @@ Here are the rest of the advance readings to date:
 
 ### RWoT 7
 
-![](https://i.imgur.com/MCjnuJw.png)
+![](https://i.imgur.com/MCjnuJw.png){: .align-center}
 
 * [Addressing Global/Local Barriers to Adoption of Decentralized Identity Systems](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/Adoption.md) by Eric Brown
 * [Agent to Agent Communication Protocol Overview](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/a2a-comm-protocol-overview.md) by Kyle Den Hartog
