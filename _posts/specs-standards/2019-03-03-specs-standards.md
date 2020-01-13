@@ -149,7 +149,7 @@ http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
 * [EIP-1078](https://github.com/ethereum/EIPs/blob/ed621645c8f3bc5756492f327cda015f35d9f8da/EIPS/eip-1078.md) - 
 This presents a method to replace the usual signup/login design pattern with a minimal ethereum native scheme, that doesn’t require passwords, backing up private keys nor typing seed phrases. 
 * [ERC-1077 and ERC-1078: The magic of executable signed messages](https://ethereum-magicians.org/t/erc-1077-and-erc-1078-the-magic-of-executable-signed-messages-to-login-and-do-actions/351)
-* [ERC-EIP on GitHub](eth-id-github.html#eip---erc) **>>**
+* [ERC-EIP on GitHub](/blockchain/ethereum/#eip---erc) **>>**
 
 ### ERC725-735 
 
