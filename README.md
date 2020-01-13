@@ -55,9 +55,9 @@ Here, I've gathered literature on Self Sovereign Identity, and begun considering
 
 [DID Related Web Standards](https://decentralized-id.com/specs-standards/)
   * [XDI](https://decentralized-id.com/specs-standards/xdi/)
-  * [JSON-LD](https://decentralized-id.com/standards/#oasis-xdi-tech-committee-on-github)
+  * [JSON-LD](https://decentralized-id.com/specs-standards/json-ld/)
 
-[Identity Related GitHub Repositories](https://decentralized-id.com/identity-github/)
+[Identity Related GitHub Repositories](https://decentralized-id.com/code/github/)
 
 [Literature](https://decentralized-id.com/literature/)
   * [Rebooting Web of Trust - Papers Index](https://decentralized-id.com/literature/rebooting-web-of-trust/)
@@ -65,24 +65,23 @@ Here, I've gathered literature on Self Sovereign Identity, and begun considering
 [Workshops](https://decentralized-id.com/workshops)
 [Media](https://decentralized-id.com/media/)  (Video, Podcasts and Slideshare)
 [DID Adoption](https://decentralized-id.com/adoption/)
-[GDPR](https://decentralized-id.com/gdpr)
+[GDPR](https://decentralized-id.com/government/europe/regulation/gdpr)
 
 [Organizations](https://decentralized-id.com/organizations)
   * [Decentralized Identity Foundation—DIF](https://decentralized-id.com/organizations/identity-foundation/)
   * [My Data](https://decentralized-id.com/organizations/mydata/)
-  * [Sovrin Foundation](https://decentralized-id.com/organizations/sovrin-foundation/)
+  * [Sovrin Foundation](https://decentralized-id.com/organizations/sovrin/)
   * [SSI Meetup](https://decentralized-id.com/organizations/ssi-meetup/)
 
 [Blockchain](https://decentralized-id.com/blockchain/)
   * [Bitcoin](https://decentralized-id.com/blockchain/bitcoin/)
   * [Ethereum](https://decentralized-id.com/blockchain/ethereum/)
-    * [Ethereum Specs-Apps](https://decentralized-id.com/blockchain/ethereum/)
 
 [Hyperledger Indy](https://decentralized-id.com/hyperledger/indy/)
   * [Adoption](https://decentralized-id.com/hyperledger/indy/adoption/)
   * [Indy Github](https://decentralized-id.com/hyperledger/indy/github/)
-  * [Literature](https://decentralized-id.com/hyperledger/indy/literature/)
-  * [VON](https://decentralized-id.com/hyperledger/indy/VON/)
+  * [Literature](https://decentralized-id.com/organizations/sovrin/literature/)
+  * [VON](https://decentralized-id.com/government/canada/von/)
 [Hyperledger Global Forum](https://decentralized-id.com/hyperledger/hgf-2018/)
 
 Private Sector
@@ -90,18 +89,18 @@ Private Sector
   * [Microsoft](https://decentralized-id.com/private-sector/microsoft/)
   * [Danube Tech](https://decentralized-id.com/private-sector/danube/)
 
-[Public Sector](https://decentralized-id.com/public-sector/)
+[Government](https://decentralized-id.com/government/)
 
 ## Reources
 
-* [SSI Meetup](http://ssimeetup.org/) - [video](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og) - [presentations](https://www.slideshare.net/SSIMeetup/presentations/)
-* [IIW-Wiki](https://iiw.idcommons.net/Main_Page)
-* [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
-* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
-* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
-* [identitywoman.net](https://identitywoman.net/)
-* [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
-* [Kim Camerons Identity Blog](https://identityblog.com)
+* [SSI Meetup](https://decentralized-id.comhttp://ssimeetup.org/) - [video](https://decentralized-id.comhttps://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og) - [presentations](https://decentralized-id.comhttps://www.slideshare.net/SSIMeetup/presentations/)
+* [IIW-Wiki](https://decentralized-id.comhttps://iiw.idcommons.net/Main_Page)
+* [wiki.idcommons.net](https://decentralized-id.comhttp://wiki.idcommons.net/Main_Page)
+* [/WebOfTrustInfo](https://decentralized-id.comhttps://github.com/WebOfTrustInfo/)
+* [/peacekeeper/blockchain-identity](https://decentralized-id.comhttps://github.com/peacekeeper/blockchain-identity)
+* [identitywoman.net](https://decentralized-id.comhttps://identitywoman.net/)
+* [windley.com/tags/identity](https://decentralized-id.comhttp://www.windley.com/tags/identity.shtml)
+* [Kim Camerons Identity Blog](https://decentralized-id.comhttps://identityblog.com)
 
 <h3>Tips Welcome</h3>
 <table class="table table-bordered table-hover table-condensed">

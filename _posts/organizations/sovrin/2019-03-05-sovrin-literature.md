@@ -7,12 +7,14 @@ excerpt: >
 sidebar:
   title: DIDecentralized
   nav: "sovnav"
-canonical_url: 'https://decentralized-id.com/indy-ecosystem/literature/'
+canonical_url: 'https://decentralized-id.com/'
 redirect_from:
+  - literature/Sovrin/
+  - literature/sovrin/
   - id-initiatives/indy-ecosystem/literature.html
   - indy-ecosystem/literature
   - indy-ecosystem/literature/
-permalink: /literature/Sovrin/
+permalink: /organizations/sovrin/literature/
 categories: ["Literature", "Sovrin Foundation"]
 tags: ["Indy","Evernym","GDPR"]
 last_modified_at: 2019-07-13

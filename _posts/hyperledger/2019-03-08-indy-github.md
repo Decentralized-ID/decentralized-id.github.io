@@ -5,7 +5,7 @@ excerpt: >
   "Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo."
 layout: single
 permalink: hyperledger/indy/github/
-canonical_url: 'https://decentralized-id.com/indy-ecosystem/github/'
+canonical_url: 'https://decentralized-id.com/hyperledger/indy/github/'
 redirect_from:
   - id-initiatives/indy-ecosystem/indy-github/
   - indy-ecosystem/github

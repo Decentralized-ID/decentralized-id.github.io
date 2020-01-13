@@ -34,23 +34,23 @@ didnav:
       - title: " - JSON-LD"
         url: "/specs-standards/JSON-LD/"
       - title: "• GitHub Repositories"
-        url: "/identity-github/"
+        url: "/code/github/"
       - title: " - Identity Commons on Github"
         url: "https://github.com/identitywoman/identity-commons"
       - title: "• Literature"
         url: "/literature/" 
       - title: " - RWoT - Papers Index"
-        url: "/workshops/rebooting-web-of-trust/"
+        url: "/literature/rebooting-web-of-trust/"
       - title: " - Microledgers and Edgechains"
-        url: "/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
+        url: "/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
       - title: "• #indieweb-dev on IIW RWoT and DID's"
         url: "/specs-standards/indieweb-dev-on-did/"
   - title: Regulation
     children:
       - title: "• eIDAS"
-        url: "/regulation/eidas/"
+        url: "/government/europe/regulation/eidas/"
       - title: "• GDPR"
-        url: "/regulation/GDPR/"
+        url: "/government/europe/regulation/gdpr/"
   - title: Self-Sovereign Identity
     children:
       - title: "• SSI - Documentation Efforts"
@@ -69,7 +69,7 @@ didnav:
       - title: "• My Data"
         url: "/organizations/mydata/"
       - title: "• Sovrin Foundation"
-        url: "/organizations/sovrin-foundation/"
+        url: "/organizations/sovrin/"
       - title: "• SSI Meetup"
         url: "/organizations/ssi-meetup/"
       - title: "• Women in Identity"
@@ -83,7 +83,7 @@ didnav:
       - title: "• Bitcoin"
         url: "/blockchain/bitcoin/" 
       - title: "• Blockcerts"
-        url: "/blockchain/bitcoin/blockcerts/" 
+        url: "/specs-standards/blockcerts/" 
       - title: "• Ethereum"
         url: "/blockchain/ethereum/" 
       - title: "• uPort"
@@ -91,7 +91,7 @@ didnav:
       - title: "• Hyperledger Indy"
         url: "/hyperledger/indy/"
       - title: "• VON"
-        url: "/public-sector/von/" 
+        url: "/government/canada/von/" 
       - title: "• IBM"
         url: "/private-sector/ibm/"
       - title: "• Microsoft"
@@ -101,7 +101,7 @@ didnav:
       - title: "• InfoHub"
         url: "https://infominer.xyz/"
       - title: "• Bitcoin Histories"
-        url: "sourcecrypto.pub/posts/history"
+        url: "https://sourcecrypto.pub/posts/history/"
       - title: "• Source⧉Crypto"
         url: "https://sourcecrypto.pub"
       - title: "• Decentralized Web"
@@ -115,21 +115,20 @@ sovnav:
     children:
       - title: "• Index"
         description: Index of Resources Surrounding Hyperledger Indy, the Sovrin Foundation, and Evernym.
-        url: /indy-ecosystem/
+        url: /hyperledger/indy/
       - title: "• Adoption"
         description: Partnerships and Application of Evernym, Sovrin, and Indy.
         url: /indy-ecosystem/adoption/
       - title: "• Indy Github" 
         description: GitHub Repositories Related to Hyperledger Indy.
-        url: /indy-ecosystem/github/
+        url: /hyperledger/indy/github/
       - title: "• Literature"
         description: Research and Literature Related to the Indy Ecosystem.
-        url: /indy-ecosystem/literature/
+        url: /organizations/sovrin/literature/
       - title: "• VON"
-        description: Resources Related to the Verifiable Organizations Network
-        url: "/indy-ecosystem/von/"
-  - title: "History"
-    url: "/history/"  
+        url: "/government/canada/von/"
+  - title: "Navigation"
+    url: "/"
     children:
       - title: "• Resources & Pre-History"
         url: "/history/"
@@ -146,23 +145,23 @@ sovnav:
       - title: " - JSON-LD"
         url: "/specs-standards/JSON-LD/"
       - title: "• GitHub Repositories"
-        url: "/identity-github/"
+        url: "/code/github/"
       - title: " - Identity Commons on Github"
         url: "https://github.com/identitywoman/identity-commons"
       - title: "• Literature"
         url: "/literature/" 
       - title: " - RWoT - Papers Index"
-        url: "/workshops/rebooting-web-of-trust/"
+        url: "/literature/rebooting-web-of-trust/"
       - title: " - Microledgers and Edgechains"
-        url: "/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
+        url: "/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
       - title: "• #indieweb-dev on IIW RWoT and DID's"
         url: "/specs-standards/indieweb-dev-on-did/"
   - title: Regulation
     children:
       - title: "• eIDAS"
-        url: "/regulation/eidas/"
+        url: "/government/europe/regulation/eidas/"
       - title: "• GDPR"
-        url: "/regulation/GDPR/"
+        url: "/government/europe/regulation/gdpr/"
   - title: Self-Sovereign Identity
     children:
       - title: "• SSI - Documentation Efforts"
@@ -181,7 +180,7 @@ sovnav:
       - title: "• My Data"
         url: "/organizations/mydata/"
       - title: "• Sovrin Foundation"
-        url: "/organizations/sovrin-foundation/"
+        url: "/organizations/sovrin/"
       - title: "• SSI Meetup"
         url: "/organizations/ssi-meetup/"
       - title: "• Women in Identity"
@@ -194,6 +193,8 @@ sovnav:
         url: "/blockchain/"
       - title: "• Bitcoin"
         url: "/blockchain/bitcoin/" 
+      - title: "• Blockcerts"
+        url: "/specs-standards/blockcerts/" 
       - title: "• Ethereum"
         url: "/blockchain/ethereum/" 
       - title: "• uPort"
@@ -201,19 +202,17 @@ sovnav:
       - title: "• Hyperledger Indy"
         url: "/hyperledger/indy/"
       - title: "• VON"
-        url: "/public-sector/von/" 
+        url: "/government/canada/von/" 
       - title: "• IBM"
         url: "/private-sector/ibm/"
       - title: "• Microsoft"
         url: "/private-sector/microsoft/"
-      - title: "• State Led"
-        url: "/public-sector/"
   - title: "⧉InfoMine⧉"
     children:
       - title: "• InfoHub"
         url: "https://infominer.xyz/"
       - title: "• Bitcoin Histories"
-        url: "sourcecrypto.pub/posts/history"
+        url: "https://sourcecrypto.pub/posts/history/"
       - title: "• Source⧉Crypto"
         url: "https://sourcecrypto.pub"
       - title: "• Decentralized Web"

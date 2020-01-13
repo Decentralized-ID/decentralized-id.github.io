@@ -14,19 +14,6 @@ canonical_url: 'https://decentralized-id.com/literature'
 last_modified_at: 2019-07-11
 ---
 
-
-## Contents
-
-* [Literature](#literature)
-* [Reports](#reports)
-* [Decentralized Public Key Infrastructure DPKI](#decentralized-public-key-infrastructure-dpki)
-* [Rebooting Web of Trust -Directory](#rebooting-web-of-trust)
-* [Assorted Thought Around Identity](#assorted-thought-around-identity)
-* [>> Sovrin Related Literature](/id-initiatives/indy-ecosystem/literature/)
-
-
-## Literature
-
 * [Security without Identification: Transaction Systems to make Big Brother Obsolete](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - David Chaum 1985
 * [Establishing Identity Without Certification Authorities](https://irl.cs.ucla.edu/~yingdi/pub/papers/Ellison-OldFriend-USENIX-Security-1996.pdf)
 * [A First Look at Identity Management Schemes on the Blockchain](https://arxiv.org/pdf/1801.03294.pdf)
@@ -123,30 +110,6 @@ last_modified_at: 2019-07-11
 * [Privacy based decentralized Public Key Infrastructure
 (PKI) implementation using Smart contract in
 Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)
-
-### Rebooting Web of Trust
-
-[**>> Rebooting Web of Trust - "complete" Papers, Topics and Advance Readings >>**](rebooting-web-of-trust.md)
-* [Selected RWoT Whitepapers](rebooting-web-of-trust.md#selected-rebooting-web-of-trust-whitepapers)
-  * [Primers](rebooting-web-of-trust.md#primers)
-  * [RWoT Workshop Related](rebooting-web-of-trust.md#rwot-workshop-related)
-  * [Use Cases](rebooting-web-of-trust.md#use-cases) 
-* [Completed Papers](rebooting-web-of-trust.md#completed-papers)
-  * [Rebooting the Web of Trust I](rebooting-web-of-trust.md#rebooting-the-web-of-trust-i)
-  * [Rebooting the Web of Trust II - ID2020](rebooting-web-of-trust.md#rebooting-the-web-of-trust-ii---id2020)
-  * [Rebooting the Web of Trust III](rebooting-web-of-trust.md#rebooting-the-web-of-trust-iii)
-  * [Rebooting the Web of Trust IV](rebooting-web-of-trust.md#rebooting-the-web-of-trust-iv)
-  * [Rebooting the Web of Trust V](rebooting-web-of-trust.md#rebooting-the-web-of-trust-v)
-  * [Rebooting the Web of Trust VI](rebooting-web-of-trust.md#rebooting-the-web-of-trust-vi)
-  * [Rebooting the Web of Trust VII](rebooting-web-of-trust.md#rebooting-the-web-of-trust-vii)
-* [Topics and Advance Readings](#topics-and-advance-readings)
-  * [RWoT 1](#rwot-1)
-  * [RWoT 2](#rwot-id2020)
-  * [RWoT 3](#rwot-3)
-  * [RWoT 4](#rwot-4)
-  * [RWoT 5](#rwot-5)
-  * [RWoT 6](#rwot-6)
-  * [RWoT 7](#rwot-7)
 
 ## Additional Thought around Identity
 * [Is putting hashed PII on any immutable ledger(blockchain) is a bad Idea](https://identitywoman.net/putting-hashed-pii-immutable-ledgerblockchain-bad-idea/)
