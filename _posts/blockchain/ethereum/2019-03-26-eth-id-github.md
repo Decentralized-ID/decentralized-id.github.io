@@ -7,8 +7,9 @@ layout: single
 header: 
   image: /images/ehtereum-github-header.png
   caption: "[EIP #1056 - Ethereum Lightweight Identity](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1056.md)"
-permalink: ethereum/id-github/
-canonical_url: 'https://decentralized-id.com/ethereum/id-github/'
+permalink: /blockchain/ethereum/repositories/
+redirect_from: /ethereum/id-github/
+canonical_url: 'https://decentralized-id.com/blockchain/ethereum/repositories/'
 categories: ["Code","Blockchain"]
 tags: ["Ethereum","Jolocom"]
 last_modified_at: 2019-07-11

@@ -4,9 +4,10 @@ title: Microsoft Identity
 excerpt: >
   Microsoft believes everyone has the right to own their digital identity, one that securely and privately stores all personal data. This ID must seamlessly integrate into daily life and give complete control over data access and use.
 layout: single
-permalink: id-initiatives/microsoft/
+permalink: private-sector/microsoft/
 canonical_url: 'https://decentralized-id.com/id-initiatives/microsoft/'
-redirect_from: private-sector/microsoft/
+redirect_from: 
+  - id-initiatives/microsoft/
   - id-initiatives/microsoft
 categories: ["Private-sector"]
 tags: ["Microsoft","DID","ION"]
