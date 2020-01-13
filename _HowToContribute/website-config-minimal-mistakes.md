@@ -548,7 +548,7 @@ This is the code that makes social share and donation button on each page. The B
     </tr>
     <tr>
       <td><img src="https://imgur.com/j1hzcTo.png" width="150"></td>
-      <td><img src="https://i.imgur.com/V3EnMAes.png" width="150"></td>
+      <td><img src="/images/doge-address.png" width="150"></td>
     </tr>
   </tbody>
 </table>  
