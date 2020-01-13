@@ -93,14 +93,14 @@ Private Sector
 
 ## Reources
 
-* [SSI Meetup](https://decentralized-id.comhttp://ssimeetup.org/) - [video](https://decentralized-id.comhttps://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og) - [presentations](https://decentralized-id.comhttps://www.slideshare.net/SSIMeetup/presentations/)
-* [IIW-Wiki](https://decentralized-id.comhttps://iiw.idcommons.net/Main_Page)
-* [wiki.idcommons.net](https://decentralized-id.comhttp://wiki.idcommons.net/Main_Page)
-* [/WebOfTrustInfo](https://decentralized-id.comhttps://github.com/WebOfTrustInfo/)
-* [/peacekeeper/blockchain-identity](https://decentralized-id.comhttps://github.com/peacekeeper/blockchain-identity)
-* [identitywoman.net](https://decentralized-id.comhttps://identitywoman.net/)
-* [windley.com/tags/identity](https://decentralized-id.comhttp://www.windley.com/tags/identity.shtml)
-* [Kim Camerons Identity Blog](https://decentralized-id.comhttps://identityblog.com)
+* [SSI Meetup](http://ssimeetup.org/) - [video](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og) - [presentations](https://www.slideshare.net/SSIMeetup/presentations/)
+* [IIW-Wiki](https://iiw.idcommons.net/Main_Page)
+* [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
+* [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
+* [/peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity)
+* [identitywoman.net](https://identitywoman.net/)
+* [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
+* [Kim Camerons Identity Blog](https://identityblog.com)
 
 <h3>Tips Welcome</h3>
 <table class="table table-bordered table-hover table-condensed">
@@ -117,7 +117,7 @@ Private Sector
     </tr>
     <tr>
       <td><img src="https://imgur.com/j1hzcTo.png" width="150"></td>
-      <td><img src="https://i.imgur.com/V3EnMAes.png" width="150"></td>
+      <td><img src="https://decentralized-id.com/images/doge-address.png" width="150"></td>
     </tr>
   </tbody>
 </table>  
