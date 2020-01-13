@@ -10,10 +10,11 @@ header:
   image: "/images/sovrin-header.png"
   og_image: "https://decentralized-id.com/images/sovrin-foundation.png"
   caption: "[cryptodesign.io](http://cryptodesign.io/portfolio/sovrin-stewards/)"
-permalink: organizations/sovrin-foundation/
-canonical_url: 'https://decentralized-id.com/organizations/sovrin-foundation/'
+permalink: orgsanizations/sovrin/
+canonical_url: 'https://decentralized-id.com/organizations/sovrin/'
 redirect_from: 
   - organizations/sovrin-foundation
+  - organizations/sovrin-foundation/
 categories: ["Organizations","Sovrin Foundation"]
 tags: ["Indy","VON"]
 last_modified_at: 2019-07-13

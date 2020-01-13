@@ -5,7 +5,7 @@ title: SSI-DID Github Repositories
 description: "A start at listing all DID-SSI related GitHub Repositories."
 excerpt: "A start at listing all DID-SSI related GitHub Repositories."
 permalink: /code/github/
-canonical_url: 'https://decentralized-id.com/identity-github/'
+canonical_url: 'https://decentralized-id.com/code/github/'
 redirect_from: 
   - github/
   - github
