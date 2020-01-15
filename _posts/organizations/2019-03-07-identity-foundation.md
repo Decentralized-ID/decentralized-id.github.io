@@ -12,22 +12,12 @@ redirect_from:
 categories: ["Organizations"]
 tags: 
   - "DIF"
-last_modified_at: 2019-07-19
+last_modified_at: 2020-01-15
 ---
 
+## Identity Foundation
+
   >A key piece of the decentralized identity equation is how people, organizations, and devices can be identified and located without centralized systems of identifiers (e.g. email addresses). DIF members are actively working on protocols and implementations that enable creation, resolution, and discovery of decentralized identifiers and names across decentralized systems, like blockchains and distributed ledgers.
-
-## Contents
-* [DIF](#dif---decentralized-identity-foundation)
-* [decentralized-identity - GitHub](#-decentralized-identity---github)
-  * [DIF - DID](#dif---did)
-  * [DIF - DID-Auth](#dif---did-auth)
-  * [DIF - Sidetree](#dif---sidetree)
-  * [DIF - Hub](#dif---hub)
-  * [DIF - Uniresolver](#dif---uniresolver)
-
-
-## DIF - Decentralized Identity Foundation
 
 ![](https://imgur.com/PXGV6Xyl.png)
 
@@ -103,6 +93,31 @@ DIF members, who share the goal of “building an open source decentralized iden
 • [Veridium](https://www.veridiumid.com/) 
 • [zinc](https://tykn.tech/project-zinc/) 
 
+
+## Recent News
+
+[Decentralized Identity & Trust Technology APAC/ASEAN Call](https://medium.com/decentralized-identity/decentralized-identity-meetings-for-the-apac-region-7221b9aad29)
+> APAC and ASEAN engineers are historically under-represented in EU & US driven global efforts due to simple scheduling concerns — conference calls and other avenues of information sharing are often scheduled at inconvenient times for APAC and ASEAN participants. APAC and ASEAN engineers find it difficult to participate in communities that meet only between midnight and sunrise. This results in APAC and ASEAN solutions developing as parallels to their equivalent EU- & US-based global efforts, rather than as extensions of them or as interlocutors for them.
+
+[DIF starts DIDComm Working Group](https://medium.com/decentralized-identity/dif-starts-didcomm-working-group-9c114d9308dc)
+> Over the past few months, the DIF and Hyperledger Aries community have come together and agreed to work on a common work item aimed at developing secure communication based on Decentralized Identifiers (DIDs) — hence the name DIDComm, which is short for DID Communication. Significant prior work in developing a messaging-based communication protocol using DIDs has been incubating in the HyperLedger (HL) Aries community, with the progress of this effort evident in the resulting Aries RFCs. To address the requirements of a broader and more heterogeneous community we selected DIF as the place to pursue the next phase of work associated with this effort. Presenting the progress of DIDcomm to other relevant working groups will drive the interoperability between the various decentralized identity vendors and hence enabling a range of decentralized identity-related use cases.
+
+### DIF Monthly Newsletter
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">DIF Monthly. Our new-<a href="https://twitter.com/hashtag/newsletter?src=hash&amp;ref_src=twsrc%5Etfw">#newsletter</a>. Stay tuned &amp; sign-up on our site: <a href="https://t.co/2kw65U4bP2">https://t.co/2kw65U4bP2</a> <a href="https://t.co/wxkbChCpVh">pic.twitter.com/wxkbChCpVh</a></p>&mdash; DIF (@DecentralizedID) <a href="https://twitter.com/DecentralizedID/status/1162408597835460608?ref_src=twsrc%5Etfw">August 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+* [Email Campaign Archive from Decentralized Identity Foundation](https://us3.campaign-archive.com/home/?u=7d1001f187a746b68d2ea0d28&id=866a6c17be)
+  * [decentralized-identity/newsletter/issues/1#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=d03c08ac8b): Working Group Updates:
+  * [decentralized-identity/newsletter/issues/2#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=39d596a7f0) - Working Group Updates 
+  * [decentralized-identity/newsletter/issues/4#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=8efd1e4a75)
+  * [decentralized-identity/newsletter/issues/5#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=3dc94cb937)
+
+Working Group Updates:
+  * ☂️ InterOp Project - Demonstrating interoperability across various teams/project and technology stack.
+  * 💡 Identifiers & Discovery - How people, organizations, and devices can be identified and located without centralized systems.
+  * 💠 Storage & Compute - Secure, encrypted, privacy-preserving storage and computation of data.
+  * 🛡️ Claims & Credentials - Verifying claims and assertions of identities.
+  * 🔓 DID Auth - DID-based authentication specs, standards, and libraries.
 
 
 ## /decentralized-identity - GitHub 
