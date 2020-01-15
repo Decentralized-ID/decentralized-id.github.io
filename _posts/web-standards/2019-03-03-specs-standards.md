@@ -1,18 +1,23 @@
 ---
 date: 2019-03-03
-title:  DID Related Web Standards
+title:  Web Standards and the Emerging Decentralized ID Stack
 layout: single
-permalink: specs-standards/
+permalink: web-standards/
 canonical_url: 'https://decentralized-id.com/specs-standards/'
 redirect_from: 
   - standards
   - standards/
-categories: ["Specs-Standards","Hyperledger Foundation"]
+  - specs-standards/
+categories: ["Web Standards","Hyperledger Foundation"]
 tags: ["Index","Credentials Community Group", "DIF","FIDO","OpenID","XDI","W3C","OASIS","JSON-LD"]
 last_modified_at: 2020-01-11
 ---
 
+## High Level Overview
+
 I've begun exploring and becoming more familiar with the decentralized nature of digital identity. Open processes for standardization, are critical components for enabling a system for identification that's both decentralized and widely interoperable.
+
+<small>**This page requires a lot of attention.**</small>
 
 * [**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) NIST CYBERSECURITY WHITE PAPER (DRAFT) BLOCKCHAIN IDENTITY MANAGEMENT APPROACHES
 JULY 9, 2019
@@ -22,7 +27,8 @@ JULY 9, 2019
 
 [The Self-Sovereign Identity Stack by Oliver Terbu OSI](https://medium.com/decentralized-identity/the-self-sovereign-identity-stack-8a2cc95f2d45)
 
-## This page requires a lot of attention. 
+## Standards Bodies 
+**_and other orgs worth keeping an eye on_**
 
 I will begin with a listing of standards bodies, organizations and open processes, to which I'm paying attention (in addition to those previously gathered). From there, I can integrate and expand, as able. 
 
@@ -41,7 +47,9 @@ I will begin with a listing of standards bodies, organizations and open processe
 * [Sovrin](https://sovrin.org/announcing-four-sovrin-governance-framework-wg-task-forces/) - [Forum](https://forum.sovrin.org/c/working-groups)
 * [Me2B Alliance](https://www.me2balliance.org/repository.html)
 * [Ethereum Enterprise Alliance](https://entethalliance.org/participate/working-groups/)
-  
+
+{% include figure image_path="/images/1280px-Who-Runs-the-Internet-graphic.png" alt="https://es.wikipedia.org/wiki/Archivo:Who-Runs-the-Internet-graphic.png" caption="[*Internet Governance*](https://en.wikipedia.org/wiki/Internet_governance)" %}
+
 
 [Why Engage with Standards?](https://www.continuumloop.com/why-engage-with-standards/)
   > too many people complain about problems but don’t step to Fix It!. There are certainly a lot of flawed standards – but they make interoperability possible – not perfect – but possible. If you haven’t used them then you have no right to complain that they are too complex, too simple (even in the same standard) or too domain specific – or any of the other rants and raves that go on.
@@ -110,6 +118,27 @@ I will begin with a listing of standards bodies, organizations and open processe
 
 
 ## DIF
+
+* [Email Campaign Archive from Decentralized Identity Foundation](https://us3.campaign-archive.com/home/?u=7d1001f187a746b68d2ea0d28&id=866a6c17be)
+  * [decentralized-identity/newsletter/issues/1#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=d03c08ac8b): Working Group Updates:
+  * [decentralized-identity/newsletter/issues/2#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=39d596a7f0) - Working Group Updates 
+  * [decentralized-identity/newsletter/issues/4#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=8efd1e4a75)
+  * [decentralized-identity/newsletter/issues/5#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=3dc94cb937)
+
+Working Group Updates:
+  * ☂️ InterOp Project - Demonstrating interoperability across various teams/project and technology stack.
+  * 💡 Identifiers & Discovery - How people, organizations, and devices can be identified and located without centralized systems.
+  * 💠 Storage & Compute - Secure, encrypted, privacy-preserving storage and computation of data.
+  * 🛡️ Claims & Credentials - Verifying claims and assertions of identities.
+  * 🔓 DID Auth - DID-based authentication specs, standards, and libraries.
+
+
+[Decentralized Identity & Trust Technology APAC/ASEAN Call](https://medium.com/decentralized-identity/decentralized-identity-meetings-for-the-apac-region-7221b9aad29)
+> APAC and ASEAN engineers are historically under-represented in EU & US driven global efforts due to simple scheduling concerns — conference calls and other avenues of information sharing are often scheduled at inconvenient times for APAC and ASEAN participants. APAC and ASEAN engineers find it difficult to participate in communities that meet only between midnight and sunrise. This results in APAC and ASEAN solutions developing as parallels to their equivalent EU- & US-based global efforts, rather than as extensions of them or as interlocutors for them.
+
+[DIF starts DIDComm Working Group](https://medium.com/decentralized-identity/dif-starts-didcomm-working-group-9c114d9308dc)
+> Over the past few months, the DIF and Hyperledger Aries community have come together and agreed to work on a common work item aimed at developing secure communication based on Decentralized Identifiers (DIDs) — hence the name DIDComm, which is short for DID Communication. Significant prior work in developing a messaging-based communication protocol using DIDs has been incubating in the HyperLedger (HL) Aries community, with the progress of this effort evident in the resulting Aries RFCs. To address the requirements of a broader and more heterogeneous community we selected DIF as the place to pursue the next phase of work associated with this effort. Presenting the progress of DIDcomm to other relevant working groups will drive the interoperability between the various decentralized identity vendors and hence enabling a range of decentralized identity-related use cases.
+
 
 ### DID Auth 
 

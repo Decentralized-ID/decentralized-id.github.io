@@ -1,8 +1,9 @@
 ---
 title: Linked Data and the Semantic Web
-permalink: /specs-standards/linked-data/
 tags: ["Linked Data", "JSON-LD","RDF"]
-categories: ["Specs-Standards"]
+categories: ["Web Standards"]
+permalink: /web-standards/linked-data/
+redirect_from: /specs-standards/linked-data/
 last_modified_at: 2020-01-09
 ---
 

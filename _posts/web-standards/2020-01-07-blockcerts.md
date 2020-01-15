@@ -8,9 +8,11 @@ excerpt: >
   Blockcerts consists of open-source libraries, tools, and mobile apps enabling a decentralized, standards-based, recipient-centric ecosystem, enabling trustless verification through blockchain technologies.
 header:
   image: /images/blockcerts-header.png
-permalink: /specs-standards/blockcerts/
-redirect_from: /blockchain/bitcoin/blockcerts/
-categories: ["Blockchain", "Specs-Standards"]
+permalink: /web-standards/blockcerts/
+redirect_from: 
+  - /blockchain/bitcoin/blockcerts/
+  - /specs-standards/blockcerts/
+categories: ["Blockchain", "Web Standards"]
 tags: ["Bitcoin","Learning Machine","BTCR"]
 last_modified_at:  2020-01-07
 ---

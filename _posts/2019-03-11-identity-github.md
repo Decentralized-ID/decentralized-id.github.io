@@ -12,7 +12,7 @@ redirect_from:
   - identity-github
   - identity-github/
 toc_sticky: false
-categories: ["Code","Specs-Standards"]
+categories: ["Code","Web Standards"]
 tags: ["ID2020","Danube","W3C","XDI","OASIS","Digital Bazaar","Rebooting WoT","JSON-LD","
 Credentials Community Group","RDF","Veres One","Learning Machine","BTCR"]
 last_modified_at: 2019-03-15
