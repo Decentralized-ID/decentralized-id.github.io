@@ -56,6 +56,8 @@ last_modified_at: 2020-01-09
   > As for ledger updates, Accelerators also make use of Linked Data Capabilities. To prevent spamming the ledger, the costs of an update must somehow be accounted for. The traditional way to do this on a blockchain is to use proof of work, and this is also an option in Veres One, but for those use cases where expending time and energy on proof of work is less desirable users can use an "accelerator".
   > 
   > An accelerator is an entity that has been granted a capability to perform updates on the ledger more quickly. Accelerators may likewise take advantage of Linked Data Capabilities' support for delegation, with or without caveats.
+* [LD Signature Format Alignment](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2017/blob/master/final-documents/ld-signatures.pdf)
+  > The goal of the "LD Signature Format Alignment" Working Group at Rebooting the Web of Trust IV was to investigate the feasibility and impact of the proposed 2017 RSA Signature Suite spec, which brings JSON-LD signatures into alignment with the JOSE JSON Web Signature (JWS) standards.The 2017 RSA Signature Suite is based on RFC 7797, the JSON Web Signature (JWS) Unencoded Payload Option specifcation. This approach avoids past concerns about JWT raised in the LD signature adopters, including:•Increased space consumption associated withbase-64 encoding.•Difculty of nesting or chaining signatures, leading to data duplication.•Use of a format that is not a JSON object, preventing ability to rely exclusively on a JSON document-based storage engine (whilepreserving the signature)
 
 ## GitHub Repos
 
