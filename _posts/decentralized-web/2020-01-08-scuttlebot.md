@@ -105,7 +105,7 @@ Nearly all of these repositories have seen activity within the past year!
   > 
   > This wording aligns with the IRTF's document track for Internet-Drafts.
 - [scuttlebutt-protocol-guide](https://github.com/ssbc/scuttlebutt-protocol-guide) - Protocol documentation for Secure Scuttlebutt
-* [scuttlebutt-guide]https://github.com/ssbc/scuttlebutt-guide
+* [scuttlebutt-guide](https://github.com/ssbc/scuttlebutt-guide)
   > Looking to learn how to build in Scuttlebutt? There's currently no canonical resource, but here's a map of the known archipelago!
 
 ### Server
