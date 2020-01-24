@@ -282,7 +282,6 @@ village-tracker community volunteer coordination project
 - [ssbc/scuttlebutt-mars-workshop](https://github.com/ssbc/scuttlebutt-mars-workshop)
 - [ssbc/scuttle-tag](https://github.com/ssbc/scuttle-tag)- Forked from [wittjosiah/scuttle-tag](https://github.com/wittjosiah/scuttle-tag)
 - [ssbc/scuttle-poll](https://github.com/ssbc/scuttle-poll)
-- [ssbc/gathering](https://github.com/search?q=topic%3Agathering+org%3Assbc&type=Repositories)
 - [ssbc/scuttle-inject](https://github.com/ssbc/scuttle-inject)
 - [ssbc/scuttle-gathering](https://github.com/ssbc/scuttle-gathering)
 - [ssbc/scuttle-blog](https://github.com/ssbc/scuttle-blog)
