@@ -80,234 +80,236 @@ last_modified_at: 2020-01-09
 
 ## Secure Scuttlebutt Consortium - GitHub Repos
 
+![](https://i.imgur.com/bYQqKJH.png)
+
 * [Secure Scuttlebutt Consortium](https://github.com/ssbc) - A distributed and secure peer to peer social network
-- [somebodyshould](https://github.com/ssbc/somebodyshould) - A repo of suggestions / issues / bugs / ideas / feedback for ssb
-- [.github](https://github.com/ssbc/.github)
+- [ssbc/somebodyshould](https://github.com/ssbc/somebodyshould) - A repo of suggestions / issues / bugs / ideas / feedback for ssb
+- [ssbc/.github](https://github.com/ssbc/.github)
 Settings for the SSBC GitHub organization.
-- [scuttlebot.io](https://github.com/ssbc/scuttlebot.io) - Source repo for [https://scuttlebot.io](https://scuttlebot.io/)
+- [ssbc/scuttlebot.io](https://github.com/ssbc/scuttlebot.io) - Source repo for [https://scuttlebot.io](https://scuttlebot.io/)
 
 Nearly all of these repositories have seen activity within the past year!
 
 ### Info
 
-- [docs](https://github.com/ssbc/docs)
+- [ssbc/docs](https://github.com/ssbc/docs)
   > Scuttlebot implemented by ssb-server: a p2p log store
   > Secure Scuttlebutt implemented by ssb-db: a global database protocol
   > Patchwork: a social messaging app built on ssb-server and ssb-db
-- [handbook.scuttlebutt.nz](https://github.com/ssbc/handbook.scuttlebutt.nz)
+- [ssbc/handbook.scuttlebutt.nz](https://github.com/ssbc/handbook.scuttlebutt.nz)
   > ssb handbook: A guide to the Secure Scuttlebutt key concepts and influences (see also, new website: [ssbc/scuttlebutt.nz](https://gitlab.com/ssbc/scuttlebutt.nz/))
-- [modules.scuttlebutt.nz](https://github.com/ssbc/modules.scuttlebutt.nz) - Documentation for the Scuttlebutt module ecosystem
+- [ssbc/modules.scuttlebutt.nz](https://github.com/ssbc/modules.scuttlebutt.nz) - Documentation for the Scuttlebutt module ecosystem
   > This is an aggregation of commonly used scuttlebutt modules grouped for your convenience into several sections.
-- [ssb-spec-drafts](https://github.com/ssbc/ssb-spec-drafts) - protocol specifications for Secure Scuttlebutt
+- [ssbc/ssb-spec-drafts](https://github.com/ssbc/ssb-spec-drafts) - protocol specifications for Secure Scuttlebutt
   > SSB-Drafts are working documents of the Secure Scuttlebutt community. Note that other groups may also distribute working documents as SSB-Drafts.
   > 
   > SSB-Drafts are draft documents valid for a maximum of six months and may be updated, replaced, or obsoleted by other documents at any time. It is inappropriate to use SSB-Drafts as reference material or to cite them other than as "work in progress."
   > 
   > This wording aligns with the IRTF's document track for Internet-Drafts.
-- [scuttlebutt-protocol-guide](https://github.com/ssbc/scuttlebutt-protocol-guide) - Protocol documentation for Secure Scuttlebutt
-* [scuttlebutt-guide](https://github.com/ssbc/scuttlebutt-guide)
+- [ssbc/scuttlebutt-protocol-guide](https://github.com/ssbc/scuttlebutt-protocol-guide) - Protocol documentation for Secure Scuttlebutt
+- [ssbc/scuttlebutt-guide](https://github.com/ssbc/scuttlebutt-guide)
   > Looking to learn how to build in Scuttlebutt? There's currently no canonical resource, but here's a map of the known archipelago!
 
 ### Server
 
-- [ssb-server](https://github.com/ssbc/ssb-server)
+- [ssbc/ssb-server](https://github.com/ssbc/ssb-server)
 The gossip and replication server for Secure Scuttlebutt - a distributed social network
-- [ssb-minimal-pub-server](https://github.com/ssbc/ssb-minimal-pub-server) - A minimal version of ssb-server aimed at pubs
-- [multiserver](https://github.com/ssbc/multiserver)
+- [ssbc/ssb-minimal-pub-server](https://github.com/ssbc/ssb-minimal-pub-server) - A minimal version of ssb-server aimed at pubs
+- [ssbc/multiserver](https://github.com/ssbc/multiserver)
 A single interface that can work with multiple protocols, and multiple transforms of those protocols (eg, security layer)
-- [ssb-config](https://github.com/ssbc/ssb-config)
+- [ssbc/ssb-config](https://github.com/ssbc/ssb-config)
 standard configuration for ssb
 
 ### Client
-- [react-native-ssb-client-keys](https://github.com/ssbc/react-native-ssb-client-keys)
-- [ssb-client](https://github.com/ssbc/ssb-client) -  client library to scuttlebot
-- [ssb-hello-ws](https://github.com/ssbc/ssb-hello-ws) - simplest example to get a ssb-client working over websockets
-- [chocolatey-packages](https://github.com/ssbc/chocolatey-packages) - Chocolatey packages for SSB clients
-- [scoop-bucket](https://github.com/ssbc/scoop-bucket) - A bucket for scoop package manager with app manifests for SSB clients.
+- [ssbc/react-native-ssb-client-keys](https://github.com/ssbc/react-native-ssb-client-keys)
+- [ssbc/ssb-client](https://github.com/ssbc/ssb-client) -  client library to scuttlebot
+- [ssbc/ssb-hello-ws](https://github.com/ssbc/ssb-hello-ws) - simplest example to get a ssb-client working over websockets
+- [ssbc/chocolatey-packages](https://github.com/ssbc/chocolatey-packages) - Chocolatey packages for SSB clients
+- [ssbc/scoop-bucket](https://github.com/ssbc/scoop-bucket) - A bucket for scoop package manager with app manifests for SSB clients.
 
 ### Patchwork
-- [patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
-- [patchbay](https://github.com/ssbc/patchbay) - An alternative Secure Scuttlebutt client interface that is fully compatible with Patchwork
-- [patchlite](https://github.com/ssbc/patchlite) - [WIP] A browser lite client for the Scuttlebutt network
-- [patchgit](https://github.com/ssbc/patchgit) - Add git-ssb related functionality to patchcore related apps
-- [patchbay-book](https://github.com/ssbc/patchbay-book) - The patchbay part of scuttle-book, a book rating system
-- [patchcore](https://github.com/ssbc/patchcore) - A shared library of depject modules to build Secure Scuttlebutt social network apps
-- [patchbay-gatherings](https://github.com/ssbc/patchbay-gatherings)
-- [ssb-markdown](https://github.com/ssbc/ssb-markdown)
+- [ssbc/patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
+- [ssbc/patchbay](https://github.com/ssbc/patchbay) - An alternative Secure Scuttlebutt client interface that is fully compatible with Patchwork
+- [ssbc/patchlite](https://github.com/ssbc/patchlite) - [WIP] A browser lite client for the Scuttlebutt network
+- [ssbc/patchgit](https://github.com/ssbc/patchgit) - Add git-ssb related functionality to patchcore related apps
+- [ssbc/patchbay-book](https://github.com/ssbc/patchbay-book) - The patchbay part of scuttle-book, a book rating system
+- [ssbc/patchcore](https://github.com/ssbc/patchcore) - A shared library of depject modules to build Secure Scuttlebutt social network apps
+- [ssbc/patchbay-gatherings](https://github.com/ssbc/patchbay-gatherings)
+- [ssbc/ssb-markdown](https://github.com/ssbc/ssb-markdown)
   > patchwork's markdown parser
-- [patchbay-scry](https://github.com/ssbc/patchbay-scry)
-- [patchwork-threads](https://github.com/ssbc/patchwork-threads) - library of patchwork's thread data-structures
-- [patchwork-icons](https://github.com/ssbc/patchwork-icons)
-- [patchbay-thread](https://github.com/ssbc/patchbay-thread)
-- [patch-drafts](https://github.com/ssbc/patch-drafts)
+- [ssbc/patchbay-scry](https://github.com/ssbc/patchbay-scry)
+- [ssbc/patchwork-threads](https://github.com/ssbc/patchwork-threads) - library of patchwork's thread data-structures
+- [ssbc/patchwork-icons](https://github.com/ssbc/patchwork-icons)
+- [ssbc/patchbay-thread](https://github.com/ssbc/patchbay-thread)
+- [ssbc/patch-drafts](https://github.com/ssbc/patch-drafts)
 
 ### Schema
 
-- [ssb-gathering-schema](https://github.com/ssbc/ssb-gathering-schema)
-- [ssb-invite-schema](https://github.com/ssbc/ssb-invite-schema) - schema for scuttle-invite message types
-- [ssb-audio-schema](https://github.com/ssbc/ssb-audio-schema)
-- [ssb-thread-schema](https://github.com/ssbc/ssb-thread-schema)
-- [ssb-schema-definitions](https://github.com/ssbc/ssb-schema-definitions) - Standardised schema definitions for ssb message types using is-my-json-valid
-- [ssb-contact-schema](https://github.com/ssbc/ssb-contact-schema)
-- [ssb-schema-validation](https://github.com/ssbc/ssb-schema-validation)
+- [ssbc/ssb-gathering-schema](https://github.com/ssbc/ssb-gathering-schema)
+- [ssbc/ssb-invite-schema](https://github.com/ssbc/ssb-invite-schema) - schema for scuttle-invite message types
+- [ssbc/ssb-audio-schema](https://github.com/ssbc/ssb-audio-schema)
+- [ssbc/ssb-thread-schema](https://github.com/ssbc/ssb-thread-schema)
+- [ssbc/ssb-schema-definitions](https://github.com/ssbc/ssb-schema-definitions) - Standardised schema definitions for ssb message types using is-my-json-valid
+- [ssbc/ssb-contact-schema](https://github.com/ssbc/ssb-contact-schema)
+- [ssbc/ssb-schema-validation](https://github.com/ssbc/ssb-schema-validation)
   > Build a set of validators using JSON schema with multiple schema versions
 
 ### Crypto
 
-- [ssb-keys](https://github.com/ssbc/ssb-keys) - keyfile operations for ssb
-- [ssb-caps](https://github.com/ssbc/ssb-caps) - The default "Caps" keys for accessing the SSB protocol using secret handshake
-- [box2-spec](https://github.com/ssbc/box2-spec)
+- [ssbc/ssb-keys](https://github.com/ssbc/ssb-keys) - keyfile operations for ssb
+- [ssbc/ssb-caps](https://github.com/ssbc/ssb-caps) - The default "Caps" keys for accessing the SSB protocol using secret handshake
+- [ssbc/box2-spec](https://github.com/ssbc/box2-spec)
   > This is a spec for encrypting messages to groups of people. Initially it will support communication for large groups which share a public key (secret key cryptography / symmetric keys), but it has also been designed to support forward-secure secret-key cryptography (a little like Signal's double-ratchet).
-- [ssb-ephemeral-keys](https://github.com/ssbc/ssb-ephemeral-keys) - Methods for encrypting messages with ephemeral keys over Secure Scuttlebutt
-- [secret-stack](https://github.com/ssbc/secret-stack) - connect peers to each other using secret-handshakes
-- [ssb-secret-blob](https://github.com/ssbc/ssb-secret-blob) - encrypted blobs over ssb protocol
-- [private-box2](https://github.com/ssbc/private-box2) - new message encryption for ssb
+- [ssbc/ssb-ephemeral-keys](https://github.com/ssbc/ssb-ephemeral-keys) - Methods for encrypting messages with ephemeral keys over Secure Scuttlebutt
+- [ssbc/secret-stack](https://github.com/ssbc/secret-stack) - connect peers to each other using secret-handshakes
+- [ssbc/ssb-secret-blob](https://github.com/ssbc/ssb-secret-blob) - encrypted blobs over ssb protocol
+- [ssbc/private-box2](https://github.com/ssbc/private-box2) - new message encryption for ssb
 
 ### MuxRPC
-- [muxrpc](https://github.com/ssbc/muxrpc) - lightweight multiplexed rpc
-- [muxrpc-validation](https://github.com/ssbc/muxrpc-validation)- Forked from [pfrazee/muxrpc-validation](https://github.com/pfrazee/muxrpc-validation)
+- [ssbc/muxrpc](https://github.com/ssbc/muxrpc) - lightweight multiplexed rpc
+- [ssbc/muxrpc-validation](https://github.com/ssbc/muxrpc-validation)- Forked from [pfrazee/muxrpc-validation](https://github.com/pfrazee/muxrpc-validation)
 Validation library for muxrpc apis
-- [ssb-plugins](https://github.com/ssbc/ssb-plugins)
+- [ssbc/ssb-plugins](https://github.com/ssbc/ssb-plugins)
   > ssb-plugins is a plugin that provides additional plugin related functionality to a secret-stack instance.
   > 
   > Without ssb-plugins, plugins can only be loaded explicitly by an ssb-server with the .use() method.
   > 
   > Generally speaking, this plugin provides the abilility for plugins to be loaded and run as a separate process, with communication over muxrpc.
-- [muxrpcli](https://github.com/ssbc/muxrpcli) - command-line interface to muxrpc servers
+- [ssbc/muxrpcli](https://github.com/ssbc/muxrpcli) - command-line interface to muxrpc servers
   > muxrpc aims to provide remote access to any reasonable node.js api remotely. this means it supports both streaming and async operations. pull-streams are used.
   > 
   > It may seem at first that it would be logically cleaner to separate this into two concerns, multiplexing and request-response. Indeed, we did just that in multilevel combining mux-demux and rpc-stream however, I realized that multiplexing depends on adding framing to incoming messages, and so does rpc. If rpc is implemented as another layer on top of multiplexing, then the rpc messages end up with a second layer of framing too. By implementing one protocol that supports both streams and rpc, we were able to have both features with only a single layer of framing.
 
 ### Plugins
 
-- [ssb-search](https://github.com/ssbc/ssb-search)
+- [ssbc/ssb-search](https://github.com/ssbc/ssb-search)
 fulltext search as scuttlebot plugin
-- [ssb-links](https://github.com/ssbc/ssb-links)
+- [ssbc/ssb-links](https://github.com/ssbc/ssb-links)
 ssb-plugin that indexes all the links!
-- [ssb-backlinks](https://github.com/ssbc/ssb-backlinks)
+- [ssbc/ssb-backlinks](https://github.com/ssbc/ssb-backlinks)
 scuttlebot plugin for indexing all link mentions of messages
-- [ssb-identities](https://github.com/ssbc/ssb-identities)
+- [ssbc/ssb-identities](https://github.com/ssbc/ssb-identities)
 manage multiple identities as sbot plugin
-- [ssb-serve-blobs](https://github.com/ssbc/ssb-serve-blobs)
+- [ssbc/ssb-serve-blobs](https://github.com/ssbc/ssb-serve-blobs)
   > Sbot plugin to serve blobs from a local http server
-- [ssb-threads](https://github.com/ssbc/ssb-threads)
+- [ssbc/ssb-threads](https://github.com/ssbc/ssb-threads)
   > Scuttlebot plugin for fetching messages as threads
 announce a public address for yourself
-- [ssb-about](https://github.com/ssbc/ssb-about)
+- [ssbc/ssb-about](https://github.com/ssbc/ssb-about)
 scuttlebot plugin for getting reduced 'about' state
-- [ssb-social-index](https://github.com/ssbc/ssb-social-index)
+- [ssbc/ssb-social-index](https://github.com/ssbc/ssb-social-index)
 scuttlebutt plugin for getting reduced state based on the author's social graph
-- [gitbook-plugin-ssb](https://github.com/ssbc/gitbook-plugin-ssb)
+- [ssbc/gitbook-plugin-ssb](https://github.com/ssbc/gitbook-plugin-ssb)
 GitBook plugin for Secure Scuttlebutt markdown formatting
-- [ssb-private](https://github.com/ssbc/ssb-private)
+- [ssbc/ssb-private](https://github.com/ssbc/ssb-private)
 scuttlebot plugin for indexed private messages
 
 
 ### Invites
 
-- [ssb-peer-invites](https://github.com/ssbc/ssb-peer-invites)
+- [ssbc/ssb-peer-invites](https://github.com/ssbc/ssb-peer-invites)
   > A new ssb invite system to create invites without having a pub
-- [ssb-invite](https://github.com/ssbc/ssb-invite) - "followbot" style invite codes for ssb
-- [scuttle-invite-db](https://github.com/ssbc/scuttle-invite-db) - fluemview-reduce of invites and replies for scuttle invite
-- [scuttle-invite](https://github.com/ssbc/scuttle-invite) - polymorphic invite and reply logic for secure scuttlebutt
-- [ssb-invite-schema](https://github.com/ssbc/ssb-invite-schema) - schema for scuttle-invite message types
+- [ssbc/ssb-invite](https://github.com/ssbc/ssb-invite) - "followbot" style invite codes for ssb
+- [ssbc/scuttle-invite-db](https://github.com/ssbc/scuttle-invite-db) - fluemview-reduce of invites and replies for scuttle invite
+- [ssbc/scuttle-invite](https://github.com/ssbc/scuttle-invite) - polymorphic invite and reply logic for secure scuttlebutt
+- [ssbc/ssb-invite-schema](https://github.com/ssbc/ssb-invite-schema) - schema for scuttle-invite message types
 
 ### Testing
-- [scuttle-testbot](https://github.com/ssbc/scuttle-testbot)
-- [compatibility](https://github.com/ssbc/compatibility)
+- [ssbc/scuttle-testbot](https://github.com/ssbc/scuttle-testbot)
+- [ssbc/compatibility](https://github.com/ssbc/compatibility)
 tool to run tests of your dependencies, to check they are compatible
-- [ssb-integration-tests](https://github.com/ssbc/ssb-integration-tests)
+- [ssbc/ssb-integration-tests](https://github.com/ssbc/ssb-integration-tests)
 integration-tests for sbot
-- [ssb-testing-guide](https://github.com/ssbc/ssb-testing-guide)
+- [ssbc/ssb-testing-guide](https://github.com/ssbc/ssb-testing-guide)
   > This is the start of a collection of patterns we've found useful for doing testing in the Scuttlebutt ecosystem
 
 ### Assorted
 
-- [ssb-bin](https://github.com/ssbc/ssb-bin) - ssb cli commands
-- [ssb-first-aid-kit](https://github.com/ssbc/ssb-first-aid-kit) - A user-friendly app for diagnosing and fixing problems with your Scuttlebutt installation
-- [ssb-msgs](https://github.com/ssbc/ssb-msgs) - message-processing for ssb
-- [ssb-validate](https://github.com/ssbc/ssb-validate) - better ssb validator
-- [scuttle-shell](https://github.com/ssbc/scuttle-shell) - A system tray app for running Secure Scuttlebutt and providing sbot features to your local system
-- [ssb-local](https://github.com/ssbc/ssb-local)
-- [ssb-suggest](https://github.com/ssbc/ssb-suggest)
-- [layered-graph](https://github.com/ssbc/layered-graph)
-- [ssb-db](https://github.com/ssbc/ssb-db)
+- [ssbc/ssb-bin](https://github.com/ssbc/ssb-bin) - ssb cli commands
+- [ssbc/ssb-first-aid-kit](https://github.com/ssbc/ssb-first-aid-kit) - A user-friendly app for diagnosing and fixing problems with your Scuttlebutt installation
+- [ssbc/ssb-msgs](https://github.com/ssbc/ssb-msgs) - message-processing for ssb
+- [ssbc/ssb-validate](https://github.com/ssbc/ssb-validate) - better ssb validator
+- [ssbc/scuttle-shell](https://github.com/ssbc/scuttle-shell) - A system tray app for running Secure Scuttlebutt and providing sbot features to your local system
+- [ssbc/ssb-local](https://github.com/ssbc/ssb-local)
+- [ssbc/ssb-suggest](https://github.com/ssbc/ssb-suggest)
+- [ssbc/layered-graph](https://github.com/ssbc/layered-graph)
+- [ssbc/ssb-db](https://github.com/ssbc/ssb-db)
 A database of unforgeable append-only feeds, optimized for efficient replication for peer to peer protocols
-- [ssb-backup-tool](https://github.com/ssbc/ssb-backup-tool) - A backup tool for the Scuttleverse
-- [ssb-ebt](https://github.com/ssbc/ssb-ebt)
+- [ssbc/ssb-backup-tool](https://github.com/ssbc/ssb-backup-tool) - A backup tool for the Scuttleverse
+- [ssbc/ssb-ebt](https://github.com/ssbc/ssb-ebt)
   > secure scuttlebutt replication with epidemic-broadcast-trees
-- [ssb-blob-files](https://github.com/ssbc/ssb-blob-files)
+- [ssbc/ssb-blob-files](https://github.com/ssbc/ssb-blob-files)
   > Channel a bunch of files from a dom event into the blob store. Get some tweaks and checks made along the way.
-- [ssb-ooo](https://github.com/ssbc/ssb-ooo) - retrive ssb messages Out Of Order
-- [multiblob](https://github.com/ssbc/multiblob) - A content-addressable-store that supports multiple hashing algorithms, and pull-streams
-- [ssb-ahoy](https://github.com/ssbc/ssb-ahoy) - An onboarding mini-app - gets you all set up, and caught up on the gossip before you set out on your adventure
-- [react-native-ssb-shims](https://github.com/ssbc/react-native-ssb-shims) - Node.js-related shims necessary for the SSB ecosystem to run on React Native apps
-- [ssb-mentions](https://github.com/ssbc/ssb-mentions) - extract the mentions in a ssb message, just using the markdown.
-- [ssb-replicate](https://github.com/ssbc/ssb-replicate) - ssb legacy replication, previously built into ssb-server
-- [ssbc-sitegen](https://github.com/ssbc/ssbc-sitegen) - Tool to generate the GH pages for ssbc repos
-- [ssb-friend-pub](https://github.com/ssbc/ssb-friend-pub)
-- [ssb-unread](https://github.com/ssbc/ssb-unread)
-- [ssb-blobs](https://github.com/ssbc/ssb-blobs) - blob gossiping ssb-subprotocol
-- [ssb-lists](https://github.com/ssbc/ssb-lists)
+- [ssbc/ssb-ooo](https://github.com/ssbc/ssb-ooo) - retrive ssb messages Out Of Order
+- [ssbc/multiblob](https://github.com/ssbc/multiblob) - A content-addressable-store that supports multiple hashing algorithms, and pull-streams
+- [ssbc/ssb-ahoy](https://github.com/ssbc/ssb-ahoy) - An onboarding mini-app - gets you all set up, and caught up on the gossip before you set out on your adventure
+- [ssbc/react-native-ssb-shims](https://github.com/ssbc/react-native-ssb-shims) - Node.js-related shims necessary for the SSB ecosystem to run on React Native apps
+- [ssbc/ssb-mentions](https://github.com/ssbc/ssb-mentions) - extract the mentions in a ssb message, just using the markdown.
+- [ssbc/ssb-replicate](https://github.com/ssbc/ssb-replicate) - ssb legacy replication, previously built into ssb-server
+- [ssbc/ssbc-sitegen](https://github.com/ssbc/ssbc-sitegen) - Tool to generate the GH pages for ssbc repos
+- [ssbc/ssb-friend-pub](https://github.com/ssbc/ssb-friend-pub)
+- [ssbc/ssb-unread](https://github.com/ssbc/ssb-unread)
+- [ssbc/ssb-blobs](https://github.com/ssbc/ssb-blobs) - blob gossiping ssb-subprotocol
+- [ssbc/ssb-lists](https://github.com/ssbc/ssb-lists)
   > This implements block/follow lists. (the main use-case was block lists) but a system that could both block and follow was not more complicated.
-- [ssb-tangle](https://github.com/ssbc/ssb-tangle)
-- [ssb-friends](https://github.com/ssbc/ssb-friends)
+- [ssbc/ssb-tangle](https://github.com/ssbc/ssb-tangle)
+- [ssbc/ssb-friends](https://github.com/ssbc/ssb-friends)
 the logic around who to replicate or not
-- [two.camp.scuttlebutt.nz](https://github.com/ssbc/two.camp.scuttlebutt.nz)
-- [ssb-ref](https://github.com/ssbc/ssb-ref)
+- [ssbc/two.camp.scuttlebutt.nz](https://github.com/ssbc/two.camp.scuttlebutt.nz)
+- [ssbc/ssb-ref](https://github.com/ssbc/ssb-ref)
 check if a string is a valid ssb-reference
-- [ssb-gossip](https://github.com/ssbc/ssb-gossip)
+- [ssbc/ssb-gossip](https://github.com/ssbc/ssb-gossip)
 Schedule connections randomly with a peerlist constructed from config, multicast UDP announcements, feed announcements, and API-calls
-- [ssb-contact-msg](https://github.com/ssbc/ssb-contact-msg)
-- [ssb-ws](https://github.com/ssbc/ssb-ws) - ssb-ws & http server for ssb
-- [multiserver-scopes](https://github.com/ssbc/multiserver-scopes)
-- [ssb-tunnel](https://github.com/ssbc/ssb-tunnel)
+- [ssbc/ssb-contact-msg](https://github.com/ssbc/ssb-contact-msg)
+- [ssbc/ssb-ws](https://github.com/ssbc/ssb-ws) - ssb-ws & http server for ssb
+- [ssbc/multiserver-scopes](https://github.com/ssbc/multiserver-scopes)
+- [ssbc/ssb-tunnel](https://github.com/ssbc/ssb-tunnel)
 create a p2p link tunneled through a pub server
-- [bench-ssb](https://github.com/ssbc/bench-ssb)
+- [ssbc/bench-ssb](https://github.com/ssbc/bench-ssb)
 benchmarks for all the parts of ssb
-- [chloride](https://github.com/ssbc/chloride)- Forked from [dominictarr/chloride](https://github.com/dominictarr/chloride)
-- [ssb-query](https://github.com/ssbc/ssb-query)
-- [ssb-device-address](https://github.com/ssbc/ssb-device-address)
-- [village-tracker](https://github.com/ssbc/village-tracker)
+- [ssbc/chloride](https://github.com/ssbc/chloride)- Forked from [dominictarr/chloride](https://github.com/dominictarr/chloride)
+- [ssbc/ssb-query](https://github.com/ssbc/ssb-query)
+- [ssbc/ssb-device-address](https://github.com/ssbc/ssb-device-address)
+- [ssbc/village-tracker](https://github.com/ssbc/village-tracker)
 village-tracker community volunteer coordination project
-- [ssb-master](https://github.com/ssbc/ssb-master)
-- [noto-color-emoji](https://github.com/ssbc/noto-color-emoji)
-- [open-dyslexic](https://github.com/ssbc/open-dyslexic)- Forked from [antijingoist/open-dyslexic](https://github.com/antijingoist/open-dyslexic) - What I intend to be an opensource font for dyslexics and for high readability
-- [ssbc-owners](https://github.com/ssbc/ssbc-owners) - set org owners as npm owners
-- [scuttle-thread](https://github.com/ssbc/scuttle-thread)
-- [ssb-incoming-guard](https://github.com/ssbc/ssb-incoming-guard)
-- [ssb-graphviz](https://github.com/ssbc/ssb-graphviz) - visualize your ssb network graph
-- [scuttlebutt-mars-workshop](https://github.com/ssbc/scuttlebutt-mars-workshop)
-- [scuttle-tag](https://github.com/ssbc/scuttle-tag)- Forked from [wittjosiah/scuttle-tag](https://github.com/wittjosiah/scuttle-tag)
-- [scuttle-poll](https://github.com/ssbc/scuttle-poll)
-* [gathering](https://github.com/search?q=topic%3Agathering+org%3Assbc&type=Repositories)
-- [scuttle-inject](https://github.com/ssbc/scuttle-inject)
-- [scuttle-gathering](https://github.com/ssbc/scuttle-gathering)
-- [scuttle-blog](https://github.com/ssbc/scuttle-blog)
-- [scuttle-blob](https://github.com/ssbc/scuttle-blob)
-- [pull-next-query](https://github.com/ssbc/pull-next-query)
-- [paulcbetts-spellchecker-prebuilt](https://github.com/ssbc/paulcbetts-spellchecker-prebuilt)- Forked from [anaisbetts/node-spellchecker](https://github.com/anaisbetts/node-spellchecker)
+- [ssbc/ssb-master](https://github.com/ssbc/ssb-master)
+- [ssbc/noto-color-emoji](https://github.com/ssbc/noto-color-emoji)
+- [ssbc/open-dyslexic](https://github.com/ssbc/open-dyslexic)- Forked from [antijingoist/open-dyslexic](https://github.com/antijingoist/open-dyslexic) - What I intend to be an opensource font for dyslexics and for high readability
+- [ssbc/ssbc-owners](https://github.com/ssbc/ssbc-owners) - set org owners as npm owners
+- [ssbc/scuttle-thread](https://github.com/ssbc/scuttle-thread)
+- [ssbc/ssb-incoming-guard](https://github.com/ssbc/ssb-incoming-guard)
+- [ssbc/ssb-graphviz](https://github.com/ssbc/ssb-graphviz) - visualize your ssb network graph
+- [ssbc/scuttlebutt-mars-workshop](https://github.com/ssbc/scuttlebutt-mars-workshop)
+- [ssbc/scuttle-tag](https://github.com/ssbc/scuttle-tag)- Forked from [wittjosiah/scuttle-tag](https://github.com/wittjosiah/scuttle-tag)
+- [ssbc/scuttle-poll](https://github.com/ssbc/scuttle-poll)
+- [ssbc/gathering](https://github.com/search?q=topic%3Agathering+org%3Assbc&type=Repositories)
+- [ssbc/scuttle-inject](https://github.com/ssbc/scuttle-inject)
+- [ssbc/scuttle-gathering](https://github.com/ssbc/scuttle-gathering)
+- [ssbc/scuttle-blog](https://github.com/ssbc/scuttle-blog)
+- [ssbc/scuttle-blob](https://github.com/ssbc/scuttle-blob)
+- [ssbc/pull-next-query](https://github.com/ssbc/pull-next-query)
+- [ssbc/paulcbetts-spellchecker-prebuilt](https://github.com/ssbc/paulcbetts-spellchecker-prebuilt)- Forked from [anaisbetts/node-spellchecker](https://github.com/anaisbetts/node-spellchecker)
 - Forked from @paulcbetts/spellchecker to add automated prebuilds
-- [opencollective_page](https://github.com/ssbc/opencollective_page)
-- [nicedate](https://github.com/ssbc/nicedate)
+- [ssbc/opencollective_page](https://github.com/ssbc/opencollective_page)
+- [ssbc/nicedate](https://github.com/ssbc/nicedate)
 nicely formatted dates since 7d ago
-- [marked](https://github.com/ssbc/marked)- Forked from [clehner/marked](https://github.com/clehner/marked)
+- [ssbc/marked](https://github.com/ssbc/marked)- Forked from [clehner/marked](https://github.com/clehner/marked)
 A markdown parser and compiler. This fork adds SSB-specific features, such as mentions and emojis.
-- [keyboard-layout-prebuilt](https://github.com/ssbc/keyboard-layout-prebuilt)- Forked from [atom/keyboard-layout](https://github.com/atom/keyboard-layout)
+- [ssbc/keyboard-layout-prebuilt](https://github.com/ssbc/keyboard-layout-prebuilt)- Forked from [atom/keyboard-layout](https://github.com/atom/keyboard-layout)
 Fork of keyboard-layout that adds automated prebuilds
-- [grants-process](https://github.com/ssbc/grants-process)
+- [ssbc/grants-process](https://github.com/ssbc/grants-process)
 grants-process
-- [forked-systray/systrayhelper](https://github.com/ssbc/forked-systray/systrayhelper) - Forked from [zaaack/systray-portable](https://github.com/zaaack/systray-portable)  - A portable version of go systray, using stdin/stdout to communicate with other language
-- [emoji-server](https://github.com/ssbc/emoji-server)
+- [ssbc/forked-systray/systrayhelper](https://github.com/ssbc/forked-systray/systrayhelper) - Forked from [zaaack/systray-portable](https://github.com/zaaack/systray-portable)  - A portable version of go systray, using stdin/stdout to communicate with other language
+- [ssbc/emoji-server](https://github.com/ssbc/emoji-server)
 emoji middleware/server
-- [ssb-viewer](https://github.com/ssbc/ssb-viewer)
-- [ssb-sort](https://github.com/ssbc/ssb-sort)
-- [ssb-names](https://github.com/ssbc/ssb-names)
-- [packet-stream](https://github.com/ssbc/packet-stream)
-- [ssb-webexthost](https://github.com/ssbc/ssb-webexthost)
-- [ssb-typescript](https://github.com/ssbc/ssb-typescript) - Contains type definitions for common SSB concepts
-- [multiserver-address](https://github.com/ssbc/multiserver-address)
-- [level-sublevel](https://github.com/ssbc/level-sublevel)- Forked from [dominictarr/level-sublevel](https://github.com/dominictarr/level-sublevel) - no longer maintained, sorry!
-- [packet-stream-codec](https://github.com/ssbc/packet-stream-codec)
+- [ssbc/ssb-viewer](https://github.com/ssbc/ssb-viewer)
+- [ssbc/ssb-sort](https://github.com/ssbc/ssb-sort)
+- [ssbc/ssb-names](https://github.com/ssbc/ssb-names)
+- [ssbc/packet-stream](https://github.com/ssbc/packet-stream)
+- [ssbc/ssb-webexthost](https://github.com/ssbc/ssb-webexthost)
+- [ssbc/ssb-typescript](https://github.com/ssbc/ssb-typescript) - Contains type definitions for common SSB concepts
+- [ssbc/multiserver-address](https://github.com/ssbc/multiserver-address)
+- [ssbc/level-sublevel](https://github.com/ssbc/level-sublevel)- Forked from [dominictarr/level-sublevel](https://github.com/dominictarr/level-sublevel) - no longer maintained, sorry!
+- [ssbc/packet-stream-codec](https://github.com/ssbc/packet-stream-codec)
 
 
