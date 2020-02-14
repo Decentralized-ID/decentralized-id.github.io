@@ -10,8 +10,6 @@ main:
     url: "/aim/"
   - title: "identitywoman/identity-commons"
     url: "https://github.com/identitywoman/identity-commons"
-  - title: "RebootingWebOfTrust - Archive"
-    url: "https://decentralized-id.com/rwot-dir/"
   - title: "Decentralized Web - History"
     url: "https://sourcecrypto.pub/decentralized-web/"
 

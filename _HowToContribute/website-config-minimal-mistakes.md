@@ -21,7 +21,7 @@ I'm just sharing this here, for anyone who is interested.
 
 ## Why Minimal Mistakes?
 
-Generally speaking, I like to use and learn know a variety of [static site generators](https://web-work.tools/static-site-generators/) and theier themes. 
+Generally speaking, I like to use and learn a variety of [static site generators](https://web-work.tools/static-site-generators/) and their themes. 
 
 However, I've used Minimal Mistakes to publish large websites and small web-sites. It really works. It works well. Even before you know how to use all of it's features, its a really reliable framework.
 
