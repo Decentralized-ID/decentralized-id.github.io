@@ -36,10 +36,7 @@ However, over time, through the process of collaborative editing, crowdsourcing 
 A number of repositories which will be good sources for content creation have been forked into this organization for reference. The following are the primary repositories under our care.
 
 * [DIDecentral](https://github.com/DIDecentral)
-  * [didecentral/community-website](https://github.com/didecentral/community-website) - Community Site and Archive
   * [didecentral/decentralized-id.com](https://github.com/didecentral/decentralized-id.com) - Decentralized Identity 
-  * [didecentral/rwot-dir](https://github.com/didecentral/rwot-dir) - Rebooting Web of Trust - Archive (once built, to be integrated with WebOfTrust.Info, somehow)
-  * [Identitywoman/identity-commons](https://github.com/Identitywoman/identity-commons) - To become *the* source for Decentralized ID history, merging our combined resources.
   
 Besides these, @infominer33 commonly forks repositories into the organization that seem like good sources for future collaboration and\or content creation.
 
