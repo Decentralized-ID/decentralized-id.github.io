@@ -16,6 +16,7 @@ last_modified_at: 2019-07-11
 
 ![](https://i.imgur.com/MEN8iSn.png)
 
+6/16 — [Microsoft Building Open Blockchain-Based Identity System With Blockstack, ConsenSys](https://bitcoinmagazine.com/articles/microsoft-building-open-blockchain-based-identity-system-with-blockstack-consensys-1464968713/)
 
 [![](https://imgur.com/l0NEfjrl.png)](https://www.microsoft.com/en-us/security/technology/own-your-identity)
 * [microsoft.com/en-us/security/technology/own-your-identity](https://www.microsoft.com/en-us/security/technology/own-your-identity)
