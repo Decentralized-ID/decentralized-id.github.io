@@ -15,9 +15,9 @@ tags:
 last_modified_at: 2020-01-15
 ---
 
-## Identity Foundation
+>A key piece of the decentralized identity equation is how people, organizations, and devices can be identified and located without centralized systems of identifiers (e.g. email addresses). DIF members are actively working on protocols and implementations that enable creation, resolution, and discovery of decentralized identifiers and names across decentralized systems, like blockchains and distributed ledgers.
 
-  >A key piece of the decentralized identity equation is how people, organizations, and devices can be identified and located without centralized systems of identifiers (e.g. email addresses). DIF members are actively working on protocols and implementations that enable creation, resolution, and discovery of decentralized identifiers and names across decentralized systems, like blockchains and distributed ledgers.
+## Identity Foundation
 
 ![](https://imgur.com/PXGV6Xyl.png)
 
@@ -28,6 +28,7 @@ last_modified_at: 2020-01-15
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
   * [uniresolver.io](https://uniresolver.io/)
 * [6/27 Masterclass on the DID Universal Resolver - Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
+* [Decentralized Identity Foundation](https://golden.com/wiki/Decentralized_Identity_Foundation) - golden.com
 
 DIF members, who share the goal of “building an open source decentralized identity ecosystem for people, organizations, apps, and devices” include: 
   * [1kosmos](https://onekosmos.com/product-details/) 

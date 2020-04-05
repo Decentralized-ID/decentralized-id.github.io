@@ -10,27 +10,44 @@ redirect_from:
   - specs-standards/
 categories: ["Web Standards","Hyperledger Foundation"]
 tags: ["Index","Credentials Community Group", "DIF","FIDO","OpenID","XDI","W3C","OASIS","JSON-LD"]
-last_modified_at: 2020-01-11
+last_modified_at: 2020-04-04
 ---
+
+I've begun exploring and becoming more familiar with the decentralized nature of digital identity. Open processes for standardization are critical components for enabling identification that's both decentralized and widely interoperable.
+
+[Why Engage with Standards?](https://www.continuumloop.com/why-engage-with-standards/)
+  > too many people complain about problems but don’t step to Fix It!. There are certainly a lot of flawed standards – but they make interoperability possible – not perfect – but possible. If you haven’t used them then you have no right to complain that they are too complex, too simple (even in the same standard) or too domain specific – or any of the other rants and raves that go on.
+  > 
+  > If you’re willing to put up with a lot of work for incremental improvements then step up and join a standard. Whether that is a (relatively) fast moving standard group like OASIS (www.oasis-open.org) or a slower but more international group like ISO you will learn. You’ll also benefit from working with experts. These experts donate their time and are more than happy to provide ideas, guidance, and leadership.
+
+[Who Are the Identerati? - ForgeRock](https://www.forgerock.com/blog/who-are-the-identerati)
+  > You’re familiar with digital identity standards like OpenID Connect, OAuth, and User-Managed Access, fundamental elements of privacy and security on the internet. But have you ever wondered how they came to be? A lot of work on these protocols went on (and goes on) behind t...
+
+[Building Blocks for a New Architecture](https://medium.com/@trbouma/building-blocks-for-a-new-architecture-fda2238ac005)
+  > After looking at the many different digital platforms and mechanisms: centralized, decentralized, proof-of-work, proof-of-stake, the list goes on, I have concluded that all of these new platforms boil down to fulfilling three core societal functions: value, identity, and status, underpinned by consensus.
 
 ## High Level Overview
 
-I've begun exploring and becoming more familiar with the decentralized nature of digital identity. Open processes for standardization, are critical components for enabling a system for identification that's both decentralized and widely interoperable.
-
-<small>**This page requires a lot of attention.**</small>
 
 * [**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) NIST CYBERSECURITY WHITE PAPER (DRAFT) BLOCKCHAIN IDENTITY MANAGEMENT APPROACHES
 JULY 9, 2019
   > Identity management systems (IDMSs) are widely used to provision user identities while managing authentication, authorization, and data sharing both within organizations as well as on the Internet more broadly. Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues such as encouraging mass data collection and user tracking. Blockchain technology has the potential to support novel data ownership and governance models with built-in control and consent mechanisms, which may benefit both users and businesses by alleviating these concerns; as a result, blockchain-based IDMSs are beginning to proliferate. This work categorizes these systems into a taxonomy based on differences in architecture, governance models, and other salient features. We provide context for the taxonomy by describing related terms, emerging standards, and use cases, while highlighting relevant security and privacy considerations.
 
-[Hyperledger Identity Working Group - Identity Standards](https://wiki.hyperledger.org/display/IWG/Identity+Standards)
+* [Hyperledger Identity Working Group - Identity Standards](https://wiki.hyperledger.org/display/IWG/Identity+Standards)
 
-[The Self-Sovereign Identity Stack by Oliver Terbu OSI](https://medium.com/decentralized-identity/the-self-sovereign-identity-stack-8a2cc95f2d45)
+* [The Self-Sovereign Identity Stack by Oliver Terbu OSI](https://medium.com/decentralized-identity/the-self-sovereign-identity-stack-8a2cc95f2d45)
+
+![](https://imgur.com/6MLNgXal.png)\
+<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
+
 
 ## Standards Bodies 
 **_and other orgs worth keeping an eye on_**
 
-I will begin with a listing of standards bodies, organizations and open processes, to which I'm paying attention (in addition to those previously gathered). From there, I can integrate and expand, as able. 
+I will begin with a listing of standards bodies, organizations and open processes, to which I'm paying attention (in addition to those previously gathered). From there, integrate and expand, as able. 
+
+* [*Overview of Decentralized Identity Standards*](https://medium.com/decentralized-identity/overview-of-decentralized-identity-standards-f82efd9ab6c7), Nader Helmy
+  > A standard, open protocol for establishing unique, private and secure connections between multiple parties without requiring the assistance of an intermediary “connection broker,” like Google, WhatsApp, an email provider, or a phone carrier. Secure connections are created by two or more peers creating and exchanging decentralized identifiers or “DIDs.” 
 
 * [ISSA (Information Systems Security Association)](https://www.issa.org/)
 * [ISAO Standards](https://www.isao.org/)
@@ -51,17 +68,6 @@ I will begin with a listing of standards bodies, organizations and open processe
 {% include figure image_path="/images/1280px-Who-Runs-the-Internet-graphic.png" alt="https://es.wikipedia.org/wiki/Archivo:Who-Runs-the-Internet-graphic.png" caption="[*Internet Governance*](https://en.wikipedia.org/wiki/Internet_governance)" %}
 
 
-[Why Engage with Standards?](https://www.continuumloop.com/why-engage-with-standards/)
-  > too many people complain about problems but don’t step to Fix It!. There are certainly a lot of flawed standards – but they make interoperability possible – not perfect – but possible. If you haven’t used them then you have no right to complain that they are too complex, too simple (even in the same standard) or too domain specific – or any of the other rants and raves that go on.
-  > 
-  > If you’re willing to put up with a lot of work for incremental improvements then step up and join a standard. Whether that is a (relatively) fast moving standard group like OASIS (www.oasis-open.org) or a slower but more international group like ISO you will learn. You’ll also benefit from working with experts. These experts donate their time and are more than happy to provide ideas, guidance, and leadership.
-
-[Who Are the Identerati? - ForgeRock](https://www.forgerock.com/blog/who-are-the-identerati)
-  > You’re familiar with digital identity standards like OpenID Connect, OAuth, and User-Managed Access, fundamental elements of privacy and security on the internet. But have you ever wondered how they came to be? A lot of work on these protocols went on (and goes on) behind t...
-
-[Building Blocks for a New Architecture](https://medium.com/@trbouma/building-blocks-for-a-new-architecture-fda2238ac005)
-  > After looking at the many different digital platforms and mechanisms: centralized, decentralized, proof-of-work, proof-of-stake, the list goes on, I have concluded that all of these new platforms boil down to fulfilling three core societal functions: value, identity, and status, underpinned by consensus.
-
 ## W3C
 
 ![](https://imgur.com/Lz6RTysl.png)
@@ -71,9 +77,6 @@ I will begin with a listing of standards bodies, organizations and open processe
 * [w3c-dvcg/w3c-dvcg.github.io</a> - Landing site for W3C Digital Verification Community Group. [<a href="https://www.w3.org/community/digital-verification/">**W**](https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io)]
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 * [W3C Workshop on Strong Authentication & Identity](https://www.w3.org/Security/strong-authentication-and-identity-workshop/report.html)
-
-![](https://imgur.com/6MLNgXal.png)\
-<sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
 ### Credentials Community Group
 
