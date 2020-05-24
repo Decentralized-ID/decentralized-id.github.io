@@ -92,9 +92,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "custom"
+  provider               : custom # false (default), "google", "google-universal", ""
   google:
-    tracking_id          : UA-132558656-3
+    tracking_id          : #UA-132558656-3
     anonymize_ip         : true
 
 # Site Author
