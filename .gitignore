@@ -4,3 +4,5 @@ Rakefile
 _config.bak
 _site/
 _algolia_api_key
+.DS_Store
+.ruby-version
