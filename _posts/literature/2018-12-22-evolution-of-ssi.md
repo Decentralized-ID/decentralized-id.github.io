@@ -48,9 +48,9 @@ I think all of this thought should be consolidated into a cohesive declaration o
 * [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md)
    * \*and your sister and your daughter and your best friend and your nephew (SSI Use-Cases)
 
-^^^ This could also be modularized
+<!-- This could also be modularized -->
 
-Other content highlighted in [WebOfTrustInfo/self-sovereign-identity](https:github.com/WebOfTrustInfo/self-sovereign-identity) that I haven't had a chance to fully review, yet:
+Other content highlighted in [WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity) that I haven't had a chance to fully review, yet:
 
 * [Identity and Digital Self-Sovereignty](https://medium.com/learning-machine-blog/identity-and-digital-self-sovereignty-1f3faab7d9e3#.3jcgvnbok) - Blog post by [Natalie Smolenski](https://medium.com/@nsmolenski)
 

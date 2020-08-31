@@ -48,7 +48,6 @@ Its an index for all to more easily navigate the information surrounding Hyperle
   * [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
   * [Indy Docs Framwork](https://github.com/hyperledger/indy-hipe/tree/master/text/0025-indy-docs-framework)
 * [Introduction to Hyperledger Indy](https://github.com/hyperledger/education/blob/master/LFS171x/docs/introduction-to-hyperledger-indy.md) (awesome resource from hyperledger github)
-* [Hyperledger Indy — the Future of Decentralized Identity](https://www.axiomtech.io/blog-feed/hyperledger-indy-decentralized-identity)
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy) - ANN
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
 * [Ernesto.net - What goes on the Ledger](https://www.ernesto.net/ernesto-net-5-minute-course-on-indy-and-what-goes-on-the-blockchain-ledger/)
