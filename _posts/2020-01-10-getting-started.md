@@ -37,6 +37,10 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 [![](https://i.imgur.com/7asRg1y.png)](https://www.gsma.com/identity/wp-content/uploads/2019/11/MWCA-19-ID-seminar-Microsoft-presentation-final.pdf)
 
+[Demistifying Decentralized Identity](https://medium.com/3box/demystifying-digital-id-6ec413b129ac)
+  > Identity is not a single challenge but a set of many related ones. Good identity infrastructure should make it easy to manage the user-related capabilities in a product, service, or ecosystem in an elegant and user-empowering way. Traditional solutions and common workarounds usually fail at this - they don’t preserve privacy, are too fragile, don’t have the proper underpinnings to support the interoperability needed to easily extend to new capabilities and use cases over time. Decentralized identity infrastructure works togday and can adapt easily to future needs and opportunities.
+
+
 ## Digital Identity Fundamentals
 
 * [What is Digital Identity?](https://medium.com/humanizing-the-singularity/what-is-digital-identity-c77983c03306)
