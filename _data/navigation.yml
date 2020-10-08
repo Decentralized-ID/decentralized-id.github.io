@@ -25,24 +25,27 @@ didnav:
         url: /history/2010-2014/
       - title: "• 2015-2019"
         url: /history/2015-2019/
+  - title: ID Blog Aggregator
+    url: https://identosphere.net
+    children:
+      - title: "Personal Blogs Feed"
+        url: https://identosphere.net/blogcatcher/
+      - title: "Organizations Feed"
+        url: https://identosphere.net/blogcatcher/organizations
+      - title: "Companies Feed"
+        url: https://identosphere.net/blogcatcher/companies
   - title: Feature
     children:
       - title: "• Web Standards"
         url: "/specs-standards/"
-      - title: " - JSON-LD"
+      - title: "JSON-LD"
         url: "/specs-standards/JSON-LD/"
       - title: "• GitHub Repositories"
         url: "/code/github/"
-      - title: " - Identity Commons on Github"
-        url: "https://github.com/identitywoman/identity-commons"
       - title: "• Literature"
         url: "/literature/" 
-      - title: " - RWoT - Papers Index"
+      - title: "RWoT Papers Index"
         url: "/literature/rebooting-web-of-trust/"
-      - title: " - Microledgers and Edgechains"
-        url: "/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
-      - title: "• #indieweb-dev on IIW RWoT and DID's"
-        url: "/specs-standards/indieweb-dev-on-did/"
   - title: Regulation
     children:
       - title: "• eIDAS"
@@ -96,10 +99,12 @@ didnav:
         url: "/private-sector/microsoft/"
   - title: "⧉InfoMine⧉"
     children:
+      - title: "• Identosphere"
+        url: "https://identosphere.net/"
       - title: "• InfoHub"
         url: "https://infominer.xyz/"
       - title: "• Bitcoin Histories"
-        url: "https://sourcecrypto.pub/posts/history/"
+        url: "https://bitcoinfo.xyz/history/"
       - title: "• Source⧉Crypto"
         url: "https://sourcecrypto.pub"
       - title: "• Decentralized Web"
