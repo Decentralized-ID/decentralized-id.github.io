@@ -28,11 +28,11 @@ didnav:
   - title: ID Blog Aggregator
     url: https://identosphere.net
     children:
-      - title: "Personal Blogs Feed"
+      - title: "• Personal Blogs Feed"
         url: https://identosphere.net/blogcatcher/
-      - title: "Organizations Feed"
+      - title: "• Organizations Feed"
         url: https://identosphere.net/blogcatcher/organizations
-      - title: "Companies Feed"
+      - title: "• Companies Feed"
         url: https://identosphere.net/blogcatcher/companies
   - title: Feature
     children:
