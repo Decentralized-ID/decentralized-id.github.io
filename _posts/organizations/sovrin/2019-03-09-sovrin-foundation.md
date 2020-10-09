@@ -10,7 +10,7 @@ header:
   image: "/images/sovrin-header.png"
   og_image: "https://decentralized-id.com/images/sovrin-foundation.png"
   caption: "[cryptodesign.io](http://cryptodesign.io/portfolio/sovrin-stewards/)"
-permalink: orgsanizations/sovrin/
+permalink: organizations/sovrin/
 canonical_url: 'https://decentralized-id.com/organizations/sovrin/'
 redirect_from: 
   - organizations/sovrin-foundation
