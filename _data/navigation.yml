@@ -37,14 +37,14 @@ didnav:
   - title: Feature
     children:
       - title: "• Web Standards"
-        url: "/specs-standards/"
-      - title: "JSON-LD"
-        url: "/specs-standards/JSON-LD/"
+        url: "/web-standards/"
+      - title: "-- JSON-LD"
+        url: "/web-standards/JSON-LD/"
       - title: "• GitHub Repositories"
         url: "/code/github/"
       - title: "• Literature"
         url: "/literature/" 
-      - title: "RWoT Papers Index"
+      - title: "-- RWoT Papers Index"
         url: "/literature/rebooting-web-of-trust/"
   - title: Regulation
     children:
