@@ -114,4 +114,5 @@ Phil [Zimmerman creates PGP](https://www.philzimmermann.com/EN/essays/WhyIWroteP
 
 ![](https://i.imgur.com/xmWkc4l.png)
 
+{% include post_pagination.html %}
 
