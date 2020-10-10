@@ -4,9 +4,8 @@ description: "This framework is the next major step after the 2016 publication o
 excerpt: >
   "The Treasury Board Secretariat of Canada (TBS) and Shared Services Canada (SSC) are seeking a standardized method to issue and rapidly verify portable digital credentials across many different contexts, thereby reducing human judgement error, increasing efficiency and ensuring digital credential veracity using cryptography." 
 permalink: /public-sector/canada/
-tags: ["Pan Canadian Trust Framework"]
+tags: ["Pan Canadian Trust Framework","Canada"]
 categories: ["Government"]
-tags: ["Canada"]
 header:
   image: /images/pctf-header.jpeg
   caption: "[Pan-Canadian Trust Framework - Tim Bouma](https://medium.com/@trbouma/pan-canadian-trust-framework-eb65eac6c683)"
@@ -15,7 +14,7 @@ updated: 2020-01-11
 
 ## Decentralized ID - Canada
 
-* [![](https://i.imgur.com/wdbN3Ld.png)](https://twitter.com/sboots/status/1070320318487584768)
+[![](https://i.imgur.com/wdbN3Ld.png)](https://twitter.com/sboots/status/1070320318487584768)
 
 * [User-Centric Verifiable Digital Credentials](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
   > The Treasury Board Secretariat of Canada (TBS) and Shared Services Canada (SSC) are seeking a standardized method to issue and rapidly verify portable digital credentials across many different contexts, thereby reducing human judgement error, increasing efficiency and ensuring digital credential veracity using cryptography.
