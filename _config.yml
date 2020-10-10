@@ -30,7 +30,7 @@ masthead_title           : "Digital Identity Decentralized"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # "staticman_v2"
+  provider               : "staticman_v2"
 staticman:
   allowedFields          : ["name", "email", "url", "message"]
   repository             : didecentral/didecentral.github.io 
@@ -40,15 +40,15 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ["name", "email", "message"]
+  requiredFields         : ["name", "message"]
   transforms:
     email                : "md5"
   generatedFields:
     date:
       type: "date"
       options:
-        format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-  endpoint               : # https://staticman3.herokuapp.com/v3/entry/github/
+        format: "timestamp-seconds" #"timestamp-milliseconds"
+  endpoint               : http://identosphere.net:4411/v2/entry/
   reCaptcha:
     siteKey:
 atom_feed:
@@ -315,7 +315,7 @@ defaults:
       header:
         image: /images/digital_geralt-93001_thin.jpg
       read_time: true
-      comments: # true
+      comments: true
       share: true
       classes: wide
       related: true
