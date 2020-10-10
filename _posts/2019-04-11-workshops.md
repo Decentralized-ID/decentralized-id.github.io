@@ -45,4 +45,4 @@ Fall: October 01, 2019 – October 03, 2019
   >
   > To this end, I thought it would be useful to define what is a white paper, and as some people desire to go beyond this, what is a specification and proof of concept code.
 * [WebOfTrust.info - Upcoming Events](http://www.weboftrust.info/next-event-page.html)
-* [**Rebooting Web Of Trust - Papers and Advance Readings Index**](rebooting-web-of-trust.html) **>>**
+* [**Rebooting Web Of Trust - Papers and Advance Readings Index**](/literature/rebooting-web-of-trust/) **>>**

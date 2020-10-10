@@ -31,19 +31,19 @@ That October, [Joe Andrieu](https://github.com/jandrieu) submitted [A Technology
 
 I decided to put the **10 Principles of SSI** up next to Joe Andrieu's **Characteristics of SSI** 
 
-* [SSI Principles vs. Characteristics](ssi-principles-vs-characteristics)
+* [SSI Principles vs. Characteristics](/literature/self-sovereign-identity/ssi-principles-vs-characteristics/)
 
 Which should also be considered against:
 
-* [Self-Sovereign Bill of Rights](self-sovereign-identity-bill-of-rights.md) - lifeID (founded by [Chris Boscolo](https://github.com/cboscolo)) adapted the 10 Principles of Self-Sovereign Identity into a [Bill of Rights](https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b) that all self-sovereign identity solution should uphold.
+* [Self-Sovereign Bill of Rights](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-bill-of-rights.md) - lifeID (founded by [Chris Boscolo](https://github.com/cboscolo)) adapted the 10 Principles of Self-Sovereign Identity into a [Bill of Rights](https://medium.com/@lifeID_io/lifeid-self-sovereign-identity-bill-of-rights-d2acafa1de8b) that all self-sovereign identity solution should uphold.
 
 * [Schutte's Take](https://github.com/infominer33/self-sovereign-identity/blob/master/Schutte-on-SSI.md) which offers criticism on the 10 principles.
 
 I think all of this thought should be consolidated into a cohesive declaration of ssi. The idea is to come up with list of phinciples, or characteristics, or rights, that is as complete as possible, while also as concise as possible. There are a few 10 pointed lists, I'm ok with combining them as necessary and if it turns into 19, for example, I'm ok w that. I'd rather err on the side of too much and pare it down gradually, than to not include enough.  
 
-* Next, there are the [7 Myths of SSI](https://github.com/infominer33/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) from Timothy Ruff's recent blog post. I've extracted them from his two part series into a concise document. There are surely other myths, and perhaps folk who have encountered them first hand will have some comment on the matter. And my condensed version of his myths could surely be improved upon.
+* Next, there are the [7 Myths of SSI](https://github.com/didecentral/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) from Timothy Ruff's recent blog post. I've extracted them from his two part series into a concise document. There are surely other myths, and perhaps folk who have encountered them first hand will have some comment on the matter. And my condensed version of his myths could surely be improved upon.
 
-* A gentle introduction to self-sovereign-identity by @antonylewis has a great section, [How would self-sovereign identity work for the user?](https://github.com/infominer33/awesome-decentralized-id/blob/master/self-sovereign/user-experience.md) that I've extracted into github, in order to make a suitable document based upon it. I need to check on certain specifics, basically I want to re-write that section so I saved it here for that purpose.
+* [A gentle introduction to self-sovereign-identity](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/) by @antonylewis has a great section, How would self-sovereign identity work for the user? 
 
 * [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md)
    * \*and your sister and your daughter and your best friend and your nephew (SSI Use-Cases)

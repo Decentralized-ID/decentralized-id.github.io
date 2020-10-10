@@ -44,14 +44,12 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 
 
 * [Hyperledger Indy - *Distributed Ledger and Utility Library*](https://www.hyperledger.org/projects/hyperledger-indy) [[**T**](https://twitter.com/Hyperledger)] [[**C**](https://chat.hyperledger.org)]
-* [Indy Documentation Index - wiki.hyperledger.org](https://wiki.hyperledger.org/projects/indy/documentation)
+* [Indy - wiki.hyperledger.org](https://wiki.hyperledger.org/display/indy)
   * [indy.readthedocs.io](https://indy.readthedocs.io/) (under construction)
   * [Indy Docs Framwork](https://github.com/hyperledger/indy-hipe/tree/master/text/0025-indy-docs-framework)
 * [Introduction to Hyperledger Indy](https://github.com/hyperledger/education/blob/master/LFS171x/docs/introduction-to-hyperledger-indy.md) (awesome resource from hyperledger github)
 * [Hyperledger Welcomes Project Indy](https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy) - ANN
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
-* [Ernesto.net - What goes on the Ledger](https://www.ernesto.net/ernesto-net-5-minute-course-on-indy-and-what-goes-on-the-blockchain-ledger/)
-* [Ernesto.net - Hyperledger Indy Architecture](https://www.ernesto.net/hyperledger-indy-architecture/)
 * [github.com/IBM-Blockchain-Identity](https://github.com/IBM-Blockchain-Identity) (Docker based tutorial sandbox env)
 * The Linux Foundation's [Blockchain for Business](https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business) course may be freely audited and has a section about Indy.
 * [Blockchain development made easy: Getting started with Hyperledger Indy](https://jaxenter.com/hyperledger-indy-interview-hardman-148796.html) - Interview with Daniel Hardman[[**G**](https://github.com/dhh1128)][[**L**](https://www.linkedin.com/in/danielhardman/)][[**T**](https://twitter.com/dhh1128)], Hyperledger Indy maintainer
@@ -73,7 +71,6 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [Learn how to set up a DEV Environment with Vagrant on Hyperledger Indy!](https://github.com/hyperledger/indy-node/blob/master/environment/vagrant/sandbox/DevelopmentEnvironment/Virtualbox/Vagrantfile)
 * [Semantics Working Group Shared Docs](https://drive.google.com/drive/u/0/folders/1zkXr--0DG7I1k62vaFuotEzIaTIUH0ou?ogsrc=32)
   * [Verifiable Credentials, Schema and Overlays- Overview Decks](https://drive.google.com/drive/u/0/folders/1UxLLugRQKuV8Mdvv_X9Y6ty4szSi5ZNU?ogsrc=32)
-* [Indy August Update](https://wiki.hyperledger.org/groups/tsc/project-updates/indy-2018-aug) - Most recent report from the Hyperledger Indy team.
 * [https://inatba.org/](https://inatba.org/)
 * [forum.sovrin.org - Researching Sovrin Ledger 2.0](https://forum.sovrin.org/t/researching-sovrin-ledger-2-0/1008/6)
 
@@ -133,15 +130,15 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 ## Directory
 * [didecentral.github.io]()
   * [Indy GitHub Repos](/hyperledger/indy/github/)
-  * [Adoption](/id-initiatives/indy-ecosystem/adoption/)	
-  * [VON.md](/id-initiatives/indy-ecosystem/von/)
+  * [Adoption](/hyperledger/indy/adoption/)	
+  * [VON.md](/hyperledger/indy/von/)
     * [VerifiableOrganizationsNetwork-HGF.md](/hgf-2018/VerifiableOrganizationsNetwork-HGF/)	
     * [Microledgers-Edgechains-Hardman-HGF.md](/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/)	
   * [Literature](/organizations/sovrin/literature/)
     * [Selected Articles Windley.com](/organizations/sovrin/literature/#selected-articles-windleycom)
-    * [EU General Data Protection Regulation Act](literature.md#eu-general-data-protection-regulation-act)
-    * [Research Papers](literature.md#research-papers)
-    * [Reports](literature.md#reports)
+    * [EU General Data Protection Regulation Act](/organizations/sovrin/literature/#eu-general-data-protection-regulation-act)
+    * [Research Papers](/organizations/sovrin/literature/#research-papers)
+    * [Reports](/organizations/sovrin/literature/#reports)
 
 ## Sources 
 * [Evernym](https://www.evernym.com/)

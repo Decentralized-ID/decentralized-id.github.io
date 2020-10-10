@@ -27,7 +27,7 @@ last_modified_at: 2020-01-15
   * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
   * [uniresolver.io](https://uniresolver.io/)
-* [6/27 Masterclass on the DID Universal Resolver - Identiverse 2018](https://www.slideshare.net/Identiverse/627-masterclass-on-the-did-universal-resolver-identiverse-2018)
+627-masterclass-on-the-did-universal-resolver-identiverse-2018)
 * [Decentralized Identity Foundation](https://golden.com/wiki/Decentralized_Identity_Foundation) - golden.com
 
 DIF members, who share the goal of “building an open source decentralized identity ecosystem for people, organizations, apps, and devices” include: 

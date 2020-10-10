@@ -150,7 +150,6 @@ Steven McKie
   * [handshake-org/hs-tree-data](https://github.com/handshake-org/hs-tree-data)
   * [handshake-org/hdns](https://github.com/handshake-org/hdns) - Handshake-capable DNS module for node.js
   * [handshake-org/bcuckoo](https://github.com/handshake-org/bcuckoo) - Cuckoo Cycle in pure javascript
-  * [handshake-org/blog](https://github.com/handshake-org/blog) - the Handshake project's blog
   * [handshake-org/faucet-tool](https://github.com/handshake-org/faucet-tool) - A tool to generate mnemonic seeds, keys and addresses for the Handshake Faucet
   * [handshake-org/hndshkBot](https://github.com/handshake-org/hndshkBot) - IRC Bot for developer faucet
   * [handshake-org/libhns](https://github.com/handshake-org/libhns) -C library for resolving handshake names (fork of c-ares)

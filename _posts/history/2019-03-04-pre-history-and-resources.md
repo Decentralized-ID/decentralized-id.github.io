@@ -102,7 +102,7 @@ Phil [Zimmerman creates PGP](https://www.philzimmermann.com/EN/essays/WhyIWroteP
 
 ### open-standards
 
-* [The Story of Open SSI Standards - Drummond Reed/Evernym - Webinar 1](https://ssimeetup.org/story-open-ssi-standards-drummond-reed-evernym-webinar-1/) - [video](https://www.youtube.com/watch?v=RllH91rcFdE) - [Self Sovereign Identity (SSI) Open standards with Drummond Reed](slideshare.net)
+* [The Story of Open SSI Standards - Drummond Reed/Evernym - Webinar 1](https://ssimeetup.org/story-open-ssi-standards-drummond-reed-evernym-webinar-1/) - [video](https://www.youtube.com/watch?v=RllH91rcFdE) - [Self Sovereign Identity (SSI) Open standards with Drummond Reed](https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed)
   > Drummond Reed, Chief Trust Officer at Evernym and Sovrin Foundation Trustee, features in our first Webinar "The Story of SSI Open Standards" by giving us the background on the foundation of Self Sovereign Identity.
 * <a href="https://iiw.idcommons.net/Identity_Standards:_The_Soap_Opera_(catch_up_on_previous_episodes_%2B_review_major_plot_points">Identity_Standards: The_Soap Opera* - catch_up_on_previous episodes</a>
 

@@ -325,29 +325,6 @@ The workshop itself also produces technical whitepapers, this Repository holds a
 * [w3c-ccg/ocap-ld](https://github.com/w3c-ccg/ocap-ld) - WORK ITEM: Linked Data Object Capabilities specification
 * [w3c-ccg/ld-cryptosuite-registry](https://github.com/w3c-ccg/ld-cryptosuite-registry) - REGISTRY: Linked Data Keys Registry
 
-### Digital Verification Community Group
-> The mission of the W3C Digital Verification Community Group is to study, design, promote, and deploy systems that increase trust on the Web.
-
-* [w3c-dvcg/w3c-dvcg.github.io](https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io) - Landing site for W3C Digital Verification Community Group.
-* [w3c-dvcg/multibase](https://sea-region.github.com/w3c-dvcg/multibase) - 
-An IETF Internet Draft for the Multibase data format
-* [w3c-dvcg/hashlink](https://sea-region.github.com/w3c-dvcg/hashlink) - An IETF Internet Draft for the Hashlink data format
-* [w3c-dvcg/multihash](https://sea-region.github.com/w3c-dvcg/multihash) - An IETF Internet Draft for the Multihash data format
-* [w3c-dvcg/security-vocab](https://sea-region.github.com/w3c-dvcg/security-vocab) - The Linked Data Security Vocabulary
-* [w3c-dvcg/lds-rsa2018](https://sea-region.github.com/w3c-dvcg/lds-rsa2018) - 
-Linked Data Signature Suite created in 2018
-* [w3c-dvcg/http-signatures](https://sea-region.github.com/w3c-dvcg/http-signatures) - Signing HTTP Messages specification
-* [w3c-dvcg/ld-proofs](https://sea-region.github.com/w3c-dvcg/ld-proofs) - 
-Linked Data Proofs Specification
-* [w3c-dvcg/ld-signatures](https://sea-region.github.com/w3c-dvcg/ld-signatures) - Linked Data Signatures enable digital signatures on Linked Data
-* [w3c-dvcg/lds-ed25519-2018](https://sea-region.github.com/w3c-dvcg/lds-ed25519-2018) - Linked Data Signature Suite for Ed25519 2018
-* [w3c-dvcg/lds-merkleproof2017](https://sea-region.github.com/w3c-dvcg/lds-merkleproof2017) - 2017 Signature suite for doing Merkle Proofs.
-* [w3c-dvcg/lds-redaction2016](https://sea-region.github.com/w3c-dvcg/lds-redaction2016) - Linked Data Signature Suite created in 2016 for performing Redacted 
-* [w3c-dvcg/http-signatures-audit](https://sea-region.github.com/w3c-dvcg/http-signatures-audit) - Security considerations for HTTP Signatures specification.
-* [w3c-dvcg/lds-koblitz2016](https://sea-region.github.com/w3c-dvcg/lds-koblitz2016) - Linked Data Signature Suite for the Koblitz Elliptic Curve 2016
-* [w3c-dvcg/lds-pseudonymous2016/](https://sea-region.github.com/w3c-dvcg/lds-pseudonymous2016/)
-* [w3c-dvcg/lds-rsa2016/](https://sea-region.github.com/w3c-dvcg/lds-rsa2016/)
-
 ### /opencreds
 
 * [opencreds/website](https://github.com/opencreds/website) - The Open Credentials Website
@@ -709,7 +686,7 @@ Hyperledger Indy Project Enhancements
   * https://indy.readthedocs.io/projects/hipe/en/latest/
 * [indy-crypto](https://github.com/hyperledger/indy-crypto) - shared crypto library for Hyperledger Indy components. To be:
 * [ursa](https://github.com/hyperledger/ursa) [[**ϟ**](https://www.hyperledger.org/blog/2018/12/04/welcome-hyperledger-ursa)][[**ϟ**](https://www.coindesk.com/hyperledger-launches-cryptography-toolbox-for-blockchain-developers)] 
-  > "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the shared library will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram) [[**wiki**](https://wiki.hyperledger.org/projects/ursa)]
+  > "includes the Hyperledger Indy-Crypto code base that is the building block for anonymous credentials, the verifiable credentials protocol, in indy-sdk used by the Sovrin Network. [...]  We are hopeful the shared library will help other platforms better incorporate and use ZKP-based credentials and leverage Sovrin for their identity component." (From Nathan George on Sovrin Telegram) [[**wiki**](https://wiki.hyperledger.org/display/ursa)]
 
 ### IDChain
 

@@ -11,7 +11,7 @@ excerpt: >
 layout: single
 classes: wide
 toc: false
-permalink: blockchain/ethereum/cryptonomica/
+permalink: /blockchain/ethereum/cryptonomica/
 canonical_url: 'https://decentralized-id.com/blockchain/ethereum/cryptonomica/'
 redirect_from: 
   - id-initiatives/ethereum/cryptonomica

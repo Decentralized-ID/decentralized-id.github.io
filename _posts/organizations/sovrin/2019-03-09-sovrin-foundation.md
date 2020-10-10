@@ -123,9 +123,6 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ### First Education Credit Union
 • [First Education Credit Union](https://www.firstedfcu.com/) 
 
-### Consent.Global
-• [Global Consent](http://www.consent.global/) [[**ϟ**](https://sovrin.org/steward/global-consent/)] — "platform for trusted personal data applications and services, using Ethereum smart contracts to implement decentralized identifiers, verified credentials, consent receipts, a web of trust, and exchange of assets and value." 
-
 ### IBM
 • [IBM](https://www.ibm.com/blogs/blockchain/2018/08/ibm-blockchain-trusted-identity-sovrin-steward-closed-beta-offering/) 
 

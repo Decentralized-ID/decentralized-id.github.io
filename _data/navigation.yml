@@ -121,7 +121,7 @@ sovnav:
         url: /hyperledger/indy/
       - title: "• Adoption"
         description: Partnerships and Application of Evernym, Sovrin, and Indy.
-        url: /indy-ecosystem/adoption/
+        url: /hyperledger/indy/adoption/
       - title: "• Indy Github" 
         description: GitHub Repositories Related to Hyperledger Indy.
         url: /hyperledger/indy/github/
@@ -168,13 +168,13 @@ sovnav:
   - title: Self-Sovereign Identity
     children:
       - title: "• SSI - Documentation Efforts"
-        url: "/self-sovereign-identity/"
+        url: "/literature/self-sovereign-identity/"
       - title: "• Evolution of SSI"
-        url: "/self-sovereign-identity/evolution-of-ssi/"
+        url: "/literature/self-sovereign-identity/evolution-of-ssi/"
       - title: "• SSI Principles vs Characteristics"
-        url: "/self-sovereign-identity/ssi-principles-vs-characteristics/"
+        url: "/literature/self-sovereign-identity/ssi-principles-vs-characteristics/"
       - title: "• User Experience"
-        url: "/self-sovereign-identity/user-experience/"
+        url: "/literature/self-sovereign-identity/user-experience/"
   - title: "Organizations"
     url: "/organizations/"
     children:
@@ -211,14 +211,13 @@ sovnav:
       - title: "• Microsoft"
         url: "/private-sector/microsoft/"
   - title: "⧉InfoMine⧉"
+    url: "https://infominer.xyz/"
     children:
-      - title: "• InfoHub"
-        url: "https://infominer.xyz/"
+      - title: "• Identosphere"
+        url: "https://identosphere.net"
       - title: "• Bitcoin Histories"
-        url: "https://sourcecrypto.pub/posts/history/"
+        url: "https://bitcoinfo.xyz/history/"
       - title: "• Source⧉Crypto"
         url: "https://sourcecrypto.pub"
       - title: "• Decentralized Web"
         url: "https://sourcecrypto.pub/decentralized-web/"
-      - title: "• Bitcoin Info"
-        url: "https://bitcoinfo.xyz"

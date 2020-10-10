@@ -443,9 +443,9 @@ In advance of the design workshop, all participants are requested to produce a o
   - By Harsh Patel
 * [Chime National Patent ID Challenge](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/CHIMENationalPatientIDChallenge.pdf)
 * [Usability and Multiplicity in Global Identity Management](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/Crocker-ID-Usability-Multiplicity.md) — by D. Crocker ~ \<[dcrocker@bbiw.net](mailto:dcrocker@bbiw.net)\>
-* [Decentralized Identity Satoshi Style](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/Decentralized-Identity-Satoshi-Style) - by Darrell Duane - \<[darrell@idi.io](mailto:darrell@idi.io)\>
+* [Decentralized Identity Satoshi Style](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/Decentralized-Identity-Satoshi-Style) - by Darrell Duane - \<darrell@idi.io\>
 * [Declaration of Identity - Printed.pdf](https://github.com/infominer33/rwot2-id2020/blob/master/topics-and-advance-readings/Declaration%20of%20Identity%20-%20Printed.pdf)
-* [Identities for Moving Things](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/IdentitiesForMovingThings.md) - by Daniel Ford - \<[dan@keoja.com](mailto:dan@keoja.com)\>
+* [Identities for Moving Things](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/IdentitiesForMovingThings.md) - by Daniel Ford - \<dan@keoja.com\>
 * [Legalizing Identity Protocols for the United Nations 16.9](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/Legalizing-Identity-Protocols-United-Nations.md) 
 * [Personal Levels of Assurance (PLOA)](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/PLOA%20White%20Paper%20-%20v1.01.pdf) — by J. Oliver Glasgow and Jeff Dogen, Kennie Kwong, David Chen, Johannes Jaskolski, Kevin Castellow, Dan Druta — An AT&T Whitepaper on Assurance 
 * [Clues](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/clues.md) — by Nicola Greco
@@ -500,7 +500,7 @@ In advance of the design workshop, all participants are requested to produce a o
 * [Smart Consent Protocol](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/topics-and-advance-readings/Consent%20and%20rights%20to%20use%20Personal%20Data.md)
   - Dr Shaun Conway, Lohan Spies, Jonathan Endersby, Tim Daubenschütz (see [Completed Papers III](#completed-papers-iii))
 * [Creating a Humanized Internet](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/Creating%20a%20Humanized%20Internet.pdf)
-  - Akram Alfawakheeri \<[akram.f1_1@gmail.com](mailto:akram.f1_1@gmail.com)\>, Mark Kovarski \<mark@kovarski.org\>, Aron Dutta <\aron_dutta@yahoo.com\>, Monique Morrow \<monique.morrow223@gmail.com\>, Vivien Shen \<vshen670@gmail.com\>
+  - Akram Alfawakheeri \<akram.f1_1@gmail.com\>, Mark Kovarski \<mark@kovarski.org\>, Aron Dutta <\aron_dutta@yahoo.com\>, Monique Morrow \<monique.morrow223@gmail.com\>, Vivien Shen \<vshen670@gmail.com\>
 * [DIDs and Personal Data Storage for Children](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/DIDsandPersonalDataStorageforChildren.pdf) 
   - Jonathan Endersby, Shaun Conway, Lohan Spies
 * [BIP32-Ed25519 Hierarchical Deterministic Keys of a Non-Linear Keyspace](https://github.com/WebOfTrustInfo/rwot3-sf/blob/master/HDKeys-Ed25519.pdf) 
