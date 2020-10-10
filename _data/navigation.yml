@@ -78,7 +78,7 @@ didnav:
   - title: Initiatives
     children:
       - title: "• Danube"
-        url: "/private-sector/danube/" 
+        url: "/private-sector/danube-tech/" 
       - title: "• Blockchain"
         url: "/blockchain/"
       - title: "• Bitcoin"
@@ -191,7 +191,7 @@ sovnav:
   - title: Initiatives
     children:
       - title: "• Danube"
-        url: "/private-sector/danube/" 
+        url: "/private-sector/danube-tech/" 
       - title: "• Blockchain"
         url: "/blockchain/"
       - title: "• Bitcoin"

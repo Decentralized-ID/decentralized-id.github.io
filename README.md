@@ -87,7 +87,7 @@ Here, I've gathered literature on Self Sovereign Identity, and begun considering
 Private Sector
   * [IBM](https://decentralized-id.com/private-sector/ibm/)
   * [Microsoft](https://decentralized-id.com/private-sector/microsoft/)
-  * [Danube Tech](https://decentralized-id.com/private-sector/danube/)
+  * [Danube Tech](https://decentralized-id.com/private-sector/danube-tech/)
 
 [Government](https://decentralized-id.com/government/)
 
