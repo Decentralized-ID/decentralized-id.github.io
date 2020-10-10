@@ -30,7 +30,7 @@ masthead_title           : "Digital Identity Decentralized"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "staticman_v2"
+  provider               : #"staticman_v2"
 staticman:
   allowedFields          : ["name", "email", "url", "message"]
   repository             : didecentral/didecentral.github.io 
@@ -48,7 +48,7 @@ staticman:
       type: "date"
       options:
         format: "timestamp-seconds" #"timestamp-milliseconds"
-  endpoint               : http://identosphere.net:4411/v2/entry/
+  endpoint               : https://identosphere.net:4411/v2/entry/
   reCaptcha:
     siteKey:
 atom_feed:
