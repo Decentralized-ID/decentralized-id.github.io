@@ -135,7 +135,7 @@ Stewards also, as a group, accept or reject any changes to the ledger-specific p
 ### KYC Chain
 • [KYC Chain](https://kyc-chain.com/) 
 
-### lab10 collective
+### Lab 10 collective
 • [lab10 collective](https://lab10.coop/en/) 
 
 ### OAS Staff Federal Credit Union
