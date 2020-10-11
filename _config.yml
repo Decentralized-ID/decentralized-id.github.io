@@ -30,7 +30,7 @@ masthead_title           : "Digital Identity Decentralized"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : #"staticman_v2"
+  provider               : "staticman_v2"
 staticman:
   allowedFields          : ["name", "email", "url", "message"]
   repository             : didecentral/didecentral.github.io 
