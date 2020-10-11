@@ -48,7 +48,7 @@ staticman:
       type: "date"
       options:
         format: "timestamp-seconds" #"timestamp-milliseconds"
-  endpoint               : https://identosphere.net:4411/v2/entry/
+  endpoint               : https://identosphere.net/staticman/v2/entry/
   reCaptcha:
     siteKey:
 atom_feed:
