@@ -14,38 +14,9 @@ comments:
       options:
         format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
   moderation: true
-
-  # Akismet spam detection.
-  # akismet:
-  #   enabled: true
-  #   author: "name"
-  #   authorEmail: "email"
-  #   authorUrl: "url"
-  #   content: "message"
-  #   type: "comment"
-
   name: "Decentralized-id.com"
-
-  # Notification settings. When enabled, users can choose to receive notifications
-  # via email when someone adds a reply or a new comment. This requires an account
-  # with Mailgun, which you can get for free at http://mailgun.com.
-  # notifications:
-    # Enable notifications
-    # enabled: true
-
-    # (!) ENCRYPTED
-    #
-    # Mailgun API key
-    # apiKey: ""
-
-    # (!) ENCRYPTED
-    #
-    # Mailgun domain (encrypted)
-    # domain: ""
-
   path: "_data/comments/{options.slug}" # "_data/comments/{options.slug}" (default)
   requiredFields: ["name", "email", "message"]
-
   reCaptcha:
     enabled: true
     siteKey: 6LfHeawUAAAAAATc0Sckhl9FJLGog3m7qLrYA8V0
