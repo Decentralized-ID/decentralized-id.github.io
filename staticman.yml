@@ -17,6 +17,8 @@ comments:
   name: "Decentralized-id.com"
   path: "_data/comments/{options.slug}" # "_data/comments/{options.slug}" (default)
   requiredFields: ["name", "email", "message"]
+  transforms:
+    email: md5
   reCaptcha:
     enabled: true
     siteKey: 6LfHeawUAAAAAATc0Sckhl9FJLGog3m7qLrYA8V0
