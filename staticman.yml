@@ -19,6 +19,7 @@ comments:
   requiredFields: ["name", "email", "message"]
   transforms:
     email: md5
+  # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
   reCaptcha:
     enabled: true
     siteKey: 6LfHeawUAAAAAATc0Sckhl9FJLGog3m7qLrYA8V0
