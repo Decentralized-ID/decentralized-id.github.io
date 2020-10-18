@@ -12,6 +12,7 @@ authors:
 published: true
 last_modified_at: 2020-01-05
 redirect_to: https://web-work.tools/minimal-mistakes/contributors-guide/site-config/
+canonical_url: https://web-work.tools/minimal-mistakes/contributors-guide/site-config/
 ---
 
 This guide should make it easier for contributors to understand how this site works. It should also be useful as a way to learn the basics of using Jekyll with the Minimal Mistakes theme, to publish a website via GitHub pages.
