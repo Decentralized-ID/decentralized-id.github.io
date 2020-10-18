@@ -11,7 +11,7 @@ redirect_from:
   - indy-ecosystem/github
   - id-initiatives/indy-ecosystem/indy-github.html
 sidebar:
-  title: DIDecentralized
+  title: Decentralized-ID
   nav: "sovnav"
 toc: false
 categories: ["Hyperledger Foundation","Code"]

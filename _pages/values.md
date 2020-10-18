@@ -18,7 +18,7 @@ Decentralized-id.com is a collaborative, participatory learning community orient
 
 The important thing is for the Internet to have a Decentralized Identity Layer. It's more important that this information becomes more easily accessible and navigable, for all. Not for any particular application or organization to "win" or "lose" against the rest. Success comes as we rise together. 
 
-\-          **Inclusive**.  DIDecentral could better described as an unorganization of self-affirming members. It is a do-ocracy, comprised of those who share a passion for building a common repository of knowledge, in support of Sovereign Identity. 
+\-          **Inclusive**.  Decentralized-ID.com could better described as an unorganization of self-affirming members. It is a do-ocracy, comprised of those who share a passion for building a common repository of knowledge, in support of Sovereign Identity. 
 
 \-          **Not for Profit.**  The purpose of this site is to learn and share knowledge. That being said, research and discovery of methods for sharing that research is a lot of work. We accept private donations and/or sponsorships. If there is a particular topic you'd like more information on, a donation would surely speed the time to publication. Individual contributors are likely to be working independently on paid contracts, consulting, writing, and\or other commercial ventures.
 

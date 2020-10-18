@@ -289,7 +289,7 @@ name                     : "Infominer"
 description              : "Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 url                      : "https://decentralized-id.com"
 baseurl                  : ""
-repository               : "didecentral/didecentral.github.io"
+repository               : "Decentralized-ID/decentralized-id.github.io"
 github                   : [metadata]
 teaser                   : /images/didecentral-tw.png
 logo                     : "https://decentralized-id.com/images/DID.png"
@@ -300,7 +300,7 @@ comments:
   provider               : # "staticman_v2"
 staticman:
   allowedFields          : ["name", "email", "url", "message"]
-  repository             : didecentral/didecentral.github.io 
+  repository             : Decentralized-ID/decentralized-id.github.io 
   branch                 : "master"
   commitMessage          : "New comment by {fields.name}"
   filename               : comment-{@timestamp}
@@ -356,7 +356,7 @@ author:
       url: "https://github.com/didecentral"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://github.com/didecentral/didecentral.github.io"
+      url: "https://github.com/Decentralized-ID/decentralized-id.github.io"
 
 # Site Footer
 footer:
@@ -372,7 +372,7 @@ footer:
       url: "https://twitter.com/didecentral"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/didecentral/didecentral.github.io"
+      url: "https://github.com/Decentralized-ID/decentralized-id.github.io"
     
 
 ```

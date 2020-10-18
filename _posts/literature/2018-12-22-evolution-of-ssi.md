@@ -41,7 +41,7 @@ Which should also be considered against:
 
 I think all of this thought should be consolidated into a cohesive declaration of ssi. The idea is to come up with list of phinciples, or characteristics, or rights, that is as complete as possible, while also as concise as possible. There are a few 10 pointed lists, I'm ok with combining them as necessary and if it turns into 19, for example, I'm ok w that. I'd rather err on the side of too much and pare it down gradually, than to not include enough.  
 
-* Next, there are the [7 Myths of SSI](https://github.com/didecentral/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) from Timothy Ruff's recent blog post. I've extracted them from his two part series into a concise document. There are surely other myths, and perhaps folk who have encountered them first hand will have some comment on the matter. And my condensed version of his myths could surely be improved upon.
+* Next, there are the [7 Myths of SSI](https://github.com/decentralized-id/self-sovereign-identity/blob/master/7-myths-of-self-sovereign-identity.md) from Timothy Ruff's recent blog post. I've extracted them from his two part series into a concise document. There are surely other myths, and perhaps folk who have encountered them first hand will have some comment on the matter. And my condensed version of his myths could surely be improved upon.
 
 * [A gentle introduction to self-sovereign-identity](https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/) by @antonylewis has a great section, How would self-sovereign identity work for the user? 
 

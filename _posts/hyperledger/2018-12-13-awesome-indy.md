@@ -20,7 +20,7 @@ redirect_from:
   - indy-ecosystem
   - hyperledger/indy
 sidebar:
-  title: DIDecentralized
+  title: Decentralized-ID
   nav: "sovnav"
 last_modified_at: 2019-07-10
 tags: ["Evernym","Indy","Von"]
@@ -128,17 +128,16 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [MyData Podcast](https://mydata.org/podcast/)
 
 ## Directory
-* [didecentral.github.io]()
-  * [Indy GitHub Repos](/hyperledger/indy/github/)
-  * [Adoption](/hyperledger/indy/adoption/)	
-  * [VON.md](/hyperledger/indy/von/)
-    * [VerifiableOrganizationsNetwork-HGF.md](/hgf-2018/VerifiableOrganizationsNetwork-HGF/)	
-    * [Microledgers-Edgechains-Hardman-HGF.md](/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/)	
-  * [Literature](/organizations/sovrin/literature/)
-    * [Selected Articles Windley.com](/organizations/sovrin/literature/#selected-articles-windleycom)
-    * [EU General Data Protection Regulation Act](/organizations/sovrin/literature/#eu-general-data-protection-regulation-act)
-    * [Research Papers](/organizations/sovrin/literature/#research-papers)
-    * [Reports](/organizations/sovrin/literature/#reports)
+* [Indy GitHub Repos](/hyperledger/indy/github/)
+* [Adoption](/hyperledger/indy/adoption/)	
+* [VON.md](/hyperledger/indy/von/)
+  * [VerifiableOrganizationsNetwork-HGF.md](/hgf-2018/VerifiableOrganizationsNetwork-HGF/)	
+  * [Microledgers-Edgechains-Hardman-HGF.md](/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/)	
+* [Literature](/organizations/sovrin/literature/)
+  * [Selected Articles Windley.com](/organizations/sovrin/literature/#selected-articles-windleycom)
+  * [EU General Data Protection Regulation Act](/organizations/sovrin/literature/#eu-general-data-protection-regulation-act)
+  * [Research Papers](/organizations/sovrin/literature/#research-papers)
+  * [Reports](/organizations/sovrin/literature/#reports)
 
 ## Sources 
 * [Evernym](https://www.evernym.com/)
@@ -148,4 +147,4 @@ Its an index for all to more easily navigate the information surrounding Hyperle
 * [SSI Meetup](http://ssimeetup.org/) [[**V**](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)][[**SS**](https://www.slideshare.net/SSIMeetup/presentations/)] 
 * [windley.com/tags/sovrin](http://www.windley.com/tags/sovrin)
 * [WebOfTrustInfo](https://github.com/WebOfTrustInfo/)
-* [awesome-decentralized-id](https://github.com/didecentral/didecentral.github.io)
+* [awesome-decentralized-id](https://github.com/Decentralized-ID/decentralized-id.github.io)

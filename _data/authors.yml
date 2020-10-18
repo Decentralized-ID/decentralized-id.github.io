@@ -24,8 +24,8 @@ Infominer:
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/InfoMiner33"
 
-DIDecentral:
-  name             : "DIDecentral"
+Decentralized-ID:
+  name             : "Decentralized-ID"
   avatar           : https://decentralized-id.com/images/did-square.png
   bio              : "Collaborative Curation, Community Research Initiative"
   links:
@@ -37,10 +37,10 @@ DIDecentral:
       url: "https://decentralized-id.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/didecentral"
+      url: "https://github.com/Decentralized-ID"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/didecentral"
+      url: "https://twitter.com/DecentralizeID"
 
 
 Cornelius Fiddlebone:

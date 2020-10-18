@@ -22,7 +22,7 @@ name                     : "Infominer"
 description              : "Learning to create an Identity Layer for the Internet, that is vendor agnostic and as widely interoperable, as possible, putting users in control of their personal information."
 url                      : "https://decentralized-id.com"
 baseurl                  : ""
-repository               : "didecentral/didecentral.github.io"
+repository               : "Decentralized-ID/decentralized-id.github.io"
 github                   : [metadata]
 teaser                   : /images/didecentral-tw.png
 logo                     : "https://decentralized-id.com/images/DID.png"
@@ -33,7 +33,7 @@ comments:
   provider               : "staticman_v2"
 staticman:
   allowedFields          : ["name", "email", "url", "message"]
-  repository             : didecentral/didecentral.github.io 
+  repository             : Decentralized-ID/decentralized-id.github.io 
   branch                 : "master"
   commitMessage          : "New comment by {fields.name}"
   filename               : comment-{@timestamp}
@@ -113,10 +113,10 @@ author:
       url: "https://decentralized-id.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/didecentral"
+      url: "https://github.com/Decentralized-ID"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/didecentral"
+      url: "https://twitter.com/DecentralizeID"
 # https://fontawesome.com/icons/telegram?style=brands
 # Just go to fontawesome.com and add whatever social sites you need here.
 
@@ -132,10 +132,10 @@ footer:
       url: "https://decentralized-id.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/didecentral"
+      url: "https://twitter.com/DecentralizeID"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/didecentral"
+      url: "https://github.com/Decentralized-ID"
     
     
 
