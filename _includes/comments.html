@@ -19,12 +19,6 @@
     {% when "discourse" %}
       <h4 class="page__comments-title">{{ comments_label }}</h4>
       <section id="discourse-comments"></section>
-    {% when "disqus" %}
-      <h4 class="page__comments-title">{{ comments_label }}</h4>
-      <section id="disqus_thread"></section>
-    {% when "facebook" %}
-      <h4 class="page__comments-title">{{ comments_label }}</h4>
-      <section class="fb-comments" data-href="{{ page.url | absolute_url }}" data-mobile="true" data-num-posts="{{ site.comments.facebook.num_posts | default: 5 }}" data-width="100%" data-colorscheme="{{ site.comments.facebook.colorscheme | default: 'light' }}"></section>
     {% when "staticman_v2" %}
       <section id="static-comments">
         {% if site.repository and site.staticman.branch %}
@@ -69,7 +63,7 @@
                 <label for="comment-form-email">{{ site.data.ui-text[site.locale].comment_form_email_label | default: "Email address" }} <small class="required">*</small></label>
                 <input type="email" id="comment-form-email" name="fields[email]" tabindex="3" />
               </div>
-              <div class="form-group">
+              <div class="form-group hidden" style="display: none;">
                 <label for="comment-form-url">{{ site.data.ui-text[site.locale].comment_form_website_label | default: "Website (optional)" }}</label>
                 <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
               </div>

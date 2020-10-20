@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "staticman_v2"
 staticman:
-  allowedFields          : ["name", "email", "url", "message"]
+  allowedFields          : ["name", "email", "message"]
   repository             : Decentralized-ID/decentralized-id.github.io 
   branch                 : "master"
   commitMessage          : "New comment by {fields.name}"

@@ -2,7 +2,7 @@
 # https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
 
 comments:
-  allowedFields: ["name", "email", "url", "message"]
+  allowedFields: ["name", "email", "message"]
   allowedOrigins: ["decentralized-id.com"]
   branch: "master"
   commitMessage: "New comment by {fields.name}"
