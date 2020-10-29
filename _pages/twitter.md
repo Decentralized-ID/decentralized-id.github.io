@@ -11,7 +11,7 @@ header:
 classes: wide
 ---
 
-{% for row in site.data.ssitw102820 %}
+{% for row in site.data.ssitw102920 %}
   <h3><a href="{{ row.Link }}">{{ row.Time }}</a> <a href="https://twitter.com/{{ row.User }}"><b>@{{ row.User }}</b></a></h3>
   <p><sup>Likes: <a href="{{ row.Link }}/likes">{{ row.Favorites }}</a> Following: <a href="https://twitter.com/{{ row.User }}/following/">{{ row.Following }}</a> Followed: <a href="https://twitter.com/{{ row.User }}/followers/">{{ row.Followers }}</a> {% if row.Retweets != "0" %}Retweets: <a href="{{ row.Link }}/retweets">{{ row.Retweets }}</a>{% endif %} {% if row.ReplyURL != "[]" and row.ReplyURL != blank %} - <a href="{{ row.ReplyURL }}">Reply to</a>{% endif %}</sup></p>
   <blockquote>{{ row.Text }}</blockquote>
