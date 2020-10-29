@@ -1,8 +1,13 @@
 ---
 layout: single
-title: Twitter Query
+title: Twitter Query - Decentralized ID
+description: "Curated feed from twitter hashtags #decentralizedid #iiw #selfsovereignid"
+excerpt: "Stay up to date on decentralizing digital identity topics on Twitter"
 permalink: /twitter/
 toc: false
+header:
+  image: /images/DecentralizeID_Twitter.png
+  caption: "[@DecentralizeID](https://twitter.com/DecentralizeID)"
 classes: wide
 ---
 
