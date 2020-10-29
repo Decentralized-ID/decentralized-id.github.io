@@ -14,7 +14,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth,wait_on_rate_limit=True)
 
 #### Keywords
-keywords = ['#SelfSovereignIdentity', '#DecentralizedIdentity']
+keywords = ['#SelfSovereignIdentity', '#DecentralizedIdentity', '#decentralizedidentity', "#IIW"]
 
 #### Get Date
 from datetime import date, timedelta, datetime
@@ -27,9 +27,9 @@ date_time = current_date.strftime("%m%d%y")
 
 #### Open CSV + Write Column Names
 fname = 'ssitw' + date_time + '.csv'
-csvFile = open(fname, 'a')
+csvFile = open(fname, 'w+')
 csvWriter = csv.writer(csvFile)
-csvWriter.writerow(["Time", "Link", "Text", "Hashtags", "User", "Favorites", "Following", "Followers", "Retweets", "Urls", "UrlTitle", "UrlDesc", "UrlImg", "ImageUrls", "ReplyURL"])
+csvWriter.writerow(["Time", "Link", "Text", "Hashtags", "User", "Favorites", "Following", "Followers", "Retweets", "Urls", "UrlTitle", "UrlDesc", "UrlImg", "ImageUrls", "ReplyURL","QuoteID","QuoteText","QuoteImg","QuoteUrl"])
 
 for keyword in keywords:
     for tweet in tweepy.Cursor(api.search,q=keyword + '-filter:retweets',count=100, tweet_mode="extended", lang="en", since=days_before).items():
@@ -40,6 +40,11 @@ for keyword in keywords:
         title = []
         description = []
         image = []
+        qtid = ''
+        qttext = ''
+        qtmedia = ['']
+        qturls = ['']
+
         retweetcount = tweet.retweet_count
         favorites = tweet.favorite_count
         following = tweet.user.friends_count
@@ -67,8 +72,17 @@ for keyword in keywords:
             for url in tweet.entities['urls']:
                 print(url['expanded_url'])
                 lnks.append(url['expanded_url'])
+                quoted = 'FALSE'
+                if hasattr(tweet, 'quoted_status'):
+                    qtuser = tweet.quoted_status.user.screen_name
+                    qtid = "https://twitter.com/" + username + "/status/" + tweet.quoted_status.id_str
+                    if qtid == url:
+                        quoted = 'TRUE'
+                        print("quoted")
+                    else:
+                        print("notquoted")
                 from webpreview import web_preview
-                if username == "Docbasia":
+                if username == "Docbasia" or quoted == 'TRUE':
                     print("Docbasia")
                 else:
                     try:
@@ -79,5 +93,33 @@ for keyword in keywords:
                         image.append(ima) 
                     except:
                         print("broken link")
-        csvWriter.writerow([created, id, text, hashtags, username, favorites, following, followers, retweetcount, lnks, title, description, image, medias, replink])
+        # If it's a quote-tweet, get original stats
+        if hasattr(tweet, 'quoted_status'):
+            qtmedia = ['']
+            qturls = ['']
+            qttext = tweet.quoted_status.full_text
+            print(qttext)
+            qtuser = tweet.quoted_status.user.screen_name
+            qtid = "https://twitter.com/" + qtuser + "/status/" + tweet.quoted_status.id_str
+            if 'media' in tweet.quoted_status.entities:
+                for media in tweet.quoted_status.extended_entities['media']:
+                    print(media['media_url_https'])
+                    qtmedia.append(media['media_url_https'])
+            if 'urls' in tweet.quoted_status.entities:
+                for url in tweet.quoted_status.entities['urls']:
+                    print(url['expanded_url'])
+                    qturls.append(url['expanded_url'])
+        line = [created, id, text, hashtags, username, favorites, following, followers, retweetcount, lnks, title, description, image, medias, replink, qtid, qttext, qtmedia, qturls]
+        lin = "created + ',' + id + ',' + text + ',' + hashtags + ',' + username + ',' + favorites + ',' + following + ',' + followers + ',' + retweetcount + ',' + lnks + ',' + title + ',' + description + ',' + image + ',' + medias + ',' + replink + ',' + qtid + ',' + qttext + ',' + qtmedia + ',' + qturls + '," 
+        seen = 'FALSE'
+        for row in csvFile:
+            if lin == row:
+                print("seen")
+                seen = 'TRUE'
+
+        if seen == 'TRUE' or username == "Docbasia" :
+            print("seen")
+        else:
+            csvWriter.writerow(line)
+            print(line)
 csvFile.close()
