@@ -235,6 +235,9 @@ whitelist:
   - jekyll-redirect-from
   - jekyll-mentions
 
+liquid:
+  error_mode: strict
+  strict_filters: true
 
 # Archives
 #  Type
