@@ -3,15 +3,15 @@ title: "What is Decentralized Identity? and Digital ID Fundamentals."
 permalink: /getting-started/
 ---
 
-<div class="side">
-  <a class="twitter-timeline" data-width="300" data-dnt="true" data-theme="light" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
 <center><img src="https://i.imgur.com/9KpJRDr.png"/></center>
 
 <h2>What is Decentralized ID?</h2>
 
 The essence of Decentralized-ID is in creating open standards for a privacy preserving internet-wide identity layer — not owned by any one particular organization, but interoperable between all.
+
+<div class="side">
+  <a class="twitter-timeline" data-width="300" data-dnt="true" data-theme="light" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 It's impossible to have a conversation about decentralized-id without discussing blockchain, self sovereign identity, standardization and frameworks, along with global privacy and digital identifiction regulations:
 
