@@ -3,7 +3,7 @@ layout: single
 title: Twitter Query - IIW 31
 description: "Curated feed from #iiw #iiw31"
 excerpt: "List of posts from IIW #31"
-permalink: /iiw31/
+permalink: iiw/
 toc: false
 header:
   image: /images/DecentralizeID_Twitter.png

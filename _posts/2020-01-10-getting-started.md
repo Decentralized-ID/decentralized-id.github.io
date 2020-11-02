@@ -1,5 +1,5 @@
 ---
-title: "What is Decentralized Identity? + Digital ID Fundamentals."
+title: "What is Decentralized Identity? and Digital ID Fundamentals."
 permalink: /getting-started/
 ---
 
@@ -12,43 +12,66 @@ The essence of Decentralized-ID is in creating open standards for a privacy pres
 It's impossible to have a conversation about decentralized-id without discussing blockchain, self sovereign identity, standardization and frameworks, along with global privacy and digital identifiction regulations:
 
 
-* Cryptographers, privacy advocates and digital identity enthusiasts <a href="/history/">laid the foundation</a> by deeply considering the implications of identification practices in the electronic world.
+* Cryptographers, privacy advocates and digital identity enthusiasts <a href="/history/">laid the foundation</a> by deeply considering the privacy implications of identification practices in the electronic world.
   * <a href="/literature/self-sovereign-identity/evolution-of-ssi/">Self Sovereign Identity principles emerged</a> from their work, gathering momentum as the digital age began to settle in.
 * The European Union's GDPR enlarged the global conversation around digital privacy practices, lending much weight to the SSI credo.
 * The United Nations Sustainable Development Goals (SDGs) have also fueled efforts towards a global and widely accessible identity solution.
-* The Blockchain industry exploded around <a href="https://bitcoinfo.xyz">Bitcoin</a>, proving the concept of digital scarcity, in the form of a decentralized peer-to-peer (P2P) currency.
-* <a href="https://sourcecrypto.pub/decentralized-web/">Decentralized web</a> and P2P technologists also lend strength to Decentralized Identity efforts.
-* Collectively arrived at solutions are trending towards congruence with the spirit of innovation, privacy concerns, and compliance within the global regulatory landscape.
+* Satoshi Nakamoto released <a href="https://bitcoinfo.xyz">Bitcoin</a>, proving the concept of digital scarcity in the form of a decentralized peer-to-peer (P2P) currency, inspiring leaders in every industry to integrate it's features to their business models.
+* At the same time, <a href="https://sourcecrypto.pub/decentralized-web/">Decentralized web</a> and P2P technologists have also lent strength to Decentralized Identity efforts.
+* Collectively arrived at solutions are trending towards congruence with the spirit of innovation, privacy concerns, and compliance within the evolving global regulatory landscape.
 
 ## Getting Started with Decentralized ID
 
-[A Primer on Decentralized Identity](https://selfkey.org/a-primer-on-decentralized-identity/)
-  > Blockchain technology has changed the world and has helped society enact radical changes, especially when it comes to privacy and identity. Decentralized identity (DID) redefines the way we share, control, and access our personal information. In short, it gives power back to the people when it comes to identity.
-[The Laws of Identity](http://www.windley.com/archives/2019/01/the_laws_of_identity.shtml)
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">The evolution of online identity:<br><br>1. Siloed Identity: All services hold your data.<br><br>2. Federated Identity: Brokers hold your data.<br><br>3. Self-Sovereign Identity: You hold your data.</p>&mdash; Tykn (@Tykn_tech) <a href="https://twitter.com/Tykn_tech/status/1321108291305558016?ref_src=twsrc%5Etfw">October 27, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DaM0UtQTLCs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* [The Laws of Identity](http://www.windley.com/archives/2019/01/the_laws_of_identity.shtml)
   > The Internet was created without any way to identify the people who used it. The Internet was a network of machines. Consequently, all the identity in Internet protocols is designed to identify machines and services. People used the Internet through some institution (their company or university) and were part of that institution's administrative identity system. This can still be seen in the format of email addresses that identify both recipient and sender as someone@someplace. As the Internet grew to include people who weren't formally associated with an institution, every Web site and service created their own administrative identity domains. The result is the fractured plethora of identifiers, policies, and user experiences that constitute digital identity in 2019.
 
-[Identity: The Elephant in the Enterprise Blockchain Room](https://hackernoon.com/identity-the-elephant-in-the-enterprise-blockchain-room-6f31ed8d4132)
-  > The adoption of permissioned blockchain technologies in the enterprise is a road full of challenges. The so called Web3 stack based on decentralized ledgers is still fundamentally immature to enable sophisticated enterprise business processes. Among the building blocks missing from enterprise blockchain platforms, identity raises to the top of the list as one of the omnipresent challenges of this new generation of enterprise solutions. At Invector Labs, we are regularly faced with the challenges of enabling identity management capabilities in permissioned blockchain solutions. As a result, we have developed certain ideas of the key capabilities and models of an identity layer for enterprise blockchain solutions which I would like to outline in this article.
-
-[The Case for Decentralized Identity](https://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml)
+* [The Case for Decentralized Identity](https://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml)
   > We cannot decentralize many interesting systems without also decentralizing the identity systems upon which they rely. We're finally in a position to create truly decentralized systems for digital identity.
-
-[Decentralized Identity: An alternative to password-based authentication](https://www.ibm.com/blogs/blockchain/2018/10/decentralized-identity-an-alternative-to-password-based-authentication/)
 
 [![](https://i.imgur.com/7asRg1y.png)](https://www.gsma.com/identity/wp-content/uploads/2019/11/MWCA-19-ID-seminar-Microsoft-presentation-final.pdf)
 
-[Demistifying Decentralized Identity](https://medium.com/3box/demystifying-digital-id-6ec413b129ac)
-  > Identity is not a single challenge but a set of many related ones. Good identity infrastructure should make it easy to manage the user-related capabilities in a product, service, or ecosystem in an elegant and user-empowering way. Traditional solutions and common workarounds usually fail at this - they don’t preserve privacy, are too fragile, don’t have the proper underpinnings to support the interoperability needed to easily extend to new capabilities and use cases over time. Decentralized identity infrastructure works togday and can adapt easily to future needs and opportunities.
+* [The Path to Self-Sovereign Identity](https://github.com/ChristopherA/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md)
+  > Self-sovereign identity is the next step beyond user-centric identity and that means it begins at the same place: the user must be central to the administration of identity. That requires not just the interoperability of a user’s identity across multiple locations, with the user’s consent, but also true user control of that digital identity, creating user autonomy. To accomplish this, a self-sovereign identity must be transportable; it can’t be locked down to one site or locale.
+
+* [The Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
+  > This lack of secure, portable, user-controlled identity has some dire consequences. It means
+that a person’s identity and personal data only exists within the context of each specific
+website or application he or she uses. Stop using the site or application and the person’s
+digital existence is meaningless. And a user’s control over their identity and data must be
+exerted on a site-by-site, app-by-app basis.
+
+* [The Need for Good Digital ID is Universal](https://id2020.org/digital-identity)
+  > The ability to prove who you are is a fundamental and universal human right. Because we live in a digital era, we need a trusted and reliable way to do that both in the physical world and online.
+
+* [The Rising Tide of Decentralized Identity](https://medium.com/decentralized-identity/the-rising-tide-of-decentralized-identity-2e163e4ec663) - Decentralized Identity Foundation
+  > Creating a unified decentralized identity ecosystem requires addressing a set of fundamental user needs and technical challenges:
+  > 
+  > - Enabling registration of self-sovereign identifiers that no provider owns or controls.
+  > - The ability to lookup and discover identifiers and data across decentralized systems.
+  > - Providing a mechanism for users to securely store sensitive identity data, and enabling them to precisely control what is shared with others.
 
 
-## Digital Identity Fundamentals
+## Digital Identity 101
 
+If you're looking to freshen up on your digital identity fundamentals, the following resources will be a good place to start.
+
+* [Guide to Digital Identity — Part 1](https://medium.com/@dip_ak/guide-to-digital-identity-part-1-4b7c8fe45ee1) - Deepak Gupta
+  > Are you curious about the Digital Identity Ecosystem? If you have been looking for a good, reliable and easy-to-understand source of information and haven’t had any luck, then this article is for you.
 * [What is Digital Identity?](https://medium.com/humanizing-the-singularity/what-is-digital-identity-c77983c03306)
   > The Sapir–Whorf Hypothesis, also known as the principle of linguistic relativity, posits that language constructs our reality and worldview. While the hypothesis has been contested over the years, language is unarguably fundamental to the models of the world we build in our heads — and in our systems.
-* [Difference Between Authentication and Authorization](https://techdifferences.com/difference-between-authentication-and-authorization.html)
-  > The identity of a person is assured by authentication. On the other hand, authorization checks the access list that the authenticated person has. In other words, the authorization includes the permissions that a person has given.
+* [Difference Between Authentication and Authorization](https://www.beyondtrust.com/blog/entry/understanding-authentication-vs-authorization)
+  > What is the difference between authentication (authN) versus authorization (authZ)? While these two fundamental security terms are often confused with each other, the only real similarity is they both begin with the letter “A” and are linked by an account. In concept, one verifies the account (authentication) and the other sanctions (authorization) the account to perform a task. Because these terms are so fundamental, it’s crucial to understand the difference between them, and the implications for each when the concepts are blended
+* [What is Identity and Access Management and Why is it a Vital IT Security Layer?](https://www.beyondtrust.com/blog/entry/what-is-identity-and-access-management-and-why-is-it-a-vital-it-security-layer)
+  > Identity and Access Management (IAM), also called identity management, refers to the IT security discipline, framework, and solutions for managing digital identities. Identity management encompasses the provisioning and de-provisioning of identities, securing and authentication of identities, and the authorization to access resources and/or perform certain actions. While a person (user) has only one singular digital identity, they may have many different accounts representing them. Each account can have different access controls, both per resource and per context.
+
+### Video
 * [IDPro Member Presentations - Identiverse 2019](https://idpro.org/member-present) - [playlist](https://www.youtube.com/playlist?list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf)
-  * [2019 - Introduction to Identity Part 1 - Identiverse](https://www.youtube.com/watch?v=T5w1EXqMqR0&list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf&index=5&t=0s)
+  * [2019 - Introduction to Identity Part 1 - Identiverse](https://www.youtube.com/watch?v=T5w1EXqMqR0&list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf)
     > This workshop — provided by IDPro — will provide a comprehensive (and fun) introductory view of the identity world that will give participants a solid understanding of IAM’s foundations. Part 1 of this 2-part class begins with the basics like directories, identity proofing, provisioning, authentication (including multi-factor), authorization, as well as federation technologies like SAML, OAuth, and OpenID Connect. In Part 2, we build on those foundational technologies to explain PKI & digital certificates, privileged access management, identity for IoT, identity assurance, privacy issues, identity standards organizations, and even known attack vectors.
   * [Introduction to Identity Part 2 - June 25 - Identiverse 2019](https://www.youtube.com/watch?v=zxKRUXmTLJs)
   * [Modern Identity for Developers 101 - June 25 - Identiverse 2019](https://www.youtube.com/watch?v=kWpqFWz_9II)
