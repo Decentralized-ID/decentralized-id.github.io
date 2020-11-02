@@ -4,7 +4,7 @@ permalink: /getting-started/
 ---
 
 <div class="side">
-  <a class="twitter-timeline" data-width="220" data-dnt="true" data-theme="light" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" data-width="300" data-dnt="true" data-theme="light" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <center><img src="https://i.imgur.com/9KpJRDr.png"/></center>
@@ -27,20 +27,16 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 <h2>Getting Started with Decentralized ID</h2>
 
-<center><blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">The evolution of online identity:<br><br>1. Siloed Identity: All services hold your data.<br><br>2. Federated Identity: Brokers hold your data.<br><br>3. Self-Sovereign Identity: You hold your data.</p>&mdash; Tykn (@Tykn_tech) <a href="https://twitter.com/Tykn_tech/status/1321108291305558016?ref_src=twsrc%5Etfw">October 27, 2020</a></blockquote></center>
-
-<p><style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/DaM0UtQTLCs' frameborder='0' allowfullscreen></iframe></div></p>
-
 <ul>
   <li><a href="http://www.windley.com/archives/2019/01/the_laws_of_identity.shtml">The Laws of Identity</a></li>
     <blockquote>The Internet was created without any way to identify the people who used it. The Internet was a network of machines. Consequently, all the identity in Internet protocols is designed to identify machines and services. People used the Internet through some institution (their company or university) and were part of that institution's administrative identity system. This can still be seen in the format of email addresses that identify both recipient and sender as someone@someplace. As the Internet grew to include people who weren't formally associated with an institution, every Web site and service created their own administrative identity domains. The result is the fractured plethora of identifiers, policies, and user experiences that constitute digital identity in 2019.</blockquote>
   <li><a href="https://raw.githubusercontent.com/jandrieu/rebooting-the-web-of-trust-fall2016/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) - A topic paper by Joe Andrieu (joe@joeandrieu.com">A Technology‐Free Definition of Self‐Sovereign Identity</a> for the third Rebooting Web of Trust DesignShop October 2016</li>
     <blockquote>Abstract The desire for increased control over our identity has catapulted the idea of “self‐sovereign identity” into the forefront of digital identity innovation, yet the term lacks a rigorous definition beyond specific technical implementations1. This paper explores what self‐sovereign identity means independent of technology: what people need from independent identity capabilities. I want to understand how such a system enables both individuals whose identities are in play (subjects), as well as those who use those “identities” to correlate interactions across contexts (observers). I start with grounding individual sovereignty in the Enlightenment and identity in its core function of correlation, then propose core characteristics of a self‐sovereign identity system. My eventual goal is to model the technology‐independent requirements of a self‐sovereign solution suitable for realizing UN Sustainable Development Goal 16.9: “Providing every last person on the planet with a legal identity by 2030.”</blockquote>
   <li><a href="https://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml">The Case for Decentralized Identity</a></li>
-  <blockquote>We cannot decentralize many interesting systems without also decentralizing the identity systems upon which they rely. We're finally in a position to create truly decentralized systems for digital identity.</blockquote>
+    <blockquote>We cannot decentralize many interesting systems without also decentralizing the identity systems upon which they rely. We're finally in a position to create truly decentralized systems for digital identity.</blockquote>
 </ul>
 
-<a href="https://www.gsma.com/identity/wp-content/uploads/2019/11/MWCA-19-ID-seminar-Microsoft-presentation-final.pdf"><img src="https://i.imgur.com/7asRg1y.png"/></a>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">The evolution of online identity:<br><br>1. Siloed Identity: All services hold your data.<br><br>2. Federated Identity: Brokers hold your data.<br><br>3. Self-Sovereign Identity: You hold your data.</p>&mdash; Tykn (@Tykn_tech) <a href="https://twitter.com/Tykn_tech/status/1321108291305558016?ref_src=twsrc%5Etfw">October 27, 2020</a></blockquote>
 
 <ul>
   <li><a href="https://github.com/ChristopherA/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md">The Path to Self-Sovereign Identity</a></li>
@@ -56,13 +52,15 @@ It's impossible to have a conversation about decentralized-id without discussing
     - Providing a mechanism for users to securely store sensitive identity data, and enabling them to precisely control what is shared with others.</blockquote>
 </ul>
 
-### For more on Decentralized \ Self Sovereign Identity
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/DaM0UtQTLCs' frameborder='0' allowfullscreen></iframe></div>
 
-#### >> <a href="https://decentralized-id.com/literature/">Literature</a> <<
+<h2>More on Decentralized \ Self Sovereign Identity</h2>
 
-#### >> <a href="https://decentralized-id.com/literature/self-sovereign-identity/">Self Sovereign Identity</a> <<
+<h3><a href="https://decentralized-id.com/literature/">Literature</a></h3>
 
-## Digital Identity 101
+<h3><a href="https://decentralized-id.com/literature/self-sovereign-identity/">Self Sovereign Identity</a></h3>
+
+<h2>Digital Identity 101</h2>
 
 If you're looking to freshen up on your digital identity fundamentals, the following resources will be a good place to start.
 
