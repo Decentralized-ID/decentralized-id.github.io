@@ -1,6 +1,7 @@
 ---
 title: "What is Decentralized Identity? and Digital ID Fundamentals."
 permalink: /getting-started/
+toc: false
 ---
 
 <center><img src="https://i.imgur.com/9KpJRDr.png"/></center>
@@ -54,7 +55,7 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/DaM0UtQTLCs' frameborder='0' allowfullscreen></iframe></div>
 
-<h2>More on Decentralized \ Self Sovereign Identity</h2>
+<h2>More on Decentralized | Self Sovereign Identity</h2>
 
 <ul>
   <li><em><a href="https://decentralized-id.com/literature/">Literature</a></em></li>
@@ -111,6 +112,6 @@ If you're looking to freshen up on your digital identity fundamentals, the follo
 
 ---
 
-<h3>Next: History</h3>
+<h3>Next – History</h3>
 
 <a href="https://decentralized-id.com/history">**Check out our history section for additional background information on the decades-long quest for decentralized identity.**</a>
