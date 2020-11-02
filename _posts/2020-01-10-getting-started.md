@@ -114,4 +114,4 @@ If you're looking to freshen up on your digital identity fundamentals, the follo
 
 <h3>Next – History</h3>
 
-<a href="https://decentralized-id.com/history">**Check out our history section for additional background information on the decades-long quest for decentralized identity.**</a>
+<em>Check out our <a href="https://decentralized-id.com/history">history section for additional background info</a> on the decades-long quest for decentralized identity.</em>
