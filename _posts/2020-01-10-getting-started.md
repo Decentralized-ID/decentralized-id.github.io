@@ -30,6 +30,9 @@ It's impossible to have a conversation about decentralized-id without discussing
 * [The Laws of Identity](http://www.windley.com/archives/2019/01/the_laws_of_identity.shtml)
   > The Internet was created without any way to identify the people who used it. The Internet was a network of machines. Consequently, all the identity in Internet protocols is designed to identify machines and services. People used the Internet through some institution (their company or university) and were part of that institution's administrative identity system. This can still be seen in the format of email addresses that identify both recipient and sender as someone@someplace. As the Internet grew to include people who weren't formally associated with an institution, every Web site and service created their own administrative identity domains. The result is the fractured plethora of identifiers, policies, and user experiences that constitute digital identity in 2019.
 
+* [A Technology‐Free Definition of Self‐Sovereign Identity](https://raw.githubusercontent.com/jandrieu/rebooting-the-web-of-trust-fall2016/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) - A topic paper by Joe Andrieu (joe@joeandrieu.com) for the third Rebooting Web of Trust DesignShop October 2016
+  > Abstract The desire for increased control over our identity has catapulted the idea of “self‐sovereign identity” into the forefront of digital identity innovation, yet the term lacks a rigorous definition beyond specific technical implementations1. This paper explores what self‐sovereign identity means independent of technology: what people need from independent identity capabilities. I want to understand how such a system enables both individuals whose identities are in play (subjects), as well as those who use those “identities” to correlate interactions across contexts (observers). I start with grounding individual sovereignty in the Enlightenment and identity in its core function of correlation, then propose core characteristics of a self‐sovereign identity system. My eventual goal is to model the technology‐independent requirements of a self‐sovereign solution suitable for realizing UN Sustainable Development Goal 16.9: “Providing every last person on the planet with a legal identity by 2030.”
+
 * [The Case for Decentralized Identity](https://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml)
   > We cannot decentralize many interesting systems without also decentralizing the identity systems upon which they rely. We're finally in a position to create truly decentralized systems for digital identity.
 
@@ -54,6 +57,12 @@ exerted on a site-by-site, app-by-app basis.
   > - Enabling registration of self-sovereign identifiers that no provider owns or controls.
   > - The ability to lookup and discover identifiers and data across decentralized systems.
   > - Providing a mechanism for users to securely store sensitive identity data, and enabling them to precisely control what is shared with others.
+
+### For more on Decentralized \ Self Sovereign Identity
+
+#### >> [Literature](https://decentralized-id.com/literature/) <<
+
+#### >> [Self Sovereign Identity](https://decentralized-id.com/literature/self-sovereign-identity/) <<
 
 ## Digital Identity 101
 
