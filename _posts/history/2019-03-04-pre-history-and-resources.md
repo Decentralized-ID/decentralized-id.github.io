@@ -61,10 +61,9 @@ This history behind decentralized identity is loosely categorized by year and er
 
 [![](https://i.imgur.com/sMV9PE4.png)](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 
-Phil [Zimmerman creates PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html), 1991. 
+* Phil [Zimmerman creates PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html), 1991. 
   * First time strong encryption widely available to general public. 
   * PGP’s web-of-trust provide early foundation for SSI. However, PGP is known as difficult to use and failed to reach wide adoption for personal communication\identification.
-
 * [Why I wrote PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 * [PGP -Web of Trust -linux.com](https://www.linux.com/learn/pgp-web-trust-core-concepts-behind-trusted-communication)
 * [PGP Web of Trust: Core Concepts Behind Trusted Communication - Lin...](https://www.linux.com/learn/pgp-web-trust-core-concepts-behind-trusted-communication)
