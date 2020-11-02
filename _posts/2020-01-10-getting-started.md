@@ -34,10 +34,10 @@ It's impossible to have a conversation about decentralized-id without discussing
 </ul>
 
 <div class="side">
-  <a class="twitter-timeline" data-width="350" data-dnt="true" data-theme="light" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" data-width="350" data-link-color="#1DA1F2" data-dnt="true" data-border-color="#657786" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">The evolution of online identity:<br><br>1. Siloed Identity: All services hold your data.<br><br>2. Federated Identity: Brokers hold your data.<br><br>3. Self-Sovereign Identity: You hold your data.</p>&mdash; Tykn (@Tykn_tech) <a href="https://twitter.com/Tykn_tech/status/1321108291305558016?ref_src=twsrc%5Etfw">October 27, 2020</a></blockquote>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" data-link-color="#1DA1F2" data-border-color="#657786" dir="ltr">The evolution of online identity:<br><br>1. Siloed Identity: All services hold your data.<br><br>2. Federated Identity: Brokers hold your data.<br><br>3. Self-Sovereign Identity: You hold your data.</p>&mdash; Tykn (@Tykn_tech) <a href="https://twitter.com/Tykn_tech/status/1321108291305558016?ref_src=twsrc%5Etfw">October 27, 2020</a></blockquote>
 
 <ul>
   <li><a href="https://github.com/ChristopherA/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md">The Path to Self-Sovereign Identity</a></li>
