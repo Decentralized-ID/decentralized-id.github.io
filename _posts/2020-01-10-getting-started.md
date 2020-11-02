@@ -9,10 +9,6 @@ permalink: /getting-started/
 
 The essence of Decentralized-ID is in creating open standards for a privacy preserving internet-wide identity layer — not owned by any one particular organization, but interoperable between all.
 
-<div class="side">
-  <a class="twitter-timeline" data-width="300" data-dnt="true" data-theme="light" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
 It's impossible to have a conversation about decentralized-id without discussing blockchain, self sovereign identity, standardization and frameworks, along with global privacy and digital identifiction regulations:
 
 <ul>
@@ -35,6 +31,10 @@ It's impossible to have a conversation about decentralized-id without discussing
   <li><a href="https://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml">The Case for Decentralized Identity</a></li>
     <blockquote>We cannot decentralize many interesting systems without also decentralizing the identity systems upon which they rely. We're finally in a position to create truly decentralized systems for digital identity.</blockquote>
 </ul>
+
+<div class="side">
+  <a class="twitter-timeline" data-width="300" data-dnt="true" data-theme="light" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">The evolution of online identity:<br><br>1. Siloed Identity: All services hold your data.<br><br>2. Federated Identity: Brokers hold your data.<br><br>3. Self-Sovereign Identity: You hold your data.</p>&mdash; Tykn (@Tykn_tech) <a href="https://twitter.com/Tykn_tech/status/1321108291305558016?ref_src=twsrc%5Etfw">October 27, 2020</a></blockquote>
 
