@@ -3,7 +3,7 @@ title: "What is Decentralized Identity? and Digital ID Fundamentals."
 permalink: /getting-started/
 ---
 
-![](https://i.imgur.com/9KpJRDr.png)
+<center><img src="https://i.imgur.com/9KpJRDr.png"/></center>
 
 ## What is Decentralized ID?
 
