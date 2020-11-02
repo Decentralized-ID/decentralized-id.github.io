@@ -81,7 +81,7 @@ If you're looking to freshen up on your digital identity fundamentals, the follo
 
 <h3>Video</h3>
 
-* <a href="https://www.youtube.com/playlist?list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf">IDPro Member Presentations - Identiverse 2019](https://idpro.org/member-present) - [playlist</a>
+* <a href="https://idpro.org/member-present">IDPro Member Presentations - Identiverse 2019</a> - <a href="https://www.youtube.com/playlist?list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf">playlist</a> 
   * <a href="https://www.youtube.com/watch?v=T5w1EXqMqR0&list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf">2019 - Introduction to Identity Part 1 - Identiverse</a>
     > This workshop — provided by IDPro — will provide a comprehensive (and fun) introductory view of the identity world that will give participants a solid understanding of IAM’s foundations. Part 1 of this 2-part class begins with the basics like directories, identity proofing, provisioning, authentication (including multi-factor), authorization, as well as federation technologies like SAML, OAuth, and OpenID Connect. In Part 2, we build on those foundational technologies to explain PKI & digital certificates, privileged access management, identity for IoT, identity assurance, privacy issues, identity standards organizations, and even known attack vectors.
   * <a href="https://www.youtube.com/watch?v=zxKRUXmTLJs">Introduction to Identity Part 2 - June 25 - Identiverse 2019</a>
