@@ -23,7 +23,7 @@ toc: false
 
 #### [European Government Identity Initiatives]({% link _posts/government/europe/2020-01-11-europe.md %})
 
-#### [Decentralized Identity and the United States Public Sector]({% link _posts/government/2020-01-11-usa.md %})
+#### [Decentralized Identity and the United States Public Sector]({% link _posts/government/usa/2020-01-11-usa.md %})
 
 ## Blockchain and Digital ID
 
