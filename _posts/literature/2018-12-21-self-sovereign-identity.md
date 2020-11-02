@@ -13,9 +13,7 @@ redirect_from:
   - /self-sovereign-identity/
 categories: ["Literature"]
 tags: ["Self Sovereign Identity","Laws of Identity"]
-last_modified_at: 2020-01-11
-published: true
-
+last_modified_at: 2020-11-02
 ---
 
 <center><img src="https://decentralized-id.com/images/sovereign-id-wide.png"/></center>

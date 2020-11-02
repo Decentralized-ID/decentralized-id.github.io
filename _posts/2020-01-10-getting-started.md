@@ -2,6 +2,8 @@
 title: "What is Decentralized Identity? and Digital ID Fundamentals."
 permalink: /getting-started/
 toc: false
+last_modified_at: 2020-11-02
+
 ---
 
 <center><img src="https://i.imgur.com/9KpJRDr.png"/></center>
