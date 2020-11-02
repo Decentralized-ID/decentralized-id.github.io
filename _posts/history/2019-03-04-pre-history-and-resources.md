@@ -18,11 +18,9 @@ classes: wide
 
 [*Here is a community timeline that was created at IIW in 2011 & renewed at IIW 28 in 2019*](https://github.com/Identitywoman/identity-commons/blob/master/ID-History.md)
 
-For now, this is a reasonable solution.
-
 ## Category Index
 
-These pages are loosely categorized by year and era. The date ranges, are somewhat arbitrary and not perfectly adhered to, and the headings are not perfect descriptors of those date ranges. Rather those are some major themes occuring within that time period. 
+This history behind decentralized identity is loosely categorized by year and era. 
 
 * [User Centric Identity - 2000-2009](/history/2000-2009/)
 * [Personal Data Ecosystem - 2010-2014](/history/2010-2014)
@@ -48,10 +46,10 @@ These pages are loosely categorized by year and era. The date ranges, are somewh
 
 * [Security without Identification Transactions Systems to Make Big Brother Obsolete](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - David Chaum, 1985. 
   > The large-scale automated transaction systems of the near future can be designed to protect the privacy and maintain the security of both individuals and organizations. Computerization is robbing individuals of the ability to monitor and control the ways information about them is used. As organizations in both the private and the public sectors routinely exchange such information, individuals have no way of knowing if the information is inaccurate, obsolete, or otherwise inappropriate. The foundation is being laid for a dossier society, in which computers could be used to infer individuals’ life-styles, habits, whereabouts, and associations from data collected in ordinary consumer transactions. Uncertainty about whether data will remain secure against abuse by those maintaining or tapping it can have a “chilling effect,” causing people to alter their observable activities. As computerization becomes mclre pervasive, the potential for these problems will grow dramatically.
-
-...
-
-> The solution is based on an individual’s ability to take a specially coded credential issued under one pseudonym and to transform it into a similarly coded form of the same credential that can be shown under the individual’s other pseudonyms. -[*Security without Identification*](https://www.chaum.com/publications/Security_Wthout_Identification.html)
+  > 
+  > [...]
+  >
+  > The solution is based on an individual’s ability to take a specially coded credential issued under one pseudonym and to transform it into a similarly coded form of the same credential that can be shown under the individual’s other pseudonyms. -[*Security without Identification*](https://www.chaum.com/publications/Security_Wthout_Identification.html)
 
 
 #### Roger Clarke - Dataveillance
@@ -119,6 +117,3 @@ Phil [Zimmerman creates PGP](https://www.philzimmermann.com/EN/essays/WhyIWroteP
 ![](https://i.imgur.com/5R51G4Y.png)
 
 ![](https://i.imgur.com/xmWkc4l.png)
-
-{% include post_pagination.html %}
-
