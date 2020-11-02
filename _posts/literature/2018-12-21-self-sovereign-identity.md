@@ -1,7 +1,7 @@
 ---
 title       : "Self Sovereign Identity (SSI)"
 excerpt: >
-  It would seem that Christopher Allen's The Path to Self-Sovereign Identity is still the most comprehensive article on the subject of Self Sovereign Identity. It outlines some of the underlying history, and introduces 10 Principles of Self-Sovereign Identity, born from the collective thoughts on identity leading to it.
+  It would seem that Christopher Allen's The Path to Self-Sovereign Identity is still the most comprehensive introduction to the subject of Self Sovereign Identity. It outlines some of the underlying history, and introduces 10 Principles of Self-Sovereign Identity, born from the collective thoughts on identity leading to it.
 
   Considerable additional material has been created on the subject since then, including some helpful criticism on the principles. Some of initial thoughts have been organized in evolution-of-ssi.
 description : Literature associated with the Fundamentals of Self-Sovereign Identity.
@@ -22,7 +22,7 @@ published: true
 
 This directory was born from [WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), *the original* SSI repository. 
 
-It would seem that Christopher Allen's [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md) is still the most comprehensive article on the subject of Self Sovereign Identity. It outlines some of the underlying history, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), born from the collective thoughts on identity leading to it. 
+It would seem that Christopher Allen's [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md) is still the most comprehensive introduction to the subject of Self Sovereign Identity. It outlines some of the underlying history, and introduces [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md), born from the collective thoughts on identity leading to it.
 
 Considerable additional material has been created on the subject since then, including some helpful criticism on the principles. Some of initial thoughts have been organized in [evolution-of-ssi](/literature/self-sovereign-identity/evolution-of-ssi/).
 
@@ -32,7 +32,7 @@ Considerable additional material has been created on the subject since then, inc
 
 ## SSI Documentation Components
 
-While none of this is authoritative, it's useful to keep in mind the philosophy an principles that have developed around creating next generation digital identification schemes. 
+While none of this is authoritative, it's useful to keep in mind the philosophy an principles that have focused efforts around creating next generation digital identification schemes. 
 
 * [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md) - The original article on Self-Sovereign Identity and the 10 Principles of Self-Sovereign Identity as published on 2016-04-25 in github and at [Life With Alacrity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) by [Christopher Allen](http://www.github.com/christophera) [[**ϟ**](https://www.coindesk.com/path-self-sovereign-identity/amp/)]
   * [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) - The Self-Sovereign Identity Principles, in progress of being revised.
@@ -68,9 +68,8 @@ While none of this is authoritative, it's useful to keep in mind the philosophy 
 * [LESS identity](https://medium.com/@trbouma/less-identity-65f65d87f56b)
 * [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md); Joe Andrieu describes identity terms in plain language, with regards to what function they serve.
 * [karimStekelenburg/awesome-self-sovereign-identity](https://github.com/karimStekelenburg/awesome-self-sovereign-identity)
-* [Identity and Digital Self-Sovereignty](https://medium.com/learning-machine-blog/identity-and-digital-self-sovereignty-1f3faab7d9e3#.3jcgvnbok) - Blog post by [Natalie Smolenski](https://medium.com/@nsmolenski)
+* [Identity and Digital Self-Sovereignty](https://medium.com/learning-machine-blog/identity-and-digital-self-sovereignty-1f3faab7d9e3) - Blog post by [Natalie Smolenski](https://medium.com/@nsmolenski)
 * [Inevitable Rise of Self-Sovereign Identity](https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf)
-* [IBM-Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
 * [The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better](https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186) 
 * [The Rise of Self-Sovereign Identity - Hyperledger Indy](https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy)
 * [Paving the Road to Self-Sovereign Identity with Blockchain, Open Standards](https://www.ibm.com/blogs/think/2017/10/self-sovereign-id-blockchain/)
@@ -109,7 +108,6 @@ While none of this is authoritative, it's useful to keep in mind the philosophy 
 * [uPort: Self-Sovereign Identity Meets Portable Data](https://www.youtube.com/watch?v=hBIragrwqYc)
 * [Behind the Cloud—Blockchain and Self-Sovereign Identity in the Enterprise](https://www.youtube.com/watch?v=wSdm2-18Z2g)
 * [The Story of Open SSI Standards - Drummond Reed](https://www.youtube.com/watch?v=RllH91rcFdE&feature=youtu.be&t=4m30s)
-* [Kim Cameron - Identity Laws](https://channel9.msdn.com/Blogs/scobleizer/Kim-Cameron-Identity-Laws)
 
 ### History
 
@@ -123,5 +121,6 @@ While none of this is authoritative, it's useful to keep in mind the philosophy 
 * [SSIMeetup](http://ssimeetup.org/) [[Slideshare](https://www.slideshare.net/SSIMeetup/presentations)] [[Youtube](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og)] [[Telegram](https://t.me/SSIMeetup)] - SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. 
 * [WebOfTrustInfo/self-sovereign-id](https://github.com/WebOfTrustInfo/self-sovereign-identity)
 * [Self-Sovereign Identity — wiki.p2pfoundation](https://wiki.p2pfoundation.net/Self-Sovereign_Identity)
+
 
 
