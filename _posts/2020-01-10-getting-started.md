@@ -56,9 +56,10 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 <h2>More on Decentralized \ Self Sovereign Identity</h2>
 
-<h3><a href="https://decentralized-id.com/literature/">Literature</a></h3>
-
-<h3><a href="https://decentralized-id.com/literature/self-sovereign-identity/">Self Sovereign Identity</a></h3>
+<ul>
+  <li><em><a href="https://decentralized-id.com/literature/">Literature</a></em></li>
+  <li><em><a href="https://decentralized-id.com/literature/self-sovereign-identity/">Self Sovereign Identity</a></em></li>
+</ul>
 
 <h2>Digital Identity 101</h2>
 
