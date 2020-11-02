@@ -96,6 +96,12 @@ Phil [Zimmerman creates PGP](https://www.philzimmermann.com/EN/essays/WhyIWroteP
 * [Rebooting digital identity: how the social web is transforming citizen behaviours and expectations](https://www.slideshare.net/solutist/rebooting-digital-identity-how-the-social-web-is-transforming-citizen-behaviours-and-expectations) -  Slideshare - 2012
 * [A Step Back in Time: The History and Evolution of Digital Identity](https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm)
   > As Identity 3.0 continues to evolve, fascinating implementations and use cases are on the rise with the most talked-about frontier of the technological landscape: the Internet of Things (IoT).
+* [Identity Trust Charter](http://wiki.idcommons.org/Identity_Trust_Charter)
+  > To advocate and facilitate open (not closed) internet policy notices and terms that enable people to control personal information. Enabling a rich ecosystem of granualr controls to set personal information free from its current privacy prison.
+  > 
+  > Both Consent and Notice are primary tools online used to legally control and administer the flow of personal sharing and disclosure of information online. At this time this policy infrastructure is a relic of the industrial age, broken by surveillance capitalists, and not usable for privacy rights in context with identity management. 
+  * [Influential Works](http://wiki.idcommons.org/Identity_Trust_Charter#Influential_Works_.26_Events)
+    > Some Papers, Presentations & Hackathons: international privacy 
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ujYqOXNEaaogEq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 <strong> <a href="//www.slideshare.net/prabathsiriwardena/the-evolution-of-internet-identity">The Evolution of Internet Identity</a> </strong> from <strong> <a href="https://www.slideshare.net/prabathsiriwardena">Prabath Siriwardena</a> </strong> 

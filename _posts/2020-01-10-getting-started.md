@@ -55,7 +55,6 @@ exerted on a site-by-site, app-by-app basis.
   > - The ability to lookup and discover identifiers and data across decentralized systems.
   > - Providing a mechanism for users to securely store sensitive identity data, and enabling them to precisely control what is shared with others.
 
-
 ## Digital Identity 101
 
 If you're looking to freshen up on your digital identity fundamentals, the following resources will be a good place to start.
@@ -96,3 +95,9 @@ If you're looking to freshen up on your digital identity fundamentals, the follo
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
 * [Kim Camerons Identity Blog](https://identityblog.com)
 * [karimStekelenburg/awesome-self-sovereign-identity](https://github.com/karimStekelenburg/awesome-self-sovereign-identity)
+
+---
+
+### Next: History
+
+[**Check out our history section for additional background information on the decades-long quest for decentralized identity.**](https://decentralized-id.com/history)
