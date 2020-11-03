@@ -16,7 +16,7 @@ redirect_from:
   - organizations/sovrin-foundation
   - organizations/sovrin-foundation/
 categories: ["Organizations","Sovrin Foundation"]
-tags: ["Indy","VON"]
+tags: ["Indy","VON","Evernym"]
 last_modified_at: 2019-07-13
 ---
 
