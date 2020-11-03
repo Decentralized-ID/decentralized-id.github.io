@@ -8,9 +8,10 @@ excerpt: >
 header:
   image: "https://decentralized-id.com/images/evernym-indy-sovrin.png"
   caption: "[OdysseyHackathon-21st Century Digital Citizenship Presentation](https://www.slideshare.net/OdysseyHackathon/21st-century-digital-citizenship-presentation)"
-permalink: /hyperledger/indy/
-canonical_url: 'https://decentralized-id.com/hyperledger/indy/'
+permalink: organizations/hyperledger/indy/
+canonical_url: 'https://decentralized-id.com/organizations/hyperledger/indy/'
 redirect_from: 
+  - hyperledger/indy/
   - indy-sovrin/
   - indy-sovrin
   - id-initiatives/indy-ecosystem

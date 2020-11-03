@@ -55,13 +55,13 @@ didnav:
   - title: Self-Sovereign Identity
     children:
       - title: "• SSI - Documentation Efforts"
-        url: "/self-sovereign-identity/"
+        url: "/literature/self-sovereign-identity/"
       - title: "• Evolution of SSI"
-        url: "/self-sovereign-identity/evolution-of-ssi/"
+        url: "/literature/self-sovereign-identity/evolution-of-ssi/"
       - title: "• SSI Principles vs Characteristics"
-        url: "/self-sovereign-identity/ssi-principles-vs-characteristics/"
+        url: "/literature/self-sovereign-identity/ssi-principles-vs-characteristics/"
       - title: "• User Experience"
-        url: "/self-sovereign-identity/user-experience/"
+        url: "/literature/self-sovereign-identity/user-experience/"
   - title: "Organizations"
     url: "/organizations/"
     children:
@@ -74,29 +74,29 @@ didnav:
       - title: "• SSI Meetup"
         url: "/organizations/ssi-meetup/"
       - title: "• Women in Identity"
-        url: "organizations/women-in-identity/"
+        url: "/organizations/women-in-identity/"
   - title: Initiatives
     children:
       - title: "• Danube"
-        url: "/private-sector/danube-tech/" 
+        url: "/companies/danube-tech/" 
       - title: "• Blockchain"
         url: "/blockchain/"
       - title: "• Bitcoin"
         url: "/blockchain/bitcoin/" 
       - title: "• Blockcerts"
-        url: "/specs-standards/blockcerts/" 
+        url: "/web-standards/blockcerts/" 
       - title: "• Ethereum"
         url: "/blockchain/ethereum/" 
       - title: "• uPort"
         url: "/blockchain/ethereum/uPort/" 
       - title: "• Hyperledger Indy"
-        url: "/hyperledger/indy/"
+        url: "/organizations/hyperledger/indy/"
       - title: "• VON"
         url: "/government/canada/von/" 
       - title: "• IBM"
-        url: "/private-sector/ibm/"
+        url: "/companies/ibm/"
       - title: "• Microsoft"
-        url: "/private-sector/microsoft/"
+        url: "/companies/microsoft/"
   - title: "⧉InfoMine⧉"
     children:
       - title: "• Identosphere"
@@ -118,13 +118,13 @@ sovnav:
     children:
       - title: "• Index"
         description: Index of Resources Surrounding Hyperledger Indy, the Sovrin Foundation, and Evernym.
-        url: /hyperledger/indy/
+        url: /organizations/hyperledger/indy/
       - title: "• Adoption"
         description: Partnerships and Application of Evernym, Sovrin, and Indy.
-        url: /hyperledger/indy/adoption/
+        url: /organizations/hyperledger/indy/adoption/
       - title: "• Indy Github" 
         description: GitHub Repositories Related to Hyperledger Indy.
-        url: /hyperledger/indy/github/
+        url: /organizations/hyperledger/indy/github/
       - title: "• Literature"
         description: Research and Literature Related to the Indy Ecosystem.
         url: /organizations/sovrin/literature/
@@ -144,9 +144,9 @@ sovnav:
   - title: Feature
     children:
       - title: "• Web Standards"
-        url: "/specs-standards/"
+        url: "/web-standards/"
       - title: " - JSON-LD"
-        url: "/specs-standards/JSON-LD/"
+        url: "/web-standards/JSON-LD/"
       - title: "• GitHub Repositories"
         url: "/code/github/"
       - title: " - Identity Commons on Github"
@@ -156,9 +156,9 @@ sovnav:
       - title: " - RWoT - Papers Index"
         url: "/literature/rebooting-web-of-trust/"
       - title: " - Microledgers and Edgechains"
-        url: "/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
+        url: "/organizations/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
       - title: "• #indieweb-dev on IIW RWoT and DID's"
-        url: "/specs-standards/indieweb-dev-on-did/"
+        url: "/web-standards/indieweb-dev-on-did/"
   - title: Regulation
     children:
       - title: "• eIDAS"
@@ -191,25 +191,25 @@ sovnav:
   - title: Initiatives
     children:
       - title: "• Danube"
-        url: "/private-sector/danube-tech/" 
+        url: "/companies/danube-tech/" 
       - title: "• Blockchain"
         url: "/blockchain/"
       - title: "• Bitcoin"
         url: "/blockchain/bitcoin/" 
       - title: "• Blockcerts"
-        url: "/specs-standards/blockcerts/" 
+        url: "/web-standards/blockcerts/" 
       - title: "• Ethereum"
         url: "/blockchain/ethereum/" 
       - title: "• uPort"
         url: "/blockchain/ethereum/uPort/" 
       - title: "• Hyperledger Indy"
-        url: "/hyperledger/indy/"
+        url: "/organizations/hyperledger/indy/"
       - title: "• VON"
         url: "/government/canada/von/" 
       - title: "• IBM"
-        url: "/private-sector/ibm/"
+        url: "/companies/ibm/"
       - title: "• Microsoft"
-        url: "/private-sector/microsoft/"
+        url: "/companies/microsoft/"
   - title: "⧉InfoMine⧉"
     url: "https://infominer.xyz/"
     children:

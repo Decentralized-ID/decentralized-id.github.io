@@ -7,13 +7,14 @@ excerpt: >
   
   VON's founders have delivered new Indy-based open source components which form VON's backbone. TheOrgBook is a publicly accessible repository of verifiable claims about organizations. VON-X enables services to verify and issue credentials.  
 image: "https://infominer.xyz/transcripts/assets/img/OrgBook-Hyperledger-Indy-Case-Study.png"
-canonical_url: 'https://sourcecrypto.pub/transcripts/VON-Presentation-Jordan-Curran-HGF/'
+canonical_url: 'https://decentralized-id.com/organizations/hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF/'
 redirect_from: 
-  - /hgf-2018/VerifiableOrganizationsNetwork-HGF
-  - /hgf-2018/VerifiableOrganizationsNetwork-HGF/
-permalink: /hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF/
+  - hgf-2018/VerifiableOrganizationsNetwork-HGF
+  - hgf-2018/VerifiableOrganizationsNetwork-HGF/
+  - hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF/
+permalink: organizations/hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF/
 toc_sticky: false
-categories: ["Sovrin Foundation","Hyperledger Foundation", "Presentations","Literature"]
+categories: ["Sovrin Foundation","Hyperledger Foundation","Presentations","Literature"]
 tags: ["Indy","VON","Transcripts","Hyperledger Global Forum"]
 last_modified_at: 2019-07-11
 ---

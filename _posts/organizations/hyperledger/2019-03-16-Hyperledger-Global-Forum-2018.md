@@ -6,9 +6,10 @@ excerpt: >
 layout: single
 classes: wide
 toc: false
-permalink: /hyperledger/hgf-2018/
-canonical_url: 'https://decentralized-id.com/hyperledger/hgf-2018/'
+permalink: organizations/hyperledger/hgf-2018/
+canonical_url: 'https://decentralized-id.com/organizations/hyperledger/hgf-2018/'
 redirect_from: 
+  - hyperledger/hgf-2018/
   - hgf-2018
   - hgf-2018/
 categories: ["Hyperledger Foundation","Presentations"]

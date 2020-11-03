@@ -14,7 +14,7 @@ redirect_from:
   - id-initiatives/indy-ecosystem/literature.html
   - indy-ecosystem/literature
   - indy-ecosystem/literature/
-permalink: /organizations/sovrin/literature/
+permalink: organizations/sovrin/literature/
 categories: ["Literature", "Sovrin Foundation"]
 tags: ["Indy","Evernym","GDPR"]
 last_modified_at: 2019-07-13
