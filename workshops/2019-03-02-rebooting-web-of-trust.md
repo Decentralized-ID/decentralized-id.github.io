@@ -7,13 +7,13 @@ excerpt: >
   The Web of Trust. It’s the buzzword for a new model of decentralized identity. However, it’s also a phrase that dates back almost twenty-five years and has been heavily overloaded with meaning during that time. The classic definition of Web of Trust derives from PGP, but the top Google results refer to a website reputation rating system created by a Finnish internet company. Meanwhile, some use it as a big tent that includes identity authentication & verification, certificate validation, and reputation assessment, while the vibrant blockchain community is also drawing new attention to the classic concept.
 header: 
   image: "/images/rebooting-web-of-trust.png"
-permalink: /literature/rebooting-web-of-trust/
-canonical_url: 'https://decentralized-id.com/literature/rebooting-web-of-trust/'
+permalink: workshops/rebooting-web-of-trust/
+canonical_url: 'https://decentralized-id.com/workshops/rebooting-web-of-trust/'
 redirect_from:
-  - "Rebooting-Web-of-Trust.html"
-  - workshops/rebooting-web-of-trust/
+  - 'Rebooting-Web-of-Trust.html'
+  - literature/rebooting-web-of-trust/
   - rebooting-web-of-trust
-  - /rebooting-web-of-trust/
+  - rebooting-web-of-trust/
 toc_sticky: false
 categories: ["Literature","Workshops"]
 tags: ["Rebooting WoT","Bitcoin","Ethereum","Blockcerts","DID","DPKI","Verifiable Credentials","Blockstack", "JSON-LD", "Hubs","Self Sovereign Identity","eIDAS","Blockcerts","GDPR","PGP","Veres One"]
