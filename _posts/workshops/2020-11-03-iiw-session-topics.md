@@ -12,9 +12,9 @@ header:
   image: /images/Internet-Identity-Workshop.png
 ---
 
-## IIW 31
+<!--## IIW 31
 
-![](/images/IIW-XXXI.png)
+![](/images/IIW-XXXI.png)-->
 
 
 
