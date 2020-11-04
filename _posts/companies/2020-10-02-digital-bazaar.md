@@ -10,9 +10,11 @@ permalink: companies/digital-bazaar/
 canonical_url: 'https://decentralized-id.com/companies/digital-bazaar/'
 published: false
 categories: ["Companies","Blockchain"]
-tags: ["Digital Bazaar","DHS","Veres One"]
+tags: ["Digital Bazaar","DHS","Veres One","JSON-LD"]
 
 ---
+
+![](https://i.imgur.com/v2ZuWeL.jpg)
 
 * [Digital Bazaar](https://digitalbazaar.com/) [[twitter](https://twitter.com/digitalbazaar)] [[github](https://github.com/digitalbazaar)]
   > We have over a decade of extensive experience with web standards at the World Wide Web Consortium (W3C) and the Internet Engineering Task Force including leadership roles in the Web Payments Interest Group as well the Verifiable Claims Task Force and the Credentials Community Group at the W3C.
@@ -53,3 +55,10 @@ Digital Bazaar founder, Manu Sporney, proposed the [W3C Credentials Community Gr
   > Under the SBIR Phase II contract, the Blacksburg, Virginia-based technology company will develop a flexible software ecosystem that combines fit-for-purpose distributed ledger technology, digital credentials and digital wallets to address a wide variety of identity management and online access use cases for the Homeland Security Enterprise (HSE). 
 * [DHS Awards $199K for Blockchain Credential Lifecycle Management](https://www.dhs.gov/science-and-technology/news/2019/11/14/news-release-dhs-awards-199k-blockchain-tech) November 14, 2019
   > Digital Bazaar Phase 1 award project “Interoperable Enterprise Identity and Credential Life-cycle Management” will enhance their existing product offering that supports emerging global World Wide Web Consortium (W3C) security, privacy and interoperability standards such as Decentralized Identifiers and Verifiable Credentials with enterprise workforce and credential lifecycle management features. Digital Bazaar proposes to build out its digital credentialing and blockchain application solution to build a viable credentialing product for large organizations with the long-term goal to bring its customized solution to market.
+
+## SecureKey Partnership
+
+* [Digital Bazaar and SecureKey Join Forces to Develop Global Standards for Organizational Identity](https://security.world/digital-bazaar-and-securekey-join-forces-to-develop-global-standards-for-organizational-identity/)
+  > Digital Bazaar and SecureKey Technologies recently announced a strategic collaboration to leverage new digital identity standards intended to enhance existing paper-based identity verification processes.
+  > 
+  > Both companies join a growing web of technology providers —including GS1 US and TradeLens— that are working together to improve data sharing and collaboration through blockchain-based approaches and innovative authorization technologies.

@@ -11,7 +11,7 @@ redirect_from:
   - id-initiatives/microsoft/
   - id-initiatives/microsoft
 categories: ["Companies"]
-tags: ["Microsoft","DID","ION"]
+tags: ["Microsoft","DID","ION","DIF"]
 last_modified_at: 2019-07-11
 ---
 

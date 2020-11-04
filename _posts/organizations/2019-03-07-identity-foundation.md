@@ -10,8 +10,8 @@ redirect_from:
   - organizations/identity-foundation
   - identity-foundation.html
 categories: ["Organizations"]
-tags: 
-  - "DIF"
+tags: ["DIF","IBM","Microsoft","Jolocom","Evernym","GS1","Danube Tech","Sovrin","uPort","Mecco"]
+
 last_modified_at: 2020-01-15
 ---
 
@@ -31,7 +31,7 @@ last_modified_at: 2020-01-15
 * [Decentralized Identity Foundation](https://golden.com/wiki/Decentralized_Identity_Foundation) - golden.com
 
 DIF members, who share the goal of “building an open source decentralized identity ecosystem for people, organizations, apps, and devices” include: 
-  * [1kosmos](https://onekosmos.com/product-details/) 
+• [1kosmos](https://onekosmos.com/product-details/) 
 • [Accenture](https://www.accenture.com/us-en/insight-blockchain-id2020) 
 • [aetna](https://www.aetna.com/) 
 • [Authenteq](https://venturebeat.com/2018/08/30/authenteq-launches-blockchain-identity-verification-to-stop-online-trolls/) 
@@ -93,7 +93,6 @@ DIF members, who share the goal of “building an open source decentralized iden
 • [Validatedid](https://www.validatedid.com/vidchain-the-future-of-digital-identity/) 
 • [Veridium](https://www.veridiumid.com/) 
 • [zinc](https://tykn.tech/project-zinc/) 
-
 
 ## Recent News
 
