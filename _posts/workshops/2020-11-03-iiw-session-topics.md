@@ -1426,7 +1426,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 #### Session 5
 - [Consent Receipts in UMA](https://iiw.idcommons.net/Consent_Receipts_in_UMA)
 - [SCIM Interop Discussion](https://iiw.idcommons.net/SCIM_Interop_Discussion)
-- [XDI Registry Working Group – a rootless, decentralized, lookup service empowering the personal data ecosystem - based on the bitcoin blockchain](https://iiw.idcommons.net/index.php?title=XDI_Registry_Working_Group_%E2%80%93_a_rootless,_decentralized,_lookup_service_empowering_the_personal_data_ecosystem_-_based_on_the_bitcoin_blockchain&action=edit&redlink=1)
+- XDI Registry Working Group – a rootless, decentralized, lookup service empowering the personal data ecosystem - based on the bitcoin blockchain
 - [Potential Roles for BLOCKCHAIN in Identity](https://iiw.idcommons.net/Potential_Roles_for_BLOCKCHAIN_in_Identity)
 - [Personal Learning Environments (Domain of One’s Own, LMS, etc…)](https://iiw.idcommons.net/Personal_Learning_Environments_(Domain_of_One%E2%80%99s_Own,_LMS,_etc%E2%80%A6))
 - [AAD in Windows 10 (Part 2) Now that I’m Joined…](https://iiw.idcommons.net/AAD_in_Windows_10_(Part_2)_Now_that_I%E2%80%99m_Joined%E2%80%A6)
@@ -1876,7 +1876,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 #### Session 1
 - In 5min or less – Tell me a Happy Future Story About “IDENITY”
-- <a href="https://iiw.idcommons.net/index.php?title=Let%E2%80%99s_create_some_-Partinent_Art_%E2%80%93_that_speaks_to_our_condition_and_Brainstorming_ides_about_topics_for_books_for_children_and_management&action=edit&redlink=1">Let’s create some -Partinent Art – that speaks to our condition and Brainstorming ides about topics for books for children and management</a> – like SCADA and ME
+- Let’s create some -Partinent Art – that speaks to our condition and Brainstorming ides about topics for books for children and management – like SCADA and ME
 - [Reputation](https://iiw.idcommons.net/Reputation)
 - [DNSSEC 101 – intro how it works/my war stories](https://iiw.idcommons.net/DNSSEC_101_%E2%80%93_intro_how_it_works/my_war_stories)
 
