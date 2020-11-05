@@ -27,9 +27,9 @@ last_modified_at: 2020-11-04
   > Veres is a credentialing platform that uses Verifiable Claims technology to digitize any credential that can be stored in a physical wallet. Veres enables more secure and efficient exchange of customer and employee credentials (ID cards, digital offers, receipts, tickets) across a wide variety of industries (government, education, healthcare, financial services). Other benefits include reduced risk and easier regulatory compliance.
 
 * [NAFTA/CAFTA Proof of Concept Overview & Results](https://www.cbp.gov/sites/default/files/assets/documents/2019-Oct/Final-NAFTA-CAFTA-Report.pdf)
-   >  A joint effort was spearheaded by Customs and Border Protection (CBP), Department of Homeland Security (DHS) and private sector organizations. The POC specifically tested the feasibility of the technology for receiving certificate of origin (CO) data and conducting free trade agreement (FTA) origin verifications. 
-   > [...]
-   > **Appendix C – Digital Bazaar: NAFTA/CAFTA POC Findings**
+   >  A joint effort was spearheaded by Customs and Border Protection (CBP), Department of Homeland Security (DHS) and private sector organizations. The POC specifically tested the feasibility of the technology for receiving certificate of origin (CO) data and conducting free trade agreement (FTA) origin verifications.\
+   > [...]\
+   > **Appendix C – Digital Bazaar: NAFTA/CAFTA POC Findings**\
    > The goal of the NAFTA/CAFTA POC was to evaluate the application of Blockchain technology to the Entry Summary submission process with a specific focus on submitting the Certificate of Origin and enabling content integrity verification before it is requested by a CBP Import Specialist.
 
 ## Projects
@@ -46,14 +46,14 @@ Digital Bazaar founder, Manu Sporney, proposed the [W3C Credentials Community Gr
 ## DHS Funding
 
 * [DHS S&T Awards $1.3 Million to Small Businesses for Cyber Security Research and Development](https://www.dhs.gov/science-and-technology/news/2016/08/12/news-release-dhs-st-awards-13-million-small-businesses-cyber) - August 12, 2016
-  > WASHINGTON —The Department of Homeland Security (DHS) Science and Technology Directorate (S&T) has awarded $1.3 million to 13 small businesses for the development of new cyber security technology.  
-  > [...]
+  > WASHINGTON —The Department of Homeland Security (DHS) Science and Technology Directorate (S&T) has awarded $1.3 million to 13 small businesses for the development of new cyber security technology.\
+  > [...]\
   > 1. Applicability of Blockchain Technology to Identity Management and Privacy Protection: The goal of this topic is to use blockchain technology, which centralizes and validates new entries added into an existing data field to support identity verification. Awardees are:
   > 
   > Digital Bazaar, Inc., Blacksburg, Virginia, is developing a Linked Data ledger format and architecture to demonstrate how to publish identity credentials.
 * [DHS S&T awards $9.7M for 13 Phase II Small Business Innovation Research Projects](https://www.dhs.gov/science-and-technology/news/2017/05/02/press-release-dhs-st-awards-97m-13-phase-ii-sbir-projects) - May 2, 2017
-  > Each Phase II award contract received approximately $750,000 to develop a prototype based on the feasibility of the technologies demonstrated in the Phase I effort, which were completed in November 2016.
-  > [...]
+  > Each Phase II award contract received approximately $750,000 to develop a prototype based on the feasibility of the technologies demonstrated in the Phase I effort, which were completed in November 2016.\
+  > [...]\
   > • Digital Bazaar (Blacksburg, VA), Verifiable Claims and Fit-for-Purpose Decentralized Ledgers
 * [DHS S&T Awards $750K to Virginia Tech Company for Blockchain Identity Management Research and Development](https://www.dhs.gov/science-and-technology/news/2017/09/25/news-release-dhs-st-awards-750k-virginia-tech-company) - September 25, 2017
   > WASHINGTON— The Department of Homeland Security (DHS) Science and Technology Directorate (S&T) has awarded a $749,241 Small Business Innovation Program (SBIR) contract to Digital Bazaar, Inc. to develop fit-for-purpose blockchains for identity and access management.

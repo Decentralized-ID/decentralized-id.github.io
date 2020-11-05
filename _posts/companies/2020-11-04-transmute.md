@@ -25,8 +25,8 @@ toc: 'FALSE'
   > Closing our seed round coincides with another exciting announcement: our recent launch of Phase II work with the U.S. [Department of Homeland Security, Science & Technology’s Silicon Valley Innovation Program (SVIP)](https://www.dhs.gov/science-and-technology/news/2019/11/08/news-release-dhs-awards-198k-raw-material-import-tracking) to enhance “transparency, automation and security in processing the importation of raw materials” like steel.
 
 - [Transmute Releases Technical Workbenches](https://medium.com/transmute-techtalk/transmute-releases-technical-workbenches-892f8140ac6e)
-  > Transmute is proud to announce the release of several new technical workbenches as a part of our continued commitment to open-standards development, interoperability, and product transparency.
-  > [...]
+  > Transmute is proud to announce the release of several new technical workbenches as a part of our continued commitment to open-standards development, interoperability, and product transparency.\
+  > [...]\
   > - [Element Ropsten Workbench](http://staging.element.transmute.industries/)
   > - [Encrypted Data Vault Workbench](https://staging.data-vault.transmute.industries/)
   > - [DID Key Workbench](http://did.key.transmute.industries/)
