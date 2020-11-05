@@ -28,6 +28,8 @@ I've begun exploring and becoming more familiar with the decentralized nature of
 
 ## High Level Overview
 
+* [*Overview of Decentralized Identity Standards*](https://medium.com/decentralized-identity/overview-of-decentralized-identity-standards-f82efd9ab6c7), Nader Helmy
+  > A standard, open protocol for establishing unique, private and secure connections between multiple parties without requiring the assistance of an intermediary “connection broker,” like Google, WhatsApp, an email provider, or a phone carrier. Secure connections are created by two or more peers creating and exchanging decentralized identifiers or “DIDs.” 
 
 * [**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) NIST CYBERSECURITY WHITE PAPER (DRAFT) BLOCKCHAIN IDENTITY MANAGEMENT APPROACHES
 JULY 9, 2019
@@ -44,11 +46,6 @@ JULY 9, 2019
 ## Standards Bodies 
 **_and other orgs worth keeping an eye on_**
 
-I will begin with a listing of standards bodies, organizations and open processes, to which I'm paying attention (in addition to those previously gathered). From there, integrate and expand, as able. 
-
-* [*Overview of Decentralized Identity Standards*](https://medium.com/decentralized-identity/overview-of-decentralized-identity-standards-f82efd9ab6c7), Nader Helmy
-  > A standard, open protocol for establishing unique, private and secure connections between multiple parties without requiring the assistance of an intermediary “connection broker,” like Google, WhatsApp, an email provider, or a phone carrier. Secure connections are created by two or more peers creating and exchanging decentralized identifiers or “DIDs.” 
-
 * [ISSA (Information Systems Security Association)](https://www.issa.org/)
 * [ISAO Standards](https://www.isao.org/)
 * [IETF](https://datatracker.ietf.org/wg/)
@@ -56,7 +53,6 @@ I will begin with a listing of standards bodies, organizations and open processe
 * [ISO](https://www.iso.org/committee/6266604/x/catalogue/p/0/u/1/w/0/d/0)
 * [IEEE](https://standards.ieee.org/)
 * [DIF](https://identity.foundation/working-groups/) - [GitHub](https://github.com/decentralized-identity/)
-  * [Self Sovereign Identity Stack](https://medium.com/decentralized-identity/the-self-sovereign-identity-stack-8a2cc95f2d45)
 * [Fido Alliance](https://fidoalliance.org/)
 * [Hyperledger](https://www.hyperledger.org/join-a-group) - [Wiki](https://wiki.hyperledger.org/display/HYP/Working+Groups)
 * [Kantara](https://kantarainitiative.org/groups/)	
@@ -67,6 +63,10 @@ I will begin with a listing of standards bodies, organizations and open processe
 
 {% include figure image_path="/images/1280px-Who-Runs-the-Internet-graphic.png" alt="https://es.wikipedia.org/wiki/Archivo:Who-Runs-the-Internet-graphic.png" caption="[*Internet Governance*](https://en.wikipedia.org/wiki/Internet_governance)" %}
 
+## NIST
+
+- [FIPS PUB 201-3 (DRAFT) Federal Information Processing Standards Publication](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-3-draft.pdf) (Supersedes FIPS 201-2) 
+  > Personal Identity Verification (PIV) of Federal Employees and Contractors
 
 ## W3C
 

@@ -22,9 +22,10 @@ Not all verifiable credentials are created the same. This post examines the cate
 * [Verifiable Credential Exchange](https://www.windley.com/archives/2018/12/verifiable_credential_exchange.shtml)
   > Multi-source identity (MSI) depends on issuing, exchanging, and verifying digital credentials. The specification for verifiable credentials is being formulated by the World Wide Web Consortium’s Verifiable Credentials Working Group. Verifiable credentials provide a standard way to express credentials in a way that is cryptographically secure, privacy respecting, and automatically verifiable.
 * [Verifiable Claims Task Force Use Cases](https://opencreds.org/specs/source/use-cases/)
-* [2018 Texas Bitcoin Conference in Austin, Texas.](https://www.youtube.com/watch?v=uDqLYv379gI)
-  > 13:14 what if I was would like to prove that I had a certain diploma man if the university would basically state that I have a certain diploma because I asked them to and if they put the proof basically the fingerprint of that claim onto the blockchain then I can prove I am I have that certain diploma but why would I trust that because if I would say I have the diploma but you still have the same problem as we had using a scan the reason why you can trust it is because it was actually the university signing off on the fact that I have a certain diploma and how does that work in the end you will need those decentralized identifiers I talked about earlier to make sure that every piece of information on the blockchain is you are able to validate those and you are able to retrieve if you'd like the underlying data off chain
-* [Intro to Verifiable Cliams by W3C VCWG Members -iiw.idcommons.net](http://web.archive.org/web/20171228060921/http://iiw.idcommons.net/2J/_Intro_to_Verifiable_Cliams_by_W3C_VCWG_Members)
+* [Verifiable Credentials 101 for SSI - Tyler Ruff - Webinar 11](http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
+  > Tyler Ruff, product manager at Evernym, will be our next guest to walk us through Verifiable Credentials in the context of Self-Sovereign Identity. He will cover how they are created, issued and shared, as well as cover some common technical questions.
+
+![](https://i.imgur.com/hpXr1Af.png)
 
 
 ## Application
@@ -74,7 +75,7 @@ Not all verifiable credentials are created the same. This post examines the cate
 * [bcgov/TheOrgBook](https://github.com/bcgov/TheOrgBook)
   > A public repository of verifiable claims about organizations. A key component of the Verifiable Organization Network.
 
-## CCG
+### CCG
 
 * [Credentials Community Group](https://www.w3.org/community/credentials/) - [Website](https://w3c-ccg.github.io/) - [Mail archive](http://lists.w3.org/Archives/Public/public-credentials/)
   > The mission of the Credentials Community Group is to explore the creation, storage, presentation, verification, and user control of credentials. We focus on a verifiable credential (a set of claims) created by an issuer about a subject—a person, group, or thing—and seek solutions inclusive of approaches such as: self-sovereign identity; presentation of proofs by the bearer; data minimization; and centralized, federated, and decentralized registry and identity systems. Our tasks include drafting and incubating Internet specifications for further standardization and prototyping and testing reference implementations.
@@ -85,7 +86,7 @@ WORK ITEM: Drafts and Ideas of Educational and Occupational Verifiable Credentia
 * [w3c-ccg/vc-examples](https://github.com/w3c-ccg/vc-examples)
 WORK ITEM: Verifiable Credentials Examples. 
 
-## VC-WG
+### VC-WG
 
 * [W3C Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) - [Mail Archives](https://lists.w3.org/Archives/Public/public-vc-wg/) - Technical discussion and public announcements for the Verifiable Claims Working Group
   > The mission of the Verifiable Claims Working Group (VCWG) is to make expressing and exchanging credentials that have been verified by a third party easier and more secure on the Web.
@@ -103,12 +104,4 @@ Verifiable Claims WG Test Suite.
 * [w3c/vctf](https://github.com/w3c/vctf) **Archived**
   > The Web Payments Interest Group's Verifiable Claims Task Force
 
-## Sovrin
 
-![](https://i.imgur.com/hpXr1Af.png)
-
-* [https://drive.google.com/drive/u/0/folders/1UxLLugRQKuV8Mdvv_X9Y6ty4szSi5ZNU?ogsrc=32](https://drive.google.com/drive/u/0/folders/1UxLLugRQKuV8Mdvv_X9Y6ty4szSi5ZNU?ogsrc=32)
-
-* [Verifiable Credentials 101 for SSI - Tyler Ruff - Webinar 11](http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
-
-Tyler Ruff, product manager at Evernym, will be our next guest to walk us through Verifiable Credentials in the context of Self-Sovereign Identity. He will cover how they are created, issued and shared, as well as cover some common technical questions.
