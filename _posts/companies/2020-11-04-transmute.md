@@ -3,20 +3,19 @@ date: 2020-11-04
 title: Transmute
 description: Transmute’s technology connects enterprise infrastructure with emergent identity, credential, and data storage solutions.
 excerpt: >
-    Transmute secures critical supplier, product, and shipment data to give customers a competitive edge in the increasingly dynamic global marketplace.
+    Transmute digitizes trade documentation in a way that is cryptographically verifiable and traceable across an entire logistics ecosystem. The company’s approach combines decentralized identifier (DID), verifiable credential (VC), and blockchain technology with existing cloud-based systems to eliminate the paper hassle of trade docs and provide unprecedented visibility into customers’ supplier networks by effectively memorializing trade data at every step in a products’ journey from point of origin to point of import and beyond.
 layout: single
 permalink: companies/transmute/
 canonical_url: 'https://decentralized-id.com/companies/transmute/'
 categories: ["Companies","Blockchain"]
-tags: ["DIF","Transmute","Ethereum", "Microsoft"]
+tags: ["DIF","Transmute","Ethereum", "Microsoft","Consensys"]
 header:
   image: /images/transmute.png
 last_modified_at: 2020-11-05
 toc: 'FALSE'
 ---
 
-
-- [Transmute Industries](https://www.transmute.industries/)
+[Transmute Industries](https://www.transmute.industries/) - [Blog](https://medium.com/@Transmute) - [Tech Talk](https://medium.com/transmute-techtalk/) - [github](https://github.com/transmute-industries) - [twitter](https://twitter.com/transmutenews) - [linkedin](https://www.linkedin.com/company/transmute-industries/)									
 
 - [did:(customer)](https://medium.com/transmute-techtalk/did-customer-4ca8b7957112)
   > Transmute builds solutions that solve real business problems. For this reason, we support a number of different decentralized identifier (DID) methods. While we are committed to providing optionality to our customers, it’s equally important to communicate the selection criteria behind these options so that customers can consider the tradeoffs of underlying DID-methods alongside the problem set they’re solving for. Essentially, we help them pick the right tool for the job.
