@@ -10,7 +10,7 @@ redirect_from:
   - organizations/identity-foundation
   - identity-foundation.html
 categories: ["Organizations"]
-tags: ["DIF","IBM","Microsoft","Jolocom","Evernym","GS1","Danube Tech","Sovrin","uPort","Mecco"]
+tags: ["DIF","IBM","Microsoft","Jolocom","Evernym","GS1","Danube Tech","Sovrin","uPort","Mecco","Transmute"]
 
 last_modified_at: 2020-01-15
 ---
@@ -88,6 +88,7 @@ DIF members, who share the goal of “building an open source decentralized iden
 • [suru](https://surugroup.com/philosophy/suru-identity/) 
 • [Taqanu](https://www.taqanu.com/) 
 • [Tierion](https://medium.com/tierion/tierion-network-update-january-19-2018-fa88c6bee69f) 
+• [Transmute](https://www.transmute.industries/)
 • [Trusted key](https://www.trustedkey.com/) 
 • [uPort](https://github.com/uport-project/ethr-did/blob/develop/docs/index.md) 
 • [Validatedid](https://www.validatedid.com/vidchain-the-future-of-digital-identity/) 
