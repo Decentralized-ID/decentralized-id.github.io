@@ -8,7 +8,7 @@ layout: single
 permalink: companies/transmute/
 canonical_url: 'https://decentralized-id.com/companies/transmute/'
 categories: ["Companies","Blockchain"]
-tags: ["DIF","Transmute","Ethereum"]
+tags: ["DIF","Transmute","Ethereum", "Microsoft"]
 header:
   image: /images/transmute.png
 last_modified_at: 2020-11-05
@@ -23,7 +23,6 @@ toc: 'FALSE'
 
 - [Transmute Closes $2M Seed Round](https://medium.com/transmute-techtalk/transmute-closes-2m-seed-round-a0a2e6c90467)
   > Closing our seed round coincides with another exciting announcement: our recent launch of Phase II work with the U.S. [Department of Homeland Security, Science & Technology’s Silicon Valley Innovation Program (SVIP)](https://www.dhs.gov/science-and-technology/news/2019/11/08/news-release-dhs-awards-198k-raw-material-import-tracking) to enhance “transparency, automation and security in processing the importation of raw materials” like steel.
-
 
 - [Transmute Releases Technical Workbenches](https://medium.com/transmute-techtalk/transmute-releases-technical-workbenches-892f8140ac6e)
   > Transmute is proud to announce the release of several new technical workbenches as a part of our continued commitment to open-standards development, interoperability, and product transparency.
@@ -52,8 +51,17 @@ toc: 'FALSE'
   > 
   > Our first implementation of Element enabled users to anchor their DID directly via a MetaMask-powered DApp thanks to Infura, and also use our “Full Node” to submit operations. Supporting both modes introduced a lot of complexity, and highlighted some scalability issues which we’ve recently fixed.
 
+
 - [Introducing: Element](https://medium.com/transmute-techtalk/introducing-element-328b4260e757) - The Sidetree Protocol Implemented on Ethereum
   > the scalability that Sidetree brings to DIDs is unprecedented. Our product, Transmute ID — enterprise-grade decentralized identity — must support scale that we could not achieve otherwise, so we are proud to offer Element as an alternative DID method for Transmute ID customer deployments.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2ct2imQLUnzp1j" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SSIMeetup/the-element-did-method-sidetree-ethereum-ipfs-orie-steele" title="The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele" target="_blank">The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele</a> </strong> from <strong><a href="https://www.slideshare.net/SSIMeetup" target="_blank">SSIMeetup</a></strong> </div>
+
+[on SSIMeetup](https://ssimeetup.org/element-did-method-sidetree-ethereum-ipfs-orie-steele-webinar-31/)
+
+* [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+  > Sidetree.js is an implementation of v0.1.0 of the sidetree specification
+
 
 * [News Release: DHS Awards $198K for Raw Material Import Tracking Using Blockchain](https://www.dhs.gov/science-and-technology/news/2019/11/08/news-release-dhs-awards-198k-raw-material-import-tracking)
   > Its Phase 1 award project “Verifiable Provenance, Traceability, and Regulatory Compliance for Raw Material Imports” will adapt Transmute ID, its core technology product that leverages centralized and decentralized identity infrastructures to secure individual agency identities and verifiable credentials to ensure that CBP has visibility into the provenance, traceability and regulatory compliance of raw material imports.
