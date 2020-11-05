@@ -10,7 +10,7 @@ redirect_from:
   - organizations/identity-foundation
   - identity-foundation.html
 categories: ["Organizations"]
-tags: ["DIF","IBM","Microsoft","Jolocom","Evernym","GS1","Danube Tech","Sovrin","uPort","Mecco","Transmute"]
+tags: ["DIF","IBM","Microsoft","Jolocom","Evernym","GS1","Danube Tech","Sovrin","uPort","Meeco","Transmute"]
 
 last_modified_at: 2020-01-15
 ---
@@ -44,6 +44,7 @@ DIF members, who share the goal of “building an open source decentralized iden
 • [botlabs](https://botlabs.org/) 
 • [Civic](https://www.civic.com/solutions/kyc-services/) 
 • [Consent](https://sovrin.org/steward/global-consent/) 
+• [Consensys](https://consensys.net/)
 • [Danube](https://github.com/projectdanube/xdi2) 
 • [datum](https://datum.org/) 
 • [Distributed ID](https://www.diid.io/) 
