@@ -26,6 +26,12 @@ last_modified_at: 2020-11-04
 * [Veres.io](https://veres.io/)
   > Veres is a credentialing platform that uses Verifiable Claims technology to digitize any credential that can be stored in a physical wallet. Veres enables more secure and efficient exchange of customer and employee credentials (ID cards, digital offers, receipts, tickets) across a wide variety of industries (government, education, healthcare, financial services). Other benefits include reduced risk and easier regulatory compliance.
 
+* [NAFTA/CAFTA Proof of Concept Overview & Results](https://www.cbp.gov/sites/default/files/assets/documents/2019-Oct/Final-NAFTA-CAFTA-Report.pdf)
+   >  A joint effort was spearheaded by Customs and Border Protection (CBP), Department of Homeland Security (DHS) and private sector organizations. The POC specifically tested the feasibility of the technology for receiving certificate of origin (CO) data and conducting free trade agreement (FTA) origin verifications. 
+   > [...]
+   > **Appendix C – Digital Bazaar: NAFTA/CAFTA POC Findings**
+   > The goal of the NAFTA/CAFTA POC was to evaluate the application of Blockchain technology to the Entry Summary submission process with a specific focus on submitting the Certificate of Origin and enabling content integrity verification before it is requested by a CBP Import Specialist.
+
 ## Projects
 
 Digital Bazaar founder, Manu Sporney, proposed the [W3C Credentials Community Group](http://web.archive.org/web/20181206060143/https://www.w3.org/community/credentials/charter-20140808/) in 2014.
