@@ -26,7 +26,7 @@ toc: false
 
 - [Transmute Releases Technical Workbenches](https://medium.com/transmute-techtalk/transmute-releases-technical-workbenches-892f8140ac6e)
   > Transmute is proud to announce the release of several new technical workbenches as a part of our continued commitment to open-standards development, interoperability, and product transparency.\
-  > [...]\
+  > [...]
   > - [Element Ropsten Workbench](http://staging.element.transmute.industries/)
   > - [Encrypted Data Vault Workbench](https://staging.data-vault.transmute.industries/)
   > - [DID Key Workbench](http://did.key.transmute.industries/)
