@@ -12,10 +12,10 @@ tags: ["DIF","Transmute","Ethereum", "Microsoft","Consensys"]
 header:
   image: /images/transmute.png
 last_modified_at: 2020-11-05
-toc: 'FALSE'
+toc: false
 ---
 
-[Transmute Industries](https://www.transmute.industries/) - [Blog](https://medium.com/@Transmute) - [Tech Talk](https://medium.com/transmute-techtalk/) - [github](https://github.com/transmute-industries) - [twitter](https://twitter.com/transmutenews) - [linkedin](https://www.linkedin.com/company/transmute-industries/)									
+[Transmute Industries](https://www.transmute.industries/) - [Blog](https://medium.com/@Transmute) - [Tech Talk](https://medium.com/transmute-techtalk/) - [Github](https://github.com/transmute-industries) - [Twitter](https://twitter.com/transmutenews) - [Linkedin](https://www.linkedin.com/company/transmute-industries/)									
 
 - [did:(customer)](https://medium.com/transmute-techtalk/did-customer-4ca8b7957112)
   > Transmute builds solutions that solve real business problems. For this reason, we support a number of different decentralized identifier (DID) methods. While we are committed to providing optionality to our customers, it’s equally important to communicate the selection criteria behind these options so that customers can consider the tradeoffs of underlying DID-methods alongside the problem set they’re solving for. Essentially, we help them pick the right tool for the job.
@@ -54,13 +54,19 @@ toc: 'FALSE'
 - [Introducing: Element](https://medium.com/transmute-techtalk/introducing-element-328b4260e757) - The Sidetree Protocol Implemented on Ethereum
   > the scalability that Sidetree brings to DIDs is unprecedented. Our product, Transmute ID — enterprise-grade decentralized identity — must support scale that we could not achieve otherwise, so we are proud to offer Element as an alternative DID method for Transmute ID customer deployments.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2ct2imQLUnzp1j" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SSIMeetup/the-element-did-method-sidetree-ethereum-ipfs-orie-steele" title="The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele" target="_blank">The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele</a> </strong> from <strong><a href="https://www.slideshare.net/SSIMeetup" target="_blank">SSIMeetup</a></strong> </div>
-
-[on SSIMeetup](https://ssimeetup.org/element-did-method-sidetree-ethereum-ipfs-orie-steele-webinar-31/)
+<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/2ct2imQLUnzp1j" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SSIMeetup/the-element-did-method-sidetree-ethereum-ipfs-orie-steele" title="The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele" target="_blank">The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele</a> </strong> from <strong><a href="https://ssimeetup.org/element-did-method-sidetree-ethereum-ipfs-orie-steele-webinar-31/" target="_blank">SSIMeetup</a></strong> </div></center>
 
 * [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
   > Sidetree.js is an implementation of v0.1.0 of the sidetree specification
 
-
 * [News Release: DHS Awards $198K for Raw Material Import Tracking Using Blockchain](https://www.dhs.gov/science-and-technology/news/2019/11/08/news-release-dhs-awards-198k-raw-material-import-tracking)
   > Its Phase 1 award project “Verifiable Provenance, Traceability, and Regulatory Compliance for Raw Material Imports” will adapt Transmute ID, its core technology product that leverages centralized and decentralized identity infrastructures to secure individual agency identities and verifiable credentials to ensure that CBP has visibility into the provenance, traceability and regulatory compliance of raw material imports.
+
+## [Team](https://www.transmute.industries/team/)
+
+> Transmute is committed to accelerating the adoption of decentralized identifiers and verifiable credentials to enable secure, dynamic trade. We charge ourselves and the greater digital identity community to focus on building evolved solutions that challenge the status quo to find superior economic models and reliable data security practices, resulting in a better future for everyone.
+
+| **Karyl Fowler** (CEO) | **Orie Steele** (CTO) |
+| ---- | ---- |
+| ![](/images/KarylFowler_Transmute.jpg) | ![](/images/OrieSteele_Transmute.jpg) |
+| [@TheKarl](https://twitter.com/TheKaryl) – [linkedin](https://www.linkedin.com/in/karylfowler/) | [@or13b](https://twitter.com/or13b) – [linkedin](https://www.linkedin.com/in/or13b/) |
