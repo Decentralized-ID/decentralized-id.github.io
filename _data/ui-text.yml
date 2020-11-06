@@ -15,7 +15,7 @@ en: &DEFAULT_EN
   less_than                  : "less than"
   minute_read                : "minute read"
   share_on_label             : "Share on"
-  meta_label                 :
+  meta_label                 : "Metadata"
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
   date_label                 : "Updated:"

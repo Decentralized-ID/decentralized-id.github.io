@@ -1,32 +1,28 @@
-<section class="page__comments">
-  <h2>Comments by <a href="https://staticman.net/">Staticman</a> and <a href="https://identosphere.net">Identosphere</a></h2>
+<div class="page__comments">
+  <center><h2>Comments by <a href="https://staticman.net/">Staticman</a> and <a href="https://identosphere.net">Identosphere</a></h2></center>
   <center><a href="https://identosphere.net"><img src="/images/team-identosphere.png" alt="Team Identosphere" /></a></center>
-  <center><h3>Subscribe to our newsletter for weekly identity updates!!</h3></center>
+  <center><h3>Subscribe Free for Weekly Identity Updates!!</h3></center>
   
+  <center><p><u>Only Email Required</u>. Will not spam you, or share info with spammers!</p></center>
+
   <form class="identosphere" method="POST" action="https://identosphere.net/staticman/v2/entry/identosphere/identosphere-landing/master/subscribe">
     <input name="options[redirect]" type="hidden" value="https://identosphere.net">
     <input name="options[slug]" type="hidden" value="didecentral">
-    <input name="fields[name]" type="text" placeholder="Name">
+    <input name="fields[name]" type="text" placeholder="Name (optional)">
     <input name="fields[email]" type="email" placeholder="Email">
-    <input name="fields[message]" type="text" placeholder="Areas of Interest">
+    <input name="fields[message]" type="text" placeholder="Areas of Interest (optional)">
   
     <center><button type="submit">Subscribe</button></center>
   </form>
-</section>
-<div class="page__comments">
-  {% capture comments_label %}{{ site.data.ui-text[site.locale].comments_label | default: "Comments" }}{% endcapture %}
   {% case site.comments.provider %}
-    {% when "discourse" %}
-      <h4 class="page__comments-title">{{ comments_label }}</h4>
-      <section id="discourse-comments"></section>
     {% when "staticman_v2" %}
       <section id="static-comments">
         {% if site.repository and site.staticman.branch %}
           <!-- Start static comments -->
           <div class="js-comments">
             {% if site.data.comments[page.slug] %}
-              <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
-              {% assign comments = site.data.comments[page.slug] | sort %}
+              <h3>Leave a comment and\or info you think should be on this page</h3>
+            {% assign comments = site.data.comments[page.slug] | sort %}
 
               {% for comment in comments %}
                 {% assign email = comment[1].email %}

@@ -45,10 +45,10 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
-      {% if page.share %}{% include social-share.html %}{% endif %}
       <footer class="page__meta">
+        <hr/>
         {% if site.data.ui-text[site.locale].meta_label %}
-          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+          <h3>{{ site.data.ui-text[site.locale].meta_label }}</h3>
         {% endif %}
         {% include page__taxonomy.html %}
         {% if page.last_modified_at %}
@@ -56,13 +56,14 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
+        <h3><a href="https://github.com/Decentralized-ID/decentralized-id.github.io/blob/master/{{ page.path }}" class="edit">Edit this page <i class="fa fa-pencil"></i></a></h3>
+        {% if page.share %}{% include social-share.html %}{% endif %}
+        <hr/>        
       </footer>
-
     </div>
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
-    </section>
   </article>
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
