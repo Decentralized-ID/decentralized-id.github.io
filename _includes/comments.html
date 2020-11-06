@@ -21,7 +21,7 @@
           <!-- Start static comments -->
           <div class="js-comments">
             {% if site.data.comments[page.slug] %}
-              <h3>Leave a comment and\or info you think should be on this page</h3>
+            <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
             {% assign comments = site.data.comments[page.slug] | sort %}
 
               {% for comment in comments %}

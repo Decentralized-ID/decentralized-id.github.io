@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
   date_label                 : "Updated:"
-  comments_label             : "Leave a comment"
+  comments_label             : "Leave a Comment"
   comments_title             : "Comments"
   more_label                 : "Learn more"
   related_label              : "You may also enjoy"
