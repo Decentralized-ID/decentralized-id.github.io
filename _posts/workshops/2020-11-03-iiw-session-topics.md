@@ -13,6 +13,7 @@ toc_sticky: false
 header:
   image: /images/Internet-Identity-Workshop.png
   og_image: /images/InternetIdentityWorkshop.png
+  teaser: /images/Internet-Identity-Workshop_teaser.png
 ---
 
 > The Internet Identity Workshop has been finding, probing and solving identity issues twice every year since 2005. We meet in the Computer History Museum in Mountain View, CA. Every IIW moves topics, code and projects downfield. Name an identity topic and it’s likely that more substantial discussion and work has been done at IIW than any other conference! - [Internet Identity Workshop](https://internetidentityworkshop.com/)
