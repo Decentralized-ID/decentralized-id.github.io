@@ -4,11 +4,12 @@ description: "This framework is the next major step after the 2016 publication o
 excerpt: >
   "The Treasury Board Secretariat of Canada (TBS) and Shared Services Canada (SSC) are seeking a standardized method to issue and rapidly verify portable digital credentials across many different contexts, thereby reducing human judgement error, increasing efficiency and ensuring digital credential veracity using cryptography." 
 permalink: /public-sector/canada/
-tags: ["Pan Canadian Trust Framework","Canada"]
+tags: ["Trust Framework","Canada"]
 categories: ["Government"]
 header:
-  image: /images/pctf-header.jpeg
-  caption: "[Pan-Canadian Trust Framework - Tim Bouma](https://medium.com/@trbouma/pan-canadian-trust-framework-eb65eac6c683)"
+  image: /images/pan-canadian-trust-header.png
+  caption: "[PCTF Placemat](https://canada-ca.github.io/PCTF-CCP/docs/PCTF-Placemat.pdf)"
+  teaser: /images/pctf-teaser.png
 updated: 2020-01-11
 ---
 
@@ -39,6 +40,8 @@ updated: 2020-01-11
 * [IMSC Pan-Canadian Trust Framework](https://medium.com/@trbouma/imsc-pan-canadian-trust-framework-1f68134e338a) - A summary of the latest iterations before our final version to be delivered on March 31st, 2019. The near to final document is [here](https://drive.google.com/open?id=1P8kFJZfUV7PX25KEkZKk0XftrqqQp9FI)
 * [The Pan-Canadian Trust Framework Using Prolog](https://medium.com/@trbouma/the-pan-canadian-trust-framework-using-prolog-e62ffa911ff5)
   > A ‘declarative framework’ (such as [Prolog](https://www.geeksforgeeks.org/prolog-an-introduction/)) focuses on the ‘what’ needs to be done, satisfied, relied on (i.e., proven to be true) versus ‘how to do it.’ In our case, with the Pan-Canadian Trust Framework (PCTF), it’s the question of ‘Can we rely on or accept a digital identity originating from a province or territory?’
+* [Pan-Canadian Trust Framework - Tim Bouma](https://medium.com/@trbouma/pan-canadian-trust-framework-eb65eac6c683)
+  > The Pan-Canadian Trust Framework is how we will formalize the approval and acceptance of a “trusted digital identity.”
 
 
 ![](https://miro.medium.com/max/687/1*gWHaw0K1e_S4Ts4EIzEhoA.png)

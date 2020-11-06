@@ -7,6 +7,7 @@ layout: single
 header: 
   image: /images/ehtereum-github-header.png
   caption: "[EIP #1056 - Ethereum Lightweight Identity](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1056.md)"
+  teaser: /images/eth-git-thumb.png
 permalink: /blockchain/ethereum/repositories/
 redirect_from: /ethereum/id-github/
 canonical_url: 'https://decentralized-id.com/blockchain/ethereum/repositories/'

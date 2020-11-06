@@ -24,7 +24,7 @@ url                      : "https://decentralized-id.com"
 baseurl                  : ""
 repository               : "Decentralized-ID/decentralized-id.github.io"
 github                   : [metadata]
-teaser                   : /images/didecentral-tw.png
+teaser                   : /images/did-square.png
 logo                     : "https://decentralized-id.com/images/DID.png"
 masthead_title           : "Digital Identity Decentralized"
 # breadcrumbs            : false # true, false (default)

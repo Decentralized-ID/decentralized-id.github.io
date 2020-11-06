@@ -6,6 +6,7 @@ excerpt: "Traditional identity systems typically suffer from single points of fa
 header: 
   image: /images/blockchain-id-header.png
   caption: "[NIST Cybersecurity (DRAFT) Blockchain Identity Management Approaches](https://arxiv.org/pdf/1908.00929.pdf)" 
+  teaser: /images/blockchain-Tumisu_3019121.png
 layout: single
 classes: wide
 permalink: /blockchain/

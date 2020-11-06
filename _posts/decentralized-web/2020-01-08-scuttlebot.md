@@ -11,6 +11,7 @@ tags: ["Scuttlebot", "P2P"]
 header: 
   image: /images/scuttlebutt-header.png
   caption: "[In the Mesh: Scuttlebutt, A Decentralized Social Platform](https://www.inthemesh.com/archive/secure-scuttlebutt-facebook-alternative/)"
+  teaser: /images/scuttlebot.png
 last_modified_at: 2020-01-09
 ---
 

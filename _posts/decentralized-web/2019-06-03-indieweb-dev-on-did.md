@@ -8,9 +8,12 @@ excerpt: >
   While OAuth is a great framework for this, the way it has ended up being used is much more centralized and closed than prior efforts like OpenID 1. Every service that spins up an OAuth-enabled API ends up being its own isolated system. For example, if I want to build an app that can read someone's step count from FitBit, I have to first go register as a developer on FitBit's website in order to get API keys to use with their OAuth API
 date: "2019-06-03T11:22:33-23:00"
 categories: ["Web Standards","Decentralized Web"]
-tags: ["P2P", "IndieAuth","IndieWeb","Rebooting WoT", "IIW","DID"]
+tags: ["P2P", "IndieAuth", "IndieWeb","Rebooting WoT", "IIW", "DID"]
 permalink: /decentralized-web/indieweb-on-did/
 redirect_from: /specs-standards/indieweb-dev-on-did/
+header:
+  image: /images/indieweb-header.png
+  teaser: /images/indieweb-icon_31635_white.png
 last_modified_at: 2019-06-03
 ---
 

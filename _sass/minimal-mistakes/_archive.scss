@@ -216,16 +216,6 @@
       font-size: $type-size-6;
     }
   }
-
-  .archive__item-teaser {
-    @include breakpoint($small) {
-      max-height: 200px;
-    }
-
-    @include breakpoint($medium) {
-      max-height: 120px;
-    }
-  }
 }
 
 /*

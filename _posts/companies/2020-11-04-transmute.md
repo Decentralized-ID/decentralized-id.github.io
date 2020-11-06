@@ -11,6 +11,7 @@ categories: ["Companies","Blockchain"]
 tags: ["DIF","Transmute","Ethereum", "Microsoft","Consensys"]
 header:
   image: /images/transmute.png
+  teaser: /images/transmute_thumb.png
 last_modified_at: 2020-11-05
 toc: false
 ---
