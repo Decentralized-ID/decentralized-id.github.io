@@ -83,7 +83,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : https://decentralized-id.com/images/didecentral-tw.png
+og_image                 : https://decentralized-id.com/images/did-twitter.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -293,7 +293,7 @@ defaults:
         image: /images/digital_geralt-93001_thin.jpg
       sidebar:
         - title: "Identity Decentralized"
-          image: "/images/regulation_gdpr_data_protection_TheDigitalArtist.png"
+          image: "/images/DID_ban.png"
           image_alt: "regulation-gdpr-data-protection-3246979"
           nav: "didnav"
       layout: single
@@ -311,7 +311,7 @@ defaults:
     values:
       sidebar:
         - title: "Identity Decentralized"
-          image: "/images/regulation_gdpr_data_protection_TheDigitalArtist.png"
+          image: "/images/DID_ban.png"
           image_alt: "regulation-gdpr-data-protection-3246979"
           nav: "didnav"
       layout: single
@@ -327,18 +327,3 @@ defaults:
       toc_label   : "Contents"
       toc_icon    : "link"
       toc_sticky  : true
-  # _HowToContribute
-  - scope:
-      path: "_HowToContribute"
-      type: HowToContribute
-    values:
-      header:
-        image: /images/didecentral-tw.png
-      layout: single
-      share: true
-      related: true
-      sidebar:
-        - title: "Identity Decentralized"
-          image: "/images/regulation_gdpr_data_protection_TheDigitalArtist.png"
-          nav: "didnav"
-      classes: wide
