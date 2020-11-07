@@ -10,6 +10,7 @@ authors:
   - "<a href='https://infominer.id'>Infominer</a>"
   - "<a href='https://www.caballerojuan.com'>JuanSC</a>"
 published: true
+permalink : how-to-contribute/website-config-minimal-mistakes
 last_modified_at: 2020-01-05
 redirect_to: https://web-work.tools/minimal-mistakes/contributors-guide/site-config/
 canonical_url: https://web-work.tools/minimal-mistakes/contributors-guide/site-config/
