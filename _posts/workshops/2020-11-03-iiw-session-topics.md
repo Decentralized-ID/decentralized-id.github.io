@@ -2,7 +2,7 @@
 title: IIW Session Topics (Unofficial)
 layout: single
 description: Session topics from the Internet Identity Workshop over the past 15 years
-excerpt: "If you want to stay current in digital identity, keeping an eye on the session topics of the bi-anual internet identity workshop is a good place to start."
+excerpt: "If you want to stay current in digital identity, keeping an eye on the session topics of the semi-annual internet identity workshop is a good place to start."
 categories: ['Workshops']
 tags: ['DID','Mattr']
 permalink: workshops/iiw/
