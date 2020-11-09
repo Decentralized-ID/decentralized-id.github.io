@@ -2,8 +2,11 @@
 title: Verifiable Credentials
 tags: ["W3C", "CCG","VC-WG"]
 categories: ["Web Standards"]
-permalink: /specs-standards/verifiable-credentials/
-redirect_from: /web-standards/verifiable-credentials/
+permalink: /web-standards/w3c/vc-wg/verifiable-credentials/
+redirect_from: 
+  - web-standards/verifiable-credentials/
+  - specs-standards/verifiable credentials/
+  - web-standards/vc-wg/
 last_modified_at: 2020-01-10
 ---
 

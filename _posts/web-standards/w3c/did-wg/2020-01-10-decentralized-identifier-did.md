@@ -2,8 +2,10 @@
 title: "(DID) the Decentralized Identifier"
 tags: ["W3C","CCG","DID"]
 categories: ["Web Standards"]
-permalink: /web-standards/did-decentralized-identifier/
-redirect_from: /specs-standards/decentralized-identifier-did/
+permalink: /web-standards/w3c/did-wg/decentralized-identifier/
+redirect_from: 
+  - /specs-standards/decentralized-identifier-did/
+  - /web-standards/decentralized-identifier-did/
 last_modified_at: 2020-01-10
 ---
 
