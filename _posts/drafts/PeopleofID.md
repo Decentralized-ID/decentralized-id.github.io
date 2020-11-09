@@ -37,6 +37,14 @@ I decided to start by featuring Women in Identity first, and expand from there.
   * []()
   * []()
 
+## Natalie Smolenski
+
+* [Natalie Smolenski - Author, Speaker](https://www.nataliesmolenski.com/)
+  > Natalie Smolenski is an anthropologist leading business development for blockchain technology firm Learning Machine. She writes and speaks about identity, tech, and government.
+
+* [Natalie Smolenski - University of Michigan - Academia.edu](http://umich.academia.edu/NatalieSmolenski)
+  > Natalie Smolenski, University of Michigan, Anthropology and History Department, Graduate Student. Studies Phenomenological Psychology, Self psychology, and Anthropology of Religion. Natalie Smolenski is a psychological anthropologist and historian
+
 
 ## Ann Cavoukian, Ph.D.
 

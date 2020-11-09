@@ -7,8 +7,8 @@ excerpt: >
 layout: single
 permalink: companies/transmute/
 canonical_url: 'https://decentralized-id.com/companies/transmute/'
-categories: ["Companies","Blockchain"]
-tags: ["DIF","Transmute","Ethereum", "Microsoft","Consensys"]
+categories: ["Companies","Blockchain","Decentralized Identity Foundation"]
+tags: ["Transmute","Ethereum", "Microsoft","Consensys"]
 header:
   image: /images/transmute.png
   teaser: /images/transmute_thumb.png
