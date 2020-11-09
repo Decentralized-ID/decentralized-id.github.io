@@ -74,7 +74,7 @@ JULY 9, 2019
 
 * [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
   >The [World Wide Web Consortium (W3C)](https://www.w3.org/Consortium/) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards. Led by Web inventor and Director Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to lead the Web to its full potential.
-* [w3c-dvcg/w3c-dvcg.github.io</a> - Landing site for W3C Digital Verification Community Group. [<a href="https://www.w3.org/community/digital-verification/">**W**](https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io)]
+* [W3C Digital Verification Community Group](https://www.w3.org/community/digital-verification/) - [w3c-dvcg/w3c-dvcg.github.io](https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io)
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 * [W3C Workshop on Strong Authentication & Identity](https://www.w3.org/Security/strong-authentication-and-identity-workshop/report.html)
 
