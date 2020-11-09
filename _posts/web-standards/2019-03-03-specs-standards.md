@@ -3,7 +3,7 @@ date: 2019-03-03
 title:  Web Standards and the Emerging Decentralized ID Stack
 layout: single
 permalink: web-standards/
-canonical_url: 'https://decentralized-id.com/specs-standards/'
+canonical_url: 'https://decentralized-id.com/web-standards/'
 redirect_from: 
   - standards
   - standards/
@@ -15,15 +15,17 @@ last_modified_at: 2020-04-04
 
 I've begun exploring and becoming more familiar with the decentralized nature of digital identity. Open processes for standardization are critical components for enabling identification that's both decentralized and widely interoperable.
 
-[Why Engage with Standards?](https://www.continuumloop.com/why-engage-with-standards/)
+Check out this [twitter list](https://twitter.com/i/lists/1322229268252950531) I made for tracking identity related standards orgs.
+
+* [Why Engage with Standards?](https://www.continuumloop.com/why-engage-with-standards/)
   > too many people complain about problems but don’t step to Fix It!. There are certainly a lot of flawed standards – but they make interoperability possible – not perfect – but possible. If you haven’t used them then you have no right to complain that they are too complex, too simple (even in the same standard) or too domain specific – or any of the other rants and raves that go on.
   > 
   > If you’re willing to put up with a lot of work for incremental improvements then step up and join a standard. Whether that is a (relatively) fast moving standard group like OASIS (www.oasis-open.org) or a slower but more international group like ISO you will learn. You’ll also benefit from working with experts. These experts donate their time and are more than happy to provide ideas, guidance, and leadership.
 
-[Who Are the Identerati? - ForgeRock](https://www.forgerock.com/blog/who-are-the-identerati)
+* [Who Are the Identerati? - ForgeRock](https://www.forgerock.com/blog/who-are-the-identerati)
   > You’re familiar with digital identity standards like OpenID Connect, OAuth, and User-Managed Access, fundamental elements of privacy and security on the internet. But have you ever wondered how they came to be? A lot of work on these protocols went on (and goes on) behind t...
 
-[Building Blocks for a New Architecture](https://medium.com/@trbouma/building-blocks-for-a-new-architecture-fda2238ac005)
+* [Building Blocks for a New Architecture](https://medium.com/@trbouma/building-blocks-for-a-new-architecture-fda2238ac005)
   > After looking at the many different digital platforms and mechanisms: centralized, decentralized, proof-of-work, proof-of-stake, the list goes on, I have concluded that all of these new platforms boil down to fulfilling three core societal functions: value, identity, and status, underpinned by consensus.
 
 ## High Level Overview
