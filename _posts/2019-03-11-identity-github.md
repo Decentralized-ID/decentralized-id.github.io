@@ -17,7 +17,7 @@ header:
   og_image: /images/github.jpeg
   teaser: /images/github_teaser.png
 categories: ["Code","Web Standards"]
-tags: ["ID2020","Danube Tech","W3C","XDI","OASIS","Digital Bazaar","Rebooting WoT","JSON-LD","Credentials Community Group","RDF","Veres One","Learning Machine","BTCR","Jolocom"]
+tags: ["ID2020","Danube Tech","W3C","XDI","OASIS","Digital Bazaar","Rebooting WoT","JSON-LD","Credentials Community Group","RDF","Veres One","Learning Machine","BTCR","Danube Tech","Jolocom","Blockcerts"]
 last_modified_at: 2019-03-15
 ---
 
