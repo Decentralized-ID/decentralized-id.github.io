@@ -312,7 +312,7 @@ defaults:
       sidebar:
         - title: "Identity Decentralized"
           image: "/images/DID_ban.png"
-          image_alt: "regulation-gdpr-data-protection-3246979"
+          image_alt: "Decentralized-ID.com Sidebar"
           nav: "didnav"
       layout: single
       author_profile: false
