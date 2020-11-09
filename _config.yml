@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Decentralized ID - Curated"
+title                    : "Decentralized Identity Curated Lists"
 title_separator          : "| "
 name                     : "Infominer"
 description              : "Learning to create an Identity Layer for the Internet, that is vendor agnostic and as widely interoperable, as possible, putting users in control of their personal information."
@@ -26,7 +26,7 @@ repository               : "Decentralized-ID/decentralized-id.github.io"
 github                   : [metadata]
 teaser                   : /images/did-square.png
 logo                     : "https://decentralized-id.com/images/DID.png"
-masthead_title           : "Digital Identity Decentralized"
+masthead_title           : "Decentralized-ID Curated"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
