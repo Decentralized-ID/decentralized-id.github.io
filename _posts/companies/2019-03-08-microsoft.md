@@ -14,7 +14,7 @@ redirect_from:
   - id-initiatives/microsoft/
   - id-initiatives/microsoft
 categories: ["Companies","Decentralized Identity Foundation"]
-tags: ["Microsoft","DID","ION","Transmute","Consensys","Blockstack"]
+tags: ["Microsoft","DID","ION","Transmute","Consensys","WebAuthN","Blockstack"]
 last_modified_at: 2020-11-05
 ---
 
