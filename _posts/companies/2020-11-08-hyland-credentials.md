@@ -7,7 +7,7 @@ excerpt: >
 layout: single
 permalink: companies/hyland-credentials-learning-machine/
 canonical_url: 'https://decentralized-id.com/companies/hyland-credentials-learning-machine/'
-categories: ["Companies","Blockchain","Decentralized Identity Foundation"]
+categories: ["Companies","Blockchain","Identity Foudation"]
 tags: [ "Highland Credentials", "Learning Machine","Blockcerts"]
 header:
   image: /images/learning-machine-hyland.png

@@ -9,7 +9,7 @@ canonical_url: 'https://decentralized-id.com/organizations/identity-foundation/'
 redirect_from:
   - organizations/identity-foundation
   - identity-foundation.html
-categories: ["Organizations","Decentralized Identity Foundation"]
+categories: ["Organizations","Identity Foudation"]
 tags: ["IBM","Microsoft","Jolocom","Evernym","GS1","Danube Tech","Sovrin Foundation","uPort","Meeco","Transmute"]
 
 last_modified_at: 2020-01-15
