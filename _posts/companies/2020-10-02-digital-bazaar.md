@@ -9,7 +9,7 @@ toc: false
 permalink: companies/digital-bazaar/
 canonical_url: 'https://decentralized-id.com/companies/digital-bazaar/'
 categories: ["Companies","Blockchain"]
-tags: ["Digital Bazaar","DHS","Veres One","JSON-LD"]
+tags: ["Digital Bazaar","DHS","Veres One","DID","JSON-LD"]
 last_modified_at: 2020-11-04
 header:
   teaser: /images/digital-bazaar-teaser.png
