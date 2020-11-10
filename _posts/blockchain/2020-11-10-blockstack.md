@@ -1,14 +1,19 @@
 ---
+date: 2020-11-10
 title: Blockstack
 description: Blockstack is an open-source and developer-friendly network for building decentralized apps and smart contracts.
 excerpt: >
   Blockstack builds an alternate DNS and alternate public-key infrastructure. It's the first implementation of a decentralized DNS system on top of the Bitcoin blockchain It combines DNS functionality with public key infrastructure and is primarily meant to be used by new blockchain applications.
+layout: single
+classes: wide
 header:
   image: /images/blockstack_header.png
   teaser: /images/blockstack_teaser.png
 categories: ["Blockchain"]
 tags: ["Blockstack","Bitcoin","DID"]
 permalink: blockchain/blockstack/
+toc: false
+last_modified_at: 2020-11-10
 ---
 
 **[Website](https://blockstack.org/) • [GitHub](https://github.com/blockstack) • [Forum](https://forum.blockstack.org/) • [Blog](https://blockstack.org/blog) • [Twitter](https://twitter.com/blockstack) • [Whitepaper](https://blockstack.org/whitepaper.pdf) • [Apps](https://app.co)**
