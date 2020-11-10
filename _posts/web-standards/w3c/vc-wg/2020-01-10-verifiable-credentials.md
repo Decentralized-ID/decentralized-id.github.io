@@ -44,7 +44,7 @@ Not all verifiable credentials are created the same. This post examines the cate
 * [Blockstack and Verifiable Credentials - Paris P2P Festival](https://p2p.paris/gen/attADzQJ92rNIv6B3-Blockstack_and_Verifiable_Credentials_-_Paris_P2P_Festival_.pdf)
 * [Enabling Decentralised Identifiers and Verifiable Credentials for Constrained IoT Devices using OAuth-based Delegation](https://www.ndss-symposium.org/wp-content/uploads/diss2019_05_Lagutin_paper.pdf)
   > Abstract—Decentralised identifiers (DIDs) and verifiable credentials (VCs) are upcoming standards for self-sovereign privacypreserving identifiers and authorisation, respectively. This focus on privacy can help improve many services and open up new business models, but using DIDs and VCs directly on constrained IoT devices can be problematic due to the management and resource overhead. This paper presents an OAuth-based method to delegate the processing and access policy management to the Authorisation Server thus allowing also systems with constrained IoT devices to benefit from DIDs and VCs.
-* [W3C Verifiable Credentials - Kent Branch](https://www.bcs.org/events/2019/october/w3c-verifiable-credentials-kent-branch/) - [pdf](https://cdn.bcs.org/bcs-org-media/4653/kent-w3c-verifiable-credentials-031019.pdf)
+* [W3C Verifiable Credentials - Kent Branch](https://www.bcs.org/events/2019/october/w3c-verifiable-credentials-kent-branch/) • [pdf](https://cdn.bcs.org/bcs-org-media/4653/kent-w3c-verifiable-credentials-031019.pdf)
   > The speaker will introduce the W3C Verifiable Credentials Data Model, which was published as a Proposed Recommendation in September 2019. Verifiable Credentials are the latest development in identity management and are fundamentally different from today's federated identity management systems such as SAML and OpenID Connect.
   > 
   > David will describe the VC ecosystem and data model. He will then describe the prototype implementation which was built with colleagues from the University of Toulouse. They built a prototype system, which uses Fast Identity Online (FIDO) for user authentication, meaning that usernames and passwords are no longer needed. A pilot application was tested with a small sample of NHS patients and the speaker will present the results of this trial.
@@ -80,7 +80,7 @@ Not all verifiable credentials are created the same. This post examines the cate
 
 ### CCG
 
-* [Credentials Community Group](https://www.w3.org/community/credentials/) - [Website](https://w3c-ccg.github.io/) - [Mail archive](http://lists.w3.org/Archives/Public/public-credentials/)
+* [Credentials Community Group](https://www.w3.org/community/credentials/) • [Website](https://w3c-ccg.github.io/) • [Mail archive](http://lists.w3.org/Archives/Public/public-credentials/)
   > The mission of the Credentials Community Group is to explore the creation, storage, presentation, verification, and user control of credentials. We focus on a verifiable credential (a set of claims) created by an issuer about a subject—a person, group, or thing—and seek solutions inclusive of approaches such as: self-sovereign identity; presentation of proofs by the bearer; data minimization; and centralized, federated, and decentralized registry and identity systems. Our tasks include drafting and incubating Internet specifications for further standardization and prototyping and testing reference implementations.
 * [w3c-ccg/vc-extension-registry](https://github.com/w3c-ccg/vc-extension-registry)
 REGISTRY: The Verifiable Credentials Extension Registry - w3c-ccg/vc-extension-registry
@@ -91,7 +91,7 @@ WORK ITEM: Verifiable Credentials Examples.
 
 ### VC-WG
 
-* [W3C Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) - [Mail Archives](https://lists.w3.org/Archives/Public/public-vc-wg/) - Technical discussion and public announcements for the Verifiable Claims Working Group
+* [W3C Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) • [Mail Archives](https://lists.w3.org/Archives/Public/public-vc-wg/) - Technical discussion and public announcements for the Verifiable Claims Working Group
   > The mission of the Verifiable Claims Working Group (VCWG) is to make expressing and exchanging credentials that have been verified by a third party easier and more secure on the Web.
 * [w3c/verifiable-claims](https://github.com/w3c/verifiable-claims)
 W3C Verifiable Claims Working Group. 
@@ -99,7 +99,7 @@ W3C Verifiable Claims Working Group.
   > Verifiable Claims Data Model and Representations specification.
 * [w3c/vc-use-cases](https://github.com/w3c/vc-use-cases)
 Verifiable Claims Use Cases. 
-* [Verifiable Credentials Implementation Guidelines 1.0](https://www.w3.org/TR/vc-imp-guide/) - [w3c/vc-imp-guide](https://github.com/w3c/vc-imp-guide)
+* [Verifiable Credentials Implementation Guidelines 1.0](https://www.w3.org/TR/vc-imp-guide/) • [w3c/vc-imp-guide](https://github.com/w3c/vc-imp-guide)
   > Verifiable Claims WG - Verifiable Credentials Implementation Guidelines - w3c/vc-imp-guide
 * [w3c/vc-test-suite](https://github.com/w3c/vc-test-suite)
 Verifiable Claims WG Test Suite. 

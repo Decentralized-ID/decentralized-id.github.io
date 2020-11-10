@@ -16,7 +16,7 @@ last_modified_at: 2020-11-05
 toc: false
 ---
 
-**[Transmute Industries](https://www.transmute.industries/) - [Blog](https://medium.com/@Transmute) - [Tech Talk](https://medium.com/transmute-techtalk/) - [Github](https://github.com/transmute-industries) - [Twitter](https://twitter.com/transmutenews) - [Linkedin](https://www.linkedin.com/company/transmute-industries/)**
+**[Transmute Industries](https://www.transmute.industries/) • [Blog](https://medium.com/@Transmute) • [Tech Talk](https://medium.com/transmute-techtalk/) • [Github](https://github.com/transmute-industries) • [Twitter](https://twitter.com/transmutenews) • [Linkedin](https://www.linkedin.com/company/transmute-industries/)**
 
 - [did:(customer)](https://medium.com/transmute-techtalk/did-customer-4ca8b7957112)
   > Transmute builds solutions that solve real business problems. For this reason, we support a number of different decentralized identifier (DID) methods. While we are committed to providing optionality to our customers, it’s equally important to communicate the selection criteria behind these options so that customers can consider the tradeoffs of underlying DID-methods alongside the problem set they’re solving for. Essentially, we help them pick the right tool for the job.

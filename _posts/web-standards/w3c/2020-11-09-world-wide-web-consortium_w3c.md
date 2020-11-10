@@ -15,7 +15,7 @@ header:
 last_modified_at: 2020-11-09
 ---
 
-**[World Wide Web Consortium(W3C)](https://www.w3.org/) - [Twitter](https://twitter.com/w3c) - [GitHub](https://github.com/w3c) - [LinkedIn](https://www.linkedin.com/company/w3c/)**
+**[World Wide Web Consortium(W3C)](https://www.w3.org/) • [Twitter](https://twitter.com/w3c) • [GitHub](https://github.com/w3c) • [LinkedIn](https://www.linkedin.com/company/w3c/)**
 
 * [ICANN WIki](https://icannwiki.org/W3C)
   > First started as an IETF application area at the beginning of 1990, the Web standard stack, given its foreseen volume and applicative nature on top of the Internet protocols, quickly spun off its own forum. The W3C then laid the foundations of the Web with the development of HTML 4 and XML at the end of the last century. It still works closely with IETF today, on the HTTP or URL specifications and in other areas of common interest (e.g. crypto, security, video). 
@@ -98,7 +98,7 @@ last_modified_at: 2020-11-09
 * [w3c/webauthn-pay](https://github.com/w3c/webauthn-pay) - Joint task force of Web Authentication WG and Web Payments WG
 
 ### JSON-LD WG
-- [w3c/json-ld-wg](https://github.com/w3c/json-ld-wg) - [website](https://www.w3.org/2018/json-ld-wg/)
+- [w3c/json-ld-wg](https://github.com/w3c/json-ld-wg) • [website](https://www.w3.org/2018/json-ld-wg/)
 - [w3c/json-ld-framing](https://github.com/w3c/json-ld-framing) - JSON-LD 1.1 Framing Specification
 - [w3c/json-ld-api](https://github.com/w3c/json-ld-api) - JSON-LD 1.1 Processing Algorithms and API Specification
 - [w3c/json-ld-syntax](https://github.com/w3c/json-ld-syntax) - JSON-LD 1.1 Specification
@@ -149,7 +149,7 @@ last_modified_at: 2020-11-09
   > Abstract: While decentralized, user-centric identity systems provide hope that useful, secure identity systems may be possible on the Internet, ensuring that user data is protected in these system requires more than a technical solution. In this paper, we describe a project underway at Identity Commons to create a framework within which users can express their protection preferences (called identity rights agreements). Part of this project will establish a reputation system for identity providers and relying parties that engenders trust and lowers user risk.
 * [W3C Workshop on Identity in the Browser](https://www.w3.org/2011/identity-ws/report.html) 24/25th May 2011, Mountain View (USA)
   > Over the last ten years, for most end-users there has been no visible progress beyond cookie-managed usernames and passwords entered via HTML forms. Current password-based logins offers little value to the end-user, as they are forced to bear the onerous responsibility of remembering too many passwords or simply re-using low-security passwords. As passwords and cookies are easily compromised, both web-site operators and users then expose themselves to massive security breaches. Despite the large amount of valuable standardization work on identity, it is unclear how user agents such as Web browsers can interact with both identity-consuming applications and server-side federated identity services, and many current identity specifications either assume or underspecify secure authentication in the browser. The key missing component to enable trusted identity on the Web is likely then to be found in user-centric cross-browser standards for secure authentication and session management.
-  * [Position papers](https://www.w3.org/2011/identity-ws/papers.html) - [Download all papers](https://www.w3.org/2011/identity-ws/papers.zip) as a ZIP file.
+  * [Position papers](https://www.w3.org/2011/identity-ws/papers.html) • [Download all papers](https://www.w3.org/2011/identity-ws/papers.zip) as a ZIP file.
     * [Identity in the Browser: Easy Wins and Guiding Principles](https://www.w3.org/2011/identity-ws/papers/idbrowser2011_submission_52.pdf) by Naveen Agarwal, Miranda Callahan, Tyler Close, Travis McCoy, Chris Messina, Glen Murphy, Dirk Pranke (Google)
     * [National Strategy for Trusted Identities in Cyberspace - Requirements and Potential Use Cases](https://www.w3.org/2011/identity-ws/papers/idbrowser2011_submission_21.pdf) by Peter Alterman (NIH)
     * [A Vision for Browser-Assisted Web Authentication](https://www.w3.org/2011/identity-ws/papers/idbrowser2011_submission_43.pdf) by Siddharth Bajaj, Slawek Ligier (Symantec)
@@ -212,5 +212,5 @@ last_modified_at: 2020-11-09
   > The W3C is still exploring better ways to do authentication, for example in the [2014 workshop on authentication](http://www.w3.org/2012/webcrypto/webcrypto-next-workshop/Overview.html). The WebID is a Community Group, and anyone can start a Community Group. A Community Group does not necessarily reflect the endorsement of the W3C, but we encourage grassroots communities to experiment with technology that may become a future standard.
 * [USER IDENTITY ON THE WEB COMMUNITY GROUP](https://www.w3.org/community/w3id/)
   > Currently, more and more services are created on the web and require information about you, me, all of us. Therefore, users have to give away a lot of information about themselves to many different services. The point is that the users lose control of their identity on the web, by filling a lot of forms (e.g., through subscriptions). Privacy on the Internet is extremely important and must remain. Personal information is used by services we, sometimes, don't even know about, and it is a real problem. The aim of this group would be to think about new ways to identify individuals over the internet using trusted web based identities embedded directly into the core protocols of the web. At the same time it is important to maintain equilibrium between total privacy and providing information when needed, which means, when the user wants to.  
-* [The Story of Open SSI Standards - Drummond Reed/Evernym - Webinar 1](https://ssimeetup.org/story-open-ssi-standards-drummond-reed-evernym-webinar-1/) - [Youtube](https://www.youtube.com/watch?v=RllH91rcFdE) - [Slideshare](https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed)
+* [The Story of Open SSI Standards - Drummond Reed/Evernym - Webinar 1](https://ssimeetup.org/story-open-ssi-standards-drummond-reed-evernym-webinar-1/) • [Youtube](https://www.youtube.com/watch?v=RllH91rcFdE) • [Slideshare](https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed)
   > Drummond Reed, Chief Trust Officer at Evernym and Sovrin Foundation Trustee, features in our first Webinar "The Story of SSI Open Standards" by giving us the background on the foundation of Self Sovereign Identity.

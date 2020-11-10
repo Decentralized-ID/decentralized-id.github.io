@@ -54,12 +54,12 @@ JULY 9, 2019
 * [NIST](https://www.nist.gov/)
 * [ISO](https://www.iso.org/committee/6266604/x/catalogue/p/0/u/1/w/0/d/0)
 * [IEEE](https://standards.ieee.org/)
-* [DIF](https://identity.foundation/working-groups/) - [GitHub](https://github.com/decentralized-identity/)
+* [DIF](https://identity.foundation/working-groups/) • [GitHub](https://github.com/decentralized-identity/)
 * [Fido Alliance](https://fidoalliance.org/)
-* [Hyperledger](https://www.hyperledger.org/join-a-group) - [Wiki](https://wiki.hyperledger.org/display/HYP/Working+Groups)
+* [Hyperledger](https://www.hyperledger.org/join-a-group) • [Wiki](https://wiki.hyperledger.org/display/HYP/Working+Groups)
 * [Kantara](https://kantarainitiative.org/groups/)	
 * [OpenID](https://openid.net/wg/)
-* [Sovrin](https://sovrin.org/announcing-four-sovrin-governance-framework-wg-task-forces/) - [Forum](https://forum.sovrin.org/c/working-groups)
+* [Sovrin](https://sovrin.org/announcing-four-sovrin-governance-framework-wg-task-forces/) • [Forum](https://forum.sovrin.org/c/working-groups)
 * [Me2B Alliance](https://www.me2balliance.org/repository.html)
 * [Ethereum Enterprise Alliance](https://entethalliance.org/participate/working-groups/)
 
@@ -76,7 +76,7 @@ JULY 9, 2019
 
 * [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
   >The [World Wide Web Consortium (W3C)](https://www.w3.org/Consortium/) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards. Led by Web inventor and Director Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to lead the Web to its full potential.
-* [W3C Digital Verification Community Group](https://www.w3.org/community/digital-verification/) - [w3c-dvcg/w3c-dvcg.github.io](https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io)
+* [W3C Digital Verification Community Group](https://www.w3.org/community/digital-verification/) • [w3c-dvcg/w3c-dvcg.github.io](https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io)
 * [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
 * [W3C Workshop on Strong Authentication & Identity](https://www.w3.org/Security/strong-authentication-and-identity-workshop/report.html)
 

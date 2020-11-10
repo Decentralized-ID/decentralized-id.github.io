@@ -20,7 +20,7 @@ last_modified_at: 2020-01-09
 * [Linked Open Data](https://datahub.io/collections/linked-open-data) - An overview of the Linked Open Data datasets.
 * [Publishing and consuming Linked Data embedded in HTML](https://www.w3.org/2001/sw/interest/ldh/)
 * [Linked Data for Enterprises](https://kerfors.blogspot.com/)
-* [linkeddata/dokieli](https://github.com/linkeddata/dokieli) - [wiki](https://github.com/linkeddata/dokieli/wiki) - Examples in the Wild << Pretty Awesome List
+* [linkeddata/dokieli](https://github.com/linkeddata/dokieli) • [wiki](https://github.com/linkeddata/dokieli/wiki) - Examples in the Wild << Pretty Awesome List
   > dokieli is a decentralised article authoring, annotation, and social notification tool which works from Web browsers. It is built with the following principles in mind: freedom of expression, decentralisation, interoperability, and accessibility.
 * [solid/understanding-linked-data](https://github.com/solid/understanding-linked-data) - A slide deck introduction to Linked Data aimed at developers.
 * [RDF AND JSON-LD UseCases](https://www.w3.org/2013/dwbp/wiki/RDF_AND_JSON-LD_UseCases)

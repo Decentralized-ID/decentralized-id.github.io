@@ -93,7 +93,7 @@ Private Sector
 
 ## Reources
 
-* [SSI Meetup](http://ssimeetup.org/) - [video](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og) - [presentations](https://www.slideshare.net/SSIMeetup/presentations/)
+* [SSI Meetup](http://ssimeetup.org/) • [video](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og) • [presentations](https://www.slideshare.net/SSIMeetup/presentations/)
 * [IIW-Wiki](https://iiw.idcommons.net/Main_Page)
 * [wiki.idcommons.net](http://wiki.idcommons.net/Main_Page)
 * [/WebOfTrustInfo](https://github.com/WebOfTrustInfo/)

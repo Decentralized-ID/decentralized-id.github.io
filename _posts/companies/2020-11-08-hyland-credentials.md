@@ -16,7 +16,7 @@ last_modified_at: 2020-11-08
 toc: false
 ---
 
-[Twitter](https://twitter.com/HylandCredent) - [Blog](https://www.hylandcredentials.com/blog/) - [Community](http://community.blockcerts.org/)
+[Twitter](https://twitter.com/HylandCredent) • [Blog](https://www.hylandcredentials.com/blog/) • [Community](http://community.blockcerts.org/)
 
 * [Why Hyland Credentials](https://www.hylandcredentials.com/our-approach/)
   > Your organization will find that an engagement with Hyland Credentials is a lot more than buying software, we address the needs of your whole organization. We look forward to working with you to make secure, digital credentialing an enduring part of your institution’s legacy.
