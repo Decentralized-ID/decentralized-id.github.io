@@ -8,6 +8,7 @@ header:
   teaser: /images/blockstack_teaser.png
 categories: ["Blockchain"]
 tags: ["Blockstack","Bitcoin","DID"]
+permalink: blockchain/blockstack/
 ---
 
 **[Website](https://blockstack.org/) • [GitHub](https://github.com/blockstack) • [Forum](https://forum.blockstack.org/) • [Blog](https://blockstack.org/blog) • [Twitter](https://twitter.com/blockstack) • [Whitepaper](https://blockstack.org/whitepaper.pdf) • [Apps](https://app.co)**
