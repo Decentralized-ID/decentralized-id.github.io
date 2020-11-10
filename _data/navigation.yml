@@ -38,14 +38,16 @@ didnav:
     children:
       - title: "• Web Standards"
         url: "/web-standards/"
-      - title: "-- JSON-LD"
+      - title: "•- JSON-LD"
         url: "/web-standards/linked-data/JSON-LD/"
       - title: "• GitHub Repositories"
         url: "/code/github/"
       - title: "• Literature"
         url: "/literature/" 
-      - title: "-- RWoT Papers Index"
+      - title: "•- RWoT Papers Index"
         url: "/literature/rebooting-web-of-trust/"
+      - title: "• IIW Session Topics"
+        url: "/workshops/internet-identity-workshop/"
   - title: Regulation
     children:
       - title: "• eIDAS"
