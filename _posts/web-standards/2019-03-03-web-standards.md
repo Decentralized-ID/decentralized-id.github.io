@@ -8,8 +8,8 @@ redirect_from:
   - standards
   - standards/
   - specs-standards/
-categories: ["Web Standards","Hyperledger Foundation","Identity Foudation","W3C"]
-tags: ["Index","Credentials Community Group", "FIDO","OpenID","XDI","OASIS","JSON-LD"]
+categories: ["Web Standards","Hyperledger Foundation","Identity Foudation"]
+tags: ["W3C","Index","Credentials Community Group", "FIDO","OpenID","XDI","OASIS","JSON-LD"]
 last_modified_at: 2020-04-04
 ---
 
