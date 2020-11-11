@@ -16,8 +16,8 @@ canonical_url: 'https://decentralized-id.com/blockchain/ethereum/cryptonomica/'
 redirect_from: 
   - id-initiatives/ethereum/cryptonomica
   - id-initiatives/ethereum/cryptonomica/
-categories: ["Blockchain"]
-tags: ["Ethereum","PGP"]
+categories: ["Companies"]
+tags: ["Ethereum","PGP","Blockchain"]
 last_modified_at: 2019-07-11
 
 ---

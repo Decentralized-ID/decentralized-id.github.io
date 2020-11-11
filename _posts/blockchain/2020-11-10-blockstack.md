@@ -9,8 +9,8 @@ classes: wide
 header:
   image: /images/blockstack_header.png
   teaser: /images/blockstack_teaser.png
-categories: ["Blockchain"]
-tags: ["Blockstack","Bitcoin","DID"]
+categories: ["Blockchain","Companies"]
+tags: ["Blockstack","Bitcoin","DID","Blockchain"]
 permalink: blockchain/blockstack/
 toc: false
 last_modified_at: 2020-11-10

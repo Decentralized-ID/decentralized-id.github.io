@@ -12,7 +12,7 @@ permalink: /blockchain/ethereum/repositories/
 redirect_from: /ethereum/id-github/
 canonical_url: 'https://decentralized-id.com/blockchain/ethereum/repositories/'
 categories: ["Code","Blockchain"]
-tags: ["Ethereum","Jolocom"]
+tags: ["Ethereum","Jolocom","Blockchain"]
 last_modified_at: 2019-07-11
 
 ---

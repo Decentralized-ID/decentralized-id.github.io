@@ -10,7 +10,8 @@ header:
 layout: single
 classes: wide
 permalink: /blockchain/
-categories: ["Blockchain"]
+categories: ["Blockchain","Literature"]
+tags: ["Blockchain"]
 last_modified_at: 2020-11-10
 toc: false
 ---

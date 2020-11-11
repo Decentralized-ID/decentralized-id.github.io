@@ -15,8 +15,8 @@ redirect_from:
 header:
   image: /images/blockchange-identity-header.png
   caption: "[On the Emergent Use of Distributed Ledger Technologies for Identity Management](https://blockchan.ge/blockchange-fieldreport.pdf)"
-categories: ["Blockchain","Government"]
-tags: ["USA","Canada","Europe"]
+categories: ["Government"]
+tags: ["USA","Canada","Blockchain","Europe"]
 last_modified_at: 2019-01-11
 toc: false
 ---

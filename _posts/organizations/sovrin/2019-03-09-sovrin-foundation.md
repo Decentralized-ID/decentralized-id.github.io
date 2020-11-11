@@ -15,7 +15,7 @@ canonical_url: 'https://decentralized-id.com/organizations/sovrin/'
 redirect_from: 
   - organizations/sovrin-foundation
   - organizations/sovrin-foundation/
-categories: ["Organizations","Sovrin Foundation"]
+categories: ["Organizations","Sovrin Foundation","Blockchain"]
 tags: ["Indy","Verifiable Organizations Network","Evernym"]
 last_modified_at: 2019-07-13
 ---

@@ -12,8 +12,8 @@ permalink: /web-standards/blockcerts/
 redirect_from: 
   - /blockchain/bitcoin/blockcerts/
   - /specs-standards/blockcerts/
-categories: ["Blockchain", "Web Standards"]
-tags: ["Bitcoin","Learning Machine","BTCR"]
+categories: ["Web Standards"]
+tags: ["Bitcoin","Learning Machine","BTCR","Blockchain"]
 last_modified_at:  2020-01-07
 ---
 
