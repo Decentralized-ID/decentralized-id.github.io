@@ -25,7 +25,7 @@ sidebar:
   title: Decentralized-ID
   nav: "sovnav"
 last_modified_at: 2019-07-10
-tags: ["Evernym","Indy","Von"]
+tags: ["Evernym","Indy","Verifiable Organizations Network"]
 categories: ["Sovrin Foundation","Hyperledger Foundation"]
 ---
 
