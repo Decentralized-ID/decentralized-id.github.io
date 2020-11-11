@@ -2,8 +2,8 @@
 title: Digital Bazaar
 layout: single
 description: Leaders in the creation of decentralized digital identity for the Web.
-excerpt:
-  < We pioneer payment, identity, and credential technologies that will power the next generation Web. We have been heavily involved in Web standards for over a decade, participate in cutting edge research and development, and contribute to the open source community. 
+excerpt: >
+  We pioneer payment, identity, and credential technologies that will power the next generation Web. We have been heavily involved in Web standards for over a decade, participate in cutting edge research and development, and contribute to the open source community. 
 classes: wide
 toc: false
 permalink: companies/digital-bazaar/
