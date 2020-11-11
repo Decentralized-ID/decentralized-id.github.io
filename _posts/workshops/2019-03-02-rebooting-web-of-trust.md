@@ -17,10 +17,17 @@ redirect_from:
 toc_sticky: false
 categories: ["Literature","Workshops"]
 tags: ["Rebooting WoT","Bitcoin","Ethereum","Blockcerts","DID","DPKI","Verifiable Credentials","Blockstack", "JSON-LD", "Hubs","Self Sovereign Identity","eIDAS","Blockcerts","GDPR","PGP","Veres One"]
-last_modified_at: 2019-07-07
+last_modified_at: 2020-10-10
 ---
 
-I wanted a list of all RWoT papers in one place, rather than having to directory hop to look for what I need. I'll be adding a short exerpt to each advance reading and then turning this into a database, so that it's easily searchable.
+* [White Papers, Specifications & Proofs of Concept](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/white-papers--specifications---and-proof-of-concept-code.md) 
+  >Our goal for this initial #RebootingWebOfTrust design workshop is to:
+  >
+  > * Focus on the creation of the next generation of decentralized web-of-trust based identity systems.
+  > * To generate 5 technical white papers on topics decided by the group that will have the greatest impact on the future"
+  >
+  > To this end, I thought it would be useful to define what is a white paper, and as some people desire to go beyond this, what is a specification and proof of concept code.
+* [WebOfTrust.info - Upcoming Events](http://www.weboftrust.info/next-event-page.html)
 
 See the [WebofTrust.Info](http://www.weboftrust.info/) or [github.com/WebOfTrustInfo](https://github.com/WebOfTrustInfo/) for more information.
 

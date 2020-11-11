@@ -1,16 +1,18 @@
 ---
-date: 2019-03-06
-title: DID-SSI Organizations
-excerpt: Assorted Humanitarian Organizations
+title: Humanitarian 
 layout: single
-permalink: organizations/
-canonical_url: 'https://decentralized-id.com/organizations/'
-redirect_from: organizations
+classes: wide
+toc: false
+permalink: /organizations/humanitarian/
+redirect_from: 
+  - humanitarian
+  - humanitarian/
+tags: ["Humanitarian"]
 categories: ["Organizations"]
-tags: ["Index"]
-last_modified_at: 2019-03-11
----
+last_modified_at: 2019-07-11
+published: true
 
+---
 
 ## Humanitarian
 

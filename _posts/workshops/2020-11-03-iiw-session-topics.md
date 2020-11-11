@@ -8,7 +8,6 @@ tags: ['DID',"WebAuthN",'Mattr']
 permalink: workshops/internet-identity-workshop/
 redirect_from:
   - workshops/iiw/
-last_modified_at: 2020-11-03
 classes: 'wide'
 toc: true
 toc_sticky: false
@@ -16,9 +15,31 @@ header:
   image: /images/Internet-Identity-Workshop.png
   og_image: /images/InternetIdentityWorkshop.png
   teaser: /images/Internet-Identity-Workshop_teaser.png
+last_modified_at: 2020-11-10
 ---
 
 > The Internet Identity Workshop has been finding, probing and solving identity issues twice every year since 2005. We meet in the Computer History Museum in Mountain View, CA. Every IIW moves topics, code and projects downfield. Name an identity topic and it’s likely that more substantial discussion and work has been done at IIW than any other conference! - [Internet Identity Workshop](https://internetidentityworkshop.com/)
+
+![](https://www.yubico.com/wp-content/uploads/2013/10/IIW-blog.jpg)
+
+## Background
+
+In 2005, [Kaliya Young](https://identitywoman.net/)[[**T**](https://twitter.com/IdentityWoman)], [Phil Windley](https://windley.com)[[**T**](https://twitter.com/windley)][[**V**](https://vimeo.com/windley)][[**G**](https://github.com/windley)], [Drummond Reed](https://www.evernym.com/)[[**T**](https://twitter.com/drummondreed)][[**B**](https://equalsdrummond.name/)], and [Doc Searls](http://blogs.harvard.edu/doc/)[[**T**](https://twitter.com/dsearls)][[**B**](https://blogs.harvard.edu/doc)] hosted the first [Internet Identity Workshop](http://www.internetidentityworkshop.com/)(IIW)[[**T**](https://twitter.com/idworkshop)] in Berkeley to discuss "architectural and governance proposals for Internet-wide identity services and their underlying philosophies." -[Announcing IIW 2005](https://identitywoman.net/announcing-the-internet-identity-workshop-iiw2005/)
+
+* [unconference.net](http://unconference.net/)
+  > [Open Space](https://www.slideshare.net/Kaliya/introduction-to-open-space/) is at the heart of almost every unconference we design. It allows groups from 20-1000 people to create an agenda live in less than an hour for a complete multi-track conference. Participants are given simple guidelines that help the day flow. Then, at the close of a day, everyone gathers together to share what unfolded.
+
+Since then, the IIW has met semi-anually, actively supporting the development of the identity software-ecosystem, including [OpenID](http://wiki.openid.net)('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1)('06), [OAuth](https://en.wikipedia.org/wiki/OAuth)('10), [FIDO](https://fidoalliance.org/)('13) and OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect)('14). 
+
+<blockquote>
+IIW is at its heart a participatory conference. Through dozens of sessions, lunches, and two evening meals (all included in ticket) you’ll have plenty of chances to exchange ideas and make new professional connections.
+
+This is the time and place that you get to discuss, share your knowledge, work on and learn about anything & everything related to Internet Identity today.
+
+Spring: April 30, 2019 – May 2, 2019
+
+Fall: October 01, 2019 – October 03, 2019
+</blockquote>
 
 <iframe src="https://player.vimeo.com/video/173562225" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/173562225">What is IIW?</a> from <a href="https://vimeo.com/windley">Phil Windley</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
