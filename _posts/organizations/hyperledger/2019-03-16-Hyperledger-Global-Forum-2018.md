@@ -12,8 +12,8 @@ redirect_from:
   - hyperledger/hgf-2018/
   - hgf-2018
   - hgf-2018/
-categories: ["Hyperledger Foundation","Presentations"]
-tags: ["Hyperledger Global Forum","GDPR"]
+categories: ["Hyperledger Foundation","Media"]
+tags: ["Hyperledger Forum","GDPR","MyCuID","Sovrin Foundation","DigiCert","Indy","Fabric","Blockcerts","Evernym","R3"]
 last_modified_at: 2019-03-06
 ---
 
@@ -27,8 +27,8 @@ Basel Congress Center — Basel, Switzerland — December 12-15,2018
   >SAN FRANCISCO AND BASEL, SWITZERLAND – (December 12, 2018) – Hyperledger, an open source collaborative effort created to advance cross-industry blockchain technologies, today kicked off the first day of its Hyperledger Global Forum. The event has drawn more than 650 attendees from as far as Australia and Argentina for an extended conversation about the state of open source enterprise blockchain and vision for the Hyperledger community and technologies. 
 
 ## Official Links
-* https://events.linuxfoundation.org/events/hyperledger-global-forum-2018/
-* https://hgf18.sched.com/
+* [Hyperledger Global Forum](https://events.linuxfoundation.org/events/hyperledger-global-forum-2018/) - December 12-15,2018 Basel Congress Center Basel, Switzerland 
+* [HGF18 Schedule](https://hgf18.sched.com/)
 * [Youtube Playlist](https://www.youtube.com/playlist?list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP) (I've tried to pick out the identity specific presentations)
   * [How Individuals are Taking Ownership of their Digital Identity](https://www.youtube.com/watch?v=SdrmA0YNSRw&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=4&t=0s)
   * [MyCuID: Blockchains, Credentials and Credit Unions - Julie Esser, CULedger](https://www.youtube.com/watch?v=PQHx_b59sXg&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=19)

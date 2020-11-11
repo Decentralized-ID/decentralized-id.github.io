@@ -17,7 +17,7 @@ redirect_from:
 permalink: /government/canada/von/hgf-2018-presentation/
 classes: wide
 categories: ["Government","Sovrin Foundation","Hyperledger Foundation","Literature"]
-tags: ["Indy","Verifiable Organizations Network","Canada","Hyperledger Global Forum"]
+tags: ["Indy","Verifiable Organizations Network","Canada","Hyperledger Forum"]
 last_modified_at: 2019-07-11
 ---
 
