@@ -1,6 +1,7 @@
 ---
 title: Humanitarian 
 layout: single
+excerpt: Assorted Humanitarian Organizations
 classes: wide
 toc: false
 permalink: /organizations/humanitarian/
@@ -11,10 +12,7 @@ tags: ["Humanitarian"]
 categories: ["Organizations"]
 last_modified_at: 2019-07-11
 published: true
-
 ---
-
-## Humanitarian
 
 * [Blockchain Can Empower Stateless Refugees](https://www.law360.com/technology/articles/1095148/blockchain-can-empower-stateless-refugees)
 * [iRespond](https://www.irespond.org/) -international non-profit organization dedicated to solving the identity problem using a unique digital biometric identity solution
