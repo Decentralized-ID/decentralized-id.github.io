@@ -2,7 +2,7 @@
 title: IIW Session Topics (Unofficial)
 layout: single
 description: Session topics from the Internet Identity Workshop over the past 15 years
-excerpt: "If you want to stay current in digital identity, keeping an eye on the session topics of the semi-annual internet identity workshop is a good place to start."
+excerpt: "If you want to stay current in digital identity, keeping an eye on the session topics of the biannual internet identity workshop is a good place to start."
 categories: ['Workshops']
 tags: ['DID',"WebAuthN",'Mattr']
 permalink: workshops/internet-identity-workshop/
@@ -29,7 +29,7 @@ In 2005, [Kaliya Young](https://identitywoman.net/)[[**T**](https://twitter.com/
 * [unconference.net](http://unconference.net/)
   > [Open Space](https://www.slideshare.net/Kaliya/introduction-to-open-space/) is at the heart of almost every unconference we design. It allows groups from 20-1000 people to create an agenda live in less than an hour for a complete multi-track conference. Participants are given simple guidelines that help the day flow. Then, at the close of a day, everyone gathers together to share what unfolded.
 
-Since then, the IIW has met semi-anually, actively supporting the development of the identity software-ecosystem, including [OpenID](http://wiki.openid.net)('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1)('06), [OAuth](https://en.wikipedia.org/wiki/OAuth)('10), [FIDO](https://fidoalliance.org/)('13) and OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect)('14). 
+Since then, the IIW has met twice a year, actively supporting the development of the identity software-ecosystem, including [OpenID](http://wiki.openid.net)('05), OpenID [2.0](http://wiki.openid.net/w/page/12995215/OpenID%20Authentication%202-1)('06), [OAuth](https://en.wikipedia.org/wiki/OAuth)('10), [FIDO](https://fidoalliance.org/)('13) and OpenID [Connect](https://en.wikipedia.org/wiki/OpenID_Connect)('14). 
 
 <blockquote>
 IIW is at its heart a participatory conference. Through dozens of sessions, lunches, and two evening meals (all included in ticket) you’ll have plenty of chances to exchange ideas and make new professional connections.
