@@ -12,7 +12,7 @@ tags: ["Transmute","Ethereum", "Microsoft","DID","Consensys","Blockchain"]
 header:
   image: /images/transmute.png
   teaser: /images/transmute_thumb.png
-last_modified_at: 2020-11-05
+last_modified_at: 2020-11-12
 toc: false
 ---
 
@@ -62,6 +62,12 @@ toc: false
 
 * [News Release: DHS Awards $198K for Raw Material Import Tracking Using Blockchain](https://www.dhs.gov/science-and-technology/news/2019/11/08/news-release-dhs-awards-198k-raw-material-import-tracking)
   > Its Phase 1 award project “Verifiable Provenance, Traceability, and Regulatory Compliance for Raw Material Imports” will adapt Transmute ID, its core technology product that leverages centralized and decentralized identity infrastructures to secure individual agency identities and verifiable credentials to ensure that CBP has visibility into the provenance, traceability and regulatory compliance of raw material imports.
+
+- [GitHub DID](https://github-did.com/) - ([source](https://www.npmjs.com/package/@transmute/github-did))
+  > `npm i -g @github-did/cli`
+  > `ghdid init "my-password" https://github.com/USERNAME/ghdid`
+  > `# if you need to revoke all / reset your DID`
+  > `ghdid init "my-password" https://github.com/USERNAME/ghdid --force`
 
 ## [Team](https://www.transmute.industries/team/)
 
