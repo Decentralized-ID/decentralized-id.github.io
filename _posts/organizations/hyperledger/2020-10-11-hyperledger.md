@@ -1,9 +1,10 @@
 ---
 title: "Hyperledger Foundation"
-published: false
 permalink: organizations/hyperledger/
-
+redirect_to: https://decentralized-id.com/#hyperledger-foundation
 ---
+
+<!-- Redirect -->
 
 [SecureKey (@SecureKey)](https://twitter.com/SecureKey/status/996004279528894470)
   > We’re thrilled to announce that SecureKey will be joining the @DecentralizedID Foundation (DIF) and exploring interoperability between [https://t.co/chtTJATpzY](https://t.co/chtTJATpzY) and @Hyperledger Indy-based identity networks. Read the press release: [https://t.co/lAkiE1qHkZ](https://t.co/lAkiE1qHkZ)
