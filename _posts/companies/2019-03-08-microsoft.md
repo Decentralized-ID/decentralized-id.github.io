@@ -20,6 +20,9 @@ last_modified_at: 2020-11-05
 
 ![](https://i.imgur.com/MEN8iSn.png)
 
+* [A Peek into the Future of Decentralized Identity](https://bok.idpro.org/article/id/51/)
+  > As digital transformation sweeps across the globe, it has affected everyone – from citizens to employees, from corporations to governments. Digital identity is a foundational enabler for business processes in the digital economy. Decentralized identity is the next evolution of digital identity capabilities and brings with it an opportunity to streamline how people interact with other institutions, physical objects, and with one another. This paper considers the future world of decentralized identity and offers clarity around the benefits of decentralized identity, terminology, sample scenario, and a sample technical implementation, while also addressing some of the limitations of this model. This paper further grounds the reader in the current state of decentralized identity capabilities while outlining the evolution of identity practices from past to present.
+
 
 ## News
 
