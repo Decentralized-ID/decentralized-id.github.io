@@ -13,8 +13,6 @@ header:
 updated: 2020-01-11
 ---
 
-## Decentralized ID - Canada
-
 [![](https://i.imgur.com/wdbN3Ld.png)](https://twitter.com/sboots/status/1070320318487584768)
 
 * [User-Centric Verifiable Digital Credentials](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
