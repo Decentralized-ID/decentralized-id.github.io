@@ -12,6 +12,7 @@ tags: ["Dragonchain","Blockchain"]
 header:
   image: /images/dragonchain-factor-header.png
   teaser: /images/dragon-teaser.png
+  og_image: /images/dragon_factor_og.png
 last_modified_at: 2020-11-17
 toc: true
 # •
