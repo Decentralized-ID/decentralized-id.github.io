@@ -621,8 +621,7 @@ This presents a method to replace the usual signup/login design pattern with a m
 
 ### DIF - DID
 * [decentralized-identity/did-methods](https://github.com/decentralized-identity/did-methods) - DID Method specs, docs, and materials
-* <a href="https://github.com/decentralized-identity/did-common-typescript" />/decentralized-identity/did-common-typescript
-</a> - A common bundle of shared code and modules for working with DIDs, DID Documents, and other DID-related activities
+* <a href="https://github.com/decentralized-identity/did-common-typescript" />/decentralized-identity/did-common-typescript</a> - A common bundle of shared code and modules for working with DIDs, DID Documents, and other DID-related activities
 * [decentralized-identity/did-security-csharp](https://github.com/decentralized-identity/did-security-csharp) - C# implementation of DID security and privacy controls
 * [decentralized-identity/did-security-typescript](https://github.com/decentralized-identity/did-security-typescript) - Typescript implementation of DID security and privacy controls
 * [decentralized-identity/did-common-java](https://github.com/decentralized-identity/did-common-java) - Shared DID Java library.
