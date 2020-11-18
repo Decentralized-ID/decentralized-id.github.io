@@ -18,7 +18,8 @@ toc: true
 # •
 ---
 
-Guest post by [Holly Jolly Jeffrey](https://twitter.com/hodldrgn) ([Linkedin](https://www.linkedin.com/in/jeffrey-neijenhuis/)) and Dragonchain Founder\CEO [Joe Roets](https://www.linkedin.com/in/j0j0r0/).{: .notice--info}
+Guest post by [Holly Jolly Jeffrey](https://twitter.com/hodldrgn) ([Linkedin](https://www.linkedin.com/in/jeffrey-neijenhuis/)) and Dragonchain Founder\CEO [Joe Roets](https://www.linkedin.com/in/j0j0r0/).
+{: .notice--info}
 
 ## Technology Overview 
 
