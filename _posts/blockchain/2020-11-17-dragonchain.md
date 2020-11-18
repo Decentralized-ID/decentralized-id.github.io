@@ -1,7 +1,7 @@
 ---
 date: 2020-11-17
 title: Dragonchain & Factor
-description: "Blockchain technology for decentralized identity management"
+description: "Blockchain technology for decentralized identity management - Guest Post"
 excerpt: >
     On Factor/MyFii DID, the identity factors are decentralized to the individual owners. Individual users hold their own identity information in granular form as “factors”. Factors can be any data attributed to an individual and can be based on verifications by one or more external 3rd parties, or they can be self-declared/self-certified. These factors can then be provided to other parties needing identity verification. These factors can also be held within smart contracts with controlled and metered access.
 layout: single
