@@ -14,7 +14,7 @@ redirect_from:
 toc_sticky: false
 header:
   image: /images/github.webp
-  og_image:/images/github.webp
+  og_image: /images/github.webp
   teaser: /images/github_teaser.webp
 categories: ["Code","Web Standards"]
 tags: ["W3C","ID2020","Danube Tech","XDI","OASIS","Digital Bazaar","Rebooting WoT","JSON-LD","Credentials Community Group","RDF","Veres One","Learning Machine","BTCR","Danube Tech","Jolocom","Blockcerts"]
