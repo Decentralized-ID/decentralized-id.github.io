@@ -2,7 +2,7 @@
 date: 2020-11-18
 title: Hyperledger Foundation
 description: Those of us involved with Hyperledger think the future of blockchain will involve modular, open-source platforms that are easy to use.
-excerpt: <
+excerpt: >
   Hyperledger began in 2015 when many different companies interested in blockchain technology realized they could achieve more by working together than by working separately.
    
   These firms decided to pool their resources and create open-source blockchain technology that anyone could use. These far-sighted companies are helping blockchain to become a more popular and industry-standard technology. 
