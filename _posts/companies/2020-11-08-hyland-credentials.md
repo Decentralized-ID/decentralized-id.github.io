@@ -10,8 +10,8 @@ canonical_url: 'https://decentralized-id.com/companies/hyland-credentials-learni
 categories: ["Companies","Identity Foudation"]
 tags: [ "Highland Credentials","Blockchain","Learning Machine","Blockcerts"]
 header:
-  image: /images/learning-machine-hyland.png
-  teaser: /images/hyland-teaser.png
+  image: /images/learning-machine-hyland.webp
+  teaser: /images/hyland-teaser.webp
 last_modified_at: 2020-11-08
 toc: false
 ---

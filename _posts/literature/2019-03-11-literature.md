@@ -5,7 +5,7 @@ layout: single
 description: A selection of DID related literature and top level resources for discovery of more.
 excerpt: A selection of DID related literature and top level resources for discovery of more.
 header: 
-  image: /images/literature-christian-wiediger-unsplash.jpg
+  image: /images/literature-christian-wiediger-unsplash.webp
 categories: ["Literature"]
 tags: ["DPKI","Rebooting WoT","Self Sovereign Identity","WEF","ID2020"]
 redirect_from: literature

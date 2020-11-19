@@ -7,8 +7,8 @@ excerpt: >
 layout: single
 classes: wide
 header:
-  image: /images/blockstack_header.png
-  teaser: /images/blockstack_teaser.png
+  image: /images/blockstack_header.webp
+  teaser: /images/blockstack_teaser.webp
 categories: ["Blockchain","Companies"]
 tags: ["Blockstack","Bitcoin","DID","Blockchain"]
 permalink: blockchain/blockstack/

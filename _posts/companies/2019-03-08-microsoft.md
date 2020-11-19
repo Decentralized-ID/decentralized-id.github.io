@@ -7,8 +7,8 @@ layout: single
 permalink: companies/microsoft/
 canonical_url: 'https://decentralized-id.com/companies/microsoft/'
 header:
-  image: /images/microsoft-header.png
-  teaser: /images/microsoft.png
+  image: /images/microsoft-header.webp
+  teaser: /images/microsoft.webp
 redirect_from: 
   - private-sector/microsoft/
   - id-initiatives/microsoft/

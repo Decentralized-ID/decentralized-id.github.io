@@ -13,7 +13,7 @@ redirect_from:
   - public-sector/
   - id-initiatives/state-sponsored/
 header:
-  image: /images/blockchange-identity-header.png
+  image: /images/blockchange-identity-header.webp
   caption: "[On the Emergent Use of Distributed Ledger Technologies for Identity Management](https://blockchan.ge/blockchange-fieldreport.pdf)"
 categories: ["Government"]
 tags: ["USA","Canada","Blockchain","Europe"]

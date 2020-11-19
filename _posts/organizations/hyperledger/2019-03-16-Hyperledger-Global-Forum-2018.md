@@ -16,6 +16,10 @@ redirect_from:
 categories: ["Hyperledger Foundation","Media"]
 tags: ["Hyperledger Forum","GDPR","MyCuID","Sovrin Foundation","DigiCert","Indy","Fabric","Blockcerts","Evernym","R3"]
 last_modified_at: 2019-03-06
+header:
+  image: /images/hyperledger-global-forum-header.webp
+  caption: "[Hyperledger Global Forum in Basel Swiss](https://chainhero.io/2019/03/hyperledger-global-forum-in-basel-swiss/)"
+  teaser: /images/hgf-teaser.webp
 ---
 
 For Identity Related Presentations at HGF-2018

@@ -10,8 +10,8 @@ canonical_url: 'https://decentralized-id.com/companies/transmute/'
 categories: ["Companies","Identity Foudation"]
 tags: ["Transmute","Ethereum", "Microsoft","DID","Verifiable Credentials","Consensys","Blockchain","Encrypted Data Vaults"]
 header:
-  image: /images/transmute.png
-  teaser: /images/transmute_thumb.png
+  image: /images/transmute.webp
+  teaser: /images/transmute_thumb.webp
 last_modified_at: 2020-11-12
 toc: false
 ---
@@ -75,5 +75,5 @@ toc: false
 
 | **Karyl Fowler** (CEO) | **Orie Steele** (CTO) |
 | ---- | ---- |
-| ![]({{ site.baseurl }}images/KarylFowler_Transmute.jpg) | ![]({{ site.baseurl }}images/OrieSteele_Transmute.jpg) |
+| ![]({{ site.baseurl }}/images/KarylFowler_Transmute.jpg) | ![]({{ site.baseurl }}images/OrieSteele_Transmute.webp) |
 | [@TheKarl](https://twitter.com/TheKaryl) – [linkedin](https://www.linkedin.com/in/karylfowler/) | [@or13b](https://twitter.com/or13b) – [linkedin](https://www.linkedin.com/in/or13b/) |

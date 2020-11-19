@@ -42,7 +42,7 @@ This history behind decentralized identity is loosely categorized by year and er
 
 ### Losing Control Over our Personal Information
 
-![]({{ site.baseurl }}images/chaum-security-without-identification-big-brother.png)
+![]({{ site.baseurl }}/images/chaum-security-without-identification-big-brother.webp)
 
 * [Security without Identification Transactions Systems to Make Big Brother Obsolete](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - David Chaum, 1985. 
   > The large-scale automated transaction systems of the near future can be designed to protect the privacy and maintain the security of both individuals and organizations. Computerization is robbing individuals of the ability to monitor and control the ways information about them is used. As organizations in both the private and the public sectors routinely exchange such information, individuals have no way of knowing if the information is inaccurate, obsolete, or otherwise inappropriate. The foundation is being laid for a dossier society, in which computers could be used to infer individuals’ life-styles, habits, whereabouts, and associations from data collected in ordinary consumer transactions. Uncertainty about whether data will remain secure against abuse by those maintaining or tapping it can have a “chilling effect,” causing people to alter their observable activities. As computerization becomes mclre pervasive, the potential for these problems will grow dramatically.

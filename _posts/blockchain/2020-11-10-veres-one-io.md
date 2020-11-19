@@ -4,8 +4,8 @@ title: Veres One
 description: "The Veres One Blockchain is a fit-for-purpose blockchain optimized for identity on the Web."
 excerpt: "Our vision is to enable all people and organizations in the world to create and own their online identifiers, control their identity data and with whom they share that data."
 header: 
-  image: /images/veres-one-header.png
-  teaser: /images/veres_one-teaser.png
+  image: /images/veres-one-header.webp
+  teaser: /images/veres_one-teaser.webp
 layout: single
 classes: wide
 permalink: /blockchain/veres-one/

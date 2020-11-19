@@ -8,9 +8,9 @@ redirect_from: /public-sector/canada/
 tags: ["Trust Framework","Canada"]
 categories: ["Government"]
 header:
-  image: /images/pan-canadian-trust-header.png
+  image: /images/pan-canadian-trust-header.webp
   caption: "[PCTF Placemat](https://canada-ca.github.io/PCTF-CCP/docs/PCTF-Placemat.pdf)"
-  teaser: /images/pctf-teaser.png
+  teaser: /images/pctf-teaser.webp
 updated: 2020-01-11
 ---
 

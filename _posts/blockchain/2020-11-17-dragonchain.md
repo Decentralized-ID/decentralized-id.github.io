@@ -10,9 +10,9 @@ canonical_url: 'https://decentralized-id.com/blockchain/dragonchain-factor/'
 categories: ["Companies","Blockchain"]
 tags: ["Dragonchain","Blockchain"]
 header:
-  image: /images/dragonchain-factor-header.png
-  teaser: /images/dragon-teaser.png
-  og_image: /images/dragon_factor_og.png
+  image: /images/dragonchain-factor-header.webp
+  teaser: /images/dragon-teaser.webp
+  og_image: /images/dragon_factor_og.webp
 last_modified_at: 2020-11-17
 toc: true
 # •
@@ -41,7 +41,7 @@ On Factor/MyFii DID, the identity factors are decentralized to the individual ow
 
 Factor was developed prior to W3C standardization, but we expect to provide mappings and support for W3C standards via our MyFii integration. Dragonchain and Factor are designed to be interoperable with traditional and blockchain systems. Dragonchain holds multiple interoperability and scalability patents that are employed in the Factor/DID system. The systems are literally interoperable with any other system via standard RESTful service API integration.
 
-![Factor decentralized identity logo]({{ site.baseurl }}/images/factor-dragonchain.png "Factor decentralized identity")
+![Factor decentralized identity logo]({{ site.baseurl }}/images/factor-dragonchain.webp "Factor decentralized identity")
 
 ### Features & Specifications 
 

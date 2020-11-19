@@ -12,7 +12,7 @@ categories: ["Companies"]
 tags: ["Digital Bazaar","DHS","Veres One","DID","JSON-LD","Blockchain","Encrypted Data Vaults","W3C"]
 last_modified_at: 2020-11-04
 header:
-  teaser: /images/digital-bazaar-teaser.png
+  teaser: /images/digital-bazaar-teaser.webp
 ---
 
 ![](https://i.imgur.com/v2ZuWeL.jpg)

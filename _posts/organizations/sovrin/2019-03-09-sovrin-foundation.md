@@ -7,8 +7,8 @@ layout: single
 classes: wide
 toc: false
 header: 
-  image: "/images/sovrin-header.png"
-  og_image: "https://decentralized-id.com/images/sovrin-foundation.png"
+  image: "/images/sovrin-header.webp"
+  og_image: /images/sovrin-foundation.webp
   caption: "[cryptodesign.io](http://cryptodesign.io/portfolio/sovrin-stewards/)"
 permalink: organizations/sovrin/
 canonical_url: 'https://decentralized-id.com/organizations/sovrin/'

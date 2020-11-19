@@ -10,8 +10,8 @@ canonical_url: 'https://decentralized-id.com/web-standards/w3c/'
 categories: ["Web Standards","History"]
 tags: ["W3C","Credentials Community Group","JSON-LD","WebAuthN","DID","Verifiable Credentials"]
 header:
-  image: /images/w3c_banner.png
-  teaser: /images/w3c_teaser.png
+  image: /images/w3c_banner.webp
+  teaser: /images/w3c_teaser.webp
 last_modified_at: 2020-11-09
 ---
 

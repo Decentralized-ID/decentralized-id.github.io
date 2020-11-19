@@ -6,7 +6,7 @@ excerpt: "List of posts from IIW #31"
 permalink: iiw/
 toc: false
 header:
-  image: /images/DecentralizeID_Twitter.png
+  image: /images/DecentralizeID_Twitter.webp
   caption: "[@DecentralizeID](https://twitter.com/DecentralizeID)"
 classes: wide
 published: false

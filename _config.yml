@@ -24,8 +24,8 @@ url                      : "https://decentralized-id.com"
 baseurl                  : ""
 repository               : "Decentralized-ID/decentralized-id.github.io"
 github                   : [metadata]
-teaser                   : /images/did-square.png
-logo                     : "https://decentralized-id.com/images/DID.png"
+teaser                   : /images/did-square.webp
+logo                     : "/images/DID.webp"
 masthead_title           : "Decentralized-ID Curated"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -83,7 +83,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : https://decentralized-id.com/images/did-twitter.png
+og_image                 : /images/did-twitter.webp
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "DIDecentral"
-  avatar           : /images/did-square.png
+  avatar           : /images/did-square.webp
   bio              : "Collaborative Curation, Community Research Initiative"
   location         : "Curating the Web"
   links:
@@ -290,10 +290,10 @@ defaults:
       type: pages
     values:
       header:
-        image: /images/digital_geralt-93001_thin.jpg
+        image: /images/digital_geralt-93001_thin.webp
       sidebar:
         - title: "Identity Decentralized"
-          image: "/images/DID_ban.png"
+          image: "/images/DID_ban.webp"
           image_alt: "regulation-gdpr-data-protection-3246979"
           nav: "didnav"
       layout: single
@@ -311,13 +311,13 @@ defaults:
     values:
       sidebar:
         - title: "Identity Decentralized"
-          image: "/images/DID_ban.png"
+          image: "/images/DID_ban.webp"
           image_alt: "Decentralized-ID.com Sidebar"
           nav: "didnav"
       layout: single
       author_profile: false
       header:
-        image: /images/digital_geralt-93001_thin.jpg
+        image: /images/digital_geralt-93001_thin.webp
       read_time: true
       comments: true
       share: true

@@ -9,9 +9,9 @@ permalink: /decentralized-web/scuttlebot/
 categories: ["Decentralized Web"]
 tags: ["Scuttlebot", "P2P"]
 header: 
-  image: /images/scuttlebutt-header.png
+  image: /images/scuttlebutt-header.webp
   caption: "[In the Mesh: Scuttlebutt, A Decentralized Social Platform](https://www.inthemesh.com/archive/secure-scuttlebutt-facebook-alternative/)"
-  teaser: /images/scuttlebot.png
+  teaser: /images/scuttlebot.webp
 last_modified_at: 2020-01-09
 ---
 

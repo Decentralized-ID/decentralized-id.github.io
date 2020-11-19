@@ -17,8 +17,8 @@ categories: ["Hyperledger Foundation"]
 tags: ["Hyperledger Forum","Indy","Fabric","Aries","Evernym","Sovrin Foundation","Ethereum Enterprise Alliance","Linux Foundation","Ursa"]
 last_modified_at: 2020-11-18
 header:
-  image: /images/hyperledger_header.png
-  teaser: /images/hyperledger-teaser.png
+  image: /images/hyperledger_header.webp
+  teaser: /images/hyperledger-teaser.webp
 ---
 
 * [An Introduction to Hyperledger](https://www.hyperledger.org/wp-content/uploads/2018/07/HL_Whitepaper_IntroductiontoHyperledger.pdf)

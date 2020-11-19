@@ -7,8 +7,8 @@ excerpt: >
 layout: single
 classes: wide
 header:
-  image: /images/handshake-header.png
-  teaser: /images/handshake_teaser.png
+  image: /images/handshake-header.webp
+  teaser: /images/handshake_teaser.webp
 categories: ['Blockchain']
 tags: ['DNS',"Handshake"]
 permalink: blockchain/handshake/

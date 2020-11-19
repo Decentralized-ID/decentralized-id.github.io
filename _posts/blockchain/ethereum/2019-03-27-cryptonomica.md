@@ -8,9 +8,9 @@ layout: single
 classes: wide
 toc: false
 header:
-  image: /images/cryptonomica-header.png
+  image: /images/cryptonomica-header.webp
   caption: "[cryptonomica.net](https://cryptonomica.net)"
-  teaser: /images/cryptonomica-teaser.png
+  teaser: /images/cryptonomica-teaser.webp
 permalink: /blockchain/ethereum/cryptonomica/
 canonical_url: 'https://decentralized-id.com/blockchain/ethereum/cryptonomica/'
 redirect_from: 

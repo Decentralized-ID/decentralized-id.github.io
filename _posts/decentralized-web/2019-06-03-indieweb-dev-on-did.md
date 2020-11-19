@@ -12,8 +12,8 @@ tags: ["P2P", "IndieAuth", "IndieWeb","Rebooting WoT", "IIW", "DID"]
 permalink: /decentralized-web/indieweb-on-did/
 redirect_from: /specs-standards/indieweb-dev-on-did/
 header:
-  image: /images/indieweb-header.png
-  teaser: /images/indieweb-icon_31635_white.png
+  image: /images/indieweb-header.webp
+  teaser: /images/indieweb-icon_31635_white.webp
 last_modified_at: 2019-06-03
 ---
 
