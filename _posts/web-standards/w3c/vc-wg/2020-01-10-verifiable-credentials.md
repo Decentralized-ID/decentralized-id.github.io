@@ -10,7 +10,7 @@ redirect_from:
 last_modified_at: 2020-01-10
 ---
 
-[![IIW26 Primer On DIDs and VCs](/images/iiw-verifiable-credentials.png)](https://docs.google.com/presentation/d/1GMQy4rI093c_9zojwLRgp2r-fTscpDUSfX-wqwBk4j4/edit#slide=id.g3605fe1474_2_0)
+[![IIW26 Primer On DIDs and VCs]({{ site.baseurl }}/images/iiw-verifiable-credentials.png)](https://docs.google.com/presentation/d/1GMQy4rI093c_9zojwLRgp2r-fTscpDUSfX-wqwBk4j4/edit#slide=id.g3605fe1474_2_0)
   > A new type of globally resolvable, cryptographically-verifiable identifier, registered directly on a distributed ledger (aka Blockchain)
 
 * [A Gentle Introduction to Verifiable Credentials](https://www.evernym.com/blog/gentle-introduction-verifiable-credentials/)

@@ -37,7 +37,7 @@ last_modified_at:  2020-01-07
   > 
   > Blockcerts uses and encourages consolidation on open standards. Blockcerts is committed to self-sovereign identity of all participants, and enabling recipient control of their claims through easy-to-use tools such as the certificate wallet (mobile app). Blockcerts is also committed to availability of credentials, without single points of failure.
 
-![](/images/blockcerts.png)
+![]({{ site.baseurl }}images/blockcerts.png)
 
 * [Academic Credentialing and the Blockchain](https://www.learningmachine.com/academic-credentialing-blockchain/)
 * [Blockcerts — An Open Infrastructure for Academic Credentials on the Blockchain](https://medium.com/mit-media-lab/blockcerts-an-open-infrastructure-for-academic-credentials-on-the-blockchain-899a6b880b2f)
@@ -51,7 +51,7 @@ last_modified_at:  2020-01-07
   > ...
   > In response to the desire for high-stakes credentials in a digital format, the development of Blockcerts began in 2015 as part of a project by the MIT Media Lab.
 
-![](/images/blockcerts.jpg)
+![]({{ site.baseurl }}images/blockcerts.jpg)
 
 ## Literature
 

@@ -51,6 +51,6 @@ I think I've arranged all of the identity related talks in the previous section,
 
 For my own convinience, and for anyone else who would like to browse the text, I've worked on the transcripts a bit to make the content easier to reference. 
 
-* [Microledgers and Edge-Chains - Daniel Hardman - Evernym](/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/)
-* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy](/hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF/)
+* [Microledgers and Edge-Chains - Daniel Hardman - Evernym]({{ site.baseurl }}/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/)
+* [Verifiable Organizations Network: A Production Government Deployment of Hyperledger Indy]({{ site.baseurl }}/hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF/)
 

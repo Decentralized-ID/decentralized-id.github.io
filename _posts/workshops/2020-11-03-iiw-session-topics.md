@@ -46,11 +46,11 @@ Fall: October 01, 2019 – October 03, 2019
 
 <!--## IIW 31
 
-![](/images/IIW-XXXI.png)-->
+![]({{ site.baseurl }}images/IIW-XXXI.png)-->
 
 ## IIW 30 2020
 
-![](/images/IIW-XXX.png)
+![]({{ site.baseurl }}images/IIW-XXX.png)
 
 - [Proceedings of the 30th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIW_30_Book_of_Proceedings.pdf)
 
@@ -266,7 +266,7 @@ Fall: October 01, 2019 – October 03, 2019
 
 ## IIW 29 2019b
 
-![](/images/IIW-XXIX.png)
+![]({{ site.baseurl }}images/IIW-XXIX.png)
 
 - [Proceedings of the 29th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXIX_Book_of_Proceedings_2019B_29.pdf)
 
@@ -436,7 +436,7 @@ Help Most, How & Why](https://iiw.idcommons.net/Identity_for_All_%E2%80%93_Refug
 
 ## [IIW 28 2019](https://iiw.idcommons.net/IIW_28_Session_Notes)
 
-![](/images/IIW-XXVIII.png)
+![]({{ site.baseurl }}images/IIW-XXVIII.png)
 
 - [Proceedings of the 28th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXVIII_Book_of_Proceedings_2019A.pdf)
 
@@ -627,7 +627,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 27 2018b](https://iiw.idcommons.net/IIW_27_Session_Notes)
 
-![](/images/IIW-XXVII.png)
+![]({{ site.baseurl }}images/IIW-XXVII.png)
 
 - [Proceedings of the 27th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXVII_Book_of_Proceedings_27.pdf)
 
@@ -802,7 +802,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 26 2018](https://iiw.idcommons.net/IIW_26_Session_Notes)
 
-![](/images/IIW-XXVI.png)
+![]({{ site.baseurl }}images/IIW-XXVI.png)
 
 - [Proceedings of the 26th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXVI_Book_of_Proceedings.pdf)
 
@@ -982,7 +982,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 25 2017b](https://iiw.idcommons.net/IIW_25_Session_Notes)
 
-![](/images/IIW-XXV.png)
+![]({{ site.baseurl }}images/IIW-XXV.png)
 
 - [Proceedings of the 25th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXV_Book_of_Proceedings.pdf)
 
@@ -1136,7 +1136,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 24 2017](https://iiw.idcommons.net/IIW_24_Session_Notes)
 
-![](/images/IIW-XXIV.png)
+![]({{ site.baseurl }}images/IIW-XXIV.png)
 
 - [Proceedings of the 24th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXIV_Book_of_Proceedings.pdf)
 
@@ -1285,7 +1285,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 23 2016b](https://iiw.idcommons.net/IIW_23_Notes)
 
-![](/images/IIW-XXIII.png)
+![]({{ site.baseurl }}images/IIW-XXIII.png)
 
 - [Proceedings of the 23rd Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXIII_Book_of_Proceedings.pdf)
 
@@ -1429,7 +1429,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 22 2016](https://iiw.idcommons.net/IIW_22_Notes)
 
-![](/images/IIW-XXII.png)
+![]({{ site.baseurl }}images/IIW-XXII.png)
 
 - [Proceedings of the 22nd Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXII_Book_of_Proceedings.pdf)
 
@@ -1573,7 +1573,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 21 2015b](https://iiw.idcommons.net/IIW_21_Notes)
 
-![](/images/IIW-XXI.png)
+![]({{ site.baseurl }}images/IIW-XXI.png)
 
 - [Proceedings of the 21st Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXXI_Book_of_Proceedings.pdf)
 
@@ -1719,7 +1719,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 20 2015](https://iiw.idcommons.net/IIW_20_Notes)
 
-![](/images/IIW-XX.png)
+![]({{ site.baseurl }}images/IIW-XX.png)
 
 - [Proceedings of the 20th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXX_Book_of_Proceedings.pdf)
 
@@ -1860,7 +1860,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 19 2014b](https://iiw.idcommons.net/IIW_19_Notes)
 
-![](/images/IIW-XIX.png)
+![]({{ site.baseurl }}images/IIW-XIX.png)
 
 - [Proceedings of the 19th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXIX_Book_of_Proceedings.pdf)
 
@@ -2005,7 +2005,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 18 2014](https://iiw.idcommons.net/IIW_18_Notes)
 
-![](/images/IIW-XVIII.png)
+![]({{ site.baseurl }}images/IIW-XVIII.png)
 
 - [Proceedings of the 18th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXVIII_Book_of_Proceedings.pdf)
 
@@ -2156,7 +2156,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 17 2013b](https://iiw.idcommons.net/IIW_17_Notes)
 
-![](/images/IIW-XVII.png)
+![]({{ site.baseurl }}images/IIW-XVII.png)
 
 - [Proceedings of the 17th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXVII_Book_of_Proceedings.pdf)
 
@@ -2295,7 +2295,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 16 2013](https://iiw.idcommons.net/IIW_16_Notes)
 
-![](/images/IIW-XVI.png)
+![]({{ site.baseurl }}images/IIW-XVI.png)
 
 - [Proceedings of the 16th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXVI_Book_of_Proceedings.pdf)
 
@@ -2459,7 +2459,7 @@ practices of Museums & Archives.](https://iiw.idcommons.net/A_Process_for_Discov
 
 ## [IIW 15 2012b](https://iiw.idcommons.net/IIW_15_Notes)
 
-![](/images/IIW-XV.png)
+![]({{ site.baseurl }}images/IIW-XV.png)
 
 - [Proceedings of the 15th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXV_Book_of_Proceedings.pdf)
 
@@ -2611,7 +2611,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW 14 2012](https://iiw.idcommons.net/IIW_14_Notes)
 
-![](/images/IIW-XIV.png)
+![]({{ site.baseurl }}images/IIW-XIV.png)
 
 - [Proceedings of the 14th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXIV_Book_of_Proceedings.pdf)
 
@@ -2762,7 +2762,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW 13 2011b](https://iiw.idcommons.net/IIW_13_Notes)
 
-![](/images/IIW-XIII.png)
+![]({{ site.baseurl }}images/IIW-XIII.png)
 
 - [Proceedings of the 13th Internet Identity Workshop](https://iiw.idcommons.net/images/1/13/IIW13_BOP_PDF.pdf)
 
@@ -2959,7 +2959,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW 12 2011](https://iiw.idcommons.net/IIW_12_Notes)
 
-![](/images/IIW-XII.png)
+![]({{ site.baseurl }}images/IIW-XII.png)
 
 - [Proceedings of the 12th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXII_Book_of_Proceedings.pdf)
 
@@ -3129,7 +3129,7 @@ W5F: KRL – XDI Integration
 
 ## [ID Collab Day](https://iiw.idcommons.net/IDCollab_Day_Notes)
 
-![](/images/ID-Collab-Day.png)
+![]({{ site.baseurl }}images/ID-Collab-Day.png)
 
 [**ID Collaboration Day Book of Proceedings**](https://iiw.idcommons.net/File:ID_Collaboration_Day_Book_of_Proceedings.pdf)
 
@@ -3158,7 +3158,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW 11 2010b](http://iiw.idcommons.net/iiw11)
 
-![](/images/IIW-XI.png)
+![]({{ site.baseurl }}images/IIW-XI.png)
 
 - [Proceedings of the 11th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWXI_Book_of_Proceedings.pdf)
 
@@ -3284,7 +3284,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW Europe](https://iiw.idcommons.net/Iiw-europe-1)
 
-![](/images/IIW-Europe.png)
+![]({{ site.baseurl }}images/IIW-Europe.png)
 
 **Session 1**
 
@@ -3331,7 +3331,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW EAST](https://iiw.idcommons.net/Iiw-east-1)
 
-![](/images/IIW-East.png)
+![]({{ site.baseurl }}images/IIW-East.png)
 
 **_THURSDAY_**
 
@@ -3409,7 +3409,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW 10 2010](https://iiw.idcommons.net/Iiw10)
 
-![](/images/IIW-X.png)
+![]({{ site.baseurl }}images/IIW-X.png)
 
 - [Proceedings of the 10th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIW_10_Book_of_Proceedings.pdf)
 
@@ -3557,7 +3557,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW 9 2009b](https://iiw.idcommons.net/Notes_iiw9)
 
-![](/images/IIW-IX.png)
+![]({{ site.baseurl }}images/IIW-IX.png)
 
 - [Proceedings of the 9th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIW_9_Book%20of%20Proceedings.pdf)
 
@@ -3672,7 +3672,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW 8 2009](https://iiw.idcommons.net/Notes_iiw8)
 
-![](/images/IIW-VIII.png)
+![]({{ site.baseurl }}images/IIW-VIII.png)
 
 - [Proceedings of the 8th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWVIII_Book_of_Proceedings.pdf)
 
@@ -3791,7 +3791,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW 7 2008b](https://iiw.idcommons.net/Iiw2008b)
 
-![](/images/IIW-VII.png)
+![]({{ site.baseurl }}images/IIW-VII.png)
 
 - [Proceedings of the 7th Internet Identity Workshop](https://github.com/windley/IIW_homepage/raw/gh-pages/assets/proceedings/IIWVII_Book_of_Proceedings.pdf)
 
@@ -3939,7 +3939,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW 6 2008a](https://iiw.idcommons.net/Notes_2008a)
 
-![](/images/IIW-VI.png)
+![]({{ site.baseurl }}images/IIW-VI.png)
 
 - [Creating an InfoCard IdP in 30min](https://iiw.idcommons.net/Creating_an_InfoCard_IdP_in_30min) Daniel Sanders
 - [Tracking stuff I've Done](https://iiw.idcommons.net/Tracking_stuff_I%27ve_Done) Killer OpenID app?, Dick
@@ -3972,7 +3972,7 @@ W5F: KRL – XDI Integration
    
 ## [IIW 5 2007b](https://iiw.idcommons.net/index.php/Iiw2007b)
 
-![](/images/IIW-V.png)
+![]({{ site.baseurl }}images/IIW-V.png)
 
 * Concordia 
 * XRDSP (XRDS Provisioning protocol) (10-15)
@@ -4039,7 +4039,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW 4 2007a](http://web.archive.org/web/20090210172350/http://iiw.windley.com/wiki/Workshop_2007)
 
-![](/images/IIW-IV.png)
+![]({{ site.baseurl }}images/IIW-IV.png)
 
 - [What's Ahead for OpenID](http://web.archive.org/web/20090210172350/http://iiw.windley.com/wiki?title=Next6MonthsForOpenID&action=edit)
 - [SimplePermissions: Delegation via OpenID](http://web.archive.org/web/20090210172350/http://iiw.windley.com/wiki/SimplePermissions)
@@ -4057,7 +4057,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW 3 2006b](http://web.archive.org/web/20070126064639/http://iiw.windley.com/wiki/Workshop2006b)
 
-![](/images/IIW-III.png)
+![]({{ site.baseurl }}images/IIW-III.png)
 
 - Welcome: Kaliya Hamlin and Phil Windley
 - Landscape Map: Kaliya Hamlin and Mike Ozburn
@@ -4087,7 +4087,7 @@ W5F: KRL – XDI Integration
 
 ## [IIW 1 2005](http://web.archive.org/web/20070809183242/http://www.socialtext.net/iiw2005/index.cgi?internet_identity_workshop_2005)
 
-![](/images/IIW-I.png)
+![]({{ site.baseurl }}images/IIW-I.png)
 
 - Identity in the Marketplace: The Rise of the Fully Empowered Customer - Doc Searls 
 - [Use Cases for the Social Web](http://web.archive.org/web/20070809183242/http://www.socialtext.net/iiw2005/index.cgi?use_cases_for_the_social_web) - Mary Ruddy, SocialPhysics 

@@ -231,7 +231,7 @@ In advance of each workshop, all participants produce a one-or-two page topic pa
 
 The workshop itself also produces technical whitepapers, this Repository holds a record of the progression of thought in SSI, since November, 2015.
 
-* [One Page List of Rebooting WoT Literature](/literature/rebooting-web-of-trust/) 
+* [One Page List of Rebooting WoT Literature]({{ site.baseurl }}/literature/rebooting-web-of-trust/) 
 * [WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity) - Articles and documents associated with designing and implementing identity technology using self-sovereign identity principles
 * [WebOfTrustInfo/website](https://github.com/WebOfTrustInfo/website) - Website for http://www.WebOfTrust.info
 * [WebOfTrustInfo/community-resilience](https://github.com/WebOfTrustInfo/community-resilience) - Rebooting Web of Trust Community Resilience Team

@@ -31,7 +31,7 @@ That October, [Joe Andrieu](https://github.com/jandrieu) submitted [A Technology
 
 I decided to put the **10 Principles of SSI** up next to Joe Andrieu's **Characteristics of SSI** 
 
-* [SSI Principles vs. Characteristics](/literature/self-sovereign-identity/ssi-principles-vs-characteristics/)
+* [SSI Principles vs. Characteristics]({{ site.baseurl }}/literature/self-sovereign-identity/ssi-principles-vs-characteristics/)
 
 Which should also be considered against:
 

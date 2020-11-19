@@ -112,4 +112,4 @@ I think these ideas are worth examining further. Perhaps a continuing with a com
 * [Self-Sovereign Bill of Rights](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-bill-of-rights.md)
 * [Schutte's Take](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/Schutte-on-SSI.md) offers criticism on the 10 principles.
 
-More on that : [Evolution of SSI](/literature/self-sovereign-identity/evolution-of-ssi/)
+More on that : [Evolution of SSI]({{ site.baseurl }}/literature/self-sovereign-identity/evolution-of-ssi/)
