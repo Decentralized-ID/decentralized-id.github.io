@@ -294,7 +294,7 @@ baseurl                  : ""
 repository               : "Decentralized-ID/decentralized-id.github.io"
 github                   : [metadata]
 teaser                   : /images/didecentral-tw.png
-logo                     : "https://decentralized-id.com/images/DID.png"
+logo                     : "/images/DID.webp"
 masthead_title           : "Identity Decentralized"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -320,12 +320,12 @@ twitter:
   username               : "infominer33"
   site: "didecentral"
 #  description            : "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
-#  image                  : "https://decentralized-id.com/images/IDecentralized.png"
+#  image                  : "/images/IDecentralized.webp"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : https://decentralized-id.com/images/didecentral-tw.png
+og_image                 : /images/didecentral-tw.webp
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

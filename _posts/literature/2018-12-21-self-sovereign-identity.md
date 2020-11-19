@@ -5,7 +5,7 @@ excerpt: >
 
   Considerable additional material has been created on the subject since then, including some helpful criticism on the principles. Some of initial thoughts have been organized in evolution-of-ssi.
 description : Literature associated with the Fundamentals of Self-Sovereign Identity.
-image       : "https://decentralized-id.com/images/sovereign-identity.png"
+image       : "/images/sovereign-identity.webp"
 permalink: /literature/self-sovereign-identity/
 canonical_url: 'https://decentralized-id.com/literature/self-sovereign-identity/'
 redirect_from: 
@@ -16,7 +16,7 @@ tags: ["Self Sovereign Identity","Laws of Identity"]
 last_modified_at: 2020-11-02
 ---
 
-<center><img src="https://decentralized-id.com/images/sovereign-id-wide.png"/></center>
+<center><img src="{{ site.baseurl }}/images/sovereign-id-wide.webp"/></center>
 
 This directory was born from [WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity), *the original* SSI repository. 
 
