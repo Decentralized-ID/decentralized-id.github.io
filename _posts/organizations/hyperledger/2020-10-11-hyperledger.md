@@ -9,8 +9,10 @@ excerpt: >
 layout: single
 classes: wide
 toc: false
-permalink: organizations/hyperledger/
-canonical_url: 'https://decentralized-id.com/organizations/hyperledger/'
+permalink: blockchain/hyperledger/
+redirect_from:
+  - organizations/hyperledger/
+canonical_url: 'https://decentralized-id.com/blockchain/hyperledger/'
 categories: ["Hyperledger Foundation"]
 tags: ["Hyperledger Forum","Indy","Fabric","Aries","Evernym","Sovrin Foundation","Ethereum Enterprise Alliance","Linux Foundation","Ursa"]
 last_modified_at: 2020-11-18
