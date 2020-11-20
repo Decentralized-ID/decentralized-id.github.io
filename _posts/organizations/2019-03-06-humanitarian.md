@@ -2,7 +2,6 @@
 title: Humanitarian 
 layout: single
 excerpt: Assorted Humanitarian Organizations
-classes: wide
 toc: false
 permalink: /organizations/humanitarian/
 redirect_from: 

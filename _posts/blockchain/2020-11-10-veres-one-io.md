@@ -7,7 +7,6 @@ header:
   image: /images/veres-one-header.webp
   teaser: /images/veres_one-teaser.webp
 layout: single
-classes: wide
 permalink: /blockchain/veres-one/
 categories: ["Blockchain"]
 tags: ["Veres One","Verifiable Credentials","DID","Digital Bazaar","Veres One Community Group","Blockchain"]

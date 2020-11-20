@@ -1,7 +1,6 @@
 ---
 title: Spidchain
 layout: single
-classes: wide
 toc: false
 permalink: id-initiatives/spid-chain/
 canonical_url: 'https://decentralized-id.com/id-initiatives/spid-chain/'

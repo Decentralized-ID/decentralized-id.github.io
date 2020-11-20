@@ -5,7 +5,6 @@ description: Handshake is public blockchain that will serve as a global list of 
 excerpt: >
     Handshake is a UTXO-based blockchain protocol which manages the registration, renewal and transfer of DNS top-level domains (TLDs). Our naming protocol differs from its predecessors in that it has no concept of namespacing or subdomains at the consensus layer. Its purpose is not to replace DNS, but to replace the root zone file and the root servers.
 layout: single
-classes: wide
 header:
   image: /images/handshake-header.webp
   teaser: /images/handshake_teaser.webp

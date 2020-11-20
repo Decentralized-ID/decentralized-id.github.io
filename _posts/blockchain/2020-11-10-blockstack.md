@@ -5,7 +5,6 @@ description: Blockstack is an open-source and developer-friendly network for bui
 excerpt: >
   Blockstack builds an alternate DNS and alternate public-key infrastructure. It's the first implementation of a decentralized DNS system on top of the Bitcoin blockchain It combines DNS functionality with public key infrastructure and is primarily meant to be used by new blockchain applications.
 layout: single
-classes: wide
 header:
   image: /images/blockstack_header.webp
   teaser: /images/blockstack_teaser.webp

@@ -290,7 +290,7 @@ defaults:
       type: pages
     values:
       header:
-        image: /images/digital_geralt-93001_thin.webp
+        image: /images/binary-2910663_geralt.webp
       sidebar:
         - title: "Identity Decentralized"
           image: "/images/DID_ban.webp"
@@ -299,6 +299,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
+      classes: wide
       comments: # true
       share: true
       related: true
@@ -317,7 +318,7 @@ defaults:
       layout: single
       author_profile: false
       header:
-        image: /images/digital_geralt-93001_thin.webp
+        image: /images/binary-2910663_geralt.webp
       read_time: true
       comments: true
       share: true

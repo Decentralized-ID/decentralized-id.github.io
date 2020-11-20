@@ -13,7 +13,6 @@ author_profile: false
 categories: ["Literature"]
 tags: ["Indy","Transcripts","Hyperledger Forum","Evernym"]
 published: true
-classes: wide
 last_modified_at: 2019-12-11
 ---
 

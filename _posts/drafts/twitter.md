@@ -8,7 +8,6 @@ toc: false
 header:
   image: /images/DecentralizeID_Twitter.webp
   caption: "[@DecentralizeID](https://twitter.com/DecentralizeID)"
-classes: wide
 published: false
 
 ---

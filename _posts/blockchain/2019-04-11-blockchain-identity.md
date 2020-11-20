@@ -8,7 +8,6 @@ header:
   caption: "[NIST Cybersecurity (DRAFT) Blockchain Identity Management Approaches](https://arxiv.org/pdf/1908.00929.pdf)" 
   teaser: /images/blockchain-Tumisu_3019121.webp
 layout: single
-classes: wide
 permalink: /blockchain/
 categories: ["Blockchain","Literature"]
 tags: ["Blockchain"]

@@ -5,7 +5,6 @@ description: A start at examining leading thought around SSI since 2016, and pre
 excerpt: >
   In order to stimulate the discussion, I've been going through a infominer33/self-sovereign-identity and organizing some thoughts on SSI since Christopher's 2016 post. There are a few different ways to approach and describe SSI. What I aim to do is come up with a list of different "SSI Cases" to modularize the treatment of the subject. This will allow each to contribute in the way that makes most sense for themselves, rather than trying to discuss SSI as a whole in a single whitepaper.
 layout: single
-classes: wide
 toc: false
 redirect_from: 
   - /literature/self-sovereign-identity/evolution-of-ssi

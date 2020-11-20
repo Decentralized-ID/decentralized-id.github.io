@@ -6,7 +6,6 @@ excerpt: >
   
   It gets a lot right, but leaves a few requirements out, e.g., recoverability and zero cost, and conflates “identities” and claims in an ambiguous manner. Chris clearly intended the paper would start the conversation; it has done a good job at that.'
 layout: single
-classes: wide
 toc: false
 permalink: /literature/self-sovereign-identity/ssi-principles-vs-characteristics/
 canonical_url: 'https://decentralized-id.com/literature/self-sovereign-identity/ssi-principles-vs-characteristics/'

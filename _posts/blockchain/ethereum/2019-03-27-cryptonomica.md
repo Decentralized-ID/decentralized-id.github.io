@@ -5,7 +5,6 @@ description: Cryptonomica.net is an identity verification service based on OpenP
 excerpt: >
   We make verification of key owner's identity and store data about this verification: who, when, using which document made verification. And unlike in 'Web of trust' there is an established procedure for key verification, i.e. known rules according to witch identity of the key owner have to be proven.
 layout: single
-classes: wide
 toc: false
 header:
   image: /images/cryptonomica-header.webp

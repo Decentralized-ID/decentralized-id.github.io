@@ -7,7 +7,6 @@ redirect_from:
   - values
   - values/
 toc: false
-classes: wide
 ---
 
 Decentralized-id.com is a collaborative, participatory learning community oriented that strives to support the elaboration and adoption of a self-sovereign identity layer for the internet. This is a labor of love and a work in progress. Certain values undergird those who share in this work. Our Aim:

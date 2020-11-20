@@ -12,7 +12,6 @@ excerpt: >
   
   You then use this identification number, along with your identity claims, and get attestations from relevant authorities.
 layout: single
-classes: wide
 toc: false
 permalink: /literature/self-sovereign-identity/user-experience/
 canonical_url: 'https://bitsonblocks.net/2017/05/17/gentle-introduction-self-sovereign-identity/'
