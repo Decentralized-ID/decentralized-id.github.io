@@ -3,10 +3,7 @@ title: "What is Decentralized Identity? and Digital ID Fundamentals."
 permalink: /getting-started/
 toc: false
 last_modified_at: 2020-11-02
-
 ---
-
-<center><img src="https://i.imgur.com/9KpJRDr.png"/></center>
 
 <h2>What is Decentralized ID?</h2>
 
@@ -24,6 +21,8 @@ It's impossible to have a conversation about decentralized-id without discussing
   <li>Collectively arrived at solutions are trending towards congruence with the spirit of innovation, privacy concerns, and compliance within the evolving global regulatory landscape.</li>
 </ul>
 
+<center><img src="https://i.imgur.com/9KpJRDr.png"/></center>
+
 <h2>Getting Started with Decentralized ID</h2>
 
 <ul>
@@ -38,8 +37,6 @@ It's impossible to have a conversation about decentralized-id without discussing
 <div class="side">
   <a class="twitter-timeline" data-width="350" data-link-color="#1DA1F2" data-dnt="true" data-border-color="#657786" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" data-link-color="#1DA1F2" data-border-color="#657786" dir="ltr">The evolution of online identity:<br><br>1. Siloed Identity: All services hold your data.<br><br>2. Federated Identity: Brokers hold your data.<br><br>3. Self-Sovereign Identity: You hold your data.</p>&mdash; Tykn (@Tykn_tech) <a href="https://twitter.com/Tykn_tech/status/1321108291305558016?ref_src=twsrc%5Etfw">October 27, 2020</a></blockquote>
 
 <ul>
   <li><a href="https://github.com/ChristopherA/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md">The Path to Self-Sovereign Identity</a></li>
@@ -116,4 +113,4 @@ If you're looking to freshen up on your digital identity fundamentals, the follo
 
 <h3>Next – History</h3>
 
-<em>Check out our <a href="https://decentralized-id.com/history">history section for additional background info</a> on the decades-long quest for decentralized identity.</em>
+<em>Check out our history section for some background on <a href="https://decentralized-id.com/history">the decades-long quest for decentralized identity</a>.</em>
