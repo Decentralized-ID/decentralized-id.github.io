@@ -20,8 +20,10 @@ last_modified_at: 2019-12-11
 
 [Evernym](https://evernym.com)’s Chief Architect [Daniel Hardman](https://www.evernym.com/team/daniel-hardman/) takes the Hyperledger community through Evernym’s work on Microledgers and Edge-Chains Architecture. Attendees will gain insight into the theory, applications and evolution in Hyperledger Indy along with a practical discussion of their potential.
 
-<img src="https://i.imgur.com/H5ijP94.png"/>\
-<sup><a href="https://www.youtube.com/watch?v=iK5vd7-b1zA&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=100">Youtube: Hyperledger Global Forum- Microledgers and Edge-Chains: A Primer- Daniel Hardman, Evernym</a></sup>
+
+{% include video id="iK5vd7-b1zA" provider="youtube" %}
+
+[Hyperledger Global Forum - 2018 Playlist](https://www.youtube.com/playlist?list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP)
 
 * [Daniel Hardman, Chief Architect - Evernym](https://hgf18.sched.com/event/G8sN/microledgers-and-edge-chains-a-primer-daniel-hardman-evernym)
   > Daniel Hardman has a quarter century of experience in enterprise software. As a technical director or chief architect, he’s led engineering teams at small startups, an incubator, and a continent-spanning business unit at a Fortune 500 company. He founded a dot com a few years back, serving as CEO and later CTO before selling the business. Daniel designed and personally coded complex scheduling software that runs the biggest supercomputers on the planet. He also worked on big data systems that use natural language processing and machine learning/AI to impute reputation to the entire observable internet. He is a member of Infraguard, has training in cybersecurity, and has spoken at industry conferences such as RSA. Daniel has an MBA plus a master’s degree in computational linguistics. He holds numerous patents and is a prolific blogger.

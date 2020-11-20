@@ -52,7 +52,7 @@ last_modified_at: 2019-06-03
 
 #### IndieAuth
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EeCNlB7v08I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="EeCNlB7v08I" provider="youtube" %}
 
 * [indieauth.spec.indieweb.org](https://indieauth.spec.indieweb.org)  
   * IndieAuth is an identity layer on top of OAuth 2.0 [RFC6749], primarily used to obtain an OAuth 2.0 Bearer Token [RFC6750] for use by [Micropub] clients. End-Users and Clients are all represented by URLs. IndieAuth enables Clients to verify the identity of an End-User, as well as to obtain an access token that can be used to access resources under the control of the End-User.  

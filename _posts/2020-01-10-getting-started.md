@@ -55,7 +55,7 @@ It's impossible to have a conversation about decentralized-id without discussing
     - Providing a mechanism for users to securely store sensitive identity data, and enabling them to precisely control what is shared with others.</blockquote>
 </ul>
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/DaM0UtQTLCs' frameborder='0' allowfullscreen></iframe></div>
+{% include video id="DaM0UtQTLCs" provider="youtube" %}
 
 <h2>More on Decentralized | Self Sovereign Identity</h2>
 

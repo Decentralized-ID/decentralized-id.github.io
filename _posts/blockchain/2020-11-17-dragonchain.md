@@ -35,7 +35,7 @@ On Dragonchain, the proof is decentralized, not the data. All transactions are v
 
 On Factor/MyFii DID, the identity factors are decentralized to the individual owners. Individual users hold their own identity information in granular form as “factors”. Factors can be any data attributed to an individual and can be based on verifications by one or more external 3rd parties, or they can be self-declared/self-certified. These factors can then be provided to other parties needing identity verification. These factors can also be held within smart contracts with controlled and metered access.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_6Mzv1CPMXQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="_6Mzv1CPMXQ" provider="youtube" %}
 
 ### Compatibility with W3C standards?
 

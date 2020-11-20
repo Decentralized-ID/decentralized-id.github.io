@@ -41,8 +41,7 @@ Spring: April 30, 2019 – May 2, 2019
 Fall: October 01, 2019 – October 03, 2019
 </blockquote>
 
-<iframe src="https://player.vimeo.com/video/173562225" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/173562225">What is IIW?</a> from <a href="https://vimeo.com/windley">Phil Windley</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+{% include video id="173562225" provider="vimeo" %}
 
 <!--## IIW 31
 
