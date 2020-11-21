@@ -8,13 +8,9 @@ main:
     url: "/tags/"
   - title: "Our Aim"
     url: "/aim/"
-  - title: "identitywoman/identity-commons"
-    url: "https://github.com/identitywoman/identity-commons"
-  - title: "Decentralized Web - History"
-    url: "https://sourcecrypto.pub/decentralized-web/"
 
 didnav:
-  - title: "Navigation"
+  - title: "Home"
     url: "/"
     children:
       - title: "• Resources & Pre-History"
@@ -25,6 +21,31 @@ didnav:
         url: /history/2010-2014/
       - title: "• 2015-2019"
         url: /history/2015-2019/
+  - title: Web Standards
+    url: /web-standards/
+    children:
+      - title: "• W3C"
+        url: "/web-standards/w3c/"
+      - title: "• Verifiable Credentials"
+        url: "/web-standards/w3c/vc-wg/verifiable-credentials/"
+      - title: "• JSON-LD"
+        url: "/web-standards/linked-data/JSON-LD/"
+      - title: "• GS1"
+        url: "/web-standards/gs1/"
+      - title: "• Blockcerts"
+        url: "/web-standards/blockcerts/" 
+  - title: Workshops
+    children:
+      - title: "• IIW Session Topics"
+        url: "/workshops/internet-identity-workshop/"
+      - title: "• RWoT Papers Index"
+        url: "/literature/rebooting-web-of-trust/"
+  - title: Regulation
+    children:
+      - title: "• eIDAS"
+        url: "/government/europe/regulation/eidas/"
+      - title: "• GDPR"
+        url: "/government/europe/regulation/gdpr/"
   - title: ID Blog Aggregator
     url: https://identosphere.net
     children:
@@ -34,26 +55,8 @@ didnav:
         url: https://identosphere.net/blogcatcher/organizations
       - title: "• Companies Feed"
         url: https://identosphere.net/blogcatcher/companies
-  - title: Feature
-    children:
-      - title: "• Web Standards"
-        url: "/web-standards/"
-      - title: "•- JSON-LD"
-        url: "/web-standards/linked-data/JSON-LD/"
-      - title: "• GitHub Repositories"
-        url: "/code/github/"
-      - title: "• Literature"
-        url: "/literature/" 
-      - title: "•- RWoT Papers Index"
-        url: "/literature/rebooting-web-of-trust/"
-      - title: "• IIW Session Topics"
-        url: "/workshops/internet-identity-workshop/"
-  - title: Regulation
-    children:
-      - title: "• eIDAS"
-        url: "/government/europe/regulation/eidas/"
-      - title: "• GDPR"
-        url: "/government/europe/regulation/gdpr/"
+      - title: "• Weekly Tweet Collections"
+        url: /twitter/
   - title: Self-Sovereign Identity
     children:
       - title: "• SSI - Documentation Efforts"
@@ -71,6 +74,8 @@ didnav:
         url: "/organizations/identity-foundation/"
       - title: "• My Data"
         url: "/organizations/mydata/"
+      - title: "• Hyperledger Foundation"
+        url: "/blockchain/hyperledger/"
       - title: "• Sovrin Foundation"
         url: "/organizations/sovrin/"
       - title: "• SSI Meetup"
@@ -81,12 +86,6 @@ didnav:
     children:
       - title: "• Danube"
         url: "/companies/danube-tech/" 
-      - title: "• Blockchain"
-        url: "/blockchain/"
-      - title: "• Bitcoin"
-        url: "/blockchain/bitcoin/" 
-      - title: "• Blockcerts"
-        url: "/web-standards/blockcerts/" 
       - title: "• Ethereum"
         url: "/blockchain/ethereum/" 
       - title: "• uPort"
@@ -95,36 +94,34 @@ didnav:
         url: "/organizations/hyperledger/indy/"
       - title: "• VON"
         url: "/government/canada/von/" 
-      - title: "• IBM"
-        url: "/companies/ibm/"
       - title: "• Microsoft"
         url: "/companies/microsoft/"
   - title: "⧉InfoMine⧉"
     children:
       - title: "• Identosphere"
         url: "https://identosphere.net/"
-      - title: "• InfoHub"
-        url: "https://infominer.xyz/"
       - title: "• Bitcoin Histories"
         url: "https://bitcoinfo.xyz/history/"
+      - title: "• Decentralized Web Histories"
+        url: "https://sourcecrypto.pub/decentralized-web/"
       - title: "• Source⧉Crypto"
         url: "https://sourcecrypto.pub"
-      - title: "• Decentralized Web"
-        url: "https://sourcecrypto.pub/decentralized-web/"
       - title: "• Bitcoin Info"
         url: "https://bitcoinfo.xyz"
+      - title: "• InfoHub"
+        url: "https://infominer.xyz/"
 
 
 sovnav:
   - title: Indy Nav
     children:
-      - title: "• Index"
+      - title: "• Indy"
         description: Index of Resources Surrounding Hyperledger Indy, the Sovrin Foundation, and Evernym.
         url: /organizations/hyperledger/indy/
       - title: "• Adoption"
         description: Partnerships and Application of Evernym, Sovrin, and Indy.
         url: /organizations/hyperledger/indy/adoption/
-      - title: "• Indy Github" 
+      - title: "• Github" 
         description: GitHub Repositories Related to Hyperledger Indy.
         url: /organizations/hyperledger/indy/github/
       - title: "• Literature"
@@ -143,30 +140,42 @@ sovnav:
         url: /history/2010-2014/
       - title: "• 2015-2019"
         url: /history/2015-2019/
-  - title: Feature
+  - title: Web Standards
+    url: /web-standards/
     children:
-      - title: "• Web Standards"
-        url: "/web-standards/"
-      - title: " - JSON-LD"
-        url: "/web-standards/JSON-LD/"
-      - title: "• GitHub Repositories"
-        url: "/code/github/"
-      - title: " - Identity Commons on Github"
-        url: "https://github.com/identitywoman/identity-commons"
-      - title: "• Literature"
-        url: "/literature/" 
-      - title: " - RWoT - Papers Index"
+      - title: "• W3C"
+        url: "/web-standards/w3c/"
+      - title: "• Verifiable Credentials"
+        url: "/web-standards/w3c/vc-wg/verifiable-credentials/"
+      - title: "• JSON-LD"
+        url: "/web-standards/linked-data/JSON-LD/"
+      - title: "• GS1"
+        url: "/web-standards/gs1/"
+      - title: "• Blockcerts"
+        url: "/web-standards/blockcerts/" 
+  - title: Workshops
+    children:
+      - title: "• IIW Session Topics"
+        url: "/workshops/internet-identity-workshop/"
+      - title: "• RWoT Papers Index"
         url: "/literature/rebooting-web-of-trust/"
-      - title: " - Microledgers and Edgechains"
-        url: "/organizations/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/"
-      - title: "• #indieweb-dev on IIW RWoT and DID's"
-        url: "/web-standards/indieweb-dev-on-did/"
   - title: Regulation
     children:
       - title: "• eIDAS"
         url: "/government/europe/regulation/eidas/"
       - title: "• GDPR"
         url: "/government/europe/regulation/gdpr/"
+  - title: ID Blog Aggregator
+    url: https://identosphere.net
+    children:
+      - title: "• Personal Blogs Feed"
+        url: https://identosphere.net/blogcatcher/
+      - title: "• Organizations Feed"
+        url: https://identosphere.net/blogcatcher/organizations
+      - title: "• Companies Feed"
+        url: https://identosphere.net/blogcatcher/companies
+      - title: "• Weekly Tweet Collections"
+        url: /twitter/
   - title: Self-Sovereign Identity
     children:
       - title: "• SSI - Documentation Efforts"
@@ -184,22 +193,18 @@ sovnav:
         url: "/organizations/identity-foundation/"
       - title: "• My Data"
         url: "/organizations/mydata/"
+      - title: "• Hyperledger Foundation"
+        url: "/blockchain/hyperledger/"
       - title: "• Sovrin Foundation"
         url: "/organizations/sovrin/"
       - title: "• SSI Meetup"
         url: "/organizations/ssi-meetup/"
       - title: "• Women in Identity"
-        url: "organizations/women-in-identity/"
+        url: "/organizations/women-in-identity/"
   - title: Initiatives
     children:
       - title: "• Danube"
         url: "/companies/danube-tech/" 
-      - title: "• Blockchain"
-        url: "/blockchain/"
-      - title: "• Bitcoin"
-        url: "/blockchain/bitcoin/" 
-      - title: "• Blockcerts"
-        url: "/web-standards/blockcerts/" 
       - title: "• Ethereum"
         url: "/blockchain/ethereum/" 
       - title: "• uPort"
@@ -208,18 +213,19 @@ sovnav:
         url: "/organizations/hyperledger/indy/"
       - title: "• VON"
         url: "/government/canada/von/" 
-      - title: "• IBM"
-        url: "/companies/ibm/"
       - title: "• Microsoft"
         url: "/companies/microsoft/"
   - title: "⧉InfoMine⧉"
-    url: "https://infominer.xyz/"
     children:
       - title: "• Identosphere"
-        url: "https://identosphere.net"
+        url: "https://identosphere.net/"
       - title: "• Bitcoin Histories"
         url: "https://bitcoinfo.xyz/history/"
+      - title: "• Decentralized Web Histories"
+        url: "https://sourcecrypto.pub/decentralized-web/"
       - title: "• Source⧉Crypto"
         url: "https://sourcecrypto.pub"
-      - title: "• Decentralized Web"
-        url: "https://sourcecrypto.pub/decentralized-web/"
+      - title: "• Bitcoin Info"
+        url: "https://bitcoinfo.xyz"
+      - title: "• InfoHub"
+        url: "https://infominer.xyz/"
