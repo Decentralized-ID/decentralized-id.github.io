@@ -2,13 +2,13 @@
 main:
   - title: "Welcome"
     url: "/about/"
-  - title: Getting Started
-    url: /getting-started/
-  - title: "Recent Posts"
+  - title: "Introduction"
+    url: /introduction/
+  - title: "Recent"
     url: "/posts/"
   - title: "Tags"
     url: "/tags/"
-  - title: "Our Aim"
+  - title: "Aim"
     url: "/aim/"
 
 didnav:

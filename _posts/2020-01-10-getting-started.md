@@ -1,11 +1,10 @@
 ---
-title: "What is Decentralized Identity? and Digital ID Fundamentals."
-permalink: /getting-started/
+title: "Introduction to Decentralized Identity"
+permalink: introduction/
+redirect_from: /getting-started/
 toc: false
 last_modified_at: 2020-11-21
 ---
-
-<h2>What is Decentralized ID?</h2>
 
 The essence of Decentralized-ID is in creating open standards for a privacy preserving internet-wide identity layer — not owned by any one particular organization, but interoperable between all.
 
