@@ -21,6 +21,27 @@ didnav:
         url: /history/2010-2014/
       - title: "• 2015-2019"
         url: /history/2015-2019/
+  - title: Feature
+    children:
+      - title: "• Self Sovereign ID 101"
+        url: /twitter/ssi-101/
+      - title: "• Literature"
+        url: "/literature/self-sovereign-identity/"
+      - title: "• IIW Session Topics"
+        url: "/workshops/internet-identity-workshop/"
+      - title: "• RWoT Papers Index"
+        url: "/literature/rebooting-web-of-trust/"
+  - title: ID Blog Aggregator
+    url: https://identosphere.net
+    children:
+      - title: "• Personal Blogs Feed"
+        url: https://identosphere.net/blogcatcher/
+      - title: "• Organizations Feed"
+        url: https://identosphere.net/blogcatcher/organizations
+      - title: "• Companies Feed"
+        url: https://identosphere.net/blogcatcher/companies
+      - title: "• Weekly Tweet Collections"
+        url: /twitter/
   - title: Web Standards
     url: /web-standards/
     children:
@@ -34,39 +55,12 @@ didnav:
         url: "/web-standards/gs1/"
       - title: "• Blockcerts"
         url: "/web-standards/blockcerts/" 
-  - title: Workshops
-    children:
-      - title: "• IIW Session Topics"
-        url: "/workshops/internet-identity-workshop/"
-      - title: "• RWoT Papers Index"
-        url: "/literature/rebooting-web-of-trust/"
   - title: Regulation
     children:
       - title: "• eIDAS"
         url: "/government/europe/regulation/eidas/"
       - title: "• GDPR"
         url: "/government/europe/regulation/gdpr/"
-  - title: ID Blog Aggregator
-    url: https://identosphere.net
-    children:
-      - title: "• Personal Blogs Feed"
-        url: https://identosphere.net/blogcatcher/
-      - title: "• Organizations Feed"
-        url: https://identosphere.net/blogcatcher/organizations
-      - title: "• Companies Feed"
-        url: https://identosphere.net/blogcatcher/companies
-      - title: "• Weekly Tweet Collections"
-        url: /twitter/
-  - title: Self-Sovereign Identity
-    children:
-      - title: "• SSI - Documentation Efforts"
-        url: "/literature/self-sovereign-identity/"
-      - title: "• Evolution of SSI"
-        url: "/literature/self-sovereign-identity/evolution-of-ssi/"
-      - title: "• SSI Principles vs Characteristics"
-        url: "/literature/self-sovereign-identity/ssi-principles-vs-characteristics/"
-      - title: "• User Experience"
-        url: "/literature/self-sovereign-identity/user-experience/"
   - title: "Organizations"
     url: "/organizations/"
     children:
@@ -82,20 +76,6 @@ didnav:
         url: "/organizations/ssi-meetup/"
       - title: "• Women in Identity"
         url: "/organizations/women-in-identity/"
-  - title: Initiatives
-    children:
-      - title: "• Danube"
-        url: "/companies/danube-tech/" 
-      - title: "• Ethereum"
-        url: "/blockchain/ethereum/" 
-      - title: "• uPort"
-        url: "/blockchain/ethereum/uPort/" 
-      - title: "• Hyperledger Indy"
-        url: "/organizations/hyperledger/indy/"
-      - title: "• VON"
-        url: "/government/canada/von/" 
-      - title: "• Microsoft"
-        url: "/companies/microsoft/"
   - title: "⧉InfoMine⧉"
     children:
       - title: "• Identosphere"
@@ -129,7 +109,7 @@ sovnav:
         url: /organizations/sovrin/literature/
       - title: "• VON"
         url: "/government/canada/von/"
-  - title: "Navigation"
+  - title: "Home"
     url: "/"
     children:
       - title: "• Resources & Pre-History"
@@ -140,6 +120,27 @@ sovnav:
         url: /history/2010-2014/
       - title: "• 2015-2019"
         url: /history/2015-2019/
+  - title: Feature
+    children:
+      - title: "• Self Sovereign ID 101"
+        url: /twitter/ssi-101/
+      - title: "• Literature"
+        url: "/literature/self-sovereign-identity/"
+      - title: "• IIW Session Topics"
+        url: "/workshops/internet-identity-workshop/"
+      - title: "• RWoT Papers Index"
+        url: "/literature/rebooting-web-of-trust/"
+  - title: ID Blog Aggregator
+    url: https://identosphere.net
+    children:
+      - title: "• Personal Blogs Feed"
+        url: https://identosphere.net/blogcatcher/
+      - title: "• Organizations Feed"
+        url: https://identosphere.net/blogcatcher/organizations
+      - title: "• Companies Feed"
+        url: https://identosphere.net/blogcatcher/companies
+      - title: "• Weekly Tweet Collections"
+        url: /twitter/
   - title: Web Standards
     url: /web-standards/
     children:
@@ -153,39 +154,12 @@ sovnav:
         url: "/web-standards/gs1/"
       - title: "• Blockcerts"
         url: "/web-standards/blockcerts/" 
-  - title: Workshops
-    children:
-      - title: "• IIW Session Topics"
-        url: "/workshops/internet-identity-workshop/"
-      - title: "• RWoT Papers Index"
-        url: "/literature/rebooting-web-of-trust/"
   - title: Regulation
     children:
       - title: "• eIDAS"
         url: "/government/europe/regulation/eidas/"
       - title: "• GDPR"
         url: "/government/europe/regulation/gdpr/"
-  - title: ID Blog Aggregator
-    url: https://identosphere.net
-    children:
-      - title: "• Personal Blogs Feed"
-        url: https://identosphere.net/blogcatcher/
-      - title: "• Organizations Feed"
-        url: https://identosphere.net/blogcatcher/organizations
-      - title: "• Companies Feed"
-        url: https://identosphere.net/blogcatcher/companies
-      - title: "• Weekly Tweet Collections"
-        url: /twitter/
-  - title: Self-Sovereign Identity
-    children:
-      - title: "• SSI - Documentation Efforts"
-        url: "/literature/self-sovereign-identity/"
-      - title: "• Evolution of SSI"
-        url: "/literature/self-sovereign-identity/evolution-of-ssi/"
-      - title: "• SSI Principles vs Characteristics"
-        url: "/literature/self-sovereign-identity/ssi-principles-vs-characteristics/"
-      - title: "• User Experience"
-        url: "/literature/self-sovereign-identity/user-experience/"
   - title: "Organizations"
     url: "/organizations/"
     children:
@@ -201,20 +175,6 @@ sovnav:
         url: "/organizations/ssi-meetup/"
       - title: "• Women in Identity"
         url: "/organizations/women-in-identity/"
-  - title: Initiatives
-    children:
-      - title: "• Danube"
-        url: "/companies/danube-tech/" 
-      - title: "• Ethereum"
-        url: "/blockchain/ethereum/" 
-      - title: "• uPort"
-        url: "/blockchain/ethereum/uPort/" 
-      - title: "• Hyperledger Indy"
-        url: "/organizations/hyperledger/indy/"
-      - title: "• VON"
-        url: "/government/canada/von/" 
-      - title: "• Microsoft"
-        url: "/companies/microsoft/"
   - title: "⧉InfoMine⧉"
     children:
       - title: "• Identosphere"
