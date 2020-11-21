@@ -25,7 +25,7 @@ didnav:
     children:
       - title: "• Self Sovereign ID 101"
         url: /twitter/ssi-101/
-      - title: "• Literature"
+      - title: "• SSI Literature"
         url: "/literature/self-sovereign-identity/"
       - title: "• IIW Session Topics"
         url: "/workshops/internet-identity-workshop/"
@@ -124,7 +124,7 @@ sovnav:
     children:
       - title: "• Self Sovereign ID 101"
         url: /twitter/ssi-101/
-      - title: "• Literature"
+      - title: "• SSI Literature"
         url: "/literature/self-sovereign-identity/"
       - title: "• IIW Session Topics"
         url: "/workshops/internet-identity-workshop/"
