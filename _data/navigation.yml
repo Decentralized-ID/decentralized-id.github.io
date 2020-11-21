@@ -33,15 +33,8 @@ didnav:
         url: "/workshops/internet-identity-workshop/"
       - title: "• RWoT Papers Index"
         url: "/literature/rebooting-web-of-trust/"
-  - title: ID Blog Aggregator
-    url: https://identosphere.net
-    children:
-      - title: "• Personal Blogs Feed"
+      - title: "• Identity Blog Catcher"
         url: https://identosphere.net/blogcatcher/
-      - title: "• Organizations Feed"
-        url: https://identosphere.net/blogcatcher/organizations
-      - title: "• Companies Feed"
-        url: https://identosphere.net/blogcatcher/companies
       - title: "• Weekly Tweet Collections"
         url: /twitter/
   - title: Web Standards
@@ -132,15 +125,8 @@ sovnav:
         url: "/workshops/internet-identity-workshop/"
       - title: "• RWoT Papers Index"
         url: "/literature/rebooting-web-of-trust/"
-  - title: ID Blog Aggregator
-    url: https://identosphere.net
-    children:
-      - title: "• Personal Blogs Feed"
+      - title: "• Identity Blog Catcher"
         url: https://identosphere.net/blogcatcher/
-      - title: "• Organizations Feed"
-        url: https://identosphere.net/blogcatcher/organizations
-      - title: "• Companies Feed"
-        url: https://identosphere.net/blogcatcher/companies
       - title: "• Weekly Tweet Collections"
         url: /twitter/
   - title: Web Standards
