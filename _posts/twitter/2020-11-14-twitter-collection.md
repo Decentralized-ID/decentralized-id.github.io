@@ -1,6 +1,6 @@
 ---
 title: Twitter Collection 2020-11-14
-description: Collection of tweets on decentralized identity from the week preceding 10-31-2020
+description: Collection of tweets on decentralized identity from the week preceding 11-14-2020
 layout: single
 ---
 
