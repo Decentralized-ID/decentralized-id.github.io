@@ -1,4 +1,5 @@
 ---
+date: 2020-01-10
 title: Verifiable Credentials
 tags: ["W3C", "CCG","VC-WG"]
 categories: ["Web Standards"]
