@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Welcome"
+    url: "/about/"
   - title: Getting Started
     url: /getting-started/
   - title: "Recent Posts"
