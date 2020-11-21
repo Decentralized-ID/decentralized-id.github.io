@@ -328,3 +328,26 @@ defaults:
       toc_label   : "Contents"
       toc_icon    : "link"
       toc_sticky  : true
+  - scope:
+      path: "_posts/twitter"
+      type: posts
+    values:
+      sidebar:
+        - title: "Identity Decentralized"
+          image: "/images/DID_ban.webp"
+          image_alt: "Decentralized-ID.com Sidebar"
+          nav: "didnav"
+      layout: single
+      permalink: /twitter/:year/:month/:day/
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      classes: wide
+      categories: ["Twitter"]
+      toc: false
+      header: 
+        image: /images/collections.webp
+        og_image: /images/weekly-tweet-collections.webp
+        teaser: /images/did-twitter-sq.webp 
+        caption: "[@DecentralizeID](https://twitter.com/DecentralizeID)"
