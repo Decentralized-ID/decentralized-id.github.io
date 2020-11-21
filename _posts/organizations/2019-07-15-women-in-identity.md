@@ -11,7 +11,9 @@ redirect_from:
   - organizations/womeninid/
   - organizations/women-in-id/
 last_modified_at: 2019-07-15
-
+header:
+  image: /images/womenin-id-header.webp
+  teaser: /images/womenin-id-teaser.webp
 ---
 
 * [Women in Identity](https://womeninidentity.org)
