@@ -2,7 +2,7 @@
 title: "What is Decentralized Identity? and Digital ID Fundamentals."
 permalink: /getting-started/
 toc: false
-last_modified_at: 2020-11-02
+last_modified_at: 2020-11-21
 ---
 
 <h2>What is Decentralized ID?</h2>
@@ -21,7 +21,9 @@ It's impossible to have a conversation about decentralized-id without discussing
   <li>Collectively arrived at solutions are trending towards congruence with the spirit of innovation, privacy concerns, and compliance within the evolving global regulatory landscape.</li>
 </ul>
 
-<center><img src="https://i.imgur.com/9KpJRDr.png"/></center>
+<div class="side">
+  <a class="twitter-timeline" data-width="350" data-link-color="#1DA1F2" data-dnt="true" data-border-color="#657786" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw" data-tweet-limit="11">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 <h2>Getting Started with Decentralized ID</h2>
 
@@ -32,13 +34,6 @@ It's impossible to have a conversation about decentralized-id without discussing
     <blockquote>Abstract The desire for increased control over our identity has catapulted the idea of “self‐sovereign identity” into the forefront of digital identity innovation, yet the term lacks a rigorous definition beyond specific technical implementations1. This paper explores what self‐sovereign identity means independent of technology: what people need from independent identity capabilities. I want to understand how such a system enables both individuals whose identities are in play (subjects), as well as those who use those “identities” to correlate interactions across contexts (observers). I start with grounding individual sovereignty in the Enlightenment and identity in its core function of correlation, then propose core characteristics of a self‐sovereign identity system. My eventual goal is to model the technology‐independent requirements of a self‐sovereign solution suitable for realizing UN Sustainable Development Goal 16.9: “Providing every last person on the planet with a legal identity by 2030.”</blockquote>
   <li><a href="https://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml">The Case for Decentralized Identity</a></li>
     <blockquote>We cannot decentralize many interesting systems without also decentralizing the identity systems upon which they rely. We're finally in a position to create truly decentralized systems for digital identity.</blockquote>
-</ul>
-
-<div class="side">
-  <a class="twitter-timeline" data-width="350" data-link-color="#1DA1F2" data-dnt="true" data-border-color="#657786" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw" data-tweet-limit="11">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-<ul>
   <li><a href="https://github.com/ChristopherA/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md">The Path to Self-Sovereign Identity</a></li>
     <blockquote>Self-sovereign identity is the next step beyond user-centric identity and that means it begins at the same place: the user must be central to the administration of identity. That requires not just the interoperability of a user’s identity across multiple locations, with the user’s consent, but also true user control of that digital identity, creating user autonomy. To accomplish this, a self-sovereign identity must be transportable; it can’t be locked down to one site or locale.</blockquote>
   <li><a href="https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf">The Inevitable Rise of Self-Sovereign Identity</a></li>
@@ -54,13 +49,6 @@ It's impossible to have a conversation about decentralized-id without discussing
 
 {% include video id="DaM0UtQTLCs" provider="youtube" %}
 
-<h2>More on Decentralized | Self Sovereign Identity</h2>
-
-<ul>
-  <li><em><a href="https://decentralized-id.com/literature/">Literature</a></em></li>
-  <li><em><a href="https://decentralized-id.com/literature/self-sovereign-identity/">Self Sovereign Identity</a></em></li>
-</ul>
-
 <h2>Digital Identity 101</h2>
 
 If you're looking to freshen up on your digital identity fundamentals, the following resources will be a good place to start.
@@ -75,6 +63,8 @@ If you're looking to freshen up on your digital identity fundamentals, the follo
   <li><a href="https://www.beyondtrust.com/blog/entry/what-is-identity-and-access-management-and-why-is-it-a-vital-it-security-layer">What is Identity and Access Management and Why is it a Vital IT Security Layer?</a></li>
     <blockquote>Identity and Access Management (IAM), also called identity management, refers to the IT security discipline, framework, and solutions for managing digital identities. Identity management encompasses the provisioning and de-provisioning of identities, securing and authentication of identities, and the authorization to access resources and/or perform certain actions. While a person (user) has only one singular digital identity, they may have many different accounts representing them. Each account can have different access controls, both per resource and per context.</blockquote>
 </ul>
+
+<center><img src="https://i.imgur.com/9KpJRDr.png"/></center>
 
 <h3>Video</h3>
 
