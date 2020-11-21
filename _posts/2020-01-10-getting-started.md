@@ -35,7 +35,7 @@ It's impossible to have a conversation about decentralized-id without discussing
 </ul>
 
 <div class="side">
-  <a class="twitter-timeline" data-width="350" data-link-color="#1DA1F2" data-dnt="true" data-border-color="#657786" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a class="twitter-timeline" data-width="350" data-link-color="#1DA1F2" data-dnt="true" data-border-color="#657786" href="https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw" data-tweet-limit="11">Self Sovereign ID 101 - Curated tweets by DecentralizeID</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <ul>
