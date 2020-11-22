@@ -293,8 +293,8 @@ defaults:
         image: /images/binary-2910663_geralt.webp
       sidebar:
         - title: "Identity Decentralized"
-          image: "/images/testing.webp"
-          image_alt: "Binary Globe Image"
+          image: "/images/binary-1254502_GDj.webp"
+          image_alt: "Binary Globe Image by GDj"
           nav: "didnav"
       layout: single
       author_profile: false
@@ -312,8 +312,8 @@ defaults:
     values:
       sidebar:
         - title: "Identity Decentralized"
-          image: "/images/testing.webp"
-          image_alt: "Binary Globe Image"
+          image: "/images/binary-1254502_GDj.webp"
+          image_alt: "Binary Globe by GDj"
           nav: "didnav"
       layout: single
       author_profile: false
