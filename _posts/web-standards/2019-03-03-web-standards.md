@@ -1,6 +1,8 @@
 ---
 date: 2019-03-03
 title:  Web Standards and the Emerging Decentralized ID Stack
+excerpt: >
+  too many people complain about problems but don’t step to Fix It!. There are certainly a lot of flawed standards – but they make interoperability possible – not perfect – but possible. If you haven’t used them then you have no right to complain that they are too complex, too simple (even in the same standard) or too domain specific – or any of the other rants and raves that go on.
 layout: single
 permalink: web-standards/
 canonical_url: 'https://decentralized-id.com/web-standards/'
