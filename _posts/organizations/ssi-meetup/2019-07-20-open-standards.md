@@ -3,7 +3,7 @@ date: 2019-07-20
 title:  SSI-Meetup on Open Standards and Implementations
 layout: single
 permalink: organizations/ssi-meetup/open-standards/
-canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/open-specs/'
+canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/open-standards/'
 redirect_from: 
   - organizations/ssi-meetup/open-specs/
 categories: ["Web Standards","Media"]

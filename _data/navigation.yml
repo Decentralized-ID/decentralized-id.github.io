@@ -66,7 +66,7 @@ didnav:
       - title: "• Hyperledger Foundation"
         url: "/blockchain/hyperledger/"
       - title: "• Sovrin Foundation"
-        url: "/organizations/sovrin/"
+        url: "/organizations/sovrin-foundation/"
       - title: "• SSI Meetup"
         url: "/organizations/ssi-meetup/"
       - title: "• Women in Identity"
@@ -101,7 +101,7 @@ sovnav:
         url: /organizations/hyperledger/indy/github/
       - title: "• Literature"
         description: Research and Literature Related to the Indy Ecosystem.
-        url: /organizations/sovrin/literature/
+        url: /organizations/sovrin-foundation/literature/
       - title: "• VON"
         url: "/government/canada/von/"
   - title: "Home"
@@ -158,7 +158,7 @@ sovnav:
       - title: "• Hyperledger Foundation"
         url: "/blockchain/hyperledger/"
       - title: "• Sovrin Foundation"
-        url: "/organizations/sovrin/"
+        url: "/organizations/sovrin-foundation/"
       - title: "• SSI Meetup"
         url: "/organizations/ssi-meetup/"
       - title: "• Women in Identity"
