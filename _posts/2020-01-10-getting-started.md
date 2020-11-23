@@ -93,7 +93,7 @@ If you're looking to freshen up on your digital identity fundamentals, the follo
   <li><a href="https://github.com/WebOfTrustInfo/">WebOfTrustInfo</a></li>
   <li><a href="https://github.com/peacekeeper/blockchain-identity">peacekeeper/blockchain-identity</a></li>
   <li><a href="https://identitywoman.net/">identitywoman.net</a></li>
-  <li><a href="http://www.windley.com/tags/identity.shtml">windley.com/tags/identity</a></li>
+  <li><a href="http://www.windley.com/tags/identity.shtml">windley.com/tags/identity</a> (on <a href="https://vimeo.com/windley/videos">Vimeo</a>)</li>
   <li><a href="https://identityblog.com">Kim Camerons Identity Blog</a></li>
   <li><a href="https://github.com/karimStekelenburg/awesome-self-sovereign-identity">karimStekelenburg/awesome-self-sovereign-identity</a></li>
 </ul>
