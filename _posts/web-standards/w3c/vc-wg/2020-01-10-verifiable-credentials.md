@@ -7,7 +7,6 @@ permalink: /web-standards/w3c/vc-wg/verifiable-credentials/
 redirect_from: 
   - web-standards/verifiable-credentials/
   - specs-standards/verifiable credentials/
-  - web-standards/vc-wg/
 last_modified_at: 2020-01-10
 ---
 
@@ -89,23 +88,3 @@ REGISTRY: The Verifiable Credentials Extension Registry - w3c-ccg/vc-extension-r
 WORK ITEM: Drafts and Ideas of Educational and Occupational Verifiable Credentials - w3c-ccg/edu_occ_verifiable_credentials
 * [w3c-ccg/vc-examples](https://github.com/w3c-ccg/vc-examples)
 WORK ITEM: Verifiable Credentials Examples. 
-
-### VC-WG
-
-* [W3C Verifiable Claims Working Group](https://www.w3.org/2017/vc/WG/) • [Mail Archives](https://lists.w3.org/Archives/Public/public-vc-wg/) - Technical discussion and public announcements for the Verifiable Claims Working Group
-  > The mission of the Verifiable Claims Working Group (VCWG) is to make expressing and exchanging credentials that have been verified by a third party easier and more secure on the Web.
-* [w3c/verifiable-claims](https://github.com/w3c/verifiable-claims)
-W3C Verifiable Claims Working Group. 
-* [Verifiable Credentials Data Model 1.0](https://w3c.github.io/vc-data-model/) - Expressing verifiable information on the Web - [w3c/vc-data-model](https://github.com/w3c/vc-data-model)
-  > Verifiable Claims Data Model and Representations specification.
-* [w3c/vc-use-cases](https://github.com/w3c/vc-use-cases)
-Verifiable Claims Use Cases. 
-* [Verifiable Credentials Implementation Guidelines 1.0](https://www.w3.org/TR/vc-imp-guide/) • [w3c/vc-imp-guide](https://github.com/w3c/vc-imp-guide)
-  > Verifiable Claims WG - Verifiable Credentials Implementation Guidelines - w3c/vc-imp-guide
-* [w3c/vc-test-suite](https://github.com/w3c/vc-test-suite)
-Verifiable Claims WG Test Suite. 
-  * [Verifiable Credentials Data Model Implementation Report 1.0](https://w3c.github.io/vc-test-suite/implementations/)
-* [w3c/vctf](https://github.com/w3c/vctf) **Archived**
-  > The Web Payments Interest Group's Verifiable Claims Task Force
-
-

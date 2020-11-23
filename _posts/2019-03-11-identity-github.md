@@ -860,7 +860,7 @@ AR\VR\Mixed
 
 ## /peacekeeper/blockchain-identity
 
->Projects/companies working on blockchain and identity
+"Projects/companies working on blockchain and identity"
 
 * [peacekeeper/blockchain-identity](https://github.com/peacekeeper/blockchain-identity) - The Original list of Blockchain Identity Initiatives. 
 
