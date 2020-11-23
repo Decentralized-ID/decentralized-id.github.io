@@ -61,6 +61,8 @@ algolia:
   index_name             : didecentral
   search_only_api_key    : c02bbc81162fc9aaaf03cd6573962a94 # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : true # true (default), false
+  files_to_exclude:
+    - _posts/blockchain/2020-11-17-dragonchain.md
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
