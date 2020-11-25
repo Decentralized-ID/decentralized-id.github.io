@@ -25,11 +25,15 @@ last_modified_at: 2020-11-25
 
 ## The Augmented Social Network (Abridged)
 
+{% capture notice-4 %}
 The aim of this abridged version is to allow the passerby to gather the broad strokes of this paper and the information available in each section. In some cases, simply sub-section headings have been brought to this version, in others 1-2 paragraphs, so you may always refer to the full version.
 
-[ASN Full Text](https://web.archive.org/web/20180620134007/http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf), [ASN 1,000 word excerpt](https://web.archive.org/web/20170811014921/http://asn.planetwork.net/ASN-1000excerpt.pdf), [ASN 5,600 word excerpt](https://web.archive.org/web/20170811014924/http://asn.planetwork.net/ASN-5600excerpt.pdf).
+[ASN Full Text](https://web.archive.org/web/20180620134007/http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf) • [ASN 1,000 word excerpt](https://web.archive.org/web/20170811014921/http://asn.planetwork.net/ASN-1000excerpt.pdf) • [ASN 5,600 word excerpt](https://web.archive.org/web/20170811014924/http://asn.planetwork.net/ASN-5600excerpt.pdf).
 
 This foundational piece of literature that paved the way for todays work on Decentralized Identifiers and Verifiable Credentials. As that work comes closer to mass adoption, it may prove valuable to dive deeper into the ideas posed in this paper, since this vision is coming closer to reality every day. ([infominer](https://twitter.com/infominer33))
+{% endcapture %}
+
+<div class="notice--success">{{ notice-4 | markdownify }}</div>
 
 ### BUILDING IDENTITY AND TRUST INTO THE NEXTGENERATION INTERNET
 #### A REPORT FOR THE LINK TANK
