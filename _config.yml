@@ -26,7 +26,7 @@ repository               : "Decentralized-ID/decentralized-id.github.io"
 github                   : [metadata]
 teaser                   : /images/did-square.webp
 logo                     : "/images/DID.webp"
-masthead_title           : "Decentralized-ID Curated"
+masthead_title           : "Decentralized Identity"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
