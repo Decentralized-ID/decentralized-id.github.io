@@ -44,12 +44,19 @@ last_modified_at:  2020-01-07
 * [Top 10 Reasons to Use Blockcerts](https://medium.com/learning-machine-blog/top-10-reasons-to-use-blockcerts-ec7d29f2712c)
   > The open standard for issuing blockchain-based records is your easiest bet for creating records that remain verifiable for a lifetime.
 * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
+  > The initial release of the Blockcerts standard and reference implementation described only one revocation mechanism, the issuer-hosted revocation list approach also used by Open Badges. This has known limitations, including: centralization, single point of failure, and inability for a recipient to revoke. Other approaches to revocation were considered, but none were technically or economically feasible at the time given the project goals, including Bitcoin blockchain anchoring, low overhead, and minimal cost.
+
+### Open Badges
 * [Badges and Blockcerts](https://www.learningmachine.com/badges-and-blockcerts/)
   > In education and workforce development, it’s important to understand the differences between digital credential formats and how to combine them for greatest impact.
   > ...
   > 2011 saw the birth of Open Badges, which digitally and visually convey the achievement of a specific skill. Similar to the Scouts movement, which uses a small fabric symbol to represent specific achievements, digital badges were designed to convey a singular achievement through a digital image and a hosted set of data. Initially spearheaded by the Mozilla Foundation, the Open Badges standard is now maintained by the IMS Global Learning Consortium, ensuring interoperability between platforms.
   > ...
   > In response to the desire for high-stakes credentials in a digital format, the development of Blockcerts began in 2015 as part of a project by the MIT Media Lab.
+* [Open Badges are Verifable Credentials](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/open-badges-are-verifiable-credentials.pdf)
+  > The Blockcerts Open Badges Draft Extension introduced a verifcation method based on those used by Verifable Credentials for the specifc use case of blockchain-anchored credentials. This paper expands that work and proposes a new option that can reside alongside existing Open Badges verifcation methods.
+* [OPEN BADGES ON THE BLOCKCHAIN](https://draftin.com/documents/1138961?token=hQ5q0mCHizZum8-pkDFYUZr4YFYOWMN01BPT-5uX00hAaGxYOAlgAlhyenat76hjNpTCs-CMWPI38KWn_omp0Oc)
+  > This document gives an overview of the status, interesting companies and people regarding Verifiable Open Badges on the Blockchain. 
 
 ![]({{ site.baseurl }}/images/blockcerts.webp)
 

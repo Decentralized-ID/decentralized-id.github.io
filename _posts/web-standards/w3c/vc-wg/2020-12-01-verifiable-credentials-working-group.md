@@ -24,7 +24,6 @@ last_modified_at: 2020-11-23
 * [Verifiable Credentials Data Model 1.0](https://www.w3.org/TR/verifiable-claims-data-model/) and Representations specification.
   * [Editors Draft](https://w3c.github.io/vc-data-model/) - Expressing verifiable information on the Web 
   * [GitHub w\ Issue Tracker](https://github.com/w3c/vc-data-model)  
-  * [Verifiable Credentials Data Model Implementation Report 1.0](https://w3c.github.io/vc-test-suite/implementations/)
 * [Verifiable Credentials Use Cases](https://www.w3.org/TR/vc-use-cases/)
   * [Editors Draft](https://w3c.github.io/vc-use-cases/)
   * [GitHub w\ Issue Tracker](https://github.com/w3c/vc-use-cases) - Verifiable Claims Use Cases. 
@@ -33,5 +32,7 @@ last_modified_at: 2020-11-23
   * [GitHub with Issue Tracker](https://github.com/w3c/vc-imp-guide)
 * [W3C Verifiable Claims Working Group Test Suite](https://w3c.github.io/vc-test-suite/)
   * [w3c/vc-test-suite](https://github.com/w3c/vc-test-suite) Verifiable Claims WG Test Suite. 
+  * [Verifiable Credentials Data Model Implementation Report 1.0](https://w3c.github.io/vc-test-suite/implementations/)
 * [w3c/vctf](https://github.com/w3c/vctf) **Archived** (precursor to vcwg)
   > The Web Payments Interest Group's Verifiable Claims Task Force
+  * [Verifiable Claims Task Force Use Cases](https://opencreds.org/specs/source/use-cases/)
