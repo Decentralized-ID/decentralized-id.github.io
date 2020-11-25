@@ -32,6 +32,11 @@ last_modified_at: 2020-11-25
   > Tyler Ruff, product manager at Evernym, will be our next guest to walk us through Verifiable Credentials in the context of Self-Sovereign Identity. He will cover how they are created, issued and shared, as well as cover some common technical questions.
 * [Verifiable Credentials—A Quick Overview](https://vonx.io/safeentry/vcs/) (VonX)
   > The following is a brief overview of the technology underlying SafeEntryBC—Verifiable Credentials. In reading this, think of the process you went through to get an official government document, like a drivers license.
+* [Verifiable Credentials: What They Are, Why They Matter](https://hackernoon.com/verifiable-credentials-what-they-are-why-they-matter-kl133t3d) (Hackernoon)
+  > From permanent resident cards to anonymous payments to automatic notarization, verifiable credentials and DIDs are a technology whose time has arrived. Use cases are currently being piloted; many will surface in coming months and years. Security on the internet as we know it may be broken, but it is not beyond saving. A touch of the cryptographic wand, and we'll be able to repair trust once more. 
+* [Understand Verifiable Cresidentials in 10 Minutes](https://www.arcblock.io/en/post/2020/04/15/verifiable-credentials)
+  > This article is a soft introduction into Verifiable Credentials and the potential use cases for organizations, businesses and government institutions and creating new levels of trust for individuals and the services/institutions they use.
+
 
 ## Working Groups
 ### Verifiable Claims Working Group
@@ -60,8 +65,20 @@ WORK ITEM: Verifiable Credentials Examples.
 
 ### Claims and Credentials Working Group
 
-* [Claims and Credentials Working Group](https://identity.foundation/working-groups/claims-credentials.html) - Decentralized Identity Foundation
+[Claims and Credentials Working Group](https://identity.foundation/working-groups/claims-credentials.html) - Decentralized Identity Foundation
 
+* [2019 JSON-LD Signature Suite](https://github.com/decentralized-identity/lds-ecdsa-secp256k1-2019.js)
+  * [Ecdsa Secp256k1 Signature 2019](https://w3c-ccg.github.io/lds-ecdsa-secp256k1-2019/) - CCG Draft Community Group Report 08 April 2020
+* [presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
+  > Specification that codifies an inter-related pair of data formats for defining proof presentations (Presentation Definition) and subsequent proof submissions
+ (Presentation Submission)
+* [presentation-request](https://github.com/decentralized-identity/presentation-request)
+  > Requirements Analysis and Protocol Design for a VC Presentation Request Format
+* [Credential Manifest](https://github.com/decentralized-identity/credential-manifest)  
+  * [Explainer](https://github.com/decentralized-identity/credential-manifest/blob/master/explainer.md)
+    > Creating trust between DIDs and gaining access to products, services, and systems with DIDs requires the acquisition, generation, and inspection of credentials (DID-signed data objects).
+* [Specification](https://w3c-ccg.github.io/vc-json-schemas/) - [GitHub](https://github.com/w3c-ccg/vc-json-schemas) 
+  > The [VC_DATA_MODEL](https://www.w3.org/TR/vc-data-model/) specifies the models used for Verifiable Credentials and Verifiable Presentations, and explains the relationships between three parties: issuer, holder, and verifier. A critical piece of infrastructure out of the scope of those specifications is the Credential Schema. 
 
 ## Literature
 
@@ -71,18 +88,28 @@ WORK ITEM: Verifiable Credentials Examples.
   > The proposed solution is able to find credential types based on textual input from the user by using a full-text search engine and maintaining a local copy of the ledger. Thus, we do not need to rely on information about credentials coming from a very large candidate pool of third parties we would need to trust, such as the website of a company displaying its own identifier and a list of issued credentials. We have also proven the feasiblity of the concept by implementing and evaluating a prototype of the full-text credential metadata search service.
 * [Enabling Decentralised Identifiers and Verifiable Credentials for Constrained IoT Devices using OAuth-based Delegation](https://www.ndss-symposium.org/wp-content/uploads/diss2019_05_Lagutin_paper.pdf)
   > Abstract—Decentralised identifiers (DIDs) and verifiable credentials (VCs) are upcoming standards for self-sovereign privacypreserving identifiers and authorisation, respectively. This focus on privacy can help improve many services and open up new business models, but using DIDs and VCs directly on constrained IoT devices can be problematic due to the management and resource overhead. This paper presents an OAuth-based method to delegate the processing and access policy management to the Authorisation Server thus allowing also systems with constrained IoT devices to benefit from DIDs and VCs.
-* [Improved Identity Management with Verifiable Credentials and FIDO](https://ieeexplore.ieee.org/document/9031543)
-  > We describe how FIDO and W3C VCs can overcome the problems of existing identity management systems. We describe our conceptual model and architecture, and the protocol we used by extending FIDO's UAF in order to provide both strong authentication and strong authorization. We built a pilot implementation for U.K. NHS patients to validate our implementation. Patients were able to use a mobile phone with a fingerprint reader to access restricted NHS sites in order to make and cancel appointments and order repeat prescription drugs. Our initial user trials with 10 U.K. NHS patients found the system to be easy to use, and fingerprints to be preferable to using usernames and passwords for authentication.
 * [Distributed-Ledger-based Authentication with Decentralized Identifiers and Verifiable Credentials](https://arxiv.org/abs/2006.04754)
   >      Authentication with username and password is becoming an inconvenient process for the user. End users typically have little control over their personal privacy, and data breaches effecting millions of users have already happened several times. We have implemented a proof of concept decentralized OpenID Connect Provider by marrying it with Self-Sovereign Identity, which gives users the freedom to choose from a very large pool of identity providers instead of just a select few corporations, thus enabling the democratization of the highly centralized digital identity landscape. Furthermore, we propose a verifiable credential powered decentralized Public Key Infrastructure using distributed ledger technologies, which creates a straightforward and verifiable way for retrieving digital certificates. 
-* [W3C Verifiable Credentials - Kent Branch](https://www.bcs.org/events/2019/october/w3c-verifiable-credentials-kent-branch/) • [pdf](https://cdn.bcs.org/bcs-org-media/4653/kent-w3c-verifiable-credentials-031019.pdf)
-  > The speaker will introduce the W3C Verifiable Credentials Data Model, which was published as a Proposed Recommendation in September 2019. Verifiable Credentials are the latest development in identity management and are fundamentally different from today's federated identity management systems such as SAML and OpenID Connect.
-  > 
-  > David will describe the VC ecosystem and data model. He will then describe the prototype implementation which was built with colleagues from the University of Toulouse. They built a prototype system, which uses Fast Identity Online (FIDO) for user authentication, meaning that usernames and passwords are no longer needed. A pilot application was tested with a small sample of NHS patients and the speaker will present the results of this trial.
 * [Addition of Proof Request/Response to a formal Verifiable Credentials specification](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/verifiable-credentials-proof-request.md)
   > The W3C Verifiable Credentials (hereafter VC) specification does not currently outline how credential data should be requested by a Verifier. This document outlines the approach taken at Workday and proposes it as an addition or companion to the VC spec.
   > 
   > At RWoT we wish to present our approach in order to get community feedback and consensus. Workday recently announced our credentialing platform and will shortly begin to issue credentials within our market verticals. We fully intend to support the community standards around credentialing and therefore wish to drive consensus in the community on a simple, standard approach for requesting and sharing VCs between a holder and verifier.
+* [Verifiable Credentials (DID Credential Flows) : Technical Overview](https://tsmatz.wordpress.com/2020/06/25/what-is-verifiable-credentials/)
+  > In the perspective of W3C specification, verifiable credential (VC) doesn’t rely on DID specification. (i.e, The “id” property used in VC shouldn’t be necessarily a DID.) However, in its real implementations, it might be expected that verifiable credentials will resolve DIDs with consistent decentralized manners and technologies. Then, in this post, we also assume that DID is used with verifiable credentials.
+  > 
+  > In order to explain things plainly, I’ll include not only VC flows, but also other parts of flows, such as, DID flows or OpenID compliant flows.
+
+### FIDO
+
+* [Integrating W3C Web Authentication (FIDO2) and Verifiable Credentials](https://www.youtube.com/watch?v=62IYP1XtTYU)
+  > This is the presentation that I gave on 21 and 22 September 2020 to the UK NHS\
+  > "INTEROPen Presents: Staff Access Hackathon" virtual workshop
+* [W3C Verifiable Credentials - Kent Branch](https://www.bcs.org/events/2019/october/w3c-verifiable-credentials-kent-branch/) • [pdf](https://cdn.bcs.org/bcs-org-media/4653/kent-w3c-verifiable-credentials-031019.pdf)
+  > The speaker will introduce the W3C Verifiable Credentials Data Model, which was published as a Proposed Recommendation in September 2019. Verifiable Credentials are the latest development in identity management and are fundamentally different from today's federated identity management systems such as SAML and OpenID Connect.
+  > 
+  > David will describe the VC ecosystem and data model. He will then describe the prototype implementation which was built with colleagues from the University of Toulouse. They built a prototype system, which uses Fast Identity Online (FIDO) for user authentication, meaning that usernames and passwords are no longer needed. A pilot application was tested with a small sample of NHS patients and the speaker will present the results of this trial.
+* [Improved Identity Management with Verifiable Credentials and FIDO](https://ieeexplore.ieee.org/document/9031543)
+  > We describe how FIDO and W3C VCs can overcome the problems of existing identity management systems. We describe our conceptual model and architecture, and the protocol we used by extending FIDO's UAF in order to provide both strong authentication and strong authorization. We built a pilot implementation for U.K. NHS patients to validate our implementation. Patients were able to use a mobile phone with a fingerprint reader to access restricted NHS sites in order to make and cancel appointments and order repeat prescription drugs. Our initial user trials with 10 U.K. NHS patients found the system to be easy to use, and fingerprints to be preferable to using usernames and passwords for authentication.
 
 ## Interoperability
 
