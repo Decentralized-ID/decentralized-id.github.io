@@ -7,6 +7,9 @@ redirect_from:
   - values
   - values/
 toc: false
+authors:
+  - "<a href='https://twitter.com/by_caballero'>Juan Caballero</a>"
+  - "<a href='https://twitter.com/infominer33'>Infominer</a>"
 ---
 
 Decentralized-id.com is a collaborative, participatory learning community oriented that strives to support the elaboration and adoption of a self-sovereign identity layer for the internet. This is a labor of love and a work in progress. Certain values undergird those who share in this work. Our Aim:

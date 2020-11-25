@@ -1,0 +1,19 @@
+<p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-users" aria-hidden="true"></i> Authors:</strong>
+    {% assign authorCount = page.authors | size %}
+    {% if authorCount == 0 %}
+        No author
+    {% elsif authorCount == 1 %}
+        {{ page.authors | first }}
+    {% else %}
+        {% for author in page.authors %}
+            {% if forloop.first %}
+            <a href="{{ author.url }}" rel="author">{{ author }}</a>
+            {% elsif forloop.last %}
+                and <a href="{{ author.url }}" rel="author">{{ author }}</a>
+            {% else %}
+                , <a href="{{ author.url }}" rel="author">{{ author }}</a>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+</p>

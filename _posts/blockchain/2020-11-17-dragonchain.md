@@ -14,7 +14,9 @@ header:
   og_image: /images/dragon_factor_og.webp
 last_modified_at: 2020-11-17
 toc: true
-# •
+authors:
+  - "<a href='https://twitter.com/hodldrgn'>Holly Jolly Jeffrey</a>"
+  - "<a href='https://www.linkedin.com/in/j0j0r0/'>Joe Roets</a>"
 ---
 
 Guest post by [Holly Jolly Jeffrey](https://twitter.com/hodldrgn) ([Linkedin](https://www.linkedin.com/in/jeffrey-neijenhuis/)) and Dragonchain Founder\CEO [Joe Roets](https://www.linkedin.com/in/j0j0r0/).
