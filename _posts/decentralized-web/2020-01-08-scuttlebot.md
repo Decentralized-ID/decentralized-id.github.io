@@ -7,7 +7,7 @@ excerpt: >
   "Unforgeable" means that only the owner of a feed can update that feed, as enforced by digital signing (see Security properties). This property makes Secure Scuttlebutt useful for peer-to-peer applications. Secure Scuttlebutt also makes it easy to encrypt messages.
 permalink: /decentralized-web/scuttlebot/
 categories: ["Decentralized Web"]
-tags: ["Scuttlebot", "P2P"]
+tags: ["Scuttlebot"]
 header: 
   image: /images/scuttlebutt-header.webp
   caption: "[In the Mesh: Scuttlebutt, A Decentralized Social Platform](https://www.inthemesh.com/archive/secure-scuttlebutt-facebook-alternative/)"

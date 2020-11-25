@@ -13,8 +13,8 @@ redirect_from:
   - private-sector/microsoft/
   - id-initiatives/microsoft/
   - id-initiatives/microsoft
-categories: ["Companies","Identity Foudation"]
-tags: ["Microsoft","DID","ION","Transmute","Consensys","WebAuthN","Blockstack"]
+categories: ["Companies"]
+tags: ["Microsoft","DID","DIF","ION","Transmute","Consensys","WebAuthN","Blockstack"]
 last_modified_at: 2020-11-05
 ---
 

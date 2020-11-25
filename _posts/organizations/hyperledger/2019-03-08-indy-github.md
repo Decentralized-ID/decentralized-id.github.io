@@ -16,8 +16,8 @@ sidebar:
   title: Decentralized-ID
   nav: "sovnav"
 toc: false
-categories: ["Hyperledger Foundation","Code","Blockchain"]
-tags: ["Anoncreds","Indy","Ursa","Aries"]
+categories: ["Hyperledger Foundation","Code"]
+tags: ["Hyperledger Foundation","Code","Anoncreds","Indy","Ursa","Aries"]
 last_modified_at: 2019-03-08
 ---
 

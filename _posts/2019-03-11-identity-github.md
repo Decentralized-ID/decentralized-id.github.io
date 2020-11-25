@@ -16,7 +16,7 @@ header:
   image: /images/github.webp
   og_image: /images/github.webp
   teaser: /images/github_teaser.webp
-categories: ["Code","Web Standards"]
+categories: ["Code"]
 tags: ["W3C","ID2020","Danube Tech","XDI","OASIS","Digital Bazaar","Rebooting WoT","JSON-LD","Credentials Community Group","RDF","Veres One","Learning Machine","BTCR","Danube Tech","Jolocom","Blockcerts"]
 last_modified_at: 2019-03-15
 ---
