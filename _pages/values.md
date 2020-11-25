@@ -7,6 +7,7 @@ redirect_from:
   - values
   - values/
 toc: false
+tags: ["DecentralizeID"]
 authors:
   - "<a href='https://twitter.com/by_caballero'>Juan Caballero</a>"
   - "<a href='https://twitter.com/infominer33'>Infominer</a>"

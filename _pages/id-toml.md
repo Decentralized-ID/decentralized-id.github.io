@@ -10,6 +10,7 @@ redirect_from:
   - toml/id-toml
   - id-toml/
   - id-toml
+tags: ["DecentralizeID"]
 ---
 
 This page has two toml files from [infominer33/SourceCrypto](https://github.com/infominer33/SourceCrypto) embedded into it, with some help from [gist-it.appspot.com](https://gist-it.appspot.com)

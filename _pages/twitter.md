@@ -7,6 +7,7 @@ toc: false
 header: 
   image: /images/collections.webp
   og_image: /images/weekly-tweet-collections.webp
+tags: ["DecentralizeID"]
 
 ---
 
