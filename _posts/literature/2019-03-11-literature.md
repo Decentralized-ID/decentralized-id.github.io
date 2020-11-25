@@ -48,6 +48,8 @@ last_modified_at: 2019-07-11
 * [A Comprehensive Guide to Self Sovereign Identity](https://ssiscoop.com/) - by Kaliya ['Identity Woman'](https://twitter.com/IdentityWoman) Young and [Heather Vescent](https://twitter.com/heathervescent) [[**ϟ**](https://www.thepaypers.com/expert-opinion/10-things-you-need-to-know-about-self-sovereign-identity-part-1/774556)]
 * [Report launch: ‘Identity at the Margins — identification systems for refugees”](https://medium.com/caribou-digital/report-launch-identity-at-the-margins-identification-systems-for-refugees-69466244fa62)
 * [WEF: Identity in a Digital World A new chapter in the social contract](http://www3.weforum.org/docs/WEF_INSIGHT_REPORT_Digital%20Identity.pdf)
+* [The Credential Highway](https://www.newamerica.org/future-property-rights/reports/ssi-credential-highway/) - How Self-Sovereign Identity Unlocks Property Rights for the Bottom Billion
+  > Why? Because the pieces of evidence that administrative agencies require to register property — things like a survey plan, a notarized will, or a state-issued identity card — may be inaccessible, or may not represent the reality of rights on the ground. As a result, land administration systems end up excluding billions of people.
 
 ## Bundlesblok Position Paper
 

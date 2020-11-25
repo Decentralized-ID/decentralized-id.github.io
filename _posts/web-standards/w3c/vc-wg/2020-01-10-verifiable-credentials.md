@@ -4,7 +4,7 @@ title: Verifiable Credentials
 description: a standard way to express credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable.
 excerpt: >
   Verifiable credentials (VCs) are the electronic equivalent of the physical credentials that we all possess today, such as: plastic cards, passports, driving licenses, qualifications and awards, etc. The data model for verifiable credentials is a World Wide Web Consortium Recommendation, "Verifiable Credentials Data Model 1.0 - Expressing verifiable information on the Web" published 19 November 2019.
-tags: ["W3C", "CCG","VC-WG"]
+tags: ["W3C","Verifiable Credentials","CCG","VC-WG"]
 categories: ["Web Standards"]
 permalink: /web-standards/w3c/vc-wg/verifiable-credentials/
 header:
@@ -31,6 +31,8 @@ toc: true
   > NOTE: "Verifiable Claims" are now known as "Verifiable Credentials". The W3C Verifiable Claims Working Group's experience with using the term "Verifiable Claims" demonstrated that it led to confusion in the marketplace. The group has since found consensus in shifting to use the term "Verifiable Credentials", which contain "Claims".
 * [Verifiable Credentials 101 for SSI - Tyler Ruff - Webinar 11](http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
   > Tyler Ruff, product manager at Evernym, will be our next guest to walk us through Verifiable Credentials in the context of Self-Sovereign Identity. He will cover how they are created, issued and shared, as well as cover some common technical questions.
+* [Verifiable Credentials—A Quick Overview](https://vonx.io/safeentry/vcs/) (VonX)
+  > The following is a brief overview of the technology underlying SafeEntryBC—Verifiable Credentials. In reading this, think of the process you went through to get an official government document, like a drivers license.
 
 ## Verifiable Claims Working Group
 
