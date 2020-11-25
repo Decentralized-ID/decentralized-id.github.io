@@ -11,6 +11,7 @@ categories: ["Literature","History"]
 tags: ["Planetwork","ASN"]
 header:
   image: /images/asn-header.webp
+  caption: "[Augmented Social Network: First Monday](https://firstmonday.org/ojs/index.php/fm/article/view/1068/988)"
   teaser: /images/augmented-social-network-teaser.png
 last_modified_at: 2020-11-25
 ---
