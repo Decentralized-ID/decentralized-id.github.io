@@ -7,7 +7,7 @@ excerpt: >
 layout: single
 permalink: literature/augmented-social-network/
 canonical_url: 'https://decentralized-id.com/literature/augmented-social-network/'
-categories: ["Literature"]
+categories: ["Literature","History"]
 tags: ["Planetwork","ASN"]
 header:
   image: /images/asn-header.webp
