@@ -3,8 +3,8 @@ date: 2020-11-25
 title: Verifiable Credentials - Adoption
 description: Companies and organizations adopting verifiable credentials. 
 permalink: /web-standards/w3c/vc-wg/verifiable-credentials/adoption/
-categories: ["Adoption","Web Standards"]
-tags: ["Claims and Credentials WG","Verifiable Credentials","Credentials Community Group","VC-WG"]
+categories: ["Web Standards"]
+tags: ["Claims and Credentials WG","Verifiable Credentials","Adoption","Credentials Community Group","VC-WG"]
 last_updated: 2020-11-25
 ---
 
