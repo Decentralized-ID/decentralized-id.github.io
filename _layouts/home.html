@@ -47,8 +47,9 @@ layout: archive
       {% else if %}      
         <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
           <h3 class="archive__subtitle">{{ category[0] }}</h3>
+          {% assign sorted_posts = category[1] | sort: 'last_modified_at' | reverse %}
           <div class="entries-{{ page.entries_layout | default: 'list' }}">
-          {% for post in category.last %}
+          {% for post in sorted_posts %}              
             {% include archive-single.html type=page.entries_layout %}
           {% endfor %}
           </div>
