@@ -4,7 +4,9 @@ title: Claims and Credentials Working Group
 description: Standards and technology that create, exchange, and verify claims and credentials in a decentralized identity ecosystem. 
 excerpt: >
     Join this group to contribute to the standards and technology that create, exchange, and verify claims and credentials in a decentralized identity ecosystem. For example, a cryptographically verifiable credential that proves an individual has a college degree or is of a certain age. Our members focus on specs that are vendor agnostic and based on industry standards.
-permalink: organizations/identity-foundation/claims-and-credentials-wg/
+permalink: organizations/identity-foundation/wg/claims-and-credentials/
+canonical_url: https://decentralized-id.com/organizations/identity-foundation/wg/claims-and-credentials/
+redirect_from: organizations/identity-foundation/claims-and-credentials-wg/
 categories: ["Identity Foundation (DIF)","Web Standards"]
 tags: ["Verifiable Credentials","Claims and Credentials WG","JSON-LD","Credentials Community Group","DIF"]
 header:
