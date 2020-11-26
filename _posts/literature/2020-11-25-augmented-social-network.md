@@ -16,8 +16,9 @@ header:
 last_modified_at: 2020-11-26
 ---
 
-## Building identity and trust into the next-generation Internet 
-### by *Ken Jordan*, *Jan Hauser*, and *Steven Foster*.
+## Introduction
+### Building identity and trust into the next-generation Internet 
+#### by *Ken Jordan*, *Jan Hauser*, and *Steven Foster*.
 
 > [The ASN white paper](https://web.archive.org/web/20180620134007/http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf) was presented at the June 2003 Planetwork conference and published in [First Monday](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1068/988). There are also [1,000](http://asn.planetwork.net/ASN-1000excerpt.pdf) word and [5,600 word](http://asn.planetwork.net/ASN-5600excerpt.pdf) excerpts from the original 34,000 word white paper.
 
@@ -538,14 +539,7 @@ Reed's Law describes how connectivity and various network properties create new,
 
 The ^ Table and graphics below illustrate the extended reach of Group Forming Networks. The ^ Table denotes the various classes of networks and gives examples. The graph illustrates how value increases as the number of members increases.
 
-(^9) Howard Rheingold, Smart Mobs: The Next Social Revolution, Perseus Publishing (New York, 2003), p.11 4
-(^10) ibid, p.114
-(^11) Among engineers, Metcalfe's Law is sometimes referred to as the "polynomial function of degree 2."
-(^12) ibid, p.59
-
-##### Figure 1
-
-[[*^ Table of Contents*](#page-title)]
+**_Figure 1_**
 
 | Law: | Sarnof | Metcalfe | GFN (Reed) | 
 | --- | --- | --- | --- |
@@ -565,12 +559,15 @@ Reed's observation about the way Group Forming Networks generate value parallels
 
 How might our online community tools be made even more effective at enabling collaboration? How might society benefit from improvements to the Internet that make interconnections between social networks even more plentiful?
 
+
+(^9) Howard Rheingold, Smart Mobs: The Next Social Revolution, Perseus Publishing (New York, 2003), p.11 4
+(^10) ibid, p.114
+(^11) Among engineers, Metcalfe's Law is sometimes referred to as the "polynomial function of degree 2."
+(^12) ibid, p.59
 (^13) ibid, p.59
-(^14) David Reed, "That Sneaky Exponential -- Beyond Metcalfe's Law to the Power of Community Building,"
-online at [http://www.reed.com/Papers/GFN/reedslaw.html](http://www.reed.com/Papers/GFN/reedslaw.html)
+(^14) David Reed, "That Sneaky Exponential -- Beyond Metcalfe's Law to the Power of Community Building," online at [http://www.reed.com/Papers/GFN/reedslaw.html](http://www.reed.com/Papers/GFN/reedslaw.html)
 (^15) Sometimes Reed's Law is also referred to as the " exponential function".
-(^16) Johnson, Rasmussen, and Kantor, "The Symbiotic Intelligence Project" and N. Johnson, "Collective
-Problem Solving"
+(^16) Johnson, Rasmussen, and Kantor, "The Symbiotic Intelligence Project" and N. Johnson, "Collective Problem Solving"
 
 ##### Extending Communities of Practice
 
@@ -610,18 +607,13 @@ Most importantly, the ASN will not "break down the walls" between online social 
 There are some who say that making a single, borderless online community is a utopian ideal worth pursuing. However, aside from the obstacles to adoption this would create by alienating existing online communities, the notion of a single online community may well run counter to human nature. In his article "Communities, Audiences, and Scale,"^18 Clay Shirky suggests that a threshold for online community size exists that, once passed, transforms an active, engaged community into a passive, traditional audience -- that is, a group of people who only receive information rather than interact with each other. "Members of a community are connected to one another, not just to some central outlet -- a many-to-many pattern," he writes. "As a result," he continues, "communities have strong upper limits to size, while audiences can grow arbitrarily large. Put another way, the larger the group held together by communication grows, the more it must become like an audience -- largely disconnected and held together by communication traveling from center to the edge -- because increasing the number of people in a group weakens
 communal connection."^19
 
-Shirky cites the work of primatologist Robin Dunbar, who "argues that humans are
-adapted for social group sizes of around 150 or less, a size that shows up in a number of
-traditional societies, as well as in present day groups such as the Hutterite religious
-communities. Dunbar argues that the human brain is optimized for keeping track of social
-relationships in groups smaller than 150, but not larger."^20
+Shirky cites the work of primatologist Robin Dunbar, who "argues that humans are adapted for social group sizes of around 150 or less, a size that shows up in a number of traditional societies, as well as in present day groups such as the Hutterite religious communities. Dunbar argues that the human brain is optimized for keeping track of social relationships in groups smaller than 150, but not larger."^20
 
 It is questionable whether the 35 million subscribers to AOL think of themselves as belonging to a single online community -- though there are many thousands of distinct, if often overlapping, communities (or social networks) that have organized themselves on the AOL platform. Suffice it to say that, while it is difficult (if not impossible) to try to pin point the size of the "ideal" community, an awareness that communities are not infinitely expandable bears directly on how we propose to execute the ASN.
 
-(^18) Clay Shirky, "Communities, Audiences, and Scale," April 6, 2002,
-[http://shirky.com/writings/community_scale.html](http://shirky.com/writings/community_scale.html) (May 14, 2003)
+(^18) Clay Shirky, "Communities, Audiences, and Scale," April 6, 2002, [http://shirky.com/writings/community_scale.html](http://shirky.com/writings/community_scale.html) (May 14, 2003)
 (^19) ibid.
-(^20) ibid. The original reference is to Robin Dunbar's Grooming, Gossip, and the Evolution of Language (ISBN 06 74363361 ).
+(^20) ibid. The original reference is to Robin Dunbar's Grooming, Gossip, and the Evolution of Language (ISBN 06 74363361).
 
 ##### ASN Community Functionality
 
