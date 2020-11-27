@@ -4,7 +4,9 @@ layout: single
 title: W3C Verifiable Claims Working Group
 description: The mission of the Verifiable Claims Working Group (VCWG) is to make expressing and exchanging credentials that have been verified by a third party easier and more secure on the Web.
 excerpt: The Working Group will maintain the Verifiable Credentials Data Model specification, which provides a mechanism to express a verifiable credential on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable.
-permalink: web-standards/vc-wg/
+permalink: web-standards/w3c/wg/vc/
+redirect_from: 
+  - web-standards/vc-wg/
 toc: false
 tags: ["W3C","VC-WG","Verifiable Credentials"]
 categories: ["Web Standards"]

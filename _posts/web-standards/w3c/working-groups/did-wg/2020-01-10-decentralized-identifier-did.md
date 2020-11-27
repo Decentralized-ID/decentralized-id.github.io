@@ -2,11 +2,12 @@
 title: "(DID) the Decentralized Identifier"
 categories: ["Web Standards"]
 tags: ["W3C","Credentials Community Group","DID","BTCR","Blockstack","ERC725","IPID","lifeID","Dominode","Ontology","Ockam","JLinc","ION","ETHR","Jolocom","Veres One"]
-permalink: /web-standards/w3c/did-wg/decentralized-identifier/
+permalink: web-standards/w3c/wg/did/decentralized-identifier/
 redirect_from: 
-  - /specs-standards/decentralized-identifier-did/
-  - /web-standards/decentralized-identifier-did/
-  - /adoption/
+  - web-standards/w3c/did-wg/decentralized-identifier/
+  - specs-standards/decentralized-identifier-did/
+  - web-standards/decentralized-identifier-did/
+  - adoption/
 last_modified_at: 2020-11-23
 ---
 
