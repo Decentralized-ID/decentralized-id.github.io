@@ -1,6 +1,6 @@
 ---
 date: 2020-11-26
-title: DIF - Identifiers & Discovery Working Group
+title: Identifiers & Discovery Working Group - DIF 
 description: Specifications, implementations, test suites, etc. related to creation, derivation, resolution, management, use of all forms of decentralized identifiers 
 excerpt: >
     Members of the Working Group are engaged in development of protocols and systems that enable creation, resolution, and discovery of decentralized identifiers and names across underlying decentralized systems, like blockchains and distributed ledgers.

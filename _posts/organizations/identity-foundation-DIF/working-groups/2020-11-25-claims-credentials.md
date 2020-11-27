@@ -1,6 +1,6 @@
 ---
 date: 2020-11-25
-title: DIF - Claims and Credentials Working Group
+title: Claims and Credentials Working Group - DIF 
 description: Standards and technology that create, exchange, and verify claims and credentials in a decentralized identity ecosystem. 
 excerpt: >
     Join this group to contribute to the standards and technology that create, exchange, and verify claims and credentials in a decentralized identity ecosystem. For example, a cryptographically verifiable credential that proves an individual has a college degree or is of a certain age. Our members focus on specs that are vendor agnostic and based on industry standards.
