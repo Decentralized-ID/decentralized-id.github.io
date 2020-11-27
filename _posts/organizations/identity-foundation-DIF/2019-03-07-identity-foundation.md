@@ -12,7 +12,7 @@ redirect_from:
 categories: ["Organizations","Identity Foundation (DIF)"]
 tags: ["IBM","Microsoft","Jolocom","DIF","Evernym","GS1","Danube Tech","Sovrin Foundation","uPort","Meeco","Transmute"]
 
-last_modified_at: 2020-01-15
+last_modified_at: 2020-11-26
 ---
 
 >A key piece of the decentralized identity equation is how people, organizations, and devices can be identified and located without centralized systems of identifiers (e.g. email addresses). DIF members are actively working on protocols and implementations that enable creation, resolution, and discovery of decentralized identifiers and names across decentralized systems, like blockchains and distributed ledgers.
@@ -29,6 +29,25 @@ last_modified_at: 2020-01-15
   * [uniresolver.io](https://uniresolver.io/)
 627-masterclass-on-the-did-universal-resolver-identiverse-2018)
 * [Decentralized Identity Foundation](https://golden.com/wiki/Decentralized_Identity_Foundation) - golden.com
+
+## Groups
+### Working groups
+- [Identifiers and Discovery](https://identity.foundation/working-groups/identifiers-discovery.html)
+- [Storage and Compute](https://identity.foundation/working-groups/storage-compute.html)
+- [DID Authentication](https://identity.foundation/working-groups/authentication.html)
+- [Claims and Credentials](https://identity.foundation/working-groups/claims-credentials.html)
+- [DID communication](https://identity.foundation/working-groups/did-comm.html)
+- [Sidetree](https://identity.foundation/working-groups/sidetree.html)
+- [Secure Data Storage](https://identity.foundation/working-groups/secure-data-storage.html)
+### Special Interest Groups
+- [Banking and Finance SIG](https://www.notion.so/dif/Banking-and-Finance-SIG-b2d528af578d44699aeb742ed47b81d2)
+- [Healthcare SIG](https://www.notion.so/dif/Healthcare-SIG-842bc686d12e4a508a951afc4d6df47d)
+### Open groups
+- [Glossary Project](https://identity.foundation/open-groups/glossary.html)
+- [APAC/ASEAN community call](https://dif.groups.io/g/dif-apac-asean)
+- [Product managers](https://dif.groups.io/g/id-productmanagers)
+
+## Members
 
 DIF members, who share the goal of “building an open source decentralized identity ecosystem for people, organizations, apps, and devices” include: 
 • [1kosmos](https://onekosmos.com/product-details/) 
