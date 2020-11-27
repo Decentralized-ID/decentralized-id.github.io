@@ -4,8 +4,10 @@ title: Identifiers & Discovery Working Group - DIF
 description: Specifications, implementations, test suites, etc. related to creation, derivation, resolution, management, use of all forms of decentralized identifiers 
 excerpt: >
     Members of the Working Group are engaged in development of protocols and systems that enable creation, resolution, and discovery of decentralized identifiers and names across underlying decentralized systems, like blockchains and distributed ledgers.
-permalink: organizations/identity-foundation/wg/identifiers-and-discovery/
-redirect_from: organizations/identity-foundation/identifiers-and-discovery-wg/
+permalink: organizations/identity-foundation/identifiers-and-discovery-wg/wg/identifiers-and-discovery/
+redirect_from: 
+  - organizations/identity-foundation/identifiers-and-discovery-wg/
+  - organizations/identity-foundation/wg/identifiers-and-discovery/
 canonical_url: https://decentralized-id.com/organizations/identity-foundation/wg/identifiers-and-discovery/
 categories: ["Identity Foundation (DIF)","Web Standards"]
 tags: ["Identifiers and Discovery WG","DID","DIF","Universal Resolver","Universal Registrar","KERI"]
