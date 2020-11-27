@@ -5,7 +5,7 @@ description: data models for storage and transport, syntax, data at rest protect
 excerpt: >
   Secure, encrypted, privacy-preserving storage and computation of data is a critical component of decentralized identity systems. As with identifiers and names must be self-sovereign to the owning entity, a user's identity data must remain private, only accessible to the entities they allow. DIF members are actively developing specs and reference implementations for provider-agnostic, run-anywhere solutions that provides these features.
 permalink: organizations/decentralized-identity-foundation/wg/secure-data-storage/
-canonical_url: https://decentralized-id.com/organizations/decentralized-identity-foundation/
+canonical_url: https://decentralized-id.com/organizations/decentralized-identity-foundation/wg/secure-data-storage/
 redirect_from: 
   - organizations/identity-foundation/wg/secure-data-storage/
 categories: ["Identity Foundation (DIF)","Web Standards"]
