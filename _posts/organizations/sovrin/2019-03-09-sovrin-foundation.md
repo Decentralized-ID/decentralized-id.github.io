@@ -17,7 +17,7 @@ redirect_from:
   - organizations/sovrin/
 categories: ["Organizations","Sovrin Foundation"]
 tags: ["Indy","Verifiable Organizations Network","Sovrin Foundation","Blockchain","Aalto","Absa","Amihan","ARTiFACTS","Attinad","ATB","BIG","BakerHostetler","Cisco","Certisign","Crypto Valley Association","CULedger","Danube Tech","Desert Financial","Datum","Digicert","Digital Bazaar","Estatus","Evernym", "Vimsa","Finicity","First Education CU","IBM","InfoCert","iRespond","KYC Chain","lab10 collective","OAS Staff FCU","Perkins Cole","ProSapien","Qiy Foundation", "Royal CU","SICPA","SITA","Spark NZ","Swisscom Blockchain","T-Labs","TNO","Truu","TwinPeek","Tykn","Veridium"]
-last_modified_at: 2019-11-19
+last_modified_at: 2020-11-19
 ---
 
 ![](https://www.evernym.com/wp-content/uploads/2017/04/logo-large.png)
