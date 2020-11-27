@@ -54,6 +54,3 @@ Encrypted personal datastore for identity interactions and decentralized apps.
   > We store a significant amount of sensitive data online, such as personally identifying information (PII), trade secrets, family pictures, and customer information. The data that we store is often not protected in an appropriate manner.
   > 
   > Legislation, such as the General Data Protection Regulation (GDPR), incentivizes service providers to better preserve individuals' privacy, primarily through making the providers liable in the event of a data breach. This liability pressure has revealed a technological gap, whereby providers are often not equipped with technology that can suitably protect their customers. Encrypted Data Vaults fill this gap and provide a variety of other benefits.
-  > 
-  > This specification describes a privacy-respecting mechanism for storing, indexing, and retrieving encrypted data at a storage provider. It is often useful when an individual or organization wants to protect data in a way that the storage provider cannot view, analyze, aggregate, or resell the data. This approach also ensures that application data is portable and protected from storage provider data breaches.
-
