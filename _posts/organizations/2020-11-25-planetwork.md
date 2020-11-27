@@ -10,7 +10,7 @@ permalink: organizations/planetwork/
 header: 
   image: /images/planetwork-header.webp
   teaser: /images/planetwork-teaser.webp
-last_updated_at: 2020-11-25
+last_modified_at: 2020-11-25
 ---
 
 > Planetwork was founded in 1998 with the recognition that the only phenomenon growing as fast as the global ecological crisis was the global communications system and that with it, we could address the biggest threats facing humanity and the planet. - [About](https://www.planetwork.net/about)
