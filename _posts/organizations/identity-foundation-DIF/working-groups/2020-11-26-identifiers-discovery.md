@@ -1,6 +1,6 @@
 ---
 date: 2020-11-26
-title: Identifiers & Discovery Working Group
+title: DIF - Identifiers & Discovery Working Group
 description: Specifications, implementations, test suites, etc. related to creation, derivation, resolution, management, use of all forms of decentralized identifiers 
 excerpt: >
     Members of the Working Group are engaged in development of protocols and systems that enable creation, resolution, and discovery of decentralized identifiers and names across underlying decentralized systems, like blockchains and distributed ledgers.
@@ -15,7 +15,7 @@ header:
 last_modified_at: 2020-11-26
 ---
 
-[DIF - Identifiers and Discovery Working Group](https://identity.foundation/working-groups/identifiers-discovery.html) - [GitHub](https://github.com/decentralized-identity/identifiers-discovery) - [Slack](https://difdn.slack.com/messages/C4WED8JSH)
+[Webpage](https://identity.foundation/working-groups/identifiers-discovery.html) - [GitHub](https://github.com/decentralized-identity/identifiers-discovery) - [Slack](https://difdn.slack.com/messages/C4WED8JSH)
 
 > Members of the Working Group are engaged in development of protocols and systems that enable creation, resolution, and discovery of decentralized identifiers and names across underlying decentralized systems, like blockchains and distributed ledgers.
 
@@ -35,7 +35,6 @@ last_modified_at: 2020-11-26
   > This document is live-edited DURING each call, and stable/authoritative copies live on our github repo under /agenda.md . Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd.
 
 ## Specs & Projects
-
 ### [Universal Resolver](https://uniresolver.io/)
 
 Spec and implementation of a driver-based framework that enables resolution of DIDs.
