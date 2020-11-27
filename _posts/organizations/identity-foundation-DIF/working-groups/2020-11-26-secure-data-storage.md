@@ -1,6 +1,6 @@
 ---
 date: 2020-11-26
-title: DIF - Secure Data Storage
+title: DIF - Secure Data Storage WG
 description: data models for storage and transport, syntax, data at rest protection, CRUD API, access control, synchronization, and at least a minimum viable HTTP-based interface compatible with W3C DIDs/VCs.
 excerpt: >
   Secure, encrypted, privacy-preserving storage and computation of data is a critical component of decentralized identity systems. As with identifiers and names must be self-sovereign to the owning entity, a user's identity data must remain private, only accessible to the entities they allow. DIF members are actively developing specs and reference implementations for provider-agnostic, run-anywhere solutions that provides these features.
@@ -9,8 +9,8 @@ canonical_url: https://decentralized-id.com/organizations/identity-foundation/wg
 categories: ["Identity Foundation (DIF)","Web Standards"]
 tags: ["Storage and Compute WG","DIF","Secure Data Storage","Hubs"]
 header:
-  image: /images/storage-compute-head.webp
-  teaser: /images/storage-compute-teaser.webp
+  image: /images/secure-data-storage-head.webp
+  teaser: /images/secure-data-storage-teaser.webp
 last_modified_at: 2020-11-26
 ---
 
