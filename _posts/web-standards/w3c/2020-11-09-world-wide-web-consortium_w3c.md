@@ -7,7 +7,7 @@ layout: single
 permalink: web-standards/w3c/
 canonical_url: 'https://decentralized-id.com/web-standards/w3c/'
 categories: ["Web Standards","Organizations"]
-tags: ["W3C","Credentials Community Group","JSON-LD","WebAuthN","DID","Verifiable Credentials","Veres One"]
+tags: ["W3C","Credentials Community Group","JSON-LD","WebAuthN","DID","Verifiable Credentials","Veres One","BTCR"]
 header:
   image: /images/w3c_banner.webp
   teaser: /images/w3c_teaser.webp
