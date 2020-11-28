@@ -10,7 +10,7 @@ header:
 layout: single
 permalink: /blockchain/
 categories: ["Blockchain","Literature"]
-tags: ["uPort","GDPR","Authenteq","Blockstack","Civic","Microsoft"]
+tags: ["uPort","GDPR","Authenteq","Blockstack","Civic","Microsoft","Datum","ProCivis"]
 last_modified_at: 2020-11-10
 toc: false
 ---

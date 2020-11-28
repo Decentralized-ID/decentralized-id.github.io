@@ -16,7 +16,7 @@ redirect_from:
   - rebooting-web-of-trust/
 toc_sticky: false
 categories: ["Literature","Workshops"]
-tags: ["Rebooting WoT","Bitcoin","Ethereum","DID","DPKI","Verifiable Credentials","Consensys","Blockstack", "JSON-LD", "Hubs","Self Sovereign Identity","eIDAS","Blockcerts","GDPR","PGP","Veres One","W3C","XDI","BTCR"]
+tags: ["Rebooting WoT","Bitcoin","Ethereum","DID","DPKI","Verifiable Credentials","Consensys","Blockstack", "JSON-LD", "Hubs","Self Sovereign Identity","eIDAS","Blockcerts","GDPR","PGP","Veres One","W3C","XDI","BTCR","California","DKMS","Digital Bazaar"]
 last_modified_at: 2020-10-10
 ---
 

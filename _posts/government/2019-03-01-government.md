@@ -16,7 +16,7 @@ header:
   image: /images/blockchange-identity-header.webp
   caption: "[On the Emergent Use of Distributed Ledger Technologies for Identity Management](https://blockchan.ge/blockchange-fieldreport.pdf)"
 categories: ["Government"]
-tags: ["USA","Canada","Europe","GDPR"]
+tags: ["USA","Canada","Europe","GDPR","ProCivis","California","CCPA"]
 last_modified_at: 2019-01-11
 toc: false
 ---
@@ -40,6 +40,7 @@ toc: false
   > With a surge of new regulations, including GDPR and KYC, governments have been the catalysts for redefining how organizations handle issues of trust and privacy. Over the last several years, we’ve seen pioneers emerge from local and federal governments alike, and we’ve created our Early-Access Packages as a way to help them leverage decentralized capabilities to unlock economic growth and enable new citizen relationships.
 
 {% include video id="qlQNahzjJVw" provider="youtube" %}
+
 [Governments and Decentralized Identity -- Presentation from Shailee Adinolfi](https://www.youtube.com/watch?v=qlQNahzjJVw)
   > Shailee Adinolfi (Director, Government Blockchain Solutions, ConsenSys) argues that government adoption of self-sovereign identity is necessary for any widespread implementation of the technology. Through use of blockchain, SSI could provide oversight, transparency, and security while smart contracts could automate government processes, reducing costs and improving efficiency.
 

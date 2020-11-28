@@ -4,7 +4,7 @@ title: Verifiable Credentials
 description: a standard way to express credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable.
 excerpt: >
   Verifiable credentials (VCs) are the electronic equivalent of the physical credentials that we all possess today, such as: plastic cards, passports, driving licenses, qualifications and awards, etc. The data model for verifiable credentials is a World Wide Web Consortium Recommendation, "Verifiable Credentials Data Model 1.0 - Expressing verifiable information on the Web" published 19 November 2019.
-tags: ["W3C","Verifiable Credentials","Credentials Community Group","VC-WG","JSON-LD","OAuth"]
+tags: ["W3C","Verifiable Credentials","Credentials Community Group","VC-WG","JSON-LD","OAuth","FIDO"]
 categories: ["Web Standards"]
 permalink: web-standards/w3c/wg/vc/verifiable-credentials/
 redirect_from: 

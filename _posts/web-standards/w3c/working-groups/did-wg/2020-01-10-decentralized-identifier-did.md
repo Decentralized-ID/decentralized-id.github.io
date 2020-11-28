@@ -1,7 +1,7 @@
 ---
 title: "(DID) the Decentralized Identifier"
 categories: ["Web Standards"]
-tags: ["W3C","Credentials Community Group","DID","BTCR","Blockstack","ERC725","IPID","lifeID","Dominode","Ontology","Ockam","JLinc","ION","ETHR","Jolocom","Veres One","XDI","uPort","Ethereum","Bitcoin","IBM", "Microsoft", "Digital Bazaar", "Consensys", "Evernym", "Hyland Credentials","BCGov"]
+tags: ["W3C","Credentials Community Group","DID","BTCR","Blockstack","ERC725","IPID","lifeID","Dominode","Ontology","Ockam","JLinc","ION","Jolocom","Veres One","XDI","uPort","Ethereum","Bitcoin","IBM", "Microsoft", "Digital Bazaar", "Consensys", "Evernym", "Hyland Credentials","BCGov","Ocean Protocol","Alastria","InfoWallet","ICON","Vivvo","Sovrin Foundation","Consent","Peer DID"]
 permalink: web-standards/w3c/wg/did/decentralized-identifier/
 redirect_from: 
   - web-standards/w3c/did-wg/decentralized-identifier/
@@ -72,3 +72,4 @@ last_modified_at: 2020-11-23
 * did:ion:     - [ION DID Method](https://github.com/decentralized-identity/ion-did-method)
 * did:jolo:    - Jolocom 	
 * did:ethr:    - [ETHR DID Method](https://github.com/uport-project/ethr-did-resolver/blob/develop/doc/did-method-spec.md)
+

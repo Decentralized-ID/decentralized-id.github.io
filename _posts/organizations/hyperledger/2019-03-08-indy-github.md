@@ -17,7 +17,7 @@ sidebar:
   nav: "sovnav"
 toc: false
 categories: ["Hyperledger Foundation","Code"]
-tags: ["Hyperledger Foundation","Code","Anoncreds","Indy","Ursa","Aries"]
+tags: ["Hyperledger Foundation","Code","Indy","Ursa","Aries"]
 last_modified_at: 2019-03-08
 ---
 
