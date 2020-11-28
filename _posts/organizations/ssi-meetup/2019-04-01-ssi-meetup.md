@@ -22,9 +22,9 @@ last_modified_at: 2019-07-20
 
 It's not sustainable to keep them all listed on one page, so I've split off all the presentations on Specs and Open Standards. This process will continue as each presentation is given more individual attention.
 
-* [**SSI-Meetup on Open Standards and Implementations**](https:/organizations/ssi-meetup/open-standards/)
+* [**SSI-Meetup on Open Standards and Implementations**]({{ site.baseurl }}/organizations/ssi-meetup/open-standards/)
   - Verifiable Claims, DIDs, DID Auth, DID Resolution, various DID Methods, etc.
-* [**SSI-Meetup - Use Cases**](https:/organizations/ssi-meetup/use-cases/) - IOT, Healthcare, Banking, etc.
+* [**SSI-Meetup - Use Cases**]({{ site.baseurl }}/organizations/ssi-meetup/use-cases/) - IOT, Healthcare, Banking, etc.
 
 ## Slideshare Presentations
 
