@@ -11,7 +11,7 @@ redirect_from:
 permalink:  organizations/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/
 author_profile: false
 categories: ["Literature"]
-tags: ["Indy","Transcripts","Hyperledger Forum","Evernym"]
+tags: ["Indy","Transcripts","Hyperledger Forum","Evernym","GDPR"]
 published: true
 last_modified_at: 2019-12-11
 ---
@@ -62,8 +62,7 @@ and then I started to realize that putting data on the blockchain had certain re
 
 <img src="https://i.imgur.com/kdoyUEq.png"/>
 
-and then I realized encrypting it wasn't enough, it just plain shouldn't be there at all. and so hopefully you guys are recognizing these kinds of patterns in your own thinking here and then I got into the whole all regulatory compliance of GDPR thing and gee this is getting harder and
-harder.
+and then I realized encrypting it wasn't enough, it just plain shouldn't be there at all. and so hopefully you guys are recognizing these kinds of patterns in your own thinking here and then I got into the whole all regulatory compliance of GDPR thing and gee this is getting harder and harder.
 
 <img src="https://i.imgur.com/V5cyLYb.png"/>
 

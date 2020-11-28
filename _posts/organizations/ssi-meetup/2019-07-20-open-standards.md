@@ -7,7 +7,7 @@ canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/open-stand
 redirect_from: 
   - organizations/ssi-meetup/open-specs/
 categories: ["Web Standards","Media"]
-tags: ["SSI-Meetup","DID","BTCR","Verifiable Credentials","DKMS","W3C"]
+tags: ["SSI-Meetup","DID","BTCR","Verifiable Credentials","DKMS","W3C","Ethereum","Bitcoin","ION","Microsoft"]
 last_modified_at: 2019-07-20
 toc_sticky: false
 ---

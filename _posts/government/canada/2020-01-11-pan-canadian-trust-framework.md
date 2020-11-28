@@ -5,7 +5,7 @@ excerpt: >
   "The Treasury Board Secretariat of Canada (TBS) and Shared Services Canada (SSC) are seeking a standardized method to issue and rapidly verify portable digital credentials across many different contexts, thereby reducing human judgement error, increasing efficiency and ensuring digital credential veracity using cryptography." 
 permalink: /government/canada/
 redirect_from: /public-sector/canada/
-tags: ["Trust Framework","Canada"]
+tags: ["Trust Framework","Canada","Verifiable Credentials"]
 categories: ["Government"]
 header:
   image: /images/pan-canadian-trust-header.webp

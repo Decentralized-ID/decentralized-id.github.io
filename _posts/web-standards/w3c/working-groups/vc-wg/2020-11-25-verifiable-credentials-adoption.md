@@ -6,7 +6,7 @@ permalink: web-standards/w3c/wg/vc/verifiable-credentials/adoption/
 redirect_from: 
   - web-standards/w3c/vc-wg/verifiable-credentials/adoption/
 categories: ["Web Standards"]
-tags: ["Claims and Credentials WG","Verifiable Credentials","Adoption","Credentials Community Group","VC-WG"]
+tags: ["Claims and Credentials WG","Verifiable Credentials","Adoption","Credentials Community Group","VC-WG","W3C","Blockcerts","Blockstack"]
 last_updated: 2020-11-25
 ---
 

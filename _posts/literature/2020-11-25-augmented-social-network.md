@@ -8,7 +8,7 @@ layout: single
 permalink: literature/augmented-social-network/
 canonical_url: 'https://decentralized-id.com/literature/augmented-social-network/'
 categories: ["Literature","History"]
-tags: ["Planetwork","ASN"]
+tags: ["Planetwork","Augmented Social Network","OASIS","Microsoft"]
 header:
   image: /images/asn-header.webp
   caption: "[First Monday](https://firstmonday.org/ojs/index.php/fm/article/view/1068/988)"

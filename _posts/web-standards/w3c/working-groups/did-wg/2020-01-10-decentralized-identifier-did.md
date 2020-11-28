@@ -1,7 +1,7 @@
 ---
 title: "(DID) the Decentralized Identifier"
 categories: ["Web Standards"]
-tags: ["W3C","Credentials Community Group","DID","BTCR","Blockstack","ERC725","IPID","lifeID","Dominode","Ontology","Ockam","JLinc","ION","ETHR","Jolocom","Veres One"]
+tags: ["W3C","Credentials Community Group","DID","BTCR","Blockstack","ERC725","IPID","lifeID","Dominode","Ontology","Ockam","JLinc","ION","ETHR","Jolocom","Veres One","XDI","uPort","Ethereum","Bitcoin","IBM", "Microsoft", "Digital Bazaar", "Consensys", "Evernym", "Hyland Credentials","BCGov"]
 permalink: web-standards/w3c/wg/did/decentralized-identifier/
 redirect_from: 
   - web-standards/w3c/did-wg/decentralized-identifier/

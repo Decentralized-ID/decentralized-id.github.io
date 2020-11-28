@@ -7,7 +7,7 @@ excerpt: A selection of DID related literature and top level resources for disco
 header: 
   image: /images/literature-christian-wiediger-unsplash.webp
 categories: ["Literature"]
-tags: ["DPKI","Rebooting WoT","Self Sovereign Identity","WEF","ID2020"]
+tags: ["DPKI","Rebooting WoT","Self Sovereign Identity","WEF","ID2020","Verifiable Credentials","XDI","uPort","Zug","Accenture"]
 redirect_from: literature
 permalink: literature/
 canonical_url: 'https://decentralized-id.com/literature'

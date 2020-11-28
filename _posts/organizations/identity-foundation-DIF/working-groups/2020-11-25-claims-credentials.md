@@ -10,7 +10,7 @@ redirect_from:
   - organizations/identity-foundation/claims-and-credentials-wg/
   - organizations/identity-foundation/wg/claims-and-credentials/
 categories: ["Identity Foundation (DIF)","Web Standards"]
-tags: ["Verifiable Credentials","Claims and Credentials WG","JSON-LD","Credentials Community Group","DIF"]
+tags: ["Verifiable Credentials","Claims and Credentials WG","JSON-LD","Credentials Community Group","DIF","W3C"]
 header:
   image: /images/claims-credentials-header.webp 
   teaser: /images/claims-credentials-teaser.webp

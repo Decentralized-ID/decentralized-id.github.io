@@ -1,6 +1,6 @@
 ---
 title: Linked Data and the Semantic Web
-tags: ["Linked Data", "JSON-LD","RDF"]
+tags: ["Linked Data", "JSON-LD","RDF","W3C","Veres One"]
 categories: ["Web Standards"]
 permalink: /web-standards/linked-data/
 redirect_from: /specs-standards/linked-data/

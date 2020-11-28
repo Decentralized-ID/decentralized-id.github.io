@@ -12,7 +12,7 @@ redirect_from:
   - /self-sovereign-identity
   - /self-sovereign-identity/
 categories: ["Literature"]
-tags: ["Self Sovereign Identity","Laws of Identity"]
+tags: ["Self Sovereign Identity","Laws of Identity","uPort","eIDAS"]
 last_modified_at: 2020-11-02
 ---
 
