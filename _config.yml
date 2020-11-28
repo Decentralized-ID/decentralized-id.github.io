@@ -341,7 +341,7 @@ defaults:
     values:
       sidebar:
         - title: "Identity Decentralized"
-          image: "/images/DID_ban.webp"
+          image: "/images/binary-1254502_GDj.webp"
           image_alt: "Decentralized-ID.com Sidebar"
           nav: "didnav"
       layout: single
