@@ -65,7 +65,7 @@ JULY 9, 2019
 * [Me2B Alliance](https://www.me2balliance.org/repository.html)
 * [Ethereum Enterprise Alliance](https://entethalliance.org/participate/working-groups/)
 
-{% include figure image_path="/images/1280px-Who-Runs-the-Internet-graphic.png" alt="https://es.wikipedia.org/wiki/Archivo:Who-Runs-the-Internet-graphic.png" caption="[*Internet Governance*](https://en.wikipedia.org/wiki/Internet_governance)" %}
+{% include figure image_path="/images/1280px-Who-Runs-the-Internet-graphic.webp" alt="https://es.wikipedia.org/wiki/Archivo:Who-Runs-the-Internet-graphic.png" caption="[*Internet Governance*](https://en.wikipedia.org/wiki/Internet_governance)" %}
 
 ## NIST
 
