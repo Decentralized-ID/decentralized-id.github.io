@@ -75,5 +75,5 @@ toc: false
 
 | **Karyl Fowler** (CEO) | **Orie Steele** (CTO) |
 | ---- | ---- |
-| ![]({{ site.baseurl }}/images/KarylFowler_Transmute.jpg) | ![]({{ site.baseurl }}images/OrieSteele_Transmute.webp) |
+| ![]({{ site.baseurl }}/images/KarylFowler_Transmute.webp) | ![]({{ site.baseurl }}/images/OrieSteele_Transmute.webp) |
 | [@TheKarl](https://twitter.com/TheKaryl) – [linkedin](https://www.linkedin.com/in/karylfowler/) | [@or13b](https://twitter.com/or13b) – [linkedin](https://www.linkedin.com/in/or13b/) |
