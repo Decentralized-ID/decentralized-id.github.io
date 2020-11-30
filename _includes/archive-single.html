@@ -31,6 +31,6 @@
       {% endif %}
     </h3>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>{% endif %}
-    <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}<br>{% if post.tags %}<strong>Tags:</strong> {% for tag in post.tags %}[<u>{{ tag }}</u>] {% endfor %}<br>{% endif %}<strong>Published:</strong> {{ post.date | date: "%Y-%m-%d" }} {% if post.last_modified_at %}<strong>Updated:</strong> {{ post.last_modified_at }}{% endif %}</p><br>
+    <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}<br>{% if post.tags %}{% assign sorted_tags = post.tags | sort %}<strong>Tags:</strong> {% for tag in sorted_tags %}[<u>{{ tag }}</u>] {% endfor %}<br>{% endif %}<strong>Published:</strong> {{ post.date | date: "%Y-%m-%d" }} {% if post.last_modified_at %}<strong>Updated:</strong> {{ post.last_modified_at }}{% endif %}</p><br>
   </article> 
 </div>
