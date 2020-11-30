@@ -11,7 +11,7 @@ header:
 permalink: /blockchain/ethereum/repositories/
 redirect_from: /ethereum/id-github/
 canonical_url: 'https://decentralized-id.com/blockchain/ethereum/repositories/'
-categories: ["Blockchain","Code"]
+categories: ["Ethereum","Code"]
 tags: ["Ethereum","Jolocom","uPort","Consensys","Universal Resolver"]
 last_modified_at: 2019-07-11
 
