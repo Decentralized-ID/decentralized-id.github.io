@@ -38,8 +38,8 @@ toc: false
   > `cd did-client`\
   > `npm install did-client`\
   > Generate a Decentralized Identifier:
-  > `./node_modules/did-client/did generate --register`
-  > Information related to your Decentralized Identifier will be stored in the following directory:
+  > `./node_modules/did-client/did generate --register`\
+  > Information related to your Decentralized Identifier will be stored in the following directory:\
   > `ls $HOME/.testdid/`
 
 
