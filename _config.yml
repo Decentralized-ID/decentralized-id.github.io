@@ -288,8 +288,6 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      header:
-        image: /images/binary-2910663_geralt.webp
       sidebar:
         - title: "Identity Decentralized"
           image: "/images/binary-1254502_GDj.webp"
@@ -316,8 +314,6 @@ defaults:
           nav: "didnav"
       layout: single
       author_profile: false
-      header:
-        image: /images/binary-2910663_geralt.webp
       read_time: true
       comments: true
       share: true
