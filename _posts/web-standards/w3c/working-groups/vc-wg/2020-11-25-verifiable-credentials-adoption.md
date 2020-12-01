@@ -7,7 +7,7 @@ redirect_from:
   - web-standards/w3c/vc-wg/verifiable-credentials/adoption/
 categories: ["Web Standards"]
 tags: ["Claims and Credentials WG","Verifiable Credentials","Adoption","Credentials Community Group","VC-WG","W3C","Blockcerts","Blockstack","MATTR"]
-last_updated: 2020-11-25
+last_updated_at: 2020-11-25
 ---
 
 * [Substrate Verifiable Credentials Workshop](https://substrate.dev/substrate-verifiable-credentials/#/) - Learn to build blockchains with Parity Substrate
