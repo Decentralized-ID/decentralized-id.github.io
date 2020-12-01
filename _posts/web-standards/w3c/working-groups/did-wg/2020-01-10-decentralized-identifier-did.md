@@ -1,8 +1,12 @@
 ---
 title: "(DID) the Decentralized Identifier"
+description: Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. 
+excerpt: >
+  Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID identifies any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) that the controller of the DID decides that it identifies. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject.
 categories: ["Web Standards"]
 tags: ["W3C","Credentials Community Group","DID","BTCR","Blockstack","ERC725","IPID","lifeID","Dominode","Ontology","Ockam","JLinc","ION","Jolocom","Veres One","XDI","uPort","Ethereum","Bitcoin","IBM", "Microsoft", "Digital Bazaar", "Consensys", "Evernym", "Hyland Credentials","BCGov","Ocean Protocol","Alastria","InfoWallet","ICON","Vivvo","Sovrin Foundation","Consent","Peer DID"]
 permalink: web-standards/w3c/wg/did/decentralized-identifier/
+canonical_url: https://decentralized-id.com/web-standards/w3c/wg/did/decentralized-identifier/
 redirect_from: 
   - web-standards/w3c/did-wg/decentralized-identifier/
   - specs-standards/decentralized-identifier-did/
@@ -13,6 +17,8 @@ last_modified_at: 2020-11-23
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
 
+* [Decentralized Identifiers (DIDs) v1.0](https://w3c.github.io/did-core/)
+  >   Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID identifies any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) that the controller of the DID decides that it identifies. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject.
 * [DID Whitepaper](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/DID-Whitepaper.md)
   > A DID architecture should focus on the set of components that Mr. Gupta refers to as "the minimum required for people to be able to do business (or other critical functions) together".
   >
@@ -25,7 +31,6 @@ last_modified_at: 2020-11-23
   > * A master key recovery function
 * [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
   * [All you need to know about sequential UUID generators](https://blog.2ndquadrant.com/sequential-uuid-generators/)
-* [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
 * [Understanding Decentralized IDs (DIDs)](https://medium.com/@adam_14796/understanding-decentralized-ids-dids-839798b91809)
 * [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
 * [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
