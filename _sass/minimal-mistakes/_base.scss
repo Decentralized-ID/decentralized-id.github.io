@@ -95,6 +95,20 @@ fieldset {
   widows: 3;
 }
 
+.tags {
+	display: inline-block;
+  margin: 0;
+  padding: 0.25rem 0.25rem;
+	border: 0;
+	border-radius: 0.317rem;
+	background-color: rgb(177, 177, 179);
+	color: #fff;
+	text-decoration: none;
+	font-weight: 500;
+  font-size: 0.65em;
+  line-height: .7;
+}
+
 /* abbreviations */
 
 abbr[title],
