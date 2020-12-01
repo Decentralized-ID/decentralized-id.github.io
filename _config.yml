@@ -175,8 +175,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+  - _drafts
 keep_files:
   - .git
   - .svn
@@ -281,13 +280,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-collections:
-  HowToContribute:
-    output: true
-    permalink: /how-to-contribute/:path/
-
 
 # Defaults
 defaults:
