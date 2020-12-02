@@ -5,8 +5,10 @@ description: Transmute’s technology connects enterprise infrastructure with em
 excerpt: >
     Transmute digitizes trade documentation in a way that is cryptographically verifiable and traceable across an entire logistics ecosystem. The company’s approach combines decentralized identifier (DID), verifiable credential (VC), and blockchain technology with existing cloud-based systems to eliminate the paper hassle of trade docs and provide unprecedented visibility into customers’ supplier networks by effectively memorializing trade data at every step in a products’ journey from point of origin to point of import and beyond.
 layout: single
-permalink: companies/transmute/
-canonical_url: 'https://decentralized-id.com/companies/transmute/'
+permalink: blockchain/ethereum/transmute/
+canonical_url: 'https://decentralized-id.com/blockchain/ethereum/transmute/'
+redirect_from: 
+  - companies/transmute/
 categories: ["Companies","Ethereum"]
 tags: ["Transmute","Ethereum", "Microsoft","DID","Verifiable Credentials","Consensys","DIF","Encrypted Data Vaults","OAuth","OIDC"]
 header:
