@@ -13,7 +13,7 @@ header:
 toc: false
 ---
 
-**[Oasis Open Projects](https://oasis-open-projects.org/):** [Blog](https://oasis-open-projects.org/category/blog/)\
+**Oasis Open Projects:** [Website](https://oasis-open-projects.org/) • [Blog](https://oasis-open-projects.org/category/blog/)\
 **Ethereum Oasis:** [GitHub](https://github.com/ethereum-oasis) • [Baseline](https://www.baseline-protocol.org/) • [Docs](https://docs.baseline-protocol.org/) • [Twitter](https://twitter.com/baselineproto) • [Slack](https://communityinviter.com/apps/ethereum-baseline/join-us)
 
 [Ethereum OASIS Open Project Charter](https://github.com/ethereum-oasis/oasis-open-project/blob/master/PROJECT_CHARTER.md)
