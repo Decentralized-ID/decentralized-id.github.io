@@ -16,7 +16,7 @@ header:
 redirect_from: 
   - web-standards/verifiable-credentials/
   - specs-standards/verifiable credentials/
-last_modified_at: 2020-11-25
+last_modified_at: 2020-12-03
 ---
 
 > Verifiable credentials (VCs) are the electronic equivalent of the physical credentials that we all possess today, such as: plastic cards, passports, driving licences, qualifications and awards, etc. The data model for verifiable credentials is a World Wide Web Consortium Recommendation, "Verifiable Credentials Data Model 1.0 - Expressing verifiable information on the Web" published 19 November 2019. - [Wikipedia](https://en.wikipedia.org/wiki/Verifiable_credentials)
@@ -64,6 +64,22 @@ REGISTRY: The Verifiable Credentials Extension Registry - w3c-ccg/vc-extension-r
 WORK ITEM: Drafts and Ideas of Educational and Occupational Verifiable Credentials - w3c-ccg/edu_occ_verifiable_credentials
 * [w3c-ccg/vc-examples](https://github.com/w3c-ccg/vc-examples)
 WORK ITEM: Verifiable Credentials Examples. 
+
+
+#### Verifiable Credentials Extension Registry
+
+* [Verifiable Credentials Extension Registry](https://w3c-ccg.github.io/vc-extension-registry/) - This document contains a list of all known Verifiable Credential extensions and their associated specifications. 
+
+##### 3.1 Proof Methods
+
+> This table summarizes the Proof Method specifications currently in development. The table lists the method name, associated specification, authors, stability of the specification, and conformance test suite (if applicable).
+
+* [Ed25519Signature2018](https://w3c-dvcg.github.io/lds-ed25519-2018/) by Markus Sabadello 	
+* [RsaSignature2018](https://w3c-dvcg.github.io/lds-rsa2018/) - Manu Sporny, Dave Longley
+
+##### 3.2 Status Methods
+
+* [CredentialStatusList2017](https://w3c-ccg.github.io/vc-csl2017/) - Manu Sporny, Dave Longley
 
 ### Claims and Credentials Working Group
 
