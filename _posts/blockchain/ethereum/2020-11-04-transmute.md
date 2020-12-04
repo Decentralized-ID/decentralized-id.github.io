@@ -61,6 +61,8 @@ last_modified_at: 2020-12-03
 
 <center><iframe src="//www.slideshare.net/slideshow/embed_code/key/2ct2imQLUnzp1j" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SSIMeetup/the-element-did-method-sidetree-ethereum-ipfs-orie-steele" title="The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele" target="_blank">The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele</a> </strong> from <strong><a href="https://ssimeetup.org/element-did-method-sidetree-ethereum-ipfs-orie-steele-webinar-31/" target="_blank">SSIMeetup</a></strong> </div></center>
 
+* [**324: Tap the Market (Karyl Fowler)**](https://www.giantrobots.fm/324)
+  > Karyl Fowler, CEO & Co-founder of Transmute, discusses utilizing block chain for decentralized identity-management, exploring finding the right customer profile fits, education around data-security, her time at Techstars, and the startup community in Austin.
 * [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
   > Sidetree.js is an implementation of v0.1.0 of the sidetree specification
 * [Summer 2019 Update](https://medium.com/transmute-techtalk/summer-2019-update-c11df7806a79)
