@@ -27,10 +27,6 @@ gem "github-pages", group: :jekyll_plugins
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-include-cache"
   gem "jekyll-redirect-from"
   gem "jekyll-mentions"
-  gem "html-proofer"
-  gem 'jekyll-algolia', '~> 1.0'
-  
 end
