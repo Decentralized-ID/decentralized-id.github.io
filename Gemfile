@@ -23,10 +23,10 @@ gem "github-pages", group: :jekyll_plugins
 #   gem "jekyll-feed"
 #   gem "jemoji"
 #   gem "jekyll-data"
-#   gem "jekyll-include-cache"
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-include-cache"
   gem "jekyll-redirect-from"
   gem "jekyll-mentions"
 end
