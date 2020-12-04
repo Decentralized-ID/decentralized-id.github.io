@@ -14,7 +14,7 @@ tags: ["Transmute","Ethereum", "Microsoft","DID","Verifiable Credentials","Conse
 header:
   image: /images/transmute.webp
   teaser: /images/transmute_thumb.webp
-last_modified_at: 2020-11-12
+last_modified_at: 2020-12-03
 ---
 
 **[Transmute Industries](https://www.transmute.industries/) • [Blog](https://medium.com/@Transmute) • [Tech Talk](https://medium.com/transmute-techtalk/) • [Github](https://github.com/transmute-industries) • [Twitter](https://twitter.com/transmutenews) • [Linkedin](https://www.linkedin.com/company/transmute-industries/)**
