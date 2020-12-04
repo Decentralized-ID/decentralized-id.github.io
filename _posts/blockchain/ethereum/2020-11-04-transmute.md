@@ -87,11 +87,11 @@ last_modified_at: 2020-11-12
   > This release was focused on building support for decentralized identities into centralized directory technology that is already widely adopted by enterprises. This work involved adding UI to our React dashboard and updating our API to support registration and group management. We have also done some exploratory work regarding the DID spec and LDAP integration
   > [...]\
   > This release we focused on the centralized side of group membership. This use case relies on the integrity of the directory and discretionary access control. In other words, the directory admins can move users between groups, but users cannot control what groups they are assigned to.
-* [Release: The Transmute Framework Alpha](https://medium.com/transmute-techtalk/release-the-transmute-framework-alpha-ad45acd42bdc)
+* [Release: The Transmute Framework Alpha](https://medium.com/transmute-techtalk/release-the-transmute-framework-alpha-ad45acd42bdc) 4/18
   > The Transmute Framework helps developers build on decentralized technologies like Ethereum and IPFS via a familiar javascript interface. We support rapid prototyping by enabling developers with Redux experience to quickly build out decentralized applications.
   > 
   > This release focuses on support and documentation for the EventStore. Using the EventStore and the Transmute Framework, developers can save events to Ethereum and IPFS, track and query the event-sourced data models, and leverage the immutability properties of IPFS and Ethereum.
-* [Transmute IoT](https://medium.com/transmute-techtalk/transmute-iot-2d00fdcf53e9)
+* [Transmute IoT](https://medium.com/transmute-techtalk/transmute-iot-2d00fdcf53e9) 6/17
   > The Transmute team joined forces with other Austin hackers to participate in [the first Mobility X hackathon at Capital Factory sponsored by car2go](https://www.eventbrite.com/e/mobilityx-hackathon-presented-by-car2go-tickets-33718213083#) a few weekends ago where hackers were challenged to address how to handle rider demand fluctuations or ensure consistent vehicle connectivity.
   > 
   > Maintaining network connectivity felt like the most urgent problem to solve given an effective solution would mean more accurate data on the car2go fleets, resulting in an expanded capacity to address rider demand changes. Mesh networks have been explored as a natural solution for maintaining network connectivity among distributed assets that are moving around geographically. …
