@@ -13,7 +13,7 @@ redirect_from:
   - hgf-2018
   - hgf-2018/
 categories: ["Hyperledger Foundation","Media"]
-tags: ["Hyperledger Forum","GDPR","MyCuID","Sovrin Foundation","DigiCert","Indy","Fabric","Blockcerts","Evernym","R3","Verifiable Organizations Network","CULedger","ATB"]
+tags: ["Hyperledger Forum","GDPR","MyCuID","Sovrin Foundation","DigiCert","Indy","Fabric","Blockcerts","Evernym","R3","Verifiable Organizations Network","CULedger","ATB","Switzerland"]
 last_modified_at: 2019-03-06
 header:
   image: /images/hyperledger-global-forum-header.webp

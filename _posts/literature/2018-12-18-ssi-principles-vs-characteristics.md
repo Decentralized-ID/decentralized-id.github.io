@@ -13,7 +13,7 @@ redirect_from:
   - /self-sovereign-identity/ssi-principles-vs-characteristics
   - /self-sovereign-identity/ssi-principles-vs-characteristics/
 categories: ["Literature"]
-tags: ["Self Sovereign Identity", "Rebooting WoT","Laws of Identity", "notes"]
+tags: ["Self Sovereign Identity", "Rebooting WoT","Laws of Identity", "notes","UN Agenda - Sustainable Development"]
 last_modified_at: 2020-01-05
 published: true
 

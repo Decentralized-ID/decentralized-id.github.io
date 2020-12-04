@@ -9,7 +9,7 @@ canonical_url: https://decentralized-id.com/organizations/decentralized-identity
 redirect_from: 
   - organizations/identity-foundation/wg/secure-data-storage/
 categories: ["Identity Foundation (DIF)","Web Standards"]
-tags: ["Storage and Compute WG","DIF","Secure Data Storage","Hubs","W3C"]
+tags: ["Storage and Compute WG","DIF","Secure Data Storage","Hubs","W3C","Encrypted Data Vaults"]
 header:
   image: /images/secure-data-storage-head.webp
   teaser: /images/secure-data-storage-teaser.webp

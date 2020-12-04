@@ -454,9 +454,7 @@ so as soon as we get code that map we had originally that just had Ontario and a
 the schema you used for business registration is something that came from a standard about business registration or Ontario's doing the same one so that you guys just like get together in a darkroom and created or New Zealand I mean what happens with that 
 
 it's a schema that we co-created with Canada and Ontario
-but we also looked at like standards in Canada that have evolved like I've been in this business for very it's not an ISO no no no there isn't such a thing in the world for that for businesses other than like maybe schema.org but it's
-really not sufficient yeah so we evolved it together and so far
-it's working you know 
+but we also looked at like standards in Canada that have evolved like I've been in this business for very it's not an ISO no no no there isn't such a thing in the world for that for businesses other than like maybe schema.org but it's really not sufficient yeah so we evolved it together and so far it's working 
 
 it's a bit tricky to get the minimal set but but again this helped with having multiple jurisdictions involved so we had a first, we did Ontario and we went wait this isn't gonna work we don't want that we're both Canadian entities we should be able to figure that out and that worked pretty well and then the other side of it was 
 

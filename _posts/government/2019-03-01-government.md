@@ -16,7 +16,7 @@ header:
   image: /images/blockchange-identity-header.webp
   caption: "[On the Emergent Use of Distributed Ledger Technologies for Identity Management](https://blockchan.ge/blockchange-fieldreport.pdf)"
 categories: ["Government"]
-tags: ["USA","Canada","Europe","GDPR","ProCivis","California","CCPA"]
+tags: ["USA","Canada","Europe","GDPR","ProCivis","California","CCPA","Humanitarian"]
 last_modified_at: 2019-01-11
 toc: false
 ---

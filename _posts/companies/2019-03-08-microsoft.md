@@ -14,7 +14,7 @@ redirect_from:
   - id-initiatives/microsoft/
   - id-initiatives/microsoft
 categories: ["Companies"]
-tags: ["Microsoft","DID","DIF","ION","Transmute","Consensys","WebAuthN","Blockstack","uPort","Ethereum","Bitcoin","FIDO","Mastercard"]
+tags: ["Microsoft","DID","DIF","ION","Transmute","Consensys","WebAuthN","Blockstack","uPort","Ethereum","Bitcoin","FIDO","Mastercard","Secure Data Storage"]
 last_modified_at: 2020-11-05
 ---
 

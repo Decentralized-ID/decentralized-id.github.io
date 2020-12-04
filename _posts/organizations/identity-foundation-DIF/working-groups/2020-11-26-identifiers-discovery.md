@@ -10,7 +10,7 @@ redirect_from:
   - organizations/identity-foundation/wg/identifiers-and-discovery/
 canonical_url: https://decentralized-id.com/organizations/identity-foundation/wg/identifiers-and-discovery/
 categories: ["Identity Foundation (DIF)","Web Standards"]
-tags: ["Identifiers and Discovery WG","DID","DIF","Universal Resolver","Universal Registrar","KERI","Verifiable Credentials","JSON-LD","Ethereum","ION","BTCR","Peer DID","ERC725"]
+tags: ["Identifiers and Discovery WG","DID","DIF","Universal Resolver","Universal Registrar","KERI","Verifiable Credentials","JSON-LD","Ethereum","ION","BTCR","Peer DID","ERC725","Linked Data"]
 header:
   image: /images/identifiers-discovery-head.webp
   teaser: /images/identifiers-discovery-teaser.webp

@@ -13,7 +13,7 @@ redirect_from:
   - organizations/hyperledger/
 canonical_url: 'https://decentralized-id.com/blockchain/hyperledger/'
 categories: ["Hyperledger Foundation"]
-tags: ["Indy","Fabric","Aries","Evernym","Sovrin Foundation","Enterprise Ethereum Alliance","Linux Foundation","Ursa","Microsoft","Salesforce"]
+tags: ["Indy","Fabric","Aries","Evernym","Sovrin Foundation","Enterprise Ethereum Alliance","Linux Foundation","Ursa","Microsoft","Salesforce","Sawtooth"]
 last_modified_at: 2020-11-18
 header:
   image: /images/hyperledger_header.webp
