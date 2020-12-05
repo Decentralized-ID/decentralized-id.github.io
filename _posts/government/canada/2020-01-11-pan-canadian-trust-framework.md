@@ -11,21 +11,28 @@ header:
   image: /images/pan-canadian-trust-header.webp
   caption: "[PCTF Placemat](https://canada-ca.github.io/PCTF-CCP/docs/PCTF-Placemat.pdf)"
   teaser: /images/pctf-teaser.webp
-updated: 2020-01-11
+updated: 2020-12-04
 ---
 
-[![](https://i.imgur.com/wdbN3Ld.png)](https://twitter.com/sboots/status/1070320318487584768)
+## The Framework
+* [Pan-Canadian Trust Framework (“PCTF”)](https://diacc.ca/trust-framework/)
+  * **Infrastructure (Technology & Operations)**: [Component Overview](https://diacc.ca/wp-content/uploads/2020/11/PCTF-Infrastructure-Component-Overview-Final-Recommendation-V1.0.pdf) and [Conformance Profile](https://diacc.ca/wp-content/uploads/2020/11/PCTF-Infrastructure-Conformance-Criteria-Final-Recommendation-V1.0.pdf) Nov 2, 2020	(PCTF08)
+    > Defines criteria, requirements, and guidelines regarding the trustworthiness of IT infrastructure.	
+  * **Credentials (Relationship & Attributes)**: [Component Overview](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Credentials-Relationships-Attributes-Component-Overview-Final-Recommendation-V1.0-1.pdf) and [Conformance Profile](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Credentials-Relationships-Attributes-Conformance-Criteria-Final-Recommendation-V1.0.pdf) Sep 29, 2020 (PCTF07)
+    > Defines criteria related to the creation, issuance, and management of credentials existing in digital form.
+  * **Verified Organization**: [Component Overview](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Verified-Organization-Component-Overview-Final-Recommendation-V1.0-1.pdf) and [Conformance Profile](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Verified-Organization-Conformance-Criteria-Recommendation-V1.0.pdf) Sep 29, 2020 (PCTF06)
+    > Defines criteria that allow organizations to exchange trustworthy information about themselves or others (individuals or organizations) with external parties.
+  * **Verified Person**: [Component Overview](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Verified-Person-Component-Overview-Final-Recommendation_V1.0.pdf) and [Conformance Profile](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Verified-Person-Component-Conformance-Criteria-Final-Recommendation_V1.0.pdf) Sep 15, 2020 (PCTF05)
+    > Defines criteria used to establish that a natural person is real, unique and identifiable.	
+  * **Privacy**: [Component Overview](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Privacy-Component-Overview-Final-Recommendation_V1.0.pdf) and [Conformance Profile](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Privacy-Component-Conformance-Criteria-Final-Recommendation_V1.0.pdf) Sep 15, 2020	(PCTF04)
+    > Defines criteria concerned with the handling of personal data for digital identity purposes.
+  * **Authentication**: [Component Overview](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Authentication-Component-Overview-Final-Recommendation_V1.0.pdf) and [Conformance Profile](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Authentication-Component-Conformance-Criteria-Final-Recommendation_V1.0.pdf) Sep 15, 2020 (PCTF03)
+    > Defines criteria used to enable access to digital systems.
+  * Notice & Consent: [Component Overview](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Notice-Consent-Component-Overview-Final-Recommendation_V1.0.pdf) and [Conformance Profile](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Notice-Consent-Component-Conformance-Criteria-Final-Recommendation_V1.0.pdf) Sep 15, 2020 (PCTF02)
+    > Defines criteria used to formulate a statement about the collection, use and disclosure of personal information, and to obtain a consent decision on that statement from a person authorized to do so.
 
-* [User-Centric Verifiable Digital Credentials](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
-  > The Treasury Board Secretariat of Canada (TBS) and Shared Services Canada (SSC) are seeking a standardized method to issue and rapidly verify portable digital credentials across many different contexts, thereby reducing human judgement error, increasing efficiency and ensuring digital credential veracity using cryptography.
-* [USER AUTHENTICATION GUIDANCE FORINFORMATION TECHNOLOGY SYSTEMS](https://www.cse-cst.gc.ca/en/system/files/pdf_documents/itsp.30.031v3-eng_0.pdf)
-* [Directive on Identity Management — 10 Years Later](https://medium.com/@trbouma/directive-on-identity-management-10-years-later-9463fbb835f3)
-  > On July 1st, 2019 the new [Treasury Board Directive on Identity Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16577) (DIDM) went into effect, 10 years to the day when it was first issued under the revised Policy on Government Security back on July 1, 2009. The directive is issued under the new [Policy on Government Security](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16578) (PGS) and the [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611) (DSM).
 
-[Canadians expect government, private sector to develop digital ID framework](https://www.biometricupdate.com/201910/canadians-expect-government-private-sector-to-develop-digital-id-framework)
-  > Some 70 percent of Canadians would adopt digital identity and think the government should join forces with the private sector to implement a Digital ID framework for better access to government benefits, healthcare, e-commerce, and financial services, [found](https://diacc.ca/2019/10/15/canadians-are-ready-to-embrace-digital-identity/) a survey conducted by non-profit Digital ID and Authentication Council of Canada (DIACC).
-
-## Pan Canadian Trust Framework
+## Background
 
 * [Looking Ahead in 2020](https://medium.com/@trbouma/looking-ahead-in-2020-830afa372878)
   > I believe it will be a breakout year for digital identity, and for the underlying technical infrastructure that we need to achieve our goals. I see the work progressing on two fronts: 1) Pan-Canadian Trust Framework, and, 2) Verifiable Credentials/Decentralized Identifiers Deployment.
@@ -64,3 +71,15 @@ In this brief, we highlight why Canada needs a digital identity system, how othe
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hwUlr34zkyfGvm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 {% include figure image_path="/images/canadian-digital-identity-history.png" alt="canadian-digital-identity-history" caption="[Annex E - 2014- 2017 Federating Identity: Milestones and Initiatives](https://docs.google.com/presentation/d/189DxjNv7EE7KtjkidB6EpwuvO2lIy7kEL-3DWtMAiQg/edit)" %}
+
+## Related
+
+[![](https://i.imgur.com/wdbN3Ld.png)](https://twitter.com/sboots/status/1070320318487584768)
+
+* [User-Centric Verifiable Digital Credentials](https://www.ic.gc.ca/eic/site/101.nsf/eng/00068.html)
+  > The Treasury Board Secretariat of Canada (TBS) and Shared Services Canada (SSC) are seeking a standardized method to issue and rapidly verify portable digital credentials across many different contexts, thereby reducing human judgement error, increasing efficiency and ensuring digital credential veracity using cryptography.
+* [USER AUTHENTICATION GUIDANCE FORINFORMATION TECHNOLOGY SYSTEMS](https://www.cse-cst.gc.ca/en/system/files/pdf_documents/itsp.30.031v3-eng_0.pdf)
+* [Directive on Identity Management — 10 Years Later](https://medium.com/@trbouma/directive-on-identity-management-10-years-later-9463fbb835f3)
+  > On July 1st, 2019 the new [Treasury Board Directive on Identity Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16577) (DIDM) went into effect, 10 years to the day when it was first issued under the revised Policy on Government Security back on July 1, 2009. The directive is issued under the new [Policy on Government Security](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=16578) (PGS) and the [Directive on Security Management](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32611) (DSM).
+* [Canadians expect government, private sector to develop digital ID framework](https://www.biometricupdate.com/201910/canadians-expect-government-private-sector-to-develop-digital-id-framework)
+  > Some 70 percent of Canadians would adopt digital identity and think the government should join forces with the private sector to implement a Digital ID framework for better access to government benefits, healthcare, e-commerce, and financial services, [found](https://diacc.ca/2019/10/15/canadians-are-ready-to-embrace-digital-identity/) a survey conducted by non-profit Digital ID and Authentication Council of Canada (DIACC).
