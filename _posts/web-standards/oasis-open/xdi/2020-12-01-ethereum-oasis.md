@@ -11,6 +11,8 @@ header:
   image: /images/oasis-ethereum.webp
   teaser: /images/baseline-teaser.webp
 toc: false
+permalink: web-standards/oasis-open/ethereum-oasis/
+redirect_from: ethereum/web%20standards/ethereum-oasis/
 ---
 
 **Oasis Open Projects:** [Website](https://oasis-open-projects.org/) • [Blog](https://oasis-open-projects.org/category/blog/)\
