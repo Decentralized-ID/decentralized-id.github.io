@@ -290,7 +290,7 @@ defaults:
     values:
       sidebar:
         - title: "Identity Decentralized"
-          image: "/images/binary-1254502_GDj.webp"
+          image: "/images/the-world-map-from-a-binary-code.webp"
           image_alt: "Binary Globe Image by GDj"
           nav: "didnav"
       layout: single
@@ -309,7 +309,7 @@ defaults:
     values:
       sidebar:
         - title: "Identity Decentralized"
-          image: "/images/binary-1254502_GDj.webp"
+          image: "/images/the-world-map-from-a-binary-code.webp"
           image_alt: "Binary Globe by GDj"
           nav: "didnav"
       layout: single
@@ -329,7 +329,7 @@ defaults:
     values:
       sidebar:
         - title: "Identity Decentralized"
-          image: "/images/binary-1254502_GDj.webp"
+          image: "/images/the-world-map-from-a-binary-code.webp"
           image_alt: "Decentralized-ID.com Sidebar"
           nav: "didnav"
       layout: single
