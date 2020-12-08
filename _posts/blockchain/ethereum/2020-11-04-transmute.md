@@ -10,7 +10,7 @@ canonical_url: 'https://decentralized-id.com/blockchain/ethereum/transmute/'
 redirect_from: 
   - companies/transmute/
 categories: ["Companies","Ethereum"]
-tags: ["Transmute","Ethereum", "Microsoft","DID","Verifiable Credentials","Consensys","DIF","Encrypted Data Vaults","OAuth","OIDC"]
+tags: ["Transmute","Ethereum", "Microsoft","DID","Verifiable Credentials","Consensys","DIF","Encrypted Data Vaults","Oracle","OAuth","OIDC"]
 header:
   image: /images/transmute.webp
   teaser: /images/transmute_thumb.webp
@@ -61,8 +61,6 @@ last_modified_at: 2020-12-03
 
 <center><iframe src="//www.slideshare.net/slideshow/embed_code/key/2ct2imQLUnzp1j" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SSIMeetup/the-element-did-method-sidetree-ethereum-ipfs-orie-steele" title="The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele" target="_blank">The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele</a> </strong> from <strong><a href="https://ssimeetup.org/element-did-method-sidetree-ethereum-ipfs-orie-steele-webinar-31/" target="_blank">SSIMeetup</a></strong> </div></center>
 
-* [**324: Tap the Market (Karyl Fowler)**](https://www.giantrobots.fm/324)
-  > Karyl Fowler, CEO & Co-founder of Transmute, discusses utilizing block chain for decentralized identity-management, exploring finding the right customer profile fits, education around data-security, her time at Techstars, and the startup community in Austin.
 * [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
   > Sidetree.js is an implementation of v0.1.0 of the sidetree specification
 * [Summer 2019 Update](https://medium.com/transmute-techtalk/summer-2019-update-c11df7806a79)
@@ -98,7 +96,7 @@ last_modified_at: 2020-12-03
   > 
   > Maintaining network connectivity felt like the most urgent problem to solve given an effective solution would mean more accurate data on the car2go fleets, resulting in an expanded capacity to address rider demand changes. Mesh networks have been explored as a natural solution for maintaining network connectivity among distributed assets that are moving around geographically. …
 
-## [Founders](https://www.transmute.industries/team/)
+## [Co-Founders](https://www.transmute.industries/team/)
 
 > Transmute is committed to accelerating the adoption of decentralized identifiers and verifiable credentials to enable secure, dynamic trade. We charge ourselves and the greater digital identity community to focus on building evolved solutions that challenge the status quo to find superior economic models and reliable data security practices, resulting in a better future for everyone.
 
@@ -106,3 +104,10 @@ last_modified_at: 2020-12-03
 | ---- | ---- |
 | ![]({{ site.baseurl }}/images/KarylFowler_Transmute.webp) | ![]({{ site.baseurl }}/images/OrieSteele_Transmute.webp) |
 | [@TheKarl](https://twitter.com/TheKaryl) – [linkedin](https://www.linkedin.com/in/karylfowler/) | [@or13b](https://twitter.com/or13b) – [linkedin](https://www.linkedin.com/in/or13b/) |
+
+## Resources
+
+* [How Refugees Sparked this Startup to Solve the Enterprise Identity Crisis](https://blogs.oracle.com/startup/how-refugees-sparked-this-startup-to-solve-the-enterprise-identity-crisis)
+  > In the spring of 2016, technologists Karyl Fowler and Orie Steele entered Austin’s first blockchain hackathon contest aimed at solving mobility challenges which drew project topics from smart parking apps to addressing social mobility barriers. At the time, thousands of refugees were pouring into Europe with no means to identify themselves. Government organizations had no integrated way to validate and track identities across the variety of disparate systems they use to manage the asylum process, complicating an already massive humanitarian crisis. So, Fowler and Steele built an identity management application for refugees that was user-centric, secure and traceable.
+* [324: Tap the Market (Karyl Fowler)](https://www.giantrobots.fm/324)
+  > Karyl Fowler, CEO & Co-founder of Transmute, discusses utilizing block chain for decentralized identity-management, exploring finding the right customer profile fits, education around data-security, her time at Techstars, and the startup community in Austin.
