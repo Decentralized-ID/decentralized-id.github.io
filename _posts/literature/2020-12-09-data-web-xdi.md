@@ -22,9 +22,7 @@ tags: ["XRI","XDI","Dataweb"]
 
 <p>This white paper presents several examples of classic cross-domain data sharing problems, explains how the Dataweb model can provide a generalized solution, and describes the key objectives of the newly formed OASIS XDI Technical Committee <a href="http://www.oasis-open.org/committees/xdi">http://www.oasis-open.org/committees/xdi</a>.</p>
 
-
-<center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-intro.webp" /></center>
-
+<p><center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-intro.webp" /></center></p>
 
 <p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 <h2 id="INTRODUCTION">INTRODUCTION</h2>
@@ -134,7 +132,7 @@ There is also a fourth element to Dataweb architecture does not have a direct co
 
 <p>Web and Dataweb architectures are so similar that the primary difference lies in one feature: while Web links can only be one-way "strings" between HTML resource representations, Dataweb links can also be two-way active "pipes" between XML resource representations. This is illustrated graphically in Figure 1:</p>
 
-<center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-1.webp" /></center>
+<p><center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-1.webp" /></center></p>
 
 <p align="center"><em>Figure 1: Web “strings” vs. Dataweb “pipes”.</em></p>
 
@@ -248,7 +246,7 @@ There is also a fourth element to Dataweb architecture does not have a direct co
 
 <p>Thus the proposed XDI meta-schema (see Appendix A) has only four XML elements (and no XML attributes) as shown in the UML relationship diagram in Figure 2:</p>
 
-<center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-2.webp" /></center>
+<p><center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-2.webp" /></center></p>
 
 <p align="center"><em>Figure 2: UML model of the XDI meta-schema.</em></p>
 
@@ -305,19 +303,19 @@ There is also a fourth element to Dataweb architecture does not have a direct co
 
 <p>Alice and Bob can each use a Dataweb editor<sup id="ref_15"><a href="#cite_15">^15</a></sup> to create an XDI business card containing the contact data they would like to share. This is published to their respective Dataweb sites as shown in Figure 3.</p>
 
-<center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-3.webp" /></center>
+<p><center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-3.webp" /></center></p>
 
 <p align="center"><em>Figure 3: Two Dataweb sites containing electronic business cards as XDI documents.</em></p>
 
 <p>Alice must next choose a “template” link contract for sharing business cards. Typically this will be similar to a real-world contract template—a standard form with different customization options.<sup id="ref_16"><a href="#cite_16">^16</a></sup> For example, it may let Alice set a default permission to permit contacts to forward her XDI business card directly to others (“introduction permission”), vs. needing Alice’s permission first. In any case, when Alice is finished customizing this template, she publishes it to her Dataweb site as shown in Figure 4.</p>
 
-<center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-4.webp" /></center>
+<p><center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-4.webp" /></center></p>
 
 <p align="center"><em>Figure 4: Alice adds a link contract for sharing her business card.</em></p>
 
 <p>To share this business card with Bob, Alice sends him the XRI for the link contract. This is where XDI service comes into play. When Bob clicks this link, Alice’s XDI service provider asks Bob for the XRI of his own XDI home page. After authenticating Bob with his XDI service provider, Alice’s XDI service provider sends him Alice’s link contract. Providing Bob agrees, Bob’s XDI service provider returns a signed version of the contract<sup id="ref_17"><a href="#cite_17">^17</a></sup> and keeps a copy for Bob. Finally Alice’s service provider returns a copy of Alice’s business card to be cached by Bob’s site, as shown in Figure 5.</p>
 
-<center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-5.webp" /></center>
+<p><center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-5.webp" /></center></p>
 
 <p align="center"><em>Figure 5: Both sites have a copy of the signed contract and Bob’s site has a cached copy of Alice’s business card.</em></p>
 
@@ -342,13 +340,13 @@ There is also a fourth element to Dataweb architecture does not have a direct co
 
 <p>Many XDI business card sharing contracts are also likely to include calendaring sharing. Let’s say this is the case with Alice’s contract with Bob, and now Bob wants to schedule a meeting with Alice. Bob could create a new XDI appointment and “invite” Alice by linking it to her contract, as shown in Figure 6.</p>
 
-<center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-6.webp" /></center>
+<p><center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-6.webp" /></center></p>
 
 <p><center><em>Figure 6: Bob creates a proposed appointment linked to Alice.</em></center></p>
 
 <p>Bob’s XDI service provider then sends the XDI appointment document to Alice’s XDI service provider. Assuming Alice handles appointment requests locally, Alice’s service provider would deliver the message to her preferred device (such as her laptop or cell phone), which would notify her as she desires (such as using an HTML email or SMS message). As with most calendar sharing systems, Alice can now accept, decline, or modify the request. If she accepts it, the result would look like Figure 7 (except that this appointment would also be cached locally on her laptop or cell phone, not shown.)</p>
 
-<center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-7.webp" /></center>
+<p><center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-7.webp" /></center></p>
 
 <p><center><em>Figure 7: Alice accepts the appointment and it is confirmed on Bob’s site.</em></center></p>
 
@@ -538,7 +536,7 @@ sharing infrastructure is “linking it up.” This requires:</p>
 
 <p>Web (HTML/HTTP) Web Services (XML/SOAP)</p>
 
-<center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-8.webp" /></center>
+<p><center><img src="{{ site.baseurl }}/images/dataweb/wd-xdi-intro-white-paper-2004-04-12-figure-8.webp" /></center></p>
 
 <p align="center"><em>Figure 8: The Dataweb bridges the best features of the Web, Web Services, and the Semantic Web.</em></p>
 
