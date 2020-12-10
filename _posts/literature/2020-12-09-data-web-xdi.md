@@ -8,9 +8,12 @@ last_modified_at: 2020-12-09
 permalink: /literature/dataweb-introduction-to-xdi/
 categories: ["Literature","Web Standards"]
 tags: ["XRI","XDI","Dataweb"]
+header:
+  ogimage: /images/dataweb/dataweb-og.webp
+  teaser: /images/dataweb/dataweb-whitepaper-teaser.webp
 ---
 
-<p><b>A White Paper for the OASIS XDI Technical Committee</b><br>
+<p><b><a href="https://www.oasis-open.org/committees/download.php/6434/wd-xdi-intro-white-paper-2004-04-12.pdf">A White Paper for the OASIS XDI Technical Committee</a></b><br>
 <b>v2, April 12, 2004</b></p>
 
 <p><b>Drummond Reed, Cordance</b><br>
