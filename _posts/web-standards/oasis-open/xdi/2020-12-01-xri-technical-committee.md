@@ -69,3 +69,12 @@ header:
   > | Resolution client | resolver | resolver | 
   > | Resolution server | authoritative nameserver | authority server | 
   > | Recursing resolution | recursing nameserver | recursing authority server or proxy resolver | 
+
+## i-names
+
+* [inames](https://web.archive.org/web/20150801134550/http://inames.net/)
+  > URLs are for connecting web pages. Now get the address for connecting people and businesses in rich, long-lasting digital relationships: i-names.
+* [http://dev.inames.net/wiki/Main_Page](https://web.archive.org/web/20111001110114/http://dev.inames.net/wiki/Main_Page)
+  > The goal of this wiki is to be a portal for everything XRI and i-names developers need to know to integrate i-names and XRI infrastructure into their identity-enabled sites, services, and applications. Please let us know via the About Us page if you don't find what you are looking for, or just add a request directly to the wiki.
+* [I Names](https://en.wikipedia.org/wiki/I-name)
+  > I-names are one form of an XRI — an OASIS open standard for digital identifiers designed for sharing resources and data across domains and applications.[1] I-names are human readable XRIs intended to be as easy as possible for people to remember and use. For example, a personal i-name could be =Mary or =Mary.Jones. An organizational i-name could be @Acme or @Acme.Corporation.
