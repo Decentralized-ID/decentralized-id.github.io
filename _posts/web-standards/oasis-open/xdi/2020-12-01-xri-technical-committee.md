@@ -12,7 +12,7 @@ canonical_url: https://decentralized-id.com/web-standards/oasis-open/xdi/xdi-tc/
 toc: false
 header: 
   image: /images/xri-tc-header.webp
-  teaser: /images/xdi-teaser.webp
+  teaser: /images/xri-tc-teaser.webp
 
 ---
 
@@ -69,6 +69,8 @@ header:
   > | Resolution client | resolver | resolver | 
   > | Resolution server | authoritative nameserver | authority server | 
   > | Recursing resolution | recursing nameserver | recursing authority server or proxy resolver | 
+
+<div style="width:800px"> <strong style="display:block;margin:12px 0 4px"><a href="https://slideplayer.com/slide/4808597/" title="What do OpenID, Higgins, I-Names, and XDI Have in Common? An OASIS Webinar on XRI and XRDS May 6, 2008 Gabe Wachob, XRI TC Co-Chair Paul Trevithick, The." target="_blank">What do OpenID, Higgins, I-Names, and XDI Have in Common? An OASIS Webinar on XRI and XRDS May 6, 2008 Gabe Wachob, XRI TC Co-Chair Paul Trevithick, The.</a></strong><iframe src="https://player.slideplayer.com/15/4808597/" width="800" height="649" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0" allowfullscreen></iframe><div style="padding:5px 0 12px"></div></div>
 
 ## i-names
 
