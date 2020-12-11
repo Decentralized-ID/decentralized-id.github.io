@@ -18,17 +18,19 @@ last_modified_at: 2020-11-26
 ---
 
 ## Introduction
-### Building identity and trust into the next-generation Internet 
-#### by *Ken Jordan*, *Jan Hauser*, and *Steven Foster*.
+
+**Building identity and trust into the next-generation Internet** 
+**by _Ken Jordan_, _Jan Hauser_, and _Steven Foster_.**
 
 > [The ASN white paper](https://web.archive.org/web/20180620134007/http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf) was presented at the June 2003 Planetwork conference and published in [First Monday](http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1068/988). There are also [1,000](http://asn.planetwork.net/ASN-1000excerpt.pdf) word and [5,600 word](http://asn.planetwork.net/ASN-5600excerpt.pdf) excerpts from the original 34,000 word white paper.
 
 > The ideas behind the ASN came out of a two year process from 2000 through 2002 facilitated by the [Link Tank](https://www.planetwork.net/link-tank) a group of two dozen professionals in the fields of digital communications, environmental activism, independent media, and socially responsible investment, who met regularly to discuss how a "next generation" Internet could support appropriate responses to the environmental crisis. The group commissioned three of its members, Ken Jordan, Jan Hauser and Steven Foster, to write a white paper that demonstrated the feasibility of the ASN's vision of online community by describing a technical architecture that could achieve that vision.
+
 > The Augmented Social Network is a proposal for a "next generation" online community that would strengthen the collaborative nature of the Internet, enhancing its ability to act as a public commons that engages citizens in civil society. The ASN creates an infrastructure for trusted relationships across the entire Internet -- enabling innovation in democratic governance, alternative economics, and social organization of all kinds. The ASN is not a piece of software or a website. Rather, it is an online community system in the public interest that could be implemented in a number of ways, using technology that largely exists today. The ASN is a system designed to help you find others with whom you share affinities so you can be introduced to them (in an appropriate manner), and then share media with them, or form groups based on shared interests. Importantly, the ASN would facilitate this by connecting people across traditional social, geographic, or technical boundaries. It takes the positive power of the Internet today one step further.
 
-#### [ASN Full Text](https://web.archive.org/web/20180620134007/http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf) • [ASN 1,000 word excerpt](https://web.archive.org/web/20170811014921/http://asn.planetwork.net/ASN-1000excerpt.pdf) • [ASN 5,600 word excerpt](https://web.archive.org/web/20170811014924/http://asn.planetwork.net/ASN-5600excerpt.pdf).
+**[ASN Full Text](https://web.archive.org/web/20180620134007/http://asn.planetwork.net/asn-archive/AugmentedSocialNetwork.pdf) • [ASN 1,000 word excerpt](https://web.archive.org/web/20170811014921/http://asn.planetwork.net/ASN-1000excerpt.pdf) • [ASN 5,600 word excerpt](https://web.archive.org/web/20170811014924/http://asn.planetwork.net/ASN-5600excerpt.pdf)**
 
-## The Augmented Social Network
+**The Augmented Social Network**
 {% capture notice-4 %}
 
 This foundational piece of literature that paved the way for todays work on Decentralized Identifiers and Verifiable Credentials. As that work comes closer to mass adoption, it may prove valuable to dive deeper into the ideas posed in this paper, since this vision is coming closer to reality every day. 
@@ -38,24 +40,21 @@ The only difference between this and the official full-text version from the web
 
 <div class="notice--success">{{ notice-4 | markdownify }}</div>
 
-### BUILDING IDENTITY AND TRUST INTO THE NEXT-GENERATION INTERNET
+**BUILDING IDENTITY AND TRUST INTO THE NEXT-GENERATION INTERNET**
 
 **A REPORT FOR THE LINK TANK**
 
-```
-Ken Jordan • Jan Hauser • Steven Foster
-```
-```
-Presented at the Planetwork conference:
-"Networking A Sustainable Future"
+**_Ken Jordan • Jan Hauser • Steven Foster_**
+
+Presented at the Planetwork conference: 
+"**_Networking A Sustainable Future_**" 
 in San Francisco on June 6, 2003
-```
 
 [Creative Commons Attribution-NonCommercial-NoDerivs License](https://creativecommons.org/licenses/by-nc-nd/3.0/)
 
-### Abstract
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+## Abstract
 
 Could the next generation of online communications strengthen civil society by better connecting people to others with whom they share affinities, so they can more effectively exchange information and self-organize? Could such a system help to revitalize democracy in the 21st century? When networked personal computing was first developed, engineers concentrated on extending creativity among individuals and enhancing collaboration between a few. They did not much consider what social interaction among millions of Internet users would actually entail. It was thought that the Net's technical architecture need not address the issues of "personal identity" and "trust," since those matters tended to take care of themselves.
 
@@ -75,11 +74,12 @@ The section on public interest matching technologies explains why it is crucial 
 
 The ASN could be achieved in an incremental manner, with software and protocols developed among a relatively small group of participants, and gradually adopted by larger online community systems as they see fit. The ASN would be built on open standards, shepherded by a not-for-profit initiative that coordinates efforts in the technical areas described above. Aspects of the implementation could be undertaken by for-profit companies that respect these open standards, just as companies today profit from providing email or web pages. But to insure that the ASN meets its public interest objectives, participating organizations would have to agree to abide by the ASN's principles of implementation.
 
-### PART 1: The Future of Online Identity and Trust
 
-#### I. The Augmented Social Network
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+## PART 1: The Future of Online Identity and Trust
+
+### I. The Augmented Social Network
 
 The Internet is a communications platform made from software. This distinguishes it from all previous media, which were determined by the physical characteristics of their materials. Software, by its very nature, is programmable -- which means that the Internet is far more malleable than its predecessors the telegraph, the telephone, print, film, etc. To a significant extent, software can do what we ask of it. It can enable the behaviors we demand from it, as long as we are able to write the necessary code, and that code can be supported by the appropriate hardware.
 
@@ -118,11 +118,10 @@ If we are to accept Marshall McLuhan's assertion "the medium is the message," th
 
 Conversely, if we bring a vision of a lively, informed, engaged citizenry to our expectations for online communications, it leads us to ask: What enhancements to the current technical architecture could truly benefit the public interest? If we start with the notion that a person online is a citizen, rather than a consumer, we then wonder: What might be done to improve our online communication tools to make people more effective citizens?
 
-(^1) Douglas Engelbart, "Augmenting Human Intellect," 1 962 ; published in The Augmentation Papers, Bootstrap Institute, 199 3.
+<p><sub id="cite-1">(^1) Douglas Engelbart, "Augmenting Human Intellect," 1 962 ; published in The Augmentation Papers, Bootstrap Institute, 1993.</sub></p>
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-##### The ASN has three main objectives:
-
-[[*^ Table of Contents*](#page-title)]
+#### The ASN has three main objectives:
 
 1. To create an Internet-wide system that enables more efficient and effective knowledge sharing between people across institutional, geographic, and social boundaries.
 2. To establish a form of persistent online identity that supports the public commons and the values of civil society.
@@ -135,21 +134,21 @@ At the same time, we have to consider what will likely happen if a public intere
 Commercial interests are now driving the Internet in a direction that risks leaving important potentials untapped. As mentioned above, legal obstacles, such as intellectual property statues written in another era, threaten to suppress an extraordinary flowering of creativity and information sharing that the Internet already makes possible. The enthusiastic privatization of Internet infrastructure is also an area of concern, potentially leading to a carving up of the Internet into discrete, walled domains, with fees charged at borders. In fact, the cable industry has already begun to establish classifications for different kinds of services, chipping away at the Net's open architecture. Another concern has to do with the issue of online identity management. Two business-based initiatives -- the Passport initiative that is part of Microsoft’s .Net architecture and the Liberty Alliance -- are deliberate efforts to create de-facto standards for personal identity online. Unfortunately, these are primarily focused on how you behave as a consumer, rather than as an independent citizen apart from the commercial arena; their intent is to privatize this information, and then manage it in a way that gives them a share of every financial transaction you make. Current trends are pushing the Internet to become a closed, controlled, commercial space that most resembles a shopping mall. Certainly these initiatives show good business sense, but are they sound public policy?
 
 While the vision is ambitious, the resources needed to achieve the ASN are not
-extraordinary. What we propose here is a deliberate effort to create software in the public interest -- a not-for-profit approach to develop software, protocols, and technical infrastructure to benefit civil society. It is no^ Table that, so many years into the "Information Revolution," there has yet to emerge a meaningful support system for this kind of work. We make a case for it here.
+extraordinary. What we propose here is a deliberate effort to create software in the public interest -- a not-for-profit approach to develop software, protocols, and technical infrastructure to benefit civil society. It is notable that, so many years into the "Information Revolution," there has yet to emerge a meaningful support system for this kind of work. We make a case for it here.
 
-#### II. ASN Approach - Designing An Internet-Wide System of Trust
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+### II. ASN Approach - Designing An Internet-Wide System of Trust
 
-Online person-to-person communication is barely a generation old; only in the last decade or so has it become a true mass medium. Yet the tools most of us use to communicate online, and our expectations of what those tools might enable us to do, have changed little since the first computer-to-computer messages were sent in the 1960s. E-mail, bulletin boards, online chat, and file sharing have long formed the s^ Table core of the interpersonal interaction enabled by computers wired to pass information freely between one another. It is worth recalling that these basic building blocks of online communications were the product of publicly or university funded initiatives; they were not justified by business plans, marketplace analysis, or a projected return on investment.
+Online person-to-person communication is barely a generation old; only in the last decade or so has it become a true mass medium. Yet the tools most of us use to communicate online, and our expectations of what those tools might enable us to do, have changed little since the first computer-to-computer messages were sent in the 1960s. E-mail, bulletin boards, online chat, and file sharing have long formed the stable core of the interpersonal interaction enabled by computers wired to pass information freely between one another. It is worth recalling that these basic building blocks of online communications were the product of publicly or university funded initiatives; they were not justified by business plans, marketplace analysis, or a projected return on investment.
 
 At the time, engineers concentrated on extending creativity among individuals and enhancing collaboration between a few. While they firmly believed that one day networked personal computers would be used by millions, they didn't much consider what social interaction among millions of Internet users would actually entail. Instead, there was the (perhaps naive) belief that the prevailing ethic of the Internet of that time, based on trust and a commitment to serving the community, was intrinsic to Net culture, and would remain with it as the system grew. It was thought that the Net's technical architecture need not address issues like "identity" or "trust," since those matters tended to take care of themselves.
 
 At first, the social network that emerged from the use of these tools was relatively small. Early users of the Internet could, with some assurance, feel they shared affinities with others they met online. The small size of the community, and the intensity of connections between those who participated, created an environment in which you were encouraged to act responsibly in order to protect your personal reputation. As John Perry Barlow, co-founder of the Electronic Frontier Foundation, put it, "Back then, we knew who everybody was. We knew who to trust."^2 But as the online social network grew from a few hundred to the many millions -- becoming, effectively, many different, overlapping social networks -- the ability to identify affinities and establish trust through the Net withered.
 
-##### Current Trends in Online Community
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Current Trends in Online Community
 
 Though many of us now take this confused situation for granted, it is, on consideration, a surprising turn of events. Digital technology is widely appreciated for its ability to classify and sort complex information, making knowledge available in increasingly useful ways. Why not apply this capability to support the way people interact in large groups? This discrepancy has been noted by the commercial software industry, and in recent years it began to respond. We are now on the threshold of a new wave of software and standards that could revolutionize the way information is shared and people interact with one another online. New powerful tools -- such as knowledge management systems, online identity programs, digital media distribution, and ubiquitous computing across platforms and devices -- will dramatically extend our ability to access and manipulate information.
 
@@ -170,11 +169,11 @@ themselves political agendas and cultural values. While you cannot predict exact
 
 Not to over-simplify a complex issue, but the Internet is at a crossroads and has to choose which path to take, what kinds of interactivity to allow. For example, will people on the Net be able to distribute video from their own computers? Will people in Russia have access to U.S. blogs? Will peer-to-peer interactions be permissible, or might they be strictly limited? Decisions are being made today about what behavior will be allowed online tomorrow. No less important than the above examples are the questions: how will each individual be represented online, and how will this effect the way people are able to meet each other and organize on the Net? Will the "next generation" online community serve only commercial interests, or will it also contribute to the public good? If the public interest sector does not act now, these questions will be answered for us, and a tremendous opportunity to reinvigorate democracy may be lost.
 
-(^2) John Perry Barlow in conversation with Ken Jordan, October, 2002.
+<p><sub id="cite-2">(^2) John Perry Barlow in conversation with Ken Jordan, October, 2002.</sub></p>
 
-##### ASN's Democratic Vision
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### ASN's Democratic Vision
 
 Of course, not everyone is disturbed by the Internet's transformation into a vast commercial space of privately held services, with the standards that underlie it set solely by those companies. There are those who insist that the market can solve most of society's problems, if not all of them, and does that best when left to itself. This attitude, which is partly a stubborn holdover from the dot com boom of the 90s, continues to dominate discussion about the Net today. Let commercial interests develop the Net with a free hand, it is argued, and the public will ultimately benefit. If something new and cool becomes possible online, then people will pay to do it, which means that businesses will be motivated to make that new functionality available.
 
@@ -205,9 +204,9 @@ governance. Just as citizens in a democracy are guaranteed the right of assembly
 
 Already de facto standards for online identity and trust are being established. But where is the voice of civil society in these discussions? It is in the areas of identity and trusted relationships that the Internet can most effect the future of democratic governance: by determining under what conditions individuals represent themselves online, and how they are permitted to meet others, share information, and self-organize.
 
-##### Four Interdependent Elements
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Four Interdependent Elements
 
 Achieving the ASN will require a shift in perspective about both the objectives of online community, and how best to approach its technical framework.
 
@@ -216,9 +215,9 @@ The ASN will not be accomplished through the writing of a single piece of softwa
 To achieve its objectives, the ASN weaves together four distinct technical areas, and calls for specific development strategies in each. Considerable work is being done in pursuit of key aspects this technical work (though the public interest is not being adequately represented in any of these processes). The ASN approach is unique in that we treat these separate fields as components of an interdependent system. It is based on a coherent
 vision that leverages each as part of a greater whole.
 
-##### The four main elements of the ASN are:
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### The four main elements of the ASN are:
 
 * **Persistent Identity**. Enabling individuals online to maintain a persistent identity as they move between different Internet communities, and to have personal control over that identity. This identity should be multifarious and ambiguous (as identity is in life itself), capable of reflecting an endless variety of interests, needs, desires, and relationships. It should not be reduced to a recitation of our purchase preferences, since who we are can
 not be reduced to what we buy.
@@ -235,11 +234,13 @@ This technical work could be achieved through many different "flavors" of implem
 
 **_The objectives we propose, however, will remain unchanged._**
 
-(^3) Founded in the early 1990s by the inventor of the Web, Tim Berners-Lee, the World Wide Web Consortium (W3C) is a not-for-profit standards body composed of industry and government representatives that develops and approves open technical specifications for the Web.
 
-#### III. The ASN User Experience
+<p><sub id="cite-3">(^3) Founded in the early 1990s by the inventor of the Web, Tim Berners-Lee, the World Wide Web Consortium (W3C) is a not-for-profit standards body composed of industry and government representatives that develops and approves open technical specifications for the Web.</sub></p>
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+
+### III. The ASN User Experience
+
 
 Suppose the ASN was in place today. How would it enhance your online experience?
 Without delving into technical details, and risking oversimplification, here are some
@@ -271,9 +272,9 @@ For Sam, connecting Bob to acquaintances in Buenos Aires has relatively low risk
 
 In fact, without a concerted, coordinated public interest effort, this system to support online social networks is much less likely to come about.
 
-##### Tools To Enhance Citizenship
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Tools To Enhance Citizenship
 
 The ASN automates certain types of interpersonal behavior that the Internet, as it currently stands, does not actively encourage. Of course, the connection-making described in the scenarios above does happen, on occasion. But in those cases serendipity plays a far greater role than science (while the commercial trends now driving the Net will make even this modest level of interconnectivity more difficult). The purpose of the ASN is to turn these kinds of connections into a prominent part of the daily online community experience.
 
@@ -289,9 +290,9 @@ By doing so, the ASN will not only give greater depth and flexibility to the way
 
 * **Decentralizing Decision-Making**. As globalization has increased everyday access to individuals and materials from around the world, much attention has been given to the creation of non-hierarchical approaches to group formation and decision-making that can leverage these unprecedented relationships and resources in an inclusive, respectful, and just manner. The ASN would be an extremely useful tool to support these efforts toward "good globalization," because it encourages introductions and information sharing across social borders, challenging traditional hierarchies. In addition, it fosters trusted relationships through the Internet, enabling people who share interests to pursue innovative approaches to collective action with others they meet online.
 
-##### ASN and The Digital Divide
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### ASN and The Digital Divide
 
 The Digital Divide is a serious challenge that must be addressed. It is crucial to the future of a just, egalitarian society that the Internet not only be the domain of elites. Some might say that until this imbalance in Internet access is rectified, a project like the ASN should not be a priority. However, were the ASN to be implemented, the argument to address the Digital Divide becomes even more compelling -- because it would be an open acknowledgement of the importance of the Internet to a functioning democracy. The nation would be well served by having access to the Internet considered to be a requirement for every citizen, in order for each person to be well-informed and engaged in their governance.
 
@@ -299,11 +300,13 @@ Attention given to the ASN should not be seen as competitive with Digital Divide
 Rather, the two are highly complementary, and should be pursued in parallel.
 
 
-### PART 2: The ASN Technical Components
 
-#### I. The ASN Architecture
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+## PART 2: The ASN Technical Components
+
+### I. The ASN Architecture
+
 
 When new functionality is introduced to the Internet, in most cases it comes in the form of a software package, like e-mail or web pages. This software, if it is successful, will then be adopted gradually. Eventually, once enough people have chosen to use the new functionality, it becomes a defacto standard, an additional element that contributes something unique to the Internet's complex infrastructure. At a certain point its use becomes ubiquitous, and it is seen as a core element of the Internet, as email or web pages are today.
 
@@ -319,9 +322,9 @@ This plan is not meant to provide the single, definitive blueprint for achieving
 
 This technical program will extend online communities of practice beyond the borders of their existing social networks, by relying on the recommendations and associative capabilities of trusted third parties, in order to add efficiency and effectiveness to: (a) introductions between those who share affinities or have complementary capabilities; (b) the distribution of media among those who share affinities; and (c) the ability of groups that share affinities to quickly self-organize around narrowly defined objectives.
 
-##### The essential technical elements of the ASN are as follows:
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### The essential technical elements of the ASN are as follows:
 
 1. **Persistent Identity**. As federated network identity becomes ubiquitous on the Internet, spearheaded by industry initiatives such as the Liberty Alliance and Passport, civil society organizations will need to articulate a public interest approach to persistent online identity that supports the public commons. As one aspect of a public interest vision of persistent identity, we propose (a) a civil society digital profile that represents an individual's interests and concerns that relate to his or her role as a citizen engaged in forms of democratic governance. One aspect of this civil society approach would be to provide a working model for persistent identity that gives individuals a high level of control over how their profile is used. In particular, the digital profile should include the ability for each individual to (b) express affinities and capabilities, and to list or assist in the discovery of other trusted individuals who share these interests. The purpose of this functionality is to enable automated agents or third party brokers to access this data in a digital profile, through a series of (c) introduction protocols, in order to provide connections between individuals who share affinities or have complementary capabilities. In this way, the ASN is able to introduce those who have shared affinities or complementary capabilities, including those who are members of wholly distinct online communities, based on the recommendations of trusted third parties. These recommendations might either be fully automated, in the case of less valuable or less sensitive relationships, or take place through a brokering service, when privacy, trust, and stakeholdership is of the highest concern.
 
@@ -335,11 +338,11 @@ Conclusion: These interdependent technical initiatives form a comprehensive visi
 
 Let us now examine each of these initiatives in detail, and see how they relate to the greater whole.
 
-#### II. Persistent Identity
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-##### Overview: A New Era of Identity
+### II. Persistent Identity
 
-[[*^ Table of Contents*](#page-title)]
+#### Overview: A New Era of Identity
 
 Off-line the question of individual identity is fairly straightforward. It is understood that you are who you represent yourself to be, in most cases, and that your identity can be verified by some form of documentation (which might include, for example, a birth certificate, driver's license, credit card, passport, or letters or recommendation). In most instances you will choose to keep some aspect of your identity private (like a speeding ticket, or a failing grade in school), but you do so in the context of being able to present your "complete self" to others whenever you choose to do so.
 
@@ -357,15 +360,15 @@ It should go without saying that any form of online identity must be designed to
 
 It is worth noting that as computing becomes ubiquitous, and surveillance cameras and global positioning devices grow commonplace, the distinction between actions "online" and "off-line" will grow increasingly fuzzy. The tracing and analyzing of an individual's actions will become just as possible in the physical world as on the Internet. The difference between the two, in this regard, will soon be meaningless. Think of the famous scene in Steven Spielberg's movie "Minority Report," when Tom Cruise goes to a clothing store: cameras follow him from the minute he walks in the door; he is identified as a customer in the store's database, and his purchase history is accessed so that the store's automated system can make customized recommendations. Such a digital profile will not only include clothes bought at the brick-and-mortar store itself, but also items ordered online, or at other stores anywhere in the world. This integration of data collected over the Internet with data captured in the real world is already underway. So by addressing the issue of online identity today, we set the stage for a broader discussion about all forms of personal identity, vis a vis society, in the near future.
 
-We are not used to thinking of the representation of our identity as something that we can deliberately design. Never before have we faced the question: How do you build an identity for public use? But the Internet makes this question inevi^ Table. We will all have to consider how we want ourselves to be represented by digital proxies. In the near future, you will build an online identity through an accretion of your actions and expressed affinities -- whether you are aware of it or not. Every online choice you make could potentially contribute to your digital profile.
+We are not used to thinking of the representation of our identity as something that we can deliberately design. Never before have we faced the question: How do you build an identity for public use? But the Internet makes this question inevitable. We will all have to consider how we want ourselves to be represented by digital proxies. In the near future, you will build an online identity through an accretion of your actions and expressed affinities -- whether you are aware of it or not. Every online choice you make could potentially contribute to your digital profile.
 
 To sum up, your digital profile is a representation of aspects of your self that accretes over time. In effect, it is a cumulative digital proxy of you that is built from a pre- determined set of components. The emergence of this new kind of identity representation forces us to think differently about "official" identity than we did in pre-digital times. Traditionally, in an open and democratic society, "documented identity" is meant to be as thin as possible. However, in the digital age it will be different. Some form of digital representation of your identity will exist. It will, by its very nature, say more about you than your current forms of identification -- which have relatively thin information.
 
 Many will protest that they do not want any form of online identity to be put in place. But the commercial sector is already creating the infrastructure that will support it, and there is nothing illegal about aggregating the information about what you buy that the system is being based upon. The challenge is not to stop this process, but rather to engage with it and influence it in order to insure that personal identity is implemented in the public interest, so that the system enhances, rather than detracts from, the public commons. The challenge facing progressives and civil libertarians is to acknowledge that we are entering a new era, and to see that with it -- alongside the true danger it presents to individual privacy if abused -- comes an extraordinary potential to improve public life. But first we must accept that "documented identity" will become the converse of what it had been in the past, when the guiding principle was "less is more." Though it is far from a given, online identity could open opportunities for positive forms of behavior, including newly empowered forms of citizenship, that were inconceivable before networked computing.
 
-##### From Shopping To Self
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### From Shopping To Self
 
 Given the commanding role that the market now plays in our society, it should not be surprising that commerce has been the engine driving the development of systems and standards to support online identity for the "next generation Internet." While there are a number of public interest initiatives in this area, they are hampered by a lack of resources, and an inability to forcefully represent the needs of civil society within the bodies that are setting standards for industry. For example, the Internet Engineering Task Force^4 has been developing a system for online contracts that connects identity to reputation in an innovative fashion. Also, projects like XNS.org, One Name, and the Identity Commons are contributing significant intellectual work in this area. However, without industry clout, or a mandate from the public interest sector, their efforts are unable to acquire the momentum necessary to effect industry-only efforts. In the software field, establishing a high adoption rate is critical to a technology's success; it is critical to reach the tipping point where the new piece of software becomes ubiquitous. In part because these worthy efforts are short on resources, and in part because they have not been able to attract significant attention from their natural constituencies (the public interest sphere), they have yet to exert much influence on the shaping of online identity systems. As a result, the problems that online identity is now being designed to solve are the problems of business. The enhancements that online identity might bring to the public commons are not even discussed in forums where decisions are made.
 
@@ -378,16 +381,13 @@ place.
 
 In recent years, online businesses began to see the advantages of a persistent identity that could be maintained by an individual as she surfs from site to site. A persistent identity would combine the aggregated information about a person that sophisticated websites currently collect with the verification feature enabled by digital certificates -- so that a user's digital profile could be shared by websites who choose to federate with one another. One of the major initiatives to establish such a form of federated network identity is the Liberty Alliance. In the introduction to the Liberty Alliance specifications document, the objective is succinctly expressed:
 
-```
-"Today, one's identity on the Internet is fragmented across various identity providers -- employers, Internet portals, various communities, and business services. This fragmentation yields isolated, high-friction, one-to-one customer-to-business relationships and experiences.
-```
-```
-"Federated network identity is the key to reducing this friction and realizing new business taxonomies and opportunities, coupled with new economies of scale. In this new world of federated commerce, a user's online identity, personal profile, personalized online configurations, buying habits and history, and shopping preferences will be administered by the user and securely shared with the organizations of the user's choosing."
-```
+> "Today, one's identity on the Internet is fragmented across various identity providers -- employers, Internet portals, various communities, and business services. This fragmentation yields isolated, high-friction, one-to-one customer-to-business relationships and experiences.
+
+> "Federated network identity is the key to reducing this friction and realizing new business taxonomies and opportunities, coupled with new economies of scale. In this new world of federated commerce, a user's online identity, personal profile, personalized online configurations, buying habits and history, and shopping preferences will be administered by the user and securely shared with the organizations of the user's choosing."
 
 There is a strong inclination today to treat online identity as the aggregation of the transactions you make while on the Internet -- most of which are purchases. The implication is: You are what you buy. Of course, the reason for this narrow focus is understandable. Technology and telecommunications companies want to increase online sales, and they see federated network identity as one path to profitability. Of course, it is undeniably true that the products you choose do reflect an aspect of who you are. A digital profile that includes a history of your purchase choices, the web services you use, your medical records, and your travel itineraries would paint a portrait of you that is not without insight. But, at the same time, that portrait would be incomplete. It would leave out many important things about yourself, including the parts you probably value most -- which are likely those most pertinent to participation in the public commons. These aspects would include your political concerns, your relationships with others, and the ways you choose to engage with your community and government.
 
-Because the commercial sector is alone at the ^ Table when federated network identity is discussed, the architecture of the system is being tailor made for business, with little regard given to the potential for other uses. Privacy regulations do have a bearing on the development of these standards, and some regulatory agencies have challenged the most egregious examples of aggressive identity data collection. For instance, recently the European Union challenged Microsoft's use of personal data collected through Passport. As a result, Microsoft agreed to give users more choice in determining what data the system collects can be used without permission. But these regulatory measures are reactive, not proactive. They are not expressions of a well-considered, progressive, civil society vision of online identity. Rather, they tend to be projections of 20th century privacy rights into the very different realm of the 21st century.
+Because the commercial sector is alone at the table when federated network identity is discussed, the architecture of the system is being tailor made for business, with little regard given to the potential for other uses. Privacy regulations do have a bearing on the development of these standards, and some regulatory agencies have challenged the most egregious examples of aggressive identity data collection. For instance, recently the European Union challenged Microsoft's use of personal data collected through Passport. As a result, Microsoft agreed to give users more choice in determining what data the system collects can be used without permission. But these regulatory measures are reactive, not proactive. They are not expressions of a well-considered, progressive, civil society vision of online identity. Rather, they tend to be projections of 20th century privacy rights into the very different realm of the 21st century.
 
 As suggested above, how we shape online identity now will have broad ramifications for how our identity is represented both online and off-line in the near future. We are setting precedents, and building the underlying infrastructure for the representation of identity in the digital age. What we do today can not help but influence what happens tomorrow. So it is crucial that we ask the right questions, and cut through to the core issues at stake.
 
@@ -395,15 +395,10 @@ How will an individual's digital profile be compiled, and who will control it? C
 
 The challenge is to establish a form of federated network identity that is an appropriate representation of the self, one that is flexible enough to provide a range of "public faces," depending on context. Certainly, information that facilitates commercial transactions should be a part of this identity -- but only part. Defining the full potential of online identity, and pushing for the actualization of that vision as part of the development of the "next generation" Internet, deserves to be a public interest priority.
 
-(^4) The Internet Engineering Task Force (IETF) is the protocol engineering and development arm of the
-Internet. Though it existed informally for some time, the group was formally established in 1986. It is
-composed of a large open international community of network designers, operators, vendors, and
-researchers concerned with the evolution of the Internet architecture and the smooth operation of the
-Internet
+<p><sub id="cite-4">(^4) The Internet Engineering Task Force (IETF) is the protocol engineering and development arm of the Internet. Though it existed informally for some time, the group was formally established in 1986. It is composed of a large open international community of network designers, operators, vendors, and researchers concerned with the evolution of the Internet architecture and the smooth operation of the Internet</sub></p>
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-##### Current Efforts in Identity
-
-[[*^ Table of Contents*](#page-title)]
+#### Current Efforts in Identity
 
 While there are several independent initiatives focusing on persistent identity, the field is being paced by two large scale efforts that, because of their access to resources and their position in the market, dominate discussion of the issue -- and will likely determine the system everyone else will ultimately use to implement federated network identity. These are the Liberty Alliance, which was mentioned above, Microsoft's .Net identity system, named Passport.^5
 
@@ -423,12 +418,10 @@ conceivable that the public interest sector could collaborate with one or severa
 
 The not-for-profit initiative XNS.org has completed the first iteration of a civil society approach to building identity into the Internet's architecture. This work show great promise. In 2002, XNS.org worked with members of the standards body OASIS^6 to form a technical committee so they could agree on, discuss, and publish a standard for persistent identity and related data-exchange. A specification for the persistent identity standard was published in 2002, and is now making its way through the OASIS approval system. A related specification for data-exchange, using the Security Assertion Markup Language, or SAML, is being developed following the same procedures, with an eye toward ultimate ratification by OASIS. However, as encouraging as this effort appears to be, it is being undertaken with extremely limited resources, with little involvement by the broader civil society community. Without active participation and support from the public interest sector, even if XNS.org can complete the ratification process of a set of core standards (which is likely), it is an open question whether these standards would ever achieve widespread adoption.
 
-(^5) Recently, aspects of Passport have been incorporated into a successor initiative led by Microsoft and
-IBM, the Web Services Interoperability group, or WS-I.
+<p><sub id="cite-5">(^5) Recently, aspects of Passport have been incorporated into a successor initiative led by Microsoft and IBM, the Web Services Interoperability group, or WS-I.</sub></p>
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-##### Building Your Online Identity
-
-[[*^ Table of Contents*](#page-title)]
+#### Building Your Online Identity
 
 Underlying this report is the assumption that every individual ought to have the right to control his or her own online identity. You should be able to decide what information about yourself is collected as part of your digital profile, and of that information, who has access to different aspects of it. Certainly, you should be able to read the complete contents of your own digital profile at any time. An online identity should be maintained as a capability that gives the user many forms of control. Without flexible access and control, trust in the system of federated network identity will be minimal.
 
@@ -457,9 +450,9 @@ wouldn't we want to use it?
 
 For the moment, let's put aside questions about security and spam, both of which are significant (and are addressed below). Suppose that your digital profile could include data about your special interests -- for example, that you are specialist in solar energy technology. The profile would need to say more than that you are a consumer of solar cells (though you might be), because you have a deeper knowledge than most people who simply purchase a solar energy product. This is where the current plans for federated network identity fall short, because they focus so narrowly on financial transactions. Being a specialist may coincide with being a consumer, but of course the difference between the two is vast.
 
-##### Affinity and Trusted Third Parties
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Affinity and Trusted Third Parties
 
 The foundation for any interoperability between distinct web services (including online communities, e-stores, media distribution sites, etc.) that supports civil society is a form of persistent identity that each citizen can maintain for his or herself in accordance with the rights guaranteed to individuals in a free society. Without this approach to persistent identity, a public interest initiative like the ASN is unthinkable.
 
@@ -483,22 +476,19 @@ Still, it is important that the ASN approximate a range of circumstances in whic
 
 Trusted transactions within an ASN system would range widely in value, which means that the system has to be built to accommodate a wide range of risk. Certainly, the technology underlying the system must have the confidence of its users. It needs to be robust enough to scale up in order to meet the demands that greater risk requires from it. While this challenge can be addressed in many ways, our preference is to use a distributed and decentralized architecture that decreases the possibility of a technical failure at a centralized location -- and so increases the reliability, robustness, and trustworthiness of the system overall. In addition, the system's technical architecture ought to be designed in a manner that allows for independent verifiability and certification at all levels. This means that all the technical services that participate in making the system function are able to verify that it meets its design goals. For that reason, the design should be simple, because complex systems, with millions of lines of code, are difficult to read -- which effectively makes verification impossible.
 
-(^6) OASIS is a not-for-profit, global consortium that drives the development, convergence and adoption of e-
-business standards. For more, go to [http://www.oasis-open.org](http://www.oasis-open.org) (May 5, 2003).
-(^7) Albert-Laszlo Barabasi, Linked: The New Science of Networks, Perseus Publishing (Cambridge, Ma.,
-2002), p.18.
-(^8) Mark S. Granovetter, "The Strength of Weak Ties," American Journal of Sociology 78, (1973), 1360-
-1390.
+<p><sub id="cite-6">(^6) OASIS is a not-for-profit, global consortium that drives the development, convergence and adoption of e-business standards.  For more, go to <a href="http://www.oasis-open.org">http://www.oasis-open.org</a> (May 5, 2003).</sub><br>
+<sub id="cite-7">(^7) Albert-Laszlo Barabasi, Linked: The New Science of Networks, Perseus Publishing (Cambridge, Ma., 2002), p.18.</sub><br>
+<sub id="cite-8">(^8) Mark S. Granovetter, "The Strength of Weak Ties," American Journal of Sociology 78, (1973), 1360-1390.</sub></p>
 
-##### Security
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Security
 
 After reading the previous section, you may be thinking: "I'd never enter my personal relationships and the level of trust I have in them into an online database, because it could get hacked. How can I risk putting that kind of information into a system that isn't 100 percent secure? The Internet is famously risky when it comes to keeping information private."
 
 The security of information online is one of the hot topics of the digital communications field. Magazines are devoted to it, library shelves are packed with books about it, debates rage on the web about the relative worth of competing approaches, and large sums of money are flowing from corporate and government coffers to pay for technology that promises to make their data more secure. But despite all the effort, no foolproof form of security has yet emerged. And it likely never will.
 
-Nonetheless, the digitization of highly sensitive data continues apace. Why? Because these major institutions have come to feel that their data, while not 100 percent protected, is safe within an accep^ Table level of risk. Just as no bank can ever guarantee that it will never be robbed, and no business person can be certain that every signed contract will be fulfilled, it is an acknowledged fact of life that servers might on occasion be breached, that data could conceivably fall into the wrong hands. But the level of risk is no greater in the digital realm than it is the material world -- where you take a risk each time you hand your credit card to a waiter. As long as precautions are followed, and resources are put toward the protection of data, in most cases illegal activity can be prevented.
+Nonetheless, the digitization of highly sensitive data continues apace. Why? Because these major institutions have come to feel that their data, while not 100 percent protected, is safe within an acceptable level of risk. Just as no bank can ever guarantee that it will never be robbed, and no business person can be certain that every signed contract will be fulfilled, it is an acknowledged fact of life that servers might on occasion be breached, that data could conceivably fall into the wrong hands. But the level of risk is no greater in the digital realm than it is the material world -- where you take a risk each time you hand your credit card to a waiter. As long as precautions are followed, and resources are put toward the protection of data, in most cases illegal activity can be prevented.
 
 The wheels are already in motion to digitize some of the most sensitive personal information imaginable -- including your finances, work history, and health care records. The security protecting these databases may not be infallible, but it is pretty good. "Pretty Good Privacy," in fact, is the name of one of leading encryption standards. The notion behind it is that, as long as you can be assured that your information is being reasonably protected, you should be able to feel confidence in the system.
 
@@ -506,21 +496,21 @@ Certainly, everyone needs to maintain a vigilance regarding the security of thei
 
 That is why it is so important to put forward a progressive vision of online identity, and to promote projects that strengthen the public commons on the Internet, like the Augmented Social Network. Without that positive, forward thinking agenda, when it comes to the Internet, civil society groups are left with little else to pursue than defensive, rearguard actions.
 
-##### Persistent Identity and the ASN
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Persistent Identity and the ASN
 
 A civil society approach to persistent identity is a cornerstone of the Augmented Social Network project. Without it, the ASN is hard to imagine -- because for the ASN to work, you must be able to find other people online based on their expressed interests and affinities, and to choose your level of engagement with them based on their reputation, which means that a record musts be kept of their relevant past actions. The ASN requires a technical system to provide this functionality.
 
 In life, we enter into social networks either because we are attracted to the ideas and activities at the center of a particular group, or we are introduced into the group by someone we know. The intent of the ASN is to bring an appropriate level of automation to this process, to make it more efficient and effective -- particularly when it comes to narrowly defined interests and projects. Today, many of us feel that the mainstream media is poorly equipped to provide us with the news and information we need to be effective citizens. At the same time, while we cognitively grasp the effect that globalization has on our lives, and the increasing interconnectedness between people from all parts of the globe, our tools for acting as citizens on this understanding are poor. Though the business world has created exceptional tools for acting globally (so that a decision made in a Cleveland boardroom can redirect activity at a Bangalore factory in a micro-second -- or vise versa), for individuals it is much more difficult to make efficient cross-border connections and to organize. The efficiencies in communications that digital technology have brought to large institutions should also be made available to citizens participating in the public commons. A civil society approach to federated network identity would provide the underpinnings necessary for the kinds of interactions that would strengthen the public commons. The ASN is one system that would take advantage of the civil society data in a digital profile -- but there could conceivably be many others.
 
-As mentioned above, the essential technical components of such a system are already being designed and implemented to pave the way for federated network identity. The latest indications suggest that, broadly speaking, the Liberty Alliance and Passport initiatives could support the kind of persistent identity required by the ASN -- though there is no guarantee of this if civil society organizations are not represented at the ^ Table when key issues about technical architecture are being decided. Certainly, the specific needs of the public commons are not being written into the specifications of federated network identity. These specifications do not seem to disallow non-commercial requirements. But without a dedicated public interest effort to address this issue, we cannot be sure what the final draft of the specifications will call for.
+As mentioned above, the essential technical components of such a system are already being designed and implemented to pave the way for federated network identity. The latest indications suggest that, broadly speaking, the Liberty Alliance and Passport initiatives could support the kind of persistent identity required by the ASN -- though there is no guarantee of this if civil society organizations are not represented at the table when key issues about technical architecture are being decided. Certainly, the specific needs of the public commons are not being written into the specifications of federated network identity. These specifications do not seem to disallow non-commercial requirements. But without a dedicated public interest effort to address this issue, we cannot be sure what the final draft of the specifications will call for.
 
-#### III. Enhancements To Online Community Infrastructure
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-##### Creating Value Through The Network Effect
+### III. Enhancements To Online Community Infrastructure
 
-[[*^ Table of Contents*](#page-title)]
+#### Creating Value Through The Network Effect
 
 Social networks have become a hot topic in the communications field. Theorists as diverse as Albert-Laszlo Barabasi, Duncan Watts, Mark Granovetter, Malcolm Gladwell, Steven Johnson, and Manuel Castells have explored the emergent properties of group behavior in social networks. Many of them use the popular notion of "six degrees of separation" to demonstrate the ability of loose, informal networks to catalyze complex forms of social organization. The ASN is an attempt to deliberately apply the six degrees principle to online relationships, across traditional borders, in the public interest.
 
@@ -538,7 +528,7 @@ For that reason, as community expert David Reed has written, "There is an enormo
 
 Reed's Law describes how connectivity and various network properties create new, and previously unknown, types of value. It also offers a way to compare the value of GFNs to that of pre-digital communication network forms, such as radio and TV networks. This comparison offers a clear understanding of the mathematical basis of these networking technologies in order to evaluate their potential effects.
 
-The ^ Table and graphics below illustrate the extended reach of Group Forming Networks. The ^ Table denotes the various classes of networks and gives examples. The graph illustrates how value increases as the number of members increases.
+The table and graphics below illustrate the extended reach of Group Forming Networks. The table denotes the various classes of networks and gives examples. The graph illustrates how value increases as the number of members increases.
 
 **_Figure 1_**
 
@@ -561,18 +551,18 @@ Reed's observation about the way Group Forming Networks generate value parallels
 How might our online community tools be made even more effective at enabling collaboration? How might society benefit from improvements to the Internet that make interconnections between social networks even more plentiful?
 
 
-(^9) Howard Rheingold, Smart Mobs: The Next Social Revolution, Perseus Publishing (New York, 2003), p.11 4
-(^10) ibid, p.114
-(^11) Among engineers, Metcalfe's Law is sometimes referred to as the "polynomial function of degree 2."
-(^12) ibid, p.59
-(^13) ibid, p.59
-(^14) David Reed, "That Sneaky Exponential -- Beyond Metcalfe's Law to the Power of Community Building," online at [http://www.reed.com/Papers/GFN/reedslaw.html](http://www.reed.com/Papers/GFN/reedslaw.html)
-(^15) Sometimes Reed's Law is also referred to as the " exponential function".
-(^16) Johnson, Rasmussen, and Kantor, "The Symbiotic Intelligence Project" and N. Johnson, "Collective Problem Solving"
+<p><sub id="cite-9">(^9) Howard Rheingold, Smart Mobs: The Next Social Revolution, Perseus Publishing (New York, 2003), p.11 4</sub><br>
+<sub id="cite-10">(^10) ibid, p.114</sub><br>
+<sub id="cite-11">(^11) Among engineers, Metcalfe's Law is sometimes referred to as the "polynomial function of degree 2."</sub><br>
+<sub id="cite-12">(^12) ibid, p.59</sub><br>
+<sub id="cite-13">(^13) ibid, p.59</sub><br>
+<sub id="cite-14">(^14) David Reed, "<a href="https://www.immagic.com/eLibrary/ARCHIVES/GENERAL/GENREF/C030200R.pdf">That Sneaky Exponential -- Beyond Metcalfe's Law to the Power of Community Building</a>"</sub><br>
+<sub id="cite-15">(^15) Sometimes Reed's Law is also referred to as the " exponential function".</sub><br>
+<sub id="cite-16">(^16) Johnson, Rasmussen, and Kantor, "The Symbiotic Intelligence Project" and N. Johnson, "Collective Problem Solving"</sub></p>
 
-##### Extending Communities of Practice
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Extending Communities of Practice
 
 Most of us participate in several online social networks at once -- some related to work, others to interests or hobbies, and still others based on personal relationships, like school or family ties. For instance, at your job you may have access to a company intranet that coordinates information sharing between offices in different cities. At home you might use iVillages' bulletin boards to discuss health issues or parenting. You may also be on several email lists about topics of interest, ranging from favorite films to safe energy, and regularly post messages to these lists. Each of these is a separate social network that operates independently of the others -- you might be the only common link between them.
 
@@ -586,12 +576,10 @@ Wenger has described how digital media extend the effectiveness of communities o
 
 Cynthia Typaldos has diagramed a set of "12 Principles of Civilization" relevant to purposeful online communities from her own experience creating communities of practice online. She suggests that these principles should form the basis of a kind of "community operating system." This would not be a technical operating system, in the sense of NT or Unix, but a conceptual operating system that would guide the choice of applications and protocols used by a social network for their online communications. Community infrastructures can vary widely, from simple listsevs for email lists, to more sophisticated websites like Slashdot, to high end corporate intranets. It is worth considering Typaldos' diagram below to appreciate the range of social interactions that take place within a community of practice, each of which requires its own standards of behavior, and technical applications to support that behavior. It is possible that, in time, the components of community infrastructures will become increasingly standardized, and that the more high end systems will be built from modular components that are commonly available. Today, however, that is not the case. In fact, the differences in the technical elements underlying online communities can be quite great.
 
-(^17) Etienne Wenger, "Supporting Communities of Practice: A Survey of Community-Oriented
-Technologies," March, 2001
+<p><sub id="cite-17">(^17) Etienne Wenger, "Supporting Communities of Practice: A Survey of Community-Oriented Technologies," March, 2001</sub></p>
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-##### Cynthia Typaldos' "12 Principles of Civilization"
-
-[[*^ Table of Contents*](#page-title)]
+#### Cynthia Typaldos' "12 Principles of Civilization"
 
 ![](https://i.imgur.com/lNvVMvn.png)
 
@@ -612,13 +600,13 @@ Shirky cites the work of primatologist Robin Dunbar, who "argues that humans are
 
 It is questionable whether the 35 million subscribers to AOL think of themselves as belonging to a single online community -- though there are many thousands of distinct, if often overlapping, communities (or social networks) that have organized themselves on the AOL platform. Suffice it to say that, while it is difficult (if not impossible) to try to pin point the size of the "ideal" community, an awareness that communities are not infinitely expandable bears directly on how we propose to execute the ASN.
 
-(^18) Clay Shirky, "Communities, Audiences, and Scale," April 6, 2002, [http://shirky.com/writings/community_scale.html](http://shirky.com/writings/community_scale.html) (May 14, 2003)
-(^19) ibid.
-(^20) ibid. The original reference is to Robin Dunbar's Grooming, Gossip, and the Evolution of Language (ISBN 06 74363361).
+<p><sub id="cite-18">(^18) Clay Shirky, "Communities, Audiences, and Scale," April 6, 2002 <a href="http://web.archive.org/web/20120217080908/http://shirky.com/writings/community_scale.html">http://shirky.com/writings/community_scale.html</a> (May 14, 2003)</sub><br>
+<sub id="cite-19">(^19) ibid.</sub><br>
+<sub id="cite-20">(^20) ibid. The original reference is to Robin Dunbar's Grooming, Gossip, and the Evolution of Language (ISBN 0674363361).</sub></p>
 
-##### ASN Community Functionality
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### ASN Community Functionality
 
 Communities of practice benefit from digital media in a number of ways. Most obviously, they make use of the standard set of communication tools that form the basis of most online communities: email, forums, chat, file sharing, and -- in the case of advanced online systems -- video conferencing and collaborative document creation. They also can take advantage of membership management systems, which include member pages with biographical information. While there is a great deal of variability between specific online community infrastructures, this functionality has become a kind of standard tool kit, and most communities pick and choose elements from this kit. The ASN treats this functionality as a given, and suggests few changes to it.
 
@@ -636,9 +624,9 @@ For less valuable or less sensitive relationships, the ASN interactions would be
 
 To support this activity, modularized enhancements to the technical infrastructures of online communities will need to be developed and adopted. These enhancements are essentially of two types: (1) the writing and adoption of interoperability protocols that enable communication between the membership management databases of distinct online communities, and (2) the development of modularized applications for the pre-processing and post-processing of email communications.
 
-##### Interoperability Between Communities
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Interoperability Between Communities
 
 Today, your online profile and activity on Utne.com has no way of effecting your online profile and activity on iVillage.com. Because each online community is conceived and built as a "walled castle," no opportunity is provided for you to have a consistent experience as you go from one community to another. The technical infrastructure of today's online communities allow for no interoperability between them.
 
@@ -658,17 +646,17 @@ We believe it to be of the utmost importance that ASN interoperability protocols
 
 A public interest effort devoted to this issue may be necessary to guarantee that online identity meets its potential to represent the full flavor of human interaction. The ASN community interoperability protocols would be a key part of such an effort.
 
-##### Modular Community Applications
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Modular Community Applications
 
-The ASN system will be accessed through email. Of course, that is not the only way that the ASN could work. Peer-to-peer and wireless technologies are emerging that might augment or replace email as the primary form of online communication in the years to come. It is the ubiquity of email that makes it attractive as a vehicle for the ASN. Since the system could be used to connect as many people as possible through trusted third parties, it is important that users be able to communicate with each other easily, using tools they are comfor^ Table with. At the same time, nothing restricts the implementation of the ASN to email. The applications described below for email/community systems could be adapted for other forms of online communication, including peer-to-peer and wireless.
+The ASN system will be accessed through email. Of course, that is not the only way that the ASN could work. Peer-to-peer and wireless technologies are emerging that might augment or replace email as the primary form of online communication in the years to come. It is the ubiquity of email that makes it attractive as a vehicle for the ASN. Since the system could be used to connect as many people as possible through trusted third parties, it is important that users be able to communicate with each other easily, using tools they are comfortable with. At the same time, nothing restricts the implementation of the ASN to email. The applications described below for email/community systems could be adapted for other forms of online communication, including peer-to-peer and wireless.
 
 But for the purposes of this report, users of the ASN will communicate with one another through email that is available through online community infrastructures. That is, ASN electronic messages will arrive in an email "in box," be composed using the tools available through online community systems to create email messages, and be sent via the email "out box."
 
-##### An ASN message will be one of three types:
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### An ASN message will be one of three types:
 
 * **Automated Introduction**. An automated introduction to another person who shares affinities or has complementary capabilities, based on the recommendation of trusted third parties.
 * **Forwarded Media**. Articles, images or multimedia would be attached to an email message and forwarded among those who express shared affinities, based on the recommendations of trusted third parties
@@ -690,9 +678,9 @@ All of these applications depend on the ASN being able to distinguish between re
 
 Advanced matching technologies, coupled with an efficient filtering system, should make the ASN difficult for spammers to abuse.
 
-##### Reputation
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Reputation
 
 An ASN automated introduction appears in your "in box," a solicitation from a stranger who found you through a mutual friend, a trusted third party. You read the email and it's interesting, then you check the author's web page, which increases your interest. Still, before replying, and perhaps offering other contacts of your own to this unfamiliar person, you might want to know more about him. Wouldn't you would want to know what kind of reputation he has among people he works with, for instance?
 
@@ -705,26 +693,26 @@ Still, trust takes many forms. While the ASN should offer a level of assurance t
 With the growing adoption of reputation systems on community websites, this kind of cross-referencing will become increasingly possible. As one paper reports, "The proliferation of online reputation mechanisms is already changing people's behavior in subtle but important ways. Anecdotal evidence suggests that people now increasingly rely on opinions posted on such systems in order to make a variety of decisions ranging from what movie to watch to what stocks to invest in."^23 These opinion generating systems are becoming common on online community infrastructures. But the opinions they offer are only relevant to the specific context of the community interactions where they take place.
 On Epinions, for instance, a person might develop the reputation of being a lousy film critic. That same person's reviews, however, could be highly regarded on another website.
 
-There are some who suggest that reputation should be por^ Table between communities -- that the ratings you get in one environment, based on one set of circumstances, should be available in other environments, where the situation might be quite different. For instance, shouldn't a seller's rep on eBay be available on Amazon.com? This raises the possibility of a kind of online "universal reputation," which might even be part of your persistent identity. In Smart Mobs, Howard Rheingold asks, "Are universal reputations systems possible?"^24
+There are some who suggest that reputation should be portable between communities -- that the ratings you get in one environment, based on one set of circumstances, should be available in other environments, where the situation might be quite different. For instance, shouldn't a seller's rep on eBay be available on Amazon.com? This raises the possibility of a kind of online "universal reputation," which might even be part of your persistent identity. In Smart Mobs, Howard Rheingold asks, "Are universal reputations systems possible?"^24
 
-Strictly from the perspective of technology, they might be. A global Internet aggregator of Web-based reputation data is a real possibility. But would such a system accurately reflect the way reputation works in the real world? That is a different matter. Reputations are determined by context. What is viewed as bad behavior by one group might be perfectly accep^ Table somewhere else. How would a "universal reputation system" take shifts in context into account? We do not believe it to be possible.
+Strictly from the perspective of technology, they might be. A global Internet aggregator of Web-based reputation data is a real possibility. But would such a system accurately reflect the way reputation works in the real world? That is a different matter. Reputations are determined by context. What is viewed as bad behavior by one group might be perfectly acceptable somewhere else. How would a "universal reputation system" take shifts in context into account? We do not believe it to be possible.
 
 For that reason, when designing the ASN, we made it a point to not include a "reputation rating" as part of an individual's persistent identity. Each online community is free to set its own standards for determining reputation; every social network invariably sets its own criteria of trustworthiness. But the opinions of others -- which are the product of widely divergent circumstances -- should not be grafted onto the permanent representation of an individual online.
 
-##### Reputation is local; it belongs to specific communities. Persistent identity is global.
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Reputation is local; it belongs to specific communities. Persistent identity is global.
 
-As federated network identity is adopted, civil society groups need to press for protections against the aggregation of this reputation data -- much of which is proprietary, controlled by commercial entities that can do with it much as they please. Soon the day will come when profi^ Table businesses could process reputation data and resell it to customers ranging from credit card companies to retailers to media conglomerates. Knowledge about reputations, even when less than accurate, is always valuable. But just because something has market value does not mean that selling it serves the public interest.
+As federated network identity is adopted, civil society groups need to press for protections against the aggregation of this reputation data -- much of which is proprietary, controlled by commercial entities that can do with it much as they please. Soon the day will come when profitable businesses could process reputation data and resell it to customers ranging from credit card companies to retailers to media conglomerates. Knowledge about reputations, even when less than accurate, is always valuable. But just because something has market value does not mean that selling it serves the public interest.
 
-(^21) Resnick, Zeckhauser, Friedman, and Kuwabara, "Reputation Systems: Facilitating Trusted Internet Transactions," 2000.
-(^22) ibid
-(^23) Chrysanthos Dellarocas, " The Digitization of Word-of-Mouth: Promise and Challenges of Online Reputation Mechanisms," October, 2002.
-(^24) Smart Mobs, p.127
+<p><sub id="cite-21">(^21) Resnick, Zeckhauser, Friedman, and Kuwabara, "Reputation Systems: Facilitating Trusted Internet Transactions," 2000.</sub><br>
+<sub id="cite-22">(^22) ibid</sub><br>
+<sub id="cite-23">(^23) Chrysanthos Dellarocas, " The Digitization of Word-of-Mouth: Promise and Challenges of Online Reputation Mechanisms," October, 2002.</sub><br>
+<sub id="cite-24">(^24) Smart Mobs, p.127</sub><br></p>
 
-##### Current Community Systems
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Current Community Systems
 
 What kind of online community infrastructure best supports communities of practice? A community infrastructure can entail many things. The phrase "community infrastructure" is generally understood to have the broadest possible meaning: the integrated set of digital communications tools that allow members of a social network to communicate among themselves. This definition would include everything from a simple email listserv to a high end corporate intranet. The fact is, to this day, there is no agreed upon set of communications tools that constitutes a standard "online community infrastructure," let alone one that provides a specific tool set for communities of practice. Though some theorists might hypothesize about what one might be, we are far from seeing such a system.
 
@@ -744,11 +732,11 @@ In the preparation of this report, while looking for potential partners in the d
 
 Some of these companies are already implementing advanced matching technologies. Others have begun to offer automated or brokered introductions between members. All of them are committed to offering a full suite of applications to support sophisticated online collaboration, and could well see the ASN as an attractive addition to the services they offer their users.
 
-#### IV. Public Interest Matching Technologies
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-##### The Purpose of Matching Technologies
+### IV. Public Interest Matching Technologies
 
-[[*^ Table of Contents*](#page-title)]
+#### The Purpose of Matching Technologies
 
 The ASN will allow knowledge and relationships generated inside one online community to be shared with others. The expertise that one social network has cultivated about solar energy, for example, would become available to other groups with common objectives, through the recommendations of trusted third parties. This kind of targeted, effective information flow would benefit the entire solar energy field, as it would enhance the discourse and relationship building of many public interest efforts.
 
@@ -766,18 +754,16 @@ Certainly, the ASN would be much less useful without a robust system of public i
 
 Sophisticated matching technologies lead you to the content that most interests you, while filtering out the rest. Automated agents depend on them. Not only do they enable robots to connect to the appropriate material, they also restrict connections. Which is to say that matching technologies are key to the filters that reject spam.
 
-(^25) The term was proposed by Tim Berners-Lee, in a 1998 paper titled “Semantic Web Road Map” at
-[http://www.w3.org/DesignIssues/Semantic.html](http://www.w3.org/DesignIssues/Semantic.html).
-(^26) Ibid.
-(^27) "The Semantic Web," By Tim Berners-Lee, James Hendler and Ora Lassila, Scientific American, May 17, 2001. For more, see also [http://www.semanticweb.org.](http://www.semanticweb.org.)
-(^28) Berners-Lee's concept of a digital, networked community memory owed much to the writings of pioneers from the 1960s such as J.C.R. Licklider, Douglas Engelbart, Robert W. Taylor, and Ted Nelson, among others.
+<p><sub id="cite-25">(^25) The term was proposed by Tim Berners-Lee, in a 1998 paper titled “<a href="http://www.w3.org/DesignIssues/Semantic.html">Semantic Web Road Map</a>”</sub><br>
+<sub id="cite-26">(^26) Ibid.</sub><br>
+<sub id="cite-27">(^27) "The Semantic Web," By Tim Berners-Lee, James Hendler and Ora Lassila, Scientific American, May 17, 2001. For more, see also <a href="http://web.archive.org/web/20181208154756/http://semanticweb.org/wiki/Main_Page">http://www.semanticweb.org</a>.</sub><br>
+<sub id="cite-28">(^28) Berners-Lee's concept of a digital, networked community memory owed much to the writings of pioneers from the 1960s such as J.C.R. Licklider, Douglas Engelbart, Robert W. Taylor, and Ted Nelson, among others.</sub><br></p>
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-##### Matching Technologies and Online Community
-
-[[*^ Table of Contents*](#page-title)]
+#### Matching Technologies and Online Community
 
 The ASN applies matching technologies to online community infrastructures in order to support the introduction of people based on common interests. It would integrate matching technologies into online communities at a high level. How would they enhance a user's experience of online community? They would help in these areas:
-* Representing personal identity and interests. Personal profiles in a community system are more useful (more automa^ Table, discoverable, meaningful, and trustworthy) given shared agreements about the meaning of terminology. The technology for automated matchmaking and personal rights-management depends on matching standards being developed for the agent-mediated “semantic web”.
+* Representing personal identity and interests. Personal profiles in a community system are more useful (more automatable, discoverable, meaningful, and trustworthy) given shared agreements about the meaning of terminology. The technology for automated matchmaking and personal rights-management depends on matching standards being developed for the agent-mediated “semantic web”.
 * Representing community identity and interests. A community can present itself more clearly to others if its guiding interests and activities are described rigorously.
 * Improved access to community documentation.
 * Improved access to external documentation, using navigation aids prepared by one’s community or the community owning the external documentation, or by a third party. Navigation aids are shared. Furthermore, new insight might come from combining navigation aids.
@@ -788,9 +774,9 @@ The ASN applies matching technologies to online community infrastructures in ord
 
 The "next generation" of online communities now being developed have begun to add elements from the list above to their infrastructures. But by no means has a standard community "tool kit" to support matching technologies emerged. Moreover, little attention has been paid to how the knowledge created inside each "walled castle" community could be exchanged with those outside its walls. The exponential benefits of connectivity (remember the discussion of Reed’s Law from the Communities section) will be realized when the matching technologies allow focused interconnectivity between community groups. One of the purposes of the ASN is to make this kind of interoperability commonplace on the Internet -- and to raise the bar of expectations for what online communities serving the public interest ought to deliver.
 
-##### Federating Meaning, Decentralizing Knowledge
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Federating Meaning, Decentralizing Knowledge
 
 > “Communities of interest are defined by their worldviews, and whenever a community of interest rigorously exposes its worldview in a fashion that permits its knowledge to be federated with the worldviews and knowledge of other communities, the whole human family is enriched” -- Steven Newcomb
 
@@ -812,9 +798,9 @@ It is also worth noting that the commercial systems for forming ontologies have 
 
 As part of the ASN, we would support open standards, and develop protocols for the interoperability of online ontological frameworks. This approach would promote the decentralized control of meaning-making online. At the same time, it would enrich discourse by allowing separate social networks to share their "knowledge maps" with others, so that diverse viewpoints could be accessed and comparisons made. Ultimately, a multitude of independent maps could be applied to a single collection of information.
 
-##### Using Tacit Knowledge
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Using Tacit Knowledge
 
 The approach described above focuses understanding the meaning embedded in information resources, and mapping that meaning so it can be navigated effectively. But there is another technique now being developed to help users discover relevant information from a sea of bits and bytes -- an approach that cares little about the actual "meaning" of data.
 
@@ -826,17 +812,17 @@ In recent years, the concepts underlying this approach have been expanded in a w
 
 This could explain why only one form of online community has incorporated tacit knowledge effectively: advanced corporate intranets. These knowledge management systems have used tacit knowledge to make connections between individuals and the areas of knowledge in which they appear expert. This kind of tacit knowledge system does not attempt to capture and catalog the specific "knowledge" that an individual might have. Rather, it identifies patterns in the online communications and actions of individuals, and infers from them that connections exist between certain people and identifiable topics. It can also identify (by inference) particular individuals who are regarded as trusted experts on particular issues This technique could prove to be important to the technical infrastructures of third party brokering services within the ASN, enabling them to infer affinity matches between individuals in an efficient and effective manner.
 
-##### Conclusion
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Conclusion
 
 These two approaches -- ontologies and taxonomies, on the one hand, and tacit knowledge, on the other -- are different ways of attacking the same basic problem. Both are of importance to the public interest sector. Moreover, as they develop, these separate tracks will become increasingly interdependent. For example, a recommender system on Amazon might sift through reviews you have written, and cross reference the meaning of your text with the buying patterns of other Amazon customers who have expressed similar interests. These systems are becoming increasingly sophisticated. They ought to be put in the service of civil society. The ASN will facilitate balanced, flexible interactions among the two types of tools.
 
-#### V. Brokering Services
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-##### The Introduction Protocol
+### V. Brokering Services
 
-[[*^ Table of Contents*](#page-title)]
+#### The Introduction Protocol
 
 The essential activity of the ASN is that it brokers introductions between people across social networks, based on expressed affinities and capabilities, through trusted third parties. In order for those introductions to take place, there have to be rules that guide when introductions can be made and how they are facilitated. Each of us responds to unsolicited introductions differently. Some of us are thrilled to meet new people, while others prefer not to be bothered except rarely, under very limited  circumstances. Moreover, across the globe there are cultural differences that influence the formalities that people go through when they meet one another -- it is far from "one size fits all." The kind of brazen, unsolicited introduction that is rewarded in San Francisco is considered rude in Japan. Or, for a more provocative example: under what circumstances would a Palestinian student welcome an introduction to an Israeli peace activist? How can the ASN's introductions be sensitive to this variety of social situations and contexts?
 
@@ -846,13 +832,13 @@ In most cases, it is likely that the introduction protocol would not need to be 
 
 What would this protocol do? It instructs an automated agent (or  broker-bot") to follow a sequence of actions that would lead to relevant introductions. It tells the broker-bot to read the "affinity reference" in a user's digital profile, and then match those expressed affinities or capabilities to others with complementary interests, based on links through trusted third parties. The broker-bot would be instructed to use the ontological frameworks (discussed in Section IV) as a guide to determine meaningful matches. At the end of this sequence, the broker-bot would send a specially tagged ASN Introduction email to the match that it found, without copying the person who made the original request. That "discovered match" can then decide whether to reply to the introduction, or not. If the "discovered match" does not reply, the person who made the initial inquiry would never know, and so would not feel slighted by the rejection.
 
-##### Specialized Brokers, Customized Introductions
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Specialized Brokers, Customized Introductions
 
 This plain vanilla version of the introduction protocol would provide a basic level of the ASN service -- which in itself should prove useful in most situations. But it would not allow for a great deal of customization. What does that mean? If you wanted to use the ASN to connect Israelis and Palestinians in order to support the peace movement, you might want to modify the introduction protocol so that it brings a greater level of certainty and security to the interaction. You might also want to have a real life intermediary interpret the results of automated searches and matching, to act as an additional filter before introductions take place. In situations where an inappropriately made introduction could be a matter of life or death, you would want to customize the ASN to provide the highest possible of level of confidence.
 
-Other concerns are raised by what might be called "The Bono Dilemma." Suppose you worked with Jubilee 2000, the debt relief NGO, and through that work knew Bono. It is unlikely that you would allow an automated system of trusted third parties to take advantage of your access to the rock star/activist. Rather, you would be highly selective when offering your trusted relationship with Bono to another person. At the same time, you know that Bono would be genuinely interested in meeting certain, highly qualified experts working on hunger issues in Africa. But the basic "introduction protocol" of the ASN would not provide enough information and verification for you to feel comfor^ Table vetting a stranger who claims to be such an expert, even if she comes to you through a trusted third party.
+Other concerns are raised by what might be called "The Bono Dilemma." Suppose you worked with Jubilee 2000, the debt relief NGO, and through that work knew Bono. It is unlikely that you would allow an automated system of trusted third parties to take advantage of your access to the rock star/activist. Rather, you would be highly selective when offering your trusted relationship with Bono to another person. At the same time, you know that Bono would be genuinely interested in meeting certain, highly qualified experts working on hunger issues in Africa. But the basic "introduction protocol" of the ASN would not provide enough information and verification for you to feel comfortable vetting a stranger who claims to be such an expert, even if she comes to you through a trusted third party.
 
 For cases like these, there is a need for specialized, independent brokering services that can customize the information protocol so that it meets the requirements of particular groups. A brokering service that specializes in global hunger activism, for example, might be offered by Jubilee 2000, or by a consortium of organizations working on related issues. Their expertise should fine tune the details of the "introduction protocol," making it context specific. In this case, that might mean checking the references of people who claim to have done relief work, or posting online CVs that have been carefully vetted. It might even include the timely appearance of a real-life intermediary to evaluate claims made, or to test the waters to see if an introduction would be well received by the intended recipient. With such a vetting structure in place, designed specifically to serve the needs of a particular group, you are more likely to use the ASN to refer someone to
 Bono after all.
@@ -867,9 +853,9 @@ solve the "Bono Dilemma."
 
 These customized introduction services, among many others, would be offered by independent brokers, which would mix and match protocols, shaping them to meet the needs of their constituents. Brokering services could either be for-profit companies, or not-for-profit civil society initiatives. A brokering service could be hosted on a single destination website (like About.com, where you go to their online "front door" to use their services), or it might syndicate its services on many other sites (like Amazon.com's Affiliates program, which allows a multitude of websites to create their own e-bookstores by linking into Amazon's backend). Our interest is in allowing for the widest possible variety of these services to take shape -- which means that the basic introduction protocol has to be written to facilitate this wide range of customization while maintaining interoperability.
 
-##### Current Brokering Systems
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+#### Current Brokering Systems
 
 Many websites today have some kind of introduction service. We discussed some of these earlier, in the context of matching technologies. For example, Amazon.com's recommender system matches people with books they might be interested in. From the standpoint of the underlying technology, matching people to books is not hugely different than matching people to one another. For that reason, the tacit knowledge approach that drives a book recommender is quite similar to the mechanisms used by advanced corporate intranets with sophisticated knowledge management systems. The intranet, though, is designed to connect employees who are working on complementary projects.
 
@@ -890,17 +876,17 @@ advanced corporate intranets, the company has shown strong interest in making Ne
 
 Alongside NetDeva, a handful of other commercial brokering efforts are about to be unveiled to the public. These companies will significantly raise the bar for brokering services available to corporations and government. The technology will deliver the kind of affinity based brokered introductions that the ASN calls for. However, all of these systems are proprietary. None of them are designed for interoperability. And none of them will be applied deliberately to public interest initiatives.
 
+<p><sub id="cite-29">(^29) <a href="http://www.match.com/registration/aboutus.asp">http://www.match.com/registration/aboutus.asp</a></sub><br>
+<sub id="cite-30">(^30) <a href="http://www.favors.org/FF/">http://www.favors.org/FF/</a></sub><br>
+<sub id="cite-31">(^31) <a href="http://www.friendster.com/info/moreinfo.jsp">http://www.friendster.com/info/moreinfo.jsp</a></sub><br>
+<sub id="cite-32">(^32) <a href="http://www.netdeva.com/product.html">http://www.netdeva.com/product.html</a></sub><br></p>
 
-(^29) [http://www.match.com/registration/aboutus.asp](http://www.match.com/registration/aboutus.asp)
-(^30) [http://www.favors.org/FF/](http://www.favors.org/FF/)
-(^31) [http://www.friendster.com/info/moreinfo.jsp](http://www.friendster.com/info/moreinfo.jsp)
-(^32) [http://www.netdeva.com/product.html](http://www.netdeva.com/product.html)
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-### PART 3: Strategies for Implementation
+## PART 3: Strategies for Implementation
 
-#### I. Software Development in the Public Interest
+### I. Software Development in the Public Interest
 
-[[*^ Table of Contents*](#page-title)]
 
 The necessary technology for the Augmented Social Network might already exist, but making the ASN real will be a challenge. It will require an effort far beyond any software development that civil society organizations have achieved to date. Of course, many more complicated technical projects that effect the Internet are accomplished all the time. But those efforts tend to start with the communications or software industry, and are shepherded by well-funded organizations that represent industry interests. Funding for these projects are based on business plans that anticipate profits. Needless to say, the ASN doesn't lend itself to this kind of approach. (It is worth recalling that neither email nor the Web were justified by business plans when they were invented, nor would that have even been possible.)
 
@@ -908,13 +894,15 @@ Suffice it to say that the ASN is unlikely to become an industry priority. It do
 
 During the dot com heyday, it was widely believed that if software was any good, it would make someone a profit. For that reason, there did not seem to be a need for what you might call "not-for-profit software development." Civil society groups tended to let the market determine which tools were built, and who they were targeted to serve. While there was a certain amount of support from the foundation community for public interest website development, which included the creation of specialized mailing list and e-marketing tools to support non-profit initiatives, those efforts were relatively few compared to the extraordinary explosion of digital media in the commercial sphere. And often those public interest websites were expected to become self-sustaining by following the business models established in the commercial sector.
 
-Once the dot com bubble burst, attitudes changed. There was far less expectation in the public interest sector that online projects would become profi^ Table. But these diminished expectations were accompanied by a distrust of digital media in general, as many people felt that they had been hoodwinked by unscrupulous Internet hypesters as once inflated stock prices were reduced to pennies. As a result of this, as well as in reaction to the sharp downturn of the economy, the civil society sector has shied away from large-scale, ambitious online initiatives. Not only has little interest been shown in complex digital media projects, but the civil society sector has barely begun to develop the capacity to evaluate potential projects, to determine whether they should even be considered for support.
+Once the dot com bubble burst, attitudes changed. There was far less expectation in the public interest sector that online projects would become profitable. But these diminished expectations were accompanied by a distrust of digital media in general, as many people felt that they had been hoodwinked by unscrupulous Internet hypesters as once inflated stock prices were reduced to pennies. As a result of this, as well as in reaction to the sharp downturn of the economy, the civil society sector has shied away from large-scale, ambitious online initiatives. Not only has little interest been shown in complex digital media projects, but the civil society sector has barely begun to develop the capacity to evaluate potential projects, to determine whether they should even be considered for support.
 
 Today the civil society sector is simply unprepared to engage with the critical issues facing the build out of our digital communications infrastructure in anything other than a reactive fashion.
 
 **What does this mean for the ASN?**
 
-##### Hybrid Approach
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
+
+#### Hybrid Approach
 
 The ASN could be achieved in an incremental manner, with software and protocols developed among a relatively small group of participants, and gradually adopted by larger online community systems as they see fit. The development of the software and standards would best take place as part of pilot projects that introduce ASN functionality to a small group of online communities that can participate in working kinks out of thesystem, preparing it for a broader launch. These online communities could be either not-for-profit initiatives or for-profit companies, or a combination of the two.
 
@@ -930,11 +918,12 @@ communities.
 * Boutique brokering services that charge for specialized introductions.
 * Specialized search services that use customized ontological frameworks.
 
-As with email or the Web, ASN functionality could become a core part of the Internet experience -- as well as a revenue source for profi^ Table businesses that provide online services.
+As with email or the Web, ASN functionality could become a core part of the Internet experience -- as well as a revenue source for profitable businesses that provide online services.
 
-#### II. Principles of Implementation
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+### II. Principles of Implementation
+
 
 The intent of the ASN is to increase interconnectivity between people by enabling them to more easily find and share relevant relationships and information. Clearly, engendering trust in the system is critical to its success. To that end, it is necessary for the implementation of the ASN to be guided by principles that support such an environment of trust. These principles include:
 
@@ -946,9 +935,10 @@ connectivity of the underlying Internet protocols.
 * **Decentralization**. The Internet works best when systems are not commanded from the top down, but rather emerge from the bottom up -- and are then adopted on a voluntary basis, in a manner that best suits the specific needs of the distinct communities that together comprise the Net's totality. We are in favor of an "opt-in" system, rather than one commanded by a government or commercial authority. For that reason, our approach
 is to develop software and standards that can be added to existing community operating systems in a modular fashion -- so they do not have to rewrite their software from scratch, but rather can "plug-in" these modules to their existing infrastructures. Similarly, the ASN would support decentralized structures for the maintenance of persistent identity and ontological frameworks.
 
-#### III. Recommendations
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
+### III. Recommendations
+
 
 In the near term, there are a number of practical steps that should be taken to bring the ASN into being. While some of this work could be pursued as for-profit/not-for-profit hybrids, our inclination is to support this work strictly through grants, and to make the fruits of these efforts (the software and protocols they lead to) freely available to the public through GPL (and other similar) licenses. These steps include:
 
@@ -958,10 +948,11 @@ In the near term, there are a number of practical steps that should be taken to 
 * **Co-develop basic ASN functionality with select online community companies**. Basic ASN community functionality should be developed through a pilot project that involves a small number of communityware companies open to collaborating on key issues such as: interoperability, affinity based introductions, and ontological frameworks. This work would include the writing of the introduction protocol. This pilot project would be a testing ground for the implementation of ASN functionality as it develops. Ideally, at least one of these online communities would include the active participation of one or more NGOs, in a particular field, in order to test the effectiveness of the ASN under the stresses and strains of actual use. It could also include the participation of one or more of the independent brokering services now developing technology for corporate intranets.
 * **A dedicated team would coordinate implementation of matching technologies for the public interest sector**. The ASN effort should act as a catalyst to bring attention and support to the development of ontologies and taxonomies for the public interest sector. A pilot project to begin this work should be initiated in collaboration with one or more NGOs.
 
-### Appendices
-#### A. Acknowledgements 
 
-[[*^ Table of Contents*](#page-title)]
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
+
+## Appendices
+### A. Acknowledgements 
 
 This paper is the product of a two-year process involving over fifty professionals from the fields of network computing, independent media, and environmental activism. A core group of 25 was initially convened in Ben Lomand, California, in September 2000 by Brad deGraf. They were invited to address ways of using the Internet to establish a global network of people concerned about the future of the environment that could number in the many millions. Rarely had engineers, activists, and media professionals been part of the same extended conversation about the potential of networked digital communications to serve the public interest. The dialogue was more than stimulating, and the group decided to form an organization to give further shape to ideas introduced that weekend. A half dozen more weekend sessions followed over the next 18 months, as well as a flurry of off-line conversations and parallel projects. In time, a vision took shape for a next- generation online community that provides people across the globe with better tools to take part in democratic action and to collaboratively organize their resources in order to promote environmental sustainability. The ASN is a core component of this broader vision, and each participant in the group discussions contributed to the development of this vision. The voting members of the group, which eventually took the name Link Tank, are: Debra Amador, Juliette Beck, Jack Bradin, Bruce Cahan, Brad deGraf, Bonnie DeVarco, Andres Edwards, Jim Fournier, Steve Foster, Chris Gallagher, Lev Gonick, Jan Hauser, James Hung, Allen Hunt-Badiner, Ken Jordan, Michael Litz , Richard Perl, Christie Rothenberg , Neil Sieling, Greg Steltenpohl, Elizabeth Thompson, Hardin Tibbs, Michael Tolson, Amie Weinberg, and Nate Zelnick. Among the informal advisors to the group, who took part in some of the meetings or online discussions, were: Jeffrey Alexrod, Owen Davis, Gerald de Jong, Tom Laskawy , Tom Munnecke, Robin Mudge, Ellen Pearlman, Jonathan Peizer, Richard White, and Duncan Work.
 
@@ -969,22 +960,21 @@ In January, 2002, Link Tank commissioned Jan Hauser, Steven Foster, and Ken Jord
 
 The authors would like to thank Cynthia Typaldos and Mark S. Miller for their contributions to the ideas expressed in this paper. We also want to acknowledge the influence of Dee Hock's theoretical work on chaordic organizations. Our gratitude goes out to the Chaordic Commons, whose support was instrumental in the preparation of this paper. Lastly, we extend our thanks to Neil Sieling, who managed this process for the Link Tank, for his valuable feedback to drafts in revision.
 
-#### B. About The Authors
+<p align="right"><sub><a href="#page-title"><em>^ Table of Contents</em></a></sub></p>
 
-[[*^ Table of Contents*](#page-title)]
-
-##### Ken Jordan
+### B. About The Authors
+**Ken Jordan**
 Ken Jordan is one of the pioneers of Web-based multimedia. In 1995 he led the development and served as founding editorial director of SonicNet.com, the first multimedia music zine. SonicNet was named best website of 1995 by Entertainment Weekly and won the first Webby award for music site before becoming a property of MTV. In 1996 Mr. Jordan became creative director of Icon New Media, publisher of two seminal, award-winning online magazines: the general interest zine Word.com, and the action sports site Charged.com. In 1999, he co-founded the public interest portal MediaChannel.org, in partnership with Globalvision and the international civil society network OneWorld.net; it was OneWorld's first U.S. based project. He is currently a writer and digital media consultant based in New York, and Director of the Art and Culture Network.
 
 Ken is co-editor of Multimedia: From Wagner to Virtual Reality (W.W. Norton, 2001), an anthology of seminal articles that trace the "secret" history of digital multimedia; the book is widely taught at colleges and universities around the world. Outside the digital realm, he collaborated with the playwright and director Richard Foreman on the book Unbalancing Acts: Foundations for a Theater (Pantheon, 1992).
 
-##### Jan Hauser
+**Jan Hauser**
 
 Jan Hauser is currently a Business Development Manager at Science Application International Corporation (SAIC) and is also a visiting professor at the Naval Postgraduate School, in Monterey California. At SAIC Jan focuses on business development of SAIC’s Latent Symantec Indexing Product (LSI). This product is capable of discovering and matching “concepts” which it discovers in unstructured text. LSI functions independent of what native language these concepts are expressed in and also works independent of the various terminologies used by individuals to express their concepts.
 
 Jan was formerly principle architect at Sun Microsystems where he was responsible for Sun’s membership in The Santa Fe Institute (SFI). Jan has been a catalyst for the application of Complexity Science to business, social, and environmental problems. In this pursuit he co-organized a workshop with The Institute For The Future (IFTF) - Growing At the Edge: The New Corporate Structures for Innovation and the Challenge of Governance.
 Jan has worked on the development of Sun’s architecture for automated markets, Electronic Trade Exchanges, and principals that lead to the emergence of "communities" of trading partners. He currently spends much of his personal time working on problems of "Global Sustainability." Jan has also worked with Dee Hock, founder of VISA International, in the development of new organizational models and implementations of so called "Chaordic," or self- organizing institutional forms, which were included in Sun’s Jini community, design. This work led Jan to focus his energies on promoting the development and adoption of technologies that would support the emergence of "Chaord Light," a means of exploiting the internet in catalyzing latent “Social Networks” based on shared or complementary interests and capabilities combined with the transitive nature of trust amongst people who know each other indirectly through our “six degrees” of our personal knowledge and connectivity.
 
-##### Steven Foster
+**Steven Foster**
 Steven Foster is a pioneer in Internet resource discovery. In 1992 he designed and developed the first comprehensive Internet search engine, Veronica, which became the most active service on the Internet in 1994. He has consulted widely in the application of search technology to education and telecommunications. In 1998 he began work on applying markup and metadata to improve automated comparison of structured professional vocabularies. At present Steven researches the applications of semantic technologies to email analysis and web services.
  
