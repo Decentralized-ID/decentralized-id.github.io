@@ -1,6 +1,8 @@
 # [decentralized-id.com](https://decentralized-id.com)
 
-<center><img src="images/did-twitter.png"/></center>
+## Stay Current on SSI with [Identosphere Weekly](https://identosphere.substack.com) a free newsletter by [Infominer](https://infominer.xyz) and [Identitywoman](https://identitywoman.net/)
+
+<center><img src="images/did-twitter.webp"/></center>
 
 
 >A good self‐sovereign identity system will allow individuals to directly influence how companies, governments, and others correlate our interactions across different services and locations by default. It won’t fix all identity problems nor preclude alternative identity approaches, but it will put the individual in control of most uses of identity and give organizations a simpler, easier, more ethical way to use identity to improve how they provide services and products. When successful, it will not only enable individuals to exercise greater control over how companies and governments keep track of us, it will also illuminate those situations where self‐sovereign identity is restricted, facilitating a conversation about when and where such limits are appropriate. [Joe Andrieu -A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf)
