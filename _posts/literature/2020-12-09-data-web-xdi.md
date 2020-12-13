@@ -9,7 +9,7 @@ permalink: /literature/dataweb-introduction-to-xdi/
 categories: ["Literature","Web Standards"]
 tags: ["XRI","XDI","Dataweb"]
 header:
-  ogimage: /images/dataweb/dataweb-og.webp
+  og_image: /images/dataweb/dataweb-og.webp
   teaser: /images/dataweb/dataweb-whitepaper-teaser.webp
 ---
 
