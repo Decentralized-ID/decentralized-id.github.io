@@ -119,7 +119,7 @@ Private Sector
     </tr>
     <tr>
       <td><img src="https://imgur.com/j1hzcTo.png" width="150"></td>
-      <td><img src="https://decentralized-id.com/images/doge-address.png" width="150"></td>
+      <td><img src="https://raw.githubusercontent.com/Decentralized-ID/decentralized-id.github.io/master/images/doge-address.webp" width="150"></td>
     </tr>
   </tbody>
 </table>  
