@@ -1,6 +1,7 @@
 ---
-title: Twitter Collection 2020-10-31
+title: "Twitter Collection Week #1 December"
 description: Collection of tweets on decentralized identity from the week preceding 12-06-2020
+last_modified_at: 2020-12-06
 ---
 
 
