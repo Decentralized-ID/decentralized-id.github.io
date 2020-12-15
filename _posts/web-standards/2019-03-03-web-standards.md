@@ -2,7 +2,7 @@
 date: 2019-03-03
 title:  Web Standards and the Emerging Decentralized ID Stack
 excerpt: >
-  too many people complain about problems but don’t step to Fix It!. There are certainly a lot of flawed standards – but they make interoperability possible – not perfect – but possible. If you haven’t used them then you have no right to complain that they are too complex, too simple (even in the same standard) or too domain specific – or any of the other rants and raves that go on.
+  If you’re willing to put up with a lot of work for incremental improvements then step up and join a standard. Whether that is a (relatively) fast moving standard group like OASIS (www.oasis-open.org) or a slower but more international group like ISO you will learn. You’ll also benefit from working with experts. These experts donate their time and are more than happy to provide ideas, guidance, and leadership.
 layout: single
 permalink: web-standards/
 canonical_url: 'https://decentralized-id.com/web-standards/'
@@ -12,43 +12,55 @@ redirect_from:
   - specs-standards/
 categories: ["Web Standards"]
 tags: ["W3C","Index","Credentials Community Group","Hyperledger Foundation","FIDO","OpenID","XDI","OASIS","JSON-LD","Verifiable Credentials","Ethereum","Blockcerts","OAuth","OIDC","DKMS","ERC725","Rebooting WoT","Schema.org","Learning Machine"]
-last_modified_at: 2020-04-04
+last_modified_at: 2020-12-15
+header: 
+  og_image: /images/Who-Runs-the-Internet-graphic.webp
 ---
 
-I've begun exploring and becoming more familiar with the decentralized nature of digital identity. Open processes for standardization are critical components for enabling identification that's both decentralized and widely interoperable.
-
-Check out this [twitter list](https://twitter.com/i/lists/1322229268252950531) I made for tracking identity related standards orgs.
+Check out this [twitter list](https://twitter.com/i/lists/1322229268252950531) I made for identity related standards development bodies.
 
 * [Why Engage with Standards?](https://www.continuumloop.com/why-engage-with-standards/)
   > too many people complain about problems but don’t step to Fix It!. There are certainly a lot of flawed standards – but they make interoperability possible – not perfect – but possible. If you haven’t used them then you have no right to complain that they are too complex, too simple (even in the same standard) or too domain specific – or any of the other rants and raves that go on.
   > 
   > If you’re willing to put up with a lot of work for incremental improvements then step up and join a standard. Whether that is a (relatively) fast moving standard group like OASIS (www.oasis-open.org) or a slower but more international group like ISO you will learn. You’ll also benefit from working with experts. These experts donate their time and are more than happy to provide ideas, guidance, and leadership.
-
 * [Who Are the Identerati? - ForgeRock](https://www.forgerock.com/blog/who-are-the-identerati)
-  > You’re familiar with digital identity standards like OpenID Connect, OAuth, and User-Managed Access, fundamental elements of privacy and security on the internet. But have you ever wondered how they came to be? A lot of work on these protocols went on (and goes on) behind t...
+  > You’re familiar with digital identity standards like OpenID Connect, OAuth, and User-Managed Access, fundamental elements of privacy and security on the internet. But have you ever wondered how they came to be? A lot of work on these protocols went on (and goes on) behind the scenes at the Internet Identity Workshop (IIW), a bi-annual gathering of identity experts where we work on improving the identity systems that make the web run. It’s a great event that’s flown under the radar, so I’m excited to share a new documentary on IIW,  “Not Just Who They Say We Are: Claiming our identity on the Internet”. This short film shines a light on the stealth community of “Identerati” at IIW that are defining and refining digital identity.
+* [**Manifesto: Rules for standards-makers**](http://scripting.com/2017/05/09/rulesForStandardsmakers.html) by Dave Winer
+  > I've used all kinds of formats and protocols in a long career as a software developer, even created a few. My new manifesto summarizes what I've learned about what works and what doesn't.
 
-* [Building Blocks for a New Architecture](https://medium.com/@trbouma/building-blocks-for-a-new-architecture-fda2238ac005)
-  > After looking at the many different digital platforms and mechanisms: centralized, decentralized, proof-of-work, proof-of-stake, the list goes on, I have concluded that all of these new platforms boil down to fulfilling three core societal functions: value, identity, and status, underpinned by consensus.
+{% include figure image_path="/images/Who-Runs-the-Internet-graphic.webp" alt="https://es.wikipedia.org/wiki/Archivo:Who-Runs-the-Internet-graphic.png" caption="[*Internet Governance*](https://en.wikipedia.org/wiki/Internet_governance)" %}
 
-## High Level Overview
+## Decentralized Identity Stack
 
-* [*Overview of Decentralized Identity Standards*](https://medium.com/decentralized-identity/overview-of-decentralized-identity-standards-f82efd9ab6c7), Nader Helmy
-  > A standard, open protocol for establishing unique, private and secure connections between multiple parties without requiring the assistance of an intermediary “connection broker,” like Google, WhatsApp, an email provider, or a phone carrier. Secure connections are created by two or more peers creating and exchanging decentralized identifiers or “DIDs.” 
-
-* [**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) NIST CYBERSECURITY WHITE PAPER (DRAFT) BLOCKCHAIN IDENTITY MANAGEMENT APPROACHES
-JULY 9, 2019
+* [**Hyperledger Identity Working Group - Identity Standards**](https://wiki.hyperledger.org/display/IWG/Identity+Standards)
+* [**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) NIST CYBERSECURITY WHITE PAPER (DRAFT) BLOCKCHAIN IDENTITY MANAGEMENT APPROACHES JULY 9, 2019
   > Identity management systems (IDMSs) are widely used to provision user identities while managing authentication, authorization, and data sharing both within organizations as well as on the Internet more broadly. Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues such as encouraging mass data collection and user tracking. Blockchain technology has the potential to support novel data ownership and governance models with built-in control and consent mechanisms, which may benefit both users and businesses by alleviating these concerns; as a result, blockchain-based IDMSs are beginning to proliferate. This work categorizes these systems into a taxonomy based on differences in architecture, governance models, and other salient features. We provide context for the taxonomy by describing related terms, emerging standards, and use cases, while highlighting relevant security and privacy considerations.
-
-* [Hyperledger Identity Working Group - Identity Standards](https://wiki.hyperledger.org/display/IWG/Identity+Standards)
-
+* [Building Blocks for a New Architecture](https://medium.com/@trbouma/building-blocks-for-a-new-architecture-fda2238ac005) by Tim Bouma
+  > First, you will see the Issuer, Holder and Verifier. This is the archetypal pattern of the decentralized architecture. An issuer issues something to a holder, who then presents it to a verifier, who make a decision. A simple example: government(issuer) issues you a passport (holder), which you present to a border control officer (verifier) who lets you through the gate. When you look at all the use cases (described above), they all fall into this pattern.\
+  >![](https://i.imgur.com/qGXEnW1.png)
 * [The Self-Sovereign Identity Stack by Oliver Terbu OSI](https://medium.com/decentralized-identity/the-self-sovereign-identity-stack-8a2cc95f2d45)
+  > | Layer | Examples |
+  > | --- | --- |
+  > | Application | Selective Disclosure, music app, rideshare service, extensions, etc. |
+  > | Implementation | DIF Hubs, Indy Agents, uPort app, etc. |
+  > | Payload | JSON-LD, JWT, CWT |
+  > | Encoding | ProtoBuf, Cap'n Proto, MessagePack, JSON, CBOR, etc. | 
+  > | Encryption | Ciphersuite, JWE, etc. |
+  > | DID AuthN | Key ownership, verification, challenge/response, etc. | 
+  > | Transport | QR Code, HTTP, BLE, NFC, FTP, SMTP, etc. |
+  > | DID Resolution | DID -> DID Doc / service and key resolution | 
+  > | DID Operations | CRUD support for a DID Doc | 
+  > | Storage | Optional, separate storage of DID metadata |
+  > | Anchor | Bitcoin, Ethereum, Veres One, Sovrin, etc. |  
+* [Overview of Decentralized Identity Standards](https://medium.com/decentralized-identity/overview-of-decentralized-identity-standards-f82efd9ab6c7), Nader Helmy
+  > we can think of each specification as addressing one or more of the SSI “building blocks” that we described above. In some cases a standard may be a bridge between layers, enabling a closer link between connections, data, and keys, making the ecosystem more secure as a whole. What you will find below is a list of all relevant standards, links to every specification, the organizations they belong to, their relationship to the ecosystem, and their relative maturity as internet technologies.
+  > {% gist c8a20c534d3cf8f65a9b34ce2ad81725 Decentralized%20Identity%20Standards.md %}
 
-![](https://imgur.com/6MLNgXal.png)\
+[![](https://imgur.com/6MLNgXal.png)](https://www.youtube.com/watch?v=RllH91rcFdE)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
 
 
-## Standards Bodies 
-**_and other orgs worth keeping an eye on_**
+## Orgs Related to Standards Development
 
 * [ISSA (Information Systems Security Association)](https://www.issa.org/)
 * [ISAO Standards](https://www.isao.org/)
@@ -65,148 +77,93 @@ JULY 9, 2019
 * [Me2B Alliance](https://www.me2balliance.org/repository.html)
 * [Ethereum Enterprise Alliance](https://entethalliance.org/participate/working-groups/)
 
-{% include figure image_path="/images/1280px-Who-Runs-the-Internet-graphic.webp" alt="https://es.wikipedia.org/wiki/Archivo:Who-Runs-the-Internet-graphic.png" caption="[*Internet Governance*](https://en.wikipedia.org/wiki/Internet_governance)" %}
+**Decentralised Identity: What’s at Stake? [A Position Paper by the INATBA Identity Working Group](https://inatba.org/wp-content/uploads/2020/11/2020-11-INATBA-Decentralised-Identity-001.pdf)**
+> INATBA has a specific Standards Committee to liaison with relevant standardisation committees and bodies. Some relevant standardisation committee and bodies include:
+> - [ISO/TC 307 “Blockchain and distributed ledger technologies”](https://www.iso.org/committee/6266604.html)
+> - [CEN/CENELEC JTC 19 “Blockchain and Distributed Ledger Technologies”](https://standards.iteh.ai/catalog/tc/cen/d96ab6b7-aac8-49e9-9ac5-b391bbd2abdc/cen-clc-jtc-19)
+> - [Decentralised Identifiers (DIDs)](https://w3c.github.io/did-core/)
+> - [DID Resolution](https://w3c-ccg.github.io/did-resolution/)
+> - [Verifiable Credentials (VCs)](https://www.w3.org/TR/vc-data-model/)
+> - “[Issuer](https://github.com/w3c-ccg/vc-issuer-http-api)” und “[Verifier](https://github.com/w3c-ccg/vc-verifier-http-api)” APIs and [Linked Data Vocabulary](https://digitalbazaar.github.io/citizenship-vocab/)
+> - [Credential Handler API](https://w3c-ccg.github.io/credential-handler-api/)
+> - [DID SIOP](https://identity.foundation/did-siop/)
+> - [DID Comm](https://github.com/decentralized-identity/didcomm-messaging)
+> - [Trust over IP Foundation](https://trustoverip.org/)
 
-## NIST
+## Blockchain Standards
+
+* [Global Standards Mapping Initiative: An overview of blockchain technical standards](https://www.weforum.org/whitepapers/global-standards-mapping-initiative-an-overview-of-blockchain-technical-standards)
+  * [IEEE](https://standards.ieee.org/) (USA) Internet of things (IoT); cryptocurrency exchange and payment; tokens; energy; digital assets
+    > "The purpose of the Institute of Electrical and Electronics Engineers (IEEE) is promoting the development and application of electrotechnology and allied sciences for the benefit of humanity, the advancement of the profession and the well-being of its members" 
+  * [ISO](https://www.iso.org/standards.html) (Switzerland) Security; identity
+    > The International Organization for Standardization (ISO) is an independent, non-governmental, international organization that develops standards to ensure the quality, safety and efficiency of products, services and systems 
+  * [W3C](https://www.w3.org/standards/) (USA) Identity
+    > The Worldwide Web Consortium (W3C) is developing protocols and guidelines that ensure long-term growth for the web 
+  * [IRTF](https://irtf.org/) (USA) identity; digital assets
+    > The Internet Research Task Force (IRTF) aims to promote research for the evolution of the internet 
+  * [IEC](https://www.iec.ch/) (Switzerland) Internet of things (IoT)
+    > The International Electrotechnical Commission (IEC) promotes standardization of electrical technology, electronic and related matters 
+  * [IETF](https://www.ietf.org/standards/) (USA) Cryptocurrency payment
+    > The purpose of the Internet Engineering Task Force (IETF) is creating voluntary standards to maintain and improve the usability and interoperability of the internet 
+  * [ITU-T](https://www.itu.int/en/ITU-T/publications/Pages/default.aspx) (Switzerland) Security; IoT; identity; DLT requirements
+    > "The International Telecommunication Union Telecommunications (ITU-T) sector ensures the efficient and timely production of standards covering all fields of telecommunications and information communication technology (ICTs) on a worldwide basis, and defines tariff and accounting principles for international telecommunication services" 
+  * [BSI](https://www.bsigroup.com/en-GB/standards/) (UK) DLT requirements
+    > The British Standards Institution (BSI) is the national standards body of the United Kingdom. It aims to share knowledge, innovation and methodologies to help people and organizations make excellence a habit 
+  * [CEN](https://www.cen.eu/Pages/default.aspx) \ [CENELEC](https://www.cenelec.eu/) (Belgium) Security
+    > The European Committee for Standardization (CEN) and the European Committee for Electrotechnical Standardization (CENELEC) provide a platform for the development of European standards and other technical documents in relation to various kinds of products, materials, services and processes" 
+  * [Standards Australia](https://www.standards.org.au/) (Australia) Security; DLT taxonomy
+    > Standards Australia coordinates standardization activities and facilitates the development of Australian standards 
+  * [WIPO](http://www.wipo.int) (Switzerland) Application of blockchain to intellectual property
+    > The World Intellectual Property Organization (WIPO): 1) promotes the protection of intellectual property throughout the world through cooperation among states and, where appropriate, in collaboration with any other international organization; and 2) ensures administrative cooperation among unions 
+  * [ETSI](https://www.etsi.org/standards) (France) Permissioned distributed ledgers
+    > The European Telecommunications Standards Institute (ETSI) provides the opportunities, resources and platforms to understand, shape, drive and collaborate on globally applicable standards 
+  * [SAC](http://www.sac.gov.cn/sacen/) (China) DLT requirements
+    > The Standardization Administration of China (SAC) exercises administrative responsibilities by undertaking unified management, supervision and overall coordination of standardization work in China 
+  * [BRIBA](https://www.beltandroadblockchain.org/) (China) DLT requirements
+    > The Belt and Road Initiative (BRI) has established the Belt and Road Initiative Blockchain Alliance (BRIBA) to spur the development of the BRI by leveraging blockchain technologies 
+  * [CESI](http://www.cc.cesi.cn/english.aspx) (China) Tokens; security
+    > "The China Electronic Standardization Institute (CESI) works with standardization, conformity assessment and measurement activities in the field of electronic information technologies. In the past couple of years, CESI has come out with a vision to introduce three blockchain standards on smart contracts, privacy and deposits in a bid to better guide the development of the blockchain industry in the country" 
+  * [DCSA](https://dcsa.org/) (Netherlands) Interoperability
+    > The Digital Container Shipping Association (DCSA) seeks to pave the way for interoperability in the container shipping industry through digitalization and standardization 
+  * [International Chamber of Commerce (ICC)](https://iccwbo.org/) (France) Interoperability
+    > The ICC established a working group called the Digital Standards Initiative (DSI). The purpose of the DSI is to encourage and maintain standards-based interoperability (between blockchain and non-blockchain consortia and networks) in global trade 
+  * [EEA](https://entethalliance.org/) (USA) Interoperability; tokens
+    > The Enterprise Ethereum Alliance (EEA) builds, promotes and broadly supports Ethereum-based technology methodologies, standards and a reference architecture 
+  * [Hyperledger](https://www.hyperledger.org/) (USA) Interoperability; tokens
+    > "Hyperledger is an open-source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments. It serves as a neutral home for various distributed ledger frameworks including Hyperledger Fabric, Sawtooth, Indy, as well as tools such as Hyperledger Caliper and libraries such as Hyperledger Ursa" 
+  * [IWA](https://interwork.org/) (USA) Tokens; analytics
+    > The InterWork Alliance (IWA) is working to: develop standards-based interworking specifications; address market requirements and performance metrics; support advances across all platform technologies; and enable multi-party interchanges 
+  * [JWG](https://intervasp.org/) (USA & UK) Tokens 
+    > "The Joint Working Group on interVASP Messaging Standards (JWG) identified the need for VASPs to adopt uniform approaches and establish common standards to enable them to meet their obligations resulting from the FATF recommendations as they apply to affected entities. To tackle this, a cross-industry, cross-sectoral joint working group of technical experts was formed in December 2019 and a new technical standard developed by the group" 
+  * [National Blockchain and Distributed Accounting Technology Standardization Technical Committee](https://tech.sina.com.cn/it/2018-05-10/doc-ihaichqz3607998.shtml) (China) DLT requirements; DLT terminology
+    > This is a group of organizations that have joined a national committee focused on creating standards for blockchain technology 
+  * [CDC](https://digitalchamber.org/initiatives/) (USA) Digital assets
+    > The Chamber of Digital Commerce (CDC)’s mission is to promote the acceptance and use of digital assets and blockchain-based technologies. Through education, advocacy and working closely with policy- makers, regulatory agencies and industry, its goal is to develop an environment that encourages innovation, jobs and investment 
+  * [MOBI](https://dlt.mobi/) (USA) Vehicle identity; usage-based insurance; electric vehicle grid integration; connected mobility and data marketplace; supply chain and finance; securitization and smart contracts
+    > The Mobility Open Blockchain Initiative (MOBI)’s Vehicle Identity Working Group (VIWG) aims to use DLT to make mobility safer, greener, cheaper and more accessible 
+  * [GDF](https://www.gdfi.io) (UK) DLT requirements
+    > Global Digital Finance (GDF) is an industry membership body that promotes the adoption of best practices for cryptoassets and digital finance technologies, through the development of conduct standards, in a shared engagement forum with market participants, policy- makers and regulators 
+  * [BIG](https://blockchainindustrygroup.org/) (Canada) DLT requirements (in progress)
+    > The Blockchain Industry Group (BIG) is dedicated to promoting the adoption of blockchain technologies and digital currencies by actively collaborating with and promoting the efforts of our global blockchain community 
+  * [BIA](https://bialliance.io/) (Estonia) Interoperability
+    > The Blockchain Industrial Alliance (BIA) seeks to promote cross-blockchain transactions and interconnectivity. The goal of this alliance is to create a globally accepted standard for connecting blockchains and to bring innovations together 
+  * [BiTA](https://www.bita.studio/) (USA) "Interoperability; DLT requirements"
+    > The Blockchain in Transport Alliance (BiTA) is seeking to develop and embrace a common framework and standards from which transport/logistics/supply-chain participants can build blockchain applications
+
+## Assorted
+### NIST
 
 - [FIPS PUB 201-3 (DRAFT) Federal Information Processing Standards Publication](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.201-3-draft.pdf) (Supersedes FIPS 201-2) 
   > Personal Identity Verification (PIV) of Federal Employees and Contractors
 
-## W3C
-
-![](https://imgur.com/Lz6RTysl.png)
-
-* [World Wide Web Consortium(W3C)](https://www.w3.org/) [[**T**](https://twitter.com/w3c)] [[**G**](https://github.com/w3c)]
-  >The [World Wide Web Consortium (W3C)](https://www.w3.org/Consortium/) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards. Led by Web inventor and Director Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to lead the Web to its full potential.
-* [W3C Digital Verification Community Group](https://www.w3.org/community/digital-verification/) • [w3c-dvcg/w3c-dvcg.github.io](https://sea-region.github.com/w3c-dvcg/w3c-dvcg.github.io)
-* [JSON-LD 1.0, W3C Recommendation](https://www.w3.org/TR/json-ld/)
-* [W3C Workshop on Strong Authentication & Identity](https://www.w3.org/Security/strong-authentication-and-identity-workshop/report.html)
-
-### Credentials Community Group
-
-* [Credentials Community Group](https://www.w3.org/community/credentials/)[[**B**](https://w3c-ccg.github.io/)]  
-* [Public mailing list for the Credentials Community Group](http://lists.w3.org/Archives/Public/public-credentials/) (and archives) - Anyone may read or write to this list.
-
-#### DID the Decentralized Identifier 
-
-<a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
-
-* [DID Whitepaper](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/DID-Whitepaper.md)
-  > A DID architecture should focus on the set of components that Mr. Gupta refers to as "the minimum required for people to be able to do business (or other critical functions) together".
-  >
-  >**A Decentralized Identifier (DID) Registry and Discovery Service**
-  >
-  > This "minimum required" is defined by a union of the proposed requirements identified by the W3C Credential Community Group, the XDI.org Registry Working Group, and the Rebooting the Web of Trust group. It consists of three functions that can be addressed by a combination of blockchain and DHT technology:
-  >
-  > * A DID registration function
-  > * A discovery function that enables looking up a registered DID in the blockchain
-  > * A master key recovery function
-* [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
-  * [All you need to know about sequential UUID generators](https://blog.2ndquadrant.com/sequential-uuid-generators/)
-* [w3c- Decentralized Identifiers (DIDs) v0.11](https://w3c-ccg.github.io/did-spec/)
-* [Understanding Decentralized IDs (DIDs)](https://medium.com/@adam_14796/understanding-decentralized-ids-dids-839798b91809)
-* [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
-* [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
-* [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
-* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
-* [What is a DID?](https://docs.google.com/document/d/1Ym85y_bDVN9xkRZ-oD-zlUUIeZjVGWNihfZBk2GQidk/edit)
-* [The Path from an id (DID) to a Real-Life Something](https://hyperonomy.com/2019/01/04/the-path-from-a-id-did-to-a-real-life-something)
-
-<a href="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png"><img src="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png?w=500"/></a>
-
-### Verifiable Credentials 
-
-<a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/nsZ0X7r.png"/></a>
-
-* [Verifiable Claims Working Group](https://w3c.github.io/verifiable-claims/)
-* [Verifiable Claims Data Model 1.0](https://w3c.github.io/vc-data-model/) [[**G**](https://github.com/w3c/vc-data-model)] [[**D**](https://w3c.github.io/vc-use-cases/)]
-* [Verifiable Claims WG - Mailing List](https://lists.w3.org/Archives/Public/public-vc-wg/) (and archives)
-* [Verifiable Credentials 101 for SSI – Tyler Ruff – Webinar 11](http://ssimeetup.org/verifiable-credentials-101-ssi-tyler-ruff-webinar-11/)
-
-
-## DIF
-
-* [Email Campaign Archive from Decentralized Identity Foundation](https://us3.campaign-archive.com/home/?u=7d1001f187a746b68d2ea0d28&id=866a6c17be)
-  * [decentralized-identity/newsletter/issues/1#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=d03c08ac8b): Working Group Updates:
-  * [decentralized-identity/newsletter/issues/2#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=39d596a7f0) - Working Group Updates 
-  * [decentralized-identity/newsletter/issues/4#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=8efd1e4a75)
-  * [decentralized-identity/newsletter/issues/5#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=3dc94cb937)
-
-Working Group Updates:
-  * ☂️ InterOp Project - Demonstrating interoperability across various teams/project and technology stack.
-  * 💡 Identifiers & Discovery - How people, organizations, and devices can be identified and located without centralized systems.
-  * 💠 Storage & Compute - Secure, encrypted, privacy-preserving storage and computation of data.
-  * 🛡️ Claims & Credentials - Verifying claims and assertions of identities.
-  * 🔓 DID Auth - DID-based authentication specs, standards, and libraries.
-
-
-[Decentralized Identity & Trust Technology APAC/ASEAN Call](https://medium.com/decentralized-identity/decentralized-identity-meetings-for-the-apac-region-7221b9aad29)
-> APAC and ASEAN engineers are historically under-represented in EU & US driven global efforts due to simple scheduling concerns — conference calls and other avenues of information sharing are often scheduled at inconvenient times for APAC and ASEAN participants. APAC and ASEAN engineers find it difficult to participate in communities that meet only between midnight and sunrise. This results in APAC and ASEAN solutions developing as parallels to their equivalent EU- & US-based global efforts, rather than as extensions of them or as interlocutors for them.
-
-[DIF starts DIDComm Working Group](https://medium.com/decentralized-identity/dif-starts-didcomm-working-group-9c114d9308dc)
-> Over the past few months, the DIF and Hyperledger Aries community have come together and agreed to work on a common work item aimed at developing secure communication based on Decentralized Identifiers (DIDs) — hence the name DIDComm, which is short for DID Communication. Significant prior work in developing a messaging-based communication protocol using DIDs has been incubating in the HyperLedger (HL) Aries community, with the progress of this effort evident in the resulting Aries RFCs. To address the requirements of a broader and more heterogeneous community we selected DIF as the place to pursue the next phase of work associated with this effort. Presenting the progress of DIDcomm to other relevant working groups will drive the interoperability between the various decentralized identity vendors and hence enabling a range of decentralized identity-related use cases.
-
-
-### DID Auth 
-
-![](https://imgur.com/XMaq5cil.png)
-
-
-   * [DID Auth and the Little I-am-Me](https://medium.com/@markus.sabadello/did-auth-and-the-little-i-am-me-ec14d757ff09)
-   * [Introduction to DID Auth](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/did-auth.md) [[**ϟ**](http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/)]
-
-<a href="http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10/"><img src="https://i.imgur.com/YNlk8RY.png"/></a>\
-http://ssimeetup.org/introduction-did-auth-markus-sabadello-webinar-10
-
-
-## Decentralized Key Management-Agents 
+### Decentralized Key Management
 
 <img src="https://i.imgur.com/0SLcjUv.png"/>
 
 * [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
 * [Recommendations for Decentralized Key Management Systems](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/dkms-recommendations.md)
-* [Agent to Agent Communication](https://drive.google.com/file/d/1PHAy8dMefZG9JNg87Zi33SfKkZvUvXvx/view): Daniel Hardman explains the goals of agent to agent communication
-
 
 ![](https://i.imgur.com/5qc1qrG.png)\
 <sup><a href="http://ssimeetup.org/decentralized-key-management-dkms-essential-missing-piece-ssi-puzzle-drummond-reed-webinar-8/">DKMS - An Essential Missing Piece of the SSI Puzzle. Drummond Reed. SSIMeetup.org</a></sup>
 
-* [Microsoft- Decentralized Identity — Own and Control Your Identity.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY)
-![](https://i.imgur.com/ozOLCuW.png)
-
-## Ethereum ERC-EIP
-
-* [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
-* [ERC1056 ❤ ERC780 — an open identity and claims protocol for Ethereum](https://medium.com/uport/erc1056-erc780-an-open-identity-and-claims-protocol-for-ethereum-aef7207bc744)
-* [EIP-780 Ethereum Claims Registry](https://github.com/ethereum/EIPs/issues/780)
-* [EIP712](https://github.com/ethereum/EIPs/blob/f29527ab39357548b06b29e937a48f06ae099de7/EIPS/eip-712.md) - This is a standard for hashing and signing of typed structured data
-* [ERC-1484 Digital Identity Aggregator](https://github.com/ethereum/EIPs/issues/1495) —A protocol for aggregating digital identity information that's broadly interoperable with existing, proposed, and hypothetical future digital identity standards.
-* [EIP-1078](https://github.com/ethereum/EIPs/blob/ed621645c8f3bc5756492f327cda015f35d9f8da/EIPS/eip-1078.md) - 
-This presents a method to replace the usual signup/login design pattern with a minimal ethereum native scheme, that doesn’t require passwords, backing up private keys nor typing seed phrases. 
-* [ERC-1077 and ERC-1078: The magic of executable signed messages](https://ethereum-magicians.org/t/erc-1077-and-erc-1078-the-magic-of-executable-signed-messages-to-login-and-do-actions/351)
-* [ERC-EIP on GitHub]({{ site.baseurl }}/blockchain/ethereum/#eip---erc) **>>**
-
-### ERC725-735 
-
-* [ERC725](https://github.com/ethereum/EIPs/issues/725) 
-  * The following describes standard functions for a unique identifiable proxy account to be used by humans, groups, organisations, objects and machines
-* [ERC735](https://github.com/ethereum/EIPs/issues/735) -  The following describes standard functions for adding, removing and holding of claims.
-  - These claims can attested from third parties (issuers) or self attested.
-* [Origin partners on ERC725](https://coinjournal.net/origin-protocol-partners-on-new-erc-725-alliance-to-promote-the-adoption-of-blockchain-based-identity-standard)
-* [Managing Identity with a UI—ERC-725](https://medium.com/originprotocol/managing-identity-with-a-ui-for-erc-725-5c7422b38c09)
-* [Ethereum ERC725 Blockchain Based, Self-Sovereign Identity Management](https://bitcoinexchangeguide.com/ethereum-erc725-blockchain-based-self-sovereign-identity-management/)
-* [erc725alliance.org](https://erc725alliance.org)
-* [ERC: Lightweight Identity #1056](https://github.com/ethereum/EIPs/issues/1056) —This ERC describes a standard for creating and updating identities with a limited use of blockchain resources. An identity can have an unlimited number of delegates and attributes associated with it. Identity creation is as simple as creating a regular key pair ethereum account, which means that it's fee (no gas costs) and all ethereum accounts are valid identities. Furthermore this ERC is fully DID compliant.
-
-
-
-## Blockcerts 
-* [Learning Machine](https://www.learningmachine.com/)
-* [Academic Credentialing and the Blockchain](https://www.learningmachine.com/academic-credentialing-blockchain/)
-* [Blockcerts](https://www.blockcerts.org), developed by learning machine is an open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
-  * [CXC (Carribean) Pilots E-Certificates on the Blockchain](https://www.cxc.org/cxc-pilots-e-certificates-on-the-blockchain/)
-  * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
-
-
-## Schema
-* [Schema](https://schema.org) — a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet. Schema.org vocabulary can be used with many different encodings, including RDFa, Microdata and JSON-LD. These vocabularies cover entities, relationships between entities and actions, and can easily be extended through a well-documented extension model. Over 10 million sites use Schema.org to markup their web pages and email messages. Many applications from Google, Microsoft, Pinterest, Yandex and others already use these vocabularies to power rich, extensible experiences."
+* [Agent to Agent Communication](https://drive.google.com/file/d/1PHAy8dMefZG9JNg87Zi33SfKkZvUvXvx/view): Daniel Hardman explains the goals of agent to agent communication

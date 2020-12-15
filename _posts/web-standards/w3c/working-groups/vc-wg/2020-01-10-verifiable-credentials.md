@@ -17,7 +17,7 @@ redirect_from:
   - specs-standards/verifiable-credentials/
   - web-standards/verifiable-credentials/
   - specs-standards/verifiable credentials/
-last_modified_at: 2020-12-03
+last_modified_at: 2020-12-15
 ---
 
 > Verifiable credentials (VCs) are the electronic equivalent of the physical credentials that we all possess today, such as: plastic cards, passports, driving licences, qualifications and awards, etc. The data model for verifiable credentials is a World Wide Web Consortium Recommendation, "Verifiable Credentials Data Model 1.0 - Expressing verifiable information on the Web" published 19 November 2019. - [Wikipedia](https://en.wikipedia.org/wiki/Verifiable_credentials)
@@ -99,6 +99,32 @@ WORK ITEM: Verifiable Credentials Examples.
 * [Specification](https://w3c-ccg.github.io/vc-json-schemas/) - [GitHub](https://github.com/w3c-ccg/vc-json-schemas) 
   > The [VC_DATA_MODEL](https://www.w3.org/TR/vc-data-model/) specifies the models used for Verifiable Credentials and Verifiable Presentations, and explains the relationships between three parties: issuer, holder, and verifier. A critical piece of infrastructure out of the scope of those specifications is the Credential Schema. 
 
+## Interoperability
+
+* [Verifiable Credentials Specification Relationships](https://github.com/decentralized-identity/vc-spec-map) ([ANN](https://lists.w3.org/Archives/Public/public-credentials/2020Nov/0100.html))
+  > diagrams and documentation on the relationship of verfiable credential specifications
+  > 
+  > The current release contains some of the most core specifications and their related specs in a diagram. It does not yet address some of the items especially under DIF work groups for secure data storage, SIOP, Sidetree etc.
+
+[![]({{ site.baseurl }}/images/VC-spec-map.webp)](https://github.com/decentralized-identity/vc-spec-map/releases/tag/v1.2.0)
+
+[Distributed ID Learning Path](https://translate.google.com/translate?sl=auto&tl=en&u=https://kristinayasuda.com/posts/decentralized-identity-catch-up-path/) by Christina Yasuda (based on above spec map)
+  * Pre-Requisite Knowledge: [JSON](https://www.json.org/json-en.html), [JSON-LD](https://json-ld.org), [JWT](https://jwt.io/introduction/), [JWS](https://w3c-ccg.github.io/lds-jws2020/), [JWK](https://tools.ietf.org/html/rfc7517), [JWA](https://tools.ietf.org/html/rfc7518), and sometimes [CBOR](https://cbor.io/). 
+  * Decentralized Identifiers: [DID-Core](https://www.w3.org/TR/did-core/), [DID-Resolution](https://w3c-ccg.github.io/did-resolution/), [DID-Spec](https://www.w3.org/TR/did-spec-registries/), [DID Use-Cases](https://www.w3.org/TR/did-use-cases/). 
+  * Verifiable Credentials: [VC-Data Model](https://www.w3.org/TR/vc-data-model/), [VC Use-Cases](https://www.w3.org/TR/vc-use-cases/), and [VC-Implementors Guide](https://www.w3.org/TR/vc-imp-guide/)
+  * Transport: HTMl, [DID-Comm](https://identity.foundation/working-groups/did-comm.html)
+  * Credential Presentation: [Presentation Exchange](https://identity.foundation/presentation-exchange/), [Credential Manifest](https://identity.foundation/credential-manifest/)
+  * Optional: [Well-known-did](https://identity.foundation/.well-known/resources/did-configuration/)
+  * Other Data Formats: [Open Badges](https://openbadges.org/)
+    * Independent DID Methods: [DID-method-key](https://w3c-ccg.github.io/did-method-key/), [DID-method-peer](https://identity.foundation/peer-did-method-spec/), DID-method-web
+* [Categorizing Verifiable Credentials - Evernym](https://www.evernym.com/blog/categorizing-verifiable-credentials/)
+  > Not all verifiable credentials are created the same. This post examines the categories of credentials and the architectural choices driving this variation.
+* [SSI Architectural Stack and Community Efforts Overview](https://github.com/decentralized-identity/interoperability/blob/master/assets/ssi-architectural-stack--and--community-efforts-overview.pdf)
+  > While a more thorough (and competitive) separation of concerns might slice today’s and tomorrow’s identity systems into more modular and interchangeable parts at many more layers, the diagram used here organizes the space into just three broad divisions, which map roughly to the bottom three in the mapping dominant in the Aries & ToIP communities. For a more detailed and complex mapping, see the forthcoming map by the DIF interoperability working group. 
+* [Interoperability Mapping Exercise](https://github.com/decentralized-identity/interoperability/blob/master/assets/interoperability-mapping-exercise-10-12-20.pdf)
+* [creatornader/Decentralized Identity Standards.md](https://gist.github.com/creatornader/c8a20c534d3cf8f65a9b34ce2ad81725)
+
+
 ## Literature
 
 * [Verifiable Credential Exchange](https://www.windley.com/archives/2018/12/verifiable_credential_exchange.shtml)
@@ -129,19 +155,3 @@ WORK ITEM: Verifiable Credentials Examples.
   > David will describe the VC ecosystem and data model. He will then describe the prototype implementation which was built with colleagues from the University of Toulouse. They built a prototype system, which uses Fast Identity Online (FIDO) for user authentication, meaning that usernames and passwords are no longer needed. A pilot application was tested with a small sample of NHS patients and the speaker will present the results of this trial.
 * [Improved Identity Management with Verifiable Credentials and FIDO](https://ieeexplore.ieee.org/document/9031543)
   > We describe how FIDO and W3C VCs can overcome the problems of existing identity management systems. We describe our conceptual model and architecture, and the protocol we used by extending FIDO's UAF in order to provide both strong authentication and strong authorization. We built a pilot implementation for U.K. NHS patients to validate our implementation. Patients were able to use a mobile phone with a fingerprint reader to access restricted NHS sites in order to make and cancel appointments and order repeat prescription drugs. Our initial user trials with 10 U.K. NHS patients found the system to be easy to use, and fingerprints to be preferable to using usernames and passwords for authentication.
-
-## Interoperability
-
-* [Verifiable Credentials Specification Relationships](https://github.com/manicprogrammer/vc-spec-rel) ([ANN](https://lists.w3.org/Archives/Public/public-credentials/2020Nov/0100.html))
-  > diagrams and documentation on the relationship of verfiable credential specifications
-  > 
-  > The current release contains some of the most core specifications and their related specs in a diagram. It does not yet address some of the items especially under DIF work groups for secure data storage, SIOP, Sidetree etc.
-
-![](https://github.com/manicprogrammer/vc-spec-rel/releases/download/v1.1.0/VC.Spec.Relationships.Diagram.png)
-
-* [Categorizing Verifiable Credentials - Evernym](https://www.evernym.com/blog/categorizing-verifiable-credentials/)
-  > Not all verifiable credentials are created the same. This post examines the categories of credentials and the architectural choices driving this variation.
-* [SSI Architectural Stack and Community Efforts Overview](https://github.com/decentralized-identity/interoperability/blob/master/assets/ssi-architectural-stack--and--community-efforts-overview.pdf)
-  > While a more thorough (and competitive) separation of concerns might slice today’s and tomorrow’s identity systems into more modular and interchangeable parts at many more layers, the diagram used here organizes the space into just three broad divisions, which map roughly to the bottom three in the mapping dominant in the Aries & ToIP communities. For a more detailed and complex mapping, see the forthcoming map by the DIF interoperability working group. 
-* [Interoperability Mapping Exercise](https://github.com/decentralized-identity/interoperability/blob/master/assets/interoperability-mapping-exercise-10-12-20.pdf)
-* [creatornader/Decentralized Identity Standards.md](https://gist.github.com/creatornader/c8a20c534d3cf8f65a9b34ce2ad81725)

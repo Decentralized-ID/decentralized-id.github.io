@@ -44,7 +44,7 @@ last_modified_at: 2020-11-26
 - [Healthcare SIG](https://www.notion.so/dif/Healthcare-SIG-842bc686d12e4a508a951afc4d6df47d)
 ### Open groups
 - [Glossary Project](https://identity.foundation/open-groups/glossary.html)
-- [APAC/ASEAN community call](https://dif.groups.io/g/dif-apac-asean)
+- [APAC/ASEAN community call](https://dif.groups.io/g/dif-apac-asean) ([ANN](https://medium.com/decentralized-identity/decentralized-identity-meetings-for-the-apac-region-7221b9aad29))
 - [Product managers](https://dif.groups.io/g/id-productmanagers)
 
 ## Members
@@ -114,14 +114,6 @@ DIF members, who share the goal of “building an open source decentralized iden
 • [Validatedid](https://www.validatedid.com/vidchain-the-future-of-digital-identity/) 
 • [Veridium](https://www.veridiumid.com/) 
 • [zinc](https://tykn.tech/project-zinc/) 
-
-## Recent News
-
-[Decentralized Identity & Trust Technology APAC/ASEAN Call](https://medium.com/decentralized-identity/decentralized-identity-meetings-for-the-apac-region-7221b9aad29)
-> APAC and ASEAN engineers are historically under-represented in EU & US driven global efforts due to simple scheduling concerns — conference calls and other avenues of information sharing are often scheduled at inconvenient times for APAC and ASEAN participants. APAC and ASEAN engineers find it difficult to participate in communities that meet only between midnight and sunrise. This results in APAC and ASEAN solutions developing as parallels to their equivalent EU- & US-based global efforts, rather than as extensions of them or as interlocutors for them.
-
-[DIF starts DIDComm Working Group](https://medium.com/decentralized-identity/dif-starts-didcomm-working-group-9c114d9308dc)
-> Over the past few months, the DIF and Hyperledger Aries community have come together and agreed to work on a common work item aimed at developing secure communication based on Decentralized Identifiers (DIDs) — hence the name DIDComm, which is short for DID Communication. Significant prior work in developing a messaging-based communication protocol using DIDs has been incubating in the HyperLedger (HL) Aries community, with the progress of this effort evident in the resulting Aries RFCs. To address the requirements of a broader and more heterogeneous community we selected DIF as the place to pursue the next phase of work associated with this effort. Presenting the progress of DIDcomm to other relevant working groups will drive the interoperability between the various decentralized identity vendors and hence enabling a range of decentralized identity-related use cases.
 
 ### DIF Monthly Newsletter
 

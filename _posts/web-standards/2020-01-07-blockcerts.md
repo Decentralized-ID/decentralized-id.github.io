@@ -28,7 +28,7 @@ last_modified_at:  2020-01-07
 ## Blockcerts
 
 * [Blockcerts](https://www.blockcerts.org/)  - [Forum](http://community.blockcerts.org/) - [Github](https://github.com/blockchain-certificates) - [Twitter](https://twitter.com/blockcerts)
-    > open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
+  > open standard for issuing and verifying blockchain-based official records; The project offers  open-source libraries, tools, and mobile apps. MIT has [issued](https://www.insidehighered.com/news/2017/10/19/mit-introduces-digital-diplomas) digital certificates based on this standard.
   
 * [Introduction](https://www.blockcerts.org/guide/)
   > Blockcerts is an open standard for building apps that issue and verify blockchain-based official records. These may include certificates for civic records, academic credentials, professional licenses, workforce development, and more.
