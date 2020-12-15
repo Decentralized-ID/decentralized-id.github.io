@@ -226,7 +226,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-redirect-from
   - jekyll-mentions
-  - jekyll-open_street_map
+  - jekyll-gist
 
 jekyll-mentions:
   base_url: https://twitter.com
@@ -241,7 +241,7 @@ whitelist:
   - jekyll-include-cache
   - jekyll-redirect-from
   - jekyll-mentions
-  - jekyll-open_street_map
+  - jekyll-gist
 
 liquid:
   error_mode: strict

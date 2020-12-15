@@ -29,5 +29,5 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-redirect-from"
   gem "jekyll-mentions"
-  gem "jekyll-open_street_map"
+  gem 'jekyll-gist'
 end
