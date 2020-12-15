@@ -62,20 +62,7 @@ Check out this [twitter list](https://twitter.com/i/lists/1322229268252950531) I
 
 ## Orgs Related to Standards Development
 
-* [ISSA (Information Systems Security Association)](https://www.issa.org/)
-* [ISAO Standards](https://www.isao.org/)
-* [IETF](https://datatracker.ietf.org/wg/)
-* [NIST](https://www.nist.gov/)
-* [ISO](https://www.iso.org/committee/6266604/x/catalogue/p/0/u/1/w/0/d/0)
-* [IEEE](https://standards.ieee.org/)
-* [DIF](https://identity.foundation/working-groups/) • [GitHub](https://github.com/decentralized-identity/)
-* [Fido Alliance](https://fidoalliance.org/)
-* [Hyperledger](https://www.hyperledger.org/join-a-group) • [Wiki](https://wiki.hyperledger.org/display/HYP/Working+Groups)
-* [Kantara](https://kantarainitiative.org/groups/)	
-* [OpenID](https://openid.net/wg/)
-* [Sovrin](https://sovrin.org/announcing-four-sovrin-governance-framework-wg-task-forces/) • [Forum](https://forum.sovrin.org/c/working-groups)
-* [Me2B Alliance](https://www.me2balliance.org/repository.html)
-* [Ethereum Enterprise Alliance](https://entethalliance.org/participate/working-groups/)
+[ISSA (Information Systems Security Association)](https://www.issa.org/) • [ISAO Standards](https://www.isao.org/) • [IETF](https://datatracker.ietf.org/wg/) • [NIST](https://www.nist.gov/) • [ISO](https://www.iso.org/committee/6266604/x/catalogue/p/0/u/1/w/0/d/0) • [IEEE](https://standards.ieee.org/) • [DIF](https://identity.foundation/working-groups/) ([GitHub](https://github.com/decentralized-identity/)) • [Fido Alliance](https://fidoalliance.org/) • [Hyperledger](https://www.hyperledger.org/join-a-group) ([Wiki](https://wiki.hyperledger.org/display/HYP/Working+Groups)) • [Kantara](https://kantarainitiative.org/groups/) • [OpenID](https://openid.net/wg/) • [Sovrin](https://sovrin.org/announcing-four-sovrin-governance-framework-wg-task-forces/) ([Forum](https://forum.sovrin.org/c/working-groups)) • [Me2B Alliance](https://www.me2balliance.org/repository.html) • [Ethereum Enterprise Alliance](https://entethalliance.org/participate/working-groups/)
 
 **Decentralised Identity: What’s at Stake? [A Position Paper by the INATBA Identity Working Group](https://inatba.org/wp-content/uploads/2020/11/2020-11-INATBA-Decentralised-Identity-001.pdf)**
 > INATBA has a specific Standards Committee to liaison with relevant standardisation committees and bodies. Some relevant standardisation committee and bodies include:
