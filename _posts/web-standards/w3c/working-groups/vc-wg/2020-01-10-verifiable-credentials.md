@@ -7,13 +7,12 @@ excerpt: >
 tags: ["W3C","Verifiable Credentials","Credentials Community Group","VC-WG","JSON-LD","OAuth","FIDO","Claims and Credentials WG"]
 categories: ["Web Standards"]
 permalink: web-standards/w3c/wg/vc/verifiable-credentials/
-redirect_from: 
-  - web-standards/w3c/vc-wg/verifiable-credentials/
 header:
   image: /images/verifiable-credentials_head.webp
   caption: "[Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)"
   teaser: /images/verifiable-credentials-teaser.webp
 redirect_from: 
+  - web-standards/w3c/vc-wg/verifiable-credentials/
   - specs-standards/verifiable-credentials/
   - web-standards/verifiable-credentials/
   - specs-standards/verifiable credentials/
