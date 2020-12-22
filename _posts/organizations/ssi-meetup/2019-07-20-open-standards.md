@@ -32,70 +32,76 @@ This page is for all the presentations about the various standards surrounding D
 
 ### Open Standards with Drummond Reed
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/aPYUBy626EjjWp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/aPYUBy626EjjWp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Self Sovereign Identity (SSI) Open standards with Drummond Reed](https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed)
 
+
 ### DIDs the Fundamental Building block of SSI
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/BWLtlEcUVSKutl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BWLtlEcUVSKutl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Decentralized Identifiers (DIDs): The Fundamental Building Block of Self-Sovereign Identity (SSI)](https://www.slideshare.net/SSIMeetup/decentralized-identifiers-dids-the-fundamental-building-block-of-selfsovereign-identity-ssi)
 
 
 ### DIDs and BTCR
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/B2YIOdRYlqiiPd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/B2YIOdRYlqiiPd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [DIDs Demystified: A hands-on intro to DIDs via the Bitcoin Reference (BTCR) DID Method](https://www.slideshare.net/SSIMeetup/dids-demystified-a-handson-intro-to-dids-via-the-bitcoin-reference-btcr-did-method)
 
+
 ### DKMS - Drummond Reed
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3hZHzzPdEodMQh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3hZHzzPdEodMQh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
 
+
 ### DIDs and the W3C - Manu Sporny and Drummond Reed
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/DddAXKYTd9YBLL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/DddAXKYTd9YBLL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Decentralized Identifiers DIDs and W3C with Manu Sporny and Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-identifiers-dids-and-w3c-with-manu-sporny-and-drummond-reed)
 
 
 ### Schema Definitions and Overlay - Paul Knowles
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/BAN42ZJAuafQoj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/BAN42ZJAuafQoj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Schema Definitions and Overlays for Self-Sovereign Identity (SSI) - Paul Knowles](https://www.slideshare.net/SSIMeetup/schema-definitions-and-overlays-for-selfsovereign-identity-ssi-paul-knowles)
 
 
 ### DID Resolution - Markus Sabadello
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/wvgU7Gl8ORUGLI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wvgU7Gl8ORUGLI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [DID Resolution: Given a DID how do I retrieve its document? – Markus Sabadello](https://www.slideshare.net/SSIMeetup/did-resolution-given-a-did-how-do-i-retrieve-its-document-markus-sabadello)
 
 
 ### Verifiable Credentials 101 - Tyler Ruff
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2FQiXCaqgTJvrQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2FQiXCaqgTJvrQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Verifiable Credentials 101 for SSI and Decentralized Digital Identity - Tyler Ruff](https://www.slideshare.net/SSIMeetup/verifiable-credentials-101-for-ssi-and-decentralized-digital-identity-tyler-ruff)
 
+
 ### DID Auth - Markus Sabadello
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/CtcPSLkrTg5z2c" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/CtcPSLkrTg5z2c" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Introduction to DID Auth for SSI with Markus Sabadello](https://www.slideshare.net/SSIMeetup/introduction-to-did-auth-with-markus-sabadello)
 
+
 ### Element DID Method - Orie Steele
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/2ct2imQLUnzp1j" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2ct2imQLUnzp1j" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele](https://www.slideshare.net/SSIMeetup/the-element-did-method-sidetree-ethereum-ipfs-orie-steele)
 
+
 ### ION - Bitcoin DIDs with Microsoft - Daniel Buchner
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/e4v6fZdFL5fdu3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/e4v6fZdFL5fdu3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Introduction to Ion – a layer 2 network for Decentralized Identifiers with Bitcoin - Daniel Buchner](https://www.slideshare.net/SSIMeetup/introduction-to-ion-a-layer-2-network-for-decentralized-identifiers-with-bitcoin-daniel-buchner)

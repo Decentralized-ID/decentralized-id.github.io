@@ -43,7 +43,9 @@ It would be nice to create a page breaking down each of these presentations with
 
 [Highlights of Internet Identity Workshop #28 with Drummond Reed](https://www.slideshare.net/SSIMeetup/highlights-of-internet-identity-workshop-28-with-drummond-reed)
 
+
 ## Interpersonal Data - Philip Sheldrake
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/IBxhEOs8Qtia1s" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
@@ -56,37 +58,49 @@ It would be nice to create a page breaking down each of these presentations with
 
 [The State of Digital Identity Wallets – Darrell O’Donnell](https://www.slideshare.net/SSIMeetup/the-state-of-digital-identity-wallets-darrell-odonnell)
 
+
 ## Sovereignty in Historical Context - Natalie Smolenski
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/IKs8Xe34CvLEq4" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Sovereignty in Historical Context for Self-Sovereign Identity - Natalie Smolenski](https://www.slideshare.net/SSIMeetup/sovereignty-in-historical-context-for-selfsovereign-identity-natalie-smolenski)
 
+
 ## SSI and Open Source - Richard Esplin
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/ymYdtVbs5lTe52" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Self-Sovereign Identity (SSI) and Open Source - Richard Esplin](https://www.slideshare.net/SSIMeetup/selfsovereign-identity-ssi-and-open-source-richard-esplin)
 
+
 ## Alastria - Carlos Pastor
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/Hh5gNODSCRgYr1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Alastria Digital Identity: the Spanish Blockchain solution for SSI - Carlos Pastor](https://www.slideshare.net/SSIMeetup/alastria-digital-identity-the-spanish-blockchain-solution-for-ssi-carlos-pastor)
 
+
 ## Quest for SSI - Daniel Hardman
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/jrTqoxzFU08vXr" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Identity and the quest for Self-Sovereign Identity - Daniel Hardman](https://www.slideshare.net/SSIMeetup/identity-and-the-quest-for-selfsovereign-identity-daniel-hardman)
 
+
 ## MyData model from Finland - Antti 'Jogi' Poikola 
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/AyIwHNwzoI1LpX" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Self-Sovereign Identity and the MyData model from Finland - Antti &#x27;Jogi&#x27; Poikola](https://www.slideshare.net/SSIMeetup/selfsovereign-identity-and-the-mydata-model-from-finland-antti-jogi-poikola)
 
+
 ## Privacy
+
 
 ### ID and Privacy
 
@@ -94,25 +108,33 @@ It would be nice to create a page breaking down each of these presentations with
 
 [Identity and Privacy: Past, Present, and Digital - Brenda K. Leong](https://www.slideshare.net/SSIMeetup/identity-and-privacy-past-present-and-digital-brenda-k-leong)
 
+
 ### Zero Knowledge Proofs -  Clare Nelson
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/lLXFFXy1kRUIZF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Zero-Knowledge Proofs: Privacy-Preserving Digital Identity with Clare Nelson](https://www.slideshare.net/SSIMeetup/zeroknowledge-proofs-privacypreserving-digital-identity-with-clare-nelson)
 
+
 ## Governance - Trust Frameworks
 
+
 ### Decentralized Governance for SSI -  Lawrence Lundy-Bryan
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/49oAhEWXzJXXi1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Decentralized governance for SSI and Blockchains with Lawrence Lundy-Bryan](https://www.slideshare.net/SSIMeetup/decentralized-governance-for-ssi-and-blockchains-with-lawrence-lundybryan)
 
+
 ### PanCanadian Trust Framework for SSI - Tim Bouma
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hwUlr34zkyfGvm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [Overview of the Proposed PanCanadian Trust Framework for SSI - Tim Bouma](https://www.slideshare.net/SSIMeetup/overview-of-the-proposed-pancanadian-trust-framework-for-ssi-tim-bouma)
+
 
 ### CULedger and MyCUID
 
@@ -120,15 +142,20 @@ It would be nice to create a page breaking down each of these presentations with
 
 [Trust Frameworks and SSI: An Interview with CULedger on the Credit Union MyCUID Trust Framework](https://www.slideshare.net/SSIMeetup/trust-frameworks-and-ssi-an-interview-with-culedger-on-the-credit-union-mycuid-trust-framework)
 
+
 ## GDPR and SSI
 
+
 ### Silvan Jongerius
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/j0UE1ptfJrqc5" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 [The impact of the GDPR on Blockchain &amp; SSI – Silvan Jongerius](https://www.slideshare.net/SSIMeetup/the-impact-of-the-gdpr-on-blockchain-ssi-silvan-jongerius)
 
+
 ### Elizabeth M. Renieris
+
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/x1d0SEOvioEMjY" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
