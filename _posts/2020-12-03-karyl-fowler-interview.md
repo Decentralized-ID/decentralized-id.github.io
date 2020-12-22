@@ -2,13 +2,13 @@
 title: Karyl Fowler, Transmute, and the DHS Silicon Valley Innovation Program 
 description: Inspired by a conversation with Karyl Fowler. History and background of Transmute and their work with DHS SVIP.
 excerpt: > 
-    For all the sexy tech stuff happening, it's the business challenges that are causing hesitation to adoption. This is one area my team has an advantage, Orie and I have no overlapping skill sets, which has allowed us to divide & conquer the business and technology components, at the same time.
+    For all the sexy tech stuff happening, it's the business challenges that are causing hesitation to adoption. This is one area where my team has an advantage, Orie and I have no overlapping skill sets, which has allowed us to divide & conquer the business and technology components, at the same time.
 tags: ["Transmute","DHS","Transcript"]
 categories: ["Companies"]
 published: false
 ---
 
-> For all the sexy tech stuff happening, it's the business challenges that are causing hesitation to adoption. This is one area my team has an advantage, Orie and I have no overlapping skill sets, which has allowed us to divide & conquer the business and technology components, at the same time. - Karyl Fowler
+> For all the sexy tech stuff happening, it's the business challenges that are causing hesitation to adoption. This is one area where my team has an advantage, Orie and I have no overlapping skill sets, which has allowed us to divide & conquer the business and technology components, at the same time. - Karyl Fowler
 
 **A few months ago, I was contacted about an _upcoming company announcement_ from Transmute Industries.** 
 
@@ -28,7 +28,7 @@ Soon after the announcement, we arranged a call, and I had an excellent intervie
 
 However, there were some technical difficulties and my recording didn't come out. This was extra incentive for me to learn more about Transmute, so I could attempt to reconstruct our discussion. Gratefully, Jess Melton was also on the call, and took excellent notes.
 
-Before I relate that discussion to the best of my ability, I decided to write a little bit of Transmute's story that I've discovered along the way.
+Before I relate that discussion to the best of my ability, I'll share a bit of Transmute's story I've gathered along the way.
 
 ### Education and Background
 
