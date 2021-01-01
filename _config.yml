@@ -46,7 +46,7 @@ staticman:
       type: "date"
       options:
         format: "timestamp-seconds" #"timestamp-milliseconds"
-  endpoint               : https://identosphere.net/staticman/v2/entry/
+  endpoint               : https://tools.identosphere.net/staticman/v2/entry/
 
 reCaptcha:
   siteKey: 6LfHeawUAAAAAATc0Sckhl9FJLGog3m7qLrYA8V0
