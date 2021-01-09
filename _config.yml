@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:identitydecentralized@gmail.com
+      url: mailto:info@identosphere.net
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://decentralized-id.com"
@@ -133,7 +133,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:identitydecentralized@gmail.com
+      url: mailto:info@identosphere.net
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://decentralized-id.com"
