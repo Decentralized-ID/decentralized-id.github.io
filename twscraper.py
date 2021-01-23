@@ -174,6 +174,10 @@ print(tweet_ids)
 from requests_oauthlib import OAuth1Session
 import json
 ## OAuth vs Tweepy auth, idk why can't create collection with above tweepy auth
+consumer_key = os.environ.get('CONSUMER_KEY')
+consumer_secret = os.environ.get('CONSUMER_SECRET')
+access_token = os.environ.get('ACCESS_KEY')
+access_token_secret = os.environ.get('ACCESS_SECRET')
 print(consumer_key)
 print(consumer_secret)
 print(access_token)
