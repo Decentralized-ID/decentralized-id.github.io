@@ -1,5 +1,6 @@
 import tweepy
 import csv
+import os
 
 #### Credentials
 consumer_key = os.environ.get('CONSUMER_KEY')
