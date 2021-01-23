@@ -28,7 +28,7 @@ startDate = days_before.strftime("%Y-%m-%d, %H:%M:%S")
 
 
 #### Open CSV + Write Column Names
-fname = '/_data/twitter/search_' + date_time + '.csv'
+fname = '/home/runner/work/decentralized-id.github.io/decentralized-id.github.io/_data/twitter/search_' + date_time + '.csv'
 csvFile = open(fname, 'w+')
 csvWriter = csv.writer(csvFile)
 csvWriter.writerow(["Time","Link", "Urls", "UrlTitle", "UrlDesc", "UrlImg", "ImageUrls", "ReplyURL", "QuoteID", "QuoteImg", "QuoteUrl"])
@@ -221,7 +221,7 @@ for batch in batches:
     r = twitter.post(url, data=json.dumps(params_add))
     print(r.json())
 
-file_name = "/_posts/twitter/" + str(date_time) + '-twitter.md'
+file_name = "/home/runner/work/decentralized-id.github.io/decentralized-id.github.io/_posts/twitter/" + str(date_time) + '-twitter.md'
 f = open(file_name,"w+")
 
 str1 = "---\n"
