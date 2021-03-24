@@ -38,6 +38,8 @@ This history behind decentralized identity is loosely categorized by year and er
 * [IAB Recommended Policy on Distributing Internet Identifier Assignment](https://tools.ietf.org/html/rfc1174) and IAB Recommended Policy Change to Internet "Connected" Status
 * [Oral History of Elizabeth (Jake) Feinler](https://web.archive.org/web/20110811175249/http://archive.computerhistory.org/resources/access/text/Oral_History/102702199.05.01.acc.pdf)
 * [Establishing Identity Without Certification Authorities (1996)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.7263) - Carl M. Ellison - CyberCash, Inc
+* [understanding the origins of identity](https://www.youtube.com/watch?v=CsTTEwdiNwM)
+  > #Identity management is not a new problem. Mawaki Chango, PhD explains briefly it’s interesting history starting from the Roman Catholic Church keeping records of their believers, leading all the way from passports to the current situation we are in with digital identity credentials! At the #MyDataOnline2020 conference.
 
 ### Losing Control Over our Personal Information
 
