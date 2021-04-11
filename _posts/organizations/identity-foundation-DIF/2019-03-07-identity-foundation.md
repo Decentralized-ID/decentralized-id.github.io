@@ -85,7 +85,7 @@ DIF members, who share the goal of “building an open source decentralized iden
 • [IOTA](https://medium.com/@iotasuppoter/iota-the-case-of-decentralized-digital-identity-de7b95042c12) 
 • [Jolocom](https://stories.jolocom.com/jolocom-brings-blockchain-identity-to-privacy-week-berlin-acdaee665f0) 
 • [KYC-Chain](https://kyc-chain.com/) 
-• [LNk-E](https://lnketech.com/) 
+• [LNKE](https://lnketech.com/) 
 • [Mastercard](https://newsroom.mastercard.com/press-releases/mastercard-microsoft-join-forces-to-advance-digital-identity-innovatioeuns/) 
 • [Meeco](https://meeco.me/) 
 • [MetaX](https://adtoken.com/uploads/white-paper.pdf) 

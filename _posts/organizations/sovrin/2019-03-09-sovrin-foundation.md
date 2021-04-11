@@ -310,6 +310,7 @@ Visma has acquired European Business Process Institute (EBPI), a specialist in q
 #### [Best Innovation Group](http://www.big-fintech.com/) 
 
 > Best Innovation Group, Inc is a technology innovation and development company catering to the financial industry. We invite you to join the hundreds of financial institutions that have already worked with our team of experts in designing technology solutions to fit their growing needs.
+
 #### [Certisign](http://www.certisign.com.br/) 
 
 > Certisign is a pioneer and the largest Certification Authority in Brazil. For more than two decades, it has made it possible for services to be carried out online, providing companies with agility, cost reduction and sustainability and, consequently, giving people more time and money to do what really matters. It is a reference in the market for its size and numbers: present in more than 2200 service locations throughout Brazil and in 14 abroad, it has already surpassed the mark of 12 million customers served. With a wide portfolio of products and services, it serves entrepreneurs and companies of all segments and sizes through the technology of Digital Certification.
