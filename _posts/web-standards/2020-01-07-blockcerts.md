@@ -13,8 +13,8 @@ redirect_from:
   - /blockchain/bitcoin/blockcerts/
   - /specs-standards/blockcerts/
 categories: ["Web Standards"]
-tags: ["Bitcoin","Learning Machine","BTCR","Verifiable Credentials","JSON-LD","Ethereum","Blockcerts","Rebooting WoT"]
-last_modified_at:  2020-01-07
+tags: ["Bitcoin","Learning Machine","BTCR","Verifiable Credentials","JSON-LD","Ethereum","Blockcerts","Rebooting WoT","DHS","DID"]
+last_modified_at:  2021-04-14
 ---
 
 ## Learning Machine
@@ -45,6 +45,14 @@ last_modified_at:  2020-01-07
   > The open standard for issuing blockchain-based records is your easiest bet for creating records that remain verifiable for a lifetime.
 * [A Decentralized Approach to Blockcerts Credential Revocation](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/blockcerts-revocation.md)
   > The initial release of the Blockcerts standard and reference implementation described only one revocation mechanism, the issuer-hosted revocation list approach also used by Open Badges. This has known limitations, including: centralization, single point of failure, and inability for a recipient to revoke. Other approaches to revocation were considered, but none were technically or economically feasible at the time given the project goals, including Bitcoin blockchain anchoring, low overhead, and minimal cost.
+* [Future Proof](https://www.hylandcredentials.com/future-proof)
+  > Learning Machine is proud to announce that we have won Phase-1 funding for our response to the open call “Preventing Forgery & Counterfeiting of Certificates and Licenses through the use of Blockchain and Distributed Ledger Technology.” [...] The open-source reference implementation, targeted for 2020, will include:
+  > - Updating the Blockcerts schema to a Verifiable Credentials-based format
+  > - Updating the Blockcerts signature/verification scheme to conform to the latest JSON-LD signature suite format
+  > - Updating Blockcerts credential issuance and verification
+  > - Incorporating a cost-efficient DID method for issuers 
+* [Blockcerts V3 Proposal - Verifiable Credentials & Decentralized Identifiers](https://nbviewer.jupyter.org/github/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/BlockcertsV3.pdf) - [Forum](https://community.blockcerts.org/t/blockcerts-v3-proposal-verifiable-credentials-decentralized-identifiers/2221) - [GitHub](https://github.com/blockchain-certificates/cert-issuer/tree/v3)
+  > The purpose of this paper is to identify all of the changes needed for Blockcerts to comply with the Verifable Credentials (VCs) and Decentralized Identifers (DIDs) standards and to expand upon the additional benefits of using a blockchain in combination with Verifiable Credentials. This paper is meant to act as an explainer in which a formal specification can be created.
 
 ### Open Badges
 * [Badges and Blockcerts](https://www.learningmachine.com/badges-and-blockcerts/)
