@@ -55,6 +55,10 @@ Check out this [twitter list](https://twitter.com/i/lists/1322229268252950531) I
 * [Overview of Decentralized Identity Standards](https://medium.com/decentralized-identity/overview-of-decentralized-identity-standards-f82efd9ab6c7), Nader Helmy
   > we can think of each specification as addressing one or more of the SSI “building blocks” that we described above. In some cases a standard may be a bridge between layers, enabling a closer link between connections, data, and keys, making the ecosystem more secure as a whole. What you will find below is a list of all relevant standards, links to every specification, the organizations they belong to, their relationship to the ecosystem, and their relative maturity as internet technologies.
   > {% gist c8a20c534d3cf8f65a9b34ce2ad81725 Decentralized%20Identity%20Standards.md %}
+- [Distributed ID learning path](https://translate.google.com/translate?sl%3Dauto%26tl%3Den%26u%3Dhttps://kristinayasuda.com/posts/decentralized-identity-catch-up-path/) – [Christina Yasuda](https://twitter.com/kristinayasuda) (from work navigating the [VC-Spec Map](https://github.com/decentralized-identity/vc-spec-map))
+  > Describes pre-requisite knowledge, including JSON, JSON-LD, JWT, JWS, JWK, JWA, and sometimes CBOR. She then goes on to break down knowledge areas beginning with the basics: DID-Core, DID-Resolution, DID-Spec, DID Use-Cases. Next, she covers Verifiable Credentials with VC-Data Model, VC Use-Cases, and VC-Implementors Guide, and also Transport, Credential Presentation, and Other Data Formats.
+- [The Flavors of Verifiable Credentials](https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf)  – [Linux Foundation Public Health Blog](https://www.google.com/url?q=https://www.lfph.io/2021/02/11/cci-verifiable-credentials-flavors-and-interoperability-paper/&sa=D&source=editors&ust=1618469203874000&usg=AOvVaw15dEyc58aXz83CrftEoj4Z).
+  > The differences between the different flavors of VCs for technically inclined readers. It elaborated on the differences between JSON and JSON-LD and articulated differences between the two different implementations of ZKP style credentials. The ‘Journey of a VC’ section articulated all steps where VCs are active and highlighted the differences in how different VC flavors ’behave’.
 
 [![](https://imgur.com/6MLNgXal.png)](https://www.youtube.com/watch?v=RllH91rcFdE)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
@@ -85,8 +89,6 @@ Check out this [twitter list](https://twitter.com/i/lists/1322229268252950531) I
   > - To whom it is issued – User Identifier
   > - Attributes of the credential – Details of the credential being Issued
   > - When it is Issued – Date of issuance
-- [Distributed ID learning path](https://translate.google.com/translate?sl%3Dauto%26tl%3Den%26u%3Dhttps://kristinayasuda.com/posts/decentralized-identity-catch-up-path/) – [Christina Yasuda](https://twitter.com/kristinayasuda) (from work navigating the [VC-Spec Map](https://github.com/decentralized-identity/vc-spec-map))
-  > Describes pre-requisite knowledge, including JSON, JSON-LD, JWT, JWS, JWK, JWA, and sometimes CBOR. She then goes on to break down knowledge areas beginning with the basics: DID-Core, DID-Resolution, DID-Spec, DID Use-Cases. Next, she covers Verifiable Credentials with VC-Data Model, VC Use-Cases, and VC-Implementors Guide, and also Transport, Credential Presentation, and Other Data Formats.
 
 
 ## Orgs Related to Standards Development
