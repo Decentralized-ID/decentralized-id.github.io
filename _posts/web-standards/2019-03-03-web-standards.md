@@ -12,7 +12,7 @@ redirect_from:
   - specs-standards/
 categories: ["Web Standards"]
 tags: ["W3C","Index","Credentials Community Group","Hyperledger Foundation","FIDO","OpenID","XDI","OASIS","JSON-LD","Verifiable Credentials","Ethereum","Blockcerts","OAuth","OIDC","DKMS","ERC725","Rebooting WoT","Schema.org","Learning Machine"]
-last_modified_at: 2020-12-15
+last_modified_at: 2021-04-15
 header: 
   og_image: /images/Who-Runs-the-Internet-graphic.webp
 ---
@@ -58,6 +58,35 @@ Check out this [twitter list](https://twitter.com/i/lists/1322229268252950531) I
 
 [![](https://imgur.com/6MLNgXal.png)](https://www.youtube.com/watch?v=RllH91rcFdE)\
 <sup><a href="https://www.youtube.com/watch?v=RllH91rcFdE">The Story of Open SSI Standards - Drummond Reed/Evernym SSIMeetup.org</a>[<b><a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">ϟ</a></b>]</sup>
+
+### Learn
+- [Anonymous Credential Part 1: Brief Overview and History](https://medium.com/finema/anonymous-credential-part-1-brief-overview-and-history-c6679034c914) – Finema
+  > An anonymous credential (Anoncred), which is also known as an attribute-based credential (ABC), is a concept for a digital credential that provides a credential holder maximal privacy and an ability to selectively disclose their personal information.
+- [Anonymous Credential Part 2: Selective Disclosure and CL Signature](https://medium.com/finema/anonymous-credential-part-2-selective-disclosure-and-cl-signature-b904a93a1565) – Finema
+  > selective disclosure and an anonymous credential (Anoncred) relies on an efficient signature scheme that supports multiple messages with a single signature. One such signature scheme is known as CL signature that is named after Jan Camenisch and Anna Lysyanskaya […] CL signature popularized Anoncreds, and it also served as a cryptographic building block in Identity Mixer (Idemix) and Hyperledger Indy projects.
+- [Anonymous Credential Part 3:](https://medium.com/finema/anonymous-credential-part-3-bbs-signature-26797721ca74-gw1VZGjA3wNv) [BBS+ Signature](https://medium.com/finema/anonymous-credential-part-3-bbs-signature-26797721ca74-gw1VZGjA3wNv) – Finema
+  > Compared to the CL signature, the BBS+ signature has much shorter keys and signatures for a comparable level of security. As a result, the BBS+ signature enables fast implementation for anonymous credentials. It can be used in combination with signature proof of knowledge to hide some of credential attributes/messages in a zero-knowledge fashion.
+- [Web of Trust 101](https://medium.com/mattr-global/learn-concepts-web-of-trust-101-77120941ea6c) – Mattr
+  > The emerging “Web of Trust” is an idea that has been around since the dawn of the internet. To explain what motivated its creation, let’s take a look at how trust on the internet functions today.
+- [Verifiable Data](https://medium.com/mattr-global/learn-concepts-verifiable-data-4515a62c8e40) – Mattr (and Verifiable Relationships, Verifiable Processes, Verifiable Credentials, Semantics and Schemas)
+  > refers to the authenticity and integrity of the actual data elements being shared.
+- [Semantic Web](https://medium.com/mattr-global/learn-concepts-semantic-web-250784d6a49f) – Mattr
+  > The semantic web is a set of technologies whose goal is to make all data on the web machine-readable. Its usage allows for a shared understanding around data that enables a variety of real-world applications and use cases.
+- [Selective Disclosure](https://medium.com/mattr-global/learn-concepts-selective-disclosure-4b9bf4e5c887) – Mattr
+  > An important principle that we want to achieve when designing any system that involves handling Personally Identifiable Information (PII) is to minimize the data disclosed in a given interaction. When users share information, they should be able to choose what and how much they share on a case-by-case basis
+- [Trust Frameworks](https://medium.com/mattr-global/learn-concepts-trust-frameworks-ad96a4427991) – Mattr
+  > Trust frameworks are a foundational component of the web of trust. A trust framework is a common set of best practice standards-based rules that ensure minimum requirements are met for security, privacy, identification management and interoperability through accreditation and governance.
+- [Beginners Guide to JWTs](https://developer.okta.com/blog/2020/12/21/beginners-guide-to-jwt) – Okta
+  > A JWT is a structured security token format used to encode JSON data. The main reason to use JWT is to exchange JSON data in a way that can be cryptographically verified. There are two types of JWTs:JSON Web Signature (JWS)JSON Web Encryption (JWE)The data in a JWS is public—meaning anyone with the token can read the data—whereas a JWE is encrypted and private. To read data contained within a JWE, you need both the token and a secret key.
+- [Verifiable Credentials Issuance](https://blockster.global/self-sovereign-identity/) – Blockster
+  > When an issuer creates a verifiable credential, it contains following information:
+  > 
+  > - Who has issued – DID of the Issuer
+  > - To whom it is issued – User Identifier
+  > - Attributes of the credential – Details of the credential being Issued
+  > - When it is Issued – Date of issuance
+- [Distributed ID learning path](https://translate.google.com/translate?sl%3Dauto%26tl%3Den%26u%3Dhttps://kristinayasuda.com/posts/decentralized-identity-catch-up-path/) – [Christina Yasuda](https://twitter.com/kristinayasuda) (from work navigating the [VC-Spec Map](https://github.com/decentralized-identity/vc-spec-map))
+  > Describes pre-requisite knowledge, including JSON, JSON-LD, JWT, JWS, JWK, JWA, and sometimes CBOR. She then goes on to break down knowledge areas beginning with the basics: DID-Core, DID-Resolution, DID-Spec, DID Use-Cases. Next, she covers Verifiable Credentials with VC-Data Model, VC Use-Cases, and VC-Implementors Guide, and also Transport, Credential Presentation, and Other Data Formats.
 
 
 ## Orgs Related to Standards Development
