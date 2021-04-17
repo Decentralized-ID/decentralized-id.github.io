@@ -13,12 +13,14 @@ redirect_from:
   - organizations/hyperledger/
 canonical_url: 'https://decentralized-id.com/blockchain/hyperledger/'
 categories: ["Hyperledger Foundation"]
-tags: ["Indy","Fabric","Aries","Evernym","Sovrin Foundation","Enterprise Ethereum Alliance","Linux Foundation","Ursa","Microsoft","Salesforce","Sawtooth"]
-last_modified_at: 2020-11-18
+tags: ["Indy","Fabric","Aries","Evernym","Sovrin Foundation","Enterprise Ethereum Alliance","Linux Foundation","Ursa","Microsoft","Salesforce","Sawtooth","agreementsolutions","BTP","Ayanworks","Blinking","SecureKey Technologies","Oracle","healthDigit","T-Mobile NEXT Identity Platform","Sony Global Education"]
+last_modified_at: 2021-04-17
 header:
   image: /images/hyperledger_header.webp
   teaser: /images/hyperledger-teaser.webp
 ---
+
+[Website](https://www.hyperledger.org/)	• [Blog](https://www.hyperledger.org/category/blog) •	[GitHub](https://github.com/hyperledger) • [Linkedin](https://www.linkedin.com/company/hyperledger-project/) • [Twitter](https://twitter.com/Hyperledger) 
 
 * [An Introduction to Hyperledger](https://www.hyperledger.org/wp-content/uploads/2018/07/HL_Whitepaper_IntroductiontoHyperledger.pdf)
   > Hyperledger began in 2015 when many different companies interested in blockchain technology realized they could achieve more by working together than by working separately.
@@ -36,17 +38,42 @@ header:
   > Brian Behlendorf, the executive director of Hyperledger, explains why Hyperledger and the Enterprise Ethereum Alliance have joined each other’s organizations.
 - [Software Giants Microsoft And Salesforce Flock To Hyperledger Blockchain Consortium](https://www.forbes.com/sites/darrynpollock/2019/06/20/software-giants-microsoft-and-salesforce-flock-to-hyperledger-blockchain-consortium/) > "Yes, THAT SalesForce" @by_caballero 
   > Hyperledger Blockchain Consortium is growing to new heights with two software giants, Microsoft and Salesforce, coming aboard. It is a big move for blockchain, but also for the enterprises buying in.
+* [Hyperledger Blockchain Performance Metrics White Paper – Hyperledger](https://www.hyperledger.org/resources/publications/blockchain-performance-metrics)
 * [Inaugural Hyperledger Global Forum Showcases Strong Community Momentum](https://www.linuxfoundation.org/press-release/2018/12/inaugural-hyperledger-global-forum-showcases-strong-community-momentum/)
   > For Hyperledger, a project of The Linux Foundation that started less than three years ago, the event is a time to reflect on milestones. Hyperledger has surpassed 260 members, with more than a dozen new members including Citi and Alibaba Cloud announced today. In the last year, Hyperledger launched its 11th project, Ursa, and released development updates to the Hyperledger Burrow, Hyperledger Fabric and Sawtooth frameworks. Additionally, Hyperledger and the Enterprise Ethereum Alliance jointly announced membership in each other’s communities as a way to further bolster enterprise blockchain adoption.
-* [Hyperledger Blockchain Performance Metrics White Paper – Hyperledger](https://www.hyperledger.org/resources/publications/blockchain-performance-metrics)
 
-## Hyperledger Identity 
+## Hyperledger Identity
 
-[@Hyperledger](https://twitter.com/Hyperledger) - [Identity Working Group](https://wiki.hyperledger.org/display/IWG) - [get involved](https://youtu.be/IMioZ4P8TC0) - [Identity Standards](https://wiki.hyperledger.org/display/IWG/Identity+Standards)
-
+* [Identity Working Group](https://wiki.hyperledger.org/display/IWG) 
+* [Identity Standards](https://wiki.hyperledger.org/display/IWG/Identity+Standards)
 * [Looking back on 2019: Identity, blockchain and Verified.Me](https://www.hyperledger.org/blog/2020/02/05/looking-back-on-2019-identity-blockchain-and-verified-me)
+* [Telefónica TrustID, its decentralized Identity solution, moves to Hyperledger Labs](https://www.hyperledger.org/blog/2020/06/30/telefonica-trustid-its-decentralized-identity-solution-moves-to-hyperledger-labs)
+* [How digital identity empowers consumers and producers in a circular supply chain](https://www.hyperledger.org/blog/2020/05/07/how-digital-identity-empowers-consumers-and-producers-in-a-circular-supply-chain)
+* [TrustID: A New Approach to Fabric User Identity Management](https://www.hyperledger.org/blog/2020/04/21/trustid-a-new-approach-to-fabric-user-identity-management)
+* [Identity Applications in Action & Powered by Hyperledger](https://www.hyperledger.org/blog/2020/04/30/identity-applications-in-action-powered-by-hyperledger)
 
-* [Hyperledger Identity Vendors](https://www.hyperledger.org/vendor_level/identity-management)
+## Learn
+### Linux Foundation Training
+* [Review of Four Hyperledger Libraries- Aries, Quilt, Ursa, and Transact](https://training.linuxfoundation.org/announcements/review-of-four-hyperledger-libraries-aries-quilt-ursa-and-transact/)
+* [Review of Five popular Hyperledger DLTs- Fabric, Besu, Sawtooth, Iroha and Indy](https://training.linuxfoundation.org/announcements/review-of-five-popular-hyperledger-dlts-fabric-besu-sawtooth-iroha-and-indy/)
+* [Review of Three Hyperledger Tools – Caliper, Cello and Avalon](https://training.linuxfoundation.org/announcements/review-of-three-hyperledger-tools-caliper-cello-and-avalon/)
+
+### EdX Courses
+
+* [Introduction to Hyperledger Blockchain Technologies](https://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie)
+  > This introductory course is carefully curated for nontechnical, business-oriented audiences. It examines blockchains for the enterprise and a number of pertinent use cases from Hyperledger, a global cross-industry community of communities hosted by The Linux Foundation and advancing business blockchain technologies. Hyperledger is incubating and promoting enterprise grade, open source business blockchain software, on top of which anyone can set up apps to meet cross-industry needs.
+* [Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa](https://www.edx.org/course/identity-in-hyperledger-aries-indy-and-ursa) EdX - Linux Foundation
+  > Learn how Hyperledger Aries, Indy and Ursa add a necessary layer of trust to the Internet, creating and using independent digital identities rooted on blockchains or other distributed ledgers.
+* [Becoming a Hyperledger Aries Developer](https://www.edx.org/course/becoming-a-hyperledger-aries-developer)
+  > Develop blockchain-based production-ready identity applications with Hyperledger Aries.
+* [Developing Blockchain-Based Identity Applications](https://www.edx.org/professional-certificate/linuxfoundationx-developing-blockchain-based-identity-applications)
+  > * Understand the problems with existing Internet identity/trust mechanisms today and learn how a distributed ledger, such as Hyperledger Indy, can be used for identity.
+  > * Discuss the purpose, scope, and relationship between Aries, Indy, and Ursa and understand how these open source blockchain technologies provide reliable self-sovereign identity solutions that add a necessary layer of trust to the Internet.
+  > * Understand the Aries architecture and its components, as well as the DIDComm protocol for peer-to-peer messages.
+  > * Deploy instances of Aries agents and establish a connection between two or more Aries agents.
+  > * Create from scratch or extend Aries agents to add business logic and understand the possibilities available through the implementation of Aries agents.
+
+## Hyperledger Projects
 
 ### Indy, Aries & Ursa
 
@@ -63,20 +90,6 @@ header:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bZrWAsD42-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### EdX Courses
-
-* [Introduction to Hyperledger Blockchain Technologies](https://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie)
-  > This introductory course is carefully curated for nontechnical, business-oriented audiences. It examines blockchains for the enterprise and a number of pertinent use cases from Hyperledger, a global cross-industry community of communities hosted by The Linux Foundation and advancing business blockchain technologies. Hyperledger is incubating and promoting enterprise grade, open source business blockchain software, on top of which anyone can set up apps to meet cross-industry needs.
-* [Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa](https://www.edx.org/course/identity-in-hyperledger-aries-indy-and-ursa) EdX - Linux Foundation
-  > Learn how Hyperledger Aries, Indy and Ursa add a necessary layer of trust to the Internet, creating and using independent digital identities rooted on blockchains or other distributed ledgers.
-* [Becoming a Hyperledger Aries Developer](https://www.edx.org/course/becoming-a-hyperledger-aries-developer)
-  > Develop blockchain-based production-ready identity applications with Hyperledger Aries.
-* [Developing Blockchain-Based Identity Applications](https://www.edx.org/professional-certificate/linuxfoundationx-developing-blockchain-based-identity-applications)
-  > * Understand the problems with existing Internet identity/trust mechanisms today and learn how a distributed ledger, such as Hyperledger Indy, can be used for identity.
-  > * Discuss the purpose, scope, and relationship between Aries, Indy, and Ursa and understand how these open source blockchain technologies provide reliable self-sovereign identity solutions that add a necessary layer of trust to the Internet.
-  > * Understand the Aries architecture and its components, as well as the DIDComm protocol for peer-to-peer messages.
-  > * Deploy instances of Aries agents and establish a connection between two or more Aries agents.
-  > * Create from scratch or extend Aries agents to add business logic and understand the possibilities available through the implementation of Aries agents.
 
 ### Fabric
 
