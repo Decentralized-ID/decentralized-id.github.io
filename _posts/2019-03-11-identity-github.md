@@ -335,8 +335,6 @@ Text and audio meeting minutes for W3C Credentials Community Group
 
 ## Spidchain
 
-* [Spidchain.com](http://www.spidchain.com/) -Blockchain for Self Sovereign Identity
-
 ### Spid Bitcoin
 * [SpidChain/spidchain-btcr](https://github.com/SpidChain/spidchain-btcr) - An implementation of the btcr standard for self sovereign distributed digital identity
 * [SpidChain/electrumx](https://github.com/SpidChain/electrumx) Forked from kyuupichan/electrumx
