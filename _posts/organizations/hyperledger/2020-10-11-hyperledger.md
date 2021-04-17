@@ -65,11 +65,13 @@ header:
 
 #### EdX Courses
 
+* [Introduction to Hyperledger Blockchain Technologies](https://www.edx.org/course/introduction-to-hyperledger-blockchain-technologie)
+  > This introductory course is carefully curated for nontechnical, business-oriented audiences. It examines blockchains for the enterprise and a number of pertinent use cases from Hyperledger, a global cross-industry community of communities hosted by The Linux Foundation and advancing business blockchain technologies. Hyperledger is incubating and promoting enterprise grade, open source business blockchain software, on top of which anyone can set up apps to meet cross-industry needs.
 * [Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa](https://www.edx.org/course/identity-in-hyperledger-aries-indy-and-ursa) EdX - Linux Foundation
   > Learn how Hyperledger Aries, Indy and Ursa add a necessary layer of trust to the Internet, creating and using independent digital identities rooted on blockchains or other distributed ledgers.
 * [Becoming a Hyperledger Aries Developer](https://www.edx.org/course/becoming-a-hyperledger-aries-developer)
   > Develop blockchain-based production-ready identity applications with Hyperledger Aries.
-* [Professional Certificate in Developing Blockchain-Based Identity Applications](https://www.edx.org/professional-certificate/linuxfoundationx-developing-blockchain-based-identity-applications)
+* [Developing Blockchain-Based Identity Applications](https://www.edx.org/professional-certificate/linuxfoundationx-developing-blockchain-based-identity-applications)
   > * Understand the problems with existing Internet identity/trust mechanisms today and learn how a distributed ledger, such as Hyperledger Indy, can be used for identity.
   > * Discuss the purpose, scope, and relationship between Aries, Indy, and Ursa and understand how these open source blockchain technologies provide reliable self-sovereign identity solutions that add a necessary layer of trust to the Internet.
   > * Understand the Aries architecture and its components, as well as the DIDComm protocol for peer-to-peer messages.
