@@ -14,14 +14,69 @@ tags: ["Transmute","Ethereum", "Microsoft","DID","Verifiable Credentials","Conse
 header:
   image: /images/transmute.webp
   teaser: /images/transmute_thumb.webp
-last_modified_at: 2020-12-03
+last_modified_at: 2021-04-19
 ---
 
 **[Transmute Industries](https://www.transmute.industries/) • [Blog](https://medium.com/@Transmute) • [Tech Talk](https://medium.com/transmute-techtalk/) • [Github](https://github.com/transmute-industries) • [Twitter](https://twitter.com/transmutenews) • [Linkedin](https://www.linkedin.com/company/transmute-industries/)**
 
-> **Build a network of trust with Transmute**
->
 > Transmute secures critical supplier, product, and shipment data to give customers a competitive edge in the increasingly dynamic global marketplace.
+
+## The Story of Karyl Fowler and Transmute
+
+> For all the sexy tech stuff happening, it’s deep comprehension of the business challenges that will drive adoption. This is one area my team has an advantage as Orie and I have almost no overlapping skill sets, which has allowed us to move fast, divide & conquer the business and technology components in parallel. - Karyl Fowler, CEO and Co-founder of Transmute
+
+Towards the end of 2020, I was Contacted about an upcoming company announcement from Transmute. I took the opportunity to learn more about their work, and even got the chance to have a call with Karyl Fowler. 
+
+Transmute has been gaining momentum following [their work with the US Department Homeland Security](https://www.dhs.gov/science-and-technology/news/2019/11/08/news-release-dhs-awards-198k-raw-material-import-tracking) (DHS) Science and Technology Directorate’s Silicon Valley Innovation Program.
+
+The announcement came on [OCTOBER 21, 2020](https://www.prweb.com/releases/transmute_closes_2m_seed_round_from_moonshots_capital_tmv_kerr_tech_investments/prweb17487962.htm), with the news of Transmute closing a 2 million dollar seed round from Moonshots Capital, TMV, and Kerr Tech Investments.
+
+With a clear opportunity to grow rapidly in the enterprise market, Transmute plans to deploy the new capital to expand its Austin, Texas-based team to service increasing customer demand. The company secures critical supplier, product, and shipment data to give customers a competitive edge in an increasingly dynamic, global marketplace.
+
+These are clearly exciting times for Transmute and the industry as a whole.
+
+### Karyl's Education and Background
+
+While working in Economic Development for the Greater Austin Chamber of Commerce, Karyl earned a Masters of Science in Technology Commercialization from the University of Texas at Austin, Red McCombs School of Business. 
+
+Her work during this time focused mainly on recruiting tech and manufacturing companies to Austin, TX as well as supporting management of the city’s Foreign Trade Zone initiatives.
+
+Karyl then worked for a semiconductor company, Novati Technologies, whose core business was in the defense sector. There, she leveraged data-driven strategies to achieve sustainable development partnerships and expand Novati’s bioelectronics portfolio to become a more integral component of their overall market strategy.
+
+It was in that role when Karyl first became interested in data privacy, discovering business models that were being created around DNA sequencing, and seeing how little agency an individual had over their own genetic data. 
+
+This experience also gave her a front seat view of global supply chains - both the inherent complexity and even intentional opacity involved in moving highly regulated products across borders.
+
+### Early Hackathon Success
+
+Upon graduation, Karyl began participating in hackathons with her co-founder, Orie Steele. Incidentally, most hackathon participants don’t arrive with a business-person.
+
+This is where Karyl gave the team an edge, enabling them to show up with something just a little more polished than engineer-only teams.
+
+They entered Austin’s first blockchain hackathon in early 2016, held at the [Capital Factory](https://www.capitalfactory.com/), where they built a user-centric and traceable identity management application for refugees who were pouring into Europe at the time.
+
+> Understanding concerns about business models, built on your most intimate data, I wanted to see something where I had more control over who could access that, and I would actually own it. - Karyl Fowler, [Giant Robots #324](https://www.giantrobots.fm/324)
+
+### Being blockchain agnostic
+
+After discussing Karyl’s background and the story of Transmute, the subject came up about Transmute being largely blockchain agnostic. I was curious to know exactly what that means.
+
+Karyl shared that Transmute has always felt strongly about interoperability, and just like cloud technologies, this would not be a winner-take-all scenario. They took a lot of flack for that position in earlier days, and for a while were feeling “too blockchain for the enterprise and too enterprise for the blockchain,” but ultimately their thesis is playing out.
+
+She also shared that they are building in a time where the “winners” are still shaking out, and warned that some folks in the enterprise space are cornering themselves into a particular solution stack that could easily become obsolete.
+
+To solve for this challenge, Transmute uses a flexible, ledger-agnostic architecture with  adapters for a variety of ledger options depending upon the needs of where it’s being applied. An important component of [interoperability involves building on open standards](https://github.com/transmute-industries/interoperability)..
+
+### DHS Silicon Valley Innovation Program
+
+Anil John and Melissa Oh, of the Silicon Valley Innovation Program (SVIP), were recently interviewed on the [Federal Blockchain News](https://www.federalblockchainnews.com/podcast/episode/7975a493/dhs-melissa-oh-and-anil-john-of-silicon-valley-innovation-program) Podcast, which sheds light into exactly what values the program operates under.
+
+The DHS is focused on creating increased transparency in the cross-border supply-chain, which can lead to greater efficiencies in trade and unlock massive economic value. The DHS is focused on open-source, open-standards, and interoperability.
+
+> There was a significant push by large platform players and others, to set up a platform model […] sit in the middle and extract value from that platform. As a government, we are rather familiar with being walked into a corner and told that there is only one product that you will buy because it will solve the problem. - *Anil John, [Federal Blockchain News](https://www.federalblockchainnews.com/podcast/episode/7975a493/dhs-melissa-oh-and-anil-john-of-silicon-valley-innovation-program)
+
+> We believe there is a fundamental layer of security privacy and interoperability that should be common across all platforms. Then you build value-added services on top of it. - *Anil John, [Federal Blockchain News](https://www.federalblockchainnews.com/podcast/episode/7975a493/dhs-melissa-oh-and-anil-john-of-silicon-valley-innovation-program)
+
 
 ## Transmute News
 
@@ -68,7 +123,7 @@ last_modified_at: 2020-12-03
   > 
   > The potential of integrating Transmute’s user/company managed identities (DIDs) and trusted data (verifiable credentials) as tools for powering this new way of networking is leading to increased interest from prospective enterprise customers. As a result, we are expanding both our thought leadership and systems design consulting offerings. 
 
-## History Building an Ethereum dApp Platform
+## Early work on an Ethereum dApp Platform
 
 * [Back to the Basics](https://medium.com/transmute-techtalk/back-to-the-basics-9158f47f4eb6) 6/16/19
   > Several mentors have encouraged me to publicly share a more detailed account of Transmute’s choice to shift focus solely to commercializing Transmute ID, the decentralized identity component of our original product, the Transmute Platform — a Heroku-like rapid dApp builder that seamlessly bridged centralized and decentralized tech, specifically for existing enterprises.\
