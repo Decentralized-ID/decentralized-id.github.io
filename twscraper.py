@@ -17,7 +17,7 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth,wait_on_rate_limit=True)
 
 #### Keywords
-keywords = ["#IIW","@idworkshop","#verifiablecredentials","#selfsovereignidentity","Self+Sovereign+Identity","Hyperledger+Aries","DIDComm","Key+Event+Receipt+Infrastructure","#ToIP","#TrustoverIP","w3c+Credentials"]
+keywords = ["#verifiablecredentials","#selfsovereignidentity","Self+Sovereign+Identity","Hyperledger+Aries","DIDComm","Key+Event+Receipt+Infrastructure","#ToIP","#TrustoverIP","w3c+Credentials"]
 
 #### Get Date
 from datetime import date, timedelta, datetime
