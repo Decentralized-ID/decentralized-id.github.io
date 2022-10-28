@@ -4,6 +4,53 @@ published: false
 
 # Healthcare 
 
+
+* [Self-Sovereign Identity and Blockchain in the Healthcare Industry](https://knowledge.wealize.digital/en/blog/blog/ssi-at-healthcare-industry) Wealize Digital
+
+Healthcare is a key case-use of the SSI model employing blockchain given the significance and scalability of this sectoral. In this article, we give you details about a pilot project developed for the Andalusian Health Service in Spain to evidence the feasibility of a vaccination card according to the Alastria Self-Sovereign Identity system based on Blockchain technology.
+* [How decentralised identity & verifiable credentials will transform the world of healthcare](https://www.htworld.co.uk/insight/decentralized-identity-verifiable-credentials-healthcare/) HealthTech World
+
+When a medical accrediting agency provides a digitally signed certificate, the healthcare practitioner and owner of that certificate holds the credential in a digital wallet. The details of the credential such as the time stamp in which the certificate was given and how long it is valid for, can be optionally held within a blockchain network, digitally linked to the certificate, this process is called ‘anchoring’.
+* [Unlocking the Value of Verifiable Credentials in the Health Sector](https://www.affinidi.com/post/unlocking-the-value-of-verifiable-credentials-in-the-health-sector) Affinidi
+
+- Digital Infrastructure for Vaccination Open Credentialing (DIVOC) - This is an open-source platform that enables countries to digitally orchestrate country-wide health campaigns such as vaccinations and certifications.
+- EU Digital COVID Certificate (EU-DCC) - This specification allows EU citizens and residents to have their digital health certificates issued and verified across the EU.
+- Smart Health Card (SHC) - This initiative encourages the development of open standards and technologies to connect people with their health data. Led by Microsoft, Vaccination Credential Initiative (VCI), The Commons Project, and The MITRE Corporation, SHCs are seeing wide adoption across North America.
+- International Civil Aviation Organisation - Visible Digital Seal (ICAO-VDS) - This is a travel document verification to re-establish travel and trade through aviation.
+* [Technical Design and Development of a Self-Sovereign Identity Management Platform for Patient-Centric Healthcare Using Blockchain Technology](https://blockchainhealthcaretoday.com/index.php/journal/article/view/196%23.Yjkahet3YEM.twitter) Blockchain Healthcare Today
+
+To manage patient’s self-sovereign identity, we leveraged the Hyperledger Indy blockchain framework to store patient’s decentralized identifiers (DIDs) and the schemas or format for each credential type. In contrast, the credentials containing patient data are stored “off-ledger” in each person’s wallet and accessible via a computer or smartphone. We used Hyperledger Aries as a middleware layer (API) to connect Hyperledger Indy with the front-end, which was developed using a JavaScript framework, ReactJS (Web Application) and React Native (iOS Application).
+
+* [The Human Colossus Foundation will present its Dynamic Data Economy -DDE concept at the DIA conference in Brussels](https://humancolossus.foundation/blog/dde-dia)
+
+Promising advances in digital personal health empower patients. Technologically, we could shift from symptom based intervention to prevention and early treatment.  But advanced innovations also generate debates on trust in sharing intrusive data and regulatory compliance. You can find details regarding our panel presentation [here](https://www.diahome.org/en/conference-listing/meetings/2022/03/dia-europe-2022/agenda/29/precision-prevention-in-a-dynamic-data-economy?ref%3DPrecisionPreventioninaDynamicDataEconomy).
+* [A Digital Staff Passport for hospital facilities, DIZME voted best solution at SHACK22 hackathon](https://infocert.digital/a-digital-staff-passport-for-the-safe-mobility-of-staff-in-hospital-facilities-dizme-has-been-voted-as-the-best-solution-at-shack22-hackathon/) Infocert
+
+The hackathon held by INTEROPen, a leading organization to support & accelerate the delivery and adoption of Interoperability Standards in health & social, in partnership with NHS (National Health System) was aimed at developing innovative solutions for the management of access and safe mobility of staff in hospital facilities.
+* [Accessing Medical Records Anywhere](https://academy.affinidi.com/accessing-medical-records-anywhere-a-use-case-for-verifiable-credentials-81a248f9b746) Affinidi
+  > this workflow doesn’t involve any third-party to store your medical data and this also means no worry about medical data storage policies and the laws associated with it. The holder completely owns his or her medical data and stores it exclusively in his or her digital wallet, thereby making it secure and hassle-free.
+* [Verifiable Credentials set to Revolutionize Health and Safety Compliance](https://blog.dock.io/verifiable-credentials-set-to-revolutionize-health-and-safety-compliance/) Dock
+
+By integrating with Dock and utilizing verifiable credentials, the process of verifying a workers qualifications goes from analysing paper-based certificates and calling each educational body to certify the legitimacy of it, to having the accreditations sitting in a tamper-proof digital wallet, with a digital signature signature from the issuing body certifying the legitimacy.
+
+* [Verifiable Credential Solution to Health Data Sharing](https://indicio.tech/the-verifiable-credential-solution-to-health-data-sharing/) Indicio
+
+In proving that tamper-proof health data could be issued to travelers by their health providers and be verified by airlines and other countries without having to check back in with the health provider, Cardea has laid the foundation for something much bigger than Covid testing. Verifiable credential technology provides a way for all kinds of health data to be shared in a privacy-preserving and security-enhanced way.
+* [Technical Design and Development of a Self-Sovereign Identity Management Platform for Patient-Centric Healthcare Using Blockchain Technology](https://www.blockchainhealthcaretoday.com/index.php/journal/article/view/196)
+* [Case study: Gravity digital ID solution enables vulnerable migrants in Kenya to receive consistent healthcare services](https://medium.com/gravity-earth/case-study-gravity-digital-id-solution-enables-vulnerable-migrants-in-kenya-to-receive-consistent-713a78f9e0d8) Shiyao Zhang
+
+Since 2019, Gravity has been providing decentralized identity solutions for the 
+
+* [The Future of Healthcare Relies on Adaptation](https://auth0.com/blog/the-future-of-healthcare-relies-on-adaptation/) auth0
+
+Most healthcare organizations are and should be, focused on their core business pursuits, such as patient care or processing insurance claims. Information security and identity management is not their core business, yet is a critical factor in compliant, secure business operations.
+
+* [TheirCharts](https://blogs.harvard.edu/doc/2022/01/15/theircharts/) Doc Searls
+
+If you’re getting health care in the U.S., chances are your providers are now trying to give you a better [patient experience](https://www.epic.com/software%23PatientEngagement) through a website called MyChart.
+
+This is supposed to be yours, as the first person singular pronoun My implies. Problem is, it’s TheirChart.
+
   * ["Member as API" - The Interoperability and Patient Access final rule and Verifiable Credentials](https://www.pocketcred.com/post/member-as-api-the-interoperability-and-patient-access-final-rule-and-verifiable-credentials)
 
 The Interoperability and Patient Access final rule (CMS-9115-F) delivers on the government's promise to put patients first, giving them access to their health information when they need it most and in a way they can best use it. As part of the MyHealthEData initiative, this final rule is focused on driving interoperability and patient access to health information by liberating patient data using CMS authority to regulate Medicare Advantage (MA), Medicaid, CHIP, and Qualified Health Plan (QHP) issuers on the Federally-facilitated Exchanges (FFEs).

@@ -3,6 +3,33 @@ published: false
 ---
 
 # IOT
+* [Why Machines Need Self-Sovereign Identities](https://www.peaq.com/blog/why-machines-need-self-sovereign-identities) Peaq
+
+As the world becomes even more connected and more machines are hooked up to the internet, the ability for machines to move, trade and interact securely and efficiently becomes increasingly important to life and business. Today’s centralized networks do not enable this. Machines today exist on closed, permission-based environments which massively limit which other machines can be interacted with, what machines can do and where they can go.
+
+* [Digital Twins and Self-Sovereign Identity: Build the next generation of Simulation with privacy preservation](https://iotpractitioner.com/digital-twins-and-self-sovereign-identity-build-the-next-generation-of-simulation-with-privacy-preservation/) IOT Practicioner
+
+The rise in the use of advanced analytics, machine learning (ML) and Artificial Intelligence (AI) and the Internet of Things (IoT) today have driven the technology of simulation into the concept of the digital twin. Digital twins are generally defined as a virtual digital model of a physical system that is used to make better decisions about the real world physical system. Digital twins are usually intertwined with sensors and include a two-way interaction between the physical and digital twin.
+* [@debimr75](https://twitter.com/debimr75/status/1347915348293533699) shares
+  > Now Animals too can have their own #decentralizedidentity to help them send their status updates to the rightful owner from their #IoT devices. #Decentralized #digitalidentity for #IoT devices would lead to #SmartFarming
+* [Trust but Verify](https://stateofidentity.libsyn.com/trust-but-verify) Liminal Podcasts
+
+Peter Padd, Co-Founder & CEO at Fortifyedge shares how he's built Zero Trust authentication software that provides IoT device OEM's with password-free authentication utilizing Tiny Machine Learning at the edge.
+* [Why is Trusted Identity Important in IoT Commerce?](https://dlt.mobi/why-is-trusted-identity-important-in-iot-commerce/)
+
+The evident solution is to imbue connected entities with unique, tamper-evident, self-sovereign, [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/?mc_cid%3D1a98f7f0e4%26mc_eid%3DUNIQID), developed by the [W3C](https://www.w3.org/?mc_cid%3D1a98f7f0e4%26mc_eid%3DUNIQID), anchored in a decentralized trust network. For MOBI’s community, this is the [Integrated Trust Network, or ITN](http://dlt.mobi/itn?mc_cid%3D1a98f7f0e4%26mc_eid%3DUNIQID).
+* [Ep. 146 – Self-Sovereign Identity and IoT – insights from the Sovrin Foundation](https://insureblocks.com/ep-146-self-sovereign-identity-and-iot-insights-from-the-sovrin-foundation/) Insureblocks
+
+we discussed the white paper he authored on [Self Sovereign Identity and IoT](https://sovrin.org/library-iot/). To explain the opportunities SSI can provide to IoT, Michael introduces us to three profiles: Jamie (machine to person), Bob (machine to machine) and Bessie the cow (digital twin).
+* [Self-Sovereign Digital Twins](https://dlt.mobi/self-sovereign-digital-twins/) mobi
+* [Battery Passport and the Battery Self-Sovereign Digital Twin](https://dlt.mobi/battery-passport-the-battery-ssdt/) Mobi
+  > Similarly, a [battery passport](https://dlt.mobi/battery-passport) is nothing but a presentation of data points about a particular battery – who manufactured it, its physical and chemical composition, its current state of health, whether it was refurbished or repurposed from another battery, and so on.
+
+
+* [An automatized Identity and Access Management system for IoT combining SSI and smart contracts](https://arxiv.org/pdf/2201.00231.pdf) Montassar Naghmouchi, Hella Kaffel, and Maryline Laurent
+
+This paper proposes a blockchain-based identity and access management system for IoT – specifically smart vehicles- as an example of use-case, showing two interoperable blockchains, Ethereum and Hyperledger Indy, and a self-sovereign identity model.
+
 
 * [Ceramic, SkyNet, LoRa, IoT. low bandwidth & memory, distributed network. Managing schemas, DIDComm, and V.C. in context](https://iiw.idcommons.net/14M/_Ceramic,_SkyNet,_LoRa,_IoT._low_bandwidth_%2526_memory,_distributed_network._Managing_schemas,_DIDComm,_and_V.C._in_context) by Brent Shambaugh
 

@@ -3,6 +3,20 @@ published: false
 ---
 
 # Compliance, KYC, RegTech
+* [Impacts from a new reality drive the need for an enhanced digital identity framework](https://bankautomationnews.com/allposts/risk-security/impacts-from-a-new-reality-drive-the-need-for-an-enhanced-digital-identity-framework/) Bank Automation News
+
+While US-based entities are adhering to an enhanced regulatory framework, these mandates are particularly applicable in Europe, where there is necessary compliance with enacted standards (such as the General Data Protection Regulation—commonly known as GDPR—and the Payment Service Providers Directive 2—referred to as PSD2. A clear need for a true and persistent digital identity as a solution to the ancillary—and sometimes unforeseen—challenges that have arisen.
+* [Self-Sovereign Identity Verification and Background Screening](https://www.corporatescreening.com/blog/what-is-self-sovereign-identity-verification-and-how-is-it-changing-background-screening) Corporate Screening
+  > self-sovereign identity verification, one of the game-changing [background screening trends of 2021](https://www.corporatescreening.com/2021-trends-interactive-infographic). When combined with screening activities, self-sovereign identity solutions offer opportunities to obtain more accurate candidate background data and deliver it to employers faster.
+
+* [How can self-sovereign identity solve the challenges of KYC in financial industry?](https://yourstory.com/2022/09/self-sovereign-identity-solve-challenges-kyc-finance/amp) Yourstory
+
+Since the same data is required and utilised by everyone, blockchain-based SSI can satisfy the demand for general service for data without creating competition while also adhering to legislation and consumer expectations around data protection.
+
+* [How LEIs streamline KYC](https://www.ubisecure.com/legal-entity-identifier-lei/lei-in-kyc/) Ubisecure
+
+Ubisecure brought innovation to the LEI market by automating LEI issuance. Revolutionising how quickly and effectively an LEI can be registered. While improving data accuracy along the way by connecting directly to business registries globally. This innovation has helped RapidLEI to become the #1 LEI Issuer globally, issuing about 1 in 4 new LEIs monthly, in just 3 short years.
+
 - [DIDComm for KYC](https://www.youtube.com/watch?v%3DPWrZxRbCG88)
 
 * [Roadmap to Institutional Adoption of DeFi](https://www.youtube.com/watch?v%3DbkOQHcVVGoE) RSK - Coinfirm

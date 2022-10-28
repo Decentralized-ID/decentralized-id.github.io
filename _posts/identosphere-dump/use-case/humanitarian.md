@@ -4,6 +4,23 @@ published: false
 
 # Humanitarian
 
+* [Fixing Aid | Can blockchain help fix the I.D. problem for a billion people?](https://www.thenewhumanitarian.org/podcast/2022/03/31/Fixing-Aid-can-blockchain-help-fix-the-ID-problem-for-a-billion-people) The New Humanitarian
+
+Ismail looks at the concept of self-sovereign identity, which asserts that individuals must have ownership over their personal digital data and identification, and how that idea influences efforts to create efficient, secure digital identities for people in the midst of humanitarian crises.
+
+SSI Fixes this?
+
+I have been prompted several times this week by this article
+- [Can digital identity help with the world refugee crisis?](https://blog.avast.com/digital-identity-world-refugee-crisis)
+
+* [Digital Identity: Enabling dignified access to humanitarian services in migration - PrepareCenter](https://preparecenter.org/resource/digital-identity-enabling-dignified-access-to-humanitarian-services-in-migration/)
+
+The primary objective of the report is to inform humanitarian organizations working with migrants of the opportunities and risks in the use of digital identities in providing services throughout the migrants’ journeys.
+
+* [Can Blockchain and Self-Sovereign Identity Systems address the Refugee Crisis](https://www.youtube.com/watch?v%3DewMZQoyGxCs) Lyonna Lyu
+
+we invite you to build hyperstructures with us with focus on NFTs, on-chain music ecosystems, a new generation of DAOs and Zora’s vast ecosystem of tools and smart contracts.
+
 * [At the Crossroads of Digital Imperialism & Digital Development](https://www.youtube.com/watch?v%3DB1Yr9hwMm8s) Berkman Klein
   > This panel examines questions of unequal power in the global digital economy (through U.S corporations, China, and Brussels (i.e. dominance through legal rules), and the ways in which this manifests itself in developing countries in Africa.
 

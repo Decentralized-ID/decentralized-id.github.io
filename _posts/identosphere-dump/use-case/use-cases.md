@@ -4,91 +4,91 @@ published: false
 
 # Use-Cases
 
-* [Protecting Your Driver’s License](https://medium.com/affinidi/protecting-your-drivers-license-a-use-case-for-verifiable-credentials-25d22aeac05b)
+- [Verifiable Credentials in Ben’s Serendipity](https://academy.affinidi.com/verifiable-credentials-in-bens-serendipity-b9acfa10f131) Affinidi (Drivers License, Medical, Employment)
+  > Think about it for a moment. No physical documents at all, but a simple and secure self-sovereign identity that Ben had complete control over. More importantly, look at the interoperability and flexibility as Ben could use them in different situations and across multiple platforms.
+* [How Exactly Are Verifiable Credentials Making the World Better?](https://sgershuni.medium.com/how-exactly-are-verifiable-credentials-making-the-world-better-eb72145c061) Stepan Gershuni
+  > 6 stories of how verifiable credentials can improve the lives of every day people:
+  > 
+  > Ajay is an Uber driver in San Francisco. He wants to try various temporary jobs while he’s studying but joining Lyft, Postmates and other platforms requires going through a long and tedious background verification and car certification process over and over again.
+* [It's been 15 years of Project VRM: Here's a collection of use cases and requirements identified over the years](https://reb00ted.org/tech/20211011-vrm-use-cases/) rebooted
+  > I categorize them by the stage of the relationship between customer and vendor
+
+## Public Records
+* [Protecting Your Driver’s License](https://medium.com/affinidi/protecting-your-drivers-license-a-use-case-for-verifiable-credentials-25d22aeac05b) Affinidi
   > the biggest advantage of such an SSI-based driver’s license is that there’s absolutely no possibility of loss. Furthermore, there is no question of your PII on the license to fall into the wrong hands because the holder has complete control over how it is used and with whom it is shared.
-* [Spherity launches New Product to Support Pharmaceutical Supply Chain Compliance](https://medium.com/spherity/spherity-launches-new-product-to-support-pharmaceutical-supply-chain-compliance-28e5592b2dee)
+- [Driving License as a Verifiable Credential](https://academy.affinidi.com/how-to-implement-driving-license-use-case-using-verifiable-credentials-cef928222c92) Affinidi
+- [Opening a Bank Account](https://academy.affinidi.com/opening-a-bank-account-a-use-case-for-verifiable-credentials-53ea478b5414) Affinidi
+
+## Supply Chain
+* [New Product to Support Pharmaceutical Supply Chain Compliance](https://medium.com/spherity/spherity-launches-new-product-to-support-pharmaceutical-supply-chain-compliance-28e5592b2dee) Spherity
   > The product establishes trust in digital interactions between trading partners in pharmaceutical supply chains and ensures compliance with the U.S. Drug Supply Chain Security Act (DSCSA).
+* [Trusted Supply Chain: end-to-end compliance in multi-tier supply chain](https://evan.network/use-cases/trusted-supply-chain/) Evan Network
+  > In the real estate industry, TRUST&TRACE can be used by companies to obtain required compliance information from a network of participating companies. In this way, all property data is collected step by step: from building construction and leasing to sale and demolition.
+* [deep cut] [The missing link: digitizing supply chains with portable data](https://medium.com/mavennet/the-missing-link-digitizing-supply-chains-with-portable-data-583b66acc9bc) Mavnet
+  > The traceability vocabulary bridges the gap between existing record-keeping systems and the verifiable exchange of supply chain information across organizations envisioned by proponents of these data portability technologies. 
+* [On solving the worldwide shipping crisis](https://blogs.harvard.edu/doc/2021/10/15/shipping/) Doc Searls
+  > “The supply chain is essentially in the hands of the private sector,” a White House official told Donna Littlejohn of the Los Angeles Daily News, “so we need the private sector…to help solve these problems.” But Biden has brokered a deal among the different stakeholders to end what was becoming a crisis.
+* [Dr. Carsten Stöcker - Decentralizing Provenance in an Industry 4.0 World](https://www.kuppingercole.com/watch/frontier-talk-podcast-3-decentralized-provenance) Frontier Talk
+  > In this episode, Raj Hegde sits down with Dr. Carsten Stöcker, Founder & CEO of Spherity to understand how #decentralized identity is transforming the end-to-end supply chain lifecycle.
+* [Recap: OECD Forum on Responsible Mineral Supply Chains](https://peerledger.medium.com/recap-oecd-forum-on-responsible-mineral-supply-chains-b5c8c63f5e41) Peerledger
+  > What kind of strategy will take you to being a next-generation utility company? For AEP Ohio, a large electric utility company based in Columbus, this challenge began with a comprehensive review of their entire ecosystem and which identified their key pain points for innovation.
+* [Identity Terms Provide Value along the Supply Chain: How We Know When to Buy the Farm](https://medium.com/@Transmute/identity-terms-provide-value-along-the-supply-chain-how-we-know-when-to-buy-the-farm-738701967e3d) Jessica Tacka, Transmute
+  > Supply chain credentialing in the form of bills of lading, certificates of origin, or letters of credit is used to protect honest parties and their merchandise from being confused with dishonest parties or entities that are engaged in unethical practices, such as environmental destruction, or forced labor.
+* [Why Location Data Brokers Put All Communities At Risk](https://me2ba.org/why-location-data-brokers-put-all-communities-at-risk/) Zach Edwards M2BA
+  > New work that may leverage decentralized ID from the supply chain side of things…but not sure (lots of links inside on data brokers harm)* [Visibility 2.0: Creating Digital Consistency in an International Supply Chain](https://nextlevelsupplychainpodwithgs1us.libsyn.com/visibility-20-creating-digital-consistency-in-an-international-supply-chain) Next Level Supply
+  > how can something as complicated as the international supply chain take fundamental trade practices and marry them with innovation so we can move at the speed of digitization? Join us for a mind-blowing discussion with Karyl Fowler, CEO at Transmute
+* [Identity in the Supply Chain](https://vimeo.com/669713750) Vienna Digital Identity #30
+  > GS1 is the global association for supply chain identifiers with members across all industry sectors and interacting (unbeknownst) with general consumer on a daily basis. Transmute a foundational member of the DID/VC community and a participant in the US DHS Silicon Valley Innovation Program’s cross-border shipping use case.
+  > 
+  > - Transmute Deck: [thedinglegroup.com/s/Transmute_Vienna-Digital-ID-Forum-Jan-2022.pdf](https://www.thedinglegroup.com/s/Transmute_Vienna-Digital-ID-Forum-Jan-2022.pdf)
+  > - GS1 Deck: [thedinglegroup.com/s/2022-01-24_ViennaDigitalIdentityPhilA.pdf](https://www.thedinglegroup.com/s/2022-01-24_ViennaDigitalIdentityPhilA.pdf)
+* [eDATA Verifiable Credentials for Cross Border Trade](https://unece.org/sites/default/files/2022-07/WhitePaper_VerifiableCredentials-CBT.pdf) UNECE UN/CEFACT White Paper
+* [Transmute @TransmuteNews](https://twitter.com/TransmuteNews/status/1572692362148847619) via Twitter
+  > The "[[Fake] 30TB hard drive](https://www.vice.com/en/article/akek8e/walmart-30tb-ssd-hard-drive-scam-sd-cards)" investigation shows the real impact verification could have on #eCommerce. #verifiablecredentials
+* [The Phygital Future of the Supply Chain](https://nextlevelsupplychainpodwithgs1us.libsyn.com/the-phygital-future-of-the-supply-chain) Next Level Supply Chain Podcast with GS1
+  > The digital and physical world are merging more than ever before. As the supply chain becomes more ‘phygital,’ innovative ways of sharing data – like using verifiable credentials – are helping to build more trust with data along the supply chain. Join us as we chat with Senior VP of Innovation & Partnerships at GS1 US, Melanie Nuce, as we explore what’s around the corner and how standards play
+* [Open API for Interoperable Traceability](https://w3c-ccg.github.io/traceability-interop/openapi/%23overview) CCG
+  > `resolve:dids - Grants permission to resolve DIDsissue:credentials - Grants permission issue Verifiable Credentialsverify:credentials - Grants permission verify Verifiable Credentialsread:credentials - Grants permission to get Verifiable Credentialsupdate:credentials - Grants permission to update the status of Verifiable Credentialsprove:presentations - Grants permission to prove Verifiable Presentationsverify:presentations - Grants permission verify Verifiable Presentationssubmit:presentations - Grants permission to submit Verifiable Presentations`
+* [How to Prevent Supply Chain Fraud With Blockchain](https://www.dock.io/post/supply-chain-fraud-blockchain) Dock
+  > The global [supply chain management market size](https://www.prnewswire.com/news-releases/supply-chain-management-scm-market-size-worth--19-3-billion-globally-by-2028-at-9-02--cagr-verified-market-research-301540702.html) was valued at USD 10.1 Billion in 2020 and is projected to reach USD 19.3 Billion by 2028. Supply chain is the path for any product such as food, clothes, or appliances to go from where it was a produced, to distributors, procurement officers (quality inspections), and the market.
 
-- [Driving License as a Verifiable Credential](https://academy.affinidi.com/how-to-implement-driving-license-use-case-using-verifiable-credentials-cef928222c92)
-- [Verifiable Credentials in Ben’s Serendipity](https://academy.affinidi.com/verifiable-credentials-in-bens-serendipity-b9acfa10f131)
-- Think about it for a moment. No physical documents at all, but a simple and secure self-sovereign identity that Ben had complete control over. More importantly, look at the interoperability and flexibility as Ben could use them in different situations and across multiple platforms.
-- [On-Demand Employment Endorsements](https://academy.affinidi.com/on-demand-employment-endorsements-a-use-case-for-verifiable-credentials-d19d263a0fbb)
-- [Opening a Bank Account](https://academy.affinidi.com/opening-a-bank-account-a-use-case-for-verifiable-credentials-53ea478b5414)
-- [Accessing Medical Records Anywhere](https://academy.affinidi.com/accessing-medical-records-anywhere-a-use-case-for-verifiable-credentials-81a248f9b746)
-- [Protecting Your Driver’s License](https://academy.affinidi.com/protecting-your-drivers-license-a-use-case-for-verifiable-credentials-25d22aeac05b)
-
-* [Accessing Medical Records Anywhere](https://academy.affinidi.com/accessing-medical-records-anywhere-a-use-case-for-verifiable-credentials-81a248f9b746)
-  > this workflow doesn’t involve any third-party to store your medical data and this also means no worry about medical data storage policies and the laws associated with it. The holder completely owns his or her medical data and stores it exclusively in his or her digital wallet, thereby making it secure and hassle-free.
-
-* [How Exactly Are Verifiable Credentials Making the World Better?](https://sgershuni.medium.com/how-exactly-are-verifiable-credentials-making-the-world-better-eb72145c061)
-
-This post shares 6 stories of how verifiable credentials can improve the lives of every day people:
-
-> Ajay is an Uber driver in San Francisco. He wants to try various temporary jobs while he’s studying but joining Lyft, Postmates and other platforms requires going through a long and tedious background verification and car certification process over and over again.
-
-* [Building decentralized social media](https://werd.io/2021/building-decentralized-social-media)
+## Employment \ Formal Credentials
+- [On-Demand Employment Endorsements](https://academy.affinidi.com/on-demand-employment-endorsements-a-use-case-for-verifiable-credentials-d19d263a0fbb) Affinidi
+* [Rambling – Do I Need a Credential?](https://www.continuumloop.com/rambling-do-i-need-a-credential/) Continuum Loop
+  > I am a Professional Engineer, which in Canada, is a regulated profession. That means I am formally credentialed. The tech that I am issues comprises of a rubber stamp and an ink pad. Yup – 
+## Augmented Social Network
+* [Building decentralized social media](https://werd.io/2021/building-decentralized-social-media) Ben Werdmuller
   > People, in general, want convenience from their technology, not morality. So instead of building a more ethical version of the past, we need to build a more suitable version of the future.
 
-* [Self-Sovereign Identity Verification and Background Screening](https://www.corporatescreening.com/blog/what-is-self-sovereign-identity-verification-and-how-is-it-changing-background-screening)
+## KYC \ Background Checks
+* [Self-Sovereign Identity Verification and Background Screening](https://www.corporatescreening.com/blog/what-is-self-sovereign-identity-verification-and-how-is-it-changing-background-screening) Corporate Screening
   > self-sovereign identity verification, one of the game-changing [background screening trends of 2021](https://www.corporatescreening.com/2021-trends-interactive-infographic). When combined with screening activities, self-sovereign identity solutions offer opportunities to obtain more accurate candidate background data and deliver it to employers faster.
-* [Rambling – Do I Need a Credential?](https://www.continuumloop.com/rambling-do-i-need-a-credential/) Continuum Loop
-  > I am a Professional Engineer, which in Canada, is a regulated profession. That means I am formally credentialed. The tech that I am issues comprises of a rubber stamp and an ink pad. Yup – very high tech…
-* [Can SSI Safeguard your Information from Hackers?](https://academy.affinidi.com/can-ssi-safeguard-your-information-from-hackers-1b256d3eb6cd)
+
+## Security
+* [Can SSI Safeguard your Information from Hackers?](https://academy.affinidi.com/can-ssi-safeguard-your-information-from-hackers-1b256d3eb6cd) Affinidi
   > The cryptography used is called the Public Key Infrastructure (PKI) that comprises a pair of public and private keys where the holder keeps the private keys, but shares the public keys.
 
-* [Julian Wilson: Self-Sovereign Data meets Open Banking](https://mastersofprivacy.com/julian-wilson-self-sovereign-data-meets-open-banking/)
-
-Julian Wilson began his career at Apple in the late 80s [...] joined Ecospend in 2019 to build a self-sovereign data service on top of an Open Banking platform. He describes his role as putting an Internet lens onto product design.
-* [The Digital Product Passport: Tracking Data Throughout the Entire Lifecycle.](https://trust-trace.com/en/the-digital-product-passport/%23new_tab)
-
-In the real estate industry, TRUST&TRACE can be used by companies to obtain required compliance information from a network of participating companies. In this way, all property data is collected step by step: from building construction and leasing to sale and demolition.
-
-### KYC
-* [The missing link: digitizing supply chains with portable data](https://medium.com/mavennet/the-missing-link-digitizing-supply-chains-with-portable-data-583b66acc9bc) Mavnet
-
-
-* [Mattereum & UNION: Risk Protection for the Digital-Physical Economy](https://medium.com/humanizing-the-singularity/mattereum-union-risk-protection-for-the-digital-physical-economy-628371e4cf8a)
-
-Here’s a brief overview of the DeFi insurance landscape, UNION’s unique approach to risk protection, and how the UNION and Mattereum integration will work in practice.
-
-* [Decentralizing and Securing Collectible Card Grading Services with the Mattereum Protocol](https://medium.com/humanizing-the-singularity/decentralizing-and-securing-collectible-card-grading-services-with-the-mattereum-protocol-ead040351c2)
-
-Avoid costly industry deadlocks and gatekeeping with a peer-produced, decentralized alternative to centralized collectible grading and authentication services with the Mattereum Protocol
-
-* [SSI for NFTs, Offline and Connectionless Use Cases, NFC Chip Cards and More with Caspar](https://anchor.fm/ssi-orbit-podcast/episodes/12---SSI-for-NFTs--Offline-and-Connectionless-Use-Cases--NFC-Chip-Cards-and-More-with-Caspar-Roelofs-e119ime) SSIOrbit
-* [An SSI Based System for Incentivized and Self-determined Customer-to-Business Data Sharing in a Local Economy Context](https://idunion.org/2021/05/21/an-ssi-based-system-for-incentivized-and-self-determined-customer-to-business-data-sharing-in-a-local-economy-context/) IdUnion ([paper](https://idunion.org/wp-content/uploads/2021/05/ETEMS_2020___Self_Sovereign_Identitiy_in_a_Smart_City___Full_Paper7.pdf)
-
-Self  Sovereign  Identity  (SSI) provides  the  technical  building  blocks  to  create  decentralized data-driven  systems,  which  bring  data  autonomy  back  to  the users. In this paper we propose a system in which the combination of SSI and token economy based incentivisation strategies makes it  possible  to  unlock  the  potential  value  of  data-pools  without compromising  the  data  autonomy  of  the  users.
-
-* [Self Sovereign Identity/Decentralised Identity and Financial Services Webinar — A Synopsis](https://academy.affinidi.com/self-sovereign-identity-decentralised-identity-and-financial-services-webinar-a-recap-f5cecfb8b45c)
-
-September 2nd, 2021 was a big day for all of us in the Global Developer Ecosystem (GDE) team of Affinidi as we geared to host our first [webinar on Self Sovereign Identity/Decentralised Identity and Financial Services](https://youtu.be/kR0IGOqmEwI) with Varsha Jagdale (General Manager of Financial Services at Affinidi) and Joseph Thompson (CEO of AID:Tech) as the speakers.
-
+## Finance
+* [Julian Wilson: Self-Sovereign Data meets Open Banking](https://mastersofprivacy.com/julian-wilson-self-sovereign-data-meets-open-banking/) Masters of Privacy
+  > Julian Wilson began his career at Apple in the late 80s [...] joined Ecospend in 2019 to build a self-sovereign data service on top of an Open Banking platform. He describes his role as putting an Internet lens onto product design.
+* [Self Sovereign Identity/Decentralised Identity and Financial Services Webinar — A Synopsis](https://academy.affinidi.com/self-sovereign-identity-decentralised-identity-and-financial-services-webinar-a-recap-f5cecfb8b45c) Affinidi
+  > September 2nd, 2021 was a big day for all of us in the Global Developer Ecosystem (GDE) team of Affinidi as we geared to host our first [webinar on Self Sovereign Identity/Decentralised Identity and Financial Services](https://youtu.be/kR0IGOqmEwI) with Varsha Jagdale (General Manager of Financial Services at Affinidi) and Joseph Thompson (CEO of AID:Tech) as the speakers.
 * [Banking’s identity problem](https://www.globalbankingandfinance.com/bankings-identity-problem/) Global Banking and Finance
+  > Banks have sought to overcome some of these challenges with the use of biometrics such as facial recognition and fingerprints.  These are now more commonly used to login to, or unlock devices, and increase usability, but still leave the challenge of proving the authenticity of a document wide open to abuse.
+* [Why Centralised Decentralised Finance (CeDeFi) and Self-sovereign Identity (SSI) Work Together](https://unizen-io.medium.com/why-centralised-decentralised-finance-cedefi-and-self-sovereign-identity-ssi-work-together-3dccb07f16f9) Unizen
+  > the combination of Centralised and Decentralised Finance — unites two ways of interacting with assets into one. Centralised Finance (CeFi) represents traditional entities (e.g. banks, brokers, funds), Decentralised Finance (DeFi) covers blockchain financial applications, cryptocurrencies, exchanges, decentralised payment services, etc. By merging the two, high transparency, impactful innovation, and wide adoption can be achieved.
 
-Banks have sought to overcome some of these challenges with the use of biometrics such as facial recognition and fingerprints.  These are now more commonly used to login to, or unlock devices, and increase usability, but still leave the challenge of proving the authenticity of a document wide open to abuse.
+## Collectibles
+* [Decentralizing and Securing Collectible Card Grading Services with the Mattereum Protocol](https://medium.com/humanizing-the-singularity/decentralizing-and-securing-collectible-card-grading-services-with-the-mattereum-protocol-ead040351c2)
+  > Avoid costly industry deadlocks and gatekeeping with a peer-produced, decentralized alternative to centralized collectible grading and authentication services with the Mattereum Protocol
 
-* [ForgeRock goes public](https://ludopoitou.com/2021/09/16/we-did-it/)
+## Customer-to-Business Data Sharing \ Smart City
+* [An SSI Based System for Incentivized and Self-determined Customer-to-Business Data Sharing in a Local Economy Context](https://idunion.org/2021/05/21/an-ssi-based-system-for-incentivized-and-self-determined-customer-to-business-data-sharing-in-a-local-economy-context/) IdUnion ([paper](https://idunion.org/wp-content/uploads/2021/05/ETEMS_2020___Self_Sovereign_Identitiy_in_a_Smart_City___Full_Paper7.pdf)
+  > Self Sovereign Identity (SSI) provides the technical building blocks to create decentralized data-driven systems, which bring data autonomy back to the users. In this paper we propose a system in which the combination of SSI and token economy based incentivisation strategies makes it possible to unlock the potential value of data-pools without compromising the data autonomy of the users.
 
-Today is an huge milestone for ForgeRock. We are becoming a public company, with our stock publicly traded under the “FORG” symbol, at the New York Stock Exchange.
-* [On solving the worldwide shipping crisis](https://blogs.harvard.edu/doc/2021/10/15/shipping/) Doc Searls
 
-“The supply chain is essentially in the hands of the private sector,” a White House official told Donna Littlejohn of the Los Angeles Daily News, “so we need the private sector…to help solve these problems.” But Biden has brokered a deal among the different stakeholders to end what was becoming a crisis.
 
-* [It's been 15 years of Project VRM: Here's a collection of use cases and requirements identified over the years](https://reb00ted.org/tech/20211011-vrm-use-cases/) rebooted
-
-I categorize them by the stage of the relationship between customer and vendor:
-
-Category 1: Establishing the relationship
-
-What happens when a Customer or a Vendor wishes to initiate a relationship, or wishes to modify the terms of the relationship.
-
-* [Top 5 Most Interesting NFT Use Cases (Part 1)](https://europechain.io/nft/interesting-nft-use-cases-part-1/) Europechain
-
-From racehorses to virtual sushi: a dizzying NFT panoply
-* [Why Machines Need Self-Sovereign Identities](https://www.peaq.com/blog/why-machines-need-self-sovereign-identities) Peaq
-
-As the world becomes even more connected and more machines are hooked up to the internet, the ability for machines to move, trade and interact securely and efficiently becomes increasingly important to life and business. Today’s centralized networks do not enable this. Machines today exist on closed, permission-based environments which massively limit which other machines can be interacted with, what machines can do and where they can go.
+### Sorting
 
 * [Is the biggest tech change for travel since the internet and mobile the shift to self-sovereign identity tech?](https://centreforaviation.com/analysis/video/is-the-biggest-tech-change-for-travel-since-the-internet-and-mobile-the-shift-to-self-sovereign-identity-tech-1594) CAPA TV
 
@@ -104,10 +104,6 @@ A decentralized network using a blockchain-based distributed ledger means you ca
 
 Bosch researcher Christian Borman explains how SSI will not only increase privacy but also have a positive impact on B2B interactions and supply chain management. Meanwhile, Geoff meets mentalist Thorsten Havener. Will he reveal Geoff’s true identity? Inspired by this, Shuko presents some crypto magic…
 
-* [Ep. 146 – Self-Sovereign Identity and IoT – insights from the Sovrin Foundation](https://insureblocks.com/ep-146-self-sovereign-identity-and-iot-insights-from-the-sovrin-foundation/) Insureblocks
-
-we discussed the white paper he authored on [Self Sovereign Identity and IoT](https://sovrin.org/library-iot/). To explain the opportunities SSI can provide to IoT, Michael introduces us to three profiles: Jamie (machine to person), Bob (machine to machine) and Bessie the cow (digital twin).
-
 * [Can SSI Disrupt Surveillance Capitalism?](https://academy.affinidi.com/can-ssi-disrupt-surveillance-capitalism-5c8cd6b50278) Affinidi
 
 Are these advantages enough to disrupt surveillance capitalism? Do you think SSI is the antidote for today’s Internet identity problems and surveillance capitalism? Please share your thoughts with us.
@@ -118,9 +114,6 @@ CULedger is now [Bonifii](https://bonifii.com/)! Delivering a trusted peer-to-pe
 
 At the heart of CyberConnect is a tamper-proof data structure that efficiently facilitates the creation, update, query and verification of user-centric data. Long-term data retention on CyberConnect is guaranteed through Ceramic’s blockchain anchoring and a custom data pinning service.
 
-* [Verifiable Credentials set to Revolutionize Health and Safety Compliance](https://blog.dock.io/verifiable-credentials-set-to-revolutionize-health-and-safety-compliance/) Dock
-
-By integrating with Dock and utilizing verifiable credentials, the process of verifying a workers qualifications goes from analysing paper-based certificates and calling each educational body to certify the legitimacy of it, to having the accreditations sitting in a tamper-proof digital wallet, with a digital signature signature from the issuing body certifying the legitimacy.
 
 * [Building a digital trust ecosystem for mining in British Columbia](https://www.ibm.com/blogs/blockchain/2021/11/building-a-digital-trust-ecosystem-for-mining-in-british-columbia/) IBM
 
@@ -159,9 +152,6 @@ This rapid digitalization of the private sector exposed a challenge in the busin
 
 In November 2021, GLEIF partnered with Contour, a global network of banks, corporates and trade partners working together to revolutionize the trade finance industry by removing barriers to entry. The partnership enables the use of Legal Entity Identifiers (LEIs) within Contour’s platform and puts digital identity at the heart of its proposition.
 
-* [Self-Sovereign Identity and Blockchain in the Healthcare Industry](https://knowledge.wealize.digital/en/blog/blog/ssi-at-healthcare-industry) Wealize Digital
-
-Healthcare is a key case-use of the SSI model employing blockchain given the significance and scalability of this sectoral. In this article, we give you details about a pilot project developed for the Andalusian Health Service in Spain to evidence the feasibility of a vaccination card according to the Alastria Self-Sovereign Identity system based on Blockchain technology.
 
 * [Is SSI the Disruptor for a Better World?](https://academy.affinidi.com/is-ssi-the-disruptor-for-a-better-world-aec34cef6275) Affinidi
 
@@ -194,11 +184,7 @@ When this comes to fruition – and not if, but when – it will be a transforma
 * [Businesses’ desire to store less digital identity data stokes travel’s SSI brushfire](https://www.biometricupdate.com/202201/businesses-desire-to-store-less-digital-identity-data-stokes-travels-ssi-brushfire) BiometricUpdate
 
 The potential use cases for self-sovereign identity to transform the travel industry are almost limitless, particularly with the impending arrival of [decentralized identifier communications](https://decentralized-id.com/organizations/decentralized-identity-foundation/wg/did-comm/), also known as DIDComm, attendees of a [PhocusWire](https://www.phocuswire.com/how-ssi-eliminates-friction-adds-control-for-travelers) roundtable discussion on the role of SSI in the future of identity and travel at the Phocuswright Conference 2021 heard from an panel of digital identity experts.
-* [TheirCharts](https://blogs.harvard.edu/doc/2022/01/15/theircharts/) Doc Searls
 
-If you’re getting health care in the U.S., chances are your providers are now trying to give you a better [patient experience](https://www.epic.com/software%23PatientEngagement) through a website called MyChart.
-
-This is supposed to be yours, as the first person singular pronoun My implies. Problem is, it’s TheirChart.
 
 * [Spherity is Partnering with Legisym Offering Joint Compliance Product for the U.S. Life Sciences Marke](https://medium.com/spherity/spherity-is-partnering-with-legisym-offering-joint-compliance-product-for-the-u-s-cbf9fd5a217) Spherity
 
@@ -232,18 +218,10 @@ This solution allows users to prove that they are vaccinated for different patho
 
 avatars (the visualisation of self-sovereign identities) go beyond simply providing users with further ownership and control over their cryptographically secure identities, by offering an end-to-end application ecosystem designed to facilitate the commerce and exchange of digital and physical services
 
-* [These vending machines sell internet access five minutes at a time: For many Filipinos, coins are the currency of the internet](https://restofworld.org/2022/philippines-pisonet-internet-access/) ResofWorld
-
-Gatekeeping of internet access is a fact of life in the Philippines, where the market is shaped by the telecommunications duopoly. President Rodrigo Duterte threatened to seize the telco giants, Globe and PLDT, if they didn’t improve their service by the end of 2020. Like much of his bluster, though, the threat has failed to have an effect.
-
 * [Can Verifiable Credentials Make Life Better for Refugees?](https://academy.affinidi.com/can-verifiable-credentials-make-life-better-for-refugees-ea887300f18d) Affinidi
 
 Let’s say Mr.X is forced out of his country due to war and he reaches the neighboring country but doesn’t have any physical document to prove his identity such as name, address, educational qualifications, work experience, etc.
 
-
-* [An automatized Identity and Access Management system for IoT combining SSI and smart contracts](https://arxiv.org/pdf/2201.00231.pdf) Montassar Naghmouchi, Hella Kaffel, and Maryline Laurent
-
-This paper proposes a blockchain-based identity and access management system for IoT – specifically smart vehicles- as an example of use-case, showing two interoperable blockchains, Ethereum and Hyperledger Indy, and a self-sovereign identity model.
 
 * [CONNECTED IMPACT Unlocking Education and Workforce Opportunity Through Blockchain](https://www.acenet.edu/Documents/ACE-Education-Blockchain-Initiative-Connected-Impact-June2020.pdf?fbclid%3DIwAR22cl_g-DzoZOEBStwKhrsuQpqqA66ZyZhKdd_4NmER2GyDMXbatuUsUuw) ACE
 
@@ -266,10 +244,6 @@ In 2018, I was trying to open a bank account in my home town of Mutare, Zimbabwe
 * [Countering Marketplace Deception with Mattereum’s Trust-as-a-Service Platform](https://medium.com/humanizing-the-singularity/countering-marketplace-deception-with-mattereums-trust-as-a-service-platform-2615dc2c47be)
 
 Marketplace deception is everywhere, at great cost and risk to consumers and businesses. Regulation alone won’t fix it. Can Mattereum Asset Passports and Product Information Markets help secure trust in B2B and B2C trade?
-
-* [The Future of Healthcare Relies on Adaptation](https://auth0.com/blog/the-future-of-healthcare-relies-on-adaptation/) auth0
-
-Most healthcare organizations are and should be, focused on their core business pursuits, such as patient care or processing insurance claims. Information security and identity management is not their core business, yet is a critical factor in compliant, secure business operations.
 * [Self-sovereign identity use cases](https://blog.cheqd.io/self-sovereign-identity-use-cases-43bb03d49e13) Cheqd
 
 While self-sovereign identity (SSI) sounds like an unfamiliar concept for some, others are actively leveraging the technology to address industry-specific challenges — take the KYC trial of the [Financial Conduct Authority](https://www.evernym.com/blog/evernym-accepted-into-fca-regulatory-sandbox/) or the [IATA Travel Pass.](https://www.iata.org/en/pressroom/pr/2020-12-16-01/)
@@ -301,10 +275,6 @@ featuring folks from MSFT, GSM, and Michael Becker. The video looks at the range
   > - Require enabling anonymous complaints.
   > - Require remote/proxy verification.
   > - Require complying holder agent.
-
-* [Confidential exchanges and the sharing of sensitive data: a major problem in business](https://translate.google.com/translate?sl%3Dauto%26tl%3Den%26u%3Dhttps://www.unikname.com/les-echanges-confidentiels-et-le-partage-de-donnees-sensibles-une-problematique-majeure-en-entreprise/)
-
-if a crypto-account acquires an NFT UNIKNAME, the DID attached to it will totally control this NFT . The NFT UNIKNAME is a random-looking character string to which properties can be attached. The characters actually encode an obscured form of a human-memorable identifier.
 * [Groundwork laid for mass digital identity take up as use cases grow](https://www.biometricupdate.com/202108/groundwork-laid-for-mass-digital-identity-take-up-as-use-cases-grow) Biometric update
 
 Identos is adding W3C (World Wide Web Consortium) verifiable credentials as a product feature for its digital ID solutions by the end of the year, announcing its position in the race to incorporate international standards for how digital credentials – from health records to degree certificates – are stored and verified.
@@ -319,13 +289,7 @@ So, how does SSI fit into this traditional real-estate sector?
 
 Enabling Australian FinTechs a direct avenue to discuss how they partner and collaborate to access the eftpos payments network through the Committee resulted in recommendations that covered a number of central themes, including consultation and engagement, regulation, and technology and solutionsBen Tabell, eftpos Chief Information Officer and Committee Chair
 
-* [Digital Twins and Self-Sovereign Identity: Build the next generation of Simulation with privacy preservation](https://iotpractitioner.com/digital-twins-and-self-sovereign-identity-build-the-next-generation-of-simulation-with-privacy-preservation/) IOT Practicioner
 
-The rise in the use of advanced analytics, machine learning (ML) and Artificial Intelligence (AI) and the Internet of Things (IoT) today have driven the technology of simulation into the concept of the digital twin. Digital twins are generally defined as a virtual digital model of a physical system that is used to make better decisions about the real world physical system. Digital twins are usually intertwined with sensors and include a two-way interaction between the physical and digital twin.
-
-* [Why Centralised Decentralised Finance (CeDeFi) and Self-sovereign Identity (SSI) Work Together](https://unizen-io.medium.com/why-centralised-decentralised-finance-cedefi-and-self-sovereign-identity-ssi-work-together-3dccb07f16f9) Unizen
-
-the combination of Centralised and Decentralised Finance — unites two ways of interacting with assets into one. Centralised Finance (CeFi) represents traditional entities (e.g. banks, brokers, funds), Decentralised Finance (DeFi) covers blockchain financial applications, cryptocurrencies, exchanges, decentralised payment services, etc. By merging the two, high transparency, impactful innovation, and wide adoption can be achieved.
 
 * [Self-Sovereign Identity for Online Gaming, VR, & AR – Crucible](https://identity-economy.de/self-sovereign-identity-for-online-gaming-vr-ar-crucible) Evernym (via identity-economy.de)
 
@@ -354,9 +318,6 @@ The goal of this project is to provide unencumbered access to digital content an
 
 We had [four insightful presentations](https://digitalidentity.nz/wp-content/uploads/sites/25/2021/08/Digital-and-Cyber-Risk-Beyond-2020.pdf), given by Jono Soo ([Marsh NZ](https://www.marsh.com/nz/services/cyber-risk.html)), Jonathon Berry ([InPhySec](https://www.inphysecsecurity.com/)), Andy Prow ([Red Shield](https://www.redshield.co/)) and Paul Platen ([SSS](https://www.sss.co.nz/)) which provided a deep-dive into what has been going on in the world of cyber security and insurance
 
-* [How decentralised identity & verifiable credentials will transform the world of healthcare](https://www.htworld.co.uk/insight/decentralized-identity-verifiable-credentials-healthcare/) HealthTech World
-
-When a medical accrediting agency provides a digitally signed certificate, the healthcare practitioner and owner of that certificate holds the credential in a digital wallet. The details of the credential such as the time stamp in which the certificate was given and how long it is valid for, can be optionally held within a blockchain network, digitally linked to the certificate, this process is called ‘anchoring’.
 
 * [How Credit Unions Use Verifiable Credentials with Members with John Ainsworth](https://northernblock.io/how-credit-unions-use-verifiable-credentials-with-members/) Northern Block
 
@@ -513,16 +474,9 @@ This month, Gravity joined some of the largest international NGOs in the world t
 The report [Emerging Trends in Real Estate in Europe 2021](https://bit.ly/2Smqj8x), prepared by PwC and Urban Land Institute (ULI), presents a sector in full transformation. It also shows how the pandemic has accelerated the use of technology and the implementation of trends such as remote working and the digitisation of processes.
 
 * [A Holochain DocuSign Challenge](https://blog.holochain.org/a-holochain-docusign-challenge/)
-
-* [Frontier Talk #3 | Dr. Carsten Stöcker - Decentralizing Provenance in an Industry 4.0 World](https://www.kuppingercole.com/watch/frontier-talk-podcast-3-decentralized-provenance)
-
-In this episode, Raj Hegde sits down with Dr. Carsten Stöcker, Founder & CEO of Spherity to understand how #decentralized identity is transforming the end-to-end supply chain lifecycle.
-
-Tune in to this episode to explore the increasingly important role of provenance in helping build a better world and learn about the intersection of exciting concepts such as non-fungible tokens (NFTs) and decentralized identifiers (DIDs).
 * [Use Case: American Electric Power](https://idramp.com/use-case-american-electric-power/)
   > What kind of strategy will take you to being a next-generation utility company? For AEP Ohio, a large electric utility company based in Columbus, this challenge began with a comprehensive review of their entire ecosystem and which identified their key pain points for innovation.
-* [Recap: OECD Forum on Responsible Mineral Supply Chains](https://peerledger.medium.com/recap-oecd-forum-on-responsible-mineral-supply-chains-b5c8c63f5e41)
-  > What kind of strategy will take you to being a next-generation utility company? For AEP Ohio, a large electric utility company based in Columbus, this challenge began with a comprehensive review of their entire ecosystem and which identified their key pain points for innovation.
+
 
 * [5 Promising Use Cases for Verifiable Credentials](https://hackernoon.com/5-promising-use-cases-for-verifiable-credentials-tu1y348k) - Hackernoon
   > verifiable credentials promise to appear in our daily lives in the not-too-distant future.
@@ -556,8 +510,6 @@ Tune in to this episode to explore the increasingly important role of provenance
 
 * [Digital Identity Isn’t Only For People](https://www.forbes.com/sites/davidbirch/2020/12/22/digital-identity-isnt-only-for-people/) David Birch, Forbes
   > fintechs and regtechs looking for opportunities in the digital identity space should cast their ideas net pretty wide. Digital identities are not only for people and the future desperately needs digital identities for pretty much everything to underpin recognition, relationships and reputation (the 3Rs of the online economy).
-* [@debimr75](https://twitter.com/debimr75/status/1347915348293533699) shares
-  > Now Animals too can have their own #decentralizedidentity to help them send their status updates to the rightful owner from their #IoT devices. #Decentralized #digitalidentity for #IoT devices would lead to #SmartFarming
 * [Impacts from a new reality drive the need for an enhanced digital identity framework](https://bankautomationnews.com/allposts/risk-security/impacts-from-a-new-reality-drive-the-need-for-an-enhanced-digital-identity-framework/) Bank Automation News
 
 While US-based entities are adhering to an enhanced regulatory framework, these mandates are particularly applicable in Europe, where there is necessary compliance with enacted standards (such as the General Data Protection Regulation—commonly known as GDPR—and the Payment Service Providers Directive 2—referred to as PSD2. A clear need for a true and persistent digital identity as a solution to the ancillary—and sometimes unforeseen—challenges that have arisen.
@@ -572,24 +524,11 @@ In the payment card world, there are clear guidelines on personal liability. $50
 
 However, no such guidelines exist for the use of identity information (e.g. attributes.)
 
-* [Unlocking the Value of Verifiable Credentials in the Health Sector](https://www.affinidi.com/post/unlocking-the-value-of-verifiable-credentials-in-the-health-sector) Affinidi
-
-- Digital Infrastructure for Vaccination Open Credentialing (DIVOC) - This is an open-source platform that enables countries to digitally orchestrate country-wide health campaigns such as vaccinations and certifications.
-- EU Digital COVID Certificate (EU-DCC) - This specification allows EU citizens and residents to have their digital health certificates issued and verified across the EU.
-- Smart Health Card (SHC) - This initiative encourages the development of open standards and technologies to connect people with their health data. Led by Microsoft, Vaccination Credential Initiative (VCI), The Commons Project, and The MITRE Corporation, SHCs are seeing wide adoption across North America.
-- International Civil Aviation Organisation - Visible Digital Seal (ICAO-VDS) - This is a travel document verification to re-establish travel and trade through aviation.
 
 * [RMIT future-proofs the university-to-student connection with verifiable credentials in Azure Active Directory](https://customers.microsoft.com/en-au/story/1481006006183422060-rmit-university-higher-education-azure-active-directory)
 
 Compatibility with open standards is key to optimizing innovation. “We consider this solution part of a bigger ecosystem that will connect and cooperate with other ecosystems,” adds Radhakrishnan. “We’re exploring linking student credentials to the transportation authorities in Victoria and Melbourne to provide students with discounts on those systems. Microsoft embracing open-source technologies opens possibilities like these.”
 
-* [Technical Design and Development of a Self-Sovereign Identity Management Platform for Patient-Centric Healthcare Using Blockchain Technology](https://blockchainhealthcaretoday.com/index.php/journal/article/view/196%23.Yjkahet3YEM.twitter) Blockchain Healthcare Today
-
-To manage patient’s self-sovereign identity, we leveraged the Hyperledger Indy blockchain framework to store patient’s decentralized identifiers (DIDs) and the schemas or format for each credential type. In contrast, the credentials containing patient data are stored “off-ledger” in each person’s wallet and accessible via a computer or smartphone. We used Hyperledger Aries as a middleware layer (API) to connect Hyperledger Indy with the front-end, which was developed using a JavaScript framework, ReactJS (Web Application) and React Native (iOS Application).
-
-* [The Human Colossus Foundation will present its Dynamic Data Economy -DDE concept at the DIA conference in Brussels](https://humancolossus.foundation/blog/dde-dia)
-
-Promising advances in digital personal health empower patients. Technologically, we could shift from symptom based intervention to prevention and early treatment.  But advanced innovations also generate debates on trust in sharing intrusive data and regulatory compliance. You can find details regarding our panel presentation [here](https://www.diahome.org/en/conference-listing/meetings/2022/03/dia-europe-2022/agenda/29/precision-prevention-in-a-dynamic-data-economy?ref%3DPrecisionPreventioninaDynamicDataEconomy).
 * [ID Verification Threats On the Horizon](https://stateofidentity.libsyn.com/id-verification-threats-on-the-horizon) Liminal Podcasts
 
 Cognito's CEO Alain Meier joins the State of Identity host Cameron D’Ambrosi to dive into why industries beyond financial services are now in the market for identity verification. They also unpack the impact of synthetic identity fraud across verticals, and how platforms find the balance when building their onboarding processes.
@@ -636,9 +575,6 @@ Travel
 
 * [Op Ed: Sam Hilgendorf On The Role Of Self-Sovereign Identification In Travel](https://www.thecompanydime.com/sam-hilgendorf-self-sovereign-identification/)
 
-Healthcare
-
-* [Technical Design and Development of a Self-Sovereign Identity Management Platform for Patient-Centric Healthcare Using Blockchain Technology](https://www.blockchainhealthcaretoday.com/index.php/journal/article/view/196)
 * [Survey: How Do You Use Your Identity at Work?](https://findbiometrics.com/survey-how-do-you-use-your-identity-at-work/) FindBiometrics
 
 The COVID-19 pandemic rapidly shifted the way we work, coinciding with digital transformation trends that depend on strong identity assurance. Hybrid workplaces are more common, as is completely remote work
@@ -647,17 +583,12 @@ The COVID-19 pandemic rapidly shifted the way we work, coinciding with digital t
 
 Kelsie Nabben, Researcher, RMIT on Data Trusts, DAOs and use cases of the Data Economy in DAOs [...] Kelsie is interested in the human outcomes of digital infrastructure, blockchain community culture, and algorithmic governance.
 
-* [Case study: Gravity digital ID solution enables vulnerable migrants in Kenya to receive consistent healthcare services](https://medium.com/gravity-earth/case-study-gravity-digital-id-solution-enables-vulnerable-migrants-in-kenya-to-receive-consistent-713a78f9e0d8) Shiyao Zhang
-
-Since 2019, Gravity has been providing decentralized identity solutions for the [Dignified Identities for Cash assistance project](https://hiplatform.org/digid). The first phase was implemented by KRCS to meet the needs of the vulnerable populations without official IDs
+[Dignified Identities for Cash assistance project](https://hiplatform.org/digid). The first phase was implemented by KRCS to meet the needs of the vulnerable populations without official IDs
 
 * [Coinfirm Adds Close To 1 Million Tokens To AML Platform, Offering Full Coverage](https://www.coinfirm.com/blog/1-million-tokens-aml-crypto/)
 
 LONDON, United Kingdom –  In the largest update of protocol coverage in Coinfirm’s history, the firm has added support for 840,361 new tokens to the AML Platform, offering total digital asset coverage of 17 blockchains. Now, the company’s industry-recognized blockchain agnostic AML Platform supports ~846 thousand cryptocurrencies and tokens.
 
-* [Trust but Verify](https://stateofidentity.libsyn.com/trust-but-verify) Liminal Podcasts
-
-Peter Padd, Co-Founder & CEO at Fortifyedge shares how he's built Zero Trust authentication software that provides IoT device OEM's with password-free authentication utilizing Tiny Machine Learning at the edge.
 
 * [AERGO Labs: Funding The Future](https://medium.com/aergo/aergo-labs-funding-the-future-4d195c79858c)
 
@@ -708,9 +639,6 @@ while SSI principles incorporate similar notions to the provisions and principle
 
 1/ Can [QUIC](https://www.akamai.com/blog/news/the-next-generation-of-http) use DIDComm as a Handshake protocol instead TLS1.3? The spec provides enough abstraction for the session handling, and most crypto operations are the same. The main difference is the trust architecture and model: certificate chain vs DID Documents.
 
-* [Identity Terms Provide Value along the Supply Chain: How We Know When to Buy the Farm](https://medium.com/@Transmute/identity-terms-provide-value-along-the-supply-chain-how-we-know-when-to-buy-the-farm-738701967e3d) Jessica Tacka, Transmute
-
-Supply chain credentialing in the form of bills of lading, certificates of origin, or letters of credit is used to protect honest parties and their merchandise from being confused with dishonest parties or entities that are engaged in unethical practices, such as environmental destruction, or forced labor.
 
 * [SSI Essentials: 35 use cases of decentralized identities that will make your life easier](https://gataca.io/blog/ssi-essentials-35-use-cases-of-decentralized-identities-that-will-make-your-life-easier)
 
@@ -726,11 +654,7 @@ Digital badges or PDF credentials lack proof of being authentic and current, and
 
 As one system begins to deteriorate, a new system begins to emerge. This got us thinking about how this model applies to the world of [Open Recognition](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629).
 
-## SSI Fixes This
 
-* [Why Location Data Brokers Put All Communities At Risk](https://me2ba.org/why-location-data-brokers-put-all-communities-at-risk/) Zach Edwards M2BA
-
-New work that may leverage decentralized ID from the supply chain side of things…but not sure (lots of links inside on data brokers harm)
 
 
 * [How LEIs streamline KYC](https://www.ubisecure.com/legal-entity-identifier-lei/lei-in-kyc/) Ubisecure
@@ -746,21 +670,13 @@ The non-transferability of verifiable credential is one of their super powers. T
 - [The impact of self-sovereign identity on the cybersecurity world](https://blog.avast.com/impact-of-self-sovereign-identity-on-cybersecurity)
 - [SSI and FIDO2: Different approaches for a passwordless world](https://blog.avast.com/ssi-fido2)
 - [Can digital identity help with the world refugee crisis?](https://blog.avast.com/digital-identity-world-refugee-crisis)
-* [Verifiable Credential Solution to Health Data Sharing](https://indicio.tech/the-verifiable-credential-solution-to-health-data-sharing/) Indicio
 
-In proving that tamper-proof health data could be issued to travelers by their health providers and be verified by airlines and other countries without having to check back in with the health provider, Cardea has laid the foundation for something much bigger than Covid testing. Verifiable credential technology provides a way for all kinds of health data to be shared in a privacy-preserving and security-enhanced way.
 
 * [GLEIF – Standardizing Legal Entity Verification (with Karla McKenna)](https://northernblock.io/gleif-standardizing-legal-entity-verification-with-karla-mckenna/) Northern Block
 
 I see what we’re doing in self-sovereign identity as further reducing the costs of business/transactions. And this incremental value value is achieved by reducing trust costs across silos.
 
-* [A Digital Staff Passport for hospital facilities, DIZME voted best solution at SHACK22 hackathon](https://infocert.digital/a-digital-staff-passport-for-the-safe-mobility-of-staff-in-hospital-facilities-dizme-has-been-voted-as-the-best-solution-at-shack22-hackathon/) Infocert
 
-The hackathon held by INTEROPen, a leading organization to support & accelerate the delivery and adoption of Interoperability Standards in health & social, in partnership with NHS (National Health System) was aimed at developing innovative solutions for the management of access and safe mobility of staff in hospital facilities.
-
-* [Why is Trusted Identity Important in IoT Commerce?](https://dlt.mobi/why-is-trusted-identity-important-in-iot-commerce/)
-
-The evident solution is to imbue connected entities with unique, tamper-evident, self-sovereign, [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/?mc_cid%3D1a98f7f0e4%26mc_eid%3DUNIQID), developed by the [W3C](https://www.w3.org/?mc_cid%3D1a98f7f0e4%26mc_eid%3DUNIQID), anchored in a decentralized trust network. For MOBI’s community, this is the [Integrated Trust Network, or ITN](http://dlt.mobi/itn?mc_cid%3D1a98f7f0e4%26mc_eid%3DUNIQID).
 
 * [How Self-Sovereign Identity Helps Your Enterprise](https://zaisan.io/self-sovereign-identity-enterprise/) Zaisan
 
@@ -801,9 +717,6 @@ The purpose of this project has been to showcase that advanced EV charging solut
 
 we need to figure out how to give more power to “better” actors within a given community or context, and disempower or keep out the detractors and direct opponents. All without putting a centralized authority in place.
 
-* [Visibility 2.0: Creating Digital Consistency in an International Supply Chain](https://nextlevelsupplychainpodwithgs1us.libsyn.com/visibility-20-creating-digital-consistency-in-an-international-supply-chain) Next Level Supply
-
-how can something as complicated as the international supply chain take fundamental trade practices and marry them with innovation so we can move at the speed of digitization? Join us for a mind-blowing discussion with Karyl Fowler, CEO at Transmute
 
 * [It’s time for digital self-sovereign identity](https://gcn.com/emerging-tech/2022/08/its-time-digital-self-sovereign-identity/375285/) GCN
 
@@ -813,26 +726,13 @@ the implementation of granular security measures to protect that data creates tr
 
 we invite you to build hyperstructures with us with focus on NFTs, on-chain music ecosystems, a new generation of DAOs and Zora’s vast ecosystem of tools and smart contracts.
 
-
-* [Identity in the Supply Chain - Vienna Digital Identity #30](https://vimeo.com/669713750)
-
-In this edition of the Vienna Digital Identity Meetup we open our 4th year with a couple presentations and a discussion on how Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs) are starting to make inroads and impact in the global supply chain. GS1 is the global association for supply chain identifiers with members across all industry sectors and interacting (unbeknownst) with general consumer on a daily basis. Transmute a foundational member of the DID/VC community and a participant in the US DHS Silicon Valley Innovation Program’s cross-border shipping use case.
-
-Slide Decks:
-
-- Transmute Deck: [thedinglegroup.com/s/Transmute_Vienna-Digital-ID-Forum-Jan-2022.pdf](https://www.thedinglegroup.com/s/Transmute_Vienna-Digital-ID-Forum-Jan-2022.pdf)
-- GS1 Deck: [thedinglegroup.com/s/2022-01-24_ViennaDigitalIdentityPhilA.pdf](https://www.thedinglegroup.com/s/2022-01-24_ViennaDigitalIdentityPhilA.pdf)
-
-UNECE UN/CEFACT White Paper
-
-* [eDATA Verifiable Credentials for Cross Border Trade](https://unece.org/sites/default/files/2022-07/WhitePaper_VerifiableCredentials-CBT.pdf)
 * [How DID and SSI will Transform the Travel Experience Market](https://www.phocuswire.com/how-did-ssi-will-transform-travel-experience-market) Phocuswire
 
 Over time the evolution of DID/SSI is likely to be a travel industry game-changer, enabling travelers to manage their own personal information to maximize personal economic effect and protect personal privacy.
 
 The DID/SSI effort is already gaining a foothold in the banking and medical industries. Like travel, these are sectors that need to engage with consumers of all types en masse while requiring proof of identity prior to the certified exchange of digital documents.
 
-Energy Systems
+## Energy Systems
 
 * [Digital identities – building block for an automated energy system](https://www.smart-energy.com/digitalisation/digital-identities-building-block-for-an-automated-energy-system/) Smart Energy
 
@@ -842,7 +742,7 @@ New features include credential revocation and expiration, full support for role
 
 At Energy Web we believe self-sovereign identity (SSI) will become a fundamental pillar of the energy transition, enhancing interoperability and strengthening security for billions of assets, organizations, and customers.
 
-Travel
+## Travel
 
 * [WHY THE TRAVEL INDUSTRY SHOULD CARE ABOUT SSI AND DID](https://www.phocuswire.com/why-travel-should-care-about-self-sovereign-decentralized-id) PhocusWire
 
@@ -881,7 +781,6 @@ Trying to ban or sideline bots is not a solution. The solution is to distinguish
 
 Too often, though, these badges focus on credentialing rather than recognition. Open Recognition is the awareness and appreciation of talents, skills and aspirations in ways that go beyond
 
-* [Self-Sovereign Digital Twins](https://dlt.mobi/self-sovereign-digital-twins/) MOBI
 
 * [OpenEarth partners with BCGov to develop a digital trust marketplace for climate accounting](https://www.openearth.org/blog/openearth-partners-with-the-government-of-british-columbia-to-develop-a-digital-trust-marketplace-for-climate-accounting) OpenEarth Foundation
 
@@ -926,27 +825,10 @@ using verifiable credentials in their wallet.
 
 Biometrics Update running a series by cheqd CEO Fraser Edwards
 
-Supply Chain
 
-* [Transmute @TransmuteNews](https://twitter.com/TransmuteNews/status/1572692362148847619) via Twitter
 
-The "[[Fake] 30TB hard drive](https://www.vice.com/en/article/akek8e/walmart-30tb-ssd-hard-drive-scam-sd-cards)" investigation shows the real impact verification could have on [#eCommerce](https://twitter.com/hashtag/eCommerce). [#verifiablecredentials](https://twitter.com/hashtag/verifiablecredentials)
 
-* [The Phygital Future of the Supply Chain](https://nextlevelsupplychainpodwithgs1us.libsyn.com/the-phygital-future-of-the-supply-chain) Next Level Supply Chain Podcast with GS1
 
-The digital and physical world are merging more than ever before. As the supply chain becomes more ‘phygital,’ innovative ways of sharing data – like using verifiable credentials – are helping to build more trust with data along the supply chain. Join us as we chat with Senior VP of Innovation & Partnerships at GS1 US, Melanie Nuce, as we explore what’s around the corner and how standards play
-
-* [Open API for Interoperable Traceability](https://w3c-ccg.github.io/traceability-interop/openapi/%23overview) CCG
-
-CLIENT CREDENTIALS FLOW
-
-Auth URL https://example.com/authorize
-
-Token URL https://example.com/oauth/token
-
-Scopes
-
-resolve:dids - Grants permission to resolve DIDsissue:credentials - Grants permission issue Verifiable Credentialsverify:credentials - Grants permission verify Verifiable Credentialsread:credentials - Grants permission to get Verifiable Credentialsupdate:credentials - Grants permission to update the status of Verifiable Credentialsprove:presentations - Grants permission to prove Verifiable Presentationsverify:presentations - Grants permission verify Verifiable Presentationssubmit:presentations - Grants permission to submit Verifiable Presentations
 
 * [EricTang.eth](https://twitter.com/ericxtang/status/1575645620659900417) Twitter
 
@@ -964,19 +846,14 @@ Most Refugees and IDPs did not have the time to properly prepare by gathering al
 
 Until now, we relied on physical id document such as ID cards [driving licenses to identify](https://www.idnow.io/mobility/driver-license-verification/) ourselves in the real world as well as online. Digital attributes and credentials were solely used online. Digital identity wallets, like the [IDnow Wallet](https://www.idnow.io/products/identity-wallet/), are about to change that, as they are simultaneously addressing our digital and real-world requirements by bringing physical and digital credentials together.
 
-* [How to Prevent Supply Chain Fraud With Blockchain](https://www.dock.io/post/supply-chain-fraud-blockchain) Dock
 
-The global [supply chain management market size](https://www.prnewswire.com/news-releases/supply-chain-management-scm-market-size-worth--19-3-billion-globally-by-2028-at-9-02--cagr-verified-market-research-301540702.html) was valued at USD 10.1 Billion in 2020 and is projected to reach USD 19.3 Billion by 2028. Supply chain is the path for any product such as food, clothes, or appliances to go from where it was a produced, to distributors, procurement officers (quality inspections), and the market.
 
-* [Battery Passport and the Battery Self-Sovereign Digital Twin](https://dlt.mobi/battery-passport-the-battery-ssdt/) Mobi
-
-Similarly, a [battery passport](https://dlt.mobi/battery-passport) is nothing but a presentation of data points about a particular battery – who manufactured it, its physical and chemical composition, its current state of health, whether it was refurbished or repurposed from another battery, and so on.
 
 * [Creating trust in assertions, claims and the authenticity of the original content](https://liccium.com/) LICCIUM
 
 * [The Block Space @theblockspaceio](https://twitter.com/theblockspaceio) via Twitter
 
-we believe that education should evolve, apadt and adopt the latest technologies available such as [#Web3](https://twitter.com/hashtag/Web3). Let's talk about why self-sovereign identity will increase the demand of educational institutions for a future in lifetime digital credentials
+we believe that education should evolve, apadt and adopt the latest technologies available such as #Web3. Let's talk about why self-sovereign identity will increase the demand of educational institutions for a future in lifetime digital credentials
 
 * [Coming soon — a resume-validating blockchain network for job seeker](https://www.computerworld.com/article/3675547/coming-soon-a-resume-validating-blockchain-network-for-job-seekers.html%23tk.rss_security) Computer World
 
