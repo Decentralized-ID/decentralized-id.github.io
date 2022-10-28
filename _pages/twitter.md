@@ -8,7 +8,7 @@ header:
   image: /images/collections.webp
   og_image: /images/weekly-tweet-collections.webp
 tags: ["DecentralizeID"]
-
+published: false
 ---
 
 Part of the backend supporting @infominer33 and @identitywoman in creating the weekly newsletter, [Identosphere Highlights](https://identosphere.substack.com).
