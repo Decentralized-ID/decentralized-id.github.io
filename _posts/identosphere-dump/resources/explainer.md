@@ -506,7 +506,7 @@ the [metasystem guarantees the fidelity of the credential exchange](https://www.
 
 * [#SSI gives its owner control over some aspects of identity, but not all](https://twitter.com/GETJolocom/status/1470791578780413953) Jolocom
 
-Connections, relationships, and third-party issued credentials are not entirely self-sovereign, nor should they be. [#JolocomAdvent](https://twitter.com/hashtag/JolocomAdvent) [#AdventCalendar](https://twitter.com/hashtag/AdventCalendar)
+Connections, relationships, and third-party issued credentials are not entirely self-sovereign, nor should they be. #JolocomAdvent #AdventCalendar
 
 
 * [What’s in Your Data Ecosystem?](https://stateofidentity.libsyn.com/whats-in-your-data-ecosystem) State of Identity

@@ -308,7 +308,7 @@ The advantage of a paper and ID card presentation ritual is that it is difficult
 
 * [Pramod Varma's message as India touches the 1 BN COVID Vaccination Certificates Milestone](https://www.youtube.com/watch?v%3DPFo7YlxUaJk) eGovernments Foundation
 
-On the occasion of the [#100CroreVaccinationCertificates](https://twitter.com/hashtag/100CroreVaccinationCertificates) milestone, [@pramodkvarma](https://twitter.com/pramodkvarma) CTO, [@eksteporg](https://twitter.com/eksteporg) shares the journey of [#DigitalPublicGood](https://twitter.com/hashtag/DigitalPublicGood) - DIVOC (Digital Infrastructure for Vaccination Open Credentialing) for vaccination credentialing
+On the occasion of the [#100CroreVaccinationCertificates](https://twitter.com/hashtag/100CroreVaccinationCertificates) milestone, [@pramodkvarma](https://twitter.com/pramodkvarma) CTO, [@eksteporg](https://twitter.com/eksteporg) shares the journey of #DigitalPublicGood - DIVOC (Digital Infrastructure for Vaccination Open Credentialing) for vaccination credentialing
 * [COVID & Travel Resources for Phocuswright](https://identitywoman.net/covid-travel-resources-for-phocuswright/) IdentityWoman.net
 
 As more and more governments adopt [major COVID certificate standards](https://www.lfph.io/2021/10/12/global-covid-certificate-landscape/) to reopen borders, the travel industry is working hard to catch up on their technology to meet the evolving travel requirements. However, there is still no shortage of complaints from travelers about their cumbersome international travel experiences.

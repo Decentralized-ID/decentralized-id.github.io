@@ -916,7 +916,7 @@ Co-located at the Conventions Center Dublin the same week is the Linux Foundatio
 * [DIDComm V 2: Implications on the future of the internet](https://www.meetup.com/indicio-identity-community/events/287904731/?_xtd%3DgatlbWFpbF9jbGlja9oAJGMwMTA3M2Q3LTExZDAtNGE1NC1iYjg0LTg1ZjBiMDM2YzRlZg) 8/30
 
 
-* [North Capital Forum](https://www.northcapitalforum.com/) by [@USMexicoFound](https://twitter.com/USMexicoFound), Sep 28-30 in Mexico City! Transmute’s Thursday afternoon panel will be "Trust and Transparency in [#Trade](https://twitter.com/hashtag/Trade): A Verifiably Digital Disruption"
+* [North Capital Forum](https://www.northcapitalforum.com/) by [@USMexicoFound](https://twitter.com/USMexicoFound), Sep 28-30 in Mexico City! Transmute’s Thursday afternoon panel will be "Trust and Transparency in #Trade: A Verifiably Digital Disruption"
 
 
 ● [Self-Sovereign Identity - Blockchain’s Killer Application?!](https://members.cryptovalley.swiss/events/93681) 9/27 Cryptovalley. Switzerland/Online

@@ -48,7 +48,7 @@ Sismo issues badges (non-transferable NFTs) to your public Ethereum profiles (EN
 
 * [Introducing: Disentangle Domains](https://twitter.com/disentangleDNS/status/1470747203635494916?s%3D20) Twitter
 
-Your [@iota](https://twitter.com/iota) web3 username. We are buidling an [#IOTA](https://twitter.com/hashtag/IOTA) Name Service (INS) for gas-free, sapiens-friendly wallet & dApp addresses. Neat, easy and secure. +info
+Your [@iota](https://twitter.com/iota) web3 username. We are buidling an #IOTA for gas-free, sapiens-friendly wallet & dApp addresses. Neat, easy and secure. +info
 
 * [Metaverse and self-sovereign identity (SSI): new superpower?](https://blog.cheqd.io/metaverse-and-self-sovereign-identity-ssi-new-superpower-b4cac6319885) Cheqd
 
@@ -372,7 +372,7 @@ Since identity is such a central part of society, UNISOT, through its UNISOT ID 
 
 * [Λntonio Nardella @antonionardella](https://twitter.com/antonionardella/status/1388123413559062528)
 
-I don't know about Discord, but in my opinion a [#decentralized](https://twitter.com/hashtag/decentralized) [self sovereign identity solution would make a great addition](https://github.com/matrix-org/sydent) to the identity server of [@matrixdotorg](https://twitter.com/matrixdotorg)
+I don't know about Discord, but in my opinion a [#decentralized [self sovereign identity solution would make a great addition](https://github.com/matrix-org/sydent) to the identity server of [@matrixdotorg](https://twitter.com/matrixdotorg)
 
 * [https://github.com/matrix-org/sydent](https://github.com/matrix-org/sydent)
 

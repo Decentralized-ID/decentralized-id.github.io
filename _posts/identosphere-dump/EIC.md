@@ -64,7 +64,7 @@ The
 
 * [@kuppingercole](https://twitter.com/kuppingercole)
 
-* [#EiC2022](https://twitter.com/hashtag/EiC2022?src%3Dhashtag_click)
+* EiC2022
 
 keynote room - in “David, I can’t let you do that” style visualization
 
@@ -72,7 +72,7 @@ keynote room - in “David, I can’t let you do that” style visualization
 
 * [Atul Tulshibagwale](https://twitter.com/zirotrust/status/1523944752516845573)
 
-Answering the #privacy question asked in [@timcappalli](https://twitter.com/timcappalli)'s  #sse token revocation talk at the #EiC2022 - read this [#OpenID](https://twitter.com/hashtag/OpenID?src%3Dhashtag_click) blog post to know how privacy can be protected in SSE
+Answering the #privacy question asked in [@timcappalli](https://twitter.com/timcappalli)'s  #sse token revocation talk at the #EiC2022 - read this OpenID blog post to know how privacy can be protected in SSE
 
 * [Shared Signals: An Open Standard for Webhooks](https://openid.net/2021/08/24/shared-signals-an-open-standard-for-webhooks/)
 
@@ -80,6 +80,6 @@ defines stream-based communication mechanisms between Transmitters that generate
 
 * [@styrainc 12:02 PM · May 11, 2022](https://twitter.com/styrainc/status/1524419573096800257)
 
-“[@OpenPolicyAgent](https://twitter.com/OpenPolicyAgent) has become the standard for policy-based access and externalized [#Authorization](https://twitter.com/hashtag/Authorization)”. A great takeaway from the intro to [#OPA](https://twitter.com/hashtag/OPA) for multi-cloud policy and process portability session at [#EIC2022](https://twitter.com/hashtag/EIC2022).
+“[@OpenPolicyAgent](https://twitter.com/OpenPolicyAgent) has become the standard for policy-based access and externalized #Authorization”. A great takeaway from the intro to #OPA for multi-cloud policy and process portability session at #EIC2022.
 
 ## 🎉Thanks for Supporting Identosphere’s Weekly🎉

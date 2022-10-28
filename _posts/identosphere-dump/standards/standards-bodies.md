@@ -65,7 +65,7 @@ Past Working Group Calls of Interest
 
 A couple weeks ago Amber Case came and spoke about “[Calm Technology](https://www.youtube.com/watch?v%3DNgyfa4_NuPI)” at the TOIP Human Experience Working Group ([HXWG](https://wiki.trustoverip.org/display/HOME/Human%2BExperience%2BWorking%2BGroup)
 
-Michale Herman [is excited](https://twitter.com/mwherman2000/status/1511550968617263114) about the new  [#VCA](https://twitter.com/hashtag/VCA) (Verifiable Credential Authorization) using the new [#VCTPS](https://twitter.com/hashtag/VCTPS) (Secure Verifiable Credential Transport Protocol) over [#DIDCOMM](https://twitter.com/hashtag/DIDCOMM)
+Michale Herman [is excited](https://twitter.com/mwherman2000/status/1511550968617263114) about the new  #VCA (Verifiable Credential Authorization) using the new #VCTPS (Secure Verifiable Credential Transport Protocol) over #DIDCOMM
 
 
 * [What Does Affinidi Do as a Member of the Decentralized Identity Foundation (DIF)?](https://academy.affinidi.com/what-does-affinidi-do-as-a-member-of-the-decentralized-identity-foundation-dif-d9d5146af14) Affinidi

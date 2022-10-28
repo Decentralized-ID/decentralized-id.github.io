@@ -271,7 +271,7 @@ We are hiring: a product development manager and a full-stack developer!
 
 Build the next evolution of internet as part of [@NGI4eu](https://twitter.com/NGI4eu)
 
-Become an expert in Self-sovereign identity [#SSI](https://twitter.com/hashtag/SSI) and [#blockchain](https://twitter.com/hashtag/blockchain)
+Become an expert in Self-sovereign identity #SSI and #blockchain
 * [Meeco is looking for a Technical Team Lead](https://blog.meeco.me/meeco-is-looking-for-a-technical-team-lead/) Meeco
 
 for our Australian team, where you can contribute to the success of our product team developing our globally awarded personal data platform.

@@ -86,7 +86,7 @@ Aaron Parecki - Mr. OAuth has a new course out on Udemy
 
 ### Universal Resolver supports ION DID Method
 
-* [@dialtone4web](https://twitter.com/dialtone4web) shares: *"ION based[@DecentralizedID](https://twitter.com/DecentralizedID) identifiers can now be resolved by the UniversalResolver. #v0.8.1 [#ownyouridentity](https://twitter.com/hashtag/ownyouridentity?src=hashtag_click)"*
+* [@dialtone4web](https://twitter.com/dialtone4web) shares: *"ION based[@DecentralizedID](https://twitter.com/DecentralizedID) identifiers can now be resolved by the UniversalResolver. #v0.8.1 #ownyouridentity"*
 
 * [Adds support for resolving ION DIDs #154](https://github.com/decentralized-identity/universal-resolver/pull/154)
 

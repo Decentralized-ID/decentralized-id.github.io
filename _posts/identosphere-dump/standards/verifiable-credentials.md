@@ -51,7 +51,7 @@ This architectural overview introduces the capabilities and components of the Az
 
 * [@Steve_Lockstep](https://twitter.com/Steve_Lockstep)
 
-The original [#VerifiableCredentials](https://twitter.com/hashtag/VerifiableCredentials) were PKI-based SIM cards and EMV cards. These bind key pairs to individuals, and to signed assertions (account numbers) to deliver provenance, fidelity and proof of possession. [https://constellationr.com/blog-news/not-too-much-identity-technology-and-not-too-little](https://constellationr.com/blog-news/not-too-much-identity-technology-and-not-too-little)
+The original #VerifiableCredentials were PKI-based SIM cards and EMV cards. These bind key pairs to individuals, and to signed assertions (account numbers) to deliver provenance, fidelity and proof of possession. [https://constellationr.com/blog-news/not-too-much-identity-technology-and-not-too-little](https://constellationr.com/blog-news/not-too-much-identity-technology-and-not-too-little)
 
 * [The value of verifiable credentials in the evolving digital identity landscape](https://verified.me/blog/the-value-of-verifiable-credentials-in-the-evolving-digital-identity-landscape/) Verified Me
 
@@ -222,7 +222,7 @@ How does VC Functional Stack compare to [#ToIP](https://) Stack?
 
 2. ToIP Layer 4 compares to Functional Layers 3 & 4 (horizontal layer for VC Management, vertical layer for Applications)
 
-3. Functional stack doesn't require [#blockchain](https://twitter.com/hashtag/blockchain)
+3. Functional stack doesn't require #blockchain
 
 4. Functional Stack doesn't detail steps for trust or verification; ToIP Stack doesn't separate management or storage
 

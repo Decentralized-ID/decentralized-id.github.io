@@ -88,7 +88,7 @@ It can be integrated into new or existing ecosystems and provide fundamental dec
 
 * [Lissi Wallet • @lissi_id](https://twitter.com/lissi_id/status/1397174023893684226)
 
-(1/9) The [#Lissi](https://twitter.com/hashtag/Lissi) [#Wallet](https://twitter.com/hashtag/Wallet) is now available as a release candidate. This thread will provide you with an overview of the development of the [#identity](https://twitter.com/hashtag/identity) wallet.
+(1/9) The #Lissi #Wallet is now available as a release candidate. This thread will provide you with an overview of the development of the [#identity wallet.
 
 * [Introducing the user-ready, production-ready Jolocom SmartWallet](https://jolocom.io/blog/production-ready-smartwallet/)
 

@@ -2,6 +2,10 @@
 published: false
 ---
 
+* [ForgeRock goes public](https://ludopoitou.com/2021/09/16/we-did-it/)
+
+Today is an huge milestone for ForgeRock. We are becoming a public company, with our stock publicly traded under the “FORG” symbol, at the New York Stock Exchange.
+
 # Companies
 
 * [Ping vs. Okta: Top 3 Indicators That You’ll Get the Customer Satisfaction You Deserve](https://www.pingidentity.com/en/company/blog/posts/2021/okta-vs-ping-cs.html)
@@ -77,7 +81,7 @@ In addition, Xertify is working on a solution for Covid vaccine credentials to b
 - Credential Master enables your business to issue, verify and manage millions of W3C Verifiable Credentials.
 * [@open_measure](https://twitter.com/open_measure) · [44m](https://twitter.com/open_measure/status/1398540528090759170)
 
-Our [#IAM](https://twitter.com/hashtag/IAM) [#VendorManagement](https://twitter.com/hashtag/VendorManagement) database just exceeded the 100 entries threshold! There's still a lot of work but it shows already how the IAM [#market](https://twitter.com/hashtag/market) is a vibrant, diverse, and innovative industry - find out more and contribute at [https://open-measure.atlassian.net/wiki/spaces/VEN/pages/195133452/Vendor+Database](https://open-measure.atlassian.net/wiki/spaces/VEN/pages/195133452/Vendor%2BDatabase)
+Our #IAM #VendorManagement database just exceeded the 100 entries threshold! There's still a lot of work but it shows already how the IAM #market is a vibrant, diverse, and innovative industry - find out more and contribute at [https://open-measure.atlassian.net/wiki/spaces/VEN/pages/195133452/Vendor+Database](https://open-measure.atlassian.net/wiki/spaces/VEN/pages/195133452/Vendor%2BDatabase)
 
 * [Meeco announced as Finnies 2021 finalist](https://blog.meeco.me/meeco-announced-as-finnies-2021-finalist/)
 
@@ -136,7 +140,7 @@ At Magic, we love to be where developers hang out. As a Developer Advocate, it�
 
 * [@docknetwork](https://twitter.com/docknetwork)
 
-Check out this video demo that shows how claim deduction, facial recognition, and [#verifiablecredentials](https://twitter.com/hashtag/verifiablecredentials) can be used together to verify a person's age and eliminates the need for manual checks:
+Check out this video demo that shows how claim deduction, facial recognition, and #verifiablecredentials can be used together to verify a person's age and eliminates the need for manual checks:
 * [We are now officially live in Myanmar!](https://zada.io/we-are-now-officially-live-in-myanmar/)
 
 ZADA apps are all launched and our first digital ID – a COVIDPASS – is being issued by Pun Hlaing Hospitals to everyone who gets vaccinated.
