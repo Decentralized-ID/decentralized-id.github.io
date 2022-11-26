@@ -3,6 +3,21 @@ published: false
 ---
 
 # IOT
+
+* [Alternatives to the CompuServe of Things](https://www.windley.com/archives/2021/07/alternatives_to_the_compuserve_of_things.shtml) Windley
+
+^^^ Interesting feature: Phil is leveraging the Hypothesis sidebar for comments\annotation -
+
+The current model for connected things puts manufacturers in between people and their things. That model negatively affects personal freedom, privacy, and society. Alternate models can provide the same benefits of connected devices without the societal and personal costs.
+
+* [Decentralized Identity of Things](https://blog.darrenjrobinson.com/decentralized-identity-of-things/) Winner Microsoft Decentralized Identity Hackathon
+
+* [DIDoT - DID of Things. Decentralized Identity of Things](https://devpost.com/software/did-of-things-didot-allergen-management-in-food-shopping). Allergen management in food shopping. Based on the concept of ‘things’ having verifiable credentials.
+
+* [More Security in the Internet of Things – Thanks to ETO](https://www.etogruppe.com/en/news/news-from-eto/more-security-in-the-internet-of-things-thanks-to-eto.html) ETO
+
+ETO uses a network of distributed digital identities (DIDs) and verifiable credentials (VCs). A side benefit from the perspective of human Internet users: they regain data sovereignty over their personal data. [[github](https://gitlab.com/anchor-bundle/angular-webapp)]
+
 * [Why Machines Need Self-Sovereign Identities](https://www.peaq.com/blog/why-machines-need-self-sovereign-identities) Peaq
 
 As the world becomes even more connected and more machines are hooked up to the internet, the ability for machines to move, trade and interact securely and efficiently becomes increasingly important to life and business. Today’s centralized networks do not enable this. Machines today exist on closed, permission-based environments which massively limit which other machines can be interacted with, what machines can do and where they can go.
