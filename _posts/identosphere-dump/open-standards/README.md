@@ -1,0 +1,63 @@
+# Open Standards
+
+- Decentralized Identifier
+  - Explainer
+  - Methods
+  - Resolution
+  - Critique 
+- Verifiable Credential
+  - Explainer
+  - Comparisons with/ other Tech
+  - Varieties
+    - JSON-LD 
+    - JSON-LD ZKP BBS+
+    - JSON-JWT
+    - ZKP-CL - [IIA] Indy Aries AnnonCreds
+    - JWP
+- Exchange Protocols
+  - DIDComm
+  - CHAPI
+  - OIDC
+  - mDL
+  - WACI-Pex
+- Complementary to VC/DID Standards
+  - JSON-LD
+  - JSON
+  - KERI
+  - Cryptography
+    - BBS
+- Authorization Protocols
+  - oCap/zCap
+  - UCAN
+  - GNAP
+  - OAuth
+- Trust Frameworks
+  - 800-63-3
+  - DIACC
+- Blockchain Standards
+  - ISOTC 307
+  - CEN/EENTLIC
+  - ERC 725
+- Standards Orgs
+  - W3C
+  - IETF
+  - OASIS
+  - ITU-T
+  - ISO/IEC
+- ISO Standards
+  - mDL 18013-5
+  - 22030
+  - Working Group 3 - Travel Documents
+- Non SSI Identity Standards
+  - OpenID
+  - FIDO
+  - OAuth
+  - SCIM
+  - SAML
+  - KMIP
+  - Secure QR Code
+- Trust Registries & Directories
+  - TRAIN
+- Data Stores
+  - EDV
+  - DWN
