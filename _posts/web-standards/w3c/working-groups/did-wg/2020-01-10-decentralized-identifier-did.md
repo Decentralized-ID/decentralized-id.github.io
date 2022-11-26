@@ -20,31 +20,11 @@ toc: false
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
 
-## Decentralized Identifier - Explainer
+## Explainer
 
-* [Decentralized Identifiers (DIDs) v1.0](https://w3c.github.io/did-core/)
-  >   Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID identifies any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) that the controller of the DID decides that it identifies. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject.
-* [DID Whitepaper](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/DID-Whitepaper.md)
-  > A DID architecture should focus on the set of components that Mr. Gupta refers to as "the minimum required for people to be able to do business (or other critical functions) together".
-  >
-  >**A Decentralized Identifier (DID) Registry and Discovery Service**
-  >
-  > This "minimum required" is defined by a union of the proposed requirements identified by the W3C Credential Community Group, the XDI.org Registry Working Group, and the Rebooting the Web of Trust group. It consists of three functions that can be addressed by a combination of blockchain and DHT technology:
-  >
-  > * A DID registration function
-  > * A discovery function that enables looking up a registered DID in the blockchain
-  > * A master key recovery function
-* [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) <-DID's modeled after
-  * [All you need to know about sequential UUID generators](https://blog.2ndquadrant.com/sequential-uuid-generators/)
-* [Understanding Decentralized IDs (DIDs)](https://medium.com/@adam_14796/understanding-decentralized-ids-dids-839798b91809)
-* [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) [[**ϟ**](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)]
-* [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) 
-* [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
-* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
+* [Understanding Decentralized IDs (DIDs)](https://medium.com/@adam_14796/understanding-decentralized-ids-dids-839798b91809) Adam Powers
 * [What is a DID?](https://docs.google.com/document/d/1Ym85y_bDVN9xkRZ-oD-zlUUIeZjVGWNihfZBk2GQidk/edit)
 * [The Path from an id (DID) to a Real-Life Something](https://hyperonomy.com/2019/01/04/the-path-from-a-id-did-to-a-real-life-something)
-* [DID:Customer](https://medium.com/transmute-techtalk/did-customer-4ca8b7957112)
-  > While we are committed to providing optionality to our customers, it’s equally important to communicate the selection criteria behind these options so that customers can consider the tradeoffs of underlying DID-methods alongside the problem set they’re solving for.
 * [Demystifying Decentralized Identifiers (DIDs)](https://academy.affinidi.com/demystifying-decentralized-identifiers-dids-2dc6fc3148fd) Affinidi
   > - Does not require a centralized registration authority
   > - Many DIDs use the distributed ledger technology or any other decentralized network, though it is not mandatory
@@ -61,24 +41,40 @@ toc: false
 
 <a href="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png"><img src="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png?w=500"/></a>
 
-[1A/ DID 101 – Decentralized Identifiers & how they are the key to interoperable self-sovereign ID](http://iiw.identitycommons.net/1A/_DID_101_%E2%80%93_Decentralized_Identifiers_%26_how_they_are_the_key_to_interoperable_self-sovereign_ID)
+[DID 101 – Decentralized Identifiers & how they are the key to interoperable self-sovereign ID](http://iiw.identitycommons.net/1A/_DID_101_%E2%80%93_Decentralized_Identifiers_%26_how_they_are_the_key_to_interoperable_self-sovereign_ID)
 
+## Literature
 
-## DID Methods
+* [Decentralized Identifiers (DIDs) v1.0](https://w3c.github.io/did-core/) W3C
+  >   Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID identifies any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) that the controller of the DID decides that it identifies. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject.
+* [DID Whitepaper](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/DID-Whitepaper.md) WebOfTrustInfo
+  > A DID architecture should focus on the set of components that Mr. Gupta refers to as "the minimum required for people to be able to do business (or other critical functions) together".
+  >
+  >**A Decentralized Identifier (DID) Registry and Discovery Service**
+  >
+  > This "minimum required" is defined by a union of the proposed requirements identified by the W3C Credential Community Group, the XDI.org Registry Working Group, and the Rebooting the Web of Trust group. It consists of three functions that can be addressed by a combination of blockchain and DHT technology:
+  >
+  > * A DID registration function
+  > * A discovery function that enables looking up a registered DID in the blockchain
+  > * A master key recovery function
+* DID's modeled after [A Universally Unique IDentifier (UUID) URN Namespace](https://www.ietf.org/rfc/rfc4122.txt) IETF 
+  > A UUID is 128 bits long, and can guarantee uniqueness across space and time.  UUIDs were originally used in the Apollo Network Computing System and later in the Open Software Foundation's (OSF) Distributed Computing Environment (DCE), and then in Microsoft Windows platforms.
+  * [All you need to know about sequential UUID generators](https://blog.2ndquadrant.com/sequential-uuid-generators/) Tomas Vondra, 2ndQuadrant
+* [DID Primer](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/draft-documents/did-primer.md) Drummond Reed and Manu Sporny and other contributors, RWOT5
+  * [DID Primer Extended](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)] Drummond Reed and Manu Sporny and other contributors, RWOT7
+* [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) Sabadello, 2018
+* [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
 
-* [We evaluated 7 DID methods with the W3C DID Rubric! did:btcr, did:sov, did:ion, did:web, did:v1, did:peer, did:ethr](https://iiw.idcommons.net/13D/_We_evaluated_7_DID_methods_with_the_W3C_DID_Rubric!_did:btcr,_did:sov,_did:ion,_did:web,_did:key,_did:peer,_did:ethr) by Walid Fdhila, Markus Sabadello ([video](https://eu01web.zoom.us/rec/play/5wIkMptZK28kj6LFF5NlILMApA-2CwRMw1L7s4aO8wsgFDODJ-pGlbKPh6YA7BEADftL_Uw7sHx6YY2r.KWeBYTIH4BFQmLIv?continueMode%3Dtrue)
-  > - did:btcr [https://w3c-ccg.github.io/didm-btcr](https://w3c-ccg.github.io/didm-btcr)
-  > - did:v1 [https://w3c-ccg.github.io/did-method-v1/](https://w3c-ccg.github.io/did-method-v1/)
-  > - did:ethr [https://github.com/ethr-did-resolver/](https://github.com/decentralized-identity/ethr-did-resolver/blob/master/doc/did-method-spec.md)
-  > - did:sov(did:indy) [Sovrin DID Method Specification](https://sovrin-foundation.github.io/sovrin/spec/did-method-spec-template.html)
-  > - did:web [https://github.com/w3c-ccg/did-method-web](https://github.com/w3c-ccg/did-method-web)
-  > - did:ion [https://github.com/decentralized-identity/ion-did-method](https://github.com/decentralized-identity/ion-did-method)
-  > - did:peer [https://identity.foundation/peer-did-method-spec/index.html](https://identity.foundation/peer-did-method-spec/index.html)
-* [Criteria for did Method Evaluation](https://docs.google.com/document/d/1vAKtMrsrjO_tLQhah8tRoLaIS7HpOIE6xM38ZoBpgWU/)
-* [DID Methods Evaluation Report - Draft](https://docs.google.com/document/d/1jP-76ul0FZ3H8dChqT2hMtlzvL6B3famQbseZQ0AGS8/)
-* [DID Method Rubric v1.0](https://w3c.github.io/did-rubric/)
-* [rwot9-prague/decentralized-did-rubric.md at master · WebOfTrustInfo/rwot9-prague](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/draft-documents/decentralized-did-rubric.md)
-* [DID Method Registry](https://w3c-ccg.github.io/did-method-registry/#the-registry)
+## [DID Methods](https://w3c-ccg.github.io/did-method-registry/#the-registry)
+
+* [DID:Customer](https://medium.com/transmute-techtalk/did-customer-4ca8b7957112) Margo Johnson, Transmute; 10/2020
+  > While we are committed to providing optionality to our customers, it’s equally important to communicate the selection criteria behind these options so that customers can consider the tradeoffs of underlying DID-methods alongside the problem set they’re solving for.
+* [We evaluated 7 DID methods with the W3C DID Rubric! did:btcr, did:sov, did:ion, did:web, did:v1, did:peer, did:ethr](https://iiw.idcommons.net/13D/_We_evaluated_7_DID_methods_with_the_W3C_DID_Rubric!_did:btcr,_did:sov,_did:ion,_did:web,_did:key,_did:peer,_did:ethr) by Walid Fdhila, Markus Sabadello; IDCommons ([video](https://eu01web.zoom.us/rec/play/5wIkMptZK28kj6LFF5NlILMApA-2CwRMw1L7s4aO8wsgFDODJ-pGlbKPh6YA7BEADftL_Uw7sHx6YY2r.KWeBYTIH4BFQmLIv?continueMode%3Dtrue); 5/2021
+  > - [did:btcr](https://w3c-ccg.github.io/didm-btcr), [did:v1](https://w3c-ccg.github.io/did-method-v1/), [did:ethr](https://github.com/decentralized-identity/ethr-did-resolver/blob/master/doc/did-method-spec.md), [did:sov(did:indy)](https://sovrin-foundation.github.io/sovrin/spec/did-method-spec-template.html), [did:web](https://github.com/w3c-ccg/did-method-web), [did:ion](https://github.com/decentralized-identity/ion-did-method), [did:peer](https://identity.foundation/peer-did-method-spec/index.html)
+  > - [DID Method Rubric v1.0](https://w3c.github.io/did-rubric/)
+  > - [Criteria for did Method Evaluation](https://docs.google.com/document/d/1vAKtMrsrjO_tLQhah8tRoLaIS7HpOIE6xM38ZoBpgWU/)
+  > - [DID Methods Evaluation Report - Draft](https://docs.google.com/document/d/1jP-76ul0FZ3H8dChqT2hMtlzvL6B3famQbseZQ0AGS8/)
+* [A Rubric for Decentralization of DID Methods](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/draft-documents/decentralized-did-rubric.md) Joe Andrieu, Shannon Appelcline, Amy Guy, Joachim Lohkamp, Drummond Reed, Markus Sabadello, Oliver Terbu, and Kai Wagner; WebOfTrustInfo rwot9-prague
 
 ### [**`did:abt:`**](https://arcblock.github.io/abt-did-spec/) For ABT Network, by ArcBlock
 
@@ -1032,8 +1028,9 @@ did:orb that decouples DIDs from ledgers while maintaining trust and security. S
 
 A large set of impact investor, international donor, and government anti-poverty policy is based on the notion that for-profit companies can be induced to serve the poor with life changing services like banking or schooling but the limits of the for profit model are not always taken into account
 
-## Tools
+## Utilities
 
+* [DID Method Registry](https://w3c-ccg.github.io/did-method-registry/#the-registry)
 * [godiddy.com - Universal DID Services](https://iiw.idcommons.net/2C/_godiddy.com_-_Universal_DID_Services) by Markus Sabadello [[Documentation](https://docs.godiddy.com/)] [[API Reference](https://api.godiddy.com/)]
   > Basic functions are creating, resolving, updating, and deactivating DIDs across multiple DID methods and networks. Advanced functions include key management, search, transfer of DIDs, lookup of historical DID document versions, notification of DID-related events, and more.
 * [Standard Interfaces for DID Create/Update/Deactivate](https://iiw.idcommons.net/3C/_Standard_Interfaces_for_DID_Create/Update/Deactivate) by Markus Sabadello
