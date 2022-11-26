@@ -860,3 +860,11 @@ please [find attached the DHS Implementation Profile](https://lists.w3.org/Archi
 * [Using OpenID4VC for Credential Exchange; Technometria - Issue #62](http://news.windley.com/issues/using-openid4vc-for-credential-exchange-technometria-issue-62-1374264?via%3Dtwitter-card%26client%3DDesktopWeb%26element%3Dissue-card)
 
 Extending OAuth and OIDC to support the issuance and presentation of verifiable credentials provides for richer interactions than merely supporting authentication. All the use cases we’ve identified for verifiable credentials are available in OpenID4VC as well.
+
+* [Trinsic Basics: What Are SSI Standards?](https://trinsic.id/what-are-ssi-standards/)
+  > There are two kinds of standards that Trinsic implements to enable interoperability and avoid vendor lock-in: data model standards and protocol standards.
+
+* [Trusted P2P Messaging with DIDs, DIDComm and VCs](https://medium.com/uport/trusted-p2p-messaging-with-dids-didcomm-and-vcs-398f4c3f3cda) uPort
+  > about their path towards trusted P2P messaging and announces the [DIDAgent Framework (DAF)](https://github.com/uport-project/daf)
+  > 
+  > when we speak about a DID, then we need to be more precise and also speak about the particular DID method of that DID which defines the CRUD operations on a target system such as Ethereum.
