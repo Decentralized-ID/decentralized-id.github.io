@@ -12,7 +12,7 @@ redirect_from:
   - specs-standards/decentralized-identifier-did/
   - web-standards/decentralized-identifier-did/
   - adoption/
-last_modified_at: 2020-12-02
+last_modified_at: 2022-12-26
 toc: false
 ---
 
@@ -20,7 +20,7 @@ toc: false
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
 
-## Decentralized Identifier
+## Decentralized Identifier - Explainer
 
 * [Decentralized Identifiers (DIDs) v1.0](https://w3c.github.io/did-core/)
   >   Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID identifies any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) that the controller of the DID decides that it identifies. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject.
@@ -43,16 +43,44 @@ toc: false
 * [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
 * [What is a DID?](https://docs.google.com/document/d/1Ym85y_bDVN9xkRZ-oD-zlUUIeZjVGWNihfZBk2GQidk/edit)
 * [The Path from an id (DID) to a Real-Life Something](https://hyperonomy.com/2019/01/04/the-path-from-a-id-did-to-a-real-life-something)
+* [DID:Customer](https://medium.com/transmute-techtalk/did-customer-4ca8b7957112)
+  > While we are committed to providing optionality to our customers, it’s equally important to communicate the selection criteria behind these options so that customers can consider the tradeoffs of underlying DID-methods alongside the problem set they’re solving for.
+* [Demystifying Decentralized Identifiers (DIDs)](https://academy.affinidi.com/demystifying-decentralized-identifiers-dids-2dc6fc3148fd) Affinidi
+  > - Does not require a centralized registration authority
+  > - Many DIDs use the distributed ledger technology or any other decentralized network, though it is not mandatory
+  > - It is a permanent identifier because it does not depend on a single third-party or centralized registry for its existence.
+  > - Can be cryptographically verified
+  > - They connect a DID subject (the entity identified by the DID) with a DID document (a set of data that describes the DID subject) to enable the subject to have trustable interactions.
+  > - They are interoperable and portable, provided they conform to the existing standards laid down by W3C
+* [The world between public and private DIDs - Or how to make use of SSI without the subjects](https://iiw.idcommons.net/21D/_The_world_between_public_and_private_DIDs_-_Or_how_to_make_use_of_SSI_without_the_subjects) by This Loepfe, cardossier CH
+  > Slides: [iiw-between-public-and-private.pdf](https://cardossier.ch/wp-content/uploads/2021/05/iiw-between-public-and-private.pdf)
+  > 
+  > - It was very hard for me to explain the problem I’m searching a solution for and equally for the proposed solution ideas.
+  > - We discussed a lot of more philosophical questions and if peer-dids are a good thing or not and if it is worth trying to minimize correlation when any involved party anyway stores the personal data of the related persons. I think we should make it as hard as possible to correlate data, even if we can not completely prevent it.
+  > - We also discussed the potential complexity of such a solution and if it is worth it. The conclusion was to minimize the number of personas one should (be forced) to hold, such that it is still easy to maintain.
 
 <a href="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png"><img src="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png?w=500"/></a>
 
 [1A/ DID 101 – Decentralized Identifiers & how they are the key to interoperable self-sovereign ID](http://iiw.identitycommons.net/1A/_DID_101_%E2%80%93_Decentralized_Identifiers_%26_how_they_are_the_key_to_interoperable_self-sovereign_ID)
 
 
-## [DID Method Registry](https://w3c-ccg.github.io/did-method-registry/#the-registry)
+## DID Methods
 
-### [**`did:abt:`**](https://arcblock.github.io/abt-did-spec/)
-###### For ABT Network, by ArcBlock
+* [We evaluated 7 DID methods with the W3C DID Rubric! did:btcr, did:sov, did:ion, did:web, did:v1, did:peer, did:ethr](https://iiw.idcommons.net/13D/_We_evaluated_7_DID_methods_with_the_W3C_DID_Rubric!_did:btcr,_did:sov,_did:ion,_did:web,_did:key,_did:peer,_did:ethr) by Walid Fdhila, Markus Sabadello ([video](https://eu01web.zoom.us/rec/play/5wIkMptZK28kj6LFF5NlILMApA-2CwRMw1L7s4aO8wsgFDODJ-pGlbKPh6YA7BEADftL_Uw7sHx6YY2r.KWeBYTIH4BFQmLIv?continueMode%3Dtrue)
+  > - did:btcr [https://w3c-ccg.github.io/didm-btcr](https://w3c-ccg.github.io/didm-btcr)
+  > - did:v1 [https://w3c-ccg.github.io/did-method-v1/](https://w3c-ccg.github.io/did-method-v1/)
+  > - did:ethr [https://github.com/ethr-did-resolver/](https://github.com/decentralized-identity/ethr-did-resolver/blob/master/doc/did-method-spec.md)
+  > - did:sov(did:indy) [Sovrin DID Method Specification](https://sovrin-foundation.github.io/sovrin/spec/did-method-spec-template.html)
+  > - did:web [https://github.com/w3c-ccg/did-method-web](https://github.com/w3c-ccg/did-method-web)
+  > - did:ion [https://github.com/decentralized-identity/ion-did-method](https://github.com/decentralized-identity/ion-did-method)
+  > - did:peer [https://identity.foundation/peer-did-method-spec/index.html](https://identity.foundation/peer-did-method-spec/index.html)
+* [Criteria for did Method Evaluation](https://docs.google.com/document/d/1vAKtMrsrjO_tLQhah8tRoLaIS7HpOIE6xM38ZoBpgWU/)
+* [DID Methods Evaluation Report - Draft](https://docs.google.com/document/d/1jP-76ul0FZ3H8dChqT2hMtlzvL6B3famQbseZQ0AGS8/)
+* [DID Method Rubric v1.0](https://w3c.github.io/did-rubric/)
+* [rwot9-prague/decentralized-did-rubric.md at master · WebOfTrustInfo/rwot9-prague](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/draft-documents/decentralized-did-rubric.md)
+* [DID Method Registry](https://w3c-ccg.github.io/did-method-registry/#the-registry)
+
+### [**`did:abt:`**](https://arcblock.github.io/abt-did-spec/) For ABT Network, by ArcBlock
 
 > ```
 >     did:abt:z1muQ3xqHQK2uiACHyChikobsiY5kLqtShA
@@ -61,8 +89,7 @@ toc: false
 > ```
 > One of our main goal is to protect users’ privacy. So people do not use the DID generated from their master key to talk to DAPPs, instead, the WALLET automatically generates an extended DID according to the user’s master DID and the DAPP’s DID and use this extended DID to communicate with the DAPP. 
 
-### [**`did:btcr:`**](https://w3c-ccg.github.io/didm-btcr)
-###### For Bitcoin, by Christopher Allen, Ryan Grant, Kim Hamilton Duffy
+### [**`did:btcr:`**](https://w3c-ccg.github.io/didm-btcr) For Bitcoin, by Christopher Allen, Ryan Grant, Kim Hamilton Duffy
 
 > The Bitcoin Reference DID method (did:btcr) supports DIDs on the public Bitcoin blockchain. The Bitcoin Reference method has minimal design goals: a DID trust anchor based on the Bitcoin blockchain, updates publicly visible and auditable via Bitcoin transactions, and optionally, additional DID Document information referenced in the transaction OP_RETURN data field. No other Personal Identifiable Information (PII) would be placed on the immutable blockchain.
 > 
@@ -70,8 +97,7 @@ toc: false
 > 
 > Some aspects of the BTCR method will not be practical if inappropriately scaled — for instance, there is a transaction cost to update keys and DDO object, potential UTXO inflation (i.e. one additional unspent output for every BTCR-based identity), and even if segwit isn’t used it could cause blockchain bloat. However, identities using the BTCR method can be a strong as Bitcoin itself -- currently securing billions of dollars of digital value.
 
-### [**`did:stack:`**](https://github.com/blockstack/blockstack-core/blob/stacks-1.0/docs/blockstack-did-spec.md)
-###### For Bitcoin, by Jude Nelson
+### [**`did:stack:`**](https://github.com/blockstack/blockstack-core/blob/stacks-1.0/docs/blockstack-did-spec.md) For Bitcoin, by Jude Nelson
 
 > Blockstack's DID method is specified as part of its decentralized naming system. Each name in Blockstack has one or more corresponding DIDs, and each Blockstack DID corresponds to exactly one name -- even if the name was revoked by its owner, expired, or was re-registered to a different owner.
 > 
@@ -79,13 +105,11 @@ toc: false
 > 
 > Blockstack's naming system and its DIDs transcend the underlying blockchain, and will continue to resolve to DID document objects (DDOs) even if the system migrates to a new blockchain in the future.
 
-### [**`did:erc725:`**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/topics-and-advance-readings/DID-Method-erc725.md)
-###### For Ethereum, by Markus Sabadello, Fabian Vogelsteller, Peter Kolarov
+### [**`did:erc725:`**](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/topics-and-advance-readings/DID-Method-erc725.md) For Ethereum, by Markus Sabadello, Fabian Vogelsteller, Peter Kolarov
 
 > Decentralized Identifiers (DIDs, see [1]) are designed to be compatible with any distributed ledger or network (called the target system). In the Ethereum community, a pattern known as ERC725 (see [2]) utilizes smart contracts for standard key management functions. We propose a new DID method that allows ERC725 identities to be treated as valid DIDs. One advantage of this DID method over others appears to be the ability to use the full flexibility of Ethereum smart contracts for key management purposes.
 
-### [**`did:example:`**](https://w3c.github.io/did-core/#a-simple-example)
-###### DID Specification, by W3C Credentials Community Group
+### [**`did:example:`**](https://w3c.github.io/did-core/#a-simple-example) DID Specification, by W3C Credentials Community Group
 
 > A DID is a simple text string consisting of three parts, the:
 > - URI scheme identifier (did)
@@ -121,23 +145,19 @@ toc: false
 > }
 > ```
 
-### [**`did:ipid:`**](https://did-ipid.github.io/ipid-did-method/)
-###### For IPFS, by TranSendX
+### [**`did:ipid:`**](https://did-ipid.github.io/ipid-did-method/) For IPFS, by TranSendX
 
 > The Interplanetary Identifiers DID method (did:ipid:) supports DIDs on the public and private Interplanetary File System (IPFS) networks. IPFS is the distributed content addressable permanent web. More specifically, the IPID DID method utilizes the Interplanetary Linked Data (IPLD) suite of tools. The IPID DID method has minimal design goals: a DID trust anchor based on the IPFS and Libp2p protocol. In and of itself, this is not a blockchain solution. However, blockchains and other distributed ledger technologies could be utilized to anchor the artifacts of this DID methods for further enhanced security.
 
-### [**`did:life:`**](https://lifeid.github.io/did-method-spec/)
-###### For RChain, by lifeID Foundation
+### [**`did:life:`**](https://lifeid.github.io/did-method-spec/) For RChain, by lifeID Foundation
 
 > lifeID is a decentralized, blockchain-based protocol that acts as an open identity provider. The protocol enables the creation and use of self-sovereign identities as well as the issuance of verifiable credentials to those identities. The blockchain-based components of the protocol include smart contracts for storage, revocation, and recovery of keys and credentials. These contracts may be run on any open, permissionless blockchain. The purpose of this protocol is to allow users to transact their identity in a way that minimizes data disclosure, is cryptographically secure, and enables censorship-resistant decentralized identity provisioning and recovery. The purpose of this specification is to describe how lifeID DIDs are created and the technical requirements to operate on the lifeID platform.
 
-### [**`did:sov:`**](https://sovrin-foundation.github.io/sovrin/spec/did-method-spec-template.html)
-###### For Sovrin, by Mike Lodder
+### [**`did:sov:`**](https://sovrin-foundation.github.io/sovrin/spec/did-method-spec-template.html) For Sovrin, by Mike Lodder
 
 > Sovrin is a public ledger designed specifically and only for privacy-preserving self-sovereign identity. The Sovrin Ledger is governed by the international non-profit Sovrin Foundation. As the only public ledger designed exclusively for self-sovereign identity, Sovrin is optimized for DIDs and DID Documents. DIDs are created, stored, and used with verifiable claims. This specification covers how these DIDs are managed. It also describes related features of Sovrin of particular interest to DID owners, guardians, and developers.
 
-### [**`did:ethr:`**](https://github.com/decentralized-identity/ethr-did-resolver/blob/master/doc/did-method-spec.md)
-###### For Ethereum, by uPort
+### [**`did:ethr:`**](https://github.com/decentralized-identity/ethr-did-resolver/blob/master/doc/did-method-spec.md) For Ethereum, by uPort
 
 > In the Ethereum community, a pattern known as ERC1056 (see [2]) utilizes a smart contract for a lightweight identity management system intended explicitly for off-chain usage.
 > 
@@ -149,8 +169,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 
 * [decentralized-identity/ethr-did-resolver](https://github.com/decentralized-identity/ethr-did-resolver) - DID resolver for Ethereum Addresses with support for key management (and DID reference implementation)
 
-### [**`did:v1:`**](https://w3c-ccg.github.io/did-method-v1/)
-###### For Veres One, by Digital Bazaar
+### [**`did:v1:`**](https://w3c-ccg.github.io/did-method-v1/) For Veres One, by Digital Bazaar
 
 > There are two primary classes of DID-based identifiers in Veres One. The first type of identifier is called a cryptonym-based identifier. This identifier is a SHA-256 hash of a public key. Cryptonym-based identifiers are not required to be registered on the ledger and may be used as unregistered pseudonymous pairwise identifiers. These identifiers may also be registered on the ledger and MUST contain a authentication key with a public key fingerprint equal to the value of the cryptonym-based identifier.
 > 
@@ -168,8 +187,12 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > did:v1:uuid:804c6ac3-ce3b-46ce-b134-17175d5bee74
 > ```
 
-### [**`did:com:`**](https://github.com/commercionetwork/Commercio.network-DID-Method-Specification/)
-###### For commercio.network, by Commercio Consortium
+* [Veres One (did:v1) Rubric Evaluation](https://iiw.idcommons.net/12B/_Veres_One_(did:v1)_Rubric_Evaluation) by Joe Andrieu
+  > Veres One, DID Rubric Evaluation, DID methods, DIDs,
+* [did:v1Rubric Evaluation](http://legreq.com/pres/v1.rubric.iiw.2021.04.21.pdf) Presentation
+* [A Rubric Evaluation of Veres One DRAFT](http://legreq.com/media/rubric.v1.2021.04.20.pdf)
+
+### [**`did:com:`**](https://github.com/commercionetwork/Commercio.network-DID-Method-Specification/) For commercio.network, by Commercio Consortium
 
 > Commercio.network is a cosmos based sovereign blockchain network, built on the base of cosmos sdk and tendermint state machine replication engine, adopting Proof of Stake as a consensus algorithm.
 > 
@@ -179,8 +202,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > 
 > In this document we specify the DID Method for Commercio.network, in comformance to the requirements specified in the DID specification[4] currently published by the W3C Credentials Community Group. For more information about DIDs and DID method specifications, please see DID Primer[6] and DID Specification[4].
 
-### [**`did:ont:`**](https://github.com/ontio/ontology-DID/blob/master/docs/en/DID-ONT-method.md)
-###### For Ontology, by Ontology Foundation
+### [**`did:ont:`**](https://github.com/ontio/ontology-DID/blob/master/docs/en/DID-ONT-method.md) For Ontology, by Ontology Foundation
 
 > This specification defines how Ontology blockchain[1] stores DIDs and DID documents, and how to do CRUD operations on DID documents. More importantly, this specification confirms to the requirements specified in the DID specification[2] currently published by the W3C Credentials Community Group.
 > 
@@ -192,8 +214,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > idchar    = 1-9 / A-H / J-N / P-Z / a-k / m-z 
 > ```
 
-### [**`did:vvo:`**](https://vivvo.github.io/vivvo-did-scheme/spec/did-method-spec-template.html)
-###### For Vivvo, by Vivvo Application Studios
+### [**`did:vvo:`**](https://vivvo.github.io/vivvo-did-scheme/spec/did-method-spec-template.html) For Vivvo, by Vivvo Application Studios
 
 > Vivvo is a private ledger designed specifically and only for privacy-preserving self-sovereign identity. The Vivvo Ledger is governed by Vivvo Application Studios. As a private ledger designed exclusively for self-sovereign identity, Vivvo is optimized for DIDs and DID Documents. DIDs are created, stored, and used with verifiable claims. This specification covers how these DIDs are managed. It also describes related features of Vivvo of particular interest to DID owners, guardians, and developers.
 
@@ -208,8 +229,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 >     / "q" / "r" / "s" / "t" / "u" / "v" / "w" / "x" / "y" / "z"
 > ```
 
-### [**`did:aergo:`**](https://github.com/aergoio/aergo-identity/blob/master/doc/did-method-spec.md)
-###### For https://www.aergo.io/, by https://www.blocko.io/
+### [**`did:aergo:`**](https://github.com/aergoio/aergo-identity/blob/master/doc/did-method-spec.md) For https://www.aergo.io/, by https://www.blocko.io/
 
 > The described DID method allows any Aergo smart contract or key pair account to become a valid identity. An identity needs no registration. In the case that key management or additional attributes such as "service endpoints" are required, we deployed did registry smart contracts on:
 > 
@@ -218,13 +238,11 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 >
 > Since each Aergo transaction must be funded, in order to update attributes, account balance must be greater than zero.
 
-### [**`did:icon:`**](https://github.com/icon-project/icon-DID/blob/master/docs/ICON-DID-method.md)
-###### For ICON, by ICONLOOP
+### [**`did:icon:`**](https://github.com/icon-project/icon-DID/blob/master/docs/ICON-DID-method.md) For ICON, by ICONLOOP
 
 > ICON[1,2,3] is a decentralized network that connects various independent communities to enable interoperability between them. ICON DID is a decentralized identifier devised to provide a way to uniquely identify a person, an organization, or a digital device across the communities connected to the ICON network. ICON DID method specification conforms to the DID and the DID Documents Spec[4]. This document describes how ICON blockchain manages the DIDs and the DID documents, and specifies a set of rules for how a DID is created, queried, updated, and revoked.
 
-### [**`did:is:`**](https://github.com/block-core/blockcore-did-method)
-###### For Blockcore, by Blockcore
+### [**`did:is:`**](https://github.com/block-core/blockcore-did-method) For Blockcore, by Blockcore
 
 > Decentralized identifiers (DIDs) are a new type of identifiers that enables verifiable, self-sovereign digital identity. Blockcore supports decentralized identities through the Blockcore Storage feature.
 > 
@@ -238,8 +256,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > did:is:PLBNc1Ph6whu1vbQGEuRywTTHCEnfDDuXh
 > ```
 
-### [**`did:iwt:`**](https://github.com/infowallet/did_method/blob/master/did_method.md)
-###### For InfoWallet, by Raonsecure
+### [**`did:iwt:`**](https://github.com/infowallet/did_method/blob/master/did_method.md) For InfoWallet, by Raonsecure
 
 > InfoWallet is a decentralized network system for Self-Sovereign identity and Verifiable Claims. It can replace a legacy centralized credential system that with trusted blockchain node. In the InfoWallet system, several types of certificates are issued. DID(Decentralized Identifiers) is used as the unique identifier of the certificate. Also DID allows to obtain public key information for secure exchange of information between users.
 
@@ -249,8 +266,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > Example did:iwt:4EFNaYeA9hDp6F55JAB38EFtNcYEbbM9nwKr
 > ```
 
-### [**`did:ockam:`**](https://github.com/ockam-network/did-method-spec/blob/master/README.md)
-###### For Ockam, by Ockam
+### [**`did:ockam:`**](https://github.com/ockam-network/did-method-spec/blob/master/README.md) For Ockam, by Ockam
 
 > A DID that uses this method MUST begin with the following prefix: did:ockam:. Per the DID specification, this prefix MUST be in lowercase. The format of remainder of the DID, after this prefix, is specified below in the section on Method Specific Identifiers.
 
@@ -272,8 +288,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 >                           / "q" / "r" / "s" / "t" / "u" / "v" / "w" / "x" / "y" / "z"
 > ```
 
-### [**`did:ala:`**](https://github.com/alastria/alastria-identity/wiki/Alastria-DID-Method-Specification-(Quorum-version))
-###### For Alastria, by Alastria National Blockchain Ecosystem
+### [**`did:ala:`**](https://github.com/alastria/alastria-identity/wiki/Alastria-DID-Method-Specification-(Quorum-version)) For Alastria, by Alastria National Blockchain Ecosystem
 
 > This document is divided into two parts:
 > - The first one defines the Alastria DID Method Specification, describing the Alastria DID Scheme and the Alastria DID Document.
@@ -282,8 +297,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > 
 > The objective of this document is to be aligned with the work on Decentralized IDs (DIDs) and Verifiable Credentials being carried out by the Verifiable Credentials Working Group. The specs are already on the CR (Candidate Recommendation) phase and they may still change. However, its maturity is enough to assume that the changes are going to be minor so it makes sense to align the Alastria DID Method Specification as much as possible to those specifications.
 
-### [**`did:op:`**](https://github.com/oceanprotocol/OEPs/blob/master/7/v0.2/README.md)
-###### For Ocean Protocol, by Ocean Protocol
+### [**`did:op:`**](https://github.com/oceanprotocol/OEPs/blob/master/7/v0.2/README.md) For Ocean Protocol, by Ocean Protocol
 
 > **Requirements are:**
 > - The DID resolving capabilities MUST be exposed in the client libraries, enabling to resolve a DDO directly in a totally transparent way
@@ -306,8 +320,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > - A HASH not matching with the checksum on-chain means the DDO was modified without the on-chain update
 > - The function to calculate the HASH MUST BE standard
 
-### [**`did:jlinc:`**](https://did-spec.jlinc.org/)
-###### For JLINC Protocol, by Victor Grey
+### [**`did:jlinc:`**](https://did-spec.jlinc.org/) For JLINC Protocol, by Victor Grey
 
 > JLINC is a protocol for sharing data protected by an agreement on the terms under which the data is being shared.
 > 
@@ -319,8 +332,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > idchar    = ALPHA / DIGIT / "-" / "_"
 > ```
 
-### [**`did:ion:`**](https://github.com/decentralized-identity/ion-did-method)
-###### For Bitcoin, by Various DIF contributors
+### [**`did:ion:`**](https://github.com/decentralized-identity/ion-did-method) For Bitcoin, by Various DIF contributors
 
 > ION is a public, permissionless, Decentralized Identifier (DID) network that implements the blockchain-agnostic Sidetree protocol on top of Bitcoin (as a 'Layer 2' overlay) to support DIDs/DPKI (Decentralized Public Key Infrastructure) at scale.
 > 
@@ -332,8 +344,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > - ION is not a sidechain or consensus system - the network nodes do not require any additional consensus mechanism.
 
 
-### [**`did:jolo:`**](https://github.com/jolocom/jolo-did-method/blob/master/jolocom-did-method-specification.md)
-###### For Ethereum, by Jolocom
+### [**`did:jolo:`**](https://github.com/jolocom/jolo-did-method/blob/master/jolocom-did-method-specification.md) For Ethereum, by Jolocom
 
 > The Jolocom distributed identity system aims to provide a secure, robust and flexible implementation of the DID and Verifiable Claims specifications published by the W3C and the Decentralised Identity Foundation. It’s core technologies are the Ethereum blockchain and the Interplanetary File System (IPFS).
 > 
@@ -342,8 +353,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > Jolocom DIDs are identifiable by their did:jolo: method string and conform to the [Generic DID Scheme](https://w3c-ccg.github.io/did-spec/#the-generic-did-scheme).
 
 
-### [**`did:bryk:`**](https://github.com/bryk-io/did-method/blob/master/README.md)
-###### For bryk, by Marcos Allende, Sandra Murcia, Flavia Munhoso, Ruben Cessa
+### [**`did:bryk:`**](https://github.com/bryk-io/did-method/blob/master/README.md) For bryk, by Marcos Allende, Sandra Murcia, Flavia Munhoso, Ruben Cessa
 
 > The method specification provides all the technical considerations, guidelines and recommendations produced for the design and deployment of the DID method implementation. The document is organized in 3 main sections.
 > 
@@ -383,14 +393,23 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > ```
 
 ### [**`did:peer:`**](https://identity.foundation/peer-did-method-spec/)
-###### For Peer 2 Peer, by Daniel Hardman
+*For Peer 2 Peer, by Daniel Hardman*
 
 > Most documentation about decentralized identifiers (DIDs) describes them as identifiers that are rooted in a public source of truth like a blockchain, a database, a distributed filesystem, or similar. This publicness lets arbitrary parties resolve the DIDs to an endpoint and keys. It is an important feature for many use cases.
 > 
 > However, the vast majority of relationships between people, organizations, and things have simpler requirements. When Alice(Corp|Device) and Bob want to interact, there are exactly and only 2 parties in the world who should care: Alice and Bob. Instead of arbitrary parties needing to resolve their DIDs, only Alice and Bob do. Peer DIDs are perfect in these cases. In many ways, peer DIDs are to public, blockchain-based DIDs what Ethereum Plasma or state channels are to on-chain smart contracts— or what Bitcoin's Lightning Network is to on-chain cryptopayments. They move the bulk of interactions off-chain, but offer options to connect back to a chain-based ecosystem as needed. Peer DIDs create the conditions for people, organizations and things to have full control of their end of the digital relationships they sustain.
 
-### [**`did:selfkey:`**](https://github.com/SelfKeyFoundation/selfkey-identity/blob/develop/DIDMethodSpecs.md)
-###### For Ethereum, by SelfKey
+* [Peer DIDs — An Off-Ledger DID Implementation](https://academy.affinidi.com/peer-dids-an-off-ledger-did-implementation-5cb6ee6eb168) Affinidi
+  > - No transaction costs involved
+  > - Easy to create and maintain
+  > - Since these DIDs are independent of a central system such as a GDPR controller, they can be scaled as needed
+  > - Offers the highest levels of privacy as only the parties involved can access the DIDs
+  > - No uncertainties or external problems since these DIDs are not associated with any particular network
+  > - No degradation of trust throughout the entire lifecycle.
+  > - In tune with local-first software philosophies
+  > - Reduces unnecessary correlation between a verifier and an issuer of a [verifiable credential](https://academy.affinidi.com/what-are-verifiable-credentials-79f1846a7b9).
+
+### [**`did:selfkey:`**](https://github.com/SelfKeyFoundation/selfkey-identity/blob/develop/DIDMethodSpecs.md) For Ethereum, by SelfKey
 
 > The following document defines a DID method for the SelfKey Identity platform. Although this method provides support to the SelfKey ecosystem and its related applications, the underlying DID platform is fully decentralized, and it's designed to serve as a DID layer for other systems that might find it valuable.
 > 
@@ -398,8 +417,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > 
 > The functionality for this method is provided by the DIDLedger smart contract found in [this repository](https://github.com/SelfKeyFoundation/selfkey-identity).
 
-### [**`did:meta:`**](https://github.com/METADIUM/meta-DID/blob/master/doc/DID-method-metadium.md)
-###### For Metadium, by Metadium Foundation
+### [**`did:meta:`**](https://github.com/METADIUM/meta-DID/blob/master/doc/DID-method-metadium.md) For Metadium, by Metadium Foundation
 
 > Metadium is the next-generation identity system powered by blockchain technology. Metadium Decentralized Identifiers is a distributed identifier designed to provide a way for a community connected to the Metadium Ecosystem to uniquely identify an individual, organization, or digital device. The role of a Metadium DID is to provide a service that supports user-authentication and personal information verification.
 > 
@@ -413,8 +431,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > ```
 > The MIN is case-insensitive, but it is recommended to use mixed-case checksum for address encoding (see [3]).
 
-### [**`did:tys:`**](https://github.com/chainyard-tys/tys/blob/master/README.md)
-###### For DID Specification, by Chainyard
+### [**`did:tys:`**](https://github.com/chainyard-tys/tys/blob/master/README.md) For DID Specification, by Chainyard
 
 > “Trust Your Supplier” aka “TYS” is actively in development at Chainyard, a leading Blockchain development firm located in RTP North Carolina. The network is undergoing beta testing and will go live in the next couple of months.
 > 
@@ -422,25 +439,24 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > 
 > TYS is implemented on Hyperledger Fabric, a permissioned blockchain technology under the Linux Foundation’s Hyperledger Project. The “Smart Contract” Functions are written in “Golang” and all client APIs are provided as REST APIs written in “Javascript” running on “NodeJS.
 
-### [**`did:git:`**](https://github.com/dhuseby/did-git-spec/blob/master/did-git-spec.md)
-###### For DID Specification, by Internet Identity Workshop
+### [**`did:git:`**](https://github.com/dhuseby/did-git-spec/blob/master/did-git-spec.md) For DID Specification, by Internet Identity Workshop
 
 > The Git revision control tool is designed to function in a decentralized peer-to-peer fashion to facilitate collaboration in the frequently-disconnected world. Git uses a directed acyclic graph (DAG) of commits that represent the changes to the folders and files in the repository. Because it uses blockchain-like hash-linking of commits, Git is effectively a blockchain and distributed ledger with the patch review and merge process functioning as the consensus mechanism. This makes it a great tool for tracking the provenance of data inside the repository. Git also records the author and other meta data such as digital signatures with each commit linking identity of committers to each commit. Git repos therefore contain all of the information needed to serve as the single source of truth for the provenance of the data it contains and the identities of the contributors that created it.
 
-### [**`did:tangle:`**](https://github.com/TangleID/TangleID/blob/develop/did-method-spec.md)
-###### For IOTA Tangle, by BiiLabs Co., Ltd.
+* [Git as Authentic Data Creation Tool (a.k.a. what happened to did:git? a.k.a. independently verifiable, secure, developer sovereign, open source software supply chain)](https://iiw.idcommons.net/12A/_Git_as_Authentic_Data_Creation_Tool_(a.k.a._what_happened_to_did:git%253F_a.k.a._independently_verifiable,_secure,_developer_sovereign,_open_source_software_supply_chain)) by Dave Huseby
+  > This session covered the evolution of thinking from the initiation of did:git at IIW April 2019 up until now. I recently chose to deprecate the did:git proposal in lieu of a new project to update Git to use provenance logs for identifier management in Git repos. I recently wrote an [article describing the proposal](https://dwhuseby.medium.com/universal-cryptographic-signing-protocol-for-git-42e7741b8773), and the [current proposal is here](https://github.com/TrustFrame/git-cryptography-protocol)
+
+### [**`did:tangle:`**](https://github.com/TangleID/TangleID/blob/develop/did-method-spec.md) For IOTA Tangle, by BiiLabs Co., Ltd.
 
 > IOTA is a public distributed ledger that utilizes an invention called the Tangle at its core, address scalability issues and having no transaction fee, that encourages adoption of the technology in the industry. TangleID is intended to implement DIDs and DID Documents.
 > 
 > TangleID also optimizes MAM for key management and related features across the Tangle. Masked Authenticated Messaging (MAM) is a data communication protocol which adds functionality to broadcast and access data streams over the Tangle which adds integrity to these message streams. The owner of seed in MAM is able to create a channel structure like above to transfer the messages. TangleID stores and manages corresponding DID Documents on the MAM channels, and use the initial channel id as the DID’s idstring, each revision of the DID document is recorded on the message of the endpoint afterward.
 
-### [**`did:emtrust:`**](https://github.com/Halialabs/did-spec/blob/gh-pages/readme.md)
-###### For Hyperledger Fabric, by Halialabs Pte Ltd.
+### [**`did:emtrust:`**](https://github.com/Halialabs/did-spec/blob/gh-pages/readme.md) For Hyperledger Fabric, by Halialabs Pte Ltd.
 
 > The Emtrust DID method utilizes Hyperledger fabric as the DLT implementation, having an identity channel which is shared among the identity nodes with participating organizations. The DID document along with metadata of third party endorsements resides on ledger and the private information of users are kept on the mobile or persona devices which never leaves the device. The Interaction of DID and blockchain ledger happens via the API servers hosted by any participating organizations.
 
-### [**`did:ttm:`**](https://github.com/TokenTM/TM-DID/blob/master/docs/en/DID_spec.md)
-###### For TMChain, by Token.TM
+### [**`did:ttm:`**](https://github.com/TokenTM/TM-DID/blob/master/docs/en/DID_spec.md) For TMChain, by Token.TM
 
 > ```
 > did:ttm:0xe32df42865e97135acfb65f3bae71bdc86f4d49150ad6a440b6f15878109880a
@@ -454,22 +470,19 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > The DID ledger is implemented as a simple layer of persistent identity registration on the Ethereum blockchain network. Meanwhile it can be extended to contain other data and functions. Scalability is achieved by using an identity contract as a controller for DID on the ledger. In particular, ERC725 combined with private key management contract, for example, ERC734 is expected to involve additional features with common conditions (such as defines service endpoint, private key rotation, delegation and licensing, etc.). At the meantime, it gives the permit of exploiting other standards, and even allows the owner of DID to transforms contract implementation to another without losing its identifier.
 
 
-### [**`did:wlk:`**](https://weelink-team.github.io/weelink/DIDDesignEn)
-###### For Weelink Network, by Weelink
+### [**`did:wlk:`**](https://weelink-team.github.io/weelink/DIDDesignEn) For Weelink Network, by Weelink
 
 > Weelink DID is a new blockchain-based authentication method that follows all the requirements of W3C. Based on Weelink Wallet, our method provides a series of APIs and services for a fast and secure authentication process.
 > 
 > The rapid development of Internet has provided unparalled convenience to the public, yet it is also inevitably bringing some potential problems. One of them is the leaking of private information that comes with traditional authentication systems. Taking advantage of blockchain’s decentralization and security characteristics, we thus propose our secure authentication method.
 
-### [**`did:pistis:`**](https://github.com/uino95/ssi/blob/consensys/dashboard/server/pistis/pistis-did-resolver/README.md)
-###### For Ethereum, by Andrea Taglia, Matteo Sinico
+### [**`did:pistis:`**](https://github.com/uino95/ssi/blob/consensys/dashboard/server/pistis/pistis-did-resolver/README.md) For Ethereum, by Andrea Taglia, Matteo Sinico
  
 > This specification defines how Pistis deals with DID and DID Documents and how it interacts with the Ethereum blockchain. Also CRUD operations on DID documents are described. This specification confirms to the requirements specified in the DID specification[1] currently published by the W3C Credentials Community Group.
 > 
 > Pistis is a credential management system based on the Ethereum blockchain. It provides a set of novel smart contracts to handle efficient multi signature operations, delegates management, permissioned access to extensible services based upon the Decentralized IDentifier specification.
 
-### [**`did:holo:`**](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/draft-documents/did:hc-method.md)
-###### For Holochain, by Holo.Host
+### [**`did:holo:`**](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/draft-documents/did:hc-method.md) For Holochain, by Holo.Host
 
 > ```
 > holo-did = "did:holo:" holo-specific-idstring
@@ -480,8 +493,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 
 > All transactions on Holochain are signed by a user's key. Therefore, by learning a holo DID, an observer/attacker is able to link the user's Holochain activities with potential DID-based applications such as DID Auth or Verifiable Credentials. Users should be aware that he/she can publish their own data associated with their public key on a specific Holochain network.
 
-### [**`did:web:`**](https://github.com/w3c-ccg/did-method-web)
-###### For Web, by Oliver Terbu, Mike Xu, Dmitri Zagidulin, Amy Guy
+### [**`did:web:`**](https://github.com/w3c-ccg/did-method-web) For Web, by Oliver Terbu, Mike Xu, Dmitri Zagidulin, Amy Guy
 
 > The target system of the Web DID method is the web host that the domain name described by the DID resolves to when queried through the Domain Name System (DNS).
 
@@ -497,8 +509,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > did:web:w3c-ccg.github.io:user:alice
 > ```
 
-### [**`did:io:`**](https://github.com/iotexproject/iotex-did/blob/master/README.md)
-###### For IoTeX, by IoTeX Foundation
+### [**`did:io:`**](https://github.com/iotexproject/iotex-did/blob/master/README.md) For IoTeX, by IoTeX Foundation
 
 > Our DID design allows each manufacture or entity to have its own namespace, which stores and manages DIDs through a self-managed DID contract. A self-managed contract could have customized business logic to adapt the application's needs but has to implement the SelfManagedDID interface, defined as follows:
 
@@ -513,28 +524,23 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > }
 > ```
 
-### [**`did:vaultie:`**](https://github.com/vaultie/vaultie-did-method/blob/master/vaultie-did-method-specification.md)
-###### For Ethereum, by Vaultie Inc.
+### [**`did:vaultie:`**](https://github.com/vaultie/vaultie-did-method/blob/master/vaultie-did-method-specification.md) For Ethereum, by Vaultie Inc.
 
 > Vaultie DID method uses IPFS as a decentralised storage for DID Documents. An Ethereum transaction, that does not require any additional Smart Contracts, provides a mapping from a DID to an IPFS hash address of the corrosponding DID Document. This enables DID Documents on IPFS to be effectively addressed via their DIDs. While this method requires additional step in order to lookup DID Document, the method is much more cost effective than using Smart Contracts and Ethereum's expensive storage.
 
-### [**`did:moac:`**](https://github.com/DavidRicardoWilde/moac-did/blob/master/did-moac-method.md)
-###### For MOAC, by MOAC Blockchain Tech, Inc.
+### [**`did:moac:`**](https://github.com/DavidRicardoWilde/moac-did/blob/master/did-moac-method.md) For MOAC, by MOAC Blockchain Tech, Inc.
 
 > The MOAC DID method uses MOAC blockchain as a decentralized storage layer for DID Documents. A deployed smart-contract provides a mapping from a DID to an MOAC blockchain hash address of the corrosponding DID Document. This enables DID Documents on MOAC blockchain to be effectively addressed via their DIDs.
 
-### [**`did:omn:`**](https://github.com/OmniOneID/did_method/blob/master/did_method.md)
-###### For OmniOne, by OmniOne
+### [**`did:omn:`**](https://github.com/OmniOneID/did_method/blob/master/did_method.md) For OmniOne, by OmniOne
 
 > OmniOne is a decentralized network system for Self-Sovereign identity and Verifiable Claims. It can replace a legacy centralized credential system that with trusted blockchain node. In the OmniOne system, several types of certificates are issued. DID(Decentralized Identifiers) is used as the unique identifier of the certificate. Also DID allows to obtain public key information for secure exchange of information between users.
 
-### [**`did:work:`**](https://workday.github.io/work-did-method-spec/)
-###### For Hyperledger Fabric, by Workday, Inc.
+### [**`did:work:`**](https://workday.github.io/work-did-method-spec/) For Hyperledger Fabric, by Workday, Inc.
 
 > Workday offers a decentralized Credentialing Platform with a Blockchain based trust layer. A key component of the platform is the WayTo by Workday mobile app which allows the user to store verifiable identity documents, encrypted using their own personal encryption key, which is managed in the Trusted Execution Environment (TEE) of their mobile device. The mobile app can hold official documents, training certifications, verified accomplishments and other credentials. The user can choose what to share, and with whom to share it with. Users of the Workday Credentialing Platform will have a DID and a corresponding DID Document on a permissioned ledger, which credential verifiers can use to validate users’ cryptographic signatures, included in their credentials.
 
-### [**`did:vid:`**](https://github.com/vpayment/did-method-spec/blob/master/vid.md)
-###### For VP, by VP Inc.
+### [**`did:vid:`**](https://github.com/vpayment/did-method-spec/blob/master/vid.md) For VP, by VP Inc.
 
 > The system aims to provide secure authentication and various payment services based on the DID and Verifiable Claims specificiatons published by the W3C and the Decentralised Identity Foundation. VP DID is a decentralized identifier devised to provide a way to uniquely identify a person, an organization. VP DID document contains information for providing various payment methods among network participants in a decentralized way. This specification defines how VP blockchain stores DIDs and DID documents, and how to do CRUD operations on DID documents.
 
@@ -545,8 +551,7 @@ Mainnet • Ropsten • Rinkeby • Goerli • Kovan • RSK • Alastria • Te
 > method-specific-id  = 40*HEXDIGIT
 > ```
 
-### [**`did:ccp:`**](https://did.baidu.com/did-spec/)
-###### For Quorum, by Baidu, Inc.
+### [**`did:ccp:`**](https://did.baidu.com/did-spec/) For Quorum, by Baidu, Inc.
 
 > Application scenarios:
 > 
@@ -570,8 +575,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > Where `<method-specific-id>` = `base58(ripemd160(sha256(<Base DID Document>)))` (Refer to Bitcoin, use double hash).
 
 
-### [**`did:jnctn:`**](https://github.com/jnctn/did-method-spec/)
-###### For Jnctn Network, by Jnctn Limited
+### [**`did:jnctn:`**](https://github.com/jnctn/did-method-spec/) For Jnctn Network, by Jnctn Limited
 
 > The system provides secure credential management services based on the DID and Verifiable Claims specifications published by the W3C and the Decentralised Identity Foundation. JNCTN DID method enables an interoperability bridge between the worlds of centralized, federated, and decentralized identifiers with self soverign identity services. JNCTN DID document contains information for accessing JNCTN DID network methods, how JNCTN stores DIDs and DID documents, and how to do CRUD operations on JNCTN DID documents. This specification is intended to be conformant with the DID Specification at https://w3c-ccg.github.io/did-spec/.
 
@@ -583,8 +587,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > 
 > ```
 
-### [**`did:evan:`**](https://github.com/evannetwork/evan.network-DID-method-specification/blob/master/evan_did_method_spec.md)
-###### For evan.network, by evan GmbH
+### [**`did:evan:`**](https://github.com/evannetwork/evan.network-DID-method-specification/blob/master/evan_did_method_spec.md) For evan.network, by evan GmbH
 
 > evan.network is a blockchain for digitalization and automation of business transactions. The network members create digital twins for their machines and products and develop standards for cross-company transactions. The open technology allows integration into existing business models. evan.network guarantees 100% reliable and permanently secured information.
 > 
@@ -599,15 +602,13 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > evan-asset = "0x"32*HEXDIG
 > ```
 
-### [**`did:elastos:`**](https://github.com/elastos/Elastos.DID.Method/blob/master/DID/Elastos-DID-Method-Specification_en.md)
-###### For Elastos ID Sidechain, by Elastos Foundation
+### [**`did:elastos:`**](https://github.com/elastos/Elastos.DID.Method/blob/master/DID/Elastos-DID-Method-Specification_en.md) For Elastos ID Sidechain, by Elastos Foundation
 
 > DID is completely under the control of the DID subject, without reliance on any centralized registration body, commercial identity provider, or organization issuing certificates. The DID is described in the DID documents. Each DID document includes at least two items: encryption materials and verification methods. The encryption materials integrated with the verification methods provides a set of identify verification mechanisms (such as a public key, anonymous biological identification agreement, etc.), with other optional parts that can be used according to the needs of the application and of the user.
 
 > There are two goals for the creation of this specification. The first is to define an internal Elastos system standard for the DID documents description format and a basic DID property set, allowing Elastos ecosystem apps to understand the basic digital identity information defined in the standard set, thereby achieving standardization of digital identities in the Elastos ecosystem. The secondary goal is to define a set of general operation methods that can be used for any dApp to reference to the Elastos DID service.
 
-### [**`did:kilt:`**](https://github.com/KILTprotocol/kilt-did-driver/blob/master/DID%20Method%20Specification.md)
-###### For KILT Blockchain, by BOTLabs GmbH
+### [**`did:kilt:`**](https://github.com/KILTprotocol/kilt-did-driver/blob/master/DID%20Method%20Specification.md) For KILT Blockchain, by BOTLabs GmbH
 
 > KILT DIDs are stored on KILT Protocol's blockchain that is public and by definition decentralized. The KILT Blockchain runs in a proof-of-authority manner and will become permissionless, see `§ Status of this document` in this specification document.
 > 
@@ -616,8 +617,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > owner => (sign_key, box_key, doc_ref)
 > ```
 
-### [**`did:elem:`**](https://github.com/decentralized-identity/element/blob/master/docs/did-method-spec/spec.md)
-###### For Element DID, by Transmute
+### [**`did:elem:`**](https://github.com/decentralized-identity/element/blob/master/docs/did-method-spec/spec.md) For Element DID, by Transmute
 
 > Element is an implementation of the Sidetree protocol that uses the Ethereum blockchain as the ledger layer and IPFS as the Content-addressable storage layer
 
@@ -632,8 +632,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > 
 > The remainder of a DID after the prefix, called the did unique suffix, MUST be SHA256 hash of the encoded create payload (see below)
 
-### [**`did:github:`**](https://docs.github-did.com/did-method-spec/)
-###### For Github, by Transmute
+### [**`did:github:`**](https://docs.github-did.com/did-method-spec/) For Github, by Transmute
 
 > The `github` method is meant to make working with DIDs very simple at the cost of trusting Github.com for assisting in resolving DID Documents.
 > 
@@ -643,15 +642,13 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > 
 > The objective of GitHub DID is to encourage contribution to the DID Spec and Linked Data Signatures, and allow rapid development of extensions to these without requiring the use of slow, or complicated more trustless infrastructure, such as blockchains or other distributed systems.
 
-### [**`did:bid:`**](https://github.com/teleinfo-bif/bid/tree/master/doc/en)
-###### For bif, by teleinfo caict
+### [**`did:bid:`**](https://github.com/teleinfo-bif/bid/tree/master/doc/en) For bif, by teleinfo caict
 
 > BID provides distributed identifiers and blockchain-based digital identity services for people, enterprises, devices and digital objects. It aims to build a decentralized, data-secure, privacy-protected and flexible identifier system that addresses trusted connections among people, enterprises, devices and digital objects，enabling the vision of the Internet of Things and trust ingress with everything.
 > 
 > BID is built on decentralized identification protocols and equipped with characters like decentralization, self-management, privacy protection, security and ease of use. Each BID links to one BIF DID Description Object (DDO).
 
-### [**`did:ptn:`**](https://github.com/palletone/palletone-DID/blob/master/docs/did-method/README.md)
-###### For PalletOne, by PalletOne
+### [**`did:ptn:`**](https://github.com/palletone/palletone-DID/blob/master/docs/did-method/README.md) For PalletOne, by PalletOne
 
 > Description of each field in the Base DID Document example (★ required fields, others are optional fields):
 > 
@@ -667,8 +664,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > * `deletion` Specify `publicKey` which fields can be used for DID Document **delete** operation.
 > * `recovery` Specify `publicKey` which fields can be used for DID Document **recovery** operations.
 
-### [**`did:echo:`**](https://github.com/echoprotocol/uni-resolver-driver-did-echo/blob/master/echo_did_specifications.md)
-###### For Echo, by Echo Technological Solutions LLC
+### [**`did:echo:`**](https://github.com/echoprotocol/uni-resolver-driver-did-echo/blob/master/echo_did_specifications.md) For Echo, by Echo Technological Solutions LLC
 
 > We propose a new DID method that allows special objects in ECHO network to be treated as valid DIDs.
 
@@ -685,8 +681,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > echo-object-id  = 1*DIGIT "." 1*DIGIT "." 1*DIGIT
 > ```
 
-### [**`did:trustbloc:`**](https://github.com/trustbloc/trustbloc-did-method/blob/master/docs/spec/trustbloc-did-method.md)
-###### For Hyperledger Fabric, by SecureKey
+### [**`did:trustbloc:`**](https://github.com/trustbloc/trustbloc-did-method/blob/master/docs/spec/trustbloc-did-method.md) For Hyperledger Fabric, by SecureKey
 
 > The did:trustbloc DID method allows groups of independent entities to share custody of a DID registry consisting of a Sidetree implementation over a permissioned ledger. For more information on Sidetree, please refer to the Sidetree protocol specification.
 > 
@@ -695,8 +690,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > This spec defines a discovery service. The discovery service provided by the TrustBloc DID Method allows a client to verify that a consortium is endorsed by its constituent stakeholders, verify that the configuration files of each stakeholder (which includes a list of Sidetree endpoints) are signed by the respective stakeholders, and use the provided Sidetree endpoints to perform Sidetree DID operations.
 
 
-### [**`did:san:`**](https://github.com/Baasze/DID-method-specification)
-###### For SAN Cloudchain, by YLZ Inc.
+### [**`did:san:`**](https://github.com/Baasze/DID-method-specification) For SAN Cloudchain, by YLZ Inc.
 
 > The system aims to provide secure authentication and various health services based on the SAN blockchain and DID & Verifiable Credential Specifications published by the W3C.
 
@@ -707,8 +701,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > did:san:abcdefgh1234
 > ```
 
-### [**`did:gatc:`**](https://github.com/gatacaid/gataca-did-method)
-###### For Ethereum, Hyperledger Fabric, Hyperledger Besu, Alastria, by https://gataca.io/
+### [**`did:gatc:`**](https://github.com/gatacaid/gataca-did-method) For Ethereum, Hyperledger Fabric, Hyperledger Besu, Alastria, by https://gataca.io/
 
 > Gataca’s platform is based on a mobile identity portfolio, a set of APIs, and controllers for multiple blockchain networks.
 > 
@@ -718,15 +711,13 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > 
 > The simple structure links an object to a DID with states and public keys. Users do not need privileges to read the information on the blockchain but do need them to write. Gataca is the unique user that can modify the smart contract.
 
-### [**`did:factom:`**](https://github.com/factom-protocol/FIS/blob/master/FIS/DID.md)
-###### For Factom, by Sphereon, Factomatic, Factom Inc
+### [**`did:factom:`**](https://github.com/factom-protocol/FIS/blob/master/FIS/DID.md) For Factom, by Sphereon, Factomatic, Factom Inc
 
 > This proposal contains the interoperability specifications for products creating, reading (resolving) updating and deactivating Decentralized Identifiers on top of the Factom Protocol. This specification is not about other products wanting to use DIDs for their specific purpose, like signing or voting. This document describes the low level data structures and rules for DIDs, DID documents, resolution and registration on Factom itself.
 > 
 > Decentralized Identifiers are a cross ledger solution to support self sovereign identities. The Factom Protocol is ideally suited to store DIDs. This specification is the first step in creating a single specification for maximum interoperability with regards to identities across products and solutions on top of the Factom Protocol.
 
-### [**`did:signor:`**](https://github.com/cryptonicsconsulting/signor-did-contracts/blob/master/did-method-spec.md)
-###### For Ethereum, Hedera Hashgraph, Quorum, Hyperledger Besu, by https://cryptonics.consulting/
+### [**`did:signor:`**](https://github.com/cryptonicsconsulting/signor-did-contracts/blob/master/did-method-spec.md) For Ethereum, Hedera Hashgraph, Quorum, Hyperledger Besu, by https://cryptonics.consulting/
 
 > This method shall be identified with the name sginor. A Signor DID has the following format:
 
@@ -746,13 +737,11 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 
 > DIDs are registered in the DID Registry on-chain, and have a controller and a subject, expressed in the form of Ethereum addresses. The DID controller may or may not be the subject itself. Multiple controllers can be implemented through proxy smart contracts.
 
-### [**`did:hedera:`**](https://github.com/hashgraph/did-method/blob/master/did-method-specification.md)
-###### For Hedera Hashgraph, by Hedera Hashgraph, Swisscom Blockchain AG
+### [**`did:hedera:`**](https://github.com/hashgraph/did-method/blob/master/did-method-specification.md) For Hedera Hashgraph, by Hedera Hashgraph, Swisscom Blockchain AG
 
 > This document defines a binding of the Decentralized Identifier architecture to Hedera Hashgraph - specifically how to use the Hedera File Service to record membership in 'business application networks' (appnets) and how to use the Hedera Consensus Service (HCS) for CRUD mechanisms on DID documents stored in such business application network. An business application network is a network of computers that store some set of business data (such as DID Documents) in a shared state, and rely on the Hedera mainnet for timestamping and ordering the transactions that cause that business application network state to change. An business application network could be exclusively dedicated to managing DID Documents and other identity artifacts in its state, or it could itself be multi-purpose. For instance, a Supply Chain could establish an business application network and, in addition to using HCS for tracking the location of shipments, use the DID method defined here to manage the identities of the associated companies, employees, and IoT devices. The HCS model is designed to off load from the Hedera mainnet node the burden of disk writes and long term storage and so allow those nodes to be optimized for high throughput ordering of transactions.
 
-### [**`did:sirius:`**](https://gitlab.com/proximax-enterprise/siriusid/sirius-id-specs/-/blob/master/docs/did-method-spec.md)
-###### For ProximaX Sirius Chain, by ProximaX Enterprise, Proximax Inc.
+### [**`did:sirius:`**](https://gitlab.com/proximax-enterprise/siriusid/sirius-id-specs/-/blob/master/docs/did-method-spec.md) For ProximaX Sirius Chain, by ProximaX Enterprise, Proximax Inc.
 
 > ProximaX SiriusID is intended to implement `did:sirius` and its DID Document.
 
@@ -765,8 +754,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > idstring = base58(version,network-identifier,address)
 > ```
 
-### [**`did:dock:`**](https://github.com/docknetwork/dock-did-driver/blob/master/Dock%20DID%20method%20specification.md)
-###### For Dock, by https://www.dock.io/
+### [**`did:dock:`**](https://github.com/docknetwork/dock-did-driver/blob/master/Dock%20DID%20method%20specification.md) For Dock, by https://www.dock.io/
 
 > Currently, three public key and signing algorithms are supported for authentication.
 
@@ -782,8 +770,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 
 
 
-### [**`did:twit:`**](https://did-twit.github.io/did-twit/)
-###### For Twit, by https://github.com/did-twit/did-twit/blob/master/spec/index.md
+### [**`did:twit:`**](https://did-twit.github.io/did-twit/) For Twit, by https://github.com/did-twit/did-twit/blob/master/spec/index.md
 
 > Twitter is a highly used and influential social media network that lacks decentralization and higher levels of trust (i.e. signed messages). The `did:twit` specification makes an attempt to increase trust in Twitter interactions.
 > 
@@ -791,8 +778,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > 
 > The objective of Twitter DID, similar to that of the [GitHub DID Method](https://github.com/decentralized-identity/github-did),  is to encourage use of the [DID Spec](https://w3c-ccg.github.io/did-spec/), by lowering the barrier to entry for use of the technology, and promote higher trust interactions.
 
-### [**`did:near:`**](https://github.com/ontology-tech/DID-spec-near/blob/master/NEAR/DID-Method-NEAR.md)
-###### For NEAR, by Ontology Foundation
+### [**`did:near:`**](https://github.com/ontology-tech/DID-spec-near/blob/master/NEAR/DID-Method-NEAR.md) For NEAR, by Ontology Foundation
 
 > NEAR uses readable account identifiers instead of a hash of a public key, and the accounts have some DID features, but not all. We have developed this specification to define a new DID method for hosting DIDs on the NEAR blockchain, also referred to as NEAR DID, and facilitate developers to work with related contracts.
 
@@ -802,15 +788,13 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > idchar    = %x30-39 / %x61-7A / "-" / "_"
 > ```
 
-### [**`did:vaa:`**](https://github.com/caict-develop-zhangbo/vaa-method/blob/master/README.md)
-###### For bif, by China Academy of Information and Communications Technology (CAICT)
+### [**`did:vaa:`**](https://github.com/caict-develop-zhangbo/vaa-method/blob/master/README.md) For bif, by China Academy of Information and Communications Technology (CAICT)
 
 > Blockchain Identifier Infrastructure (BIF) is a permissioned public blockchain aiming for creating a distributed trust management framework typical for internet ID service, and the BIF blockchain (http://bidspace.cn/) is governed by China Academy of Information and Communications Technology (CAICT). CAICT is also the official issuing agency with Issuing Agency Code (IAC)——"VAA", given by ISO/IEC 15459. The IAC indicates an authorized qualification of distributing identifiers with own allocation rules.
 > 
 > As the "VAA" means a self-defined rule for internet identifiers, these letters could be literal used as a DID method name conformant with W3C DID specification. The VAA method is created not only to define a random identifier generation rules, but ultimately to create smart contracts, which support different identifiers format.
 
-### [**`did:bba:`**](https://github.com/blobaa/bba-did-method-specification/blob/master/docs/markdown/spec.md)
-###### For Ardor, by Attila Aldemir
+### [**`did:bba:`**](https://github.com/blobaa/bba-did-method-specification/blob/master/docs/markdown/spec.md) For Ardor, by Attila Aldemir
 
 > The `bba` DID method aims to enable the Ardor blockchain to act as a DPKI within the SSI ecosystem. It runs on the independent IGNIS child chain and utilizes Ardors Account Properties feature to manage DIDs and corresponding DID controllers. The Account Properties feature provides the possibility to tag an account with a small amount of data (160 characters). A DID controller is always represented in form of an Ardor account and is by default separated from the public keys (if present) embedded in a DID document. Think of a master key controlling the DID operations create, update and deactivate. A DID controller always corresponds to exactly one Ardor account, whereas one Ardor account can control multiple DIDs.
 > 
@@ -818,8 +802,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > 
 > In the following, `bba` DID method compliant account properties are called DID attestations. An account property is `bba` DID method compliant if it aligns to the data model described in the DID Attestation Data Fields section and is self-set. A self-set account property is a property in which sender and receiver accounts are identical.
 
-### [**`did:morpheus:`**](https://developer.iop.global/w3c?id=personal-data)
-###### For Hydra, by https://iop.global/
+### [**`did:morpheus:`**](https://developer.iop.global/w3c?id=personal-data) For Hydra, by https://iop.global/
 
 > Distributed ledger technologies (DLT, blockchain) are mostly used by cryptocurrencies, but their event ordering and decentralized consensus algorithms are useful for general purpose. Morpheus needs DLT for safe ordering DID updates and querying the historical state of a DID Document at any given point of time for signature validation. The main benefit of DLTs is that many parties with opposing interests run the infrastructure, therefore it is almost impossible to unilaterally control changes to the history and state of the ledger.
 > 
@@ -830,8 +813,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > morpheus-idstring = (multicipher-encoded asymmetric cryptographic keyId value)
 > ``` 
 
-### [**`did:etho:`**](https://github.com/ontology-tech/DID-method-specs/blob/master/did-etho/DID-Method-etho.md)
-###### For Ethereum, by Ontology Foundation
+### [**`did:etho:`**](https://github.com/ontology-tech/DID-method-specs/blob/master/did-etho/DID-Method-etho.md) For Ethereum, by Ontology Foundation
 
 > Decentralized identifiers (DIDs) are a new type of identifiers that enables verifiable, self-sovereign digital identity. This ETHO DID method specification describes a new DID method, that is, ETHO DID and defines how Ethereum blockchain stores ETHO DIDs and their corresponding DID documents, and how to do CRUD operations on ETHO DID documents.
 
@@ -840,8 +822,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > etho-specific-idstring = 40*40HEXDIG
 > ```
 
-### [**`did:bnb:`**](https://github.com/ontology-tech/DID-method-specs/blob/master/did-bnb/DID-Method-bnb.md)
-###### For Binance Smart Chain, by Ontology Foundation
+### [**`did:bnb:`**](https://github.com/ontology-tech/DID-method-specs/blob/master/did-bnb/DID-Method-bnb.md) For Binance Smart Chain, by Ontology Foundation
 
 > Decentralized identifiers (DIDs) are a new type of identifiers that enables verifiable, self-sovereign digital identity. This Binance DID method specification describes a new DID method, that is, Binance DID and defines how Binance Smart Chain stores Binance DIDs and their corresponding DID documents, and how to do CRUD operations on Binance DID documents.
 
@@ -850,8 +831,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > bnb-specific-idstring = 40*40HEXDIG
 > ```
 
-### [**`did:celo:`**](https://github.com/ontology-tech/DID-method-specs/blob/master/did-celo/DID-Method-celo.md)
-###### For Celo, by Ontology Foundation
+### [**`did:celo:`**](https://github.com/ontology-tech/DID-method-specs/blob/master/did-celo/DID-Method-celo.md) For Celo, by Ontology Foundation
 
 > Decentralized identifiers (DIDs) are a new type of identifiers that enables verifiable, self-sovereign digital identity. This Celo DID method specification describes a new DID method, that is, Celo DID and defines how Celo blockchain stores Celo DIDs and their corresponding DID documents, and how to do CRUD operations on Celo DID documents.
 
@@ -860,18 +840,15 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > celo-specific-idstring = 40*40HEXDIG
 > ```
 
-### [**`did:klay:`**](https://github.com/ontology-tech/DID-method-specs/blob/master/did-klay/DID-Method-klay.md)
-###### For Klaytn, by Ontology Foundation
+### [**`did:klay:`**](https://github.com/ontology-tech/DID-method-specs/blob/master/did-klay/DID-Method-klay.md) For Klaytn, by Ontology Foundation
 
 > Decentralized identifiers (DIDs) are a new type of identifiers that enables verifiable, self-sovereign digital identity. This Klaytn DID method specification describes a new DID method, that is, Klaytn DID and defines how Klaytn blockchain stores Klaytn DIDs and their corresponding DID documents, and how to do CRUD operations on Klaytn DID documents.
 
-### [**`did:trx:`**](https://github.com/ontology-tech/DID-method-specs/blob/master/did-trx/DID-Method-trx.md)
-###### For TRON, by Ontology Foundation
+### [**`did:trx:`**](https://github.com/ontology-tech/DID-method-specs/blob/master/did-trx/DID-Method-trx.md) For TRON, by Ontology Foundation
 
 > Decentralized identifiers (DIDs) are a new type of identifiers that enables verifiable, self-sovereign digital identity. This TRON DID method specification describes a new DID method, that is, TRON DID and defines how TRON blockchain stores TRON DIDs and their corresponding DID documents, and how to do CRUD operations on TRON DID documents.
 
-### [**`did:grg:`**](https://github.com/GrgChain/DID-method-specs/blob/master/README.md)
-###### For GrgChain, by GRGBanking Blockchain Express Co. Ltd.
+### [**`did:grg:`**](https://github.com/GrgChain/DID-method-specs/blob/master/README.md) For GrgChain, by GRGBanking Blockchain Express Co. Ltd.
 
 > ```
 > 1. Did document
@@ -939,36 +916,31 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > ```
 
 
-### [**`did:schema:`**](https://github.com/51nodes/schema-registry-did-method/blob/master/README.md)
-###### For Multiple storage networks, currently public IPFS and evan.network IPFS, by 51nodes GmbH
+### [**`did:schema:`**](https://github.com/51nodes/schema-registry-did-method/blob/master/README.md) For Multiple storage networks, currently public IPFS and evan.network IPFS, by 51nodes GmbH
 
 > The Schema Registry DID Method aims to provide unique and universal identification for schemas in multiple formats hosted on multiple storage mechanisms or networks.
 > 
 > This first version will focus on JSON Schema and XML Schema Definition/XSD schemas stored using the IPFS (InterPlanetary File System) protocol, but the DID method and concept is open for contributions and extensions regarding further schema formats and storage/network options.
 
-### [**`did:key:`**](https://w3c-ccg.github.io/did-method-key/)
-###### For Ledger independent DID method based on public/private key pairs, by Rick Astley (thank you for your inspiration), Manu Sporny, Dmitri Zagidulin, Dave Longley, Orie Steele
+### [**`did:key:`**](https://w3c-ccg.github.io/did-method-key/) For Ledger independent DID method based on public/private key pairs, by Rick Astley (thank you for your inspiration), Manu Sporny, Dmitri Zagidulin, Dave Longley, Orie Steele
 
 > While DLT-based DID Methods have great decentralization characteristics, and some of the more centralized DID Methods provide strong system control guarantees, the general approaches tend to be expensive to setup and operate. Some use cases requiring DIDs do not need the guarantees provided by these heavy-weight systems. For example, a DID that will only be used for a single, ephemeral interaction might not need to be registered, updated, or deactivated. It is for this class of use cases that the did:key method exists.
 
 > The format for the did:key method conforms to the [DID-CORE] specification and is simple. It consists of the did:key prefix, followed by a Multibase [MULTIBASE] base58-btc encoded value that is a concatenation of the Multicodec [MULTICODEC] identifier for the public key type and the raw bytes associated with the public key format.
 
-### [**`did:tyron:`**](https://www.tyronzil.com/)
-###### For Zilliqa, by Julio Cabrapan Duarte
+### [**`did:tyron:`**](https://www.tyronzil.com/) For Zilliqa, by Julio Cabrapan Duarte
 
 > Self-Sovereign Identity (SSI) allows people to manage their digital identities, proving who they are without a middleman, by anchoring DIDs on blockchain platforms as a shared root of trust. However, most blockchains still can't provide decentralized identity at scale. By implementing the Tyron SSI Protocol, tyronZIL aims to solve this issue and enable user-controlled digital identities.
 > 
 > The word Tyron derives from the Greek turannos that means sovereign, and Tyron's purpose is to give people sovereignty over their data.
 
-### [**`did:corda:`**](https://htmlpreview.github.io/?https://github.com/persistentsystems/corda-did-method/blob/master/corda_did_method.html)
-###### For Corda, by Nitesh Solanki,Moritz Platt,Pranav Kirtani
+### [**`did:corda:`**](https://htmlpreview.github.io/?https://github.com/persistentsystems/corda-did-method/blob/master/corda_did_method.html) For Corda, by Nitesh Solanki,Moritz Platt,Pranav Kirtani
 
 > To understand the environment in which the Corda DID method operates, the permissioned nature of a Corda network and the point-to-point approach to data replication must be taken into account. While parties in permissionless blockchains remain anonymous and can join and leave at will, any Corda network utilizes a standard PKIX infrastructure for linking public keys to identities [corda-whitepaper]. As such, individually deployed entities in the network – nodes – have a strong notion of identity. This concept is instrumental in network communication. Similarly, the data-replication model implemented in Corda is different to that of a conventional public blockchain, which makes all in-ledger data visible to all network participants. In Corda, data are distributed to a configurable subset of network members only.
 
 > The Corda DID method operates in an environment where multiple nodes form a consortium in order to replicate decentralized identity data (cf. figure 1). These consortium nodes replicate decentralized identifier documents to form a network-wide and, ultimately, consistent view of the unity of decentralized identifiers, using the Corda DID method.
 
-### [**`did:uns:`**](https://github.com/unik-name/did-method-spec/blob/main/did-uns/UNS-DID-Specification.md)
-###### For https://docs.uns.network/, by https://www.spacelephant.org/
+### [**`did:uns:`**](https://github.com/unik-name/did-method-spec/blob/main/did-uns/UNS-DID-Specification.md) For https://docs.uns.network/, by https://www.spacelephant.org/
 
 > The uns DID method provides support for DIDs on the uns.network blockchain. More specifically, it associates a DID to every address in the ledger. This method is very minimalistic in the sense that it produces DID Document (DDoc) with minimal information: a DID and its associated public key. Furthermore, once a uns-did is created, it cannot be updated.
 > 
@@ -976,7 +948,102 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 > 
 > Identifiers are only the first use case for uns.network NFTs. Other use cases are likely to require their own DID method based on uns DIDs.
 
-### [**`did:panacea:`**](https://github.com/medibloc/panacea-core/blob/master/docs/did.md)
-###### For Panacea, by MediBloc
+### [**`did:panacea:`**](https://github.com/medibloc/panacea-core/blob/master/docs/did.md) For Panacea, by MediBloc
 
 > Panacea is a public blockchain built by MediBloc to reinvent the healthcare experience. Panacea also supports DID operations. DIDs are created and stored in the Panacea, and they are used with verifiable credentials.
+
+### DID:INDY
+* [The did:indy DID Method - Future Indy Ledgers](https://iiw.idcommons.net/4I/_The_did:indy_DID_Method_-_Future_Indy_Ledgers) by Stephen Curran
+* [Presentation](https://docs.google.com/presentation/d/1c5K7E5CRx9ANuwmVBIyFVG5hJ4lH0EyW-wkmraLivBI/edit?usp%3Dsharing)
+  > - Namespaced DIDs useful across all Indy instances
+  > - Indy network discovery
+  > - Full DIDDoc support
+  > - Namespaced identifiers for other Indy objects (schemas, etc.)
+  > - Support for important resolution parameters
+  > - E.g. version-id, version-time, resource
+  > - Nice to have (but not likely to be there):
+  > - Cross-ledger registration of networks for discovery
+  > - Support for KERI identifiers on Indy networks
+  > Getting involved with this work:\
+  > - [HackMD Document](https://hackmd.io/@icZC4epNSnqBbYE0hJYseA/S1eUS2BQw) with current spec
+  > - Home of future spec: [indy-did-method](https://github.com/hyperledger/indy-did-method)
+  > - [Meeting Wiki](https://wiki.hyperledger.org/display/indy/Indy%2BDID%2BMethod%2BSpecification) and schedule
+  > - Hyperledger [indy-did-method](https://chat.hyperledger.org/channel/indy-did-method) chat channel
+
+### DID:ONION
+* [DID Method Onion Specification](http://htmlpreview.github.io/?https://raw.githubusercontent.com/BlockchainCommons/did-method-onion/main/index.html)
+  > 🧅 part of the torgap technology family\
+  > DIDs that target a distributed ledger face significant practical challenges in bootstrapping enough meaningful trusted data around identities to incentivize mass adoption. We propose using a new DID method that allows them to bootstrap trust using a Tor Hidden Service's existing reputation.\
+  > we'd like to review more with our community how close we want to keep did:onion to did:web, and if we want to incorporate some elements of did:peer or KERI or to leverage services like Open Time Stamps.
+
+### DID:NFT
+* [Discussion of NFT and music projects, NFT:DID for turning NFT's into identities, and critical updates en route to mainnet.](https://www.youtube.com/watch?v%3DJfvRLhz6OpY) Ceramic Community Call
+  > you can go to [ceramicnetwork/nft-did-resolver](https://github.com/ceramicnetwork/nft-did-resolver) on github to see the prototype
+  > so this is the minimal implementation that allows you to verify signatures of the most recent owner of the nft did as like being valid
+
+### DID:EOS
+* [The EOSIO DID method specification](https://www.gimly.io/blog/the-eosio-did-method-specification)
+  > We have been working with the [Decentralised Identity Foundation](https://identity.foundation) to shape this specification, and also want to thank the [W3C Credentials Community Group](https://www.w3.org/community/credentials/) for their support in the creation of the [Verifiable Condition](https://github.com/Gimly-Blockchain/verifiable-conditions) type, a necessary component to create the EOSIO DID document to represent EOSIO account permissions.
+
+### DID:DID (humor)
+* [did:did - DID Identity DID (DID) DID method](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0026.html)
+  > Spruce announces did:did, a DID method based on Decentralized Identifiers (DIDs). We hope the community will find this useful to help increase adoption and interoperability of Decentralized Identity technology.
+  > 
+  > Specification: [https://did-did.spruceid.com/](https://did-did.spruceid.com/)\
+  > Source: [https://github.com/spruceid/did-did/](https://github.com/spruceid/did-did/)
+  > Registration request: [https://github.com/w3c/did-spec-registries/pull/280](https://github.com/w3c/did-spec-registries/pull/280)
+
+### DID:UNDID (humor)
+* [DID Identity UN-DID Method Specification](https://did-undid.github.io/did-undid/)
+  > Clarification, a few week ago we shared about the [DID:DID](https://did-did.spruceid.com/) method. [April Fools Joke](https://en.wikipedia.org/wiki/April_Fools%2527_Day_RFC)!!! Here’s yet another DID method in the series.
+  > 
+  > did:un-did is a DID method that enables using any valid Decentralized Identifier (DID) as a did:un-did DID, but more importantly it un-does the did that did:did did method performs.
+
+### DID:DOGE
+* [DogeCoin DID Method by Spruce Systems](https://github.com/spruceid/did-doge)
+  > - Such Decentralization: Dogecoin is a public, permissionless blockchain favored by Shiba Inus worldwide, making it suitable for this purpose.
+  > - Much Identity: Since shibes are unique in different and special ways, this specification provides the means to assign each one their very own ShibeID.
+  > - Wow Blockchains: Dogecoin has proven again and again its resiliency in the face of adversity, proving that it is the ultimate host to such a primitive.
+* [Decentralized Identity with the Tezos DID Method](https://sprucesystems.medium.com/decentralized-identity-with-the-tezos-did-method-d9cf6676dd64)
+
+### DID:TZ
+* [Spruce](https://www.spruceid.com/) and [TQ Tezos](https://tqtezos.com/) are jointly releasing the [draft specification](https://did-tezos.spruceid.com/) and [initial implementation](https://github.com/spruceid/did-tezos) of [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/) based on the Tezos blockchain.
+
+### Unisot DID
+
+* [UNISOT DID approved by W3C](https://unisot.com/unisot-did-approved-by-w3c/)
+* [https://gitlab.com/unisot-did](https://gitlab.com/unisot-did)
+
+We are proud to have UNISOT ID (did:unisot) listed at the Decentralized Identity Foundation (DIF). As part of our commitment to open technologies and global interoperability we have presented our DID schema (did:unisot) to the Decentralized Identity Foundation (DIF) and supplied a driver for their Universal DID Resolver which can be accessed at: [https://resolver.identity.foundation/](https://resolver.identity.foundation/). With this anyone can resolve a UNISOT DID Document in a trusted and easy way.
+
+### DID:ORB
+* [SecureKey’s New Ledger-Agnostic did:orb](https://securekey.com/securekeys-new-ledger-agnostic-solution-orb-helps-solve-decentralized-identifier-challenges/)
+
+did:orb that decouples DIDs from ledgers while maintaining trust and security. SecureKey is leveraging standard and open-source peer-to-peer protocols like ActivityPub, data structures like verifiable credentials content-addressed storage like IPFS, and distributed trust services like the Google Trillian project to build a peer-to-peer trust network.
+
+## Critique
+* [Don’t use DIDs, DIDs, nor DIDs: Change My Mind (a.k.a. Oh no he DIDn’t)](https://dwhuseby.medium.com/dont-use-dids-58759823378c) by Dave Huseby ([video](https://eu01web.zoom.us/rec/play/4_ZLV8uot0hFQgRZsoILvdnn879oGEmrXsPXsCcvf4GsDPjWLQAxKjrZFiF0AxQe_MYb1_oeQa9HsRY.8KTaTYyrhu2Q-kJ_?continueMode%3Dtrue))
+  > Joe came and fervently disagreed with my assertions. Lots of people had reasonable counter arguments. My main arguments are 1. DID Documents don't have history when old keys are always relevant and 2. having 94 different DID methods that aren't compatible nor replaceable and don't function the same way is a HUGE problem.
+  > 
+  > There was no conclusion other than Sam Smith and I came to the conclusion that we have more in common than we thought.
+* [Don’t use DIDs, DIDs, nor DIDs: Change My Mind (a.k.a. Oh no he DIDn’t)](https://iiw.idcommons.net/10A/_Don%2527t_use_DIDs,_DIDs,_nor_DIDs:_Change_My_Mind_(a.k.a._Oh_no_he_DIDn%2527t)) by Dave Huseby
+  > This session was to talk about the topics I put in a recent article that created a huge fire in our community where I lay out the case for completely abandoning the W3C DID standards.
+* [Don’t Use DIDs: Political Solutions Never Solve Technological Problems](https://dwhuseby.medium.com/dont-use-dids-58759823378c) DW Husebey
+
+A large set of impact investor, international donor, and government anti-poverty policy is based on the notion that for-profit companies can be induced to serve the poor with life changing services like banking or schooling but the limits of the for profit model are not always taken into account
+
+## Tools
+
+* [godiddy.com - Universal DID Services](https://iiw.idcommons.net/2C/_godiddy.com_-_Universal_DID_Services) by Markus Sabadello [[Documentation](https://docs.godiddy.com/)] [[API Reference](https://api.godiddy.com/)]
+  > Basic functions are creating, resolving, updating, and deactivating DIDs across multiple DID methods and networks. Advanced functions include key management, search, transfer of DIDs, lookup of historical DID document versions, notification of DID-related events, and more.
+* [Standard Interfaces for DID Create/Update/Deactivate](https://iiw.idcommons.net/3C/_Standard_Interfaces_for_DID_Create/Update/Deactivate) by Markus Sabadello
+  > - There is an attempt to specify abstract interfaces if you want to Create/Update/Deactivate a did that could be implemented for all did methods.
+  > - The idea of this specification is to provide a standard with the same assumptions as with resolution. It should be in an abstract level, meaning it should specify the inputs and outputs of creating/updating/deactivating a did but not how it should be implemented.
+  > [...]
+  > - [https://peacekeeper.github.io/did-registration/](https://peacekeeper.github.io/did-registration/)
+  > - [https://dev.uniresolver.io/](https://dev.uniresolver.io/)
+  > - [https://uniregistrar.io/](https://uniregistrar.io/)
+  > - [https://w3c-ccg.github.io/did-resolution/](https://w3c-ccg.github.io/did-resolution/)
+  > - [https://w3c.github.io/did-rubric/](https://w3c.github.io/did-rubric/)
+  > - [https://github.com/decentralized-identity/universal-registrar](https://github.com/decentralized-identity/universal-registrar)
+  > - [https://godiddy.com](https://godiddy.com/)
