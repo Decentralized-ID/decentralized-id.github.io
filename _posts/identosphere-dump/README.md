@@ -1,0 +1,273 @@
+# Categories
+
+- Open Standards
+  - Decentralized Identifier
+    - Explainer
+    - Methods
+    - Resolution
+    - Critique 
+  - Verifiable Credential
+    - Explainer
+    - Comparisons with/ other Tech
+    - Varieties
+      - JSON-LD 
+      - JSON-LD ZKP BBS+
+      - JSON-JWT
+      - ZKP-CL - [IIA] Indy Aries AnnonCreds
+      - JWP
+  - Exchange Protocols
+    - DIDComm
+    - CHAPI
+    - OIDC
+    - mDL
+    - WACI-Pex
+  - Complementary to VC/DID Standards
+    - JSON-LD
+    - JSON
+    - KERI
+    - Cryptography
+      - BBS
+  - Authorization Protocols
+    - oCap/zCap
+    - UCAN
+    - GNAP
+    - OAuth
+  - Trust Frameworks
+    - 800-63-3
+    - DIACC
+  - Blockchain Standards
+    - ISOTC 307
+    - CEN/EENTLIC
+    - ERC 725
+  - Standards Orgs
+    - W3C
+    - IETF
+    - OASIS
+    - ITU-T
+    - ISO/IEC
+  - ISO Standards
+    - mDL 18013-5
+    - 22030
+    - Working Group 3 - Travel Documents
+  - Non SSI Identity Standards
+    - OpenID
+    - FIDO
+    - OAuth
+    - SCIM
+    - SAML
+    - KMIP
+    - Secure QR Code
+  - Trust Registries & Directories
+    - TRAIN
+  - Data Stores
+    - EDV
+    - DWN
+- Open Source Projects
+  - Universal Resolver
+  - ESSIF-Lab
+  - Company Code Bases
+    - Walt.id
+    - Verite
+    - SpruceID
+ - Hyperledger
+    - Aires
+    - Indy
+    - Ursa
+    - Other HyperLedger Projects
+- Research Papers/Academic Literatures → resources/research.md → resources/liturature.md 
+  - Turing Institute
+- User Experience → user-experience/user-experience.md
+- Media Coverage
+  - Mainstream
+  - Cryto Oriented Publications
+  - Awards
+  - Data Breaches
+- Community Organizations
+  - W3C - CCG
+  - DIF
+  - ToIP
+  - ADIA
+  - Kantara
+  - MyData
+  - DIACC
+  - ID2020
+  - OpenID Foundation
+  - M2B Alliance (has a new name)
+  - GLEIF
+- SSI Networks
+  - DismeID
+  - Sovrin
+  - BedRock
+  - ONT
+  - Velocity
+  - GlobalID
+  - Dock k
+- Web3 and Decentralized Identity
+  - DAO - decentralized-web/DAO
+  - Decentralization 
+  - Web3
+  - Metaverse
+  - Ethereum
+  - NFT
+  - SBT
+  - Crypto
+  - Trust
+  - Web5
+  - DWeb
+    - Holo
+    - Secure Suttlebutt
+    - Bluesky
+  - DiFi  
+- Major Events - resources/recap.md
+  - IIW
+  - RWoT
+  - Identosphere Event Listings
+  - Identiverse
+  - RSA
+  - Identity Week America
+  - Meetups
+- Policies/Regulations (public-sector/policy.md & public-sector/public-sector.md)
+  - Europe
+    - Data Governance Act
+    - GDPR
+    - eIDAS2
+    - Funding for stuff
+    - UK
+  - Global
+    - FATF
+  - Asia
+  - USA
+    - COPPA
+    - Privacy Act
+    - California SB786
+  - India
+  - Canada
+    - Pan Canadian Trust Framework
+  - Cryto Regulation
+  - Competition Issues
+- Government Initiatives
+  - US
+    - SVIP
+  - Germany
+    - IDUnion
+  - UK
+    - Scotland
+  - EU
+    - EBSI
+    - Catalonia
+    - Switzerland
+  - APAC
+    - New Zealand
+    - Australia
+    - Singapore
+    - South Korea
+  - Global South
+    - Maori
+    - ID2020
+  - Canada
+    - BC
+    - Alberta
+    - Ontario
+  - LatAm
+    - LACCHAIN
+- Real-World Implementations
+  - SupplyChain/Trade (use-case/use-case.md → trade)
+    - GS1
+  - Banking
+    - Bonifi
+  - COVID
+    - NYState
+    - VCI
+    - CCI
+    - DTCC
+    - DIVOC
+  - Enterprise
+  - Government Issued
+    - mDL
+    - Passport (eMTDR/DTC)
+    - IDCard
+    - Immigraion
+  - Healthcare (use-case/healthcare.md)
+  - Learning/Career/Education (use-case/usecase.md → career creds & use-case/education.md)
+    - JFF
+    - Velocity
+    - Learning Economy Foundation
+  - KYC (use-case/use-case.md →KYC)
+  - Real Estate
+    - Buy-Sell
+    - Rental
+  - Travel (use-case/travel.md)
+  - Humanitarian (use-case/humanitarian.md)
+  - Energy
+  - IoT (use-case/iot.md)
+  - Guardianship (user-experience/guardianship.md)
+  - Wallets (user-experience/wallets.md)
+- Educational Resources
+  - Courses (resources/resources.md → Course)
+  - Infographics (resources/memes-infographics.md)
+  - Podcasts (resources/media.md)
+  - Videos 
+  - How To (technical/tools-code.md → HowTo
+  - Past Job Posting from Identosphere
+  - Explainers (resources/explainer.md    
+    - Topics
+      - Biometrics
+      - Privacy
+      - Human Rights
+      - Career Advice
+      - Governance (business/governance.md)
+      - Business (business/business.    
+  - Critiques (thoughtful/critique.md)
+  - Future (thoughtful/future.md)
+  - Principles and Manifestos
+- Companies (Needs sub-category for this)
+  - Microsoft - Azure / Entra
+  - EU SSI Startups
+    - GATTCA
+    - MyDex
+    - MeeCo
+    - JoloCom
+    - ValidatedID
+    - Bloqzone
+    - Procivis
+  - US SSI Startups
+    - DocK
+    - Anonoyome
+    - GlboalID
+    - Hyland
+    - Magic
+    - IDRamp
+    - Indicio
+    - UNUM
+    - Animo
+    - Liquid Avatar
+    - Hedera
+    - IOTA
+    - Trinsic
+    - Transmute
+    - Spruce
+    - Disco.xyz
+  - Asia SSI Startups
+    - Afinidi
+    - ZADA
+    - Mattr
+    - Dihway
+    - Ayanworks
+    - NewLogic
+  - Africa SSI Startups
+    - FlexID
+    - Diwala
+  - Acquisitions
+    - Avast-Evernym-SecureKey
+  - Analyst Firms
+    - KuppingerCole
+    - Forrester
+    - Gartner
+  - Apple
+  - Google
+  - IAM Industry
+    - Ping
+    - Okta
+    - Auth0
+    - ForgeRock
+    - IDENTOS

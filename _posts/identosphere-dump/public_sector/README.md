@@ -1,0 +1,46 @@
+# Policy \ Govt Initiative 
+
+- Policies/Regulations (public-sector/policy.md & public-sector/public-sector.md)
+  - Europe
+    - Data Governance Act
+    - GDPR
+    - eIDAS2
+    - Funding for stuff
+    - UK
+  - Global
+    - FATF
+  - Asia
+  - USA
+    - COPPA
+    - Privacy Act
+    - California SB786
+  - India
+  - Canada
+    - Pan Canadian Trust Framework
+  - Cryto Regulation
+  - Competition Issues
+- Government Initiatives
+  - US
+    - SVIP
+  - Germany
+    - IDUnion
+  - UK
+    - Scotland
+  - EU
+    - EBSI
+    - Catalonia
+    - Switzerland
+  - APAC
+    - New Zealand
+    - Australia
+    - Singapore
+    - South Korea
+  - Global South
+    - Maori
+    - ID2020
+  - Canada
+    - BC
+    - Alberta
+    - Ontario
+  - LatAm
+    - LACCHAIN
