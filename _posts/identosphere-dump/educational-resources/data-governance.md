@@ -187,8 +187,7 @@ The main reason why vital information is not getting where it needs to be is tha
 - [ORATORIO](https://dapsi.ngi.eu/hall-of-fame/oratorio/) – Energy data exchange platform.
 - [Prov4ITData](https://dapsi.ngi.eu/hall-of-fame/prov4itdata/) – Provenance-aware querying and generation for interoperable and transparent data transfer.
 - [UI-Transfer](https://dapsi.ngi.eu/hall-of-fame/ui-transfer/) – complete solution for “user initiated inter-controller and continuous data transfer”
-* [Exostar Receives Kantara Initiative’s Identity Assurance Trust Framework Certification](https://www.exostar.com/press/exostar-receives-kantara-initiatives-identity-assurance-trust-framework-certification-achieves-healthcare-and-life-science-community-milestones/) - Latest Recognition Further Demonstrates Company Protects Customers’ Identity and Personal Data by Complying with NIST 800-63 Standard
-  > “This is a significant achievement and market differentiator for Exostar. The Kantara assessment and review process is rigorous and approval demonstrates a company’s care and respect for its customers.”
+
 
 * [Data as competitive advantage & control mechanism in platform economy](https://www.youtube.com/watch?v=nlf5juCc6CA)
   > Presenters: Sangeet Paul Choudary, Molly Schwartz Session host: Riikka Kämppi Molly Schwartz chats with Sangeet Paul Choudary - best-selling author of Platform Revolution and Platform Scale and founder of Platformation Labs - unpacks the ethics and economics of data.

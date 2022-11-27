@@ -276,8 +276,6 @@ Links from chat: [http://emoglen.law.columbia.edu/LIS/archive/privacy-legis/IST
 
 * [At a Crossroads: Personhood and Digital Identity in the Information Society](https://www.oecd.org/sti/ieconomy/40204773.doc)
 
-* [https://kantarainitiative.org/confluence/display/WA/Privacy+as+Expected%3A+UI+Signalling+a+Consent+Gateway+For+Human+Consent](https://kantarainitiative.org/confluence/display/WA/Privacy%2Bas%2BExpected%253A%2BUI%2BSignalling%2Ba%2BConsent%2BGateway%2BFor%2BHuman%2BConsent)
-
 * [https://github.com/Open-Notice/OPN-Workshop-05-04-21](https://github.com/Open-Notice/OPN-Workshop-05-04-21)
 
 * [Practical Perspectives on the collapse of zero-sum civilizations and the emergence of computational sovereigns and a pattern approach to digital equity governance: The source of the problems is the source of the solutions](https://iiw.idcommons.net/index.php?title%3D22I/_Practical_Perspectives_on_the_collapse_of_zero-sum_civilizations_and_the_emergence_of_computational_sovereigns_and_a_pattern_approach_to_digital_equity_governance:_The_source_of_the_problems_is_the_source_of_the_solutions.%26action%3Dedit%26redlink%3D1).

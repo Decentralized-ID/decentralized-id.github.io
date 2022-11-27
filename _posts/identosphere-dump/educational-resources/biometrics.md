@@ -2,6 +2,9 @@
 published: false
 ---
 
+* [Biometrics come to verifiable credentials with Applied Recognition and Sovrin Foundation](https://www.biometricupdate.com/202105/biometrics-come-to-verifiable-credentials-with-applied-recognition-and-sovrin-foundation)
+
+
 # Biometrics
 * [Biometric and digital identity](https://iiw.idcommons.net/3H/_Biometric_and_digital_identity) by Robert Mitwicki / Adrian Gropper
 

@@ -335,9 +335,6 @@ Currently, over 40 applications have been implemented in the IDunion project. Th
 
 The founding media partners all agreed, however, that having more first-party data and increasing the share of registered visitors would allow them to build better relationships with readers and more relevant news products. Their collective first step has been OneLog, a single sign-on system being used across a variety of news sites owned by Swiss Digital Alliance members TX Group and Ringier.
 
-* [Kantara’s Kay Chopard Talks Digital Security, Diversity, and Business Advice](https://kantarainitiative.org/kantaras-kay-chopard-talks-digital-security-diversity-and-business-advice-on-lets-talk-about-digital-identity/) Kantara - DigitalID NZ
-
-In August, Kantara Executive Director Kay Chopard spoke with Oscar Santolalla on Let’s Talk About Digital Identity, a Ubisecure-produced podcast. Chopard and Santolalla discussed a wide range of topics, including Chopard’s vision for Kantara and the digital security world, her role in supporting diversity and inclusion, and other topics.
 
 * [Hyperledger KochiOrgBook Meetup](https://www.youtube.com/watch?v=HU0zXKiFYD0) (modeled after [VONx.io](https://vonx.io/)), in collaboration with Wipro, CUSAT, and KBA.
   > “KochiOrgBook is a Verifiable Organization Network for the city of Kochi [India]. It is a technology demonstrator to launch a DID based utility compliant with the ToIP standards to enable trusted digital verification for various associations within the city of Kochi.”
