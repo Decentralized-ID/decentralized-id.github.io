@@ -12,7 +12,7 @@ redirect_from:
   - specs-standards/decentralized-identifier-did/
   - web-standards/decentralized-identifier-did/
   - adoption/
-last_modified_at: 2022-12-26
+last_modified_at: 2022-11-26
 toc: false
 ---
 
