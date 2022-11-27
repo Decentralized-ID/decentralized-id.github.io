@@ -948,7 +948,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 
 > Panacea is a public blockchain built by MediBloc to reinvent the healthcare experience. Panacea also supports DID operations. DIDs are created and stored in the Panacea, and they are used with verifiable credentials.
 
-### DID:INDY
+### **did:indy**
 * [The did:indy DID Method - Future Indy Ledgers](https://iiw.idcommons.net/4I/_The_did:indy_DID_Method_-_Future_Indy_Ledgers) by Stephen Curran
 * [Presentation](https://docs.google.com/presentation/d/1c5K7E5CRx9ANuwmVBIyFVG5hJ4lH0EyW-wkmraLivBI/edit?usp%3Dsharing)
   > - Namespaced DIDs useful across all Indy instances
@@ -966,22 +966,22 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
   > - [Meeting Wiki](https://wiki.hyperledger.org/display/indy/Indy%2BDID%2BMethod%2BSpecification) and schedule
   > - Hyperledger [indy-did-method](https://chat.hyperledger.org/channel/indy-did-method) chat channel
 
-### DID:ONION
+### **did:onion**
 * [DID Method Onion Specification](http://htmlpreview.github.io/?https://raw.githubusercontent.com/BlockchainCommons/did-method-onion/main/index.html)
   > 🧅 part of the torgap technology family\
   > DIDs that target a distributed ledger face significant practical challenges in bootstrapping enough meaningful trusted data around identities to incentivize mass adoption. We propose using a new DID method that allows them to bootstrap trust using a Tor Hidden Service's existing reputation.\
   > we'd like to review more with our community how close we want to keep did:onion to did:web, and if we want to incorporate some elements of did:peer or KERI or to leverage services like Open Time Stamps.
 
-### DID:NFT
+### **did:nft**
 * [Discussion of NFT and music projects, NFT:DID for turning NFT's into identities, and critical updates en route to mainnet.](https://www.youtube.com/watch?v%3DJfvRLhz6OpY) Ceramic Community Call
   > you can go to [ceramicnetwork/nft-did-resolver](https://github.com/ceramicnetwork/nft-did-resolver) on github to see the prototype
   > so this is the minimal implementation that allows you to verify signatures of the most recent owner of the nft did as like being valid
 
-### DID:EOS
+### **did:eos**
 * [The EOSIO DID method specification](https://www.gimly.io/blog/the-eosio-did-method-specification)
   > We have been working with the [Decentralised Identity Foundation](https://identity.foundation) to shape this specification, and also want to thank the [W3C Credentials Community Group](https://www.w3.org/community/credentials/) for their support in the creation of the [Verifiable Condition](https://github.com/Gimly-Blockchain/verifiable-conditions) type, a necessary component to create the EOSIO DID document to represent EOSIO account permissions.
 
-### DID:DID (humor)
+### **did:did** (humor)
 * [did:did - DID Identity DID (DID) DID method](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0026.html)
   > Spruce announces did:did, a DID method based on Decentralized Identifiers (DIDs). We hope the community will find this useful to help increase adoption and interoperability of Decentralized Identity technology.
   > 
@@ -989,30 +989,28 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
   > Source: [https://github.com/spruceid/did-did/](https://github.com/spruceid/did-did/)
   > Registration request: [https://github.com/w3c/did-spec-registries/pull/280](https://github.com/w3c/did-spec-registries/pull/280)
 
-### DID:UNDID (humor)
+### **did:undid** (humor)
 * [DID Identity UN-DID Method Specification](https://did-undid.github.io/did-undid/)
   > Clarification, a few week ago we shared about the [DID:DID](https://did-did.spruceid.com/) method. [April Fools Joke](https://en.wikipedia.org/wiki/April_Fools%2527_Day_RFC)!!! Here’s yet another DID method in the series.
   > 
   > did:un-did is a DID method that enables using any valid Decentralized Identifier (DID) as a did:un-did DID, but more importantly it un-does the did that did:did did method performs.
 
-### DID:DOGE
+### **did:doge**
 * [DogeCoin DID Method by Spruce Systems](https://github.com/spruceid/did-doge)
   > - Such Decentralization: Dogecoin is a public, permissionless blockchain favored by Shiba Inus worldwide, making it suitable for this purpose.
   > - Much Identity: Since shibes are unique in different and special ways, this specification provides the means to assign each one their very own ShibeID.
   > - Wow Blockchains: Dogecoin has proven again and again its resiliency in the face of adversity, proving that it is the ultimate host to such a primitive.
 * [Decentralized Identity with the Tezos DID Method](https://sprucesystems.medium.com/decentralized-identity-with-the-tezos-did-method-d9cf6676dd64)
 
-### DID:TZ
+### **did:tz**
 * [Spruce](https://www.spruceid.com/) and [TQ Tezos](https://tqtezos.com/) are jointly releasing the [draft specification](https://did-tezos.spruceid.com/) and [initial implementation](https://github.com/spruceid/did-tezos) of [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/) based on the Tezos blockchain.
 
-### Unisot DID
+### **did:unisot** 
 
-* [UNISOT DID approved by W3C](https://unisot.com/unisot-did-approved-by-w3c/)
-* [https://gitlab.com/unisot-did](https://gitlab.com/unisot-did)
+* [UNISOT DID approved by W3C](https://unisot.com/unisot-did-approved-by-w3c/) Unisot [gitlab](https://gitlab.com/unisot-did)
+  > We are proud to have UNISOT ID (did:unisot) listed at the Decentralized Identity Foundation (DIF). As part of our commitment to open technologies and global interoperability we have presented our DID schema (did:unisot) to the Decentralized Identity Foundation (DIF) and supplied a driver for their Universal DID Resolver which can be accessed at: [https://resolver.identity.foundation/](https://resolver.identity.foundation/). With this anyone can resolve a UNISOT DID Document in a trusted and easy way.
 
-We are proud to have UNISOT ID (did:unisot) listed at the Decentralized Identity Foundation (DIF). As part of our commitment to open technologies and global interoperability we have presented our DID schema (did:unisot) to the Decentralized Identity Foundation (DIF) and supplied a driver for their Universal DID Resolver which can be accessed at: [https://resolver.identity.foundation/](https://resolver.identity.foundation/). With this anyone can resolve a UNISOT DID Document in a trusted and easy way.
-
-### DID:ORB
+### **did:orb**
 * [SecureKey’s New Ledger-Agnostic did:orb](https://securekey.com/securekeys-new-ledger-agnostic-solution-orb-helps-solve-decentralized-identifier-challenges/)
 
 did:orb that decouples DIDs from ledgers while maintaining trust and security. SecureKey is leveraging standard and open-source peer-to-peer protocols like ActivityPub, data structures like verifiable credentials content-addressed storage like IPFS, and distributed trust services like the Google Trillian project to build a peer-to-peer trust network.
@@ -1028,7 +1026,7 @@ did:orb that decouples DIDs from ledgers while maintaining trust and security. S
 
 A large set of impact investor, international donor, and government anti-poverty policy is based on the notion that for-profit companies can be induced to serve the poor with life changing services like banking or schooling but the limits of the for profit model are not always taken into account
 
-## Utilities
+## Services and Utilities
 
 * [DID Method Registry](https://w3c-ccg.github.io/did-method-registry/#the-registry)
 * [godiddy.com - Universal DID Services](https://iiw.idcommons.net/2C/_godiddy.com_-_Universal_DID_Services) by Markus Sabadello [[Documentation](https://docs.godiddy.com/)] [[API Reference](https://api.godiddy.com/)]
