@@ -3,17 +3,27 @@ published: false
 ---
 
 # Verifiable Credentials
-* [Compare and Contrast: OpenBadges vs Verifiable Credentials](https://academy.affinidi.com/compare-and-contrast-openbadges-vs-verifiable-credentials-d504c054d5db) Affinidi
+## Contents
 
-As we move towards a world of digital identity, many ways of sharing and verifying Personally Identifiable Information are emerging. Two such modes that we’ll talk about today are Open Badges and Verifiable Credentials.
+- Explainer
+- Comparisons with/ other Tech
+- Varieties
+  - JSON-LD 
+  - JSON-LD ZKP BBS+
+  - JSON-JWT
+  - ZKP-CL - [IIA] Indy Aries AnnonCreds
+  - JWP
 
-* [Non-Fungible Tokens (NFTs) vs Verifiable Credentials (VCs)](https://academy.affinidi.com/non-fungible-tokens-nfts-vs-verifiable-credentials-vcs-cd0ebb13f1fb) Affinidi
-
-A common thread that connects both NFTs and VCs is that they leverage the potential benefits of the digital world to give users more security, flexibility, and freedom to monetize.
-
+## Explainer
 * [Article three - An introductory dive into VCs (verifiable credentials)](https://hackernoon.com/understanding-the-verifiable-credentials-vcs-it1535e9) HackerNoon
+  > Verifiable Credentials heavily utilize Decentralized Identifiers to identify people, organizations, and things and to achieve a number of security and privacy-protecting guarantees. They are issued and cryptographically signed documents, intended to be understood by computers rather than people.
 
-Verifiable Credentials heavily utilize Decentralized Identifiers to identify people, organizations, and things and to achieve a number of security and privacy-protecting guarantees. They are issued and cryptographically signed documents, intended to be understood by computers rather than people.
+## Comparisons with/ other Tech
+* [Compare and Contrast: OpenBadges vs Verifiable Credentials](https://academy.affinidi.com/compare-and-contrast-openbadges-vs-verifiable-credentials-d504c054d5db) Affinidi 
+  > As we move towards a world of digital identity, many ways of sharing and verifying Personally Identifiable Information are emerging. Two such modes that we’ll talk about today are Open Badges and Verifiable Credentials.
+* [Non-Fungible Tokens (NFTs) vs Verifiable Credentials (VCs)](https://academy.affinidi.com/non-fungible-tokens-nfts-vs-verifiable-credentials-vcs-cd0ebb13f1fb) Affinidi
+  > A common thread that connects both NFTs and VCs is that they leverage the potential benefits of the digital world to give users more security, flexibility, and freedom to monetize.
+
 
 Prerequisites
 
