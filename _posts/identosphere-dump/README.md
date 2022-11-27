@@ -1,11 +1,15 @@
 # Categories
 
 - Open Standards
-  - Decentralized Identifier
-    - Explainer
-    - Methods
-    - Resolution
-    - Critique 
+  - Decentralized Identifier ✓
+    - Explainer ✓
+    - Methods ✓
+    - ~~Resolution~~ Tools \ Services 
+    - Critique ✓
+
+* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
+
+
   - Verifiable Credential
     - Explainer
     - Comparisons with/ other Tech
