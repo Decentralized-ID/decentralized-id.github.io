@@ -22,3 +22,4 @@ jobs:
       - uses: helaili/jekyll-action@2.0.5    # Choose any one of the Jekyll Actions
         env:
           JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+          target_branch: 'gh-pages'
