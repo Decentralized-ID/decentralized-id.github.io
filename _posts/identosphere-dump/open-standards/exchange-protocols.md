@@ -4,6 +4,30 @@ published: false
 
 # Credential Exchange
 
+
+* [Figuring out Verifiable Credentials Exchange - combining Bloom, Aires Protocols, Presentation Exchange into a unified - Killer Whale Jello Salad](https://iiw.idcommons.net/22H/_Figuring_out_Verifiable_Credentials_Exchange_-_combining_Bloom,_Aires_Protocols,_Presentation_Exchange_into_a_unified_-_Killer_Whale_Jello_Salad) by Kaliya Young, Orie Steele, Drummond , Kyle et al
+
+
+- [https://docs.google.com/presentation/d/1t4o6AXclqR7SqhGCbIJKVtYxh4fm_5mGT11MBx9K95c/edit#slide=id.p](https://docs.google.com/presentation/d/1t4o6AXclqR7SqhGCbIJKVtYxh4fm_5mGT11MBx9K95c/edit%23slide%3Did.p)
+
+ReCap & Summary
+
+- Because what we need is interoperable - issuance - issue-> holder || holder -> verifier some conversation about SIOP - has not been the focus of the discussion.
+- Goal to create a bridge between
+- the W3C CCG / DHS SVIP - VCI-HTTP-API (VHA) in combination with CHAPI protocol and the (VC Request) for issuing credentials.
+- Aries protocols run on top of DIDComm
+- If we agree on a credential format we can exchange across those universes - JSON-LD ZKP BBS+ then we need a protocol to do it - can go between.
+- Orie proposed - that we rather then extend VHA - that the we take a streamlined path with DIDComm as envelop layer - present proof - presentation exchange as a payload including the DIF work presentation, Aries and hopefully alternative to expanding VHA - for holder interactions - since it doesn’t have a holder interactions leverage existing
+- So can be tested with next SVIP - testing.
+- Presentation Exchange and use of DIDComm and for sake of interop testing pave a narrow path - and expand in future interoperability efforts.
+- Summary: DIDComm, Presentation request, presentation exchange, present proof format using JSON-LD ZKP with BBS+
+- Potentially quickly spinning up a working group at DIF - Decision was to nest within the Credentials and Claims group at DIF
+
+Result:
+
+* [https://identity.foundation/arewewaciyet/](https://identity.foundation/arewewaciyet/)
+
+
 * [BBS+ Credential Exchange in Hyperledger Aries](https://iiw.idcommons.net/11E/_BBS%252B_Credential_Exchange_in_Hyperledger_Aries)
 
 * [https://iiw.animo.id](https://iiw.animo.id)
