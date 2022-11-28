@@ -23,3 +23,6 @@ The total funding for the challenge is $70,000CDN and is divided into 4 phases. 
 * [Blockchain Trilemma for Decentralized Identity: Learning from Hyperledger Indy](https://arxiv.org/pdf/2204.05784.pdf) Paul Dunphy, OneSpan, Cambridge, UK
 
 The current credential verification process relies on transaction processing by a ledger with transaction processing bottlenecks, which may constrain the ideal of non-repudiation.
+
+* [Tutorials](https://aries.js.org/guides/tutorials) Aries JavaScript Docs
+  > First we’re going to create a holder Agent, this will be the Agent that receives the membership credential. During their life, the holder will collect many different verifiable credentials. Memberships, ID-cards, even purchasing records.

@@ -36,14 +36,6 @@ In 2017, I published a longer version of this guide as a book, available on [oa
 
 * [101 Session: UMA - User Manged Access](https://iiw.idcommons.net/3B/_101_Session:_UMA_-_User_Managed_Access) by Eve Maler and George Fletcher
 
-* [User-Managed Access (UMA) 101 George Fletcher, Kantara Initiative UMA Work Group](https://kantarainitiative.org/confluence/download/attachments/17760302/2020-10-20%2520IIW%2520UMA%2520101.pdf)
-
-The UMA extension grant adds… [docs.kantarainitiative.org/uma/wg/rec-oauth-uma-grant-2.0.html](https://docs.kantarainitiative.org/uma/wg/rec-oauth-uma-grant-2.0.html)
-
-- Party-to-party: Resource owner authorizes protected-resource access to clients used by requesting parties
-- Asynchronous: Resource owner interactions are asynchronous with respect to the authorization grant
-- Policies: Resource owner can configure an AS with rules (policy conditions) for the grant of access, vs. just authorize/deny
-- Such configurations are outside UMA’s scope
 
 * [OpenID Connect Claims Aggregation](https://iiw.idcommons.net/5B/_OpenID_Connect_Claims_Aggregation) by Nat Sakimura, Edmund Jay, Kristina Yasuda
 [2021-04-21_OpenID Connect Claims Aggregation](https://docs.google.com/presentation/d/1w-rmwZoLiFWczJ4chXuxhY0OsgHQmlIimS2TNlce4UU/edit?usp%3Dsharing)

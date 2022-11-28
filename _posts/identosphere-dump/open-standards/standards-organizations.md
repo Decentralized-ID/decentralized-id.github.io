@@ -24,9 +24,6 @@ Today, the
 
 Based on the March 11 Zoom discussion where we worked hard to discern the differences between Agents, Hubs, and EDVs (and I believe were largely successful IMO), I’ve like to propose to the SDS/CS WG that we refactor the current Confidential Storage specification into 3 separable parts/specifications.  I also present a high-level roadmap (simple ordering) for how the WG might proceed if this refactoring is accepted (or at least, if the first part/first new specification is accepted).
 
-* [Working Group for Privacy Enhancing Mobile Credentials](https://kantarainitiative.org/introducing-kantaras-working-group-for-privacy-enhancing-mobile-credentials/) Kantara Initiative
-
-Clearly the use of a driver’s license goes well beyond proving eligibility to drive a vehicle. It has become the de-facto standard for proving that you are who you say you are – and are entitled to the product or service requested. An increasing number of states are adopting mobile ID systems to recognise and verify mobile credentials including driver’s licenses (mDL).
 * [Digital Identity in response to COVID-19: DGX Digital Identity Working Group](https://www.tech.gov.sg/files/media/corporate-publications/FY2021/dgx_2021_digital_identity_in_response_to_covid-19.pdf)
 * [Digital Identity Attestation Roundup - Open Source Security Foundation](https://openssf.org/blog/2021/01/27/digital-identity-attestation-roundup/%23)
 

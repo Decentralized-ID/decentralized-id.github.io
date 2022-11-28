@@ -3,6 +3,7 @@
 - Open Standards
   - Decentralized Identifier ✓
     - Explainer ✓
+    - Literature +
     - Methods ✓
     - ~~Resolution~~ Tools \ Services 
     - Critique ✓
@@ -121,7 +122,7 @@
     - Holo
     - Secure Suttlebutt
     - Bluesky
-  - DiFi  
+  - DeFi  
 - Major Events - resources/recap.md
   - IIW
   - RWoT

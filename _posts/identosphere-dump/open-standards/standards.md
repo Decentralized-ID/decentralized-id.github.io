@@ -203,17 +203,11 @@ Before we dive into how Federated systems like OIDC and SAML along with Verifiab
 * [Reflections from Identiverse: Identity Security Threats & Trends](https://www.secureauth.com/blog/reflections-from-identiverse-identity-security-threats-and-trends/) SecureAuth
 
 talks like [“Simplify Your Least-Privilege Journey with Access Analysis”](https://identiverse.com/idv2021/session/SESCI5F77RW8COIGZ/) and [“Managing and governing workload identities”](https://identiverse.com/idv2021/session/SESTZ5WNB1OMKD9EV/) definitively provide greater insight. [...] UberEther showed in [“User Behavior Analytics: Marrying Identity and the SOC Like Peanut Butter and Jelly”](https://pheedloop.com/identiverse2021/virtual/?page%3Dsessions%26section%3DSESKWZML7NBJX42P3) how UBA (User Behavior Analytics) and UEBA (User Events Behavior Analysis) deliver additional value to help avoid threats in real-time and provide visibility to analysts.
-* [Meet Kantara’s new Executive Director, Kay Chopard](https://www.ubisecure.com/podcast/kay-chopard-kantara/) Lets Talk about Digital Identity
-
-Kay explores why identity is so critical in so many applications; her hope for more promotion of Kantara’s great work and to advance opportunities for collaboration; Kantara’s new mobile drivers licenses (mDLs) work group; Women in Identity and the problem of lack of diversity in standards working groups; and why access and inclusion is one of the biggest challenges facing identity today.
 
 * [Kaliya Young on Identikit with Michelle Dennedy](https://identitywoman.net/podcast-identikit-with-michelle-dennedy/)
 
 our latest series examining the evolution of digital identity, and how self-sovereign identity, specifically, can advance a consent-based economy.
 
-* [Kantara Releases Report on Identity and Privacy Protection For mobile Driver’s Licenses](https://kantarainitiative.org/kantara-releases-report-on-identity-and-privacy-protection-for-mobile-drivers-licenses/)
-
-The report outlines how to implement mDL systems as Privacy Enhancing Technologies. It provides guidance on protecting people’s individual privacy and the digital identifiers of an individual who carries or uses an mDL.
 
 * [DIF Grant #1: JWS Test Suite](https://medium.com/decentralized-identity/dif-grant-1-jws-test-suite-a26cc4a95540)
 

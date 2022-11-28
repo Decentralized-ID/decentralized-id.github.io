@@ -2,6 +2,10 @@
 published: false
 ---
 # Policy
+
+
+
+
 * [GDPR: Everything you need to know](https://authenteq.com/general-data-protection-regulation-gdpr-and-all-thats-behind-it/) - is a great post by authentic explaining it at a high level that we thought would be helpful to those trying to orient.
 This is a [round-up from Ally Medina](https://blockadvocacy.medium.com/cas-2020-blockchain-legislative-roundup-89cdd3bad25c) (who was at IIW). She worked on getting AB 2004 passed in California that permitted Verifiable Credentials to be used for Covid-19 test results. It covers other California developments too.
 
@@ -273,3 +277,11 @@ As [an abstract of the bill](https://trackbill.com/bill/california-senate-bill-7
 Is the EU discussion about data portability missing a key point?
 
 In its discussion of data portability the EU rightly recognises the economic importance of this issue, stressing that “market imbalances arising from the concentration of data restricts competition, increases market entry barriers and diminishes wider data access and use.”
+
+## Verifiable Credentials
+* [Verifiable Credentials: Mapping to a Generic Policy Terminology](https://trbouma.medium.com/verifiable-credentials-mapping-to-a-generic-policy-terminology-bce84a039bb)
+  > Why is this useful? When writing policy, you need a succinct model which is clear enough for subsequent interpretation. To do this, you need conceptual buckets to drop things into. Yes, this model is likely to change, but it’s my best and latest crack at it to synthesize the complex world of digital credentials with an abstraction that might be useful to help us align existing solutions while adopting exciting new capabilities.
+* [VCs Policy Committeee (California) – Participate in passing legislation to create a California Trust Framework!](https://iiw.idcommons.net/21B/_(California)_Verifiable_Credentials_Policy_Committeee_-_Come_learn_about_how_participate_in_passing_legislation_to_crete_a_California_Trust_Framework!) by Kaliya Young, Ally Medina [Slides](https://docs.google.com/presentation/d/1VyxmWan3qbxynxhKvw1CHhWZINiPRF9gjeqSCSDh1MY/edit?usp%3Dsharing)
+  > discussed how the Blockchain Advocacy Coalition’s sponsorship of [AB 2004](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id%3D201920200AB2004) pushed verifiable credentials into mainstream political discourse and how companies can help us shape public policy and government pilot programs of Verifiable Credential technology.
+  > 
+  > We are planning on working with legislators to introduce a bill that creates a California Trust Framework and lays the groundwork for use of the technology in the public and private sector.

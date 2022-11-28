@@ -412,3 +412,20 @@ Because DAOs do not have a sovereign above them, and are often explicitly in the
 * [Solving Governance in SSI Ecosystems with Trust Registries.](https://www.youtube.com/watch?v%3D5zZKIwesSl8) Trust over IP Foundation
 
 Learn the what and the why behind trust registries.  In addition to discussing how trust registries solve governance in verifiable credential ecosystems, Tomislav demos the very first implementation of ToIP’s trust registry specification.
+
+* [Trust Assurance in SSI / Verifiable Credential Ecosystems](https://iiw.idcommons.net/14F/_Trust_Assurance_in_SSI_/_Verifiable_Credential_Ecosystems) by Scott Perry
+  > The meeting started with a presentation of an updated representation of a trust assurance model being promoted by the Trust over IP Foundation’s Governance Stack Working Group.
+  > 
+  > Given the audience of 8-10 people, we polled the reasons for attending a topic on Trust Assurance and discussed a few gnarly challenges in the space:
+  > 
+  > 1. An owner of a background check company conveyed challenges with complying with a myriad of governance authority frameworks audited by a myriad of qualified/unqualified auditors looking at a myriad of evidence to render a judgement
+  > 2. The addition of privacy controls (notice and consent) to augment existing marketplace controls due to the specific need in SSI networks: [https://kantarainitiative.org/confluence/display/WA/Privacy+as+Expected%3A+UI+Signalling+a+Consent+Gateway+For+Human+Consent](https://kantarainitiative.org/confluence/display/WA/Privacy%2Bas%2BExpected%253A%2BUI%2BSignalling%2Ba%2BConsent%2BGateway%2BFor%2BHuman%2BConsent)
+  > 3. A discussion of the China Civil Code: [https://www.dlapiper.com/en/uk/insights/publications/2020/06/new-chinese-civil-code-introduces-greater-protection-of-privacy-rights-and-personal-information/](https://www.dlapiper.com/en/uk/insights/publications/2020/06/new-chinese-civil-code-introduces-greater-protection-of-privacy-rights-and-personal-information/)
+  > 4. A need for a civilian clearance credential.
+* [Is the verifiable credential trust triangle incomplete?](https://iiw.idcommons.net/3M/_Is_the_verifiable_credential_trust_triangle_incomplete%253F) by Riley Hughes
+  > VC marketplace project at DIF is talking about a reputation system for issuers, using VCs
+  > 
+  > We need to agree on:
+  > 
+  > - Machine-readable document (governance framework)
+  > - URI for a governance framework that we need to agree on

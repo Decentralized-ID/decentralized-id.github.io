@@ -3,6 +3,26 @@ published: false
 ---
 
 # Organization
+
+* [Why Are Governments Choosing Hyperledger?](https://northernblock.io/governments-are-choosing-aries-indy-ursa/) Northern Block
+  > - Open Data Standards (W3C’s DID & VC Standards)
+  > - Open Tech Standards (Hyperledger Aries, Indy, Ursa)
+  > - Achieving W3C-Compliance on Aries and Indy
+
+* [Building a Hyperledger Indy Network](https://iiw.idcommons.net/1H/_Building_a_Hyperledger_Indy_Network_-_Questions,_discussion,_etc.) - Questions, discussion, etc. by Lynn Bendixsen
+
+Slides link: [https://docs.google.com/presentation/d/1sUG4297GiRcUdu4aqQnc0Op0LMhbwiqy9LIAINHfSFQ/edit#slide=id.p1](https://docs.google.com/presentation/d/1sUG4297GiRcUdu4aqQnc0Op0LMhbwiqy9LIAINHfSFQ/edit%23slide%3Did.p1)
+
+Links to guides for creating your own Indy network:
+
+High level:
+
+* [https://github.com/trustoverip/utility-foundry-wg](https://github.com/trustoverip/utility-foundry-wg)
+
+Technical details (implementation):
+
+* [https://docs.google.com/document/d/1Tg4dAEtC78TxG9AsIby_CfpbeOicK_YMKznSQOvtIVU/edit](https://docs.google.com/document/d/1Tg4dAEtC78TxG9AsIby_CfpbeOicK_YMKznSQOvtIVU/edit)
+
 * [LoginWithFIDO.com](https://loginwithfido.com/)
 * [Consumer Research](https://fidoalliance.org/consumerresearch/) 
 * [Vienna Digital Identity Meetup](https://www.meetup.com/Vienna-Digital-Identity-Meetup/)
@@ -105,19 +125,6 @@ John shared about his journey and ongoing rehab,  and then moved on to what’s
 
 * [John Jordan (BC Gov) about VON, OrgBook BC and our vision](https://bc-von.s3.amazonaws.com/2018-06-VON-Webinar-for-Sovrin-Indy-Community.mp4)
 
-* [Building a Hyperledger Indy Network](https://iiw.idcommons.net/1H/_Building_a_Hyperledger_Indy_Network_-_Questions,_discussion,_etc.) - Questions, discussion, etc. by Lynn Bendixsen
-
-Slides link: [https://docs.google.com/presentation/d/1sUG4297GiRcUdu4aqQnc0Op0LMhbwiqy9LIAINHfSFQ/edit#slide=id.p1](https://docs.google.com/presentation/d/1sUG4297GiRcUdu4aqQnc0Op0LMhbwiqy9LIAINHfSFQ/edit%23slide%3Did.p1)
-
-Links to guides for creating your own Indy network:
-
-High level:
-
-* [https://github.com/trustoverip/utility-foundry-wg](https://github.com/trustoverip/utility-foundry-wg)
-
-Technical details (implementation):
-
-* [https://docs.google.com/document/d/1Tg4dAEtC78TxG9AsIby_CfpbeOicK_YMKznSQOvtIVU/edit](https://docs.google.com/document/d/1Tg4dAEtC78TxG9AsIby_CfpbeOicK_YMKznSQOvtIVU/edit)
 
 * [NHS Staffpassport; Based on Evernym Verity built by Sitekit/Condatis; A 12 month experience](https://iiw.idcommons.net/22C/_NHS_Staffpassport;_Based_on_Evernym_Verity_built_by_Sitekit/Condatis;_A_12_month_experience) by Chris Eckl, Richard Astley
 
