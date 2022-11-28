@@ -32,6 +32,7 @@ toc: false
   > - Can be cryptographically verified
   > - They connect a DID subject (the entity identified by the DID) with a DID document (a set of data that describes the DID subject) to enable the subject to have trustable interactions.
   > - They are interoperable and portable, provided they conform to the existing standards laid down by W3C
+- [Understanding the Decentralized identifiers](https://hackernoon.com/decentralized-identifiers-dids-a-deeper-dive-04383442)
 * [The world between public and private DIDs - Or how to make use of SSI without the subjects](https://iiw.idcommons.net/21D/_The_world_between_public_and_private_DIDs_-_Or_how_to_make_use_of_SSI_without_the_subjects) by This Loepfe, cardossier CH
   > Slides: [iiw-between-public-and-private.pdf](https://cardossier.ch/wp-content/uploads/2021/05/iiw-between-public-and-private.pdf)
   > 
