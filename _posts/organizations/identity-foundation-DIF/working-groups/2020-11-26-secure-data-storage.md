@@ -38,6 +38,13 @@ The active work items that are underway in the DIF Storage and Compute Working G
   > We store a significant amount of sensitive data online, such as personally identifying information (PII), trade secrets, family pictures, and customer information. The data that we store is often not protected in an appropriate manner.
   > 
   > This specification describes a privacy-respecting mechanism for storing, indexing, and retrieving encrypted data at a storage provider. It is often useful when an individual or organization wants to protect data in a way that the storage provider cannot view, analyze, aggregate, or resell the data. This approach also ensures that application data is portable and protected from storage provider data breaches.
+* [DIF SDS/CS WG: CS Refactoring Proposal 0.2](https://hyperonomy.com/2021/03/28/cs-refactoring-proposal/) Hyperonomy
+  > 1. Latest Version of the Proposal (0.2 – March 24, 2021)
+  > 2. Agent-Hub-EDV Architecture Reference Model (AHE-ARM) 0.1
+  > 3. Transcription of Selected Parts of the DIF SDS/CS March 11, 2021 Zoom Call
+  > 4. OSI Stack Proposal for Confidential Storage Specification
+  > 
+  > Based on the March 11 Zoom discussion where we worked hard to discern the differences between Agents, Hubs, and EDVs (and I believe were largely successful IMO), I’ve like to propose to the SDS/CS WG that we refactor the current Confidential Storage specification into 3 separable parts/specifications.  I also present a high-level roadmap (simple ordering) for how the WG might proceed if this refactoring is accepted (or at least, if the first part/first new specification is accepted).
 
 ### Identity Hubs (Archived)
 
