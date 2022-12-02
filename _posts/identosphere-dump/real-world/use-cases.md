@@ -128,10 +128,6 @@ Liquid Avatar Technologies’ [PassmateTM](https://www.thenewswire.com/press-re
 
 At first view, the SSI approach is at odds with the electronic identity documents used in many states, as in the latter model it’s the state that has sovereignty over its citizens’ identity data. On closer inspection, however, SSI and electronic identity documents can complement and even benefit from each other.
 
-* [SITA uses blockchain, decentralized identity for pilot license verification](https://www.ledgerinsights.com/sita-blockchain-decentralized-identity-for-pilot-license/) Ledgerinsights
-
-Using the [self-sovereign identity](https://www.ledgerinsights.com/tag/self-sovereign-identity/) solution Hyperledger Aries, almost everything works peer to peer between the license issuer and the pilot and between the pilot and the verifier.
-
 * [Impact of Self-Sovereign Identity in Real Estate](https://academy.affinidi.com/impact-of-self-sovereign-identity-in-real-estate-11456c4b1faa) Affinidi
 
 Real estate is one of the sectors that has not completely embraced digitalization, and this means, there’s a lot of potential to bring about change in this sector.

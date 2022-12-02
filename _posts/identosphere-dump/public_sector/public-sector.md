@@ -543,6 +543,23 @@ Scrolling Infographic! It looks fun and has some good info in it.
 
 The discussion document stated that a Digital Strategy for Aotearoa (the Strategy) would need to respond to the social, economic, education and cultural opportunities from digital technology, along with the risks that these technologies could bring.
 
+* [Principal Authority – new article on Wyoming law defining Digital Identity](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0083.html) Christopher Allen (Thursday, 16 September)
+
+What we've found as a good framework is the concept of "Principal Authority" which comes from the Laws of Agency, which allows us to leverage fiduciary style Laws of Custom to define requirements for practices when digital identity is delegated to others (whether for authorization or for use of data).
+
+I've written up a layman's article (as I am not a lawyer) introducing this topic at:
+
+* [https://www.blockchaincommons.com/articles/Principal-Authority/](https://www.blockchaincommons.com/articles/Principal-Authority/)
+
+* [On why revocation is important...](https://lists.w3.org/Archives/Public/public-credentials/2022May/0052.html) Mike Prorock (Tuesday, 24 May)
+  >[https://arstechnica.com/information-technology/2022/05/digital-drivers-license-used-by-4m-australians-is-a-snap-to-forge/](https://arstechnica.com/information-technology/2022/05/digital-drivers-license-used-by-4m-australians-is-a-snap-to-forge/)
+
+Yikes!
+
+For those that didn't read the article, the TL;DR is:
+
+Tough to forge digital driver’s license is… easy to forge... 4 million mobile driver's licenses in NSW Australia compromised in an unrecoverable way.
+
 * [Sask. Government Stops Pursuit of Potential Digital ID](https://www.egovreview.com/article/news/618/sask-government-stops-pursuit-potential-digital-id) Ego Review
 
 In a search that started in October 2021, the province was considering vendors to potentially initiate digital ID, meant to replace the need for physical ID cards. According to RFP documents, the selected vendor would have worked with SGI for facial verification, but final details on accessing the photo database weren’t finalized.

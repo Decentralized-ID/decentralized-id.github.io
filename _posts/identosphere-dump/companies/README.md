@@ -71,9 +71,3 @@
 
 If you’re already using a secure mechanism to authenticate your users, then setting up OIDC capability isn’t necessary. As we’ve explored, sending credentials using secure DID messaging directly or via a QR code or deep-link is safe, convenient and allows users to obtain their credentials directly.
 
-## Northern Block
-
-* [How to Create New Verifiable Credentials with Customizable Schemas](https://www.youtube.com/watch?v%3D3JR6_tQYhgk)
-  > In this video, we will demonstrate how to create new Verifiable Credentials with custom schemas using the NB Orbit enterprise app. 
-  > 
-  > Once the credential schema is created and the attribute fields specified, the enterprise user can then publish a credential definition to whatever root of trust they are using, in our case a Hyperledger Indy network.

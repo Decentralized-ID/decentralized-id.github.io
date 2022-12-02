@@ -113,8 +113,8 @@ DIDs are about building lasting private and secure digital relationships with cu
   > Why are some decentralized systems accepted and widely used while others wither? Why do some “hard forks” succeed while others fail? It all comes down to legitimacy.
 * [Gravity Glossary](https://www.gravity.earth/gravity-glossary)
   > Our Gravity Glossary offers basic definitions to help you untangle the confusing technical jargon behind decentralized identity and blockchain.
-* [Why Distributed Ledger Technology (DLT) for Identity?](https://www.hyperledger.org/blog/2021/04/21/why-distributed-ledger-technology-dlt-for-identity) Hyperledger
-  > To understand why DLT is useful for identity, we need to go back to the basics—paper credentials, how that model has worked for 1000s of years, and how the use of DLTs with verifiable credentials allows us to transition the great parts—security and privacy—of that model to the digital age.
+
+
 * [101 Session: Self Sovereign & Decentralized Identity](https://iiw.idcommons.net/4B/_101_Session:_Self_Sovereign_%2526_Decentralized_Identity) by Karyl Fowler and Juan Caballero
 
 Links:
@@ -236,9 +236,7 @@ The reason why we have seen less uptake in SSI solutions is because the people b
 
 What are the common/known strategies for bootstrapping a VDR-based decentralized credential/object platform? …asked naively on purpose. Strategies for placing the first/initial DIDs in the VDR?  …presumably purposed to be the initial Issuer(s) of verifiable
 
-* [Panel: Start Simple to Scale Decentralized Identity](https://hgf2021.sched.com/event/j3ej%23new_tab) HGF2021 • Indicio
 
-Liquid Avatar Technologies and Indicio.tech will share how together they are transitioning the current KABN ID solution to verifiable credentials by building the Liquid Avatar Verifiable Credentials Ecosystem utilizing Hyperledger Aries, Ursa, and Indy.
 
 * [How to decentralize identity and empower individuals](https://medium.com/global-id/episode-10-how-to-decentralize-identity-and-empower-individuals-3e154612a85) GID
 
@@ -795,10 +793,8 @@ We expect Digital Transformation to be a more prevalent talking point around di
   > An important principle that we want to achieve when designing any system that involves handling Personally Identifiable Information (PII) is to minimize the data disclosed in a given interaction. When users share information, they should be able to choose what and how much they share on a case-by-case basis, while the relying parties receiving the information must be able to maintain assurances about the presented information’s origin and integrity.
 This is excellent work, with lots of references, by Dr. Nuttawut Kongsuwan ([Finema](http://finema.co/) & [QTFT](http://qtft.org/)), and Rachata Tosirisuk ([Thailand Internet Exchange](https://th-ix.net/en/), [Finema](https://finema.co/) & [QTFT](https://qtft.org/)).
 
-- [Anonymous Credential Part 1: Brief Overview and History](https://medium.com/finema/anonymous-credential-part-1-brief-overview-and-history-c6679034c914)
-  > An anonymous credential (Anoncred), which is also known as an attribute-based credential (ABC), is a concept for a digital credential that provides a credential holder maximal privacy and an ability to selectively disclose their personal information.
-- [Anonymous Credential Part 2: Selective Disclosure and CL Signature](https://medium.com/finema/anonymous-credential-part-2-selective-disclosure-and-cl-signature-b904a93a1565)
-  > selective disclosure and an anonymous credential (Anoncred) relies on an efficient signature scheme that supports multiple messages with a single signature. One such signature scheme is known as CL signature that is named after its Jan Camenisch and Anna Lysyanskaya […] CL signature popularized Anoncreds, and it also served as a cryptographic building block in Identity Mixer (Idemix) and Hyperledger Indy projects.
+
+
 - [Anonymous Credential Part 3: BBS+ Signature](https://medium.com/finema/anonymous-credential-part-3-bbs-signature-26797721ca74)
   > Compared to the CL signature, the BBS+ signature has much shorter keys and signatures for a comparable level of security. As a result, the BBS+ signature enables fast implementation for anonymous credentials. It can be used in combination with signature proof of knowledge to hide some of credential attributes/messages in a zero-knowledge fashion.
 
@@ -830,9 +826,6 @@ Turning credentials into digital form isn’t new, but decentralizing identity g
 4. Plan your Implementation: Guidance for setting project requirements, technology selection and answering the question of “buy or build”.
 5. Implement your Pilot: Tips to make sure you get the most out of your pilot project
 
-* [Introduction to NFTs for Identity](https://walt.id/decentralized-identity-explained/nfts) walt.id
-
-NFT use cases can be found wherever there’s a need to digitally model ownership. In other words, the list of use cases is long and NFTs will likely be among the most important building blocks on which the digital world (or something like a metaverse) will be built.-
 
 New [major white paper](https://www.blockchainresearchinstitute.org/project/self-sovereign-identity) by Phil Windley with the Blockchain Research Institute
 

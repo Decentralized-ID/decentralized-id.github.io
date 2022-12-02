@@ -75,49 +75,6 @@ And, much like a physical wallet, you will be able to use the contents of your S
 
 * [Open-Source Sovrin SSI Wallet - Functionality Design Session](https://iiw.idcommons.net/index.php?title%3D22M/_Open-Source_Sovrin_SSI_Wallet_-_Functionality_Design_Session%26action%3Dedit%26redlink%3D1) by Chris Raczkowski
 
-* [Talking on Aries Bifold, building a community effort around an open source mobile wallet in React Native](https://iiw.idcommons.net/23I/_Talking_on_Aries_Bifold,_building_a_community_effort_around_an_open_source_mobile_wallet_in_React_Native) by James Ebert
-
-Hyperledger Aries – Aries Bifold – Aries-Framework-Javascript – React Native
-
-Slides: [https://docs.google.com/presentation/d/1XKrgnUUF7nZI-bOqWMKijKZHWThsIjFkVkfPIVy3gkY/edit?usp=sharing](https://docs.google.com/presentation/d/1XKrgnUUF7nZI-bOqWMKijKZHWThsIjFkVkfPIVy3gkY/edit?usp%3Dsharing)
-
-Repo: [https://github.com/hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-
-User Group Meetings: [https://wiki.hyperledger.org/display/ARIES/Aries+Bifold+User+Group+Meetings](https://wiki.hyperledger.org/display/ARIES/Aries%2BBifold%2BUser%2BGroup%2BMeetings)
-
-Rocketchat: [https://chat.hyperledger.org/channel/aries-bifold](https://chat.hyperledger.org/channel/aries-bifold)
-
-Aries-Framework-Javascript: [https://github.com/hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-
-rn-indy-sdk: [https://github.com/AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
-
-Discussion on the following topics:
-
-- Face recognition capabilities and discussion
-- Discussion of project goals
-- Brief demo of current state
-- Questions on Ionic vs React Native
-- React Native is more broadly adopted
-- Need to start somewhere
-- Does Aries Bifold plan to support BBS+? Yes, planning on utilizing Aries Askar and surrounding components to enable these capabilities.
-- What is the MVP of Aries Bifold?
-- Connections
-- Coordinate-mediation protocol support
-- Credential Exchange
-- Revocation
-- Aries Bifold interoperability
-- AIP 1.0 and AIP 2.0 support
-- Aries Agent Test Harness capabilities
-- Componentization of Aries Bifold
-- Allows the inclusion of the project in existing apps.
-- Helps with separation of concerns.
-- Use of React Redux
-- Packaging and monorepos.
-
-* [...]
-
-Karim Stekelenburg: [https://github.com/microsoft/react-native-tscodegen](https://github.com/microsoft/react-native-tscodegen)
-
 * [Dissertation Study on Adoption of SSI Digital Wallet](https://iiw.idcommons.net/24K/_Dissertation_Study_on_Adoption_of_SSI_Digital_Wallet) by Kerri Lemoie
 
 Slides: [https://docs.google.com/presentation/d/1BxFtjqypzPfeSe5Bbatl4NAPXn3lixWfWicdMNPOqQY/edit#slide=id.gcd69ee338d_0_288](https://docs.google.com/presentation/d/1BxFtjqypzPfeSe5Bbatl4NAPXn3lixWfWicdMNPOqQY/edit%23slide%3Did.gcd69ee338d_0_288)

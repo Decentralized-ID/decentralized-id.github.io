@@ -190,9 +190,6 @@ Sphereon has developed a Typescript/Javascript Library  that implements the fun
 
 the deployment of digital identification systems needs to get smarter about understanding the political interests and risks that shape the contexts in which identification systems are used — our [ID Ecosystem Mapping tool](https://medium.com/caribou-digital/kenyas-identification-ecosystem-7cbc2ee27) supports risk assessment arising from the deployment of digital identification systems.
 
-* [Setting up Mediator Agent in Ubuntu — (.Net Core service in Linux Box)](https://rangesh.medium.com/setting-up-mediator-agent-in-ubuntu-net-core-service-in-linux-box-b874bb409eed) Rangesh
-
-In a Self Sovereign Environment supported by Hyperledger Indy / Aries agent framework, Mediator Agent is one of the essential components that acts as postman service between Issuer /Verifier Aries Agent and Mobile Agent.
 
 * [Spruce Developer Update #11](https://sprucesystems.medium.com/spruce-developer-update-11-7766b44e1075)
 
@@ -257,8 +254,8 @@ This is so exciting to see what Wayne and his team are building.
   > 
   > [...] We are very excited to announce [one more small open-source contribution](https://github.com/ayanworks/ARNIMA-flutter-sdk) from AyanWorks to the Aries community.
 
-* [trustbloc/hub-router](https://github.com/trustbloc/hub-router) DIDComm mediator and router with mailbox features.
-  > The TrustBloc hub-router is a working implementation of the Mediator Coordination and the Pickup protocols built using Hyperledger Aries Framework - Go.
+
+
 * [Announcing Pico Engine 1.0](https://www.windley.com/archives/2021/02/announcing_pico_engine_10.shtml)
   > In addition to the work on the engine itself, one of the primary workstreams at present is to complete Bruce Conrad's excellent work to use DIDs and DIDComm as the basis for inter-pico communication, called ACA-Pico (Aries Cloud Agent - Pico). [...] This work is important because it will replace the current subscriptions method of connecting heterarchies of picos with DIDComm. [...] because DIDComm is protocological, this will support protocol-based interactions between picos, including credential exchange.
 
@@ -272,8 +269,6 @@ This is so exciting to see what Wayne and his team are building.
 * [Provider](https://docs.trinsic.id/reference#assets) • [Credentials](https://docs.trinsic.id/reference#connections) • [Wallet](https://docs.trinsic.id/reference#connection)
 * [Building and Securing a Go and Gin Web Application](https://developer.okta.com/blog/2021/02/17/building-and-securing-a-go-and-gin-web-application) Okta
   > Today, we are going to build a simple web application that implements a to-do list. The backend will be written in Go. It will use the Go Gin Web Framework which implements a high-performance HTTP server. The front end will use the Vue.js JavaScript framework to implement a single page application (SPA). We will secure it using Okta OAuth 2.0 authentication.
-* [Become a Node Operator](https://indicio.tech/blog/be-a-part-of-the-most-dynamic-network-community-in-decentralized-identity/) Indicio
-  > we’ve seen a rapid rise in demand for robust, stable, and professionally maintained networks to support decentralized identity solutions. It’s not a surprise: decentralized identity’s moment has arrived. That’s why we’ve been hard at work creating Hyperledger Indy networks upon which developers all over the world are building, testing, and launching their solutions.
 * [Dillo plugin for DID URLs](https://lists.w3.org/Archives/Public/public-credentials/2021Feb/0038.html) Charles E. Lehner
   > I would like to announce dillo-did, a plugin for the Dillo web browser implementing support for DIDs. This plugin enables navigating to DID URLs in Dillo and viewing the resolved/dereferenced DID documents and resources like web pages. The implementation of the DID functionality used is from ssi/DIDKit.
 * [Status.trinsic.id](http://status.trinsic.id/)
@@ -367,9 +362,6 @@ Learn about verifiable credentials, then head to the playground to view examples
 
 we want to explain what we talk about when we talk about Open Recognition. It builds on this [previous post](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629), and aims to move from the abstract to practicalities.
 
-* [Hyperledger Ursa code review](https://www.hyperledger.org/hyperledger-ursa/2022/05/31/hyperledger-ursa-code-review) Hyperledger
-
-Rooted in a “trust but verify” mindset, several Canadian public sector entities and [Interac](https://www.interac.ca/en/) (Canada’s interbank network) sponsored a project at the [Digital Identity Laboratory of Canada](https://idlab.org/) (IDLab) to perform a security and cryptography code review of Hyperledger Ursa  (full report is available [here](https://www.hyperledger.org/wp-content/uploads/2022/05/URSA-IDLab-Code-Review.pdf)).
 
 * [Self Sovereign Identity (SSI) at T-Systems MMS: Interview mit Mujtaba Idrees, T-Systems MMS](https://www.youtube.com/watch?v%3DA311QHASy5Y) 7min video on YouTube
 
@@ -418,9 +410,6 @@ Interoperability
 With this badge, they qualify to participate in Plugfest #2 which will focus on issuing and displaying LER VCs. Plugfest #2 will take place in November 2022 with plans to meet in person the day before the [Internet Identity Workshop](https://internetidentityworkshop.com/) on November 14 in Mountainview, CA. If vendors are interested in Plugfest #2 and didn’t participate in Plugfest #1, there is still an opportunity to do so by fulfilling the same requirements listed above including the video and earning a Plugfest #1 badge.
 
 
-* [Introducing Hyperledger Aries Framework JavaScript 0.2.0](https://www.hyperledger.org/blog/2022/07/06/introducing-hyperledger-aries-framework-javascript-0-2-0) Hyperledger
-
-The new Hyperledger Aries Framework JavaScript release (0.2.0) contains some incredible steps forward. Especially in our goal to make the framework AIP 2.0 compliant. AIP 2.0 compliance will not only ensure the framework supports the latest standards and protocols, but it will also greatly increase interoperability and make it more useful outside of the Hyperledger Indy ecosystem.
 
 OpenID Specs Up for Review
 

@@ -4,6 +4,40 @@ published: false
 
 # Standards
 
+
+* [FYI: What makes a standard ‘world class’?](https://lists.w3.org/Archives/Public/public-credentials/2021Aug/0213.html) Michael Herman (Trusted Digital Web) (Saturday, 14 August)
+
+*   A world class standard should have well-defined objectives that respond to real needs in a timely manner.
+
+*   Its technical content should be complete and accurate.
+
+*   It should be easy to understand (or as easy as the subject matter allows!) and easy to implement.
+
+*   Its requirements should be expressed clearly and unambiguously.
+
+*   It should be validated.
+
+*   It should be well-maintained.
+
+Reference: [A Guide To Writing World Class Standards](https://www.etsi.org/images/files/Brochures/AGuideToWritingWorldClassStandards.pdf)
+
+* [Re: historical background regarding success of responses to formal objections](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0076.html) Liam R. E. Quin (Monday, 13 September)
+
+In the 17 years i worked at W3C, the formal objections were
+
+(1) "we [the objector] wanted to be on record as saying this but go ahead and publish" (the most common);
+
+(2) we [the objector] have a product, or are about to ship a product, and the feature(s) in  this spec would cause problems in the short-term for our product, and that's more important to us than the Web (no-one will ever admit to this but it's not uncommon)
+
+(3) we object to this spec, we prefer another approach, so here's a bunch of fake objections to slow things down because we can't share our actual business strategy
+
+(4) we believe there's a technical problem with this spec, but we didn't notice it over the past four years despite a last call  review (this one is actually rare but does happen)
+
+* [We're not the only community with problems (Fwd: Open Letter to Debian election candidates about Debian vendettas)](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/0127.html) Manu Sporny (Saturday, 19 March)
+
+Just a reminder that these "politics" and "other-ing" isn't some weird by product of the "identity community", or DIF, or CCG, or OpenID... it's endemic in any long-lived community composed of human beings.
+
+It's not something you're ever rid of... it's something you manage over time;
 * [Decentralised Identity: What’s at Stake?](https://inatba.org/wp-content/uploads/2020/11/2020-11-INATBA-Decentralised-Identity-001.pdf) A Position Paper by the INATBA Identity Working Group
   > INATBA has a specific Standards Committee to liaison with relevant standardisation committees and bodies. Some relevant standardisation committee and bodies include:
 - [ISO/TC 307 “Blockchain and distributed ledger technologies”](https://www.iso.org/committee/6266604.html)
@@ -211,10 +245,6 @@ I gave the following presentation on the [OpenID Connect Working Group](https:/
 
 - OpenID Connect Working Group [(PowerPoint)](http://self-issued.info/presentations/OpenID_Connect_Working_Group_13-Sep-21.pptx) [(PDF)](http://self-issued.info/presentations/OpenID_Connect_Working_Group_13-Sep-21.pdf)
 
-* [Hyperledger Aries Graduates To Active Status](https://www.hyperledger.org/blog/2021/02/26/hyperledger-aries-graduates-to-active-status-joins-indy-as-production-ready-hyperledger-projects-for-decentralized-identity)
-
-The TSC commended the Aries project during the meeting for the project’s highly diverse contributors. Achieving a high number of organizations contributing to a project at Hyperledger is often a challenge. Congratulations are due to those participating in and supporting the Aries Project.
-
 * [JSON is Robot Barf](https://www.windley.com/archives/2021/09/json_is_robot_barf.shtml) Windley
 
 JSON has its place. But I think we're overusing it in places where a good notation would serve us better.
@@ -294,9 +324,6 @@ Considering that the group has accomplished these goals, there is currently no m
 
 In a sense, this recommendation is a kind of abbreviation of the key things that our specifications test for. And you’ll be able to see that soon as the Me2B Safe Website Specification for Respectful Technology is currently in the membership review stage of the approval process.
 
-* [The Pathway to Becoming a Hyperledger Maintainer](https://www.hyperledger.org/blog/2021/11/03/the-pathway-to-becoming-a-hyperledger-maintainer)
-
-In this blogpost I’m going to share what it’s like to be a maintainer for the Hyperledger Aries project. You’ll learn how you can start contributing and maybe even set yourself on a path to becoming a maintainer.
 
 * [Indicio’s support for the W3C DID Specification and its path to standardization](https://indicio.tech/indicios-support-for-the-w3c-did-specification-and-its-path-to-standardization/)
 
@@ -373,9 +400,6 @@ At a superficial level, a decentralized identifier (DID) is simply a new type of
 - [Self-Issued OpenID Provider v2](https://openid.net/specs/openid-connect-self-issued-v2-1_0-07.html)
 - [OpenID Connect for Verifiable Presentations](https://openid.net/specs/openid-connect-4-verifiable-presentations-1_0-08.html)
 
-* [Indicio Wins British Columbia Code With Us Challenge to Upgrade Hyperledger Indy](https://indicio.tech/indicio-wins-british-columbia-code-with-us-challenge-to-upgrade-hyperledger-indy/)
-
-Most of Hyperledger Indy’s development occurred prior to the completion of the standard DID Specification by the W3C and, as a result, identifiers written to one network are currently not resolvable on other networks. A new did:indy DID Method will fix that and make it easier for decentralized identity products and services to interoperate across different Indy networks.
 
 * [Cryptography Review of W3C VC Data Model and DID Standards and Implementation Recommendations](https://www.linkedin.com/posts/aniljohn_cryptography-review-of-w3c-vc-and-w3c-did-ugcPost-6892250585652162560-OQ3Y) SRI International
 
@@ -405,9 +429,6 @@ A Final Specification provides intellectual property protections to implementers
 
 the VC standard appears to be an adoption vector for Linked Data, not the other way around. My overriding interest is that the concept of a VC as a securely attributable statement is a very powerful and attractive one and therefore should be widely adopted. We should therefore be picking the best technologies that best support broad VC adoption, not the other way around.
 
-* [Hyperledger SSI Ecosystem](https://dev.to/jakubkoci/hyperledger-ssi-ecosystem-4j2p) Jakubkoci
-
-There are three projects under the Hyperledger umbrella related to digital identity. Hyperledger Indy, Aries, and Ursa. [...] describe their purpose and how they’re related to each other.
 
 * [Open standards should be developed openly](https://blog.weareopen.coop/open-standards-should-be-developed-openly-1f0cf552308d)
 
@@ -544,11 +565,6 @@ WG Meeting of the week
 * [OpenID for Verifiable Credentials](https://openid.net/2022/05/12/openid-for-verifiable-credentials-whitepaper/) OpenID ([Whitepaper](https://openid.net/wordpress-content/uploads/2022/05/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials_FINAL_2022-05-12.pdf)
 
 to inform and educate the readers about the work on the OpenID for Verifiable Credentials (OpenID4VC) specifications family. It addresses use-cases referred to as Self-Sovereign Identity, Decentralized Identity, or User-Centric Identity.
-
-* [Indicio completes Hyperledger Indy DID Method—A Milestone in the Evolution of DID Interop](https://indicio.tech/indicio-completes-hyperledger-indy-did-method-a-milestone-in-the-evolution-of-decentralized-identity-network-interoperability/)
-
-The Indy DID Method paves the way for Hyperledger Indy credentials to scale globally by allowing Indy networks to seamlessly interoperate and create a “network-of-networks” effect.
-
 * [What is Open Recognition, anyway?](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629) Going beyond credentialing and the formal/informal divide
 
 Badges as credentials includes approaches that are well understood and largely replace or augment existing certification practices. Badges for recognition, however, include approaches that remain somewhat confusing to many people.
@@ -588,9 +604,8 @@ W3C CCG (World Wide Web Consortium’s Credentials Community Group) aims to expl
 
 DIDComm Messaging enables higher-order protocols that inherit its security, privacy, decentralization, and transport independence. Examples include exchanging verifiable credentials, creating and maintaining relationships, buying and selling, scheduling events, negotiating contracts, voting, presenting tickets for travel, applying to employers or schools or banks, arranging healthcare, and playing games.
 
-* [Our Approach to Resources on-ledger](https://blog.cheqd.io/our-approach-to-resources-on-ledger-25bf5690c975): Using the capabilities of the DID Core specification for standards-compliant resource lookup
 
-Decentralised Identifiers (DIDs): are often stored on ledgers (e.g., [cheqd](https://github.com/cheqd/node-docs/blob/adr-008-resources-updates/architecture/adr-list/adr-002-cheqd-did-method.md), [Hyperledger Indy](https://hyperledger.github.io/indy-did-method/), distributed storage (e.g., [IPFS](https://ipfs.io/) in [Sidetree](https://identity.foundation/sidetree/spec/)), or non-ledger distributed systems (e.g., [KERI](https://keri.one/)). Yet, DIDs can be stored on traditional centralised-storage endpoints (e.g., [did:web](https://w3c-ccg.github.io/did-method-web/), [did:git](https://github-did.com/)).
+
 
 Neighboring Standards
 
@@ -696,11 +711,6 @@ European Commission’s Next Generation Internet (NGI) initiative to lead a proj
 
 Driven by our motivation to make SSI more adoptable, we built the world’s first turn-key, open source trust registry solution. This work was sponsored by the [European Self-Sovereign Identity Framework Lab](https://essif-lab.eu/), which is an EU consortium that provides funding for projects that build SSI open source tools. Any ecosystem provider can use the trust registry implementation to enable governance in their verifiable data ecosystem.
 
-
-* [Investing in Verifiable Credentials, Technical Interoperability and Open Source](https://www.hyperledger.org/blog/2022/08/23/investing-in-verifiable-credentials-technical-interoperability-and-open-source) Hyperledger
-
-As our approach evolves, we also remain keen to support open source solutions that interoperate with other national and international efforts. There is no dominant design yet, no one network or technology, so we must remain nimble and flexible in our exploration. We also need to coexist with existing identity solutions that millions of British Columbians already rely upon.
-
 * [Managing Trust and Reputation via Trust Registries](https://www.continuumloop.com/managing-trust-and-reputation-via-trust-registries/) Continuum Loop
 
 The concept behind a Trust Registry is that a Wallet needs to know which decentralized identifiers (DIDs) to “trust” as a source of truth. At many levels, this “trust” translates to “authority” – knowing that somebody, centralized or decentralized, is responsible for maintaining a list of trusted DIDs.
@@ -740,19 +750,6 @@ Mobile Document Request API
 
 The API is concerning because it lists "Define the native communication between the User Agent and the application holding the mdoc." as out of scope. That is, digital wallet selection is out of scope. Also out of scope is "issuing" and "provisioning". The specification focuses on delivery from a digital wallet to a website.
 
-## Aries \ Indy \ AnonCreds the dialogue continues
-
-* [Learnings from Aries, Indy and Various Verifiable Credential Implementations](https://northernblock.io/learnings-from-aries-indy-and-various-verifiable-credential-implementations/) Northern Block
-
-Standards such as OIDC and mDL are all now in dialogue with W3C, AnonCreds, Aries, etc. Mobile is a predominant technology, just like the way laptops were once upon a time. To reduce consumer friction and drive adoption, convergence of all these different technologies is required inside a mobile environment
-
-* [Hyperledger Aries is the Present and the Future of Internet-Scale Trusted Verifiable Credential Ecosystems](https://indicio.tech/hyperledger-aries-is-the-present-and-the-future-of-internet-scale-trusted-verifiable-credential-ecosystems/) Indicio
-
-While no technology runs perfectly on every device, a signal strength of Aries, AnonCreds, and Indy is that they work on the vast majority of current devices and systems, including $35 smart phones and low powered IOT/embedded devices. They represent the most inclusive way into this technology, which is an important factor in their popularity.
-
-* [AnonCreds Indy-Pendence](https://blog.cheqd.io/anoncreds-indy-pendence-4946367469d4) Cheqd
-
-Part 1: Decoupling the reliance on Hyperledger Indy and creating more extensible AnonCreds Objects with cheqd.
 
 ## Standards Work
 

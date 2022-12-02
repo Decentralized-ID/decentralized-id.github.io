@@ -4,24 +4,6 @@ published: false
 
 # Organization
 
-* [Why Are Governments Choosing Hyperledger?](https://northernblock.io/governments-are-choosing-aries-indy-ursa/) Northern Block
-  > - Open Data Standards (W3C’s DID & VC Standards)
-  > - Open Tech Standards (Hyperledger Aries, Indy, Ursa)
-  > - Achieving W3C-Compliance on Aries and Indy
-
-* [Building a Hyperledger Indy Network](https://iiw.idcommons.net/1H/_Building_a_Hyperledger_Indy_Network_-_Questions,_discussion,_etc.) - Questions, discussion, etc. by Lynn Bendixsen
-
-Slides link: [https://docs.google.com/presentation/d/1sUG4297GiRcUdu4aqQnc0Op0LMhbwiqy9LIAINHfSFQ/edit#slide=id.p1](https://docs.google.com/presentation/d/1sUG4297GiRcUdu4aqQnc0Op0LMhbwiqy9LIAINHfSFQ/edit%23slide%3Did.p1)
-
-Links to guides for creating your own Indy network:
-
-High level:
-
-* [https://github.com/trustoverip/utility-foundry-wg](https://github.com/trustoverip/utility-foundry-wg)
-
-Technical details (implementation):
-
-* [https://docs.google.com/document/d/1Tg4dAEtC78TxG9AsIby_CfpbeOicK_YMKznSQOvtIVU/edit](https://docs.google.com/document/d/1Tg4dAEtC78TxG9AsIby_CfpbeOicK_YMKznSQOvtIVU/edit)
 
 * [LoginWithFIDO.com](https://loginwithfido.com/)
 * [Consumer Research](https://fidoalliance.org/consumerresearch/) 
@@ -38,10 +20,9 @@ The Lab is Canada’s first independent and neutral organization to promote the 
 * [GLEIF Launches New Stakeholder Group to Accelerate the Integration of LEIs in Digital Certificates](https://infocert.digital/gleif-launches-new-stakeholder-group-to-accelerate-the-integration-of-leis-in-digital-certificates/)
 
 GLEIF has launched a CA Stakeholder Group to facilitate communication between GLEIF, CAs and TSPs from across the world, as they collectively aim to coordinate and encourage a global approach to LEI usage across digital identity products. Participation has already been confirmed by China Financial Certification Authority (CFCA), DigiCert Inc, InfoCert, Entrust Datacard, ICAI India, and SwissSign.
-* [Indicio launches blockchain-enabled network for identity](https://indicio.tech/blog/indicio-launches-blockchain-enabled-network-for-identity/)
-  > “Our clients asked for a stable, fully-staffed network based on Hyperledger Indy— one that could provide the  Service Level Agreements their customers need for mission-critical workloads,” said Heather Dahl, CEO of Indicio. “Today, we are excited to announce that this MainNet is open for business.”
-  > 
-  > “This is the network we need to accelerate adoption of passwordless zero trust ecosystems for enterprise customers” said Mike Vesey, President of [IdRamp](https://idramp.com), a leader in decentralized identity and a Genesis Node Operator on the Network.
+
+
+
 * [DIF Steering Committee election coming up](https://blog.identity.foundation/nominations-for-the-steering-committee-election-now-open/)
   > Among the conclusions of this analysis was that a larger steering committee would garner more trust and visibility into DIF's internal governance as an organization. An operating addendum was adopted last month which formalizes procedures for periodic elections and distribution requirements.
 * [Introducing DIF Grants](https://blog.identity.foundation/introducing-dif-grants/) Decentralized Identity Foundation
@@ -67,22 +48,6 @@ GLEIF has launched a CA Stakeholder Group to facilitate communication between GL
 
 * [Q1 2021 in review](https://www.gleif.org/en/newsroom/blog/q1-2021-in-review-the-lei-in-numbers): The LEI in Numbers: Data from the latest Global LEI System Business Report reveals LEI adoption from January to March 2021.
 
-* [IDunion Introduction and AMA (there will be another one tomorrow!)](https://iiw.idcommons.net/12D/_IDunion_Introduction_and_AMA_(there_will_be_another_one_tomorrow!)) by Andre Kudra + available IDunion crew!
-
-* [IDunion](https://idunion.org/?lang%3Den) enables self-determined identities based on Self-Sovereign Identity (SSI) technologies Hyperledger Indy and Hyperledger Aries. The aim of the IDunion organisation is to create an open ecosystem for decentralised identity management, which can be used  worldwide and is based on European values and regulations. IDunion is also a [project](https://www.digitale-technologien.de/DT/Redaktion/DE/Standardartikel/SchaufensterSichereDigIdentProjekte/Schaufensterprojekte/sdi-projekt_idunion.html) co-funded by the [German Federal Ministry of Economic Affairs (BMWi)](https://www.bmwi.de/Navigation/EN/Home/home.html) as part of the [Showcases Secure Digital Identities program](https://www.digitale-technologien.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/Sichere_Digitale_Identitaeten/sichere_digitale_ident.html). We gave an introduction covering
-
-- The IDunion consortium consists of 37 partners - other major partners have already signaled interest in participating
-- Our solution is enabled by the distributed ledger technology (DLT) and the concept of self-sovereign identities (SSI)
-- Instead of a central authority, trust is organized via a DLT network, which works as a decentralized PKI system
-- In recent months, in addition to intensive research, we have developed a DLT test network including governance structure, 35+ use cases and numerous software components for the allocation, verification and management of digital identity data developed
-- In the future, the identity network will be managed by a European cooperative in which every institution in the EU can participate
-- In total, we are working on 35 use cases in the areas of eGovernment, education, finance, industry/IOT, eCommerce/mobility, IAM, and eHealth
-
-* [IDunion Introduction and AMA (same as on day 2!)](https://iiw.idcommons.net/24D/_IDunion_Introduction_and_AMA_(same_as_on_day_2!)) by Andre Kudra + available IDunion crew!
-
-IDunion | SSI | Identity | Consortium | Cooperative | Germany | Europe | BWMi
-
-Discussion notes, key understandings, outstanding questions, observations, and, if appropriate to this discussion: action items, next steps:
 
 * [Directories in Distributed Identity](https://iiw.idcommons.net/10D/_Directories_in_Distributed_Identity) by Sam Curren, Ken Ebert, Suresh Batchu, Kiran Addepalli
 
@@ -157,29 +122,6 @@ It will be the basis for ongoing activity that aims to build on the strengths of
 David Luchuk, Program Manager for Trust over IP, addressed the importance of ensuring that Sovrin and Trust over IP’s mutual support for one another is clearly presented to the market to the broader community represented here at IIW.
 
 * [Chris Raczkowski](mailto:chris@sovrin.org)indicated that a joint announcement would be developed in the very near term.
-
-* [BC Gov Collaboration on the Business Partner Agent, sharing our Roadmap (Create Creds, Issue them, Verify them, Hold them, publish them, ZKPs, Selective Disclosure)](https://iiw.idcommons.net/24A/_BC_Gov_Collaboration_on_the_Business_Partner_Agent,_sharing_our_Roadmap-Create_Creds,_Issue_them,_Verify_them,_Hold_them,_publish_them,_ZKPs,_Selective_Disclosure-) by Matthew Hall + Available Collaborators
-
-Business partner agent, credential management, issuers, verifiers, holders, digital wallet
-
-Practical session, what we are actually building today using the hyper ledger Aries tools
-
-Some interesting points
-
-- Viewing organizations as Issuers, Verifiers and Holders
-- Talked about the complexity of defining a verifiable credential, I.e. what are you attesting to?
-- Went over the need to make it easier for users to be able to create credential schemas and credential definitions without having to gain understanding about the tech.
-- Question was asked about where do we start, do we have to bootstrap the first credential? And we went over being able to start with existing governance structures, and the trust that is already accepted there to issue the first credentials.
-- I gave a demo of our prototype that shows three actors (Mine, Bank, Verifier) doing a credential exchange flow between them
-
-Links:
-
-DEMO:  [https://www.youtube.com/watch?v=09-LOHPTHWs](https://www.youtube.com/watch?v%3D09-LOHPTHWs)
-
-Connect with Us: [https://chat.hyperledger.org/channel/business-partner-agent](https://chat.hyperledger.org/channel/business-partner-agent)
-
-Repo: [https://github.com/hyperledger-labs/business-partner-agent/projects/1](https://github.com/hyperledger-labs/business-partner-agent/projects/1)
-
 * [WHiSSPr Risk for People](https://iiw.idcommons.net/index.php?title%3D20E/_WHiSSPRr_Risk_for_People%26action%3Dedit%26redlink%3D1) by Sal D’Agostino
 
 * [GS1 2021 VC/DID Prototype Review: The Hero’s Journey](https://iiw.idcommons.net/index.php?title%3D13H/_GS1_2021_VC/DID_Prototype_Review:_The_Hero%25E2%2580%2599s_Journey%26action%3Dedit%26redlink%3D1)
@@ -199,10 +141,6 @@ The Cardea and GCCN projects are both excellent examples of breakthrough innovat
 * [Hedera Hashgraph Joins World Wide Web Consortium (W3C)](https://hedera.com/blog/hedera-hashgraph-joins-world-wide-web-consortium-w3c-new-did-method-published-by-w3c-credentials-community-group)
 
 We welcome Hedera as a contributing member to the W3C DID Working Group and congratulate their team for reaching this milestone of a published implementation of the latest W3C DID Identifiers v1.0 draft,” said Ivan Herman
-* [Hyperledger Forum Recap – Identity Proofing, and Passwordless User-friendly Digital Identity](https://idramp.com/hyperledger-forum-recap-identity-proofing-and-passwordless-user-friendly-digital-identity/)
-
-IdRamp presented with Oracle at [Hyperledger Global Forum](https://events.linuxfoundation.org/hyperledger-global-forum/) June 2021. The event focused on enterprise use of blockchain technologies using the 15 projects that fall under the Hyperledger “greenhouse”. Keynotes and speakers shared their insights on the current state of enterprise blockchain adoption across several hot topics including central bank digital currencies (CBDCs), non fungible tokens (NFTs), and most importantly– identity.
-
 * [AfroLeadership NGO to join the Board of aNewGovernance AISBL](https://www.anewgovernance.org/2021/07/02/2391/) NewGovernance
 
 As the Data Strategy and the Data Spaces are being put in place in Europe, as the
@@ -233,18 +171,6 @@ It is essential that Participants in a digital ecosystem have a way to evaluate 
 Editorial: Kaliya thinks this is a terrible idea. It is based on the premise that identity providers (issuers of credentials) should get paid every time a person (the holder) presents the credential in their wallet, when shared with the relying party (verifier) I think this is toxic and we are just finally getting to aligned standards for the VC format and for exchange protocols - now some how we are going to rapidly add a payments layer?
 
 NO this isn’t going to work it is going to create lockin to particular wallets for particular credentials. All because some bad entrepreneurs who are no longer leading their companies sold SAFTS to greedy investors. There is a mess under here that should be exposed further now that they are trying to push this model again. Lets just say I can’t wait for the investigative reporter to dig into the Sovrin meltdown from last year further to see what is really there. It could have all been left alone and I wouldn’t be talking about it - but they decided to push the model again.
-
-* [Anonyome Labs Joins the Indicio MainNet](https://anonyome.com/2021/05/anonyome-labs-joins-the-indicio-mainnet/)
-
-Here, we go through how we went about standing up our Indico node. In brief:
-
-- The Indicio MainNet is an enterprise-grade ledger for use by decentralized identity applications.
-- We brought up the node using AWS Elastic Cloud Computing (EC2) instances within a Virtual Private Cloud (VPC).
-- We pulled the validator algorithms from the open-source project, [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy).
-- A supporting machine operates the command line interface used to perform steward operations onthe ledger.
-- We used security groups at the network interface level to create a firewall.
-- We set up monitoring in AWS CloudWatch using a variety of bash scripting in conjunction with Ubuntu and AWS provided utilities.
-- We created a regular maintenance schedule.
 
 * [Me2BA Executive Director Lisa LeVasseur featured on Masters of Privacy podcast](https://me2ba.org/me2ba-executive-director-lisa-levasseur-featured-on-masters-of-privacy-podcast/) Me2b
 
@@ -315,9 +241,8 @@ use of IETF Token Binding specifications with OpenID Connect and integration wit
 
 MEGA also joined the Good Elf Pass Initiative whose “interoperability blueprint” supports its crucial role as issuers of these credentials. The ground-breaking “Hypersleigh” blockchain standard will also support rapid delivery and high security for all Meaningful Gifts. #hypersleigh
 
-* [Hyperledger Mentorship Spotlight: Hyperledger Aries Integration to Support Fabric as Blockchain Ledger](https://www.hyperledger.org/blog/2021/12/06/hyperledger-mentorship-spotlight-hyperledger-aries-integration-to-support-fabric-as-blockchain-ledger)
 
-The Hyperledger Mentorship Program is a structured hands-on learning opportunity for new developers who may otherwise lack the opportunity to gain exposure to Hyperledger open source development and entry to the technical community.
+
 
 * [@IDWorkshop (IIW) tweeting from the Flickr Archives](https://twitter.com/idworkshop/status/1471905005556822017?s%3D20)
 
@@ -343,8 +268,6 @@ Currently, over 40 applications have been implemented in the IDunion project. Th
 The founding media partners all agreed, however, that having more first-party data and increasing the share of registered visitors would allow them to build better relationships with readers and more relevant news products. Their collective first step has been OneLog, a single sign-on system being used across a variety of news sites owned by Swiss Digital Alliance members TX Group and Ringier.
 
 
-* [Hyperledger KochiOrgBook Meetup](https://www.youtube.com/watch?v=HU0zXKiFYD0) (modeled after [VONx.io](https://vonx.io/)), in collaboration with Wipro, CUSAT, and KBA.
-  > “KochiOrgBook is a Verifiable Organization Network for the city of Kochi [India]. It is a technology demonstrator to launch a DID based utility compliant with the ToIP standards to enable trusted digital verification for various associations within the city of Kochi.”
 * [LEGO & Learning Economy: Gearing up with Super Skills](https://blog.identity.foundation/lego-super-skills/) ID Foundation
 
 The Super Skills app combines a custodial wallet (Torus) and Ceramic VC/storage tooling to give children private, exportable, future-proof achievement records – a self-sovereign educational credentialing system in miniature.
@@ -409,9 +332,6 @@ Informed by standards bodies including [the FIDO Alliance](https://findbiometric
 * [Machine Readable Governance is the Key to Scaling Decentralized Trust](https://indicio.tech/where-do-you-put-a-trust-registry-in-a-decentralized-digital-ecosystem-not-where-it-turns-into-a-wrench/) Indicio
 
 We’re not convinced that “constraint” is the right theoretical approach for an emerging technology, especially one that is being deployed in different sectors for different use cases. To underscore this, we want to address a particular constraint implied by ToIP’s design concepts that is likely to be fatal to any deployment.
-
-* [Getting Internet Identity Right 30 Years On](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL2NvaW5kZXNrLXJlcG9ydHM/episode/Z2lkOi8vYXJ0MTktZXBpc29kZS1sb2NhdG9yL1YwL1B2ZTZ1WThCazZjM24zckdUVVdaQ2YyWGJwQnNuWTBra3N0WWlFOFhBNUk?ep=14) Money ReImagined with Brian Behlendorf.
-  > Michael Casey and Sheila Warren talk to Hyperledger Executive Director Brian Behlendorf about self-sovereign identity, the topic of this week's column. A developer whose three-decade career has seen him deeply involved in efforts to foster a more open internet, Brian grasps, like few others, the nuances of how human beings should live within a rapidly changing digital economy.
 - [DIFS updated code of conduct](https://medium.com/decentralized-identity/difs-updated-code-of-conduct-a0c2d9dce1ad) - Setting a tone for inclusive collaboration.
 
 * [DIF and OIDF cooperation](https://medium.com/decentralized-identity/dif-oidf-9753b9bd0093) 
@@ -596,10 +516,6 @@ This report discusses what the identity verification related requirements for th
 
 in the context of government identity programs we see it as useful to compare them on the following parameters – background, credential data model & trust anchor and transmission protocols.
 
-* [Hyperledger completes development of DID:Indy Method and advances toward a network of networks](https://www.hyperledger.org/blog/2022/05/02/hyperledger-identity-community-completes-development-of-didindy-method-and-advances-toward-a-network-of-networks) Howland & Bluhm - Linux Foundation
-
-With the groundwork complete, networks and agent frameworks now need to incorporate the Indy:DID Method. This community adoption will increase the viability of the Indy and Aries project stack and position it to be the globally dominant way to issue and share verifiable credentials in a multi-ledger world.
-
 * [MyData Global adopts an updated logo and visual identity](https://www.mydata.org/2022/05/17/new-logo/)
 
 * [Aotearoa’s digital identity journey that leaves no-one behind](https://digitalidentity.nz/2022/05/18/aotearoas-digital-identity-journey-that-leaves-no-one-behind/) DigitalID NZ
@@ -769,3 +685,18 @@ In December 2019, members elected the first Digital Identity NZ Executive Counci
 The first step in issuance is for a representative to enter a contractual agreement with a QVI to provide the issuance service. The individual from the legal entity that undertakes this contractual signup is known as the Designated Authorised Representative (DAR) [...]
 
 As per the LE-vLEI description the above is simplified. The full OOR-vLEIs issuance process is detailed in the [Ecosystem Governance Framework vLEI Credential Governance Framework Legal Entity Official Organizational Role](https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2022-02-07_legal-entity-vlei-credential-gf-draft-publication_v0.9-draft.pdf)
+
+
+## W3C
+
+## W3C
+
+* [does the CCG have any thoughts about possible changes to W3C itself?](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0067.html)  Daniel Hardman (Saturday, 9 April)
+
+This major organizational overhaul to the W3C is also happening at a time of unprecedented activity and change for the internet. Will the web support crypto and Web3 industry proposals? How will the web support advertising? What should be the baseline web browser security standards?
+
+* [Announcement: W3C to become a public-interest non-profit organization](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0063.html)  Kimberly Wilson Linson (Tuesday, 28 June)
+
+* [W3C to become a public-interest non-profit organization](https://www.w3.org/2022/06/pressrelease-w3c-le.html.en)
+
+"We designed the W3C legal entity in a way that keeps our core unchanged," said Dr. Jeff Jaffe, W3C CEO. "Our values-driven work remains anchored in the royalty-free W3C Patent Policy, and the W3C Process Document where we enshrined dedication to security, privacy, internationalization and web accessibility. W3C and its Members will continue to play a fundamental role in making the web work for billions of people."

@@ -244,10 +244,6 @@ Credential Marketplace is quite high up the SSI stack but we want to start this 
 11. Reputation mechanism for credential issuers
 12. Marketplace can also implement value transfer: paying for issuance by the verifier, for example. Even if they are part of different SSI ecosystems. This is optional but can help incentivize different participants.
 
-* [Universal NFTs as authentic data without tokens/blockchains. How to eliminate minting/mining fees and break the NFT silos.](https://iiw.idcommons.net/21F/_Universal_NFTs_as_authentic_data_without_tokens/blockchains._How_to_eliminate_minting/mining_fees_and_break_the_NFT_silos.) by Dave Huseby
-
-This session described how we can use the authentic data solution to track provenance and controllership of digital data and effectively create NFTs, now called NFADs, that are completely independent of blockchains and tokens. This eliminates minting and transfer costs common on the NFT silos. I have provided link to the slides.
-
 * [https://docs.google.com/presentation/d/1VaxwE9d4kEvmsJGUMWcvLf5WOQRcv5o_wTGTsecfseA/edit?usp=sharing](https://docs.google.com/presentation/d/1VaxwE9d4kEvmsJGUMWcvLf5WOQRcv5o_wTGTsecfseA/edit?usp%3Dsharing)
 
 * [International Semantic Infrastructure: Requirements for a distributed data economy](https://iiw.idcommons.net/21L/_International_Semantic_Infrastructure:_Requirements_for_a_distributed_data_economy) by Paul Knowles

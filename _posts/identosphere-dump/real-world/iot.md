@@ -41,10 +41,6 @@ we discussed the white paper he authored on [Self Sovereign Identity and IoT](ht
   > Similarly, a [battery passport](https://dlt.mobi/battery-passport) is nothing but a presentation of data points about a particular battery – who manufactured it, its physical and chemical composition, its current state of health, whether it was refurbished or repurposed from another battery, and so on.
 
 
-* [An automatized Identity and Access Management system for IoT combining SSI and smart contracts](https://arxiv.org/pdf/2201.00231.pdf) Montassar Naghmouchi, Hella Kaffel, and Maryline Laurent
-
-This paper proposes a blockchain-based identity and access management system for IoT – specifically smart vehicles- as an example of use-case, showing two interoperable blockchains, Ethereum and Hyperledger Indy, and a self-sovereign identity model.
-
 
 * [Ceramic, SkyNet, LoRa, IoT. low bandwidth & memory, distributed network. Managing schemas, DIDComm, and V.C. in context](https://iiw.idcommons.net/14M/_Ceramic,_SkyNet,_LoRa,_IoT._low_bandwidth_%2526_memory,_distributed_network._Managing_schemas,_DIDComm,_and_V.C._in_context) by Brent Shambaugh
 

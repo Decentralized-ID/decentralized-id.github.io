@@ -4,9 +4,6 @@ published: false
 
 # Protocols
 
-* [Hyperledger Aries Graduates To Active Status; Joins Indy As “Production Ready”](https://www.hyperledger.org/blog/2021/02/26/hyperledger-aries-graduates-to-active-status-joins-indy-as-production-ready-hyperledger-projects-for-decentralized-identity)
-
-“This approval is further evidence that Hyperledger Aries is a breakout success for the Hyperledger community,” said Brian Behlendorf, General Manager for Blockchain, Healthcare and Identity at the Linux Foundation. “Convergence on common libraries for the exchange of credentials will help speed the development of urgently-needed solutions and systems, ranging from education to finance to the fight against the pandemic. Aries is key to that convergence.”
 
 * [Torgap architecture & products](https://github.com/BlockchainCommons/torgap)
   > Torgap is the Blockchain Commons security and privacy architecture model for creating gaps between connected apps and microservices. It supports privacy, service anonymity, identity psuedonymity, non-correlation, censorship-resistance, and seperation-of-interests and reduces single-points-of-failure. This emerging architecture is supported by QuickConnect and Blockchain Commons' Gordian system, while our Airgapped Wallet community and our research papers are charting its future.

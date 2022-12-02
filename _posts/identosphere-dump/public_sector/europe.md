@@ -202,8 +202,6 @@ The objective of the topic is to develop, implement and scale up the European Di
 
 The concept of SSI was designed with the citizen and privacy in mind. However, existing implementations lack user-friendliness (e.g. showing hash codes to users), creating potential barriers in users’ adoption. OnboardSSI focuses on providing a secure and user-friendly wallet solution creating an easier way for citizens to manage their identity.
 
-* [EU Grant to Help Building Blockchain Infrastructure](https://sphereon.com/news-and-insights/sphereon-wins-an-eu-essif-lab-grant/). Sphereon
-  > We’ll be providing a Presentation Exchange that creates interoperability between W3C DIF-compliant Verifiable Credentials and Hyperledger Aries-based Verifiable Credentials for the European Blockchain Services Infrastructure (EBSI).
 * [eSSIF-Lab’s ecosystem: 2nd batch of winners: Infrastructure Development Instrument](https://essif-lab.eu/meet-the-essif-labs-ecosystem-the-infrastructure-development-instrument-first-winners-2/)
   > another 7 proposals selected, out of 29 that were submitted before the second deadline of the Infrastructure-oriented Open Call
 * [eSSIF-Lab Vision and Purpose](https://essif-lab.pages.grnet.gr/framework/docs/vision-and-purpose)

@@ -17,9 +17,6 @@ When a medical accrediting agency provides a digitally signed certificate, the h
 - EU Digital COVID Certificate (EU-DCC) - This specification allows EU citizens and residents to have their digital health certificates issued and verified across the EU.
 - Smart Health Card (SHC) - This initiative encourages the development of open standards and technologies to connect people with their health data. Led by Microsoft, Vaccination Credential Initiative (VCI), The Commons Project, and The MITRE Corporation, SHCs are seeing wide adoption across North America.
 - International Civil Aviation Organisation - Visible Digital Seal (ICAO-VDS) - This is a travel document verification to re-establish travel and trade through aviation.
-* [Technical Design and Development of a Self-Sovereign Identity Management Platform for Patient-Centric Healthcare Using Blockchain Technology](https://blockchainhealthcaretoday.com/index.php/journal/article/view/196%23.Yjkahet3YEM.twitter) Blockchain Healthcare Today
-
-To manage patient’s self-sovereign identity, we leveraged the Hyperledger Indy blockchain framework to store patient’s decentralized identifiers (DIDs) and the schemas or format for each credential type. In contrast, the credentials containing patient data are stored “off-ledger” in each person’s wallet and accessible via a computer or smartphone. We used Hyperledger Aries as a middleware layer (API) to connect Hyperledger Indy with the front-end, which was developed using a JavaScript framework, ReactJS (Web Application) and React Native (iOS Application).
 
 * [The Human Colossus Foundation will present its Dynamic Data Economy -DDE concept at the DIA conference in Brussels](https://humancolossus.foundation/blog/dde-dia)
 

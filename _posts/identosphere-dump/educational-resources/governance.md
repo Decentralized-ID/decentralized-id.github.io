@@ -84,13 +84,6 @@ a simple mechanism to provide public information concerning an entity by adverti
 
 * [xkcd: PGP](https://xkcd.com/1181/)
 
-* [hyperledger-labs/business-partner-agent: The Business Partner Agent allows to manage and exchange master data between organizations](https://github.com/hyperledger-labs/business-partner-agent)
-
-Join the discussion: [https://chat.hyperledger.org/channel/business-partner-agent](https://chat.hyperledger.org/channel/business-partner-agent)
-
-There was some discussion about the way to present such a profile, especially the way it is currently implemented as an endpoint in the did document pointing to a https ressource (json-ld document served using normal https).
-
-One alternative, to create a DIDcomm-based protocol for public profile was discussed and would be a good alternative at the cost of every client having to be able to speak DIDcomm.
 
 * [Trust Registry or Machine-Readable Governance?](https://indicio.tech/trust-registry-or-machine-readable-governance/) Indicio
   > Machine-readable governance is composed of elements that help to establish trust and enable interoperability: trusted participants, schemas (templates for structuring information in a credential), and rules and flows for presenting credentials and verifying them. Machine-readable governance can be hierarchical. Once a governance system is published, other organizations can adopt and then amend or extend the provided system.
@@ -266,8 +259,6 @@ Links from chat: [http://emoglen.law.columbia.edu/LIS/archive/privacy-legis/IST
 
 * [2011-10-25 Marc Davis on Digital Rights presented to "The Elders"](https://vimeo.com/505044316)
 
-* [https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0430-machine-readable-governance-frameworks/README.md](https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0430-machine-readable-governance-frameworks/README.md)
-
 * [dpvcg/dpv: Data Privacy Vocabulary](https://github.com/dpvcg/dpv)
 
 * [https://institutionalgrammar.org/wp-content/uploads/Instructional_materials/IG-2.0-Cheat-Sheet-v1.pdf](https://institutionalgrammar.org/wp-content/uploads/Instructional_materials/IG-2.0-Cheat-Sheet-v1.pdf)
@@ -373,9 +364,6 @@ I conclude: there is no consensus whatsoever :-) That may be because there such 
 
 Have you noticed that pretty much all senior technologists that dismiss Web3 — usually in highly emotional terms – completely ignore that pretty much all the genuinely interesting innovations in the Web3 world are governance innovations?
 
-* [Game Governance Domains: a NFT Support Nightmare](http://habitatchronicles.com/2022/04/online-game-governance-domains-avoiding-an-nft-support-nightmare/) Habitat Chronicles
-
-“I was working on an online trading-card game in the early days that had player-to-player card trades enabled through our servers. The vast majority of our customer support emails dealt with requests to reverse a trade because of some kind of trade scams. When I saw [Hearthstone’s dust system](https://playhearthstone.com/en-us/news/10245930), I realized it was genius; they probably cut their support costs by around 90% with that move alone.”
 
 * [FaceDAO: Self-sovereign Identity and the Blockchain](https://coinmarketcap.com/alexandria/signals/26487) CoinMarketCap
 

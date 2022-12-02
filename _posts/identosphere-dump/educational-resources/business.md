@@ -265,5 +265,3 @@ An Interactive workshop designed to uncover the winning strategies, and pitfalls
 * Ontology Officially a [Technical Provider for Enterprise Solutions](https://medium.com/ontologynetwork/ontology-is-now-officially-a-technical-provider-for-enterprise-solutions-through-cointelegraph-80db38c45489) through Cointelegraph Consulting
   > Cointelegraph has quietly established itself as a legitimate mediator between established enterprises and blockchain technology providers.
 
-* [Forbes “Blockchain 50” Shows Enterprise Blockchain’s Footprint and Impact, with Hyperledger Tech Leading The Pack](https://www.hyperledger.org/blog/2021/02/02/once-again-forbes-blockchain-50-shows-enterprise-blockchains-footprint-and-impact-with-hyperledger-technologies-leading-the-pack)
-  > Declaring that blockchain has “gone mainstream,” Forbes today released its 2021 “Blockchain 50,” featuring companies that have at least $1 billion in revenues or are valued at $1 billion or more and “lead in employing distributed ledger technology.” And, once again, half of the companies on the list are using Hyperledger technology.

@@ -5,8 +5,6 @@ published: false
 # Web 3
 3box IDX: [A Devkit for Open Identity](https://medium.com/3box/idx-a-devkit-for-open-identity-48edc88e8e85)  *(From Kaliya, this is interesting, but they are taking on a huge amount of work without an [IPR](https://en.wikipedia.org/wiki/Intellectual_property#Intellectual_property_rights) container/wrapper).*
   > Designed to be cross-platform and highly configurable, IDX is compatible with all blockchains, wallets, and a wide variety of user and application data storage options including Ceramic, Textile, OrbitDB, Filecoin, IPFS, and Secure Data Stores — so you can seamlessly integrate decentralized identity with the rest of your Web3 tech stack.
-* [Privacy-Preserving Identity System for Ethereum dApps](https://medium.com/uport/privacy-preserving-identity-system-for-ethereum-dapps-a3352d1a93e8)
-  > Consider user privacy a requirement when deciding which Ethereum identity system to implement.
 
 * [The 3 parts of identity in a dynamic world](https://medium.com/3box/the-3-parts-of-identity-in-a-dynamic-world-f94724c2bae9)
   > At 3Box we live and breathe identity, and while GDPR and data abuses like Facebook’s may be concerning, they have also brought some welcome attention to the issues of digital privacy and data control.
@@ -42,10 +40,6 @@ Kurt Nielsen & Nagib Aouini from Partisia Blockchain
 
 Broadly speaking, ENS domain names also belong to a kind of decentralized identifier. The identity of the domain name is formed by a collection of attributes, identified by a certain domain name. As a domain name system, ENS conforms to the three characteristics of the Zooko triangle, namely security, decentralization, and human readability.
 
-* [Sismo: Attestations on Ethereum Profiles](https://blog.sismo.io/what-is-sismo-part-1-zk-badges-73e7031bacda) Sismo
-
-Sismo issues badges (non-transferable NFTs) to your public Ethereum profiles (ENS names). They are Zero-Knowledge (ZK) attestations of facts imported from your other accounts (Ethereum accounts as well as twitter or github). You can aggregate your reputation, with confidentiality, to your public profile.
-
 * [Introducing: Disentangle Domains](https://twitter.com/disentangleDNS/status/1470747203635494916?s%3D20) Twitter
 
 Your [@iota](https://twitter.com/iota) web3 username. We are buidling an #IOTA for gas-free, sapiens-friendly wallet & dApp addresses. Neat, easy and secure. +info
@@ -58,9 +52,6 @@ Besides an exciting front side of virtual reality (VR) element that everybody co
 
 Web 3.0 encourages users participation and restore the control over their digital identity and assets
 
-* [Unstoppable Domains and Alchemy Launch API for Enterprise-Ready NFT Domain Name Integrations](https://www.prnewswire.com/news-releases/unstoppable-domains-and-alchemy-launch-api-for-enterprise-ready-nft-domain-name-integrations-301446527.html) PRNewswire
-
-* [Unstoppable Domains](https://unstoppabledomains.com), the leading platform for self-sovereign identity on Web3, today announced a partnership with [Alchemy](https://www.alchemy.com). Alchemy empowers 70 percent of the top Web3 apps and NFT platforms through their enterprise API.
 
 * [Liquid Avatar Technologies and Bonifii Make Verifiable Credentials Accessible for People and Financial Institutions in the Metaverse](https://www.yahoo.com/now/liquid-avatar-technologies-bonifii-verifiable-133000234.html)
 
@@ -94,9 +85,7 @@ The dark side of COVID vaccine
 * [Web3, Coherence, and Platform Sovereignty](https://www.windley.com/archives/2022/01/web3_coherence_and_platform_sovereignty.shtml) Phil Windley
 
 In [The crypto-communists behind the Web3 revolution](https://www.protocol.com/fintech/crypto-communists), Benjamin Pimentel argues that "The future of decentralized finance echoes a decidedly Marxist vision of the future." He references various Silicon Valley icons like Jack Dorsey, Marc Andreessen, Elon Musk, and others, comparing their statements on Web3 and crypto with the ideology of communism.
-* [Ideals meet Implementations - Blockchains, NFTs, Decentralization, Oh My!](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0147.html) 1/25 Anil John
 
-Given the continuous discussions around centralization/de-centralization in our community, I found this essay by Moxie Marlinspike …
 
 * [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
 
@@ -177,10 +166,6 @@ A game changing, blockchain based, public utility layer, which makes it simple f
 
 Web3 social media? Decentralized identity? Digital society in the metaverse? On this episode, we unpack the future social world in the metaverse and the protocols that will help shape it.
 
-* [Three thoughts about NFTs](https://blogs.harvard.edu/doc/2022/03/03/nft-2/) Doc Searls
-
-There’s a thread in a list I’m on titled “NFTs are a Scam.” I know too little about NFTs to do more than dump here three thoughts I shared on the list in response to a post that suggested that owning digital seemed to be a mania of some kind. Here goes…
-
 * [Web3Auth at one of the World’s Largest Web3 Events — ETHDenver 2022](https://medium.com/toruslabs/web3auth-at-one-of-the-worlds-largest-web3-events-ethdenver-2022-4a2180621107) Torus
 
 In the three years since we’ve been active as a Web3 company, this is the second time we had the opportunity to participate in this massive gathering of some of the brightest minds in the Web3 space. What better way to open our presence at ETHDenver than to become official sponsors of the Opening Party?
@@ -189,18 +174,7 @@ In the three years since we’ve been active as a Web3 company, this is the seco
 
 SSI verifiable credentials are like non-fungible token attached to decentralized identifiers (DID)
 
-* [What Do NFTs Do Well?](https://indicio.tech/what-do-nfts-do-well/) Indicio
 
-NFTs are technologically interesting as a way of proving ownership and facilitating value transfer; but they are problematic if applied to proving a person’s identity.
-
-* [SoulBound](https://vitalik.ca/general/2022/01/26/soulbound.html) NFTs…by Vitalik
-
-A soulbound item, once picked up, cannot be transferred or sold to another player.
-
-Most very powerful items in the game are soulbound, and typically require completing a complicated quest or killing a very powerful monster, usually with the help of anywhere from four to thirty nine other players.
-* [Sign-In with Ethereum - Go Library Release](https://blog.spruceid.com/sign-in-with-ethereum-go-library-release/) SpruceID
-
-Ethereum, we're happy to announce the alpha release of our Go library in order to enable any Go project to leverage SIWE
 
 * [Web3: Self-Sovereign Authority and Self-Certifying Protocols](https://www.windley.com/archives/2022/02/web3_self-sovereign_authority_and_self-certifying_protocols.shtml) Windley
 
@@ -234,28 +208,12 @@ There are five essential mental models to understanding why Web3 matters, and th
 
 Web3 has begun to impact all corners of digital culture, from media to finance, art and gaming, and even identity. Mental models allow for digestible thinking patterns to understand and predict the world, and Chris lays out how these new digital primitives are changing everything.
 
-* [Unlocking Identity and Data Across the Web](https://blog.spruceid.com/how-spruce-is-unlocking-identity-and-data-across-the-web/) Web3
-
-In recognition of our extensive experience with decentralized identity, Spruce was chosen in September to work with the Ethereum Foundation and ENS to develop Sign-In with Ethereum. This is meant to let users access online services by using their Ethereum accounts as an identifier, rather than an account owned by large corporations like Facebook or Google.
-
-* [NFTs, the Metaverse, and Digital Identity](https://www.continuumloop.com/nfts-metaverse-digitalidentity/) ContinuumLoop
-
-Imagine a 3D immersive environment along the lines of Second Life. You “decorate” your “home” with “art”. You pop up an obligatory Persistence of Memory Dali print. But is it “real” and what does real even mean? In the physical realm, we know that this is only one original, which is at the MOMA in NYC. But what about the various quality prints that I can buy – at the MOMA, on Amazon, on the street.
-* [Blockchain Brad Interviews Ingo Rübe: Essential Credentials for Web 3.0](https://kilt-protocol.medium.com/blockchain-brad-interviews-ingo-r%25C3%25BCbe-essential-credentials-for-web-3-0-7ed856151aec) KILT ([Part 2](https://kilt-protocol.medium.com/blockchain-brad-interviews-ingo-r%25C3%25BCbe-essential-credentials-for-web-3-0-73fdb4ab4427)
-  > Part 1 of [Brad Laurie’s wide-ranging conversation with Ingo Rübe](https://www.youtube.com/watch?v%3DVGuTaeVQ8S4) covers the below topics ([PDF](https://www.kilt.io/wp-content/uploads/2021/03/Blockchain-Brad_Transcript.pdf).
-
-Credentials • Identity • Use Cases for Verifiable Credentials • Sovereignty • Trust & Truth • Anonymity • Social KYC • Open Source • A Universal Protocol • Decentralized Identity Foundation • Ingo’s Background • KILT Use Cases • Why Polkadot? • XCMP and Polkadot Relay Chain • Ecosystem Collaboration
-* [PSA Today #36: Kaliya and Seth talk about Privacy, Anonymity, Pseudonymity & NFTs](https://open.spotify.com/episode/2lI8clKyqcZy2y1GZpmXIg)
-  > how do issues of identity and anonymity play out in the world of creating and collecting digital art and collectibles on the blockchain.
-* [NFTs and the need for Self-Sovereign Identity](https://www.gimly.io/blog/nfts-the-need-for-self-sovereign-identity) Gimly
-  > we describe how self-sovereign identity (SSI) can be the solution to verify the origin and legitimacy of an NFT and its linked object, and we invite you to join Gimly and bitcoin artist Petek [@RaydarRayne](https://twitter.com/RadarRayne) on our journey to fulfill the potential of NFTs for digital and physical artists alike.
 
 * [Ontology Partnership with Binance Smart Chain](https://medium.com/ontologynetwork/ontology-the-only-decentralized-identity-partner-for-binance-smart-chain-d531efbc569)
   > Ontology and Binance have a long history of cooperation and partnership that has generated benefits for both sides, none possibly more important the integration of Ontology’s Decentralized Identity Solution into the Binance Smart Chain. The symbiotic relationship sees Ontology, and ONT ID, as the sole partner for BSC in terms of providing a truly decentralized identity option and KYC user verification.
 * [OAuth 2.0 meets VCs + ETH](https://media.voog.com/0000/0042/0957/files/2020-OSW-SOFIE.pdf) [slides] Sophie Project
 * [Announcing Tezos Profiles - Own and Control Your Creator Identity](https://sprucesystems.medium.com/announcing-tezos-profiles-own-and-control-your-creator-identity-ec0eddf9706d) Spruce Systems
   > Spruce is excited to announce the upcoming launch of Tezos Profiles (TZP) in early May. TZP is a web application that helps users regain control of their digital identity for use across platforms. It allows users to create portable verified profiles by demonstrating control over their public social media and by self-attesting information. These verified profiles are then linked to Tezos acco
-* [NFTs and Verifiable Credentials: What are they, their differences and do they mix?](https://www.youtube.com/watch?v%3DqEjgI2nVLb0) TYKN
 * [Decentralized identities on Stacks](https://www.youtube.com/watch?v%3DGY113ANamz0)
   > Join Ryder (Stacks grantee, creating a decentralized hardware wallet) in discussing their protocol, product, and growth and how it innovates Stacks DIDs.
 * [What Is Holochain, Anyway?](https://blog.holochain.org/dev-pulse-95-what-is-holochain-anyway/)
@@ -269,15 +227,6 @@ On May 6, 2021, two days after the Me2B Alliance published our report on data sh
 
 The announcement signals a serious intention to not only catch up to Apple’s privacy label, but surpass it, by introducing independent validation of the Android app privacy information.
 
-* [SSI for NFTs with Caspar Roelofs from Gimly](https://northernblock.io/ssi-for-nfts/) SSI Orbit Podcast
-
-That’s definitely one of the ideas that I’m exploring for more longer-term. [...] to have an embedded a private key in a secure element within the IOT device, and be able to verify the identity or the source of your IOT data through an [SSI mechanism](https://northernblock.io/self-sovereign-identity-for-organizations/). That’s the longer-term, broader vision when talking about the supply chain, for sure.
-
-* [Ontology Providing DID Solutions to NFT + Music Streaming Platform, ROCKI](https://medium.com/ontologynetwork/ontology-providing-did-solutions-to-music-streaming-platform-rocki-5ae6c1704483)
-
-NFTs offer creators a novel way to monetize their creations. Unfortunately, there have been [reports](https://www.theverge.com/2021/3/20/22334527/nft-scams-artists-opensea-rarible-marble-cards-fraud-art) of artists having their artwork sold by impersonators. This is, in part, due to popular NFT platforms lacking a robust verification process for determining a creator’s identity.
-
-The potential for fraud in the growing NFT market recently attracted the [attention](https://www.coindesk.com/fatfs-new-guidance) of the Financial Action Task Force (FATF)
 * [Announcing the Tezos Profiles Alpha Launch](https://sprucesystems.medium.com/announcing-the-tezos-profiles-alpha-launch-7e889de2f6c3)
 
 We encourage users to start creating and launching their profiles as we begin integrating Tezos Profiles support across the Tezos ecosystem. Currently, we are focused exclusively on publicly available information and accounts to avoid privacy issues.
@@ -322,9 +271,6 @@ Whether it’s the enforcement of legal identities, platform lock-in, or more im
 
 Panel speakers: - Jesus Ruiz, Member of the Board and CTO, Alastria - Jun Li, Founder, Ontology - Ingo Rube, Founder and CEO, BOT Labs (KILT Protocol)
 
-* [@BrantlyMillegan](https://twitter.com/BrantlyMillegan/status/1402388133086367751)
-
-The Ethereum community has accidentally solved a major problem of the Internet: Single Sign-On "Sign-In w/ Ethereum" is the future of login for *every app on the Internet*, crypto-related or not Not just an idea, it's already the norm for web3 & will spread
 
 * [FOS Ep. 5: Ian Grigg on Crypto, Identity, Community, and Building Positive-Sum Systems](https://medium.com/humanizing-the-singularity/fos-ep-5-ian-grigg-on-crypto-identity-community-and-building-positive-sum-systems-17ef316703b9)
 
@@ -346,10 +292,6 @@ verim’s initial product suite can be broken down into three parts.
 - Easy-to-use software kits for external app developers to integrate into their own products
 
 (besides Bitcoin, infominer is a Cosmos maximalist)
-
-* [Geo Web is connecting digital content to the physical world with NFTs and Ceramic](https://blog.ceramic.network/geo-web-is-connecting-digital-content-to-the-physical-world-with-nfts-and-ceramic/)
-
-With DID:NFT, because the content that is anchored to a Geo Web parcel can actually be owned by the parcel itself, when someone buys the land they're also getting the infrastructure that's been built up on that land.
 
 * [OScore](https://www.ocredit.io/) is an independent on-chain reputation system, generated using on-chain data including your ONT ID, engagements, assets, and credentials.
   > Your [OScore](https://medium.com/ontologynetwork/oscore-everything-you-need-to-know-57aa88b7b96f) is based on data authorized by you and is updated to reflect changes in behavior and lending practices.
@@ -436,10 +378,6 @@ if(parseInt(address, 16) === parseInt(result, 16)) {
 
 Self-Sovereign Identity (SSI) is arguably the most effective form of digital identity in Web 3.0. SSI is a user-centric identification method for controlling information. Fully aligned with Web 3.0, SSI eliminates the need to store personal information entirely on a central database and gives individuals greater control over the information they share to protect their privacy.
 
-* [The future of Decentralized Identity: SSI vs NFTs](https://walt.id/decentralized-identity-explained/ssi-vs-nfts) Walt ID
-
-While SSI has been developed to model digital identity, NFTs are used to model digital ownership. As a result, the concepts and technologies on which each approach is based differ with far reaching consequences. For example, while NFTs require blockchains, SSI can be used with or without them which is particularly important in the context of compliance and privacy.
-
 ## Web 3 Meta
 
 * [Beyond the Metaverse Hype](https://heathervescent.medium.com/beyond-the-metaverse-hype-409d77451cf8) Heather Vescent
@@ -491,10 +429,6 @@ Building nontransferable Identity locked to your Ethereum wallet.  And connecte
 
 * [[[find diagram]]]
 
-* [Sign In With Ethereum (SIWE), Now Available on Auth0](https://auth0.com/blog/sign-in-with-ethereum-siwe-now-available-on-auth0/)
-
-Thanks to the hard work of [Spruce](https://www.spruceid.com/), following their [announcement on March 8th](https://blog.spruceid.com/spruce-developer-update-17/), you can now add Sign-in with Ethereum to your Auth0 tenant via their [marketplace integration](https://marketplace.auth0.com/integrations/siwe).
-
 * [On anti-crypto toxicity](https://blog.mollywhite.net/anti-crypto-toxicity/) Molly White
 
 Despite crypto’s unquestionably right-libertarian roots, and the continuing prevalence of those politics in crypto today, we’re also seeing people asking questions like:
@@ -534,10 +468,6 @@ Blockchain analytics solutions have been a critical part of enabling the crypto 
 
 In Web3 protocols cryptographic keys are used for encryption and signature verification. Typically a key is split into a public and a private key and because private keys are hard to keep secure, it is considered good practice to change keys over time.
 
-* [Sign-In with Ethereum to Your Auth0-Powered Application](https://blog.spruceid.com/sign-in-with-ethereum-on-auth0/) Spruce
-
-In our pursuit of best serving web2 and web3 organizations, we've partnered with Auth0 to offer a Sign-In with Ethereum option in their marketplace.
-
 * [Pairwise Trust: A New Blockchain-Based Identification Solution for Web3 Infrastructures](https://sovereignwallet.medium.com/introducing-pairwise-trust-a-new-blockchain-based-identification-solution-for-web3-infrastructures-c1ef4a52dcd8) Sovereign Wallet
 
 “Pairwise Trust” now available on MetaMUI SSID In the ever-evolving digital society, one of the most important thing is to control one’s digital identity and digital property.
@@ -545,10 +475,6 @@ In our pursuit of best serving web2 and web3 organizations, we've partnered with
 * [Key Revocation in Self-Certifying Protocols](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) Ceramic
 
 In Web3 protocols cryptographic keys are used for encryption and signature verification. Typically a key is split into a public and a private key and because private keys are hard to keep secure, it is considered good practice to change keys over time.
-
-* [Sign-In with Ethereum to Your Auth0-Powered Application](https://blog.spruceid.com/sign-in-with-ethereum-on-auth0/) Spruce
-
-In our pursuit of best serving web2 and web3 organizations, we've partnered with Auth0 to offer a Sign-In with Ethereum option in their marketplace.
 
 * [Pairwise Trust: A New Blockchain-Based Identification Solution for Web3 Infrastructures](https://sovereignwallet.medium.com/introducing-pairwise-trust-a-new-blockchain-based-identification-solution-for-web3-infrastructures-c1ef4a52dcd8) Sovereign Wallet
 
@@ -583,9 +509,6 @@ New paper by Glen Wheyl
 
 Key to this sociality is decomposable property rights and enhanced governance mechanisms—such as quadratic funding discounted by correlation scores—that reward trust and cooperation while protecting networks from capture, extraction, and domination. With such augmented sociality, web3 can eschew today’s hyper-financialization in favor of a more transformative, pluralist future of increasing returns across social distance.
 
-* [Presentation: Extending Sign-In with Ethereum](https://blog.spruceid.com/casa-presentation-extending-sign-in-with-ethereum/) SpruceID @ CASA Gathering 2022
-
-a [number of breakout sessions](https://github.com/ChainAgnostic/AMS-CASA-gathering/issues) took place, including a session on how Sign-In with Ethereum, CACAOs, and UCANs interoperate, and even one on a unified standard for wallet authentication (sign in with 'x').
 
 * [Cautionary Tales from Cryptoland](https://hbr.org/2022/05/cautionary-tales-from-cryptoland) Molly White, HBR
 
@@ -619,14 +542,6 @@ Infominer says this maybe a response to twitter’s BlueSky - SelfAuthenticating
 * [The Web3 Decentralization Debate Is Focused on the Wrong Question](https://www.wired.com/story/web3-blockchain-decentralization-governance/) Wired
 
 Fixating on the degree—rather than the type—of decentralization is leading us astray
-* [Why Sign-In with Ethereum is a Game-Changer Part 2](https://blog.spruceid.com/why-sign-in-with-ethereum-is-a-game-changer-part-2/) SpruceID
-
-Sign-In with Ethereum opens a path where large corporations can no longer strip a user's ability to access services or spy on their actions. It opens the door for a massive amount of impact in web2 apps and services
-
-* [Sign-In with Ethereum - API Harmonization and TypeScript v2.0 Beta Release](https://blog.spruceid.com/sign-in-with-ethereum-typescript-v2-0-release/) SpruceID
-
-In our continued updates on Sign-In with Ethereum support, we're pleased to announce that we've harmonized the behavior of our SIWE Core APIs across different languages, added a number of optimizations, and have released a new beta of our TypeScript library with the included changes.
-
 * [State of Crypto Report](https://a16zcrypto.com/wp-content/uploads/2022/05/state-of-crypto-2022_a16z-crypto.pdf) a16z
 
 web3 — which combines the decentralized, communitygoverned ethos of the first era with the advanced, modern functionality of the second era. This will unlock a new wave of creativity and entrepreneurship
@@ -647,13 +562,6 @@ A massive wave of world-class talent has entered web3 over the last year. They a
 
 Explore the unique paradigms behind Web3 reputation, prominent use cases, and example architectures to incorporate credentials into your application.
 
-* [There's been a misunderstanding around SBTs. The uproar misses the point](https://twitter.com/AnastasiaU/status/1532584511107698689) AnastasiaU.ETH
-
-an epic thread on twitter unpacking the uproar about the DeSoc paper relative to DID/VCs and NFTs/SBTs.
-
-* [Headline Introduces Creator-Controlled, Subscription-Based Publishing](https://blog.ceramic.network/headline-rewrites-subscription-based-publishing-for-web3/)
-
-The publishing protocol uses Unlock’s NFT-based access system and Ceramic’s decentralized data protocol to give creators full control over their content, communities and monetization.
 
 * [The Golden Era of Web3 Identity](https://twitter.com/DonaldBullers/status/1532406343545536513) Donald Bullers
 
@@ -672,25 +580,6 @@ people think a token is an easy way to raise money, which it is, relative to man
 * [Web3 Architecture and Tech Stack : A Beginners Guide](https://medium.com/toruslabs/a-beginners-guide-the-basic-web3-architecture-and-tech-stack-81f2061d263c) [Yashovardhan Agrawal](https://medium.com/@yashovardhana), Web3Auth
 
 Let’s transition our knowledge from Web2 to Web3 and know which technologies support what.
-* [SOULBOUND Tokens with @VitalikButerin & @provenauthority](https://www.youtube.com/watch?v%3DTbyVyVNsyys) Bankless Podcast
-
-What does decentralized, trustless, digital identity look like?
-
-On-chain Soulbound NFTs?
-
-OR
-
-Off-chain Verifiable Credentials?
-
-Where will the future of Web3 identity live?
-
-* [Struggle for Web3’s soul: The future of blockchain-based identity](https://cointelegraph.com/news/struggle-for-web3-s-soul-the-future-of-blockchain-based-identity) Cointelegraph
-
-Some also worried that SBTs, given their potentially public, non-transferable qualities, could give rise to a Chinese-government-style “social credit system.” Others took shots at co-author Buterin personally, criticizing his “lack of understanding of the real world.”
-
-* [Non transferable NFTs land from Sekuritance](https://appdevelopermagazine.com/non-transferable-nfts-land-from-sekuritance/)
-
-Sekuritance is implementing an identity-based ntNFT (non-transferable non-fungible token) to be utilized not only within the Sekuritance platform but also within its partner ecosystem
 
 * [Who Are We in the Metaverse, and How Do We Prove It?](https://www.coindesk.com/layer2/metaverseweek/2022/05/27/who-are-we-in-the-metaverse-and-how-do-we-prove-it/) Coindesk
 
@@ -748,9 +637,6 @@ Verifiable Credentials + Web3
 
 Verifiable Credentials (VCs) allow people and organizations to issue statements on behalf of others. These statements are then verifiable even if the original issuer is no longer around. We can see VCs in action in many KYC (Know Your Customer) and AML (Anti-Money Laundering) flows. For the entire flow to work, though, there needs to be a verifier.
 
-* [How To Use Verifiable Credentials And Verite To Build An Off-Chain NFT Allowlist](https://docs.centre.io/blog/NFT-allowlists-with-verifiable-credentials-and-verite) Justin Hunter, Pinata, Centre
-
-if the signature is verified, we allow the minting to happen. When that's complete, we update the PREVIOUS_SIGNATURE variable. This is, as with many things in this demo, a simplified replay attack prevention model. This can and probably should be extended to support your own use cases.
 
 ## Regulation & Crypto
 
@@ -927,9 +813,6 @@ Fractal Protocol enables users, individuals to control who has access to their d
 
 The open source implementation of DID on Cardano
 
-* [NFT + SSI = What I Own + Who I Am (with Dominik Beron with CEO of Walt.id)](https://northernblock.io/nft-ssi-what-i-own-who-i-am-with-with-dominik-beron/)
-
-
 * [Prepping for DWeb Camp](https://blog.holochain.org/preparing-for-dweb-camp/) HoloChain
 
 On this theme, I’m particularly interested in one event, an attempt to [map the projects that make up the DWeb](https://gitlab.com/getdweb/dweb-camp-2022/-/issues/77) and look for opportunities for interoperability. This was a [vision](https://dwebcamp2019.sched.com/event/S4vH/building-bridges-connecting-tech-stacks-for-humane-ux) I carried with me to the last DWeb Camp, and I’m hoping to see more conversations about building bridges between networks.
@@ -937,10 +820,6 @@ On this theme, I’m particularly interested in one event, an attempt to [map th
 * [How staking EWT increases cybersecurity for energy grids and enterprises](https://medium.com/energy-web-insights/how-staking-ewt-increases-cybersecurity-for-energy-grids-and-enterprises-f26bb308bb1a) EnergyWeb
 
 this mechanism is to use public blockchains, paired with cryptocurrency, for staking and distributing awards to nodes performing the verification work. By doing so, the execution of the verification mechanism is completely automated, immediate, and impartial.
-
-* [Why NFTs and SBTs aren’t the best solution for digital identity](https://technative.io/why-nfts-and-sbts-arent-the-best-solution-for-digital-identity/) TechNative
-
-Ultimately, each one of these will find their uses but care should be taken to avoid creating another scandal similar to Clearview AI where people release data into the world without being truly aware of the downsides it can create. Privacy, you don’t know what you got till it’s gone!
 
 * [Understanding Decentralized Identities (DIDs) and Why They Matter for Web 3.0 Mass Adoption](https://techbullion.com/understanding-decentralized-identities-dids-and-why-they-matter-for-web-3-0-mass-adoption/) TechBullion
 
@@ -1038,12 +917,6 @@ This upgrade transforms Ethereum, the world’s first and largest smart contract
 - [How and Why are MetaMask Users Losing their Funds due to Phishing Incidents?](https://consensys.net/blog/metamask/how-and-why-are-metamask-users-losing-their-funds-due-to-phishing-incidents/) Consensys
 
 Interestingly, all interviewed users claimed to have had a seamless and easy onboarding experience all the way from download through wallet creation — yet they still managed to give their SRPs to phishing scammers.
-
-* [What’s the Difference Between an NFT and a Verifiable Credential?](https://trinsic.id/whats-the-difference-between-an-nft-and-a-verifiable-credential/) Trinsic
-
-Blockchains are not required for exchanging verifiable credentials, but layer-2 networks like Ion, built on top of Bitcoin, can provide an additional level of security when creating Interestingly, all interviewed users claimed to have had a seamless and easy onboarding DIDs.
-
-Metaverse
 
 * [Accenture onboarded 150,000 new staff in the metaverse during the pandemic](https://www.ledgerinsights.com/accenture-onboarded-150000-new-staff-in-the-metaverse-during-the-pandemic/)
 

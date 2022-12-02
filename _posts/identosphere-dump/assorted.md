@@ -13,11 +13,6 @@ RIF Identity
 * [@ilanolkies](https://twitter.com/ilanolkies) shares: *Okey, so, today I mapped the work done in the last 3 month by [@rif_os](https://twitter.com/rif_os) about Self-Sovereign Identity protocols in a single link [https://github.com/rsksmart/rif-identity](https://github.com/rsksmart/rif-identity). All compatible with existent protocols and fully integrated into [@RSKsmart](https://twitter.com/RSKsmart) blockchain. The future is one step closer.*
 
 
-## Acct Recovery
-* [Hyperledger Identity Screencast: Social Recovery for Passwords and Secrets](https://www.youtube.com/watch?v%3D1c05mFuEQ5s)
-
-A demonstration of using social recovery for things like recovery passwords of self-sovereign identity digital wallets. The website [http://passguardian.com](https://www.youtube.com/redirect?event%3Dvideo_description%26redir_token%3DQUFFLUhqbnFXWC1vZEVSZS11Ynl1ZGpBRk1uMUN6VnhnUXxBQ3Jtc0tuRjRPbmFSOEVqU1FNSEJDMml0WXYzUjlmRUdyZk5lVWJSc2p1QnFHV0pMZzNfVlBpNVJ0UGZvY2pEVUlzTFA1LWJlQUU0Q190akpyQndJWmU3bDZranNJVUZxZi1JX2pJb2I1SEtpRXB0cjhCQWNNdw%26q%3Dhttp%253A%252F%252Fpassguardian.com)​ is used to show how a secret can be encoded and distributed as shards, and then later some of the shards combined to restore the secret. This video is part of a [Linux Foundation course on Hyperledger Identity](https://training.linuxfoundation.org/training/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa/), published on edX.
-
 ## History
 
 * [A brief history of SSI: Where does it come from? A timeline.](https://jolocom.io/blog/a-brief-history-of-ssi-where-does-it-come-from-a-timeline/)
@@ -169,7 +164,6 @@ You will be able to learn how we can integrate existing centralized IDM solution
 * [Self-Sovereign Identity for the Enterprise with Switchboard](https://medium.com/energy-web-insights/unlocking-the-potential-of-self-sovereign-identity-for-enterprise-with-energy-web-switchboard-ab41499003a0) Energy Web
 
 This release includes major updates to the front-end Switchboard web application as well as the back-end libraries and components, giving companies access to the full suite features offered by legacy identity access management solutions in a decentralized architecture.
-* [https://northernblock.io/products/ssi-enterprise-cloud/](https://northernblock.io/products/ssi-enterprise-cloud/). In this video, we will demonstrate how to create new Verifiable Credentials with custom schemas using the NB Orbit enterprise app. Once the credential schema is created and the attribute fields specified, the enterprise user can then publish a credential definition to whatever root of trust they are using, in our case a Hyperledger Indy network.
 * [LEIs to enable corporate digital ID with verifiable credentials](https://www.ledgerinsights.com/lei-corporate-digital-identity-verifiable-credentials-did/)
   > The Global Legal Entity Identifier Foundation (GLEIF) is the umbrella body that delegates responsibility for issuing LEIs to local organizations.
 > 
