@@ -3,6 +3,225 @@ published: false
 ---
 
 # Verifiable Credentials
+
+
+* [Binding credentials to publicly accessible repositories](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0297.html)  Leonard Rosenthol (Friday, 30 July)
+
+These VC’s (etc.) will be embedded into the assets (e.g., video, images, documents, etc.) in a tamper-evident manner, so that in addition to the individual VC’s “proof”, any attempt to change the CreativeWork relationships, etc. can also be detected. [..] we have no protection against a malicious actor simply copying the VC from one asset and dropping it into another (and then signing the new setup), because there is nothing that binds the credential to the asset in our case.
+
+* [Re: Binding credentials to publicly accessible repositories](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0301.html) Joe Andrieu
+
+This seems more of a feature of the architecture than a threat, as long as you understand that the signing of the anti-tamper mechanism is, by its nature, an attestation about the affinity of that VC to the rest of the PDF, made by that signing authority (and by neither the VC issuer nor the Holder, unless the tamper signature can be independently demonstrated to be either the issuer or holder).
+
+* [Add Your VC-EDU Use Cases](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0296.html)  Kerri Lemoie (Friday, 30 July)
+
+For Github users, submit your use cases as issues here: [https://github.com/w3c-ccg/vc-ed-use-cases/issues](https://github.com/w3c-ccg/vc-ed-use-cases/issues)
+
+This template can help guide you: [https://github.com/w3c-ccg/vc-ed-use-cases/blob/main/.github/ISSUE_TEMPLATE/use-case-template.md](https://github.com/w3c-ccg/vc-ed-use-cases/blob/main/.github/ISSUE_TEMPLATE/use-case-template.md)
+
+* [Question About Signatures & Contexts](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0290.html)  Kerri Lemoie (Friday, 30 July)
+
+Is a VC still considered to be valid if it contains fields that are not described in its context file(s)? Does it depend on the signature type?
+
+* [Re: Question About Signatures & Contexts](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0291.html) Manu Sporny
+
+The short answers are "maybe" and "yes".
+
+* [What are VCs similar to?](https://lists.w3.org/Archives/Public/public-credentials/2021Aug/0338.html) Michael Herman (Trusted Digital Web) (Monday, 23 August)
+
+The chip in your e-passport is the analogy I’ve been most successful with
+
+An issuer gives it to you.
+
+You carry it around and show to whom you choose
+
+The verifier can check its integrity without contacting the issuer
+
+“A VC is like the chip in your passport - bit for any document type”
+
+So far the best analogy I’ve found.  Policy makers say “ah, I see”…
+
+Video [Using Paper-based Structured Credentials to Humanize Verifiable Credentials [Rough Cut]](https://www.youtube.com/watch?v%3DkM30pd3w8qE%26list%3DPLU-rWqHm5p45dzXF2LJZjuNVJrOUR6DaD%26index%3D2) Michael Herman (Trusted Digital Web) (Friday, 19 November)
+
+User Scenario: ABC Grocery wants to use the Trusted Digital Web to issue a Purchase Order for 10 cabbages from David's Cabbages.
+
+* [Any Good use case of PAM (Privileged account Management) using Vcs](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0028.html) Bob Wyman (Sunday, 7 November)
+
+A common example of this is when someone uses a "Power of Attorney," to sign a contract. When they do, they typically sign documents with their own names and an annotation "on behalf of," "for," or "by power of attorney," they don't forge the signature of the one who granted the power of attorney.
+
+One should delegate rights, not credentials.
+
+* [Proposal: Anchored Resources and Hashlinks for VCs](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0009.html) Dmitri Zagidulin (Wednesday, 3 November)
+
+Note that this is different than binding multiple credentials together in a Verifiable Presentation (and having the presenter sign the VP). In the VP case, the binding just means "this presenter is authenticating the handing over of these unrelated credentials". Whereas in the linked VC case, the credentials are aware of each other, and the peer or hierarchical relationship is built into the VC itself.
+
+* [re: Wrapping a VC envelope around the results of a GraphQL query?](https://lists.w3.org/Archives/Public/public-credentials/2021Dec/0093.html) Michael Herman (Trusted Digital Web) (Friday, 17 December)
+
+Apparently so… [Evaluating the Current State of Application Programming Interfaces for Verifiable Credentials](https://www.researchgate.net/publication/356195214_Evaluating_the_Current_State_of_Application_Programming_Interfaces_for_Verifiable_Credentials)
+
+* [Blockcerts v3 release, a Verifiable Credentials implementation](https://lists.w3.org/Archives/Public/public-credentials/2021Dec/0051.html)  Julien Fraichot (Monday, 13 December)
+
+I am excited to share with you today the release of [Blockcerts](https://www.blockcerts.org/) V3. As you may already know the earlier versions of Blockcerts were architected by Kim H. Duffy through Learning Machine and leveraged the Open Badge standard.
+
+We have followed through with the initial [ideas established at RWOT 9 in Prague in December 2019, to align Blockcerts with the Verifiable Credential specification](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/final-documents/BlockcertsV3.md).
+
+* [Proposal Work Item | Credential Chaining](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0235.html)  Robin Klemens (Thursday, 27 January)
+
+* to provide an overview of all existing flavors of credential chaining (What current and new techniques exist or are being researched?)
+
+* to gather the reasons and requirements for credential chaining
+
+* to come up with best practices and create a sort of decision tree that helps map the requirements of the use case with the implementation of credential chaining
+
+* to provide working code with concrete implementations on different chaining variants
+
+* to integrate credential chaining into future versions of the Verifiable Credentials Data Model
+
+* [DIF VC-JWTs look like Linked Data Proof Verifiable Credentials](https://lists.w3.org/Archives/Public/public-credentials/2022Feb/0138.html)  Orie Steele (Thursday, 24 February)
+
+As far as I know, no other VC-JWT implementation supports this format, aka "JwtProof2020".
+
+* [Here is a link to an issue with an example](https://github.com/centrehq/verite/issues/373%23issuecomment-1049888568)
+
+If you have a few minutes, I would love some review of what the DIF implementation is doing, and how we can either push it all the way into the LD Proof camp, or all the way into the VC-JWT camp.
+
+* [re: Recommendations for Storing VC-JWT](https://lists.w3.org/Archives/Public/public-credentials/2022Feb/0076.html)  David Chadwick (Thursday, 17 February)
+
+as you know we spent quite some time on the text in the VC Data Model v1.1 to differentiate between a credential and a verifiable credential, and to highlight that regardless of the proof format (JWT, LD-Proof etc) the credential is always the same once the proof has been removed.
+
+Therefore the obvious way to me to store any type of VC in a wallet is to store the credential as JSON, along with the proofed VC,  then the same wallet will be able to receive any type of proofed VC and store the embedded credential in the same way. I have also been highlighting this model in the DIF PE group, so that the same Presentation Definition can be used by any wallet to select any type of credential, regardless of the proof type.
+
+* [re: cloud-based wallet](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/0285.html)  Orie Steele (Saturday, 26 March)
+
+If the VCs in the cloud are a commitment to a DID instead of a hardware bound key... then their presentation from hardware bound keys achieves the same effect, but if the device is lost, the holder just registers new device bound keys, and no need to re-issue the VCs (but a DID Update operation is required).
+
+* [usage of credentialSubject WITHOUT id?](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/0017.html)  Niels Klomp (Sunday, 6 March)
+
+Indeed the use case is for so called [bearer credentials](https://www.w3.org/TR/vc-data-model/%23bearer-credentials). The example of a concert ticket mentioned in there is a good one, although the actual bachelor degree example nr 33 is questionable since a degree is not subject independent.  That seems to come more from the fact that the degree is used throughout the spec as an example.
+
+* [Verifiable Web Form](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0115.html)  Shigeya Suzuki (Saturday, 23 April)
+
+This document proposes Verifiable Web Forms -- a new way to provide Verifiable Credentials [VC-DATA-MODEL] to Web Browser via Clipboard. By using Verifiable Web Forms, users can provide third-party verified data with standard user interfaces without typing. The data is also verifiable on the server-side too.
+
+* [Your Insights, Assumptions, & Questions About VC Governance & Registries Needed](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0107.html)  Kerri Lemoie (Wednesday, 20 April)
+
+I’ve created a Miro board as a place to start gathering questions and assumptions:
+
+* [https://miro.com/app/board/uXjVO8bG_9s=/](https://miro.com/app/board/uXjVO8bG_9s%3D/)
+
+* [VC Extensions Registry updates](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0096.html)  Manu Sporny (Saturday, 16 April)
+
+I've made a pass at updating the registry to be more helpful to people and organizations that are not involved in the week-to-week with VCWG or CCG. The update, which adds proof methods, links to specs, implementations, and test suites can be found here:
+
+* [https://pr-preview.s3.amazonaws.com/w3c-ccg/vc-extension-registry/pull/12.html#proof-methods](https://pr-preview.s3.amazonaws.com/w3c-ccg/vc-extension-registry/pull/12.html%23proof-methods)
+
+The pull request[4] involves a few things that are worth noting
+
+* [VC Issuance based on OAuth 2.0](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0084.html)  Nikos Fotiou (Thursday, 14 April)
+
+We design, implement, and evaluate a solution for achieving continuous authorization of HTTP requests exploiting Verifiable Credentials (VCs) and OAuth 2.0. Specifically, we develop a VC issuer that acts as an OAuth 2.0 authorization server, a VC verifier that transparently protects HTTP-based resources, and a VC wallet implemented as a browser extension capable of injecting the necessary authentication data in HTTP requests without needing user intervention.
+
+* [Verifiable Credentials Data Model v1.1 is an official W3C standard!](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/0005.html)  Manu Sporny (Thursday, 3 March)
+
+Verifiable Credentials Data Model v1.1 [https://www.w3.org/TR/2022/REC-vc-data-model-20220303/](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/)
+
+This was largely a maintenance release of the specification. The list of (minor) revisions since the v1.0 release can be found here:
+
+* [VC Evidence Discussion](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0050.html)  Kerri Lemoie (Thursday, 7 April)
+
+This evidence could be a test score, a link to an image, video, and/or web page, etc. that demonstrates competency or participation. These specs are working towards aligning with VCs and it was originally thought that this type of evidence would be included as part of the credentialSubject if it existed.
+
+This would look [something like this](https://json.link/21SpTf0rC4):
+
+But since VCs already have an evidence property that allows for an array of evidence, it seems to make sense to use that property instead of using a separate property like the one demonstrated above.
+
+* [Rendering Verifiable Credentials @ RWoT11](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/0054.html)  Manu Sporny (Sunday, 17 July)
+
+This draft Rebooting the Web of Trust 11 paper explores ways in which the Verifiable Credentials data model could be extended to support visual, audio, and physical renderings for Verifiable Credentials.
+
+* [https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/advance-readings/rendering-verifiable-credentials.md](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/advance-readings/rendering-verifiable-credentials.md)
+
+VC-API
+
+* [Supporting VC-JWT and BBS+ Presentation Exchange in the VC-HTTP-API](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0313.html)  Orie Steele (Saturday, 31 July)
+
+* [https://github.com/OR13/GNARLY](https://github.com/OR13/GNARLY)  (while we wait for a better name...)
+
+This demo API and Spec has a number of improvements over the current
+
+VC-HTTP-API, including tested support for VC-JWT, JsonWebSignature2020 and
+
+BBS+ Selective Disclosure Presentation Exchange.
+
+* [Updated VC-API diagram for Supply Chain flow](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0141.html)  Joe Andrieu (Tuesday, 28 September)
+
+![https://www.notion.soimages/image4.png](https://www.notion.soimages/image4.png)
+
+* [re: VC API: handling large documents client to server](https://lists.w3.org/Archives/Public/public-credentials/2022Feb/0035.html)  Manu Sporny (Thursday, 10 February)
+
+Typical solutions to this problem require that you put the binary data outside of the VC, if at all possible. This works well for common static images such as logos. It is also possible to split the VC into two VCs... one with the machine-readable data from the issuer (with a digital signature) and one with the image data from any source (without a digital signature, since, if hashlinked, the signature will verify the validity of the image data). That latter approach can be more privacy preserving AND more complex than many might feel is necessary.
+
+* [VC-API interoperability test suites ready for experimental integration](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0126.html)  Manu Sporny (Tuesday, 26 April)
+
+* [The VC API test suite for basic issuer interop is here](https://w3c-ccg.github.io/vc-api-issuer-test-suite/)
+
+* [The VC API test suite for basic verifier interop is here](https://w3c-ccg.github.io/vc-api-verifier-test-suite/)
+
+* [The Data Integrity test suite for Ed25519Signature2020 interop is here](https://w3c-ccg.github.io/di-ed25519-test-suite/)
+
+* [Cross-industry VC API test suite achieves first multi-vendor interop for issue/verify](https://lists.w3.org/Archives/Public/public-credentials/2022May/0041.html)  Manu Sporny (Wednesday, 18 May)
+
+We are happy to announce today that we have our first demonstration of cross-vendor interoperability between Danube Tech and Digital Bazaar for the VC Issuer API and VC Verifier API. The test suites test the OAS definition files (which are used to generate the specification):
+
+* [https://w3c-ccg.github.io/vc-api-verifier-test-suite/#Verify%20Credential%20-%20Data%20Integrity](https://w3c-ccg.github.io/vc-api-verifier-test-suite/%23Verify%2520Credential%2520-%2520Data%2520Integrity)
+
+* [https://w3c-ccg.github.io/vc-api-issuer-test-suite/#Issue%20Credential%20-%20Data%20Integrity](https://w3c-ccg.github.io/vc-api-issuer-test-suite/%23Issue%2520Credential%2520-%2520Data%2520Integrity)
+
+* [Diagrams for VC HTTP API work [was Re: [AGENDA] VC HTTP API Work Item - August 17th 2021]](https://lists.w3.org/Archives/Public/public-credentials/2021Aug/0231.html)  Joe Andrieu (Monday, 16 August)
+
+1. There are sequence and communications diagrams for both issuance and verification, plus a class diagram.
+
+![https://www.notion.soimages/image3.png](https://www.notion.soimages/image3.png)
+
+* [VC-HTTP-API new sequence diagram](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0109.html)  Joe Andrieu (Tuesday, 21 September)
+
+![https://www.notion.soimages/image6.png](https://www.notion.soimages/image6.png)
+
+* [Issuer API Cross Trust Boundary Scoping - VC-HAPI (f.k.a. VC-HTTP-API)](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0263.html)  Brian Richter (Saturday, 24 July)
+
+I think I'm starting to understand how RAR fits into this picture. This decision can be made for us by punting the question to the authorization process entirely. With RAR we can force the user to authorize for the actual subject they are issuing the credential about. Is Alice authorized to issue VCs with claims about did:example:12345? To answer that question Alice asks for a token with the following RAR request
+
+* [RAR Structures for VC HTTP API](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0208.html)  Justin Richer (Wednesday, 21 July)
+
+It seemed like a good idea when I first invented it a decade ago: [](https://blue-button.github.io/blue-button-plus-pull/%23scopes)[https://blue-button.github.io/blue-button-plus-pull/#scopes](https://blue-button.github.io/blue-button-plus-pull/%23scopes) or when it got pulled into other efforts like [](https://openid.net/specs/openid-heart-fhir-oauth2-1_0-2017-05-31.html)[https://openid.net/specs/openid-heart-fhir-oauth2-1_0-2017-05-31.html](https://openid.net/specs/openid-heart-fhir-oauth2-1_0-2017-05-31.html)… and Orie even suggested the following set of parameterized scopes for this API:
+
+'create:credentials': Grants permission to create credentials
+
+'derive:credentials': Grants permission to derive credentials
+
+'create:presentations': Grants permission to create presentations
+
+'verify:presentations': Grants permission to verify presentations
+
+'exchange:presentations': Grants permission to exchange presentations
+
+So what’s the problem? I can say with full confidence after years of experience building and deploying systems to support parameterized scopes like this that they are fragile, awkward, and lead to insecure corner cases.
+
+* [Proposals addressing discoverability issues with vc-http-api](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0192.html)  Orie Steele (Tuesday, 20 July)
+
+See: [https://github.com/w3c-ccg/vc-http-api/issues/218](https://github.com/w3c-ccg/vc-http-api/issues/218)
+
+Proposal 1: The APIs that use OAS3.0 MUST define securitySchemes per the OAS 3.0 spec. (@OR13 proposal addresses 4)
+
+Proposal 2: The APIs that use OAS3.0 MUST define the use of the Link Header for suite and issuer id discovery (@TallTed 's proposal addressing 1/2/3)
+
+Proposal 3: The APIs that use OAS3.0 MUST define the use of a .well-known JSON resource for conveying supported issuer ids and suites. (@OR13 's. proposal addressing 1/2/3)
+
+* [Bikeshed: Renaming the VC HTTP API](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0131.html)  Manu Sporny (Saturday, 17 July)
+
+the fundamental issue is that stringing a bunch of consonants together ("HTTP") rarely leads to something easy to say in conversation.
+
+
 ## Contents
 
 - Explainer

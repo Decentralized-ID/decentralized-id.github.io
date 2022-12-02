@@ -2,6 +2,16 @@
 published: false
 ---
 
+
+* [announcement: DIDComm user group](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0168.html)  Hardman, Daniel (Thursday, 20 January)
+
+Now that the [DIDComm v2 spec](https://identity.foundation/didcomm-messaging/spec/) is nearing completion, and there are [robust libraries in multiple programming languages](https://github.com/decentralized-identity/didcomm-messaging%23implementations), we are starting a user group to share learnings as we put DIDComm into production. We will organize community resources, produce a handbook, foster application-level protocol creation, maintain the [didcomm.org website](https://didcomm.org) and [repo](https://github.com/decentralized-identity/didcomm.org), and recommend best practices.
+
+* [slides for DIDComm discussion on Tuesday's CCG call](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0032.html)  Daniel Hardman (Tuesday, 5 April)
+
+application/pdf attachment: [DIDComm_v2_Primer.pdf](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/att-0032/DIDComm_v2_Primer.pdf)
+
+
 # DIDComm
 
 * [DIDComm has its own site](https://didcomm.org/)

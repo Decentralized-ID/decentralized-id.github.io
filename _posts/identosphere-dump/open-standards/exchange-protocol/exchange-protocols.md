@@ -4,6 +4,12 @@ published: false
 
 # Credential Exchange
 
+* [IETF: Secure Credential Transfer](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0025.html)  Orie Steele (Monday, 4 April)
+
+* [https://www.ietf.org/archive/id/draft-secure-credential-transfer-03.html](https://www.ietf.org/archive/id/draft-secure-credential-transfer-03.html)
+
+This document describes a mechanism to transfer digital credentials securely between two devices. Secure credentials may represent a digital key to a hotel room, a digital key to a door lock in a house or a digital key to a car. Devices that share credentials may belong to the same or two different platforms (e.g. iOS and Android). Secure transfer may include one or more write and read operations. Credential transfer needs to be performed securely due to the sensitive nature of the information.
+
 * [Figuring out Verifiable Credentials Exchange - combining Bloom, Aires Protocols, Presentation Exchange into a unified - Killer Whale Jello Salad](https://iiw.idcommons.net/22H/_Figuring_out_Verifiable_Credentials_Exchange_-_combining_Bloom,_Aires_Protocols,_Presentation_Exchange_into_a_unified_-_Killer_Whale_Jello_Salad) by Kaliya Young, Orie Steele, Drummond , Kyle et al [ [presentation](https://docs.google.com/presentation/d/1t4o6AXclqR7SqhGCbIJKVtYxh4fm_5mGT11MBx9K95c/edit%23slide%3Did.p)]
   > - Because what we need is interoperable - issuance - issue-> holder || holder -> verifier some conversation about SIOP - has not been the focus of the discussion.
   > - Goal to create a bridge between

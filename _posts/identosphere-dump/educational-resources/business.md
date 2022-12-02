@@ -265,3 +265,11 @@ An Interactive workshop designed to uncover the winning strategies, and pitfalls
 * Ontology Officially a [Technical Provider for Enterprise Solutions](https://medium.com/ontologynetwork/ontology-is-now-officially-a-technical-provider-for-enterprise-solutions-through-cointelegraph-80db38c45489) through Cointelegraph Consulting
   > Cointelegraph has quietly established itself as a legitimate mediator between established enterprises and blockchain technology providers.
 
+## Funding
+
+* [FYI on National Science Foundation (NSF) Funding Opportunity: Pathways to Enable Open-Source Ecosystems program](https://lists.w3.org/Archives/Public/public-credentials/2022Feb/0142.html)
+
+NSF is introducing a new program called "Pathways to Enable Open-Source Ecosystems" (POSE).  The purpose of the program is to harness the power of open-source development for the creation of new technology solutions to problems of national and societal importance. Many NSF-funded research projects result in publicly accessible, modifiable, and distributable open-sourced software, hardware or data platforms that catalyze further innovation.
+
+* [https://beta.nsf.gov/funding/opportunities/pathways-enable-open-source-ecosystems-pose](https://beta.nsf.gov/funding/opportunities/pathways-enable-open-source-ecosystems-pose)
+

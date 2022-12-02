@@ -6,6 +6,10 @@ published: false
 
 
 # Biometrics
+* [the link between biometrics and PII needs careful management](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0000.html)  Daniel Hardman (Wednesday, 1 September)
+
+* [This is the real story of the Afghan biometric databases abandoned to the Taliban | MIT Technology Review](https://www.technologyreview.com/2021/08/30/1033941/afghanistan-biometric-databases-us-military-40-data-points/)
+
 * [Biometric and digital identity](https://iiw.idcommons.net/3H/_Biometric_and_digital_identity) by Robert Mitwicki / Adrian Gropper
 
 Background document from session 1A [http://bit.ly/biometricVC](http://bit.ly/biometricVC)

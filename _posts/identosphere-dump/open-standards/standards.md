@@ -78,9 +78,6 @@ Purple - General crypto packaging/protocol standards
 
 Orange - Application layer standards
 
-
-* [Technical Report on the Universal RDF Dataset Normalization Algorithm](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/att-0032/Mirabolic_Graph_Iso_Report_2020_10_19.pdf) - [Bill Bradley](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0032.html)
-  > The goal of this technical report is to review the Universal RDF Dataset Normalization Algorithm (URDNA2015) for correctness and to provide satisfactory evidence that possible issues with URDNA2015 have been considered and dismissed. We do not lay out the algorithm in its considerable technical detail here, but refer the reader to the proposed technical specification 1 [Longley], a set of proofs by Rachel Arnold and Dave Longely [Arnold], and a reference implementation in Python [DigitalBazaar].
 * [The 7 Laws of Identity Standards](https://openid.net/2021/04/10/the-7-laws-of-identity-standards/) OpenID
 
 1. A identity standard’s adoption is driven by its value of the reliability, repeatability and security of its implementations.
@@ -852,6 +849,42 @@ Extending OAuth and OIDC to support the issuance and presentation of verifiable 
 * [Manifesto: Rules for standards-makers](http://scripting.com/2017/05/09/rulesForStandardsmakers.html)
   > I've used all kinds of formats and protocols in a long career as a software developer, even created a few. My new manifesto summarizes what I've learned about what works and what doesn't.
 
+## RDF
+
+* [Technical Report on the Universal RDF Dataset Normalization Algorithm](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/att-0032/Mirabolic_Graph_Iso_Report_2020_10_19.pdf) - [Bill Bradley](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0032.html)
+  > The goal of this technical report is to review the Universal RDF Dataset Normalization Algorithm (URDNA2015) for correctness and to provide satisfactory evidence that possible issues with URDNA2015 have been considered and dismissed. We do not lay out the algorithm in its considerable technical detail here, but refer the reader to the proposed technical specification 1 [Longley], a set of proofs by Rachel Arnold and Dave Longely [Arnold], and a reference implementation in Python [DigitalBazaar]
+
+* [Importing Verifiable Data as Labeled Property Graphs](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0022.html)  Orie Steele (Wednesday, 15 June)
+
+I think what happens is that a first blank node is created for the proof, and since that node has `@container` `@graph`, instead of being able to trace the relationships directly from credential to proof to verification method...
+
+Each proof is being treated as a disjoint subgraph, and the relationship is not being preserved during import… [...]
+
+I suspect this is solvable with a more complicated graph config: [https://neo4j.com/labs/neosemantics/4.0/config/](https://neo4j.com/labs/neosemantics/4.0/config/)
+
+But I wonder if we might correct this behavior in VC Data Model 2.0, such that RDF representations don't have this odd behavior when imported as labeled property graphs. [...]
+
+answer on the github issue for the standard, I raised it here: [](https://github.com/w3c/vc-data-model/issues/881)[https://github.com/w3c/vc-data-model/issues/881](https://github.com/w3c/vc-data-model/issues/881)
+
+* [Proposed W3C Charter: RDF Dataset Canonicalization and Hash Working Group](https://lists.w3.org/Archives/Public/public-credentials/2022May/0033.html)  Manu Sporny (Tuesday, 17 May)
+
+The goal of this group is to standardize the way many of us digitally sign Verifiable Credentials. This working group has been about decade in the making (some would say two decades) and is important for achieving things like BBS+ selective disclosure as well as standardizing the way we format Verifiable Credentials before they are digitally signed.
+
+The [announcement](https://lists.w3.org/Archives/Public/public-new-work/2022May/0005.html) is here
+
+The [proposed charter](https://www.w3.org/2022/05/04-proposed-rch-wg-charter/) is here
+
+* [URDNA2015 Implementation Question](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/0017.html)  Daniel Petranek (Thursday, 7 July)
+
+I've instrumented the rdf-canonicalize library so I can inspect the order of execution, and it appears that what differs between my implementation and the Javascript one is the order of the permutations. The spec doesn't say how the permutations should be ordered, and my intuition is that the order does indeed matter - though I'm happy to be corrected if I'm wrong.
+
+So, here is my question(s):
+
+- Does the order of the permutations matter?
+- If so, what order should they be in?
+
+
+
 ## DIDs
 
 * [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
@@ -871,3 +904,190 @@ Extending OAuth and OIDC to support the issuance and presentation of verifiable 
   > - Use trusted Witness (and origin) timings to resolve late publishing.
   > - Use origin to enable observers to know if they have the latest operations.
 
+
+* [re: Defining load balanced, failover clusters for DID Document serviceEndpoints?](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0056.html)  (Monday, 10 January)
+
+#didlang 0.3 includes support for round-robin, load-balanced DID Agent serviceEndpoint clusters. [Here's a demo](https://youtu.be/mf0aKLvJoCw)
+
+* [W3C Decentralized Identifiers v1.0 is a W3C Proposed Recommendation](https://lists.w3.org/Archives/Public/public-credentials/2021Aug/0030.html)  Manu Sporny (Tuesday, 3 August)
+
+* [W3C Decentralized Identifiers v1.0 is a W3C Proposed Recommendation](https://www.w3.org/blog/news/archives/9179):
+
+* [The published version that will be voted on by W3C Members can be found here](https://www.w3.org/TR/2021/PR-did-core-20210803/):
+
+This is the final step of the W3C global standardization process.
+
+If you are a W3C Member, you can now vote to approve it as a global standard here:
+
+* [DID 1.0 Comments / Meeting Minutes (was RE: Mozilla Formally Objects to DID Core)](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0135.html)  John, Anil (Monday, 27 September)
+
+* [https://www.w3.org/2021/09/21-did10-minutes.html](https://www.w3.org/2021/09/21-did10-minutes.html) is fascinating reading!
+
+* [...] I can speak to the work of the DHS SVIP Program and our approach and perspective across our two  work-streams that touch upon the two points.
+
+1.  Governments “lobbying” for single DID method and Non-Interoperability
+
+*   “tantek: concerned to hear that there are governments looking to adopt, with only single implementation methods and non interop, sounds like lobbying may have occurred, … advocating for single-implementation solutions that are centralized wolves in decentralized clothing”
+
+*   “<cwilso> +1 to tantek's concern that governments are responding to lobbying attempts on non-interoperable methods”
+
+* [Mozilla Formally Objects to DID Core](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0010.html)  Drummond Reed (Thursday, 1 September)
+
+Now, here's the REAL irony. Mozilla and others are pointing to the URI spec and existing URI schemes as the precedent without recognizing that in [in section 9.11 of the DID spec](https://www.w3.org/TR/did-core/%23dids-as-enhanced-urns), we specifically compare the DID spec to the *URN spec*, [RFC 8141](https://datatracker.ietf.org/doc/html/rfc8141). In fact we deliberately patterned the [ABNF for DIDs](https://www.w3.org/TR/did-core/%23did-syntax)  after the ABNF for URNs—and patterned DID method names after URN namespaces. And we set up a registry for the exactly the same way RFC 8141 establishes a [registry of URN namespaces](https://www.iana.org/assignments/urn-namespaces/urn-namespaces.xhtml).
+
+Now: guess how many URN namespaces have been registered with IANA?
+
+- [SEVENTY*. Count em.](https://www.iana.org/assignments/urn-namespaces/urn-namespaces.xhtml)
+
+I don't see anyone complaining about interoperability of URN namespaces. Amd RFC 8141 was published over four years ago.
+
+* [Some questions regarding DID verification relationships](https://lists.w3.org/Archives/Public/public-credentials/2021Dec/0009.html) Dmitri Zagidulin (Thursday, 2 December)
+
+The motivation for verification relationships in the DID spec stems from the general security recommendation of "use separate keys for separate purposes".
+
+You can see this at work in other specifications, such as JWKS (JSON Wek Key Set), specifically in the 'use' (Public Key Use) parameters, from [https://datatracker.ietf.org/doc/html/rfc7517#section-4.2](https://datatracker.ietf.org/doc/html/rfc7517%23section-4.2)
+
+* [DID press release and UNECE white paper](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/0087.html)  steve capell (Wednesday, 20 July)
+
+great to see that press release at [https://www.w3.org/2022/07/pressrelease-did-rec.html.en](https://www.w3.org/2022/07/pressrelease-did-rec.html.en)
+
+There's a testimonial from UNECE near the bottom.  I thought the community might be interested in the white paper from UNECE on VCs and DIDs for cross border trade - [https://unece.org/trade/uncefact/guidance-material](https://unece.org/trade/uncefact/guidance-material)
+
+* [DID Press Release Testimonials](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/0022.html)  Zundel, Brent (Friday, 8 July)
+
+This message is to inform the DID WG and CCG that the W3C intends to write a press release.
+
+To that end, we are seeking testimonials about Decentralized Identifiers.
+
+For an example of the sort of thing we're looking for, please see: [https://www.w3.org/2019/03/pressrelease-webauthn-rec.html](https://www.w3.org/2019/03/pressrelease-webauthn-rec.html)
+
+The testimonials may be submitted as a reply to this email.
+
+DID Methods
+
+* [Announcement: New DID Method Specification: did:object](https://lists.w3.org/Archives/Public/public-credentials/2021Dec/0067.html)  (Tuesday, 14 December)
+
+The publication of [this DID Method specification](https://github.com/mwherman2000/TrustedDigitalWeb/blob/master/specifications/did-methods/did-object.md) realizes, in large part, a 4-year quest (or should I say personal mission) to create a platform to Tokenize Every Little Thing (ELT).
+
+* [Re: CCG Community opinions needed to define CCG scope (specifically re: did methods as work items)](https://lists.w3.org/Archives/Public/public-credentials/2021Aug/0376.html)  Manu Sporny (Thursday, 26 August)
+
+On 8/26/21 12:37 PM, Heather Vescent wrote:
+
+> 1. What are the *pros* of including did methods as work items in the CCG?
+
+Community vetting and approval of particular DID Methods.
+
+Basically, broader and deeper review of DID Methods that we expect to be of
+
+great use to the world. I expect there will be DID Methods that the community
+
+wants to eventually propose as DID Methods for standardization (did:key and
+
+did:web feel like two ones where we could get consensus on doing so).
+
+* [DID methods as W3C standards - a happy compromise?](https://lists.w3.org/Archives/Public/public-credentials/2022Feb/0117.html)  steve capell (Tuesday, 22 February)
+
+can't we pick just a small number of un-controversial methods to standardise?  even if it's just did:key and did:web to start with.
+
+* [Cross border identity use case - which did methods?](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/0016.html)  steve capell (Sunday, 6 March)
+
+The broader generalisation of this question is : "for trust anchors like governments that issue VCs to their constituents, what rules should govern which did:methods they should accept as the *subject* identifier for the VCs they issue?"  Are those rules context specific?
+
+I'm not sure of the answer - but it's why did:ion was on my list - as an allowed *subject* of a government issued vc - and as the issuer of trade documents.  should I take it off my list pending a bit more maturity (eg that azure service goes out of beta into full production)?  or is it safe enough for this use case?  if so what others would also be "safe enough"?
+
+![https://www.notion.soimages/image2.png](https://www.notion.soimages/image2.png)
+
+DID:TAG[re: Using Email as an Identifier](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0065.html)  Bob Wyman (Friday, 12 November)
+
+My [did:tag](https://github.com/bobwyman/did_method_tag) proposal is, I believe, the only proposed DID Method that addresses the use of email addresses and email as a resolution method
+
+There are quite a number of issues with using email addresses as identifiers, or parts of identifiers, and I'm hoping that discussion and development of the did:tag method will illuminate those issues and potentially find solutions for them.
+
+DID:WEB
+
+* [re: some thought after using did:web](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0031.html)  Orie Steele (Wednesday, 5 January)
+
+We have had the same issue... per the did core spec, there are really 2 main key types, in our crypto libraries for the key pair classes themselves, we do our best to support both and handle translation for you:
+
+* [https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/Ed25519KeyPair.ts#L78](https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/Ed25519KeyPair.ts%23L78)
+
+* [https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/types/Ed25519VerificationKey2018.ts](https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/types/Ed25519VerificationKey2018.ts)
+
+* [https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/types/Ed25519VerificationKey2020.ts](https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/types/Ed25519VerificationKey2020.ts)
+
+* [https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/types/JsonWebKey2020.ts](https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/types/JsonWebKey2020.ts)
+
+* [DID Web, OpenSSL and Certificate Authorities](https://lists.w3.org/Archives/Public/public-credentials/2022Feb/0078.html)  Orie Steele (Thursday, 17 February)
+
+We then generate a DID Web DID Document from the public keys for the 3 children, and encode the ca chain from them back to the root using `x5c`.
+
+We then issue a JWT from the private key for 1 of them.
+
+We then verify the JWT signature using the public key.
+
+We then check the x5c using open seel to confirm the certificate chain.
+
+My questions are:
+
+1. Is it possible to use JOSE to automate this further?
+
+2. Is there a better way of accomplishing this?
+
+3. Should the CA chain be pushed into the JWT?
+
+DID:JWK
+
+* [did:jwk is reborn!](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0066.html)  Orie Steele (Friday, 8 April)
+
+* [https://github.com/w3c/did-spec-registries/pull/432](https://github.com/w3c/did-spec-registries/pull/432)
+
+DID:KEY
+
+* [did-key-creator published](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0061.html)  Brent Shambaugh (Tuesday, 28 June)
+
+I published a did:key creator at
+
+* [https://www.npmjs.com/package/did-key-creator](https://www.npmjs.com/package/did-key-creator)
+
+This has been tested to create did:keys from the P-256,P-384, and P-521 curves specified in [https://github.com/w3c-ccg/did-method-key](https://github.com/w3c-ccg/did-method-key) and [https://w3c-ccg.github.io/did-method-key/](https://w3c-ccg.github.io/did-method-key/) .
+
+* [did:key DID Document generation algorithm feedback](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0016.html)  Manu Sporny (Tuesday, 14 June)
+
+The DID Document generation algorithm for did:key is being refined to the
+
+point that we can finish off a first pass of a did:key test suite.
+
+* [...] [https://github.com/w3c-ccg/did-method-key/pull/51](https://github.com/w3c-ccg/did-method-key/pull/51)
+
+
+## Assorted
+
+
+* [Bootstrapping a VDR-based decentralized object (credential) platform?](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0274.html) Michael Herman (Trusted Digital Web) (Monday, 26 July)
+
+Here's an [illustration of the relationships between the initial DOMAIN and POOL txns](https://hyperonomy.com/2021/07/26/bootstrapping-a-vdr-based-decentralized-credential-object-platform-von-example/) used to bootstrap an example Aries VDR...
+
+* [FYI: C2PA Releases Specification of World’s First Industry Standard for Content Provenance](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0207.html)  Leonard Rosenthol (Wednesday, 26 January)
+
+Just wanted to update folks here that the C2PA has released version 1.0 of their specification at [https://c2pa.org/specifications/specifications/1.0/index.html](https://c2pa.org/specifications/specifications/1.0/index.html).  As previously mentioned, it includes native support for VC’s for use in identification of actors (be they human, organizations, etc.).  Thanks to everyone here for their input on our work and helping us to deliver.
+
+* [FedId CG at W3C and GNAP](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0065.html)  Orie Steele (Friday, 7 January)
+
+I asked them whether they considered GNAP via slack.
+
+* [https://w3ccommunity.slack.com/archives/C02355QUL73/p1641585415001900](https://w3ccommunity.slack.com/archives/C02355QUL73/p1641585415001900)
+
+They are chartered here: [](https://fedidcg.github.io/)[https://fedidcg.github.io/](https://fedidcg.github.io/)
+
+To look at AuthN that breaks when browser primitives are removed.
+
+They are currently focused on OIDC, SAML, WS-Fed.
+
+The reason I asked them was in relation to the questions we have discussed regarding "What can GNAP replace".
+
+Clearly GNAP can replace OAuth, but I think you both have now confirmed that GNAP does not replace OIDC, or federated identity...
+
+
+* [https://github.com/transmute-industries/xmss](https://github.com/transmute-industries/xmss)
+
+I've reached the limits of my ability to move this ball forward, and am here to ask for help

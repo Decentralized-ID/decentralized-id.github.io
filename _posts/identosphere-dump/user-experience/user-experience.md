@@ -193,3 +193,20 @@ The first international agreement on how refugees could handle the issue of miss
 * [Design Principles for the Personal Data Economy](https://medium.com/mydex/design-principles-for-the-personal-data-economy-f63ffa93e382) MyDex ([whitepaper](https://mydex.org/resources/papers/)
 
 A key part of this is continuity and longevity: a personal data store is for life, so the institutions providing personal data stores should be designed for decades (centuries, even). Whatever particular corporate form they take, legal safeguards relating to continuity and longevity of purpose need to be built into how they operate.
+
+## Human Rights
+
+* [What Companies Can Do Now to Protect Digital Rights In A Post-Roe World](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0046.html)
+
+Good topic for CCG discussion and reading on the implications of a lot of
+
+the tech we are working on:
+
+* [What Companies Can Do Now to Protect Digital Rights In A Post-Roe World | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2022/05/what-companies-can-do-now-protect-digital-rights-post-roe-world)
+
+* [Human rights perspective on W3C and IETF protocol interaction](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0014.html) Adrian Gropper (Wednesday, 5 January)
+
+The Ford Foundation paper attached provides the references. However, this thread should not be about governance philosophy but rather a focus on human rights as a design principle as we all work on protocols that will drive adoption of W3C VCs and DIDs at Internet scale.
+
+* [https://redecentralize.org/redigest/2021/08/](https://redecentralize.org/redigest/2021/08/) says: *Human rights are not a bug*
+

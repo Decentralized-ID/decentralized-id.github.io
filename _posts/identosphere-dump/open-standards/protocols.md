@@ -4,6 +4,9 @@ published: false
 
 # Protocols
 
+* [New article about decentralized protocols to rule the world...](https://lists.w3.org/Archives/Public/public-credentials/2021Dec/0105.html)
+
+* [Great Protocol Politics](https://foreignpolicy.com/2021/12/11/bitcoin-ethereum-cryptocurrency-web3-great-protocol-politics/) - The 21st century doesn’t belong to China, the United States, or Silicon Valley. It belongs to the internet.
 
 * [Torgap architecture & products](https://github.com/BlockchainCommons/torgap)
   > Torgap is the Blockchain Commons security and privacy architecture model for creating gaps between connected apps and microservices. It supports privacy, service anonymity, identity psuedonymity, non-correlation, censorship-resistance, and seperation-of-interests and reduces single-points-of-failure. This emerging architecture is supported by QuickConnect and Blockchain Commons' Gordian system, while our Airgapped Wallet community and our research papers are charting its future.

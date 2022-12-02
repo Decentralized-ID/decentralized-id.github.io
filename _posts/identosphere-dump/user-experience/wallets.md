@@ -5,6 +5,30 @@ published: false
 # Wallets
 
 
+* [OKTA Cloud Identity Integration with SSI wallet](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0100.html)  sethi shivam (Tuesday, 23 November)
+
+I am successfully able to integrate Okta cloud identity with SSI agent .
+
+* [OKTA Identity Cloud Integration with SSI agent](https://medium.com/@sethisaab/okta-identity-cloud-integration-with-ssi-agent-ea1694a833cb)
+
+Looking for your feedback on how we can improve this more[DIF Wallet Security WG - Wallet Implementers Survey](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0063.html)  Bastian, Paul (Friday, 7 January)
+
+I summarized our [goals and visions in this presentation](https://nextcloud.idunion.org/s/D2cbMi6w8t3nPYj), for more information check out [the Github page](https://github.com/decentralized-identity/wallet-security)
+
+Also we ended up to initiating 2 new work items at the end of last year:
+
+*   [Device Binding](https://github.com/decentralized-identity/wallet-security/blob/main/work_items/device_binding.md) ([kickoff doodle](https://doodle.com/poll/bttcdxcqdn9cpziu)
+
+*   [Differential Credential Security](https://github.com/decentralized-identity/wallet-security/blob/differential-credential-security-wg/work_items/differential_credential_security.md)
+
+* [W3C CCG Wallet Protocol Analysis (WIP)](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/0241.html)  Manu Sporny (Thursday, 24 March)
+
+As most of us know, that eventually led to the realization of the many dimensions of decentralization and creation of the excellent "DID Method Rubric" by JoeA, RyanG, and DanielH (with support from a very large cast of characters in this community).
+
+It feels like we're in the early throes of a "Wallet Rubric".
+
+* [https://docs.google.com/document/d/139dTcWp28LePAQjrA1uXVy4d154B22Y2d-vn5GvIaec/edit#](https://docs.google.com/document/d/139dTcWp28LePAQjrA1uXVy4d154B22Y2d-vn5GvIaec/edit%23) [updated link]
+
 * [Wallet Security & Hardware-backed VCs - privacy challenges & new DIF WG incoming](https://iiw.idcommons.net/20F/_Wallet_Security_%2526_Hardware-backed_VCs_-_privacy_challenges_%2526_new_DIF_WG_incoming) by Paul Bastian & Micha Kraus
 
 * [https://lists.identity.foundation/g/wallet-security](https://lists.identity.foundation/g/wallet-security)

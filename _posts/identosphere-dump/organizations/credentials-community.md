@@ -1,5 +1,9 @@
 # Credentials community group
 
+* [https://www.w3.org/community/credentials/](https://www.w3.org/community/credentials/)
+
+* [https://lists.w3.org/Archives/Public/public-credentials/](https://lists.w3.org/Archives/Public/public-credentials/)
+
 * [IRC mailing list bridge](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0117.html) Charles E. Lehner (Saturday, 23 April)
 
 Notifications of messages to this mailing list (public-credentials) are now sent to our IRC channel (#ccg).
