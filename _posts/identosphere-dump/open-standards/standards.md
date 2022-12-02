@@ -44,20 +44,6 @@ Purple - General crypto packaging/protocol standards
 
 Orange - Application layer standards
 
-* [did:orb slides Troy Ronda (SecureKey)](https://lists.w3.org/Archives/Public/public-credentials/2021Mar/0017.html)
-
-The slides for today’s did:orb presentation can be found here
-
-Motivation – Enable monitorable ledgers
-
-- Decouple witness ledgers from the critical path.
-- Allow for Trust but Verify model.
-- Leverage the Certificate Transparency model
-- Witnesses observe VDR objects and promise to include in their ledgers.
-- Provide a signed timestamp and a maximum merge delay.
-- Enable monitoring to ensure witnesses follow their promises.
-- Use trusted Witness (and origin) timings to resolve late publishing.
-- Use origin to enable observers to know if they have the latest operations.
 
 * [Technical Report on the Universal RDF Dataset Normalization Algorithm](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/att-0032/Mirabolic_Graph_Iso_Report_2020_10_19.pdf) - [Bill Bradley](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0032.html)
   > The goal of this technical report is to review the Universal RDF Dataset Normalization Algorithm (URDNA2015) for correctness and to provide satisfactory evidence that possible issues with URDNA2015 have been considered and dismissed. We do not lay out the algorithm in its considerable technical detail here, but refer the reader to the proposed technical specification 1 [Longley], a set of proofs by Rachel Arnold and Dave Longely [Arnold], and a reference implementation in Python [DigitalBazaar].
@@ -86,8 +72,7 @@ Motivation – Enable monitorable ledgers
   > 
   > “a document that provides a set of agreed-upon rules, guidelines or characteristics for activities or their results. Standards establish accepted practices, technical requirements, and terminologies for diverse fields.”  He goes on to highlight a lot of the work being done in Canada and where it all sits relative to being a standard - “In closing, there are lots of trust frameworks being developed today. But to be truly trusted, a trust framework needs to either apply existing standards or become a standard itself.”
 
-* [Mike Jones shares](https://self-issued.info/?p=2136) that CBOR (Concise Binary Object Representation)  is officially a [specification at IETF](https://www.rfc-editor.org/rfc/rfc8943) - woohoo! and it is a key part of [ISO’s mDL standard](https://www.iso.org/committee/45144.html) (date fields must use it).
-  > The Concise Binary Object Representation (CBOR), as specified in RFC 7049, is a data format whose design goals include the possibility of extremely small code size, fairly small message size, and extensibility without the need for version negotiation.
+
 * [W3C WebAuthn V2 Now a Standard](https://self-issued.info/?p%3D2160) Mike Jones
   > While remaining compatible with the original standard, this second version adds additional features, among them for user verification enhancements, manageability, enterprise features, and an Apple attestation format. ([Recommendation](https://www.w3.org/TR/2021/REC-webauthn-2-20210408/)) ([CTAP also approaching standardization](https://self-issued.info/?p%3D2155).
 * [Federated Identity, InCommon, and Enabling Federated Access to Research Services](https://njedge.net/blog/federated-identity-incommon-and-enabling-federated-access-to-research-services/)
@@ -125,8 +110,6 @@ This October report is the most comprehensive review of global standards around 
 - [BIA](https://bialliance.io/) (Interoperability)
 - [BiTA](https://www.bita.studio/) (Interoperability; DLT requirements)
 
-* [OpenID Connect Credential Provider](https://medium.com/mattr-global/introducing-oidc-credential-provider-7845391a9881) Mattr
-* [OIDC Credential Provider](https://mattrglobal.github.io/oidc-client-bound-assertions-spec/) is “an extension to OpenID Connect which enables the end-user to request credentials from an OpenID Provider and manage their own credentials in a digital wallet.”
 
 * [OASIS releases KMIP 2.1](https://www.oasis-open.org/2020/12/18/key-management-interoperability-protocol-specification-and-key-management-interoperability-protocol-profiles-oasis-standards-published/)
   > The Key Management Interoperability Protocol (KMIP) is a single, comprehensive protocol for communication between clients that request any of a wide range of encryption keys and servers that store and manage those keys. By replacing redundant, incompatible key management protocols, KMIP provides better data security while at the same time reducing expenditures on multiple products.
@@ -247,6 +230,8 @@ Since February he has also been the informal chair of the [Hospitality and Trav
 ### OpenID trying to make play in the “trusted identities” online space
 
 * [Global Assured Identity Network White Paper](https://openid.net/2021/09/20/global-assured-identity-network-white-paper/)
+
+
 * [OIDC with SIOPv2 and DIF Presentation Exchange](https://vimeo.com/630104529) Sphereon
 
 * [Sign in with Ethereum](https://login.xyz/) is being developed by Spruce
@@ -261,9 +246,6 @@ Why would you have 75 logins when you could have 1?
 
 WAYF has now been certified according to the standard for information security ISO 27001. This is the result of the audit that DNV conducted at WAYF on 23 September 2021. Language Danish Read more about WAYF certified according to ISO 27001
 
-* [TrustBloc - Duty Free Shop use case (CHAPI Save + WACI Share)](https://www.youtube.com/watch?v%3DaagFJBI1fBE)
-
-This video demonstrates the TrustBloc platform to Issue a W3C Verifiable Credential through CHAPI and Share the Verifiable Credential/Presentation through WACI.
 
 * [How Yoma Uses Trinsic to Help African Youth Build Digital CVs](https://trinsic.id/customer-story-yoma/)
 
@@ -341,6 +323,8 @@ BBS+ signature styles are not going to be ready for deployment anytime soon. Thi
 * [DIDComm Mythconceptions](https://www.youtube.com/watch?v%3DrwvQdRyMeY4) Daniel Hardman
 
 DIDComm is a peer-to-peer communication technology for SSI (self-sovereign identity) with security and privacy properties rooted in DIDs (decentralized identifiers). Its core value proposition is often misunderstood or oversimplified. This webinar provides a proper mental model.
+
+
 * [First Public Review Period for OpenID Connect SIOPV2 and OIDC4VP Specifications Started](https://openid.net/2021/12/17/first-public-review-period-for-openid-connect-siopv2-and-oidc4vp-specifications-started/) OpenID
 
 - Implementer’s Drafts public review period: Friday, December 17, 2021 to Monday, January 31, 2022 (45 days)
@@ -382,6 +366,8 @@ This has two purposes:
 
 At a superficial level, a decentralized identifier (DID) is simply a new type of globally unique identifier. But at a deeper level, DIDs are the core component of an entirely new layer of decentralized digital identity and public key infrastructure (PKI) for the Internet. This [decentralized public key infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf) (DPKI) could have as much impact on global cybersecurity and cyberprivacy as the development of the [SSL/TLS protocol](https://en.wikipedia.org/wiki/Transport_Layer_Security) for encrypted Web traffic (now the largest PKI in the world).
 
+
+
 * [​​First Implementer’s Drafts of OpenID Connect SIOPV2 and OIDC4VP Specifications Approved](https://openid.net/2022/02/08/first-implementers-drafts-of-openid-connect-siopv2-and-oidc4vp-specifications-approved/) OpenID
 
 - [Self-Issued OpenID Provider v2](https://openid.net/specs/openid-connect-self-issued-v2-1_0-07.html)
@@ -392,6 +378,7 @@ At a superficial level, a decentralized identifier (DID) is simply a new type of
 Most of Hyperledger Indy’s development occurred prior to the completion of the standard DID Specification by the W3C and, as a result, identifiers written to one network are currently not resolvable on other networks. A new did:indy DID Method will fix that and make it easier for decentralized identity products and services to interoperate across different Indy networks.
 
 * [Cryptography Review of W3C VC Data Model and DID Standards and Implementation Recommendations](https://www.linkedin.com/posts/aniljohn_cryptography-review-of-w3c-vc-and-w3c-did-ugcPost-6892250585652162560-OQ3Y) SRI International
+
 
 * [Vote for First Implementer’s Drafts of OIDConnect SIOPV2 and OIDC4VP Specifications](https://openid.net/2022/01/18/notice-of-vote-for-first-implementers-drafts-of-openid-connect-siopv2-and-oidc4vp-specifications/) OpenID
 
@@ -430,9 +417,7 @@ Open standards should be developed openly because not enough people work to ensu
 
 This is the Use Case Implementation Workstream of the [COVID Credentials Initiative (CCI)](https://www.covidcreds.com/). This workstream identifies privacy-preserving verifiable credentials (VCs) that are most useful to the COVID-19 response and provides a forum and platform for those who are implementing COVID VCs to present their projects/solutions.
 
-* [@kimdhamilton](https://twitter.com/kimdhamilton) · [May 25](https://twitter.com/kimdhamilton/status/1397241823190523904)
 
-I've read every decentralized identity protocol so you don't have to. They all just read like "nothing to see here, just f- right off" Oh, except for OIDC Credential Provider. Well done to them!
 
 * [Hygiene for a computing pandemic](https://fossandcrafts.org/episodes/20-hygiene-for-a-computing-pandemic.html)
 
@@ -453,6 +438,8 @@ This week’s CCG teleconference had a great discussion about object capabilitie
 
 * [What Is ISO 27018:2019? Everything Executives Need to Know](https://auth0.com/blog/what-is-iso-27018-2019-everything-executives-need-to-know/)
   > ISO 27018 is part of the ISO 27000 family of standards, which define best practices for information security management. ISO 27018 adds new guidelines, enhancements, and security controls to the ISO/IEC 27001 and ISO/IEC 27002 standards, which help cloud service providers better manage the data security risks unique to PII in cloud computing.
+
+  
 * [Differences between SAML, OAuth & OIDC (OpenID Connect)](https://www.ubisecure.com/education/differences-between-saml-oauth-openid-connect/)
   > SAML 2.0 - Security Assertion Markup Language
 > 
@@ -676,6 +663,8 @@ members from across the community come together to test interoperability between
 - [Chair Slides](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-json-web-proofs-chair-drafts-00) – [Karen O’Donoghue](https://twitter.com/kodonog) and [John Bradley](https://twitter.com/ve7jtb)
 - [The need: Standards for selective disclosure and zero-knowledge proofs](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-the-need-standards-for-selective-disclosure-and-zero-knowledge-proofs-00) – [Mike Jones](https://twitter.com/selfissued)
 - [What Would JOSE Do? Why re-form the JOSE working group to meet the need?](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-the-need-standards-for-selective-disclosure-and-zero-knowledge-proofs-00) – [Mike Jones](https://twitter.com/selfissued)
+
+
 - [The selective disclosure industry landscape, including Verifiable Credentials and ISO Mobile Driver Licenses (mDL)](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-why-selective-disclosure-00) – [Kristina Yasuda](https://twitter.com/kristinayasuda)
 - [A Look Under the Covers: The JSON Web Proofs specifications](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-json-web-proofs-initial-drafts-00) – Jeremie Miller
 - [Beyond JWS: BBS as a new algorithm with advanced capabilities utilizing JWP](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-beyond-jws-bbs-00) – [Tobias Looker](https://twitter.com/tplooker)
@@ -862,3 +851,26 @@ Extending OAuth and OIDC to support the issuance and presentation of verifiable 
   > about their path towards trusted P2P messaging and announces the [DIDAgent Framework (DAF)](https://github.com/uport-project/daf)
   > 
   > when we speak about a DID, then we need to be more precise and also speak about the particular DID method of that DID which defines the CRUD operations on a target system such as Ethereum.
+
+* [Manifesto: Rules for standards-makers](http://scripting.com/2017/05/09/rulesForStandardsmakers.html)
+  > I've used all kinds of formats and protocols in a long career as a software developer, even created a few. My new manifesto summarizes what I've learned about what works and what doesn't.
+
+## DIDs
+
+* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
+- [jolocom/ddoresolver-rs](https://github.com/jolocom/ddoresolver-rs) github
+- [Rust implementation of the did:key method](https://crates.io/crates/did-key) creds to Tomislav Markovski.
+* [Universal Resolver Driver Policy Discussion](https://iiw.idcommons.net/21P/_Universal_Resolver_Driver_Policy_Discussion) by Bernhard Fuchs, Markus Sabadello
+  > The project has some guidelines for contributing new DID method drivers:[https://github.com/decentralized-identity/universal-resolver/blob/master/docs/driver-development.md](https://github.com/decentralized-identity/universal-resolver/blob/master/docs/driver-development.md)
+- [DID test suite](https://github.com/w3c/did-test-suite) GitHub
+  > DID test suite is not for runtime, but the Universal Resolver could do a few simple checks on a driver's responses. But there's also a philosophical question: Should the Universal Resolver be "allowed" to check and potentially transform driver responses, or should it just "pass through" everything that comes from a driver?
+* [did:orb slides Troy Ronda (SecureKey)](https://lists.w3.org/Archives/Public/public-credentials/2021Mar/0017.html)
+  > - Decouple witness ledgers from the critical path.
+  > - Allow for Trust but Verify model.
+  > - Leverage the Certificate Transparency model
+  > - Witnesses observe VDR objects and promise to include in their ledgers.
+  > - Provide a signed timestamp and a maximum merge delay.
+  > - Enable monitoring to ensure witnesses follow their promises.
+  > - Use trusted Witness (and origin) timings to resolve late publishing.
+  > - Use origin to enable observers to know if they have the latest operations.
+

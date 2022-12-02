@@ -4,27 +4,6 @@ published: false
 
 # Wallets
 
-* [Introducing: WACI (Wallet And Credential Interaction)](https://iiw.idcommons.net/4K/_Introducing:_WACI_(Wallet_And_Credential_Interaction)) by Jace Hensley
-
-* [https://specs.bloom.co/wallet-and-credential-interactions/](https://specs.bloom.co/wallet-and-credential-interactions/)
-
-* [https://specs.bloom.co/wallet-and-credential-interactions/versions/v0.1.0](https://specs.bloom.co/wallet-and-credential-interactions/versions/v0.1.0)
-
-Orie linked this related github issue and discussion:[https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/84](https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/84)
-Also related: [https://w3c-ccg.github.io/vp-request-spec/#format](https://w3c-ccg.github.io/vp-request-spec/%23format)
-
-Use cases support mobile wallets, backend services and web apps.
-Supports chaining of requests…. Relies on credential manifest and presentation exchange
-
-W3C CCG work seems focussed on the “vc-http-api” and “vp-request-spec” as the solutions to this problem…
-We reviewed IoT / Web / API considerations for presentation exchange.
-We notes the following hypothetically viable non interoperable solutions to this problem:
-1. DIDComm v1 (IIW ticket flows?)
-2. vp-request-spec + CHAPI
-
-3. vc-http-api + …. ? / w3c ccg traceability API.
-
-4. OIDF vp-token spec?
 
 * [Wallet Security & Hardware-backed VCs - privacy challenges & new DIF WG incoming](https://iiw.idcommons.net/20F/_Wallet_Security_%2526_Hardware-backed_VCs_-_privacy_challenges_%2526_new_DIF_WG_incoming) by Paul Bastian & Micha Kraus
 

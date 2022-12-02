@@ -331,9 +331,7 @@ Jolocom is currently working on the project “ONCE – Online einfach anmelden�
 
 The project is part of the competitive innovation programme “Showcase Secure Digital Identities” (SSDI) funded by Germany’s Federal Ministry for Economic Affairs and Energy (BMWi) and one of four projects that qualified for the implementation phase.
 
-* [Kantara lays out trust-building recommendations for mDLs](https://kantarainitiative.org/kantara-lays-out-trust-building-recommendations-for-mdls/)
 
-A global digital ID association has published steps vendors and others need to take in order to build effective mobile driving license services that also put ID holders in control of their identity. The Kantara Initiative’s report starts from the premise that trust in mobile driving licenses grows with the degree of control that license holders have over the documents, their privacy and
 
 * [\#4 in the LEI Lightbulb Blog Series - Soaring Regulatory Confidence puts LEI at Center of Trust in Payments Ecosystem](https://www.gleif.org/en/newsroom/blog/in-the-lei-lightbulb-blog-series-soaring-regulatory-confidence-puts-lei-at-center-of-trust-in-payments-ecosystem) GLEIF
 
@@ -592,19 +590,6 @@ The Decision to make EBSI software available for licencing under the [European U
 * [Datarella GmbH](https://datarella.com/) - Go Aries – Enabling CL-Support on Aries Framework Go
 
 * [ID.me](https://www.id.me/)’s legal woes are continuing to escalate. The company is now staring down the prospect of its second federal investigation in as many months, after the House of Representatives’ Oversight and Reform Committee [initiated its review in April](https://findbiometrics.com/congress-opens-formal-investigation-into-id-mes-irs-project-041801/).
-
-
-* [​​Mobile Driver’s Licence (mDL) VS. Self-Sovereign Identity (SSI)](https://inatba.org/identity/mobile-drivers-licence-mdl-self-sovereign-identity-ssi-comparison/) INATBA
-
-The ISO mDL specification (ISO-compliant Driving License or IDL)  is purpose driven, as its name implies, but is said to be specifically intended to:
-
-- enable verifiers not affiliated with or associated with the issuing authority to gain access to and authenticate the information
-- allow the holder of the driving license to decide what information to release to a verifier
-- include the ability to update information frequently, and to authenticate information at a high level of confidence.
-
-* [“Decentralised Identity: What’s at Stake?”](https://inatba.org/wp-content/uploads/2020/11/2020-11-INATBA-Decentralised-Identity-001.pdf). ← earlier paper
-
-Looking at the above comparison, It is clear that both approaches strive to maintain user control of their personal data, selective disclosure/data minimization, and cryptographic methods to prove the integrity of identity claims. The differences are: first in their reliance (mDL) or independence (SSI) from issuer involvement in verification interactions, and second in their cryptographic approach, where the mDL relies on externally provided cryptographic tools while SSI builds on holder controlled private keys
 
 * [Enhancing the Privacy of Mobile Credentials, with John Wunderlich](https://www.ubisecure.com/podcast/mobile-credentials-john-wunderlich/) Ubisecure
 

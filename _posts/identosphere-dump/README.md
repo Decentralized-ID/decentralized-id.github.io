@@ -7,25 +7,21 @@
     - Methods ✓
     - ~~Resolution~~ Tools \ Services 
     - Critique ✓
-
-* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
-
-
-  - Verifiable Credential
-    - Explainer
-    - Comparisons with/ other Tech
+  - Verifiable Credential 
+    - Explainer  ✓
+    - Comparisons  ✓
     - Varieties
       - JSON-LD 
       - JSON-LD ZKP BBS+
       - JSON-JWT
       - ZKP-CL - [IIA] Indy Aries AnnonCreds
       - JWP
-  - Exchange Protocols
-    - DIDComm
-    - CHAPI
-    - OIDC
-    - mDL
-    - WACI-Pex
+  - Exchange Protocols ✓
+    - DIDComm  ✓
+    - CHAPI  ✓
+    - OIDC  ✓
+    - mDL  ✓
+    - WACI-Pex ✓
   - Complementary to VC/DID Standards
     - JSON-LD
     - JSON

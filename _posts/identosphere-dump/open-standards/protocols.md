@@ -13,35 +13,13 @@ published: false
 
 * [Selected Parts of the DIF SDS/CS Hub and EDV Discussion featuring Daniel Buchner’s Description of a Hub](https://hyperonomy.com/2021/03/24/transcription-of-selected-parts-of-the-dif-sds-cs-march-11-2021-zoom-call-hub-and-edv-discussion-featuring-daniel-buchners-description-of-a-hub/) Michael Herman
   > This is a [transcription of selected parts of the EDV-Hub conversation](https://hyperonomy.com/2021/03/24/transcription-of-selected-parts-of-the-dif-sds-cs-march-11-2021-zoom-call-hub-and-edv-discussion-featuring-daniel-buchners-description-of-a-hub/) during the DIF SDS/CS Thursday weekly Zoom call on March 11, 2021. This is the call where Daniel Buchner described (verbally) several aspects about what is and what is not a Hub.
-## OpenID Connect
-* [OpenID Connect Presentation at IIW XXXII](https://self-issued.info/?p%3D2167)
-- [OpenID Connect](https://openid.net/connect/)
-- [Frequently Asked Questions](https://openid.net/connect/faq/)
-- [Working Group Mailing List](https://lists.openid.net/mailman/listinfo/openid-specs-ab)
-- [OpenID Certification Program](https://openid.net/certification/)
-- [Certified OpenID Connect Implementations Featured for Developers](https://openid.net/developers/certified/)
+
+## Assorted
 - [Mike Jones’ Blog](https://self-issued.info/)
 - [Nat Sakimura’s Blog](https://nat.sakimura.org/)
 - [John Bradley’s Blog](https://www.thread-safe.com/)
 * [Decoding the Sidetree Protocol](https://academy.affinidi.com/decoding-the-sidetree-protocol-18d8bfa39257) Affinidi
   > Sidetree protocols are layer 2 protocols that anchor to the underlying decentralized ledger system. That said, it is ledger agnostic and its primary role is to anchor batches of signed JSON operations to the network.
-* [Universal Resolver Driver Policy Discussion](https://iiw.idcommons.net/21P/_Universal_Resolver_Driver_Policy_Discussion) by Bernhard Fuchs, Markus Sabadello
-
-Currently, instances of the Universal Resolver is hosted by DIF, IBM, and other companies. Danube Tech has been maintaining the project.
-
-The project has some guidelines for contributing new DID method drivers:[https://github.com/decentralized-identity/universal-resolver/blob/master/docs/driver-development.md](https://github.com/decentralized-identity/universal-resolver/blob/master/docs/driver-development.md)
-
-We have some ongoing questions on policies for Universal Resolver drivers.
-
-Proposal: We should require contact data for maintainers of drivers (could be email address or any other type of contact data).
-
-Another challenge is that there may be multiple projects claiming the same DID method name. How to decide which DID method driver to include in the Universal Resolver?
-
-Proposal: Driver implementers must get their DID method registered first in the W3C DID method registry, then they can contribute a Universal Resolver driver (this avoids ambiguities)
-
-DID test suite: [https://github.com/w3c/did-test-suite](https://github.com/w3c/did-test-suite)
-
-DID test suite is not for runtime, but the Universal Resolver could do a few simple checks on a driver's responses. But there's also a philosophical question: Should the Universal Resolver be "allowed" to check and potentially transform driver responses, or should it just "pass through" everything that comes from a driver?
 * [WHiSSPR- Human transparency over identity and surveillance risk](https://iiw.idcommons.net/23E/_WHiSSPR-_Human_transparency_over_identity_and_surveillance_risk) by Sal D’Agostino
 * [Building ActivityPub into Known](https://werd.io/2021/building-activitypub-into-known) Ben Werdmüller
 
@@ -84,11 +62,6 @@ Aaron Parecki - Mr. OAuth has a new course out on Udemy
 
 > 3.5 hours of video content, quizzes, as well as interactive exercises with a guided learning tool to get you quickly up to speed on OAuth, OpenID Connect, PKCE, best practices, and tips for protecting APIs with OAuth.
 
-### Universal Resolver supports ION DID Method
-
-* [@dialtone4web](https://twitter.com/dialtone4web) shares: *"ION based[@DecentralizedID](https://twitter.com/DecentralizedID) identifiers can now be resolved by the UniversalResolver. #v0.8.1 #ownyouridentity"*
-
-* [Adds support for resolving ION DIDs #154](https://github.com/decentralized-identity/universal-resolver/pull/154)
 
 ### Grant Negotiation and Authorization Protocol (GNAP)
 
@@ -100,8 +73,6 @@ Aaron Parecki - Mr. OAuth has a new course out on Udemy
 * [Filling in the GNAP](https://medium.com/@justinsecurity/filling-in-the-gnap-a032453eaf8c)
   > Justin Richer identity protocol writer and implementer extraordinaire has a very excellent post explaining the new GNAP and all the things that lead to it, including OAuth, OpenID, TxAuth, OAuth3, and OAuth.XYZ. This protocol is a big deal and will be important. It’s just beginning the journey through IETF (Internet Engineering Task Force) the main standards body of the internet.
 
-* [ION reaches 1.0](https://github.com/decentralized-identity/ion)
-  > ION makes it possible to anchor tens of thousands of DID/DPKI operations on a target chain (in ION's case, Bitcoin) using a single on-chain transaction. The transactions are encoded with a hash that ION nodes use to fetch, store, and replicate the hash-associated DID operation batches via IPFS.
 
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c)
 * [On any blockchain or other decentralized system](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) (Markus Sabadello)
@@ -134,3 +105,5 @@ Available on the Open University’s OpenLearn Create platform and is licensed u
 * [Getting Started with Self-Sovereign Identity](https://www.edx.org/course/getting-started-with-self-sovereign-identity) Kaliya & Lucy via Linux Foundation and EdX
 
 Gain a solid foundation on self-sovereign identity (SSI) with a 360 degree overview of its evolutionary journey, key concepts, standards, technological building blocks, use cases, real-world examples and implementation considerations.
+* [ION reaches 1.0](https://github.com/decentralized-identity/ion)
+  > ION makes it possible to anchor tens of thousands of DID/DPKI operations on a target chain (in ION's case, Bitcoin) using a single on-chain transaction. The transactions are encoded with a hash that ION nodes use to fetch, store, and replicate the hash-associated DID operation batches via IPFS.

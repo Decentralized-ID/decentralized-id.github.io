@@ -58,52 +58,6 @@ To recap:
 
 On their own independent schedules, all browsers have either broken or have plans to break state sharing via cross-site iframes to limit user tracking - arguably making the Session Management approach unusable.
 
-* [Browser APIs to enable OpenID Session Management and Privacy](https://iiw.idcommons.net/13L/_Browser_APIs_to_enable_OpenID_Session_Management_and_Privacy) by Sam Goto
-
-How does logout in OIDC happen?
-
-- Classification problem - browsers do not know it is a logout now
-- Easiest way
-- Browser asks for a user consent
-- Hard from a permission implementation perspective
-- Tim: No issues with this idea
-- If user logged into several OPs, user will not look to all the ones they log out from
-- Option2
-- Browser classifies signing-in event
-- On log out does not prompt the user and IdP has no incentives to lie
-- RPs get to determine if they want to log the user out or not
-- Whether you can swap generic frame with fenced frame, frame can see it’s own cookies
-- May not be able to pass any parameters that you need to pass; no link decoration for framed frame
-- Subdomains also considered, but not well thought out
-- Logout URL - other option to add, but more work for RP: Resource metadata. Specification - not much adoption. It just feels like a place where RP metadata could be declared which could be useful in this context of the RP defining its metadata (e.g. what IDP it uses
-- [draft-jones-oauth-resource-metadata-01 - OAuth 2.0 Protected Resource Metadata (ietf.org)](https://tools.ietf.org/html/draft-jones-oauth-resource-metadata-01)
-- On digression: [https://cloudidentity.com/blog/wp-content/uploads/2013/01/3252.image_5F00_04277494.png](https://cloudidentity.com/blog/wp-content/uploads/2013/01/3252.image_5F00_04277494.png)
-- Messy real-life situation - sign in to AAD with OIDC and WS-fed; register something at sign-in. From a user, same account, does not matter which protocol is used
-- What needs more to be discussed what log out means to the user
-- User does not understand when they log out from office, they also log out from Azure
-- Also a developer choice
-- Relevant one, but not much browsers can do about
-- If a bigger picture is browser wants to be in the middle, browser can do something in this area too.
-- Ugly part of logout - mechanisms to allow the range of services
-- IdP does not need to send back list of all RPs user is logging out from
-- Idea not entirely off for IdP to tell a browser from there it wants to log user out from
-- Browser have confident of the user intent
-- Prompt the user for the intent - never a good idea
-- Logout API that community can control a behaviour of
-- You call it, browser logs it, and tell where the user left of
-- Browser observes the login - passively. Heuristics - what if the browser has not seen it..
-- some of this is already starting to show up in chrome canarie
-- [https://chromium-review.googlesource.com/c/chromium/src/+/2837551](https://chromium-review.googlesource.com/c/chromium/src/%2B/2837551)
-- If domain name ETLD of the issuer is the same as IdP, automatically logs out
-
-* […]
-
-- Looks like we can preserve session management if we figure out logout
-- Next would be good to see pseudo code with concrete scenario and sequence diagrams
-- Pseudo text: [https://github.com/WICG/WebID/blob/main/cookies.md#logout](https://github.com/WICG/WebID/blob/main/cookies.md%23logout)
-- Prototype is being built
-- AOB? At IIW?
-- Understand what third party cookies actually mean - no cookies at all? Partition cookies going away. The way firefox is doing it?
 
 * [TMI BFF: OAuth Token Mediating and session Information Backend For Frontend](https://iiw.idcommons.net/23B/_TMI_BFF:_OAuth_Token_Mediating_and_session_Information_Backend_For_Frontend) by Vittorio Bertocci & Brian Campbell (but mostly Vittorio)
 
@@ -128,11 +82,8 @@ TMI BFF
 * [...]
 
 What is the scope - acquiring a token for direct API access, not necessarily prescriptive for BFF architectures which put all API interactions through BFF. (DW) raised issue that simply converting OAuth calls in a remote party to local API calls protected by a cookie disables some security protections provided by OAuth tokens (XSRF), so some sort of BFF best practices may be needed to prevent footguns.
-* [The State of Identity on the Web](https://medium.com/mattr-global/the-state-of-identity-on-the-web-cffc392bc7ea) Mattr
-  > This article discusses how the success of Open ID Connect shaped the state of identity on the web, how new web standards enable a new model, and describes a bridge between those worlds: [OIDC Credential provider](https://mattrglobal.github.io/oidc-client-bound-assertions-spec/).
-  > This cycle perpetuates the dominance of a few major IdPs and likewise forces users to keep choosing from the same set of options or risk losing access to all of their online accounts. In addition, many of these IdPs have leveraged their role as central intermediaries to increase surveillance and user behavior tracking, not just across their proprietary services, but across a user’s entire web experience.
-  > [...]
-  > [OIDC Credential Provider](https://mattrglobal.github.io/oidc-client-bound-assertions-spec/) allows you to extend OIDC to allow IdPs to issue reusable VCs about the end-user instead of simple identity tokens with limited functionality. It allows end-users to request credentials from an OpenID Provider and manage their own credentials in a [digital wallet](https://learn.mattr.global/concepts/digital-wallets) under their control.
+
+
 
 * OpenID: [Public Review Period for Proposed Final OpenID Connect Client-Initiated Backchannel Authentication (CIBA) Core Specification](https://openid.net/2021/06/07/public-review-period-for-proposed-final-openid-connect-client-initiated-backchannel-authentication-ciba-core-specification/)
 

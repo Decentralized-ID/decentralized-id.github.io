@@ -68,20 +68,6 @@ I've written up a layman's article (as I am not a lawyer) introducing this topic
 
 * [https://www.blockchaincommons.com/articles/Principal-Authority/](https://www.blockchaincommons.com/articles/Principal-Authority/)
 
-* [Verifiable Driver's Licenses and ISO-18013-5 (mDL)](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0105.html) Manu Sporny (Monday, 29 November)
-
-Spruce, MATTR, and Digital Bazaar have collaborated on creating an interoperability test suite for something we're calling the "Verifiable Driver's License" (temporary name):
-
-* [The test suite](http://w3id.org/vdl/interop-reports) demonstrates that a few things are possible in addition to what mDL provides:
-
-1. The mDL data model can be expressed cleanly using W3C Verifiable Credentials
-
-* ["Apple launches the first driver’s license and state ID in Wallet with Arizona”](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/0231.html) Liam McCarty (Wednesday, 23 March)
-
-It’s sad and frustrating that this isn’t based on verifiable credentials… it appears vendor lock in is going to be hard to prevent.
-
-For anyone who missed the November coverage about this, here’s a pretty outrageous CNBC article: "[Apple is sticking taxpayers with part of the bill for rollout of tech giant's digital ID card](https://www.cnbc.com/2021/11/14/apple-sticking-taxpayers-with-part-of-the-bill-for-digital-id-rollout.html)”
-
 * [On why revocation is important...](https://lists.w3.org/Archives/Public/public-credentials/2022May/0052.html) Mike Prorock (Tuesday, 24 May)
   >[https://arstechnica.com/information-technology/2022/05/digital-drivers-license-used-by-4m-australians-is-a-snap-to-forge/](https://arstechnica.com/information-technology/2022/05/digital-drivers-license-used-by-4m-australians-is-a-snap-to-forge/)
 
@@ -595,30 +581,6 @@ Proposal 3: The APIs that use OAS3.0 MUST define the use of a .well-known JSON r
 
 the fundamental issue is that stringing a bunch of consonants together ("HTTP") rarely leads to something easy to say in conversation.
 
-CHAPI
-
-* [VC-API Diagram for today. Focus on CHAPI](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0007.html)  Joe Andrieu (Tuesday, 2 November)
-
-![https://www.notion.soimages/image7.png](https://www.notion.soimages/image7.png)
-
-* [chapi.io launches, includes VC playground](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0055.html)  Manu Sporny (Monday, 27 June)
-
-TL;DR: chapi.io is a site that helps developers integrate Verifiable Credential issuance, holding, and presentation into their applications. It includes a playground that can issue arbitrary VCs to digital wallets (web and native). It also includes tutorials on how Web Developers can add CHAPI integration to their websites. All you need to try it out is a web browser.
-
-* [chapi.io playground upgrades - credential selector, resident card](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/0111.html)  Manu Sporny (Wednesday, 27 July)
-
-The credential selector is an icon-based selector for all the credentials that the chapi.io playground currently supports issuing. You can now click on an image of the credential you'd like to issue.
-
-* [...]
-
-We have added a permanent resident card from the fictitious Government of Utopia to the list of credentials that can be issued. This credential uses the Citizenship Vocabulary[...]
-
-* [You can try both of these new features out in the playground](https://playground.chapi.io/issuer)
-
-* [Jobs For The Future VC added to chapi.io playground](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/0031.html)  Manu Sporny (Wednesday, 13 July)
-
-TL;DR: In an attempt to support the current Jobs for the Future Plugfest, an Open Badge v3.0 example for an Academic Achievement has been added to the chapi.io playground. You can now see what a JFF badge issuance and transfer to a Holder wallet looks like in CHAPI (on mobile and web, on any device that can run a web browser). Images of the flow are attached.
-
 ## Crypto
 
 * [FYI: Cryptography Review and Recommendations for W3C VC and W3C DID Implementations by SRI International](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0209.html)  John, Anil (Wednesday, 26 January)
@@ -812,11 +774,6 @@ The reason I asked them was in relation to the questions we have discussed regar
 
 Clearly GNAP can replace OAuth, but I think you both have now confirmed that GNAP does not replace OIDC, or federated identity...
 
-* [XMSS: Generating usable test vectors for JOSE and COSE](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0007.html)  Orie Steele (Sunday, 3 April)
-
-We've been working on generating test vectors for: [https://datatracker.ietf.org/doc/html/rfc8391](https://datatracker.ietf.org/doc/html/rfc8391) $1$2
-
-That we could use to register the `kty` and `alg` for XMSS such that it could be used by JOSE and COSE.
 
 * [https://github.com/transmute-industries/xmss](https://github.com/transmute-industries/xmss)
 

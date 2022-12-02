@@ -18,7 +18,7 @@ W3C Web Authentication (FIDO2) provides a mechanism for strong authentication wh
 
 Prof. David Chadwick presented work on sharing W3C Verifiable Crendentials via FIDO2 key setup with issuers of credentials.  In a nutshell, the holder and issuer use the WebAuthN protocol to strongly authenticate before the issuer protects the credentials with its signature.  Upon providing credentials to a relying party, the issuer (acting in an IDP capacity, so they must be online) will verify the identity of the holder via FIDO2 WebAuthN so that the credentials (or selected claims in the credentials for selective disclosure) can be shared with the relying party.  Ephemeral keys are created to bind the holder with such credentials shared to the relying party/verifier.  The relying party/verifier can use X.509 certs to confirm that the issuer is valid by checking the signature on the derived credential from the holder.
 
-* [Use-cases: OIDC for Verifiable Credentials - How do you want to use Identity Provider you control?](https://iiw.idcommons.net/12G/_Use-cases:_OIDC_for_Verifiable_Credentials_-_How_do_you_want_to_use_Identity_Provider_you_control%253F) by Oliver Terbu, Torsten Lodderstedt, Kristina Yasuda, Adam Lemmon, Tobias Looker
+
 
 * [SIOP Use-cases - IIW Spring 2021](https://docs.google.com/presentation/d/1a0C4HvVYwwwDqSw3tgPNhy9Iqyufy9oZdnMgl7rQ9Vc/edit%23slide%3Did.p)
 

@@ -7,6 +7,10 @@ published: false
 * [KERI Q&A basic introduction](https://iiw.idcommons.net/3K/_KERI_Q%2526A_basic_introduction) by Henk van Cann
 
 This the link to the 20 minute introductory presentation in pdf:
+- [decentralized-identity/keriox](https://github.com/decentralized-identity/keriox) github -  Rust Implementation of the KERI Core Library 
+
+* [Rust KERI implementation](https://github.com/decentralized-identity/keriox/) Jolocom
+> We at Jolocom strongly believe that DIDComm is a crucial infrastructure element for the broader and future-proof SSI stack, and current work on [DIDComm v2](https://identity.foundation/didcomm-messaging/spec/)  includes Jolocom’s implementation of the specification with authcrypt (authenticated encrypted) and most of the low level of the protocol.
 
 * [https://blockchainbird.org/downloads/KERI-QA-introduction.pdf](https://blockchainbird.org/downloads/KERI-QA-introduction.pdf)
 

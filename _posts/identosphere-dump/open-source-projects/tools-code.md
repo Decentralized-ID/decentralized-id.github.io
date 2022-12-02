@@ -22,9 +22,6 @@ published: false
 - Compatibility with a unified platform where the user can control their identity and information, the RIF Identity Manager.
 * [What is the VC-Generator App and How to Leverage it?](https://academy.affinidi.com/what-is-the-vc-generator-app-and-how-to-leverage-it-4fa5a54844f2)
   > In simple terms, the VC-Generator allows you to choose a credential type that needs to be issued or verified from a drop-down list and displays the associated VC schema.
-* [CREATE AN OIDC CREDENTIAL ISSUER WITH MATTR AND ASP.NET CORE](https://damienbod.com/2021/05/03/create-an-oidc-credential-issuer-with-mattr-and-asp-net-core/)
-
-This article shows how to create and issue verifiable credentials using [MATTR](https://mattr.global/) and an [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core). The ASP.NET Core application allows an admin user to create an OIDC credential issuer using the MATTR service. The credentials are displayed in an ASP.NET Core Razor Page web UI as a QR code for the users of the application.
 
 Code: [https://github.com/swiss-ssi-group/MattrGlobalAspNetCore](https://github.com/swiss-ssi-group/MattrGlobalAspNetCore)
 * [Present and and Verify Verifiable Credentials in ASP.NET Core Using Decentralized Identities and Mattr](https://damienbod.com/2021/05/10/present-and-verify-verifiable-credentials-in-asp-net-core-using-decentralized-identities-and-mattr/)
@@ -103,9 +100,8 @@ Peers would still use their peer ID for [libp2p](https://libp2p.io/) routing an
 * [Introducing New Tools for Creators to Build Trusted Communities](https://www.civic.com/blog/introducing-new-tools-for-creators-to-build-trusted-communities/) CIVIC
 
 Our goal is to make the process of building trust easier and more effective for creators. With that in mind, we’re sharing an overview of our plan to address the pain points of creators and marketplaces in the NFT space using identity tools.
-* [Use CodeB SSI as OpenID Connect Identity Provider for WordPress](https://blog.codeb.io/use-codeb-ssi-as-oidc-identity-provider-for-wordpress/) CodeB
 
-The Self-Sovereign Identity System of CodeB does not only support W3C DID’s but comes also with an inbuilt OpenID Connect (OIDC) Identity Provider. [OpenID Connect meets distributed Self-Sovereign Identities.](https://www.codeb.io/openid-connect-meets-distributed-self-sovereign-identities/)
+
 
 * [An authentication system built with Ceramic & self.id](https://github.com/dabit3/decentralized-identity-example) dabit3
 
@@ -255,8 +251,6 @@ This is so exciting to see what Wayne and his team are building.
   > DID:Key, originally specified in the W3C Credentials Community Group (CCG), is a DID “pseudo-method” that allows static, pre-existing, and/or pre-published public keys to function like traditional DIDs — they can be queried, stored, issued against, and resolved to return valid DID documents.
 * [DIDKit v0.1 is Live.](https://sprucesystems.medium.com/didkit-v0-1-is-live-d0ea6638dbc9)
   > Most other options are subtly locked to a specific blockchain and its particularities, which a self-sovereign identity (SSI) novice is unlikely to notice until months into a project based on it. A few open-source libraries exist to sidestep this infrastructural lock-in, but these are more like primitives for assembling an SSI toolkit than ready-to-go, developer-friendly libraries. DIDKit, on the other hand, is ready to start processing real-world VCs with non-repudiable signatures right out the box.
-* [Rust KERI implementation](https://github.com/decentralized-identity/keriox/) Jolocom
-> We at Jolocom strongly believe that DIDComm is a crucial infrastructure element for the broader and future-proof SSI stack, and current work on [DIDComm v2](https://identity.foundation/didcomm-messaging/spec/)  includes Jolocom’s implementation of the specification with authcrypt (authenticated encrypted) and most of the low level of the protocol.
 
 * [Aries Mobile Agent SDK for Google Flutter](https://ayanworks.medium.com/announcing-arnima-fl-open-source-aries-flutter-mobile-agent-sdk-d3483744ffc8)
   > Exactly a year ago in Jan 2020, we announced ARNIMA — first ever Aries React Native Mobile Agent SDK that we made open source for the Self-Sovereign Identity ecosystem.
@@ -385,9 +379,7 @@ Rooted in a “trust but verify” mindset, several Canadian public sector entit
 
 ► [Credentials as a Service Providing Self Sovereign Identity as a Cloud Service Using Trusted Execution Environments](https://ieeexplore.ieee.org/document/9610297)
 
-* [Spruce Developer Update #20](https://blog.spruceid.com/spruce-developer-update-20/)
 
-We've set up a [release pipeline](https://github.com/spruceid/ens-oidc/) and had our first witnessed deployment for the ENS Community-Maintained OIDC IdP ([more info here](https://blog.spruceid.com/sign-in-with-ethereum-decentralizing-an-identity-provider-server/)
 
 Updates on Kepler including implementing support for [CACAO-ZCAPs](https://github.com/spruceid/cacao-zcap), improved the `put` function to make it easier to store objects of different types, and added support for listing objects by prefix: [kepler-sdk#40](https://github.com/spruceid/kepler-sdk/pull/40) [kepler#115](https://github.com/spruceid/kepler/pull/115).
 

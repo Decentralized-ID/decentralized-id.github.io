@@ -591,6 +591,7 @@ In making the code widely accessible, Ontology is accelerating the adoption of d
 
 This report discusses what the identity verification related requirements for the creation and management of agri-food products (or items) unique identifiers to enable provenance tracking, ensure traceability, facilitate agri-food data integration, enhance governance, protect privacy and confidentiality, inform policies, and improve communications.
 
+
 * [ISO/IEC 18013-5 vs Self-Sovereign Identity: A proposal for an mDL Verifiable Credential](https://www.procivis.ch/post/iso-iec-18013-5-vs-self-sovereign-identity-a-proposal-for-an-mdl-verifiable-credential) Procivis
 
 in the context of government identity programs we see it as useful to compare them on the following parameters – background, credential data model & trust anchor and transmission protocols.

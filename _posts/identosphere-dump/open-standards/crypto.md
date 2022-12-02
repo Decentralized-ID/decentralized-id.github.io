@@ -68,3 +68,13 @@ This development is possible due to the fact that BBS+ signatures is a ledger-in
 > 2. It made it possible to store a cred def somewhere other than a ledger
 > I was very happy about this.
 > However, I have since heard several smart people summarize the breakthrough as: "We don't need credential definitions at all. You just use the assertionMethod key in your DID doc to sign credentials, and that's all you need." I believe this is oversimplifying in a way that loses something important, so I wanted to open a conversation
+
+## Jose-Cose
+
+* [Two new COSE- and JOSE-related Internet Drafts with Tobias Looker](https://self-issued.info/?p%3D2260) Mike Jones
+  > This week, [Tobias Looker](https://twitter.com/tplooker) and I submitted two individual Internet Drafts for consideration by the [COSE working group](https://datatracker.ietf.org/wg/cose/about/).
+* [XMSS: Generating usable test vectors for JOSE and COSE](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0007.html)  Orie Steele (Sunday, 3 April)
+
+We've been working on generating test vectors for: [https://datatracker.ietf.org/doc/html/rfc8391](https://datatracker.ietf.org/doc/html/rfc8391) $1$2
+
+That we could use to register the `kty` and `alg` for XMSS such that it could be used by JOSE and COSE.

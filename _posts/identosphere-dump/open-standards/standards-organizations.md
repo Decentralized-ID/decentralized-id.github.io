@@ -4,26 +4,9 @@ published: false
 
 # Standards Bodies
 
-* [Manifesto: Rules for standards-makers](http://scripting.com/2017/05/09/rulesForStandardsmakers.html)
-  > I've used all kinds of formats and protocols in a long career as a software developer, even created a few. My new manifesto summarizes what I've learned about what works and what doesn't.
 
 * [Decentralized Profiles group Nov 25th call](https://blog.ceramic.network/dprofiles-call-3/)
 Every 6 weeks the at Ceramic meets
-* [Ethereum OASIS Receives $100K for Baseline Protocol Projects](https://www.oasis-open.org/2021/03/10/ethereum-oasis-receives-100k-incentive-funding-for-baseline-protocol-projects/)
-
-Today, the 
-[Baseline Protocol](https://www.baseline-protocol.org/), part of the Ethereum OASIS Open Project and in partnership with 
-[Open Source Collective](http://opencollective.com/opensource), announced that it has received a grant of $100,000 from the 
-[Ethereum Foundation](https://ethereum.foundation/) to be used for the purpose of encouraging and accelerating baseline protocol R&D and enablement efforts. This comes on the first anniversary of the community’s formation.
-* [DIF SDS/CS WG: CS Refactoring Proposal 0.2](https://hyperonomy.com/2021/03/28/cs-refactoring-proposal/) Hyperonomy
-
-1. Latest Version of the Proposal (0.2 – March 24, 2021)
-2. Agent-Hub-EDV Architecture Reference Model (AHE-ARM) 0.1
-3. Transcription of Selected Parts of the DIF SDS/CS March 11, 2021 Zoom Call
-4. OSI Stack Proposal for Confidential Storage Specification
-
-Based on the March 11 Zoom discussion where we worked hard to discern the differences between Agents, Hubs, and EDVs (and I believe were largely successful IMO), I’ve like to propose to the SDS/CS WG that we refactor the current Confidential Storage specification into 3 separable parts/specifications.  I also present a high-level roadmap (simple ordering) for how the WG might proceed if this refactoring is accepted (or at least, if the first part/first new specification is accepted).
-
 * [Digital Identity in response to COVID-19: DGX Digital Identity Working Group](https://www.tech.gov.sg/files/media/corporate-publications/FY2021/dgx_2021_digital_identity_in_response_to_covid-19.pdf)
 * [Digital Identity Attestation Roundup - Open Source Security Foundation](https://openssf.org/blog/2021/01/27/digital-identity-attestation-roundup/%23)
 
@@ -58,9 +41,12 @@ There has been an explosion of interest in using NFT for identity, along with ex
 
 ((Evin seems really cool -kaliya))
 
-Past Working Group Calls of Interest
 
-A couple weeks ago Amber Case came and spoke about “[Calm Technology](https://www.youtube.com/watch?v%3DNgyfa4_NuPI)” at the TOIP Human Experience Working Group ([HXWG](https://wiki.trustoverip.org/display/HOME/Human%2BExperience%2BWorking%2BGroup)
+
+
+* [DIF Steering Committee Election Results 2022](https://blog.identity.foundation/sc-election-2022-results/)
+
+SC Election results: DIF welcomes new SC members Sam Curren, Daniel Buchner, Karyl Fowler, Rouven Heck, Markus Sabadello & Kaliya Young!
 
 Michale Herman [is excited](https://twitter.com/mwherman2000/status/1511550968617263114) about the new  #VCA (Verifiable Credential Authorization) using the new #VCTPS (Secure Verifiable Credential Transport Protocol) over #DIDCOMM
 
@@ -109,30 +95,5 @@ The Chain Agnostic Standards Alliance (CASA) is a collection of working groups d
 
 * [Secure Data Storage](https://identity.foundation/working-groups/secure-data-storage.html)
 
-- [User Controlled Authorization Network](https://github.com/ucan-wg/spec/) model and how it contrasts with decentralized approaches
-- APAC/ASEAN Community Call now a colloaborative initative between DIF and ToIP, launched Thursday 26th May 2022, kicking off with an IIW34 recap. ([Recording](https://us02web.zoom.us/rec/share/5FW6hVoZc1kVJiFL4NNCRZg7625h-1UsC1xCY8Mb7cLXQpO2yDW566woLoA5IZA.MUVPrrNr_k3PXxDl)
-* [DIF Steering Committee Election Results 2022](https://blog.identity.foundation/sc-election-2022-results/)
-
-SC Election results: DIF welcomes new SC members Sam Curren, Daniel Buchner, Karyl Fowler, Rouven Heck, Markus Sabadello & Kaliya Young!
 
 
-* [Announcing the Artificial Intelligence and Metaverse Technology Task Force](https://trustoverip.org/blog/2022/07/20/announcing-artificial-intelligence-metaverse-technology-task-force/)
-
-Three new TOIP Task Forces
-
-The ToIP Technology Stack Working group is starting an - [Artificial Intelligence and the Metaverse (AIM) Task Force](https://trustoverip.org/blog/2022/07/20/announcing-artificial-intelligence-metaverse-technology-task-force/)
-
-More details are available at [AI & Metaverse Technology Task Force – Home – Confluence (trustoverip.org)](https://wiki.trustoverip.org/pages/viewpage.action?pageId%3D19657312) (next meeting [8/4](https://wiki.trustoverip.org/display/HOME/Calendar%2Bof%2BToIP%2BMeetings))
-
-The ToIP Governance Stack Working group is starting a - Governance Architecture Task Force
-
-After the original development of the [ToIP Governance Architecture Specification](https://trustoverip.org/permalink/ToIP-Governance-Architecture-Specification-V1.0-2021-12-21.pdf) and ToIP [Governance Metamodel Specification](https://trustoverip.org/permalink/ToIP-Governance-Metamodel-Specification-V1.0-2021-12-21.pdf), the plan had been to start creating layer-specific templates.  However the Governance Layer TF, led by Alex Tweeddale, Carly Huitema, and Kyle Robinson—with input from Stephen Curran— concluded that component-based templates made more sense. Thus the new Governance Architecture TF will launch based on the components in the ToIP Tech Architecture Stack
-
-The ToIP Concepts and Terminology Working group is proposing starting a - Mental Models Task Force
-
-- Mental models explain in detail how a set of concepts are related within a specific domain—a “mini-ontology”
-- They are usually documented both in writing and in UML diagrams
-- They add much greater depth and cross-conceptual understanding than glossaries alone
-- The CTWG is proposing to start up a new Mental Models Task Force in September if there is sufficient interest
-
-If you are interested Ping the ToIP Slack channel: #concepts-terminology-wg or email Judith@trustoverip.org
