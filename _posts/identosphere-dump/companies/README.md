@@ -81,3 +81,24 @@ Gimly ID is leading self-sovereign identity innovation, with the implementation 
 
 * [SSI with OpenID authentication](https://www.loom.com/share/d49e005bb32349d7950022e83d55b944) Gimly ID
 
+## Indicio
+
+* [Indicio launches blockchain-enabled network for identity](https://indicio.tech/blog/indicio-launches-blockchain-enabled-network-for-identity/)
+  > “Our clients asked for a stable, fully-staffed network based on Hyperledger Indy— one that could provide the  Service Level Agreements their customers need for mission-critical workloads,” said Heather Dahl, CEO of Indicio. “Today, we are excited to announce that this MainNet is open for business.”
+  > 
+  > “This is the network we need to accelerate adoption of passwordless zero trust ecosystems for enterprise customers” said Mike Vesey, President of [IdRamp](https://idramp.com), a leader in decentralized identity and a Genesis Node Operator on the Network.
+* [Panel: Start Simple to Scale Decentralized Identity](https://hgf2021.sched.com/event/j3ej%23new_tab) HGF2021 • Indicio
+  > Liquid Avatar Technologies and Indicio.tech will share how together they are transitioning the current KABN ID solution to verifiable credentials by building the Liquid Avatar Verifiable Credentials Ecosystem utilizing Hyperledger Aries, Ursa, and Indy.
+* [Become a Node Operator](https://indicio.tech/blog/be-a-part-of-the-most-dynamic-network-community-in-decentralized-identity/) Indicio
+  > we’ve seen a rapid rise in demand for robust, stable, and professionally maintained networks to support decentralized identity solutions. It’s not a surprise: decentralized identity’s moment has arrived. That’s why we’ve been hard at work creating Hyperledger Indy networks upon which developers all over the world are building, testing, and launching their solutions.
+* [Indicio completes Hyperledger Indy DID Method—A Milestone in the Evolution of DID Interop](https://indicio.tech/indicio-completes-hyperledger-indy-did-method-a-milestone-in-the-evolution-of-decentralized-identity-network-interoperability/)
+
+The Indy DID Method paves the way for Hyperledger Indy credentials to scale globally by allowing Indy networks to seamlessly interoperate and create a “network-of-networks” effect.
+
+
+## Identos
+
+* [Identos builds Verifiable Credentials into updated federated digital ID API](https://www.biometricupdate.com/202209/identos-builds-verifiable-credentials-into-updated-federated-digital-id-api) Biometric Update
+
+The new FPX Junction cloud software suite is designed for fine-grained API authorization and user-centric digital identity management. The digital wallet and user-managed access 2.0 authorization server work together to enable single-sign on federation. An optional user interface SDK for the digital wallet provides native mobile and web support.
+

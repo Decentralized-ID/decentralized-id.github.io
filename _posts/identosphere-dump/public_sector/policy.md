@@ -51,16 +51,6 @@ On March 24th, 2022, [the European Parliament and Council reached an agreement o
 
 Canada
 
-* [Request for Comment & IPR Review: PCTF Digital Wallet Draft Recommendation V1.0](https://diacc.ca/2022/04/10/digital-wallet-draft-recommendation-v1-0/)
-
-a framework that Digital Identity Ecosystem Participants can use to assess the degree to which the digital wallets that are part of their respective ecosystems accomplish the following:
-
-1. Provide Citizens and Consumers with a Digital Identity Wallet that complies with the human rights principles of preserving people’s privacy and control over their information.
-2. Introduces a consistent identity metaphor and consent-driven automated experience across all Ecosystem Participants to reduce impact on users caused by Digital Transformation.
-3. Contribute to a stable infrastructure with longevity and world-wide interoperability by adopting and supporting relevant standards as appropriate (e.g., W3C Standards for Verifiable Credentials and DIDs).
-4. Counter cyber vulnerability and extortion by enabling Service Providers to incrementally replace existing login mechanisms, some of which may be exploitable, without suffering negative impact to business.
-5. Establish an environment of trust within which the wallet’s owner can interact with other Ecosystem Participants such as Issuers, Verifiers, and other Relying Parties.
-
 * [Digital Identity and Attributes Trust Framework](https://stateofidentity.libsyn.com/digital-identity-and-attributes-trust-framework) State of Identity
 
 Do you trust technology and government to protect your data? On this week's State of Identity podcast, host, Cameron D'Ambrosi is joined by Gareth Narinesingh, Head of Digital Identity at HooYu to discuss the bridge between payments and identity wallets, the UK's next big push in adopting shared identity standards, and the foundation of decentralized identity verification across Web3 applications and the metaverse.

@@ -38,9 +38,6 @@ Omidyar Network:
 The GLEIF introduce the vLEI
 
 Taking the LEI one step further from entity identification to individuals is a huge development for the digital identity industry and one that has been supported [by our partners at RapidLEI](https://rapidlei.com/vlei/). We wrote a full blog on the story to [explain why vLEIs are important](https://managedlei.com/blog/what-is-vlei-and-what-problems-does-it-solve/) and how we expect they can add value to the industry with some solid examples such as mobile driving licenses and healthcare service delivery.
-* [FIDO Alliance Supports Biden Administration EO on Cybersecurity](https://fidoalliance.org/fido-alliance-supports-biden-administration-eo-on-cybersecurity/)
-
-There have been a number of high profile attacks against critical American infrastructure in recent months, including the Solarwinds supply chain attack that exposed much of the government to potential risk. Top of mind in recent days is the ransomware attack against Colonial Pipeline, which significantly impacted the flow of refined oil across America. These attacks expose the vulnerability of critical infrastructure in the United States, and the Biden Administration is issuing federal directives that will minimize or eliminate risk.
 * [Connecting Citizens and Government for Better Designed Services](https://medium.com/mydex/connecting-citizens-and-government-for-better-designed-services-9b58205185ce) MyData
 
 Our vision for [Inclued](https://mydex.org/platform-services/) is for it to become the de facto choice for two-way, secure citizen engagement that empowers citizens to not only access services but influence what is delivered to them, while giving governments and citizens insight and evidence into the value and impact of working with, not for citizens.
@@ -508,26 +505,8 @@ The concept of digital identification is already well established, and using a s
 
 We at Validated ID have been betting on EBSI since the beginning. We started working to become conformant wallet providers since the very first version of [Wallet Conformance Tests (WCT)](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/EBSI%2Bwallets) was published. The process of preparing our solution to become conformant has allowed us to appreciate how remarkable EBSI's work has been.
 
-Canadian Digital Identity
 
-* [Budget 2022 investments for](https://diacc.ca/2022/04/07/2022-budget-statement/) [digital transformation](https://diacc.ca/2022/04/07/2022-budget-statement/) [and Canadian innovation](https://diacc.ca/2022/04/07/2022-budget-statement/) DIACC
-
-Today’s budget announcement keeps the importance of secure and privacy protecting digital ID in our windows and more work needs to be done to develop this path based on citizen consent, control, and trust. We look forward to collaborating with the government on consultations to support these imperative next steps while finding ways to combat misinformation that surrounds it.
-
-* [Report on the Adequacy of Identity Governance Transparency – DIACC Special Group Insights](https://diacc.ca/2022/03/31/adequacy-of-identity-governance-transparency/)
-
-* [This report](https://diacc.ca/wp-content/uploads/2022/03/Report-on-the-Adequacy-of-Identity-Goverance-Transparency.pdf) looks at Transborder use of digital identity in the context of international transfer, control, and access to private/personal data between Canada and the European Union. In particular, it looks at such data transfer considering the obligation to inform individuals during data processing and investigate into the adequacy of transparency and notice for international data transfer.
-
-* [Canadians Want user-centric Digital ID aligned with their values](https://diacc.ca/2022/04/04/privacy-security-and-choice-drive-canadians-desire-for-digital-id/) DIACC Research
-
-* [2021 Research Report](https://diacc.ca/wp-content/uploads/2022/04/DIACC-2021-Research-Report-ENG.pdf) • [Multi-page Synopsis](https://diacc.ca/wp-content/uploads/2022/04/DIACC-2021-Research-Reppor-Multi-ENG.pdf) • [One-page Synopsis](https://diacc.ca/wp-content/uploads/2022/04/DIACC-2021-Research-Report-One-Page-ENG.pdf)
-
-Establishing a trusted digital ID will allow people and organizations the choice to verify themselves online securely, while protecting personal information with no user traceability. It offers a decentralized, privacy-enhancing solution for both the private and public sectors.
-
-* [Canadian Provincial Party Pushes Back Against Biometric Digital ID Plan](https://findbiometrics.com/canadian-provincial-party-pushes-back-against-biometric-digital-id-plan-040705/)
-
-Sloan invoked the specter of China while discussing the petition, suggesting that any digital identity program would be akin to a [social credit program](https://findbiometrics.com/china-jaywalkers-biometric-surveillance-503275/) that gives the government too much control over the personal lives of its citizens.
-New Zealand
+## New Zealand
 
 * [INCLUSIVE AND ETHICAL USES OF DIGITAL IDENTITY](https://digitalidentity.nz/inclusive-and-ethical-uses-of-digital-identity/) DINZ
 

@@ -78,7 +78,6 @@ Then run [https://github.com/solid/community-server](https://github.com/solid/co
 
 a simple mechanism to provide public information concerning an entity by advertising a public profile service in the DID document of a public DID. A good analogy for this public identity information would be a machine-readable and cryptographically-verifiable imprint.
 
-* [Wrapping Indy Credentials (AnonCreds) in W3C VCs](https://hackmd.io/S6e2MeSWTICnV9lD9OukKg)
 
 * [https://www.gaia-x.eu/pdf/Gaia-X_Architecture_Document_2103.pdf](https://www.gaia-x.eu/pdf/Gaia-X_Architecture_Document_2103.pdf)
 

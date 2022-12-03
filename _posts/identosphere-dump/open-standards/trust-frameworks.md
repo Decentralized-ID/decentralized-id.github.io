@@ -91,3 +91,6 @@ It’s a great pleasure to share with you DINZ Reflections Report, a seminal pie
   > 
   > “a document that provides a set of agreed-upon rules, guidelines or characteristics for activities or their results. Standards establish accepted practices, technical requirements, and terminologies for diverse fields.”  He goes on to highlight a lot of the work being done in Canada and where it all sits relative to being a standard - “In closing, there are lots of trust frameworks being developed today. But to be truly trusted, a trust framework needs to either apply existing standards or become a standard itself.”
 
+* [Pan-Canadian Trust Framework (PCTF) – Overview](https://northernblock.io/pan-canadian-trust-framework/)
+
+Right now, we are alpha testing the framework with different kinds of actors, both public and private, and with assessors. Through this process, we’re going to learn what may need to change, and what may not need to change. We’re going to get real knowledge there. I will say that what we’re seeing already, is that DIACC and our priorities are really driven by members.

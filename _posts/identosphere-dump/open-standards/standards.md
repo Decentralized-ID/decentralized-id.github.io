@@ -161,16 +161,6 @@ The [W3C WebAuthn](https://www.w3.org/blog/webauthn/) and [FIDO2](https://fidoal
 SDTT is a tool from Google which began life as the [Rich Snippets Testing Tool](https://developers.google.com/search/blog/2010/09/rich-snippets-testing-tool-improvements) back in 2010. Last year Google [announced plans](https://developers.google.com/search/blog/2020/07/rich-results-test-out-of-beta) to migrate from SDTT to successor tooling, the [Rich Results Test](https://search.google.com/test/rich-results), alongside plans to "deprecate the Structured Data Testing Tool". The newer Google tooling is focused on helping publishers who are targeting specific schema.org-powered [searc](https://developers.google.com/search/docs/guides/search-gallery)[h features](https://www.blogger.com/) offered by Google, and for these purposes is a huge improvement as it contextualizes many warnings and errors to a specific target application.
 
 ## Standards
-* [Do I Need a Verifiable Credential?](https://community.rsa.com/t5/rsa-labs-blog/do-i-need-a-verifiable-credential/ba-p/610241)
-* [What is a DID? Part 1](https://www.youtube.com/watch?v%3DOYYtxVEra1c) XSL Labs
-* [Qu’est-ce qu’un DID? Partie 1](https://www.youtube.com/watch?v%3DVNLKufTDM4o) XSL Labs
-* [Verifiable Claim Protocol](https://github.com/ontio/ontology-DID/blob/master/docs/en/claim_spec.md) Ontology
-
-This isn’t new, but it’s new to us, and thought our readers might appreciate it, in case you have also wondered about the nuts and bolts behind OntID
-
-* [Open Badges as Verifiable Credentials](https://kayaelle.medium.com/in-the-w3c-vc-edu-call-on-june7-2021-we-discussed-open-badges-asserted-as-w3c-verifiable-90391cb9a7b7)
-
-In the [W3C VC-EDU](https://w3c-ccg.github.io/vc-ed/) call on June 7, 2021 we discussed [Open Badges](https://openbadges.org/) asserted as [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) (VCs). This call began the public discussion of Open Badges as Native VCs (potentially as Open Badges 3.0) to inform the IMS Open Badges Working Group. Why are we discussing this? Why does it matter? How will it work?
 
 * [ToIP Primer](https://trustoverip.org/wp-content/uploads/sites/98/2020/05/toip_050520_primer.pdf)
 
@@ -200,13 +190,7 @@ Strongly-typed Code to Generate Bob’s UDID Document
 * [Schema.org is ten!](http://blog.schema.org/2021/06/schemaorg-is-ten.html)
 
 Schema.org was founded on the idea of making it easier and simpler for the ordinary, everyday sites that make up the web to use machine-readable data, and for that data to enable an ecosystem of applications used by millions of people. While it's hard to predict exactly what the next decade will bring, if we can all keep these founding concerns in mind as we improve, refine and curate our growing collection of schemas, we'll be doing our part to continue improving the web.
-* [DIF Grant #1: JWS Test Suite](https://blog.identity.foundation/dif-grant-1-jws-test-suite/)
 
-DIF announces its first community microgrant, sponsored by Microsoft and rewarding the timely creation of a comprehensive test suite for detached-JWS signatures on Verifiable Credentials
-
-* [How a combination of Federated identity and Verifiable Credentials can help with Customer onboarding](https://pranavkirtani.medium.com/how-a-combination-of-federated-identity-and-verifiable-credentials-can-help-with-customer-7e6518feb018) Pranav Kirtani
-
-Before we dive into how Federated systems like OIDC and SAML along with Verifiable Credentials (VC) can help improve customer onboarding to your application, let us first understand what are the current methods being used for onboarding.
 * [Reflections from Identiverse: Identity Security Threats & Trends](https://www.secureauth.com/blog/reflections-from-identiverse-identity-security-threats-and-trends/) SecureAuth
 
 talks like [“Simplify Your Least-Privilege Journey with Access Analysis”](https://identiverse.com/idv2021/session/SESCI5F77RW8COIGZ/) and [“Managing and governing workload identities”](https://identiverse.com/idv2021/session/SESTZ5WNB1OMKD9EV/) definitively provide greater insight. [...] UberEther showed in [“User Behavior Analytics: Marrying Identity and the SOC Like Peanut Butter and Jelly”](https://pheedloop.com/identiverse2021/virtual/?page%3Dsessions%26section%3DSESKWZML7NBJX42P3) how UBA (User Behavior Analytics) and UEBA (User Events Behavior Analysis) deliver additional value to help avoid threats in real-time and provide visibility to analysts.
@@ -216,9 +200,6 @@ talks like [“Simplify Your Least-Privilege Journey with Access Analysis”](h
 our latest series examining the evolution of digital identity, and how self-sovereign identity, specifically, can advance a consent-based economy.
 
 
-* [DIF Grant #1: JWS Test Suite](https://medium.com/decentralized-identity/dif-grant-1-jws-test-suite-a26cc4a95540)
-
-The Claims and Credentials Working Group will be overseeing a new work item open to all DIF members that creates and harden a JWS test suite, with this grant funding a lead editor to drive the work and keep it to a pre-determined timeline, paid upon stable and complete release.
 
 * [Shared Signals: An Open Standard for Webhooks](https://openid.net/2021/08/24/shared-signals-an-open-standard-for-webhooks/) OpenID
 
@@ -245,9 +226,6 @@ Since February he has also been the informal chair of the [Hospitality and Trav
 
 Already used throughout web3, this is an effort to standardize the method with best practices and to make it easier for web2 services to adopt it.
 
-* [Decentralized Identity: Why Are DIDs The Future of Digital Identity Management?](https://elastos.info/decentralized-identity-dids/)
-
-Why would you have 75 logins when you could have 1?
 
 * [WAYF certificeret efter ISO 27001](https://www.wayf.dk/en/node/317)
 
@@ -274,9 +252,7 @@ I’ve defined an Authentication Method Reference (AMR) value called “pop” t
 
 If you are a developer and want to write a DApp [...] you probably are using API-Keys in your front-end. If this is the case, then you should consider the security risk the publication of the API-Key in your front end represents and ask yourself if it would make sense to switch to a user authentication scheme.
 
-* [A DIF & TOIP Joint Statement of Support for the Decentralized Identifiers (DIDS) V1.0 Specification Becoming A W3C Specification](https://trustoverip.org/blog/2021/10/29/a-dif-toip-joint-statement-of-support-for-the-decentralized-identifiers-dids-v1-0-specification-becoming-a-w3c-standard/).
 
-DIDs are a critical part of a technical foundation for the products and activities of many of our members. Many of the implementations in the [DID Working Group’s implementation report](https://w3c.github.io/did-test-suite/%23report-by-methods) were developed by engineers and companies who collaborate openly at DIF on points of technical interoperability, and at ToIP on points of policy and governance.
 
 * [Keep Badges Weird…](https://blog.weareopen.coop/keep-badges-weird-e26a1b055ff5) at the Badge Summit
 
@@ -290,19 +266,12 @@ Considering that the group has accomplished these goals, there is currently no m
 In a sense, this recommendation is a kind of abbreviation of the key things that our specifications test for. And you’ll be able to see that soon as the Me2B Safe Website Specification for Respectful Technology is currently in the membership review stage of the approval process.
 
 
-* [Indicio’s support for the W3C DID Specification and its path to standardization](https://indicio.tech/indicios-support-for-the-w3c-did-specification-and-its-path-to-standardization/)
-
-The position of Indicio is that the DID Specification is of signal importance to creating a better digital world. We recognize that, as with any specification, improvements can and will be made in the future; but we back its recommendations and its approval.
-
 * [Discover Open Badges 3.0!](https://app.participate.com/communities/keep-badges-weird/62003f3f-a7ba-4f6a-990a-64d6f893016d/announcements/0bc15852-0f91-48c8-a7ca-478b246b553c) Keep Badges Weird
 
 1. Check out the (accepted) [Open Badges 3.0 proposal](https://github.com/IMSGlobal/openbadges-specification/files/6977048/Proposal-Open-Badges-3.0-update-08-11-2021.pdf)​
 2. ​[Watch a video](https://www.youtube.com/watch?v%3DQDGPwR1F3FY%26t%3D1357s) from the ePIC conference giving an overview of what Open Badges 3.0 will enable (or view the [slide deck](https://docs.google.com/presentation/d/1NEJoQaI9b6KC1EFDDhR3MGybGVoa0R3bQh0xuKtUKkY)
 3. Discuss what this means for you, your organisation, or your community in [this thread](https://app.participate.com/discussions/open-badges-3-0/68917656-db8f-4932-88fd-153fdb54e285)​
 
-* [Link your domain to your Decentralized Identifier (DID) (preview)](https://docs.microsoft.com/en-us/azure/active-directory/verifiable-credentials/how-to-dnsbind)
-
-We make a link between a domain and a DID by implementing an open standard written by the Decentralized Identity Foundation called [Well-Known DID configuration](https://identity.foundation/.well-known/resources/did-configuration/). The verifiable credentials service in Azure Active Directory (Azure AD) helps your organization make the link between the DID and domain by including the domain information that you provided in your DID, and generating the well-known config file:
 
 * [Reflecting on the Evolving Badges and Credentials Ecosystem](https://blog.weareopen.coop/reflecting-on-the-evolving-badges-and-credentials-ecosystem-6efac4d673d3)
 
@@ -334,23 +303,6 @@ What already exists, more recently: [fine-grained permissions 1](https://blog.oc
 1. Marketplace-level fine-grained permissions for browsing, publishing, etc within a marketplace frontend
 2. Asset-level fine-grained permissions on consuming the asset itself
 
-* [ENS names are Decentralized Identifiers (DIDs)](https://medium.com/uport/ens-names-are-decentralized-identifiers-dids-724f0c317e4b) uPort
-
-- did:ens:mainnet:vitalik.eth
-
-This has two purposes:
-
-1. to wrap existing ENS names as DIDs to facilitate interoperability of emerging technologies in the Decentralized Identity and Ethereum community,
-2. to define a canonical way to augment ENS names with DID capabilities (e.g., encryption) as mentioned above.
-
-* [Community Resources - DID Primer](https://w3c-ccg.github.io/did-primer/) Credentials Community Group
-
-At a superficial level, a decentralized identifier (DID) is simply a new type of globally unique identifier. But at a deeper level, DIDs are the core component of an entirely new layer of decentralized digital identity and public key infrastructure (PKI) for the Internet. This [decentralized public key infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf) (DPKI) could have as much impact on global cybersecurity and cyberprivacy as the development of the [SSL/TLS protocol](https://en.wikipedia.org/wiki/Transport_Layer_Security) for encrypted Web traffic (now the largest PKI in the world).
-
-
-
-
-* [Cryptography Review of W3C VC Data Model and DID Standards and Implementation Recommendations](https://www.linkedin.com/posts/aniljohn_cryptography-review-of-w3c-vc-and-w3c-did-ugcPost-6892250585652162560-OQ3Y) SRI International
 
 
 * [Vote for First Implementer’s Drafts of OIDConnect SIOPV2 and OIDC4VP Specifications](https://openid.net/2022/01/18/notice-of-vote-for-first-implementers-drafts-of-openid-connect-siopv2-and-oidc4vp-specifications/) OpenID
@@ -364,15 +316,6 @@ Summary: The hype over NFTs and collectibles is blinding us to their true useful
 
 
 
-- [Nat has a presentation](https://nat.sakimura.org/2021/09/14/announcing-gain/)
-- There is a [linked in Group](https://www.linkedin.com/groups/12559000/)
-
-* [Adding DID ION to MATTR VII](https://medium.com/mattr-global/adding-did-ion-to-mattr-vii-d56bdb7a2fde)
-
-Different types of DIDs can be registered and anchored using unique rules specific to the set of infrastructure where they’re stored. Since DIDs provide provenance for keys which are controlled by DID owners, the rules and systems that govern each kind of DID method have a significant impact on the trust and maintenance model for these identifiers.
-
-
-
 * [Open standards should be developed openly](https://blog.weareopen.coop/open-standards-should-be-developed-openly-1f0cf552308d)
 
 Open standards should be developed openly because not enough people work to ensure that equity is central to innovation and development. We believe that openness is an attitude, and one which bears fruit over time from which everyone can benefit.
@@ -381,12 +324,8 @@ Open standards should be developed openly because not enough people work to ensu
 
 This is the Use Case Implementation Workstream of the [COVID Credentials Initiative (CCI)](https://www.covidcreds.com/). This workstream identifies privacy-preserving verifiable credentials (VCs) that are most useful to the COVID-19 response and provides a forum and platform for those who are implementing COVID VCs to present their projects/solutions.
 
-
-
 * [@csuwildcat](https://twitter.com/csuwildcat) shares
   > As of Friday, we believe v1 of ION is functionally code complete, and the Sidetree Working Group at DIF (@DecentralizedID) should have a v1 spec candidate ready for the underlying protocol by Jan 21st. Public v1 launch of the ION network on Bitcoin mainnet is just weeks away.
-
-
 
 * [What Is ISO 27018:2019? Everything Executives Need to Know](https://auth0.com/blog/what-is-iso-27018-2019-everything-executives-need-to-know/)
   > ISO 27018 is part of the ISO 27000 family of standards, which define best practices for information security management. ISO 27018 adds new guidelines, enhancements, and security controls to the ISO/IEC 27001 and ISO/IEC 27002 standards, which help cloud service providers better manage the data security risks unique to PII in cloud computing.
@@ -486,11 +425,6 @@ This past November, the GBBC released [The Global Standards Mapping Initiative 2
 
 The arrow for “Issue Credentials” is exactly the same as “Send Presentation,” leading us to believe these activities are similar, but how are they similar? We can’t adequately answer these questions by looking at the above picture and the specification doesn’t provide a ton of help either…
 
-WG Meeting of the week
-
-* [OpenID for Verifiable Credentials](https://openid.net/2022/05/12/openid-for-verifiable-credentials-whitepaper/) OpenID ([Whitepaper](https://openid.net/wordpress-content/uploads/2022/05/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials_FINAL_2022-05-12.pdf)
-
-to inform and educate the readers about the work on the OpenID for Verifiable Credentials (OpenID4VC) specifications family. It addresses use-cases referred to as Self-Sovereign Identity, Decentralized Identity, or User-Centric Identity.
 * [What is Open Recognition, anyway?](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629) Going beyond credentialing and the formal/informal divide
 
 Badges as credentials includes approaches that are well understood and largely replace or augment existing certification practices. Badges for recognition, however, include approaches that remain somewhat confusing to many people.
@@ -507,17 +441,11 @@ Today we’re releasing [ADX, the “Authenticated Data Experiment”](https://g
 
 
 
-## DID Core advances to recommendation
 
-* [Objections overruled by W3C director approving the DIDCore specification as a W3C Recommendation](https://www.w3.org/2022/06/DIDRecommendationDecision.html) W3C
+- [Nat has a presentation](https://nat.sakimura.org/2021/09/14/announcing-gain/)
+- There is a [linked in Group](https://www.linkedin.com/groups/12559000/)
 
-The DID core specification is approved to advance to W3C Recommendation.
 
-In its next chartered period the Working Group should address and deliver proposed standard DID method(s) and demonstrate interoperable implementations.  The community and Member review of such proposed methods is the natural place to evaluate the questions raised by the objectors and other Member reviewers regarding decentralization, fitness for purpose, and sustainable resource utilization. -Ralph Swick, for Tim Berners-Lee
-
-* [Decentralized Identifiers (DID) 1.0 specification approved as W3C Recommendation](https://blog.identity.foundation/w3cdidspec-2/) Identity Foundatoin
-
-Announcing the [Decentralized Identifiers (DID) v1.0 specification](https://www.w3.org/TR/did-core/) as an open web standard signals that it is technically sound, mature, and ready for widespread adoption. Having an established v1.0 specification allows work to continue with renewed energy and focus, not only at the many groups meeting at DIF, but across the digital identity community.
 
 Harrison Tang, CEO of Spokeo, [is the new co-chair of the CCG](https://twitter.com/TheCEODad/status/1544884282316845057)
 
@@ -542,13 +470,6 @@ W3C Press Release - [Decentralized Identifiers (DIDs) v1.0 becomes a W3C Recomme
 
 For individuals in particular, DIDs can put them back in control of their personal data and consent, and also enable more respectful bi-directional trust relationships where forgery is prevented, privacy is honored, and usability is enhanced.
 
-* [W3C launches Decentralized Identifiers as a web standard](https://portswigger.net/daily-swig/w3c-launches-decentralized-identifiers-as-a-web-standard) in the Daily Swig: Cybersecurity news and views.
-
-“I would summarize the overall impact of DIDs on cybersecurity as making digital signing and [encryption](https://portswigger.net/daily-swig/encryption) much more widely available than today’s conventional X.509-based public key infrastructure (PKI),” Drummond Reed, director of trust services at Avast
-
-* [W3C overrules objections by Google, Mozilla to decentralized identifier spec](https://www.theregister.com/2022/07/01/w3c_overrules_objections/) Oh no, he DIDn't in the Register
-
-The [DID specification](https://www.w3.org/TR/did-core/%23introduction) describes a way to deploy a globally unique identifier without a centralized authority (eg, Apple [for Sign in with Apple](https://developer.apple.com/sign-in-with-apple/) as a verifying entity.
 
 * [DIF Monthly #28](https://blog.identity.foundation/dif-monthly-28/)
 
@@ -558,38 +479,6 @@ Table of contents: 1. [Foundation News](https://blog.identity.foundation/dif-mon
 
 Since verification is off-chain (and generally fast/inexpensive, depending on the provider), and since this avoids on-chain storage of potentially correlatable data, this is often the preferred solution.
 
-* [Verification Patterns, Part 2](https://docs.centre.io/blog/verification-patterns-2) Verite
-
-Part 2 of this 2-part series explains the [did:pkh](https://github.com/w3c-ccg/did-pkh/blob/main/did-pkh-method-draft.md)/[CACAO](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-74.md%23simple-summary) variation for Verite data models and flows, which provides an entry path for wallets that may not support sufficient functionality for emerging decentralized identity patterns
-
-
-
-
-
-
-* [Decentralized Identifiers: Implications for Your Data, Payments and Communications](https://newsletter.impervious.ai/decentralized-identifiers-implications-for-your-data-payments-and-communications-2/) Impervious
-
-Through the DID Specification, service endpoints and DIDComm, Impervious has interlaced DIDs with Bitcoin Lightning, IPFS, WebRTC and resilient relays to introduce a new peer-to-peer internet standard with practical applications for mitigating censorship and surveillance risk.
-
-* [[SCITT] Endor: A SCITT PoC for W3C Verifiable Credentials](https://mailarchive.ietf.org/arch/msg/scitt/WSyUQuYimFowl6plzi_TIJzjBpM/)
-
-I made this today: [https://github.com/OR13/endor](https://github.com/OR13/endor) [...]
-
-nice thing about endorsing W3C Verifiable Credentials is that they are
-
-already an abstraction that applies to "non software supply chain" use
-
-Cases [...] we model [cyber physical supply chain flows](https://w3id.org/traceability)
-
-^^^ [inspired by](https://twitter.com/OR13b/status/1553488644224204800) : [IETF 114: Plenary](https://www.ietf.org/live/ietf114-plenary/) (video)
-
-* [GLEIF vLEI Verifiable Credentials containing trusted organization identity and roles](https://rapidlei.com/vlei/)
-
-vLEI will provide a cryptographically secure chain of trust that will replace manual processes needed to access and confirm an entity’s identity across all industries.
-
-* [Verifiable Health Data: Demonstrating Verifiable Credentials using Cardea](https://www.youtube.com/watch?v%3DruhnyMTqNog)
-
-members from across the community come together to test interoperability between systems, networks, agents and more.
 
 
 * [JSON Web Proofs BoF at IETF 114 in Philadelphia](https://self-issued.info/?p%3D2286)
@@ -627,40 +516,18 @@ The concept behind a Trust Registry is that a Wallet needs to know which decentr
 * [ONDC: An Open Network for Ecommerce](https://www.windley.com/archives/2022/08/ondc_an_open_network_for_ecommerce.shtml) Phil Windley
 
 * [Open Network for Digital Commerce](https://en.wikipedia.org/wiki/Open_Network_for_Digital_Commerce) is a non-profit established by the Indian government to develop open ecommerce. The goal is to end platform monopolies in ecommerce using an open protocol called [Beckn](https://developers.becknprotocol.io/). I'd never heard of Beckn before. From the reaction on the VRM mailing list, not many there had either.
-* [Cute Learning Thread](https://twitter.com/fennykyun/status/1564249472053514240) fennykyun
-
-tldr :: DID is just an URI :: VC is a cryptographically verifiable credential using DID :: SSI is a self-sovereign and privacy-preserving identity :: Non-human (Machines, Bots, Goods, anything) also able to have DID, VC, and SSIs
 
 
 * [BCGov improves sustainability reporting with digital trust technology](https://trustoverip.org/blog/2022/08/29/toip-steering-committee-member-the-government-of-british-columbia-improves-sustainability-reporting-with-digital-trust-technology/) ToIP
 
 Digital credentials can be checked in real time, expediting access to trustworthy information. These trusted, verifiable digital credentials are the core digital trust technologies being piloted and the trust ecosystem in which they operate are defined in ToIP architecture, governance, and related documents.
 
-* [Universal Resolver - resolve practically any DID](https://blog.identity.foundation/uni-resolver/) Identity Foundation
-
-The Universal Resolver can now resolve 45 DID methods, and more are being added regularly. Visit [https://dev.uniresolver.io/](https://dev.uniresolver.io/) to see the full list of supported methods, and visit [this github page](https://github.com/decentralized-identity/universal-resolver/blob/main/docs/driver-development.md) to contribute a driver for a DID method.
-
-Mobile Document Request API
-
 * [Apple, with support from Google, just announced the Mobile Document Request API](https://github.com/WICG/proposals/issues/67) Web Incubator CG
-
-The API is concerning because it lists "Define the native communication between the User Agent and the application holding the mdoc." as out of scope. That is, digital wallet selection is out of scope. Also out of scope is "issuing" and "provisioning". The specification focuses on delivery from a digital wallet to a website.
-
-
-## Standards Work
-
+  > The API is concerning because it lists "Define the native communication between the User Agent and the application holding the mdoc." as out of scope. That is, digital wallet selection is out of scope. Also out of scope is "issuing" and "provisioning". The specification focuses on delivery from a digital wallet to a website.
 * [Premature Standardization & Interoperability](https://www.continuumloop.com/premature-standardization-interoperability/) Continuum Loop
 
 Here’s my premise – we don’t have standards nor interoperability – at least not as people really need. We have been through a process that is powerful and good – but what we have is what I call “premature standardization.” It’s a great start but nowhere near where things will be.
 
-* [Notes from W3C TPAC on major deployments of Verifiable Credentials](https://twitter.com/philarcher1/status/1570082512122294273) Manu Sporny via Phil Archer
-
-- Steel, Oil Agriculture Shipment into US Customs ($2.3T in good/year)
-- European Digital Wallet (€163M funding, 450M people)
-- Digital Education Credentials in Uganda, Nigeria, Kenya (323M people)
-- Digital Age Verfication (152k retail stores, 200M people)
-- Content Authenticity Initative (30M Adobe customers)
-- Digital Permanent Resident Cards (14M people)
 
 * [IDnow joins Accelerate@IATA to shape the future of seamless air travel](https://www.idnow.io/pr/idnow-joins-accelerateiata/) IDnow
 
@@ -668,11 +535,6 @@ The goal of IATA One ID is to set industry standards that further streamline the
 
 Cardano showing interest in our work
 
-* [Advancing digital identity through DID core specification](https://iohk.io/en/blog/posts/2022/09/08/advancing-digital-identity-through-did-core-specification/) IOHK
-
-Good news to see Cardano jumping on the bandwagon, looks like they will join the fray and bring DID\VC to Atla Prism.
-
-The recent DID core specification approval at the World Wide Web Consortium (W3C) provided clearer and stronger foundations for identity platforms building decentralized identifiers.
 
 
 * [Circle and Industry Leaders Have Built the First Decentralized Identity Proof-of-Concept for Crypto Finance using Verite Credentials](https://www.circle.com/en/pressroom/circle-and-industry-leaders-have-built-the-first-decentralized-identity-proof-of-concept-for-crypto-finance-using-verite-credentials) Circle
@@ -683,13 +545,6 @@ Circle joined other crypto and blockchain companies in February 2022 to introduc
 
 TBD and [Circle](https://www.circle.com/en/?_gl%3D1*14yjcwp*_up*MQ..%26gclid%3DCjwKCAjwm8WZBhBUEiwA178UnPZbgZJJxhwK7ivE5Yx9FGW8PQ31-hc1O-njcLOmzcN2nzLz110FihoCgV4QAvD_BwE) are collaborating on a set of open standards and open source technologies aimed at enabling global-scale, mainstream adoption of digital currency in payments and financial applications. The first step of which will support cross-border remittances and self-custody wallets that can hold stablecoins.
 
-* [Identos builds Verifiable Credentials into updated federated digital ID API](https://www.biometricupdate.com/202209/identos-builds-verifiable-credentials-into-updated-federated-digital-id-api) Biometric Update
-
-The new FPX Junction cloud software suite is designed for fine-grained API authorization and user-centric digital identity management. The digital wallet and user-managed access 2.0 authorization server work together to enable single-sign on federation. An optional user interface SDK for the digital wallet provides native mobile and web support.
-
-* [Open Workplace Recognition using Verifiable Credentials](https://blog.weareopen.coop/open-workplace-recognition-using-verifiable-credentials-fc0134fad7ec) WeAreOpenCoop
-
-Yesterday, [the draft](https://w3c-ccg.github.io/vc-ed-use-cases/) Verifiable Credentials for Education, Employment, and Achievement Use Cases report was published [...] The next version of the Open Badges specification (v3.0) will be compatible with Verifiable Credentials (VCs).
 
 * [Identity Manager – Self Sovereign Identity made Simple](https://tanglelabs.io/identity-manager-self-sovereign-identity-made-simple/) TangleLabs
 
@@ -713,21 +568,6 @@ Call for Comments/Feedbacks for DPV v1.0 release
 
 Please provide your comments by 15-OCT-2022 via [GitHub](https://github.com/w3c/dpv/issues/50) or [public-dpvcg@w3.org](https://lists.w3.org/Archives/Public/public-dpvcg/) (mailing list).
 
-* [FYI >> DHS W3C VC/DID Implementation Profile: Credential Data Model Representation Syntax & Proof Format](https://lists.w3.org/Archives/Public/public-credentials/2022Sep/0253.html) Anil John
-
-We are walking this path step-by-step by documenting the results and lessons from the DHS sponsored multi-platform, multi-vendor interoperability plug-fests and other rigorous plug-fests with similar goals to develop a “DHS Implementation Profile of W3C Verifiable Credentials and W3C Decentralized Identifiers” to ensure the use of Security, Privacy and Interoperability implementation choices that are acceptable to the USG such that these capabilities can be deployed on and connect to USG networks and infrastructure.
-
-…
-
-please [find attached the DHS Implementation Profile](https://lists.w3.org/Archives/Public/public-credentials/2022Sep/att-0253/DHS.W3C.VC-DID.Implemenation.Profile-20220929-SHARE.pdf) of W3C VCs and W3C DIDs normative guidance on:
-
-·         Credential Data Model Representation Syntax
-
-·         Credential Data Model Proof Format
-
-* [Using OpenID4VC for Credential Exchange; Technometria - Issue #62](http://news.windley.com/issues/using-openid4vc-for-credential-exchange-technometria-issue-62-1374264?via%3Dtwitter-card%26client%3DDesktopWeb%26element%3Dissue-card)
-
-Extending OAuth and OIDC to support the issuance and presentation of verifiable credentials provides for richer interactions than merely supporting authentication. All the use cases we’ve identified for verifiable credentials are available in OpenID4VC as well.
 
 * [Trinsic Basics: What Are SSI Standards?](https://trinsic.id/what-are-ssi-standards/)
   > There are two kinds of standards that Trinsic implements to enable interoperability and avoid vendor lock-in: data model standards and protocol standards.
@@ -735,215 +575,6 @@ Extending OAuth and OIDC to support the issuance and presentation of verifiable 
 * [Manifesto: Rules for standards-makers](http://scripting.com/2017/05/09/rulesForStandardsmakers.html)
   > I've used all kinds of formats and protocols in a long career as a software developer, even created a few. My new manifesto summarizes what I've learned about what works and what doesn't.
 
-## RDF
-
-* [Technical Report on the Universal RDF Dataset Normalization Algorithm](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/att-0032/Mirabolic_Graph_Iso_Report_2020_10_19.pdf) - [Bill Bradley](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0032.html)
-  > The goal of this technical report is to review the Universal RDF Dataset Normalization Algorithm (URDNA2015) for correctness and to provide satisfactory evidence that possible issues with URDNA2015 have been considered and dismissed. We do not lay out the algorithm in its considerable technical detail here, but refer the reader to the proposed technical specification 1 [Longley], a set of proofs by Rachel Arnold and Dave Longely [Arnold], and a reference implementation in Python [DigitalBazaar]
-
-* [Importing Verifiable Data as Labeled Property Graphs](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0022.html)  Orie Steele (Wednesday, 15 June)
-
-I think what happens is that a first blank node is created for the proof, and since that node has `@container` `@graph`, instead of being able to trace the relationships directly from credential to proof to verification method...
-
-Each proof is being treated as a disjoint subgraph, and the relationship is not being preserved during import… [...]
-
-I suspect this is solvable with a more complicated graph config: [https://neo4j.com/labs/neosemantics/4.0/config/](https://neo4j.com/labs/neosemantics/4.0/config/)
-
-But I wonder if we might correct this behavior in VC Data Model 2.0, such that RDF representations don't have this odd behavior when imported as labeled property graphs. [...]
-
-answer on the github issue for the standard, I raised it here: [](https://github.com/w3c/vc-data-model/issues/881)[https://github.com/w3c/vc-data-model/issues/881](https://github.com/w3c/vc-data-model/issues/881)
-
-* [Proposed W3C Charter: RDF Dataset Canonicalization and Hash Working Group](https://lists.w3.org/Archives/Public/public-credentials/2022May/0033.html)  Manu Sporny (Tuesday, 17 May)
-
-The goal of this group is to standardize the way many of us digitally sign Verifiable Credentials. This working group has been about decade in the making (some would say two decades) and is important for achieving things like BBS+ selective disclosure as well as standardizing the way we format Verifiable Credentials before they are digitally signed.
-
-The [announcement](https://lists.w3.org/Archives/Public/public-new-work/2022May/0005.html) is here
-
-The [proposed charter](https://www.w3.org/2022/05/04-proposed-rch-wg-charter/) is here
-
-* [URDNA2015 Implementation Question](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/0017.html)  Daniel Petranek (Thursday, 7 July)
-
-I've instrumented the rdf-canonicalize library so I can inspect the order of execution, and it appears that what differs between my implementation and the Javascript one is the order of the permutations. The spec doesn't say how the permutations should be ordered, and my intuition is that the order does indeed matter - though I'm happy to be corrected if I'm wrong.
-
-So, here is my question(s):
-
-- Does the order of the permutations matter?
-- If so, what order should they be in?
-
-
-
-## DIDs
-
-* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
-- [jolocom/ddoresolver-rs](https://github.com/jolocom/ddoresolver-rs) github
-- [Rust implementation of the did:key method](https://crates.io/crates/did-key) creds to Tomislav Markovski.
-* [Universal Resolver Driver Policy Discussion](https://iiw.idcommons.net/21P/_Universal_Resolver_Driver_Policy_Discussion) by Bernhard Fuchs, Markus Sabadello
-  > The project has some guidelines for contributing new DID method drivers:[https://github.com/decentralized-identity/universal-resolver/blob/master/docs/driver-development.md](https://github.com/decentralized-identity/universal-resolver/blob/master/docs/driver-development.md)
-- [DID test suite](https://github.com/w3c/did-test-suite) GitHub
-  > DID test suite is not for runtime, but the Universal Resolver could do a few simple checks on a driver's responses. But there's also a philosophical question: Should the Universal Resolver be "allowed" to check and potentially transform driver responses, or should it just "pass through" everything that comes from a driver?
-* [did:orb slides Troy Ronda (SecureKey)](https://lists.w3.org/Archives/Public/public-credentials/2021Mar/0017.html)
-  > - Decouple witness ledgers from the critical path.
-  > - Allow for Trust but Verify model.
-  > - Leverage the Certificate Transparency model
-  > - Witnesses observe VDR objects and promise to include in their ledgers.
-  > - Provide a signed timestamp and a maximum merge delay.
-  > - Enable monitoring to ensure witnesses follow their promises.
-  > - Use trusted Witness (and origin) timings to resolve late publishing.
-  > - Use origin to enable observers to know if they have the latest operations.
-
-
-* [re: Defining load balanced, failover clusters for DID Document serviceEndpoints?](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0056.html)  (Monday, 10 January)
-
-#didlang 0.3 includes support for round-robin, load-balanced DID Agent serviceEndpoint clusters. [Here's a demo](https://youtu.be/mf0aKLvJoCw)
-
-* [W3C Decentralized Identifiers v1.0 is a W3C Proposed Recommendation](https://lists.w3.org/Archives/Public/public-credentials/2021Aug/0030.html)  Manu Sporny (Tuesday, 3 August)
-
-* [W3C Decentralized Identifiers v1.0 is a W3C Proposed Recommendation](https://www.w3.org/blog/news/archives/9179):
-
-* [The published version that will be voted on by W3C Members can be found here](https://www.w3.org/TR/2021/PR-did-core-20210803/):
-
-This is the final step of the W3C global standardization process.
-
-If you are a W3C Member, you can now vote to approve it as a global standard here:
-
-* [DID 1.0 Comments / Meeting Minutes (was RE: Mozilla Formally Objects to DID Core)](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0135.html)  John, Anil (Monday, 27 September)
-
-* [https://www.w3.org/2021/09/21-did10-minutes.html](https://www.w3.org/2021/09/21-did10-minutes.html) is fascinating reading!
-
-* [...] I can speak to the work of the DHS SVIP Program and our approach and perspective across our two  work-streams that touch upon the two points.
-
-1.  Governments “lobbying” for single DID method and Non-Interoperability
-
-*   “tantek: concerned to hear that there are governments looking to adopt, with only single implementation methods and non interop, sounds like lobbying may have occurred, … advocating for single-implementation solutions that are centralized wolves in decentralized clothing”
-
-*   “<cwilso> +1 to tantek's concern that governments are responding to lobbying attempts on non-interoperable methods”
-
-* [Mozilla Formally Objects to DID Core](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0010.html)  Drummond Reed (Thursday, 1 September)
-
-Now, here's the REAL irony. Mozilla and others are pointing to the URI spec and existing URI schemes as the precedent without recognizing that in [in section 9.11 of the DID spec](https://www.w3.org/TR/did-core/%23dids-as-enhanced-urns), we specifically compare the DID spec to the *URN spec*, [RFC 8141](https://datatracker.ietf.org/doc/html/rfc8141). In fact we deliberately patterned the [ABNF for DIDs](https://www.w3.org/TR/did-core/%23did-syntax)  after the ABNF for URNs—and patterned DID method names after URN namespaces. And we set up a registry for the exactly the same way RFC 8141 establishes a [registry of URN namespaces](https://www.iana.org/assignments/urn-namespaces/urn-namespaces.xhtml).
-
-Now: guess how many URN namespaces have been registered with IANA?
-
-- [SEVENTY*. Count em.](https://www.iana.org/assignments/urn-namespaces/urn-namespaces.xhtml)
-
-I don't see anyone complaining about interoperability of URN namespaces. Amd RFC 8141 was published over four years ago.
-
-* [Some questions regarding DID verification relationships](https://lists.w3.org/Archives/Public/public-credentials/2021Dec/0009.html) Dmitri Zagidulin (Thursday, 2 December)
-
-The motivation for verification relationships in the DID spec stems from the general security recommendation of "use separate keys for separate purposes".
-
-You can see this at work in other specifications, such as JWKS (JSON Wek Key Set), specifically in the 'use' (Public Key Use) parameters, from [https://datatracker.ietf.org/doc/html/rfc7517#section-4.2](https://datatracker.ietf.org/doc/html/rfc7517%23section-4.2)
-
-* [DID press release and UNECE white paper](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/0087.html)  steve capell (Wednesday, 20 July)
-
-great to see that press release at [https://www.w3.org/2022/07/pressrelease-did-rec.html.en](https://www.w3.org/2022/07/pressrelease-did-rec.html.en)
-
-There's a testimonial from UNECE near the bottom.  I thought the community might be interested in the white paper from UNECE on VCs and DIDs for cross border trade - [https://unece.org/trade/uncefact/guidance-material](https://unece.org/trade/uncefact/guidance-material)
-
-* [DID Press Release Testimonials](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/0022.html)  Zundel, Brent (Friday, 8 July)
-
-This message is to inform the DID WG and CCG that the W3C intends to write a press release.
-
-To that end, we are seeking testimonials about Decentralized Identifiers.
-
-For an example of the sort of thing we're looking for, please see: [https://www.w3.org/2019/03/pressrelease-webauthn-rec.html](https://www.w3.org/2019/03/pressrelease-webauthn-rec.html)
-
-The testimonials may be submitted as a reply to this email.
-
-DID Methods
-
-* [Announcement: New DID Method Specification: did:object](https://lists.w3.org/Archives/Public/public-credentials/2021Dec/0067.html)  (Tuesday, 14 December)
-
-The publication of [this DID Method specification](https://github.com/mwherman2000/TrustedDigitalWeb/blob/master/specifications/did-methods/did-object.md) realizes, in large part, a 4-year quest (or should I say personal mission) to create a platform to Tokenize Every Little Thing (ELT).
-
-* [Re: CCG Community opinions needed to define CCG scope (specifically re: did methods as work items)](https://lists.w3.org/Archives/Public/public-credentials/2021Aug/0376.html)  Manu Sporny (Thursday, 26 August)
-
-On 8/26/21 12:37 PM, Heather Vescent wrote:
-
-> 1. What are the *pros* of including did methods as work items in the CCG?
-
-Community vetting and approval of particular DID Methods.
-
-Basically, broader and deeper review of DID Methods that we expect to be of
-
-great use to the world. I expect there will be DID Methods that the community
-
-wants to eventually propose as DID Methods for standardization (did:key and
-
-did:web feel like two ones where we could get consensus on doing so).
-
-* [DID methods as W3C standards - a happy compromise?](https://lists.w3.org/Archives/Public/public-credentials/2022Feb/0117.html)  steve capell (Tuesday, 22 February)
-
-can't we pick just a small number of un-controversial methods to standardise?  even if it's just did:key and did:web to start with.
-
-* [Cross border identity use case - which did methods?](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/0016.html)  steve capell (Sunday, 6 March)
-
-The broader generalisation of this question is : "for trust anchors like governments that issue VCs to their constituents, what rules should govern which did:methods they should accept as the *subject* identifier for the VCs they issue?"  Are those rules context specific?
-
-I'm not sure of the answer - but it's why did:ion was on my list - as an allowed *subject* of a government issued vc - and as the issuer of trade documents.  should I take it off my list pending a bit more maturity (eg that azure service goes out of beta into full production)?  or is it safe enough for this use case?  if so what others would also be "safe enough"?
-
-![https://www.notion.soimages/image2.png](https://www.notion.soimages/image2.png)
-
-DID:TAG[re: Using Email as an Identifier](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0065.html)  Bob Wyman (Friday, 12 November)
-
-My [did:tag](https://github.com/bobwyman/did_method_tag) proposal is, I believe, the only proposed DID Method that addresses the use of email addresses and email as a resolution method
-
-There are quite a number of issues with using email addresses as identifiers, or parts of identifiers, and I'm hoping that discussion and development of the did:tag method will illuminate those issues and potentially find solutions for them.
-
-DID:WEB
-
-* [re: some thought after using did:web](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0031.html)  Orie Steele (Wednesday, 5 January)
-
-We have had the same issue... per the did core spec, there are really 2 main key types, in our crypto libraries for the key pair classes themselves, we do our best to support both and handle translation for you:
-
-* [https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/Ed25519KeyPair.ts#L78](https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/Ed25519KeyPair.ts%23L78)
-
-* [https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/types/Ed25519VerificationKey2018.ts](https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/types/Ed25519VerificationKey2018.ts)
-
-* [https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/types/Ed25519VerificationKey2020.ts](https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/types/Ed25519VerificationKey2020.ts)
-
-* [https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/types/JsonWebKey2020.ts](https://github.com/transmute-industries/verifiable-data/blob/main/packages/ed25519-key-pair/src/types/JsonWebKey2020.ts)
-
-* [DID Web, OpenSSL and Certificate Authorities](https://lists.w3.org/Archives/Public/public-credentials/2022Feb/0078.html)  Orie Steele (Thursday, 17 February)
-
-We then generate a DID Web DID Document from the public keys for the 3 children, and encode the ca chain from them back to the root using `x5c`.
-
-We then issue a JWT from the private key for 1 of them.
-
-We then verify the JWT signature using the public key.
-
-We then check the x5c using open seel to confirm the certificate chain.
-
-My questions are:
-
-1. Is it possible to use JOSE to automate this further?
-
-2. Is there a better way of accomplishing this?
-
-3. Should the CA chain be pushed into the JWT?
-
-DID:JWK
-
-* [did:jwk is reborn!](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0066.html)  Orie Steele (Friday, 8 April)
-
-* [https://github.com/w3c/did-spec-registries/pull/432](https://github.com/w3c/did-spec-registries/pull/432)
-
-DID:KEY
-
-* [did-key-creator published](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0061.html)  Brent Shambaugh (Tuesday, 28 June)
-
-I published a did:key creator at
-
-* [https://www.npmjs.com/package/did-key-creator](https://www.npmjs.com/package/did-key-creator)
-
-This has been tested to create did:keys from the P-256,P-384, and P-521 curves specified in [https://github.com/w3c-ccg/did-method-key](https://github.com/w3c-ccg/did-method-key) and [https://w3c-ccg.github.io/did-method-key/](https://w3c-ccg.github.io/did-method-key/) .
-
-* [did:key DID Document generation algorithm feedback](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0016.html)  Manu Sporny (Tuesday, 14 June)
-
-The DID Document generation algorithm for did:key is being refined to the
-
-point that we can finish off a first pass of a did:key test suite.
-
-* [...] [https://github.com/w3c-ccg/did-method-key/pull/51](https://github.com/w3c-ccg/did-method-key/pull/51)
 
 
 ## Assorted

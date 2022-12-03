@@ -5,6 +5,33 @@ published: false
 # Verifiable Credentials
 
 
+* [DIF Grant #1: JWS Test Suite](https://blog.identity.foundation/dif-grant-1-jws-test-suite/)
+
+DIF announces its first community microgrant, sponsored by Microsoft and rewarding the timely creation of a comprehensive test suite for detached-JWS signatures on Verifiable Credentials
+
+* [Open Workplace Recognition using Verifiable Credentials](https://blog.weareopen.coop/open-workplace-recognition-using-verifiable-credentials-fc0134fad7ec) WeAreOpenCoop
+
+Yesterday, [the draft](https://w3c-ccg.github.io/vc-ed-use-cases/) Verifiable Credentials for Education, Employment, and Achievement Use Cases report was published [...] The next version of the Open Badges specification (v3.0) will be compatible with Verifiable Credentials (VCs).
+* [FYI >> DHS W3C VC/DID Implementation Profile: Credential Data Model Representation Syntax & Proof Format](https://lists.w3.org/Archives/Public/public-credentials/2022Sep/0253.html) Anil John
+  > We are walking this path step-by-step by documenting the results and lessons from the DHS sponsored multi-platform, multi-vendor interoperability plug-fests and other rigorous plug-fests with similar goals to develop a “DHS Implementation Profile of W3C Verifiable Credentials and W3C Decentralized Identifiers” to ensure the use of Security, Privacy and Interoperability implementation choices that are acceptable to the USG such that these capabilities can be deployed on and connect to USG networks and infrastructure.
+  > … please [find attached the DHS Implementation Profile](https://lists.w3.org/Archives/Public/public-credentials/2022Sep/att-0253/DHS.W3C.VC-DID.Implemenation.Profile-20220929-SHARE.pdf) of W3C VCs and W3C DIDs normative guidance on:
+  > - Credential Data Model Representation Syntax
+  > - Credential Data Model Proof Format
+
+* [Notes from W3C TPAC on major deployments of Verifiable Credentials](https://twitter.com/philarcher1/status/1570082512122294273) Manu Sporny via Phil Archer
+
+- Steel, Oil Agriculture Shipment into US Customs ($2.3T in good/year)
+- European Digital Wallet (€163M funding, 450M people)
+- Digital Education Credentials in Uganda, Nigeria, Kenya (323M people)
+- Digital Age Verfication (152k retail stores, 200M people)
+- Content Authenticity Initative (30M Adobe customers)
+- Digital Permanent Resident Cards (14M people)
+* [Do I Need a Verifiable Credential?](https://community.rsa.com/t5/rsa-labs-blog/do-i-need-a-verifiable-credential/ba-p/610241)
+* [Verifiable Claim Protocol](https://github.com/ontio/ontology-DID/blob/master/docs/en/claim_spec.md) Ontology
+* [Open Badges as Verifiable Credentials](https://kayaelle.medium.com/in-the-w3c-vc-edu-call-on-june7-2021-we-discussed-open-badges-asserted-as-w3c-verifiable-90391cb9a7b7)
+  > In the [W3C VC-EDU](https://w3c-ccg.github.io/vc-ed/) call on June 7, 2021 we discussed [Open Badges](https://openbadges.org/) asserted as [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) (VCs). This call began the public discussion of Open Badges as Native VCs (potentially as Open Badges 3.0) to inform the IMS Open Badges Working Group. Why are we discussing this? Why does it matter? How will it work?
+* [How a combination of Federated identity and Verifiable Credentials can help with Customer onboarding](https://pranavkirtani.medium.com/how-a-combination-of-federated-identity-and-verifiable-credentials-can-help-with-customer-7e6518feb018) Pranav Kirtani
+  > Before we dive into how Federated systems like OIDC and SAML along with Verifiable Credentials (VC) can help improve customer onboarding to your application, let us first understand what are the current methods being used for onboarding.
 * [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/)
 
 - The components that constitute a [verifiable credential](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/%23dfn-verifiable-credentials)

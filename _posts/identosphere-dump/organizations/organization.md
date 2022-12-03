@@ -160,9 +160,6 @@ conversations about digital identity innovation were mostly treated as a develop
 * [GlobaliD](https://global.id/), USA; [Uphold](https://uphold.com/), Portugal; [ID Ramp](https://idramp.com/), USA; [Cynjatech](https://www.cynja.com/), USA; [Finclusive](https://finclusive.com/), USA; [Xertify](https://xertify.co/), Colombia; [Snowbridge Inc.](https://www.snowbridge.se/), Taiwan; Entrustient, USA; [Bot Ventures, Inc](https://botventures.io/)., Canada; [BlockSpaces](https://blockspaces.io/), USA; [Blockster Labs](https://blockster.global/), [Anonyome Labs](https://anonyome.com/), Australia; [Selfd.id](https://selfd.id/), Romania; [Liquid Avatar Technologies](https://liquidavatar.com/), Canada; [Snapper Future Tech](https://snapperfuturetech.com/), India; [Lorica Identity](https://loricaidentity.com/), USA; [BizSecure](https://bizsecure.com/), USA; [Networks Synergy](https://www.synergy.kz/), Kazakhstan; Absolutely Zero Cyber, USA; [Cysecure](https://cysecure.us/), USA; [VERSES Labs](https://www.verses.io/), USA
 * [DHS SVIP - Program Overview + AMA](https://iiw.idcommons.net/index.php?title%3D21O/_DHS_SVIP_-_Program_Overview_%252B_AMA%26action%3Dedit%26redlink%3D1) by Anil John
 
-* [Request for Comment and IPR Review: PCTF Assurance Maturity Model Draft Recommendation V1.0](https://diacc.ca/2021/06/27/comment-ipr-review-assurance-maturity-model-draft-recommendation-v1-0/) DIACC
-
-It is essential that Participants in a digital ecosystem have a way to evaluate the robustness and trustworthiness of transactions within that ecosystem. In order to do so, Participants must share a common vocabulary that describes the level of confidence they can associate with an Entity or transaction, as well as a common way in which to determine that level of confidence.
 
 * [GlobaliD joins the Linux Foundation’s Cardea Project](https://medium.com/global-id/globalid-joins-the-linux-foundations-cardea-project-22f298032240)
 
@@ -366,9 +363,6 @@ We’re not convinced that “constraint” is the right theoretical approach fo
 * [PSA Today: Kaliya & Seth talk LEIs](https://anchor.fm/psatoday/episodes/PSA-Today-34-Kaliya--Seth-talk-LEIs-Legal-Entity-Identifiers-with-Simon-Wood--CEO-of-Ubisecure-eqia74)
 with Simon Wood, CEO of Ubisecure (#1 issuer of Legal Entity Identifiers)
   > the evolution of LEIs since the financial crisis of 2008, the difference between high assurance and low assurance, and the relationship between rights and ownership as it relates to identity management of entities.
-* [Decentralized Identity and DIACC PCTF Authentication](https://diacc.ca/wp-content/uploads/2021/02/Decentralized-Identity-and-DIACC-PCTF-Authentication.pdf)
-
-The [Authentication](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Authentication-Component-Overview-Final-Recommendation_V1.0.pdf) component of the [DIACC Pan-Canadian Trust Framework](https://diacc.ca/trust-framework/)™ specifies processes and conformance criteria for service providers. Authentication and credential management services may be assessed against these criteria.
 
 * [Self-sovereign digital identity, vLEI as identification standard for InfoCert DIZME network](https://www.digitalfuturemagazine.com/2021/01/27/self-sovereign-digital-identity-vlei-as-identification-standard-for-infocert-dizme-network/)
 
@@ -406,13 +400,6 @@ The [DizmeID Foundation](https://www.dizme.io/) and technical project will defi
 
 Witness orgs sit in layer 3 of the [Trust Over IP stack](https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0289-toip-stack/README.md) as authoritative issuers. Witness orgs are to VCs like Dunn and Bradstreet (D&B) is to the finance world: they issue claims as a recognized authority.
 
-* [2022 Pre-Budget Submission](https://diacc.ca/2021/08/03/2022-pre-budget-submission/) DIACC
-
-1. That the government secure adoption of the [Pan-Canadian Trust Framework](https://diacc.ca/wp-content/uploads/2016/08/PCTF-Overview-FINAL.pdf) by businesses and governments.
-2. That the government act on the [Finance Committee’s 2021 Pre-Budget Consultation](https://www.ourcommons.ca/Committees/en/FINA/StudyActivity?studyActivityId%3D11021772) Recommendations 128, Implement a digital identity system that empowers Canadians to control their data that is held by the federal government, and 129, Create a national data strategy.
-3. That the government work with provincial and territorial partners and Immigration, Refugees and Citizenship Canada to ensure that all Canadians have access to an ISO-compliant government-issued digital ID credential with economy-wide utility by December 2022.
-4. That the government make digital identity-enabled services available to all Canadians by December 2022.
-5. That the government prioritizes funding and integration of digital ID as part of the [Digital Technology Supercluster](https://www.digitalsupercluster.ca/) Initiative.
 
 * [Panel | Bringing the Global Assured Identity Network (GAIN) to Reality](https://www.kuppingercole.com/watch/eic2021-panel-gain-to-reality)
 
@@ -495,10 +482,6 @@ any sensible WebAuthn/FIDO2 Apache module would rely on an externally running �
 
 In making the code widely accessible, Ontology is accelerating the adoption of decentralized identity (DID) in the blockchain sphere As the project that has focused on the Decentralized Identity (DID) field for over 4 years…
 
-* [Agri-Food Product Identity Verification & Governance](https://diacc.ca/2022/04/26/agri-food-product-identity-verification-governance-diacc-special-interest-group-insights/) DIACC Special Interest Group Insights
-
-This report discusses what the identity verification related requirements for the creation and management of agri-food products (or items) unique identifiers to enable provenance tracking, ensure traceability, facilitate agri-food data integration, enhance governance, protect privacy and confidentiality, inform policies, and improve communications.
-
 
 * [ISO/IEC 18013-5 vs Self-Sovereign Identity: A proposal for an mDL Verifiable Credential](https://www.procivis.ch/post/iso-iec-18013-5-vs-self-sovereign-identity-a-proposal-for-an-mdl-verifiable-credential) Procivis
 
@@ -540,9 +523,6 @@ GAIN is marked by a cross sector, crowd sourced, open, global due diligence. GAI
 
 The goal of this whitepaper is to inform and educate the readers about the work on the OpenID for Verifiable Credentials (OpenID4VC) specifications family. It addresses use-cases referred to as Self-Sovereign Identity, Decentralized Identity, or User-Centric Identity.
 
-* [DIACC 2022 Industry Survey Report](https://diacc.ca/2022/06/02/diacc-2022-industry-survey-report/) DIACC
-
-The intent of the [DIACC Industry Survey](https://diacc.ca/wp-content/uploads/2022/05/DIACC-Industry-Survey_Final.pdf) was to identify any pain points Canadian industries have that prevent the use of trusted Digital Identity.
 
 
 * [Achieving Trusted Digital Transactions Across the Globe: OIX and ToIP Align to make it Happen](https://trustoverip.org/news/2022/06/15/achieving-trusted-digital-transactions-across-the-globe-oix-and-toip-align-to-make-it-happen/) Trust over IP
@@ -642,20 +622,7 @@ For businesses the world over, confidence in digital authenticity is in short su
 
 * [eBook: ‘The vLEI: Introducing Digital I.D. for Legal Entities Everywhere](https://www.gleif.org/en/lei-solutions/gleifs-digital-strategy-for-the-lei/introducing-the-verifiable-lei-vlei/gleif-ebook-the-vlei-introducing-digital-i-d-for-legal-entities-everywhere)
 
-* [RFC and IPR Review: PCTF Infrastructure (Technology & Operations) Final Recommendation V1.1](https://diacc.ca/2022/09/26/request-for-comment-and-ipr-review-pctf-infrastructure-technology-operations-final-recommendation-v1-1/) DIACC (RFC Closes 10/27)
 
-The intent of the Infrastructure (Technology & Operations) component is to identify the operational policies, plans, technology and technology operations requirements to support implementation of the principles of the PCTF Profiles in the context of a Digital Identity Ecosystem.
-
-* [BC Digital Trust](https://digital.gov.bc.ca/digital-trust/) BCGov
-
-Nice resources page from BCGov
-
-- [OrgBook BC](https://digital.gov.bc.ca/digital-trust/projects-and-initiatives/orgbook-bc/) A live service providing organization-related Verifiable Credentials in BC, Canada
-- [BC Wallet - Technology Overview](https://digital.gov.bc.ca/digital-trust/projects-and-initiatives/bc-wallet-technology-overview/)
-- [Verifiable Credentials for People](https://digital.gov.bc.ca/digital-trust/projects-and-initiatives/credentials-for-people/) Tools and services for issuing and verifying Verifiable Credentials
-- [Safe Entry BC Demo](https://digital.gov.bc.ca/digital-trust/projects-and-initiatives/safe-entry-bc-demo/) A prototype of a contactless way to manage access to a facility, using Verifiable Credentials
-- [Conference Book Demo](https://digital.gov.bc.ca/digital-trust/projects-and-initiatives/conference-book-demo/) A demo showing the use of Verifiable Credentials for attending a conference
-- [Chat Server Demo](https://digital.gov.bc.ca/digital-trust/projects-and-initiatives/chat-server-demo/) A demo giving access to a chat service using Verifiable Credentials
 * [How to Unf*ck Your Organisation: Organisational strategy and architecture for n00bs](https://blog.weareopen.coop/how-to-unf-ck-your-organisation-b73851dbeba5) WeAreOpenCoop
 
 We’ve put together an [email-based course](https://learnwith.weareopen.coop/courses/org-strategy/) to help forward-thinking people in senior roles who might need a bit of help and orientation. We’ve broken things down into actionable steps based on the resources found at our Learn with WAO site, giving you enough direction and inspiration to get started transforming your organisation for the better!

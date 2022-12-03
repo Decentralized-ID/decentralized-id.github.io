@@ -44,26 +44,18 @@ High level:
 Technical details (implementation):
 
 * [https://docs.google.com/document/d/1Tg4dAEtC78TxG9AsIby_CfpbeOicK_YMKznSQOvtIVU/edit](https://docs.google.com/document/d/1Tg4dAEtC78TxG9AsIby_CfpbeOicK_YMKznSQOvtIVU/edit)
-* [Indicio launches blockchain-enabled network for identity](https://indicio.tech/blog/indicio-launches-blockchain-enabled-network-for-identity/)
-  > “Our clients asked for a stable, fully-staffed network based on Hyperledger Indy— one that could provide the  Service Level Agreements their customers need for mission-critical workloads,” said Heather Dahl, CEO of Indicio. “Today, we are excited to announce that this MainNet is open for business.”
-  > 
-  > “This is the network we need to accelerate adoption of passwordless zero trust ecosystems for enterprise customers” said Mike Vesey, President of [IdRamp](https://idramp.com), a leader in decentralized identity and a Genesis Node Operator on the Network.
 * [https://northernblock.io/products/ssi-enterprise-cloud/](https://northernblock.io/products/ssi-enterprise-cloud/). In this video, we will demonstrate how to create new Verifiable Credentials with custom schemas using the NB Orbit enterprise app. Once the credential schema is created and the attribute fields specified, the enterprise user can then publish a credential definition to whatever root of trust they are using, in our case a Hyperledger Indy network.
 
 * [How to Create New Verifiable Credentials with Customizable Schemas](https://www.youtube.com/watch?v%3D3JR6_tQYhgk)
   > In this video, we will demonstrate how to create new Verifiable Credentials with custom schemas using the NB Orbit enterprise app. 
   > 
   > Once the credential schema is created and the attribute fields specified, the enterprise user can then publish a credential definition to whatever root of trust they are using, in our case a Hyperledger Indy network.
-- [Anonymous Credential Part 1: Brief Overview and History](https://medium.com/finema/anonymous-credential-part-1-brief-overview-and-history-c6679034c914)
-  > An anonymous credential (Anoncred), which is also known as an attribute-based credential (ABC), is a concept for a digital credential that provides a credential holder maximal privacy and an ability to selectively disclose their personal information.
-- [Anonymous Credential Part 2: Selective Disclosure and CL Signature](https://medium.com/finema/anonymous-credential-part-2-selective-disclosure-and-cl-signature-b904a93a1565)
-  > selective disclosure and an anonymous credential (Anoncred) relies on an efficient signature scheme that supports multiple messages with a single signature. One such signature scheme is known as CL signature that is named after its Jan Camenisch and Anna Lysyanskaya […] CL signature popularized Anoncreds, and it also served as a cryptographic building block in Identity Mixer (Idemix) and Hyperledger Indy projects.
+
 * [Forbes “Blockchain 50” Shows Enterprise Blockchain’s Footprint and Impact, with Hyperledger Tech Leading The Pack](https://www.hyperledger.org/blog/2021/02/02/once-again-forbes-blockchain-50-shows-enterprise-blockchains-footprint-and-impact-with-hyperledger-technologies-leading-the-pack)
   > Declaring that blockchain has “gone mainstream,” Forbes today released its 2021 “Blockchain 50,” featuring companies that have at least $1 billion in revenues or are valued at $1 billion or more and “lead in employing distributed ledger technology.” And, once again, half of the companies on the list are using Hyperledger technology.* [Why Distributed Ledger Technology (DLT) for Identity?](https://www.hyperledger.org/blog/2021/04/21/why-distributed-ledger-technology-dlt-for-identity) Hyperledger
   > To understand why DLT is useful for identity, we need to go back to the basics—paper credentials, how that model has worked for 1000s of years, and how the use of DLTs with verifiable credentials allows us to transition the great parts—security and privacy—of that model to the digital age.
-* [Panel: Start Simple to Scale Decentralized Identity](https://hgf2021.sched.com/event/j3ej%23new_tab) HGF2021 • Indicio
 
-Liquid Avatar Technologies and Indicio.tech will share how together they are transitioning the current KABN ID solution to verifiable credentials by building the Liquid Avatar Verifiable Credentials Ecosystem utilizing Hyperledger Aries, Ursa, and Indy.
+
 
 * [hyperledger-labs/business-partner-agent: The Business Partner Agent allows to manage and exchange master data between organizations](https://github.com/hyperledger-labs/business-partner-agent)
 
@@ -73,27 +65,14 @@ There was some discussion about the way to present such a profile, especially th
 
 One alternative, to create a DIDcomm-based protocol for public profile was discussed and would be a good alternative at the cost of every client having to be able to speak DIDcomm.
 
-* [Become a Node Operator](https://indicio.tech/blog/be-a-part-of-the-most-dynamic-network-community-in-decentralized-identity/) Indicio
-  > we’ve seen a rapid rise in demand for robust, stable, and professionally maintained networks to support decentralized identity solutions. It’s not a surprise: decentralized identity’s moment has arrived. That’s why we’ve been hard at work creating Hyperledger Indy networks upon which developers all over the world are building, testing, and launching their solutions.
-* [Hyperledger Ursa code review](https://www.hyperledger.org/hyperledger-ursa/2022/05/31/hyperledger-ursa-code-review) Hyperledger
-
-Rooted in a “trust but verify” mindset, several Canadian public sector entities and [Interac](https://www.interac.ca/en/) (Canada’s interbank network) sponsored a project at the [Digital Identity Laboratory of Canada](https://idlab.org/) (IDLab) to perform a security and cryptography code review of Hyperledger Ursa  (full report is available [here](https://www.hyperledger.org/wp-content/uploads/2022/05/URSA-IDLab-Code-Review.pdf)).
 
 
-
-
-* [Indicio completes Hyperledger Indy DID Method—A Milestone in the Evolution of DID Interop](https://indicio.tech/indicio-completes-hyperledger-indy-did-method-a-milestone-in-the-evolution-of-decentralized-identity-network-interoperability/)
-
-The Indy DID Method paves the way for Hyperledger Indy credentials to scale globally by allowing Indy networks to seamlessly interoperate and create a “network-of-networks” effect.
 
 
 * [Our Approach to Resources on-ledger](https://blog.cheqd.io/our-approach-to-resources-on-ledger-25bf5690c975): Using the capabilities of the DID Core specification for standards-compliant resource lookup
 
 Decentralised Identifiers (DIDs): are often stored on ledgers (e.g., [cheqd](https://github.com/cheqd/node-docs/blob/adr-008-resources-updates/architecture/adr-list/adr-002-cheqd-did-method.md), [Hyperledger Indy](https://hyperledger.github.io/indy-did-method/), distributed storage (e.g., [IPFS](https://ipfs.io/) in [Sidetree](https://identity.foundation/sidetree/spec/)), or non-ledger distributed systems (e.g., [KERI](https://keri.one/)). Yet, DIDs can be stored on traditional centralised-storage endpoints (e.g., [did:web](https://w3c-ccg.github.io/did-method-web/), [did:git](https://github-did.com/)).
 
-* [AnonCreds Indy-Pendence](https://blog.cheqd.io/anoncreds-indy-pendence-4946367469d4) Cheqd
-
-Part 1: Decoupling the reliance on Hyperledger Indy and creating more extensible AnonCreds Objects with cheqd.
 
 
 

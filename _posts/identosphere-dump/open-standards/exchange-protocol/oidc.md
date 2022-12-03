@@ -257,3 +257,7 @@ Options we consider:
 - [https://w3c-ccg.github.io/vp-request-spec/#format](https://w3c-ccg.github.io/vp-request-spec/%23format)
 - [https://specs.bloom.co/wallet-and-credential-interactions/](https://specs.bloom.co/wallet-and-credential-interactions/)
 - [https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/84](https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/84)
+* [Using OpenID4VC for Credential Exchange; Technometria - Issue #62](http://news.windley.com/issues/using-openid4vc-for-credential-exchange-technometria-issue-62-1374264?via%3Dtwitter-card%26client%3DDesktopWeb%26element%3Dissue-card)
+
+Extending OAuth and OIDC to support the issuance and presentation of verifiable credentials provides for richer interactions than merely supporting authentication. All the use cases we’ve identified for verifiable credentials are available in OpenID4VC as well.
+

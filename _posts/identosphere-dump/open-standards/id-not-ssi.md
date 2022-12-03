@@ -7,15 +7,6 @@ published: false
 ## Explainer
 ### Identity not SSI
 
-* [FIDO: Everything You Need to Know About Fast Identity Online](https://www.pingidentity.com/en/company/blog/posts/2021/fast-identity-online-fido.html)
-* [Directory of Products That Assess Identification Documents and Verify Identity Version 2.0](https://diacc.ca/2021/05/03/directory-of-products-that-assess-identification-documents-and-verify-identity-version-2-0/)
-
-This [Directory](https://diacc.ca/2020/05/21/directory-products-assess-identification-documents-verify-identity/) is designed to provide an overview of providers’ solutions which use government issued photo identification cards, combined with biometric facial scans, to establish Digital Identity.
-
-Built on standards: OAuth 2.0 and JWT
-
-See the presentation at [https://self-issued.info/?p=2167](https://self-issued.info/?p%3D2167).
-
 
 
 
@@ -83,9 +74,9 @@ As a part of the pilot, you will add your MyAlberta Digital ID as a verifiable c
 
 Magic Login Form represents a new onboarding experience for end-users, so we wanted to revamp our own onboarding experience for developers to match. Learning about auth can quickly derail any developer’s good day. Striking the balance between good UX and good security can just boggle the mind.
 
-* [Use Fido2 Passwords Authentication with Azure AD](https://damienbod.com/2022/01/17/use-fido2-passwordless-authentication-with-azure-ad/) Damion Bod
 
-This article shows how to implement FIDO2 passwordless authentication with Azure AD for users in an Azure tenant.
+
+
 
 * [What is Knowledge-based Authentication (KBA)?](https://www.pingidentity.com/en/company/blog/posts/2022/what-is-knowledge-based-authentication-kba.html) Ping Identity
 
@@ -99,9 +90,6 @@ This is a story of a politician who cried “hacker” after a reporter informed
 
 The paper documents the international movement towards Open Banking, Open Finance, and secure, consent driven access to all user data. It describes the OpenID Foundation and in particular the Financial-Grade API (FAPI) Working Group’s experience with Open Banking ecosystems internationally.
 
-* [Charting an Accelerated Path Forward for Passwordless Authentication Adoption](https://fidoalliance.org/charting-an-accelerated-path-forward-for-passwordless-authentication-adoption/) FIDO
-
-* [The paper introduces](https://media.fidoalliance.org/wp-content/uploads/2022/03/How-FIDO-Addresses-a-Full-Range-of-Use-CasesFINAL.pdf) multi-device FIDO credentials, also informally referred to by the industry as “passkeys,” which enable users to have their FIDO login credentials readily available across all of the user’s devices.
 
 * [Open Badges is now on the plateau of productivity](https://dougbelshaw.com/blog/2022/03/18/open-badges-fers/) Doug Belshaw
 
@@ -116,9 +104,6 @@ Our [understanding](https://twitter.com/toddmckinnon/status/1506184721922859010)
 The OpenID Foundation is pleased to share its new whitepaper, “[Open Banking, Open Data and Financial-Grade APIs](https://openid.net/wordpress-content/uploads/2022/03/OIDF-Whitepaper_Open-Banking-Open-Data-and-Financial-Grade-APIs_2022-03-16.pdf)”. The paper documents the international movement towards Open Banking, Open Finance, and secure, consent driven access to all user data. It describes the OpenID Foundation and in particular the Financial-Grade API (FAPI) Working Group’s experience with Open Banking ecosystems internationally.
 
 
-* [FIDO passkeys are an existential threat to fintech startups](https://werd.io/2022/fido-passkeys-are-an-existential-threat-to-fintech-startups)
-
-by definition, screen scraping requires storing a user’s financial system passwords in clear text. Nonetheless, you can bet that every system that integrates with payroll systems, and almost every system that integrates with banks (at a minimum), uses the technique. The US has badly needed [open banking style standards](https://standards.openbanking.org.uk/api-specifications/) for years.
 
 Disasters in the World of Data
 
@@ -166,9 +151,6 @@ From our past work in this area, we have seen that slow and steady wins the race
 
 Maintaining an online community is a lot of work, in both the short term and the long term. It requires setting aside time, human resources and tech infrastructure to keep things running smoothly. Here are some questions and ideas that can help you assess what it may take to maintain the online community you’re trying to build:
 
-* [What is FIDO? Infographic](https://www.scmagazine.com/resource/identity-and-access/what-is-fido)
-
-- [How passkeys pave the way for passwordless authentication](https://www.scmagazine.com/resource/identity-and-access/how-passkeys-pave-the-way-for-passwordless-authentication)
 - [InfoCert has been recognized Representative Vendor in Gartner’s Market Guide for Electronic Signature 2022](https://infocert.digital/infocert-has-been-recognized-representative-vendor-in-gartners-market-guide-for-electronic-signature-2022/)
 - [GBG: The State of Digital Identity 2022](https://www.gbgplc.com/media/heqgqhur/gbg-state-of-digital-identity-2022.pdf)
 - Security and satisfaction: Gaining from The Great Switch
@@ -187,7 +169,6 @@ Bad News
 * [LastPass Reports a Breach: Identity News Digest](https://findbiometrics.com/lastpass-reports-a-breach-identity-news-digest-508262/)
 
 
-* [Fido Passkey](https://www.pingidentity.com/en/resources/blog/post/how-fido-passkeys-accelerate-passwordless-future.html)
 
 * [Security pros say the cloud has increased the number of identities at their organizations](https://www.scmagazine.com/analysis/cloud-security/security-pros-say-the-cloud-has-increased-the-number-of-identities-at-their-organizations)
 
