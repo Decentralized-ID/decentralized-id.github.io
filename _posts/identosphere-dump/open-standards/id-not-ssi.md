@@ -20,19 +20,8 @@ Built on standards: OAuth 2.0 and JWT
 
 See the presentation at [https://self-issued.info/?p=2167](https://self-issued.info/?p%3D2167).
 
-* [101 Session: OAuth2](https://iiw.idcommons.net/2B/_101_Session:_OAuth2) by Aaron Parecki
 
-* [https://aaronparecki.com/tag/iiw](https://aaronparecki.com/tag/iiw)
 
-* [https://aaronparecki.com/tag/oauth2](https://aaronparecki.com/tag/oauth2)
-
-* [OAuth 2.0 Simplified](https://aaronparecki.com/oauth-2-simplified/) is a guide to OAuth 2.0 focused on writing clients that gives a clear overview of the spec at an introductory level.
-
-In 2017, I published a longer version of this guide as a book, available on [oauth.com](https://oauth.com/) as well as [a print version](https://oauth2simplified.com). The book guides you through building an OAuth server, and covers many details that are not part of the spec. I published this book in conjunction with [Okta](https://developer.okta.com/).
-
-* [https://speakerdeck.com/aaronpk/oauth-101-internet-identity-workshop-xxxi](https://speakerdeck.com/aaronpk/oauth-101-internet-identity-workshop-xxxi)
-
-* [How OAuth Works](https://www.youtube.com/watch?v%3Dg_aVPdwBTfw%26list%3DPLRyLn6THA5wN05b3qJ6N0OpL3YbritKI-) 12 videos
 
 * [101 Session: UMA - User Manged Access](https://iiw.idcommons.net/3B/_101_Session:_UMA_-_User_Managed_Access) by Eve Maler and George Fletcher
 
@@ -58,41 +47,6 @@ To recap:
 
 On their own independent schedules, all browsers have either broken or have plans to break state sharing via cross-site iframes to limit user tracking - arguably making the Session Management approach unusable.
 
-
-* [TMI BFF: OAuth Token Mediating and session Information Backend For Frontend](https://iiw.idcommons.net/23B/_TMI_BFF:_OAuth_Token_Mediating_and_session_Information_Backend_For_Frontend) by Vittorio Bertocci & Brian Campbell (but mostly Vittorio)
-
-OAuth, Javascript, Backend Infrastructure
-
-When there is an alternative, it is more secure to keep tokens out of the browser.
-
-Specifically talking about clients which are divided between a front end or javascript app, and backend supporting systems specifically for that/those apps
-
-Questions on whether this would also apply equivalently to native apps, which may have different capabilities and infrastructure requirements. It likely does work, but
-
-OAuth in the browser can be complicated and ASs don’t necessarily provide sufficient security features, support web interaction
-
-Bespoke workarounds acquiring tokens on the backend and passing to the frontend. Implementers may have security issues and not understand how to map best current practices
-
-TMI BFF
-
-1. Backend gets and stores tokens, javascript frontend gets a cookie
-2. Request to backend for access (scopes, potentially resource)
-3. Backend returns the token, requests new token with appropriate scope, etc.
-
-* [...]
-
-What is the scope - acquiring a token for direct API access, not necessarily prescriptive for BFF architectures which put all API interactions through BFF. (DW) raised issue that simply converting OAuth calls in a remote party to local API calls protected by a cookie disables some security protections provided by OAuth tokens (XSRF), so some sort of BFF best practices may be needed to prevent footguns.
-
-
-
-* OpenID: [Public Review Period for Proposed Final OpenID Connect Client-Initiated Backchannel Authentication (CIBA) Core Specification](https://openid.net/2021/06/07/public-review-period-for-proposed-final-openid-connect-client-initiated-backchannel-authentication-ciba-core-specification/)
-
-* OpenID: [Public Review Period for Two Proposed SSE Implementer’s Drafts](https://openid.net/2021/06/07/public-review-period-for-two-proposed-sse-implementers-drafts/)
-
-* [Matt Flynn: Information Security | Identity & Access Mgmt.](http://360tek.blogspot.com/2021/06/bell-labs-colonial-pipeline-and-multi.html)
-* [Introducing: The OAuth 2 Game](https://auth0.com/blog/introducing-the-oauth-2-game/)
-
-It features two dice, one for grants and another for application types. Throw the dice and consult the instructions to discover whether the combination of grant and application type you obtained happens to be a good one! Play a few times, and before you know it, you’ll be familiar with the most common combinations!
 * [Police in Latin America are turning activists’ phones against them](https://restofworld.org/2021/latin-america-phone-security/)
 
 Experts say that seized devices have become a trove of information for authorities cracking down on social movements and opposition leaders.

@@ -349,11 +349,6 @@ We’re not convinced that “constraint” is the right theoretical approach fo
 - [Jolocom focused on the Rust KERI implementation](https://github.com/decentralized-identity/keriox/), which we donated to DIF last fall
 
 > An example of the KERI DID registrar/resolver integrated in our library can be found here. This is also included in the Jolocom SmartWallet via the SDK integration. (KERI is currently being worked on in the Decentralized Identity Foundation’s Identifiers and Discovery Working Group,)
-- We at Jolocom strongly believe that DIDComm is a crucial infrastructure element for the broader and future-proof SSI stack, and [current work on DIDComm v2 includes Jolocom’s implementation of the specification](http://github.com/jolocom/didcomm-rs) with authcrypt (authenticated encrypted) and most of the low level of the protocol.
-
-* [DIF F2FJan21 - DIDComm Demo Session with Ivan Temchenko, Tobias Looker, and Oliver Terbu](https://www.youtube.com/watch?v=SaNvIorKQ9I&feature=youtu.be)
-
-During the live demo he showed the message lifecycle in various setups using the new, [open source didcomm-rs library](http://github.com/jolocom/didcomm-rs) on GitHub
 
 * [2021 OpenID Foundation Board Update](https://openid.net/2021/02/09/2021-openid-foundation-board-update/)
   > Nat Sakimura and John Bradley were re-elected to new two-year terms as community member representatives. Nat and John’s well-known technical expertise and global thought leadership ensures continuity across working groups and as the Foundation transitions to new leadership in 2021.

@@ -44,9 +44,6 @@ As we’ll explore in the upcoming and future webinars, Scotland’s opportunity
   > Digi.me’s health pass is built on the same principles as our existing secure data exchange platform, and can be displayed on demand on a user’s phone. It is verified fully private, secure and tamper-proof due to multiple robust security measures including encryption.
 
 This health pass has been designed to be fully interoperable with other international standards, such as the UN Good Health Pass Collaborative, of which [digi.me is a member](https://blog.digi.me/2021/02/25/digi-me-joins-good-health-pass-collaborative-to-help-build-a-safe-travelling-future/).
-* [The ezcap library](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0038.html) - Manu Sporny
-  > Now might be a good time to announce some open source tooling a few of us have been working on related to zcaps that is being created to simplify the developer experience when developing with zcaps.
-* [ezcap (pronounced "Easy Cap")](https://github.com/digitalbazaar/ezcap) - An easy to use, opinionated Authorization Capabilities (zcap) client library for the browser and Node.js.
 
 * [Everything You Need to Know About “Vaccine Passports”](https://identitywoman.net/quoted-in-everything-you-need-to-know-about-vaccine-passports/) IdentityWoman \ [Mother Jones](https://www.motherjones.com/politics/2021/04/everything-you-need-to-know-about-vaccine-passports/)
   > Andy Slavitt, a White House senior adviser for COVID response, specified at a [March 29](https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/29/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-21/) briefing that “unlike other parts of the world, the government here is not viewing its role as the place to create a passport, nor a place to hold the data of citizens.”

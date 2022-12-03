@@ -47,18 +47,6 @@ There is less clarity on the Exchange mechanisms.
 
 One way that has been proposed to look at the exchange options available is to see them in different layers.
 
-* [Aries RFC 0453 - credential issuance protocol using DIDComm V1 data formats](https://github.com/hyperledger/aries-rfcs/tree/master/features/0453-issue-credential-v2)
-
-* [Aries RFC 0454 - Present Proof protocol V2 using DIDCommV1 data formats](https://github.com/hyperledger/aries-rfcs/tree/master/features/0454-present-proof-v2)
-
-### DIDComm v2
-
-Work Item within DIF right now - envelope format with some other opinions we may or may want. Daniel Hardman gave vision - of parts that are done - leaving behind parts not done.
-
-- DIDCom V2 Envelops JWEs (a standard that exists)
-- Aries RFCs for payloads that go in JWE envelopes.
-- Send envelopes over HTTP as a starting point
-
 ### CHAPI
 
 The Credential Handler API or CHAPI is currently a draft community group report developed by/under the Credentials Community Group at the W3C. At the heart of this model is a credential repository which is a Web application that can handle credential requests and credential storage on behalf of the user/holder.  The API Is designed to support the transmission of credentials between a web based issuer and a holder with a cloud wallet (credential repository) that is visible in the same browser but in a different tab.  It creates a “dumb pipe” between the two tabs in the holder’s browser and permits the transmition of the credential effectively from one tab to another.

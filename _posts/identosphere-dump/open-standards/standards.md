@@ -50,10 +50,6 @@ It's not something you're ever rid of... it's something you manage over time;
 - [DID SIOP](https://identity.foundation/did-siop/)
 - [DID Comm](https://github.com/decentralized-identity/didcomm-messaging)
 - [Trust over IP Foundation](https://trustoverip.org/)
-- [Hygiene for a computing pandemic: separation of VCs and ocaps/zcaps](https://lists.w3.org/Archives/Public/public-credentials/2020Dec/0028.html)
-    - You *could* implement zcap-ld on top of VCs…
-    - However, you're actually squishing together what should be a separation of concerns in a way that will become *unhygienic*. Like a lack of proper biological hygiene, the result is sickness in our computing systems.
-    - The observation of "these things seem so similar though!" is true, but you can already make that claim even if you're just looking at the linked data proofs layer. VCs and zcap-ld diverge from there for two very separate purposes: what is said, and what is done.
 
 * [distributed ID learning path](https://translate.google.com/translate?sl=auto&tl=en&u=https://kristinayasuda.com/posts/decentralized-identity-catch-up-path/) Christina Yasuda based on [VC-Spec](https://github.com/decentralized-identity/vc-spec-map) Map by Michael Ruminer
 first describes pre-requisite knowledge, including JSON, JSON-LD, JWT, JWS, JWK, JWA, and sometimes CBOR. She then goes on to break down knowledge areas beginning with the basics: DID-Core, DID-Resolution, DID-Spec, DID Use-Cases. Next, she covers Verifiable Credentials with VC-Data Model, VC Use-Cases, and VC-Implementors Guide, and also Transport, Credential Presentation, and Other Data Formats.
@@ -162,11 +158,6 @@ The [W3C WebAuthn](https://www.w3.org/blog/webauthn/) and [FIDO2](https://fidoal
 
 SDTT is a tool from Google which began life as the [Rich Snippets Testing Tool](https://developers.google.com/search/blog/2010/09/rich-snippets-testing-tool-improvements) back in 2010. Last year Google [announced plans](https://developers.google.com/search/blog/2020/07/rich-results-test-out-of-beta) to migrate from SDTT to successor tooling, the [Rich Results Test](https://search.google.com/test/rich-results), alongside plans to "deprecate the Structured Data Testing Tool". The newer Google tooling is focused on helping publishers who are targeting specific schema.org-powered [searc](https://developers.google.com/search/docs/guides/search-gallery)[h features](https://www.blogger.com/) offered by Google, and for these purposes is a huge improvement as it contextualizes many warnings and errors to a specific target application.
 
-* [JSON-LD Playground](https://json-ld.org/playground/)
-
-Play around with JSON-LD markup by typing out some JSON below and seeing what gets generated from it at the bottom of the page. Pick any of the examples below to get started.
-
-NOTE: The playground uses [jsonld.js](https://github.com/digitalbazaar/jsonld.js) which [conforms](https://github.com/digitalbazaar/jsonld.js%23conformance) to JSON-LD 1.1 [syntax](https://www.w3.org/TR/json-ld11/) ([errata](https://w3c.github.io/json-ld-syntax/errata/)), [API](https://www.w3.org/TR/json-ld11-api/) ([errata](https://w3c.github.io/json-ld-api/errata/)), and [framing](https://www.w3.org/TR/json-ld11-framing/) ([errata](https://w3c.github.io/json-ld-framing/errata/)). Also see the classic [JSON-LD 1.0 playground](https://json-ld.org/playground/1.0/) and the [RDF Distiller](http://rdf.greggkellogg.net/distiller).
 ## Standards
 * [Do I Need a Verifiable Credential?](https://community.rsa.com/t5/rsa-labs-blog/do-i-need-a-verifiable-credential/ba-p/610241)
 * [What is a DID? Part 1](https://www.youtube.com/watch?v%3DOYYtxVEra1c) XSL Labs
@@ -245,10 +236,6 @@ I gave the following presentation on the [OpenID Connect Working Group](https:/
 * [JSON is Robot Barf](https://www.windley.com/archives/2021/09/json_is_robot_barf.shtml) Windley
 
 JSON has its place. But I think we're overusing it in places where a good notation would serve us better.
-
-* DIDComm: [ECDH-1PU Implementation](https://blog.identity.foundation/ecdh-1pu-implementation/) Identity Foundation
-
-In short, ECDH-1PU is a key derivation process that allows for sender authenticity and enables a “[Perfect Forward Secrecy](https://www.wired.com/2016/11/what-is-perfect-forward-secrecy/%23:~:text%3DPerfect%2520forward%2520secrecy%2520means%2520that,of%2520the%2520user%27s%2520sensitive%2520data.)” mechanism, in addition to significant performance gains over JWS message nested in a JWE envelope, as used by existign ECDH-ES aproaches.
 
 * [Q&A: The Potential of Decentralized ID in Travel](https://www.webintravel.com/qa-the-potential-of-decentralized-digital-id-in-travel/) WebInTravel
 
@@ -340,13 +327,7 @@ We make a link between a domain and a DID by implementing an open standard writt
 
 Recently, the WAO team took the opportunity to update the badge platforms page on Badge Wiki, a knowledgebase for the Open Badge community. As the ecosystem continues to evolve we’re seeing some early platforms fall by the wayside and new platforms emerge.
 
-* [The Perfect Signature Style is the Enemy of the One that Works Today](https://indicio.tech/the-perfect-signature-style-is-the-enemy-of-the-one-that-works-today/) Indicio
 
-BBS+ signature styles are not going to be ready for deployment anytime soon. This is precisely why you should build today and in a way that allows you to add them later.
-
-* [DIDComm Mythconceptions](https://www.youtube.com/watch?v%3DrwvQdRyMeY4) Daniel Hardman
-
-DIDComm is a peer-to-peer communication technology for SSI (self-sovereign identity) with security and privacy properties rooted in DIDs (decentralized identifiers). Its core value proposition is often misunderstood or oversimplified. This webinar provides a proper mental model.
 
 
 * [First Public Review Period for OpenID Connect SIOPV2 and OIDC4VP Specifications Started](https://openid.net/2021/12/17/first-public-review-period-for-openid-connect-siopv2-and-oidc4vp-specifications-started/) OpenID
@@ -367,9 +348,10 @@ Regarding the standard itself metadata and display are entering the default stan
 
 display brings in [a little bit of novelty 2](https://github.com/blockchain-certificates/cert-schema/blob/master/cert_schema/3.0/displaySchema.json%23L6) images or pdfs, in addition to the more classic HTML.
 
-* [DIDComm Messaging through libp2p](https://medium.com/uport/didcomm-messaging-through-libp2p-cffe0f06a062) Oliver Terbu
 
-We outlined the next generation decentralized messaging solution built on top of [DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec/), [DIDs](https://www.w3.org/TR/did-core/) and [VCs](https://www.w3.org/TR/vc-data-model/) and a [libp2p](https://libp2p.io/) overlay network. We presented how Alice and Bob establish a connection, exchange messages and demonstrated what connection types are supported.
+
+
+
 * [Self-Sovereign Identity (SSI) and Verifiable Credentials (VC) in Ocean Protocol](https://port.oceanprotocol.com/t/proposal-walt-id-bringing-self-sovereign-identity-ssi-and-verifiable-credentials-vc-to-ocean-protocol-proof-of-concept/976)
 
 What already exists, more recently: [fine-grained permissions 1](https://blog.oceanprotocol.com/fine-grained-permissions-now-supported-in-ocean-protocol-4fe434af24b9):
@@ -437,22 +419,10 @@ This is the Use Case Implementation Workstream of the [COVID Credentials Initia
 
 
 
-* [Hygiene for a computing pandemic](https://fossandcrafts.org/episodes/20-hygiene-for-a-computing-pandemic.html)
-
-This episode of FOSS and Crafts features Christopher Lemmer Webber discussing the object capability security approach. Its a generalization not specific to VCs, continuing from the conversation on the CCG mailinglist, [Hygiene for a computing pandemic: separation of VCs and ocaps/zcaps](https://lists.w3.org/Archives/Public/public-credentials/2020Dec/0028.html), we shared last month.
-
-The podcast *show-notes include an epic list of references* supporting the discussion.
-
 * [@csuwildcat](https://twitter.com/csuwildcat) shares
   > As of Friday, we believe v1 of ION is functionally code complete, and the Sidetree Working Group at DIF (@DecentralizedID) should have a v1 spec candidate ready for the underlying protocol by Jan 21st. Public v1 launch of the ION network on Bitcoin mainnet is just weeks away.
-* [CCG Call about ZCaps and OCaps](https://w3c-ccg.github.io/meetings/2021-01-13/audio.ogg) ([minutes](https://w3c-ccg.github.io/meetings/2021-01-13/))
 
-This week’s CCG teleconference had a great discussion about object capabilities
 
-> Alan Karp:  I've been doing capabilities since I reinvented them in 1996 and I want to make sure we get it right, because when newbies start to use them there are plenty of mistakes that can be made
-> 
-> [...]
-> A capability or an OCAP is an unforgeable, transferable, permission to use the thing it designates ... it combines designation with authorization
 
 * [What Is ISO 27018:2019? Everything Executives Need to Know](https://auth0.com/blog/what-is-iso-27018-2019-everything-executives-need-to-know/)
   > ISO 27018 is part of the ISO 27000 family of standards, which define best practices for information security management. ISO 27018 adds new guidelines, enhancements, and security controls to the ISO/IEC 27001 and ISO/IEC 27002 standards, which help cloud service providers better manage the data security risks unique to PII in cloud computing.
@@ -575,9 +545,8 @@ Bluesky Community Voices #6: Interoperable Formats [https://twitter.com/i/spaces
 * [Working in Public](https://blueskyweb.xyz/blog/5-4-2022-working-in-public) BlueSky
 
 Today we’re releasing [ADX, the “Authenticated Data Experiment”](https://github.com/bluesky-social/adx). Our company's name, “bluesky,” describes the open-ended nature of this project, and the freedom we were given to start from first principles. As we get more concrete, we’ll give more specific names to what we’re building, starting with ADX.
-* [FLOSS WEEKLY 685: DIDS AND DIDCOMM](https://twit.tv/shows/floss-weekly/episodes/685) Featuring Sam Curren
 
-Sam Curren unpacks for Doc Searls and Dan Lynch why DIDs and DIDcomm are the best approach to identity—and to making people first-class citizens on the Internet. Curren also discusses the origin story of picos and the advantages of nomadic living and hacking.
+
 
 ## DID Core advances to recommendation
 
@@ -595,11 +564,8 @@ Harrison Tang, CEO of Spokeo, [is the new co-chair of the CCG](https://twitter.c
 
 W3C CCG (World Wide Web Consortium’s Credentials Community Group) aims to explore the creation, storage, presentation, verification, and user control of credentials (i.e. a set of claims made about someone, or a person record).
 
-* [Steering Committee approved the DIDComm Messaging Spec (DIDComm v2)](https://twitter.com/IndicioID/status/1545208982863691777) @IndicioID
 
-* [DIDComm Messaging](https://identity.foundation/didcomm-messaging/spec/)
 
-DIDComm Messaging enables higher-order protocols that inherit its security, privacy, decentralization, and transport independence. Examples include exchanging verifiable credentials, creating and maintaining relationships, buying and selling, scheduling events, negotiating contracts, voting, presenting tickets for travel, applying to employers or schools or banks, arranging healthcare, and playing games.
 
 
 
@@ -637,13 +603,10 @@ Since verification is off-chain (and generally fast/inexpensive, depending on th
 
 Part 2 of this 2-part series explains the [did:pkh](https://github.com/w3c-ccg/did-pkh/blob/main/did-pkh-method-draft.md)/[CACAO](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-74.md%23simple-summary) variation for Verite data models and flows, which provides an entry path for wallets that may not support sufficient functionality for emerging decentralized identity patterns
 
-* [DIDComm v2 reaches approved spec status!](https://blog.identity.foundation/didcomm-v2/) DIF Blog
 
-DIDComm defines how messages are composed into application-level protocols and workflows.
 
-* [Advanced DIDComm Messaging](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/advance-readings/advanced-didcomm-messaging.md) By: Karim Stekelenburg (Animo Solutions) -- karim@animo.id Date: 18-07-2022 Version: 0.1
 
-in order for DIDComm to provide a potential replacement for commonly used chat protocols like WhatsApp (Extensible Messaging and Presence Protocol (XMPP)), Telegram (MTProto), or Signal (Signal Protocol), it needs to support modern chat features we use everyday
+
 
 * [Decentralized Identifiers: Implications for Your Data, Payments and Communications](https://newsletter.impervious.ai/decentralized-identifiers-implications-for-your-data-payments-and-communications-2/) Impervious
 
@@ -679,7 +642,10 @@ members from across the community come together to test interoperability between
 
 - [The selective disclosure industry landscape, including Verifiable Credentials and ISO Mobile Driver Licenses (mDL)](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-why-selective-disclosure-00) – [Kristina Yasuda](https://twitter.com/kristinayasuda)
 - [A Look Under the Covers: The JSON Web Proofs specifications](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-json-web-proofs-initial-drafts-00) – Jeremie Miller
-- [Beyond JWS: BBS as a new algorithm with advanced capabilities utilizing JWP](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-beyond-jws-bbs-00) – [Tobias Looker](https://twitter.com/tplooker)
+
+
+
+
 
 * [Aries Agent Test Harness Enhancement Project](https://www.idlab.org/en/aries-agent-test-harness-enhancement-project/) IDLab
 
@@ -701,8 +667,6 @@ At this stage of the AATH Enhancement Project, two factors helped define its bro
 * [Crossword wins NGI Atlantic funds for Verifiable Credentials project](https://www.crosswordcybersecurity.com/post/next-generation-internet-grant-win) Crossword Cybersecurity
 
 European Commission’s Next Generation Internet (NGI) initiative to lead a project to test the OpenID Foundation’s protocols for transferring verifiable credentials. Crossword’s partners in this project are Spruce Inc from the USA and Fraunhofer from Germany
-
-* [DIDComm & DIDComm Messaging](https://medium.com/datev-techblog/didcomm-didcomm-messaging-3e10fbf12bb8) Tim Vorgs, DATEV eG
 
 * [Trinsic Builds Open Source Trust Registry Sponsored by eSSIF-Lab](https://trinsic.id/trinsic-builds-open-source-trust-registry-sponsored-by-essif-lab/) Trinsic
 
@@ -727,11 +691,6 @@ The concept behind a Trust Registry is that a Wallet needs to know which decentr
 
 tldr :: DID is just an URI :: VC is a cryptographically verifiable credential using DID :: SSI is a self-sovereign and privacy-preserving identity :: Non-human (Machines, Bots, Goods, anything) also able to have DID, VC, and SSIs
 
-* [Blockchain and Self-Sovereign Identity Empowered Cyber Threat Information Sharing Platform](https://www.youtube.com/watch?v%3DlzS49R52PwA) Siddhi
-
-looks interesting and different - uses DIDComm
-
-Presented in 7th IEEE International Conference on Smart Computing(IEEE SmartComp 2021)
 
 * [BCGov improves sustainability reporting with digital trust technology](https://trustoverip.org/blog/2022/08/29/toip-steering-committee-member-the-government-of-british-columbia-improves-sustainability-reporting-with-digital-trust-technology/) ToIP
 
@@ -775,9 +734,6 @@ Good news to see Cardano jumping on the bandwagon, looks like they will join the
 
 The recent DID core specification approval at the World Wide Web Consortium (W3C) provided clearer and stronger foundations for identity platforms building decentralized identifiers.
 
-* [Timo Glastra @TimoGlastra](https://twitter.com/TimoGlastra/status/1572976791136137216) via Twitter
-
-Just got my first DIDComm protocol published on the [https://didcomm.org](https://t.co/GvWIyysx1k) website.
 
 * [Circle and Industry Leaders Have Built the First Decentralized Identity Proof-of-Concept for Crypto Finance using Verite Credentials](https://www.circle.com/en/pressroom/circle-and-industry-leaders-have-built-the-first-decentralized-identity-proof-of-concept-for-crypto-finance-using-verite-credentials) Circle
 
@@ -805,11 +761,6 @@ By producing an accessible, open-source wrapper library, Tangle Labs provides an
 
 The discussion gets very concrete when Daniel describes selective disclosure JWT, or SD-JWT, a new IETF specification he is coauthoring that offers a simple and easy-to-adopt approach to produce JWTs capable of supporting selective disclosure. Here at Identity, Unlocked, we are huge fans of this new specification, and we hope this episode will help you get started!
 
-* [SelfSovereignIdentity_memes](https://twitter.com/SSI_by_memes/status/1578045600833994755)
-
-Currently, everyone waiting for [#AIP2](https://twitter.com/hashtag/AIP2), which enables [#BBS](https://twitter.com/hashtag/BBS)+ [#Signature](https://twitter.com/hashtag/Signature) in #SSI. Companies already implemented in their products, such as [@trinsic_id](https://twitter.com/trinsic_id) and [@mattrglobal](https://twitter.com/mattrglobal). But ZKP [#predicates](https://twitter.com/hashtag/predicates) are not supported by BBS+, so no ZKP age verification possible. Back to [#AnonCreds](https://twitter.com/hashtag/AnonCreds)?
-
-* [](https://twitter.com/SSI_by_memes/status/1578045600833994755)
 
 Related resources:
 
@@ -840,11 +791,6 @@ Extending OAuth and OIDC to support the issuance and presentation of verifiable 
 
 * [Trinsic Basics: What Are SSI Standards?](https://trinsic.id/what-are-ssi-standards/)
   > There are two kinds of standards that Trinsic implements to enable interoperability and avoid vendor lock-in: data model standards and protocol standards.
-
-* [Trusted P2P Messaging with DIDs, DIDComm and VCs](https://medium.com/uport/trusted-p2p-messaging-with-dids-didcomm-and-vcs-398f4c3f3cda) uPort
-  > about their path towards trusted P2P messaging and announces the [DIDAgent Framework (DAF)](https://github.com/uport-project/daf)
-  > 
-  > when we speak about a DID, then we need to be more precise and also speak about the particular DID method of that DID which defines the CRUD operations on a target system such as Ethereum.
 
 * [Manifesto: Rules for standards-makers](http://scripting.com/2017/05/09/rulesForStandardsmakers.html)
   > I've used all kinds of formats and protocols in a long career as a software developer, even created a few. My new manifesto summarizes what I've learned about what works and what doesn't.
@@ -1070,22 +1016,6 @@ Here's an [illustration of the relationships between the initial DOMAIN and POOL
 * [FYI: C2PA Releases Specification of World’s First Industry Standard for Content Provenance](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0207.html)  Leonard Rosenthol (Wednesday, 26 January)
 
 Just wanted to update folks here that the C2PA has released version 1.0 of their specification at [https://c2pa.org/specifications/specifications/1.0/index.html](https://c2pa.org/specifications/specifications/1.0/index.html).  As previously mentioned, it includes native support for VC’s for use in identification of actors (be they human, organizations, etc.).  Thanks to everyone here for their input on our work and helping us to deliver.
-
-* [FedId CG at W3C and GNAP](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0065.html)  Orie Steele (Friday, 7 January)
-
-I asked them whether they considered GNAP via slack.
-
-* [https://w3ccommunity.slack.com/archives/C02355QUL73/p1641585415001900](https://w3ccommunity.slack.com/archives/C02355QUL73/p1641585415001900)
-
-They are chartered here: [](https://fedidcg.github.io/)[https://fedidcg.github.io/](https://fedidcg.github.io/)
-
-To look at AuthN that breaks when browser primitives are removed.
-
-They are currently focused on OIDC, SAML, WS-Fed.
-
-The reason I asked them was in relation to the questions we have discussed regarding "What can GNAP replace".
-
-Clearly GNAP can replace OAuth, but I think you both have now confirmed that GNAP does not replace OIDC, or federated identity...
 
 
 * [https://github.com/transmute-industries/xmss](https://github.com/transmute-industries/xmss)

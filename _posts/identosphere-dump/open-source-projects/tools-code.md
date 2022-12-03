@@ -93,9 +93,7 @@ there are many known DID methods, but most of them require you to have a [digita
 
 While this may sound convenient for many of us, it comes with its shortcomings as well.
 
-* [DIDComm Messaging through libp2p](https://medium.com/uport/didcomm-messaging-through-libp2p-cffe0f06a062) uPort
 
-Peers would still use their peer ID for [libp2p](https://libp2p.io/) routing and authentication. Alice and Bob would exchange their [DID](https://www.w3.org/TR/did-core/) out of band and will be able to find their counterparty’s peer ID via their [DIDs](https://www.w3.org/TR/did-core/).
 
 * [Introducing New Tools for Creators to Build Trusted Communities](https://www.civic.com/blog/introducing-new-tools-for-creators-to-build-trusted-communities/) CIVIC
 
@@ -108,11 +106,6 @@ Our goal is to make the process of building trust easier and more effective for 
 This project implements a user authentication flow leveraging an Ethereum wallet for single sign on capabilities across all of Web3.
 
 The technologies used are [DID (decentralized identifiers)](https://www.w3.org/TR/did-core/), [Ceramic](https://ceramic.network/), [3id-connect](https://github.com/ceramicstudio/3id-connect), and [Self.ID](https://developers.ceramic.network/tools/self-id/overview/)
-* [Implement Compound Proof BBS+ Verifiable Credentials Using ASP.NET Core and MATTR](https://damienbod.com/2021/12/13/implement-compound-proof-bbs-verifiable-credentials-using-asp-net-core-and-mattr/) Damien Bod
-
-The ZKP BBS+ verifiable credentials are issued and stored on a digital wallet using a Self-Issued Identity Provider (SIOP) and OpenID Connect. A compound proof presentation template is created to verify the user data in a single verify.
-
-Code: [https://github.com/swiss-ssi-group/MattrAspNetCoreCompoundProofBBS](https://github.com/swiss-ssi-group/MattrAspNetCoreCompoundProofBBS)
 * [DTDL models - Azure Digital Twins | Microsoft Docs](https://docs.microsoft.com/en-us/azure/digital-twins/concepts-models)
 
 MSFT does know how to do to JSON-LD they just pretend not to
@@ -241,8 +234,7 @@ This is so exciting to see what Wayne and his team are building.
 * [EPS for SSI (Self-Sovereign Identity)](https://kokumai.medium.com/eps-for-ssi-self-sovereign-identity-8c742e2b1d02)
   > In my earlier post, I failed to refer specifically to the people working for Self-Sovereign Identity and the likes of blockchain that support the distributed/decentralised storage of secrets. [...] you might all be interested to hear that the key function of Expanded Password System is to convert images to high-entropy codes that work as very long passwords and also as the seeds of symmetric/asymmetric cryptographic keys.
 
-* [Mental Models of JSON-LD and what a "Document Loader" really does](https://www.youtube.com/watch?v=-yUbMDft5O0)  Orie Steel
-  > and terms like "dereferencing" that trip up even highly experienced senior developers that show up late to the Linked-Data party and its open-world model (complete with its own security model based on different availability assumptions).
+
 
 * [Trinsic donates did-key.rs to I&D WG](https://medium.com/decentralized-identity/trinsic-donates-did-key-rs-to-i-d-wg-8a278f37bcd0)
   > DID:Key, originally specified in the W3C Credentials Community Group (CCG), is a DID “pseudo-method” that allows static, pre-existing, and/or pre-published public keys to function like traditional DIDs — they can be queried, stored, issued against, and resolved to return valid DID documents.
@@ -287,8 +279,7 @@ This is so exciting to see what Wayne and his team are building.
     >
     > Transmute leverages these workbenches as part of our global trade solutions, where our customers benefit from verifiable data workflows and integrated capabilities. 
 
-* [Mattr Releases JSON-LD Lint](https://mattr.global/new-to-json-ld-introducing-json-ld-lint/) By Emily Fry and Tobias Looker, Mattr Global
-    > JSON-LD, based on the ubiquitous JSON technology, is rapidly gaining [adoption](https://w3techs.com/technologies/details/da-jsonld) on the web. [JSON-LD](https://json-ld.org/) is an innovation relevant to both [business minds](https://www.forbes.com/sites/forbestechcouncil/2019/02/25/why-is-json-ld-important-to-businesses/#565e8546e1bf) and developers alike.
+
 
 ### Code
 
@@ -371,9 +362,14 @@ we want to explain what we talk about when we talk about Open Recognition. It bu
 
 ► [Credentials as a Service Providing Self Sovereign Identity as a Cloud Service Using Trusted Execution Environments](https://ieeexplore.ieee.org/document/9610297)
 
+* [Hygiene for a computing pandemic](https://fossandcrafts.org/episodes/20-hygiene-for-a-computing-pandemic.html)
+
+This episode of FOSS and Crafts features Christopher Lemmer Webber discussing the object capability security approach. Its a generalization not specific to VCs, continuing from the conversation on the CCG mailinglist, [Hygiene for a computing pandemic: separation of VCs and ocaps/zcaps](https://lists.w3.org/Archives/Public/public-credentials/2020Dec/0028.html), we shared last month.
+
+The podcast *show-notes include an epic list of references* supporting the discussion.
 
 
-Updates on Kepler including implementing support for [CACAO-ZCAPs](https://github.com/spruceid/cacao-zcap), improved the `put` function to make it easier to store objects of different types, and added support for listing objects by prefix: [kepler-sdk#40](https://github.com/spruceid/kepler-sdk/pull/40) [kepler#115](https://github.com/spruceid/kepler/pull/115).
+
 
 * [EBSI Demo Day](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/EBSI%2BDemo%2BDay) ([presentation](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/464979566/EBSI_Demo_Day.pdf)) ([video playlist](https://www.youtube.com/playlist?list%3DPLPMb0otsCuFLpE4UYiAZ_y3HhP2VX6q8O)
 

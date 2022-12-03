@@ -79,8 +79,6 @@ One alternative, to create a DIDcomm-based protocol for public profile was discu
 
 In a Self Sovereign Environment supported by Hyperledger Indy / Aries agent framework, Mediator Agent is one of the essential components that acts as postman service between Issuer /Verifier Aries Agent and Mobile Agent.
 
-* [trustbloc/hub-router](https://github.com/trustbloc/hub-router) DIDComm mediator and router with mailbox features.
-  > The TrustBloc hub-router is a working implementation of the Mediator Coordination and the Pickup protocols built using Hyperledger Aries Framework - Go.
 * [Become a Node Operator](https://indicio.tech/blog/be-a-part-of-the-most-dynamic-network-community-in-decentralized-identity/) Indicio
   > we’ve seen a rapid rise in demand for robust, stable, and professionally maintained networks to support decentralized identity solutions. It’s not a surprise: decentralized identity’s moment has arrived. That’s why we’ve been hard at work creating Hyperledger Indy networks upon which developers all over the world are building, testing, and launching their solutions.
 * [Hyperledger Ursa code review](https://www.hyperledger.org/hyperledger-ursa/2022/05/31/hyperledger-ursa-code-review) Hyperledger

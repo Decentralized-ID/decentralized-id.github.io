@@ -25,14 +25,14 @@
   - Complementary to VC/DID Standards
     - JSON-LD
     - JSON
-    - KERI
+    - KERI ✓
     - Cryptography
-      - BBS
+      - BBS ✓
   - Authorization Protocols
-    - oCap/zCap
-    - UCAN
-    - GNAP
-    - OAuth
+    - oCap/zCap ✓
+    - UCAN ✓
+    - GNAP ✓
+    - OAuth ✓
   - Trust Frameworks
     - 800-63-3
     - DIACC

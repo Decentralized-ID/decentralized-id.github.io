@@ -93,11 +93,7 @@ published: false
   > - The security landscape for global enterprises
   > - Decentralized identity, what it is and how it fortifies existing data infrastructure
   > - Case study: applying zero trust and decentralized identity to energy
-* [Building capability-based data security for Ceramic](https://blog.ceramic.network/capability-based-data-security-on-ceramic/)
-  > The 3Box Labs team recently published [a new standard for creating capability containers](https://github.com/ChainAgnostic/CAIPs/pull/74) for accessing decentralized data to the [Chain Agnostic Standards Alliance](https://github.com/ChainAgnostic/CASA). Capability containers are an approach for managing advanced data security and permissions, commonly referred to as “Object Capabilities” or “OCAPs.”
-- [The impact of self-sovereign identity on the cybersecurity world](https://blog.avast.com/impact-of-self-sovereign-identity-on-cybersecurity)
-* [The Challenging New World of Privacy & Security](https://youtu.be/JmlvOKg_dS4?t=780) Atlanta Innovation Forum (Enterprise)
-featuring folks from MSFT, GSM, and Michael Becker. The video looks at the range of risks present in managing identity assets.  Its focus is coming from the enterprise-level perspective. 
+
 * [Can SSI Disrupt Surveillance Capitalism?](https://academy.affinidi.com/can-ssi-disrupt-surveillance-capitalism-5c8cd6b50278) Affinidi
   Are these advantages enough to disrupt surveillance capitalism? Do you think SSI is the antidote for today’s Internet identity problems and surveillance capitalism? Please share your thoughts with us.
 * [Identity + Security + Privacy = Trust](https://digitalidentity.nz/2021/08/26/identity-security-privacy-trust/) DigitalID NZ

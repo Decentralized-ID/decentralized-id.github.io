@@ -795,10 +795,6 @@ This is excellent work, with lots of references, by Dr. Nuttawut Kongsuwan ([Fin
 
 
 
-- [Anonymous Credential Part 3: BBS+ Signature](https://medium.com/finema/anonymous-credential-part-3-bbs-signature-26797721ca74)
-  > Compared to the CL signature, the BBS+ signature has much shorter keys and signatures for a comparable level of security. As a result, the BBS+ signature enables fast implementation for anonymous credentials. It can be used in combination with signature proof of knowledge to hide some of credential attributes/messages in a zero-knowledge fashion.
-
-The BBS+ signature will also soon be available in [Finema](https://finema.co/)’s Identity Wallet! We are excited to see how this technology will make an impact to the society in the coming years.
 
 * [Trust Frameworks](https://medium.com/mattr-global/learn-concepts-trust-frameworks-ad96a4427991)
   > Trust frameworks are a foundational component of the web of trust. A trust framework is a common set of best practice standards-based rules that ensure minimum requirements are met for security, privacy, identification management and interoperability through accreditation and governance. These operating rules provide a common framework for ecosystem participants, increasing trust between them.

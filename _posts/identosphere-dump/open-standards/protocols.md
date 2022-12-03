@@ -56,22 +56,7 @@ The conversation meanders through deeper details, from how the current [SIOP sp
 
 ## Identity Not SSI
 
-* [The Nuts and Bolts of OAuth 2.0](https://aaronparecki.com/2020/12/22/14/oauth)
 
-Aaron Parecki - Mr. OAuth has a new course out on Udemy
-
-> 3.5 hours of video content, quizzes, as well as interactive exercises with a guided learning tool to get you quickly up to speed on OAuth, OpenID Connect, PKCE, best practices, and tips for protecting APIs with OAuth.
-
-
-### Grant Negotiation and Authorization Protocol (GNAP)
-
-* [GNAP Editors' Use of GitHub Issues](https://aaronparecki.com/2020/11/25/4/gnap-github-issues) 
-  > The editors met yesterday to discuss the issues that were pulled out of the previous draft text and document a process for how to resolve these and future issues. We would like to explain how we plan on using labels on GitHub issues to keep track of discussions and keep things moving. 
-
-* [Genesis of the GNAP working group with Dick Hardt of SignIn.org](https://auth0.com/blog/identity-unlocked-explained-episode-6/). Auth0 Podcast *Identity Unlocked* Vittorio Bertocci
-  > The decision was made to create a new group apart from OAuth, and Dick clarifies that the GNAP working group does not feel constrained by existing technology; GNAP does not need to be backward-compatible, but Dick still hopes that the transition to GNAP will be smooth for those who use it. 
-* [Filling in the GNAP](https://medium.com/@justinsecurity/filling-in-the-gnap-a032453eaf8c)
-  > Justin Richer identity protocol writer and implementer extraordinaire has a very excellent post explaining the new GNAP and all the things that lead to it, including OAuth, OpenID, TxAuth, OAuth3, and OAuth.XYZ. This protocol is a big deal and will be important. It’s just beginning the journey through IETF (Internet Engineering Task Force) the main standards body of the internet.
 
 
 * [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c)

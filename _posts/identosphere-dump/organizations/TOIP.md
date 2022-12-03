@@ -20,6 +20,5 @@ The ToIP Concepts and Terminology Working group is proposing starting a - Mental
 - The CTWG is proposing to start up a new Mental Models Task Force in September if there is sufficient interest
 
 If you are interested Ping the ToIP Slack channel: #concepts-terminology-wg or email Judith@trustoverip.org
-- [User Controlled Authorization Network](https://github.com/ucan-wg/spec/) model and how it contrasts with decentralized approaches
-- APAC/ASEAN Community Call now a colloaborative initative between DIF and ToIP, launched Thursday 26th May 2022, kicking off with an IIW34 recap. ([Recording](https://us02web.zoom.us/rec/share/5FW6hVoZc1kVJiFL4NNCRZg7625h-1UsC1xCY8Mb7cLXQpO2yDW566woLoA5IZA.MUVPrrNr_k3PXxDl)
-A couple weeks ago Amber Case came and spoke about “[Calm Technology](https://www.youtube.com/watch?v%3DNgyfa4_NuPI)” at the TOIP Human Experience Working Group ([HXWG](https://wiki.trustoverip.org/display/HOME/Human%2BExperience%2BWorking%2BGroup)
+
+

@@ -92,39 +92,6 @@ we are pulling together these as an experiment based on feedback from the commun
 
 We also have [IIW33 set now as a virtual event October 12-14](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxxiii-33-2021b-tickets-160257990965) - we had too much uncertainty around travel for folks outside the US who are now 50% of attendees, delta+ variants, fires in California at that time of year and wanting to provide hybrid participation options and not having time.
 
-* [a few thoughts about zcaps](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0036.html) Nikos Fotiou
-
-I was reading zcaps draft, as well as related work, mostly macaroons ([https://research.google/pubs/pub41892/](https://research.google/pubs/pub41892/).
-
-Something that I found confusing  about capability documents is that they do not make clear the actions they concern. For example from this [](https://w3c-ccg.github.io/zcap-ld/%23example-1)[https://w3c-ccg.github.io/zcap-ld/#example-1](https://w3c-ccg.github.io/zcap-ld/%23example-1) it is not clear that this is a capability for "driving a car".
-
-* [Manu Responds:](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0037.html)
-
-We are still trying to figure out how to explain these things to people.
-
-Capabilities-based systems are not a new concept; they're decades old at this
-
-point. The challenge has always been in communicating why they're useful and
-
-have a place in modern security systems.
-
-The Encrypted Data Vault work uses zcaps, and it's there that we're trying
-
-hard to explain to developers how to use it:
-
-* [https://identity.foundation/confidential-storage/#introduction](https://identity.foundation/confidential-storage/%23introduction)
-
-* [The "Verifiable" Economy [was RE: a few thoughts about zcaps]](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0047.html) Michael Herman (Trusted Digital Web) (Monday, 5 April)
-
-After ruminating on ZCAPs, VCs, DIDs, and DID Documents over Easter dinner, it occurred to me that we're on the verge of creating a model for a "verifiable" economy...
-
-![https://www.notion.soimages/image3.png](https://www.notion.soimages/image3.png)
-
-* [Capability Authorization-enabled Decentralized Object Model [was RE: The "Verifiable" Economy [was RE: a few thoughts about zcaps]]](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0062.html) Michael Herman (Trusted Digital Web) (Wednesday, 7 April)
-
-I see all of this converging into a Capability Authorization-enabled Decentralized Object Model.  “More news at 11…”
-
-![https://www.notion.soimages/image1.png](https://www.notion.soimages/image1.png)
 
 * [Fake CDC vax cards now being sold to anti-vaxxers](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0077.html)  Moses Ma (Thursday, 8 April)
 
@@ -170,37 +137,27 @@ You can view the latest Vaccination Certificate test suite report here:
 
 * [https://w3id.org/vaccination/interop-reports](https://w3id.org/vaccination/interop-reports)
 
+
+
 * [Regarding CBOR-LD Web Transports](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0100.html)  Orie Steele (Saturday, 10 April)
-
-I pushed up this small demo showing how to transport JSON-LD as CBOR-LD over QR Code and Web NFC.
-
-* [https://github.com/transmute-industries/cbor-ld-web-transports](https://github.com/transmute-industries/cbor-ld-web-transports)
-
+  > I pushed up this small demo showing how to transport JSON-LD as CBOR-LD over QR Code and Web NFC.
+* [transmute-industries/cbor-ld-web-transports](https://github.com/transmute-industries/cbor-ld-web-transports) github
 * [CBOR-LD stabilization (was: Re: Regarding CBOR-LD Web Transports)](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0127.html)  Manu Sporny (Wednesday, 21 April)
-
-Digital Bazaar has a few updates to share with the community.
-
-1. With a huge thank you to Dave Longley, a new version of the CBOR-LD library, with generalized and stable algorithms, and that works in the browser and node.js, has been released:
-
-[https://github.com/digitalbazaar/cborld](https://github.com/digitalbazaar/cborld)
-
-2. We have split out the CBOR-LD command line interface into a separate project:
-
-[https://github.com/digitalbazaar/cborld-cli/tree/initial](https://github.com/digitalbazaar/cborld-cli/tree/initial)
-
-1. DB has released a CBOR-LD to QR Code image library for encoding and decoding Verifiable Presentations:
-
-[https://github.com/digitalbazaar/vpqr](https://github.com/digitalbazaar/vpqr)
-
-1. After some consultation with Mattr and Transmute, we've settled on a base32 alphanumeric QR Code encoding that is 10% more  space efficient than base64url byte mode. This is important because this format is compatible with hundreds of QR Code readers on the market. Every QR Code reader that we've tested has worked with this new format.
-
-* [OAuth2.0 and VCs](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0152.html) Nikos Fotiou
-
-I would like to share with you a paper we have written and it will be presented at [IEEE ICCCN 2021](http://www.icccn.org/). You can find the paper here [https://arxiv.org/abs/2104.11515](https://arxiv.org/abs/2104.11515) We tried to couple OAuth 2.0 flows with JWT/JWS and VCs in order to implement capabilities-based access control. Our goal was to show gains with minimal changes. Some things that might be of interest:
-
-- We used Proof-of-Possession Key Semantics for JSON Web Tokens (RFC 7800) instead of credentialSubject `id`
-- We used OAuth 2.0 Demonstration of Proof-of-Possession at the Application Layer (DPoP),([https://datatracker.ietf.org/doc/draft-ietf-oauth-dpop/](https://datatracker.ietf.org/doc/draft-ietf-oauth-dpop/)) for proving VC ownership
-- We discuss how Revocation list 2020 has better privacy properties compared to RFC 7662 (which can be used for examining the status of an access token)
+  > Digital Bazaar has a few updates to share with the community.
+  > 
+  > 1. With a huge thank you to Dave Longley, a new version of the CBOR-LD library, with generalized and stable algorithms, and that works in the browser and node.js, has been released:
+  > 
+  > [https://github.com/digitalbazaar/cborld](https://github.com/digitalbazaar/cborld)
+  > 
+  > 2. We have split out the CBOR-LD command line interface into a separate project:
+  > 
+  > [https://github.com/digitalbazaar/cborld-cli/tree/initial](https://github.com/digitalbazaar/cborld-cli/tree/initial)
+  > 
+  > 1. DB has released a CBOR-LD to QR Code image library for encoding and decoding Verifiable Presentations:
+  > 
+  > [https://github.com/digitalbazaar/vpqr](https://github.com/digitalbazaar/vpqr)
+  > 
+  > 1. After some consultation with Mattr and Transmute, we've settled on a base32 alphanumeric QR Code encoding that is 10% more  space efficient than base64url byte mode. This is important because this format is compatible with hundreds of QR Code readers on the market. Every QR Code reader that we've tested has worked with this new format.
 
 * [Zero Trust Architecture in the White House Executive Order on Cybersecurity](https://lists.w3.org/Archives/Public/public-credentials/2021May/0062.html) Adrian Gropper (Friday, 14 May)
 
