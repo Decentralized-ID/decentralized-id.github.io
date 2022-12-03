@@ -83,45 +83,8 @@ One of the challenges identified by this last paper is the overhead of using SSI
 
 Figure 1. Binary versions of DIDComm and DID Documents are needed to allow transmission in LoRa networks. The payload, in blue, is a DID Document. The overhead, in orange, is the protocol overhead due to the message signature.
 
-* [Introduction to Picos](https://iiw.idcommons.net/4C/_Introduction_to_Picos) by Phil Windley
 
-IoT, digital twins, device shadows, Conflict-free replicated data type (CRDT), CSP over DIDcomm
 
-* [https://picolabs.io](https://picolabs.io) Pico Labs
-
-* [https://github.com/Picolab/](https://github.com/Picolab/) repos
-
-* [https://picolabs.atlassian.net/wiki](https://picolabs.atlassian.net/wiki) documentation
-
-* [http://stackoverflow.com/questions/tagged/krl](http://stackoverflow.com/questions/tagged/krl) programming Q&A
-
-* [Announcing Pico Engine 1.0](https://www.windley.com/archives/2021/02/announcing_pico_engine_10.shtml)
-
-Pico is short for “Persistent Compute Objects.”
-
-Why Picos
-
-- Persistent, personal, computational nodes → More individual autonomy
-- Computational node for anything: person, place, organization, smart thing, dumb thing, concept, even a pothole
-- Better, more scalable model for IoT → trillion node networks
-- Picos support social things and trustworthy spaces
-- Better sharing, more natural relationship-based interactions (borrow my truck, Fuse with two owners)
-- Scales
-- Substitutable hosting model → freedom of choice
-- pico mesh
-
-* [...]
-
-What are Picos?
-
-- “Pico” is a neologism for persistent compute objects.
-- Persistence is a core feature of how picos work.
-- Picos exhibit persistence in three ways:
-- Persistent identity—Picos exist, with a single identity, continuously from the moment of their creation until they are destroyed.
-- Persistent state—Picos have state that programs running in the pico can see and alter.
-- Persistent availability—Picos are always on and ready to process queries and events.
-
-Pico Engine 1.0 released in January
 
 * [Rugged Identity: resilience for Identity of Things to bad latency, signal, power, physical integrity. Mars, war zones, bad neighbors, Great Firewalls.](https://iiw.idcommons.net/11C/_Rugged_Identity:_resilience_for_Identity_of_Things_to_bad_latency,_signal,_power,_physical_integrity.) by Phil Wolff
 

@@ -87,12 +87,8 @@ a simple mechanism to provide public information concerning an entity by adverti
 
 * [Trust Registry or Machine-Readable Governance?](https://indicio.tech/trust-registry-or-machine-readable-governance/) Indicio
   > Machine-readable governance is composed of elements that help to establish trust and enable interoperability: trusted participants, schemas (templates for structuring information in a credential), and rules and flows for presenting credentials and verifying them. Machine-readable governance can be hierarchical. Once a governance system is published, other organizations can adopt and then amend or extend the provided system.
-* [Battle of the Trust Frameworks with Tim Bouma & Darrell O’Donnell](https://northernblock.io/battle-of-the-trust-frameworks-with-tim-bouma-darrell-odonnell) Northern Block
 
-1. Levels of Assurance (LOA): an introduction to LOAs as they relate to Digital Identity and why they’re an important part of the recipe in achieving digital trust. Tim and Darrell give us some practical examples of LOAs.
-2. The Concept of Trust: how do we define trust at a high-level and how do we differentiate between technical and human trust? How can we build trust with credential issuers but also with credential holders?
-3. The World of Trust Frameworks: what are trust frameworks and what are different types of frameworks being deployed in both the public and private sectors? How are organizations trying to monetize trust frameworks? What’s going right, and what’s going wrong with the way trust frameworks are being implemented?
-4. The Importance of Open Source for Trust Creation: why is open source important for achieving digital sovereignty? Is open source the only way to improve transparency, flexibility and accountability?
+
 * [ToIP Releases Additional Tools for Governance and Trust Assurance in Digital Trust Ecosystems](https://trustoverip.org/news/2021/11/12/toip-releases-additional-tools-for-governance-and-trust-assurance-in-digital-trust-ecosystems/)
 
 Following the [September announcement of its first tools for managing risk in digital trust ecosystems](https://trustoverip.org/blog/2021/09/23/trust-over-ip-foundation-issues-its-first-tools-for-managing-risk-in-digital-trust-ecosystems/), today the ToIP Foundation announced three more pairs of tools to assist in the task of generating digital governance and trust assurance schemes
@@ -271,60 +267,8 @@ Links from chat: [http://emoglen.law.columbia.edu/LIS/archive/privacy-legis/IST
 
 * [Practical Perspectives on the collapse of zero-sum civilizations and the emergence of computational sovereigns and a pattern approach to digital equity governance: The source of the problems is the source of the solutions](https://iiw.idcommons.net/index.php?title%3D22I/_Practical_Perspectives_on_the_collapse_of_zero-sum_civilizations_and_the_emergence_of_computational_sovereigns_and_a_pattern_approach_to_digital_equity_governance:_The_source_of_the_problems_is_the_source_of_the_solutions.%26action%3Dedit%26redlink%3D1).
 
-* [Good Health Pass Ecosystem Trust Architecture: DIDs and X.509 Trust Registries with Ecosystem Governance Frameworks](https://iiw.idcommons.net/23F/_Good_Health_Pass_Ecosystem_Trust_Architecture:_DIDs_and_X.509_Trust_Registries_with_Ecosystem_Governance_Frameworks) by Drummond Reed, Scott Perry, Darrell O’Donnell
 
-Governance, Trust Registry, Ecosystem, Transitive Trust, Architecture
 
-Presentation Deck: [GHP Ecosystem Trust Architecture PDF](https://drive.google.com/file/d/1Hgh5JvrM7aUCmg5q6KIXzvpVIcgfhTjr/view?usp%3Dsharing)
-
-- Proposed Trust Interoperability (Global) for the Good Health Pass (GHP) Ecosystem
-- Kaliya Young & Rebecca Distler - Working Group Co-Leads
-- Trust in the system - focus for today’s discussion.
-- Principles - [https://www.goodhealthpass.org/wp-content/uploads/2021/02/Good-Health-Pass-Collaborative-Principles-Paper.pdf](https://www.goodhealthpass.org/wp-content/uploads/2021/02/Good-Health-Pass-Collaborative-Principles-Paper.pdf)
-- Blueprint Outline - [https://www.goodhealthpass.org/wp-content/uploads/2021/03/GHPC-Interoperability-Blueprint-Outline-v2.pdf](https://www.goodhealthpass.org/wp-content/uploads/2021/03/GHPC-Interoperability-Blueprint-Outline-v2.pdf)
-- Global Problems inhibiting world travel. Many emerging instances of GHP related ecosystems. GHP establishing an umbrella for all GHP-compliant ecosystems.
-- Relying on the ToIP Trust stack as an architectural blueprint
-- Ecosystem Governance Framework is at the top of a governance and technical stack.
-- Some specific Ecosystems need to accommodate x.509 certificate and VC constructs.
-- ToIP Stack diagram is undergoing new changes - some new terminology being discussed at IIW.
-- Governance and Trust Framework terms are being used as synonyms but we conveyed that Governance Frameworks are over arching of subject Trust Frameworks.
-- GHP wll be a General Ecosystem Governance Framework. Overseeing Specific EGFs..
-- 
-    
-    
-    
-- It is likely to have a GHP compliance but only on the lightweight tenets of interoperability.
-- We are introducing a trust registry infrastructure that works with all GHP-compliant ecosystems.
-- Issuers within an ecosystem will be included in a trust registry.
-- Each Ecosystem must publish its governance framework and make its trust registry available
-- All issuers need to be recognized by a governance framework and included in a trust registry
-- The second principle is that each specific EGF will identify its trust registry with a DID and specify its trust registry service endpoint(s) in its associated DID document
-- The third principle is that each VC issued under a specific EGF will identify its issuer with either:
-- a DID
-- a URI (for X.509 certificates)
-- The final principle is that each VC issued under a specific EGF will identify its type with a type URI. That field will be using common semantics.
-- With this architecture, all we need is a simple trust registry protocol to answer the question:
-- Is this issuer
-- authorized to issue this VC type
-- under this specific EGF?
-- GOOD - is a pass
-- BETTER - may be purpose-limited (“trivial” example -
-
-Links from chat:
-
-- Bart Suichies to Everyone : the eidas demo is here: [https://essif.adaptivespace.io/](https://essif.adaptivespace.io/)
-
-* [https://gitlab.grnet.gr/essif-lab/infrastructure/fraunhofer/deliverables](https://gitlab.grnet.gr/essif-lab/infrastructure/fraunhofer/deliverables) not sure if this an open repo
-
-* [https://gitlab.grnet.gr/essif-lab/infrastructure/fraunhofer/deliverables/-/blob/master/api_documentation/train-atv-1.0.0-swagger.yaml](https://gitlab.grnet.gr/essif-lab/infrastructure/fraunhofer/deliverables/-/blob/master/api_documentation/train-atv-1.0.0-swagger.yaml)
-
-* [https://gitlab.grnet.gr/essif-lab/infrastructure/fraunhofer/train_project_summary](https://gitlab.grnet.gr/essif-lab/infrastructure/fraunhofer/train_project_summary)
-
-- Drummond Reed to Everyone : See the anti-coercion section of the original ToIP RFC: [https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0289-toip-stack/README.md](https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0289-toip-stack/README.md)
-- Sterre den Breeijen to Everyone : [https://blockchain.tno.nl/blog/verify-the-verifier-anti-coercion-by-design/](https://blockchain.tno.nl/blog/verify-the-verifier-anti-coercion-by-design/) Blog on anti-coercion by my colleague Oskar van Deventer
-- Bart Suichies to Everyone : @judith: [https://gitlab.grnet.gr/essif-lab/infrastructure/fraunhofer/train_project_summary](https://gitlab.grnet.gr/essif-lab/infrastructure/fraunhofer/train_project_summary)
-- Darrell O'Donnell to Everyone : TRAIN - [https://essif-lab.eu/essif-train-by-fraunhofer-gesellschaft/](https://essif-lab.eu/essif-train-by-fraunhofer-gesellschaft/)
-- Drummond Reed to Everyone : Bart, I am totally on board with the human-readable element for GHP. Happy to chat more with you about that. There is a lot of focus on that in the [Consistent User Experience drafting group](https://wiki.trustoverip.org/display/HOME/Consistent%2BUser%2BExperience%2BDrafting%2BGroup)
 * [Self-sovereign identity: Legal compliance and the involvement of governments](https://ssi-ambassador.medium.com/self-sovereign-identity-legal-compliance-and-the-involvement-of-governments-467acdd32e88) SSI Ambassador
 
 When it comes to identity management the involvement of the government can be a tricky topic. It needs to be involved to enable access to public services, adapt legislature and guarantee equal access for its citizens. However, it should not be able to control or monitor all aspects and activities of its citizens.

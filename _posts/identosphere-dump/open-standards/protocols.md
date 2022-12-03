@@ -34,9 +34,6 @@ This issue now has a funding of 3004.5068 USD (3000.0 USD @ $1.0/USD) attached t
 - Questions? Checkout [Gitcoin Help](https://gitcoin.co/help) or the [Gitcoin's Discord](https://discord.gg/gitcoin/)
 - $5,664,407.63 more funded OSS Work available on the [Gitcoin Issue Explorer](https://gitcoin.co/explorer)
 
-* [Ten Reasons to Use Picos for Your Next Decentralized Programming Project](https://www.windley.com/archives/2021/07/ten_reasons_to_use_picos_for_your_next_decentralized_programming_project.shtml)
-
-Summary: Picos are a programming model for building decentralized applications that provide significant benefits in the form of abstractions that reduce programmer effort. Here are ten eleven reasons you should use picos for your next decentralized application. Temperature Sensor Network Built from Picos I didn't start out to write a programming language that naturally supports
 
 * [Implement Client Credentials with Kong Konnect and Okta](https://developer.okta.com/blog/2021/05/25/client-credentials-kong-konnect)
   > The OIDC plugin enables Kong, as the API gateway, to communicate with Okta via the OAuth/OIDC flows.
@@ -44,10 +41,6 @@ Summary: Picos are a programming model for building decentralized applications t
 * [ION – We Have Liftoff!](https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555)
   > We are excited to share that v1 of [ION](https://identity.foundation/ion/) is complete and has been launched on Bitcoin mainnet. We have deployed an ION node to our production infrastructure and are working together with other companies and organizations to do so as well. ION does not rely on centralized entities, trusted validators, or special protocol tokens – ION answers to no one but you, the community. Because ION is an open, permissionless system, anyone can run an ION node, in fact the more nodes in operation, the stronger the network becomes. Development of ION, and the Sidetree standard ION is based on, takes place in the [Decentralized Identity Foundation](https://identity.foundation/) (DIF). Read on to learn how you can integrate ION, DIDs, and Verifiable Credentials in your applications and services.
 
-* [Identity, Unlocked... SIOP with Kristina Yasuda](https://auth0.com/blog/identity-unlocked-explained-season-2-ep-5/)
-  > As a discovery mechanism to invoke a Self-Issued OP, the discussion on the podcast covered the usage of a custom schema 'openid://'. Alternative mechanisms to address the limitations of custom schemas are being actively explored in the WG.
-
-The conversation meanders through deeper details, from how the current [SIOP specification draft](https://bitbucket.org/openid/connect/src/master/openid-connect-self-issued-v2-1_0.md) under the OpenID Foundation picks up the mission from a [former attempt under DIF](https://identity.foundation/did-siop/) to encoding approaches for verifiable presentations (embedding in JWTs, [LD proofs](https://w3c-ccg.github.io/ld-proofs/), how to represent attributes
 * [Sidetree Protocol reaches V1](https://blog.identity.foundation/sidetree-protocol-reaches-v1/) DIF
   > This week, the DIF Steering Committee officially approved the first major release of the Sidetree Protocol specification, "v1" so to speak. This protocol has already been implemented, and four of its implementers have been collaborating intensively for over a year on expanding and extending this specification together.
 
@@ -65,30 +58,8 @@ The conversation meanders through deeper details, from how the current [SIOP sp
   > 
   > This tool fulfills a similar purpose as Bind does in the DNS system: resolution of identifiers. However, instead of working with domain names, we work with self-sovereign identifiers that can be created and registered directly by the entities they refer to.
 
-* [Persistence, Programming, and Picos](https://www.windley.com/archives/2021/02/persistence_programming_and_picos.shtml) -
-  > Picos show that image-based development can be done in a manner consistent with the best practices we use today without losing the important benefits it brings.
-
-> The project name, PICOS, is an abbreviation of “Privacy and Identity Management for Community Services”. The objective of the project is to advance the state of the art in technologies that provide privacy-enhanced identity and trust management features within complex community-supporting services that are built on Next Generation Networks and delivered by multiple communication service providers. The approach taken by the project is to research, develop, build trial and evaluate an open, privacy-respecting, trust-enabling identity management platform that supports the provision of community services by mobile communication service providers.
-> 
-> Learn more about the [motivation](http://www.picos-project.eu/Motivation.181.0.html), the [objectives](http://www.picos-project.eu/Objectives.182.0.html), [tasks](http://www.picos-project.eu/Tasks.183.0.html) and [achievements](http://www.picos-project.eu/Achievements.190.0.html) of PICOS, and get to know the PICOS exemplary [communities](http://www.picos-project.eu/Communities.184.0.html).
-* [Announcing Pico Engine 1.0](https://www.windley.com/archives/2021/02/announcing_pico_engine_10.shtml) Windley
-
-I'm excited to announce a new, stable, production-ready pico engine. The latest release of the Pico Engine (1.X) provides a more modular design that better supports future enhancements and allows picos to be less dependent on a specific engine for operation.
-
-* [Building Decentralized Applications with Pico Networks](https://www.windley.com/archives/2021/02/building_decentralized_applications_with_pico_networks.shtml)
 ## Established Tech
 
-### OpenID 
-* [Intro to OpenID Connect at IIW XXXI](https://self-issued.info/presentations/OpenID_Connect_Introduction_20-Oct-20.pdf).
-It is a great overview of the key design principles of OpenID and how we got to now with the protocol 
 
-
-* [New Badged Open Course: Decentralising Education Using Blockchain Technology](https://www.open.edu/openlearncreate/course/view.php?id%3D7981) Alexander.Mikroyannidis ([from CCG](https://lists.w3.org/Archives/Public/public-credentials/2021Oct/0044.html)
-
-Available on the Open University’s OpenLearn Create platform and is licensed under CC BY-NC-SA 4.0. Upon completion of the course, learners earn a free statement of participation.
-
-* [Getting Started with Self-Sovereign Identity](https://www.edx.org/course/getting-started-with-self-sovereign-identity) Kaliya & Lucy via Linux Foundation and EdX
-
-Gain a solid foundation on self-sovereign identity (SSI) with a 360 degree overview of its evolutionary journey, key concepts, standards, technological building blocks, use cases, real-world examples and implementation considerations.
 * [ION reaches 1.0](https://github.com/decentralized-identity/ion)
   > ION makes it possible to anchor tens of thousands of DID/DPKI operations on a target chain (in ION's case, Bitcoin) using a single on-chain transaction. The transactions are encoded with a hash that ION nodes use to fetch, store, and replicate the hash-associated DID operation batches via IPFS.

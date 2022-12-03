@@ -230,13 +230,6 @@ We think that focusing on Facebook’s surveillance advertising is a good step i
 * [New steward for #GoodID: Berkman Klein Center for Internet and Society at Harvard University](https://omidyarnetwork.medium.com/new-steward-for-goodid-berkman-klein-center-for-internet-and-society-at-harvard-university-a221cdb12949) Omidyar Network
 
 The Center recently launched the [Institute for Rebooting Social Media](https://cyber.harvard.edu/programs/institute-rebooting-social-media) [...] In connection with this Institute and the [Berkman Klein Research Sprints](https://cyber.harvard.edu/story/2020-10/research-sprint-participants-explore-digital-transformation-time-crisis-focus), and through the Center’s ongoing work with the over 100 international [Network of Internet and Society Research Centers](http://networkofcenters.net/), the Center will support conversations about digital identity issues that will reach diverse and interdisciplinary communities of research and practice.
-* [OpenID Presentations at December 2021 OpenID Virtual Workshop](https://self-issued.info/?p%3D2214)
-
-- OpenID Connect Working Group [(PowerPoint)](http://self-issued.info/presentations/OpenID_Connect_Working_Group_9-Dec-21.pptx) [(PDF)](http://self-issued.info/presentations/OpenID_Connect_Working_Group_9-Dec-21.pdf)
-- OpenID Enhanced Authentication Profile (EAP) Working Group [(PowerPoint)](http://self-issued.info/presentations/OpenID_EAP_Working_Group_9-Dec-21.pptx) [(PDF)](http://self-issued.info/presentations/OpenID_EAP_Working_Group_9-Dec-21.pdf)
-
-use of IETF Token Binding specifications with OpenID Connect and integration with FIDO relying parties and/or other strong authentication technologies.”
-
 * [TOIP HELPS SANTA WITH HIS TOUGHEST CHOICES](https://trustoverip.org/news/2021/12/15/toip-helps-santa-with-his-toughest-choices/) Trust over IP
 
 MEGA also joined the Good Elf Pass Initiative whose “interoperability blueprint” supports its crucial role as issuers of these credentials. The ground-breaking “Hypersleigh” blockchain standard will also support rapid delivery and high security for all Meaningful Gifts. #hypersleigh
@@ -334,8 +327,8 @@ Informed by standards bodies including [the FIDO Alliance](https://findbiometric
 We’re not convinced that “constraint” is the right theoretical approach for an emerging technology, especially one that is being deployed in different sectors for different use cases. To underscore this, we want to address a particular constraint implied by ToIP’s design concepts that is likely to be fatal to any deployment.
 - [DIFS updated code of conduct](https://medium.com/decentralized-identity/difs-updated-code-of-conduct-a0c2d9dce1ad) - Setting a tone for inclusive collaboration.
 
-* [DIF and OIDF cooperation](https://medium.com/decentralized-identity/dif-oidf-9753b9bd0093) 
-  > to work together on areas of mutual interest, allowing working groups to align and coordinate through dual-members. The first major collaboration, which has already been underway for weeks, is a process for revising the Self-Issued OpenID Connect (SIOP) chapter of the OpenID Connect (OIDC) specification.
+
+
 * [Why we support EFF](https://www.evernym.com/blog/why-we-support-the-electronic-frontier-foundation/) Evernym
   > Privacy gets too little emphasis from some participants in the decentralized identity movement. They claim to value confidential interactions, yet advocate that individuals create public decentralized identifiers (DIDs) on the blockchain (ignoring legal warnings about DIDs being PII). They are okay with “phone home” verifications of credentials and revocation and capabilities.
 * [7 Essential building blocks of decentralized digital ecosystems](https://medium.com/nevermined-io/what-decentralized-building-blocks-exist-to-build-your-digital-ecosystem-a2173550cc57) Nevermined

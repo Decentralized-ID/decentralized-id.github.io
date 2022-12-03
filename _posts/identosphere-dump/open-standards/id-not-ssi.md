@@ -12,10 +12,6 @@ published: false
 
 This [Directory](https://diacc.ca/2020/05/21/directory-products-assess-identification-documents-verify-identity/) is designed to provide an overview of providers’ solutions which use government issued photo identification cards, combined with biometric facial scans, to establish Digital Identity.
 
-* [101 Session: OpenID Connect](https://iiw.idcommons.net/1B/_101_Session:_OpenID_Connect) by Mike Jones
-
-Described at: [https://openid.net/connect/](https://openid.net/connect/)
-
 Built on standards: OAuth 2.0 and JWT
 
 See the presentation at [https://self-issued.info/?p=2167](https://self-issued.info/?p%3D2167).
@@ -26,26 +22,7 @@ See the presentation at [https://self-issued.info/?p=2167](https://self-issued.i
 * [101 Session: UMA - User Manged Access](https://iiw.idcommons.net/3B/_101_Session:_UMA_-_User_Managed_Access) by Eve Maler and George Fletcher
 
 
-* [OpenID Connect Claims Aggregation](https://iiw.idcommons.net/5B/_OpenID_Connect_Claims_Aggregation) by Nat Sakimura, Edmund Jay, Kristina Yasuda
-[2021-04-21_OpenID Connect Claims Aggregation](https://docs.google.com/presentation/d/1w-rmwZoLiFWczJ4chXuxhY0OsgHQmlIimS2TNlce4UU/edit?usp%3Dsharing)
 
-* [OpenID Connect 4 Identity Assurance](https://iiw.idcommons.net/10J/_OpenID_Connect_4_Identity_Assurance) by Torsten Lodderstedt
-  > [https://www.slideshare.net/TorstenLodderstedt/openid-connect-4-identity-assurance-at-iiw-32](https://www.slideshare.net/TorstenLodderstedt/openid-connect-4-identity-assurance-at-iiw-32)
-  > 
-  > Jacob Dilles proposed to allow RPs to use handles for pre-configured eKYC requests. I filled an issue for discussion by the WG ([https://bitbucket.org/openid/ekyc-ida/issues/1245/pre-configured-claims-ekyc-requests](https://bitbucket.org/openid/ekyc-ida/issues/1245/pre-configured-claims-ekyc-requests).
-
-* [OpenID Connect: Session Management vs Privacy](https://iiw.idcommons.net/11M/_OpenID_Connect:_Session_Management_vs_Privacy) by David Waite
-
-To recap:
-
-- Front-channel logout is simple
-- …but brittle and doesn’t give good security guarantees
-- Back-channel logout is robust
-- …but difficult to implement/support, can still miss signals
-- Session Management is useful for some apps
-- …but is broken in many browsers
-
-On their own independent schedules, all browsers have either broken or have plans to break state sharing via cross-site iframes to limit user tracking - arguably making the Session Management approach unusable.
 
 * [Police in Latin America are turning activists’ phones against them](https://restofworld.org/2021/latin-america-phone-security/)
 
@@ -219,13 +196,6 @@ Bad News
 * [Rohingya seek reparations from Facebook for role in massacre](https://apnews.com/article/technology-business-bangladesh-myanmar-c5af9acec46a3042beed7f5e1bc71b8a) APNews
 
 The platform, Amnesty says, wasn’t merely a passive site with insufficient content moderation. Instead, Meta’s algorithms “proactively amplified and promoted content” on Facebook, which incited violent hatred against the Rohingya beginning as early as 2012.
-
-* [The OpenID Connect Logout specifications are now Final Specifications](https://self-issued.info/?p%3D2298)
-
-The OpenID Connect Logout specifications are now Final Specifications
-
-Thanks to all who helped us reach this important milestone! This was originally [announced on the OpenID blog](https://openid.net/2022/09/12/the-openid-connect-logout-specifications-are-now-final-specifications/).
-
 * [Call it data liberation day: Patients can now access all their health records digitally](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/) Statnews
 
 Under [federal rules](https://www.healthit.gov/buzz-blog/information-blocking/information-blocking-eight-regulatory-reminders-for-october-6th) taking effect Thursday, health care organizations must give patients unfettered access to their full health records in digital format. No more long delays. No more fax machines. No more exorbitant charges for printed pages.

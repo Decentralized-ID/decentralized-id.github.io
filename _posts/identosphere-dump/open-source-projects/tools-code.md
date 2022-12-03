@@ -155,13 +155,6 @@ The tbDEX protocol facilitates decentralized networks of exchange between assets
 
 JSON Web Tokens, or JWTs for short, are all over the web. They can be used to track bits of information about a user in a very compact way and can be used in APIs for authorization purposes. This post will cover what JSON Web Tokens are and how to create JWTs in Python using the most popular JWT library: [PyJWT](http://pyjwt.readthedocs.io/). We are also going to see how you can sign and verify JWTs in Python using asymmetric algorithms.
 
-* [2021 FIDO Developer Challenge: Outcomes and Winners](https://fidoalliance.org/2021-fido-developer-challenge-outcomes-and-winners/)
-
-1. Gold Winner – [Lockdrop](https://lockdrop.com/)
-2. Silver Winner – [Shaxware](https://www.shaxware.com/)
-3. Bronze Winner – SoundAuth ([Trillbit](https://www.trillbit.com/)
-
-This year’s FIDO Developer Challenge reached a successful conclusion, with a ceremonial event during [Authenticate 2021](https://authenticatecon.com/event/authenticate-2021-conference/) of the ceremony is available now, and we’re pleased to share more detailed stories of the three finalists as well as the rest of the teams that made it to the final stage.
 
 * [Clear is better than clever](https://dave.cheney.net/2019/07/09/clear-is-better-than-clever) Cheney.net
 
@@ -215,10 +208,6 @@ Note: the code is written following the
 You can find full code here: 
 [https://github.com/ringaile/ver-cred](https://github.com/ringaile/ver-cred)
 
-* [Indicio.Tech releases Aries Mediator Agent](https://indicio.tech/blog/indicio-tech-advances-decentralized-identity-with-release-of-critical-open-source-technology/)
-  > The Indicio Mediator Agent is the company’s latest contribution to Aries Cloud Agent Python (ACA-Py) and the Aries Toolbox. Following RFC 0211: Mediator Coordination, Indicio built on the work of the open-source community to make mediation interoperable and vendor agnostic. This expands the opportunities for mobile wallet implementations.
-  > *[...]*
-  > Indicio.tech is committed to becoming a resource-hub for decentralized identity, providing enterprise-grade open source tools to its clients and to the community. This includes the [Private Networks](https://indicio.tech/private-networks/) build service, the [Indicio TestNet](https://indicio.tech/indicio-testnet/), and a variety of customizable [training programs](https://indicio.tech/training-packages/).
 
 * [Spruce Developer Update #5](https://sprucesystems.medium.com/spruce-developer-update-5-86d6f517a220)
 
@@ -236,24 +225,10 @@ This is so exciting to see what Wayne and his team are building.
 
 
 
-* [Trinsic donates did-key.rs to I&D WG](https://medium.com/decentralized-identity/trinsic-donates-did-key-rs-to-i-d-wg-8a278f37bcd0)
-  > DID:Key, originally specified in the W3C Credentials Community Group (CCG), is a DID “pseudo-method” that allows static, pre-existing, and/or pre-published public keys to function like traditional DIDs — they can be queried, stored, issued against, and resolved to return valid DID documents.
-* [DIDKit v0.1 is Live.](https://sprucesystems.medium.com/didkit-v0-1-is-live-d0ea6638dbc9)
-  > Most other options are subtly locked to a specific blockchain and its particularities, which a self-sovereign identity (SSI) novice is unlikely to notice until months into a project based on it. A few open-source libraries exist to sidestep this infrastructural lock-in, but these are more like primitives for assembling an SSI toolkit than ready-to-go, developer-friendly libraries. DIDKit, on the other hand, is ready to start processing real-world VCs with non-repudiable signatures right out the box.
-
-* [Aries Mobile Agent SDK for Google Flutter](https://ayanworks.medium.com/announcing-arnima-fl-open-source-aries-flutter-mobile-agent-sdk-d3483744ffc8)
-  > Exactly a year ago in Jan 2020, we announced ARNIMA — first ever Aries React Native Mobile Agent SDK that we made open source for the Self-Sovereign Identity ecosystem.
-  > 
-  > [...] We are very excited to announce [one more small open-source contribution](https://github.com/ayanworks/ARNIMA-flutter-sdk) from AyanWorks to the Aries community.
 
 
 
-* [Announcing Pico Engine 1.0](https://www.windley.com/archives/2021/02/announcing_pico_engine_10.shtml)
-  > In addition to the work on the engine itself, one of the primary workstreams at present is to complete Bruce Conrad's excellent work to use DIDs and DIDComm as the basis for inter-pico communication, called ACA-Pico (Aries Cloud Agent - Pico). [...] This work is important because it will replace the current subscriptions method of connecting heterarchies of picos with DIDComm. [...] because DIDComm is protocological, this will support protocol-based interactions between picos, including credential exchange.
 
-* [ACA-Pico working group](https://docs.google.com/document/d/12dWUFyL7u6OQkhnPObJOOlV-U2LDoHpF-ZQLj3hXbjA/edit)
-
-* [Picolab/aries-cloudagent-pico](https://github.com/Picolab/aries-cloudagent-pico)
 
 * [New Tools to Support Production Deployments](https://trinsic.id/new-tools-to-support-production-deployments/)
 
@@ -405,17 +380,6 @@ Interoperability
 
 With this badge, they qualify to participate in Plugfest #2 which will focus on issuing and displaying LER VCs. Plugfest #2 will take place in November 2022 with plans to meet in person the day before the [Internet Identity Workshop](https://internetidentityworkshop.com/) on November 14 in Mountainview, CA. If vendors are interested in Plugfest #2 and didn’t participate in Plugfest #1, there is still an opportunity to do so by fulfilling the same requirements listed above including the video and earning a Plugfest #1 badge.
 
-
-
-OpenID Specs Up for Review
-
-* [Public Review Period for Second Proposed RISC Profile Implementer’s Draft](https://openid.net/2022/07/05/public-review-period-for-second-proposed-risc-profile-implementers-draft/)
-
-This specification defines event types and their contents based on the [SSE Framework](https://openid.net/specs/openid-risc-profile-specification-1_0-02.html%23SSE-FRAMEWORK) that are required to implement Risk Incident Sharing and Coordination.
-
-* [Public Review Period for Proposed Final OpenID Connect Logout](https://openid.net/2022/07/05/public-review-period-for-proposed-final-openid-connect-logout-specifications/)
-
-Unless issues are identified during the review that the working group believes must be addressed by revising the drafts, this review period will be followed by a seven-day voting period during which OpenID Foundation members will vote on whether to approve these drafts as OpenID Final Specifications.
 
 * [Using a Theory of Justice to Build a Better Web3](https://www.windley.com/archives/2022/05/using_a_theory_of_justice_to_build_a_better_web3.shtml) Phil Windley
 

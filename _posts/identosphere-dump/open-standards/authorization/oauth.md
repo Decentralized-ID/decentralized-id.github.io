@@ -39,8 +39,6 @@ What is the scope - acquiring a token for direct API access, not necessarily pre
 
 
 
-* OpenID: [Public Review Period for Proposed Final OpenID Connect Client-Initiated Backchannel Authentication (CIBA) Core Specification](https://openid.net/2021/06/07/public-review-period-for-proposed-final-openid-connect-client-initiated-backchannel-authentication-ciba-core-specification/)
-
 * OpenID: [Public Review Period for Two Proposed SSE Implementer’s Drafts](https://openid.net/2021/06/07/public-review-period-for-two-proposed-sse-implementers-drafts/)
 
 * [Matt Flynn: Information Security | Identity & Access Mgmt.](http://360tek.blogspot.com/2021/06/bell-labs-colonial-pipeline-and-multi.html)

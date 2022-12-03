@@ -5,6 +5,15 @@ published: false
 # Verifiable Credentials
 
 
+* [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/)
+
+- The components that constitute a [verifiable credential](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/%23dfn-verifiable-credentials)
+- The components that constitute a [verifiable presentation](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/%23dfn-verifiable-presentations)
+- An ecosystem where [verifiable credentials](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/%23dfn-verifiable-credentials) and [verifiable presentations](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/%23dfn-verifiable-presentations) are expected to be useful
+- The use cases and requirements that informed this specification.
+* [Crossword wins NGI Atlantic funds for Verifiable Credentials project](https://www.crosswordcybersecurity.com/post/next-generation-internet-grant-win) Crossword Cybersecurity
+
+European Commission’s Next Generation Internet (NGI) initiative to lead a project to test the OpenID Foundation’s protocols for transferring verifiable credentials. Crossword’s partners in this project are Spruce Inc from the USA and Fraunhofer from Germany
 * [Binding credentials to publicly accessible repositories](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0297.html)  Leonard Rosenthol (Friday, 30 July)
 
 These VC’s (etc.) will be embedded into the assets (e.g., video, images, documents, etc.) in a tamper-evident manner, so that in addition to the individual VC’s “proof”, any attempt to change the CreativeWork relationships, etc. can also be detected. [..] we have no protection against a malicious actor simply copying the VC from one asset and dropping it into another (and then signing the new setup), because there is nothing that binds the credential to the asset in our case.
@@ -120,6 +129,10 @@ The pull request[4] involves a few things that are worth noting
 * [VC Issuance based on OAuth 2.0](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0084.html)  Nikos Fotiou (Thursday, 14 April)
 
 We design, implement, and evaluate a solution for achieving continuous authorization of HTTP requests exploiting Verifiable Credentials (VCs) and OAuth 2.0. Specifically, we develop a VC issuer that acts as an OAuth 2.0 authorization server, a VC verifier that transparently protects HTTP-based resources, and a VC wallet implemented as a browser extension capable of injecting the necessary authentication data in HTTP requests without needing user intervention.
+* [VC Spec Enhancement Proposal](https://github.com/SmithSamuelM/Papers/blob/master/whitepapers/VC_Enhancement_Strategy.md) Sam Smith
+
+the VC standard appears to be an adoption vector for Linked Data, not the other way around. My overriding interest is that the concept of a VC as a securely attributable statement is a very powerful and attractive one and therefore should be widely adopted. We should therefore be picking the best technologies that best support broad VC adoption, not the other way around.
+
 
 * [Verifiable Credentials Data Model v1.1 is an official W3C standard!](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/0005.html)  Manu Sporny (Thursday, 3 March)
 

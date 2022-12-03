@@ -32,6 +32,8 @@ The ISO mDL specification (ISO-compliant Driving License or IDL)  is purpose dr
 - include the ability to update information frequently, and to authenticate information at a high level of confidence.
 
 
+* [Verifiable Driver's Licenses and ISO-18013-5 (mDL)](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0105.html) Manu Sporny (Monday, 29 November)
+  > Spruce, MATTR, and Digital Bazaar have collaborated on creating an interoperability test suite for something we're calling the "Verifiable Driver's License" (temporary name):
 * [ISO/IEC 18013-5 vs Self-Sovereign Identity: A proposal for an mDL Verifiable Credential](https://www.procivis.ch/post/iso-iec-18013-5-vs-self-sovereign-identity-a-proposal-for-an-mdl-verifiable-credential) Procivis
   > in the context of government identity programs we see it as useful to compare them on the following parameters – background, credential data model & trust anchor and transmission protocols.
 * [Community Project on mDL and VCs](https://newsletter.identosphere.net/i/73037307/where-the-wc-verifiable-credentials-meets-the-iso-mobile-driving-license)
@@ -45,3 +47,4 @@ A global digital ID association has published steps vendors and others need to t
 * [An Identity Wallet Bill of Rights - Starting With the Mobile Driver License](https://blog.spruceid.com/an-identity-wallet-bill-of-rights/) Spruce Systems
 
 Spruce’s continued mission is to let users control their data across the web, whether it’s web2, web3, or beyond. This also applies to credentials issued by existing entities, such as the Mobile Driver License (mDL) issued by motor vehicle authorities across the world.
+- [The selective disclosure industry landscape, including Verifiable Credentials and ISO Mobile Driver Licenses (mDL)](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-why-selective-disclosure-00) – [Kristina Yasuda](https://twitter.com/kristinayasuda)

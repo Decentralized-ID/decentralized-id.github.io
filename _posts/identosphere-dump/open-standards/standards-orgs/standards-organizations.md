@@ -2,8 +2,16 @@
 published: false
 ---
 
-# Standards Bodies
+# Standards Orgs
 
+## Contents
+- W3C
+- IETF
+- OASIS
+- ITU-T
+- ISO/IEC
+
+## Links
 
 * [Decentralized Profiles group Nov 25th call](https://blog.ceramic.network/dprofiles-call-3/)
 Every 6 weeks the at Ceramic meets

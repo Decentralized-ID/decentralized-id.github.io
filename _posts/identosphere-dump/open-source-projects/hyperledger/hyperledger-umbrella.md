@@ -7,13 +7,7 @@ published: false
 ### DIDs Fabric and Decentralized Networking
 
 * [DEON](https://www.hyperledger.org/blog/2020/11/05/deon-a-hyperledger-based-decentralized-off-grid-network) is a new Hyperledger project focused in off-line communication networks, independent of internet infrastructure. This could be used to enable networks of devices to communicate peer-to-peer (without the need to ‘phone home’ over the internet), inter-enterprise consortia networks, and enabling user-centric data sharing in a more secure and private fashion.
-### Aries
 
-* [GlobaliD releases new open source applications](https://medium.com/global-id/globalid-shares-ssi-code-at-the-internet-identity-workshop-446debec43e7)
-
-They open source their open-sourced iOS and Android native Aries frameworks and donated them to the Hyperledger Aries project.
-
-They also shared their Dynamic Governance API using GlobaliD Groups.
 * [Add support for "did:indy" to Hyperledger Indy Node and Indy VDR](https://digital.gov.bc.ca/marketplace/opportunities/code-with-us/e3dd1605-cc1d-4c30-a9ee-245940bccd0d) </>Code With Us
 
 Accpting Applications until 1/10 4:00 PM PST
@@ -24,6 +18,12 @@ The total funding for the challenge is $70,000CDN and is divided into 4 phases. 
 
 The current credential verification process relies on transaction processing by a ledger with transaction processing bottlenecks, which may constrain the ideal of non-repudiation.
 
+
+
+* [GlobaliD releases new open source applications](https://medium.com/global-id/globalid-shares-ssi-code-at-the-internet-identity-workshop-446debec43e7)
+  > They open source their open-sourced iOS and Android native Aries frameworks and donated them to the Hyperledger Aries project.
+  > 
+  > They also shared their Dynamic Governance API using GlobaliD Groups.
 * [Tutorials](https://aries.js.org/guides/tutorials) Aries JavaScript Docs
   > First we’re going to create a holder Agent, this will be the Agent that receives the membership credential. During their life, the holder will collect many different verifiable credentials. Memberships, ID-cards, even purchasing records.
 * [Why Are Governments Choosing Hyperledger?](https://northernblock.io/governments-are-choosing-aries-indy-ursa/) Northern Block
@@ -73,40 +73,13 @@ There was some discussion about the way to present such a profile, especially th
 
 One alternative, to create a DIDcomm-based protocol for public profile was discussed and would be a good alternative at the cost of every client having to be able to speak DIDcomm.
 
-* [https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0430-machine-readable-governance-frameworks/README.md](https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0430-machine-readable-governance-frameworks/README.md)
-
-* [Setting up Mediator Agent in Ubuntu — (.Net Core service in Linux Box)](https://rangesh.medium.com/setting-up-mediator-agent-in-ubuntu-net-core-service-in-linux-box-b874bb409eed) Rangesh
-
-In a Self Sovereign Environment supported by Hyperledger Indy / Aries agent framework, Mediator Agent is one of the essential components that acts as postman service between Issuer /Verifier Aries Agent and Mobile Agent.
-
 * [Become a Node Operator](https://indicio.tech/blog/be-a-part-of-the-most-dynamic-network-community-in-decentralized-identity/) Indicio
   > we’ve seen a rapid rise in demand for robust, stable, and professionally maintained networks to support decentralized identity solutions. It’s not a surprise: decentralized identity’s moment has arrived. That’s why we’ve been hard at work creating Hyperledger Indy networks upon which developers all over the world are building, testing, and launching their solutions.
 * [Hyperledger Ursa code review](https://www.hyperledger.org/hyperledger-ursa/2022/05/31/hyperledger-ursa-code-review) Hyperledger
 
 Rooted in a “trust but verify” mindset, several Canadian public sector entities and [Interac](https://www.interac.ca/en/) (Canada’s interbank network) sponsored a project at the [Digital Identity Laboratory of Canada](https://idlab.org/) (IDLab) to perform a security and cryptography code review of Hyperledger Ursa  (full report is available [here](https://www.hyperledger.org/wp-content/uploads/2022/05/URSA-IDLab-Code-Review.pdf)).
-* [Introducing Hyperledger Aries Framework JavaScript 0.2.0](https://www.hyperledger.org/blog/2022/07/06/introducing-hyperledger-aries-framework-javascript-0-2-0) Hyperledger
 
-The new Hyperledger Aries Framework JavaScript release (0.2.0) contains some incredible steps forward. Especially in our goal to make the framework AIP 2.0 compliant. AIP 2.0 compliance will not only ensure the framework supports the latest standards and protocols, but it will also greatly increase interoperability and make it more useful outside of the Hyperledger Indy ecosystem.
-* [Hyperledger Aries Graduates To Active Status; Joins Indy As “Production Ready”](https://www.hyperledger.org/blog/2021/02/26/hyperledger-aries-graduates-to-active-status-joins-indy-as-production-ready-hyperledger-projects-for-decentralized-identity)
 
-“This approval is further evidence that Hyperledger Aries is a breakout success for the Hyperledger community,” said Brian Behlendorf, General Manager for Blockchain, Healthcare and Identity at the Linux Foundation. “Convergence on common libraries for the exchange of credentials will help speed the development of urgently-needed solutions and systems, ranging from education to finance to the fight against the pandemic. Aries is key to that convergence.”
-* [Hyperledger Aries Graduates To Active Status](https://www.hyperledger.org/blog/2021/02/26/hyperledger-aries-graduates-to-active-status-joins-indy-as-production-ready-hyperledger-projects-for-decentralized-identity)
-
-The TSC commended the Aries project during the meeting for the project’s highly diverse contributors. Achieving a high number of organizations contributing to a project at Hyperledger is often a challenge. Congratulations are due to those participating in and supporting the Aries Project.
-
-* [The Pathway to Becoming a Hyperledger Maintainer](https://www.hyperledger.org/blog/2021/11/03/the-pathway-to-becoming-a-hyperledger-maintainer)
-  > In this blogpost I’m going to share what it’s like to be a maintainer for the Hyperledger Aries project. You’ll learn how you can start contributing and maybe even set yourself on a path to becoming a maintainer.
-* [Indicio Wins British Columbia Code With Us Challenge to Upgrade Hyperledger Indy](https://indicio.tech/indicio-wins-british-columbia-code-with-us-challenge-to-upgrade-hyperledger-indy/)
-  > Most of Hyperledger Indy’s development occurred prior to the completion of the standard DID Specification by the W3C and, as a result, identifiers written to one network are currently not resolvable on other networks. A new did:indy DID Method will fix that and make it easier for decentralized identity products and services to interoperate across different Indy networks.
-* [Hyperledger SSI Ecosystem](https://dev.to/jakubkoci/hyperledger-ssi-ecosystem-4j2p) Jakubkoci
-
-There are three projects under the Hyperledger umbrella related to digital identity. Hyperledger Indy, Aries, and Ursa. [...] describe their purpose and how they’re related to each other.
-
-## Aries \ Indy \ AnonCreds the dialogue continues
-
-* [Learnings from Aries, Indy and Various Verifiable Credential Implementations](https://northernblock.io/learnings-from-aries-indy-and-various-verifiable-credential-implementations/) Northern Block
-
-Standards such as OIDC and mDL are all now in dialogue with W3C, AnonCreds, Aries, etc. Mobile is a predominant technology, just like the way laptops were once upon a time. To reduce consumer friction and drive adoption, convergence of all these different technologies is required inside a mobile environment
 
 
 * [Indicio completes Hyperledger Indy DID Method—A Milestone in the Evolution of DID Interop](https://indicio.tech/indicio-completes-hyperledger-indy-did-method-a-milestone-in-the-evolution-of-decentralized-identity-network-interoperability/)
@@ -117,10 +90,6 @@ The Indy DID Method paves the way for Hyperledger Indy credentials to scale glob
 * [Our Approach to Resources on-ledger](https://blog.cheqd.io/our-approach-to-resources-on-ledger-25bf5690c975): Using the capabilities of the DID Core specification for standards-compliant resource lookup
 
 Decentralised Identifiers (DIDs): are often stored on ledgers (e.g., [cheqd](https://github.com/cheqd/node-docs/blob/adr-008-resources-updates/architecture/adr-list/adr-002-cheqd-did-method.md), [Hyperledger Indy](https://hyperledger.github.io/indy-did-method/), distributed storage (e.g., [IPFS](https://ipfs.io/) in [Sidetree](https://identity.foundation/sidetree/spec/)), or non-ledger distributed systems (e.g., [KERI](https://keri.one/)). Yet, DIDs can be stored on traditional centralised-storage endpoints (e.g., [did:web](https://w3c-ccg.github.io/did-method-web/), [did:git](https://github-did.com/)).
-
-* [Hyperledger Aries is the Present and the Future of Internet-Scale Trusted Verifiable Credential Ecosystems](https://indicio.tech/hyperledger-aries-is-the-present-and-the-future-of-internet-scale-trusted-verifiable-credential-ecosystems/) Indicio
-
-While no technology runs perfectly on every device, a signal strength of Aries, AnonCreds, and Indy is that they work on the vast majority of current devices and systems, including $35 smart phones and low powered IOT/embedded devices. They represent the most inclusive way into this technology, which is an important factor in their popularity.
 
 * [AnonCreds Indy-Pendence](https://blog.cheqd.io/anoncreds-indy-pendence-4946367469d4) Cheqd
 
@@ -187,12 +156,8 @@ Here, we go through how we went about standing up our Indico node. In brief:
 - We used security groups at the network interface level to create a firewall.
 - We set up monitoring in AWS CloudWatch using a variety of bash scripting in conjunction with Ubuntu and AWS provided utilities.
 - We created a regular maintenance schedule.
-* [Hyperledger Mentorship Spotlight: Hyperledger Aries Integration to Support Fabric as Blockchain Ledger](https://www.hyperledger.org/blog/2021/12/06/hyperledger-mentorship-spotlight-hyperledger-aries-integration-to-support-fabric-as-blockchain-ledger)
 
-The Hyperledger Mentorship Program is a structured hands-on learning opportunity for new developers who may otherwise lack the opportunity to gain exposure to Hyperledger open source development and entry to the technical community.
 
-* [Hyperledger KochiOrgBook Meetup](https://www.youtube.com/watch?v=HU0zXKiFYD0) (modeled after [VONx.io](https://vonx.io/)), in collaboration with Wipro, CUSAT, and KBA.
-  > “KochiOrgBook is a Verifiable Organization Network for the city of Kochi [India]. It is a technology demonstrator to launch a DID based utility compliant with the ToIP standards to enable trusted digital verification for various associations within the city of Kochi.”
 
 * [Getting Internet Identity Right 30 Years On](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL2NvaW5kZXNrLXJlcG9ydHM/episode/Z2lkOi8vYXJ0MTktZXBpc29kZS1sb2NhdG9yL1YwL1B2ZTZ1WThCazZjM24zckdUVVdaQ2YyWGJwQnNuWTBra3N0WWlFOFhBNUk?ep=14) Money ReImagined with Brian Behlendorf.
   > Michael Casey and Sheila Warren talk to Hyperledger Executive Director Brian Behlendorf about self-sovereign identity, the topic of this week's column. A developer whose three-decade career has seen him deeply involved in efforts to foster a more open internet, Brian grasps, like few others, the nuances of how human beings should live within a rapidly changing digital economy.
@@ -200,55 +165,6 @@ The Hyperledger Mentorship Program is a structured hands-on learning opportunity
 
 With the groundwork complete, networks and agent frameworks now need to incorporate the Indy:DID Method. This community adoption will increase the viability of the Indy and Aries project stack and position it to be the globally dominant way to issue and share verifiable credentials in a multi-ledger world.
 
-* [EU Grant to Help Building Blockchain Infrastructure](https://sphereon.com/news-and-insights/sphereon-wins-an-eu-essif-lab-grant/). Sphereon
-  > We’ll be providing a Presentation Exchange that creates interoperability between W3C DIF-compliant Verifiable Credentials and Hyperledger Aries-based Verifiable Credentials for the European Blockchain Services Infrastructure (EBSI).
-
-* [Talking on Aries Bifold, building a community effort around an open source mobile wallet in React Native](https://iiw.idcommons.net/23I/_Talking_on_Aries_Bifold,_building_a_community_effort_around_an_open_source_mobile_wallet_in_React_Native) by James Ebert
-
-Hyperledger Aries – Aries Bifold – Aries-Framework-Javascript – React Native
-
-Slides: [https://docs.google.com/presentation/d/1XKrgnUUF7nZI-bOqWMKijKZHWThsIjFkVkfPIVy3gkY/edit?usp=sharing](https://docs.google.com/presentation/d/1XKrgnUUF7nZI-bOqWMKijKZHWThsIjFkVkfPIVy3gkY/edit?usp%3Dsharing)
-
-Repo: [https://github.com/hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-
-User Group Meetings: [https://wiki.hyperledger.org/display/ARIES/Aries+Bifold+User+Group+Meetings](https://wiki.hyperledger.org/display/ARIES/Aries%2BBifold%2BUser%2BGroup%2BMeetings)
-
-Rocketchat: [https://chat.hyperledger.org/channel/aries-bifold](https://chat.hyperledger.org/channel/aries-bifold)
-
-Aries-Framework-Javascript: [https://github.com/hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-
-rn-indy-sdk: [https://github.com/AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
-
-Discussion on the following topics:
-
-- Face recognition capabilities and discussion
-- Discussion of project goals
-- Brief demo of current state
-- Questions on Ionic vs React Native
-- React Native is more broadly adopted
-- Need to start somewhere
-- Does Aries Bifold plan to support BBS+? Yes, planning on utilizing Aries Askar and surrounding components to enable these capabilities.
-- What is the MVP of Aries Bifold?
-- Connections
-- Coordinate-mediation protocol support
-- Credential Exchange
-- Revocation
-- Aries Bifold interoperability
-- AIP 1.0 and AIP 2.0 support
-- Aries Agent Test Harness capabilities
-- Componentization of Aries Bifold
-- Allows the inclusion of the project in existing apps.
-- Helps with separation of concerns.
-- Use of React Redux
-- Packaging and monorepos.
-
-* [...]
-
-Karim Stekelenburg: [https://github.com/microsoft/react-native-tscodegen](https://github.com/microsoft/react-native-tscodegen)
-
-* [SITA uses blockchain, decentralized identity for pilot license verification](https://www.ledgerinsights.com/sita-blockchain-decentralized-identity-for-pilot-license/) Ledgerinsights
-
-Using the [self-sovereign identity](https://www.ledgerinsights.com/tag/self-sovereign-identity/) solution Hyperledger Aries, almost everything works peer to peer between the license issuer and the pilot and between the pilot and the verifier.
 
 * [An automatized Identity and Access Management system for IoT combining SSI and smart contracts](https://arxiv.org/pdf/2201.00231.pdf) Montassar Naghmouchi, Hella Kaffel, and Maryline Laurent
 

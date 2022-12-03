@@ -71,3 +71,13 @@
 
 If you’re already using a secure mechanism to authenticate your users, then setting up OIDC capability isn’t necessary. As we’ve explored, sending credentials using secure DID messaging directly or via a QR code or deep-link is safe, convenient and allows users to obtain their credentials directly.
 
+## Gimly
+
+* [Gimly ID: SSI with OpenID authentication](https://www.loom.com/share/d49e005bb32349d7950022e83d55b944)
+
+About Dick Hardt’s new thing
+
+Gimly ID is leading self-sovereign identity innovation, with the implementation of SSI with self-issued openID provider (SIOPv2) and full support for openID connect and DIF presentation exchange.
+
+* [SSI with OpenID authentication](https://www.loom.com/share/d49e005bb32349d7950022e83d55b944) Gimly ID
+

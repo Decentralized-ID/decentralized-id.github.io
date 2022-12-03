@@ -94,6 +94,8 @@ Orange - Application layer standards
   > - Issuer resolution
   > - ID resolution
   > - Credential status resolution
+
+
 * [Trust Frameworks? Standards Matter](https://medium.com/@trbouma/trust-frameworks-standards-matter-47c946992f44) Tim Bouma
   > He points at the NIST documents about it [Developing Trust Frameworks to Support Identity Federations](https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8149.pdf) published in 2018. He also points at the Canadian government’s definition of standards.
   > 
@@ -221,17 +223,10 @@ The Claims and Credentials Working Group will be overseeing a new work item open
 * [Shared Signals: An Open Standard for Webhooks](https://openid.net/2021/08/24/shared-signals-an-open-standard-for-webhooks/) OpenID
 
 The OpenID Foundation formed the “[Shared Signals and Events](https://openid.net/wg/sse/)” (SSE) Working Group as a combination of the previous OpenID RISC working group and an informal industry group that was focused on standardizing [Google’s CAEP proposal](https://cloud.google.com/blog/products/identity-security/re-thinking-federated-identity-with-the-continuous-access-evaluation-protocol). These represented two distinct applications of the same underlying mechanism of managing asynchronous streams of events. Therefore the [SSE Framework](https://openid.net/specs/openid-sse-framework-1_0-01.html) is now proposed to be a standard for managing such streams of events for any application, not just CAEP and RISC. In effect, it is a standard for generalized Webhooks.
-* [OpenID Connect Client-Initiated Backchannel Authentication (CIBA) Core is now a Final Specification](https://openid.net/2021/09/01/openid-connect-client-initiated-backchannel-authentication-ciba-core-is-now-a-final-specification/)
-
-The OpenID Foundation membership has approved the following [MODRNA](https://openid.net/wg/mobile/) specification as an OpenID Final Specification:
 * [Managed Open Projects: A New Way For Open Source and Open Standards To Collaborate](https://www.oasis-open.org/2021/09/08/managed-open-projects/)
 
 I recently pointed out in a [TechCrunch contribution](https://techcrunch.com/2021/06/09/a-revival-at-the-intersection-of-open-source-and-open-standards/) that the open source and open standards communities need to find ways to team up if they are to continue driving innovation and  development of transformative technologies to push our society forward.
-* [OpenID Connect Presentation at 2021 European Identity and Cloud (EIC) Conference](https://self-issued.info/?p%3D2187)
 
-I gave the following presentation on the [OpenID Connect Working Group](https://openid.net/wg/connect/) during the [September 13, 2021 OpenID Workshop](https://openid.net/oidf-workshop-at-eic-2021-monday-september-13-2021/) at the [2021 European Identity and Cloud (EIC) conference](https://www.kuppingercole.com/events/eic2021/). As I noted during the talk, this is an exciting time for OpenID Connect; there’s more happening now than at any time since the original OpenID Connect specs were created!
-
-- OpenID Connect Working Group [(PowerPoint)](http://self-issued.info/presentations/OpenID_Connect_Working_Group_13-Sep-21.pptx) [(PDF)](http://self-issued.info/presentations/OpenID_Connect_Working_Group_13-Sep-21.pdf)
 
 * [JSON is Robot Barf](https://www.windley.com/archives/2021/09/json_is_robot_barf.shtml) Windley
 
@@ -245,8 +240,6 @@ Since February he has also been the informal chair of the [Hospitality and Trav
 
 * [Global Assured Identity Network White Paper](https://openid.net/2021/09/20/global-assured-identity-network-white-paper/)
 
-
-* [OIDC with SIOPv2 and DIF Presentation Exchange](https://vimeo.com/630104529) Sphereon
 
 * [Sign in with Ethereum](https://login.xyz/) is being developed by Spruce
 
@@ -267,12 +260,6 @@ Verifiable credentials is a beautiful set of technology that allows people and o
 
 Lohan Spies, Technical Lead, Yoma
 
-* [Gimly ID: SSI with OpenID authentication](https://www.loom.com/share/d49e005bb32349d7950022e83d55b944)
-
-About Dick Hardt’s new thing
-
-Gimly ID is leading self-sovereign identity innovation, with the implementation of SSI with self-issued openID provider (SIOPv2) and full support for openID connect and DIF presentation exchange.
-
 * [Explore Affinidi Schema Manager](https://ui.schema.affinidi.com/schemas/)
 
 * [Proof-of-possession (pop) AMR method added to OpenID Enhanced Authentication Profile spec](https://self-issued.info/?p%3D2198) Mike Jones
@@ -282,12 +269,6 @@ I’ve defined an Authentication Method Reference (AMR) value called “pop” t
 - [https://openid.net/specs/openid-connect-eap-acr-values-1_0-01.html](https://openid.net/specs/openid-connect-eap-acr-values-1_0-01.html)
 - [https://openid.net/specs/openid-connect-eap-acr-values-1_0.html](https://openid.net/specs/openid-connect-eap-acr-values-1_0.html)
 
-* [OpenID Connect Presentation at IIW XXXIII](https://self-issued.info/?p%3D2196) Mike Jones
-
-- Introduction to OpenID Connect [(PowerPoint)](https://self-issued.info/presentations/OpenID_Connect_Introduction_12-Oct-21.pptx) [(PDF)](https://self-issued.info/presentations/OpenID_Connect_Introduction_12-Oct-21.pdf)
-
-The session was well attended. There was a good discussion about the use of passwordless authentication with OpenID Connect.
-* [SSI with OpenID authentication](https://www.loom.com/share/d49e005bb32349d7950022e83d55b944) Gimly ID
 
 * [DIDs are not enough - we need an Authoriziation standard too](https://medium.com/energy-web-insights/api-access-security-for-dapps-cfcfa928623c) Energy Web
 
@@ -330,12 +311,6 @@ Recently, the WAO team took the opportunity to update the badge platforms page o
 
 
 
-* [First Public Review Period for OpenID Connect SIOPV2 and OIDC4VP Specifications Started](https://openid.net/2021/12/17/first-public-review-period-for-openid-connect-siopv2-and-oidc4vp-specifications-started/) OpenID
-
-- Implementer’s Drafts public review period: Friday, December 17, 2021 to Monday, January 31, 2022 (45 days)
-- Implementer’s Drafts vote announcement: Tuesday, January 18, 2022
-- Implementer’s Drafts voting period: Tuesday, February 1, 2022 to Tuesday, February 8, 2022 *
-
 * [Report from EBSI4Austria. In 2018, all European member states…](https://medium.com/@markus.sabadello/report-from-ebsi4austria-b79c0ed8ab8d) Markus Sabadello
 
 EBSI4Austria is a CEF funded project with two main objectives. First, EBSI4Austria aims to set up, operate and maintain the Austrian’s EBSI node. Second, we pilot the diploma use case on the Austrian level supported by two Universities and data providers as well as verifiers.
@@ -374,11 +349,6 @@ At a superficial level, a decentralized identifier (DID) is simply a new type of
 
 
 
-* [​​First Implementer’s Drafts of OpenID Connect SIOPV2 and OIDC4VP Specifications Approved](https://openid.net/2022/02/08/first-implementers-drafts-of-openid-connect-siopv2-and-oidc4vp-specifications-approved/) OpenID
-
-- [Self-Issued OpenID Provider v2](https://openid.net/specs/openid-connect-self-issued-v2-1_0-07.html)
-- [OpenID Connect for Verifiable Presentations](https://openid.net/specs/openid-connect-4-verifiable-presentations-1_0-08.html)
-
 
 * [Cryptography Review of W3C VC Data Model and DID Standards and Implementation Recommendations](https://www.linkedin.com/posts/aniljohn_cryptography-review-of-w3c-vc-and-w3c-did-ugcPost-6892250585652162560-OQ3Y) SRI International
 
@@ -392,7 +362,7 @@ The official voting period will be between Tuesday, February 1, 2022 and Tuesday
 
 Summary: The hype over NFTs and collectibles is blinding us to their true usefulness as trustworthy persistent data objects. How do they sit in the landscape with verifiable credentials and picos? Listening to this Reality 2.0 podcast about NFTs with Doc Searls, Katherine Druckman, and their guest Greg Bledsoe got me thinking about NFTs.
 
-* [Nat describes GAIN](https://nat.sakimura.org/2021/09/14/announcing-gain/) as an overlay network on top of the Internet with all its participants identity proofed. One key benefit of the approach proposed in the white paper is that the standards required to enable this network already exist: OpenID Connect and eKYC/IDA.
+
 
 - [Nat has a presentation](https://nat.sakimura.org/2021/09/14/announcing-gain/)
 - There is a [linked in Group](https://www.linkedin.com/groups/12559000/)
@@ -401,12 +371,6 @@ Summary: The hype over NFTs and collectibles is blinding us to their true useful
 
 Different types of DIDs can be registered and anchored using unique rules specific to the set of infrastructure where they’re stored. Since DIDs provide provenance for keys which are controlled by DID owners, the rules and systems that govern each kind of DID method have a significant impact on the trust and maintenance model for these identifiers.
 
-- [OpenID Connect Client-Initiated Backchannel Authentication Flow – Core 1.0](https://openid.net/specs/openid-client-initiated-backchannel-authentication-core-1_0.html)
-
-A Final Specification provides intellectual property protections to implementers of the specification and is not subject to further revision.
-* [VC Spec Enhancement Proposal](https://github.com/SmithSamuelM/Papers/blob/master/whitepapers/VC_Enhancement_Strategy.md) Sam Smith
-
-the VC standard appears to be an adoption vector for Linked Data, not the other way around. My overriding interest is that the concept of a VC as a securely attributable statement is a very powerful and attractive one and therefore should be widely adopted. We should therefore be picking the best technologies that best support broad VC adoption, not the other way around.
 
 
 * [Open standards should be developed openly](https://blog.weareopen.coop/open-standards-should-be-developed-openly-1f0cf552308d)
@@ -428,11 +392,6 @@ This is the Use Case Implementation Workstream of the [COVID Credentials Initia
   > ISO 27018 is part of the ISO 27000 family of standards, which define best practices for information security management. ISO 27018 adds new guidelines, enhancements, and security controls to the ISO/IEC 27001 and ISO/IEC 27002 standards, which help cloud service providers better manage the data security risks unique to PII in cloud computing.
 
   
-* [Differences between SAML, OAuth & OIDC (OpenID Connect)](https://www.ubisecure.com/education/differences-between-saml-oauth-openid-connect/)
-  > SAML 2.0 - Security Assertion Markup Language
-> 
-> OAuth 2.0 - Web Authorization Protocol
-> OpenID Connect 1.0 (OIDC) - Simple identity layer on top of OAuth 2.0
 * [What's New in Passwordless Standards, 2021 edition!](https://techcommunity.microsoft.com/t5/identity-standards-blog/what-s-new-in-passwordless-standards-2021-edition/ba-p/2124136) (Microsoft)
   > The Web Authentication API (WebAuthn) Level 2 specification is currently a Candidate Recommendation at the W3C. "Level 2" essentially means major version number 2.
 > 
@@ -640,33 +599,14 @@ members from across the community come together to test interoperability between
 - [What Would JOSE Do? Why re-form the JOSE working group to meet the need?](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-the-need-standards-for-selective-disclosure-and-zero-knowledge-proofs-00) – [Mike Jones](https://twitter.com/selfissued)
 
 
-- [The selective disclosure industry landscape, including Verifiable Credentials and ISO Mobile Driver Licenses (mDL)](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-why-selective-disclosure-00) – [Kristina Yasuda](https://twitter.com/kristinayasuda)
 - [A Look Under the Covers: The JSON Web Proofs specifications](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-json-web-proofs-initial-drafts-00) – Jeremie Miller
 
 
 
-
-
-* [Aries Agent Test Harness Enhancement Project](https://www.idlab.org/en/aries-agent-test-harness-enhancement-project/) IDLab
-
-At this stage of the AATH Enhancement Project, two factors helped define its broad content:
-
-- The gap between AIP 2.0 constituent RFCs and the current implementation of the AATH tests
-- Requirements from Interac with respect to AIP 2.0
-
-
-* [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/)
-
-- The components that constitute a [verifiable credential](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/%23dfn-verifiable-credentials)
-- The components that constitute a [verifiable presentation](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/%23dfn-verifiable-presentations)
-- An ecosystem where [verifiable credentials](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/%23dfn-verifiable-credentials) and [verifiable presentations](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/%23dfn-verifiable-presentations) are expected to be useful
-- The use cases and requirements that informed this specification.
-
 * [Volleyball, Identiverse, and Open Identity Standards](https://www.linkedin.com/pulse/volleyball-identiverse-open-identity-standards-alex-simons/?trackingId%3DiAokBqe0Qdqrwj5LfAEf3w%253D%253D) Alex Simons
 
-* [Crossword wins NGI Atlantic funds for Verifiable Credentials project](https://www.crosswordcybersecurity.com/post/next-generation-internet-grant-win) Crossword Cybersecurity
 
-European Commission’s Next Generation Internet (NGI) initiative to lead a project to test the OpenID Foundation’s protocols for transferring verifiable credentials. Crossword’s partners in this project are Spruce Inc from the USA and Fraunhofer from Germany
+
 
 * [Trinsic Builds Open Source Trust Registry Sponsored by eSSIF-Lab](https://trinsic.id/trinsic-builds-open-source-trust-registry-sponsored-by-essif-lab/) Trinsic
 

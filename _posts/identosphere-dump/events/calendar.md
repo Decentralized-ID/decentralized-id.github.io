@@ -229,9 +229,7 @@ Few businesses are evolving CIAM to deliver better security and privacy for cust
 
 showing the newly released Aries wallet that is available on the GlobaliD app. This wallet offers holder functionality for anyone who wishes to have aries credentials using the Indicio mainnet. GlobaliD developer Alexis Falquier and Dev Bharel will show a brief video demonstration of the wallet connecting, receiving credentials and verifying the credential with an agent on Trinsic studio - showing interoperability.
 
-* [Registration - OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) April 29, 2021
 
-updates on all active OpenID Foundation Working Groups as well the OpenID Certification Program
 
 * [Identiverse 2021](https://identiverse.com/) June 21-23 • Denver, co
 

@@ -4,6 +4,8 @@ published: false
 
 * [The value of verifiable credentials in the evolving digital identity landscape](https://verified.me/blog/the-value-of-verifiable-credentials-in-the-evolving-digital-identity-landscape/) Verified Me
   > In my recent podcast with [Brad Carr](https://www.iif.com/Staff-and-Authors/uid/46/BradCarr) of the [Institute of International Finance](https://www.iif.com/Publications/ID/4304/FRT-Episode-87-Digital-Identity-with-SecureKey-CEO-Greg-Wolfond), we discussed how digital identity and verified credentials can support a digital-first world, something that’s extremely relevant amid the current pandemic.
+* [Mapping FHIR JSON resource to W3C Vaccination vocabulary : A semantic data pipeline](https://iiw.idcommons.net/index.php?title%3D12H/_Mapping_FHIR_JSON_resource_to_W3C_Vaccination_vocabulary_:_A_semantic_data_pipeline%26action%3Dedit%26redlink%3D1) by John Walker
+
 
 # Covid
 * [I Want COVID-19 Certificates but I don't want a DID](https://www.youtube.com/watch?v=yqSr0xKcG18) David Chadwick

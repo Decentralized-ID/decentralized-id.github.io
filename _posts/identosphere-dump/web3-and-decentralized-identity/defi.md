@@ -5,7 +5,7 @@ published: false
 # Decentralized Finance
 
 * [Decentralized identifiers for DeFi? Definitively.](https://hackernoon.com/decentralized-identifiers-for-defi-definitively-25j33qa) Hackernoon
-  > DIDs from a DeFi user VCs can be placed, anchored, indexed, and associated on the LTO chain. LTO Network solution is GDPR compliant and goes hand in hand with [ISO/TC307 - BLOCKCHAIN AND DISTRIBUTED LEDGER TECHNOLOGIES](https://www.iso.org/committee/6266604.html?ref%3Dhackernoon.com) . LTO Network approach uses Chainlink oracles for reaching the cross-chain operability and the Dutch company Sphereon for wallet integration.
+  > DIDs from a DeFi user VCs can be placed, anchored, indexed, and associated on the LTO chain. LTO Network solution is GDPR compliant and goes hand in hand with [ISO/TC307 - BLOCKCHAIN AND DISTRIBUTED LEDGER TECHNOLOGIES](https://www.iso.org/committee/6266604.html) . LTO Network approach uses Chainlink oracles for reaching the cross-chain operability and the Dutch company Sphereon for wallet integration.
 * [Decentralized Finance & Self-sovereign Identity: A tale of decentralization, a new paradigm of trust](https://gataca.io/insights/decentralized-finance-self-sovereign-identity-a-tale-of-decentralization-a-new-paradigm-of-trust)
   > We are aware that DeFi’s growth is explosive and inevitable yet its growth needs to be sustainable and responsible. This can be done with SSI.
 * [KeyFi: AI-Powered DeFi Aggregator](https://selfkey.org/keyfi-ai-powered-defi-aggregator-platform-backed-by-selfkey-credentials-%F0%9F%93%A2/))

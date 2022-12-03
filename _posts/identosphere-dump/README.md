@@ -23,7 +23,7 @@
     - mDL  ✓
     - WACI-Pex ✓
   - Complementary to VC/DID Standards
-    - JSON-LD
+    - JSON-LD ✓
     - JSON
     - KERI ✓
     - Cryptography
@@ -33,12 +33,12 @@
     - UCAN ✓
     - GNAP ✓
     - OAuth ✓
-  - Trust Frameworks
+  - Trust Frameworks ✓
     - 800-63-3
     - DIACC
-  - Blockchain Standards
-    - ISOTC 307
-    - CEN/EENTLIC
+  - Blockchain Standards ✓
+    - ISOTC 307 ✓
+    - CEN/EENTLIC ✓
     - ERC 725
   - Standards Orgs
     - W3C
@@ -47,8 +47,8 @@
     - ITU-T
     - ISO/IEC
   - ISO Standards
-    - mDL 18013-5
-    - 22030
+    - mDL 18013-5 ✓
+    - 22030 ✓
     - Working Group 3 - Travel Documents
   - Non SSI Identity Standards
     - OpenID

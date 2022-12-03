@@ -296,10 +296,6 @@ what’s the purpose of SSI? It’s about enabling Digital Trust (which is quic
 * [Blockchain, The Missing Piece In Self-Sovereign Digital Identity](https://www.youtube.com/watch?v%3DGBLjJm-jvEo%26list%3DPLzdCVbKVZxgeD4ql4C7C4hBKPFuJhb8QS%26index%3D13) Modex (part of a youtube playlist)
 
 How do we prove we are who we say we are? In an identity context, blockchains permit people to prove things about themselves using decentralized, verifiable credentials without revealing the actual data.
-
-* [The Era of Self-Sovereign Identity](https://www.chakray.com/era-self-sovereign-identity/) Chakaray
-
-VC-AuthN OIDC uses the OpenID connect standards to easily integrate with the supported systems and also provides a way to authenticate using the verifiable credentials, giving the control back to the user. This is similar to the traditional OpenID connect, the only difference is in the token information. Rather than using the user’s information to construct the token, this uses claims in the verifiable credentials presented by the user.
 * [Principal Authority: A New Perspective on Self-Sovereign Identity](https://www.blockchaincommons.com/articles/Principal-Authority/) Blockchain Commons
 
 One of the most important steps going forward will be to continue working with the Digital Identity subcommittee in the Wyoming legislature. However, I’d also welcome discussions with other states and nations, to ensure that we have great definitions of digital identity that support self-sovereign identity everywhere.
@@ -377,11 +373,7 @@ In this talk, Wayne reviews the results of support with Tezos addresses, use cas
 
 A particularly useful aspect of the Verifiable Credentials standard is that the parties undertake the specific roles of Issuer, Holder or Verifier, but they are not constrained in how many roles, or when, they can employ them. Each party can be a device, a person or an institution, meaning that verifications can take place directly between automated systems, even verifying that each other is genuine before establishing a connection to share data
 
-* [Let’s talk about digital identity with Oscar Santolalla, Nat Sakimura and Petteri Stenius](https://www.ubisecure.com/podcast/openid-connect/)
 
-the history of OpenID Connect and how it became so prevalent, with special guests [Nat Sakimura](https://www.linkedin.com/in/natsakimura/), Chairman at the OpenID Foundation, and [Petteri Stenius](https://www.linkedin.com/in/petteri-stenius-6a637/), Principal Scientist at Ubisecure. [...]
-
-“New technology seldomly completely replaces the older technologies. They will form additional layers, and slowly start replacing it.”
 * Really Good: [Self Sovereign Identity ≠ Blockchain](https://jolocom.io/blog/dezentrale-identitaten-%25e2%2589%25a0-blockchain-2/) Jolocom
 
 Due to the ID-Wallet project in Germany, some articles and comments have equated Self Sovereign Identity (SSI) with blockchain technology in the last few weeks. The impression is given that SSI only works in conjunction with a blockchain. Spoiler, that’s not the case.
@@ -794,16 +786,6 @@ We expect Digital Transformation to be a more prevalent talking point around di
 This is excellent work, with lots of references, by Dr. Nuttawut Kongsuwan ([Finema](http://finema.co/) & [QTFT](http://qtft.org/)), and Rachata Tosirisuk ([Thailand Internet Exchange](https://th-ix.net/en/), [Finema](https://finema.co/) & [QTFT](https://qtft.org/)).
 
 
-
-
-* [Trust Frameworks](https://medium.com/mattr-global/learn-concepts-trust-frameworks-ad96a4427991)
-  > Trust frameworks are a foundational component of the web of trust. A trust framework is a common set of best practice standards-based rules that ensure minimum requirements are met for security, privacy, identification management and interoperability through accreditation and governance. These operating rules provide a common framework for ecosystem participants, increasing trust between them.
-
-* [The trust infrastructure of self-sovereign identity ecosystems](https://ssi-ambassador.medium.com/the-trust-infrastructure-of-self-sovereign-identity-ecosystems-551f46ed9e2c)
-  > The trust infrastructure is concerned with the question of how and why the presented information can be trusted. It defines the rules for all stakeholders and enables legally binding relationships with the combination of governance frameworks, which are built on top of trust frameworks.
-
-includes a section on the core components of identity architecture that includes a graphic [based on a post by Phil Windley](https://www.windley.com/archives/2020/09/the_architecture_of_identity_systems.shtml)
-
 * [The Verifiable Credential’s Model](https://trinsic.id/trinsic-basics-the-verifiable-credentials-model/)
   > At the core of every self-sovereign identity (SSI) use case is what we call the verifiable credentials model. This simple yet effective model helps conceptualize how verifiable credentials are exchanged between people and organizations.
 * [What Is a Blockchain (SSI) Self-Sovereign Identity?](https://www.youtube.com/watch?v%3Duq0MQH4fAgc%26t%3D3s) Blockchain Africa Conference 2022
@@ -851,9 +833,9 @@ Part V: Deep Dive: Anchored Decentralized Identifiers
 
 
 
-* [The Ukrainian War, PKI, and Censorship](https://www.windley.com/archives/2022/03/the_ukrainian_war_pki_and_censorship.shtml) Phil Windley
 
-PKI has created a global trust framework for the web. But the war in Ukraine has shone a light on its weaknesses. Hierarchies are not good architectures for building robust, trustworthy, and stable digital systems.
+
+
 * [Blockchain Self-Sovereign Identity: True Control Of Your Identity](https://komodoplatform.com/en/academy/self-sovereign-identity/) Komodo Platform
 
 The adoption of verifiable credentials is another fundamental part of the SSI concept. Verifiable credentials use a digital signature for identity claims by combining public-key hashing cryptography and privacy-protection techniques to convert credentials like ID cards to digital versions.

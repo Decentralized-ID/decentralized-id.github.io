@@ -55,8 +55,6 @@ Facebook is interesting because it was based on the .edu domain. Small network. 
 
 Zero-knowledge proofs and trustless networks may require high-trust environments for adoptions.
 
-* [Distributed Open Identity: Self-Sovereign OpenID: A Status Report](https://identiverse.gallery.video/detail/videos/standards/video/6184823227001/distributed-open-identity:-self-sovereign-openid:-a-status-report?autoStart=true)
-  > follow up of the Identiverse 2019 session “SSO: Self-sovereign OpenID Connect – a ToDo list”. (Decentralized Identity, Mobile, Verified Claims & Credentials, Standards, Preeti Rastogi, Nat Sakimura)
 
 * [State of Identity with IDRamp](https://oneworldidentity.com/podcast/idramp-2/) (Enterprise SSI company)
   > As someone who has uniquely spent their full career immersed in identity, Mike Vesey (CEO of IdRamp) shares an insider perspective of how the industry has evolved during his tenure. This episode dives into the impacts of rapid digitalization worldwide, where identity is heading due to digital transformation, and the benefits that come with it.
@@ -108,11 +106,6 @@ Kim might no longer update his blog, nudge identity products toward his vision o
 * [Memories of Kim Cameron](https://www.tuesdaynight.org/2022/01/12/memories-of-kim-cameron/) Ian Glazer
 
 Reification. I learned that word from Kim. In the immediate next breath he said from the stage that he was told not everyone knew what reify meant and that he would use a more approachable word: “thingify.” And therein I learned another lesson from Kim about how to present to an audience.
-
-
-* [Personal Digital Transformation and Holistic Digital Identity](https://www.youtube.com/watch?v%3D9DExNTY3QAk) OpenID Japan ← His last public talk
-
-from the OpenID Summit Tokyo 2020 Keynote […] about Claims, Identity, Self-ness, Who-ness, and OpenID Connect and Decentralized Identity.
 
 * [My heart is heavy over the loss of @Kim_Cameron](https://twitter.com/pamelarosiedee/status/1466776672443666432) Pamela Dingle
 
@@ -172,13 +165,6 @@ This release includes major updates to the front-end Switchboard web application
 * [GLEIF Press Release](https://www.gleif.org/en/newsroom/press-releases/gleif-advances-digital-trust-and-identity-for-legal-entities-globally)
 * [Layering Digital ID on Top of Traditional Data Management](https://hiplatform.org/blog/2020/5/20/layering-digital-id-on-top-of-traditional-data-management) HIP
   > While Digital ID could offer benefit to humanitarian agencies and beneficiaries, alike, many questions remain to be answered. The cost effectiveness of ID solutions remains to be established. Given that many of these systems are only operating at pilot-scale, it is difficult to know what the primary drivers of cost are and how they can be mitigated. In addition, the digital ID space is fairly young and while initiatives like ID4D and ID2020 are working to drive meaningful interoperability among providers in the space, it remains to be seen what the most effective factors, in addition to open source software, open APIs, and common data formats, can be used to general meaningful interoperability.
-## Trends
-* [Digital Caribou looks at the future trends impacting Digital Identity](https://medium.com/caribou-digital/diagnostic-trends-shaping-the-future-of-digital-identification-181724c40068)
-  > 1. The state of the art in digital identification are trust frameworks that accommodate diverse technologies, systems and stakeholders
-  > 2. Risks remain even within the most rigorous trust framework:
-  > 3. Achieving inclusion requires addressing both technical and political dimensions
-  > 4. Trust frameworks are complicated so getting governance right requires an ecosystems approach
-  > 5. Building the future of digital identification means reckoning with an analogue past
 ## Name of SSI
 
 * [SSI Has an Identity Problem](https://trinsic.id/ssi-has-an-identity-problem/) Reilly, Trinsic
