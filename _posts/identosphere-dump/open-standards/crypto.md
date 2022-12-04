@@ -108,3 +108,11 @@ If you are interested in contributing, please feel free to open issues here: []
 * [And a pretty good game plan from CISA with some timing implications here](https://www.cisa.gov/uscert/ncas/current-activity/2022/07/05/prepare-new-cryptographic-standard-protect-against-future-quantum)
 
 The TLDR is to assume that we need hard answers as a community, and at the standards level, on crypto agility by 2024, as well as support for the key algorithms as listed above.
+
+* [[CEIP] Draft paper on Cryptographically Enforceable Issuer Policies](https://lists.w3.org/Archives/Public/public-credentials/2021May/0170.html)  Joosten, H.J.M. (Rieks) May 30
+
+my colleague Sterre and I drafted [a paper that we provisionally called Cryptographically Enforceable Issuer Policies](https://docs.google.com/document/d/1c8kIUqB2BBzM3usfD0_s5wu_z6K2KndzJ4uK_oZcPOs/edit?usp%3Dsharing), which describes our current thinking on this topic.
+
+The paper isn’t finished. We need more text in the ‘discussions’ section, and hope that by making the draft available we’ll get the discussions that we (or you?) can describe in there. Also, we might have missed stuff that you as a reader need for a proper understanding of what this is all about, and to start pondering for what (other) purposes all this might be used. Or why this proposal is a very bad idea that we should not spend any more time on.
+
+

@@ -5,7 +5,100 @@ published: false
 # Verifiable Credentials
 
 
-* [DIF Grant #1: JWS Test Suite](https://blog.identity.foundation/dif-grant-1-jws-test-suite/)
+* [Identifiers in Verifiable Credentials](https://lists.w3.org/Archives/Public/public-credentials/2021Jun/0023.html) Kerri Lemoie June 6
+
+"When expressing statements about a specific thing, such as a person, product, or organization, it is often useful to use some kind of identifier so that others can express statements about the same thing. This specification defines the optional id property for such identifiers. The id property is intended to unambiguously refer to an object, such as a person, product, or organization. Using the id property allows for the expression of statements about specific things in the verifiable credential."
+
+In the credentialSubject property it seems clear that the id can represent the subject that the claim is about but I’m not clear on the uses for the optional id in the vc assertion. It would be helpful to learn about some examples or suggested uses.
+
+For some context: in VC-EDU, we’re discussing Open Badges as VCs. Open Badges have historically mostly been verified via issuer hosted URLs.  One of the reasons to move away from hosted URLs is to remove the dependence on the issuer for verification. However, there may continue to be use cases for when an Open Badge should still be verified through its hosted url.
+
+* [Selective Disclosure of lists](https://lists.w3.org/Archives/Public/public-credentials/2021Jun/0048.html) David Chadwick June 8
+
+The user's VC has a property with a list of values (e.g. names of role holders). The user only wants to disclose n of m of this list to the verifier.
+
+How can the verifier determine the difference between
+
+i) a list with only n entries
+
+ii) a list that has more than n entries but the user has withheld some of them.
+
+Then we have the case where
+
+iii) the list is genuinely empty because e.g. the role, has not been assigned to anyone yet, and
+
+iv) the user does not want to tell the verifier any of the list values.
+
+Re: Understanding @contexts and credentialSchemas Jun 10
+
+This won't be a complete answer, but at the time of publication I believe that field was used in 2 ways.
+
+1. with json schema, see this for example -
+
+* [https://w3c-ccg.github.io/vc-json-schemas/](https://w3c-ccg.github.io/vc-json-schemas/)
+
+2. with hyperledger indy zkp-cl signature vc's
+
+In both cases, "credentialSchemas" was more about the VC data shape and type, whereas contexts and JSON-LD are best used only for semantics.
+
+There are other tools like SHACL that can help do linked data shape constraints, perhaps someone might use them with credentialSchemas in the future.
+
+but AFAIK, "credentialSchemas" is focused on the credential data shape. And "@context" is focused on the semantics and term definitions used in the credential.
+
+OS
+
+On Wed, Jun 9, 2021 at 5:15 PM Kerri Lemoie <klemoie@concentricsky.com>
+
+wrote:
+
+> Hello all,
+
+>
+
+> I’m reviewing this: [https://www.w3.org/TR/vc-data-model/#data-schemas](https://www.w3.org/TR/vc-data-model/%23data-schemas)
+
+>
+
+> Could folks please explain to me the uses of credentialSchemas in
+
+> comparison to @context files in JSON-LD? Is it that @context files name the
+
+> attributes and credentialSchemas provide the information about how to
+
+> validate the data/semantics?
+
+
+* [Re: The dangers of using VCs as permission tokens (was: PROPOSALs for VC HTTP API call on 2021-06-22)](https://lists.w3.org/Archives/Public/public-credentials/2021Jun/0244.html) Manu Sporny
+
+On 6/24/21 12:35 PM, Kyle Den Hartog wrote:
+
+> Agreed, when it comes to the number of checks that occur it's much greater
+
+> because of the delegation. With that in mind, looking at the semantics only
+
+> of the system VCs in my opinion weren't optimally designed for permission
+
+> tokens. This difference between the two requires that an implementation
+
+> that wants to support both claims tokens and permissions tokens has to
+
+> grapple with the different mental model that arise when trying to stuff
+
+> these things together. This introduces additional complexity. Additionally
+
+> it leads to weird statements that are being made where it's difficult to
+
+> tell if the VC is behaving like a claims token or a permissions token.
+
+Yes, exactly this. Exactly what Kyle states above is the reason why it's so complicated (and thus dangerous) to use VCs as permissions tokens.
+
+This is one of the primary reasons that we separated out the Authorization Capabilities work from the Verifiable Credentials work. Things get really complicated when you start mixing authz/authn/claims/permissions into a Verifiable Credential. Just because you can do it doesn't mean you should.
+
+Much of the complexity that gets created in such a system that mixes all those concepts together goes away when you clearly separate claims tokens from permissions tokens.
+
+I suggest that folks take a look at Kyle's post to see how intractable the problem becomes when you don't do proper separation of concerns and depend on attributes to convey permissions:
+
+* [https://kyledenhartog.com/example-authz-with-VCs/](https://kyledenhartog.com/example-authz-with-VCs/)* [DIF Grant #1: JWS Test Suite](https://blog.identity.foundation/dif-grant-1-jws-test-suite/)
 
 DIF announces its first community microgrant, sponsored by Microsoft and rewarding the timely creation of a comprehensive test suite for detached-JWS signatures on Verifiable Credentials
 
@@ -430,3 +523,35 @@ Thread: VCs need Threat Modeling
       > It also seems to lack any sections about threat modelling and possible risks, making it hard to trust since risks are not directly and clearly addressed.
     * [Torsten Lodderstedt Replying to @Erstejahre @pamelarosiedee and 3 others](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics)
       > I agree. We [threat] model while we are designing the protocol, we also need to add it to the spec. Please note: we build on existing work. There is an extensive thread model for OAuth and countermeasures that we built on ([datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics). Feel free to contribute.
+* [One subject, 2 VCs, 2 duplicate properties](https://lists.w3.org/Archives/Public/public-credentials/2021May/0075.html) Michael Herman (Trusted Digital Web) (Tuesday, 18 May)
+
+*   Erin is the Subject of 2 Verifiable Credentials: VC1 and VC2
+
+*   VC1 has 2 properties: "age" and "hairColor"
+
+*   VC2 has the same 2 properties (by name): "age" and "hairColor"
+
+Questions
+
+1.  Assuming VC1 and VC2 apply/are valid at the same instant in time, can the value of the "age" property (or the "hairColor" property) be different in V1 compared to V2?
+
+2.  What makes sense? ...what is realistic? ...how should VCs behave in this regard?
+
+* [RE: Cryptographically Enforceable Issuer Policies (forked](https://lists.w3.org/Archives/Public/public-credentials/2021May/0108.html) Joosten, H.J.M. (Rieks) (Friday, 21 May)
+
+Before answering your question, let me tell you this is still stuff we are coming to grips with - it is the subject of a masters thesis that Naveena Anaigoundanpudur Karthikeyan is working on with TNO. So what I write below are ideas that I still need to see verified.
+
+* [...]
+
+parties that issue credentials under such a policy must (be able to) determine
+
+*   That he attributes that a KeySmith uses to generate decryption keys are sufficient for expressing its policy
+
+*   That the process that the KeySmith uses to validate the attributes that parties provide as they request a decryption key, provides sufficient assurance that the (cryptograhpic) evaluation of the policy is also valid. And I think this is the trickiest part.
+
+From: Steve Magennis
+
+Subject: RE: One subject, 2 VCs, 2 duplicate properties
+
+... forking the conversation r.e. Cryptographically Enforceable Issuer Policies @Joosten, H.J.M. (Rieks), how would it be  determined if a Verifier satisfies policy conditions? Really interesting idea.
+

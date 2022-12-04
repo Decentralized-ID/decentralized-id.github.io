@@ -769,13 +769,6 @@ If you want to explain Web3 in the simplest language, I think it is a decentrali
 
 Experts globally agree on one key point about decentralized identity: it will be essential to the evolving metaverse and Web3 world. We’ll all be using personal keys, blockchains and decentralized applications to limit the amount of personal information we expose to data brokers, data breaches and dodgy business practices.
 
-* [InsideTheSimulation.eth @InsideTheSim Jul 28](https://twitter.com/InsideTheSim/status/1552636154423410689)
-
-Proposal: it’s not Web3 — it’s DeWeb (a la DeFi) as we undo all the mistakes around centralized ownership of the web 2 era. Opinions?
-
-* [[…](https://twitter.com/InsideTheSim/status/1552636357373214722)] Bonus points — “de-web” sounds like “untangling a clusterfuck” which is exactly what it is.
-
-* [[...](https://twitter.com/InsideTheSim/status/1552637214391156739)] DeWeb is: - Self-sovereign identity with portable accounts and easy sign-on (such as sign-in with Ethereum). - Custody of your own data and the ability to revoke access to it by 3rd parties. - Permission-less commerce rails. - Permission-less domains (ENS) - more?
 
 * [Mail3](https://mail3.me/) Web3 natives deserve a better mail
 

@@ -4,6 +4,31 @@ published: false
 
 # Critique
 
+* [Negative press related to DIDs and VCs](https://lists.w3.org/Archives/Public/public-did-wg/2021Jun/0032.html) Manu Sporny (29 June)
+
+Just drawing your attention towards this:
+
+* [https://twitter.com/harryhalpin/status/1409615372538548227](https://twitter.com/harryhalpin/status/1409615372538548227)
+
+![https://www.notion.soimages/image2.png](https://www.notion.soimages/image2.png)
+
+* [https://lists.w3.org/Archives/Public/semantic-web/2021May/0177.html](https://lists.w3.org/Archives/Public/semantic-web/2021May/0177.html)
+
+These are things that I would expect we would normally just ignore, but I've received a number of private emails over the tweet above from various decision making parties inside the EU requesting that we respond publicly to theses sorts of accusations.
+
+The accusations are being taken seriously by some because Harry Halpin is ex-W3C staff. Also note that he his company is developing "competing technology" to DIDs and VCs.
+
+Just raising awareness here as Harry's campaign is having a negative effect on adoption of VCs and DIDs.
+
+Ted Thibodeau Jr Shares
+
+it was not the only nor the first related tweet emanating from Harry --
+
+* [https://twitter.com/search?q=W3C%20(DID%20OR%20%22Verifiable%20Credentials%22%20OR%20VCs)%20(from%3Aharryhalpin)&src=typed_query&f=live](https://twitter.com/search?q%3DW3C%2520(DID%2520OR%2520%2522Verifiable%2520Credentials%2522%2520OR%2520VCs)%2520(from%253Aharryhalpin)%26src%3Dtyped_query%26f%3Dlive)
+
+Nor has he limited his commentary to Twitter --
+
+* [https://www.google.com/search?q=W3C+(DID+OR+%22Verifiable+Credentials%22+OR+VCs)+%22harry+halpin%22](https://www.google.com/search?q%3DW3C%2B(DID%2BOR%2B%2522Verifiable%2BCredentials%2522%2BOR%2BVCs)%2B%2522harry%2Bhalpin%2522)
 * [An Examination of the Biases within Commercialized Identity](https://www.pingidentity.com/en/company/blog/posts/2021/biases-commercialized-identity.html) on  [Hello User Podcast](https://www.pingidentity.com/en/company/podcast.html)
 
 “There is no discipline for software engineers when it comes to identity and privacy due to the pace at which they are expected to build, but this will likely change because of liabilities and regulation.”

@@ -356,3 +356,60 @@ After a tough competition among overall excellent proposals, eSSIF-LAB selected 
 * [5 reasons why professionals and enthusiasts of Self-Sovereign Information Sharing should look into EBSI](https://ec.europa.eu/newsroom/cef/newsletter-archives/40411)
 
 The web is increasingly more distributed, and with it, a new pattern of information sharing is emerging: Self Sovereign Information sharing, where citizens stay in control of their information by choosing what and when to disclose it, and to whom EBSI enables self-sovereign Citizen-to-Government (C2G) and C2B (Citizen-to-Business) privacy-preserving information sharing.
+* [Self-Sovereign Identity Working Group](https://europeanblockchainassociation.org/eba-working-group-self-sovereign-identity-eussi/) European Blockchain Association in collaboration with the European Commission
+
+Right now, many enterprises and organisations are building their own SSI solutions by implementing the existing standards and protocols. Since all these parties do similar work and have to face similar problems, it is critical for the community to share these learnings and experiences openly.
+
+* [A critical fork in the data road?](https://medium.com/mydex/a-critical-fork-in-the-data-road-1eb29c5a42a8) MyData
+
+Is the EU discussion about data portability missing a key point?
+
+In its discussion of data portability the EU rightly recognises the economic importance of this issue, stressing that “market imbalances arising from the concentration of data restricts competition, increases market entry barriers and diminishes wider data access and use.”
+
+it is likely that many dApp developers now need an identity solution that preserves privacy but ensures compliance – which is exactly the solution that we are building at SelfKey.
+EU [DATA GOVERNANCE ACT MEETS TOIP FRAMEWORK](https://trustoverip.org/blog/2022/01/13/data-governance-act-meets-toip-framework/) TOIP
+
+The DGA defines an “intermediary” that facilitates processing and sharing of data for individuals and organizations to “…increase trust in data intermediation services and foster data altruism across the EU”. In the [MyData](https://mydata.org/declaration/) framework for user-controlled data sharing, intermediaries are called [MyData Operators](https://mydata.org/mydata-operators/) and there is a certification program in place.
+* [How the Digital Markets Act (DMA) will shape the future of digital identity in Europe](https://www.idnow.io/blog/digital-markets-act-dma-future-digital-identity/) IDNow
+
+On March 24th, 2022, [the European Parliament and Council reached an agreement on the final version of the Digital Markets Act (DMA)](https://eur-lex.europa.eu/legal-content/de/TXT/?qid%3D1608116887159%26uri%3DCOM%253A2020%253A842%253AFIN). According to the European Commission, the DMA regulation is expected to be reviewed and enacted by October 2022.
+
+* [Overview of Member States' eID strategies](https://ec.europa.eu/cefdigital/wiki/display/EIDCOMMUNITY/National%2BStrategies)
+  > The report focusses on the approaches towards eID outlined in national strategy documents, together with other supporting documentation and web resources, with the aim of offering a thorough understanding of the eID state of play across Europe.
+* [Understanding the MiCA and Pilot Regime crypto regulation](https://medium.com/adaneu/relax-take-it-easy-understanding-the-mica-and-pilot-regime-crypto-regulation-db21e537ec58)
+  > The European Commission’s proposal for the regulation of crypto-assets markets is based on two draft texts :
+> - MiCA (Markets in Crypto-Assets Regulation) whose scope covers cryptocurrencies, utility tokens and stablecoins ;
+> - the Pilot Regime Regulation for DLT Market Infrastructures (PRR) project.
+> With these two texts, the Commission’s goal is to regulate crypto-asset players and not the assets as such.
+
+* [EU Data Governance Act officially released](https://ec.europa.eu/digital-single-market/en/news/data-governance-act)
+   >foster the availability of data for use by increasing trust in data intermediaries and by strengthening data-sharing mechanisms across the EU
+   
+One of MyDex CIC’s founders, [Alan Mitchell shares a feeling of Vindication](https://medium.com/mydex/vindicated-cb897fb4e94b) in a post celebrating the companies early articulation of key principles and how the EU’s proposed new Data Governance Act aligns with that.
+  > These providers will have to comply with a number of requirements, in particular the requirement to remain neutral as regards the data exchanged. They cannot use such data for other purposes. In the case of providers of data sharing services offering services for natural persons, the additional criterion of assuming fiduciary duties towards the individuals using them will also have to be met.
+* [Data Exchange Board to Improve the EU Data Governance Act](https://mydata.org/2020/12/09/why-we-need-a-data-exchange-board-to-improve-the-eu-data-governance-act/)
+* [Trust in the digital space](https://lissi-id.medium.com/trust-in-the-digital-space-7762471351cf) Lissi ID
+
+Would we rather have a high level of security or self-sovereignty? Unfortunately, the two aspects are at different ends of the spectrum. If we only allow pre-verified and approved parties to retrieve identity data, as currently envisaged by the [eIDAS regulation](https://lissi-id.medium.com/eidas-and-the-european-digital-identity-wallet-context-status-quo-and-why-it-will-change-the-2a7527f863b3), this severely restricts usage
+
+* [How Can Europe Lead Innovation And Win Web3? Ledger’s 4 Recommendations For EU Policymakers](https://acrobat.adobe.com/link/review?uri%3Durn:aaid:scds:US:fa00c64a-5f6d-38c6-baf7-0bcfa06e6a28%23pageNum%3D25)
+
+1. Invest in a public/private partnership to co-develop a self-sovereign identity solution for Europe.
+
+
+* [Is the EU Digital Identity Wallet an implementation of Self-Sovereign Identity?](https://www.innopay.com/en/publications/eu-digital-identity-wallet-implementation-self-sovereign-identity) Innopay
+
+The intention of the European Commission is to allow – or even force – acceptance in a wide range of sectors in the public and private domain and thereby ensure that identities are as wisely usable as possible (interoperability). The principle of consent will also be met, as it is already fulfilled with current eID solutions notified under eIDAS and other EU regulations, such as GDPR and PSD2. One of the explicit requirements of the proposal is selective disclosure, in line with GDPR’s rules on data minimalisation.
+
+
+- [Avast’s views on the proposed amendments to the eIDAS 2.0 regulation](https://blog.avast.com/eidas-2.0-amendments-analysis)
+
+* [UK Draft Digital Identity Framework Published](https://www.research-live.com/article/news/uk-draft-digital-identity-framework-published/id/5087382) Research Live
+
+Updates to the framework include new guidance on creating a consistent approach on user experience, rules on how to manage digital identity accounts, clearer definitions for the framework’s role and details on how organisations will be certified.
+
+* [Can a Verifiable Credential-based SSI Implementation meet GDPR Compliance?](https://academy.affinidi.com/can-a-verifiable-credential-based-ssi-implementation-meet-gdpr-compliance-5039d0149ea4)
+
+Let’s examine how SSI meets each of the articles from #13 to #22.
+* [SSI](https://academy.affinidi.com/can-a-verifiable-credential-based-ssi-implementation-meet-gdpr-compliance-5039d0149ea4) is a digital movement that aims to enable individuals or organizations to have sole ownership of their identity, and to have control over how their data is shared and used.
+

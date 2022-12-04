@@ -7,6 +7,9 @@
 
 ## Links
 
+* [Digital Identity and Attributes Trust Framework](https://stateofidentity.libsyn.com/digital-identity-and-attributes-trust-framework) State of Identity
+
+Do you trust technology and government to protect your data? On this week's State of Identity podcast, host, Cameron D'Ambrosi is joined by Gareth Narinesingh, Head of Digital Identity at HooYu to discuss the bridge between payments and identity wallets, the UK's next big push in adopting shared identity standards, and the foundation of decentralized identity verification across Web3 applications and the metaverse.
 * [The Ukrainian War, PKI, and Censorship](https://www.windley.com/archives/2022/03/the_ukrainian_war_pki_and_censorship.shtml) Phil Windley
 
 PKI has created a global trust framework for the web. But the war in Ukraine has shone a light on its weaknesses. Hierarchies are not good architectures for building robust, trustworthy, and stable digital systems.
@@ -94,3 +97,8 @@ It’s a great pleasure to share with you DINZ Reflections Report, a seminal pie
 * [Pan-Canadian Trust Framework (PCTF) – Overview](https://northernblock.io/pan-canadian-trust-framework/)
 
 Right now, we are alpha testing the framework with different kinds of actors, both public and private, and with assessors. Through this process, we’re going to learn what may need to change, and what may not need to change. We’re going to get real knowledge there. I will say that what we’re seeing already, is that DIACC and our priorities are really driven by members.
+
+
+* [Trinsic Basics: What Is a Trust Registry?](https://trinsic.id/trinsic-basics-what-is-a-trust-registry/) Trinsic
+
+Trust registries also need to be interoperable. The [Trust Over IP Foundation](https://www.trustoverip.org/) has a [specification](https://github.com/trustoverip/tswg-trust-registry-tf) for an interoperable trust registry, and ours is the first implementation of this spec. Because of this, Trinsic’s Trust Registry Service is architected so that one ecosystem could reference or incorporate a trust registry from a separate ecosystem if needed.

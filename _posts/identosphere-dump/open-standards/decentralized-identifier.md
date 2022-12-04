@@ -231,3 +231,20 @@ point that we can finish off a first pass of a did:key test suite.
 
 * [...] [https://github.com/w3c-ccg/did-method-key/pull/51](https://github.com/w3c-ccg/did-method-key/pull/51)
 
+* [Current status of DID Core implementations (June 2021)](https://lists.w3.org/Archives/Public/public-did-wg/2021Jun/0012.html)
+
+Our latest implementation report for DID Core is available here:
+
+* [https://w3c.github.io/did-test-suite/#spec-statement-summary](https://w3c.github.io/did-test-suite/%23spec-statement-summary)
+
+Here are the remaining items that the WG needs to discuss on the upcoming call:
+
+#1: Are the hl, relativeRef, and service implementations independent enough?
+
+* [...]
+
+#2: Are we letting the JSON serialization keep unimplemented features?
+
+* [...]
+
+#3: What are we going to do with deactivated, nextUpdate, and nextVersionId?

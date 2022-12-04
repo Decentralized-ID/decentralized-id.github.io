@@ -3,6 +3,21 @@ published: false
 ---
 
 # Events Calendar
+* [2 special topics IIWs](https://lists.w3.org/Archives/Public/public-credentials/2021Jun/0293.html) Kaliya IDwoman
+
+we are pulling together these as an experiment based on feedback from the community in the closing circle of the last IIW.
+
+1) User-Experience and SSI on July 22nd. 8am - 2pm pacific time.
+
+* [www.eventbrite.com/e/159946001797/?discount=CCG_25](http://www.eventbrite.com/e/159946001797/?discount%3DCCG_25)
+
+2) The Business of SSI on August 4th 8am-2pm pacific time.
+
+* [https://www.eventbrite.com/e/the-business-of-ssi-an-iiw-special-topic-12-day-virtual-event-tickets-161249943923](https://www.eventbrite.com/e/the-business-of-ssi-an-iiw-special-topic-12-day-virtual-event-tickets-161249943923)
+
+We also have [IIW33 set now as a virtual event October 12-14](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxxiii-33-2021b-tickets-160257990965) - we had too much uncertainty around travel for folks outside the US who are now 50% of attendees, delta+ variants, fires in California at that time of year and wanting to provide hybrid participation options and not having time.
+
+
 
 * [MyData Global](https://www.mydata.org/events/) Annual + Regional + Organizational
 

@@ -88,10 +88,6 @@ a simple mechanism to provide public information concerning an entity by adverti
   > Machine-readable governance is composed of elements that help to establish trust and enable interoperability: trusted participants, schemas (templates for structuring information in a credential), and rules and flows for presenting credentials and verifying them. Machine-readable governance can be hierarchical. Once a governance system is published, other organizations can adopt and then amend or extend the provided system.
 
 
-* [ToIP Releases Additional Tools for Governance and Trust Assurance in Digital Trust Ecosystems](https://trustoverip.org/news/2021/11/12/toip-releases-additional-tools-for-governance-and-trust-assurance-in-digital-trust-ecosystems/)
-
-Following the [September announcement of its first tools for managing risk in digital trust ecosystems](https://trustoverip.org/blog/2021/09/23/trust-over-ip-foundation-issues-its-first-tools-for-managing-risk-in-digital-trust-ecosystems/), today the ToIP Foundation announced three more pairs of tools to assist in the task of generating digital governance and trust assurance schemes
-
 * [3 Stages of a Pan-African Identity Framework for Establishing Self-Sovereign Identity With Blockchain](https://www.frontiersin.org/articles/10.3389/fbloc.2021.631640/full) Solomon Darnell, Joseph Sevilla
 
 Three stages have been identified as necessities to accomplish the development of this system before opening it further beyond the pan-African worldwide community. The three stages are defined by systems that allow for biometric/demographic registration (stage 1), interoperability and security hardening (stage 2), and biometric modality data analysis/organization/association (stage 3).
@@ -257,8 +253,6 @@ Links from chat: [http://emoglen.law.columbia.edu/LIS/archive/privacy-legis/IST
 * [dpvcg/dpv: Data Privacy Vocabulary](https://github.com/dpvcg/dpv)
 
 * [https://institutionalgrammar.org/wp-content/uploads/Instructional_materials/IG-2.0-Cheat-Sheet-v1.pdf](https://institutionalgrammar.org/wp-content/uploads/Instructional_materials/IG-2.0-Cheat-Sheet-v1.pdf)
-
-* [ISO/IEC 29100:2011 - Information technology — Security techniques — Privacy framework](https://www.iso.org/standard/45123.html)
 
 * [At a Crossroads: Personhood and Digital Identity in the Information Society](https://www.oecd.org/sti/ieconomy/40204773.doc)
 

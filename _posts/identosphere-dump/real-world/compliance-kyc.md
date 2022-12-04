@@ -19,9 +19,9 @@ Ubisecure brought innovation to the LEI market by automating LEI issuance. Revol
 
 - [DIDComm for KYC](https://www.youtube.com/watch?v%3DPWrZxRbCG88)
 
-* [Roadmap to Institutional Adoption of DeFi](https://www.youtube.com/watch?v%3DbkOQHcVVGoE) RSK - Coinfirm
 
-The most recent FATF updated draft guidance from March 2021 introduces significant changes to the legal definition of DeFi platforms, expanding the types of entities that fall under FATF's umbrella. In this guidance, FATF defines most operators of decentralized finance platforms as “Virtual Asset Service Providers” that have AML/CFT obligations.
+
+
 * [zkKYC A solution concept for KYC without knowing your customer, leveraging self-sovereign identity and zero-knowledge proofs](https://bafybeie5ixj4dkim3lgivkw56us6aakh6bc3dhlsx5zzohrkzgo3ywqqha.ipfs.dweb.link/zkKYC-v1.0.pdf)
 
 The proposed solution concept, zkKYC, removes the need for the customer toshare any personal information with a regulated business for the purpose of KYC, and yet providesthe transparency to allow for a customer to be identified if and when that is ruled necessary by adesignated governing entity (e.g. regulator, law enforcement).
@@ -32,9 +32,6 @@ if you look at the the cost structure of the financial industry a lot of cost Is
 
 The way many businesses have traditionally implemented KYC is by taking a manual, fragmented approach – essentially implementing various different KYC processes using different tools, methods and resources, including human compliance teams.
 
-* [DeFi regulation must not kill the values behind decentralization](https://cointelegraph.com/news/defi-regulation-must-not-kill-the-values-behind-decentralization) Cointelegraph
-
-Financial Action Task Force (FATF) recently [proposed](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/public-consultation-guidance-vasp.html) guidelines making it clear that “The owner/operator(s) of the DApp likely fall under the definition of a VASP [virtual asset service provider] [...] even if other parties play a role in the service or portions of the process are automated.
 * [Forensic Investigative Report: Sanctioned Blockchain Addresses](https://www.coinfirm.com/blog/sanctioned-blockchain-addresses/) Coinfirm
 
 * [Forensic Investigative Report: Terrorism Financing Blockchain Addresses](https://www.coinfirm.com/blog/terrorism-financing-blockchain-addresses/) Coinfirm

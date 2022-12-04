@@ -48,3 +48,6 @@ A global digital ID association has published steps vendors and others need to t
 
 Spruce’s continued mission is to let users control their data across the web, whether it’s web2, web3, or beyond. This also applies to credentials issued by existing entities, such as the Mobile Driver License (mDL) issued by motor vehicle authorities across the world.
 - [The selective disclosure industry landscape, including Verifiable Credentials and ISO Mobile Driver Licenses (mDL)](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-why-selective-disclosure-00) – [Kristina Yasuda](https://twitter.com/kristinayasuda)
+* [Apple announces first states signed up to adopt driver’s licenses and state IDs in Apple Wallet](https://www.apple.com/newsroom/2021/09/apple-announces-first-states-to-adopt-drivers-licenses-and-state-ids-in-wallet/)
+
+Arizona, Connecticut, Georgia, Iowa, Kentucky, Maryland, Oklahoma, and Utah are among the first states to bring state IDs and driver’s licenses in Wallet to their residents

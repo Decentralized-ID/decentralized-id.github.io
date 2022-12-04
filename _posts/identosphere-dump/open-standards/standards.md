@@ -74,16 +74,6 @@ Purple - General crypto packaging/protocol standards
 
 Orange - Application layer standards
 
-* [The 7 Laws of Identity Standards](https://openid.net/2021/04/10/the-7-laws-of-identity-standards/) OpenID
-
-1. A identity standard’s adoption is driven by its value of the reliability, repeatability and security of its implementations.
-2. A standard’s value can be measured by the number of instances of certified technical conformance extant in the market.
-3. Certified technical conformance is necessary but insufficient for global adoption.
-4. Adoption at scale requires widespread awareness, ongoing technical improvement and a open and authoritative reference source.
-5. When Libraries/Directories/ Registries act as authoritative sources they amplify awareness, extend adoption and promote certification.
-6. Certified technical conformance importantly complements legal compliance and together optimize interoperability.
-7. Interoperability enhances security, contains costs and drives profitability.
-
 * [Verifier Universal Interface by Gataca España S.L.](https://essif-lab.eu/verifier-universal-interface-by-gataca-espana-s-l/)
   > This draft version can be found at [https://gataca-io.github.io/verifier-apis/](https://gataca-io.github.io/verifier-apis/) and has been built using ReSpec.
   > This draft version for VUI includes today 6 APIs:
@@ -162,14 +152,6 @@ SDTT is a tool from Google which began life as the [Rich Snippets Testing Tool](
 
 ## Standards
 
-* [ToIP Primer](https://trustoverip.org/wp-content/uploads/sites/98/2020/05/toip_050520_primer.pdf)
-
-A history of procedural trust, leading to an overview of the TOIP stack.
-
-* [ToIP Stack Diagram Preview](http://elanica.com/sandbox/)
-
-Interactive
-
 * [Decentralized Identity FAQ](https://identity.foundation/faq/%23agent-frameworks-infrastructure-layer-2)
 
 DIF
@@ -181,11 +163,8 @@ At its core, WACI can be thought of as a handshake using classic, industry-stand
 * [The Verifiable Economy: Fully Decentralized Object (FDO) Example: Bob’s UDID Document](https://hyperonomy.com/2021/06/15/the-verifiable-economy-fully-decentralized-object-fdo-example-bobs-udid-document/)
 
 Strongly-typed Code to Generate Bob’s UDID Document
-* [Security Event Tokens, Subject Identifiers, and SSE/CAEP/RISC Java implementation](https://domsch.com/IIW32/IIW32-openid-sse-model.pdf) Matt Domsch, VP & Engineering Fellow
-  > • Security Event Tokens – RFC 8417
-  > • Subject Identifiers – Internet Draft RFC
-  > • Shared Signals & Events – OpenID Foundation WG
-  > • Includes RISC, CAEP, and Oauth event profiles
+
+
 
 * [Schema.org is ten!](http://blog.schema.org/2021/06/schemaorg-is-ten.html)
 
@@ -198,12 +177,6 @@ talks like [“Simplify Your Least-Privilege Journey with Access Analysis”](h
 * [Kaliya Young on Identikit with Michelle Dennedy](https://identitywoman.net/podcast-identikit-with-michelle-dennedy/)
 
 our latest series examining the evolution of digital identity, and how self-sovereign identity, specifically, can advance a consent-based economy.
-
-
-
-* [Shared Signals: An Open Standard for Webhooks](https://openid.net/2021/08/24/shared-signals-an-open-standard-for-webhooks/) OpenID
-
-The OpenID Foundation formed the “[Shared Signals and Events](https://openid.net/wg/sse/)” (SSE) Working Group as a combination of the previous OpenID RISC working group and an informal industry group that was focused on standardizing [Google’s CAEP proposal](https://cloud.google.com/blog/products/identity-security/re-thinking-federated-identity-with-the-continuous-access-evaluation-protocol). These represented two distinct applications of the same underlying mechanism of managing asynchronous streams of events. Therefore the [SSE Framework](https://openid.net/specs/openid-sse-framework-1_0-01.html) is now proposed to be a standard for managing such streams of events for any application, not just CAEP and RISC. In effect, it is a standard for generalized Webhooks.
 * [Managed Open Projects: A New Way For Open Source and Open Standards To Collaborate](https://www.oasis-open.org/2021/09/08/managed-open-projects/)
 
 I recently pointed out in a [TechCrunch contribution](https://techcrunch.com/2021/06/09/a-revival-at-the-intersection-of-open-source-and-open-standards/) that the open source and open standards communities need to find ways to team up if they are to continue driving innovation and  development of transformative technologies to push our society forward.
@@ -216,10 +189,6 @@ JSON has its place. But I think we're overusing it in places where a good notati
 * [Q&A: The Potential of Decentralized ID in Travel](https://www.webintravel.com/qa-the-potential-of-decentralized-digital-id-in-travel/) WebInTravel
 
 Since February he has also been the informal chair of the [Hospitality and Travel Special Interest Group](https://www.notion.so/dif/HOSPITALITY-TRAVEL-SIG-242105321e1747f8bce776bf634a55b3), a subset within the Decentralized Identity Foundation, an organization creating technical specifications and reference implementations for decentralized identity and working with industries for commercial applications of such technologies.
-
-### OpenID trying to make play in the “trusted identities” online space
-
-* [Global Assured Identity Network White Paper](https://openid.net/2021/09/20/global-assured-identity-network-white-paper/)
 
 
 * [Sign in with Ethereum](https://login.xyz/) is being developed by Spruce
@@ -240,14 +209,6 @@ Lohan Spies, Technical Lead, Yoma
 
 * [Explore Affinidi Schema Manager](https://ui.schema.affinidi.com/schemas/)
 
-* [Proof-of-possession (pop) AMR method added to OpenID Enhanced Authentication Profile spec](https://self-issued.info/?p%3D2198) Mike Jones
-
-I’ve defined an Authentication Method Reference (AMR) value called “pop” to indicate that Proof-of-possession of a key was performed. Unlike the existing “hwk” (hardware key) and “swk” (software key) methods [...] Among other use cases, this AMR method is applicable whenever a [WebAuthn](https://www.w3.org/TR/2021/REC-webauthn-2-20210408/) or [FIDO](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html) authenticator are used.
-
-- [https://openid.net/specs/openid-connect-eap-acr-values-1_0-01.html](https://openid.net/specs/openid-connect-eap-acr-values-1_0-01.html)
-- [https://openid.net/specs/openid-connect-eap-acr-values-1_0.html](https://openid.net/specs/openid-connect-eap-acr-values-1_0.html)
-
-
 * [DIDs are not enough - we need an Authoriziation standard too](https://medium.com/energy-web-insights/api-access-security-for-dapps-cfcfa928623c) Energy Web
 
 If you are a developer and want to write a DApp [...] you probably are using API-Keys in your front-end. If this is the case, then you should consider the security risk the publication of the API-Key in your front end represents and ask yourself if it would make sense to switch to a user authentication scheme.
@@ -260,11 +221,6 @@ We have a new suite of badges to encourage participation, create value for other
 * [Mission Accomplished: Universal Resolver Calls coming to an end](https://blog.identity.foundation/universal-resolver-calls-wrapup/) Identity Foundation
 
 Considering that the group has accomplished these goals, there is currently no more need for dedicated calls. Work on the Universal Resolver work item will continue on Github (under the [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) and [Identifiers &Discovery](https://github.com/decentralized-identity/identifiers-discovery/) and on DIF Slack in the Identifiers & Discovery Working Group channel, #wg-id.
-
-* [First Official Me2B Alliance Recommendation](https://me2ba.org/first-official-me2b-alliance-recommendation/)
-
-In a sense, this recommendation is a kind of abbreviation of the key things that our specifications test for. And you’ll be able to see that soon as the Me2B Safe Website Specification for Respectful Technology is currently in the membership review stage of the approval process.
-
 
 * [Discover Open Badges 3.0!](https://app.participate.com/communities/keep-badges-weird/62003f3f-a7ba-4f6a-990a-64d6f893016d/announcements/0bc15852-0f91-48c8-a7ca-478b246b553c) Keep Badges Weird
 
@@ -305,9 +261,6 @@ What already exists, more recently: [fine-grained permissions 1](https://blog.oc
 
 
 
-* [Vote for First Implementer’s Drafts of OIDConnect SIOPV2 and OIDC4VP Specifications](https://openid.net/2022/01/18/notice-of-vote-for-first-implementers-drafts-of-openid-connect-siopv2-and-oidc4vp-specifications/) OpenID
-
-The official voting period will be between Tuesday, February 1, 2022 and Tuesday, February 8, 2022, following the [45-day review](https://openid.net/2021/12/17/first-public-review-period-for-openid-connect-siopv2-and-oidc4vp-specifications-started/) of the specifications.
 
 
 * [NFTs, Verifiable Credentials, and Picos](https://www.windley.com/archives/2021/10/nfts_verifiable_credentials_and_picos.shtml) Phil Windley
@@ -327,10 +280,6 @@ This is the Use Case Implementation Workstream of the [COVID Credentials Initia
 * [@csuwildcat](https://twitter.com/csuwildcat) shares
   > As of Friday, we believe v1 of ION is functionally code complete, and the Sidetree Working Group at DIF (@DecentralizedID) should have a v1 spec candidate ready for the underlying protocol by Jan 21st. Public v1 launch of the ION network on Bitcoin mainnet is just weeks away.
 
-* [What Is ISO 27018:2019? Everything Executives Need to Know](https://auth0.com/blog/what-is-iso-27018-2019-everything-executives-need-to-know/)
-  > ISO 27018 is part of the ISO 27000 family of standards, which define best practices for information security management. ISO 27018 adds new guidelines, enhancements, and security controls to the ISO/IEC 27001 and ISO/IEC 27002 standards, which help cloud service providers better manage the data security risks unique to PII in cloud computing.
-
-  
 * [What's New in Passwordless Standards, 2021 edition!](https://techcommunity.microsoft.com/t5/identity-standards-blog/what-s-new-in-passwordless-standards-2021-edition/ba-p/2124136) (Microsoft)
   > The Web Authentication API (WebAuthn) Level 2 specification is currently a Candidate Recommendation at the W3C. "Level 2" essentially means major version number 2.
 > 
@@ -341,43 +290,6 @@ This is the Use Case Implementation Workstream of the [COVID Credentials Initia
   > ISO 27001 is also the cornerstone of a growing international consensus about data security best practices. Australia based its federal Digital Security Policy on ISO 27001. Likewise, ISO 27001 can provide guidance on how to meet the standards of other data privacy laws, such as the GDPR, which often direct companies to it as an example of universal best practices. So if you abide by ISO 27001’s recommendations, you’re on the right track for legal compliance, not to mention improved data security.
 
 ### Data Privacy Vocab
-
-* [OPN-R (Open Public Notice - Rights) - starting Notice & Control Language - for people to use rights and govern identity (govinterop) with @ Kantara, ToiP and W3C Data Privacy Vocabulary using international vocab - from ISO/IEC 29100 Legal Framework Vocabulary](https://iiw.idcommons.net/22F/_OPN-R_-_Open_Public_Notice_-_Rights_-_starting_Notice_and_Control_Language) by Mark Lizar
-
-The language consists of
-
-- International standard vocabulary for security and privacy frameworks provides roles and actors to govern the transfer of personal data.
-- The active state notice and consent receipt - is a format for generating consent records from notice/policy - which provides people with information to use rights. .
-- W3C Data Privacy Control Vocabulary and ISO/IEC 29100, Legal Framework Vocabulary
-
-This language can be used to auto generate receipts to process rights and negotiate terms ..  At Kantara we are working to use the standards to auto read the notices/polices to provide a conformance / trust assessment for people so they can see risk independently of the service provider
-
-We discussed these projects and have some links
-
-For more info
-
-Goto Kantara ANCR WG [https://kantarainitiative.org/confluence/pages/viewpage.action?pageId=140804260](https://kantarainitiative.org/confluence/pages/viewpage.action?pageId%3D140804260)
-
-W3C DPV CG - [https://dpvcg.github.io/dpv/](https://dpvcg.github.io/dpv/)
-
-ToiP -  ISWG - Notice & Consent Task force for a Privacy Controller Credential
-
-* [https://wiki.trustoverip.org/pages/resumedraft.action?draftId=72226&draftShareId=8b665919-3b23-4a4d-be90-26947c7ae82c&](https://wiki.trustoverip.org/pages/resumedraft.action?draftId%3D72226%26draftShareId%3D8b665919-3b23-4a4d-be90-26947c7ae82c%26)
-
-ToiP Privacy Risk -
-
-Data Privacy Impact Assessments
-
-- Breaking down -
-- 
-
-Kantara - ANCR -
-
-Showing off the work and topics
-
-- Privacy as Expected - a gateway to online consent
-- 2 Factor Consent (2FC)
-
 * [https://kantarainitiative.org/confluence/collector/pages.action?key=WA&src=sidebar-pages](https://kantarainitiative.org/confluence/collector/pages.action?key%3DWA%26src%3Dsidebar-pages)
 
 W3C Data Privacy Vocabulary Control
@@ -518,10 +430,6 @@ The concept behind a Trust Registry is that a Wallet needs to know which decentr
 * [Open Network for Digital Commerce](https://en.wikipedia.org/wiki/Open_Network_for_Digital_Commerce) is a non-profit established by the Indian government to develop open ecommerce. The goal is to end platform monopolies in ecommerce using an open protocol called [Beckn](https://developers.becknprotocol.io/). I'd never heard of Beckn before. From the reaction on the VRM mailing list, not many there had either.
 
 
-* [BCGov improves sustainability reporting with digital trust technology](https://trustoverip.org/blog/2022/08/29/toip-steering-committee-member-the-government-of-british-columbia-improves-sustainability-reporting-with-digital-trust-technology/) ToIP
-
-Digital credentials can be checked in real time, expediting access to trustworthy information. These trusted, verifiable digital credentials are the core digital trust technologies being piloted and the trust ecosystem in which they operate are defined in ToIP architecture, governance, and related documents.
-
 * [Apple, with support from Google, just announced the Mobile Document Request API](https://github.com/WICG/proposals/issues/67) Web Incubator CG
   > The API is concerning because it lists "Define the native communication between the User Agent and the application holding the mdoc." as out of scope. That is, digital wallet selection is out of scope. Also out of scope is "issuing" and "provisioning". The specification focuses on delivery from a digital wallet to a website.
 * [Premature Standardization & Interoperability](https://www.continuumloop.com/premature-standardization-interoperability/) Continuum Loop
@@ -536,10 +444,6 @@ The goal of IATA One ID is to set industry standards that further streamline the
 Cardano showing interest in our work
 
 
-
-* [Circle and Industry Leaders Have Built the First Decentralized Identity Proof-of-Concept for Crypto Finance using Verite Credentials](https://www.circle.com/en/pressroom/circle-and-industry-leaders-have-built-the-first-decentralized-identity-proof-of-concept-for-crypto-finance-using-verite-credentials) Circle
-
-Circle joined other crypto and blockchain companies in February 2022 to introduce Verite as a open-source framework for decentralized identity credential issuance, custody and verification. Verite is designed to help make it safer, easier and more efficient to do business across the transformative worlds of DeFi and Web3 commerce.
 
 * [TBD Partners with Circle!](https://developer.tbd.website/blog/tbd-circle-partnership/) TBD
 

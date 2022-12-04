@@ -73,9 +73,6 @@ A short note to point folks at Seth Godin’s recent podcast about Project Debt.
 - Why saying NO to those simple things may be the best thing. For some hints on how to do that see [Say No With Grace](https://www.continuumloop.com/say-no-with-grace/).
 
 Give it a listen on [Overcast](https://overcast.fm/%2BL0YUSAwxA) (my fave) or  [Apple Podcasts](https://podcasts.apple.com/us/podcast/project-debt/id1345042626?i%3D1000536252965).
-* [Dangling Domain From SDK Installed in 150+ Apple Apps Putting Kids, Families and Crypto Traders at Risk](https://me2ba.org/dangling-domain-from-sdk-installed-in-150-apple-apps-putting-kids-families-and-crypto-traders-at-risk/)
-
-TLDR: The Me2B Alliance believes apps including the AskingPoint SDK should be safe from malicious redirects or other exploits.
 
 * [Welcome to Dock’s API - Testnet Sandbox](https://blog.dock.io/welcome-to-docks-api-testnet-sandbox/)
 
@@ -266,11 +263,7 @@ This is so exciting to see what Wayne and his team are building.
 * [Spruce Systems introduces DIDKit](https://sprucesystems.medium.com/introducing-didkit-an-identity-toolkit-e0dfa292f53d)
   > DIDKit is a cross-platform toolkit for working with W3C Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs). It allows you to resolve and manage DID documents, and also manage the entire lifecycle of Verifiable Credentials including their issuance, presentation, and verification.
 * [A repository of JSON Schemas for Verifiable Credentials](https://github.com/rsksmart/vc-json-schemas)
-  > The Credential Schema is a document that is used to guarantee the structure, and by * [OpenID Foundation is Hiring a new Executive Director](https://openid.net/2020/11/17/openid-foundation-executive-director-job-description/)
-  > The OpenID Foundation is seeking an Executive Director with the experience, skills, strategic vision, and commitment to advancing the Foundation’s open standards initiatives. This is a unique opportunity to lead a well-respected, member-driven, vendor-neutral, international standardization organization.
-
-extension the semantics, of the set of claims comprising a Verifiable Credential. A shared Credential Schema allows all parties to reference data in a known way
-
+  > The Credential Schema is a document that is used to guarantee the structure, and by 
 * [Spruce Systems Developer Update #4](https://sprucesystems.medium.com/spruce-developer-update-4-cd6472c58fe1)
 
 - The [Tezos DID Method](https://did-tezos-draft.spruceid.com/) specifies how Tezos can be used for DID creation and management, compatible with the issuance, storage, and verification of Verifiable Credentials.
@@ -310,9 +303,6 @@ This weekend I worked on making a [github action](https://github.com/features/ac
 * [@mfosterio · Apr 29](https://twitter.com/mfosterio/status/1520130657468440576) Twitter
 
 I created a DID at [http://GoDiddy.com](https://t.co/QhwQhqUz0k) did:key:z6MkfxFPD3vwny367HZVQoqUnKatH4RTHEitcbEdvxst3nZm#z6MkfxFPD3vwny367HZVQoqUnKatH4RTHEitcbEdvxst3nZm DIDs are important in Self Sovereign Identity. You can learn about DIDs [@bluesky_commons](https://twitter.com/bluesky_commons)
-* [What does it take to develop human-centric solutions for the built environment?](https://mydata.org/2022/05/13/built-for-people/) MyData ([Video](https://www.youtube.com/watch?v%3DVCjW0_NAPmQ)
-
-Building better, more human-centric solutions in smart cities starts by realising that citizens and their digital footprints are not merely aspects to monitor and evaluate. They are active participants in the cities we live and work together and need to be engaged in designing better cities and managing the data about themselves. This is not important only for respecting citizens’ rights, but it is crucial to building sustainable services and humane cities.
 * [Scale Your Decentralized Identity Solution by Upgrading to the Indy DID Method](https://indicio.tech/scale-your-decentralized-identity-solution-by-upgrading-to-the-indy-did-method/) Indicio
 
 Again, the Indy DID Method is not an optional upgrade. It’s a major development that delivers interoperability.

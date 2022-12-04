@@ -12,9 +12,6 @@ It combines a clear, jargon-free introduction to this blockchain-inspired paradi
 
 DIF has launched a massive Decentralized Identity [Knowledgebase](https://identity.foundation/faq/), structured as a long series of frequently-asked questions and answers. This synthesizes a year of educational efforts in the interop WG, blog posts, newsletters, and many other DIF inputs in a format we hope will be helpful as a reference and onboarding document throughout the decentralized identity space.
 
-* [Trust Over IP Foundation Issues its First Tools for Managing Risk in Digital Trust Ecosystems](https://trustoverip.org/blog/2021/09/23/trust-over-ip-foundation-issues-its-first-tools-for-managing-risk-in-digital-trust-ecosystems/)
-
-as we move into decentralized identity management, where individuals manage credentials in their own digital wallets, we need new risk management tools designed for this paradigm
 * [Global Verifiable Credential Adoption](https://trinsic.notion.site/trinsic/Global-Verifiable-Credential-Adoption-78c7e4c5f2a34a228a55d03db54ab399) Trinsic (Notion)
 
 🔥 This is a community resource for tracking the adoption of verifiable credentials around the world. Please have a look around and join 10+ others who have contributed!

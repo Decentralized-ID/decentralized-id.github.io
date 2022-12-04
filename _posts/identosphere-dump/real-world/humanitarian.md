@@ -198,3 +198,8 @@ Could we establish an alternative market economy, one that is structured around 
 * [Disrupting the Gospel of Tech Solutionism to Build Tech Justice](https://ssir.org/articles/entry/disrupting_the_gospel_of_tech_solutionism_to_build_tech_justice%23)
 
 What does it mean to include new voices unless we create a context in which those voices are welcome and heard? To create those conditions, leaders in civil society and the private and public sectors must challenge institutional power and center the discussion on core social justice issues such as racism and structural inequality.
+* [UPCOMING COMMUNITY CALL & NEW RESEARCH: BIOMETRICS IN THE HUMANITARIAN SECTOR](https://www.theengineroom.org/upcoming-community-call-new-research-biometrics-in-the-humanitarian-sector/) the Engine Room
+
+In 2018 we worked with Oxfam to publish a [landmark report](https://www.theengineroom.org/wp-content/uploads/2018/03/Engine-Room-Oxfam-Biometrics-Review.pdf) on the use of biometric data – fingerprints, iris scans, voiceprints and so on – in the humanitarian sector. Our report looked at how these types of data were being collected and used, and raised critical questions around potential risks and harms.
+  > [...]\
+  > If you’re a humanitarian practitioner or just interested in biometrics and responsible data, please join our upcoming Community Call, where we’ll be introducing the project and hearing from practitioners on the theme. [Register for the call](https://us02web.zoom.us/meeting/register/tZEtf-mhrT4iH9JtwHCe-5UG25QeQZnhRigd)

@@ -14,16 +14,7 @@ published: false
 * [OECD Global Blockchain Policy Forum](https://oecd-events.org/blockchainforum/)
   > The Global Blockchain Policy Forum is the leading international event focused on the policy implications of this technology and its applications, led by the OECD’s Blockchain Policy Centre. Following the second edition of the Forum in 2019, which was attended by more than 1 600 people
 
-* [New Zealand](https://digitalidentity.nz/2020/11/18/get-involved-with-dinz-this-november/) is working with Maori leaders on Identity
-  > Next week we’re celebrating our first Aotearoa Digital Identity Hui Taumata.  We’re particularly excited to be bringing you a Kapa Kōrero session with Kaye-Maree Dunne, Jane-Renee Retimana, Belinda Allen and Ben Tairea.  The quartet will be exploring perspectives from Te Ao Māori, and the relevance of Te Tiriti in our collective work on digital identity.
 
-Digital Identity New Zealand is having it’s [Annual Meeting](https://digitalidentity.nz/event/digital-identity-nz-annual-meeting/) Dec 10th
-common bar of acceptance
-
-### Digital Identity New Zealand
-
-* [DINZ held the first Aotearoa Digital Identity Hui Taumata](https://digitalidentity.nz/2020/12/07/aotearoa-digital-identity-hui-taumata-2/)
-  > Bianca Lopes and David Birch shared with us their International perspectives and insights, including a whirlwind Identity world tour hosted by Bianca and her team at Talle.
 
 * [Institutions and Governance in the digital realm of Africa](https://omidyarnetwork.medium.com/institutions-matter-60c819d32e2a)
 
@@ -48,9 +39,6 @@ The Government will only act as a validator, giving the tools and a secure legal
 
 The Government of Catalonia has presented IdentiCAT, the new decentralized and self-sovereign digital identity model, which aims to become the first public digital identity at a European level and it will be self-managed by the citizen with the absolute legal guarantee and validity to operate with the public administration and the private sector.
 
-* [Me2BA provides human-centered recommendations to the California Privacy Protection Agency](https://me2ba.org/me2ba-provides-human-centered-recommendations-to-the-california-privacy-protection-agency/)
-
-The California Privacy Rights Act of 2020 (“CPRA”) established the California Privacy Protection Agency (“CPPA”). The CPPA has full administrative power and authority to implement the CCPA and CPRA, which basically means that the CPPA will be in charge of updating regulations and adopting new regulations, while enforcement of these regulations will be done by both the CPPA and the Attorney General
 * [Hello World. It’s Walt.id](https://walt.id/resources/blog/categories/company/hello-world-its-walt-id)
 
 It is our goal to make SSI simple and accessible: to enable every developer and organisation to build identity and trust into the web and their applications. Ultimately, this will transform every digital interaction into an effortless and worry-free experience.
@@ -94,9 +82,6 @@ This is the fifth and final blog in our series about the UK Government’s propo
 
 We are delighted to announce that our first E-Government pilot program with the Sovereign Yidindji Government has been successfully completed on Jan 7, 2022.
 
-* [Decentralized Identity & Government](https://www.youtube.com/watch?v%3Dl8pHUdjKfes) Evernym
-
-The key differences between federated and decentralized identity systems - An analysis of a few notable government-led projects, such as Aadhaar (India), Verify (UK), eIDAS (EU), and the Ontario Digital Identity Program (Canada) - What decentralization means for portability, scalability, flexibility, and privacy - How governments and commercial organizations can enhance existing federated identity systems with verifiable credentials
 * [SURF: Technical exploration Ledger-based Self Sovereign Identity](https://identity--economy-de.translate.goog/surf-technical-exploration-ledger-based-self-sovereign-identity) Identity Economy DE
 
 As a general concept, the privacy-friendly nature of SSI, end-user control over disclosure of personal information, and the SSI trust model aligned well with the public values ​​typically found in R&D. The platform we used (based Hyperledger Indy) allowed us to successfully run all use cases. The platform delivers on SSI's promises of privacy, scalability, and security.
@@ -240,11 +225,7 @@ The LEI’s legacy is proudly rooted in financial services and regulation. Its f
 * [Recognizing Digital Identity as a National Issue](https://www.pingidentity.com/en/company/blog/posts/2021/digital-identity-national-issue.html)
   > we dove into creating a centralized and holistic approach to protecting and regulating identity in the United States and the specifics of why digital identity and cybersecurity are national issues that the private sectors simply cannot tackle on their own. Here are some of the key takeaways.
 
-* [The Trust Economy in a Future New Zealand](https://digitalidentity.nz/2021/06/16/the-trust-economy-in-a-future-new-zealand/)
 
-My interest was first piqued when I came across three videos on YouTube from [Rachel Botsman](https://www.youtube.com/watch?v%3D-vbPXbm8eTw), [Jordan Perterson](https://www.youtube.com/watch?v%3DpFXdsD-8SKk) and [Philipp Kristian Diekhöner.](https://www.youtube.com/watch?v%3DXNog-xrc_YA)
-
-Trust has always been at the centre of society overall and commerce in particular.  There’s a reason why during the first industrial revolution banks always built the most impressive, secure looking buildings in town – so you trusted them to deposit you money there!
 
 * [A Collaborative Approach to Meeting the Challenges in President Biden’s Executive Order on Improving US Cybersecurity](https://www.oasis-open.org/2021/06/14/a-collaborative-approach-to-meeting-the-challenges-in-president-bidens-executive-order-on-improving-us-cybersecurity/)
 
@@ -257,16 +238,15 @@ One key aspect outlined in Section 4 of the Executive Order (EO) is securing the
 * [RaonSecure builds a blockchain-based digital wallet service with a public institution](https://medium.com/raonsecure/raonsecure-builds-a-blockchain-based-digital-wallet-service-with-a-public-institution-9fe2c8028f6c)
 
 Selection of RaonSecure as the final operator of the ‘blockchain-based digital wallet project’ that is part of the ‘2021 Blockchain Pilot Project’ program promoted by the Korean government
-* [The Trust Economy in a Future New Zealand](https://digitalidentity.nz/2021/06/16/the-trust-economy-in-a-future-new-zealand/)
-  > Now with the 4th industrial (digital) revolution the old vertical, siloed trust models are breaking down and we are moving to a more horizontal, distributed environment.
+
+
+
 * [A Collaborative Approach to Meeting the Challenges in President Biden’s Executive Order on Improving US Cybersecurity](https://www.oasis-open.org/2021/06/14/a-collaborative-approach-to-meeting-the-challenges-in-president-bidens-executive-order-on-improving-us-cybersecurity/)
   > One key aspect outlined in Section 4 of the Executive Order (EO) is securing the software supply chain. At issue here is the reality that the U.S. federal government—like nearly any other organization on the planet that uses computer technology in any form—relies on not just one but numerous types of software to process data and run operational equipment.
 * [South Korea’s brilliant decentralized approach to citizen identity management](https://techwireasia.com/2021/06/koreas-decentralized-identity-approach-to-identity-management/) TechWire Asia
   > Adopting blockchain technology is seen as a necessity by the Korean government and multiple institutions are backing its continuous research and development, including the Ministry of Science and Technology (ICT), The Korea Internet Security Agency (KISA), Defense Acquisition Program Administration (DAPA), National IT Industry Promotion Agency (NIPA), and Korea Post among others.
 * [Apple iPhones Can Soon Hold Your ID. Privacy Experts Are On Edge](https://www.npr.org/2021/06/12/1005624457/apple-iphones-can-soon-hold-your-id-privacy-experts-are-on-edge?mc_cid%3De63363caf1%26mc_eid%3D12e697f479)
   > Elizabeth Renieris, a fellow at Stanford University who studies digital identification systems, said the feature may be easy-to-use and save time. Those conveniences, however, come at a cost: Turning every instance in which we show our ID into a business opportunity.-
-* [The Future of Digital Identity in Canada: Self-Sovereign Identity (SSI) and Verified.Me](https://securekey.com/the-future-of-digital-identity-in-canada-self-sovereign-identity-ssi-and-verified-me/) SecureKey
-  > Verified.Me ensures that only authorized attributes are shared with explicit user consent. The service bridges together multiple participants within a common ecosystem to verify the identities of users securely and privately across the participating organizations with others within the group.
 * [Three Key Takeaways from the FATF’s Latest 12-Month Review on Virtual assets](https://www.elliptic.co/blog/3-key-takeaways-from-the-fatfs-latest-12-month-review-on-virtual-assets) Elliptic
 
 Financial Action Task Force (FATF), the global standard-setter for anti-money laundering and countering the financing of terrorism (AML/CFT), released its second 12-month review on virtual assets (You can read our summary of its first report from July 2020 report here).
@@ -348,11 +328,6 @@ Following the launch of GLEIF’s digital business identity initiative designed 
 In 2021, 22 projects were selected to become part of our incubator programme to help tap into the potential of the EBSI infrastructure. Each project's private and public sector partners was given early access to the pre-production environment of EBSI, and was invited to develop their own pilot project to address a specific business or government use case involving the exchange of verifiable credentials.
 
 With the help with the EBSI team, Early Adopters can identify how to connect their systems, be part of a community and collaborate with other Early Adopters. This will help us improve EBSI's services and ensure it meets the needs of Europe's businesses and public administrations, within and across borders.
-* [Engaging with the Ontario Digital Identity Program.](https://trustoverip.org/blog/2021/10/25/engaging-with-the-ontario-digital-identity-program/) TrustOverIP
-
-- A summary of findings from government-led public consultations on digital identity
-- An overview of Ontario’s Digital ID technology roadmap, and discussions about the technology stacks and infrastructure
-- Ontario’s proposed conceptual model for digital identity, and the principles that inform it
 
 * [Control over data still a long way off according to research into Self-Sovereign Identity](https://ibestuur-nl.translate.goog/podium/controle-over-data-nog-ver-weg-volgens-onderzoek-naar-self-sovereign-identity?_x_tr_sl%3Dauto%26_x_tr_tl%3Den%26_x_tr_hl%3Dnl%26_x_tr_pto%3Dnui) iBestuur
 
@@ -372,17 +347,13 @@ On September 15, 2021, I moderated a panel with representatives from the United 
 * [IDunion: Germany’s Bold SSI Strategy with Hakan Yildiz](https://northernblock.io/idunion-germany-bold-ssi-strategy/)
 
 What use cases should a National Digital Identity program prioritize in collaboration with the private sector? As use cases become verticals of their own, what are then some of the horizontal considerations that need to be applied to enable all of the use cases to function within their relative ecosystems?
-* [Ontario Releases Technology and Standards for Digital Identity](https://news.ontario.ca/en/release/1000787/ontario-releases-technology-and-standards-for-digital-identity) Ontario Newsroom
-
-“Our [Ontario Onwards: Action Plan](https://www.ontario.ca/page/ontario-onwards) first announced our government’s goal to make Ontario the most advanced digital jurisdiction in the world – all in the service of the people of this province,” said Peter Bethlenfalvy, Minister of Finance. “The release of Ontario’s Digital ID later this year will be an exciting step towards transforming and modernizing government services in an increasingly digital world.”
 
 * [Early Adopters Programme | Imagining what EBSI can do for European citizens](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Early%2520Adopters%2520Programme%23become-ebsi-compliant)
 
 An incubator to help Early Adopters and their partners imagine, build and launch their EBSI pilot project(s)
 
-* [A key place for Identity in the Digital Strategy for Aotearoa](https://digitalidentity.nz/2021/10/05/a-key-place-for-identity-in-the-digital-strategy-for-aotearoa/) < - Colin Wallis will now head Digital Identity.nz
 
-Our government is embarking on a journey to create [A Digital Strategy for Aotearoa](https://www.cio.com/article/3628718/national-strategy-digital-twin-and-skills-shortages-on-nz-tech-minister-s-mind.html) that seeks to respond to the social, economic, education and cultural opportunities from digital technology, along with the risks that these technologies can bring.
+
 
 * [Excelsior Pass Plus to be recognized out of state, internationally](https://www.wgrz.com/article/news/local/excelsior-pass-plus-to-be-recognized-out-of-state-internationally/71-434f8c6f-cbac-4d61-a732-ac0e0769efa3) WGRZ
 
@@ -478,9 +449,6 @@ On December 14th, Joao Rodrigues, Head of sector (Digital) Building Blocks at @E
 In 2021 the European Commission [announced the European digital identity wallet](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_2663). This article explains the basic concepts, highlights the significance of this development and provides an overview of the status quo.
 
 
-* [Ontarians are getting digital ID this fall: All you need to know](https://www.itworldcanada.com/article/ontarians-are-getting-digital-id-this-fall-all-you-need-to-know/458633) itWorldCanada
-
-tech standards that the provincial government says it is currently considering include the [Verifiable Credentials Data Model 1.0](https://www.w3.org/TR/vc-data-model/) for data modeling, [Decentralized Identifiers (DIDs) v1.0](https://www.w3.org/TR/did-core/) for key management, [JSON-LD 1.1](https://www.w3.org/TR/json-ld11/) for data formatting, [OpenID Connect](https://openid.net/connect/) as identity standard, [BBS+ Signatures 2020](https://w3c-ccg.github.io/ldp-bbs2020/) and [Ed25519 Signature 2020](https://w3c-ccg.github.io/lds-ed25519-2020/) for signature format, [Self-Issued OpenID Provider v2](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html) and more for interoperability.
 
 ## Organization
 
@@ -505,22 +473,6 @@ The concept of digital identification is already well established, and using a s
 
 We at Validated ID have been betting on EBSI since the beginning. We started working to become conformant wallet providers since the very first version of [Wallet Conformance Tests (WCT)](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/EBSI%2Bwallets) was published. The process of preparing our solution to become conformant has allowed us to appreciate how remarkable EBSI's work has been.
 
-
-## New Zealand
-
-* [INCLUSIVE AND ETHICAL USES OF DIGITAL IDENTITY](https://digitalidentity.nz/inclusive-and-ethical-uses-of-digital-identity/) DINZ
-
-In April 2022, DINZ launched a broad-scope members’ [Working Group](https://digitalidentity.nz/inclusive-and-ethical-uses-of-digital-identity/) in response to the increasing challenges for some groups in society to participate fully in [Aotearoa’s digital transformation](https://www.digital.govt.nz/digital-government/strategy/towards-a-digital-strategy-for-aotearoa/developing-a-digital-strategy-for-aotearoa/), with the aim of providing baseline supporting guidance to inform policy and service design.
-
-* [DINZ’s annual Consumer Research](https://digitalidentity.nz/wp-content/uploads/sites/25/2020/07/DINZ-Scrolling-Infographic-July-2020-FINAL.pdf) Digital Identity NZ
-
-Scrolling Infographic! It looks fun and has some good info in it.
-
-‘Do the best you can until you know better. Then when you know better, do better.’ These wise words from Maya Angelou encapsulate the key findings from our 2020 trust and identity research.
-
-* [Summary of Public Engagement of the Digital Strategy for Aotearoa discussion document](https://www.digital.govt.nz/dmsdocument/229~towards-a-digital-strategy-for-aotearoa-summary-of-public-engagement/html) New Zealand Govt.
-
-The discussion document stated that a Digital Strategy for Aotearoa (the Strategy) would need to respond to the social, economic, education and cultural opportunities from digital technology, along with the risks that these technologies could bring.
 
 * [Principal Authority – new article on Wyoming law defining Digital Identity](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0083.html) Christopher Allen (Thursday, 16 September)
 
@@ -610,10 +562,6 @@ The preliminary [draft of the federal law](https://www.bj.admin.ch/dam/bj/de/dat
 - Data security
 - Data economy
 - Decentralized data storage
-
-* [Leading the digital trust conversation](https://digitalidentity.nz/2022/07/15/leading-the-digital-trust-conversation/) DI NewZealand
-
-the Digital Identity Services Trust Framework Act has the potential to provide a game-changing regulatory foundation for the identification and authentication components of services delivered through the digital channel.  Those services that choose to be independently audited for compliance against the Framework’s security and privacy oriented rules and standards to become accredited, would then be able to differentiate those digital service brands through displaying an accreditation mark.
 
 * [Lacchain ID Framework](https://publications.iadb.org/publications/english/document/LACChain-ID-Framework-A-Set-of-Recommendations-for-Blockchain-Based-Interoperable-Privacy-Preserving-Regulatory-Compliant-Secure-and-Standardized-Digital-Identifiers-Credentials-and-Wallets.pdf)
 

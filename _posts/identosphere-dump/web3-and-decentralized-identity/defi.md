@@ -27,3 +27,17 @@ Decentralized Identity & DeFi are Disconnected ← trueDecentralized Identity is
 - Health Data Passes
 - Employment Information
 - Credit, Income, KYC
+* [Decentralized Finance & Self-sovereign Identity: A tale of decentralization, a new paradigm of trust](https://gataca.io/insights/decentralized-finance-self-sovereign-identity-a-tale-of-decentralization-a-new-paradigm-of-trust)
+* [Circle and Industry Leaders Have Built the First Decentralized Identity Proof-of-Concept for Crypto Finance using Verite Credentials](https://www.circle.com/en/pressroom/circle-and-industry-leaders-have-built-the-first-decentralized-identity-proof-of-concept-for-crypto-finance-using-verite-credentials) Circle
+  > Circle joined other crypto and blockchain companies in February 2022 to introduce Verite as a open-source framework for decentralized identity credential issuance, custody and verification. Verite is designed to help make it safer, easier and more efficient to do business across the transformative worlds of DeFi and Web3 commerce.
+* [Roadmap to Institutional Adoption of DeFi](https://www.youtube.com/watch?v%3DbkOQHcVVGoE) RSK - Coinfirm
+  > The most recent FATF updated draft guidance from March 2021 introduces significant changes to the legal definition of DeFi platforms, expanding the types of entities that fall under FATF's umbrella. In this guidance, FATF defines most operators of decentralized finance platforms as “Virtual Asset Service Providers” that have AML/CFT obligations.
+* [DeFi regulation must not kill the values behind decentralization](https://cointelegraph.com/news/defi-regulation-must-not-kill-the-values-behind-decentralization) Cointelegraph
+  > Financial Action Task Force (FATF) recently [proposed](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/public-consultation-guidance-vasp.html) guidelines making it clear that “The owner/operator(s) of the DApp likely fall under the definition of a VASP [virtual asset service provider] [...] even if other parties play a role in the service or portions of the process are automated.
+* [InsideTheSimulation.eth @InsideTheSim Jul 28](https://twitter.com/InsideTheSim/status/1552636154423410689)
+
+Proposal: it’s not Web3 — it’s DeWeb (a la DeFi) as we undo all the mistakes around centralized ownership of the web 2 era. Opinions?
+
+* [[…](https://twitter.com/InsideTheSim/status/1552636357373214722)] Bonus points — “de-web” sounds like “untangling a clusterfuck” which is exactly what it is.
+
+* [[...](https://twitter.com/InsideTheSim/status/1552637214391156739)] DeWeb is: - Self-sovereign identity with portable accounts and easy sign-on (such as sign-in with Ethereum). - Custody of your own data and the ability to revoke access to it by 3rd parties. - Permission-less commerce rails. - Permission-less domains (ENS) - more?

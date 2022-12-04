@@ -193,3 +193,54 @@ Last month, UNICEF published a [Manifesto on Good Data Governance for Children]
 * [MyData Global Joins “Team Data Spaces” to Support the EU’s Plan to Create “Data Spaces”](https://mydata.org/2021/06/23/mydata-global-joins-team-data-spaces-to-support-the-eus-plan-to-create-data-spaces/)
 
 MyData Global announces to have joined forces with ‘Team Data Spaces’ – a coalition of leading European players with experience in standardising, creating and operationalising data sharing – to facilitate the development of European data spaces which are at the heart of the EU’s data strategy.
+* [2022: LOOKING AT THE YEAR AHEAD](https://mydata.org/2022/01/11/2022-looking-at-the-year-ahead/) MyData
+  > As MyData Global saw in our [reflection on 2021](https://mydata.org/2021/12/17/2021-in-review-the-events-and-activities-shaping-the-personal-data-landscape/), the transformation towards a human-centric personal data economy is underway. This transformation is driven by two forces: first, the dominant unethical approaches to personal data are starting to show how unsustainable they really are.
+* [2021 in review: The events and activities shaping the personal data Landscape](https://mydata.org/2021/12/17/2021-in-review-the-events-and-activities-shaping-the-personal-data-landscape/) MyData
+
+2021 has been a productive year for MyData Global, and a significant one for the wider personal data world. The [Facebook Files](https://twitter.com/mydataorg/status/1446435772857524224?s%3D20) helped raise the issue of personal data and ethics to the general public, and the EU’s Data Governance Act has helped put into practice many of the changes [MyData Global has been advocating for](https://mydata.org/2021/10/28/mydata-and-the-european-unions-latest-data-developments/).
+
+
+* [Rulebook overcomes the lack of trust in data sharing](https://www.mydata.org/2022/08/30/rulebook-overcomes-the-lack-of-trust-in-data-sharing/) MyData
+
+The data sharing market is taking off and there is enormous uncaptured value. Many organisations are looking for new trustworthy ways to create value from data collaboration. Individuals can also benefit tremendously if data can be more readily shared across service providers.
+
+* [Training: Building smart cities services 2.0](https://oldwww.mydata.org/h3c/) MyData
+
+You will learn about business models, compliance with complex regulatory regimes, standards, and governance mechanisms. You will be connected with EU funding opportunities, and you will learn how to build successful partnerships with companies and cities
+
+* [What Meta’s Profit Drop Might Say About Consumer Sentiment on Data Privacy](https://anonyome.com/2022/09/what-metas-profit-drop-might-say-about-consumer-sentiment-on-data-privacy/) Anyonyome
+
+
+* [Skills for creative futures? MyData starts the Cyanotypes project.](https://www.mydata.org/2022/09/21/mydata-starts-cyanotypes-project/) MyData
+
+* [What to make of data sovereignty](https://www.mydata.org/2022/09/26/data-sovereignty/) MyData
+
+Data sovereignty has gained much recent attention, whilst interpreted in varied ways. MyData Global describes in this blog post what to make of data sovereignty when taking a human-centric approach to personal data.
+
+* [Does “data monetisation” lead towards more fairness, sustainability, and prosperity for all?](https://www.mydata.org/2022/07/13/data-monetisation/) MyData
+  > As this is a complex and often polarising issue, it must be discussed with patience, diligence, and determination. MyData Global has not yet reached a position on the topic. In this piece, we share our considerations and questions, and hope to inspire you to join this important deliberation.
+* [Catalysing transformative change: new project to produce innovative services in smart cities](https://mydata.org/2021/09/02/catalysing-transformative-change-new-project-to-produce-innovative-services-in-smart-cities/) MyData
+  > “Cities around the world are racing ahead to be smarter by taking ethical approaches to personal data”, explains Teemu Ropponen, General Manager of MyData Global “MyData Global is a centre of excellence for personal data management expertise, with the H3C project we are bringing together city administrations, companies and individuals to find solutions that put people in control of their personal data”
+* [MyData Global adopts an updated logo and visual identity](https://www.mydata.org/2022/05/17/new-logo/)
+* [VIIVI LÄHTEENOJA APPOINTED AS MYDATA GLOBAL CHAIR](https://mydata.org/2022/01/07/viivi-lahteenoja-appointed-as-mydata-global-chair/)
+  > Previous Chair,  Antti “Jogi” Poikola commented: I am delighted to be succeeded by Viivi Lähteenoja as MyData Global’s Chair. […] Viivi’s experience both in and out of the MyData community make her excellently qualified to open up new dialogues on how personal data can empower people and communities.
+* [MYDATA GLOBAL IN MOTION – KEY DEVELOPMENTS IN 2022](https://mydata.org/2022/03/09/mydata-developments-in-2022/)
+  > Collective sensemaking and channels for impact, Strengthening the MyData brand, Renovating the infrastructure of MyData Global, and Changes in the staff and leadership team.
+* [EXEMPLARY PERSONAL DATA BUSINESSES: 33 ORGANISATIONS RECEIVE THE MYDATA OPERATOR 2022 AWARD](https://mydata.org/2022/03/16/mydata-operator-2022-awards/)
+  > personal data companies that have shown leadership by empowering individuals to control their personal data. As promoted by the European Commission, [putting people in the centre of digital transformations is needed for a safe and sustainable digital future](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6428). Further, [boosting data sharing and ensuring its trustworthiness](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6428) is critical to reaping the benefits of our digitised lives.
+* [MyData Operator Status awarded to Mydex](https://medium.com/mydex/mydata-operator-status-awarded-to-mydex-2916d1c48c3d)
+  > As promoted by the European Commission, [putting people in the centre of digital transformations is needed for a safe and sustainable digital future](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6428). Further, [boosting data sharing and ensuring its trustworthiness](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6428) is critical to reaping the benefits of our digitised lives. Organisations awarded with the MyData Operator Award are vital enablers for such a vision, providing value for companies and individuals alike.
+Centre Consortium presents Verite with Kim Hamilton
+- [Avast demonstrates commitment to digital freedom with MyData membership](https://press.avast.com/avast-demonstrates-commitment-to-digital-freedom-with-mydata-membership)
+* [PERSONAL DATA HOLDS THE KEY FOR SUSTAINABLE CITY LIFE](https://mydata.org/2021/09/13/personal-data-holds-the-key-for-sustainable-city-life-but-rewards-must-be-balanced-with-risks-to-digital-rights/) MyData
+* [The Future of Work & Skills – a human-centric skills data space](https://mydata.org/skillsdata) MyData
+* [Whitepaper](https://drive.google.com/file/d/1QPbc1mwVUj7Tttb4MA9VMRT-bJgjqwqI/view)
+> In order to improve the competitiveness of EU’s workforce, the strategy identifies a need for high-quality data for qualifications, learning opportunities, jobs and skill sets of people.
+* [The Future of Identity. A collection of interconnected research](https://borgbraincrypto.medium.com/the-future-of-identity-eee42109efd2)
+* [Scaling the personal data economy, MyData 2020](https://www.youtube.com/watch?v=xNTuuOAZ1Uc)
+  > using Futures Thinking to envision how different business strategies, policies and actions implemented in the personal data ecosystem can pave the path towards the Desirable Future.
+* [MYDATA, MY CLIMATE, AND MY CARBON](https://mydata.org/2021/11/03/mydata-my-climate-and-my-carbon/)
+  > With COP26 taking place this week, governments, companies, and individuals are discussing how we can all reduce our carbon emissions. The task is monumental, and technology has an important role to play – both in reducing its own carbon footprint and in helping the wider world track and reduce their emissions.
+* [Children’s right for privacy also in the digital world is guaranteed under the Convention on the Rights of the Child](https://www.mydata.org/2022/06/20/press-release-childrens-right-for-privacy-also-in-the-digital-world-is-guaranteed-under-the-convention-on-the-rights-of-the-child-and-this-includes-photos/) MyData
+
+Last week, the Prime Minister of Finland, Sanna Marin, stated that she will not give consent to the media to take and publish photos of her child. This led to wide discussion and international headlines – even though the right to privacy is guaranteed under the Convention on the Rights of the Child.

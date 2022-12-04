@@ -958,3 +958,12 @@ Besides marking an important technical milestone, the migration also represents 
 * [What’s new in sideos 2.0](https://www.sideos.io/media-hub/simple-data-management-suite-trustless-interactions) SideOS
 
 sideos is a simple data ecosystem backed by a new web standard: self-sovereign identity, or SSI.
+
+## Magic Labs
+
+* [Building a low-code, opinionated approach to plug & play login](https://medium.com/magiclabs/building-a-low-code-opinionated-approach-to-plug-and-play-login-21bb30dca9a4) Magic Labs
+
+Magic Login Form represents a new onboarding experience for end-users, so we wanted to revamp our own onboarding experience for developers to match. Learning about auth can quickly derail any developer’s good day. Striking the balance between good UX and good security can just boggle the mind.
+
+
+

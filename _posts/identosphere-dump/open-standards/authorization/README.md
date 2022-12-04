@@ -1,5 +1,14 @@
 # Authorization Protocols
 
+* [VC HTTP Authorization Conversation](https://lists.w3.org/Archives/Public/public-credentials/2021Jun/0009.html) Adrian Gropper June 2
+
+The diversity of our community is a plus. To begin a conversation on VC access controls, I suggest this short intro to the differences between OAuth 2.0 and GNAP:
+
+* [https://www.ietf.org/archive/id/draft-ietf-gnap-core-protocol-05.html#name-compared-to-oauth-20](https://www.ietf.org/archive/id/draft-ietf-gnap-core-protocol-05.html%23name-compared-to-oauth-20)
+
+My goal is to arrive at a shared understanding of what would be minimum needed to support both OAuth2 and GNAP for securing access to a VC.
+
+
 ## oCap
 - [Hygiene for a computing pandemic: separation of VCs and ocaps/zcaps](https://lists.w3.org/Archives/Public/public-credentials/2020Dec/0028.html)
     - You *could* implement zcap-ld on top of VCs…

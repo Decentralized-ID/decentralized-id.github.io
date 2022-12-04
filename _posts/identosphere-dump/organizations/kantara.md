@@ -2,6 +2,16 @@
 
 
 
+
+* [OPN-R (Open Public Notice - Rights) - starting Notice & Control Language - for people to use rights and govern identity (govinterop) with @ Kantara, ToiP and W3C Data Privacy Vocabulary using international vocab - from ISO/IEC 29100 Legal Framework Vocabulary](https://iiw.idcommons.net/22F/_OPN-R_-_Open_Public_Notice_-_Rights_-_starting_Notice_and_Control_Language) by Mark Lizar
+
+The language consists of
+
+- International standard vocabulary for security and privacy frameworks provides roles and actors to govern the transfer of personal data.
+- The active state notice and consent receipt - is a format for generating consent records from notice/policy - which provides people with information to use rights. .
+- W3C Data Privacy Control Vocabulary and ISO/IEC 29100, Legal Framework Vocabulary
+
+This language can be used to auto generate receipts to process rights and negotiate terms ..  At Kantara we are working to use the standards to auto read the notices/polices to provide a conformance / trust assessment for people so they can see risk independently of the service provider
 * [EIC Speaker Spotlight: Kay Chopard on Driving Digital Trust](https://www.kuppingercole.com/blog/beskers/eic-speaker-spotlight-kay-chopard-driving-digital-trust)
   The mission of Kantara is to grow and fulfill the market for trustworthy use of identity and personal data. And that's a very broad mission. But to do that, some of the things you see in our mission are words like trust, grow, fulfilling what the market needs. 
 * [Exostar Receives Kantara Initiative’s Identity Assurance Trust Framework Certification](https://www.exostar.com/press/exostar-receives-kantara-initiatives-identity-assurance-trust-framework-certification-achieves-healthcare-and-life-science-community-milestones/) - Latest Recognition Further Demonstrates Company Protects Customers’ Identity and Personal Data by Complying with NIST 800-63 Standard

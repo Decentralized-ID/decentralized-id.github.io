@@ -2,6 +2,51 @@
 published: false
 ---
 
+* [Fake CDC vax cards now being sold to anti-vaxxers](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0077.html)  Moses Ma (Thursday, 8 April)
+
+Just wanted to share this with those working on C19 vax certs:
+
+From: [https://www.infosecurity-magazine.com/news/scammers-sell-fake-covid19/](https://www.infosecurity-magazine.com/news/scammers-sell-fake-covid19/)
+
+The security firm DomainTools claims to have seen authentic-looking CDC cards selling for as little as $20 each on domains like covid-19vaccinationcards[.]com, which features a Let’s Encrypt TLS certificate. “Though selling a printed card is not necessarily illegal, the pricing, logo and cardstock of these ‘vaccination records’ demonstrate a level of intent to pass as legitimate cards from the CDC,” explained DomainTools senior security researcher, Chad Anderson.
+
+and
+
+From: [https://www.tomsguide.com/news/fake-covid-vaccination-cards](https://www.tomsguide.com/news/fake-covid-vaccination-cards)
+
+Israeli security firm Check Point reports that fake American and Russian vaccination certificates are being sold online for between $100 and $200. Fake COVID-19 negative test results cost as little as $25, while (likely fake) COVID-19 vaccine sells for about $500 per vial.
+
+* [Vaccination Certificate Test Suite](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0081.html)  Manu Sporny (Thursday, 8 April)
+
+As some of you know, a few of the members in the W3C Credentials Community Group have been working on a Vaccination Certificate Vocabulary[1]. The World Health Organization has recently published a Release Candidate data model dictionary for Smart Vaccination Cards[2]. The CCG has also been working on a Verifiable Credentials HTTP API[3].
+
+The WHO guidance covers 28 types of vaccines that we (as a global society)
+
+depend on, including Measles, Smallpox, Polio, Yellow Fever, COVID-19, and
+
+others. We (Digital Bazaar) thought it might be interesting to see if we could
+
+create an interoperability test suite for the WHO Smart Vaccination Card work using the tools listed above.
+
+...
+
+- A test suite containing 1,624 tests covering the
+
+28 vaccine types in the WHO vocabulary.
+
+- 7 independent vendor implementations issuing and
+
+verifying each others WHO Smart Vaccination Cards.
+
+- 1,623 passing tests demonstrating true
+
+interoperability!
+
+You can view the latest Vaccination Certificate test suite report here:
+
+* [https://w3id.org/vaccination/interop-reports](https://w3id.org/vaccination/interop-reports)
+
+
 * [The value of verifiable credentials in the evolving digital identity landscape](https://verified.me/blog/the-value-of-verifiable-credentials-in-the-evolving-digital-identity-landscape/) Verified Me
   > In my recent podcast with [Brad Carr](https://www.iif.com/Staff-and-Authors/uid/46/BradCarr) of the [Institute of International Finance](https://www.iif.com/Publications/ID/4304/FRT-Episode-87-Digital-Identity-with-SecureKey-CEO-Greg-Wolfond), we discussed how digital identity and verified credentials can support a digital-first world, something that’s extremely relevant amid the current pandemic.
 * [Mapping FHIR JSON resource to W3C Vaccination vocabulary : A semantic data pipeline](https://iiw.idcommons.net/index.php?title%3D12H/_Mapping_FHIR_JSON_resource_to_W3C_Vaccination_vocabulary_:_A_semantic_data_pipeline%26action%3Dedit%26redlink%3D1) by John Walker
@@ -308,9 +353,6 @@ What I observed is NOT a user-friendly experience for either the customer or the
 
 The advantage of a paper and ID card presentation ritual is that it is difficult to hack. So if we are going to improve the presentation with a single credential as above, privacy and security MUST be protected.
 
-* [Pramod Varma's message as India touches the 1 BN COVID Vaccination Certificates Milestone](https://www.youtube.com/watch?v%3DPFo7YlxUaJk) eGovernments Foundation
-
-On the occasion of the [#100CroreVaccinationCertificates](https://twitter.com/hashtag/100CroreVaccinationCertificates) milestone, [@pramodkvarma](https://twitter.com/pramodkvarma) CTO, [@eksteporg](https://twitter.com/eksteporg) shares the journey of #DigitalPublicGood - DIVOC (Digital Infrastructure for Vaccination Open Credentialing) for vaccination credentialing
 * [COVID & Travel Resources for Phocuswright](https://identitywoman.net/covid-travel-resources-for-phocuswright/) IdentityWoman.net
 
 As more and more governments adopt [major COVID certificate standards](https://www.lfph.io/2021/10/12/global-covid-certificate-landscape/) to reopen borders, the travel industry is working hard to catch up on their technology to meet the evolving travel requirements. However, there is still no shortage of complaints from travelers about their cumbersome international travel experiences.

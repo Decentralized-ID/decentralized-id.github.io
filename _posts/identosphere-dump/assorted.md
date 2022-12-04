@@ -19,18 +19,11 @@ RIF Identity
 
 A short timeline highlights just how quickly SSI has developed. It underlines the path and development of the evolution of Internet Identity.
 
-* [2022: LOOKING AT THE YEAR AHEAD](https://mydata.org/2022/01/11/2022-looking-at-the-year-ahead/) MyData
-
-As MyData Global saw in our [reflection on 2021](https://mydata.org/2021/12/17/2021-in-review-the-events-and-activities-shaping-the-personal-data-landscape/), the transformation towards a human-centric personal data economy is underway. This transformation is driven by two forces: first, the dominant unethical approaches to personal data are starting to show how unsustainable they really are.
 * [WAO wraps up for the holidays](https://blog.weareopen.coop/wao-wraps-up-for-the-holidays-c85bff4c910c) We Are Open Co-op
 
 Great Work on Badges!
 
 In May, we did some [workshopping with the crypto platform NEAR](https://weareopen.coop/near/), which was the first time we accepted cryptocurrency as part of our fee. In May, We Are Open Cooperative also [turned 5 years old](https://blog.weareopen.coop/wao-turns-five-30747f4df0f9). We celebrated this momentous occasion by launching our [new website](https://weareopen.coop/) and adding more stuff to our [free learning resource hub](https://learnwith.weareopen.coop/).
-
-* [2021 in review: The events and activities shaping the personal data Landscape](https://mydata.org/2021/12/17/2021-in-review-the-events-and-activities-shaping-the-personal-data-landscape/) MyData
-
-2021 has been a productive year for MyData Global, and a significant one for the wider personal data world. The [Facebook Files](https://twitter.com/mydataorg/status/1446435772857524224?s%3D20) helped raise the issue of personal data and ethics to the general public, and the EU’s Data Governance Act has helped put into practice many of the changes [MyData Global has been advocating for](https://mydata.org/2021/10/28/mydata-and-the-european-unions-latest-data-developments/).
 
 * [An Outlook on 2022](https://jolocom.io/blog/an-outlook-on-2022/) JoloCom
 
@@ -121,11 +114,6 @@ Kim joined us again in 2020, after he retired from Microsoft and gave a differen
 
 Kim attended nearly all the European Identity Conferences (EIC), from the very first one back in 2007, to 2019 and inspired us with his visionary, content-rich yet entertaining keynote talks and panel sessions. Have a look at his 2019 talk about privacy in the platform economy (“[Turning the Web Right Side Up](https://www.kuppingercole.com/watch/eic2019_14_09_cameron)”, his visionary “[Identity Services 2020](https://www.kuppingercole.com/watch/eic15_keynote_cameron)” talk at EIC 2015, where he also reflected on 15 years
 
-* [In Praise of Kim Cameron](https://openid.net/2021/12/04/in-praise-of-kim-cameron/) OpenID Foundation
-
-Not only did Kim “inject his 7 laws of identity into Microsoft’s DNA”, but did so throughout today’s growing global digital identity ecosystem.
-
-Kim was crafty. He not only injected his thinking into Microsoft; as a champion of the Identity Standards Community, Kim embedded his thinking into the standards that inform many of the identity systems operating at scale today.
 
 * [There are no words, really, but I will try](https://www.linkedin.com/feed/update/urn:li:activity:6872285572124221440/) Jamie Lewis
 

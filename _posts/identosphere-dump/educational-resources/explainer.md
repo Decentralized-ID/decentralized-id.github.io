@@ -511,8 +511,6 @@ Web 3 has brought a new way to engage with websites, and dare I say, it is almos
 
 We are freeing ourselves from the management of “data hash” which leads to a centralization or complexification of verification procedures. This makes our solution new compared to traditional blockchain applications on the market.
 
-* [TrustOverIP Model](https://trustoverip.org/wp-content/toip-model/)
-
 * [What are Verifiable Credentials? Why do they matter?](https://flur.ee/2022/01/10/what-are-verifiable-credentials-why-do-they-matter/)
 
 Authority Does Not Require Centralized Power
@@ -526,9 +524,6 @@ Verifiable credentials and verifiable credential management technology offer a d
 
 As S. Shakthi and I noted in a recent [research paper](https://journals.openedition.org/samaj/6279), digital identity systems are widely seen as datafiers by virtue of their core property of reducing the person to machine-readable data. A datafier is a system that performs the crucial operation of converting the physical into digital. A different, contrasting view is also emerging in research: digital identity systems are increasingly seen as platforms, i.e. “technological building blocks” on which different types of complements can be constructed.
 
-* [Identity in the 21st Century India: Where are we?](https://www.crubn.com/_files/ugd/3e90e2_82e2de11e1194f1c93ed68c411d78564.pdf?index%3Dtrue) Crubn
-
-This whitepaper is an attempt to understand identity from a governance perspective and the various methods of identification used. In particular, it'll analyse India's digital identity infrastructure – its motivations, the benefits it has yielded, and the dangers that might adversely impact it.
 
 * [Self-Sovereign Identity: The Foundation of the Digital Wallet](https://www.nevis.net/en/blog/how-does-self-sovereign-identity-ssi-work) Nevis
 
@@ -553,10 +548,6 @@ FANTASTIC NEW TALK!!!!
 * [Self-sovereign identity - Wikipedia](https://en.m.wikipedia.org/wiki/Self-sovereign_identity)
 
 WE have a wikipedia article!
-
-* [RADIO WITH PICTURES](https://trustoverip.org/blog/2022/03/02/radio-with-pictures/) Trust over IP
-
-Exploring why human trust should be an essential design element in the next generation of digital solutions
 
 * [Take Control of Your Data with Self-Sovereign Identity](https://rainfall.one/news/61dd6a20f4f3e8002260b268) Rainfall One
 
@@ -1280,6 +1271,3 @@ Technically, Verifiable Claims are claims made about a “subject” (identified
 
 On this episode of “Money Reimagined,” hosts [Michael Casey](https://twitter.com/mikejcasey) and [Sheila Warren](https://twitter.com/sheila_warren) are together again but this time, at Converge22 by Circle. They discuss the challenges of identity and verification in the U.S. and in other countries with [Daniel Buchner](https://www.linkedin.com/in/dbuchner/), head of decentralized identity at [Block](https://block.xyz/); and [Chi Nnadi](https://www.linkedin.com/in/chinnadi/?originalSubdomain%3Dke), the co-founder and CEO at [Mara](https://mara.xyz/).
 
-* [India-stack and self-sovereign identity | EUBS 2022](https://www.youtube.com/watch?v%3Dof-iuDZpWuA)
-
-a panel discussion with Akhilesh Srivastava (IT Advisor at Government of Uttarakhand), Mallikarjun Karra (Director of Research And Partnerships at Timechain Labs), Prof. Sandeep Shukla (Computer Science & Engineering at Indian Institute of Technology Kanpur), Swapnil Pawar (Founder of Newrl) and Ishan Roy (Head of Blockchain at Tamil Nadu E-Governance Agency)

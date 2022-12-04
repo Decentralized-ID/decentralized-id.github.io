@@ -13,7 +13,7 @@ published: false
 - [Data Trusts Initiative](https://datatrusts.uk/) - interdisciplinary programme that pursues research at the interface of technology, policy and the law to better understand the role data trusts can play
 - [Data Futures](https://foundation.mozilla.org/en/initiatives/data-futures/) - Research to shift power through data governance - Mozilla Foundation
 - [The Data Economy Lab](https://thedataeconomylab.com/) - unlock the societal value of data while safeguarding the rights of individuals and communities.
-- [Practising data stewardship in India, early questions](https://www.adalovelaceinstitute.org/blog/practising-data-stewardship-in-india/) - could data stewardship help to rebalance power towards individuals and communities? ALI
+
 - [Doing good with data: what does good look like when it comes to data stewardship?](https://www.adalovelaceinstitute.org/blog/what-does-good-look-like-data-stewardship/) ALI
 - [@CjColclough](https://twitter.com/CjColclough) shares: [Towards Workers' Data Collectives](https://www.thewhynotlab.com/post/towards-worker-data-collectives) (The Why Not Lab)Written for [Just Net Coalition](https://justnetcoalition.org/) and [IT for Change](https://itforchange.net/) Digital New Deal [essay series](https://itforchange.net/digital-new-deal/)
 * [Local-first software: You own your data, in spite of the cloud](https://www.inkandswitch.com/local-first.html)
@@ -78,43 +78,6 @@ I re-read [Zhamak Dehghani](https://twitter.com/zhamakd) ’s [original](http
 * [What Does It Actually Mean When a Company Says, “We Do Not Sell Your Data?”](https://john.philpin.com/2021/09/03/what-does-it.html) John Philipin
 
 Probably because the alternatives produce even more income.
-
-* [Catalysing transformative change: new project to produce innovative services in smart cities](https://mydata.org/2021/09/02/catalysing-transformative-change-new-project-to-produce-innovative-services-in-smart-cities/) MyData
-
-“Cities around the world are racing ahead to be smarter by taking ethical approaches to personal data”, explains Teemu Ropponen, General Manager of MyData Global “MyData Global is a centre of excellence for personal data management expertise, with the H3C project we are bringing together city administrations, companies and individuals to find solutions that put people in control of their personal data”
-
-* [Introducing the Me2B 101 Flash Guide Series](https://me2ba.org/introducing-the-me2b-101-flash-guide-series/) Me2B Alliance
-
-When we started drafting the Respectful Tech Specification a couple of years ago, it was immediately obvious that we didn’t have an adequate vocabulary to describe personal experiences in the digital world—never mind measure them.
-
-* [Flash Guide #5: Online Me2B Deals: Currencies in the Digital World and the Price of “Free”](https://me2ba.org/flash-guide-5-online-me2b-deals-currencies-in-the-digital-world-and-the-price-of-free/)
-
-The Me2B Deals or transactions that occur online typically involve three types of “currency”: money, attention or data. [...] What sets online data monetization apart from the other two currencies is that often, customers have no idea what they are paying with – or that they are paying at all.
-
-* [Flash Guide #6: Online Me2B Relationships](https://me2ba.org/flash-guide-6-online-me2b-relationships/)
-
-our relationship with connected technology includes a set of “hidden affiliates” (third party integrations) that most of us are not aware of. This guide describes how these relationships – conscious or not – emerge as we interact with digital technologies.
-
-* [Flash Guide #7: The Me2B Lifecycle: Overlaying Social Norms on the Digital World](https://me2ba.org/flash-guide-7-the-me2b-lifecycle-overlaying-social-norms-on-the-digital-world/)
-
-This real life social context is currently missing in both existing privacy regulation and in industry standards models for ethical technology [...] Our model helps course-correct connected technology by pinpointing how the digital Me2B experience deviates from important social behavioral norms.
-
-* [Flash Guide #8: Digital Me2B Commitments & Deals](https://me2ba.org/flash-guide-8-digital-me2b-commitments-deals/)
-
-This guide provides examples of common Commitments and Deals, and shows how they map to the stages of a Me2B Lifecycle. It also reflects social norms for being anonymous, recognized, or known at each stage.
-
-* [Flash Guide #9: The 10 Attributes of Respectful Me2B Commitments](https://me2ba.org/flash-guide-9-the-10-attributes-of-respectful-me2b-commitments/)
-
-The Me2B Respectful Tech Specification measures technology behavior against 10 attributes that respectful Me2B Commitments should possess. These attributes represent how technology should treat us and our data at every step along the Me2B Relationship Lifecycle.
-
-* [Flash Guide #10: Data Flow & the Invisible Parallel Dataverse](https://me2ba.org/flash-guide-10-data-flow-the-invisible-parallel-dataverse/)
-
-Our personal data flows do not start light and increase with time and trust. Instead, a firehose of personal information is released – and shared with a host of unseen third parties – as soon as we open an app or website. Me2BA’s Respectful Tech Specification V.1 is largely focused on testing for these invisible parallel dataverse data flows.
-
-* [12 ways a human-centric approach to data can improve the world](https://me2ba.org/world-economic-forum-12-ways-a-human-centric-approach-to-data-can-improve-the-world/) Me2B Alliance
-
-Twenty-five quintillion bytes of data are generated every day. That’s 25,000,000,000,000,000,000. In this era of data abundance, it’s easy to think of these bytes as a panacea – informing policies and spurring activities to address the pandemic, climate change or gender inequality – but without the right systems in place, we cannot realize the full potential of data to advance a sustainable, equit
-* [PERSONAL DATA HOLDS THE KEY FOR SUSTAINABLE CITY LIFE](https://mydata.org/2021/09/13/personal-data-holds-the-key-for-sustainable-city-life-but-rewards-must-be-balanced-with-risks-to-digital-rights/) MyData
 
 * [Japan-based Dixon Siu to join the Board of aNewGovernance AISBL](https://www.anewgovernance.org/2021/09/15/japan-based-dixon-siu-to-join-the-board-of-anewgovernance-aisbl/)
 
@@ -295,20 +258,3 @@ TreeLDR is an open-source developer tool with a DSL that makes managing data sch
 
 Our open banking platform is guided by our [data responsibility principles](https://www.mastercard.com/news/perspectives/2022/data-responsibility-and-inclusion/). Mastercard
 
-
-* [Rulebook overcomes the lack of trust in data sharing](https://www.mydata.org/2022/08/30/rulebook-overcomes-the-lack-of-trust-in-data-sharing/) MyData
-
-The data sharing market is taking off and there is enormous uncaptured value. Many organisations are looking for new trustworthy ways to create value from data collaboration. Individuals can also benefit tremendously if data can be more readily shared across service providers.
-
-* [Training: Building smart cities services 2.0](https://oldwww.mydata.org/h3c/) MyData
-
-You will learn about business models, compliance with complex regulatory regimes, standards, and governance mechanisms. You will be connected with EU funding opportunities, and you will learn how to build successful partnerships with companies and cities
-
-* [What Meta’s Profit Drop Might Say About Consumer Sentiment on Data Privacy](https://anonyome.com/2022/09/what-metas-profit-drop-might-say-about-consumer-sentiment-on-data-privacy/) Anyonyome
-
-
-* [Skills for creative futures? MyData starts the Cyanotypes project.](https://www.mydata.org/2022/09/21/mydata-starts-cyanotypes-project/) MyData
-
-* [What to make of data sovereignty](https://www.mydata.org/2022/09/26/data-sovereignty/) MyData
-
-Data sovereignty has gained much recent attention, whilst interpreted in varied ways. MyData Global describes in this blog post what to make of data sovereignty when taking a human-centric approach to personal data.

@@ -34,8 +34,8 @@ GLEIF has launched a CA Stakeholder Group to facilitate communication between GL
 * [The DEI rollback](https://werd.io/2021/the-dei-rollback) Ben Werdmüller
   > The solution, for now, is to call it out, and for those of us with privilege to pledge never to work for (or start) an organization with these policies. Diversity and inclusion is more important than ever. And leaders who care about the culture of their companies should once again take note of the Basecamp team: this time as a lesson in what not to do.
 
-* [Passing the Torch at the OpenID Foundation](https://self-issued.info/?p%3D2170) Mike Jones
-  > Today marks an important milestone in the life of the OpenID Foundation and the worldwide digital identity community. Following [Don Thibeau’s decade of exemplary service to the OpenID Foundation as its Executive Director](https://openid.net/2021/02/19/resolution-thanking-don-thibeau-for-his-service/), today we [welcomed Gail Hodges as our new Executive Director](https://openid.net/2021/04/28/welcoming-gail-hodges-as-our-new-executive-director/).
+
+
 
 * [BedRock Consortium has a home page](https://bedrockconsortium.org/)
   > The Bedrock Consortium is a Linux Foundation project that supports the operation of the Bedrock Business Utility, an independent self-governed and self-sustainable public identity utility.
@@ -65,22 +65,6 @@ Minimal Demo: [https://adriang.xyz/](https://adriang.xyz/) Use Card Number 4242
 * [Global Survey Findings: Current state of SSI](https://iiw.idcommons.net/12O/_Global_Survey_Findings:_Current_state_of_SSI) by Gabriella Laatikainen, Ravikant Agrawal
 
 * [https://www.youtube.com/watch?v=lYb9bUyIPEw](https://www.youtube.com/watch?v%3DlYb9bUyIPEw)
-
-- Survey was a collaborative efforts by [University of Jyväskylä](http://jyu.fi), [Blockster.global](http://blockster.global) and [Trust over IP foundation](https://trustoverip.org/)
-- More than 70 survey respondents
-- SSI platform provider is ok but it should not be combined with network provider
-- Risk: Slow technology adoption/ implementation / maturity
-- Large VC issuance:
-- Healthcare (COVID credentials)
-- Revocation could be a challenge to be addressed
-- Education sector
-- Milestones to be achieved:
-- Standardization
-- Crypto payment
-- Many solution would benefit from global payments but this will further add the challenge of large business adoption SSI + Crypto combination
-- SDO:
-- Not moving fast
-- More academic and research in nature
 
 * [John Jordan AMA - ToIP, BC Gov, Spinal Cord Injuries](https://iiw.idcommons.net/13C/_John_Jordan_AMA_-_ToIP,_BC_Gov,_Spinal_Cord_Injuries) by John Jordan
 
@@ -128,19 +112,15 @@ David Luchuk, Program Manager for Trust over IP, addressed the importance of ens
 * [Sovrin and Trust over IP Signed Mutual Agreement to Strengthen Their SSI Collaboration](https://blog.sovrin.org/sovrin-and-trust-over-ip-signed-mutual-agreement-to-strengthen-their-ssi-collaboration-55d7775efdc2)
 
 “By signing this Letter Agreement, Sovrin and ToIP are excited to take a step further to support the need and importance of our separate but interrelated mandates to benefit people and organizations across all social and economic sectors through secure digital identity ecosystems based on verifiable credentials and SSI,” said Chris Raczkowski, Chairman of Board of Trustees, Sovrin Foundation.
-* [Trust Over IP 101 with John Jordan, André Kudra, Karl Kneis, Scott Perry & Paul Knowles](https://northernblock.io/toip-101/) Northern Block
-
-As we’re looking to move from the current internet era towards this new era of digital trust, I think it would be helpful if you were able to give an overview of how we got here. Perhaps we can take a step back, before the internet era, and discuss the paper credential era — I think that sets a good framework for where we’re going with these new digital trust models.
-
 * [Building an SSI Ecosystem: Digital Staff Passports at the NHS](https://www.windley.com/archives/2021/05/building_an_ssi_ecosystem_digital_staff_passports_at_the_nhs.shtml) Windley
 
 How does a functioning credential ecosystem get started? This post goes deep on Manny Nijjar’s work to create a program for using digital staff passports in the sprawling UK NHS bureaucracy.
 * [IdRamp Joins Linux Foundation Public Health Cardea Project Steering Committee](https://idramp.com/idramp-joins-linux-foundation-public-health-cardea-project-steering-committee/)
 
 The Cardea and GCCN projects are both excellent examples of breakthrough innovations that can take shape when companies and projects come together to solve real-world problems, using open source tools available to everyone
-* [Hedera Hashgraph Joins World Wide Web Consortium (W3C)](https://hedera.com/blog/hedera-hashgraph-joins-world-wide-web-consortium-w3c-new-did-method-published-by-w3c-credentials-community-group)
 
-We welcome Hedera as a contributing member to the W3C DID Working Group and congratulate their team for reaching this milestone of a published implementation of the latest W3C DID Identifiers v1.0 draft,” said Ivan Herman
+
+
 * [AfroLeadership NGO to join the Board of aNewGovernance AISBL](https://www.anewgovernance.org/2021/07/02/2391/) NewGovernance
 
 As the Data Strategy and the Data Spaces are being put in place in Europe, as the
@@ -169,68 +149,38 @@ Editorial: Kaliya thinks this is a terrible idea. It is based on the premise tha
 
 NO this isn’t going to work it is going to create lockin to particular wallets for particular credentials. All because some bad entrepreneurs who are no longer leading their companies sold SAFTS to greedy investors. There is a mess under here that should be exposed further now that they are trying to push this model again. Lets just say I can’t wait for the investigative reporter to dig into the Sovrin meltdown from last year further to see what is really there. It could have all been left alone and I wouldn’t be talking about it - but they decided to push the model again.
 
-* [Me2BA Executive Director Lisa LeVasseur featured on Masters of Privacy podcast](https://me2ba.org/me2ba-executive-director-lisa-levasseur-featured-on-masters-of-privacy-podcast/) Me2b
 
-describes Me2BA’s approach to respectful technology behavior and discusses the Alliance’s work in standards development and independent testing.  The conversation touches on the broader issues of our evolving and personal relationships with technology products and services, and the potential for respectful behavior to provide a deeper and better level of engagement, to the benefit of individuals and businesses alike.
-
-* [Trust over IP and Sovrin sign agreement to strengthen collaboration](https://trustoverip.org/news/2021/05/10/trust-over-ip-and-sovrin-sign-agreement-to-strengthen-collaboration/)
-  > The Sovrin Foundation (“Sovrin”) Board of Trustees and Trust over IP Foundation (“ToIP”) Steering Committee are pleased to announce that they have signed a Letter Agreement (dated March 18, 2021). This agreement signifies the commitment of both organizations to mutual cooperation and recognition for each other’s mandates. Sovrin and ToIP intend to work together toward advancing the infrastructure and governance required for digital trust and digital identity ecosystems.
 
 * [Spherity partners IDunion Trusted Identity Ecosystem](https://medium.com/spherity/spherity-joins-idunion-trusted-identity-ecosystem-e89d093be35a)
 
 Spherity announces that it has become a partner of the 
 [IDunion](https://idunion.org/)
  project. The project is funded within the innovation framework “Showcase secure digital identities” of the German government (Federal Ministry for Economic Affairs and Energy). Spherity is entrusted on the application of cloud identity technology in the healthcare industry.
-* [A YEAR IN REVIEW: NEW BEGINNINGS AND SUCCESSES](https://trustoverip.org/blog/2021/10/07/a-year-in-review-new-beginnings-and-successes/)
-
-The TSWG provides guidance and specifications that support the ToIP 4-layer model from a technical standpoint.
-* [Launching the Global Assured Identity Network (GAIN) with Elizabeth Garber](https://www.ubisecure.com/podcast/global-assured-identity-network-gain-elizabeth-garber/) UbiSecure
-
-fills us in on what the GAIN project is, explaining how it’s different from other trust networks and why GAIN is good for financial institutions. She also discusses the role of the Global Legal Entity Identifier Foundation (GLEIF) in the project, and what’s next for GAIN.
-* [#2 in the Financial Inclusion Interview Series – What bridging the $81bn trade finance gap could mean for Africa with Barry Cooper from Centre for Financial Regulation and Inclusion (Cenfri)](https://www.gleif.org/en/newsroom/blog/number-2-in-the-financial-inclusion-interview-series-what-bridging-the-81bn-trade-finance-gap-could-mean-for-africa-with-barry-cooper-from-centre-for-financial-regulation-and-inclusion-cenfri)
-
-Following the launch of GLEIF’s digital business identity initiative designed to bridge the trade finance gap in Africa, we’re catching up with our key partners to hear their thoughts on how the project will bring about greater financial inclusion for SMEs on the continent and beyond.
-
-* [MYDATA, MY CLIMATE, AND MY CARBON](https://mydata.org/2021/11/03/mydata-my-climate-and-my-carbon/)
-
-With COP26 taking place this week, governments, companies, and individuals are discussing how we can all reduce our carbon emissions. The task is monumental, and technology has an important role to play – both in reducing its own carbon footprint and in helping the wider world track and reduce their emissions.
-
 * [Non-binary Thinking will Accelerate Digital Sovereignty (with Rouven Heck)](https://northernblock.io/non-binary-thinking-will-accelerate-digital-sovereignty-with-rouven-heck/) NorthernBlock
 
 Now, if we take two communities within the SSI space – the Decentralized Identity Foundation (DIF) and the Trust over IP Foundation (ToIP). I will sometimes hear people talking positively about one and negatively about the other. But why is this happening? Don’t we all have the same underlying values? Aren’t we all looking to better our lives through digital sovereignty?
 
 I think the answer to this is clear and we need to get away from thinking in a binary manner about anything in our space. And if you really look at the overlap between both these communities: they are quite large.
 
-* [Gratitude: Internet Society Foundation Grant Award](https://me2ba.org/gratitude-internet-society-foundation-grant-award/) ([Press Release](https://me2ba.org/me2b-alliance-awarded-100k-grant-for-us-pre-k-12-benchmark-to-research-school-utility-apps-data-sharing/) Me2Ba
 * [ISSE 2021 - EEMA opening Plenary](https://vimeo.com/648039700) Is it all change for identity?
 * [Communication Milestone Achievements!](https://blog.identity.foundation/milestones/) DIF
 
-This week, we hit 5k followers on [Twitter](https://twitter.com/DecentralizedID), driven in no small part by attention garnered by our [ToIP & DIF Joint Statement of Support for the Decentralized Identifiers (DIDs) v1.0 specification becoming a W3C Standard](https://blog.identity.foundation/w3cdidspec/)
 
-* [Good things happen slowly, bad things happen fast](https://blog.weareopen.coop/good-things-happen-slowly-bad-things-happen-fast-2fd894cbd4df) We Are Open Co-op
 
-- Important Talk
 
-Some organisations were experimenting with digital badges before 2011, but these were siloed and easy to right-click and copy. The ‘technology trigger’, the innovation with Open Badges, was to invent and make available an open metadata standard.
 
-* [You can now make an online donation to the Me2B Alliance](https://me2ba.org/you-can-now-make-an-online-donation-to-the-me2b-alliance-we-appeciate-your-support-donate-here/)
 
-* [We appeciate your support! Donate here >](https://me2ba.org/donate/)
+
 
 * [Internet Identity Workshop #33](https://blog.identity.foundation/internet-identity-workshop-33/) DIF
 
 Hundreds of attendees, including a number of DIF members, put together a huge programme of content for the 33rd IIW, covering topics ranging from the technical minutiae of IAM and SSI to big-picture discussions about ethics and strategy, and participated in over 110 virtual sessions across the three days.
-* [Me2BA supports ending all surveillance advertising on children](https://me2ba.org/me2ba-supports-ending-all-surveillance-advertising-on-children/)
 
-We think that focusing on Facebook’s surveillance advertising is a good step in the right direction. However, there are several other significant threats to kids out there. In particular, Google’s YouTube [is used by 69% of kids in the United States today, who reportedly spend approximately 1.5 hours a day on the app](https://techcrunch.com/2020/06/04/kids-now-spend-nearly-as-much-time-watching-tiktok-as-youtube-in-u-s-u-k-and-spain/)
+
 
 * [New steward for #GoodID: Berkman Klein Center for Internet and Society at Harvard University](https://omidyarnetwork.medium.com/new-steward-for-goodid-berkman-klein-center-for-internet-and-society-at-harvard-university-a221cdb12949) Omidyar Network
 
 The Center recently launched the [Institute for Rebooting Social Media](https://cyber.harvard.edu/programs/institute-rebooting-social-media) [...] In connection with this Institute and the [Berkman Klein Research Sprints](https://cyber.harvard.edu/story/2020-10/research-sprint-participants-explore-digital-transformation-time-crisis-focus), and through the Center’s ongoing work with the over 100 international [Network of Internet and Society Research Centers](http://networkofcenters.net/), the Center will support conversations about digital identity issues that will reach diverse and interdisciplinary communities of research and practice.
-* [TOIP HELPS SANTA WITH HIS TOUGHEST CHOICES](https://trustoverip.org/news/2021/12/15/toip-helps-santa-with-his-toughest-choices/) Trust over IP
-
-MEGA also joined the Good Elf Pass Initiative whose “interoperability blueprint” supports its crucial role as issuers of these credentials. The ground-breaking “Hypersleigh” blockchain standard will also support rapid delivery and high security for all Meaningful Gifts. #hypersleigh
-
 
 
 
@@ -241,13 +191,6 @@ Check out these [photos from IIW 1 in 2005](https://www.flickr.com/photos/tags/i
 (
 
 * [src](https://www.flickr.com/photos/chrisheuer/57584208/in/photolist-5YzQy-613Xi-5YztD-613UK-5YBEi-669qJ-6153X-63sGm-65uyW-63sKa-63sHi-63sJv-6682a-669uE-5YzVT-68VoW-6685y-668ju-68VjB-669om-65uHm-65UDr-668pr-6689z-68Vd9-65Urf-68V8M-6693d-68V51-668vo-68Vhj-6696s-669jG-669eG-668z5-65Uvh-668ZD-668K2-668Vm-668rU-669ah-668Mb-668QJ-65uDA-668FE-65uFG-65UGT-65Uza-65uC8-65uAq/)
-
-* [The Trust Over IP Stack: Achieving Global Interoperability with SSI](https://techzone.scot/trust-over-ip-stack/) Digital Scotland
-
-* [In this video](https://www.youtube.com/watch?v%3DYzKfb-udavY), Drummond Reed, Chief Trust Officer at Evernym Inc and co-author of the book ‘[Self-Sovereign Identity](https://www.evernym.com/ssi-book/)’ provides a deep discussion of SSI and the ‘The Trust over IP Stack’.
-* [On Forests, Emergence, and Expansive Trust: Why Trust Over IP is even more profound than we thought](https://trustoverip.org/blog/2021/11/21/on-forests-emergence-and-expansive-trust/) Daniel Hardman
-
-I have been lucky enough to witness many of its milestones — the finalization of the VC and DID specifications, the launch of Sovrin and Hyperledger Indy, the advent of production deployments and serious interoperability, the invention of peer DIDs and KERI and BBS+ credentials, the implementation of the exciting communication technology now known as DIDComm…
 
 * [The Digital Identity Card](https://blog.ti8m.com/en/SSI.html) TI8M
 
@@ -262,51 +205,13 @@ The founding media partners all agreed, however, that having more first-party da
 
 The Super Skills app combines a custodial wallet (Torus) and Ceramic VC/storage tooling to give children private, exportable, future-proof achievement records – a self-sovereign educational credentialing system in miniature.
 
-* [Announcing the 2022 OpenID Foundation Individual Community Board Member Election](https://openid.net/2021/12/30/announcing-the-2022-openid-foundation-individual-community-board-member-election/)
 
-Board participation requires a substantial investment of time and energy. It is a volunteer effort that should not be undertaken lightly. Should you be elected, expect to be called upon to serve both on the board and on its committees. You should have your employer’s agreement to attend two or more in-person board meetings a year, which are typically collocated with important identity conferences around the world.
-* [WTF are ‘Stealth Badges’?: The case of the O.G. Badger](https://blog.weareopen.coop/wtf-are-stealth-badges-41130a75a1a9) We are Open Coop
 
-This information means that this particular badge, which is manually issued, can be given out in fair and equitable ways. It also means that someone else who engaged with the Open Badges community before 2017 could lay claim to it.
 
-Stealth badges at scale require an automated system that issues badges depending on particular criteria. This is why they are very common in games-based environments. For example, I unlock some most weeks playing new and existing games on my PlayStation and Google Stadia.
-
-* [The Trust Over IP Foundation Publishes New Introduction and Design Principles.](https://trustoverip.org/blog/2022/01/24/the-trust-over-ip-foundation-publishes-new-introduction-and-design-principles/)
-
-1. [Introduction to ToIP V2.0](https://trustoverip.org/permalink/Introduction-to-ToIP-V2.0-2021-11-17.pdf)
-This is the second-generation version of our original introductory white paper that would go more deeply into the origin and purpose of the ToIP stack and how it addresses the key challenges of decentralized digital trust infrastructure.
-2. [Design Principles for the ToIP Stack V1.0](https://trustoverip.org/permalink/Design-Principles-for-the-ToIP-Stack-V1.0-2022-11-17.pdf)
-This is an articulation of the key [design principles](https://principles.design/) we must follow in the design and
-3. development of all aspects of the ToIP stack.
-
-* [VIIVI LÄHTEENOJA APPOINTED AS MYDATA GLOBAL CHAIR](https://mydata.org/2022/01/07/viivi-lahteenoja-appointed-as-mydata-global-chair/)
-
-Previous Chair,  Antti “Jogi” Poikola commented: I am delighted to be succeeded by Viivi Lähteenoja as MyData Global’s Chair. […] Viivi’s experience both in and out of the MyData community make her excellently qualified to open up new dialogues on how personal data can empower people and communities.
-* [The ToIP Foundation Releases its First Official Governance Specifications](https://trustoverip.org/news/2022/02/01/the-toip-foundation-releases-its-first-official-governance-specifications/) Trust Over IP
-* [THE VERIFIABLE LEI: DELIVERING ON THE PROMISE OF THE TOIP STACK](https://trustoverip.org/blog/2022/02/07/the-verifiable-lei-delivering-on-the-promise-of-the-toip-stack/) TOIP
-
-It will give government organizations, companies, and other legal entities worldwide the capacity to use non-repudiable identification data pertaining to their legal status, ownership structure and authorized representatives in a growing multitude of digital business activities
-
-* [The Birth of the vLEI: A New Dawn in Digital ID for Legal Entities Everywhere](https://www.gleif.org/en/newsroom/blog/the-birth-of-the-vlei-a-new-dawn-in-digital-id-for-legal-entities-everywhere) GLIEF
-
-Using KERI, vLEIs can be created and utilized independently of any specific organization, with the highest levels of security, privacy, and ease of use. KERI also enables GLEIF and the vLEI trust ecosystem to operate under GLEIF’s governance framework, unencumbered by the governance of external systems, including those of blockchains and distributed ledger consortia.
-* [Emergent community building](https://blog.weareopen.coop/emergent-community-building-a35f9431d8a) WeAreOpenCoop
-
-Last week, we ran the first Keep Badges Weird community call
 
 * [​](http://validatedid.com/post-en/the-time-for-the-eidas-bridge)There’s an outstanding question, for us, around how this community explores and thinks about the theoretical underpinnings of a Community of Practice (CoP), but one thing is for sure, Keep Badges Weird is a CoP.
-* [Introducing the Global Assured Identity Network (GAIN) Proof of Concept Community Group](https://openid.net/2022/03/02/introducing-the-global-assured-identity-network-gain-proof-of-concept-community-group/)
-
-The OpenID Foundation is pleased to announce the launch of the Global Assured Identity Network (GAIN) Proof of Concept Community Group, which aims to test the technical hypotheses underlying the [“GAIN Digital Trust”](https://gainforum.org/GAINWhitePaper.pdf) white paper.
 
 
-* [LAYER 1 UTILITIES: AN UNDERGROUND NETWORK CONNECTING ALL SSI ECOSYSTEMS](https://trustoverip.org/blog/2022/03/04/layer-1-utilities-an-underground-network-connecting-all-ssi-ecosystems/) Trust over IP
-
-Please mind the gap between the DID and the DID Document! Just like the London Underground, Layer 1 Utilities are a collection of connected rails and overlapping networks, on top of which SSI ecosystems are developed. The ToIP Utility Foundry Working Group (UFWG) are mapping out how they overlap, intersect and differentiate from each other.
-
-* [MYDATA GLOBAL IN MOTION – KEY DEVELOPMENTS IN 2022](https://mydata.org/2022/03/09/mydata-developments-in-2022/)
-
-Collective sensemaking and channels for impact, Strengthening the MyData brand, Renovating the infrastructure of MyData Global, and Changes in the staff and leadership team.
 
 * [Audience Ikigai](https://blog.weareopen.coop/audience-ikigai-be0cebe4cea) [reason for being] We are Open CoOp
 
@@ -339,16 +244,9 @@ We’re not convinced that “constraint” is the right theoretical approach fo
 - [Jolocom focused on the Rust KERI implementation](https://github.com/decentralized-identity/keriox/), which we donated to DIF last fall
 
 > An example of the KERI DID registrar/resolver integrated in our library can be found here. This is also included in the Jolocom SmartWallet via the SDK integration. (KERI is currently being worked on in the Decentralized Identity Foundation’s Identifiers and Discovery Working Group,)
-
-* [2021 OpenID Foundation Board Update](https://openid.net/2021/02/09/2021-openid-foundation-board-update/)
-  > Nat Sakimura and John Bradley were re-elected to new two-year terms as community member representatives. Nat and John’s well-known technical expertise and global thought leadership ensures continuity across working groups and as the Foundation transitions to new leadership in 2021.
 * [Compliance & Inclusive Finance Working Group (CIFWG)](https://medium.com/@sovrinid/promoting-banking-for-all-announcing-the-compliance-inclusive-finance-working-group-cifwg-340633ef3e6c) Sovrin
   > Since 2019, Sovrin has hosted the Compliance and Payments Task Force (CPTF), an open group of traditional bank and non-bank financial institutions, regulators, policymakers, technologists, ethicists, and legal experts. The CPTF has developed and promoted the Rulebook, an innovative best practices framework that extends traditional banking compliance and payments guidance to emerging fintech and VASP processes.
 
-* [Lisa LeVasseur on the ethical behaviour of technology and the Me2B Alliance LTADI](https://www.ubisecure.com/podcast/lisa-levasseur-me2b-alliance/)
-  > the Me2B Alliance and how it aims to make technology better for humans, plus the businesses (B-s) which are shining a light on privacy issues and giving the Me-s more control.
-  > 
-  > “We used to call ourselves something like the ‘organic food label’. But that’s actually not right. We’re more like independent automobile crash testing.”
 
 * [ID2020 Welcomes BLOK Solutions to the Alliance](https://medium.com/id2020/id2020-welcomes-blok-solutions-to-the-alliance-1c53e952930c)
   > Their most recent solution, BLOK Pass, offers individuals a self-sovereign record of their COVID-19 test results and other risk factors. The technology was developed under the company’s biotech arm, BLOK BioScience.
@@ -357,25 +255,12 @@ We’re not convinced that “constraint” is the right theoretical approach fo
 * [Member interview with Jacoba Sieders](https://womeninidentity.org/2020/10/20/www-womeninidentity-org-interview-jacoba-sieders/) Women in Identity
   > Jacoba Sieders is an independent, digital identity expert [and advisory board member of the EU ESSIF Lab]. She has held executive positions leading IAM and KYC functions for more than 20 years at major banks in the Netherlands and then in Luxembourg at the European Investment Bank. She also lived and worked in New Delhi, India for ING Group.
 
-## GlEIF
-* [InfoCert adheres to the GLEIF International Foundation's program for promoting vLEI](https://translate.google.com/translate?sl=auto&tl=en&u=https://www.datamanager.it/2020/12/infocert-aderisce-al-programma-della-fondazione-internazionale-gleif-per-la-promozione-del-vlei/)
-  > The vLEI is a cryptographically verifiable credential according to W3C standards and containing the LEI ( Legal Entity Identifiers ), the identification code of legal entities made mandatory by Mifid II in order to operate on the financial markets: InfoCert, formerly LOU ( Local Operating Unit ) authorized by GLEIF will adopt vLEI as an identification standard within its DIZME ecosystem , the blockchain-based decentralized digital identity platform.
 * [PSA Today: Kaliya & Seth talk LEIs](https://anchor.fm/psatoday/episodes/PSA-Today-34-Kaliya--Seth-talk-LEIs-Legal-Entity-Identifiers-with-Simon-Wood--CEO-of-Ubisecure-eqia74)
 with Simon Wood, CEO of Ubisecure (#1 issuer of Legal Entity Identifiers)
   > the evolution of LEIs since the financial crisis of 2008, the difference between high assurance and low assurance, and the relationship between rights and ownership as it relates to identity management of entities.
 
-* [Self-sovereign digital identity, vLEI as identification standard for InfoCert DIZME network](https://www.digitalfuturemagazine.com/2021/01/27/self-sovereign-digital-identity-vlei-as-identification-standard-for-infocert-dizme-network/)
 
-VLEIs are cryptographically verifiable credentials compliant with W3C standards, containing LEIs. The program launched by GLEIF to promote vLEIs aims to create an ecosystem, a credential governance framework, and a technical support infrastructure.
 
-Through vLEIs, companies, government organizations, and other legal entities around the world will have the ability to identify themselves unambiguously, even outside of the financial markets, to conduct a growing number of activities digitally, such as:
-
-- the approval of transactions and contracts,
-- the acquisition of new customers,
-- transactions within logistics chain and import/export networks,
-- the submission of reports and prospectuses to regulatory bodies.
-
-Also, vLEIs will allow for the extension of identity verification of legal entities to include individuals who fill roles of interest within those entities.
 ### Turing Institute Report on Trustworthy Digital Identity
 
 * [Turing harnesses global expertise with International Advisory Board for Trustworthy Digital Identity](https://www.turing.ac.uk/news/turing-harnesses-global-expertise-international-advisory-board-trustworthy-digital-identity)
@@ -383,8 +268,9 @@ Also, vLEIs will allow for the extension of identity verification of legal entit
 - [Alan Turing Institute: Trustworthy Digital Infrastructure for Identity Systems](https://www.turing.ac.uk/sites/default/files/2020-12/alan_turing_digital_identities_2020.pdf) (Report)
 - [Digital Identity: Ensuring that systems are trustworthy](https://www.turing.ac.uk/blog/digital-identity-ensuring-systems-are-trustworthy)
 - [Trustworthy digital identity](https://www.turing.ac.uk/research/interest-groups/trustworthy-digital-identity)
-* [OpenID Foundation is Hiring a new Executive Director](https://openid.net/2020/11/17/openid-foundation-executive-director-job-description/)
-  > The OpenID Foundation is seeking an Executive Director with the experience, skills, strategic vision, and commitment to advancing the Foundation’s open standards initiatives. This is a unique opportunity to lead a well-respected, member-driven, vendor-neutral, international standardization organization.
+
+
+
 - [Finding the Bell Curve of Meaning](https://medium.com/decentralized-identity/finding-the-bell-curve-of-meaning-61a1d22b7bdd) - A process for supporting the emergence of shared language in broad collaborative communities
 * [Linux Foundation Announces DizmeID Foundation to Develop and Enable a Self-Sovereign Identity Credential Network](https://linuxfoundation.org/en/press-release/linux-foundation-announces-dizmeid-foundation-to-develop-and-enable-a-self-sovereign-identity-credential-network/)
 
@@ -416,15 +302,8 @@ How do you determine if your new company is addressing the underlying issues tha
 ## IIW
 
 * [IIW32 - A wave of DIF donations and debuts](https://blog.identity.foundation/dif-monthly-18-may-2021/%23iiw32a-wave-of-dif-donations-and-debuts) DIF Newsletter
-* [EXEMPLARY PERSONAL DATA BUSINESSES: 33 ORGANISATIONS RECEIVE THE MYDATA OPERATOR 2022 AWARD](https://mydata.org/2022/03/16/mydata-operator-2022-awards/)
 
-personal data companies that have shown leadership by empowering individuals to control their personal data. As promoted by the European Commission, [putting people in the centre of digital transformations is needed for a safe and sustainable digital future](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6428). Further, [boosting data sharing and ensuring its trustworthiness](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6428) is critical to reaping the benefits of our digitised lives.
 
-* [MyData Operator Status awarded to Mydex](https://medium.com/mydex/mydata-operator-status-awarded-to-mydex-2916d1c48c3d)
-
-As promoted by the European Commission, [putting people in the centre of digital transformations is needed for a safe and sustainable digital future](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6428). Further, [boosting data sharing and ensuring its trustworthiness](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6428) is critical to reaping the benefits of our digitised lives. Organisations awarded with the MyData Operator Award are vital enablers for such a vision, providing value for companies and individuals alike.
-
-Centre Consortium presents Verite with Kim Hamilton
 
 * [Verite: A Technical Deep Dive with Kim Hamilton, Director of Identity & Standards](https://www.centre.io/blog/verite-a-technical-deep-dive-with-kim-hamilton-director-of-identity-standards) Centre
 
@@ -446,13 +325,6 @@ Join here [https://discord.com/invite/F4Qw7h6Sr9](https://discord.com/invite/F4Q
 Founded by Coinbase and Circle in 2018, the mission is to provide the governance and standards for the future digital financial ecosystem.
 
 We began by launching US Dollar Coin (USDC), a fiat-backed stablecoin and now the second largest stablecoin on the market. The standards we laid out for USDC provide a layer of trust and transparency so that users can operate with security and confidence as we enter a new world of digital payments.
-
-* [2022 OpenID Foundation Kim Cameron Award Recipients Announced](https://openid.net/2022/04/29/2022-openid-foundation-kim-cameron-award-recipients-announced/)
-
-This was the first IIW without Kim Cameron. This was a very fitting announcement.
-
-The OpenID Foundation is pleased to announce the first cohort of awardees for inaugural launch of the Kim Cameron Award Program. We first must thank the many well-qualified applicants who presented compelling interest in user-centric identity.
-
 * [Digital Technologies Forum now includes the Lissi demo](https://lissi-id.medium.com/lissi-demonstration-im-forum-digitale-technologien-82d5f0c07a5d) <- in german
 
 Digital Technologies Forum is a networking platform and exhibition space for selected research projects and innovations in the field of digital technologies from Germany. The forum offers outstanding research projects a platform for more visibility and promotes exchange and knowledge transfer at national and international level.
@@ -466,13 +338,7 @@ Link your web accounts, verify your academic credentials and interact with DeSci
 Silvia is a WID member since 2018 and started her career as an Identity engineer. Her topic will be the misbehavior of your digital twin and what you can do if your digital twin misbehaves.
 
 Originating from a virtual model reflecting a physical object, the term “digital twin” also has its application in the cyber security industry. Social media giants and the advertisement industry have a huge interest in modeling your behavior, feelings, and thoughts to tailor advertising to you.
-* [Me2B Safe Specification v1.0](https://me2ba.org/safetechspec/) Me2B
 
-The current version focuses on mobile apps and websites and encompasses only a portion of the harms outlined in the complete [Me2B Digital Harms Dictionary](https://ooqc943yvdw4abzes1q1ezta-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/me2ba-digital-harms-dictionary-v2.0-iii.pdf). As the safe specification evolves subsequent versions will grow to include more of the harms identified in the Me2B Digital Harms Dictionary.
-
-* [Building a Safety Spec for the Digital World](https://me2ba.org/three-turns-of-the-wheel-building-a-safety-spec-for-the-digital-world-2/) Me2ba
-
-It was three years in the making, and this is how we got here.
 
 * [A WebAuthn Apache module?](https://hanszandbelt.wordpress.com/2022/05/05/a-webauthn-apache-module/) Hans Zandbelt
 
@@ -481,23 +347,6 @@ any sensible WebAuthn/FIDO2 Apache module would rely on an externally running �
 * [ONT ID Upgrade: Verifiable Credentials SDKs Now Open Source](https://medium.com/ontologynetwork/ont-id-framework-upgraded-ontologys-verifiable-credentials-sdks-now-open-source-for-all-go-and-7f89f7585528) Ontology
 
 In making the code widely accessible, Ontology is accelerating the adoption of decentralized identity (DID) in the blockchain sphere As the project that has focused on the Decentralized Identity (DID) field for over 4 years…
-
-
-* [ISO/IEC 18013-5 vs Self-Sovereign Identity: A proposal for an mDL Verifiable Credential](https://www.procivis.ch/post/iso-iec-18013-5-vs-self-sovereign-identity-a-proposal-for-an-mdl-verifiable-credential) Procivis
-
-in the context of government identity programs we see it as useful to compare them on the following parameters – background, credential data model & trust anchor and transmission protocols.
-
-* [MyData Global adopts an updated logo and visual identity](https://www.mydata.org/2022/05/17/new-logo/)
-
-* [Aotearoa’s digital identity journey that leaves no-one behind](https://digitalidentity.nz/2022/05/18/aotearoas-digital-identity-journey-that-leaves-no-one-behind/) DigitalID NZ
-
-IEUDI, together with DINZ’s Te Kāhui Te Tiriti O DINZ and Digital Identity Services Trust Framework (DISTF) [work groups](https://digitalidentity.nz/working-groups/), detail the scope of DINZ’s mahi this year and into 2023 in pursuit of its mission – to create a digital identity ecosystem that enhances privacy, trust and improves access for all people in New Zealand. [...]
-
-The DISTF WG met last week also, to discuss the [Select Committee’s report](https://www.legislation.govt.nz/bill/government/2021/0078/latest/whole.html) following the [submissions](https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/document/BILL_116015/tab/submissionsandadvice), containing its recommended changes to [the Bill](https://www.legislation.govt.nz/bill/government/2021/0078/latest/whole.html) prior to its Second Reading.
-
-* [Block Joins W3C](https://twitter.com/brockm/status/1526723285102120960) [@brockm](https://twitter.com/brockm)
-
-Today, we became a member of the [@W3C](https://twitter.com/w3c), as part of our commitment to building open standards for an open web. We are committed to advancing and adopting decentralized and privacy-preserving standards for self-sovereign digital identity that benefits all. Not centralized platforms.
 
 
 * [Ledger Joins Project Verite: a Decentralized Identity Coalition for Crypto Finance](https://www.ledger.com/ledger-joins-project-verite-a-decentralized-identity-coalition-for-crypto-finance) Ledger 2/22
@@ -510,24 +359,7 @@ We strongly believe that open standards are a key enabler for the development an
 
 Currently available in TypeScript and [published through NPM](https://www.npmjs.com/package/verite), the Verite library seeks to make it easier to implement VCs in a variety of forms. The library is early and an additional goal of the library is to collect community feedback.
 
-* [The Me2B Alliance is now Internet Safety Labs](https://me2ba.org/introducing-internet-safety-labs/) Internet Safety Labs
 
-We are excited to announce the Me2B Alliance is now Internet Safety Labs. We’ve changed our name but not our core mission.
-* [How GAIN Happens, Slowly Then All at Once](https://openid.net/2022/06/03/how-gain-happens-slowly-then-all-at-once/) OpenID
-
-GAIN is marked by a cross sector, crowd sourced, open, global due diligence. GAIN’s self organized participants are actively seeking evidence that disconfirms the GAIN hypothesis.
-
-* [Key ToIP Take Aways from EIC](https://trustoverip.org/blog/2022/06/03/key-toip-takeaways-from-the-european-identity-conference/) TOIP
-
-* [OpenID for Verifiable Credentials](http://openid.net/wordpress-content/uploads/2022/05/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials_FINAL_2022-05-12.pdf) [...]
-
-The goal of this whitepaper is to inform and educate the readers about the work on the OpenID for Verifiable Credentials (OpenID4VC) specifications family. It addresses use-cases referred to as Self-Sovereign Identity, Decentralized Identity, or User-Centric Identity.
-
-
-
-* [Achieving Trusted Digital Transactions Across the Globe: OIX and ToIP Align to make it Happen](https://trustoverip.org/news/2022/06/15/achieving-trusted-digital-transactions-across-the-globe-oix-and-toip-align-to-make-it-happen/) Trust over IP
-
-With a combined worldwide membership of over 400 organisations and individuals, including some of the world’s largest stakeholders in a digital ID future, this is a crucial development in the journey towards full digital ID adoption and a digital future that will work for everyone involved.
 
 * [Digital Scotland: Blueprint for a 21st Century Scottish Digital Nation](https://digitalscot.net/library/digital-nation/)
 
@@ -542,36 +374,17 @@ The Implementation Guide V1 provides a set of baseline recommendations to the CC
 
 By recognising the pivotal importance of verified attributes and the potential role of personal data stores in enabling the sharing of these attributes, it is opening the door to actually solving the problem of identity. At last.
 
-* [W3C to become a public-interest non-profit organization](https://www.w3.org/2022/06/pressrelease-w3c-le.html.en) W3.org
 
-As W3C was created to address the needs of the early web, our evolution to a public-interest non-profit is not just to continue our community effort, but to mature and grow to meet the needs of the web of the future.
 
-Thanks for your Votes!
 
 Kaliya was elected to the [DIF steering committee](https://blog.identity.foundation/sc-election-2022-results/) Decentralized Identity Foundation
 
 The six elected candidates are Sam Curren (Indicio Tech), Daniel Buchner (Block), Karyl Fowler (Transmute), Rouven Heck (Consensys Mesh, Executive Director at DIF), Markus Sabadello (DanubeTech) & Kaliya Young (Identity Woman). Sam, Karyl, Markus and Rouven have been re-elected for another two year term as SC members. You can read more about the SC candidates' background and vision for DIF here.
-- [Avast demonstrates commitment to digital freedom with MyData membership](https://press.avast.com/avast-demonstrates-commitment-to-digital-freedom-with-mydata-membership)
-
 * [RootsID SSI Report - E1](https://www.youtube.com/watch?v%3DspbZp8X1eH0)
 
 covers our work with DIF, Trust over IP, and attending Consensus 2022.
 
-* [Kim Cameron Award Winner Reflects on EIC](https://openid.net/2022/07/05/rachelle-sellung-2022-kim-cameron-award/) Rachelle Sellung
 
-In a matter of a few days, I heard many inspiring presentations, had many interesting conversations, and met many wonderful people in this field at the Conference. It has already led to multiple conversations of working together regarding future stakeholder research that will hopefully be useful and support the identity community.
-
-* [Quick wins to improve your Open Source community’s Architecture of Participation](https://blog.weareopen.coop/quick-wins-to-improve-your-open-source-communitys-architecture-of-participation-9d0e6c8d60fe) WeAreOpenCoop
-
-Sociocracy is a system of governance that seeks to create psychologically safe environments and productive organizations. It draws on the use of consent, rather than majority voting, in discussion and decision-making by people who have a shared goal or work process.
-
-* [Trinsic Basics: What Is a Trust Registry?](https://trinsic.id/trinsic-basics-what-is-a-trust-registry/) Trinsic
-
-Trust registries also need to be interoperable. The [Trust Over IP Foundation](https://www.trustoverip.org/) has a [specification](https://github.com/trustoverip/tswg-trust-registry-tf) for an interoperable trust registry, and ours is the first implementation of this spec. Because of this, Trinsic’s Trust Registry Service is architected so that one ecosystem could reference or incorporate a trust registry from a separate ecosystem if needed.
-
-* [Harrison new Co-Chair of the CCG and CEO of Spokeo explaining SSI](https://twitter.com/TheCEODad/status/1545907309435428864) Harrison Tang @TheCEODad
-
-Self-sovereign identity, or SSI, is basically an identity owned by you - the user. In self-sovereign identity, you control and manage the access to your information
 
 * [Public-private partnerships in health: The journey ahead for open source](https://www.lfph.io/2022/07/29/public-private-partnerships-in-health-the-journey-ahead-for-open-source/) Linux Foundation Public Health
 
@@ -585,13 +398,8 @@ a trust infrastructure that preserves the structural, definitional, and contextu
 
 * [Credivera Joins Microsoft Partner Network as Verifiable Credentials Provider](https://www.newswire.ca/news-releases/credivera-joins-microsoft-partner-network-as-verifiable-credentials-provider-857742185.html)
 
-* [Keep Badges Weird: helping people understand the badges landscape](https://blog.weareopen.coop/keep-badges-weird-helping-people-understand-the-badges-landscape-79cc8cf7281) Doug Belshaw, We Are Open Co-op
 
-Open Recognition is the awareness and appreciation of talents, skills and aspirations in ways that go beyond credentialing. This includes recognising the rights of individuals, communities, and territories to apply their own labels and definitions. Their frameworks may be emergent and/or implicit.” ([What is Open Recognition, anyway?](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629)
 
-* [OpenID Foundation Publishes “Open Banking and Open Data: Ready to Cross Borders?”](https://openid.net/2022/07/29/whitepaper-open-banking-and-open-data/) OpenID
-
-* [OpenID Foundation Publishes “The Global Open Health Movement: Empowering People and Saving Lives by Unlocking Data” Whitepaper](https://openid.net/2022/07/22/the-global-open-health-movement-empowering-people-and-saving-lives-by-unlocking-data-whitepaper/) OpenID
 * [Ceramic Launches Community Forum](https://blog.ceramic.network/ceramic-launches-community-forum/)
 
 We’re excited to share that we launched the [Ceramic Community Forum](https://forum.ceramic.network/)! The forum is the place to ask technical questions and receive support from your fellow community members and Ceramic’s core team
@@ -611,30 +419,6 @@ The aim of this public-private cooperation is to strengthen Finland’s leading 
 * [Avast Joins Trust over IP as a Steering Member](https://trustoverip.org/news/2022/08/30/avast-joins-the-toip-foundation-as-a-steering-member/) TOIP
 
 “It is finally time we had digital wallets with digital credentials that work exactly the same way our real-world wallets do,” said Mr. Reed. “We can take and use them anywhere to privately prove just what another party needs to know in the context of a particular transaction. We don’t have to go through any third-party gatekeeper to do this. That’s the way it should work in the digital world too.”
-
-* [Towards a Better Digital Identity Trust Framework in Aotearoa](https://digitalidentity.nz/2022/09/21/towards-a-better-digital-identity-trust-framework-in-aotearoa/) Digital Identity NZ
-
-It’s a great pleasure to share with you DINZ Reflections Report, a seminal piece of work that DINZ’s Digital Identity Trust Framework working group has developed over several months.
-
-* [The Birth of the vLEI: A New Dawn in Digital ID for Legal Entities Everywhere](https://www.gleif.org/en/newsroom/blog/the-birth-of-the-vlei-a-new-dawn-in-digital-id-for-legal-entities-everywhere) GLEIF
-
-For businesses the world over, confidence in digital authenticity is in short supply. Can you be sure that your bank’s website is not an elaborate phishing recreation? Did that e-invoice really come from your business partner? How can you tell? [...]
-
-* [eBook: ‘The vLEI: Introducing Digital I.D. for Legal Entities Everywhere](https://www.gleif.org/en/lei-solutions/gleifs-digital-strategy-for-the-lei/introducing-the-verifiable-lei-vlei/gleif-ebook-the-vlei-introducing-digital-i-d-for-legal-entities-everywhere)
-
-
-* [How to Unf*ck Your Organisation: Organisational strategy and architecture for n00bs](https://blog.weareopen.coop/how-to-unf-ck-your-organisation-b73851dbeba5) WeAreOpenCoop
-
-We’ve put together an [email-based course](https://learnwith.weareopen.coop/courses/org-strategy/) to help forward-thinking people in senior roles who might need a bit of help and orientation. We’ve broken things down into actionable steps based on the resources found at our Learn with WAO site, giving you enough direction and inspiration to get started transforming your organisation for the better!
-
-* [Steps to Success when building a Community of Practice: Convening systems for maturity and development](https://blog.weareopen.coop/steps-to-success-when-building-a-community-of-practice-15bd7ed9ac5c) Doug Belshaw, WeAreOpenCoop
-
-This post outlines different types of work that needs to take place when planning, sustaining, and developing a Community of Practice. It is informed by work that [WAO](https://weareopen.coop/) have carried out with [Participate](https://participate.com/) around the [Keep Badges Weird](https://badges.community/) community over the last 10 months.
-
-* [2022 Executive Council nominations now open](https://digitalidentity.nz/2022/10/06/executive-council-nominations-now-open/) Digital Identity NZ
-
-In December 2019, members elected the first Digital Identity NZ Executive Council. The Council is the governing group for the association; providing guidance and direction as we navigate the developing world of digital identity in Aotearoa. Each Council member is elected for a two-year term, with elections held annually and results notified at the Annual Meeting in December. So, as we approach the end of the year it is time for us to call for nominations for the Council seats coming up for re-election.
-
 * [How to get a vLEI Credential](https://www.ubisecure.com/legal-entity-identifier-lei/how-to-get-a-vlei-credential/) Simon Wood, UbiSecure
 
 The first step in issuance is for a representative to enter a contractual agreement with a QVI to provide the issuance service. The individual from the legal entity that undertakes this contractual signup is known as the Designated Authorised Representative (DAR) [...]
@@ -642,16 +426,25 @@ The first step in issuance is for a representative to enter a contractual agreem
 As per the LE-vLEI description the above is simplified. The full OOR-vLEIs issuance process is detailed in the [Ecosystem Governance Framework vLEI Credential Governance Framework Legal Entity Official Organizational Role](https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2022-02-07_legal-entity-vlei-credential-gf-draft-publication_v0.9-draft.pdf)
 
 
-## W3C
+## WeAreOpen
 
-## W3C
 
-* [does the CCG have any thoughts about possible changes to W3C itself?](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0067.html)  Daniel Hardman (Saturday, 9 April)
+* [Keep Badges Weird: helping people understand the badges landscape](https://blog.weareopen.coop/keep-badges-weird-helping-people-understand-the-badges-landscape-79cc8cf7281) Doug Belshaw, We Are Open Co-op
 
-This major organizational overhaul to the W3C is also happening at a time of unprecedented activity and change for the internet. Will the web support crypto and Web3 industry proposals? How will the web support advertising? What should be the baseline web browser security standards?
+Open Recognition is the awareness and appreciation of talents, skills and aspirations in ways that go beyond credentialing. This includes recognising the rights of individuals, communities, and territories to apply their own labels and definitions. Their frameworks may be emergent and/or implicit.” ([What is Open Recognition, anyway?](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629)
+* [Quick wins to improve your Open Source community’s Architecture of Participation](https://blog.weareopen.coop/quick-wins-to-improve-your-open-source-communitys-architecture-of-participation-9d0e6c8d60fe) WeAreOpenCoop
 
-* [Announcement: W3C to become a public-interest non-profit organization](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0063.html)  Kimberly Wilson Linson (Tuesday, 28 June)
+Sociocracy is a system of governance that seeks to create psychologically safe environments and productive organizations. It draws on the use of consent, rather than majority voting, in discussion and decision-making by people who have a shared goal or work process.
+* [Emergent community building](https://blog.weareopen.coop/emergent-community-building-a35f9431d8a) WeAreOpenCoop
+  > Last week, we ran the first Keep Badges Weird community call
 
-* [W3C to become a public-interest non-profit organization](https://www.w3.org/2022/06/pressrelease-w3c-le.html.en)
-
-"We designed the W3C legal entity in a way that keeps our core unchanged," said Dr. Jeff Jaffe, W3C CEO. "Our values-driven work remains anchored in the royalty-free W3C Patent Policy, and the W3C Process Document where we enshrined dedication to security, privacy, internationalization and web accessibility. W3C and its Members will continue to play a fundamental role in making the web work for billions of people."
+* [How to Unf*ck Your Organisation: Organisational strategy and architecture for n00bs](https://blog.weareopen.coop/how-to-unf-ck-your-organisation-b73851dbeba5) WeAreOpenCoop
+  > We’ve put together an [email-based course](https://learnwith.weareopen.coop/courses/org-strategy/) to help forward-thinking people in senior roles who might need a bit of help and orientation. We’ve broken things down into actionable steps based on the resources found at our Learn with WAO site, giving you enough direction and inspiration to get started transforming your organisation for the better!
+* [Steps to Success when building a Community of Practice: Convening systems for maturity and development](https://blog.weareopen.coop/steps-to-success-when-building-a-community-of-practice-15bd7ed9ac5c) Doug Belshaw, WeAreOpenCoop
+  > This post outlines different types of work that needs to take place when planning, sustaining, and developing a Community of Practice. It is informed by work that [WAO](https://weareopen.coop/) have carried out with [Participate](https://participate.com/) around the [Keep Badges Weird]-(https://badges.community/) community over the last 10 months.
+* [Good things happen slowly, bad things happen fast](https://blog.weareopen.coop/good-things-happen-slowly-bad-things-happen-fast-2fd894cbd4df) We Are Open Co-op
+  > Some organisations were experimenting with digital badges before 2011, but these were siloed and easy to right-click and copy. The ‘technology trigger’, the innovation with Open Badges, was to invent and make available an open metadata standard.
+* [WTF are ‘Stealth Badges’?: The case of the O.G. Badger](https://blog.weareopen.coop/wtf-are-stealth-badges-41130a75a1a9) We are Open Coop
+  > This information means that this particular badge, which is manually issued, can be given out in fair and equitable ways. It also means that someone else who engaged with the Open Badges community before 2017 could lay claim to it.
+  > 
+  > Stealth badges at scale require an automated system that issues badges depending on particular criteria. This is why they are very common in games-based environments. For example, I unlock some most weeks playing new and existing games on my PlayStation and Google Stadia.

@@ -113,3 +113,5 @@ Work Item within DIF right now - envelope format with some other opinions we may
 - Aries RFCs for payloads that go in JWE envelopes.
 - Send envelopes over HTTP as a starting point
 
+Michale Herman [is excited](https://twitter.com/mwherman2000/status/1511550968617263114) about the new  #VCA (Verifiable Credential Authorization) using the new #VCTPS (Secure Verifiable Credential Transport Protocol) over #DIDCOMM
+

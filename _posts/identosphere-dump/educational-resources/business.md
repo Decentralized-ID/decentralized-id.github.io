@@ -120,9 +120,6 @@ There’s an economic theory here: Free customers are more valuable than captive
 
 We’d get the startup founders to figure out the biggest assumptions they were making across user risk (do people want this?), business risk (can this be the center of a viable business?), and feasibility risk (can we build this in a scalable way with the time, team, and resources potentially at our disposal?). And then we’d ask them to go out and figure out how to de-risk those assumptions in the real world, usually by talking to experts and asking smart questions.
 
-* [View From The Field, Riley Hughes](https://www.youtube.com/watch?v%3Dz3H40QAEJnw%26t%3D2s) Trust Over IP Foundation
-
-Perspectives on the business problems being addressed by ToIP-aligned solutions. Primary research performed by Trinsic to get to the core issues getting in the way of scaling adoption of trust solutions. Riley presents his results and offers perspectives on how to overcome the various challenges.
 
 * [Working Spaces Are Ecosystems Too!](https://www.youtube.com/watch?v%3DMfBoUDNcyW4) Autumn Watkinson - Trust over IP Foundation
 
@@ -192,9 +189,6 @@ Identiverse follow-up
 The common law system countries (AU, CA, NZ, UK & US) left the market to work out identity, and the market “decided” that there’s no need for IdPs. Let us respect that decision. The market has been trying to tell us for over a decade: IDENTITY IS NOT FOR SALE!
 
 
-* [Does “data monetisation” lead towards more fairness, sustainability, and prosperity for all?](https://www.mydata.org/2022/07/13/data-monetisation/) MyData
-
-As this is a complex and often polarising issue, it must be discussed with patience, diligence, and determination. MyData Global has not yet reached a position on the topic. In this piece, we share our considerations and questions, and hope to inspire you to join this important deliberation.
 
 * [Subscriptification](https://blogs.harvard.edu/doc/2022/07/15/subscriptification/) Doc Searls
 
