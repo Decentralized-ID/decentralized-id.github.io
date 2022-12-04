@@ -79,10 +79,6 @@ The Sovrin Foundation (Chris Raczkowski and Drummond Reed) explains some recent 
 
 At its Ignite conference today, Microsoft announced that it will launch a public preview of its “Azure Active Directory verifiable credentials” this spring.
 
-* [IATA app (by Evernym) makes CNN Travel](https://www.cnn.com/travel/article/iata-travel-pass/index.html)
-
-"Governments decide the requirements to travel; airlines and passengers need to comply," says the IATA on its website, emphasizing that the airline body is not itself mandating that passengers must have a Covid-19 vaccine in order to travel.
-
 * [The Shape of your Identity](https://stateofidentity.libsyn.com/the-shape-of-your-identity) State of Identity Podcast
 
 How are personal data and digital identity reshaping society? [...] Cameron D'Ambrosi is joined by Michael Becker, CEO of Identity Praxis, to discuss the evolution of the identity industry, the latest trends to follow (or flee), and predictions for the future of both consumer and enterprise digital identity.

@@ -8,8 +8,6 @@ Today is an huge milestone for ForgeRock. We are becoming a public company, with
 
 # Companies
 
-* [Ping vs. Okta: Top 3 Indicators That You’ll Get the Customer Satisfaction You Deserve](https://www.pingidentity.com/en/company/blog/posts/2021/okta-vs-ping-cs.html)
-  > Some companies, like Ping, focus on being a long-term partner and are interested in understanding your identity and access management (IAM) challenges and implementing solutions to help improve your IAM journey. Others, like Okta, are interested in the short-term sale and may not always be there for you after the deal.
 * [Indicio expands workshops and introduces a new certification program](https://indicio.tech/blog/indicio-expands-decentralized-identity-workshops-and-introduces-new-certification-program/)
 
 Looking to get up to speed in decentralized digital identity and verifiable credentials? Our custom trainings and workshops are designed to provide key insights into fundamental use cases, dive deep into the impact of the technology, and offer both technical and nontechnical audiences the opportunity to ask the questions they need to continue their education in decentralized identity. Because nothing beats learning by doing.
@@ -28,15 +26,7 @@ Looking to get up to speed in decentralized digital identity and verifiable cred
 
 These two international organizations are combining their talents to deliver SSI (self-sovereign identity) and Verifiable Credentials for the ARUCC [MyCreds™](https://mycreds.ca/) virtual wallet. This groundbreaking work means the Canadian [MyCreds™](https://mycreds.ca/) credential wallet along with other international members of the Digitary global network will be able to reach an even higher bar of service delivery for mobile learners, creating a triangle of trust that includes them and the Canadian colleges and universities.
 
-* [Spruce Developer Update #8](https://sprucesystems.medium.com/spruce-developer-update-8-70f04e95a5d4)
-  > - “We are currently working on a project that will enable creator authenticity for digital assets including NFTs.”
-  > - “focused on advancing did-tezos as the first formally verified DID Method.”
-  > - DIDKit Updates
-  > - Credible Updates
-* [Introduction to the future of identity - DIDs & VCs](https://www.xtseminars.co.uk/post/introduction-to-the-future-of-identity-dids-vcs)
-  > In this blog, I want to start by thinking about identity in general and then explaining Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs). I will show you how you can issue your own DIDs and VCs using the new Microsoft service in future blogs. This series' final blog will look at how DIDs can be anchoPred in decentralized transaction ledgers using ION and the Bitcoin blockchain.
-* [Introducing Trinsic Ecosystems](https://trinsic.id/introducing-trinsic-ecosystems/)
-  > Once an ecosystem is configured, providers need to onboard participants like issuers and verifiers. Trinsic Ecosystems comes with an API that’s extremely easy for any issuer or verifier to integrate and can be white-labeled with the name of the provider. In addition to the API, ecosystem participants can use the Trinsic Studio, a white-labeled web dashboard.* [Dock To Release Verifiable Credentials API](https://blog.dock.io/dock-to-release-verifiable-credentials-api/)
+* [Dock To Release Verifiable Credentials API](https://blog.dock.io/dock-to-release-verifiable-credentials-api/)
   > In Dock’s case, partners are looking to access blockchain solutions for the creation of decentralized identities and the issuance and management of verifiable credentials.
   > 
   > These development teams can of course spend time learning new concepts, but learning curves can be a barrier to adoption whereas fast and less complex integrations are certainly preferred by organizations. For these reasons, Dock is going to be making some of the network’s features available via an API, which is in effect a HTTP wrapper of our [SDK](https://github.com/docknetwork/sdk).
@@ -47,17 +37,6 @@ For Engineers Australia, Paul covered three big questions:
 1. WHY we created [Anonyome Labs](https://anonyome.com/about/)
 2. HOW we can solve the [global data privacy crisis](https://mysudo.com/2020/12/how-bad-is-the-global-data-privacy-crisis/)
 3. WHAT we’ve built.
-* [Trinsic Year in Review 2020](https://trinsic.id/trinsic-in-2020-a-year-in-review/)
-
-Lots of good things happened!
-
-- Helped start the [COVID-19 Credentials Initiative](https://www.covidcreds.com/) and has since worked with dozens of developers and organizations COVID-19 related SSI solutions:
-    - [MedCreds: Reducing the Risk of Returning to Work](https://trinsic.id/medcreds/)
-    - [Decreased Unemployment Among African Youth Using Verifiable Credentials](https://trinsic.id/decreasing-unemployment-verifiable-credentials/)
-    - [Verifiable Credentials and Smart Contracts for COVID-19 Data Management](https://trinsic.id/verifiable-credentials-and-smart-contracts-for-covid19-data-management/)
-- [Raised pre-seed funding](https://trinsic.id/streetcred-id-rebrands-to-trinsic-raises-pre-seed-funding/) and [rebranded](https://trinsic.id/introducing-trinsic/) from Streetcred ID to Trinsic, becoming the first investment of [Kickstart Seed Fund $110 million fund](https://www.globenewswire.com/news-release/2020/04/29/2024148/0/en/Kickstart-Seed-Fund-Announces-the-Close-of-110-Million-Fund-V.html).
-- [Partnered with Zapier to Bring SSI to 2000+ Applications](https://trinsic.id/trinsic-and-zapier-partner/)
-- [Joined Trust over IP Foundation as Founding Member](https://trinsic.id/streetcred-id-joins-trust-over-ip-foundation-as-founding-member/)
 * [Digital identity in the UK in 2021 with TrueProfile.io’s René Seifert](https://www.ubisecure.com/podcast/digital-identity-uk-2021-ssi-trueprofile-rene-seifert/)
 
 “I think it’s interesting if we overlay this utopia of a self-sovereign identity that sounds maybe like science fiction today, and where these UK digital initiatives are geared, and my best guess is we can and will land somewhere in the middle.”
@@ -86,9 +65,6 @@ Our #IAM #VendorManagement database just exceeded the 100 entries threshold! 
 * [Meeco announced as Finnies 2021 finalist](https://blog.meeco.me/meeco-announced-as-finnies-2021-finalist/)
 
 Meeco’s submission results from our work in collaboration with with [eftpos](https://www.eftposaustralia.com.au) and [Hedera Hashgraph](https://hedera.com/). The Australian payments giant eftpos recently announced joining the Hedera Governing Council after successfully conducting tests to determine the [feasibility of a digital Australian dollar stablecoin for micropayments](https://www.finextra.com/newsarticle/37360/australias-eftpos-to-set-up-hedera-hashgraph-node-for-micropayments). Meeco plays an important part in this world-leading initiative as the wallet provider for the proof-of-technology.
-* [Introducing the Evernym Mobile SDK](https://www.evernym.com/blog/evernym-mobile-sdk/)
-
-Today’s release was made possible with the help of many of our incredible customers who have participated in the product’s beta. It’s through your feedback that we’ve been able to iterate, refine, and ultimately launch a product that will help make self-sovereign identity more accessible to all.
 * [Anonyome Labs Listed in IAPP Privacy Tech Vendor Report 2021](https://anonyome.com/2021/06/anonyome-labs-listed-in-iapp-privacy-tech-vendor-report-2021/)
   > Anonyome Labs joins 355 other qualified organizations in the 2021 compendium of privacy tech vendors. This is a significant increase from the 44 vendors listed in the inaugural report in 2017. The number of priv tech categories is also higher in 2021: now 11 categories split across two groups — Privacy program management and Enterprise privacy management.
 * [Wider’s High Assurance Digital Identity Maturity Model](https://wider.team/2021/06/20/widers-high-assurance-digital-identity-maturity-model/) Wider Team
@@ -107,8 +83,6 @@ Meeco’s inception, its work so far and recent growth. Some of the the exciting
   > - Security for identity
   > - Rules and standards
   > - Operational considerations
-* [Announcing Trinsic’s Largest Platform Update Ever](https://trinsic.id/announcing-trinsics-largest-platform-update-ever/) Trinsic
-  > The next version of the Trinsic platform is 10x as accessible, 100x more performant, and 1,000x more scalable. And it is available now.
 * [Tru.net](https://www.tru.net/) is live and ready for communities/users
   > If you are looking for an alternative to Facebook that uses DIDs as its foundation and other protocols that are free to use ([JLINC](https://www.jlinc.com/) Kaliya highly recommend Tru.net
 * [cheqd is launching a self-sovereign identity network on Cosmos this year](https://blog.cheqd.io/verim-is-launching-a-self-sovereign-identity-network-on-cosmos-in-2021-8949e68b2ef8)
@@ -157,12 +131,6 @@ PUBLISHiD users will further be able to assemble collections of verifiable crede
 
 Veridium is encouraging more organizations to embrace contactless fingerprint technologies, especially now that the NIST has laid out comprehensive guidelines for those interested in doing so.
 
-* [Verity Flow: Evernym's no-code solution for issuing and verifying digital credentials](https://www.youtube.com/watch?v%3DNafQcqiyCJY) Evernym
-
-* [Verifying credentials using Verity Flow](https://www.youtube.com/watch?v%3D9d2QMzw4bxY)
-
-* [Creating a new verification flow in Verity Flow](https://www.youtube.com/watch?v%3DVYuoi_LMxiA)
-
 * [The future of COVID credentials on GlobaliD](https://medium.com/global-id/the-future-of-covid-credentials-on-globalid-7a19a882cf90)
 
 With our new platform, we’ll also be releasing a brand new COVID credential. Users will be able to validate the authenticity of their digital vaccine record from around the world and store the proof of the validation as a credential in their GlobaliD app.
@@ -187,15 +155,6 @@ This article provides an overview of our [Terms of Use](https://www.affinidi.co
 * [Node Operator Spotlight: IdRamp](https://indicio.tech/node-operator-spotlight-idramp/) Indicio
 
 Recently we caught up with Karl Kneis, COO of IdRamp, and Eric Vinton, Chief Business Officer of IdRamp, one of the first companies to become an Indicio Node Operator, to discuss their current projects, some goals for the future, and where they think decentralized identity is heading.
-
-* Evernym: [September 2021 Release Notes](https://www.evernym.com/blog/september-2021-release-notes/)
-
-The most important changes are:
-
-- A fee will be charged on a regular basis to remain an endorser on either MainNet or StagingNet.
-- In addition to the endorser fee, write fees will now be charged for transactions on Sovrin StagingNet in a similar fashion to the existing fees on Sovrin MainNet.
-- The current [Sovrin Self Serve website](https://selfserve.sovrin.org/) will stop being used to become an endorser on StagingNet, and instead endorsers will be charged a fee after registering.
-
 * [Talking tech and discussing data on the ‘Tech-Entrepreneur-on-a-Mission’ Podcast](https://blog.digi.me/2021/10/06/talking-tech-and-discussing-data-on-the-tech-entrepreneur-on-a-mission-podcast/) Digi.Me
 
 Julian describes digi.me’s mission of empowering people with their personal data, as individuals know where all their data is, while they also have “a right for that data”. By having that knowledge and ownership, only individuals have “unlimited usage rights” to unlock the potential data has to be a force for good.
@@ -210,8 +169,13 @@ as part of our commitment to [Reimagining Capitalism](https://omidyar.com/wp-con
 * [XSL Labs: Your Data Belongs to You](https://www.xsl-labs.io/whitepaper/white_paper_en.pdf)
 
 The SDI technology constitutes a very important example of decentralized counter-power to the web giants. The SDI maintains to keep the practicality of a unique identifier while guaranteeing the security of the data and the user's sovereignty over it.
+* [EU digital sovereignty project Gaia-X hands out ID tech contracts](https://www.theregister.com/2022/02/04/gaia_x_ssi/)
+
 
 * [Building towards a decentralized European Data Economy: A Minimal Viable Gaia-X (MVG)](https://blog.oceanprotocol.com/building-towards-a-decentralized-european-data-economy-a-minimal-viable-gaia-x-mvg-powered-by-43a853101d) Ocean Protocol
+
+* [https://www.gaia-x.eu/pdf/Gaia-X_Architecture_Document_2103.pdf](https://www.gaia-x.eu/pdf/Gaia-X_Architecture_Document_2103.pdf)
+
 
 Gaia-X is the cradle of an open, transparent, decentralized digital ecosystem, where data and services can be made available, collated, shared, and monetized in an environment of trust. [More than 300 organizations](https://www.gaia-x.eu/members) and over 2500 contributors are already supporting Gaia-X.
 
@@ -227,9 +191,8 @@ Identity has been a contentious point for humanity ever since we evolved societi
 
 Each of the capabilities of the Sudo Platform is attached to a persona. This includes masked email and masked credit cards, private telephony, private and compartmentalized browsing (with ad/tracker blocker and site reputation), VPN, password management, decentralized identity and more.
 
-* [Okta + Auth0 Showcase 2021: Identity for All](https://auth0.com/blog/okta-auth0-showcase-2021-identity-for-all/)
 
-Together, Okta and Auth0 are reimagining identity’s role in every organization’s technology strategy. Cloud, mobile, and Bring Your Own Device (BYOD) have transformed the dynamics of the digital world over the past decade. At the same time, IT is struggling to keep up with all of these changes, and developers are more burdened than ever to build more applications quickly and without sacrificing security and user experience.
+
 
 * [Auth0 Identity Platform Now Available on Microsoft Azure](https://auth0.com/blog/auth0-identity-platform-now-available-on-microsoft-azure/)
 
@@ -249,14 +212,6 @@ X-Road and distributed ledgers are both based on decentralized architecture. Dis
 * [PUBLISH pitches world’s first decentralized identity solution for journalists to International Federation of Journalists](https://medium.com/publishprotocol/publish-pitches-worlds-first-decentralized-identity-solution-for-journalists-to-international-abaaad0362a5)
 
 PUBLISH CEO Sonny Kwon gave an overview of a press ID app PUBLISH is building in collaboration with the Journalists Association of Korea (JAK). He explained that the mobile application, which leverages decentralized identity (DID) technology to manage press credentials, would help the JAK combat misinformation and reduce administrative costs associated with its current press credentialing process.
-
-* [Evernym: October 2021 Release Notes](https://www.evernym.com/blog/october-2021-release-notes/)
-
-- [A new document verification feature in Connect.Me and our Mobile SDK](https://www.evernym.com/blog/october-2021-release-notes/%23IDV)
-- [A new demo site to learn about self-sovereign identity and verifiable credentials](https://www.evernym.com/blog/october-2021-release-notes/%23tryconnectme)
-- [Custom credential types in Verity Flow](https://www.evernym.com/blog/october-2021-release-notes/%23vflow)
-- [Updated recommendation for securing Verity Webhooks](https://www.evernym.com/blog/october-2021-release-notes/%23webhooks)
-- [A roundup of other updates, including the cheqd network and VDR Tools](https://www.evernym.com/blog/october-2021-release-notes/%23misc)
 
 * [Singapore Fintech Festival…Here We [Affinidi] Come!](https://academy.affinidi.com/singapore-fintech-festival-here-we-come-d8ffb59bc1cf)
 
@@ -298,26 +253,6 @@ This new service offers password elimination, identity proofing, and orchestrati
 * [Liquid Avatar Technologies and Bonifii Make VCs Accessible for People and Financial Institutions in the Metaverse](https://bonifii.com/2021/11/liquid-avatar-technologies-and-bonifii-make-verifiable-credentials-accessible-for-people-and-financial-institutions-in-the-metaverse/) Bonifii
 
 “The metaverse and Web 3.0 are here, and we are building the infrastructure to manage how we’re going to live, work, and play in the intersection of the real and the digital,” said Heather Dahl, CEO of Indico. “Bonifii and Liquid Avatar get it, they’re on it and we’re excited to help them realize their vision.“
-## Evernym joins Avast​
-
-* [Joining Forces with Avast](https://www.evernym.com/blog/joining-forces-with-avast/) Evernym
-
-Joining forces with Avast represents the next step of our journey and an opportunity to bring the privacy, security, and trust benefits of decentralized identity to the entire world.
-
-* [Avast to acquire Evernym](https://newsnreleases.com/2021/12/09/avast-to-acquire-evernym/) NewsNReleases \ Avast
-
-Adding Evernym’s groundbreaking self-sovereign identity technology to our offering enables us to address this area and is a huge step forward in the realization of a digital world where decentralized, portable identities are available universally and globally.
-
-* [Avast to Acquire Evernym: Consumer Cybersecurity Meets Decentralized Identity](https://www.kuppingercole.com/blog/bailey/avast-to-acquire-evernym-consumer-cybersecurity-meets-decentralized-identity) KuppingerCole
-
-Avast’s product suite ranges from VPNs, antivirus, anti-tracking, monitoring of personal information potentially affected by data breaches, and so on. Evernym enables user-centric identity, where the individual user holds, controls, and shares their identity data in a privacy-preserving way.
-
-* [Czech firm Avast acquiring self-sovereign identity pioneer Evernym](https://english.radio.cz/czech-firm-avast-acquiring-self-sovereign-identity-pioneer-evernym-8736279) Radio Pague International
-
-Our vision for digital freedom is to enable people to manage and retain control over their personal data so that they can interact and transact safely, privately and with confidence. Decentralized digital identities are a key component of that vision
-* [The Future of Digital Identity in Canada: Self-Sovereign Identity (SSI) and Verified.Me](https://securekey.com/the-future-of-digital-identity-in-canada-self-sovereign-identity-ssi-and-verified-me/)
-
-We are thrilled that the academic journal [Frontiers in Blockchain](https://www.frontiersin.org/journals/blockchain) accepted our community case study, “[Decentralized, Self-Sovereign, Consortium: The Future of Digital Identity in Canada](https://www.frontiersin.org/articles/10.3389/fbloc.2021.624258/full).” This peer-reviewed article focuses on the benefits of self-sovereign identity (SSI) with blockchain and Verified.Me as an example of these concepts being effectively implemented to create a cohesive, secure service and digital identity network.
 
 * [The First No Code Solution for Trusted Decentralized Digital Identity SSI on Redundant Blockchains](https://www.prnewswire.com/news-releases/entrustient-launches-the-first-no-code-solution-for-trusted-decentralized-digital-identity-using-self-sovereign-identity-on-redundant-blockchains-301436112.html) Entrustient
 
@@ -326,8 +261,6 @@ We are thrilled that the academic journal [Frontiers in Blockchain](https://www.
 * [Talao, the brand new Self-Sovereign Identity Wallet](https://www.mcryptoz.com/blockchain-news/talao-the-new-self-sovereign-identity-wallet-gives-consumers-control-over-their-personal-digital-data-blockchain-news-opinion-tv-and-jobs.html) MCryptoZ
 
 Blockchain-based Digital Identity specialist Talao, a Paris-based startup which focuses on Self-Sovereign Identity options and blockchain-based options is the developer of the primary French smartphone pockets for Self-Sovereign Identity. The firm simply introduced the provision of its new id pockets for all cellular customers in Europe.
-
-* [Avast To Acquire U.S.-based Self-sovereign Identity Pioneer Evernym](http://nasdaq.com/articles/avast-to-acquire-u.s.-based-self-sovereign-identity-pioneer-evernym) Nasdaq
 
 * [Talao SSI wallet now available on Apple AppStore and Google Play](https://medium.com/@talao_io/talao-ssi-wallet-now-available-on-apple-appstore-and-google-play-1435b4a01b1c)
 
@@ -458,11 +391,6 @@ This is an interesting announcement with two companies partnering together to cr
 * [GlobalID Introduces Trustees for Key Recovery](https://medium.com/global-id/introducing-globalid-trustees-account-recovery-without-a-private-key-66142a21cba6)
   > Trustees can be friends or family members from your contact list. Once selected, each Trustee is granted a shard of your private key. Restoring your lost Identity requires approval from the majority of your Trustees.
 
-* [Trinsic Releases Studio 2.0](https://trinsic.id/trinsic-releases-trinsic-studio-2-0/)
-
-2.0 comes with a simplified pricing model based on credential exchange, that is credentials issued, and credentials verified. Subscription plans starting at Free: 50 Credential exchanges a month, Developer $18/month: 100 credential exchanges, and Production $112/month: 500 credential exchanges.
-* [Trinsic Community Slack](https://join.slack.com/t/trinsiccommunity/shared_invite/zt-liwrvejk-dXC3uwYL6CCP~~RNIzc7sg)
-  > As Trinsic has grown in popularity among the SSI developer community, several Trinsic User Groups have started organically. While we encourage this, we also want to give these communities an official home. That’s why we’ve created a Slack workspace just for the Trinsic community.
 * [Meeco Terms & Conditions Update - Feedback Welcome](https://blog.meeco.me/meeco-terms-conditions-update-feedback-welcome/).
   > Over the next fourteen days, we would love your feedback or questions on any of the changes.
 * [IdRamp partners with the Lifelong Learner Project to win the ACE Blockchain Innovation Challenge](https://idramp.com/idramp-partners-with-the-lifelong-learner-project-to-win-the-ace-blockchain-innovation-challenge/)
@@ -475,20 +403,9 @@ This is an interesting announcement with two companies partnering together to cr
 * [IDWorks turned to Tarmac to help accelerate their mobile app and backend development](https://www.tarmac.io/case-study/idworks.html)
   > Having decided to build their "Envoy" solution on the R3 Corda platform, ﬁnding affordable development resources with the right technical skills was proving difﬁcult. Corda certiﬁed developers are extremely thin-on-the-ground and if you ﬁnd a qualiﬁed engineer, they can be difﬁcult and costly to recruit
 
-* [Company Culture & Trinsineers](https://trinsic.id/on-company-culture-trinsineers/)
-  > Trinsineers are people who’ve agreed to take the journey to make the world more accessible to people everywhere. We’re a team of people who happen to be working together inside a legal entity called Trinsic. This journey is not a casual stroll, but an expedition. As Trinsineers, we’re developing a culture that is not only helping us accomplish our goals but bringing fulfillment and enjoyment along the way.
-
-* [How to Create Connections in Trinsic Studio](https://trinsic.id/how-to-create-connections-in-trinsic-studio/)
-  > In this blog post, we will explain how to create connections in Trinsic Studio. Throughout the steps below, we will be referring to a fictitious person, Alice Smith, who is a recent graduate of Faber College and is applying for a job. Alice has already received her digital diploma in the form of a verifiable credential and is wanting to apply to work for a company called ACME Corp. In order to start the online job application, Alice must first make a connection with ACME Corp.
-
 * [Meeco announces VELA Solutions partnership](https://www.meeco.me/blog/meeco-announces-vela-solutions-partnership)
   > Together, Meeco and VELA have created a secure digital credentialing platform to help individuals and businesses adapt to the changing work environment and modernise their HR practices.
 
-### Trinsic
-
-* [Trinsic partners with Zapier to bring SSI to 2000+ applications](https://trinsic.id/trinsic-and-zapier-partner/). Including MedCreds which is part of the Covid Credentials Initiative.
-
-### Microsoft
 
 * [Building digital resilience](https://www.youtube.com/watch?v=XvZ7_TxFxj0) Microsoft CEO Satya Nadella
     > touches on a pilot around Verifiable Credentials for Veterans and letting them post them to their LinkedIn profiles.
@@ -509,27 +426,13 @@ This is an interesting announcement with two companies partnering together to cr
 
 * [Civic Secure Identity Users: Say Hello to Civic Wallet](https://www.civic.com/blog/civic-secure-identity-is-now-civic-wallet/) just this week they released a new wallet. 
 
-### Evernym
-
-* [Evernym Commits to Open Source](https://www.evernym.com/blog/evernym-commits-to-open-source/) “we’re doubling down on our commitment to open source by making the source code available for our commercial products with a binding commitment that they will be open source in three years”. They are using a [Business Source License](https://perens.com/2017/02/14/bsl-1-1/), which has some commercial restrictions, that eventually give way to open use. [Evernym Joins with Other Solution Providers to Achieve Interoperability Milestone](https://www.evernym.com/blog/evernym-joins-with-other-solution-providers-to-achieve-interoperability-milestone/) “including connecting between decentralized identifiers (DIDs), issuing credentials, and fulfilling proofs.”
-
-- Evernym’s [Verity](https://www.evernym.com/products/?#verity) is issuing to: [Trinsic Wallet](https://trinsic.id/trinsic-wallet/), [IBM Verify App](http://doc.ibmsecurity.verify-creds.com/whats_new/), [Lissi](https://play.google.com/store/apps/details?id=io.lissi.mobile) by Main Incubator, and [esatus Wallet](https://self-ssi.com/en/?#walletc).
-- Evernym’s [Connect.Me](https://www.evernym.com/products/?#connectme) holding credentials issued from or proving to: [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python), [Trinsic](https://trinsic.id/powerful-apis/), [IBM Security Verify](http://doc.ibmsecurity.verify-creds.com/whats_new/), [idRamp Passport](https://play.google.com/store/apps/details?id=com.idramp.passport&hl=en_US), [esatus SeLF](https://self-ssi.com/en).
 
 ### Gluu
 
 * [Gluu vs. Keycloak](https://www.gluu.org/blog/gluu-vs-keycloak/) Mike Swartz talks about the difference between his product Gluu and Keycloak, which he describes as a less stable project that shouldn’t be used in production environments.
 
-## Old School Identity 
-Otaka: [How to Authenticate with SAML in ASP.NET Core and C#](https://developer.okta.com/blog/2020/10/23/how-to-authenticate-with-saml-in-aspnet-core-and-csharp)
-
 Forgerock: [IAM 101 Series: What Are Directory Services?](https://www.forgerock.com/blog/iam-101-series-what-are-directory-services)
 
-## How to Issue Credentials in Trinsic Studio
-
-Trinsic has released some [tools to issue verifiable credentials](https://trinsic.id/how-to-issue-credentials-in-trinsic-studio/).
-
-> All verifiable credentials come from credential templates. These templates specify what information should be included in a credential. Faber College would most likely want the credential template of its digital diplomas to include a graduate’s first and last name, what they got their degree in, what year they graduated, and thier GPA. Let’s begin!
 * [The Lissi Wallet is now available in 12 languages!](https://lissi-id.medium.com/the-lissi-wallet-is-now-available-in-12-languages-f88e56b04e19)
 
 Lanugauges supported: Arabic • English • French • German • Italian • Korean • Polish • Portuguese • Russian • Romanian • Spanish • Turkish
@@ -548,35 +451,6 @@ Lanugauges supported: Arabic • English • French • German • Italian • K
   > 
   > One of the most exciting benefits of ShareRing’s integration with BSN’s global ecosystem is how effortless it will be for companies to incorporate our products and services without requiring ShareRing’s assistance with development and integration.
 
-## Big News this week Outh0 was acquired by Okta!
-* [Okta + Auth0: Powering Identity for the Internet](https://www.okta.com/blog/2021/03/okta-auth0-powering-identity-for-the-internet/)
-
-Today, we're taking a significant step forward — I'd go so far to call it a "leap" — to enhance the Okta Identity Cloud. We announced our agreement to join forces with Auth0, a leading identity platform for developers.
-
-* [Okta Signs Definitive Agreement to Acquire Auth0](https://auth0.com/blog/okta-auth0-announcement/)
-
-Auth0 will operate as an independent unit inside of Okta, and both platforms will be supported and invested in. As a result, organizations will have a wider breadth of identity solutions to fit their unique needs. Okta and Auth0’s comprehensive, complementary identity platforms are robust enough to serve the world’s largest organizations and flexible enough to address every identity use case, regardless of the audience or user.
-
-### Kuppinger Cole Comment: [Okta & Auth0](https://www.kuppingercole.com/blog/tolbert/okta-auth0)
-
-Here are the strengths each has:
-
-![https://www.notion.soimages/image1.png](https://www.notion.soimages/image1.png)
-
-* [Why developer-first IAM ? And why Okta’s Auth0 acquisition matters?](https://medium.facilelogin.com/why-developer-first-iam-and-why-oktas-auth0-acquisition-matters-9fff3dde81) Prabath Siriwardena
-
-Like Microsoft’s acquisition of GitHub for $7.5B in 2018, Okta’s acquisition of Auth0 for $6.5B is a win for developers!
-
-### Auth0: [Our Commitment to You, Developers](https://auth0.com/blog/our-commitment-to-you-developers/)
-
-Your Auth0 implementation will continue to receive the same support and services you have come to expect
-
-* [Auth0 Names Jameeka Green Aaron as Chief Information Security Officer](https://auth0.com/blog/auth0-names-jameeka-green-aaron-as-chief-information-security-officer/)
-
-Leadership change announced before acquisition
-
-“In addition to the amazing roster of customers that puts their trust in Auth0 and fuels its growth, I was very much struck by the humanity of everyone I met with—a level of empathy that has been a rarity throughout my career,” said Aaron
-
 * [Privatyze collaborates with Indicio to build a decentralized data marketplace](https://indicio.tech/privatyze-collaborates-with-indicio-to-build-a-decentralized-data-marketplace/) Indicio
 
 “In a data-driven economy, we need a marketplace for data that’s inclusive and not exploitative,” said Heather Dahl, CEO of Indicio. “That means that participants can meaningfully consent to data transactions and do so in a way that enables zero-trust security. This just isn’t possible without decentralized solutions, and we are excited to work with Privatyze on building this solution.
@@ -590,8 +464,6 @@ Acquisition of the Week
 * [Media Mention: MIT Technology Review](https://identitywoman.net/media-mention-mit-technology-review/) Kaliya Young
 
 I was quoted in the article in MIT Technology Review on April 6, 2022, “Deception, exploited workers, and cash handouts: How Worldcoin recruited its first half a million test users.”
-* [Demo: Verifiable Credential Exchange with Trinsic v2](https://www.youtube.com/watch?v%3DUanvvjW9i0c)
-
 * [Introducing PRIVATE](https://medium.com/global-id/introducing-private-65fce62c6a8e) Calvin Burrows GlobalID
 
 PRIVATE is a new technical framework developed in collaboration with AnChain.AI that carves out a path toward regulatory compliance for non-custodial wallets while preserving user privacy. (PRIVATE stands for Privacy Preservation through Resolution of Identity via Verification and Attestation for Travel Rule CompliancE)
@@ -630,9 +502,6 @@ SpruceID’s $34M Raise
 
 With the new funding, Spruce will spearhead research in cutting-edge privacy and usability technology for identity, grow its product teams, and continue to execute on partnerships across the ecosystem.
 
-* [Founders in Focus: Wayne Chang of Spruce](https://www.marketscreener.com/quote/stock/OKTA-INC-34515216/news/Founders-in-Focus-Wayne-Chang-of-Spruce-40101309/) Market Screener
-
-Each month we highlight one of the founders of Okta Ventures' portfolio companies. You'll get to know more about them and learn how they work with Okta.
 
 * [Decentralized Identity Startup Spruce Wants to Help Users Control their Sign-In Data](https://techcrunch.com/2022/04/20/decentralized-identity-startup-spruce-wants-to-help-users-control-their-sign-in-data/) TechCrunch
 
@@ -668,18 +537,10 @@ the protocol uses a tiered approach with three roles — Claimer, Attester and V
 
 Chipper Cash has become the latest financial institution to adopt Onfido’s identity verification technology. The company currently operates one of the largest money transfer platforms in Africa, and is hoping
 
-* [Spruce Developer Update #19](https://blog.spruceid.com/spruce-developer-update-19/)
-
-- Sign-In with Ethereum offers a new self-custodial option for users who wish to assume more control
-- Kepler is a decentralized storage network organized around data overlays called Orbits. Kepler allows users to Securely share their digital credentials, private files, and sensitive media to blockchain accounts, all using a Web3 wallet
 
 * [What Indicio’s Seed Funding Means for Decentralized Identity Technology](https://indicio.tech/what-indicios-seed-funding-means-for-decentralized-identity-technology/) Indicio
 
 Our [new funding](https://apnews.com/press-release/accesswire/technology-business-4dbf651613d76693bc479321f7b041f5) will be used to refine the open-source, decentralized-identity technology stack. We have the basic technology for a functional ecosystem, now we improve that functionality by adding all the features, user interfaces, and management tools that make it easier to deploy, use, and monitor.
-
-* [Raising the Bar on Identity: One Year of Okta + Auth0](https://auth0.com/blog/raising-the-bar-on-identity-one-year-of-okta-auth0/)
-
-Today marks one year since Okta and Auth0 officially teamed up to lead together in the customer identity and access management (CIAM) market.
 
 * [Exposing Bad Actors Who Hide Behind Anonymity With Traceable Credentials](https://blog.dock.io/exposing-bad-actors-behind-anonymity-with-traceable-credentials/) Dock
 
@@ -700,13 +561,6 @@ a new multi-factor authentication platform that combines Trust Stamp’s [selfie
 
 The joint offering will make it easier for organizations to provide a more consistent authentication experience across all of their systems.
 
-* [Vittorio @vibronet](https://threadreaderapp.com/thread/1521047438370299905.html) Auth0 via Twitter\Threaderapp (18 tweets, worth reading)
-
-Yesterday I celebrated 4 years at [@auth0](https://twitter.com/auth0)... what an amazing ride!
-
-Working here is an absolute dream, and joining forces with [@okta](https://twitter.com/okta) is a force multiplier 💪
-
-Here's a🧵with a compilation of my favorite projects - the ones I can talk about in public anyway 😜
 
 * [Orchestrate your identity management strategy](https://idramp.com/orchestrate-your-identity-management-strategy/) IDRamp
 
@@ -752,9 +606,6 @@ For the past 4 years, GATACA has focused the majority of its efforts on building
 
 Gaia-X creates an open, federated digital ecosystem for data infrastructure for decentralized cloud and edge workloads and data sharing capabilities. As part of the core services, the so-called Gaia-X Federation Services (GXFS) are targeting the areas of Identity & Trust, Federated Catalogue, Sovereign Data Exchange and Compliance as open-source reference implementations.
 
-* [Spruce At Graph Hack 2022](https://blog.spruceid.com/spruce-at-graph-hack/) SpruceID
-
-Earlier this month, The Graph hosted Graph Hack at the Palace of Fine Arts in San Francisco. Graph Hack was a three-day hackathon, bringing together developers to kickstart the latest dapps and ideas featuring a mix of on and off-chain data via a variety of impactful use-cases.
 
 Centre - Verite
 
@@ -793,17 +644,6 @@ As the [Herald reports](https://www.heraldscotland.com/politics/20078582.scottis
 Indicio worked with SITA and the Aruban government to develop a decentralized identity solution for managing Covid testing and vaccination for travelers to the tourism-dependent island.
 
 
-* [Trinsic just raised $8.5M 🎉 and we want to celebrate with you!](https://trinsic.id/trinsic-raises-8-5m-for-decentralized-identity-platform/)
-
-developers face a dizzying number of standards to be compatible with—“[SoulBound Tokens](https://nftnow.com/guides/soulbound-tokens-sbts-meet-the-tokens-that-may-change-your-life/)” and [“Web5](https://twitter.com/jack/status/1535314738078486533)” being the latest additions to the litany of W3C, ISO, DIF, ToIP, and other existing specs. Trinsic offers teams a single API that acts as an abstraction layer that bridges ecosystems, strips complexity away from the development process, and ensures products are future-proof.
-
-* [JPMorgan Wants to Bring Trillions of Dollars of Tokenized Assets to DeFi](https://www.coindesk.com/business/2022/06/11/jpmorgan-wants-to-bring-trillions-of-dollars-of-tokenized-assets-to-defi/) Coindesk
-
-“We want to use verifiable credentials as a way of identifying and proving identity, which is different from the current Aave model, for instance,” Lobban said. “Verifiable credentials are interesting because they can introduce the scale that you need to provide access to these pools without necessarily having to maintain a white list of addresses. Since verifiable credentials are not held on-chain, you don’t have the same overhead involved with writing this kind of information to blockchain, paying for [gas fees](https://www.coindesk.com/learn/what-are-ethereum-gas-fees/), etc.”
-
-* [Evernym June Release notes](https://www.evernym.com/blog/june-2022-release-notes/)
-
-we’ll be able to share more about our new work at Avast over the coming months. In the meantime, there are several great posts on the Avast blog that show the combined thinking of the Avast, Evernym, and SecureKey teams:
 
 * [Building a more inclusive and equitable future](https://medium.com/global-id/building-a-more-inclusive-and-equitable-future-745f897a2c2b) GlobalID
 
@@ -813,9 +653,6 @@ When we [first launched the GlobaliD Wallet](https://medium.com/global-id/global
 
 Despite sending people to space, editing genes, and getting dangerously close to AGI, humanity hasn’t built a way for me to prove my legal name is Riley Hughes online.
 
-* [Spruce Developer Update #21](https://blog.spruceid.com/spruce-developer-update-21/)
-
-We're currently working on a new, ergonomic way to use Sign-In with Ethereum and session management for applications, and are currently in the process of setting up beta testing. If you're interested in trying this out, please get in touch.
 
 
 these are not posts but pages from companies we are tracking
@@ -919,10 +756,6 @@ how ID wallets work within the digital identity ecosystem, briefly explains the 
 * [Cerebrum Launches Identity Pittsburgh Initiative in Partnership with Carnegie Mellon University's ETIM Program](https://www.prnewswire.com/news-releases/cerebrum-launches-identity-pittsburgh-initiative-in-partnership-with-carnegie-mellon-universitys-etim-program-301616404.html) PRNewswire
 
 One example use case is medical records, which are often stored in central repositories and are hard for patients to access or share. Verifiable credentials offer an alternative — have patients store their medical records in digital wallets they control — which solves issues with interoperability, data ownership, and data access.
-
-* [Spruce Developer Update #23](https://blog.spruceid.com/spruce-developer-update-23/)
-
-Updates on Sign in with Ethereum, Kepler, DIDKit, Rebase
 
 * [IDENTOS puts developers first in its latest product release](https://www.identos.com/2022/09/07/identos-puts-developers-first-in-its-latest-product-release/)
 

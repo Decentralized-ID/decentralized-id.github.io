@@ -66,26 +66,6 @@ In collaboration with the BC Mines Trust Ecosystem, we demonstrate interoperabil
 * [Transatlantic SSI Interop](https://medium.com/@markus.sabadello/transatlantic-ssi-interop-52bac6be8dfe) Markus Sabadello
 
 The "Transatlantic SSI Interop" experiment was successfully conducted to demonstrate interoperability between the EU EBSI Diploma use case, and the US SVIP Permanent Resident Card use case. This was jointly planned and executed by EU partner Danube Tech and US partner Digital Bazaar.
-* [Evernym Joins with Other Solution Providers to Achieve Interoperability Milestone](https://www.evernym.com/blog/evernym-joins-with-other-solution-providers-to-achieve-interoperability-milestone/)
-
-* [Evernym’s Verity](https://www.evernym.com/products/%23verity) issuing to:
-
-- [Trinsic Wallet](https://trinsic.id/trinsic-wallet/)
-- [IBM Verify App](http://doc.ibmsecurity.verify-creds.com/whats_new/)
-- [Lissi by Main Incubator](https://play.google.com/store/apps/details?id%3Dio.lissi.mobile)
-- [esatus Wallet](https://self-ssi.com/en/%23walletc)
-
-Evernym’s [Connect.Me](https://www.evernym.com/products/%23connectme) holding credentials issued from or proving to:
-
-- [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloudagent-python)
-- [Trinsic](https://trinsic.id/powerful-apis/)
-- [IBM Security Verify](http://doc.ibmsecurity.verify-creds.com/whats_new/)
-- [idRamp Passport](https://play.google.com/store/apps/details?id%3Dcom.idramp.passport%26hl%3Den_US)
-- [esatus SeLF](https://self-ssi.com/en)
-
-* [SSI Interop Video](https://youtu.be/1t9m-U-3lMk) NGIatlantic.eu
-
-Results from an interoperability project in the are of Decentralized Identity, conducted by EU company Danube Tech and US company Digital Bazaar.
 * [Bob Blakely shared his reflections on SAML interop work](https://us02web.zoom.us/rec/play/xnxk16ksNsA9CP4UgR9BqylnH6qT1WZlSpFc9LOweFI7HZNcn8KR3A-0OsUDbPuNM6o0tt1JrSMqGV4Z.dnAMXXLE5-62VAfX?continueMode%3Dtrue%26_x_zm_rtaid%3DQs7tORTgRhmEiSBbcDzQLg.1645215091973.9fac74d22719638c1d1b641c83b0f5c7%26_x_zm_rhtaid%3D448) DIF Interop WG
 
 * [Trust, Verifiable Credentials, and Interoperability](https://indicio.tech/trust-verifiable-credentials-and-interoperability/) Helen Garneau, Indicio
