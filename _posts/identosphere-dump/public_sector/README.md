@@ -94,3 +94,6 @@ To achieve this purpose, the founding members of VCI™ have collaborated to dev
 
 If you are in California, you can get your vaccine record here: [https://myvaccinerecord.cdph.ca.gov/](https://myvaccinerecord.cdph.ca.gov/)
 
+* [Participate in Alberta's First Verifiable Digital Credentials Pilot](https://pilot.atbventures.com/)
+
+You’re invited to participate in an exciting pilot program being launched by ATB Ventures and the Government of Alberta.

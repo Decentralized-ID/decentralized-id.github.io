@@ -51,8 +51,6 @@ In episode 40, Roland fills us in on how Verimi works and its privacy-by-design 
 - [SSI Java Libraries by Danube Tech GmbH](https://danubetech.com/)
 - [NFC DID VC Bridge by Gimly](https://www.gimly.io/)
 
-* [MyDex is working with the Scotish Government](https://blogs.gov.scot/digital/2020/05/13/digital-identity-scotland-prototype-draws-to-a-close/)
-  > MyDex is a community interest corporation that has been working on building *real products in the real world*. They [wrote about the ongoing work](https://medium.com/mydex/proving-verified-attributes-work-3f9ca813d43f) enabling public sector organizations to give citizens verifiable attributes they keep in their own data stores and can prove to other parties without the issuing organization in the middle.
 
 * [State of SSI in Europe and Necessity for Network-of-Networks (convened by Sovrin)](https://iiw.idcommons.net/11F/_State_of_SSI_in_Europe_and_Necessity_for_Network-of-Networks_(convened_by_Sovrin)) by Andre Kudra
 
@@ -195,8 +193,6 @@ The SSI mandate service is a generic and holistic approach to provide and reques
 * [Support to the implementation of the European Digital Identity Framework and the implementation of the Once Only System under the Single Digital Gateway Regulation](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/digital-2022-deploy-02-electronic-id;callCode=DIGITAL-2022-DEPLOY-02) Until May 17
 
 The objective of the topic is to develop, implement and scale up the European Digital Identity framework, based on the revised eIDAS regulatory framework as well as the exchange of evidence as set out in article 14 the Single Digital Gateway Regulation. The broader objective of European Digital Identity is to improve citizen’s access to highly trusted and secure electronic identity means and trust services such as digital signatures, improve citizens’ possibilities to use them and improve their ability to control over sharing their personal identity data.
-
-* [EU digital sovereignty project Gaia-X hands out ID tech contracts](https://www.theregister.com/2022/02/04/gaia_x_ssi/)
 
 * [OnboardSSI by Quadible](https://essif-lab.eu/onboardssi-by-quadible/) ESSIF-LAB
 
@@ -413,3 +409,52 @@ Updates to the framework include new guidance on creating a consistent approach 
 Let’s examine how SSI meets each of the articles from #13 to #22.
 * [SSI](https://academy.affinidi.com/can-a-verifiable-credential-based-ssi-implementation-meet-gdpr-compliance-5039d0149ea4) is a digital movement that aims to enable individuals or organizations to have sole ownership of their identity, and to have control over how their data is shared and used.
 
+* [Two in three Europeans intend to use the EU's Digital Identity Wallet](https://www.nfcw.com/2022/06/08/377379/two-in-three-europeans-intend-to-use-the-eus-digital-identity-wallet/) NFCW
+
+“The results of the survey certainly underline the need for this pioneering European initiative aiming at offering the most convenient user experience (UX) at the highest level of security,” the company adds
+
+* [Introducing the SSI eIDAS Legal Report](https://ssimeetup.org/introducing-ssi-eidas-legal-report-ignacio-alamillo-webinar-55/) – Ignacio Alamillo – Webinar 55
+  > The European Commission developed the [SSI (Self-Sovereign Identity) eIDAS bridge](https://joinup.ec.europa.eu/collection/ssi-eidas-bridge), an ISA2 funded initiative, to promote eIDAS as a trust framework for the SSI ecosystem. It assists a VC (Verifiable Credential) issuer in the signing process, and helps the verifier to automate the identification of the organization behind the issuer’s DID (Decentralized Identifier)
+* [The time for the eIDAS Bridge](http://validatedid.com/post-en/the-time-for-the-eidas-bridge) ValidatedID
+
+The main goal of this new program was to provide an implementation of eIDAS bridge and to proof the interoperability between different provider implementations. Validated ID was selected to participate in part of the Call 1 of infrastructure. The results of this project are available as open source. If you are interested in digging into the code, you can find it all in the following repositories: [our open source version implementation](https://gitlab.grnet.gr/essif-lab/infrastructure/validated-id/seb) and the [SSI eIDAS Bridge interoperability](https://gitlab.grnet.gr/essif-lab/interoperability/ssi-eidas-bridge) performed with SICPA.
+* [Why is Self-Sovereign Identity compliant with the [GDPR]?](https://en.archipels.io/post/pourquoi-le-self-sovereign-identity-est-compatible-avec-le-rgpd) Archpelis
+
+With the transition to the web 3.0 ecosystem, the development of distributed registries (blockchain technology) and the regulatory environment that is forcing digital players to favour privacy by design, the ISS approach will become the new standard, whether for entering into customer relations, managing digital identities or ensuring compliance of administrative processes in companies and institutions.
+
+* [European Digital Identity Architecture and Reference Framework](https://forum.eid.as/t/european-digital-identity-architecture-and-reference-framework/216) ([pdf](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/73759/download)
+
+The document in particular outlines the EUDI Wallet:
+
+* [EU DATA ACT – MAKING DATA PORTABILITY ACTIONABLE](https://mydata.org/2022/02/25/eu-data-act-making-data-portability-actionable/)
+
+The [EU Commission published the long-awaited Data Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1113) on February 23, 2022. This is a progressive legislative proposal to increase access to data for the users of connected products suchs as Iot devices and related services. It is a significant move towards realising the [MyData principle](https://mydata.org/declaration/) of portability, access, and re-use as well as the principle of interoperability. It will potentially also move the needle towards the shift from formal to actionable rights in terms of the right of data portability. With such a progressive agenda, the proposal will certainly also face significant opposition and counter-lobbying from those who stand to benefit from the status quo.
+
+
+* [eIDAS 2.0: How Europe Can Define the Digital Identity Blueprint for the World](https://www.evernym.com/blog/eidas/) Evernym
+
+Problem 1: Unique wallet IDs
+
+Problem 2: Remote Wallet Kill Switches
+
+Problem 3: Wallet Content Restrictions
+
+Problem 4: Private Sector Restrictions
+
+Exciting New Opportunities for eIDAS 2.0
+
+Opportunity 1: Basic or Enhanced Wallets
+
+Opportunity 2: Turning Regulations Into Revenue
+
+Opportunity 3: Person-to-Person Verification
+
+Opportunity 4: Secure messaging.
+
+* [New Coalition Launches Campaign for Data Sovereignty Now](https://datasovereigntynow.org/2021/01/21/new-coalition-launches-campaign-for-data-sovereignty-now/)
+  > a campaign that will press European policy makers at all levels to ensure that control of data remains in the hands of the people and organizations that generate it. The issue becomes ever more urgent as policies around Europe’s digital economy and data architecture start to solidify.
+- [How to use the framework of a Trusted Data Ecosystem to simplify building decentralized identity solutions](https://www.kuppingercole.com/sessions/4999/3) on Wednesday, May 11, at the [European Identity and Cloud Conference 2022](https://www.kuppingercole.com/events/eic2022).
+* [Emerging approaches for data-driven innovation in Europe](https://publications.jrc.ec.europa.eu/repository/handle/JRC127730) JRC Publications
+  > Europe’s digital transformation of the economy and society is framed by the European strategy for data through the establishment of a common European data space based on domain-specific data spaces in strategic sectors such as environment, agriculture, industry, health and transportation.
+
+* [Joining forces towards European digital credentials](https://onedrive.live.com/?authkey%3D%2521ADoEGcIwiKDydcg%26cid%3DF7FF746DED29F767%26id%3DF7FF746DED29F767%252183805%26parId%3DF7FF746DED29F767%252183804%26o%3DOneUp) European Commission

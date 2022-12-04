@@ -210,3 +210,7 @@ The Ford Foundation paper attached provides the references. However, this thread
 
 * [https://redecentralize.org/redigest/2021/08/](https://redecentralize.org/redigest/2021/08/) says: *Human rights are not a bug*
 
+* [Part 0: The 7 Deadly Sins of Digital Customer Relationships](https://www.evernym.com/blog/7-deadly-sins-customer-relationships/)
+* [Part 1: Decentralized Identifiers: Building Smarter, More Sustainable Customer Relationships](https://www.evernym.com/blog/decentralized-identifiers-customer-relationships/)
+
+DIDs are about building lasting private and secure digital relationships with customers, and as we’ll see with each of the Deadly Sins, about reducing costs, increasing compliance and enabling truly personalized products and services – without being creepy.

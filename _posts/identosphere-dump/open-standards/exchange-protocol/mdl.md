@@ -51,3 +51,10 @@ Spruce’s continued mission is to let users control their data across the web, 
 * [Apple announces first states signed up to adopt driver’s licenses and state IDs in Apple Wallet](https://www.apple.com/newsroom/2021/09/apple-announces-first-states-to-adopt-drivers-licenses-and-state-ids-in-wallet/)
 
 Arizona, Connecticut, Georgia, Iowa, Kentucky, Maryland, Oklahoma, and Utah are among the first states to bring state IDs and driver’s licenses in Wallet to their residents
+* [Google is bringing Electronic IDs to Android](https://venturebeat.com/security/google-is-bringing-electronic-ids-to-android/) VentureBeat
+
+very soon, we will launch another [Jetpack compatibility library](https://venturebeat.com/2019/05/07/google-adds-10-libraries-to-android-jetpack-unveils-kotlin-toolkit-for-ui-development/) that app developers can use immediately to write such apps for various DMVs or whatever cards — in the future, maybe even travel documents, although that kind of standardization for international travel is even further out.
+
+* [Enhancing the Privacy of Mobile Credentials, with John Wunderlich](https://www.ubisecure.com/podcast/mobile-credentials-john-wunderlich/) Ubisecure
+
+what are the challenges and solutions surrounding mobile credentials, what is IAM’s role in this and how systems need to be developed around trust.

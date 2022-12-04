@@ -4,11 +4,6 @@ published: false
 
 # Meta
 
-* [Let’s find a more accurate term than ‘Self-Sovereign Identity](https://www.identityblog.com/?p%3D1693) Kim Cameron
-
-Someone said this - this week. “we need a better name” Infominer says just call it like it is, Decentralized Public Key Infrastructure.
-
-The principle is self-evident.  But I’ll be posting at length about the ways we can combine user-control, self-issued claims and verified claims to create the next big mainstream identity technology.
 * [Why do you care about identity?](https://wider.team/2022/01/18/phil-cares-about-identity/) Phil Wolff
 
 I love that it’s more than a technical discussion. It’s laws. Sociology. Politics and civics. Commerce. Psychology. Ethics. History. Economy. All the humanities.

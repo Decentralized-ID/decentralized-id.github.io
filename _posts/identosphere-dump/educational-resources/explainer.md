@@ -94,10 +94,6 @@ An answer to these challenges is an ecosystem in which digital identity data can
 * [Community Credentials](https://credentials.resonate.is) Resonate
   > [Verifiable Credentials](https://www.w3.org/TR/vc-use-cases/) are a new web standard for proving things digitally, thanks to some clever cryptography.  We are building Community Credentials to be the ‘Know Your Co-operator’ equivalent of KYC (Know Your Customer for business) for co-op social trust, all without reliance on centralised providers (or blockchains).
 
-* [Part 0: The 7 Deadly Sins of Digital Customer Relationships](https://www.evernym.com/blog/7-deadly-sins-customer-relationships/)
-* [Part 1: Decentralized Identifiers: Building Smarter, More Sustainable Customer Relationships](https://www.evernym.com/blog/decentralized-identifiers-customer-relationships/)
-
-DIDs are about building lasting private and secure digital relationships with customers, and as we’ll see with each of the Deadly Sins, about reducing costs, increasing compliance and enabling truly personalized products and services – without being creepy.
 
 * [Digital Identity and Blockchain – Its Place in Newer Identity Models](https://cyber.ee/blog/2021/04-21/)
   > In the [first part of this series](https://cyber.ee/blog/2021/04-14/), we introduced the idea that traditional PKI-based digital identity solutions can potentially benefit from blockchain technology.
@@ -966,10 +962,6 @@ The idea that as a user of SSI I have complete sovereignty over my digital ident
 * [Getting Data Security Right](https://medium.com/mydex/getting-data-security-right-36d291cac156) Alan Michel
 
 data security is about system-wide design, where many different elements need to fit together to create a working whole.
-
-* [Kim Cameron remembered via his 7 Laws for Identity](https://www.biometricupdate.com/202205/kim-cameron-remembered-via-his-7-laws-for-identity) Biometric Update
-
-Friends of the late computer scientist Kim Cameron took the opportunity of gathering at the KuppingerCole European Identity & Cloud Conference ([EIC 2022](https://www.kuppingercole.com/events/eic2022), to remember Cameron, his life and contribution to digital identity and beyond via his 7 Laws of Identity.
 
 
 * [What is Self-Sovereign Identity (SSI) with PeterMcCormack](https://twitter.com/justinrezvani/status/1532471536090656768) [@justinrezvani](https://twitter.com/justinrezvani) (short clip)

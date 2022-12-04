@@ -55,3 +55,37 @@ In this article, we’ll try to summarize the key points surrounding the infrast
 - Establish a task force made up of key federal agencies and state representatives.
 - Direct NIST to create a new framework of standards to guide agencies in implementing identity systems.
 - Establish a grant program within the DHS to support states in upgrading.
+* [January Walker (UT04) on the Future of Self-Sovereign Identity](https://web3domains.com/january-walker-ut04-on-the-future-of-self-sovereign-identity/) Web3 Domains
+
+January Walker is running for office in Utah’s 4th district
+
+* [FTC on Commercial Surveillance and Data Security Rulemaking](https://identitywoman.net/ftc-on-commercial-surveillance-and-data-security-rulemaking/) IdentityWoman
+
+FTC begins a process around regulating Commercial Surveillance and ensuring Data Security
+
+The comments on its 95 questions are due October 21.
+
+See the comments Kaliya made in her 2 min along with links to the questions and more information about the process.
+
+* [Jeremy Grant @jgrantindc](https://twitter.com/jgrantindc/status/1567531428707024899)
+
+USCIS make public announcement about their plants to use Verifiable Credentials for Immigration credentials
+
+Very interesting #FedID presentation on @USCIS plans for digital immigration credentials. Looking to use the @w3c Verifiable Credentials standard - this may be the first use of VCs at scale in the US government.
+
+* [Rematic talking to January Walker running for the House in Utah](https://twitter.com/RematicEGC/status/1559993471259344897) twitter
+
+Self-Sovereign Identity and each individual's responsibility to safeguard their identity are crucial for the protection of personal data.
+
+* [IRS Using Facial Scanning](https://www.windley.com/archives/2022/01/irs_using_facial_scanning.shtml) Phil Windley
+
+The IRS will use ID.me's authentication and identity proofing service exclusively starting sometime this summer. The identity proofing portion employs facial scanning by a third party, causing some concern.
+
+
+* [IRS Will Soon Require Selfies for Online Access](https://krebsonsecurity.com/2022/01/irs-will-soon-require-selfies-for-online-access/) Krebs on Security
+
+If you created an online account to manage your tax records with the U.S. Internal Revenue Service (IRS), those login credentials will cease to work later this year. The agency says that by the summer of 2022, the only way to log in to irs.gov will be through ID.me
+
+* [THE IRS AND ID.ME: PRIVACY OPTIONAL](https://trustoverip.org/blog/2022/02/15/the-irs-and-id-me-privacy-optional/) Trust Over IP
+  > While it is not clear why the IRS would relinquish this extremely sensitive capability in its entirety to a single, private-sector entity using a proprietary solution, there are clues
+

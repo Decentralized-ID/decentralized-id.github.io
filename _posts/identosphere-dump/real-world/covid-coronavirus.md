@@ -71,12 +71,6 @@ It’s quite important to outline the difference between #selfsovereignidentity�
 
 The former requires zero trust on third parties, the latter is prone to hacking and abuse.
 
-* [Architecture for Covid-19 Vaccine Passports](https://digitalscot.net/covid-19-vaccine-passports/)
-  > As they explain [here](https://nds.nhs.scot/blog/the-national-clinical-data-store/), their National Clinical Data Store (NCDS) is storing vaccinations data and being made accessible to healthcare staff, via their [VMT app](https://learn.nes.nhs.scot/42708/turas-vaccination-management-tool).
-
-“Under the bonnet, the VMT sends copies of the records of immunisations to the NCDS. For those that may be interested, this is achieved using a “FHIR API” based on the [UK FHIR Core](https://digital.nhs.uk/services/fhir-uk-core) Immunisation Profile. A FHIR API is essentially an industry standard way of sharing digital health data. The NCDS can then securely share citizens’ immunisation history records to other services, again using a FHIR API.”
-
-As we’ll explore in the upcoming and future webinars, Scotland’s opportunity is to build upon this core innovation through a collaborating community, a Digital Healthcare Ecosystem, to flesh it out in multiple directions including ways to expand user uptake and to enable new scenarios for how users interact with and update data.
 
 * [The EU Digital Green Certificate Program: Analysis & Comparison](https://www.evernym.com/blog/eu-digital-green-certificate-program/)
   > The EU approach does not support selective disclosure, i.e. allowing a subset of attributes from a credential to be used without revealing all the data in the credential.

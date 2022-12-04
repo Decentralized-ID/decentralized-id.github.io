@@ -41,3 +41,7 @@ Proposal: it’s not Web3 — it’s DeWeb (a la DeFi) as we undo all the mistak
 * [[…](https://twitter.com/InsideTheSim/status/1552636357373214722)] Bonus points — “de-web” sounds like “untangling a clusterfuck” which is exactly what it is.
 
 * [[...](https://twitter.com/InsideTheSim/status/1552637214391156739)] DeWeb is: - Self-sovereign identity with portable accounts and easy sign-on (such as sign-in with Ethereum). - Custody of your own data and the ability to revoke access to it by 3rd parties. - Permission-less commerce rails. - Permission-less domains (ENS) - more?
+
+* [JPMorgan Wants to Bring Trillions of Dollars of Tokenized Assets to DeFi](https://www.coindesk.com/business/2022/06/11/jpmorgan-wants-to-bring-trillions-of-dollars-of-tokenized-assets-to-defi/) Coindesk
+
+“We want to use verifiable credentials as a way of identifying and proving identity, which is different from the current Aave model, for instance,” Lobban said. “Verifiable credentials are interesting because they can introduce the scale that you need to provide access to these pools without necessarily having to maintain a white list of addresses. Since verifiable credentials are not held on-chain, you don’t have the same overhead involved with writing this kind of information to blockchain, paying for [gas fees](https://www.coindesk.com/learn/what-are-ethereum-gas-fees/), etc.”

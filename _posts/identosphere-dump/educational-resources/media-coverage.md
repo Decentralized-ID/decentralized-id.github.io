@@ -8,3 +8,7 @@ Verifiable Credentials was a breakthrough topic and it’s clearly on the path t
 Few pause to think that their phones can be transformed into surveillance devices, with someone thousands of miles away silently extracting their messages, photos and location, activating their microphone to record them in real time.
 
 Such are the capabilities of Pegasus, the spyware manufactured by NSO Group, the Israeli purveyor of weapons of mass surveillance.
+* [IATA app (by Evernym) makes CNN Travel](https://www.cnn.com/travel/article/iata-travel-pass/index.html)
+
+"Governments decide the requirements to travel; airlines and passengers need to comply," says the IATA on its website, emphasizing that the airline body is not itself mandating that passengers must have a Covid-19 vaccine in order to travel.
+

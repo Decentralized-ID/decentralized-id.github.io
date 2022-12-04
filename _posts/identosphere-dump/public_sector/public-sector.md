@@ -4,10 +4,7 @@ published: false
 
 # Public Sector 
 
-* [MyDex CCI on working with the Scottish Government](https://medium.com/mydex/a-way-forward-for-personal-data-6251d1503bdd) 
-  > Over the past months Mydex CIC has been [working for the Scottish Government](https://blogs.gov.scot/digital/2020/10/01/digital-identity-scotland-a-beta-industry-event/) on a strategy for implementing and scaling a system of ‘smart entitlements’ for the citizens of Scotland.
-* [Digital Identity Scotland – A beta industry event](https://blogs.gov.scot/digital/2020/10/01/digital-identity-scotland-a-beta-industry-event/).
-  > The [Smart Entitlements](https://blogs.gov.scot/digital/wp-content/uploads/sites/5/2020/10/Smart-Entitlements-Research-Recommendations-and-Report-for-the-Scottish-Government-FINAL.pdf) concept is very simple. Its goal is to create a common, easy approach for citizens to access public services that is consistent across multiple service providers. To achieve this, it provides citizens with the ability to store their personal information in an Attribute (or personal data) Store which they own and control.
+
 * [Swiss doing SSI](http://didas.swiss)
   > Underpinned by our country’s values, DIDAS is the Swiss ecosystem with the goal to enable an inclusive, privacy-first & frictionless future for our society’s Digital & Data needs. We are advocating for global standards with local governance for digital identities and data sovereignty.
 ### Policy
@@ -58,17 +55,10 @@ Digital identity is now recognized as a key building block in digitizing public 
 * [Reinventing Government with Technology - Sebastian Manhart](https://www.youtube.com/watch?v%3D1fTJA0r_XFg) KuppingerCole
 
 Raj Hegde is joined by Sebastian Manhart - Technical Advisor on Digital Identity for the German Chancellery to explore governmental reform and understand stakeholder expectations behind the rollout of digital identity projects in the post-COVID era.
-* [Participate in Alberta's First Verifiable Digital Credentials Pilot](https://pilot.atbventures.com/)
-
-You’re invited to participate in an exciting pilot program being launched by ATB Ventures and the Government of Alberta.
 
 * [ID Wallet: The German government had long known about IT security vulnerabilities](https://marketresearchtelecast.com/id-wallet-the-german-government-had-long-known-about-it-security-vulnerabilities/190919/) Market Research Telecast
 
 The BSI expresses the problem as follows: “The authentication of the user required to carry out a hotel check-in on the basis of the factors possession (” link secret “) and knowledge (” PIN “) takes place exclusively on the basis of key material that is stored in the Wallet app is saved. ” No specially secured electronic storage and processing medium such as a “secure element” integrated in smartphones is used.
-
-* [Introducing the SSI eIDAS Legal Report](https://ssimeetup.org/introducing-ssi-eidas-legal-report-ignacio-alamillo-webinar-55/) – Ignacio Alamillo – Webinar 55
-
-The European Commission developed the [SSI (Self-Sovereign Identity) eIDAS bridge](https://joinup.ec.europa.eu/collection/ssi-eidas-bridge), an ISA2 funded initiative, to promote eIDAS as a trust framework for the SSI ecosystem. It assists a VC (Verifiable Credential) issuer in the signing process, and helps the verifier to automate the identification of the organization behind the issuer’s DID (Decentralized Identifier)
 
 * [Verifiable Credentials for Digital Identity Projects](https://knowledge.wealize.digital/en/blog/verifiable-credentials-for-digital-identity-projects)
 
@@ -76,8 +66,6 @@ The Spanish Association for Standardization (UNE) has recently published the [UN
 * [Data: A New Direction — But Which Direction?](https://medium.com/mydex/data-a-new-direction-but-which-direction-da547b886ac0) Alan Mitchell
 
 This is the fifth and final blog in our series about the UK Government’s proposals for data protection reform — “Data: A New Direction”. Previous blogs focused on the thinking behind the proposals. This blog summarises what the main proposals are.
-
-* [Joining forces towards European digital credentials](https://onedrive.live.com/?authkey%3D%2521ADoEGcIwiKDydcg%26cid%3DF7FF746DED29F767%26id%3DF7FF746DED29F767%252183805%26parId%3DF7FF746DED29F767%252183804%26o%3DOneUp) European Commission
 * [MetaMUI and Sovereign Yidindji Government launched 1st self-sovereign identity-based National ID system](https://cointelegraph.com/press-releases/metamui-and-sovereign-yidindji-government-launched-1st-self-sovereign-identity-based-national-id-system) Cointelegraph
 
 We are delighted to announce that our first E-Government pilot program with the Sovereign Yidindji Government has been successfully completed on Jan 7, 2022.
@@ -108,9 +96,6 @@ B) High relevance to everyday life and very good usability to increase the incen
 
 C) Establishing a TrustNest initiative: an open community that promotes certification, exchange, and further development
 
-* [IRS Using Facial Scanning](https://www.windley.com/archives/2022/01/irs_using_facial_scanning.shtml) Phil Windley
-
-The IRS will use ID.me's authentication and identity proofing service exclusively starting sometime this summer. The identity proofing portion employs facial scanning by a third party, causing some concern.
 
 * [Rough Seas Ahead People](https://www.moxytongue.com/2022/01/rough-seas-ahead-people.html) MoxyTongue
 
@@ -119,70 +104,11 @@ Commentary from the man who invented the term Self-Sovereign Idenitty on the ID.
 Humanity does not come into existence inside a database. The American Government does not come into authority "of, by, for" database entries.
 
 People prove birth certificates, birth certificates do not prove people.
-
-* [IRS Will Soon Require Selfies for Online Access](https://krebsonsecurity.com/2022/01/irs-will-soon-require-selfies-for-online-access/) Krebs on Security
-
-If you created an online account to manage your tax records with the U.S. Internal Revenue Service (IRS), those login credentials will cease to work later this year. The agency says that by the summer of 2022, the only way to log in to irs.gov will be through ID.me
 * [Implementing the Swiss SSI Ecosystem – Two Streams Approach](https://www.didas.swiss/2022/02/18/implementing-the-swiss-ssi-ecosystem-two-streams-approach/) DIDAS Swiss
 
 critical questions of user experience and acceptance can be validated in real life. The findings and results will feedback into further development of the systems and hardening of security and privacy. This is also a great practical way to identify legal aspects that need clarification or even potential changes in the relevant laws
 
-* [THE IRS AND ID.ME: PRIVACY OPTIONAL](https://trustoverip.org/blog/2022/02/15/the-irs-and-id-me-privacy-optional/) Trust Over IP
 
-While it is not clear why the IRS would relinquish this extremely sensitive capability in its entirety to a single, private-sector entity using a proprietary solution, there are clues
-
-* [The time for the eIDAS Bridge](http://validatedid.com/post-en/the-time-for-the-eidas-bridge) ValidatedID
-
-The main goal of this new program was to provide an implementation of eIDAS bridge and to proof the interoperability between different provider implementations. Validated ID was selected to participate in part of the Call 1 of infrastructure. The results of this project are available as open source. If you are interested in digging into the code, you can find it all in the following repositories: [our open source version implementation](https://gitlab.grnet.gr/essif-lab/infrastructure/validated-id/seb) and the [SSI eIDAS Bridge interoperability](https://gitlab.grnet.gr/essif-lab/interoperability/ssi-eidas-bridge) performed with SICPA.
-* [Why is Self-Sovereign Identity compliant with the [GDPR]?](https://en.archipels.io/post/pourquoi-le-self-sovereign-identity-est-compatible-avec-le-rgpd) Archpelis
-
-With the transition to the web 3.0 ecosystem, the development of distributed registries (blockchain technology) and the regulatory environment that is forcing digital players to favour privacy by design, the ISS approach will become the new standard, whether for entering into customer relations, managing digital identities or ensuring compliance of administrative processes in companies and institutions.
-
-* [European Digital Identity Architecture and Reference Framework](https://forum.eid.as/t/european-digital-identity-architecture-and-reference-framework/216) ([pdf](https://ec.europa.eu/transparency/expert-groups-register/core/api/front/document/73759/download)
-
-The document in particular outlines the EUDI Wallet:
-
-* [EU DATA ACT – MAKING DATA PORTABILITY ACTIONABLE](https://mydata.org/2022/02/25/eu-data-act-making-data-portability-actionable/)
-
-The [EU Commission published the long-awaited Data Act](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1113) on February 23, 2022. This is a progressive legislative proposal to increase access to data for the users of connected products suchs as Iot devices and related services. It is a significant move towards realising the [MyData principle](https://mydata.org/declaration/) of portability, access, and re-use as well as the principle of interoperability. It will potentially also move the needle towards the shift from formal to actionable rights in terms of the right of data portability. With such a progressive agenda, the proposal will certainly also face significant opposition and counter-lobbying from those who stand to benefit from the status quo.
-
-* [“NO, I DON’T TRUST YOU” – IMPLEMENTING ZERO-TRUST ARCHITECTURE IN THE WORLD OF SELF-SOVEREIGN IDENTITY (SSI)](https://trustoverip.org/blog/2022/02/22/no-i-dont-trust-you-implementing-zero-trust-architecture-in-the-world-of-self-sovereign-identity-ssi/)
-
-Efforts are underway around the globe to promote new trust models between governments and citizens that promotes privacy and improves how trust is established between entities sharing information. Now is the time for the US government to consider and adopt the ToIP Framework as a starting point to not only support ZTA but promote greater privacy in information sharing within its ecosystem.
-
-* [eIDAS 2.0: How Europe Can Define the Digital Identity Blueprint for the World](https://www.evernym.com/blog/eidas/) Evernym
-
-Problem 1: Unique wallet IDs
-
-Problem 2: Remote Wallet Kill Switches
-
-Problem 3: Wallet Content Restrictions
-
-Problem 4: Private Sector Restrictions
-
-Exciting New Opportunities for eIDAS 2.0
-
-Opportunity 1: Basic or Enhanced Wallets
-
-Opportunity 2: Turning Regulations Into Revenue
-
-Opportunity 3: Person-to-Person Verification
-
-Opportunity 4: Secure messaging.
-
-
-* [ATB Ventures works with Canadian government on digital ID proof of concept](https://www.biometricupdate.com/202202/atb-ventures-works-with-canadian-government-on-digital-id-proof-of-concept) Biometric Update
-
-The proof of concept stage is where the Canadian government tests digital credentials use cases in cooperation with regulators and organizations to advance the adoption and maturity of digital credentials technology. The National Digital Trust Service aims to enable Canadians and businesses to issue, use and verify digital credentials during transactions.
-
-* [Face Recognition Isn’t Just Face Identification and Verification: It’s Also Photo Clustering, Race Analysis, Real-time Tracking, and More](https://www.eff.org/deeplinks/2021/10/face-recognition-isnt-just-face-identification-and-verification) EFF
-
-All forms of face recognition are a menace to privacy, free speech, and racial justice. This post explores many of the various kinds of face recognition, and explains why all must be addressed by laws.
-
-
-* [International Thank You Day](https://jolocom.io/blog/international-gratitude-day-2/) Jolocom
-
-Today, January 11, is the International Day of Gratitude. What better time then, to tell partners that you cherish their work and thank them for the inspiration they have given you? We at Jolocom reflect on amazing projects that became possible by joining forces with partners such as T-Labs, Bundesdruckerei, Stacks, and TIB – the Technical Information Library Hanover.
 
 * [the potential of Self-Sovereign Identity with representative use cases](https://www.adnovum.ch/en/company/blog/exploring_the_potential_of_self-sovereign_identity_with_representative_use_cases.html)
 
@@ -455,9 +381,6 @@ In 2021 the European Commission [announced the European digital identity wallet]
 * [European Union Digital Identity Wallet Consortium](https://eudiwalletconsortium.org/) EUDI
 
 The funding call is within the Digital Europe Programme (DIGITAL) topic 5.3.1.2 which requests support to implement the European Digital Identity Framework and the implementation of the Once Only System under the Single Digital Gateway Regulation. Up to €37m funding is available.
-* [Public Spending: One Way to Solve Many Problems](https://medium.com/mydex/public-spending-one-way-to-solve-many-problems-3ac394e46a9e) Digital Scot
-
-“We will identify where there may be shared interest, duplication or overlap in intended policy outcomes over multiple portfolios. Where there is, we will look to develop a more effective and efficient cross-government solution.”
 
 European Union
 
@@ -495,10 +418,6 @@ Tough to forge digital driver’s license is… easy to forge... 4 million mobil
 
 In a search that started in October 2021, the province was considering vendors to potentially initiate digital ID, meant to replace the need for physical ID cards. According to RFP documents, the selected vendor would have worked with SGI for facial verification, but final details on accessing the photo database weren’t finalized.
 
-* [SCHELLMAN JOINS TRUST OVER IP FOUNDATION AS STEERING COMMITTEE MEMBER](https://trustoverip.org/news/2022/03/25/schellman-joins-trust-over-ip-foundation-as-steering-committee-member/)
-
-Tampa-based Schellman, a leading provider of attestation and compliance services, announced today that it is joining the Trust over IP Foundation (ToIP) as a Steering Committee member. As the first IT audit firm to join the leadership of ToIP, this move represents Schellman’s belief in the growing suite of digital governance specifications and tools being developed by ToIP Working Groups.
-
 * [New Video: MetaMUI SSID](https://sovereignwallet.medium.com/new-video-metamui-ssid-8bcef6281cf3) Sovereign Wallet
 
 MetaMUI SSID is the world’s first true Self-Sovereign Identity Application that enables running Blockchain-Based E-Government System, and CBDC payments on top of MetaMUI Blockchain.
@@ -527,6 +446,8 @@ Vedran L. Head of Office at European Parliament [has released a draft report wit
 
 The Decision to make EBSI software available for licencing under the [European Union Public Licence](https://secure-web.cisco.com/1HQ5AQijOEcsuKHH5VY-lAjONv1Pa-wUY7mpfsymIkIy1G_g9CZh6vK5g0lpjxgIm0oaik042EN-5tL8xLpeesMtxZ0ENcH239uYTSSmPTbu1YtBJ5xHMWZMksOeS6X71soiQSQpoQF8fyzOr1I4atICut-sSt9Wqyou4vpS5myXfHf3S6AMMuyvAxla1etuiJbNKx4gfAlzozwPMe7yC7GNXIsZeCiNuAYA5io7f3CIwdvldsHFBtuGNYI4Z86EMXdfyQXEsR7zidw-7WNQeJpBVDCUVFJymXSb-SXsqJH8jfAf6-U9vC1ilrqATHFaZXXLWlOCOCmlS3nS9kev41tys8SvSKYuGX1FLyFgPgufe__oJ7pmihT7ABqB4AzLy7VMeHBSQfOgbkj11ZEltw4e-kd3XI7KmlREgqfYQ45T7r_VGJo3uCTUG1FlIcAkq8MON0W9AZCAMQyT5UAReSZ7LslcOaF38g6bgAGO0N_C39g6T63pWI-caAZ2h-1_m/https%253A%252F%252Fec.europa.eu%252Finfo%252Feuropean-union-public-licence_en) is an example of how the European Commission is not only using, but also contributing to the open-source community and thereby growing the ecosystem around EBSI.
 
+* [EIDAS 2.0 Turns To Self-Sovereign Identification To Bring Users Ownership And Control](https://www.forbes.com/sites/alastairjohnson/2022/07/05/eidas-20-turns-to-self-sovereign-identification-to-bring-users-ownership-and-control/?sh%3D853aa7f7f07e) Forbes
+
 * [Meet the eSSIF-Lab ecosystem: “Completing the Framework” Programme participants](https://essif-lab.eu/meet-the-essif-lab-ecosystem-meet-the-essif-lab-ecosystem-completing-the-framework-programme-participants-amme-participants-2/)
 
 * [PCDS-DP](https://compell.io/) - Product Circularity Data Sheets Digital Passport
@@ -538,20 +459,6 @@ The Decision to make EBSI software available for licencing under the [European U
 * [Datarella GmbH](https://datarella.com/) - Go Aries – Enabling CL-Support on Aries Framework Go
 
 * [ID.me](https://www.id.me/)’s legal woes are continuing to escalate. The company is now staring down the prospect of its second federal investigation in as many months, after the House of Representatives’ Oversight and Reform Committee [initiated its review in April](https://findbiometrics.com/congress-opens-formal-investigation-into-id-mes-irs-project-041801/).
-
-* [Enhancing the Privacy of Mobile Credentials, with John Wunderlich](https://www.ubisecure.com/podcast/mobile-credentials-john-wunderlich/) Ubisecure
-
-what are the challenges and solutions surrounding mobile credentials, what is IAM’s role in this and how systems need to be developed around trust.
-* [New Report on Limits of “Consent” in New Zealand's Data Protection Law - Future of Privacy Forum](https://fpf.org/blog/new-report-on-limits-of-consent-in-new-zealands-data-protection-law/) FPF ([report](https://fpf.org/wp-content/uploads/2022/06/ABLI-FPF-Consent-Project-New-Zealand-Jurisdiction-Report-1.pdf)
-
-- notice and consent requirements for processing personal data in New Zealand’s data protection law;
-- the status of alternative legal bases for processing personal data which permit processing of personal data without consent if the data controller undertakes a risk impact assessment (e.g., legitimate interests); and
-- statutory bases for processing personal data without consent and exceptions or derogations from consent requirements in-laws and regulations.
-
-* [Two in three Europeans intend to use the EU's Digital Identity Wallet](https://www.nfcw.com/2022/06/08/377379/two-in-three-europeans-intend-to-use-the-eus-digital-identity-wallet/) NFCW
-
-“The results of the survey certainly underline the need for this pioneering European initiative aiming at offering the most convenient user experience (UX) at the highest level of security,” the company adds
-
 * [The New Draft Law on eID Switzerland](https://www.procivis.ch/post/the-new-draft-law-on-eid-switzerland-en) Procivis
 
 Yesterday's [media conference](https://www.youtube.com/watch?v%3DepW4xEqr3mw) and published [media release](https://www.bj.admin.ch/bj/de/home/aktuell/mm.msg-id-89515.html) opened the consultation process for the new E-ID law, which will last until October 20, 2022.
@@ -604,34 +511,6 @@ You can click to watch all the presentations from the event:
 
 12 May 2022: [https://www.youtube.com/watch?v=DQIgwVJvFuE&t=28020s](https://www.youtube.com/watch?v%3DDQIgwVJvFuE%26t%3D28020s)
 
-* [EIDAS 2.0 Turns To Self-Sovereign Identification To Bring Users Ownership And Control](https://www.forbes.com/sites/alastairjohnson/2022/07/05/eidas-20-turns-to-self-sovereign-identification-to-bring-users-ownership-and-control/?sh%3D853aa7f7f07e) Forbes
-
 * [What Is GovTech?](https://www.pingidentity.com/en/resources/blog/post/what-Is-govtech.html)
 
 Based on technology, the GovTech agenda is driven by the GovTech Solutions Group (GSG) and GovTech Global Partnership (GTBP) under Governance Global Practice (GGP). But what does GovTech do? What are its objectives and challenges, and how can it best fulfill them
-
-* [Rematic talking to January Walker running for the House in Utah](https://twitter.com/RematicEGC/status/1559993471259344897) twitter
-
-Self-Sovereign Identity and each individual's responsibility to safeguard their identity are crucial for the protection of personal data.
-
-* [Google is bringing Electronic IDs to Android](https://venturebeat.com/security/google-is-bringing-electronic-ids-to-android/) VentureBeat
-
-very soon, we will launch another [Jetpack compatibility library](https://venturebeat.com/2019/05/07/google-adds-10-libraries-to-android-jetpack-unveils-kotlin-toolkit-for-ui-development/) that app developers can use immediately to write such apps for various DMVs or whatever cards — in the future, maybe even travel documents, although that kind of standardization for international travel is even further out.
-
-* [Jeremy Grant @jgrantindc](https://twitter.com/jgrantindc/status/1567531428707024899)
-
-USCIS make public announcement about their plants to use Verifiable Credentials for Immigration credentials
-
-Very interesting #FedID presentation on @USCIS plans for digital immigration credentials. Looking to use the @w3c Verifiable Credentials standard - this may be the first use of VCs at scale in the US government.
-
-* [January Walker (UT04) on the Future of Self-Sovereign Identity](https://web3domains.com/january-walker-ut04-on-the-future-of-self-sovereign-identity/) Web3 Domains
-
-January Walker is running for office in Utah’s 4th district
-
-* [FTC on Commercial Surveillance and Data Security Rulemaking](https://identitywoman.net/ftc-on-commercial-surveillance-and-data-security-rulemaking/) IdentityWoman
-
-FTC begins a process around regulating Commercial Surveillance and ensuring Data Security
-
-The comments on its 95 questions are due October 21.
-
-See the comments Kaliya made in her 2 min along with links to the questions and more information about the process.

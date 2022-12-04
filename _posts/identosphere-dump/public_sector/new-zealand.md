@@ -36,3 +36,9 @@
 
 It is on this last point that I do see a slight gap between the UK and Aotearoa. In the UK and in Europe more generally there seems to be more awareness of, and a sense of urgency around, the vulnerability of mobile smartphones, given the expectation that they will be the device of choice for most people to download digital identity related wallet apps.
 
+* [New Report on Limits of “Consent” in New Zealand's Data Protection Law - Future of Privacy Forum](https://fpf.org/blog/new-report-on-limits-of-consent-in-new-zealands-data-protection-law/) FPF ([report](https://fpf.org/wp-content/uploads/2022/06/ABLI-FPF-Consent-Project-New-Zealand-Jurisdiction-Report-1.pdf)
+
+- notice and consent requirements for processing personal data in New Zealand’s data protection law;
+- the status of alternative legal bases for processing personal data which permit processing of personal data without consent if the data controller undertakes a risk impact assessment (e.g., legitimate interests); and
+- statutory bases for processing personal data without consent and exceptions or derogations from consent requirements in-laws and regulations.
+

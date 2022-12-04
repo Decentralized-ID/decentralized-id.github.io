@@ -122,7 +122,7 @@ Exploring why human trust should be an essential design element in the next gene
 
 as we move into decentralized identity management, where individuals manage credentials in their own digital wallets, we need new risk management tools designed for this paradigm
 
-* [The Trust Over IP Stack: Achieving Global Interoperability with SSI](https://techzone.scot/trust-over-ip-stack/) Digital Scotland
+* [The Trust Over IP Stack: Achieving Global Interoperability with SSI](https://techzone.scot/trust-over-ip-stack/)TechZone Scot
 
 * [In this video](https://www.youtube.com/watch?v%3DYzKfb-udavY), Drummond Reed, Chief Trust Officer at Evernym Inc and co-author of the book ‘[Self-Sovereign Identity](https://www.evernym.com/ssi-book/)’ provides a deep discussion of SSI and the ‘The Trust over IP Stack’.
 
@@ -146,3 +146,8 @@ as we move into decentralized identity management, where individuals manage cred
 
 I have been lucky enough to witness many of its milestones — the finalization of the VC and DID specifications, the launch of Sovrin and Hyperledger Indy, the advent of production deployments and serious interoperability, the invention of peer DIDs and KERI and BBS+ credentials, the implementation of the exciting communication technology now known as DIDComm…
 
+
+* [“NO, I DON’T TRUST YOU” – IMPLEMENTING ZERO-TRUST ARCHITECTURE IN THE WORLD OF SELF-SOVEREIGN IDENTITY (SSI)](https://trustoverip.org/blog/2022/02/22/no-i-dont-trust-you-implementing-zero-trust-architecture-in-the-world-of-self-sovereign-identity-ssi/)
+  > Efforts are underway around the globe to promote new trust models between governments and citizens that promotes privacy and improves how trust is established between entities sharing information. Now is the time for the US government to consider and adopt the ToIP Framework as a starting point to not only support ZTA but promote greater privacy in information sharing within its ecosystem.
+* [SCHELLMAN JOINS TRUST OVER IP FOUNDATION AS STEERING COMMITTEE MEMBER](https://trustoverip.org/news/2022/03/25/schellman-joins-trust-over-ip-foundation-as-steering-committee-member/)
+  > Tampa-based Schellman, a leading provider of attestation and compliance services, announced today that it is joining the Trust over IP Foundation (ToIP) as a Steering Committee member. As the first IT audit firm to join the leadership of ToIP, this move represents Schellman’s belief in the growing suite of digital governance specifications and tools being developed by ToIP Working Groups.

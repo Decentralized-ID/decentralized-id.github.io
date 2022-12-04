@@ -3,6 +3,10 @@ published: false
 ---
 
 * [Biometrics come to verifiable credentials with Applied Recognition and Sovrin Foundation](https://www.biometricupdate.com/202105/biometrics-come-to-verifiable-credentials-with-applied-recognition-and-sovrin-foundation)
+* [Face Recognition Isn’t Just Face Identification and Verification: It’s Also Photo Clustering, Race Analysis, Real-time Tracking, and More](https://www.eff.org/deeplinks/2021/10/face-recognition-isnt-just-face-identification-and-verification) EFF
+
+All forms of face recognition are a menace to privacy, free speech, and racial justice. This post explores many of the various kinds of face recognition, and explains why all must be addressed by laws.
+
 
 
 # Biometrics

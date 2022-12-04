@@ -107,3 +107,9 @@ The key differences between federated and decentralized identity systems - An an
 * [Participate in Alberta's First Verifiable Digital Credentials Pilot](https://pilot.atbventures.com/) ATB Ventures and Govt Alberta
 
 As a part of the pilot, you will add your MyAlberta Digital ID as a verifiable credential to your mobile digital wallet (on your smartphone) and use this digital credential to open an ATB Pay As You Go Account - Digital Credential account with ATB Financial.
+* [ATB Ventures works with Canadian government on digital ID proof of concept](https://www.biometricupdate.com/202202/atb-ventures-works-with-canadian-government-on-digital-id-proof-of-concept) Biometric Update
+
+The proof of concept stage is where the Canadian government tests digital credentials use cases in cooperation with regulators and organizations to advance the adoption and maturity of digital credentials technology. The National Digital Trust Service aims to enable Canadians and businesses to issue, use and verify digital credentials during transactions.
+* [The Future of Digital Identity in Canada: Self-Sovereign Identity (SSI) and Verified.Me](https://securekey.com/the-future-of-digital-identity-in-canada-self-sovereign-identity-ssi-and-verified-me/)
+
+We are thrilled that the academic journal [Frontiers in Blockchain](https://www.frontiersin.org/journals/blockchain) accepted our community case study, “[Decentralized, Self-Sovereign, Consortium: The Future of Digital Identity in Canada](https://www.frontiersin.org/articles/10.3389/fbloc.2021.624258/full).” This peer-reviewed article focuses on the benefits of self-sovereign identity (SSI) with blockchain and Verified.Me as an example of these concepts being effectively implemented to create a cohesive, secure service and digital identity network.

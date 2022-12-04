@@ -34,14 +34,7 @@ If you are in accounting, audit or finance shoes, how would you play the game to
 > 
 > [...] because data from their healthcare provider acquired into the server can be used to authenticate and assert that fact without the need to give any identity information. By using PDAs, apps that rely on sensitive data will be able to access this and stay “identity blind”.
 > One effect of the Covid-19 pandemic will be the increased use of PDAs.
-* [‘Personal Data Ecosystem’ key foundation for Scotland’s Digital Economy](https://digitalscot.net/personal-data-ecosystem/)
-  > Patient records won’t be held centrally in a monolith EHR, but will instead be distributed to and owned/controlled by the users themselves.
-> 
-> Apps like [Healthy Me](https://digi.me/healthy-me/) from digi.me are an example of this new paradigm and how the decentralized approach tackles issues common to IT, like data privacy, by distributing the workload and privacy control to the users themselves.
-> Initiatives like [MyData](https://mydata.org/), of which digi.me plays a key role, are setting out to develop the global movement that will establish the framework for adoption of this approach, defining the methods and governance for regulating this model of data exchange.
 * [Digi.me enables rapid citizen-centric data exchange solutions for flexibile Gov COVID-19 uses](https://www.youtube.com/watch?v=3LbWqBTCa00) (youtube)
-* [New Coalition Launches Campaign for Data Sovereignty Now](https://datasovereigntynow.org/2021/01/21/new-coalition-launches-campaign-for-data-sovereignty-now/)
-  > a campaign that will press European policy makers at all levels to ensure that control of data remains in the hands of the people and organizations that generate it. The issue becomes ever more urgent as policies around Europe’s digital economy and data architecture start to solidify.
 * [Hidden in Plain Sight — the Transformational Potential of Personal Data](https://medium.com/mydex/hidden-in-plain-sight-the-transformational-potential-of-personal-data-da47f666713e) MyDex
   > Personal data stores apply the same economic logic to transform the costs of producing data driven services. [Verified attributes](https://medium.com/mydex/unleashing-the-potential-of-verified-attributes-fe001e01b091) are the digital equivalents of Henry Ford’s standardised parts. By enabling one organisation to instantly re-use data verified by another organisation they eliminate the need for vast amounts of duplicated effort and rework (re-creating each data point from scratch or checking its details, provenance etc).
 * [If your strategic plan is based on data, have you considered the consequences?](https://www.mydigitalfootprint.com/2021/04/if-your-strategic-plan-is-based-on-data.html) MyDigitalFootprint
@@ -110,7 +103,7 @@ Mydex CIC has just published a blog for Cambridge University’s Data Trust Init
 
 - [MEF CONNECTS Personal Data & Identity](https://mobileecosystemforum.com/events_/mef-connects-personal-data-identity/) 5/11 Mobile Ecoystem Forum
 
-- [How to use the framework of a Trusted Data Ecosystem to simplify building decentralized identity solutions](https://www.kuppingercole.com/sessions/4999/3) on Wednesday, May 11, at the [European Identity and Cloud Conference 2022](https://www.kuppingercole.com/events/eic2022).
+
 
 * [The need for new Data Institutions](https://medium.com/mydex/the-need-for-new-data-institutions-e6b06cd0cbb8) Alan Mitchell
 
@@ -119,11 +112,7 @@ we were presenting at the Open Data Institute’s event on Data Sharing and the 
 
 * [Dangerous Data: the role of data collection in genocides](https://www.theengineroom.org/dangerous-data-the-role-of-data-collection-in-genocides/) The Engine Room
 
-* [Emerging approaches for data-driven innovation in Europe](https://publications.jrc.ec.europa.eu/repository/handle/JRC127730) JRC Publications
 
-Europe’s digital transformation of the economy and society is framed by the European strategy for data through the establishment of a common European data space based on domain-specific data spaces in strategic sectors such as environment, agriculture, industry, health and transportation.
-
-*
 * [Ontology Partners With 4EVERLAND to Accelerate Web 3.0 Adoption](https://medium.com/ontologynetwork/ontology-partners-with-4everland-to-accelerate-web-3-0-adoption-dfc658e8ea21)
 
 Ontology is partnering with [4EVERLAND](https://www.4everland.org/), a Web 3.0 cloud computing platform enabling global acceleration, privacy protection, distributed storage and other technical features to accelerate the move towards Web 3.0.
@@ -137,6 +126,7 @@ Individual Rights are hard to come by historically. Strong people make them poss
 The main reason why vital information is not getting where it needs to be is that our data economy has evolved to be an organisation-centric ‘One User One Use’ (OUOU) system — whereas, thanks to the inner logic of data itself, it needs to operate as a ‘Many Users, Many Uses’ (MUMU) data ecosystem.
 
 ### Data Portability
+
 * [Europe’s top Data Portability Projects](https://dapsi.ngi.eu/meet-europes-top-data-portability-projects/)
 
 - [ALIAS](https://dapsi.ngi.eu/hall-of-fame/alias/) – automating GDPR portability for applications developers.
