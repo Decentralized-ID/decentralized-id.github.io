@@ -1,5 +1,8 @@
 # Scotland
 
+* [Digital Education – Transforming Scottish Education for the 21st Century](https://digitalscot.net/transforming-scottish-education-21/)
+
+As the [Herald reports](https://www.heraldscotland.com/politics/20078582.scottish-government-unveils-45m-plan-build-tech-nation/) Kate Forbes has announced £45m in funding to “transform Scotland into one of Europe’s leading economies to start or grow a technology business.”
 * [Architecture for Covid-19 Vaccine Passports](https://digitalscot.net/covid-19-vaccine-passports/)
   > As they explain [here](https://nds.nhs.scot/blog/the-national-clinical-data-store/), their National Clinical Data Store (NCDS) is storing vaccinations data and being made accessible to healthcare staff, via their [VMT app](https://learn.nes.nhs.scot/42708/turas-vaccination-management-tool).
 

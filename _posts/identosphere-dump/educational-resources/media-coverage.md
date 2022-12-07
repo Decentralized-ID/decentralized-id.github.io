@@ -12,3 +12,7 @@ Such are the capabilities of Pegasus, the spyware manufactured by NSO Group, the
 
 "Governments decide the requirements to travel; airlines and passengers need to comply," says the IATA on its website, emphasizing that the airline body is not itself mandating that passengers must have a Covid-19 vaccine in order to travel.
 
+* [Media Mention: MIT Technology Review](https://identitywoman.net/media-mention-mit-technology-review/) Kaliya Young
+
+I was quoted in the article in MIT Technology Review on April 6, 2022, “Deception, exploited workers, and cash handouts: How Worldcoin recruited its first half a million test users.”
+

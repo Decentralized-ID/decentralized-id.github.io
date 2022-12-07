@@ -8,6 +8,9 @@
 - [Information Transparency and Personal Data Control Act](https://delbene.house.gov/news/documentsingle.aspx?DocumentID%3D2740) – Re-introduced by Congresswoman Suzan DelBene (WA-01) for the fourth time (the latest on March 10, 2021), [this bill](https://delbene.house.gov/news/documentsingle.aspx?DocumentID%3D2740) “… protects personal information including data relating to financial, health, genetic, biometric, geolocation, sexual orientation, citizenship and immigration status, Social Security Numbers, and religious beliefs. It also keeps information about children under 13 years of age safe. ”Beyond this it requires businesses to write their privacy policies in simple language.“
 
 
+* [ID.me and the future of biometric zero trust architecture](https://www.biometricupdate.com/202204/id-me-and-the-future-of-biometric-zero-trust-architecture) Mike Vesey of IDRamp
+
+The sunk cost of centralized databases is not an obstacle to decentralization. Verifiable credentials can be easily layered onto existing systems for better security. They can be used as a tool for orchestrating complexities across multiple identity management systems and databases so that they become privacy preserving and fraud resistant.
 
 * [New Bipartisan Federal Data Privacy Bill in the US, But Will It Pass?](https://anonyome.com/2022/06/new-bipartisan-federal-data-privacy-bill-in-the-us-but-will-it-pass/) Anonyme
 

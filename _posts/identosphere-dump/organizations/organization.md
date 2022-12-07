@@ -384,6 +384,9 @@ The six elected candidates are Sam Curren (Indicio Tech), Daniel Buchner (Block)
 
 covers our work with DIF, Trust over IP, and attending Consensus 2022.
 
+* [Bringing Truth to Market with Trust Communities & Product Information Markets](https://medium.com/humanizing-the-singularity/bringing-truth-to-market-with-trust-communities-product-information-markets-d09fb4a6e780) Mattereum
+
+With product information markets enabled by Trust Communities, we can incentivize truth in markets by allowing experts to make money on their expertise and face consequences for erroneous claims. Simple concept, powerful implications.
 
 
 * [Public-private partnerships in health: The journey ahead for open source](https://www.lfph.io/2022/07/29/public-private-partnerships-in-health-the-journey-ahead-for-open-source/) Linux Foundation Public Health

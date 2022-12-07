@@ -21,3 +21,4 @@ A pertinent example of how this can be applied in the corporate world is this ex
 Epic Post
 
 You might think that I have lost my mind. We have just reported that our Indy SDK based DID agency is [AIP 1.0](https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0302-aries-interop-profile/README.md) compatible, and everything is wonderful. What’s going on?
+* [Innovative Startups join forces to create a trusted training record and build a secure and safe waste data tracking system](https://www.digicatapult.org.uk/news-and-insights/press/digital-catapult-and-sellafield-ltd-join-forces-with-two-innovative-startups)

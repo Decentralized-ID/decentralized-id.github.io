@@ -341,16 +341,6 @@ The arrow for “Issue Credentials” is exactly the same as “Send Presentatio
 
 Badges as credentials includes approaches that are well understood and largely replace or augment existing certification practices. Badges for recognition, however, include approaches that remain somewhat confusing to many people.
 
-BlueSky
-
-* [dSocialCommons Hosts Twitter Spaces | Interoperable Formats](https://twitter.com/dsocialcommons/status/1519724178256982017)
-
-Bluesky Community Voices #6: Interoperable Formats [https://twitter.com/i/spaces/1vAxRkVrMPzKl](https://twitter.com/i/spaces/1vAxRkVrMPzKl) Moderator [@kimdhamilton](https://twitter.com/kimdhamilton) Speakers [@kevinmarks](https://twitter.com/kevinmarks) [@mfosterio](https://twitter.com/mfosterio) [@JoeAndrieu](https://twitter.com/JoeAndrieu) [@harlantwood](https://twitter.com/harlantwood)
-
-* [Working in Public](https://blueskyweb.xyz/blog/5-4-2022-working-in-public) BlueSky
-
-Today we’re releasing [ADX, the “Authenticated Data Experiment”](https://github.com/bluesky-social/adx). Our company's name, “bluesky,” describes the open-ended nature of this project, and the freedom we were given to start from first principles. As we get more concrete, we’ll give more specific names to what we’re building, starting with ADX.
-
 
 
 
@@ -445,9 +435,6 @@ Cardano showing interest in our work
 
 
 
-* [TBD Partners with Circle!](https://developer.tbd.website/blog/tbd-circle-partnership/) TBD
-
-TBD and [Circle](https://www.circle.com/en/?_gl%3D1*14yjcwp*_up*MQ..%26gclid%3DCjwKCAjwm8WZBhBUEiwA178UnPZbgZJJxhwK7ivE5Yx9FGW8PQ31-hc1O-njcLOmzcN2nzLz110FihoCgV4QAvD_BwE) are collaborating on a set of open standards and open source technologies aimed at enabling global-scale, mainstream adoption of digital currency in payments and financial applications. The first step of which will support cross-border remittances and self-custody wallets that can hold stablecoins.
 
 
 * [Identity Manager – Self Sovereign Identity made Simple](https://tanglelabs.io/identity-manager-self-sovereign-identity-made-simple/) TangleLabs

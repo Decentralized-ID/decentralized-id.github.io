@@ -458,3 +458,11 @@ Opportunity 4: Secure messaging.
   > Europe’s digital transformation of the economy and society is framed by the European strategy for data through the establishment of a common European data space based on domain-specific data spaces in strategic sectors such as environment, agriculture, industry, health and transportation.
 
 * [Joining forces towards European digital credentials](https://onedrive.live.com/?authkey%3D%2521ADoEGcIwiKDydcg%26cid%3DF7FF746DED29F767%26id%3DF7FF746DED29F767%252183805%26parId%3DF7FF746DED29F767%252183804%26o%3DOneUp) European Commission
+* [final phase eSSIF-Lab and maximum funding by the European Commission](https://medium.com/@WorkX/announcing-selection-final-phase-essif-lab-and-maximum-funding-by-the-european-commission-80e4ef8912db) Work X
+
+our team has been selected to enter the third and final phase of the European Self-Sovereign Identity Framework Lab. [...] to let employees regain control over their career-related data. Therefore receiving the maximum development grant of €106.000
+* [BLOQZONE RECEIVES €155K EU GRANT FROM ESSIF-LAB FOR PROJECT SSICOMMS](https://bloqzone.com/ssicomms/)
+
+We don’t know what this is… is it DIDComm? if not what is it?
+
+The project SSIComms adds SSI to internet communications by adding SSI wallets to the renowned SYLK Suite, an award winning ensemble of communications solutions with the SIP protocol at its core. This enables users to respond to presentation requests for credentials entirely voluntarily and according to SSI principles during communications sessions.

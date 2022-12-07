@@ -252,9 +252,6 @@ Web 2.0 vs Web 3.0 — A Bridge Between the Past and the Future Web 2.0 represen
 * [Seamless Web3 Identity Verification](https://medium.com/frctls/seamless-web3-identity-verification-c72ce27dcb41) Fractal
 
 Built on [Polkadot](https://polkadot.network/), Fractal Protocol is an open-source, zero-margin protocol that defines a basic standard to exchange user information in a fair and open way, ensuring a high-quality version of the free internet. In its first version, it is designed to replace the [ad cookie](https://www.cookiepro.com/knowledge/what-are-targeting-advertising-cookies/) and give users back control over their data.
-* [Why cheqd has joined the Cosmos](https://blog.cheqd.io/why-cheqd-has-joined-the-cosmos-4db8845722c5)
-
-We know that many communities are desirably and rightly passionate about their adopted protocols. We are not taking shots at any of the ones discussed below, which we didn’t take forward; we only want to explain our thinking and why we see using Cosmos as a massive boon for us.
 * [IOTA Identity: Beta Release](https://blog.iota.org/iota-identity-beta-release/)
 
 The first major feature we introduced with this beta release is the account, a higher-level API to use IOTA Identity. Similar to the recent Chrysalis update, IOTA Identity becomes a lot easier to use by utilizing the account. It is intended to provide a much more simplified interface that is perfect for 90%+ of the use cases. The other 10% are more complex use cases that may still want to utilize the lower-level APIs to have more control over the Identities. The account doesn’t just simplify the interactions with DID Documents, but also with the Tangle and Stronghold.

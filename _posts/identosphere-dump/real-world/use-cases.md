@@ -216,6 +216,7 @@ In 2018, I was trying to open a bank account in my home town of Mutare, Zimbabwe
 * [Countering Marketplace Deception with Mattereum’s Trust-as-a-Service Platform](https://medium.com/humanizing-the-singularity/countering-marketplace-deception-with-mattereums-trust-as-a-service-platform-2615dc2c47be)
 
 Marketplace deception is everywhere, at great cost and risk to consumers and businesses. Regulation alone won’t fix it. Can Mattereum Asset Passports and Product Information Markets help secure trust in B2B and B2C trade?
+
 * [Self-sovereign identity use cases](https://blog.cheqd.io/self-sovereign-identity-use-cases-43bb03d49e13) Cheqd
 
 While self-sovereign identity (SSI) sounds like an unfamiliar concept for some, others are actively leveraging the technology to address industry-specific challenges — take the KYC trial of the [Financial Conduct Authority](https://www.evernym.com/blog/evernym-accepted-into-fca-regulatory-sandbox/) or the [IATA Travel Pass.](https://www.iata.org/en/pressroom/pr/2020-12-16-01/)
@@ -685,14 +686,6 @@ the solution has allowed CaixaBank, at the request of a fictitious user, to issu
 using verifiable credentials in their wallet.
 
 #HUMBL x GF2GO - San Diego, CA - [Pilot Program](https://www.youtube.com/watch?v%3DH_HAFEzmkWU): New search engine, mobile wallet, verifiable credentials and delivery technologies.
-
-* [Why self-sovereign identity will increase university demands for a future in lifelong digital credentials](https://www.biometricupdate.com/202209/why-self-sovereign-identity-will-increase-university-demands-for-a-future-in-lifelong-digital-credentials) BiometricUpdate
-
-Biometrics Update running a series by cheqd CEO Fraser Edwards
-
-
-
-
 
 
 * [EricTang.eth](https://twitter.com/ericxtang/status/1575645620659900417) Twitter

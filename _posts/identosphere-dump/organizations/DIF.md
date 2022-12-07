@@ -32,11 +32,6 @@ Having shown in our last piece how interoperability “profiles” are designed,
 - [TBD’s test results of JWS Test Suite](https://identity.foundation/JWS-Test-Suite/%23tbd)
 - [Spruce’s test results of JWS Test Suite](https://identity.foundation/JWS-Test-Suite/%23spruce)
 
-At TBD, we support open standards wherever appropriate, and all of our projects are open source.
-* [Our Interoperability Work in the Decentralized Identity Foundation](https://developer.tbd.website/blog/our-interop-work-in-dif/) TBD
-
-More details about the Conformance Test Suite that was developed by members of DIF and our interoperability test reports can be found here:
-
 * [DIF Interoperability Survey](https://docs.google.com/forms/d/e/1FAIpQLSfbFh4DQeyI0msXsWvfpbrtYEfgQrGRD7tw4d2Rg0NEyhvcKQ/viewform)
 
 We are keen to support more interoperability activity and hopefully testing this fall and winter. In order to do this we would like to gather feedback from the community as to where we are at so we can assess how to move forward.

@@ -92,3 +92,7 @@ I witness demos of [Social Sensemaker](https://www.youtube.com/watch?v%3DOaaK6oX
 * [How Ethereal Engine is Unleashing the Power of the Immersive Web](https://www.linkedin.com/pulse/how-ethereal-engine-unleashing-power-immersive-web-etherealengine/) Ethereal Engine
 
 In keeping with the DWeb Camp theme, we also demonstrated how decentralized identifiers, identity web wallets, and verified credentials can be powerfully leveraged in Ethereal Engine to enable an entirely new paradigm of [frictionless portable identity](https://www.etherealengine.com/blog-posts/metaverse-for-humans) that champions user privacy and dignity.
+* [Ubikom Project](https://www.ubikom.cc)
+
+Ubikom is free, open-source email framework based on the concept of [Self-Sovereign Identity.](https://sovrin.org/faq/what-is-self-sovereign-identity/) You own your identity (which, in this case, means your private key), and all the outgoing and incoming messages are encrypted and signed by default.
+
