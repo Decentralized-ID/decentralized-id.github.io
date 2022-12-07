@@ -137,17 +137,10 @@ The European Commission and the European Blockchain Partnership are laying the f
 * [01:04:16](https://www.youtube.com/watch?v%3D54WrOZ2IEZE%26t%3D3856s) Demo 3: A student gets access to local discounts using municipality credential based on a European student card
 
 
-* [Spruce and TBD Demonstrate Decentralized Identity Interoperability](https://blog.spruceid.com/spruce-and-tbd-demonstrate-decentralized-identity-interoperability/) SpruceID
-
-Spruce and TBD are the first two organizations to demonstrate support for all [five JWS algorithms](https://w3id.org/security/suites/jws-2020%23jose-conformance) for [JsonWebSignature2020](https://w3c-ccg.github.io/lds-jws2020/) (Data Integrity Proofs) and JWTs, for VCs and [W3C Verifiable Presentations](https://www.w3.org/TR/vc-data-model/%23presentations-0), which is a major step toward vendor interoperability.
 
 * [Dynamic Data Economy Presented to Technology Consortium in India](https://humancolossus.foundation/blog/dde-amp-hasgeek) HumanCollosus Foundation
 
 The "Data Governance and Semantics" project featured three webinars introducing DDE as a decentralised trust infrastructure acutely aligned with the current movement toward data exchange models in the Economic domain where actors regain transactional sovereignty to share accurate information bilaterally.
-
-* [Spruce and TBD Demonstrate Decentralized Identity Interoperability](https://blog.spruceid.com/spruce-and-tbd-demonstrate-decentralized-identity-interoperability/)
-
-Spruce and TBD are the first two organizations to demonstrate support for all [five JWS algorithms](https://w3id.org/security/suites/jws-2020%23jose-conformance) for [JsonWebSignature2020](https://w3c-ccg.github.io/lds-jws2020/) (Data Integrity Proofs) and JWTs, for VCs and [W3C Verifiable Presentations](https://www.w3.org/TR/vc-data-model/%23presentations-0) (VPs), which is a major step toward vendor interoperability.
 
 * [SSI Report - Interoperability](https://www.youtube.com/watch?v%3DezInITzb9p4) RootsID
 

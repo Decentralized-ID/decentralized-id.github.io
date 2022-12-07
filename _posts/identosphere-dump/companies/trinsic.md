@@ -41,3 +41,7 @@ Trinsic has released some [tools to issue verifiable credentials](https://trinsi
 * [Trinsic just raised $8.5M 🎉 and we want to celebrate with you!](https://trinsic.id/trinsic-raises-8-5m-for-decentralized-identity-platform/)
 
 developers face a dizzying number of standards to be compatible with—“[SoulBound Tokens](https://nftnow.com/guides/soulbound-tokens-sbts-meet-the-tokens-that-may-change-your-life/)” and [“Web5](https://twitter.com/jack/status/1535314738078486533)” being the latest additions to the litany of W3C, ISO, DIF, ToIP, and other existing specs. Trinsic offers teams a single API that acts as an abstraction layer that bridges ecosystems, strips complexity away from the development process, and ensures products are future-proof.
+* [3 years ago today, we started Trinsic to make decentralized identity real](https://trinsic.id/trinsic-raises-8-5m-for-decentralized-identity-platform/) Tweet Thread by Riley
+  > Despite sending people to space, editing genes, and getting dangerously close to AGI, humanity hasn’t built a way for me to prove my legal name is Riley Hughes online.
+* [Creating Verifiable credentials in ASP.NET Core for decentralized identities using Trinsic](https://damienbod.com/2021/04/05/creating-verifiable-credentials-in-asp-net-core-for-decentralized-identities-using-trinsic/)
+  > This article shows how verifiable credentials can be created in ASP.NET Core for decentralized identities using the Trinsic platform which is a Self-sovereign identity implementation with APIs to integrate.
