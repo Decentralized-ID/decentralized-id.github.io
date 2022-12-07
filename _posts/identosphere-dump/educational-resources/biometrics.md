@@ -7,6 +7,12 @@ published: false
 
 All forms of face recognition are a menace to privacy, free speech, and racial justice. This post explores many of the various kinds of face recognition, and explains why all must be addressed by laws.
 
+* [Veridium Advocates for Use of NIST-approved Contactless Fingerprint Technologies](https://findbiometrics.com/veridium-advocates-use-nist-approved-contactless-fingerprint-technologies-090305/)
+
+Veridium is encouraging more organizations to embrace contactless fingerprint technologies, especially now that the NIST has laid out comprehensive guidelines for those interested in doing so.
+* [Imageware to add Biometrics to Blockchain Powered Self Sovereign Identity (SSI)](https://imageware.io/imageware-to-add-biometrics-to-blockchainpowered-self-sovereign-identity-ssi/)
+
+“As individual safety and privacy concerns become more prevalent in our daily lives, it’s vital that we have better, more decentralized methods of giving individuals autonomy over their identities. By joining the Decentralized Identity Foundation and Trust Over IP groups, we’ll be able to leverage their network and resources in our efforts to further develop a portfolio of SSI integrated biometric solutions.”
 
 
 # Biometrics
