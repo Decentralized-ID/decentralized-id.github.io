@@ -250,6 +250,11 @@ display brings in [a little bit of novelty 2](https://github.com/blockchain-cert
 
 
 
+* [XSL Labs: Your Data Belongs to You](https://www.xsl-labs.io/whitepaper/white_paper_en.pdf)
+
+The SDI technology constitutes a very important example of decentralized counter-power to the web giants. The SDI maintains to keep the practicality of a unique identifier while guaranteeing the security of the data and the user's sovereignty over it.
+
+
 
 
 * [Self-Sovereign Identity (SSI) and Verifiable Credentials (VC) in Ocean Protocol](https://port.oceanprotocol.com/t/proposal-walt-id-bringing-self-sovereign-identity-ssi-and-verifiable-credentials-vc-to-ocean-protocol-proof-of-concept/976)

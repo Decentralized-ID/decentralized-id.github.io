@@ -76,8 +76,7 @@ The biggest disadvantage of non-custodial wallets is their inaccessibility when 
 
 There's plenty of talk of super apps around at the moment as a variety of players attempt to become the western equivalent of the Asian app giants such as Alipay, Gojek and Kakao. But how do you get from a digital wallet to a super app?
 * [Validated ID's journey to becoming EBSI compliant](https://www.validatedid.com/post-en/validated-ids-journey-to-becoming-ebsi-compliant)
-
-* [Wallet Conformance Tests] are designed to demonstrate that the wallet provider can onboard users safely, receive verifiable credentials from a trusted issuer, and present verifiable credentials to a verifier. All of these, using of course EBSI infrastructure.
+  > [Wallet Conformance Tests] are designed to demonstrate that the wallet provider can onboard users safely, receive verifiable credentials from a trusted issuer, and present verifiable credentials to a verifier. All of these, using of course EBSI infrastructure.
 
 * [Custodial vs Non-custodial Wallets](https://academy.affinidi.com/custodial-vs-non-custodial-wallets-813f071de0b9) Affinidi
 

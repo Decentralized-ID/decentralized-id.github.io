@@ -1,5 +1,9 @@
 # Indicio Tech
 
+
+* [One woman’s open-source journey to decentralized identity](https://indicio.tech/blog/one-womans-open-source-journey-to-decentralized-identity-with-the-help-of-indicio-tech/) Indicio
+  > Noha Abuaesh, a Bahrain-based computer scientist, has been exploring decentralized identity for the last year, often with assistance from Indicio.tech’s open-source tools and free communications channels.
+
 * [Indicio expands workshops and introduces a new certification program](https://indicio.tech/blog/indicio-expands-decentralized-identity-workshops-and-introduces-new-certification-program/)
 
 Looking to get up to speed in decentralized digital identity and verifiable credentials? Our custom trainings and workshops are designed to provide key insights into fundamental use cases, dive deep into the impact of the technology, and offer both technical and nontechnical audiences the opportunity to ask the questions they need to continue their education in decentralized identity. Because nothing beats learning by doing.
@@ -50,6 +54,15 @@ We’ve completed what we set out to do two years ago: finish the technology’s
 Our [new funding](https://apnews.com/press-release/accesswire/technology-business-4dbf651613d76693bc479321f7b041f5) will be used to refine the open-source, decentralized-identity technology stack. We have the basic technology for a functional ecosystem, now we improve that functionality by adding all the features, user interfaces, and management tools that make it easier to deploy, use, and monitor.* [Indicio Launches Proven, A Complete Trusted Digital Ecosystem For Sharing Actionable, Trustworthy Data](https://www.accesswire.com/viewarticle.aspx?id%3D708970)
 
 "Indicio Proven is how you get actionable data without sacrificing privacy or security," said Heather Dahl, CEO of Indicio. "What makes data actionable is that it can be trusted. You can prove its source. You can prove it hasn't been faked or tampered with. Decentralized identity has long been seen as the solution to the interconnected problems of verification, privacy, and security. With Indicio Proven, the marketplace now has a range of ready-to-use products to implement that solution and create Trusted Digital Ecosystems for sharing and verifying data at any scale."
+* [Indicio launches blockchain-enabled network for identity](https://indicio.tech/blog/indicio-launches-blockchain-enabled-network-for-identity/)
+  > “Our clients asked for a stable, fully-staffed network based on Hyperledger Indy— one that could provide the  Service Level Agreements their customers need for mission-critical workloads,” said Heather Dahl, CEO of Indicio. “Today, we are excited to announce that this MainNet is open for business.”
+  > 
+  > “This is the network we need to accelerate adoption of passwordless zero trust ecosystems for enterprise customers” said Mike Vesey, President of [IdRamp](https://idramp.com), a leader in decentralized identity and a Genesis Node Operator on the Network.
+* [Become a Node Operator](https://indicio.tech/blog/be-a-part-of-the-most-dynamic-network-community-in-decentralized-identity/) Indicio
+  > we’ve seen a rapid rise in demand for robust, stable, and professionally maintained networks to support decentralized identity solutions. It’s not a surprise: decentralized identity’s moment has arrived. That’s why we’ve been hard at work creating Hyperledger Indy networks upon which developers all over the world are building, testing, and launching their solutions.
+* [Indicio completes Hyperledger Indy DID Method—A Milestone in the Evolution of DID Interop](https://indicio.tech/indicio-completes-hyperledger-indy-did-method-a-milestone-in-the-evolution-of-decentralized-identity-network-interoperability/)
+
+The Indy DID Method paves the way for Hyperledger Indy credentials to scale globally by allowing Indy networks to seamlessly interoperate and create a “network-of-networks” effect.
 
 * [Prove it all with Indicio Proven](https://indicio.tech/prove-it-all-with-indicio-proven/) Indicio
 
@@ -69,3 +82,32 @@ how new identity-based technology can help people, governments and companies dev
 Indicio worked with SITA and the Aruban government to develop a decentralized identity solution for managing Covid testing and vaccination for travelers to the tourism-dependent island.
 
 
+## Code
+
+* [Why the Indicio TestNet is the Best Way to Explore Decentralized Identity](https://indicio.tech/why-the-indicio-testnet-is-the-best-way-to-explore-decentralized-identity/)
+
+Indicio Thought Leadership
+* [Introducing the Indicio DemoNet—a new decentralized network for product demonstration](https://indicio.tech/blog/introducing-the-indicio-demonet-a-new-decentralized-network-for-product-demonstration/) Indicio
+
+The Indicio DemoNet joins the [Indicio TestNet](https://indicio.tech/indicio-testnet/), which is used for developing new technology releases, and the [Indicio MainNet](https://indicio.tech/indicio-mainnet/), which hosts mission-critical products and services. With the DemoNet, Indicio now provides a full suite of networks for decentralized identity development and deployment.
+* [Scale Your Decentralized Identity Solution by Upgrading to the Indy DID Method](https://indicio.tech/scale-your-decentralized-identity-solution-by-upgrading-to-the-indy-did-method/) Indicio
+
+Again, the Indy DID Method is not an optional upgrade. It’s a major development that delivers interoperability.
+* [Identity Blockchains and Energy Consumption](https://indicio.tech/identity-blockchains-and-energy-consumption/) Indicio
+  A decentralized network using a blockchain-based distributed ledger means you can use [Peer DIDs](https://identity.foundation/peer-did-method-spec/) to move most “transactions” and their cryptographic proofing off ledger. This means that for those peer-to-peer interactions, identity blockchains don’t need to do any ledger transactions at all.
+* [Houston we have a Problem – An Identity Problem in the Oil and Gas industry](https://www.youtube.com/watch?v%3DIat3GYRyfpE) Indicio
+  > - President Biden’s cybersecurity executive order
+  > - The security landscape for global enterprises
+  > - Decentralized identity, what it is and how it fortifies existing data infrastructure
+  > - Case study: applying zero trust and decentralized identity to energy
+* [Bonifii increases financial inclusion with GlobaliD digital wallet and Indicio Network](https://bonifii.com/2021/10/bonifii-increases-financial-inclusion-with-globalid-digital-wallet-and-indicio-network/)
+
+CULedger is now [Bonifii](https://bonifii.com/)! Delivering a trusted peer-to-peer services network of verifiable exchange for financial cooperatives.
+* [Trust Registry or Machine-Readable Governance?](https://indicio.tech/trust-registry-or-machine-readable-governance/) Indicio Tech
+
+The world will move towards decentralized identity if we make it easy for them to do so—and easy means, above all, fast. The solution is machine readable governance—a smart way of implementing rules for how to manage trust.
+* [Decentralized Identity opens the doors for safe travel and tourism](https://indicio.tech/blog/decentralized-identity-opens-the-doors-for-safe-travel-and-tourism/) Indicio
+
+Machine readable governance enabled businesses and venues to trust that tourists had been tested on arrival by Aruba’s health department. Visitors using the digital Aruba Happy Traveler Card could be swiftly and reliably verified with a phone app. This freed both businesses and the government from the burden of mechanically collecting data with the attendant risk of error or fraud.
+
+* [Paving the way to safer travel](https://indicio.tech/blog/paving-the-way-to-safer-travel/) Indicio

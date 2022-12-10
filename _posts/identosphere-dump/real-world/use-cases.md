@@ -88,11 +88,6 @@ published: false
 
 * [Can SSI Safeguard your Information from Hackers?](https://academy.affinidi.com/can-ssi-safeguard-your-information-from-hackers-1b256d3eb6cd) Affinidi
   > The cryptography used is called the Public Key Infrastructure (PKI) that comprises a pair of public and private keys where the holder keeps the private keys, but shares the public keys.
-* [Houston we have a Problem – An Identity Problem in the Oil and Gas industry](https://www.youtube.com/watch?v%3DIat3GYRyfpE) Indicio
-  > - President Biden’s cybersecurity executive order
-  > - The security landscape for global enterprises
-  > - Decentralized identity, what it is and how it fortifies existing data infrastructure
-  > - Case study: applying zero trust and decentralized identity to energy
 
 * [Can SSI Disrupt Surveillance Capitalism?](https://academy.affinidi.com/can-ssi-disrupt-surveillance-capitalism-5c8cd6b50278) Affinidi
   Are these advantages enough to disrupt surveillance capitalism? Do you think SSI is the antidote for today’s Internet identity problems and surveillance capitalism? Please share your thoughts with us.
@@ -189,9 +184,6 @@ At the root of the problem is the fact that uniquely identifying a person is har
 * [Trusted Career Credentials](https://www.linkedin.com/pulse/trusted-career-credentials-dr-gordon-jones/) Dr Gordon Jones
 
 Today, even in this digital world that has expanded over the past two years, the job market still relies on self-reported attributes, records, resumes, and/or LinkedIn profiles, that individuals share with employers or recruiters as the source for applicants and employee data.
-* [IdRamp Identity Solutions – Reality 2.0 Podcast](https://idramp.com/idramp-and-identity-solutions-reality-2-0-podcast/)
-
-Doc Searls and Katherine Druckman talk to Mike Vesey, CEO of IdRamp, about verifiable credentials, decentralization, and real-world identity solutions.
 
 * [Leveraging Self-Sovereign Identity, Blockchain, and Zero-Knowledge Proof to Build a Privacy-Preserving Vaccination Pass](https://arxiv.org/pdf/2202.09207.pdf) Maurício Barrosa, Frederico Schardong, Ricardo Felipe Custódio
 
@@ -287,14 +279,14 @@ Learn how Bonifii is using Verifiable Credentials as a Digital Transformation me
 
 The latest real estate trend reports show how the pandemic has accelerated the use of technology and the implementation of trends such as teleworking and digitisation of processes. Find out how digital signatures are revolutionising the industry.
 
+* [Building an SSI Ecosystem: MemberPass and Credit Unions](https://www.windley.com/archives/2021/06/building_an_ssi_ecosystem_memberpass_and_credit_unions.shtml)
+
+Credit unions and their members face the threat of fraud on all sides. And credit unions employ lots of tools to fight it. But ultimately, the problem comes down to the member and credit union authenticating each other. The problem is that doing this securely annoys people.
 * [IdRamp and QiqoChat Announce Verifiable Credentials for Online Collaboration](https://talkcmo.com/news/idramp-and-qiqochat-announce-verifiable-credentials-for-online-collaboration/)
 
 QiqoChat has really stepped up in this time of need to provide an incredible online event user-experience, enabling a re-creation of the IIW experience throughout our Covid travel restrictions. This week they announced the launch of a Verifiable Credentials integration with the QiqoChat platform.
 
 > The community of professionals working on data privacy & consumer protection has been an early adopter of QiqoChat. During regional and global conferences, they have used the platform to share ideas and deliberate about the future of user-centric identity. Through these conferences, we’ve learned how solutions like IdRamp can be tremendously empowering for Internet users.
-* [Building an SSI Ecosystem: MemberPass and Credit Unions](https://www.windley.com/archives/2021/06/building_an_ssi_ecosystem_memberpass_and_credit_unions.shtml)
-
-Credit unions and their members face the threat of fraud on all sides. And credit unions employ lots of tools to fight it. But ultimately, the problem comes down to the member and credit union authenticating each other. The problem is that doing this securely annoys people.
 
 * [Simplify medical supply orders with SSI: Techruption innovation project](https://www.brightlands.com/en/brightlands-smart-services-campus/brightlands-techruption-SSI-simplifies-medical-supply-orders)
 
@@ -522,11 +514,6 @@ AERGO is proud to announce the launch of the AERGO Venture Fund: a fund dedicate
 I had a stab at why Cardspace failed, in “[Identities Evolve: Why Federated Identity is Easier Said than Done](https://papers.ssrn.com/sol3/papers.cfm?abstract_id%3D2163241)
 
 Why does digital identity turn out to be such a hard problem? People are social animals with deep seated intuitions and conventions around identity, but exercising our identities online has been hugely problematic.
-
-
-* [Trust Registry or Machine-Readable Governance?](https://indicio.tech/trust-registry-or-machine-readable-governance/) Indicio Tech
-
-The world will move towards decentralized identity if we make it easy for them to do so—and easy means, above all, fast. The solution is machine readable governance—a smart way of implementing rules for how to manage trust.
 
 * [Sandeep Shukla · Professor, Computer Science and Engineering at Indian Institute of Technology, Kanpur](https://www.linkedin.com/feed/update/urn:li:ugcPost:6924705964537389056/) Linkedin
 

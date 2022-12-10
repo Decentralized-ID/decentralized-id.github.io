@@ -59,11 +59,7 @@ A comprehensive Article on CoinDesk about the future and what SSI looks like in 
   > The conversation details the 'three pillars of SSI' (verifiable credentials, decentralised identifiers and blockchain), how SSI fits with existing processes, what it should appear as to end users (and what level of education they need around the technology), the importance of accessibility for inclusivity, and what's next for Tykn. "In 5 years, people should take [SSI] for granted" Khalid Maliki
 * [5 identity priorities for 2021—strengthening security for the hybrid work era and beyond](https://www.microsoft.com/security/blog/2021/01/28/5-identity-priorities-for-2021-strengthening-security-for-the-hybrid-work-era-and-beyond/) Microsoft
   > In this paradigm, individuals can verify a credential with an ID verification partner once, then add it to Microsoft Authenticator (and other compatible wallets) and use it everywhere in a trustworthy manner.
-* ['When you invent the ship, you invent the shipwreck'](https://datasovereigntynow.org/2021/01/18/when-you-invent-the-ship-you-invent-the-shipwreck/) Katryna Dow, founder and CEO of Meeco [VIDEO]
-  > Katryna believes that it is vital for the future of the internet that people and organisations obtain control of their data. This concept is called ‘data sovereignty’, but achieving that means rethinking the digital infrastructure the current internet is built upon. She calls for a soft infrastructure that consists of agreements between public and private-sector parties about the access to data.
 
-* [Okta CEO: Here’s where cloud identity management is headed](https://www.csoonline.com/article/3607350/okta-ceo-here-s-where-cloud-identity-management-is-headed.html) CSO
-  > CSO: Do you have an opinion on self-sovereign identity?McKinnon: I do. I think that it’s the future. We’ve got to get it done. The problem is: How does it get bootstrapped? How does it get useful in enough places so that enough people use it to make it useful? Where is it going to come from?
 
 * [The Past, Present and Future of Identity](https://www.thinkdigitalpartners.com/guest-blog/2021/02/15/the-past-present-and-future-of-identity/)
   > Susan Morrow, considers the ‘digital identity journey’ to date and the important opportunity for the government to make use of the lessons learned when creating tomorrows digital identity ecosystem.

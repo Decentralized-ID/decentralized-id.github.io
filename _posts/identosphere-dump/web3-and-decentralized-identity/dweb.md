@@ -9,6 +9,11 @@ published: false
 It’s time to start implementing it and testing it out with applications of all stripes, and I invite all of you to join me in doing just that.
 * [Simon Wilson writes about using IndieAuth with Datasette](https://simonwillison.net/2020/Nov/18/indieauth/)
   > IndieAuth is a spiritual successor to OpenID, developed and maintained by the IndieWeb community and based on OAuth 2. This weekend I attended IndieWebCamp East Coast and was inspired to try my hand at an imPplementation. datasette-indieauth is the result, a new plugin which enables IndieAuth logins to a Datasette instance.
+
+* [@ProtoResearch](https://twitter.com/ProtoResearch) [Protocol Labs Research](https://twitter.com/ProtoResearch)
+
+Looking to improve the DWeb? Take a look at our RFP-013: "Cryptonet Network Grants" and how you can be awarded up to $35,000 USD for solving research problems regarding cryptography: [https://grants.protocol.ai/prog/rfp-013_cryptonet_network_grants/](https://grants.protocol.ai/prog/rfp-013_cryptonet_network_grants/)
+
 * [Social.Network, a decentralized alternative to traditional social media that gives its users ownership of their identity and digital assets, to launch first phase of its protocol on April 22nd](https://financialpost.com/globe-newswire/social-technologies-announces-launch-of-the-social-network-a-decentralized-platform-designed-to-transform-the-future-of-social-media-social-network-a-decentralized-alternative-to-traditional-social)
   > interested users will be able to create a self-sovereign identity on the platform by following the steps on the [social.network](https://t.co/xRbWzSrZQf) landing page (h/t [@SelfSovID](https://twitter.com/SelfSovID)
 * [How to Sign Users In with IndieAuth](https://aaronparecki.com/2021/04/13/26/indieauth) Aaron Parecki

@@ -415,6 +415,11 @@ Let’s examine how SSI meets each of the articles from #13 to #22.
 
 * [Introducing the SSI eIDAS Legal Report](https://ssimeetup.org/introducing-ssi-eidas-legal-report-ignacio-alamillo-webinar-55/) – Ignacio Alamillo – Webinar 55
   > The European Commission developed the [SSI (Self-Sovereign Identity) eIDAS bridge](https://joinup.ec.europa.eu/collection/ssi-eidas-bridge), an ISA2 funded initiative, to promote eIDAS as a trust framework for the SSI ecosystem. It assists a VC (Verifiable Credential) issuer in the signing process, and helps the verifier to automate the identification of the organization behind the issuer’s DID (Decentralized Identifier)
+* [Validated ID's journey to becoming EBSI compliant](https://www.validatedid.com/post-en/validated-ids-journey-to-becoming-ebsi-compliant)
+
+We at Validated ID have been betting on EBSI since the beginning. We started working to become conformant wallet providers since the very first version of [Wallet Conformance Tests (WCT)](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/EBSI%2Bwallets) was published. The process of preparing our solution to become conformant has allowed us to appreciate how remarkable EBSI's work has been.
+
+
 * [The time for the eIDAS Bridge](http://validatedid.com/post-en/the-time-for-the-eidas-bridge) ValidatedID
 
 The main goal of this new program was to provide an implementation of eIDAS bridge and to proof the interoperability between different provider implementations. Validated ID was selected to participate in part of the Call 1 of infrastructure. The results of this project are available as open source. If you are interested in digging into the code, you can find it all in the following repositories: [our open source version implementation](https://gitlab.grnet.gr/essif-lab/infrastructure/validated-id/seb) and the [SSI eIDAS Bridge interoperability](https://gitlab.grnet.gr/essif-lab/interoperability/ssi-eidas-bridge) performed with SICPA.
@@ -458,11 +463,3 @@ Opportunity 4: Secure messaging.
   > Europe’s digital transformation of the economy and society is framed by the European strategy for data through the establishment of a common European data space based on domain-specific data spaces in strategic sectors such as environment, agriculture, industry, health and transportation.
 
 * [Joining forces towards European digital credentials](https://onedrive.live.com/?authkey%3D%2521ADoEGcIwiKDydcg%26cid%3DF7FF746DED29F767%26id%3DF7FF746DED29F767%252183805%26parId%3DF7FF746DED29F767%252183804%26o%3DOneUp) European Commission
-* [final phase eSSIF-Lab and maximum funding by the European Commission](https://medium.com/@WorkX/announcing-selection-final-phase-essif-lab-and-maximum-funding-by-the-european-commission-80e4ef8912db) Work X
-
-our team has been selected to enter the third and final phase of the European Self-Sovereign Identity Framework Lab. [...] to let employees regain control over their career-related data. Therefore receiving the maximum development grant of €106.000
-* [BLOQZONE RECEIVES €155K EU GRANT FROM ESSIF-LAB FOR PROJECT SSICOMMS](https://bloqzone.com/ssicomms/)
-
-We don’t know what this is… is it DIDComm? if not what is it?
-
-The project SSIComms adds SSI to internet communications by adding SSI wallets to the renowned SYLK Suite, an award winning ensemble of communications solutions with the SIP protocol at its core. This enables users to respond to presentation requests for credentials entirely voluntarily and according to SSI principles during communications sessions.

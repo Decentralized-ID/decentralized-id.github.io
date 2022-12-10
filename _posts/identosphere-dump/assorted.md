@@ -72,8 +72,6 @@ Digital Caribou shares their thoughts on [Digital Transformation and inclusion](
   > Every technology is a two-edged sword, gunpowder, guns, you know anything? There’s an upside and there’s the downside. I think that’s something that we have to be very cognizant of.
 * [The Domains of Identity and SSI with “Identity Woman”](https://www.ubisecure.com/podcast/domains-of-identity-ssi-identity-woman-kaliya-young/), Kaliya Young
   > Kaliya and Oscar discuss the long-running Internet Identity Workshop (IIW) that she co-founded, the effects of moving to virtual identity conferences in 2020, insights from Kaliya’s books – ‘The Domains of Identity’, newly published in 2020, and ‘A Comprehensive Guide to Self Sovereign Identity’ – plus some great tips for all business leaders on how to view the role of identity in their organisation.
-* [One woman’s open-source journey to decentralized identity](https://indicio.tech/blog/one-womans-open-source-journey-to-decentralized-identity-with-the-help-of-indicio-tech/) Indicio
-  > Noha Abuaesh, a Bahrain-based computer scientist, has been exploring decentralized identity for the last year, often with assistance from Indicio.tech’s open-source tools and free communications channels.
 * [Self-Sovereign Identity Authors Alex Preukschat & Shannon Appelcline](https://securetalkpodcast.com/podcast/self-sovereign-identity-alex-preukschat-shannon-appelcline/) Discussing
   > Decentralized digital identity and verifiable credentials explain what Self-Sovereign Identity (SSI) is, why it’s important, and provide examples of practical applications for individuals and organizations.
 

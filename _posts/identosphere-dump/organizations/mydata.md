@@ -5,13 +5,6 @@ published: false
 # MyData
 * [Crossing the Chasm for Privacy respecting Identity, MyData 2020](https://www.youtube.com/watch?v=o5ol_XO2ZIc) *Presenters: Nat Sakimura, Sheila Warren. Host: Kristina Yasuda.
   > 1. Accountable Digital Being2. Expressive Digital Being3. Fair Handling of personal data4. Right NOT to be forgotten5. Human Friendly6. Open, Interoperable, Leveraging Existing Infrastructure, and Tested7. Everyone Benefits
-* [Why we need new, nationwide personal data infrastructure](https://medium.com/mydex/why-we-need-new-nationwide-personal-data-infrastructure-56513fb6daf4)
-
-The central plank of Mydex CIC’s consultation response is that the UK needs to build a new layer of data logistics infrastructure that:
-
-- Includes citizens in the workings of the data economy, empowering them with the ability to collect, store, use and share data about themselves independently of any data controllers they may have data relationships with.
-- To achieve this, the Government needs to ensure that every citizen is provided with their own personal data store, which enables citizens to collect, store, share and use their own data, under their own control, for their own purposes, independently of any organisation that may have collected data about them.
-- These personal data stores should be designed to act as neutral, enabling nodes in a vibrant data sharing network, whereby citizens can obtain copies of their data held by organisations and can forward relevant elements of this data (such as Verified Attributes) to other data users under their control, as and when beneficial and necessary.
 * [MyData Online Demo "Keep a Lifelog with Personium"](https://www.youtube.com/watch?v=jWm2j7AF6aU)
 
 - Before: Your personal data stored separately in the silos of various domain services…
@@ -22,25 +15,11 @@ The central plank of Mydex CIC’s consultation response is that the UK needs to
 
 * [Why 2021 is shaping up to be an exciting year for Regtech and data exchange](https://blog.digi.me/2021/03/16/why-2021-is-shaping-up-to-be-an-exciting-year-for-regtech-and-data-exchange/)
   > Joanne stated the company’s aim is to extol the benefits of giving app developers rapid ability to create hyper-personalised services built on ethical data with ingrained consent controls and privacy-by-design principles. Crucially, a lot of ADX’s efforts are going into making it clear to fintechs and innovators that fundamental backend system services already exist, and are ready to be utilised to fast track new products and services into the market today, not in some mythical future.
-
-* [Achieving Change At Scale](https://medium.com/mydex/transforming-the-system-a-roadmap-for-practical-implementation-411e8821ed19)
-  > This is the third in a series of blogs providing edited extracts from Mydex CIC’s response to the UK Government [consultation around a new National Data Strategy](https://www.gov.uk/government/consultations/uk-national-data-strategy-nds-consultation).
-
-The first focused on [how to unleash the full potential of personal data](https://medium.com/mydex/how-to-unleash-the-full-potential-of-data-3676db8d7c03), the second on why [every citizen should be provided with their own personal data store](https://medium.com/mydex/how-to-unleash-the-full-potential-of-data-3676db8d7c03). This blog explains why this strategy can be quick and easy to implement.
-
-To catch up on progress on our Macmillan My Data Store Pilot [click here](https://medium.com/macmillan-my-data-store-pilot).
-* [Misconceptions that Kill Progress in Personal Data](https://medium.com/mydex/misconceptions-that-kill-progress-in-personal-data-4736b1d883c6)
-  > It is not possible to make good policy decisions about priorities for investments, grants, innovation and research projects or rules and regulations if the grounds for these decisions are faulty. Currently, effective policy making is hampered by widespread misunderstandings about where the biggest economic opportunities lie, the nature of issues such as control, and the role of citizens in the workings of the data economy.
 * [MyData Weekly Digest for January 22nd, 2021](https://weekly-digest.ownyourdata.eu/en/weekly/2021-01-22)
   > Welcome to the MyData Weekly Digest, a news site dedicated to producing the best coverage from within the human centred approach in personal data management. It provides information retrieved mainly from the MyData Global Slack Channel since June 2019.
 
 * [Me2BA Claims Victory in Contest Over California Privacy Regulations](https://me2ba.org/me2ba-claims-victory-in-contest-over-california-privacy-regulations/)
   > On March 15th, the AG’s Office of Administrative Law (OAL) approved additional CCPA regulations promulgated by the Department of Justice. Notably, the Department withdrew its original language mandating the “Privacy Options” icon. In its place is new language making commercial use of the icons optional only.  In other words, our stated concerns about the icons were well received, and ultimately adopted.
-
-* [Not Just Personal Data Stores](https://medium.com/mydex/not-just-personal-data-stores-f2070eada6be) Alan Mitchell
-  > This is the fifth in a series of blogs which provide edited extracts of key points made by Mydex CIC in its response to the UK Government [consultation around a new National Data Strategy](https://www.gov.uk/government/consultations/uk-national-data-strategy-nds-consultation).
-
-This blog focuses on the main ingredients needed to unleash the full potential of personal data — in addition to personal data stores.
 * [Here are five key takeaways – described in detail in the State of MyData 2021](https://mydata.org/2021/05/10/the-state-of-mydata-2021/)
 
 1. MyData is highly relevant to the “big conversations” of our time.
@@ -64,13 +43,6 @@ Johannes Ernst, CEO of Indie Computing and co-founder of MyData Silicon Valley, 
 Yorz has partnerships with leading European payment processors and uses patented technology to automatically capture and make available till receipt data for users to share and monetise. They can also gather other valuable data from across their lives, including finance, health and social media, using digi.me’s personal data exchange platform. The Yorz marketplace enables consumers to choose to receive cash, discounts or tailored offers based on the data access they offer brands, leaving them firmly in control.
 * [Shedding Light on Dark Patterns](https://me2ba.org/shedding-light-on-dark-patterns/)
 * [The Me2B Alliance announces: Digital Harms Dictionary 2.0](https://me2ba.sharepoint.com/:x:/s/Marketing/EeYWAV1wqqNNj77iE86ijZUBBPtlpg2uHQwQ22vzDfXSgA?rtime%3DRewrj0Qu2Ug)
-* [Can I trust you?](https://medium.com/mydex/can-i-trust-you-6771a6ca0e35) MyDex
-  > This is the second of two blogs on our new White Paper: [Achieving Transform At Scale](https://mydex.org/resources/papers/AchievingTransformationatScaleMydexCIC-2021-04-14.pdf). The [first blog](https://medium.com/mydex/our-new-white-paper-achieving-transformation-at-scale-f97320f8447e) focused on the infrastructure challenge. This blog focuses on the parallel need for institutional innovation.
-
-* [Our New White Paper: Achieving Transformation At Scale](https://medium.com/mydex/our-new-white-paper-achieving-transformation-at-scale-f97320f8447e)
-
-Link to [White paper](https://mydex.org/resources/papers/AchievingTransformationatScaleMydexCIC-2021-04-14.pdf) “It’s not enough to identify what’s wrong with how things work today.“
-
 ## MyData 2020 Online good sessions continued…
 
 * [MyData4Children-OpenSpace2020](https://bit.ly/MyData4Children-OpenSpace2020-Memo)
@@ -135,10 +107,6 @@ Ian Henderson talks about leading the application process for two MyData Operato
 > 2. Clear and comprehensive scope
 > 3. Moderate requirements
 > 4. Interoperability between the data sharing services
-
-* [Revolutionising healthy ageing](https://medium.com/mydex/revolutionising-healthy-ageing-200a7edd1016)
-
-Mydex’s role will be to provide the data sharing infrastructure to enable individuals and service providers to safely and efficiently share the right data at the right times, in ways that protects individuals’ privacy and puts them in control of their data at all times and enable two way engagement and feedback throughout the project.
 * [How digi.me and DTACT’s partnership is opening up a bright future for user centricity](https://blog.digi.me/2021/07/06/how-digi-me-and-dtacts-partnership-is-opening-up-a-bright-future-for-user-centricity/) Digi.me
 
 Sander Swinkels, DTACT CEO, explains that a common vision of securely enabling – and safeguarding – the sharing of personal data with consent is what drew the two companies together. And they have been working to build something unique, frictionless and fast with users firmly at the centre, based on an open framework which is easily scalable.
@@ -153,9 +121,6 @@ MyLog/LogBoard pulls together health information on temperature, sleep, heart ra
 
 Several committees promote the MyData movement in Japan in specific thematic areas. One of the most active committees is the Public Policy Committee, which has submitted expert opinions from the MyData Japan community to the Japanese government’s Public Comments.
 
-* [Designed for Integrity](https://medium.com/mydex/designed-for-integrity-13a69bcda0b2) MyDEX
-
-Below are some of the design principles that underpin our infrastructure and services — principles designed to ensure that what we do truly does serve citizens, today and into the future.
 * [MyData and the European Union’s Latest Data Developments](https://mydata.org/2021/10/28/mydata-and-the-european-unions-latest-data-developments/)
 
 The development of the Data Governance Act (DGA) is exciting for MyData because it shows a clear link to the [MyData Operators white paper](https://mydata.org/wp-content/uploads/sites/5/2020/04/Understanding-Mydata-Operators-pages.pdf), which describes the operations and functions of what the EU terms as “data intermediaries”.
@@ -164,9 +129,6 @@ The development of the Data Governance Act (DGA) is exciting for MyData because 
 As highlighted by the ongoing Facebook Files scandal, transparency and accountability in personal data are increasingly acknowledged as critical for safety online.  To show their commitment to ethical personal data management, participating organisations are required to disclose information about their operations. The MyData Operator Award shows that ethical alternatives exist and provide value for companies and users alike.
 The [Internet Society Foundation recently granted the Me2B Alliance $100,000](https://me2ba.org/me2b-alliance-awarded-100k-grant-for-us-pre-k-12-benchmark-to-research-school-utility-apps-data-sharing/) to complete its “U.S. EdTech Industry Benchmark: Data Sharing in Primary & Secondary School Mobile Utility Apps.” The benchmark will build on previous findings about harmful data sharing practices by uncovering how sensitive student information is being treated by school utility apps in grades pre-k through 12 in schools across the nation.
 
-* [AI: The Emperor’s New Clothes?](https://medium.com/mydex/ai-the-emperors-new-clothes-91de9eed3650) Mydex
-
-One reason the UK Government wants to abolish citizens’ rights to data protection is to create conditions for Artificial Intelligence (AI) to blossom. This, it says, will “bring incredible benefits to our lives”.
 * [My Data Community Looks Outward and to the Future](https://mydata.org/2021/11/26/mydata-netherlands-meeting-mydata-community-looks-outward-and-to-the-future/) MyData Netherlands
 
 Highlights include the keynote from Amsterdam’s chief technology officer, Ger Baron and the awarding of the MyData Operator 2021 Awards to 22 companies and organisations.
@@ -174,13 +136,6 @@ Highlights include the keynote from Amsterdam’s chief technology officer, Ger 
 * [Co-managing My Data](https://www.jlinc.com/post/co-managing-my-data) JLinc
 
 This post sets out a vision for what could become a sustainable set of human-centric processes around the sourcing, management and use of personal data. Our context for doing so is that the current model for personal data management on The Internet is badly broken and has architectural limitations that are largely un-resolvable.
-* [Deploying Personal Data Stores at Scale](https://medium.com/mydex/deploying-personal-data-stores-at-scale-ad35fb205e73)
-
-The big question now is how to enable this to happen at scale, safely, securely and efficiently. One key element of this is useful, easy-to-use interfaces, the taps and switches that mean people can use the infrastructure without having to think much about it. .
-
-* [Flicking the Switch of Personal Data](https://medium.com/mydex/flicking-the-switch-of-personal-data-4c5d0d368a31) MyDex
-
-Over the last 14 years we have built the infrastructure needed to make citizen data empowerment possible — infrastructure capable of providing every individual with their own personal data store, where they can safely and securely collect their own data, use it and share it under their own control. This infrastructure is now live and operational, officially recognised as a supplier to public services on procurement platforms in both England and Scotland and independently accredited for data management security under ISO 27001.
 
 * [Data Co-Operatives through Data Sovereignty](https://www.mdpi.com/2624-6511/4/3/62)
 

@@ -12,6 +12,7 @@ published: false
 * [Decentralized Business Model](https://sgershuni.medium.com/decentralized-business-model-4c540ea5b769) Stepan Gershuni
   > How reduction in transaction costs influence evolution in digital business models
 
+
 * [Businesses need to ‘mind the trust gap’ so users don’t need to sacrifice privacy, MEF Global Consumer Trust Survey finds](https://blog.digi.me/2021/05/20/businesses-need-to-mind-the-trust-gap-so-users-dont-need-to-sacrifice-privacy-mef-global-consumer-trust-survey-finds/) DigiMe
 
 Key findings from the report are:

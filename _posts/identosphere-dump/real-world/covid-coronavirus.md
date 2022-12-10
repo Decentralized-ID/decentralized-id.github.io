@@ -490,3 +490,10 @@ Highlights from Ping Identity’s Andre Durand, and Richard Bird on an episode o
 > - Takeaway #3: We’re on the cusp of a tectonic shift in the notion of digital identity.
 > - Takeaway #4: The pandemic has accelerated the changes needed to shape the future of digital identity security.
 > - Takeaway #5: Moving control of digital identity to the individual will dramatically change our current identity and access management systems.
+>
+
+## Zada
+
+* [We are now officially live in Myanmar!](https://zada.io/we-are-now-officially-live-in-myanmar/)
+
+ZADA apps are all launched and our first digital ID – a COVIDPASS – is being issued by Pun Hlaing Hospitals to everyone who gets vaccinated.

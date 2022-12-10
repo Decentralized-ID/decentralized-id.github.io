@@ -46,3 +46,5 @@ Working here is an absolute dream, and joining forces with [@okta](https://twitt
 
 Here's a🧵with a compilation of my favorite projects - the ones I can talk about in public anyway 😜
 
+* [Okta CEO: Here’s where cloud identity management is headed](https://www.csoonline.com/article/3607350/okta-ceo-here-s-where-cloud-identity-management-is-headed.html) CSO
+  > CSO: Do you have an opinion on self-sovereign identity?McKinnon: I do. I think that it’s the future. We’ve got to get it done. The problem is: How does it get bootstrapped? How does it get useful in enough places so that enough people use it to make it useful? Where is it going to come from?

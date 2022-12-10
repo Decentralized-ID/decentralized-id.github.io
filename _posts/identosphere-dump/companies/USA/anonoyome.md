@@ -1,4 +1,4 @@
-# Anonyome
+# Anonoyome - MySudo
 
 - [We’ve Introduced the Sudo Platform Decentralized Identity Relay](https://anonyome.com/2022/06/weve-introduced-the-sudo-platform-decentralized-identity-relay/)
 * [Whitepaper – Innovating Identity and Access Management with Decentralized Identity](https://anonyome.com/2022/08/whitepaper-innovating-identity-and-access-management-with-decentralized-identity/)

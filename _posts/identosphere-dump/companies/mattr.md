@@ -14,3 +14,6 @@ These two international organizations are combining their talents to deliver SSI
 * [ARUCC is pleased to announce a partnership between Digitary, its service partner, and MATTR, a friend of MyCreds™](https://mycreds.ca/2021/04/14/bridging-today-and-tomorrow-ensuring-self-sovereignty-for-learners-through-aruccs-mycreds/).
 
 These two international organizations are combining their talents to deliver SSI (self-sovereign identity) and Verifiable Credentials for the ARUCC [MyCreds™](https://mycreds.ca/) virtual wallet. This groundbreaking work means the Canadian [MyCreds™](https://mycreds.ca/) credential wallet along with other international members of the Digitary global network will be able to reach an even higher bar of service delivery for mobile learners, creating a triangle of trust that includes them and the Canadian colleges and universities.
+* [Issuing credentials directly to the MATTR mobile wallet](https://medium.com/mattr-global/issuing-credentials-directly-to-the-mattr-mobile-wallet-8e8cab931e2e) Mattr
+
+If you’re already using a secure mechanism to authenticate your users, then setting up OIDC capability isn’t necessary. As we’ve explored, sending credentials using secure DID messaging directly or via a QR code or deep-link is safe, convenient and allows users to obtain their credentials directly.

@@ -27,3 +27,7 @@ Founded by Glen Weyl, [RadicalxChange (RxC) is a global movement for next-genera
 
 Featuring: *Matt Prewitt*, president of RadicalxChange Foundation; *Nick Vincent*, Ph.D. student in Northwestern University's Technology and Social Behavior program and is part of the People, Space, and Algorithms Research Group, our very own, *Kaliya Young*; moderated by *Jennifer Morone* is the CEO of RadicalxChange Foundation.
 
+
+New Podcast: [The Week in Identity](https://anchor.fm/the-cyber-hut/)
+
+"The Week in Identity" is focused on providing a weekly analyst briefing on the latest identity and access management news events, funding rounds, conference updates and more. Identity is now foundational for all employee, consumer and device based security and usability projects and is changing rapidly. Hosts Simon Moffatt (Founder at The Cyber Hut) and David Mahdi (ex-Gartner Analyst and CISO Advisor) provide impartial analyst comment and opinion on some of the most exciting trends within the IAM landscape.

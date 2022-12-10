@@ -6,6 +6,10 @@ published: false
 * [Face Recognition Isn’t Just Face Identification and Verification: It’s Also Photo Clustering, Race Analysis, Real-time Tracking, and More](https://www.eff.org/deeplinks/2021/10/face-recognition-isnt-just-face-identification-and-verification) EFF
 
 All forms of face recognition are a menace to privacy, free speech, and racial justice. This post explores many of the various kinds of face recognition, and explains why all must be addressed by laws.
+* [The Future of Digital Identity: Separating the digital from the individual](https://www.finextra.com/the-long-read/421/the-future-of-digital-identity-separating-the-digital-from-the-individual) ([Report](https://www.finextra.com/finextra-downloads/research/documents/245/the-future-of-digital-identity-2022.pdf)
+
+While biometrics are now part and parcel of life in 2022 – with the prevalence of mobile payments with Face ID and Touch ID – the concept of real-time and frictionless processes is what is driving the future of digital identity forward.
+* [Biometrics come to verifiable credentials with Applied Recognition and Sovrin Foundation](https://www.biometricupdate.com/202105/biometrics-come-to-verifiable-credentials-with-applied-recognition-and-sovrin-foundation)
 
 * [Veridium Advocates for Use of NIST-approved Contactless Fingerprint Technologies](https://findbiometrics.com/veridium-advocates-use-nist-approved-contactless-fingerprint-technologies-090305/)
 

@@ -394,8 +394,6 @@ This problem was first explored by MIT researchers Shafi Goldwasser, Silvio Mica
 
 Listen to this episode for an entertaining deep dive into the topic of badges and credentials, as Donald Taylor sits down with Dr. Doug Belshaw to discuss the importance, various fields of application
 
-* [SSI Essentials: What are Decentralized Identifiers (DIDs) & Verifiable Credentials (VCs)?](https://gataca.io/blog/self-sovereign-identity-ssi-101-decentralized-identifiers-dids-verifiable-credentials-vcs) Gataca
-
 * [Evolution of Self-Sovereign Identity (SSI)](https://lionsgate.io/evolution-of-self-sovereign-identity-ssi/)
 
 The public keys of the user and the third-party organization for verifying the digital signature are recorded in a distributed ledger, and the user of the identity information verifies the provided information using them. In this way, users can control their own identity information without relying on a specific central administrator.

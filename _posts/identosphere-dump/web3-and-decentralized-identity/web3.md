@@ -78,8 +78,6 @@ a16z, the famous venture capital company, is entering the DAO field through inve
 
 Passwordless authentication is a fundamental shift in how people will access their tools and information online, and it will provide more security, prevent billions in losses, and create greater transparency.
 
-The dark side of COVID vaccine
-
 
 
 * [Web3, Coherence, and Platform Sovereignty](https://www.windley.com/archives/2022/01/web3_coherence_and_platform_sovereignty.shtml) Phil Windley
@@ -111,7 +109,6 @@ The technical name for the model at work here is called the Direct Presentation 
 
 Tweets with Annoucements:
 
-* [AyanWorks](https://twitter.com/ayanworkstech/status/1488841615217098754): [@ayanworkstech](https://twitter.com/ayanworkstech) is excited to announce that we, along with our partners Vereign and [@DAASI_Int](https://twitter.com/DAASI_Int), have won 3 tenders from [@gaiax_aisbl](https://twitter.com/gaiax_aisbl) to build SSI solutions
 * [Web3, entangled: Holochain: a marlinspike to undo the knots](https://blog.holochain.org/web3-entangled/)
 
 Moxie argues that protocols evolve slowly, while platforms evolve quickly. That’s because a platform can make decisions without waiting for a whole crowd of others to reach consensus. But here’s the thing — some protocols don’t need to evolve quickly. As long as a ‘base protocol’ is versatile enough to let people create and express things in an unlimited range of fit-for-purpose application protocols, it can be as stale and boring as it likes. And it’s precisely the decentralisation, versatility, and stability of these base protocols — HTTP, email, and yes, Bitcoin and Ethereum — that allow platforms to innovate so quickly on top of them.
@@ -236,10 +233,6 @@ We encourage users to start creating and launching their profiles as we begin in
 
 Constantin Kogan joins Fabian Vogelsteller, Ethereum developer, LUKSO founder, creator of Mist browser, web3.js, Feindura (CMS), ERC20, and ERC-725 protocols, and author of Meteor.js.
 
-* [Magic Raises $27M to Future-Proof Authentication](https://medium.com/magiclabs/magic-raises-27m-to-future-proof-authentication-79d8c63b2813)
-
-Magic makes it plug and play for developers to add secure, passwordless login, like magic links and WebAuthn, to their applications. Users are no longer exposed to password-related risks from the very start.
-
 * [How Your Bank Can Custody Crypto and Remain Compliant](https://www.elliptic.co/blog/how-your-bank-can-custody-crypto-and-remain-compliant)
 
 Recent regulatory guidance has clarified that banks may serve as custodians of virtual assets. In response, the banking industry has rushed to understand how it can seize this new business opportunity, without creating an untenable amount of AML and regulatory risk
@@ -273,10 +266,6 @@ Panel speakers: - Jesus Ruiz, Member of the Board and CTO, Alastria - Jun Li, Fo
 
 Ian Grigg is one of the most influential builders in the crypto space, having built digital asset systems since the nineties. We discuss his invention of the Ricardian contract framework, what makes cryptonetworks successful, identity as communal phenomenon, and the importance of building positive-sum systems.
 
-* [Magic: A Key-Based Authentication System For Self-Sovereign Identity](https://www.dropbox.com/s/3flqaszoigwis5b/Magic%2520Whitepaper.pdf?dl%3D0)
-
-Since Magic’s authentication protocol is based on key pairs provided by decentralized blockchain networks, it is platform-independent and thus able to provide authentication service without having to rely on centralized identity providers.
-
 * [Self-Sovereign Identity, smart contracts and Web 3.0](https://hackernoon.com/self-sovereign-identity-smart-contracts-and-web-30-4dm375d) Hackernoon
 
 Public blockchain and smart contracts are a convenient and viable cloud for security-critical information and allow to implement more complex schemes. For example, your service requires that the user's identity be confirmed by some external KYC provider, or there must be an always available master public key to distribute software updates in the network (relevant for IoT).
@@ -296,10 +285,6 @@ verim’s initial product suite can be broken down into three parts.
   > OScore is not associated with your off-chain identities. In other words, it respects user privacy and supports full anonymity.
 
 * [Social KYC, an Alternate Form of Identity Verification for Web3, with Ingo Rübe](https://podcasts.apple.com/ca/podcast/15-social-kyc-alternate-form-identity-verification/id1552622325?i%3D1000525817275) @KILTProtocol.
-
-* [Decrypt trusts Magic to onboard record new user growth with the launch of reader tokens and rewards](https://medium.com/magiclabs/decrypt-trusts-magic-to-onboard-record-new-user-growth-with-the-launch-of-reader-tokens-and-rewards-14d791e582d5)
-
-I’ll cover how the Decrypt team streamlined development and onboarding to launch Decrypt Tokens and Drops — along with how crypto DNA and a leading product and team drove their trust in Magic.
 
 * [On the thermodynamics of Bitcoin, Dogecoin, Ethereum, and Holochain](https://blog.holochain.org/satoshi-nakamoto-and-the-fate-of-our-planet-2/)
 
@@ -659,7 +644,7 @@ The convergence of multiple rapidly maturing technologies, such as AI, IoT, and 
 
 Now is the key moment to bring the ethos, technology and ambition of web3 to the real world to solve human problems.
 
-* [Why the SSI community should embrace million dollar apes](https://medium.com/coinmonks/why-the-ssi-community-should-embrace-million-dollar-apes-61d119f20331) [Animo Solutions](https://medium.com/@AnimoSolutions)
+* [Why the SSI community should embrace million dollar apes](https://medium.com/coinmonks/why-the-ssi-community-should-embrace-million-dollar-apes-61d119f20331) Animo
 
 someone [opened his door using Ethereum](https://www.reddit.com/r/theinternetofshit/comments/r5n9pj/man_unlocks_door_using_eth_by_verifying_a_nft_ens/). As a self-sovereign identity developer [...] this is hilarious. I can think of ten ways to open your door that are more secure. But I believe there’s more to these stories. These people are coming up with solutions that are in line with most of the core values we in the SSI space have been working on for years.
 
@@ -968,3 +953,8 @@ Together with Archblock, the team behind the TrueFi protocol, MetaMask Instituti
 Musings from, amongst other places, Unfinished Live and DWeb Camp all written up in the Atlantic.
 
 Long before the NFT boom or the Web3 backlash, an unglamorous movement was under way. Where does it stand now?
+* [Gitcoin Passport To Make Fundraising, Governance More Fair](https://blockworks.co/gitcoin-passport-to-make-fundraising-governance-more-fair/) Blockworks
+
+Gitcoin isn’t the only project trying to solve decentralized identification (DID), but it does have a leg-up on the so-called “cold start” problem, Owocki said.
+
+“What everyone else is missing is usage.” Today there are few if any dApps using DID, thus few users care about having an effective DID system, and decentralized apps have no incentive to prioritize it.

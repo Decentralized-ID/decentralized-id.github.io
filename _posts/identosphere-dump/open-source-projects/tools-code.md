@@ -117,10 +117,6 @@ The 3Box Labs team recently published a new standard for creating capability con
 This new standard is currently in development for use on Ceramic. Once deployed in a future version of the protocol, it will allow Ceramic to be fully compatible with the new Sign-in with Ethereum (SIWE) specification as well as provide advanced data flow control features for resources stored on the Ceramic network.
 * [Create Verifiable Credentials Without Writing a Single Line of Code](https://blog.dock.io/verifiable-credentials-without-code/) Dock
 
-* [Why the Indicio TestNet is the Best Way to Explore Decentralized Identity](https://indicio.tech/why-the-indicio-testnet-is-the-best-way-to-explore-decentralized-identity/)
-
-Indicio Thought Leadership
-
 * [The SSI Kit](https://walt.id/blog/p/ssi-kit) Walt ID
 
 Introducing the SSI Kit, which offers developers and organisations an easy and fast way to use Self-Sovereign Identity (SSI).
@@ -196,9 +192,6 @@ Learn how APIs can accelerate software development and delivery.
 - @bloomprotocol/presentation-exchange
 - @bloomprotocol/credential-manifest
 
-* [Introducing the Indicio DemoNet—a new decentralized network for product demonstration](https://indicio.tech/blog/introducing-the-indicio-demonet-a-new-decentralized-network-for-product-demonstration/) Indicio
-
-The Indicio DemoNet joins the [Indicio TestNet](https://indicio.tech/indicio-testnet/), which is used for developing new technology releases, and the [Indicio MainNet](https://indicio.tech/indicio-mainnet/), which hosts mission-critical products and services. With the DemoNet, Indicio now provides a full suite of networks for decentralized identity development and deployment.
 * [How to write verifiable credentials in golang](https://ringaile.medium.com/how-to-write-verifiable-credentials-in-golang-7447234d5c16)
 Note: the code is written following the 
 [Verifiable Credentials Data Model 1.0](https://www.w3.org/TR/vc-data-model/)
@@ -303,9 +296,6 @@ This weekend I worked on making a [github action](https://github.com/features/ac
 * [@mfosterio · Apr 29](https://twitter.com/mfosterio/status/1520130657468440576) Twitter
 
 I created a DID at [http://GoDiddy.com](https://t.co/QhwQhqUz0k) did:key:z6MkfxFPD3vwny367HZVQoqUnKatH4RTHEitcbEdvxst3nZm#z6MkfxFPD3vwny367HZVQoqUnKatH4RTHEitcbEdvxst3nZm DIDs are important in Self Sovereign Identity. You can learn about DIDs [@bluesky_commons](https://twitter.com/bluesky_commons)
-* [Scale Your Decentralized Identity Solution by Upgrading to the Indy DID Method](https://indicio.tech/scale-your-decentralized-identity-solution-by-upgrading-to-the-indy-did-method/) Indicio
-
-Again, the Indy DID Method is not an optional upgrade. It’s a major development that delivers interoperability.
 
 * [Semantic Overlay Architecture](https://www.ownyourdata.eu/en/semantic-overlay-architecture/) Own Your Data
 

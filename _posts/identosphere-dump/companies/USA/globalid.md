@@ -1,4 +1,4 @@
-
+# GlobalID
 
 * [GlobalID Introduces Trustees for Key Recovery](https://medium.com/global-id/introducing-globalid-trustees-account-recovery-without-a-private-key-66142a21cba6)
   > Trustees can be friends or family members from your contact list. Once selected, each Trustee is granted a shard of your private key. Restoring your lost Identity requires approval from the majority of your Trustees.
@@ -27,3 +27,31 @@ how ID wallets work within the digital identity ecosystem, briefly explains the 
 * [The future of COVID credentials on GlobaliD](https://medium.com/global-id/the-future-of-covid-credentials-on-globalid-7a19a882cf90)
 
 With our new platform, we’ll also be releasing a brand new COVID credential. Users will be able to validate the authenticity of their digital vaccine record from around the world and store the proof of the validation as a credential in their GlobaliD app.
+* [Why self-sovereign identity matters](https://medium.com/global-id/why-self-sovereign-identity-matters-8fd2c982ca2e) GlobalID
+
+your digital identity represents you as a unique real-life person in a secure digital format. In fact, we likely have many different virtual identities across a spectrum of platforms and services.
+* [How to decentralize identity and empower individuals](https://medium.com/global-id/episode-10-how-to-decentralize-identity-and-empower-individuals-3e154612a85) GID
+
+If the internet decentralized information and crypto decentralized money and payments, then verifiable credentials will decentralize identity. In this episode, we chat with Dev Bharel, the software architect leading the charge around verifiable credentials at GlobaliD.
+* [The Sovereignty Stack: Re-thinking Digital Identity for Web3.0 w/ Greg KIDD [METACO TALKS #23]](https://www.youtube.com/watch?v%3DCyGggZ2pT1I)
+
+Greg is a serial entrepreneur who is probably best known for founding and taking public Dispatch Management Services Corp, the world’s largest on demand dispatch network for urgent deliveries. In a highly interesting career so far, Greg was also Chief Risk Officer at Ripple Labs and a senior analyst for the Board of Governors of the Federal Reserve in Washington. In his latest venture Global ID, Greg is acting on his long-held belief that people’s identity should be truly portable and owned by individuals themselves rather than corporations or governments.
+* [GlobaliD 101: What is the trust triangle?](https://medium.com/global-id/globalid-101-what-is-the-trust-triangle-260e85e1c640)
+- [GlobaliD 101: ID wallets](https://medium.com/global-id/globalid-101-id-wallets-68fa77e6d0d7) GlobalID
+
+● [GlobaliD 101: Bring Your Own Identity](https://medium.com/global-id/globalid-101-bring-your-own-identity-5b9927008190)
+
+● [Part 1:](https://medium.com/global-id/globalid-101-how-digital-identity-should-work-fc53ede7b86f) What a smart and humanistic approach to digital identity would like
+
+● [Part 2:](https://medium.com/global-id/globalid-101-what-is-the-trust-triangle-260e85e1c640) The Trust Triangle — the system of issuers, holders, and verifiers that illustrates how identity works (and how it’s broken, today)
+
+● [Part 3:](https://medium.com/global-id/globalid-101-id-wallets-68fa77e6d0d7) Why the ID Wallet is the first step toward achieving a new vision for digital identity
+
+● [Part 4](https://medium.com/global-id/globalid-101-every-company-is-an-identity-company-a851beed999d): Why every company is an identity company
+
+* [...]
+
+There is a real opportunity to combine technology that is being developed with the concept of BYO Identity that will create a new identity framework where you own and control your data.
+* [GlobaliD 101: Device-based identity](https://medium.com/global-id/globalid-101-device-based-identity-c6096a5b0890)
+
+That way, your sensitive personal data is stored locally on your own device rather than hosted on some company’s server that becomes a target for hackers.

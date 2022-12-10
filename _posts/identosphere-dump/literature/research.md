@@ -340,3 +340,7 @@ In circles of identity management scholars and practitioners, the general consen
 
 According to World Bank gospel northern Europe’s frivolity about national IDs must mean big trouble.
 
+
+* [Self-Sovereign Identities (SSI) – user-focused concept for data-efficient identity management](https://assets.bosch.com/media/global/research/eot/bosch-eot-ssi-principle_en.pdf) Bosch
+
+“Since offering users control and sovereignty over their own data is a highly desirable goal, we are working with innovation partners to establish an identity system that works without any central data collector and is operated equally by many participants,” says Dr. Nik Scharmann, Project Director of the “Economy of Things” (EoT) strategic advance engineering project at Bosch Research.

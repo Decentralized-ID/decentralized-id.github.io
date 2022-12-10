@@ -76,10 +76,6 @@ As a general concept, the privacy-friendly nature of SSI, end-user control over 
 
 * [SSI initiative open to new players](https://www.adnovum.ch/en/company/blog/exploring_the_potential_of_self-sovereign_identity_with_representative_use_cases.html) adnovum
 
-* [One step closer to self-sovereign identity - Procivis launches SSI+](https://www.procivis.ch/post/one-step-closer-to-self-sovereign-identity-procivis-launches-ssi)
-
-Composed of the desk, wallet and gateway, SSI+ offers a complete solution for issuers, holders and verifiers of verifiable credentials (VCs) to get started with self-sovereign identity projects today. After evaluation of the emerging SSI frameworks, we determined that Hyperledger Indy delivers today the strongest privacy guarantees, interoperability and maturity.
-
 * [Hello, User: Episode 13 with Katryna Dow](https://hellouser.libsyn.com/episode-13-with-katryna-dow)
 
 Welcome to lucky episode number 13! Your new host Aubrey Turner, Executive Advisor at Ping, is thrilled to welcome Katryna Dow, CEO & Founder of the award-winning data platform Meeco. Katryna discusses Meeco’s mission to enable everyone on the planet access to equity and value in exchange for the data and information they share. She talks about why she saw a need for Meeco’s services, what we need to know as we approach a more “physigital”world, and how her vision all started with a Tom Cruise film.
@@ -391,10 +387,6 @@ The concept of digital identification is already well established, and using a s
 * [EU digital wallet: the race is on for pilot funding, tech supremacy, hearts and minds](https://www.biometricupdate.com/202204/eu-digital-wallet-the-race-is-on-for-pilot-funding-tech-supremacy-hearts-and-minds) Biometric Update
 
 * [eIDAS](https://www.biometricupdate.com/tag/eidas) 2.0 is fast approaching. By September 2023, European Union citizens will have the right to download and populate a digital identity wallet on a smart device. In less than 18 months, Europeans may no longer need physical credentials to travel, work and live anywhere else in the bloc. But are they ready?
-
-* [Validated ID's journey to becoming EBSI compliant](https://www.validatedid.com/post-en/validated-ids-journey-to-becoming-ebsi-compliant)
-
-We at Validated ID have been betting on EBSI since the beginning. We started working to become conformant wallet providers since the very first version of [Wallet Conformance Tests (WCT)](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/EBSI%2Bwallets) was published. The process of preparing our solution to become conformant has allowed us to appreciate how remarkable EBSI's work has been.
 
 
 * [Principal Authority – new article on Wyoming law defining Digital Identity](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0083.html) Christopher Allen (Thursday, 16 September)

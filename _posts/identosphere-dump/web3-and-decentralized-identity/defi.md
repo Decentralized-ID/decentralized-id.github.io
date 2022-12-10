@@ -27,7 +27,6 @@ Decentralized Identity & DeFi are Disconnected ← trueDecentralized Identity is
 - Health Data Passes
 - Employment Information
 - Credit, Income, KYC
-* [Decentralized Finance & Self-sovereign Identity: A tale of decentralization, a new paradigm of trust](https://gataca.io/insights/decentralized-finance-self-sovereign-identity-a-tale-of-decentralization-a-new-paradigm-of-trust)
 * [Circle and Industry Leaders Have Built the First Decentralized Identity Proof-of-Concept for Crypto Finance using Verite Credentials](https://www.circle.com/en/pressroom/circle-and-industry-leaders-have-built-the-first-decentralized-identity-proof-of-concept-for-crypto-finance-using-verite-credentials) Circle
   > Circle joined other crypto and blockchain companies in February 2022 to introduce Verite as a open-source framework for decentralized identity credential issuance, custody and verification. Verite is designed to help make it safer, easier and more efficient to do business across the transformative worlds of DeFi and Web3 commerce.
 * [Roadmap to Institutional Adoption of DeFi](https://www.youtube.com/watch?v%3DbkOQHcVVGoE) RSK - Coinfirm
