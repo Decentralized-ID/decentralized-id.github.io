@@ -92,6 +92,8 @@ From our past work in this area, we have seen that slow and steady wins the race
 
 Maintaining an online community is a lot of work, in both the short term and the long term. It requires setting aside time, human resources and tech infrastructure to keep things running smoothly. Here are some questions and ideas that can help you assess what it may take to maintain the online community you’re trying to build:
 
+* [InfoCert, AUTHADA and Dr. Ing. Wandrei develop a new tool for QES in the circular economy](https://infocert.digital/infocert-authada-and-dr-ing-wandrei-develop-a-new-tool-for-qes-in-the-circular-economy/) Infocert
+  > signature can now be done on mobile devices such as smartphones and tablets with the new NSUITE.mobile product, with a consequent streamlining of the entire process.
 - [InfoCert has been recognized Representative Vendor in Gartner’s Market Guide for Electronic Signature 2022](https://infocert.digital/infocert-has-been-recognized-representative-vendor-in-gartners-market-guide-for-electronic-signature-2022/)
 - [GBG: The State of Digital Identity 2022](https://www.gbgplc.com/media/heqgqhur/gbg-state-of-digital-identity-2022.pdf)
 - Security and satisfaction: Gaining from The Great Switch

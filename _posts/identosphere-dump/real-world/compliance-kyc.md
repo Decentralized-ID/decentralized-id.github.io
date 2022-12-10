@@ -63,10 +63,6 @@ Both CDD and EDD are part of a complete KYC process. Identity verification (IDV)
   > we hope that business leaders, entrepreneurs, and developers will use this article as a guide to create some breakthrough solutions that will benefit the society at large.
 - [Patient-Centric Identity Management for Healthcare with Jim St-Clair](https://northernblock.io/patient-centric-identity-management-for-healthcare/)
 
-* [Takaways from the Suez Canal Crisis](https://medium.com/transmute-techtalk/takeaways-from-the-suez-canal-crisis-971f7404b058) Karyl Fowler
-  > Appeal for Supply Chain Agility — Powered by Verifiable Credentials
-
-The Suez Canal debacle had a massive impact on global supply chains — estimated at >$9B in financial hits each day the Ever Given was stuck, totaling at nearly $54B in losses in stalled cargo shipments alone.
 
 * [GATACA joins EU Commission’s Early Adopters Program as SSI provider in the Spanish group](https://gataca.io/insights/gataca-joins-the-european-commission-s-early-adopters-program-as-the-ssi-technology-provider-in-the-spanish-group)
   > In Spain, three universities will pioneer the issuance of digital Academic Diplomas. The issuance will be performed 100% online, where students will authenticate themselves using a digital ID previously issued by FNMT (the Royal Mint of Spain) and stored in their mobile wallets.

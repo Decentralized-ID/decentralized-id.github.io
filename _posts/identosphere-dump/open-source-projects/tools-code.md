@@ -247,12 +247,6 @@ This is so exciting to see what Wayne and his team are building.
 
 
 ### Code
-
-* [IOTA DID - Alpha Release for Rust & Javascript](https://blog.iota.org/releasing-iota-identity-alpha-a-standard-framework-for-digital-identity-cebabd108b4f) of a standard framework for digital identity, based upon the W3C standards for DID decentralized identifiers and Verifiable Credentials, including the [full Rust implementation and Web Assembly bindings](https://github.com/iotaledger/identity.rs/). 
-
-* [Selv identity wallet](https://github.com/iotaledger/selv-mobile)
-* [IOTA Identity Experience Team](https://github.com/iota-community/X-Team_IOTA_Identity)
-
 * [Spruce Systems introduces DIDKit](https://sprucesystems.medium.com/introducing-didkit-an-identity-toolkit-e0dfa292f53d)
   > DIDKit is a cross-platform toolkit for working with W3C Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs). It allows you to resolve and manage DID documents, and also manage the entire lifecycle of Verifiable Credentials including their issuance, presentation, and verification.
 * [A repository of JSON Schemas for Verifiable Credentials](https://github.com/rsksmart/vc-json-schemas)

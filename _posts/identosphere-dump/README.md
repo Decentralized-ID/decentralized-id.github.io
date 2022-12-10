@@ -85,14 +85,14 @@
   - Data Breaches
 - Community Organizations
   - W3C - CCG
-  - DIF
-  - ToIP
-  - ADIA
-  - Kantara
-  - MyData
-  - DIACC
-  - ID2020
-  - OpenID Foundation
+  - DIF ✓
+  - ToIP ✓
+  - ADIA ✓
+  - Kantara ✓
+  - MyData ✓
+  - DIACC ✓
+  - ID2020 ✓
+  - OpenID Foundation ✓
   - M2B Alliance (has a new name)
   - GLEIF
 - SSI Networks
@@ -223,52 +223,52 @@
   - Principles and Manifestos
 - Companies (Needs sub-category for this)
   - Microsoft - Azure / Entra
-  - EU SSI Startups
-    - GATTCA
-    - MyDex
-    - MeeCo
-    - JoloCom
-    - ValidatedID
-    - Bloqzone
-    - Procivis
-  - US SSI Startups
-    - DocK
-    - Anonoyome
-    - GlboalID
-    - Hyland
-    - Magic
-    - IDRamp
-    - Indicio
-    - UNUM
-    - Animo
-    - Liquid Avatar
-    - Hedera
-    - IOTA
-    - Trinsic
-    - Transmute
-    - Spruce
-    - Disco.xyz
-  - Asia SSI Startups
-    - Afinidi
-    - ZADA
-    - Mattr
-    - Dihway
-    - Ayanworks
-    - NewLogic
-  - Africa SSI Startups
-    - FlexID
-    - Diwala
+  - EU SSI Startups  ✓
+    - GATTCA  ✓
+    - MyDex  ✓
+    - MeeCo  ✓
+    - JoloCom  ✓
+    - ValidatedID  ✓
+    - Bloqzone  ✓
+    - Procivis  ✓
+  - US SSI Startups  ✓
+    - DocK  ✓
+    - Anonoyome  ✓
+    - GlboalID  ✓
+    - Hyland  ✓
+    - Magic  ✓
+    - IDRamp  ✓
+    - Indicio  ✓
+    - UNUM  ✓
+    - Animo  ✓
+    - Liquid Avatar  ✓
+    - Hedera  ✓
+    - IOTA  ✓
+    - Trinsic  ✓
+    - Transmute  ✓
+    - Spruce  ✓
+    - Disco.xyz  ✓
+  - Asia SSI Startups  ✓
+    - Afinidi  ✓
+    - ZADA  ✓
+    - Mattr  ✓
+    - Dihway  ✓
+    - Ayanworks  ✓
+    - NewLogic  ✓
+  - Africa SSI Startups  ✓
+    - FlexID  ✓
+    - Diwala  ✓
   - Acquisitions
     - Avast-Evernym-SecureKey
-  - Analyst Firms
+  - Analyst Firms  ✓
     - KuppingerCole
     - Forrester
     - Gartner
   - Apple
-  - Google
-  - IAM Industry
-    - Ping
-    - Okta
-    - Auth0
-    - ForgeRock
-    - IDENTOS
+  - Google  ✓
+  - IAM Industry  ✓
+    - Ping  ✓
+    - Okta  ✓
+    - Auth0  ✓
+    - ForgeRock  ✓
+    - IDENTOS  ✓

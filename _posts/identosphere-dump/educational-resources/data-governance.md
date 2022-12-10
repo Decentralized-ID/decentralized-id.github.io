@@ -242,9 +242,3 @@ Point 5. User control over data—data governance arrangements should ensure use
 - Tomorrow: New data architectures can give users privacy and control over their data
 
 
-* [Introducing TreeLDR: A Canopy Across Your Data Schema Dreams](https://blog.spruceid.com/introducing-treeldr-a-canopy-across-your-data-schemas/) SpruceID
-
-TreeLDR is an open-source developer tool with a DSL that makes managing data schemas as easy as defining data structures in your favorite (sane) statically-typed language.
-
-Our open banking platform is guided by our [data responsibility principles](https://www.mastercard.com/news/perspectives/2022/data-responsibility-and-inclusion/). Mastercard
-

@@ -40,10 +40,6 @@ Kurt Nielsen & Nagib Aouini from Partisia Blockchain
 
 Broadly speaking, ENS domain names also belong to a kind of decentralized identifier. The identity of the domain name is formed by a collection of attributes, identified by a certain domain name. As a domain name system, ENS conforms to the three characteristics of the Zooko triangle, namely security, decentralization, and human readability.
 
-* [Introducing: Disentangle Domains](https://twitter.com/disentangleDNS/status/1470747203635494916?s%3D20) Twitter
-
-Your [@iota](https://twitter.com/iota) web3 username. We are buidling an #IOTA for gas-free, sapiens-friendly wallet & dApp addresses. Neat, easy and secure. +info
-
 * [Metaverse and self-sovereign identity (SSI): new superpower?](https://blog.cheqd.io/metaverse-and-self-sovereign-identity-ssi-new-superpower-b4cac6319885) Cheqd
 
 Besides an exciting front side of virtual reality (VR) element that everybody could at least vaguely relate to, there are a lot of other interesting developments, particularly around the digital economy and trusted interactions enabled through digital and self-sovereign identity (SSI).
@@ -245,9 +241,6 @@ Web 2.0 vs Web 3.0 — A Bridge Between the Past and the Future Web 2.0 represen
 * [Seamless Web3 Identity Verification](https://medium.com/frctls/seamless-web3-identity-verification-c72ce27dcb41) Fractal
 
 Built on [Polkadot](https://polkadot.network/), Fractal Protocol is an open-source, zero-margin protocol that defines a basic standard to exchange user information in a fair and open way, ensuring a high-quality version of the free internet. In its first version, it is designed to replace the [ad cookie](https://www.cookiepro.com/knowledge/what-are-targeting-advertising-cookies/) and give users back control over their data.
-* [IOTA Identity: Beta Release](https://blog.iota.org/iota-identity-beta-release/)
-
-The first major feature we introduced with this beta release is the account, a higher-level API to use IOTA Identity. Similar to the recent Chrysalis update, IOTA Identity becomes a lot easier to use by utilizing the account. It is intended to provide a much more simplified interface that is perfect for 90%+ of the use cases. The other 10% are more complex use cases that may still want to utilize the lower-level APIs to have more control over the Identities. The account doesn’t just simplify the interactions with DID Documents, but also with the Tangle and Stronghold.
 * [KILT: Self-Sovereign Identity for a Web3 World](https://pedroporky.medium.com/kilt-self-sovereign-identity-for-a-web3-world-929be0ac2afe)
 
 * [@dabit3](https://twitter.com/dabit3/status/1405674107992150020)

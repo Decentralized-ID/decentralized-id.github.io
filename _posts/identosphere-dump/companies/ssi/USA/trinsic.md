@@ -45,3 +45,8 @@ developers face a dizzying number of standards to be compatible with—“[SoulB
   > Despite sending people to space, editing genes, and getting dangerously close to AGI, humanity hasn’t built a way for me to prove my legal name is Riley Hughes online.
 * [Creating Verifiable credentials in ASP.NET Core for decentralized identities using Trinsic](https://damienbod.com/2021/04/05/creating-verifiable-credentials-in-asp-net-core-for-decentralized-identities-using-trinsic/)
   > This article shows how verifiable credentials can be created in ASP.NET Core for decentralized identities using the Trinsic platform which is a Self-sovereign identity implementation with APIs to integrate.
+
+* [SSI Has an Identity Problem](https://trinsic.id/ssi-has-an-identity-problem/) Reilly, Trinsic
+
+* [Building Digital Trust Ecosystems with Riley Hughes from Trinsic [Podcast]](https://northernblock.io/building-digital-trust-ecosystems/)
+  > The reason I love that quote is that digital credentials and verifiable data can not only impact the use cases that everybody tends to think about when they think about SSI, but they could permeate our whole lives and streamline everything we do.

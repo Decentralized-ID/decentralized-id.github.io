@@ -1,0 +1,17 @@
+# US SSI Startups
+- DocK
+- Anonoyome
+- GlboalID
+- Hyland
+- Magic
+- IDRamp
+- Indicio
+- UNUM
+- Animo
+- Liquid Avatar
+- Hedera
+- IOTA
+- Trinsic
+- Transmute
+- Spruce
+- Disco.xyz

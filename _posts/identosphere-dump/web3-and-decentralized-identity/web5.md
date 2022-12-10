@@ -3,10 +3,6 @@ published: false
 ---
 # Web5 (new marketing)
 
-Real World Party! making DIDs and VCs cool & useful
-
-* [DISCO](http://www.disco.xyz/) had a real life [Disconaut](https://twitter.com/provenauthority/status/1533469483263610885) party in Los Angeles! Kaliya attended with her Data BackPack where she verified the credentials created the day before proving i owned my twitter account and my discord account. ([photos from party](https://twitter.com/humptycalderon/status/1533607866577215488)
-
 * [JACK DORSEY’S TBD PRESENTS BITCOIN-BASED DECENTRALIZED WEB5](https://bitcoinmagazine.com/business/jack-dorseys-tbd-presents-bitcoin-based-decentralized-web5) Bitcoin Magazine
 
 Fairly decentralized developments in the internet over the past couple of decades such as [BitTorrent](https://www.howtogeek.com/141257/htg-explains-how-does-bittorrent-work/) and [Tor](https://www.techradar.com/vpn/what-is-tor-and-how-does-it-work) have shown that blockchain technology is not a necessary component for decentralization.

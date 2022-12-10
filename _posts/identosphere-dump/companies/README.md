@@ -1,43 +1,6 @@
 # Companies
 
-https://essif-lab.eu/wp-content/uploads/2022/09/essif-booklet-22a.pdf
-
 - Microsoft - Azure / Entra
-- EU SSI Startups
-  - GATTCA
-  - MyDex
-  - MeeCo
-  - JoloCom
-  - ValidatedID
-  - Bloqzone
-  - Procivis
-- US SSI Startups
-  - DocK
-  - Anonoyome
-  - GlboalID
-  - Hyland
-  - Magic
-  - IDRamp
-  - Indicio
-  - UNUM
-  - Animo
-  - Liquid Avatar
-  - Hedera
-  - IOTA
-  - Trinsic
-  - Transmute
-  - Spruce
-  - Disco.xyz
-- Asia SSI Startups
-  - Afinidi
-  - ZADA
-  - Mattr
-  - Dihway
-  - Ayanworks
-  - NewLogic
-- Africa SSI Startups
-  - FlexID
-  - Diwala
 - Acquisitions
   - Avast-Evernym-SecureKey
 - Analyst Firms
@@ -46,14 +9,6 @@ https://essif-lab.eu/wp-content/uploads/2022/09/essif-booklet-22a.pdf
   - Gartner
 - Apple
 - Google
-- IAM Industry
-  - Ping
-  - Okta
-  - Auth0
-  - ForgeRock
-  - IDENTOS
-
-
 
 ### Exostar
 
@@ -182,11 +137,6 @@ This isn’t Swisscom Blockchain’s first identity partnership. It also has a r
 
 The company spent the last five years working with various governments to build connectors to these licensing databases to allow third parties to access the data and have it update automatically. So if you are a plumbing company, you can display your employees’ plumbing credentials on the company website and have them update automatically when the license is renewed (or show that it wasn’t).
 
-### IOTA
-
-* [IOTA and TradeMark East Africa partner to improve infrastructure & trade through technology](https://www.youtube.com/watch?v%3DbnAfclXTaeI)
-
-The Trade Logistics Information Pipeline (TLIP) aims to create an interconnectivity technology highway for Eastern African businesses and governments’ agencies systems to communicate in a transparent and secure manner amongst themselves and with international counterparts.
 
 ### Cryptalk
 
@@ -209,15 +159,6 @@ To resolve the complications, Fujitsu says it collaborated with the Keio Researc
 
 Now, we’re making [Civic Pass available to developers everywhere](https://docs.civic.com/). The idea is that developers can plug Civic Pass into their platform and create an identity layer that allows for a permissioned dApp platform, be it a DEX, an NFT marketplace or mint, a metaverse, or who knows what else you’ll come up with.
 
-### Transmute Industries
-
-* [Transmute Closes $2M Seed Round](https://medium.com/transmute-techtalk/transmute-closes-2m-seed-round-a0a2e6c90467) this week. This is fantastic news for them and the whole ecosystem. Transmute is a great company developing products for supply chain use-cases and is collaborating with GS1. They also are part of the SVIP (Silicon Valley Innovation program) lead by Anil John.  *Full disclosure Kaliya has a formal advising relationship with Transmute.*
-
-### Forgerock
-
-* [ForgeRock goes public](https://ludopoitou.com/2021/09/16/we-did-it/)
-  > Today is an huge milestone for ForgeRock. We are becoming a public company, with our stock publicly traded under the “FORG” symbol, at the New York Stock Exchange.
-* [IAM 101 Series: What Are Directory Services?](https://www.forgerock.com/blog/iam-101-series-what-are-directory-services) Forgerock
 
 ### Omidyar
 
@@ -227,16 +168,6 @@ Now, we’re making [Civic Pass available to developers everywhere](https://docs
 
 Insights from a year-long evaluation of our Digital Identity program
 
-### Identos
-
-* [Identos builds Verifiable Credentials into updated federated digital ID API](https://www.biometricupdate.com/202209/identos-builds-verifiable-credentials-into-updated-federated-digital-id-api) Biometric Update
-
-The new FPX Junction cloud software suite is designed for fine-grained API authorization and user-centric digital identity management. The digital wallet and user-managed access 2.0 authorization server work together to enable single-sign on federation. An optional user interface SDK for the digital wallet provides native mobile and web support.
-* [IDENTOS puts developers first in its latest product release](https://www.identos.com/2022/09/07/identos-puts-developers-first-in-its-latest-product-release/)
-
-FPX Junction is a cloud-based set of software products which provide fine-grained API authorization and user centric identity management capabilities.
-
-Verifiable Credentials Support – Evolving to support Verifiable Credentials, FPX Junction includes an updated digital wallet API which enables the holding, receiving and presentation of [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) using W3C Decentralized Identifiers. FPX Junction meets requirements for [Aries Interop Profile 2.0](https://aries-interop.info/aries-interop-intro.html) and [DIDComm](https://identity.foundation/didcomm-messaging/spec/) based credential exchanges.
 
 ### Bloom
 * [Bloom Attestation Service migrating to Verifiable Credentials](https://bloom.co/blog/migration-from-attestation-service-to-verified-credentials/) Bloom
@@ -272,16 +203,6 @@ Block is a new name, but our purpose of economic empowerment remains the same.
 * [Energy Web Quarterly Update](https://medium.com/energy-web-insights/energy-web-quarterly-update-855feb5878b6)
 
 Switchboards, our enterprise-grade self sovereign identity and access management solution built on the W3C administered decentralized identifier standard. Examples include [Stedin’s identity and access management solution](https://medium.com/energy-web-insights/stedin-the-dutch-distribution-system-operator-announces-partnership-with-energy-web-to-explore-cd278623809b), [CAISO flex alert](https://medium.com/energy-web-insights/california-grid-operator-launches-new-demand-flexibility-platform-enhancements-to-flex-alert-system-e01ae8030da0), [and our work with Vodafone](https://medium.com/energy-web-insights/energy-web-announces-development-of-renewable-energy-ev-charging-with-vodafone-and-mastercard-94e1ac4c4aa1), [Kigen, and KORE wireless](https://medium.com/energy-web-insights/kore-collaborates-with-kigen-and-energy-web-to-provide-integrated-esim-based-trusted-identity-b22854958851).
-
-### Ping
-
-* [Ping to Target IAM Startups With New $50 Million Venture Fund](https://findbiometrics.com/ping-target-iam-startups-with-new-50-million-venture-fund-062205/)
-
-That includes companies that are trying to prevent digital fraud, as well as companies that are engaged in identity verification and decentralized identity projects. However, the list is not exhaustive [...] [Allthenticate](https://www.allthenticate.com/) will be the recipient of its first investment.
-
-* [Thoma Bravo to acquire Ping Identity for $2.8B](https://www.techtarget.com/searchsecurity/news/252523468/Thoma-Bravo-to-acquire-Ping-Identity-for-28B) TechTarget
-
-* [Ping Identity to be Acquired by Thoma Bravo for $2.8 Billion](https://www.pingidentity.com/en/company/ping-newsroom/press-releases/2022/ping-identity-to-be-acquired-by-thoma-bravo-for-2-billion.html) Ping Identity
 
 
 ### Authenteq
@@ -407,17 +328,6 @@ Blockchain-based Digital Identity specialist Talao, a Paris-based startup which 
 
 Identity has been a contentious point for humanity ever since we evolved societies. How are we sure that someone is who they say they are?
 
-### FLexID
-
-
-
-* [FlexID gets Algorand funding to offer self-sovereign IDs to Africa’s unbanked](https://techcrunch.com/2022/05/26/zimbabwe-flexid-algorand-funding-decentralized-identity/) TechCrunch
-
-FlexID is giving users a blockchain wallet that stores their verificable credentials. Verification is done on-chain through Algorand, which bills itself as a solution to the [blockchain trilemma](https://www.google.com/search?q%3Dalgorand%2Btrilemma%26oq%3Dalgorand%2Btrilem%26aqs%3Dchrome.0.0i512j69i57j0i390.2391j0j9%26sourceid%3Dchrome%26ie%3DUTF-8) of security, scalability and decentralization. FlexID will also be integrating with other Algorand decentralized apps (dApps).
-
-* [Local digital identity startup FlexID receives funding from Algorand Foundation](https://www.techzim.co.zw/2022/05/local-digital-identity-startup-flexid-receives-funding-from-algorand-foundation/) TechZim
-
-Zimbabwean founded blockchain start-up, [FlexID Technologies](https://www.flexfintx.com/) (formerly FlexFinTx), has signed a Simple Agreement For Equity (SAFE) with the [Algorand Foundation](https://www.algorand.com/), to further develop and scale their Self Sovereign Identity (SSI) platform
 
 ### IAMX
 * [Interview with IAMX -Self-Sovereign Identity SSI](https://www.youtube.com/watch?v%3D9-5WL6FuOlA) Spicy Dumpling Show
@@ -436,13 +346,6 @@ For the realisation of the three projects, Self-Sovereign Identity will be a qui
 
 [AyanWorks](https://twitter.com/ayanworkstech/status/1488841615217098754): [@ayanworkstech](https://twitter.com/ayanworkstech) is excited to announce that we, along with our partners Vereign and [@DAASI_Int](https://twitter.com/DAASI_Int), have won 3 tenders from [@gaiax_aisbl](https://twitter.com/gaiax_aisbl) to build SSI solutions
 
-### AyanWorks
-
-[AyanWorks](https://twitter.com/ayanworkstech/status/1488841615217098754): [@ayanworkstech](https://twitter.com/ayanworkstech) is excited to announce that we, along with our partners Vereign and [@DAASI_Int](https://twitter.com/DAASI_Int), have won 3 tenders from [@gaiax_aisbl](https://twitter.com/gaiax_aisbl) to build SSI solutions
-* [Aries Mobile Agent SDK for Google Flutter](https://ayanworks.medium.com/announcing-arnima-fl-open-source-aries-flutter-mobile-agent-sdk-d3483744ffc8)
-  > Exactly a year ago in Jan 2020, we announced ARNIMA — first ever Aries React Native Mobile Agent SDK that we made open source for the Self-Sovereign Identity ecosystem.
-  > 
-  > [...] We are very excited to announce [one more small open-source contribution](https://github.com/ayanworks/ARNIMA-flutter-sdk) from AyanWorks to the Aries community.
 
 
 ### Publish

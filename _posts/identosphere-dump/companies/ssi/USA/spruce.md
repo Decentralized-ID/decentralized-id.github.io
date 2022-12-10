@@ -22,3 +22,13 @@
 * [Spruce sets the bar for sovereign identity storage options, secures $7.5M](https://venturebeat.com/2021/11/02/spruce-sets-the-bar-for-sovereign-identity-and-storage-options-secures-7-5m/)
   > Spruce, a service that allows users to control their data across the web, has raised $7.5 million. The company builds open source, open standard developer tools helping users collect and control their data across the web. It helps prevent NFT frauds and defines access rules for [decentralized](https://venturebeat.com/2020/10/28/decentralized-identity-the-key-to-the-digital-era/).
   
+* [Future of Decentralized Identity- Wayne Chang & Kasima Tharnpipitchai](https://www.youtube.com/watch?v%3DpARtPe9Qvbo)
+
+yeah so at spruce our mission is to let users control their data across the web we think that instead of users logging into platforms and trying to rest control over their data there platforms should have to log into the user's data vaults and the users can have at their discretion all the control over their data vaults and how their data are used
+* [Introducing TreeLDR: A Canopy Across Your Data Schema Dreams](https://blog.spruceid.com/introducing-treeldr-a-canopy-across-your-data-schemas/) SpruceID
+
+TreeLDR is an open-source developer tool with a DSL that makes managing data schemas as easy as defining data structures in your favorite (sane) statically-typed language.
+
+Our open banking platform is guided by our [data responsibility principles](https://www.mastercard.com/news/perspectives/2022/data-responsibility-and-inclusion/). Mastercard
+
+

@@ -62,9 +62,6 @@ Narrative
 Digital Caribou shares their thoughts on [Digital Transformation and inclusion](https://medium.com/caribou-digital/transformation-in-a-digital-age-9068338fd778) - very good thinking for all of us working on digital identity.
 
 > We believe that the emphasis on transformation as both process and effects is particularly important, especially as although digitization and digitalization are well underway, accelerated by the response to COVID-19 (remote working, payments, etc.), these are not inevitable processes. They are the results of human decisions. Similarly, the effects of these are not inevitable, either.
-## Interviews
-* [Building Digital Trust Ecosystems with Riley Hughes from Trinsic [Podcast]](https://northernblock.io/building-digital-trust-ecosystems/)
-  > The reason I love that quote is that digital credentials and verifiable data can not only impact the use cases that everybody tends to think about when they think about SSI, but they could permeate our whole lives and streamline everything we do.
 
 * [Michael Becker Interviewed Kaliya re:SSI](https://identitypraxis.com/2020/11/16/an-interview-on-self-sovereign-identity-with-kaliya-young-the-identity-women/)  
   > Kaliya’s purpose is to answer this profound question: “How do we own, control, manage, and represent ourselves in the digital world, independently of the BigTech companies (Facebook, Google, etc.)?”
@@ -93,7 +90,3 @@ This release includes major updates to the front-end Switchboard web application
 * [GLEIF Press Release](https://www.gleif.org/en/newsroom/press-releases/gleif-advances-digital-trust-and-identity-for-legal-entities-globally)
 * [Layering Digital ID on Top of Traditional Data Management](https://hiplatform.org/blog/2020/5/20/layering-digital-id-on-top-of-traditional-data-management) HIP
   > While Digital ID could offer benefit to humanitarian agencies and beneficiaries, alike, many questions remain to be answered. The cost effectiveness of ID solutions remains to be established. Given that many of these systems are only operating at pilot-scale, it is difficult to know what the primary drivers of cost are and how they can be mitigated. In addition, the digital ID space is fairly young and while initiatives like ID4D and ID2020 are working to drive meaningful interoperability among providers in the space, it remains to be seen what the most effective factors, in addition to open source software, open APIs, and common data formats, can be used to general meaningful interoperability.
-## Name of SSI
-
-* [SSI Has an Identity Problem](https://trinsic.id/ssi-has-an-identity-problem/) Reilly, Trinsic
-

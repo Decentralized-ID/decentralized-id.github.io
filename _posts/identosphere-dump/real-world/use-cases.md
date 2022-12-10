@@ -32,19 +32,10 @@ published: false
   > In this episode, Raj Hegde sits down with Dr. Carsten Stöcker, Founder & CEO of Spherity to understand how #decentralized identity is transforming the end-to-end supply chain lifecycle.
 * [Recap: OECD Forum on Responsible Mineral Supply Chains](https://peerledger.medium.com/recap-oecd-forum-on-responsible-mineral-supply-chains-b5c8c63f5e41) Peerledger
   > What kind of strategy will take you to being a next-generation utility company? For AEP Ohio, a large electric utility company based in Columbus, this challenge began with a comprehensive review of their entire ecosystem and which identified their key pain points for innovation.
-* [Identity Terms Provide Value along the Supply Chain: How We Know When to Buy the Farm](https://medium.com/@Transmute/identity-terms-provide-value-along-the-supply-chain-how-we-know-when-to-buy-the-farm-738701967e3d) Jessica Tacka, Transmute
-  > Supply chain credentialing in the form of bills of lading, certificates of origin, or letters of credit is used to protect honest parties and their merchandise from being confused with dishonest parties or entities that are engaged in unethical practices, such as environmental destruction, or forced labor.
 * [Why Location Data Brokers Put All Communities At Risk](https://me2ba.org/why-location-data-brokers-put-all-communities-at-risk/) Zach Edwards M2BA
-  > New work that may leverage decentralized ID from the supply chain side of things…but not sure (lots of links inside on data brokers harm)* [Visibility 2.0: Creating Digital Consistency in an International Supply Chain](https://nextlevelsupplychainpodwithgs1us.libsyn.com/visibility-20-creating-digital-consistency-in-an-international-supply-chain) Next Level Supply
-  > how can something as complicated as the international supply chain take fundamental trade practices and marry them with innovation so we can move at the speed of digitization? Join us for a mind-blowing discussion with Karyl Fowler, CEO at Transmute
-* [Identity in the Supply Chain](https://vimeo.com/669713750) Vienna Digital Identity #30
-  > GS1 is the global association for supply chain identifiers with members across all industry sectors and interacting (unbeknownst) with general consumer on a daily basis. Transmute a foundational member of the DID/VC community and a participant in the US DHS Silicon Valley Innovation Program’s cross-border shipping use case.
-  > 
-  > - Transmute Deck: [thedinglegroup.com/s/Transmute_Vienna-Digital-ID-Forum-Jan-2022.pdf](https://www.thedinglegroup.com/s/Transmute_Vienna-Digital-ID-Forum-Jan-2022.pdf)
-  > - GS1 Deck: [thedinglegroup.com/s/2022-01-24_ViennaDigitalIdentityPhilA.pdf](https://www.thedinglegroup.com/s/2022-01-24_ViennaDigitalIdentityPhilA.pdf)
-* [eDATA Verifiable Credentials for Cross Border Trade](https://unece.org/sites/default/files/2022-07/WhitePaper_VerifiableCredentials-CBT.pdf) UNECE UN/CEFACT White Paper
-* [Transmute @TransmuteNews](https://twitter.com/TransmuteNews/status/1572692362148847619) via Twitter
-  > The "[[Fake] 30TB hard drive](https://www.vice.com/en/article/akek8e/walmart-30tb-ssd-hard-drive-scam-sd-cards)" investigation shows the real impact verification could have on #eCommerce. #verifiablecredentials
+  > New work that may leverage decentralized ID from the supply chain side of things…but not sure (lots of links inside on data brokers harm)
+
+
 * [The Phygital Future of the Supply Chain](https://nextlevelsupplychainpodwithgs1us.libsyn.com/the-phygital-future-of-the-supply-chain) Next Level Supply Chain Podcast with GS1
   > The digital and physical world are merging more than ever before. As the supply chain becomes more ‘phygital,’ innovative ways of sharing data – like using verifiable credentials – are helping to build more trust with data along the supply chain. Join us as we chat with Senior VP of Innovation & Partnerships at GS1 US, Melanie Nuce, as we explore what’s around the corner and how standards play
 * [Open API for Interoperable Traceability](https://w3c-ccg.github.io/traceability-interop/openapi/%23overview) CCG
@@ -621,13 +612,6 @@ New features include credential revocation and expiration, full support for role
 
 At Energy Web we believe self-sovereign identity (SSI) will become a fundamental pillar of the energy transition, enhancing interoperability and strengthening security for billions of assets, organizations, and customers.
 
-* [Transmute U.S. CBP Steel Tech Demo](https://www.youtube.com/watch?v%3D03L_J7FVMHQ%26t%3D2s) [video]
-
-The story focuses on critical trade verifiable credentials being issued, presented, and verified by trade, CBP, and PGAs.
-
-* [InfoCert, AUTHADA and Dr. Ing. Wandrei develop a new tool for QES in the circular economy](https://infocert.digital/infocert-authada-and-dr-ing-wandrei-develop-a-new-tool-for-qes-in-the-circular-economy/) Infocert
-
-signature can now be done on mobile devices such as smartphones and tablets with the new NSUITE.mobile product, with a consequent streamlining of the entire process.
 
 
 * [War Against the Robots – Pick your Side with SelfKey & Metaproof Platform](https://selfkey.org/war-against-the-robots-pick-your-side-with-selfkey-metaproof-platform/) SelfKey Foundation

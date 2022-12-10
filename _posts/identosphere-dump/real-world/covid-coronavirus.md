@@ -492,7 +492,7 @@ Highlights from Ping Identity’s Andre Durand, and Richard Bird on an episode o
 > - Takeaway #5: Moving control of digital identity to the individual will dramatically change our current identity and access management systems.
 >
 
-## Zada
+### Zada
 
 * [We are now officially live in Myanmar!](https://zada.io/we-are-now-officially-live-in-myanmar/)
 
