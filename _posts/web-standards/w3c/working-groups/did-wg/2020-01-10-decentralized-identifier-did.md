@@ -12,7 +12,7 @@ redirect_from:
   - specs-standards/decentralized-identifier-did/
   - web-standards/decentralized-identifier-did/
   - adoption/
-last_modified_at: 2022-11-26
+last_modified_at: 2022-12-11
 toc: false
 ---
 
@@ -20,10 +20,14 @@ toc: false
 
 <a href="https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf"><img src="https://i.imgur.com/7NRcJbq.png"/></a>
 
+* [Decentralized Identifiers (DID) 1.0 specification approved as W3C Recommendation](https://blog.identity.foundation/w3cdidspec-2/) Identity Foundatoin
+  > Announcing the [Decentralized Identifiers (DID) v1.0 specification](https://www.w3.org/TR/did-core/) as an open web standard signals that it is technically sound, mature, and ready for widespread adoption. Having an established v1.0 specification allows work to continue with renewed energy and focus, not only at the many groups meeting at DIF, but across the digital identity community.
+
 ## Explainer
 
 * [Understanding Decentralized IDs (DIDs)](https://medium.com/@adam_14796/understanding-decentralized-ids-dids-839798b91809) Adam Powers
 * [What is a DID?](https://docs.google.com/document/d/1Ym85y_bDVN9xkRZ-oD-zlUUIeZjVGWNihfZBk2GQidk/edit)
+  > Based on the DID Specification draft v0.11, W3C/Credentials Community Group meeting discussions and email threads. 
 * [The Path from an id (DID) to a Real-Life Something](https://hyperonomy.com/2019/01/04/the-path-from-a-id-did-to-a-real-life-something)
 * [Demystifying Decentralized Identifiers (DIDs)](https://academy.affinidi.com/demystifying-decentralized-identifiers-dids-2dc6fc3148fd) Affinidi
   > - Does not require a centralized registration authority
@@ -33,16 +37,13 @@ toc: false
   > - They connect a DID subject (the entity identified by the DID) with a DID document (a set of data that describes the DID subject) to enable the subject to have trustable interactions.
   > - They are interoperable and portable, provided they conform to the existing standards laid down by W3C
 - [Understanding the Decentralized identifiers](https://hackernoon.com/decentralized-identifiers-dids-a-deeper-dive-04383442)
-* [The world between public and private DIDs - Or how to make use of SSI without the subjects](https://iiw.idcommons.net/21D/_The_world_between_public_and_private_DIDs_-_Or_how_to_make_use_of_SSI_without_the_subjects) by This Loepfe, cardossier CH
-  > Slides: [iiw-between-public-and-private.pdf](https://cardossier.ch/wp-content/uploads/2021/05/iiw-between-public-and-private.pdf)
-  > 
-  > - It was very hard for me to explain the problem I’m searching a solution for and equally for the proposed solution ideas.
-  > - We discussed a lot of more philosophical questions and if peer-dids are a good thing or not and if it is worth trying to minimize correlation when any involved party anyway stores the personal data of the related persons. I think we should make it as hard as possible to correlate data, even if we can not completely prevent it.
-  > - We also discussed the potential complexity of such a solution and if it is worth it. The conclusion was to minimize the number of personas one should (be forced) to hold, such that it is still easy to maintain.
+* [video] [What is a DID? Part 1](https://www.youtube.com/watch?v%3DOYYtxVEra1c) XSL Labs
+* [video] [Qu’est-ce qu’un DID? Partie 1](https://www.youtube.com/watch?v%3DVNLKufTDM4o) XSL Labs
+* [Decentralized Identity: Why Are DIDs The Future of Digital Identity Management?](https://elastos.info/decentralized-identity-dids/)
+* [Decentralized Identifiers: Implications for Your Data, Payments and Communications](https://newsletter.impervious.ai/decentralized-identifiers-implications-for-your-data-payments-and-communications-2/) Impervious
+  > Through the DID Specification, service endpoints and DIDComm, Impervious has interlaced DIDs with Bitcoin Lightning, IPFS, WebRTC and resilient relays to introduce a new peer-to-peer internet standard with practical applications for mitigating censorship and surveillance risk.
 
 <a href="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png"><img src="https://hyperonomy.files.wordpress.com/2019/01/path-id-did-real-life-somethings-v0.2-1.png?w=500"/></a>
-
-[DID 101 – Decentralized Identifiers & how they are the key to interoperable self-sovereign ID](http://iiw.identitycommons.net/1A/_DID_101_%E2%80%93_Decentralized_Identifiers_%26_how_they_are_the_key_to_interoperable_self-sovereign_ID)
 
 ## Literature
 
@@ -65,6 +66,8 @@ toc: false
   * [DID Primer Extended](https://github.com/WebOfTrustInfo/rwot7-fall2018/blob/master/topics-and-advance-readings/did-primer-extended.md)] Drummond Reed and Manu Sporny and other contributors, RWOT7
 * [Decentralized IDentifers (DIDs)](https://www.w3.org/2018/vocabws/presentations/Sabadello.pdf) Sabadello, 2018
 * [Requirements for DIDs](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/requirements-for-dids.pdf)
+* [DIDs in DPKI](https://github.com/WebOfTrustInfo/rwot7/blob/master/topics-and-advance-readings/dids-in-dpki.md)
+* [Cryptography Review of W3C VC Data Model and DID Standards and Implementation Recommendations](https://www.linkedin.com/posts/aniljohn_cryptography-review-of-w3c-vc-and-w3c-did-ugcPost-6892250585652162560-OQ3Y) SRI International
 
 ## [DID Methods](https://w3c-ccg.github.io/did-method-registry/#the-registry)
 
@@ -925,6 +928,16 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 
 > The format for the did:key method conforms to the [DID-CORE] specification and is simple. It consists of the did:key prefix, followed by a Multibase [MULTIBASE] base58-btc encoded value that is a concatenation of the Multicodec [MULTICODEC] identifier for the public key type and the raw bytes associated with the public key format.
 
+* [did-key-creator published](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0061.html)  Brent Shambaugh (Tuesday, 28 June)
+  > I published a did:key creator at
+  > * [https://www.npmjs.com/package/did-key-creator](https://www.npmjs.com/package/did-key-creator)
+  > 
+  > This has been tested to create did:keys from the P-256,P-384, and P-521 curves specified in [https://github.com/w3c-ccg/did-method-key](https://github.com/w3c-ccg/did-method-key) and [https://w3c-ccg.github.io/did-method-key/](https://w3c-ccg.github.io/did-method-key/) .
+* [did:key DID Document generation algorithm feedback](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0016.html)  Manu Sporny (Tuesday, 14 June)
+  > The DID Document generation algorithm for did:key is being refined to the point that we can finish off a first pass of a did:key test suite.\
+  > [...] [https://github.com/w3c-ccg/did-method-key/pull/51](https://github.com/w3c-ccg/did-method-key/pull/51)
+* [Rust implementation of the did:key method](https://crates.io/crates/did-key) creds to Tomislav Markovski.
+
 ### [**`did:tyron:`**](https://www.tyronzil.com/) For Zilliqa, by Julio Cabrapan Duarte
 
 > Self-Sovereign Identity (SSI) allows people to manage their digital identities, proving who they are without a middleman, by anchoring DIDs on blockchain platforms as a shared root of trust. However, most blockchains still can't provide decentralized identity at scale. By implementing the Tyron SSI Protocol, tyronZIL aims to solve this issue and enable user-controlled digital identities.
@@ -1013,8 +1026,52 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 
 ### **`did:orb:`**
 * [SecureKey’s New Ledger-Agnostic did:orb](https://securekey.com/securekeys-new-ledger-agnostic-solution-orb-helps-solve-decentralized-identifier-challenges/)
+  > did:orb that decouples DIDs from ledgers while maintaining trust and security. SecureKey is leveraging standard and open-source peer-to-peer protocols like ActivityPub, data structures like verifiable credentials content-addressed storage like IPFS, and distributed trust services like the Google Trillian project to build a peer-to-peer trust network.
+* [did:orb slides Troy Ronda (SecureKey)](https://lists.w3.org/Archives/Public/public-credentials/2021Mar/0017.html)
+  > - Decouple witness ledgers from the critical path.
+  > - Allow for Trust but Verify model.
+  > - Leverage the Certificate Transparency model
+  > - Witnesses observe VDR objects and promise to include in their ledgers.
+  > - Provide a signed timestamp and a maximum merge delay.
+  > - Enable monitoring to ensure witnesses follow their promises.
+  > - Use trusted Witness (and origin) timings to resolve late publishing.
+  > - Use origin to enable observers to know if they have the latest operations.
 
-did:orb that decouples DIDs from ledgers while maintaining trust and security. SecureKey is leveraging standard and open-source peer-to-peer protocols like ActivityPub, data structures like verifiable credentials content-addressed storage like IPFS, and distributed trust services like the Google Trillian project to build a peer-to-peer trust network.
+### DID:OBJECT
+* [Announcement: New DID Method Specification: did:object](https://lists.w3.org/Archives/Public/public-credentials/2021Dec/0067.html)  (Tuesday, 14 December)
+  The publication of [this DID Method specification](https://github.com/mwherman2000/TrustedDigitalWeb/blob/master/specifications/did-methods/did-object.md) realizes, in large part, a 4-year quest (or should I say personal mission) to create a platform to Tokenize Every Little Thing (ELT).
+
+### DID:TAG
+* [re: Using Email as an Identifier](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0065.html)  Bob Wyman (Friday, 12 November)
+  > My [did:tag](https://github.com/bobwyman/did_method_tag) proposal is, I believe, the only proposed DID Method that addresses the use of email addresses and email as a resolution method
+  > 
+  > There are quite a number of issues with using email addresses as identifiers, or parts of identifiers, and I'm hoping that discussion and development of the did:tag method will illuminate those issues and potentially find solutions for them.
+
+### DID:JWK
+
+* [did:jwk is reborn!](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0066.html)  Orie Steele (Friday, 8 April)
+* [Add the did:jwk method #432](https://github.com/w3c/did-spec-registries/pull/432)
+
+### DID:PKH
+
+* [did:pkh](https://github.com/w3c-ccg/did-pkh/blob/main/did-pkh-method-draft.md) (draft)
+  > There are hundreds of billions of on-chain, balance-holding accounts across the major 50 or so blockchains, all secured and namespaced using similar technologies. Almost all of these derive identifiers from hashed or otherwise obscured public keys, which are provided at time of transaction.
+  >
+  > These accounts are used to protect billions of dollars in assets and critical digital infrastructure. They are also actively being piloted and used by enterprises and governments. They are rapidly becoming a major form of shared data infrastructure across verticals and continents.
+  > 
+  > DIDs should favor usability where possible, and it is extremely beneficial from a security & human computer interaction perspective to have DIDs that readily correspond to their equivalents on decentralized networks. This corresponds neatly to end-users' understanding of what an "account" is on an existing network. There are knock-on security effects to having an immediately-recognizable "address" double as a DID for usage elsewhere.
+* [Verification Patterns, Part 2](https://docs.centre.io/blog/verification-patterns-2) Verite
+  > explains the [did:pkh](https://github.com/w3c-ccg/did-pkh/blob/main/did-pkh-method-draft.md)/[CACAO](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-74.md%23simple-summary) variation for Verite data models and flows, which provides an entry path for wallets that may not support sufficient functionality for emerging decentralized identity patterns
+
+### DID:ENS 
+
+* [veramolabs/did-ens-spec](https://github.com/veramolabs/did-ens-spec) github
+* [ENS names are Decentralized Identifiers (DIDs)](https://medium.com/uport/ens-names-are-decentralized-identifiers-dids-724f0c317e4b) uPort
+  > - did:ens:mainnet:vitalik.eth
+  > 
+  > This has two purposes:
+  > 1. to wrap existing ENS names as DIDs to facilitate interoperability of emerging technologies in the Decentralized Identity and Ethereum community,
+  > 2. to define a canonical way to augment ENS names with DID capabilities (e.g., encryption) as mentioned above.
 
 ## Critique
 * [Don’t use DIDs, DIDs, nor DIDs: Change My Mind (a.k.a. Oh no he DIDn’t)](https://dwhuseby.medium.com/dont-use-dids-58759823378c) by Dave Huseby ([video](https://eu01web.zoom.us/rec/play/4_ZLV8uot0hFQgRZsoILvdnn879oGEmrXsPXsCcvf4GsDPjWLQAxKjrZFiF0AxQe_MYb1_oeQa9HsRY.8KTaTYyrhu2Q-kJ_?continueMode%3Dtrue))
@@ -1027,7 +1084,29 @@ did:orb that decouples DIDs from ledgers while maintaining trust and security. S
 
 A large set of impact investor, international donor, and government anti-poverty policy is based on the notion that for-profit companies can be induced to serve the poor with life changing services like banking or schooling but the limits of the for profit model are not always taken into account
 
-## Services and Utilities
+## Discussion
+
+* [The world between public and private DIDs - Or how to make use of SSI without the subjects](https://iiw.idcommons.net/21D/_The_world_between_public_and_private_DIDs_-_Or_how_to_make_use_of_SSI_without_the_subjects) by This Loepfe, cardossier CH
+  > Slides: [iiw-between-public-and-private.pdf](https://cardossier.ch/wp-content/uploads/2021/05/iiw-between-public-and-private.pdf)
+  > 
+  > - It was very hard for me to explain the problem I’m searching a solution for and equally for the proposed solution ideas.
+  > - We discussed a lot of more philosophical questions and if peer-dids are a good thing or not and if it is worth trying to minimize correlation when any involved party anyway stores the personal data of the related persons. I think we should make it as hard as possible to correlate data, even if we can not completely prevent it.
+  > - We also discussed the potential complexity of such a solution and if it is worth it. The conclusion was to minimize the number of personas one should (be forced) to hold, such that it is still easy to maintain.
+
+### Methods as Standards
+* [DID methods as W3C standards - a happy compromise?](https://lists.w3.org/Archives/Public/public-credentials/2022Feb/0117.html)  steve capell (Tuesday, 22 February)
+  > can't we pick just a small number of un-controversial methods to standardise?  even if it's just did:key and did:web to start with.
+* [Re: CCG Community opinions needed to define CCG scope (specifically re: did methods as work items)](https://lists.w3.org/Archives/Public/public-credentials/2021Aug/0376.html)  Manu Sporny (Thursday, 26 August)
+  > On 8/26/21 12:37 PM, Heather Vescent wrote:\
+  > 1. What are the *pros* of including did methods as work items in the CCG?
+  > 
+  > Community vetting and approval of particular DID Methods.
+  > 
+  > Basically, broader and deeper review of DID Methods that we expect to be of great use to the world. I expect there will be DID Methods that the community wants to eventually propose as DID Methods for standardization (did:key and
+  > 
+  > did:web feel like two ones where we could get consensus on doing so).
+
+## Tools and Utilities
 
 * [DID Method Registry](https://w3c-ccg.github.io/did-method-registry/#the-registry)
 * [godiddy.com - Universal DID Services](https://iiw.idcommons.net/2C/_godiddy.com_-_Universal_DID_Services) by Markus Sabadello [[Documentation](https://docs.godiddy.com/)] [[API Reference](https://api.godiddy.com/)]
@@ -1035,11 +1114,39 @@ A large set of impact investor, international donor, and government anti-poverty
 * [Standard Interfaces for DID Create/Update/Deactivate](https://iiw.idcommons.net/3C/_Standard_Interfaces_for_DID_Create/Update/Deactivate) by Markus Sabadello
   > - There is an attempt to specify abstract interfaces if you want to Create/Update/Deactivate a did that could be implemented for all did methods.
   > - The idea of this specification is to provide a standard with the same assumptions as with resolution. It should be in an abstract level, meaning it should specify the inputs and outputs of creating/updating/deactivating a did but not how it should be implemented.
-  > [...]
-  > - [https://peacekeeper.github.io/did-registration/](https://peacekeeper.github.io/did-registration/)
-  > - [https://dev.uniresolver.io/](https://dev.uniresolver.io/)
-  > - [https://uniregistrar.io/](https://uniregistrar.io/)
-  > - [https://w3c-ccg.github.io/did-resolution/](https://w3c-ccg.github.io/did-resolution/)
-  > - [https://w3c.github.io/did-rubric/](https://w3c.github.io/did-rubric/)
-  > - [https://github.com/decentralized-identity/universal-registrar](https://github.com/decentralized-identity/universal-registrar)
-  > - [https://godiddy.com](https://godiddy.com/)
+- [DID test suite](https://github.com/w3c/did-test-suite) GitHub
+  > DID test suite is not for runtime, but the Universal Resolver could do a few simple checks on a driver's responses. But there's also a philosophical question: Should the Universal Resolver be "allowed" to check and potentially transform driver responses, or should it just "pass through" everything that comes from a driver?
+- [BlueToque Tools Toolkit](https://github.com/mwherman2000/BlueToqueTools)
+  > BlueToque Tools is a collection of software tools for working with DID Method Namespaces, DID Identifiers, DID Documents, DID Agent Service Endpoints, DID Agent Servers, DID Agent Clusters, and DID Objects (the 7 DIDs). The flagship tool is didlang, a language for interactively working with the 7 DIDs.
+
+## W3C Recommendation
+
+* [Objections overruled by W3C director approving the DIDCore specification as a W3C Recommendation](https://www.w3.org/2022/06/DIDRecommendationDecision.html) W3C
+  > In its next chartered period the Working Group should address and deliver proposed standard DID method(s) and demonstrate interoperable implementations.  The community and Member review of such proposed methods is the natural place to evaluate the questions raised by the objectors and other Member reviewers regarding decentralization, fitness for purpose, and sustainable resource utilization. -Ralph Swick, for Tim Berners-Lee
+* [Decentralized Identifiers (DID) 1.0 specification approved as W3C Recommendation](https://blog.identity.foundation/w3cdidspec-2/) Identity Foundatoin
+  > Announcing the [Decentralized Identifiers (DID) v1.0 specification](https://www.w3.org/TR/did-core/) as an open web standard signals that it is technically sound, mature, and ready for widespread adoption. Having an established v1.0 specification allows work to continue with renewed energy and focus, not only at the many groups meeting at DIF, but across the digital identity community.
+* [A DIF & TOIP Joint Statement of Support for the Decentralized Identifiers (DIDS) V1.0 Specification Becoming A W3C Specification](https://trustoverip.org/blog/2021/10/29/a-dif-toip-joint-statement-of-support-for-the-decentralized-identifiers-dids-v1-0-specification-becoming-a-w3c-standard/).
+  > DIDs are a critical part of a technical foundation for the products and activities of many of our members. Many of the implementations in the [DID Working Group’s implementation report](https://w3c.github.io/did-test-suite/%23report-by-methods) were developed by engineers and companies who collaborate openly at DIF on points of technical interoperability, and at ToIP on points of policy and governance.
+  > Why would you have 75 logins when you could have 1?
+* [Indicio’s support for the W3C DID Specification and its path to standardization](https://indicio.tech/indicios-support-for-the-w3c-did-specification-and-its-path-to-standardization/)
+  > The position of Indicio is that the DID Specification is of signal importance to creating a better digital world. We recognize that, as with any specification, improvements can and will be made in the future; but we back its recommendations and its approval.
+* [W3C overrules objections by Google, Mozilla to decentralized identifier spec](https://www.theregister.com/2022/07/01/w3c_overrules_objections/) Oh no, he DIDn't in the Register
+  > The [DID specification](https://www.w3.org/TR/did-core/%23introduction) describes a way to deploy a globally unique identifier without a centralized authority (eg, Apple [for Sign in with Apple](https://developer.apple.com/sign-in-with-apple/) as a verifying entity.
+* [Advancing digital identity through DID core specification](https://iohk.io/en/blog/posts/2022/09/08/advancing-digital-identity-through-did-core-specification/) IOHK
+\*Good to see Cardano jumping on the bandwagon, looks like they will bring DID\VC to Atla Prism.
+  > The recent DID core specification approval at the World Wide Web Consortium (W3C) provided clearer and stronger foundations for identity platforms building decentralized identifiers.
+* [Mozilla Formally Objects to DID Core](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0010.html)  Drummond Reed (Thursday, 1 September)
+  > Now, here's the REAL irony. Mozilla and others are pointing to the URI spec and existing URI schemes as the precedent without recognizing that in [in section 9.11 of the DID spec](https://www.w3.org/TR/did-core/%23dids-as-enhanced-urns), we specifically compare the DID spec to the *URN spec*, [RFC 8141](https://datatracker.ietf.org/doc/html/rfc8141). In fact we deliberately patterned the [ABNF for DIDs](https://www.w3.org/TR/did-core/%23did-syntax)  after the ABNF for URNs—and patterned DID method names after URN namespaces. And we set up a registry for the exactly the same way RFC 8141 establishes a [registry of URN namespaces](https://www.iana.org/assignments/urn-namespaces/urn-namespaces.xhtml).
+  > 
+  > Now: guess how many URN namespaces have been registered with IANA?
+  > 
+  > - [SEVENTY*. Count em.](https://www.iana.org/assignments/urn-namespaces/urn-namespaces.xhtml)
+  > 
+  > I don't see anyone complaining about interoperability of URN namespaces. Amd RFC 8141 was published over four years ago.
+* [DID 1.0 Comments / Meeting Minutes (was RE: Mozilla Formally Objects to DID Core)](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0135.html)  John, Anil (Monday, 27 September)
+  > [https://www.w3.org/2021/09/21-did10-minutes.html](https://www.w3.org/2021/09/21-did10-minutes.html) is fascinating reading!\
+  > 
+  > [...] I can speak to the work of the DHS SVIP Program and our approach and perspective across our two  work-streams that touch upon the two points.\
+  > 1.  Governments “lobbying” for single DID method and Non-Interoperability\
+  > “tantek: concerned to hear that there are governments looking to adopt, with only single implementation methods and non interop, sounds like lobbying may have occurred, … advocating for single-implementation solutions that are centralized wolves in decentralized clothing”\
+  > “<cwilso> +1 to tantek's concern that governments are responding to lobbying attempts on non-interoperable methods”
