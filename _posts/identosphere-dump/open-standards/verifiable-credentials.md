@@ -507,11 +507,6 @@ We’ve been hard at work writing use cases, helping education standards organiz
   > There was some feedback that  BBS, PE, and DIDCommV2 are possible points of convergence.
   > 
   > Also comments that WACI Bloom may play a part in convergence
-* [What BBS+ Means For Verifiable Credentials](https://www.youtube.com/watch?v%3DdXlRIrrb9f4) Evernym
-  > In a recent Evernym blog post, [we discussed why BBS+ LD-Proofs](https://www.evernym.com/blog/bbs-verifiable-credentials/) are the privacy-preserving VC format that everyone should implement. In this webinar….
-  > - A brief history of verifiable credential formats, and how a lack of convergence makes scale and interoperability an ongoing challenge
-  > - How BBS+ Signatures are the breakthrough that combine the best of the JSON-LD and ZKP formats, while still allowing for selective disclosure and non-trackability
-  > - The path forward: What remains to be done to fully converge on the BBS+ format
 
 ## Critique
 
@@ -555,3 +550,6 @@ Subject: RE: One subject, 2 VCs, 2 duplicate properties
 
 ... forking the conversation r.e. Cryptographically Enforceable Issuer Policies @Joosten, H.J.M. (Rieks), how would it be  determined if a Verifier satisfies policy conditions? Really interesting idea.
 
+* [Indexing and Querying Revoked Verifiable Credentials](https://medium.com/51nodes/indexing-and-querying-revoked-verifiable-credentials-e229dc2781d4) 51 Nodes
+
+this article describes a simple approach to revoke verifiable credentials and a decentralized and efficient way to index and query those revoked credentials using the [Graph protocol](https://thegraph.com/en/).

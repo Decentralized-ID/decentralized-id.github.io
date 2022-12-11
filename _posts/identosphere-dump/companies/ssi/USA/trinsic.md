@@ -1,5 +1,15 @@
 # trinsic
 
+* [How Yoma Uses Trinsic to Help African Youth Build Digital CVs](https://trinsic.id/customer-story-yoma/)
+
+Verifiable credentials is a beautiful set of technology that allows people and organizations to get the data in a verifiable form that still respects agency.”
+
+Lohan Spies, Technical Lead, Yoma
+
+* [Trinsic Builds Open Source Trust Registry Sponsored by eSSIF-Lab](https://trinsic.id/trinsic-builds-open-source-trust-registry-sponsored-by-essif-lab/) Trinsic
+
+Driven by our motivation to make SSI more adoptable, we built the world’s first turn-key, open source trust registry solution. This work was sponsored by the [European Self-Sovereign Identity Framework Lab](https://essif-lab.eu/), which is an EU consortium that provides funding for projects that build SSI open source tools. Any ecosystem provider can use the trust registry implementation to enable governance in their verifiable data ecosystem.
+
 * [Introducing Trinsic Ecosystems](https://trinsic.id/introducing-trinsic-ecosystems/)
   > Once an ecosystem is configured, providers need to onboard participants like issuers and verifiers. Trinsic Ecosystems comes with an API that’s extremely easy for any issuer or verifier to integrate and can be white-labeled with the name of the provider. In addition to the API, ecosystem participants can use the Trinsic Studio, a white-labeled web dashboard.
 * [Trinsic Year in Review 2020](https://trinsic.id/trinsic-in-2020-a-year-in-review/)

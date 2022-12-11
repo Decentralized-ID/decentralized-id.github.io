@@ -124,3 +124,9 @@ The platform, Amnesty says, wasn’t merely a passive site with insufficient con
 
 Under [federal rules](https://www.healthit.gov/buzz-blog/information-blocking/information-blocking-eight-regulatory-reminders-for-october-6th) taking effect Thursday, health care organizations must give patients unfettered access to their full health records in digital format. No more long delays. No more fax machines. No more exorbitant charges for printed pages.
 
+## Known
+* [Known](https://withknown.com/) has supported [Indieweb](https://indieweb.org/) standards since the beginning, but Fediverse has been notably missing. I think that’s a big omission, but also not something I’ve had bandwidth to fix.
+* [Building ActivityPub into Known](https://werd.io/2021/building-activitypub-into-known) Ben Werdmüller
+* [ActivityPub support · Issue #2615 · idno/known · GitHub](https://github.com/idno/known/issues/2615%23issuecomment-991335313)
+
+This issue now has a funding of 3004.5068 USD (3000.0 USD @ $1.0/USD) attached to it.

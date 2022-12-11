@@ -4,6 +4,9 @@ published: false
 
 # Explainer
 
+* [Kaliya Young on Identikit with Michelle Dennedy](https://identitywoman.net/podcast-identikit-with-michelle-dennedy/)
+
+our latest series examining the evolution of digital identity, and how self-sovereign identity, specifically, can advance a consent-based economy.
 * [The Architecture of Identity Systems](https://www.windley.com/archives/2020/09/the_architecture_of_identity_systems.shtml) by Phil Windley 
     > I recently read a paper from Sam Smith, [Key Event Receipt Infrastructure](https://arxiv.org/abs/1907.02143), that provided inspiration for a way to think about and classify identity systems. In particular his terminology was helpful to me. This blog post uses terminology and ideas from Sam's paper to classify and analyze three different identity system architectures. I hope it provides a useful model for thinking about identity online.
 * [The SSO Practitioner’s Introduction to Decentralized Identity](https://www.pingidentity.com/en/resources/blog/post/sso-practitioners-introduction-decentralized-identity.html)
@@ -1253,7 +1256,16 @@ Oldie but Goodie by Kim Hamilton Duffy from when she worked at Learning Machines
 
 Technically, Verifiable Claims are claims made about a “subject” (identified by a digital identifier such as a DID) that are rendered tamper proof through digital signatures. The authenticity of digital signatures may, in turn, be established through issuer identifiers, which may also be expressed as DIDs.
 
+* [DID, in short for Decentralized Identifier, is basically a unique string of random numbers and letters](https://twitter.com/fennykyun/status/1564249472053514240) fennykyun
+  > tldr\
+  > :: DID is just an URI\
+  > :: VC is a cryptographically verifiable credential using DID\ 
+  > :: SSI is a self-sovereign and privacy-preserving identity 
+  > :: Non-human (Machines, Bots, Goods, anything) also able to have DID, VC, and SSIs
+
 * [Decentralized Systems of Identity and Owning Your Own Data](https://www.coindesk.com/podcasts/coindesks-money-reimagined/decentralized-systems-of-identity-and-owning-your-own-data/) Coindesk
 
 On this episode of “Money Reimagined,” hosts [Michael Casey](https://twitter.com/mikejcasey) and [Sheila Warren](https://twitter.com/sheila_warren) are together again but this time, at Converge22 by Circle. They discuss the challenges of identity and verification in the U.S. and in other countries with [Daniel Buchner](https://www.linkedin.com/in/dbuchner/), head of decentralized identity at [Block](https://block.xyz/); and [Chi Nnadi](https://www.linkedin.com/in/chinnadi/?originalSubdomain%3Dke), the co-founder and CEO at [Mara](https://mara.xyz/).
+
+* [Introduction to Decentralized Identity](https://wiki.iota.org/identity.rs/decentralized_identity) IOTA Wiki
 

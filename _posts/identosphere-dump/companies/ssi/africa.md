@@ -1,4 +1,5 @@
 # Africa SSI Startups
+- [Daon Provides Biometric Authentication for African Blockchain Identity Platform](https://findbiometrics.com/daon-provides-biometric-authentication-african-blockchain-identity-platform-06100/)
 
 ### Diwala
 

@@ -864,9 +864,6 @@ A key opportunity Web3 presents in the identity space is the ability to interact
 
 Decentralizing access to blockchain APIs is a vital step to improve network uptime and importantly, give people sovereignty of their personal data.
 
-* [Ocean Protocol joins leading Web3 projects on the €20M+ Gaia-X moveID initiative to advance pan-European mobility](https://blog.oceanprotocol.com/ocean-protocol-joins-leading-web3-projects-on-the-20m-gaia-x-moveid-initiative-to-advance-72e4675d12d7) Ocean Protocol
-
-Ocean Protocol, the Web3 platform to unlock data services for AI and business innovation, has joined forces with Chainstep, Datarella, Fetch.ai, peaq and 51nodes to develop the system architecture for European mobility with the preservation of data autonomy as its core principle, within the Gaia-X moveID project.
 
 * [Dock’s Web3 ID Now Available on Auth0 Marketplace](https://blog.dock.io/docks-web3-id-now-available-on-auth0-marketplace/) Dock
 

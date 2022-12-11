@@ -14,6 +14,8 @@ Today, we're taking a significant step forward — I'd go so far to call it a "l
 * [Okta Signs Definitive Agreement to Acquire Auth0](https://auth0.com/blog/okta-auth0-announcement/)
 
 Auth0 will operate as an independent unit inside of Okta, and both platforms will be supported and invested in. As a result, organizations will have a wider breadth of identity solutions to fit their unique needs. Okta and Auth0’s comprehensive, complementary identity platforms are robust enough to serve the world’s largest organizations and flexible enough to address every identity use case, regardless of the audience or user.
+* [Implement Client Credentials with Kong Konnect and Okta](https://developer.okta.com/blog/2021/05/25/client-credentials-kong-konnect)
+  > The OIDC plugin enables Kong, as the API gateway, to communicate with Okta via the OAuth/OIDC flows.
 
 ### Kuppinger Cole Comment: [Okta & Auth0](https://www.kuppingercole.com/blog/tolbert/okta-auth0)
 

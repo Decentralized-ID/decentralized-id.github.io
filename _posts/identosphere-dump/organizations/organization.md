@@ -4,6 +4,8 @@ published: false
 
 # Organization
 
+* [Federated Identity, InCommon, and Enabling Federated Access to Research Services](https://njedge.net/blog/federated-identity-incommon-and-enabling-federated-access-to-research-services/)
+  > The panel will review the concepts of federated identities, authentication, and the role attributes play in managing access to services. They’ll further describe how the InCommon Federation and eduGAIN enable academic collaboration across local, regional, national, and international scales, discuss technical alternatives for participation in InCommon, and delve a bit into how research communities and research cyberinfrastructures manage federated access to their services.
 
 * [LoginWithFIDO.com](https://loginwithfido.com/)
 * [Consumer Research](https://fidoalliance.org/consumerresearch/) 

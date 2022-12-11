@@ -34,3 +34,5 @@ Zain Yousaf, our Product Principal, and Marco took over to showcase Console to t
 
 * [Selective Disclosure: Share What You Want](https://academy.affinidi.com/selective-disclosure-share-what-you-want-288f49e65680) Affinidi
 
+
+* [Explore Affinidi Schema Manager](https://ui.schema.affinidi.com/schemas/)

@@ -1,5 +1,11 @@
 # IAM Companies
 
+
+* [@open_measure](https://twitter.com/open_measure) · [44m](https://twitter.com/open_measure/status/1398540528090759170)
+
+Our #IAM #VendorManagement database just exceeded the 100 entries threshold! There's still a lot of work but it shows already how the IAM #market is a vibrant, diverse, and innovative industry - find out more and contribute at [https://open-measure.atlassian.net/wiki/spaces/VEN/pages/195133452/Vendor+Database](https://open-measure.atlassian.net/wiki/spaces/VEN/pages/195133452/Vendor%2BDatabase)
+
+
 ### Identos
 
 * [Identos builds Verifiable Credentials into updated federated digital ID API](https://www.biometricupdate.com/202209/identos-builds-verifiable-credentials-into-updated-federated-digital-id-api) Biometric Update

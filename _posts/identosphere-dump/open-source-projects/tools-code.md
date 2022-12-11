@@ -1,32 +1,34 @@
 ---
 published: false
 ---
+
+### CCG
 * [Open API for Interoperable Traceability](https://w3c-ccg.github.io/traceability-interop/openapi/%23overview) CCG
   > `resolve:dids - Grants permission to resolve DIDsissue:credentials - Grants permission issue Verifiable Credentialsverify:credentials - Grants permission verify Verifiable Credentialsread:credentials - Grants permission to get Verifiable Credentialsupdate:credentials - Grants permission to update the status of Verifiable Credentialsprove:presentations - Grants permission to prove Verifiable Presentationsverify:presentations - Grants permission verify Verifiable Presentationssubmit:presentations - Grants permission to submit Verifiable Presentations`
 
-# Tools
+## Schema
+
+* [Announcing Schema Markup Validator: validator.schema.org (beta)](http://blog.schema.org/2021/05/announcing-schema-markup-validator.html)
+
+SDTT is a tool from Google which began life as the [Rich Snippets Testing Tool](https://developers.google.com/search/blog/2010/09/rich-snippets-testing-tool-improvements) back in 2010. Last year Google [announced plans](https://developers.google.com/search/blog/2020/07/rich-results-test-out-of-beta) to migrate from SDTT to successor tooling, the [Rich Results Test](https://search.google.com/test/rich-results), alongside plans to "deprecate the Structured Data Testing Tool". The newer Google tooling is focused on helping publishers who are targeting specific schema.org-powered [search features](https://developers.google.com/search/docs/guides/search-gallery) offered by Google, and for these purposes is a huge improvement as it contextualizes many warnings and errors to a specific target application.
+
+## JWT
 
 * [Beginners Guide to JWTs](https://developer.okta.com/blog/2020/12/21/beginners-guide-to-jwt)
   > A JWT is a structured security token format used to encode JSON data. The main reason to use JWT is to exchange JSON data in a way that can be cryptographically verified. There are two types of JWTs:
 > - JSON Web Signature (JWS)
 > - JSON Web Encryption (JWE)
 > The data in a JWS is public—meaning anyone with the token can read the data—whereas a JWE is encrypted and private. To read data contained within a JWE, you need both the token and a secret key.
+
+## Semantics
 * [The Importance of Data Inputs and Semantics for SSI with Paul Knowles [Podcast]](https://northernblock.io/semantics-for-ssi-with-paul-knowles/)
   > The platform was an incredibly federated platform when I built it because I didn’t know that SSI existed. So as soon as I found that ecosystem, I tore up the rulebook and said, “This isn’t going to work; I have to rebuild it.”
-* [Webinar Series: rlogin Developer Workshop from RIF Identity](https://www.youtube.com/watch?v%3Do35EgZ4VH2Q)
-  > rLogin allows web application developers to integrate blockchain technologies giving the user the power of data portability. After integrating rLogin you achieve:
-
-- A back-end authenticating users by their wallet addressed - their Decentralized Identifiers.
-- A registration model capable of requesting users for data stored in its user-centric cloud storage, the Data Vault.
-- A front-end capable of interacting with any wallet that the user chooses, with a pre-designed user experience for registration and login.
-- Compatibility with a unified platform where the user can control their identity and information, the RIF Identity Manager.
 * [What is the VC-Generator App and How to Leverage it?](https://academy.affinidi.com/what-is-the-vc-generator-app-and-how-to-leverage-it-4fa5a54844f2)
   > In simple terms, the VC-Generator allows you to choose a credential type that needs to be issued or verified from a drop-down list and displays the associated VC schema.
 
-Code: [https://github.com/swiss-ssi-group/MattrGlobalAspNetCore](https://github.com/swiss-ssi-group/MattrGlobalAspNetCore)
-* [Present and and Verify Verifiable Credentials in ASP.NET Core Using Decentralized Identities and Mattr](https://damienbod.com/2021/05/10/present-and-verify-verifiable-credentials-in-asp-net-core-using-decentralized-identities-and-mattr/)
+* [https://github.com/transmute-industries/xmss](https://github.com/transmute-industries/xmss)
 
-This article shows how use verifiable credentials stored on a digital wallet to verify a digital identity and use in an application. For this to work, a trust needs to exist between the verifiable credential issuer and the application which requires the verifiable credentials to verify. A blockchain decentralized database is used and MATTR is used as a access layer to this ledger and blockchain. The applications are implemented in ASP.NET Core.
+
 * [Gordian QR Tool Supports Vaccine Records, 2FAs, Cryptoseeds, and More](https://www.blockchaincommons.com/projects/Releasing-QRTool/) Blockchain Commons
   > Some possible architectural issues arise from using QR codes for confidential data, such as the fact that you’re actually transmitting the data (not a proof of the data), that the QRs tend to contain all of the data (not just a selection), and that there’s no way to rescind a QR or expire it. Those issues will have to be dealt with at a foundational level as we figure out what can safely be encoded as a QR — and more importantly how to offer restricted proofs rather than complete information.
 * [Build an SSI proof of concept in <30 minutes](https://iiw.idcommons.net/21G/_Build_an_SSI_proof_of_concept_in_30_minutes) by Riley Hughes
@@ -231,10 +233,6 @@ This is so exciting to see what Wayne and his team are building.
 * [Status.trinsic.id](http://status.trinsic.id/)
   > View historical uptime: Using the status page, you can see the last 90 days of uptime of all our externally-facing services. You can also inspect individual incidents and view incident reports.Be notified of incidents: By clicking the “subscribe” button in the upper-left of the screen, you can have any downtime or incidents trigger a notification to your email or Slack workspace.
 
-* [RIF’s Self Sovereign Identity Developer Library and Repos](https://rsci.app.link/)
-- [RSK ID Repos](https://developers.rsk.co/rif/identity/#repos)
-- [RIF Identity Documentation](https://developers.rsk.co/rif/identity/)
-
 * [Transmute releases technical workbenches](https://medium.com/transmute-techtalk/transmute-releases-technical-workbenches-892f8140ac6e) by Orie Steele, Transmute
     > This new suite of tools is available for developers to experiment with today and includes:
     > 
@@ -331,13 +329,6 @@ Whether a beginning learner, or interested in advanced concepts like Game Develo
 * [Upgradeable Decentralized Identity - DID Method Traits](https://blog.spruceid.com/upgradeable-decentralized-identity/) SpruceID
 
 DID method traits are testable properties about DID methods that can help implementers tame complexity and choose the right DID method(s) for their use case.
-
-* [Indexing and Querying Revoked Verifiable Credentials](https://medium.com/51nodes/indexing-and-querying-revoked-verifiable-credentials-e229dc2781d4) 51 Nodes
-
-this article describes a simple approach to revoke verifiable credentials and a decentralized and efficient way to index and query those revoked credentials using the [Graph protocol](https://thegraph.com/en/).
-
-We consider the knowledge of Self-Sovereign Identity (SSI) and rudimentary knowledge of the [Ethr DID method](https://github.com/decentralized-identity/ethr-did-resolver/blob/master/doc/did-method-spec.md) as a requirement for understanding this article.
-
 
 
 * [Keep Badges Weird is about breaking boundaries: How the KBW community is convening systems](https://blog.weareopen.coop/keep-badges-weird-is-about-breaking-boundaries-42afb0415826) WeAreOpenCoop

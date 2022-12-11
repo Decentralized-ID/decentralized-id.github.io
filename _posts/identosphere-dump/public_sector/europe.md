@@ -2,6 +2,13 @@
 published: false
 ---
 
+
+### EBSI4Austria
+
+* [Report from EBSI4Austria. In 2018, all European member states…](https://medium.com/@markus.sabadello/report-from-ebsi4austria-b79c0ed8ab8d) Markus Sabadello
+
+EBSI4Austria is a CEF funded project with two main objectives. First, EBSI4Austria aims to set up, operate and maintain the Austrian’s EBSI node. Second, we pilot the diploma use case on the Austrian level supported by two Universities and data providers as well as verifiers.
+
 # European Identity
 
 * [Building interoperable self-sovereign identity for Europe](https://www.youtube.com/watch?v=iN6N_aIeHlU)
@@ -81,8 +88,8 @@ In episode 40, Roland fills us in on how Verimi works and its privacy-by-design 
   > Timothy Ruff’s analysis and commentary on the EU Announcement this week about its new digital identity strategy.
 * [EU plans digital ID wallet for bloc’s post-pandemic life](https://apnews.com/article/europe-health-coronavirus-pandemic-lifestyle-travel-73f90d18909c595da463994e16e17348)
    > The European Digital Identity Wallet proposed by the EU’s executive commission is a smartphone app that would let users store electronic forms of identification and other official documents, such as driver’s licenses, prescriptions and school diplomas.
-* [EU decision on Identity Wallet: Starting signal for a seamless digital future](https://www.idnow.io/blog/eu-decision-on-identity-wallet-starting-signal-for-a-seamless-digital-future/)
-  > Last week, the EU Commission published a draft for the so-called digital identity wallet “EUid”. According to it, within 12 months of the law coming into force, every EU state must provide its citizens with a digital wallet.
+
+
 
 * [Where Stands the Sovereign Self?](https://www.kuppingercole.com/blog/hegde/eic-speaker-spotlight-doc-searls-on-decentralized-identity?ref%3Dsmspotlightdoc) Kuppinger Cole
 
@@ -366,9 +373,7 @@ it is likely that many dApp developers now need an identity solution that preser
 EU [DATA GOVERNANCE ACT MEETS TOIP FRAMEWORK](https://trustoverip.org/blog/2022/01/13/data-governance-act-meets-toip-framework/) TOIP
 
 The DGA defines an “intermediary” that facilitates processing and sharing of data for individuals and organizations to “…increase trust in data intermediation services and foster data altruism across the EU”. In the [MyData](https://mydata.org/declaration/) framework for user-controlled data sharing, intermediaries are called [MyData Operators](https://mydata.org/mydata-operators/) and there is a certification program in place.
-* [How the Digital Markets Act (DMA) will shape the future of digital identity in Europe](https://www.idnow.io/blog/digital-markets-act-dma-future-digital-identity/) IDNow
 
-On March 24th, 2022, [the European Parliament and Council reached an agreement on the final version of the Digital Markets Act (DMA)](https://eur-lex.europa.eu/legal-content/de/TXT/?qid%3D1608116887159%26uri%3DCOM%253A2020%253A842%253AFIN). According to the European Commission, the DMA regulation is expected to be reviewed and enacted by October 2022.
 
 * [Overview of Member States' eID strategies](https://ec.europa.eu/cefdigital/wiki/display/EIDCOMMUNITY/National%2BStrategies)
   > The report focusses on the approaches towards eID outlined in national strategy documents, together with other supporting documentation and web resources, with the aim of offering a thorough understanding of the eID state of play across Europe.
@@ -463,3 +468,14 @@ Opportunity 4: Secure messaging.
   > Europe’s digital transformation of the economy and society is framed by the European strategy for data through the establishment of a common European data space based on domain-specific data spaces in strategic sectors such as environment, agriculture, industry, health and transportation.
 
 * [Joining forces towards European digital credentials](https://onedrive.live.com/?authkey%3D%2521ADoEGcIwiKDydcg%26cid%3DF7FF746DED29F767%26id%3DF7FF746DED29F767%252183805%26parId%3DF7FF746DED29F767%252183804%26o%3DOneUp) European Commission
+
+### IDNOW
+
+* [IDnow joins Accelerate@IATA to shape the future of seamless air travel](https://www.idnow.io/pr/idnow-joins-accelerateiata/) IDnow
+
+The goal of IATA One ID is to set industry standards that further streamline the passenger journey with digitalization of admissibility and a contactless process through secure biometric enabled identification.
+* [EU decision on Identity Wallet: Starting signal for a seamless digital future](https://www.idnow.io/blog/eu-decision-on-identity-wallet-starting-signal-for-a-seamless-digital-future/)
+  > Last week, the EU Commission published a draft for the so-called digital identity wallet “EUid”. According to it, within 12 months of the law coming into force, every EU state must provide its citizens with a digital wallet.
+* [How the Digital Markets Act (DMA) will shape the future of digital identity in Europe](https://www.idnow.io/blog/digital-markets-act-dma-future-digital-identity/) IDNow
+
+On March 24th, 2022, [the European Parliament and Council reached an agreement on the final version of the Digital Markets Act (DMA)](https://eur-lex.europa.eu/legal-content/de/TXT/?qid%3D1608116887159%26uri%3DCOM%253A2020%253A842%253AFIN). According to the European Commission, the DMA regulation is expected to be reviewed and enacted by October 2022.

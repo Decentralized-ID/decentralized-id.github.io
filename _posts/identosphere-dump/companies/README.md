@@ -10,39 +10,41 @@
 - Apple
 - Google
 
-### Exostar
+### RIF Identity
 
-* [Exostar Receives Kantara Initiative’s Identity Assurance Trust Framework Certification](https://www.exostar.com/press/exostar-receives-kantara-initiatives-identity-assurance-tKABNKABNrust-framework-certification-achieves-healthcare-and-life-science-community-milestones/) - Latest Recognition Further Demonstrates Company Protects Customers’ Identity and Personal Data by Complying with NIST 800-63 Standard
-  > “This is a significant achievement and market differentiator for Exostar. The Kantara assessment and review process is rigorous and approval demonstrates a company’s care and respect for its customers.”
-  
+* [Webinar Series: rlogin Developer Workshop from RIF Identity](https://www.youtube.com/watch?v%3Do35EgZ4VH2Q)
+  > rLogin allows web application developers to integrate blockchain technologies giving the user the power of data portability. After integrating rLogin you achieve:
 
-
-
-
-
----
-published: false
----
-
-
-* [@open_measure](https://twitter.com/open_measure) · [44m](https://twitter.com/open_measure/status/1398540528090759170)
-
-Our #IAM #VendorManagement database just exceeded the 100 entries threshold! There's still a lot of work but it shows already how the IAM #market is a vibrant, diverse, and innovative industry - find out more and contribute at [https://open-measure.atlassian.net/wiki/spaces/VEN/pages/195133452/Vendor+Database](https://open-measure.atlassian.net/wiki/spaces/VEN/pages/195133452/Vendor%2BDatabase)
+- A back-end authenticating users by their wallet addressed - their Decentralized Identifiers.
+- A registration model capable of requesting users for data stored in its user-centric cloud storage, the Data Vault.
+- A front-end capable of interacting with any wallet that the user chooses, with a pre-designed user experience for registration and login.
+- Compatibility with a unified platform where the user can control their identity and information, the RIF Identity Manager.
+* [RIF’s Self Sovereign Identity Developer Library and Repos](https://rsci.app.link/)
+- [RSK ID Repos](https://developers.rsk.co/rif/identity/#repos)
+- [RIF Identity Documentation](https://developers.rsk.co/rif/identity/)
+* [Roadmap to Institutional Adoption of DeFi](https://www.youtube.com/watch?v%3DbkOQHcVVGoE) RSK - Coinfirm
+  > The most recent FATF updated draft guidance from March 2021 introduces significant changes to the legal definition of DeFi platforms, expanding the types of entities that fall under FATF's umbrella. In this guidance, FATF defines most operators of decentralized finance platforms as “Virtual Asset Service Providers” that have AML/CFT obligations.
+* [@ilanolkies](https://twitter.com/ilanolkies) shares: *Okey, so, today I mapped the work done in the last 3 month by [@rif_os](https://twitter.com/rif_os) about Self-Sovereign Identity protocols in a single link [https://github.com/rsksmart/rif-identity](https://github.com/rsksmart/rif-identity). All compatible with existent protocols and fully integrated into [@RSKsmart](https://twitter.com/RSKsmart) blockchain. The future is one step closer.*
 
 
+
+
+### itheum
 * [5 Reasons Why Our NFMe ID is a Game Changer](https://itheum.medium.com/5-reasons-why-our-nfme-id-is-a-game-changer-6e07d704ebae) • [kabnItheum](https://www.itheum.io/)
 
 When “leased out”, the other party can access your personal data — in this manner, the NFMe ID acts as an “authorization key” that allows third parties to use your data in a fair way to generate a shared value between the third party and the owner of the data.
 
 
-
+###  Dhiway
 Video: [#MARK Studio - Create tamper-proof, secure and globally verifiable digital credentials instantly](https://www.youtube.com/shorts/ZAbiQci1x9w) Dhiway Networks
 
 
+### 5ire
 
 - [Proof ID and Self Sovereign Identity](https://www.digitaljournal.com/pr/proof-id-and-self-sovereign-identity) by [5ire](https://5ire.org/) we can’t find out much about them
-- [Daon Provides Biometric Authentication for African Blockchain Identity Platform](https://findbiometrics.com/daon-provides-biometric-authentication-african-blockchain-identity-platform-06100/)
 
+
+## Centre (verite)
 * [Verite: Growing a Decentralized Identity Ecosystem](https://www.centre.io/blog/verite-growing-a-decentralized-identity-ecosystem) Centre Consortium
 
 Developed last year and launched in Q1 of 2022, the [Verite standard](https://verite.id/verite) welcomes this flourishing of products and experiments with Verifiable Credentials and other privacy-preserving, data-minimizing patterns and principles.
@@ -50,6 +52,13 @@ Developed last year and launched in Q1 of 2022, the [Verite standard](https://ve
 * [Introducing Verite](https://docs.centre.io/blog/introducing-verite) Justin Hunter, Pinata, Centre
 
 But as the world shifts to an increasingly digital native format, and as people take more ownership over their identity, how can the issuance of, presentation of, and verification of credentials be managed?
+
+
+
+### Exostar
+
+* [Exostar Receives Kantara Initiative’s Identity Assurance Trust Framework Certification](https://www.exostar.com/press/exostar-receives-kantara-initiatives-identity-assurance-tKABNKABNrust-framework-certification-achieves-healthcare-and-life-science-community-milestones/) - Latest Recognition Further Demonstrates Company Protects Customers’ Identity and Personal Data by Complying with NIST 800-63 Standard
+  > “This is a significant achievement and market differentiator for Exostar. The Kantara assessment and review process is rigorous and approval demonstrates a company’s care and respect for its customers.”
 
 ### SICPA
 Short promo User Journey videos

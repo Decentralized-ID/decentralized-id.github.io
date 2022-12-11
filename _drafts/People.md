@@ -4,7 +4,15 @@ layout: single
 published: false
 ---
 
+
+- [Mike Jones’ Blog](https://self-issued.info/)
+- [Nat Sakimura’s Blog](https://nat.sakimura.org/)
+- [John Bradley’s Blog](https://www.thread-safe.com/)
+
+
 ![](https://i.imgur.com/jN2CaDz.png)
+
+
 
 Eventually there will be a section with individual pages for the various influential and\or prominent members of the DID\SSI community. But I wasn't sure where to start... 
 

@@ -1,5 +1,13 @@
 # DOCK
 
+
+* [Dock DIDs Now Support Multiple Key Pairs](https://blog.dock.io/dids-multikey-support/) Dock
+
+- Keys can be given different capabilities using Verification Relationships
+- We support 4 Verification Relationships: Authentication, Assertion, Key Agreement, and Capability Invocation.
+- DIDs can now be controlled by other DIDs
+- DIDs can now have service endpoints
+- Dock now supports off-chain DID Documents
 * [Web3 ID - Privacy-preserving user verification for Web3](https://www.dock.io/web3id) Dock
   > Web3 ID is a blockchain-based Authentication and Authorization system that puts user privacy first. Developers can grant access and verify end-user eligibility by requesting private data from users' non-custodial identity wallet apps. Always with the users’ consent.
 * [New Mobile Dock Wallet Release: Users Can Create and Manage Decentralized Identifiers (DIDs)](https://blog.dock.io/dock-wallet-did-management/) Dock

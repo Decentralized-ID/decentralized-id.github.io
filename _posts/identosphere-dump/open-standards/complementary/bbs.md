@@ -73,3 +73,8 @@ The BBS+ signature will also soon be available in [Finema](https://finema.co/)�
 
 Currently, everyone waiting for [#AIP2](https://twitter.com/hashtag/AIP2), which enables [#BBS](https://twitter.com/hashtag/BBS)+ [#Signature](https://twitter.com/hashtag/Signature) in #SSI. Companies already implemented in their products, such as [@trinsic_id](https://twitter.com/trinsic_id) and [@mattrglobal](https://twitter.com/mattrglobal). But ZKP [#predicates](https://twitter.com/hashtag/predicates) are not supported by BBS+, so no ZKP age verification possible. Back to [#AnonCreds](https://twitter.com/hashtag/AnonCreds)?
 - [aries-rfcs/0646-bbs-credentials#drawbacks](https://github.com/hyperledger/aries-rfcs/tree/main/features/0646-bbs-credentials%23drawbacks)
+* [What BBS+ Means For Verifiable Credentials](https://www.youtube.com/watch?v%3DdXlRIrrb9f4) Evernym
+  > In a recent Evernym blog post, [we discussed why BBS+ LD-Proofs](https://www.evernym.com/blog/bbs-verifiable-credentials/) are the privacy-preserving VC format that everyone should implement. In this webinar….
+  > - A brief history of verifiable credential formats, and how a lack of convergence makes scale and interoperability an ongoing challenge
+  > - How BBS+ Signatures are the breakthrough that combine the best of the JSON-LD and ZKP formats, while still allowing for selective disclosure and non-trackability
+  > - The path forward: What remains to be done to fully converge on the BBS+ format

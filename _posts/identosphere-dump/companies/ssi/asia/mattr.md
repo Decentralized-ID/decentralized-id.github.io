@@ -17,3 +17,13 @@ These two international organizations are combining their talents to deliver SSI
 * [Issuing credentials directly to the MATTR mobile wallet](https://medium.com/mattr-global/issuing-credentials-directly-to-the-mattr-mobile-wallet-8e8cab931e2e) Mattr
 
 If you’re already using a secure mechanism to authenticate your users, then setting up OIDC capability isn’t necessary. As we’ve explored, sending credentials using secure DID messaging directly or via a QR code or deep-link is safe, convenient and allows users to obtain their credentials directly.
+
+* [Adding DID ION to MATTR VII](https://medium.com/mattr-global/adding-did-ion-to-mattr-vii-d56bdb7a2fde)
+  > Different types of DIDs can be registered and anchored using unique rules specific to the set of infrastructure where they’re stored. Since DIDs provide provenance for keys which are controlled by DID owners, the rules and systems that govern each kind of DID method have a significant impact on the trust and maintenance model for these identifiers.
+
+## Code
+
+Code: [https://github.com/swiss-ssi-group/MattrGlobalAspNetCore](https://github.com/swiss-ssi-group/MattrGlobalAspNetCore)
+* [Present and and Verify Verifiable Credentials in ASP.NET Core Using Decentralized Identities and Mattr](https://damienbod.com/2021/05/10/present-and-verify-verifiable-credentials-in-asp-net-core-using-decentralized-identities-and-mattr/)
+
+This article shows how use verifiable credentials stored on a digital wallet to verify a digital identity and use in an application. For this to work, a trust needs to exist between the verifiable credential issuer and the application which requires the verifiable credentials to verify. A blockchain decentralized database is used and MATTR is used as a access layer to this ledger and blockchain. The applications are implemented in ASP.NET Core.

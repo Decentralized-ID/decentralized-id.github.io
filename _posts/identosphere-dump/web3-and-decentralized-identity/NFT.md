@@ -4,6 +4,10 @@
 
 A data NFT represents the copyright (or exclusive license against copyright) for a data asset on the blockchain — we call this the “base IP”. When a user publishes a dataset in OceanOnda V4, they create a new NFT as part of the process. This data NFT is proof of your claim of base IP. Assuming a valid claim, you are entitled to the revenue from that asset, just like a title deed gives you the right to receive rent.
 
+* [NFTs, Verifiable Credentials, and Picos](https://www.windley.com/archives/2021/10/nfts_verifiable_credentials_and_picos.shtml) Phil Windley
+
+Summary: The hype over NFTs and collectibles is blinding us to their true usefulness as trustworthy persistent data objects. How do they sit in the landscape with verifiable credentials and picos? Listening to this Reality 2.0 podcast about NFTs with Doc Searls, Katherine Druckman, and their guest Greg Bledsoe got me thinking about NFTs.
+
 * [China is using #blockchain technology to manage #prisoners as if each #prisoner was an #NFT](https://lists.w3.org/Archives/Public/public-credentials/2021Dec/0147.html) Michael Herman (Trusted Digital Web) (Sunday, 26 December)
 
 China is using #blockchain technology to manage #prisoners as if each #prisoner was an #NFT/token on the blockchain...

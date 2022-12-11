@@ -48,7 +48,7 @@
     - ISO/IEC
   - ISO Standards
     - mDL 18013-5 ✓
-    - 22030 ✓
+    - 22030
     - Working Group 3 - Travel Documents
   - Non SSI Identity Standards
     - OpenID
@@ -93,8 +93,8 @@
   - DIACC ✓
   - ID2020 ✓
   - OpenID Foundation ✓
-  - M2B Alliance (has a new name)
-  - GLEIF
+  - M2B Alliance (has a new name) ✓
+  - GLEIF ✓
 - SSI Networks
   - DismeID
   - Sovrin

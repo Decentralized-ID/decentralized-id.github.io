@@ -71,6 +71,7 @@ Updates on Kepler including implementing support for [CACAO-ZCAPs](https://githu
 
 ## UCAN
 
+[ucan-wg](https://github.com/ucan-wg)
 * [Lightweight Credentials for Offers with UCAN](https://blog.fission.codes/lightweight-credentials-ucan/)
 
 these are the types of use cases that we think can be created and enabled across the web as an open, interoperable standard. And some of it crosses into the work we're doing as [part of the Decentralized Identity Foundation](https://blog.fission.codes/fission-demo-day-may-2021/), too.

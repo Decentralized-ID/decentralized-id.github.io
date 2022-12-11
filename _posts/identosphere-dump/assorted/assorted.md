@@ -6,13 +6,6 @@ published: false
 ## Identosphere
 We created an [Identosphere Group on Tru.net](https://tru.net/Identosphere)
 
-## Projects
-
-RIF Identity
-
-* [@ilanolkies](https://twitter.com/ilanolkies) shares: *Okey, so, today I mapped the work done in the last 3 month by [@rif_os](https://twitter.com/rif_os) about Self-Sovereign Identity protocols in a single link [https://github.com/rsksmart/rif-identity](https://github.com/rsksmart/rif-identity). All compatible with existent protocols and fully integrated into [@RSKsmart](https://twitter.com/RSKsmart) blockchain. The future is one step closer.*
-
-
 ## History
 
 * [A brief history of SSI: Where does it come from? A timeline.](https://jolocom.io/blog/a-brief-history-of-ssi-where-does-it-come-from-a-timeline/)
