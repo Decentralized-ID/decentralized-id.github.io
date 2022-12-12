@@ -22,8 +22,9 @@ last_modified_at: 2022-12-12
 > Verifiable credentials (VCs) are the electronic equivalent of the physical credentials that we all possess today, such as: plastic cards, passports, driving licences, qualifications and awards, etc. The data model for verifiable credentials is a World Wide Web Consortium Recommendation, "Verifiable Credentials Data Model 1.0 - Expressing verifiable information on the Web" published 19 November 2019. - [Wikipedia](https://en.wikipedia.org/wiki/Verifiable_credentials)
 
 ## Specification
+
 * [Verifiable Credentials Data Model v1.1 is an official W3C standard!](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/0005.html)  Manu Sporny (Thursday, 3 March, 2022)
-  > [Verifiable Credentials Data Model v1.1](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/)
+  * [Verifiable Credentials Data Model v1.1](https://www.w3.org/TR/2022/REC-vc-data-model-20220303/) (RECOMMEND)
 * [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/) (DRAFT)
   > - The components that constitute a [verifiable credential](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/%23dfn-verifiable-credentials)
   > - The components that constitute a [verifiable presentation](https://www.w3.org/TR/2022/WD-vc-data-model-2.0-20220811/%23dfn-verifiable-presentations)
