@@ -26,9 +26,13 @@ toc: false
 ## Explainer
 
 * [Understanding Decentralized IDs (DIDs)](https://medium.com/@adam_14796/understanding-decentralized-ids-dids-839798b91809) Adam Powers
+  > This article starts off with an overview of DIDs, DID Documents, Verifiable Claims and DIDAuth — basically laying out how the technology works. It then explores the economics of DIDs to try and understand what problems they propose to solve, for whom, and how they go about solving them.
 * [What is a DID?](https://docs.google.com/document/d/1Ym85y_bDVN9xkRZ-oD-zlUUIeZjVGWNihfZBk2GQidk/edit)
   > Based on the DID Specification draft v0.11, W3C/Credentials Community Group meeting discussions and email threads. 
-* [The Path from an id (DID) to a Real-Life Something](https://hyperonomy.com/2019/01/04/the-path-from-a-id-did-to-a-real-life-something)
+* [The Path from an id (DID) to a Real-Life Subject](https://github.com/mwherman2000/indy-arm/blob/master/README.md#appendix-e---did-resolution-path-from-a-did-to-a-real-life-subject-)
+  > The following graphic illustrates the path (flow) of a client app trying to: a) communicate/interact with, and/or b) access the metadata about a real-life subject by using a Decentralized Identifier (id (DID)).
+  > 
+  > That is, in (almost) 10 steps or less, how to you get from an id (DID) attribute on the left to a Real-Life Subject on the right?
 * [Demystifying Decentralized Identifiers (DIDs)](https://academy.affinidi.com/demystifying-decentralized-identifiers-dids-2dc6fc3148fd) Affinidi
   > - Does not require a centralized registration authority
   > - Many DIDs use the distributed ledger technology or any other decentralized network, though it is not mandatory
