@@ -1,3 +1,8 @@
+* [Credential-based login to a Pico-based application](https://iiw.idcommons.net/11P/_Credential-based_login_to_a_Pico-based_application) by Bruce Conrad
+  > Verifiable credentials, authentication, picos, pico-based application
+  > 
+  > The slides are at [https://bruceatbyu.com/s/HRDDSiiw32](https://bruceatbyu.com/s/HRDDSiiw32)
+
 * [Announcing Pico Engine 1.0](https://www.windley.com/archives/2021/02/announcing_pico_engine_10.shtml)
   > In addition to the work on the engine itself, one of the primary workstreams at present is to complete Bruce Conrad's excellent work to use DIDs and DIDComm as the basis for inter-pico communication, called ACA-Pico (Aries Cloud Agent - Pico). [...] This work is important because it will replace the current subscriptions method of connecting heterarchies of picos with DIDComm. [...] because DIDComm is protocological, this will support protocol-based interactions between picos, including credential exchange.
 * [The Most Inventive Thing I've Done](https://www.windley.com/archives/2022/07/the_most_inventive_thing_ive_done.shtml) Phil Windley

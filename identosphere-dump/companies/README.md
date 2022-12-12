@@ -10,6 +10,10 @@
 - Apple
 - Google
 
+### Thrivacy
+* [WHY THRIVACY?: Think about it. What did you leave behind when you bought the last round of drinks.](https://www.thrivacy.io/why-thrivacy)
+  > Your Thrivacy wallet allows you to request all your important, personal information that can be used to identify who you are to be created into what we call verified credentials. Then those same verified credentials or VCs can be downloaded and stored in your own personal wallet that is kept inside your cell phone.
+
 ### RIF Identity
 
 * [Webinar Series: rlogin Developer Workshop from RIF Identity](https://www.youtube.com/watch?v%3Do35EgZ4VH2Q)

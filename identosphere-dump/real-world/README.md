@@ -7,6 +7,8 @@
 - Digital Age Verfication (152k retail stores, 200M people)
 - Content Authenticity Initative (30M Adobe customers)
 - Digital Permanent Resident Cards (14M people)
+* [IIW verifiable credentials - Decentralized VC integration with Eventbrite and Qiqo chat. This session will review the implementation process, lessons learned, and community discussion on related use cases.](https://iiw.idcommons.net/11A/_IIW_verifiable_credentials_-_Decentralized_VC_integration_with_Eventbrite_and_Qiqo_chat._This_session_will_review_the_implementation_process,_lessons_learned,_and_community_discussion_on_related_use_cases.) by Mike Vesey, Karl Kneis
+
 
 * [Transforming Scottish Education on the Blockchain](https://digitalscot.net/education-blockchain/) DigitalScot
 
