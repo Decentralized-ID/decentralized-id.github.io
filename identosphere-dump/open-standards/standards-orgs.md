@@ -13,24 +13,9 @@ published: false
 
 ## Links
 
-* [Decentralized Profiles group Nov 25th call](https://blog.ceramic.network/dprofiles-call-3/)
-Every 6 weeks the at Ceramic meets
-* [Digital Identity in response to COVID-19: DGX Digital Identity Working Group](https://www.tech.gov.sg/files/media/corporate-publications/FY2021/dgx_2021_digital_identity_in_response_to_covid-19.pdf)
+
 
 ## ITU-T
-
-## OpenSSF
-* [Digital Identity Attestation Roundup - Open Source Security Foundation](https://openssf.org/blog/2021/01/27/digital-identity-attestation-roundup/%23)
-
-We kicked off the first Digital Identity Attestation Working Group meeting under the OpenSSF in August, 2020. The objective of this working group is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance or origin of the code they maintain, produce and use.
-
-
-* [Digital Identity WG (September 30, 2020)](https://www.youtube.com/watch?t%3D648%26v%3D6Ym5bXRuzZ8%26feature%3Dyoutu.be)
-
-## CASA
-
-* [Chain Agnostic Standards Alliance](https://github.com/ChainAgnostic/CASA)
-  > The Chain Agnostic Standards Alliance (CASA) is a collection of working groups dedicated blockchain protocol-agnostic standards. CASA also publishes [Chain Agnostic Improvement Proposals](https://github.com/ChainAgnostic/CAIPs) which describe standards created by the different working groups.
 
 
 ## OASIS
@@ -155,3 +140,18 @@ there are statements like: "Buy our products! We're the best!" (with nothing els
 * [https://www.w3.org/2019/did-wg/](https://www.w3.org/2019/did-wg/) - Website
 
 * [https://lists.w3.org/Archives/Public/public-did-wg/](https://lists.w3.org/Archives/Public/public-did-wg/) - LIst Archives
+
+## Other
+
+### OpenSSF
+* [Digital Identity Attestation Roundup - Open Source Security Foundation](https://openssf.org/blog/2021/01/27/digital-identity-attestation-roundup/%23)
+
+We kicked off the first Digital Identity Attestation Working Group meeting under the OpenSSF in August, 2020. The objective of this working group is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance or origin of the code they maintain, produce and use.
+
+
+* [Digital Identity WG (September 30, 2020)](https://www.youtube.com/watch?t%3D648%26v%3D6Ym5bXRuzZ8%26feature%3Dyoutu.be)
+
+### CASA
+
+* [Chain Agnostic Standards Alliance](https://github.com/ChainAgnostic/CASA)
+  > The Chain Agnostic Standards Alliance (CASA) is a collection of working groups dedicated blockchain protocol-agnostic standards. CASA also publishes [Chain Agnostic Improvement Proposals](https://github.com/ChainAgnostic/CAIPs) which describe standards created by the different working groups.

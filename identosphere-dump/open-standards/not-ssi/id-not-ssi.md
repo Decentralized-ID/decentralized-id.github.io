@@ -78,12 +78,6 @@ Democrats who have been misguidedly attacking Section 230 of the Communications 
 
 Like the "close" buttons for elevator doors, "keep me logged in" options on web-site authentication screens feel more like a placebo than something that actually works. Getting rid of passwords will mean we need to authenticate less often, or maybe just don't mind as much when we do.
 
-* [Getting Started with Ceramic](https://blog.ceramic.network/getting-started-with-ceramic/)
-
-In this beginner-friendly guide, I'll give you all the tools and knowledge needed to integrate the [Ceramic Network](https://developers.ceramic.network/) into your Web 3 [dapps](https://ethereum.org/en/dapps/).
-
-The Ceramic Network is a decentralized data network that aims to bring composable data to Web 3 dapps. There are many types of data that Ceramic can work with, but for this guide we can treat Ceramic like a decentralized NOSQL document database.
-
 * [ADOPTING NEW TECH: HOW TO GIVE YOUR TEAM THE BEST CHANCES OF SUCCESS](https://www.theengineroom.org/adopting-new-tech-how-to-give-your-team-the-best-chances-of-success/) The Engine Room
 
 From our past work in this area, we have seen that slow and steady wins the race: for new policies, practices, and technologies to become part of workflows, staff need to be able to learn how to use new tools and incorporate them into their daily work practices — and be supported in doing so.

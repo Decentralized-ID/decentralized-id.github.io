@@ -119,3 +119,5 @@ We design, implement, and evaluate a solution for achieving continuous authoriza
   > So what’s the problem? I can say with full confidence after years of experience building and deploying systems to support parameterized scopes like this that they are fragile, awkward, and lead to insecure corner cases.
 * [Bikeshed: Renaming the VC HTTP API](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0131.html)  Manu Sporny (Saturday, 17 July)
   > the fundamental issue is that stringing a bunch of consonants together ("HTTP") rarely leads to something easy to say in conversation.
+* [Identity, Unlocked... Explained: Season 2, Ep. 2](https://auth0.com/blog/identity-unlocked-explained-season-2-ep-2/) Vittorio Bertocci with Filip Skokan
+  > a conversation about a few three-letter extensions to OAuth (which, incidentally, would also fit well in a pirate incantation!): PAR, RAR, and JAR. Filip is a Senior Engineer II at Auth0, the author of a popular book on open source identification, and a contributor to both the [IETF](https://www.ietf.org/) and the [OpenID Foundation](https://openid.net/foundation/).

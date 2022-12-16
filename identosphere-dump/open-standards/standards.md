@@ -4,7 +4,6 @@ published: false
 
 # Standards
 
-
 * [DIDs are not enough - we need an Authoriziation standard too](https://medium.com/energy-web-insights/api-access-security-for-dapps-cfcfa928623c) Energy Web
 
 If you are a developer and want to write a DApp [...] you probably are using API-Keys in your front-end. If this is the case, then you should consider the security risk the publication of the API-Key in your front end represents and ask yourself if it would make sense to switch to a user authentication scheme.
@@ -40,40 +39,7 @@ Here’s my premise – we don’t have standards nor interoperability – at le
 * [Manifesto: Rules for standards-makers](http://scripting.com/2017/05/09/rulesForStandardsmakers.html)
   > I've used all kinds of formats and protocols in a long career as a software developer, even created a few. My new manifesto summarizes what I've learned about what works and what doesn't.
 
-## Formal Objection
 
-* [Re: historical background regarding success of responses to formal objections](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0076.html) Liam R. E. Quin (Monday, 13 September)
-  > In the 17 years i worked at W3C, the formal objections were
-  > 
-  > (1) "we [the objector] wanted to be on record as saying this but go ahead and publish" (the most common);\
-  > (2) we [the objector] have a product, or are about to ship a product, and the feature(s) in  this spec would cause problems in the short-term for our product, and that's more important to us than the Web (no-one will ever admit to this but it's not uncommon)\
-  > (3) we object to this spec, we prefer another approach, so here's a bunch of fake objections to slow things down because we can't share our actual business strategy\
-  > (4) we believe there's a technical problem with this spec, but we didn't notice it over the past four years despite a last call  review (this one is actually rare but does happen)\
-
-## New
-
-* [What's New in Passwordless Standards, 2021 edition!](https://techcommunity.microsoft.com/t5/identity-standards-blog/what-s-new-in-passwordless-standards-2021-edition/ba-p/2124136) (Microsoft)
-  > The Web Authentication API (WebAuthn) Level 2 specification is currently a Candidate Recommendation at the W3C. "Level 2" essentially means major version number 2.
-> 
-> The version 2.1 of the[Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-rd-20201208/fido-client-to-authenticator-protocol-v2.1-rd-20201208.html) specification is a Release Draft at the FIDO Alliance. This means the spec is in a public review period before final publication.
-> We think you might want to hear about what we think is especially fun about WebAuthn L2 and CTAP 2.1.
-
-
-## Big Pic
-* [Decentralised Identity: What’s at Stake?](https://inatba.org/wp-content/uploads/2020/11/2020-11-INATBA-Decentralised-Identity-001.pdf) A Position Paper by the INATBA Identity Working Group
-  > INATBA has a specific Standards Committee to liaison with relevant standardisation committees and bodies. Some relevant standardisation committee and bodies include:
-  > - [ISO/TC 307 “Blockchain and distributed ledger technologies”](https://www.iso.org/committee/6266604.html)
-  > - [CEN/CENELEC JTC 19 “Blockchain and Distributed Ledger Technologies”](https://standards.iteh.ai/catalog/tc/cen/d96ab6b7-aac8-49e9-9ac5-b391bbd2abdc/cen-clc-jtc-19)
-  > - [Decentralised Identifiers (DIDs)](https://w3c.github.io/did-core/)
-  > - [DID Resolution](https://w3c-ccg.github.io/did-resolution/)
-  > - [Verifiable Credentials (VCs)](https://www.w3.org/TR/vc-data-model/)
-  > - “[Issuer](https://github.com/w3c-ccg/vc-issuer-http-api)” and “[Verifier](https://github.com/w3c-ccg/vc-verifier-http-api)” API, [​Linked Data Vocabulary](https://digitalbazaar.github.io/citizenship-vocab/)
-  > - [Credential Handler API](https://w3c-ccg.github.io/credential-handler-api/)
-  > - [DID SIOP](https://identity.foundation/did-siop/)
-  > - [DID Comm](https://github.com/decentralized-identity/didcomm-messaging)
-  > - [Trust over IP Foundation](https://trustoverip.org/)
-* [distributed ID learning path](https://translate.google.com/translate?sl=auto&tl=en&u=https://kristinayasuda.com/posts/decentralized-identity-catch-up-path/) Christina Yasuda based on [VC-Spec](https://github.com/decentralized-identity/vc-spec-map) Map by Michael Ruminer
-  > first describes pre-requisite knowledge, including JSON, JSON-LD, JWT, JWS, JWK, JWA, and sometimes CBOR. She then goes on to break down knowledge areas beginning with the basics: DID-Core, DID-Resolution, DID-Spec, DID Use-Cases. Next, she covers Verifiable Credentials with VC-Data Model, VC Use-Cases, and VC-Implementors Guide, and also Transport, Credential Presentation, and Other Data Formats.
 * [Linked Data Security](https://lists.w3.org/Archives/Public/public-credentials/2021Feb/0134.html) ([slide deck](https://lists.w3.org/Archives/Public/public-credentials/2021Feb/att-0134/2021-Linked-Data-Security.pdf)
   > The attached slide deck provides a basic overview (with examples) of Linked Data Security as well as the specifications in that orbit. The W3C CCG is  actively developing a number of these specifications.
 * [Roadmap: Verifiable Trust Standards](https://lists.w3.org/Archives/Public/public-credentials/2021Mar/0014.html)
@@ -83,36 +49,6 @@ Here’s my premise – we don’t have standards nor interoperability – at le
   > Red - Low-level cryptographic primitives
   > Purple - General crypto packaging/protocol standards
   > Orange - Application layer standards
-* [An overview of blockchain technical standards](https://www.weforum.org/whitepapers/global-standards-mapping-initiative-an-overview-of-blockchain-technical-standards)
-  > This October report is the most comprehensive review of global standards around blockchain tech that we’ve seen. Here’s a list of standards bodies included in a chart towards the end:
-  > - [IEEE](https://standards.ieee.org/) (IoT; Cryptocurrency exchange & payment; tokens; energy; digital assets)
-  > - [ISO](https://www.iso.org/standards.html) (Security; identity)
-  > - [W3C](https://www.w3.org/standards/) (Identity)
-  > - [IRTF](https://irtf.org/) (Identity; digital assets)
-  > - [IEC](https://www.iec.ch/) (IoT)
-  > - [IETF](https://www.ietf.org/standards/) (Cryptocurrency payment)
-  > - [ITU-T](https://www.itu.int/en/ITU-T/publications/Pages/default.aspx) (Security; IoT; identity; DLT requirements)
-  > - [BSI](https://www.bsigroup.com/en-GB/standards/) (DLT requirements)
-  > - [CEN](https://www.cen.eu/Pages/default.aspx); [CENELEC](https://www.cenelec.eu/) (Security)
-  > - [Standards Australia](https://www.standards.org.au/) (Security; DLT taxonomy)
-  > - [WIPO](http://www.wipo.int/) (Blockchain for intellectual property)
-  > - [ETSI](https://www.etsi.org/standards) (Permissioned ledgers)
-  > - [SAC](http://www.sac.gov.cn/sacen/) (DLT requirements)
-  > - [BRIBA](https://www.beltandroadblockchain.org/) (DLT requirements)
-  > - [CESI](http://www.cc.cesi.cn/english.aspx) (Tokens; security)
-  > - [DCSA](https://dcsa.org/) (Interoperability)
-  > - [International Chamber of Commerce](https://iccwbo.org/) (Interoperability)
-  > - [EEA](https://entethalliance.org/) (Interoperability; tokens)
-  > - [Hyperledger](https://www.hyperledger.org/) (Interoperability; tokens)
-  > - [IWA](https://interwork.org/) (Tokens; analytics)
-  > - [JWG](https://intervasp.org/) (Tokens)
-  > - [National Blockchain and Distributed Accounting Technology Standardization Technical Committee](https://tech.sina.com.cn/it/2018-05-10/doc-ihaichqz3607998.shtml) (DLT requirements\terminology)
-  > - [CDC](https://digitalchamber.org/initiatives/) (Digital assets)
-  > - [MOBI](https://dlt.mobi/) (Vehicle identity; usage-based insurance; electric vehicle grid integration; connected mobility and data marketplace; supply chain and finance; securitization and smart contracts)
-  > - [GDF](https://www.gdfi.io/) (DLT requirements)
-  > - [BIG](https://blockchainindustrygroup.org/) (DLT requirements)
-  > - [BIA](https://bialliance.io/) (Interoperability)
-  > - [BiTA](https://www.bita.studio/) (Interoperability; DLT requirements)
 
 ### Verifier Universal Interface
 * [Verifier Universal Interface by Gataca España S.L.](https://essif-lab.eu/verifier-universal-interface-by-gataca-espana-s-l/)
