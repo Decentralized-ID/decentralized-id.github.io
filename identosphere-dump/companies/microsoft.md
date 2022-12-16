@@ -1,4 +1,11 @@
 # Microsoft
+* [Credivera Joins Microsoft Partner Network as Verifiable Credentials Provider](https://www.newswire.ca/news-releases/credivera-joins-microsoft-partner-network-as-verifiable-credentials-provider-857742185.html)
+
+* [What's New in Passwordless Standards, 2021 edition!](https://techcommunity.microsoft.com/t5/identity-standards-blog/what-s-new-in-passwordless-standards-2021-edition/ba-p/2124136) (Microsoft)
+  > The Web Authentication API (WebAuthn) Level 2 specification is currently a Candidate Recommendation at the W3C. "Level 2" essentially means major version number 2.
+  > 
+  > The version 2.1 of the[Client to Authenticator Protocol (CTAP)](https://fidoalliance.org/specs/fido-v2.1-rd-20201208/fido-client-to-authenticator-protocol-v2.1-rd-20201208.html) specification is a Release Draft at the FIDO Alliance. This means the spec is in a public review period before final publication.\
+  > We think you might want to hear about what we think is especially fun about WebAuthn L2 and CTAP 2.1.
 
 ## Azure AD
 * [DTDL models - Azure Digital Twins | Microsoft Docs](https://docs.microsoft.com/en-us/azure/digital-twins/concepts-models)

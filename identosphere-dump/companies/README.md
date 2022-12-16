@@ -10,6 +10,11 @@
 - Apple
 - Google
 
+## RootsID
+* [RootsID SSI Report - E1](https://www.youtube.com/watch?v%3DspbZp8X1eH0)
+
+covers our work with DIF, Trust over IP, and attending Consensus 2022.
+
 ### Thrivacy
 * [WHY THRIVACY?: Think about it. What did you leave behind when you bought the last round of drinks.](https://www.thrivacy.io/why-thrivacy)
   > Your Thrivacy wallet allows you to request all your important, personal information that can be used to identify who you are to be created into what we call verified credentials. Then those same verified credentials or VCs can be downloaded and stored in your own personal wallet that is kept inside your cell phone.
@@ -49,20 +54,6 @@ Video: [#MARK Studio - Create tamper-proof, secure and globally verifiable digit
 ### 5ire
 
 - [Proof ID and Self Sovereign Identity](https://www.digitaljournal.com/pr/proof-id-and-self-sovereign-identity) by [5ire](https://5ire.org/) we can’t find out much about them
-
-
-## Centre (verite)
-* [Verite: Growing a Decentralized Identity Ecosystem](https://www.centre.io/blog/verite-growing-a-decentralized-identity-ecosystem) Centre Consortium
-
-Developed last year and launched in Q1 of 2022, the [Verite standard](https://verite.id/verite) welcomes this flourishing of products and experiments with Verifiable Credentials and other privacy-preserving, data-minimizing patterns and principles.
-
-* [Introducing Verite](https://docs.centre.io/blog/introducing-verite) Justin Hunter, Pinata, Centre
-
-But as the world shifts to an increasingly digital native format, and as people take more ownership over their identity, how can the issuance of, presentation of, and verification of credentials be managed?
-* [Verification Patterns, Part 1](https://docs.centre.io/blog/verification-patterns-1) Verite
-
-Since verification is off-chain (and generally fast/inexpensive, depending on the provider), and since this avoids on-chain storage of potentially correlatable data, this is often the preferred solution.
-
 
 
 ### Exostar
@@ -236,7 +227,6 @@ Switchboards, our enterprise-grade self sovereign identity and access management
 
 * [Lissi demonstrates authentication for Gaia-X Federation Services](https://lissi-id.medium.com/lissi-demonstrates-authentication-for-gaia-x-federation-services-819e9bbe70ad) Lissi ID
   > Gaia-X creates an open, federated digital ecosystem for data infrastructure for decentralized cloud and edge workloads and data sharing capabilities. As part of the core services, the so-called Gaia-X Federation Services (GXFS) are targeting the areas of Identity & Trust, Federated Catalogue, Sovereign Data Exchange and Compliance as open-source reference implementations.
-Centre - Verite
 * [Lissi Connect Demo](https://lissi-id.medium.com/lissi-connect-demo-d6db29db7755) <- in German
   > The login is only the start of the mutual customer relationship users do not want to monitor and maintain dozens of communication interfaces, but prefer a solution that brings these aspects together. This includes not only login services, but also newsletters, information letters from the bank, digital proof of any kind and other relevant personal information. The media break and the fragmentation of the current systems poses a major challenge for users and organizations. However, once stored in the user's wallet, this information can be easily managed, sorted and presented as needed.
 * [The Lissi Wallet is now available in 12 languages!](https://lissi-id.medium.com/the-lissi-wallet-is-now-available-in-12-languages-f88e56b04e19)

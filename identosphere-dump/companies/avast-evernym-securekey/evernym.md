@@ -1,5 +1,7 @@
-@ evernym
+# evernym
 
+* [Why we support EFF](https://www.evernym.com/blog/why-we-support-the-electronic-frontier-foundation/) Evernym
+  > Privacy gets too little emphasis from some participants in the decentralized identity movement. They claim to value confidential interactions, yet advocate that individuals create public decentralized identifiers (DIDs) on the blockchain (ignoring legal warnings about DIDs being PII). They are okay with “phone home” verifications of credentials and revocation and capabilities.
 * [Evernym June Release notes](https://www.evernym.com/blog/june-2022-release-notes/)
 
 we’ll be able to share more about our new work at Avast over the coming months. In the meantime, there are several great posts on the Avast blog that show the combined thinking of the Avast, Evernym, and SecureKey teams:

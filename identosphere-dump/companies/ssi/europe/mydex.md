@@ -86,3 +86,6 @@ One of MyDex CIC’s founders, [Alan Mitchell shares a feeling of Vindication](h
 * [Design Principles for the Personal Data Economy](https://medium.com/mydex/design-principles-for-the-personal-data-economy-f63ffa93e382) MyDex ([whitepaper](https://mydex.org/resources/papers/)
 
 A key part of this is continuity and longevity: a personal data store is for life, so the institutions providing personal data stores should be designed for decades (centuries, even). Whatever particular corporate form they take, legal safeguards relating to continuity and longevity of purpose need to be built into how they operate.
+* [Getting Identity Right. At Last.](https://medium.com/mydex/getting-identity-right-at-last-8512abadcfbc) MyDex
+
+By recognising the pivotal importance of verified attributes and the potential role of personal data stores in enabling the sharing of these attributes, it is opening the door to actually solving the problem of identity. At last.
