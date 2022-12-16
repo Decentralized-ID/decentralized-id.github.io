@@ -3,6 +3,9 @@
   > Sidetree protocols are layer 2 protocols that anchor to the underlying decentralized ledger system. That said, it is ledger agnostic and its primary role is to anchor batches of signed JSON operations to the network.
 * [Sidetree Protocol reaches V1](https://blog.identity.foundation/sidetree-protocol-reaches-v1/) DIF
   > This week, the DIF Steering Committee officially approved the first major release of the Sidetree Protocol specification, "v1" so to speak. This protocol has already been implemented, and four of its implementers have been collaborating intensively for over a year on expanding and extending this specification together.
+* [@csuwildcat](https://twitter.com/csuwildcat) shares
+  > As of Friday, we believe v1 of ION is functionally code complete, and the Sidetree Working Group at DIF (@DecentralizedID) should have a v1 spec candidate ready for the underlying protocol by Jan 21st. Public v1 launch of the ION network on Bitcoin mainnet is just weeks away.
+  
 * [ION – We Have Liftoff!](https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555)
   > We are excited to share that v1 of [ION](https://identity.foundation/ion/) is complete and has been launched on Bitcoin mainnet. We have deployed an ION node to our production infrastructure and are working together with other companies and organizations to do so as well. ION does not rely on centralized entities, trusted validators, or special protocol tokens – ION answers to no one but you, the community. Because ION is an open, permissionless system, anyone can run an ION node, in fact the more nodes in operation, the stronger the network becomes. Development of ION, and the Sidetree standard ION is based on, takes place in the [Decentralized Identity Foundation](https://identity.foundation/) (DIF). Read on to learn how you can integrate ION, DIDs, and Verifiable Credentials in your applications and services.
 

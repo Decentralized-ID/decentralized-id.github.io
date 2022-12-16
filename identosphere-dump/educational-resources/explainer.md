@@ -452,11 +452,6 @@ SSI has the power to change the world for the better by flipping the power dynam
 * [What is Self Sovereign Identity](https://medium.com/coinmonks/what-is-self-sovereign-identity-a8087b2bf0ea) Florian Strauf
 
 the digital representation of the identification process we know from the physical world. Things like showing our driver’s license to prove we are allowed to drive, or sending a bank statement to a real estate agent to prove our income and account balance.
-* [Webinar: The Future of Self Sovereign Identity](https://www.youtube.com/watch?v%3DgimrMbcj91A)
-
-Presented by Patientory includes Jim St. Claire of LFPH
-
-Self-sovereign identity (SSI) is a movement that claims digital identity should be just as legitimate and nuanced as a person’s human identity, while being accessible to all, privacy-preserving, and not reliant on a single government or corporation.
 
 * [Self Sovereign Identity Explainer](https://www.didas.swiss/2021/12/17/self-sovereign-identity-explainer-introduction-to-the-world-of-ssi/) DIDAS ([PDF](https://www.didas.swiss/wp-content/uploads/2021/12/SSI-Explainer-Introduction-final.pdf)
 

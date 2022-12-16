@@ -14,7 +14,13 @@ published: false
 
 * [https://www.youtube.com/watch?v=lYb9bUyIPEw](https://www.youtube.com/watch?v%3DlYb9bUyIPEw)
 
+## iiw
 
+* [@IDWorkshop (IIW) tweeting from the Flickr Archives](https://twitter.com/idworkshop/status/1471905005556822017?s%3D20)
+
+Check out these [photos from IIW 1 in 2005](https://www.flickr.com/photos/tags/iiw2005/page1/)
+
+([src](https://www.flickr.com/photos/chrisheuer/57584208/in/photolist-5YzQy-613Xi-5YztD-613UK-5YBEi-669qJ-6153X-63sGm-65uyW-63sKa-63sHi-63sJv-6682a-669uE-5YzVT-68VoW-6685y-668ju-68VjB-669om-65uHm-65UDr-668pr-6689z-68Vd9-65Urf-68V8M-6693d-68V51-668vo-68Vhj-6696s-669jG-669eG-668z5-65Uvh-668ZD-668K2-668Vm-668rU-669ah-668Mb-668QJ-65uDA-668FE-65uFG-65UGT-65Uza-65uC8-65uAq/)
 ## InCommon
 * [Federated Identity, InCommon, and Enabling Federated Access to Research Services](https://njedge.net/blog/federated-identity-incommon-and-enabling-federated-access-to-research-services/)
   > The panel will review the concepts of federated identities, authentication, and the role attributes play in managing access to services. They’ll further describe how the InCommon Federation and eduGAIN enable academic collaboration across local, regional, national, and international scales, discuss technical alternatives for participation in InCommon, and delve a bit into how research communities and research cyberinfrastructures manage federated access to their services.
@@ -36,7 +42,8 @@ published: false
 
 ### Sovrin
 * [Sovrin Update: Supporting Commercial Development of SSI](https://iiw.idcommons.net/index.php?title%3D12M/_Sovrin_Update:_Supporting_Commercial_Development_of_SSI%26action%3Dedit%26redlink%3D1) by Sumiran Garg, Chris Raczkowski
-
+* [Compliance & Inclusive Finance Working Group (CIFWG)](https://medium.com/@sovrinid/promoting-banking-for-all-announcing-the-compliance-inclusive-finance-working-group-cifwg-340633ef3e6c) Sovrin
+  > Since 2019, Sovrin has hosted the Compliance and Payments Task Force (CPTF), an open group of traditional bank and non-bank financial institutions, regulators, policymakers, technologists, ethicists, and legal experts. The CPTF has developed and promoted the Rulebook, an innovative best practices framework that extends traditional banking compliance and payments guidance to emerging fintech and VASP processes.
 
 ### WHISSPR
 * [WHiSSPr Risk for People](https://iiw.idcommons.net/index.php?title%3D20E/_WHiSSPRr_Risk_for_People%26action%3Dedit%26redlink%3D1) by Sal D’Agostino
@@ -75,27 +82,12 @@ conversations about digital identity innovation were mostly treated as a develop
 
 The Center recently launched the [Institute for Rebooting Social Media](https://cyber.harvard.edu/programs/institute-rebooting-social-media) [...] In connection with this Institute and the [Berkman Klein Research Sprints](https://cyber.harvard.edu/story/2020-10/research-sprint-participants-explore-digital-transformation-time-crisis-focus), and through the Center’s ongoing work with the over 100 international [Network of Internet and Society Research Centers](http://networkofcenters.net/), the Center will support conversations about digital identity issues that will reach diverse and interdisciplinary communities of research and practice.
 
-### IIW
-
-* [@IDWorkshop (IIW) tweeting from the Flickr Archives](https://twitter.com/idworkshop/status/1471905005556822017?s%3D20)
-
-Check out these [photos from IIW 1 in 2005](https://www.flickr.com/photos/tags/iiw2005/page1/)
-
-(
-
-* [src](https://www.flickr.com/photos/chrisheuer/57584208/in/photolist-5YzQy-613Xi-5YztD-613UK-5YBEi-669qJ-6153X-63sGm-65uyW-63sKa-63sHi-63sJv-6682a-669uE-5YzVT-68VoW-6685y-668ju-68VjB-669om-65uHm-65UDr-668pr-6689z-68Vd9-65Urf-68V8M-6693d-68V51-668vo-68Vhj-6696s-669jG-669eG-668z5-65Uvh-668ZD-668K2-668Vm-668rU-669ah-668Mb-668QJ-65uDA-668FE-65uFG-65UGT-65Uza-65uC8-65uAq/)
-
-
-
 
 ## Nevermined
 * [7 Essential building blocks of decentralized digital ecosystems](https://medium.com/nevermined-io/what-decentralized-building-blocks-exist-to-build-your-digital-ecosystem-a2173550cc57) Nevermined
   > The original goal of Nevermined was to allow data sharing and privacy-preserving computation. During the development journey, the above building blocks emerged as design principles, but after speaking with various organizations, we realized these components are actually the foundations that allow us to solve more complex problems, not only based on classical data center problems.
 
 
-## Sovrin
-* [Compliance & Inclusive Finance Working Group (CIFWG)](https://medium.com/@sovrinid/promoting-banking-for-all-announcing-the-compliance-inclusive-finance-working-group-cifwg-340633ef3e6c) Sovrin
-  > Since 2019, Sovrin has hosted the Compliance and Payments Task Force (CPTF), an open group of traditional bank and non-bank financial institutions, regulators, policymakers, technologists, ethicists, and legal experts. The CPTF has developed and promoted the Rulebook, an innovative best practices framework that extends traditional banking compliance and payments guidance to emerging fintech and VASP processes.
 
 ## ID2020
 * [ID2020 Welcomes BLOK Solutions to the Alliance](https://medium.com/id2020/id2020-welcomes-blok-solutions-to-the-alliance-1c53e952930c)

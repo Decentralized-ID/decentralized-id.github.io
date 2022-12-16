@@ -7,9 +7,6 @@ published: false
 * [DIDs are not enough - we need an Authoriziation standard too](https://medium.com/energy-web-insights/api-access-security-for-dapps-cfcfa928623c) Energy Web
 
 If you are a developer and want to write a DApp [...] you probably are using API-Keys in your front-end. If this is the case, then you should consider the security risk the publication of the API-Key in your front end represents and ask yourself if it would make sense to switch to a user authentication scheme.
-
-
-## In general
 * [FYI: What makes a standard ‘world class’?](https://lists.w3.org/Archives/Public/public-credentials/2021Aug/0213.html) Michael Herman (Trusted Digital Web) (Saturday, 14 August)
   > - A world class standard should have well-defined objectives that respond to real needs in a timely manner.
   > - Its technical content should be complete and accurate.
@@ -50,33 +47,7 @@ Here’s my premise – we don’t have standards nor interoperability – at le
   > Purple - General crypto packaging/protocol standards
   > Orange - Application layer standards
 
-### Verifier Universal Interface
-* [Verifier Universal Interface by Gataca España S.L.](https://essif-lab.eu/verifier-universal-interface-by-gataca-espana-s-l/)
-  > This draft version can be found at [https://gataca-io.github.io/verifier-apis/](https://gataca-io.github.io/verifier-apis/) and has been built using ReSpec.
-  > This draft version for VUI includes today 6 APIs:
-  > 
-  > - Presentation Exchange
-  > - Consent Management
-  > - Schema resolution
-  > - Issuer resolution
-  > - ID resolution
-  > - Credential status resolution
 
-
-### WebAuthn
-
-* [W3C WebAuthn V2 Now a Standard](https://self-issued.info/?p%3D2160) Mike Jones
-  > While remaining compatible with the original standard, this second version adds additional features, among them for user verification enhancements, manageability, enterprise features, and an Apple attestation format. ([Recommendation](https://www.w3.org/TR/2021/REC-webauthn-2-20210408/)) ([CTAP also approaching standardization](https://self-issued.info/?p%3D2155).
-* [Web Authentication: An API for accessing Public Key Credentials Level 2](https://www.w3.org/TR/2021/PR-webauthn-2-20210225/). This specification defines an API enabling the creation and use of strong, attested, scoped, public key-based credentials by web applications, for the purpose of strongly authenticating users.
-* [Second Version of W3C Web Authentication (WebAuthn) advances to Proposed Recommendation (PR)](https://self-issued.info/?p%3D2149)
-  > The World Wide Web Consortium (W3C) has published this [Proposed Recommendation (PR)](https://www.w3.org/TR/2021/PR-webauthn-2-20210225/) Level 2 specification, bringing the second version of WebAuthn one step closer to becoming a completed standard. While remaining compatible with the original standard, this second version adds additional features, among them for user verification enhancements, manageability, enterprise features, and an Apple attestation format.
-* [Near-Final Second W3C WebAuthn and FIDO2 CTAP Specifications](https://self-issued.info/?p=2143)
-  > The [W3C WebAuthn](https://www.w3.org/blog/webauthn/) and [FIDO2](https://fidoalliance.org/fido2/) working groups have been busy this year preparing to finish second versions of the W3C Web Authentication (WebAuthn) and FIDO2 Client to Authenticator Protocol (CTAP) specifications
-
-### KMIP
-
-* [OASIS releases KMIP 2.1](https://www.oasis-open.org/2020/12/18/key-management-interoperability-protocol-specification-and-key-management-interoperability-protocol-profiles-oasis-standards-published/)
-  > The Key Management Interoperability Protocol (KMIP) is a single, comprehensive protocol for communication between clients that request any of a wide range of encryption keys and servers that store and manage those keys. By replacing redundant, incompatible key management protocols, KMIP provides better data security while at the same time reducing expenditures on multiple products.
 
 ### OMG
 * [OMG ISSUES RFI FOR DISPOSABLE SELF-SOVEREIGN IDENTITY STANDARD](https://www.omg.org/news/releases/pr2021/01-21-21.htm)
@@ -102,46 +73,13 @@ A [public presentation on the Disposable Self-sovereign Identity RFI](https://ww
 
 Schema.org was founded on the idea of making it easier and simpler for the ordinary, everyday sites that make up the web to use machine-readable data, and for that data to enable an ecosystem of applications used by millions of people. While it's hard to predict exactly what the next decade will bring, if we can all keep these founding concerns in mind as we improve, refine and curate our growing collection of schemas, we'll be doing our part to continue improving the web.
 
-## Identiverse
-* [Reflections from Identiverse: Identity Security Threats & Trends](https://www.secureauth.com/blog/reflections-from-identiverse-identity-security-threats-and-trends/) SecureAuth
-  > talks like [“Simplify Your Least-Privilege Journey with Access Analysis”](https://identiverse.com/idv2021/session/SESCI5F77RW8COIGZ/) and [“Managing and governing workload identities”](https://identiverse.com/idv2021/session/SESTZ5WNB1OMKD9EV/) definitively provide greater insight. [...] UberEther showed in [“User Behavior Analytics: Marrying Identity and the SOC Like Peanut Butter and Jelly”](https://pheedloop.com/identiverse2021/virtual/?page%3Dsessions%26section%3DSESKWZML7NBJX42P3) how UBA (User Behavior Analytics) and UEBA (User Events Behavior Analysis) deliver additional value to help avoid threats in real-time and provide visibility to analysts.
 
-## Oasis
-* [Managed Open Projects: A New Way For Open Source and Open Standards To Collaborate](https://www.oasis-open.org/2021/09/08/managed-open-projects/)
-
-I recently pointed out in a [TechCrunch contribution](https://techcrunch.com/2021/06/09/a-revival-at-the-intersection-of-open-source-and-open-standards/) that the open source and open standards communities need to find ways to team up if they are to continue driving innovation and  development of transformative technologies to push our society forward.
 
 ## JSON
 
 * [JSON is Robot Barf](https://www.windley.com/archives/2021/09/json_is_robot_barf.shtml) Windley
 
 JSON has its place. But I think we're overusing it in places where a good notation would serve us better.
-
-## ISO 27001
-* [WAYF certificeret efter ISO 27001](https://www.wayf.dk/en/node/317)
-
-WAYF has now been certified according to the standard for information security ISO 27001. This is the result of the audit that DNV conducted at WAYF on 23 September 2021. Language Danish Read more about WAYF certified according to ISO 27001
-* [What Is ISO 27001:2013? A Guide for Businesses](https://auth0.com/blog/what-is-iso-27001-2013-a-guide-for-businesses/)
-  > ISO 27001 is also the cornerstone of a growing international consensus about data security best practices. Australia based its federal Digital Security Policy on ISO 27001. Likewise, ISO 27001 can provide guidance on how to meet the standards of other data privacy laws, such as the GDPR, which often direct companies to it as an example of universal best practices. So if you abide by ISO 27001’s recommendations, you’re on the right track for legal compliance, not to mention improved data security.
-
-## OpenBadges
-
-* [Open Recognition is for every type of learning](https://blog.weareopen.coop/open-recognition-is-for-every-type-of-learning-ffd137a6fe17) From cold hard credentialing to warm fuzzy recognition
-
-we want to explain what we talk about when we talk about Open Recognition. It builds on this [previous post](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629), and aims to move from the abstract to practicalities.
-* [Keep Badges Weird is about breaking boundaries: How the KBW community is convening systems](https://blog.weareopen.coop/keep-badges-weird-is-about-breaking-boundaries-42afb0415826) WeAreOpenCoop
-
-KBW helps people understand the badge landscape. The community is there to provide solidarity for badge champions and newbies. We do not assume prior knowledge of Open Badges or Verifiable Credentials. We recognise and celebrate those who can share their experience. Anyone interested in badges or integrating [Open Recognition](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629) are welcome to join.
-* [Keep Badges Weird…](https://blog.weareopen.coop/keep-badges-weird-e26a1b055ff5) at the Badge Summit
-  > We have a new suite of badges to encourage participation, create value for others, and reflect on that experience. Participants will be able to both earn AND award badges, so they’ll have a chance to prove that they’ve understood the theory surrounding CoPs and badges as well as put those theories into practice.
-* [Discover Open Badges 3.0!](https://app.participate.com/communities/keep-badges-weird/62003f3f-a7ba-4f6a-990a-64d6f893016d/announcements/0bc15852-0f91-48c8-a7ca-478b246b553c) Keep Badges Weird
-  > 1. Check out the (accepted) [Open Badges 3.0 proposal](https://github.com/IMSGlobal/openbadges-specification/files/6977048/Proposal-Open-Badges-3.0-update-08-11-2021.pdf)​
-  > 2. ​[Watch a video](https://www.youtube.com/watch?v%3DQDGPwR1F3FY%26t%3D1357s) from the ePIC conference giving an overview of what Open Badges 3.0 will enable (or view the [slide deck](https://docs.google.com/presentation/d/1NEJoQaI9b6KC1EFDDhR3MGybGVoa0R3bQh0xuKtUKkY)
-  > 3. Discuss what this means for you, your organisation, or your community in [this thread](https://app.participate.com/discussions/open-badges-3-0/68917656-db8f-4932-88fd-153fdb54e285)​
-* [Reflecting on the Evolving Badges and Credentials Ecosystem](https://blog.weareopen.coop/reflecting-on-the-evolving-badges-and-credentials-ecosystem-6efac4d673d3)
-  > Recently, the WAO team took the opportunity to update the badge platforms page on Badge Wiki, a knowledgebase for the Open Badge community. As the ecosystem continues to evolve we’re seeing some early platforms fall by the wayside and new platforms emerge.
-* [What is Open Recognition, anyway?](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629) Going beyond credentialing and the formal/informal divide
-  > Badges as credentials includes approaches that are well understood and largely replace or augment existing certification practices. Badges for recognition, however, include approaches that remain somewhat confusing to many people.
 
 ## Blockcerts
 
@@ -161,15 +99,6 @@ KBW helps people understand the badge landscape. The community is there to provi
 * [XSL Labs: Your Data Belongs to You](https://www.xsl-labs.io/whitepaper/white_paper_en.pdf)
 
 The SDI technology constitutes a very important example of decentralized counter-power to the web giants. The SDI maintains to keep the practicality of a unique identifier while guaranteeing the security of the data and the user's sovereignty over it
-
-### CCI
-* [Use Case Implementation Workstream](https://covidcreds.groups.io/g/usecaseCCI) [usecaseCCI@covidcreds.groups.io](mailto:usecaseCCI@covidcreds.groups.io)
-
-This is the Use Case Implementation Workstream of the [COVID Credentials Initiative (CCI)](https://www.covidcreds.com/). This workstream identifies privacy-preserving verifiable credentials (VCs) that are most useful to the COVID-19 response and provides a forum and platform for those who are implementing COVID VCs to present their projects/solutions.
-
-### VON\ION
-* [@csuwildcat](https://twitter.com/csuwildcat) shares
-  > As of Friday, we believe v1 of ION is functionally code complete, and the Sidetree Working Group at DIF (@DecentralizedID) should have a v1 spec candidate ready for the underlying protocol by Jan 21st. Public v1 launch of the ION network on Bitcoin mainnet is just weeks away.
 
 
 ## Oberon protocol
@@ -197,11 +126,6 @@ Family of standards related to timestamping
 - [Nat has a presentation](https://nat.sakimura.org/2021/09/14/announcing-gain/)
 - There is a [linked in Group](https://www.linkedin.com/groups/12559000/)
 
-### OASIS
-* [Secure QR Code Authentication v1.0 from ESAT TC approved as a Committee Specification](https://www.oasis-open.org/2022/07/12/secure-qr-code-authentication-v1-0-from-esat-tc-approved-as-a-committee-specification/)
-
-An alternative to passwords that includes QR Codes is described, and typical use cases are described. This document also provides an overview and context for using QR Codes for security purposes.
-
 ## JWP
 
 * [JSON Web Proofs BoF at IETF 114 in Philadelphia](https://self-issued.info/?p%3D2286)
@@ -214,8 +138,6 @@ An alternative to passwords that includes QR Codes is described, and typical use
 ### ONDC
 * [ONDC: An Open Network for Ecommerce](https://www.windley.com/archives/2022/08/ondc_an_open_network_for_ecommerce.shtml) Phil Windley
 * [Open Network for Digital Commerce](https://en.wikipedia.org/wiki/Open_Network_for_Digital_Commerce) is a non-profit established by the Indian government to develop open ecommerce. The goal is to end platform monopolies in ecommerce using an open protocol called [Beckn](https://developers.becknprotocol.io/). I'd never heard of Beckn before. From the reaction on the VRM mailing list, not many there had either.
-
-## JWT
 
 
 

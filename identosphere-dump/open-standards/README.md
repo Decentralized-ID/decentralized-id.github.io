@@ -1,5 +1,6 @@
 # Web Standards
 
+## List
 - aggregate well-known-did-1-of-a 1 of a (intermediate)
 - aggregate did-spec-registries-1-of-a Signature Implementations 1 of many (intermediate)
 - aggregate did-spec-registries-1-of-b did-method 1 of many (intermediate)
@@ -7,7 +8,7 @@
 - MATTR bbs-signatures-spec [BBS+ Signature Scheme](https://mattrglobal.github.io/bbs-signatures-spec) (core)
   - rdf-dataset-normalization [RDF Dataset Normalization](https://json-ld.github.io/normalization/spec) (non-core)
 
-## W3C
+### W3C
 
 Decentralized Identifier ✓
 - Explainer ✓
@@ -56,6 +57,7 @@ JSON-LD
 - [W3C] ldp-bbs2020 [BBS+ Signatures 2020](https://w3c-ccg.github.io/ldp-bbs2020) (core)
 - [W3C] ld-proofs [Linked Data Proofs](https://w3c-ccg.github.io/ld-proofs) (core)
 - [W3C] ld-cryptosuite-registry [Linked Data Cryptographic Suite Registry](https://w3c-ccg.github.io/ld-cryptosuite-registry) (core)
+
 
 ### Data Privacy Vocab
 * [https://kantarainitiative.org/confluence/collector/pages.action?key=WA&src=sidebar-pages](https://kantarainitiative.org/confluence/collector/pages.action?key%3DWA%26src%3Dsidebar-pages)

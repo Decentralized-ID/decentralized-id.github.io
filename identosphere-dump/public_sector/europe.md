@@ -480,3 +480,16 @@ On March 24th, 2022, [the European Parliament and Council reached an agreement o
 * [the-time-for-the-eidas-bridge​](http://validatedid.com/post-en/the-time-for-the-eidas-bridge) ValidatedID
   > There’s an outstanding question, for us, around how this community explores and thinks about the theoretical underpinnings of a Community of Practice (CoP), but one thing is for sure, Keep Badges Weird is a CoP.
 
+### Verifier Universal Interface
+* [Verifier Universal Interface by Gataca España S.L.](https://essif-lab.eu/verifier-universal-interface-by-gataca-espana-s-l/)
+  > This draft version can be found at [https://gataca-io.github.io/verifier-apis/](https://gataca-io.github.io/verifier-apis/) and has been built using ReSpec.
+  > This draft version for VUI includes today 6 APIs:
+  > 
+  > - Presentation Exchange
+  > - Consent Management
+  > - Schema resolution
+  > - Issuer resolution
+  > - ID resolution
+  > - Credential status resolution
+
+

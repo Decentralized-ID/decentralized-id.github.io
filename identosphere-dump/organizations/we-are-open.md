@@ -48,6 +48,24 @@ As one system begins to deteriorate, a new system begins to emerge. This got us 
 * [Creating a culture of recognition](https://blog.weareopen.coop/creating-a-culture-of-recognition-39ffdb6cf943) We Are Open co-op
 
 Too often, though, these badges focus on credentialing rather than recognition. Open Recognition is the awareness and appreciation of talents, skills and aspirations in ways that go beyond
+## OpenBadges
+
+* [Open Recognition is for every type of learning](https://blog.weareopen.coop/open-recognition-is-for-every-type-of-learning-ffd137a6fe17) From cold hard credentialing to warm fuzzy recognition
+
+we want to explain what we talk about when we talk about Open Recognition. It builds on this [previous post](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629), and aims to move from the abstract to practicalities.
+* [Keep Badges Weird is about breaking boundaries: How the KBW community is convening systems](https://blog.weareopen.coop/keep-badges-weird-is-about-breaking-boundaries-42afb0415826) WeAreOpenCoop
+
+KBW helps people understand the badge landscape. The community is there to provide solidarity for badge champions and newbies. We do not assume prior knowledge of Open Badges or Verifiable Credentials. We recognise and celebrate those who can share their experience. Anyone interested in badges or integrating [Open Recognition](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629) are welcome to join.
+* [Keep Badges Weird…](https://blog.weareopen.coop/keep-badges-weird-e26a1b055ff5) at the Badge Summit
+  > We have a new suite of badges to encourage participation, create value for others, and reflect on that experience. Participants will be able to both earn AND award badges, so they’ll have a chance to prove that they’ve understood the theory surrounding CoPs and badges as well as put those theories into practice.
+* [Discover Open Badges 3.0!](https://app.participate.com/communities/keep-badges-weird/62003f3f-a7ba-4f6a-990a-64d6f893016d/announcements/0bc15852-0f91-48c8-a7ca-478b246b553c) Keep Badges Weird
+  > 1. Check out the (accepted) [Open Badges 3.0 proposal](https://github.com/IMSGlobal/openbadges-specification/files/6977048/Proposal-Open-Badges-3.0-update-08-11-2021.pdf)​
+  > 2. ​[Watch a video](https://www.youtube.com/watch?v%3DQDGPwR1F3FY%26t%3D1357s) from the ePIC conference giving an overview of what Open Badges 3.0 will enable (or view the [slide deck](https://docs.google.com/presentation/d/1NEJoQaI9b6KC1EFDDhR3MGybGVoa0R3bQh0xuKtUKkY)
+  > 3. Discuss what this means for you, your organisation, or your community in [this thread](https://app.participate.com/discussions/open-badges-3-0/68917656-db8f-4932-88fd-153fdb54e285)​
+* [Reflecting on the Evolving Badges and Credentials Ecosystem](https://blog.weareopen.coop/reflecting-on-the-evolving-badges-and-credentials-ecosystem-6efac4d673d3)
+  > Recently, the WAO team took the opportunity to update the badge platforms page on Badge Wiki, a knowledgebase for the Open Badge community. As the ecosystem continues to evolve we’re seeing some early platforms fall by the wayside and new platforms emerge.
+* [What is Open Recognition, anyway?](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629) Going beyond credentialing and the formal/informal divide
+  > Badges as credentials includes approaches that are well understood and largely replace or augment existing certification practices. Badges for recognition, however, include approaches that remain somewhat confusing to many people.
 
 * [How badges can change the world: Part 2: Why we need to transition](https://blog.weareopen.coop/how-badges-can-change-the-world-65395581f90c)
 

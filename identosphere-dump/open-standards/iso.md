@@ -7,6 +7,12 @@
 
 ## links
 
+* [WAYF certificeret efter ISO 27001](https://www.wayf.dk/en/node/317)
+
+WAYF has now been certified according to the standard for information security ISO 27001. This is the result of the audit that DNV conducted at WAYF on 23 September 2021. Language Danish Read more about WAYF certified according to ISO 27001
+* [What Is ISO 27001:2013? A Guide for Businesses](https://auth0.com/blog/what-is-iso-27001-2013-a-guide-for-businesses/)
+  > ISO 27001 is also the cornerstone of a growing international consensus about data security best practices. Australia based its federal Digital Security Policy on ISO 27001. Likewise, ISO 27001 can provide guidance on how to meet the standards of other data privacy laws, such as the GDPR, which often direct companies to it as an example of universal best practices. So if you abide by ISO 27001’s recommendations, you’re on the right track for legal compliance, not to mention improved data security.
+
 * [ISO/IEC 18013-5 vs Self-Sovereign Identity: A proposal for an mDL Verifiable Credential](https://www.procivis.ch/post/iso-iec-18013-5-vs-self-sovereign-identity-a-proposal-for-an-mdl-verifiable-credential) Procivis
 
 in the context of government identity programs we see it as useful to compare them on the following parameters – background, credential data model & trust anchor and transmission protocols.
