@@ -109,15 +109,6 @@ Let's imagine a country that has a modern digital identity infrastructure. Citiz
 
 Trinsic is partnering with companies building ID products for underserved populations. Through Identity for Good (ID4G), participating partners will receive access to Trinsic’s state-of-the-art infrastructure, enabling them to build their ID products quickly, safely, and compliantly
 
-* [Catalysing the KBW community](https://blog.weareopen.coop/catalysing-the-kbw-community-fa89db943418) WeAreOpenCoop
-
-This post shows how being intentional about community building can help people feel welcome, safe, and able to contribute. It explores three ways in which [WAO](https://weareopen.coop/) has collaborated with [Participate](https://participate.com/) to do this
-
-Working Group of the Week
-
-* [Human Experience Working Group](https://wiki.trustoverip.org/display/HOME/Human%2BExperience%2BWorking%2BGroup) TOIP
-
-The purpose of the HXWG is to examine the design features of digital systems, their governance and the business processes that support them, which make interactions or actors trustable, in the contextual and subjective experience of those using them.
 
 * [NO NEED FOR SUPERHUMANS!: A practical guide to ethics in socio-technical systems design](https://trustoverip.org/blog/2022/03/18/no-need-for-superhumans/) TOIP
 
@@ -190,8 +181,6 @@ When forced to flee your home from one moment to the next, grabbing birth certif
 * [Radical generosity](https://provocations.darkmatterlabs.org/radical-generosity-8063d9edc3aa) Out of the Box from Dark Matter
 
 Could we establish an alternative market economy, one that is structured around a distinct set of principles centred on care, trust, generosity, the importance of collective intelligence and deep sets of relationships; what would fall away and what would remain in place?
-
-* [Creating a culture of recognition](https://blog.weareopen.coop/creating-a-culture-of-recognition-39ffdb6cf943)
 
 * [Pro-social behaviours](https://en.wikipedia.org/wiki/Prosocial_behavior) are those intended to benefit others, or society as a whole — for example, helping, sharing, donating, co-operating, and volunteering. Within a community, they’re the behaviours that make it an attractive space to belong to, and which encourage its growth and/or development. It’s a central part of the value cycles that underpin the Communities of Practice model.
 

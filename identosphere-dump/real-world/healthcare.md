@@ -30,9 +30,6 @@ The hackathon held by INTEROPen, a leading organization to support & accelerate 
 
 By integrating with Dock and utilizing verifiable credentials, the process of verifying a workers qualifications goes from analysing paper-based certificates and calling each educational body to certify the legitimacy of it, to having the accreditations sitting in a tamper-proof digital wallet, with a digital signature signature from the issuing body certifying the legitimacy.
 
-* [Verifiable Credential Solution to Health Data Sharing](https://indicio.tech/the-verifiable-credential-solution-to-health-data-sharing/) Indicio
-
-In proving that tamper-proof health data could be issued to travelers by their health providers and be verified by airlines and other countries without having to check back in with the health provider, Cardea has laid the foundation for something much bigger than Covid testing. Verifiable credential technology provides a way for all kinds of health data to be shared in a privacy-preserving and security-enhanced way.
 * [Technical Design and Development of a Self-Sovereign Identity Management Platform for Patient-Centric Healthcare Using Blockchain Technology](https://www.blockchainhealthcaretoday.com/index.php/journal/article/view/196)
 * [Case study: Gravity digital ID solution enables vulnerable migrants in Kenya to receive consistent healthcare services](https://medium.com/gravity-earth/case-study-gravity-digital-id-solution-enables-vulnerable-migrants-in-kenya-to-receive-consistent-713a78f9e0d8) Shiyao Zhang
 
@@ -63,9 +60,6 @@ Shaw adds: “The vital point to make is this: innovations in health technology 
   > - What digital health passes mean for the adoption of SSI
   > - Applying the four principles of healthcare ethics to verifiable credential technology
   > - The top use cases for healthcare, including “staff passports” and portable health records
-* [Cardea Project Video](https://www.youtube.com/watch?v%3DocomqbTb5ZY%26list%3DPL3LvHy3eIPslC7YhQGXKPN4LvS3ekqfqE)
-
-There are five agents main agents in the cardia ecosystem. The health enterprise agent, which is a cloud agent that allows for a health organization a hospital lab clinic pharmacy. Whoever is going to be issuing the credentials to participate in hie would be a a government health organization all of those would be represented by a health enterprise agent issuing credentials there's a government agent that's represented in the ecosystem right now that verifies credentials presented to it and then issues trusted travelers a mobile verifier agent
 
 * [Solving Identity Challenges at the Intersection of Education and Healthcare](https://iiw.idcommons.net/21C/_Solving_Identity_Challenges_at_the_Intersection_of_Education_and_Healthcare) by Kimberly Linson
 

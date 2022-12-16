@@ -60,9 +60,6 @@ Digital innovation has been front and centre in Higher Education since the pande
 * [Blockchain, Self-Sovereign Identity and Digital Credentials: Promise Versus Praxis in Education](https://www.frontiersin.org/articles/10.3389/fbloc.2021.616779/full) Alex Grech, Ira Sood and Lluís Ariño
 
 Although the blockchain has long been identified as an opportunity for driving much-needed change in the core processes of the education sector, use cases to date have been limited in scope and execution, with blockchain advocates and education policy makers seemingly disconnected on fundamental issues such as governance, self-sovereignty, interoperability, choice of blockchain platforms and overall trust in standards and the integrity of the infrastructure.
-* [Transforming Scottish Education for the 21st Century](https://digitalscot.net/transforming-scottish-education/) Digital Scot
-
-This of course is the backbone of the education system, how grades are assessed and rewarded, and it is here therefore where the biggest levers for change are possible, and in this article we’ll explain the role new technologies can play in underpinning and enabling such a transformation.
 
 
 * [Blockchain and the future of education](https://wellthatsinteresting.tech/blockchain-and-the-future-of-education/) Well That’s Interesting

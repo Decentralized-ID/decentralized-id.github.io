@@ -8,9 +8,15 @@
 - Content Authenticity Initative (30M Adobe customers)
 - Digital Permanent Resident Cards (14M people)
 * [IIW verifiable credentials - Decentralized VC integration with Eventbrite and Qiqo chat. This session will review the implementation process, lessons learned, and community discussion on related use cases.](https://iiw.idcommons.net/11A/_IIW_verifiable_credentials_-_Decentralized_VC_integration_with_Eventbrite_and_Qiqo_chat._This_session_will_review_the_implementation_process,_lessons_learned,_and_community_discussion_on_related_use_cases.) by Mike Vesey, Karl Kneis
+## Real World
+
+* [NHS Staffpassport; Based on Evernym Verity built by Sitekit/Condatis; A 12 month experience](https://iiw.idcommons.net/22C/_NHS_Staffpassport;_Based_on_Evernym_Verity_built_by_Sitekit/Condatis;_A_12_month_experience) by Chris Eckl, Richard Astley
+  > The NHS Staff passport system was created to allow NHS employees to be redeployed between different organisations to meet urgent demand and remove the onboarding challenges when staff onboard with new organisations.
+* [Condatis IIW32 NHS Digital Staffpassport Learnings (slideshare.net)](https://www.slideshare.net/secret/JGSugec83U6ouP)
+* [Building an SSI Ecosystem: Digital Staff Passports at the NHS](https://www.windley.com/archives/2021/05/building_an_ssi_ecosystem_digital_staff_passports_at_the_nhs.shtml) Windley
+  > How does a functioning credential ecosystem get started? This post goes deep on Manny Nijjar’s work to create a program for using digital staff passports in the sprawling UK NHS bureaucracy.
 
 
-* [Transforming Scottish Education on the Blockchain](https://digitalscot.net/education-blockchain/) DigitalScot
 
 https://unece.org/trade/uncefact/guidance-material
 

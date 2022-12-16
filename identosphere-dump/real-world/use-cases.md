@@ -65,9 +65,6 @@ published: false
 * [Decentralizing and Securing Collectible Card Grading Services with the Mattereum Protocol](https://medium.com/humanizing-the-singularity/decentralizing-and-securing-collectible-card-grading-services-with-the-mattereum-protocol-ead040351c2)
   > Avoid costly industry deadlocks and gatekeeping with a peer-produced, decentralized alternative to centralized collectible grading and authentication services with the Mattereum Protocol
 
-## Customer-to-Business Data Sharing \ Smart City
-* [An SSI Based System for Incentivized and Self-determined Customer-to-Business Data Sharing in a Local Economy Context](https://idunion.org/2021/05/21/an-ssi-based-system-for-incentivized-and-self-determined-customer-to-business-data-sharing-in-a-local-economy-context/) IdUnion ([paper](https://idunion.org/wp-content/uploads/2021/05/ETEMS_2020___Self_Sovereign_Identitiy_in_a_Smart_City___Full_Paper7.pdf)
-  > Self Sovereign Identity (SSI) provides the technical building blocks to create decentralized data-driven systems, which bring data autonomy back to the users. In this paper we propose a system in which the combination of SSI and token economy based incentivisation strategies makes it possible to unlock the potential value of data-pools without compromising the data autonomy of the users.
 
 ## Off-chain \ Edge-chain
 * [Identity Blockchains and Energy Consumption](https://indicio.tech/identity-blockchains-and-energy-consumption/) Indicio
@@ -94,10 +91,6 @@ published: false
 * [Bonifii increases financial inclusion with GlobaliD digital wallet and Indicio Network](https://bonifii.com/2021/10/bonifii-increases-financial-inclusion-with-globalid-digital-wallet-and-indicio-network/)
 
 CULedger is now [Bonifii](https://bonifii.com/)! Delivering a trusted peer-to-peer services network of verifiable exchange for financial cooperatives.
-* [Building the Social Graph Infrastructure for Web3.0](https://blog.ceramic.network/building-the-social-graph-infrastructure-for-web3-0/): How CyberConnect is using Ceramic to connect everyone in Web3.0
-
-At the heart of CyberConnect is a tamper-proof data structure that efficiently facilitates the creation, update, query and verification of user-centric data. Long-term data retention on CyberConnect is guaranteed through Ceramic’s blockchain anchoring and a custom data pinning service.
-
 
 * [Building a digital trust ecosystem for mining in British Columbia](https://www.ibm.com/blogs/blockchain/2021/11/building-a-digital-trust-ecosystem-for-mining-in-british-columbia/) IBM
 
@@ -538,19 +531,6 @@ Great report!
 
 Digital badges or PDF credentials lack proof of being authentic and current, and can be easily reproduced or falsified, impacting both the individual and the reputation of the training provider.
 
-* [How badges can change the world](https://blog.weareopen.coop/how-badges-can-change-the-world-73529560caa3) WeareOpen
-
-* [This model](https://www.youtube.com/watch?v%3DZcyHKKc2LVg) […] shows how systems have a lifespan and what happens as that lifespan peaks.
-
-As one system begins to deteriorate, a new system begins to emerge. This got us thinking about how this model applies to the world of [Open Recognition](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629).
-
-
-
-
-
-* [How badges can change the world: Part 2: Why we need to transition](https://blog.weareopen.coop/how-badges-can-change-the-world-65395581f90c)
-
-In [Part 1: The Two Loops Model for Open Recognition advocacy](https://blog.weareopen.coop/how-badges-can-change-the-world-73529560caa3), we talked about how as one system begins to deteriorate, an alternative begins to emerge. We know the alternative system, one that integrates credentials with other forms of recognition, is better for everyone. Without that integration, cold-hard credentialing supports outdated power dynamics.
 * [Transferable Accounts Putting Passengers at Risk](https://www.windley.com/archives/2022/06/transferable_accounts_putting_passengers_at_risk.shtml) Phil Windley
 
 The non-transferability of verifiable credential is one of their super powers. This post examines how that super power can be used to reduce fraud and increase safety in a hired car platform.
@@ -617,10 +597,6 @@ At Energy Web we believe self-sovereign identity (SSI) will become a fundamental
 * [War Against the Robots – Pick your Side with SelfKey & Metaproof Platform](https://selfkey.org/war-against-the-robots-pick-your-side-with-selfkey-metaproof-platform/) SelfKey Foundation
 
 Trying to ban or sideline bots is not a solution. The solution is to distinguish bots from humans so that humans can do human stuff and bots can do bot stuff.
-
-* [Creating a culture of recognition](https://blog.weareopen.coop/creating-a-culture-of-recognition-39ffdb6cf943) We Are Open co-op
-
-Too often, though, these badges focus on credentialing rather than recognition. Open Recognition is the awareness and appreciation of talents, skills and aspirations in ways that go beyond
 
 
 * [OpenEarth partners with BCGov to develop a digital trust marketplace for climate accounting](https://www.openearth.org/blog/openearth-partners-with-the-government-of-british-columbia-to-develop-a-digital-trust-marketplace-for-climate-accounting) OpenEarth Foundation

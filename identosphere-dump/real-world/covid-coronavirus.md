@@ -53,7 +53,17 @@ You can view the latest Vaccination Certificate test suite report here:
 
 
 # Covid
+
+* [The Digital Health Credential System Implementation Guide](https://cci-2020.medium.com/the-implementation-guide-v1-is-out-f958e1fd69b0) Covid Credentials Initiative ([PDF](https://drive.google.com/file/d/1eSrFxFldD6TBkfmOFTXBkBu2TYf3qFv2/view)
+
+The Implementation Guide V1 provides a set of baseline recommendations to the CCI community of application and services developers, implementers with which to evaluate product designs. The requirements mentioned in this guide should be read along side (and not as a substitute to) the regulations applicable to the jurisdiction in which the applications and services will be made available
+
+
+
 * [I Want COVID-19 Certificates but I don't want a DID](https://www.youtube.com/watch?v=yqSr0xKcG18) David Chadwick
+
+* [Digital Identity in response to COVID-19: DGX Digital Identity Working Group](https://www.tech.gov.sg/files/media/corporate-publications/FY2021/dgx_2021_digital_identity_in_response_to_covid-19.pdf)
+
 - [How COVID-19 is driving innovation in digital identity](https://www.turing.ac.uk/blog/how-covid-19-driving-innovation-digital-identity)
 * [Covid-19 spurs national plans to give citizens digital identities](https://webcache.googleusercontent.com/search?q=cache:KsfPtESFkP4J:https://www.economist.com/international/2020/12/07/covid-19-spurs-national-plans-to-give-citizens-digital-identities)
   > The MOSIP project, which got going in March 2018, is nested in Bangalore’s International Institute of Information Technology (IIIT-B) and endowed with funding of $16m from the Omidyar Network, the Bill and Melinda Gates Foundation and Tata Trusts.
@@ -230,9 +240,6 @@ After all this is personal health information and therefore should be treated as
 What problem are we really trying to solve with a Covid Vaccine Passport, Covid Passport, ‘Covid’ credential, digital green certificate, or any other named health pass solution?
 
 To do this there needs to be a basic understanding of this infectious disease, what tools we have currently to deal with it and address assumptions that have been made, many of which may change or are yet unknown such is the dynamic nature of a pandemic.
-* [From Closed Loop Systems to Open World COVID Credentials Exchange](https://www.lfph.io/wp-content/uploads/2021/04/CCI-Summit-Summary-Report-From-Closed-to-Open.pdf) CCI Report
-
-This summit, convened by CCI, was designed to beginarticulating a roadmap to get from closed loop systems to an open systemwhere it doesn’t matter if issuers, holders and verifiers are using the tool provided by the same solution provider as long as all solution providers are building on a certain common ground.The discussion focused on domestic reopening use cases using the US as the context.
 * [Why Digital Health Passes are the smart and responsible way forward - Blockchain Pulse](https://www.ibm.com/blogs/blockchain/2021/05/why-digital-health-passes-are-the-smart-and-responsible-way-forward/)
   > Moving forward, as other states start to roll out their own [Health Pass solutions](https://www.ibm.com/products/digital-health-pass), it will be crucial to ensure interoperability between platforms. The emphasis on interoperability will allow other states Immunization Information Systems (ISS) to seamlessly connect with Excelsior Pass or any other digital health pass. We envision a future that will include multiple Health Pass solutions, giving organizations and consumers the ability to choose which to utilize.
 * [Moving forward with Digital Health Passes](https://www.ibm.com/blogs/blockchain/2021/05/why-digital-health-passes-are-the-smart-and-responsible-way-forward/)
@@ -270,7 +277,6 @@ Already today, credentials are being used in a wide variety of applications, suc
   > The Blueprint — released today in draft form for a three-week period of stakeholder consultations and public comment — is intended to stimulate discussion at the G7 Summit, which will open Friday in Carbis Bay, Cornwall, UK.
 For a high level view, check out the [terminology deck](https://docs.google.com/presentation/d/1fM-EpIdLGdKniFjHR4ZhdgFA-HBSEmpMai8ljqti4Gw/edit) or the [slide deck](https://docs.google.com/presentation/d/1AibzpUh70UDJVapC2wlICz2voBAMxZLQ_jQOxZwF57Y/edit) that was shared on webinars with the travel industry.
 
-* [Introducing the Global COVID Certificate Network (GCCN)](https://www.lfph.io/2021/06/08/gccn/)
 
 we are proud to [launch the Global COVID Certificate Network (GCCN)](https://www.prnewswire.com/news-releases/linux-foundation-public-health-creates-the-global-covid-certificate-network-gccn-301307874.html), an initiative to enable interoperable and trustworthy verification of COVID certificates between jurisdictions for safe border reopening. GCCN will include a global directory of trust registries to enable cross-border certificate verification, and be a home for toolkits and community-managed support for those building and managing COVID certificate systems.
 
@@ -282,13 +288,11 @@ Paul Knowles, Head of the Advisory Council at the Human Colossus Foundation, co-
 
 Apple Announces Support for [VCI](https://vci.org/) credentials at WWDC (Almost proper [JSON-JWT](https://github.com/smart-on-fhir/health-cards/issues/119) but not quite)
 
-* [Implementing the Good Health Pass’s recommendations with Cardea](https://indicio.tech/blog/implementing-the-good-health-passs-recommendations-with-cardea/)
-
-Cardea, a full, open-source ecosystem for verifiable health credentials developed by Indicio and now a community-led project at LFPH, meets the major recommendations of the Good Health Pass and facilitates the goals of the Global COVID Certificate Network.
 * [Covid-19 Vaccination Passes Could Cataylze Self-Sovereign Identity Adoption](https://hackernoon.com/covid-19-vaccination-passes-could-cataylze-self-sovereign-identity-adoption-6x3m3563)
 
 The EU previously announced fully vaccinated Americans could travel this summer and regional EU travellers could potentially use an [EU Digital COVID Certificate](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en?ref%3Dhackernoon.com%23how-will-the-certificate-work) as early as July 1.
-Good Health Pass Blueprint and the Global Covid Credentials Initiative by LFPH presented at the [DIF Interop Working Group](https://us02web.zoom.us/rec/play/Si6s-_rvMU7FuHW6QnJVxW47CFiotXDMWutkWMgePKdSWVhTYyADaldJhvzqOl1JPP297-lvSYXCDuk2.rMFee21Ba1fU6y2R?continueMode%3Dtrue%26_x_zm_rtaid%3DdQ0WNpJPS2WF1QUlmxYwBQ.1624241159436.7617ddee4319249d32a108bb882dc0ec%26_x_zm_rhtaid%3D623)
+
+
 * [Women and platform livelihoods in Kenya: The impact of COVID-19](https://medium.com/caribou-digital/women-and-platform-livelihoods-in-kenya-the-impact-of-covid-19-954d6b073997)
 
 We are starting a new research project — and we’d like you to join us on the journey. Over the course of 2021, Qhala and Caribou Digital, with the support of the Mastercard Foundation, will work to understand the impact of COVID-19 on young women’s experiences working or selling through online platforms in Kenya.
@@ -349,7 +353,7 @@ The advantage of a paper and ID card presentation ritual is that it is difficult
 
 * [COVID & Travel Resources for Phocuswright](https://identitywoman.net/covid-travel-resources-for-phocuswright/) IdentityWoman.net
 
-As more and more governments adopt [major COVID certificate standards](https://www.lfph.io/2021/10/12/global-covid-certificate-landscape/) to reopen borders, the travel industry is working hard to catch up on their technology to meet the evolving travel requirements. However, there is still no shortage of complaints from travelers about their cumbersome international travel experiences.
+
 
 * [Digital identity is critical in the new world since covid](https://digitalidentity.nz/2021/11/17/digital-identity-is-critical-in-the-new-world-since-covid/) DigitalID NZ
 
@@ -363,9 +367,8 @@ As more and more governments adopt [major COVID certificate standards](https://w
 
 This article discusses areas of law that are developing rapidly [...] our goal is to address some of the legal considerations that health certificates raise with respect to, and in the context of, the development of a comprehensive system of digital identity management.
 
-* [Understanding the Global COVID Certificate Landscape](https://www.lfph.io/2021/10/13/divoc/) DIVOC
 
-The DIVOC project is hosted and maintained by [India’s eGov Foundation](https://egov.org.in/) and is available as an MIT-licensed open source software package DIVOC is also supported by various multilateral funding institutions, as well as a community of software contributors and adopters in various geographies. DIVOC’s verifiable COVID credentials have also been tested for interoperability with several consumer-health and locker applications globally; and DIVOC’s certificates from the adopter countries can now be scanned/read/ingested by these domestic and international applications.
+
 * [The evolution of Covid testing peaks with at-home rapid antigen test-and-show capability](https://blog.digi.me/2021/08/20/the-evolution-of-covid-testing-peaks-with-at-home-rapid-antigen-test-and-show-capability/) Digi Me
 
 fixes the pain points of other testing processes – especially as infectious and asymptomatic people can test without travelling – is cheap, eminently scalable, and can be used as secure proof of Covid health status where needed.
@@ -407,13 +410,7 @@ What if people can prove their COVID status to different entities, prove that th
 > 
 > Based on what Biden has said generally about public health, Beck believes the new administration plans to make "a big commitment to health equity and improving public health systems broadly," he said.
 
-### LFPH Calls for Coordination of Digital Vaccination Records Using Open Standards
 
-The CCI community collaborated with Linux Foundation Public Health to [write a letter to the Biden Administration](https://www.lfph.io/wp-content/uploads/2021/02/LFPH-Calls-for-Coordination-of-Digital-Vaccination-Records-Using-Open-Standards.pdf) about how Verifiable Credentials could be used to support re-opening the economy.
-
-> Some states and other countries have started to pilot this approach, as have various industries like film and aviation. But, the inconsistent use of standards and varying implementations have already led to confusion and public concern. An effort coordinated at the federal level would lead most quickly to uniform adoption and true inter-state and cross-domain interoperability.
-> 
-> LFPH and our partner organizations are ready to collaborate with you on this.
 
 * [Covid Vaccinations ‘Data Donor’ Program](https://digitalscot.net/covid-vaccinations-data-donor-proposal/) – A Proposal for the Scottish Government
   > “The Scottish Government must invest in data, digital and technology in health and social care to help Scotland recover from Covid-19. Closing the data gap in the sector could be worth £800m a year and deliver savings of £5.4bn to NHS Scotland. SCD said better data would help to build resilience against future public health challenges, which in turn will drive a healthy economy.” - Scottish Council for Development and Industry
@@ -497,3 +494,27 @@ Highlights from Ping Identity’s Andre Durand, and Richard Bird on an episode o
 * [We are now officially live in Myanmar!](https://zada.io/we-are-now-officially-live-in-myanmar/)
 
 ZADA apps are all launched and our first digital ID – a COVIDPASS – is being issued by Pun Hlaing Hospitals to everyone who gets vaccinated.
+
+
+### LFPH
+
+* [Understanding the Global COVID Certificate Landscape](https://www.lfph.io/2021/10/13/divoc/) DIVOC
+
+The DIVOC project is hosted and maintained by [India’s eGov Foundation](https://egov.org.in/) and is available as an MIT-licensed open source software package DIVOC is also supported by various multilateral funding institutions, as well as a community of software contributors and adopters in various geographies. DIVOC’s verifiable COVID credentials have also been tested for interoperability with several consumer-health and locker applications globally; and DIVOC’s certificates from the adopter countries can now be scanned/read/ingested by these domestic and international applications.
+* [From Closed Loop Systems to Open World COVID Credentials Exchange](https://www.lfph.io/wp-content/uploads/2021/04/CCI-Summit-Summary-Report-From-Closed-to-Open.pdf) CCI Report
+  > This summit, convened by CCI, was designed to beginarticulating a roadmap to get from closed loop systems to an open systemwhere it doesn’t matter if issuers, holders and verifiers are using the tool provided by the same solution provider as long as all solution providers are building on a certain common ground.The discussion focused on domestic reopening use cases using the US as the context.
+* [Introducing the Global COVID Certificate Network (GCCN)](https://www.lfph.io/2021/06/08/gccn/)
+* [Implementing the Good Health Pass’s recommendations with Cardea](https://indicio.tech/blog/implementing-the-good-health-passs-recommendations-with-cardea/)
+  > Cardea, a full, open-source ecosystem for verifiable health credentials developed by Indicio and now a community-led project at LFPH, meets the major recommendations of the Good Health Pass and facilitates the goals of the Global COVID Certificate Network.
+
+Good Health Pass Blueprint and the Global Covid Credentials Initiative by LFPH presented at the [DIF Interop Working Group](https://us02web.zoom.us/rec/play/Si6s-_rvMU7FuHW6QnJVxW47CFiotXDMWutkWMgePKdSWVhTYyADaldJhvzqOl1JPP297-lvSYXCDuk2.rMFee21Ba1fU6y2R?continueMode%3Dtrue%26_x_zm_rtaid%3DdQ0WNpJPS2WF1QUlmxYwBQ.1624241159436.7617ddee4319249d32a108bb882dc0ec%26_x_zm_rhtaid%3D623)
+
+As more and more governments adopt [major COVID certificate standards](https://www.lfph.io/2021/10/12/global-covid-certificate-landscape/) to reopen borders, the travel industry is working hard to catch up on their technology to meet the evolving travel requirements. However, there is still no shortage of complaints from travelers about their cumbersome international travel experiences.
+
+LFPH Calls for Coordination of Digital Vaccination Records Using Open Standards
+
+The CCI community collaborated with Linux Foundation Public Health to [write a letter to the Biden Administration](https://www.lfph.io/wp-content/uploads/2021/02/LFPH-Calls-for-Coordination-of-Digital-Vaccination-Records-Using-Open-Standards.pdf) about how Verifiable Credentials could be used to support re-opening the economy.
+
+> Some states and other countries have started to pilot this approach, as have various industries like film and aviation. But, the inconsistent use of standards and varying implementations have already led to confusion and public concern. An effort coordinated at the federal level would lead most quickly to uniform adoption and true inter-state and cross-domain interoperability.
+> 
+> LFPH and our partner organizations are ready to collaborate with you on this.
