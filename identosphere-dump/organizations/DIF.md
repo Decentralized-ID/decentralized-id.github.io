@@ -10,6 +10,36 @@ SC Election results: DIF welcomes new SC members Sam Curren, Daniel Buchner, Kar
 
 DIF announces its first community microgrant, sponsored by Microsoft and rewarding the timely creation of a comprehensive test suite for detached-JWS signatures on Verifiable Credentials
 
+* [IIW32 - A wave of DIF donations and debuts](https://blog.identity.foundation/dif-monthly-18-may-2021/%23iiw32a-wave-of-dif-donations-and-debuts) DIF Newsletter
+- [Finding the Bell Curve of Meaning](https://medium.com/decentralized-identity/finding-the-bell-curve-of-meaning-61a1d22b7bdd) - A process for supporting the emergence of shared language in broad collaborative communities
+* [DIF has a Discord](https://twitter.com/DecentralizedID/status/1517083722729738241)
+
+Join here [https://discord.com/invite/F4Qw7h6Sr9](https://discord.com/invite/F4Qw7h6Sr9)
+
+Kaliya was elected to the [DIF steering committee](https://blog.identity.foundation/sc-election-2022-results/) Decentralized Identity Foundation
+
+The six elected candidates are Sam Curren (Indicio Tech), Daniel Buchner (Block), Karyl Fowler (Transmute), Rouven Heck (Consensys Mesh, Executive Director at DIF), Markus Sabadello (DanubeTech) & Kaliya Young (Identity Woman). Sam, Karyl, Markus and Rouven have been re-elected for another two year term as SC members. You can read more about the SC candidates' background and vision for DIF here.
+* [Jolocom’s latest contributions to DIF](https://jolocom.io/blog/jolocoms-contributions-to-dif/)
+  > Over the course of 2020, Jolocom added support for an off-chain element based on KERI. This is in addition to the Jolocom DID method (did:jolo and did:keri), which supports the Jolocom-Lib, our own SDK and the Jolocom SmartWallet.
+* [Introducing DIF Grants](https://blog.identity.foundation/introducing-dif-grants/) Decentralized Identity Foundation
+  > DIF is kicking off a program to administer narrowly-scoped financial support for community initiatives, ranging in format from grants to more competitive implementation bounties, hackathon-style open collaborations, and security reviews.
+* [Setting Interoperability Targets](https://blog.identity.foundation/setting-interoperability-targets/) DIF
+  > Our short-term roadmaps need testable, provable alignment goals that we can all agree on for our little communities and networks of technological thinking to converge gradually. Simply put, we need a few checkpoints and short-term goals, towards which we can all work together.
+* [Communication Milestone Achievements!](https://blog.identity.foundation/milestones/) DIF
+* [Internet Identity Workshop #33](https://blog.identity.foundation/internet-identity-workshop-33/) DIF
+  > Hundreds of attendees, including a number of DIF members, put together a huge programme of content for the 33rd IIW, covering topics ranging from the technical minutiae of IAM and SSI to big-picture discussions about ethics and strategy, and participated in over 110 virtual sessions across the three days.
+* [LEGO & Learning Economy: Gearing up with Super Skills](https://blog.identity.foundation/lego-super-skills/) ID Foundation
+  > The Super Skills app combines a custodial wallet (Torus) and Ceramic VC/storage tooling to give children private, exportable, future-proof achievement records – a self-sovereign educational credentialing system in miniature.
+- [DIFS updated code of conduct](https://medium.com/decentralized-identity/difs-updated-code-of-conduct-a0c2d9dce1ad) - Setting a tone for inclusive collaboration.
+* [Jolocom’s latest contributions to DIF](https://jolocom.io/blog/jolocoms-contributions-to-dif/)
+
+- Jolocom added support for an [off-chain element based on KERI](https://github.com/decentralized-identity/keri/blob/master/kids/KERI_WP.pdf). This is in addition to the Jolocom DID method (did:jolo and did:keri), which supports the Jolocom-Lib, our own SDK and the Jolocom SmartWallet.
+- [Jolocom focused on the Rust KERI implementation](https://github.com/decentralized-identity/keriox/), which we donated to DIF last fall
+
+> An example of the KERI DID registrar/resolver integrated in our library can be found here. This is also included in the Jolocom SmartWallet via the SDK integration. (KERI is currently being worked on in the Decentralized Identity Foundation’s Identifiers and Discovery Working Group,)
+* [Dock Joins the Decentralized Identity Foundation](https://blog.dock.io/decentralized-identity-foundation/) Dock
+  > As a decentralized identity management platform that complies with internationally-recognized technology standards, we are continuously keeping up to date with key discussions and updates in the industry which is why we joined the Decentralized Identity Foundation
+
 * [What Does Affinidi Do as a Member of the Decentralized Identity Foundation (DIF)?](https://academy.affinidi.com/what-does-affinidi-do-as-a-member-of-the-decentralized-identity-foundation-dif-d9d5146af14) Affinidi
 
 In particular, Affinidi has been at the forefront in building many components such as the [Affinidi Wallet](https://academy.affinidi.com/what-is-affinidis-digital-wallet-1c2a52b4d13f), Schema Manager, [Consent Manager](https://build.affinidi.com/), and more that have enhanced the adoption of decentralised identity among communities and individuals.

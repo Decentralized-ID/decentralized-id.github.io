@@ -61,23 +61,6 @@ As a frequent open source maintainer and contributor, I’m often asked: where d
 
 Our goal is to make the process of building trust easier and more effective for creators. With that in mind, we’re sharing an overview of our plan to address the pain points of creators and marketplaces in the NFT space using identity tools.
 
-### Ceramic
-
-* [An authentication system built with Ceramic & self.id](https://github.com/dabit3/decentralized-identity-example) dabit3
-
-This project implements a user authentication flow leveraging an Ethereum wallet for single sign on capabilities across all of Web3.
-
-The technologies used are [DID (decentralized identifiers)](https://www.w3.org/TR/did-core/), [Ceramic](https://ceramic.network/), [3id-connect](https://github.com/ceramicstudio/3id-connect), and [Self.ID](https://developers.ceramic.network/tools/self-id/overview/)
-* [Building capability-based data security for Ceramic](https://blog.ceramic.network/capability-based-data-security-on-ceramic/)
-
-The 3Box Labs team recently published a new standard for creating capability containers for accessing decentralized data to the Chain Agnostic Standards Alliance. Capability containers are an approach for managing advanced data security and permissions, commonly referred to as “Object Capabilities” or “OCAPs.”
-
-This new standard is currently in development for use on Ceramic. Once deployed in a future version of the protocol, it will allow Ceramic to be fully compatible with the new Sign-in with Ethereum (SIWE) specification as well as provide advanced data flow control features for resources stored on the Ceramic network.
-* [The next architecture for building Web3 data apps](https://blog.ceramic.network/the-next-architecture-for-building-web3-data-applications/) Ceramic
-
-We're replacing the popular IDX runtime with a more powerful set of tools for building applications on Ceramic including DID DataStore, DataModels, and Self.ID.
-
-
 ## Entrustient
 * [No Code Solution Using Self-Sovereign Identity on Redundant Blockchains](https://www.pressrelease.cc/2021/12/02/entrustient-launches-the-first-no-code-solution-for-trusted-decentralized-digital-identity-using-self-sovereign-identity-on-redundant-blockchains/) Entrustient
 

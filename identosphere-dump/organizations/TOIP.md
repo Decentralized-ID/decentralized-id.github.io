@@ -151,3 +151,31 @@ I have been lucky enough to witness many of its milestones — the finalization 
   > Efforts are underway around the globe to promote new trust models between governments and citizens that promotes privacy and improves how trust is established between entities sharing information. Now is the time for the US government to consider and adopt the ToIP Framework as a starting point to not only support ZTA but promote greater privacy in information sharing within its ecosystem.
 * [SCHELLMAN JOINS TRUST OVER IP FOUNDATION AS STEERING COMMITTEE MEMBER](https://trustoverip.org/news/2022/03/25/schellman-joins-trust-over-ip-foundation-as-steering-committee-member/)
   > Tampa-based Schellman, a leading provider of attestation and compliance services, announced today that it is joining the Trust over IP Foundation (ToIP) as a Steering Committee member. As the first IT audit firm to join the leadership of ToIP, this move represents Schellman’s belief in the growing suite of digital governance specifications and tools being developed by ToIP Working Groups.
+### TOIP Trust over IP
+* [AMA: Sovrin + ToIP Core Purposes and Cooperation](https://iiw.idcommons.net/23M/_AMA:_Sovrin_%252B_ToIP_Core_Purposes_and_Cooperation) by John Jordan, Drummond Reed, Chris Raczkowski
+  > 1. Mutual recognition and support for the distinct, but interrelated, mandate of each organization.
+  > 2. Commitment to name a member from each organization as a liaison to act as a point of contact and maintain lines of open communication.
+  > 3. Proactively seek opportunities to collaborate in areas of shared interest, including communications products.
+
+This Letter of Agreement has been approved and signed by Sovrin and Trust over IP.
+
+It will be the basis for ongoing activity that aims to build on the strengths of both communities and advance their shared interest in the emergence of secure, privacy enhancing credential and identity ecosystems.
+
+* [Sovrin and Trust over IP Signed Mutual Agreement to Strengthen Their SSI Collaboration](https://blog.sovrin.org/sovrin-and-trust-over-ip-signed-mutual-agreement-to-strengthen-their-ssi-collaboration-55d7775efdc2)
+
+“By signing this Letter Agreement, Sovrin and ToIP are excited to take a step further to support the need and importance of our separate but interrelated mandates to benefit people and organizations across all social and economic sectors through secure digital identity ecosystems based on verifiable credentials and SSI,” said Chris Raczkowski, Chairman of Board of Trustees, Sovrin Foundation.
+* [KABN Network Joins the Trust Over IP Foundation](https://www.accesswire.com/616265/KABN-Network-Joins-the-Trust-Over-IP-Foundation)
+  > KABN aims to use proven bank-grade identity verification processes to allow Holders (who use a credential), Verifiers (who confirm the validity of a credential) and Issuers (who produce the credential) to complete transactions of many kinds including financial services, eCommerce transactions, organization, building and visitor access badges among others.
+Witness orgs sit in layer 3 of the [Trust Over IP stack](https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0289-toip-stack/README.md) as authoritative issuers. Witness orgs are to VCs like Dunn and Bradstreet (D&B) is to the finance world: they issue claims as a recognized authority.
+* [Avast Joins Trust over IP as a Steering Member](https://trustoverip.org/news/2022/08/30/avast-joins-the-toip-foundation-as-a-steering-member/) TOIP
+
+“It is finally time we had digital wallets with digital credentials that work exactly the same way our real-world wallets do,” said Mr. Reed. “We can take and use them anywhere to privately prove just what another party needs to know in the context of a particular transaction. We don’t have to go through any third-party gatekeeper to do this. That’s the way it should work in the digital world too.”
+* [Self-sovereign identity semantics: An economic extension to the Trust over IP stack](https://blog.verim.id/self-sovereign-identity-semantics-an-economic-extension-to-the-trust-over-ip-stack-4a4197d8f6d3)
+
+Editorial: Kaliya thinks this is a terrible idea. It is based on the premise that identity providers (issuers of credentials) should get paid every time a person (the holder) presents the credential in their wallet, when shared with the relying party (verifier) I think this is toxic and we are just finally getting to aligned standards for the VC format and for exchange protocols - now some how we are going to rapidly add a payments layer?
+
+NO this isn’t going to work it is going to create lockin to particular wallets for particular credentials. All because some bad entrepreneurs who are no longer leading their companies sold SAFTS to greedy investors. There is a mess under here that should be exposed further now that they are trying to push this model again. Lets just say I can’t wait for the investigative reporter to dig into the Sovrin meltdown from last year further to see what is really there. It could have all been left alone and I wouldn’t be talking about it - but they decided to push the model again.
+
+* [Human Experience Working Group](https://wiki.trustoverip.org/display/HOME/Human%2BExperience%2BWorking%2BGroup) TOIP
+
+The purpose of the HXWG is to examine the design features of digital systems, their governance and the business processes that support them, which make interactions or actors trustable, in the contextual and subjective experience of those using them.

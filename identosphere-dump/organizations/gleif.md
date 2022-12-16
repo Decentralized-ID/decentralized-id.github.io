@@ -32,3 +32,19 @@ Also, vLEIs will allow for the extension of identity verification of legal entit
   > The vLEI is a cryptographically verifiable credential according to W3C standards and containing the LEI ( Legal Entity Identifiers ), the identification code of legal entities made mandatory by Mifid II in order to operate on the financial markets: InfoCert, formerly LOU ( Local Operating Unit ) authorized by GLEIF will adopt vLEI as an identification standard within its DIZME ecosystem , the blockchain-based decentralized digital identity platform.
 
 * [eBook: ‘The vLEI: Introducing Digital I.D. for Legal Entities Everywhere](https://www.gleif.org/en/lei-solutions/gleifs-digital-strategy-for-the-lei/introducing-the-verifiable-lei-vlei/gleif-ebook-the-vlei-introducing-digital-i-d-for-legal-entities-everywhere)
+* [How to get a vLEI Credential](https://www.ubisecure.com/legal-entity-identifier-lei/how-to-get-a-vlei-credential/) Simon Wood, UbiSecure
+
+The first step in issuance is for a representative to enter a contractual agreement with a QVI to provide the issuance service. The individual from the legal entity that undertakes this contractual signup is known as the Designated Authorised Representative (DAR) [...]
+
+As per the LE-vLEI description the above is simplified. The full OOR-vLEIs issuance process is detailed in the [Ecosystem Governance Framework vLEI Credential Governance Framework Legal Entity Official Organizational Role](https://www.gleif.org/vlei/introducing-the-vlei-ecosystem-governance-framework/2022-02-07_legal-entity-vlei-credential-gf-draft-publication_v0.9-draft.pdf)
+
+* [GLEIF Launches New Stakeholder Group to Accelerate the Integration of LEIs in Digital Certificates](https://infocert.digital/gleif-launches-new-stakeholder-group-to-accelerate-the-integration-of-leis-in-digital-certificates/)
+  > GLEIF has launched a CA Stakeholder Group to facilitate communication between GLEIF, CAs and TSPs from across the world, as they collectively aim to coordinate and encourage a global approach to LEI usage across digital identity products. Participation has already been confirmed by China Financial Certification Authority (CFCA), DigiCert Inc, InfoCert, Entrust Datacard, ICAI India, and SwissSign.
+
+* [The Seven Step Process to Becoming a Validation Agent](https://www.gleif.org/en/newsroom/blog/the-seven-step-process-to-becoming-a-validation-agent): a closer look at the trial process with GLEIF’s latest eBook
+  > By becoming Validation Agents financial institutions can also streamline, accelerate and diversify their use of the LEI, and ensure their autonomy as they look to digitize their business processes.
+* [Q1 2021 in review](https://www.gleif.org/en/newsroom/blog/q1-2021-in-review-the-lei-in-numbers)
+  > The LEI in Numbers: Data from the latest Global LEI System Business Report reveals LEI adoption from January to March 2021.
+* [PSA Today: Kaliya & Seth talk LEIs](https://anchor.fm/psatoday/episodes/PSA-Today-34-Kaliya--Seth-talk-LEIs-Legal-Entity-Identifiers-with-Simon-Wood--CEO-of-Ubisecure-eqia74)
+with Simon Wood, CEO of Ubisecure (#1 issuer of Legal Entity Identifiers)
+  > the evolution of LEIs since the financial crisis of 2008, the difference between high assurance and low assurance, and the relationship between rights and ownership as it relates to identity management of entities.

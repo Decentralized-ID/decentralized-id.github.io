@@ -109,9 +109,6 @@ Resources
 - [Hosted platform to resolve and manage DIDs](https://godiddy.com/)
 - [DID DIF Universal Resolver](https://dev.uniresolver.io/)
 
-* [The Cardea Interop-a-thon Returns—and Here’s Why You Should Participate!](https://indicio.tech/the-cardea-interop-a-thon-returns-and-heres-why-you-should-participate/) Indicio
-
-The [Cardea Community](https://cardea.app/) at Linux Foundation Public Health is pleased to announce the third Interop-a-thon on June 16, between 8:00am and 12:00pm MST (UTC-7:00). Anyone building a Hyperledger Aries compatible product or system can sign up [here](https://forms.gle/CQLRFRr4NexLoCf36).
 
 
 JFF PlugFest
