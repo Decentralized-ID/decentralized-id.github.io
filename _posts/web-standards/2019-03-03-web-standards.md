@@ -19,13 +19,14 @@ header:
 
 Check out this [twitter list](https://twitter.com/i/lists/1322229268252950531) I made for identity related standards development bodies.
 
+## Big Picture
 * [Why Engage with Standards?](https://www.continuumloop.com/why-engage-with-standards/)
   > too many people complain about problems but don’t step to Fix It!. There are certainly a lot of flawed standards – but they make interoperability possible – not perfect – but possible. If you haven’t used them then you have no right to complain that they are too complex, too simple (even in the same standard) or too domain specific – or any of the other rants and raves that go on.
   > 
   > If you’re willing to put up with a lot of work for incremental improvements then step up and join a standard. Whether that is a (relatively) fast moving standard group like OASIS (www.oasis-open.org) or a slower but more international group like ISO you will learn. You’ll also benefit from working with experts. These experts donate their time and are more than happy to provide ideas, guidance, and leadership.
 * [Who Are the Identerati? - ForgeRock](https://www.forgerock.com/blog/who-are-the-identerati)
   > You’re familiar with digital identity standards like OpenID Connect, OAuth, and User-Managed Access, fundamental elements of privacy and security on the internet. But have you ever wondered how they came to be? A lot of work on these protocols went on (and goes on) behind the scenes at the Internet Identity Workshop (IIW), a bi-annual gathering of identity experts where we work on improving the identity systems that make the web run. It’s a great event that’s flown under the radar, so I’m excited to share a new documentary on IIW,  “Not Just Who They Say We Are: Claiming our identity on the Internet”. This short film shines a light on the stealth community of “Identerati” at IIW that are defining and refining digital identity.
-* [**Manifesto: Rules for standards-makers**](http://scripting.com/2017/05/09/rulesForStandardsmakers.html) by Dave Winer
+* [Manifesto: Rules for standards-makers](http://scripting.com/2017/05/09/rulesForStandardsmakers.html) by Dave Winer
   > I've used all kinds of formats and protocols in a long career as a software developer, even created a few. My new manifesto summarizes what I've learned about what works and what doesn't.
 
 {% include figure image_path="/images/Who-Runs-the-Internet-graphic.webp" alt="https://es.wikipedia.org/wiki/Archivo:Who-Runs-the-Internet-graphic.png" caption="[*Internet Governance*](https://en.wikipedia.org/wiki/Internet_governance)" %}
@@ -90,83 +91,6 @@ Check out this [twitter list](https://twitter.com/i/lists/1322229268252950531) I
   > - Attributes of the credential – Details of the credential being Issued
   > - When it is Issued – Date of issuance
 
-
-## Orgs Related to Standards Development
-
-[ISSA (Information Systems Security Association)](https://www.issa.org/) • [ISAO Standards](https://www.isao.org/) • [IETF](https://datatracker.ietf.org/wg/) • [NIST](https://www.nist.gov/) • [ISO](https://www.iso.org/committee/6266604/x/catalogue/p/0/u/1/w/0/d/0) • [IEEE](https://standards.ieee.org/) • [DIF](https://identity.foundation/working-groups/) ([GitHub](https://github.com/decentralized-identity/)) • [Fido Alliance](https://fidoalliance.org/) • [Hyperledger](https://www.hyperledger.org/join-a-group) ([Wiki](https://wiki.hyperledger.org/display/HYP/Working+Groups)) • [Kantara](https://kantarainitiative.org/groups/) • [OpenID](https://openid.net/wg/) • [Sovrin](https://sovrin.org/announcing-four-sovrin-governance-framework-wg-task-forces/) ([Forum](https://forum.sovrin.org/c/working-groups)) • [Me2B Alliance](https://www.me2balliance.org/repository.html) • [Ethereum Enterprise Alliance](https://entethalliance.org/participate/working-groups/)
-
-**Decentralised Identity: What’s at Stake? [A Position Paper by the INATBA Identity Working Group](https://inatba.org/wp-content/uploads/2020/11/2020-11-INATBA-Decentralised-Identity-001.pdf)**
-> INATBA has a specific Standards Committee to liaison with relevant standardisation committees and bodies. Some relevant standardisation committee and bodies include:
-> - [ISO/TC 307 “Blockchain and distributed ledger technologies”](https://www.iso.org/committee/6266604.html)
-> - [CEN/CENELEC JTC 19 “Blockchain and Distributed Ledger Technologies”](https://standards.iteh.ai/catalog/tc/cen/d96ab6b7-aac8-49e9-9ac5-b391bbd2abdc/cen-clc-jtc-19)
-> - [Decentralised Identifiers (DIDs)](https://w3c.github.io/did-core/)
-> - [DID Resolution](https://w3c-ccg.github.io/did-resolution/)
-> - [Verifiable Credentials (VCs)](https://www.w3.org/TR/vc-data-model/)
-> - “[Issuer](https://github.com/w3c-ccg/vc-issuer-http-api)” und “[Verifier](https://github.com/w3c-ccg/vc-verifier-http-api)” APIs and [Linked Data Vocabulary](https://digitalbazaar.github.io/citizenship-vocab/)
-> - [Credential Handler API](https://w3c-ccg.github.io/credential-handler-api/)
-> - [DID SIOP](https://identity.foundation/did-siop/)
-> - [DID Comm](https://github.com/decentralized-identity/didcomm-messaging)
-> - [Trust over IP Foundation](https://trustoverip.org/)
-
-## Blockchain Standards
-
-* [Global Standards Mapping Initiative: An overview of blockchain technical standards](https://www.weforum.org/whitepapers/global-standards-mapping-initiative-an-overview-of-blockchain-technical-standards)
-  * [IEEE](https://standards.ieee.org/) (USA) Internet of things (IoT); cryptocurrency exchange and payment; tokens; energy; digital assets
-    > "The purpose of the Institute of Electrical and Electronics Engineers (IEEE) is promoting the development and application of electrotechnology and allied sciences for the benefit of humanity, the advancement of the profession and the well-being of its members" 
-  * [ISO](https://www.iso.org/standards.html) (Switzerland) Security; identity
-    > The International Organization for Standardization (ISO) is an independent, non-governmental, international organization that develops standards to ensure the quality, safety and efficiency of products, services and systems 
-  * [W3C](https://www.w3.org/standards/) (USA) Identity
-    > The Worldwide Web Consortium (W3C) is developing protocols and guidelines that ensure long-term growth for the web 
-  * [IRTF](https://irtf.org/) (USA) identity; digital assets
-    > The Internet Research Task Force (IRTF) aims to promote research for the evolution of the internet 
-  * [IEC](https://www.iec.ch/) (Switzerland) Internet of things (IoT)
-    > The International Electrotechnical Commission (IEC) promotes standardization of electrical technology, electronic and related matters 
-  * [IETF](https://www.ietf.org/standards/) (USA) Cryptocurrency payment
-    > The purpose of the Internet Engineering Task Force (IETF) is creating voluntary standards to maintain and improve the usability and interoperability of the internet 
-  * [ITU-T](https://www.itu.int/en/ITU-T/publications/Pages/default.aspx) (Switzerland) Security; IoT; identity; DLT requirements
-    > "The International Telecommunication Union Telecommunications (ITU-T) sector ensures the efficient and timely production of standards covering all fields of telecommunications and information communication technology (ICTs) on a worldwide basis, and defines tariff and accounting principles for international telecommunication services" 
-  * [BSI](https://www.bsigroup.com/en-GB/standards/) (UK) DLT requirements
-    > The British Standards Institution (BSI) is the national standards body of the United Kingdom. It aims to share knowledge, innovation and methodologies to help people and organizations make excellence a habit 
-  * [CEN](https://www.cen.eu/Pages/default.aspx) \ [CENELEC](https://www.cenelec.eu/) (Belgium) Security
-    > The European Committee for Standardization (CEN) and the European Committee for Electrotechnical Standardization (CENELEC) provide a platform for the development of European standards and other technical documents in relation to various kinds of products, materials, services and processes" 
-  * [Standards Australia](https://www.standards.org.au/) (Australia) Security; DLT taxonomy
-    > Standards Australia coordinates standardization activities and facilitates the development of Australian standards 
-  * [WIPO](http://www.wipo.int) (Switzerland) Application of blockchain to intellectual property
-    > The World Intellectual Property Organization (WIPO): 1) promotes the protection of intellectual property throughout the world through cooperation among states and, where appropriate, in collaboration with any other international organization; and 2) ensures administrative cooperation among unions 
-  * [ETSI](https://www.etsi.org/standards) (France) Permissioned distributed ledgers
-    > The European Telecommunications Standards Institute (ETSI) provides the opportunities, resources and platforms to understand, shape, drive and collaborate on globally applicable standards 
-  * [SAC](http://www.sac.gov.cn/sacen/) (China) DLT requirements
-    > The Standardization Administration of China (SAC) exercises administrative responsibilities by undertaking unified management, supervision and overall coordination of standardization work in China 
-  * [BRIBA](https://www.beltandroadblockchain.org/) (China) DLT requirements
-    > The Belt and Road Initiative (BRI) has established the Belt and Road Initiative Blockchain Alliance (BRIBA) to spur the development of the BRI by leveraging blockchain technologies 
-  * [CESI](http://www.cc.cesi.cn/english.aspx) (China) Tokens; security
-    > "The China Electronic Standardization Institute (CESI) works with standardization, conformity assessment and measurement activities in the field of electronic information technologies. In the past couple of years, CESI has come out with a vision to introduce three blockchain standards on smart contracts, privacy and deposits in a bid to better guide the development of the blockchain industry in the country" 
-  * [DCSA](https://dcsa.org/) (Netherlands) Interoperability
-    > The Digital Container Shipping Association (DCSA) seeks to pave the way for interoperability in the container shipping industry through digitalization and standardization 
-  * [International Chamber of Commerce (ICC)](https://iccwbo.org/) (France) Interoperability
-    > The ICC established a working group called the Digital Standards Initiative (DSI). The purpose of the DSI is to encourage and maintain standards-based interoperability (between blockchain and non-blockchain consortia and networks) in global trade 
-  * [EEA](https://entethalliance.org/) (USA) Interoperability; tokens
-    > The Enterprise Ethereum Alliance (EEA) builds, promotes and broadly supports Ethereum-based technology methodologies, standards and a reference architecture 
-  * [Hyperledger](https://www.hyperledger.org/) (USA) Interoperability; tokens
-    > "Hyperledger is an open-source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments. It serves as a neutral home for various distributed ledger frameworks including Hyperledger Fabric, Sawtooth, Indy, as well as tools such as Hyperledger Caliper and libraries such as Hyperledger Ursa" 
-  * [IWA](https://interwork.org/) (USA) Tokens; analytics
-    > The InterWork Alliance (IWA) is working to: develop standards-based interworking specifications; address market requirements and performance metrics; support advances across all platform technologies; and enable multi-party interchanges 
-  * [JWG](https://intervasp.org/) (USA & UK) Tokens 
-    > "The Joint Working Group on interVASP Messaging Standards (JWG) identified the need for VASPs to adopt uniform approaches and establish common standards to enable them to meet their obligations resulting from the FATF recommendations as they apply to affected entities. To tackle this, a cross-industry, cross-sectoral joint working group of technical experts was formed in December 2019 and a new technical standard developed by the group" 
-  * [National Blockchain and Distributed Accounting Technology Standardization Technical Committee](https://tech.sina.com.cn/it/2018-05-10/doc-ihaichqz3607998.shtml) (China) DLT requirements; DLT terminology
-    > This is a group of organizations that have joined a national committee focused on creating standards for blockchain technology 
-  * [CDC](https://digitalchamber.org/initiatives/) (USA) Digital assets
-    > The Chamber of Digital Commerce (CDC)’s mission is to promote the acceptance and use of digital assets and blockchain-based technologies. Through education, advocacy and working closely with policy- makers, regulatory agencies and industry, its goal is to develop an environment that encourages innovation, jobs and investment 
-  * [MOBI](https://dlt.mobi/) (USA) Vehicle identity; usage-based insurance; electric vehicle grid integration; connected mobility and data marketplace; supply chain and finance; securitization and smart contracts
-    > The Mobility Open Blockchain Initiative (MOBI)’s Vehicle Identity Working Group (VIWG) aims to use DLT to make mobility safer, greener, cheaper and more accessible 
-  * [GDF](https://www.gdfi.io) (UK) DLT requirements
-    > Global Digital Finance (GDF) is an industry membership body that promotes the adoption of best practices for cryptoassets and digital finance technologies, through the development of conduct standards, in a shared engagement forum with market participants, policy- makers and regulators 
-  * [BIG](https://blockchainindustrygroup.org/) (Canada) DLT requirements (in progress)
-    > The Blockchain Industry Group (BIG) is dedicated to promoting the adoption of blockchain technologies and digital currencies by actively collaborating with and promoting the efforts of our global blockchain community 
-  * [BIA](https://bialliance.io/) (Estonia) Interoperability
-    > The Blockchain Industrial Alliance (BIA) seeks to promote cross-blockchain transactions and interconnectivity. The goal of this alliance is to create a globally accepted standard for connecting blockchains and to bring innovations together 
-  * [BiTA](https://www.bita.studio/) (USA) "Interoperability; DLT requirements"
-    > The Blockchain in Transport Alliance (BiTA) is seeking to develop and embrace a common framework and standards from which transport/logistics/supply-chain participants can build blockchain applications
 
 ## Assorted
 ### NIST
