@@ -5,6 +5,17 @@ published: false
 # Public Sector 
 
 
+
+### Findy - Finnish
+* [Finnish tech co-op receives government grant to develop a self-sovereign identity network](https://www.thenews.coop/164789/topic/technology/finnish-tech-co-op-receives-government-grant-to-develop-a-self-sovereign-identity-network/) TheNews
+
+The Finnish Government has awarded a €3m (£2.6m) grant to [Findynet Cooperative](https://findy.fi/en/) for a pilot project aiming to build a self-sovereign identity network.
+
+* [The Findynet Cooperative receives a government grant to develop a trusted way to share information in electronic interactions](https://findy.fi/en/findy-a-visionary-initiative-by-the-public-and-private-sectors-is-developing-a-new-type-of-verifiable-data-network-that-strengthens-finlands-position-as-a-driving-force-in-building-digital/) Findy.fi
+
+The aim of this public-private cooperation is to strengthen Finland’s leading position in digitalization and support the emergence of investments in new digital services.
+
+## DIDAS - Swiss
 * [Swiss doing SSI](http://didas.swiss)
   > Underpinned by our country’s values, DIDAS is the Swiss ecosystem with the goal to enable an inclusive, privacy-first & frictionless future for our society’s Digital & Data needs. We are advocating for global standards with local governance for digital identities and data sovereignty.
 ### Policy
@@ -154,9 +165,6 @@ The LEI’s legacy is proudly rooted in financial services and regulation. Its f
 One key aspect outlined in Section 4 of the Executive Order (EO) is securing the software supply chain. At issue here is the reality that the U.S. federal government—like nearly any other organization on the planet that uses computer technology in any form—relies on not just one but numerous types of software to process data and run operational equipment.
 
 
-* [The keystone foundation companion to the Blockchain is Digital Identity](https://scottishblockchain.net/transforming-education-blockchain-ssi/) DigitalScot
-  > The building block of digital identity ecosystems are ‘[verifiable credentials](https://www.slideshare.net/SSIMeetup/verifiable-credentials-101-for-ssi-and-decentralized-digital-identity-tyler-ruff)‘, the core mechanics for forming these ecosystems through sharing Identity data between collaborating partners, exemplified by initiatives such as the [EU’s recent announcement](https://apnews.com/article/europe-health-coronavirus-pandemic-lifestyle-travel-73f90d18909c595da463994e16e17348) and explained here by the OIX Identity forum.
-
 * [RaonSecure builds a blockchain-based digital wallet service with a public institution](https://medium.com/raonsecure/raonsecure-builds-a-blockchain-based-digital-wallet-service-with-a-public-institution-9fe2c8028f6c)
 
 Selection of RaonSecure as the final operator of the ‘blockchain-based digital wallet project’ that is part of the ‘2021 Blockchain Pilot Project’ program promoted by the Korean government
@@ -178,9 +186,6 @@ The EU-funded IMPULSE focuses on building a decentralised Self-Sovereign Identit
 
 While the EU wallet may not align entirely with every principle of self-sovereign identity, it is certainly a massive leap in that direction.
 
-* [IDnow supports European digital identity ecosystem](https://www.idnow.io/press/idnow-supports-european-digital-identity-ecosystem/)
-
-IDnow joins IDunion, the network initiative for digital identities funded by the Federal Ministry for Economic Affairs and Energy (BMWi)
 * [New Directions for Government in the Second Era of the Digital Age](https://www.blockchainresearchinstitute.org/new-directions-for-government-in-the-second-era-of-the-digital-age/) Kuppinger Cole
 
 The [Blockchain Research Institute™](https://www.blockchainresearchinstitute.org/), in collaboration with the Washington DC based [Chamber of Digital Commerce](https://digitalchamber.org/) and other experts have produced a 120-page report on how the Biden-Harris administration could reimagine US technology strategy and policy—and take action to implement it.
@@ -264,9 +269,6 @@ The ID wallet for the digital driver's license is not only technically immature.
 
 On September 15, 2021, I moderated a panel with representatives from the United States Government, the Canadian Government, and the European Commission. Below is an edited excerpt from the panel
 
-* [IDunion: Germany’s Bold SSI Strategy with Hakan Yildiz](https://northernblock.io/idunion-germany-bold-ssi-strategy/)
-
-What use cases should a National Digital Identity program prioritize in collaboration with the private sector? As use cases become verticals of their own, what are then some of the horizontal considerations that need to be applied to enable all of the use cases to function within their relative ecosystems?
 
 * [Early Adopters Programme | Imagining what EBSI can do for European citizens](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Early%2520Adopters%2520Programme%23become-ebsi-compliant)
 
@@ -322,11 +324,6 @@ Central banks are realising CBDCs will have to be intimately linked to identity 
   > In episode 37, René Seifert talks about the current status of identity in the UK; the government’s recent call for evidence and DIU (digital identity unit); the resultant six guiding principles – including privacy and inclusivity; the potential of self-sovereign identity to solve some of these issues; TrueProfile.io and the importance of verified credentials in an HR context; plus the ethical, political and technical challenges of ‘immunity passports’.
 * [Catalan government announces self-sovereign identity project](https://www.ledgerinsights.com/catalan-government-self-sovereign-identity/)
   > The government of Catalonia announced its plans for self-sovereign identities (SSIs) for citizens based on blockchain technology. The project, named IdentiCAT, was revealed by the President of Catalonia Quim Torra and will allow citizens to be the “owner, manager and exclusive custod[ian] of his identity and data”.
-* [IDunion: An open ecosystem for trusted identities](https://idunion.org/2021/02/16/idunion-an-open-ecosystem-for-trusted-identities/?lang=en)
-
-- [IDunion](https://idunion.org/) (formerly SSI for Germany) has completed the competition phase of the innovation competition “Schaufenster Sichere Digitale Identitäten” and is applying to the Federal Ministry of Economics and Energy (BMWi) for the next phase of the innovation competition.
-- The use of decentralised, self-sovereign identities for natural persons, companies and things is to be tested in over 35 use cases from a wide range of sectors.
-- The project involves 26 well-known public and private partners.
 * [City of Austin dabbling in SSI](https://github.com/cityofaustin/mypass-project/wiki/blockchain-report)
 
 Many folks within the identity space see VC infrastructure as the future of identification. If much of our online identity is reputation based, then VCs represent a formal method for linking reputations and vouching for others to form a web of trust within which individuals are able to conduct identity transactions in a less centralized way.

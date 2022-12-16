@@ -31,10 +31,6 @@ Oskar van Deventer, a rockstar from TNO, presents:
 > 5. Foster eco-systems and demonstrate the value through practical use-cases.
 > 6. Create a level playing field for sustainable data sharing by providing funding to pioneers at the forefront of developing data eco-systems
 * [Meeco Review of the European Data Strategy](https://www.meeco.me/data) - Whitepaper
-* [IDunion enters the second project phase initiated by the Federal Ministry of Economic Affairs and Energy of Germany](https://idunion.org/2021/04/06/idunion-startet-in-die-zweite-vom-bmwi-gefoerderte-projektphase/?lang%3Den)
-  > - The Federal Ministry for Economic Affairs and Energy (BMWi) has selected IDunion for the second phase of the innovation competition “Showcase Secure Digital Identities”.
-  > - The three-year implementation phase began on April 1, 2021.
-  > - The goals of this new project phase includes the establishment of a European cooperative, the launch of a production network and the implementation of 40+ different pilot applications from several areas.
 * [Self-Sovereign Identity and Government – Data Exchange](https://cyber.ee/resources/case-studies/self-sovereign-identity-and-government-identity/) Cybernetica
   > The [previous post](https://cyber.ee/blog/2021/03-23/) focused on identity as a single topic, pulling it away from the data exchange component where it has recently become muddled up. In terms of identity, self-sovereign identity (SSI) and traditional public key infrastructure (PKI) based offerings are, for the most part, on the same page.
 * [The European Single Identity System “Back to the Future”](https://vimeo.com/481408424)
@@ -344,7 +340,6 @@ EBSI is a blockchain network of distributed nodes across Europe to support impor
 - Digital Wallet
 
 
-* [IDunion announces successful establishment of European cooperative](https://idunion.org/2022/08/16/idunion-announces-successful-establishment-of-european-cooperative/?lang%3Den)
 
 
 EBSI: [Innovation that respects our privacy is a joint effort](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Innovation%2Bthat%2Brespects%2Bour%2Bprivacy%2Bis%2Ba%2Bjoint%2Beffort)
@@ -482,3 +477,6 @@ The goal of IATA One ID is to set industry standards that further streamline the
 * [How the Digital Markets Act (DMA) will shape the future of digital identity in Europe](https://www.idnow.io/blog/digital-markets-act-dma-future-digital-identity/) IDNow
 
 On March 24th, 2022, [the European Parliament and Council reached an agreement on the final version of the Digital Markets Act (DMA)](https://eur-lex.europa.eu/legal-content/de/TXT/?qid%3D1608116887159%26uri%3DCOM%253A2020%253A842%253AFIN). According to the European Commission, the DMA regulation is expected to be reviewed and enacted by October 2022.
+* [the-time-for-the-eidas-bridge​](http://validatedid.com/post-en/the-time-for-the-eidas-bridge) ValidatedID
+  > There’s an outstanding question, for us, around how this community explores and thinks about the theoretical underpinnings of a Community of Practice (CoP), but one thing is for sure, Keep Badges Weird is a CoP.
+

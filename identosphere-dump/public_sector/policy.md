@@ -57,12 +57,6 @@ End-to-end messaging encryption is a domain where mistakes matter. The current d
 
 Bedoya’s research has shined a light on digital surveillance and its impact on people of color, immigrants, and the working class. He founded the [Center on Privacy & Technology](https://www.law.georgetown.edu/privacy-technology-center/) at Georgetown Law to focus on the importance of consumer privacy rights.
 
-* [Response to FinCEN RFI](https://www.centre.io/blog/centres-response-to-fincen-rfi) Centre
-
-In this letter, we focus on two questions relevant to identifying Bank Secrecy Act (“BSA”) regulations and  guidance that may be outdated, redundant, or do not promote a risk-based AML/CFT regulatory regime 
-* [Centre’s Response to Australian Treasury](https://www.centre.io/blog/centres-response-to-australian-treasury) Centre
-
-In this letter, we focus on a couple of issues that would be beneficial in expanding the Australian regulatory frameworks to include crypto assets. Furthermore, our comments pertain specifically to fiat-backed stablecoins, which are backed on a 1:1 basis by reserve assets, such as bank deposits and short-term government bonds.
 
 
 

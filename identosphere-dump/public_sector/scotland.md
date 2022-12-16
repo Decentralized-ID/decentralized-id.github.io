@@ -22,3 +22,13 @@ As we’ll explore in the upcoming and future webinars, Scotland’s opportunity
 > 
 > Apps like [Healthy Me](https://digi.me/healthy-me/) from digi.me are an example of this new paradigm and how the decentralized approach tackles issues common to IT, like data privacy, by distributing the workload and privacy control to the users themselves.
 > Initiatives like [MyData](https://mydata.org/), of which digi.me plays a key role, are setting out to develop the global movement that will establish the framework for adoption of this approach, defining the methods and governance for regulating this model of data exchange.
+* [Digital Scotland: Blueprint for a 21st Century Scottish Digital Nation](https://digitalscot.net/library/digital-nation/)
+
+From the Blockchain through AI and the ‘Metaverse’, Scotland is presented with a wide spectrum of technology innovations to harness. And from Education through Economy, there is an equally wide spectrum of opportunity areas where it can be applied, for great national benefit.
+* [The keystone foundation companion to the Blockchain is Digital Identity](https://scottishblockchain.net/transforming-education-blockchain-ssi/) DigitalScot
+  > The building block of digital identity ecosystems are ‘[verifiable credentials](https://www.slideshare.net/SSIMeetup/verifiable-credentials-101-for-ssi-and-decentralized-digital-identity-tyler-ruff)‘, the core mechanics for forming these ecosystems through sharing Identity data between collaborating partners, exemplified by initiatives such as the [EU’s recent announcement](https://apnews.com/article/europe-health-coronavirus-pandemic-lifestyle-travel-73f90d18909c595da463994e16e17348) and explained here by the OIX Identity forum.
+
+* [Transforming Scottish Education for the 21st Century](https://digitalscot.net/transforming-scottish-education/) Digital Scot
+
+This of course is the backbone of the education system, how grades are assessed and rewarded, and it is here therefore where the biggest levers for change are possible, and in this article we’ll explain the role new technologies can play in underpinning and enabling such a transformation.
+* [Transforming Scottish Education on the Blockchain](https://digitalscot.net/education-blockchain/) DigitalScot

@@ -1,6 +1,19 @@
 ---
 published: false
 ---
+### Digital ID Lab - CA
+* [Digital ID Lab Announces Successful Closure of Several Public and Private Grants](https://www.businesswire.com/news/home/20200714005237/en/Digital-ID-Lab-Announces-Successful-Closure-of-Several-Public-and-Private-Grants)
+
+The Lab is Canada’s first independent and neutral organization to promote the compliance of and interoperability between digital ID solutions across public and private sectors, bridging a crucial gap in the advancement of Canada’s digital ecosystem.
+
+## BCGov
+* [John Jordan AMA - ToIP, BC Gov, Spinal Cord Injuries](https://iiw.idcommons.net/13C/_John_Jordan_AMA_-_ToIP,_BC_Gov,_Spinal_Cord_Injuries) by John Jordan
+
+John shared about his journey and ongoing rehab,  and then moved on to what’s up with BCGov these days and looking ahead with the same.
+
+* [https://github.com/bcgov/von](https://github.com/bcgov/von)
+
+* [John Jordan (BC Gov) about VON, OrgBook BC and our vision](https://bc-von.s3.amazonaws.com/2018-06-VON-Webinar-for-Sovrin-Indy-Community.mp4)
 
 # Canadian Identity
 * [Agency to hear public comment at hearing on August 24 and 25 as part of rulemaking process](https://cppa.ca.gov/regulations/) CPPA CA
