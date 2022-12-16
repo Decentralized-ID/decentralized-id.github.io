@@ -3,14 +3,19 @@ published: false
 ---
 
 # Web 3
+
+### 3Box
 3box IDX: [A Devkit for Open Identity](https://medium.com/3box/idx-a-devkit-for-open-identity-48edc88e8e85)  *(From Kaliya, this is interesting, but they are taking on a huge amount of work without an [IPR](https://en.wikipedia.org/wiki/Intellectual_property#Intellectual_property_rights) container/wrapper).*
   > Designed to be cross-platform and highly configurable, IDX is compatible with all blockchains, wallets, and a wide variety of user and application data storage options including Ceramic, Textile, OrbitDB, Filecoin, IPFS, and Secure Data Stores — so you can seamlessly integrate decentralized identity with the rest of your Web3 tech stack.
 
 * [The 3 parts of identity in a dynamic world](https://medium.com/3box/the-3-parts-of-identity-in-a-dynamic-world-f94724c2bae9)
   > At 3Box we live and breathe identity, and while GDPR and data abuses like Facebook’s may be concerning, they have also brought some welcome attention to the issues of digital privacy and data control.
 
+## Holochain
 * [Elemental Chat - 1st Holochain P2P App for Hosts](https://medium.com/h-o-l-o/title-elemental-chat-the-first-holochain-p2p-app-released-for-hosts-3e9f44bdcaca)
   > Elemental Chat running on HoloPorts has no central database. Each person who is running the app signs their messages to their own chain and then automatically posts them to the shared database that is hosted by the other users of the application.
+
+## Metaverse
 * [The Rise of MetaNations](https://trbouma.medium.com/the-rise-of-metanations-2e4b4445411d) Tim Bouma
 
 So what’s the imperative for us as real people and governments? To make sure that these realms are as open and inclusive as possible. Personally for me, I don’t want to have a future where certain metacitizens can exert their metarights in an unfair way within the real world; the chosen few getting to the front of the line for everything.
@@ -120,8 +125,6 @@ So while the blockchain space is in some abstract sense perfectly private and pe
 Any system connected to the real world is going to have some of the problems of the real world connected to it too. That’s just life.
 * [Web3: Self-Sovereign Authority and Self-Certifying Protocols](https://www.windley.com/archives/2022/02/web3_self-sovereign_authority_and_self-certifying_protocols.shtml) Phil Windley
 
-* [User-centric data on Web3](https://blog.ceramic.network/user-centric-data-on-web3/) Ceramic
-
 * [The metaverse is coming for your biometric and health data](https://disruptive.asia/metaverse-biometric-and-health-data-digital-rights%25ef%25bf%25bc/) Disruptive Asia
 
 * [What is Web3? Here Are Some Ways To Explain It To A Friend](https://consensys.net/blog/blockchain-explained/what-is-web3-here-are-some-ways-to-explain-it-to-a-friend/) Consensys
@@ -129,13 +132,6 @@ Any system connected to the real world is going to have some of the problems of 
 
 The tools people have to participate in these territories, browsers and password managers, let us visit those territories, but we ourselves cannot be visited. We cannot act. Online relationships (client-server) are inherently asymmetric and the power accrues to those who define the territory.
 
-* [3Box Labs, core developers of Ceramic, has raised a $30,000,000 Series A co-led by Multicoin Capital and Union Square Ventures](https://blog.ceramic.network/30-million-series-a-multicoin-usv/) Ceramic
-
-…Ceramic, a decentralized network for composable Web3 data. The network consists of three core components:
-
-1. Scalable, decentralized data infrastructure
-2. Open APIs for storing, modifying, and retrieving data
-3. Community-created marketplace of reusable data models
 * [Life is a Metasystem](https://www.windley.com/archives/2022/02/life_is_a_metasystem.shtml) Windley
 
 Rather than being a DAO, the world is a gigantic metasystem that provides numerous tacit capabilities for action and interaction. So, while “Life is a DAO” makes a better t-shirt, I prefer “Life is a Metasystem.” Take the red pill.
@@ -439,18 +435,9 @@ blockchain agnosticism is possible due to our DID registry component: all incomi
 
 Blockchain analytics solutions have been a critical part of enabling the crypto industry to combat financial crime since Elliptic produced the first such capabilities in 2014
 
-* [Key Revocation in Self-Certifying Protocols](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) Ceramic
-
-In Web3 protocols cryptographic keys are used for encryption and signature verification. Typically a key is split into a public and a private key and because private keys are hard to keep secure, it is considered good practice to change keys over time.
-
 * [Pairwise Trust: A New Blockchain-Based Identification Solution for Web3 Infrastructures](https://sovereignwallet.medium.com/introducing-pairwise-trust-a-new-blockchain-based-identification-solution-for-web3-infrastructures-c1ef4a52dcd8) Sovereign Wallet
 
 “Pairwise Trust” now available on MetaMUI SSID In the ever-evolving digital society, one of the most important thing is to control one’s digital identity and digital property.
-
-* [Key Revocation in Self-Certifying Protocols](https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/) Ceramic
-
-In Web3 protocols cryptographic keys are used for encryption and signature verification. Typically a key is split into a public and a private key and because private keys are hard to keep secure, it is considered good practice to change keys over time.
-
 * [Pairwise Trust: A New Blockchain-Based Identification Solution for Web3 Infrastructures](https://sovereignwallet.medium.com/introducing-pairwise-trust-a-new-blockchain-based-identification-solution-for-web3-infrastructures-c1ef4a52dcd8) Sovereign Wallet
 
 In MetaMUI, users can create their own DID by submitting their personal information(KYC) to one of the Sidechain Operators, and the operator will decide whether approving or denying the request depending on the status of the submitted data. Once the request is approved, the user’s personal data get hashed, and the hashed data is safely stored in the user’s device.
@@ -533,10 +520,6 @@ Humans are tribal, we want to belong and integrate ourselves in like-minded comm
 
 A massive wave of world-class talent has entered web3 over the last year. They are brilliant and passionate and want to build a better internet. That’s why we decided to go big.
 
-* [How Web3 apps are building composable trust](https://blog.ceramic.network/how-web3-apps-are-building-composable-trust/) Ceramic Network
-
-Explore the unique paradigms behind Web3 reputation, prominent use cases, and example architectures to incorporate credentials into your application.
-
 
 * [The Golden Era of Web3 Identity](https://twitter.com/DonaldBullers/status/1532406343545536513) Donald Bullers
 
@@ -561,9 +544,6 @@ Let’s transition our knowledge from Web2 to Web3 and know which technologies s
 we must work to preserve the freedom of individuals to self-identify by building those technical capabilities into the DNA of Web 3.
 
 
-* [GitCoin working with Ceramic on “GitCoin Passport”](https://blog.ceramic.network/a-higher-personhood-score-means-more-contribution-matching/)
-
-PoPP signs and issues “stamps” to the user’s Passport that publicly attest to the user’s claims. Behind the scenes, these are Verifiable Credentials (VCs) that are stored on the user’s Ceramic streams.
 
 * [The Blockchain Sheep of Reason: Why the blockchain works for the young and old people hate it](https://medium.com/humanizing-the-singularity/the-blockchain-sleep-of-reason-b28f3bd3f83b) Ian Simmons, Mattereum
 
@@ -608,9 +588,6 @@ crypto wins by solving problems that nobody else can solve, profitably. It has t
 
 Verifiable Credentials + Web3
 
-* [How To Create a Verifiable Credentials Registry Smart Contract in Solidity](https://docs.centre.io/blog/build-a-smart-contract-registry-solidity) Justin Hunter, Pinata, Centre
-
-Verifiable Credentials (VCs) allow people and organizations to issue statements on behalf of others. These statements are then verifiable even if the original issuer is no longer around. We can see VCs in action in many KYC (Know Your Customer) and AML (Anti-Money Laundering) flows. For the entire flow to work, though, there needs to be a verifier.
 
 
 ## Regulation & Crypto
@@ -651,11 +628,6 @@ Yikes!
 
 * [Citopia Self-Sovereign Digital Twins™ (#SSDTs) enable trusted identity & data autonomy in the #Web3 economy](https://www.linkedin.com/feed/update/urn:li:activity:6944682788692377600/)
 - [Consensus 2022 panel: Is Web 3.0 more hype or reality?](https://blog.avast.com/web-3-consensus-panel)
-* [How To Create a Verifiable Credentials Registry Smart Contract in Solidity](https://docs.centre.io/blog/build-a-smart-contract-registry-solidity) Centre
-
-When using the [smart contract pattern](https://docs.centre.io/verite/patterns/smart-contract-verite) for verifications, you can use any blockchain you would like. For the sake of this guide, we will focus on [Solidity](https://docs.soliditylang.org/en/v0.8.11/), which is the programming language for the Ethereum Virtual Machine.
-
-Web3 and SBT Debates Continue
 
 * [Soulbound Tokens, Self-Sovereign Identity, and the Pursuit of a Universal Identity Standard](https://conorhealy.substack.com/p/soulbound-tokens-self-sovereign-identity?r%3D9r7wu%26utm_medium%3Dios) Conor Healy
 
@@ -933,11 +905,6 @@ Ethereum competitors that aim for scalability (Solana, Polkadot, Near)
 * […]Aiming for security (MEV Mitigation) (Solana & Osmosis)
 
 * […]Aiming for privacy (Secret Network, Oasis, Panther)
-
-* [Circle and Industry Leaders Have Built the First Decentralized Identity Proof-of-Concept for Crypto Finance using Centre Verite Credentials](https://www.centre.io/blog/circle-and-industry-leaders-have-built-the-first-decentralized-identity-proof-of-concept-for-crypto-finance-using-centre-verite-credentials) Centre ([ANN-thread](https://twitter.com/circlepay/status/1575979855681753088)
-
-Together with Archblock, the team behind the TrueFi protocol, MetaMask Institutional and Parallel Markets, Circle Internet Financial has built the first proof-of-concept for “know your business” (KYB) verification using [Verite](https://www.centre.io/verite/faq), Centre's set of open source protocols for decentralized digital identity credentials
-
 * [The Battle for the Soul of the Web](https://www.theatlantic.com/technology/archive/2022/10/internet-archive-decentralized-web-web3-brewster-kahle/671647/) The Atlantic
 
 Musings from, amongst other places, Unfinished Live and DWeb Camp all written up in the Atlantic.

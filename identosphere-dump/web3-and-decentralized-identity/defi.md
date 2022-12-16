@@ -27,8 +27,6 @@ Decentralized Identity & DeFi are Disconnected ← trueDecentralized Identity is
 - Health Data Passes
 - Employment Information
 - Credit, Income, KYC
-* [Circle and Industry Leaders Have Built the First Decentralized Identity Proof-of-Concept for Crypto Finance using Verite Credentials](https://www.circle.com/en/pressroom/circle-and-industry-leaders-have-built-the-first-decentralized-identity-proof-of-concept-for-crypto-finance-using-verite-credentials) Circle
-  > Circle joined other crypto and blockchain companies in February 2022 to introduce Verite as a open-source framework for decentralized identity credential issuance, custody and verification. Verite is designed to help make it safer, easier and more efficient to do business across the transformative worlds of DeFi and Web3 commerce.
 * [DeFi regulation must not kill the values behind decentralization](https://cointelegraph.com/news/defi-regulation-must-not-kill-the-values-behind-decentralization) Cointelegraph
   > Financial Action Task Force (FATF) recently [proposed](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/public-consultation-guidance-vasp.html) guidelines making it clear that “The owner/operator(s) of the DApp likely fall under the definition of a VASP [virtual asset service provider] [...] even if other parties play a role in the service or portions of the process are automated.
 * [InsideTheSimulation.eth @InsideTheSim Jul 28](https://twitter.com/InsideTheSim/status/1552636154423410689)

@@ -4,7 +4,6 @@ published: false
 
 # DAO
 
-* [DAOhaus adds functionality for rich member profiles for DAOs](https://blog.ceramic.network/daohaus-adds-rich-dao-member-profiles/)
 
 * [State of the DAO: Decentralized Governance](https://iiw.idcommons.net/13I/_State_of_the_DAO:_Decentralized_Governance) by Grace Rachmany
 

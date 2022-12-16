@@ -63,9 +63,6 @@ NFTs offer creators a novel way to monetize their creations. Unfortunately, ther
 
 The potential for fraud in the growing NFT market recently attracted the [attention](https://www.coindesk.com/fatfs-new-guidance) of the Financial Action Task Force (FATF)
 
-* [Geo Web is connecting digital content to the physical world with NFTs and Ceramic](https://blog.ceramic.network/geo-web-is-connecting-digital-content-to-the-physical-world-with-nfts-and-ceramic/)
-
-With DID:NFT, because the content that is anchored to a Geo Web parcel can actually be owned by the parcel itself, when someone buys the land they're also getting the infrastructure that's been built up on that land.
 
 * [The future of Decentralized Identity: SSI vs NFTs](https://walt.id/decentralized-identity-explained/ssi-vs-nfts) Walt ID
 
@@ -75,9 +72,6 @@ While SSI has been developed to model digital identity, NFTs are used to model d
 
 an epic thread on twitter unpacking the uproar about the DeSoc paper relative to DID/VCs and NFTs/SBTs.
 
-* [Headline Introduces Creator-Controlled, Subscription-Based Publishing](https://blog.ceramic.network/headline-rewrites-subscription-based-publishing-for-web3/)
-
-The publishing protocol uses Unlock’s NFT-based access system and Ceramic’s decentralized data protocol to give creators full control over their content, communities and monetization.
 
 * [SOULBOUND Tokens with @VitalikButerin & @provenauthority](https://www.youtube.com/watch?v%3DTbyVyVNsyys) Bankless Podcast
 
@@ -98,9 +92,6 @@ Some also worried that SBTs, given their potentially public, non-transferable qu
 * [Non transferable NFTs land from Sekuritance](https://appdevelopermagazine.com/non-transferable-nfts-land-from-sekuritance/)
 
 Sekuritance is implementing an identity-based ntNFT (non-transferable non-fungible token) to be utilized not only within the Sekuritance platform but also within its partner ecosystem
-* [How To Use Verifiable Credentials And Verite To Build An Off-Chain NFT Allowlist](https://docs.centre.io/blog/NFT-allowlists-with-verifiable-credentials-and-verite) Justin Hunter, Pinata, Centre
-
-if the signature is verified, we allow the minting to happen. When that's complete, we update the PREVIOUS_SIGNATURE variable. This is, as with many things in this demo, a simplified replay attack prevention model. This can and probably should be extended to support your own use cases.
 
 * [NFT + SSI = What I Own + Who I Am (with Dominik Beron with CEO of Walt.id)](https://northernblock.io/nft-ssi-what-i-own-who-i-am-with-with-dominik-beron/)
 
