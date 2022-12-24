@@ -10,6 +10,7 @@
 - Apple
 - Google
 
+
 ## RootsID
 * [RootsID SSI Report - E1](https://www.youtube.com/watch?v%3DspbZp8X1eH0)
 
@@ -188,14 +189,6 @@ Insights from a year-long evaluation of our Digital Identity program
 
 Beyond OnRamp’s direct data integrations, the platform also supports the ability for third party credentials to enter the OnRamp platform via the WACI specification
 
-### Bonfii
-
-* [Bonifii and Entersekt Announce New Context-Aware Authentication Solution for Credit Unions](https://bonifii.com/2022/04/bonifii-and-entersekt-announce-new-context-aware-authentication-solution-for-credit-unions/)
-  > Bonifii and Entersekt today announced a new partnership bringing context-aware authentication technology to credit unions through MemberPass Express, powered by Entersekt. MemberPass is the first KYC-compliant member-controlled digital identity issued by credit union cooperatives.
-* [Equifax Launches Digital Identity as a Service](https://bonifii.com/2021/10/equifax-launches-digital-identity-as-a-service/) CU Ledger
-  > Equifax Digital Identity as a Service gives credit union members more control over their information and will help to facilitate faster and easier user experiences for previously onboarded users. Functionality from Equifax’s suite of identity protection products including [Digital Identity Trust](https://www.equifax.com/business/digital-authentication/), Document Verification and the recently acquired [Kount Identity Trust Global Network](https://linkprotect.cudasvc.com/url?a%3Dhttps%253a%252f%252fkount.com%252f%26c%3DE,1,P0Lh3syJAhSnb3ckebQ1p8C29xvkkJ94klUQn8bpJ0Dl1XUoFwXkyPWAlTmWqD3i3bv6IWqRyqfz7_JzzpwIpG4zrWtxyIfflytpAkuFg7nn_Q,,%26typo%3D1) are incorporated into the new holistic solution.
-* [Liquid Avatar Technologies and Bonifii Make VCs Accessible for People and Financial Institutions in the Metaverse](https://bonifii.com/2021/11/liquid-avatar-technologies-and-bonifii-make-verifiable-credentials-accessible-for-people-and-financial-institutions-in-the-metaverse/) Bonifii
-  > “The metaverse and Web 3.0 are here, and we are building the infrastructure to manage how we’re going to live, work, and play in the intersection of the real and the digital,” said Heather Dahl, CEO of Indico. “Bonifii and Liquid Avatar get it, they’re on it and we’re excited to help them realize their vision.“
 
 ### Block
 
@@ -208,45 +201,11 @@ Block is a new name, but our purpose of economic empowerment remains the same.
 
 5 years after establishing Decentralized Identity at Microsoft, where I had the opportunity to work with great folks developing open source DID infrastructure (e.g. ION), standards, and products, I am joining Square to lead Decentralized Identity.
 
-### Energy Web
-* [Self-Sovereign Identity for the Enterprise with Switchboard](https://medium.com/energy-web-insights/unlocking-the-potential-of-self-sovereign-identity-for-enterprise-with-energy-web-switchboard-ab41499003a0) Energy Web
-
-This release includes major updates to the front-end Switchboard web application as well as the back-end libraries and components, giving companies access to the full suite features offered by legacy identity access management solutions in a decentralized architecture.
-
-* [Energy Web Quarterly Update](https://medium.com/energy-web-insights/energy-web-quarterly-update-855feb5878b6)
-
-Switchboards, our enterprise-grade self sovereign identity and access management solution built on the W3C administered decentralized identifier standard. Examples include [Stedin’s identity and access management solution](https://medium.com/energy-web-insights/stedin-the-dutch-distribution-system-operator-announces-partnership-with-energy-web-to-explore-cd278623809b), [CAISO flex alert](https://medium.com/energy-web-insights/california-grid-operator-launches-new-demand-flexibility-platform-enhancements-to-flex-alert-system-e01ae8030da0), [and our work with Vodafone](https://medium.com/energy-web-insights/energy-web-announces-development-of-renewable-energy-ev-charging-with-vodafone-and-mastercard-94e1ac4c4aa1), [Kigen, and KORE wireless](https://medium.com/energy-web-insights/kore-collaborates-with-kigen-and-energy-web-to-provide-integrated-esim-based-trusted-identity-b22854958851).
-
-
 ### Authenteq
 
 * [Identity Masters Podcast](https://open.spotify.com/show/0NmFDoGu9zq3r1nmgjwkhQ)
   > At Authenteq, we spend a lot of time thinking and talking about how to make the internet a safer space. It’s also what drives our product roadmap and why we got into identity verification and e-KYC in the first place. As we work to democratize the knowledge we have access to, we know that for it to be truly accessible, we have to work with different formats. This is why we’re very excited to introduce the brand spanking new Identity Masters podcast now available on Spotify!
-
-### Lissi
-
-* [Lissi demonstrates authentication for Gaia-X Federation Services](https://lissi-id.medium.com/lissi-demonstrates-authentication-for-gaia-x-federation-services-819e9bbe70ad) Lissi ID
-  > Gaia-X creates an open, federated digital ecosystem for data infrastructure for decentralized cloud and edge workloads and data sharing capabilities. As part of the core services, the so-called Gaia-X Federation Services (GXFS) are targeting the areas of Identity & Trust, Federated Catalogue, Sovereign Data Exchange and Compliance as open-source reference implementations.
-* [Lissi Connect Demo](https://lissi-id.medium.com/lissi-connect-demo-d6db29db7755) <- in German
-  > The login is only the start of the mutual customer relationship users do not want to monitor and maintain dozens of communication interfaces, but prefer a solution that brings these aspects together. This includes not only login services, but also newsletters, information letters from the bank, digital proof of any kind and other relevant personal information. The media break and the fragmentation of the current systems poses a major challenge for users and organizations. However, once stored in the user's wallet, this information can be easily managed, sorted and presented as needed.
-* [The Lissi Wallet is now available in 12 languages!](https://lissi-id.medium.com/the-lissi-wallet-is-now-available-in-12-languages-f88e56b04e19)
-  > Lanugauges supported: Arabic • English • French • German • Italian • Korean • Polish • Portuguese • Russian • Romanian • Spanish • Turkish
-
-> the language is only a small part of the whole user experience. The task is to design a universal cockpit, which people can navigate regardless of their social background. Similar to a dashboard in a car, which doesn’t look too different wherever you go. In order to achieve this, we have to standardize the icons, colours and user-flows to a certain degree. However, on the other hand, they need to be adjusted to the target audience.
-
-### Walt ID
-
-* [The SSI Kit](https://walt.id/blog/p/ssi-kit) Walt ID
-  > The SSI Kit bundles three components, one for each functionality profile:
-  > 
-  > - Signatory ™ for Issuers enables organisations to transform any identity-related information into digital credentials in order to replace paper documents and automate data provision to stakeholders.
-  > - Custodian ™ for Holders enables individuals and organisations to securely store, manage and share keys and identity data via data hubs (“wallets”). (Web-Based wallet)
-  > - Auditor ™ for Verifiers enables organisations to verify identity data in order to authenticate or identify stakeholders and offer frictionless access to services or products.
-* [The Wallet](https://walt.id/blog/p/wallet) Walt
-  > This post introduces our new open source product: the Wallet, which enables developers and organisations to put Self-Sovereign Identity (SSI) into the hands and pockets of the people via easy-to-use applications.
-* [Me, myself and (SS)I Why everybody must have a Self-Sovereign Identity in 5 years](https://web-assets.bcg.com/6b/6d/84e00cad4c939c870d833b96321c/white-paper-me-myself-ssi.pdf)
-* [Open Policy Agent: Credential validation powered by the Open Policy Agent](https://docs.walt.id/v/ssikit/ssi-kit/open-policy-agent) Walt ID
-  > The Open Policy Agent ([https://www.openpolicyagent.org](https://www.openpolicyagent.org)) is an open source, general-purpose policy engine that unifies policy enforcement. OPA provides a high-level declarative language called [Rego](https://www.openpolicyagent.org/docs/latest/%23rego) that lets you specify policy as code in order to offload policy decision-making from your business logic.
+* [The Benefits of Automating Your Employees’ Identity Verification](https://authenteq.com/the-benefits-of-automating-your-employees-identity-verification/)
 
 ### darkmatterlabs
 
@@ -254,12 +213,7 @@ Switchboards, our enterprise-grade self sovereign identity and access management
 
 Self-sovereign objects are are self-executing and self-owning; capable of determining their own lifecycle to maximise material utility and performance whilst minimizing negative environmental impacts. Augmented by sensing capabilities and the ability to autonomously execute smart contracts, material objects could continuously monitor their own performance and contract for their maintenance, repair or recycling.
 
-### Ubisecure
-
-* [Digital identity in the UK in 2021 with TrueProfile.io’s René Seifert](https://www.ubisecure.com/podcast/digital-identity-uk-2021-ssi-trueprofile-rene-seifert/)
-
-“I think it’s interesting if we overlay this utopia of a self-sovereign identity that sounds maybe like science fiction today, and where these UK digital initiatives are geared, and my best guess is we can and will land somewhere in the middle.”
-
+### 
 ### Elastos
 * [Elastos DID: What’s Ahead for 2021](https://news.elastos.org/elastos-did-whats-ahead-for-2021/)
   > Tuum Tech is working on an Elastos DID-based application called Profile, a rising competitor to LinkedIn – in large part by leveraging Elastos DIDs. Unlike in conventional applications where data and identities are managed and controlled by centralized systems, users will retain full ownership of their data when using Profile.
@@ -282,10 +236,6 @@ Self-sovereign objects are are self-executing and self-owning; capable of determ
 * [Remittances Specialist Leverages Biometric Onboarding Via Onfido](https://findbiometrics.com/remittances-specialist-leverages-biometric-onboarding-via-onfido-050604/) Find Biometrics
 
 Chipper Cash has become the latest financial institution to adopt Onfido’s identity verification technology. The company currently operates one of the largest money transfer platforms in Africa, and is hoping
-
-### KYC CHain
-
-* [KYC-Chain & CrypTalk Join Hands](https://kyc-chain.com/kyc-chain-cryptalk-join-hands/)
 
 ### IDWorks
 
@@ -331,6 +281,7 @@ Blockchain-based Digital Identity specialist Talao, a Paris-based startup which 
 - Revocation of VCs: RevocationList2020
 - SDK development environment: PHP, Python, NodeJS, java, C, Flutter,…
 - Wallet templates: employer certificate, experience certificate, skills certificate, company pass , proof of email, proof of telephone, certificate of residence, loyalty card, diplomas, student card
+* [Blockchains in HR: Prosoon and Talao go together on SSI and HR credentials](https://medium.com/@talao_io/blockchains-in-hr-prosoon-and-talao-go-together-on-ssi-and-hr-credentials-3b92968011fe)
 
 
 ### Shyft
@@ -369,3 +320,16 @@ PUBLISH CEO Sonny Kwon gave an overview of a press ID app PUBLISH is building in
 * [PUBLISH to launch ‘PUBLISHiD’, blockchain-based authentication application, in September](https://medium.com/publishprotocol/publish-to-launch-publishid-blockchain-based-authentication-application-in-september-6b0394852fb3)
 
 PUBLISHiD users will further be able to assemble collections of verifiable credentials from one or more issuers into a single [verifiable presentation](https://www.w3.org/TR/vc-data-model/%23dfn-verifiable-presentations). Other features include DAuth-based authentication, single-sign on (SSO), and an agent ID service capable of handling the management of and security between credential issuers and verifiers.
+
+## Bosch
+* [Growing confidence is programmed in – how self-sovereign digital identities make business relationships easier](https://www.bosch.com/research/blog/economy-of-things/technology/%23ssi_) Bosch
+
+Bosch will now also systematically transfer the self-sovereign identity (SSI) principle to the B2B sector – in other words to business relationships between companies. A further step will involve transferring it to secure and trustworthy interactions between machines.
+* [Controlling Our ID with Self-Sovereign Identities](https://fromknowhowtowow.podigee.io/19-ssi) KnowHowToWow
+  > Bosch researcher Christian Borman explains how SSI will not only increase privacy but also have a positive impact on B2B interactions and supply chain management. Meanwhile, Geoff meets mentalist Thorsten Havener. Will he reveal Geoff’s true identity? 
+
+* [Digital identity – enabling secure collaboration with blockchain technology](https://www.bosch.com/stories/self-sovereign-identities/) Bosch
+* [Digital Wallets and Migration Policy: A Critical Intersection](https://www.bosch-stiftung.de/en/publication/digital-wallets-and-migration-policy-critical-intersection) ([Download](https://www.bosch-stiftung.de/sites/default/files/publications/pdf/2022-06/Digital%2520Wallets%2520and%2520Migration%2520Policy.pdf)
+
+In cross-border and migration contexts, digital wallets promise to have wide ranging implications for global governance, especially in identity management and finance. In this brief Margie Cheesman outlines use cases as well as concerns and risks when it comes to their adoption in the migration sector.
+

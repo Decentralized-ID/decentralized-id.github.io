@@ -13,14 +13,8 @@ While US-based entities are adhering to an enhanced regulatory framework, these 
 
 Since the same data is required and utilised by everyone, blockchain-based SSI can satisfy the demand for general service for data without creating competition while also adhering to legislation and consumer expectations around data protection.
 
-* [How LEIs streamline KYC](https://www.ubisecure.com/legal-entity-identifier-lei/lei-in-kyc/) Ubisecure
-
-Ubisecure brought innovation to the LEI market by automating LEI issuance. Revolutionising how quickly and effectively an LEI can be registered. While improving data accuracy along the way by connecting directly to business registries globally. This innovation has helped RapidLEI to become the #1 LEI Issuer globally, issuing about 1 in 4 new LEIs monthly, in just 3 short years.
 
 - [DIDComm for KYC](https://www.youtube.com/watch?v%3DPWrZxRbCG88)
-
-
-
 
 * [zkKYC A solution concept for KYC without knowing your customer, leveraging self-sovereign identity and zero-knowledge proofs](https://bafybeie5ixj4dkim3lgivkw56us6aakh6bc3dhlsx5zzohrkzgo3ywqqha.ipfs.dweb.link/zkKYC-v1.0.pdf)
 
@@ -28,9 +22,6 @@ The proposed solution concept, zkKYC, removes the need for the customer toshare 
 * [EIC Speaker Spotlight: Nat Sakimura](https://www.youtube.com/watch?v%3DQG_gkZkpJwQ) Introducing Gain • OpenID Foundation
 
 if you look at the the cost structure of the financial industry a lot of cost Is towards anti-money laundering and related activities and that actually is identity problem [...] we should try to solve the use case with a user centricity in mind
-* [Importance of an Integrated KYC solution for your compliance program](https://kyc-chain.com/importance-of-an-integrated-kyc-solution-for-your-compliance-program/) kyc-chain
-
-The way many businesses have traditionally implemented KYC is by taking a manual, fragmented approach – essentially implementing various different KYC processes using different tools, methods and resources, including human compliance teams.
 
 * [Forensic Investigative Report: Sanctioned Blockchain Addresses](https://www.coinfirm.com/blog/sanctioned-blockchain-addresses/) Coinfirm
 

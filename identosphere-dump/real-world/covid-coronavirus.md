@@ -130,10 +130,7 @@ In theory, their idea is great. In practice, it’s terrible. Or, as the Daily B
 9. [Governance Framework](https://wiki.trustoverip.org/display/HOME/Governance%2BFramework%2BDrafting%2BGroup) will define the overall set of policies that must be followed for an implementation to qualify as Good Health Pass compliant.
 * [Not too much identity technology, and not too little](https://www.constellationr.com/blog-news/not-too-much-identity-technology-and-not-too-little)
   > We should digitize nothing more and nothing less than the fact that someone received their vaccine.  A verifiable credential carrying this information would include the place, date and time, the type of vaccine, and the medico who administered or witnessed the shot.  The underlying technology should be robust, mature and proven at scale ― as is PKI and public key certificates
-* [3 key areas of enterprise blockchain adoption in 2021](https://www.ibm.com/blogs/blockchain/2021/04/3-key-areas-of-enterprise-blockchain-adoption-in-2021/) IBM
-  > Government policies vary on the topic, standards are only just starting to emerge, and citizens and enterprises are rightly focused on preserving privacy and equality with our national and international responses. IBM is supporting countries like Germany as well as the [State of New York](https://newsroom.ibm.com/New-York-State-and-IBM-Digital-Health-Pass-Pilot) to issue trusted, privacy-preserving [credentials](https://www.ibm.com/products/digital-health-pass).
 
-It’s also important to note that “health passports” exist on a spectrum of sophistication and in most cases do not yet include tethering to a verifiable personal ID capability
 * [Biometric COVID Verifiable Credential](https://iiw.idcommons.net/1A/_Biometric_COVID_Verifiable_Credential) by Adrian Gropper / Eric Welton
 
 * [Biometric Health Card  (Adrian Gropper)](http://bit.ly/biometricVC)
@@ -240,10 +237,7 @@ After all this is personal health information and therefore should be treated as
 What problem are we really trying to solve with a Covid Vaccine Passport, Covid Passport, ‘Covid’ credential, digital green certificate, or any other named health pass solution?
 
 To do this there needs to be a basic understanding of this infectious disease, what tools we have currently to deal with it and address assumptions that have been made, many of which may change or are yet unknown such is the dynamic nature of a pandemic.
-* [Why Digital Health Passes are the smart and responsible way forward - Blockchain Pulse](https://www.ibm.com/blogs/blockchain/2021/05/why-digital-health-passes-are-the-smart-and-responsible-way-forward/)
-  > Moving forward, as other states start to roll out their own [Health Pass solutions](https://www.ibm.com/products/digital-health-pass), it will be crucial to ensure interoperability between platforms. The emphasis on interoperability will allow other states Immunization Information Systems (ISS) to seamlessly connect with Excelsior Pass or any other digital health pass. We envision a future that will include multiple Health Pass solutions, giving organizations and consumers the ability to choose which to utilize.
-* [Moving forward with Digital Health Passes](https://www.ibm.com/blogs/blockchain/2021/05/why-digital-health-passes-are-the-smart-and-responsible-way-forward/)
-  > We envision a future that will include multiple Health Pass solutions, giving organizations and consumers the ability to choose which to utilize. This is why my team and I have put an emphasis on the interoperability of our solution. In addition, easy communication between state and federal health systems will reduce necessary investment and increase access to Digital Health Passes. In the near future we envision a user from any state being able to use their Health Pass in New York or any other state of their choice.
+
 
 * [Jumpstart the Global Travel Industry Using Self-Sovereign Identity for COVID-19 Immunity Credentials](https://www.tcs.com/perspectives/articles/self-sovereign-identity-implementation-travel-industry) TATA
 
@@ -267,8 +261,6 @@ Already today, credentials are being used in a wide variety of applications, suc
   > But who is the “we”? The research asks exactly that — who is the “we” that needs to [make the platform work better for women](https://medium.com/caribou-digital/female-livelihoods-in-the-gig-economy-tensions-and-opportunities-f14982b6aaad)?
 * [How festival organisers can maximise Covid safety and eradicate ticket touts](https://blokbioscience.com/articles/how-festival-organisers-can-maximise-covid-safety-and-eradicate-ticket-touts/%23respond)
   > Festival organisers will also need to do better at managing delays than other sectors. In recent weeks, we’ve seen [Heathrow airport reporting delays of up to six hours](https://www.bbc.co.uk/news/business-56743571). This would be catastrophic at a festival – to keep festival goers waiting, after they have already waited for months to have a great time, would only lead to frustration and likely cause a bad reputation for the festival itself.
-* [Verify Vaccination Data Using Zero Knowldege Proofs with ASP.Net Core and Mattr](https://damienbod.com/2021/05/31/verify-vaccination-data-using-zero-knowledge-proofs-with-asp-net-core-and-mattr/)
-  > This article shows how Zero Knowledge Proofs ZKP verifiable credentials can be used to verify a persons vaccination data implemented in [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core) and [MATTR](https://mattr.global/). The ZKP BBS+ verifiable credentials are issued and stored on a digital wallet using a Self-Issued Identity Provider (SIOP) and Open ID Connect. The data can then be used to verify if the holder has the required credentials, but only the required data is used and returned to the verification application.
 * [JWTs done right: Quebec's proof of vaccination](https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/)
   > Well, my proof of vaccination finally arrived, and the result is… actually pretty okay. Still, there's always some fun to be had in zero-knowledge hacks, so I thought I'd blog about my experiences anyway.
 * [PocketCred Verifiable Credentials](https://www.pocketcred.com/)
@@ -327,11 +319,9 @@ Dylan realizes that the identified design requirements correspond to properties 
 * [— Part 3/3](https://medium.com/@frank.k./iot-network-security-protecting-covid-19-vaccines-with-ssi-part-3-identity-management-87c480fb8007)
 
 Dylan has identified the requirements towards their IoT network and possible secure network architectures. Still, two challenges remain unsolved: the configuration effort required to setup device APIs and communication protocols, and the question of how to securely identify and authenticate the devices.
-* [Blockchain newsletter: Emerging coronavirus variants spur blockchain innovations in healthcare](https://www.ibm.com/blogs/blockchain/2021/09/blockchain-newsletter-emerging-coronavirus-variants-spur-blockchain-innovations-in-healthcare/)
 
-Get a first look at the Gartner report for decentralized identity and verifiable claims. Access promising use cases, risks and considerations, and expert recommendations on creating value for a fully decentralized future.
 
-Here’s your complimentary access to [Gartner’s Innovation Insights](https://www.ibm.com/account/reg/subscribe?formid%3Durx-51223).
+
 * [Ugh! There's an App for That!](https://www.windley.com/archives/2021/10/ugh_theres_an_app_for_that.shtml) <-Phil Windley on Vaccine certificates.
 
 Interoperability is a fundamental property of tech systems that are generative and respect individual privacy and autonomy. And, as a bonus, it makes people's live easier!
@@ -339,9 +329,6 @@ Interoperability is a fundamental property of tech systems that are generative a
 * [Building an SSI Ecosystem: Health Passes and the Design of an Ecosystem of Ecosystems](https://www.windley.com/archives/2021/06/building_an_ssi_ecosystem_health_passes_and_the_design_of_an_ecosystem_of_ecosystems.shtml) Windley
 
 Ever since the Covid pandemic started in 2020, various groups have seen verifiable credentials as a means for providing a secure, privacy-respecting system for health and travel data sharing. This post explores the ecosystem of ecosystems that is emerging as hundreds of organizations around the world rise to the challenge of implementing a globally interoperable system that also respects individual choice and privacy.
-* [What is a vaccine passport?](https://www.ibm.com/topics/vaccine-passport) IBM
-
-A vaccine passport is a physical or digital health credential to confirm a person has been vaccinated for a particular contagious disease to enable travel.
 
 * [The Vaccine Certificate Experience](https://www.webistemology.com/vaccine_certificate_experience/) WEBISTEMOLOGY
 
@@ -388,20 +375,6 @@ Together SITA and Indicio.tech utilized Hyperledger Aries, Ursa, and Indy to cre
 * [Blueprint for a Digital Health Pass](https://www.kuppingercole.com/blog/bailey/blueprint-for-a-digital-health-pass) Kuppinger Cole
 
 Binding an identity to a Verifiable Credential remains valid beyond the point of verification by being able to match a real-time biometric data point with one which was logged at the point of verification
-* [New York’s Vaccine Passport Could Cost Taxpayers $17 Million](https://www.nytimes.com/2021/06/09/nyregion/excelsior-pass-vaccine-passport.html?referringSource%3DarticleShare)
-
-The state’s contract with IBM details a Phase 2 of the Excelsior Pass, which could include uses that some advocates say raise privacy concerns.
-
-* [SSI COVID Passports: Why, What and How](https://noha-abuaesh.medium.com/ssi-covid-passports-why-what-and-how-6f450fddfabf) Noha Abuaesh
-
-What if people can prove their COVID status to different entities, prove that they are authentic and prove they were intended for them, without having to reveal any of their personal information; not even their names?
-
-* [VeriFLY Lets Users Upload Vaccine Credentials](https://findbiometrics.com/verifly-lets-users-upload-vaccine-credentials/) FindBiometrics
-
-“We envision a world where your VeriFLY digital wallet will provide access to the places you and your family want to visit. And the ability to accept a vaccine health credential will accelerate opportunities to resume activities we’ve all dearly missed.”  – Tom Grissen, CEO, Daon
-
-* [IATA’s digital health passport paves the way to a new biometric identity for travel](https://www.futuretravelexperience.com/2021/04/iatas-digital-health-passport-paves-the-way-to-a-new-biometric-identity-for-travel/)
-  > As FTE has previously reported, a number of other solutions have entered the digital health passport space in the past few months from various suppliers, including AOKpass, CommonPass, Daon’s VeriFLY, CLEAR Health Pass and IBM Digital Health Pass, just to name a few. Despite the growing competition, IATA is clear that its aim is not to dominate the market, but to make sure that standards are established to create a secure and interoperable solution.
 
 * [Setting up digital ID regime could provide boost to post-pandemic recovery](https://diacc.ca/2021/04/22/setting-up-digital-id-regime-could-provide-boost-to-post-pandemic-recovery/)
   > If the global pandemic has shown us anything, it’s that the need for reliable and secure data is paramount as businesses, governments, and Canadians from Vancouver to Quebec City to Charlottetown and everywhere in between move online.
@@ -417,17 +390,22 @@ What if people can prove their COVID status to different entities, prove that th
 > 
 > Our solution provides a platform for achieving exactly this, both in terms of equipping Scotland with a powerful integrated data environment and also through a framework where developers can further build on this with other apps for a myriad of other use cases. It could be tied in with the [vaccination scheduling system](https://www.ukauthority.com/articles/nhs-scotland-launches-digital-service-for-covid-19-vaccinations/) as an immediate step for example.
 
-### On Tuesday, the [Good Health Pass Collaborative](https://www.goodhealthpass.org/) (GHPC) [launched](https://medium.com/id2020/good-health-pass-a-new-cross-sector-initiative-to-restore-global-travel-and-restart-the-global-8b59eb1050a0).
 
-> ID2020 announced the launch of the Good Health Pass Collaborative along with more than 25 leading individual companies and organizations in the technology, health, and travel sectors — including the Airports Council International (ACI), Commons Project Foundation, Covid Credentials Initiative, Evernym, Hyperledger, IBM, International Chamber of Commerce (ICC), Linux Foundation Public Health, Lumedic, Mastercard, Trust Over IP Foundation, and others.
+* [SSI COVID Passports: Why, What and How](https://noha-abuaesh.medium.com/ssi-covid-passports-why-what-and-how-6f450fddfabf) Noha Abuaesh
 
+What if people can prove their COVID status to different entities, prove that they are authentic and prove they were intended for them, without having to reveal any of their personal information; not even their names?
+
+* [VeriFLY Lets Users Upload Vaccine Credentials](https://findbiometrics.com/verifly-lets-users-upload-vaccine-credentials/) FindBiometrics
+
+“We envision a world where your VeriFLY digital wallet will provide access to the places you and your family want to visit. And the ability to accept a vaccine health credential will accelerate opportunities to resume activities we’ve all dearly missed.”  – Tom Grissen, CEO, Daon
+
+* [IATA’s digital health passport paves the way to a new biometric identity for travel](https://www.futuretravelexperience.com/2021/04/iatas-digital-health-passport-paves-the-way-to-a-new-biometric-identity-for-travel/)
+  > As FTE has previously reported, a number of other solutions have entered the digital health passport space in the past few months from various suppliers, including AOKpass, CommonPass, Daon’s VeriFLY, CLEAR Health Pass and IBM Digital Health Pass, just to name a few. Despite the growing competition, IATA is clear that its aim is not to dominate the market, but to make sure that standards are established to create a secure and interoperable solution.
 * [Working Together on What “Good” Looks Like](https://www.hyperledger.org/blog/2021/02/12/working-together-on-what-good-looks-like) - Hyperledger
   > This initiative is intended to define, in the context of test results and vaccination records for opening up borders for travel and commerce, a high bar for implementations of identity and credentialing systems to meet with regards to privacy, ethics and portability. They will also work with the implementers of such systems to converge towards common standards and governance.
-* [Digital Health Pass](https://www.ibm.com/products/digital-health-pass) IBM
-  > the digital wallet can allow individuals to maintain control of their personal health information and share it in a way that is secured, verifiable, and trusted.  Individuals can share their health pass to return to the activities and things they love, without requiring exposure of the underlying personal data used to generate the credential.
 
-* [Microsoft joins coalition to accelerate the release of COVID-19 Vaccine Passports](https://mspoweruser.com/microsoft-covid-19-vaccine-passports/)
-  > VCI coalition members are working to enable digital access to vaccination records using the open, interoperable SMART Health Cards specification, based on W3C Verifiable Credential and HL7 FHIR standards. The VIC will enable individuals to obtain an encrypted digital copy of their immunization credentials to store in a digital wallet of their choice. Those without smartphones could receive paper printed with QR codes containing W3C verifiable credentials.
+
+
 * [Vaccination Certificate Vocabulary](https://lists.w3.org/Archives/Public/public-credentials/2021Feb/0069.html) Tobias Looker
   > I'd like to propose a new work item that formally defines a vocabulary for issuing Vaccination Certificates in the form of Verifiable Credentials.
 
@@ -503,6 +481,11 @@ ZADA apps are all launched and our first digital ID – a COVIDPASS – is being
 The DIVOC project is hosted and maintained by [India’s eGov Foundation](https://egov.org.in/) and is available as an MIT-licensed open source software package DIVOC is also supported by various multilateral funding institutions, as well as a community of software contributors and adopters in various geographies. DIVOC’s verifiable COVID credentials have also been tested for interoperability with several consumer-health and locker applications globally; and DIVOC’s certificates from the adopter countries can now be scanned/read/ingested by these domestic and international applications.
 * [From Closed Loop Systems to Open World COVID Credentials Exchange](https://www.lfph.io/wp-content/uploads/2021/04/CCI-Summit-Summary-Report-From-Closed-to-Open.pdf) CCI Report
   > This summit, convened by CCI, was designed to beginarticulating a roadmap to get from closed loop systems to an open systemwhere it doesn’t matter if issuers, holders and verifiers are using the tool provided by the same solution provider as long as all solution providers are building on a certain common ground.The discussion focused on domestic reopening use cases using the US as the context.
+
+* [Governor Cuomo Announces Launch of Excelsior Pass Plus to Support the Safe, Secure Return of Tourism and Business Travel](https://www.governor.ny.gov/news/governor-cuomo-announces-launch-excelsior-pass-plus-support-safe-secure-return-tourism-and) NYS Gov
+
+Excelsior Pass Plus, a result of the strategic partnership between New York State and VCI, will provide New Yorkers safe access to retrieve a secure, digital copy of their COVID-19 vaccination record using the [SMART Health Cards Framework](https://protect2.fireeye.com/v1/url?k%3Dc0acc09b-9f37f85c-c0ae39ae-000babd9f75c-7271080d81ab95a1%26q%3D1%26e%3D61cb6a92-1e48-44b8-96be-e1dd24b53960%26u%3Dhttps%253A%252F%252Fvci.org%252Fabout%2523smart-health) - making their interstate and international travel and commerce experiences safer, contact-less, and more seamless.
+
 * [Use Case Implementation Workstream](https://covidcreds.groups.io/g/usecaseCCI) [usecaseCCI@covidcreds.groups.io](mailto:usecaseCCI@covidcreds.groups.io)
 
 This is the Use Case Implementation Workstream of the [COVID Credentials Initiative (CCI)](https://www.covidcreds.com/). This workstream identifies privacy-preserving verifiable credentials (VCs) that are most useful to the COVID-19 response and provides a forum and platform for those who are implementing COVID VCs to present their projects/solutions.

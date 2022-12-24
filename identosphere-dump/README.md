@@ -224,7 +224,6 @@
 - Companies (Needs sub-category for this)
   - Microsoft - Azure / Entra
   - EU SSI Startups  ✓
-    - GATTCA  ✓
     - MyDex  ✓
     - MeeCo  ✓
     - JoloCom  ✓
@@ -234,6 +233,7 @@
   - US SSI Startups  ✓
     - DocK  ✓
     - Anonoyome  ✓
+    - Gatca  ✓
     - GlboalID  ✓
     - Hyland  ✓
     - Magic  ✓
@@ -241,6 +241,7 @@
     - Indicio  ✓
     - UNUM  ✓
     - Animo  ✓
+    - Mattr  ✓
     - Liquid Avatar  ✓
     - Hedera  ✓
     - IOTA  ✓
@@ -251,7 +252,6 @@
   - Asia SSI Startups  ✓
     - Afinidi  ✓
     - ZADA  ✓
-    - Mattr  ✓
     - Dihway  ✓
     - Ayanworks  ✓
     - NewLogic  ✓

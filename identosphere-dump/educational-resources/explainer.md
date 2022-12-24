@@ -46,8 +46,6 @@ The Models: Space Time • Presentation • Attribute • Relationship • Capab
   > Problem 1: CENTRAL AUTHORITY CONTROLS ALL DATA\
   > Problem 2: NUMEROUS SIGNUPS WITH SAME DATA\
   > Problem 3: INCONVENIENCE OF ONLINE FORMS
-* [Digging Deeper into Self-sovereign Identity and Access Management](https://medium.com/energy-web-insights/digging-deeper-into-self-sovereign-identity-and-access-management-e6eefbac631e)  Energy Web Foundation
-  > What we’d like to highlight in this simplified process is the fact that it is the user who stores the claim and anchors it on chain. Also, because it is a private claim, the contents are provable but not disclosed. The user can therefore prove that they have been granted a certain privilege, but unless they elect to disclose this information, it is impossible for a third party to find out.
 * [The Implications of Bring Your Own Identity](https://www.idsalliance.org/blog/2020/12/03/the-implications-of-bring-your-own-identity/) Identity Defined Security Alliance
   > My short stint as “Mark Jannell" taught me a lot of about trust and ease of use in a bring your own identity model. Trust, as always in security, is essential to this new class of relationships and must be established and then protected from abuse. Ease of use, it turns out, is a key factor in protecting that trust and promoting the adoption of good identity patterns. I’m sure that I could have learned these lessons in some other way, but I’ll never forget my half year answering to a pseudonym.
 * [Blockchain is the Least Interesting Thing About Self-sovereign Identity](https://medium.com/trinsic/blockchain-is-the-least-interesting-thing-about-self-sovereign-identity-75c1b56ce497) Riley Huges
@@ -86,8 +84,6 @@ An answer to these challenges is an ecosystem in which digital identity data can
   > In this article, I will do my best to explain self-sovereign identity from the end-user perspective, without any technicalities.
 * [Self Sovereign Identity Systems](https://yathartharora.substack.com/p/self-sovereign-identity-systems) - [The Passion Pad](https://yathartharora.substack.com)
   > We should have the right to manage our identity, free of any country or the place where we live. By giving this right to the government or any central authority, we give them much more power. Separating data rights from the actual data is important. User should have the right to decide who should have the access to his/her data.
-* [Digital Identity, use Verifiable Credentials with Blockchain](https://officegarageitpro.medium.com/digital-identity-use-verifiable-credentials-with-blockchain-e3927e7b3cfc)
-  > a special edition of Microsoft Mechanics with Microsoft’s Identity CVP Joy Chik, to cover a brand new solution called Verifiable Credentials that uses blockchain-based underpinnings and cryptographic keys to ensure that you’re in control of your own identity online
 * [The Principles of User Sovereignty](https://uxdesign.cc/the-principles-of-user-sovereignty-515ac83401f6) and 
 
 * [Why Distributed Ledger Technology (DLT) for Identity?](https://www.hyperledger.org/blog/2021/04/21/why-distributed-ledger-technology-dlt-for-identity)
@@ -171,9 +167,7 @@ OmniOne comes from the willingness to help transition from a service-centric ide
 * [To Better Understand Digital Identity, Look to Physics](https://www.pingidentity.com/en/company/blog/posts/2021/digital-identity-physics.html) Ping
 
 In chaotic systems such as those that the discipline of physics seeks to describe, there is also the concept of the “self-organizing principle,” which dictates a tendency for chaotic systems to organize themselves. While this might be a tendency in physics, organization usually needs a nudge in the right direction in the identity world. Proper attention to requirements and a good change control process are a crucial part of the equation.
-* [Blockchain Identity Management: The Definitive Guide (2021 Update)](https://tykn.tech/identity-management-blockchain/) TYKN
 
-In this blog our team of experts examine what blockchain is, what benefits it brings to identity management, the role of cryptography and zero-knowledge proofs, why it’s a terrible idea to put personal data on the blockchain and much more.
 * [Why self-sovereign identity matters](https://medium.com/global-id/why-self-sovereign-identity-matters-8fd2c982ca2e) GlobalID
 
 your digital identity represents you as a unique real-life person in a secure digital format. In fact, we likely have many different virtual identities across a spectrum of platforms and services.
@@ -214,8 +208,7 @@ The EBC team had an insightful conversation with Ivan Basart, CTO at Validated I
 * [Decentralized identity can bring the analog world into the digital one](https://cointelegraph.com/news/decentralized-identity-can-bring-the-analog-world-into-the-digital-one) Cointelegraph
 
 DID does not require analog objects to become digitized, and it does not need expensive sensors or hi-tech tags to work correctly. Instead, it offers an affordable, reliable and versatile way to take offline items out of the digital blindspot.
-* [Self-Sovereign Identity: The Ultimate Beginners Guide!](https://tykn.tech/self-sovereign-identity/) TYKN
-  > A secure and digital peer-to-peer channel is established between ID Issuer, ID Owner and ID Verifier. When credentials are exchanged not even the Self-Sovereign Identity system provider knows what is being exchanged. Credential issuing becomes simpler and faster.
+
 * [Self-Sovereign Identity: What’s the Big Deal?](https://hackernoon.com/self-sovereign-identity-whats-the-big-deal-6i1a37z3) Hackernoon \ Affinidi
   > Do you know where your digital credentials like your full name, date of birth, phone number, government ID, and other Personally Identifiable Information (PII) are stored online, and how they are used?
   * [Bright Story: Self Sovereign Identity](https://www.brightlands.com/brightlands-smart-services-campus/bright-story-self-sovereign-identity) Brightlands ([EN](https://translate.google.com/translate?sl%3Dauto%26tl%3Den%26u%3Dhttps://www.brightlands.com/brightlands-smart-services-campus/bright-story-self-sovereign-identity))
@@ -340,6 +333,9 @@ I based my findings after implementing and testing solutions and wallets with th
 - Different Wallets like [Lissi](https://lissi.id/)
 * [How Decentralized Identifiers and Bitcoin Fix the Web](https://bitcoinmagazine.com/technical/dids-built-on-bitcoin-fix-the-web) Bitcoin Magazine
 
+
+
+
 On October 4, 2021, Facebook, along with WhatsApp and Instagram, [disappeared from the internet](https://blog.cloudflare.com/october-2021-facebook-outage/).
 
 Their DNS names stopped resolving, and their infrastructure IPs were offline. They were completely disconnected from the internet. At the same time, it was reported that [1.5 billion people allegedly had their personal data stolen from Facebook](https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/) and posted for sale.
@@ -426,9 +422,7 @@ Solving the identity paradox: the tradeoff between privacy, security, & user exp
 
 As we’ve moved more and more online, digital platforms and processes have failed to keep up. We can’t trust them to collect, store or share our personal information safely. In fact, consumers’ information is frequently abused and misused without our knowledge or consent.
 
-* [The internet’s next step: The era of digital credentials](https://www.ibm.com/blogs/blockchain/2021/12/the-internets-next-step-the-era-of-digital-credentials/) IBM
 
-Imagine being able to rid your wallet of a driver’s license, an [insurance](https://www.ibm.com/blockchain/industries/insurance) card, a student or employee ID and more. Imagine not having to worry about losing your passport and [vaccination records](https://www.ibm.com/blockchain/covid19) on a trip abroad, or about the authenticity of the designer shoes you just purchased
 
 * [Self-Sovereign Identities in Productive Systems - A Reality Check](https://www.youtube.com/watch?v%3DbRmhIL9sdd0) Frankfurt School Blockchain Center
 
@@ -596,17 +590,11 @@ Self-sovereign identity Definition <-its quite good
 
 Self-sovereign identity (SSI) is rooted in the belief that individuals have the right to an identity independent of reliance on a third-party identity provider, such as the state or any other central authority. Its implementation requires the development of technical standards, as well as socio-political adaptations rooted in legal amendments in order to be successful.
 
-* [#SSI101: An Introductory Course on Self-Sovereign Identity](https://medium.com/spherity/ssi101-an-introductory-course-on-self-sovereign-identity-the-spherity-way-19e0d1de3603) Spherity
-
-Outside of a few philosophers, social scientists, and a tiny minority of specialized technologists, however, most people feel uncomfortable making any definitive or authoritative statements about identity.
 
 * [SSI: self-sovereign identity explained](https://medium.com/geekculture/ssi-self-sovereign-identity-explained-b7d8cb9ae9c0) Cheqd
+  > Unlike the existing system, it’s a user-centric and user-controlled approach to exchanging authentic data in a much more secure way. Authentic data is information that’s source can be proven.
 
-Unlike the existing system, it’s a user-centric and user-controlled approach to exchanging authentic data in a much more secure way. Authentic data is information that’s source can be proven.
 
-* [Self-sovereign identity: Why blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/) Dan Gisolfi, IBM
-
-blockchain provides a transparent, immutable, reliable and auditable way to address the seamless and secure exchange of cryptographic keys. To better understand this position, let us explore some foundational concepts.
 * [Passwordless Authentication – Everything You Need to Know](https://imageware.io/passwordless-authentication/)
 
 When it comes to authentication, passwords were once the safest and most used methods of authentication
@@ -636,7 +624,7 @@ Multi-factor authentication takes it step further by requiring users to provide 
 * [Challenges to Self Sovereign Identity](https://damienbod.com/2021/10/11/challenges-to-self-sovereign-identity/) Damien Bod
 
 The article goes through some of the challenges we face when using or implementing identity, authentication and authorization solutions using self sovereign identity. I based my findings after implementing and testing solutions and wallets with the following SSI solution providers: Trinsic MATTR.global Evernym Azure Active Directory Verifiable Credentials Different Wallets like Lissi SSI
-* [Microsoft's 5 guiding principles for decentralized identities](https://www.microsoft.com/security/blog/2021/10/06/microsofts-5-guiding-principles-for-decentralized-identities/)
+
 
 * [Our Ultimate Guide to Authentication: Types, Mechanisms, Forms, Protocols and More](https://www.pingidentity.com/en/company/blog/posts/2021/ultimate-guide-authentication.html) Ping Identity
 
@@ -775,44 +763,17 @@ This is excellent work, with lots of references, by Dr. Nuttawut Kongsuwan ([Fin
 
 What is the value of Self-Sovereign Identity (SSI) for organisations and citizens? What are the current initiatives and traction of SSI in South Africa? What are the economic benefits and the hurdles to SSI adoption in South Africa?
 
-* [Why decentralization is the future of digital identities](https://www.microsoft.com/security/blog/2022/03/10/why-decentralization-is-the-future-of-digital-identities/) Microsoft
 
-Turning credentials into digital form isn’t new, but decentralizing identity goes beyond that. It gives individuals the ability to verify their credentials once and use them anywhere as proof of attestation.
-
-* [The Pilot Playbook. Building Pilots with Self-Sovereign Identity](https://static1.squarespace.com/static/609c0ddf94bcc0278a7cbdb4/t/623434e67e0bf028a069dd44/1647588583759/The%2BPilot%2BPlaybook_Building%2BPilots%2Bwith%2BSelf-Sovereign%2BIdentity%2B%257C%2Bby%2Bwalt.id.pdf) walt.id
-
-1. Identify use cases: A framework and examples will help you discover opportunities to create value for your organisation and stakeholders.
-2. Select use cases: A matrix and different selection criteria will help you analyze and prioritize opportunities based on your strategy and requirements.
-3. Select ecosystems: An elaboration of identity ecosystems and a simple approach for selecting the right one(s) based on your organisation’s operating model.
-4. Plan your Implementation: Guidance for setting project requirements, technology selection and answering the question of “buy or build”.
-5. Implement your Pilot: Tips to make sure you get the most out of your pilot project
 
 
 New [major white paper](https://www.blockchainresearchinstitute.org/project/self-sovereign-identity) by Phil Windley with the Blockchain Research Institute
 
 the relationship view of identity, the nature of authentic digital relationships, the trust bases of identity systems, and the architecture of the identity metasystem, including decentralized identifier communication and the self-sovereign Internet. He then explores how to operationalize digital relationships and the potential of generative identities (e.g., verifiable credentials) and credential exchange. He concludes with a deep dive into self-sovereign identities in production: the UK National Health Service staff passport, Bonifii’s MemberPass for credit unions, the International Air Transport Association Travel Pass, and others.
 
-
 * [The Era of Self-Sovereign Identity](https://www.chakray.com/era-self-sovereign-identity/) ChakRay
 
 Similar actions conducted in person do not represent the same amount of risk. For example, if someone asks you to verify your identity, we show our ID or driver’s license, and when you pay at the store, you provide your bank card. In this way, the control and the ownership of the data stays with you.
 
-
-Part I: [The Five Guiding Principles](http://aka.ms/identityprinciples)
-
-Secure, Private, Available, Supervisable, Sustainable
-
-Part II: [The Direct Presentation model](https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-direct-presentation-model/ba-p/3071981)
-
-A credential is issued, and then held for a long period of time with intermittent voluntary presentations to many different verifiers.
-
-Part III: [Decentralized Identity: The Basics of Decentralized Identity](https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-basics-of-decentralized-identity/ba-p/3071980)
-
-At the most basic level, decentralized identity is the story of three standardized documents: a proclamation, a letter of introduction, and an endorsement.
-
-Part IV: Deep Dive: Verifiable Credentials
-
-Part V: Deep Dive: Anchored Decentralized Identifiers
 
 
 
@@ -964,7 +925,6 @@ data security is about system-wide design, where many different elements need to
 
 * [Understanding Online Identity](https://educatedguesswork.org/posts/understanding-identity/) EducatedGuessWork (broad contextualization)
 
-* [Decentralized Identity: The Basics of Decentralized Identity](https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-basics-of-decentralized-identity/ba-p/3071980) Microsoft
 
 * [ISO/TR 23249:2022 – Overview of existing DLT systems for identity management](https://www.iso.org/standard/80805.html) ISO
 
@@ -1003,12 +963,7 @@ How is it possible that the Internet has spread and developed to such an extent,
 
 Decentralized identity (DID) is a way for users to own their identity, using specific credentials to verify their identity to applications. These credentials, called Verifiable Credentials, enable you to do this. Verifiable Credentials are identity attestations that come from a trusted issuer, like proof of a workplace, student IDs, or official memberships.
 
-* [vLEI 101 – the Verifiable Legal Entity Identifier](https://www.ubisecure.com/legal-entity-identifier-lei/vlei-101/) Ubisecure
 
-We’ve been involved in some really cool work over the last few weeks focusing on the issuance of vLEIs and associated role credentials. Specifically, Ubisecure was the credential issuer for the GLEIF’s vLEI proof of concept project and issued the world’s first vLEI to the GLEIF, which was then used to sign the GLEIF’s 2021 annual report.
-
-- [Read full vLEI press release](https://www.gleif.org/en/newsroom/press-releases/gleif-showcases-one-digital-id-for-every-business-globally-with-first-verifiable-lei-deployment)
-- [View vLEI role-based signatures in the 2021 GLEIF Annual Report](https://weboftrust.github.io/vLEI/ixbrl-report-2021-viewer.html%23)
 
 * [SSI 101: Online identity and the history of identifiers](https://medium.com/hypersign/ssi-101-online-identity-and-the-history-of-identifiers-963bff60c816) Hypersign
 
@@ -1046,17 +1001,17 @@ The DID model allows you to establish a relationship between your private key (y
 
 * [How Self-Sovereign Identity Works with Trinsic's Riley Hughes](https://growth.georgian.io/c/how-self-sovereign-identity-works-with-trinsics-riley-hughes) Georgian
 
-●  What is identity?
+*  What is identity?
 
-●  The different ways Trinsic can be used by developers.
+*  The different ways Trinsic can be used by developers.
 
-●  Ways to disrupt or democratize the current model of identity.
+*  Ways to disrupt or democratize the current model of identity.
 
-●  Decentralized identity and its many use cases.
+*  Decentralized identity and its many use cases.
 
-●  The continued need for anonymity in a digital identity world.
+*  The continued need for anonymity in a digital identity world.
 
-●  How identity will evolve with web 3 and the metaverse.
+*  How identity will evolve with web 3 and the metaverse.
 
 
 - [The Use of Self-Sovereign Identity With Zero-Knowledge Proof (ZKP)](https://medium.datadriveninvestor.com/self-sovereign-identity-with-zero-knowledge-proof-9a05f36f16da) Data Driven Investor
@@ -1120,7 +1075,6 @@ recently-released ‘[Crypto in KYC – Growth through trust’](https://www.idn
 - [Drawbacks of Traditional Identifiers and An Introduction to WEB3](https://medium.com/hypersign/ssi-101-part-2-drawbacks-of-traditional-identifiers-and-an-introduction-to-web3-a1bf791819b0) Hypersign
 - [Digital Identity: Past; Present; Future](https://labs.hypersign.id/posts/ssi-intro/) Hypersign
 - [In-depth introduction to Self Sovereign Identity (SSI)](https://labs.hypersign.id/posts/ssi-detail/) Hypersign
-- [vLEI 101 – Issuance and Wallets](https://www.ubisecure.com/legal-entity-identifier-lei/vlei-101-issuance-and-wallets/) ubisecure
 - [GlobaliD 101: ID wallets](https://medium.com/global-id/globalid-101-id-wallets-68fa77e6d0d7) GlobalID
 - [Future with Decentralized Identity](https://blog.sparkplustech.com/future-with-decentralized-identity/) SparkPlusTech
 - [The changing landscape of digital identity](https://www.tcs.com/digital-identity-consent-management-solution) by Tata Consultancy Services
@@ -1128,13 +1082,9 @@ recently-released ‘[Crypto in KYC – Growth through trust’](https://www.idn
 
 - [Future with Decentralized Identity](https://blog.sparkplustech.com/future-with-decentralized-identity/) SparkPlusTech
 - [The changing landscape of digital identity](https://www.tcs.com/digital-identity-consent-management-solution) by Tata Consultancy Services
-- [vLEI 101 – Issuance and Wallets](https://www.ubisecure.com/legal-entity-identifier-lei/vlei-101-issuance-and-wallets/) ubisecure
 - [GlobaliD 101: ID wallets](https://medium.com/global-id/globalid-101-id-wallets-68fa77e6d0d7) GlobalID
 
 
-* [Verifiable Credentials – how does it work? Understanding key VC principles](https://www.ubisecure.com/identity-management/verifiable-credentials-understanding-key-principles/) Ubisecure
-
-The Verifiable Credentials specification by W3C provides a way to express credentials on the web. In this article I’m giving an overview of components and terminology related to VCs, and also some information about other technologies and specifications that are needed when implementing Verifiable Credentials.
 
 * [Identity Insights - Basics of Verifiable Credentials](https://www.youtube.com/watch?v%3DRCCatllgNv4) Indicio, Youtube
 
@@ -1155,44 +1105,36 @@ So I propose this outermost framework to help us think about how to interact wit
 
 Even though some questions are still unanswered, self-sovereign identities will unlock enormous economic value. If you want to get some initial experience with SSI you can try the available open-source technologies. A successful proof of concept will enable companies to see the possibilities of the new technology and harness this potential more effectively.
 
-* [Digital identity – enabling secure collaboration with blockchain technology](https://www.bosch.com/stories/self-sovereign-identities/) Bosch
+* [What is decentralized identity in blockchain?](https://cointelegraph.com/explained/what-is-decentralized-identity-in-blockchain) Cointelegraph
 
-● [What is decentralized identity in blockchain?](https://cointelegraph.com/explained/what-is-decentralized-identity-in-blockchain) Cointelegraph
+* [Are Self-Sovereign Identities on blockchain technology the future?](https://kookcontent.business.blog/2022/09/01/are-self-sovereign-identities-on-blockchain-technology-the-future/) Kook Content
 
-● [Are Self-Sovereign Identities on blockchain technology the future?](https://kookcontent.business.blog/2022/09/01/are-self-sovereign-identities-on-blockchain-technology-the-future/) Kook Content
+* [Self-sovereign identity: an ecosystem of digital identities](https://www.ergon.ch/en/news/2022/self-sovereign-identity-an-ecosystem-of-digital-identities) Ergon
 
-● [Self-sovereign identity: an ecosystem of digital identities](https://www.ergon.ch/en/news/2022/self-sovereign-identity-an-ecosystem-of-digital-identities) Ergon
+* [Self-Sovereign Identity Explained](https://zaisan.io/self-sovereign-identity-explained/) Zaisan
 
-● [Self-Sovereign Identity Explained](https://zaisan.io/self-sovereign-identity-explained/) Zaisan
-
-● [The Top Five Misconceptions around Self-Sovereign Identity (SSI)](https://digitalstationeryconsortium.org/the-top-five-misconceptions-around-self-sovereign-identity-ssi/)
+* [The Top Five Misconceptions around Self-Sovereign Identity (SSI)](https://digitalstationeryconsortium.org/the-top-five-misconceptions-around-self-sovereign-identity-ssi/)
 
 We all have a cybersecurity problem, and SSI represents the most current thinking to address it.  For that reason, we believe that SSI is not just another technology.
 
-● [GlobaliD 101: Bring Your Own Identity](https://medium.com/global-id/globalid-101-bring-your-own-identity-5b9927008190)
+* [GlobaliD 101: Bring Your Own Identity](https://medium.com/global-id/globalid-101-bring-your-own-identity-5b9927008190)
 
-● [Part 1:](https://medium.com/global-id/globalid-101-how-digital-identity-should-work-fc53ede7b86f) What a smart and humanistic approach to digital identity would like
+* [Part 1:](https://medium.com/global-id/globalid-101-how-digital-identity-should-work-fc53ede7b86f) What a smart and humanistic approach to digital identity would like
 
-● [Part 2:](https://medium.com/global-id/globalid-101-what-is-the-trust-triangle-260e85e1c640) The Trust Triangle — the system of issuers, holders, and verifiers that illustrates how identity works (and how it’s broken, today)
+* [Part 2:](https://medium.com/global-id/globalid-101-what-is-the-trust-triangle-260e85e1c640) The Trust Triangle — the system of issuers, holders, and verifiers that illustrates how identity works (and how it’s broken, today)
 
-● [Part 3:](https://medium.com/global-id/globalid-101-id-wallets-68fa77e6d0d7) Why the ID Wallet is the first step toward achieving a new vision for digital identity
+* [Part 3:](https://medium.com/global-id/globalid-101-id-wallets-68fa77e6d0d7) Why the ID Wallet is the first step toward achieving a new vision for digital identity
 
-● [Part 4](https://medium.com/global-id/globalid-101-every-company-is-an-identity-company-a851beed999d): Why every company is an identity company
+* [Part 4](https://medium.com/global-id/globalid-101-every-company-is-an-identity-company-a851beed999d): Why every company is an identity company
 
 * [...]
 
 There is a real opportunity to combine technology that is being developed with the concept of BYO Identity that will create a new identity framework where you own and control your data.
 
-● [Centralized\Federated vs Self Sovereign](https://twitter.com/dominiumssi/status/1564188374529081345) dominiumssi
+* [Centralized\Federated vs Self Sovereign](https://twitter.com/dominiumssi/status/1564188374529081345) dominiumssi
 
-● [Self-sovereign identity: an ecosystem of digital identities](https://www.ergon.ch/en/news/2022/self-sovereign-identity-an-ecosystem-of-digital-identities) Ergon
+* [Self-sovereign identity: an ecosystem of digital identities](https://www.ergon.ch/en/news/2022/self-sovereign-identity-an-ecosystem-of-digital-identities) Ergon
 
-● [Making Identity Easy for Everyone - Heather Flanagan, Spherical Cow Consulting](https://www.ubisecure.com/podcast/making-identity-easy-heather-flanagan/) Ubisecure
-
-Heather Flanagan discusses making identity easy for everyone – how to explain digital identity to people outside of the identity industry, why is it important for everyone to understand, and what the industry can do to improve the understanding of identity for everyone.
-* [Making Identity Easy for Everyone - Heather Flanagan, Spherical Cow Consulting](https://www.ubisecure.com/podcast/making-identity-easy-heather-flanagan/) Ubisecure
-
-how to explain digital identity to people outside of the identity industry, why is it important for everyone to understand, and what the industry can do to improve the understanding of identity for everyone.
 
 * [Trust Registries in the Real World](https://www.continuumloop.com/trust-registries-in-the-real-world/) Continuum Loop
 

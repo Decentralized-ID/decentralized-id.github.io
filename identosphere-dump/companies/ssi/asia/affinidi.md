@@ -49,3 +49,42 @@ Zain Yousaf, our Product Principal, and Marco took over to showcase Console to t
 
 
 * [Explore Affinidi Schema Manager](https://ui.schema.affinidi.com/schemas/)
+- [Verifiable Credentials in Ben’s Serendipity](https://academy.affinidi.com/verifiable-credentials-in-bens-serendipity-b9acfa10f131) Affinidi (Drivers License, Medical, Employment)
+  > Think about it for a moment. No physical documents at all, but a simple and secure self-sovereign identity that Ben had complete control over. More importantly, look at the interoperability and flexibility as Ben could use them in different situations and across multiple platforms.
+* [Protecting Your Driver’s License](https://medium.com/affinidi/protecting-your-drivers-license-a-use-case-for-verifiable-credentials-25d22aeac05b) Affinidi
+  > the biggest advantage of such an SSI-based driver’s license is that there’s absolutely no possibility of loss. Furthermore, there is no question of your PII on the license to fall into the wrong hands because the holder has complete control over how it is used and with whom it is shared.
+- [Driving License as a Verifiable Credential](https://academy.affinidi.com/how-to-implement-driving-license-use-case-using-verifiable-credentials-cef928222c92) Affinidi
+- [Opening a Bank Account](https://academy.affinidi.com/opening-a-bank-account-a-use-case-for-verifiable-credentials-53ea478b5414) Affinidi
+* [Impact of Self-Sovereign Identity in Real Estate](https://academy.affinidi.com/impact-of-self-sovereign-identity-in-real-estate-11456c4b1faa) Affinidi
+
+Real estate is one of the sectors that has not completely embraced digitalization, and this means, there’s a lot of potential to bring about change in this sector.
+* [Is SSI the Disruptor for a Better World?](https://academy.affinidi.com/is-ssi-the-disruptor-for-a-better-world-aec34cef6275) Affinidi
+
+There is a big need for solutions to enable trusted interactions, especially when it comes to identification and authentication. It all stems from the fact that the [Internet](https://academy.affinidi.com/web-2-0-vs-web-3-0-a-bridge-between-the-past-and-the-future-c99668c1e2f0) was never designed for identities of individuals in the first place. Though we have standards and protocols for transactions, these are not constructed to enable the average user control of his or her digital identity without depending on a single third party.
+
+* [Using DID as a Second-factor Authentication](https://academy.affinidi.com/using-did-as-a-second-factor-authentication-198630db4a1c) Affinidi
+
+you can provide your DID instead of disclosing your phone number or email ID as the second factor of authentication. In the second step of verification, you will have to prove that you are the owner of that DID provided during the initial setup.
+
+* [Can Verifiable Credentials Make Life Better for Refugees?](https://academy.affinidi.com/can-verifiable-credentials-make-life-better-for-refugees-ea887300f18d) Affinidi
+
+Let’s say Mr.X is forced out of his country due to war and he reaches the neighboring country but doesn’t have any physical document to prove his identity such as name, address, educational qualifications, work experience, etc.
+* [Impact of Self-Sovereign Identity in Real Estate](https://academy.affinidi.com/impact-of-self-sovereign-identity-in-real-estate-11456c4b1faa) Affinidi
+
+One sector where SSI is expected to have far-reaching implications is the real estate industry, as it has the potential to bring in a lot of transparency and trust among the stakeholders.
+
+So, how does SSI fit into this traditional real-estate sector?
+* [Supercharge your Job Search with Next-gen Tech](https://academy.affinidi.com/supercharge-your-job-search-with-next-gen-tech-5339e0008250) results of Affinidi hackathon
+
+They came up with impressive submissions, ranging from job portals showcasing verified jobs and companies to scam alert verification features.
+* [Creating an Enterprise DID to Provide Power of Attorney for Employees](https://academy.affinidi.com/creating-an-enterprise-did-to-provide-power-of-attorney-for-employees-c7f20cef884f) Affinidi
+
+“How to have an enterprise [Decentralized Identifier (DID)](https://www.w3.org/TR/did-core/) when an employee 👨‍💼👩‍💼 can act on behalf of this company 🏢 with flexible permissions layer in a decentralized or peer-to-peer way?” [delagation]
+- [On-Demand Employment Endorsements](https://academy.affinidi.com/on-demand-employment-endorsements-a-use-case-for-verifiable-credentials-d19d263a0fbb) Affinidi
+* [Self Sovereign Identity/Decentralised Identity and Financial Services Webinar — A Synopsis](https://academy.affinidi.com/self-sovereign-identity-decentralised-identity-and-financial-services-webinar-a-recap-f5cecfb8b45c) Affinidi
+  > September 2nd, 2021 was a big day for all of us in the Global Developer Ecosystem (GDE) team of Affinidi as we geared to host our first [webinar on Self Sovereign Identity/Decentralised Identity and Financial Services](https://youtu.be/kR0IGOqmEwI) with Varsha Jagdale (General Manager of Financial Services at Affinidi) and Joseph Thompson (CEO of AID:Tech) as the speakers.
+* [Can SSI Safeguard your Information from Hackers?](https://academy.affinidi.com/can-ssi-safeguard-your-information-from-hackers-1b256d3eb6cd) Affinidi
+  > The cryptography used is called the Public Key Infrastructure (PKI) that comprises a pair of public and private keys where the holder keeps the private keys, but shares the public keys.
+* [Can SSI Disrupt Surveillance Capitalism?](https://academy.affinidi.com/can-ssi-disrupt-surveillance-capitalism-5c8cd6b50278) Affinidi
+  Are these advantages enough to disrupt surveillance capitalism? Do you think SSI is the antidote for today’s Internet identity problems and surveillance capitalism? Please share your thoughts with us.
+

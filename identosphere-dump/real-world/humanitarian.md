@@ -37,8 +37,8 @@ we invite you to build hyperstructures with us with focus on NFTs, on-chain musi
 With the digital transformation that gained momentum with social distancing, the need for Internet citizens to have a verified digital identity is growing. Aware of this, a call has been launched to identify technological projects that wish to integrate self-sovereign digital identity for the inclusion of vulnerable populations in Latin America and the Caribbean. The objective is to promote these projects with financing between USD 10,000 and 50,000.
 * [World Bank Inclusion Challenge](https://stateofidentity.libsyn.com/world-bank-the-inclusion-challenge) State of Identity with Vyjayanti Desai leads 
     > Vyjayanti Desai, Practice Manager for the ID4D and G2Px, two global, multi-sectoral initiatives of the World Bank Group joins State of Identity to discuss The Mission Billion Challenge. The solutions-focused challenge highlights the fundamental role that digital platforms can play in helping a country to effectively provide assistance to its people.
-* [On the Horizon: Tykn and Social Impact Through Digital Identity](https://identityreview.com/on-the-horizon-tykn-and-social-impact-through-digital-identity/) IdentityReview
-  > The Turkish Government has recently announced that it will be using Ana to accelerate work permit distribution for its 3 million refugees. The Turkish Ministry of Foreign Affairs—alongside the United Nations Development Programme (UNDP), the INGEV Foundation, the World Food Programme (WFP), TÜBİTAK and the Istanbul Chamber of Commerce—developed this application with the intent of making refugees financially independent.
+
+
 
 * [Decolonial Humanitarian Digital Governance](https://medium.com/berkman-klein-center/decolonial-humanitarian-digital-governance-48b35b05b110) Berkman Klein
   > Can humanitarian digital policy be decolonized?

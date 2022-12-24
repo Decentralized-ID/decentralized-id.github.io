@@ -1,6 +1,5 @@
 # EU SSI Startups
 
-- GATTCA
 - MyDex
 - MeeCo
 - JoloCom

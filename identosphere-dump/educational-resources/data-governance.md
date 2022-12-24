@@ -219,11 +219,6 @@ Discussion moved to this Miro board:
 
 * [https://www.amazon.com/Monkeys-Typewriters-Myths-Realities-Social/dp/0956263143](https://www.amazon.com/Monkeys-Typewriters-Myths-Realities-Social/dp/0956263143)
 
-17:18:50 From Jemima Gibbons to Everyone : [https://join.slack.com/t/oneteamgovernment/shared_invite/zt-2tsf24lc-zhqjU6GIjWiDem_APXc0BQ](https://join.slack.com/t/oneteamgovernment/shared_invite/zt-2tsf24lc-zhqjU6GIjWiDem_APXc0BQ)
-
-17:22:31 From Jemima Gibbons to Everyone : [https://sfadigital.blog.gov.uk/2017/03/24/dont-bring-policy-and-delivery-closer-together-make-them-the-same-thing/](https://sfadigital.blog.gov.uk/2017/03/24/dont-bring-policy-and-delivery-closer-together-make-them-the-same-thing/)
-
-* [https://www.oneteamgov.uk/](https://www.oneteamgov.uk/)
 
 * [https://miro.com/welcomeonboard/DRQLs1YeZ9DqbWzmXoBVubmSZ2zgt93AelmqxuZVf9q5zqWLyZI7AFxGePI4biNq](https://miro.com/welcomeonboard/DRQLs1YeZ9DqbWzmXoBVubmSZ2zgt93AelmqxuZVf9q5zqWLyZI7AFxGePI4biNq)
 

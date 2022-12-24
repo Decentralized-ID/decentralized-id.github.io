@@ -89,3 +89,12 @@ A key part of this is continuity and longevity: a personal data store is for lif
 * [Getting Identity Right. At Last.](https://medium.com/mydex/getting-identity-right-at-last-8512abadcfbc) MyDex
 
 By recognising the pivotal importance of verified attributes and the potential role of personal data stores in enabling the sharing of these attributes, it is opening the door to actually solving the problem of identity. At last.
+* [Data: A New Direction — But Which Direction?](https://medium.com/mydex/data-a-new-direction-but-which-direction-da547b886ac0) Alan Mitchell
+
+This is the fifth and final blog in our series about the UK Government’s proposals for data protection reform — “Data: A New Direction”. Previous blogs focused on the thinking behind the proposals. This blog summarises what the main proposals are.
+* [Why is data valuable?](https://medium.com/mydex/why-is-data-valuable-59bd63e1a09f)
+  > prompted by the UK Government’s proposed reforms of data protection law contained in its consultation paper Data: A New Direction.
+  > 
+  > […]
+  > 
+  > Under the banner of tackling ‘consent fatigue’, abolish citizens’ right to consent to the collection and use of their data: achieved by expanding the definition of organisations’ ‘legitimate interests’ (where they don’t have to seek consent) to cover almost every activity

@@ -101,6 +101,15 @@ Blindsided by this news!!
 
 The [DizmeID Foundation](https://www.dizme.io/) and technical project will define and allow for implementation of Dizme features on top of Sovrin public identity utility. The Dizme ecosystem is expected to include various [technological components leveraging Hyperledger stack](https://www.dizme.io/developers) and adding a monetization layer based on [Algorand blockchain protocol](https://www.algorand.com/resources/news/linux-foundation-announces-dizmeid-foundation-to-enable-self-soverieign-identity-network), which will enable the exchange of verifiable credentials and the development of new vertical applications.
 
+
+## Project VRM
+* [It's been 15 years of Project VRM: Here's a collection of use cases and requirements identified over the years](https://reb00ted.org/tech/20211011-vrm-use-cases/) rebooted
+  > I categorize them by the stage of the relationship between customer and vendor
+
+https://cyber.harvard.edu/projectvrm/Main_Page
+https://cyber.harvard.edu/lists/info/projectvrm
+https://www.idcommons.org/working-groups/vendor-relationship-management/
+
 ## Gain
 
 * [Panel | Bringing the Global Assured Identity Network (GAIN) to Reality](https://www.kuppingercole.com/watch/eic2021-panel-gain-to-reality)
@@ -111,10 +120,6 @@ These may seem off-topic but Bill Wendell has been engaged with the VRM and IIW 
 
 Individuals can access with the peace of mind that all relying parties within the ecosystem are present and accountable. Sure, there will still be malicious vendors, but the scope will be more limited. The ecosystem will be much more secure than the current Internet. It will be enough for the participants to take action. Trust is reestablished.
 
-## Lissi
-* [Digital Technologies Forum now includes the Lissi demo](https://lissi-id.medium.com/lissi-demonstration-im-forum-digitale-technologien-82d5f0c07a5d) <- in german
-
-Digital Technologies Forum is a networking platform and exhibition space for selected research projects and innovations in the field of digital technologies from Germany. The forum offers outstanding research projects a platform for more visibility and promotes exchange and knowledge transfer at national and international level.
 
 ### Open Science DAO
 * [OpSci Identity Registry](https://verse.opsci.io/) Open Science DAO
@@ -125,11 +130,7 @@ Link your web accounts, verify your academic credentials and interact with DeSci
 * [ONT ID Upgrade: Verifiable Credentials SDKs Now Open Source](https://medium.com/ontologynetwork/ont-id-framework-upgraded-ontologys-verifiable-credentials-sdks-now-open-source-for-all-go-and-7f89f7585528) Ontology
 
 In making the code widely accessible, Ontology is accelerating the adoption of decentralized identity (DID) in the blockchain sphere As the project that has focused on the Decentralized Identity (DID) field for over 4 years…
-### humanizing the singularity
 
-* [Bringing Truth to Market with Trust Communities & Product Information Markets](https://medium.com/humanizing-the-singularity/bringing-truth-to-market-with-trust-communities-product-information-markets-d09fb4a6e780) Mattereum
-
-With product information markets enabled by Trust Communities, we can incentivize truth in markets by allowing experts to make money on their expertise and face consequences for erroneous claims. Simple concept, powerful implications.
 
 ###  Human Colossus Foundation
 

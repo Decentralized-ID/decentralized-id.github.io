@@ -198,3 +198,6 @@ Data sovereignty has gained much recent attention, whilst interpreted in varied 
 * [Children’s right for privacy also in the digital world is guaranteed under the Convention on the Rights of the Child](https://www.mydata.org/2022/06/20/press-release-childrens-right-for-privacy-also-in-the-digital-world-is-guaranteed-under-the-convention-on-the-rights-of-the-child-and-this-includes-photos/) MyData
 
 Last week, the Prime Minister of Finland, Sanna Marin, stated that she will not give consent to the media to take and publish photos of her child. This led to wide discussion and international headlines – even though the right to privacy is guaranteed under the Convention on the Rights of the Child.
+* [Connecting Citizens and Government for Better Designed Services](https://medium.com/mydex/connecting-citizens-and-government-for-better-designed-services-9b58205185ce) MyData
+
+Our vision for [Inclued](https://mydex.org/platform-services/) is for it to become the de facto choice for two-way, secure citizen engagement that empowers citizens to not only access services but influence what is delivered to them, while giving governments and citizens insight and evidence into the value and impact of working with, not for citizens.

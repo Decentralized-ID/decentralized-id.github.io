@@ -9,6 +9,14 @@ published: false
 - [Nat Sakimura’s Blog](https://nat.sakimura.org/)
 - [John Bradley’s Blog](https://www.thread-safe.com/)
 
+* [IWD2021: Shining the spotlight on women in technology and digital identity](https://securekey.com/iwd2021-shining-the-spotlight-on-women-in-technology-and-digital-identity/)
+  > This International Women’s Day, we celebrate these role models and promote inclusivity to better recognize achievements in technology and digital identity from leading women. We are so lucky to have allies and strong relationships with various organizations led by strong female experts. It is a true honour to work alongside female leaders who heavily impact the industry with their thought leadership and innovative sights.
+* [Women in Identity](https://www.kuppingercole.com/blog//women-in-identity) Dr. Angelika Steinacker
+  > Silvia is a WID member since 2018 and started her career as an Identity engineer. Her topic will be the misbehavior of your digital twin and what you can do if your digital twin misbehaves.
+  > 
+  > Originating from a virtual model reflecting a physical object, the term “digital twin” also has its application in the cyber security industry. Social media giants and the advertisement industry have a huge interest in modeling your behavior, feelings, and thoughts to tailor advertising to you.
+* [Member interview with Jacoba Sieders](https://womeninidentity.org/2020/10/20/www-womeninidentity-org-interview-jacoba-sieders/) Women in Identity
+  > Jacoba Sieders is an independent, digital identity expert [and advisory board member of the EU ESSIF Lab]. She has held executive positions leading IAM and KYC functions for more than 20 years at major banks in the Netherlands and then in Luxembourg at the European Investment Bank. She also lived and worked in New Delhi, India for ING Group.
 
 
 * [Michael Becker Interviewed Kaliya re:SSI](https://identitypraxis.com/2020/11/16/an-interview-on-self-sovereign-identity-with-kaliya-young-the-identity-women/)  

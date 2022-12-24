@@ -3,6 +3,22 @@ published: false
 ---
 
 # Research
+* [Leveraging Self-Sovereign Identity, Blockchain, and Zero-Knowledge Proof to Build a Privacy-Preserving Vaccination Pass](https://arxiv.org/pdf/2202.09207.pdf) Maurício Barrosa, Frederico Schardong, Ricardo Felipe Custódio
+
+This solution allows users to prove that they are vaccinated for different pathogens without revealing their identity. The architecture is loosely coupled, allowing components to be exchanged, which we discuss when we present the implementation of a working prototype.
+
+
+* [Empowering humans for a digital age and global economy via Self-Sovereign Identity](https://vladanlausevic.medium.com/empowering-humans-for-a-digital-age-and-global-economy-via-self-sovereign-identity-457ef947f33b)
+
+based on the article [Self-Sovereign Identity in a Globalized World: Credentials-Based Identity Systems as a Driver for Economic Inclusion](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00028/full) by Fennie Wang and Primavera De Filippi.
+* [SURF: Technical exploration Ledger-based Self Sovereign Identity](https://www.surf.nl/files/2021-05/technical-exploration-surf-ledger-based-self-sovereign-identity.pdf) Identity Economy DE
+  > This report begins by describing SSI and its concepts, standards and components in more detail in chapter two. Chapter three describes the project activities that were conducted. In chapter four, we describe the technology stack we selected in more detail, to set the stage for chapter five, where we describe the SURF deployment we set up for further testing. In chapter six, we present the findings, both when evaluating the standards and platforms, our experiments with the technical setup we deployed and while testing our use cases.
+  > 
+  > Unfortunately, our time was limited and, at the same, time more insight also brought additional questions and ideas. Chapter seven therefore contains a number of suggestions for further work that could be conducted.
+  > 
+  > Chapter eight wraps up the document with a number of conclusions on SSI and its applicability in the context of SURF. We have also provided links to online resources including the git repositories, where we have made all our code and deployment information available, as well as some demonstration videos.
+
+
 * [Decentralized SSI Governance, the missing link in automating business decisions](https://drive.google.com/file/d/1RSpIo36ddUJfeY1xDpyRfFvXuBJQuDMG/view?mc_cid=69511944d8&mc_eid=c7e5a7f7b4) TNO
   > This paper introduces SSI Assurance Communities (SSI-ACs) and identifies three specific governance topics: credential-types, accreditation and decision tree support.
 > 

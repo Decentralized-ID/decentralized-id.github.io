@@ -39,3 +39,6 @@ Welcome to lucky episode number 13! Your new host Aubrey Turner, Executive Advis
 
 Enabling Australian FinTechs a direct avenue to discuss how they partner and collaborate to access the eftpos payments network through the Committee resulted in recommendations that covered a number of central themes, including consultation and engagement, regulation, and technology and solutionsBen Tabell, eftpos Chief Information Officer and Committee Chair
 
+* [Hello, User: Episode 13 with Katryna Dow](https://hellouser.libsyn.com/episode-13-with-katryna-dow)
+
+Welcome to lucky episode number 13! Your new host Aubrey Turner, Executive Advisor at Ping, is thrilled to welcome Katryna Dow, CEO & Founder of the award-winning data platform Meeco. Katryna discusses Meeco’s mission to enable everyone on the planet access to equity and value in exchange for the data and information they share. She talks about why she saw a need for Meeco’s services, what we need to know as we approach a more “physigital”world, and how her vision all started with a Tom Cruise film.

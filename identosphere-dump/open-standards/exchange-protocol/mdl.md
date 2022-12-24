@@ -1,7 +1,5 @@
 # MDL
 
-* [Meet Kantara’s new Executive Director, Kay Chopard](https://www.ubisecure.com/podcast/kay-chopard-kantara/) Lets Talk about Digital Identity
-  > Kay explores why identity is so critical in so many applications; her hope for more promotion of Kantara’s great work and to advance opportunities for collaboration; Kantara’s new mobile drivers licenses (mDLs) work group; Women in Identity and the problem of lack of diversity in standards working groups; and why access and inclusion is one of the biggest challenges facing identity today.
 * [Verifiable Driver's Licenses and ISO-18013-5 (mDL)](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0105.html) Manu Sporny (Monday, 29 November)
   > Spruce, MATTR, and Digital Bazaar have collaborated on creating an interoperability test suite for something we're calling the "Verifiable Driver's License" (temporary name):
 * [The test suite](http://w3id.org/vdl/interop-reports) demonstrates that a few things are possible in addition to what mDL provides:
@@ -14,8 +12,6 @@
   > The Concise Binary Object Representation (CBOR), as specified in RFC 7049, is a data format whose design goals include the possibility of extremely small code size, fairly small message size, and extensibility without the need for version negotiation.
 - [The selective disclosure industry landscape, including Verifiable Credentials and ISO Mobile Driver Licenses (mDL)](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-why-selective-disclosure-00) – [Kristina Yasuda](https://twitter.com/kristinayasuda)
 
-* [Meet Kantara’s new Executive Director, Kay Chopard](https://www.ubisecure.com/podcast/kay-chopard-kantara/) Lets Talk about Digital Identity
-  > Kay explores why identity is so critical in so many applications; her hope for more promotion of Kantara’s great work and to advance opportunities for collaboration; Kantara’s new mobile drivers licenses (mDLs) work group; Women in Identity and the problem of lack of diversity in standards working groups; and why access and inclusion is one of the biggest challenges facing identity today.
 * [Working Group for Privacy Enhancing Mobile Credentials](https://kantarainitiative.org/introducing-kantaras-working-group-for-privacy-enhancing-mobile-credentials/) Kantara Initiative
   > Clearly the use of a driver’s license goes well beyond proving eligibility to drive a vehicle. It has become the de-facto standard for proving that you are who you say you are – and are entitled to the product or service requested. An increasing number of states are adopting mobile ID systems to recognise and verify mobile credentials including driver’s licenses (mDL).
 * [Kantara Releases Report on Identity and Privacy Protection For mobile Driver’s Licenses](https://kantarainitiative.org/kantara-releases-report-on-identity-and-privacy-protection-for-mobile-drivers-licenses/)
@@ -55,6 +51,3 @@ Arizona, Connecticut, Georgia, Iowa, Kentucky, Maryland, Oklahoma, and Utah are 
 
 very soon, we will launch another [Jetpack compatibility library](https://venturebeat.com/2019/05/07/google-adds-10-libraries-to-android-jetpack-unveils-kotlin-toolkit-for-ui-development/) that app developers can use immediately to write such apps for various DMVs or whatever cards — in the future, maybe even travel documents, although that kind of standardization for international travel is even further out.
 
-* [Enhancing the Privacy of Mobile Credentials, with John Wunderlich](https://www.ubisecure.com/podcast/mobile-credentials-john-wunderlich/) Ubisecure
-
-what are the challenges and solutions surrounding mobile credentials, what is IAM’s role in this and how systems need to be developed around trust.

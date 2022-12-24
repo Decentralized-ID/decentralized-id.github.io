@@ -1,0 +1,24 @@
+@ tykn
+
+* [NFTs and Verifiable Credentials: What are they, their differences and do they mix?](https://www.youtube.com/watch?v%3DqEjgI2nVLb0) TYKN
+* [Towards Self-Sovereign Identity with Tykn Co-Founders, Khalid Maliki and Jimmy J.P. Snoek](https://open.spotify.com/episode/37WCJ39VocsCKrgBEK3doO) Ubisecure LTADI
+  > The conversation details the 'three pillars of SSI' (verifiable credentials, decentralised identifiers and blockchain), how SSI fits with existing processes, what it should appear as to end users (and what level of education they need around the technology), the importance of accessibility for inclusivity, and what's next for Tykn. "In 5 years, people should take [SSI] for granted" Khalid Maliki
+* [Blockchain Identity Management: The Definitive Guide (2021 Update)](https://tykn.tech/identity-management-blockchain/) TYKN
+  > In this blog our team of experts examine what blockchain is, what benefits it brings to identity management, the role of cryptography and zero-knowledge proofs, why it’s a terrible idea to put personal data on the blockchain and much more.
+* [Self-Sovereign Identity: The Ultimate Beginners Guide!](https://tykn.tech/self-sovereign-identity/) TYKN
+  > A secure and digital peer-to-peer channel is established between ID Issuer, ID Owner and ID Verifier. When credentials are exchanged not even the Self-Sovereign Identity system provider knows what is being exchanged. Credential issuing becomes simpler and faster.
+* [On the Horizon: Tykn and Social Impact Through Digital Identity](https://identityreview.com/on-the-horizon-tykn-and-social-impact-through-digital-identity/) IdentityReview
+  > The Turkish Government has recently announced that it will be using Ana to accelerate work permit distribution for its 3 million refugees. The Turkish Ministry of Foreign Affairs—alongside the United Nations Development Programme (UNDP), the INGEV Foundation, the World Food Programme (WFP), TÜBİTAK and the Istanbul Chamber of Commerce—developed this application with the intent of making refugees financially independent.
+* [Self-Sovereign Identity for Social Impact & Importance of UX](https://northernblock.io/self-sovereign-identity-for-social-impact-with-jimmy-snoek/) Jimmy J.P. Snoek, Tykn
+  > We saw pretty early that the puristic view of SSI, in terms of having everything stored on edge wallets — when you go to somewhere in Sub-Saharan Africa, that’s going to be pretty difficult, when there’s maybe one phone in a village and it’s not even necessarily a smartphone. It’s very easy to say, “Oh yeah, but within SSI, everything has to be stored on the edge wallet.” What we saw was that if you make that this hard requirement, and keep working from that, then all these population groups are just going to be left behind more and more.
+
+* [Decentralized Identifiers Market May See a Big Move: Major Giants- Consensys, Blockstack, Danube Tech](https://xaralite.com/1746487/news/decentralized-identifiers-market-may-see-a-big-move-major-giants-consensys-blockstack-danube-tech/) Xaralite ([Executive Summary](https://www.advancemarketanalytics.com/reports/197045-global-decentralized-identifiers-market)
+
+provides valuable market size data for historical (Volume & Value) from 2016 to 2020 which is estimated and forecasted till 2026*. Some are the key & emerging players that are part of coverage and have being profiled are Transmute (United States), Consensys (United States), uPort (United States), IBM (United States), Tykn Tech (Netherlands), Blockstack (United States), Danube Tech (Austria), Trinsic (United States), Spherity (Germany), Microsoft (United States).
+* [Odyssey Momentum 2020 Winners Announced](https://solutions.odyssey.org/hackathon-2020-dutch-blockchain-coalition-ministry-of-the-interior-challenge-self-sovereign-identity-in-action/)
+  > Rabobank won with a demonstration of their Identity Wallet app, along with their Identity API. Their Pilot projects are “Pilot with WorkPi” and a Credential Catalogue with TNO. If you want to know more about Rabobank ID [check out this interview of Rabobank’s David Lamars, from Tykn](https://tykn.tech/rabobank-ssi/).
+* [Gravity, Tykn advance interoperability of two decentralized ID solutions for the humanitarian sector](https://medium.com/gravity-earth/gravity-tykn-advance-interoperability-of-two-decentralized-id-solutions-for-the-humanitarian-sector-899847099d0e)
+
+Gravity and Tykn are pleased to announce our continued collaboration to advance the interoperability of our two distinct decentralized identity solutions for improved identity management in the humanitarian sector.
+* [How to create an effective Decentralized ID Model](https://tykn.tech/decentralized-id-model/) Tykn
+  > The Decentralized ID Model is a strategic template used by Tykn to effectively develop and document an organization’s Decentralized ID ecosystem.

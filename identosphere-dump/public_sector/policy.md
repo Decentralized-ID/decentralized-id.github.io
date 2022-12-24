@@ -8,8 +8,6 @@ published: false
 
 * [IPR - what is it? why does it matter?](https://identitywoman.net/ipr%25e2%2580%258a-%25e2%2580%258awhat-is-it-why-does-it-matter/)
   > There is a lot of diversity in the category of future patent problems. Someone who was contributing without declaring that they hold a patent related to the work can claim they had a patent later (years after the specification is finished) and seek payment from everyone using/implementing the standard, claiming licensing rights or even lost revenue on ideas they legally own.
-* [What Are the Six Key Areas of the FATF Consultation?](https://www.elliptic.co/blog/six-key-areas-of-the-fatf-consultation) Elliptic
-  > On March 19th, Paris-based Financial Action Task Force (FATF), the global standard-setting body for anti-money laundering and counter-terrorism finance (AML/CFT), released its [Draft Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers](https://www.fatf-gafi.org/media/fatf/documents/recommendations/March%25202021%2520-%2520VA%2520Guidance%2520update%2520-%2520Sixth%2520draft%2520-%2520Public%2520consultation.pdf). Or, in compliance acronym speak the FATF's draft guidance for its RBA to VAs and VASPs.
 * [Self-sovereign identity in the context of data protection and privacy](https://yourstory.com/2020/11/self-sovereign-identity-context-data-protection-privacy/amp) YourStory
 
 this article deconstructs the self-sovereign identity model and examines how it stacks up against The Personal Data Protection Bill, 2019.
@@ -30,9 +28,6 @@ What most people want but don’t have the terms to describe is respectful digit
   > “what do we think is the north star for data and identity and on what principle they are built?”  How do these principles help us agree on risks, and will our existing rules help or hinder us?
 
 
-* [FATF and Global Crytpto Regulatory News](https://www.elliptic.co/blog/fatf-concludes-its-annual-plenary-session)
-
-The Financial Action Task Force (FATF) [held](https://www.fatf-gafi.org/publications/fatfgeneral/documents/outcomes-fatf-plenary-february-2021.html) its winter Plenary session on 22nd, 24th, and 25th February and welcomed over 205 delegates to its third virtual conference since the start of the pandemic.
 
 * [USPTO: CIO Jamie Holcombe](https://www.federalblockchainnews.com/podcast/episode/78ad1b6f/uspto-cio-jamie-holcombe)
   > CIO Jamie Holcombe says identity verification with blockchain might be in the future for USPTO and talks about navigating changes in policy & law when considering a distributed ledger to store patents & trademarks. Among the interesting questions: do we start with patent #1 (applicant: George Washington)?

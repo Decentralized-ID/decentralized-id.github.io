@@ -49,7 +49,8 @@ Avast’s product suite ranges from VPNs, antivirus, anti-tracking, monitoring o
 
 Our vision for digital freedom is to enable people to manage and retain control over their personal data so that they can interact and transact safely, privately and with confidence. Decentralized digital identities are a key component of that vision
 * [Avast To Acquire U.S.-based Self-sovereign Identity Pioneer Evernym](http://nasdaq.com/articles/avast-to-acquire-u.s.-based-self-sovereign-identity-pioneer-evernym) Nasdaq
-* [Evernym Commits to Open Source](https://www.evernym.com/blog/evernym-commits-to-open-source/) “we’re doubling down on our commitment to open source by making the source code available for our commercial products with a binding commitment that they will be open source in three years”. They are using a [Business Source License](https://perens.com/2017/02/14/bsl-1-1/), which has some commercial restrictions, that eventually give way to open use. * [Evernym Joins with Other Solution Providers to Achieve Interoperability Milestone](https://www.evernym.com/blog/evernym-joins-with-other-solution-providers-to-achieve-interoperability-milestone/)
+* [Evernym Commits to Open Source](https://www.evernym.com/blog/evernym-commits-to-open-source/) “we’re doubling down on our commitment to open source by making the source code available for our commercial products with a binding commitment that they will be open source in three years”. They are using a [Business Source License](https://perens.com/2017/02/14/bsl-1-1/), which has some commercial restrictions, that eventually give way to open use. 
+* [Evernym Joins with Other Solution Providers to Achieve Interoperability Milestone](https://www.evernym.com/blog/evernym-joins-with-other-solution-providers-to-achieve-interoperability-milestone/)
 
 * [Evernym’s Verity](https://www.evernym.com/products/%23verity) issuing to:
 

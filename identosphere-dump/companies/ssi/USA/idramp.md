@@ -38,3 +38,14 @@ QiqoChat has really stepped up in this time of need to provide an incredible onl
 
 IdRamp presented with Oracle at [Hyperledger Global Forum](https://events.linuxfoundation.org/hyperledger-global-forum/) June 2021. The event focused on enterprise use of blockchain technologies using the 15 projects that fall under the Hyperledger “greenhouse”. Keynotes and speakers shared their insights on the current state of enterprise blockchain adoption across several hot topics including central bank digital currencies (CBDCs), non fungible tokens (NFTs), and most importantly– identity.
 
+* [IdRamp and QiqoChat Announce Verifiable Credentials for Online Collaboration](https://talkcmo.com/news/idramp-and-qiqochat-announce-verifiable-credentials-for-online-collaboration/)
+
+QiqoChat has really stepped up in this time of need to provide an incredible online event user-experience, enabling a re-creation of the IIW experience throughout our Covid travel restrictions. This week they announced the launch of a Verifiable Credentials integration with the QiqoChat platform.
+
+> The community of professionals working on data privacy & consumer protection has been an early adopter of QiqoChat. During regional and global conferences, they have used the platform to share ideas and deliberate about the future of user-centric identity. Through these conferences, we’ve learned how solutions like IdRamp can be tremendously empowering for Internet users.
+* [Node Operator Spotlight: IdRamp](https://indicio.tech/node-operator-spotlight-idramp/) Indicio
+
+Recently we caught up with Karl Kneis, COO of IdRamp, and Eric Vinton, Chief Business Officer of IdRamp, one of the first companies to become an Indicio Node Operator, to discuss their current projects, some goals for the future, and where they think decentralized identity is heading.
+* [IDRamp partners with Indicio.Tech](https://idramp.com/idramp-offers-market-ready-decentralized-identity-platform-on-the-indicio-network/)
+
+This is an interesting announcement with two companies partnering together to create new SSI services for the companies the work with.

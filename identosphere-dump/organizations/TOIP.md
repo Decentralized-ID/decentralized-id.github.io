@@ -175,6 +175,10 @@ Witness orgs sit in layer 3 of the [Trust Over IP stack](https://github.com/hype
 Editorial: Kaliya thinks this is a terrible idea. It is based on the premise that identity providers (issuers of credentials) should get paid every time a person (the holder) presents the credential in their wallet, when shared with the relying party (verifier) I think this is toxic and we are just finally getting to aligned standards for the VC format and for exchange protocols - now some how we are going to rapidly add a payments layer?
 
 NO this isn’t going to work it is going to create lockin to particular wallets for particular credentials. All because some bad entrepreneurs who are no longer leading their companies sold SAFTS to greedy investors. There is a mess under here that should be exposed further now that they are trying to push this model again. Lets just say I can’t wait for the investigative reporter to dig into the Sovrin meltdown from last year further to see what is really there. It could have all been left alone and I wouldn’t be talking about it - but they decided to push the model again.
+* [What Does Trust Over IP Mean for Governments and Their Citizens?](https://zoom.us/rec/play/mDKBrRGUj438P08UFt48x9aQJJbzEnmx9syvFDX4wqE-CfInHCtlTGHVYZsQbqDvFEHz1384UmDhujnN.gy3Vc_uWCCYptA-C?continueMode=true&_x_zm_rtaid=1wnxNXi8Tt2RA2GEkoKd2w.1608587036943.898bee9a8db5ed8d3cf416dfad4da5bb&_x_zm_rhtaid=942)
+  > credentials can help reopen travel, reduce the costs and improve access to healthcare, streamline KYC and financial transactions, and help connect students with employers needing their skills—all while saving governments billions in the costs of connecting and protecting their digital infrastructure.
+  > *[...]*
+  > featured speakers from Evernym, Mastercard, LG CNS, Accenture, GLEIF, and other[s]
 
 * [Human Experience Working Group](https://wiki.trustoverip.org/display/HOME/Human%2BExperience%2BWorking%2BGroup) TOIP
 

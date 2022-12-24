@@ -51,8 +51,6 @@ From health records to product authenticity, a monumental shift in the way that 
 * [One Size Doesn’t Fit All – Authentication Journeys to Digital Transformation](https://www.veridiumid.com/one-size-doesnt-fit-all-authentication-journeys-to-digital-transformation/) Veridium
 
 The IAM (Identity & Access Management) landscape may seem to be getting more complex, but only because we’re trying to fit a square peg in a round hole. Old methods tied strictly to AD and LDAP registries with groups and their associated roles are only a narrow keyhole from the past into which we can view a broader IAM future. These systems will continue to be used in many enterprises but form only part of the many journeys available to users within the new IAM landscape.
-* [Building an SSI Ecosystem: Digital Staff Passports at the NHS](https://www.windley.com/archives/2021/05/building_an_ssi_ecosystem_digital_staff_passports_at_the_nhs.shtml)
-  > How does a functioning credential ecosystem get started? This post goes deep on Manny Nijjar’s work to create a program for using digital staff passports in the sprawling UK NHS bureaucracy.
 
 * [Decentralized Identity](https://www.thoughtworks.com/radar/techniques?blipid=202005083) Thoughtworks Technology Radar
   > Adopting and implementing decentralized identity is gaining momentum and becoming attainable. We see its adoption in privacy-respecting customer health applications, government healthcare infrastructure and corporate legal identity.
@@ -72,9 +70,6 @@ The Sovrin Foundation (Chris Raczkowski and Drummond Reed) explains some recent 
 > - [Farmer Connect](https://www.farmerconnect.com/) is realizing is vision to “Humanize consumption through technology” by enabling and empowering individual coffee farmers to more easily work with global enterprises, and reducing costs and inefficiencies for large companies to work directly with small and often remote farmers.
 > - [Lumedic Exchange](https://www.lumedic.io/perspectives/introducing-lumedic-connect) is the first network designed exclusively for patient-centric exchange of healthcare data using SSI-based verifiable credentials.
 
-* [Microsoft's Dream of Decentralized IDs Enters the Real World](https://www.wired.com/story/microsoft-decentralized-id-blockchain/)
-
-At its Ignite conference today, Microsoft announced that it will launch a public preview of its “Azure Active Directory verifiable credentials” this spring.
 
 * [The Shape of your Identity](https://stateofidentity.libsyn.com/the-shape-of-your-identity) State of Identity Podcast
 
@@ -140,7 +135,4 @@ The benefits of using a Microcredentials approach.
 
 We went through the paywall so you don’t have to - SSI only mentioned once. From page 99>>
 
-* [Decentralized Identifiers Market May See a Big Move: Major Giants- Consensys, Blockstack, Danube Tech](https://xaralite.com/1746487/news/decentralized-identifiers-market-may-see-a-big-move-major-giants-consensys-blockstack-danube-tech/) Xaralite ([Executive Summary](https://www.advancemarketanalytics.com/reports/197045-global-decentralized-identifiers-market)
-
-provides valuable market size data for historical (Volume & Value) from 2016 to 2020 which is estimated and forecasted till 2026*. Some are the key & emerging players that are part of coverage and have being profiled are Transmute (United States), Consensys (United States), uPort (United States), IBM (United States), Tykn Tech (Netherlands), Blockstack (United States), Danube Tech (Austria), Trinsic (United States), Spherity (Germany), Microsoft (United States).
 

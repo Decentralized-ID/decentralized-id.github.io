@@ -6,6 +6,10 @@ published: false
 
 The Lab is Canada’s first independent and neutral organization to promote the compliance of and interoperability between digital ID solutions across public and private sectors, bridging a crucial gap in the advancement of Canada’s digital ecosystem.
 
+* [Sask. Government Stops Pursuit of Potential Digital ID](https://www.egovreview.com/article/news/618/sask-government-stops-pursuit-potential-digital-id) Ego Review
+
+In a search that started in October 2021, the province was considering vendors to potentially initiate digital ID, meant to replace the need for physical ID cards. According to RFP documents, the selected vendor would have worked with SGI for facial verification, but final details on accessing the photo database weren’t finalized.
+
 ## BCGov
 * [John Jordan AMA - ToIP, BC Gov, Spinal Cord Injuries](https://iiw.idcommons.net/13C/_John_Jordan_AMA_-_ToIP,_BC_Gov,_Spinal_Cord_Injuries) by John Jordan
 

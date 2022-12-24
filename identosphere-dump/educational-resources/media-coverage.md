@@ -16,3 +16,11 @@ Such are the capabilities of Pegasus, the spyware manufactured by NSO Group, the
 
 I was quoted in the article in MIT Technology Review on April 6, 2022, “Deception, exploited workers, and cash handouts: How Worldcoin recruited its first half a million test users.”
 
+* [Using Digital Identity To Prevent The Sale Of Age-Restricted Products](https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/02/using-digital-identity-to-prevent-the-sale-of-age-restricted-products/?sh%3D5de510a97f9d) Forbes
+
+This is not limited to alcohol, however. It also includes other age-restricted products such as tobacco, cannabis (where legal of course), vaping products, gambling, some movie tickets and even lottery tickets.
+
+* [Do we really need (or want) the State to provide us with digital identification?](https://www.libertarianism.org/articles/self-sovereign-identity-blockchain-age) LIberatarianism.org
+
+With identity being the missing link, the advent of self‐​sovereign identity could finally bring ambitious projects like [Bitnation](https://tse.bitnation.co/) to fruition. This virtual blockchain jurisdiction wants to establish a blockchain‐​based self‐​administration or, as the project itself advertises, “a toolbox for do‐​it‐​yourself governance.” With the concept of self‐​sovereign identity being implemented properly, new digital nations such as Bitnation could compete against old territorial tax states.
+

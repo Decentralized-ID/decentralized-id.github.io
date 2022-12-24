@@ -92,3 +92,14 @@ If you created an online account to manage your tax records with the U.S. Intern
 * [THE IRS AND ID.ME: PRIVACY OPTIONAL](https://trustoverip.org/blog/2022/02/15/the-irs-and-id-me-privacy-optional/) Trust Over IP
   > While it is not clear why the IRS would relinquish this extremely sensitive capability in its entirety to a single, private-sector entity using a proprietary solution, there are clues
 
+
+* [Excelsior Pass Plus to be recognized out of state, internationally](https://www.wgrz.com/article/news/local/excelsior-pass-plus-to-be-recognized-out-of-state-internationally/71-434f8c6f-cbac-4d61-a732-ac0e0769efa3) WGRZ
+
+Excelsior Pass Plus will be compatible with the globally recognized SMART Health Cards Framework developed by VCI. VCI is a coalition of 570 public and private organizations including major health networks and Microsoft.
+
+* [A Collaborative Approach to Meeting the Challenges in President Biden’s Executive Order on Improving US Cybersecurity](https://www.oasis-open.org/2021/06/14/a-collaborative-approach-to-meeting-the-challenges-in-president-bidens-executive-order-on-improving-us-cybersecurity/)
+  > One key aspect outlined in Section 4 of the Executive Order (EO) is securing the software supply chain. At issue here is the reality that the U.S. federal government—like nearly any other organization on the planet that uses computer technology in any form—relies on not just one but numerous types of software to process data and run operational equipment.
+
+* [New Directions for Government in the Second Era of the Digital Age](https://www.blockchainresearchinstitute.org/new-directions-for-government-in-the-second-era-of-the-digital-age/) Kuppinger Cole
+
+The [Blockchain Research Institute™](https://www.blockchainresearchinstitute.org/), in collaboration with the Washington DC based [Chamber of Digital Commerce](https://digitalchamber.org/) and other experts have produced a 120-page report on how the Biden-Harris administration could reimagine US technology strategy and policy—and take action to implement it.

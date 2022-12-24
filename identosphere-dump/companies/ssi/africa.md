@@ -17,3 +17,6 @@ Zimbabwean founded blockchain start-up, [FlexID Technologies](https://www.flexfi
 * [Q&A with Gravity’s lead engineer: François Guérin](https://medium.com/gravity-earth/q-a-with-gravitys-lead-engineer-fran%25C3%25A7ois-gu%25C3%25A9rin-babb3659be86)
 
 As the Lead Developer, a big part of my role is to build Gravity’s decentralized identity protocol and blockchain architecture on Tezos.
+* [Gravity’s Decentralized Identity Protocol, Built on Tezos, To Power DIGID Project in Kenya](https://medium.com/gravity-earth/gravitys-decentralized-identity-protocol-built-on-tezos-to-power-digid-project-in-kenya-a85069f2a027)
+
+This month, Gravity joined some of the largest international NGOs in the world to launch the [Dignified Identities in Cash Programming (DIGID)](https://hiplatform.org/digid) project in Kenya. The goal of this project is to help the Kenya Red Cross leverage Gravity’s decentralized identity protocol on Tezos to provide much-needed cash transfers to vulnerable Kenyan populations.

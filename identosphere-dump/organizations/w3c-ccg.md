@@ -1,5 +1,9 @@
 # W3C - CCG
 
+Digital Bazaar founder, Manu Sporney, proposed the [W3C Credentials Community Group](http://web.archive.org/web/20181206060143/https://www.w3.org/community/credentials/charter-20140808/) in 2014.
+"to forge a path for a secure, decentralized system of credentials that would empower both individual people and organizations on the Web to store, transmit, and receive digitally verifiable proof of qualifications and achievements." 
+
+
 * [@BartHanssens shares](https://twitter.com/BartHanssens/status/1319604882068787200):
   > proofs: https://w3c-ccg.github.io/ld-proofs, cryptosuite: https://w3c-ccg.github.io/ld-cryptosuite-registry, #GnuPG: signatures  https://gpg.jsld.org/contexts
 * [Open API for Interoperable Traceability](https://w3c-ccg.github.io/traceability-interop/openapi/%23overview) CCG

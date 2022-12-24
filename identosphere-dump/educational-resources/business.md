@@ -131,9 +131,6 @@ An ecosystem is a community of living organisms interacting with each other and 
 “What is a scalable, cost-efficient, risk-based solution to measure the effectiveness of digital identity proofing to ensure that individuals who remotely (i.e., not in person) present themselves for financial activities are who they claim to be?”
 
 
-* [Inclusive identity: are we doing enough? With Tricerion, Women in Identity and FinClusive](https://www.ubisecure.com/podcast/inclusive-identity-tricerion-women-in-identity-finclusive/) Ubisecure
-
-One of the clearest areas of digital identity where we see the impact of not doing enough to include vulnerable people is authentication – the point where a user must verify their identity in order to gain access to a service.
 
 * [Catalyzing your Digital Transformation Journey](https://www.kuppingercole.com/events/eic2022/blog/catalyzing-your-digital-transformation-journey-in-providing-a-seamless-access-experience-to-your-customers-partners-and-employees) Kuppinger Cole
 
@@ -200,9 +197,6 @@ For decades, all TV signals were “over the air,” and free to be watched by a
 * [Entrepreneurship, Innovation & Leadership with Andre Durand](https://www.nonconformistinnovation.com/andre-durand/) Nonconformist Innovation
 
 Andre talks about what motivated him to start a company, how his best ideas came about, his thoughts about building teams, questions he asks of new hires, the legacy he hopes will endure, and how he fights entropy. Steve also asks Andre about his favorite music and the next concert he is planning to attend.
-* [How to create an effective Decentralized ID Model](https://tykn.tech/decentralized-id-model/) Tykn
-
-The Decentralized ID Model is a strategic template used by Tykn to effectively develop and document an organization’s Decentralized ID ecosystem.
 
 * [Multi-Cloud orchestration makes identity work](https://idramp.com/multi-cloud-orchestration-makes-identity-work/) IDRamp
 

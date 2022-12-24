@@ -1,6 +1,7 @@
 # US SSI Startups
 - DocK
 - Anonoyome
+- Gatca
 - GlboalID
 - Hyland
 - Magic
@@ -14,4 +15,5 @@
 - Trinsic
 - Transmute
 - Spruce
+- MATTR
 - Disco.xyz

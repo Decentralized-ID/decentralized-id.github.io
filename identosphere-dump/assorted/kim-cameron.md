@@ -56,3 +56,7 @@ Kim's technical excellence got him a seat at the table. His position at Microsof
 * [​​The gentle lawgiver](https://blogs.harvard.edu/doc/2021/12/06/the-gentle-lawgiver/) Doc Searls
 
 What I want to celebrate, however, isn’t just Kim’s thoughts and works, but his example: of how an open and generous person in a giant company can use its power for good, and not play the heavy doing it. That’s what Kim did for the two decades he was the top architect of Microsoft’s approach to digital identity and meta systems
+* [In Praise of Kim Cameron](https://openid.net/2021/12/04/in-praise-of-kim-cameron/) OpenID Foundation
+  > Not only did Kim “inject his 7 laws of identity into Microsoft’s DNA”, but did so throughout today’s growing global digital identity ecosystem.
+  > 
+  > Kim was crafty. He not only injected his thinking into Microsoft; as a champion of the Identity Standards Community, Kim embedded his thinking into the standards that inform many of the identity systems operating at scale today.

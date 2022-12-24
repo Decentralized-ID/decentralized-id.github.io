@@ -2,208 +2,101 @@
 published: false
 ---
 
-# Use-Cases
+# Verifiable Credentials
 
-- [Verifiable Credentials in Ben’s Serendipity](https://academy.affinidi.com/verifiable-credentials-in-bens-serendipity-b9acfa10f131) Affinidi (Drivers License, Medical, Employment)
-  > Think about it for a moment. No physical documents at all, but a simple and secure self-sovereign identity that Ben had complete control over. More importantly, look at the interoperability and flexibility as Ben could use them in different situations and across multiple platforms.
 * [How Exactly Are Verifiable Credentials Making the World Better?](https://sgershuni.medium.com/how-exactly-are-verifiable-credentials-making-the-world-better-eb72145c061) Stepan Gershuni
   > 6 stories of how verifiable credentials can improve the lives of every day people:
   > 
   > Ajay is an Uber driver in San Francisco. He wants to try various temporary jobs while he’s studying but joining Lyft, Postmates and other platforms requires going through a long and tedious background verification and car certification process over and over again.
-* [It's been 15 years of Project VRM: Here's a collection of use cases and requirements identified over the years](https://reb00ted.org/tech/20211011-vrm-use-cases/) rebooted
-  > I categorize them by the stage of the relationship between customer and vendor
 
-## Public Records
-* [Protecting Your Driver’s License](https://medium.com/affinidi/protecting-your-drivers-license-a-use-case-for-verifiable-credentials-25d22aeac05b) Affinidi
-  > the biggest advantage of such an SSI-based driver’s license is that there’s absolutely no possibility of loss. Furthermore, there is no question of your PII on the license to fall into the wrong hands because the holder has complete control over how it is used and with whom it is shared.
-- [Driving License as a Verifiable Credential](https://academy.affinidi.com/how-to-implement-driving-license-use-case-using-verifiable-credentials-cef928222c92) Affinidi
-- [Opening a Bank Account](https://academy.affinidi.com/opening-a-bank-account-a-use-case-for-verifiable-credentials-53ea478b5414) Affinidi
-
-## Supply Chain
-* [New Product to Support Pharmaceutical Supply Chain Compliance](https://medium.com/spherity/spherity-launches-new-product-to-support-pharmaceutical-supply-chain-compliance-28e5592b2dee) Spherity
-  > The product establishes trust in digital interactions between trading partners in pharmaceutical supply chains and ensures compliance with the U.S. Drug Supply Chain Security Act (DSCSA).
+## Evan Network
 * [Trusted Supply Chain: end-to-end compliance in multi-tier supply chain](https://evan.network/use-cases/trusted-supply-chain/) Evan Network
   > In the real estate industry, TRUST&TRACE can be used by companies to obtain required compliance information from a network of participating companies. In this way, all property data is collected step by step: from building construction and leasing to sale and demolition.
-* [deep cut] [The missing link: digitizing supply chains with portable data](https://medium.com/mavennet/the-missing-link-digitizing-supply-chains-with-portable-data-583b66acc9bc) Mavnet
+
+## Mavnet
+* [The missing link: digitizing supply chains with portable data](https://medium.com/mavennet/the-missing-link-digitizing-supply-chains-with-portable-data-583b66acc9bc) Mavnet
   > The traceability vocabulary bridges the gap between existing record-keeping systems and the verifiable exchange of supply chain information across organizations envisioned by proponents of these data portability technologies. 
-* [On solving the worldwide shipping crisis](https://blogs.harvard.edu/doc/2021/10/15/shipping/) Doc Searls
-  > “The supply chain is essentially in the hands of the private sector,” a White House official told Donna Littlejohn of the Los Angeles Daily News, “so we need the private sector…to help solve these problems.” But Biden has brokered a deal among the different stakeholders to end what was becoming a crisis.
-* [Dr. Carsten Stöcker - Decentralizing Provenance in an Industry 4.0 World](https://www.kuppingercole.com/watch/frontier-talk-podcast-3-decentralized-provenance) Frontier Talk
-  > In this episode, Raj Hegde sits down with Dr. Carsten Stöcker, Founder & CEO of Spherity to understand how #decentralized identity is transforming the end-to-end supply chain lifecycle.
-* [Recap: OECD Forum on Responsible Mineral Supply Chains](https://peerledger.medium.com/recap-oecd-forum-on-responsible-mineral-supply-chains-b5c8c63f5e41) Peerledger
-  > What kind of strategy will take you to being a next-generation utility company? For AEP Ohio, a large electric utility company based in Columbus, this challenge began with a comprehensive review of their entire ecosystem and which identified their key pain points for innovation.
+
+## Personal Data
 * [Why Location Data Brokers Put All Communities At Risk](https://me2ba.org/why-location-data-brokers-put-all-communities-at-risk/) Zach Edwards M2BA
   > New work that may leverage decentralized ID from the supply chain side of things…but not sure (lots of links inside on data brokers harm)
+* [Julian Wilson: Self-Sovereign Data meets Open Banking](https://mastersofprivacy.com/julian-wilson-self-sovereign-data-meets-open-banking/) Masters of Privacy
+  > Julian Wilson began his career at Apple in the late 80s [...] joined Ecospend in 2019 to build a self-sovereign data service on top of an Open Banking platform. He describes his role as putting an Internet lens onto product design.
 
+## GS1
 
 * [The Phygital Future of the Supply Chain](https://nextlevelsupplychainpodwithgs1us.libsyn.com/the-phygital-future-of-the-supply-chain) Next Level Supply Chain Podcast with GS1
   > The digital and physical world are merging more than ever before. As the supply chain becomes more ‘phygital,’ innovative ways of sharing data – like using verifiable credentials – are helping to build more trust with data along the supply chain. Join us as we chat with Senior VP of Innovation & Partnerships at GS1 US, Melanie Nuce, as we explore what’s around the corner and how standards play
+
+### CCG
 * [Open API for Interoperable Traceability](https://w3c-ccg.github.io/traceability-interop/openapi/%23overview) CCG
   > `resolve:dids - Grants permission to resolve DIDsissue:credentials - Grants permission issue Verifiable Credentialsverify:credentials - Grants permission verify Verifiable Credentialsread:credentials - Grants permission to get Verifiable Credentialsupdate:credentials - Grants permission to update the status of Verifiable Credentialsprove:presentations - Grants permission to prove Verifiable Presentationsverify:presentations - Grants permission verify Verifiable Presentationssubmit:presentations - Grants permission to submit Verifiable Presentations`
+
+## DOCK
 * [How to Prevent Supply Chain Fraud With Blockchain](https://www.dock.io/post/supply-chain-fraud-blockchain) Dock
   > The global [supply chain management market size](https://www.prnewswire.com/news-releases/supply-chain-management-scm-market-size-worth--19-3-billion-globally-by-2028-at-9-02--cagr-verified-market-research-301540702.html) was valued at USD 10.1 Billion in 2020 and is projected to reach USD 19.3 Billion by 2028. Supply chain is the path for any product such as food, clothes, or appliances to go from where it was a produced, to distributors, procurement officers (quality inspections), and the market.
 
-## Employment \ Formal Credentials
-- [On-Demand Employment Endorsements](https://academy.affinidi.com/on-demand-employment-endorsements-a-use-case-for-verifiable-credentials-d19d263a0fbb) Affinidi
-* [Rambling – Do I Need a Credential?](https://www.continuumloop.com/rambling-do-i-need-a-credential/) Continuum Loop
-  > I am a Professional Engineer, which in Canada, is a regulated profession. That means I am formally credentialed. The tech that I am issues comprises of a rubber stamp and an ink pad. Yup – 
-## Augmented Social Network
-* [Building decentralized social media](https://werd.io/2021/building-decentralized-social-media) Ben Werdmuller
-  > People, in general, want convenience from their technology, not morality. So instead of building a more ethical version of the past, we need to build a more suitable version of the future.
-
 ## Finance
-* [Julian Wilson: Self-Sovereign Data meets Open Banking](https://mastersofprivacy.com/julian-wilson-self-sovereign-data-meets-open-banking/) Masters of Privacy
-  > Julian Wilson began his career at Apple in the late 80s [...] joined Ecospend in 2019 to build a self-sovereign data service on top of an Open Banking platform. He describes his role as putting an Internet lens onto product design.
-* [Self Sovereign Identity/Decentralised Identity and Financial Services Webinar — A Synopsis](https://academy.affinidi.com/self-sovereign-identity-decentralised-identity-and-financial-services-webinar-a-recap-f5cecfb8b45c) Affinidi
-  > September 2nd, 2021 was a big day for all of us in the Global Developer Ecosystem (GDE) team of Affinidi as we geared to host our first [webinar on Self Sovereign Identity/Decentralised Identity and Financial Services](https://youtu.be/kR0IGOqmEwI) with Varsha Jagdale (General Manager of Financial Services at Affinidi) and Joseph Thompson (CEO of AID:Tech) as the speakers.
 * [Banking’s identity problem](https://www.globalbankingandfinance.com/bankings-identity-problem/) Global Banking and Finance
   > Banks have sought to overcome some of these challenges with the use of biometrics such as facial recognition and fingerprints.  These are now more commonly used to login to, or unlock devices, and increase usability, but still leave the challenge of proving the authenticity of a document wide open to abuse.
 * [Why Centralised Decentralised Finance (CeDeFi) and Self-sovereign Identity (SSI) Work Together](https://unizen-io.medium.com/why-centralised-decentralised-finance-cedefi-and-self-sovereign-identity-ssi-work-together-3dccb07f16f9) Unizen
   > the combination of Centralised and Decentralised Finance — unites two ways of interacting with assets into one. Centralised Finance (CeFi) represents traditional entities (e.g. banks, brokers, funds), Decentralised Finance (DeFi) covers blockchain financial applications, cryptocurrencies, exchanges, decentralised payment services, etc. By merging the two, high transparency, impactful innovation, and wide adoption can be achieved.
-
-## Collectibles
-* [Decentralizing and Securing Collectible Card Grading Services with the Mattereum Protocol](https://medium.com/humanizing-the-singularity/decentralizing-and-securing-collectible-card-grading-services-with-the-mattereum-protocol-ead040351c2)
-  > Avoid costly industry deadlocks and gatekeeping with a peer-produced, decentralized alternative to centralized collectible grading and authentication services with the Mattereum Protocol
+- [New Bank Account Use Case](https://www.youtube.com/watch?v%3DYRLu4U4hSZ8)
 
 
-## Off-chain \ Edge-chain
+## Indicio
 * [Identity Blockchains and Energy Consumption](https://indicio.tech/identity-blockchains-and-energy-consumption/) Indicio
   A decentralized network using a blockchain-based distributed ledger means you can use [Peer DIDs](https://identity.foundation/peer-did-method-spec/) to move most “transactions” and their cryptographic proofing off ledger. This means that for those peer-to-peer interactions, identity blockchains don’t need to do any ledger transactions at all.
-* [Microledgers and Edge-Chains - A Primer](https://decentralized-id.com/organizations/hyperledger/hgf-2018/Microledgers-Edgechains-Hardman-HGF/)
-  > so when you have this kind of a relationship what you have is two parties that are kind of at the edge of the old diagram, instead of the thing that’s in the middle, you have the things that are at the edges okay and these things at the edge are talking to each other. this is how I get the concept of an edge chain
-  
-## Privacy /  Security
-
-* [Can SSI Safeguard your Information from Hackers?](https://academy.affinidi.com/can-ssi-safeguard-your-information-from-hackers-1b256d3eb6cd) Affinidi
-  > The cryptography used is called the Public Key Infrastructure (PKI) that comprises a pair of public and private keys where the holder keeps the private keys, but shares the public keys.
-
-* [Can SSI Disrupt Surveillance Capitalism?](https://academy.affinidi.com/can-ssi-disrupt-surveillance-capitalism-5c8cd6b50278) Affinidi
-  Are these advantages enough to disrupt surveillance capitalism? Do you think SSI is the antidote for today’s Internet identity problems and surveillance capitalism? Please share your thoughts with us.
-* [Identity + Security + Privacy = Trust](https://digitalidentity.nz/2021/08/26/identity-security-privacy-trust/) DigitalID NZ
-  > We had [four insightful presentations](https://digitalidentity.nz/wp-content/uploads/sites/25/2021/08/Digital-and-Cyber-Risk-Beyond-2020.pdf), given by Jono Soo ([Marsh NZ](https://www.marsh.com/nz/services/cyber-risk.html)), Jonathon Berry ([InPhySec](https://www.inphysecsecurity.com/)), Andy Prow ([Red Shield](https://www.redshield.co/)) and Paul Platen ([SSS](https://www.sss.co.nz/)) which provided a deep-dive into what has been going on in the world of cyber security and insurance
-
-### Sorting
 
 
-* [Controlling Our ID with Self-Sovereign Identities](https://fromknowhowtowow.podigee.io/19-ssi) KnowHowToWow
-  > Bosch researcher Christian Borman explains how SSI will not only increase privacy but also have a positive impact on B2B interactions and supply chain management. Meanwhile, Geoff meets mentalist Thorsten Havener. Will he reveal Geoff’s true identity? Inspired by this, Shuko presents some crypto magic…
-
-* [Bonifii increases financial inclusion with GlobaliD digital wallet and Indicio Network](https://bonifii.com/2021/10/bonifii-increases-financial-inclusion-with-globalid-digital-wallet-and-indicio-network/)
-
-CULedger is now [Bonifii](https://bonifii.com/)! Delivering a trusted peer-to-peer services network of verifiable exchange for financial cooperatives.
-
-* [Building a digital trust ecosystem for mining in British Columbia](https://www.ibm.com/blogs/blockchain/2021/11/building-a-digital-trust-ecosystem-for-mining-in-british-columbia/) IBM
-
-The Mines Digital Trust Ecosystem wallet uses verifiable credentials which are enhanced digital versions of physical credentials. The Mines Digital Trust Ecosystem is built on technology that is highly transparent, secure, tamper-proof, and immutable. From the moment information is stored, it cannot be changed. Credentials can be revoked and re-issued as business processes dictate.
-* [#5 in the Financial Inclusion Interview Series – Concluding Remarks from GLEIF CEO, Stephan Wolf](https://www.gleif.org/en/newsroom/blog/number-5-in-the-financial-inclusion-interview-series-concluding-remarks-from-gleif-ceo-stephan-wolf)
-
-Throughout the financial inclusion interview series, we caught up with key partners to discuss the launch of GLEIF’s digital business identity initiative in Africa and how it is bringing about greater financial inclusion for African SMEs. Stephan Wolf, CEO of GLEIF, concludes the series by accentuating the immeasurable opportunities and transparency this initiative will bring to the global supply chain
-Liquid Avatar Technologies’ [PassmateTM](https://www.thenewswire.com/press-releases/1k98Fpjr0-liquid-avatar-technologies-and-dynamics-inc-tap-payment-infrastructure-for-verification-of-digital-credentials.html) shows how decentralized identity will transform the world: by easily integrating into systems that already exist. The soon-to-be-launched Software as a Service — conceived by Liquid Avatar’s David Lucatch, enables verifiable credentials to run on existing payment rails.
-* [Self-Sovereign IDENTITY and eID DOCUMENTS: Two worlds colliding?](https://www.cryptovision.com/wp-content/uploads/2021/11/VAULT_32_cv_self-sovereign-identity-and-eID-documents.pdf) Cryptovision
-
-At first view, the SSI approach is at odds with the electronic identity documents used in many states, as in the latter model it’s the state that has sovereignty over its citizens’ identity data. On closer inspection, however, SSI and electronic identity documents can complement and even benefit from each other.
-
-* [Impact of Self-Sovereign Identity in Real Estate](https://academy.affinidi.com/impact-of-self-sovereign-identity-in-real-estate-11456c4b1faa) Affinidi
-
-Real estate is one of the sectors that has not completely embraced digitalization, and this means, there’s a lot of potential to bring about change in this sector.
-* [Digital Memories](https://www.windley.com/archives/2021/11/digital_memories.shtml) Windley
-
-I think digital memories are one of the primary features of digital embodiment—giving people a place to stand in the digital world, their own perspective, memories, and capacity to act. We can't be peers online without having our own digital memories.
-
+## Education
 * [Super Skills, a mobile application use case for DIDs and VCs](https://medium.com/@ntonani/super-skills-a-mobile-application-use-case-for-dids-and-vcs-d174467ccf46)
 
 Beyond directly helping children learn in playful ways, this partnership was forged to assist in championing the importance of three learning primitives of tomorrow’s educational landscape: decentralized identifiers (DIDs), verifiable credentials (VCs), and digital wallets.
 
-* [Using Digital Identity To Prevent The Sale Of Age-Restricted Products](https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/02/using-digital-identity-to-prevent-the-sale-of-age-restricted-products/?sh%3D5de510a97f9d) Forbes
-
-This is not limited to alcohol, however. It also includes other age-restricted products such as tobacco, cannabis (where legal of course), vaping products, gambling, some movie tickets and even lottery tickets.
-* [Is the Self-Sovereign digital identity the future digital business registry?](https://blogs.worldbank.org/psd/self-sovereign-digital-identity-future-digital-business-registry) World Bank
+## business registry
+* [Is the Self-Sovereign digital identity the future digital business registry?](https://blogs.worldbank.org/psd/self-sovereign-digital-identity-future-digital-business-registry) GORAN VRANIC, ANDREJA MARUSIC; WorldBank
 
 This rapid digitalization of the private sector exposed a challenge in the business registration paradigm. To use private digital platforms for e-Logistics or e-Commerce, SMEs have to register and confirm their identity with these platforms, despite already being identified in the government business registry.
 
-* [The Value of Transparency in Digital Trade Finance, with Aaron Seabrook, COO, Contour](http://gleif.org/en/newsroom/blog/the-value-of-transparency-in-digital-trade-finance-with-aaron-seabrook-coo-contour) GLEIF
-
-In November 2021, GLEIF partnered with Contour, a global network of banks, corporates and trade partners working together to revolutionize the trade finance industry by removing barriers to entry. The partnership enables the use of Legal Entity Identifiers (LEIs) within Contour’s platform and puts digital identity at the heart of its proposition.
-
-
-* [Is SSI the Disruptor for a Better World?](https://academy.affinidi.com/is-ssi-the-disruptor-for-a-better-world-aec34cef6275) Affinidi
-
-There is a big need for solutions to enable trusted interactions, especially when it comes to identification and authentication. It all stems from the fact that the [Internet](https://academy.affinidi.com/web-2-0-vs-web-3-0-a-bridge-between-the-past-and-the-future-c99668c1e2f0) was never designed for identities of individuals in the first place. Though we have standards and protocols for transactions, these are not constructed to enable the average user control of his or her digital identity without depending on a single third party.
-
-* [Using DID as a Second-factor Authentication](https://academy.affinidi.com/using-did-as-a-second-factor-authentication-198630db4a1c) Affinidi
-
-you can provide your DID instead of disclosing your phone number or email ID as the second factor of authentication. In the second step of verification, you will have to prove that you are the owner of that DID provided during the initial setup.
+## Healthcare
 
 * [ExO Economy Town Hall 11 Medtech & Self Sovereign Identity](https://www.youtube.com/watch?v%3D_yV1K-sw8tM) Adam B Levine Kaliya Identity Woman Young
 
 * [http://economy.openexo.com](https://economy.openexo.com/) ExO Economy Town Hall #11 Q- Medtech and Self Sovereign Identity - Adam B Levine & Kaliya Identity Woman Young
+* [Simplify medical supply orders with SSI: Techruption innovation project](https://www.brightlands.com/en/brightlands-smart-services-campus/brightlands-techruption-SSI-simplifies-medical-supply-orders)
 
-* [The Internet of Trade - A vision: Building the nervous system of the world economy](https://www.gleif.org/en/newsroom/blog/the-internet-of-trade) GLEIF
+Participants in this co-creation use case were TNO, CZ, Rabobank and Accenture. The developed solution can be applied in other industries as well. For example in public services, which are often offered by a network of organisations that are all required to comply with high administrative standards.
 
-Many areas of production and trade have been digitized, but in the absence of a universal approach to digital networking, siloed systems have been implemented, creating countless ‘digital islands’. Data is still transferred between the participants’ computer systems on printed documents or as unstructured PDFs.
+## Fraud
 
-* [Is the Self-Sovereign digital identity the future digital business registry?](https://blogs.worldbank.org/psd/self-sovereign-digital-identity-future-digital-business-registry) GORAN VRANIC, ANDREJA MARUSIC
-* [How LEI datasets can enhance global sustainability initiatives and climate-aligned finance](https://www.gleif.org/en/newsroom/blog/how-lei-datasets-can-enhance-global-sustainability-initiatives-and-climate-aligned-finance) GLEIF
-
-During COP26, GLEIF announced a partnership with Amazon and OS-Climate to add LEI datasets to Amazon’s Sustainability Data Initiative (ASDI) open-data catalog. [...]. We have since caught up with Ana Pinheiro Privette, Global Lead for ASDI, to discuss how the partnership is working to improve global sustainability data modelling, mapping and calculations, and the expected impact on climate finance risk and opportunity evaluations.
-
-* [Spherity is Partnering with Legisym Offering Joint Compliance Product for the U.S. Life Sciences Marke](https://medium.com/spherity/spherity-is-partnering-with-legisym-offering-joint-compliance-product-for-the-u-s-cbf9fd5a217) Spherity
-
-“Legisym is thrilled to be working alongside Spherity to bring the first production-level ATP Credentialing solution to the industry,” said Legisym President & Co-Owner David Kessler. “With the successful completion of the ATP Credentialing Pilot in 2020 and the joint founding of the Open Credentialing Initiative in early 2021, the Spherity-Legisym partnership is already proving successful in collaboration and forward thinking.”
-
-are we building for these use-cases?
-* [Apartment rentals and fraud: Discover technology that will ensure trusted content.](https://medium.com/@michelplante/apartment-rentals-and-fraud-cf2ebc572890)
+* [Apartment rentals and fraud: Discover technology that will ensure trusted content](https://medium.com/@michelplante/apartment-rentals-and-fraud-cf2ebc572890)
 
 At the root of the problem is the fact that uniquely identifying a person is hard to do and that people can create fake IDs for themselves quite easily.
 
+## Security
 * [Digital IDs under attack: How to tackle the threat?](https://www.helpnetsecurity.com/2022/01/27/ssi-face-presentation-attacks/)
 
 - photo attacks based on the presentation of facial evidence of an image of a face printed or displayed via a device’s screen.
 - video of user replay attack usually consisting of placing the screen of the attacker’s device in front of the camera.
 - 3D mask attacks where 3D masks are crafted to reproduce the real traits of a human face and even include eyes holes to fool the liveliness detection based on eye gaze, blinking and motion.
 - deepfake attacks make use of leveraging software capable to create a synthetic video or image realistically representing someone else. Attackers are suspected to have access to a wide dataset containing images or a video of their target.
-* [The Missing Ingredient for Globally Compatible ESG Data Collation and Reporting? Standardized Digital Entity Identification](https://www.gleif.org/en/newsroom/blog/the-missing-ingredient-for-globally-compatible-esg-data-collation-and-reporting-standardized-digital-entity-identification) GLEIF
-  > [Research](https://www.gleif.org/en/lei-solutions/regulatory-use-of-the-lei/gleif-and-data-foundation-comprehensive-entity-id-for-u-s-federal-government) conducted by GLEIF and the Data Foundation, indicates that the U.S. federal government alone uses 50 distinct and incompatible entity identification systems. When this fragmentation is amplified, taking into account the volume of different identifiers globally, it is easy to understand the challenges.
-* [Blockchains in HR: Prosoon and Talao go together on SSI and HR credentials](https://medium.com/@talao_io/blockchains-in-hr-prosoon-and-talao-go-together-on-ssi-and-hr-credentials-3b92968011fe)
+
+## Hiring \ Resume
 * [Trusted Career Credentials](https://www.linkedin.com/pulse/trusted-career-credentials-dr-gordon-jones/) Dr Gordon Jones
 
 Today, even in this digital world that has expanded over the past two years, the job market still relies on self-reported attributes, records, resumes, and/or LinkedIn profiles, that individuals share with employers or recruiters as the source for applicants and employee data.
 
-* [Leveraging Self-Sovereign Identity, Blockchain, and Zero-Knowledge Proof to Build a Privacy-Preserving Vaccination Pass](https://arxiv.org/pdf/2202.09207.pdf) Maurício Barrosa, Frederico Schardong, Ricardo Felipe Custódio
-
-This solution allows users to prove that they are vaccinated for different pathogens without revealing their identity. The architecture is loosely coupled, allowing components to be exchanged, which we discuss when we present the implementation of a working prototype.
-* [Avatars as Self Sovereign Digital Identity](https://653-eth.medium.com/avatars-as-self-sovereign-digital-identity-2acdf79d49c4) 653.ETH
-
-avatars (the visualisation of self-sovereign identities) go beyond simply providing users with further ownership and control over their cryptographically secure identities, by offering an end-to-end application ecosystem designed to facilitate the commerce and exchange of digital and physical services
-
-* [Can Verifiable Credentials Make Life Better for Refugees?](https://academy.affinidi.com/can-verifiable-credentials-make-life-better-for-refugees-ea887300f18d) Affinidi
-
-Let’s say Mr.X is forced out of his country due to war and he reaches the neighboring country but doesn’t have any physical document to prove his identity such as name, address, educational qualifications, work experience, etc.
-
-* [How large is the market for Energy Web DIDs?](https://medium.com/energy-web-insights/how-large-is-the-market-for-energy-web-dids-bda42a2848cc) EnergyWeb
-
-At Energy Web, we understand that in order to have any meaningful adoption of enterprise applications using decentral technology, a DID-based tech stack has to be offered in a convenient and reliable way as well. This is why we’re developing the Decentralized Service Level Assurance (DLSA) solution.
-
-
+## Africa
 * [Digital identity can transform Africa’s economic landscape](https://www.globalbusinessoutlook.com/digital-identity-can-transform-africas-economic-landscape/)
 
 In 2018, I was trying to open a bank account in my home town of Mutare, Zimbabwe, having just come back from the 1st world, I was under the impression it would take me at most 30 mins to an hour. I immediately realised I couldn’t provide most of the requirements such as my ‘Proof of Residence’ and many more. It turns out it took weeks and months for some to finish the entire process.
 
-* [Countering Marketplace Deception with Mattereum’s Trust-as-a-Service Platform](https://medium.com/humanizing-the-singularity/countering-marketplace-deception-with-mattereums-trust-as-a-service-platform-2615dc2c47be)
-
-Marketplace deception is everywhere, at great cost and risk to consumers and businesses. Regulation alone won’t fix it. Can Mattereum Asset Passports and Product Information Markets help secure trust in B2B and B2C trade?
-
-* [Self-sovereign identity use cases](https://blog.cheqd.io/self-sovereign-identity-use-cases-43bb03d49e13) Cheqd
-
-While self-sovereign identity (SSI) sounds like an unfamiliar concept for some, others are actively leveraging the technology to address industry-specific challenges — take the KYC trial of the [Financial Conduct Authority](https://www.evernym.com/blog/evernym-accepted-into-fca-regulatory-sandbox/) or the [IATA Travel Pass.](https://www.iata.org/en/pressroom/pr/2020-12-16-01/)
-
-* [Mobile Messaging, it’s more than 160 characters! It Is Time to Get Strategic](https://identitypraxis.com/2021/09/15/mobile-messaging-its-more-than-160-characters-it-is-time-to-get-strategic/) IdentityPraxis
-
-Yes, text messaging, aka SMS, is ubiquitous, but what should you do when you need to grow beyond what texting has to offer? Remember, “the medium is the message” (Marshall McLuhan, 1964). Text messaging is not the right channel for every engagement.
-
 * [Self-sovereign digital identity is a game changer for African financial inclusion](https://it-online.co.za/2021/09/10/self-sovereign-digital-identity-is-a-game-changer-for-african-financial-inclusion/) ITOnline
 
 Much like cell phone technology and the internet, the true power of SSDI will only be unleashed when it is embedded across all sectors of society, from education and medical care to telecommunications and retail. And that will require all role players – government bodies, regulators, service providers, public and private agencies – to take up the SSDI baton and become part of the change.
+
+### Smart Home
 
 * [SSI for smart locks](https://twitter.com/AnimoSolutions/status/1394895595236626433) h\t Animo
 
@@ -212,7 +105,11 @@ Much like cell phone technology and the internet, the true power of SSDI will on
 
 * [@_XPID_](https://twitter.com/_XPID_) · [Nov 2](https://twitter.com/_XPID_/status/1323371035484250113)
   > Check out the latest version of our beta prototype in the Appstore for #verifiablecredentials for #LoyaltyPrograms. https://apps.apple.com/us/app/id1458328593 When #sovereign #decentralized #identity becomes a reality, your #Loyalty and #loyaltyrewards #Wallet will be on XPID. #SSI
+
+## Passwordless
 * [The End of Logins and Passwords, Just for Starters](https://thereboot.com/the-end-of-logins-and-passwords-just-for-starters/) The Reboot
+
+## Accountability
 * [verify the verifier use-case](https://bloqzone.com/who-wants-to-know/) TNO
   > The article proposes including coercion countermeasures in governance frameworks:
   > - Require authoritative verifier.
@@ -220,68 +117,27 @@ Much like cell phone technology and the internet, the true power of SSDI will on
   > - Require enabling anonymous complaints.
   > - Require remote/proxy verification.
   > - Require complying holder agent.
+
+## Identos
 * [Groundwork laid for mass digital identity take up as use cases grow](https://www.biometricupdate.com/202108/groundwork-laid-for-mass-digital-identity-take-up-as-use-cases-grow) Biometric update
 
 Identos is adding W3C (World Wide Web Consortium) verifiable credentials as a product feature for its digital ID solutions by the end of the year, announcing its position in the race to incorporate international standards for how digital credentials – from health records to degree certificates – are stored and verified.
 
-* [Impact of Self-Sovereign Identity in Real Estate](https://academy.affinidi.com/impact-of-self-sovereign-identity-in-real-estate-11456c4b1faa) Affinidi
-
-One sector where SSI is expected to have far-reaching implications is the real estate industry, as it has the potential to bring in a lot of transparency and trust among the stakeholders.
-
-So, how does SSI fit into this traditional real-estate sector?
-
+## Meeco
 * [Opening the domestic card rails to innovation](https://blog.meeco.me/opening-the-domestic-card-rails-to-innovation/) Meeco
 
 Enabling Australian FinTechs a direct avenue to discuss how they partner and collaborate to access the eftpos payments network through the Committee resulted in recommendations that covered a number of central themes, including consultation and engagement, regulation, and technology and solutionsBen Tabell, eftpos Chief Information Officer and Committee Chair
 
-
-
+## Gaming
 * [Self-Sovereign Identity for Online Gaming, VR, & AR – Crucible](https://identity-economy.de/self-sovereign-identity-for-online-gaming-vr-ar-crucible) Evernym (via identity-economy.de)
 
 Crucible's CEO (Ryan Gill) and CTO (Toby Tremayne) for a discussion on what self-sovereign identity (SSI) and verifiable credentials mean for gaming and the greater online entertainment sector.
 
-* [Introduction to Smart Property](https://medium.com/humanizing-the-singularity/introduction-to-smart-property-ecb446268f23) Humanizing the Singularity
-
-How can we streamline and improve the techno-social protocols around commerce so we can better maintain equilibrium with our planet and ourselves?
-
-
-* [Electronic signatures for hospitality](https://www.validatedid.com/post-en/electronic-signatures-for-hospitality) ValidatedID
-
-Looking at the many developments that have happened lately, digitization has become the center of attention for all kinds of industries, and yet many of the typical processes within the hospitality industry remain paper-based.
-
-* [Using Blockchain to Get Information When You Need It from Wherever You Are](http://informationmatters.org/2021/08/using-blockchain-to-get-information-when-you-need-it-from-wherever-you-are/) Information Matters
-  > The goal of this project is to provide unencumbered access to digital content and print collections while ensuring the privacy and personal identity of each user is secure. Partner libraries will issue a ULC to any individual with either a fixed or descriptive address. Information access will be increased as users gain access to resources and services in those libraries that recognize the ULC.
-
-
-
-* [How Credit Unions Use Verifiable Credentials with Members with John Ainsworth](https://northernblock.io/how-credit-unions-use-verifiable-credentials-with-members/) Northern Block
-
-Learn how Bonifii is using Verifiable Credentials as a Digital Transformation mechanism for Credit Unions to Increase Engagement with their Members. John Ainsworth explains how they are revolutionizing how Credit Unions say “hello” to a member.
-* [The Benefits of Automating Your Employees’ Identity Verification](https://authenteq.com/the-benefits-of-automating-your-employees-identity-verification/)
-
-* [Digital signatures, a fast track to digital transformation in the real estate sector](https://www.validatedid.com/post-en/digital-signatures-a-fast-track-to-digital-transformation-in-the-real-estate-sector)
-
-The latest real estate trend reports show how the pandemic has accelerated the use of technology and the implementation of trends such as teleworking and digitisation of processes. Find out how digital signatures are revolutionising the industry.
-
+## Credit unions
 * [Building an SSI Ecosystem: MemberPass and Credit Unions](https://www.windley.com/archives/2021/06/building_an_ssi_ecosystem_memberpass_and_credit_unions.shtml)
 
 Credit unions and their members face the threat of fraud on all sides. And credit unions employ lots of tools to fight it. But ultimately, the problem comes down to the member and credit union authenticating each other. The problem is that doing this securely annoys people.
-* [IdRamp and QiqoChat Announce Verifiable Credentials for Online Collaboration](https://talkcmo.com/news/idramp-and-qiqochat-announce-verifiable-credentials-for-online-collaboration/)
 
-QiqoChat has really stepped up in this time of need to provide an incredible online event user-experience, enabling a re-creation of the IIW experience throughout our Covid travel restrictions. This week they announced the launch of a Verifiable Credentials integration with the QiqoChat platform.
-
-> The community of professionals working on data privacy & consumer protection has been an early adopter of QiqoChat. During regional and global conferences, they have used the platform to share ideas and deliberate about the future of user-centric identity. Through these conferences, we’ve learned how solutions like IdRamp can be tremendously empowering for Internet users.
-
-* [Simplify medical supply orders with SSI: Techruption innovation project](https://www.brightlands.com/en/brightlands-smart-services-campus/brightlands-techruption-SSI-simplifies-medical-supply-orders)
-
-Participants in this co-creation use case were TNO, CZ, Rabobank and Accenture. The developed solution can be applied in other industries as well. For example in public services, which are often offered by a network of organisations that are all required to comply with high administrative standards.
-
-* [Divitel & Ledger Leopard Team Up to Apply Blockchain & Self Sovereign Identity Technology to Video Distribution](https://www.canto.org/blog/divitel-and-ledger-leopard-team-up-to-apply-blockchain-self-sovereign-identity-technology-to-video-distribution/)
-
-ready to market by end of end of 2022 offering increased flexibility, control, ease of use and speed when managing the access of video distribution ecosystem data, independent of the technology used.  Divitel video carrier customers will be offered the option to include this blockchain module on top of their ecosystems.
-
-
-* [Innovative concepts and software for managing digital master data and certificates](https://idunion.org/2021/06/14/innovative-konzepte-und-software-fuer-das-digitale-stammdaten-und-zertifikatsmanagement/?lang%3Den) IDUnion
 
 * [Evernym Selected as a 2021 Technology Pioneer by the World Economic Forum](https://www.evernym.com/blog/wef-technology-pioneer/)
 
@@ -291,103 +147,49 @@ The 2021 cohort of Tech Pioneers includes many future headline-makers at the for
 
 In our last post we briefly presented Veramo and how it evolved from the [challenges faced with uPort’s libraries](https://medium.com/uport/veramo-uports-open-source-evolution-d85fa463db1f). In this next series of articles we will give Veramo a proper introduction and answer some of the basics: why it exists and what it does, followed by articles describing the architecture in more detail, and how to build applications using [Veramo](https://veramo.io).
 
+## Auth0
 * [Verifiable Credentials with Auth0 and MATTR](https://auth0.com/blog/verifiable-credentials-with-auth0-and-mattr/)
 
 How to issue Verifiable Credentials from Auth0 user data using MATTR's Auth0 Marketplace Integration
-* [Verifiable Credentials with Auth0 and MATTR](https://auth0.com/blog/verifiable-credentials-with-auth0-and-mattr/) Damian Schenkelman
 
-How to issue Verifiable Credentials from Auth0 user data using MATTR's Auth0 Marketplace Integration
+## Memberpass
 * [MemberPass Digital ID can help Reduce Expenses and Build Member Trust](https://www.memberpass.com/2021/06/memberpass-digital-id-can-help-reduce-expenses-and-build-member-trust/)
 
 You can probably use the good news. It’s never been easy to run a credit union, especially when you get whacked from all sides. Regulations change, members always seem to want access to another shiny new technology gadget, and financial fraud continues to be a threat. On top of that, we’ve all had to grapple with the pervasive life-changing effects of the coronavirus pandemic for the past year.
 
-* [Empowering humans for a digital age and global economy via Self-Sovereign Identity](https://vladanlausevic.medium.com/empowering-humans-for-a-digital-age-and-global-economy-via-self-sovereign-identity-457ef947f33b)
+## E-Commerce
 
-based on the article [Self-Sovereign Identity in a Globalized World: Credentials-Based Identity Systems as a Driver for Economic Inclusion](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00028/full) by Fennie Wang and Primavera De Filippi.
-* [Decentralized Identity isn't a hypothetical need, as I personally experienced this week](https://twitter.com/csuwildcat/status/1410697679890489348)
-
-* [https://app.slidebean.com/p/6acrochkpj/IIW-April-22-2021](https://app.slidebean.com/p/6acrochkpj/IIW-April-22-2021)
-
-State agency feedback:
-
-- Identity is at the heart
-- Disconnect between the data desired and the data entered
-- Confusing fields, more confusing mapping
-- Mismatched data
-- Stick to 99% of a standard
-
-School has changed:
-
-- Used to be:
-- District organized by physical location
-- Revenue systems based on seat time
-- School buildings
-- Classrooms divided into grades
-- Teachers as sage on the stage
-- COVID:
-- Some kids still out of school
-- Playlists, virtual classrooms, hybrid
-- Access to food. Access to internet. Access to a device.
-- Teachers maxed to the limit
-- FUTURE:
-- Learning Loss?!?
-- Social Emotional Learning?!?
-- 1/3 of students expected not to return
-- Virtual models abound
-- Teacher mobility and agency
-- Chaos versus Opportunity?
-
-Questions for discussion:
-
-- Identity technical solutions are easy. The data clean up and alignment is the first problem to solve.
-- How can self attestation be trustworthy?
-- What are the responsibilities of a proxy issuer?
-- How far can we move people's cheese before they rebel?
 * [Self-Sovereign E-Commerce](https://iiw.idcommons.net/23J/_Self-Sovereign_E-Commerce) by Doc Searls
 
 There is momentum here, and a need to start building out much of what was discussed.
 
-Doc introduced the session with the slide deck
-
-* [here](https://www.slideshare.net/dsearls/day3iiw-sesion)
-
-, wearing his hat as a founding member of
-
-* [Customer Commons](http://customercommons.org)
-
-, the .org working on the Intention Byway discussed at earlier IIW sessions and described in
-
-* [this blog](https://customercommons.org/2021/04/27/a-new-way/)
-
-, posed later.
+Doc introduced the session with the slide deck [here](https://www.slideshare.net/dsearls/day3iiw-sesion), wearing his hat as a founding member of [Customer Commons](http://customercommons.org), the .org working on the Intention Byway discussed at earlier IIW sessions and described in [this blog](https://customercommons.org/2021/04/27/a-new-way/), posed later.
 
 His case is that the incumbent e-commece system hasn’t progressed past its dependence on the cookie, and perhaps never will; and that there is a need to stand up an alternate model, built on asynchronous pub-sub messaging and compute nodes that run apps that don’t have to come from the stores of Apple and Google.
 
 First examples of target areas (where communities are already active) are food distribution in Michigan and real estate in Boston. Hadrian Zbarcea led the discussion of both, using slides from the deck above.
-* [Growing confidence is programmed in – how self-sovereign digital identities make business relationships easier](https://www.bosch.com/research/blog/economy-of-things/technology/%23ssi_) Bosch
-
-Bosch will now also systematically transfer the self-sovereign identity (SSI) principle to the B2B sector – in other words to business relationships between companies. A further step will involve transferring it to secure and trustworthy interactions between machines.
 
 ### Career Creds
 * [Self sovereign career identity](https://diginomica.com/self-sovereign-career-identity-conversation-meg-bear-sap-successfactors) Diginomica with Meg Bear
   > The Velocity piece is a way for me as an individual to own my credentials, to say, these are the things that I know. And these are the things I've done. And if I can own that, I have a lot more interest in it. And I can use it in a lot more interesting ways. In the past, that might have just been something that I built as reputation within a company, I can now make that a more dynamic and portable reputation I can take with me anywhere.
 
+## Velocity Network
 Having a look at [the Velocity Whitepaper](https://www.velocitynetwork.foundation/wp-content/uploads/2020/11/Velocity-Non-Technical-Whitepaper-091120-V1.15-Published.pdf) it does mention they are keeping an eye on the work developing in W3C and DIF.
-- [New Bank Account Use Case](https://www.youtube.com/watch?v%3DYRLu4U4hSZ8)
+
+## DHS
 - [DHS SVIP Plugfest #2: Limited Disclosure Scenario](https://www.youtube.com/watch?v%3DBBSX0ljiCPU)
+
+## DOMI
 * [A brighter future for tenant/landlord relationships](https://domilabs.io/tenant-landlord-relationships/) Domi Labs
 
 it’s hard to keep track since some call, some… email, and still others send you a message on WhatsApp.” Going through all of these disparate messages is its own fulltime job!
 
 That’s why Domi locates all communication about a property in one place, making it easy for tenants and property managers to stay in touch.
-* [Gravity’s Decentralized Identity Protocol, Built on Tezos, To Power DIGID Project in Kenya](https://medium.com/gravity-earth/gravitys-decentralized-identity-protocol-built-on-tezos-to-power-digid-project-in-kenya-a85069f2a027)
 
-This month, Gravity joined some of the largest international NGOs in the world to launch the [Dignified Identities in Cash Programming (DIGID)](https://hiplatform.org/digid) project in Kenya. The goal of this project is to help the Kenya Red Cross leverage Gravity’s decentralized identity protocol on Tezos to provide much-needed cash transfers to vulnerable Kenyan populations.
+
 * [Blockchain and the Decentralised Workforce](https://workforcefuturist.substack.com/p/blockchain-and-the-decentralised-workforce) WorkforceFuturist
 
 ## Trade
-
-* [Federal Blockchain News](https://www.spreaker.com/show/federal-blockchain-news) - Podcast talking about SSI use at CBP
 
 * [Vincent Annunziato,](https://www.spreaker.com/user/13158652/ep8-cbp-vincent-annunziato) talks about his work with The Silicon Valley Innovation Program. He is the Director of Transformation & Innovation Division of the Customs and Border Patrol Office of Trade, talks about shaping blockchain technologies to make imports safer and more secure. CBP's current projects include tracking steel, oil, and natural gas imports from Canada.
 
@@ -396,9 +198,6 @@ This month, Gravity joined some of the largest international NGOs in the world t
 * [The Equifax Incident, And How SSI Could Have Prevented It](https://europechain.io/identity/equifax-incident-ssi-prevented-it/) Europechain
   > On March 8, 2017, Cisco staff found and reported a critical flaw in Apache Struts, an open-source framework that enables the creation of web-based Java applications. The vulnerability in question was identified as CVE-2017-5638. In short, Strut’s parser tool, Jakarta, could be manipulated to enable a malicious actor to upload files remotely to a server, and potentially run code on that compromised server.
 
-* [Digital signatures, a fast track to digital transformation in the real estate sector](https://www.validatedid.com/post-en/digital-signatures-a-fast-track-to-digital-transformation-in-the-real-estate-sector) ValidatedID
-
-The report [Emerging Trends in Real Estate in Europe 2021](https://bit.ly/2Smqj8x), prepared by PwC and Urban Land Institute (ULI), presents a sector in full transformation. It also shows how the pandemic has accelerated the use of technology and the implementation of trends such as remote working and the digitisation of processes.
 
 * [A Holochain DocuSign Challenge](https://blog.holochain.org/a-holochain-docusign-challenge/)
 * [Use Case: American Electric Power](https://idramp.com/use-case-american-electric-power/)
@@ -438,9 +237,6 @@ The report [Emerging Trends in Real Estate in Europe 2021](https://bit.ly/2Smqj
 * [Digital Identity Isn’t Only For People](https://www.forbes.com/sites/davidbirch/2020/12/22/digital-identity-isnt-only-for-people/) David Birch, Forbes
   > fintechs and regtechs looking for opportunities in the digital identity space should cast their ideas net pretty wide. Digital identities are not only for people and the future desperately needs digital identities for pretty much everything to underpin recognition, relationships and reputation (the 3Rs of the online economy).
 
-* [SportChain: a Decentralized Trust and Reputation Service for the Sports Industry](https://www.validatedid.com/post-en/sportchain-a-decentralized-trust-and-reputation-service-for-the-sports-industry) ValidatedID
-
-Do you know the story of Carlos Kaiser? He was a professional Brazilian football player [that never played a single match](https://www.theguardian.com/football/blog/2017/apr/26/the-forgotten-story-of-carlos-kaiser-footballs-greatest-conman) but managed to still have a professional football career. He wanted the lifestyle without having to do the work.
 
 * [Why self-sovereign identity will get adopted (and it’s not the reason you probably want)](https://www.tuesdaynight.org/2018/06/15/why-self-sovereign-identity-will-get-adopted-and-its-not-the-reason-you-probably-want/) Tuesday Night
 
@@ -462,9 +258,7 @@ If there was a trust framework for police departments and a DID registry for the
 
 If you want to se how hard this was/would have been to achieve in earlier technology stacks take a look at [conceptual outlines](https://trustmark.gtri.gatech.edu/concept/) from this NSTIC (National Strategies for Trusted Identities in Cyberspace) developing a trust framework for law enforcement federations done by the Georgia Technology Reserach Institute and the [results/learnings.](https://trustmark.gtri.gatech.edu/insights/)
 
-* [Stedin, the Dutch Distribution System Operator, Announces Partnership with Energy Web to Explore the Future of Asset Management](https://medium.com/energy-web-insights/stedin-the-dutch-distribution-system-operator-announces-partnership-with-energy-web-to-explore-cd278623809b)
 
-Energy Web, the non-profit building operating systems for energy grids, and Stedin, the Dutch distribution system operator (DSO), announced a partnership today to deploy a future-proofed solution for managing energy assets. This would include DSO-native devices, such as smart meters and distribution automation devices, and consumer/prosumer devices commonly referred to as distributed energy resources (DERs).
 
 * [Trusted Timestamping Part 1: Scenarios](https://medium.com/finema/trusted-timestamping-part-1-scenarios-9bf4a7cc2364) Nunnaphat Songmanee, Finema
 
@@ -537,9 +331,8 @@ The non-transferability of verifiable credential is one of their super powers. T
 
 - [SSI and FIDO2: Different approaches for a passwordless world](https://blog.avast.com/ssi-fido2)
 
-* [GLEIF – Standardizing Legal Entity Verification (with Karla McKenna)](https://northernblock.io/gleif-standardizing-legal-entity-verification-with-karla-mckenna/) Northern Block
 
-I see what we’re doing in self-sovereign identity as further reducing the costs of business/transactions. And this incremental value value is achieved by reducing trust costs across silos.
+
 
 
 
@@ -549,27 +342,16 @@ I see what we’re doing in self-sovereign identity as further reducing the cost
 - Zaisan’s my.D platform leverages blockchain technology to provide a [comprehensive digital identity management solution](https://myd.online/)
 - My.D enables a cost-effective and efficient management solution for an individual’s digital credentials
 
-* [Digital Identity: It’s All About Authenticity](https://www.youtube.com/watch?v%3DUR0J-Vuxnuc) video from GLEIF
 
-Through the creation of the verifiable Legal Entity Identifier (vLEI), GLEIF has created a universal system of organizational identity that answers this need. The vLEI enables instant and automated business verification for all legal entities and their official representatives
 
-* [An Energy Data Space to boost the European data economy](https://medium.com/energy-web-insights/an-energy-data-space-to-boost-the-european-data-economy-7edf6fc1f6f6) EnergyWeb
 
-“There will be no Green Energy Transition without full digitalization. There will be no EU data strategy without data sharing. Data Spaces can answer to both challenges at once, being Energy one of the flagship use cases.” Javier Valiño — Atos
+
+
 
 
 * [Drone Pilot Credentialing for Air Safety](https://www.youtube.com/watch?v%3DGqMsaI3P51o) TOIP
 
 Discussed the approach and the implementation challenges of drone pilot credentialing for air safety using verifiable credentials at the July 21, 2022 Ecosystem Foundry Working Group of the Trust Over IP Foundation.
-
-* [Supercharge your Job Search with Next-gen Tech](https://academy.affinidi.com/supercharge-your-job-search-with-next-gen-tech-5339e0008250) results of Affinidi hackathon
-
-They came up with impressive submissions, ranging from job portals showcasing verified jobs and companies to scam alert verification features.
-
-* [Energy Web and Volkswagen deliver 24/7 renewable energy charging solution for electric vehicles](https://medium.com/energy-web-insights/energy-web-and-volkswagen-deliver-24-7-renewable-energy-charging-solution-for-electric-vehicles-734132c5a737): Solution enables EV owners to charge from specific power plants and match their charging session with close to real-time production from renewables
-
-The purpose of this project has been to showcase that advanced EV charging solutions can empower EV owners to set their own preferences for when and where they get their energy. For instance, they can select to charge using wind and solar resources, from energy assets within a 10 km radius, and target 80% charge by 5 pm — all from within a user-friendly application, with an accurate breakdown of their session’s carbon footprint
-
 
 
 * [How Blockchain Technology and Self-Sovereign Identity Enables the New Normal of Remote Learning, Training and Working](https://www.linkedin.com/pulse/how-blockchain-technology-self-sovereign-identity-enables-hossain-) Md Sabbir Hossain
@@ -587,11 +369,6 @@ we need to figure out how to give more power to “better” actors within a giv
 * [Digital identities – building block for an automated energy system](https://www.smart-energy.com/digitalisation/digital-identities-building-block-for-an-automated-energy-system/) Smart Energy
 
 New features include credential revocation and expiration, full support for role-authorised issuance, credential issuance based on email verification and asset administration as well as better alignment with the W3C’s Verifiable Credential Standards.
-
-* [Unlocking the Potential of Self-Sovereign Identity for Enterprise with Energy Web Switchboard](https://medium.com/energy-web-insights/unlocking-the-potential-of-self-sovereign-identity-for-enterprise-with-energy-web-switchboard-ab41499003a0) EnergyWeb
-
-At Energy Web we believe self-sovereign identity (SSI) will become a fundamental pillar of the energy transition, enhancing interoperability and strengthening security for billions of assets, organizations, and customers.
-
 
 
 * [War Against the Robots – Pick your Side with SelfKey & Metaproof Platform](https://selfkey.org/war-against-the-robots-pick-your-side-with-selfkey-metaproof-platform/) SelfKey Foundation
@@ -624,10 +401,6 @@ We Credivera are Having fun at the #NSCExpo
 
 “recently launched [LearnCard](http://www.learncard.com/), a digital wallet for education and employment programmable verifiable credentials”
 
-* [A pilot project for interoperable decentralised identity between Aigües de Barcelona, CaixaBank and Validated ID](https://www.validatedid.com/post-en/open-innovation-project-for-the-collaboration-between-large-companies-and-emerging-companies) ValidatedID
-
-the solution has allowed CaixaBank, at the request of a fictitious user, to issue an account ownership credential and, subsequently, this credential has been used to proceed with the direct debit of the invoices of Aigües de Barcelona
-
 * [HUMBL @HUMBLPay](https://twitter.com/HUMBLPay/status/1574454647384813568) via Twitter ([ANN](https://www.globenewswire.com/en/news-release/2022/04/13/2421969/0/en/HUMBL-Selected-To-Pilot-Digital-Wallet-Program-On-Behalf-of-The-County-of-Santa-Cruz-California.html)
 
 using verifiable credentials in their wallet.
@@ -656,6 +429,3 @@ Most Refugees and IDPs did not have the time to properly prepare by gathering al
 
 “Verifying applicant career records can take days, weeks, if not months, to complete," said Dror Gurevich, founder and CEO of the Velocity Network Foundation. "Hiring methods are severely outdated to the point that one in three Americans have [admitted to lying on their resumes](https://t.yesware.com/tt/0db4de0058ee9613cdfcabd5fae96c6ca51e1b7f/275468cd0c53df0b2dfa60dbb913464b/c19e9bd03a563c32bab519acc1fa9f5b/www.resumebuilder.com/1-in-3-americans-admit-to-lying-on-resume/), which slows the hiring process immensely.
 
-* [Creating an Enterprise DID to Provide Power of Attorney for Employees](https://academy.affinidi.com/creating-an-enterprise-did-to-provide-power-of-attorney-for-employees-c7f20cef884f) Affinidi
-
-“How to have an enterprise [Decentralized Identifier (DID)](https://www.w3.org/TR/did-core/) when an employee 👨‍💼👩‍💼 can act on behalf of this company 🏢 with flexible permissions layer in a decentralized or peer-to-peer way?” [delagation]

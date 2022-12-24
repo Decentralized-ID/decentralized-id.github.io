@@ -54,9 +54,6 @@ Besides an exciting front side of virtual reality (VR) element that everybody co
 Web 3.0 encourages users participation and restore the control over their digital identity and assets
 
 
-* [Liquid Avatar Technologies and Bonifii Make Verifiable Credentials Accessible for People and Financial Institutions in the Metaverse](https://www.yahoo.com/now/liquid-avatar-technologies-bonifii-verifiable-133000234.html)
-
-Oasis Digital Studios ("Oasis"), Bonifii will make its verifiable credential available for players in the game [Aftermath Islands](https://pr.report/KAodixO3) and facilitate in-game financial transactions in the same, privacy-preserving way real world customers use the Bonifii credential. This collaboration in the metaverse breaks new ground in the emerging digital experiences of Web 3.0.
 * [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html) Moxie Marlinspike
 
 This guy gets it ^^^^^
@@ -118,11 +115,6 @@ Moxie argues that protocols evolve slowly, while platforms evolve quickly. That�
 
 A good explanation and good critique of Web3
 
-* [The Best of Both Worlds: Solving Doctorow’s Oracle Problem](https://medium.com/humanizing-the-singularity/the-best-of-both-worlds-solving-doctorows-oracle-problem-3287cda2e48b)
-
-So while the blockchain space is in some abstract sense perfectly private and perfectly reliable, things are weakest at the joints. The on-ramps and off-ramps are parts of the real world, they’re tied to physical reality and KYC/AML/CTF regulations.
-
-Any system connected to the real world is going to have some of the problems of the real world connected to it too. That’s just life.
 * [Web3: Self-Sovereign Authority and Self-Certifying Protocols](https://www.windley.com/archives/2022/02/web3_self-sovereign_authority_and_self-certifying_protocols.shtml) Phil Windley
 
 * [The metaverse is coming for your biometric and health data](https://disruptive.asia/metaverse-biometric-and-health-data-digital-rights%25ef%25bf%25bc/) Disruptive Asia
@@ -136,9 +128,6 @@ The tools people have to participate in these territories, browsers and password
 
 Rather than being a DAO, the world is a gigantic metasystem that provides numerous tacit capabilities for action and interaction. So, while “Life is a DAO” makes a better t-shirt, I prefer “Life is a Metasystem.” Take the red pill.
 
-* [What is New in the World of Blockchain?](https://medium.com/humanizing-the-singularity/what-is-new-in-the-world-of-blockchain-8a95cb4ac7ac) An Interview with Vinay Gupta
-
-Vinay: My history goes back to the 1990s. I was involved very heavily in the kind of cypherpunk movement in the ’90s. My first year where 100% of my salary went through crypto cash was 1999, so ‘99/2000 I got a full year of salary in crypto cash.
 * [Cryptocurrencies: A Necessary Scam?](https://mattstoller.substack.com/p/cryptocurrencies-a-necessary-scam?s%3Dr) Matt Stoller
 
 Both financial crisis reformers and Bitcoin proponents believe that the existing financial order is a collusive arrangement between large banks who are supported by government power…. Societies and social contracts are built on cooperative mechanisms, but also barriers and enforceable rules.
@@ -251,9 +240,6 @@ Whether it’s the enforcement of legal identities, platform lock-in, or more im
 Panel speakers: - Jesus Ruiz, Member of the Board and CTO, Alastria - Jun Li, Founder, Ontology - Ingo Rube, Founder and CEO, BOT Labs (KILT Protocol)
 
 
-* [FOS Ep. 5: Ian Grigg on Crypto, Identity, Community, and Building Positive-Sum Systems](https://medium.com/humanizing-the-singularity/fos-ep-5-ian-grigg-on-crypto-identity-community-and-building-positive-sum-systems-17ef316703b9)
-
-Ian Grigg is one of the most influential builders in the crypto space, having built digital asset systems since the nineties. We discuss his invention of the Ricardian contract framework, what makes cryptonetworks successful, identity as communal phenomenon, and the importance of building positive-sum systems.
 
 * [Self-Sovereign Identity, smart contracts and Web 3.0](https://hackernoon.com/self-sovereign-identity-smart-contracts-and-web-30-4dm375d) Hackernoon
 
@@ -545,10 +531,8 @@ we must work to preserve the freedom of individuals to self-identify by building
 
 
 
-* [The Blockchain Sheep of Reason: Why the blockchain works for the young and old people hate it](https://medium.com/humanizing-the-singularity/the-blockchain-sleep-of-reason-b28f3bd3f83b) Ian Simmons, Mattereum
 
-There is practically no boomer control of bitcoin or web3
-
+#
 * [Building a Consent Management System for Web 3.0](https://academy.affinidi.com/building-a-consent-management-system-for-web-3-0-39e79b792eea) Affinidi
 
 Affinidi’s consent manager has a simple architecture as it comprises only a few modules and this is what makes it easy to implement across any application stack.
@@ -578,15 +562,6 @@ In a much needed multi-chain extension to Sign-in with Ethereum, users will now 
 
 OWN (Ontology Web3 Network) Infrastructure is a series of general blockchain basic protocols and products provided by Ontology for Web3 applications. Basic components including data and reputation, etc., and general-purpose tools such as a Web3 wallet, etc. Web3 applications can choose different basic components according to different scenarios for easy integration.
 
-* [How to Save the Blockchain](https://medium.com/humanizing-the-singularity/how-to-save-the-blockchain-cc404daecc69) Ian Simmons, Matterium
-
-crypto wins by solving problems that nobody else can solve, profitably. It has to win at three levels to survive:
-
-- Ordinary people have to use it
-- It has to generate actual value, not just move value around
-- Governments have to tolerate it or use it themselves — either one will do
-
-Verifiable Credentials + Web3
 
 
 
@@ -637,21 +612,6 @@ The lack of a universal identity standard is holding us back; it’s harming col
 
 DSI is a multi-chain self-sovereign identity protocol enabling users to maintain a unified identity over Web3. It allows users to manage all their  as well as on-chain and off-chain credentials through a single identity which allows them to build their reputation and own their data and identity in a trustless and secure manner.
 
-* [Winter Has Come](https://medium.com/humanizing-the-singularity/winter-has-come-e56fcb667cfa) Humanizing the Singularity
-
-crypto wins by solving problems that nobody else can solve, profitably. It has to win at three levels to survive:
-
-- Ordinary people have to use it
-- It has to generate actual value, not just move value around
-- Governments have to tolerate it or use it themselves — either one will do
-
-* [Build Back Better!](https://medium.com/humanizing-the-singularity/build-back-better-8a1be80623b2) Humanizing the Singularity
-
-VR is not ready for artistic reasons, far more than for technical ones.
-
-So my prediction is this: the Metaverse is going to fail.
-
-The stay-at-home culture which VR is fundamentally rooted in doesn’t provide the lived experiences which people want.
 
 * [What is a DAO? A non-technical definition](https://reb00ted.org/society/20220703-dao-definition/) Reb00ted
 
@@ -757,9 +717,6 @@ The open source implementation of DID on Cardano
 
 On this theme, I’m particularly interested in one event, an attempt to [map the projects that make up the DWeb](https://gitlab.com/getdweb/dweb-camp-2022/-/issues/77) and look for opportunities for interoperability. This was a [vision](https://dwebcamp2019.sched.com/event/S4vH/building-bridges-connecting-tech-stacks-for-humane-ux) I carried with me to the last DWeb Camp, and I’m hoping to see more conversations about building bridges between networks.
 
-* [How staking EWT increases cybersecurity for energy grids and enterprises](https://medium.com/energy-web-insights/how-staking-ewt-increases-cybersecurity-for-energy-grids-and-enterprises-f26bb308bb1a) EnergyWeb
-
-this mechanism is to use public blockchains, paired with cryptocurrency, for staking and distributing awards to nodes performing the verification work. By doing so, the execution of the verification mechanism is completely automated, immediate, and impartial.
 
 * [Understanding Decentralized Identities (DIDs) and Why They Matter for Web 3.0 Mass Adoption](https://techbullion.com/understanding-decentralized-identities-dids-and-why-they-matter-for-web-3-0-mass-adoption/) TechBullion
 

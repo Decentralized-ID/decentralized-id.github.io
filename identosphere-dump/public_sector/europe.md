@@ -43,9 +43,6 @@ Without a clear vision on identity, society will have no agency since the capabi
 
 Therefore it is important to have a good overview of what is happening in different parts of the world to see if we can not combine innovative solutions.
 
-* [Germany’s digital identity landscape with Verimi’s Roland Adrian](https://www.ubisecure.com/podcast/verimi-roland-adrian-identity-germany/)
-
-In episode 40, Roland fills us in on how Verimi works and its privacy-by-design cornerstones, including data minimisation. Oscar and Roland also discuss the digital identity landscape in Germany
 
 * [The EU Digital Green Certificate Program](https://www.evernym.com/blog/eu-digital-green-certificate-program/) Evernym
   > Although the EU’s approach to COVID-19 health certificates (the [Digital Green Certificate](https://ec.europa.eu/commission/presscorner/detail/en/qanda_21_1187) implements existing technology and supports both paper and digital credentials, offline usage, and speedy verification, it makes a number of security and privacy compromises. Our analysis found it to be inherently centralised and better suited for low assurance use cases.
@@ -103,20 +100,6 @@ Discover Eva’s journey using the blockchain solution developed by the European
 * [DIGITAL SERVICES ACT: A GAME CHANGER FOR OUR FUNDAMENTAL RIGHTS? [+ LIVE STREAM]](https://www.patrick-breyer.de/event/digital-services-act-a-game-changer-for-our-fundamental-rights/)
 
 With the [Digital Services Act (DSA)](https://www.patrick-breyer.de/en/posts/dsa/), the European Union is to adopt landmark legislation that will create a framework to regulate online platforms around the world. The DSA will have an impact on the free expression of opinions online, our choices as consumers, the right to privacy and the basic mechanisms of the global Internet.
-
-### Gov.UK
-
-* [Data: A new direction](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1016395/Data_Reform_Consultation_Document__Accessible_.pdf)
-
-● secure the UK's status as a global hub for the free and responsible flow of personal data - complementing our ambitious agenda for new trade deals and data partnerships with some of the world’s fastest growing economies
-
-● reinforce the responsibility of businesses to keep personal information safe, while empowering them to grow and innovate
-
-● ensure that the ICO remains a world-leading regulator, enabling people to use data responsibly to achieve economic and social goals
-
-* [Lord Holmes discusses state of digital identity in the UK](https://www.biometricupdate.com/202107/lord-holmes-discusses-state-of-digital-identity-in-the-uk)
-
-* [“](https://www.biometricupdate.com/202103/uk-government-runs-new-digital-id-system-pilot-for-public-services)[The next iteration of the framework](https://www.biometricupdate.com/202103/uk-government-runs-new-digital-id-system-pilot-for-public-services) mentioned earlier is due to be published this summer and I look forward to that. It will be essential for that work to not only be underpinned by the twelve guiding principles but also to swiftly ‘sandbox’, stand up parallel proofs in specific sectors and proceed with pace.”
 
 * [Blockchain-enabled Self-Sovereign Identity](https://www.e-zigurat.com/innovation-school/blog/self-sovereign-identity/)
   > Martin Schäffner, the initiator of the [EuSSI Working Group](https://europeanblockchainassociation.org/eba-working-group-self-sovereign-identity-eussi/) of the [European Blockchain Association](https://europeanblockchainassociation.org/) and expert in Self-Sovereign Identity, explains the concept of Self-Sovereign Identity and how it differentiates from conventional digital identities.
@@ -249,13 +232,11 @@ In this document, you can learn how to onboard and accredit the following legal 
 
 if you wonder how many of us, users, can really take advantage of PKI for identifying ourselves on the internet, the answer is quite deceiving. This mature technology has been available for decades but has never become mainstream among the society for identifying end users.
 
-* [EUDI Wallet: Illustration of the eIDAS roles and functions](https://lissi-id.medium.com/eu-id-wallet-illustration-of-the-eidas-roles-and-functions-6cb7bb6bca39) Lissi ID
 
-In the graphic below we reorganised and regrouped the stakeholders to map the requirements for the eIDAS toolbox architecture onto a SSI framework (Self-Sovereign Identity framework).
+
 
 * [Our Analysis of the EU Digital Identity Architecture and Reference Framework](https://www.evernym.com/blog/eu-digital-identity/) Evernym
-
-Broadly, we at Evernym/Avast are impressed with the content and the underlying principles in the Framework. There’s a lot that we like, but there are also some areas of significant concern that need careful attention.
+  > Broadly, we at Evernym/Avast are impressed with the content and the underlying principles in the Framework. There’s a lot that we like, but there are also some areas of significant concern that need careful attention.
 
 * [Global Identity Networks: How to Leverage Them for Business Benefit](https://www.kuppingercole.com/events/eic2022/blog/global-identity-networks-to-leverage-business-benefit) Kuppinger Cole
 
@@ -289,9 +270,6 @@ we have done extensive research & development into a use-case to let employees r
 - [Datarella GmbH](https://datarella.com) - Go Aries – Enabling CL-Support on Aries Framework Go
 
 
-* [@lissi_id The European Digital Identity #Wallet #EUDI will have a modular framework](https://mobile.twitter.com/lissi_id/status/1536645378451333127)
-
-for the user interface, data storage, cryptographic protocols, sensitive cryptographic material and eID mean modules. "[Requirements and Solution CNECT/LUX/2022/OP/0011](http://etendering.ted.europa.eu/cft/cft-documents.html?cftId%3D10237)"
 
 * [Congrats to the 11 wallet providers for being conformant to @EU_EBSI](https://mobile.twitter.com/IgrantIo/status/1532036324882104321/photo/1) @IgrantIo
 
@@ -346,9 +324,6 @@ EBSI: [Innovation that respects our privacy is a joint effort](https://ec.europa
 
 O’Neill’s [Weapons of Math destruction](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction), Zuboff’s [Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism), and Véliz’ recent [Privacy is Power](https://www.goodreads.com/en/book/show/51781479-privacy-is-power): these may have made it onto your summer reading list. And for good reason: wherever there is new technology, there is also concern for the respect of our European values.
 
-Explainer: [eIDAS 2.0 - Introduction to The European Digital Identity Wallet & The Evolution of Self-Sovereign Identity](https://utimaco.com/current-topics/blog/eidas-2-the-european-digital-identity-wallet)
-
-Until now, the [eIDAS regulation](https://www.legislation.gov.uk/eur/2014/910/contents) has only focused on online identification. However, the new proposal – eIDAS 2.0 – aims to extend identity to the world of physical services which can be accessed from anywhere around the globe.
 
 * [SSI subgrantee’s solutions booklet: download now!](https://essif-lab.eu/meet-the-essif-lab-ecosystem-completing-the-framework-programme-participants/) ESSIF-LAB ←report on all the NGI awardees ([report](https://essif-lab.eu/wp-content/uploads/2022/09/essif-booklet-22a.pdf)
 
@@ -387,9 +362,7 @@ The DGA defines an “intermediary” that facilitates processing and sharing of
 One of MyDex CIC’s founders, [Alan Mitchell shares a feeling of Vindication](https://medium.com/mydex/vindicated-cb897fb4e94b) in a post celebrating the companies early articulation of key principles and how the EU’s proposed new Data Governance Act aligns with that.
   > These providers will have to comply with a number of requirements, in particular the requirement to remain neutral as regards the data exchanged. They cannot use such data for other purposes. In the case of providers of data sharing services offering services for natural persons, the additional criterion of assuming fiduciary duties towards the individuals using them will also have to be met.
 * [Data Exchange Board to Improve the EU Data Governance Act](https://mydata.org/2020/12/09/why-we-need-a-data-exchange-board-to-improve-the-eu-data-governance-act/)
-* [Trust in the digital space](https://lissi-id.medium.com/trust-in-the-digital-space-7762471351cf) Lissi ID
 
-Would we rather have a high level of security or self-sovereignty? Unfortunately, the two aspects are at different ends of the spectrum. If we only allow pre-verified and approved parties to retrieve identity data, as currently envisaged by the [eIDAS regulation](https://lissi-id.medium.com/eidas-and-the-european-digital-identity-wallet-context-status-quo-and-why-it-will-change-the-2a7527f863b3), this severely restricts usage
 
 * [How Can Europe Lead Innovation And Win Web3? Ledger’s 4 Recommendations For EU Policymakers](https://acrobat.adobe.com/link/review?uri%3Durn:aaid:scds:US:fa00c64a-5f6d-38c6-baf7-0bcfa06e6a28%23pageNum%3D25)
 
@@ -402,10 +375,6 @@ The intention of the European Commission is to allow – or even force – accep
 
 
 - [Avast’s views on the proposed amendments to the eIDAS 2.0 regulation](https://blog.avast.com/eidas-2.0-amendments-analysis)
-
-* [UK Draft Digital Identity Framework Published](https://www.research-live.com/article/news/uk-draft-digital-identity-framework-published/id/5087382) Research Live
-
-Updates to the framework include new guidance on creating a consistent approach on user experience, rules on how to manage digital identity accounts, clearer definitions for the framework’s role and details on how organisations will be certified.
 
 * [Can a Verifiable Credential-based SSI Implementation meet GDPR Compliance?](https://academy.affinidi.com/can-a-verifiable-credential-based-ssi-implementation-meet-gdpr-compliance-5039d0149ea4)
 
@@ -493,3 +462,140 @@ On March 24th, 2022, [the European Parliament and Council reached an agreement o
   > - Credential status resolution
 
 
+* [Adopting eID in Europe and Beyond](https://stateofidentity.libsyn.com/adopting-eid-in-europe-and-beyond) State of Identity
+
+Digital identity is now recognized as a key building block in digitizing public administration; however, it requires interoperability with private sector use cases to drive value for its citizens.
+## Europe - Catalonia
+
+* [Catalonia launches a project for Self-Sovereign Identity to empower citizens in the digital world](https://politiquesdigitals.gencat.cat/en/detalls/Noticia/El-Govern-presenta-el-projecte-IdentiCAT-un-nou-model-didentitat-digital-autosobirana-que-converteix-el-ciutada-en-propietari-gestor-i-custodi-exclusiu-de-la-seva-identitat-i-dades) Politiques Digitales
+
+The Government will only act as a validator, giving the tools and a secure legal framework, but it will not in any case have the custody of the data.
+
+The Government of Catalonia has presented IdentiCAT, the new decentralized and self-sovereign digital identity model, which aims to become the first public digital identity at a European level and it will be self-managed by the citizen with the absolute legal guarantee and validity to operate with the public administration and the private sector.
+
+* [Data Sovereignty and Trusted Online Identity](https://beyondstandards.ieee.org/data-sovereignty-and-trusted-online-identity/) IEEE Beyond Standards
+
+IEEE SA co-organized a discussion panel at the Pan-European dialogue on Internet Governance (EuroDIG) conference, an event known for its frank and interactive discussions of public policy issues surrounding internet governance. Messages coming out of the discussions will be presented at the Internet Governance Forum (IGF) later this year.
+
+* [Where do we stand on Self-Sovereign Identity?](https://www.youtube.com/watch?v%3DL156YjEyOdo) EBSI
+
+On December 14th, Joao Rodrigues, Head of sector (Digital) Building Blocks at @European Commission participated in an [#ebcTALKS](https://www.youtube.com/hashtag/ebctalks) of the European Blockchain Convention about "Where do we stand on Self-Sovereign Identity"?
+
+
+In 2021 the European Commission [announced the European digital identity wallet](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_2663). This article explains the basic concepts, highlights the significance of this development and provides an overview of the status quo.
+
+
+
+## Organization
+
+* [European Union Digital Identity Wallet Consortium](https://eudiwalletconsortium.org/) EUDI
+
+The funding call is within the Digital Europe Programme (DIGITAL) topic 5.3.1.2 which requests support to implement the European Digital Identity Framework and the implementation of the Once Only System under the Single Digital Gateway Regulation. Up to €37m funding is available.
+
+European Union
+
+* [Welcoming the Wallet - What the new European Digtal Identity Framework means for citizens, governments and businesses](https://www.sc.pages05.net/lp/22466/795951/gov-wp-welcoming-the-wallet.pdf) Thales
+
+The concept of digital identification is already well established, and using a smartphone to board a plane or prove vaccination status is second nature to many millions of people. In the EU however, while many states have made electronic identification available and domestic use is growing, the development of internationally accepted electronic identity (eID) systems has been piecemeal and inconsistent.
+
+* [EU digital wallet: the race is on for pilot funding, tech supremacy, hearts and minds](https://www.biometricupdate.com/202204/eu-digital-wallet-the-race-is-on-for-pilot-funding-tech-supremacy-hearts-and-minds) Biometric Update
+
+* [eIDAS](https://www.biometricupdate.com/tag/eidas) 2.0 is fast approaching. By September 2023, European Union citizens will have the right to download and populate a digital identity wallet on a smart device. In less than 18 months, Europeans may no longer need physical credentials to travel, work and live anywhere else in the bloc. But are they ready?
+
+* [Drafting of the eIDAS 2.0 report with amendment tracking](https://www.europarl.europa.eu/doceo/document/ITRE-PR-732707_EN.pdf) Europa.eu
+
+Kaliya is working on a commentary about it
+
+Vedran L. Head of Office at European Parliament [has released a draft report with tracking of amendments](https://www.europarl.europa.eu/doceo/document/ITRE-PR-732707_EN.pdf) on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) No 910/2014 as regards establishing a framework for a European Digital Identity
+
+* [European Commission adopts decision to license European Blockchain Services Infrastructure software as open-source](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/European%2BCommission%2Badopts%2Bdecision%2Bto%2Blicense%2BEuropean%2BBlockchain%2BServices%2BInfrastructure%2Bsoftware%2Bas%2Bopen%2Bsource)
+
+The Decision to make EBSI software available for licencing under the [European Union Public Licence](https://secure-web.cisco.com/1HQ5AQijOEcsuKHH5VY-lAjONv1Pa-wUY7mpfsymIkIy1G_g9CZh6vK5g0lpjxgIm0oaik042EN-5tL8xLpeesMtxZ0ENcH239uYTSSmPTbu1YtBJ5xHMWZMksOeS6X71soiQSQpoQF8fyzOr1I4atICut-sSt9Wqyou4vpS5myXfHf3S6AMMuyvAxla1etuiJbNKx4gfAlzozwPMe7yC7GNXIsZeCiNuAYA5io7f3CIwdvldsHFBtuGNYI4Z86EMXdfyQXEsR7zidw-7WNQeJpBVDCUVFJymXSb-SXsqJH8jfAf6-U9vC1ilrqATHFaZXXLWlOCOCmlS3nS9kev41tys8SvSKYuGX1FLyFgPgufe__oJ7pmihT7ABqB4AzLy7VMeHBSQfOgbkj11ZEltw4e-kd3XI7KmlREgqfYQ45T7r_VGJo3uCTUG1FlIcAkq8MON0W9AZCAMQyT5UAReSZ7LslcOaF38g6bgAGO0N_C39g6T63pWI-caAZ2h-1_m/https%253A%252F%252Fec.europa.eu%252Finfo%252Feuropean-union-public-licence_en) is an example of how the European Commission is not only using, but also contributing to the open-source community and thereby growing the ecosystem around EBSI.
+
+* [EIDAS 2.0 Turns To Self-Sovereign Identification To Bring Users Ownership And Control](https://www.forbes.com/sites/alastairjohnson/2022/07/05/eidas-20-turns-to-self-sovereign-identification-to-bring-users-ownership-and-control/?sh%3D853aa7f7f07e) Forbes
+
+* [Meet the eSSIF-Lab ecosystem: “Completing the Framework” Programme participants](https://essif-lab.eu/meet-the-essif-lab-ecosystem-meet-the-essif-lab-ecosystem-completing-the-framework-programme-participants-amme-participants-2/)
+  > * [PCDS-DP](https://compell.io/) - Product Circularity Data Sheets Digital Passport
+  > * [ESSIF](https://sis.lt/) - 4 Logistics SSI based authorization for cross- border government and business representatives in logistics
+  > * [Symfoni AS](https://www.symfoni.dev/) - Infrastructure to facilitate payments for verifiable credentials
+  > * [Datarella GmbH](https://datarella.com/) - Go Aries – Enabling CL-Support on Aries Framework Go
+  > * [ID.me](https://www.id.me/)’s legal woes are continuing to escalate. The company is now staring down the prospect of its second federal investigation in as many months, after the House of Representatives’ Oversight and Reform Committee [initiated its review in April](https://findbiometrics.com/congress-opens-formal-investigation-into-id-mes-irs-project-041801/).
+
+* [Is the EU Digital Identity Wallet an Implementation of Self-Sovereign Identity?](https://thepaypers.com/expert-opinion/is-the-eu-digital-identity-wallet-an-implementation-of-self-sovereign-identity--1257448) The Paypers
+
+As the details and technical architecture of the EU Digital Identity Wallet at the time of writing are still unknown, this analysis is based on what is currently known or can be assumed.
+
+The SSI principles of existence, access, interoperability, consent, minimalization, and protection will likely be fulfilled by the EU Digital Identity Wallet. It will allow citizens to have an independent existence.
+
+
+* [What is EBSI? EBSI making information easy to verify and almost impossible to fake](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/What%2Bis%2Bebsi/)
+
+Below you will find a series of publications that will walk you through the technologies that make it possible for Public Administrations and Businesses to easily verify and trust information received directly from Citizens (or Businesses).
+
+* [Self-Sovereign Digital Identity Wallets for Citizens](https://tages.biz/self-sovereign-digital-identity-wallets-for-citizens/) TAGES
+
+TR Ministry of Foreign Affairs Directorate for EU Affairs organized an EU Programs and Project Opportunities Hybrid Workshop on May 11-12, 2022  [...]
+
+You can click to watch all the presentations from the event:
+
+11 May 2022: [https://www.youtube.com/watch?v=GKlgfRSCeXI](https://www.youtube.com/watch?v%3DGKlgfRSCeXI)
+
+12 May 2022: [https://www.youtube.com/watch?v=DQIgwVJvFuE&t=28020s](https://www.youtube.com/watch?v%3DDQIgwVJvFuE%26t%3D28020s)
+* [Germany and Spain and join forces on the development of a cross-border, decentralised digital identity ecosystem](https://www.bundesregierung.de/breg-de/aktuelles/germany-and-spain-and-join-forces-on-the-development-of-a-cross-border-decentralised-digital-identity-ecosystem-1947302)
+
+The cooperation agreement envisages the design and conceptualisation of a cross-border pilot to be implemented in the near future, with a view to contributing to the development of the European Union’s Digital Identity Framework, recently announced as part of the eIDAS Commission proposal.
+* [The Roles of Government & The Private Sector in a Digital ID Program with Sebastian Manhart](https://northernblock.io/roles-of-government-and-private-sector-in-digital-id/) Northern Block
+
+we dive into what’s happening within the Digital ID landscape within Europe. Sebastian Manhart is very well positioned between policy and technology in the European Union. In this episode of SSI Orbit, he shares his experiences and future projections.
+
+* [Working together to create an eIDAS wallet](https://jolocom.io/blog/once-eidas/) Jolocom
+
+Jolocom is currently working on the project “ONCE – Online einfach anmelden” (simply register online – ONCE) alongside a number of prestigious partners, with the aim to bring the digital identity of any citizen onto their smartphone.
+
+The project is part of the competitive innovation programme “Showcase Secure Digital Identities” (SSDI) funded by Germany’s Federal Ministry for Economic Affairs and Energy (BMWi) and one of four projects that qualified for the implementation phase.
+
+* [Early Adopters Programme | Imagining what EBSI can do for European citizens](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Early%2520Adopters%2520Programme%23become-ebsi-compliant)
+
+In 2021, 22 projects were selected to become part of our incubator programme to help tap into the potential of the EBSI infrastructure. Each project's private and public sector partners was given early access to the pre-production environment of EBSI, and was invited to develop their own pilot project to address a specific business or government use case involving the exchange of verifiable credentials.
+
+With the help with the EBSI team, Early Adopters can identify how to connect their systems, be part of a community and collaborate with other Early Adopters. This will help us improve EBSI's services and ensure it meets the needs of Europe's businesses and public administrations, within and across borders.
+* [Three Governments enabling digital identity interoperability](https://medium.com/in-present-tense/three-governments-enabling-digital-identity-interoperability-bbcfc60c3a80) Heather Vescent
+
+On September 15, 2021, I moderated a panel with representatives from the United States Government, the Canadian Government, and the European Commission. Below is an edited excerpt from the panel
+
+
+* [Early Adopters Programme | Imagining what EBSI can do for European citizens](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Early%2520Adopters%2520Programme%23become-ebsi-compliant)
+
+An incubator to help Early Adopters and their partners imagine, build and launch their EBSI pilot project(s)
+* [Declaration for Cooperation and Exchange of Best Practices in the Field of Self-Sovereign Identity Between the Federal Republic of Germany and the Republic of Finland](https://www.theinternetofthings.eu/declaration-cooperation-and-exchange-best-practices-field-self-sovereign-identity-between-federal) theinternetofthings.eu
+* [Self-Sovereign Identity (SSI) schemes and the public sector](https://www.impulse-h2020.eu/2021/11/05/self-sovereign-identity-ssi-schemes-and-the-public-sector/) Impulse H20
+
+While the structural difference between SSI approaches and conventional centralised or federated eID schemes is, on one level, profound (full control over data and identity with the user; no third-party intermediary between the user and the service provider), on another level, these differences may also appear highly abstract to ordinary users. What societal and economic consequences they may unfold remains, so far, little understood, also because research on the real social and economic effects of SSI solutions is only beginning.
+
+
+* [Towards a universal, self-sovereign and privacy preserving digital identity for the public sector](https://www.impulse-h2020.eu/2021/07/08/blog-self-sovereign/) Impulse
+
+The EU-funded IMPULSE focuses on building a decentralised Self-Sovereign Identity (SSI) model by combining two of the most promising technologies available today, such as Artificial Intelligence and blockchain networks, with the aim of facing the limitation of the existing electronic identification systems in the public sector..
+
+* [What does the EU Wallet mean for self-sovereign identity?](https://www.fintechtalents.com/what-does-the-eu-wallet-mean-for-self-sovereign-identity/) Fintechtalents.com
+
+While the EU wallet may not align entirely with every principle of self-sovereign identity, it is certainly a massive leap in that direction.
+
+
+
+
+
+* [SELF-SOVEREIGN IDENTITY: LEGAL COMPLIANCE AND THE INVOLVEMENT OF GOVERNMENTS](https://ssi-ambassador.medium.com/self-sovereign-identity-legal-compliance-and-the-involvement-of-governments-467acdd32e88) SSI AMBASSADOR
+
+When it comes to identity management the involvement of the government can be a tricky topic. It needs to be involved to enable access to public services, adapt legislature and guarantee equal access for its citizens. However, it should not be able to control or monitor all aspects and activities of its citizens. Self-sovereign identity (SSI) might for some imply, that a citizen is suddenly able to issue his own ID-card, which isn’t the case. Governments are still the primary source of foundational identities."
+
+* [Digital identities: German-Finnish cooperation agreed](https://www.bundesregierung.de/breg-de/suche/digitale-identitaeten-deutsch-finnische-zusammenarbeit-vereinbart-1962298) Bundesregierung
+
+The content of the joint declaration is close bilateral cooperation in the development of a cross-border ecosystem of digital identities based on the principles of Self-Sovereign Identity (SSI).
+* [Control over data still a long way off according to research into Self-Sovereign Identity](https://ibestuur-nl.translate.goog/podium/controle-over-data-nog-ver-weg-volgens-onderzoek-naar-self-sovereign-identity?_x_tr_sl%3Dauto%26_x_tr_tl%3Den%26_x_tr_hl%3Dnl%26_x_tr_pto%3Dnui) iBestuur
+
+In their final recommendations, the researchers from INNOPAY and TNO argue that in view of the social value of digital data exchange, the government would do well to play a driving role in the further consolidation of the SSI playing field. That starts with creating clarity about the relationship between the Digital Government Act and the EU Digital Identity Wallet.
+
+* ["Irresponsible and Dangerous"](https://www.spiegel.de/netzwelt/apps/id-wallet-was-nach-dem-fehlstart-mit-dem-digitalen-fuehrerschein-passiert-a-f4bc10bc-08ab-42b4-9325-5de5cdc66e05) Spigel
+
+The ID wallet for the digital driver's license is not only technically immature. Government data show: the allocation was not transparent, security checks were incomplete - and the possible direction is questionable.

@@ -117,8 +117,8 @@ The earliest discussion of the phrase I could find is a [blog post](https://blo
 
 * [EPS for SSI (Self-Sovereign Identity)](https://medium.com/@kokumai/eps-for-ssi-self-sovereign-identity-8c742e2b1d02)
   > you might be interested to hear that the core of EPS is designed to convert images to high-entropy codes, which work as very long passwords and also as the seeds of symmetric or asymmetric cryptographic keys.
-* [Self-Sovereign Identity for Social Impact & Importance of UX](https://northernblock.io/self-sovereign-identity-for-social-impact-with-jimmy-snoek/) Jimmy J.P. Snoek, Tykn
-  > We saw pretty early that the puristic view of SSI, in terms of having everything stored on edge wallets — when you go to somewhere in Sub-Saharan Africa, that’s going to be pretty difficult, when there’s maybe one phone in a village and it’s not even necessarily a smartphone. It’s very easy to say, “Oh yeah, but within SSI, everything has to be stored on the edge wallet.” What we saw was that if you make that this hard requirement, and keep working from that, then all these population groups are just going to be left behind more and more.
+
+
 * [Sexism in Facial Recognition Technology​](https://medium.com/berkman-klein-center/sexism-in-facial-recognition-technology-d5e547a6e7bc) Berkman Klien Center
 
 The use of facial recognition by law enforcement agencies has become common practice, despite increasing reports of [false arrests](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html) and [jail time](https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html). While there are various downsides to facial recognition technology being used at all, including fears of mass surveillance and invasion of privacy, there are flaws within facial recognition technologies themselves that lead to inaccurate results. One such major challenge for this still-burgeoning technology is gender-based inaccuracies.

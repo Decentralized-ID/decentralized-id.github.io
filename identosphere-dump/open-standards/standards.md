@@ -4,9 +4,6 @@ published: false
 
 # Standards
 
-* [DIDs are not enough - we need an Authoriziation standard too](https://medium.com/energy-web-insights/api-access-security-for-dapps-cfcfa928623c) Energy Web
-
-If you are a developer and want to write a DApp [...] you probably are using API-Keys in your front-end. If this is the case, then you should consider the security risk the publication of the API-Key in your front end represents and ask yourself if it would make sense to switch to a user authentication scheme.
 * [FYI: What makes a standard ‘world class’?](https://lists.w3.org/Archives/Public/public-credentials/2021Aug/0213.html) Michael Herman (Trusted Digital Web) (Saturday, 14 August)
   > - A world class standard should have well-defined objectives that respond to real needs in a timely manner.
   > - Its technical content should be complete and accurate.

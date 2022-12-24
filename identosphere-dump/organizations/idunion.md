@@ -30,3 +30,5 @@ What use cases should a National Digital Identity program prioritize in collabor
 * [Testing self-sovereign identity with the Lissi demo](https://lissi-id.medium.com/testing-self-sovereign-identity-with-the-lissi-demo-854e73d05aad)
   > We are convinced this demonstrated user flow can help to better understand the interactions in a digital identity ecosystem such as [IDunion](https://idunion.org/). [...] The Lissi team is in discussion with trust service providers, authorities, municipalities, agencies, associations and other relevant stakeholders to meet all the necessary requirements and provide you with the best user experience.
 
+* [Innovative concepts and software for managing digital master data and certificates](https://idunion.org/2021/06/14/innovative-konzepte-und-software-fuer-das-digitale-stammdaten-und-zertifikatsmanagement/) IDUnion
+

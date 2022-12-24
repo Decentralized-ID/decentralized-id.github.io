@@ -1,6 +1,8 @@
 # Kantara 
 
 
+* [Meet Kantara’s new Executive Director, Kay Chopard](https://www.ubisecure.com/podcast/kay-chopard-kantara/) Lets Talk about Digital Identity
+  > Kay explores why identity is so critical in so many applications; her hope for more promotion of Kantara’s great work and to advance opportunities for collaboration; Kantara’s new mobile drivers licenses (mDLs) work group; Women in Identity and the problem of lack of diversity in standards working groups; and why access and inclusion is one of the biggest challenges facing identity today.
 
 
 * [OPN-R (Open Public Notice - Rights) - starting Notice & Control Language - for people to use rights and govern identity (govinterop) with @ Kantara, ToiP and W3C Data Privacy Vocabulary using international vocab - from ISO/IEC 29100 Legal Framework Vocabulary](https://iiw.idcommons.net/22F/_OPN-R_-_Open_Public_Notice_-_Rights_-_starting_Notice_and_Control_Language) by Mark Lizar

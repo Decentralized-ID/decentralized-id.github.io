@@ -27,8 +27,6 @@ Decentralized Identity & DeFi are Disconnected ← trueDecentralized Identity is
 - Health Data Passes
 - Employment Information
 - Credit, Income, KYC
-* [DeFi regulation must not kill the values behind decentralization](https://cointelegraph.com/news/defi-regulation-must-not-kill-the-values-behind-decentralization) Cointelegraph
-  > Financial Action Task Force (FATF) recently [proposed](https://www.fatf-gafi.org/publications/fatfrecommendations/documents/public-consultation-guidance-vasp.html) guidelines making it clear that “The owner/operator(s) of the DApp likely fall under the definition of a VASP [virtual asset service provider] [...] even if other parties play a role in the service or portions of the process are automated.
 * [InsideTheSimulation.eth @InsideTheSim Jul 28](https://twitter.com/InsideTheSim/status/1552636154423410689)
 
 Proposal: it’s not Web3 — it’s DeWeb (a la DeFi) as we undo all the mistakes around centralized ownership of the web 2 era. Opinions?

@@ -45,10 +45,6 @@ TLDR: The Me2B Alliance believes apps including the AskingPoint SDK should be sa
 * [Me2BA Executive Director Lisa LeVasseur featured on Masters of Privacy podcast](https://me2ba.org/me2ba-executive-director-lisa-levasseur-featured-on-masters-of-privacy-podcast/) Me2b
   > describes Me2BA’s approach to respectful technology behavior and discusses the Alliance’s work in standards development and independent testing.  The conversation touches on the broader issues of our evolving and personal relationships with technology products and services, and the potential for respectful behavior to provide a deeper and better level of engagement, to the benefit of individuals and businesses alike.
 * [Gratitude: Internet Society Foundation Grant Award](https://me2ba.org/gratitude-internet-society-foundation-grant-award/) ([Press Release](https://me2ba.org/me2b-alliance-awarded-100k-grant-for-us-pre-k-12-benchmark-to-research-school-utility-apps-data-sharing/) Me2Ba
-* [Lisa LeVasseur on the ethical behaviour of technology and the Me2B Alliance LTADI](https://www.ubisecure.com/podcast/lisa-levasseur-me2b-alliance/)
-  > the Me2B Alliance and how it aims to make technology better for humans, plus the businesses (B-s) which are shining a light on privacy issues and giving the Me-s more control.
-  > 
-  > “We used to call ourselves something like the ‘organic food label’. But that’s actually not right. We’re more like independent automobile crash testing.”
 * [Me2B Safe Specification v1.0](https://me2ba.org/safetechspec/) Me2B
   > The current version focuses on mobile apps and websites and encompasses only a portion of the harms outlined in the complete [Me2B Digital Harms Dictionary](https://ooqc943yvdw4abzes1q1ezta-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/me2ba-digital-harms-dictionary-v2.0-iii.pdf). As the safe specification evolves subsequent versions will grow to include more of the harms identified in the Me2B Digital Harms Dictionary.
 * [Building a Safety Spec for the Digital World](https://me2ba.org/three-turns-of-the-wheel-building-a-safety-spec-for-the-digital-world-2/) Me2ba

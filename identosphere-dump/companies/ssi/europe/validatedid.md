@@ -63,3 +63,18 @@ the solution has allowed CaixaBank, at the request of a fictitious user, to issu
 * [Validated ID's journey to becoming EBSI compliant](https://www.validatedid.com/post-en/validated-ids-journey-to-becoming-ebsi-compliant)
   > [Wallet Conformance Tests] are designed to demonstrate that the wallet provider can onboard users safely, receive verifiable credentials from a trusted issuer, and present verifiable credentials to a verifier. All of these, using of course EBSI infrastructure.
 
+* [Electronic signatures for hospitality](https://www.validatedid.com/post-en/electronic-signatures-for-hospitality) ValidatedID
+
+Looking at the many developments that have happened lately, digitization has become the center of attention for all kinds of industries, and yet many of the typical processes within the hospitality industry remain paper-based.
+
+* [A pilot project for interoperable decentralised identity between Aigües de Barcelona, CaixaBank and Validated ID](https://www.validatedid.com/post-en/open-innovation-project-for-the-collaboration-between-large-companies-and-emerging-companies) ValidatedID
+
+the solution has allowed CaixaBank, at the request of a fictitious user, to issue an account ownership credential and, subsequently, this credential has been used to proceed with the direct debit of the invoices of Aigües de Barcelona
+* [Digital signatures, a fast track to digital transformation in the real estate sector](https://www.validatedid.com/post-en/digital-signatures-a-fast-track-to-digital-transformation-in-the-real-estate-sector)
+  > The latest real estate trend reports show how the pandemic has accelerated the use of technology and the implementation of trends such as teleworking and digitisation of processes. Find out how digital signatures are revolutionising the industry.
+* [Digital signatures, a fast track to digital transformation in the real estate sector](https://www.validatedid.com/post-en/digital-signatures-a-fast-track-to-digital-transformation-in-the-real-estate-sector) ValidatedID
+  > The report [Emerging Trends in Real Estate in Europe 2021](https://bit.ly/2Smqj8x), prepared by PwC and Urban Land Institute (ULI), presents a sector in full transformation. It also shows how the pandemic has accelerated the use of technology and the implementation of trends such as remote working and the digitisation of processes.
+* [SportChain: a Decentralized Trust and Reputation Service for the Sports Industry](https://www.validatedid.com/post-en/sportchain-a-decentralized-trust-and-reputation-service-for-the-sports-industry) ValidatedID
+
+Do you know the story of Carlos Kaiser? He was a professional Brazilian football player [that never played a single match](https://www.theguardian.com/football/blog/2017/apr/26/the-forgotten-story-of-carlos-kaiser-footballs-greatest-conman) but managed to still have a professional football career. He wanted the lifestyle without having to do the work.
+

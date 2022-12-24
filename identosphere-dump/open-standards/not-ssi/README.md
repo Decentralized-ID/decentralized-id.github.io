@@ -121,10 +121,6 @@ So, here is my question(s):
 - Does the order of the permutations matter?
 - If so, what order should they be in?
 
-* [In Praise of Kim Cameron](https://openid.net/2021/12/04/in-praise-of-kim-cameron/) OpenID Foundation
-  > Not only did Kim “inject his 7 laws of identity into Microsoft’s DNA”, but did so throughout today’s growing global digital identity ecosystem.
-  > 
-  > Kim was crafty. He not only injected his thinking into Microsoft; as a champion of the Identity Standards Community, Kim embedded his thinking into the standards that inform many of the identity systems operating at scale today.
 * [OIDF Workshop at EIC 2022 — Tuesday, May 10, 2022](https://openid.net/workshops/workshop-at-eic-2022/)
   > The OpenID Foundation hosted a workshop at [EIC 2022 in Berlin](https://www.kuppingercole.com/events/eic2022/) that was part of the pre-conference workshops on Tuesday, May 10, 2022.\
   > The Foundation was thrilled to welcome and introduce two of the 2022 Kim Cameron Award winners, Rachelle Sellung and Alen Horvat at the workshop. The Foundation will soon publish blogs from Rachelle and Alen describing their experiences at EIC 2022.-

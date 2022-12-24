@@ -25,3 +25,6 @@ We know that many communities are desirably and rightly passionate about their a
 * [AnonCreds Indy-Pendence](https://blog.cheqd.io/anoncreds-indy-pendence-4946367469d4) Cheqd
 
 Part 1: Decoupling the reliance on Hyperledger Indy and creating more extensible AnonCreds Objects with cheqd.
+* [Self-sovereign identity use cases](https://blog.cheqd.io/self-sovereign-identity-use-cases-43bb03d49e13) Cheqd
+
+While self-sovereign identity (SSI) sounds like an unfamiliar concept for some, others are actively leveraging the technology to address industry-specific challenges — take the KYC trial of the [Financial Conduct Authority](https://www.evernym.com/blog/evernym-accepted-into-fca-regulatory-sandbox/) or the [IATA Travel Pass.](https://www.iata.org/en/pressroom/pr/2020-12-16-01/)

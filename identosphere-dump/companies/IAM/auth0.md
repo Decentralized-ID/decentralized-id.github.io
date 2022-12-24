@@ -30,3 +30,7 @@ Why adding more developers to an identity project doesn’t always work out as i
 * [Podcast] [Privacy-preserving measures and SD-JWT with Daniel Fett](https://identityunlocked.auth0.com/public/49/Identity%252C-Unlocked.--bed7fada/3bbcbab8) IdentityUnlocked Auth0
 
 The discussion gets very concrete when Daniel describes selective disclosure JWT, or SD-JWT, a new IETF specification he is coauthoring that offers a simple and easy-to-adopt approach to produce JWTs capable of supporting selective disclosure. Here at Identity, Unlocked, we are huge fans of this new specification, and we hope this episode will help you get started!
+
+* [State Identity Solutions: Build? Buy? Or Both?](https://auth0.com/blog/state-identity-solutions-build-buy-or-both/)
+
+With a buyable solution like Auth0, state administrations are able to roll out digital services in days versus years for a custom-built in-house solution. The back-end of Auth0’s solutions are pre-built, allowing teams to customize quickly with low to no-code inputs from a development team to get a new release deployed faster.

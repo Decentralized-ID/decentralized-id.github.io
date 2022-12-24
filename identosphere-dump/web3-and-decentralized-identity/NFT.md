@@ -23,9 +23,6 @@ Given the continuous discussions around centralization/de-centralization in our 
 
 * [Universal NFTs as authentic data without tokens/blockchains. How to eliminate minting/mining fees and break the NFT silos.](https://iiw.idcommons.net/21F/_Universal_NFTs_as_authentic_data_without_tokens/blockchains._How_to_eliminate_minting/mining_fees_and_break_the_NFT_silos.) by Dave Huseby
   > This session described how we can use the authentic data solution to track provenance and controllership of digital data and effectively create NFTs, now called NFADs, that are completely independent of blockchains and tokens. This eliminates minting and transfer costs common on the NFT silos. I have provided link to the slides.
-* [Introduction to NFTs for Identity](https://walt.id/decentralized-identity-explained/nfts) walt.id
-
-NFT use cases can be found wherever there’s a need to digitally model ownership. In other words, the list of use cases is long and NFTs will likely be among the most important building blocks on which the digital world (or something like a metaverse) will be built.-
 * [Game Governance Domains: a NFT Support Nightmare](http://habitatchronicles.com/2022/04/online-game-governance-domains-avoiding-an-nft-support-nightmare/) Habitat Chronicles
 
 “I was working on an online trading-card game in the early days that had player-to-player card trades enabled through our servers. The vast majority of our customer support emails dealt with requests to reverse a trade because of some kind of trade scams. When I saw [Hearthstone’s dust system](https://playhearthstone.com/en-us/news/10245930), I realized it was genius; they probably cut their support costs by around 90% with that move alone.”
@@ -51,7 +48,6 @@ Credentials • Identity • Use Cases for Verifiable Credentials • Sovereignt
   > how do issues of identity and anonymity play out in the world of creating and collecting digital art and collectibles on the blockchain.
 * [NFTs and the need for Self-Sovereign Identity](https://www.gimly.io/blog/nfts-the-need-for-self-sovereign-identity) Gimly
   > we describe how self-sovereign identity (SSI) can be the solution to verify the origin and legitimacy of an NFT and its linked object, and we invite you to join Gimly and bitcoin artist Petek [@RaydarRayne](https://twitter.com/RadarRayne) on our journey to fulfill the potential of NFTs for digital and physical artists alike.
-* [NFTs and Verifiable Credentials: What are they, their differences and do they mix?](https://www.youtube.com/watch?v%3DqEjgI2nVLb0) TYKN
 
 * [SSI for NFTs with Caspar Roelofs from Gimly](https://northernblock.io/ssi-for-nfts/) SSI Orbit Podcast
 
@@ -61,12 +57,11 @@ That’s definitely one of the ideas that I’m exploring for more longer-term. 
 
 NFTs offer creators a novel way to monetize their creations. Unfortunately, there have been [reports](https://www.theverge.com/2021/3/20/22334527/nft-scams-artists-opensea-rarible-marble-cards-fraud-art) of artists having their artwork sold by impersonators. This is, in part, due to popular NFT platforms lacking a robust verification process for determining a creator’s identity.
 
-The potential for fraud in the growing NFT market recently attracted the [attention](https://www.coindesk.com/fatfs-new-guidance) of the Financial Action Task Force (FATF)
 
 
-* [The future of Decentralized Identity: SSI vs NFTs](https://walt.id/decentralized-identity-explained/ssi-vs-nfts) Walt ID
+* [Avatars as Self Sovereign Digital Identity](https://653-eth.medium.com/avatars-as-self-sovereign-digital-identity-2acdf79d49c4) 653.ETH
 
-While SSI has been developed to model digital identity, NFTs are used to model digital ownership. As a result, the concepts and technologies on which each approach is based differ with far reaching consequences. For example, while NFTs require blockchains, SSI can be used with or without them which is particularly important in the context of compliance and privacy.
+avatars (the visualisation of self-sovereign identities) go beyond simply providing users with further ownership and control over their cryptographically secure identities, by offering an end-to-end application ecosystem designed to facilitate the commerce and exchange of digital and physical services
 
 * [There's been a misunderstanding around SBTs. The uproar misses the point](https://twitter.com/AnastasiaU/status/1532584511107698689) AnastasiaU.ETH
 

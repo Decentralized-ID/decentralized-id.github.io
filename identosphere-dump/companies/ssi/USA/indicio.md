@@ -26,6 +26,7 @@ Recently we caught up with Karl Kneis, COO of IdRamp, and Eric Vinton, Chief Bus
 The finalists have effectively used digital infrastructure across on-prem, edge and public cloud platforms to transform their most important business processes and to launch new digital business innovations. They are to be congratulated for their vision and industry leadership!
 * [Indicio.Tech Incorporates as a Public Benefit Corporation](https://indicio.tech/blog/indicio-becomes-a-public-benefit-corporation/)
   > Indicio joins companies such as Patagonia and Kickstarter in embracing a corporate model that aligns shareholders and stakeholders around a shared mission to deliver a material benefit to society, not only through products and services and how they are made and delivered, but through prioritizing the welfare of employees, diversity and inclusion, and environmental impact.
+  
 * [IDRamp partners with Indicio.Tech](https://idramp.com/idramp-offers-market-ready-decentralized-identity-platform-on-the-indicio-network/)
 
 This is an interesting announcement with two companies partnering together to create new SSI services for the companies the work with.
@@ -107,14 +108,14 @@ Again, the Indy DID Method is not an optional upgrade. It’s a major developmen
   > - The security landscape for global enterprises
   > - Decentralized identity, what it is and how it fortifies existing data infrastructure
   > - Case study: applying zero trust and decentralized identity to energy
+* [Decentralized Identity opens the doors for safe travel and tourism](https://indicio.tech/blog/decentralized-identity-opens-the-doors-for-safe-travel-and-tourism/) Indicio
+
+Machine readable governance enabled businesses and venues to trust that tourists had been tested on arrival by Aruba’s health department. Visitors using the digital Aruba Happy Traveler Card could be swiftly and reliably verified with a phone app. This freed both businesses and the government from the burden of mechanically collecting data with the attendant risk of error or fraud.
+
+* [Paving the way to safer travel](https://indicio.tech/blog/paving-the-way-to-safer-travel/) Indicio
 * [Bonifii increases financial inclusion with GlobaliD digital wallet and Indicio Network](https://bonifii.com/2021/10/bonifii-increases-financial-inclusion-with-globalid-digital-wallet-and-indicio-network/)
 
 CULedger is now [Bonifii](https://bonifii.com/)! Delivering a trusted peer-to-peer services network of verifiable exchange for financial cooperatives.
 * [Trust Registry or Machine-Readable Governance?](https://indicio.tech/trust-registry-or-machine-readable-governance/) Indicio Tech
 
 The world will move towards decentralized identity if we make it easy for them to do so—and easy means, above all, fast. The solution is machine readable governance—a smart way of implementing rules for how to manage trust.
-* [Decentralized Identity opens the doors for safe travel and tourism](https://indicio.tech/blog/decentralized-identity-opens-the-doors-for-safe-travel-and-tourism/) Indicio
-
-Machine readable governance enabled businesses and venues to trust that tourists had been tested on arrival by Aruba’s health department. Visitors using the digital Aruba Happy Traveler Card could be swiftly and reliably verified with a phone app. This freed both businesses and the government from the burden of mechanically collecting data with the attendant risk of error or fraud.
-
-* [Paving the way to safer travel](https://indicio.tech/blog/paving-the-way-to-safer-travel/) Indicio
