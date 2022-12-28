@@ -42,7 +42,7 @@ Open category
 - 3rd prize: David Bensadon, used VCs helping [migrant domestic workers to build up their CV](https://devpost.com/software/yhgt), so they can have a thriving career, better salaries, and quick access to third-party services.
 * [Odyssey Momentum 2020 Winners Announced](https://solutions.odyssey.org/hackathon-2020-dutch-blockchain-coalition-ministry-of-the-interior-challenge-self-sovereign-identity-in-action/)
   > Rabobank won with a demonstration of their Identity Wallet app, along with their Identity API. Their Pilot projects are “Pilot with WorkPi” and a Credential Catalogue with TNO. If you want to know more about Rabobank ID [check out this interview of Rabobank’s David Lamars, from Tykn](https://tykn.tech/rabobank-ssi/).
-
+odyssey				TNO; Rabobank		Odyssey Momentum 2020 Winners Announced	Rabobank won with a demonstration of their Identity Wallet app, along with their Identity API. Their Pilot projects are “Pilot with WorkPi” and a Credential Catalogue with TNO.	https://solutions.odyssey.org/hackathon-2020-dutch-blockchain-coalition-ministry-of-the-interior-challenge-self-sovereign-identity-in-action/																										
 Another winner was [Lunarpunk Labs](https://lunarpunklabs.hackalong.io/) with Hermitage, a GDPR compliant data store, putting users in control of their data and derisking organizational need for safekeeping that data.
 
 ODYSSI was also chosen, offering a simple API for verifying and issuance of credentials, that interoperates with IRMA, Jolocom, and eSatus. They also shared what they’re calling *the yellow pages of SSI*, which is a place to publish and find credentials, schema, pricing, and liability. (*if you can find a link for ODYSSI please pass it on!*)

@@ -5,14 +5,6 @@
 
 Unless issues are identified during the review that the working group believes must be addressed by revising the drafts, this review period will be followed by a seven-day voting period during which OpenID Foundation members will vote on whether to approve these drafts as OpenID Final Specifications.
 
-### OIDC-SOIP
-
-Self-Issued OpenID Connect Provider or  OIDC-SOIP  was created to take advantage of the fact that there are several 100,000 implementations of OpenID Connect on todays web. This method of exchange verifiable credentials leverages that infrastructure with a few small changes to support OpenID enabled sites to be able to accept verifiable credentials. Holders have wallets or agents that they use to interact with a system. The protocols to do this are being worked on jointly by the OpenID Foundation and Decentralized Identity Foundation.
-
-* [OIDC Credential Provider](https://medium.com/mattr-global/introducing-oidc-credential-provider-7845391a9881) Mattr Global. Dec 15, 2000
-* [State of identity on the web](https://medium.com/mattr-global/the-state-of-identity-on-the-web-cffc392bc7ea) Mattr Global. March 14, 2021
-
-Current MATTR spec for OpenID Credential Exchange: [OpenID Connect Credential Provider](https://mattrglobal.github.io/oidc-client-bound-assertions-spec/)
 
 * [More Killer Whale Jello Salad…figuring out how credential exchange can harmonize.](https://iiw.idcommons.net/24B/_More_Killer_Whale_Jello_Salad...figuring_out_how_credential_exchange_can_harmonize.) by Kaliya Young et al.
   > - Because what we need is interoperable - issuance - issue-> holder || holder -> verifier some conversation about SIOP - has not been the focus of the discussion.
@@ -30,10 +22,6 @@ Current MATTR spec for OpenID Credential Exchange: [OpenID Connect Credential Pr
 - [Working Group Mailing List](https://lists.openid.net/mailman/listinfo/openid-specs-ab)
 - [OpenID Certification Program](https://openid.net/certification/)
 - [Certified OpenID Connect Implementations Featured for Developers](https://openid.net/developers/certified/)
-* [OpenID Connect Credential Provider](https://medium.com/mattr-global/introducing-oidc-credential-provider-7845391a9881) Mattr
-* [OIDC Credential Provider](https://mattrglobal.github.io/oidc-client-bound-assertions-spec/) is “an extension to OpenID Connect which enables the end-user to request credentials from an OpenID Provider and manage their own credentials in a digital wallet.”
-* [CREATE AN OIDC CREDENTIAL ISSUER WITH MATTR AND ASP.NET CORE](https://damienbod.com/2021/05/03/create-an-oidc-credential-issuer-with-mattr-and-asp-net-core/)
-  > This article shows how to create and issue verifiable credentials using [MATTR](https://mattr.global/) and an [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core). The ASP.NET Core application allows an admin user to create an OIDC credential issuer using the MATTR service. The credentials are displayed in an ASP.NET Core Razor Page web UI as a QR code for the users of the application.
 * [Use CodeB SSI as OpenID Connect Identity Provider for WordPress](https://blog.codeb.io/use-codeb-ssi-as-oidc-identity-provider-for-wordpress/) CodeB
 
 The Self-Sovereign Identity System of CodeB does not only support W3C DID’s but comes also with an inbuilt OpenID Connect (OIDC) Identity Provider. [OpenID Connect meets distributed Self-Sovereign Identities.](https://www.codeb.io/openid-connect-meets-distributed-self-sovereign-identities/)
@@ -87,11 +75,6 @@ How does logout in OIDC happen?
 - Prototype is being built
 - AOB? At IIW?
 - Understand what third party cookies actually mean - no cookies at all? Partition cookies going away. The way firefox is doing it?
-* [The State of Identity on the Web](https://medium.com/mattr-global/the-state-of-identity-on-the-web-cffc392bc7ea) Mattr
-  > This article discusses how the success of Open ID Connect shaped the state of identity on the web, how new web standards enable a new model, and describes a bridge between those worlds: [OIDC Credential provider](https://mattrglobal.github.io/oidc-client-bound-assertions-spec/).
-  > This cycle perpetuates the dominance of a few major IdPs and likewise forces users to keep choosing from the same set of options or risk losing access to all of their online accounts. In addition, many of these IdPs have leveraged their role as central intermediaries to increase surveillance and user behavior tracking, not just across their proprietary services, but across a user’s entire web experience.
-  > [...]
-  > [OIDC Credential Provider](https://mattrglobal.github.io/oidc-client-bound-assertions-spec/) allows you to extend OIDC to allow IdPs to issue reusable VCs about the end-user instead of simple identity tokens with limited functionality. It allows end-users to request credentials from an OpenID Provider and manage their own credentials in a [digital wallet](https://learn.mattr.global/concepts/digital-wallets) under their control.
 * [@kimdhamilton](https://twitter.com/kimdhamilton) · [May 25](https://twitter.com/kimdhamilton/status/1397241823190523904)
 
 I've read every decentralized identity protocol so you don't have to. They all just read like "nothing to see here, just f- right off" Oh, except for OIDC Credential Provider. Well done to them!

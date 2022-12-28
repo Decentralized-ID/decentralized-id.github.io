@@ -39,6 +39,11 @@ The six elected candidates are Sam Curren (Indicio Tech), Daniel Buchner (Block)
 > An example of the KERI DID registrar/resolver integrated in our library can be found here. This is also included in the Jolocom SmartWallet via the SDK integration. (KERI is currently being worked on in the Decentralized Identity Foundation’s Identifiers and Discovery Working Group,)
 * [Dock Joins the Decentralized Identity Foundation](https://blog.dock.io/decentralized-identity-foundation/) Dock
   > As a decentralized identity management platform that complies with internationally-recognized technology standards, we are continuously keeping up to date with key discussions and updates in the industry which is why we joined the Decentralized Identity Foundation
+* [Tobias Looker on BBS+ use cases, DIF Interop WG 25Nov2020](https://www.youtube.com/watch?v=slkbFW6imUk) Tobias Looker, MATTR, Interoperability Working group at DIF:
+
+- Replay attack protection
+- Domain-specific identifiers and proofs
+- New partial-disclosure topographies
 
 * [What Does Affinidi Do as a Member of the Decentralized Identity Foundation (DIF)?](https://academy.affinidi.com/what-does-affinidi-do-as-a-member-of-the-decentralized-identity-foundation-dif-d9d5146af14) Affinidi
 

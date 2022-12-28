@@ -738,22 +738,6 @@ It all feels like data envy to me. Aristotle described envy as the pain at the s
 “Self-Sovereign Identity not only presents an opportunity for businesses to build smarter, more secure, and more scalable relationships with customers; but it will enable them to completely rethink how they build trusted digital relationships from the ground up.”
 
 We expect Digital Transformation to be a more prevalent talking point around digital identity. FOMO can go a long way, to sell SII, for Goverments and Corporations striving to not be left behind in the digital age.
-### Mattr
-
-* [Web of Trust 101](https://medium.com/mattr-global/learn-concepts-web-of-trust-101-77120941ea6c)
-  > The emerging “Web of Trust” is an idea that has been around since the dawn of the internet. To explain what motivated its creation, let’s take a look at how trust on the internet functions today.
-* [Digital Wallets](https://medium.com/mattr-global/learn-concepts-digital-wallets-c88318055e42)
-  > The reframing of the user as a first-class citizen and their empowerment as ‘holder’ represents a shift towards a new paradigm. Such a paradigm offers users greater sovereignty of their own information and empowerment to manage their digital identity. Users are able to exercise their new role in this ecosystem by utilizing a new class of software known as digital wallets.
-  * [Verifiable Data](https://medium.com/mattr-global/learn-concepts-verifiable-data-4515a62c8e40)
-  > refers to the authenticity and integrity of the actual data elements being shared.
-
-*Also covers Verifiable Relationships, Verifiable Processes, Verifiable Credentials, along with Semantics and Schemas.*
-
-* [Semantic Web](https://medium.com/mattr-global/learn-concepts-semantic-web-250784d6a49f)
-  > The semantic web is a set of technologies whose goal is to make all data on the web machine-readable. Its usage allows for a shared understanding around data that enables a variety of real-world applications and use cases.
-
-* [Selective Disclosure](https://medium.com/mattr-global/learn-concepts-selective-disclosure-4b9bf4e5c887)
-  > An important principle that we want to achieve when designing any system that involves handling Personally Identifiable Information (PII) is to minimize the data disclosed in a given interaction. When users share information, they should be able to choose what and how much they share on a case-by-case basis, while the relying parties receiving the information must be able to maintain assurances about the presented information’s origin and integrity.
 This is excellent work, with lots of references, by Dr. Nuttawut Kongsuwan ([Finema](http://finema.co/) & [QTFT](http://qtft.org/)), and Rachata Tosirisuk ([Thailand Internet Exchange](https://th-ix.net/en/), [Finema](https://finema.co/) & [QTFT](https://qtft.org/)).
 
 

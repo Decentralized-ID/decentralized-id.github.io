@@ -88,3 +88,6 @@ They came up with impressive submissions, ranging from job portals showcasing ve
 * [Can SSI Disrupt Surveillance Capitalism?](https://academy.affinidi.com/can-ssi-disrupt-surveillance-capitalism-5c8cd6b50278) Affinidi
   Are these advantages enough to disrupt surveillance capitalism? Do you think SSI is the antidote for today’s Internet identity problems and surveillance capitalism? Please share your thoughts with us.
 
+* [Deciphering BBS+ Signatures](https://academy.affinidi.com/deciphering-bbs-signatures-e853bbf437bf) Affinidi
+
+This digital signature was created by Dan Boneh, Xavier Boyen, and Hovav Shacham using the strong Diffie-Hellman encryption technique, and hence the name BBS (after their respective surnames). The original signature was modified later to include proof of knowledge, and hence the name BBS+

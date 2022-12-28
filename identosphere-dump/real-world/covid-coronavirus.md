@@ -405,6 +405,16 @@ What if people can prove their COVID status to different entities, prove that th
   > This initiative is intended to define, in the context of test results and vaccination records for opening up borders for travel and commerce, a high bar for implementations of identity and credentialing systems to meet with regards to privacy, ethics and portability. They will also work with the implementers of such systems to converge towards common standards and governance.
 
 
+Immunity passports' could speed up return to work after Covid-19		https://www.theguardian.com/world/2020/mar/30/immunity-passports-could-speed-up-return-to-work-after-covid-19
+    * What are, in your opinion, the riskiest assumptions when writing an Software Development Kit?
+    * For you, what are the most promising SSI projects or repos?
+    * What do you believe are the bottlenecks for the cross-ledger SSI? How soon can we see cross-ledger credentials exchanges?
+    * What are the upsides of using Zero MQ over a common HTTP Rest connection?
+    * How hard would it be to replace the current Transport Layer Security architecture with SSI?
+    * Why was Rust chosen to write Indy-SDK?
+    * Specific roadblocks other people in this space should look out for?
+    * What are the books you have recommended most to others?
+
 
 * [Vaccination Certificate Vocabulary](https://lists.w3.org/Archives/Public/public-credentials/2021Feb/0069.html) Tobias Looker
   > I'd like to propose a new work item that formally defines a vocabulary for issuing Vaccination Certificates in the form of Verifiable Credentials.

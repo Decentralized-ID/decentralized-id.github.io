@@ -30,6 +30,8 @@ The finalists have effectively used digital infrastructure across on-prem, edge 
 * [IDRamp partners with Indicio.Tech](https://idramp.com/idramp-offers-market-ready-decentralized-identity-platform-on-the-indicio-network/)
 
 This is an interesting announcement with two companies partnering together to create new SSI services for the companies the work with.
+* [The Perfect Signature Style is the Enemy of the One that Works Today](https://indicio.tech/the-perfect-signature-style-is-the-enemy-of-the-one-that-works-today/) Indicio
+  > BBS+ signature styles are not going to be ready for deployment anytime soon. This is precisely why you should build today and in a way that allows you to add them later.
 
 ### Indicio Network
 
