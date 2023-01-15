@@ -166,3 +166,40 @@ Part 2 of this challenge will involve finalists showing their work based on feed
 * [**324: Tap the Market (Karyl Fowler)**](https://www.giantrobots.fm/324)
   > Karyl Fowler, CEO & Co-founder of Transmute, discusses utilizing block chain for decentralized identity-management, exploring finding the right customer profile fits, education around data-security, her time at Techstars, and the startup community in Austin.
 
+
+---
+
+
+## Karyll Fowler
+
+### Karyl's Education and Background
+
+While working in Economic Development for the Greater Austin Chamber of Commerce, Karyl earned a Masters of Science in Technology Commercialization from the University of Texas at Austin, Red McCombs School of Business. 
+
+Her work during this time focused mainly on recruiting tech and manufacturing companies to Austin, TX as well as supporting management of the city’s Foreign Trade Zone initiatives.
+
+Karyl then worked for a semiconductor company, Novati Technologies, whose core business was in the defense sector. There, she leveraged data-driven strategies to achieve sustainable development partnerships and expand Novati’s bioelectronics portfolio to become a more integral component of their overall market strategy.
+
+It was in that role when Karyl first became interested in data privacy, discovering business models that were being created around DNA sequencing, and seeing how little agency an individual had over their own genetic data. 
+
+This experience also gave her a front seat view of global supply chains - both the inherent complexity and even intentional opacity involved in moving highly regulated products across borders.
+
+### Early Hackathon Success
+
+Upon graduation, Karyl began participating in hackathons with her co-founder, Orie Steele. Incidentally, most hackathon participants don’t arrive with a business-person.
+
+This is where Karyl gave the team an edge, enabling them to show up with something just a little more polished than engineer-only teams.
+
+They entered Austin’s first blockchain hackathon in early 2016, held at the [Capital Factory](https://www.capitalfactory.com/), where they built a user-centric and traceable identity management application for refugees who were pouring into Europe at the time.
+
+> Understanding concerns about business models, built on your most intimate data, I wanted to see something where I had more control over who could access that, and I would actually own it. - Karyl Fowler, [Giant Robots #324](https://www.giantrobots.fm/324)
+
+### Being blockchain agnostic
+
+After discussing Karyl’s background and the story of Transmute, the subject came up about Transmute being largely blockchain agnostic. I was curious to know exactly what that means.
+
+Karyl shared that Transmute has always felt strongly about interoperability, and just like cloud technologies, this would not be a winner-take-all scenario. They took a lot of flack for that position in earlier days, and for a while were feeling “too blockchain for the enterprise and too enterprise for the blockchain,” but ultimately their thesis is playing out.
+
+She also shared that they are building in a time where the “winners” are still shaking out, and warned that some folks in the enterprise space are cornering themselves into a particular solution stack that could easily become obsolete.
+
+To solve for this challenge, Transmute uses a flexible, ledger-agnostic architecture with  adapters for a variety of ledger options depending upon the needs of where it’s being applied. An important component of [interoperability involves building on open standards](https://github.com/transmute-industries/interoperability).
