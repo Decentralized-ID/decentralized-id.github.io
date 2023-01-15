@@ -69,7 +69,7 @@ Women’s Rights and Technology Intersection feel very poinient this week
 
 * [Section 230 Is a Last Line of Defense for Abortion Speech Online](https://www.wired.com/story/section-230-is-a-last-line-of-defense-for-abortion-speech-online/) Wired
 
-Democrats who have been misguidedly attacking Section 230 of the Communications Decency Act need to wake up now. If they don’t [start listening](https://www.thedailybeast.com/want-to-fix-big-tech-stop-ignoring-sex-workers) to the warnings of human rights experts, [sex workers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id%3D4095115), LGBTQ+ folks, and [reproductive rights](https://freedomnetworkusa.org/app/uploads/2020/09/FNUSA-Joins-EARN-IT-Act-Coalition-letter-9.09.2020.pdf) groups, Democrats could help right-wing zealots achieve their goal: mass censorship of online content about abortion.
+Democrats who have been misguidedly attacking Section 230 of the Communications Decency Act need to wake up now. If they don’t [start listening](https://www.thedailybeast.com/want-to-fix-big-tech-stop-ignoring-sex-workers) to the warnings of human rights experts, [sex workers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4095115), LGBTQ+ folks, and [reproductive rights](https://freedomnetworkusa.org/app/uploads/2020/09/FNUSA-Joins-EARN-IT-Act-Coalition-letter-9.09.2020.pdf) groups, Democrats could help right-wing zealots achieve their goal: mass censorship of online content about abortion.
 
 
 ## Identity not SSI
@@ -121,6 +121,6 @@ Under [federal rules](https://www.healthit.gov/buzz-blog/information-blocking/in
 ## Known
 * [Known](https://withknown.com/) has supported [Indieweb](https://indieweb.org/) standards since the beginning, but Fediverse has been notably missing. I think that’s a big omission, but also not something I’ve had bandwidth to fix.
 * [Building ActivityPub into Known](https://werd.io/2021/building-activitypub-into-known) Ben Werdmüller
-* [ActivityPub support · Issue #2615 · idno/known · GitHub](https://github.com/idno/known/issues/2615%23issuecomment-991335313)
+* [ActivityPub support · Issue #2615 · idno/known · GitHub](https://github.com/idno/known/issues/2615#issuecomment-991335313)
 
 This issue now has a funding of 3004.5068 USD (3000.0 USD @ $1.0/USD) attached to it.

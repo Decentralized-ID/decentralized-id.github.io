@@ -30,7 +30,7 @@ This [Directory](https://diacc.ca/2020/05/21/directory-products-assess-identifi
 
 Built on standards: OAuth 2.0 and JWT
 
-See the presentation at [https://self-issued.info/?p=2167](https://self-issued.info/?p%3D2167).
+See the presentation at [https://self-issued.info/?p=2167](https://self-issued.info/?p=2167).
 * [Request for Comment and IPR Review: PCTF Assurance Maturity Model Draft Recommendation V1.0](https://diacc.ca/2021/06/27/comment-ipr-review-assurance-maturity-model-draft-recommendation-v1-0/) DIACC
 
 It is essential that Participants in a digital ecosystem have a way to evaluate the robustness and trustworthiness of transactions within that ecosystem. In order to do so, Participants must share a common vocabulary that describes the level of confidence they can associate with an Entity or transaction, as well as a common way in which to determine that level of confidence.
@@ -41,7 +41,7 @@ The [Authentication](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Authentica
 * [2022 Pre-Budget Submission](https://diacc.ca/2021/08/03/2022-pre-budget-submission/) DIACC
 
 1. That the government secure adoption of the [Pan-Canadian Trust Framework](https://diacc.ca/wp-content/uploads/2016/08/PCTF-Overview-FINAL.pdf) by businesses and governments.
-2. That the government act on the [Finance Committee’s 2021 Pre-Budget Consultation](https://www.ourcommons.ca/Committees/en/FINA/StudyActivity?studyActivityId%3D11021772) Recommendations 128, Implement a digital identity system that empowers Canadians to control their data that is held by the federal government, and 129, Create a national data strategy.
+2. That the government act on the [Finance Committee’s 2021 Pre-Budget Consultation](https://www.ourcommons.ca/Committees/en/FINA/StudyActivity?studyActivityId=11021772) Recommendations 128, Implement a digital identity system that empowers Canadians to control their data that is held by the federal government, and 129, Create a national data strategy.
 3. That the government work with provincial and territorial partners and Immigration, Refugees and Citizenship Canada to ensure that all Canadians have access to an ISO-compliant government-issued digital ID credential with economy-wide utility by December 2022.
 4. That the government make digital identity-enabled services available to all Canadians by December 2022.
 5. That the government prioritizes funding and integration of digital ID as part of the [Digital Technology Supercluster](https://www.digitalsupercluster.ca/) Initiative.

@@ -3,10 +3,21 @@ published: false
 ---
 # Policy
 
+* [The New Draft Law on eID Switzerland](https://www.procivis.ch/post/the-new-draft-law-on-eid-switzerland-en)
+Yesterday's [media conference](https://www.youtube.com/watch?v=epW4xEqr3mw) and published [media release](https://www.bj.admin.ch/bj/de/home/aktuell/mm.msg-id-89515.html) opened the consultation process for the new E-ID law, which will last until October 20, 2022.
+
+The preliminary [draft of the federal law](https://www.bj.admin.ch/dam/bj/de/data/staat/gesetzgebung/staatliche-e-id/vorentw.pdf) declared the purpose of the E-ID to be to ensure "secure identification by means of E-ID among private individuals and with authorities". The protection of the personality and fundamental rights of individuals is to be provided by the following principles defined in the law:
+
+- Data protection through technology
+- Data security
+- Data economy
+- Decentralized data storage
+
+
 
 * [Common Digital Identification Project Anonymous authentication system using Absolute Identifier & Decentralized OTP](https://www.sec.gov/comments/s7-07-22/s70722-20117318-268533.pdf)
 
-* [IPR - what is it? why does it matter?](https://identitywoman.net/ipr%25e2%2580%258a-%25e2%2580%258awhat-is-it-why-does-it-matter/)
+* [IPR - what is it? why does it matter?](https://identitywoman.net/ipr%e2%80%8a-%e2%80%8awhat-is-it-why-does-it-matter/)
   > There is a lot of diversity in the category of future patent problems. Someone who was contributing without declaring that they hold a patent related to the work can claim they had a patent later (years after the specification is finished) and seek payment from everyone using/implementing the standard, claiming licensing rights or even lost revenue on ideas they legally own.
 * [Self-sovereign identity in the context of data protection and privacy](https://yourstory.com/2020/11/self-sovereign-identity-context-data-protection-privacy/amp) YourStory
 
@@ -55,7 +66,7 @@ Bedoya’s research has shined a light on digital surveillance and its impact on
 
 
 
-* [2022 GDF Report CRYPTOASSETS AND SANCTIONS COMPLIANCE A PRIMER](https://www.gdf.io/wp-content/uploads/2022/07/Cryptoassets-and-Sanctions-Compliance-Report-Final-1.pdf?mc_cid%3D5d688e0647%26mc_eid%3Dbebf526fc7) GDF
+* [2022 GDF Report CRYPTOASSETS AND SANCTIONS COMPLIANCE A PRIMER](https://www.gdf.io/wp-content/uploads/2022/07/Cryptoassets-and-Sanctions-Compliance-Report-Final-1.pdf?mc_cid=5d688e0647&mc_eid=bebf526fc7) GDF
 
 There is a common misconception that cryptoassets provide a ready-made avenue for sanctions evasion because they sit outside the regulatory and legal perimeter. In fact, sanctions authorities in many jurisdictions have ensured that relevant legal and regulatory requirements apply comprehensively to activity conducted in cryptoassets.
 

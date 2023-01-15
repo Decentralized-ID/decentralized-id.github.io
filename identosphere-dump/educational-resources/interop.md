@@ -14,47 +14,47 @@ As you know, we had our first Interop plug-fest last year in May 2020, which was
 This presentation on the DHS/SVIP Interop Plug-Fest is epic!
 
 * [DHS/SVIP Interoperability Plug-Fest 2 // VC/DID/Blockchain Multi-Platform & Multi-Vendor Interoperability Showcase](https://lists.w3.org/Archives/Public/public-credentials/2021Mar/0101.html) Anil John
-  > ([slides](https://docs.google.com/presentation/d/1MeeP7vDXb9CpSBfjTybYbo8qJfrrbrXCSJa0DklNe2k/edit%23slide%3Did.p1) Through the presentations and demos, we hope that you are able to gain an appreciation of the engineering depth, openness, inclusiveness and the multi-vendor, multi-platform interoperability that we demonstrated that is needed for these type of solutions to internet scale without locking anyone into a particular vendor or technology stack.
+  > ([slides](https://docs.google.com/presentation/d/1MeeP7vDXb9CpSBfjTybYbo8qJfrrbrXCSJa0DklNe2k/edit#slide=id.p1) Through the presentations and demos, we hope that you are able to gain an appreciation of the engineering depth, openness, inclusiveness and the multi-vendor, multi-platform interoperability that we demonstrated that is needed for these type of solutions to internet scale without locking anyone into a particular vendor or technology stack.
 
 * [Interoperability is Not a Choice](https://medium.com/transmute-techtalk/interoperability-is-not-a-choice-387d57c6dc32) Transmute
   > [Interoperability](https://medium.com/transmute-techtalk/the-business-case-for-interoperability-a1a2b884297d) moves from theory to reality when companies have meaningful ability to choose. It is predicated on open standards foundations that enable easy movement of data and vendors.
   > 
   > Our team was proud to participate in the [US Department of Homeland Security Silicon Valley Innovation Program](https://www.dhs.gov/science-and-technology/svip) Interoperability Plug-fest this month. DHS SVIP has been leading the charge on interoperability for years now, putting their funding and networks on the table to lead the charge.
 
-* [Transmute: Interoperability & Selective Disclosure in an Audit Authorization Scenario](https://www.youtube.com/watch?v%3DPodtjhO3vJo)
+* [Transmute: Interoperability & Selective Disclosure in an Audit Authorization Scenario](https://www.youtube.com/watch?v=PodtjhO3vJo)
 
 Proof of COVID Vaccination Credential
 
-* [Transmute + DHS SVIP: Showing Interoperability in a Supply Chain Scenario](https://www.youtube.com/watch?v%3DfngwogLRUGk)
+* [Transmute + DHS SVIP: Showing Interoperability in a Supply Chain Scenario](https://www.youtube.com/watch?v=fngwogLRUGk)
 
-* [DHS SVIP PlugFest 2021 – Interop Testing Demo](https://www.youtube.com/watch?v%3DmXLy2Rof_iA) Mattr
+* [DHS SVIP PlugFest 2021 – Interop Testing Demo](https://www.youtube.com/watch?v=mXLy2Rof_iA) Mattr
   > As part of our deliverables for the U.S. Department of Homeland Security's Silicon Valley Innovation Program, we developed capabilities including a MATTR web wallet, CHAPI credential interactions, and direct interoperability with issuance and verification infrastructure built by other vendors. The results of this work are documented in our publicly available open-source test suite: [https://w3c-ccg.github.io/vc-http-api/test-suite/mattr/](https://w3c-ccg.github.io/vc-http-api/test-suite/mattr/)​
 
-* [DHS SVIP PlugFest 2021 – USCIS Appointment Demo](https://www.youtube.com/watch?v%3DdgcKYam4MiQ) Mattr
+* [DHS SVIP PlugFest 2021 – USCIS Appointment Demo](https://www.youtube.com/watch?v=dgcKYam4MiQ) Mattr
   > We showcase our Mobile Wallet and OIDC Bridge Platform Extension in action, demonstrating how BBS+ signatures and selective disclosure can allow users to manage which data they are sharing with relying parties in a privacy-preserving way. This work leverages a newly created [Appointment vocabulary for JSON-LD](https://mattrglobal.github.io/appointment-vocab/)
 
-* [DHS SVIP PlugFest 2021 – Paper & Digital Vaccination Credentials](https://www.youtube.com/watch?v%3DfEBNGj377Vc) Mattr
+* [DHS SVIP PlugFest 2021 – Paper & Digital Vaccination Credentials](https://www.youtube.com/watch?v=fEBNGj377Vc) Mattr
   > We showcase how both paper and digital credentials can be verified using the same infrastructure, allowing for easier relying-party integration. This work leverages CBOR-LD and a newly created [Vaccination Certificate vocabulary](https://w3c-ccg.github.io/vaccination-vocab/)
 
-* [Three-Vendor Interop - DHS SVIP Showcase Day](https://www.youtube.com/watch?v%3DdreJIx0_esE) Danube Tech
+* [Three-Vendor Interop - DHS SVIP Showcase Day](https://www.youtube.com/watch?v=dreJIx0_esE) Danube Tech
 
-* [Full Walkthrough DHS SVIP Showcase](https://www.youtube.com/watch?v%3D87B_OyqWzVE) Danube Tech
+* [Full Walkthrough DHS SVIP Showcase](https://www.youtube.com/watch?v=87B_OyqWzVE) Danube Tech
 
-* [Virtual Credentials Journey 2](https://www.youtube.com/watch?v%3DAtCoavCFN1o) Danube Tech
+* [Virtual Credentials Journey 2](https://www.youtube.com/watch?v=AtCoavCFN1o) Danube Tech
 
-* [Virtual Credentials Journey 3](https://www.youtube.com/watch?v%3DXYiqkMqCUnY) Danube Tech
+* [Virtual Credentials Journey 3](https://www.youtube.com/watch?v=XYiqkMqCUnY) Danube Tech
 
-* [Interoperability Fest – Oil & Gas](https://www.youtube.com/watch?v%3DKx49PklrHIY) Mavenet
+* [Interoperability Fest – Oil & Gas](https://www.youtube.com/watch?v=Kx49PklrHIY) Mavenet
 * [Sphereon wins an EU eSSIF-Lab grant](https://sphereon.com/news-and-insights/sphereon-wins-an-eu-essif-lab-grant/)
 
 We’re very pleased to announce that our proposal “Presentation Exchange – Credential Query Infra” has been selected as 1 of 7 out of 299 proposals to join the second Infrastructure-oriented program of the EU’s eSSIF-Lab.
 
 We’ll be providing a Presentation Exchange that creates interoperability between W3C DIF-compliant Verifiable Credentials and Hyperledger Aries-based Verifiable Credentials for the European Blockchain Services Infrastructure (EBSI).
-- [Digital Bazaar Interop 1B](https://www.youtube.com/watch?v%3D-sr-7E7q79E)
-- [Digital Bazaar Interop 1A](https://www.youtube.com/watch?v%3Demu301gvMJE)
+- [Digital Bazaar Interop 1B](https://www.youtube.com/watch?v=-sr-7E7q79E)
+- [Digital Bazaar Interop 1A](https://www.youtube.com/watch?v=emu301gvMJE)
 
 
-* [SSI Interoperability Demo – NB Orbit Mobile Wallet, PwC, Copper Mountain & BC Mines](https://northernblock.io/ssi-interoperability-demo-nb-orbit-mobile-wallet-pwc-copper-mountain-bc-mines/) NorthernBlock ([Video](https://www.youtube.com/watch?v%3DWkPuEuf9K3Y)
+* [SSI Interoperability Demo – NB Orbit Mobile Wallet, PwC, Copper Mountain & BC Mines](https://northernblock.io/ssi-interoperability-demo-nb-orbit-mobile-wallet-pwc-copper-mountain-bc-mines/) NorthernBlock ([Video](https://www.youtube.com/watch?v=WkPuEuf9K3Y)
 
 In collaboration with the BC Mines Trust Ecosystem, we demonstrate interoperability between organizations using the BC Gov Business Partner Agent and the NB Orbit Mobile Wallet for managing sustainable mining practices.
 
@@ -66,7 +66,7 @@ In collaboration with the BC Mines Trust Ecosystem, we demonstrate interoperabil
 * [Transatlantic SSI Interop](https://medium.com/@markus.sabadello/transatlantic-ssi-interop-52bac6be8dfe) Markus Sabadello
 
 The "Transatlantic SSI Interop" experiment was successfully conducted to demonstrate interoperability between the EU EBSI Diploma use case, and the US SVIP Permanent Resident Card use case. This was jointly planned and executed by EU partner Danube Tech and US partner Digital Bazaar.
-* [Bob Blakely shared his reflections on SAML interop work](https://us02web.zoom.us/rec/play/xnxk16ksNsA9CP4UgR9BqylnH6qT1WZlSpFc9LOweFI7HZNcn8KR3A-0OsUDbPuNM6o0tt1JrSMqGV4Z.dnAMXXLE5-62VAfX?continueMode%3Dtrue%26_x_zm_rtaid%3DQs7tORTgRhmEiSBbcDzQLg.1645215091973.9fac74d22719638c1d1b641c83b0f5c7%26_x_zm_rhtaid%3D448) DIF Interop WG
+* [Bob Blakely shared his reflections on SAML interop work](https://us02web.zoom.us/rec/play/xnxk16ksNsA9CP4UgR9BqylnH6qT1WZlSpFc9LOweFI7HZNcn8KR3A-0OsUDbPuNM6o0tt1JrSMqGV4Z.dnAMXXLE5-62VAfX?continueMode=true&_x_zm_rtaid=Qs7tORTgRhmEiSBbcDzQLg.1645215091973.9fac74d22719638c1d1b641c83b0f5c7&_x_zm_rhtaid=448) DIF Interop WG
 
 * [Trust, Verifiable Credentials, and Interoperability](https://indicio.tech/trust-verifiable-credentials-and-interoperability/) Helen Garneau, Indicio
 
@@ -97,7 +97,7 @@ Many implementers won’t realize the potential of SSI until it’s deployed at 
 
 Resources
 
-- [Kick-off Meeting Deck](https://docs.google.com/presentation/d/1YoS3est-YnWO1tI7JjJDjSPSnIXJNon_TFosKyneaJg/edit?usp%3Dsharing)
+- [Kick-off Meeting Deck](https://docs.google.com/presentation/d/1YoS3est-YnWO1tI7JjJDjSPSnIXJNon_TFosKyneaJg/edit?usp=sharing)
 - [VC Implementation Guide](https://www.w3.org/TR/vc-imp-guide/)
 - [Plugfest Open Badges v3 context](https://w3c-ccg.github.io/vc-ed/plugfest-1-2022/jff-vc-edu-plugfest-1-context.json)
 - [Open Badges 3.0](https://imsglobal.github.io/openbadges-specification/ob_v3p0.html)
@@ -123,15 +123,15 @@ EU-Interop
 
 The European Commission and the European Blockchain Partnership are laying the foundations to implement it in the different EU member states, both in the public and private sectors, launching the European Blockchain Services Infrastructure (EBSI) network, with the aim of 'leveraging blockchain to accelerate the creation of cross-border services for public administrations and their ecosystems
 
-* [EBSI Demo Day May 31, 2022 - The Multi University Pilot and Demos 1 - 2 - 3](https://www.youtube.com/watch?v%3D54WrOZ2IEZE)
+* [EBSI Demo Day May 31, 2022 - The Multi University Pilot and Demos 1 - 2 - 3](https://www.youtube.com/watch?v=54WrOZ2IEZE)
 
-* [00:00](https://www.youtube.com/watch?v%3D54WrOZ2IEZE%26t%3D0s) The Early Adopters programmme and the Multi-University pilot
+* [00:00](https://www.youtube.com/watch?v=54WrOZ2IEZE&t=0s) The Early Adopters programmme and the Multi-University pilot
 
-* [11:01](https://www.youtube.com/watch?v%3D54WrOZ2IEZE%26t%3D661s) Demo 1: A student gets a diploma with a list of course units validated from Erasmus
+* [11:01](https://www.youtube.com/watch?v=54WrOZ2IEZE&t=661s) Demo 1: A student gets a diploma with a list of course units validated from Erasmus
 
-* [42:22](https://www.youtube.com/watch?v%3D54WrOZ2IEZE%26t%3D2542s) Demo 2: A student applies for a PhD with a Bachelor/Master degree from a foreign country
+* [42:22](https://www.youtube.com/watch?v=54WrOZ2IEZE&t=2542s) Demo 2: A student applies for a PhD with a Bachelor/Master degree from a foreign country
 
-* [01:04:16](https://www.youtube.com/watch?v%3D54WrOZ2IEZE%26t%3D3856s) Demo 3: A student gets access to local discounts using municipality credential based on a European student card
+* [01:04:16](https://www.youtube.com/watch?v=54WrOZ2IEZE&t=3856s) Demo 3: A student gets access to local discounts using municipality credential based on a European student card
 
 
 
@@ -139,7 +139,7 @@ The European Commission and the European Blockchain Partnership are laying the f
 
 The "Data Governance and Semantics" project featured three webinars introducing DDE as a decentralised trust infrastructure acutely aligned with the current movement toward data exchange models in the Economic domain where actors regain transactional sovereignty to share accurate information bilaterally.
 
-* [SSI Report - Interoperability](https://www.youtube.com/watch?v%3DezInITzb9p4) RootsID
+* [SSI Report - Interoperability](https://www.youtube.com/watch?v=ezInITzb9p4) RootsID
 
 Interoperability is the ultimate challenge of a Decentralized Self-Sovereign Identity. Hyperledger Aries is hosting an Interopathon to showcase all the work their community has done to promote Interoperability. We have also started discussions about a standard import/export format that would further improve interop across identity agents.
 

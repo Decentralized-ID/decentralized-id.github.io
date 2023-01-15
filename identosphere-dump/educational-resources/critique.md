@@ -24,11 +24,11 @@ Ted Thibodeau Jr Shares
 
 it was not the only nor the first related tweet emanating from Harry --
 
-* [https://twitter.com/search?q=W3C%20(DID%20OR%20%22Verifiable%20Credentials%22%20OR%20VCs)%20(from%3Aharryhalpin)&src=typed_query&f=live](https://twitter.com/search?q%3DW3C%2520(DID%2520OR%2520%2522Verifiable%2520Credentials%2522%2520OR%2520VCs)%2520(from%253Aharryhalpin)%26src%3Dtyped_query%26f%3Dlive)
+* [https://twitter.com/search?q=W3C%20(DID%20OR%20%22Verifiable%20Credentials%22%20OR%20VCs)%20(from%3Aharryhalpin)&src=typed_query&f=live](https://twitter.com/search?q=W3C%20(DID%20OR%20%22Verifiable%20Credentials%22%20OR%20VCs)%20(from%3Aharryhalpin)&src=typed_query&f=live)
 
 Nor has he limited his commentary to Twitter --
 
-* [https://www.google.com/search?q=W3C+(DID+OR+%22Verifiable+Credentials%22+OR+VCs)+%22harry+halpin%22](https://www.google.com/search?q%3DW3C%2B(DID%2BOR%2B%2522Verifiable%2BCredentials%2522%2BOR%2BVCs)%2B%2522harry%2Bhalpin%2522)
+* [https://www.google.com/search?q=W3C+(DID+OR+%22Verifiable+Credentials%22+OR+VCs)+%22harry+halpin%22](https://www.google.com/search?q=W3C+(DID+OR+%22Verifiable+Credentials%22+OR+VCs)+%22harry+halpin%22)
 * [An Examination of the Biases within Commercialized Identity](https://www.pingidentity.com/en/company/blog/posts/2021/biases-commercialized-identity.html) on  [Hello User Podcast](https://www.pingidentity.com/en/company/podcast.html)
 
 “There is no discipline for software engineers when it comes to identity and privacy due to the pace at which they are expected to build, but this will likely change because of liabilities and regulation.”
@@ -82,7 +82,7 @@ It’s time activists began to develop a working knowledge of Blockchain and sel
 
 By focusing on the risk to individual citizens, the Declaration complete ignores the systemic risks introduced by the digital transformation (and in general the reliance on so called [programmable infrastructures](https://www.tudelft.nl/tbm/programmable-infrastructures), as expressed by Seda Gürses and Martha Poon among others).
 
-* [Dividing the Movement w. Alison McDowell (Separating Signal from Noise)](https://www.youtube.com/watch?v%3DawCcnstfhLY) Doom&GloomHQ
+* [Dividing the Movement w. Alison McDowell (Separating Signal from Noise)](https://www.youtube.com/watch?v=awCcnstfhLY) Doom&GloomHQ
 
 
 * [SSI-on-Blockchain is Objectively a Bad Thing](https://weh.wtf/ssi.html) Niko

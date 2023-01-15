@@ -27,9 +27,9 @@ As most of us know, that eventually led to the realization of the many dimension
 
 It feels like we're in the early throes of a "Wallet Rubric".
 
-* [https://docs.google.com/document/d/139dTcWp28LePAQjrA1uXVy4d154B22Y2d-vn5GvIaec/edit#](https://docs.google.com/document/d/139dTcWp28LePAQjrA1uXVy4d154B22Y2d-vn5GvIaec/edit%23) [updated link]
+* [https://docs.google.com/document/d/139dTcWp28LePAQjrA1uXVy4d154B22Y2d-vn5GvIaec/edit#](https://docs.google.com/document/d/139dTcWp28LePAQjrA1uXVy4d154B22Y2d-vn5GvIaec/edit#) [updated link]
 
-* [Wallet Security & Hardware-backed VCs - privacy challenges & new DIF WG incoming](https://iiw.idcommons.net/20F/_Wallet_Security_%2526_Hardware-backed_VCs_-_privacy_challenges_%2526_new_DIF_WG_incoming) by Paul Bastian & Micha Kraus
+* [Wallet Security & Hardware-backed VCs - privacy challenges & new DIF WG incoming](https://iiw.idcommons.net/20F/_Wallet_Security_%26_Hardware-backed_VCs_-_privacy_challenges_%26_new_DIF_WG_incoming) by Paul Bastian & Micha Kraus
 
 * [https://lists.identity.foundation/g/wallet-security](https://lists.identity.foundation/g/wallet-security)
 
@@ -51,7 +51,7 @@ SSI Wallets are one of the essential components that make self sovereign identit
 An overview of SSI wallets
 
 - [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) by [Trinsic](https://github.com/trinsic-id)
-- [Esatus Wallet](https://esatus.com/esatus-ssi-wallet-app-ab-sofort-fuer-ios-und-android-verfuegbar/?lang%3Den) by Esatus
+- [Esatus Wallet](https://esatus.com/esatus-ssi-wallet-app-ab-sofort-fuer-ios-und-android-verfuegbar/?lang=en) by Esatus
 - [Lissi ID Wallet](https://lissi.id/mobile) by [Lissi](https://github.com/lissi)
 - [Jolocom Smart Wallet](https://jolocom.io/solution/) by [Jolocom](https://github.com/jolocom)
 - [SelfKey Wallet](https://selfkey.org/self-sovereign-identity/) by [SelfKey Foundation](https://github.com/SelfKeyFoundation)
@@ -96,11 +96,11 @@ It can be integrated into new or existing ecosystems and provide fundamental dec
 
 And, much like a physical wallet, you will be able to use the contents of your SmartWallet to prove your identity, by showing the cards and information you carry to whoever has requested it. However, using self-sovereign identity (SSI) technology the SmartWallet goes further. It gives you complete control over who sees what, as you curate the sources of your identity.
 
-* [Open-Source Sovrin SSI Wallet - Functionality Design Session](https://iiw.idcommons.net/index.php?title%3D22M/_Open-Source_Sovrin_SSI_Wallet_-_Functionality_Design_Session%26action%3Dedit%26redlink%3D1) by Chris Raczkowski
+* [Open-Source Sovrin SSI Wallet - Functionality Design Session](https://iiw.idcommons.net/index.php?title=22M/_Open-Source_Sovrin_SSI_Wallet_-_Functionality_Design_Session&action=edit&redlink=1) by Chris Raczkowski
 
 * [Dissertation Study on Adoption of SSI Digital Wallet](https://iiw.idcommons.net/24K/_Dissertation_Study_on_Adoption_of_SSI_Digital_Wallet) by Kerri Lemoie
 
-Slides: [https://docs.google.com/presentation/d/1BxFtjqypzPfeSe5Bbatl4NAPXn3lixWfWicdMNPOqQY/edit#slide=id.gcd69ee338d_0_288](https://docs.google.com/presentation/d/1BxFtjqypzPfeSe5Bbatl4NAPXn3lixWfWicdMNPOqQY/edit%23slide%3Did.gcd69ee338d_0_288)
+Slides: [https://docs.google.com/presentation/d/1BxFtjqypzPfeSe5Bbatl4NAPXn3lixWfWicdMNPOqQY/edit#slide=id.gcd69ee338d_0_288](https://docs.google.com/presentation/d/1BxFtjqypzPfeSe5Bbatl4NAPXn3lixWfWicdMNPOqQY/edit#slide=id.gcd69ee338d_0_288)
 
 Perceived benefit + Perceived ease of use => Behavioral intention
 
@@ -132,14 +132,14 @@ Biggest factors leading to trustworthiness were “access” and “protect.”
 
 * [...]
 
-* [Paper based credentials: Demo and discussion](https://iiw.idcommons.net/24G/Paper_Based_Credentials:_Demo_%2526_Discussion) by Kyle Den Hartog, Preet Patel
+* [Paper based credentials: Demo and discussion](https://iiw.idcommons.net/24G/Paper_Based_Credentials:_Demo_%26_Discussion) by Kyle Den Hartog, Preet Patel
 
 Paper VC’s demo YouTube links:
 
 * [https://youtu.be/EXvWxFjHvdY](https://youtu.be/EXvWxFjHvdY)
 
 * [https://youtu.be/fEBNGj377Vc](https://youtu.be/fEBNGj377Vc)
-Second demo video using a different potential flow: [https://www.youtube.com/watch?v=fEBNGj377Vc](https://www.youtube.com/watch?v%3DfEBNGj377Vc)
+Second demo video using a different potential flow: [https://www.youtube.com/watch?v=fEBNGj377Vc](https://www.youtube.com/watch?v=fEBNGj377Vc)
 
 Paper VC’s are hard to bring to parity with “digital VC’s”. The biggest issue is binding subject to holder and verifying that. There were also callouts on how do you prevent replication.
 
@@ -155,7 +155,7 @@ Kathleen Kenyon & Anil John believe that blockchain-based identity wallets are d
   > A [finalist](https://www.dhs.gov/science-and-technology/news/2020/11/02/news-release-finalists-announced-digital-wallets-prize-challenge) in the Department of Homeland Security (DHS) Science and Technology ( S&T) Trusted User Interface (UI) Digital Wallets Challenge, the UI digital wallet design is now available in the [Indicio public Github repository](https://github.com/Indicio-tech/indicio-mobile-ux).
 * [The benefits of Self-Sovereign Identity wallets: Collaborating on Self-Sovereign Identity wallets](https://www.brightlands.com/en/brightlands-smart-services-campus/collaborating-self-sovereign-identity-wallets-12) Rabobank ([Part 2](https://www.brightlands.com/en/brightlands-smart-services-campus/rabobanks-opinion-techruption)
   > SSI and identity wallets will make it easier for citizens, organizations and governments to manage (digital) identities. It will make registrations and transactions across the internet private and secure. It will also make organizations more efficient and effective. As administration is reduced, costs will decrease. As their user interface becomes easier to use, their customers will perform more registrations with less errors - what in some cases will lead to extra revenue, but in all cases will lead to more satisfied customers
-* [Self-Sovereign Identity Mobile Wallet 101: Key Features](https://www.youtube.com/watch?v%3Drl8yt6V3p0U) Northern Block
+* [Self-Sovereign Identity Mobile Wallet 101: Key Features](https://www.youtube.com/watch?v=rl8yt6V3p0U) Northern Block
   > In this video we showcase the features that a NB Orbit Mobile Wallet user can use:
   > - Form P2P connections through DIDComm
   > - Receive credential proof requests
@@ -186,11 +186,11 @@ This contest was announced in September and had a very tight turnaround. You can
 * [Identity Wallets & eIDAS 2.0](https://stateofidentity.libsyn.com/identity-wallets-eidas-20) State of Identity
 
 What role will public vs. private institutions play in the rollout of eIDAS 2.0 wallets? On this week’s State of Identity podcast, host Cameron D'Ambrosi is joined by Marcel Wendt, CTO & Founder of Digidentity. The duo discusses the looming impact of eIDAS 2.0 on digital identity globally, how to keep data secure when verifying the identity of individuals and businesses online, and the European Union's clear vision for where digital identity is headed].
-* [W3C CCG Digital Wallet Protocols Analysis](https://docs.google.com/document/d/139dTcWp28LePAQjrA1uXVy4d154B22Y2d-vn5GvIaec/edit%23heading%3Dh.wkav55i452ux)
+* [W3C CCG Digital Wallet Protocols Analysis](https://docs.google.com/document/d/139dTcWp28LePAQjrA1uXVy4d154B22Y2d-vn5GvIaec/edit#heading=h.wkav55i452ux)
 
 * [Verifiable Credentials Wallets for Learning and Employment](https://info.jff.org/digital-wallets) Jobs for the Future
 
-* [Wallet Survey](https://info.jff.org/cs/c/?cta_guid%3Df5a9c8e1-96bc-4975-8222-1a9287004ef6%26signature%3DAAH58kFdJ1COK9BlGdAqSf0jPZoGf8klWw%26pageId%3D67386986801%26placement_guid%3D0f76ec2a-e3f0-4475-9c19-98a6bf797491%26click%3Dc0a06731-2b1f-462f-ad3e-53424b190dbc%26hsutk%3D%26canon%3Dhttps%253A%252F%252Finfo.jff.org%252Fdigital-wallets%26portal_id%3D19545115%26redirect_url%3DAPefjpGla1hvnHgKsx6ZSTsSbyDt8qBnp0QFIgUQgqJMqNLtHeiH_nsOlwVp1otzPJapH9BfPFDeyQHfY7u29aiIPrYsqHKVp4ruqsMnZn4hVtkomtSXXMibn0WJMJTkS1TGYAxX_xrWTbxgdsaAek98q7p6i19fyBPdnkkbwmU47Ns0i3mm2U5Fzl0IVu8YN_FNgBbINMtc3O97B9Qz3UqQ1fuorjGlcg)
+* [Wallet Survey](https://info.jff.org/cs/c/?cta_guid=f5a9c8e1-96bc-4975-8222-1a9287004ef6&signature=AAH58kFdJ1COK9BlGdAqSf0jPZoGf8klWw&pageId=67386986801&placement_guid=0f76ec2a-e3f0-4475-9c19-98a6bf797491&click=c0a06731-2b1f-462f-ad3e-53424b190dbc&hsutk=&canon=https%3A//info.jff.org/digital-wallets&portal_id=19545115&redirect_url=APefjpGla1hvnHgKsx6ZSTsSbyDt8qBnp0QFIgUQgqJMqNLtHeiH_nsOlwVp1otzPJapH9BfPFDeyQHfY7u29aiIPrYsqHKVp4ruqsMnZn4hVtkomtSXXMibn0WJMJTkS1TGYAxX_xrWTbxgdsaAek98q7p6i19fyBPdnkkbwmU47Ns0i3mm2U5Fzl0IVu8YN_FNgBbINMtc3O97B9Qz3UqQ1fuorjGlcg)
 
 Skills-based practices make pathways to good careers more accessible to a wider segment of the workforce by focusing on what workers can do, not on the degrees or certifications they’ve earned. The verifiable credentials wallets highlighted in this market scan give learners and workers the tools they need to communicate the totality of their skills and abilities and translate their achievements into future opportunities.
 
@@ -214,7 +214,7 @@ In the offline world, we typically store credentials in a physical wallet — it
 
 * [Finnish Trust Network](https://www.kyberturvallisuuskeskus.fi/en/our-activities/regulation-and-supervision/electronic-identification) consists of “strong electronic identification” providers. The concept means proving one’s identity in electronic services that meets specific requirements laid down by Finnish law. The identity providers are required to implement multi-factor authentication to authenticate the users.
 
-* [Digital Wallets and Migration Policy: A Critical Intersection](https://www.bosch-stiftung.de/en/publication/digital-wallets-and-migration-policy-critical-intersection) ([Download](https://www.bosch-stiftung.de/sites/default/files/publications/pdf/2022-06/Digital%2520Wallets%2520and%2520Migration%2520Policy.pdf)
+* [Digital Wallets and Migration Policy: A Critical Intersection](https://www.bosch-stiftung.de/en/publication/digital-wallets-and-migration-policy-critical-intersection) ([Download](https://www.bosch-stiftung.de/sites/default/files/publications/pdf/2022-06/Digital%20Wallets%20and%20Migration%20Policy.pdf)
 
 In cross-border and migration contexts, digital wallets promise to have wide ranging implications for global governance, especially in identity management and finance. In this brief Margie Cheesman outlines use cases as well as concerns and risks when it comes to their adoption in the migration sector.
 

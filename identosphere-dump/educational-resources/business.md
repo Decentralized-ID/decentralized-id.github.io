@@ -40,7 +40,7 @@ What are some limitations and opportunities for making profitable business in se
 - Cryptoeconomics x SSI (h/t [@mathieu_glaude](https://twitter.com/mathieu_glaude)
 
 * [On Self-Sovereign Identity: What's the Business Value of SSI?](https://hackernoon.com/self-sovereign-identity-what-is-the-business-value-uq6l36wh) Hackernoon
-  > To businesses, immediate value comes from removal of the costly and challenging GDPR compliance. [Forbes reports](https://www.forbes.com/sites/oliversmith/2018/05/02/the-gdpr-racket-whos-making-money-from-this-9bn-business-shakedown/?ref%3Dhackernoon.com%235dd0efa234a2) that in 2018 in the UK alone $1,1 billion was spent by companies on GDPR preparation, while US companies allocated over $7.8 billion on protecting customers’ personal information.
+  > To businesses, immediate value comes from removal of the costly and challenging GDPR compliance. [Forbes reports](https://www.forbes.com/sites/oliversmith/2018/05/02/the-gdpr-racket-whos-making-money-from-this-9bn-business-shakedown/?ref=hackernoon.com#5dd0efa234a2) that in 2018 in the UK alone $1,1 billion was spent by companies on GDPR preparation, while US companies allocated over $7.8 billion on protecting customers’ personal information.
 * [Career Advice for New Professionals in Identity](https://iiw.idcommons.net/22D/_Career_Advice_for_New_Professionals_in_Identity) by Megan Olsen
 
 Simon: worked with Megan Olsen for 6(?) months as intern. Do not have job offer yet. Think this is the future. Hard to get from corporations taking advantage, bring freedom back as it was back in the day. Advise: do some research on your own, educate yourself, do development as much as you can.
@@ -122,7 +122,7 @@ There’s an economic theory here: Free customers are more valuable than captive
 We’d get the startup founders to figure out the biggest assumptions they were making across user risk (do people want this?), business risk (can this be the center of a viable business?), and feasibility risk (can we build this in a scalable way with the time, team, and resources potentially at our disposal?). And then we’d ask them to go out and figure out how to de-risk those assumptions in the real world, usually by talking to experts and asking smart questions.
 
 
-* [Working Spaces Are Ecosystems Too!](https://www.youtube.com/watch?v%3DMfBoUDNcyW4) Autumn Watkinson - Trust over IP Foundation
+* [Working Spaces Are Ecosystems Too!](https://www.youtube.com/watch?v=MfBoUDNcyW4) Autumn Watkinson - Trust over IP Foundation
 
 An ecosystem is a community of living organisms interacting with each other and their physical environment.  When you hear that definition, you might priture a pristine nature landscape, but that definition can also apply to how businesses, individual or organization interact with one and other.  This talk is about natural ecosystem and how we can adapt nature's lessons to our industry ecosystems.
 
@@ -138,7 +138,7 @@ The KuppingerCole Identity Fabric, an indispensable component in modeling future
 
 * [Can Self-Sovereign Identity Deliver Business Value?](https://walton.uark.edu/insights/posts/can-self-sovereign-identity-deliver-business-value-lessons-learned-from-the-nhs.php) Walton College
 
-As [Mary Lacity](https://walton.uark.edu/departments/information-systems/directory/uid/mclacity/name/Mary%2BLacity/) and [Erran Carmel](https://www.american.edu/kogod/faculty/carmel.cfm) explore in their whitepaper, [“Implementing Self-Sovereign Identity (SSI) for a digital staff passport at UK NHS,”](https://cpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/5/444/files/2018/01/BCoE2022SS1FINAL.pdf) the lessons learned by the NHS may point towards ways of unlocking new business value.
+As [Mary Lacity](https://walton.uark.edu/departments/information-systems/directory/uid/mclacity/name/Mary+Lacity/) and [Erran Carmel](https://www.american.edu/kogod/faculty/carmel.cfm) explore in their whitepaper, [“Implementing Self-Sovereign Identity (SSI) for a digital staff passport at UK NHS,”](https://cpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/5/444/files/2018/01/BCoE2022SS1FINAL.pdf) the lessons learned by the NHS may point towards ways of unlocking new business value.
 * [Identity Proofing – Definition, Importance, and Solutions](https://imageware.io/identity-proofing/) Imageware
 
 The global market for identity and access management was $9.53 billion USD in 2018 and is expected to reach $24.76 billion USD by the end of 2026, showing a CAGR of 13.2% during the forecast year.
@@ -208,10 +208,10 @@ It’s called decentralized identity orchestration and brings with it uniform se
 
 * [Digital Identity Market Signals](https://indicio.tech/digital-identity-market-signals/)
 
-- [Digital ID bill sees action in the House and Senate](https://fcw.com/congress/2022/07/digital-id-bill-sees-action-house-and-senate/374552/%25C2%25A0)
-- [Will EU digital identity drop the unique identifier?](https://www.biometricupdate.com/202207/will-eu-digital-identity-drop-the-unique-identifier%25C2%25A0)
-- [Why digital identity will make or break the Metaverse](https://eandt.theiet.org/content/articles/2022/07/why-digital-identity-will-make-or-break-the-metaverse/%25C2%25A0)
-- [Young people at greater risk of falling victim to identity fraud](https://www.digit.fyi/young-people-at-greater-risk-of-falling-victim-to-identity-fraud/%25C2%25A0)
+- [Digital ID bill sees action in the House and Senate](https://fcw.com/congress/2022/07/digital-id-bill-sees-action-house-and-senate/374552/%C2%A0)
+- [Will EU digital identity drop the unique identifier?](https://www.biometricupdate.com/202207/will-eu-digital-identity-drop-the-unique-identifier%C2%A0)
+- [Why digital identity will make or break the Metaverse](https://eandt.theiet.org/content/articles/2022/07/why-digital-identity-will-make-or-break-the-metaverse/%C2%A0)
+- [Young people at greater risk of falling victim to identity fraud](https://www.digit.fyi/young-people-at-greater-risk-of-falling-victim-to-identity-fraud/%C2%A0)
 
 
 * [Why plastic cards are a model for verifiable credentials as a service](https://lockstep.com.au/magnetic-stripe-cards-and-verifiable-credentials/) Lockstep
@@ -227,11 +227,11 @@ Lead with key benefits. The release features two: support for diplex-matched an
 Clarify modifiers. A phrase like “diplex matched antennas” is ambiguous. Does “matched” modify “diplex” or “antennas”? The domain is unfamiliar to me, but I suspected it should be “diplex-matched” and a web search confirmed that hunch.
 
 Omit needless words. The idea of faster workflow appears in the original first paragraph as “new efficiencies aimed at streamlining antenna design workflows and shortening design cycles.” That’s a long, complicated, yet vague way of saying “enables designers to work faster.”
-* [McK Insights: Why digital trust truly matters, and what it means for your bottom line](https://www.linkedin.com/posts/dr-carsten-st%25C3%25B6cker-1145871_mck-why-digital-trust-truly-matters-activity-6976042326783619072-uSIz/) Dr. Carsten Stöcker
+* [McK Insights: Why digital trust truly matters, and what it means for your bottom line](https://www.linkedin.com/posts/dr-carsten-st%C3%B6cker-1145871_mck-why-digital-trust-truly-matters-activity-6976042326783619072-uSIz/) Dr. Carsten Stöcker
 
 The results of our survey of more than 1,300 business leaders and 3,000 consumers globally suggest that establishing trust in products and experiences that leverage AI, digital technologies, and data not only meets consumer expectations but also could promote growth.
 
-* [Instagram “slide show” about SSI Market Potential](https://www.instagram.com/p/CikfpR3PmbO/?igshid%3DNmNmNjAwNzg%253D) mehdicherifm
+* [Instagram “slide show” about SSI Market Potential](https://www.instagram.com/p/CikfpR3PmbO/?igshid=NmNmNjAwNzg%3D) mehdicherifm
 
 GROWTH
 

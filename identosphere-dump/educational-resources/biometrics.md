@@ -71,7 +71,7 @@ Your ID, your data storage [@ElastosInfo](https://twitter.com/ElastosInfo)
 
 Nice one [@everlastingOS](https://twitter.com/everlastingOS)
 
-* [Web 3.0 - How to get started!](https://www.youtube.com/watch?v%3DJckzkPAXdhU)
+* [Web 3.0 - How to get started!](https://www.youtube.com/watch?v=JckzkPAXdhU)
 
 What is Web3Auth???
 
@@ -81,7 +81,7 @@ Web3Auth aggregates OAuth (Google, Twitter, Discord) logins, different wallets, 
 
 Metaverse
 
-* [A Digital Identity Fit For The Metaverse](https://www.forbes.com/sites/alastairjohnson/2022/01/07/a-digital-identity-fit-for-the-metaverse/?sh%3D70980509184b) Forbes
+* [A Digital Identity Fit For The Metaverse](https://www.forbes.com/sites/alastairjohnson/2022/01/07/a-digital-identity-fit-for-the-metaverse/?sh=70980509184b) Forbes
 
 The SSI model has an individual’s value — be it crypto, in-game items, or other NFTs — directly tied to their identity. It will be accessible with a simple click for physical services, like an Uber, as well as digital ones, like using a digital asset exchange.
 

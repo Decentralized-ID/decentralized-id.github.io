@@ -23,5 +23,5 @@ Crypto projects that use DAO:
 - Cardano
 - Uniswap
 
-* [A Decentralized Autonomous Organization (DAO) for Public Health - Why, What, How? Let’s discuss.](https://iiw.idcommons.net/index.php?title%3D24N/_A_Decentralized_Autonomous_Organization_(DAO)_for_Public_Health_(Why/What/How)%26action%3Dedit%26redlink%3D1) by Karn Verma
+* [A Decentralized Autonomous Organization (DAO) for Public Health - Why, What, How? Let’s discuss.](https://iiw.idcommons.net/index.php?title=24N/_A_Decentralized_Autonomous_Organization_(DAO)_for_Public_Health_(Why/What/How)&action=edit&redlink=1) by Karn Verma
 

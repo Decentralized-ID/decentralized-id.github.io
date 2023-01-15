@@ -29,7 +29,7 @@ published: false
   > The digital and physical world are merging more than ever before. As the supply chain becomes more ‘phygital,’ innovative ways of sharing data – like using verifiable credentials – are helping to build more trust with data along the supply chain. Join us as we chat with Senior VP of Innovation & Partnerships at GS1 US, Melanie Nuce, as we explore what’s around the corner and how standards play
 
 ### CCG
-* [Open API for Interoperable Traceability](https://w3c-ccg.github.io/traceability-interop/openapi/%23overview) CCG
+* [Open API for Interoperable Traceability](https://w3c-ccg.github.io/traceability-interop/openapi/#overview) CCG
   > `resolve:dids - Grants permission to resolve DIDsissue:credentials - Grants permission issue Verifiable Credentialsverify:credentials - Grants permission verify Verifiable Credentialsread:credentials - Grants permission to get Verifiable Credentialsupdate:credentials - Grants permission to update the status of Verifiable Credentialsprove:presentations - Grants permission to prove Verifiable Presentationsverify:presentations - Grants permission verify Verifiable Presentationssubmit:presentations - Grants permission to submit Verifiable Presentations`
 
 ## DOCK
@@ -41,7 +41,7 @@ published: false
   > Banks have sought to overcome some of these challenges with the use of biometrics such as facial recognition and fingerprints.  These are now more commonly used to login to, or unlock devices, and increase usability, but still leave the challenge of proving the authenticity of a document wide open to abuse.
 * [Why Centralised Decentralised Finance (CeDeFi) and Self-sovereign Identity (SSI) Work Together](https://unizen-io.medium.com/why-centralised-decentralised-finance-cedefi-and-self-sovereign-identity-ssi-work-together-3dccb07f16f9) Unizen
   > the combination of Centralised and Decentralised Finance — unites two ways of interacting with assets into one. Centralised Finance (CeFi) represents traditional entities (e.g. banks, brokers, funds), Decentralised Finance (DeFi) covers blockchain financial applications, cryptocurrencies, exchanges, decentralised payment services, etc. By merging the two, high transparency, impactful innovation, and wide adoption can be achieved.
-- [New Bank Account Use Case](https://www.youtube.com/watch?v%3DYRLu4U4hSZ8)
+- [New Bank Account Use Case](https://www.youtube.com/watch?v=YRLu4U4hSZ8)
 
 
 ## Indicio
@@ -61,7 +61,7 @@ This rapid digitalization of the private sector exposed a challenge in the busin
 
 ## Healthcare
 
-* [ExO Economy Town Hall 11 Medtech & Self Sovereign Identity](https://www.youtube.com/watch?v%3D_yV1K-sw8tM) Adam B Levine Kaliya Identity Woman Young
+* [ExO Economy Town Hall 11 Medtech & Self Sovereign Identity](https://www.youtube.com/watch?v=_yV1K-sw8tM) Adam B Levine Kaliya Identity Woman Young
 
 * [http://economy.openexo.com](https://economy.openexo.com/) ExO Economy Town Hall #11 Q- Medtech and Self Sovereign Identity - Adam B Levine & Kaliya Identity Woman Young
 * [Simplify medical supply orders with SSI: Techruption innovation project](https://www.brightlands.com/en/brightlands-smart-services-campus/brightlands-techruption-SSI-simplifies-medical-supply-orders)
@@ -108,15 +108,6 @@ Much like cell phone technology and the internet, the true power of SSDI will on
 
 ## Passwordless
 * [The End of Logins and Passwords, Just for Starters](https://thereboot.com/the-end-of-logins-and-passwords-just-for-starters/) The Reboot
-
-## Accountability
-* [verify the verifier use-case](https://bloqzone.com/who-wants-to-know/) TNO
-  > The article proposes including coercion countermeasures in governance frameworks:
-  > - Require authoritative verifier.
-  > - Require evidence collection.
-  > - Require enabling anonymous complaints.
-  > - Require remote/proxy verification.
-  > - Require complying holder agent.
 
 ## Identos
 * [Groundwork laid for mass digital identity take up as use cases grow](https://www.biometricupdate.com/202108/groundwork-laid-for-mass-digital-identity-take-up-as-use-cases-grow) Biometric update
@@ -177,7 +168,7 @@ First examples of target areas (where communities are already active) are food d
 Having a look at [the Velocity Whitepaper](https://www.velocitynetwork.foundation/wp-content/uploads/2020/11/Velocity-Non-Technical-Whitepaper-091120-V1.15-Published.pdf) it does mention they are keeping an eye on the work developing in W3C and DIF.
 
 ## DHS
-- [DHS SVIP Plugfest #2: Limited Disclosure Scenario](https://www.youtube.com/watch?v%3DBBSX0ljiCPU)
+- [DHS SVIP Plugfest #2: Limited Disclosure Scenario](https://www.youtube.com/watch?v=BBSX0ljiCPU)
 
 ## DOMI
 * [A brighter future for tenant/landlord relationships](https://domilabs.io/tenant-landlord-relationships/) Domi Labs
@@ -272,9 +263,7 @@ Credential fraud has, unfortunately, become commonplace in today’s instant ele
 
 The COVID-19 pandemic rapidly shifted the way we work, coinciding with digital transformation trends that depend on strong identity assurance. Hybrid workplaces are more common, as is completely remote work
 
-* [Demystifying Data Trusts as DAOs in the Data Economy](https://blog.oceanprotocol.com/demystifying-data-trusts-as-daos-in-the-data-economy-a9386b57ae86) Ocean Protocol
 
-Kelsie Nabben, Researcher, RMIT on Data Trusts, DAOs and use cases of the Data Economy in DAOs [...] Kelsie is interested in the human outcomes of digital infrastructure, blockchain community culture, and algorithmic governance.
 
 [Dignified Identities for Cash assistance project](https://hiplatform.org/digid). The first phase was implemented by KRCS to meet the needs of the vulnerable populations without official IDs
 
@@ -289,7 +278,7 @@ AERGO is proud to announce the launch of the AERGO Venture Fund: a fund dedicate
 
 * [@Steve_Lockstep · Apr 23](https://twitter.com/Steve_Lockstep/status/1517861150129795072)
 
-I had a stab at why Cardspace failed, in “[Identities Evolve: Why Federated Identity is Easier Said than Done](https://papers.ssrn.com/sol3/papers.cfm?abstract_id%3D2163241)
+I had a stab at why Cardspace failed, in “[Identities Evolve: Why Federated Identity is Easier Said than Done](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2163241)
 
 Why does digital identity turn out to be such a hard problem? People are social animals with deep seated intuitions and conventions around identity, but exercising our identities online has been hugely problematic.
 
@@ -319,7 +308,7 @@ while SSI principles incorporate similar notions to the provisions and principle
 
 * [SSI Essentials: 35 use cases of decentralized identities that will make your life easier](https://gataca.io/blog/ssi-essentials-35-use-cases-of-decentralized-identities-that-will-make-your-life-easier)
 
-* [The Importance of Verifiable Credentials to Training Providers](https://uploads-ssl.webflow.com/6269810a06ae9fafd52556a3/629f94235eabc454ea48c117_The%2520Importance%2520of%2520Verifiable%2520Credentials%2520for%2520Training%2520Providers.pdf?__hstc%3D100632769.d32f75d38c42eaa77409051b21d73653.1655033322879.1655033322879.1655033322879.1%26__hssc%3D100632769.1.1655033322879%26__hsfp%3D2803731784) Credivera
+* [The Importance of Verifiable Credentials to Training Providers](https://uploads-ssl.webflow.com/6269810a06ae9fafd52556a3/629f94235eabc454ea48c117_The%20Importance%20of%20Verifiable%20Credentials%20for%20Training%20Providers.pdf?__hstc=100632769.d32f75d38c42eaa77409051b21d73653.1655033322879.1655033322879.1655033322879.1&__hssc=100632769.1.1655033322879&__hsfp=2803731784) Credivera
 
 Great report!
 
@@ -349,7 +338,7 @@ The non-transferability of verifiable credential is one of their super powers. T
 
 
 
-* [Drone Pilot Credentialing for Air Safety](https://www.youtube.com/watch?v%3DGqMsaI3P51o) TOIP
+* [Drone Pilot Credentialing for Air Safety](https://www.youtube.com/watch?v=GqMsaI3P51o) TOIP
 
 Discussed the approach and the implementation challenges of drone pilot credentialing for air safety using verifiable credentials at the July 21, 2022 Ecosystem Foundry Working Group of the Trust Over IP Foundation.
 
@@ -397,7 +386,7 @@ Yes, verifiable authentic human content is important. I also think cryptography 
 
 We Credivera are Having fun at the #NSCExpo
 
-* [When Job Candidates Lie, New Tech From ZippedScript And LearnCard Will Help You Catch Them](https://www.forbes.com/sites/zengernews/2022/09/16/when-job-candidates-lie-new-tech-from-zippedscript-and-learncard-will-help-you-catch-them/?sh%3D731b54b63ed4) Forbes
+* [When Job Candidates Lie, New Tech From ZippedScript And LearnCard Will Help You Catch Them](https://www.forbes.com/sites/zengernews/2022/09/16/when-job-candidates-lie-new-tech-from-zippedscript-and-learncard-will-help-you-catch-them/?sh=731b54b63ed4) Forbes
 
 “recently launched [LearnCard](http://www.learncard.com/), a digital wallet for education and employment programmable verifiable credentials”
 
@@ -405,7 +394,7 @@ We Credivera are Having fun at the #NSCExpo
 
 using verifiable credentials in their wallet.
 
-#HUMBL x GF2GO - San Diego, CA - [Pilot Program](https://www.youtube.com/watch?v%3DH_HAFEzmkWU): New search engine, mobile wallet, verifiable credentials and delivery technologies.
+#HUMBL x GF2GO - San Diego, CA - [Pilot Program](https://www.youtube.com/watch?v=H_HAFEzmkWU): New search engine, mobile wallet, verifiable credentials and delivery technologies.
 
 
 * [EricTang.eth](https://twitter.com/ericxtang/status/1575645620659900417) Twitter
@@ -425,7 +414,7 @@ Most Refugees and IDPs did not have the time to properly prepare by gathering al
 
 * [Creating trust in assertions, claims and the authenticity of the original content](https://liccium.com/) LICCIUM
 
-* [Coming soon — a resume-validating blockchain network for job seeker](https://www.computerworld.com/article/3675547/coming-soon-a-resume-validating-blockchain-network-for-job-seekers.html%23tk.rss_security) Computer World
+* [Coming soon — a resume-validating blockchain network for job seeker](https://www.computerworld.com/article/3675547/coming-soon-a-resume-validating-blockchain-network-for-job-seekers.html#tk.rss_security) Computer World
 
 “Verifying applicant career records can take days, weeks, if not months, to complete," said Dror Gurevich, founder and CEO of the Velocity Network Foundation. "Hiring methods are severely outdated to the point that one in three Americans have [admitted to lying on their resumes](https://t.yesware.com/tt/0db4de0058ee9613cdfcabd5fae96c6ca51e1b7f/275468cd0c53df0b2dfa60dbb913464b/c19e9bd03a563c32bab519acc1fa9f5b/www.resumebuilder.com/1-in-3-americans-admit-to-lying-on-resume/), which slows the hiring process immensely.
 

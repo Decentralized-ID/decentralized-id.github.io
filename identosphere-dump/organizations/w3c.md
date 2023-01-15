@@ -21,10 +21,10 @@ This week, we hit 5k followers on [Twitter](https://twitter.com/DecentralizedID)
 
 ### WebAuthn
 
-* [W3C WebAuthn V2 Now a Standard](https://self-issued.info/?p%3D2160) Mike Jones
-  > While remaining compatible with the original standard, this second version adds additional features, among them for user verification enhancements, manageability, enterprise features, and an Apple attestation format. ([Recommendation](https://www.w3.org/TR/2021/REC-webauthn-2-20210408/)) ([CTAP also approaching standardization](https://self-issued.info/?p%3D2155).
+* [W3C WebAuthn V2 Now a Standard](https://self-issued.info/?p=2160) Mike Jones
+  > While remaining compatible with the original standard, this second version adds additional features, among them for user verification enhancements, manageability, enterprise features, and an Apple attestation format. ([Recommendation](https://www.w3.org/TR/2021/REC-webauthn-2-20210408/)) ([CTAP also approaching standardization](https://self-issued.info/?p=2155).
 * [Web Authentication: An API for accessing Public Key Credentials Level 2](https://www.w3.org/TR/2021/PR-webauthn-2-20210225/). This specification defines an API enabling the creation and use of strong, attested, scoped, public key-based credentials by web applications, for the purpose of strongly authenticating users.
-* [Second Version of W3C Web Authentication (WebAuthn) advances to Proposed Recommendation (PR)](https://self-issued.info/?p%3D2149)
+* [Second Version of W3C Web Authentication (WebAuthn) advances to Proposed Recommendation (PR)](https://self-issued.info/?p=2149)
   > The World Wide Web Consortium (W3C) has published this [Proposed Recommendation (PR)](https://www.w3.org/TR/2021/PR-webauthn-2-20210225/) Level 2 specification, bringing the second version of WebAuthn one step closer to becoming a completed standard. While remaining compatible with the original standard, this second version adds additional features, among them for user verification enhancements, manageability, enterprise features, and an Apple attestation format.
 * [Near-Final Second W3C WebAuthn and FIDO2 CTAP Specifications](https://self-issued.info/?p=2143)
   > The [W3C WebAuthn](https://www.w3.org/blog/webauthn/) and [FIDO2](https://fidoalliance.org/fido2/) working groups have been busy this year preparing to finish second versions of the W3C Web Authentication (WebAuthn) and FIDO2 Client to Authenticator Protocol (CTAP) specifications

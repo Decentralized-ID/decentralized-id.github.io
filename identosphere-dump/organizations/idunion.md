@@ -4,11 +4,11 @@
   > Spherity announces that it has become a partner of the [IDunion](https://idunion.org/) project. The project is funded within the innovation framework “Showcase secure digital identities” of the German government (Federal Ministry for Economic Affairs and Energy). Spherity is entrusted on the application of cloud identity technology in the healthcare industry.
 * [The Digital Identity Card](https://blog.ti8m.com/en/SSI.html) TI8M
   > Currently, over 40 applications have been implemented in the IDunion project. These are used in a wide variety of sectors, such as public administration, the financial sector, IoT and industry, the healthcare sector, mobility sector and e-commerce. The technology has now exited the research phase and will appear in the first productive applications in 2021.
-* [IDunion enters the second project phase initiated by the Federal Ministry of Economic Affairs and Energy of Germany](https://idunion.org/2021/04/06/idunion-startet-in-die-zweite-vom-bmwi-gefoerderte-projektphase/?lang%3Den)
+* [IDunion enters the second project phase initiated by the Federal Ministry of Economic Affairs and Energy of Germany](https://idunion.org/2021/04/06/idunion-startet-in-die-zweite-vom-bmwi-gefoerderte-projektphase/?lang=en)
   > - The Federal Ministry for Economic Affairs and Energy (BMWi) has selected IDunion for the second phase of the innovation competition “Showcase Secure Digital Identities”.
   > - The three-year implementation phase began on April 1, 2021.
   > - The goals of this new project phase includes the establishment of a European cooperative, the launch of a production network and the implementation of 40+ different pilot applications from several areas.
-* [IDunion announces successful establishment of European cooperative](https://idunion.org/2022/08/16/idunion-announces-successful-establishment-of-european-cooperative/?lang%3Den)
+* [IDunion announces successful establishment of European cooperative](https://idunion.org/2022/08/16/idunion-announces-successful-establishment-of-european-cooperative/?lang=en)
 * [IDnow supports European digital identity ecosystem](https://www.idnow.io/press/idnow-supports-european-digital-identity-ecosystem/)
   > IDnow joins IDunion, the network initiative for digital identities funded by the Federal Ministry for Economic Affairs and Energy (BMWi)
 * [IDunion: Germany’s Bold SSI Strategy with Hakan Yildiz](https://northernblock.io/idunion-germany-bold-ssi-strategy/)
@@ -25,7 +25,7 @@ What use cases should a National Digital Identity program prioritize in collabor
 * I summarized our [goals and visions in this presentation](https://nextcloud.idunion.org/s/D2cbMi6w8t3nPYj), for more information check out [the Github page](https://github.com/decentralized-identity/wallet-security)
 
 
-* [Innovative concepts and software for managing digital master data and certificates](https://idunion.org/2021/06/14/innovative-konzepte-und-software-fuer-das-digitale-stammdaten-und-zertifikatsmanagement/?lang%3Den) IDUnion
+* [Innovative concepts and software for managing digital master data and certificates](https://idunion.org/2021/06/14/innovative-konzepte-und-software-fuer-das-digitale-stammdaten-und-zertifikatsmanagement/?lang=en) IDUnion
 
 * [Testing self-sovereign identity with the Lissi demo](https://lissi-id.medium.com/testing-self-sovereign-identity-with-the-lissi-demo-854e73d05aad)
   > We are convinced this demonstrated user flow can help to better understand the interactions in a digital identity ecosystem such as [IDunion](https://idunion.org/). [...] The Lissi team is in discussion with trust service providers, authorities, municipalities, agencies, associations and other relevant stakeholders to meet all the necessary requirements and provide you with the best user experience.

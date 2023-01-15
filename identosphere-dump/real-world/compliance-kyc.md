@@ -14,12 +14,12 @@ While US-based entities are adhering to an enhanced regulatory framework, these 
 Since the same data is required and utilised by everyone, blockchain-based SSI can satisfy the demand for general service for data without creating competition while also adhering to legislation and consumer expectations around data protection.
 
 
-- [DIDComm for KYC](https://www.youtube.com/watch?v%3DPWrZxRbCG88)
+- [DIDComm for KYC](https://www.youtube.com/watch?v=PWrZxRbCG88)
 
 * [zkKYC A solution concept for KYC without knowing your customer, leveraging self-sovereign identity and zero-knowledge proofs](https://bafybeie5ixj4dkim3lgivkw56us6aakh6bc3dhlsx5zzohrkzgo3ywqqha.ipfs.dweb.link/zkKYC-v1.0.pdf)
 
 The proposed solution concept, zkKYC, removes the need for the customer toshare any personal information with a regulated business for the purpose of KYC, and yet providesthe transparency to allow for a customer to be identified if and when that is ruled necessary by adesignated governing entity (e.g. regulator, law enforcement).
-* [EIC Speaker Spotlight: Nat Sakimura](https://www.youtube.com/watch?v%3DQG_gkZkpJwQ) Introducing Gain • OpenID Foundation
+* [EIC Speaker Spotlight: Nat Sakimura](https://www.youtube.com/watch?v=QG_gkZkpJwQ) Introducing Gain • OpenID Foundation
 
 if you look at the the cost structure of the financial industry a lot of cost Is towards anti-money laundering and related activities and that actually is identity problem [...] we should try to solve the use case with a user centricity in mind
 
@@ -44,7 +44,7 @@ if you look at the the cost structure of the financial industry a lot of cost Is
 
 Both CDD and EDD are part of a complete KYC process. Identity verification (IDV) at the account-opening stage is one of the most critical moments in the process, but it doesn’t end there: read on to identify when your due diligence should kick up a notch.
 * [The Identity, Unlocked “eKYC with Mark Haine” Podcast Now Live](https://openid.net/2021/03/10/the-identity-unlocked-ekyc-with-mark-haine-podcast-now-live/)
-* [eKYC with Mark Haine” features host Vittorio Bertocci and special guest Mark Haine](https://identityunlocked.auth0.com/public/49/Identity%252C-Unlocked.--bed7fada/ad784008)
+* [eKYC with Mark Haine” features host Vittorio Bertocci and special guest Mark Haine](https://identityunlocked.auth0.com/public/49/Identity%2C-Unlocked.--bed7fada/ad784008)
 * [SAP Completes Pharmaceutical Industry Pilot to Improve Supply Chain Authenticity](https://news.sap.com/2021/03/pharmaceutical-supply-chain-industry-pilot/)
   > today announced the completion of an industry-wide pilot utilizing self-sovereign identity (SSI) credentials to establish trust in the pharmaceutical supply chain for indirect trade relationships.
 * [Reimagining Customer Loyalty Programs With Verifiable Credentials: A Pravici Case Study](https://www.evernym.com/blog/customer-loyalty-verifiable-credentials/) Evernym

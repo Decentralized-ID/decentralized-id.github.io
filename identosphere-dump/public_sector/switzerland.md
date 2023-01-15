@@ -16,7 +16,7 @@
   > The transition to an ecosystem of digital credentials, initiated by the [federal government’s directional decision](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-86465.html), is a generational project that requires input from – and collaboration between – government, the private sector, academia, and civil society. This document is intended to serve as an initial contribution to the ongoing meta-level debate about the development of the e-ID ecosystem in Switzerland
 * [The New Draft Law on eID Switzerland](https://www.procivis.ch/post/the-new-draft-law-on-eid-switzerland-en) Procivis
 
-Yesterday's [media conference](https://www.youtube.com/watch?v%3DepW4xEqr3mw) and published [media release](https://www.bj.admin.ch/bj/de/home/aktuell/mm.msg-id-89515.html) opened the consultation process for the new E-ID law, which will last until October 20, 2022.
+Yesterday's [media conference](https://www.youtube.com/watch?v=epW4xEqr3mw) and published [media release](https://www.bj.admin.ch/bj/de/home/aktuell/mm.msg-id-89515.html) opened the consultation process for the new E-ID law, which will last until October 20, 2022.
 
 The preliminary [draft of the federal law](https://www.bj.admin.ch/dam/bj/de/data/staat/gesetzgebung/staatliche-e-id/vorentw.pdf) declared the purpose of the E-ID to be to ensure "secure identification by means of E-ID among private individuals and with authorities". The protection of the personality and fundamental rights of individuals is to be provided by the following principles defined in the law:
 

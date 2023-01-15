@@ -19,7 +19,7 @@ Due to the high level of international mobility in the academic sector, insular 
 
 This pilot allows university students to trade their academic records in a privacy-preserving way, and recruitment agencies to acquire this data and process it, keeping the student's privacy intact.
 
-* [CONNECTED IMPACT Unlocking Education and Workforce Opportunity Through Blockchain](https://www.acenet.edu/Documents/ACE-Education-Blockchain-Initiative-Connected-Impact-June2020.pdf?fbclid%3DIwAR22cl_g-DzoZOEBStwKhrsuQpqqA66ZyZhKdd_4NmER2GyDMXbatuUsUuw) ACE
+* [CONNECTED IMPACT Unlocking Education and Workforce Opportunity Through Blockchain](https://www.acenet.edu/Documents/ACE-Education-Blockchain-Initiative-Connected-Impact-June2020.pdf?fbclid=IwAR22cl_g-DzoZOEBStwKhrsuQpqqA66ZyZhKdd_4NmER2GyDMXbatuUsUuw) ACE
 
 This report is the first phase of the Education Blockchain Initiative, funded by the U.S. Department of Education and managed by the American Council on Education (ACE). It summarizes an intensive research project to better understand the application of blockchain, a form of distributed ledger technology, to education. Its content is intended to inform policymakers, technology developers, education practitioners, and workforce entities about the state of and potential of interoperable digital credentials anchored on blockchains. This report also provides guidance to these stakeholders on the effective implementation of blockchain-based digital credentials infrastructure.
 
@@ -45,7 +45,7 @@ The model of self-sovereign identity offers tempting benefits as educational sys
 
 * [Blockchain and the future of Education](https://wellthatsinteresting.tech/blockchain-and-the-future-of-education/) WellThatsInteresting.tech
 It highlights the [recent announcement from Digitary](https://www.digitary.net/myequals-1-million/) about having issued over four million digitally verified documents from 100+ institutions for millions of learners in 135 countries.
-* [Blockchain in the Education Sector](https://potech.global/assets/pdfs/Potech-Labs-White%2520Paper_Blockchain-in-the-Education-Sector.pdf)
+* [Blockchain in the Education Sector](https://potech.global/assets/pdfs/Potech-Labs-White%20Paper_Blockchain-in-the-Education-Sector.pdf)
   > Since most of the educational institutes were facing security crises, new challenges are added to the security system to identify and manage the users’ access to these platforms.The most relevant challenges include but not limited to, legacy identity infrastructure, student lifecycle and users access complexity and new cyber threats.
 
 * [Digital Identity in Education](https://www.thedinglegroup.com/blog/2020/10/4/digital-identity-in-education) Dingle Group
@@ -54,7 +54,7 @@ It highlights the [recent announcement from Digitary](https://www.digitary.net/m
   > The COVID-19 pandemic has exposed flaws across various sectors. As a result, a number of government departments are evaluating blockchain-based systems as possible solutions for challenges involving multiparty workflows, record-keeping, transparency and more.
   > 
   > For example, the United States Department of Education recently provided funding for the launch of the “[Education Blockchain Initiative](https://www.acenet.edu/Research-Insights/Pages/Education-Blockchain-Initiative.aspx).” Referred to as the EBI, this project is led by the American Council on Education — an organization that helps the higher education community shape effective public policy — and is designed to identify ways that blockchain can improve data flow between academic institutions and potential employers.
-* [Redefining the Student Journey](https://www.youtube.com/watch?v%3DenqQ0FyLaBc) Condatis
+* [Redefining the Student Journey](https://www.youtube.com/watch?v=enqQ0FyLaBc) Condatis
 
 Digital innovation has been front and centre in Higher Education since the pandemic. The challenges remain for universities supporting students now and for the future. With the help of Microsoft Azure AD Verifiable Credentials, universities can support student needs effective and innovative digital approach.
 * [Blockchain, Self-Sovereign Identity and Digital Credentials: Promise Versus Praxis in Education](https://www.frontiersin.org/articles/10.3389/fbloc.2021.616779/full) Alex Grech, Ira Sood and Lluís Ariño

@@ -118,7 +118,7 @@ I’m not an expert on the election process, and this is just my opinion. I’ve
 
 
 
-* [Decentralized Identity & Government](https://www.youtube.com/watch?v%3Dl8pHUdjKfes) Evernym
+* [Decentralized Identity & Government](https://www.youtube.com/watch?v=l8pHUdjKfes) Evernym
 
 The key differences between federated and decentralized identity systems - An analysis of a few notable government-led projects, such as Aadhaar (India), Verify (UK), eIDAS (EU), and the Ontario Digital Identity Program (Canada) - What decentralization means for portability, scalability, flexibility, and privacy - How governments and commercial organizations can enhance existing federated identity systems with verifiable credentials
 * [Participate in Alberta's First Verifiable Digital Credentials Pilot](https://pilot.atbventures.com/) ATB Ventures and Govt Alberta
@@ -130,6 +130,6 @@ The proof of concept stage is where the Canadian government tests digital creden
 * [The Future of Digital Identity in Canada: Self-Sovereign Identity (SSI) and Verified.Me](https://securekey.com/the-future-of-digital-identity-in-canada-self-sovereign-identity-ssi-and-verified-me/)
 
 We are thrilled that the academic journal [Frontiers in Blockchain](https://www.frontiersin.org/journals/blockchain) accepted our community case study, “[Decentralized, Self-Sovereign, Consortium: The Future of Digital Identity in Canada](https://www.frontiersin.org/articles/10.3389/fbloc.2021.624258/full).” This peer-reviewed article focuses on the benefits of self-sovereign identity (SSI) with blockchain and Verified.Me as an example of these concepts being effectively implemented to create a cohesive, secure service and digital identity network.
-* [Liquid Avatar and Ontario Convenience Stores Association (OSCA) Successful Pilot of Digital Age-Verification Solutions to Reach over 8,000 Retail Locations](https://www.accesswire.com/684666/Liquid-Avatar-Technologies-and-Ontario-Convenience-Stores-Association-OSCA-Deliver-Successful-Pilot-of-Digital-Age-Verification-Solutions-to-Reach-over-8000-Retail-Locations%23new_tab)
+* [Liquid Avatar and Ontario Convenience Stores Association (OSCA) Successful Pilot of Digital Age-Verification Solutions to Reach over 8,000 Retail Locations](https://www.accesswire.com/684666/Liquid-Avatar-Technologies-and-Ontario-Convenience-Stores-Association-OSCA-Deliver-Successful-Pilot-of-Digital-Age-Verification-Solutions-to-Reach-over-8000-Retail-Locations#new_tab)
 
 The Smart Age program provides digital age verification, supported with biometric authentication for restricted product sales like lottery tickets, tobacco, alcohol and other goods and services through a mobile device using verifiable digital credentials and biometrics without a user divulging any personally identifiable information to the store clerk.

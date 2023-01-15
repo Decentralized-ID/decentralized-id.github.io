@@ -1,8 +1,5 @@
 # NFT
-
-* [New twist on Verifiable Capability Authorizations: Data NFTs in the Ocean Protocol V4](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0069.html) Michael Herman (Trusted Digital Web) (Saturday, 9 April)
-
-A data NFT represents the copyright (or exclusive license against copyright) for a data asset on the blockchain — we call this the “base IP”. When a user publishes a dataset in OceanOnda V4, they create a new NFT as part of the process. This data NFT is proof of your claim of base IP. Assuming a valid claim, you are entitled to the revenue from that asset, just like a title deed gives you the right to receive rent.
+* [Why the SSI community should embrace million dollar apes](https://medium.com/coinmonks/why-the-ssi-community-should-embrace-million-dollar-apes-61d119f20331)
 
 * [NFTs, Verifiable Credentials, and Picos](https://www.windley.com/archives/2021/10/nfts_verifiable_credentials_and_picos.shtml) Phil Windley
 
@@ -40,10 +37,6 @@ Most very powerful items in the game are soulbound, and typically require comple
 * [NFTs, the Metaverse, and Digital Identity](https://www.continuumloop.com/nfts-metaverse-digitalidentity/) ContinuumLoop
 
 Imagine a 3D immersive environment along the lines of Second Life. You “decorate” your “home” with “art”. You pop up an obligatory Persistence of Memory Dali print. But is it “real” and what does real even mean? In the physical realm, we know that this is only one original, which is at the MOMA in NYC. But what about the various quality prints that I can buy – at the MOMA, on Amazon, on the street.
-* [Blockchain Brad Interviews Ingo Rübe: Essential Credentials for Web 3.0](https://kilt-protocol.medium.com/blockchain-brad-interviews-ingo-r%25C3%25BCbe-essential-credentials-for-web-3-0-7ed856151aec) KILT ([Part 2](https://kilt-protocol.medium.com/blockchain-brad-interviews-ingo-r%25C3%25BCbe-essential-credentials-for-web-3-0-73fdb4ab4427)
-  > Part 1 of [Brad Laurie’s wide-ranging conversation with Ingo Rübe](https://www.youtube.com/watch?v%3DVGuTaeVQ8S4) covers the below topics ([PDF](https://www.kilt.io/wp-content/uploads/2021/03/Blockchain-Brad_Transcript.pdf).
-
-Credentials • Identity • Use Cases for Verifiable Credentials • Sovereignty • Trust & Truth • Anonymity • Social KYC • Open Source • A Universal Protocol • Decentralized Identity Foundation • Ingo’s Background • KILT Use Cases • Why Polkadot? • XCMP and Polkadot Relay Chain • Ecosystem Collaboration
 * [PSA Today #36: Kaliya and Seth talk about Privacy, Anonymity, Pseudonymity & NFTs](https://open.spotify.com/episode/2lI8clKyqcZy2y1GZpmXIg)
   > how do issues of identity and anonymity play out in the world of creating and collecting digital art and collectibles on the blockchain.
 * [NFTs and the need for Self-Sovereign Identity](https://www.gimly.io/blog/nfts-the-need-for-self-sovereign-identity) Gimly
@@ -68,7 +61,7 @@ avatars (the visualisation of self-sovereign identities) go beyond simply provid
 an epic thread on twitter unpacking the uproar about the DeSoc paper relative to DID/VCs and NFTs/SBTs.
 
 
-* [SOULBOUND Tokens with @VitalikButerin & @provenauthority](https://www.youtube.com/watch?v%3DTbyVyVNsyys) Bankless Podcast
+* [SOULBOUND Tokens with @VitalikButerin & @provenauthority](https://www.youtube.com/watch?v=TbyVyVNsyys) Bankless Podcast
 
 What does decentralized, trustless, digital identity look like?
 

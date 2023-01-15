@@ -12,11 +12,11 @@ published: false
   > How do you determine if your new company is addressing the underlying issues that hold back data from being what they imagine it can be?
 * [Global Survey Findings: Current state of SSI](https://iiw.idcommons.net/12O/_Global_Survey_Findings:_Current_state_of_SSI) by Gabriella Laatikainen, Ravikant Agrawal
 
-* [https://www.youtube.com/watch?v=lYb9bUyIPEw](https://www.youtube.com/watch?v%3DlYb9bUyIPEw)
+* [https://www.youtube.com/watch?v=lYb9bUyIPEw](https://www.youtube.com/watch?v=lYb9bUyIPEw)
 
 ## iiw
 
-* [@IDWorkshop (IIW) tweeting from the Flickr Archives](https://twitter.com/idworkshop/status/1471905005556822017?s%3D20)
+* [@IDWorkshop (IIW) tweeting from the Flickr Archives](https://twitter.com/idworkshop/status/1471905005556822017?s=20)
 
 Check out these [photos from IIW 1 in 2005](https://www.flickr.com/photos/tags/iiw2005/page1/)
 
@@ -32,7 +32,7 @@ Check out these [photos from IIW 1 in 2005](https://www.flickr.com/photos/tags/i
 ### BedRock Consortium (Linux Found)
 * [BedRock Consortium has a home page](https://bedrockconsortium.org/)
   > The Bedrock Consortium is a Linux Foundation project that supports the operation of the Bedrock Business Utility, an independent self-governed and self-sustainable public identity utility.
-* [Reflections in my rear view mirror](https://www.linkedin.com/pulse/reflections-my-rear-view-mirror-dan-gisolfi/?trackingId%3DEkY%252BnAILQayoP80%252BReHY3g%253D%253D) Dan Gisolfi
+* [Reflections in my rear view mirror](https://www.linkedin.com/pulse/reflections-my-rear-view-mirror-dan-gisolfi/?trackingId=EkY+nAILQayoP80+ReHY3g%3D%3D) Dan Gisolfi
   > as the founder/convener of the [Bedrock Project](https://bedrockconsortium.org) I must now hand over the baton. Bedrock is positioned to be an important public identity utility for the maturation of a digital trust marketplace. I will always be here to help when/where I can. Hint: Maybe my new road ahead will help bring additional members to the table.
 
 ## Accountable Digital Identity
@@ -41,15 +41,15 @@ Check out these [photos from IIW 1 in 2005](https://www.flickr.com/photos/tags/i
   > Informed by standards bodies including [the FIDO Alliance](https://findbiometrics.com/year-review-fido-alliance-gains-more-ground-2021-122205/), the World Wide Web Consortium, and the Decentralized Identity Foundation, the ADI Specification was designed to help companies detect fraud using verified identity solutions while ensuring that informed consent is collected and user privacy is protected. - [quote from this article](https://findbiometrics.com/idemia-joins-accountable-digital-identity-association-board-503101/)
 
 ### Sovrin
-* [Sovrin Update: Supporting Commercial Development of SSI](https://iiw.idcommons.net/index.php?title%3D12M/_Sovrin_Update:_Supporting_Commercial_Development_of_SSI%26action%3Dedit%26redlink%3D1) by Sumiran Garg, Chris Raczkowski
+* [Sovrin Update: Supporting Commercial Development of SSI](https://iiw.idcommons.net/index.php?title=12M/_Sovrin_Update:_Supporting_Commercial_Development_of_SSI&action=edit&redlink=1) by Sumiran Garg, Chris Raczkowski
 * [Compliance & Inclusive Finance Working Group (CIFWG)](https://medium.com/@sovrinid/promoting-banking-for-all-announcing-the-compliance-inclusive-finance-working-group-cifwg-340633ef3e6c) Sovrin
   > Since 2019, Sovrin has hosted the Compliance and Payments Task Force (CPTF), an open group of traditional bank and non-bank financial institutions, regulators, policymakers, technologists, ethicists, and legal experts. The CPTF has developed and promoted the Rulebook, an innovative best practices framework that extends traditional banking compliance and payments guidance to emerging fintech and VASP processes.
 
 ### WHISSPR
-* [WHiSSPr Risk for People](https://iiw.idcommons.net/index.php?title%3D20E/_WHiSSPRr_Risk_for_People%26action%3Dedit%26redlink%3D1) by Sal D’Agostino
+* [WHiSSPr Risk for People](https://iiw.idcommons.net/index.php?title=20E/_WHiSSPRr_Risk_for_People&action=edit&redlink=1) by Sal D’Agostino
 
 ## GS1
-* [GS1 2021 VC/DID Prototype Review: The Hero’s Journey](https://iiw.idcommons.net/index.php?title%3D13H/_GS1_2021_VC/DID_Prototype_Review:_The_Hero%25E2%2580%2599s_Journey%26action%3Dedit%26redlink%3D1)
+* [GS1 2021 VC/DID Prototype Review: The Hero’s Journey](https://iiw.idcommons.net/index.php?title=13H/_GS1_2021_VC/DID_Prototype_Review:_The_Hero%E2%80%99s_Journey&action=edit&redlink=1)
 
 ## aNewGovernance
 
@@ -69,7 +69,7 @@ Foundations receive the financial and legal services they need to operate succes
 conversations about digital identity innovation were mostly treated as a developing country issue, with ardent advocates in the West unwilling to acknowledge that digital identity could add value to developed economies. Now, as the world [emerges from the pandemic](https://omidyar.com/a-decade-of-digital-public-goods-holding-up-the-digital-economy-preventing-monopolies-and-safeguarding-freedoms-for-all/), attitudes seem to have taken a 180-degree turn.
 
 ### DHS
-* [DHS SVIP - Program Overview + AMA](https://iiw.idcommons.net/index.php?title%3D21O/_DHS_SVIP_-_Program_Overview_%252B_AMA%26action%3Dedit%26redlink%3D1) by Anil John
+* [DHS SVIP - Program Overview + AMA](https://iiw.idcommons.net/index.php?title=21O/_DHS_SVIP_-_Program_Overview_+_AMA&action=edit&redlink=1) by Anil John
 
 
 ### ISSE - EEMA
@@ -116,7 +116,7 @@ https://www.idcommons.org/working-groups/vendor-relationship-management/
 
 These may seem off-topic but Bill Wendell has been engaged with the VRM and IIW community for well over a decade - He has some great ideas on how to reform/transform the real-estate industry with ideas/models our community has been discussing. If you are looking for an opportunity to collaborate and build something transformative I would reach out to him.
 
-* [GAIN – Global Assured Identity Network](https://translate.google.com/translate?hl%3D%26sl%3Dauto%26tl%3Den%26u%3Dhttps%253A%252F%252Fwww.sakimura.org%252F2021%252F09%252F4853%252F)
+* [GAIN – Global Assured Identity Network](https://translate.google.com/translate?hl=&sl=auto&tl=en&u=https%3A//www.sakimura.org/2021/09/4853/)
 
 Individuals can access with the peace of mind that all relying parties within the ecosystem are present and accountable. Sure, there will still be malicious vendors, but the scope will be more limited. The ecosystem will be much more secure than the current Internet. It will be enough for the participants to take action. Trust is reestablished.
 

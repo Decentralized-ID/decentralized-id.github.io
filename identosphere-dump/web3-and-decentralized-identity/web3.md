@@ -37,17 +37,13 @@ When you create your metaverse avatar, who owns it? Is it yours, or does the pla
 * [Why Microsoft may beat Zuckerberg to the metaverse](https://venturebeat.com/2021/11/12/why-microsoft-may-beat-zuckerberg-to-the-metaverse/) VentureBeat
 
 When comparing Meta — [formerly Facebook](https://venturebeat.com/2021/10/28/facebook-stops-just-short-of-rebranding-to-the-web/) — and Microsoft’s approaches to the metaverse, it’s clear Microsoft has a much more grounded and realistic vision. Although Meta currently leads in the provision of virtual reality (VR) devices (through its ownership of what was previously called Oculus), Microsoft is adapting technologies that are currently more widely used.
-* [Self Sovereign e-ID Schemes & Privacy Challenges](https://www.youtube.com/watch?v%3D1vgNzSDn554) Crypto Valley Conference 2021
+* [Self Sovereign e-ID Schemes & Privacy Challenges](https://www.youtube.com/watch?v=1vgNzSDn554) Crypto Valley Conference 2021
 
 Kurt Nielsen & Nagib Aouini from Partisia Blockchain
 
 * [Why ENS does not spell END for DID](https://medium.com/ontologynetwork/why-ens-does-not-spell-end-for-did-1d2ef9f197c) Ontology
 
 Broadly speaking, ENS domain names also belong to a kind of decentralized identifier. The identity of the domain name is formed by a collection of attributes, identified by a certain domain name. As a domain name system, ENS conforms to the three characteristics of the Zooko triangle, namely security, decentralization, and human readability.
-
-* [Metaverse and self-sovereign identity (SSI): new superpower?](https://blog.cheqd.io/metaverse-and-self-sovereign-identity-ssi-new-superpower-b4cac6319885) Cheqd
-
-Besides an exciting front side of virtual reality (VR) element that everybody could at least vaguely relate to, there are a lot of other interesting developments, particularly around the digital economy and trusted interactions enabled through digital and self-sovereign identity (SSI).
 
 * [Web3 brings the Digital Sovereignty back to the User thanks to Blockchain](https://knowledge.wealize.digital/en/blog/blog/web3-digital-sovereignty-blockchain) Wealize
 
@@ -117,7 +113,7 @@ A good explanation and good critique of Web3
 
 * [Web3: Self-Sovereign Authority and Self-Certifying Protocols](https://www.windley.com/archives/2022/02/web3_self-sovereign_authority_and_self-certifying_protocols.shtml) Phil Windley
 
-* [The metaverse is coming for your biometric and health data](https://disruptive.asia/metaverse-biometric-and-health-data-digital-rights%25ef%25bf%25bc/) Disruptive Asia
+* [The metaverse is coming for your biometric and health data](https://disruptive.asia/metaverse-biometric-and-health-data-digital-rights%ef%bf%bc/) Disruptive Asia
 
 * [What is Web3? Here Are Some Ways To Explain It To A Friend](https://consensys.net/blog/blockchain-explained/what-is-web3-here-are-some-ways-to-explain-it-to-a-friend/) Consensys
 * [Framing and Self-Sovereignty in Web3](https://www.windley.com/archives/2022/02/framing_and_self-sovereignty_in_web3.shtml) Windley
@@ -128,7 +124,7 @@ The tools people have to participate in these territories, browsers and password
 
 Rather than being a DAO, the world is a gigantic metasystem that provides numerous tacit capabilities for action and interaction. So, while “Life is a DAO” makes a better t-shirt, I prefer “Life is a Metasystem.” Take the red pill.
 
-* [Cryptocurrencies: A Necessary Scam?](https://mattstoller.substack.com/p/cryptocurrencies-a-necessary-scam?s%3Dr) Matt Stoller
+* [Cryptocurrencies: A Necessary Scam?](https://mattstoller.substack.com/p/cryptocurrencies-a-necessary-scam?s=r) Matt Stoller
 
 Both financial crisis reformers and Bitcoin proponents believe that the existing financial order is a collusive arrangement between large banks who are supported by government power…. Societies and social contracts are built on cooperative mechanisms, but also barriers and enforceable rules.
 
@@ -180,7 +176,7 @@ Despite the large sums of money made by the people who own Bitcoin, Ethereum, an
 * [Is Web3 bullshit?](https://maxread.substack.com/p/is-web3-bullshit) Max Read
 
 The only falsifiable prediction I'm willing to make is that ten years from now, Chris Dixon and the Winklevoss Twins will be much richer than me, and my quality of life will be the same, or worse.
-* [5 Mental Models for Web3](https://www.youtube.com/watch?v%3DjezH_7qEk50) Bankless Chris Dixon
+* [5 Mental Models for Web3](https://www.youtube.com/watch?v=jezH_7qEk50) Bankless Chris Dixon
 
 There are five essential mental models to understanding why Web3 matters, and they overlap often throughout the course of the conversation.
 
@@ -192,7 +188,7 @@ Web3 has begun to impact all corners of digital culture, from media to finance, 
 * [OAuth 2.0 meets VCs + ETH](https://media.voog.com/0000/0042/0957/files/2020-OSW-SOFIE.pdf) [slides] Sophie Project
 * [Announcing Tezos Profiles - Own and Control Your Creator Identity](https://sprucesystems.medium.com/announcing-tezos-profiles-own-and-control-your-creator-identity-ec0eddf9706d) Spruce Systems
   > Spruce is excited to announce the upcoming launch of Tezos Profiles (TZP) in early May. TZP is a web application that helps users regain control of their digital identity for use across platforms. It allows users to create portable verified profiles by demonstrating control over their public social media and by self-attesting information. These verified profiles are then linked to Tezos acco
-* [Decentralized identities on Stacks](https://www.youtube.com/watch?v%3DGY113ANamz0)
+* [Decentralized identities on Stacks](https://www.youtube.com/watch?v=GY113ANamz0)
   > Join Ryder (Stacks grantee, creating a decentralized hardware wallet) in discussing their protocol, product, and growth and how it innovates Stacks DIDs.
 * [What Is Holochain, Anyway?](https://blog.holochain.org/dev-pulse-95-what-is-holochain-anyway/)
 If you’ve been wanting a tech business idea for a proven concept with a large addressable market and multiple advantages over the competition, now you have one.
@@ -210,7 +206,7 @@ The announcement signals a serious intention to not only catch up to Apple’s p
 We encourage users to start creating and launching their profiles as we begin integrating Tezos Profiles support across the Tezos ecosystem. Currently, we are focused exclusively on publicly available information and accounts to avoid privacy issues.
 * [Digital Identity Wallet: A place for your self-sovereign identity](https://ssi-ambassador.medium.com/digital-identity-wallet-a-place-for-your-self-sovereign-identity-5dfbd3d48a74) SSI Ambassador
   > This article explains what a wallet is, how it works and how you can use it for managing your digital identity. While there are also wallets for institutions, this article only focuses on wallets for end users. The article also takes into consideration the revised eIDAS regulation including the ‘European Digital Identity Wallet’.
-* [Self-Sovereign Identity (w/ Fabian Vogelsteller & Constantin Kogan)](https://www.youtube.com/watch?v%3DSbTo_e3l_Lk)
+* [Self-Sovereign Identity (w/ Fabian Vogelsteller & Constantin Kogan)](https://www.youtube.com/watch?v=SbTo_e3l_Lk)
 
 Constantin Kogan joins Fabian Vogelsteller, Ethereum developer, LUKSO founder, creator of Mist browser, web3.js, Feindura (CMS), ERC20, and ERC-725 protocols, and author of Meteor.js.
 
@@ -226,40 +222,22 @@ Web 2.0 vs Web 3.0 — A Bridge Between the Past and the Future Web 2.0 represen
 * [Seamless Web3 Identity Verification](https://medium.com/frctls/seamless-web3-identity-verification-c72ce27dcb41) Fractal
 
 Built on [Polkadot](https://polkadot.network/), Fractal Protocol is an open-source, zero-margin protocol that defines a basic standard to exchange user information in a fair and open way, ensuring a high-quality version of the free internet. In its first version, it is designed to replace the [ad cookie](https://www.cookiepro.com/knowledge/what-are-targeting-advertising-cookies/) and give users back control over their data.
-* [KILT: Self-Sovereign Identity for a Web3 World](https://pedroporky.medium.com/kilt-self-sovereign-identity-for-a-web3-world-929be0ac2afe)
-
-* [@dabit3](https://twitter.com/dabit3/status/1405674107992150020)
-  > I've been diving into sign-in with Ethereum / decentralized identity / Web3 authentication. These are 11 of the most interesting developer resources I've found so far if you're interested in learning more about this too: Identity and reputation in Web3
 
 * [Inventories, Not Identities • Why multisigs are the future of online accounts](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e) Kei Kreutler
 
 Whether it’s the enforcement of legal identities, platform lock-in, or more implicit social norms, the logic of individualized identity was baked into web 2.0. With the advent of web 3.0, we have a chance to do things differently.
 
-* [Web 3.0 Talks: Decentralized Identity - Building Blocks for a Better Web](https://www.youtube.com/watch?v%3D-x6Tv7oKEVA) ParityTech
-
-Panel speakers: - Jesus Ruiz, Member of the Board and CTO, Alastria - Jun Li, Founder, Ontology - Ingo Rube, Founder and CEO, BOT Labs (KILT Protocol)
 
 
 
 * [Self-Sovereign Identity, smart contracts and Web 3.0](https://hackernoon.com/self-sovereign-identity-smart-contracts-and-web-30-4dm375d) Hackernoon
 
 Public blockchain and smart contracts are a convenient and viable cloud for security-critical information and allow to implement more complex schemes. For example, your service requires that the user's identity be confirmed by some external KYC provider, or there must be an always available master public key to distribute software updates in the network (relevant for IoT).
-* [Verim is launching a self-sovereign identity network on Cosmos this year](https://blog.verim.id/verim-is-launching-a-self-sovereign-identity-network-on-cosmos-in-2021-8949e68b2ef8?gi%3Dbcab602fd3f6)
-
-verim’s initial product suite can be broken down into three parts.
-
-- A decentralised network for secure and private trusted data exchange
-- Token-based payment rails for digital identity interactions
-- Easy-to-use software kits for external app developers to integrate into their own products
-
-(besides Bitcoin, infominer is a Cosmos maximalist)
 
 * [OScore](https://www.ocredit.io/) is an independent on-chain reputation system, generated using on-chain data including your ONT ID, engagements, assets, and credentials.
   > Your [OScore](https://medium.com/ontologynetwork/oscore-everything-you-need-to-know-57aa88b7b96f) is based on data authorized by you and is updated to reflect changes in behavior and lending practices.
   > 
   > OScore is not associated with your off-chain identities. In other words, it respects user privacy and supports full anonymity.
-
-* [Social KYC, an Alternate Form of Identity Verification for Web3, with Ingo Rübe](https://podcasts.apple.com/ca/podcast/15-social-kyc-alternate-form-identity-verification/id1552622325?i%3D1000525817275) @KILTProtocol.
 
 * [On the thermodynamics of Bitcoin, Dogecoin, Ethereum, and Holochain](https://blog.holochain.org/satoshi-nakamoto-and-the-fate-of-our-planet-2/)
 
@@ -309,7 +287,7 @@ Epic Content sez Infominer.
 
 Through the DID Specification, service endpoints and DIDComm, Impervious has interlaced DIDs with Bitcoin Lightning, IPFS, WebRTC and resilient relays to introduce a new peer-to-peer internet standard with practical applications for mitigating censorship and surveillance risk
 
-* [#45 - Self-Sovereign Digital Identity, Blockchain & Web3 with Charlyn Ho](https://podcasts.apple.com/us/podcast/45-self-sovereign-digital-identity-blockchain-web3/id1510232581?i%3D1000552163633) I ALSO Want Money
+* [#45 - Self-Sovereign Digital Identity, Blockchain & Web3 with Charlyn Ho](https://podcasts.apple.com/us/podcast/45-self-sovereign-digital-identity-blockchain-web3/id1510232581?i=1000552163633) I ALSO Want Money
 
 Could blockchain and the decentralized web mean the end of surveillance capitalism? Maybe! In this episode, Perkins Coie partner Charlyn Ho defines digital identity, explains how blockchain empowers users to take control of their data, and shares how Web3 could dismantle Big Tech’s monopoly on Big Data - if it’s built the right way.
 
@@ -451,7 +429,7 @@ the verification is “stamped” on the User’s XRP Ledger Account with a Non-
 
 Regulation will touch every person in every jurisdiction worldwide; crypto must find ways to preserve its decentralization and privacy.
 
-* [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id%3D4105763)
+* [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)
 
 New paper by Glen Wheyl
 
@@ -470,7 +448,7 @@ The ideological argument for Web3 is very compelling, and I personally hold many
 
 Our vision is to give DAOs the tools to better represent the varying nature of membership, improve member engagement, coordination and distribution of power and permission. By doing so, we also aim to progressively improve their autonomy and permissionlessness, while surfacing clear paths and incentives for individual members to deepen their participation. 💪
 
-* [Trust Graph](https://trustgraph.net/) with [video](https://www.youtube.com/watch?v%3DzBUAyrpQIhU) Harlan Wood
+* [Trust Graph](https://trustgraph.net/) with [video](https://www.youtube.com/watch?v=zBUAyrpQIhU) Harlan Wood
 
 REPUTATION FOR DECENTRALIZED ECOSYSTEMS
 
@@ -481,7 +459,7 @@ REPUTATION FOR DECENTRALIZED ECOSYSTEMS
 - Open Source (Apache licensed)
 
 
-* [Web3 Ecosystem](https://miro.com/app/board/uXjVO0uGvcw%3D/) (Epic Miro Board)
+* [Web3 Ecosystem](https://miro.com/app/board/uXjVO0uGvcw=/) (Epic Miro Board)
 
 * [In Extremely Confusing Twist, Facebook Says It Isn’t Building a Metaverse After All](https://futurism.com/confusing-facebook-not-building-metaverse)
 
@@ -513,7 +491,7 @@ We've entered the “in it for the tech” phase.
 
 Attention now shifts to builders and a heads down mentality can lead to the creation of some of the most intriguing Web3 companies to date.
 
-* [Exploring Soulbound tokens (SBT) and their application in web3](https://twitter.com/CryptoSapiens_/status/1529198872458764288?s%3D20%26t%3DB0qxdnOpZIPnoccP7cBU5Q) CryptoSapiens (twitter spaces download)
+* [Exploring Soulbound tokens (SBT) and their application in web3](https://twitter.com/CryptoSapiens_/status/1529198872458764288?s=20&t=B0qxdnOpZIPnoccP7cBU5Q) CryptoSapiens (twitter spaces download)
 
 ## Web3
 
@@ -571,7 +549,7 @@ OWN (Ontology Web3 Network) Infrastructure is a series of general blockchain bas
 
 The Gillibrand official [press release](https://www.gillibrand.senate.gov/news/press/release/-lummis-gillibrand-introduce-landmark-legislation-to-create-regulatory-framework-for-digital-assets) (but not the RFI bill text) specifically calls out both Bitcoin and Ether – which, together, comprise more than half of the total market capitalization of crypto – as being commodities under the bill’s framework and thus falling under CFTC’s jurisdiction.
 
-* [Lummis-Gillibrand Responsible Financial 8 Innovation Act](https://www.gillibrand.senate.gov/imo/media/doc/Lummis-Gillibrand%2520Responsible%2520Financial%2520Innovation%2520Act%2520%255bFinal%255d.pdf) Gillibrand.Senate.Gov
+* [Lummis-Gillibrand Responsible Financial 8 Innovation Act](https://www.gillibrand.senate.gov/imo/media/doc/Lummis-Gillibrand%20Responsible%20Financial%20Innovation%20Act%20%5bFinal%5d.pdf) Gillibrand.Senate.Gov
 
 * [Regulatory Response to Stablecoins and the Terra Collapse](https://www.coinfirm.com/blog/regulatory-response-algorithmic-stablecoins/) Coinfirm
 
@@ -604,7 +582,7 @@ Yikes!
 * [Citopia Self-Sovereign Digital Twins™ (#SSDTs) enable trusted identity & data autonomy in the #Web3 economy](https://www.linkedin.com/feed/update/urn:li:activity:6944682788692377600/)
 - [Consensus 2022 panel: Is Web 3.0 more hype or reality?](https://blog.avast.com/web-3-consensus-panel)
 
-* [Soulbound Tokens, Self-Sovereign Identity, and the Pursuit of a Universal Identity Standard](https://conorhealy.substack.com/p/soulbound-tokens-self-sovereign-identity?r%3D9r7wu%26utm_medium%3Dios) Conor Healy
+* [Soulbound Tokens, Self-Sovereign Identity, and the Pursuit of a Universal Identity Standard](https://conorhealy.substack.com/p/soulbound-tokens-self-sovereign-identity?r=9r7wu&utm_medium=ios) Conor Healy
 
 The lack of a universal identity standard is holding us back; it’s harming collaborative processes and opening the door for bad actors and scams which breed mistrust and stigmatize the entire industry.
 
@@ -681,7 +659,7 @@ Experts globally agree on one key point about decentralized identity: it will be
 
 * [Souls, Tokens, and Verifiable Credentials - Indicio Tech](https://indicio.tech/souls-tokens-and-verifiable-credentials/) Sam Curren
 
-The paper “[Decentralized Society: Finding Web3’s Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id%3D4105763)” has generated much discussion as a more advanced and beneficial way of applying an NFT-type technology to encode “social relationships of trust” in Soul-Based Tokens.
+The paper “[Decentralized Society: Finding Web3’s Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)” has generated much discussion as a more advanced and beneficial way of applying an NFT-type technology to encode “social relationships of trust” in Soul-Based Tokens.
 
 * [7 Essential Ingredients of a Metaverse](https://future.com/7-essential-ingredients-of-a-metaverse/) Future
 
@@ -709,7 +687,7 @@ Every single day, the 5 tech giants use your online property to make massive pro
 
 Fractal Protocol enables users, individuals to control who has access to their data, for which purposes, and under which conditions. It allows users to reap the just rewards for providing access to the data that fuels the ecosystem.
 
-* [Dominium - Self Sovereign Identity Platform](https://www.youtube.com/watch?v%3Dg2ojXj8HX3Q)
+* [Dominium - Self Sovereign Identity Platform](https://www.youtube.com/watch?v=g2ojXj8HX3Q)
 
 The open source implementation of DID on Cardano
 
@@ -722,7 +700,7 @@ On this theme, I’m particularly interested in one event, an attempt to [map th
 
 All in all, the exponential rise in cases of data breaches and hacks on Web 2.0 applications, calls for a new system that protects users data and privacy on the internet. Additionally, the rapid growth of the decentralized internet means that digital identities are becoming more important than ever as users turn to virtual worlds and metaverses in future.
 
-* [Web3: CRYPTO Cross-Chain Identity On Nervos](https://www.youtube.com/watch?v%3DhlEKXKYj8Fk) CryptoCapitalVenture
+* [Web3: CRYPTO Cross-Chain Identity On Nervos](https://www.youtube.com/watch?v=hlEKXKYj8Fk) CryptoCapitalVenture
 
 * [.bit account](https://www.did.id/) is such an inclusive data container that you can put any type of data into it. Tons of Web3 apps will provide service for you after indexing relevant data stored in your .bit account.
 
@@ -744,7 +722,7 @@ The response has been overwhelming: over the past 15 days, 12,000+ Masa SBTs hav
 
 * [Everything You Should Know About the Metaverse Right Now](https://anonyome.com/2022/08/this-is-everything-you-should-know-about-the-metaverse-right-now/) Anyonyome
 
-But the first thing you should know about the metaverse, even as it’s still emerging and being defined, is that the time to act is now. The metaverse is expected to contribute [USD 3 trillion](https://www.analysisgroup.com/globalassets/insights/publishing/2022-the-potential-global-economic-impact-of-the-metaverse.pdf?fbclid%3DIwAR02cv2Qm2GDGEPGc-JGaU2TM_FCeOVxflqs-cfjvlHq5jM0XqsV1oKiNoQ) to global GDP by 2013 and customers will expect immersive and interactive activities and apps from your brand
+But the first thing you should know about the metaverse, even as it’s still emerging and being defined, is that the time to act is now. The metaverse is expected to contribute [USD 3 trillion](https://www.analysisgroup.com/globalassets/insights/publishing/2022-the-potential-global-economic-impact-of-the-metaverse.pdf?fbclid=IwAR02cv2Qm2GDGEPGc-JGaU2TM_FCeOVxflqs-cfjvlHq5jM0XqsV1oKiNoQ) to global GDP by 2013 and customers will expect immersive and interactive activities and apps from your brand
 
 * [DAOs: Why Sovereign Accountable Commons Might Be Better: Fundamentals for Stronger Communities](https://blog.holochain.org/daos-why-sovereign-accountable-commons-might-be-better/) Holochain
 

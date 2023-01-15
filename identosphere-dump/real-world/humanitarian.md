@@ -17,11 +17,11 @@ I have been prompted several times this week by this article
 
 The primary objective of the report is to inform humanitarian organizations working with migrants of the opportunities and risks in the use of digital identities in providing services throughout the migrants’ journeys.
 
-* [Can Blockchain and Self-Sovereign Identity Systems address the Refugee Crisis](https://www.youtube.com/watch?v%3DewMZQoyGxCs) Lyonna Lyu
+* [Can Blockchain and Self-Sovereign Identity Systems address the Refugee Crisis](https://www.youtube.com/watch?v=ewMZQoyGxCs) Lyonna Lyu
 
 we invite you to build hyperstructures with us with focus on NFTs, on-chain music ecosystems, a new generation of DAOs and Zora’s vast ecosystem of tools and smart contracts.
 
-* [At the Crossroads of Digital Imperialism & Digital Development](https://www.youtube.com/watch?v%3DB1Yr9hwMm8s) Berkman Klein
+* [At the Crossroads of Digital Imperialism & Digital Development](https://www.youtube.com/watch?v=B1Yr9hwMm8s) Berkman Klein
   > This panel examines questions of unequal power in the global digital economy (through U.S corporations, China, and Brussels (i.e. dominance through legal rules), and the ways in which this manifests itself in developing countries in Africa.
 
 * [SSI Interaction Patterns; Technometria - Issue #12](http://news.windley.com/issues/ssi-interaction-patterns-technometria-issue-12-620910?)
@@ -86,7 +86,7 @@ Dilek Genc, a PhD candidate at the University of Edinburgh who studies blockchai
 This builds on four years of Absa’s work with BankServ, other banks and multiple local and global forums, to set up an industry-wide governance framework for self-sovereign identity, including collaboration with the South African International Organisation for Standardisation (ISO) to develop documentation that covers the standards for SSDI management.
 * [Honouring Te Tiriti in our work](https://digitalidentity.nz/2021/11/18/honouring-te-tiriti-in-our-work/) DigitalNZ
 
-We understand that our responsibility to guide conversations and decisions relating to digital identity means that we must acknowledge and understand Māori perspectives of identity. We also seek to engage with the Māori communities we serve to ensure that we are working in partnership and that mana whenua have the agency to inform our future. [Draft Statement of Intent; Te Tiriti o Waitangi at DINZ](https://www.dropbox.com/s/09tfy4m4e6jbq6l/DINZ%2520Te%2520Tiriti%2520o%2520Waitangi%2520SOI%2520%2526%2520Action%2520Plan%2520%2528V2%2529.pdf)
+We understand that our responsibility to guide conversations and decisions relating to digital identity means that we must acknowledge and understand Māori perspectives of identity. We also seek to engage with the Māori communities we serve to ensure that we are working in partnership and that mana whenua have the agency to inform our future. [Draft Statement of Intent; Te Tiriti o Waitangi at DINZ](https://www.dropbox.com/s/09tfy4m4e6jbq6l/DINZ%20Te%20Tiriti%20o%20Waitangi%20SOI%20%26%20Action%20Plan%20%28V2%29.pdf)
 
 * [Commission puts forward declaration on digital rights and principles for everyone in the EU](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_452)
 
@@ -112,12 +112,12 @@ Trinsic is partnering with companies building ID products for underserved popula
 
 * [NO NEED FOR SUPERHUMANS!: A practical guide to ethics in socio-technical systems design](https://trustoverip.org/blog/2022/03/18/no-need-for-superhumans/) TOIP
 
-* [read a summary and watch the video of Lisa’s talk here](https://wiki.trustoverip.org/display/HOME/1.%2BDear%2BHuman%252C%2BThe%2BFuture%2BNeeds%2BYou.%2B%2BPractical%2BEthics%2Bwith%2BDigital%2BSociologist%252C%2BLisa%2BTalia-Moretti) on our Wiki or on our [YouTube Channel here](https://www.youtube.com/watch?v%3DXmnnj82wpTM%26t%3D20s).
+* [read a summary and watch the video of Lisa’s talk here](https://wiki.trustoverip.org/display/HOME/1.+Dear+Human%2C+The+Future+Needs+You.++Practical+Ethics+with+Digital+Sociologist%2C+Lisa+Talia-Moretti) on our Wiki or on our [YouTube Channel here](https://www.youtube.com/watch?v=Xmnnj82wpTM&t=20s).
 
 Links & Further Reading
 
 - Lisa’s Ted Talk, [Technology is not a product, it’s system](https://www.ted.com/talks/lisa_talia_moretti_technology_is_not_a_product_it_s_a_system), is available for viewing on [TED.com](http://ted.com/)
-- [HXWG Expert Series Summary](https://wiki.trustoverip.org/display/HOME/Expert%2BSeries) including video of Lisa’s talk
+- [HXWG Expert Series Summary](https://wiki.trustoverip.org/display/HOME/Expert+Series) including video of Lisa’s talk
 - [A SocioTechnical Process for Researchers, Designers and Creators](https://bit.ly/sociotechprocess)
 - The [responsible tech guide](https://atih.responsibletechguide.com/introduction) is full of useful links and insights
 - [Ethics for Designers also has practical tools](https://www.ethicsfordesigners.com/tools)
@@ -163,7 +163,7 @@ The [Dignified Identities in Cash Assistance (DIGID)](https://hiplatform.org/di
 
 Inclusion is important in all aspects of life, including digital identity products. By ensuring that everyone is included in the development process, we can create products that meet the needs of everyone [...]
 
-Input from many people from diverse backgrounds is essential to our work on the SSI Harm’s Task Force. I hope you’ll consider [joining us](https://wiki.trustoverip.org/display/HOME/Human%2BExperience%2BWorking%2BGroup) – whether you want to contribute or just observe, everyone is welcome!
+Input from many people from diverse backgrounds is essential to our work on the SSI Harm’s Task Force. I hope you’ll consider [joining us](https://wiki.trustoverip.org/display/HOME/Human+Experience+Working+Group) – whether you want to contribute or just observe, everyone is welcome!
 
 * [Fixing Aid | Can blockchain help fix the I.D. problem for a billion people?](https://www.thenewhumanitarian.org/podcast/2022/03/31/Fixing-Aid-can-blockchain-help-fix-the-ID-problem-for-a-billion-people) The New Humanitarian
 
@@ -184,7 +184,7 @@ Could we establish an alternative market economy, one that is structured around 
 
 * [Pro-social behaviours](https://en.wikipedia.org/wiki/Prosocial_behavior) are those intended to benefit others, or society as a whole — for example, helping, sharing, donating, co-operating, and volunteering. Within a community, they’re the behaviours that make it an attractive space to belong to, and which encourage its growth and/or development. It’s a central part of the value cycles that underpin the Communities of Practice model.
 
-* [Disrupting the Gospel of Tech Solutionism to Build Tech Justice](https://ssir.org/articles/entry/disrupting_the_gospel_of_tech_solutionism_to_build_tech_justice%23)
+* [Disrupting the Gospel of Tech Solutionism to Build Tech Justice](https://ssir.org/articles/entry/disrupting_the_gospel_of_tech_solutionism_to_build_tech_justice#)
 
 What does it mean to include new voices unless we create a context in which those voices are welcome and heard? To create those conditions, leaders in civil society and the private and public sectors must challenge institutional power and center the discussion on core social justice issues such as racism and structural inequality.
 * [UPCOMING COMMUNITY CALL & NEW RESEARCH: BIOMETRICS IN THE HUMANITARIAN SECTOR](https://www.theengineroom.org/upcoming-community-call-new-research-biometrics-in-the-humanitarian-sector/) the Engine Room

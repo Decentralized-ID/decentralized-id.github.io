@@ -12,9 +12,6 @@ It is evident that our ongoing discussions about identity, ethics, bias, privacy
 
 For example, projects such as PhotoChromic are developing a biometrically managed self-sovereign identity on the blockchain utilising the feature sets of NFTs (non fungible tokens). Self-sovereign identity ensures that a user retains complete control over their identity without anyone else having access to it.
 
-* [Why Self-Sovereign Identity needs a token?](https://blog.cheqd.io/why-self-sovereign-identity-needs-a-token-46e43dada01d) Cheqed
-
-Usually the question of “why does SSI need a token”, stems from people’s belief that there are existing, viable payment rails. As Sovrin outlined in their whitepaper back in 2018, traditional rails don’t work when issuers and receivers of credentials are unlikely to have a direct contractual relationship since the user is at the center with SSI.
 
 * [“The power to surveil, control, and punish”: The dystopian danger of a mandatory biometric database in Mexico](https://restofworld.org/2021/the-dystopian-danger-of-a-mandatory-biometric-database-in-mexico/) RestofWorld.org
 
@@ -94,6 +91,6 @@ Today, ‘everyone’ including powerful actors and decision-makers like the UK 
 
 “I asked the driver why the app showed me a different driver’s face, and he claimed Bolt blocked his account so he was using his brother’s.”
 
-* [Is "acceptably non-dystopian" self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/) By Molly Wood ([Hacker News](https://news.ycombinator.com/item?id%3D31701601)
+* [Is "acceptably non-dystopian" self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/) By Molly Wood ([Hacker News](https://news.ycombinator.com/item?id=31701601)
 
 as more and more developers and companies and “blockchain visionaries” seek to eschew centralization and trust in the state and institutions, it seems that their definition of “acceptably” when they describe “acceptably non-dystopian” projects is very different from my own.

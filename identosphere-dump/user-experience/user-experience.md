@@ -30,7 +30,7 @@ The [YouGov](https://www.globalwitness.org/en/blog/do-people-really-want-persona
   > - to force someone into doing something quickly, usually without enough information.
 * [How humans understand identity](https://medium.com/universal-identity/how-humans-understand-identity-367200ae9591) Universal Identity
 
-* [Managing Authorization: Who Has What?](https://iiw.idcommons.net/4D/_Managing_Authorization:_Who_Has_What%253F) By David Schmudde
+* [Managing Authorization: Who Has What?](https://iiw.idcommons.net/4D/_Managing_Authorization:_Who_Has_What%3F) By David Schmudde
 
 Focused on communicating risks/harms to the user. Focus on the high-level user experience.
 
@@ -94,9 +94,9 @@ For offline discussions, pls email: win@finema.co
 
 Takashi Minamii 11:29:45 AM
 
-FYI:Hitachi's Solution (PBI)[https://www.hitachi.com/rd/sc/story/pbi/index.html](https://eu01st1.zoom.us/web_client/jzsz6o/html/externalLinkPage.html?ref%3Dhttps://www.hitachi.com/rd/sc/story/pbi/index.html)
+FYI:Hitachi's Solution (PBI)[https://www.hitachi.com/rd/sc/story/pbi/index.html](https://eu01st1.zoom.us/web_client/jzsz6o/html/externalLinkPage.html?ref=https://www.hitachi.com/rd/sc/story/pbi/index.html)
 
-* [Can Kids Use D.I.D.s? What’s your tech for kids online?](https://iiw.idcommons.net/21K/_Can_Kids_Use_D.I.D.s%253F_What%2527s_your_tech_for_kids_online%253F) by Erica Connell
+* [Can Kids Use D.I.D.s? What’s your tech for kids online?](https://iiw.idcommons.net/21K/_Can_Kids_Use_D.I.D.s%3F_What%27s_your_tech_for_kids_online%3F) by Erica Connell
 
 Brief but rich conversation about what technologies may be available and/or practicable or are developing  to use with kids and their online presence.
 
@@ -111,7 +111,7 @@ Use case: Wonderland Stage & Screen, interested in developing a platform to supp
 - Interactive
 - Comment enabled
 
-* [The principles of user sovereignty | by 𝔡𝔴𝔥](https://uxdesign.cc/the-principles-of-user-sovereignty-515ac83401f6?sk%3Dd37a69c8efc8a48cdd4a23d0518ba8d0)
+* [The principles of user sovereignty | by 𝔡𝔴𝔥](https://uxdesign.cc/the-principles-of-user-sovereignty-515ac83401f6?sk=d37a69c8efc8a48cdd4a23d0518ba8d0)
 
 The earliest discussion of the phrase I could find is a [blog post](https://blog.lizardwrangler.com/2011/08/04/extending-our-reach-many-layers-of-user-sovereignty/) from August 4th, 2011 by the “Chief Lizard Wrangler” herself, [Mitchell Baker](https://en.wikipedia.org/wiki/Mitchell_Baker) the CEO of Mozilla. In it she prophetically describes user sovereignty as the consequence of new “engines” that are “…open, open-source, interoperable, public-benefit, standards-based, platforms…” She also makes the critical link between the philosophy of openness and standards-based interoperability with that of identity management and personal data dominion.
 
@@ -128,7 +128,7 @@ Questions of control over personal data were a cross-cutting theme throughout a 
 * [Tap and Prove](https://www.linkedin.com/pulse/tap-prove-stephen-wilson/) Stephen Wilson
 
 We should be able to “tap and prove” any important fact and figures about ourselves – as easily as we tap and pay with a mobile phone at any one of 100s of millions of terminals globally.
-* [Frontier Talk #6 | Bringing User-Centricity to Decentralized Identity](https://www.youtube.com/watch?v%3DUnWsu1gCe9k) - Nat Sakimura KuppingerCole
+* [Frontier Talk #6 | Bringing User-Centricity to Decentralized Identity](https://www.youtube.com/watch?v=UnWsu1gCe9k) - Nat Sakimura KuppingerCole
 
 Raj Hegde sits with identity veteran, Nat Sakimura - Chairman of OpenID Foundation to understand how user-centric learnings from existing authentication protocols can be applied to future identity initiatives.
 * [Most People Feel Negatively About Location Tracking in Websites and Apps](https://me2ba.org/most-people-feel-negatively-about-location-tracking/) Me2Ba.org
@@ -137,7 +137,7 @@ The Spotlight Report, “[Consumer Sensitivity to Location Tracking by Websites 
 
 * [Me2B Alliance Validation Research: Consumer Sensitivity to Location Tracking by Websites and Mobile Apps](https://me2ba.org/spotlight-report-3-me2b-alliance-validation-research-consumer-sensitivity-to-location-tracking-by-websites-and-mobile-apps/)
 
-The Me2B Alliance (“Me2BA”)[3](https://me2ba.org/spotlight-report-3-me2b-alliance-validation-research-consumer-sensitivity-to-location-tracking-by-websites-and-mobile-apps/%23footnotes) is a nonprofit creating a safe and just digital world through standards development and independent technology testing. At the core of our work is our Respectful Technology Specification[4](https://me2ba.org/spotlight-report-3-me2b-alliance-validation-research-consumer-sensitivity-to-location-tracking-by-websites-and-mobile-apps/%23footnotes), currently in development, which provides an objective standard for measuring safe and ethical technology behavior.
+The Me2B Alliance (“Me2BA”)[3](https://me2ba.org/spotlight-report-3-me2b-alliance-validation-research-consumer-sensitivity-to-location-tracking-by-websites-and-mobile-apps/#footnotes) is a nonprofit creating a safe and just digital world through standards development and independent technology testing. At the core of our work is our Respectful Technology Specification[4](https://me2ba.org/spotlight-report-3-me2b-alliance-validation-research-consumer-sensitivity-to-location-tracking-by-websites-and-mobile-apps/#footnotes), currently in development, which provides an objective standard for measuring safe and ethical technology behavior.
 * [What is Respectful Use of Location Information? New Me2BA Research](https://me2ba.org/what-is-respectful-use-of-location-information-new-me2ba-research-published/)
 
 * [“Spotlight Report #3: Consumer Sensitivity to Location Tracking by Websites and Mobile Apps”](https://me2ba.org/spotlight-report-3-me2b-alliance-validation-research-consumer-sensitivity-to-location-tracking-by-websites-and-mobile-apps/). This research quantifies and qualifies public opinion of location tracking in a variety of different contexts within web and mobile technology.
@@ -187,7 +187,7 @@ This was a small meeting primarily meant to tee up Hadrian Zbarcea’s demo of C
 
 the FIDO Alliance, a set of open, scalable, and interoperable specifications has been developed to replace passwords as a secure authentication method for online services. The alliance has also worked with companies such as [Microsoft](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-passwordless), [Google](https://cloud.google.com/blog/products/identity-security/protect-gce-vms-with-managed-fido-security-keys), and [Apple](https://fidoalliance.org/expanded-support-for-fido-authentication-in-ios-and-macos/)  to integrate and adopt FIDO standards across their operating systems.
 
-* [​​How Might we Design Consent Experiences for Data Sharing?](https://www.youtube.com/watch?v%3DbGgV2Ffnczg) ToIP HXWG with Dr Arianna Rossi  & Xengie Doan of Interdisciplinary Center for Security, Reliability and Trust (SnT) at the University of Luxembourg
+* [​​How Might we Design Consent Experiences for Data Sharing?](https://www.youtube.com/watch?v=bGgV2Ffnczg) ToIP HXWG with Dr Arianna Rossi  & Xengie Doan of Interdisciplinary Center for Security, Reliability and Trust (SnT) at the University of Luxembourg
 
 The complex ecosystem where manifold transactions can be automatically enabled by smart contracts contributes, at least in principle, to establish greater transparency about data use towards the many parties involved. However, the mere fact of building such a verifiable and traceable architecture does not automatically translate into understandable communications, easily applicable instructions and smooth transactions for human beings.
 
@@ -195,7 +195,7 @@ The complex ecosystem where manifold transactions can be automatically enabled b
 
 WHAT DO RUSSIAN protesters have in common with Twitter users freaked out about Elon Musk reading their DMs and people worried about the criminalization of abortion? It would serve them all to be protected by a more robust set of design practices from companies developing technologies.
 
-* [Design From the Margins Centering the most marginalized and impacted in design processes - from ideation to production](https://www.belfercenter.org/sites/default/files/files/publication/TAPP-Afsaneh_Design%2520From%2520the%2520Margins_Final_220514.pdf)
+* [Design From the Margins Centering the most marginalized and impacted in design processes - from ideation to production](https://www.belfercenter.org/sites/default/files/files/publication/TAPP-Afsaneh_Design%20From%20the%20Margins_Final_220514.pdf)
 
 * [Can digital identity help with the world refugee crisis?](https://securityboulevard.com/2022/05/can-digital-identity-help-with-the-world-refugee-crisis/) SecurityBoulevard
 

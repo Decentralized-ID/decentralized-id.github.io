@@ -4,7 +4,7 @@
 
 The diversity of our community is a plus. To begin a conversation on VC access controls, I suggest this short intro to the differences between OAuth 2.0 and GNAP:
 
-* [https://www.ietf.org/archive/id/draft-ietf-gnap-core-protocol-05.html#name-compared-to-oauth-20](https://www.ietf.org/archive/id/draft-ietf-gnap-core-protocol-05.html%23name-compared-to-oauth-20)
+* [https://www.ietf.org/archive/id/draft-ietf-gnap-core-protocol-05.html#name-compared-to-oauth-20](https://www.ietf.org/archive/id/draft-ietf-gnap-core-protocol-05.html#name-compared-to-oauth-20)
 
 My goal is to arrive at a shared understanding of what would be minimum needed to support both OAuth2 and GNAP for securing access to a VC.
 
@@ -33,7 +33,7 @@ featuring folks from MSFT, GSM, and Michael Becker. The video looks at the range
 
 I was reading zcaps draft, as well as related work, mostly macaroons ([https://research.google/pubs/pub41892/](https://research.google/pubs/pub41892/).
 
-Something that I found confusing  about capability documents is that they do not make clear the actions they concern. For example from this [](https://w3c-ccg.github.io/zcap-ld/%23example-1)[https://w3c-ccg.github.io/zcap-ld/#example-1](https://w3c-ccg.github.io/zcap-ld/%23example-1) it is not clear that this is a capability for "driving a car".
+Something that I found confusing  about capability documents is that they do not make clear the actions they concern. For example from this [](https://w3c-ccg.github.io/zcap-ld/#example-1)[https://w3c-ccg.github.io/zcap-ld/#example-1](https://w3c-ccg.github.io/zcap-ld/#example-1) it is not clear that this is a capability for "driving a car".
 
 * [Manu Responds:](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0037.html)
 
@@ -49,7 +49,7 @@ The Encrypted Data Vault work uses zcaps, and it's there that we're trying
 
 hard to explain to developers how to use it:
 
-* [https://identity.foundation/confidential-storage/#introduction](https://identity.foundation/confidential-storage/%23introduction)
+* [https://identity.foundation/confidential-storage/#introduction](https://identity.foundation/confidential-storage/#introduction)
 
 * [The "Verifiable" Economy [was RE: a few thoughts about zcaps]](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0047.html) Michael Herman (Trusted Digital Web) (Monday, 5 April)
 
@@ -78,4 +78,4 @@ these are the types of use cases that we think can be created and enabled across
 
 - [User Controlled Authorization Network](https://github.com/ucan-wg/spec/) model and how it contrasts with decentralized approaches
 - APAC/ASEAN Community Call now a colloaborative initative between DIF and ToIP, launched Thursday 26th May 2022, kicking off with an IIW34 recap. ([Recording](https://us02web.zoom.us/rec/share/5FW6hVoZc1kVJiFL4NNCRZg7625h-1UsC1xCY8Mb7cLXQpO2yDW566woLoA5IZA.MUVPrrNr_k3PXxDl)
-A couple weeks ago Amber Case came and spoke about “[Calm Technology](https://www.youtube.com/watch?v%3DNgyfa4_NuPI)” at the TOIP Human Experience Working Group ([HXWG](https://wiki.trustoverip.org/display/HOME/Human%2BExperience%2BWorking%2BGroup)
+A couple weeks ago Amber Case came and spoke about “[Calm Technology](https://www.youtube.com/watch?v=Ngyfa4_NuPI)” at the TOIP Human Experience Working Group ([HXWG](https://wiki.trustoverip.org/display/HOME/Human+Experience+Working+Group)

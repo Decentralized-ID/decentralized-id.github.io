@@ -32,7 +32,7 @@ The rise in the use of advanced analytics, machine learning (ML) and Artificial 
 Peter Padd, Co-Founder & CEO at Fortifyedge shares how he's built Zero Trust authentication software that provides IoT device OEM's with password-free authentication utilizing Tiny Machine Learning at the edge.
 * [Why is Trusted Identity Important in IoT Commerce?](https://dlt.mobi/why-is-trusted-identity-important-in-iot-commerce/)
 
-The evident solution is to imbue connected entities with unique, tamper-evident, self-sovereign, [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/?mc_cid%3D1a98f7f0e4%26mc_eid%3DUNIQID), developed by the [W3C](https://www.w3.org/?mc_cid%3D1a98f7f0e4%26mc_eid%3DUNIQID), anchored in a decentralized trust network. For MOBI’s community, this is the [Integrated Trust Network, or ITN](http://dlt.mobi/itn?mc_cid%3D1a98f7f0e4%26mc_eid%3DUNIQID).
+The evident solution is to imbue connected entities with unique, tamper-evident, self-sovereign, [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/?mc_cid=1a98f7f0e4&mc_eid=UNIQID), developed by the [W3C](https://www.w3.org/?mc_cid=1a98f7f0e4&mc_eid=UNIQID), anchored in a decentralized trust network. For MOBI’s community, this is the [Integrated Trust Network, or ITN](http://dlt.mobi/itn?mc_cid=1a98f7f0e4&mc_eid=UNIQID).
 * [Ep. 146 – Self-Sovereign Identity and IoT – insights from the Sovrin Foundation](https://insureblocks.com/ep-146-self-sovereign-identity-and-iot-insights-from-the-sovrin-foundation/) Insureblocks
 
 we discussed the white paper he authored on [Self Sovereign Identity and IoT](https://sovrin.org/library-iot/). To explain the opportunities SSI can provide to IoT, Michael introduces us to three profiles: Jamie (machine to person), Bob (machine to machine) and Bessie the cow (digital twin).
@@ -42,7 +42,7 @@ we discussed the white paper he authored on [Self Sovereign Identity and IoT](ht
 
 
 
-* [Ceramic, SkyNet, LoRa, IoT. low bandwidth & memory, distributed network. Managing schemas, DIDComm, and V.C. in context](https://iiw.idcommons.net/14M/_Ceramic,_SkyNet,_LoRa,_IoT._low_bandwidth_%2526_memory,_distributed_network._Managing_schemas,_DIDComm,_and_V.C._in_context) by Brent Shambaugh
+* [Ceramic, SkyNet, LoRa, IoT. low bandwidth & memory, distributed network. Managing schemas, DIDComm, and V.C. in context](https://iiw.idcommons.net/14M/_Ceramic,_SkyNet,_LoRa,_IoT._low_bandwidth_%26_memory,_distributed_network._Managing_schemas,_DIDComm,_and_V.C._in_context) by Brent Shambaugh
 
 From memory:
 I recall that Joe suggested simplification. I may not need to use ceramic and I may not need to use LoRa. I may not even need a blockchain or ledger. I may want to exchange public keys with friends to start out and use did:web.
@@ -56,7 +56,7 @@ Then came discussion of OpenWRT. Brent thought Joe meant (wireless access points
 Discussion of did:web came up. Did:key was thought of as a good way forward (IIRC).  There were 3 things that joe mentioned to do, starting with authentication.
 * [...]
 
-* [UX for AR, ambient identity, IoT? Human disclosure, consent, auth with devices.](https://iiw.idcommons.net/21J/_UX_for_AR,_ambient_identity,_IoT%253F_Human_disclosure,_consent,_auth_with_devices.) by Phil Wolff
+* [UX for AR, ambient identity, IoT? Human disclosure, consent, auth with devices.](https://iiw.idcommons.net/21J/_UX_for_AR,_ambient_identity,_IoT%3F_Human_disclosure,_consent,_auth_with_devices.) by Phil Wolff
 
 Distrust of devices is rising. [https://wider.team/2021/04/21/resistiot/](https://wider.team/2021/04/21/resistiot/) IoT is being felt as the introduction of surveillance. “Devices are feared and distrusted as proxies for our distrust of the people and organizations behind them.” From the post:
 
@@ -71,9 +71,9 @@ Why these feelings?
 
 ### Devices don’t put nearby-humans at the center of experience. “User experience” isn’t for them but designed by and for absent institutions. When exactly did Amazon Alexa last ask for your consent when you walked in a room? When did Google Nest ask for permission to send your picture to the cloud? What happened to the gigabytes of data produced during your colonoscopy? Who is looking and listening? What bots are judging your behavior or speech?
 
-* [IoT Swarms + SSI in constrained networks](https://iiw.idcommons.net/12E/_IoT_Swarms_%252B_SSI_in_constrained_networks) by Geovane Fedrecheski
+* [IoT Swarms + SSI in constrained networks](https://iiw.idcommons.net/12E/_IoT_Swarms_+_SSI_in_constrained_networks) by Geovane Fedrecheski
 
-* [Presentation](https://docs.google.com/presentation/d/15ix2vzR_Dq9xcs-8OY0qBjapy9dpY-WdRKph9SiEY-0/edit?usp%3Dsharing)
+* [Presentation](https://docs.google.com/presentation/d/15ix2vzR_Dq9xcs-8OY0qBjapy9dpY-WdRKph9SiEY-0/edit?usp=sharing)
 
 Summary: This session was a discussion about three topics: IoT Swarms, the challenges of SSI in constrained networks, and preliminary results on how to overcome them. The results showed that, while a DIDComm message with a DID Document as payload used almost 1 kilobyte, a binary approach can be used to cut it to just about 200 bytes.
 
@@ -131,7 +131,7 @@ Devices are equipped by the manufacturer with an identity stored in a trusted ex
 
 * [Picos at the Edge](https://www.windley.com/archives/2021/11/picos_at_the_edge.shtml) Windley
 
-You can play with this first hand at [NoFilter.org](https://nofilter.org/), which brands itself as a "the world's first unstoppable, uncensorable, undeplatformable, decentralized freedom of speech app." There's no server storing files, just a set of Javascript files that run in your browser. Identity is provided via [Metamask](https://metamask.io/) which uses an Ethereum address as your identifier. [I created some posts on NoFilter](https://nofilter.org/%23/0xdbca72ed00c24d50661641bf42ad4be003a30b84) to explore how it works.
+You can play with this first hand at [NoFilter.org](https://nofilter.org/), which brands itself as a "the world's first unstoppable, uncensorable, undeplatformable, decentralized freedom of speech app." There's no server storing files, just a set of Javascript files that run in your browser. Identity is provided via [Metamask](https://metamask.io/) which uses an Ethereum address as your identifier. [I created some posts on NoFilter](https://nofilter.org/#/0xdbca72ed00c24d50661641bf42ad4be003a30b84) to explore how it works.
 
 * [Easier IoT Deployments with LoraWan and Helium](https://www.windley.com/archives/2022/04/easier_iot_deployments_with_lorawan_and_helium.shtml) Phil Windley
 

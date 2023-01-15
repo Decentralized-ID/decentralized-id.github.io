@@ -48,12 +48,12 @@ I spoke with the editor of the draft to propose that we add a “did” format i
 ## Other
 
 ### OpenSSF
-* [Digital Identity Attestation Roundup - Open Source Security Foundation](https://openssf.org/blog/2021/01/27/digital-identity-attestation-roundup/%23)
+* [Digital Identity Attestation Roundup - Open Source Security Foundation](https://openssf.org/blog/2021/01/27/digital-identity-attestation-roundup/#)
 
 We kicked off the first Digital Identity Attestation Working Group meeting under the OpenSSF in August, 2020. The objective of this working group is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance or origin of the code they maintain, produce and use.
 
 
-* [Digital Identity WG (September 30, 2020)](https://www.youtube.com/watch?t%3D648%26v%3D6Ym5bXRuzZ8%26feature%3Dyoutu.be)
+* [Digital Identity WG (September 30, 2020)](https://www.youtube.com/watch?t=648&v=6Ym5bXRuzZ8&feature=youtu.be)
 
 ### CASA
 

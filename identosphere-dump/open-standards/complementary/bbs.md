@@ -1,6 +1,6 @@
 # BBS
 
-* [What’s next for BBS+ LD-Proofs?](https://iiw.idcommons.net/13B/_What%2527s_next_for_BBS%252B_LD-Proofs%253F) by Brent Zundel
+* [What’s next for BBS+ LD-Proofs?](https://iiw.idcommons.net/13B/_What%27s_next_for_BBS+_LD-Proofs%3F) by Brent Zundel
 
 * [BBS+ Signatures 2020](https://w3c-ccg.github.io/ldp-bbs2020/)
 
@@ -51,9 +51,17 @@ Currently, everyone waiting for [#AIP2](https://twitter.com/hashtag/AIP2), whic
 
 The BBS+ signature will also soon be available in [Finema](https://finema.co/)’s Identity Wallet! We are excited to see how this technology will make an impact to the society in the coming years.
 
-- [aries-rfcs/0646-bbs-credentials#drawbacks](https://github.com/hyperledger/aries-rfcs/tree/main/features/0646-bbs-credentials%23drawbacks)
-* [What BBS+ Means For Verifiable Credentials](https://www.youtube.com/watch?v%3DdXlRIrrb9f4) Evernym
+- [aries-rfcs/0646-bbs-credentials#drawbacks](https://github.com/hyperledger/aries-rfcs/tree/main/features/0646-bbs-credentials#drawbacks)
+* [What BBS+ Means For Verifiable Credentials](https://www.youtube.com/watch?v=dXlRIrrb9f4) Evernym
   > In a recent Evernym blog post, [we discussed why BBS+ LD-Proofs](https://www.evernym.com/blog/bbs-verifiable-credentials/) are the privacy-preserving VC format that everyone should implement. In this webinar….
   > - A brief history of verifiable credential formats, and how a lack of convergence makes scale and interoperability an ongoing challenge
   > - How BBS+ Signatures are the breakthrough that combine the best of the JSON-LD and ZKP formats, while still allowing for selective disclosure and non-trackability
   > - The path forward: What remains to be done to fully converge on the BBS+ format
+
+* [BBS+ Credential Exchange in Hyperledger Aries](https://iiw.idcommons.net/11E/_BBS+_Credential_Exchange_in_Hyperledger_Aries) [[presentation](https://iiw.animo.id)]
+* [Advanced DIDComm Messaging](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/advance-readings/advanced-didcomm-messaging.md) By: Karim Stekelenburg (Animo Solutions) -- karim@animo.id Date: 18-07-2022 Version: 0.1
+  > in order for DIDComm to provide a potential replacement for commonly used chat protocols like WhatsApp (Extensible Messaging and Presence Protocol (XMPP)), Telegram (MTProto), or Signal (Signal Protocol), it needs to support modern chat features we use everyday
+* [BBS+ Signatures 2020](https://w3c-ccg.github.io/ldp-bbs2020/)
+
+- What’s next for BBS+ LD-Proofs?
+- Implementation in Aries ([https://iiw.animo.id/](https://iiw.animo.id/), Used in SVIP Plugfest

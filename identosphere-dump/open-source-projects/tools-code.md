@@ -23,7 +23,7 @@ SDTT is a tool from Google which began life as the [Rich Snippets Testing Tool](
   > Some possible architectural issues arise from using QR codes for confidential data, such as the fact that you’re actually transmitting the data (not a proof of the data), that the QRs tend to contain all of the data (not just a selection), and that there’s no way to rescind a QR or expire it. Those issues will have to be dealt with at a foundational level as we figure out what can safely be encoded as a QR — and more importantly how to offer restricted proofs rather than complete information.
 
 ## Mobile Agent Dev
-* [App Framework for Mobile Agent Dev - “No more forking”](https://iiw.idcommons.net/22A/_App_Framework_for_Mobile_Agent_Dev_-_%2522No_more_forking%2522) by Horacio Nunez
+* [App Framework for Mobile Agent Dev - “No more forking”](https://iiw.idcommons.net/22A/_App_Framework_for_Mobile_Agent_Dev_-_%22No_more_forking%22) by Horacio Nunez
 
 This session had the objective to present a solution to the problem of forking when developing new mobile agents. With the current starting kits available in the community it is very easy to start a path where it is almost impossible to retrofit updates to the kit back into our custom agent.
 
@@ -120,7 +120,7 @@ We have documented the [functionality of SOyA](https://ownyourdata.github.io/soy
 
 
 ### T-Systems
-* [Self Sovereign Identity (SSI) at T-Systems MMS: Interview mit Mujtaba Idrees, T-Systems MMS](https://www.youtube.com/watch?v%3DA311QHASy5Y) 7min video on YouTube
+* [Self Sovereign Identity (SSI) at T-Systems MMS: Interview mit Mujtaba Idrees, T-Systems MMS](https://www.youtube.com/watch?v=A311QHASy5Y) 7min video on YouTube
 
 ► Dr. Ivan Gudymenko, Subject Matter Lead SSI and Confidential Computing, T-Systems MMS
 

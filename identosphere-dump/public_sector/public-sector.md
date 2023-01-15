@@ -31,7 +31,7 @@ The aim of this public-private cooperation is to strengthen Finland’s leading 
 
 ## German
 
-* [Reinventing Government with Technology - Sebastian Manhart](https://www.youtube.com/watch?v%3D1fTJA0r_XFg) KuppingerCole
+* [Reinventing Government with Technology - Sebastian Manhart](https://www.youtube.com/watch?v=1fTJA0r_XFg) KuppingerCole
 
 Raj Hegde is joined by Sebastian Manhart - Technical Advisor on Digital Identity for the German Chancellery to explore governmental reform and understand stakeholder expectations behind the rollout of digital identity projects in the post-COVID era.
 
@@ -42,7 +42,7 @@ The BSI expresses the problem as follows: “The authentication of the user requ
 ## Spanish
 * [Verifiable Credentials for Digital Identity Projects](https://knowledge.wealize.digital/en/blog/verifiable-credentials-for-digital-identity-projects)
 
-The Spanish Association for Standardization (UNE) has recently published the [UNE 71307-1](https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma?c%3DN0064986) Digital Enabling Technologies Standard. This is the first global standard on decentralized identity management, based on Blockchain and Distributed Ledger Technologies (DLT).
+The Spanish Association for Standardization (UNE) has recently published the [UNE 71307-1](https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma?c=N0064986) Digital Enabling Technologies Standard. This is the first global standard on decentralized identity management, based on Blockchain and Distributed Ledger Technologies (DLT).
 
 ## Yidindji \ Australia
 * [MetaMUI and Sovereign Yidindji Government launched 1st self-sovereign identity-based National ID system](https://cointelegraph.com/press-releases/metamui-and-sovereign-yidindji-government-launched-1st-self-sovereign-identity-based-national-id-system) Cointelegraph
@@ -55,7 +55,7 @@ We are delighted to announce that our first E-Government pilot program with the 
 ## Jolocom
 
 * [ID-Ideal as an integrated solution](https://jolocom.io/blog/id-ideal-as-an-integrated-solution/) Jolocom
-  The idea behind [ID-Ideal](https://1-id--ideal-de.translate.goog/?_x_tr_enc%3D1%26_x_tr_sl%3Dauto%26_x_tr_tl%3Den%26_x_tr_hl%3Den-US%26_x_tr_pto%3Dwapp) is to create a basis for existing and future identity services. To achieve this, interoperability between the individual ecosystems is necessary. For this reason, the project mainly focuses on key aspects:
+  The idea behind [ID-Ideal](https://1-id--ideal-de.translate.goog/?_x_tr_enc=1&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) is to create a basis for existing and future identity services. To achieve this, interoperability between the individual ecosystems is necessary. For this reason, the project mainly focuses on key aspects:
   > 
   > A) Trust Framework: harmonize various ID services and create standards for secure digital identities
   > 
@@ -93,7 +93,7 @@ China passed its Personal Information Protection Law (PIPL) on 20 August 2021. 
 * [Three Key Takeaways from the FATF’s Latest 12-Month Review on Virtual assets](https://www.elliptic.co/blog/3-key-takeaways-from-the-fatfs-latest-12-month-review-on-virtual-assets) Elliptic
   > Financial Action Task Force (FATF), the global standard-setter for anti-money laundering and countering the financing of terrorism (AML/CFT), released its second 12-month review on virtual assets (You can read our summary of its first report from July 2020 report here).
 * [What Are the Six Key Areas of the FATF Consultation?](https://www.elliptic.co/blog/six-key-areas-of-the-fatf-consultation) Elliptic
-  > On March 19th, Paris-based Financial Action Task Force (FATF), the global standard-setting body for anti-money laundering and counter-terrorism finance (AML/CFT), released its [Draft Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers](https://www.fatf-gafi.org/media/fatf/documents/recommendations/March%25202021%2520-%2520VA%2520Guidance%2520update%2520-%2520Sixth%2520draft%2520-%2520Public%2520consultation.pdf). Or, in compliance acronym speak the FATF's draft guidance for its RBA to VAs and VASPs.
+  > On March 19th, Paris-based Financial Action Task Force (FATF), the global standard-setting body for anti-money laundering and counter-terrorism finance (AML/CFT), released its [Draft Updated Guidance for a Risk-Based Approach to Virtual Assets and Virtual Asset Service Providers](https://www.fatf-gafi.org/media/fatf/documents/recommendations/March%202021%20-%20VA%20Guidance%20update%20-%20Sixth%20draft%20-%20Public%20consultation.pdf). Or, in compliance acronym speak the FATF's draft guidance for its RBA to VAs and VASPs.
 * [FATF and Global Crytpto Regulatory News](https://www.elliptic.co/blog/fatf-concludes-its-annual-plenary-session)
   > The Financial Action Task Force (FATF) [held](https://www.fatf-gafi.org/publications/fatfgeneral/documents/outcomes-fatf-plenary-february-2021.html) its winter Plenary session on 22nd, 24th, and 25th February and welcomed over 205 delegates to its third virtual conference since the start of the pandemic.
 * [DeFi regulation must not kill the values behind decentralization](https://cointelegraph.com/news/defi-regulation-must-not-kill-the-values-behind-decentralization) Cointelegraph
@@ -124,7 +124,7 @@ MetaMUI SSID is the world’s first true Self-Sovereign Identity Application tha
 Many folks within the identity space see VC infrastructure as the future of identification. If much of our online identity is reputation based, then VCs represent a formal method for linking reputations and vouching for others to form a web of trust within which individuals are able to conduct identity transactions in a less centralized way.
 
 ## Delloite
-* [It’s time for governments to get serious about digital identities](https://www2.deloitte.com/global/en/pages/risk/articles/solving-the-public-sector-identity-crisis.html?id%3Dglobal:2sm:3tw:4dcom_share:5awa:6dcom:risk) by Deloitte
+* [It’s time for governments to get serious about digital identities](https://www2.deloitte.com/global/en/pages/risk/articles/solving-the-public-sector-identity-crisis.html?id=global:2sm:3tw:4dcom_share:5awa:6dcom:risk) by Deloitte
 
 While the tools may already exist to solve the government’s identity crisis, real progress will only be made if governments significantly evolve their legacy approaches to digital identity.
 

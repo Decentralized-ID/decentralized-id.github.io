@@ -22,7 +22,7 @@
 * [Mike Jones shares](https://self-issued.info/?p=2136) that CBOR (Concise Binary Object Representation)  is officially a [specification at IETF](https://www.rfc-editor.org/rfc/rfc8943) - woohoo! and it is a key part of [ISO’s mDL standard](https://www.iso.org/committee/45144.html) (date fields must use it).
   > The Concise Binary Object Representation (CBOR), as specified in RFC 7049, is a data format whose design goals include the possibility of extremely small code size, fairly small message size, and extensibility without the need for version negotiation.
 * [https://youtu.be/fEBNGj377Vc](https://youtu.be/fEBNGj377Vc)
-Second demo video using a different potential flow: [https://www.youtube.com/watch?v=fEBNGj377Vc](https://www.youtube.com/watch?v%3DfEBNGj377Vc)
+Second demo video using a different potential flow: [https://www.youtube.com/watch?v=fEBNGj377Vc](https://www.youtube.com/watch?v=fEBNGj377Vc)
 
 Paper VC’s are hard to bring to parity with “digital VC’s”. The biggest issue is binding subject to holder and verifying that. There were also callouts on how do you prevent replication.
 

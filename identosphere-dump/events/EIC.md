@@ -21,7 +21,7 @@ For me, the most relevant new topic and trend was to finally see the convergence
 
 it could provide definitive proof of a person’s Covid test status without airlines having to integrate with centralized databases of health data, a path mired in complexity and legal liability. It could allow passengers to use this proof in a way that protected their privacy.
 
-* [EIC Keynote 2022 — The Value Paradox: The 3 Inflections of IGA](https://www.youtube.com/watch?v%3DejA_YoyhrBg) Jackson Shaw
+* [EIC Keynote 2022 — The Value Paradox: The 3 Inflections of IGA](https://www.youtube.com/watch?v=ejA_YoyhrBg) Jackson Shaw
 
 Explore the inflection points of identity governance and administration (IGA) through modern history with Jackson Shaw at the 2022 European Identity & Cloud Conference (EIC) hosted by KuppingerCole.
 

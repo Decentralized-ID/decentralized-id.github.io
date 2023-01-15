@@ -13,7 +13,7 @@
 This year’s FIDO Developer Challenge reached a successful conclusion, with a ceremonial event during [Authenticate 2021](https://authenticatecon.com/event/authenticate-2021-conference/) of the ceremony is available now, and we’re pleased to share more detailed stories of the three finalists as well as the rest of the teams that made it to the final stage.
 * [Integrating FIDO with Verifiable Credentials (8.30 am start)](https://iiw.idcommons.net/10E/_Integrating_FIDO_with_Verifiable_Credentials_(8.30_am_start)) by David Chadwick
 
-* [The Use of FIDO2 and Verifiable Credentials (David Chadwick)](https://youtube.com/watch?v%3Dl3taGxBdrRU)
+* [The Use of FIDO2 and Verifiable Credentials (David Chadwick)](https://youtube.com/watch?v=l3taGxBdrRU)
 
 W3C Web Authentication (FIDO2) provides a mechanism for strong authentication whilst W3C Verifiable Credentials provide a mechanism for strong identification and authorisation. Together they make an unbeatable pair for identity management.
 

@@ -10,7 +10,7 @@ published: false
 
 This document describes a mechanism to transfer digital credentials securely between two devices. Secure credentials may represent a digital key to a hotel room, a digital key to a door lock in a house or a digital key to a car. Devices that share credentials may belong to the same or two different platforms (e.g. iOS and Android). Secure transfer may include one or more write and read operations. Credential transfer needs to be performed securely due to the sensitive nature of the information.
 
-* [Figuring out Verifiable Credentials Exchange - combining Bloom, Aires Protocols, Presentation Exchange into a unified - Killer Whale Jello Salad](https://iiw.idcommons.net/22H/_Figuring_out_Verifiable_Credentials_Exchange_-_combining_Bloom,_Aires_Protocols,_Presentation_Exchange_into_a_unified_-_Killer_Whale_Jello_Salad) by Kaliya Young, Orie Steele, Drummond , Kyle et al [ [presentation](https://docs.google.com/presentation/d/1t4o6AXclqR7SqhGCbIJKVtYxh4fm_5mGT11MBx9K95c/edit%23slide%3Did.p)]
+* [Figuring out Verifiable Credentials Exchange - combining Bloom, Aires Protocols, Presentation Exchange into a unified - Killer Whale Jello Salad](https://iiw.idcommons.net/22H/_Figuring_out_Verifiable_Credentials_Exchange_-_combining_Bloom,_Aires_Protocols,_Presentation_Exchange_into_a_unified_-_Killer_Whale_Jello_Salad) by Kaliya Young, Orie Steele, Drummond , Kyle et al [ [presentation](https://docs.google.com/presentation/d/1t4o6AXclqR7SqhGCbIJKVtYxh4fm_5mGT11MBx9K95c/edit#slide=id.p)]
   > - Because what we need is interoperable - issuance - issue-> holder || holder -> verifier some conversation about SIOP - has not been the focus of the discussion.
   > - Goal to create a bridge between
   > - the W3C CCG / DHS SVIP - VCI-HTTP-API (VHA) in combination with CHAPI protocol and the (VC Request) for issuing credentials.
@@ -24,9 +24,9 @@ This document describes a mechanism to transfer digital credentials securely bet
   > Result: [https://identity.foundation/arewewaciyet/](https://identity.foundation/arewewaciyet/)
 
 
-* [BBS+ Credential Exchange in Hyperledger Aries](https://iiw.idcommons.net/11E/_BBS%252B_Credential_Exchange_in_Hyperledger_Aries) [[presentation](https://iiw.animo.id)]
+* [BBS+ Credential Exchange in Hyperledger Aries](https://iiw.idcommons.net/11E/_BBS+_Credential_Exchange_in_Hyperledger_Aries) [[presentation](https://iiw.animo.id)]
 
-* [Credentials Exchange - figuring it out - (Jello Bowl Death Match?)](https://iiw.idcommons.net/12F/_Credentials_Exchange_-_figuring_it_out_-_(Jello_Bowl_Death_Match%253F)_%25E2%2580%2593) [[Slides](https://docs.google.com/presentation/d/1t4o6AXclqR7SqhGCbIJKVtYxh4fm_5mGT11MBx9K95c/edit%23slide%3Did.p)]
+* [Credentials Exchange - figuring it out - (Jello Bowl Death Match?)](https://iiw.idcommons.net/12F/_Credentials_Exchange_-_figuring_it_out_-_(Jello_Bowl_Death_Match%3F)_%E2%80%93) [[Slides](https://docs.google.com/presentation/d/1t4o6AXclqR7SqhGCbIJKVtYxh4fm_5mGT11MBx9K95c/edit#slide=id.p)]
   DIDComm, Verifiable Credential Exchange, Aries Protocol, Bloom Protocol, Presentation Exchange 
 
 The ultimate goal is to get to a clear exchange protocols.
@@ -58,7 +58,7 @@ The Credential Handler API or CHAPI is currently a draft community group report 
 
 TL;DR: chapi.io is a site that helps developers integrate Verifiable Credential issuance, holding, and presentation into their applications. It includes a playground that can issue arbitrary VCs to digital wallets (web and native). It also includes tutorials on how Web Developers can add CHAPI integration to their websites. All you need to try it out is a web browser.
 
-* [TrustBloc - Duty Free Shop use case (CHAPI Save + WACI Share)](https://www.youtube.com/watch?v%3DaagFJBI1fBE)
+* [TrustBloc - Duty Free Shop use case (CHAPI Save + WACI Share)](https://www.youtube.com/watch?v=aagFJBI1fBE)
 
 This video demonstrates the TrustBloc platform to Issue a W3C Verifiable Credential through CHAPI and Share the Verifiable Credential/Presentation through WACI.
 
@@ -103,7 +103,7 @@ This slide, from a slide deck presentation by Manu Sporny to the W3C Credentials
 
 There are interactions between a wallet and relying party that require passing information between the two. WACI provides a standard for these interactions.
 
-* [https://specs.bloom.co/wallet-and-credential-interactions/versions/v0.1.0/#status-of-this-document](https://specs.bloom.co/wallet-and-credential-interactions/versions/v0.1.0/%23status-of-this-document)
+* [https://specs.bloom.co/wallet-and-credential-interactions/versions/v0.1.0/#status-of-this-document](https://specs.bloom.co/wallet-and-credential-interactions/versions/v0.1.0/#status-of-this-document)
 
 WACI bound to JWT - signed. Could be JWE technically (would have to know the other parties DID and Keys - only optionally required here).
 
@@ -117,7 +117,7 @@ Could be bound to DIDComm
 * [https://specs.bloom.co/wallet-and-credential-interactions/versions/v0.1.0](https://specs.bloom.co/wallet-and-credential-interactions/versions/v0.1.0)
 
 Orie linked this related github issue and discussion:[https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/84](https://github.com/w3c-ccg/universal-wallet-interop-spec/issues/84)
-Also related: [https://w3c-ccg.github.io/vp-request-spec/#format](https://w3c-ccg.github.io/vp-request-spec/%23format)
+Also related: [https://w3c-ccg.github.io/vp-request-spec/#format](https://w3c-ccg.github.io/vp-request-spec/#format)
 
 Use cases support mobile wallets, backend services and web apps.
 Supports chaining of requests…. Relies on credential manifest and presentation exchange
@@ -164,7 +164,7 @@ Where does it go?
 
 ### Assorted
 - Work within DIF
-- [Credentials and Claims](https://github.com/decentralized-identity/org/blob/master/Org%2520documents/WG%2520documents/DIF_CC_WG_charter_v1.pdf) working group (explicitly mentions something like "unifying existing formats and protocols" in its charter) <- fast time
+- [Credentials and Claims](https://github.com/decentralized-identity/org/blob/master/Org%20documents/WG%20documents/DIF_CC_WG_charter_v1.pdf) working group (explicitly mentions something like "unifying existing formats and protocols" in its charter) <- fast time
 - Or new WG, draft charter by Balazs: [https://docs.google.com/document/d/18L2-t4_2yrO_xZkwPjMCRcKIDiRGCziNs2X4k093pvo/](https://docs.google.com/document/d/18L2-t4_2yrO_xZkwPjMCRcKIDiRGCziNs2X4k093pvo/)
 - DIF - presentation exchange?
 

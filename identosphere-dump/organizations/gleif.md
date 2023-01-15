@@ -47,7 +47,7 @@ Taking the LEI one step further from entity identification to individuals is a h
 
 Throughout the financial inclusion interview series, we caught up with key partners to discuss the launch of GLEIF’s digital business identity initiative in Africa and how it is bringing about greater financial inclusion for African SMEs. Stephan Wolf, CEO of GLEIF, concludes the series by accentuating the immeasurable opportunities and transparency this initiative will bring to the global supply chain
 Liquid Avatar Technologies’ 
-* [Digital Identity: It’s All About Authenticity](https://www.youtube.com/watch?v%3DUR0J-Vuxnuc) video from GLEIF
+* [Digital Identity: It’s All About Authenticity](https://www.youtube.com/watch?v=UR0J-Vuxnuc) video from GLEIF
 
 Through the creation of the verifiable Legal Entity Identifier (vLEI), GLEIF has created a universal system of organizational identity that answers this need. The vLEI enables instant and automated business verification for all legal entities and their official representatives
 * [The Value of Transparency in Digital Trade Finance, with Aaron Seabrook, COO, Contour](http://gleif.org/en/newsroom/blog/the-value-of-transparency-in-digital-trade-finance-with-aaron-seabrook-coo-contour) GLEIF
@@ -68,4 +68,4 @@ We do not have to look back further than the global economic collapse of 2008 to
 
 Following the launch of GLEIF’s digital business identity initiative designed to bridge the trade finance gap in Africa, we’re catching up with our key partners to hear their thoughts on how the project will bring about greater financial inclusion for SMEs on the continent and beyond.
 - [Read full vLEI press release](https://www.gleif.org/en/newsroom/press-releases/gleif-showcases-one-digital-id-for-every-business-globally-with-first-verifiable-lei-deployment)
-- [View vLEI role-based signatures in the 2021 GLEIF Annual Report](https://weboftrust.github.io/vLEI/ixbrl-report-2021-viewer.html%23)
+- [View vLEI role-based signatures in the 2021 GLEIF Annual Report](https://weboftrust.github.io/vLEI/ixbrl-report-2021-viewer.html#)

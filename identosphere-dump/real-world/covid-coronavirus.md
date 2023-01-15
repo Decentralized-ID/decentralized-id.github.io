@@ -49,7 +49,7 @@ You can view the latest Vaccination Certificate test suite report here:
 
 * [The value of verifiable credentials in the evolving digital identity landscape](https://verified.me/blog/the-value-of-verifiable-credentials-in-the-evolving-digital-identity-landscape/) Verified Me
   > In my recent podcast with [Brad Carr](https://www.iif.com/Staff-and-Authors/uid/46/BradCarr) of the [Institute of International Finance](https://www.iif.com/Publications/ID/4304/FRT-Episode-87-Digital-Identity-with-SecureKey-CEO-Greg-Wolfond), we discussed how digital identity and verified credentials can support a digital-first world, something that’s extremely relevant amid the current pandemic.
-* [Mapping FHIR JSON resource to W3C Vaccination vocabulary : A semantic data pipeline](https://iiw.idcommons.net/index.php?title%3D12H/_Mapping_FHIR_JSON_resource_to_W3C_Vaccination_vocabulary_:_A_semantic_data_pipeline%26action%3Dedit%26redlink%3D1) by John Walker
+* [Mapping FHIR JSON resource to W3C Vaccination vocabulary : A semantic data pipeline](https://iiw.idcommons.net/index.php?title=12H/_Mapping_FHIR_JSON_resource_to_W3C_Vaccination_vocabulary_:_A_semantic_data_pipeline&action=edit&redlink=1) by John Walker
 
 
 # Covid
@@ -119,15 +119,15 @@ In theory, their idea is great. In practice, it’s terrible. Or, as the Daily B
 * [ToIP Foundation Hosts the Interoperability Working Group for Good Health Pass](https://trustoverip.org/blog/2021/04/12/toip-foundation-hosts-the-interoperability-working-group-for-good-health-pass/)
   > The nine drafting groups collaborating within the new Working Group are:
 
-1. [Paper Based Credentials](https://wiki.trustoverip.org/display/HOME/Paper%2BBased%2BCredentials%2BDrafting%2BGroup) will define how a paper-based alternative can be created for any digital health pass so access will be available to all.
-2. [Consistent User Experience](https://wiki.trustoverip.org/display/HOME/Consistent%2BUser%2BExperience%2BDrafting%2BGroup) will specify the common elements required so that individuals can easily, intuitively, and safely use digital health pass implementations.
-3. [Standard Data Models and Elements](https://wiki.trustoverip.org/display/HOME/Standard%2BData%2BModels%2Band%2BElements%2BDrafting%2BGroup) will determine the core data items needed across all digital health pass implementations for both COVID-19 testing and vaccinations.
-4. [Credential Formats, Signatures, and Exchange Protocols](https://wiki.trustoverip.org/display/HOME/Credential%2BFormats%252C%2BSignatures%252C%2Band%2BExchange%2BProtocols%2BDrafting%2BGroup) will specify the requirements for technical interoperability of Good Health Pass implementations.
-5. [Security, Privacy, and Data Protection](https://wiki.trustoverip.org/display/HOME/Security%252C%2BPrivacy%252C%2Band%2BData%2BProtection%2BDrafting%2BGroup) will define the safety requirements for Good Health Pass compliant implementations.
-6. [Trust Registries](https://wiki.trustoverip.org/display/HOME/Trust%2BRegistries%2BDrafting%2BGroup) will specify how verifiers can confirm that a digital health pass has been issued by an authorized issuer.
-7. [Rules Engines](https://wiki.trustoverip.org/display/HOME/Rules%2BEngines%2BDrafting%2BGroup) will define how digital health pass apps can access different sources of policy information to determine what test or vaccination status is needed for a specific usage scenario.
-8. [Identity Binding](https://wiki.trustoverip.org/display/HOME/Identity%2BBinding%2BDrafting%2BGroup) will specify the options for verifying that the holder of a digital health pass is the individual who received the test or vaccination credential.
-9. [Governance Framework](https://wiki.trustoverip.org/display/HOME/Governance%2BFramework%2BDrafting%2BGroup) will define the overall set of policies that must be followed for an implementation to qualify as Good Health Pass compliant.
+1. [Paper Based Credentials](https://wiki.trustoverip.org/display/HOME/Paper+Based+Credentials+Drafting+Group) will define how a paper-based alternative can be created for any digital health pass so access will be available to all.
+2. [Consistent User Experience](https://wiki.trustoverip.org/display/HOME/Consistent+User+Experience+Drafting+Group) will specify the common elements required so that individuals can easily, intuitively, and safely use digital health pass implementations.
+3. [Standard Data Models and Elements](https://wiki.trustoverip.org/display/HOME/Standard+Data+Models+and+Elements+Drafting+Group) will determine the core data items needed across all digital health pass implementations for both COVID-19 testing and vaccinations.
+4. [Credential Formats, Signatures, and Exchange Protocols](https://wiki.trustoverip.org/display/HOME/Credential+Formats%2C+Signatures%2C+and+Exchange+Protocols+Drafting+Group) will specify the requirements for technical interoperability of Good Health Pass implementations.
+5. [Security, Privacy, and Data Protection](https://wiki.trustoverip.org/display/HOME/Security%2C+Privacy%2C+and+Data+Protection+Drafting+Group) will define the safety requirements for Good Health Pass compliant implementations.
+6. [Trust Registries](https://wiki.trustoverip.org/display/HOME/Trust+Registries+Drafting+Group) will specify how verifiers can confirm that a digital health pass has been issued by an authorized issuer.
+7. [Rules Engines](https://wiki.trustoverip.org/display/HOME/Rules+Engines+Drafting+Group) will define how digital health pass apps can access different sources of policy information to determine what test or vaccination status is needed for a specific usage scenario.
+8. [Identity Binding](https://wiki.trustoverip.org/display/HOME/Identity+Binding+Drafting+Group) will specify the options for verifying that the holder of a digital health pass is the individual who received the test or vaccination credential.
+9. [Governance Framework](https://wiki.trustoverip.org/display/HOME/Governance+Framework+Drafting+Group) will define the overall set of policies that must be followed for an implementation to qualify as Good Health Pass compliant.
 * [Not too much identity technology, and not too little](https://www.constellationr.com/blog-news/not-too-much-identity-technology-and-not-too-little)
   > We should digitize nothing more and nothing less than the fact that someone received their vaccine.  A verifiable credential carrying this information would include the place, date and time, the type of vaccine, and the medico who administered or witnessed the shot.  The underlying technology should be robust, mature and proven at scale ― as is PKI and public key certificates
 
@@ -143,16 +143,16 @@ Converting the COVID CDC Vaccination Card into a standardized digital credential
 
 * [COVID Credentials Initiative Update/Overview](https://iiw.idcommons.net/1C/_COVID_Credentials_Initiative_Update/Overview) by Lucy Yang, Kaliya Young, John Walker
 
-Session Slides: [https://docs.google.com/presentation/d/11K027LlitWljJu_XNTztqc6BGvhsD8JBX5OkavLEEMA/](https://docs.google.com/presentation/d/11K027LlitWljJu_XNTztqc6BGvhsD8JBX5OkavLEEMA/edit?usp%3Dsharing)
+Session Slides: [https://docs.google.com/presentation/d/11K027LlitWljJu_XNTztqc6BGvhsD8JBX5OkavLEEMA/](https://docs.google.com/presentation/d/11K027LlitWljJu_XNTztqc6BGvhsD8JBX5OkavLEEMA/edit?usp=sharing)
 
-- [Response to Ada Lovelace Institute: Vaccine passports and COVID status apps: Call for Public Evidence](https://docs.google.com/document/d/1ykUUDak47lYkUJeZvxs7FxDyy8bQ48FkF47IxMclppE/edit?usp%3Dsharing)
-- [Response to WHO Interim Guidance for Development a Smart Vaccination Certificate](https://docs.google.com/document/d/1HwWUxMY2EynkWFrlNQqh8IF7rE_5aFn74ZreYq0IAYg/edit?usp%3Dsharing)
-- [Response to Call for Evidence: UK Parliament Covid 19 Vaccine Certification](https://docs.google.com/document/d/1y5vyLzsVUzhiFNcWHGHLVlQHnRad73q3F50a-8gr83Y/edit?usp%3Dsharing) (Still open for contribution)
+- [Response to Ada Lovelace Institute: Vaccine passports and COVID status apps: Call for Public Evidence](https://docs.google.com/document/d/1ykUUDak47lYkUJeZvxs7FxDyy8bQ48FkF47IxMclppE/edit?usp=sharing)
+- [Response to WHO Interim Guidance for Development a Smart Vaccination Certificate](https://docs.google.com/document/d/1HwWUxMY2EynkWFrlNQqh8IF7rE_5aFn74ZreYq0IAYg/edit?usp=sharing)
+- [Response to Call for Evidence: UK Parliament Covid 19 Vaccine Certification](https://docs.google.com/document/d/1y5vyLzsVUzhiFNcWHGHLVlQHnRad73q3F50a-8gr83Y/edit?usp=sharing) (Still open for contribution)
 
 Current Open Proposals: We will host another session (Day 2 Session 14 2:30 pm PT) to talk about these proposals
 
-- [Proofmarket](https://docs.google.com/document/d/1hlR_2yp7EJQqYvxm8mNY-KNgwScTsClKDp6W6yw33Ic/edit?usp%3Dsharing) (Medcreds)
-- [Indicio](https://docs.google.com/document/d/1Vl9IKRg6ygHD1njc8GfnjsQglDOVglBKbuXHSuqQ7T4/edit?usp%3Dsharing)
+- [Proofmarket](https://docs.google.com/document/d/1hlR_2yp7EJQqYvxm8mNY-KNgwScTsClKDp6W6yw33Ic/edit?usp=sharing) (Medcreds)
+- [Indicio](https://docs.google.com/document/d/1Vl9IKRg6ygHD1njc8GfnjsQglDOVglBKbuXHSuqQ7T4/edit?usp=sharing)
 
 * [Dynamic Disambiguation and Deconfliction of Complex Access Controls from Multiple Verifiable Sources](https://iiw.idcommons.net/1F/_Dynamic_Disambiguation_and_Deconfliction_of_Complex_Access_Controls_from_Multiple_Verifiable_Sources) by Chris Buchanan
 
@@ -160,9 +160,9 @@ COVID-19, Good Health Pass Collaborative, Rules Engines, Verifiable Presentation
 
 The transition from contemporary access controls to SSI will need a metalanguage for access control rules in order to allow verifiers and holders to trust the transaction.  Not everyone will know how to write the complex branching and contextual rules logic that make up real life access controls.
 
-* [COVID Credentials Initiative: Challenges & Learning](https://iiw.idcommons.net/10C/_COVID_Credentials_Initiative:_Challenges_%2526_Learning) by Lucy Yang, Kaliya Young, John Walker
+* [COVID Credentials Initiative: Challenges & Learning](https://iiw.idcommons.net/10C/_COVID_Credentials_Initiative:_Challenges_%26_Learning) by Lucy Yang, Kaliya Young, John Walker
 
-* [CCI Introduction](https://docs.google.com/presentation/d/11K027LlitWljJu_XNTztqc6BGvhsD8JBX5OkavLEEMA/edit?usp%3Dsharing)
+* [CCI Introduction](https://docs.google.com/presentation/d/11K027LlitWljJu_XNTztqc6BGvhsD8JBX5OkavLEEMA/edit?usp=sharing)
 
 Solution assumption with the Good Health Pass is revoking is not necessary as VCs are short lived (solution to invalid credential). Issuers will re-issue vs. revoke
 
@@ -202,9 +202,9 @@ Trust registries primarily answer the question of how a verifier can trust that 
 
 * [Dave Chadwick] The trust registry should not mandate that it contains a DID, The feedback is that it will be a URI.
 
-* [Trinsic Open Source - BBS+ VCs over DIDComm v2 - End-to-end vaccination credential example](https://iiw.idcommons.net/index.php?title%3D23C/_Trinsic_Open_Source_-_BBS%252B_VCs_over_DIDComm_v2_-_End-to-end_vaccination_credential_example%26action%3Dedit%26redlink%3D1) by Michael Boyd
+* [Trinsic Open Source - BBS+ VCs over DIDComm v2 - End-to-end vaccination credential example](https://iiw.idcommons.net/index.php?title=23C/_Trinsic_Open_Source_-_BBS+_VCs_over_DIDComm_v2_-_End-to-end_vaccination_credential_example&action=edit&redlink=1) by Michael Boyd
 
-* [Digital COVID Vaccine Passports- Is there really a need or are we creating a false certainty in uncertain times?](https://iiw.idcommons.net/20C/_Digital_COVID_Vaccine_Passports-_Is_there_really_a_need_or_are_we_creating_a_false_certainty_in_uncertain_times%253F)
+* [Digital COVID Vaccine Passports- Is there really a need or are we creating a false certainty in uncertain times?](https://iiw.idcommons.net/20C/_Digital_COVID_Vaccine_Passports-_Is_there_really_a_need_or_are_we_creating_a_false_certainty_in_uncertain_times%3F)
 
 The importance and need for an Ethical framework/standards for the delivery technology development and implementations in healthcare. Apply the biomedical ethics that exist in healthcare to technology specifically SSI & user sovereignty.
 
@@ -246,7 +246,7 @@ Reviving trust in safe travel is possible using digital identity and immunity cr
 - Travel bans, quarantines and lockdowns have negatively impacted the travel industry
 - Restoring trust and safety is paramount for travel, tourism and hospitality industries to recover
 - Self-sovereign identity (SSI) built on distributed ledger technology (like blockchain) and cryptography could be used to reinvigorate travel by allowing individuals to easily and securely demonstrate their immunity status
-* [A trusted internet. Easy and secure. For everyone.](https://esatus.com/solutions/self-self-sovereign-identity/?lang%3Den) Enabled by digital credentials and SSI technology.
+* [A trusted internet. Easy and secure. For everyone.](https://esatus.com/solutions/self-self-sovereign-identity/?lang=en) Enabled by digital credentials and SSI technology.
 
 Already today, credentials are being used in a wide variety of applications, such as a digital identity card, a work permit or a test certificate. We would like to explain the functionality and potential use cases for credentials by following our protagonist called Sam, who has just completed a Covid-19 rapid test.
 
@@ -259,7 +259,7 @@ Already today, credentials are being used in a wide variety of applications, suc
   > But there is always time to reflect on privacy and security, and design from the ground up accordingly. At digi.me, we practice what we preach, with privacy and security always core considerations for our health data capability as well as our [Consentry health pass](https://consentry.com/) as they move forwards.
 * [How can we make platform livelihoods better for young women, especially during and after COVID-19?](https://medium.com/caribou-digital/how-can-we-make-platform-livelihoods-better-for-young-women-especially-during-and-after-covid-19-696b3974bf61)
   > But who is the “we”? The research asks exactly that — who is the “we” that needs to [make the platform work better for women](https://medium.com/caribou-digital/female-livelihoods-in-the-gig-economy-tensions-and-opportunities-f14982b6aaad)?
-* [How festival organisers can maximise Covid safety and eradicate ticket touts](https://blokbioscience.com/articles/how-festival-organisers-can-maximise-covid-safety-and-eradicate-ticket-touts/%23respond)
+* [How festival organisers can maximise Covid safety and eradicate ticket touts](https://blokbioscience.com/articles/how-festival-organisers-can-maximise-covid-safety-and-eradicate-ticket-touts/#respond)
   > Festival organisers will also need to do better at managing delays than other sectors. In recent weeks, we’ve seen [Heathrow airport reporting delays of up to six hours](https://www.bbc.co.uk/news/business-56743571). This would be catastrophic at a festival – to keep festival goers waiting, after they have already waited for months to have a great time, would only lead to frustration and likely cause a bad reputation for the festival itself.
 * [JWTs done right: Quebec's proof of vaccination](https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/)
   > Well, my proof of vaccination finally arrived, and the result is… actually pretty okay. Still, there's always some fun to be had in zero-knowledge hacks, so I thought I'd blog about my experiences anyway.
@@ -282,7 +282,7 @@ Apple Announces Support for [VCI](https://vci.org/) credentials at WWDC (Almost
 
 * [Covid-19 Vaccination Passes Could Cataylze Self-Sovereign Identity Adoption](https://hackernoon.com/covid-19-vaccination-passes-could-cataylze-self-sovereign-identity-adoption-6x3m3563)
 
-The EU previously announced fully vaccinated Americans could travel this summer and regional EU travellers could potentially use an [EU Digital COVID Certificate](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en?ref%3Dhackernoon.com%23how-will-the-certificate-work) as early as July 1.
+The EU previously announced fully vaccinated Americans could travel this summer and regional EU travellers could potentially use an [EU Digital COVID Certificate](https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en?ref=hackernoon.com#how-will-the-certificate-work) as early as July 1.
 
 
 * [Women and platform livelihoods in Kenya: The impact of COVID-19](https://medium.com/caribou-digital/women-and-platform-livelihoods-in-kenya-the-impact-of-covid-19-954d6b073997)
@@ -293,11 +293,11 @@ We are starting a new research project — and we’d like you to join us on the
 This paper explores the five key challenges facing the industry and the IT investment priorities that have the greatest potential to support governments, airports, and airlines over the next 18 months to rebuild a strong and agile business.
 * [@maheshbalan shares](https://twitter.com/maheshbalan/status/1352049833419239428)
   > My presentation at the @Hyperledger Healthcare SIG about #VerifiableCredentials for Covid-19 - How a cryptographically secure digital credential can be used instead of paper documents. (Video)
-* [Vaccine Credentials Focus Group - US Subgroup](https://covidcreds.groups.io/g/vaccinecredentials-us%23publichealth)
+* [Vaccine Credentials Focus Group - US Subgroup](https://covidcreds.groups.io/g/vaccinecredentials-us#publichealth)
 
-This is the mailing list for the US subgroup of the Vaccine Credentials Focus Group. You can see the group charter [here](https://docs.google.com/document/d/10iXXW4c-lW9ZR-qey_92006muIBuLt3VN4GkZa214OA/edit?usp%3Dsharing).
+This is the mailing list for the US subgroup of the Vaccine Credentials Focus Group. You can see the group charter [here](https://docs.google.com/document/d/10iXXW4c-lW9ZR-qey_92006muIBuLt3VN4GkZa214OA/edit?usp=sharing).
 
-Participating and contributing in this group requires a CCI membership, open and free to all (organizations and individuals). If you are not a CCI member yet, please request a membership agreement at [https://www.covidcreds.org/#Join](https://www.covidcreds.org/%23Join).
+Participating and contributing in this group requires a CCI membership, open and free to all (organizations and individuals). If you are not a CCI member yet, please request a membership agreement at [https://www.covidcreds.org/#Join](https://www.covidcreds.org/#Join).
 * [Vaccine Passports Must Leverage Decentralized Identity Solutions](https://medium.com/ontologynetwork/vaccine-passports-must-leverage-decentralized-identity-solutions-d454f9907fe9) Ontology
 
 Decentralized identity solutions offer an ideal solution to the data privacy and identity risks associated with COVID-19 passports and other verification methods.
@@ -368,7 +368,7 @@ Though we often get lost in technologies, frameworks, legislation, and economic 
 
 This post explores the ecosystem of ecosystems that is emerging as hundreds of organizations around the world rise to the challenge of implementing a globally interoperable system that also respects individual choice and privacy.
 
-* [Panel: Paving the Way to a Safer Travel Experience - Heather Dahl, & Scott Harris & Adrien Sanglier](https://www.youtube.com/watch?v%3DYlgXNk4GRLc)
+* [Panel: Paving the Way to a Safer Travel Experience - Heather Dahl, & Scott Harris & Adrien Sanglier](https://www.youtube.com/watch?v=YlgXNk4GRLc)
 
 Together SITA and Indicio.tech utilized Hyperledger Aries, Ursa, and Indy to create a secure travel credential that is accepted by airlines, hotels and hospitality partners without sharing private health information. In this panel discussion, SITA and Indicio.tech will share their journey of applying verifiable credentials in commercial aviation and travel/hospitality to make it easy for visitors entering a country to share a trusted traveler credential – based on their health status, yet revealing no personal information or health data – privately and securely on their mobile device.
 
@@ -449,7 +449,7 @@ Happy to chat to share our mistakes, so that you don't need to repeat them, with
 
 Until the time digital records for vaccination are as simple and do not require a second thought around wallet/app/credential format etc - we have a long way to go before they are inevitable.
 
-* [CCI Knowledge Base](https://docs.google.com/spreadsheets/d/1z0MaGrb-Py7V3ZO4AnmYMHsXNgTmLhVocyaX7ySQ5mI/edit%23gid%3D1671625933)
+* [CCI Knowledge Base](https://docs.google.com/spreadsheets/d/1z0MaGrb-Py7V3ZO4AnmYMHsXNgTmLhVocyaX7ySQ5mI/edit#gid=1671625933)
 
 If you haven’t already you might want to check out this google sheet
 
@@ -494,7 +494,7 @@ The DIVOC project is hosted and maintained by [India’s eGov Foundation](https:
 
 * [Governor Cuomo Announces Launch of Excelsior Pass Plus to Support the Safe, Secure Return of Tourism and Business Travel](https://www.governor.ny.gov/news/governor-cuomo-announces-launch-excelsior-pass-plus-support-safe-secure-return-tourism-and) NYS Gov
 
-Excelsior Pass Plus, a result of the strategic partnership between New York State and VCI, will provide New Yorkers safe access to retrieve a secure, digital copy of their COVID-19 vaccination record using the [SMART Health Cards Framework](https://protect2.fireeye.com/v1/url?k%3Dc0acc09b-9f37f85c-c0ae39ae-000babd9f75c-7271080d81ab95a1%26q%3D1%26e%3D61cb6a92-1e48-44b8-96be-e1dd24b53960%26u%3Dhttps%253A%252F%252Fvci.org%252Fabout%2523smart-health) - making their interstate and international travel and commerce experiences safer, contact-less, and more seamless.
+Excelsior Pass Plus, a result of the strategic partnership between New York State and VCI, will provide New Yorkers safe access to retrieve a secure, digital copy of their COVID-19 vaccination record using the [SMART Health Cards Framework](https://protect2.fireeye.com/v1/url?k=c0acc09b-9f37f85c-c0ae39ae-000babd9f75c-7271080d81ab95a1&q=1&e=61cb6a92-1e48-44b8-96be-e1dd24b53960&u=https%3A//vci.org/about#smart-health) - making their interstate and international travel and commerce experiences safer, contact-less, and more seamless.
 
 * [Use Case Implementation Workstream](https://covidcreds.groups.io/g/usecaseCCI) [usecaseCCI@covidcreds.groups.io](mailto:usecaseCCI@covidcreds.groups.io)
 
@@ -504,7 +504,7 @@ This is the Use Case Implementation Workstream of the [COVID Credentials Initia
 * [Implementing the Good Health Pass’s recommendations with Cardea](https://indicio.tech/blog/implementing-the-good-health-passs-recommendations-with-cardea/)
   > Cardea, a full, open-source ecosystem for verifiable health credentials developed by Indicio and now a community-led project at LFPH, meets the major recommendations of the Good Health Pass and facilitates the goals of the Global COVID Certificate Network.
 
-Good Health Pass Blueprint and the Global Covid Credentials Initiative by LFPH presented at the [DIF Interop Working Group](https://us02web.zoom.us/rec/play/Si6s-_rvMU7FuHW6QnJVxW47CFiotXDMWutkWMgePKdSWVhTYyADaldJhvzqOl1JPP297-lvSYXCDuk2.rMFee21Ba1fU6y2R?continueMode%3Dtrue%26_x_zm_rtaid%3DdQ0WNpJPS2WF1QUlmxYwBQ.1624241159436.7617ddee4319249d32a108bb882dc0ec%26_x_zm_rhtaid%3D623)
+Good Health Pass Blueprint and the Global Covid Credentials Initiative by LFPH presented at the [DIF Interop Working Group](https://us02web.zoom.us/rec/play/Si6s-_rvMU7FuHW6QnJVxW47CFiotXDMWutkWMgePKdSWVhTYyADaldJhvzqOl1JPP297-lvSYXCDuk2.rMFee21Ba1fU6y2R?continueMode=true&_x_zm_rtaid=dQ0WNpJPS2WF1QUlmxYwBQ.1624241159436.7617ddee4319249d32a108bb882dc0ec&_x_zm_rhtaid=623)
 
 As more and more governments adopt [major COVID certificate standards](https://www.lfph.io/2021/10/12/global-covid-certificate-landscape/) to reopen borders, the travel industry is working hard to catch up on their technology to meet the evolving travel requirements. However, there is still no shortage of complaints from travelers about their cumbersome international travel experiences.
 

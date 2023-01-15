@@ -7,12 +7,12 @@ published: false
 
 * [Video] [Vienna Digital Identity Meetup #17](https://vimeo.com/482803989)
   > Guardianship is a complex topic, with many subtleties and layers [...]  In this first event on this topic, Philippe has provided an overview of how SSI and Guardianship fit together and how SSI meets the lifecycle stages (Inception, Creation, Usage and Termination) of guardianship.
-* [The Sovrin Working Group Tech Requirements and Implementation Guidelines](https://docs.google.com/presentation/d/1aGTPmlno3WScpSYMs1HLhWsrVRx9B-I0yhOQsRgmqRw/edit?usp%3Dsharing) John Phillips, Jo Spenser
+* [The Sovrin Working Group Tech Requirements and Implementation Guidelines](https://docs.google.com/presentation/d/1aGTPmlno3WScpSYMs1HLhWsrVRx9B-I0yhOQsRgmqRw/edit?usp=sharing) John Phillips, Jo Spenser
   > Sovrin is looking to promote the governance process and where guardianship fits in.  The IdRamp wallet is an example of how the wallet could provide helpful features.
 * [A Deeper Understanding of Implementing Guardianship](https://sovrinid.medium.com/a-deeper-understanding-of-implementing-guardianship-9a8ab749db90)
 
 * [A Deeper Understanding of Implementing Guardianship](https://sovrinid.medium.com/a-deeper-understanding-of-implementing-guardianship-9a8ab749db90): Two new Guardianship papers from Sovrin at IIW #32
-  > The first paper is called the [Guardianship Credentials Implementation Guidelines](https://drive.google.com/file/d/1vBePVx8n3MRDWcePkwVDya9ab4BHEyU_/view?usp%3Dsharing) and its purpose is to provide readers with the background they need to implement IT systems that support various kinds of guardianship. The second paper is called [Guardianship Credentials Technical Requirements](https://drive.google.com/file/d/1M21PznPAd0H6z1t4ODl-jiEoXZjEhwcb/view?usp%3Dsharing) which was developed by the technical requirements working group within the SGWG. The purpose of this document is twofold: i) provide principles under which guardianship scenario designs and requirements are considered and defined; and ii) provide technical requirements for SSI solutions that offer the capability of guardianship.
+  > The first paper is called the [Guardianship Credentials Implementation Guidelines](https://drive.google.com/file/d/1vBePVx8n3MRDWcePkwVDya9ab4BHEyU_/view?usp=sharing) and its purpose is to provide readers with the background they need to implement IT systems that support various kinds of guardianship. The second paper is called [Guardianship Credentials Technical Requirements](https://drive.google.com/file/d/1M21PznPAd0H6z1t4ODl-jiEoXZjEhwcb/view?usp=sharing) which was developed by the technical requirements working group within the SGWG. The purpose of this document is twofold: i) provide principles under which guardianship scenario designs and requirements are considered and defined; and ii) provide technical requirements for SSI solutions that offer the capability of guardianship.
 
 * [Internet Governance - UDDI - Universal Declaration of Digital Identity](https://iiw.idcommons.net/10I/_Internet_Governance_-_UDDI_-_Universal_Declaration_of_Digital_Identity) by Jeff Aresty, Kristina Yasuda
 
@@ -20,7 +20,7 @@ Internet governance, human rights, digital identity, Identity for All, Guardians
 
 * [Guardianship Showcase - The Sovrin Working Group Tech Requirements and Implementation Guidelines](https://iiw.idcommons.net/4G/_Guardianship_Showcase_-_The_Sovrin_Working_Group_Tech_Requirements_and_Implementation_Guidelines) by John Phillips, Jo Spenser
 
-* [Guardianship, SSI, and the Sovrin Guardianship WG - Update for IIW #32](https://docs.google.com/presentation/d/1aGTPmlno3WScpSYMs1HLhWsrVRx9B-I0yhOQsRgmqRw/edit?usp%3Dsharing)
+* [Guardianship, SSI, and the Sovrin Guardianship WG - Update for IIW #32](https://docs.google.com/presentation/d/1aGTPmlno3WScpSYMs1HLhWsrVRx9B-I0yhOQsRgmqRw/edit?usp=sharing)
 
 1. Jurisdictions are essential [to Guardianship]
 2. Work with existing laws
@@ -31,7 +31,7 @@ Internet governance, human rights, digital identity, Identity for All, Guardians
 Sovrin is looking to promote the governance process and where guardianship fits in.  The IdRamp wallet is an example of how the wallet could provide helpful features.
 
 - Universal Wallet: [https://w3c-ccg.github.io/universal-wallet-interop-spec/](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
-- Review/contribute to the draft spec (or portions you’re interested in): [https://docs.google.com/document/d/1vPqb4bJ6pfuAPYF_fMW_Lb-7GZugasWKfrSCotpuv6o/edit#](https://docs.google.com/document/d/1vPqb4bJ6pfuAPYF_fMW_Lb-7GZugasWKfrSCotpuv6o/edit%23)
+- Review/contribute to the draft spec (or portions you’re interested in): [https://docs.google.com/document/d/1vPqb4bJ6pfuAPYF_fMW_Lb-7GZugasWKfrSCotpuv6o/edit#](https://docs.google.com/document/d/1vPqb4bJ6pfuAPYF_fMW_Lb-7GZugasWKfrSCotpuv6o/edit#)
 - Verifiable Credentials for Education Task Force: [https://w3c-ccg.github.io/vc-ed/](https://w3c-ccg.github.io/vc-ed/)
 
 * [Agency By Design (Privacy is not Enough)](https://iiw.idcommons.net/20B/_Agency_By_Design_(Privacy_is_not_Enough)) by Adrian Gropper
@@ -110,7 +110,7 @@ Model Agency as hierarchy and delegation is the mean to have it.
 
 * [Why you know less about Guardianship than you think (because we ALL know less about Guardianship than we think)](https://iiw.idcommons.net/20L/_Why_you_know_less_about_Guardianship_than_you_think_(because_we_ALL_know_less_about_Guardianship_than_we_think)) by Jo Spencer, John Phillips, Sterre den Breeijen
 
-Link to the deck we’ll use to start the conversation: [https://docs.google.com/presentation/d/1aGTPmlno3WScpSYMs1HLhWsrVRx9B-I0yhOQsRgmqRw/edit?usp=sharing](https://docs.google.com/presentation/d/1aGTPmlno3WScpSYMs1HLhWsrVRx9B-I0yhOQsRgmqRw/edit?usp%3Dsharing)
+Link to the deck we’ll use to start the conversation: [https://docs.google.com/presentation/d/1aGTPmlno3WScpSYMs1HLhWsrVRx9B-I0yhOQsRgmqRw/edit?usp=sharing](https://docs.google.com/presentation/d/1aGTPmlno3WScpSYMs1HLhWsrVRx9B-I0yhOQsRgmqRw/edit?usp=sharing)
 
 Do we need to get more people interested in the “real life” application of
 
@@ -157,7 +157,7 @@ Four groups of people at IIW conferences?
 32. [https://essif-lab.pages.grnet.gr/framework/docs/notations-and-conventions](https://essif-lab.pages.grnet.gr/framework/docs/notations-and-conventions)
 33. [https://www.researchgate.net/publication/348325716_Decentralized_SSI_Governance_the_missing_link_in_automating_business_decisions](https://www.researchgate.net/publication/348325716_Decentralized_SSI_Governance_the_missing_link_in_automating_business_decisions)
 
-* [What if the Credential Subject cannot be the Holder?](https://iiw.idcommons.net/20H/_What_if_the_Credential_Subject_cannot_be_the_Holder%253F) by Sam Curren
+* [What if the Credential Subject cannot be the Holder?](https://iiw.idcommons.net/20H/_What_if_the_Credential_Subject_cannot_be_the_Holder%3F) by Sam Curren
 
 Quick intro outline: [https://hackmd.io/HhLGtxBPSeGpxtp30S5tOg](https://hackmd.io/HhLGtxBPSeGpxtp30S5tOg)
 
@@ -198,7 +198,7 @@ Links that came up during the call:
 
 - [https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1430-9134.2001.00173.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1430-9134.2001.00173.x)
 - [https://dhh1128.github.io/zkpcreds/trust-paradox-rebuttal.html](https://dhh1128.github.io/zkpcreds/trust-paradox-rebuttal.html)
-- Feedback loop into privacy law: [https://kantarainitiative.org/confluence/display/WA/Privacy+as+Expected%3A+UI+Signalling+a+Consent+Gateway+For+Human+Consent](https://kantarainitiative.org/confluence/display/WA/Privacy%2Bas%2BExpected%253A%2BUI%2BSignalling%2Ba%2BConsent%2BGateway%2BFor%2BHuman%2BConsent)
+- Feedback loop into privacy law: [https://kantarainitiative.org/confluence/display/WA/Privacy+as+Expected%3A+UI+Signalling+a+Consent+Gateway+For+Human+Consent](https://kantarainitiative.org/confluence/display/WA/Privacy+as+Expected%3A+UI+Signalling+a+Consent+Gateway+For+Human+Consent)
 
 * [https://link.springer.com/chapter/10.1007/978-3-540-45146-4_8](https://link.springer.com/chapter/10.1007/978-3-540-45146-4_8)
 

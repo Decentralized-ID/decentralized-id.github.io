@@ -50,11 +50,11 @@ The Hyperledger Mentorship Program is a structured hands-on learning opportunity
 
 Hyperledger Aries – Aries Bifold – Aries-Framework-Javascript – React Native
 
-Slides: [https://docs.google.com/presentation/d/1XKrgnUUF7nZI-bOqWMKijKZHWThsIjFkVkfPIVy3gkY/edit?usp=sharing](https://docs.google.com/presentation/d/1XKrgnUUF7nZI-bOqWMKijKZHWThsIjFkVkfPIVy3gkY/edit?usp%3Dsharing)
+Slides: [https://docs.google.com/presentation/d/1XKrgnUUF7nZI-bOqWMKijKZHWThsIjFkVkfPIVy3gkY/edit?usp=sharing](https://docs.google.com/presentation/d/1XKrgnUUF7nZI-bOqWMKijKZHWThsIjFkVkfPIVy3gkY/edit?usp=sharing)
 
 Repo: [https://github.com/hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 
-User Group Meetings: [https://wiki.hyperledger.org/display/ARIES/Aries+Bifold+User+Group+Meetings](https://wiki.hyperledger.org/display/ARIES/Aries%2BBifold%2BUser%2BGroup%2BMeetings)
+User Group Meetings: [https://wiki.hyperledger.org/display/ARIES/Aries+Bifold+User+Group+Meetings](https://wiki.hyperledger.org/display/ARIES/Aries+Bifold+User+Group+Meetings)
 
 Rocketchat: [https://chat.hyperledger.org/channel/aries-bifold](https://chat.hyperledger.org/channel/aries-bifold)
 
@@ -105,7 +105,3 @@ Using the [self-sovereign identity](https://www.ledgerinsights.com/tag/self-sove
   > The Indicio Mediator Agent is the company’s latest contribution to Aries Cloud Agent Python (ACA-Py) and the Aries Toolbox. Following RFC 0211: Mediator Coordination, Indicio built on the work of the open-source community to make mediation interoperable and vendor agnostic. This expands the opportunities for mobile wallet implementations.
   > *[...]*
   > Indicio.tech is committed to becoming a resource-hub for decentralized identity, providing enterprise-grade open source tools to its clients and to the community. This includes the [Private Networks](https://indicio.tech/private-networks/) build service, the [Indicio TestNet](https://indicio.tech/indicio-testnet/), and a variety of customizable [training programs](https://indicio.tech/training-packages/).
-* [Aries Mobile Agent SDK for Google Flutter](https://ayanworks.medium.com/announcing-arnima-fl-open-source-aries-flutter-mobile-agent-sdk-d3483744ffc8)
-  > Exactly a year ago in Jan 2020, we announced ARNIMA — first ever Aries React Native Mobile Agent SDK that we made open source for the Self-Sovereign Identity ecosystem.
-  > 
-  > [...] We are very excited to announce [one more small open-source contribution](https://github.com/ayanworks/ARNIMA-flutter-sdk) from AyanWorks to the Aries community.

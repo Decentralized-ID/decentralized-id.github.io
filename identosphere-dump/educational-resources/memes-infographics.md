@@ -5,9 +5,6 @@ published: false
 # Infographic
 
 * [Interesting diagram.](https://twitter.com/i3market_eu/status/1397474556839874563)
-* [@erwin tweets](https://twitter.com/Erwin_Schroedy/status/1405887429983223809):
-
-Self Sovereign Identity is an integral part of WEB3.0 Be free, own your identity! #KILT  #YourWildestMemes #WEB3
 
 * [SSI Meme of the week](https://twitter.com/SSI_by_memes/status/1483519684465016833) SSI By Memes
 * [SSI Memes](https://twitter.com/SSI_by_memes/status/1486979269754601472)

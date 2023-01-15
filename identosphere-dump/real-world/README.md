@@ -85,7 +85,7 @@ A pertinent example of how this can be applied in the corporate world is this ex
 
 
 ## Real World
-- [DIF F2F demo session](https://www.youtube.com/watch?v%3DSaNvIorKQ9I)
+- [DIF F2F demo session](https://www.youtube.com/watch?v=SaNvIorKQ9I)
 
 
 
@@ -95,7 +95,7 @@ Epic Post
 
 You might think that I have lost my mind. We have just reported that our Indy SDK based DID agency is [AIP 1.0](https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0302-aries-interop-profile/README.md) compatible, and everything is wonderful. What’s going on?
 
-* [Digitizing the 1st Mile with Blockchain, AI, and Self Sovereign Identity Connecting Coffee Farmers from Field to 1st Sip in Sustainable Supply Chains with Farmer Connect](https://podcasts.apple.com/us/podcast/supply-chain-revolution/id1496899179?i%3D1000507363757) Supply Chain Revolution
+* [Digitizing the 1st Mile with Blockchain, AI, and Self Sovereign Identity Connecting Coffee Farmers from Field to 1st Sip in Sustainable Supply Chains with Farmer Connect](https://podcasts.apple.com/us/podcast/supply-chain-revolution/id1496899179?i=1000507363757) Supply Chain Revolution
 
 Think about the journey of a coffee bean from East Africa to the consumer. Thousands of miles away in the 1 sip to field wrapped in a complex, and often unsustainable, inequitable supply chain. There are 25 million people living in the coffee ecosystem, and 2.5 billion coffee drinkers worldwide, and that number is expected to 2-3X in coming years.
 ## Cerebrum

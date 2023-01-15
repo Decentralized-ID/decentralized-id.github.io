@@ -4,7 +4,7 @@ published: false
 
 # Governance
 
-* [Data Unions, Banks, Coops, Fiduciaries etc – has their time come?](https://iiw.idcommons.net/3D/_Data_Unions,_Banks,_Coops,_Fiduciaries_etc_--_has_their_time_come%253F) by Johannes Ernst
+* [Data Unions, Banks, Coops, Fiduciaries etc – has their time come?](https://iiw.idcommons.net/3D/_Data_Unions,_Banks,_Coops,_Fiduciaries_etc_--_has_their_time_come%3F) by Johannes Ernst
 
 Historical analogies: rural electrification, telecommunications, insurance
 
@@ -32,7 +32,7 @@ My use case is I want to operate [https://twitter.com/permanentcpu](https://twit
 
 * [https://en.wikipedia.org/wiki/Rochdale_Principles](https://en.wikipedia.org/wiki/Rochdale_Principles)
 
-“The earliest mutual organization established in the British North American colonies was created in 1735 in Charleston, SC” [https://en.wikipedia.org/wiki/History_of_cooperatives_in_the_United_States#18th_century](https://en.wikipedia.org/wiki/History_of_cooperatives_in_the_United_States%2318th_century)
+“The earliest mutual organization established in the British North American colonies was created in 1735 in Charleston, SC” [https://en.wikipedia.org/wiki/History_of_cooperatives_in_the_United_States#18th_century](https://en.wikipedia.org/wiki/History_of_cooperatives_in_the_United_States#18th_century)
 
 “The Philadelphia Contributionship mutual insurance company, founded by Benjamin Franklin in 1752, is the oldest continuing mutual insurance company in the continental United States. “
 
@@ -70,9 +70,9 @@ Then run [https://github.com/solid/community-server](https://github.com/solid/co
 
 * [https://www.sitra.fi/en/topics/fair-data-economy/](https://www.sitra.fi/en/topics/fair-data-economy/)
 
-* [https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1587410240363x746891124614691500%2Fmartech_2020_final-1600x900-web.jpg?w=1024&h=576&auto=compress&dpr=2&fit=max](https://d1muf25xaso8hp.cloudfront.net/https%253A%252F%252Fs3.amazonaws.com%252Fappforest_uf%252Ff1587410240363x746891124614691500%252Fmartech_2020_final-1600x900-web.jpg?w%3D1024%26h%3D576%26auto%3Dcompress%26dpr%3D2%26fit%3Dmax)
+* [https://d1muf25xaso8hp.cloudfront.net/https%3A//s3.amazonaws.com/appforest_uf/f1587410240363x746891124614691500/martech_2020_final-1600x900-web.jpg?w=1024&h=576&auto=compress&dpr=2&fit=max](https://d1muf25xaso8hp.cloudfront.net/https%3A//s3.amazonaws.com/appforest_uf/f1587410240363x746891124614691500/martech_2020_final-1600x900-web.jpg?w=1024&h=576&auto=compress&dpr=2&fit=max)
 
-* [SSI for Organizations: Who’s behind this DID?](https://iiw.idcommons.net/14G/_SSI_for_Organizations:_Who%2527s_behind_this_DID%253F) by Dominic Wörner, Christian Bormann, Michael Schäfer ([video](https://eu01web.zoom.us/rec/play/hh2Uribpcy71pc7u0D_-7XCVoBmmC6feq22r4rgbnYBwnBnCd3Zib8l6WvhpOT0Esu5eFdhk00F38vaX.Z23dGksHI22vsdde?continueMode%3Dtrue)
+* [SSI for Organizations: Who’s behind this DID?](https://iiw.idcommons.net/14G/_SSI_for_Organizations:_Who%27s_behind_this_DID%3F) by Dominic Wörner, Christian Bormann, Michael Schäfer ([video](https://eu01web.zoom.us/rec/play/hh2Uribpcy71pc7u0D_-7XCVoBmmC6feq22r4rgbnYBwnBnCd3Zib8l6WvhpOT0Esu5eFdhk00F38vaX.Z23dGksHI22vsdde?continueMode=true)
 
 * [Public profile - Machine-readable, cryptographially-verifiable imprint linked to a DID](https://hackmd.io/4oZOgwFOQDSFUuu3ruN-_g)
 
@@ -88,7 +88,7 @@ a simple mechanism to provide public information concerning an entity by adverti
 * [3 Stages of a Pan-African Identity Framework for Establishing Self-Sovereign Identity With Blockchain](https://www.frontiersin.org/articles/10.3389/fbloc.2021.631640/full) Solomon Darnell, Joseph Sevilla
 
 Three stages have been identified as necessities to accomplish the development of this system before opening it further beyond the pan-African worldwide community. The three stages are defined by systems that allow for biometric/demographic registration (stage 1), interoperability and security hardening (stage 2), and biometric modality data analysis/organization/association (stage 3).
-* [Governance: Clarifying or confusing the marketplace?](https://iiw.idcommons.net/19A/_Governance:_Clarifying_or_confusing_the_marketplace%253F)
+* [Governance: Clarifying or confusing the marketplace?](https://iiw.idcommons.net/19A/_Governance:_Clarifying_or_confusing_the_marketplace%3F)
 
 Governance in decentralized identity is more akin to “technical rules and instructions.” This is highly disfluent in part because it is so extensive and in part because it relies on a new vocab that uses familiar words in unfamiliar ways. All of this creates disfluency to such a degree that it is unpleasant to contemplate and that unpleasantness is transferred onto the product.
 
@@ -112,7 +112,7 @@ As we have presented these affirmations at prior IIW and since then to others - 
 
 This is a Call to Action for IIW to support our role as a convenor in this important area of human rights in cyberspace.
 
-* [UDDI & UDDR - Common language once and for all?](https://iiw.idcommons.net/20D/_UDDI_%2526_UDDR_-_Common_language_once_and_for_all%253F)
+* [UDDI & UDDR - Common language once and for all?](https://iiw.idcommons.net/20D/_UDDI_%26_UDDR_-_Common_language_once_and_for_all%3F)
 
 Query of nature of governance and role of programmers.
 
@@ -254,7 +254,7 @@ Links from chat: [http://emoglen.law.columbia.edu/LIS/archive/privacy-legis/IST
 
 * [https://github.com/Open-Notice/OPN-Workshop-05-04-21](https://github.com/Open-Notice/OPN-Workshop-05-04-21)
 
-* [Practical Perspectives on the collapse of zero-sum civilizations and the emergence of computational sovereigns and a pattern approach to digital equity governance: The source of the problems is the source of the solutions](https://iiw.idcommons.net/index.php?title%3D22I/_Practical_Perspectives_on_the_collapse_of_zero-sum_civilizations_and_the_emergence_of_computational_sovereigns_and_a_pattern_approach_to_digital_equity_governance:_The_source_of_the_problems_is_the_source_of_the_solutions.%26action%3Dedit%26redlink%3D1).
+* [Practical Perspectives on the collapse of zero-sum civilizations and the emergence of computational sovereigns and a pattern approach to digital equity governance: The source of the problems is the source of the solutions](https://iiw.idcommons.net/index.php?title=22I/_Practical_Perspectives_on_the_collapse_of_zero-sum_civilizations_and_the_emergence_of_computational_sovereigns_and_a_pattern_approach_to_digital_equity_governance:_The_source_of_the_problems_is_the_source_of_the_solutions.&action=edit&redlink=1).
 
 
 
@@ -279,8 +279,8 @@ Questions started at about [46:30]  – though some questions came earlier. We 
 
 * [LAYER 1 UTILITIES: AN UNDERGROUND NETWORK CONNECTING ALL SSI ECOSYSTEMS](https://trustoverip.org/blog/2022/03/04/layer-1-utilities-an-underground-network-connecting-all-ssi-ecosystems/) Trust Over IP
 
-- Understand: [A general framework for choosing which Layer 1 Utility and did method to utilise](https://docs.google.com/document/d/10NGAtlov49dbaDX96C0F4MdRrr20eHiE4RSZfJu0oXU/edit%23heading%3Dh.3e0mwiwnhg9n)
-- Compare: [A comparison chart of all Layer 1 Utilities and identity overlay networks](https://docs.google.com/spreadsheets/d/18MpvpFPLjL2I7RSFI44heWrrvf3l9pAArzhznAPFVAQ/edit%23gid%3D0)
+- Understand: [A general framework for choosing which Layer 1 Utility and did method to utilise](https://docs.google.com/document/d/10NGAtlov49dbaDX96C0F4MdRrr20eHiE4RSZfJu0oXU/edit#heading=h.3e0mwiwnhg9n)
+- Compare: [A comparison chart of all Layer 1 Utilities and identity overlay networks](https://docs.google.com/spreadsheets/d/18MpvpFPLjL2I7RSFI44heWrrvf3l9pAArzhznAPFVAQ/edit#gid=0)
 - Comply: [A guidance document for data protection and GDPR compliance](https://docs.google.com/document/d/11KkdraiY9oASjU-H91MGxJ7-mNyhnCsfNSG4MFq8Qec/edit)
 - Innovate: DeFi compliance on top of Layer 1 Utilities ([Shyft](https://www.shyft.network/), [Notabene](https://notabene.id/), [Centre](https://www.centre.io/)), payments for Verifiable Credentials ([cheqd](https://www.cheqd.io/), [Kilt](https://www.kilt.io/), [Velocity](https://www.velocitynetwork.foundation/self-sovereign-identity-ssi-and-the-velocity-network/)), overlay networks ([did:ion](https://identity.foundation/ion/), [did:tz](https://did-tezos-draft.spruceid.com/), [did:orb](https://securekey.com/securekeys-new-ledger-agnostic-solution-orb-helps-solve-decentralized-identifier-challenges/)), [KERI](https://keri.one/) and self-certifying identifiers, self-executable governance (to name a few!) are all Layer 1 Utility innovations on the horizon. Let us know what you’d like to see going forward and how we can build guidance and documentation around it!
 
@@ -330,7 +330,7 @@ Because DAOs do not have a sovereign above them, and are often explicitly in the
 - Does placing too much Governance at the Verifiable Data Registry layer cause scaling issues?
 - Why DNS can become an elegant Root of Trust solution to validate the authenticity of Credential Issuers.
 - Who in the Trust Triangle benefits the most from Trust Registries
-* [Solving Governance in SSI Ecosystems with Trust Registries.](https://www.youtube.com/watch?v%3D5zZKIwesSl8) Trust over IP Foundation
+* [Solving Governance in SSI Ecosystems with Trust Registries.](https://www.youtube.com/watch?v=5zZKIwesSl8) Trust over IP Foundation
 
 Learn the what and the why behind trust registries.  In addition to discussing how trust registries solve governance in verifiable credential ecosystems, Tomislav demos the very first implementation of ToIP’s trust registry specification.
 
@@ -340,10 +340,10 @@ Learn the what and the why behind trust registries.  In addition to discussing 
   > Given the audience of 8-10 people, we polled the reasons for attending a topic on Trust Assurance and discussed a few gnarly challenges in the space:
   > 
   > 1. An owner of a background check company conveyed challenges with complying with a myriad of governance authority frameworks audited by a myriad of qualified/unqualified auditors looking at a myriad of evidence to render a judgement
-  > 2. The addition of privacy controls (notice and consent) to augment existing marketplace controls due to the specific need in SSI networks: [https://kantarainitiative.org/confluence/display/WA/Privacy+as+Expected%3A+UI+Signalling+a+Consent+Gateway+For+Human+Consent](https://kantarainitiative.org/confluence/display/WA/Privacy%2Bas%2BExpected%253A%2BUI%2BSignalling%2Ba%2BConsent%2BGateway%2BFor%2BHuman%2BConsent)
+  > 2. The addition of privacy controls (notice and consent) to augment existing marketplace controls due to the specific need in SSI networks: [https://kantarainitiative.org/confluence/display/WA/Privacy+as+Expected%3A+UI+Signalling+a+Consent+Gateway+For+Human+Consent](https://kantarainitiative.org/confluence/display/WA/Privacy+as+Expected%3A+UI+Signalling+a+Consent+Gateway+For+Human+Consent)
   > 3. A discussion of the China Civil Code: [https://www.dlapiper.com/en/uk/insights/publications/2020/06/new-chinese-civil-code-introduces-greater-protection-of-privacy-rights-and-personal-information/](https://www.dlapiper.com/en/uk/insights/publications/2020/06/new-chinese-civil-code-introduces-greater-protection-of-privacy-rights-and-personal-information/)
   > 4. A need for a civilian clearance credential.
-* [Is the verifiable credential trust triangle incomplete?](https://iiw.idcommons.net/3M/_Is_the_verifiable_credential_trust_triangle_incomplete%253F) by Riley Hughes
+* [Is the verifiable credential trust triangle incomplete?](https://iiw.idcommons.net/3M/_Is_the_verifiable_credential_trust_triangle_incomplete%3F) by Riley Hughes
   > VC marketplace project at DIF is talking about a reputation system for issuers, using VCs
   > 
   > We need to agree on:

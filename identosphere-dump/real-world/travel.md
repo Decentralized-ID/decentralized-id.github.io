@@ -41,7 +41,7 @@ As chair of the [Hospitality and Travel Special Interest Group](https://lists.id
 
 At [Phocuswright Europe](https://www.phocuswrighteurope.com/), [Nick] Price explains how this technology – and the trusted, permissioned, secure communication it enables -  will change the way suppliers and travelers interact and eliminate impediments that exist today.
 
-* [Traveller ID Ecosystem | ProofSpace x RateTiger Integration](https://www.youtube.com/watch?v%3DExHEUpl9lKo) ProofSpace
+* [Traveller ID Ecosystem | ProofSpace x RateTiger Integration](https://www.youtube.com/watch?v=ExHEUpl9lKo) ProofSpace
 
 Guests can reclaim, re-use and protect their personal data, the "Traveller ID", within the ecosystem of participating hotels.
 

@@ -73,28 +73,28 @@ DIACC is seeking a highly motivated English and French bilingual Project Coordin
 
 * [Daon](https://www.daon.com/job-openings/)
 
-- [Customer Support Services Engineer](https://daoninc.bamboohr.com/jobs/view.php?id%3D206)
-- [Remote - Database Engineer/Administrator](https://daoninc.bamboohr.com/jobs/view.php?id%3D204)
-- [Frontend Developer](https://daoninc.bamboohr.com/jobs/view.php?id%3D201)
-- [Product Marketing Manager](https://daoninc.bamboohr.com/jobs/view.php?id%3D200)
-- [Application Support Engineer](https://daoninc.bamboohr.com/jobs/view.php?id%3D196)
-- [C/C++ Developer](https://daoninc.bamboohr.com/jobs/view.php?id%3D195)
-- [IOS Engineer](https://daoninc.bamboohr.com/jobs/view.php?id%3D194)
-- [Android Engineer](https://daoninc.bamboohr.com/jobs/view.php?id%3D193)
-- [Developer](https://daoninc.bamboohr.com/jobs/view.php?id%3D192)
-- [Senior DevOps Engineer](https://daoninc.bamboohr.com/jobs/view.php?id%3D188)
-- [Sales Development Representative](https://daoninc.bamboohr.com/jobs/view.php?id%3D183)
-- [Customer Support Services Engineer](https://daoninc.bamboohr.com/jobs/view.php?id%3D179)
-- [Senior Technical Consultant](https://daoninc.bamboohr.com/jobs/view.php?id%3D173)
-- [Pre–Sales Solution Consultant](https://daoninc.bamboohr.com/jobs/view.php?id%3D172)
-- [Customer Support Services Engineer](https://daoninc.bamboohr.com/jobs/view.php?id%3D170)
-- [Database Engineer/Administrator](https://daoninc.bamboohr.com/jobs/view.php?id%3D158)
-- [Automation Test Engineer](https://daoninc.bamboohr.com/jobs/view.php?id%3D151)
-- [DevOps Engineer](https://daoninc.bamboohr.com/jobs/view.php?id%3D144)
-- [Senior Java Engineer- VeriFLY](https://daoninc.bamboohr.com/jobs/view.php?id%3D140)
-- [Data Collection Associate](https://daoninc.bamboohr.com/jobs/view.php?id%3D133)
-- [Java Engineer](https://daoninc.bamboohr.com/jobs/view.php?id%3D21)
-- [Senior Java Engineer](https://daoninc.bamboohr.com/jobs/view.php?id%3D19)
+- [Customer Support Services Engineer](https://daoninc.bamboohr.com/jobs/view.php?id=206)
+- [Remote - Database Engineer/Administrator](https://daoninc.bamboohr.com/jobs/view.php?id=204)
+- [Frontend Developer](https://daoninc.bamboohr.com/jobs/view.php?id=201)
+- [Product Marketing Manager](https://daoninc.bamboohr.com/jobs/view.php?id=200)
+- [Application Support Engineer](https://daoninc.bamboohr.com/jobs/view.php?id=196)
+- [C/C++ Developer](https://daoninc.bamboohr.com/jobs/view.php?id=195)
+- [IOS Engineer](https://daoninc.bamboohr.com/jobs/view.php?id=194)
+- [Android Engineer](https://daoninc.bamboohr.com/jobs/view.php?id=193)
+- [Developer](https://daoninc.bamboohr.com/jobs/view.php?id=192)
+- [Senior DevOps Engineer](https://daoninc.bamboohr.com/jobs/view.php?id=188)
+- [Sales Development Representative](https://daoninc.bamboohr.com/jobs/view.php?id=183)
+- [Customer Support Services Engineer](https://daoninc.bamboohr.com/jobs/view.php?id=179)
+- [Senior Technical Consultant](https://daoninc.bamboohr.com/jobs/view.php?id=173)
+- [Pre–Sales Solution Consultant](https://daoninc.bamboohr.com/jobs/view.php?id=172)
+- [Customer Support Services Engineer](https://daoninc.bamboohr.com/jobs/view.php?id=170)
+- [Database Engineer/Administrator](https://daoninc.bamboohr.com/jobs/view.php?id=158)
+- [Automation Test Engineer](https://daoninc.bamboohr.com/jobs/view.php?id=151)
+- [DevOps Engineer](https://daoninc.bamboohr.com/jobs/view.php?id=144)
+- [Senior Java Engineer- VeriFLY](https://daoninc.bamboohr.com/jobs/view.php?id=140)
+- [Data Collection Associate](https://daoninc.bamboohr.com/jobs/view.php?id=133)
+- [Java Engineer](https://daoninc.bamboohr.com/jobs/view.php?id=21)
+- [Senior Java Engineer](https://daoninc.bamboohr.com/jobs/view.php?id=19)
 
 * [Deloitte](https://apply.deloitte.com/careers/SearchJobs/identity)
 
@@ -103,22 +103,22 @@ DIACC is seeking a highly motivated English and French bilingual Project Coordin
 - [Principal Identity Engineer](https://boards.greenhouse.io/forgerock/jobs/6131407002)
 - [Senior Sales Specialist, Autonomous Identity](https://boards.greenhouse.io/forgerock/jobs/5756065002)
 
-* [IDEMIA](https://uscareers-idemia.icims.com/jobs/search?ss%3D1%26searchKeyword%3Didentity%26searchCategory%3D8730)
+* [IDEMIA](https://uscareers-idemia.icims.com/jobs/search?ss=1&searchKeyword=identity&searchCategory=8730)
 
-- [Cloud Engineer II](https://uscareers-idemia.icims.com/jobs/4912/cloud-engineer-ii/job?in_iframe%3D1) - Participate cloud adoption efforts that span multiple disciplines
-- [Help Desk Technician II](https://uscareers-idemia.icims.com/jobs/4897/help-desk-technician-ii/job?in_iframe%3D1) - Record, troubleshoot, escalate and follow-up with end-users regarding IT support matters
-- [Senior Cloud Security Engineer](https://uscareers-idemia.icims.com/jobs/4890/senior-cloud-security-engineer/job?in_iframe%3D1) - Implementing the systems aiding in real-time monitoring and analysis of security events from multiple sources including, but not limited to: Antivirus, EDR, SIEM, HIDS, IDS, WAF, firewall logs, system logs (Windows & Linux), applications, databases etc
-- [Senior Software Engineer](https://uscareers-idemia.icims.com/jobs/4860/senior-software-engineer/job?in_iframe%3D1) - Work on a team of developers and QA engineers - Provide analysis, design, software changes/enhancements and bug fixes as needed
-- [HSM Key Administrator Level 1](https://uscareers-idemia.icims.com/jobs/4853/hsm-key-administrator-level-1/job?in_iframe%3D1) - Configure, maintain and ensure that all HSM (Hardware Security Module) servers are operational and will meet the capacity demand
-- [Software Engineer III](https://uscareers-idemia.icims.com/jobs/4844/software-engineer-iii/job?in_iframe%3D1) - Analyze and document user requirements - Design, test and develop software solutions to meet requirements
-- [Programmer I](https://uscareers-idemia.icims.com/jobs/4573/programmer-i/job?in_iframe%3D1) - Demonstrates expert knowledge of the company’s technical capabilities and processes appropriate to customer’s needs
-- [Digitalization Project Engineer I - VIE](https://uscareers-idemia.icims.com/jobs/4529/digitalization-project-engineer-i---vie/job?in_iframe%3D1) - Gather technical and functional requirements for the Go-Live through workshops with the supplier (MPDV). - Analyze MES data needs for the plant to align development, implementation and configuration of the application
-- [Technical Project Leader](https://uscareers-idemia.icims.com/jobs/4437/technical-project-leader/job?in_iframe%3D1) - Drive the delivery and adoption of Mobile ID by citizens in every state and province
-- [Technical Consultant II](https://uscareers-idemia.icims.com/jobs/4372/technical-consultant-ii/job?in_iframe%3D1) - Provide technical support related to banking project such as card personalization, card development cycle, and key management.
-- [Manager Project / Program](https://uscareers-idemia.icims.com/jobs/4346/manager-project---program/job?in_iframe%3D1) - As part of the US ERP implementation team you will be leading the manufacturing part of the project, ensuring the Business needs are fulfilled in line with the Core Model already defined and the adopt (and not adapt) project philosophy
-- [Network Engineer (Open to Reston OR Billerica OR Brentwood)](https://uscareers-idemia.icims.com/jobs/4340/network-engineer-%2528open-to-reston-or-billerica-or-brentwood%2529/job?in_iframe%3D1) - Configure, install and troubleshoot network technologies, such as routers, switches, and firewalls, including: configuring and troubleshooting routing (BGP), MPLS and QOS
-- [Technical Consultant I (Smart Card)](https://uscareers-idemia.icims.com/jobs/4183/technical-consultant-i-%2528smart-card%2529/job?in_iframe%3D1) - Provide technical support related to banking project such as card personalization, card development cycle, and key management.
-- [Network Administrator](https://uscareers-idemia.icims.com/jobs/3997/network-administrator/job?in_iframe%3D1) - Work on-site as part of Local IT team to support production.
+- [Cloud Engineer II](https://uscareers-idemia.icims.com/jobs/4912/cloud-engineer-ii/job?in_iframe=1) - Participate cloud adoption efforts that span multiple disciplines
+- [Help Desk Technician II](https://uscareers-idemia.icims.com/jobs/4897/help-desk-technician-ii/job?in_iframe=1) - Record, troubleshoot, escalate and follow-up with end-users regarding IT support matters
+- [Senior Cloud Security Engineer](https://uscareers-idemia.icims.com/jobs/4890/senior-cloud-security-engineer/job?in_iframe=1) - Implementing the systems aiding in real-time monitoring and analysis of security events from multiple sources including, but not limited to: Antivirus, EDR, SIEM, HIDS, IDS, WAF, firewall logs, system logs (Windows & Linux), applications, databases etc
+- [Senior Software Engineer](https://uscareers-idemia.icims.com/jobs/4860/senior-software-engineer/job?in_iframe=1) - Work on a team of developers and QA engineers - Provide analysis, design, software changes/enhancements and bug fixes as needed
+- [HSM Key Administrator Level 1](https://uscareers-idemia.icims.com/jobs/4853/hsm-key-administrator-level-1/job?in_iframe=1) - Configure, maintain and ensure that all HSM (Hardware Security Module) servers are operational and will meet the capacity demand
+- [Software Engineer III](https://uscareers-idemia.icims.com/jobs/4844/software-engineer-iii/job?in_iframe=1) - Analyze and document user requirements - Design, test and develop software solutions to meet requirements
+- [Programmer I](https://uscareers-idemia.icims.com/jobs/4573/programmer-i/job?in_iframe=1) - Demonstrates expert knowledge of the company’s technical capabilities and processes appropriate to customer’s needs
+- [Digitalization Project Engineer I - VIE](https://uscareers-idemia.icims.com/jobs/4529/digitalization-project-engineer-i---vie/job?in_iframe=1) - Gather technical and functional requirements for the Go-Live through workshops with the supplier (MPDV). - Analyze MES data needs for the plant to align development, implementation and configuration of the application
+- [Technical Project Leader](https://uscareers-idemia.icims.com/jobs/4437/technical-project-leader/job?in_iframe=1) - Drive the delivery and adoption of Mobile ID by citizens in every state and province
+- [Technical Consultant II](https://uscareers-idemia.icims.com/jobs/4372/technical-consultant-ii/job?in_iframe=1) - Provide technical support related to banking project such as card personalization, card development cycle, and key management.
+- [Manager Project / Program](https://uscareers-idemia.icims.com/jobs/4346/manager-project---program/job?in_iframe=1) - As part of the US ERP implementation team you will be leading the manufacturing part of the project, ensuring the Business needs are fulfilled in line with the Core Model already defined and the adopt (and not adapt) project philosophy
+- [Network Engineer (Open to Reston OR Billerica OR Brentwood)](https://uscareers-idemia.icims.com/jobs/4340/network-engineer-%28open-to-reston-or-billerica-or-brentwood%29/job?in_iframe=1) - Configure, install and troubleshoot network technologies, such as routers, switches, and firewalls, including: configuring and troubleshooting routing (BGP), MPLS and QOS
+- [Technical Consultant I (Smart Card)](https://uscareers-idemia.icims.com/jobs/4183/technical-consultant-i-%28smart-card%29/job?in_iframe=1) - Provide technical support related to banking project such as card personalization, card development cycle, and key management.
+- [Network Administrator](https://uscareers-idemia.icims.com/jobs/3997/network-administrator/job?in_iframe=1) - Work on-site as part of Local IT team to support production.
 
 ### iProov
 
@@ -126,16 +126,16 @@ DIACC is seeking a highly motivated English and French bilingual Project Coordin
 - [Head of Product Innovation](https://jobs.gohire.io/iproov-fzoa1liw/head-of-product-innovation-86015/)
 - [VP of Artificial Intelligence](https://jobs.gohire.io/iproov-fzoa1liw/vp-of-ai-artificial-intelligence-52039)
 
-* [Microsoft](https://careers.microsoft.com/us/en/search-results?keywords%3Didentity) (10913 jobs in Identity)
+* [Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=identity) (10913 jobs in Identity)
 
-- [Senior Program Manager](https://careers.microsoft.com/us/en/login?qpage%3D%252Fus%252Fen%252Fjob%252F1180440%252F)
-- [Senior Program Manager](https://careers.microsoft.com/us/en/login?qpage%3D%252Fus%252Fen%252Fjob%252F1180437)
-- [Program Manager 2](https://careers.microsoft.com/us/en/login?qpage%3D%252Fus%252Fen%252Fjob%252F1160056%252FProgram-Manager-2)
+- [Senior Program Manager](https://careers.microsoft.com/us/en/login?qpage=/us/en/job/1180440/)
+- [Senior Program Manager](https://careers.microsoft.com/us/en/login?qpage=/us/en/job/1180437)
+- [Program Manager 2](https://careers.microsoft.com/us/en/login?qpage=/us/en/job/1160056/Program-Manager-2)
 - SDE for OAuth SDK, Javascript - janutter@microsoft
 - Decentralized ID Standards - Dublin
 - Identity Standards Architect - Dublin
 
-* [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers?q%3Didentity) (lots more inside)
+* [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers?q=identity) (lots more inside)
 
 - [Manager, Product Experience Design](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dublin-Ireland/Manager--Product-Experience-Design_R-161479) Dublin, Ireland
 - [Manager, Identity Solutions Strategy](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Vancouver-Canada/Manager--Identity-Solutions-IoT-Strategy_R-133754) Vancouver, Canada
@@ -145,10 +145,10 @@ DIACC is seeking a highly motivated English and French bilingual Project Coordin
 
 * [Ping Identity](https://www.pingidentity.com/de/company/careers/careers-listings.html) (lots more inside)
 
-- [Strategic Account Executive](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1%2B113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w0-S5knJ3V3Zsc37CgZDLW9hMFYp89RvL_W4LrGGj4TjN26W1yQWZn8mQ463W55vn6S6b5zrMW6hd0yc76qj94W5bZ4Xn4GjZcWN1ScDbtHZ0ddN25cCXKtnHnXW55w80s5nG-jWW9fbQpb7YfF3wW5bDK782gl0B9VzXqpZ3yWM5QW3mqcF034pWDzVGn9xK4PT--XN9k1p0grxvPGW1MWQxx2rQBnRW4XFhqK61MKPPW5_J5HN4vb8tnW2DyKnp2h-C7rW5Rl06q4bTNyKN8yCD_wXTcFmW7HrDJW6-3syxW5LvlDx3KcCVmW3RzyvQ9lqmjYW1WnXmJ1lsbQZW3sDCVr49512sW7vHwpZ7DDfbhW5ncS0w8H8hRpW5KqQqH9k6lB4W789WKk45f01GW9jX44v4BH3k0Vk2VT-1n28lq3j_q1)
-- [FP&A Team Lead](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1%2B113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w0-S5knJ3V3Zsc37CgZq5N9lC2RzhD7qkW74VZ2v3MKKKVW7qlPyD4wHHvtW78FzXQ7h3DS9W1mTJbp1YMJMCW5Kb96j7pQ8Z_W7RBPZj88JqV1W24Lg-S6z-qXwW7sFsHZ5xJx6QW7qTF_c9dfNxlW90HXS84R4Jj3VlmQXh3BY8FXW9jpbpc6mrvsvW6QbD586smPFlW53PsMD4CMXLZW7ckfLH68TsbfN2thwqjf0YFHW38JXb88yGKCtW7wTJw479_4FmW289N6r3Cc1jQW3_JWDq1KF9XHW3-T-f85zPvp7W7_jNmx3kCKV2W6cV79X7gWC4MW484xKf2G6sG6VdZnTY2Vj7MGW1f7X5w6Pdl-RW8XlSyt3rTb6PW8D813F7gcVf1VZ2Ndh7XW2nVW8hJsxD7x9MQCW4h7NS8392fCc3fjy1)
-- [Cloud Operations Engineer](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1%2B113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w0-S5knJ3V3Zsc37CgGs-W4MPRp45kg85XN1SQvD53W-mwW638nLP93FNlCW305zFc2BGDLpW6qvN8j94rghtW4Hgl7S1q_2vZW6GJMDm1WKy9xW3Zbm3k2lrnJQW35tY7b7YlFV0W8yvM-x80Km9fW4FBStl7nB9t4F7JR_b3KYy7W4Bsbkt45hH1qW5-3rlh3-8Pv6V58jK-4TCxknW44TDmp4gQ7s7W2GKTCt1jPKH7W8MkTKw4pg7RpW5GJQRf16HrklW7nfH1m4ndY76W5PpFK13njGz2W2btBjC7KVZX_W6jCSsX3X6mT3W8sBWN-5sNqC3VGCKV04BKtq_W74vbFQ5r1ZKhW8Cccc21G0HzlN2LYQmJK79dcN1_Z9S5LdxplN5BqC0vDJhXxW57sxhm7mS5dTW64DyzP5BbB1v3g431)
-- [Site Reliability Engineer](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1%2B113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w0-S5knJ3V3Zsc37CgQMnW8QTZCB2lXgSGW1cvKgC2WDsC3W8Vy9DH8BZlS8W44Jpgs5prYBsW4dsvCr5mH82ZN3cd5wjY61xTN6Dvt-VLFZtkW7wcTrs2zpkdMW120nyx1dM4KtVKkZTh3DbGP1W9822TT28PDrTW2w-PTc3kXQN7W3K20Nd8xgvKwW22z7d46Kfd66W3h399t38KFMdN592Td8sk2dSW4Rr9SK7813DqW4_5hc29kldbkW22kQ0b1FxS21W2vc3Jq5xFCwDW4XNpFT1rYXwsN7XKRrZdvLLsW3M58TT2X-qKXW8zjcK05SnH2gW4RxcSJ3KZ50gW8SckVT7nfNn9W5v4CVh7Sj-9TW9kscWx4pZBXmW3GHksf7HyC8YW48xNQw8GN56XW4HBMny5RnRhlW99PvWz3CSCwq3bp71)
+- [Strategic Account Executive](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1+113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w0-S5knJ3V3Zsc37CgZDLW9hMFYp89RvL_W4LrGGj4TjN26W1yQWZn8mQ463W55vn6S6b5zrMW6hd0yc76qj94W5bZ4Xn4GjZcWN1ScDbtHZ0ddN25cCXKtnHnXW55w80s5nG-jWW9fbQpb7YfF3wW5bDK782gl0B9VzXqpZ3yWM5QW3mqcF034pWDzVGn9xK4PT--XN9k1p0grxvPGW1MWQxx2rQBnRW4XFhqK61MKPPW5_J5HN4vb8tnW2DyKnp2h-C7rW5Rl06q4bTNyKN8yCD_wXTcFmW7HrDJW6-3syxW5LvlDx3KcCVmW3RzyvQ9lqmjYW1WnXmJ1lsbQZW3sDCVr49512sW7vHwpZ7DDfbhW5ncS0w8H8hRpW5KqQqH9k6lB4W789WKk45f01GW9jX44v4BH3k0Vk2VT-1n28lq3j_q1)
+- [FP&A Team Lead](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1+113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w0-S5knJ3V3Zsc37CgZq5N9lC2RzhD7qkW74VZ2v3MKKKVW7qlPyD4wHHvtW78FzXQ7h3DS9W1mTJbp1YMJMCW5Kb96j7pQ8Z_W7RBPZj88JqV1W24Lg-S6z-qXwW7sFsHZ5xJx6QW7qTF_c9dfNxlW90HXS84R4Jj3VlmQXh3BY8FXW9jpbpc6mrvsvW6QbD586smPFlW53PsMD4CMXLZW7ckfLH68TsbfN2thwqjf0YFHW38JXb88yGKCtW7wTJw479_4FmW289N6r3Cc1jQW3_JWDq1KF9XHW3-T-f85zPvp7W7_jNmx3kCKV2W6cV79X7gWC4MW484xKf2G6sG6VdZnTY2Vj7MGW1f7X5w6Pdl-RW8XlSyt3rTb6PW8D813F7gcVf1VZ2Ndh7XW2nVW8hJsxD7x9MQCW4h7NS8392fCc3fjy1)
+- [Cloud Operations Engineer](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1+113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w0-S5knJ3V3Zsc37CgGs-W4MPRp45kg85XN1SQvD53W-mwW638nLP93FNlCW305zFc2BGDLpW6qvN8j94rghtW4Hgl7S1q_2vZW6GJMDm1WKy9xW3Zbm3k2lrnJQW35tY7b7YlFV0W8yvM-x80Km9fW4FBStl7nB9t4F7JR_b3KYy7W4Bsbkt45hH1qW5-3rlh3-8Pv6V58jK-4TCxknW44TDmp4gQ7s7W2GKTCt1jPKH7W8MkTKw4pg7RpW5GJQRf16HrklW7nfH1m4ndY76W5PpFK13njGz2W2btBjC7KVZX_W6jCSsX3X6mT3W8sBWN-5sNqC3VGCKV04BKtq_W74vbFQ5r1ZKhW8Cccc21G0HzlN2LYQmJK79dcN1_Z9S5LdxplN5BqC0vDJhXxW57sxhm7mS5dTW64DyzP5BbB1v3g431)
+- [Site Reliability Engineer](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1+113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w0-S5knJ3V3Zsc37CgQMnW8QTZCB2lXgSGW1cvKgC2WDsC3W8Vy9DH8BZlS8W44Jpgs5prYBsW4dsvCr5mH82ZN3cd5wjY61xTN6Dvt-VLFZtkW7wcTrs2zpkdMW120nyx1dM4KtVKkZTh3DbGP1W9822TT28PDrTW2w-PTc3kXQN7W3K20Nd8xgvKwW22z7d46Kfd66W3h399t38KFMdN592Td8sk2dSW4Rr9SK7813DqW4_5hc29kldbkW22kQ0b1FxS21W2vc3Jq5xFCwDW4XNpFT1rYXwsN7XKRrZdvLLsW3M58TT2X-qKXW8zjcK05SnH2gW4RxcSJ3KZ50gW8SckVT7nfNn9W5v4CVh7Sj-9TW9kscWx4pZBXmW3GHksf7HyC8YW48xNQw8GN56XW4HBMny5RnRhlW99PvWz3CSCwq3bp71)
 
 * [Royal Bank of Canada](https://jobs.rbc.com/ca/en/) (lots more inside)
 
@@ -169,10 +169,10 @@ DIACC is seeking a highly motivated English and French bilingual Project Coordin
 - [Senior Manager, EIAM Strategy](https://jobs.rbc.com/ca/en/job/R-0000002751/Senior-Manager-EIAM-Strategy)
 - [Senior IAM Solution Architect](https://jobs.rbc.com/ca/en/job/R-0000002113/Senior-Solution-Architect-IAM-GCS)
 
-* [Simeio](https://hdip.fa.ap4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword%3Didentity)
+* [Simeio](https://hdip.fa.ap4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?keyword=identity)
 
-- [VP of Identity and Access Management Delivery](https://hdip.fa.ap4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/23/?keyword%3Didentity)
-- [Sr. IAM Systems Engineer](https://hdip.fa.ap4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33/?keyword%3Didentity)
+- [VP of Identity and Access Management Delivery](https://hdip.fa.ap4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/23/?keyword=identity)
+- [Sr. IAM Systems Engineer](https://hdip.fa.ap4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/33/?keyword=identity)
 
 * [Sphere](https://www.sphereco.com/company-overview/careers)
 
@@ -188,31 +188,31 @@ DIACC is seeking a highly motivated English and French bilingual Project Coordin
 
 * [Trulioo](https://www.trulioo.com/company/careers)
 
-- [Data Engineer](https://www.trulioo.com/apply?gh_jid%3D4337667004)
-- [Front End Engineer](https://www.trulioo.com/apply?gh_jid%3D4442248004)
-- [Front End Engineer](https://www.trulioo.com/apply?gh_jid%3D4442195004)
-- [Manager, Data Analytics](https://www.trulioo.com/apply?gh_jid%3D4457646004)
-- [Senior Software Engineer](https://www.trulioo.com/apply?gh_jid%3D4332833004)
-- [Senior Software Engineer- Remote](https://www.trulioo.com/apply?gh_jid%3D4327675004)
-- [Senior Software Engineer- Remote](https://www.trulioo.com/apply?gh_jid%3D4358360004)
-- [Software Engineer](https://www.trulioo.com/apply?gh_jid%3D4489240004)
+- [Data Engineer](https://www.trulioo.com/apply?gh_jid=4337667004)
+- [Front End Engineer](https://www.trulioo.com/apply?gh_jid=4442248004)
+- [Front End Engineer](https://www.trulioo.com/apply?gh_jid=4442195004)
+- [Manager, Data Analytics](https://www.trulioo.com/apply?gh_jid=4457646004)
+- [Senior Software Engineer](https://www.trulioo.com/apply?gh_jid=4332833004)
+- [Senior Software Engineer- Remote](https://www.trulioo.com/apply?gh_jid=4327675004)
+- [Senior Software Engineer- Remote](https://www.trulioo.com/apply?gh_jid=4358360004)
+- [Software Engineer](https://www.trulioo.com/apply?gh_jid=4489240004)
 
 * [Ubisecure](https://www.ubisecure.com/about/careers/)
 
-- [Lead Architect](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1%2B113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w1013lSc3V1-WJV7CgLcxW5Kbjr94xJZn7VMzmtY6rGV8JW7MQQT24qSWXRW7W3_CX5RsMQxW4dwBzF5r_L-kW7Cdn3y1mCz_QW5NHQ_X7cJNj9W7bcC4Q7FFQ6jW7CqR_39bynyFW6smRdT2TmVtvM3qFb43dgQzW31J0_V1tb1RfW5yck2F6bzcNHW5XlH3y1fMvBJW8NXQMW2w7ZXNN5s5YDrFvYzbW67VjRK57-_BWVHRtjK7ZswrDW7WX4JB3Cyb87W6RDl-K66lyGzW7n_P2W4Y90LTVHqPW67nC3fCW7dRJrB18t_ctW2_v74v2K8Rb43cdj1)
-- [Partner Marketing Manager](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1%2B113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w10k3lScmV1-WJV7CgGwkVNx4HH8v7G3cW8Nnk7n6vBs1MW23wQMs5DL57DW9j6NDY8NF37HW8wpH3Z7BJmdNW3Y2j5q8pKYMqW4Hk_Vz6gqsrZW9hyHPp4jCNC7W4McHgh3KSkV-W3N2m5g3NNZhQW1ht7sM6Rxvm9W6cLFDC7QH0gSW58vqBD9dsPT3W310YrH1v1F4HW8BWJQR8ZKbqTW5q1NyD2WVZkCW66Zxq82Sl29vW9cgM4F2nbkqrW4Qz3bM1Lljs2W1Rts_F2dGY61W7-RqXm3Bt_hQW8WZ6_j3sf0HCW4YlH6w2xX4nTW7xvBdz4lZskjF2-Xsyr_2HGW7QHqsr3wWf3S3jp11)
-- [Sales Development Representative](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1%2B113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w10D3lScGV1-WJV7CgJVZW73tMvD8gBjYbW1Jqt807xLTQkW2yBqRl1y_3jvVmfyFy5z2XY7W11XZq95dZ9hLW8kSTF_78S8qnW8H2gDK1pl1qYW21zkC22MWmpvN510NGB7j_csW8glkJL590LyzW3g0QyR8fht2kN2RfmSz22jfYW2hc61v1qDKSsW1vzl0-28J_DdW901C_-58HKLgW2t6lz11B4cvlW8fKqL_6Fvm2FVbZKDP5yzr6LVxWyBh2zcfQ2W33pnyF4My4fpW2XhVz38bXcs9MNpL8tFf_byW6SlZPb5lbwx_W5MGv3D50bLJHW74jBwQ7sPwVnW3rTCFx3gY3HTW4-wm6t34jtcPW3P47ZM4h6h-X3nY41)
-- [Customer Success Manager](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1%2B113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w10k3lScmV1-WJV7CgCrPW7LF4PS2_d19qMBdfD0vPkkTN2VrTNB1D06TW7PDCKS5PrjvHW3P-2Mg7Gg8Y7W6F8wL_6yt6mCW64Kzzf566TFSW2byQG38D9cHHW5Vs14w76JzJRW6b3vCM28vMK_N5qPzYmPZZjTW4hCxwJ3cysxJW4HPQpX7BHzQgW8Q5n861GX2S6W8BsG_99cLbP-W93j8_c2yh3dPW11Ypyj2vMWg9W4ZRNgc7hJ_k4W3GM1f55dSGmwW5JdvrV3yQgCGW2Sjz1d7Fdc4PN5H6kH76xJdTVlcqWD367lxMW967s2p2DN-L8V2ByW45M9JBpW2Yxrh31fWh6g3fVK1)
-- [Sales Executive](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1%2B113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w1013lSc3V1-WJV7CgNsvW4HDsXz56fLSyW7qHCLs6rQT4qW3CtyKc3nxlfjN28wmnW3_fT2W46dG_B5GGp_GW2mvlPs8jVn2mW51Wmb783k6m0W4dq55v7L0w7nW1kHSdP20BxmTW6TjC_71fWvKqW1657Nj33Zd7KW8R2Ky56LPK-gW54mz133rcMf_W5hFrR_1P077WW60q5X82cdVsBW900Mnm4Klz8gW8mSLKH6k0GmRW7rb8R_5Vv7VXW2gNMZ98W4VjvW8Xm1vY5bJlwHVT40lb6GQbLrW3yHzlz2ybxR5W1ScpqQ3srywsW7rwdM_8ysyNK38Yh1)
+- [Lead Architect](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1+113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w1013lSc3V1-WJV7CgLcxW5Kbjr94xJZn7VMzmtY6rGV8JW7MQQT24qSWXRW7W3_CX5RsMQxW4dwBzF5r_L-kW7Cdn3y1mCz_QW5NHQ_X7cJNj9W7bcC4Q7FFQ6jW7CqR_39bynyFW6smRdT2TmVtvM3qFb43dgQzW31J0_V1tb1RfW5yck2F6bzcNHW5XlH3y1fMvBJW8NXQMW2w7ZXNN5s5YDrFvYzbW67VjRK57-_BWVHRtjK7ZswrDW7WX4JB3Cyb87W6RDl-K66lyGzW7n_P2W4Y90LTVHqPW67nC3fCW7dRJrB18t_ctW2_v74v2K8Rb43cdj1)
+- [Partner Marketing Manager](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1+113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w10k3lScmV1-WJV7CgGwkVNx4HH8v7G3cW8Nnk7n6vBs1MW23wQMs5DL57DW9j6NDY8NF37HW8wpH3Z7BJmdNW3Y2j5q8pKYMqW4Hk_Vz6gqsrZW9hyHPp4jCNC7W4McHgh3KSkV-W3N2m5g3NNZhQW1ht7sM6Rxvm9W6cLFDC7QH0gSW58vqBD9dsPT3W310YrH1v1F4HW8BWJQR8ZKbqTW5q1NyD2WVZkCW66Zxq82Sl29vW9cgM4F2nbkqrW4Qz3bM1Lljs2W1Rts_F2dGY61W7-RqXm3Bt_hQW8WZ6_j3sf0HCW4YlH6w2xX4nTW7xvBdz4lZskjF2-Xsyr_2HGW7QHqsr3wWf3S3jp11)
+- [Sales Development Representative](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1+113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w10D3lScGV1-WJV7CgJVZW73tMvD8gBjYbW1Jqt807xLTQkW2yBqRl1y_3jvVmfyFy5z2XY7W11XZq95dZ9hLW8kSTF_78S8qnW8H2gDK1pl1qYW21zkC22MWmpvN510NGB7j_csW8glkJL590LyzW3g0QyR8fht2kN2RfmSz22jfYW2hc61v1qDKSsW1vzl0-28J_DdW901C_-58HKLgW2t6lz11B4cvlW8fKqL_6Fvm2FVbZKDP5yzr6LVxWyBh2zcfQ2W33pnyF4My4fpW2XhVz38bXcs9MNpL8tFf_byW6SlZPb5lbwx_W5MGv3D50bLJHW74jBwQ7sPwVnW3rTCFx3gY3HTW4-wm6t34jtcPW3P47ZM4h6h-X3nY41)
+- [Customer Success Manager](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1+113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w10k3lScmV1-WJV7CgCrPW7LF4PS2_d19qMBdfD0vPkkTN2VrTNB1D06TW7PDCKS5PrjvHW3P-2Mg7Gg8Y7W6F8wL_6yt6mCW64Kzzf566TFSW2byQG38D9cHHW5Vs14w76JzJRW6b3vCM28vMK_N5qPzYmPZZjTW4hCxwJ3cysxJW4HPQpX7BHzQgW8Q5n861GX2S6W8BsG_99cLbP-W93j8_c2yh3dPW11Ypyj2vMWg9W4ZRNgc7hJ_k4W3GM1f55dSGmwW5JdvrV3yQgCGW2Sjz1d7Fdc4PN5H6kH76xJdTVlcqWD367lxMW967s2p2DN-L8V2ByW45M9JBpW2Yxrh31fWh6g3fVK1)
+- [Sales Executive](https://cmzd204.na1.hubspotlinksstarter.com/Ctc/W1+113/cMzd204/VVw-Pb7W3L0MW4VDsrX96v12SW3S9mTt4JsxJPN22w1013lSc3V1-WJV7CgNsvW4HDsXz56fLSyW7qHCLs6rQT4qW3CtyKc3nxlfjN28wmnW3_fT2W46dG_B5GGp_GW2mvlPs8jVn2mW51Wmb783k6m0W4dq55v7L0w7nW1kHSdP20BxmTW6TjC_71fWvKqW1657Nj33Zd7KW8R2Ky56LPK-gW54mz133rcMf_W5hFrR_1P077WW60q5X82cdVsBW900Mnm4Klz8gW8mSLKH6k0GmRW7rb8R_5Vv7VXW2gNMZ98W4VjvW8Xm1vY5bJlwHVT40lb6GQbLrW3yHzlz2ybxR5W1ScpqQ3srywsW7rwdM_8ysyNK38Yh1)
 
-* [Software Developer in Decentralised Identity](https://jobs.surrey.ac.uk/Vacancy.aspx?id%3D9454%26forced%3D1) Surrey AC UK
+* [Software Developer in Decentralised Identity](https://jobs.surrey.ac.uk/Vacancy.aspx?id=9454&forced=1) Surrey AC UK
 
 The project is to apply a Self-Sovereign Identity framework to the development of technology for privacy-preserving management of authorship of digital assets.  This is an exciting opportunity to work with emerging technologies and develop novel solutions.
 
 ### Worldcoin
 
 - Solidity, Fullstack, Mobile, Rust, Product - [tiago@worldcoin.org](mailto:tiago@worldcoin.org)
-* [Bloom Protocol jobs](https://www.linkedin.com/jobs/bloom-protocol-jobs-worldwide?f_C%3D18241636%26trk%3Dtop-card_top-card-primary-button-top-card-primary-cta%26position%3D1%26pageNum%3D0)
+* [Bloom Protocol jobs](https://www.linkedin.com/jobs/bloom-protocol-jobs-worldwide?f_C=18241636&trk=top-card_top-card-primary-button-top-card-primary-cta&position=1&pageNum=0)
 
 Bloom Protocol has immediate opportunities for experienced frontend engineers who have a desire to work for an innovative company in the self-sovereign identity space. Bloom offers a collaborative, respectful environment with a flat management structure.
 [Senior React Native Mobile Software Engineer](https://indicio.tech/senior-react-native-mobile-software-engineer/) Indicio
@@ -317,14 +317,14 @@ Come and make the world a better place by writing software for creating, managin
 
 In this role, you will work with our engineering teams and with external engineers from companies all over the world to create and adopt decentralized identity specifications that meet our guiding principles for decentralized technology and that forward secure and innovative identity practices.
 
-- [Senior Backend Engineer, Blockchain](https://boards.greenhouse.io/kivaorg/jobs/3714927?gh_jid%3D3714927) Kiva
-- [Principal Backend Engineer, Blockchain](https://boards.greenhouse.io/kivaorg/jobs/3871955?gh_jid%3D3871955) Kiva
+- [Senior Backend Engineer, Blockchain](https://boards.greenhouse.io/kivaorg/jobs/3714927?gh_jid=3714927) Kiva
+- [Principal Backend Engineer, Blockchain](https://boards.greenhouse.io/kivaorg/jobs/3871955?gh_jid=3871955) Kiva
 
-* [Senior Backend Engineer, Blockchain Technologies](https://boards.greenhouse.io/kivaorg/jobs/3714927?gh_jid%3D3714927) Kiva
+* [Senior Backend Engineer, Blockchain Technologies](https://boards.greenhouse.io/kivaorg/jobs/3714927?gh_jid=3714927) Kiva
 
-* [Principal Backend Engineer, Blockchain Technologies](https://boards.greenhouse.io/kivaorg/jobs/3871955?gh_jid%3D3871955) Kiva
+* [Principal Backend Engineer, Blockchain Technologies](https://boards.greenhouse.io/kivaorg/jobs/3871955?gh_jid=3871955) Kiva
 
-- Disco - [Technical Product Manager](https://www.disco.xyz/job?gh_jid%3D4032492005)
+- Disco - [Technical Product Manager](https://www.disco.xyz/job?gh_jid=4032492005)
 - Spokeo - [https://www.spokeo.com/careers](https://www.spokeo.com/careers) - Their CEO just became the co-chair of the CCG group.
 
 - [Full Stack Integration Developer (Remote)](https://indicio.tech/full-stack-integration-developer-remote/)
@@ -341,7 +341,7 @@ there’s no middleman involved. Without a middleman, communication is one-on-on
 
 For over 30 years, Consult Hyperion have been dedicated to providing advisory and technical consulting services and have grown to be globally recognised as thought leaders and experts in the areas of Digital Identity, Payments and Smart Ticketing.
 
-* [Blockchain Developer (f/d/m)](https://litentry.com/careers/blockchain-developer-(f-d-m)-%25E2%2580%2593-remote/7909) Litentry
+* [Blockchain Developer (f/d/m)](https://litentry.com/careers/blockchain-developer-(f-d-m)-%E2%80%93-remote/7909) Litentry
 
 Implement the pallets based on Substrate
 

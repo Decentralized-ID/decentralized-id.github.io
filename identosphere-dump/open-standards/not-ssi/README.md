@@ -50,7 +50,7 @@ GAIN is marked by a cross sector, crowd sourced, open, global due diligence. GAI
   > In a matter of a few days, I heard many inspiring presentations, had many interesting conversations, and met many wonderful people in this field at the Conference. It has already led to multiple conversations of working together regarding future stakeholder research that will hopefully be useful and support the identity community.
 * [OpenID Foundation Publishes “Open Banking and Open Data: Ready to Cross Borders?”](https://openid.net/2022/07/29/whitepaper-open-banking-and-open-data/) OpenID
 * [OpenID Foundation Publishes “The Global Open Health Movement: Empowering People and Saving Lives by Unlocking Data” Whitepaper](https://openid.net/2022/07/22/the-global-open-health-movement-empowering-people-and-saving-lives-by-unlocking-data-whitepaper/) OpenID
-* [Passing the Torch at the OpenID Foundation](https://self-issued.info/?p%3D2170) Mike Jones
+* [Passing the Torch at the OpenID Foundation](https://self-issued.info/?p=2170) Mike Jones
   > Today marks an important milestone in the life of the OpenID Foundation and the worldwide digital identity community. Following [Don Thibeau’s decade of exemplary service to the OpenID Foundation as its Executive Director](https://openid.net/2021/02/19/resolution-thanking-don-thibeau-for-his-service/), today we [welcomed Gail Hodges as our new Executive Director](https://openid.net/2021/04/28/welcoming-gail-hodges-as-our-new-executive-director/).
 * [Announcing the 2022 OpenID Foundation Individual Community Board Member Election](https://openid.net/2021/12/30/announcing-the-2022-openid-foundation-individual-community-board-member-election/)
 
@@ -64,7 +64,7 @@ Board participation requires a substantial investment of time and energy. It is 
 
 * [Public Review Period for Second Proposed RISC Profile Implementer’s Draft](https://openid.net/2022/07/05/public-review-period-for-second-proposed-risc-profile-implementers-draft/)
 
-This specification defines event types and their contents based on the [SSE Framework](https://openid.net/specs/openid-risc-profile-specification-1_0-02.html%23SSE-FRAMEWORK) that are required to implement Risk Incident Sharing and Coordination.
+This specification defines event types and their contents based on the [SSE Framework](https://openid.net/specs/openid-risc-profile-specification-1_0-02.html#SSE-FRAMEWORK) that are required to implement Risk Incident Sharing and Coordination.
 * [Global Assured Identity Network White Paper](https://openid.net/2021/09/20/global-assured-identity-network-white-paper/)
 
 * [Announcing the 2022 OpenID Foundation Kim Cameron Scholarship](https://openid.net/2022/04/08/announcing-the-2022-openid-foundation-kim-cameron-scholarship/) OpenID
@@ -144,7 +144,7 @@ just like trade unions helped the working class during the industrial revolution
 * [Shared Signals: An Open Standard for Webhooks](https://openid.net/2021/08/24/shared-signals-an-open-standard-for-webhooks/) OpenID
 
 The OpenID Foundation formed the “[Shared Signals and Events](https://openid.net/wg/sse/)” (SSE) Working Group as a combination of the previous OpenID RISC working group and an informal industry group that was focused on standardizing [Google’s CAEP proposal](https://cloud.google.com/blog/products/identity-security/re-thinking-federated-identity-with-the-continuous-access-evaluation-protocol). These represented two distinct applications of the same underlying mechanism of managing asynchronous streams of events. Therefore the [SSE Framework](https://openid.net/specs/openid-sse-framework-1_0-01.html) is now proposed to be a standard for managing such streams of events for any application, not just CAEP and RISC. In effect, it is a standard for generalized Webhooks.
-* [Proof-of-possession (pop) AMR method added to OpenID Enhanced Authentication Profile spec](https://self-issued.info/?p%3D2198) Mike Jones
+* [Proof-of-possession (pop) AMR method added to OpenID Enhanced Authentication Profile spec](https://self-issued.info/?p=2198) Mike Jones
 
 I’ve defined an Authentication Method Reference (AMR) value called “pop” to indicate that Proof-of-possession of a key was performed. Unlike the existing “hwk” (hardware key) and “swk” (software key) methods [...] Among other use cases, this AMR method is applicable whenever a [WebAuthn](https://www.w3.org/TR/2021/REC-webauthn-2-20210408/) or [FIDO](https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html) authenticator are used.
 

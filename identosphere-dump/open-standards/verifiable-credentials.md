@@ -63,7 +63,7 @@ published: false
 ## Varieties
 
 * [Verifiable Credentials Specifications Relationship Diagram](https://github.com/manicprogrammer/vc-spec-rel/) "Good for anyone but especially useful when trying to jump in on the deep end. If you walk even this limited tree of specs you know a lot" - [@michaelruminer](https://twitter.com/michaelruminer/status/1328827452886540296)
-* [Paper based Verifiable Credentials](https://www.youtube.com/watch?v%3DEXvWxFjHvdY) Mattr
+* [Paper based Verifiable Credentials](https://www.youtube.com/watch?v=EXvWxFjHvdY) Mattr
   > Paper-based Verifiable Credentials allow us to have a low-tech solution for adopting VC's in situations where access to a phone cannot be guaranteed. This presentation looks at how this solution can be used to aid with the distribution of Vaccine Credentials.
 * [The Flavors of Verifiable Credentials](https://www.lfph.io/2021/02/11/cci-verifiable-credentials-flavors-and-interoperability-paper/) Linux Foundation Public Health Blog [pdf]((https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf))
   > The differences between the different flavors of VCs for technically inclined readers. It elaborated on the differences between JSON and JSON-LD and articulated differences between the two different implementations of ZKP style credentials. The ‘Journey of a VC’ section articulated all steps where VCs are active and highlighted the differences in how different VC flavors ’behave’.
@@ -102,15 +102,15 @@ We design, implement, and evaluate a solution for achieving continuous authoriza
   > * [The Data Integrity test suite for Ed25519Signature2020 interop is here](https://w3c-ccg.github.io/di-ed25519-test-suite/)
 * [Cross-industry VC API test suite achieves first multi-vendor interop for issue/verify](https://lists.w3.org/Archives/Public/public-credentials/2022May/0041.html)  Manu Sporny (Wednesday, 18 May)
   > We are happy to announce today that we have our first demonstration of cross-vendor interoperability between Danube Tech and Digital Bazaar for the VC Issuer API and VC Verifier API. The test suites test the OAS definition files (which are used to generate the specification):
-  > * [2.1 Verify Credential - Data Integrity](https://w3c-ccg.github.io/vc-api-verifier-test-suite/%23Verify%2520Credential%2520-%2520Data%2520Integrity)
-  > * [2.1 Issue Credential - Data Integrity](https://w3c-ccg.github.io/vc-api-issuer-test-suite/%23Issue%2520Credential%2520-%2520Data%2520Integrity)
+  > * [2.1 Verify Credential - Data Integrity](https://w3c-ccg.github.io/vc-api-verifier-test-suite/#Verify%20Credential%20-%20Data%20Integrity)
+  > * [2.1 Issue Credential - Data Integrity](https://w3c-ccg.github.io/vc-api-issuer-test-suite/#Issue%20Credential%20-%20Data%20Integrity)
 
 * [Diagrams for VC HTTP API work [was Re: [AGENDA] VC HTTP API Work Item - August 17th 2021]](https://lists.w3.org/Archives/Public/public-credentials/2021Aug/0231.html)  Joe Andrieu (Monday, 16 August)
   > ![](https://i.imgur.com/4hCNLVA.png)
 * [Issuer API Cross Trust Boundary Scoping - VC-HAPI (f.k.a. VC-HTTP-API)](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0263.html)  Brian Richter (Saturday, 24 July)
   > I think I'm starting to understand how RAR fits into this picture. This decision can be made for us by punting the question to the authorization process entirely. With RAR we can force the user to authorize for the actual subject they are issuing the credential about. Is Alice authorized to issue VCs with claims about did:example:12345? To answer that question Alice asks for a token with the following RAR request
 * [RAR Structures for VC HTTP API](https://lists.w3.org/Archives/Public/public-credentials/2021Jul/0208.html)  Justin Richer (Wednesday, 21 July)
-  > It seemed like a good idea when I first invented it a decade ago: [](https://blue-button.github.io/blue-button-plus-pull/%23scopes)[https://blue-button.github.io/blue-button-plus-pull/#scopes](https://blue-button.github.io/blue-button-plus-pull/%23scopes) or when it got pulled into other efforts like [https://openid.net/specs/openid-heart-fhir-oauth2-1_0-2017-05-31.html](https://openid.net/specs/openid-heart-fhir-oauth2-1_0-2017-05-31.html)… and Orie even suggested the following set of parameterized scopes for this API:
+  > It seemed like a good idea when I first invented it a decade ago: [](https://blue-button.github.io/blue-button-plus-pull/#scopes)[https://blue-button.github.io/blue-button-plus-pull/#scopes](https://blue-button.github.io/blue-button-plus-pull/#scopes) or when it got pulled into other efforts like [https://openid.net/specs/openid-heart-fhir-oauth2-1_0-2017-05-31.html](https://openid.net/specs/openid-heart-fhir-oauth2-1_0-2017-05-31.html)… and Orie even suggested the following set of parameterized scopes for this API:
   > 'create:credentials': Grants permission to create credentials\
   > 'derive:credentials': Grants permission to derive credentials\
   > 'create:presentations': Grants permission to create presentations\

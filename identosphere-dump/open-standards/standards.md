@@ -85,7 +85,7 @@ JSON has its place. But I think we're overusing it in places where a good notati
   > 
   > Regarding the standard itself metadata and display are entering the default standard. metadata comes in replacement of metadataJson and remains a stringified JSON that will allow consumers to register specific data which are too unique for issuances to be defined in the context.
   > 
-  > display brings in [a little bit of novelty 2](https://github.com/blockchain-certificates/cert-schema/blob/master/cert_schema/3.0/displaySchema.json%23L6) images or pdfs, in addition to the more classic HTML.
+  > display brings in [a little bit of novelty 2](https://github.com/blockchain-certificates/cert-schema/blob/master/cert_schema/3.0/displaySchema.json#L6) images or pdfs, in addition to the more classic HTML.
 * [Blockcerts v3 release, a Verifiable Credentials implementation](https://lists.w3.org/Archives/Public/public-credentials/2021Dec/0051.html)  Julien Fraichot (Monday, 13 December)
   > I am excited to share with you today the release of [Blockcerts](https://www.blockcerts.org/) V3. As you may already know the earlier versions of Blockcerts were architected by Kim H. Duffy through Learning Machine and leveraged the Open Badge standard.
   > 
@@ -125,7 +125,7 @@ Family of standards related to timestamping
 
 ## JWP
 
-* [JSON Web Proofs BoF at IETF 114 in Philadelphia](https://self-issued.info/?p%3D2286)
+* [JSON Web Proofs BoF at IETF 114 in Philadelphia](https://self-issued.info/?p=2286)
 - [Chair Slides](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-json-web-proofs-chair-drafts-00) – [Karen O’Donoghue](https://twitter.com/kodonog) and [John Bradley](https://twitter.com/ve7jtb)
 - [The need: Standards for selective disclosure and zero-knowledge proofs](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-the-need-standards-for-selective-disclosure-and-zero-knowledge-proofs-00) – [Mike Jones](https://twitter.com/selfissued)
 - [What Would JOSE Do? Why re-form the JOSE working group to meet the need?](https://datatracker.ietf.org/meeting/114/materials/slides-114-jwp-the-need-standards-for-selective-disclosure-and-zero-knowledge-proofs-00) – [Mike Jones](https://twitter.com/selfissued)
@@ -139,7 +139,7 @@ Family of standards related to timestamping
 
 
 ### BBS Creds
-- [aries-rfcs/0646-bbs-credentials#drawbacks](https://github.com/hyperledger/aries-rfcs/tree/main/features/0646-bbs-credentials%23drawbacks)
+- [aries-rfcs/0646-bbs-credentials#drawbacks](https://github.com/hyperledger/aries-rfcs/tree/main/features/0646-bbs-credentials#drawbacks)
 - [Zero-Knowledge Proofs Do Not Solve the Privacy-Trust Problem of Attribute-Based Credentials: What if Alice Is Evil?](https://ieeexplore.ieee.org/document/9031545) IEEE
 
 

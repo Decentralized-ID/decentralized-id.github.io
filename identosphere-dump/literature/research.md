@@ -99,7 +99,7 @@ Credential Exchange Infrastructures based on open standards are emerging with wo
 * [A Consortium Blockchain-Based Secure and Trusted Electronic Portfolio Management Scheme](https://www.mdpi.com/1424-8220/22/3/1271) Mpyana Mwamba Merlec, Mainul Islam,Youn Kyu Lee, Hoh Peter
 
 This system guarantees the authenticity and integrity of user credentials and e-portfolio data. Decentralized identifiers and verifiable credentials are used for user profile identification, authentication, and authorization, whereas verifiable claims are used for e-portfolio credential proof authentication and verification. We have designed and implemented a prototype of the proposed scheme using a Quorum consortium blockchain network. Based on the evaluations, our solution is feasible, secure, and privacy-preserving. It offers excellent performance.
-* [How to protect privacy in a datafied society? A presentation of multiple legal and conceptual approaches](https://link.springer.com/article/10.1007%252Fs13347-022-00497-4) Oskar J. Gstrein & Anne Beaulieu
+* [How to protect privacy in a datafied society? A presentation of multiple legal and conceptual approaches](https://link.springer.com/article/10.1007/s13347-022-00497-4) Oskar J. Gstrein & Anne Beaulieu
 
 serves as a key resource to analyse the usefulness of the approaches in the context of the increasing datafication of both private and public spheres.
 
@@ -120,7 +120,7 @@ The paper provides an overview of the SSI properties, focusing on an in-depth an
 
 We follow a rigorous design science research approach to create a framework that utilizes SSI in the KYC process, deriving nascent design principles that theorize on blockchain’s role for SSI.
 
-* [Decentralized and Self-Sovereign Identity: Systematic Mapping Study](https://ieeexplore.ieee.org/document/9558805?cmid%3D296e8b0d-a3de-4224-a628-b90d777ae944) Špela Čučko Muhamed Turkanović
+* [Decentralized and Self-Sovereign Identity: Systematic Mapping Study](https://ieeexplore.ieee.org/document/9558805?cmid=296e8b0d-a3de-4224-a628-b90d777ae944) Špela Čučko Muhamed Turkanović
 
 The results suggest that validation research and solution proposals prevail, addressing decentralized identity in a general matter. Papers mainly propose systems/solutions, architectures, and frameworks, focusing on authentication, security, privacy, and trust, while there are hardly any studies researching usability, user experience, patterns, and good practices.
 
@@ -135,7 +135,7 @@ The results suggest that validation research and solution proposals prevail, add
 
 The unified theory of acceptance and use of technology was extended to examine the potential influence of the self sovereign identity principles and trustworthyness, along with other factors such as percieved usefulness and perceived ease of use, on the adoption of this new approach to online identity
 
-* [Industry-Grade Self-Sovereign Identity](https://repository.tudelft.nl/islandora/object/uuid%253A32711378-2f6f-452e-b65c-1866c471e934) Pouwelse, De Kok, Kuipers, F.A.
+* [Industry-Grade Self-Sovereign Identity](https://repository.tudelft.nl/islandora/object/uuid%3A32711378-2f6f-452e-b65c-1866c471e934) Pouwelse, De Kok, Kuipers, F.A.
 
 This research has been performed in pursuit of the MSc Computer Science at Delft University of Technology in collaboration with the Dutch National Office for Identity Data (RvIG), part of the Dutch Ministry of the Interior and Kingdom Relations. Self-Sovereign Identity (SSI) is a relatively new concept part of a movement aspiring to create a universal identity layer for the Internet. SSI aims to put the citizen at the centre of their data, making them the sovereign over their digital presence.
 
@@ -152,7 +152,7 @@ This article is primarily interested in the affordances of the technology as a p
 
 * [Case Study: Gravity digital ID solution propels Dignified Identities in Cash Programing (DIGID) Project in Kenya](https://medium.com/gravity-earth/case-study-gravity-digital-id-solution-propels-dignified-identities-in-cash-programing-digid-e527bc55ae43)
 
-The Gravity Platform was developed through direct inputs from all types of end-users through [user consultations](https://static1.squarespace.com/static/5b75620445776e4b290c0d96/t/603d14c5775eed6fbde2883b/1614615753940/%255BFinal%255D%2BDIGID%2BKenya%2BUser%2BConsultation%2BReport.pdf) with local communities and NGO staff.
+The Gravity Platform was developed through direct inputs from all types of end-users through [user consultations](https://static1.squarespace.com/static/5b75620445776e4b290c0d96/t/603d14c5775eed6fbde2883b/1614615753940/%5BFinal%5D+DIGID+Kenya+User+Consultation+Report.pdf) with local communities and NGO staff.
 
 * [Sovrin: An Identity Metasystem for Self-Sovereign Identity](https://www.frontiersin.org/articles/10.3389/fbloc.2021.626726/full) Phillip J. Windley
 
@@ -220,7 +220,7 @@ Goal: In a country where 60% of the vulnerable citizens, not having an identity 
 
 The present project is aimed to deliberate upon the feasibility, benefits and privacy concerns associated with different identity models. All possible decentralized identity models shall be audited in light of data protection, immutability, revocation, accountability, auditability, speed and users control over the personally identifiable information...... and the one that promises self-sovereign identity, shall be worked out with associated bare-bone framework.
 
-* [Self-sovereign Identity: A Conceptual Framework & Ecosystem Design](http://liu.diva-portal.org/smash/record.jsf?pid%3Ddiva2%253A1668615%26dswid%3D816) Tripi, Gabriele, Department of Science and Technology. Linköping University.
+* [Self-sovereign Identity: A Conceptual Framework & Ecosystem Design](http://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1668615&dswid=816) Tripi, Gabriele, Department of Science and Technology. Linköping University.
 
 the findings are presented as two parts of a whole, the first being the conceptual framework that describes a set of essential factors that an ecosystem requires in order to fulfill the goals of self-sovereign identity and interoperability. The second is a set of visualizations of how the framework can be used to design systems and interactions, inside and between the systems, to create an ecosystem.
 
@@ -332,7 +332,7 @@ The proposed holistic framework aims to ignite new ideas and discussions related
 
 To address trust and privacy issues in IOBP, this paper presents a Blockchain-based Self-Sovereign Identity (SSI) approach. The SSI concept is combined with a registry proof smart contract to provide an efficient privacy-preserving solution. The proposed approach is applied to the pharmaceutical supply chain case study and implemented on the Ethereum Blockchain
 
-* [Towards the Classification of Self-Sovereign Identity Properties](https://zenodo.org/record/7034818%23.Yy5ndOzMJ_R) Zenodo
+* [Towards the Classification of Self-Sovereign Identity Properties](https://zenodo.org/record/7034818#.Yy5ndOzMJ_R) Zenodo
 
 focusing on an in-depth analysis, furthermore, presenting a comprehensive collection of SSI properties that are important for the implementation of the SSI system. In addition, it explores the general SSI process flow, and highlights the steps in which individual properties are important. After the initial purification and classification phase, we then validated properties among experts in the field of Decentralized and Self-Sovereign Identity Management using an online questionnaire, which resulted in a final set of classified and verified SSI properties.
 
@@ -350,7 +350,7 @@ We describe the two main ZKP VCs schemes based on classical cryptographic assump
 
 In this paper, we describe the SSI framework architecture as well as possible use cases across domains like healthcare, finance, retail, and government. The paper also contrasts SSI and its decentralized architecture with the current widely adopted model of Public Key Infrastructure (PKI).
 
-* [Legal Identity, Development and Democracy in Northern Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id%3D4110873) Jaap van der Straaten :: SSRN
+* [Legal Identity, Development and Democracy in Northern Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4110873) Jaap van der Straaten :: SSRN
 
 In circles of identity management scholars and practitioners, the general consensus is that the region of northern Europe provides a good practice example [...] Out of the eighteen countries included in northern Europe in this paper, one has no national ID; another denies it has, and seven countries only have a voluntary ID. The extent of national ID coverage is hardly known. Also in the European Union, only six in ten countries have a mandatory ID. It does not matter.
 

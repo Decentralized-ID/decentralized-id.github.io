@@ -35,7 +35,7 @@ PKI has created a global trust framework for the web. But the war in Ukraine has
 
 Governance, Trust Registry, Ecosystem, Transitive Trust, Architecture
 
-Presentation Deck: [GHP Ecosystem Trust Architecture PDF](https://drive.google.com/file/d/1Hgh5JvrM7aUCmg5q6KIXzvpVIcgfhTjr/view?usp%3Dsharing)
+Presentation Deck: [GHP Ecosystem Trust Architecture PDF](https://drive.google.com/file/d/1Hgh5JvrM7aUCmg5q6KIXzvpVIcgfhTjr/view?usp=sharing)
 
 - Proposed Trust Interoperability (Global) for the Good Health Pass (GHP) Ecosystem
 - Kaliya Young & Rebecca Distler - Working Group Co-Leads
@@ -84,7 +84,7 @@ Links from chat:
 - Sterre den Breeijen to Everyone : [https://blockchain.tno.nl/blog/verify-the-verifier-anti-coercion-by-design/](https://blockchain.tno.nl/blog/verify-the-verifier-anti-coercion-by-design/) Blog on anti-coercion by my colleague Oskar van Deventer
 - Bart Suichies to Everyone : @judith: [https://gitlab.grnet.gr/essif-lab/infrastructure/fraunhofer/train_project_summary](https://gitlab.grnet.gr/essif-lab/infrastructure/fraunhofer/train_project_summary)
 - Darrell O'Donnell to Everyone : TRAIN - [https://essif-lab.eu/essif-train-by-fraunhofer-gesellschaft/](https://essif-lab.eu/essif-train-by-fraunhofer-gesellschaft/)
-- Drummond Reed to Everyone : Bart, I am totally on board with the human-readable element for GHP. Happy to chat more with you about that. There is a lot of focus on that in the [Consistent User Experience drafting group](https://wiki.trustoverip.org/display/HOME/Consistent%2BUser%2BExperience%2BDrafting%2BGroup)
+- Drummond Reed to Everyone : Bart, I am totally on board with the human-readable element for GHP. Happy to chat more with you about that. There is a lot of focus on that in the [Consistent User Experience drafting group](https://wiki.trustoverip.org/display/HOME/Consistent+User+Experience+Drafting+Group)
 [Pan-Canadian Trust Framework](https://diacc.ca/wp-content/uploads/2016/08/PCTF-Overview-FINAL.pdf)
 * [Towards a Better Digital Identity Trust Framework in Aotearoa](https://digitalidentity.nz/2022/09/21/towards-a-better-digital-identity-trust-framework-in-aotearoa/) Digital Identity NZ
 

@@ -1,8 +1,5 @@
 # Anoncreds
 
-* [AnonCreds Indy-Pendence](https://blog.cheqd.io/anoncreds-indy-pendence-4946367469d4) Cheqd
-
-Part 1: Decoupling the reliance on Hyperledger Indy and creating more extensible AnonCreds Objects with cheqd.
 - [Anonymous Credential Part 1: Brief Overview and History](https://medium.com/finema/anonymous-credential-part-1-brief-overview-and-history-c6679034c914)
   > An anonymous credential (Anoncred), which is also known as an attribute-based credential (ABC), is a concept for a digital credential that provides a credential holder maximal privacy and an ability to selectively disclose their personal information.
 - [Anonymous Credential Part 2: Selective Disclosure and CL Signature](https://medium.com/finema/anonymous-credential-part-2-selective-disclosure-and-cl-signature-b904a93a1565)

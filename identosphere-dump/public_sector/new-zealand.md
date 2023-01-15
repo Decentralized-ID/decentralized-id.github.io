@@ -3,7 +3,7 @@
 * [DINZ held the first Aotearoa Digital Identity Hui Taumata](https://digitalidentity.nz/2020/12/07/aotearoa-digital-identity-hui-taumata-2/)
   > Bianca Lopes and David Birch shared with us their International perspectives and insights, including a whirlwind Identity world tour hosted by Bianca and her team at Talle.
 * [The Trust Economy in a Future New Zealand](https://digitalidentity.nz/2021/06/16/the-trust-economy-in-a-future-new-zealand/)
-  > My interest was first piqued when I came across three videos on YouTube from [Rachel Botsman](https://www.youtube.com/watch?v%3D-vbPXbm8eTw), [Jordan Perterson](https://www.youtube.com/watch?v%3DpFXdsD-8SKk) and [Philipp Kristian Diekhöner.](https://www.youtube.com/watch?v%3DXNog-xrc_YA)
+  > My interest was first piqued when I came across three videos on YouTube from [Rachel Botsman](https://www.youtube.com/watch?v=-vbPXbm8eTw), [Jordan Perterson](https://www.youtube.com/watch?v=pFXdsD-8SKk) and [Philipp Kristian Diekhöner.](https://www.youtube.com/watch?v=XNog-xrc_YA)
   > 
   > Trust has always been at the centre of society overall and commerce in particular.  There’s a reason why during the first industrial revolution banks always built the most impressive, secure looking buildings in town – so you trusted them to deposit you money there!
 * [Towards a Better Digital Identity Trust Framework in Aotearoa](https://digitalidentity.nz/2022/09/21/towards-a-better-digital-identity-trust-framework-in-aotearoa/) Digital Identity NZ

@@ -10,7 +10,7 @@ SC Election results: DIF welcomes new SC members Sam Curren, Daniel Buchner, Kar
 
 DIF announces its first community microgrant, sponsored by Microsoft and rewarding the timely creation of a comprehensive test suite for detached-JWS signatures on Verifiable Credentials
 
-* [IIW32 - A wave of DIF donations and debuts](https://blog.identity.foundation/dif-monthly-18-may-2021/%23iiw32a-wave-of-dif-donations-and-debuts) DIF Newsletter
+* [IIW32 - A wave of DIF donations and debuts](https://blog.identity.foundation/dif-monthly-18-may-2021/#iiw32a-wave-of-dif-donations-and-debuts) DIF Newsletter
 - [Finding the Bell Curve of Meaning](https://medium.com/decentralized-identity/finding-the-bell-curve-of-meaning-61a1d22b7bdd) - A process for supporting the emergence of shared language in broad collaborative communities
 * [DIF has a Discord](https://twitter.com/DecentralizedID/status/1517083722729738241)
 
@@ -69,8 +69,8 @@ The Interoperability working group will be tracking them and providing guidance 
 * [Setting Interoperability Targets Part 2 of 2](https://medium.com/decentralized-identity/setting-interoperability-targets-part-2-of-2-671f8faa8ecb) DIF
 
 Having shown in our last piece how interoperability “profiles” are designed, we now tackle some key technical problem areas ripe for this kind of profile-first interoperability work across stacks.
-- [TBD’s test results of JWS Test Suite](https://identity.foundation/JWS-Test-Suite/%23tbd)
-- [Spruce’s test results of JWS Test Suite](https://identity.foundation/JWS-Test-Suite/%23spruce)
+- [TBD’s test results of JWS Test Suite](https://identity.foundation/JWS-Test-Suite/#tbd)
+- [Spruce’s test results of JWS Test Suite](https://identity.foundation/JWS-Test-Suite/#spruce)
 
 * [DIF Interoperability Survey](https://docs.google.com/forms/d/e/1FAIpQLSfbFh4DQeyI0msXsWvfpbrtYEfgQrGRD7tw4d2Rg0NEyhvcKQ/viewform)
 
@@ -90,4 +90,4 @@ At its core, WACI can be thought of as a handshake using classic, industry-stand
 
 * [DIF Monthly #28](https://blog.identity.foundation/dif-monthly-28/)
 
-Table of contents: 1. [Foundation News](https://blog.identity.foundation/dif-monthly-28/%23foundation); 2. [Group Updates](https://blog.identity.foundation/dif-monthly-28/%23groups); 3. [Member Updates](https://blog.identity.foundation/dif-monthly-28/%23members); 4. [Digital Identity Community](https://blog.identity.foundation/dif-monthly-28/%23Community); .5. [Funding](https://blog.identity.foundation/dif-monthly-28/%23funding); 6. [Events](https://blog.identity.foundation/dif-monthly-28/%23community); 7. [Hackathons](https://blog.identity.foundation/dif-monthly-28/%23hackathons); 8. [Jobs](https://blog.identity.foundation/dif-monthly-28/%23jobs); 9. [Metrics](https://blog.identity.foundation/dif-monthly-28/%23metrics); 10. [Get involved! Join DIF](https://blog.identity.foundation/dif-monthly-28/%23join)
+Table of contents: 1. [Foundation News](https://blog.identity.foundation/dif-monthly-28/#foundation); 2. [Group Updates](https://blog.identity.foundation/dif-monthly-28/#groups); 3. [Member Updates](https://blog.identity.foundation/dif-monthly-28/#members); 4. [Digital Identity Community](https://blog.identity.foundation/dif-monthly-28/#Community); .5. [Funding](https://blog.identity.foundation/dif-monthly-28/#funding); 6. [Events](https://blog.identity.foundation/dif-monthly-28/#community); 7. [Hackathons](https://blog.identity.foundation/dif-monthly-28/#hackathons); 8. [Jobs](https://blog.identity.foundation/dif-monthly-28/#jobs); 9. [Metrics](https://blog.identity.foundation/dif-monthly-28/#metrics); 10. [Get involved! Join DIF](https://blog.identity.foundation/dif-monthly-28/#join)

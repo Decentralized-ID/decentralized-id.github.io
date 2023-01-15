@@ -19,9 +19,9 @@ Fairly decentralized developments in the internet over the past couple of decade
 
 7/ The ssi-sdk encapsulates self-sovereign identity standards.
 
-* [What Even Is Web5?](https://www.forbes.com/sites/traceyfollows/2022/06/11/what-even-is-web5/?sh%3D10900ec05ad2) Forbes
+* [What Even Is Web5?](https://www.forbes.com/sites/traceyfollows/2022/06/11/what-even-is-web5/?sh=10900ec05ad2) Forbes
 
-The actual definition given in the TBD [presentation pack](https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E/edit%23slide%3Did.g11b904107df_0_1) is as follows: “Web5 is a Decentralized Web Platform that enables developers to leverage Decentralized Identifiers, Verifiable Credentials, and Decentralized Web Nodes to write Decentralized Web Apps, returning ownership and control over identity and data to individuals”
+The actual definition given in the TBD [presentation pack](https://docs.google.com/presentation/d/1SaHGyY9TjPg4a0VNLCsfchoVG1yU3ffTDsPRcU99H1E/edit#slide=id.g11b904107df_0_1) is as follows: “Web5 is a Decentralized Web Platform that enables developers to leverage Decentralized Identifiers, Verifiable Credentials, and Decentralized Web Nodes to write Decentralized Web Apps, returning ownership and control over identity and data to individuals”
 
 * [introducing tbDEX](https://tbd54566975.ghost.io/introducing-tbdex/) TBD (featured in Identosphere #61)
 

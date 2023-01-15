@@ -4,7 +4,7 @@
   > The Cardea and GCCN projects are both excellent examples of breakthrough innovations that can take shape when companies and projects come together to solve real-world problems, using open source tools available to everyone
 * [GlobaliD joins the Linux Foundation’s Cardea Project](https://medium.com/global-id/globalid-joins-the-linux-foundations-cardea-project-22f298032240)
 * [Public-private partnerships in health: The journey ahead for open source](https://www.lfph.io/2022/07/29/public-private-partnerships-in-health-the-journey-ahead-for-open-source/) Linux Foundation Public Health
-* [Webinar: The Future of Self Sovereign Identity](https://www.youtube.com/watch?v%3DgimrMbcj91A)
+* [Webinar: The Future of Self Sovereign Identity](https://www.youtube.com/watch?v=gimrMbcj91A)
 
 Presented by Patientory includes Jim St. Claire of LFPH
 
@@ -14,7 +14,7 @@ Self-sovereign identity (SSI) is a movement that claims digital identity should 
 * [The Cardea Interop-a-thon Returns—and Here’s Why You Should Participate!](https://indicio.tech/the-cardea-interop-a-thon-returns-and-heres-why-you-should-participate/) Indicio
 
 The [Cardea Community](https://cardea.app/) at Linux Foundation Public Health is pleased to announce the third Interop-a-thon on June 16, between 8:00am and 12:00pm MST (UTC-7:00). Anyone building a Hyperledger Aries compatible product or system can sign up [here](https://forms.gle/CQLRFRr4NexLoCf36).
-* [Cardea Project Video](https://www.youtube.com/watch?v%3DocomqbTb5ZY%26list%3DPL3LvHy3eIPslC7YhQGXKPN4LvS3ekqfqE)
+* [Cardea Project Video](https://www.youtube.com/watch?v=ocomqbTb5ZY&list=PL3LvHy3eIPslC7YhQGXKPN4LvS3ekqfqE)
 
 There are five agents main agents in the cardia ecosystem. The health enterprise agent, which is a cloud agent that allows for a health organization a hospital lab clinic pharmacy. Whoever is going to be issuing the credentials to participate in hie would be a a government health organization all of those would be represented by a health enterprise agent issuing credentials there's a government agent that's represented in the ecosystem right now that verifies credentials presented to it and then issues trusted travelers a mobile verifier agent
 

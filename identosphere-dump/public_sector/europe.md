@@ -2,7 +2,7 @@
 published: false
 ---
 
-* [EBSI Demo Day](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/EBSI%2BDemo%2BDay) ([presentation](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/464979566/EBSI_Demo_Day.pdf)) ([video playlist](https://www.youtube.com/playlist?list%3DPLPMb0otsCuFLpE4UYiAZ_y3HhP2VX6q8O)
+* [EBSI Demo Day](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/EBSI+Demo+Day) ([presentation](https://ec.europa.eu/digital-building-blocks/wikis/download/attachments/464979566/EBSI_Demo_Day.pdf)) ([video playlist](https://www.youtube.com/playlist?list=PLPMb0otsCuFLpE4UYiAZ_y3HhP2VX6q8O)
 
 first time since the launch of [the Early Adopters Programme](https://ec.europa.eu/digital-building-blocks/wikis/x/DABXGw) in 2021, we are ready to showcase, in real-time and with real data, the outcomes of the EBSI multi-university pilot.
 
@@ -37,7 +37,7 @@ Oskar van Deventer, a rockstar from TNO, presents:
 
 What are the Pros and Cons? - ISSE 2020 Webinar 3 ([Tim Bouma says to watch this](https://twitter.com/trbouma/status/1337373169993256962))
 
-* [NGI Forward SALON ON DIGITAL SOVERIGNTY IN eID-Solutions2: Self-sovereign, Centralised or Privatised?](https://www.youtube.com/watch?v%3D1RxB7KK2x8Y)
+* [NGI Forward SALON ON DIGITAL SOVERIGNTY IN eID-Solutions2: Self-sovereign, Centralised or Privatised?](https://www.youtube.com/watch?v=1RxB7KK2x8Y)
 
 Without a clear vision on identity, society will have no agency since the capability to produce future value (data) is not under regional, nor national, nor international regulated control.
 
@@ -87,15 +87,15 @@ Therefore it is important to have a good overview of what is happening in differ
 
 
 
-* [Where Stands the Sovereign Self?](https://www.kuppingercole.com/blog/hegde/eic-speaker-spotlight-doc-searls-on-decentralized-identity?ref%3Dsmspotlightdoc) Kuppinger Cole
+* [Where Stands the Sovereign Self?](https://www.kuppingercole.com/blog/hegde/eic-speaker-spotlight-doc-searls-on-decentralized-identity?ref=smspotlightdoc) Kuppinger Cole
 
 Doc Searls, Co-founder and board member of Customer Commons, and Director of ProjectVRM, is to deliver a keynote entitled [Where Stands the Sovereign Self?](https://www.kuppingercole.com/sessions/4918) at the [European Identity and Cloud Conference 2021](https://www.kuppingercole.com/events/eic2021). [...] we asked Doc some questions about his planned presentation.
 * [European Digital Identity: Talao Announces Professional Credential Solution](https://medium.com/@talao_io/european-digital-identity-talao-announces-professional-credential-solution-1d322e32be2c) Talao
 
 Talao’s team is excited to announce the development of the first Decentralized Self-Sovereign Identity (SSI) solution built on the Tezos blockchain for the Human Resources industry. The digital wallet created by Talao will enable companies to issue verifiable professional credentials and for employees to store work history and other personal data.
-* [Experience the future with the European Blockchain Services Infrastructure (EBSI)](https://www.youtube.com/watch?v%3Dm2uj7fgb2JI)
+* [Experience the future with the European Blockchain Services Infrastructure (EBSI)](https://www.youtube.com/watch?v=m2uj7fgb2JI)
 
-Discover Eva’s journey using the blockchain solution developed by the European Commission and the European Blockchain Partnership members: the European Blockchain Services Infrastructure (EBSI) - [http://ec.europa.eu/cefdigital/ebsi](https://www.youtube.com/redirect?event%3Dvideo_description%26redir_token%3DQUFFLUhqa2JrRVM0dGRJMDd1WkUxX284enZ3YjN3bUV2UXxBQ3Jtc0ttbE9Fd0NWMm1iNVYyRlpKRmttSTJlZE85VXNOQkozSkR1VkdaUm52bWM5eFIyUUtnUGF6b2FNTExVbXB3d0RoYzk2b0ZOYVR6VjR6VU5nTGdlalhqQ2RXU095MmJUR1RadTVBT082NXRYWE5OSElTMA%26q%3Dhttp%253A%252F%252Fec.europa.eu%252Fcefdigital%252Febsi)
+Discover Eva’s journey using the blockchain solution developed by the European Commission and the European Blockchain Partnership members: the European Blockchain Services Infrastructure (EBSI) - [http://ec.europa.eu/cefdigital/ebsi](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2JrRVM0dGRJMDd1WkUxX284enZ3YjN3bUV2UXxBQ3Jtc0ttbE9Fd0NWMm1iNVYyRlpKRmttSTJlZE85VXNOQkozSkR1VkdaUm52bWM5eFIyUUtnUGF6b2FNTExVbXB3d0RoYzk2b0ZOYVR6VjR6VU5nTGdlalhqQ2RXU095MmJUR1RadTVBT082NXRYWE5OSElTMA&q=http%3A//ec.europa.eu/cefdigital/ebsi)
 
 * [DIGITAL SERVICES ACT: A GAME CHANGER FOR OUR FUNDAMENTAL RIGHTS? [+ LIVE STREAM]](https://www.patrick-breyer.de/event/digital-services-act-a-game-changer-for-our-fundamental-rights/)
 
@@ -142,7 +142,7 @@ The legal instrument aims to provide, for cross-border use:
   > It’s currently possible to be eIDAS compliant with SSI, leveraging one out of five scenarios described in the SSI eIDAS legal report by Dr. Ignacio Alamillo Domingo. Especially interesting is the SSI eIDAS bridge, which adds legal value to verified credentials with the use of electronic certificates and electronic seals. However, it’s also possible to derive national eIDs notified in eIDAS, which are eIDAS linked by issuing a verifiable credential with a qualified certificate according to the technical specification.
 
 ## eSSIF Lab
-
+* [Infrastructure Development Winners](https://essif-lab.eu/meet-the-essif-labs-ecosystem-the-infrastructure-development-instrument-first-winners/) including SICPA, Jolocom, Evernym, ValidatedID
 * [Meet the eSSIF-Lab ecosystem: the 2nd Business-oriented Programme participants](https://essif-lab.eu/meet-the-essif-lab-ecosystem-the-2nd-business-oriented-programme-participants/)
 
 Blockchain Certified Data        Academic Verifiable Credentials (Academic VCs) – [https://www.bcdiploma.com/](https://www.bcdiploma.com/)
@@ -169,12 +169,9 @@ yes.com AG        European Bank Identity Credentials (Eubic) – [https:
 * [Gimly in eSSIf-lab: self-sovereign identity and NFC smartcards](https://www.gimly.io/blog/gimly-in-essif-ssi-and-nfc-smartcards)
   > Gimly is participating in the European SSI infrastructure programme (eSSIf-lab), building a bridge for the implementation of NFC smartcards with secure elements as physical SSI identifiers. Our aim is to enable self-sovereign identity for both online and offline identification, authorization and access management, with a decreased dependency on the use of personal smartphones.
 
-* [Alex Norta | NGI Explorers Third Expedition: meet the Explorers](https://www.youtube.com/watch?v%3D_HCEwQLpr10)
+* [Alex Norta | NGI Explorers Third Expedition: meet the Explorers](https://www.youtube.com/watch?v=_HCEwQLpr10)
 
 Meet [Alex Norta](http://alexnortaphd.yolasite.com/), associate professor at TalTech who talks about his project “Self-sovereign multi-factor identity authentication using smart-contract blockchain technology”, that will be carried out in collaboration with the University of Central Florida
-* [Adding SSI to internet communications using Sylk Suite by Bloqzone B.V.](https://essif-lab.eu/adding-ssi-to-internet-communications-using-sylk-suite-by-bloqzone-b-v/) ESSIF LAB
-
-The project SSIComms adds SSI to internet communications by adding SSI wallets to the renowned SYLK Suite, an award winning ensemble of communications solutions with the SIP protocol at its core.
 
 * [SSI Mandate Service by Visma Connect B.V.](https://essif-lab.eu/ssi-mandate-service-by-visma-connect-b-v/) ESSIF LAB
 
@@ -191,12 +188,12 @@ The concept of SSI was designed with the citizen and privacy in mind. However, e
   > another 7 proposals selected, out of 29 that were submitted before the second deadline of the Infrastructure-oriented Open Call
 * [eSSIF-Lab Vision and Purpose](https://essif-lab.pages.grnet.gr/framework/docs/vision-and-purpose)
 
-The context of the eSSIF-Lab vision can be found in articles 8-10 of the [European Convention on Human Rights (ECHR)](https://www.echr.coe.int/Pages/home.aspx?p%3Dbasictexts/convention), that state the rights of individuals regarding their privacy, and their freedoms to collect, process, store, and express information in a self-sovereign fashion, i.e. in a way that they can decide for themselves.
+The context of the eSSIF-Lab vision can be found in articles 8-10 of the [European Convention on Human Rights (ECHR)](https://www.echr.coe.int/Pages/home.aspx?p=basictexts/convention), that state the rights of individuals regarding their privacy, and their freedoms to collect, process, store, and express information in a self-sovereign fashion, i.e. in a way that they can decide for themselves.
 
 * [eSSIF-Lab Principles](https://essif-lab.pages.grnet.gr/framework/docs/essifLab-principles)
   > [Trust](https://essif-lab.pages.grnet.gr/framework/docs/terms/trust) is not something that is given, but something that [parties](https://essif-lab.pages.grnet.gr/framework/docs/terms/party) (un)consciously assess, and decide about, and changes over time. Since parties are autonomous, their trust is highly subjective. As a consequence, the idea of having 'trusted registries', 'trusted issuers' that do not take this subjectivity into account basically act as [(centralized) authorities](https://essif-lab.pages.grnet.gr/framework/docs/terms/authority), denying that parties are autonomous. While we acknowledge that such ideas (have a right to) exist, we do not follow them.
 * [eSSIF-Lab Glossary](https://essif-lab.pages.grnet.gr/framework/docs/essifLab-glossary)
-* [NGI Forward SALON ON DIGITAL SOVEREIGNTY IN eID-Solutions2:Self-sovereign, Centralised or Privatised](https://www.youtube.com/watch?v%3D1RxB7KK2x8Y)
+* [NGI Forward SALON ON DIGITAL SOVEREIGNTY IN eID-Solutions2:Self-sovereign, Centralised or Privatised](https://www.youtube.com/watch?v=1RxB7KK2x8Y)
   > We are in a very interesting historical moment where forces (and solid arguments) for centralization and forces (and solid arguments) for decentralization seem to hold each other in check. Without a clear vision on identity, society will have no agency since the capability to produce future value (data) is not under regional, nor national, nor international regulated control
 
 * [Meet the eSSIF-Lab’s ecosystem: The Infrastructure Development Instrument second tranche winners](https://spaces.fundingbox.com/spaces/ngi-next-generation-internet-ngi-news-events/6059f89a9bbc1905d0abf0a9) NGI Community
@@ -214,13 +211,13 @@ The context of the eSSIF-Lab vision can be found in articles 8-10 of the [Europ
 - [Infrastructure Development Winners](https://essif-lab.eu/meet-the-essif-labs-ecosystem-the-infrastructure-development-instrument-first-winners/) including SICPA, Jolocom, Evernym, ValidatedID
 - [Business-Oriented Programme](https://essif-lab.eu/meet-the-essif-labs-ecosystem-the-1st-business-oriented-programme-participants/) including Danube Tech, Domi, Jolocom
 
-* [Verifiable Credentials Lifecycle - EBSI Documentation - CEF Digital](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Verifiable%2BCredentials%2BLifecycle) European Commission
+* [Verifiable Credentials Lifecycle - EBSI Documentation - CEF Digital](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/Verifiable+Credentials+Lifecycle) European Commission
 
-* [Why and how to make your digital wallet conformant with EBSI?](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Become%2Bconformant) European Commission
+* [Why and how to make your digital wallet conformant with EBSI?](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Become+conformant) European Commission
 
 Creating EBSI's Verifiable Credentials Profile containing all the EBSI specifications.
 
-* [On-boarding legal entities flows clarifications - EBSI Documentation - CEF Digital](https://ec.europa.eu/digital-building-blocks/wikis/pages/viewpage.action?pageId%3D489652740) European Commission
+* [On-boarding legal entities flows clarifications - EBSI Documentation - CEF Digital](https://ec.europa.eu/digital-building-blocks/wikis/pages/viewpage.action?pageId=489652740) European Commission
 
 In this document, you can learn how to onboard and accredit the following legal entities
 
@@ -244,7 +241,7 @@ The uptake of eIDAS (facilitating cross-border acceptance of eIDs) is low relati
 
 The EU Commission did reflect on the effectiveness of the regulation in its [Impact Assessment](https://op.europa.eu/en/publication-detail/-/publication/35274ac3-cd1b-11ea-adf7-01aa75ed71a1), and is developing a revision of it. There are multiple revision options being discussed, but thus far, the preferred option would establish a framework that provides citizens with optional use of a personal digital wallet
 
-* [EBSI Documentation](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/EBSI%2BDocumentation%2BHome)
+* [EBSI Documentation](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSIDOC/EBSI+Documentation+Home)
 
 Governmental entities act as important intermediaries for many transactions occurring in today´s society.
 
@@ -279,7 +276,7 @@ We are glad to be among the first few along with [@ValidatedID](https://mobile.
 - [eIDAS 2.0: How Europe can define the digital identity blueprint for the world](https://blog.avast.com/eidas-2.0-avast)
 
 
-* [EIDAS 2.0 Turns To Self-Sovereign Identification To Bring Users Ownership And Control](https://www.forbes.com/sites/alastairjohnson/2022/07/05/eidas-20-turns-to-self-sovereign-identification-to-bring-users-ownership-and-control/?sh%3Da9eefcc7f07e) Forbes
+* [EIDAS 2.0 Turns To Self-Sovereign Identification To Bring Users Ownership And Control](https://www.forbes.com/sites/alastairjohnson/2022/07/05/eidas-20-turns-to-self-sovereign-identification-to-bring-users-ownership-and-control/?sh=a9eefcc7f07e) Forbes
 
 The new proposal will pivot on some of the more key issues that held back the original framework. For example, instead of enforcing a single, rigid ID that openly reveals everything about an individual indefinitely, the eIDAS 2.0 structure can now potentially employ a flexible, self-sovereign identity (SSI) that puts control of all identifying information entirely into the hands of the end-users they pertain to, in both public and private partnership frameworks.
 
@@ -289,11 +286,11 @@ The information on Horizon Europe, EU Health, Digital Europe, Creative Europe, D
 
 * [...]
 
-Watch all the presentations from the event: [11 May 2022](https://www.youtube.com/watch?v%3DGKlgfRSCeXI), [12 May 2022](https://www.youtube.com/watch?v%3DDQIgwVJvFuE%26t%3D28020s)
+Watch all the presentations from the event: [11 May 2022](https://www.youtube.com/watch?v=GKlgfRSCeXI), [12 May 2022](https://www.youtube.com/watch?v=DQIgwVJvFuE&t=28020s)
 
 EBSI
 
-* [5 reasons why professionals and enthusiasts of Self-Sovereign Information Sharing should look into EBSI this summer](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/5%2Breasons%2Bwhy%2Bprofessionals%2Band%2Benthusiasts%2Bof%2BSelf-Sovereign%2BInformation%2BSharing%2Bshould%2Blook%2Binto%2BEBSI%2Bthis%2Bsummer)
+* [5 reasons why professionals and enthusiasts of Self-Sovereign Information Sharing should look into EBSI this summer](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/5+reasons+why+professionals+and+enthusiasts+of+Self-Sovereign+Information+Sharing+should+look+into+EBSI+this+summer)
 
 #1 EBSI combines W3C standards, Verifiable Credentials and DIDs, with blockchain technology for the purpose of information sharing between Citizens and Governments (C2G) or Businesses (C2B)
 
@@ -305,7 +302,7 @@ EBSI
 
 #5 EBSI successfully piloted Self-Sovereign Information Sharing in the education domain
 
-* [EBSI Explained](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/What%2Bis%2Bebsi/) European Commission
+* [EBSI Explained](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/What+is+ebsi/) European Commission
 
 EBSI is a blockchain network of distributed nodes across Europe to support important applications. [...] Below you will find a series of publications that will walk you through the technologies that make it possible for Public Administrations and Businesses to easily verify and trust information received directly from Citizens (or Businesses). There are PDFs of each one:
 
@@ -320,7 +317,7 @@ EBSI is a blockchain network of distributed nodes across Europe to support impor
 
 
 
-EBSI: [Innovation that respects our privacy is a joint effort](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Innovation%2Bthat%2Brespects%2Bour%2Bprivacy%2Bis%2Ba%2Bjoint%2Beffort)
+EBSI: [Innovation that respects our privacy is a joint effort](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Innovation+that+respects+our+privacy+is+a+joint+effort)
 
 O’Neill’s [Weapons of Math destruction](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction), Zuboff’s [Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism), and Véliz’ recent [Privacy is Power](https://www.goodreads.com/en/book/show/51781479-privacy-is-power): these may have made it onto your summer reading list. And for good reason: wherever there is new technology, there is also concern for the respect of our European values.
 
@@ -348,7 +345,7 @@ EU [DATA GOVERNANCE ACT MEETS TOIP FRAMEWORK](https://trustoverip.org/blog/2022/
 The DGA defines an “intermediary” that facilitates processing and sharing of data for individuals and organizations to “…increase trust in data intermediation services and foster data altruism across the EU”. In the [MyData](https://mydata.org/declaration/) framework for user-controlled data sharing, intermediaries are called [MyData Operators](https://mydata.org/mydata-operators/) and there is a certification program in place.
 
 
-* [Overview of Member States' eID strategies](https://ec.europa.eu/cefdigital/wiki/display/EIDCOMMUNITY/National%2BStrategies)
+* [Overview of Member States' eID strategies](https://ec.europa.eu/cefdigital/wiki/display/EIDCOMMUNITY/National+Strategies)
   > The report focusses on the approaches towards eID outlined in national strategy documents, together with other supporting documentation and web resources, with the aim of offering a thorough understanding of the eID state of play across Europe.
 * [Understanding the MiCA and Pilot Regime crypto regulation](https://medium.com/adaneu/relax-take-it-easy-understanding-the-mica-and-pilot-regime-crypto-regulation-db21e537ec58)
   > The European Commission’s proposal for the regulation of crypto-assets markets is based on two draft texts :
@@ -364,7 +361,7 @@ One of MyDex CIC’s founders, [Alan Mitchell shares a feeling of Vindication](h
 * [Data Exchange Board to Improve the EU Data Governance Act](https://mydata.org/2020/12/09/why-we-need-a-data-exchange-board-to-improve-the-eu-data-governance-act/)
 
 
-* [How Can Europe Lead Innovation And Win Web3? Ledger’s 4 Recommendations For EU Policymakers](https://acrobat.adobe.com/link/review?uri%3Durn:aaid:scds:US:fa00c64a-5f6d-38c6-baf7-0bcfa06e6a28%23pageNum%3D25)
+* [How Can Europe Lead Innovation And Win Web3? Ledger’s 4 Recommendations For EU Policymakers](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:fa00c64a-5f6d-38c6-baf7-0bcfa06e6a28#pageNum=25)
 
 1. Invest in a public/private partnership to co-develop a self-sovereign identity solution for Europe.
 
@@ -389,7 +386,7 @@ Let’s examine how SSI meets each of the articles from #13 to #22.
   > The European Commission developed the [SSI (Self-Sovereign Identity) eIDAS bridge](https://joinup.ec.europa.eu/collection/ssi-eidas-bridge), an ISA2 funded initiative, to promote eIDAS as a trust framework for the SSI ecosystem. It assists a VC (Verifiable Credential) issuer in the signing process, and helps the verifier to automate the identification of the organization behind the issuer’s DID (Decentralized Identifier)
 * [Validated ID's journey to becoming EBSI compliant](https://www.validatedid.com/post-en/validated-ids-journey-to-becoming-ebsi-compliant)
 
-We at Validated ID have been betting on EBSI since the beginning. We started working to become conformant wallet providers since the very first version of [Wallet Conformance Tests (WCT)](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/EBSI%2Bwallets) was published. The process of preparing our solution to become conformant has allowed us to appreciate how remarkable EBSI's work has been.
+We at Validated ID have been betting on EBSI since the beginning. We started working to become conformant wallet providers since the very first version of [Wallet Conformance Tests (WCT)](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/EBSI+wallets) was published. The process of preparing our solution to become conformant has allowed us to appreciate how remarkable EBSI's work has been.
 
 
 * [The time for the eIDAS Bridge](http://validatedid.com/post-en/the-time-for-the-eidas-bridge) ValidatedID
@@ -434,7 +431,7 @@ Opportunity 4: Secure messaging.
 * [Emerging approaches for data-driven innovation in Europe](https://publications.jrc.ec.europa.eu/repository/handle/JRC127730) JRC Publications
   > Europe’s digital transformation of the economy and society is framed by the European strategy for data through the establishment of a common European data space based on domain-specific data spaces in strategic sectors such as environment, agriculture, industry, health and transportation.
 
-* [Joining forces towards European digital credentials](https://onedrive.live.com/?authkey%3D%2521ADoEGcIwiKDydcg%26cid%3DF7FF746DED29F767%26id%3DF7FF746DED29F767%252183805%26parId%3DF7FF746DED29F767%252183804%26o%3DOneUp) European Commission
+* [Joining forces towards European digital credentials](https://onedrive.live.com/?authkey=%21ADoEGcIwiKDydcg&cid=F7FF746DED29F767&id=F7FF746DED29F767%2183805&parId=F7FF746DED29F767%2183804&o=OneUp) European Commission
 
 ### IDNOW
 
@@ -445,7 +442,7 @@ The goal of IATA One ID is to set industry standards that further streamline the
   > Last week, the EU Commission published a draft for the so-called digital identity wallet “EUid”. According to it, within 12 months of the law coming into force, every EU state must provide its citizens with a digital wallet.
 * [How the Digital Markets Act (DMA) will shape the future of digital identity in Europe](https://www.idnow.io/blog/digital-markets-act-dma-future-digital-identity/) IDNow
 
-On March 24th, 2022, [the European Parliament and Council reached an agreement on the final version of the Digital Markets Act (DMA)](https://eur-lex.europa.eu/legal-content/de/TXT/?qid%3D1608116887159%26uri%3DCOM%253A2020%253A842%253AFIN). According to the European Commission, the DMA regulation is expected to be reviewed and enacted by October 2022.
+On March 24th, 2022, [the European Parliament and Council reached an agreement on the final version of the Digital Markets Act (DMA)](https://eur-lex.europa.eu/legal-content/de/TXT/?qid=1608116887159&uri=COM%3A2020%3A842%3AFIN). According to the European Commission, the DMA regulation is expected to be reviewed and enacted by October 2022.
 * [the-time-for-the-eidas-bridge​](http://validatedid.com/post-en/the-time-for-the-eidas-bridge) ValidatedID
   > There’s an outstanding question, for us, around how this community explores and thinks about the theoretical underpinnings of a Community of Practice (CoP), but one thing is for sure, Keep Badges Weird is a CoP.
 
@@ -477,7 +474,7 @@ The Government of Catalonia has presented IdentiCAT, the new decentralized and s
 
 IEEE SA co-organized a discussion panel at the Pan-European dialogue on Internet Governance (EuroDIG) conference, an event known for its frank and interactive discussions of public policy issues surrounding internet governance. Messages coming out of the discussions will be presented at the Internet Governance Forum (IGF) later this year.
 
-* [Where do we stand on Self-Sovereign Identity?](https://www.youtube.com/watch?v%3DL156YjEyOdo) EBSI
+* [Where do we stand on Self-Sovereign Identity?](https://www.youtube.com/watch?v=L156YjEyOdo) EBSI
 
 On December 14th, Joao Rodrigues, Head of sector (Digital) Building Blocks at @European Commission participated in an [#ebcTALKS](https://www.youtube.com/hashtag/ebctalks) of the European Blockchain Convention about "Where do we stand on Self-Sovereign Identity"?
 
@@ -508,11 +505,11 @@ Kaliya is working on a commentary about it
 
 Vedran L. Head of Office at European Parliament [has released a draft report with tracking of amendments](https://www.europarl.europa.eu/doceo/document/ITRE-PR-732707_EN.pdf) on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) No 910/2014 as regards establishing a framework for a European Digital Identity
 
-* [European Commission adopts decision to license European Blockchain Services Infrastructure software as open-source](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/European%2BCommission%2Badopts%2Bdecision%2Bto%2Blicense%2BEuropean%2BBlockchain%2BServices%2BInfrastructure%2Bsoftware%2Bas%2Bopen%2Bsource)
+* [European Commission adopts decision to license European Blockchain Services Infrastructure software as open-source](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/European+Commission+adopts+decision+to+license+European+Blockchain+Services+Infrastructure+software+as+open+source)
 
-The Decision to make EBSI software available for licencing under the [European Union Public Licence](https://secure-web.cisco.com/1HQ5AQijOEcsuKHH5VY-lAjONv1Pa-wUY7mpfsymIkIy1G_g9CZh6vK5g0lpjxgIm0oaik042EN-5tL8xLpeesMtxZ0ENcH239uYTSSmPTbu1YtBJ5xHMWZMksOeS6X71soiQSQpoQF8fyzOr1I4atICut-sSt9Wqyou4vpS5myXfHf3S6AMMuyvAxla1etuiJbNKx4gfAlzozwPMe7yC7GNXIsZeCiNuAYA5io7f3CIwdvldsHFBtuGNYI4Z86EMXdfyQXEsR7zidw-7WNQeJpBVDCUVFJymXSb-SXsqJH8jfAf6-U9vC1ilrqATHFaZXXLWlOCOCmlS3nS9kev41tys8SvSKYuGX1FLyFgPgufe__oJ7pmihT7ABqB4AzLy7VMeHBSQfOgbkj11ZEltw4e-kd3XI7KmlREgqfYQ45T7r_VGJo3uCTUG1FlIcAkq8MON0W9AZCAMQyT5UAReSZ7LslcOaF38g6bgAGO0N_C39g6T63pWI-caAZ2h-1_m/https%253A%252F%252Fec.europa.eu%252Finfo%252Feuropean-union-public-licence_en) is an example of how the European Commission is not only using, but also contributing to the open-source community and thereby growing the ecosystem around EBSI.
+The Decision to make EBSI software available for licencing under the [European Union Public Licence](https://secure-web.cisco.com/1HQ5AQijOEcsuKHH5VY-lAjONv1Pa-wUY7mpfsymIkIy1G_g9CZh6vK5g0lpjxgIm0oaik042EN-5tL8xLpeesMtxZ0ENcH239uYTSSmPTbu1YtBJ5xHMWZMksOeS6X71soiQSQpoQF8fyzOr1I4atICut-sSt9Wqyou4vpS5myXfHf3S6AMMuyvAxla1etuiJbNKx4gfAlzozwPMe7yC7GNXIsZeCiNuAYA5io7f3CIwdvldsHFBtuGNYI4Z86EMXdfyQXEsR7zidw-7WNQeJpBVDCUVFJymXSb-SXsqJH8jfAf6-U9vC1ilrqATHFaZXXLWlOCOCmlS3nS9kev41tys8SvSKYuGX1FLyFgPgufe__oJ7pmihT7ABqB4AzLy7VMeHBSQfOgbkj11ZEltw4e-kd3XI7KmlREgqfYQ45T7r_VGJo3uCTUG1FlIcAkq8MON0W9AZCAMQyT5UAReSZ7LslcOaF38g6bgAGO0N_C39g6T63pWI-caAZ2h-1_m/https%3A//ec.europa.eu/info/european-union-public-licence_en) is an example of how the European Commission is not only using, but also contributing to the open-source community and thereby growing the ecosystem around EBSI.
 
-* [EIDAS 2.0 Turns To Self-Sovereign Identification To Bring Users Ownership And Control](https://www.forbes.com/sites/alastairjohnson/2022/07/05/eidas-20-turns-to-self-sovereign-identification-to-bring-users-ownership-and-control/?sh%3D853aa7f7f07e) Forbes
+* [EIDAS 2.0 Turns To Self-Sovereign Identification To Bring Users Ownership And Control](https://www.forbes.com/sites/alastairjohnson/2022/07/05/eidas-20-turns-to-self-sovereign-identification-to-bring-users-ownership-and-control/?sh=853aa7f7f07e) Forbes
 
 * [Meet the eSSIF-Lab ecosystem: “Completing the Framework” Programme participants](https://essif-lab.eu/meet-the-essif-lab-ecosystem-meet-the-essif-lab-ecosystem-completing-the-framework-programme-participants-amme-participants-2/)
   > * [PCDS-DP](https://compell.io/) - Product Circularity Data Sheets Digital Passport
@@ -528,7 +525,7 @@ As the details and technical architecture of the EU Digital Identity Wallet at t
 The SSI principles of existence, access, interoperability, consent, minimalization, and protection will likely be fulfilled by the EU Digital Identity Wallet. It will allow citizens to have an independent existence.
 
 
-* [What is EBSI? EBSI making information easy to verify and almost impossible to fake](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/What%2Bis%2Bebsi/)
+* [What is EBSI? EBSI making information easy to verify and almost impossible to fake](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/What+is+ebsi/)
 
 Below you will find a series of publications that will walk you through the technologies that make it possible for Public Administrations and Businesses to easily verify and trust information received directly from Citizens (or Businesses).
 
@@ -538,9 +535,9 @@ TR Ministry of Foreign Affairs Directorate for EU Affairs organized an EU Progra
 
 You can click to watch all the presentations from the event:
 
-11 May 2022: [https://www.youtube.com/watch?v=GKlgfRSCeXI](https://www.youtube.com/watch?v%3DGKlgfRSCeXI)
+11 May 2022: [https://www.youtube.com/watch?v=GKlgfRSCeXI](https://www.youtube.com/watch?v=GKlgfRSCeXI)
 
-12 May 2022: [https://www.youtube.com/watch?v=DQIgwVJvFuE&t=28020s](https://www.youtube.com/watch?v%3DDQIgwVJvFuE%26t%3D28020s)
+12 May 2022: [https://www.youtube.com/watch?v=DQIgwVJvFuE&t=28020s](https://www.youtube.com/watch?v=DQIgwVJvFuE&t=28020s)
 * [Germany and Spain and join forces on the development of a cross-border, decentralised digital identity ecosystem](https://www.bundesregierung.de/breg-de/aktuelles/germany-and-spain-and-join-forces-on-the-development-of-a-cross-border-decentralised-digital-identity-ecosystem-1947302)
 
 The cooperation agreement envisages the design and conceptualisation of a cross-border pilot to be implemented in the near future, with a view to contributing to the development of the European Union’s Digital Identity Framework, recently announced as part of the eIDAS Commission proposal.
@@ -554,7 +551,7 @@ Jolocom is currently working on the project “ONCE – Online einfach anmelden�
 
 The project is part of the competitive innovation programme “Showcase Secure Digital Identities” (SSDI) funded by Germany’s Federal Ministry for Economic Affairs and Energy (BMWi) and one of four projects that qualified for the implementation phase.
 
-* [Early Adopters Programme | Imagining what EBSI can do for European citizens](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Early%2520Adopters%2520Programme%23become-ebsi-compliant)
+* [Early Adopters Programme | Imagining what EBSI can do for European citizens](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Early%20Adopters%20Programme#become-ebsi-compliant)
 
 In 2021, 22 projects were selected to become part of our incubator programme to help tap into the potential of the EBSI infrastructure. Each project's private and public sector partners was given early access to the pre-production environment of EBSI, and was invited to develop their own pilot project to address a specific business or government use case involving the exchange of verifiable credentials.
 
@@ -564,7 +561,7 @@ With the help with the EBSI team, Early Adopters can identify how to connect the
 On September 15, 2021, I moderated a panel with representatives from the United States Government, the Canadian Government, and the European Commission. Below is an edited excerpt from the panel
 
 
-* [Early Adopters Programme | Imagining what EBSI can do for European citizens](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Early%2520Adopters%2520Programme%23become-ebsi-compliant)
+* [Early Adopters Programme | Imagining what EBSI can do for European citizens](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Early%20Adopters%20Programme#become-ebsi-compliant)
 
 An incubator to help Early Adopters and their partners imagine, build and launch their EBSI pilot project(s)
 * [Declaration for Cooperation and Exchange of Best Practices in the Field of Self-Sovereign Identity Between the Federal Republic of Germany and the Republic of Finland](https://www.theinternetofthings.eu/declaration-cooperation-and-exchange-best-practices-field-self-sovereign-identity-between-federal) theinternetofthings.eu
@@ -592,7 +589,7 @@ When it comes to identity management the involvement of the government can be a 
 * [Digital identities: German-Finnish cooperation agreed](https://www.bundesregierung.de/breg-de/suche/digitale-identitaeten-deutsch-finnische-zusammenarbeit-vereinbart-1962298) Bundesregierung
 
 The content of the joint declaration is close bilateral cooperation in the development of a cross-border ecosystem of digital identities based on the principles of Self-Sovereign Identity (SSI).
-* [Control over data still a long way off according to research into Self-Sovereign Identity](https://ibestuur-nl.translate.goog/podium/controle-over-data-nog-ver-weg-volgens-onderzoek-naar-self-sovereign-identity?_x_tr_sl%3Dauto%26_x_tr_tl%3Den%26_x_tr_hl%3Dnl%26_x_tr_pto%3Dnui) iBestuur
+* [Control over data still a long way off according to research into Self-Sovereign Identity](https://ibestuur-nl.translate.goog/podium/controle-over-data-nog-ver-weg-volgens-onderzoek-naar-self-sovereign-identity?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=nl&_x_tr_pto=nui) iBestuur
 
 In their final recommendations, the researchers from INNOPAY and TNO argue that in view of the social value of digital data exchange, the government would do well to play a driving role in the further consolidation of the SSI playing field. That starts with creating clarity about the relationship between the Digital Government Act and the EU Digital Identity Wallet.
 

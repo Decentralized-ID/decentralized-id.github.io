@@ -6,7 +6,7 @@ Three new TOIP Task Forces
 
 The ToIP Technology Stack Working group is starting an - [Artificial Intelligence and the Metaverse (AIM) Task Force](https://trustoverip.org/blog/2022/07/20/announcing-artificial-intelligence-metaverse-technology-task-force/)
 
-More details are available at [AI & Metaverse Technology Task Force – Home – Confluence (trustoverip.org)](https://wiki.trustoverip.org/pages/viewpage.action?pageId%3D19657312) (next meeting [8/4](https://wiki.trustoverip.org/display/HOME/Calendar%2Bof%2BToIP%2BMeetings))
+More details are available at [AI & Metaverse Technology Task Force – Home – Confluence (trustoverip.org)](https://wiki.trustoverip.org/pages/viewpage.action?pageId=19657312) (next meeting [8/4](https://wiki.trustoverip.org/display/HOME/Calendar+of+ToIP+Meetings))
 
 The ToIP Governance Stack Working group is starting a - Governance Architecture Task Force
 
@@ -22,7 +22,7 @@ The ToIP Concepts and Terminology Working group is proposing starting a - Mental
 If you are interested Ping the ToIP Slack channel: #concepts-terminology-wg or email Judith@trustoverip.org
 
 
-* [View From The Field, Riley Hughes](https://www.youtube.com/watch?v%3Dz3H40QAEJnw%26t%3D2s) Trust Over IP Foundation
+* [View From The Field, Riley Hughes](https://www.youtube.com/watch?v=z3H40QAEJnw&t=2s) Trust Over IP Foundation
 
 Perspectives on the business problems being addressed by ToIP-aligned solutions. Primary research performed by Trinsic to get to the core issues getting in the way of scaling adoption of trust solutions. Riley presents his results and offers perspectives on how to overcome the various challenges.
 * [TrustOverIP Model](https://trustoverip.org/wp-content/toip-model/)
@@ -46,13 +46,13 @@ We discussed these projects and have some links
 
 For more info
 
-Goto Kantara ANCR WG [https://kantarainitiative.org/confluence/pages/viewpage.action?pageId=140804260](https://kantarainitiative.org/confluence/pages/viewpage.action?pageId%3D140804260)
+Goto Kantara ANCR WG [https://kantarainitiative.org/confluence/pages/viewpage.action?pageId=140804260](https://kantarainitiative.org/confluence/pages/viewpage.action?pageId=140804260)
 
 W3C DPV CG - [https://dpvcg.github.io/dpv/](https://dpvcg.github.io/dpv/)
 
 ToiP -  ISWG - Notice & Consent Task force for a Privacy Controller Credential
 
-* [https://wiki.trustoverip.org/pages/resumedraft.action?draftId=72226&draftShareId=8b665919-3b23-4a4d-be90-26947c7ae82c&](https://wiki.trustoverip.org/pages/resumedraft.action?draftId%3D72226%26draftShareId%3D8b665919-3b23-4a4d-be90-26947c7ae82c%26)
+* [https://wiki.trustoverip.org/pages/resumedraft.action?draftId=72226&draftShareId=8b665919-3b23-4a4d-be90-26947c7ae82c&](https://wiki.trustoverip.org/pages/resumedraft.action?draftId=72226&draftShareId=8b665919-3b23-4a4d-be90-26947c7ae82c&)
 
 ToiP Privacy Risk -
 
@@ -124,7 +124,7 @@ as we move into decentralized identity management, where individuals manage cred
 
 * [The Trust Over IP Stack: Achieving Global Interoperability with SSI](https://techzone.scot/trust-over-ip-stack/)TechZone Scot
 
-* [In this video](https://www.youtube.com/watch?v%3DYzKfb-udavY), Drummond Reed, Chief Trust Officer at Evernym Inc and co-author of the book ‘[Self-Sovereign Identity](https://www.evernym.com/ssi-book/)’ provides a deep discussion of SSI and the ‘The Trust over IP Stack’.
+* [In this video](https://www.youtube.com/watch?v=YzKfb-udavY), Drummond Reed, Chief Trust Officer at Evernym Inc and co-author of the book ‘[Self-Sovereign Identity](https://www.evernym.com/ssi-book/)’ provides a deep discussion of SSI and the ‘The Trust over IP Stack’.
 
 
 - Survey was a collaborative efforts by [University of Jyväskylä](http://jyu.fi), [Blockster.global](http://blockster.global) and [Trust over IP foundation](https://trustoverip.org/)
@@ -152,7 +152,7 @@ I have been lucky enough to witness many of its milestones — the finalization 
 * [SCHELLMAN JOINS TRUST OVER IP FOUNDATION AS STEERING COMMITTEE MEMBER](https://trustoverip.org/news/2022/03/25/schellman-joins-trust-over-ip-foundation-as-steering-committee-member/)
   > Tampa-based Schellman, a leading provider of attestation and compliance services, announced today that it is joining the Trust over IP Foundation (ToIP) as a Steering Committee member. As the first IT audit firm to join the leadership of ToIP, this move represents Schellman’s belief in the growing suite of digital governance specifications and tools being developed by ToIP Working Groups.
 ### TOIP Trust over IP
-* [AMA: Sovrin + ToIP Core Purposes and Cooperation](https://iiw.idcommons.net/23M/_AMA:_Sovrin_%252B_ToIP_Core_Purposes_and_Cooperation) by John Jordan, Drummond Reed, Chris Raczkowski
+* [AMA: Sovrin + ToIP Core Purposes and Cooperation](https://iiw.idcommons.net/23M/_AMA:_Sovrin_+_ToIP_Core_Purposes_and_Cooperation) by John Jordan, Drummond Reed, Chris Raczkowski
   > 1. Mutual recognition and support for the distinct, but interrelated, mandate of each organization.
   > 2. Commitment to name a member from each organization as a liaison to act as a point of contact and maintain lines of open communication.
   > 3. Proactively seek opportunities to collaborate in areas of shared interest, including communications products.
@@ -180,6 +180,6 @@ NO this isn’t going to work it is going to create lockin to particular wallets
   > *[...]*
   > featured speakers from Evernym, Mastercard, LG CNS, Accenture, GLEIF, and other[s]
 
-* [Human Experience Working Group](https://wiki.trustoverip.org/display/HOME/Human%2BExperience%2BWorking%2BGroup) TOIP
+* [Human Experience Working Group](https://wiki.trustoverip.org/display/HOME/Human+Experience+Working+Group) TOIP
 
 The purpose of the HXWG is to examine the design features of digital systems, their governance and the business processes that support them, which make interactions or actors trustable, in the contextual and subjective experience of those using them.

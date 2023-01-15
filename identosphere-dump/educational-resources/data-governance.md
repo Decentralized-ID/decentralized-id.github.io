@@ -40,9 +40,6 @@ If you are in accounting, audit or finance shoes, how would you play the game to
 * [If your strategic plan is based on data, have you considered the consequences?](https://www.mydigitalfootprint.com/2021/04/if-your-strategic-plan-is-based-on-data.html) MyDigitalFootprint
   > How do you know your data set has the views of everyone who is critical to your business today and in the future? How do you know the tools you use provide equal weight to everyone to make our business thrive?  How do you know if the recommendation was written before the analysis? How do your incentives create a new bias?
 
-* [We Need Data Unions to Support the Data Economy](https://blog.oceanprotocol.com/voices-of-the-data-economy-shiv-malik-data-unions-84243ab965ee) Pool Foundation via Ocean Protocol
-  > In the twelfth episode of Voices of the Data Economy, we had a conversation with [Shiv Malik](https://twitter.com/shivmalik?s%3D20), CEO at Pool Foundation and former Head of Growth for Streamr where he evangelized about a new decentralized data economy. During this discussion, he tells us how Data Unions work, its real-life use cases, and legislative regulations supporting the Data Union model. Here are edited excerpts from the podcast.
-
 * [Data for good: powering our way to a better world](https://blog.digi.me/2021/04/29/data-for-good-powering-our-way-to-a-better-world/)
   > We should absolutely all be taking care of the data that belongs to us, our data that we create, that we have a right to be able to control and share exactly as we choose. But we should also bear in mind the power of that data to help each of us, every day, benefit from the good that can come when it is shared and used to create a better world for us all.
 * [Everybody has our data ... except us](https://reb00ted.org/personaldata/20210620-who-has-my-personal-data/) reb00ted
@@ -58,7 +55,7 @@ Instagram has all my photos. Well, the Instagram department of Facebook does. (C
 Amazon has the list of all my purchases, and knows what products I was interested in but didn’t buy after all. (AND I DON’T.)
 * [What the Heck is a Data Mesh?!](https://cnr.sh/essays/what-the-heck-data-mesh)
 
-I re-read [Zhamak Dehghani](https://twitter.com/zhamakd) ’s [original](https://martinfowler.com/articles/data-monolith-to-mesh.html) and [follow-on](https://martinfowler.com/articles/data-mesh-principles.html) posts. Zhamak is the creator of the data mesh. In her second post she identifies [four data mesh principles](https://martinfowler.com/articles/data-mesh-principles.html%23CorePrinciplesAndLogicalArchitectureOfDataMesh):
+I re-read [Zhamak Dehghani](https://twitter.com/zhamakd) ’s [original](https://martinfowler.com/articles/data-monolith-to-mesh.html) and [follow-on](https://martinfowler.com/articles/data-mesh-principles.html) posts. Zhamak is the creator of the data mesh. In her second post she identifies [four data mesh principles](https://martinfowler.com/articles/data-mesh-principles.html#CorePrinciplesAndLogicalArchitectureOfDataMesh):
 
 1. Domain-oriented decentralized data ownership and architecture
 2. Data as a product
@@ -80,11 +77,11 @@ Given his breadth of experience and alignment with a number of strategic sectors
 
 The compelling data and research suggest that my original question now needs to be reframed. People most certainly do care about their data privacy. The question now is: how are organisations going to bridge this data privacy chasm?
 
-* [Data Sovereignty International Forum 2021(English)](https://www.youtube.com/watch?v%3D2Q2DL0ojauA)
+* [Data Sovereignty International Forum 2021(English)](https://www.youtube.com/watch?v=2Q2DL0ojauA)
 
 * [FTC’s Shot Across the Bow: Purpose and Use Restrictions Could Frame The Future of Personal Data Management](https://identitypraxis.com/2021/11/03/ftcs-shot-across-the-bow-purpose-and-use-restrictions-could-frame-the-future-of-personal-data-management/) Identity Praxis
 
-So that there is no uncertainty or doubt, however, Duball[4](https://identitypraxis.com/2021/11/03/ftcs-shot-across-the-bow-purpose-and-use-restrictions-could-frame-the-future-of-personal-data-management/%23fn4) reports that, while consumer privacy is a chief concern for the commission, it is not the primary concern to the exclusion of other concerns. The commission is also worried about algorithmic bias and “dark patterns” practices.
+So that there is no uncertainty or doubt, however, Duball[4](https://identitypraxis.com/2021/11/03/ftcs-shot-across-the-bow-purpose-and-use-restrictions-could-frame-the-future-of-personal-data-management/#fn4) reports that, while consumer privacy is a chief concern for the commission, it is not the primary concern to the exclusion of other concerns. The commission is also worried about algorithmic bias and “dark patterns” practices.
 * [Self-Sovereign Identity Personal Data Usage Licensing (SSI-PDUL) Model: Whitepaper](https://hyperonomy.files.wordpress.com/2019/11/hyperonomy-ssi-personal-data-usage-licensing-model-ssi-pdul-model-2021-0.27rd.pdf) Hyperonomy
 
 The scope of the Self-Sovereign Identity Personal Data Usage Licensing (SSI-PDUL) Model is personal digital identifiers and any associated identity data presented by Alice to the App. It does not include the permissioning of data internal to the App (although the natural extension of the solution to internal data is an obvious one)
@@ -178,7 +175,7 @@ I talked about how the break from the W3C DID specs and other key innovations in
 
 * [Credential Marketplaces](https://iiw.idcommons.net/12K/_Credential_Marketplaces) by Martin Riedel, Stepan Gershuni
 
-Presentation: [https://docs.google.com/presentation/d/1WOXgHhgAwG0Im45pZkTAhsadpd8xbck0xjlnsuVGGhI/edit?ts=60803bc8](https://docs.google.com/presentation/d/1WOXgHhgAwG0Im45pZkTAhsadpd8xbck0xjlnsuVGGhI/edit?ts%3D60803bc8%23slide%3Did.gd369c9df06_0_17)
+Presentation: [https://docs.google.com/presentation/d/1WOXgHhgAwG0Im45pZkTAhsadpd8xbck0xjlnsuVGGhI/edit?ts=60803bc8](https://docs.google.com/presentation/d/1WOXgHhgAwG0Im45pZkTAhsadpd8xbck0xjlnsuVGGhI/edit?ts=60803bc8#slide=id.gd369c9df06_0_17)
 
 The goal of this session is to present the idea and get community feedback regarding this.
 
@@ -197,7 +194,7 @@ Credential Marketplace is quite high up the SSI stack but we want to start this 
 11. Reputation mechanism for credential issuers
 12. Marketplace can also implement value transfer: paying for issuance by the verifier, for example. Even if they are part of different SSI ecosystems. This is optional but can help incentivize different participants.
 
-* [https://docs.google.com/presentation/d/1VaxwE9d4kEvmsJGUMWcvLf5WOQRcv5o_wTGTsecfseA/edit?usp=sharing](https://docs.google.com/presentation/d/1VaxwE9d4kEvmsJGUMWcvLf5WOQRcv5o_wTGTsecfseA/edit?usp%3Dsharing)
+* [https://docs.google.com/presentation/d/1VaxwE9d4kEvmsJGUMWcvLf5WOQRcv5o_wTGTsecfseA/edit?usp=sharing](https://docs.google.com/presentation/d/1VaxwE9d4kEvmsJGUMWcvLf5WOQRcv5o_wTGTsecfseA/edit?usp=sharing)
 
 * [International Semantic Infrastructure: Requirements for a distributed data economy](https://iiw.idcommons.net/21L/_International_Semantic_Infrastructure:_Requirements_for_a_distributed_data_economy) by Paul Knowles
 
@@ -207,11 +204,11 @@ Brent Shambaugh. Integrate computing, processing, storage. Virtual machine to in
 
 Linking data together is about machine readability. Involved humans… need to understand. Do it through language. Humans like OCA because can understand data in different languages, makes sense for people. Human element. In that capture space. Want to refine OCA, take out some of the rules parts, masking overlay, conditional overlays, and get it away from OCA as architecture - it convolutes things. OCA only meant for making theings human-readable.
 
-* [Creating a positive vision for the future - decentralised web + SSI](https://iiw.idcommons.net/21I/_Creating_a_positive_vision_for_the_future_-_decentralised_web_%252B_SSI) by Jemima Gibbons
+* [Creating a positive vision for the future - decentralised web + SSI](https://iiw.idcommons.net/21I/_Creating_a_positive_vision_for_the_future_-_decentralised_web_+_SSI) by Jemima Gibbons
 
 Discussion moved to this Miro board:
 
-* [https://miro.com/app/board/o9J_lII_R8s=/](https://miro.com/app/board/o9J_lII_R8s%3D/)
+* [https://miro.com/app/board/o9J_lII_R8s=/](https://miro.com/app/board/o9J_lII_R8s=/)
 
 * [IIW32_TH_21I_Creating a Positive Visition for Future - Decentralised Wed + SSI](https://docs.google.com/document/d/1iELB7PlUp_5ZJa9LGxWXium_-pHcXS35MG4oGgDl98s/edit)
 
@@ -224,8 +221,8 @@ Discussion moved to this Miro board:
 
 17:52:46 From Orie Steele to Everyone : Shameless plug for our work with GS1 on VCs
 
-* [https://www.youtube.com/watch?v=iDkANArgdKI&t=15s](https://www.youtube.com/watch?v%3DiDkANArgdKI%26t%3D15s)
-* [The Anatomy Of Personal Data Sovereignty](https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/04/the-anatomy-of-personal-data-sovereignty/?sh%3D69dbea5761e1) in Forbes
+* [https://www.youtube.com/watch?v=iDkANArgdKI&t=15s](https://www.youtube.com/watch?v=iDkANArgdKI&t=15s)
+* [The Anatomy Of Personal Data Sovereignty](https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/04/the-anatomy-of-personal-data-sovereignty/?sh=69dbea5761e1) in Forbes
 
 The data privacy/control issue isn’t new, but the attitude shift is. People care more, demand more, and the scale of change that has occurred due to the Covid-19 pandemic is major. As we live through times exposing such injustice and inequality, it's becoming evident that this personal data ecosystem needs to undergo a major revamp.
 * [BIS Annual Report](https://www.bis.org/publ/arpdf/ar2022e3.pdf) section III. The future monetary system on page 41 in the chart

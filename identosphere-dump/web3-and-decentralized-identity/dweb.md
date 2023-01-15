@@ -35,17 +35,17 @@ Participants downloaded an SSB app: Patchwork and/or Manyverse.
 
 Convener introduced the concepts of SSB Rooms and Pubs, and proposed using Rooms for onboarding, referring to a public list of SSB rooms:
 
-* [https://github.com/ssbc/ssb-server/wiki/%23ssbrooms](https://github.com/ssbc/ssb-server/wiki/%2523ssbrooms)
+* [https://github.com/ssbc/ssb-server/wiki/#ssbrooms](https://github.com/ssbc/ssb-server/wiki/#ssbrooms)
 
 * [https://ssbc.github.io/scuttlebutt-protocol-guide/](https://ssbc.github.io/scuttlebutt-protocol-guide/)
 
 * [Kepler: Permissioned Replicated Storage for Decentralized Applications](https://iiw.idcommons.net/12J/_Kepler:_Permissioned_Replicated_Storage_for_Decentralized_Applications) by Charles Cunningham, Wayne Chang
 
-Slides: [https://docs.google.com/presentation/d/1_oaVcx2IEbUEr9I-23Fd1e9ZMkIYtxpJe76zYq1oVZE/edit?usp=sharing](https://docs.google.com/presentation/d/1_oaVcx2IEbUEr9I-23Fd1e9ZMkIYtxpJe76zYq1oVZE/edit?usp%3Dsharing)
+Slides: [https://docs.google.com/presentation/d/1_oaVcx2IEbUEr9I-23Fd1e9ZMkIYtxpJe76zYq1oVZE/edit?usp=sharing](https://docs.google.com/presentation/d/1_oaVcx2IEbUEr9I-23Fd1e9ZMkIYtxpJe76zYq1oVZE/edit?usp=sharing)
 
 * [Decentralized publication, micro-publication and moderation-- what the real pitfalls would be.](https://iiw.idcommons.net/24L/_Decentralized_publication,_micro-publication_and_moderation--_what_the_real_pitfalls_would_be.) by Kim Duffy, Juan Caballero
 
-* [https://docs.google.com/presentation/d/1RMozl86wihBw8_rJvC97tUUjYVpTHk6aF8QOs_ng6l0/edit?usp=sharing](https://docs.google.com/presentation/d/1RMozl86wihBw8_rJvC97tUUjYVpTHk6aF8QOs_ng6l0/edit?usp%3Dsharing)
+* [https://docs.google.com/presentation/d/1RMozl86wihBw8_rJvC97tUUjYVpTHk6aF8QOs_ng6l0/edit?usp=sharing](https://docs.google.com/presentation/d/1RMozl86wihBw8_rJvC97tUUjYVpTHk6aF8QOs_ng6l0/edit?usp=sharing)
 
 Set-up Presentation:
 
@@ -92,7 +92,7 @@ empowers people to message each other completely privately, without the involvem
 
 * [The DWeb Is An Ensemble Piece - Holochain Blog](https://blog.holochain.org/the-dweb-is-an-ensemble-piece/) Holochain
 
-I witness demos of [Social Sensemaker](https://www.youtube.com/watch?v%3DOaaK6oXL6Ls) and [We](https://github.com/lightningrodlabs/we), working examples of Holochain apps that help groups create healthy online social spaces to work and play in
+I witness demos of [Social Sensemaker](https://www.youtube.com/watch?v=OaaK6oXL6Ls) and [We](https://github.com/lightningrodlabs/we), working examples of Holochain apps that help groups create healthy online social spaces to work and play in
 
 * [How Ethereal Engine is Unleashing the Power of the Immersive Web](https://www.linkedin.com/pulse/how-ethereal-engine-unleashing-power-immersive-web-etherealengine/) Ethereal Engine
 

@@ -20,7 +20,7 @@ When a medical accrediting agency provides a digitally signed certificate, the h
 
 * [The Human Colossus Foundation will present its Dynamic Data Economy -DDE concept at the DIA conference in Brussels](https://humancolossus.foundation/blog/dde-dia)
 
-Promising advances in digital personal health empower patients. Technologically, we could shift from symptom based intervention to prevention and early treatment.  But advanced innovations also generate debates on trust in sharing intrusive data and regulatory compliance. You can find details regarding our panel presentation [here](https://www.diahome.org/en/conference-listing/meetings/2022/03/dia-europe-2022/agenda/29/precision-prevention-in-a-dynamic-data-economy?ref%3DPrecisionPreventioninaDynamicDataEconomy).
+Promising advances in digital personal health empower patients. Technologically, we could shift from symptom based intervention to prevention and early treatment.  But advanced innovations also generate debates on trust in sharing intrusive data and regulatory compliance. You can find details regarding our panel presentation [here](https://www.diahome.org/en/conference-listing/meetings/2022/03/dia-europe-2022/agenda/29/precision-prevention-in-a-dynamic-data-economy?ref=PrecisionPreventioninaDynamicDataEconomy).
 * [A Digital Staff Passport for hospital facilities, DIZME voted best solution at SHACK22 hackathon](https://infocert.digital/a-digital-staff-passport-for-the-safe-mobility-of-staff-in-hospital-facilities-dizme-has-been-voted-as-the-best-solution-at-shack22-hackathon/) Infocert
 
 The hackathon held by INTEROPen, a leading organization to support & accelerate the delivery and adoption of Interoperability Standards in health & social, in partnership with NHS (National Health System) was aimed at developing innovative solutions for the management of access and safe mobility of staff in hospital facilities.
@@ -41,7 +41,7 @@ Most healthcare organizations are and should be, focused on their core business 
 
 * [TheirCharts](https://blogs.harvard.edu/doc/2022/01/15/theircharts/) Doc Searls
 
-If you’re getting health care in the U.S., chances are your providers are now trying to give you a better [patient experience](https://www.epic.com/software%23PatientEngagement) through a website called MyChart.
+If you’re getting health care in the U.S., chances are your providers are now trying to give you a better [patient experience](https://www.epic.com/software#PatientEngagement) through a website called MyChart.
 
 This is supposed to be yours, as the first person singular pronoun My implies. Problem is, it’s TheirChart.
 
@@ -49,7 +49,7 @@ This is supposed to be yours, as the first person singular pronoun My implies. P
 
 The Interoperability and Patient Access final rule (CMS-9115-F) delivers on the government's promise to put patients first, giving them access to their health information when they need it most and in a way they can best use it. As part of the MyHealthEData initiative, this final rule is focused on driving interoperability and patient access to health information by liberating patient data using CMS authority to regulate Medicare Advantage (MA), Medicaid, CHIP, and Qualified Health Plan (QHP) issuers on the Federally-facilitated Exchanges (FFEs).
 
-* [Advances in health "must ensure self-sovereign identity"](https://healthcareglobal.com/digital-healthcare/advances-health-must-ensure-self-sovereign-identity?page%3D1) Healthcare Global
+* [Advances in health "must ensure self-sovereign identity"](https://healthcareglobal.com/digital-healthcare/advances-health-must-ensure-self-sovereign-identity?page=1) Healthcare Global
 
 Meanwhile a new report has found that the majority of the British public is willing to embrace digital healthcare tools  such as apps and digital therapies prescribed by a trusted healthcare professional.
 

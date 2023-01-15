@@ -108,11 +108,11 @@ Consent doesn’t scale well from the consumer’s perspective.
 
 * [@tomfishburne](https://twitter.com/tomfishburne)
 
-“The Personalization Privacy Paradox” - new cartoon and post on zero party data versus third party data [https://marketoonist.com/2021/07/zeropartydata.html](https://t.co/6OQq7fAAaP?amp%3D1)
+“The Personalization Privacy Paradox” - new cartoon and post on zero party data versus third party data [https://marketoonist.com/2021/07/zeropartydata.html](https://t.co/6OQq7fAAaP?amp=1)
 
 * [How the cookie poisoned the Web](https://blogs.harvard.edu/doc/2021/05/14/poison/)
 
-Have you wondered why you have no more privacy on the Web than what other parties grant you ([which is none at all](https://www.linuxjournal.com/content/if-your-privacy-hands-others-alone-you-dont-have-any)), and that you can only opt in or out of choices that others provide—while the only controls you have over your privacy are to skulk around like a criminal (thank you, [Edward Snowden and Russell Brand](https://www.youtube.com/watch?v%3D2jxdwIkFdj8), for that analogy) or to stay offline completely?
+Have you wondered why you have no more privacy on the Web than what other parties grant you ([which is none at all](https://www.linuxjournal.com/content/if-your-privacy-hands-others-alone-you-dont-have-any)), and that you can only opt in or out of choices that others provide—while the only controls you have over your privacy are to skulk around like a criminal (thank you, [Edward Snowden and Russell Brand](https://www.youtube.com/watch?v=2jxdwIkFdj8), for that analogy) or to stay offline completely?
 * [Me2BA Product Testing Spotlight Report Published: Data Sharing in Primary & Secondary School Mobile Apps](https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/)
 
 60% of School Apps are Sending Student Data to Potentially High-risk Third Parties Without Knowledge or Consent According to New Research from Me2B Alliance
@@ -130,7 +130,7 @@ This article makes two central contributions. The first is the construction of a
 
 Provisional authenticity and confidentiality can help us manage the trade offs between privacy and authenticity to support online accountability along with functional privacy.
 
-* [Use Sudo Platform’ Decentralized Identity Capabilities to Rapidly Deliver Customer Privacy Solutions](https://anonyome.com/2022/04/how-your-business-can-rapidly-deliver-customer-privacy-solutions-with-the-sudo-platform-a-5-part-series%25ef%25bf%25bc/) Anonyme
+* [Use Sudo Platform’ Decentralized Identity Capabilities to Rapidly Deliver Customer Privacy Solutions](https://anonyome.com/2022/04/how-your-business-can-rapidly-deliver-customer-privacy-solutions-with-the-sudo-platform-a-5-part-series%ef%bf%bc/) Anonyme
 
 In this 5-part series, we’ll look at how enterprises can rapidly deliver customer privacy solutions with the Sudo Platform digital identities and decentralized identity capabilities.
 

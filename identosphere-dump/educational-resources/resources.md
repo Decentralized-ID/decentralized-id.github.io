@@ -17,7 +17,7 @@ DIF has launched a massive Decentralized Identity [Knowledgebase](https://ident
 🔥 This is a community resource for tracking the adoption of verifiable credentials around the world. Please have a look around and join 10+ others who have contributed!
 
 ## Course
-* [New Badged Open Course: Decentralising Education Using Blockchain Technology](https://www.open.edu/openlearncreate/course/view.php?id%3D7981) Alexander.Mikroyannidis ([from CCG](https://lists.w3.org/Archives/Public/public-credentials/2021Oct/0044.html)
+* [New Badged Open Course: Decentralising Education Using Blockchain Technology](https://www.open.edu/openlearncreate/course/view.php?id=7981) Alexander.Mikroyannidis ([from CCG](https://lists.w3.org/Archives/Public/public-credentials/2021Oct/0044.html)
 
 Available on the Open University’s OpenLearn Create platform and is licensed under CC BY-NC-SA 4.0. Upon completion of the course, learners earn a free statement of participation.
 
@@ -29,7 +29,7 @@ Gain a solid foundation on self-sovereign identity (SSI) with a 360 degree overv
 
 The course is available on the Open University’s OpenLearn Create platform and is licensed under CC BY-NC-SA 4.0. Upon completion of the course, learners earn a free statement of participation.
 
-* [You can view the course here](https://www.open.edu/openlearncreate/course/view.php?id%3D7981). Your feedback is very welcome.
+* [You can view the course here](https://www.open.edu/openlearncreate/course/view.php?id=7981). Your feedback is very welcome.
 
 * [Becoming a Hyperledger Aries Developer](https://training.linuxfoundation.org/training/becoming-a-hyperledger-aries-developer-lfs173/) Linux Foundation
   > Learn how to develop blockchain-based production-ready identity applications with Hyperledger Aries in this free course.

@@ -47,9 +47,9 @@ It suggests updates to the [SafeCurves website](https://safecurves.cr.yp.to/)
 
 We are happy to announce today that we have our first demonstration of cross-vendor interoperability between Danube Tech and Digital Bazaar for verification regarding the Data Integrity and Ed25519Signature2020 work items:
 
-* [https://w3c-ccg.github.io/di-ed25519-test-suite/#Data%20Integrity%20(verifier](https://w3c-ccg.github.io/di-ed25519-test-suite/%23Data%2520Integrity%2520(verifier)
+* [https://w3c-ccg.github.io/di-ed25519-test-suite/#Data%20Integrity%20(verifier](https://w3c-ccg.github.io/di-ed25519-test-suite/#Data%20Integrity%20(verifier)
 
-* [https://w3c-ccg.github.io/di-ed25519-test-suite/#Ed25519Signature2020%20(verifier](https://w3c-ccg.github.io/di-ed25519-test-suite/%23Ed25519Signature2020%2520(verifier)
+* [https://w3c-ccg.github.io/di-ed25519-test-suite/#Ed25519Signature2020%20(verifier](https://w3c-ccg.github.io/di-ed25519-test-suite/#Ed25519Signature2020%20(verifier)
 
 * [Streamlining Data Integrity Cryptosuites](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/0115.html)  Manu Sporny (Sunday, 31 July)
 
@@ -78,7 +78,7 @@ Final Reports. Namely:
 
 ## Jose-Cose
 
-* [Two new COSE- and JOSE-related Internet Drafts with Tobias Looker](https://self-issued.info/?p%3D2260) Mike Jones
+* [Two new COSE- and JOSE-related Internet Drafts with Tobias Looker](https://self-issued.info/?p=2260) Mike Jones
   > This week, [Tobias Looker](https://twitter.com/tplooker) and I submitted two individual Internet Drafts for consideration by the [COSE working group](https://datatracker.ietf.org/wg/cose/about/).
 * [XMSS: Generating usable test vectors for JOSE and COSE](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0007.html)  Orie Steele (Sunday, 3 April)
 
@@ -111,7 +111,7 @@ The TLDR is to assume that we need hard answers as a community, and at the stand
 
 * [[CEIP] Draft paper on Cryptographically Enforceable Issuer Policies](https://lists.w3.org/Archives/Public/public-credentials/2021May/0170.html)  Joosten, H.J.M. (Rieks) May 30
 
-my colleague Sterre and I drafted [a paper that we provisionally called Cryptographically Enforceable Issuer Policies](https://docs.google.com/document/d/1c8kIUqB2BBzM3usfD0_s5wu_z6K2KndzJ4uK_oZcPOs/edit?usp%3Dsharing), which describes our current thinking on this topic.
+my colleague Sterre and I drafted [a paper that we provisionally called Cryptographically Enforceable Issuer Policies](https://docs.google.com/document/d/1c8kIUqB2BBzM3usfD0_s5wu_z6K2KndzJ4uK_oZcPOs/edit?usp=sharing), which describes our current thinking on this topic.
 
 The paper isn’t finished. We need more text in the ‘discussions’ section, and hope that by making the draft available we’ll get the discussions that we (or you?) can describe in there. Also, we might have missed stuff that you as a reader need for a proper understanding of what this is all about, and to start pondering for what (other) purposes all this might be used. Or why this proposal is a very bad idea that we should not spend any more time on.
 

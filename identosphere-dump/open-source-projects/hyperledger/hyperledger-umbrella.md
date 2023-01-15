@@ -33,7 +33,7 @@ The current credential verification process relies on transaction processing by 
 
 * [Building a Hyperledger Indy Network](https://iiw.idcommons.net/1H/_Building_a_Hyperledger_Indy_Network_-_Questions,_discussion,_etc.) - Questions, discussion, etc. by Lynn Bendixsen
 
-Slides link: [https://docs.google.com/presentation/d/1sUG4297GiRcUdu4aqQnc0Op0LMhbwiqy9LIAINHfSFQ/edit#slide=id.p1](https://docs.google.com/presentation/d/1sUG4297GiRcUdu4aqQnc0Op0LMhbwiqy9LIAINHfSFQ/edit%23slide%3Did.p1)
+Slides link: [https://docs.google.com/presentation/d/1sUG4297GiRcUdu4aqQnc0Op0LMhbwiqy9LIAINHfSFQ/edit#slide=id.p1](https://docs.google.com/presentation/d/1sUG4297GiRcUdu4aqQnc0Op0LMhbwiqy9LIAINHfSFQ/edit#slide=id.p1)
 
 Links to guides for creating your own Indy network:
 
@@ -46,7 +46,7 @@ Technical details (implementation):
 * [https://docs.google.com/document/d/1Tg4dAEtC78TxG9AsIby_CfpbeOicK_YMKznSQOvtIVU/edit](https://docs.google.com/document/d/1Tg4dAEtC78TxG9AsIby_CfpbeOicK_YMKznSQOvtIVU/edit)
 * [https://northernblock.io/products/ssi-enterprise-cloud/](https://northernblock.io/products/ssi-enterprise-cloud/). In this video, we will demonstrate how to create new Verifiable Credentials with custom schemas using the NB Orbit enterprise app. Once the credential schema is created and the attribute fields specified, the enterprise user can then publish a credential definition to whatever root of trust they are using, in our case a Hyperledger Indy network.
 
-* [How to Create New Verifiable Credentials with Customizable Schemas](https://www.youtube.com/watch?v%3D3JR6_tQYhgk)
+* [How to Create New Verifiable Credentials with Customizable Schemas](https://www.youtube.com/watch?v=3JR6_tQYhgk)
   > In this video, we will demonstrate how to create new Verifiable Credentials with custom schemas using the NB Orbit enterprise app. 
   > 
   > Once the credential schema is created and the attribute fields specified, the enterprise user can then publish a credential definition to whatever root of trust they are using, in our case a Hyperledger Indy network.
@@ -80,7 +80,7 @@ As our approach evolves, we also remain keen to support open source solutions th
 
 * [IDunion Introduction and AMA (there will be another one tomorrow!)](https://iiw.idcommons.net/12D/_IDunion_Introduction_and_AMA_(there_will_be_another_one_tomorrow!)) by Andre Kudra + available IDunion crew!
 
-* [IDunion](https://idunion.org/?lang%3Den) enables self-determined identities based on Self-Sovereign Identity (SSI) technologies Hyperledger Indy and Hyperledger Aries. The aim of the IDunion organisation is to create an open ecosystem for decentralised identity management, which can be used  worldwide and is based on European values and regulations. IDunion is also a [project](https://www.digitale-technologien.de/DT/Redaktion/DE/Standardartikel/SchaufensterSichereDigIdentProjekte/Schaufensterprojekte/sdi-projekt_idunion.html) co-funded by the [German Federal Ministry of Economic Affairs (BMWi)](https://www.bmwi.de/Navigation/EN/Home/home.html) as part of the [Showcases Secure Digital Identities program](https://www.digitale-technologien.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/Sichere_Digitale_Identitaeten/sichere_digitale_ident.html). We gave an introduction covering
+* [IDunion](https://idunion.org/?lang=en) enables self-determined identities based on Self-Sovereign Identity (SSI) technologies Hyperledger Indy and Hyperledger Aries. The aim of the IDunion organisation is to create an open ecosystem for decentralised identity management, which can be used  worldwide and is based on European values and regulations. IDunion is also a [project](https://www.digitale-technologien.de/DT/Redaktion/DE/Standardartikel/SchaufensterSichereDigIdentProjekte/Schaufensterprojekte/sdi-projekt_idunion.html) co-funded by the [German Federal Ministry of Economic Affairs (BMWi)](https://www.bmwi.de/Navigation/EN/Home/home.html) as part of the [Showcases Secure Digital Identities program](https://www.digitale-technologien.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/Sichere_Digitale_Identitaeten/sichere_digitale_ident.html). We gave an introduction covering
 
 - The IDunion consortium consists of 37 partners - other major partners have already signaled interest in participating
 - Our solution is enabled by the distributed ledger technology (DLT) and the concept of self-sovereign identities (SSI)
@@ -111,7 +111,7 @@ Some interesting points
 
 Links:
 
-DEMO:  [https://www.youtube.com/watch?v=09-LOHPTHWs](https://www.youtube.com/watch?v%3D09-LOHPTHWs)
+DEMO:  [https://www.youtube.com/watch?v=09-LOHPTHWs](https://www.youtube.com/watch?v=09-LOHPTHWs)
 
 Connect with Us: [https://chat.hyperledger.org/channel/business-partner-agent](https://chat.hyperledger.org/channel/business-partner-agent)
 
@@ -144,10 +144,10 @@ With the groundwork complete, networks and agent frameworks now need to incorpor
 
 * [An automatized Identity and Access Management system for IoT combining SSI and smart contracts](https://arxiv.org/pdf/2201.00231.pdf) Montassar Naghmouchi, Hella Kaffel, and Maryline Laurent
 
-This paper proposes a blockchain-based identity and access management system for IoT – specifically smart vehicles- as an example of use-case, showing two interoperable blockchains, Ethereum and Hyperledger Indy, and a self-sovereign * [Hyperledger Identity Screencast: Social Recovery for Passwords and Secrets](https://www.youtube.com/watch?v%3D1c05mFuEQ5s)
+This paper proposes a blockchain-based identity and access management system for IoT – specifically smart vehicles- as an example of use-case, showing two interoperable blockchains, Ethereum and Hyperledger Indy, and a self-sovereign * [Hyperledger Identity Screencast: Social Recovery for Passwords and Secrets](https://www.youtube.com/watch?v=1c05mFuEQ5s)
 
-A demonstration of using social recovery for things like recovery passwords of self-sovereign identity digital wallets. The website [http://passguardian.com](https://www.youtube.com/redirect?event%3Dvideo_description%26redir_token%3DQUFFLUhqbnFXWC1vZEVSZS11Ynl1ZGpBRk1uMUN6VnhnUXxBQ3Jtc0tuRjRPbmFSOEVqU1FNSEJDMml0WXYzUjlmRUdyZk5lVWJSc2p1QnFHV0pMZzNfVlBpNVJ0UGZvY2pEVUlzTFA1LWJlQUU0Q190akpyQndJWmU3bDZranNJVUZxZi1JX2pJb2I1SEtpRXB0cjhCQWNNdw%26q%3Dhttp%253A%252F%252Fpassguardian.com)​ is used to show how a secret can be encoded and distributed as shards, and then later some of the shards combined to restore the secret. This video is part of a [Linux Foundation course on Hyperledger Identity](https://training.linuxfoundation.org/training/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa/), published on edX.
+A demonstration of using social recovery for things like recovery passwords of self-sovereign identity digital wallets. The website [http://passguardian.com](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnFXWC1vZEVSZS11Ynl1ZGpBRk1uMUN6VnhnUXxBQ3Jtc0tuRjRPbmFSOEVqU1FNSEJDMml0WXYzUjlmRUdyZk5lVWJSc2p1QnFHV0pMZzNfVlBpNVJ0UGZvY2pEVUlzTFA1LWJlQUU0Q190akpyQndJWmU3bDZranNJVUZxZi1JX2pJb2I1SEtpRXB0cjhCQWNNdw&q=http%3A//passguardian.com)​ is used to show how a secret can be encoded and distributed as shards, and then later some of the shards combined to restore the secret. This video is part of a [Linux Foundation course on Hyperledger Identity](https://training.linuxfoundation.org/training/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa/), published on edX.
 identity model.
-* [Technical Design and Development of a Self-Sovereign Identity Management Platform for Patient-Centric Healthcare Using Blockchain Technology](https://blockchainhealthcaretoday.com/index.php/journal/article/view/196%23.Yjkahet3YEM.twitter) Blockchain Healthcare Today
+* [Technical Design and Development of a Self-Sovereign Identity Management Platform for Patient-Centric Healthcare Using Blockchain Technology](https://blockchainhealthcaretoday.com/index.php/journal/article/view/196#.Yjkahet3YEM.twitter) Blockchain Healthcare Today
 
 To manage patient’s self-sovereign identity, we leveraged the Hyperledger Indy blockchain framework to store patient’s decentralized identifiers (DIDs) and the schemas or format for each credential type. In contrast, the credentials containing patient data are stored “off-ledger” in each person’s wallet and accessible via a computer or smartphone. We used Hyperledger Aries as a middleware layer (API) to connect Hyperledger Indy with the front-end, which was developed using a JavaScript framework, ReactJS (Web Application) and React Native (iOS Application).

@@ -11,7 +11,7 @@
 
 * [https://speakerdeck.com/aaronpk/oauth-101-internet-identity-workshop-xxxi](https://speakerdeck.com/aaronpk/oauth-101-internet-identity-workshop-xxxi)
 
-* [How OAuth Works](https://www.youtube.com/watch?v%3Dg_aVPdwBTfw%26list%3DPLRyLn6THA5wN05b3qJ6N0OpL3YbritKI-) 12 videos
+* [How OAuth Works](https://www.youtube.com/watch?v=g_aVPdwBTfw&list=PLRyLn6THA5wN05b3qJ6N0OpL3YbritKI-) 12 videos
 
 * [TMI BFF: OAuth Token Mediating and session Information Backend For Frontend](https://iiw.idcommons.net/23B/_TMI_BFF:_OAuth_Token_Mediating_and_session_Information_Backend_For_Frontend) by Vittorio Bertocci & Brian Campbell (but mostly Vittorio)
 

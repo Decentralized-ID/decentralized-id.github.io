@@ -6,7 +6,7 @@ Digital Bazaar founder, Manu Sporney, proposed the [W3C Credentials Community Gr
 
 * [@BartHanssens shares](https://twitter.com/BartHanssens/status/1319604882068787200):
   > proofs: https://w3c-ccg.github.io/ld-proofs, cryptosuite: https://w3c-ccg.github.io/ld-cryptosuite-registry, #GnuPG: signatures  https://gpg.jsld.org/contexts
-* [Open API for Interoperable Traceability](https://w3c-ccg.github.io/traceability-interop/openapi/%23overview) CCG
+* [Open API for Interoperable Traceability](https://w3c-ccg.github.io/traceability-interop/openapi/#overview) CCG
   > `resolve:dids - Grants permission to resolve DIDsissue:credentials - Grants permission issue Verifiable Credentialsverify:credentials - Grants permission verify Verifiable Credentialsread:credentials - Grants permission to get Verifiable Credentialsupdate:credentials - Grants permission to update the status of Verifiable Credentialsprove:presentations - Grants permission to prove Verifiable Presentationsverify:presentations - Grants permission verify Verifiable Presentationssubmit:presentations - Grants permission to submit Verifiable Presentations`
 
 * [We're not the only community with problems (Fwd: Open Letter to Debian election candidates about Debian vendettas)](https://lists.w3.org/Archives/Public/public-credentials/2022Mar/0127.html) Manu Sporny (Saturday, 19 March)
@@ -46,7 +46,7 @@ CCG 101 - Help us know what’s needed!
 
 To fill it out, visit:
 
-* [https://docs.google.com/forms/d/e/1FAIpQLSe3OakcEg8IfWXYALg10eiii2hiLKq2vXC-yazpPk0QVzIMzQ/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;usp=mail_form_link](https://docs.google.com/forms/d/e/1FAIpQLSe3OakcEg8IfWXYALg10eiii2hiLKq2vXC-yazpPk0QVzIMzQ/viewform?vc%3D0%26amp;c%3D0%26amp;w%3D1%26amp;flr%3D0%26amp;usp%3Dmail_form_link)
+* [https://docs.google.com/forms/d/e/1FAIpQLSe3OakcEg8IfWXYALg10eiii2hiLKq2vXC-yazpPk0QVzIMzQ/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;usp=mail_form_link](https://docs.google.com/forms/d/e/1FAIpQLSe3OakcEg8IfWXYALg10eiii2hiLKq2vXC-yazpPk0QVzIMzQ/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;usp=mail_form_link)
 
 * [CCG updates to cgbot and scribe-tool](https://lists.w3.org/Archives/Public/public-credentials/2021May/0169.html)  Manu Sporny (Sunday, 30 May)
 
@@ -72,7 +72,7 @@ Notifications of messages to this mailing list (public-credentials) are now sent
 
 * [The CCG Work Item process is outlined here](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/):
 
-* [Here's how you get started:](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit%23heading%3Dh.f28tyzjvad8g)
+* [Here's how you get started:](https://docs.google.com/document/d/1vj811aUbs8GwZUNo-LIFBHafsz4rZTSnRtPv7RQaqNc/edit#heading=h.f28tyzjvad8g)
 
 This process is open to anyone -- no W3C Membership dues, fees, etc. required to participate.
 

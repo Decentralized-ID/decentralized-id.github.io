@@ -40,7 +40,7 @@ This post shows how being intentional about community building can help people f
 * [Creating a culture of recognition](https://blog.weareopen.coop/creating-a-culture-of-recognition-39ffdb6cf943)
 * [How badges can change the world](https://blog.weareopen.coop/how-badges-can-change-the-world-73529560caa3) WeareOpen
 
-* [This model](https://www.youtube.com/watch?v%3DZcyHKKc2LVg) […] shows how systems have a lifespan and what happens as that lifespan peaks.
+* [This model](https://www.youtube.com/watch?v=ZcyHKKc2LVg) […] shows how systems have a lifespan and what happens as that lifespan peaks.
 
 As one system begins to deteriorate, a new system begins to emerge. This got us thinking about how this model applies to the world of [Open Recognition](https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629).
 
@@ -60,7 +60,7 @@ KBW helps people understand the badge landscape. The community is there to provi
   > We have a new suite of badges to encourage participation, create value for others, and reflect on that experience. Participants will be able to both earn AND award badges, so they’ll have a chance to prove that they’ve understood the theory surrounding CoPs and badges as well as put those theories into practice.
 * [Discover Open Badges 3.0!](https://app.participate.com/communities/keep-badges-weird/62003f3f-a7ba-4f6a-990a-64d6f893016d/announcements/0bc15852-0f91-48c8-a7ca-478b246b553c) Keep Badges Weird
   > 1. Check out the (accepted) [Open Badges 3.0 proposal](https://github.com/IMSGlobal/openbadges-specification/files/6977048/Proposal-Open-Badges-3.0-update-08-11-2021.pdf)​
-  > 2. ​[Watch a video](https://www.youtube.com/watch?v%3DQDGPwR1F3FY%26t%3D1357s) from the ePIC conference giving an overview of what Open Badges 3.0 will enable (or view the [slide deck](https://docs.google.com/presentation/d/1NEJoQaI9b6KC1EFDDhR3MGybGVoa0R3bQh0xuKtUKkY)
+  > 2. ​[Watch a video](https://www.youtube.com/watch?v=QDGPwR1F3FY&t=1357s) from the ePIC conference giving an overview of what Open Badges 3.0 will enable (or view the [slide deck](https://docs.google.com/presentation/d/1NEJoQaI9b6KC1EFDDhR3MGybGVoa0R3bQh0xuKtUKkY)
   > 3. Discuss what this means for you, your organisation, or your community in [this thread](https://app.participate.com/discussions/open-badges-3-0/68917656-db8f-4932-88fd-153fdb54e285)​
 * [Reflecting on the Evolving Badges and Credentials Ecosystem](https://blog.weareopen.coop/reflecting-on-the-evolving-badges-and-credentials-ecosystem-6efac4d673d3)
   > Recently, the WAO team took the opportunity to update the badge platforms page on Badge Wiki, a knowledgebase for the Open Badge community. As the ecosystem continues to evolve we’re seeing some early platforms fall by the wayside and new platforms emerge.

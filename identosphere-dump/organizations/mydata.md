@@ -32,7 +32,7 @@ published: false
 
 5. What’s missing is as important as what’s there.
 
-* [MyData Digital ethics](https://docs.google.com/presentation/d/1CWxzYLbE5kupgQLKySMGmLhs86LBgd3qfL_eBkfGkGc/edit%23slide%3Did.g7a4a7ea3ab_1_837) Antti 'Jogi' Poikola, Board Chair, MyData Global
+* [MyData Digital ethics](https://docs.google.com/presentation/d/1CWxzYLbE5kupgQLKySMGmLhs86LBgd3qfL_eBkfGkGc/edit#slide=id.g7a4a7ea3ab_1_837) Antti 'Jogi' Poikola, Board Chair, MyData Global
 
 * [Why storytelling is key to advancing the ethical use of personal data](https://blog.digi.me/2021/05/13/why-storytelling-is-key-to-advancing-the-ethical-use-of-personal-data/)
 
@@ -42,7 +42,7 @@ Johannes Ernst, CEO of Indie Computing and co-founder of MyData Silicon Valley, 
 
 Yorz has partnerships with leading European payment processors and uses patented technology to automatically capture and make available till receipt data for users to share and monetise. They can also gather other valuable data from across their lives, including finance, health and social media, using digi.me’s personal data exchange platform. The Yorz marketplace enables consumers to choose to receive cash, discounts or tailored offers based on the data access they offer brands, leaving them firmly in control.
 * [Shedding Light on Dark Patterns](https://me2ba.org/shedding-light-on-dark-patterns/)
-* [The Me2B Alliance announces: Digital Harms Dictionary 2.0](https://me2ba.sharepoint.com/:x:/s/Marketing/EeYWAV1wqqNNj77iE86ijZUBBPtlpg2uHQwQ22vzDfXSgA?rtime%3DRewrj0Qu2Ug)
+* [The Me2B Alliance announces: Digital Harms Dictionary 2.0](https://me2ba.sharepoint.com/:x:/s/Marketing/EeYWAV1wqqNNj77iE86ijZUBBPtlpg2uHQwQ22vzDfXSgA?rtime=Rewrj0Qu2Ug)
 ## MyData 2020 Online good sessions continued…
 
 * [MyData4Children-OpenSpace2020](https://bit.ly/MyData4Children-OpenSpace2020-Memo)
@@ -143,7 +143,7 @@ Against the widespread assumption that data are the oil of the 21st century, [th
 
 * [Why all data governance needs to consider children’s rights](https://medium.com/berkman-klein-center/why-all-data-governance-needs-to-consider-childrens-rights-8b218a825a08) Emmaday
 
-Last month, UNICEF published a [Manifesto on Good Data Governance for Children](https://www.unicef.org/globalinsight/media/1741/file/UNICEF%2520Global%2520Insight%2520Data%2520Governance%2520Manifesto.pdf), an initiative that was the result of a year of collaboration between a working group of 17 experts, many of them affiliated with the Berkman Klein Center for Internet & Society and UNICEF.
+Last month, UNICEF published a [Manifesto on Good Data Governance for Children](https://www.unicef.org/globalinsight/media/1741/file/UNICEF%20Global%20Insight%20Data%20Governance%20Manifesto.pdf), an initiative that was the result of a year of collaboration between a working group of 17 experts, many of them affiliated with the Berkman Klein Center for Internet & Society and UNICEF.
 
 * [MyData Global Joins “Team Data Spaces” to Support the EU’s Plan to Create “Data Spaces”](https://mydata.org/2021/06/23/mydata-global-joins-team-data-spaces-to-support-the-eus-plan-to-create-data-spaces/)
 
@@ -152,7 +152,7 @@ MyData Global announces to have joined forces with ‘Team Data Spaces’ – a 
   > As MyData Global saw in our [reflection on 2021](https://mydata.org/2021/12/17/2021-in-review-the-events-and-activities-shaping-the-personal-data-landscape/), the transformation towards a human-centric personal data economy is underway. This transformation is driven by two forces: first, the dominant unethical approaches to personal data are starting to show how unsustainable they really are.
 * [2021 in review: The events and activities shaping the personal data Landscape](https://mydata.org/2021/12/17/2021-in-review-the-events-and-activities-shaping-the-personal-data-landscape/) MyData
 
-2021 has been a productive year for MyData Global, and a significant one for the wider personal data world. The [Facebook Files](https://twitter.com/mydataorg/status/1446435772857524224?s%3D20) helped raise the issue of personal data and ethics to the general public, and the EU’s Data Governance Act has helped put into practice many of the changes [MyData Global has been advocating for](https://mydata.org/2021/10/28/mydata-and-the-european-unions-latest-data-developments/).
+2021 has been a productive year for MyData Global, and a significant one for the wider personal data world. The [Facebook Files](https://twitter.com/mydataorg/status/1446435772857524224?s=20) helped raise the issue of personal data and ethics to the general public, and the EU’s Data Governance Act has helped put into practice many of the changes [MyData Global has been advocating for](https://mydata.org/2021/10/28/mydata-and-the-european-unions-latest-data-developments/).
 
 
 * [Rulebook overcomes the lack of trust in data sharing](https://www.mydata.org/2022/08/30/rulebook-overcomes-the-lack-of-trust-in-data-sharing/) MyData

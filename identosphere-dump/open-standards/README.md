@@ -60,13 +60,13 @@ JSON-LD
 
 
 ### Data Privacy Vocab
-* [https://kantarainitiative.org/confluence/collector/pages.action?key=WA&src=sidebar-pages](https://kantarainitiative.org/confluence/collector/pages.action?key%3DWA%26src%3Dsidebar-pages)
+* [https://kantarainitiative.org/confluence/collector/pages.action?key=WA&src=sidebar-pages](https://kantarainitiative.org/confluence/collector/pages.action?key=WA&src=sidebar-pages)
 
 W3C Data Privacy Vocabulary Control
 
-* [https://dpvcg.github.io/dpv/#Representative](https://dpvcg.github.io/dpv/%23Representative)
+* [https://dpvcg.github.io/dpv/#Representative](https://dpvcg.github.io/dpv/#Representative)
 
-* [Primer] [Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/primer/%23core-taxonomy) w3c
+* [Primer] [Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/primer/#core-taxonomy) w3c
 
 Call for Comments/Feedbacks for DPV v1.0 release
 

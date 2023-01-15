@@ -4,7 +4,7 @@ published: false
 
 # KERI
 
-* [KERI Q&A basic introduction](https://iiw.idcommons.net/3K/_KERI_Q%2526A_basic_introduction) by Henk van Cann
+* [KERI Q&A basic introduction](https://iiw.idcommons.net/3K/_KERI_Q%26A_basic_introduction) by Henk van Cann
 
 This the link to the 20 minute introductory presentation in pdf:
 - [decentralized-identity/keriox](https://github.com/decentralized-identity/keriox) github -  Rust Implementation of the KERI Core Library 
@@ -35,7 +35,7 @@ With my notes:
 
 * [https://blockchainbird.org/downloads/KERI-QA-introduction_notes.pdf](https://blockchainbird.org/downloads/KERI-QA-introduction_notes.pdf)
 
-* [GLEIF and KERI (Global Legal Entity Identifier Foundation)](https://iiw.idcommons.net/1K/_GLEIF_and_KERI_(Global_Legal_Entity_Identifier_Foundation)) by Karla McKenna ([notes](https://docs.google.com/document/d/1oX7FonXfw8vofgLCHEghJwbxb4Xbf9dCkhHg50W___I/edit?usp%3Dsharing)) ([recording](https://eu01web.zoom.us/rec/play/xHLkyi5GSKHsU2frR8JX9oXXS5X_rxwTi9TcFpKtveYI3UZjOaVszW5X-Ie8_n6kJkrsAa7S0SW9zhBx.LM3S0YgffGYhm7uc?continueMode%3Dtrue)
+* [GLEIF and KERI (Global Legal Entity Identifier Foundation)](https://iiw.idcommons.net/1K/_GLEIF_and_KERI_(Global_Legal_Entity_Identifier_Foundation)) by Karla McKenna ([notes](https://docs.google.com/document/d/1oX7FonXfw8vofgLCHEghJwbxb4Xbf9dCkhHg50W___I/edit?usp=sharing)) ([recording](https://eu01web.zoom.us/rec/play/xHLkyi5GSKHsU2frR8JX9oXXS5X_rxwTi9TcFpKtveYI3UZjOaVszW5X-Ie8_n6kJkrsAa7S0SW9zhBx.LM3S0YgffGYhm7uc?continueMode=true)
 
 * [LEI Digital Strategy](https://www.gleif.org/content/3-lei-solutions/6-gleifs-digital-strategy-for-the-lei/2021-02-09_lei-digital-strategy_v1.0-final.pdf)
 
@@ -45,7 +45,7 @@ The Three KERI Security Sessions have the same set of Slides it just 3 hours to 
 
 * [https://github.com/SmithSamuelM/Papers/blob/master/presentations/KERI_Overview.web.pdf](https://github.com/SmithSamuelM/Papers/blob/master/presentations/KERI_Overview.web.pdf)
 
-* [https://identity.foundation/keri/docs/Q-and-A-Security.html#part-two-security](https://identity.foundation/keri/docs/Q-and-A-Security.html%23part-two-security)
+* [https://identity.foundation/keri/docs/Q-and-A-Security.html#part-two-security](https://identity.foundation/keri/docs/Q-and-A-Security.html#part-two-security)
 
 ### *Q: What are the security risks of KERI with regard to the identity protocol?
 
@@ -67,7 +67,7 @@ So private key management and protection is the root of your security in KERI.
 
 …you would be fundamentally arguing that you can record a singular, immutable linear event history more securely than Bitcoin, and I see nothing in KERI that would indicate that.
 
-Read the answer to [this](https://identity.foundation/keri/docs/Q-and-A-Security.html%23keri-is-basically-a-series-of-pay2publickeyhash-transactions) first.
+Read the answer to [this](https://identity.foundation/keri/docs/Q-and-A-Security.html#keri-is-basically-a-series-of-pay2publickeyhash-transactions) first.
 
 If you read Szabo’s paper on threshold structures, you get security of the same type when ever you use a threshold structure, be it MFA, Multi-Sig, or Distributed consensus. They all are using a combination of multiple relatively weak attack surfaces that must be simulatenously compromised for a successful attack. So multiplying simulatneous weak surfaces = functional equivalent of a stronger attack surface. So when you look at KERI you see that the security is primarily due to cryptographic strength and the witnesses are not the primary source of security but merely secure one thing, that is the availability of the KEL for an identifier. Not the KEL itself. The KEL iteself is secured by signatures.
 
@@ -84,7 +84,7 @@ This was a meeting of the minds between myself and Sam Smith and Adrian Gropper 
 
 The result is that there is grand convergence on the encoding and file format for key event provenance logs that will be supported by both KERI networks and the broader authentic data economy.
 
-* [KERI: Centralized registry with decentralized control (KEL & TEL ) + DEMO](https://iiw.idcommons.net/11K/_KERI:_Centralized_registry_with_decentralized_control_(KEL_%2526_TEL_)_%252B_DEMO) by Robert Mitwicki, Charles Cunningham, Phil Feairheller , Michał Pietrus
+* [KERI: Centralized registry with decentralized control (KEL & TEL ) + DEMO](https://iiw.idcommons.net/11K/_KERI:_Centralized_registry_with_decentralized_control_(KEL_%26_TEL_)_+_DEMO) by Robert Mitwicki, Charles Cunningham, Phil Feairheller , Michał Pietrus
 
 * [GLEIF vLEI with KERI](https://iiw.idcommons.net/20K/_GLEIF_vLEI_with_KERI)
 
@@ -94,7 +94,7 @@ In this session, GLEIF shares plans and progress regarding its development progr
 
 Link to presentation available until April 2022:
 
-* [https://td2ec2in3mv1euwest.teamdrive.net/bgvkygms/public/I39DS3Tn?k=MMiiLXItHvmxOtB0kFROQGXMTDFgjCngWTiQFed43Ak](https://td2ec2in3mv1euwest.teamdrive.net/bgvkygms/public/I39DS3Tn?k%3DMMiiLXItHvmxOtB0kFROQGXMTDFgjCngWTiQFed43Ak)
+* [https://td2ec2in3mv1euwest.teamdrive.net/bgvkygms/public/I39DS3Tn?k=MMiiLXItHvmxOtB0kFROQGXMTDFgjCngWTiQFed43Ak](https://td2ec2in3mv1euwest.teamdrive.net/bgvkygms/public/I39DS3Tn?k=MMiiLXItHvmxOtB0kFROQGXMTDFgjCngWTiQFed43Ak)
 
 Agnostic to any network
 
@@ -107,13 +107,13 @@ Interoperability
 - This would allow GLEIF to connect to any blockchain or distributed ledger technology SSI network without the need for custom implementation, cost and overhead of operation.
 - KERI is Quantum Safe. It is resistant to attacks by both classical and quantum computers.
 
-* [Supply chain – ACDC and KERI + DEMO](https://iiw.idcommons.net/14K/_Supply_chain_%25E2%2580%2593_ACDC_and_KERI_%252B_DEMO) by Robert Mitwicki ([video](https://eu01web.zoom.us/rec/play/GKGhv1QJ0BSoQZ9Dg-IKeyXKb0Nw0GZUry8qgvM58NS6YcZIz-u8xYMaeKn6-HpP6SMxNJvHebrvdw.NNWuKPuVGekv7zyU?continueMode%3Dtrue)
+* [Supply chain – ACDC and KERI + DEMO](https://iiw.idcommons.net/14K/_Supply_chain_%E2%80%93_ACDC_and_KERI_+_DEMO) by Robert Mitwicki ([video](https://eu01web.zoom.us/rec/play/GKGhv1QJ0BSoQZ9Dg-IKeyXKb0Nw0GZUry8qgvM58NS6YcZIz-u8xYMaeKn6-HpP6SMxNJvHebrvdw.NNWuKPuVGekv7zyU?continueMode=true)
 
-* [https://docs.google.com/presentation/d/1tF_OFGAKUz9RKCLTdwDYDu7hJuEbFz-LQ6PAih7HBK8/edit#slide=id.p](https://docs.google.com/presentation/d/1tF_OFGAKUz9RKCLTdwDYDu7hJuEbFz-LQ6PAih7HBK8/edit%23slide%3Did.p)
+* [https://docs.google.com/presentation/d/1tF_OFGAKUz9RKCLTdwDYDu7hJuEbFz-LQ6PAih7HBK8/edit#slide=id.p](https://docs.google.com/presentation/d/1tF_OFGAKUz9RKCLTdwDYDu7hJuEbFz-LQ6PAih7HBK8/edit#slide=id.p)
 
 * [https://en.wikipedia.org/wiki/Spime](https://en.wikipedia.org/wiki/Spime)
 
-* [https://wiki.trustoverip.org/display/HOME/ACDC+%28Authentic+Chained+Data+Container%29+Task+Force](https://wiki.trustoverip.org/display/HOME/ACDC%2B%2528Authentic%2BChained%2BData%2BContainer%2529%2BTask%2BForce)
+* [https://wiki.trustoverip.org/display/HOME/ACDC+%28Authentic+Chained+Data+Container%29+Task+Force](https://wiki.trustoverip.org/display/HOME/ACDC+%28Authentic+Chained+Data+Container%29+Task+Force)
 
 * [https://hackmd.io/RX8ZAycxQhSpGZgBfRzqbg?view](https://hackmd.io/RX8ZAycxQhSpGZgBfRzqbg?view)
 
