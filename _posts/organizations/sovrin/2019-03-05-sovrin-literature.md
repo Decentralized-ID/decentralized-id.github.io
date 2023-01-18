@@ -16,7 +16,7 @@ redirect_from:
   - indy-ecosystem/literature/
   - organizations/sovrin/literature/
 permalink: organizations/sovrin-foundation/literature/
-categories: ["Literature","Sovrin Foundation"]
+categories: ["Literature"]
 tags: ["Indy","Evernym","GDPR", "Sovrin Foundation","Tykn","DKMS","Humanitarian","Trust Framework"]
 last_modified_at: 2019-07-13
 ---

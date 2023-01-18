@@ -28,9 +28,9 @@ He always made sure that everyone was welcome, he brought people in and inspired
 
 * [Kim Cameron: A leader in the digital identity space](https://www.identitynorth.ca/2021/12/02/kim-cameron-a-leader-in-the-digital-identity-space/) Aran Hamilton, Identity North
 
-He spoke to us twice in 2016, first as the Keynote for our Annual Summit “[Beyond the Laws of Identity](https://www.youtube.com/watch?v%3DuqUXYl90XHM)” referring to his ground-breaking work and taking us through what he felt he missed when he published his Laws. Kim spoke later on the importance of the community when he received recognition as a [Founder of Canada’s Digital Economy](https://www.youtube.com/watch?v%3DxdlBg0Ai9aQ%26feature%3Dyoutu.be).
+He spoke to us twice in 2016, first as the Keynote for our Annual Summit “[Beyond the Laws of Identity](https://www.youtube.com/watch?v=uqUXYl90XHM)” referring to his ground-breaking work and taking us through what he felt he missed when he published his Laws. Kim spoke later on the importance of the community when he received recognition as a [Founder of Canada’s Digital Economy](https://www.youtube.com/watch?v=xdlBg0Ai9aQ&feature=youtu.be).
 
-Kim joined us again in 2020, after he retired from Microsoft and gave a different sort of talk. His [keynote](https://www.youtube.com/watch?v%3DnLSYCxw6I8c) at the IdentityNORTH Annual Summit was a sort of career retrospective
+Kim joined us again in 2020, after he retired from Microsoft and gave a different sort of talk. His [keynote](https://www.youtube.com/watch?v=nLSYCxw6I8c) at the IdentityNORTH Annual Summit was a sort of career retrospective
 
 * [Rest in Peace, Kim Cameron](https://www.kuppingercole.com/blog/resch/rest-in-peace-kim-cameron) Joerg Resch, Kuppinger Cole
 
@@ -45,7 +45,7 @@ If there was ever a person one could describe as being “full of life,” it wa
 
 Kim Cameron isn't on a mission from God, but he once played guitar with some guys who were.
 ## Kim Cameron Memorials
-* [Stories of Kim Cameron](https://self-issued.info/?p%3D2218)
+* [Stories of Kim Cameron](https://self-issued.info/?p=2218)
 
 I once asked Kim why there were so many Canadians working in digital identity. He replied: “Every day as a Canadian, you think ‘What is it that makes me uniquely Canadian, as opposed to being American? Whereas Americans never give it a thought. Canadians are always thinking about identity.'”
 

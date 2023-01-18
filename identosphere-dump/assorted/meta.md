@@ -12,7 +12,7 @@ Identity touches everything. It always will. Computation and communication conti
 
 oldie but goodie
 
-* [Batman & Identity: Crash Course Philosophy #18](https://www.youtube.com/watch?v%3D-TFCMK4i2lo%26t%3D10s)
+* [Batman & Identity: Crash Course Philosophy #18](https://www.youtube.com/watch?v=-TFCMK4i2lo&t=10s)
 
 Hank explores different ways of understanding identity – including the Indiscernibility of Identicals, and essential and accidental properties. In what ways does affect identity? In what ways does it not? What does it mean for a thing to persist over time?
 

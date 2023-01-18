@@ -12,7 +12,7 @@
 
 
 ## RootsID
-* [RootsID SSI Report - E1](https://www.youtube.com/watch?v%3DspbZp8X1eH0)
+* [RootsID SSI Report - E1](https://www.youtube.com/watch?v=spbZp8X1eH0)
 
 covers our work with DIF, Trust over IP, and attending Consensus 2022.
 
@@ -22,7 +22,7 @@ covers our work with DIF, Trust over IP, and attending Consensus 2022.
 
 ### RIF Identity
 
-* [Webinar Series: rlogin Developer Workshop from RIF Identity](https://www.youtube.com/watch?v%3Do35EgZ4VH2Q)
+* [Webinar Series: rlogin Developer Workshop from RIF Identity](https://www.youtube.com/watch?v=o35EgZ4VH2Q)
   > rLogin allows web application developers to integrate blockchain technologies giving the user the power of data portability. After integrating rLogin you achieve:
 
 - A back-end authenticating users by their wallet addressed - their Decentralized Identifiers.
@@ -32,7 +32,7 @@ covers our work with DIF, Trust over IP, and attending Consensus 2022.
 * [RIF’s Self Sovereign Identity Developer Library and Repos](https://rsci.app.link/)
 - [RSK ID Repos](https://developers.rsk.co/rif/identity/#repos)
 - [RIF Identity Documentation](https://developers.rsk.co/rif/identity/)
-* [Roadmap to Institutional Adoption of DeFi](https://www.youtube.com/watch?v%3DbkOQHcVVGoE) RSK - Coinfirm
+* [Roadmap to Institutional Adoption of DeFi](https://www.youtube.com/watch?v=bkOQHcVVGoE) RSK - Coinfirm
   > The most recent FATF updated draft guidance from March 2021 introduces significant changes to the legal definition of DeFi platforms, expanding the types of entities that fall under FATF's umbrella. In this guidance, FATF defines most operators of decentralized finance platforms as “Virtual Asset Service Providers” that have AML/CFT obligations.
 * [@ilanolkies](https://twitter.com/ilanolkies) shares: *Okey, so, today I mapped the work done in the last 3 month by [@rif_os](https://twitter.com/rif_os) about Self-Sovereign Identity protocols in a single link [https://github.com/rsksmart/rif-identity](https://github.com/rsksmart/rif-identity). All compatible with existent protocols and fully integrated into [@RSKsmart](https://twitter.com/RSKsmart) blockchain. The future is one step closer.*
 
@@ -65,14 +65,14 @@ Video: [#MARK Studio - Create tamper-proof, secure and globally verifiable digit
 ### SICPA
 Short promo User Journey videos
 
-* [SICPA Digital Identity for Travel - Sharing and Validating Credentials](https://www.youtube.com/watch?v%3DG_6d39R_Thk)
+* [SICPA Digital Identity for Travel - Sharing and Validating Credentials](https://www.youtube.com/watch?v=G_6d39R_Thk)
 
-* [SICPA Digital Identity for Refugees - Creating, Using and Validating Credentials](https://www.youtube.com/watch?v%3DOoDZFEyRN8k)
+* [SICPA Digital Identity for Refugees - Creating, Using and Validating Credentials](https://www.youtube.com/watch?v=OoDZFEyRN8k)
 - [Infrastructure Development Winners](https://essif-lab.eu/meet-the-essif-labs-ecosystem-the-infrastructure-development-instrument-first-winners/) including SICPA, Jolocom, Evernym, ValidatedID
 
 
 ### FuixLabs
-* [Demonstration of FuixLabs Self Sovereign Identity product Dominon to TownHall](https://www.youtube.com/watch?v%3DZqMInFHg-KA)
+* [Demonstration of FuixLabs Self Sovereign Identity product Dominon to TownHall](https://www.youtube.com/watch?v=ZqMInFHg-KA)
 
 
 
@@ -242,14 +242,6 @@ Chipper Cash has become the latest financial institution to adopt Onfido’s ide
 * [IDWorks turned to Tarmac to help accelerate their mobile app and backend development](https://www.tarmac.io/case-study/idworks.html)
   > Having decided to build their "Envoy" solution on the R3 Corda platform, ﬁnding affordable development resources with the right technical skills was proving difﬁcult. Corda certiﬁed developers are extremely thin-on-the-ground and if you ﬁnd a qualiﬁed engineer, they can be difﬁcult and costly to recruit
 
-### GAIA-X
-
-* [Building towards a decentralized European Data Economy: A Minimal Viable Gaia-X (MVG)](https://blog.oceanprotocol.com/building-towards-a-decentralized-european-data-economy-a-minimal-viable-gaia-x-mvg-powered-by-43a853101d) Ocean Protocol
-* [EU digital sovereignty project Gaia-X hands out ID tech contracts](https://www.theregister.com/2022/02/04/gaia_x_ssi/)
-
-* [https://www.gaia-x.eu/pdf/Gaia-X_Architecture_Document_2103.pdf](https://www.gaia-x.eu/pdf/Gaia-X_Architecture_Document_2103.pdf)
-Gaia-X is the cradle of an open, transparent, decentralized digital ecosystem, where data and services can be made available, collated, shared, and monetized in an environment of trust. [More than 300 organizations](https://www.gaia-x.eu/members) and over 2500 contributors are already supporting Gaia-X.
-
 ### ShareRing 
 
 * [Blockchain platform enables users to pay for Viator experiences with crypto](https://cointelegraph.com/news/you-can-now-pay-for-400-000-viator-tourism-experiences-with-crypto)
@@ -293,7 +285,7 @@ Identity has been a contentious point for humanity ever since we evolved societi
 
 
 ### IAMX
-* [Interview with IAMX -Self-Sovereign Identity SSI](https://www.youtube.com/watch?v%3D9-5WL6FuOlA) Spicy Dumpling Show
+* [Interview with IAMX -Self-Sovereign Identity SSI](https://www.youtube.com/watch?v=9-5WL6FuOlA) Spicy Dumpling Show
 
 insights on what IAMX does, how can users and telcos can benefit from it, and why would users be interested in and trust IAMX. Later we talked about the recording and securing of biometric information. IAMX is having an ISPO
 
@@ -302,13 +294,6 @@ insights on what IAMX does, how can users and telcos can benefit from it, and wh
   > Zetrix recently announced their [partnership with Xinghuo BIF](https://beincrypto.com/xinghuo-bif-and-zetrix-jointly-introduce-web3-services/), the national blockchain of China that is supported by all levels of the Chinese government. Xinghuo BIF is already running at a scale that allows it to process 94 million identifiers daily, and ZID will act as the international extension of Xinghuo's on-chain signing service known as Spark.
 
 ### Vereign
-
-* [The open source companies Vereign and DAASI International will lay the cornerstone for the use of state-of-the-art SSI technology in the Gaia-X sub-project GXFS.](https://daasi.de/en/2022/02/04/ssi_gaia-x/)
-
-For the realisation of the three projects, Self-Sovereign Identity will be a quintessential technology. A decentralised identity is supposed to allow users more self-determination in regards to identity data by putting the user in charge of the storage and transfer of their data. The data is only stored in a so-called wallet which belongs to the user. The wallet also contains digital keys for the authentication with services – making individual profiles for each service obsolete. State-of-the-art Blockchain technology ensures the reliability of the used data. Vereign AG, the head of the consortium, has been working with and on this technology for quite a while already. DAASI International will lend their expertise in the development of innovative open source software, as well as in classic identity management authentication technologies, and help with the development and overall realisation of the project.
-
-[AyanWorks](https://twitter.com/ayanworkstech/status/1488841615217098754): [@ayanworkstech](https://twitter.com/ayanworkstech) is excited to announce that we, along with our partners Vereign and [@DAASI_Int](https://twitter.com/DAASI_Int), have won 3 tenders from [@gaiax_aisbl](https://twitter.com/gaiax_aisbl) to build SSI solutions
-
 
 
 ### Publish
@@ -319,17 +304,17 @@ PUBLISH CEO Sonny Kwon gave an overview of a press ID app PUBLISH is building in
 
 * [PUBLISH to launch ‘PUBLISHiD’, blockchain-based authentication application, in September](https://medium.com/publishprotocol/publish-to-launch-publishid-blockchain-based-authentication-application-in-september-6b0394852fb3)
 
-PUBLISHiD users will further be able to assemble collections of verifiable credentials from one or more issuers into a single [verifiable presentation](https://www.w3.org/TR/vc-data-model/%23dfn-verifiable-presentations). Other features include DAuth-based authentication, single-sign on (SSO), and an agent ID service capable of handling the management of and security between credential issuers and verifiers.
+PUBLISHiD users will further be able to assemble collections of verifiable credentials from one or more issuers into a single [verifiable presentation](https://www.w3.org/TR/vc-data-model/#dfn-verifiable-presentations). Other features include DAuth-based authentication, single-sign on (SSO), and an agent ID service capable of handling the management of and security between credential issuers and verifiers.
 
 ## Bosch
-* [Growing confidence is programmed in – how self-sovereign digital identities make business relationships easier](https://www.bosch.com/research/blog/economy-of-things/technology/%23ssi_) Bosch
+* [Growing confidence is programmed in – how self-sovereign digital identities make business relationships easier](https://www.bosch.com/research/blog/economy-of-things/technology/#ssi_) Bosch
 
 Bosch will now also systematically transfer the self-sovereign identity (SSI) principle to the B2B sector – in other words to business relationships between companies. A further step will involve transferring it to secure and trustworthy interactions between machines.
 * [Controlling Our ID with Self-Sovereign Identities](https://fromknowhowtowow.podigee.io/19-ssi) KnowHowToWow
   > Bosch researcher Christian Borman explains how SSI will not only increase privacy but also have a positive impact on B2B interactions and supply chain management. Meanwhile, Geoff meets mentalist Thorsten Havener. Will he reveal Geoff’s true identity? 
 
 * [Digital identity – enabling secure collaboration with blockchain technology](https://www.bosch.com/stories/self-sovereign-identities/) Bosch
-* [Digital Wallets and Migration Policy: A Critical Intersection](https://www.bosch-stiftung.de/en/publication/digital-wallets-and-migration-policy-critical-intersection) ([Download](https://www.bosch-stiftung.de/sites/default/files/publications/pdf/2022-06/Digital%2520Wallets%2520and%2520Migration%2520Policy.pdf)
+* [Digital Wallets and Migration Policy: A Critical Intersection](https://www.bosch-stiftung.de/en/publication/digital-wallets-and-migration-policy-critical-intersection) ([Download](https://www.bosch-stiftung.de/sites/default/files/publications/pdf/2022-06/Digital%20Wallets%20and%20Migration%20Policy.pdf)
 
 In cross-border and migration contexts, digital wallets promise to have wide ranging implications for global governance, especially in identity management and finance. In this brief Margie Cheesman outlines use cases as well as concerns and risks when it comes to their adoption in the migration sector.
 

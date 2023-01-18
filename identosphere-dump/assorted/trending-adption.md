@@ -18,7 +18,7 @@ Decentralized identity will make our increasingly decentralized lives easier. Or
     > 2020 forced the world of identity to step up, and it has. There's much more innovation on the horizon to look forward to.
 * [Is Self-Sovereign Identity Going Exponential?](https://corporate.sybrin.com/webinar-SSI) Sybrin
 
-Watch the [first episode](https://www.youtube.com/watch?v%3DxWy0rP8uTiU) of #GameChangers, hosted by [Colin Iles](https://www.linkedin.com/in/coliniles/), sponsored by Sybrin. He asks the question: "Is self-sovereign identity going exponential?" Together with [Andrew Baker](https://www.linkedin.com/in/andrew-baker-b1357939/), Head of EC2 Engineering at AWS, and [Lohan Spies](https://www.linkedin.com/in/lohanspies/), Chair of the [Sovrin Steward Council](https://sovrin.org/join-the-new-sovrin-steward-council/), they explore the concept of Self-Sovereign Identity (SSI) in detail, discussing what profound implications SSI will have and whether it is indeed the next game changer?
+Watch the [first episode](https://www.youtube.com/watch?v=xWy0rP8uTiU) of #GameChangers, hosted by [Colin Iles](https://www.linkedin.com/in/coliniles/), sponsored by Sybrin. He asks the question: "Is self-sovereign identity going exponential?" Together with [Andrew Baker](https://www.linkedin.com/in/andrew-baker-b1357939/), Head of EC2 Engineering at AWS, and [Lohan Spies](https://www.linkedin.com/in/lohanspies/), Chair of the [Sovrin Steward Council](https://sovrin.org/join-the-new-sovrin-steward-council/), they explore the concept of Self-Sovereign Identity (SSI) in detail, discussing what profound implications SSI will have and whether it is indeed the next game changer?
 * [Top 5 digital identity trends injecting trust back into governance](https://www.openaccessgovernment.org/digital-identity-trends/125013/)
 
 * [Webinar Recording – 2021 Redux/2022 Trends To Watch](https://www.continuumloop.com/webinar-recording-2021-redux-2022-trends-to-watch/) Continuum Loop
@@ -42,10 +42,10 @@ What will be the buzzwords of 2022?
 - Web 3.0
 - Passwordless
 
-* [Robert Zapfel,](https://iov42.com/about/%23team) [iov42](https://iov42.com/) Founder, outlines the top 5 digital identity trends that are injecting trust back into governance and enterprise [...]
+* [Robert Zapfel,](https://iov42.com/about/#team) [iov42](https://iov42.com/) Founder, outlines the top 5 digital identity trends that are injecting trust back into governance and enterprise [...]
 
 From health records to product authenticity, a monumental shift in the way that individuals, governments and businesses interact with each other is underway, and shows no sign of slowing down.
-* [IIW33 Session: Crossing the chasm ➔ Mass market adoption of SSI and VC](https://www.youtube.com/watch?v%3DAhXB9Kzzklg)
+* [IIW33 Session: Crossing the chasm ➔ Mass market adoption of SSI and VC](https://www.youtube.com/watch?v=AhXB9Kzzklg)
 * [Verifiable Credentials are Coming to Card Payment Rails](https://indicio.tech/verifiable-credentials-are-coming-to-card-payment-rails/) Indicio
 
 * [One Size Doesn’t Fit All – Authentication Journeys to Digital Transformation](https://www.veridiumid.com/one-size-doesnt-fit-all-authentication-journeys-to-digital-transformation/) Veridium
@@ -92,7 +92,7 @@ In this rapid fire review we will take a look at, and break down, the biggest re
 When it comes to decentralized identity solutions, many business sponsors do not yet understand how DCI can provide practical answers to immediate frontline business problems. This climate creates the impression that decentralized identity is interesting but not ready for prime time adoption.
 
 
-* [IAM and SSI: A Combined Approach to Digital Identity](https://www.youtube.com/watch?v%3Dtzzg4cbj3mI)
+* [IAM and SSI: A Combined Approach to Digital Identity](https://www.youtube.com/watch?v=tzzg4cbj3mI)
 
 Gabe Albert, Managing Director - Security/Digital Identity, Accenture
 
@@ -107,11 +107,11 @@ speak at the June 15, 2022 All Members meeting at the Trust Over IP Foundation.
 
 We take a look at a few of the best articles on why strong digital identity will be critical as we continue to build on the internet.
 
-* [A Solution Looking for a Problem? Digital ID Solves a Million of  Them](https://www.forbes.com/sites/davidbirch/2022/08/09/solution-looking-for-a-problem-digital-id-solves-a-million-of-them/?sh%3D4d1d6bb4fd7f%25C2%25A0)
+* [A Solution Looking for a Problem? Digital ID Solves a Million of  Them](https://www.forbes.com/sites/davidbirch/2022/08/09/solution-looking-for-a-problem-digital-id-solves-a-million-of-them/?sh=4d1d6bb4fd7f%C2%A0)
 
-* [Goodbye, physical identities: How organizations can prepare for digital identity challenges](https://www.biometricupdate.com/202208/goodbye-physical-identities-how-organizations-can-prepare-for-digital-identity-challenges%25C2%25A0)
+* [Goodbye, physical identities: How organizations can prepare for digital identity challenges](https://www.biometricupdate.com/202208/goodbye-physical-identities-how-organizations-can-prepare-for-digital-identity-challenges%C2%A0)
 
-* [Digital Identities Will Change The Nature Of Online Reputation](https://www.forbes.com/sites/alastairjohnson/2022/08/30/digital-identities-will-change-the-nature-of-online-reputation/?sh%3Dbd1f30b584a3)
+* [Digital Identities Will Change The Nature Of Online Reputation](https://www.forbes.com/sites/alastairjohnson/2022/08/30/digital-identities-will-change-the-nature-of-online-reputation/?sh=bd1f30b584a3)
 
 * [Decentralized Identifiers](https://explodingtopics.com/) ExplodingTopics
 
