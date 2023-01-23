@@ -1,6 +1,7 @@
 ---
 date: 2019-03-08
 title: Microsoft Identity
+name: Microsoft
 excerpt: >
   Microsoft believes everyone has the right to own their digital identity, one that securely and privately stores all personal data. This ID must seamlessly integrate into daily life and give complete control over data access and use.
 layout: single

@@ -1,6 +1,7 @@
 ---
 date: 2020-11-04
 title: Transmute
+name: Transmute
 description: Transmute’s technology connects enterprise infrastructure with emergent identity, credential, and data storage solutions.
 excerpt: >
     Transmute digitizes trade documentation in a way that is cryptographically verifiable and traceable across an entire logistics ecosystem. The company’s approach combines decentralized identifier (DID), verifiable credential (VC), and blockchain technology with existing cloud-based systems to eliminate the paper hassle of trade docs and provide unprecedented visibility into customers’ supplier networks by effectively memorializing trade data at every step in a products’ journey from point of origin to point of import and beyond.
