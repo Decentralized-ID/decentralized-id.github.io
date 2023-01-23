@@ -32,6 +32,41 @@
     </h3>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>{% endif %}
     <p class="page__meta"><strong>Updated:</strong> {{ post.last_modified_at }} <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% if post.tags %}{% assign sorted_tags = post.tags | sort %}{% for tag in sorted_tags %}<div class="tags">{{ tag }}</div> {% endfor %}<br>{% endif %}<hr>
+
+    {% if post.name %}
+      {% assign name = post.name %}
+      {% for company in site.data.companys %}
+        {% assign dname = company.name %}
+        {% if dname == name %}
+          {% if company.parent %}
+            {% assign related = company.parent %}
+            {% assign splittags = company.related | split: ";" %}
+            {% assign splittags = splittags | push: related | push: name %}
+            {% assign sorted_tags = splittags | compact | sort_natural %}
+            {% for tag in sorted_tags %}
+              <div class="tags">{{ tag }}</div> 
+            {% endfor %}<br>
+          {% elsif company.related %}
+            {% assign related = company.related %}
+            {% assign splittags = related | append: ";" | append: name %}
+            {% assign splittags = splittags | split: ";" | compact %}
+            {% assign sorted_tags = splittags | sort_natural %}
+            {% for tag in sorted_tags %}
+              <div class="tags">{{ tag }}</div> 
+            {% endfor %}<br>
+          {% else %}
+            {% assign sorted_tags = company.name %}
+            {% for tag in sorted_tags %}
+              <div class="tags">{{ tag }}</div> 
+            {% endfor %}<br>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% elsif post.tags %}
+      {% assign sorted_tags = post.tags | sort %}
+      {% for tag in sorted_tags %}
+        <div class="tags">{{ tag }}</div> 
+      {% endfor %}<br>
+    {% endif %}<hr>
   </article> 
 </div>
