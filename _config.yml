@@ -177,6 +177,7 @@ exclude:
   - README
   - tmp
   - _drafts
+  - _data/toml
 keep_files:
   - .git
   - .svn
