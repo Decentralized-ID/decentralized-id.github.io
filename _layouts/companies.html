@@ -1,0 +1,43 @@
+---
+layout: single 
+---
+{%assign todo = "parent,use,sector,market,projects,feed,policy,event,tags" | split: ","%}
+{%assign socials = "discord,crunchbase,linkedin,telegram,twitter,youtube" | split: ","%}
+{%assign core = "docs,developers,app,forum,github" | split: ","%}
+{%assign other = "tech,standard" | split: ","%}
+{% if page.name %}
+  {% assign name = page.name %}
+  {% for row in site.data.companys %}
+    {% if row.name == name %}
+    {%if row.location %}<strong>Location:</strong> <em>{{row.location}}</em>{% elsif row.region%}&nbsp;&nbsp;<strong>Region: </strong><em>{{row.region}}</em>{%endif%}{%if row.authors.last != nil %}&nbsp;&nbsp;<strong>Founded by</strong>: {{row.authors.last}}{%endif%}{%if row.date.last != nil %}&nbsp;&nbsp;<strong>Founded date</strong>: {{row.date.last}} {%endif%}&nbsp;&nbsp;<strong>Main Links:</strong> <em><a href="{{row.link}}">Website</a>&nbsp;&nbsp;<a href="{{row.blog}}">Blog</a>&nbsp;</em>
+      {% for item in row %}
+        {% if core contains item.first %}
+          {% if item.last != nil %}
+            <em><a href="{{ item.last }}">{{item.first | capitalize}}</a></em>&nbsp;
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <strong>Socials:</strong>
+      {% for item in row %}
+        {% if socials contains item.first %}
+          {% if item.last != nil %}
+            <em><a href="{{ item.last }}">{{item.first | capitalize}}</a></em>&nbsp;
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <p><blockquote>{{row.text | markdownify }}</blockquote></p>
+    {% endif%}
+  {% endfor %}
+  <h2>Content</h2>
+  <ul>
+  {% for row in site.data.content %}
+    {% assign dname = row.main %}
+    {% if dname == page.name %}
+      {% if row.type != "Company"%}
+        <li>{% if row.parent %}[{{row.parent}}] {% endif %}<a href="{{ row.link }}">{{ row.title }}</a>{% if row.authors %}{% assign authors = row.authors %}{% if authors contains ';' %}{% assign authors = authors | replace: ";","," %}{{authors | prepend: ": "}}{% else %}{% assign authors = row.authors | prepend: ", "%}{{authors}}{%endif%}{%endif%}</li>
+        {% if row.text %}<blockquote>{{row.text | markdownify}}</blockquote>{%endif%}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </ul>
+{%endif%}
