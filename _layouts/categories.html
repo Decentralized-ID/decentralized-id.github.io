@@ -15,39 +15,30 @@ layout: archive
   {% for i in (1..categories_max) reversed %}
     {% for category in site.categories %}
       {% if category[1].size == i %}
-        {% if category[0] == "Twitter" %}
-          <!--// we do nothing-->
-        {% else if %}      
-          <li>
-            <a href="#{{ category[0] | slugify }}">
-              <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
-            </a>
-          </li>
-        {% endif %}  
+        <li>
+          <a href="#{{ category[0] | slugify }}">
+            <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+          </a>
+        </li>
       {% endif %}
     {% endfor %}
   {% endfor %}
 </ul>
 
+{% assign entries_layout = page.entries_layout | default: 'list' %}
 {% for i in (1..categories_max) reversed %}
   {% for category in site.categories %}
     {% if category[1].size == i %}
-      {% if category[0] == "Twitter" %}
-        <!--// we do nothing-->
-      {% else if %}      
-        <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
-          <h3 class="archive__subtitle">{{ category[0] }}</h3>
-          {% assign sorted_posts = category[1] | sort: 'last_modified_at' | reverse %}
-          <div class="entries-{{ page.entries_layout | default: 'list' }}">
+      <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
+        <h3 class="archive__subtitle">{{ category[0] }}</h3>
+        {% assign sorted_posts = category[1] | sort: 'last_modified_at' | reverse %}
+        <div class="entries-{{ entries_layout }}">
           {% for post in sorted_posts %}              
-            {% include archive-single.html type=page.entries_layout %}
+            {% include archive-single.html type=entries_layout %}
           {% endfor %}
-          </div>
-          <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-        </section>
-      {% endif %}
+        </div>
+        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+      </section>
     {% endif %}
   {% endfor %}
 {% endfor %}
-
-{% include social-share.html %}
