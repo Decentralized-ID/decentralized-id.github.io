@@ -4,12 +4,24 @@ layout: single
 {%assign todo = "parent,use,sector,market,projects,feed,policy,event,tags" | split: ","%}
 {%assign socials = "discord,crunchbase,linkedin,telegram,twitter,youtube" | split: ","%}
 {%assign core = "docs,developers,app,forum,github" | split: ","%}
-{%assign other = "tech,standard" | split: ","%}
 {% if page.name %}
-  {% assign name = page.name %}
   {% for row in site.data.companys %}
-    {% if row.name == name %}
-    {%if row.location %}<strong>Location:</strong> <em>{{row.location}}</em>{% elsif row.region%}&nbsp;&nbsp;<strong>Region: </strong><em>{{row.region}}</em>{%endif%}{%if row.authors.last != nil %}&nbsp;&nbsp;<strong>Founded by</strong>: {{row.authors.last}}{%endif%}{%if row.date.last != nil %}&nbsp;&nbsp;<strong>Founded date</strong>: {{row.date.last}} {%endif%}&nbsp;&nbsp;<strong>Main Links:</strong> <em><a href="{{row.link}}">Website</a>&nbsp;&nbsp;<a href="{{row.blog}}">Blog</a>&nbsp;</em>
+    {% if row.name == page.name %}
+      <p>{%if row.location %}
+        <strong>Location:</strong> <em>{{row.location}}</em>
+      {% elsif row.region%}
+        &nbsp;<strong>Region: </strong><em>{{row.region}}</em>
+      {%endif%}
+    {%if row.founders != nil %}
+      {% if row.founders contains ';' %}
+        {% assign authors = row.founders | replace: ";","," %}
+        &nbsp;<strong>Founders</strong>: {{authors}}
+      {%else%}
+        &nbsp;<strong>Founder</strong>: {{row.founders}}
+      {%endif%}
+    {%endif%}
+    {%if row.date != nil %}&nbsp;<strong>Founded</strong>: {{row.date}} {%endif%}<br>
+    <strong>Main:</strong> <em><a href="{{row.link}}">Website</a>&nbsp;<a href="{{row.blog}}">Blog</a>&nbsp;</em>
       {% for item in row %}
         {% if core contains item.first %}
           {% if item.last != nil %}
@@ -27,17 +39,110 @@ layout: single
       {% endfor %}
       <p><blockquote>{{row.text | markdownify }}</blockquote></p>
     {% endif%}
-  {% endfor %}
-  <h2>Content</h2>
-  <ul>
-  {% for row in site.data.content %}
-    {% assign dname = row.main %}
-    {% if dname == page.name %}
-      {% if row.type != "Company"%}
-        <li>{% if row.parent %}[{{row.parent}}] {% endif %}<a href="{{ row.link }}">{{ row.title }}</a>{% if row.authors %}{% assign authors = row.authors %}{% if authors contains ';' %}{% assign authors = authors | replace: ";","," %}{{authors | prepend: ": "}}{% else %}{% assign authors = row.authors | prepend: ", "%}{{authors}}{%endif%}{%endif%}</li>
-        {% if row.text %}<blockquote>{{row.text | markdownify}}</blockquote>{%endif%}
-      {% endif %}
-    {% endif %}
+  {% endfor %}</p>
+  {%assign headers = "Meta,Ecosystem,Product,Standards,HowTo,Resources,Explainer" | split: "," %}
+  {% for item in headers %}
+    {%assign mark=''%}
+      {% for row in site.data.content %}
+      {% if row.section == item and row.main == page.name and mark != 1 %}{%assign mark = 1%}<h2 id="{{item}}">{{item | capitalize}}</h2><ul>{%endif%}
+      {% if row.section == item and row.main == page.name %}
+        {%assign attributes = "tags,market,use,sector,projects,tech,standard" | split: "," %}
+        <li><small>
+        {% if row.related contains ';' %}
+          <strong>Relevant</strong>:{%assign related = row.related|split:';'%}
+          {%assign trekker = 0%}
+          {%for item in related%}
+            {%assign trekker = trekker | plus: 1%}
+          {%endfor%}
+          {%for item in related%}
+            {%if item != nil%} {{item|strip}}{%if trekker > 1%},{%assign trekker = trekker | minus: 1%}{%endif%}{%endif%}
+          {%endfor%}
+        {%elsif row.related == nil%}
+        {%else%} 
+          <strong>Relevant</strong>: {{row.related}}
+        {%endif%}
+        {%if row.parent !=nil and row.parent != page.name%}<strong>Parent: </strong>{{row.parent}}{%endif%}
+        <strong>Type: </strong>{{row.type|strip|capitalize}}</small> 
+        <strong><a href="{{ row.link }}">{{ row.title }}</a></strong>
+        <small>
+          {% if row.founders !=nil%}
+            {% if row.founders contains ';' %}
+              <strong>Author(s)</strong>{{ row.founders | replace: ";","," | prepend: ": "}}
+            {% else %}
+              <strong>Author</strong>{{row.founders | prepend: ": "}}
+            {%endif%}
+          {%endif%}
+          {%if row.date != nil%} <strong>Date:</strong> ({{row.date}}){%endif%}
+          {%for item in row%}
+            {%if attributes contains item.first and item.last != nil %}
+              {% if item.last contains ';' %}
+                <strong>{{item.first|capitalize}}:</strong> 
+                {% assign ray = item.last | split: ';'%}
+                {%for item in ray %}{%if item != " "%} {{item|strip}}{%endif%}{%endfor%}
+              {%else%} 
+                <strong>{{item.first|capitalize}}:</strong> {{item.last}}
+              {%endif%}
+            {%endif%}
+          {%endfor%}
+        </small>
+      </li>
+      {% if row.text %}<blockquote>{{row.text | markdownify}}</blockquote>{%endif%}
+    {%endif%}
   {% endfor %}
   </ul>
+  {% endfor %}
+  {%for row in site.data.content%}
+    {% if row.main != page.name and row.related contains page.name %}
+      {% assign count = 1 %}
+    {%endif%}
+  {%endfor%}
+  {%if count == 1%}
+  <h2 id="related">Related</h2>
+  <p>From other pages on this site. (Beta)</p>
+  <ul>
+    {%assign attributes = "tags,market,use,sector,projects,tech,standard" | split: "," %}
+    {%for row in site.data.content%}
+      {% if row.main != page.name and row.type != "Company" and row.related contains page.name %}
+        <li>
+          {% if row.related contains ';' %}
+            <strong>Relevant</strong>:{%assign related = row.related|split:';'%}
+            {%assign trekker = 0%}
+            {%for item in related%}
+              {%assign trekker = trekker | plus: 1%}
+            {%endfor%}
+            {%for item in related%}
+              {%if item != nil%} {{item|strip}}{%if trekker > 1%},{%assign trekker = trekker | minus: 1%}{%endif%}{%endif%}
+            {%endfor%}
+          {%elsif row.related == nil%}
+          {%else%} 
+          <strong>Relevant</strong>: {{row.related}}
+          {%endif%}
+          {%if row.parent !=nil%}<strong>Parent: </strong>{{row.parent}}{%endif%} 
+          <strong>Type: </strong>{{row.type|strip|capitalize}} 
+          <strong>Title: </strong><a href="{{ row.link }}">{{ row.title }}</a>
+          {% if row.founders !=nil%}
+            {% if row.founders contains ';' %}
+              <strong>Author(s)</strong>{{ row.founders | replace: ";","," | prepend: ": "}}
+            {% else %}
+              <strong>Author</strong>{{row.founders | prepend: ": "}}
+            {%endif%}
+          {%endif%}
+          {%if row.date != nil%} <strong>Date:</strong> ({{row.date}}){%endif%}
+          {%for item in row%}
+            {%if attributes contains item.first and item.last != nil %}
+              {% if item.last contains ';' %}
+                <strong>{{item.first|capitalize}}:</strong> 
+                {% assign ray = item.last | split: ';'%}
+                {%for item in ray %}{%if item != " "%} {{item|strip}}{%endif%}{%endfor%}
+              {%else%} 
+                <strong>{{item.first|capitalize}}:</strong> {{item.last}}
+              {%endif%}
+            {%endif%}
+          {%endfor%}
+        {% if row.text %}<blockquote>{{row.text | markdownify}}</blockquote>{%endif%}
+        </li>
+      {%endif%}
+    {%endfor%}
+  </ul>
+  {%endif%}
 {%endif%}
