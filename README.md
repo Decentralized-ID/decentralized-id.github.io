@@ -1,6 +1,6 @@
 # [decentralized-id.com](https://decentralized-id.com)
 
-## Stay Current on SSI with [Identosphere Weekly](https://identosphere.substack.com) a free newsletter by [Infominer](https://infominer.xyz) and [Identitywoman](https://identitywoman.net/)
+## Stay Current on SSI with [Identosphere Weekly](https://newsletter.identosphere.net) a free newsletter by [Infominer](https://infominer.xyz) and [Identitywoman](https://identitywoman.net/)
 
 <center><img src="images/did-twitter.webp"/></center>
 

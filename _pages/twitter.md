@@ -11,7 +11,7 @@ tags: ["DecentralizeID"]
 published: false
 ---
 
-Part of the backend supporting @infominer33 and @identitywoman in creating the weekly newsletter, [Identosphere Highlights](https://identosphere.substack.com).
+Part of the backend supporting @infominer33 and @identitywoman in creating the weekly newsletter, [Identosphere Highlights](https://newsletter.identosphere.net).
 
 {% for post in site.categories.Twitter %}
   {% include archive-twitter.html %}

@@ -32,7 +32,7 @@ didnav:
       - title: "• RWoT Papers Index"
         url: "/literature/rebooting-web-of-trust/"
       - title: "• Identity Blog Catcher"
-        url: https://identosphere.net/blogcatcher/
+        url: https://identosphere.net/
   - title: Web Standards
     url: /web-standards/
     children:
@@ -120,7 +120,7 @@ sovnav:
       - title: "• RWoT Papers Index"
         url: "/literature/rebooting-web-of-trust/"
       - title: "• Identity Blog Catcher"
-        url: https://identosphere.net/blogcatcher/
+        url: https://identosphere.net/
   - title: Web Standards
     url: /web-standards/
     children:

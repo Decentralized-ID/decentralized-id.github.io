@@ -3,7 +3,7 @@ layout: single
 title: Blockchain Identity Reources - TOML
 description: The beginnings of a tagged database for blockchain identity related resources.
 permalink: toml/id-toml/
-canonical_url: 'https://decentralized-id.com/toml/id-toml/'
+canonical_url: 'https://infominer.xyz/posts/blockchain-identity/'
 date: 2019-03-28
 redirect_from:
   - toml/id-toml.html
