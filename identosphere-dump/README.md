@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Categories
 
 - Open Standards

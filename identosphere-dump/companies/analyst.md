@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Analyst Firms
 
 - KuppingerCole

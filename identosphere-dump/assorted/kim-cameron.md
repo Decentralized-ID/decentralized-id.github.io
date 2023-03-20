@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Remembering Kim Cameron
 
 I (Kaliya) will be working on a blog post for next week. For those of you who didn’t know Kim I’m very sad you will not get to meet him. He contributed greatly to our field. He was a good friend to many and a mentor and ally for women working in the field. His [Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf) shape and continue to shape our industry - in invite you to read people’s reflections to get a small sense of who he was.
