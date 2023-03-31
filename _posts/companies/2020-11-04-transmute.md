@@ -10,8 +10,8 @@ permalink: companies/transmute/
 canonical_url: 'https://decentralized-id.com/companies/transmute/'
 redirect_from: 
   - blockchain/ethereum/transmute/
-categories: ["Companies","Ethereum"]
-tags: ["Microsoft","Consensys","DIF","Encrypted Data Vaults","Oracle"]
+categories: ["Companies"]
+tags: ["Blockchain","Microsoft","Consensys","DIF","Encrypted Data Vaults","Oracle"]
 header:
   image: /images/transmute.webp
   teaser: /images/transmute_thumb.webp

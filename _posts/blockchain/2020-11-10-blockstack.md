@@ -8,7 +8,7 @@ layout: single
 header:
   image: /images/blockstack_header.webp
   teaser: /images/blockstack_teaser.webp
-categories: ["Companies"]
+categories: ["Blockchain Based"]
 tags: ["Blockstack","Bitcoin","DID","Blockchain"]
 permalink: blockchain/blockstack/
 toc: false

@@ -9,7 +9,7 @@ header:
   teaser: /images/blockchain-Tumisu_3019121.webp
 layout: single
 permalink: /blockchain/
-categories: ["Blockchain","Literature"]
+categories: ["Blockchain Based","Literature"]
 tags: ["uPort","GDPR","Authenteq","Blockstack","Civic","Microsoft","Datum","ProCivis"]
 last_modified_at: 2020-11-10
 toc: false

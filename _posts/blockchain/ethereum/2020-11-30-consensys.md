@@ -7,8 +7,8 @@ excerpt: >
 header:
   image: /images/consensys-header.webp
   teaser: /images/consensys-teaser.webp
-categories: ["Companies","Ethereum"]
-tags: ["Consensys","Zug","uPort","DIF","uPortlandia","Rebooting WoT"]
+categories: ["Blockchain Based","Organizations"]
+tags: ["Ethereum","Consensys","Zug","uPort","DIF","uPortlandia","Rebooting WoT"]
 permalink: blockchain/ethereum/consensys/
 canonical_url: https://decentralized-id.com/blockchain/ethereum/consensys/
 last_modified_at: 2020-11-30
