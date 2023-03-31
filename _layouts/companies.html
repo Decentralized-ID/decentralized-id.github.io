@@ -48,9 +48,9 @@ layout: single
         {% if row.type != "Company" %}<strong>Type: </strong>{{row.type|strip|capitalize}}{% endif %}
           {% if row.founders !=nil%}
             {% if row.founders contains ';' %}
-              <strong>{% if row.type == "Company" %}Founders{%else%}Authors:{% endif %}</strong>{{ row.founders | replace: ";","," | prepend: ": "}}
+              <strong>{% if row.type == "Company" %}Founders{%else%}Authors{% endif %}</strong>{{ row.founders | replace: ";",", " | prepend: ": "}}
             {% else %}
-              <strong>{% if row.type == "Company" %}Founder{%else%}Founder:{% endif %}</strong>{{ row.founders | replace: ";","," | prepend: ": "}}
+              <strong>{% if row.type == "Company" %}Founder{%else%}Founder{% endif %}</strong>{{ row.founders | replace: ";",", " | prepend: ": "}}
             {%endif%}
           {%endif%}
           {%if row.date != nil%} <strong>{% if row.type == "Company" %}Founded:{%else%}Date:{% endif %}</strong> {{row.date}}{%endif%}
@@ -59,7 +59,11 @@ layout: single
               {% if item.last contains ';' %}
                 <strong>{{item.first|capitalize}}:</strong> 
                 {% assign ray = item.last | split: ';'%}
-                {%for item in ray %}{%if item != " "%} {{item|strip}}{%endif%}{%endfor%}
+                {%for item in ray %}{%if item != " "%} {{item|strip}}{% if forloop.last %}{% else %}, {% endif %}{%endif%}{%endfor%}
+              {% elsif item.last contains ',' %}
+                <strong>{{item.first|capitalize}}:</strong> 
+                {% assign ray = item.last | split: ','%}
+                {%for item in ray %}{%if item != " "%} {{item|strip}}{% if forloop.last %}{% else %}, {% endif %}{%endif%}{%endfor%}
               {%else%} 
                 <strong>{{item.first|capitalize}}:</strong> {{item.last}}
               {%endif%}
@@ -86,27 +90,21 @@ layout: single
         {% if row.main != page.name and row.related contains page.name %}
           <li>Name: <strong><a href="{{ row.link }}">{{ row.title }}</a></strong><br>
         <small>
-        {% if row.related contains ';' %}
-          <strong>Relevant</strong>:{%assign related = row.related|split:';'%}
-          {%assign trekker = 0%}
-          {%for item in related%}
-            {%assign trekker = trekker | plus: 1%}
-          {%endfor%}
-          {%for item in related%}
-            {%if item != nil%} {{item|strip}}{%if trekker > 1%},{%assign trekker = trekker | minus: 1%}{%endif%}{%endif%}
-          {%endfor%}
-        {%elsif row.related == nil%}
-        {%else%} 
-          <strong>Relevant</strong>: {{row.related}}
-        {%endif%}
         {%if row.parent !=nil and row.parent != page.name%}<strong>Parent: </strong>{{row.parent}}{%endif%}
         <strong>Type: </strong>{{row.type|strip|capitalize}}</small>
         <small>
           {% if row.founders !=nil%}
             {% if row.founders contains ';' %}
-              <strong>Author(s)</strong>{{ row.founders | replace: ";","," | prepend: ": "}}
+              <strong>Author(s)</strong>{{ row.founders | replace: ";",", " | prepend: ": "}}
             {% else %}
               <strong>Author</strong>{{row.founders | prepend: ": "}}
+            {%endif%}
+          {%endif%}
+          {% if row.related !=nil%}
+            {% if row.related contains ';' %}
+              <strong>Related</strong>{{ row.related | replace: ";",", " | prepend: ": "}}
+            {% else %}
+              <strong>Related</strong>{{row.related | prepend: ": "}}
             {%endif%}
           {%endif%}
           {%if row.date != nil%} <strong>Date:</strong> ({{row.date}}){%endif%}
@@ -115,7 +113,11 @@ layout: single
               {% if item.last contains ';' %}
                 <strong>{{item.first|capitalize}}:</strong> 
                 {% assign ray = item.last | split: ';'%}
-                {%for item in ray %}{%if item != " "%} {{item|strip}}{%endif%}{%endfor%}
+                {%for item in ray %}{%if item != " "%} {{item|strip}}, {%endif%}{%endfor%}
+              {% elsif item.last contains ',' %}
+                <strong>{{item.first|capitalize}}:</strong> 
+                {% assign ray = item.last | split: ','%}
+                {%for item in ray %}{%if item != " "%} {{item|strip}}, {%endif%}{%endfor%}
               {%else%} 
                 <strong>{{item.first|capitalize}}:</strong> {{item.last}}
               {%endif%}
