@@ -32,3 +32,5 @@ group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'webrick'
 end
+
+gem "faraday-retry", "~> 2.1"
