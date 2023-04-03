@@ -981,7 +981,7 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
 
 > Panacea is a public blockchain built by MediBloc to reinvent the healthcare experience. Panacea also supports DID operations. DIDs are created and stored in the Panacea, and they are used with verifiable credentials.
 
-### [**`did:avvcyber:`**](https://github.com/Amrita-TIFAC-Cyber-Blockchain/DID-AVV.md)
+### [**`did:avvcyber:`**](https://github.com/Amrita-TIFAC-Cyber-Blockchain/DID-AVVCYBER/blob/main/did-avvcyber-v1.md)
 ###### For TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, by Ramaguru Radhakrishnan
 
 > TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham Coimbatore is Center of Relevance and Excellence (CORE) in Cyber Security. The Center is working toward Cryptography, Visual Cryptography, Steganography, Cyber Forensics, Machine Learning and Blockchain Technology. There are multiple projects being worked across domains where we are using  DIDs. did:avvcyber: is a dedicated DID created for all our Blockchain Projects from 2022.
