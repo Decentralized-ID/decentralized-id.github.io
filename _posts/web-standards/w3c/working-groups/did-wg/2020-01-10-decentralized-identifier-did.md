@@ -1077,6 +1077,12 @@ Form a richer user portrait, with multiple tags (VIP authentication, privilege a
   > 1. to wrap existing ENS names as DIDs to facilitate interoperability of emerging technologies in the Decentralized Identity and Ethereum community,
   > 2. to define a canonical way to augment ENS names with DID capabilities (e.g., encryption) as mentioned above.
 
+
+### [**`did:avvcyber:`**](https://github.com/Amrita-TIFAC-Cyber-Blockchain/DID-AVVCYBER/blob/main/did-avvcyber-v1.md)
+###### For TIFAC-CORE in Cyber Security, Amrita Vishwa Vidyapeetham, by Ramaguru Radhakrishnan
+
+> TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham Coimbatore is Center of Relevance and Excellence (CORE) in Cyber Security. The Center is working toward Cryptography, Visual Cryptography, Steganography, Cyber Forensics, Machine Learning and Blockchain Technology. There are multiple projects being worked across domains where we are using  DIDs. did:avvcyber: is a dedicated DID created for all our Blockchain Projects from 2022.
+
 ## Critique
 * [Don’t use DIDs, DIDs, nor DIDs: Change My Mind (a.k.a. Oh no he DIDn’t)](https://dwhuseby.medium.com/dont-use-dids-58759823378c) by Dave Huseby ([video](https://eu01web.zoom.us/rec/play/4_ZLV8uot0hFQgRZsoILvdnn879oGEmrXsPXsCcvf4GsDPjWLQAxKjrZFiF0AxQe_MYb1_oeQa9HsRY.8KTaTYyrhu2Q-kJ_?continueMode%3Dtrue))
   > Joe came and fervently disagreed with my assertions. Lots of people had reasonable counter arguments. My main arguments are 1. DID Documents don't have history when old keys are always relevant and 2. having 94 different DID methods that aren't compatible nor replaceable and don't function the same way is a HUGE problem.
