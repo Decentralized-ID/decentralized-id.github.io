@@ -26,41 +26,64 @@
     </h3>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>{% endif %}
     <p class="page__meta"><strong>Updated:</strong> {{ post.last_modified_at }} <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% if post.tags %}{% assign sorted_tags = post.tags | sort %}{% for tag in sorted_tags %}{% endfor %}{% endif %}
 
     {% if post.name %}
       {% assign name = post.name %}
+      {% if company.related contains ';'%}
+        {% assign related = company.related | split: ';'%}
+      {% elsif company.related == Nil %}
+      {% else %}
+        {% assign related = company.related %}
+      {% endif %}
       {% for company in site.data.companys %}
         {% assign dname = company.name %}
         {% if dname == name %}
           {% if company.parent %}
-            {% assign related = company.parent %}
-            {% assign splittags = company.related | split: ";" %}
-            {% assign splittags = splittags | push: related | push: name %}
-            {% assign sorted_tags = splittags | compact | sort_natural %}
-            {% for tag in sorted_tags %}
-              <div class="tags">{{ tag }}</div> 
-            {% endfor %}<br>
-          {% elsif company.related %}
-            {% assign related = company.related %}
-            {% assign splittags = related | append: ";" | append: name %}
-            {% assign splittags = splittags | split: ";" | compact %}
-            {% assign sorted_tags = splittags | sort_natural %}
-            {% for tag in sorted_tags %}
-              <div class="tags">{{ tag }}</div> 
-            {% endfor %}<br>
+            {% assign related = company.parent | push: company.parent %}
+            {{ related }}
+            {% if related.first %}
+            {{related.first }}
+              {% assign tagz = sorted_tags | concat: related | push: name%}
+            {% else %}
+              {% assign tagz = sorted_tags | push: related | push: name%}
+            {% endif %}
           {% else %}
-            {% assign sorted_tags = company.name %}
-            {% for tag in sorted_tags %}
-              <div class="tags">{{ tag }}</div> 
-            {% endfor %}<br>
+            {% assign tagz = sorted_tags | push: related | push: tags_split %}
           {% endif %}
+          {% assign tagz = sorted_tags | uniq | compact | sort_natural %}
+          {% for tag in sorted_tags %}
+            <div class="tags">{{ tag }}</div> 
+          {% endfor %}<br>
+        {% elsif company.related %}
+          {% assign tagz = tags_split | push: name %}
+          {% if company.related contains ';' %}
+            {% assign relate = company.related | split: ';' %}
+            {% if tags_split contains "," %}
+              {%assign tags_split = tags_split | concat: relate %}
+            {% else %}
+              {% assign relate = relate | push: tags_split %}
+            {% endif %}
+          {%else%}
+            {%assign tags_split = tags_split | push: company.related%}
+          {%endif%}
+          {% assign sorted_tags = tagz | uniq | compact | sort_natural %}
+          {% for tag in sorted_tags %}
+            <div class="tags">{{ tag }}</div> 
+          {% endfor %}<br>
+        {% else %}
+          {% assign tagz = tags_split | push: company.name %}
+          {% assign sorted_tags = tagz | uniq | compact | sort_natural%}
+          {% for tag in sorted_tags %}
+            <div class="tags">{{ tag }}</div> 
+          {% endfor %}<br>
         {% endif %}
       {% endfor %}
-    {% elsif post.tags %}
-      {% assign sorted_tags = post.tags | sort %}
+    {% elsif tags_split %}
+      {% assign sorted_tags = tags_split | sort_natural %}
       {% for tag in sorted_tags %}
         <div class="tags">{{ tag }}</div> 
       {% endfor %}<br>
-    {% endif %}<hr>
+    {% endif %}
   </article> 
 </div>
