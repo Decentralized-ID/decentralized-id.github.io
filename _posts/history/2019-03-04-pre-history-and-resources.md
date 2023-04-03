@@ -9,8 +9,6 @@ cannonical_url: https://decentralized-id.com/history/
 categories: ["History"]
 tags: ["IETF","DPKI","PGP"]
 last_modified_at: 2020-01-05
-sidebar: 
-  nav: didnav
 ---
 
 **Ultimately, the idea is to put this all into some data-structure, and funnel this information into the identity-commons historical repository:**

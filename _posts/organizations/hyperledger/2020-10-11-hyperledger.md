@@ -13,7 +13,7 @@ redirect_from:
   - organizations/hyperledger/
 canonical_url: 'https://decentralized-id.com/blockchain/hyperledger/'
 categories: ["Hyperledger Foundation"]
-tags: ["Indy","Fabric","Aries","Evernym","Sovrin Foundation","Enterprise Ethereum Alliance","Linux Foundation","Ursa","Microsoft","Salesforce","Sawtooth","agreementsolutions","BTP","Ayanworks","Blinking","SecureKey Technologies","Oracle","healthDigit","T-Mobile NEXT Identity Platform","Sony Global Education"]
+tags: ["Indy","Fabric","Aries","Evernym","Sovrin Foundation","Enterprise Ethereum Alliance","Linux Foundation","Ursa","Microsoft","Salesforce","Sawtooth","agreementsolutions","BTP","Ayanworks","Blinking","SecureKey Technologies","Oracle","HealthDigit","T-Mobile NEXT Identity Platform","Sony","Global","Education"]
 last_modified_at: 2021-04-17
 header:
   image: /images/hyperledger_header.webp

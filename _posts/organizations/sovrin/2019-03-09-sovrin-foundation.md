@@ -16,7 +16,7 @@ canonical_url: 'https://decentralized-id.com/organizations/sovrin-foundation/'
 redirect_from: 
   - organizations/sovrin/
 categories: ["Organizations"]
-tags: ["Indy","Verifiable Organizations Network","Sovrin Foundation","Aalto","Absa","Amihan","ARTiFACTS","Attinad","ATB","BIG","BakerHostetler","Cisco","Certisign","Crypto Valley Association","CULedger","Danube Tech","Desert Financial","Datum","Digicert","Digital Bazaar","Estatus","Evernym", "Vimsa","Finicity","First Education CU","IBM","InfoCert","iRespond","KYC-Chain","lab10 collective","OAS Staff FCU","Perkins Cole","ProSapien","Qiy Foundation", "Royal CU","SICPA","SITA","Spark NZ","Swisscom","T-Labs","TNO","Truu","TwinPeek","Tykn","Veridium","Verifiable Credentials","W3C","GDPR","Trust Framework"]
+tags: ["Indy","Verifiable Organizations Network","Sovrin Foundation","Aalto","Absa","Amihan","ARTiFACTS","Attinad","ATB","BIG","BakerHostetler","Cisco","Certisign","Crypto Valley Association","CULedger","Danube Tech","Desert Financial","Datum","Digicert","Digital Bazaar","Estatus","Evernym","Vimsa","Finicity","First Education CU","IBM","InfoCert","iRespond","KYC-Chain","lab10 collective","OAS Staff FCU","Perkins Cole","ProSapien","Qiy Foundation","Royal CU","SICPA","SITA","Spark NZ","Swisscom","T-Labs","TNO","Truu","TwinPeek","Tykn","Veridium","Verifiable Credentials","W3C","GDPR","Trust Framework"]
 last_modified_at: 2020-11-19
 ---
 

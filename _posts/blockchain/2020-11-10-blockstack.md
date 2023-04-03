@@ -9,7 +9,7 @@ header:
   image: /images/blockstack_header.webp
   teaser: /images/blockstack_teaser.webp
 categories: ["Blockchain Based"]
-tags: ["Blockstack","Bitcoin","DID","Blockchain"]
+tags: [Blockstack,Bitcoin,DID,Blockchain]
 permalink: blockchain/blockstack/
 toc: false
 last_modified_at: 2020-11-10

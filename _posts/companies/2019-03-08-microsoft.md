@@ -16,9 +16,7 @@ redirect_from:
   - id-initiatives/microsoft/
   - id-initiatives/microsoft
 categories: ["Companies"]
-tags: ["ID2020","ID2020 Founder","VCI Founder","DID","DIF","ION","Transmute","Consensys","Blockstack","uPort","Ethereum","Bitcoin","FIDO","Mastercard","Microsoft"]
-use: ["IT","IAM","ID","SSI"]
-standards: ["WebAuthN","Secure Data Storage"]
+tags: ["ID2020","ID2020 Founder","VCI Founder","DID","DIF","ION","Transmute","Consensys","Blockstack","uPort","Ethereum","Bitcoin","FIDO","Mastercard","Microsoft","WebAuthN","Secure Data Storage"]
 last_modified_at: 2023-02-20
 toc: true
 ---

@@ -5,7 +5,7 @@ description: The EEA is a member-led industry organization whose objective is to
 excerpt: > 
     The EEA enables organizations to adopt and use Ethereum technology in their daily business operations. We empower the Ethereum ecosystem to develop new business opportunities, drive industry adoption, and learn and collaborate with one another.
 categories: ["Organizations","Blockchain Based"]
-tags: ["Ethereum","Enterprise Ethereum Alliance","Blockchain for Social Impact Coalition","Blockchain Research Institute","SAE ITC", "DIF","Accenture","Consensys","Dragonchain","Ethereum Foundation","Enigma","Ernst & Young","Hyperledger Foundation","Intel","JP Morgan","Microsoft","Perkins Cole"]
+tags: [Ethereum","Enterprise Ethereum Alliance","Blockchain for Social Impact Coalition","Blockchain Research Institute","SAE ITC", "DIF","Accenture","Consensys","Dragonchain","Ethereum Foundation","Enigma","Ernst & Young","Hyperledger Foundation","IntelJP MorganMicrosoftPerkins Cole]
 
 permalink: blockchain/ethereum/enterprise-alliance/
 canonical_url: https://decentralized-id.com/blockchain/ethereum/enterprise-alliance/

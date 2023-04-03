@@ -17,7 +17,7 @@ header:
   og_image: /images/github.webp
   teaser: /images/github_teaser.webp
 categories: ["Code"]
-tags: ["W3C","ID2020","Danube Tech","XDI","OASIS","Digital Bazaar","Rebooting WoT","JSON-LD","Credentials Community Group","RDF","Veres One","Learning Machine","BTCR","Danube Tech","Jolocom","IBM","Blockcerts","Verifiable Credentials","uPort","Verifiable Organizations Network","Ethereum","Bitcoin","Universal Resolver","DIDAuth","Blockstack","Ursa","Ockam","Indy","IOTA","Linked Data"]
+tags: ["W3C","ID2020","Danube Tech","XDI","OASIS","Digital Bazaar","Rebooting WoT","JSON-LD","Credentials Community Group","RDF","Veres One","Learning Machine","BTCR","Jolocom","IBM","Blockcerts","Verifiable Credentials","uPort","Verifiable Organizations Network","Ethereum","Bitcoin","Universal Resolver","DIDAuth","Blockstack","Ursa","Ockam","Indy","OTA","Linked Data"]
 last_modified_at: 2019-03-15
 ---
 

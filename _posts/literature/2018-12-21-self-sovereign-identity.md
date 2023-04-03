@@ -11,8 +11,8 @@ canonical_url: 'https://decentralized-id.com/literature/self-sovereign-identity/
 redirect_from: 
   - /self-sovereign-identity
   - /self-sovereign-identity/
-categories: ["Literature"]
-tags: ["Self Sovereign Identity","Laws of Identity","uPort","eIDAS","Rebooting WoT"]
+categories: ["History"]
+tags: ["Self Sovereign Identity","Laws of Identity","uPort","eIDAS","Literature","Rebooting WoT"]
 last_modified_at: 2020-11-02
 ---
 

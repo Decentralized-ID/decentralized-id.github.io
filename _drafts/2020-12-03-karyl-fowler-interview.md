@@ -3,7 +3,7 @@ title: Karyl Fowler, Transmute, and the DHS Silicon Valley Innovation Program
 description: Inspired by a conversation with Karyl Fowler. History and background of Transmute and their work with DHS SVIP.
 excerpt: > 
     For all the sexy tech stuff happening, it's the business challenges that are causing hesitation to adoption. This is one area where my team has an advantage, Orie and I have no overlapping skill sets, which has allowed us to divide & conquer the business and technology components, at the same time.
-tags: ["Transmute","DHS","Transcript"]
+tags: [TransmuteDHSTranscript]
 categories: ["Companies"]
 published: false
 ---

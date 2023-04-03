@@ -9,7 +9,7 @@ header:
   image: /images/handshake-header.webp
   teaser: /images/handshake_teaser.webp
 categories: ["Blockchain Based","Decentralized Web"]
-tags: ["Blockchain",'DNS',"Handshake"]
+tags: ["Blockchain","DNS","Handshake"]
 permalink: blockchain/handshake/
 last_modified_at: 2020-11-10
 toc: false

@@ -11,7 +11,7 @@ header:
 permalink: /blockchain/ethereum/repositories/
 redirect_from: /ethereum/id-github/
 canonical_url: 'https://decentralized-id.com/blockchain/ethereum/repositories/'
-categories: ["Code"]
+categories: ["Blockchain Based","Code"]
 tags: ["Ethereum","Jolocom","uPort","Consensys","Universal Resolver"]
 last_modified_at: 2019-07-11
 
@@ -81,7 +81,6 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 * [uport-project/did-jwt](https://github.com/uport-project/did-jwt) - Create and verify uPort and DID compliant JWT's in Javascript
 * [uport-project/uport-did-resolver](https://github.com/uport-project/uport-did-resolver) - DID resolver for uPort identities
 
-
 ### uPort Identification
 * [uport-project/openid](https://github.com/uport-project/openid) - uPort openid
 * [uport-project/kmnid](https://github.com/uport-project/kmnid) - A kotlin implementation of MNID
@@ -89,8 +88,6 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 * [uport-project/uport-chrome-extension](https://github.com/uport-project/uport-chrome-extension) - An experiment to test decentralized identity in a Browser Extension environment.
 * [uport-project/infrastructure](https://github.com/uport-project/infrastructure) - Support services for Self-Sovereign Identity
 * [uport-project/mnid](https://github.com/uport-project/mnid) - Multi Network Identifier - spec and reference implementation
-
-
 
 ### uPort Mobile
 
@@ -104,8 +101,6 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 * [uport-project/uport-ios-core-eth](https://github.com/uport-project/uport-ios-core-eth) - iOS Ethereum Toolkit for uPort SDK
 * [uport-project/uport-ios-openssl](https://github.com/uport-project/uport-ios-openssl) - iOS OpenSSL Framework for uPort SDK
 * [uport-project/UPTEthereumSigner](https://github.com/uport-project/UPTEthereumSigner) - Ethereum signer library for iOS
-
-
 
 ### uPort Lambda
 
@@ -143,8 +138,6 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
 * [uport-project/swift-rlp](https://github.com/uport-project/swift-rlp) - Recursive Length Prefix in Swift - CocoaPod
 * [uport-project/SwiftKeccak](https://github.com/uport-project/SwiftKeccak) - Ethereum compatible Keccak hash for Swift
 * [uport-project/ed2curve-js](https://github.com/uport-project/ed2curve-js) - Convert Ed25519 signing keys into Curve25519 Diffie-Hellman keys
-
-
 
 ## Spidchain
 * [SpidChain/eth-lightwallet](https://github.com/SpidChain/eth-lightwallet) - Forked from ConsenSys/eth-lightwallet

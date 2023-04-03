@@ -7,7 +7,7 @@ excerpt: >
 layout: single
 permalink: blockchain/dragonchain-factor/
 canonical_url: 'https://decentralized-id.com/blockchain/dragonchain-factor/'
-tags: ["Dragonchain","Blockchain"]
+tags: [Dragonchain,Blockchain]
 header:
   image: /images/dragonchain-factor-header.webp
   teaser: /images/dragon-teaser.webp

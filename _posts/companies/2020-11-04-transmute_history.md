@@ -1,5 +1,6 @@
 ---
 date: 2020-11-04
+name: Transmute
 title: Karyl Fowler and History of Transmute
 description: Transmute’s technology connects enterprise infrastructure with emergent identity, credential, and data storage solutions.
 excerpt: >
@@ -10,7 +11,7 @@ canonical_url: 'https://decentralized-id.com/companies/karyl-fowler_transmute/'
 redirect_from: 
   - blockchain/ethereum/transmute/
 categories: ["Companies"]
-tags: ["Transmute","Ethereum","Blockchain","Microsoft","DID","Verifiable Credentials","Consensys","DIF","Encrypted Data Vaults","Oracle","OAuth","OIDC"]
+tags: ["DHS","Transmute","Ethereum","Blockchain","Microsoft","DID","Verifiable Credentials","Consensys","DIF","Encrypted Data Vaults","Oracle","OAuth","OIDC","Okta","Custom Authz Servers","Okta Identity Cloud"," Element Block Explorer","Element","Sidetree","IPFS","DID:Github","IOT"]
 header:
   image: /images/transmute.webp
   teaser: /images/transmute_thumb.webp
@@ -99,7 +100,7 @@ The DHS is focused on creating increased transparency in the cross-border supply
 
 - [The Business Case for Interoperability](https://medium.com/transmute-techtalk/the-business-case-for-interoperability-a1a2b884297d)
   > For Transmute, the foundations required to technically interoperate are considered pre-competitive, and our ability to interoperate widely is a strategic feature. This feature powers a competitive advantage that ensures Transmute customers’ critical trade documents are verifiable at every step in the supply chain, regardless of where they’re stored and what blockchain they’re anchored to. Transmute customers realize maximum confidence about data integrity and access far richer insights about the health of their supply chains as a result.
-- [Verifiable Credentials with Transmute and Otaka](https://medium.com/transmute-techtalk/verifiable-credentials-with-transmute-and-okta-574edaec887b)
+- [Verifiable Credentials with Transmute and Okta](https://medium.com/transmute-techtalk/verifiable-credentials-with-transmute-and-okta-574edaec887b)
   > Okta provides a mechanism for adding custom claims to id_tokens and access_tokens: [Hooks](https://www.okta.com/hooks/) and [Custom Authorization Servers](https://developer.okta.com/docs/guides/customize-authz-server/overview/). These components can enable automated integrations with emergent technology including decentralized identifiers and verifiable credentials.
 - [Federated Enterprise Agents with Transmute and Okta](https://medium.com/transmute-techtalk/federated-enterprise-agents-with-transmute-and-okta-2f1855dd3944)
   > The [Okta Identity Cloud](https://www.okta.com/learn/okta-identity-cloud/) provides secure identity management with Single Sign-On, Multi-factor Authentication, Lifecycle Management (Provisioning), and more. Transmute provides a configurable Enterprise Agent enabling Decentralized Identity and Verifiable Credential capabilities for OAuth / OIDC users. Read on to learn about some of the ways Transmute and Okta enable enterprises to rapidly unlock the security benefits of decentralized identities.
@@ -112,10 +113,8 @@ The DHS is focused on creating increased transparency in the cross-border supply
   > 
   > Our first implementation of Element enabled users to anchor their DID directly via a MetaMask-powered DApp thanks to Infura, and also use our “Full Node” to submit operations. Supporting both modes introduced a lot of complexity, and highlighted some scalability issues which we’ve recently fixed.
 - [Introducing: Element](https://medium.com/transmute-techtalk/introducing-element-328b4260e757) - The Sidetree Protocol Implemented on Ethereum
-  > the scalability that Sidetree brings to DIDs is unprecedented. Our product, Transmute ID — enterprise-grade decentralized identity — must support scale that we could not achieve otherwise, so we are proud to offer Element as an alternative DID method for Transmute ID customer deployments.
-
+  > the scalability that Sidetree brings to DIDs is unprecedented. Our product, Transmute ID — enterprise-grade decentralized identity — must support scale that we could not achieve otherwise, so we are proud to offer Element as an alternative DID method for Transmute ID customer deployments. 
 <center><iframe src="//www.slideshare.net/slideshow/embed_code/key/2ct2imQLUnzp1j" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SSIMeetup/the-element-did-method-sidetree-ethereum-ipfs-orie-steele" title="The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele" target="_blank">The Element DID Method: Sidetree, Ethereum &amp; IPFS – Orie Steele</a> </strong> from <strong><a href="https://ssimeetup.org/element-did-method-sidetree-ethereum-ipfs-orie-steele-webinar-31/" target="_blank">SSIMeetup</a></strong> </div></center>
-
 * [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
   > Sidetree.js is an implementation of v0.1.0 of the sidetree specification
 * [Summer 2019 Update](https://medium.com/transmute-techtalk/summer-2019-update-c11df7806a79)

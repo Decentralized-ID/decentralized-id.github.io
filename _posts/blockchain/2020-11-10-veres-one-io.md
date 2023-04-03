@@ -9,7 +9,7 @@ header:
 layout: single
 permalink: /blockchain/veres-one/
 categories: ["Blockchain Based"]
-tags: ["Blockchain","Veres One","Verifiable Credentials","DID","Digital Bazaar","Veres One Community Group","W3C"]
+tags: ["Blockchain","Veres One","Verifiable Credentials","DID","Digital Bazaar","Veres One CG","W3C"]
 last_modified_at: 2020-11-10
 toc: false
 ---

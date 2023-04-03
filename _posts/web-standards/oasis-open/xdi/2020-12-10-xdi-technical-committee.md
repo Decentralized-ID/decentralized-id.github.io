@@ -5,7 +5,7 @@ description: XDI is a format and protocol for semantic data interchange -- a way
 excerpt: > 
    The purpose of the OASIS XDI TC is to define a generalized, extensible, location-, application-, and transport-independent service for sharing, linking, and synchronizing data over the Internet and other data networks using XML documents and XRIs (Extensible Resource Identifiers), a URI-compatible abstract identifier scheme defined by the OASIS XRI Technical Committee. With XDI, data from any data source can be identified, described, linked, and synchronized into an active, machine-readable "dataweb" just as content from any content source can be identified and linked into the human-readable Web today.
 category: ["Web Standards"]
-tags: ["OASIS","XRI","XDI","RDF","Dataweb"]
+tags: ["OASIS","XRIm","XDI","RDF","Dataweb"]
 permalink: web-standards/oasis-open/xdi/xri-tc/
 canonical_url: https://decentralized-id.com/web-standards/oasis-open/xdi/xri-tc/
 last_modified_at: 2020-12-01
