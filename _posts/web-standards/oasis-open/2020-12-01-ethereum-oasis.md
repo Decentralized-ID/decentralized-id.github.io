@@ -4,7 +4,7 @@ title: Ethereum Oasis Open Project • Baseline Protocol
 description: To develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
 excerpt: >
     The Ethereum OASIS Open Project is an OASIS Open Project that exists to provide a neutral forum for diverse stakeholders to create high-quality specifications that facilitate Ethereum’s longevity, interoperability, and ease of integration. The Ethereum OASIS Project intends to develop clear, open standards, high-quality documentation, and shared test suites that facilitate new features and enhancements to the Ethereum protocol.
-categories: ["Blockchain Based,Web Standards"]
+categories: ["Blockchain Based","Web Standards"]
 tags: ["OASIS","Ethereum","Enterprise Ethereum Alliance","Ethereum Foundation","ConsenSys","Chainlink","Nethermind","Provide","Unibright","Ernst & Young","Microsoft","Limechain"]
 last_modified_at: 2020-12-01
 header:
