@@ -10,7 +10,7 @@ layout: companies
 permalink: companies/energyweb/
 canonical_url: 'https://decentralized-id.com/companies/energyweb/'
 categories: ["Companies"]
-oldtags: ["Sovrin Steward","Founding Sovrin Steward","DIF","eSSIF","Energyweb"]
+oldtags: ["Sovrin Steward","Founding Sovrin Steward","DIF","ESSIFlab","Energyweb"]
 last_modified_at: 2023-01-18
 published: false
 ---
