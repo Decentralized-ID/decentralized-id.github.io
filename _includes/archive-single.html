@@ -32,17 +32,23 @@
       {% assign sorted_tags = Nil%}
       {% for company in site.data.companys %}
         {% if post.name == company.name %}
-          {% if company.parent %}
-            {% assign tags = company.parent | push: post.name %}
+          {% if company.parent %}{% assign tags = company.parent | push: post.name %}{% endif %}
+          {% if company.related != Nil %}
+            {% if company.related contains ';'%}
+              {% assign related = company.related |split: ';' | push: post.name %}
+            {% else %}
+              {% if tags != Nil %}
+                {% assign tags = tags | push: company.related %}
+              {% else %} 
+                {% assign tags = company.related %}
+              {%endif%}   
+            {% endif %}
           {% endif %}
-          {% if company.related %}
-            {% if tags != Nil %}
-              {% assign tags = tags | push: company.related %}
-            {%else %} 
-              {% assign tags = company.related %}
-            {%endif%}   
-          {% endif %}
-          {% assign sorted_tags = tags | concat: post.tags | uniq | compact | sort %}
+          {% if tags != Nil %}
+            {% assign sorted_tags = tags | concat: post.tags | uniq | compact | sort %}
+          {% else %} 
+            {% assign sorted_tags = post.tags | push: post.name | uniq | compact | sort_natural %}
+          {%endif%}
         {% endif %}
       {% endfor %}
     {% else %}
