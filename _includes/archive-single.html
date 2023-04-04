@@ -28,6 +28,8 @@
     <p class="page__meta"><strong>Updated:</strong> {{ post.last_modified_at }} <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
 
     {% if post.name %}
+      {% assign tags = Nil%}
+      {% assign sorted_tags = Nil%}
       {% for company in site.data.companys %}
         {% if post.name == company.name %}
           {% if company.parent %}
