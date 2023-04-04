@@ -28,22 +28,19 @@
     <p class="page__meta"><strong>Updated:</strong> {{ post.last_modified_at }} <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
 
     {% if post.name %}
-      {% assign name = post.name %}
       {% for company in site.data.companys %}
-        {% if name == company.name %}
+        {% if post.name == company.name %}
           {% if company.parent %}
-            {% assign related = company.parent %}
-            {% assign splittags = company.related | split: ";" %}
-            {% assign splittags = splittags | push: related | push: name %}
-            {% assign sorted_tags = splittags | concat: post.tags | push: name | compact | uniq | sort %}
+            {% assign tags = company.parent | push: post.name %}
           {% endif %}
           {% if company.related %}
-            {% assign related = company.related %}
-            {% assign splittags = related | append: ";" | append: name %}
-            {% assign splittags = splittags | split: ";" | compact %}
-            {% assign sorted_tags = splittags | concat: post.tags | push: name | uniq | sort %}
+            {% if tags != Nil %}
+              {% assign tags = tags | push: company.related %}
+            {%else %} 
+              {% assign tags = company.related %}
+            {%endif%}   
           {% endif %}
-          {% assign sorted_tags = post.tags | push: name | uniq | compact | sort %}
+          {% assign sorted_tags = tags | concat: post.tags | uniq | compact | sort %}
         {% endif %}
       {% endfor %}
     {% else %}
