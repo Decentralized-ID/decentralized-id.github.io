@@ -334,13 +334,14 @@ defaults:
           image: "/images/the-world-map-from-a-binary-code.webp"
           image_alt: "Binary Globe by GDj"
           nav: "didnav"
+      layout: companys
       author_profile: false
       read_time: true
-      comments: true
+      comments: false
       share: true
       classes: wide
       related: true
-      toc: false
+      toc: true
 #  - scope:
 #      path: "_posts/twitter"
 #      type: posts
