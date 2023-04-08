@@ -37,11 +37,11 @@
             {% if company.related contains ';'%}
               {% assign tags = company.related |split: ';' | push: post.name %}
             {%else %}
-              {% assign tags = company.related %}
+              {% assign tags = company.related | push: post.name %}
             {%endif%}   
           {% endif %}
           {% if tags != Nil %}
-            {% assign sorted_tags = tags | concat: post.tags | uniq | compact | sort %}
+            {% assign sorted_tags = tags | concat: post.tags | push: post.name | uniq | compact | sort %}
           {% elsif post.tags !=Nil %}
             {% assign sorted_tags = post.tags | push: post.name | uniq | compact | sort_natural %} 
           {%endif%}
