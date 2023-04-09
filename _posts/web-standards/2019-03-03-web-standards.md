@@ -11,7 +11,7 @@ redirect_from:
   - standards/
   - specs-standards/
 categories: ["Web Standards"]
-tags: ["W3C","Credentials Community Group","Hyperledger Foundation","FIDO","OpenID","XDI","OASIS","JSON-LD","Verifiable Credentials","Ethereum","Blockcerts","OAuth","OIDC","DKMS","ERC725","Rebooting WoT","Schema.org","Learning Machine"]
+tags: ["W3C","Credentials Community Group","Hyperledger","FIDO","OpenID","XDI","OASIS","JSON-LD","Verifiable Credentials","Ethereum","Blockcerts","OAuth","OIDC","DKMS","ERC725","Rebooting WoT","Schema.org","Learning Machine"]
 last_modified_at: 2022-12-16
 header: 
   og_image: /images/Who-Runs-the-Internet-graphic.webp

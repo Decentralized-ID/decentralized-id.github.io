@@ -12,7 +12,7 @@ redirect_from:
   - hyperledger/hgf-2018/
   - hgf-2018
   - hgf-2018/
-categories: ["Hyperledger Foundation","Events"]
+categories: ["Hyperledger","Events"]
 tags: ["Hyperledger Forum","GDPR","MyCuID","Sovrin Foundation","DigiCert","Indy","Fabric","Blockcerts","Evernym","R3","Verifiable Organizations Network","CULedger","ATB","Switzerland"]
 last_modified_at: 2019-03-06
 header:
