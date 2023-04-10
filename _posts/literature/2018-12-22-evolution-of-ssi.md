@@ -13,7 +13,7 @@ redirect_from:
 permalink: /literature/self-sovereign-identity/evolution-of-ssi/
 canonical_url: 'https://decentralized-id.com/literature/self-sovereign-identity/evolution-of-ssi/'
 categories: ["History","Web Standards"]
-tags: ["Self Sovereign Identity","notes","Literature","lifeID","Rebooting WoT"]
+tags: ["Self Sovereign Identity","notes","Literature","lifeID","RWoT"]
 last_modified_at: 2019-07-10
 published: true
 

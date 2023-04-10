@@ -19,7 +19,7 @@ redirect_from:
   - self-sovereign-identity/user-experience
   - self-sovereign-identity/user-experience/
 categories: ["Literature"]
-tags: ["Self Sovereign Identity","notes"]
+tags: ["Literature","Self Sovereign Identity","notes"]
 last_modified_at: 2019-07-08
 published: true
 

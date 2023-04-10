@@ -12,7 +12,7 @@ redirect_from:
   - /self-sovereign-identity
   - /self-sovereign-identity/
 categories: ["History"]
-tags: ["Self Sovereign Identity","Laws of Identity","uPort","eIDAS","Literature","Rebooting WoT"]
+tags: ["Self Sovereign Identity","Laws of Identity","uPort","eIDAS","Literature","RWoT","IIW","Learning Machine","Sovrin Foundation","Evernym","Hyperledger","MyData","SSIMeetup"]
 last_modified_at: 2020-11-02
 ---
 

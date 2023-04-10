@@ -4,7 +4,7 @@ title: Verifiable Credentials - Adoption
 description: Companies and organizations adopting verifiable credentials. 
 permalink: web-standards/w3c/wg/vc/verifiable-credentials/adoption/
 categories: ["Web Standards"]
-tags: ["Claims and Credentials WG","Verifiable Credentials","Adoption","Credentials Community Group","IBM","VC-WG","W3C","Blockcerts","Blockstack","MATTR","Rebooting WoT"]
+tags: ["Claims and Credentials WG","Verifiable Credentials","Adoption","Credentials Community Group","IBM","VC-WG","W3C","Blockcerts","Blockstack","MATTR","RWoT"]
 last_updated_at: 2020-11-25
 ---
 

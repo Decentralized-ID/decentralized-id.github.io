@@ -13,7 +13,7 @@ redirect_from:
   - /self-sovereign-identity/ssi-principles-vs-characteristics
   - /self-sovereign-identity/ssi-principles-vs-characteristics/
 categories: ["Literature"]
-tags: ["Self Sovereign Identity","Rebooting WoT","Laws of Identity","Literature","notes","UNSDGs"]
+tags: ["Self Sovereign Identity","RWoT","Laws of Identity","Literature","notes","UNSDGs","Windhover Principles","History"]
 last_modified_at: 2020-01-05
 published: true
 
@@ -104,7 +104,7 @@ This is an important principle that I don't think is represented in the Characte
 
 ---
 
-I think these ideas are worth examining further. Perhaps a continuing with a comparative exploration of other responsese, similar frameworks, with a consideration for the United Nations SDGs.
+I think these ideas are worth examining further. Perhaps a continuing with a comparative exploration of other responses, similar frameworks, with a consideration for the United Nations SDGs.
 
 * [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf)
 * [The Windhover Principles for Digital Identity, Trust, and Data](https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html)

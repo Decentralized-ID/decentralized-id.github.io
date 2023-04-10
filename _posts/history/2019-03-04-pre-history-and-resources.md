@@ -7,7 +7,7 @@ excerpt: "These pages are loosely categorized by year and era. The date ranges, 
 permalink: /history/
 cannonical_url: https://decentralized-id.com/history/
 categories: ["History"]
-tags: ["IETF","DPKI","PGP"]
+tags: ["IETF","DPKI","PGP","History","IIW","IDCommons"]
 last_modified_at: 2020-01-05
 ---
 

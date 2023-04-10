@@ -13,7 +13,7 @@ redirect_from:
   - /blockchain/bitcoin/blockcerts/
   - /specs-standards/blockcerts/
 categories: ["Web Standards"]
-tags: ["Bitcoin","Learning Machine","BTCR","Verifiable Credentials","JSON-LD","Ethereum","Blockcerts","Rebooting WoT","DHS","DID"]
+tags: ["Bitcoin","Learning Machine","BTCR","Verifiable Credentials","JSON-LD","Ethereum","Blockcerts","RWoT","DHS","DID"]
 last_modified_at:  2021-04-14
 ---
 
