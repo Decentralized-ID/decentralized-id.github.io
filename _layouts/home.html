@@ -13,71 +13,34 @@ layout: archive
 {{ content }}
 
 
-<h2 class="archive__subtitle">Categories</h2>
-
-{% assign categories_max = 0 %}
-{% for category in site.categories %}
-  {% if category[1].size > categories_max %}
-    {% assign categories_max = category[1].size %}
+{% assign tags_max = 0 %}
+{% for tag in site.tags %}
+  {% if tag[1].size > tags_max %}
+    {% assign tags_max = tag[1].size %}
   {% endif %}
 {% endfor %}
 
+<h2>Sections</h2>
+<h3 id="top">☙ {% for item in site.data.tagz %}<a href="#{{item[0]|downcase}}">{{item[0] | upcase | replace: "_", "-" }}</a> ☙ {% endfor %}</h3>
+
+<h2>Tags Grouped by Section</h2>
+This system of navigation is part of an ongoing transition towards making this content, and its subject-matter, more accessible based upon the specific topic you are interested in. 
+{% for item in site.data.tagz %}
+<h3 id="{{item[0] | downcase}}">{{ item[0] | upcase | replace: "_", "-" }}</h3>
+
 <ul class="taxonomy__index">
-  {% for i in (1..categories_max) reversed %}
-    {% for category in site.categories %}
-      {% if category[1].size == i %}
-        {% if category[0] == "Twitter" %}
-          <!--// we do nothing-->
-        {% else if %}      
-          <li>
-            <a href="#{{ category[0] | slugify }}">
-              <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
-            </a>
-          </li>
-        {% endif %}  
+  {% for i in (1..tags_max) reversed %}
+    {% for tag in site.tags %}
+      {% if tag[1].size == i and item[1] contains tag[0] %}
+        <li>
+          <a href="tags/{{item[0] | replace: '_','-'}}#{{ tag[0] | slugify }}">
+            <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+          </a>
+        </li>
       {% endif %}
     {% endfor %}
   {% endfor %}
 </ul>
-
-{% for i in (1..categories_max) reversed %}
-  {% for category in site.categories %}
-    {% if category[1].size == i %}
-      {% if category[0] == "Twitter" %}
-        <!--// we do nothing-->
-      {% else if %}      
-        <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
-          <h3 class="archive__subtitle">{{ category[0] }}</h3>
-          {% assign sorted_posts = category[1] | sort: 'last_modified_at' | reverse %}
-          <div class="entries-{{ page.entries_layout | default: 'list' }}">
-          {% for post in sorted_posts %}              
-            {% include archive-single.html type=page.entries_layout %}
-          {% endfor %}
-          </div>
-          <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-        </section>
-      {% endif %}
-    {% endif %}
-  {% endfor %}
+<a href="#top" class="back-to-top"><strong>{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</strong></a>
 {% endfor %}
-
-{% include social-share.html %}
-
-
-<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
-
-{% include paginator.html %} -->
 
