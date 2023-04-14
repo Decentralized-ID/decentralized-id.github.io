@@ -17,13 +17,7 @@
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% endif %}
-    <h3 class="archive__item-title no_toc" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h3>
+    <br><strong><a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a></strong>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 300 }}</p>{% endif %}
     <p class="page__meta"><strong>Updated:</strong> {{ post.last_modified_at }} <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
 
@@ -35,16 +29,17 @@
           {% if company.parent %}{% assign tags = company.parent | push: post.name %}{% endif %}
           {% if company.related != Nil %}
             {% if company.related contains ';'%}
-              {% assign tags = company.related |split: ';' | push: post.name %}
-            {%else %}
-              {% assign tags = company.related | push: post.name %}
-            {%endif%}   
+              {% assign tgs = company.related |split: '; ' | push: post.name %}
+              {% assign tags = tags | concat: tgs %}
+            {% else %}
+              {% assign tags = tags | push: company.related | push: post.name %}
+            {% endif%}   
           {% endif %}
           {% if tags != Nil %}
-            {% assign sorted_tags = tags | concat: post.tags | push: post.name | uniq | compact | sort %}
+            {% assign sorted_tags = tags | concat: post.tags | uniq | compact | sort_natural %}
           {% elsif post.tags !=Nil %}
-            {% assign sorted_tags = post.tags | push: post.name | uniq | compact | sort_natural %} 
-          {%endif%}
+            {% assign sorted_tags = post.tags | uniq | compact | sort_natural %} 
+          {% endif%}
         {% endif %}
       {% endfor %}
     {% else %}
@@ -52,6 +47,6 @@
     {% endif %}
     {% for tag in sorted_tags %}
       <div class="tags">{{ tag }}</div> 
-    {% endfor %}<hr>
+    {% endfor %}
   </article> 
 </div>
