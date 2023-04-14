@@ -6,7 +6,7 @@
 Explainer: [eIDAS 2.0 - Introduction to The European Digital Identity Wallet & The Evolution of Self-Sovereign Identity](https://utimaco.com/current-topics/blog/eidas-2-the-european-digital-identity-wallet)
 
 Until now, the [eIDAS regulation](https://www.legislation.gov.uk/eur/2014/910/contents) has only focused on online identification. However, the new proposal – eIDAS 2.0 – aims to extend identity to the world of physical services which can be accessed from anywhere around the globe.
-* [Data: A new direction](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1016395/Data_Reform_Consultation_Document__Accessible_.pdf)
+* [Data A New Direction](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1016395/Data_Reform_Consultation_Document__Accessible_.pdf)
 
 ● secure the UK's status as a global hub for the free and responsible flow of personal data - complementing our ambitious agenda for new trade deals and data partnerships with some of the world’s fastest growing economies
 

@@ -11,7 +11,7 @@ canonical_url: 'https://decentralized-id.com/companies/karyl-fowler_transmute/'
 redirect_from: 
   - blockchain/ethereum/transmute/
 categories: ["Companies"]
-tags: ["DHS","Transmute","Ethereum","Blockchain","Microsoft","DID","Verifiable Credentials","Consensys","DIF","Encrypted Data Vaults","Oracle","OAuth","OIDC","Okta","Custom Authz Servers","Okta Identity Cloud"," Element Block Explorer","Element","Sidetree","IPFS","DID:Github","IOT"]
+tags: ["DHS","Transmute","Ethereum","Blockchain","Microsoft","DID","Verifiable Credentials","Consensys","DIF","Encrypted Data Vaults","Oracle","OAuth","OIDC","Okta","Custom Authz Servers","Okta Identity Cloud"," Element Block Explorer","Element","Sidetree","IPFS","DID:GITHUB","IOT"]
 header:
   image: /images/transmute.webp
   teaser: /images/transmute_thumb.webp
