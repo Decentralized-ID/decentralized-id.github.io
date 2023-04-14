@@ -1,0 +1,31 @@
+--- 
+layout: archive 
+--- 
+
+<h2>Navigation</h2>
+<ul>
+{% for item in site.data.tagz %}
+  {% if item[0] == page.section %}
+    {% for tag in item[1] %}
+      <li><a href="#{{ tag | slugify }}">{{ tag | upcase | replace: '_', ' '}}</a></li>
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+<h2>Content</h2>
+{% for item in site.data.tagz %}
+  {% if item[0] == page.section %}
+    {% for tag in site.tags %}
+      {% if item[1] contains tag[0] %}
+        <h3 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h3>
+        <sup><a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a></sup>
+        <div class="entries-{{ entries_layout }}">
+          {% for post in tag.last %}
+            {% include archive-single.html type=entries_layout %}
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor%}
