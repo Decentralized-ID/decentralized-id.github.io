@@ -6,8 +6,8 @@ main:
     url: /introduction/
   - title: "Recent"
     url: "/posts/"
-  - title: "Tags"
-    url: "/tags/"
+  - title: "Categories"
+    url: "/categories/"
   - title: "Aim"
     url: "/aim/"
 
@@ -23,16 +23,43 @@ didnav:
         url: /history/2010-2014/
       - title: "• 2015-2019"
         url: /history/2015-2019/
-  - title: Feature
+  - title: New Pages New Structure
+    url: "/categories/#companies"
     children:
+      - title: "• ValidatedID"
+        url: "/companies/ValidatedID/"
+      - title: "• SpruceID"
+        url: "/companies/ValidatedID/"
+      - title: "• Spherity"
+        url: "/companies/Spherity/"
+      - title: "• MyDEX"
+        url: "/companies/MyDEX/"
+      - title: "• Mattereum"
+        url: "/companies/Mattereum/"
+      - title: "• Magic Labs"
+        url: "/companies/MagicLabs/"
+      - title: "• Lissi"
+        url: "/companies/Lissi/"
+      - title: "• Indicio"
+        url: "/companies/Indicio/"
+      - title: "• IDRamp"
+        url: "/companies/IDramp/"
+      - title: "• GlobalID" 
+        url: "/companies/GlobalID/"
+      - title: "• Gataca" 
+        url: "/companies/Gataca/"
+  - title: Literature
+    children:
+      - title: "• Identosphere Blog Catcher"
+        url: https://identosphere.net/
+      - title: "• Identosphere Newsletter"
+        url: https://newsletter.identosphere.net/
       - title: "• SSI Literature"
         url: "/literature/self-sovereign-identity/"
       - title: "• IIW Session Topics"
         url: "/workshops/internet-identity-workshop/"
       - title: "• RWoT Papers Index"
-        url: "/literature/rebooting-web-of-trust/"
-      - title: "• Identity Blog Catcher"
-        url: https://identosphere.net/
+        url: "/workshops/rebooting-web-of-trust/"
   - title: Web Standards
     url: /web-standards/
     children:
@@ -56,7 +83,7 @@ didnav:
     url: "/organizations/"
     children:
       - title: "• Identity Foundation"
-        url: "/organizations/identity-foundation/"
+        url: "/organizations/decentralized-identity-foundation/"
       - title: "• My Data"
         url: "/organizations/mydata/"
       - title: "• Hyperledger Foundation"

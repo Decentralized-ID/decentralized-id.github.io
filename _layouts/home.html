@@ -11,8 +11,6 @@ layout: archive
 -->
 
 {{ content }}
-
-
 {% assign tags_max = 0 %}
 {% for tag in site.tags %}
   {% if tag[1].size > tags_max %}
@@ -26,7 +24,7 @@ layout: archive
 <h2>Tags Grouped by Section</h2>
 This system of navigation is part of an ongoing transition towards making this content, and its subject-matter, more accessible based upon the specific topic you are interested in. 
 {% for item in site.data.tagz %}
-<h3 id="{{item[0] | downcase}}">{{ item[0] | upcase | replace: "_", "-" }}</h3>
+<h3 id="{{item[0] | downcase}}">{{ item[0] | upcase | replace: "_", "-" }}</h3><a href="#top" class="back-to-top"><strong>{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</strong></a>
 
 <ul class="taxonomy__index">
   {% for i in (1..tags_max) reversed %}
@@ -41,6 +39,5 @@ This system of navigation is part of an ongoing transition towards making this c
     {% endfor %}
   {% endfor %}
 </ul>
-<a href="#top" class="back-to-top"><strong>{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</strong></a>
 {% endfor %}
 
