@@ -4,7 +4,7 @@ title: XRI Technical Committee
 description: Defining a syntax for abstract structured identifiers to share semantics across different URI schemes, domains, and applications (XRI); plus defining a simple XML format for uniform metadata discovery for all URIs (XRD)
 excerpt: > 
     The purpose of this TC is to define a syntax for abstract structured identifiers -- identifiers that can be used within other URI schemes (such as http: and https: URIs) to share semantics across any number of domains and applications. The TC is also defining a simple XML descriptor format and HTTP(S) protocol for uniform resource metadata discovery.
-category: ["Web Standards"]
+category: ["History"]
 tags: ["OASIS","XRI","XDI","Dataweb"]
 last_modified_at: 2020-12-01
 permalink: web-standards/oasis-open/xdi/xdi-tc/

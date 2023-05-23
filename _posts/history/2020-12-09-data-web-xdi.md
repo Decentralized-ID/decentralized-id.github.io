@@ -6,8 +6,8 @@ excerpt: >
   The goal of XDI is to enable data from any data source to be identified, exchanged, linked, and synchronized into a machine-readable dataweb using XML documents just as content from any content source can linked into the human-readable Web using HTML documents today. Because the controls needed to mediate access and usage of shared data can be built right into every XDI link, the emergence of a global Dataweb has the potential to do for trusted data interchange what the Web did for open content exchange.
 last_modified_at: 2020-12-09
 permalink: /literature/dataweb-introduction-to-xdi/
-categories: ["Web Standards"]
-tags: ["XRI","XDI","Dataweb","Literature"]
+categories: ["Literature"]
+tags: ["XRI","XDI","Dataweb","Literature","History"]
 header:
   og_image: /images/dataweb/dataweb-og.webp
   teaser: /images/dataweb/dataweb-whitepaper-teaser.webp

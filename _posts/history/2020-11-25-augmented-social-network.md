@@ -7,7 +7,7 @@ excerpt: >
 layout: single
 permalink: literature/augmented-social-network/
 canonical_url: 'https://decentralized-id.com/literature/augmented-social-network/'
-categories: ["Web Standards","History"]
+categories: ["History"]
 tags: ["Planetwork","Augmented Social Network","OASIS","Microsoft","Literature"]
 header:
   image: /images/asn-header.webp
