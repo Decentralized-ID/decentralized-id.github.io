@@ -7,7 +7,7 @@ excerpt: >
 permalink: organizations/decentralized-identity-foundation/wg/did-comm/
 canonical_url: https://decentralized-id.com/organizations/decentralized-identity-foundation/wg/did-comm/
 redirect_from: 
-categories: ["Identity Foundation (DIF)","Web Standards"]
+categories: ["Web Standards"]
 tags: ["DIDComm WG","DIDComm","DIF","Aries","DID","W3C"]
 header:
   image: /images/DIDComm-header.webp
