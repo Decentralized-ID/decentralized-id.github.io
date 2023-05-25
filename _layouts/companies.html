@@ -7,7 +7,8 @@ layout: single
 {%assign headers = "Company,Product,Meta,Ecosystem,Explainer,Standards,Policy,HowTo,Recap,Resources" | split: "," %}
   {% for item in headers %}
     {%assign mark=''%}
-      {% for row in site.data.content %}
+	  {% assign content = site.data.content | sort: 'date' | reverse %} 
+	  {%for row in content %}
       {% if row.section == item and row.main == page.name and mark != 1 %}{%assign mark = 1%}<h2 id="{{item}}">{{item | capitalize}}</h2><ul>{%endif%}
       {% if row.section == item and row.main == page.name %}
         {%assign attributes = "location,region,policy,event,sector,industry,market,focus,projects,tech,standard" | split: "," %}
@@ -86,7 +87,8 @@ layout: single
   <p>From other pages on this site. (Beta)</p>
   <ul>
         {%assign attributes = "related,location,region,policy,event,sector,industry,market,focus,projects,tech,standard" | split: "," %}
-        {%for row in site.data.content%}
+		{% assign content = site.data.content | sort: 'date' %} 
+		{%for row in content %}
         {% if row.main != page.name and row.related contains page.name %}
           <li>Name: <strong><a href="{{ row.link }}">{{ row.title }}</a></strong><br>
         <small>
@@ -107,7 +109,7 @@ layout: single
               <strong>Related</strong>{{row.related | prepend: ": "}}
             {%endif%}
           {%endif%}
-          {%if row.date != nil%} <strong>Date:</strong> ({{row.date}}){%endif%}
+          {%if row.date != nil%} <strong>Date:</strong> {{row.date}}{%endif%}
           {%for item in row%}
             {%if attributes contains item.first and item.last != nil %}
               {% if item.last contains ';' %}
