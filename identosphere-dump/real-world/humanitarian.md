@@ -2,6 +2,8 @@
 published: false
 ---
 
+https://www.crowdfundinsider.com/2020/09/166678-global-id-verification-provider-onfido-to-offer-authentication-services-to-malaysias-mycash-money/
+
 # Humanitarian
 
 * [Fixing Aid | Can blockchain help fix the I.D. problem for a billion people?](https://www.thenewhumanitarian.org/podcast/2022/03/31/Fixing-Aid-can-blockchain-help-fix-the-ID-problem-for-a-billion-people) The New Humanitarian

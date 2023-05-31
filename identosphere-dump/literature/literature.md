@@ -22,6 +22,9 @@ Digital identification is the focus of two new reports by the European Union Age
 * [Digital Identity: Leveraging the SSI Concept to Build Trust](https://www.enisa.europa.eu/publications/digital-identity-leveraging-the-ssi-concept-to-build-trust)
 
 This report explores the potential of self-sovereign identity (SSI) technologies to ensure secure electronic identification and authentication to access cross-border online services offered by Member States under the eIDAS Regulation. It critically assesses the current literature and reports on the current technological landscape of SSI and existing eID solutions, as well as the standards, communities, and pilot projects that are presently developing in support of these solutions.
+* [Self-Sovereign Identity as a Service: Architecture in Practice](https://arxiv.org/pdf/2205.08314.pdf) Yepeng Ding, Hiroyuki Sato, University of Tokyo
+
+We propose a practical architecture by elaborating the service concept, SSI, and DLT to implement SSIaaS platforms and SSI services. Besides, we present an architecture for constructing and customizing SSI services with a set of architectural patterns and provide corresponding evaluations. Furthermore, we demonstrate the feasibility of our proposed architecture in practice with Selfid, an SSIaaS platform based on our proposed architecture.
 
 ## Research Papers
 

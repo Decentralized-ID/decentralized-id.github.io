@@ -4,6 +4,9 @@ published: false
 
 # Public Sector 
 
+* [Decentralized Identity & Government](https://www.youtube.com/watch?v=l8pHUdjKfes) Evernym
+
+The key differences between federated and decentralized identity systems - An analysis of a few notable government-led projects, such as Aadhaar (India), Verify (UK), eIDAS (EU), and the Ontario Digital Identity Program (Canada) - What decentralization means for portability, scalability, flexibility, and privacy - How governments and commercial organizations can enhance existing federated identity systems with verifiable credentials
 
 
 ### Findy - Finnish

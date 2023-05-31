@@ -2,7 +2,13 @@
 published: false
 ---
 
+* [Why Centralised Decentralised Finance (CeDeFi) and Self-sovereign Identity (SSI) Work Together](https://unizen-io.medium.com/why-centralised-decentralised-finance-cedefi-and-self-sovereign-identity-ssi-work-together-3dccb07f16f9) Unizen
+  > the combination of Centralised and Decentralised Finance — unites two ways of interacting with assets into one. Centralised Finance (CeFi) represents traditional entities (e.g. banks, brokers, funds), Decentralised Finance (DeFi) covers blockchain financial applications, cryptocurrencies, exchanges, decentralised payment services, etc. By merging the two, high transparency, impactful innovation, and wide adoption can be achieved.
+
 # Web 3
+* [Forensic Investigative Report: Sanctioned Blockchain Addresses](https://www.coinfirm.com/blog/sanctioned-blockchain-addresses/) Coinfirm
+
+* [Forensic Investigative Report: Terrorism Financing Blockchain Addresses](https://www.coinfirm.com/blog/terrorism-financing-blockchain-addresses/) Coinfirm
 
 ### 3Box
 3box IDX: [A Devkit for Open Identity](https://medium.com/3box/idx-a-devkit-for-open-identity-48edc88e8e85)  *(From Kaliya, this is interesting, but they are taking on a huge amount of work without an [IPR](https://en.wikipedia.org/wiki/Intellectual_property#Intellectual_property_rights) container/wrapper).*

@@ -3,12 +3,16 @@ published: false
 ---
 
 # Travel
+
+
+
 * [Is the biggest tech change for travel since the internet and mobile the shift to self-sovereign identity tech?](https://centreforaviation.com/analysis/video/is-the-biggest-tech-change-for-travel-since-the-internet-and-mobile-the-shift-to-self-sovereign-identity-tech-1594) CAPA TV
 
 - What are some of the benefits of this new wave, such as reduced cybersecurity risk and enhanced travel experiences/personalisation?
 - Will this affect the way travel is distributed and paid for change?
 - What can players in the established travel eco-system expect?
 - When will we see this come about – where will we be by 2030?
+
 * [SOUNDING OFF: A MAJOR - AND OVERDUE - POWER SHIFT IS COMING TO TRAVEL](https://www.phocuswire.com/sounding-off-144-ssi-power-shift-in-travel) Phocuswire
 
 When this comes to fruition – and not if, but when – it will be a transformative change, shifting power from travel suppliers to travelers themselves and giving travelers more choice, better personalization, lower friction and more security.

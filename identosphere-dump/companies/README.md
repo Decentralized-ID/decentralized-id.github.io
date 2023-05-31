@@ -222,6 +222,12 @@ Self-sovereign objects are are self-executing and self-owning; capable of determ
 * [Tru.net](https://www.tru.net/) is live and ready for communities/users
   > If you are looking for an alternative to Facebook that uses DIDs as its foundation and other protocols that are free to use ([JLINC](https://www.jlinc.com/) Kaliya highly recommend Tru.net
 
+### Trustbloc
+
+* [DIDComm for KYC](https://www.youtube.com/watch?v=PWrZxRbCG88) Trustbloc
+
+Demonstrates a financial "KYC" identity proofing using TrustBloc DIDComm capabilities. Stored credentials and real-time attestations can be authorized in a single flow.
+
 ### IDPro
 
 

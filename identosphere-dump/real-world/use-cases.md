@@ -2,20 +2,37 @@
 published: false
 ---
 
+* [Self-Sovereign Identity: More Use Cases](https://www.bankinfosecurity.com/self-sovereign-identity-more-use-cases-a-16448): Heather Dahl and Ken Ebert of Indicio Discuss Decentralized ID Management
+  > In a video interview with Information Security Media Group, Dahl and Ebert discuss:
+  > 
+  > - The evolution of Indicio.tech from the Sovrin Foundation;
+  > - Key initiatives in implementing and testing decentralized identity;
+  > - How a decentralized workforce is accelerating the need for identity management.
+
 # Verifiable Credentials
 
 * [How Exactly Are Verifiable Credentials Making the World Better?](https://sgershuni.medium.com/how-exactly-are-verifiable-credentials-making-the-world-better-eb72145c061) Stepan Gershuni
   > 6 stories of how verifiable credentials can improve the lives of every day people:
   > 
   > Ajay is an Uber driver in San Francisco. He wants to try various temporary jobs while he’s studying but joining Lyft, Postmates and other platforms requires going through a long and tedious background verification and car certification process over and over again.
+* [Reimagining Customer Loyalty Programs With Verifiable Credentials: A Pravici Case Study](https://www.evernym.com/blog/customer-loyalty-verifiable-credentials/) Evernym
+  > [Pravici](https://pravici.com/), an Evernym customer and startup based out of Chandler, Arizona, is looking to flip the equation. Their solution, Tokenized Loyalty Points (TLP), uses verifiable credential technology to give individual consumers control over their data, while empowering them to direct how their favorite brands can use this data for loyalty and other campaigns.
+* [26 Suggested Use Cases of Verifiable Credentials (With Some Real-World Examples)](https://academy.affinidi.com/25-real-world-use-cases-of-verifiable-credentials-4657c9cbc5e)
+  > we hope that business leaders, entrepreneurs, and developers will use this article as a guide to create some breakthrough solutions that will benefit the society at large.
 
-## Evan Network
+## Supply Chain
 * [Trusted Supply Chain: end-to-end compliance in multi-tier supply chain](https://evan.network/use-cases/trusted-supply-chain/) Evan Network
   > In the real estate industry, TRUST&TRACE can be used by companies to obtain required compliance information from a network of participating companies. In this way, all property data is collected step by step: from building construction and leasing to sale and demolition.
-
-## Mavnet
+* [SAP Completes Pharmaceutical Industry Pilot to Improve Supply Chain Authenticity](https://news.sap.com/2021/03/pharmaceutical-supply-chain-industry-pilot/)
+  > today announced the completion of an industry-wide pilot utilizing self-sovereign identity (SSI) credentials to establish trust in the pharmaceutical supply chain for indirect trade relationships.
 * [The missing link: digitizing supply chains with portable data](https://medium.com/mavennet/the-missing-link-digitizing-supply-chains-with-portable-data-583b66acc9bc) Mavnet
   > The traceability vocabulary bridges the gap between existing record-keeping systems and the verifiable exchange of supply chain information across organizations envisioned by proponents of these data portability technologies. 
+* [The Phygital Future of the Supply Chain](https://nextlevelsupplychainpodwithgs1us.libsyn.com/the-phygital-future-of-the-supply-chain) Next Level Supply Chain Podcast with GS1
+  > The digital and physical world are merging more than ever before. As the supply chain becomes more ‘phygital,’ innovative ways of sharing data – like using verifiable credentials – are helping to build more trust with data along the supply chain. Join us as we chat with Senior VP of Innovation & Partnerships at GS1 US, Melanie Nuce, as we explore what’s around the corner and how standards play
+* [How to Prevent Supply Chain Fraud With Blockchain](https://www.dock.io/post/supply-chain-fraud-blockchain) Dock
+  > The global [supply chain management market size](https://www.prnewswire.com/news-releases/supply-chain-management-scm-market-size-worth--19-3-billion-globally-by-2028-at-9-02--cagr-verified-market-research-301540702.html) was valued at USD 10.1 Billion in 2020 and is projected to reach USD 19.3 Billion by 2028. Supply chain is the path for any product such as food, clothes, or appliances to go from where it was a produced, to distributors, procurement officers (quality inspections), and the market.
+* [SAP Pharma Solution Supports Supply Chain Compliance](https://insidesap.com.au/sap-pharma-solution-supports-supply-chain-compliance/)
+  > SAP has chosen an open, interoperable technology to validate all stakeholders in the pharma supply chain in order to provide customers with the best solution for compliance under the U.S. Drug Supply Chain Security Act (DSCSA) requirements. The DSCSA also limits stakeholders’ interactions to ATPs.
 
 ## Personal Data
 * [Why Location Data Brokers Put All Communities At Risk](https://me2ba.org/why-location-data-brokers-put-all-communities-at-risk/) Zach Edwards M2BA
@@ -23,24 +40,13 @@ published: false
 * [Julian Wilson: Self-Sovereign Data meets Open Banking](https://mastersofprivacy.com/julian-wilson-self-sovereign-data-meets-open-banking/) Masters of Privacy
   > Julian Wilson began his career at Apple in the late 80s [...] joined Ecospend in 2019 to build a self-sovereign data service on top of an Open Banking platform. He describes his role as putting an Internet lens onto product design.
 
-## GS1
+## Banking
+* [Impacts from a new reality drive the need for an enhanced digital identity framework](https://bankautomationnews.com/allposts/risk-security/impacts-from-a-new-reality-drive-the-need-for-an-enhanced-digital-identity-framework/) Bank Automation News
 
-* [The Phygital Future of the Supply Chain](https://nextlevelsupplychainpodwithgs1us.libsyn.com/the-phygital-future-of-the-supply-chain) Next Level Supply Chain Podcast with GS1
-  > The digital and physical world are merging more than ever before. As the supply chain becomes more ‘phygital,’ innovative ways of sharing data – like using verifiable credentials – are helping to build more trust with data along the supply chain. Join us as we chat with Senior VP of Innovation & Partnerships at GS1 US, Melanie Nuce, as we explore what’s around the corner and how standards play
+While US-based entities are adhering to an enhanced regulatory framework, these mandates are particularly applicable in Europe, where there is necessary compliance with enacted standards (such as the General Data Protection Regulation—commonly known as GDPR—and the Payment Service Providers Directive 2—referred to as PSD2. A clear need for a true and persistent digital identity as a solution to the ancillary—and sometimes unforeseen—challenges that have arisen.
 
-### CCG
-* [Open API for Interoperable Traceability](https://w3c-ccg.github.io/traceability-interop/openapi/#overview) CCG
-  > `resolve:dids - Grants permission to resolve DIDsissue:credentials - Grants permission issue Verifiable Credentialsverify:credentials - Grants permission verify Verifiable Credentialsread:credentials - Grants permission to get Verifiable Credentialsupdate:credentials - Grants permission to update the status of Verifiable Credentialsprove:presentations - Grants permission to prove Verifiable Presentationsverify:presentations - Grants permission verify Verifiable Presentationssubmit:presentations - Grants permission to submit Verifiable Presentations`
-
-## DOCK
-* [How to Prevent Supply Chain Fraud With Blockchain](https://www.dock.io/post/supply-chain-fraud-blockchain) Dock
-  > The global [supply chain management market size](https://www.prnewswire.com/news-releases/supply-chain-management-scm-market-size-worth--19-3-billion-globally-by-2028-at-9-02--cagr-verified-market-research-301540702.html) was valued at USD 10.1 Billion in 2020 and is projected to reach USD 19.3 Billion by 2028. Supply chain is the path for any product such as food, clothes, or appliances to go from where it was a produced, to distributors, procurement officers (quality inspections), and the market.
-
-## Finance
 * [Banking’s identity problem](https://www.globalbankingandfinance.com/bankings-identity-problem/) Global Banking and Finance
   > Banks have sought to overcome some of these challenges with the use of biometrics such as facial recognition and fingerprints.  These are now more commonly used to login to, or unlock devices, and increase usability, but still leave the challenge of proving the authenticity of a document wide open to abuse.
-* [Why Centralised Decentralised Finance (CeDeFi) and Self-sovereign Identity (SSI) Work Together](https://unizen-io.medium.com/why-centralised-decentralised-finance-cedefi-and-self-sovereign-identity-ssi-work-together-3dccb07f16f9) Unizen
-  > the combination of Centralised and Decentralised Finance — unites two ways of interacting with assets into one. Centralised Finance (CeFi) represents traditional entities (e.g. banks, brokers, funds), Decentralised Finance (DeFi) covers blockchain financial applications, cryptocurrencies, exchanges, decentralised payment services, etc. By merging the two, high transparency, impactful innovation, and wide adoption can be achieved.
 - [New Bank Account Use Case](https://www.youtube.com/watch?v=YRLu4U4hSZ8)
 
 
@@ -49,24 +55,15 @@ published: false
   A decentralized network using a blockchain-based distributed ledger means you can use [Peer DIDs](https://identity.foundation/peer-did-method-spec/) to move most “transactions” and their cryptographic proofing off ledger. This means that for those peer-to-peer interactions, identity blockchains don’t need to do any ledger transactions at all.
 
 
-## Education
-* [Super Skills, a mobile application use case for DIDs and VCs](https://medium.com/@ntonani/super-skills-a-mobile-application-use-case-for-dids-and-vcs-d174467ccf46)
+* [How to Prevent Fraud using #MARKs](https://dhiway.com/prevent-credential-fraud/) DHIWay
 
-Beyond directly helping children learn in playful ways, this partnership was forged to assist in championing the importance of three learning primitives of tomorrow’s educational landscape: decentralized identifiers (DIDs), verifiable credentials (VCs), and digital wallets.
+Credential fraud has, unfortunately, become commonplace in today’s instant electronic age. Especially problematic in [higher education](https://dhiway.com/hashmarks-in-the-education-sector/), credential fraud has spiralled into a multi-billion-dollar industry
 
 ## business registry
 * [Is the Self-Sovereign digital identity the future digital business registry?](https://blogs.worldbank.org/psd/self-sovereign-digital-identity-future-digital-business-registry) GORAN VRANIC, ANDREJA MARUSIC; WorldBank
 
 This rapid digitalization of the private sector exposed a challenge in the business registration paradigm. To use private digital platforms for e-Logistics or e-Commerce, SMEs have to register and confirm their identity with these platforms, despite already being identified in the government business registry.
 
-## Healthcare
-
-* [ExO Economy Town Hall 11 Medtech & Self Sovereign Identity](https://www.youtube.com/watch?v=_yV1K-sw8tM) Adam B Levine Kaliya Identity Woman Young
-
-* [http://economy.openexo.com](https://economy.openexo.com/) ExO Economy Town Hall #11 Q- Medtech and Self Sovereign Identity - Adam B Levine & Kaliya Identity Woman Young
-* [Simplify medical supply orders with SSI: Techruption innovation project](https://www.brightlands.com/en/brightlands-smart-services-campus/brightlands-techruption-SSI-simplifies-medical-supply-orders)
-
-Participants in this co-creation use case were TNO, CZ, Rabobank and Accenture. The developed solution can be applied in other industries as well. For example in public services, which are often offered by a network of organisations that are all required to comply with high administrative standards.
 
 ## Fraud
 
@@ -254,9 +251,6 @@ If you want to se how hard this was/would have been to achieve in earlier techno
 * [Trusted Timestamping Part 1: Scenarios](https://medium.com/finema/trusted-timestamping-part-1-scenarios-9bf4a7cc2364) Nunnaphat Songmanee, Finema
 
 Evidentiary value is an essential component of important transactions. When a transaction is recorded in a printed document, one way to impart evidentiary value is by including date and time
-* [How to Prevent Fraud using #MARKs](https://dhiway.com/prevent-credential-fraud/) DHIWay
-
-Credential fraud has, unfortunately, become commonplace in today’s instant electronic age. Especially problematic in [higher education](https://dhiway.com/hashmarks-in-the-education-sector/), credential fraud has spiralled into a multi-billion-dollar industry
 
 
 * [Survey: How Do You Use Your Identity at Work?](https://findbiometrics.com/survey-how-do-you-use-your-identity-at-work/) FindBiometrics
@@ -386,9 +380,10 @@ Yes, verifiable authentic human content is important. I also think cryptography 
 
 We Credivera are Having fun at the #NSCExpo
 
-* [When Job Candidates Lie, New Tech From ZippedScript And LearnCard Will Help You Catch Them](https://www.forbes.com/sites/zengernews/2022/09/16/when-job-candidates-lie-new-tech-from-zippedscript-and-learncard-will-help-you-catch-them/?sh=731b54b63ed4) Forbes
 
-“recently launched [LearnCard](http://www.learncard.com/), a digital wallet for education and employment programmable verifiable credentials”
+* [Blockchains in HR: Prosoon and Talao go together on SSI and HR credentials](https://medium.com/@talao_io/blockchains-in-hr-prosoon-and-talao-go-together-on-ssi-and-hr-credentials-3b92968011fe) Talao
+
+This partnership will enable the use of Blockchain and Self-Sovereign Identity technologies such as verifiable credentials to enable the support of diplomas and professional certifications in compliance with personal data in a decentralized environment (#web3).
 
 * [HUMBL @HUMBLPay](https://twitter.com/HUMBLPay/status/1574454647384813568) via Twitter ([ANN](https://www.globenewswire.com/en/news-release/2022/04/13/2421969/0/en/HUMBL-Selected-To-Pilot-Digital-Wallet-Program-On-Behalf-of-The-County-of-Santa-Cruz-California.html)
 
