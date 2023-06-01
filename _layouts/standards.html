@@ -1,0 +1,60 @@
+---
+layout: single 
+---
+{% for item in page.headings %}
+  {%assign mark=''%}
+  {% assign content = site.data.standards %} 
+  {% for row in content %}
+    {% if row.section == item and row.main == page.name and mark != 1 %}{%assign mark = 1%}<h2 id="{{item}}">{{item | capitalize}}</h2><ul>{%endif%}
+    {% if row.section contains item and row.main contains page.name %}
+      {%assign attributes = "location,region,policy,event,sector,industry,market,focus,projects,tech,standard" | split: "," %}
+	  {% if page.name == "Decentralized Identifiers" and row.name !=nil and row.name != lastname %}
+        <h3 id="{{row.name}}">{{row.name}}</h3> 
+		{% assign lastname = page.name %} 
+      {% endif %}
+	  <li><a href="{{ row.link }}">{{ row.title }}</a>
+	  {%if row.parent !=nil and row.parent != "Personal" %}<strong>From</strong>: {{row.parent}}{%endif%}
+      {% if row.authors !=nil%}<strong>By</strong>: 
+        {% if row.authors contains ';' %}{{ row.authors | replace: ";",", "}}
+        {% else %}{{ row.authors}}
+        {%endif%}
+      {%endif%}
+      {% if row.related contains ';' %}
+        <strong>Related</strong>:{%assign related = row.related|split:';'%}
+        {%assign trekker = 0%}
+        {%for item in related%}
+          {%assign trekker = trekker | plus: 1%}
+        {%endfor%}
+        {%for item in related%}
+          {%if item != nil%} {{item|strip}}{%if trekker > 1%},{%assign trekker = trekker | minus: 1%}{%endif%}{%endif%}
+        {%endfor%}
+      {%elsif row.related == nil%}
+      {%else%} 
+        <strong>Related</strong>: {{row.related}}
+      {%endif%}
+      <strong>Type: </strong>{{row.type|strip|capitalize}}
+      {%if row.date != nil%} <strong>{% if row.type == "Working Group" %}Established:{%else%}Date:{% endif %}</strong> {{row.date}}{%endif%}
+      {%for item in row%}
+        {%if attributes contains item.first and item.last != nil %}
+          {% if item.last contains ';' %}
+            <strong>{{item.first|capitalize}}:</strong> 
+            {% assign ray = item.last | split: ';'%}
+            {%for item in ray %}{%if item != " "%} {{item|strip}}{% if forloop.last %}{% else %}, {% endif %}{%endif%}{%endfor%}
+          {% elsif item.last contains ',' %}
+            <strong>{{item.first|capitalize}}:</strong> 
+            {% assign ray = item.last | split: ','%}
+            {%for item in ray %}{%if item != " "%} {{item|strip}}{% if forloop.last %}{% else %}, {% endif %}{%endif%}{%endfor%}
+          {%else%} 
+            <strong>{{item.first|capitalize}}:</strong> {{item.last}}
+          {%endif%}
+        {%endif%}
+      {%endfor%}
+      </li>
+      {% if row.text %}<blockquote>{{row.text | markdownify}}</blockquote>{%endif%}
+	  {%if row.image != Nil%}
+        <ul><li><img src="{{row.image}}"/></li></ul>
+      {%endif%}
+    {%endif%}  
+  {% endfor %}
+</ul>
+{% endfor %}
