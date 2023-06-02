@@ -12,10 +12,9 @@ canonical_url: https://decentralized-id.com/organizations/decentralized-identity
 redirect_from: 
   - organizations/decentralized-identity-foundation/wg/did-comm/
 categories: ["Web Standards"]
-tags: ["DIDComm WG","DIDComm","DIF","Aries","DID","W3C"]
+tags: ["DIDComm WG","DIDComm","DIF","Aries","DID","W3C","Indicio","TBD","SICPA","Danube Tech","MATTR","Animo","Aviary","Transmute","Centre","Microsoft","Evernym","DSR","SecureKey","ConsenSys","BCGov","Anonyome","uPort","Animo","Hyperledger Foundation","Jolocom"]
 header:
   image: /images/DIDComm-header.webp
   teaser: /images/DIDComm-teaser.webp
 last_modified_at: 2023-06-03
 ---
-
