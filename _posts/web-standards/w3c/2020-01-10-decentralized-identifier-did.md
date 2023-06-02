@@ -1,5 +1,5 @@
 ---
-title: "(DID) the Decentralized Identifier"
+title: "(DID) the Decentralized Identifier - W3C"
 name: Decentralized Identifiers
 layout: standards
 headings: ["Main","Explainer","Working Group","Literature","About DID Methods","The DID Methods","Critique","Discussion","Tools and Utilities","W3C Recommendation"]

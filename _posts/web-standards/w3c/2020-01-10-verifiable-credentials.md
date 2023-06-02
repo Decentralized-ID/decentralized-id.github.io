@@ -1,6 +1,6 @@
 ---
 date: 2020-01-10
-name: Verifiable Credentials
+name: Verifiable Credentials - W3C
 layout: standards
 headings: ["About","Comparisons","Working Group","Credentials Community Group","Claims and Credentials WG","Development","Varieties","Interoperability","Literature","Use Case","User Experience"]
 title: "Verifiable Credentials"

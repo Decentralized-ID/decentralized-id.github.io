@@ -1,6 +1,6 @@
 ---
 date: 2020-11-27
-title: Schema.org Community Group
+title: Schema.org Community Group - W3C
 description: The Schema.org Community Group provides a forum for discussing all changes, additions and extensions to schema.org.
 excerpt: >
     The Schema.org Community Group provides a forum for discussing all changes, additions and extensions to schema.org. In addition to providing a public setting for the day to day operation of the project, it serves as the mechanism for reviewing extensions and as a liaison point for all parties developing independent extensions to the schema.org core.
