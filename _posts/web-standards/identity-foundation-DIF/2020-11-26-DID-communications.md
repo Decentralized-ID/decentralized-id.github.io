@@ -1,6 +1,6 @@
 ---
 date: 2020-11-26
-title: DID Communications - DIF
+title: DID Communications (DIDComm) - DIF
 name: DIDComm
 layout: standards
 headings: ["Explainer","RFCs","Development","Implementation"]
