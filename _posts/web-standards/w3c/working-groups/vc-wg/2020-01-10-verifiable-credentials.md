@@ -15,6 +15,7 @@ header:
   caption: "[Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)"
   teaser: /images/verifiable-credentials-teaser.webp
 redirect_from: 
+  - web-standards/w3c/wg/vc/verifiable-credentials/adoption/
   - web-standards/w3c/vc-wg/verifiable-credentials/
   - specs-standards/verifiable-credentials/
   - web-standards/verifiable-credentials/
