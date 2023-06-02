@@ -4,7 +4,9 @@ title: Schema.org Community Group
 description: The Schema.org Community Group provides a forum for discussing all changes, additions and extensions to schema.org.
 excerpt: >
     The Schema.org Community Group provides a forum for discussing all changes, additions and extensions to schema.org. In addition to providing a public setting for the day to day operation of the project, it serves as the mechanism for reviewing extensions and as a liaison point for all parties developing independent extensions to the schema.org core.
-permalink: web-standards/w3c/cg/schema-org/
+permalink: web-standards/w3c/schema-org/
+redirect_from:
+  - web-standards/w3c/cg/schema-org/
 tags: ["Schema.org","W3C","JSON-LD","RDF","Microsoft"]
 categories: ["Web Standards"]
 header:
