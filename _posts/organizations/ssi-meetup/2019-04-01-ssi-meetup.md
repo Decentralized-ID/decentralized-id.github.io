@@ -5,7 +5,7 @@ title:  SSI-Meetup
 excerpt: >
   SSI Meetup is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. Our main mission is to help you connect with other SSI enthusiasts and create a dynamic, local, yet globally connected community.
 toc_sticky: false
-categories: ["Web Standards","Media"]
+categories: ["Media"]
 tags: ["SSI-Meetup","GDPR","Aries","MyData","IIW","Self Sovereign Identity","Alastria","CULedger","MyCuID","Trust Framework","Media"]
 canonical_url: 'https://decentralized-id.com/organizations/ssi-meetup/'
 redirect_from: organizations/ssi-meetup
