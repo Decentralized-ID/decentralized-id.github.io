@@ -2,6 +2,7 @@
 title: "(DID) the Decentralized Identifier"
 name: Decentralized Identifiers
 layout: standards
+headings: ["Main","Explainer","Working Group","Literature","About DID Methods","The DID Methods","Critique","Discussion","Tools and Utilities","W3C Recommendation"]
 description: Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. 
 excerpt: >
   Decentralized identifiers (DIDs) are a new type of identifier that enables verifiable, decentralized digital identity. A DID identifies any subject (e.g., a person, organization, thing, data model, abstract entity, etc.) that the controller of the DID decides that it identifies. In contrast to typical, federated identifiers, DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities. Specifically, while other parties might be used to help enable the discovery of information related to a DID, the design enables the controller of a DID to prove control over it without requiring permission from any other party. DIDs are URIs that associate a DID subject with a DID document allowing trustable interactions associated with that subject.
@@ -16,5 +17,4 @@ redirect_from:
   - adoption/
 last_modified_at: 2023-06-02
 toc: true
-headings: ["Main","Explainer","Working Group","Literature","About DID Methods","The DID Methods","Critique","Discussion","Tools and Utilities","W3C Recommendation"]
 ---

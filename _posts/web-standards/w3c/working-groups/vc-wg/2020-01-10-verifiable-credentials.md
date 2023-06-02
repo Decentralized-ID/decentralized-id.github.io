@@ -1,7 +1,8 @@
 ---
 date: 2020-01-10
-name: VCs
+name: Verifiable Credentials
 layout: standards
+headings: ["About","Comparisons","Working Group","Credentials Community Group","Claims and Credentials WG","Development","Varieties","Interoperability","Literature","Use Case","User Experience"]
 title: "Verifiable Credentials"
 description: a standard way to express credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable.
 excerpt: >
@@ -19,6 +20,5 @@ redirect_from:
   - web-standards/verifiable-credentials/
   - specs-standards/verifiable credentials/
 last_modified_at: 2023-05-08
-headings: ["About","Comparisons","Working Group","Credentials Community Group","Claims and Credentials WG","Development","Varieties","Interoperability","Literature","Use Case","User Experience"]
 ---
 
