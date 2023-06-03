@@ -13,7 +13,7 @@ tags: ["W3C","Credentials Community Group","JSON-LD","WebAuthN","DID","Verifiabl
 header:
   image: /images/w3c_banner.webp
   teaser: /images/w3c_teaser.webp
-last_modified_at: 2023-05-19
+last_modified_at: 2023-06-03
 redirect_from: 
   - web-standards/w3c/history/
 ---
