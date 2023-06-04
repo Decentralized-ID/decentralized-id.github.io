@@ -12,23 +12,38 @@ redirect_from:
   - organizations/identity-foundation/
 categories: [Organizations]
 tags: ["DIF","DIDComm WG","Claims and Credentials WG","Storage and Compute WG","Identifiers and Discovery WG","DIDAuth WG","Interop WG","GS1","Danube Tech","Sovrin Foundation","1Kosmos","Accenture","aetna","Authenteq","Auth0","BigchainDB","BlockPass","Blockchain Foundry","Blockstack","BC Ministry of Citizens Services","BOTLabs","Civic","Consent","Consensys","Datum","Distributed ID","diwala","Dominode","Enigma","Enterprise Ethereum Alliance","Evernym","Equinix","gamecredits","Gem","GS1","Humanized-internet","hyperledger foundation","ID2020","Ideo","Identos","IBM","IOTA","Jolocom","KYC-Chain","LNk-E","Mastercard","Meeco","MetaX","Microsoft","Mooti","netki","NuID","Nuggets","Ockam","Onfido","Ontology","Pillar","R_Block","R3","remme","RSA","SecureKey","sitekit","suru","Taqanu","Tierion","Transmute","Trusted key","uPort","Validatedid","Veridium","Tykn","Aries","Bitcoin","Universal Resolver"]
-last_modified_at: 2020-11-26
+last_modified_at: 2023-06-05
 ---
 
 >A key piece of the decentralized identity equation is how people, organizations, and devices can be identified and located without centralized systems of identifiers (e.g. email addresses). DIF members are actively working on protocols and implementations that enable creation, resolution, and discovery of decentralized identifiers and names across decentralized systems, like blockchains and distributed ledgers.
 
-## Identity Foundation
-
 ![](https://imgur.com/PXGV6Xyl.png)
 
-* [Decentralized Identity Foundation](https://identity.foundation/) (DIF) [[**G**](https://github.com/decentralized-identity)] [[**T**](https://twitter.com/DecentralizedID)] [[**B**](https://medium.com/decentralized-identity)] 
-* [DIF Organizational Materials](https://github.com/decentralized-identity/org)
-* [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
-  * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
-* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c) [[**G**](https://github.com/decentralized-identity/universal-resolver)] [[**>**](#Decentralized-Identity-Foundation)]
-  * [uniresolver.io](https://uniresolver.io/)
-627-masterclass-on-the-did-universal-resolver-identiverse-2018)
+* [Decentralized Identity Foundation](https://identity.foundation/) (DIF) [Github](https://github.com/decentralized-identity) [Twitter](https://twitter.com/DecentralizedID) [Blog](https://medium.com/decentralized-identity) - [Discord](https://discord.com/invite/F4Qw7h6Sr9) - [Newsletter](https://blog.identity.foundation/author/newsletter/)
 * [Decentralized Identity Foundation](https://golden.com/wiki/Decentralized_Identity_Foundation) - golden.com
+  >  The Decentralized Identity Foundation (DIF) was founded in May 2017, and is an open source decentralized identity ecosystem for people, organizations, software applications, and devices. 
+
+## Organization
+
+* [DIF Organizational Materials](https://github.com/decentralized-identity/org) - GitHub
+* [DIF Steering Committee Election Results 2022](https://blog.identity.foundation/sc-election-2022-results/)
+  > SC Election results: DIF welcomes new SC members Sam Curren, Daniel Buchner, Karyl Fowler, Rouven Heck, Markus Sabadello & Kaliya Young!
+* [Kaliya was elected to the DIF steering committee](https://blog.identity.foundation/sc-election-2022-results/) Decentralized Identity Foundation
+  > The six elected candidates are Sam Curren (Indicio Tech), Daniel Buchner (Block), Karyl Fowler (Transmute), Rouven Heck (Consensys Mesh, Executive Director at DIF), Markus Sabadello (DanubeTech) & Kaliya Young (Identity Woman). Sam, Karyl, Markus and Rouven have been re-elected for another two year term as SC members. You can read more about the SC candidates' background and vision for DIF here.
+* [Communication Milestone Achievements!](https://blog.identity.foundation/milestones/) DIF
+  > This week, we hit 5k followers on Twitter, driven in no small part by attention garnered by our ToIP & DIF Joint Statement of Support for the Decentralized Identifiers (DIDs) v1.0 specification becoming a W3C Standard. Currently, we stand at 5,011 followers and growing, and we are proud that our comms channels, namely our DIF blog, Twitter and YouTube channel, are a great way to keep on top of important announcements from DIF and our members. We have some exciting stuff cooked up for 2022, so watch this space! 🎉
+* [Drilling down: Co-development](https://medium.com/decentralized-identity/drilling-down-co-development-in-the-open-765a86ab153f) DIF
+  > - What “standardization” means to DIF and what DIF means to standardization.
+  > - A newbie-friendly survey of how DIF relates to nearby organizations with overlapping or related foci.
+  > - What “co-development” and “coöpetition” really mean, concretely
+- [Finding the Bell Curve of Meaning](https://medium.com/decentralized-identity/finding-the-bell-curve-of-meaning-61a1d22b7bdd) Kaliya IdentityWoman
+  > As such, we aimed to invite alignment around key words, to find the “bell curve of meaning,” and to invite convergence towards the middle of this curve as a result of our research process. Our hope was to maximize the ability to inform and engage business audiences interested in adopting/purchasing this technology. This meant we would not be setting out to define hundreds of terms; rather, we chose to focus on a subset of the most widely used terms.
+
+## Grants
+* [Introducing DIF Grants](https://blog.identity.foundation/introducing-dif-grants/) Decentralized Identity Foundation
+  > DIF is kicking off a program to administer narrowly-scoped financial support for community initiatives, ranging in format from grants to more competitive implementation bounties, hackathon-style open collaborations, and security reviews.
+* [DIF Grant #1: JWS Test Suite](https://blog.identity.foundation/dif-grant-1-jws-test-suite/)
+  > DIF announces its first community microgrant, sponsored by Microsoft and rewarding the timely creation of a comprehensive test suite for detached-JWS signatures on Verifiable Credentials
 
 ## Groups
 ### Working groups
@@ -39,6 +54,8 @@ last_modified_at: 2020-11-26
 - [DID communication](https://identity.foundation/working-groups/did-comm.html)
 - [Sidetree](https://identity.foundation/working-groups/sidetree.html)
 - [Secure Data Storage](https://identity.foundation/working-groups/secure-data-storage.html)
+* [Wallet Security WG at DIF](https://identity.foundation/working-groups/wallet-security.html)
+
 ### Special Interest Groups
 - [Banking and Finance SIG](https://www.notion.so/dif/Banking-and-Finance-SIG-b2d528af578d44699aeb742ed47b81d2)
 - [Healthcare SIG](https://www.notion.so/dif/Healthcare-SIG-842bc686d12e4a508a951afc4d6df47d)
@@ -47,7 +64,35 @@ last_modified_at: 2020-11-26
 - [APAC/ASEAN community call](https://dif.groups.io/g/dif-apac-asean) ([ANN](https://medium.com/decentralized-identity/decentralized-identity-meetings-for-the-apac-region-7221b9aad29))
 - [Product managers](https://dif.groups.io/g/id-productmanagers)
 
-## Members
+## Interop
+* [Setting Interoperability Targets](https://blog.identity.foundation/setting-interoperability-targets/) DIF
+  > Our short-term roadmaps need testable, provable alignment goals that we can all agree on for our little communities and networks of technological thinking to converge gradually. Simply put, we need a few checkpoints and short-term goals, towards which we can all work together.
+* [Setting Interoperability Targets Part 1 of 2](https://medium.com/decentralized-identity/setting-interoperability-targets-part-1-of-2-c6cbeaf82e98) DIF
+  > The Interoperability working group will be tracking them and providing guidance and documentation where possible. Importantly, though, there is a new DIF Working Group coming soon, the Wallet Security WG, which will dive deeper into these profiles and requirements, benefiting from a narrow scope and IPR protection, allowing them to speak more bluntly about the above-mentioned details.
+* [Setting Interoperability Targets Part 2 of 2](https://medium.com/decentralized-identity/setting-interoperability-targets-part-2-of-2-671f8faa8ecb) DIF
+  > Having shown in our last piece how interoperability “profiles” are designed, we now tackle some key technical problem areas ripe for this kind of profile-first interoperability work across stacks.
+  - [TBD’s test results of JWS Test Suite](https://identity.foundation/JWS-Test-Suite/#tbd)
+  - [Spruce’s test results of JWS Test Suite](https://identity.foundation/JWS-Test-Suite/#spruce)
+* [DIF Interoperability Survey](https://docs.google.com/forms/d/e/1FAIpQLSfbFh4DQeyI0msXsWvfpbrtYEfgQrGRD7tw4d2Rg0NEyhvcKQ/viewform)
+  > We are keen to support more interoperability activity and hopefully testing this fall and winter. In order to do this we would like to gather feedback from the community as to where we are at so we can assess how to move forward.
+* [Tobias Looker on BBS+ use cases, DIF Interop WG 25Nov2020](https://www.youtube.com/watch?v=slkbFW6imUk) Tobias Looker, MATTR, Interoperability Working group at DIF:
+  > - Replay attack protection
+  > - Domain-specific identifiers and proofs
+  > - New partial-disclosure topographies
+
+## Hubs
+
+* [Identity Hubs Capabilities Perspective](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/final-documents/identity-hubs-capabilities-perspective.md) - Identity Hubs currently proposed in the Decentralized Identity Foundation (DIF) are a subset of a general Decentralized Identifier (DID). 
+  * [On DIF Hubs and Sovrin Agents](https://forum.sovrin.org/t/on-dif-hubs-and-sovrin-agents/897?u=phil)
+
+## Membership
+* [DIFS updated code of conduct](https://medium.com/decentralized-identity/difs-updated-code-of-conduct-a0c2d9dce1ad) - Setting a tone for inclusive collaboration.
+* [Dock Joins the Decentralized Identity Foundation](https://blog.dock.io/decentralized-identity-foundation/) Dock
+  > As a decentralized identity management platform that complies with internationally-recognized technology standards, we are continuously keeping up to date with key discussions and updates in the industry which is why we joined the Decentralized Identity Foundation
+* [What Does Affinidi Do as a Member of the Decentralized Identity Foundation (DIF)?](https://academy.affinidi.com/what-does-affinidi-do-as-a-member-of-the-decentralized-identity-foundation-dif-d9d5146af14) Affinidi
+  > In particular, Affinidi has been at the forefront in building many components such as the [Affinidi Wallet](https://academy.affinidi.com/what-is-affinidis-digital-wallet-1c2a52b4d13f), Schema Manager, [Consent Manager](https://build.affinidi.com/), and more that have enhanced the adoption of decentralised identity among communities and individuals.
+
+### Members
 
 DIF members, who share the goal of “building an open source decentralized identity ecosystem for people, organizations, apps, and devices” include: 
 • [1kosmos](https://onekosmos.com/product-details/) 
@@ -115,26 +160,9 @@ DIF members, who share the goal of “building an open source decentralized iden
 • [Veridium](https://www.veridiumid.com/) 
 • [zinc](https://tykn.tech/project-zinc/) 
 
-### DIF Monthly Newsletter
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">DIF Monthly. Our new-<a href="https://twitter.com/hashtag/newsletter?src=hash&amp;ref_src=twsrc%5Etfw">#newsletter</a>. Stay tuned &amp; sign-up on our site: <a href="https://t.co/2kw65U4bP2">https://t.co/2kw65U4bP2</a> <a href="https://t.co/wxkbChCpVh">pic.twitter.com/wxkbChCpVh</a></p>&mdash; DIF (@DecentralizedID) <a href="https://twitter.com/DecentralizedID/status/1162408597835460608?ref_src=twsrc%5Etfw">August 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-* [Email Campaign Archive from Decentralized Identity Foundation](https://us3.campaign-archive.com/home/?u=7d1001f187a746b68d2ea0d28&id=866a6c17be)
-  * [decentralized-identity/newsletter/issues/1#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=d03c08ac8b): Working Group Updates:
-  * [decentralized-identity/newsletter/issues/2#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=39d596a7f0) - Working Group Updates 
-  * [decentralized-identity/newsletter/issues/4#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=8efd1e4a75)
-  * [decentralized-identity/newsletter/issues/5#](https://us3.campaign-archive.com/?u=7d1001f187a746b68d2ea0d28&id=3dc94cb937)
-
-Working Group Updates:
-  * ☂️ InterOp Project - Demonstrating interoperability across various teams/project and technology stack.
-  * 💡 Identifiers & Discovery - How people, organizations, and devices can be identified and located without centralized systems.
-  * 💠 Storage & Compute - Secure, encrypted, privacy-preserving storage and computation of data.
-  * 🛡️ Claims & Credentials - Verifying claims and assertions of identities.
-  * 🔓 DID Auth - DID-based authentication specs, standards, and libraries.
-
-
 ## /decentralized-identity - GitHub 
 
+* [decentralized-identity/](https://github.com/decentralized-identity/)
 * [decentralized-identity/decentralized-identity.github.io](https://github.com/decentralized-identity/decentralized-identity.github.io)  - Site for the open source, community-driven group of dev and organizations working toward an interoperable, decentralized identity ecosystem
 * [decentralized-identity/org](https://github.com/decentralized-identity/org) - DIF docs, wiki, and organizational material
 * [decentralized-identity/credential-manifest](https://github.com/decentralized-identity/credential-manifest) - Format that normalizes the definition of requirements for the issuance of a credential
@@ -144,13 +172,12 @@ Working Group Updates:
 ### DIF - DID 
 * [decentralized-identity/did-methods](https://github.com/decentralized-identity/did-methods) - DID Method specs, docs, and materials
 * [decentralized-identity/did-common-typescript](https://github.com/decentralized-identity/did-common-typescript) - A common bundle of shared code and modules for working with DIDs, DID Documents, and other DID-related activities
-* [decentralized-identity/did-security-csharp](https://github.com/decentralized-identity/did-security-csharp) - C# implementation of DID security and privacy controls
 * [decentralized-identity/did-security-typescript](https://github.com/decentralized-identity/did-security-typescript) - Typescript implementation of DID security and privacy controls
+* [decentralized-identity/did-security-csharp](https://github.com/decentralized-identity/did-security-csharp) - C# implementation of DID security and privacy controls
 * [decentralized-identity/did-common-java](https://github.com/decentralized-identity/did-common-java) - Shared DID Java library.
 * [decentralized-identity/ua-web-extension](https://github.com/decentralized-identity/ua-web-extension) - Basic web extension version of a DID User Agent
 * [decentralized-identity/did-recovery](https://github.com/decentralized-identity/did-recovery) - Various methods for DID recovery
 * [decentralized-identity/web-polyfills](https://github.com/decentralized-identity/web-polyfills) - Polyfills for proposed or emerging DID-centric Web APIs
-* [decentralized-identity/](https://github.com/decentralized-identity/)
 * [decentralized-identity/http-did-auth-proxy](https://github.com/decentralized-identity/http-did-auth-proxy) - Forked from bcgov/http-did-auth-proxy
 DID Auth HTTP proxy.
 
@@ -163,7 +190,8 @@ DID Auth HTTP proxy.
 * [decentralized-identity/sidetree-bitcoin](https://github.com/decentralized-identity/sidetree-bitcoin) - Blockchain-specific code for the Sidetree-based DID Method implementation on Bitcoin
 * [decentralized-identity/ion](https://github.com/decentralized-identity/ion) - DID Method implementation using the Sidetree protocol on top of Bitcoin
 
-### DIF - Hub 
+### DIF - Hubs
+
 * [decentralized-identity/hub-sdk-js-sample](https://github.com/decentralized-identity/hub-sdk-js-sample) - Sample app demonstrating use of the DIF Identity Hub JavaScript SDK.
 * [decentralized-identity/hub-sdk-js](https://github.com/decentralized-identity/hub-sdk-js) - JavaScript SDK for interacting with Identity Hubs
 * [decentralized-identity/hub-common-js](https://github.com/decentralized-identity/hub-common-js) - Common interfaces for working with Identity Hubs in JavaScript/TypeScript
@@ -177,3 +205,9 @@ DID Auth HTTP proxy.
 * [decentralized-identity/universal-resolver-frontend](https://github.com/decentralized-identity/universal-resolver-frontend) - Frontend web UI for Universal Resolver
 * [decentralized-identity/universal-resolver-python](https://github.com/decentralized-identity/universal-resolver-python)
 * [decentralized-identity/universal-resolver-java](https://github.com/decentralized-identity/universal-resolver-java)
+
+## Internet Identity Workshop
+
+* [IIW32 - A wave of DIF donations and debuts](https://blog.identity.foundation/dif-monthly-18-may-2021/#iiw32a-wave-of-dif-donations-and-debuts) DIF Newsletter
+* [Internet Identity Workshop #33](https://blog.identity.foundation/internet-identity-workshop-33/) DIF
+  > Hundreds of attendees, including a number of DIF members, put together a huge programme of content for the 33rd IIW, covering topics ranging from the technical minutiae of IAM and SSI to big-picture discussions about ethics and strategy, and participated in over 110 virtual sessions across the three days.
