@@ -24,22 +24,24 @@ last_modified_at: 2020-11-19
 
 [Website](https://sovrin.org/) • [Forum](https://forum.sovrin.org/) • [Chat](https://chat.sovrin.org/) • [Twitter](https://twitter.com/SovrinID) • [GitHub](https://github.com/sovrin-foundation/sovrin) • [Telegram](https://t.me/sovrin_foundation) • [Sovrin Library](https://sovrin.org/library/)
 
-* [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016
-  > LONDON, Sept. 29, 2016 /PRNewswire-USNewswire/ -- Evernym, Inc. announced today at the Ctrl-Shift Personal Information Economy conference that it has donated the intellectual property for the Sovrin Identity Network—the world's first and only dedicated self-sovereign identity platform—to a newly-formed nonprofit organization. The Sovrin Foundation, which is run by a group of internationally recognized identity experts, has a mission to empower everyone with a digital identity which they fully own and control.
-* [Sovrin Foundation Releases World’s First Public Distributed Ledger for Self-Sovereign Identity](https://www.globenewswire.com/news-release/2017/09/14/1121456/0/en/Sovrin-Foundation-Releases-World-s-First-Public-Distributed-Ledger-for-Self-Sovereign-Identity.html)
-  > Salt Lake City, Sept. 14, 2017 (GLOBE NEWSWIRE) -- The Sovrin Foundation announced the launch of the provisional Sovrin Network, the world's first truly self-sovereign digital identity system. The Sovrin Network operates on a distributed ledger -- technology sometimes referred to as a blockchain -- built from the ground up for this purpose.
-
+## Main
 * [Getting Started with Sovrin](https://sovrin.org/library/getting-started-with-sovrin/)
+* [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8)
 * [Sovrin: A Protocol and Token for Self-Sovereign Identity and Decentralized Trust](https://sovrin.org/wp-content/uploads/Sovrin-Protocol-and-Token-White-Paper.pdf)
 * [Sovrin Network: What Goes on the Ledger?](https://sovrin.org/wp-content/uploads/2018/10/What-Goes-On-The-Ledger.pdf)
 * [Sovrin Governance Framework](https://sovrin.org/library/sovrin-governance-framework/)
 * [How Sovrin Works: A Technical Guide from the Sovrin Foundation](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf) [[**ϟ**](https://sovrin.org/wp-content/uploads/AnonCred-RWC.pdf)]
-* [Sovrin Main Net Outage, December 2018](https://forum.sovrin.org/t/sovrin-main-net-outage-december-2018/1010)
-  > The Sovrin Main Network experienced an outage lasting from Saturday 2018-12-08 until Tuesday 2018-12-11. This was our first significant outage of the network. This post describes the incident, how it was addressed, and what we are doing to prevent future incidents and improve our responses.
-  * [Sovrin Status Twitter](https://twitter.com/sovrin_status)
+* [Sovrin Status Twitter](https://twitter.com/sovrin_status)
+
+## About
+* [Founded](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml) in [September](https://www.prnewswire.com/news-releases/sovrin-foundation-launches-first-dedicated-self-sovereign-identity-network-300336702.html) 2016
+  > LONDON, Sept. 29, 2016 /PRNewswire-USNewswire/ -- Evernym, Inc. announced today at the Ctrl-Shift Personal Information Economy conference that it has donated the intellectual property for the Sovrin Identity Network—the world's first and only dedicated self-sovereign identity platform—to a newly-formed nonprofit organization. The Sovrin Foundation, which is run by a group of internationally recognized identity experts, has a mission to empower everyone with a digital identity which they fully own and control.
+* [Sovrin Foundation Releases World’s First Public Distributed Ledger for Self-Sovereign Identity](https://www.globenewswire.com/news-release/2017/09/14/1121456/0/en/Sovrin-Foundation-Releases-World-s-First-Public-Distributed-Ledger-for-Self-Sovereign-Identity.html)
+  > Salt Lake City, Sept. 14, 2017 (GLOBE NEWSWIRE) -- The Sovrin Foundation announced the launch of the provisional Sovrin Network, the world's first truly self-sovereign digital identity system. The Sovrin Network operates on a distributed ledger -- technology sometimes referred to as a blockchain -- built from the ground up for this purpose.
 * [Giving people the privacy protection they need in the coming decade](https://sovrin.org/gdpr-paper/)
   > Sovrin Foundation makes the case that self-sovereign identity is the most flexible system for handling data privacy as regulations are adopted in different jurisdictions and evolve to meet changing local needs over the next decade. The paper examines how GDPR applies to participants in a blockchain network and addresses recent guidance from EU regulators and the Commission Nationale de l’Informatique et des Libertés.
   > * [Innovation Meets ComplianceData Privacy Regulation and Distributed Ledger Technology](https://sovrin.org/wp-content/uploads/GDPR-Paper_V1.pdf)
+* [Sovrin Foundation, Ontology and Evernym Collaborate on Interoperable Decentralized Identity Networks](https://medium.com/ontologynetwork/blockchain-identity-experts-ontology-evernym-and-the-sovrin-foundation-reach-an-agreement-on-68974ae50bb2)[[**ϟ**](https://globenewswire.com/news-release/2018/10/23/1625715/0/en/Sovrin-Foundation-Ontology-and-Evernym-Collaborate-on-Interoperable-Decentralized-Identity-Networks.html)]
 
 {% include video id="305420834" provider="vimeo" %}
 
@@ -52,6 +54,7 @@ The Sovrin ledger is operated by Stewards, trusted organizations within the ecos
 Stewards also, as a group, accept or reject any changes to the ledger-specific portions of the Sovrin open source code by virtue of that role. They thus provide a counterbalance to the Sovrin architects who maintain the Indy code base.
 
 ### Founding Stewards
+
 #### [Amihan Global Strategies](https://amihan.net/) 
 
 > Amihan is the Filipino term for the season dominated by favorable trade winds. Our name is a homage to the merchants plying their trade in Asia, connecting the region to the global economy.
