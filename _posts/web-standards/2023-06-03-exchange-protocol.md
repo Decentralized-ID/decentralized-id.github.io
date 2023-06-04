@@ -9,7 +9,7 @@ excerpt: >
 permalink: web-standards/exchange-protocol/
 canonical_url: https://decentralized-id.com/web-standards/exchange-protocol/
 categories: ["Web Standards"]
-tags: ["CHAPI","VC Api","WACI","Credentials Community Group","TrustBloc","DIF","Bloom","Hyperledger","Human Colossus Foundation"]
+tags: ["CHAPI","VC Api","WACI","Credentials Community Group","TrustBloc","DIF","Bloom","hyperledger foundation","Human Colossus Foundation"]
 last_modified_at: 2023-06-03
 ---
 
