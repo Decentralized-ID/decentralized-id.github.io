@@ -12,7 +12,7 @@ permalink: blockchain/hyperledger/
 redirect_from:
   - organizations/hyperledger/
 canonical_url: 'https://decentralized-id.com/blockchain/hyperledger/'
-categories: ["Hyperledger"]
+categories: ["hyperledger foundation"]
 tags: ["Indy","Fabric","Aries","Evernym","Sovrin Foundation","Enterprise Ethereum Alliance","Linux Foundation","Ursa","Microsoft","Salesforce","Sawtooth","agreementsolutions","BTP","Ayanworks","Blinking","SecureKey","Oracle","HealthDigit","T-Mobile NEXT Identity","Sony","Global","Education"]
 last_modified_at: 2021-04-17
 header:
@@ -73,43 +73,25 @@ header:
   > * Deploy instances of Aries agents and establish a connection between two or more Aries agents.
   > * Create from scratch or extend Aries agents to add business logic and understand the possibilities available through the implementation of Aries agents.
 
-## Hyperledger Projects
+### Ecosystem
+
+* [Hyperledger Identity Vendors](https://www.hyperledger.org/vendor_level/identity-management)
+* [Identity Applications in Action & Powered by Hyperledger](https://www.hyperledger.org/blog/2020/04/30/identity-applications-in-action-powered-by-hyperledger)
+  * [Known Traveller Digital Identity, or KTDI, is a World Economic Forum initiative with Accenture](https://www.accenture.com/us-en/services/blockchain/digital-identity) that brings together a global consortium of individuals, governments, authorities and the travel industry to enhance security in world travel.
+  * [QDX™ HealthID](https://www.quantummaterialscorp.com/) platform is a service from Quantum Materials Corp that leverages self-sovereign identity technology to provide end-to-end visibility to support testing and immunization for infectious diseases, including COVID-19, at scale. (Sawtooth)
+  * [MemberPass](https://www.memberpass.com/), by CULedger, is a digital credential held by credit union members that protects credit unions and their members from identity theft and fraud in all banking interactions
+  * [Sovrin Network](https://sovrin.org/) uses the power of a distributed ledger to give every person, organization, and thing the ability to own and control their own permanent digital identity. (Indy)
+  * [Trust Your Supplier](https://www.trustyoursupplier.com/) is a production Hyperledger Fabric blockchain network, running on the IBM Blockchain Platform, that provides suppliers with a trusted digital passport to streamline on-boarding with their customers. (Fabric)
+  * [Verified.Me](https://verified.me/) is a service offered by SecureKey Technologies Inc., in conjunction with a consortium of seven of Canada’s major financial institutions – BMO, CIBC, Desjardins, National Bank of Canada, RBC, Scotiabank and TD. (Fabric)
+* [What the EEA and Hyperledger Collaboration Means for Enterprise Blockchain Development](https://media.consensys.net/what-the-eea-and-hyperledger-collaboration-means-for-enterprise-blockchain-development-31580012cb2)
+  > Much more can be done. For example, in the identity area, the Fabric team has developed an attribute-based identity verification mechanism called Identity Mixer that uses zero-knowledge proofs to demonstrate possession of digital signatures and private keys. Using this technology, Mixer allows you to prove you can do something without revealing who you are. On the other hand, if the goal is identity masking without attribute claims, the Ethereum community has been using a much simpler technique called Hierarchical Deterministic Wallet (HD-Wallet), which originated in the Bitcoin community so that you never reuse a digital identifier more than once. This eliminates any ability to correlate transactions over time, while all private keys are derived from a single root secret.\
+  > [...]\
+  > On the identity front, ideally the identities of an organization would not need to be re-built from scratch each time it joins a new consortium. Using a common decentralized identity system, whether it’s based on Hyperledger Indy or Ethereum uPort, or even based on links to legacy federated SSO systems such as ActiveDirectory or LDAP, makes this possible. Certainly more work is required to make this a reality.
+
 
 ### Indy, Aries & Ursa
 
-* [An overview of Self-Sovereign Identity: the use case at the core of Hyperledger Indy](https://www.hyperledger.org/blog/2019/05/01/an-overview-of-self-sovereign-identity-the-use-case-at-the-core-of-hyperledger-indy)
-  > Credential issuers, holders, and verifiers are peers on an SSI network. Any person or organization can play any or all of the roles, creating a decentralized system for the exchange of trustworthy, digital credentials.
-  > 
-  > - Credential issuers determine what credentials to issue, what the credential means, and how they’ll validate the information they put in the credential.
-  > - Credential holders determine what credentials they need and which they’ll employ in workflows to prove things about themselves.
-  > - Credential verifiers determine what credentials to accept, and which issuers to trust.
-* [Strengthening Hyperledger Indy and Self-Sovereign Identity](https://www.hyperledger.org/blog/2019/07/18/strengthening-hyperledger-indy-and-self-sovereign-identity)
-  > Forrester’s recent “[Top Recommendations for Your Security Program, 2019](https://www.forrester.com/report/Top+Recommendations+For+Your+Security+Program+2019/-/E-RES151535),” testifies to this, describing SSI as a “win” for customers and businesses, and urged chief information security officers  (CISO) to “Empower your customers to control their own identities via self-sovereign identity.”
-  > 
-  > They can do this because exchanging verifiable digital credentials is at the heart of SSI. This ends the need for massive data silos, honeypots, and unsecured data repositories housed at countless corporations and organizations. Instead, anyone can hold secure and verifiable information about themselves, and through Zero-Knowledge Proofs (ZKP), minimize the information they  decide to share with others. (ZKPs are an important type of advanced privacy-preserving cryptography now available in the open source community within the recently announced Hyperledger Aries project).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bZrWAsD42-I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Fabric
-
-* [What is an Identity?](https://hyperledger-fabric.readthedocs.io/en/release-2.2/identity/identity.html) ([1.1.0](https://hyperledger-fabric.readthedocs.io/en/v1.1.0-rc1/identity/identity.html))
-  > For an identity to be verifiable, it must come from a trusted authority. A membership service provider (MSP) is that trusted authority in Fabric. More specifically, an MSP is a component that defines the rules that govern the valid identities for this organization. The default MSP implementation in Fabric uses X.509 certificates as identities, adopting a traditional Public Key Infrastructure (PKI) hierarchical model (more on PKI later).
-* [TrustID: A New Approach to Fabric User Identity Management](https://www.hyperledger.org/blog/2020/04/21/trustid-a-new-approach-to-fabric-user-identity-management)
-  > All the authentication and management of identities in the system is performed on-chain through an “Identity Chaincode.” This chaincode has the following parts:
-  > 
-  > - Chaincode proxy: This receives and routes every TrustID authenticated transaction. It’s responsible for authenticating users, interacting with the ID registries, and routing user calls to external chaincodes. It also implements the desired access policies by the different organizations.
-  > - User Registry: This  stores every user DID. It implements basic setter and getter operations and enforces the desired access rights per organization.
-  > - Service Registry: This pays the registry role for services.
-  > - External service chaincodes: This ensures service chaincodes with whom users want to interact can be deployed in any channel. Once requests are successfully authenticated, the proxy chaincode is responsible for forwarding transactions to them. 
-
-### Sawtooth
-
-* [Identity Transaction Processor Configuration File](https://sawtooth.hyperledger.org/docs/core/releases/latest/sysadmin_guide/configuring_sawtooth/identity_tp_configuration.html)
-  > The Identity transaction processor configuration file specifies the validator endpoint connection to use.
-  > 
-  > If the config directory contains a file named identity.toml, the configuration settings are applied when the transaction processor starts. Specifying a command-line option will override the setting in the configuration file.
-* [Identity Transaction Processor CLI (identity-tp)](https://sawtooth.hyperledger.org/docs/core/releases/1.0.0rc2/cli/identity-tp.html)
-  > The Identity transaction processor CLI, sawtooth-identity, handles on-chain permissioning for transactor and validator keys to streamline managing identities for lists of public keys.
-* [identity-tp](https://sawtooth.hyperledger.org/docs/core/releases/latest/cli/identity-tp.html)
-  > The identity-tp command starts the Identity transaction processor, which handles on-chain permissioning for transactor and validator keys to streamline managing identities for lists of public keys.
