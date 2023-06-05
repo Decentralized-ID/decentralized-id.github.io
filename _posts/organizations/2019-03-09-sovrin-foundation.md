@@ -41,11 +41,19 @@ last_modified_at: 2020-11-19
 * [Giving people the privacy protection they need in the coming decade](https://sovrin.org/gdpr-paper/)
   > Sovrin Foundation makes the case that self-sovereign identity is the most flexible system for handling data privacy as regulations are adopted in different jurisdictions and evolve to meet changing local needs over the next decade. The paper examines how GDPR applies to participants in a blockchain network and addresses recent guidance from EU regulators and the Commission Nationale de l’Informatique et des Libertés.
   > * [Innovation Meets ComplianceData Privacy Regulation and Distributed Ledger Technology](https://sovrin.org/wp-content/uploads/GDPR-Paper_V1.pdf)
-* [Sovrin Foundation, Ontology and Evernym Collaborate on Interoperable Decentralized Identity Networks](https://medium.com/ontologynetwork/blockchain-identity-experts-ontology-evernym-and-the-sovrin-foundation-reach-an-agreement-on-68974ae50bb2)[[**ϟ**](https://globenewswire.com/news-release/2018/10/23/1625715/0/en/Sovrin-Foundation-Ontology-and-Evernym-Collaborate-on-Interoperable-Decentralized-Identity-Networks.html)]
+* [Sovrin Update: Supporting Commercial Development of SSI](https://iiw.idcommons.net/index.php?title=12M/_Sovrin_Update:_Supporting_Commercial_Development_of_SSI&action=edit&redlink=1) by Sumiran Garg, Chris Raczkowski
+* [Compliance & Inclusive Finance Working Group (CIFWG)](https://medium.com/@sovrinid/promoting-banking-for-all-announcing-the-compliance-inclusive-finance-working-group-cifwg-340633ef3e6c) Sovrin
+  > Since 2019, Sovrin has hosted the Compliance and Payments Task Force (CPTF), an open group of traditional bank and non-bank financial institutions, regulators, policymakers, technologists, ethicists, and legal experts. The CPTF has developed and promoted the Rulebook, an innovative best practices framework that extends traditional banking compliance and payments guidance to emerging fintech and VASP processes.
+* [The Sovrin Network- Making Self-Sovereign Identity a Reality](https://vimeo.com/305420834) from [Sovrin Foundation](https://vimeo.com/sovrinfoundation).
 
 {% include video id="305420834" provider="vimeo" %}
 
-[The Sovrin Network- Making Self-Sovereign Identity a Reality](https://vimeo.com/305420834) from [Sovrin Foundation](https://vimeo.com/sovrinfoundation).
+
+## Ecosystem
+
+* [Sovrin Foundation, Ontology and Evernym Collaborate on Interoperable Decentralized Identity Networks](https://medium.com/ontologynetwork/blockchain-identity-experts-ontology-evernym-and-the-sovrin-foundation-reach-an-agreement-on-68974ae50bb2)[[**ϟ**](https://globenewswire.com/news-release/2018/10/23/1625715/0/en/Sovrin-Foundation-Ontology-and-Evernym-Collaborate-on-Interoperable-Decentralized-Identity-Networks.html)]
+* [Sovrin and Trust over IP Signed Mutual Agreement to Strengthen Their SSI Collaboration](https://blog.sovrin.org/sovrin-and-trust-over-ip-signed-mutual-agreement-to-strengthen-their-ssi-collaboration-55d7775efdc2)
+  > “By signing this Letter Agreement, Sovrin and ToIP are excited to take a step further to support the need and importance of our separate but interrelated mandates to benefit people and organizations across all social and economic sectors through secure digital identity ecosystems based on verifiable credentials and SSI,” said Chris Raczkowski, Chairman of Board of Trustees, Sovrin Foundation.
 
 ## Literature
 
