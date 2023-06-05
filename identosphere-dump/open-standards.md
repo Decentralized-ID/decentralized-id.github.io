@@ -18,51 +18,16 @@ toc_sticky: false
 ...[Monthly webinars](https://ssimeetup.org/blog/), the [presentations](https://www.slideshare.net/SSIMeetup) and [video](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og) of which are invaluable resources.
 
 
-## SSI Meetup Pages on Decentralized-id.com
-
-It's not sustainable to keep them all listed on one page, so I've split off all the presentations on Specs and Open Standards. This process will continue as each presentation is given more individual attention.
-
-* [**SSI-Meetup - Main Page**]({{ site.baseurl }}/organizations/ssi-meetup/) 
-* [**SSI-Meetup - Use Cases**]({{ site.baseurl }}/organizations/ssi-meetup/use-cases/)
-
-## Presentations on Open Standards
-
-This page is for all the presentations about the various standards surrounding Decentralized Identity initiatives.
-
-
-### Open Standards with Drummond Reed
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/aPYUBy626EjjWp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-
-[Self Sovereign Identity (SSI) Open standards with Drummond Reed](https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed)
-
-
 ### DIDs the Fundamental Building block of SSI
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/BWLtlEcUVSKutl" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-
-[Decentralized Identifiers (DIDs): The Fundamental Building Block of Self-Sovereign Identity (SSI)](https://www.slideshare.net/SSIMeetup/decentralized-identifiers-dids-the-fundamental-building-block-of-selfsovereign-identity-ssi)
+Decentralized Identifiers (DIDs): The Fundamental Building Block of Self-Sovereign Identity (SSI)	Drummond Reed, Chief Trust Officer at Evernym, will explain in our second Webinar "Decentralized Identifiers (DIDs) - Building Block of Self-Sovereign Identity (SSI)" giving us the background on how DIDs work, where they come from and why they are important for Blockchain based Digital Identity.	https://www.slideshare.net/SSIMeetup/decentralized-identifiers-dids-the-fundamental-building-block-of-selfsovereign-identity-ssi	2018-05-09
 
 
 ### DIDs and BTCR
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/B2YIOdRYlqiiPd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-
-[DIDs Demystified: A hands-on intro to DIDs via the Bitcoin Reference (BTCR) DID Method](https://www.slideshare.net/SSIMeetup/dids-demystified-a-handson-intro-to-dids-via-the-bitcoin-reference-btcr-did-method)
-
-
-### DKMS - Drummond Reed
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/3hZHzzPdEodMQh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-
-[Decentralized Key Management (DKMS): An Essential Missing Piece of the SSI Puzzle - Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-key-management-dkms-an-essential-missing-piece-of-the-ssi-puzzle-drummond-reed)
-
-
-### DIDs and the W3C - Manu Sporny and Drummond Reed
-
+* [Decentralized Identifiers DIDs and W3C with Manu Sporny and Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-identifiers-dids-and-w3c-with-manu-sporny-and-drummond-reed)
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/DddAXKYTd9YBLL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
-[Decentralized Identifiers DIDs and W3C with Manu Sporny and Drummond Reed](https://www.slideshare.net/SSIMeetup/decentralized-identifiers-dids-and-w3c-with-manu-sporny-and-drummond-reed)
 
 
 ### Schema Definitions and Overlay - Paul Knowles

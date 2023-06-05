@@ -1,6 +1,8 @@
 ---
 published: false
 ---
+* [ID.me and the future of biometric zero trust architecture](https://www.biometricupdate.com/202204/id-me-and-the-future-of-biometric-zero-trust-architecture) 2022-04 Mike Vesey, IDRamp
+  > The sunk cost of centralized databases is not an obstacle to decentralization. Verifiable credentials can be easily layered onto existing systems for better security. They can be used as a tool for orchestrating complexities across multiple identity management systems and databases so that they become privacy preserving and fraud resistant.
 
 * [Biometrics come to verifiable credentials with Applied Recognition and Sovrin Foundation](https://www.biometricupdate.com/202105/biometrics-come-to-verifiable-credentials-with-applied-recognition-and-sovrin-foundation)
 * [Face Recognition Isn’t Just Face Identification and Verification: It’s Also Photo Clustering, Race Analysis, Real-time Tracking, and More](https://www.eff.org/deeplinks/2021/10/face-recognition-isnt-just-face-identification-and-verification) EFF

@@ -8,7 +8,7 @@ layout: single
 header:
   image: /images/handshake-header.webp
   teaser: /images/handshake_teaser.webp
-categories: ["Blockchain Based","Decentralized Web"]
+categories: ["Decentralized Web"]
 tags: ["Blockchain","DNS","Handshake"]
 permalink: blockchain/handshake/
 last_modified_at: 2020-11-10

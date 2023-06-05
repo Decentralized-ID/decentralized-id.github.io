@@ -414,6 +414,7 @@ Right now, many enterprises and organisations are building their own SSI solutio
 
 The intention of the European Commission is to allow – or even force – acceptance in a wide range of sectors in the public and private domain and thereby ensure that identities are as wisely usable as possible (interoperability). The principle of consent will also be met, as it is already fulfilled with current eID solutions notified under eIDAS and other EU regulations, such as GDPR and PSD2. One of the explicit requirements of the proposal is selective disclosure, in line with GDPR’s rules on data minimalisation.
 
+* [GDPR: Everything you need to know](https://authenteq.com/general-data-protection-regulation-gdpr-and-all-thats-behind-it/) - is a great post by authentic explaining it at a high level that we thought would be helpful to those trying to orient.
 
 * [Can a Verifiable Credential-based SSI Implementation meet GDPR Compliance?](https://academy.affinidi.com/can-a-verifiable-credential-based-ssi-implementation-meet-gdpr-compliance-5039d0149ea4)
 

@@ -11,14 +11,11 @@ header:
 permalink: /blockchain/ethereum/repositories/
 redirect_from: /ethereum/id-github/
 canonical_url: 'https://decentralized-id.com/blockchain/ethereum/repositories/'
-categories: ["Blockchain Based","Code"]
+categories: ["Blockchain ID",]
 tags: ["Ethereum","Jolocom","Web3","uPort","Consensys","Universal Resolver"]
 last_modified_at: 2019-07-11
 
 ---
-
-A listing of any Github Repositories for Ethereum Based Decentralized Identity specifications and applications.
-
 
 ## EIP - ERC
 
@@ -149,14 +146,3 @@ A listing of any Github Repositories for Ethereum Based Decentralized Identity s
   - Complete Ethereum wallet implementation and library in JavaScript.
 * [SpidChain/nodejs-ethereum](https://github.com/SpidChain/nodejs-ethereum) - Forked from b9lab/nodejs-ethereum
 Example of using NodeJs with Ethereum
-
-
-## Cryptonomica
-* [Cryptonomica/cryptonomica](https://github.com/Cryptonomica/cryptonomica) - Cryptonomica keys server
-* [Cryptonomica/cryptonomica.github.io](https://github.com/Cryptonomica/cryptonomica.github.io) - Cryptonomica frontend
-* [Cryptonomica/arbitration-rules](https://github.com/Cryptonomica/arbitration-rules) - Cryptonomica Arbitration Rules
-* [Cryptonomica/dappathon-tlv](https://github.com/Cryptonomica/dappathon-tlv)
-* [Cryptonomica/Ethereum-IdentityVerification](https://github.com/Cryptonomica/Ethereum-IdentityVerification) - Indentity verification and KYC for Ethereum blockchain
-* [Cryptonomica/ethnode.cryptonomica.net](https://github.com/Cryptonomica/ethnode.cryptonomica.net) - Ethereum node with API on nodejs and web3.js
-* [Cryptonomica/Ethereum-IdentityProof](https://github.com/Cryptonomica/Ethereum-IdentityProof) - Smart contract for Ethereum's account owner verification using Cryptonomica.net
-* [Cryptonomica/international-arbitration-law](https://github.com/Cryptonomica/international-arbitration-law) - Repository for collecting information about international arbitration law and practice

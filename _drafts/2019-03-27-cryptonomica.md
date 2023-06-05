@@ -15,30 +15,24 @@ canonical_url: 'https://decentralized-id.com/blockchain/ethereum/cryptonomica/'
 redirect_from: 
   - id-initiatives/ethereum/cryptonomica
   - id-initiatives/ethereum/cryptonomica/
-categories: ["Blockchain Based"]
+categories: ["Blockchain ID"]
 tags: ["Ethereum","PGP","Blockchain"]
 last_modified_at: 2019-07-11
-
+published: false
 ---
 
+## Cryptonomica 
 [![](https://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
 
  * [Cryptonomica.net](https://cryptonomica.net) is an identity verification service based on [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) and [Ethereum](https://www.ethereum.org) with legal framework and online dispute resolution for electronic contracts from London-based [court of arbitration](https://cryptonomica.net/#!/arbitration) 
 
-## From [the Cryptonomica Whitepaper](https://github.com/Cryptonomica/cryptonomica/wiki/Cryptonomica-White-Paper#the-problem):
-
->### The Problem
+* [the Cryptonomica Whitepaper](https://github.com/Cryptonomica/cryptonomica/wiki/Cryptonomica-White-Paper#the-problem):
+> Existing systems of keys-based digital signature for documents are based on a personal visit to a certification center.
 >
->As stated in [Wikipedia](https://en.wikipedia.org/wiki/Pretty_Good_Privacy#Certificates):
->
->> All public key / private key cryptosystems have the same problem (The problem of correctly identifying a public key as belonging to a particular user), even if in slightly different guises and *no fully satisfactory solution is known*.
->
->Existing systems of keys-based digital signature for documents are based on a personal visit to a certification center.
->
->The key pair for the client is in many countries created by the certification center, and given to the client. In this case, a copy of the user's private key can remain in the certification center, i.e. not only user can have access to it. This problem is often not even realized by users.
+> The key pair for the client is in many countries created by the certification center, and given to the client. In this case, a copy of the user's private key can remain in the certification center, i.e. not only user can have access to it. This problem is often not even realized by users.
 Often the keys for the client-bank systems are created this way.
 >
->Although signature verification is reliable only if no one else except the owner has access to private key.
+> Although signature verification is reliable only if no one else except the owner has access to private key.
 
 [...]
 

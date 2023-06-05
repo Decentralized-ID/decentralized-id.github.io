@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: "Decentralized-ID - Categories"
+title: "Categories"
 permalink: /categories/
 redirect_from: /categories
 toc: false
