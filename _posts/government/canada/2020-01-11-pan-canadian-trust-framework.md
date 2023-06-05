@@ -34,6 +34,12 @@ updated: 2020-12-04
 
 ## Background
 
+* [The Public Sector Profile of the Pan-Canadian Trust Framework Working Group Close-Out Report](https://trbouma.medium.com/public-sector-profile-of-the-pan-canadian-trust-framework-version-1-2-and-next-steps-86ae7a96d6c7) Tim Bouma
+  > the PSP PCTF WG was an important vehicle for ensuring public sector communication and discussion across Canada
+* [Trust Frameworks? Standards Matter](https://medium.com/@trbouma/trust-frameworks-standards-matter-47c946992f44) Tim Bouma
+  > He points at the NIST documents about it [Developing Trust Frameworks to Support Identity Federations](https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8149.pdf) published in 2018. He also points at the Canadian government’s definition of standards.
+  > 
+  > “a document that provides a set of agreed-upon rules, guidelines or characteristics for activities or their results. Standards establish accepted practices, technical requirements, and terminologies for diverse fields.”  He goes on to highlight a lot of the work being done in Canada and where it all sits relative to being a standard - “In closing, there are lots of trust frameworks being developed today. But to be truly trusted, a trust framework needs to either apply existing standards or become a standard itself.”
 * [Looking Ahead in 2020](https://medium.com/@trbouma/looking-ahead-in-2020-830afa372878)
   > I believe it will be a breakout year for digital identity, and for the underlying technical infrastructure that we need to achieve our goals. I see the work progressing on two fronts: 1) Pan-Canadian Trust Framework, and, 2) Verifiable Credentials/Decentralized Identifiers Deployment.
 * [Public Sector Profile of the Pan-Canadian Trust Framework Version 1.0 Recommendation Draft](https://medium.com/@trbouma/public-sector-profile-of-the-pan-canadian-trust-framework-version-1-0-4baf8ff0cfa0) — Now [available on GitHub](https://canada-ca.github.io/PCTF-CCP/)
