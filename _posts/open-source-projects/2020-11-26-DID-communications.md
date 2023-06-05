@@ -11,7 +11,7 @@ permalink: organizations/decentralized-identity-foundation/did-communications/
 canonical_url: https://decentralized-id.com/organizations/decentralized-identity-foundation/did-communications/
 redirect_from: 
   - organizations/decentralized-identity-foundation/wg/did-comm/
-categories: ["Web Standards"]
+categories: ["Open Source Projects"]
 tags: ["DIDComm WG","DIDComm","DIF","Aries","DID","W3C","Indicio","TBD","SICPA","Danube Tech","MATTR","Animo","Aviary","Transmute","Centre","Microsoft","Evernym","DSR","SecureKey","ConsenSys","BCGov","Anonyome","uPort","Animo","Hyperledger Foundation","Jolocom"]
 header:
   image: /images/DIDComm-header.webp

@@ -12,7 +12,7 @@ permalink: blockchain/hyperledger/
 redirect_from:
   - organizations/hyperledger/
 canonical_url: 'https://decentralized-id.com/blockchain/hyperledger/'
-categories: ["hyperledger foundation"]
+categories: ["Organizations"]
 tags: ["Indy","Fabric","Aries","Evernym","Sovrin Foundation","Enterprise Ethereum Alliance","Linux Foundation","Ursa","Microsoft","Salesforce","Sawtooth","agreementsolutions","BTP","Ayanworks","Blinking","SecureKey","Oracle","HealthDigit","T-Mobile NEXT Identity","Sony","Global","Education"]
 last_modified_at: 2021-04-17
 header:

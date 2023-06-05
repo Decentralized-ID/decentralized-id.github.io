@@ -8,7 +8,7 @@ permalink: organizations/decentralized-identity-foundation/wg/secure-data-storag
 canonical_url: https://decentralized-id.com/organizations/decentralized-identity-foundation/wg/secure-data-storage/
 redirect_from: 
   - organizations/identity-foundation/wg/secure-data-storage/
-categories: ["Web Standards"]
+categories: ["Open Source Projects"]
 tags: ["Storage and Compute WG","DIF","Secure Data Storage","Data Hubs","W3C","Encrypted Data Vaults"]
 header:
   image: /images/secure-data-storage-head.webp

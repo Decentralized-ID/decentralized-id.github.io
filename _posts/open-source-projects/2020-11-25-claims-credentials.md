@@ -9,7 +9,7 @@ canonical_url: https://decentralized-id.com/organizations/decentralized-identity
 redirect_from: 
   - organizations/identity-foundation/claims-and-credentials-wg/
   - organizations/identity-foundation/wg/claims-and-credentials/
-categories: ["Web Standards"]
+categories: ["Open Source Projects"]
 tags: ["Verifiable Credentials","Claims and Credentials WG","JSON-LD","Credentials Community Group","DIF","W3C"]
 header:
   image: /images/claims-credentials-header.webp 
