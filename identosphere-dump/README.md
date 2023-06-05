@@ -32,7 +32,7 @@ published: false
     - Cryptography
       - BBS ✓
   - Authorization Protocols
-    - oCap/zCap ✓
+    - zCap ✓
     - UCAN ✓
     - GNAP ✓
     - OAuth ✓

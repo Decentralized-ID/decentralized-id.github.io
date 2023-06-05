@@ -3,6 +3,8 @@ published: false
 ---
 
 # Data Governance
+* [Radical Exchange Talk: Data Agency. Individual or Shared?](https://identitywoman.net/radical-exchange-talk-data-agency-individual-or-shared/)
+
 * [Marissa Mayer wants to fix your address book](https://www.cnbc.com/2020/11/18/marissa-mayer-is-back-and-she-wants-to-fix-your-address-book.html) CNBC
   > At launch, Mayer’s start-up is rolling out Sunshine Contacts, an address book app that relies on artificial intelligence to find and merge duplicate contacts, fill out incomplete information and continually keep that data up to date. The app integrates with the iOS Contacts app as well as Gmail and will be free to all iOS users with an invitation.
 * [You are not your Data but Your Data is still You](https://deepdives.in/you-are-not-your-data-but-your-data-is-still-you-b41d2478ece2).

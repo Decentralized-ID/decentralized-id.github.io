@@ -3,6 +3,10 @@ published: false
 ---
 
 # Future of Digital Identity
+
+* [The Future of Identity. A collection of interconnected research](https://borgbraincrypto.medium.com/the-future-of-identity-eee42109efd2)
+  > A collection of interconnected research and thoughts, on the topics, technologies, and projects concerning the future of identification, DID’s, SSI’s, biometrics, data, ai, reputation, credentials, medical history, blockchain, privacy, and ethics, on what it should mean to us as humans, and the implications for the future of this world and our relationship with it.
+
 * [Bullish Case for Self-Sovereign Identity](https://sgershuni.medium.com/bullish-case-for-self-sovereign-identity-c2c26857f0ab) 
   > How is SSI technology creating a trillion dollar market?
 

@@ -1,5 +1,7 @@
 # NFT
 * [Why the SSI community should embrace million dollar apes](https://medium.com/coinmonks/why-the-ssi-community-should-embrace-million-dollar-apes-61d119f20331)
+* [The W3C’s Credentials Community is hosting a session on NFTs and Identity](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0049.html). 4/12 [9am PST](https://meet.w3c-ccg.org/weekly)
+  > There has been an explosion of interest in using NFT for identity, along with exploring how they could work with or support DIDs and VCs. Simone Ravaioli, Taylor Kendal and Heather Vescent have invited Evin Mcmullen of [Disco.xyz](https://www.disco.xyz/), Elina Cadouri of [Dock](https://www.dock.io/), Stepan Gershuni of [Affinidi](https://www.affinidi.com/) / [DeepSkills](https://www.deepskills.io/), and Dominik Beron of [Walt.id](https://walt.id/) to share their perspective on NFT identity and where it may overlap with DIDs and VCs
 
 * [NFTs, Verifiable Credentials, and Picos](https://www.windley.com/archives/2021/10/nfts_verifiable_credentials_and_picos.shtml) Phil Windley
 

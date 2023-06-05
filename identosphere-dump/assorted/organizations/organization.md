@@ -40,11 +40,6 @@ Check out these [photos from IIW 1 in 2005](https://www.flickr.com/photos/tags/i
 * [Accountable Digital Identity](https://adiassociation.org/)
   > Informed by standards bodies including [the FIDO Alliance](https://findbiometrics.com/year-review-fido-alliance-gains-more-ground-2021-122205/), the World Wide Web Consortium, and the Decentralized Identity Foundation, the ADI Specification was designed to help companies detect fraud using verified identity solutions while ensuring that informed consent is collected and user privacy is protected. - [quote from this article](https://findbiometrics.com/idemia-joins-accountable-digital-identity-association-board-503101/)
 
-### Sovrin
-* [Sovrin Update: Supporting Commercial Development of SSI](https://iiw.idcommons.net/index.php?title=12M/_Sovrin_Update:_Supporting_Commercial_Development_of_SSI&action=edit&redlink=1) by Sumiran Garg, Chris Raczkowski
-* [Compliance & Inclusive Finance Working Group (CIFWG)](https://medium.com/@sovrinid/promoting-banking-for-all-announcing-the-compliance-inclusive-finance-working-group-cifwg-340633ef3e6c) Sovrin
-  > Since 2019, Sovrin has hosted the Compliance and Payments Task Force (CPTF), an open group of traditional bank and non-bank financial institutions, regulators, policymakers, technologists, ethicists, and legal experts. The CPTF has developed and promoted the Rulebook, an innovative best practices framework that extends traditional banking compliance and payments guidance to emerging fintech and VASP processes.
-
 ### WHISSPR
 * [WHiSSPr Risk for People](https://iiw.idcommons.net/index.php?title=20E/_WHiSSPRr_Risk_for_People&action=edit&redlink=1) by Sal D’Agostino
 

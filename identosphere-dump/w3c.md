@@ -1,19 +1,13 @@
 # W3C
 
-* [The W3C’s Credentials Community is hosting a session on NFTs and Identity](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0049.html). 4/12 [9am PST](https://meet.w3c-ccg.org/weekly)
-  > There has been an explosion of interest in using NFT for identity, along with exploring how they could work with or support DIDs and VCs. Simone Ravaioli, Taylor Kendal and Heather Vescent have invited Evin Mcmullen of [Disco.xyz](https://www.disco.xyz/), Elina Cadouri of [Dock](https://www.dock.io/), Stepan Gershuni of [Affinidi](https://www.affinidi.com/) / [DeepSkills](https://www.deepskills.io/), and Dominik Beron of [Walt.id](https://walt.id/) to share their perspective on NFT identity and where it may overlap with DIDs and VCs
+### Organization
+* [W3C to become a public-interest non-profit organization](https://www.w3.org/2022/06/pressrelease-w3c-le.html.en) W3C - [Public-Credentials](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0063.html)
+  > As W3C was created to address the needs of the early web, our evolution to a public-interest non-profit is not just to continue our community effort, but to mature and grow to meet the needs of the web of the future.
 * [does the CCG have any thoughts about possible changes to W3C itself?](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0067.html)  Daniel Hardman (Saturday, 9 April)
+  > This major organizational overhaul to the W3C is also happening at a time of unprecedented activity and change for the internet. Will the web support crypto and Web3 industry proposals? How will the web support advertising? What should be the baseline web browser security standards?
 
-This major organizational overhaul to the W3C is also happening at a time of unprecedented activity and change for the internet. Will the web support crypto and Web3 industry proposals? How will the web support advertising? What should be the baseline web browser security standards?
+## Membership
 
-* [Announcement: W3C to become a public-interest non-profit organization](https://lists.w3.org/Archives/Public/public-credentials/2022Jun/0063.html)  Kimberly Wilson Linson (Tuesday, 28 June)
-
-* [W3C to become a public-interest non-profit organization](https://www.w3.org/2022/06/pressrelease-w3c-le.html.en) W3.org
-
-As W3C was created to address the needs of the early web, our evolution to a public-interest non-profit is not just to continue our community effort, but to mature and grow to meet the needs of the web of the future.
-This week, we hit 5k followers on [Twitter](https://twitter.com/DecentralizedID), driven in no small part by attention garnered by our [ToIP & DIF Joint Statement of Support for the Decentralized Identifiers (DIDs) v1.0 specification becoming a W3C Standard](https://blog.identity.foundation/w3cdidspec/)
-* [W3C to become a public-interest non-profit organization](https://www.w3.org/2022/06/pressrelease-w3c-le.html.en)
-  > "We designed the W3C legal entity in a way that keeps our core unchanged," said Dr. Jeff Jaffe, W3C CEO. "Our values-driven work remains anchored in the royalty-free W3C Patent Policy, and the W3C Process Document where we enshrined dedication to security, privacy, internationalization and web accessibility. W3C and its Members will continue to play a fundamental role in making the web work for billions of people."
 * [Hedera Hashgraph Joins World Wide Web Consortium (W3C)](https://hedera.com/blog/hedera-hashgraph-joins-world-wide-web-consortium-w3c-new-did-method-published-by-w3c-credentials-community-group)
   > We welcome Hedera as a contributing member to the W3C DID Working Group and congratulate their team for reaching this milestone of a published implementation of the latest W3C DID Identifiers v1.0 draft,” said Ivan Herman
 * [Block Joins W3C](https://twitter.com/brockm/status/1526723285102120960) [@brockm](https://twitter.com/brockm)
@@ -32,5 +26,4 @@ This week, we hit 5k followers on [Twitter](https://twitter.com/DecentralizedID)
 ## DID Working Group
 
 * [https://www.w3.org/2019/did-wg/](https://www.w3.org/2019/did-wg/) - Website
-
 * [https://lists.w3.org/Archives/Public/public-did-wg/](https://lists.w3.org/Archives/Public/public-did-wg/) - LIst Archives

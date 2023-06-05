@@ -1,5 +1,15 @@
 # Me2B
 
+* [Me2BA Claims Victory in Contest Over California Privacy Regulations](https://me2ba.org/me2ba-claims-victory-in-contest-over-california-privacy-regulations/)
+  > On March 15th, the AG’s Office of Administrative Law (OAL) approved additional CCPA regulations promulgated by the Department of Justice. Notably, the Department withdrew its original language mandating the “Privacy Options” icon. In its place is new language making commercial use of the icons optional only.  In other words, our stated concerns about the icons were well received, and ultimately adopted.
+* [Shedding Light on Dark Patterns](https://me2ba.org/shedding-light-on-dark-patterns/)
+* [The Me2B Alliance announces: Digital Harms Dictionary 2.0](https://me2ba.sharepoint.com/:x:/s/Marketing/EeYWAV1wqqNNj77iE86ijZUBBPtlpg2uHQwQ22vzDfXSgA?rtime=Rewrj0Qu2Ug)
+* [What is the Me2B Respectful Tech Specification?](https://me2ba.org/flash-guide-2-what-is-the-me2b-respectful-tech-specification/)
+
+The Me2B Respectful Tech Specification is a sorely needed ethical and safety standard for the internet. It consists of a series of tests that objectively measure the behavior of a connected product or service. The Specification helps people (“Me-s”) understand how technology is treating them, and helps businesses (“B-s”) build technology that is safe and respectful for the people that use it.
+
+The [Internet Society Foundation recently granted the Me2B Alliance $100,000](https://me2ba.org/me2b-alliance-awarded-100k-grant-for-us-pre-k-12-benchmark-to-research-school-utility-apps-data-sharing/) to complete its “U.S. EdTech Industry Benchmark: Data Sharing in Primary & Secondary School Mobile Utility Apps.” The benchmark will build on previous findings about harmful data sharing practices by uncovering how sensitive student information is being treated by school utility apps in grades pre-k through 12 in schools across the nation.
+
 * [A Responsible Reporting Nightmare: Right-clicking is Not a Crime](https://me2ba.org/a-responsible-reporting-nightmare-right-clicking-is-not-a-crime/) Me2Ba
 
 This is a story of a politician who cried “hacker” after a reporter informed a state agency that sensitive information was embedded in their website’s HTML source code1. While we wish this was a joke or fictional story it, unfortunately, is not. If the state of Missouri does move forward with the prosecution this state action would sound the alarm for researchers and reporters resulting in a chilling effect on the practice of responsible reporting.

@@ -76,6 +76,9 @@ The model of self-sovereign identity offers tempting benefits as educational sys
 
 Beyond directly helping children learn in playful ways, this partnership was forged to assist in championing the importance of three learning primitives of tomorrow’s educational landscape: decentralized identifiers (DIDs), verifiable credentials (VCs), and digital wallets.
 
+* [LEGO & Learning Economy: Gearing up with Super Skills](https://blog.identity.foundation/lego-super-skills/) ID Foundation
+  > The Super Skills app combines a custodial wallet (Torus) and Ceramic VC/storage tooling to give children private, exportable, future-proof achievement records – a self-sovereign educational credentialing system in miniature.
+
 * [When Job Candidates Lie, New Tech From ZippedScript And LearnCard Will Help You Catch Them](https://www.forbes.com/sites/zengernews/2022/09/16/when-job-candidates-lie-new-tech-from-zippedscript-and-learncard-will-help-you-catch-them/?sh=731b54b63ed4) Forbes
 
 “recently launched [LearnCard](http://www.learncard.com/), a digital wallet for education and employment programmable verifiable credentials”

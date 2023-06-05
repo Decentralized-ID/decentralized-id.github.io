@@ -12,7 +12,8 @@ published: false
 - Will this affect the way travel is distributed and paid for change?
 - What can players in the established travel eco-system expect?
 - When will we see this come about – where will we be by 2030?
-
+* [Q&A: The Potential of Decentralized ID in Travel](https://www.webintravel.com/qa-the-potential-of-decentralized-digital-id-in-travel/) WebInTravel
+  > Since February he has also been the informal chair of the [Hospitality and Travel Special Interest Group](https://www.notion.so/dif/HOSPITALITY-TRAVEL-SIG-242105321e1747f8bce776bf634a55b3), a subset within the Decentralized Identity Foundation, an organization creating technical specifications and reference implementations for decentralized identity and working with industries for commercial applications of such technologies.
 * [SOUNDING OFF: A MAJOR - AND OVERDUE - POWER SHIFT IS COMING TO TRAVEL](https://www.phocuswire.com/sounding-off-144-ssi-power-shift-in-travel) Phocuswire
 
 When this comes to fruition – and not if, but when – it will be a transformative change, shifting power from travel suppliers to travelers themselves and giving travelers more choice, better personalization, lower friction and more security.
