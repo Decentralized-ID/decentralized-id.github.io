@@ -63,7 +63,7 @@ algolia:
   powered_by             : true # true (default), false
   files_to_exclude:
     - _pages/sitemap.md
-    - identosphere-dump/*
+    - unsorted/*
     - _posts/twitter/*.md
     - _posts/drafts/*
     - _posts/2020-01-10-welcome.md
