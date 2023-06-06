@@ -11,18 +11,9 @@ Infominer:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://infominer.xyz"
-    - label: "Keybase"
-      icon: "fab fa-fw fa-keybase"
-      url:  "https://keybase.io/infominer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/infominer33/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/infominer33"
-    - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/InfoMiner33"
 
 Decentralized-ID:
   name             : "Decentralized-ID"
