@@ -69,6 +69,7 @@ algolia:
     - _posts/2020-01-10-welcome.md
     - _posts/2020-01-10-getting-started.md
     - _pages/*
+    - _drafts/*
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -77,9 +78,6 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
-
-
-
 
 # Social Sharing
 twitter:
