@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Media Coverage
 
 * [Verifiable Credentials go mainstream at Identiverse 2022](https://www.biometricupdate.com/202206/verifiable-credentials-go-mainstream-at-identiverse-2022) Biometric Update

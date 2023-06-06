@@ -14,7 +14,7 @@ canonical_url: 'https://decentralized-id.com/blockchain/ethereum/repositories/'
 categories: ["Blockchain ID",]
 tags: ["Ethereum","Jolocom","Web3","uPort","Consensys","Universal Resolver"]
 last_modified_at: 2019-07-11
-
+published: false
 ---
 
 ## EIP - ERC

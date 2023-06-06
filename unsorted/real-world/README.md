@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Real World Implementations
 * [Notes from W3C TPAC on major deployments of Verifiable Credentials](https://twitter.com/philarcher1/status/1570082512122294273) Manu Sporny via Phil Archer
 

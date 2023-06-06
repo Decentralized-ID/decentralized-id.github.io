@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # We are Open Coop
 * [Audience Ikigai](https://blog.weareopen.coop/audience-ikigai-be0cebe4cea) [reason for being] We are Open CoOp
 

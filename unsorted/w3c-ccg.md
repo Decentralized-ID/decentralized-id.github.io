@@ -1,3 +1,6 @@
+---
+published: false
+---
 # W3C - CCG
 
 Digital Bazaar founder, Manu Sporney, proposed the [W3C Credentials Community Group](http://web.archive.org/web/20181206060143/https://www.w3.org/community/credentials/charter-20140808/) in 2014.

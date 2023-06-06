@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Companies
 
 - Microsoft - Azure / Entra

@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Digital Identity New Zealand
 
 * [DINZ held the first Aotearoa Digital Identity Hui Taumata](https://digitalidentity.nz/2020/12/07/aotearoa-digital-identity-hui-taumata-2/)

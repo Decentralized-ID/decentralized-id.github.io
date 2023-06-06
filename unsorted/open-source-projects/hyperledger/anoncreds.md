@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Anoncreds
 
 - [Anonymous Credential Part 1: Brief Overview and History](https://medium.com/finema/anonymous-credential-part-1-brief-overview-and-history-c6679034c914)

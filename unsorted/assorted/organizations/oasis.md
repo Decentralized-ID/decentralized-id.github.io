@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # OASIS
 
 * [Secure QR Code Authentication v1.0 from ESAT TC approved as a Committee Specification](https://www.oasis-open.org/2022/07/12/secure-qr-code-authentication-v1-0-from-esat-tc-approved-as-a-committee-specification/)

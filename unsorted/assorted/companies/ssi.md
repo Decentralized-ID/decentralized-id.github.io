@@ -1,5 +1,9 @@
+---
+published: false
+---
+
 # Companies  Assorted
-											Talao SSI wallet now available on Apple AppStore and Google Play		https://medium.com/@talao_io/talao-ssi-wallet-now-available-on-apple-appstore-and-google-play-1435b4a01b1c								
+Talao SSI wallet now available on Apple AppStore and Google Play		https://medium.com/@talao_io/talao-ssi-wallet-now-available-on-apple-appstore-and-google-play-1435b4a01b1c								
 ## IAM
 
 

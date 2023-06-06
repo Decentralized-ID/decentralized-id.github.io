@@ -1,4 +1,6 @@
-# List
+---
+published: false
+---
 W3C	did-core	Decentralized Identifiers (DIDs) V1.0	https://www.w3.org/TR/did-core/	core
 W3C	did-spec-registries	DID Specification Registries	https://w3c.github.io/did-spec-registries	core
 W3C	security-vocab	The Security Vocabulary	https://w3c-ccg.github.io/security-vocab	core

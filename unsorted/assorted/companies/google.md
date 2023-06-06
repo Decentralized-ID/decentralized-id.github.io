@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Google
 
 * [Announcing Schema Markup Validator: validator.schema.org (beta)](http://blog.schema.org/2021/05/announcing-schema-markup-validator.html)

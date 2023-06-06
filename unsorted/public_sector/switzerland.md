@@ -1,3 +1,6 @@
+---
+published: false
+---
 # DIDAS - Swiss
 
 * [Swiss doing SSI](http://didas.swiss)

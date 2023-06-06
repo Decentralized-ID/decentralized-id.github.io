@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Open Source Projects
 
 - Universal Resolver

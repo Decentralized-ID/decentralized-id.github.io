@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # NFT
 * [Why the SSI community should embrace million dollar apes](https://medium.com/coinmonks/why-the-ssi-community-should-embrace-million-dollar-apes-61d119f20331)
 * [The W3C’s Credentials Community is hosting a session on NFTs and Identity](https://lists.w3.org/Archives/Public/public-credentials/2022Apr/0049.html). 4/12 [9am PST](https://meet.w3c-ccg.org/weekly)

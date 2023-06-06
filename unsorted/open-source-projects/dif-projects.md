@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Sidetree
 * [Decoding the Sidetree Protocol](https://academy.affinidi.com/decoding-the-sidetree-protocol-18d8bfa39257) Affinidi
   > Sidetree protocols are layer 2 protocols that anchor to the underlying decentralized ledger system. That said, it is ledger agnostic and its primary role is to anchor batches of signed JSON operations to the network.

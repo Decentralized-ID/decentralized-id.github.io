@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Aries
 
 * [Aries Agent Test Harness Enhancement Project](https://www.idlab.org/en/aries-agent-test-harness-enhancement-project/) IDLab

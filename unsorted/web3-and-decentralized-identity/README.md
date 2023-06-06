@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Web3 and Decentralized Identity
 
 - DAO - decentralized-web/DAO

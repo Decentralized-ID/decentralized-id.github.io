@@ -1,3 +1,6 @@
+---
+published: false
+---
 * [Credential-based login to a Pico-based application](https://iiw.idcommons.net/11P/_Credential-based_login_to_a_Pico-based_application) by Bruce Conrad
   > Verifiable credentials, authentication, picos, pico-based application
   > 

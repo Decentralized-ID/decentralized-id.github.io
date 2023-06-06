@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Torgap
 
 * [Torgap architecture & products](https://github.com/BlockchainCommons/torgap)

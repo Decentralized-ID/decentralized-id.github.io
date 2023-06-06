@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Scotland
 
 * [Digital Education – Transforming Scottish Education for the 21st Century](https://digitalscot.net/transforming-scottish-education-21/)

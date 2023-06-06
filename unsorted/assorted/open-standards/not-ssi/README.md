@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Non SSI Identity Standards
 
 ## Contents

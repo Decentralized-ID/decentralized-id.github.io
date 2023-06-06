@@ -1,3 +1,6 @@
+---
+published: false
+---
 @ united kingdom
 
 * [The consultation](https://www.gov.uk/government/consultations/digital-identity-and-attributes-consultation) is open to any member of the public and closes on 13 September.

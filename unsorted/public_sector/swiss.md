@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Swiss
 
 * [Self-Sovereign Identity – a game changer regarding privacy](https://www.adnovum.ch/en/company/blog/self_sovereign_identity_a_game_changer_regarding_privacy.html) Adnovum

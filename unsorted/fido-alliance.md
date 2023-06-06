@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Fido Alliance
 
 ++++ LoginWithFIDO.com	https://loginwithfido.com/

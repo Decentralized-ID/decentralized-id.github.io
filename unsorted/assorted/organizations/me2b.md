@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Me2B
 
 * [Me2BA Claims Victory in Contest Over California Privacy Regulations](https://me2ba.org/me2ba-claims-victory-in-contest-over-california-privacy-regulations/)

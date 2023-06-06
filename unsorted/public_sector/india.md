@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Indian Data Legislation
 
 * [Revisiting the non-personal data governance framework](https://www.orfonline.org/expert-speak/data-development-revisiting-non-personal-data-governance-framework/)

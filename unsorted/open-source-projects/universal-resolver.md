@@ -1,3 +1,6 @@
+---
+published: false
+---
 # Universal Resolver
 
 * [Universal Resolver - resolve practically any DID](https://blog.identity.foundation/uni-resolver/) Identity Foundation
