@@ -7,6 +7,7 @@ categories: ["Media"]
 tags: ["SSI-Meetup","IOT","Financial Services","Healthcare","Verifiable Credentials","Truu","Media"]
 last_modified_at: 2019-07-20
 toc_sticky: false
+published: false
 ---
 
 

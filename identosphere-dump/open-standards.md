@@ -10,6 +10,7 @@ categories: ["Web Standards","Media"]
 tags: ["SSI-Meetup","DID","BTCR","Verifiable Credentials","DKMS","W3C","Ethereum","Bitcoin","ION","Microsoft","Media"]
 last_modified_at: 2019-07-20
 toc_sticky: false
+published: false
 ---
 
 

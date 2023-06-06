@@ -9,10 +9,11 @@ header:
   teaser: /images/blockchain-Tumisu_3019121.webp
 layout: single
 permalink: /blockchain/
-categories: [Blockchain Based,Literature]
+categories: [Blockchain ID]
 tags: [uPort,GDPR,Authenteq,Blockstack,Civic,Microsoft,Datum,ProCivis]
 last_modified_at: 2020-11-10
 toc: false
+published: false
 ---
 
 * [Impact of Blockchain on Digital Identity](https://www.tcs.com/content/dam/tcs-bancs/protected-pdf/Impact%20of%20Blockchain%20on%20Digital%20identity.pdf)

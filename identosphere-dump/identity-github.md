@@ -19,6 +19,7 @@ header:
 categories: ["Code"]
 tags: ["W3C","ID2020","Danube Tech","XDI","OASIS","Digital Bazaar","RWoT","JSON-LD","Credentials Community Group","RDF","Veres One","Learning Machine","BTCR","Jolocom","IBM","Blockcerts","Verifiable Credentials","uPort","Verifiable Organizations Network","Ethereum","Bitcoin","Universal Resolver","DIDAuth","Blockstack","Ursa","Ockam","Indy","OTA","Linked Data"]
 last_modified_at: 2019-03-15
+published: false
 ---
 
 ## /project-danube
