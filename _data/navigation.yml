@@ -4,8 +4,10 @@ main:
     url: "/about/"
   - title: "Introduction"
     url: /introduction/
-  - title: "Recent"
+  - title: "New"
     url: "/posts/"
+  - title: "Updated"
+    url: "/recent/"
   - title: "Categories"
     url: "/categories/"
   - title: "Aim"
