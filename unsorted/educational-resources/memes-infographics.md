@@ -11,7 +11,7 @@ published: false
 * [We need more awerness, that the acceptance of users is crucial for SSI @SSI_by_memes](https://mobile.twitter.com/SSI_by_memes/status/1538819851950628865)
 
 * [SSI Architectural Stack and Community Efforts Overview](https://github.com/decentralized-identity/decentralized-identity.github.io/blob/master/assets/ssi-architectural-stack--and--community-efforts-overview.pdf) Rouven Heck
-* [TDW Decentralized Glossary Management and Collaboration Platform (TDW Glossary): Digital Identity Neighborhood](https://hyperonomy.com/2021/03/15/tdw-glossary-management-and-collaboration-platform-tdw-gmcp-digital-identity-neighborhood/)
+* [TDW Decentralized Glossary Management and Collaboration Platform (TDW Glossary): Digital Identity Neighborhood](https://hyperonomy.com/2021/03/15/tdw-glossary-management-and-collaboration-platform-tdw-gmcp-digital-identity-neighborhood/) 2021-03-15
 
 * [Human Authority](https://www.moxytongue.com/2022/01/human-authority.html) Moxy Marlinspike
 

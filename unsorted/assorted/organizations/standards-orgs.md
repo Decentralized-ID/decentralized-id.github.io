@@ -19,7 +19,7 @@ published: false
 
 
 ## OASIS
-* [OASIS Open Establishes European Foundation to Advance Open Collaboration Opportunities](https://www.oasis-open.org/2021/01/20/oasis-open-establishes-european-foundation-to-advance-open-collaboration-opportunities/)
+* [OASIS Open Establishes European Foundation to Advance Open Collaboration Opportunities](https://www.oasis-open.org/2021/01/20/oasis-open-establishes-european-foundation-to-advance-open-collaboration-opportunities/) 2021-01-20
   > “The OASIS Open Europe Foundation gives us a unique opportunity to work with the European Union and EU Member States to advance open source and standards projects,”
 
 
@@ -48,7 +48,7 @@ I spoke with the editor of the draft to propose that we add a “did” format i
 ## Other
 
 ### OpenSSF
-* [Digital Identity Attestation Roundup - Open Source Security Foundation](https://openssf.org/blog/2021/01/27/digital-identity-attestation-roundup/#)
+* [Digital Identity Attestation Roundup - Open Source Security Foundation](https://openssf.org/blog/2021/01/27/digital-identity-attestation-roundup/#) 2021-01-27
 
 We kicked off the first Digital Identity Attestation Working Group meeting under the OpenSSF in August, 2020. The objective of this working group is to enable open source maintainers, contributors and end-users to understand and make decisions on the provenance or origin of the code they maintain, produce and use.
 

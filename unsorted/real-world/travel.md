@@ -4,6 +4,9 @@ published: false
 
 # Travel
 
+* [IDnow joins Accelerate@IATA to shape the future of seamless air travel](https://www.idnow.io/pr/idnow-joins-accelerateiata/) IDnow
+
+The goal of IATA One ID is to set industry standards that further streamline the passenger journey with digitalization of admissibility and a contactless process through secure biometric enabled identification.
 
 
 * [Is the biggest tech change for travel since the internet and mobile the shift to self-sovereign identity tech?](https://centreforaviation.com/analysis/video/is-the-biggest-tech-change-for-travel-since-the-internet-and-mobile-the-shift-to-self-sovereign-identity-tech-1594) CAPA TV

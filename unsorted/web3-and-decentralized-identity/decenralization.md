@@ -15,10 +15,10 @@ When we talk about SSI in relationship to the decentralization movement where bi
 - So why did these particular three vendors object—when over 10 times that number of W3C members voted in favor of approval?
 - In the end, this may come to a full democratic vote of all 431 W3C member companies—a referendum on how much decentralization really matters to the Web.
 - To learn more about what’s at stake, [register for our November 3rd webinar](https://www.evernym.com/blog/w3c-vision-of-decentralization/#webinar).
-* [Decentralization may be key to protecting our digital identities](https://venturebeat.com/2021/11/06/decentralization-may-be-key-to-protecting-our-digital-identities/) VentureBeat
+* [Decentralization may be key to protecting our digital identities](https://venturebeat.com/2021/11/06/decentralization-may-be-key-to-protecting-our-digital-identities/) VentureBeat 2021-11-06
 
 By introducing decentralization, there is an opportunity for dApp developers to uphold strong, secure data privacy protections for users across the board.  By offering strong privacy defaults and more user-centric options, decentralized data solutions will enable individuals to make informed decisions about their data.
-* [Why decentralization matters](https://cdixon.org/2018/02/18/why-decentralization-matters) CDixon
+* [Why decentralization matters](https://cdixon.org/2018/02/18/why-decentralization-matters) CDixon 2018-02-18
 
 Decentralization is a commonly misunderstood concept. For example, it is sometimes said that the reason cryptonetwork advocates favor decentralization is to resist government censorship, or because of libertarian political views. These are not the main reasons decentralization is important.
 
@@ -48,7 +48,7 @@ One of the desired outcomes of using standards-driven open source code projects 
 
 Decentralized identity is an incredibly flexible technology that solves fundamental problems in the way we manage digital communication. But this capacity to do more than one thing at once can be a source of confusion.
 
-* [Juicy Telemetry](https://wider.team/2022/04/04/juicy-telemetry/) Wilder Team
+* [Juicy Telemetry](https://wider.team/2022/04/04/juicy-telemetry/) Wilder Team 2022-04-04
 
 I was in a [Sovrin IoT](https://sovrin.org/) call when I heard the phrase “juicy telemetry.” A digital twins product leader was bemoaning all the really good data held back by the manufacturers of equipment. Data they needed to properly model their twins, to keep them current, to validate their assumptions. For good and bad reasons, the makers of wind turbines and cars and ship engines and weather sensors choose to hide data.
 * [Decentralized Systems Don't Care](https://www.windley.com/archives/2022/07/decentralized_systems_dont_care.shtml) Phil Windley

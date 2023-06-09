@@ -24,7 +24,7 @@ The presentation focused on the keys to mainstream DID adoption:
 - Trust as strategic brand advantage vs a long walk into new governance operation
 - Verifiable Credentials to accelerate service delivery and reduce cost of IAM
 - Optimize existing systems incrementally 
-* [Takeaways from Identiverse 2021: Covid thoughts, FIDO and more](https://fusionauth.io/blog/2021/06/29/identiverse-conference-report/)
+* [Takeaways from Identiverse 2021: Covid thoughts, FIDO and more](https://fusionauth.io/blog/2021/06/29/identiverse-conference-report/) 2021-06-29
 
 First, I want to address the elephant in the room. Identiverse was an in-person conference, the first major technology conference that I’ve heard of since the pandemic started. I was a bit spooked when I thought about attending. I reviewed their [Covid-19 FAQ page](https://identiverse.com/faq/) carefully and was impressed by how they were planning to make sure attendees were safe.
 

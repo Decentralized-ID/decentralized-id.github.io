@@ -115,7 +115,7 @@ Bad News
 APNews
 
 The platform, Amnesty says, wasn’t merely a passive site with insufficient content moderation. Instead, Meta’s algorithms “proactively amplified and promoted content” on Facebook, which incited violent hatred against the Rohingya beginning as early as 2012.
-* [Call it data liberation day: Patients can now access all their health records digitally](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/) Statnews
+* [Call it data liberation day: Patients can now access all their health records digitally](https://www.statnews.com/2022/10/06/health-data-information-blocking-records/) Statnews 2022-10-06
 
 Under [federal rules](https://www.healthit.gov/buzz-blog/information-blocking/information-blocking-eight-regulatory-reminders-for-october-6th) taking effect Thursday, health care organizations must give patients unfettered access to their full health records in digital format. No more long delays. No more fax machines. No more exorbitant charges for printed pages.
 

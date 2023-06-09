@@ -17,7 +17,7 @@ Our #IAM #VendorManagement database just exceeded the 100 entries threshold! 
 * [Identos builds Verifiable Credentials into updated federated digital ID API](https://www.biometricupdate.com/202209/identos-builds-verifiable-credentials-into-updated-federated-digital-id-api) Biometric Update
 
 The new FPX Junction cloud software suite is designed for fine-grained API authorization and user-centric digital identity management. The digital wallet and user-managed access 2.0 authorization server work together to enable single-sign on federation. An optional user interface SDK for the digital wallet provides native mobile and web support.
-* [IDENTOS puts developers first in its latest product release](https://www.identos.com/2022/09/07/identos-puts-developers-first-in-its-latest-product-release/)
+* [IDENTOS puts developers first in its latest product release](https://www.identos.com/2022/09/07/identos-puts-developers-first-in-its-latest-product-release/) 2022-09-07
 
 FPX Junction is a cloud-based set of software products which provide fine-grained API authorization and user centric identity management capabilities.
 
@@ -25,7 +25,7 @@ Verifiable Credentials Support – Evolving to support Verifiable Credentials, F
 
 ### Forgerock
 
-* [ForgeRock goes public](https://ludopoitou.com/2021/09/16/we-did-it/)
+* [ForgeRock goes public](https://ludopoitou.com/2021/09/16/we-did-it/) 2021-09-16
 Today is an huge milestone for ForgeRock. We are becoming a public company, with our stock publicly traded under the “FORG” symbol, at the New York Stock Exchange.
 * [IAM 101 Series: What Are Directory Services?](https://www.forgerock.com/blog/iam-101-series-what-are-directory-services) Forgerock
 
@@ -72,7 +72,7 @@ The way many businesses have traditionally implemented KYC is by taking a manual
 
 ### FLexID
 
-* [FlexID gets Algorand funding to offer self-sovereign IDs to Africa’s unbanked](https://techcrunch.com/2022/05/26/zimbabwe-flexid-algorand-funding-decentralized-identity/) TechCrunch
+* [FlexID gets Algorand funding to offer self-sovereign IDs to Africa’s unbanked](https://techcrunch.com/2022/05/26/zimbabwe-flexid-algorand-funding-decentralized-identity/) TechCrunch 2022-05-26
 
 FlexID is giving users a blockchain wallet that stores their verificable credentials. Verification is done on-chain through Algorand, which bills itself as a solution to the [blockchain trilemma](https://www.google.com/search?q=algorand+trilemma&oq=algorand+trilem&aqs=chrome.0.0i512j69i57j0i390.2391j0j9&sourceid=chrome&ie=UTF-8) of security, scalability and decentralization. FlexID will also be integrating with other Algorand decentralized apps (dApps).
 

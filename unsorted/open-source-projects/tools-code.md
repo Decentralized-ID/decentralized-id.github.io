@@ -49,7 +49,7 @@ Digital Caribou shares their thoughts on [Digital Transformation and inclusion](
   > - Project Debt
   > - Why saying NO to those simple things may be the best thing. For some hints on how to do that see [Say No With Grace](https://www.continuumloop.com/say-no-with-grace/).
 * [The Journey of an SSI Developer](https://academy.affinidi.com/the-journey-of-an-ssi-developer-6ef4f642779c) Affinidi
-* [Clear is better than clever](https://dave.cheney.net/2019/07/09/clear-is-better-than-clever) Cheney.net
+* [Clear is better than clever](https://dave.cheney.net/2019/07/09/clear-is-better-than-clever) Cheney.net 2019-07-09
 
 “why would I read your code?” To be clear, when I say I, I don’t mean me, I mean you. And when I say your code I also mean you, but in the third person. So really what I’m asking is, “why would you read another person’s code?”
 * [Contributing to Complex Projects](https://mitchellh.com/writing/contributing-to-complex-projects) Mitchell H
@@ -66,7 +66,7 @@ As a frequent open source maintainer and contributor, I’m often asked: where d
 Our goal is to make the process of building trust easier and more effective for creators. With that in mind, we’re sharing an overview of our plan to address the pain points of creators and marketplaces in the NFT space using identity tools.
 
 ## Entrustient
-* [No Code Solution Using Self-Sovereign Identity on Redundant Blockchains](https://www.pressrelease.cc/2021/12/02/entrustient-launches-the-first-no-code-solution-for-trusted-decentralized-digital-identity-using-self-sovereign-identity-on-redundant-blockchains/) Entrustient
+* [No Code Solution Using Self-Sovereign Identity on Redundant Blockchains](https://www.pressrelease.cc/2021/12/02/entrustient-launches-the-first-no-code-solution-for-trusted-decentralized-digital-identity-using-self-sovereign-identity-on-redundant-blockchains/) Entrustient 2021-12-02
 
 Our goal was to put the power back into the hands of users who do not have any coding knowledge or experience, to accelerate the time to configure and launch an entire Trusted Decentralized Digital Identity peer-to-peer ecosystem
 

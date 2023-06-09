@@ -58,9 +58,9 @@ GAIN is marked by a cross sector, crowd sourced, open, global due diligence. GAI
 
 ++++ OpenID Foundation Publishes “Open Banking and Open Data: Ready to Cross Borders?”	https://openid.net/2022/07/29/whitepaper-open-banking-and-open-data/
 OpenID
-* [OpenID Foundation Publishes “The Global Open Health Movement: Empowering People and Saving Lives by Unlocking Data” Whitepaper](https://openid.net/2022/07/22/the-global-open-health-movement-empowering-people-and-saving-lives-by-unlocking-data-whitepaper/) OpenID
+* [OpenID Foundation Publishes “The Global Open Health Movement: Empowering People and Saving Lives by Unlocking Data” Whitepaper](https://openid.net/2022/07/22/the-global-open-health-movement-empowering-people-and-saving-lives-by-unlocking-data-whitepaper/) OpenID 2022-07-22
 
-++++ Passing the Torch at the OpenID Foundation	https://self-issued.info/?p=2170	Today marks an important milestone in the life of the OpenID Foundation and the worldwide digital identity community. Following [Don Thibeau’s decade of exemplary service to the OpenID Foundation as its Executive Director](https://openid.net/2021/02/19/resolution-thanking-don-thibeau-for-his-service/), today we [welcomed Gail Hodges as our new Executive Director](https://openid.net/2021/04/28/welcoming-gail-hodges-as-our-new-executive-director/).	Mike Jones
+++++ Passing the Torch at the OpenID Foundation	https://self-issued.info/?p=2170	Today marks an important milestone in the life of the OpenID Foundation and the worldwide digital identity community. Following [Don Thibeau’s decade of exemplary service to the OpenID Foundation as its Executive Director](https://openid.net/2021/02/19/resolution-thanking-don-thibeau-for-his-service/), today we [welcomed Gail Hodges as our new Executive Director](https://openid.net/2021/04/28/welcoming-gail-hodges-as-our-new-executive-director/).	Mike Jones 2021-04-28
 
 ++++ Announcing the 2022 OpenID Foundation Individual Community Board Member Election	https://openid.net/2021/12/30/announcing-the-2022-openid-foundation-individual-community-board-member-election/
 
@@ -82,7 +82,7 @@ This specification defines event types and their contents based on the [SSE Fram
 
 ++++ Security Event Tokens, Subject Identifiers, and SSE/CAEP/RISC Java implementation	https://iiw.idcommons.net/13A/_Security_Event_Tokens,_Subject_Identifiers,_and_SSE/CAEP/RISC_Java_implementation	Matt presented an overview of the OpenID Foundation Shared Signals and Events Working Group, and his implementation of the object model in an open source Java library at [https://github.com/sailpoint-oss/openid-sse-model/](https://github.com/sailpoint-oss/openid-sse-model/)* [Shared Signal and Events (SSE) working group](https://openid.net/wg/sse/) in the OpenID Foundation.	Matt Domsch
 
-* [OpenID Connect for Identity Assurance (eKYC & IDA) Enables More than 30 Million Bank Customers to Identify Themselves with Third Parties](https://openid.net/2021/03/03/openid-connect-for-identity-assurance-ekyc-ida-enables-more-than-30m-bank-customers-to-identify-themselves-with-3rd-parties/)
+* [OpenID Connect for Identity Assurance (eKYC & IDA) Enables More than 30 Million Bank Customers to Identify Themselves with Third Parties](https://openid.net/2021/03/03/openid-connect-for-identity-assurance-ekyc-ida-enables-more-than-30m-bank-customers-to-identify-themselves-with-3rd-parties/) 2021-03-03
 * [EIC Speaker Spotlight: Nat Sakimura](https://www.youtube.com/watch?v=QG_gkZkpJwQ) Introducing Gain • OpenID Foundation
 
 if you look at the the cost structure of the financial industry a lot of cost Is towards anti-money laundering and related activities and that actually is identity problem [...] we should try to solve the use case with a user centricity in mind
@@ -178,7 +178,7 @@ I’ve defined an Authentication Method Reference (AMR) value called “pop” t
 ++++ Vote for First Implementer’s Drafts of OIDConnect SIOPV2 and OIDC4VP Specifications	https://openid.net/2022/01/18/notice-of-vote-for-first-implementers-drafts-of-openid-connect-siopv2-and-oidc4vp-specifications/
 OpenID
 
-The official voting period will be between Tuesday, February 1, 2022 and Tuesday, February 8, 2022, following the [45-day review](https://openid.net/2021/12/17/first-public-review-period-for-openid-connect-siopv2-and-oidc4vp-specifications-started/) of the specifications.
+The official voting period will be between Tuesday, February 1, 2022 and Tuesday, February 8, 2022, following the [45-day review](https://openid.net/2021/12/17/first-public-review-period-for-openid-connect-siopv2-and-oidc4vp-specifications-started/) of the specifications. 2021-12-17
 
 ++++ OpenID for Verifiable Credentials	http://openid.net/wordpress-content/uploads/2022/05/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials_FINAL_2022-05-12.pdf
 [...]

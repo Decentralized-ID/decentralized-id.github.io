@@ -72,13 +72,13 @@ Takeaway #4: The technology exists to be able to create accountability models as
   > The Generative Self-Sovereign Internet explored the generative properties of the self-sovereign internet, a secure overlay network created by DID connections. [...]
   > 
   > In this article, I explore the generativity of self-sovereign identity—specifically the exchange of verifiable credentials. One of the key features of the self-sovereign internet is that it is protocological—the messaging layer supports the implementation of protocol-mediated interchanges on top of it. This extensibility underpins its generativity.
-* [Blockchain, Self-Sovereign Identity, and Selling Off Humanity](https://wrenchinthegears.com/2018/07/15/blockchain-self-sovereign-identity-and-selling-off-humanity/) Wrench in the Gears
+* [Blockchain, Self-Sovereign Identity, and Selling Off Humanity](https://wrenchinthegears.com/2018/07/15/blockchain-self-sovereign-identity-and-selling-off-humanity/) Wrench in the Gears 2018-07-15
 
 I think this piece is full of inaccuracies - it is also put together by someone really trying to understand a whole bunch of different things that some how get merged into being “all that bad blockchain technology that deprives people of dignity and rights” (Kaliya)
 
 It’s time activists began to develop a working knowledge of Blockchain and self-sovereign digital identity, because these are the mechanisms that will drive the transition to IoT monitoring for the purposes of Pay for Success deal evaluation
 
-* [The European Declaration on Digital Rights puts people in the firing line of the digital transformation](https://blog.xot.nl/2022/03/06/the-european-declaration-on-digital-rights-puts-people-in-the-firing-line-of-the-digital-transformation/index.html) Jaap-Henk Hoepman
+* [The European Declaration on Digital Rights puts people in the firing line of the digital transformation](https://blog.xot.nl/2022/03/06/the-european-declaration-on-digital-rights-puts-people-in-the-firing-line-of-the-digital-transformation/index.html) Jaap-Henk Hoepman 2022-03-06
 
 By focusing on the risk to individual citizens, the Declaration complete ignores the systemic risks introduced by the digital transformation (and in general the reliance on so called [programmable infrastructures](https://www.tudelft.nl/tbm/programmable-infrastructures), as expressed by Seda Gürses and Martha Poon among others).
 

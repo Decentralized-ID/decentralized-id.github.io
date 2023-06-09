@@ -48,7 +48,7 @@ Check out these [photos from IIW 1 in 2005](https://www.flickr.com/photos/tags/i
 
 ## aNewGovernance
 
-* [AfroLeadership NGO to join the Board of aNewGovernance AISBL](https://www.anewgovernance.org/2021/07/02/2391/) NewGovernance
+* [AfroLeadership NGO to join the Board of aNewGovernance AISBL](https://www.anewgovernance.org/2021/07/02/2391/) NewGovernance 2021-07-02
   > As the Data Strategy and the Data Spaces are being put in place in Europe, as the
   > 
   > new US Administration is questioning the operating practices of global platforms, it is critical our approach over Personal Data Sharing is Global.

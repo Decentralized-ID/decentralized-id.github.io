@@ -87,7 +87,7 @@ Short promo User Journey videos
 sideos is a simple data ecosystem backed by a new web standard: self-sovereign identity, or SSI.
 
 ###  Wider Team
-* [Wider’s High Assurance Digital Identity Maturity Model](https://wider.team/2021/06/20/widers-high-assurance-digital-identity-maturity-model/) Wider Team
+* [Wider’s High Assurance Digital Identity Maturity Model](https://wider.team/2021/06/20/widers-high-assurance-digital-identity-maturity-model/) Wider Team 2021-06-20
 
 It starts with IdentityOps embracing high assurance for connected devices. You’re bringing together internal stakeholders from your network management, security, procurement, legal, and device care teams. You’re bringing in clinical outcome quality professionals concerned with data provenance, from clinicians who touch your devices and authenticate through them and authorize them to provide services.
 
@@ -117,14 +117,14 @@ Gimly ID is leading self-sovereign identity innovation, with the implementation 
 ### Mobix
 
 
-* [The Role of SSI in MOBIX’ Deep Parking](https://mobix.ai/2021/09/02/ssi-for-mobix-deep-parking/)
+* [The Role of SSI in MOBIX’ Deep Parking](https://mobix.ai/2021/09/02/ssi-for-mobix-deep-parking/) 2021-09-02
 * 
 ### Digime
-* [Talking tech and discussing data on the ‘Tech-Entrepreneur-on-a-Mission’ Podcast](https://blog.digi.me/2021/10/06/talking-tech-and-discussing-data-on-the-tech-entrepreneur-on-a-mission-podcast/) Digi.Me
+* [Talking tech and discussing data on the ‘Tech-Entrepreneur-on-a-Mission’ Podcast](https://blog.digi.me/2021/10/06/talking-tech-and-discussing-data-on-the-tech-entrepreneur-on-a-mission-podcast/) Digi.Me 2021-10-06
 
 Julian describes digi.me’s mission of empowering people with their personal data, as individuals know where all their data is, while they also have “a right for that data”. By having that knowledge and ownership, only individuals have “unlimited usage rights” to unlock the potential data has to be a force for good.
 
-* [Businesses need to ‘mind the trust gap’ so users don’t need to sacrifice privacy, MEF Global Consumer Trust Survey finds](https://blog.digi.me/2021/05/20/businesses-need-to-mind-the-trust-gap-so-users-dont-need-to-sacrifice-privacy-mef-global-consumer-trust-survey-finds/) DigiMe
+* [Businesses need to ‘mind the trust gap’ so users don’t need to sacrifice privacy, MEF Global Consumer Trust Survey finds](https://blog.digi.me/2021/05/20/businesses-need-to-mind-the-trust-gap-so-users-dont-need-to-sacrifice-privacy-mef-global-consumer-trust-survey-finds/) DigiMe 2021-05-20
 
 Key findings from the report are:
 
@@ -148,7 +148,7 @@ Key findings from the report are:
 This isn’t Swisscom Blockchain’s first identity partnership. It also has a relationship with [Adresta](https://www.ledgerinsights.com/swiss-watch-identity-startup-adresta-partners-with-swisscom-blockchain/), which developed a digital identity solution for watches.
 
 ### Merit
-* [Merit grabs $50M Series B to expand digital credentials platform](https://techcrunch.com/2022/01/12/merit-grabs-50m-series-b-to-expand-digital-credentials-platform/) TechCrunch
+* [Merit grabs $50M Series B to expand digital credentials platform](https://techcrunch.com/2022/01/12/merit-grabs-50m-series-b-to-expand-digital-credentials-platform/) TechCrunch 2022-01-12
 
 The company spent the last five years working with various governments to build connectors to these licensing databases to allow third parties to access the data and have it update automatically. So if you are a plumbing company, you can display your employees’ plumbing credentials on the company website and have them update automatically when the license is renewed (or show that it wasn’t).
 

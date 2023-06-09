@@ -3,7 +3,7 @@ published: false
 ---
 
 # Privacy
-* [Apple vs (or plus) Adtech, Part II](https://blogs.harvard.edu/doc/2021/05/30/apple-vs-or-plus-adtech-part-ii/)
+* [Apple vs (or plus) Adtech, Part II](https://blogs.harvard.edu/doc/2021/05/30/apple-vs-or-plus-adtech-part-ii/) 2021-05-30
 
 To review… in Settings—> Privacy—> Tracking, is a single OFF/ON switch for “Allow Ads to Request to Track.” It is by default set to ON.
 * [Reciprocal Negotiated Accountability](https://www.windley.com/archives/2021/06/reciprocal_negotiated_accountability.shtml) Phil Windley
@@ -42,7 +42,7 @@ The New York Times recently did a deep dive into the United States’ lack of a 
 
 Automated identification procedures ensure seamless processes without media disruption and increase cost efficiency. By modernizing laws that allow these procedures, many cases can be simplified and modernized in the future.
 
-* [DIDAS provides extensive commentary to the target vision for e-ID in Switzerland](https://www.didas.swiss/2021/10/13/didas-provides-extensive-commentary-to-the-target-vision-for-e-id-in-switzerland/)
+* [DIDAS provides extensive commentary to the target vision for e-ID in Switzerland](https://www.didas.swiss/2021/10/13/didas-provides-extensive-commentary-to-the-target-vision-for-e-id-in-switzerland/) 2021-10-13
 
 It was a great opportunity for DIDAS to provide in-depth commentary to the proposed vision and contribute our collective ideas and expertise to help make a well informed decision. Our submission (in German) is available [here](https://www.didas.swiss/wp-content/uploads/2021/10/Stellungnahme-DIDAS-FINAL-V1.0-website.pdf)
 * [Kids PRIVCY ACT](https://me2ba.org/we-backed-the-kids-privcy-act-but-we-urge-members-in-congress-to-address-non-profit-carve-outs-in-data-privacy-laws/) Me2BA
@@ -95,7 +95,7 @@ Revoke allows you to send requests to retrieve and/or delete your data.
 - Revoke gives you full visibility and control of what to do with that information.
 - Easy to use app helps you discover who hold yours personal information.
 
-* [Someone could be tracking you through your headphones](https://nrkbeta.no/2021/09/02/someone-could-be-tracking-you-through-your-headphones/) NRK Beta
+* [Someone could be tracking you through your headphones](https://nrkbeta.no/2021/09/02/someone-could-be-tracking-you-through-your-headphones/) NRK Beta 2021-09-02
 
 - At least 9149 products with Bluetooth transmitters were uniquely recognized at least 24 hours apart.
 - At least 129 headphones could be tracked in the dataset for longer than 24 hours.
@@ -110,7 +110,7 @@ Consent doesn’t scale well from the consumer’s perspective.
 
 “The Personalization Privacy Paradox” - new cartoon and post on zero party data versus third party data [https://marketoonist.com/2021/07/zeropartydata.html](https://t.co/6OQq7fAAaP?amp=1)
 
-* [How the cookie poisoned the Web](https://blogs.harvard.edu/doc/2021/05/14/poison/)
+* [How the cookie poisoned the Web](https://blogs.harvard.edu/doc/2021/05/14/poison/) 2021-05-14
 
 Have you wondered why you have no more privacy on the Web than what other parties grant you ([which is none at all](https://www.linuxjournal.com/content/if-your-privacy-hands-others-alone-you-dont-have-any)), and that you can only opt in or out of choices that others provide—while the only controls you have over your privacy are to skulk around like a criminal (thank you, [Edward Snowden and Russell Brand](https://www.youtube.com/watch?v=2jxdwIkFdj8), for that analogy) or to stay offline completely?
 * [Me2BA Product Testing Spotlight Report Published: Data Sharing in Primary & Secondary School Mobile Apps](https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/)

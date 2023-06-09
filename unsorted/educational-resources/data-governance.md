@@ -1,11 +1,13 @@
 ---
 published: false
 ---
+* [Katryna Dow - Data minimisation: value, trust and obligation](https://www.ubisecure.com/podcast/data-minimisation-meeco-katryna-dow/)
+  > Katryna talks to Oscar about her career (including inspiration from Minority Report), Meeco’s personal data & distributed ledger platform, the importance of data minimisation to inspire trust in organisations, and cultural differences in attitudes towards digital identity.
 
 # Data Governance
 * [Radical Exchange Talk: Data Agency. Individual or Shared?](https://identitywoman.net/radical-exchange-talk-data-agency-individual-or-shared/)
 
-* [Marissa Mayer wants to fix your address book](https://www.cnbc.com/2020/11/18/marissa-mayer-is-back-and-she-wants-to-fix-your-address-book.html) CNBC
+* [Marissa Mayer wants to fix your address book](https://www.cnbc.com/2020/11/18/marissa-mayer-is-back-and-she-wants-to-fix-your-address-book.html) CNBC 2020-11-18
   > At launch, Mayer’s start-up is rolling out Sunshine Contacts, an address book app that relies on artificial intelligence to find and merge duplicate contacts, fill out incomplete information and continually keep that data up to date. The app integrates with the iOS Contacts app as well as Gmail and will be free to all iOS users with an invitation.
 * [You are not your Data but Your Data is still You](https://deepdives.in/you-are-not-your-data-but-your-data-is-still-you-b41d2478ece2).
   > In the digital age, individual privacy in the broadest sense is about control over protecting one’s personally identifiable information (PII), such as information about health, credit, shopping, or communication. But the types of information deemed ‘personally identifiable’ and the amount of control one has over them varies around the world.
@@ -42,7 +44,7 @@ If you are in accounting, audit or finance shoes, how would you play the game to
 * [If your strategic plan is based on data, have you considered the consequences?](https://www.mydigitalfootprint.com/2021/04/if-your-strategic-plan-is-based-on-data.html) MyDigitalFootprint
   > How do you know your data set has the views of everyone who is critical to your business today and in the future? How do you know the tools you use provide equal weight to everyone to make our business thrive?  How do you know if the recommendation was written before the analysis? How do your incentives create a new bias?
 
-* [Data for good: powering our way to a better world](https://blog.digi.me/2021/04/29/data-for-good-powering-our-way-to-a-better-world/)
+* [Data for good: powering our way to a better world](https://blog.digi.me/2021/04/29/data-for-good-powering-our-way-to-a-better-world/) 2021-04-29
   > We should absolutely all be taking care of the data that belongs to us, our data that we create, that we have a right to be able to control and share exactly as we choose. But we should also bear in mind the power of that data to help each of us, every day, benefit from the good that can come when it is shared and used to create a better world for us all.
 * [Everybody has our data ... except us](https://reb00ted.org/personaldata/20210620-who-has-my-personal-data/) reb00ted
 
@@ -67,11 +69,11 @@ I re-read [Zhamak Dehghani](https://twitter.com/zhamakd) ’s [original](http
   > In recent years, personal data has been an increasingly popular topic of conversation for marketers, data analysts, regulators, and privacy warriors. Individuals have learnt that recent regulatory updates have given them more rights over how that data is used. Are these two forces aligned?
   > 
   > We distributed a survey and received over 400 responses from both individuals and organisations answering questions about the management of personal data. How aligned are the two points of view? This infographic shows a summary of key questions and responses.
-* [What Does It Actually Mean When a Company Says, “We Do Not Sell Your Data?”](https://john.philpin.com/2021/09/03/what-does-it.html) John Philipin
+* [What Does It Actually Mean When a Company Says, “We Do Not Sell Your Data?”](https://john.philpin.com/2021/09/03/what-does-it.html) John Philipin 2021-09-03
 
 Probably because the alternatives produce even more income.
 
-* [Japan-based Dixon Siu to join the Board of aNewGovernance AISBL](https://www.anewgovernance.org/2021/09/15/japan-based-dixon-siu-to-join-the-board-of-anewgovernance-aisbl/)
+* [Japan-based Dixon Siu to join the Board of aNewGovernance AISBL](https://www.anewgovernance.org/2021/09/15/japan-based-dixon-siu-to-join-the-board-of-anewgovernance-aisbl/) 2021-09-15
 
 Given his breadth of experience and alignment with a number of strategic sectors where aNewGovernance is currently developing ecosystems, I am sure, he will bring incredible contribution.
 
@@ -81,13 +83,13 @@ The compelling data and research suggest that my original question now needs to 
 
 * [Data Sovereignty International Forum 2021(English)](https://www.youtube.com/watch?v=2Q2DL0ojauA)
 
-* [FTC’s Shot Across the Bow: Purpose and Use Restrictions Could Frame The Future of Personal Data Management](https://identitypraxis.com/2021/11/03/ftcs-shot-across-the-bow-purpose-and-use-restrictions-could-frame-the-future-of-personal-data-management/) Identity Praxis
+* [FTC’s Shot Across the Bow: Purpose and Use Restrictions Could Frame The Future of Personal Data Management](https://identitypraxis.com/2021/11/03/ftcs-shot-across-the-bow-purpose-and-use-restrictions-could-frame-the-future-of-personal-data-management/) Identity Praxis 2021-11-03
 
-So that there is no uncertainty or doubt, however, Duball[4](https://identitypraxis.com/2021/11/03/ftcs-shot-across-the-bow-purpose-and-use-restrictions-could-frame-the-future-of-personal-data-management/#fn4) reports that, while consumer privacy is a chief concern for the commission, it is not the primary concern to the exclusion of other concerns. The commission is also worried about algorithmic bias and “dark patterns” practices.
+So that there is no uncertainty or doubt, however, Duball[4](https://identitypraxis.com/2021/11/03/ftcs-shot-across-the-bow-purpose-and-use-restrictions-could-frame-the-future-of-personal-data-management/#fn4) reports that, while consumer privacy is a chief concern for the commission, it is not the primary concern to the exclusion of other concerns. The commission is also worried about algorithmic bias and “dark patterns” practices. 2021-11-03
 * [Self-Sovereign Identity Personal Data Usage Licensing (SSI-PDUL) Model: Whitepaper](https://hyperonomy.files.wordpress.com/2019/11/hyperonomy-ssi-personal-data-usage-licensing-model-ssi-pdul-model-2021-0.27rd.pdf) Hyperonomy
 
 The scope of the Self-Sovereign Identity Personal Data Usage Licensing (SSI-PDUL) Model is personal digital identifiers and any associated identity data presented by Alice to the App. It does not include the permissioning of data internal to the App (although the natural extension of the solution to internal data is an obvious one)
-* [Self-Sovereign Identity Personal Data Usage Licensing (SSI-PDUL) Model](https://hyperonomy.com/2021/01/27/self-sovereign-identity-personal-data-usage-licensing-ssi-pdul-model-solution-concept/) Michael Herman
+* [Self-Sovereign Identity Personal Data Usage Licensing (SSI-PDUL) Model](https://hyperonomy.com/2021/01/27/self-sovereign-identity-personal-data-usage-licensing-ssi-pdul-model-solution-concept/) Michael Herman 2021-01-27
 
 How Alice User, an App User and Identity Owner, and Bob Developer, an App Developer and App Controller, might negotiate the use of Alice’s personal digital identifiers and any associated personal identity data by Bob’s app, based on Self-Sovereign Identity Model Usage Principles
 
@@ -224,7 +226,7 @@ Discussion moved to this Miro board:
 17:52:46 From Orie Steele to Everyone : Shameless plug for our work with GS1 on VCs
 
 * [https://www.youtube.com/watch?v=iDkANArgdKI&t=15s](https://www.youtube.com/watch?v=iDkANArgdKI&t=15s)
-* [The Anatomy Of Personal Data Sovereignty](https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/04/the-anatomy-of-personal-data-sovereignty/?sh=69dbea5761e1) in Forbes
+* [The Anatomy Of Personal Data Sovereignty](https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/04/the-anatomy-of-personal-data-sovereignty/?sh=69dbea5761e1) in Forbes 2021-05-04
 
 The data privacy/control issue isn’t new, but the attitude shift is. People care more, demand more, and the scale of change that has occurred due to the Covid-19 pandemic is major. As we live through times exposing such injustice and inequality, it's becoming evident that this personal data ecosystem needs to undergo a major revamp.
 * [BIS Annual Report](https://www.bis.org/publ/arpdf/ar2022e3.pdf) section III. The future monetary system on page 41 in the chart

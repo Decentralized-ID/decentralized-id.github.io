@@ -13,7 +13,7 @@ published: false
   > How reduction in transaction costs influence evolution in digital business models
 
 
-* [Businesses need to ‘mind the trust gap’ so users don’t need to sacrifice privacy, MEF Global Consumer Trust Survey finds](https://blog.digi.me/2021/05/20/businesses-need-to-mind-the-trust-gap-so-users-dont-need-to-sacrifice-privacy-mef-global-consumer-trust-survey-finds/) DigiMe
+* [Businesses need to ‘mind the trust gap’ so users don’t need to sacrifice privacy, MEF Global Consumer Trust Survey finds](https://blog.digi.me/2021/05/20/businesses-need-to-mind-the-trust-gap-so-users-dont-need-to-sacrifice-privacy-mef-global-consumer-trust-survey-finds/) DigiMe 2021-05-20
 
 Key findings from the report are:
 
@@ -40,7 +40,7 @@ What are some limitations and opportunities for making profitable business in se
 - Cryptoeconomics x SSI (h/t [@mathieu_glaude](https://twitter.com/mathieu_glaude)
 
 * [On Self-Sovereign Identity: What's the Business Value of SSI?](https://hackernoon.com/self-sovereign-identity-what-is-the-business-value-uq6l36wh) Hackernoon
-  > To businesses, immediate value comes from removal of the costly and challenging GDPR compliance. [Forbes reports](https://www.forbes.com/sites/oliversmith/2018/05/02/the-gdpr-racket-whos-making-money-from-this-9bn-business-shakedown/?ref=hackernoon.com#5dd0efa234a2) that in 2018 in the UK alone $1,1 billion was spent by companies on GDPR preparation, while US companies allocated over $7.8 billion on protecting customers’ personal information.
+  > To businesses, immediate value comes from removal of the costly and challenging GDPR compliance. [Forbes reports](https://www.forbes.com/sites/oliversmith/2018/05/02/the-gdpr-racket-whos-making-money-from-this-9bn-business-shakedown/?ref=hackernoon.com#5dd0efa234a2) that in 2018 in the UK alone $1,1 billion was spent by companies on GDPR preparation, while US companies allocated over $7.8 billion on protecting customers’ personal information. 2018-05-02
 * [Career Advice for New Professionals in Identity](https://iiw.idcommons.net/22D/_Career_Advice_for_New_Professionals_in_Identity) by Megan Olsen
 
 Simon: worked with Megan Olsen for 6(?) months as intern. Do not have job offer yet. Think this is the future. Hard to get from corporations taking advantage, bring freedom back as it was back in the day. Advise: do some research on your own, educate yourself, do development as much as you can.
@@ -86,7 +86,7 @@ we advocate “machine-readable governance” as an architectural solution.
 - Second, this architecture makes these rules transparent.
 - Third, and critically, it enables these rules to function offline through caching, which, when you think about it, is an essential feature in any digital identity verification system; trust can’t be dependent on a Wi-Fi signal.
 
-* [Building a Relationship Economy](https://blogs.harvard.edu/doc/2022/02/11/building-a-relationship-economy/) Doc Searls
+* [Building a Relationship Economy](https://blogs.harvard.edu/doc/2022/02/11/building-a-relationship-economy/) Doc Searls 2022-02-11
 
 Is there something new that open source development methods and values can bring to the economy? How about something old?
 
@@ -94,7 +94,7 @@ Is there something new that open source development methods and values can bring
 * [4 Keys to Self-sovereign Identity Adoption](https://medium.com/trinsic/4-keys-to-self-sovereign-identity-adoption-ad269b208569), Riley Hughes
   > I decided to interview close to 50 business leaders who are seeking to deploy SSI in production to glean their learnings. The interviewees included our “competitors” (at this stage we’re more collaborative than competitive), a few of Trinsic’s customers, and industry leaders. I have summarized and consolidated their insights and my own thoughts into 4 keys for SSI adoption.
 
-* [The Identity Imperative: Risk Management, Value Creation, and Balance of Power Shifts](https://identitypraxis.com/2021/12/10/the-identity-imperative-risk-management-value-creation-and-balance-of-power-shifts/) IdentityPraxis Michael Becker
+* [The Identity Imperative: Risk Management, Value Creation, and Balance of Power Shifts](https://identitypraxis.com/2021/12/10/the-identity-imperative-risk-management-value-creation-and-balance-of-power-shifts/) IdentityPraxis Michael Becker 2021-12-10
 
 Brands need to prepare for fundamental shifts in people’s attitudes and expectations. The implications of these shifts will be profound, as they will force a change in competition, business models, product offerings, and business practices.
 
@@ -113,7 +113,7 @@ Brands need to prepare for fundamental shifts in people’s attitudes and expect
   > - Logging\Monitoring Failure
   > - Server Side Request Forgery
 
-* [Where the Intention Economy Beats the Attention Economy](https://blogs.harvard.edu/doc/2021/10/04/where-intention/)
+* [Where the Intention Economy Beats the Attention Economy](https://blogs.harvard.edu/doc/2021/10/04/where-intention/) 2021-10-04
 
 There’s an economic theory here: Free customers are more valuable than captive ones—to themselves, to the companies they deal with, and to the marketplace. If that’s true, [the intention economy](https://www.amazon.com/Intention-Economy-When-Customers-Charge/dp/1422158527) will prove it. If not, we’ll stay stuck in the attention economy, where the belief that captive customers are more valuable than free ones prevails.
 
@@ -188,7 +188,7 @@ The common law system countries (AU, CA, NZ, UK & US) left the market to work ou
 
 
 
-* [Subscriptification](https://blogs.harvard.edu/doc/2022/07/15/subscriptification/) Doc Searls
+* [Subscriptification](https://blogs.harvard.edu/doc/2022/07/15/subscriptification/) Doc Searls 2022-07-15
 
 Let’s start with what happened to TV.
 
@@ -220,7 +220,7 @@ The plastic card paradigm has some powerful features which are instructive for t
 
 - A competitive market of card personalisation bureaus, providing custom production, magnetic stripe encoding, and card distribution and activation, all in commercial bundles which can be purchased by government agencies, banks, professional associations, universities, driver licence bureaus, and so on. On the rear of many plastic cards, the card manufacturer is indicated in fine print. It may well be that the same manufacturer produced your credit cards and government cards.
 
-* [How to rewrite a press release: a step-by-step guide](https://blog.jonudell.net/2022/08/13/how-to-rewrite-a-press-release-a-step-by-step-guide/) Jonudell
+* [How to rewrite a press release: a step-by-step guide](https://blog.jonudell.net/2022/08/13/how-to-rewrite-a-press-release-a-step-by-step-guide/) Jonudell 2022-08-13
 
 Lead with key benefits. The release features two: support for diplex-matched antennas and faster workflow. The original headline mentions only the first, I added the second.
 
@@ -246,7 +246,7 @@ GROWTH
 An Interactive workshop designed to uncover the winning strategies, and pitfalls to avoid, when communicating decentralized identity to customers, internal stakeholders, and the world.
 
 ## Enterprise
-* [Decentralized identity: The key to the digital era?](https://venturebeat.com/2020/10/28/decentralized-identity-the-key-to-the-digital-era/)
+* [Decentralized identity: The key to the digital era?](https://venturebeat.com/2020/10/28/decentralized-identity-the-key-to-the-digital-era/) 2020-10-28
   > They quote [Forrester](https://www.forrester.com/report/New+Tech+Decentralized+Digital+Identity+DDID+Q1+2020/-/E-RES147115) “*Today’s digital identity frameworks are centralized, suffer from a lack of trust, aren’t portable, and don’t give consumers control.*”
   > 
   > They touch on a new acronym saying : enterprise-level thinking around next-generation authentication is focused on initiatives such as [SPIFFE](https://spiffe.io/), the Secure Production Identity Framework For Everyone

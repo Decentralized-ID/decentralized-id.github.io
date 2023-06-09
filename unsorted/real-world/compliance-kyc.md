@@ -12,7 +12,7 @@ Since the same data is required and utilised by everyone, blockchain-based SSI c
 
 Both CDD and EDD are part of a complete KYC process. Identity verification (IDV) at the account-opening stage is one of the most critical moments in the process, but it doesn’t end there: read on to identify when your due diligence should kick up a notch.
 
-* [The Identity, Unlocked “eKYC with Mark Haine” Podcast Now Live](https://openid.net/2021/03/10/the-identity-unlocked-ekyc-with-mark-haine-podcast-now-live/)
+* [The Identity, Unlocked “eKYC with Mark Haine” Podcast Now Live](https://openid.net/2021/03/10/the-identity-unlocked-ekyc-with-mark-haine-podcast-now-live/) 2021-03-10 2021-03-10
 
 * [eKYC with Mark Haine” features host Vittorio Bertocci and special guest Mark Haine](https://identityunlocked.auth0.com/public/49/Identity%2C-Unlocked.--bed7fada/ad784008)
 

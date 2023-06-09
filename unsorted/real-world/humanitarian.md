@@ -6,7 +6,7 @@ https://www.crowdfundinsider.com/2020/09/166678-global-id-verification-provider-
 
 # Humanitarian
 
-* [Fixing Aid | Can blockchain help fix the I.D. problem for a billion people?](https://www.thenewhumanitarian.org/podcast/2022/03/31/Fixing-Aid-can-blockchain-help-fix-the-ID-problem-for-a-billion-people) The New Humanitarian
+* [Fixing Aid | Can blockchain help fix the I.D. problem for a billion people?](https://www.thenewhumanitarian.org/podcast/2022/03/31/Fixing-Aid-can-blockchain-help-fix-the-ID-problem-for-a-billion-people) The New Humanitarian 2022-03-31
 
 Ismail looks at the concept of self-sovereign identity, which asserts that individuals must have ownership over their personal digital data and identification, and how that idea influences efforts to create efficient, secure digital identities for people in the midst of humanitarian crises.
 
@@ -86,7 +86,7 @@ Dilek Genc, a PhD candidate at the University of Edinburgh who studies blockchai
 * [Why Self-Sovereign Digital Identity Is A Game Changer For Financial Inclusion In Africa](https://www.africa.com/why-self-sovereign-digital-identity-is-a-game-changer-for-financial-inclusion-in-africa/)
 
 This builds on four years of Absa’s work with BankServ, other banks and multiple local and global forums, to set up an industry-wide governance framework for self-sovereign identity, including collaboration with the South African International Organisation for Standardisation (ISO) to develop documentation that covers the standards for SSDI management.
-* [Honouring Te Tiriti in our work](https://digitalidentity.nz/2021/11/18/honouring-te-tiriti-in-our-work/) DigitalNZ
+* [Honouring Te Tiriti in our work](https://digitalidentity.nz/2021/11/18/honouring-te-tiriti-in-our-work/) DigitalNZ 2021-11-18
 
 We understand that our responsibility to guide conversations and decisions relating to digital identity means that we must acknowledge and understand Māori perspectives of identity. We also seek to engage with the Māori communities we serve to ensure that we are working in partnership and that mana whenua have the agency to inform our future. [Draft Statement of Intent; Te Tiriti o Waitangi at DINZ](https://www.dropbox.com/s/09tfy4m4e6jbq6l/DINZ%20Te%20Tiriti%20o%20Waitangi%20SOI%20%26%20Action%20Plan%20%28V2%29.pdf)
 
@@ -99,7 +99,7 @@ These rights and principles should accompany people in the EU in their everyday 
 
 * [Amateur open-source researchers went viral unpacking the war in Ukraine](https://restofworld.org/2022/osint-viral-ukraine/)
 
-* [The frog of war](https://blogs.harvard.edu/doc/2022/03/06/the-frog-of-war/) Doc Searls
+* [The frog of war](https://blogs.harvard.edu/doc/2022/03/06/the-frog-of-war/) Doc Searls 2022-03-06
 
 People have changed, because more and more of them are digital now, connected to anybody and anything at any distance, and able to talk, produce “content” and do business—or at least to look and think past national and territorial boundaries. We make our tools and then our tools make us, McLuhan taught. Also, all media work us over completely. We have been remade into digital beings by our wires, waves, and phones. This raises our optionalities in too many ways to list.
 
@@ -112,7 +112,7 @@ Let's imagine a country that has a modern digital identity infrastructure. Citiz
 Trinsic is partnering with companies building ID products for underserved populations. Through Identity for Good (ID4G), participating partners will receive access to Trinsic’s state-of-the-art infrastructure, enabling them to build their ID products quickly, safely, and compliantly
 
 
-* [NO NEED FOR SUPERHUMANS!: A practical guide to ethics in socio-technical systems design](https://trustoverip.org/blog/2022/03/18/no-need-for-superhumans/) TOIP
+* [NO NEED FOR SUPERHUMANS!: A practical guide to ethics in socio-technical systems design](https://trustoverip.org/blog/2022/03/18/no-need-for-superhumans/) TOIP 2022-03-18
 
 * [read a summary and watch the video of Lisa’s talk here](https://wiki.trustoverip.org/display/HOME/1.+Dear+Human%2C+The+Future+Needs+You.++Practical+Ethics+with+Digital+Sociologist%2C+Lisa+Talia-Moretti) on our Wiki or on our [YouTube Channel here](https://www.youtube.com/watch?v=Xmnnj82wpTM&t=20s).
 
@@ -167,7 +167,7 @@ Inclusion is important in all aspects of life, including digital identity produc
 
 Input from many people from diverse backgrounds is essential to our work on the SSI Harm’s Task Force. I hope you’ll consider [joining us](https://wiki.trustoverip.org/display/HOME/Human+Experience+Working+Group) – whether you want to contribute or just observe, everyone is welcome!
 
-* [Fixing Aid | Can blockchain help fix the I.D. problem for a billion people?](https://www.thenewhumanitarian.org/podcast/2022/03/31/Fixing-Aid-can-blockchain-help-fix-the-ID-problem-for-a-billion-people) The New Humanitarian
+* [Fixing Aid | Can blockchain help fix the I.D. problem for a billion people?](https://www.thenewhumanitarian.org/podcast/2022/03/31/Fixing-Aid-can-blockchain-help-fix-the-ID-problem-for-a-billion-people) The New Humanitarian 2022-03-31
 
 When forced to flee your home from one moment to the next, grabbing birth certificates, school diplomas, and other papers that prove you are who you say you are might not be the first thing that comes to mind. And without those credentials, everything is more difficult when it comes to starting a new life or picking up the pieces of an old one: applying for asylum, applying for a job, or registering to receive aid and other kinds of support.
 

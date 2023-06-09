@@ -72,7 +72,7 @@ This rapid digitalization of the private sector exposed a challenge in the busin
 At the root of the problem is the fact that uniquely identifying a person is hard to do and that people can create fake IDs for themselves quite easily.
 
 ## Security
-* [Digital IDs under attack: How to tackle the threat?](https://www.helpnetsecurity.com/2022/01/27/ssi-face-presentation-attacks/)
+* [Digital IDs under attack: How to tackle the threat?](https://www.helpnetsecurity.com/2022/01/27/ssi-face-presentation-attacks/) 2022-01-27
 
 - photo attacks based on the presentation of facial evidence of an image of a face printed or displayed via a device’s screen.
 - video of user replay attack usually consisting of placing the screen of the attacker’s device in front of the camera.
@@ -89,7 +89,7 @@ Today, even in this digital world that has expanded over the past two years, the
 
 In 2018, I was trying to open a bank account in my home town of Mutare, Zimbabwe, having just come back from the 1st world, I was under the impression it would take me at most 30 mins to an hour. I immediately realised I couldn’t provide most of the requirements such as my ‘Proof of Residence’ and many more. It turns out it took weeks and months for some to finish the entire process.
 
-* [Self-sovereign digital identity is a game changer for African financial inclusion](https://it-online.co.za/2021/09/10/self-sovereign-digital-identity-is-a-game-changer-for-african-financial-inclusion/) ITOnline
+* [Self-sovereign digital identity is a game changer for African financial inclusion](https://it-online.co.za/2021/09/10/self-sovereign-digital-identity-is-a-game-changer-for-african-financial-inclusion/) ITOnline 2021-09-10
 
 Much like cell phone technology and the internet, the true power of SSDI will only be unleashed when it is embedded across all sectors of society, from education and medical care to telecommunications and retail. And that will require all role players – government bodies, regulators, service providers, public and private agencies – to take up the SSDI baton and become part of the change.
 
@@ -151,7 +151,7 @@ You can probably use the good news. It’s never been easy to run a credit union
 
 There is momentum here, and a need to start building out much of what was discussed.
 
-Doc introduced the session with the slide deck [here](https://www.slideshare.net/dsearls/day3iiw-sesion), wearing his hat as a founding member of [Customer Commons](http://customercommons.org), the .org working on the Intention Byway discussed at earlier IIW sessions and described in [this blog](https://customercommons.org/2021/04/27/a-new-way/), posed later.
+Doc introduced the session with the slide deck [here](https://www.slideshare.net/dsearls/day3iiw-sesion), wearing his hat as a founding member of [Customer Commons](http://customercommons.org), the .org working on the Intention Byway discussed at earlier IIW sessions and described in [this blog](https://customercommons.org/2021/04/27/a-new-way/), posed later. 2021-04-27
 
 His case is that the incumbent e-commece system hasn’t progressed past its dependence on the cookie, and perhaps never will; and that there is a need to stand up an alternate model, built on asynchronous pub-sub messaging and compute nodes that run apps that don’t have to come from the stores of Apple and Google.
 
@@ -197,7 +197,7 @@ That’s why Domi locates all communication about a property in one place, makin
 > 
 > In fact, several industries are already digging in. Here are some of the most visible and promising use cases.
 * [Are we doing enough to align our work with Zero Trust Architecture?](https://lists.w3.org/Archives/Public/public-did-wg/2021Jan/0000.html) Adrian Gropper on Public DID-WG mailing list
-  > [https://www.nytimes.com/2021/01/02/us/politics/russian-hacking-government.html](https://www.nytimes.com/2021/01/02/us/politics/russian-hacking-government.html)
+  > [https://www.nytimes.com/2021/01/02/us/politics/russian-hacking-government.html](https://www.nytimes.com/2021/01/02/us/politics/russian-hacking-government.html) 2021-01-02
   > What would be a good way for our SSI communities to advance zero trust architecture through more effective accountability and audit?
 
 * [Manu responds](https://lists.w3.org/Archives/Public/public-did-wg/2021Jan/0003.html)
@@ -222,11 +222,11 @@ That’s why Domi locates all communication about a property in one place, makin
 > 3. Requesting Party (RQ) and their user agent (mobile wallet)
 > 4. Requesting Client (RC), by definition has data in the clear
 
-* [Digital Identity Isn’t Only For People](https://www.forbes.com/sites/davidbirch/2020/12/22/digital-identity-isnt-only-for-people/) David Birch, Forbes
+* [Digital Identity Isn’t Only For People](https://www.forbes.com/sites/davidbirch/2020/12/22/digital-identity-isnt-only-for-people/) David Birch, Forbes 2020-12-22
   > fintechs and regtechs looking for opportunities in the digital identity space should cast their ideas net pretty wide. Digital identities are not only for people and the future desperately needs digital identities for pretty much everything to underpin recognition, relationships and reputation (the 3Rs of the online economy).
 
 
-* [Why self-sovereign identity will get adopted (and it’s not the reason you probably want)](https://www.tuesdaynight.org/2018/06/15/why-self-sovereign-identity-will-get-adopted-and-its-not-the-reason-you-probably-want/) Tuesday Night
+* [Why self-sovereign identity will get adopted (and it’s not the reason you probably want)](https://www.tuesdaynight.org/2018/06/15/why-self-sovereign-identity-will-get-adopted-and-its-not-the-reason-you-probably-want/) Tuesday Night 2018-06-15
 
 In the payment card world, there are clear guidelines on personal liability. $50 if you use credit and up to $500 for debit depending on when you report the issue. Based on that, different people choose to use different “systems.”
 
@@ -385,7 +385,7 @@ We Credivera are Having fun at the #NSCExpo
 
 This partnership will enable the use of Blockchain and Self-Sovereign Identity technologies such as verifiable credentials to enable the support of diplomas and professional certifications in compliance with personal data in a decentralized environment (#web3).
 
-* [HUMBL @HUMBLPay](https://twitter.com/HUMBLPay/status/1574454647384813568) via Twitter ([ANN](https://www.globenewswire.com/en/news-release/2022/04/13/2421969/0/en/HUMBL-Selected-To-Pilot-Digital-Wallet-Program-On-Behalf-of-The-County-of-Santa-Cruz-California.html)
+* [HUMBL @HUMBLPay](https://twitter.com/HUMBLPay/status/1574454647384813568) via Twitter ([ANN](https://www.globenewswire.com/en/news-release/2022/04/13/2421969/0/en/HUMBL-Selected-To-Pilot-Digital-Wallet-Program-On-Behalf-of-The-County-of-Santa-Cruz-California.html) 2022-04-13
 
 using verifiable credentials in their wallet.
 
@@ -400,7 +400,7 @@ Self sovereign online identity is going to be a CRITICAL tool for everyone on th
 
 This one of the most urgent issues in our society today.
 
-* [Lost and Found: Digital identity Can Be The Difference Between Life And Death For Refugees](https://diacc.ca/2022/09/27/lost-and-found-digital-identity-can-be-the-difference-between-life-and-death-for-refugees/) DIACC
+* [Lost and Found: Digital identity Can Be The Difference Between Life And Death For Refugees](https://diacc.ca/2022/09/27/lost-and-found-digital-identity-can-be-the-difference-between-life-and-death-for-refugees/) DIACC 2022-09-27
 
 Most Refugees and IDPs did not have the time to properly prepare by gathering all their important documents such as passports, identity cards, driver’s licenses, and land titles or rental agreements. Fleeing your home may save your life, but fleeing without identity documents can lead to a very long wait – sometimes a decade or more – before your life is stable again.
 

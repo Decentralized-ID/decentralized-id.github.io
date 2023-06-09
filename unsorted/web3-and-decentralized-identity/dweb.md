@@ -16,7 +16,7 @@ Looking to improve the DWeb? Take a look at our RFP-013: "Cryptonet Network Gran
 
 * [Social.Network, a decentralized alternative to traditional social media that gives its users ownership of their identity and digital assets, to launch first phase of its protocol on April 22nd](https://financialpost.com/globe-newswire/social-technologies-announces-launch-of-the-social-network-a-decentralized-platform-designed-to-transform-the-future-of-social-media-social-network-a-decentralized-alternative-to-traditional-social)
   > interested users will be able to create a self-sovereign identity on the platform by following the steps on the [social.network](https://t.co/xRbWzSrZQf) landing page (h/t [@SelfSovID](https://twitter.com/SelfSovID)
-* [How to Sign Users In with IndieAuth](https://aaronparecki.com/2021/04/13/26/indieauth) Aaron Parecki
+* [How to Sign Users In with IndieAuth](https://aaronparecki.com/2021/04/13/26/indieauth) Aaron Parecki 2021-04-13
   > IndieAuth is an extension of OAuth 2.0 that enables an individual website like someone's WordPress, Gitea or OwnCast instance to become its own identity provider. This means you can use your own website to sign in to other websites that support IndieAuth.
 * [The latest in the DWeb: Jolocom’s breakthrough](https://jolocom.io/blog/sdi-breakthrough/)
 
@@ -25,7 +25,7 @@ At the last DWeb Meetup, we were invited to share our role in the German Governm
 * [Credentials and HTTP-Sig authentication for Solid](https://lists.w3.org/Archives/Public/public-credentials/2021Feb/0029.html) Henry Story
   > Here is an extended version of the HTTP-Signature document I put together today, bringing in ideas that have emerged thinking about this over the past 3 months
 
-* [IndieAuth Spec Updates 2020 by Aaron Parecki](https://aaronparecki.com/2020/12/03/1/indieauth-2020)
+* [IndieAuth Spec Updates 2020 by Aaron Parecki](https://aaronparecki.com/2020/12/03/1/indieauth-2020) 2020-12-03
   > This year, the IndieWeb community has been making progress on iterating and evolving the IndieAuth protocol. IndieAuth is an extension of OAuth 2.0 that enables it to work with personal websites and in a decentralized environment.
 * [Secure Scuttlebutt Intro](https://iiw.idcommons.net/9A/_Secure_Scuttlebutt_Intro) by Charles E. Lehner
 

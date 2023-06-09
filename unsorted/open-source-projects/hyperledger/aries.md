@@ -13,17 +13,17 @@ At this stage of the AATH Enhancement Project, two factors helped define its bro
 * [https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0430-machine-readable-governance-frameworks/README.md](https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0430-machine-readable-governance-frameworks/README.md)
 * [Setting up Mediator Agent in Ubuntu — (.Net Core service in Linux Box)](https://rangesh.medium.com/setting-up-mediator-agent-in-ubuntu-net-core-service-in-linux-box-b874bb409eed) Rangesh
   > In a Self Sovereign Environment supported by Hyperledger Indy / Aries agent framework, Mediator Agent is one of the essential components that acts as postman service between Issuer /Verifier Aries Agent and Mobile Agent.
-* [Introducing Hyperledger Aries Framework JavaScript 0.2.0](https://www.hyperledger.org/blog/2022/07/06/introducing-hyperledger-aries-framework-javascript-0-2-0) Hyperledger
+* [Introducing Hyperledger Aries Framework JavaScript 0.2.0](https://www.hyperledger.org/blog/2022/07/06/introducing-hyperledger-aries-framework-javascript-0-2-0) Hyperledger 2022-07-06
 
 The new Hyperledger Aries Framework JavaScript release (0.2.0) contains some incredible steps forward. Especially in our goal to make the framework AIP 2.0 compliant. AIP 2.0 compliance will not only ensure the framework supports the latest standards and protocols, but it will also greatly increase interoperability and make it more useful outside of the Hyperledger Indy ecosystem.
-* [Hyperledger Aries Graduates To Active Status; Joins Indy As “Production Ready”](https://www.hyperledger.org/blog/2021/02/26/hyperledger-aries-graduates-to-active-status-joins-indy-as-production-ready-hyperledger-projects-for-decentralized-identity)
+* [Hyperledger Aries Graduates To Active Status; Joins Indy As “Production Ready”](https://www.hyperledger.org/blog/2021/02/26/hyperledger-aries-graduates-to-active-status-joins-indy-as-production-ready-hyperledger-projects-for-decentralized-identity) 2021-02-26
 
 “This approval is further evidence that Hyperledger Aries is a breakout success for the Hyperledger community,” said Brian Behlendorf, General Manager for Blockchain, Healthcare and Identity at the Linux Foundation. “Convergence on common libraries for the exchange of credentials will help speed the development of urgently-needed solutions and systems, ranging from education to finance to the fight against the pandemic. Aries is key to that convergence.”
-* [Hyperledger Aries Graduates To Active Status](https://www.hyperledger.org/blog/2021/02/26/hyperledger-aries-graduates-to-active-status-joins-indy-as-production-ready-hyperledger-projects-for-decentralized-identity)
+* [Hyperledger Aries Graduates To Active Status](https://www.hyperledger.org/blog/2021/02/26/hyperledger-aries-graduates-to-active-status-joins-indy-as-production-ready-hyperledger-projects-for-decentralized-identity) 2021-02-26
 
 The TSC commended the Aries project during the meeting for the project’s highly diverse contributors. Achieving a high number of organizations contributing to a project at Hyperledger is often a challenge. Congratulations are due to those participating in and supporting the Aries Project.
 
-* [The Pathway to Becoming a Hyperledger Maintainer](https://www.hyperledger.org/blog/2021/11/03/the-pathway-to-becoming-a-hyperledger-maintainer)
+* [The Pathway to Becoming a Hyperledger Maintainer](https://www.hyperledger.org/blog/2021/11/03/the-pathway-to-becoming-a-hyperledger-maintainer) 2021-11-03
   > In this blogpost I’m going to share what it’s like to be a maintainer for the Hyperledger Aries project. You’ll learn how you can start contributing and maybe even set yourself on a path to becoming a maintainer.
 * [Indicio Wins British Columbia Code With Us Challenge to Upgrade Hyperledger Indy](https://indicio.tech/indicio-wins-british-columbia-code-with-us-challenge-to-upgrade-hyperledger-indy/)
   > Most of Hyperledger Indy’s development occurred prior to the completion of the standard DID Specification by the W3C and, as a result, identifiers written to one network are currently not resolvable on other networks. A new did:indy DID Method will fix that and make it easier for decentralized identity products and services to interoperate across different Indy networks.
@@ -40,7 +40,7 @@ Standards such as OIDC and mDL are all now in dialogue with W3C, AnonCreds, Arie
 * [Hyperledger Aries is the Present and the Future of Internet-Scale Trusted Verifiable Credential Ecosystems](https://indicio.tech/hyperledger-aries-is-the-present-and-the-future-of-internet-scale-trusted-verifiable-credential-ecosystems/) Indicio
 
 While no technology runs perfectly on every device, a signal strength of Aries, AnonCreds, and Indy is that they work on the vast majority of current devices and systems, including $35 smart phones and low powered IOT/embedded devices. They represent the most inclusive way into this technology, which is an important factor in their popularity.
-* [Hyperledger Mentorship Spotlight: Hyperledger Aries Integration to Support Fabric as Blockchain Ledger](https://www.hyperledger.org/blog/2021/12/06/hyperledger-mentorship-spotlight-hyperledger-aries-integration-to-support-fabric-as-blockchain-ledger)
+* [Hyperledger Mentorship Spotlight: Hyperledger Aries Integration to Support Fabric as Blockchain Ledger](https://www.hyperledger.org/blog/2021/12/06/hyperledger-mentorship-spotlight-hyperledger-aries-integration-to-support-fabric-as-blockchain-ledger) 2021-12-06
 
 The Hyperledger Mentorship Program is a structured hands-on learning opportunity for new developers who may otherwise lack the opportunity to gain exposure to Hyperledger open source development and entry to the technical community.
 

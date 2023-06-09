@@ -5,7 +5,7 @@ published: false
 # Winners
 * [NGIatlantic.eu third Open Call: applications and winning proposals!](https://ngiatlantic.eu/news/ngiatlanticeu-third-open-call-applications-and-winning-proposals)
 
-* [Digi.me is a Health Tech Challengers finalist!](https://blog.digi.me/2021/10/05/digi-me-is-a-health-tech-challengers-finalist/)
+* [Digi.me is a Health Tech Challengers finalist!](https://blog.digi.me/2021/10/05/digi-me-is-a-health-tech-challengers-finalist/) 2021-10-05
 
 Digi.me has been specifically designed to solve the current complexities and challenges around data mobility, which include difficulty of sourcing, variable quality, multiple incompatible formats and the need to apply complex and extensive data analytics to gain insights.
 

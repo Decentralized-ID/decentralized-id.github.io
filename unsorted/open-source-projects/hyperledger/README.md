@@ -5,7 +5,7 @@ published: false
 
 ### DIDs Fabric and Decentralized Networking
 
-* [DEON](https://www.hyperledger.org/blog/2020/11/05/deon-a-hyperledger-based-decentralized-off-grid-network) is a new Hyperledger project focused in off-line communication networks, independent of internet infrastructure. This could be used to enable networks of devices to communicate peer-to-peer (without the need to ‘phone home’ over the internet), inter-enterprise consortia networks, and enabling user-centric data sharing in a more secure and private fashion.
+* [DEON](https://www.hyperledger.org/blog/2020/11/05/deon-a-hyperledger-based-decentralized-off-grid-network) is a new Hyperledger project focused in off-line communication networks, independent of internet infrastructure. This could be used to enable networks of devices to communicate peer-to-peer (without the need to ‘phone home’ over the internet), inter-enterprise consortia networks, and enabling user-centric data sharing in a more secure and private fashion. 2020-11-05
 
 * [Add support for "did:indy" to Hyperledger Indy Node and Indy VDR](https://digital.gov.bc.ca/marketplace/opportunities/code-with-us/e3dd1605-cc1d-4c30-a9ee-245940bccd0d) </>Code With Us
 
@@ -50,8 +50,8 @@ Technical details (implementation):
   > 
   > Once the credential schema is created and the attribute fields specified, the enterprise user can then publish a credential definition to whatever root of trust they are using, in our case a Hyperledger Indy network.
 
-* [Forbes “Blockchain 50” Shows Enterprise Blockchain’s Footprint and Impact, with Hyperledger Tech Leading The Pack](https://www.hyperledger.org/blog/2021/02/02/once-again-forbes-blockchain-50-shows-enterprise-blockchains-footprint-and-impact-with-hyperledger-technologies-leading-the-pack)
-  > Declaring that blockchain has “gone mainstream,” Forbes today released its 2021 “Blockchain 50,” featuring companies that have at least $1 billion in revenues or are valued at $1 billion or more and “lead in employing distributed ledger technology.” And, once again, half of the companies on the list are using Hyperledger technology.* [Why Distributed Ledger Technology (DLT) for Identity?](https://www.hyperledger.org/blog/2021/04/21/why-distributed-ledger-technology-dlt-for-identity) Hyperledger
+* [Forbes “Blockchain 50” Shows Enterprise Blockchain’s Footprint and Impact, with Hyperledger Tech Leading The Pack](https://www.hyperledger.org/blog/2021/02/02/once-again-forbes-blockchain-50-shows-enterprise-blockchains-footprint-and-impact-with-hyperledger-technologies-leading-the-pack) 2021-02-02
+  > Declaring that blockchain has “gone mainstream,” Forbes today released its 2021 “Blockchain 50,” featuring companies that have at least $1 billion in revenues or are valued at $1 billion or more and “lead in employing distributed ledger technology.” And, once again, half of the companies on the list are using Hyperledger technology.* [Why Distributed Ledger Technology (DLT) for Identity?](https://www.hyperledger.org/blog/2021/04/21/why-distributed-ledger-technology-dlt-for-identity) Hyperledger 2021-04-21
   > To understand why DLT is useful for identity, we need to go back to the basics—paper credentials, how that model has worked for 1000s of years, and how the use of DLTs with verifiable credentials allows us to transition the great parts—security and privacy—of that model to the digital age.
 
 
@@ -72,7 +72,7 @@ One alternative, to create a DIDcomm-based protocol for public profile was discu
 
 
 
-* [Investing in Verifiable Credentials, Technical Interoperability and Open Source](https://www.hyperledger.org/blog/2022/08/23/investing-in-verifiable-credentials-technical-interoperability-and-open-source) Hyperledger
+* [Investing in Verifiable Credentials, Technical Interoperability and Open Source](https://www.hyperledger.org/blog/2022/08/23/investing-in-verifiable-credentials-technical-interoperability-and-open-source) Hyperledger 2022-08-23
 
 As our approach evolves, we also remain keen to support open source solutions that interoperate with other national and international efforts. There is no dominant design yet, no one network or technology, so we must remain nimble and flexible in our exploration. We also need to coexist with existing identity solutions that millions of British Columbians already rely upon.
 
@@ -136,7 +136,7 @@ Here, we go through how we went about standing up our Indico node. In brief:
 
 * [Getting Internet Identity Right 30 Years On](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL2NvaW5kZXNrLXJlcG9ydHM/episode/Z2lkOi8vYXJ0MTktZXBpc29kZS1sb2NhdG9yL1YwL1B2ZTZ1WThCazZjM24zckdUVVdaQ2YyWGJwQnNuWTBra3N0WWlFOFhBNUk?ep=14) Money ReImagined with Brian Behlendorf.
   > Michael Casey and Sheila Warren talk to Hyperledger Executive Director Brian Behlendorf about self-sovereign identity, the topic of this week's column. A developer whose three-decade career has seen him deeply involved in efforts to foster a more open internet, Brian grasps, like few others, the nuances of how human beings should live within a rapidly changing digital economy.
-* [Hyperledger completes development of DID:Indy Method and advances toward a network of networks](https://www.hyperledger.org/blog/2022/05/02/hyperledger-identity-community-completes-development-of-didindy-method-and-advances-toward-a-network-of-networks) Howland & Bluhm - Linux Foundation
+* [Hyperledger completes development of DID:Indy Method and advances toward a network of networks](https://www.hyperledger.org/blog/2022/05/02/hyperledger-identity-community-completes-development-of-didindy-method-and-advances-toward-a-network-of-networks) Howland & Bluhm - Linux Foundation 2022-05-02
 
 With the groundwork complete, networks and agent frameworks now need to incorporate the Indy:DID Method. This community adoption will increase the viability of the Indy and Aries project stack and position it to be the globally dominant way to issue and share verifiable credentials in a multi-ledger world.
 
@@ -153,5 +153,5 @@ To manage patient’s self-sovereign identity, we leveraged the Hyperledger Indy
 
 ## Ursa
 
-* [Hyperledger Ursa code review](https://www.hyperledger.org/hyperledger-ursa/2022/05/31/hyperledger-ursa-code-review) Hyperledger
+* [Hyperledger Ursa code review](https://www.hyperledger.org/hyperledger-ursa/2022/05/31/hyperledger-ursa-code-review) Hyperledger 2022-05-31
   > Rooted in a “trust but verify” mindset, several Canadian public sector entities and [Interac](https://www.interac.ca/en/) (Canada’s interbank network) sponsored a project at the [Digital Identity Laboratory of Canada](https://idlab.org/) (IDLab) to perform a security and cryptography code review of Hyperledger Ursa  (full report is available [here](https://www.hyperledger.org/wp-content/uploads/2022/05/URSA-IDLab-Code-Review.pdf)).

@@ -39,7 +39,7 @@ We also have [IIW33 set now as a virtual event October 12-14](https://www.event
 * [Vienna Digital Identity Meetup](https://www.meetup.com/Vienna-Digital-Identity-Meetup/)
 
 Recap
-* [Bridging to Self-Sovereign Identity](https://www.thedinglegroup.com/blog/2020/10/28/bridging-to-self-sovereign-identity)
+* [Bridging to Self-Sovereign Identity](https://www.thedinglegroup.com/blog/2020/10/28/bridging-to-self-sovereign-identity) 2020-10-28
 
 * [two presenters](https://vimeo.com/472937478). One showing a Korean effort associated with the DID:Alliance/GADI *(problematic but worth understanding)*. The 2nd presentation was by Mike Vesey from IdRamp talking about their work integrating DIDs & VC with the enterprise systems.
 
@@ -259,14 +259,14 @@ Xavier Vale of Validated ID and Dr. Ignacio Alamillo of Astrea covered the tech
 
 * [Data Ownership and Self-Sovereign Identity by Cryptonics](https://www.crowdcast.io/e/cryptonicsmeetup/register) March 10th
 * [Consumer Identity Management Evolution](https://www.kuppingercole.com/events/ciam-evolution) April 20, 2021
-* [Registration - OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) April 29, 2021
+* [Registration - OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) April 29, 2021 2021-03-01
 * [Aries Mobile Agent & Demonstration by GlobaliD Demo](https://www.meetup.com/en-AU/indicio-identity-community/events/276745615/) • March 24
 * [GS1 US Innovation Summit](https://web.cvent.com/event/5c5e5d0e-08b5-49f9-8f5e-c115c031b729/summary) • March 30
 * [Lifelong Learner Project, Powered by Teachers](https://www.eventbrite.com/e/the-lifelong-learner-project-powered-by-teachers-tickets-144712082735) • March 31
 * [PoCATHON](https://affinidipocathon.devpost.com/) by Affiniti • Mar 26 – May 9, 2021
 * [Covid-19 Technology Innovations • April 14](https://summit.digitalscot.live/talks/covid-19-technology-innovations/)
 * [Internet Identity Workshop XXXII (#32)](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxxii-32-2021a-tickets-131551119941) • April 20-22
-* [OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) • April 29, 2021
+* [OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) • April 29, 2021 2021-03-01
 * [Identiverse 2021](https://identiverse.com/) June 21-23 • Denver, co
 * [Meetup with Indicio to explore decentralized identity](https://indicio.tech/blog/meetup-with-indicio-to-explore-decentralized-identity/)
 
@@ -294,7 +294,7 @@ Inspiring keynotes. Hands-on training with experts. Oktane21 is the place to lea
 
 * [Internet Identity Workshop XXXII (#32)](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxxii-32-2021a-tickets-131551119941) • April 20-22
 
-* [OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) • April 29, 2021
+* [OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) • April 29, 2021 2021-03-01
 
 * [Identiverse 2021](https://identiverse.com/) • June 21-23 (Denver)
 - [PoCATHON](https://affinidipocathon.devpost.com/) by Affiniti • Mar 26 – May 9, 2021
@@ -314,7 +314,7 @@ Gimly is excited to start the EOSIO identity working group WG (Twitter [#eosio_i
 “explore [the technology innovations](https://digitalscot.net/covid-19-vaccine-passports/) being pioneered in response to the Covid-19 pandemic, and what potential for Scottish ventures this presents.” by [Peter Ferry](https://summit.digitalscot.live/speakers/peter-ferry/), [Gary McKay](https://summit.digitalscot.live/speakers/gary-mckay/) and [Julian Ranger](https://summit.digitalscot.live/speakers/julian-ranger/) (Siccar, APPII and digi.me)
 
 - [Internet Identity Workshop XXXII (#32)](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxxii-32-2021a-tickets-131551119941) • April 20-22
-- [OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) • April 29, 2021
+- [OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) • April 29, 2021 2021-03-01
 - [Identiverse 2021](https://identiverse.com/)
 
 - [PoCATHON](https://affinidipocathon.devpost.com/) by Affiniti • Mar 26 – May 9, 2021
@@ -335,12 +335,12 @@ With Dr. Ann Cavoukian, Executive Director of the Global Privacy & Security by D
 This monthly webinar series is an opportunity to hear from UK experts in distributed identity and learn the mechanics of decentralized identity systems.
 
 - [Internet Identity Workshop XXXII (#32)](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxxii-32-2021a-tickets-131551119941) • April 20-22
-- [OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) • April 29, 2021
+- [OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) • April 29, 2021 2021-03-01
 - [Identiverse 2021](https://identiverse.com/) • June 21-23 (Denver)
 
 - [Internet Identity Workshop XXXII (#32)](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxxii-32-2021a-tickets-131551119941) • April 20-22 <—Register NOW. This is the main event for the whole community. The best place to dive in and get connected. 20% discount code: Identosphere_IIWXXXII_20
 - [Credentials, COVID-19, and Digital Staff Passports Innovating and lessons from the NHS frontline](https://www.evernym.com/healthcare-webinar/) • Wednesday, Apr 28
-- [OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) • April 29
+- [OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) • April 29 2021-03-01
 - [PoCathon](https://affinidipocathon.devpost.com/) by Affinidi • 3\26–5\09
 We invite developers across the world to come and build applications that generate secure, portable and privacy-preserving credentials enabling trust across entities using Affinidi’s APIs
 - [Redefining the Student Journey and Beyond Through Verifiable Credentials](https://www.eventbrite.co.uk/e/redefining-the-student-journey-and-beyond-through-verifiable-credentials-tickets-150060812931) Condatis • May 11
@@ -348,7 +348,7 @@ We invite developers across the world to come and build applications that genera
 - [Credentials, COVID-19, and Digital Staff Passports Innovating and lessons from the NHS frontline](https://www.evernym.com/healthcare-webinar/) • Apr 28
 - [NGI Forward Salon Foundationals: Blockchain Ecologies with Primavera De Filippi](https://www.ngi.eu/event/ngi-forward-salon-foundationals-blockchain-ecologies/?instance_id=465) • April 28, 2021
 - [Credentials, COVID-19, and Digital Staff Passports](https://www.evernym.com/healthcare-webinar/) • Apr 28
-- [OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) • April 29
+- [OpenID Foundation Virtual Workshop](https://openid.net/2021/03/01/registration-open-for-openid-foundation-virtual-workshop-april-29-2021/) • April 29 2021-03-01
 - [Redefining the Student Journey and Beyond Through Verifiable Credentials](https://www.eventbrite.co.uk/e/redefining-the-student-journey-and-beyond-through-verifiable-credentials-tickets-150060812931) Condatis • May 11
 - [Self-Sovereign Identity. Trust in NGI](https://www.ngi.eu/event/self-sovereign-identity-trust-in-ngi/) May 17
 - [Identiverse 2021](https://identiverse.com/) • June 21-23 (Denver)
@@ -510,7 +510,7 @@ The 34th The European Association for e-Identity and Security Annual Conference 
 - [Internet Identity Workshop 33](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxxiii-33-2021b-tickets-160257990965) • 10/12-14
 - [Digital Trust World 2021](https://events.eventzilla.net/e/digital-trust-world-2021-2138805589) • 10/4-7 ‘the Conference for Authentication, Biometrics, Fraud & Security and Identity,’
 
-* [ANNOUNCING THE MYDATA OPERATOR AWARDS 2021](https://mydata.org/2021/08/24/announcing-the-mydata-operator-awards-2021/)
+* [ANNOUNCING THE MYDATA OPERATOR AWARDS 2021](https://mydata.org/2021/08/24/announcing-the-mydata-operator-awards-2021/) 2021-08-24
 - [Cardea Interop-athon](http://cardea.app) • 9/9 ([registration](https://docs.google.com/forms/d/1yIalp9ZPL9_nMUcP31OiLuko3aNryw4SzBaSjmJhs0A/viewform?edit_requested=true))
 - [Turing trustworthy digital identity conference](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=29872&eventID=93&traceRedir=2) • 9/13
 - [GS1 Industry & Standards Event 2021](https://standards-event.gs1.org/) • 9/13-16
@@ -527,7 +527,7 @@ A chance for Interopathon participants to demo their results!
 you can still join the Dev Camp. It’s free, the curriculum sounds really fun, and it’s got a great crew of leaders, facilitators, teachers, and mentors.
 - [Meeco at Money 20/20 Europe](https://blog.meeco.me/meeco-at-money-20-20-europe/) 9/21-23
 - [EIC Speaker Spotlight: Vittorio Bertocci on Browser Changes Affecting Identity](https://www.kuppingercole.com/blog/beskers/eic-speaker-spotlight-vittorio-bertocci-browser-changes-identity) • 9/14
-- [OpenID Foundation Hosting Workshop at EIC 2021](https://openid.net/2021/09/01/openid-foundation-hosting-workshop-at-eic-2021/)
+- [OpenID Foundation Hosting Workshop at EIC 2021](https://openid.net/2021/09/01/openid-foundation-hosting-workshop-at-eic-2021/) 2021-09-01
 
 will include a panel discussion on the ongoing global adoption of the Financial-grade API (FAPI) security profile while reviewing global open banking initiatives
 
@@ -550,7 +550,7 @@ Ceramic is [live on mainnet](https://blog.ceramic.network/ceramic-mainnet-is-li
 - [Internet Identity Workshop 33](https://www.eventbrite.com/e/internet-identity-workshop-iiwxxxiii-33-2021b-tickets-160257990965) • 10/12-14
 - [Authenticate Virtual Summit Recap and looking forward Authenticate 2021](https://fidoalliance.org/authenticate-virtual-summit-the-imperative-for-strong-authentication-for-government-services/) Fido Alliance 10/18-20
 
-* [Announcing the GAIN POC Pre-launch “Listening Tour”](https://openid.net/2021/09/29/announcing-the-gain-poc-pre-launch-listening-tour/) OpenID
+* [Announcing the GAIN POC Pre-launch “Listening Tour”](https://openid.net/2021/09/29/announcing-the-gain-poc-pre-launch-listening-tour/) OpenID 2021-09-29
 
 The objective of these sessions is to gather input for shaping the Community Group program targeted to launch in December of this year.
 
@@ -571,7 +571,7 @@ Ceramic is [live on mainnet](https://blog.ceramic.network/ceramic-mainnet-is-li
 - [Self-Sovereign-Identity & eIDAS a contradiction? Challenges and chances of eIDAS 2.0](https://www.msg.group/en/event/self-sovereign-identity-eidas-a-contradiction-challenges-and-chances-of-eidas-2-0) University of Murcia/Alastria 10/19
 - [The Business Models Made Possible By Economic Incentives](https://www.evernym.com/cheqd-webinar/) 10/19
 - [Authenticate Virtual Summit Recap and looking forward Authenticate 2021](https://fidoalliance.org/authenticate-virtual-summit-the-imperative-for-strong-authentication-for-government-services/) • 10/18-20 • Fido Alliance
-- [OpenID Foundation Sessions at the FIDO Member Plenary](https://openid.net/2021/10/11/announcing-openid-foundation-sessions-at-the-fido-member-plenary-on-thursday-october-21-2021/) 10/21
+- [OpenID Foundation Sessions at the FIDO Member Plenary](https://openid.net/2021/10/11/announcing-openid-foundation-sessions-at-the-fido-member-plenary-on-thursday-october-21-2021/) 10/21 2021-10-11
 - [Game Changers - Is Self-Sovereign Identity Going Exponential?](https://www.linkedin.com/events/gamechangers-isself-sovereignid6853237425758703616/) 10/26
 
 Could blockchain enabled self-sovereign identification be a game changer in everything from how your identity is created, to how it is managed, validated, shared and used?
@@ -608,7 +608,7 @@ THE MODERN DILEMMA - HOW TO TAKE BACK CONTROL OF YOUR DIGITAL SOUL • 11/16
 
 The Frankfurt School Blockchain Center will host a panel discussion together with [d-fine](http://www.d-fine.com/) on self-sovereign identity (SSI). As more and more of our interactions take place online, SSI solutions are crucial in order to allow people to do so in a digital world with the same freedom and security as they do offline.
 
-- [Data Space Launchpad](https://mydata.org/2021/11/18/event-data-space/) MyData (Until 2/22)
+- [Data Space Launchpad](https://mydata.org/2021/11/18/event-data-space/) MyData (Until 2/22) 2021-11-18
 
 As part of the [Digital Europe Programme](https://digital-strategy.ec.europa.eu/en/digital-europe-programmes-multiannual-work-programme-2021-2022) the European Commission will invest EUR 143 million in common European data spaces in different domains. [...] consortia building is taking place as we speak. Come to make connections and get access to the library of resources.
 
@@ -619,9 +619,9 @@ This EOI invite’s expressions of interest for the provision of customer digita
 - [Customer Service / Service NSW EOI - Digital Identity and Verifiable Credentials - DICT/8027](https://www.tenders.nsw.gov.au//index.cfm?dept=dcs&event=public.rft.show&RFTUUID=B5AEC5F5-F55A-5377-53C3487DD5BE443A) • Tenders (Closes 12/14)
 - [Build Your Identity Solution Using Hyperledger Aries](https://wiki.hyperledger.org/display/events/Build+Your+Identity+Solution+Using+Hyperledger+Aries) • 1/20
 - [Hyperledger Indy Technical Deep Dive](https://wiki.hyperledger.org/display/events/Hyperledger+Indy+Technical+Deep+Dive) • 2/3
-- [Data Space Launchpad](https://mydata.org/2021/11/18/event-data-space/) MyData • Until 2/22
+- [Data Space Launchpad](https://mydata.org/2021/11/18/event-data-space/) MyData • Until 2/22 2021-11-18
 
-* [Hyperledger Foundation Community Training: Accelerate your decentralized identity skills with two free Hyperledger Indy and Hyperledger Aries workshops](https://www.hyperledger.org/blog/2021/11/22/hyperledger-foundation-community-training-accelerate-your-decentralized-identity-skills-with-two-free-hyperledger-indy-and-hyperledger-aries-workshops)
+* [Hyperledger Foundation Community Training: Accelerate your decentralized identity skills with two free Hyperledger Indy and Hyperledger Aries workshops](https://www.hyperledger.org/blog/2021/11/22/hyperledger-foundation-community-training-accelerate-your-decentralized-identity-skills-with-two-free-hyperledger-indy-and-hyperledger-aries-workshops) 2021-11-22
 
 * [Build Your Identity Solution Using Hyperledger Aries](https://wiki.hyperledger.org/display/events/Build+Your+Identity+Solution+Using+Hyperledger+Aries) 1/20
 
@@ -630,7 +630,7 @@ This EOI invite’s expressions of interest for the provision of customer digita
 - [The "Completing the Framework" Open Call](https://essif-lab-framework-call.fundingbox.com/) eSSIF-Lab (until 1/15/22)
 - [Build Your Identity Solution Using Hyperledger Aries](https://wiki.hyperledger.org/display/events/Build+Your+Identity+Solution+Using+Hyperledger+Aries) 1/20
 - [Hyperledger Indy Technical Deep Dive](https://wiki.hyperledger.org/display/events/Hyperledger+Indy+Technical+Deep+Dive) 2/3
-- [Data Space Launchpad](https://mydata.org/2021/11/18/event-data-space/) MyData • Until 2/22
+- [Data Space Launchpad](https://mydata.org/2021/11/18/event-data-space/) MyData • Until 2/22 2021-11-18
 
 * [Join us to build solutions using Decentralized Identities](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/join-us-to-build-solutions-using-decentralized-identities/ba-p/2810649) Microsoft
 
@@ -660,7 +660,7 @@ Speaking: Markus Sabadello, Michael Shae, Tim Brückmann, Tim Heidfeld
 Ally Haire talks about identity using blockchain, and Vandana Verma tells us how to stay secure with third-party dependencies!
 
 - [Hyperledger Indy Technical Deep Dive](https://wiki.hyperledger.org/display/events/Hyperledger+Indy+Technical+Deep+Dive) 2/3
-- [Data Space Launchpad](https://mydata.org/2021/11/18/event-data-space/) MyData • Until 2/22
+- [Data Space Launchpad](https://mydata.org/2021/11/18/event-data-space/) MyData • Until 2/22 2021-11-18
 - [Decentralized Autonomous Organizations to revolutionize the way we work?](https://itsavirus.com/updates/webinar-decentralized-autonomous-organizations-to-revolutionize-the-way-we-work) Alex Puig Caelum Labs 2/24
 
 * [Build using Decentralized Identities with Microsoft](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/join-us-to-build-solutions-using-decentralized-identities/ba-p/2810649)
@@ -690,7 +690,7 @@ The webinar will be held virtually on the 17th of February 2022 and is open for 
 - Yours truely (Kaliya) is speaking ^^^
 - [Self-Sovereign Identity: Expectations & Reality](https://www.meetup.com/indicio-identity-community/events/283751416/) 2/22
 - [What Makes A Successful SSI Strategy?](https://www.evernym.com/ssi-strategy-webinar/) 3/1 Evernym
-* [MyData and GovStack – Accelerating digital transformations in the public sector globally](https://mydata.org/2022/02/14/event-mydata-govstack) 3/1
+* [MyData and GovStack – Accelerating digital transformations in the public sector globally](https://mydata.org/2022/02/14/event-mydata-govstack) 3/1 2022-02-14
 
 * [Naming the Harms of Web 1 & 2.0](https://allevents.in/events/naming-the-harms-of-web-1-and-20/10000260672868567) 3/4 Planetwork
 
@@ -720,7 +720,7 @@ All these videos were recorded at the DID Conference Korea 2022on Feb 22.
 
 identity isn't about who you are. it's about what others might want or need to know about you, and how you let them know
 
-- [Registration Open for OpenID Foundation Workshop at Google](https://openid.net/2022/03/22/registration-open-for-openid-foundation-workshop-at-google-monday-april-25-2022/) April 25
+- [Registration Open for OpenID Foundation Workshop at Google](https://openid.net/2022/03/22/registration-open-for-openid-foundation-workshop-at-google-monday-april-25-2022/) April 25 2022-03-22
 
 * [Registration](https://www.eventbrite.com/e/openid-foundation-workshop-monday-april-25-2022-tickets-304150210467) must be completed by Monday, April 18, 2022:
 
@@ -751,7 +751,7 @@ Over the course of two days from Jan. 24 – 25, the [Better Identity Coalition]
 - [Global Internet Governance and International Human Rights - Whose Rights, Whose Interpretations?](https://www-npa.lip6.fr/gig-arts/conference/) 4/13-14, Nicosia ([Program](https://pbs.twimg.com/media/FOhpFlaXsAUADnq?format=jpg&name=large))
 - [Techno-legal Challenges in Digital Identity Infrastructures: the Example of Self Sovereign Identities](https://www-npa.lip6.fr/gig-arts/conference/gig-arts-2022/abstracts/) Alexandra Giannopoulou, University of Amsterdam, Netherlands and Ioannis Krontiris, Homo Digitalis, Greece
 The question this article will try to answer is: are self sovereign digital identity solutions suitable for ensuring data sovereignty and individual empowerment? To answer this question, we will address challenges emerging from both the technological architectures and the applicable institutional and normative frameworks
-- [Registration Open for OpenID Foundation Workshop at Google](https://openid.net/2022/03/22/registration-open-for-openid-foundation-workshop-at-google-monday-april-25-2022/) April 25 ([Registration](https://www.eventbrite.com/e/openid-foundation-workshop-monday-april-25-2022-tickets-304150210467)
+- [Registration Open for OpenID Foundation Workshop at Google](https://openid.net/2022/03/22/registration-open-for-openid-foundation-workshop-at-google-monday-april-25-2022/) April 25 ([Registration](https://www.eventbrite.com/e/openid-foundation-workshop-monday-april-25-2022-tickets-304150210467) 2022-03-22
 
 This OpenID Foundation Workshop includes a number of presentations focused on 2022 key initiatives for the Foundation as well as updates on active working groups.
 
@@ -762,7 +762,7 @@ This is a really big deal that after switching to online for 2 years. It will be
 May 12th is decentralized identity day at the event
 
 - [Carbon Accounting with OpenClimate and the Government of British Columbia](https://www.linkedin.com/events/6920546292557381632/) Zoom - TOIP - 4/20
-- [OpenID Foundation Workshop at Google](https://openid.net/2022/03/22/registration-open-for-openid-foundation-workshop-at-google-monday-april-25-2022/) 4/25 ([Registration](https://www.eventbrite.com/e/openid-foundation-workshop-monday-april-25-2022-tickets-304150210467)
+- [OpenID Foundation Workshop at Google](https://openid.net/2022/03/22/registration-open-for-openid-foundation-workshop-at-google-monday-april-25-2022/) 4/25 ([Registration](https://www.eventbrite.com/e/openid-foundation-workshop-monday-april-25-2022-tickets-304150210467) 2022-03-22
 - [Internet Identity Workshop #24](http://www.internetidentityworkshop.com/) 4/26-28, [Sold Out] Mountain View, California
 - [Exploring Digital ID](https://www.continuumloop.com/exploring-digital-id/) Online - Continuum Loop - 4/27
 - [European Identity & Cloud Conference celebrates its 15th edition](https://www.kuppingercole.com/events/eic2022/blog/european-identity-cloud-conference-celebrates-15th-edition) Berlin - 5/10-13
@@ -839,9 +839,9 @@ Mike Vesey, CEO of IdRamp, has been selected to speak about  “Verifiable Cred
 
 - [Bootstrapping Trust - Leveraging DIDComm to apply trust to existing technologies](https://www.meetup.com/indicio-identity-community/events/286112624/) 6/21 Online
 - [Identity in Conflict](https://identiverse.com/idv2022/session/910860/) 6/21
-- MyData is this week: [Program Highlights](https://www.mydata.org/2022/06/17/mydata-2022-21-6-22-6-programme-highlights/)
+- MyData is this week: [Program Highlights](https://www.mydata.org/2022/06/17/mydata-2022-21-6-22-6-programme-highlights/) 2022-06-17
 
-- [National digital trust summit will help NZ](https://digitalidentity.nz/2022/07/04/national-digital-trust-summit-will-help-nz/) 7/27 ([Registration](https://registration.brightstar.co.nz/register/NWUwMGU1OWUtNWVlNy00YzQ2LThmMjUtZjg4ZmIxOTlmNTIz)
+- [National digital trust summit will help NZ](https://digitalidentity.nz/2022/07/04/national-digital-trust-summit-will-help-nz/) 7/27 ([Registration](https://registration.brightstar.co.nz/register/NWUwMGU1OWUtNWVlNy00YzQ2LThmMjUtZjg4ZmIxOTlmNTIz) 2022-07-04
 - [The Business of Self-Sovereign Identity](https://www.eventbrite.com/e/the-business-of-self-sovereign-identity-ssi-an-iiw-12-day-workshop-tickets-367890268697) IIW Special Topic 1/2 day event - August 4th
 - [Digital Identity Across Asia](https://www.eventbrite.com/e/digital-identity-across-asia-an-iiw-12-day-workshop-tickets-374391784907) IIW Special Topic 1/2 day event- 8/9 (in US Evening 8/8)
 - Exploring digital identity for a Decentralized Society — a RadicalxChange Open Space (virtual) unConference - Save the Date August 16th and 18th.
@@ -864,15 +864,15 @@ IPEN invites participants from different areas such as regulators, academia, ope
 
 This ideathon was specially designed as an exciting challenge for the Singapore interns and centered around trusted data. Here are some of the incredible solutions that the five teams came up with.
 
-* [Identiverse 2022: The Time for Decentralized Identity is Now](https://trustoverip.org/blog/2022/07/12/identiverse-2022-the-time-for-decentralized-identity-is-now/) TrustOverIP
+* [Identiverse 2022: The Time for Decentralized Identity is Now](https://trustoverip.org/blog/2022/07/12/identiverse-2022-the-time-for-decentralized-identity-is-now/) TrustOverIP 2022-07-12
 
 Ping CEO Andre Durand ‘s opening keynote set the tone by putting decentralized identity front and center. Stating that our current systems do not scale, Andre took us on a journey through the history of Identity solutions from passwords, to single sign-on, to OAuth, to centralized and federated identity.
 
-* [Identity Week 2022 ReCap](https://trustoverip.org/blog/2022/07/13/identity-week-2022-recap/) Dan BAchenheimer
+* [Identity Week 2022 ReCap](https://trustoverip.org/blog/2022/07/13/identity-week-2022-recap/) Dan BAchenheimer 2022-07-13
 
 The conference had three tracks, Security Documents, Biometrics, and Digital ID with the mission to “… to accelerate the move towards a world where trusted identity solutions enable governments and commercial organizations to provide citizens, employees, customers and consumers with a multitude of opportunities to transact in a seamless, yet secure manner. All the while preventing the efforts of those intent on doing harm.”
 
-* [Alen Horvat Attends EIC 2022 as Kim Cameron Award Recipient](https://openid.net/2022/07/12/guest-blog-alen-horvat-attends-eic-2022-as-kim-cameron-award-recipient/) OpenID
+* [Alen Horvat Attends EIC 2022 as Kim Cameron Award Recipient](https://openid.net/2022/07/12/guest-blog-alen-horvat-attends-eic-2022-as-kim-cameron-award-recipient/) OpenID 2022-07-12
 
 At EIC, we could learn who are the key enablers and drivers of the evolution: the European Digital Identity (EUDI) program that is transforming Europe’s digital identity, mDL that enables driver’s license digitalisation, EBSI that established a framework for trusted verifiable credentials exchange, OpenID Connect’s work on standardisation of Verifiable Credentials exchange, Global Assured Identity Network (GAIN) authentication and identification with highest assurance levels on a global scale, Open Identity Exchange (OIX) for assurance-level and policy matching and mapping, TrustOverIP (ToIP) for the next-generation trusted internet, and others. Global trust, assurance, interoperability and user-centric identity are vital elements that lead to an open digital identity.
 
@@ -926,7 +926,7 @@ The Summit is about real business – not about the next hype. The event is cent
 - [Infrachain Summit](https://www.infrachainsummit.com/) 10/4 - The Summit is about real business – not the next hype. The event is centered on operational use cases in the world of 3rd party distributed trust.
 - [Internet Identity Workshop #35](http://www.internetidentityworkshop.com/) 11/14-16, Mountain View CA
 
-* [TOIP Steering Committee Members to Speak at two conferences](https://trustoverip.org/blog/2022/08/15/toip-steering-committee-members-to-speak-at-two-conferences-in-dublin-ireland-september-12th-16th/) DUBLIN, IRELAND 9/12-16
+* [TOIP Steering Committee Members to Speak at two conferences](https://trustoverip.org/blog/2022/08/15/toip-steering-committee-members-to-speak-at-two-conferences-in-dublin-ireland-september-12th-16th/) DUBLIN, IRELAND 9/12-16 2022-08-15
 
 Co-located at the Conventions Center Dublin the same week is the Linux Foundation [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) September 13th to 16th.  ToIP will be having a co-located [Trust Over IP Summit 2022](https://trustoverip.org/summit/), during the OSS.  So when you [register for OSS](https://events.linuxfoundation.org/open-source-summit-europe/register/), don’t forget to add on the free registration for ToIP Summit 2022.
 

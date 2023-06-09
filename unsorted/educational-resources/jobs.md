@@ -3,7 +3,7 @@ published: false
 ---
 
 # jobsspecialedition
-* [DIACC Project Coordinator (Bilingual)](https://diacc.ca/2021/09/16/diacc-project-coordinator-bilingual/)
+* [DIACC Project Coordinator (Bilingual)](https://diacc.ca/2021/09/16/diacc-project-coordinator-bilingual/) 2021-09-16
 
 DIACC is seeking a highly motivated English and French bilingual Project Coordinator to support projects, meetings, events, community engagement, project plans, and action tracking.
 * [DIF Job Opportunities](https://identity.foundation/jobs/)
@@ -223,7 +223,7 @@ The ideal candidate is a self-motivated, multi-tasker, and demonstrated team-pla
 
 The [@Avast](https://twitter.com/Avast) Identity team has several openings in Product Management, Program Management, Engineering, and DevOps.
 
-* [Women In Identity – new role of Executive Director](https://womeninidentity.org/2021/06/29/job-description-for-role-of-executive-director/)
+* [Women In Identity – new role of Executive Director](https://womeninidentity.org/2021/06/29/job-description-for-role-of-executive-director/) 2021-06-29
 
 Reporting to the Board Chair, the Executive Director will have overall strategic and operational responsibility for Women in Identity’s staff, programs, expansion, infrastructure, budget as well as the execution of its mission.
 
@@ -355,7 +355,7 @@ Implement the pallets based on Substrate
 
 
 
-* [Technical Writer | Digital ID & Authentication Council of Canada](https://diacc.ca/2022/08/08/diacc-technical-writer/) DIACC
+* [Technical Writer | Digital ID & Authentication Council of Canada](https://diacc.ca/2022/08/08/diacc-technical-writer/) DIACC 2022-08-08
 
 The Digital Identification & Authentication Council of Canada (DIACC) is seeking a Technical Writer to support the DIACC [Pan-Canadian Trust Framework](https://diacc.ca/trust-framework/) (PCTF). This is a 20-30 hours per week remote position with the potential to grow into a full-time role and can be performed from anywhere. This position is intended to be ongoing (long-term) in support of the development and maintenance life cycle of the PCTF.
 

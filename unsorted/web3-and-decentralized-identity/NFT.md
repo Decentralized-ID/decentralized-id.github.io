@@ -29,13 +29,13 @@ Given the continuous discussions around centralization/de-centralization in our 
 * [Game Governance Domains: a NFT Support Nightmare](http://habitatchronicles.com/2022/04/online-game-governance-domains-avoiding-an-nft-support-nightmare/) Habitat Chronicles
 
 “I was working on an online trading-card game in the early days that had player-to-player card trades enabled through our servers. The vast majority of our customer support emails dealt with requests to reverse a trade because of some kind of trade scams. When I saw [Hearthstone’s dust system](https://playhearthstone.com/en-us/news/10245930), I realized it was genius; they probably cut their support costs by around 90% with that move alone.”
-* [Three thoughts about NFTs](https://blogs.harvard.edu/doc/2022/03/03/nft-2/) Doc Searls
+* [Three thoughts about NFTs](https://blogs.harvard.edu/doc/2022/03/03/nft-2/) Doc Searls 2022-03-03
   > There’s a thread in a list I’m on titled “NFTs are a Scam.” I know too little about NFTs to do more than dump here three thoughts I shared on the list in response to a post that suggested that owning digital seemed to be a mania of some kind. Here goes…
 * [What Do NFTs Do Well?](https://indicio.tech/what-do-nfts-do-well/) Indicio
 
 NFTs are technologically interesting as a way of proving ownership and facilitating value transfer; but they are problematic if applied to proving a person’s identity.
 
-* [SoulBound](https://vitalik.ca/general/2022/01/26/soulbound.html) NFTs…by Vitalik
+* [SoulBound](https://vitalik.ca/general/2022/01/26/soulbound.html) NFTs…by Vitalik 2022-01-26
 
 A soulbound item, once picked up, cannot be transferred or sold to another player.
 

@@ -72,7 +72,7 @@ Oldy- but- Goody - overview of ​​[SSI Wallets](https://www.gimly.io/blog/ssi
 
 The biggest disadvantage of non-custodial wallets is their inaccessibility when you lose or forget the password. Since you are the sole custodian, there is a huge responsibility on you to always remember the password of your wallet.
 
-* [Super Apps Or Smart Wallets?](https://www.forbes.com/sites/davidbirch/2022/01/04/super-apps-or-smart-wallet/) David G.W. Birch
+* [Super Apps Or Smart Wallets?](https://www.forbes.com/sites/davidbirch/2022/01/04/super-apps-or-smart-wallet/) David G.W. Birch 2022-01-04
 
 There's plenty of talk of super apps around at the moment as a variety of players attempt to become the western equivalent of the Asian app giants such as Alipay, Gojek and Kakao. But how do you get from a digital wallet to a super app?
 * [Validated ID's journey to becoming EBSI compliant](https://www.validatedid.com/post-en/validated-ids-journey-to-becoming-ebsi-compliant)
@@ -152,7 +152,7 @@ Kathleen Kenyon & Anil John believe that blockchain-based identity wallets are d
 * [Universal Wallet 2020](https://w3c-ccg.github.io/universal-wallet-interop-spec/) W3C Editor's Draft
   > This specification describes a portable, extensible, JSON-LD wallet representation, supporting digital currencies and credentials.
 * [Indicio contributes UI messaging design for digital wallet to open source](https://indicio.tech/blog/indicio-contributes-novel-ui-messaging-design-for-digital-wallet-to-open-source-community/)
-  > A [finalist](https://www.dhs.gov/science-and-technology/news/2020/11/02/news-release-finalists-announced-digital-wallets-prize-challenge) in the Department of Homeland Security (DHS) Science and Technology ( S&T) Trusted User Interface (UI) Digital Wallets Challenge, the UI digital wallet design is now available in the [Indicio public Github repository](https://github.com/Indicio-tech/indicio-mobile-ux).
+  > A [finalist](https://www.dhs.gov/science-and-technology/news/2020/11/02/news-release-finalists-announced-digital-wallets-prize-challenge) in the Department of Homeland Security (DHS) Science and Technology ( S&T) Trusted User Interface (UI) Digital Wallets Challenge, the UI digital wallet design is now available in the [Indicio public Github repository](https://github.com/Indicio-tech/indicio-mobile-ux). 2020-11-02
 * [The benefits of Self-Sovereign Identity wallets: Collaborating on Self-Sovereign Identity wallets](https://www.brightlands.com/en/brightlands-smart-services-campus/collaborating-self-sovereign-identity-wallets-12) Rabobank ([Part 2](https://www.brightlands.com/en/brightlands-smart-services-campus/rabobanks-opinion-techruption)
   > SSI and identity wallets will make it easier for citizens, organizations and governments to manage (digital) identities. It will make registrations and transactions across the internet private and secure. It will also make organizations more efficient and effective. As administration is reduced, costs will decrease. As their user interface becomes easier to use, their customers will perform more registrations with less errors - what in some cases will lead to extra revenue, but in all cases will lead to more satisfied customers
 * [Self-Sovereign Identity Mobile Wallet 101: Key Features](https://www.youtube.com/watch?v=rl8yt6V3p0U) Northern Block
@@ -174,7 +174,7 @@ Kathleen Kenyon & Anil John believe that blockchain-based identity wallets are d
 * [An Introduction to the Trinsic Wallet](https://trinsic.id/an-introduction-to-the-trinsic-wallet/)
   > When an organization requests information from an end user, the end user can decide whether to accept or reject the request. If the request is accepted, the wallet will find the relevant data from all of their credentials that is needed to fulfill the request.
 
-* [GlobalID](https://medium.com/global-id/the-gid-report-134-doj-challenges-visa-plaid-ssi-is-hot-stuff-f7811bdda7cd) quoting the [Harvard Blog](https://blogs.harvard.edu/vrm/2020/11/02/ssi-2/): “*The easiest tool to imagine is a wallet or a wallet app (here’s one) with some kind of dashboard.*”
+* [GlobalID](https://medium.com/global-id/the-gid-report-134-doj-challenges-visa-plaid-ssi-is-hot-stuff-f7811bdda7cd) quoting the [Harvard Blog](https://blogs.harvard.edu/vrm/2020/11/02/ssi-2/): “*The easiest tool to imagine is a wallet or a wallet app (here’s one) with some kind of dashboard.*” 2020-11-02
   > It’s understandable then why Civic is phasing out it’s identity app and merging it into its wallet. (Which further validates GlobaliD’s current path.)
 * [Selv identity wallet](https://github.com/iotaledger/selv-mobile)
 
@@ -210,7 +210,7 @@ In the offline world, we typically store credentials in a physical wallet — it
 
 “Blockchain Ethics: A Bridge to Abundance” (2018) and “Re-Generation X” (2020) not only discuss the benefits of blockchain technology, but also capture Jamil’s experience on how he has transitioned from being a loyal yet downsized former corporate employee to a self sovereign individual.
 
-* [Trust In Your Wallet](https://findy-network.github.io/blog/2022/04/27/trust-in-your-wallet/) Findy Agency
+* [Trust In Your Wallet](https://findy-network.github.io/blog/2022/04/27/trust-in-your-wallet/) Findy Agency 2022-04-27
 
 * [Finnish Trust Network](https://www.kyberturvallisuuskeskus.fi/en/our-activities/regulation-and-supervision/electronic-identification) consists of “strong electronic identification” providers. The concept means proving one’s identity in electronic services that meets specific requirements laid down by Finnish law. The identity providers are required to implement multi-factor authentication to authenticate the users.
 

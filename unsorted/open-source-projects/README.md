@@ -30,4 +30,4 @@ published: false
 
 * [New article about decentralized protocols to rule the world...](https://lists.w3.org/Archives/Public/public-credentials/2021Dec/0105.html)
 
-* [Great Protocol Politics](https://foreignpolicy.com/2021/12/11/bitcoin-ethereum-cryptocurrency-web3-great-protocol-politics/) - The 21st century doesn’t belong to China, the United States, or Silicon Valley. It belongs to the internet.
+* [Great Protocol Politics](https://foreignpolicy.com/2021/12/11/bitcoin-ethereum-cryptocurrency-web3-great-protocol-politics/) - The 21st century doesn’t belong to China, the United States, or Silicon Valley. It belongs to the internet. 2021-12-11

@@ -5,7 +5,7 @@ published: false
 # User Experience
 
 
-* [Falsehoods Programmers Believe About Names - With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) Shine Solutions Group
+* [Falsehoods Programmers Believe About Names - With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) Shine Solutions Group 2018-01-08
   > In this post I’m going to list all 40 of Patrick’s original falsehoods, but give you an example (or two) drawn from my experiences working in this space. Ready? Let’s go!
   > 
   > 1. People have exactly one canonical full name.
@@ -113,7 +113,7 @@ Use case: Wonderland Stage & Screen, interested in developing a platform to supp
 
 * [The principles of user sovereignty | by 𝔡𝔴𝔥](https://uxdesign.cc/the-principles-of-user-sovereignty-515ac83401f6?sk=d37a69c8efc8a48cdd4a23d0518ba8d0)
 
-The earliest discussion of the phrase I could find is a [blog post](https://blog.lizardwrangler.com/2011/08/04/extending-our-reach-many-layers-of-user-sovereignty/) from August 4th, 2011 by the “Chief Lizard Wrangler” herself, [Mitchell Baker](https://en.wikipedia.org/wiki/Mitchell_Baker) the CEO of Mozilla. In it she prophetically describes user sovereignty as the consequence of new “engines” that are “…open, open-source, interoperable, public-benefit, standards-based, platforms…” She also makes the critical link between the philosophy of openness and standards-based interoperability with that of identity management and personal data dominion.
+The earliest discussion of the phrase I could find is a [blog post](https://blog.lizardwrangler.com/2011/08/04/extending-our-reach-many-layers-of-user-sovereignty/) from August 4th, 2011 by the “Chief Lizard Wrangler” herself, [Mitchell Baker](https://en.wikipedia.org/wiki/Mitchell_Baker) the CEO of Mozilla. In it she prophetically describes user sovereignty as the consequence of new “engines” that are “…open, open-source, interoperable, public-benefit, standards-based, platforms…” She also makes the critical link between the philosophy of openness and standards-based interoperability with that of identity management and personal data dominion. 2011-08-04
 
 * [EPS for SSI (Self-Sovereign Identity)](https://medium.com/@kokumai/eps-for-ssi-self-sovereign-identity-8c742e2b1d02)
   > you might be interested to hear that the core of EPS is designed to convert images to high-entropy codes, which work as very long passwords and also as the seeds of symmetric or asymmetric cryptographic keys.
@@ -121,7 +121,7 @@ The earliest discussion of the phrase I could find is a [blog post](https://blo
 
 * [Sexism in Facial Recognition Technology​](https://medium.com/berkman-klein-center/sexism-in-facial-recognition-technology-d5e547a6e7bc) Berkman Klien Center
 
-The use of facial recognition by law enforcement agencies has become common practice, despite increasing reports of [false arrests](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html) and [jail time](https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html). While there are various downsides to facial recognition technology being used at all, including fears of mass surveillance and invasion of privacy, there are flaws within facial recognition technologies themselves that lead to inaccurate results. One such major challenge for this still-burgeoning technology is gender-based inaccuracies.
+The use of facial recognition by law enforcement agencies has become common practice, despite increasing reports of [false arrests](https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html) and [jail time](https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html). While there are various downsides to facial recognition technology being used at all, including fears of mass surveillance and invasion of privacy, there are flaws within facial recognition technologies themselves that lead to inaccurate results. One such major challenge for this still-burgeoning technology is gender-based inaccuracies. 2020-12-29
 * [A Deep-Dive on Digital Self-Determination](https://medium.com/berkman-klein-center/a-deep-dive-on-digital-self-determination-368c48d87705)
 
 Questions of control over personal data were a cross-cutting theme throughout a [Research Sprint](https://cyber.harvard.edu/story/2021-03/research-sprint-examines-digital-self-determination-increasingly-interconnected-world) co-hosted by the [Berkman Klein Center for Internet & Society](http://cyber.harvard.edu) and [Digital Asia Hub](https://www.digitalasiahub.org/). The Sprint also examined other important dimensions of self-determination in the digitally networked world, for instance, self-expression and participation in civic life and the digital economy, or relationship-building and well-being, to name just a few application areas.

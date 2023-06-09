@@ -14,7 +14,7 @@ Decentralized identity will make our increasingly decentralized lives easier. Or
 * [Institutions digitising credentials, but blockchain use remains low](https://thepienews.com/news/digitising-credentials-blockchain-use/)
   > [Research](https://www.aacrao.org/research-publications/aacrao-research/meeting-the-moment-transforming-the-digital-credentials-space) from the American Association of Collegiate Registrars and Admissions Officers has revealed that 89% of US and Canadian institutions report using at least one type of digital credential – including digitally signed PDFs – with one third planning to devote more resources to the digitisation of credentials.
 * [@UbikomProject tweets](https://twitter.com/UbikomProject/status/1405945396208209932): “Nice overview, somewhat questionable assumptions”
-  * [To Succeed In Decentralizing Digital Identity, Focus On Relationships First](https://www.forbes.com/sites/forbestechcouncil/2021/06/16/to-succeed-in-decentralizing-digital-identity-focus-on-relationships-first/?sh=6f133ef11824)
+  * [To Succeed In Decentralizing Digital Identity, Focus On Relationships First](https://www.forbes.com/sites/forbestechcouncil/2021/06/16/to-succeed-in-decentralizing-digital-identity-focus-on-relationships-first/?sh=6f133ef11824) 2021-06-16
     > 2020 forced the world of identity to step up, and it has. There's much more innovation on the horizon to look forward to.
 * [Is Self-Sovereign Identity Going Exponential?](https://corporate.sybrin.com/webinar-SSI) Sybrin
 
@@ -28,7 +28,7 @@ For the attendees, and those folks that couldn’t make it, we’ve put together
 [Link to PDF of the presentation](http://www.continuumloop.com/wp-content/uploads/2021/12/webinar-13JAN2021-2021Review-2022Trends.png)
 
 Darrell started off the webinar talking about his top 5 stories from 2021.
-* [Digital identity market revenues to reach US$53bn in 2026](https://www.nfcw.com/2022/01/31/375825/digital-identity-market-revenues-to-reach-us53bn-in-2026/)
+* [Digital identity market revenues to reach US$53bn in 2026](https://www.nfcw.com/2022/01/31/375825/digital-identity-market-revenues-to-reach-us53bn-in-2026/) 2022-01-31
 
 Juniper’s Digital Identity: Key Opportunities, Regulatory Landscape & Market Forecasts 2022-2026 report also identifies multimodal biometric authentication, digital onboarding — including single sign-on solutions and self-sovereign identity — as “growing trends” across the digital identity market.
 
@@ -55,7 +55,7 @@ The IAM (Identity & Access Management) landscape may seem to be getting more com
 * [Decentralized Identity](https://www.thoughtworks.com/radar/techniques?blipid=202005083) Thoughtworks Technology Radar
   > Adopting and implementing decentralized identity is gaining momentum and becoming attainable. We see its adoption in privacy-respecting customer health applications, government healthcare infrastructure and corporate legal identity.
 * [Thoughtworks has put Verifiable Credentials into the “Assess” category of their technology radar map](https://www.thoughtworks.com/radar/techniques?blipid=202010098) 
-* [Verifiable Credentials featured on Forbes](https://www.forbes.com/sites/forbestechcouncil/2020/12/18/how-verifiable-credentials-can-rebuild-trust-on-the-internet/)
+* [Verifiable Credentials featured on Forbes](https://www.forbes.com/sites/forbestechcouncil/2020/12/18/how-verifiable-credentials-can-rebuild-trust-on-the-internet/) 2020-12-18
   > Berners-Lee recently suggested that the web needs a midcourse correction. Part of that change involves making systems accountable and making it easy for users to find where information comes from. Verifiable credentials promise major strides in that direction.
 * [2020 - How SSI went mainstream](https://medium.com/@sovrinid/2020-how-ssi-went-mainstream-30449003142a) Sovrin Foundation
 
@@ -87,7 +87,7 @@ In this rapid fire review we will take a look at, and break down, the biggest re
 * [EIC2022 Centralized & Decentralized Identity converging](https://www.linkedin.com/pulse/eic2022-centralized-decentralized-identity-converging-kuppinger/)
 * [Educate + Engage = Activate!](https://blog.weareopen.coop/educate-engage-activate-6c6325e962d2) Laura Hilliger
 
-* [Decentralized Identity: Keys to Mainstream Adoption](https://trustoverip.org/blog/2022/05/27/decentralized-identity-keys-to-mainstream-adoption/) Trust Over IP
+* [Decentralized Identity: Keys to Mainstream Adoption](https://trustoverip.org/blog/2022/05/27/decentralized-identity-keys-to-mainstream-adoption/) Trust Over IP 2022-05-27
 
 When it comes to decentralized identity solutions, many business sponsors do not yet understand how DCI can provide practical answers to immediate frontline business problems. This climate creates the impression that decentralized identity is interesting but not ready for prime time adoption.
 
@@ -107,11 +107,11 @@ speak at the June 15, 2022 All Members meeting at the Trust Over IP Foundation.
 
 We take a look at a few of the best articles on why strong digital identity will be critical as we continue to build on the internet.
 
-* [A Solution Looking for a Problem? Digital ID Solves a Million of  Them](https://www.forbes.com/sites/davidbirch/2022/08/09/solution-looking-for-a-problem-digital-id-solves-a-million-of-them/?sh=4d1d6bb4fd7f%C2%A0)
+* [A Solution Looking for a Problem? Digital ID Solves a Million of  Them](https://www.forbes.com/sites/davidbirch/2022/08/09/solution-looking-for-a-problem-digital-id-solves-a-million-of-them/?sh=4d1d6bb4fd7f%C2%A0) 2022-08-09
 
 * [Goodbye, physical identities: How organizations can prepare for digital identity challenges](https://www.biometricupdate.com/202208/goodbye-physical-identities-how-organizations-can-prepare-for-digital-identity-challenges%C2%A0)
 
-* [Digital Identities Will Change The Nature Of Online Reputation](https://www.forbes.com/sites/alastairjohnson/2022/08/30/digital-identities-will-change-the-nature-of-online-reputation/?sh=bd1f30b584a3)
+* [Digital Identities Will Change The Nature Of Online Reputation](https://www.forbes.com/sites/alastairjohnson/2022/08/30/digital-identities-will-change-the-nature-of-online-reputation/?sh=bd1f30b584a3) 2022-08-30
 
 * [Decentralized Identifiers](https://explodingtopics.com/) ExplodingTopics
 

@@ -6,6 +6,8 @@ published: false
 
 ## Explainer 
 
+* [Distributed Ledger Technologies, IAM, and the Truth in Things](https://www.youtube.com/watch?v=VV2rLgH9TUE) 2019-06-27 Identiverse Robert Brown
+  > The Internet of Things has a problem with data silos – it’s difficult for data to move across domains and prove where it came from. Users of IoT data must understand how Things were made and kept up-to-date if they are to know the data received is truthful. Yet keeping Things healthy is not the sole responsibility of a single actor; components of a Thing may be shared amongst hardware and software vendors, system integrators, retailers, system operators, owners, regulators or third parties. Safety and security rests with all involved in authorizing updates, how and when they are applied as well as the right to repair when Things are no longer officially supported. Shared device lifecycle assurance is the basis for verifiable service histories of Things which give data provenance. When data can be proven to originate from reliable sources, its value increases while reducing the risk of using it. Enabling third parties to build value from data would unlock the true value of IoT which in turn could fund its upkeep. This talk will outline how identity and shared ledger technology have key roles to building Truth in Things for a sustainable IoT.
 * [Alternatives to the CompuServe of Things](https://www.windley.com/archives/2021/07/alternatives_to_the_compuserve_of_things.shtml) Windley
 
 The current model for connected things puts manufacturers in between people and their things. That model negatively affects personal freedom, privacy, and society. Alternate models can provide the same benefits of connected devices without the societal and personal costs.
@@ -90,7 +92,7 @@ A Citopia Self-Sovereign Digital Twin™ (SSDT™) is a digital twin whose contr
 * [Battery Passport and the Battery Self-Sovereign Digital Twin](https://dlt.mobi/battery-passport-the-battery-ssdt/) Mobi
   > Similarly, a [battery passport](https://dlt.mobi/battery-passport) is nothing but a presentation of data points about a particular battery – who manufactured it, its physical and chemical composition, its current state of health, whether it was refurbished or repurposed from another battery, and so on.
 
-* [LFPH tackles the next frontier in Open Source Health Technology: The rise of Digital Twins](https://www.lfph.io/2022/08/29/lfph-tackles-the-next-frontier-in-open-source-health-technology-the-rise-of-digital-twins/) Linux Foundation Public Health
+* [LFPH tackles the next frontier in Open Source Health Technology: The rise of Digital Twins](https://www.lfph.io/2022/08/29/lfph-tackles-the-next-frontier-in-open-source-health-technology-the-rise-of-digital-twins/) Linux Foundation Public Health 2022-08-29
 
 To create a pairing between the digital world and the real world, a digital twin leverages real time data, such as smart sensor technology, coupled with analytics, and often artificial intelligence (AI) in order to detect and prevent system failures, improve system performance, and explore innovative uses or functional models.
 
@@ -99,9 +101,9 @@ To create a pairing between the digital world and the real world, a digital twin
 Digital Twin Consortium drives the awareness, adoption, interoperability, and development of digital twin technology. Through a collaborative partnership with industry, academia, and government expertise, the Consortium is dedicated to the overall development of digital twins. We accelerate the market by propelling innovation and guiding outcomes for technology end-users.
 
 ## User experience
-* [#ResistIoT: IoT as a medium for surveillance](https://wider.team/2021/04/21/resistiot/) wider team
+* [#ResistIoT: IoT as a medium for surveillance](https://wider.team/2021/04/21/resistiot/) wider team 2021-04-21
 - Clinical technology as workplace surveillance. Hospital providers talk about their frustration with connected technologies because it feels like their every motion is being monitored and tracked, used by bosses to evaluate their speed and cost efficiency.
-- Civic technologies as government surveillance. From [Oakland’s corner traffic cameras](https://www.aclunc.org/blog/how-fight-stop-oaklands-domain-awareness-center-laid-groundwork-oakland-privacy-commission) leading to mass rallies to [Boston Police](https://www.independent.co.uk/life-style/gadgets-and-tech/news/robots-police-dog-spot-boston-dynamics-a9218491.html) [tests](https://reason.com/2019/11/26/massachusetts-police-test-out-robot-dogs-is-dystopia-on-its-way/) and [NYPD robot dogs](https://www.theverge.com/2021/2/24/22299140/nypd-boston-dynamics-spot-robot-dog), IoT is deep in the creepy depths of [the uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley).
+- Civic technologies as government surveillance. From [Oakland’s corner traffic cameras](https://www.aclunc.org/blog/how-fight-stop-oaklands-domain-awareness-center-laid-groundwork-oakland-privacy-commission) leading to mass rallies to [Boston Police](https://www.independent.co.uk/life-style/gadgets-and-tech/news/robots-police-dog-spot-boston-dynamics-a9218491.html) [tests](https://reason.com/2019/11/26/massachusetts-police-test-out-robot-dogs-is-dystopia-on-its-way/) and [NYPD robot dogs](https://www.theverge.com/2021/2/24/22299140/nypd-boston-dynamics-spot-robot-dog), IoT is deep in the creepy depths of [the uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley). 2019-11-26
 - Consumer technology as commercial surveillance. Alexa, Google, and Apple know too much about you and use it to sell adjacent services.
 
 ## Paper

@@ -47,7 +47,7 @@ When a medical accrediting agency provides a digitally signed certificate, the h
 
 By integrating with Dock and utilizing verifiable credentials, the process of verifying a workers qualifications goes from analysing paper-based certificates and calling each educational body to certify the legitimacy of it, to having the accreditations sitting in a tamper-proof digital wallet, with a digital signature signature from the issuing body certifying the legitimacy.
 
-* [TheirCharts](https://blogs.harvard.edu/doc/2022/01/15/theircharts/) Doc Searls
+* [TheirCharts](https://blogs.harvard.edu/doc/2022/01/15/theircharts/) Doc Searls 2022-01-15
 
 If you’re getting health care in the U.S., chances are your providers are now trying to give you a better [patient experience](https://www.epic.com/software#PatientEngagement) through a website called MyChart.
 
@@ -61,7 +61,7 @@ Shaw adds: “The vital point to make is this: innovations in health technology 
 
 ## Devices
 
-[In 2021, #RuggedIoMD becomes an #IIoT category](https://wider.team/2020/12/23/2021ruggediomd/)
+[In 2021, #RuggedIoMD becomes an #IIoT category](https://wider.team/2020/12/23/2021ruggediomd/) 2020-12-23
 
 So there’s demand for a new category of IoT and #IoMD that survives and thrives despite these challenges. Very low power consumption. Lots of storage and caching to hold on through power outages. Ruggedized for use outside clinics. Easy and cheap to field-repair. Lots of smarts inside so they work without an internet tap. Many flavors of connectivity to exploit opportunities as they knock. Open sourced, the better to adapt to new and unplanned problems.
 
@@ -96,7 +96,7 @@ The Interoperability and Patient Access final rule (CMS-9115-F) delivers on the 
 
 * [What SMART on FHIR Means for the Future of Healthcare](https://auth0.com/blog/what-smart-on-fhir-means-for-the-future-of-healthcare/) Auth0
 
-The Substitutable Medical Applications and Reusable Technologies (SMART) platform promises to solve these data fragmentation challenges by standardizing how patient data is accessed and shared. And given SMART’s inclusion in the [21st Century Cures Act](https://www.federalregister.gov/documents/2020/05/01/2020-07419/21st-century-cures-act-interoperability-information-blocking-and-the-onc-health-it-certification), the platform will become the standard protocol for accessing electronic health records (EHRs) in the near future.
+The Substitutable Medical Applications and Reusable Technologies (SMART) platform promises to solve these data fragmentation challenges by standardizing how patient data is accessed and shared. And given SMART’s inclusion in the [21st Century Cures Act](https://www.federalregister.gov/documents/2020/05/01/2020-07419/21st-century-cures-act-interoperability-information-blocking-and-the-onc-health-it-certification), the platform will become the standard protocol for accessing electronic health records (EHRs) in the near future. 2020-05-01
 
 ## Development
 

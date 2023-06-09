@@ -10,9 +10,9 @@ COVID-19 vaccination cards are dangerously easy to fake — what you need to kno
 
 ## Standards
 
-* [Introducing the Global COVID Certificate Network (GCCN)](https://www.lfph.io/2021/06/08/gccn/)
+* [Introducing the Global COVID Certificate Network (GCCN)](https://www.lfph.io/2021/06/08/gccn/) 2021-06-08
 
-As more and more governments adopt [major COVID certificate standards](https://www.lfph.io/2021/10/12/global-covid-certificate-landscape/) to reopen borders, the travel industry is working hard to catch up on their technology to meet the evolving travel requirements. However, there is still no shortage of complaints from travelers about their cumbersome international travel experiences.
+As more and more governments adopt [major COVID certificate standards](https://www.lfph.io/2021/10/12/global-covid-certificate-landscape/) to reopen borders, the travel industry is working hard to catch up on their technology to meet the evolving travel requirements. However, there is still no shortage of complaints from travelers about their cumbersome international travel experiences. 2021-10-12
 
 * [Vaccination Certificate Vocabulary](https://lists.w3.org/Archives/Public/public-credentials/2021Feb/0069.html) Tobias Looker
   > I'd like to propose a new work item that formally defines a vocabulary for issuing Vaccination Certificates in the form of Verifiable Credentials.
@@ -46,7 +46,7 @@ Participating and contributing in this group requires a CCI membership, open and
 ## Explainer
 
 * [A Goldilocks point for Digitised Vaccination Certificates](https://lockstep.com.au/a-goldilocks-point-for-digitised-vaccination-certificates/)
-* [Digital identity is critical in the new world since covid](https://digitalidentity.nz/2021/11/17/digital-identity-is-critical-in-the-new-world-since-covid/) DigitalID NZ
+* [Digital identity is critical in the new world since covid](https://digitalidentity.nz/2021/11/17/digital-identity-is-critical-in-the-new-world-since-covid/) DigitalID NZ 2021-11-17
 
 The value of verifiable credentials in the evolving digital identity landscape	In my recent podcast with [Brad Carr](https://www.iif.com/Staff-and-Authors/uid/46/BradCarr) of the [Institute of International Finance](https://www.iif.com/Publications/ID/4304/FRT-Episode-87-Digital-Identity-with-SecureKey-CEO-Greg-Wolfond), we discussed how digital identity and verified credentials can support a digital-first world, something that’s extremely relevant amid the current pandemic.	https://verified.me/blog/the-value-of-verifiable-credentials-in-the-evolving-digital-identity-landscape/	Verified Me
 
@@ -72,7 +72,7 @@ Until the time digital records for vaccination are as simple and do not require 
 
 Already today, credentials are being used in a wide variety of applications, such as a digital identity card, a work permit or a test certificate. We would like to explain the functionality and potential use cases for credentials by following our protagonist called Sam, who has just completed a Covid-19 rapid test.
 
-* [Our digital future and economic recovery rests on getting digital ID right](https://diacc.ca/2021/05/31/our-digital-future-and-economic-recovery-rests-on-getting-digital-id-right/)
+* [Our digital future and economic recovery rests on getting digital ID right](https://diacc.ca/2021/05/31/our-digital-future-and-economic-recovery-rests-on-getting-digital-id-right/) 2021-05-31
 
 With digital identity done right, a vaccine proof (passport) would allow Canadians to securely prove who they are, verify that they were vaccinated, and have a digital credential to use in any instance that requires it — all in a safe and secure way that does not divulge any other private health record.
 
@@ -86,10 +86,10 @@ With digital identity done right, a vaccine proof (passport) would allow Canadia
 
 Binding an identity to a Verifiable Credential remains valid beyond the point of verification by being able to match a real-time biometric data point with one which was logged at the point of verification
 
-* [Setting up digital ID regime could provide boost to post-pandemic recovery](https://diacc.ca/2021/04/22/setting-up-digital-id-regime-could-provide-boost-to-post-pandemic-recovery/)
+* [Setting up digital ID regime could provide boost to post-pandemic recovery](https://diacc.ca/2021/04/22/setting-up-digital-id-regime-could-provide-boost-to-post-pandemic-recovery/) 2021-04-22
   > If the global pandemic has shown us anything, it’s that the need for reliable and secure data is paramount as businesses, governments, and Canadians from Vancouver to Quebec City to Charlottetown and everywhere in between move online.
 
-* [Working Together on What “Good” Looks Like](https://www.hyperledger.org/blog/2021/02/12/working-together-on-what-good-looks-like) - Hyperledger
+* [Working Together on What “Good” Looks Like](https://www.hyperledger.org/blog/2021/02/12/working-together-on-what-good-looks-like) - Hyperledger 2021-02-12
   > This initiative is intended to define, in the context of test results and vaccination records for opening up borders for travel and commerce, a high bar for implementations of identity and credentialing systems to meet with regards to privacy, ethics and portability. They will also work with the implementers of such systems to converge towards common standards and governance.
 
 Immunity passports' could speed up return to work after Covid-19		https://www.theguardian.com/world/2020/mar/30/immunity-passports-could-speed-up-return-to-work-after-covid-19
@@ -132,7 +132,7 @@ This article discusses areas of law that are developing rapidly [...] our goal i
 
 This paper explores the five key challenges facing the industry and the IT investment priorities that have the greatest potential to support governments, airports, and airlines over the next 18 months to rebuild a strong and agile business.
 
-* [Covid-19 spurs national plans to give citizens digital identities](https://webcache.googleusercontent.com/search?q=cache:KsfPtESFkP4J:https://www.economist.com/international/2020/12/07/covid-19-spurs-national-plans-to-give-citizens-digital-identities)
+* [Covid-19 spurs national plans to give citizens digital identities](https://webcache.googleusercontent.com/search?q=cache:KsfPtESFkP4J:https://www.economist.com/international/2020/12/07/covid-19-spurs-national-plans-to-give-citizens-digital-identities) 2020-12-07
   > The MOSIP project, which got going in March 2018, is nested in Bangalore’s International Institute of Information Technology (IIIT-B) and endowed with funding of $16m from the Omidyar Network, the Bill and Melinda Gates Foundation and Tata Trusts.
 
 * [Digital Health Passports for COVID-19](https://socialsciences.exeter.ac.uk/media/universityofexeter/collegeofsocialsciencesandinternationalstudies/lawimages/research/Policy_brief_-_Digital_Health_Passports_COVID-19_-_Beduschi.pdf)
@@ -141,7 +141,7 @@ This paper explores the five key challenges facing the industry and the IT inves
 * [WHO goes there? Vaccination Certificates Technology and Identity](https://www.linkedin.com/pulse/who-goes-vaccination-certificates-technology-identity-stephen-wilson/) Stephen Wilson
   > Based on experience building a mobile credentials wallet for the Department of Homeland Security, I argue the proper goal of a digital vaccination certificate should be confined to representing nothing more and nothing less than the fact that someone received their jab. Such a Verifiable Credential would include the place, date and time, the type of vaccine, and the medico who administered or witnessed the jab.
 * [We don’t need immunity passports, we need verifiable credentials](https://cointelegraph.com/news/we-don-t-need-immunity-passports-we-need-verifiable-credentials)
-  > Paper certificates, PDFs, wristbands and mobile apps have all been suggested — and the former director of the Centers for Disease Control, Tom Frieden, and international human rights attorney Aaron Schwid [urged](https://www.washingtonpost.com/opinions/2020/12/21/tom-frieden-covid-immunity-passports/) the adoption of digital “immunity passports” as a way to reopen the world.
+  > Paper certificates, PDFs, wristbands and mobile apps have all been suggested — and the former director of the Centers for Disease Control, Tom Frieden, and international human rights attorney Aaron Schwid [urged](https://www.washingtonpost.com/opinions/2020/12/21/tom-frieden-covid-immunity-passports/) the adoption of digital “immunity passports” as a way to reopen the world. 2020-12-21
 
 In theory, their idea is great. In practice, it’s terrible. Or, as the Daily Beast [put](https://www.thedailybeast.com/vaccine-passports-are-big-techs-latest-dystopian-nightmare) it: “Vaccine Passports Are Big Tech’s Latest Dystopian Nightmare.”
 
@@ -172,7 +172,7 @@ The EU previously announced fully vaccinated Americans could travel this summer 
 > 
 > Our solution provides a platform for achieving exactly this, both in terms of equipping Scotland with a powerful integrated data environment and also through a framework where developers can further build on this with other apps for a myriad of other use cases. It could be tied in with the [vaccination scheduling system](https://www.ukauthority.com/articles/nhs-scotland-launches-digital-service-for-covid-19-vaccinations/) as an immediate step for example.
 
-* [Understanding the Global COVID Certificate Landscape](https://www.lfph.io/2021/10/13/divoc/) DIVOC
+* [Understanding the Global COVID Certificate Landscape](https://www.lfph.io/2021/10/13/divoc/) DIVOC 2021-10-13
 
 The DIVOC project is hosted and maintained by [India’s eGov Foundation](https://egov.org.in/) and is available as an MIT-licensed open source software package DIVOC is also supported by various multilateral funding institutions, as well as a community of software contributors and adopters in various geographies. DIVOC’s verifiable COVID credentials have also been tested for interoperability with several consumer-health and locker applications globally; and DIVOC’s certificates from the adopter countries can now be scanned/read/ingested by these domestic and international applications.
 
@@ -187,18 +187,18 @@ The DIVOC project is hosted and maintained by [India’s eGov Foundation](https:
 * [Platform Architecture for Covid-19 Digital Passports](https://digitalscot.net/architecture-for-covid-19-passports/)
   > - Appii – Appii has developed their [Health Passport](https://appii.io/health-passport/), a service that verifies your identify through a selfie photo, is populated through recording your test result at one of their partner sites (eg. Lloyds Pharmacy) and provides a digital certification.
   > - Digi.me – Digi.me is a specialist in general data sharing services and have developed a number of apps that build on this capability, including a [Covid-19 solution](https://digi.me/covid19/).
-* [Coming Soon: The ‘Vaccine Passport’](https://www.nytimes.com/2021/02/04/travel/coronavirus-vaccine-passports.html)
+* [Coming Soon: The ‘Vaccine Passport’](https://www.nytimes.com/2021/02/04/travel/coronavirus-vaccine-passports.html) 2021-02-04
   > “The global passport system took 50 years to develop,” said Drummond Reed, chief trust officer for Evernym. “Even when they wanted to add biometrics to that to make it stronger, that took over a decade to agree on just how you’re going to add a fingerprint or a facial biometric to be verified on a passport. Now, in a very short period of time, we need to produce a digital credential that can be as universally recognized as a passport and it needs an even greater level of privacy because it’s going to be digital.”
 
 * [Everything You Need to Know About “Vaccine Passports”](https://identitywoman.net/quoted-in-everything-you-need-to-know-about-vaccine-passports/) IdentityWoman \ [Mother Jones](https://www.motherjones.com/politics/2021/04/everything-you-need-to-know-about-vaccine-passports/)
-  > Andy Slavitt, a White House senior adviser for COVID response, specified at a [March 29](https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/29/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-21/) briefing that “unlike other parts of the world, the government here is not viewing its role as the place to create a passport, nor a place to hold the data of citizens.”
+  > Andy Slavitt, a White House senior adviser for COVID response, specified at a [March 29](https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/29/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-21/) briefing that “unlike other parts of the world, the government here is not viewing its role as the place to create a passport, nor a place to hold the data of citizens.” 2021-03-29
 
 * [Vaccine Passports Must Leverage Decentralized Identity Solutions](https://medium.com/ontologynetwork/vaccine-passports-must-leverage-decentralized-identity-solutions-d454f9907fe9) Ontology
 
 Decentralized identity solutions offer an ideal solution to the data privacy and identity risks associated with COVID-19 passports and other verification methods.
 
 ### Health Pass
-* [Why health passes are NOT vaccine passports – and offer greater flexibility and choice](https://blog.digi.me/2021/08/18/why-health-passes-are-not-vaccine-passports-and-offer-greater-flexibility-and-choice/) Digi Me
+* [Why health passes are NOT vaccine passports – and offer greater flexibility and choice](https://blog.digi.me/2021/08/18/why-health-passes-are-not-vaccine-passports-and-offer-greater-flexibility-and-choice/) Digi Me 2021-08-18
 
 Health passes, though, are much more flexible as they provide multiple options. They can still be used as proof of vaccination, if the user chooses to share their health information in this way.
 
@@ -226,18 +226,18 @@ Apple Announces Support for [VCI](https://vci.org/) credentials at WWDC (Almost
 
 Interoperability is a fundamental property of tech systems that are generative and respect individual privacy and autonomy. And, as a bonus, it makes people's live easier!
 
-* [Health data must be private and secure by design, always](https://blog.digi.me/2021/06/01/health-data-must-be-private-and-secure-by-design-always/)
+* [Health data must be private and secure by design, always](https://blog.digi.me/2021/06/01/health-data-must-be-private-and-secure-by-design-always/) 2021-06-01
   > But there is always time to reflect on privacy and security, and design from the ground up accordingly. At digi.me, we practice what we preach, with privacy and security always core considerations for our health data capability as well as our [Consentry health pass](https://consentry.com/) as they move forwards.
 
 * [PocketCred Verifiable Credentials](https://www.pocketcred.com/)
   > Pravici PocketCred (formerly VeriCred) is built on Blockchain technology, specifically to address credential issuance and verification, such as one for COVID-19 vaccines. We at Pravici have been working to build a digital pass that citizens can carry in their mobile device or digital card to prove that they have taken a test or vaccine. Our software application features user-friendly creation of schemas* and proof templates, as well as QR code technology for credential issuance and verification.
 
-* [Digi.me creates first working UK vaccine passport capability](https://blog.digi.me/2021/03/29/digi-me-creates-first-working-uk-vaccine-passport-capability/)
+* [Digi.me creates first working UK vaccine passport capability](https://blog.digi.me/2021/03/29/digi-me-creates-first-working-uk-vaccine-passport-capability/) 2021-03-29
   > Digi.me’s health pass is built on the same principles as our existing secure data exchange platform, and can be displayed on demand on a user’s phone. It is verified fully private, secure and tamper-proof due to multiple robust security measures including encryption.
 
-This health pass has been designed to be fully interoperable with other international standards, such as the UN Good Health Pass Collaborative, of which [digi.me is a member](https://blog.digi.me/2021/02/25/digi-me-joins-good-health-pass-collaborative-to-help-build-a-safe-travelling-future/).
+This health pass has been designed to be fully interoperable with other international standards, such as the UN Good Health Pass Collaborative, of which [digi.me is a member](https://blog.digi.me/2021/02/25/digi-me-joins-good-health-pass-collaborative-to-help-build-a-safe-travelling-future/). 2021-02-25
 
-* [Digi.me partners with Healthmark to enable Covid testing and verified result reporting](https://blog.digi.me/2021/02/16/digi-me-partners-with-healthmark-to-enable-covid-testing-and-verified-result-reporting/)
+* [Digi.me partners with Healthmark to enable Covid testing and verified result reporting](https://blog.digi.me/2021/02/16/digi-me-partners-with-healthmark-to-enable-covid-testing-and-verified-result-reporting/) 2021-02-16
   > Consentry healthpass capability is an end-to-end solution which enables users to take a self-administered PCR saliva test, send it in for processing, and then receive an in-app result. Crucially, Consentry also generates a certified and dated travel certificate, together with qualifying details of the test taken, which can be printed, shared securely or displayed as needed.
 ### MedCreds
 - [Proofmarket](https://docs.google.com/document/d/1hlR_2yp7EJQqYvxm8mNY-KNgwScTsClKDp6W6yw33Ic/edit?usp=sharing) (Medcreds)
@@ -271,7 +271,7 @@ Together SITA and Indicio.tech utilized Hyperledger Aries, Ursa, and Indy to cre
 
 ## Guidance
 
-* [how to re-open our economy while protecting privacy](https://diacc.ca/2021/01/05/protecting-privacy-while-reopening-economies/) Joni Brennan of DIACC & IdentityWoman
+* [how to re-open our economy while protecting privacy](https://diacc.ca/2021/01/05/protecting-privacy-while-reopening-economies/) Joni Brennan of DIACC & IdentityWoman 2021-01-05
 > Without transparent operational guidance, people’s privacy and personal freedoms may be compromised. By having a set of operational rules, decision makers will have the capacity to make better decisions that will enable the public to trust that the tools being implemented have been designed to respect their best interests.
 
 * [Getting Privacy Right with Verifiable Health Credentials](https://www.evernym.com/health-credentials-webinar/)
@@ -279,10 +279,10 @@ Together SITA and Indicio.tech utilized Hyperledger Aries, Ursa, and Indy to cre
 
 ## Demo - Trials 
 
-* [British Airways to trial Verifly digital health passport](https://www.businesstraveller.com/business-travel/2021/01/29/british-airways-to-trial-verifly-digital-health-passport/)
+* [British Airways to trial Verifly digital health passport](https://www.businesstraveller.com/business-travel/2021/01/29/british-airways-to-trial-verifly-digital-health-passport/) 2021-01-29
   > The trial begins on February 4 on all of the carrier’s transatlantic routes between London and the US (currently New York JFK, Los Angeles, San Francisco, Boston, Chicago, Dallas, Miami, Washington, Houston and Seattle).
 > 
-> It will be run in conjunction with joint business and Oneworld partner American Airlines, [which is already using the technology on international routes to the US.](https://www.businesstraveller.com/business-travel/2021/01/17/american-airlines-launches-verifly-health-passport-for-travel-to-the-us/)
+> It will be run in conjunction with joint business and Oneworld partner American Airlines, [which is already using the technology on international routes to the US.](https://www.businesstraveller.com/business-travel/2021/01/17/american-airlines-launches-verifly-health-passport-for-travel-to-the-us/) 2021-01-17
 
 
 ### Good Health Pass
@@ -295,7 +295,7 @@ Good Health Pass Blueprint and the Global Covid Credentials Initiative by LFPH p
 * [The Politics of Vaccination Passports](https://www.windley.com/archives/2021/04/the_politics_of_vaccination_passports.shtml) Windley
   > For example, I’d prefer a vaccination passport that is built according to principles of the Good Health Pass collaborative than, say, one built by Facebook, Google, Apple, or Amazon. Social convention, and regulation where necessary, can limit where such a passport is used. It’s an imperfect system, but social systems are.
 
-* [ToIP Foundation Hosts the Interoperability Working Group for Good Health Pass](https://trustoverip.org/blog/2021/04/12/toip-foundation-hosts-the-interoperability-working-group-for-good-health-pass/)
+* [ToIP Foundation Hosts the Interoperability Working Group for Good Health Pass](https://trustoverip.org/blog/2021/04/12/toip-foundation-hosts-the-interoperability-working-group-for-good-health-pass/) 2021-04-12
   > The nine drafting groups collaborating within the new Working Group are:
 
 1. [Paper Based Credentials](https://wiki.trustoverip.org/display/HOME/Paper+Based+Credentials+Drafting+Group) will define how a paper-based alternative can be created for any digital health pass so access will be available to all.
@@ -398,7 +398,7 @@ This is the Use Case Implementation Workstream of the [COVID Credentials Initia
 
 ## User Experience
 
-* [Covid has accelerated Canadians’ demand for digital ID](https://diacc.ca/2021/02/16/covid-has-accelerated-canadians-demand-for-digital-id/) DIACC
+* [Covid has accelerated Canadians’ demand for digital ID](https://diacc.ca/2021/02/16/covid-has-accelerated-canadians-demand-for-digital-id/) DIACC 2021-02-16
   > three-quarters of the population feels it’s important to have a secure, trusted and privacy-enhancing digital ID to safely and securely make transactions online. The majority of Canadians believe it is important for federal and provincial governments to move quickly on enabling digital ID in a safe and secure manner, according to the survey.
 
 * [Innovation in Digital Identity and Credentials in the Post-Covid World](https://academy.affinidi.com/innovation-in-digital-identity-and-credentials-in-the-post-covid-world-f182a5743ce8) Affinidy
@@ -417,7 +417,7 @@ We are starting a new research project — and we’d like you to join us on the
 
 But who is the “we”? The research asks exactly that — who is the “we” that needs to [make the platform work better for women](https://medium.com/caribou-digital/female-livelihoods-in-the-gig-economy-tensions-and-opportunities-f14982b6aaad)?
 
-* [The evolution of Covid testing peaks with at-home rapid antigen test-and-show capability](https://blog.digi.me/2021/08/20/the-evolution-of-covid-testing-peaks-with-at-home-rapid-antigen-test-and-show-capability/) Digi Me
+* [The evolution of Covid testing peaks with at-home rapid antigen test-and-show capability](https://blog.digi.me/2021/08/20/the-evolution-of-covid-testing-peaks-with-at-home-rapid-antigen-test-and-show-capability/) Digi Me 2021-08-20
 
 fixes the pain points of other testing processes – especially as infectious and asymptomatic people can test without travelling – is cheap, eminently scalable, and can be used as secure proof of Covid health status where needed.
 

@@ -40,9 +40,9 @@ In Stephenson’s “Snowcrash” Hiro Protagonist, the aptly named protagonist 
 
 When you create your metaverse avatar, who owns it? Is it yours, or does the platform own it? This question is very fundamental for the future of digital services and human rights. It’s also a very practical and technical question in terms of how we build these platforms and databases.
 
-* [Why Microsoft may beat Zuckerberg to the metaverse](https://venturebeat.com/2021/11/12/why-microsoft-may-beat-zuckerberg-to-the-metaverse/) VentureBeat
+* [Why Microsoft may beat Zuckerberg to the metaverse](https://venturebeat.com/2021/11/12/why-microsoft-may-beat-zuckerberg-to-the-metaverse/) VentureBeat 2021-11-12
 
-When comparing Meta — [formerly Facebook](https://venturebeat.com/2021/10/28/facebook-stops-just-short-of-rebranding-to-the-web/) — and Microsoft’s approaches to the metaverse, it’s clear Microsoft has a much more grounded and realistic vision. Although Meta currently leads in the provision of virtual reality (VR) devices (through its ownership of what was previously called Oculus), Microsoft is adapting technologies that are currently more widely used.
+When comparing Meta — [formerly Facebook](https://venturebeat.com/2021/10/28/facebook-stops-just-short-of-rebranding-to-the-web/) — and Microsoft’s approaches to the metaverse, it’s clear Microsoft has a much more grounded and realistic vision. Although Meta currently leads in the provision of virtual reality (VR) devices (through its ownership of what was previously called Oculus), Microsoft is adapting technologies that are currently more widely used. 2021-10-28
 * [Self Sovereign e-ID Schemes & Privacy Challenges](https://www.youtube.com/watch?v=1vgNzSDn554) Crypto Valley Conference 2021
 
 Kurt Nielsen & Nagib Aouini from Partisia Blockchain
@@ -56,7 +56,7 @@ Broadly speaking, ENS domain names also belong to a kind of decentralized identi
 Web 3.0 encourages users participation and restore the control over their digital identity and assets
 
 
-* [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html) Moxie Marlinspike
+* [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html) Moxie Marlinspike 2022-01-07
 
 This guy gets it ^^^^^
 
@@ -85,7 +85,7 @@ Passwordless authentication is a fundamental shift in how people will access the
 In [The crypto-communists behind the Web3 revolution](https://www.protocol.com/fintech/crypto-communists), Benjamin Pimentel argues that "The future of decentralized finance echoes a decidedly Marxist vision of the future." He references various Silicon Valley icons like Jack Dorsey, Marc Andreessen, Elon Musk, and others, comparing their statements on Web3 and crypto with the ideology of communism.
 
 
-* [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
+* [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html) 2022-01-07
 
 … to have aspects that have relevance to the DID/VC work.
 
@@ -113,7 +113,7 @@ Tweets with Annoucements:
 
 Moxie argues that protocols evolve slowly, while platforms evolve quickly. That’s because a platform can make decisions without waiting for a whole crowd of others to reach consensus. But here’s the thing — some protocols don’t need to evolve quickly. As long as a ‘base protocol’ is versatile enough to let people create and express things in an unlimited range of fit-for-purpose application protocols, it can be as stale and boring as it likes. And it’s precisely the decentralisation, versatility, and stability of these base protocols — HTTP, email, and yes, Bitcoin and Ethereum — that allow platforms to innovate so quickly on top of them.
 
-* [The Third Web](https://tante.cc/2021/12/17/the-third-web/)
+* [The Third Web](https://tante.cc/2021/12/17/the-third-web/) 2021-12-17
 
 A good explanation and good critique of Web3
 
@@ -166,7 +166,7 @@ When we dine at a restaurant in the physical world, we do not do so within some 
 
 In sum, SSI saves time, enhances security, and returns personal data ownership to individuals, thereby lessening the power of GAFA [Google, Apple, Facebook, and Amazon].
 
-* [The Decentralized Web: An Introduction](https://blog.archive.org/2022/02/15/the-decentralized-web-an-introduction/) Archive.org
+* [The Decentralized Web: An Introduction](https://blog.archive.org/2022/02/15/the-decentralized-web-an-introduction/) Archive.org 2022-02-15
 
 Providing that baseline of knowledge is the goal of a series of six workshops called [“Imagining a Better Online World: Exploring the Decentralized Web](https://metro.org/decentralizedweb).”
 
@@ -265,7 +265,7 @@ Ontology is bringing Ont ID to Polkadot users, as part of an initiative to bring
 
 ### Solid - Inrupt
 
-* [TBL: Out to Remake the Digital World](https://www.nytimes.com/2021/01/10/technology/tim-berners-lee-privacy-internet.html).
+* [TBL: Out to Remake the Digital World](https://www.nytimes.com/2021/01/10/technology/tim-berners-lee-privacy-internet.html). 2021-01-10
 
 A story appeared in the NY Times about Tim Berners-Lee’s vision for the web and Solid-Inrupt that are working towards fulfilling it. The article included a quote from Kaliya, and has stirred up an active thread on the CCG mailing list.
 
@@ -329,7 +329,7 @@ On March 11, 2022, I was a panelist on The Metaverse: The Emperor’s New Clothe
 
 DAOs are, I think, one of the best illustrations of the problem with a lot of these Web3 projects: They are trying to find technological solutions that will somehow codify very complex social structures. A lot of them also seem to operate under the assumption that everyone is acting in good faith, and that project members’ interests will generally align—a baffling assumption given the amount of bad actors in the crypto space.
 
-* [What you need to know about the state of the metaverse today](https://venturebeat.com/2022/03/19/what-you-need-to-know-about-the-state-of-the-metaverse-today/) Venture Beat
+* [What you need to know about the state of the metaverse today](https://venturebeat.com/2022/03/19/what-you-need-to-know-about-the-state-of-the-metaverse-today/) Venture Beat 2022-03-19
 
 Many people are still struggling to comprehend exactly what the metaverse is and what promise it will deliver. On a conceptual level, the metaverse has been positioned as the next generation internet that provides a way for us to make our physical lives seamlessly integrate with our virtual lives, creating real-time immersive experiences
 
@@ -342,7 +342,7 @@ I spoke with White via email about her views on Web3 fixtures such as DAOs (dist
 Although metaverse initiatives are still in their infancy, they are rapidly scaling up leveraging technologies such as blockchain, augmented reality, virtual reality, Internet of Things, artificial intelligence and digital twins to redefine our digital capabilities.
 
 
-* [12 Ways Crypto and Blockchain Tech Will Change the World (and Boost Your Bottom Line)](https://moneymorning.com/2022/04/08/12-ways-crypto-and-blockchain-tech-will-change-the-world-and-boost-your-bottom-line/)
+* [12 Ways Crypto and Blockchain Tech Will Change the World (and Boost Your Bottom Line)](https://moneymorning.com/2022/04/08/12-ways-crypto-and-blockchain-tech-will-change-the-world-and-boost-your-bottom-line/) 2022-04-08
 
 No. 7: Protecting Our Personal Data
 
@@ -412,7 +412,7 @@ Blockchain analytics solutions have been a critical part of enabling the crypto 
 
 In MetaMUI, users can create their own DID by submitting their personal information(KYC) to one of the Sidechain Operators, and the operator will decide whether approving or denying the request depending on the status of the submitted data. Once the request is approved, the user’s personal data get hashed, and the hashed data is safely stored in the user’s device.
 
-* [Identity and authentication in the metaverse](https://venturebeat.com/2022/01/26/identity-and-authentication-in-the-metaverse/) VentureBeat
+* [Identity and authentication in the metaverse](https://venturebeat.com/2022/01/26/identity-and-authentication-in-the-metaverse/) VentureBeat 2022-01-26
 
 “The interest of the individual in privacy may not be aligned with their interest in the metaverse provider,” Casey explained. “We have plenty of history of this through current social media. It’s not obvious how these misaligned, structural interests will yield much different results in the metaverse.”
 
@@ -482,7 +482,7 @@ web3 — which combines the decentralized, communitygoverned ethos of the first 
 
 Building a better internet won't happen by chance or simply maximizing freedom. We have to build systems that support justice. How can we do that?
 
-* [Who Are We in the Metaverse, and How Do We Prove It?](https://www.coindesk.com/layer2/metaverseweek/2022/05/27/who-are-we-in-the-metaverse-and-how-do-we-prove-it/) Coindesk
+* [Who Are We in the Metaverse, and How Do We Prove It?](https://www.coindesk.com/layer2/metaverseweek/2022/05/27/who-are-we-in-the-metaverse-and-how-do-we-prove-it/) Coindesk 2022-05-27
 
 Humans are tribal, we want to belong and integrate ourselves in like-minded communities that are focused on the things we are passionate about. And, just as we have since the dawn of humanity, we submit to our innate urges to form tribes, develop communication standards and protect one another.
 
@@ -509,7 +509,7 @@ people think a token is an easy way to raise money, which it is, relative to man
 
 Let’s transition our knowledge from Web2 to Web3 and know which technologies support what.
 
-* [Who Are We in the Metaverse, and How Do We Prove It?](https://www.coindesk.com/layer2/metaverseweek/2022/05/27/who-are-we-in-the-metaverse-and-how-do-we-prove-it/) Coindesk
+* [Who Are We in the Metaverse, and How Do We Prove It?](https://www.coindesk.com/layer2/metaverseweek/2022/05/27/who-are-we-in-the-metaverse-and-how-do-we-prove-it/) Coindesk 2022-05-27
 
 we must work to preserve the freedom of individuals to self-identify by building those technical capabilities into the DNA of Web 3.
 
@@ -622,11 +622,11 @@ Critique of the SoulBound Tokeh Paper
 Even little bits of what might be considered ‘mostly harmless’ private information when correlated can present unexpected privacy problems. What this means is that the only information safely applicable for use in a Soul Bound Token is so impersonal as to be of little practical use.
 
 
-* [Tether, Bitfinex, Hypercore Launch Encrypted Communications Protocol Holepunch](https://www.coindesk.com/tech/2022/07/25/tether-bitfinex-hypercore-launch-encrypted-communications-protocol-holepunch/) Coindesk
+* [Tether, Bitfinex, Hypercore Launch Encrypted Communications Protocol Holepunch](https://www.coindesk.com/tech/2022/07/25/tether-bitfinex-hypercore-launch-encrypted-communications-protocol-holepunch/) Coindesk 2022-07-25
 
 Video-calling app Keet, the first app built on Holepunch, will integrate built-in payments powered by Bitcoin's Lightning Network.
 
-* [Surprise! The metaverse is going to suck for privacy](https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/07/29/metaverse_privacy_study/) The A Register
+* [Surprise! The metaverse is going to suck for privacy](https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/07/29/metaverse_privacy_study/) The A Register 2022-07-29
 
 “[Exploring the Unprecedented Privacy Risks of the Metaverse](https://arxiv.org/abs/2207.13176)," boffins at UC Berkeley in the US and the Technical University of Munich in Germany play-tested an "escape room" virtual reality (VR) game
 
@@ -802,13 +802,13 @@ Featuring Verifiable Credentials  :)
 
 Because it’s visual and experiential, the metaverse is “a little bit easier to grasp from a leadership perspective,” said Cutlan. “I don’t know anyone who saw early days blockchain demos and said, ‘I need to show 20 of my friends’.”
 
-* [IEEE Blockchain Chair Urges Speedy, Collaborative Open Metaverse Deployment](https://wrenchinthegears.com/2022/09/27/ieee-blockchain-chair-urges-speedy-collaborative-open-metaverse-deployment-before-mass-dissent-erupts/) Wrench in the Gears
+* [IEEE Blockchain Chair Urges Speedy, Collaborative Open Metaverse Deployment](https://wrenchinthegears.com/2022/09/27/ieee-blockchain-chair-urges-speedy-collaborative-open-metaverse-deployment-before-mass-dissent-erupts/) Wrench in the Gears 2022-09-27
 
 Warning of dystopian nightmares
 
 DAO
 
-* [DAOs are not corporations: where decentralization in autonomous organizations matters](https://vitalik.ca/general/2022/09/20/daos.html) Vitalik Buterin
+* [DAOs are not corporations: where decentralization in autonomous organizations matters](https://vitalik.ca/general/2022/09/20/daos.html) Vitalik Buterin 2022-09-20
 
 * [A Prehistory of DAOs: Cooperatives, gaming guilds, and the networks to come](https://gnosisguild.mirror.xyz/t4F5rItMw4-mlpLZf5JQhElbDfQ2JRVKAzEpanyxW1Q) GnosisGuild
 

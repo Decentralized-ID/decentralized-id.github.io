@@ -38,7 +38,7 @@ My use case is I want to operate [https://twitter.com/permanentcpu](https://twit
 
 Coop says more about the governance (democracy + open membership) than the business model, IMO
 
-* [https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer](https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer)
+* [https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer](https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer) 2020-08-31
 
 * [https://platform.coop](https://platform.coop)
 
@@ -100,7 +100,7 @@ When we talk about governance, we should be using the language of values and the
 
 Internet governance, human rights, digital identity, Identity for All, Guardianship
 
-* [Universal Declaration of Digital Identity](https://www.techforjustice.org/2020/08/20/universal-declaration-of-digital-identity/)
+* [Universal Declaration of Digital Identity](https://www.techforjustice.org/2020/08/20/universal-declaration-of-digital-identity/) 2020-08-20
 
 The UDDI is a call to action to IIW, which we've said before, to adopt a set of universal principles which can be used now to bring  Identity for All  projects to fruition.
 
@@ -277,14 +277,14 @@ Questions started at about [46:30]  – though some questions came earlier. We 
 - “Can a third party discover who I trust from a trust registry?”
 - How will interoperability work between trust registries?
 
-* [LAYER 1 UTILITIES: AN UNDERGROUND NETWORK CONNECTING ALL SSI ECOSYSTEMS](https://trustoverip.org/blog/2022/03/04/layer-1-utilities-an-underground-network-connecting-all-ssi-ecosystems/) Trust Over IP
+* [LAYER 1 UTILITIES: AN UNDERGROUND NETWORK CONNECTING ALL SSI ECOSYSTEMS](https://trustoverip.org/blog/2022/03/04/layer-1-utilities-an-underground-network-connecting-all-ssi-ecosystems/) Trust Over IP 2022-03-04
 
 - Understand: [A general framework for choosing which Layer 1 Utility and did method to utilise](https://docs.google.com/document/d/10NGAtlov49dbaDX96C0F4MdRrr20eHiE4RSZfJu0oXU/edit#heading=h.3e0mwiwnhg9n)
 - Compare: [A comparison chart of all Layer 1 Utilities and identity overlay networks](https://docs.google.com/spreadsheets/d/18MpvpFPLjL2I7RSFI44heWrrvf3l9pAArzhznAPFVAQ/edit#gid=0)
 - Comply: [A guidance document for data protection and GDPR compliance](https://docs.google.com/document/d/11KkdraiY9oASjU-H91MGxJ7-mNyhnCsfNSG4MFq8Qec/edit)
 - Innovate: DeFi compliance on top of Layer 1 Utilities ([Shyft](https://www.shyft.network/), [Notabene](https://notabene.id/), [Centre](https://www.centre.io/)), payments for Verifiable Credentials ([cheqd](https://www.cheqd.io/), [Kilt](https://www.kilt.io/), [Velocity](https://www.velocitynetwork.foundation/self-sovereign-identity-ssi-and-the-velocity-network/)), overlay networks ([did:ion](https://identity.foundation/ion/), [did:tz](https://did-tezos-draft.spruceid.com/), [did:orb](https://securekey.com/securekeys-new-ledger-agnostic-solution-orb-helps-solve-decentralized-identifier-challenges/)), [KERI](https://keri.one/) and self-certifying identifiers, self-executable governance (to name a few!) are all Layer 1 Utility innovations on the horizon. Let us know what you’d like to see going forward and how we can build guidance and documentation around it!
 
-* [The Age of Optionality—and its costs](https://blogs.harvard.edu/doc/2022/04/02/age-of-optionality/) Doc Searls
+* [The Age of Optionality—and its costs](https://blogs.harvard.edu/doc/2022/04/02/age-of-optionality/) Doc Searls 2022-04-02
 
 We plan to relieve some of that oblivity by [having Shoshana lead the final salon](https://events.iu.edu/ostromworkshop/event/291452-beyond-the-web-salon-series-shoshana-zuboff) in our [Beyond the Web series](https://ostromworkshop.indiana.edu/events/salon-series/index.html) at Indiana University’s [Ostrom Workshop](https://ostromworkshop.indiana.edu/). To prepare for that, Joyce and I spoke with Shoshana for more than an hour and a half last night, and are excited about her optimism toward restoring the public commons and invigorating democracy in our still-new digital age.
 
@@ -318,7 +318,7 @@ Decentralized Ecosystem Governance makes verifying data an easy-to-play game of 
 
 We want to start a conversation on Trust Registries and get people thinking about how Trust Registries will help answer the hard questions an ecosystem needs to create a whole experience [[tweetstorm](https://threadreaderapp.com/thread/1569093372920614914.html)]
 
-* [DAOs are not corporations: where decentralization in autonomous organizations matters](https://vitalik.ca/general/2022/09/20/daos.html) Vitalik Buterin
+* [DAOs are not corporations: where decentralization in autonomous organizations matters](https://vitalik.ca/general/2022/09/20/daos.html) Vitalik Buterin 2022-09-20
 
 Because DAOs do not have a sovereign above them, and are often explicitly in the business of providing services (like currency and arbitration) that are typically reserved for sovereigns, it is precisely the design of sovereigns (political science), and not the design of corporate governance, that DAOs have more to learn from.
 

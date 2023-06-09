@@ -3,7 +3,7 @@ published: false
 ---
 
 # Guardianship
-* [Guardianship In Self-Sovereign Identity](http://thedinglegroup.com/blog/2020/11/30/guardianship-in-self-sovereign-identity)
+* [Guardianship In Self-Sovereign Identity](http://thedinglegroup.com/blog/2020/11/30/guardianship-in-self-sovereign-identity) 2020-11-30
 
 * [Video] [Vienna Digital Identity Meetup #17](https://vimeo.com/482803989)
   > Guardianship is a complex topic, with many subtleties and layers [...]  In this first event on this topic, Philippe has provided an overview of how SSI and Guardianship fit together and how SSI meets the lifecycle stages (Inception, Creation, Usage and Termination) of guardianship.
@@ -202,7 +202,7 @@ Links that came up during the call:
 
 * [https://link.springer.com/chapter/10.1007/978-3-540-45146-4_8](https://link.springer.com/chapter/10.1007/978-3-540-45146-4_8)
 
-* [Let’s Go - Together!: Does international travel only ever involve independent adults?](https://trustoverip.org/blog/2021/11/24/lets-go-together/) ToIP
+* [Let’s Go - Together!: Does international travel only ever involve independent adults?](https://trustoverip.org/blog/2021/11/24/lets-go-together/) ToIP 2021-11-24
 
 Applying the developed models of guardianship, using the flexibility of Verifiable Credentials and the trusted mechanisms of sharing VCs, can provide the ability to add guardianship credentials into the travel process (or not) without breaking the existing approach and complicating the technical details defined in the Blueprint.
 

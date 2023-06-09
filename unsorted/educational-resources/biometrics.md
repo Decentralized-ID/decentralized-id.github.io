@@ -24,12 +24,12 @@ Veridium is encouraging more organizations to embrace contactless fingerprint te
 # Biometrics
 * [the link between biometrics and PII needs careful management](https://lists.w3.org/Archives/Public/public-credentials/2021Sep/0000.html)  Daniel Hardman (Wednesday, 1 September)
 
-* [This is the real story of the Afghan biometric databases abandoned to the Taliban | MIT Technology Review](https://www.technologyreview.com/2021/08/30/1033941/afghanistan-biometric-databases-us-military-40-data-points/)
+* [This is the real story of the Afghan biometric databases abandoned to the Taliban | MIT Technology Review](https://www.technologyreview.com/2021/08/30/1033941/afghanistan-biometric-databases-us-military-40-data-points/) 2021-08-30
 
 * [Biometric and digital identity](https://iiw.idcommons.net/3H/_Biometric_and_digital_identity) by Robert Mitwicki / Adrian Gropper
 
 Background document from session 1A [http://bit.ly/biometricVC](http://bit.ly/biometricVC)
-* [Exploring Facial Biometrics](https://diacc.ca/2020/12/16/exploring-facial-biometrics-what-is-it/)
+* [Exploring Facial Biometrics](https://diacc.ca/2020/12/16/exploring-facial-biometrics-what-is-it/) 2020-12-16
   > for the purposes of allowing a user to positively identify themselves from their own device, only face verification and face authentication are employed. Face verification creates trust, while face authentication maintains it. Both functions are covered in the Pan-Canadian Trust Framework™ that is intended to support a robust digital identity, trust ecosystem that will allow all Canadians to do more online, in a safer, more secure, and confident way.
 
 * [China’s Supreme Court Bars Use of Facial Recognition Without Consent](https://findbiometrics.com/chinese-supreme-court-bars-use-facial-recognition-without-consent-073007/)
@@ -49,11 +49,11 @@ In a move that is likely to please privacy advocates across the country, the Bid
 * [US Lawmakers Ask Government to Deliver Better Digital Identity Framework](https://findbiometrics.com/us-lawmakers-ask-government-deliver-better-digital-identity-framework-070706/)
 
 witnesses should weigh any risks of voice and facial recognition software, which has historically exhibited bias against women and people of color, versus the potential benefits. This hearing will also discuss the future of digital identity frameworks, interoperability requirements and standards, and how the emerging technologies such as AI and distributed ledger technology could contribute to building a secure and effective digital ID.
-* [Guidance on the Acceptable Use of Biometrics – DIACC Special Interest Group Insights](https://diacc.ca/2022/01/13/guidance-on-the-acceptable-use-of-biometrics/) DIACC
+* [Guidance on the Acceptable Use of Biometrics – DIACC Special Interest Group Insights](https://diacc.ca/2022/01/13/guidance-on-the-acceptable-use-of-biometrics/) DIACC 2022-01-13
 
 With input from public and private sector DIACC members and liaisons, the following guidance was created as a recommendation that the DIACC’s Trust Framework Expert Committee (TFEC) agreed to consider. Specified business, legal, and technical process requirements will be identified and considered by the TFEC for inclusion in future versions of the PCTF.
 
-* [What is Web3 and Why It Matters](https://dionhinchcliffe.com/2022/01/11/what-is-web3-and-why-it-matters/) Dion Hinchcliffe
+* [What is Web3 and Why It Matters](https://dionhinchcliffe.com/2022/01/11/what-is-web3-and-why-it-matters/) Dion Hinchcliffe 2022-01-11
 
 * [OpenSea, Web3, and Aggregation Theory](https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/) Stratechery
 
@@ -83,13 +83,13 @@ Web3Auth aggregates OAuth (Google, Twitter, Discord) logins, different wallets, 
 
 Metaverse
 
-* [A Digital Identity Fit For The Metaverse](https://www.forbes.com/sites/alastairjohnson/2022/01/07/a-digital-identity-fit-for-the-metaverse/?sh=70980509184b) Forbes
+* [A Digital Identity Fit For The Metaverse](https://www.forbes.com/sites/alastairjohnson/2022/01/07/a-digital-identity-fit-for-the-metaverse/?sh=70980509184b) Forbes 2022-01-07
 
 The SSI model has an individual’s value — be it crypto, in-game items, or other NFTs — directly tied to their identity. It will be accessible with a simple click for physical services, like an Uber, as well as digital ones, like using a digital asset exchange.
 
 * [Avatars May Use SSI In Metaverse To Prove Identity](https://labs.hypersign.id/posts/metaverse-and-did/) Hypersign ID
 
-Metaverse has been in the news for quite some time now. Seems like the next “buzzword” after “blockchain” in the tech space. The tech got a surge especially after [Facebook decided to change its name to Meta](https://www.cnbc.com/2021/10/28/facebook-changes-company-name-to-meta.html). In this blog, we will understand what is Metaverse (a very basic intro) and its relationship with digital identities. The focus will be on explaining why decentralized digital identities are an important tool for Metaverse to replicate the real world.
+Metaverse has been in the news for quite some time now. Seems like the next “buzzword” after “blockchain” in the tech space. The tech got a surge especially after [Facebook decided to change its name to Meta](https://www.cnbc.com/2021/10/28/facebook-changes-company-name-to-meta.html). In this blog, we will understand what is Metaverse (a very basic intro) and its relationship with digital identities. The focus will be on explaining why decentralized digital identities are an important tool for Metaverse to replicate the real world. 2021-10-28
 
 * [Self Sovereign Identity and Web3: From the metaverse to real life](https://medium.com/@talao_io/self-sovereign-identity-and-web3-from-the-metaverse-to-real-life-8f9ef4daae56) Talao
 

@@ -4,7 +4,7 @@ published: false
 
 # Meta
 
-* [Why do you care about identity?](https://wider.team/2022/01/18/phil-cares-about-identity/) Phil Wolff
+* [Why do you care about identity?](https://wider.team/2022/01/18/phil-cares-about-identity/) Phil Wolff 2022-01-18
 
 I love that it’s more than a technical discussion. It’s laws. Sociology. Politics and civics. Commerce. Psychology. Ethics. History. Economy. All the humanities.
 
@@ -20,7 +20,7 @@ Hank explores different ways of understanding identity – including the Indisce
 * [Our Language Reflects Our Values](https://auth0.com/blog/our-language-reflects-our-values/) Auth0
   > At Auth0, we believe that consistent, iterative improvement leads to incredible results. We recognize that addressing our use of biased language is an ongoing process rather than a one-and-done effort. With our guidelines and principles in place, all employees are empowered to address biased language as they find it. We all have an obligation to be intentional with our language and consider how all words we use have the potential to reflect our values and beliefs.
 * [Removing Anonymity Online Would Risk The Most Vulnerable Users](https://anonyome.com/2021/04/removing-anonymity-online-would-risk-the-most-vulnerable-users/) Anonym
-  > We all know online abuse can be incredibly damaging and [Pew](https://www.pewresearch.org/internet/2017/07/11/online-harassment-2017/) puts it like this: “In its milder forms, [online abuse] creates a layer of negativity that people must sift through as they navigate their daily routines online. At its most severe, it can compromise users’ privacy, force them to choose when and where to participate online, or even pose a threat to their physical safety.”
+  > We all know online abuse can be incredibly damaging and [Pew](https://www.pewresearch.org/internet/2017/07/11/online-harassment-2017/) puts it like this: “In its milder forms, [online abuse] creates a layer of negativity that people must sift through as they navigate their daily routines online. At its most severe, it can compromise users’ privacy, force them to choose when and where to participate online, or even pose a threat to their physical safety.” 2017-07-11
 Ecosystem 
 
 * [OWI Digital Identity Landscape: 2021](https://oneworldidentity.com/2021-digital-identity-landscape/)

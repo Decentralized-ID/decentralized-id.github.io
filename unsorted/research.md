@@ -3,6 +3,8 @@ published: false
 ---
 
 # Research
+* [Deployment of a Blockchain-Based Self-Sovereign Identity - Delft](https://arxiv.org/pdf/1806.01926.pdf)
+  > Digital identity is unsolved: after many years of research there is still no trusted communication over the Internet. To provide identity within the context of mutual distrust, this paper presents a blockchain-based digital identity solution. Without depending upon a single trusted third party, the proposed solution achieves passport-level legally valid identity. This solution for making identities Self-Sovereign, builds on a generic provable claim model for which attestations of truth from third parties need to be collected. The claim model is then shown to be both blockchain structure and proof method agnostic. Four different implementations in support of these two claim model properties are shown to offer sub-second performance for claim creation and claim verification. Through the properties of Self-Sovereign Identity, legally valid status and acceptable performance, our solution is considered to be fit for adoption by the general public.
 * [Leveraging Self-Sovereign Identity, Blockchain, and Zero-Knowledge Proof to Build a Privacy-Preserving Vaccination Pass](https://arxiv.org/pdf/2202.09207.pdf) Maurício Barrosa, Frederico Schardong, Ricardo Felipe Custódio
 
 This solution allows users to prove that they are vaccinated for different pathogens without revealing their identity. The architecture is loosely coupled, allowing components to be exchanged, which we discuss when we present the implementation of a working prototype.

@@ -69,13 +69,13 @@ Questions for discussion:
 
 https://unece.org/trade/uncefact/guidance-material
 
-* [Kiva Protocol, Built on Hyperledger Indy, Ursa and Aries, Powers Africa’s First Decentralized National ID system](https://www.hyperledger.org/blog/2021/01/20/kiva-protocol-built-on-hyperledger-indy-ursa-and-aries-powers-africas-first-decentralized-national-id-system) ([CASE STUDY](https://www.hyperledger.org/wp-content/uploads/2021/01/Hyperledger_CaseStudy_Kiva_Printable.pdf))
+* [Kiva Protocol, Built on Hyperledger Indy, Ursa and Aries, Powers Africa’s First Decentralized National ID system](https://www.hyperledger.org/blog/2021/01/20/kiva-protocol-built-on-hyperledger-indy-ursa-and-aries-powers-africas-first-decentralized-national-id-system) ([CASE STUDY](https://www.hyperledger.org/wp-content/uploads/2021/01/Hyperledger_CaseStudy_Kiva_Printable.pdf)) 2021-01-20
   > Since the launch of Kiva Protocol, Davie says global regulators have made significant progress in terms of how they are considering digital identity and eKYC verifications. He sees a global movement towards user-owned and -controlled data, better privacy, and more universal access.
 > 
 > *[...]*
 > As of today, Kiva is focusing on building additional ecosystem applications and services to make it easier for all stakeholders to access and use Kiva Protocol. Much of this is being contributed upstream into the Hyperledger Indy and Aires projects, with the remaining components hosted in Kiva’s repository.
 
-* [The Verifiable Economy: Fully Decentralized Object (FDO) Example: Bob’s UDID Document](https://hyperonomy.com/2021/06/15/the-verifiable-economy-fully-decentralized-object-fdo-example-bobs-udid-document/)
+* [The Verifiable Economy: Fully Decentralized Object (FDO) Example: Bob’s UDID Document](https://hyperonomy.com/2021/06/15/the-verifiable-economy-fully-decentralized-object-fdo-example-bobs-udid-document/) 2021-06-15
 
 Strongly-typed Code to Generate Bob’s UDID Document
 
@@ -93,7 +93,7 @@ A pertinent example of how this can be applied in the corporate world is this ex
 
 
 
-* [The Missing Network Layer Model](https://findy-network.github.io/blog/2022/03/05/the-missing-network-layer-model/) Findy
+* [The Missing Network Layer Model](https://findy-network.github.io/blog/2022/03/05/the-missing-network-layer-model/) Findy 2022-03-05
 
 Epic Post
 
