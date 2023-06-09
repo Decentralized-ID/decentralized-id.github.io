@@ -16,13 +16,15 @@ header:
   image: /images/blockchange-identity-header.webp
   caption: "[On the Emergent Use of Distributed Ledger Technologies for Identity Management](https://blockchan.ge/blockchange-fieldreport.pdf)"
 categories: ["Government"]
-tags: ["USA","Canada","Europe","GDPR","ProCivis","California","CCPA","Humanitarian"]
+tags: ["Global","Tokyo","China","Korea","Latin America","Japan","Africa"]
 last_modified_at: 2023-07-10
 toc: false
 ---
 
 * [Decentralized Identity & Government](https://www.youtube.com/watch?v=l8pHUdjKfes) Evernym 2021-12-08
   > The key differences between federated and decentralized identity systems - An analysis of a few notable government-led projects, such as Aadhaar (India), Verify (UK), eIDAS (EU), and the Ontario Digital Identity Program (Canada) - What decentralization means for portability, scalability, flexibility, and privacy - How governments and commercial organizations can enhance existing federated identity systems with verifiable credentials
+* [Self-Sovereign Identity (SSI) schemes and the public sector](https://www.impulse-h2020.eu/2021/11/05/self-sovereign-identity-ssi-schemes-and-the-public-sector/) Impulse H20 2021-11-05
+  > While the structural difference between SSI approaches and conventional centralised or federated eID schemes is, on one level, profound (full control over data and identity with the user; no third-party intermediary between the user and the service provider), on another level, these differences may also appear highly abstract to ordinary users. What societal and economic consequences they may unfold remains, so far, little understood, also because research on the real social and economic effects of SSI solutions is only beginning.
 * [Digital Identity Around the World: Why Some Countries are Embracing Self Sovereign Identity Quicker](https://hackernoon.com/digital-identity-around-the-world-why-some-countries-are-embracing-self-sovereign-identity-quicker) 2021-09-03 Hackernoon
   > Each government moves at its own pace for as many reasons as there are countries, and digital identity/SSI will only become a reality once governments voice their support, regulations, and standards are adopted, infrastructure is created or upgraded, and interoperability, inclusion, and education are all addressed.
 * [Navigating Digital Identity in Political Economies RxC Panel](https://identitywoman.net/navigating-digital-identity-in-political-economies-rxc-talk/) 2021-08-25 IdentityWoman.net
@@ -33,6 +35,8 @@ toc: false
   > Why is this useful? When writing policy, you need a succinct model which is clear enough for subsequent interpretation. To do this, you need conceptual buckets to drop things into. Yes, this model is likely to change, but it’s my best and latest crack at it to synthesize the complex world of digital credentials with an abstraction that might be useful to help us align existing solutions while adopting exciting new capabilities.
 * [Self-Sovereign Identity and Government – Data Exchange](https://cyber.ee/resources/case-studies/self-sovereign-identity-and-government-identity/) 2021-03-23 Cybernetica
   > This is often achieved with ID cards or passports that we have in our possession with a photo to prove that we are the person this card belongs to, and therefore the person that ID number refers to. In digital identity terms, PKI takes the place of ID cards and offers public and private key pairs.
+* [SELF-SOVEREIGN IDENTITY: LEGAL COMPLIANCE AND THE INVOLVEMENT OF GOVERNMENTS](https://ssi-ambassador.medium.com/self-sovereign-identity-legal-compliance-and-the-involvement-of-governments-467acdd32e88) 2021-02-16 SSI AMBASSADOR
+  > When it comes to identity management the involvement of the government can be a tricky topic. It needs to be involved to enable access to public services, adapt legislature and guarantee equal access for its citizens. However, it should not be able to control or monitor all aspects and activities of its citizens. Self-sovereign identity (SSI) might for some imply, that a citizen is suddenly able to issue his own ID-card, which isn’t the case. Governments are still the primary source of foundational identities."
 * [Data: Governance and Geopolitics](https://www.mydigitalfootprint.com/2021/01/data-governance-and-geopolitics.html) 2021-01-16 Tony Fish
   > How data is governed can be thought of along several lines of activity: legislating privacy and data use, regulating content, using antitrust laws to dilute data monopolies, self-regulating by the tech giants, regulating digital trade, addressing intellectual property rights (IPR) infringement, assuring cybersecurity, and practicing cyber diplomacy. Of these, antitrust, regulation, and privacy are most immediately in the spotlight, and are the focus of this commentary, but it will also touch briefly on the connections with other issues.
 * [It’s time for governments to get serious about digital identities](https://www2.deloitte.com/global/en/pages/risk/articles/solving-the-public-sector-identity-crisis.html?id=global:2sm:3tw:4dcom_share:5awa:6dcom:risk) 2020-02-25 Deloitte
@@ -59,3 +63,49 @@ toc: false
   > The ability to prove one’s identity is increasingly recognized as the basis for participation in social, political, economic, and cultural life. Yet at least a billion people in developing countries lack any form of officially recognized ID. This problem disproportionally impacts rural residents, poor people, women, children, and other vulnerable groups in Africa and Asia. Digital identity, combined with the extensive use of mobile devices in the developing world, offers a transformative solution to this global challenge and provides public and private sector entities with efficient ways to reach the poorest and most disadvantaged. This discussion paper, divided into three parts, explores the connection between digital identity and sustainable development. Part I illustrates how the use of digital identity promotes efficiency gains, financial savings, social inclusion and access to basic services and rights, with examples from countries that have adopted digital identity systems. The paper then outlines some of the key risks and challenges that must be overcome, specifically in the areas of political commitment, data protection and privacy, cost, and sustainable business models. Part II of the paper lays out the digital identity lifecycle and the roles of public and private sector players, and suggests some key considerations in the design of business models. Finally, Part III of the paper suggests some common principles—including universal coverage, appropriate and effective design, and privacy and data protection—and enablers for maximizing the potential of digital identity to contribute to sustainable development. 
 * [Identity Validation as a Public Sector Digital Service?](https://blog.aniljohn.com/2014/07/identity-validation-as-a-public-sector-digital-service.html) 2014-07
   > I’ve written before about the role that the public sector currently has in identity establishment, but not in identity validation. This absence has led to an online ecosystem in the U.S. that depends on non-authoritative information for identity validation. These are some initial thoughts on what an attribute validation service, which provides validation of identity attributes using authoritative public sector sources, could look like.
+
+## Worldwide
+### Tokyo
+* [Beijing will regulate ‘digital humans’ in the metaverse and beyond](https://restofworld.org/2022/beijing-digital-humans-metaverse/) 2022-09-01 Rest of World
+  > The plan also signals that Beijing will take a more active role in handling the personal data generated by these platforms. Some of the directives outlined in the plan require any user-facing aspect of the digital human industry to be subject to rules that protect information about and generated by platform users, while also treating user data as a resource to be traded on the country’s new data exchanges.
+
+### korea
+* [Can the Korean Mobile Driver’s License Unlock Blockchain’s Potential?](https://medium.com/raonsecure/can-the-korean-mobile-drivers-license-unlock-blockchain-s-potential-461d3295a452) 2021-08-12 Raonsecure
+  > The Ministry of Public Administration and Security (MOIS) is working on the implementation of a national mobile driver’s license in the form of a blockchain-based Decentralized Identifier-based (DID) System. LG CNS and RaonSecure are in charge of the project and are currently building it.
+* [South Korea’s brilliant decentralized approach to citizen identity management](https://techwireasia.com/2021/06/koreas-decentralized-identity-approach-to-identity-management/) 2021-06-25 TechWire Asia
+  > Adopting blockchain technology is seen as a necessity by the Korean government and multiple institutions are backing its continuous research and development, including the Ministry of Science and Technology (ICT), The Korea Internet Security Agency (KISA), Defense Acquisition Program Administration (DAPA), National IT Industry Promotion Agency (NIPA), and Korea Post among others.
+* [LG CNS wins Korean government contract for decentralized identity for driver’s licenses](https://www.ledgerinsights.com/lg-cns-korean-decentralized-identity-did-for-drivers-licenses/) 2021-06-24 Ledger Insights
+  > Adopting DID technology provides numerous benefits but two stand out. Firstly, it should make it far harder to forge a license because credentials can be verified. Additionally, OmniOne includes FIDO biometric security. The second key benefit is that an individual can choose how much data to share.
+* [RaonSecure builds a blockchain-based digital wallet service with a public institution](https://medium.com/raonsecure/raonsecure-builds-a-blockchain-based-digital-wallet-service-with-a-public-institution-9fe2c8028f6c) 2021-06-16
+  > Selection of RaonSecure as the final operator of the ‘blockchain-based digital wallet project’ that is part of the ‘2021 Blockchain Pilot Project’ program promoted by the Korean government
+
+
+### Latin America \ Carribean
+* [Lacchain ID Framework](https://publications.iadb.org/publications/english/document/LACChain-ID-Framework-A-Set-of-Recommendations-for-Blockchain-Based-Interoperable-Privacy-Preserving-Regulatory-Compliant-Secure-and-Standardized-Digital-Identifiers-Credentials-and-Wallets.pdf) 2021-11-02
+  > A Set of Recommendations for Blockchain-Based Interoperable, Privacy-Preserving, Regulatory Compliant, Secure and Standardized Digital Identifiers, Credentials, and Wallets.
+
+### China
+* [PIPL: A game changer for companies in China](https://www.dataprotectionreport.com/2021/08/pipl-a-game-changer-for-companies-in-china/) 2021-08 DataProtection
+  > China passed its Personal Information Protection Law (PIPL) on 20 August 2021. This is China’s first omnibus data protection law, and will take effect from 1 November 2021 allowing companies just over two months to prepare themselves.
+
+### Japan
+* [Ministry of Economy, Trade and Industry and OpenID Foundation in Liaison Agreement on eKYC & IDA for Legal Entities](http://web.archive.org/web/20220813115105/https://openid.net/2021/02/06/ministry-of-economy-trade-and-industry-and-openid-foundation-in-liaison-agreement-on-ekyc-ida-for-legal-entities/) 2021-02-06
+  > The OpenID Foundation (OIDF), the international standards development organization which maintains the OpenID Connect for Identity Assurance (OIDC4IDA) standard, and the Japanese Government’s Ministry of Economy, Trade and Industry (METI) have signed a liaison agreement to work together.
+  > 
+  > Under the agreement, METI will lead policy efforts to implement identity assurance frameworks for legal entities in Japanese Government and private sector while the [OIDF’s eKYC & Identity Assurance (eKYC & IDA) Working Group](https://openid.net/wg/ekyc-ida/) continues to advance the technical standards that enable many digital identity solutions. The agreement:
+  > - Provides a mechanism to collaborate “about Authentication and Identity Assurance for Legal Entity”, mutually approved white papers, workshops, podcasts and other outreach activities;
+  > - Allows participation of each party’s staff and members in the other party’s meetings, as mutually agreed;
+  > - Provides for direct communications to communicate (without obligation and only to the extent each party chooses) about new work and upcoming meetings;
+  > - Supports common goals, including where appropriate and mutually agreed, to Specifications of Authentication and Identity Assurance for Legal Entity.
+
+### Africa
+* [Institutions and Governance in the digital realm of Africa](https://omidyarnetwork.medium.com/institutions-matter-60c819d32e2a) 2020-12-12 Omidyar Network
+  > - seeking to better understand the existing laws and institutions
+  > - exploring ways to strengthen the capacity of institutions that uphold these laws
+  > - supporting digital rights organizations throughout Africa to act as checks on technological excesses of both governments and corporations
+* [Identity and Electronic/Digital Government Melanie Tjijenda](http://www.id4africa.com/2019_event/presentations/InF9/InF9-3-Melanie-Tjijenda-Namibia-Final.pdf) 2019 Republic of Namibia
+  > The African Union provides the following as recommendations to help protect identity Privacy:
+  > § Develop a consistent approach to personal data protection Policy and Law
+  > § Review laws, procedures and practices, including those related to communications surveillance or interception.
+  > § Member states should establish an independent Data Protection Authorities (DPA) to ensure their national privacy and personal data protection laws are being observed.
+  > § Establish regulatory authorities that will enforcement measures

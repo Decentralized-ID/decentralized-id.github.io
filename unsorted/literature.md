@@ -3,7 +3,10 @@ published: false
 ---
 
 # Literature
-► [Credentials as a Service Providing Self Sovereign Identity as a Cloud Service Using Trusted Execution Environments](https://ieeexplore.ieee.org/document/9610297)
+* [A Decentralized Digital Identity Architecture](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00017/full) 2019-11-05 Geoff Goodell, Tomaso Aste
+  > Although this article shall focus on challenges related to identity systems for adult persons in the developed world, we argue that the considerations around data protection and personal data that are applicable in the humanitarian context, such as those elaborated by the International Committee of the Red Cross (Kuner and Marelli, 2017; Stevens et al., 2018), also apply to the general case. We specifically consider the increasingly commonplace application of identity systems “to facilitate targeting, profiling and surveillance” by “binding us to our recorded characteristics and behaviors” (Privacy International, 2019). Although we focus primarily upon the application of systems for digital credentials to citizens of relatively wealthy societies, we hope that our proposed architecture might contribute to the identity zeitgeist in contexts such as humanitarian aid, disaster relief, refugee migration, and the special interests of children as well.
+
+* [Credentials as a Service Providing Self Sovereign Identity as a Cloud Service Using Trusted Execution Environments](https://ieeexplore.ieee.org/document/9610297)
 
 * [Universal Declaration of Digital Rights](https://docs.google.com/document/d/1y9C-5TPYmRruRQqJq39-HePk3ypWLDpSAEVzuonOH2Q/edit) Johannes Ernst
   > all states should recognise and promote universal respect for and observance of both fundamental human and digital rights in physical domain and the digital spaces environment and ensure that these rights are upheld as core elements of a free, open and representative society
