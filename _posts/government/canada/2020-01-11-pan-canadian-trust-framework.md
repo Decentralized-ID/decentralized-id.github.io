@@ -3,7 +3,8 @@ title: "The Pan Canadian Trust Framework"
 description: "This framework is the next major step after the 2016 publication of the Pan-Canadian Trust Framework Overview by the Digital Identification and Authentication Council of Canada (DIACC)"
 excerpt: >
   "The Treasury Board Secretariat of Canada (TBS) and Shared Services Canada (SSC) are seeking a standardized method to issue and rapidly verify portable digital credentials across many different contexts, thereby reducing human judgement error, increasing efficiency and ensuring digital credential veracity using cryptography." 
-permalink: /government/canada/
+permalink: /government/canada/pctf/
+canonical_url: https://decentralized-id.com/government/canada/pctf/
 redirect_from: /public-sector/canada/
 tags: ["Trust Framework","Canada","Verifiable Credentials","DIACC","PCTF"]
 categories: ["Government"]
@@ -11,7 +12,7 @@ header:
   image: /images/pan-canadian-trust-header.webp
   caption: "[PCTF Placemat](https://canada-ca.github.io/PCTF-CCP/docs/PCTF-Placemat.pdf)"
   teaser: /images/pctf-teaser.webp
-updated: 2023-06-10
+last_modified_at: 2023-06-09
 ---
 
 ## The Framework

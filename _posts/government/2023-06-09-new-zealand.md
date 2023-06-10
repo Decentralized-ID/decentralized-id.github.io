@@ -8,7 +8,7 @@ permalink : /government/new-zealand/
 canonical_url: https://decentralized-id.com/government/new-zealand/
 categories: ["Government"]
 tags: ["new-zealand"]
-last_modified_at: 2023-06-09
+last_modified_at: 2023-06-07
 ---
 
 * [The Trust Economy in a Future New Zealand](https://digitalidentity.nz/2021/06/16/the-trust-economy-in-a-future-new-zealand/) 2021-06-16

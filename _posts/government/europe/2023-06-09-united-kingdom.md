@@ -9,6 +9,7 @@ canonical_url: https://decentralized-id.com/government/europe/united-kingdom/
 categories: ["Government"]
 tags: ["Europe","UK"]
 last_modified_at: 2023-06-09
+toc: false
 ---
 
 * [Information Commission’s (ICO) Children’s Code](https://ico.org.uk/for-organisations/guide-to-data-protection/ico-codes-of-practice/age-appropriate-design-a-code-of-practice-for-online-services/) 2023-07-07 UK 

@@ -8,7 +8,7 @@ permalink : /government/australia/
 canonical_url: https://decentralized-id.com/government/australia/
 categories: ["Government"]
 tags: ["Australia"]
-last_modified_at: 2023-06-09
+last_modified_at: 2023-06-07
 ---
 
 * [Australia and state govts agree on digital ID, credential sharing deal](https://www.biometricupdate.com/202302/australia-and-state-govts-agree-on-digital-id-credential-sharing-deal) 2023-02-27
