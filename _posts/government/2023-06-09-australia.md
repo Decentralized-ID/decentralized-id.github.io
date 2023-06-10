@@ -7,10 +7,11 @@ excerpt: >
 permalink : /government/australia/
 canonical_url: https://decentralized-id.com/government/australia/
 categories: ["Government"]
-tags: ["Australia"]
+tags: ["Australia","Australian Payments Network"]
 last_modified_at: 2023-06-07
 ---
 
+## Main
 * [Australia and state govts agree on digital ID, credential sharing deal](https://www.biometricupdate.com/202302/australia-and-state-govts-agree-on-digital-id-credential-sharing-deal) 2023-02-27
   > “There is a lot more work to be done and plenty of consultations to undertake, but we understand that as we increasingly rely on digital technology as part of our everyday lives, the government has a responsibility to ensure we can offer a digital ID system that is voluntary, efficient and meets people’s needs and most importantly offers the highest security for their personal information,” Senator Gallagher told AFR for a report in the run-up to the meeting with states and territories.
 * [Why the future of Australia’s digital identity system is self-sovereign](https://www.forbes.com.au/news/innovation/why-the-future-of-australias-digital-identity-system-is-self-sovereign/) 2022-12-05 Forbes AU
@@ -32,12 +33,12 @@ last_modified_at: 2023-06-07
 ### New South Wales
 * [New Digital Identity Advisory Council established](https://www.nsw.gov.au/media-releases/new-digital-identity-advisory-council-established)
   > The NSW Government has established a Digital Identity Ministerial Advisory Council (DIMAC), that will advise on a strategic direction and roadmap for digital identity in the State.
+
 ### Yidindji
 * [MetaMUI and Sovereign Yidindji Government launched 1st self-sovereign identity-based National ID system](https://cointelegraph.com/press-releases/metamui-and-sovereign-yidindji-government-launched-1st-self-sovereign-identity-based-national-id-system) 2022-01-07 Cointelegraph
   > We are delighted to announce that our first E-Government pilot program with the Sovereign Yidindji Government has been successfully completed on Jan 7, 2022.
 
 ## Policy
-
 * [Collected submissions on AU Digital Identity system](https://lockstep.com.au/collected-submissions-on-au-digital-identity-system/) 2021-12-21 Lockstep
   > By reframing digital identity as a matter of data protection in more general terms, we would stay out of the risk management ploys and business affairs of others, preserve today’s many ways of credentialling and transacting, and be seen to focus on more objective security outcomes.
   > * [Lockstep Submission – AU Digital Identity Legislation (1.0)](https://lockstep.com.au/wp-content/uploads/2021/12/Lockstep-Submission-AU-Digital-Identity-Legislation-1.0.pdf) 

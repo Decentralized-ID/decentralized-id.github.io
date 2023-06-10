@@ -7,10 +7,11 @@ excerpt: >
 permalink : /government/new-zealand/
 canonical_url: https://decentralized-id.com/government/new-zealand/
 categories: ["Government"]
-tags: ["new-zealand"]
+tags: ["New Zealand","Aotearoa","DINZ","DISTF"]
 last_modified_at: 2023-06-07
 ---
 
+## Main
 * [The Trust Economy in a Future New Zealand](https://digitalidentity.nz/2021/06/16/the-trust-economy-in-a-future-new-zealand/) 2021-06-16
   > My interest was first piqued when I came across three videos on YouTube from [Rachel Botsman](https://www.youtube.com/watch?v=-vbPXbm8eTw), [Jordan Perterson](https://www.youtube.com/watch?v=pFXdsD-8SKk) and [Philipp Kristian Diekhöner.](https://www.youtube.com/watch?v=XNog-xrc_YA)
   > 
