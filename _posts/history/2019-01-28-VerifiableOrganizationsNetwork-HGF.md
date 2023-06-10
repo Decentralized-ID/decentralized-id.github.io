@@ -1,6 +1,6 @@
 ---
 date: 2019-01-28
-title: Verifiable Organizations Network - A Production Government Deployment of Hyperledger Indy
+title: The First Production Government Deployment of Hyperledger Indy - Verifiable Organizations Network
 description: Transcript of Presentation by John Jordan and Stephen Curran at HGF 2018
 excerpt: > 
   VON's founding members are governments who are, by law, trusted issuers of data about organizations. The Province of British Columbia, Province of Ontario and the Government of Canada have come together to create the initial services needed to establish VON.
@@ -17,7 +17,7 @@ redirect_from:
   - government/canada/von/hgf-2018-presentation/
 permalink: /government/canada/bcgov/von/hgf-2018-production-government-deployment-hyperledger-indy/
 categories: ["Government","History"]
-tags: ["Indy","Verifiable Organizations Network","Verifiable Credentials","Canada","BCGov","Hyperledger Forum","W3C","Transcript"]
+tags: ["Indy","Verifiable Organizations Network","Verifiable Credentials","Canada","BCGov","Hyperledger Forum","W3C","Transcript","Real World"]
 last_modified_at: 2019-07-11
 ---
 
