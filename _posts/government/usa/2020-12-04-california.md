@@ -14,7 +14,7 @@ tags: ["USA","CCPA","California","IAB","IAPP","CPRA","SMART Health Card","Covid 
 permalink: government/usa/california
 redirect_from: 
   - /government/usa/regulations/california/ccpa/
-last_modified_at: 2020-06-10
+last_modified_at: 2023-06-10
 ---
 
 * [VCs Policy Committeee (California) – Participate in passing legislation to create a California Trust Framework!](https://iiw.idcommons.net/21B/_(California)_Verifiable_Credentials_Policy_Committeee_-_Come_learn_about_how_participate_in_passing_legislation_to_crete_a_California_Trust_Framework!) 2021-05-06 IIW, IDcommons Kaliya Young, Ally Medina [Slides](https://docs.google.com/presentation/d/1VyxmWan3qbxynxhKvw1CHhWZINiPRF9gjeqSCSDh1MY/edit?usp=sharing)
