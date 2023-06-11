@@ -30,3 +30,36 @@ published: false
 
 * [https://www.w3.org/2019/did-wg/](https://www.w3.org/2019/did-wg/) - Website
 * [https://lists.w3.org/Archives/Public/public-did-wg/](https://lists.w3.org/Archives/Public/public-did-wg/) - LIst Archives
+
+### DID
+
+* <a href="https://github.com/decentralized-identity/did-common-typescript" />/decentralized-identity/did-common-typescript</a> - A common bundle of shared code and modules for working with DIDs, DID Documents, and other DID-related activities
+
+Decentralized Identifiers (DIDs): The Fundamental Building Block of Self-Sovereign Identity (SSI)	Drummond Reed, Chief Trust Officer at Evernym, will explain in our second Webinar "Decentralized Identifiers (DIDs) - Building Block of Self-Sovereign Identity (SSI)" giving us the background on how DIDs work, where they come from and why they are important for Blockchain based Digital Identity.	https://www.slideshare.net/SSIMeetup/decentralized-identifiers-dids-the-fundamental-building-block-of-selfsovereign-identity-ssi	2018-05-09
+
+
+* [decentralized-identity/did-common-typescript](https://github.com/decentralized-identity/did-common-typescript) 2019-05-20 - A common bundle of shared code and modules for working with DIDs, DID Documents, and other DID-related activities
+* [decentralized-identity/did-security-csharp](https://github.com/decentralized-identity/did-security-csharp) 2020-07-31 - C# implementation of DID security and privacy controls
+* [decentralized-identity/did-common-java](https://github.com/decentralized-identity/did-common-java) 2023-05-13 - Shared DID Java library.
+* [decentralized-identity/ua-web-extension](https://github.com/decentralized-identity/ua-web-extension) 2018-10-23 - Basic web extension version of a DID User Agent
+* [decentralized-identity/did-recovery](https://github.com/decentralized-identity/did-recovery) - Various methods for DID recovery
+* [decentralized-identity/web-polyfills](https://github.com/decentralized-identity/web-polyfills) - Polyfills for proposed or emerging DID-centric Web APIs
+* [decentralized-identity/http-did-auth-proxy](https://github.com/decentralized-identity/http-did-auth-proxy) - Forked from bcgov/http-did-auth-proxy
+DID Auth HTTP proxy.
+
+
+
+### Verifiable Credentials
+
+* [Essential Services Delivery coordination using Digitally Verifiable Credentials](https://github.com/bcgov/essential-services-delivery)
+  > This repository contains the build, deployment, and application configurations needed to pull a number of separate applications into a single environment and deploy them as a group of interrelated services.
+* [bcgov/vc-visual-verifier](https://github.com/bcgov/vc-visual-verifier) - Verifiable Credential Visual Verifier
+* [Verifiable Credential Authentication with OpenID Connect (VC-AuthN OIDC)](https://github.com/bcgov/vc-authn-oidc)
+  > The integration this document defines is how holders of verifiable credentials can leverage these to authenticate with parties. Note, how the holder became in possession of supported verifiable credentials is out of scope for this integration.
+  > 
+  > Like any new technology there is adoption required of new concepts, this particular integration aims to provide an easy integration path that allows parties to start leveraging the power of verifiable credentials for user authentication in a non-disruptive fashion. This is achieved by extending the vastly popular OpenID Connect family of specifications.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2FQiXCaqgTJvrQ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+
+[Verifiable Credentials 101 for SSI and Decentralized Digital Identity - Tyler Ruff](https://www.slideshare.net/SSIMeetup/verifiable-credentials-101-for-ssi-and-decentralized-digital-identity-tyler-ruff)
+
