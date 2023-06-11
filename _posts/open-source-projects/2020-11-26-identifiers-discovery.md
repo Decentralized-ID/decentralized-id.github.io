@@ -10,17 +10,15 @@ redirect_from:
   - organizations/identity-foundation/wg/identifiers-and-discovery/
 canonical_url: https://decentralized-id.com/organizations/identity-foundation/wg/identifiers-and-discovery/
 categories: ["Open Source Projects"]
-tags: ["Identifiers and Discovery WG","DID","DIF","Universal Resolver","Universal Registrar","KERI","Verifiable Credentials","JSON-LD","Ethereum","ION","BTCR","DID:PEER","ERC725","Linked Data"]
+tags: ["Identifiers and Discovery WG","DID","DIF","Universal Resolver","Universal Registrar","Verifiable Credentials","JSON-LD","Ethereum","ION","BTCR","DID:PEER","ERC725","Linked Data"]
 header:
   image: /images/identifiers-discovery-head.webp
   teaser: /images/identifiers-discovery-teaser.webp
-last_modified_at: 2020-11-26
+last_modified_at: 2023-06-11
 ---
 
-[Webpage](https://identity.foundation/working-groups/identifiers-discovery.html) - [GitHub](https://github.com/decentralized-identity/identifiers-discovery) - [Slack](https://difdn.slack.com/messages/C4WED8JSH)
-
-> Members of the Working Group are engaged in development of protocols and systems that enable creation, resolution, and discovery of decentralized identifiers and names across underlying decentralized systems, like blockchains and distributed ledgers.
-
+* [Identifiers and Discovery Working Group](https://identity.foundation/working-groups/identifiers-discovery.html) - [GitHub](https://github.com/decentralized-identity/identifiers-discovery)
+  > Members of the Working Group are engaged in development of protocols and systems that enable creation, resolution, and discovery of decentralized identifiers and names across underlying decentralized systems, like blockchains and distributed ledgers.
 * [I&D WG Charter](https://github.com/decentralized-identity/org/blob/master/Org%20documents/WG%20documents/DIF_ID_WG_charter_v1.pdf)
   - Specifications, implementations, test suites, etc. related to creation, derivation, resolution, management, use of all forms of decentralized identifiers (i.e. including, but not limited to W3C DIDs)
   - Relationship between identifier systems (e.g. DID and domain names)
@@ -48,6 +46,26 @@ Spec and implementation of a driver-based framework that enables resolution of D
 * [decentralized-identity/universal-resolver-frontend](https://github.com/decentralized-identity/universal-resolver-frontend) - Frontend web UI for Universal Resolver.
 * [decentralized-identity/universal-resolver-java](https://github.com/decentralized-identity/universal-resolver-java)
 * [decentralized-identity/universal-resolver-python](https://github.com/decentralized-identity/universal-resolver-python)
+
+#### Related
+
+* [Universal Resolver - resolve practically any DID](https://blog.identity.foundation/uni-resolver/) 2022-09-01 Identity Foundation
+  > The Universal Resolver can now resolve 45 DID methods, and more are being added regularly. Visit [https://dev.uniresolver.io/](https://dev.uniresolver.io/) to see the full list of supported methods, and visit [this github page](https://github.com/decentralized-identity/universal-resolver/blob/main/docs/driver-development.md) to contribute a driver for a DID method.
+* [jolocom/ddoresolver-rs](https://github.com/jolocom/ddoresolver-rs) 2022-05-13 Jolocom
+  > Universal, multy-method, feature gated DID Document resolver 
+* [Mission Accomplished: Universal Resolver Calls coming to an end](https://blog.identity.foundation/universal-resolver-calls-wrapup/) 2021-11-04 Identity Foundation
+  > Considering that the group has accomplished these goals, there is currently no more need for dedicated calls. Work on the Universal Resolver work item will continue on Github (under the [Universal Resolver](https://github.com/decentralized-identity/universal-resolver) and [Identifiers &Discovery](https://github.com/decentralized-identity/identifiers-discovery/) and on DIF Slack in the Identifiers & Discovery Working Group channel, #wg-id.
+* [DID Resolution: Given a DID how do I retrieve its document? – Markus Sabadello](https://www.slideshare.net/SSIMeetup/did-resolution-given-a-did-how-do-i-retrieve-its-document-markus-sabadello) 2018-11-27 [SSI-Meetup](http://ssimeetup.org/did-resolution-given-did-how-do-retrieve-document-markus-sabadello-webinar-13/)
+  > Markus Sabadello, CEO of Danube Tech, will talk about DID Resolution and how to retrieve a DID document. As we know, Decentralized Identifiers (DIDs) are a key component in SSI architecture. They are used as building blocks for verifiable credentials, wallets, agents, and data exchange protocols. To make all this work, we need to be able to “resolve” DIDs to their associated DID Documents. This process fulfills a similar purpose as DNS does in the classic web. And while DID Resolution is not a very complicated topic, it is still important to understand how it works and how it relates to other topics. In this webinar, we will give a general introduction to DID Resolution, discuss a few in-depth topics, and also demo concrete tools that are available today.
+  > 
+  > Most DID Resolution implementations envision an architecture where a common base component invokes a set of “drivers” or “plugins” or “modules” to implement method-specific functionality, e.g. see the DIF Universal Resolver, Digital Bazaar’s did-client, or the uPort JavaScript DID Resolver. We envision such “DID Resolver” tools to become as central to SSI infrastructure as DNS is for the web today.
+* [A Universal Resolver for self-sovereign identifiers](https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c)
+ 2017-11-01 (Markus Sabadello)
+  > This is a first step in fulfilling DIF’s mission to help individuals and organizations to control their digital identity, without being dependent on any intermediary party.
+  > 
+  > This tool fulfills a similar purpose as Bind does in the DNS system: resolution of identifiers. However, instead of working with domain names, we work with self-sovereign identifiers that can be created and registered directly by the entities they refer to.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wvgU7Gl8ORUGLI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 #### Resolver Drivers
 
@@ -81,6 +99,8 @@ Spec and implementation of a driver-based framework that enables creation/update
 ### .well-known DID configuration
 Spec, docs, and implementations for discovering DIDs from .well-known HTTP(S) URIs.
                   
+* [Link your domain to your Decentralized Identifier (DID) (preview)](https://docs.microsoft.com/en-us/azure/active-directory/verifiable-credentials/how-to-dnsbind)
+  > We make a link between a domain and a DID by implementing an open standard written by the Decentralized Identity Foundation called [Well-Known DID configuration](https://identity.foundation/.well-known/resources/did-configuration/). The verifiable credentials service in Azure Active Directory (Azure AD) helps your organization make the link between the DID and domain by including the domain information that you provided in your DID, and generating the well-known config file:
 * [decentralized-identity/.well-known/](https://github.com/decentralized-identity/.well-known/)
   * [Repo Webpage](https://identity.foundation/.well-known/)
   > Making it possible to connect existing systems and Decentralized Identifiers (DIDs) is an important undertaking that can aid in bootstrapping adoption and usefulness of DIDs. One such form of connection is the ability of a DID controller to prove they are the same entity that controls an origin.
@@ -92,17 +112,6 @@ Spec, docs, and implementations for discovering DIDs from .well-known HTTP(S) UR
   > The DID Configuration resource provides proof of a bi-directional relationship between the controller of an Internet domain and a DID via cryptographically verifiable signatures that are linked to a DID's key material. This document describes the data format of the resource and the resource location at which Internet domain controllers can publish their DID Configuration.
   > 
   > Due to the location of the DID Configuration resource, discovery of associated Decentralized Identifiers against a domain is trivial. However, the inverse (i.e given a DID-URI discover the associated domains) is deemed out of scope.
- 
-                  
-### KERI - Key Event Receipt InfrastructureSpec and implementation of an identifier and key 
-rotation technology, where your primary root of trust is entropy, not 
-any particular ledger.
-                  
-* [decentralized-identity/keri](https://github.com/decentralized-identity/keri) - Key Event Receipt Infrastructure - the spec and implementation of the KERI protocol
-* [decentralized-identity/kerigo](https://github.com/decentralized-identity/kerigo) - Go implementation of KERI  (Key Event Receipt Infrastructure)
-* [decentralized-identity/kerijs](https://github.com/decentralized-identity/kerijs) - JavaScript (nodes) Implementation of the KERI core library.
-* [decentralized-identity/keriox](https://github.com/decentralized-identity/keriox) - Rust Implementation of the KERI Core Library
-* [decentralized-identity/keripy](https://github.com/decentralized-identity/keripy) - Python Implementation of the KERI Core Libraries
 
 ### Peer DID Method Specification
 
