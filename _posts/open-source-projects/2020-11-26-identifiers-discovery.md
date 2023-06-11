@@ -72,6 +72,7 @@ Spec and implementation of a driver-based framework that enables resolution of D
 * [decentralized-identity/uni-resolver-driver-did-erc725](https://github.com/decentralized-identity/uni-resolver-driver-did-erc725) - A Universal Resolver driver for did:erc725 identifiers.
 * [decentralized-identity/uni-resolver-driver-did-ion](https://github.com/decentralized-identity/uni-resolver-driver-did-ion) - Universal Resolver Driver for Identity Overlay Network (ION) DIDs
 * [decentralized-identity/uni-resolver-driver-did-key](https://github.com/decentralized-identity/uni-resolver-driver-did-key) - A Universal Resolver driver for did:key identifiers.
+  * [Trinsic donates did-key.rs to I&D WG](https://medium.com/decentralized-identity/trinsic-donates-did-key-rs-to-i-d-wg-8a278f37bcd0) 2021-01-25
 * [decentralized-identity/uni-resolver-driver-did-sov](https://github.com/decentralized-identity/uni-resolver-driver-did-sov) - A Universal Resolver driver for did:sov identifiers.
 * [decentralized-identity/uni-resolver-driver-did-stack](https://github.com/decentralized-identity/uni-resolver-driver-did-stack) - A Universal Resolver driver for did:stack identifiers.
 * [decentralized-identity/uni-resolver-driver-did-work](https://github.com/decentralized-identity/uni-resolver-driver-did-work) - A Universal Resolver driver for did:work identifiers.

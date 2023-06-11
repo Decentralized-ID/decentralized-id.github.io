@@ -14,6 +14,8 @@ published: false
 - Apple
 - Google
 
+* [DIDKit v0.1 is Live.](https://sprucesystems.medium.com/didkit-v0-1-is-live-d0ea6638dbc9) 2021-01-28
+  > Most other options are subtly locked to a specific blockchain and its particularities, which a self-sovereign identity (SSI) novice is unlikely to notice until months into a project based on it. A few open-source libraries exist to sidestep this infrastructural lock-in, but these are more like primitives for assembling an SSI toolkit than ready-to-go, developer-friendly libraries. DIDKit, on the other hand, is ready to start processing real-world VCs with non-repudiable signatures right out the box.
 
 ## RootsID
 * [RootsID SSI Report - E1](https://www.youtube.com/watch?v=spbZp8X1eH0)
