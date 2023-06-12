@@ -21,7 +21,7 @@ header:
   teaser: /images/hgf-teaser.webp
 ---
 
-For Identity Related Presentations at HGF-2018
+Identity Related Presentations at HGF-2018
 
 <img src="https://i.imgur.com/3WNoTB0.png"/>
 

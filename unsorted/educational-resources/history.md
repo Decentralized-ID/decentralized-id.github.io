@@ -2,6 +2,7 @@
 published: false
 ---
 # History
+* [Privacy Preserving Authentication—Another reason to care about ZKP](https://www.slideshare.net/eralcnoslen/privacypreserving-authentication-another-reason-to-care-about-zeroknowledge-proofs) 2017-08-14 Clare Nelson
 
 * [A brief history of SSI: Where does it come from? A timeline.](https://jolocom.io/blog/a-brief-history-of-ssi-where-does-it-come-from-a-timeline/)
 

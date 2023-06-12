@@ -14,6 +14,26 @@ published: false
 - Apple
 - Google
 
+## Evernym
+
+* [CULedger partners with decentralized identity innovator Evernym to create MyCUID](https://www.cuinsight.com/press-release/culedger-partners-decentralized-identity-innovator-evernym-create-mycuid) 2018-02-26
+  > CULedger, builder of innovative blockchain-based products for credit unions and their members, teamed up with Evernym to launch MyCUID, a new consumer-focused digital identity solution. With MyCUID, credit union members can confidently protect themselves from financial fraud and identity theft, while enriching the trusted relationships members have with their credit unions.
+* [Digital Identity Innovator Helps Non-Profits Get on the Identity Blockchain](https://globenewswire.com/news-release/2018/09/25/1575928/0/en/Digital-Identity-Innovator-Helps-Non-Profits-Get-on-the-Identity-Blockchain.html) GlobalNewsWire 2018-09-25
+   >Evernym is opening its Accelerator program to Non Profit Organization (NPOs) applications. Evernym will waive the $50,000 membership fee it normally charges to participate in the program. A panel of judges will select the successful applicants. The first group of awards will be announced before December 2018 and will include 5 organizations. Further NPO cohorts are already planned for 2019.\
+   >The World Bank estimates over 1 billion persons, usually the most vulnerable, are without formal identity.
+
+## Indicio
+* [Anonyome Labs Joins the Indicio MainNet](https://anonyome.com/2021/05/anonyome-labs-joins-the-indicio-mainnet/)
+  > Here, we go through how we went about standing up our Indico node. In brief:
+  > - The Indicio MainNet is an enterprise-grade ledger for use by decentralized identity applications.
+  > - We brought up the node using AWS Elastic Cloud Computing (EC2) instances within a Virtual Private Cloud (VPC).
+  > - We pulled the validator algorithms from the open-source project, [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy).
+  > - A supporting machine operates the command line interface used to perform steward operations onthe ledger.
+  > - We used security groups at the network interface level to create a firewall.
+  > - We set up monitoring in AWS CloudWatch using a variety of bash scripting in conjunction with Ubuntu and AWS provided utilities.
+  > - We created a regular maintenance schedule.
+
+## SpruceID
 * [DIDKit v0.1 is Live.](https://sprucesystems.medium.com/didkit-v0-1-is-live-d0ea6638dbc9) 2021-01-28
   > Most other options are subtly locked to a specific blockchain and its particularities, which a self-sovereign identity (SSI) novice is unlikely to notice until months into a project based on it. A few open-source libraries exist to sidestep this infrastructural lock-in, but these are more like primitives for assembling an SSI toolkit than ready-to-go, developer-friendly libraries. DIDKit, on the other hand, is ready to start processing real-world VCs with non-repudiable signatures right out the box.
 
