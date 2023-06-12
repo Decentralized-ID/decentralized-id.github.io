@@ -14,7 +14,7 @@ redirect_from:
 canonical_url: 'https://decentralized-id.com/blockchain/hyperledger/'
 categories: ["Organizations"]
 tags: ["Indy","Fabric","Aries","Evernym","Sovrin Foundation","Enterprise Ethereum Alliance","Linux Foundation","Ursa","Microsoft","Salesforce","Sawtooth","agreementsolutions","BTP","Ayanworks","Blinking","SecureKey","Oracle","HealthDigit","T-Mobile NEXT Identity","Sony","Global","Education"]
-last_modified_at: 2021-04-17
+last_modified_at: 2023-06-12
 header:
   image: /images/hyperledger_header.webp
   teaser: /images/hyperledger-teaser.webp
