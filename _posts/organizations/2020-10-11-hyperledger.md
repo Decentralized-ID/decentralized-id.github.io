@@ -7,7 +7,8 @@ excerpt: >
    
   These firms decided to pool their resources and create open-source blockchain technology that anyone could use. These far-sighted companies are helping blockchain to become a more popular and industry-standard technology. 
 layout: single
-toc: false
+toc: true
+toc_sticky: true
 permalink: blockchain/hyperledger/
 redirect_from:
   - organizations/hyperledger/

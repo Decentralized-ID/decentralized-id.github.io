@@ -17,6 +17,7 @@ header:
 last_modified_at: 2023-06-11
 ---
 
+## Working Group
 * [Identifiers and Discovery Working Group](https://identity.foundation/working-groups/identifiers-discovery.html) - [GitHub](https://github.com/decentralized-identity/identifiers-discovery)
   > Members of the Working Group are engaged in development of protocols and systems that enable creation, resolution, and discovery of decentralized identifiers and names across underlying decentralized systems, like blockchains and distributed ledgers.
 * [I&D WG Charter](https://github.com/decentralized-identity/org/blob/master/Org%20documents/WG%20documents/DIF_ID_WG_charter_v1.pdf)

@@ -6,7 +6,7 @@ excerpt: The Sovrin Foundation is a private-sector, international non-profit tha
 layout: single
 classes: ""
 toc: true
-toc_sticky: false
+toc_sticky: true
 header: 
   image: "/images/sovrin-header.webp"
   og_image: /images/sovrin-foundation.webp
@@ -103,14 +103,14 @@ Disambiguating between Evernym, Sovrin, and Indy
 
 ## [Sovrin Stewards](https://sovrin.org/stewards/)
 
-The Sovrin ledger is operated by Stewards, trusted organizations within the ecosystem who have agreed to abide by the requirements in the [Sovrin Trust Framework](https://sovrin.org/library/sovrin-governance-framework/) and are responsible for operation the nodes that maintain the Sovrin distributed ledger.
-
-Stewards also, as a group, accept or reject any changes to the ledger-specific portions of the Sovrin open source code by virtue of that role. They thus provide a counterbalance to the Sovrin architects who maintain the Indy code base.
+> The Sovrin ledger is operated by Stewards, trusted organizations within the ecosystem who have agreed to abide by the requirements in the [Sovrin Trust Framework](https://sovrin.org/library/sovrin-governance-framework/) and are responsible for operation the nodes that maintain the Sovrin distributed ledger.
+> 
+> Stewards also, as a group, accept or reject any changes to the ledger-specific portions of the Sovrin open source code by virtue of that role. They thus provide a counterbalance to the Sovrin architects who maintain the Indy code base.
 
 * [Steward Agreement](https://sovrin.org/library/steward-agreement/)
   > The current agreement in force between the Sovrin Foundation and the trusted organizations operating validator nodes on the Sovrin network.**The new Sovrin Steward Agreement is now in public review—[see this page](https://sovrin.org/sovrin-governance-framework/).**The current Sovrin Steward Agreement was published on 28 Jun 2017.
 
-## Sovrin Stewards 
+### The Stewards 
 * [ABSA Group (Barclays Africa)](https://www.absa.africa/absaafrica/) Johannesburg 
   > The African financial services group that aims to be the pride of the continent, by offering a range of retail, business, corporate and investment, and wealth management solutions and ensuring a positive impact in all the countries where we operate.
 * [AyanWorks](https://www.ayanworks.com/) Pune 
