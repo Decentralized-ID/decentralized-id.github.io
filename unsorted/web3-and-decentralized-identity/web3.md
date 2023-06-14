@@ -1,6 +1,48 @@
 ---
 published: false
 ---
+* [What is Web3 and Why It Matters](https://dionhinchcliffe.com/2022/01/11/what-is-web3-and-why-it-matters/) Dion Hinchcliffe 2022-01-11
+
+* [OpenSea, Web3, and Aggregation Theory](https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/) Stratechery
+
+what gives Aggregators their power is not their control of supply: they are not the only way to find websites, or to post your opinions online; rather, it is their control of demand. People are used to Google, or it is the default, so sites and advertisers don’t want to spend their time and money on alternatives; people want other people to see what they have to say, so they don’t want to risk writing a blog that no one reads, or spending time on a social network that because it lacks the network has no sense of social.
+
+* [Web3 and Digital Embodiment](https://www.windley.com/archives/2022/01/web3_and_digital_embodiment.shtml) Phil Windley
+
+Web3 will make a difference for all of us if it enables people to become digitally embodied, able to recognize, remember, and react to other people and organizations online—without the need to be in someone else's database.
+
+* [Video of elastos Demo of Web 3](https://twitter.com/DonaldBullers/status/1481282198061912067) @DonaldBullers
+
+Easy identity wallet creation [@Web3Essentials](https://twitter.com/Web3Essentials)
+
+Instant login to web3 social [@tryProfile](https://twitter.com/tryProfile)
+
+Your ID, your data storage [@ElastosInfo](https://twitter.com/ElastosInfo)
+
+Nice one [@everlastingOS](https://twitter.com/everlastingOS)
+
+* [Web 3.0 - How to get started!](https://www.youtube.com/watch?v=JckzkPAXdhU)
+
+What is Web3Auth???
+
+* [Web3Auth partners with Polygon Studios to bring seamless logins to the Polygon ecosystem](https://medium.com/toruslabs/web3auth-partners-with-polygon-studios-to-bring-seamless-logins-to-the-polygon-ecosystem-fc0db139895d)
+
+Web3Auth aggregates OAuth (Google, Twitter, Discord) logins, different wallets, and existing key management solutions, and provides dApps/wallets a familiar experience that fits every user. Mobile, web, and blockchain agnostic, Web3Auth fits right into your application or wallet.
+
+Metaverse
+
+* [A Digital Identity Fit For The Metaverse](https://www.forbes.com/sites/alastairjohnson/2022/01/07/a-digital-identity-fit-for-the-metaverse/?sh=70980509184b) Forbes 2022-01-07
+
+The SSI model has an individual’s value — be it crypto, in-game items, or other NFTs — directly tied to their identity. It will be accessible with a simple click for physical services, like an Uber, as well as digital ones, like using a digital asset exchange.
+
+* [Avatars May Use SSI In Metaverse To Prove Identity](https://labs.hypersign.id/posts/metaverse-and-did/) Hypersign ID
+
+Metaverse has been in the news for quite some time now. Seems like the next “buzzword” after “blockchain” in the tech space. The tech got a surge especially after [Facebook decided to change its name to Meta](https://www.cnbc.com/2021/10/28/facebook-changes-company-name-to-meta.html). In this blog, we will understand what is Metaverse (a very basic intro) and its relationship with digital identities. The focus will be on explaining why decentralized digital identities are an important tool for Metaverse to replicate the real world. 2021-10-28
+
+* [Self Sovereign Identity and Web3: From the metaverse to real life](https://medium.com/@talao_io/self-sovereign-identity-and-web3-from-the-metaverse-to-real-life-8f9ef4daae56) Talao
+
+SSI makes it easier to rely on traditional economic actuators (Brands) online and off-line to develop traffic and business on decentralized platforms and the Metaverse
+
 
 * [Why Centralised Decentralised Finance (CeDeFi) and Self-sovereign Identity (SSI) Work Together](https://unizen-io.medium.com/why-centralised-decentralised-finance-cedefi-and-self-sovereign-identity-ssi-work-together-3dccb07f16f9) Unizen
   > the combination of Centralised and Decentralised Finance — unites two ways of interacting with assets into one. Centralised Finance (CeFi) represents traditional entities (e.g. banks, brokers, funds), Decentralised Finance (DeFi) covers blockchain financial applications, cryptocurrencies, exchanges, decentralised payment services, etc. By merging the two, high transparency, impactful innovation, and wide adoption can be achieved.

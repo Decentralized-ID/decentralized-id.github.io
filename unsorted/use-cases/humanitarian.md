@@ -2,43 +2,39 @@
 published: false
 ---
 
-https://www.crowdfundinsider.com/2020/09/166678-global-id-verification-provider-onfido-to-offer-authentication-services-to-malaysias-mycash-money/
+* [GlobalID and Onfido to offer Authenication services to Malaysias Mycash Money](https://www.crowdfundinsider.com/2020/09/166678-global-id-verification-provider-onfido-to-offer-authentication-services-to-malaysias-mycash-money/) 2020-09
 
 # Humanitarian
 
 * [Fixing Aid | Can blockchain help fix the I.D. problem for a billion people?](https://www.thenewhumanitarian.org/podcast/2022/03/31/Fixing-Aid-can-blockchain-help-fix-the-ID-problem-for-a-billion-people) The New Humanitarian 2022-03-31
-
-Ismail looks at the concept of self-sovereign identity, which asserts that individuals must have ownership over their personal digital data and identification, and how that idea influences efforts to create efficient, secure digital identities for people in the midst of humanitarian crises.
+  > Ismail looks at the concept of self-sovereign identity, which asserts that individuals must have ownership over their personal digital data and identification, and how that idea influences efforts to create efficient, secure digital identities for people in the midst of humanitarian crises.
 
 SSI Fixes this?
 
 I have been prompted several times this week by this article
 - [Can digital identity help with the world refugee crisis?](https://blog.avast.com/digital-identity-world-refugee-crisis)
 
-* [Digital Identity: Enabling dignified access to humanitarian services in migration - PrepareCenter](https://preparecenter.org/resource/digital-identity-enabling-dignified-access-to-humanitarian-services-in-migration/)
-
-The primary objective of the report is to inform humanitarian organizations working with migrants of the opportunities and risks in the use of digital identities in providing services throughout the migrants’ journeys.
+* [Digital Identity: Enabling dignified access to humanitarian services in migration - PrepareCenter](https://preparecenter.org/resource/digital-identity-enabling-dignified-access-to-humanitarian-services-in-migration/) PrepareCenter
+  > The primary objective of the report is to inform humanitarian organizations working with migrants of the opportunities and risks in the use of digital identities in providing services throughout the migrants’ journeys.
 
 * [Can Blockchain and Self-Sovereign Identity Systems address the Refugee Crisis](https://www.youtube.com/watch?v=ewMZQoyGxCs) Lyonna Lyu
-
-we invite you to build hyperstructures with us with focus on NFTs, on-chain music ecosystems, a new generation of DAOs and Zora’s vast ecosystem of tools and smart contracts.
+  > we invite you to build hyperstructures with us with focus on NFTs, on-chain music ecosystems, a new generation of DAOs and Zora’s vast ecosystem of tools and smart contracts.
 
 * [At the Crossroads of Digital Imperialism & Digital Development](https://www.youtube.com/watch?v=B1Yr9hwMm8s) Berkman Klein
   > This panel examines questions of unequal power in the global digital economy (through U.S corporations, China, and Brussels (i.e. dominance through legal rules), and the ways in which this manifests itself in developing countries in Africa.
 
 * [SSI Interaction Patterns; Technometria - Issue #12](http://news.windley.com/issues/ssi-interaction-patterns-technometria-issue-12-620910?)
   > While the DID Authn pattern is simple, it is not as flexible as we need in some situations. For more complicated scenarios, we can use verifiable credentials. The first scenario we’ll consider is where the same organization is issuing and verifying the credential.
+
 ![](https://s3.amazonaws.com/revue/items/images/009/411/724/mail/Credential_Internal.png?1621957585)
 
-* [Gravity’s work with refugees in Turkey featured in latest report from Oxford Centre for Technology and Development, “Digital Identity: An Analysis for the Humanitarian Sector”](https://medium.com/gravity-earth/case-study-gravitys-work-with-refugees-in-turkey-featured-in-latest-oxford-centre-for-technology-ecb515a18464)
+* [Gravity’s work with refugees in Turkey featured in latest report from Oxford Centre for Technology and Development, “Digital Identity: An Analysis for the Humanitarian Sector”](https://medium.com/gravity-earth/case-study-gravitys-work-with-refugees-in-turkey-featured-in-latest-oxford-centre-for-technology-ecb515a18464) Gravity Earth
+  > “Gravity’s work is selected as a case study here because their solution included close collaboration with four other organizations from the start. It thus offered a rife example of interoperability challenges associated with digital ID systems, as well as how the same systems may be used to overcome existing coordination challenges. Moreover, Gravity has made more documentation of this project publicly available.”
 
-“Gravity’s work is selected as a case study here because their solution included close collaboration with four other organizations from the start. It thus offered a rife example of interoperability challenges associated with digital ID systems, as well as how the same systems may be used to overcome existing coordination challenges. Moreover, Gravity has made more documentation of this project publicly available.”
-
-* [IDB and DIDI seek Latino projects that integrate self-sovereign digital identity](https://www.explica.co/idb-and-didi-seek-latino-projects-that-integrate-self-sovereign-digital-identity.html)
-
-With the digital transformation that gained momentum with social distancing, the need for Internet citizens to have a verified digital identity is growing. Aware of this, a call has been launched to identify technological projects that wish to integrate self-sovereign digital identity for the inclusion of vulnerable populations in Latin America and the Caribbean. The objective is to promote these projects with financing between USD 10,000 and 50,000.
+* [IDB and DIDI seek Latino projects that integrate self-sovereign digital identity](https://www.explica.co/idb-and-didi-seek-latino-projects-that-integrate-self-sovereign-digital-identity.html) Explica
+  > With the digital transformation that gained momentum with social distancing, the need for Internet citizens to have a verified digital identity is growing. Aware of this, a call has been launched to identify technological projects that wish to integrate self-sovereign digital identity for the inclusion of vulnerable populations in Latin America and the Caribbean. The objective is to promote these projects with financing between USD 10,000 and 50,000.
 * [World Bank Inclusion Challenge](https://stateofidentity.libsyn.com/world-bank-the-inclusion-challenge) State of Identity with Vyjayanti Desai leads 
-    > Vyjayanti Desai, Practice Manager for the ID4D and G2Px, two global, multi-sectoral initiatives of the World Bank Group joins State of Identity to discuss The Mission Billion Challenge. The solutions-focused challenge highlights the fundamental role that digital platforms can play in helping a country to effectively provide assistance to its people.
+  > Vyjayanti Desai, Practice Manager for the ID4D and G2Px, two global, multi-sectoral initiatives of the World Bank Group joins State of Identity to discuss The Mission Billion Challenge. The solutions-focused challenge highlights the fundamental role that digital platforms can play in helping a country to effectively provide assistance to its people.
 
 
 
