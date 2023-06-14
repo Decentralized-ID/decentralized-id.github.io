@@ -76,3 +76,7 @@ JSON-LD
 ### FIDO
 - [ID-Non-SSI] FIDO (FIDO)
 
+## DIDs
+W3C Press Release - [Decentralized Identifiers (DIDs) v1.0 becomes a W3C Recommendation](https://www.w3.org/2022/07/pressrelease-did-rec) worth reading to see who contributed comments (and notice who didn’t)
+
+For individuals in particular, DIDs can put them back in control of their personal data and consent, and also enable more respectful bi-directional trust relationships where forgery is prevented, privacy is honored, and usability is enhanced.

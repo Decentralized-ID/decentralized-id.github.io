@@ -14,6 +14,16 @@ published: false
 - Apple
 - Google
 
+## Apple
+
+* [iOS 15 Code Points to Biometric Onboarding for Apple’s Mobile ID](https://findbiometrics.com/ios-15-code-points-biometric-onboarding-apples-mobile-id-77202104/) 2021-07-30 FindBiometrics
+  > The iPhone’s incoming mobile ID feature will use selfie biometrics for identity verification, suggests code uncovered by 9to5Mac. The news indicates that Apple will be even more directly in competition […] The post iOS 15 Code Points to Biometric Onboarding for Apple’s Mobile ID appeared first on FindBiometrics.
+
+## Amazon 
+* [Amazon Expands Palm Payment Service to Whole Foods in Austin, Texas](https://findbiometrics.com/amazon-expands-palm-payment-service-whole-foods-austin-texas-042105/) Find Biometrics
+
+Amazon customers will first need to register their palm(s) using a scanner at the store. They will then be able to link a debit or a credit card to that palm print, which will in turn allow them to pay for their purchases with only a palm recognition scan the next time they pass through checkout.
+
 ## Evernym
 
 * [CULedger partners with decentralized identity innovator Evernym to create MyCUID](https://www.cuinsight.com/press-release/culedger-partners-decentralized-identity-innovator-evernym-create-mycuid) 2018-02-26
