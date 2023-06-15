@@ -4,6 +4,8 @@ published: false
 
 # Fido Alliance
 
+- [SSI and FIDO2: Different approaches for a passwordless world](https://blog.avast.com/ssi-fido2)
+
 ++++ LoginWithFIDO.com	https://loginwithfido.com/
 
 ++++ Consumer Research	https://fidoalliance.org/consumerresearch/

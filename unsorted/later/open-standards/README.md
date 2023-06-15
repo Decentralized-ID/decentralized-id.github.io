@@ -76,7 +76,19 @@ JSON-LD
 ### FIDO
 - [ID-Non-SSI] FIDO (FIDO)
 
+## VC
+
+* [New search engine, mobile wallet, verifiable credentials and delivery technologies.](https://twitter.com/HUMBLPay/status/1574454647384813568) via Twitter ([ANN](https://www.globenewswire.com/en/news-release/2022/04/13/2421969/0/en/HUMBL-Selected-To-Pilot-Digital-Wallet-Program-On-Behalf-of-The-County-of-Santa-Cruz-California.html) 2022-04-13 HUMBL @HUMBLPay
+*using verifiable credentials in their wallet.*
+  > #HUMBL x GF2GO - San Diego, CA - [Pilot Program](https://www.youtube.com/watch?v=H_HAFEzmkWU) 
+
 ## DIDs
 W3C Press Release - [Decentralized Identifiers (DIDs) v1.0 becomes a W3C Recommendation](https://www.w3.org/2022/07/pressrelease-did-rec) worth reading to see who contributed comments (and notice who didn’t)
 
 For individuals in particular, DIDs can put them back in control of their personal data and consent, and also enable more respectful bi-directional trust relationships where forgery is prevented, privacy is honored, and usability is enhanced.
+
+## DID Auth
+
+* [SSI Interaction Patterns](https://www.windley.com/archives/2021/06/ssi_interaction_patterns.shtml)
+  > While the DID Authn pattern is simple, it is not as flexible as we need in some situations. For more complicated scenarios, we can use verifiable credentials. The first scenario we’ll consider is where the same organization is issuing and verifying the credential.
+  > ![](https://s3.amazonaws.com/revue/items/images/009/411/724/mail/Credential_Internal.png?1621957585)

@@ -3,6 +3,8 @@ published: false
 ---
 
 # Explainer
+* [It’s time for digital self-sovereign identity](https://gcn.com/emerging-tech/2022/08/its-time-digital-self-sovereign-identity/375285/) GCN
+  > the implementation of granular security measures to protect that data creates trusted networks between governments and the citizens they serve. Everyone wins.
 
 * [Kaliya Young on Identikit with Michelle Dennedy](https://identitywoman.net/podcast-identikit-with-michelle-dennedy/)
 
@@ -742,9 +744,6 @@ This is excellent work, with lots of references, by Dr. Nuttawut Kongsuwan ([Fin
 
 * [The Verifiable Credential’s Model](https://trinsic.id/trinsic-basics-the-verifiable-credentials-model/)
   > At the core of every self-sovereign identity (SSI) use case is what we call the verifiable credentials model. This simple yet effective model helps conceptualize how verifiable credentials are exchanged between people and organizations.
-* [What Is a Blockchain (SSI) Self-Sovereign Identity?](https://www.youtube.com/watch?v=uq0MQH4fAgc&t=3s) Blockchain Africa Conference 2022
-
-What is the value of Self-Sovereign Identity (SSI) for organisations and citizens? What are the current initiatives and traction of SSI in South Africa? What are the economic benefits and the hurdles to SSI adoption in South Africa?
 
 
 

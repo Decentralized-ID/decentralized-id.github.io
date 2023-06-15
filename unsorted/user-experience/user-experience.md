@@ -4,6 +4,22 @@ published: false
 
 # User Experience
 
+* [NO NEED FOR SUPERHUMANS!: A practical guide to ethics in socio-technical systems design](https://trustoverip.org/blog/2022/03/18/no-need-for-superhumans/) TOIP 2022-03-18
+  > Of course we are not as Albert Camus once said, ‘wild beasts loosed upon this world’, all of us have a moral compass and a sense of what is right and wrong, no-one intends for their product or service to cause harm.   Neither are we superhuman, able to always understand the perspectives of all stakeholders or foresee the consequences of every cool feature or elegant line of code, nor indeed can we forecast how our products and services will be used for good or ill. Lisa called on all of us to remember that “technology is not a product, but a system”,  and  gave us practical steps to help us tap into our innate moral compass and design for those systems with the human experience and human flourishing at its heart.
+  - summary and video [on our Wiki](https://wiki.trustoverip.org/display/HOME/1.+Dear+Human%2C+The+Future+Needs+You.++Practical+Ethics+with+Digital+Sociologist%2C+Lisa+Talia-Moretti) or [YouTube](https://www.youtube.com/watch?v=Xmnnj82wpTM&t=20s
+  - Lisa’s Ted Talk, [Technology is not a product, it’s system](https://www.ted.com/talks/lisa_talia_moretti_technology_is_not_a_product_it_s_a_system)
+  - [HXWG Expert Series Summary](https://wiki.trustoverip.org/display/HOME/Expert+Series) including video of Lisa’s talk
+  - [A SocioTechnical Process for Researchers, Designers and Creators](https://bit.ly/sociotechprocess)
+  - The [responsible tech guide](https://atih.responsibletechguide.com/introduction) is full of useful links and insights
+  - [Ethics for Designers also has practical tools](https://www.ethicsfordesigners.com/tools)
+* [FRIDA’S principles to guide data and technology](https://youngfeministfund.org/wp-content/uploads/2020/07/FRIDAS-TECH-AND-DATA-PRINCIPLES.pdf) Young Feminist Fund
+
+The tech we use should be responsive to and responisble with the climate, environment crises of our time. Frida advocates for the use and creation of volence-free technologies putting first the care of our territories and bodies
+
+* [FRIDA Happiness Manifesto](https://youngfeministfund.org/wp-content/uploads/2019/06/Happiness-Manifestx-web.pdf) Young Feminist Fund
+
+* [We Should Embrace the Ethical Implementation of Digital Identity](https://www.continuumloop.com/embrace-the-ethical-implementation-of-digital-identity/) Continuum Loop
+  > Maybe it’s because of the nature of my job in decentralized identity consulting, but lately, I’ve been seeing a lot of conspiracy theories on social media about Self-Sovereign Identity (SSI). People criticize the way it’s being implemented and warn about the negative consequences it will have. It’s almost as if people don’t realize that organizations are already monitoring and influencing us and that Google and social media algorithms have been instrumental in this.
 
 * [Falsehoods Programmers Believe About Names - With Examples](https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/) Shine Solutions Group 2018-01-08
   > In this post I’m going to list all 40 of Patrick’s original falsehoods, but give you an example (or two) drawn from my experiences working in this space. Ready? Let’s go!

@@ -3,6 +3,9 @@ published: false
 ---
 
 # Future of Digital Identity
+* [The Future of Digital Identity: Separating the digital from the individual](https://www.finextra.com/the-long-read/421/the-future-of-digital-identity-separating-the-digital-from-the-individual) 2022-07-27 ([Report](https://www.finextra.com/finextra-downloads/research/documents/245/the-future-of-digital-identity-2022.pdf)
+
+While biometrics are now part and parcel of life in 2022 – with the prevalence of mobile payments with Face ID and Touch ID – the concept of real-time and frictionless processes is what is driving the future of digital identity forward.
 
 * [The Future of Identity. A collection of interconnected research](https://borgbraincrypto.medium.com/the-future-of-identity-eee42109efd2)
   > A collection of interconnected research and thoughts, on the topics, technologies, and projects concerning the future of identification, DID’s, SSI’s, biometrics, data, ai, reputation, credentials, medical history, blockchain, privacy, and ethics, on what it should mean to us as humans, and the implications for the future of this world and our relationship with it.

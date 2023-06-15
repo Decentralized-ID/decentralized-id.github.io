@@ -1,6 +1,10 @@
 ---
 published: false
 ---
+* [Is the Self-Sovereign digital identity the future digital business registry?](https://blogs.worldbank.org/psd/self-sovereign-digital-identity-future-digital-business-registry) GORAN VRANIC, ANDREJA MARUSIC; WorldBank
+  > This rapid digitalization of the private sector exposed a challenge in the business registration paradigm. To use private digital platforms for e-Logistics or e-Commerce, SMEs have to register and confirm their identity with these platforms, despite already being identified in the government business registry.
+* [Apartment rentals and fraud: Discover technology that will ensure trusted content](https://medium.com/@michelplante/apartment-rentals-and-fraud-cf2ebc572890)
+  > At the root of the problem is the fact that uniquely identifying a person is hard to do and that people can create fake IDs for themselves quite easily.
 
 # Business
 

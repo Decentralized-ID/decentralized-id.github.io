@@ -14,6 +14,9 @@ published: false
 - Apple
 - Google
 
+## Microsoft
+* [They are using Entra!](https://www.credivera.com/the-exchange/verifiable-credentials)
+
 ## Apple
 
 * [iOS 15 Code Points to Biometric Onboarding for Apple’s Mobile ID](https://findbiometrics.com/ios-15-code-points-biometric-onboarding-apples-mobile-id-77202104/) 2021-07-30 FindBiometrics
@@ -25,6 +28,15 @@ published: false
 Amazon customers will first need to register their palm(s) using a scanner at the store. They will then be able to link a debit or a credit card to that palm print, which will in turn allow them to pay for their purchases with only a palm recognition scan the next time they pass through checkout.
 
 ## Evernym
+* [Evernym Selected as a 2021 Technology Pioneer by the World Economic Forum](https://www.evernym.com/blog/wef-technology-pioneer/) Evernym
+  > The 2021 cohort of Tech Pioneers includes many future headline-makers at the forefront of their industries. These companies show great potential to not only shake up their industries but offer real solutions to global problems.
+
+* [Introducing Veramo](https://medium.com/uport/introducing-veramo-5a960bf2a5fe)
+  > In our last post we briefly presented Veramo and how it evolved from the [challenges faced with uPort’s libraries](https://medium.com/uport/veramo-uports-open-source-evolution-d85fa463db1f). In this next series of articles we will give Veramo a proper introduction and answer some of the basics: why it exists and what it does, followed by articles describing the architecture in more detail, and how to build applications using [Veramo](https://veramo.io).
+
+## Auth0
+* [Verifiable Credentials with Auth0 and MATTR](https://auth0.com/blog/verifiable-credentials-with-auth0-and-mattr/)
+  > How to issue Verifiable Credentials from Auth0 user data using MATTR's Auth0 Marketplace Integration
 
 * [CULedger partners with decentralized identity innovator Evernym to create MyCUID](https://www.cuinsight.com/press-release/culedger-partners-decentralized-identity-innovator-evernym-create-mycuid) 2018-02-26
   > CULedger, builder of innovative blockchain-based products for credit unions and their members, teamed up with Evernym to launch MyCUID, a new consumer-focused digital identity solution. With MyCUID, credit union members can confidently protect themselves from financial fraud and identity theft, while enriching the trusted relationships members have with their credit unions.
@@ -127,13 +139,6 @@ It starts with IdentityOps embracing high assurance for connected devices. You�
 * [Gravity, Tykn advance interoperability of two decentralized ID solutions for the humanitarian sector](https://medium.com/gravity-earth/gravity-tykn-advance-interoperability-of-two-decentralized-id-solutions-for-the-humanitarian-sector-899847099d0e)
 
 Gravity and Tykn are pleased to announce our continued collaboration to advance the interoperability of our two distinct decentralized identity solutions for improved identity management in the humanitarian sector.
-
-
-### Cardano
-
-* [Ethiopia: Innovation - Here's What Cardano (ADA) Has Been Up to With the Ethiopia Project](https://allafrica.com/stories/202108190100.html)
-
-"The vision of the company is to improve the systems of the world for everyone everywhere, and the places that need better systems aren't necessarily Berlin or New York City. So you have to go to places that are a little more difficult, and you have to be very careful as you do it."
 
 ### Gimly
 
@@ -273,11 +278,6 @@ Demonstrates a financial "KYC" identity proofing using TrustBloc DIDComm capabil
   > - Security for identity
   > - Rules and standards
   > - Operational considerations
-
-### Onfido
-* [Remittances Specialist Leverages Biometric Onboarding Via Onfido](https://findbiometrics.com/remittances-specialist-leverages-biometric-onboarding-via-onfido-050604/) Find Biometrics
-
-Chipper Cash has become the latest financial institution to adopt Onfido’s identity verification technology. The company currently operates one of the largest money transfer platforms in Africa, and is hoping
 
 ### IDWorks
 

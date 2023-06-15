@@ -1,6 +1,10 @@
 ---
 published: false
 ---
+* [@Steve_Lockstep · Apr 23](https://twitter.com/Steve_Lockstep/status/1517861150129795072)
+  > I had a stab at why Cardspace failed, in “[Identities Evolve: Why Federated Identity is Easier Said than Done](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2163241)
+  > 
+  > Why does digital identity turn out to be such a hard problem? People are social animals with deep seated intuitions and conventions around identity, but exercising our identities online has been hugely problematic.
 
 * [4 Keys to Self-sovereign Identity Adoption](https://medium.com/trinsic/4-keys-to-self-sovereign-identity-adoption-ad269b208569) 2021-01-19 Trinsic
   > Many implementers won’t realize the potential of SSI until it’s deployed at scale, but in order to get to scale, we need implementers to realize value. It’s the classic chicken & egg problem.

@@ -85,9 +85,6 @@ a simple mechanism to provide public information concerning an entity by adverti
   > Machine-readable governance is composed of elements that help to establish trust and enable interoperability: trusted participants, schemas (templates for structuring information in a credential), and rules and flows for presenting credentials and verifying them. Machine-readable governance can be hierarchical. Once a governance system is published, other organizations can adopt and then amend or extend the provided system.
 
 
-* [3 Stages of a Pan-African Identity Framework for Establishing Self-Sovereign Identity With Blockchain](https://www.frontiersin.org/articles/10.3389/fbloc.2021.631640/full) Solomon Darnell, Joseph Sevilla
-
-Three stages have been identified as necessities to accomplish the development of this system before opening it further beyond the pan-African worldwide community. The three stages are defined by systems that allow for biometric/demographic registration (stage 1), interoperability and security hardening (stage 2), and biometric modality data analysis/organization/association (stage 3).
 * [Governance: Clarifying or confusing the marketplace?](https://iiw.idcommons.net/19A/_Governance:_Clarifying_or_confusing_the_marketplace%3F)
 
 Governance in decentralized identity is more akin to “technical rules and instructions.” This is highly disfluent in part because it is so extensive and in part because it relies on a new vocab that uses familiar words in unfamiliar ways. All of this creates disfluency to such a degree that it is unpleasant to contemplate and that unpleasantness is transferred onto the product.

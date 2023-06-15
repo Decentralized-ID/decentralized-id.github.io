@@ -76,9 +76,6 @@ Investors and consumers show growing enthusiasm for privacy-focused alternatives
 
 Increased supply of user-friendly private tech and increased demand for privacy have converged, creating a moment of unprecedented opportunity for founders with a vision for privacy-first online experiences.
 
-* [The vital role of LEI Issuers in facilitating wider adoption of globally recognized business identities across Africa with Alberta Abbey from London Stock Exchange Group](https://www.gleif.org/en/newsroom/blog/number-three-in-the-financial-inclusion-interview-series-the-vital-role-of-lei-issuers-in-facilitating-wider-adoption-of-globally-recognized-business-identities-across-africa-with-alberta-abbey-from-lseg-london-stock-exchange-group) GLEIF
-
-We spoke with Alberta Abbey, LEI Analyst, Data & Analytics, LSEG to discuss how this initiative will support wider adoption of globally recognized business identities, in the form of Legal Entity Identifiers (LEIs), across Africa and how to encourage more entities across Africa to obtain LEIs.
 * [Google Sued for Misleading Users Over Location Data Privacy](https://anonyome.com/2022/03/google-sued-for-misleading-users-over-location-data-privacy/) Anonyme
 
 “Google falsely led consumers to believe that changing their account and device settings would allow customers to protect their privacy and control what personal data the company could access. The truth is that contrary to Google’s representations it continues to systematically surveil customers and profit from customer data.”

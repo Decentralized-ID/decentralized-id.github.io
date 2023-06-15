@@ -25,3 +25,7 @@ published: false
 * [eKYC & Identity Assurance WG](https://openid.net/wg/ekyc-ida/)
 Among the many dots Mark is connecting on behalf of the OpenID Foundation is work with the Global Legal Entity Identifier Foundation, the Open Identity Exchange Trust Framework Initiatives and the Open Banking Implementation Entity.
 
+* [What Is Self-Sovereign Identity Verification and How Is It Changing Background Screening?](https://www.corporatescreening.com/blog/what-is-self-sovereign-identity-verification-and-how-is-it-changing-background-screening)
+  > A prime example is self-sovereign identity verification, one of the game-changing [background screening trends of 2021](https://www.corporatescreening.com/2021-trends-interactive-infographic). When combined with screening activities, self-sovereign identity solutions offer opportunities to obtain more accurate candidate background data and deliver it to employers faster.
+* [Coinfirm Adds Close To 1 Million Tokens To AML Platform, Offering Full Coverage](https://www.coinfirm.com/blog/1-million-tokens-aml-crypto/) Coinfirm
+  > LONDON, United Kingdom –  In the largest update of protocol coverage in Coinfirm’s history, the firm has added support for 840,361 new tokens to the AML Platform, offering total digital asset coverage of 17 blockchains. Now, the company’s industry-recognized blockchain agnostic AML Platform supports ~846 thousand cryptocurrencies and tokens.

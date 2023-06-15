@@ -65,29 +65,6 @@ KYC-Chain will enter a partnership with enVoy. enVoy offers sustainable DeFi, to
 
 The way many businesses have traditionally implemented KYC is by taking a manual, fragmented approach – essentially implementing various different KYC processes using different tools, methods and resources, including human compliance teams.
 
-## Africa SSI Startups
-- [Daon Provides Biometric Authentication for African Blockchain Identity Platform](https://findbiometrics.com/daon-provides-biometric-authentication-african-blockchain-identity-platform-06100/)
-
-### Diwala
-
-### FLexID
-
-* [FlexID gets Algorand funding to offer self-sovereign IDs to Africa’s unbanked](https://techcrunch.com/2022/05/26/zimbabwe-flexid-algorand-funding-decentralized-identity/) TechCrunch 2022-05-26
-
-FlexID is giving users a blockchain wallet that stores their verificable credentials. Verification is done on-chain through Algorand, which bills itself as a solution to the [blockchain trilemma](https://www.google.com/search?q=algorand+trilemma&oq=algorand+trilem&aqs=chrome.0.0i512j69i57j0i390.2391j0j9&sourceid=chrome&ie=UTF-8) of security, scalability and decentralization. FlexID will also be integrating with other Algorand decentralized apps (dApps).
-
-* [Local digital identity startup FlexID receives funding from Algorand Foundation](https://www.techzim.co.zw/2022/05/local-digital-identity-startup-flexid-receives-funding-from-algorand-foundation/) TechZim
-
-Zimbabwean founded blockchain start-up, [FlexID Technologies](https://www.flexfintx.com/) (formerly FlexFinTx), has signed a Simple Agreement For Equity (SAFE) with the [Algorand Foundation](https://www.algorand.com/), to further develop and scale their Self Sovereign Identity (SSI) platform
-
-### Gravity Earth
-* [Q&A with Gravity’s lead engineer: François Guérin](https://medium.com/gravity-earth/q-a-with-gravitys-lead-engineer-fran%C3%A7ois-gu%C3%A9rin-babb3659be86)
-
-As the Lead Developer, a big part of my role is to build Gravity’s decentralized identity protocol and blockchain architecture on Tezos.
-* [Gravity’s Decentralized Identity Protocol, Built on Tezos, To Power DIGID Project in Kenya](https://medium.com/gravity-earth/gravitys-decentralized-identity-protocol-built-on-tezos-to-power-digid-project-in-kenya-a85069f2a027)
-
-This month, Gravity joined some of the largest international NGOs in the world to launch the [Dignified Identities in Cash Programming (DIGID)](https://hiplatform.org/digid) project in Kenya. The goal of this project is to help the Kenya Red Cross leverage Gravity’s decentralized identity protocol on Tezos to provide much-needed cash transfers to vulnerable Kenyan populations.
-
 ## EU SSI Startups
 
 - MyDex
