@@ -3,6 +3,18 @@ published: false
 ---
 
 # User Experience
+* [Humanizing PoSSI- Human-centric structure of the Principles of SSI](https://iiw.idcommons.net/21M/_Humanizing_PoSSI-_Human-centric_structure_of_the_Principles_of_SSI) 2021-05-06 Line Kofoed
+  > 1. [Line] Welcome and introductions; background information around how this topic is important to discuss
+  > 2. Principles of SSI - [https://sovrin.org/principles-of-ssi/](https://sovrin.org/principles-of-ssi/)
+  > 3. Sovrin Foundation is working on Sovrin Utility GF and the Sovrin Ecosystem GF
+  > 4. Work on the SEGF led to reviewing how we define an ecosystem (see slide for definition) → identity ecosystem for identity services
+  > 5. The approach to grouping the 12 principles are intended to enable better understanding as digital trust ecosystems grow
+  > 6. Ecosystem of ecosystems will need a foundational set of values and principles and the PoSSI
+  > 7. [Sterre] It is good to have the order the principles to help better understanding
+  > 8. [Drummond] additional supplementary material to help laypersons understand the PoSSI better
+  > 9. [Alex] is the original sequence/numbering sufficient and complete?
+  > 10. [Chris] the grouping is more important for the SEGF
+  > 11. [please join Sovrin meetings]
 
 * [NO NEED FOR SUPERHUMANS!: A practical guide to ethics in socio-technical systems design](https://trustoverip.org/blog/2022/03/18/no-need-for-superhumans/) TOIP 2022-03-18
   > Of course we are not as Albert Camus once said, ‘wild beasts loosed upon this world’, all of us have a moral compass and a sense of what is right and wrong, no-one intends for their product or service to cause harm.   Neither are we superhuman, able to always understand the perspectives of all stakeholders or foresee the consequences of every cool feature or elegant line of code, nor indeed can we forecast how our products and services will be used for good or ill. Lisa called on all of us to remember that “technology is not a product, but a system”,  and  gave us practical steps to help us tap into our innate moral compass and design for those systems with the human experience and human flourishing at its heart.

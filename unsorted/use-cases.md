@@ -11,6 +11,9 @@ published: false
 ---
 
 
+
+* [The Nail Finds a Hammer: Self-Sovereign Identity, Design Principles, and Property Rights in the Developing World](https://www.newamerica.org/future-property-rights/reports/nail-finds-hammer/) 2018-10-18 New America
+  > 
 >[SSI Meetup](https://ssimeetup.org) is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. Our main mission is to help you connect with other SSI enthusiasts and create a dynamic, local, yet globally connected community.
 
 ...[Monthly webinars](https://ssimeetup.org/blog/), the [presentations](https://www.slideshare.net/SSIMeetup) and [video](https://www.youtube.com/channel/UCSqSTlKdbbCM1muGOhDa3Og) of which are invaluable resources.
