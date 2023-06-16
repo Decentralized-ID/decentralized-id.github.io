@@ -4,6 +4,9 @@ published: false
 
 # Wallets
 
+* [Digital Wallets and Migration Policy: A Critical Intersection](https://www.bosch-stiftung.de/en/publication/digital-wallets-and-migration-policy-critical-intersection) ([Download](https://www.bosch-stiftung.de/sites/default/files/publications/pdf/2022-06/Digital%20Wallets%20and%20Migration%20Policy.pdf)
+
+In cross-border and migration contexts, digital wallets promise to have wide ranging implications for global governance, especially in identity management and finance. In this brief Margie Cheesman outlines use cases as well as concerns and risks when it comes to their adoption in the migration sector.
 
 * [OKTA Cloud Identity Integration with SSI wallet](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0100.html)  sethi shivam (Tuesday, 23 November)
 

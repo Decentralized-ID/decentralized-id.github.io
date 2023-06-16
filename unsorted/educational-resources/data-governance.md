@@ -3,6 +3,8 @@ published: false
 ---
 * [Katryna Dow - Data minimisation: value, trust and obligation](https://www.ubisecure.com/podcast/data-minimisation-meeco-katryna-dow/)
   > Katryna talks to Oscar about her career (including inspiration from Minority Report), Meeco’s personal data & distributed ledger platform, the importance of data minimisation to inspire trust in organisations, and cultural differences in attitudes towards digital identity.
+* [Why Location Data Brokers Put All Communities At Risk](https://me2ba.org/why-location-data-brokers-put-all-communities-at-risk/) Zach Edwards M2BA
+  > New work that may leverage decentralized ID from the supply chain side of things…but not sure (lots of links inside on data brokers harm)
 
 # Data Governance
 * [Radical Exchange Talk: Data Agency. Individual or Shared?](https://identitywoman.net/radical-exchange-talk-data-agency-individual-or-shared/)

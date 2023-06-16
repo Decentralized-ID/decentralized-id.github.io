@@ -4,6 +4,7 @@ published: false
 
 * [Controlling Our ID with Self-Sovereign Identities](https://fromknowhowtowow.podigee.io/19-ssi) KnowHowToWow
   > Bosch researcher Christian Borman explains how SSI will not only increase privacy but also have a positive impact on B2B interactions and supply chain management. Meanwhile, Geoff meets mentalist Thorsten Havener. Will he reveal Geoff’s true identity? 
+* [Vincent Annunziato,](https://www.spreaker.com/user/13158652/ep8-cbp-vincent-annunziato) talks about his work with The Silicon Valley Innovation Program. He is the Director of Transformation & Innovation Division of the Customs and Border Patrol Office of Trade, talks about shaping blockchain technologies to make imports safer and more secure. CBP's current projects include tracking steel, oil, and natural gas imports from Canada.
 
 * [Trusted Supply Chain: end-to-end compliance in multi-tier supply chain](https://evan.network/use-cases/trusted-supply-chain/) Evan Network
   > In the real estate industry, TRUST&TRACE can be used by companies to obtain required compliance information from a network of participating companies. In this way, all property data is collected step by step: from building construction and leasing to sale and demolition.

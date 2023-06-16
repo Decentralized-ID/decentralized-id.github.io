@@ -28,17 +28,6 @@ published: true
 * [Blockchain Can Empower Stateless Refugees](https://www.law360.com/technology/articles/1095148/blockchain-can-empower-stateless-refugees) 2018-12-02 Law360
   >  InternetBar.org Institute, or IBO, a global NGO, developed the idea for a project to pursue these goals, and presented it at the World Justice Forum V in July 2017, in a presentation titled "The Invisibles: Digital Identity for Stateless Refugees." Then, earlier this year, IBO recorded music with top musicians living in refugee camps in eight countries, in order to make these refugees owners of digital assets.
 
-## Report
-
-* [Digital Identity: Enabling dignified access to humanitarian services in migration - PrepareCenter](https://preparecenter.org/resource/digital-identity-enabling-dignified-access-to-humanitarian-services-in-migration/) 2021-06-07 PrepareCenter
-  > The primary objective of the report is to inform humanitarian organizations working with migrants of the opportunities and risks in the use of digital identities in providing services throughout the migrants’ journeys.
-* [Gravity’s work with refugees in Turkey featured in latest report from Oxford Centre for Technology and Development, “Digital Identity: An Analysis for the Humanitarian Sector”](https://medium.com/gravity-earth/case-study-gravitys-work-with-refugees-in-turkey-featured-in-latest-oxford-centre-for-technology-ecb515a18464) 2021-05-25 Gravity Earth
-  > “Gravity’s work is selected as a case study here because their solution included close collaboration with four other organizations from the start. It thus offered a rife example of interoperability challenges associated with digital ID systems, as well as how the same systems may be used to overcome existing coordination challenges. Moreover, Gravity has made more documentation of this project publicly available.”
-* [Self-Sovereign Identity Systems for Humanitarian Interventions—A Case Study on Protective Cash Transfer Programs](https://repository.tudelft.nl/islandora/object/uuid:6cdb5450-9a81-47a9-8ffa-f9bd77c72448/datastream/OBJ1/download) 2018-08-01 L. Stevens Tu Delft
-  > This research creates a functional blockchain based system, that enables identities for the use-case of Cash Transfer Programs.\
-  > Results: We present a validated set of ten design decisions that represent the trade-offs that have been made and prescribe a blueprint for a technical design.\
-  > Next steps: Future research should be done on how such a system could be implemented and used. This would require a process design approach that has to be developed, Also, elaborate research into user experience and user interfaces should be conducted.
-
 ## Ethics
 
 * [Pro-social behaviours](https://en.wikipedia.org/wiki/Prosocial_behavior) 2023-06-14 Wikipedia  
@@ -79,6 +68,12 @@ published: true
   > 4. Can we dismantle industrial-age silos between work, home, education, play, and community?
 * [World Bank Inclusion Challenge](https://stateofidentity.libsyn.com/world-bank-the-inclusion-challenge) 2020-10-15 State of Identity Vyjayanti Desai
   > Vyjayanti Desai, Practice Manager for the ID4D and G2Px, two global, multi-sectoral initiatives of the World Bank Group joins State of Identity to discuss The Mission Billion Challenge. The solutions-focused challenge highlights the fundamental role that digital platforms can play in helping a country to effectively provide assistance to its people.
+* [DIDI, SSI &amp; public blockchains for inclusion in Argentina and LATAM](https://www.slideshare.net/SSIMeetup/didi-ssi-public-blockchains-for-inclusion-in-argentina-and-latam) 2019-05-24 SSIMeetup
+  > The objective of DIDI, is to reduce social inequalities, the penalization of poverty and to promote financial inclusion of these populations, identifiable worldwide, but above all, in Latin America, where DIDI will do its first steps, facilitating access to quality goods and services. The first DIDI pilot will be launched through the development of a self-sovereign identity (SSI) platform in the Padre Mugica neighborhood, Ciudad de Buenos Aires, Argentina.
+* [Self-Sovereign Identity Systems for Humanitarian Interventions—A Case Study on Protective Cash Transfer Programs](https://repository.tudelft.nl/islandora/object/uuid:6cdb5450-9a81-47a9-8ffa-f9bd77c72448/datastream/OBJ1/download) 2018-08-01 L. Stevens Tu Delft
+  > This research creates a functional blockchain based system, that enables identities for the use-case of Cash Transfer Programs.\
+  > Results: We present a validated set of ten design decisions that represent the trade-offs that have been made and prescribe a blueprint for a technical design.\
+  > Next steps: Future research should be done on how such a system could be implemented and used. This would require a process design approach that has to be developed, Also, elaborate research into user experience and user interfaces should be conducted.
 
 ## Business
 * [What are the limits of the private sector in serving the poor?](https://medium.com/caribou-digital/what-are-the-limits-of-the-private-sector-in-serving-the-poor-3ee9a9a468fc) 2021-08-17 Caribou Digital
@@ -105,6 +100,17 @@ published: true
   [[iRespond](https://www.irespond.org/)'s] solution is built around verifiable credentials. Only the holder, which in this case is the mother, can access and share the credential through biometrics, in the form of an iris scan. This digital credential provides redundancy for the paper-based credential, and allows individuals to recover their paper documents if they are ever lost or stolen. Conversely, digital credentials can be recovered using their physical document.
 * [Rohingya turn to blockchain to solve identity crisis](https://www.theguardian.com/world/2018/aug/21/rohingya-turn-to-blockchain-to-solve-identity-crisis) 2018-08-21 Guardian
   > Dilek Genc, a PhD candidate at the University of Edinburgh who studies blockchain-type applications in humanitarian aid and development, saysif the aid community continues to push innovation using Silicon Valley’s creed of “fail fast and often,” and experiment on vulnerable peoples they will be fundamentally at odds with humanitarian principles and fail to address the political roots of issues facing refugees.
+
+## Refugees
+
+* [Lost and Found: Digital identity Can Be The Difference Between Life And Death For Refugees](https://diacc.ca/2022/09/27/lost-and-found-digital-identity-can-be-the-difference-between-life-and-death-for-refugees/) 2022-09-27 DIACC
+  > Most Refugees and IDPs did not have the time to properly prepare by gathering all their important documents such as passports, identity cards, driver’s licenses, and land titles or rental agreements. Fleeing your home may save your life, but fleeing without identity documents can lead to a very long wait – sometimes a decade or more – before your life is stable again.
+* [Digital Identity: Enabling dignified access to humanitarian services in migration - PrepareCenter](https://preparecenter.org/resource/digital-identity-enabling-dignified-access-to-humanitarian-services-in-migration/) 2021-06-07 PrepareCenter
+  > The primary objective of the report is to inform humanitarian organizations working with migrants of the opportunities and risks in the use of digital identities in providing services throughout the migrants’ journeys.
+* [Gravity’s work with refugees in Turkey featured in latest report from Oxford Centre for Technology and Development, “Digital Identity: An Analysis for the Humanitarian Sector”](https://medium.com/gravity-earth/case-study-gravitys-work-with-refugees-in-turkey-featured-in-latest-oxford-centre-for-technology-ecb515a18464) 2021-05-25 Gravity Earth
+  > “Gravity’s work is selected as a case study here because their solution included close collaboration with four other organizations from the start. It thus offered a rife example of interoperability challenges associated with digital ID systems, as well as how the same systems may be used to overcome existing coordination challenges. Moreover, Gravity has made more documentation of this project publicly available.”
+* [Self-Sovereignty for Refugees? The Contested Horizons of Digital Identity](https://www.tandfonline.com/doi/full/10.1080/14650045.2020.1823836) 2020-10-04 Margie Cheesman
+  > I identify a series of competing logics in the debates around SSI’s emancipatory potential, which relate to four issues: (i) the neutrality of the technology, (ii) the capacities of refugees, (iii) global governance and the nation state, and (iv) new economic models for digital identity. SSI is simultaneously the potential enabler of new modes of empowerment, autonomy and data security for refugees and a means of maintaining and extending bureaucratic and commercial power. I situate SSI in a genealogy of systems of identity control and argue that, in practice, it is likely to feed into the powers of corporations and states over refugee populations.
 
 ## Biometrics
 

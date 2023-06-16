@@ -26,9 +26,6 @@ There are more good pictures
   > We were joined by Drummond Reed and Alex Preukschat, co-authors of Manning Publication's new book 'Self-Sovereign Identity,' for a conversation on the book's development and recent release and what the future holds for SSI as a technology, architecture, and movement.
 * [Personal Identity and the Future of Digital Interactions](https://www.pingidentity.com/en/company/blog/posts/2021/personal-identity-future-digital-interactions.html) Ping Identity
   > What if individuals could determine how to share data and with whom? What if that data was always up to date? And what if instead of merely having a unified customer profile in a single company, each person could have one identity experience for all the companies and people they interact with?
-* [The Digital Supply Chain of the Future](https://medium.com/transmute-techtalk/the-digital-supply-chain-of-the-future-79e9431aaa0d) Nis Jespersen Transmute
-
-There is no limit to what a DID can identify. The obvious examples are organizations and people, as explained above. They can also represent assets such as shipping containers, seals, boxes, vessels, or locations, and intangible concepts like bookings, agreements, transactions, or documents.
 * [the most important questions](https://werd.io/2021/one-of-the-most-important-questions-turns) Ben Werdmuller
 
 what is the future you want to build?

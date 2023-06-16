@@ -1,6 +1,8 @@
 ---
 published: false
 ---
+* [Self-Sovereign Identity as a Service: Architecture in Practice](https://arxiv.org/pdf/2205.08314.pdf) Yepeng Ding, Hiroyuki Sato, University of Tokyo
+  > We propose a practical architecture by elaborating the service concept, SSI, and DLT to implement SSIaaS platforms and SSI services. Besides, we present an architecture for constructing and customizing SSI services with a set of architectural patterns and provide corresponding evaluations. Furthermore, we demonstrate the feasibility of our proposed architecture in practice with Selfid, an SSIaaS platform based on our proposed architecture.
 
 # Literature
 * [A Decentralized Digital Identity Architecture](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00017/full) 2019-11-05 Geoff Goodell, Tomaso Aste
@@ -16,15 +18,13 @@ published: false
 * [On the Trust and Trust Modelling for the Future Fully-Connected Digital World: A Comprehensive Study](https://arxiv.org/pdf/2106.07528.pdf)
 
 Under our analysis of trust and the digital world, we define differenttypes of trust relationships and find out the factors that are needed to ensure a fully representative model.Next, to meet the challenges of digital trust modelling, comprehensive trust model evaluation criteria areproposed, and potential securities and privacy issues of trust modelling are analyzed. Finally, we provide awide-ranging analysis of different methodologies, mathematical theories, and how they can be applied totrust modelling
-* [Self-Sovereignty for Refugees? The Contested Horizons of Digital Identity](https://www.tandfonline.com/doi/full/10.1080/14650045.2020.1823836)
-  > I identify a series of competing logics in the debates around SSI’s emancipatory potential, which relate to four issues: (i) the neutrality of the technology, (ii) the capacities of refugees, (iii) global governance and the nation state, and (iv) new economic models for digital identity. SSI is simultaneously the potential enabler of new modes of empowerment, autonomy and data security for refugees and a means of maintaining and extending bureaucratic and commercial power. I situate SSI in a genealogy of systems of identity control and argue that, in practice, it is likely to feed into the powers of corporations and states over refugee populations.
 * [Beware of Digital ID attacks: your face can be spoofed!](https://www.enisa.europa.eu/news/enisa-news/beware-of-digital-id-attacks-your-face-can-be-spoofed) ENISA
 
 Digital identification is the focus of two new reports by the European Union Agency for Cybersecurity (ENISA): [an analysis of self-sovereign identity](https://www.enisa.europa.eu/publications/digital-identity-leveraging-the-ssi-concept-to-build-trust/@@download/fullReport) (SSI) and a study of major [face presentation attacks](https://www.enisa.europa.eu/publications/remote-identity-proofing-attacks-countermeasures).
 
-* [Digital Identity: Leveraging the SSI Concept to Build Trust](https://www.enisa.europa.eu/publications/digital-identity-leveraging-the-ssi-concept-to-build-trust)
 
-This report explores the potential of self-sovereign identity (SSI) technologies to ensure secure electronic identification and authentication to access cross-border online services offered by Member States under the eIDAS Regulation. It critically assesses the current literature and reports on the current technological landscape of SSI and existing eID solutions, as well as the standards, communities, and pilot projects that are presently developing in support of these solutions.
+* [Digital Identity: Leveraging the SSI Concept to Build Trust](https://www.enisa.europa.eu/publications/digital-identity-leveraging-the-ssi-concept-to-build-trust)
+  > This report explores the potential of self-sovereign identity (SSI) technologies to ensure secure electronic identification and authentication to access cross-border online services offered by Member States under the eIDAS Regulation. It critically assesses the current literature and reports on the current technological landscape of SSI and existing eID solutions, as well as the standards, communities, and pilot projects that are presently developing in support of these solutions.
 * [Self-Sovereign Identity as a Service: Architecture in Practice](https://arxiv.org/pdf/2205.08314.pdf) Yepeng Ding, Hiroyuki Sato, University of Tokyo
 
 We propose a practical architecture by elaborating the service concept, SSI, and DLT to implement SSIaaS platforms and SSI services. Besides, we present an architecture for constructing and customizing SSI services with a set of architectural patterns and provide corresponding evaluations. Furthermore, we demonstrate the feasibility of our proposed architecture in practice with Selfid, an SSIaaS platform based on our proposed architecture.

@@ -340,15 +340,3 @@ PUBLISH CEO Sonny Kwon gave an overview of a press ID app PUBLISH is building in
 
 PUBLISHiD users will further be able to assemble collections of verifiable credentials from one or more issuers into a single [verifiable presentation](https://www.w3.org/TR/vc-data-model/#dfn-verifiable-presentations). Other features include DAuth-based authentication, single-sign on (SSO), and an agent ID service capable of handling the management of and security between credential issuers and verifiers.
 
-## Bosch
-* [Growing confidence is programmed in – how self-sovereign digital identities make business relationships easier](https://www.bosch.com/research/blog/economy-of-things/technology/#ssi_) Bosch
-
-Bosch will now also systematically transfer the self-sovereign identity (SSI) principle to the B2B sector – in other words to business relationships between companies. A further step will involve transferring it to secure and trustworthy interactions between machines.
-* [Controlling Our ID with Self-Sovereign Identities](https://fromknowhowtowow.podigee.io/19-ssi) KnowHowToWow
-  > Bosch researcher Christian Borman explains how SSI will not only increase privacy but also have a positive impact on B2B interactions and supply chain management. Meanwhile, Geoff meets mentalist Thorsten Havener. Will he reveal Geoff’s true identity? 
-
-* [Digital identity – enabling secure collaboration with blockchain technology](https://www.bosch.com/stories/self-sovereign-identities/) Bosch
-* [Digital Wallets and Migration Policy: A Critical Intersection](https://www.bosch-stiftung.de/en/publication/digital-wallets-and-migration-policy-critical-intersection) ([Download](https://www.bosch-stiftung.de/sites/default/files/publications/pdf/2022-06/Digital%20Wallets%20and%20Migration%20Policy.pdf)
-
-In cross-border and migration contexts, digital wallets promise to have wide ranging implications for global governance, especially in identity management and finance. In this brief Margie Cheesman outlines use cases as well as concerns and risks when it comes to their adoption in the migration sector.
-

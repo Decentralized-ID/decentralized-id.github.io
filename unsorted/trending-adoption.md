@@ -7,6 +7,10 @@ published: false
   > Why does digital identity turn out to be such a hard problem? People are social animals with deep seated intuitions and conventions around identity, but exercising our identities online has been hugely problematic.
 * [OWI Digital Forum Recap: The Rise & Adoption of Verifiable Credentials](https://trinsic.id/owi-digital-forum-recap-the-rise-adoption-of-verifiable-credentials/) 2021-05-21 Trinsic
   > Trinsic CEO Riley Hughes sat down with [One World Identity](https://oneworldidentity.com/) (OWI) CEO Travis Jarae to have a one-on-one conversation about [“The Rise & Adoption of Verifiable Credentials”](https://oneworldidentity.com/session/trinsic/). Below is a short summary
+* [Why self-sovereign identity will get adopted (and it’s not the reason you probably want)](https://www.tuesdaynight.org/2018/06/15/why-self-sovereign-identity-will-get-adopted-and-its-not-the-reason-you-probably-want/) 2018-06-15 Tuesday Night 
+  > In the payment card world, there are clear guidelines on personal liability. $50 if you use credit and up to $500 for debit depending on when you report the issue. Based on that, different people choose to use different “systems.”
+  > 
+  > However, no such guidelines exist for the use of identity information (e.g. attributes.)
 
 * [4 Keys to Self-sovereign Identity Adoption](https://medium.com/trinsic/4-keys-to-self-sovereign-identity-adoption-ad269b208569) 2021-01-19 Trinsic
   > Many implementers won’t realize the potential of SSI until it’s deployed at scale, but in order to get to scale, we need implementers to realize value. It’s the classic chicken & egg problem.
