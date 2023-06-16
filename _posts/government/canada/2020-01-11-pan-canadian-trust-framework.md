@@ -6,7 +6,7 @@ excerpt: >
 permalink: /government/canada/pctf/
 canonical_url: https://decentralized-id.com/government/canada/pctf/
 tags: ["Trust Framework","Canada","Verifiable Credentials","DIACC","PCTF"]
-categories: ["Government"]
+categories: ["Region"]
 header:
   image: /images/pan-canadian-trust-header.webp
   caption: "[PCTF Placemat](https://canada-ca.github.io/PCTF-CCP/docs/PCTF-Placemat.pdf)"

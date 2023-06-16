@@ -6,7 +6,7 @@ excerpt: >
   The preliminary draft of the federal law declared the purpose of the E-ID to be to ensure "secure identification by means of E-ID among private individuals and with authorities". The protection of the personality and fundamental rights of individuals is to be provided by the following principles
 permalink : /government/europe/switzerland/
 canonical_url: https://decentralized-id.com/government/europe/switzerland/
-categories: ["Government"]
+categories: ["Region"]
 tags: ["Europe","Switzerland"]
 last_modified_at: 2023-06-09
 ---
