@@ -44,6 +44,8 @@ last_modified_at: 2023-06-07
   > In April 2022, DINZ launched a broad-scope members’ [Working Group](https://digitalidentity.nz/inclusive-and-ethical-uses-of-digital-identity/) in response to the increasing challenges for some groups in society to participate fully in [Aotearoa’s digital transformation](https://www.digital.govt.nz/digital-government/strategy/towards-a-digital-strategy-for-aotearoa/developing-a-digital-strategy-for-aotearoa/), with the aim of providing baseline supporting guidance to inform policy and service design.
 * [DINZ’s annual Consumer Research](https://digitalidentity.nz/wp-content/uploads/sites/25/2020/07/DINZ-Scrolling-Infographic-July-2020-FINAL.pdf) 2020-06 Digital Identity NZ
   > ‘Do the best you can until you know better. Then when you know better, do better.’ These wise words from Maya Angelou encapsulate the key findings from our 2020 trust and identity research.
+* [Survey Results] [Providing a Benchmark Understanding of Digital Identity Among New Zealanders](https://digitalidentity.nz/wp-content/uploads/sites/25/2019/05/Digital-Identity-Yabble-Benchmark-Research-Infographic-May-2019.pdf) 2019-05 DigitalIDNZ
+  > found 85 percent of respondents said there was a lack of transparency, as well as concern in having to share data with so many organisations.
 
 ## Organization
 * [2022 Executive Council nominations now open](https://digitalidentity.nz/2022/10/06/executive-council-nominations-now-open/) Digital Identity NZ 2022-10-06

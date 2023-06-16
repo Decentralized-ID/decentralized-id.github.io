@@ -1045,13 +1045,6 @@ increasingly crucial role.
 * [Stoic Sovereign Identity (SSI)](https://www.linkedin.com/pulse/stoic-sovereign-identity-ssi-simone-ravaioli/) Simone Ravaioli
 
 
-* [KYC/AML: How crypto will change a TradFi standard forever](https://blog.pantherprotocol.io/kyc-aml-how-crypto-might-change-a-traditional-finance-standard-forever/) Panther Protocol
-
-traditional KYC/AML practices can give way to a more practical framework, where businesses can remain compliant with regulations and collect data without threatening privacy, data security, and breaching data laws.
-
-* [Gaining trust during uncertain times – How KYC crypto solutions can lead the way](https://www.idnow.io/blog/crypto-kyc-uk-trends/) IDnow
-
-recently-released ‘[Crypto in KYC – Growth through trust’](https://www.idnow.io/portfolio/crypto-in-kyc-growth-through-trust/) ebook helps organizations to better understand the notoriously unstable market
 
 - [Online identity and the history of identifiers](https://medium.com/hypersign/ssi-101-online-identity-and-the-history-of-identifiers-963bff60c816) Hypersign
 - [Drawbacks of Traditional Identifiers and An Introduction to WEB3](https://medium.com/hypersign/ssi-101-part-2-drawbacks-of-traditional-identifiers-and-an-introduction-to-web3-a1bf791819b0) Hypersign

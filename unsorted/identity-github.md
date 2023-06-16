@@ -410,21 +410,6 @@ This presents a method to replace the usual signup/login design pattern with a m
 * [jolocom/registry-contract](https://github.com/jolocom/registry-contract) - A basic smart contract on top of the Ethereum network that registers mappings between DID and IPFS DDO hashes.
 * [jolocom/smartwallet-webid-proxy](https://github.com/jolocom/smartwallet-webid-proxy) - WebID proxy service
 
-## Cryptonomica
-
-[![](https://i.imgur.com/moVyrrt.png)](https://cryptonomica.github.io)
-
-* [Cryptonomica/cryptonomica](https://github.com/Cryptonomica/cryptonomica) - Cryptonomica keys server
-* [Cryptonomica/cryptonomica.github.io](https://github.com/Cryptonomica/cryptonomica.github.io) - Cryptonomica frontend
-* [Cryptonomica/arbitration-rules](https://github.com/Cryptonomica/arbitration-rules) - Cryptonomica Arbitration Rules
-* [Cryptonomica/dappathon-tlv](https://github.com/Cryptonomica/dappathon-tlv)
-* [Cryptonomica/Ethereum-IdentityVerification](https://github.com/Cryptonomica/Ethereum-IdentityVerification) - Indentity verification and KYC for Ethereum blockchain
-* [Cryptonomica/ethnode.cryptonomica.net](https://github.com/Cryptonomica/ethnode.cryptonomica.net) - Ethereum node with API on nodejs and web3.js
-* [Cryptonomica/Ethereum-IdentityProof](https://github.com/Cryptonomica/Ethereum-IdentityProof) - Smart contract for Ethereum's account owner verification using Cryptonomica.net
-* [Cryptonomica/international-arbitration-law](https://github.com/Cryptonomica/international-arbitration-law) - Repository for collecting information about international arbitration law and practice
-
-
-
 ## Learning Machine
 
 * [learningmachine/stage.blockcerts.github.io](https://github.com/learningmachine/stage.blockcerts.github.io) - Web site 

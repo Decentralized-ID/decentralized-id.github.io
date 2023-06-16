@@ -53,18 +53,6 @@ That includes companies that are trying to prevent digital fraud, as well as com
 * [We are now officially live in Myanmar!](https://zada.io/we-are-now-officially-live-in-myanmar/)
 
 ZADA apps are all launched and our first digital ID – a COVIDPASS – is being issued by Pun Hlaing Hospitals to everyone who gets vaccinated.
-
-### KYC Chain
-
-* [KYC-Chain Join Hands with enVoy](https://kyc-chain.com/kyc-chain-join-hands-with-envoy/)
-
-KYC-Chain will enter a partnership with enVoy. enVoy offers sustainable DeFi, tokenized letters of credit, realtime x border payments, and tokenized documentation for the supply chain removing risk and creating trust for third-party trade on an end to end ESG and sustainable supply chain journey.
-
-* [KYC-Chain & CrypTalk Join Hands](https://kyc-chain.com/kyc-chain-cryptalk-join-hands/)
-* [Importance of an Integrated KYC solution for your compliance program](https://kyc-chain.com/importance-of-an-integrated-kyc-solution-for-your-compliance-program/) kyc-chain
-
-The way many businesses have traditionally implemented KYC is by taking a manual, fragmented approach – essentially implementing various different KYC processes using different tools, methods and resources, including human compliance teams.
-
 ## EU SSI Startups
 
 - MyDex
@@ -77,8 +65,11 @@ The way many businesses have traditionally implemented KYC is by taking a manual
 + Cheqd
 
 ## more
+* [A trusted internet. Easy and secure. For everyone.](https://esatus.com/solutions/self-self-sovereign-identity/?lang=en) Enabled by digital credentials and SSI technology.
+  > Already today, credentials are being used in a wide variety of applications, such as a digital identity card, a work permit or a test certificate. We would like to explain the functionality and potential use cases for credentials by following our protagonist called Sam, who has just completed a Covid-19 rapid test.
 
- https://essif-lab.eu/wp-content/uploads/2022/09/essif-booklet-22a.pdf
+
+
 
 
 ## Tangle Labs

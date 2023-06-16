@@ -86,9 +86,6 @@ using standards that are WWW Consortium-compatible and the Ethereum Blockchain, 
 
 The discussion covered a broad range of topics, from specific data availability to the challenges of applying and translating technical data into usable formats to the application of geospatial data for anticipatory humanitarian response
 
-* [Designing a Framework for Digital KYC Processes Built on Blockchain-Based Self-Sovereign Identity](https://arxiv.org/pdf/2112.01237.pdf) Vincent Schlatt, Johannes Sedlmeir, Simon Feulner, Nils Urbach
-
-We demonstrate how blockchain-based self-sovereign identity (SSI) can solve the challenges of KYC. We follow a rigorous design science research approach to create a framework that utilizes SSI in the KYC process, deriving nascent design principles that theorize on blockchain’s role for SSI.
 
 * [Implementing Self-Sovereign Identity (SSI) for a digital staff passport at UK NHS](https://cpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/5/444/files/2018/01/BCoE2022SS1FINAL.pdf) Mary Lacity Walton, Erran Carmel
 

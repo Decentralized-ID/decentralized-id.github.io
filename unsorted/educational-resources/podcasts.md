@@ -3,6 +3,8 @@ published: false
 ---
 
 # Podcasts
+* [Identity Masters Podcast](https://open.spotify.com/show/0NmFDoGu9zq3r1nmgjwkhQ)
+  > At Authenteq, we spend a lot of time thinking and talking about how to make the internet a safer space. It’s also what drives our product roadmap and why we got into identity verification and e-KYC in the first place. As we work to democratize the knowledge we have access to, we know that for it to be truly accessible, we have to work with different formats. This is why we’re very excited to introduce the brand spanking new Identity Masters podcast now available on Spotify!
 
 * [My podcasts of choice](https://blogs.harvard.edu/doc/2021/05/04/podcasts/) Doc Searls 2021-05-04
 * [The Digital Identity Transformation – Podcast](https://idramp.com/the-digital-identity-transformation-podcast/)

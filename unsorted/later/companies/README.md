@@ -244,8 +244,6 @@ Block is a new name, but our purpose of economic empowerment remains the same.
 
 ### Authenteq
 
-* [Identity Masters Podcast](https://open.spotify.com/show/0NmFDoGu9zq3r1nmgjwkhQ)
-  > At Authenteq, we spend a lot of time thinking and talking about how to make the internet a safer space. It’s also what drives our product roadmap and why we got into identity verification and e-KYC in the first place. As we work to democratize the knowledge we have access to, we know that for it to be truly accessible, we have to work with different formats. This is why we’re very excited to introduce the brand spanking new Identity Masters podcast now available on Spotify!
 * [The Benefits of Automating Your Employees’ Identity Verification](https://authenteq.com/the-benefits-of-automating-your-employees-identity-verification/)
 
 ### darkmatterlabs
@@ -262,12 +260,6 @@ Self-sovereign objects are are self-executing and self-owning; capable of determ
 ### Tru
 * [Tru.net](https://www.tru.net/) is live and ready for communities/users
   > If you are looking for an alternative to Facebook that uses DIDs as its foundation and other protocols that are free to use ([JLINC](https://www.jlinc.com/) Kaliya highly recommend Tru.net
-
-### Trustbloc
-
-* [DIDComm for KYC](https://www.youtube.com/watch?v=PWrZxRbCG88) Trustbloc
-
-Demonstrates a financial "KYC" identity proofing using TrustBloc DIDComm capabilities. Stored credentials and real-time attestations can be authorized in a single flow.
 
 ### IDPro
 

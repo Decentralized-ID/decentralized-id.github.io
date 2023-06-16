@@ -231,8 +231,6 @@ There are five essential mental models to understanding why Web3 matters, and th
 Web3 has begun to impact all corners of digital culture, from media to finance, art and gaming, and even identity. Mental models allow for digestible thinking patterns to understand and predict the world, and Chris lays out how these new digital primitives are changing everything.
 
 
-* [Ontology Partnership with Binance Smart Chain](https://medium.com/ontologynetwork/ontology-the-only-decentralized-identity-partner-for-binance-smart-chain-d531efbc569)
-  > Ontology and Binance have a long history of cooperation and partnership that has generated benefits for both sides, none possibly more important the integration of Ontology’s Decentralized Identity Solution into the Binance Smart Chain. The symbiotic relationship sees Ontology, and ONT ID, as the sole partner for BSC in terms of providing a truly decentralized identity option and KYC user verification.
 * [OAuth 2.0 meets VCs + ETH](https://media.voog.com/0000/0042/0957/files/2020-OSW-SOFIE.pdf) [slides] Sophie Project
 * [Announcing Tezos Profiles - Own and Control Your Creator Identity](https://sprucesystems.medium.com/announcing-tezos-profiles-own-and-control-your-creator-identity-ec0eddf9706d) Spruce Systems
   > Spruce is excited to announce the upcoming launch of Tezos Profiles (TZP) in early May. TZP is a web application that helps users regain control of their digital identity for use across platforms. It allows users to create portable verified profiles by demonstrating control over their public social media and by self-attesting information. These verified profiles are then linked to Tezos acco
@@ -467,9 +465,6 @@ Users will now be able to control their digital identity with their Solana accou
 
 A whole lot of ecosystem players at the event were pleasantly surprised to discover Web3Auth’s Key Management Infrastructure
 
-* [iXRPL - A Smart Contract-Powered, Self-Sovereign KYC Solution for the XRP Ledger](https://lexautomagica.com/wp-content/uploads/2021/07/iXRPL-Whitepaper.pdf) by Scott Chamberlain, Richard Holland, and Ravin Perera
-
-the verification is “stamped” on the User’s XRP Ledger Account with a Non-Fungible-Token, called a Human UUID, that uniquely identifies the verified individual. The User can then present their verified credentials, cross-checked against the XRP Ledger Account, to financial institutions to satisfy KYC requirements. Effectively, iXRPL “tokenises” the one-off cost of verifying your identity into a reusable asset.
 
 * [7 Essential Ingredients of a Metaverse](https://future.a16z.com/7-essential-ingredients-of-a-metaverse/) Liz Harkavy, Eddy Lazzarin, Arianna Simpson
 

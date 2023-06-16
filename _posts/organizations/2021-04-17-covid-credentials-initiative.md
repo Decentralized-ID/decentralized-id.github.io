@@ -7,7 +7,7 @@ layout: single
 toc: FALSE
 permalink: organizations/covid-credentials-initiative/
 canonical_url: 'https://decentralized-id.com/organizations/covid-credentials-initiative/'
-categories: ["Organizations"]
+categories: ["History","Organizations"]
 tags: ["Linux Foundation","Linux Foundation Public Health","MedCreds","Evernym","ID2020","uPort","Dutch Research","TNO","Microsoft","Consensys Health","Luxoft"]
 last_modified_at: 2021-04-17
 header:
