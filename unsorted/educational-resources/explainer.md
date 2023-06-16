@@ -3,12 +3,16 @@ published: false
 ---
 
 # Explainer
+* [ID Verification Threats On the Horizon](https://stateofidentity.libsyn.com/id-verification-threats-on-the-horizon) 2022-03-31 Liminal Podcasts
+  > Cognito's CEO Alain Meier joins the State of Identity host Cameron D’Ambrosi to dive into why industries beyond financial services are now in the market for identity verification. They also unpack the impact of synthetic identity fraud across verticals, and how platforms find the balance when building their onboarding processes.
 * [It’s time for digital self-sovereign identity](https://gcn.com/emerging-tech/2022/08/its-time-digital-self-sovereign-identity/375285/) GCN
   > the implementation of granular security measures to protect that data creates trusted networks between governments and the citizens they serve. Everyone wins.
-
-* [Kaliya Young on Identikit with Michelle Dennedy](https://identitywoman.net/podcast-identikit-with-michelle-dennedy/)
-
-our latest series examining the evolution of digital identity, and how self-sovereign identity, specifically, can advance a consent-based economy.
+* [Digital Identity Isn’t Only For People](https://www.forbes.com/sites/davidbirch/2020/12/22/digital-identity-isnt-only-for-people/) 2020-12-22 David Birch, Forbes 
+  > fintechs and regtechs looking for opportunities in the digital identity space should cast their ideas net pretty wide. Digital identities are not only for people and the future desperately needs digital identities for pretty much everything to underpin recognition, relationships and reputation (the 3Rs of the online economy).
+* [Impacts from a new reality drive the need for an enhanced digital identity framework](https://bankautomationnews.com/allposts/risk-security/impacts-from-a-new-reality-drive-the-need-for-an-enhanced-digital-identity-framework/) 2022-02-28 Bank Automation News
+  > While US-based entities are adhering to an enhanced regulatory framework, these mandates are particularly applicable in Europe, where there is necessary compliance with enacted standards (such as the General Data Protection Regulation—commonly known as GDPR—and the Payment Service Providers Directive 2—referred to as PSD2. A clear need for a true and persistent digital identity as a solution to the ancillary—and sometimes unforeseen—challenges that have arisen.
+* [Kaliya Young on Identikit with Michelle Dennedy](https://identitywoman.net/podcast-identikit-with-michelle-dennedy/) IdentityWoman
+  > our latest series examining the evolution of digital identity, and how self-sovereign identity, specifically, can advance a consent-based economy.
 * [The Architecture of Identity Systems](https://www.windley.com/archives/2020/09/the_architecture_of_identity_systems.shtml) by Phil Windley 
     > I recently read a paper from Sam Smith, [Key Event Receipt Infrastructure](https://arxiv.org/abs/1907.02143), that provided inspiration for a way to think about and classify identity systems. In particular his terminology was helpful to me. This blog post uses terminology and ideas from Sam's paper to classify and analyze three different identity system architectures. I hope it provides a useful model for thinking about identity online.
 * [The SSO Practitioner’s Introduction to Decentralized Identity](https://www.pingidentity.com/en/resources/blog/post/sso-practitioners-introduction-decentralized-identity.html)

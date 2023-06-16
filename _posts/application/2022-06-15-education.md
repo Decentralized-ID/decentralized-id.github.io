@@ -13,6 +13,8 @@ last_modified_at: 2023-06-16
 
 ## Explainer
 
+* [The Importance of Verifiable Credentials to Training Providers](https://uploads-ssl.webflow.com/6269810a06ae9fafd52556a3/629f94235eabc454ea48c117_The%20Importance%20of%20Verifiable%20Credentials%20for%20Training%20Providers.pdf?__hstc=100632769.d32f75d38c42eaa77409051b21d73653.1655033322879.1655033322879.1655033322879.1&__hssc=100632769.1.1655033322879&__hsfp=2803731784) 2022-06-03 Credivera
+  > like many other aspects of our daily lives, the digital transformation of education and training has added both convenience and challenges. Much like the shift to remote work, we can now learn from the comfort of our homes. Gone are the days of taking an in-person course where you receive your gold-sealed certificate upon completion of the last class, or walk across a stage to pick up your hard-earned degree.
 * [Self-Sovereign Identity User Scenarios in the Educational Domain](https://er.educause.edu/articles/2022/4/self-sovereign-identity-user-scenarios-in-the-educational-domain) 2022-04-13 Gerd Kortemeyer Educause
   > Due to the high level of international mobility in the academic sector, insular solutions relying on only one national type of government-issued digital ID card will be insufficient; instead, the officials at the federation need to decide which digital ID cards are valid to uniquely associate an individual with private cryptographic keys, similar to the way passports are acknowledged internationally
 * [Digital Credentials – the new student experience](https://condatis.com/webinars/webinar/digital-credentials/) 2022-03-14 Condatis
@@ -47,6 +49,8 @@ last_modified_at: 2023-06-16
 
 * [When Job Candidates Lie, New Tech From ZippedScript And LearnCard Will Help You Catch Them](https://www.forbes.com/sites/zengernews/2022/09/16/when-job-candidates-lie-new-tech-from-zippedscript-and-learncard-will-help-you-catch-them/?sh=731b54b63ed4) 2022-09-16 Forbes 
   > “recently launched [LearnCard](http://www.learncard.com/), a digital wallet for education and employment programmable verifiable credentials”
+* [How to Prevent Fraud using #MARKs](https://dhiway.com/prevent-credential-fraud/) 2021-10-26 DHIWay
+  > Credential fraud has, unfortunately, become commonplace in today’s instant electronic age. Especially problematic in [higher education](https://dhiway.com/hashmarks-in-the-education-sector/), credential fraud has spiralled into a multi-billion-dollar industry
 * [Redefining the Student Journey](https://www.youtube.com/watch?v=enqQ0FyLaBc) 2021-05-11 Condatis
   > Digital innovation has been front and centre in Higher Education since the pandemic. The challenges remain for universities supporting students now and for the future. With the help of Microsoft Azure AD Verifiable Credentials, universities can support student needs effective and innovative digital approach.
 * [Open Badges] [Blockchain and the future of Education](https://wellthatsinteresting.tech/blockchain-and-the-future-of-education/) 2020-08-10 WellThatsInteresting.tech

@@ -7,6 +7,10 @@ published: false
 
 what gives Aggregators their power is not their control of supply: they are not the only way to find websites, or to post your opinions online; rather, it is their control of demand. People are used to Google, or it is the default, so sites and advertisers don’t want to spend their time and money on alternatives; people want other people to see what they have to say, so they don’t want to risk writing a blog that no one reads, or spending time on a social network that because it lacks the network has no sense of social.
 
+## Gaming
+* [Self-Sovereign Identity for Online Gaming, VR, & AR – Crucible](https://www.youtube.com/watch?v=Jd2YdxJ-LWA) Evernym 
+  > Crucible's CEO (Ryan Gill) and CTO (Toby Tremayne) for a discussion on what self-sovereign identity (SSI) and verifiable credentials mean for gaming and the greater online entertainment sector.
+
 * [Web3 and Digital Embodiment](https://www.windley.com/archives/2022/01/web3_and_digital_embodiment.shtml) Phil Windley
 
 Web3 will make a difference for all of us if it enables people to become digitally embodied, able to recognize, remember, and react to other people and organizations online—without the need to be in someone else's database.
