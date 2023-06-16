@@ -1,5 +1,5 @@
 ---
-title: The Covid Pandemic and Self Sovereign Identity
+title: Covid-19, Vaccine Passports, Health Credentials, and Self Sovereign Identity
 description: How a cryptographically secure digital credential can be used instead of paper documents
 excerpt: >
   In a lot of places around the world, a COVID passport is simply a paper document. This has led to a couple of expected problems, one to mention is forgery. Paper documents can easily be forfeited, and paper-based COVID passports are no exception.
@@ -281,7 +281,17 @@ last_modified_at: 2023-06-16
   > 
   > It will be run in conjunction with joint business and Oneworld partner American Airlines, [which is already using the technology on international routes to the US.](https://www.businesstraveller.com/business-travel/2021/01/17/american-airlines-launches-verifly-health-passport-for-travel-to-the-us/) 
 * [PocketCred Verifiable Credentials](https://www.pocketcred.com/) PocketCred
-  > Pravici PocketCred (formerly VeriCred) is built on Blockchain technology, specifically to address credential issuance and verification, such as one for COVID-19 vaccines. We at Pravici have been working to build a digital pass that citizens can carry in their mobile device or digital card to prove that they have taken a test or vaccine. Our software application features user-friendly creation of schemas* and proof templates, as well as QR code technology for credential issuance and verification.
+  > Pravici PocketCred (formerly VeriCred) is built on Blockchain technology, specifically to address credential issuance and verification, such as one for COVID-19 vaccines. We at Pravici have been working to build a digital pass that citizens can carry in their mobile device or digital card to prove that they have taken a test or vaccine. Our software application features user-friendly creation of schemas* and proof templates, as well as QR code technology for credential issuance and verificatio
+
+### NHS - Digital Staff Passport
+* [NHS England Transformation Directorate - Digital staff passport](https://transform.england.nhs.uk/information-governance/guidance/digital-staff-passport/) 2022-06-22
+  > This guidance provides a summary of the information governance (IG) steps which need to be taken so that the Digital Staff Passport can be set up safely and efficiently within an NHS organisation. This allows authorised staff to temporarily work at another NHS organisation more quickly and safely. Digital Staff Passports are not available in social care organisations.
+* [Real World] [Building an SSI Ecosystem: Digital Staff Passports at the NHS](https://www.windley.com/archives/2021/05/building_an_ssi_ecosystem_digital_staff_passports_at_the_nhs.shtml) 2021-05-11 Phil Windley
+  > How does a functioning credential ecosystem get started? This post goes deep on Manny Nijjar’s work to create a program for using digital staff passports in the sprawling UK NHS bureaucracy.
+* [NHS Staffpassport; Based on Evernym Verity built by Sitekit/Condatis; A 12 month experience](https://iiw.idcommons.net/22C/_NHS_Staffpassport;_Based_on_Evernym_Verity_built_by_Sitekit/Condatis;_A_12_month_experience) 2021-05-06 Chris Eckl, Richard Astley
+  > The NHS Staff passport system was created to allow NHS employees to be redeployed between different organisations to meet urgent demand and remove the onboarding challenges when staff onboard with new organisations.
+* [Condatis IIW32 NHS Digital Staffpassport Learnings (slideshare.net)](https://www.slideshare.net/secret/JGSugec83U6ouP) 2021-04-23 Conditis
+  > Presentation at IIW32
 
 ## Caution
 

@@ -5,6 +5,8 @@ published: false
   > I had a stab at why Cardspace failed, in “[Identities Evolve: Why Federated Identity is Easier Said than Done](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2163241)
   > 
   > Why does digital identity turn out to be such a hard problem? People are social animals with deep seated intuitions and conventions around identity, but exercising our identities online has been hugely problematic.
+* [OWI Digital Forum Recap: The Rise & Adoption of Verifiable Credentials](https://trinsic.id/owi-digital-forum-recap-the-rise-adoption-of-verifiable-credentials/) 2021-05-21 Trinsic
+  > Trinsic CEO Riley Hughes sat down with [One World Identity](https://oneworldidentity.com/) (OWI) CEO Travis Jarae to have a one-on-one conversation about [“The Rise & Adoption of Verifiable Credentials”](https://oneworldidentity.com/session/trinsic/). Below is a short summary
 
 * [4 Keys to Self-sovereign Identity Adoption](https://medium.com/trinsic/4-keys-to-self-sovereign-identity-adoption-ad269b208569) 2021-01-19 Trinsic
   > Many implementers won’t realize the potential of SSI until it’s deployed at scale, but in order to get to scale, we need implementers to realize value. It’s the classic chicken & egg problem.
