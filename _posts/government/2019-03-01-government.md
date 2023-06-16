@@ -15,7 +15,7 @@ redirect_from:
 header:
   image: /images/blockchange-identity-header.webp
   caption: "[On the Emergent Use of Distributed Ledger Technologies for Identity Management](https://blockchan.ge/blockchange-fieldreport.pdf)"
-categories: ["Region"]
+categories: ["Regional"]
 tags: ["Global","Tokyo","China","Korea","Latin America","Japan","Africa"]
 last_modified_at: 2023-06-06
 toc: false

@@ -6,7 +6,7 @@ excerpt: >
   Our government is embarking on a journey to create A Digital Strategy for Aotearoa that seeks to respond to the social, economic, education and cultural opportunities from digital technology, along with the risks that these technologies can bring.
 permalink : /government/new-zealand/
 canonical_url: https://decentralized-id.com/government/new-zealand/
-categories: ["Region"]
+categories: ["Regional"]
 tags: ["New Zealand","Aotearoa","DINZ","DISTF"]
 last_modified_at: 2023-06-07
 ---

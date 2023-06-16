@@ -6,7 +6,7 @@ excerpt: >
   There is a lot more work to be done and plenty of consultations to undertake, but we understand that as we increasingly rely on digital technology as part of our everyday lives, the government has a responsibility to ensure we can offer a digital ID system that is voluntary, efficient and meets people’s needs and most importantly offers the highest security for their personal information
 permalink : /government/australia/
 canonical_url: https://decentralized-id.com/government/australia/
-categories: ["Region"]
+categories: ["Regional"]
 tags: ["Australia","Australian Payments Network"]
 last_modified_at: 2023-06-07
 ---
