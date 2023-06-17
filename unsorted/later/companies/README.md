@@ -45,7 +45,7 @@ Amazon customers will first need to register their palm(s) using a scanner at th
    >The World Bank estimates over 1 billion persons, usually the most vulnerable, are without formal identity.
 
 ## Indicio
-* [Anonyome Labs Joins the Indicio MainNet](https://anonyome.com/2021/05/anonyome-labs-joins-the-indicio-mainnet/)
+* [Anonyome Labs Joins the Indicio MainNet](https://anonyome.com/2021/05/anonyome-labs-joins-the-indicio-mainnet/) 2021-05-26 Anonyome
   > Here, we go through how we went about standing up our Indico node. In brief:
   > - The Indicio MainNet is an enterprise-grade ledger for use by decentralized identity applications.
   > - We brought up the node using AWS Elastic Cloud Computing (EC2) instances within a Virtual Private Cloud (VPC).
