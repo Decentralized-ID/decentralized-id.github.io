@@ -26,6 +26,15 @@ There are more good pictures
   > We were joined by Drummond Reed and Alex Preukschat, co-authors of Manning Publication's new book 'Self-Sovereign Identity,' for a conversation on the book's development and recent release and what the future holds for SSI as a technology, architecture, and movement.
 * [Personal Identity and the Future of Digital Interactions](https://www.pingidentity.com/en/company/blog/posts/2021/personal-identity-future-digital-interactions.html) Ping Identity
   > What if individuals could determine how to share data and with whom? What if that data was always up to date? And what if instead of merely having a unified customer profile in a single company, each person could have one identity experience for all the companies and people they interact with?
+* [Why Should You Care about Digital Identity?](https://indicio.tech/market-signals-why-should-you-care-about-digital-identity/) 2022-09-02 Indicio
+  > We take a look at a few of the best articles on why strong digital identity will be critical as we continue to build on the internet.
+  * [A Solution Looking for a Problem? Digital ID Solves a Million of  Them](https://www.forbes.com/sites/davidbirch/2022/08/09/solution-looking-for-a-problem-digital-id-solves-a-million-of-them/?sh=4d1d6bb4fd7f) David G.W. Birch, Forbes
+    > on the importance of verifying specific aspects or traits that people can claim to have, saying that for most people it’s “not about proving who you are but about proving what you are”
+  * [Goodbye, physical identities: How organizations can prepare for digital identity challenges](https://www.biometricupdate.com/202208/goodbye-physical-identities-how-organizations-can-prepare-for-digital-identity-challenges) Philipp Pointner, Biometrics Update
+    > He raises some interesting points about the [increasing number of digital identity wallets](https://www.gartner.com/en/newsroom/press-releases/2022-02-21-govt-tech-trends-2022-press-release) being offered by states and national governments, and how, with the rise in digitalization, there are more opportunities for bad actors to acquire and misuse your information. He leaves us with a few key  attributes to look for in a secure digital identity system.
+  * [Digital Identities Will Change The Nature Of Online Reputation](https://www.forbes.com/sites/alastairjohnson/2022/08/30/digital-identities-will-change-the-nature-of-online-reputation/?sh=bd1f30b584a3) Alastair Johnson, Forbes
+    > This article highlights how these centralized repositories will become redundant as verifiable credentials put control of data into the hands of the person or entity it belongs to.. Examples cited include medical information or your credit score, both of which are difficult to access, and require validation from a third party.
+
 * [the most important questions](https://werd.io/2021/one-of-the-most-important-questions-turns) Ben Werdmuller
 
 what is the future you want to build?
@@ -40,6 +49,8 @@ Just as the World Wide Web empowered people to connect and share knowledge and i
 * [The Future Now Problem](https://www.continuumloop.com/the-future-now-problem/) Continuum Loop
 
 When the idea of what is available right NOW is blurred among the ideas of the FUTURE, you can’t differentiate between what is feasible TODAY from what is not ready for prime time.
+* [On the Trust and Trust Modelling for the Future Fully-Connected Digital World: A Comprehensive Study](https://arxiv.org/pdf/2106.07528.pdf) 2021-06-14 HANNAH LIM JING TING, XIN KANG IEEE
+  > Under our analysis of trust and the digital world, we define different types of trust relationships and find out the factors that are needed to ensure a fully representative model.Next, to meet the challenges of digital trust modelling, comprehensive trust model evaluation criteria areproposed, and potential securities and privacy issues of trust modelling are analyzed. Finally, we provide awide-ranging analysis of different methodologies, mathematical theories, and how they can be applied totrust modelling
 * [The Future: Proving your Identity](https://gdprnow.fireside.fm/30) GDPR Now
   > we talk about the future of credential management – Self Sovereign Identity (SSI) also known as decentralised identity. SSI is an efficient, secure and privacy enhancing solution for identity verification. It puts individuals at the centre of the verification process and is the future of identity management.
 

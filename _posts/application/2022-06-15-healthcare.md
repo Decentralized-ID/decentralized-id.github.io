@@ -23,6 +23,8 @@ last_modified_at: 2023-06-16
   > - The top use cases for healthcare, including “staff passports” and portable health records
 * [Accessing Medical Records Anywhere](https://academy.affinidi.com/accessing-medical-records-anywhere-a-use-case-for-verifiable-credentials-81a248f9b746) 2021-04-02 Affinidi
   > this workflow doesn’t involve any third-party to store your medical data and this also means no worry about medical data storage policies and the laws associated with it. The holder completely owns his or her medical data and stores it exclusively in his or her digital wallet, thereby making it secure and hassle-free.
+* [Literature] [Distributed Ledger Technology for eHealth Identity Privacy: State of The Art and Future Perspective](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7013398/) 2020-01 NLM
+  > In the decentralized trusted identity model, the identity provider still centralized and performs the user’s identity proofing based on trusted credentials like passports or driver licenses while uses the DLT to store the identity attestation for later validation by third parties services and trusted organizations as is shown in Figure 1b [46]. The decentralized trusted identity doesn’t use the concept of identity repository which is the slight difference from the SSI model, and the identity provider will provide the receiving entity a testimony on the validity of the data while all the credentials are encrypted and stored locally in the user phone.
 
 ## Project
 * [A Digital Staff Passport for hospital facilities, DIZME voted best solution at SHACK22 hackathon](https://infocert.digital/a-digital-staff-passport-for-the-safe-mobility-of-staff-in-hospital-facilities-dizme-has-been-voted-as-the-best-solution-at-shack22-hackathon/) 2022-07-08 Infocert

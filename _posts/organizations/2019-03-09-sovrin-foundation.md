@@ -89,17 +89,14 @@ Disambiguating between Evernym, Sovrin, and Indy
 * [Sovrin and Trust over IP Signed Mutual Agreement to Strengthen Their SSI Collaboration](https://blog.sovrin.org/sovrin-and-trust-over-ip-signed-mutual-agreement-to-strengthen-their-ssi-collaboration-55d7775efdc2)
   > “By signing this Letter Agreement, Sovrin and ToIP are excited to take a step further to support the need and importance of our separate but interrelated mandates to benefit people and organizations across all social and economic sectors through secure digital identity ecosystems based on verifiable credentials and SSI,” said Chris Raczkowski, Chairman of Board of Trustees, Sovrin Foundation.
 
-### Research Papers
-* [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin)
-* [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
-* [A First Look at Identity Management Schemes on the Blockchain](https://arxiv.org/pdf/1801.03294.pdf)
+### Literature
 
-
-### Reports
-* [A Comprehensive Evaluation of the Identity Management Utility Sovrin](https://dutchblockchaincoalition.org/uploads/pdf/Blockchain-Sovrin-rapport.pdf)
-* [White Paper: Canada’s Digital ID Future - A Federated Approach](https://www.cba.ca/embracing-digital-id-in-canada)
-* [IDENTITY MATTERS](https://cboxxtest.files.wordpress.com/2017/09/cboxxidentitymatters04.pdf)
-* [A position paper on blockchain enabled identity and the road ahead—Identity Working Group of the German Blockchain Association](https://www.bundesblock.de/wp-content/uploads/2018/10/ssi-paper.pdf)
+* [A Comprehensive Evaluation of the Identity Management Utility Sovrin](https://dutchblockchaincoalition.org/assets/images/default/Blockchain-Sovrin-rapport.pdf) 2018-10-16 Dutch Blockchain Coalition
+  > The Dutch Blockchain Coalition (DBC) considers that ‘reliable identification and authentication are basic conditions for virtually all applications of blockchain’[1]. However, currently most identity management solutions are under central governance. Examples can be found in most social media platforms such as Facebook and Google accounts. Additionally, this extends to real world examples, such as a passport or a driver’s license provided by government. Although these solutions seem to work in practice, there is an essential issue. Namely, the owner of the identity is not in control of his/her identity. For example, a social media platform may decide to remove an account based on its own policy, leaving the identity owner with a virtual gap in its existence. Additionally, identifiers (such as a passport) provide a lot of -arguably too much- information about the identity holder, even though only a single attribute (e.g. the date of birth) needs to be known. Indeed, identity owners are no longer in control of their identity when using centralized identity management solutions
+* [A Conceptual Analysis on Sovrin](https://www.researchgate.net/publication/323144927_A_Conceptual_Analysis_on_Sovrin) 2018-01 Rieks Joosten, TNO
+  > 'Sovrin' (aka Hyperledger INDY) is a global, decentralized identity network that claims to deliver the Internet’s missing identity layer, using (public permissioned) distributed ledger technology. In order to find out to what extent the thinking within TNO about a Self-Sovereign Identity Framework aligns with that of Sovrin, a limited conceptual analysis has been performed on the Sovrin documentation that was available in September 2017. The report has findings on terminology and definitions, the legal taxonomy used by Sovrin entities, agents/clients, subject identifiers, guardianship and consent receipts.
+* [A First Look at Identity Management Schemes on the Blockchain](https://arxiv.org/pdf/1801.03294.pdf) 2018-01-10 Paul Dunphy, Fabien A. P. Petitcolas
+  > The emergence of distributed ledger technology (DLT) based upon a blockchain data structure, has given rise to new approaches to identity management that aim to upend dominant approaches to providing and consuming digital identities. These new approaches to identity management (IdM) propose to enhance decentralisation, transparency and user control in transactions that involve identity information; but, given the historical challenge to design IdM, can these new DLTbased schemes deliver on their lofty goals? We introduce the emerging landscape of DLT-based IdM, and evaluate three representative proposals – uPort, ShoCard and Sovrin – using the analytic lens of a seminal framework that characterises the nature of successful IdM schemes
 
 ## [Sovrin Stewards](https://sovrin.org/stewards/)
 

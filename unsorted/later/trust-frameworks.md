@@ -147,3 +147,5 @@ Trust registries also need to be interoperable. The [Trust Over IP Foundation](h
 Continuum Loop
 
 The concept behind a Trust Registry is that a Wallet needs to know which decentralized identifiers (DIDs) to “trust” as a source of truth. At many levels, this “trust” translates to “authority” – knowing that somebody, centralized or decentralized, is responsible for maintaining a list of trusted DIDs.
+
+* [OIX White Paper: Trust Frameworks for Identity Systems](https://www.oixnet.org/news-whitepaper/)

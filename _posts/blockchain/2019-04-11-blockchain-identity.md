@@ -31,6 +31,10 @@ toc: false
 * [Blockchain Identity – Success Factors and Challenges](https://www.kuppingercole.com/blog/kuppinger/blockchain-identity-success-factors-and-challenges) 2018-05-16 Martin Kuppinger
   > When new things arrive, which are still in the pioneering stage and far from reaching maturity, there is always a lot of discussion. This is even more true for Blockchain Identity, where the massive hype around Blockchains, a long history of clever ideas failing, and a few interesting technical and security challenges come together. During my keynote at this year’s EIC, I addressed the challenges and success factors for Blockchain ID as well. That led to a discussion on Twitter about whether some of these success factors are contradictory.
   ![](https://i.imgur.com/bMbh6N7.png)
+* [Is putting hashed PII on any immutable ledger(blockchain) is a bad Idea](https://identitywoman.net/putting-hashed-pii-immutable-ledgerblockchain-bad-idea/) 2018-02-03 Identity Woman
+  > I decided to open a thread On Twitter for ID & security professionals to share why (/if) putting hashed PII on any immutable ledger(blockchain) is a bad Idea.\
+  > Not everyone agreed that it was bad if certain things were done right.\
+  > There were 15 direct responses and then a whole lot of subthreads.
 * [Blockchain-Anchored Identity – A Gateway to Decentralized Apps and Services](https://www.youtube.com/watch?v=hUYpvI43bHA) 2017-05-10 Daniel Buchner
   > Blockchains possess unique properties that can be used to build systems that significantly impact our world. Perhaps no area of utilization, besides raw value exchange, is as intriguing as decentralized identity. In this talk we will discuss how blockchain-anchored decentralized identity can be used as a substrate for secure, user-centric apps and services.
 * [Towards Self-Sovereign Identity using Blockchain Technology](https://essay.utwente.nl/71274/1/Baars_MA_BMS.pdf) 2016-10-26
