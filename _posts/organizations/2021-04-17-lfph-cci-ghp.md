@@ -1,5 +1,4 @@
 ---
-date: 2021-04-17
 title: "Covid-19: LFPH - CCI and Good Health Pass"
 description: Linux Foundation Public Health's response to the Covid-19 pandemic
 excerpt: After initial success with deploying exposure notification apps, LFPH started to host CCI in December 2020 to advance the use of Verifiable Credentials (VCs) and data and technical interoperability of VCs in the public health realm, starting with vaccine credentials.
