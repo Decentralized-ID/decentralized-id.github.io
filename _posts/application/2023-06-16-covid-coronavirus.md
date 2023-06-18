@@ -7,8 +7,8 @@ layout: single
 permalink: application/covid-19/
 canonical_url: 'https://decentralized-id.com/application/covid-19/'
 categories: ["History","Application"]
-tags: ["Covid","LFPH","CCI","SITA","WHO","Good Health Pass","Excelsior Pass Pluss","Digi.me","EU Digital Green","Real World"]
-last_modified_at: 2023-06-16
+tags: ["Vaccine Credentials","LFPH","CCI","SITA","WHO","Good Health Pass","Excelsior Pass Pluss","Digi.me","EU Digital Green","Real World"]
+last_modified_at: 2023-06-18
 ---
 
 ## Explainer
@@ -77,6 +77,8 @@ last_modified_at: 2023-06-16
   > The MOSIP project, which got going in March 2018, is nested in Bangalore’s International Institute of Information Technology (IIIT-B) and endowed with funding of $16m from the Omidyar Network, the Bill and Melinda Gates Foundation and Tata Trusts.
 * [Digital Health Passports for COVID-19 - Data Privacy and Human Rights Law](https://socialsciences.exeter.ac.uk/media/universityofexeter/collegeofsocialsciencesandinternationalstudies/lawimages/research/Policy_brief_-_Digital_Health_Passports_COVID-19_-_Beduschi.pdf) 2020-11-06
   > This is a study of Digital Health Passports relating the benefits in managing the pandemic, while also detailing concerns around data protection and the private information at risk of being over-exposed. 
+* [COVID-19 Immunity Credentials and Contact Tracing Solutions Report](https://identityreview.com/covid-19-immunity-credentials-contact-tracing-solutions-report/) 2020-08-02 Identity Review
+  > Immunity credentials can allow those who are not COVID-positive to return to daily in-person routines, travel or going back to work, providing evidence that they are low-risk of transmitting the COVID-19 virus. This could be accomplished through a national digital identification system that monitors and tracks the health status of its citizens. The details of how digital immunity credentials would be implemented are still up in the air, but may include important features such as the ability to share results remotely, interoperability across systems, proof of authenticity and the potential for individuals to have full ownership over their health data.
 * [How COVID-19 is driving innovation in digital identity](https://www.turing.ac.uk/blog/how-covid-19-driving-innovation-digital-identity) 2020-07-27 Turing Institute
   > Contact tracing is inherently privacy-invasive to individuals as it is fundamentally a mechanism for sharing details of the interactions they have with others.  In response, many researchers have turned their attention to developing secure and privacy-preserving solutions. Large inter-institutional projects such as DP-3T (Decentralized Privacy-Preserving Proximity Tracing), PEPP-PT (Pan-European Privacy-Preserving Proximity Tracing) and the Apple-Google partnership have developed protocols, systems and mobile apps that have already informed contact tracing deployments internationally.
 * [Immunity passports' could speed up return to work after Covid-19](https://www.theguardian.com/world/2020/mar/30/immunity-passports-could-speed-up-return-to-work-after-covid-19) 2020-03-30
@@ -111,6 +113,8 @@ last_modified_at: 2023-06-16
   > fixes the pain points of other testing processes – especially as infectious and asymptomatic people can test without travelling – is cheap, eminently scalable, and can be used as secure proof of Covid health status where needed.
 
 ## Literature
+* [Leveraging Self-Sovereign Identity, Blockchain, and Zero-Knowledge Proof to Build a Privacy-Preserving Vaccination Pass](https://arxiv.org/pdf/2202.09207.pdf) 2022-02-18 Maurício Barrosa, Frederico Schardong, Ricardo Felipe Custódio
+  > This solution allows users to prove that they are vaccinated for different pathogens without revealing their identity. The architecture is loosely coupled, allowing components to be exchanged, which we discuss when we present the implementation of a working prototype.
 * [Digital Identity in response to COVID-19: DGX Digital Identity Working Group](https://www.tech.gov.sg/files/media/corporate-publications/FY2021/dgx_2021_digital_identity_in_response_to_covid-19.pdf) 2022-01-24
   > DIWG member countries each have relevant policies and/or legislation which cover their respective approaches towards digital identity, captured through policy, legislative and trust frameworks governing the digital identity systems. For most, trust frameworks and digital identity systems were implemented using existing government policies and legislation as a foundation, for example existing privacy legislation, and broadly align to ISO standards (as defined by the International Organisation for Standardisation), European Union (EU) standards (as defined through the eIDAS regulation) or industry best practice. A similar model was found for technical settings across digital identity systems
 * [Blockchain Identity Management Market by End-user, Application, and Geography - Forecast and Analysis 2021-2025](https://www.technavio.com/report/blockchain-identity-management-market-industry-analysis) 2021-07
@@ -169,89 +173,6 @@ last_modified_at: 2023-06-16
   > This is the talk that I gave at Kuppinger Cole's virtual event entitled "Identity Fabrics & the Future of Identity Management" on 12 May 2020 (see https://www.kuppingercole.com/events/...)
   > 
   > It describes why DIDs and blockchains are not needed in order to build Self Sovereign Identity Systems.
-
-##  LFPH
-* [Understanding the Global COVID Certificate Landscape](https://www.lfph.io/2021/10/13/divoc/) 2021-10-13 DIVOC
-  > The DIVOC project is hosted and maintained by [India’s eGov Foundation](https://egov.org.in/) and is available as an MIT-licensed open source software package DIVOC is also supported by various multilateral funding institutions, as well as a community of software contributors and adopters in various geographies. DIVOC’s verifiable COVID credentials have also been tested for interoperability with several consumer-health and locker applications globally; and DIVOC’s certificates from the adopter countries can now be scanned/read/ingested by these domestic and international applications.
-* [Linux Foundation Public Health creates the Global COVID Certificate Network (GCCN)](https://www.prnewswire.com/news-releases/linux-foundation-public-health-creates-the-global-covid-certificate-network-gccn-301307874.html) 2021-06-08 PRNewsWire
-  > Linux Foundation Public Health (LFPH) today announces the launch of the Global COVID Certificate Network (GCCN) to facilitate the safe and free movement of individuals globally during the COVID pandemic. GCCN will establish a global trust registry network that enables interoperable and trustworthy exchanges of COVID certificates among countries for safe reopening and provide related technology and guidance for implementation. The effort is initially supported by Affinidi, AOKPass, Blockchain Labs, Evernym, IBM, Indicio.Tech, LACChain, Lumedic, Proof Market and ThoughtWorks, who have implemented COVID certificate or pass systems for governments and industries. LFPH will work with them to define and implement GCCN. 
-* [Introducing the Global COVID Certificate Network (GCCN)](https://www.lfph.io/2021/06/08/gccn/) 2021-06-08 LFPH
-  > As more and more governments adopt [major COVID certificate standards](https://www.lfph.io/2021/10/12/global-covid-certificate-landscape/) to reopen borders, the travel industry is working hard to catch up on their technology to meet the evolving travel requirements. However, there is still no shortage of complaints from travelers about their cumbersome international travel experiences
-- [ProofMarket/Medcreds Submission to LFPH](https://docs.google.com/document/d/1hlR_2yp7EJQqYvxm8mNY-KNgwScTsClKDp6W6yw33Ic/edit?usp=sharing) 2021-03-04
-  > MedCreds is a reference implementation of the Governance Framework and Use-Cases that have been developed in the CCI community.  
-  > 
-  > MedCreds is built on top of INDY and ARIES and is running on the SOVRIN Main Net. This is done through Trinsic (a third-party vendor)’s APIs. Trinsic agreed to document how to do this using the API’s on ARIES and devote an engineer to give instructions for how to use the open source code to run MedCreds.
-  > 
-  > MedCreds can be extended to support new credential schemas.
-- [Indicio Submission to LFPH](https://docs.google.com/document/d/1Vl9IKRg6ygHD1njc8GfnjsQglDOVglBKbuXHSuqQ7T4/edit?usp=sharing) 2021-03
-  > Indicio’s Cardea ecosystem easily integrates with existing applications, allowing people, businesses, healthcare systems, and governments to work together to safely reopen physical locations such as offices, restaurants, venues, schools, and travel, while complying with global health and data privacy laws. The ecosystem frees businesses, organizations, and governments from having to store and manage people’s private medical information. Instead, decentralized identity enables the individual to independently acquire and control their data and securely share or selectively disclose it at their discretion with full consent.
-* [LFPH Calls for Coordination of Digital Vaccination Records Using Open Standards](https://www.lfph.io/wp-content/uploads/2021/02/LFPH-Calls-for-Coordination-of-Digital-Vaccination-Records-Using-Open-Standards.pdf) 2021-02 LFPH
-  > The CCI community collaborated with Linux Foundation Public Health to write a letter to the Biden Administration about how Verifiable Credentials could be used to support re-opening the economy.
-  > 
-  > "Some states and other countries have started to pilot this approach, as have various industries like film and aviation. But, the inconsistent use of standards and varying implementations have already led to confusion and public concern. An effort coordinated at the federal level would lead most quickly to uniform adoption and true inter-state and cross-domain interoperability."	
-
-### Good Health Pass
-
-* [Implementing the Good Health Pass’s recommendations with Cardea](https://indicio.tech/blog/implementing-the-good-health-passs-recommendations-with-cardea/) 2021-10-14 Indicio
-  > Cardea, a full, open-source ecosystem for verifiable health credentials developed by Indicio and now a community-led project at LFPH, meets the major recommendations of the Good Health Pass and facilitates the goals of the Global COVID Certificate Network.
-  > 
-  > Good Health Pass Blueprint and the Global Covid Credentials Initiative by LFPH presented at the [DIF Interop Working Group](https://us02web.zoom.us/rec/play/Si6s-_rvMU7FuHW6QnJVxW47CFiotXDMWutkWMgePKdSWVhTYyADaldJhvzqOl1JPP297-lvSYXCDuk2.rMFee21Ba1fU6y2R?continueMode=true&_x_zm_rtaid=dQ0WNpJPS2WF1QUlmxYwBQ.1624241159436.7617ddee4319249d32a108bb882dc0ec&_x_zm_rhtaid=623)
-* [Linux Foundation Public Health introduces the Global COVID Certificate Network to operationalize the Good Health Pass Interoperability Blueprint](https://humancolossus.foundation/blog/ujalo98s00b93gh7gqkuqd3lfj52xq-cn2ct) 2021-06-10 Human Colossus Foundation
-  > Paul Knowles, Head of the Advisory Council at the Human Colossus Foundation, co-led the Standard Data Models and Elements drafting group, one of the nine interconnected GHPC drafting groups, to spearhead group recommendations on data elements, common models for data exchange, and semantic harmonization. The recommendations of that drafting group will help to enable data interoperability without putting any undue burden on existing health systems and workflows
-* [Good Health Pass Collaborative Releases Draft Blueprint for Digital Health Passes in Advance of G7 Summit](https://id2020.medium.com/good-health-pass-collaborative-releases-draft-blueprint-for-digital-health-passes-in-advance-of-g7-68a48534f024) 2021-06-08 ID2020
-  > The Blueprint — released today in draft form for a three-week period of stakeholder consultations and public comment — is intended to stimulate discussion at the G7 Summit, which will open Friday in Carbis Bay, Cornwall, UK.
-  > 
-  > For a high level view, check out the [terminology deck](https://docs.google.com/presentation/d/1fM-EpIdLGdKniFjHR4ZhdgFA-HBSEmpMai8ljqti4Gw/edit) or the [slide deck](https://docs.google.com/presentation/d/1AibzpUh70UDJVapC2wlICz2voBAMxZLQ_jQOxZwF57Y/edit) that was shared on webinars with the travel industry.
-* [Dynamic Disambiguation and Deconfliction of Complex Access Controls from Multiple Verifiable Sources](https://iiw.idcommons.net/1F/_Dynamic_Disambiguation_and_Deconfliction_of_Complex_Access_Controls_from_Multiple_Verifiable_Sources) 2021-05-06 Chris Buchanan
-  > COVID-19, Good Health Pass Collaborative, Rules Engines, Verifiable Presentation Requests
-  > 
-  > The transition from contemporary access controls to SSI will need a metalanguage for access control rules in order to allow verifiers and holders to trust the transaction.  Not everyone will know how to write the complex branching and contextual rules logic that make up real life access controls.
-* [ToIP Foundation Hosts the Interoperability Working Group for Good Health Pass](https://trustoverip.org/blog/2021/04/12/toip-foundation-hosts-the-interoperability-working-group-for-good-health-pass/) 2021-04-12 TOIP
-  > The nine drafting groups collaborating within the new Working Group are:
-  > 1. [Paper Based Credentials](https://wiki.trustoverip.org/display/HOME/Paper+Based+Credentials+Drafting+Group) will define how a paper-based alternative can be created for any digital health pass so access will be available to all.
-  > 2. [Consistent User Experience](https://wiki.trustoverip.org/display/HOME/Consistent+User+Experience+Drafting+Group) will specify the common elements required so that individuals can easily, intuitively, and safely use digital health pass implementations.
-  > 3. [Standard Data Models and Elements](https://wiki.trustoverip.org/display/HOME/Standard+Data+Models+and+Elements+Drafting+Group) will determine the core data items needed across all digital health pass implementations for both COVID-19 testing and vaccinations.
-  > 4. [Credential Formats, Signatures, and Exchange Protocols](https://wiki.trustoverip.org/display/HOME/Credential+Formats%2C+Signatures%2C+and+Exchange+Protocols+Drafting+Group) will specify the requirements for technical interoperability of Good Health Pass implementations.
-  > 5. [Security, Privacy, and Data Protection](https://wiki.trustoverip.org/display/HOME/Security%2C+Privacy%2C+and+Data+Protection+Drafting+Group) will define the safety requirements for Good Health Pass compliant implementations.
-  > 6. [Trust Registries](https://wiki.trustoverip.org/display/HOME/Trust+Registries+Drafting+Group) will specify how verifiers can confirm that a digital health pass has been issued by an authorized issuer.
-  > 7. [Rules Engines](https://wiki.trustoverip.org/display/HOME/Rules+Engines+Drafting+Group) will define how digital health pass apps can access different sources of policy information to determine what test or vaccination status is needed for a specific usage scenario.
-  > 8. [Identity Binding](https://wiki.trustoverip.org/display/HOME/Identity+Binding+Drafting+Group) will specify the options for verifying that the holder of a digital health pass is the individual who received the test or vaccination credential.
-  > 9. [Governance Framework](https://wiki.trustoverip.org/display/HOME/Governance+Framework+Drafting+Group) will define the overall set of policies that must be followed for an implementation to qualify as Good Health Pass compliant.
-
-### CCI 
-
-* [COVID Credentials Initiative Update/Overview](https://iiw.idcommons.net/1C/_COVID_Credentials_Initiative_Update/Overview) 2021-05-06 [presentation](https://docs.google.com/presentation/d/11K027LlitWljJu_XNTztqc6BGvhsD8JBX5OkavLEEMA/)	Lucy Yang, Kaliya Young, John Walker
-  > CCI is an open global community collaborating to enable the use of W3C Verifiable Credentials (VCs) and other related privacy-preserving technologies for public health purposes.
-  > 
-  > CCI is hosted by Linux Foundation Public Health (LFPH), a project of the Linux Foundation that works with public health authorities and their key stakeholders to ensure that investments into public health technology meet common needs and have maximum impact.
-* [CCI: Challenges and Learning](https://iiw.idcommons.net/10C/_COVID_Credentials_Initiative:_Challenges_%26_Learning) 2021-05-06 [presentation](https://docs.google.com/presentation/d/11K027LlitWljJu_XNTztqc6BGvhsD8JBX5OkavLEEMA/edit?usp=sharing)
-  > Solution assumption with the Good Health Pass is revoking is not necessary as VCs are short lived (solution to invalid credential). Issuers will re-issue vs. revoke
-  > 
-  > In many cases, labs are providing incorrect information in vaccination records, which need to be re-issued
-  > - Still need to notify the holder that their (current VC) is invalid and they need to take action to resolve
-  > - Issuers asking what if we make a mistake – (re-issue)
-  > - Holders having problems findin there vaccination VC
-  > - Many of the unresolved issues are governance/policy related (for which the “health authorities”) have not worked out the details
-  > - Policy providers are applying the brakes through in-grained bureaucracy to produce a perfect standard for their jurisdiction vs. rapidly evolving a common standard and “usable solution” in the short term.
-  > - Unclear on how to get VC and underlying data into the hands of holders, particularly as holders don’t have the technology and skills to manage their health data.
-  > - Data privacy is an issue across each of the implementers and users of the Issuer, Holder and Verifier roles. Lack of common understanding and agreement on how and who owns and controls the data
-  > - WHO standard will likely be adopted in the Global South (hemisphere)
-  > - GHP looking to paint a forward looking common picture, including interim solutions (iterate standards)
-  > - The number of players (and their levels of understanding/expertise and agreement with the current direction) alone makes consensus very difficult
-  > - Paper credentials have been getting consensus on interim solutions.
-  > - W3C and WHO are great candidates.
-  > - Affinidi is making a universal verifier application (https://www.affinidi.com/)
-* [From Closed Loop Systems to Open World COVID Credentials Exchange](https://www.lfph.io/wp-content/uploads/2021/04/CCI-Summit-Summary-Report-From-Closed-to-Open.pdf) 2021-04 CCI Report
-  > This summit, convened by CCI, was designed to beginarticulating a roadmap to get from closed loop systems to an open systemwhere it doesn’t matter if issuers, holders and verifiers are using the tool provided by the same solution provider as long as all solution providers are building on a certain common ground.The discussion focused on domestic reopening use cases using the US as the context.
-* [CCI Knowledge Base](https://docs.google.com/spreadsheets/d/1z0MaGrb-Py7V3ZO4AnmYMHsXNgTmLhVocyaX7ySQ5mI/edit#gid=1671625933) 2021-03-01
-  > As our community continues to grow and the pandemic situation keeps evoloving, this CCI Knowledge Base serves as a repository of ongoing COVID-19-related news, topics, researches and resources which are deem relevant to our community and digital identity technology. It aims to provide an up-to-date database for our CCI members to access relevant information quickly in one place whenever they need it, e.g. doing market research, developing their projects or simply keeping themseleves updated on the news.
-  > 
-  > If you'd like to submit relevant news or articles for the database, please go to [https://bit.ly/2JfKbpf.](https://bit.ly/2JfKbpf.)
-- [Response to WHO Interim Guidance for Development a Smart Vaccination Certificate](https://docs.google.com/document/d/1HwWUxMY2EynkWFrlNQqh8IF7rE_5aFn74ZreYq0IAYg/edit?usp=sharing) 2021-03
-- [Response to Call for Evidence: UK Parliament Covid 19 Vaccine Certification](https://docs.google.com/document/d/1y5vyLzsVUzhiFNcWHGHLVlQHnRad73q3F50a-8gr83Y/edit?usp=sharing) 2021-03
-  > The Government has announced a review into introducing a Covid vaccine certificate system or “vaccine passports. The Committee has launched an inquiry to consider potential  ethical, legal and operational issues and the efficacy and appropriateness of a certificate system.
-- [Response to Ada Lovelace Institute: Vaccine passports and COVID status apps: Call for Public Evidence](https://docs.google.com/document/d/1ykUUDak47lYkUJeZvxs7FxDyy8bQ48FkF47IxMclppE/edit?usp=sharing) 2021-02-27 CCI Lucy Yang, Kaliya Young
-  > Before responding to the questions, we want to point out that the use of the term “COVID-19 passports” is questionable as the word ‘passport’ is used for the identity and travel document issued by nation states to their citizens. Another reason to question the use of ‘passport’ is the fact that our passport data is stored or centralized by the nation state issuer. Centralized systems are notorious and can be a source of potential  data breaches and abuses. 
 
 ## Application
 * [Governor Cuomo Announces Launch of Excelsior Pass Plus to Support the Safe, Secure Return of Tourism and Business Travel](https://www.governor.ny.gov/news/governor-cuomo-announces-launch-excelsior-pass-plus-support-safe-secure-return-tourism-and) 2021-08-05 NYS Gov
