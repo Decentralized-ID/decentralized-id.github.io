@@ -47,6 +47,10 @@ published: true
     > For this research, PILPG conducted interviews with 15 transitional justice experts and held three focus groups.
 * [TAKEAWAYS FROM OUR COMMUNITY CALL ON INTERSECTIONS BETWEEN DATA & DIGITAL RIGHTS AND SOCIAL JUSTICE](https://www.theengineroom.org/takeaways-from-our-community-call-on-intersections-between-data-digital-rights-and-social-justice/) 2022-03-21 The Engine Room
   > On February 15, we held a community call to discuss our newly-published [research findings](https://www.theengineroom.org/new-research-community-call-intersectional-approaches-to-data-and-digital-rights-advocacy/) on intersectional collaboration between social justice communities and data and digital rights (DDR) communities. We were joined by speakers Temi Lasade-Anderson from Alaase Lab, Luã Cruz from IDEC, Patronella Nqaba from Atlantic Fellows for Racial Equity and Paromita Shah from Just Futures Law.
+* [Internet Governance - UDDI - Universal Declaration of Digital Identity](https://iiw.idcommons.net/10I/_Internet_Governance_-_UDDI_-_Universal_Declaration_of_Digital_Identity) 2021-05-06 Jeff Aresty, Kristina Yasuda IIW, IDCommons
+  > Reaffirming the human rights and fundamental freedoms enshrined in the Universal Declaration of Human Rights and relevant international human rights agreements such as the UN GP on BHR and Constitutional Rights;
+  > 
+  > Reaffirming the relevance of international human rights standards in the digital environment and the need to explore and expand new human rights guarantees for the future;
 * [Universal Declaration of Digital Rights](https://docs.google.com/document/d/1y9C-5TPYmRruRQqJq39-HePk3ypWLDpSAEVzuonOH2Q/edit) 2020-10-21 Johannes Ernst
   > all states should recognise and promote universal respect for and observance of both fundamental human and digital rights in physical domain and the digital spaces environment and ensure that these rights are upheld as core elements of a free, open and representative society
 

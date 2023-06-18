@@ -22,6 +22,18 @@ published: false
 * [Decentralized Identity Trilemma](http://maciek.blog/decentralized-identity-trilemma/)
    >There seems to exist a trilemma in decentralized identity analogous to @Zooko's triangle. None of the existing solutions are at the same time: 1) privacy-preserving, 2) Sybil-resistant 3) self-sovereign -[[**T**](https://twitter.com/MaciekLaskus/status/1031859093072424960)]
 
+* [Agency By Design (Privacy is not Enough)](https://iiw.idcommons.net/20B/_Agency_By_Design_(Privacy_is_not_Enough)) by Adrian Gropper
+  > I’m not a fan of Privacy by Design.\
+  > In the industry are only concerned about compliance, very rarely talk about Human Agency\
+  > Privacy by Default is the opposite in some sense to privacy by design\
+  > The problem is that It conflict with community in many cases. (e.g. social credit score)\
+  > Cultural differences (EU accepts better centralization than US)\
+  > Delegation and agency are one the same thing\
+  > Agency is a much bigger thing and delegation is a mechanism that supports it\
+  > I want my fiduciaries to know as much as possible of me (e.g. my doctor, my lawyer) \
+  > Model Agency as hierarchy and delegation is the mean to have it.
+
+
 * [The Architecture of Identity Systems](https://www.windley.com/archives/2020/09/the_architecture_of_identity_systems.shtml) by Phil Windley 
     > I recently read a paper from Sam Smith, [Key Event Receipt Infrastructure](https://arxiv.org/abs/1907.02143), that provided inspiration for a way to think about and classify identity systems. In particular his terminology was helpful to me. This blog post uses terminology and ideas from Sam's paper to classify and analyze three different identity system architectures. I hope it provides a useful model for thinking about identity online.
 * [The SSO Practitioner’s Introduction to Decentralized Identity](https://www.pingidentity.com/en/resources/blog/post/sso-practitioners-introduction-decentralized-identity.html)
@@ -503,9 +515,6 @@ Connections, relationships, and third-party issued credentials are not entirely 
 
 Indicio's CEO, Heather Dahl, and CTO, Ken Ebert, identity wallets, verified credentials, the role of the Sovrin Foundation, and new momentum around interoperability across decentralized identity.
 
-* [How Verifiable Credentials Will Change User Authentication](https://blog.dock.io/verifiable-credentials-changing-user-authentication/) Dock
-
-Web 3 has brought a new way to engage with websites, and dare I say, it is almost magical. No cookies, no username, no password, no sharing personal information. I can browse freely and pseudo-anonymously without having to worry about the cookies and terms I was forced to accept.
 
 * [Understanding Digital Credentials](https://www.bcdiploma.com/en/blog/understanding-digital-credentials-21-05-12) BCdiploma
 
@@ -901,12 +910,6 @@ In “Self-Sovereign Identity,” [Johannes Sedlmeir](https://www.fim-rc.de/Pape
 
 * [Digital Identities and Verifiable Credentials](https://www.fim-rc.de/Paperbibliothek/Veroeffentlicht/1359/wi-1359.pdf) Johannes Sedlmeir • Reilly Smethurst • Alexander Rieger • Gilbert Fridgen Published October 2021
 
-* [Fundamentals of Decentralized Identity: Free Certification Course](https://blog.dock.io/decentralized-identity-certification-course/) Dock.io
-
-35min course!
-
-In the Fundamentals of Decentralized Identity certification, you'll learn how Verifiable Credentials, Decentralized Identifiers and Blockchain work. Complete the course, level up your skills and receive your certificate as a digital Verifiable Credential.
-
 * [Myths about SSI](https://jolocom.io/blog/myths-about-ssi/) Jolocom
 
 The idea that as a user of SSI I have complete sovereignty over my digital identity is often misunderstood. At its core, SSI is about my digital identity being under my own control, so I can decide to whom I show my data, when, and for what.
@@ -1016,12 +1019,6 @@ The DID model allows you to establish a relationship between your private key (y
 * [The Journey of Decentralized Identity: Where It’s Been and Where It’s Going](https://trinsic.id/the-journey-of-decentralized-identity-where-its-been-and-where-its-going/) Trinsic
 
 Our goal has been to completely abstract away the complexity of the ever-changing landscape so organizations can focus on the important stuff—what product to build, and how to take it to market. Teams shouldn’t have to “pick winners” and wager what to build on. Their products should be interoperable with multiple ecosystems. That’s what Trinsic is providing, out-of-the-box.
-
-* [Verifiable Credentials: The Ultimate Guide 2022](https://blog.dock.io/verifiable-credentials/) by Trinsic
-
-1. Credential metadata: This might be cryptographically signed by the issuer and contains the credential identifier as well as properties about the credential itself such as the expiry date and who the issuer is.
-2. Claim(s): A tamper-proof set of claims made about the credential subject such as someone’s employee number and job title.
-3. Proof(s): Cryptographic method that allows people to verify
 
 * [Can Decentralized Identity Give You Greater Control of Your Online Identity?](https://anonyome.com/2022/07/can-decentralized-identity-give-you-greater-control-of-your-online-identity/)
 

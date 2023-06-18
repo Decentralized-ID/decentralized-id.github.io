@@ -8,6 +8,9 @@ published: false
 
 In cross-border and migration contexts, digital wallets promise to have wide ranging implications for global governance, especially in identity management and finance. In this brief Margie Cheesman outlines use cases as well as concerns and risks when it comes to their adoption in the migration sector.
 
+- Universal Wallet: [https://w3c-ccg.github.io/universal-wallet-interop-spec/](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
+- Review/contribute to the draft spec (or portions you’re interested in): [https://docs.google.com/document/d/1vPqb4bJ6pfuAPYF_fMW_Lb-7GZugasWKfrSCotpuv6o/edit#](https://docs.google.com/document/d/1vPqb4bJ6pfuAPYF_fMW_Lb-7GZugasWKfrSCotpuv6o/edit#)
+
 * [OKTA Cloud Identity Integration with SSI wallet](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0100.html)  sethi shivam (Tuesday, 23 November)
 
 I am successfully able to integrate Okta cloud identity with SSI agent .

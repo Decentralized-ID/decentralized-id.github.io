@@ -819,9 +819,6 @@ A key opportunity Web3 presents in the identity space is the ability to interact
 Decentralizing access to blockchain APIs is a vital step to improve network uptime and importantly, give people sovereignty of their personal data.
 
 
-* [Dock’s Web3 ID Now Available on Auth0 Marketplace](https://blog.dock.io/docks-web3-id-now-available-on-auth0-marketplace/) Dock
-
-Dock has partnered with Auth0, one of the world’s leading identity management companies. Auth0 has added the support for Dock’s Web3 IDs in their marketplace integration to enable Auth0’s enterprise customers to integrate Web3 IDs on their platforms.
 
 ## Ethereum Merge
 

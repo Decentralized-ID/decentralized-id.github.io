@@ -87,9 +87,6 @@ covers our work with DIF, Trust over IP, and attending Consensus 2022.
 * [A repository of JSON Schemas for Verifiable Credentials](https://github.com/rsksmart/vc-json-schemas)
   > The Credential Schema is a document that is used to guarantee the structure, and by 
 
-
-
-
 ### itheum
 * [5 Reasons Why Our NFMe ID is a Game Changer](https://itheum.medium.com/5-reasons-why-our-nfme-id-is-a-game-changer-6e07d704ebae) • [kabnItheum](https://www.itheum.io/)
 
