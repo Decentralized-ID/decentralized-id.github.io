@@ -1020,6 +1020,11 @@ The DID model allows you to establish a relationship between your private key (y
 
 Our goal has been to completely abstract away the complexity of the ever-changing landscape so organizations can focus on the important stuff—what product to build, and how to take it to market. Teams shouldn’t have to “pick winners” and wager what to build on. Their products should be interoperable with multiple ecosystems. That’s what Trinsic is providing, out-of-the-box.
 
+
+* [Self Sovereign Identity- Internet’s Missing Identity Layer](https://identrixprotocol.medium.com/self-sovereign-identity-internets-missing-identity-layer-90e06efbef4e) 2022-02-02 Identrix
+  > When the Internet was built, it was done so in a way that you would not know who you were connecting to. To get rid of this loophole, the TCP/IP protocol was introduced, which gives us the address of the computer we are connecting to, but nothing about the person, organisation or thing we are communicating with! We can see how that be potentially dangerous for any online user, making your devices highly susceptible not only to hacking but also to identity theft.
+
+
 * [Can Decentralized Identity Give You Greater Control of Your Online Identity?](https://anonyome.com/2022/07/can-decentralized-identity-give-you-greater-control-of-your-online-identity/)
 
 * [GlobaliD 101: What is the trust triangle?](https://medium.com/global-id/globalid-101-what-is-the-trust-triangle-260e85e1c640)

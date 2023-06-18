@@ -3,6 +3,10 @@ published: false
 ---
 # History
 * [Privacy Preserving Authentication—Another reason to care about ZKP](https://www.slideshare.net/eralcnoslen/privacypreserving-authentication-another-reason-to-care-about-zeroknowledge-proofs) 2017-08-14 Clare Nelson
+* [Seeing Self-Sovereign Identity in Historical Context](https://identitywoman.net/wp-content/uploads/Seeing-Self-Sovereign-Identity-in-Historical-Context.pdf) 2022-06 Kaliya Identity Woman
+  > The first follows the ways in which identities were designed and managed in computer systems. [...] The second history examines the evolution of paper-based identity systems that emerged in Europe. [...] The last section of the paper brings these two histories together and explains why the underlying technological design of SSI aligns with Western liberal democratic values in a way that the earlier digital identity systems designs do not.
+* [Legal identity of a person in a digital world](https://medium.com/@vvsm_50580/legal-identity-of-a-person-in-a-digital-world-38f444dc8996) 2022-09-17 Vikas Malhotra
+  > Today, Sep 16th is the International Identity Day, a commemoration of the [UN Sustainable Development Goal 16.9](https://unstats.un.org/legal-identity-agenda/documents/UN-Strategy-for-LIA.pdf) which calls for the provision of legal identity for all by 2030.
 
 * [A brief history of SSI: Where does it come from? A timeline.](https://jolocom.io/blog/a-brief-history-of-ssi-where-does-it-come-from-a-timeline/)
 

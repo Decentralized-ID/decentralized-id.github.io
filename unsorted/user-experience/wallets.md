@@ -11,6 +11,9 @@ In cross-border and migration contexts, digital wallets promise to have wide ran
 - Universal Wallet: [https://w3c-ccg.github.io/universal-wallet-interop-spec/](https://w3c-ccg.github.io/universal-wallet-interop-spec/)
 - Review/contribute to the draft spec (or portions you’re interested in): [https://docs.google.com/document/d/1vPqb4bJ6pfuAPYF_fMW_Lb-7GZugasWKfrSCotpuv6o/edit#](https://docs.google.com/document/d/1vPqb4bJ6pfuAPYF_fMW_Lb-7GZugasWKfrSCotpuv6o/edit#)
 
+* [Determinants of Behavioral Intention to Use a Self-Sovereign Identity Digital Wallet: Extending the UTAUT with Trustworthiness](https://www.proquest.com/openview/31100c6b38df3ef649156d35d0296db4/1) 2021-09-27 Kerri Lemoie
+  > The unified theory of acceptance and use of technology was extended to examine the potential influence of the self sovereign identity principles and trustworthyness, along with other factors such as percieved usefulness and perceived ease of use, on the adoption of this new approach to online identity
+
 * [OKTA Cloud Identity Integration with SSI wallet](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0100.html)  sethi shivam (Tuesday, 23 November)
 
 I am successfully able to integrate Okta cloud identity with SSI agent .

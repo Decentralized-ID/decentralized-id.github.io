@@ -819,6 +819,8 @@ A key opportunity Web3 presents in the identity space is the ability to interact
 Decentralizing access to blockchain APIs is a vital step to improve network uptime and importantly, give people sovereignty of their personal data.
 
 
+* [SSI meets Metaverse for Industry 4.0 and Beyond](https://www.techrxiv.org/articles/preprint/SSI_meets_Metaverse_for_Industry_4_0_and_Beyond/21130375) Techrxiv
+  > The proposed holistic framework aims to ignite new ideas and discussions related to the combined deployment of DLT, SSI, and metaverse to inspire new implementation areas within the Industry 4.0 environment. The paper also discusses various opportunities, enablers, technical \& privacy aspects, legislation requirements, and other barriers related to SSI implementation.
 
 ## Ethereum Merge
 

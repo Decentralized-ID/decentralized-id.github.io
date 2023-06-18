@@ -7,7 +7,7 @@ excerpt: >
 permalink : /government/europe/united-kingdom/
 canonical_url: https://decentralized-id.com/government/europe/united-kingdom/
 categories: ["Regional"]
-tags: ["Europe","UK"]
+tags: ["Europe","UK","NHS","Digital Staff Passport","Real World"]
 last_modified_at: 2023-06-09
 toc: false
 ---
@@ -59,10 +59,17 @@ toc: false
   > Shaw adds: “The vital point to make is this: innovations in health technology must ensure self-sovereign identity.
 * [Lord Holmes discusses state of digital identity in the UK](https://www.biometricupdate.com/202107/lord-holmes-discusses-state-of-digital-identity-in-the-uk) 2021-07
   > [The next iteration of the framework](https://www.biometricupdate.com/202103/uk-government-runs-new-digital-id-system-pilot-for-public-services) mentioned earlier is due to be published this summer and I look forward to that. It will be essential for that work to not only be underpinned by the twelve guiding principles but also to swiftly ‘sandbox’, stand up parallel proofs in specific sectors and proceed with pace.
-* [Building an SSI Ecosystem: Digital Staff Passports at the NHS](https://www.windley.com/archives/2021/05/building_an_ssi_ecosystem_digital_staff_passports_at_the_nhs.shtml) 2021-05
-  > How does a functioning credential ecosystem get started? This post goes deep on Manny Nijjar’s work to create a program for using digital staff passports in the sprawling UK NHS bureaucracy.
 * [Digital identity in the UK in 2021 with TrueProfile.io’s René Seifert](https://www.ubisecure.com/podcast/digital-identity-uk-2021-ssi-trueprofile-rene-seifert/) 2021-01-20 (podcast)
   > In episode 37, René Seifert talks about the current status of identity in the UK; the government’s recent call for evidence and DIU (digital identity unit); the resultant six guiding principles – including privacy and inclusivity; the potential of self-sovereign identity to solve some of these issues; TrueProfile.io and the importance of verified credentials in an HR context; plus the ethical, political and technical challenges of ‘immunity passports’.
+
+## Digital Staff Passport - NHS
+
+* [NHS England Transformation Directorate - Digital staff passport](https://transform.england.nhs.uk/information-governance/guidance/digital-staff-passport/) 2022-06-22
+  > This guidance provides a summary of the information governance (IG) steps which need to be taken so that the Digital Staff Passport can be set up safely and efficiently within an NHS organisation. This allows authorised staff to temporarily work at another NHS organisation more quickly and safely. Digital Staff Passports are not available in social care organisations.
+* [Literature] [Implementing Self-Sovereign Identity (SSI) for a digital staff passport at UK NHS](https://cpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/5/444/files/2018/01/BCoE2022SS1FINAL.pdf) 2022-01 Mary Lacity Walton, Erran Carmel
+  > Self-sovereign identity (SSI) is an idea, a movement, and a decentralized approach for establishing trust online. Many standards-making bodies, open-source working groups, and organizations have been working on SSI and verifiable credentials for years. Although production-ready solutions remain in the developmental stage, business executives, professionals, and students need to start learning about what’s ahead. Business practitioners want to know what is unique about SSI. Is there anything idiosyncratic about managing an SSI project compared to other digital projects? How can we apply SSI to deliver business value? We help to answer those questions by explaining SSI through a case study at UK National Health Service (NHS). NHS developed a digital staff passport to verify health professionals’ qualifications and credentials so that healthcare staff could be moved around quickly during COVID-19. While SSI provides some unique capabilities, it does not require unique project management practices. Like all digital projects, the aim was to build capabilities and design for interoperability to avoid vendor lock-in. Building on its early success, NHS intends to expand the application to enable its strategic people plan.
+* [Building an SSI Ecosystem: Digital Staff Passports at the NHS](https://www.windley.com/archives/2021/05/building_an_ssi_ecosystem_digital_staff_passports_at_the_nhs.shtml) 2021-05
+  > How does a functioning credential ecosystem get started? This post goes deep on Manny Nijjar’s work to create a program for using digital staff passports in the sprawling UK NHS bureaucracy.
 
 ## Organization
 * [6 months of KI Identity Assurance in the UK](https://kantarainitiative.org/2022/09/29/6-months-of-ki-identity-assurance-in-the-uk/) 2022-09-29 Kantara Initiative 

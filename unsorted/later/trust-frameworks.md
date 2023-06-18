@@ -149,3 +149,8 @@ Continuum Loop
 The concept behind a Trust Registry is that a Wallet needs to know which decentralized identifiers (DIDs) to “trust” as a source of truth. At many levels, this “trust” translates to “authority” – knowing that somebody, centralized or decentralized, is responsible for maintaining a list of trusted DIDs.
 
 * [OIX White Paper: Trust Frameworks for Identity Systems](https://www.oixnet.org/news-whitepaper/)
+
+* [Bottom-up Trust Registry in Self Sovereign Identity](https://arxiv.org/abs/2208.04624v1) Kai Jun Eer, Jesus Diaz, Markulf Kohlweiss Arxiv
+  > we propose a trust registry design that handles the aspect of human trust in self sovereign identity. We also introduce an incentivisation mechanism for the trust registry in order to motivate each stakeholder to participate actively and honestly.
+* [A novel approach to establish trust in verifiable credential issuers in Self-sovereign identity ecosystems using TRAIN](https://dl.gi.de/handle/20.500.12116/38702) 2022-07-07 Isaac Johnson Jeyakumar, David Chadwick; Michael Kubach Open Identity Summit
+  > This paper illustrates how TRAIN (Trust mAnagement INfrastructure), an approach based on established components like ETSI trust lists and the Domain Name System (DNS), can be used as a trust registry component to provide a holistic approach for trust management in SSI ecosystems. TRAIN facilitates individual trust decisions through the discovery of trust lists in SSI ecosystems, along with published credential schemas, so that verifiers can perform informed trust decisions about issued credentials.

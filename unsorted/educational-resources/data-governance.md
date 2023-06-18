@@ -5,6 +5,11 @@ published: false
   > Katryna talks to Oscar about her career (including inspiration from Minority Report), Meeco’s personal data & distributed ledger platform, the importance of data minimisation to inspire trust in organisations, and cultural differences in attitudes towards digital identity.
 * [Why Location Data Brokers Put All Communities At Risk](https://me2ba.org/why-location-data-brokers-put-all-communities-at-risk/) Zach Edwards M2BA
   > New work that may leverage decentralized ID from the supply chain side of things…but not sure (lots of links inside on data brokers harm)
+* [INNOPAY paper on data sharing published in CEUR Workshop Proceedings](https://www.innopay.com/en/news/innopay-paper-data-sharing-published-ceur-workshop-proceedings) Innopay
+  > This week, CEUR-WS.org has published the paper titled ‘[Harmonization Profiles for Trusted Data Sharing Between Data Spaces: Striking the Balance between Functionality and Complexity](http://ceur-ws.org/Vol-3214/WS6Paper2.pdf)’ in the CEUR Workshop Proceedings.
+
+
+* [UNDP LEGAL IDENTITY AGENDA ONLINE FORUM: PRIVATE SECTOR ENGAGEMENT ROUNDTABLES: DATA PROTECTION AND PRIVACY](https://unstats.un.org/LEGAL-IDENTITY-AGENDA/MEETINGS/2021/UNLIA-FUTURETECH/DOCS/REPORT2.PDF)
 
 # Data Governance
 * [Radical Exchange Talk: Data Agency. Individual or Shared?](https://identitywoman.net/radical-exchange-talk-data-agency-individual-or-shared/)

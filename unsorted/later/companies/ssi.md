@@ -69,6 +69,9 @@ ZADA apps are all launched and our first digital ID – a COVIDPASS – is being
   > Already today, credentials are being used in a wide variety of applications, such as a digital identity card, a work permit or a test certificate. We would like to explain the functionality and potential use cases for credentials by following our protagonist called Sam, who has just completed a Covid-19 rapid test.
 
 
+## Transmute
+* [Encoding Trust that Travels with Data — A New Product Introduction Case Study Powered by Solutions Design with Transmute](https://medium.com/transmute-techtalk/encoding-trust-that-travels-with-data-a-new-product-introduction-case-study-powered-by-solutions-a4be7e80bfdf)
+  > underpinned by GS1 as a root of trust in the network — continuing a rich history for GS1 in this role. GS1 licenses and identifiers are and will continue to be at the foundation of trusting products and companies. Combining current practices with verifiable credential, decentralized identifier, and [GS1 Digital Link](https://www.gs1us.org/industries/emerging-topics/gs1-digital-link) standards disambiguating products builds business reputation for just-in-time engagement while keeping information up to date.
 
 
 
