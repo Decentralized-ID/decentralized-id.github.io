@@ -47,9 +47,6 @@ The tech we use should be responsive to and responisble with the climate, enviro
 
 That means 95% of US consumers are saying ‘no way’ to cross-app tracking with Apple’s new [App Tracking Transparency](https://anonyome.com/2021/05/apples-new-att-and-why-facebook-is-hitting-back-hard/) (ATT) feature.
 
-* [Your User Is Your API](https://www.evernym.com/blog/your-user-is-your-api/) Evernym
-
-Rather than having one huge, expensive, and probably illegal data hub, every customer becomes a data hub in their own right. They provide the data needed, just-in-time, under their control.
 * [Do Consumers Even Want Personalized Ads?](https://anonyome.com/2021/06/do-consumers-even-want-personalized-ads/) Anonyme
 
 The [YouGov](https://www.globalwitness.org/en/blog/do-people-really-want-personalised-ads-online/) poll of consumers in France and Germany we mentioned earlier says it’s the [behind the scenes](https://mysudo.com/2021/02/beware-the-dark-patterns-trying-to-steal-your-data/) or back door nature of personalization that gives people the creeps.
@@ -208,6 +205,8 @@ This session will share the results and learnings of the creation and developmen
 * [Making The Intention Economy Happen](https://iiw.idcommons.net/10B/_Making_The_Intention_Economy_Happen,_Part_2), Part 2 by Doc Searls
 
 This was a small meeting primarily meant to tee up Hadrian Zbarcea’s demo of Customer Commons’ new Intention Byway model for better signaling between demand and supply in markets of all kinds
+* [Relationships and Identity](https://www.windley.com/archives/2020/07/relationships_and_identity.shtml) 2020-07 Phil Windley 
+  > We build digital identity systems to create and manage relationships—not identities. 
 
 * [https://www.slideshare.net/dsearls/iiw-xxxiiintentionsession](https://www.slideshare.net/dsearls/iiw-xxxiiintentionsession)
 

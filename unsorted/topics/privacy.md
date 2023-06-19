@@ -76,6 +76,21 @@ Investors and consumers show growing enthusiasm for privacy-focused alternatives
 
 Increased supply of user-friendly private tech and increased demand for privacy have converged, creating a moment of unprecedented opportunity for founders with a vision for privacy-first online experiences.
 
+* [Agency By Design (Privacy is not Enough)](https://iiw.idcommons.net/20B/_Agency_By_Design_(Privacy_is_not_Enough)) by Adrian Gropper
+  > I’m not a fan of Privacy by Design.\
+  > In the industry are only concerned about compliance, very rarely talk about Human Agency\
+  > Privacy by Default is the opposite in some sense to privacy by design\
+  > The problem is that It conflict with community in many cases. (e.g. social credit score)\
+  > Cultural differences (EU accepts better centralization than US)\
+  > Delegation and agency are one the same thing\
+  > Agency is a much bigger thing and delegation is a mechanism that supports it\
+  > I want my fiduciaries to know as much as possible of me (e.g. my doctor, my lawyer) \
+  > Model Agency as hierarchy and delegation is the mean to have it.
+* [Self-Sovereign Identity - The Nash Equilibrium Point of the Personal Identity Information Game](https://www.thoughtworks.com/insights/blog/self-sovereign-identity-nash-equilibrium-point-personal-identity-information-game)
+  > "A silent war is ongoing between users and companies over the control of data."
+  > 1. Privacy or convenience is a question
+  > 2. SSI is the answer to this question
+
 * [Google Sued for Misleading Users Over Location Data Privacy](https://anonyome.com/2022/03/google-sued-for-misleading-users-over-location-data-privacy/) Anonyme
 
 “Google falsely led consumers to believe that changing their account and device settings would allow customers to protect their privacy and control what personal data the company could access. The truth is that contrary to Google’s representations it continues to systematically surveil customers and profit from customer data.”

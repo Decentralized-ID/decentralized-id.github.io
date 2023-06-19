@@ -18,12 +18,29 @@ toc: false
 * [curated list] [Peacekeeper's Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity) 2021-11-23
 * [Identity Blockchains and Energy Consumption](https://indicio.tech/identity-blockchains-and-energy-consumption/) 2021-10-19 Indicio
   A decentralized network using a blockchain-based distributed ledger means you can use [Peer DIDs](https://identity.foundation/peer-did-method-spec/) to move most “transactions” and their cryptographic proofing off ledger. This means that for those peer-to-peer interactions, identity blockchains don’t need to do any ledger transactions at all.
-* [NIST CYBERSECURITY WHITE PAPER] [**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) 2019-06-09
-  > Identity management systems (IDMSs) are widely used to provision user identities while managing authentication, authorization, and data sharing both within organizations as well as on the Internet more broadly. Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues such as encouraging mass data collection and user tracking. Blockchain technology has the potential to support novel data ownership and governance models with built-in control and consent mechanisms, which may benefit both users and businesses by alleviating these concerns; as a result, blockchain-based IDMSs are beginning to proliferate. This work categorizes these systems into a taxonomy based on differences in architecture, governance models, and other salient features. We provide context for the taxonomy by describing related terms, emerging standards, and use cases, while highlighting relevant security and privacy considerations.
+* [Self Sovereign Identity ≠ Blockchain](https://jolocom.io/blog/dezentrale-identitaten-%e2%89%a0-blockchain-2/) 2021-11-09 Jolocom
+  > Due to the ID-Wallet project in Germany, some articles and comments have equated Self Sovereign Identity (SSI) with blockchain technology in the last few weeks. The impression is given that SSI only works in conjunction with a blockchain. Spoiler, that’s not the case.
+* [tweet thread] [Technically you're right. Blockchain is not inherent to DIDs](https://twitter.com/Steve_Lockstep/status/1425924860312645633) 2021-08-13 Steve Wilson
+  > Most DID presentations (as with much SSI) open with a bit of a disclaimer that these technologies don't need blockchain. And yet the word-association is strong. Many DID block diagrams feature a blockchain. -/2
+* [Legitimacy and Decentralized Systems](https://www.windley.com/archives/2021/04/legitimacy_and_decentralized_systems.shtml) 2021-04 Windley
+  > Why are some decentralized systems accepted and widely used while others wither? Why do some “hard forks” succeed while others fail? It all comes down to legitimacy.
+* [Why Distributed Ledger Technology (DLT) for Identity?](https://www.hyperledger.org/blog/2021/04/21/why-distributed-ledger-technology-dlt-for-identity) 2021-04-21 Hyperledger
+  > So why DLT? First, we can get the good parts of paper credentials—private transactions between holders and verifiers and no callback to the issuer. Second, the issuer gets a trusted, open and transparent way to publish the cryptographic material needed for those private holder-verifier transactions. Third, there is no need to have a “Trusted Third Party” participating in the interactions.
+  > 
+  > And did I mention, no private data goes on the DLT!!!
+* [Digital Identity and Blockchain – Its Place in Newer Identity Models](https://cyber.ee/blog/2021/04-21/) 2021-04-21
+  > In the [first part of this series](https://cyber.ee/blog/2021/04-14/), we introduced the idea that traditional PKI-based digital identity solutions can potentially benefit from blockchain technology.
+  > [...]
+  > For this next part of the series, we’ll touch on the relatively new idea of self-sovereign identity, or SSI.
+* [Blockchain is the Least Interesting Thing About Self-sovereign Identity](https://medium.com/trinsic/blockchain-is-the-least-interesting-thing-about-self-sovereign-identity-75c1b56ce497) 2020-09-23 Riley Huges
+  > as useful as blockchain is for SSI, it’s nowhere near as interesting as:
+  > - The impact on the internet
+  > - The benefits of technical standards
+  > - The economic opportunity for early innovators
 * [Identity and Distributed Ledger - Today and Tomorrow - June 26 - Identiverse 2019](https://www.youtube.com/watch?v=l04AHP7kPPw) 2019-06-26
   > Join our expert panel, moderated by Paul Madsen, as they discuss and debate the future of distributed identity technology and its applications in solving identity problems.
-* [Phil Windley (@windley)](https://twitter.com/windley/status/1071469217650638848) 2018-12-09
-  > If ledger isn’t used, then every issuer of a credential has to maintain infrastructure or contract service provider to respond to DID resolution & revocation requests. And, credential issuers would know when the credential  was used, impacting privacy.
+* [If ledger isn’t used, then every issuer of a credential has to maintain infrastructure](https://twitter.com/windley/status/1071469217650638848) 2018-12-09 Phil Windley
+  > or contract service provider to respond to DID resolution & revocation requests. And, credential issuers would know when the credential was used, impacting privacy.
 * [Part 3: Blockchange and Identity – The Foundational Use Case](https://blockchan.ge/fieldreport/identity.html) GovLab 2018-11-01
   > The contemporary IAM literature focuses on two central types of identity. The first is foundational identity, which is usually equated with legal identity. Here, after collecting attributes, individuals are issued a unique ID that is legally recognized at the national level and can be used to access different services. Legal IDs are almost always issued by the state in a centralized fashion. National ID cards are perhaps the best example of a foundational identity.
   > 
@@ -37,10 +54,15 @@ toc: false
   > There were 15 direct responses and then a whole lot of subthreads.
 * [Blockchain-Anchored Identity – A Gateway to Decentralized Apps and Services](https://www.youtube.com/watch?v=hUYpvI43bHA) 2017-05-10 Daniel Buchner
   > Blockchains possess unique properties that can be used to build systems that significantly impact our world. Perhaps no area of utilization, besides raw value exchange, is as intriguing as decentralized identity. In this talk we will discuss how blockchain-anchored decentralized identity can be used as a substrate for secure, user-centric apps and services.
-* [Towards Self-Sovereign Identity using Blockchain Technology](https://essay.utwente.nl/71274/1/Baars_MA_BMS.pdf) 2016-10-26
-  > Blockchain technology could function as the foundation of such system being a network for decentralized trust and exchange. Because everyone can participate as issuer or acquirer (and both), there are low adoption barriers and low costs. This allows new business opportunities for governments, banks and other authorities and more transparency and control for end-users.
 * [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml) 2016-09
   > This post justifies the claim that an identity system based on a permissioned distributed ledger is legitimately self-sovereign. The post also examines the claims to legitimacy that social login and distributed ledger identity systems make.
 * [Blockchain for Identity - Myth or Potential](https://www.kuppingercole.com/blog/kuppinger/blockchain-for-identity-myth-or-potential) 2018-06-16
   > Authentication might definitely become simpler, by having various authenticators and IDs, from eIDs to social logins, associated with a wallet. Just one simple store to get access. Yes, there are challenges in creating secure, easy-to-use wallets, but there is potential as well.
   ![](https://i.imgur.com/YSyv11h.png)
+
+## Literature
+
+* [NIST CYBERSECURITY WHITE PAPER] [**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) 2019-06-09
+  > Identity management systems (IDMSs) are widely used to provision user identities while managing authentication, authorization, and data sharing both within organizations as well as on the Internet more broadly. Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues such as encouraging mass data collection and user tracking. Blockchain technology has the potential to support novel data ownership and governance models with built-in control and consent mechanisms, which may benefit both users and businesses by alleviating these concerns; as a result, blockchain-based IDMSs are beginning to proliferate. This work categorizes these systems into a taxonomy based on differences in architecture, governance models, and other salient features. We provide context for the taxonomy by describing related terms, emerging standards, and use cases, while highlighting relevant security and privacy considerations.
+* [Towards Self-Sovereign Identity using Blockchain Technology](https://essay.utwente.nl/71274/1/Baars_MA_BMS.pdf) 2016-10-26
+  > Blockchain technology could function as the foundation of such system being a network for decentralized trust and exchange. Because everyone can participate as issuer or acquirer (and both), there are low adoption barriers and low costs. This allows new business opportunities for governments, banks and other authorities and more transparency and control for end-users.

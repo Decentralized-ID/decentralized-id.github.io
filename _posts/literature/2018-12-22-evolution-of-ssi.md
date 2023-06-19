@@ -47,6 +47,8 @@ I think all of this thought should be consolidated into a cohesive declaration o
 * [How to Convince Dad* of the Importance of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.md)
    * \*and your sister and your daughter and your best friend and your nephew (SSI Use-Cases)
 
+* [Principles or Cult - An Irreverant Discussion on the Principles of SSI](https://www.thedinglegroup.com/blog/2021/9/1/principles-or-cult-an-irreverant-discussion-on-the-principles-of-ssi) 2021-09-01 Dingle Group
+  > The evolution of the Principles of SSI came about through the need to differentiate what is ‘true’ SSI versus marketing forces twisting the concept. This market driven motivator can bring cultish overtones to the process.
 <!-- This could also be modularized -->
 
 Other content highlighted in [WebOfTrustInfo/self-sovereign-identity](https://github.com/WebOfTrustInfo/self-sovereign-identity) that I haven't had a chance to fully review, yet:

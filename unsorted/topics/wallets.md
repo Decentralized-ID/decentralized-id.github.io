@@ -13,6 +13,10 @@ In cross-border and migration contexts, digital wallets promise to have wide ran
 
 * [Determinants of Behavioral Intention to Use a Self-Sovereign Identity Digital Wallet: Extending the UTAUT with Trustworthiness](https://www.proquest.com/openview/31100c6b38df3ef649156d35d0296db4/1) 2021-09-27 Kerri Lemoie
   > The unified theory of acceptance and use of technology was extended to examine the potential influence of the self sovereign identity principles and trustworthyness, along with other factors such as percieved usefulness and perceived ease of use, on the adoption of this new approach to online identity
+* [Self-Sovereign Identity: The Foundation of the Digital Wallet](https://www.nevis.net/en/blog/how-does-self-sovereign-identity-ssi-work) Nevis
+  > Turning identifying features into verified credentials
+  > 
+  > How exactly does this work? Let’s look at the three roles of user, issuer and verifier. Firstly, users can have any number of attributes – such as their credit rating, national identity document or driving licence – certified by the entity responsible for each attribute.
 
 * [OKTA Cloud Identity Integration with SSI wallet](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0100.html)  sethi shivam (Tuesday, 23 November)
 

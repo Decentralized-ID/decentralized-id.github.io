@@ -7,7 +7,8 @@ published: false
   > In today’s episode, we talk about his new book “Currency Cold War” and relationship, and lack thereof, between digital currency and identity.
 * [IPR - what is it? why does it matter?](https://identitywoman.net/ipr%e2%80%8a-%e2%80%8awhat-is-it-why-does-it-matter/)
   > At the time they kept worrying about how they could collaborate and they sensed that they needed to have IPR dealt with, but I couldn’t understand what they were going on about. This small thing delayed them working together for a long time. They literally had to spin up a new organization, get new bylaws developed and get everyone to join and sign off on the IPR regime before they could formally talk together about how to get all work to align and come up with one protocol.
-
+* [Decentralized identity discussed: An INATBA roundtable round-up](https://jolocom.io/blog/decentralized-identity-inatba-roundtable/)
+  > The paper, written over the course of a year by six key authors, was produced by INATBA with the aim of defining the expectations for an open and innovative market in decentralized identity. It analyzes the current state of SSI developments and opens up discussion of the next steps, taking a clear stance on how INATBA would like to see development continue, making demands of the key stakeholder groups and setting goals for the future of SSI.
 * [Why do you care about identity?](https://wider.team/2022/01/18/phil-cares-about-identity/) Phil Wolff 2022-01-18
 
 I love that it’s more than a technical discussion. It’s laws. Sociology. Politics and civics. Commerce. Psychology. Ethics. History. Economy. All the humanities.

@@ -821,6 +821,17 @@ Decentralizing access to blockchain APIs is a vital step to improve network upti
 
 * [SSI meets Metaverse for Industry 4.0 and Beyond](https://www.techrxiv.org/articles/preprint/SSI_meets_Metaverse_for_Industry_4_0_and_Beyond/21130375) Techrxiv
   > The proposed holistic framework aims to ignite new ideas and discussions related to the combined deployment of DLT, SSI, and metaverse to inspire new implementation areas within the Industry 4.0 environment. The paper also discusses various opportunities, enablers, technical \& privacy aspects, legislation requirements, and other barriers related to SSI implementation.
+* [The Sovereignty Stack: Re-thinking Digital Identity for Web3.0 w/ Greg KIDD](https://www.youtube.com/watch?v=CyGggZ2pT1I) 2021-10-04 Metaco
+  > Greg is a serial entrepreneur who is probably best known for founding and taking public Dispatch Management Services Corp, the world’s largest on demand dispatch network for urgent deliveries. In a highly interesting career so far, Greg was also Chief Risk Officer at Ripple Labs and a senior analyst for the Board of Governors of the Federal Reserve in Washington. In his latest venture Global ID, Greg is acting on his long-held belief that people’s identity should be truly portable and owned by individuals themselves rather than corporations or governments.
+* [How Decentralized Identifiers and Bitcoin Fix the Web](https://bitcoinmagazine.com/technical/dids-built-on-bitcoin-fix-the-web) Bitcoin Magazine
+  > On October 4, 2021, Facebook, along with WhatsApp and Instagram, [disappeared from the internet](https://blog.cloudflare.com/october-2021-facebook-outage/).
+
+Their DNS names stopped resolving, and their infrastructure IPs were offline. They were completely disconnected from the internet. At the same time, it was reported that [1.5 billion people allegedly had their personal data stolen from Facebook](https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/) and posted for sale.
+* [Nomadic Labs Research Seminars #20 | Self-Sovereign Identity and Storage](https://www.youtube.com/watch?v=HombbTvvets)
+  > In this talk, Wayne reviews the results of support with Tezos addresses, use cases that have been deployed, Tezos DID methods and Tezos profiles. Wayne also gives an overview of the Trail of Bits audit.
+* [The Off Chain Internet: Decentralized Identity & Verifiable Credentials - Evin McMullen](https://www.youtube.com/watch?v=EZ_Bb6j87mg) 2022-02-19 ETH Denver
+
+FANTASTIC NEW TALK!!!!
 
 ## Ethereum Merge
 

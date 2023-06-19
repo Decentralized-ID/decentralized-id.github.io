@@ -28,3 +28,5 @@ This is not limited to alcohol, however. It also includes other age-restricted p
 
 With identity being the missing link, the advent of self‐​sovereign identity could finally bring ambitious projects like [Bitnation](https://tse.bitnation.co/) to fruition. This virtual blockchain jurisdiction wants to establish a blockchain‐​based self‐​administration or, as the project itself advertises, “a toolbox for do‐​it‐​yourself governance.” With the concept of self‐​sovereign identity being implemented properly, new digital nations such as Bitnation could compete against old territorial tax states.
 
+* [Beyond The Device With Self-Sovereign Identities](https://www.forbes.com/sites/alastairjohnson/2021/11/15/beyond-the-device-with-self-sovereign-identities/) Forbes 2021-11-15
+  > In 2021, the average cost of a data breach reached an all-time high of [$4.24 million](https://www.upguard.com/blog/cost-of-data-breach), even though businesses are already spending millions more to combat financial crime and meet their regulatory and compliance responsibilities.

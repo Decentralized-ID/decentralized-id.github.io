@@ -1,6 +1,6 @@
 ---
 date: 2019-03-01
-title: Decentralized Identity and the Public Sector
+title: Governments and Decentralized Identity
 description: "Assorted Resources Related to Blockchain and Identity for Government and the Public Sector."
 excerpt: "Modern identity and access management (IAM) came into focus during the late 1930s, when a group of European countries began issuing national ID cards. During this time, creating a more systematic approach for establishing and authenticating the official use of trusted identities emerged."
 layout: single
@@ -16,15 +16,23 @@ header:
   image: /images/blockchange-identity-header.webp
   caption: "[On the Emergent Use of Distributed Ledger Technologies for Identity Management](https://blockchan.ge/blockchange-fieldreport.pdf)"
 categories: ["Regional"]
-tags: ["Global","Tokyo","China","Korea","Latin America","Japan","Africa"]
+tags: ["Government","Global","Tokyo","China","Korea","Latin America","Japan","Africa"]
 last_modified_at: 2023-06-06
-toc: false
+toc: true
+toc_sticky: false
 ---
 
+## Explainer
+* [It’s time for digital self-sovereign identity](https://gcn.com/emerging-tech/2022/08/its-time-digital-self-sovereign-identity/375285/) 2022-08 GCN
+  > But while digital IDs may offer residents convenience, they also open the flood gates for fraud and identity theft. That’s because to verify an individual’s information, agencies and businesses must collect, validate and store massive amounts of personal information. These large caches of personal information are prime targets for cyberattacks.
+* [Impacts from a new reality drive the need for an enhanced digital identity framework](https://bankautomationnews.com/allposts/risk-security/impacts-from-a-new-reality-drive-the-need-for-an-enhanced-digital-identity-framework/) 2022-02-28 Bank Automation News
+  > While US-based entities are adhering to an enhanced regulatory framework, these mandates are particularly applicable in Europe, where there is necessary compliance with enacted standards (such as the General Data Protection Regulation—commonly known as GDPR—and the Payment Service Providers Directive 2—referred to as PSD2. A clear need for a true and persistent digital identity as a solution to the ancillary—and sometimes unforeseen—challenges that have arisen.
 * [Decentralized Identity & Government](https://www.youtube.com/watch?v=l8pHUdjKfes) Evernym 2021-12-08
   > The key differences between federated and decentralized identity systems - An analysis of a few notable government-led projects, such as Aadhaar (India), Verify (UK), eIDAS (EU), and the Ontario Digital Identity Program (Canada) - What decentralization means for portability, scalability, flexibility, and privacy - How governments and commercial organizations can enhance existing federated identity systems with verifiable credentials
 * [Self-Sovereign Identity (SSI) schemes and the public sector](https://www.impulse-h2020.eu/2021/11/05/self-sovereign-identity-ssi-schemes-and-the-public-sector/) Impulse H20 2021-11-05
   > While the structural difference between SSI approaches and conventional centralised or federated eID schemes is, on one level, profound (full control over data and identity with the user; no third-party intermediary between the user and the service provider), on another level, these differences may also appear highly abstract to ordinary users. What societal and economic consequences they may unfold remains, so far, little understood, also because research on the real social and economic effects of SSI solutions is only beginning.
+* [Verifying documents & identity in the public services and beyond](https://www.openaccessgovernment.org/w3c-verifiable-credentials-verifying-documents-identity/123049/) 2021-10-25 OpenAccessGovernment • David Chadwick
+  > A particularly useful aspect of the Verifiable Credentials standard is that the parties undertake the specific roles of Issuer, Holder or Verifier, but they are not constrained in how many roles, or when, they can employ them. Each party can be a device, a person or an institution, meaning that verifications can take place directly between automated systems, even verifying that each other is genuine before establishing a connection to share data
 * [Digital Identity Around the World: Why Some Countries are Embracing Self Sovereign Identity Quicker](https://hackernoon.com/digital-identity-around-the-world-why-some-countries-are-embracing-self-sovereign-identity-quicker) 2021-09-03 Hackernoon
   > Each government moves at its own pace for as many reasons as there are countries, and digital identity/SSI will only become a reality once governments voice their support, regulations, and standards are adopted, infrastructure is created or upgraded, and interoperability, inclusion, and education are all addressed.
 * [Navigating Digital Identity in Political Economies RxC Panel](https://identitywoman.net/navigating-digital-identity-in-political-economies-rxc-talk/) 2021-08-25 IdentityWoman.net
@@ -39,6 +47,8 @@ toc: false
   > When it comes to identity management the involvement of the government can be a tricky topic. It needs to be involved to enable access to public services, adapt legislature and guarantee equal access for its citizens. However, it should not be able to control or monitor all aspects and activities of its citizens. Self-sovereign identity (SSI) might for some imply, that a citizen is suddenly able to issue his own ID-card, which isn’t the case. Governments are still the primary source of foundational identities."
 * [Data: Governance and Geopolitics](https://www.mydigitalfootprint.com/2021/01/data-governance-and-geopolitics.html) 2021-01-16 Tony Fish
   > How data is governed can be thought of along several lines of activity: legislating privacy and data use, regulating content, using antitrust laws to dilute data monopolies, self-regulating by the tech giants, regulating digital trade, addressing intellectual property rights (IPR) infringement, assuring cybersecurity, and practicing cyber diplomacy. Of these, antitrust, regulation, and privacy are most immediately in the spotlight, and are the focus of this commentary, but it will also touch briefly on the connections with other issues.
+* [Do we really need (or want) the State to provide us with digital identification?](https://www.libertarianism.org/articles/self-sovereign-identity-blockchain-age) 2020-07-20 Libertarianism
+  > Just as the State still manages our “analog” identities, the online giants have vast power to manage the online data and identity of their users. Internet users are now both consumer and product: by using free online services, users feed companies with data, which those companies in turn process and monetize.
 * [It’s time for governments to get serious about digital identities](https://www2.deloitte.com/global/en/pages/risk/articles/solving-the-public-sector-identity-crisis.html?id=global:2sm:3tw:4dcom_share:5awa:6dcom:risk) 2020-02-25 Deloitte
   > While the tools may already exist to solve the government’s identity crisis, real progress will only be made if governments significantly evolve their legacy approaches to digital identity.
 * [The ‘Digital Identity Crisis’ and what it means for Governments and individuals](https://procivis.ch/2019/11/18/the-digital-identity-crisis-and-what-it-means-for-governments-and-individuals/) 2019-11-18 ProCivis

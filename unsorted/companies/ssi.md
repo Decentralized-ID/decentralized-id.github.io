@@ -73,6 +73,12 @@ ZADA apps are all launched and our first digital ID – a COVIDPASS – is being
 * [Encoding Trust that Travels with Data — A New Product Introduction Case Study Powered by Solutions Design with Transmute](https://medium.com/transmute-techtalk/encoding-trust-that-travels-with-data-a-new-product-introduction-case-study-powered-by-solutions-a4be7e80bfdf)
   > underpinned by GS1 as a root of trust in the network — continuing a rich history for GS1 in this role. GS1 licenses and identifiers are and will continue to be at the foundation of trusting products and companies. Combining current practices with verifiable credential, decentralized identifier, and [GS1 Digital Link](https://www.gs1us.org/industries/emerging-topics/gs1-digital-link) standards disambiguating products builds business reputation for just-in-time engagement while keeping information up to date.
 
+* [Community Credentials](https://credentials.resonate.is) Resonate
+  > [Verifiable Credentials](https://www.w3.org/TR/vc-use-cases/) are a new web standard for proving things digitally, thanks to some clever cryptography.  We are building Community Credentials to be the ‘Know Your Co-operator’ equivalent of KYC (Know Your Customer for business) for co-op social trust, all without reliance on centralised providers (or blockchains).
+* [Ontology Collaborates With The Block To Uncover The Decentralized Identity Industry](https://medium.com/ontologynetwork/ontology-collaborates-with-the-block-to-uncover-the-decentralized-identity-industry-1c2c51d02df0)
+  > Ning Hu, CTO of Ontology, spoke at a panel titled “The State of Decentralized Identity Solutions” in association with [The Block](https://www.theblockcrypto.com/), [...] accompanied by experts in the field of digital identity, Daniel Buchner, Senior PM of Decentralized Identity at Microsoft, and Tobias Fox, Co-founder of Serto. The discussion delved into how digital identity applies to everything from financial services to upskilling workforces, and how blockchain infrastructure can be utilized to lay the trust framework for decentralized identity solutions.
+* [What is Self-Sovereign Identity? #AllYouNeedToKnowAbout OmniOne Series](https://medium.com/@RaonSecure/what-is-self-sovereign-identity-allyouneedtoknowabout-omnione-series-f51887d34be8) 2021-04-28 RAON
+  > OmniOne comes from the willingness to help transition from a service-centric identity to the self-sovereign identity paradigm, empowering anyone to control their identity in a highly secure manner while providing mutual benefits to the participants of its ecosystem.
 
 
 ## Tangle Labs
@@ -82,3 +88,7 @@ ZADA apps are all launched and our first digital ID – a COVIDPASS – is being
 By producing an accessible, open-source wrapper library, Tangle Labs provides any business or development team the opportunity to easily explore SSI and to test and prototype solutions that can bring added value to your business.
 
 
+* [Decentralized identity explained](https://www.youtube.com/watch?v=Ew-_F-OtDFI) 2014-08-14 Microsoft
+  > What is decentralized identity? How does it give you more control over your digital identity and keep your information on the internet safer? This video explains in short what decentralized identity is and how it can replace usernames and passwords to verify you are who you say you are quickly and easily.
+* [Changing the Game with Self-Sovereign Identity](https://eblockchainconvention.com/changing-the-game-with-self-sovereign-identity/) EblockchainConvention ValidatedID
+  > The EBC team had an insightful conversation with Ivan Basart, CTO at Validated ID, on how Self-Sovereign Identity technology is the ultimate solution to identity problems on the web.

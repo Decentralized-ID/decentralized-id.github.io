@@ -92,3 +92,7 @@ For individuals in particular, DIDs can put them back in control of their person
 * [SSI Interaction Patterns](https://www.windley.com/archives/2021/06/ssi_interaction_patterns.shtml)
   > While the DID Authn pattern is simple, it is not as flexible as we need in some situations. For more complicated scenarios, we can use verifiable credentials. The first scenario we’ll consider is where the same organization is issuing and verifying the credential.
   > ![](https://s3.amazonaws.com/revue/items/images/009/411/724/mail/Credential_Internal.png?1621957585)
+
+* [The Time for Self-Sovereign Identity is Now](https://medium.com/learning-machine-blog/the-time-for-self-sovereign-identity-is-now-222aab97041b) Kim Hamilton Duffy, Learning Machine (Now Hyland Credentials)
+Oldie but Goodie by Kim Hamilton Duffy from when she worked at Learning Machines
+  > Technically, Verifiable Claims are claims made about a “subject” (identified by a digital identifier such as a DID) that are rendered tamper proof through digital signatures. The authenticity of digital signatures may, in turn, be established through issuer identifiers, which may also be expressed as DIDs.

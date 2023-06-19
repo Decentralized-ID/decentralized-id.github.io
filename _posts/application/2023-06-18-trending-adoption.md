@@ -44,16 +44,21 @@ We went through the paywall so you don’t have to - SSI only mentioned once. Fr
   > - [cheqd launch](https://cheqd.io/blog/cheqd-launches-mainnet-network/)
 * [Top 5 digital identity trends injecting trust back into governance](https://www.openaccessgovernment.org/digital-identity-trends/125013/) 2021-11-29 Open Access Government
   > As early SSI use cases develop and legal and political institutions evolve, the reality of impactful, integrated SSI systems becomes more tangible. Such use cases include privacy-preserving vaccination certificates, digital identity wallets, and decentralised data verification and certification services that streamline processes like visa applications and workplace credential checks.
+* [Is Self-Sovereign Identity Going Exponential?](https://www.youtube.com/watch?v=xWy0rP8uTiU&t=2406s) 2021-10-27 Sybrin [Recap](https://corporate.sybrin.com/webinar-SSI)
+  > with [Andrew Baker](https://www.linkedin.com/in/andrew-baker-b1357939/), Head of EC2 Engineering at AWS, and [Lohan Spies](https://www.linkedin.com/in/lohanspies/), Chair of the [Sovrin Steward Council](https://sovrin.org/join-the-new-sovrin-steward-council/), they explore the concept of Self-Sovereign Identity (SSI) in detail, discussing what profound implications SSI will have and whether it is indeed the next game changer?
 * [How Verifiable Credentials Can Rebuild Trust On The Internet](https://www.forbes.com/sites/forbestechcouncil/2020/12/18/how-verifiable-credentials-can-rebuild-trust-on-the-internet/) 2020-12-18 Forbes
   > Berners-Lee recently suggested that the web needs a midcourse correction. Part of that change involves making systems accountable and making it easy for users to find where information comes from. Verifiable credentials promise major strides in that direction.
 * [Thoughtworks put Decentralized Identity into the "Assess" category of their technology radar map](http://web.archive.org/web/20201120201821/https://www.thoughtworks.com/radar/techniques?blipid=202005083) 2020-05-19 Thoughtworks Technology Radar
   > Adopting and implementing decentralized identity is gaining momentum and becoming attainable. We see its adoption in privacy-respecting customer health applications, government healthcare infrastructure and corporate legal identity.
+* [Self-sovereign identity](https://en.m.wikipedia.org/wiki/Self-sovereign_identity) 2020-06 Wikipedia - WE have a wikipedia article!
 * [Self Sovereign Identity - A glossary of distributed technologies](https://policyreview.info/open-abstracts/self-sovereign-identity) 2020-05-18 Policy Review
   > Released by the Internet Policy Review Journal on Internet Regulations received an entry on Self-Sovereign Identity By Alexandra Giannopoulou & Fennie Wang
 
 ## Market Signals
 * [Decentralized Identity Market Signals](https://indicio.tech/decentralized-identity-market-signals/) 2022-05-25 Tim Spring Indicio
   > In this rapid fire review we will take a look at, and break down, the biggest recent stories in digital identity and what they could mean for business and the average person using the internet.
+* [The Shape of your Identity](https://stateofidentity.libsyn.com/the-shape-of-your-identity) 2022-03-17 State of Identity Podcast
+  > How are personal data and digital identity reshaping society? [...] Cameron D'Ambrosi is joined by Michael Becker, CEO of Identity Praxis, to discuss the evolution of the identity industry, the latest trends to follow (or flee), and predictions for the future of both consumer and enterprise digital identity.  
 * [The Market Opportunity for Reusable Identity and How to Get There](https://liminal.co/reports/market-opportunity-for-reusable-identity/) 2022-02-03 Liminal
   > The Total Addressable Market is $32.8B in 2022, to reach $266.5B by 2027, with a CAGR of 68.9%. Today, the market is still nascent but is posed for strong growth.
 * [Institutions digitising credentials, but blockchain use remains low](https://thepienews.com/news/digitising-credentials-blockchain-use/) 2021-05-17 The Pie News	[Research](https://www.aacrao.org/research-publications/aacrao-research/meeting-the-moment-transforming-the-digital-credentials-space)
@@ -76,6 +81,8 @@ We went through the paywall so you don’t have to - SSI only mentioned once. Fr
 * [Nice overview, somewhat questionable assumptions](https://twitter.com/UbikomProject/status/1405945396208209932) 2021-06-18 UbikomProject
   * [To Succeed In Decentralizing Digital Identity, Focus On Relationships First](https://www.forbes.com/sites/forbestechcouncil/2021/06/16/to-succeed-in-decentralizing-digital-identity-focus-on-relationships-first/?sh=6f133ef11824) 2021-06-16 Forbes
     >  when it comes to consumers of services, we need to think about identity in terms of building and maintaining trusted digital relationships. With adtech cookies in the regulatory crosshairs, and our research finding that 70% of consumers prefer apps that won't sell their personally identifiable information, we can't afford to think in terms of one-time purchases or disappointing experiences. Many consumers need to manage person-to-person and person-to-device relationships, too. We're not alone in this connected world.
+* [The Growth Factors of Self Sovereign Identity](https://medium.com/@SSI_Ambassador/the-growth-factors-of-self-sovereign-identity-33aa3cc17ce7) 2020-08-14 Adrian Doerk
+  > The post details 5 components necessary for the advance of SSI: Business, Technology, User Experience, Compliance, and Governance.
 * [Why self-sovereign identity will get adopted (and it’s not the reason you probably want)](https://www.tuesdaynight.org/2018/06/15/why-self-sovereign-identity-will-get-adopted-and-its-not-the-reason-you-probably-want/) 2018-06-15 Tuesday Night 
   > In the payment card world, there are clear guidelines on personal liability. $50 if you use credit and up to $500 for debit depending on when you report the issue. Based on that, different people choose to use different “systems.”
   > 
@@ -87,3 +94,5 @@ We went through the paywall so you don’t have to - SSI only mentioned once. Fr
   > ![](https://pbs.twimg.com/media/EwhlfT-XEAE672y?format=jpg&name=large)
 * [4 Keys to Self-sovereign Identity Adoption](https://medium.com/trinsic/4-keys-to-self-sovereign-identity-adoption-ad269b208569) 2021-01-19 Trinsic
   > Many implementers won’t realize the potential of SSI until it’s deployed at scale, but in order to get to scale, we need implementers to realize value. It’s the classic chicken & egg problem.
+* [The challenge for self-sovereign identity (SSI)](https://nickbyrne.substack.com/p/the-challenge-for-self-sovereign) 2020-09-10 Nick Byrne
+  > The reason why we have seen less uptake in SSI solutions is because the people behind these solutions fail to recognise the design principles that will be most important to its success. Instead, we see people focusing on technological nirvanas like blockchain or an over-emphasis on governance.
