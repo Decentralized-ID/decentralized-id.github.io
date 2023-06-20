@@ -17,6 +17,11 @@ In cross-border and migration contexts, digital wallets promise to have wide ran
   > Turning identifying features into verified credentials
   > 
   > How exactly does this work? Let’s look at the three roles of user, issuer and verifier. Firstly, users can have any number of attributes – such as their credit rating, national identity document or driving licence – certified by the entity responsible for each attribute.
+* [Digital Wallet Systems: What is true decentralization ?](https://www.thrivacy.io/en-us/thrivacy_blogs/digital-wallet-systems) Thrivacy
+  > True decentralization in the digital world means that once verified, your PII is on your phone and under your control. The data doesn’t live anywhere else.
+* [Part 3: Digital Wallets and Digital Agents: Putting the Individual in Control](https://www.evernym.com/blog/digital-wallets-digital-agents/) Evernym
+  > Fittingly, some define wrath as “when anger is directed against an innocent person, and when it is unduly strong or long-lasting.” That feels right if you consider the real-life impacts of disabling someone’s digital identity without notice.
+* [GlobaliD 101: ID wallets](https://medium.com/global-id/globalid-101-id-wallets-68fa77e6d0d7) GlobalID
 
 * [OKTA Cloud Identity Integration with SSI wallet](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0100.html)  sethi shivam (Tuesday, 23 November)
 

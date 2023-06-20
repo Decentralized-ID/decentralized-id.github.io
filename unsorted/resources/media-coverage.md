@@ -30,3 +30,5 @@ With identity being the missing link, the advent of self‐​sovereign identity
 
 * [Beyond The Device With Self-Sovereign Identities](https://www.forbes.com/sites/alastairjohnson/2021/11/15/beyond-the-device-with-self-sovereign-identities/) Forbes 2021-11-15
   > In 2021, the average cost of a data breach reached an all-time high of [$4.24 million](https://www.upguard.com/blog/cost-of-data-breach), even though businesses are already spending millions more to combat financial crime and meet their regulatory and compliance responsibilities.
+* [Digital Identity: The Trending Tech Concept Changing How We Live](https://www.forbes.com/sites/johnhall/2021/10/15/digital-identity-the-trending-tech-concept-changing-how-we-live/?sh=3e004c6c2c4c) 2021-10-15 Forbes 
+  > Identification is key to our success. It determines the jobs we get, the money we make, how we can manage our health, and more. The fact of the matter is that 3.4 billion people have access to legally recognized identification but still [have difficulty using that identification online](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/digital-identification-a-key-to-inclusive-growth).

@@ -130,3 +130,15 @@ Ben Werdmüller
 ++++ ActivityPub support · Issue #2615 · idno/known · GitHub	https://github.com/idno/known/issues/2615#issuecomment-991335313
 
 This issue now has a funding of 3004.5068 USD (3000.0 USD @ $1.0/USD) attached to it.
+
+* [Our Ultimate Guide to Authentication: Types, Mechanisms, Forms, Protocols and More](https://www.pingidentity.com/en/company/blog/posts/2021/ultimate-guide-authentication.html) Ping Identity
+  > When organizations employ authentication factors and protocols in a well-thought-out manner, users can still have excellent experiences while security administrators and auditors know operations are being executed securely. As we have seen, there are a number of ways to provide these services in any organization.
+* [ID Token and Access Token: What Is the Difference?](https://auth0.com/blog/id-token-access-token-what-is-the-difference/)
+  > "Let’s use a token to secure this API call. Should I use the ID token or the access token? 🤔 The ID token looks nicer to me. After all, if I know who the user is, I can make better authorization decisions, right?"
+* [Identities Evolve: Why Federated Identity is Easier Said than Done](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2163241) SSRN
+  > This paper shows that federated identity is really a radical and deeply problematic departure from the way we do routine business. Federation undoes and complicates long standing business arrangements, exposing customers and service providers alike to new risks that existing contracts are unable to deal with. Identity federations tend to overlook that identities are proxies for relationships we have in different contexts. Business relationships don’t easily “interoperate."
+* [The Working Principles of 2FA (2-Factor Authentication) Software](https://auth0.com/blog/the-working-principles-of-2fa-2-factor-authentication-software/) Auth0
+  > There’s a lot of “magic” happening under the hood of how software 2FA works. Today, we’re going to peel back the curtains and see how it works, how the codes are generated, what it protects and doesn’t protect from.
+
+* [What Is Authentication?](https://www.1kosmos.com/blog/authentication/what-is-authentication) 2021-07 1Kosmos
+  > Authentication is the process of proving that a user is who they claim to be to access system resources or features. Typically, this calls for some type of proof, whether that is a physical piece of information, a secret piece of information or some other immutable form of evidence.

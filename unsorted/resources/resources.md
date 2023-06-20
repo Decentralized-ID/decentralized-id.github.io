@@ -3,6 +3,8 @@ published: false
 ---
 
 # Resources
+* [New to the topic of self-sovereign identity?](https://threadreaderapp.com/thread/1405788127265005571.html) 2021-06-18 SSIAmbassador
+  > No problem, there are several beginner #guides, which you can use to get familiar with the new standard for digital #identity.
 
 * [Self Sovereign Identity Wikipedia Article](https://en.wikipedia.org/wiki/Self-sovereign_identity) that has been started, but can clearly still use a lot of attention. (h/t [@Drabiv](https://twitter.com/Drabiv/status/1102166656019849216))
 * [Self-Sovereign Identity : Decentralized digital identity and verifiable credentials](https://www.manning.com/books/self-sovereign-identity) Manning

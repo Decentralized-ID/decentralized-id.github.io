@@ -14,6 +14,16 @@ published: false
 
   * [What’s in Your Data Ecosystem?](https://stateofidentity.libsyn.com/whats-in-your-data-ecosystem) State of Identity
   > Indicio's CEO, Heather Dahl, and CTO, Ken Ebert, identity wallets, verified credentials, the role of the Sovrin Foundation, and new momentum around interoperability across decentralized identity.
+* [Part 4: Getting on the Right Data Diet with Verifiable Credentials](https://www.evernym.com/blog/right-data-diet-verifiable-credentials/)
+  > Apparently gluttony means “overconsumption to the point of waste.” Sadly that feels apt when it comes to customer data APIs.
+
+* [6: Breaking Down Silos with Open Ecosystems and True Data Portability](https://www.evernym.com/blog/open-ecosystems-data-portability/)
+  > Every company providing a new digital identity solution believes that all the other digital identity options are not good enough, not secure enough, not fast enough. They believe they can do better.
+  > 
+  > Yet collaboration will be critical to making digital identity work properly at scale.
+
+* [Part 7: Envy Counting The Cost of Data Collection, And A New Paradigm Of ‘Identity Holder Present’](https://www.evernym.com/blog/identity-holder-present/)
+  > It all feels like data envy to me. Aristotle described envy as the pain at the sight of another’s good fortune, stirred by “those who have what we ought to have.” Precisely.
 
 
 * [UNDP LEGAL IDENTITY AGENDA ONLINE FORUM: PRIVATE SECTOR ENGAGEMENT ROUNDTABLES: DATA PROTECTION AND PRIVACY](https://unstats.un.org/LEGAL-IDENTITY-AGENDA/MEETINGS/2021/UNLIA-FUTURETECH/DOCS/REPORT2.PDF)

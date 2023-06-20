@@ -832,6 +832,16 @@ Their DNS names stopped resolving, and their infrastructure IPs were offline. Th
 * [The Off Chain Internet: Decentralized Identity & Verifiable Credentials - Evin McMullen](https://www.youtube.com/watch?v=EZ_Bb6j87mg) 2022-02-19 ETH Denver
 
 FANTASTIC NEW TALK!!!!
+* [Podcast] [Self-Sovereign Digital Identity, Blockchain & Web3 with Charlyn Ho](https://podcasts.apple.com/us/podcast/45-self-sovereign-digital-identity-blockchain-web3/id1510232581?i=1000552163633) 2022-02-25 I also want money
+  > Could blockchain and the decentralized web mean the end of surveillance capitalism? Maybe! In this episode, Perkins Coie partner Charlyn Ho defines digital identity, explains how blockchain empowers users to take control of their data, and shares how Web3 could dismantle Big Tech’s monopoly on Big Data - if it’s built the right way.
+* [Blockchain for Decentralized Identity — Self-Sovereign Identity De-mystified](https://medium.com/blockchain-for-decentralized-identity/blockchain-for-decentralized-identity-self-sovereign-identity-de-mystified-f9bebd006e84) 2022-02-16 Anita Rao
+  > Web 3.0 presents a promise to address the above issues with Identity. The term Web 3.0 refers to a decentralized internet that uses crypto tokens. Decentralization is at the heart of Web 3.0 which has the potential to democratize technology and put the users in control of their data.
+* [Three approaches to Self-Sovereign Identity based on blockchain](https://medium.com/coinmonks/three-approaches-to-self-sovereign-identity-based-on-blockchain-301b18a49345)
+
+The third approach is, in a way, derived from the previous one, and is the one pursued by [uPort/Serto](https://www.uport.me/): the blockchain has one single registry that tracks down just the revocation of credentials,
+* [Digital sovereignty: Reclaiming your private data in Web3](https://cointelegraph.com/news/digital-sovereignty-reclaiming-your-private-data-in-web3) Cointelegraph
+  > this is a collaborative effort — one bigger than a single individual or organization — and the whole Web3 space should work together.
+* [Drawbacks of Traditional Identifiers and An Introduction to WEB3](https://medium.com/hypersign/ssi-101-part-2-drawbacks-of-traditional-identifiers-and-an-introduction-to-web3-a1bf791819b0) Hypersign
 
 ## Ethereum Merge
 

@@ -147,7 +147,22 @@ As [Mary Lacity](https://walton.uark.edu/departments/information-systems/directo
 
 The global market for identity and access management was $9.53 billion USD in 2018 and is expected to reach $24.76 billion USD by the end of 2026, showing a CAGR of 13.2% during the forecast year.
 
+* [New Indicio Executive Workshop Provides Essential Grounding in Digital Identity: The Business and Investor’s Guide to Self-Sovereign Identity](https://indicio.tech/new-indicio-executive-workshop-provides-essential-grounding-in-digital-identity-the-business-and-investors-guide-to-self-sovereign-identity/) 2021-12-14 Scott Harris
+  > Participants will [walk away with an essential understanding](https://indicio.tech/product/executive-education-ssi-workshop/) of how SSI works, the pain points it solves for, the risks it mitigates, the use cases currently in deployment, and the opportunities that are created by being able to build Trusted Data Ecosystems (TDEs).
+* [Who Controls Your Digital Identity?](https://blogs.sap.com/2021/02/18/who-controls-your-digital-identity/) SAP 2021-02-18
+  > SSI will have to be integrated with large existing business processes – and therefore enterprise systems such as ERPs, HCMs, or SCMs to name a few. If this integration results in SSI being as easy to use as clicking a button or selecting a menu item, it will lead to rapid uptake and acceptance.
 
+* [What Does Self-Sovereign Identity Mean For My Business?](https://www.continuumloop.com/what-does-self-sovereign-identity-mean-for-my-business/) Continuum Loop
+  > - What will happen if I don’t jump on this train?
+  > - What would it mean if I didn’t have to own my customer’s digital identity but establish a deep digital relationship with them instead?
+  > - Do I have the capacity to learn about this? If not, who do you trust to figure it out – both on the business and technical sides.
+  > - What changes when digital identity becomes a revenue driver and asset for your business? (hint: top and bottom line)
+  > - Which of my competitors is probably already doing this?
+
+* [Seven Ways Self-Sovereign Identity Can Enable True Digital Transformation](https://www.evernym.com/blog/self-sovereign-identity-digital-transformation/): A CODA
+  > “Self-Sovereign Identity not only presents an opportunity for businesses to build smarter, more secure, and more scalable relationships with customers; but it will enable them to completely rethink how they build trusted digital relationships from the ground up.”
+  > 
+  > We expect Digital Transformation to be a more prevalent talking point around digital identity. FOMO can go a long way, to sell SII, for Goverments and Corporations striving to not be left behind in the digital age.
 * [Global Identity Market Signals](https://indicio.tech/global-identity-market-signals/) by Indicio
 
 Decentralized Identity has gone international! In this week’s GIMS, we’ll talk about some of the most exciting projects and some of the lessons learned from around the globe.

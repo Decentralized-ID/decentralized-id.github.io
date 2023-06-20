@@ -92,3 +92,10 @@ By producing an accessible, open-source wrapper library, Tangle Labs provides an
   > What is decentralized identity? How does it give you more control over your digital identity and keep your information on the internet safer? This video explains in short what decentralized identity is and how it can replace usernames and passwords to verify you are who you say you are quickly and easily.
 * [Changing the Game with Self-Sovereign Identity](https://eblockchainconvention.com/changing-the-game-with-self-sovereign-identity/) EblockchainConvention ValidatedID
   > The EBC team had an insightful conversation with Ivan Basart, CTO at Validated ID, on how Self-Sovereign Identity technology is the ultimate solution to identity problems on the web.
+* [IDENTOS prepares customers for verifiable credentials](https://www.identos.ca/identos-prepares-customers-for-verifiable-credentials/) Identos
+  > Rather than trying to paste everything and everyone together, the path forward to help build trusted ecosystems relies on interoperability and leveraging existing assets while positioning the user in a disintermediated model of control and agency — possible with FPX and verifiable credentials.
+* [DID 101: A Brief Introduction to What Makes Ontology Special](https://medium.com/ontologynetwork/did-101-a-brief-introduction-to-what-makes-ontology-special-bdaeae832f35)
+* [Use the Okta CLI to Build Secure Python Apps](https://developer.okta.com/blog/2022/07/27/python-okta) Okta 2022-07-27
+  > - Teach you how to create your first application
+  > - Learn about authentication and authorization credentials
+  > - Set up hosted authentication with Okta and try it out

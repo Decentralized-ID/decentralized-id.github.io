@@ -47,6 +47,8 @@ The tech we use should be responsive to and responisble with the climate, enviro
 
 That means 95% of US consumers are saying ‘no way’ to cross-app tracking with Apple’s new [App Tracking Transparency](https://anonyome.com/2021/05/apples-new-att-and-why-facebook-is-hitting-back-hard/) (ATT) feature.
 
+* [The Principles of User Sovereignty](https://uxdesign.cc/the-principles-of-user-sovereignty-515ac83401f6) 2020-07-31 UXDesign
+  > “Our identities have no bodies, so, unlike you, we cannot obtain order by physical coercion. We believe that from ethics, enlightened self-interest, and the commonweal, our governance will emerge. Our identities may be distributed across many of your jurisdictions. The only law that all our constituent cultures would generally recognize is the Golden Rule. We hope we will be able to build our particular solutions on that basis. But we cannot accept the solutions you are attempting to impose.” — John Perry Barlow
 * [Do Consumers Even Want Personalized Ads?](https://anonyome.com/2021/06/do-consumers-even-want-personalized-ads/) Anonyme
 
 The [YouGov](https://www.globalwitness.org/en/blog/do-people-really-want-personalised-ads-online/) poll of consumers in France and Germany we mentioned earlier says it’s the [behind the scenes](https://mysudo.com/2021/02/beware-the-dark-patterns-trying-to-steal-your-data/) or back door nature of personalization that gives people the creeps.
@@ -54,6 +56,8 @@ The [YouGov](https://www.globalwitness.org/en/blog/do-people-really-want-persona
   > - to force something to be officially approved or accepted without much discussion or thought.
   > - to force someone into doing something quickly, usually without enough information.
 * [How humans understand identity](https://medium.com/universal-identity/how-humans-understand-identity-367200ae9591) Universal Identity
+* [More security does not have to mean less user-friendliness](https://background.tagesspiegel.de/cybersecurity/mehr-sicherheit-muss-nicht-weniger-nutzerfreundlichkeit-bedeuten) Martin Kuppinger, Tagesspiegel
+  > The passwords that have been declared dead are far from dead. Nevertheless, the way in which users authenticate themselves is changing towards more security and convenience.
 
 * [Managing Authorization: Who Has What?](https://iiw.idcommons.net/4D/_Managing_Authorization:_Who_Has_What%3F) By David Schmudde
 

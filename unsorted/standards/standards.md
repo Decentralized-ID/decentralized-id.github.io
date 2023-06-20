@@ -96,3 +96,12 @@ For individuals in particular, DIDs can put them back in control of their person
 * [The Time for Self-Sovereign Identity is Now](https://medium.com/learning-machine-blog/the-time-for-self-sovereign-identity-is-now-222aab97041b) Kim Hamilton Duffy, Learning Machine (Now Hyland Credentials)
 Oldie but Goodie by Kim Hamilton Duffy from when she worked at Learning Machines
   > Technically, Verifiable Claims are claims made about a “subject” (identified by a digital identifier such as a DID) that are rendered tamper proof through digital signatures. The authenticity of digital signatures may, in turn, be established through issuer identifiers, which may also be expressed as DIDs.
+* [The Verifiable Credential’s Model](https://trinsic.id/trinsic-basics-the-verifiable-credentials-model/)
+  > At the core of every self-sovereign identity (SSI) use case is what we call the verifiable credentials model. This simple yet effective model helps conceptualize how verifiable credentials are exchanged between people and organizations.
+* [According to](https://www.w3.org/TR/vc-data-model/) W3: "Verifiable credentials represent statements made by an issuer in a tamper-evident and privacy-respecting manner."
+* [DID, in short for Decentralized Identifier, is basically a unique string of random numbers and letters](https://twitter.com/fennykyun/status/1564249472053514240) fennykyun
+  > tldr\
+  > :: DID is just an URI\
+  > :: VC is a cryptographically verifiable credential using DID\ 
+  > :: SSI is a self-sovereign and privacy-preserving identity 
+  > :: Non-human (Machines, Bots, Goods, anything) also able to have DID, VC, and SSIs
