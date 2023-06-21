@@ -21,8 +21,11 @@ last_modified_at: 2023-06-19
 We went through the paywall so you don’t have to - SSI only mentioned once. From page 99>>
 * [EIC2022 Centralized & Decentralized Identity converging](https://www.linkedin.com/pulse/eic2022-centralized-decentralized-identity-converging-kuppinger/) 2022-05-18 Martin Kuppinger
   > For me, the most relevant new topic and trend was to finally see the convergence of decentralized identities (DID) and traditional approaches on IAM starting. DID, also referred to as SSI (Self Sovereign Identity) or verifiable credentials, is a concept where the user has a wallet that holds proofs of identities and attributes. This could be an ID proof based on a government-issued ID card. It could be a proof of the employer that the user works in an organization in a certain role. It can be other proofs such as the drivers license, health cards, self-issued proofs, etc.
-* [Bullish Case for Self-Sovereign Identity](https://sgershuni.medium.com/bullish-case-for-self-sovereign-identity-c2c26857f0ab) 2021-03-01 Stepan Gershuni
-  > This is the first part of the 2-part series covering self-sovereign identity technology. First part is covering the key problems that this technology is aiming to solve and how it is being achieved, and in the second part I’m focusing on the business model and go-to-market aspects.
+* [Sebastian Gebski's Reviews > Self-Sovereign Identity: Decentralized Digital Identity and Verifiable Credentials by Alex Preukschat, Drummond Reed](https://www.goodreads.com/review/list/11116469-sebastian-gebski?shelf=read) 2021-07-24 Goodreads 
+  > The authors do a lot to carefully describe all the hard concepts one by one, in order, w/o getting bound to any particular implementation. This is not easy and twice or thrice I made a mental note that "I'm missing X here, if I were him/her, I would write about Y", but to my satisfaction, these deficiencies were always fixed in further chapters of the book.
+* [Volume 10, Issue 2 : Glossary of decentralized technosocial systems](https://policyreview.info/archives/2021/issue-2) 2021 Internet Policy Review
+Self-sovereign identity Definition <-its quite good
+  > Self-sovereign identity (SSI) is rooted in the belief that individuals have the right to an identity independent of reliance on a third-party identity provider, such as the state or any other central authority. Its implementation requires the development of technical standards, as well as socio-political adaptations rooted in legal amendments in order to be successful.
 * [Digital identity market revenues to reach US$53bn in 2026](https://www.nfcw.com/2022/01/31/375825/digital-identity-market-revenues-to-reach-us53bn-in-2026/) 2022-01-31 NFCW
   > Juniper’s Digital Identity: Key Opportunities, Regulatory Landscape & Market Forecasts 2022-2026 report also identifies multimodal biometric authentication, digital onboarding — including single sign-on solutions and self-sovereign identity — as “growing trends” across the digital identity market.
 * [Digital Identity Trends and Predictions for 2022](https://www.signicat.com/blog/2022-trends-and-predictions) 2022-01-14 Signicat
@@ -44,7 +47,7 @@ We went through the paywall so you don’t have to - SSI only mentioned once. Fr
   > - [cheqd launch](https://cheqd.io/blog/cheqd-launches-mainnet-network/)
 * [Top 5 digital identity trends injecting trust back into governance](https://www.openaccessgovernment.org/digital-identity-trends/125013/) 2021-11-29 Open Access Government
   > As early SSI use cases develop and legal and political institutions evolve, the reality of impactful, integrated SSI systems becomes more tangible. Such use cases include privacy-preserving vaccination certificates, digital identity wallets, and decentralised data verification and certification services that streamline processes like visa applications and workplace credential checks.
-* [Is Self-Sovereign Identity Going Exponential?](https://www.youtube.com/watch?v=xWy0rP8uTiU&t=2406s) 2021-10-27 Sybrin [Recap](https://corporate.sybrin.com/webinar-SSI)
+* [Video] [Is Self-Sovereign Identity Going Exponential?](https://www.youtube.com/watch?v=xWy0rP8uTiU&t=2406s) 2021-10-27 Sybrin [Recap](https://corporate.sybrin.com/webinar-SSI)
   > with [Andrew Baker](https://www.linkedin.com/in/andrew-baker-b1357939/), Head of EC2 Engineering at AWS, and [Lohan Spies](https://www.linkedin.com/in/lohanspies/), Chair of the [Sovrin Steward Council](https://sovrin.org/join-the-new-sovrin-steward-council/), they explore the concept of Self-Sovereign Identity (SSI) in detail, discussing what profound implications SSI will have and whether it is indeed the next game changer?
 * [How Verifiable Credentials Can Rebuild Trust On The Internet](https://www.forbes.com/sites/forbestechcouncil/2020/12/18/how-verifiable-credentials-can-rebuild-trust-on-the-internet/) 2020-12-18 Forbes
   > Berners-Lee recently suggested that the web needs a midcourse correction. Part of that change involves making systems accountable and making it easy for users to find where information comes from. Verifiable credentials promise major strides in that direction.
@@ -65,13 +68,23 @@ We went through the paywall so you don’t have to - SSI only mentioned once. Fr
   > While some educational institutions have shifted to issuing EDX, digitally signed PDFs or blockchain verifiable credentials, reliance on paper-based credentials is still widespread. While both paper and even digitally signed PDF credentialing solutions have worked well enough, there are still unaddressed challenges facing students, employers, and other educational stakeholders in a global learning and employment marketplace.
 
 ## On Adoption
+* [The Decentralized Identity Schelling Point](https://www.linkedin.com/pulse/decentralized-identity-schelling-point-sarah-baldeo-bsc-mba/) 2023-03-01 Sarah Baldeo
+  > Back to the Schelling Point - communication requires a common language and understanding. As governments, banks, hospitals, etc. navigate how best to homogenize authenticating user identities in multiple contexts, solutions will depend on user adoption. Maximizing adoption requires avoiding a Schelling point by creating a shared, accessible, and evolving Decentralized Identity Lexicon.
 * [Decentralized Identity: Keys to Mainstream Adoption](https://trustoverip.org/blog/2022/05/27/decentralized-identity-keys-to-mainstream-adoption/) 2022-05-27 Trust Over IP 
   When it comes to decentralized identity solutions, many business sponsors do not yet understand how DCI can provide practical answers to immediate frontline business problems. This climate creates the impression that decentralized identity is interesting but not ready for prime time adoption.
 * [I had a stab at why Cardspace failed, in](https://twitter.com/Steve_Lockstep/status/1517861150129795072) 2022-04-23 Steve Lockstep
   > “[Identities Evolve: Why Federated Identity is Easier Said than Done](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2163241)
   > 
   > Why does digital identity turn out to be such a hard problem? People are social animals with deep seated intuitions and conventions around identity, but exercising our identities online has been hugely problematic.
-* [IIW33 Session: Crossing the chasm ➔ Mass market adoption of SSI and VC](https://www.youtube.com/watch?v=AhXB9Kzzklg) 2021-10-16 IAMX [Session Notes](https://iiw.idcommons.net/13B/_Crossing_the_chasm_-_mass_market_adoption_of_SSI_and_VC._What_is_needed_to_make_triangle_of_trust_work%3F)
+* [Video] [Self-Sovereign Identities in Productive Systems - A Reality Check](https://www.youtube.com/watch?v=bRmhIL9sdd0) 2021-11-25 Frankfurt School Blockchain Center
+  > - Which use cases does SSI have?
+  > - What is the disruptive potential of SSI’s?
+  > - Which risks does the adoption of SSI pose?
+  > - What are the challenges and opportunities of SSI?
+  > - Where do the limitations of SSI lie?
+  > - How can SSI be incorporated into existing infrastructure?
+  > - Which steps need to be taken for the proliferation of SSI?
+* [Video] [IIW33 Session: Crossing the chasm ➔ Mass market adoption of SSI and VC](https://www.youtube.com/watch?v=AhXB9Kzzklg) 2021-10-16 IAMX [Session Notes](https://iiw.idcommons.net/13B/_Crossing_the_chasm_-_mass_market_adoption_of_SSI_and_VC._What_is_needed_to_make_triangle_of_trust_work%3F)
   > 1. How to ➡ enable mass market adoption of SSI and VC?
   > 2. Is the preservation of human rights the correct design-principle?
   > 3. What is needed to make triangle of trust work?
@@ -92,6 +105,8 @@ We went through the paywall so you don’t have to - SSI only mentioned once. Fr
 * [Some early thinking about where #SSI is under @swardley model of Genesis -> Custom -> Product -> Utility.](https://twitter.com/darrello/status/1371457759779110912) 2021-05-15 Darrell O'Donnell
   > We've come a long way, but we are still in the earliest of stages.
   > ![](https://pbs.twimg.com/media/EwhlfT-XEAE672y?format=jpg&name=large)
+* [Bullish Case for Self-Sovereign Identity](https://sgershuni.medium.com/bullish-case-for-self-sovereign-identity-c2c26857f0ab) 2021-03-01 Stepan Gershuni
+  > This is the first part of the 2-part series covering self-sovereign identity technology. First part is covering the key problems that this technology is aiming to solve and how it is being achieved, and in the second part I’m focusing on the business model and go-to-market aspects.
 * [4 Keys to Self-sovereign Identity Adoption](https://medium.com/trinsic/4-keys-to-self-sovereign-identity-adoption-ad269b208569) 2021-01-19 Trinsic
   > Many implementers won’t realize the potential of SSI until it’s deployed at scale, but in order to get to scale, we need implementers to realize value. It’s the classic chicken & egg problem.
 * [The challenge for self-sovereign identity (SSI)](https://nickbyrne.substack.com/p/the-challenge-for-self-sovereign) 2020-09-10 Nick Byrne

@@ -51,7 +51,7 @@ last_modified_at: 2023-06-16
   > “recently launched [LearnCard](http://www.learncard.com/), a digital wallet for education and employment programmable verifiable credentials”
 * [How to Prevent Fraud using #MARKs](https://dhiway.com/prevent-credential-fraud/) 2021-10-26 DHIWay
   > Credential fraud has, unfortunately, become commonplace in today’s instant electronic age. Especially problematic in [higher education](https://dhiway.com/hashmarks-in-the-education-sector/), credential fraud has spiralled into a multi-billion-dollar industry
-* [Redefining the Student Journey](https://www.youtube.com/watch?v=enqQ0FyLaBc) 2021-05-11 Condatis
+* [Video] [Redefining the Student Journey](https://www.youtube.com/watch?v=enqQ0FyLaBc) 2021-05-11 Condatis
   > Digital innovation has been front and centre in Higher Education since the pandemic. The challenges remain for universities supporting students now and for the future. With the help of Microsoft Azure AD Verifiable Credentials, universities can support student needs effective and innovative digital approach.
 * [Open Badges] [Blockchain and the future of Education](https://wellthatsinteresting.tech/blockchain-and-the-future-of-education/) 2020-08-10 WellThatsInteresting.tech
   > It highlights the [recent announcement from Digitary](https://www.digitary.net/myequals-1-million/) about having issued over four million digitally verified documents from 100+ institutions for millions of learners in 135 countries.

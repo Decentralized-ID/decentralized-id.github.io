@@ -96,7 +96,7 @@ last_modified_at: 2023-06-18
   > As more and more governments adopt major COVID certificate standards to reopen borders, the travel industry is working hard to catch up on their technology to meet the evolving travel requirements. However, there is still no shortage of complaints from travelers about their cumbersome international travel experiences. 
 * [SITA Publishes 18-Month Plan for Digital Transformation in Air Travel](https://www.sita.aero/globalassets/docs/brochures/your-runway-to-success.pdf) 2021-06-30 SITA
   > COVID-19 has had a dramatic impact on the aviation industry both financially and operationally. It has required our industry to reprioritize technology spend, do more with less, and implement health and safety protocols
-* [Panel: Paving the Way to a Safer Travel Experience - Heather Dahl, & Scott Harris & Adrien Sanglier](https://www.youtube.com/watch?v=YlgXNk4GRLc) 2021-06-21 Hyperledger Foundation
+* [Video] [Panel: Paving the Way to a Safer Travel Experience - Heather Dahl, & Scott Harris & Adrien Sanglier](https://www.youtube.com/watch?v=YlgXNk4GRLc) 2021-06-21 Hyperledger Foundation
   > Together SITA and Indicio.tech utilized Hyperledger Aries, Ursa, and Indy to create a secure travel credential that is accepted by airlines, hotels and hospitality partners without sharing private health information. In this panel discussion, SITA and Indicio.tech will share their journey of applying verifiable credentials in commercial aviation and travel/hospitality to make it easy for visitors entering a country to share a trusted traveler credential – based on their health status, yet revealing no personal information or health data – privately and securely on their mobile device.
 * [Coming Soon: The ‘Vaccine Passport’](https://www.nytimes.com/2021/02/04/travel/coronavirus-vaccine-passports.html) 2021-02-04 NYTimes
   > “The global passport system took 50 years to develop,” said Drummond Reed, chief trust officer for Evernym. “Even when they wanted to add biometrics to that to make it stronger, that took over a decade to agree on just how you’re going to add a fingerprint or a facial biometric to be verified on a passport. Now, in a very short period of time, we need to produce a digital credential that can be as universally recognized as a passport and it needs an even greater level of privacy because it’s going to be digital.”
@@ -171,7 +171,7 @@ last_modified_at: 2023-06-18
   > COVID, Verifiable Credentials, Biometrics, Privacy
   > 
   > Converting the COVID CDC Vaccination Card into a standardized digital credential is turning out to be harder than expected. The conversation has become prominent in the news and risks being politicized to the detriment of public health efforts around the world.
-* [I Want COVID-19 Certificates but I don't want a DID](https://www.youtube.com/watch?v=yqSr0xKcG18) 2020-05-12 David Chadwick
+* [Video] [I Want COVID-19 Certificates but I don't want a DID](https://www.youtube.com/watch?v=yqSr0xKcG18) 2020-05-12 David Chadwick
   > This is the talk that I gave at Kuppinger Cole's virtual event entitled "Identity Fabrics & the Future of Identity Management" on 12 May 2020 (see https://www.kuppingercole.com/events/...)
   > 
   > It describes why DIDs and blockchains are not needed in order to build Self Sovereign Identity Systems.

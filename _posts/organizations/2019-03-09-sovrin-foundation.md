@@ -37,6 +37,8 @@ last_modified_at: 2023-06-12
   > A comprehensive, highly readable 40 page paper describing the complete Sovrin ecosystem, including the problems Sovrin is designed to solve; why it is designed to be a global public utility; how the overall architecture is designed for for resilience, privacy and scalability; the markets it is expected to impact.
 * [The Sovrin Foundation](http://www.windley.com/archives/2018/07/the_sovrin_foundation.shtml) 2018-07 Phil Windley
   >  This article describes the role that the Sovrin Foundation and associated groups play in governing, operating, and using the Sovrin Network. The Sovrin Network is designed and intended to be decentralized so understanding the key influence points and community groups is important.
+* [12 Principles of Self-Sovereign Identity](https://sovrin.org/principles-of-ssi/) Sovrin
+  > Representation • Interoperability • Decentralization • Control & Agency • Participation • Equity and Inclusion • Usability, Accessibility, and Consistency • Portability • Security • Verifiability and Authenticity • Privacy and Minimal Disclosure • Transparency
 
 ### Working Groups
 * [Guardianship](https://sovrin.org/guardianship/)
@@ -65,7 +67,7 @@ last_modified_at: 2023-06-12
 * [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml) 2016-09 Phil Windley
 
 ## Background
-* [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8) 2017-09-08
+* [Video] [Phil Windley on the Sovrin Network](https://www.youtube.com/watch?v=IxQUL2ztFi8) 2017-09-08
   > Phil Windley, former CIO of the State of Utah and renowned expert on digital identity, speaks about his latest work as chairman of the Sovrin Foundation, a private-sector, international non-profit that was established to govern the world’s first self-sovereign identity (SSI) network.
 * [Sovrin Foundation Releases World’s First Public Distributed Ledger for Self-Sovereign Identity](https://www.globenewswire.com/news-release/2017/09/14/1121456/0/en/Sovrin-Foundation-Releases-World-s-First-Public-Distributed-Ledger-for-Self-Sovereign-Identity.html) 2017-09-14
   > The Sovrin Foundation announced the launch of the provisional Sovrin Network, the world's first truly self-sovereign digital identity system. The Sovrin Network operates on a distributed ledger -- technology sometimes referred to as a blockchain -- built from the ground up for this purpose.

@@ -18,10 +18,6 @@ toc: false
 * [curated list] [Peacekeeper's Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity) 2021-11-23
 * [Identity Blockchains and Energy Consumption](https://indicio.tech/identity-blockchains-and-energy-consumption/) 2021-10-19 Indicio
   A decentralized network using a blockchain-based distributed ledger means you can use [Peer DIDs](https://identity.foundation/peer-did-method-spec/) to move most “transactions” and their cryptographic proofing off ledger. This means that for those peer-to-peer interactions, identity blockchains don’t need to do any ledger transactions at all.
-* [Self Sovereign Identity ≠ Blockchain](https://jolocom.io/blog/dezentrale-identitaten-%e2%89%a0-blockchain-2/) 2021-11-09 Jolocom
-  > Due to the ID-Wallet project in Germany, some articles and comments have equated Self Sovereign Identity (SSI) with blockchain technology in the last few weeks. The impression is given that SSI only works in conjunction with a blockchain. Spoiler, that’s not the case.
-* [tweet thread] [Technically you're right. Blockchain is not inherent to DIDs](https://twitter.com/Steve_Lockstep/status/1425924860312645633) 2021-08-13 Steve Wilson
-  > Most DID presentations (as with much SSI) open with a bit of a disclaimer that these technologies don't need blockchain. And yet the word-association is strong. Many DID block diagrams feature a blockchain. -/2
 * [Legitimacy and Decentralized Systems](https://www.windley.com/archives/2021/04/legitimacy_and_decentralized_systems.shtml) 2021-04 Windley
   > Why are some decentralized systems accepted and widely used while others wither? Why do some “hard forks” succeed while others fail? It all comes down to legitimacy.
 * [Why Distributed Ledger Technology (DLT) for Identity?](https://www.hyperledger.org/blog/2021/04/21/why-distributed-ledger-technology-dlt-for-identity) 2021-04-21 Hyperledger
@@ -37,7 +33,7 @@ toc: false
   > - The impact on the internet
   > - The benefits of technical standards
   > - The economic opportunity for early innovators
-* [Identity and Distributed Ledger - Today and Tomorrow - June 26 - Identiverse 2019](https://www.youtube.com/watch?v=l04AHP7kPPw) 2019-06-26
+* [Video] [Identity and Distributed Ledger - Today and Tomorrow - June 26 - Identiverse 2019](https://www.youtube.com/watch?v=l04AHP7kPPw) 2019-06-26
   > Join our expert panel, moderated by Paul Madsen, as they discuss and debate the future of distributed identity technology and its applications in solving identity problems.
 * [If ledger isn’t used, then every issuer of a credential has to maintain infrastructure](https://twitter.com/windley/status/1071469217650638848) 2018-12-09 Phil Windley
   > or contract service provider to respond to DID resolution & revocation requests. And, credential issuers would know when the credential was used, impacting privacy.
@@ -52,13 +48,22 @@ toc: false
   > I decided to open a thread On Twitter for ID & security professionals to share why (/if) putting hashed PII on any immutable ledger(blockchain) is a bad Idea.\
   > Not everyone agreed that it was bad if certain things were done right.\
   > There were 15 direct responses and then a whole lot of subthreads.
-* [Blockchain-Anchored Identity – A Gateway to Decentralized Apps and Services](https://www.youtube.com/watch?v=hUYpvI43bHA) 2017-05-10 Daniel Buchner
+* [Video] [Blockchain-Anchored Identity – A Gateway to Decentralized Apps and Services](https://www.youtube.com/watch?v=hUYpvI43bHA) 2017-05-10 Daniel Buchner
   > Blockchains possess unique properties that can be used to build systems that significantly impact our world. Perhaps no area of utilization, besides raw value exchange, is as intriguing as decentralized identity. In this talk we will discuss how blockchain-anchored decentralized identity can be used as a substrate for secure, user-centric apps and services.
 * [Self-Sovereign Identity and the Legitimacy of Permissioned Ledgers](http://www.windley.com/archives/2016/09/self-sovereign_identity_and_the_legitimacy_of_permissioned_ledgers.shtml) 2016-09
   > This post justifies the claim that an identity system based on a permissioned distributed ledger is legitimately self-sovereign. The post also examines the claims to legitimacy that social login and distributed ledger identity systems make.
 * [Blockchain for Identity - Myth or Potential](https://www.kuppingercole.com/blog/kuppinger/blockchain-for-identity-myth-or-potential) 2018-06-16
   > Authentication might definitely become simpler, by having various authenticators and IDs, from eIDs to social logins, associated with a wallet. Just one simple store to get access. Yes, there are challenges in creating secure, easy-to-use wallets, but there is potential as well.
   ![](https://i.imgur.com/YSyv11h.png)
+
+## Do you need a blockchain?
+
+* [Self Sovereign Identity ≠ Blockchain](https://jolocom.io/blog/dezentrale-identitaten-%e2%89%a0-blockchain-2/) 2021-11-09 Jolocom
+  > Due to the ID-Wallet project in Germany, some articles and comments have equated Self Sovereign Identity (SSI) with blockchain technology in the last few weeks. The impression is given that SSI only works in conjunction with a blockchain. Spoiler, that’s not the case.
+* [Do You Need Blockchain for Enabling SSI?](https://academy.affinidi.com/do-you-need-blockchain-for-enabling-ssi-452d62b34890) 2021-08-13 Affinidi
+  > We hope this will get you thinking about enabling SSI using an option that best suits your application or business requirement.
+* [tweet thread] [Technically you're right. Blockchain is not inherent to DIDs](https://twitter.com/Steve_Lockstep/status/1425924860312645633) 2021-08-13 Steve Wilson
+  > Most DID presentations (as with much SSI) open with a bit of a disclaimer that these technologies don't need blockchain. And yet the word-association is strong. Many DID block diagrams feature a blockchain. -/2
 
 ## Literature
 

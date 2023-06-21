@@ -79,7 +79,7 @@ last_modified_at: 2023-06-12
   > The Interoperability working group will be tracking them and providing guidance and documentation where possible. Importantly, though, there is a new DIF Working Group coming soon, the Wallet Security WG, which will dive deeper into these profiles and requirements, benefiting from a narrow scope and IPR protection, allowing them to speak more bluntly about the above-mentioned details.
 * [Setting Interoperability Targets](https://blog.identity.foundation/setting-interoperability-targets/) 2021-04-30 DIF
   > Our short-term roadmaps need testable, provable alignment goals that we can all agree on for our little communities and networks of technological thinking to converge gradually. Simply put, we need a few checkpoints and short-term goals, towards which we can all work together.
-* [Tobias Looker on BBS+ use cases, DIF Interop WG 25Nov2020](https://www.youtube.com/watch?v=slkbFW6imUk) 2020-11-25 Tobias Looker, MATTR, Interop WG
+* [Video] [Tobias Looker on BBS+ use cases, DIF Interop WG 25Nov2020](https://www.youtube.com/watch?v=slkbFW6imUk) 2020-11-25 Tobias Looker, MATTR, Interop WG
   > - Replay attack protection
   > - Domain-specific identifiers and proofs
   > - New partial-disclosure topographies

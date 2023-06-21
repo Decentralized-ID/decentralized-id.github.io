@@ -26,6 +26,8 @@ last_modified_at: 2023-06-09
   > How to move forward when expectations are high whilst divers and many open questions seem to lure on the way? How to demonstrate value of a constantly developing technology before all open issues are clarified? These uncertainties seemingly dominated the recent participation conference organized by the federal project team as the start of a series of similar events to accompany in the most transparent way the development and legislation of the newly proposed E-ID-Ecosystem for Switzerland. 
   - Stream 1  – Exploring the Foundations
   - Stream 2 – Building the Extended SSI Ecosystem
+* [Self Sovereign Identity Explainer](https://www.didas.swiss/wp-content/uploads/2021/12/SSI-Explainer-Introduction-final.pdf) 2021-12 DIDAS
+  > With this presentation we start the Self-Sovereign Identity journey for all Swiss people.
 * [Self-Sovereign Identity and how we can get there](https://www.procivis.ch/post/self-sovereign-identity-and-how-we-can-get-there) 2021-07-09 ProCivis
   > Enabled by recent advances in the realm of cryptography, mobile devices and decentralized identity standards we can now put citizens firmly in control of their digital identities while ensuring the level of trust needed to unlock the full potential of a digital society.
 * [Self-Sovereign Identity – a game changer regarding privacy: The next level of identity management](https://adnovum.ch/en/company/blog/self_sovereign_identity_a_game_changer_regarding_privacy.html) 2022-01-12 Adnovum

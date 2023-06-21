@@ -5,14 +5,15 @@ excerpt: >
   "SAN FRANCISCO AND BASEL, SWITZERLAND – (December 12, 2018) – Hyperledger, an open source collaborative effort created to advance cross-industry blockchain technologies, today kicked off the first day of its Hyperledger Global Forum. The event has drawn more than 650 attendees from as far as Australia and Argentina for an extended conversation about the state of open source enterprise blockchain and vision for the Hyperledger community and technologies."
 layout: single
 toc: false
-permalink: blockchain/hyperledger/hgf-2018/
-canonical_url: 'https://decentralized-id.com/blockchain/hyperledger/hgf-2018/'
+permalink: events/hgf-2018/
+canonical_url: 'https://decentralized-id.com/events/hgf-2018/'
 redirect_from: 
+  - blockchain/hyperledger/hgf-2018/
   - organizations/hyperledger/hgf-2018/
   - hyperledger/hgf-2018/
   - hgf-2018
   - hgf-2018/
-categories: ["Media","Events"]
+categories: ["Events"]
 tags: ["Hyperledger Forum","GDPR","MyCuID","Sovrin Foundation","DigiCert","Indy","Fabric","Blockcerts","Evernym","R3","Verifiable Organizations Network","CULedger","ATB","Switzerland"]
 last_modified_at: 2019-03-06
 header:
@@ -33,7 +34,7 @@ Basel Congress Center — Basel, Switzerland — December 12-15,2018
 ## Official Links
 * [Hyperledger Global Forum](https://events.linuxfoundation.org/events/hyperledger-global-forum-2018/) - December 12-15,2018 Basel Congress Center Basel, Switzerland 
 * [HGF18 Schedule](https://hgf18.sched.com/)
-* [Youtube Playlist](https://www.youtube.com/playlist?list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP) (I've tried to pick out the identity specific presentations)
+* [Video] [Youtube Playlist](https://www.youtube.com/playlist?list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP) (I've tried to pick out the identity specific presentations)
   * [How Individuals are Taking Ownership of their Digital Identity](https://www.youtube.com/watch?v=SdrmA0YNSRw&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=4&t=0s)
   * [MyCuID: Blockchains, Credentials and Credit Unions - Julie Esser, CULedger](https://www.youtube.com/watch?v=PQHx_b59sXg&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=19)
   * [Ecosystem of Credentials: ATB, Telus & Customers - Mike Brown, ATB Financial](https://www.youtube.com/watch?v=QlFmAIPlpmc&list=PL0MZ85B_96CGkWnEvdPy5sB4VRcH2XWuP&index=8&t=0s)
