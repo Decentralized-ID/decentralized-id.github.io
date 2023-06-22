@@ -184,3 +184,8 @@ The official voting period will be between Tuesday, February 1, 2022 and Tuesday
 [...]
 
 The goal of this whitepaper is to inform and educate the readers about the work on the OpenID for Verifiable Credentials (OpenID4VC) specifications family. It addresses use-cases referred to as Self-Sovereign Identity, Decentralized Identity, or User-Centric Identity.
+
+## IAM
+
+* [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
+

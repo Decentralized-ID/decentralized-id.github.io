@@ -44,6 +44,11 @@
   > - Identification: Who are you?
   > - Authentication: Is it you again?
   > - Authorization: What rights do I want to grant you?
+* [Centralized\Federated vs Self Sovereign](https://twitter.com/dominiumssi/status/1564188374529081345) dominiumssi
+* [Decentralized Identity Trilemma](https://maciek.blog/p/dit) 2018-08-13 Maciek Laskus
+  > 1. Self-sovereignty — anybody can create and control as many identities1 as they wish without 3rd party involvement.
+  > 2. Privacy-preserving — one can acquire and utilize an identifier without revealing their ‘real name’ or other personality identifying information.
+  > 3. Sybil-resistant — identity is subject to scarcity; i.e., creating more identifiers cannot be used to manipulate a system2.
 
 ## Related
 * [Understanding Digital Credentials](https://www.bcdiploma.com/en/blog/understanding-digital-credentials-21-05-12) BCdiploma
@@ -61,3 +66,5 @@
 * [Compare and Contrast — Federated Identity vs Self-sovereign Identity](https://academy.affinidi.com/compare-and-contrast-federated-identity-vs-self-sovereign-identity-227a85cbab18) Affinidi
 * [Levels of information architecture](https://reb00ted.org/tech/20220815-levels-of-information-architecture/) 2022-08-15 reb00ted
   > So I propose this outermost framework to help us think about how to interact with shared information environments
+* [Never mind who I am, ask me about my credentials](https://www.linkedin.com/pulse/never-mind-who-i-am-ask-me-my-credentials-john-phillips/) John Phillips
+  > Many (most) identity systems make a fundamental assumption that is built into their very architecture. This assumption creates three significant problems: privacy erosion; toxic data stores; and poor security.

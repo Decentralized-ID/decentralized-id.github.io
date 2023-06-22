@@ -3,6 +3,8 @@ published: false
 ---
 
 # Critique
+* [SteveWilson](https://twitter.com/Steve_Lockstep/status/1524073204805160960) Considering SSI critics
+  > I reckon most cases of over-identification stem either from bad habits (e.g. RPs gathering circumstantial AuthN signals) or from Surveillance Capitalism. Either way, better deals for users will come from better design, not by weaponising Digital Identity (SSI, DIDs).
 
 * [Negative press related to DIDs and VCs](https://lists.w3.org/Archives/Public/public-did-wg/2021Jun/0032.html) Manu Sporny (29 June)
 

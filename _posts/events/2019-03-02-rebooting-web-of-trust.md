@@ -592,7 +592,7 @@ Here are the rest of the advance readings to date:
    * [Original Proposal](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/trust-objects-proposal.md) by Moses Ma & Dr. Rutu Mulka
 * [Veres One DID Method Specification](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/veres-one-did-method.md) by Manu Sporny, Dave Longley & Matt Collier
 * [Verifiable Claims of Impact](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/verifiable-claims-of-impact.md) by Cedric Franz & Dr. Shaun Conway
-* [Visa? Really?](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/Visa-Really.md) by Kaliya Identity Woman
+* [Visa? Really?](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/Visa-Really.md) by Kaliya 'Identity Woman' Young
 * [Data Minimization and Selective Disclosure](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/Data-minimization-and-selective-disclosure.md) by Lionel Wolberger
 * [HIE of One Loop: A Patient-Controlled Independent Health Record](https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/Loop-white-paper.pdf) by Adrian Gropper, MD and the Loop Project Team
 

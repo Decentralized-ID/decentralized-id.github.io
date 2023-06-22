@@ -734,6 +734,15 @@ Every single day, the 5 tech giants use your online property to make massive pro
 
 Fractal Protocol enables users, individuals to control who has access to their data, for which purposes, and under which conditions. It allows users to reap the just rewards for providing access to the data that fuels the ecosystem.
 
+## Atla PRISM
+* [Video] [Self-Sovereign Identity (SSI) & Atala PRISM with Allison Fromm](https://www.youtube.com/watch?v=cSG148jbErs) Cardano Catalyst Women
+  > - [0:02:58] What is Identity?
+  > - [0:04:14] Problems with Digital Identity
+  > - [0:08:38] Solution: Self-Sovereign Identity (SSI)
+  > - [0:15:55] Getting Started with SSI: A Catalyst Proposal
+  > - [0:20:11] Conclusion
+  > - [0:22:20] Core team
+  > - [0:24:05] Questions
 * [Dominium - Self Sovereign Identity Platform](https://www.youtube.com/watch?v=g2ojXj8HX3Q)
 
 The open source implementation of DID on Cardano
@@ -750,6 +759,7 @@ All in all, the exponential rise in cases of data breaches and hacks on Web 2.0 
 * [Web3: CRYPTO Cross-Chain Identity On Nervos](https://www.youtube.com/watch?v=hlEKXKYj8Fk) CryptoCapitalVenture
 
 * [.bit account](https://www.did.id/) is such an inclusive data container that you can put any type of data into it. Tons of Web3 apps will provide service for you after indexing relevant data stored in your .bit account.
+* [From DID to DeFi and EVM](https://medium.com/metadium/metadium-tech-the-series-38aa26a170fc) Metadium
 
 * [The Four Pillars of Tokenized Identity](https://www.civic.com/blog/four-pillars-of-tokenized-identity/) Civic
 
@@ -842,6 +852,8 @@ The third approach is, in a way, derived from the previous one, and is the one p
 * [Digital sovereignty: Reclaiming your private data in Web3](https://cointelegraph.com/news/digital-sovereignty-reclaiming-your-private-data-in-web3) Cointelegraph
   > this is a collaborative effort — one bigger than a single individual or organization — and the whole Web3 space should work together.
 * [Drawbacks of Traditional Identifiers and An Introduction to WEB3](https://medium.com/hypersign/ssi-101-part-2-drawbacks-of-traditional-identifiers-and-an-introduction-to-web3-a1bf791819b0) Hypersign
+* [Crafting a “no-bs” SSI platform](https://medium.com/@adityasanthanam/crafting-a-no-bs-ssi-platform-454b1d9c6f8d) Aditya Santhanarn
+  > Let’s look at a few pointers that I believe make it hard for the web3 protocols to work for businesses and users in general
 
 ## Ethereum Merge
 

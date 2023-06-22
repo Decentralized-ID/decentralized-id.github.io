@@ -99,3 +99,5 @@ By producing an accessible, open-source wrapper library, Tangle Labs provides an
   > - Teach you how to create your first application
   > - Learn about authentication and authorization credentials
   > - Set up hosted authentication with Okta and try it out
+* [Introducing the Auth0 Research Program](https://auth0.com/blog/introducing-the-auth0-research-program/) auth0
+  > give direct input towards our product improvements and be the first choice for research recruiting opportunities.

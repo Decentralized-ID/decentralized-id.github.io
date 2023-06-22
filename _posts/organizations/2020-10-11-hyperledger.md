@@ -58,19 +58,22 @@ header:
 
 ## Hyperledger Identity
 
-* [Identity Special Interest Group](https://wiki.hyperledger.org/display/IWG/Identity+Special+Interest+Group) Hyperledger
-  > The purpose of the Identity Special Interest Group is to discuss, research, and document ways to capture, store, transmit and use Identities on the DLT, specifically for the projects in the Hyperledger greenhouse. The Identities can be of nodes that participate in the running of the DLT or entities that transact on the DLT.
 * [Investing in Verifiable Credentials, Technical Interoperability and Open Source](https://www.hyperledger.org/blog/2022/08/23/investing-in-verifiable-credentials-technical-interoperability-and-open-source) 2022-08-23 Hyperledger
   > As our approach evolves, we also remain keen to support open source solutions that interoperate with other national and international efforts. There is no dominant design yet, no one network or technology, so we must remain nimble and flexible in our exploration. We also need to coexist with existing identity solutions that millions of British Columbians already rely upon.
 * [Why Distributed Ledger Technology (DLT) for Identity?](https://www.hyperledger.org/blog/2021/04/21/why-distributed-ledger-technology-dlt-for-identity) 2021-04-21 Hyperledger 
   > To understand why DLT is useful for identity, we need to go back to the basics—paper credentials, how that model has worked for 1000s of years, and how the use of DLTs with verifiable credentials allows us to transition the great parts—security and privacy—of that model to the digital age.
 * [Getting Internet Identity Right 30 Years On](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL2NvaW5kZXNrLXJlcG9ydHM/episode/Z2lkOi8vYXJ0MTktZXBpc29kZS1sb2NhdG9yL1YwL1B2ZTZ1WThCazZjM24zckdUVVdaQ2YyWGJwQnNuWTBra3N0WWlFOFhBNUk?ep=14) 2020-10-09 Money ReImagined
   > Michael Casey and Sheila Warren talk to Hyperledger Executive Director Brian Behlendorf about self-sovereign identity, the topic of this week's column. A developer whose three-decade career has seen him deeply involved in efforts to foster a more open internet, Brian grasps, like few others, the nuances of how human beings should live within a rapidly changing digital economy.
-* [How digital identity empowers consumers and producers in a circular supply chain](https://www.hyperledger.org/blog/2020/05/07/how-digital-identity-empowers-consumers-and-producers-in-a-circular-supply-chain) 2020-05-07
-* [Identity Standards](https://wiki.hyperledger.org/display/IWG/Identity+Standards) 2019-03-20
-  > We hope to accumulate links here that talk to all Identity Standards work. Short updates form this will be used in the paper.
 * [Hyperledger Identity Screencast: Social Recovery for Passwords and Secrets](https://www.youtube.com/watch?v=1c05mFuEQ5s) 2019-11-17
   > A demonstration of using social recovery for things like recovery passwords of self-sovereign identity digital wallets. The website [http://passguardian.com](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnFXWC1vZEVSZS11Ynl1ZGpBRk1uMUN6VnhnUXxBQ3Jtc0tuRjRPbmFSOEVqU1FNSEJDMml0WXYzUjlmRUdyZk5lVWJSc2p1QnFHV0pMZzNfVlBpNVJ0UGZvY2pEVUlzTFA1LWJlQUU0Q190akpyQndJWmU3bDZranNJVUZxZi1JX2pJb2I1SEtpRXB0cjhCQWNNdw&q=http%3A//passguardian.com)​ is used to show how a secret can be encoded and distributed as shards, and then later some of the shards combined to restore the secret. This video is part of a [Linux Foundation course on Hyperledger Identity](https://training.linuxfoundation.org/training/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa/), published on edX.
+
+### Hyperledger Identity Special Interest Group
+* [Identity Special Interest Group](https://wiki.hyperledger.org/display/IWG/Identity+Special+Interest+Group) Hyperledger
+  > The purpose of the Identity Special Interest Group is to discuss, research, and document ways to capture, store, transmit and use Identities on the DLT, specifically for the projects in the Hyperledger greenhouse. The Identities can be of nodes that participate in the running of the DLT or entities that transact on the DLT.
+* [Get involved in the open source community](https://wiki.hyperledger.org/display/IWG/Identity+Implementers+WG+Call) 2023-06-06
+    > The Hyperledger Identity Implementers Working Group reviews project statuses and coordinates dependencies between a several different working groups building Self-Sovereign Identity technologies.  Invited guest presenters also provide introductions and insights into their SSI solutions.
+* [Identity Standards](https://wiki.hyperledger.org/display/IWG/Identity+Standards) 2019-03-20
+  > We hope to accumulate links here that talk to all Identity Standards work. Short updates form this will be used in the paper.
 
 ### Application
 * [Hyperledger Identity Vendors](https://www.hyperledger.org/vendor_level/identity-management)
@@ -112,7 +115,7 @@ header:
 
 * [Hyperledger Forum Recap – Identity Proofing, and Passwordless User-friendly Digital Identity](https://idramp.com/hyperledger-forum-recap-identity-proofing-and-passwordless-user-friendly-digital-identity/) 2021-07-02
   > IdRamp CEO, Mike Vesey presented with Mark Rakhmilevich, Senior Director, Blockchain Product Management at Oracle. In their session, titled “Identity Proofing Solution Combining HL Indy and Fabric”, Mike and Mark presented the benefits and ease of integrating an identity proofing solution based on Hyperledger Indy, Hyperledger Fabric, while leveraging the Oracle blockchain and how  using two separate distributed ledgers makes the solution stronger. 
-* [Hyperledger Global Forum 2018]({% link _posts/organizations/2019-03-16-Hyperledger-Global-Forum-2018.md %})
+* [Hyperledger Global Forum 2018]({% link _posts/events/2019-03-16-Hyperledger-Global-Forum-2018.md %})
   > Identity Related Presentations at HGF-2018
 * [Inaugural Hyperledger Global Forum Showcases Strong Community Momentum](https://www.linuxfoundation.org/press-release/2018/12/inaugural-hyperledger-global-forum-showcases-strong-community-momentum/)
   > For Hyperledger, a project of The Linux Foundation that started less than three years ago, the event is a time to reflect on milestones. Hyperledger has surpassed 260 members, with more than a dozen new members including Citi and Alibaba Cloud announced today. In the last year, Hyperledger launched its 11th project, Ursa, and released development updates to the Hyperledger Burrow, Hyperledger Fabric and Sawtooth frameworks. Additionally, Hyperledger and the Enterprise Ethereum Alliance jointly announced membership in each other’s communities as a way to further bolster enterprise blockchain adoption.

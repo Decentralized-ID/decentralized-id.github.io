@@ -37,7 +37,7 @@ last_modified_at: 2023-06-12
   > - What “standardization” means to DIF and what DIF means to standardization.
   > - A newbie-friendly survey of how DIF relates to nearby organizations with overlapping or related foci.
   > - What “co-development” and “coöpetition” really mean, concretely
-- [Finding the Bell Curve of Meaning](https://medium.com/decentralized-identity/finding-the-bell-curve-of-meaning-61a1d22b7bdd) 2020-07-17 Kaliya IdentityWoman, DIF
+- [Finding the Bell Curve of Meaning](https://medium.com/decentralized-identity/finding-the-bell-curve-of-meaning-61a1d22b7bdd) 2020-07-17 Kaliya 'Identity Woman' Young, DIF
   > As such, we aimed to invite alignment around key words, to find the “bell curve of meaning,” and to invite convergence towards the middle of this curve as a result of our research process. Our hope was to maximize the ability to inform and engage business audiences interested in adopting/purchasing this technology. This meant we would not be setting out to define hundreds of terms; rather, we chose to focus on a subset of the most widely used terms.
 
 ## Groups

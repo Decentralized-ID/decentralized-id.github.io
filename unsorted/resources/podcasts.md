@@ -5,7 +5,7 @@ published: false
 # Podcasts
 * [Identity Masters Podcast](https://open.spotify.com/show/0NmFDoGu9zq3r1nmgjwkhQ)
   > At Authenteq, we spend a lot of time thinking and talking about how to make the internet a safer space. It’s also what drives our product roadmap and why we got into identity verification and e-KYC in the first place. As we work to democratize the knowledge we have access to, we know that for it to be truly accessible, we have to work with different formats. This is why we’re very excited to introduce the brand spanking new Identity Masters podcast now available on Spotify!
-
+Podcast: [Digital Identity and Self Sovereignty](https://www.traceyfollows.com/tag/podcast/) 
 * [My podcasts of choice](https://blogs.harvard.edu/doc/2021/05/04/podcasts/) Doc Searls 2021-05-04
 * [The Digital Identity Transformation – Podcast](https://idramp.com/the-digital-identity-transformation-podcast/)
   > Mike Vesey, CEO of IdRamp. As someone who has uniquely spent their full career immersed in enterprise identity, Vesey shares an insider perspective of how the industry has evolved during his tenure.
@@ -15,7 +15,7 @@ A gem we must have missed last month from Ubisecure, lists the identity podcasts
 
 - [Let’s Talk About Digital Identity (LTADI)](https://www.ubisecure.com/lets-talk-about-digital-identity-podcast/) – Ubisecure
 - [Definitely Identity](https://podcasts.apple.com/ca/podcast/definitely-identity/id1496565155) – Tim Bouma
-- [PSA Today](https://open.spotify.com/show/0lkmZrdHMIJrkIEqT13SJQ) – Privacy, Surveillance and Anonymity by Kaliya Identity Woman and Seth Goldstein
+- [PSA Today](https://open.spotify.com/show/0lkmZrdHMIJrkIEqT13SJQ) – Privacy, Surveillance and Anonymity by Kaliya 'Identity Woman' Young and Seth Goldstein
 - [ID Talk](https://findbiometrics.com/topics/id-talk-podcast/) – FindBiometrics and, as you’d expect, focused on the biometrics space
 - [State of Identity](https://oneworldidentity.com/podcast-main/) – OWI
 

@@ -105,3 +105,18 @@ Oldie but Goodie by Kim Hamilton Duffy from when she worked at Learning Machines
   > :: VC is a cryptographically verifiable credential using DID\ 
   > :: SSI is a self-sovereign and privacy-preserving identity 
   > :: Non-human (Machines, Bots, Goods, anything) also able to have DID, VC, and SSIs
+* [Understanding Verifiable Credentials](https://www.credivera.com/blog/understanding-verifiable-credentials) Credivera
+  > The value of verifiable credentials and the critical role they will play to our future digital identities is undeniable. As we enter a new era of online representation, trust in the internet will need to be vigorously robust.
+* [Decentralized identifiers - Self-Sovereign Identity livebook](https://livebook.manning.com/book/self-sovereign-identity/chapter-8/) Manning
+* [Video] [Identity Insights - Basics of Verifiable Credentials](https://www.youtube.com/watch?v=RCCatllgNv4) Indicio, Youtube
+  > What are verifiable credentials? In this episode we are joined by Indicio software engineer Char Howland for an introduction to what this technology is and what it can do.
+* [Decentralized identity: What it is, why it matters](https://www.scmagazine.com/resource/identity-and-access/infographic-key-stats-on-the-passwordless-future) 2022-09-15 SC Magazine
+  > ![](https://www.scmagazine.com/_next/image?url=https%3A%2F%2Ffiles.scmagazine.com%2Fwp-content%2Fuploads%2F2022%2F08%2FPingDecentralizedIdentity-4.jpg&w=750&q=75)
+* [The Journey of Decentralized Identity: Where It’s Been and Where It’s Going](https://trinsic.id/the-journey-of-decentralized-identity-where-its-been-and-where-its-going/) 2022-07-14 Trinsic
+  > Our goal has been to completely abstract away the complexity of the ever-changing landscape so organizations can focus on the important stuff—what product to build, and how to take it to market. Teams shouldn’t have to “pick winners” and wager what to build on. Their products should be interoperable with multiple ecosystems. That’s what Trinsic is providing, out-of-the-box.
+* [What Are Verifiable Credentials? And How Can They Build Digital Trust?](https://www.salesforce.com/blog/verifiable-credentials/) 2022-02-01 Salesforce
+  > Verifiable credentials and verifiable credential management technology offer a direct and secure channel between an organization and its stakeholders. Learn how they bring control over digital identity and build trust with organizations – from health credentials to college degrees.
+* [What are Verifiable Credentials? Why do they matter?](https://flur.ee/2022/01/10/what-are-verifiable-credentials-why-do-they-matter/) 2022-01-10 Fluree
+  > Authority Does Not Require Centralized Power
+  > 
+  > As mentioned in my previous article, the trouble with centralization is that data is stored in a database. Once breached, a database can yield a treasure chest of information to be sold on the dark web.

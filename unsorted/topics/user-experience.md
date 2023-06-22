@@ -58,6 +58,10 @@ The [YouGov](https://www.globalwitness.org/en/blog/do-people-really-want-persona
 * [How humans understand identity](https://medium.com/universal-identity/how-humans-understand-identity-367200ae9591) Universal Identity
 * [More security does not have to mean less user-friendliness](https://background.tagesspiegel.de/cybersecurity/mehr-sicherheit-muss-nicht-weniger-nutzerfreundlichkeit-bedeuten) Martin Kuppinger, Tagesspiegel
   > The passwords that have been declared dead are far from dead. Nevertheless, the way in which users authenticate themselves is changing towards more security and convenience.
+* [Selective Disclosure: Share Just What You Want](https://academy.affinidi.com/selective-disclosure-share-what-you-want-8ae367655b7b) 2021-08-02 Affinidi
+  > In the context of SSI, selective disclosure is best implemented through [verifiable credentials](https://academy.affinidi.com/what-are-verifiable-credentials-79f1846a7b9) where the user has separate credentials for each piece of information such as his/her date of birth, full name, vaccination details, address, passport number, etc.
+* [Identity and Digital Self-Sovereignty](https://medium.com/learning-machine-blog/identity-and-digital-self-sovereignty-1f3faab7d9e3) 2016-09-19 Natalie Smolenski 
+  > Web-based applications increasingly form the infrastructure of modern life. They are the seas, roads, buildings, schools, and libraries within which we travel, socialize, learn, and express ourselves. They store data that is integral to our social and legal identities. Without them, a person is consigned to something like social death — not too different from the situation of a passenger of a ship on the High Seas.
 
 * [Managing Authorization: Who Has What?](https://iiw.idcommons.net/4D/_Managing_Authorization:_Who_Has_What%3F) By David Schmudde
 

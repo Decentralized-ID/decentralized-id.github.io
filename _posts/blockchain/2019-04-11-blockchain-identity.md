@@ -12,9 +12,24 @@ permalink: /blockchain/
 categories: [Blockchain ID]
 tags: ["NIST","Identiverse",Authenteq,Blockstack,Civic,Microsoft,Datum,ProCivis]
 last_modified_at: 2023-06-09
-toc: false
+toc: true
+toc_sticky: true
 ---
 
+## Literature
+
+* [ISO/TR 23249:2022 – Overview of existing DLT systems for identity management](https://www.iso.org/standard/80805.html) 2022-05 ISO
+  > This document covers the following topics:
+  > - Managing identity for individuals, organizations, things (IoT & objects), functions and processes and other entities including within and across DLT systems.
+  > - Description of the actors and their interactions and common interfaces.
+  > - Architectures.
+  > - Existing relevant standards and frameworks.
+* [NIST CYBERSECURITY WHITE PAPER] [**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) 2019-06-09
+  > Identity management systems (IDMSs) are widely used to provision user identities while managing authentication, authorization, and data sharing both within organizations as well as on the Internet more broadly. Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues such as encouraging mass data collection and user tracking. Blockchain technology has the potential to support novel data ownership and governance models with built-in control and consent mechanisms, which may benefit both users and businesses by alleviating these concerns; as a result, blockchain-based IDMSs are beginning to proliferate. This work categorizes these systems into a taxonomy based on differences in architecture, governance models, and other salient features. We provide context for the taxonomy by describing related terms, emerging standards, and use cases, while highlighting relevant security and privacy considerations.
+* [Towards Self-Sovereign Identity using Blockchain Technology](https://essay.utwente.nl/71274/1/Baars_MA_BMS.pdf) 2016-10-26
+  > Blockchain technology could function as the foundation of such system being a network for decentralized trust and exchange. Because everyone can participate as issuer or acquirer (and both), there are low adoption barriers and low costs. This allows new business opportunities for governments, banks and other authorities and more transparency and control for end-users.
+
+## General
 * [curated list] [Peacekeeper's Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity) 2021-11-23
 * [Identity Blockchains and Energy Consumption](https://indicio.tech/identity-blockchains-and-energy-consumption/) 2021-10-19 Indicio
   A decentralized network using a blockchain-based distributed ledger means you can use [Peer DIDs](https://identity.foundation/peer-did-method-spec/) to move most “transactions” and their cryptographic proofing off ledger. This means that for those peer-to-peer interactions, identity blockchains don’t need to do any ledger transactions at all.
@@ -64,10 +79,3 @@ toc: false
   > We hope this will get you thinking about enabling SSI using an option that best suits your application or business requirement.
 * [tweet thread] [Technically you're right. Blockchain is not inherent to DIDs](https://twitter.com/Steve_Lockstep/status/1425924860312645633) 2021-08-13 Steve Wilson
   > Most DID presentations (as with much SSI) open with a bit of a disclaimer that these technologies don't need blockchain. And yet the word-association is strong. Many DID block diagrams feature a blockchain. -/2
-
-## Literature
-
-* [NIST CYBERSECURITY WHITE PAPER] [**_A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems_**](https://arxiv.org/pdf/1908.00929.pdf) 2019-06-09
-  > Identity management systems (IDMSs) are widely used to provision user identities while managing authentication, authorization, and data sharing both within organizations as well as on the Internet more broadly. Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues such as encouraging mass data collection and user tracking. Blockchain technology has the potential to support novel data ownership and governance models with built-in control and consent mechanisms, which may benefit both users and businesses by alleviating these concerns; as a result, blockchain-based IDMSs are beginning to proliferate. This work categorizes these systems into a taxonomy based on differences in architecture, governance models, and other salient features. We provide context for the taxonomy by describing related terms, emerging standards, and use cases, while highlighting relevant security and privacy considerations.
-* [Towards Self-Sovereign Identity using Blockchain Technology](https://essay.utwente.nl/71274/1/Baars_MA_BMS.pdf) 2016-10-26
-  > Blockchain technology could function as the foundation of such system being a network for decentralized trust and exchange. Because everyone can participate as issuer or acquirer (and both), there are low adoption barriers and low costs. This allows new business opportunities for governments, banks and other authorities and more transparency and control for end-users.
