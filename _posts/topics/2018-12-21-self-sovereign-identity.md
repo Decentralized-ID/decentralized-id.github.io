@@ -10,12 +10,10 @@ redirect_from:
   - /literature/self-sovereign-identity/
   - /self-sovereign-identity
   - /self-sovereign-identity/
-categories: ["Literature"]
+categories: ["Topics"]
 tags: ["Self Sovereign Identity","Laws of Identity","Literature","RWoT","IIW","Learning Machine","Sovrin Foundation","Evernym"]
 last_modified_at: 2023-06-22
 ---
-
-<center><img src="{{ site.baseurl }}/images/sovereign-id-wide.webp"/></center>
 
 ## About Self Sovereign Identity
 * [Video] [Exploring the Decentralized Web, Episode 4: Digital Identity](https://www.youtube.com/watch?v=jm8y56KMkIw) 2022-01-05 Filecoin Foundation
@@ -100,6 +98,8 @@ last_modified_at: 2023-06-22
   > - [Part 4: Why every company is an identity company](https://medium.com/global-id/globalid-101-every-company-is-an-identity-company-a851beed999d) 2022-08-16
 * [Trusted Third Parties vs Self-Sovereign Identity](https://academy.affinidi.com/trusted-third-parties-vs-self-sovereign-identity-4e96de929b1b) 2021-12-30 Affinidi
   > All of us have [multiple identities](https://academy.affinidi.com/what-links-identity-and-vcs-together-across-applications-9523af3884a9) at any point. We are sons, daughters, brothers, sisters, parents, partners, friends, colleagues, and more to different people.
+* [Selective Disclosure: Share Just What You Want](https://academy.affinidi.com/selective-disclosure-share-what-you-want-8ae367655b7b) 2021-08-02 Affinidi
+  > In the context of SSI, selective disclosure is best implemented through [verifiable credentials](https://academy.affinidi.com/what-are-verifiable-credentials-79f1846a7b9) where the user has separate credentials for each piece of information such as his/her date of birth, full name, vaccination details, address, passport number, etc.
 * [Self-Sovereign Identity: What You Can/Can’t Do With SSI?](https://academy.affinidi.com/self-sovereign-identity-what-you-can-cant-do-with-ssi-1284f7227b4e) 2021-06-24 Affinidi
   > it gives complete control and ownership of data to the individual entities as they can decide what data to share and with whom.
   > 
@@ -137,7 +137,6 @@ The Models: Space Time • Presentation • Attribute • Relationship • Capab
   > what’s cool about DIDs (besides their self-service creation) is that their metadata is cryptographically verifiable. That means that anyone in the world can tell whether the metadata is legit, in the blink of an eye, just by asking software to check some math. And it also means that you can build a transport-independent, tamper-proof, encrypted communication channel with whoever controls a DID.
 * [How Decentralized Identifiers Will Shape the Future of Identity](https://hackernoon.com/how-decentralized-identifiers-will-shape-the-future-of-identity-iam3w9g) 2020-11-09 HackerNoon
   > Hackers value personal information the most. 96% of hacking groups’ primary motive is intelligence gathering. Researchers at privacy website PrivacyAffairs.com found that you can obtain a person's full identity for the low price of $1,275.
-
 
 ## Literature
 

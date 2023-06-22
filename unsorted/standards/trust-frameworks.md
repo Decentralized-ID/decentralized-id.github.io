@@ -66,3 +66,14 @@ The concept behind a Trust Registry is that a Wallet needs to know which decentr
   > This paper illustrates how TRAIN (Trust mAnagement INfrastructure), an approach based on established components like ETSI trust lists and the Domain Name System (DNS), can be used as a trust registry component to provide a holistic approach for trust management in SSI ecosystems. TRAIN facilitates individual trust decisions through the discovery of trust lists in SSI ecosystems, along with published credential schemas, so that verifiers can perform informed trust decisions about issued credentials.
 * [Trust Registries in the Real World](https://www.continuumloop.com/trust-registries-in-the-real-world/) Continuum Loop
   > Trust Registries allow us to know that the various shared credentials (e.g. proof of insurance) are accurate. A Homeowner can ask their Digital Wallet to verify an insurance Credential that the Contractor is honest.
+
+* [Trust Registries Tweetstorm](https://www.continuumloop.com/trust-registries-tweetstorm/) Continuum Loop
+  > We want to start a conversation on Trust Registries and get people thinking about how Trust Registries will help answer the hard questions an ecosystem needs to create a whole experience [[tweetstorm](https://threadreaderapp.com/thread/1569093372920614914.html)]
+* [Podcast] [Are Trust Registries Vital to the Success of Decentralized Identity?](https://northernblock.io/are-trust-registries-vital-to-the-success-of-decentralized-identity-with-darrell-odonnell/) Northern Block, with Darrell O’Donnell
+  > - What are the differences between Verifiable Data Registries and Trust Registries?
+  > - How can Trust Registries help establish the Authenticity of Data?
+  > - Does placing too much Governance at the Verifiable Data Registry layer cause scaling issues?
+  > - Why DNS can become an elegant Root of Trust solution to validate the authenticity of Credential Issuers.
+  > - Who in the Trust Triangle benefits the most from Trust Registries
+* [Solving Governance in SSI Ecosystems with Trust Registries.](https://www.youtube.com/watch?v=5zZKIwesSl8) Trust over IP Foundation
+  > Learn the what and the why behind trust registries.  In addition to discussing how trust registries solve governance in verifiable credential ecosystems, Tomislav demos the very first implementation of ToIP’s trust registry specification.
