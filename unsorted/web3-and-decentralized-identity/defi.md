@@ -3,6 +3,9 @@ published: false
 ---
 
 # Decentralized Finance
+* [From DID to DeFi and EVM](https://medium.com/metadium/metadium-tech-the-series-38aa26a170fc) Metadium
+* [Why Centralised Decentralised Finance (CeDeFi) and Self-sovereign Identity (SSI) Work Together](https://unizen-io.medium.com/why-centralised-decentralised-finance-cedefi-and-self-sovereign-identity-ssi-work-together-3dccb07f16f9) Unizen
+  > the combination of Centralised and Decentralised Finance — unites two ways of interacting with assets into one. Centralised Finance (CeFi) represents traditional entities (e.g. banks, brokers, funds), Decentralised Finance (DeFi) covers blockchain financial applications, cryptocurrencies, exchanges, decentralised payment services, etc. By merging the two, high transparency, impactful innovation, and wide adoption can be achieved.
 
 * [Decentralized identifiers for DeFi? Definitively.](https://hackernoon.com/decentralized-identifiers-for-defi-definitively-25j33qa) Hackernoon
   > DIDs from a DeFi user VCs can be placed, anchored, indexed, and associated on the LTO chain. LTO Network solution is GDPR compliant and goes hand in hand with [ISO/TC307 - BLOCKCHAIN AND DISTRIBUTED LEDGER TECHNOLOGIES](https://www.iso.org/committee/6266604.html) . LTO Network approach uses Chainlink oracles for reaching the cross-chain operability and the Dutch company Sphereon for wallet integration.

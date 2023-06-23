@@ -152,6 +152,10 @@ The global market for identity and access management was $9.53 billion USD in 20
 * [Who Controls Your Digital Identity?](https://blogs.sap.com/2021/02/18/who-controls-your-digital-identity/) SAP 2021-02-18
   > SSI will have to be integrated with large existing business processes – and therefore enterprise systems such as ERPs, HCMs, or SCMs to name a few. If this integration results in SSI being as easy to use as clicking a button or selecting a menu item, it will lead to rapid uptake and acceptance.
 
+* [Part 0: The 7 Deadly Sins of Digital Customer Relationships](https://www.evernym.com/blog/7-deadly-sins-customer-relationships/)
+* [Part 1: Decentralized Identifiers: Building Smarter, More Sustainable Customer Relationships](https://www.evernym.com/blog/decentralized-identifiers-customer-relationships/)
+  > DIDs are about building lasting private and secure digital relationships with customers, and as we’ll see with each of the Deadly Sins, about reducing costs, increasing compliance and enabling truly personalized products and services – without being creepy.
+
 * [What Does Self-Sovereign Identity Mean For My Business?](https://www.continuumloop.com/what-does-self-sovereign-identity-mean-for-my-business/) Continuum Loop
   > - What will happen if I don’t jump on this train?
   > - What would it mean if I didn’t have to own my customer’s digital identity but establish a deep digital relationship with them instead?

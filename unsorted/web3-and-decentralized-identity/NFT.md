@@ -97,3 +97,7 @@ Ultimately, each one of these will find their uses but care should be taken to a
 * [What’s the Difference Between an NFT and a Verifiable Credential?](https://trinsic.id/whats-the-difference-between-an-nft-and-a-verifiable-credential/) Trinsic
 
 Blockchains are not required for exchanging verifiable credentials, but layer-2 networks like Ion, built on top of Bitcoin, can provide an additional level of security when creating Interestingly, all interviewed users claimed to have had a seamless and easy onboarding DIDs.
+
+* [Why the SSI community should embrace million dollar apes](https://medium.com/coinmonks/why-the-ssi-community-should-embrace-million-dollar-apes-61d119f20331) Animo
+
+someone [opened his door using Ethereum](https://www.reddit.com/r/theinternetofshit/comments/r5n9pj/man_unlocks_door_using_eth_by_verifying_a_nft_ens/). As a self-sovereign identity developer [...] this is hilarious. I can think of ten ways to open your door that are more secure. But I believe there’s more to these stories. These people are coming up with solutions that are in line with most of the core values we in the SSI space have been working on for years.

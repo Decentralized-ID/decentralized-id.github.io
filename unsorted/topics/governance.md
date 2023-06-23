@@ -4,7 +4,7 @@ published: false
 
 # Governance
 
-* [Data Unions, Banks, Coops, Fiduciaries etc – has their time come?](https://iiw.idcommons.net/3D/_Data_Unions,_Banks,_Coops,_Fiduciaries_etc_--_has_their_time_come%3F) by Johannes Ernst
+* [Data Unions, Banks, Coops, Fiduciaries etc – has their time come?](https://iiw.idcommons.net/3D/_Data_Unions,_Banks,_Coops,_Fiduciaries_etc_--_has_their_time_come_) by Johannes Ernst
 
 Historical analogies: rural electrification, telecommunications, insurance
 
@@ -72,7 +72,7 @@ Then run [https://github.com/solid/community-server](https://github.com/solid/co
 
 * [https://d1muf25xaso8hp.cloudfront.net/https%3A//s3.amazonaws.com/appforest_uf/f1587410240363x746891124614691500/martech_2020_final-1600x900-web.jpg?w=1024&h=576&auto=compress&dpr=2&fit=max](https://d1muf25xaso8hp.cloudfront.net/https%3A//s3.amazonaws.com/appforest_uf/f1587410240363x746891124614691500/martech_2020_final-1600x900-web.jpg?w=1024&h=576&auto=compress&dpr=2&fit=max)
 
-* [SSI for Organizations: Who’s behind this DID?](https://iiw.idcommons.net/14G/_SSI_for_Organizations:_Who%27s_behind_this_DID%3F) by Dominic Wörner, Christian Bormann, Michael Schäfer ([video](https://eu01web.zoom.us/rec/play/hh2Uribpcy71pc7u0D_-7XCVoBmmC6feq22r4rgbnYBwnBnCd3Zib8l6WvhpOT0Esu5eFdhk00F38vaX.Z23dGksHI22vsdde?continueMode=true)
+* [SSI for Organizations: Who’s behind this DID?](https://iiw.idcommons.net/14G/_SSI_for_Organizations:_Who%27s_behind_this_DID_) by Dominic Wörner, Christian Bormann, Michael Schäfer ([video](https://eu01web.zoom.us/rec/play/hh2Uribpcy71pc7u0D_-7XCVoBmmC6feq22r4rgbnYBwnBnCd3Zib8l6WvhpOT0Esu5eFdhk00F38vaX.Z23dGksHI22vsdde?continueMode=true)
 
 * [Public profile - Machine-readable, cryptographially-verifiable imprint linked to a DID](https://hackmd.io/4oZOgwFOQDSFUuu3ruN-_g)
 
@@ -85,7 +85,7 @@ a simple mechanism to provide public information concerning an entity by adverti
   > Machine-readable governance is composed of elements that help to establish trust and enable interoperability: trusted participants, schemas (templates for structuring information in a credential), and rules and flows for presenting credentials and verifying them. Machine-readable governance can be hierarchical. Once a governance system is published, other organizations can adopt and then amend or extend the provided system.
 
 
-* [Governance: Clarifying or confusing the marketplace?](https://iiw.idcommons.net/19A/_Governance:_Clarifying_or_confusing_the_marketplace%3F)
+* [Governance: Clarifying or confusing the marketplace?](https://iiw.idcommons.net/19A/_Governance:_Clarifying_or_confusing_the_marketplace_)
 
 Governance in decentralized identity is more akin to “technical rules and instructions.” This is highly disfluent in part because it is so extensive and in part because it relies on a new vocab that uses familiar words in unfamiliar ways. All of this creates disfluency to such a degree that it is unpleasant to contemplate and that unpleasantness is transferred onto the product.
 
@@ -109,7 +109,7 @@ As we have presented these affirmations at prior IIW and since then to others - 
 
 This is a Call to Action for IIW to support our role as a convenor in this important area of human rights in cyberspace.
 
-* [UDDI & UDDR - Common language once and for all?](https://iiw.idcommons.net/20D/_UDDI_%26_UDDR_-_Common_language_once_and_for_all%3F)
+* [UDDI & UDDR - Common language once and for all?](https://iiw.idcommons.net/20D/_UDDI_%26_UDDR_-_Common_language_once_and_for_all_)
 
 Query of nature of governance and role of programmers.
 
@@ -295,55 +295,12 @@ I conclude: there is no consensus whatsoever :-) That may be because there such 
 Have you noticed that pretty much all senior technologists that dismiss Web3 — usually in highly emotional terms – completely ignore that pretty much all the genuinely interesting innovations in the Web3 world are governance innovations?
 
 
-* [FaceDAO: Self-sovereign Identity and the Blockchain](https://coinmarketcap.com/alexandria/signals/26487) CoinMarketCap
-
-By having SSI in place for users, FaceDAO promises users total security of their data. For FaceDAO, self-sovereign identity on the blockchain implies an identity user’s own. It’s theirs. Only they can hold it on their accounts and only they can decide who gets to see it and what they get to see.
-
 * [Crossfunctionality](https://docs.centre.io/blog/crossfunctionationality) Juan Caballero, Centre
-
-Real progress is made by rich, cross-disciplinary teams and heterogeneous coalitions coming together to attack hard problems from every angle at once.
+  > Real progress is made by rich, cross-disciplinary teams and heterogeneous coalitions coming together to attack hard problems from every angle at once.
 
 * [Self-Administered Governance In America](https://www.moxytongue.com/2022/06/self-administered-governance-in-america.html)
 
 Self-Administration of human authority, possessed equally by all living Individuals who choose civil participation as a method of Governance derived "of, by, for" people, begins and ends with the structural accuracy of words, and their functional practices.
 
 * [Decentralized Ecosystem Governance: Better, More Effective, and More Robust than Trust Registries](https://indicio.tech/decentralized-ecosystem-governance-better-more-effective-and-more-robust-than-trust-registries/) Indicio
-
-Decentralized Ecosystem Governance makes verifying data an easy-to-play game of red light/green light. And, importantly, it decentralizes governance to the appropriate authorities.
-
-* [Trust Registries Tweetstorm](https://www.continuumloop.com/trust-registries-tweetstorm/) Continuum Loop
-
-We want to start a conversation on Trust Registries and get people thinking about how Trust Registries will help answer the hard questions an ecosystem needs to create a whole experience [[tweetstorm](https://threadreaderapp.com/thread/1569093372920614914.html)]
-
-* [DAOs are not corporations: where decentralization in autonomous organizations matters](https://vitalik.ca/general/2022/09/20/daos.html) Vitalik Buterin 2022-09-20
-
-Because DAOs do not have a sovereign above them, and are often explicitly in the business of providing services (like currency and arbitration) that are typically reserved for sovereigns, it is precisely the design of sovereigns (political science), and not the design of corporate governance, that DAOs have more to learn from.
-
-
-* [Podcast] [Are Trust Registries Vital to the Success of Decentralized Identity?](https://northernblock.io/are-trust-registries-vital-to-the-success-of-decentralized-identity-with-darrell-odonnell/) Northern Block, with Darrell O’Donnell
-
-- What are the differences between Verifiable Data Registries and Trust Registries?
-- How can Trust Registries help establish the Authenticity of Data?
-- Does placing too much Governance at the Verifiable Data Registry layer cause scaling issues?
-- Why DNS can become an elegant Root of Trust solution to validate the authenticity of Credential Issuers.
-- Who in the Trust Triangle benefits the most from Trust Registries
-* [Solving Governance in SSI Ecosystems with Trust Registries.](https://www.youtube.com/watch?v=5zZKIwesSl8) Trust over IP Foundation
-
-Learn the what and the why behind trust registries.  In addition to discussing how trust registries solve governance in verifiable credential ecosystems, Tomislav demos the very first implementation of ToIP’s trust registry specification.
-
-* [Trust Assurance in SSI / Verifiable Credential Ecosystems](https://iiw.idcommons.net/14F/_Trust_Assurance_in_SSI_/_Verifiable_Credential_Ecosystems) by Scott Perry
-  > The meeting started with a presentation of an updated representation of a trust assurance model being promoted by the Trust over IP Foundation’s Governance Stack Working Group.
-  > 
-  > Given the audience of 8-10 people, we polled the reasons for attending a topic on Trust Assurance and discussed a few gnarly challenges in the space:
-  > 
-  > 1. An owner of a background check company conveyed challenges with complying with a myriad of governance authority frameworks audited by a myriad of qualified/unqualified auditors looking at a myriad of evidence to render a judgement
-  > 2. The addition of privacy controls (notice and consent) to augment existing marketplace controls due to the specific need in SSI networks: [https://kantarainitiative.org/confluence/display/WA/Privacy+as+Expected%3A+UI+Signalling+a+Consent+Gateway+For+Human+Consent](https://kantarainitiative.org/confluence/display/WA/Privacy+as+Expected%3A+UI+Signalling+a+Consent+Gateway+For+Human+Consent)
-  > 3. A discussion of the China Civil Code: [https://www.dlapiper.com/en/uk/insights/publications/2020/06/new-chinese-civil-code-introduces-greater-protection-of-privacy-rights-and-personal-information/](https://www.dlapiper.com/en/uk/insights/publications/2020/06/new-chinese-civil-code-introduces-greater-protection-of-privacy-rights-and-personal-information/)
-  > 4. A need for a civilian clearance credential.
-* [Is the verifiable credential trust triangle incomplete?](https://iiw.idcommons.net/3M/_Is_the_verifiable_credential_trust_triangle_incomplete%3F) by Riley Hughes
-  > VC marketplace project at DIF is talking about a reputation system for issuers, using VCs
-  > 
-  > We need to agree on:
-  > 
-  > - Machine-readable document (governance framework)
-  > - URI for a governance framework that we need to agree on
+  > Decentralized Ecosystem Governance makes verifying data an easy-to-play game of red light/green light. And, importantly, it decentralizes governance to the appropriate authorities.

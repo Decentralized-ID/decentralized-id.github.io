@@ -3,7 +3,16 @@ published: false
 ---
 
 
-# Existing ID Standards Based Tech
+* [What's the difference between identification, authentication and authorization?](https://twitter.com/doerkadrian/status/1397566626405421060) 2021-05-26 Adrian Doerk
+  > - Identification: Who are you?
+  > - Authentication: Is it you again?
+  > - Authorization: What rights do I want to grant you?
+* [To Better Understand Digital Identity, Look to Physics](https://www.pingidentity.com/en/company/blog/posts/2021/digital-identity-physics.html) 2021-05-17 Ping
+  > In chaotic systems such as those that the discipline of physics seeks to describe, there is also the concept of the “self-organizing principle,” which dictates a tendency for chaotic systems to organize themselves. While this might be a tendency in physics, organization usually needs a nudge in the right direction in the identity world. Proper attention to requirements and a good change control process are a crucial part of the equation.
+* [Identity management is key to increasing security, reducing fraud and developing a seamless customer experience](https://identitypraxis.com/2022/01/07/identity-management-is-key-to-increasing-security-reducing-fraud-and-developing-a-seamless-customer-experience/) 2022-01-07 Identity Praxis 
+  > - Identity management is an iterative process with three core elements – initial identification, authentication (re-identifying the individual) and verification (ensuring the individual is who they claim to be)
+  > - Enterprises employ a vast array of technologies to execute these processes which are growing in scope and complexity
+  > - Understanding why identity management is necessary to enterprises and how this creates opportunities for vendors
 
 ## Explainer
 ### Identity not SSI

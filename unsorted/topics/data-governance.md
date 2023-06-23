@@ -1,35 +1,31 @@
 ---
 published: false
 ---
-* [Katryna Dow - Data minimisation: value, trust and obligation](https://www.ubisecure.com/podcast/data-minimisation-meeco-katryna-dow/)
+* [Katryna Dow - Data minimisation: value, trust and obligation](https://www.ubisecure.com/podcast/data-minimisation-meeco-katryna-dow/) 2020-10-14 UbiSecure
   > Katryna talks to Oscar about her career (including inspiration from Minority Report), Meeco’s personal data & distributed ledger platform, the importance of data minimisation to inspire trust in organisations, and cultural differences in attitudes towards digital identity.
-* [Why Location Data Brokers Put All Communities At Risk](https://me2ba.org/why-location-data-brokers-put-all-communities-at-risk/) Zach Edwards M2BA
+* [Why Location Data Brokers Put All Communities At Risk](https://me2ba.org/why-location-data-brokers-put-all-communities-at-risk/) 2022-06-06 Zach Edwards M2BA
   > New work that may leverage decentralized ID from the supply chain side of things…but not sure (lots of links inside on data brokers harm)
-* [INNOPAY paper on data sharing published in CEUR Workshop Proceedings](https://www.innopay.com/en/news/innopay-paper-data-sharing-published-ceur-workshop-proceedings) Innopay
+* [INNOPAY paper on data sharing published in CEUR Workshop Proceedings](https://www.innopay.com/en/publications/innopay-paper-data-sharing-published-ceur-workshop-proceedings) 2022-09-15 Innopay
   > This week, CEUR-WS.org has published the paper titled ‘[Harmonization Profiles for Trusted Data Sharing Between Data Spaces: Striking the Balance between Functionality and Complexity](http://ceur-ws.org/Vol-3214/WS6Paper2.pdf)’ in the CEUR Workshop Proceedings.
-* [Self Sovereign Identity Systems](https://yathartharora.substack.com/p/self-sovereign-identity-systems) 2021-04-09 The Passion Pad
-  > We should have the right to manage our identity, free of any country or the place where we live. By giving this right to the government or any central authority, we give them much more power. Separating data rights from the actual data is important. User should have the right to decide who should have the access to his/her data.
-* [Self-Sovereign Identity – A Possibility for More Data Control for Users](https://dataethics.eu/self-sovereign-identity-a-possibility-for-more-data-control-for-users/) 2020-06-18 DataEthics.eu
-  > But also, the general populations’ computer skills must be taken into account when designing the solution, along with legal considerations of whether individuals should be allowed to sell sensitive data, such as health data to third parties. If it is legal to monetize personal data, users can be tempted to share personal data in a way that might harm them later e.g. sharing health data and later being denied an insurance. Monetization might also create a gap in the society and the world, having rich people prioritize protecting their privacy while less fortunate citizens might feel like they have no other option than selling their data. Thoughts about the monetization of data need to be considered in a legal context as it has been done with the donation of blood, when creating a self-sovereign identity solution. Furthermore, safeguard measures must be made against discrimination like only providing identity for a selected few, and to ensure that everyone have equal access to creating a trustworthy digital identity.
-
-  * [What’s in Your Data Ecosystem?](https://stateofidentity.libsyn.com/whats-in-your-data-ecosystem) State of Identity
+* [What’s in Your Data Ecosystem?](https://stateofidentity.libsyn.com/whats-in-your-data-ecosystem) 2021-12-09 State of Identity
   > Indicio's CEO, Heather Dahl, and CTO, Ken Ebert, identity wallets, verified credentials, the role of the Sovrin Foundation, and new momentum around interoperability across decentralized identity.
-* [Part 4: Getting on the Right Data Diet with Verifiable Credentials](https://www.evernym.com/blog/right-data-diet-verifiable-credentials/)
-  > Apparently gluttony means “overconsumption to the point of waste.” Sadly that feels apt when it comes to customer data APIs.
+* [Part 4: Getting on the Right Data Diet with Verifiable Credentials](https://www.evernym.com/blog/right-data-diet-verifiable-credentials/) 2021-03-08 Evernym
+  > But there’s a difficult truth here. Much of the data is just plain wrong, wasteful, or at worst not compliant. We know this because businesses are spending boatloads of cash on fixing poor quality data and data compliance. And what’s the remedy? More data! More data sources, more attributes and profiles, more money. All fed by a new and increasingly sophisticated set of data APIs that are driving that growth. 
+* [Design Principles for the Personal Data Economy](https://medium.com/mydex/design-principles-for-the-personal-data-economy-f63ffa93e382) 2022-06-22 MyDex ([whitepaper](https://mydex.org/resources/papers/)
+  > A key part of this is continuity and longevity: a personal data store is for life, so the institutions providing personal data stores should be designed for decades (centuries, even). Whatever particular corporate form they take, legal safeguards relating to continuity and longevity of purpose need to be built into how they operate.
 
-* [6: Breaking Down Silos with Open Ecosystems and True Data Portability](https://www.evernym.com/blog/open-ecosystems-data-portability/)
+* [6: Breaking Down Silos with Open Ecosystems and True Data Portability](https://www.evernym.com/blog/open-ecosystems-data-portability/) 2021-03-11 Evernym
   > Every company providing a new digital identity solution believes that all the other digital identity options are not good enough, not secure enough, not fast enough. They believe they can do better.
   > 
   > Yet collaboration will be critical to making digital identity work properly at scale.
 
-* [Part 7: Envy Counting The Cost of Data Collection, And A New Paradigm Of ‘Identity Holder Present’](https://www.evernym.com/blog/identity-holder-present/)
+* [Part 7: Envy Counting The Cost of Data Collection, And A New Paradigm Of ‘Identity Holder Present’](https://www.evernym.com/blog/identity-holder-present/) 2021-03-12
   > It all feels like data envy to me. Aristotle described envy as the pain at the sight of another’s good fortune, stirred by “those who have what we ought to have.” Precisely.
 
 
-* [UNDP LEGAL IDENTITY AGENDA ONLINE FORUM: PRIVATE SECTOR ENGAGEMENT ROUNDTABLES: DATA PROTECTION AND PRIVACY](https://unstats.un.org/LEGAL-IDENTITY-AGENDA/MEETINGS/2021/UNLIA-FUTURETECH/DOCS/REPORT2.PDF)
+* [UNDP LEGAL IDENTITY AGENDA ONLINE FORUM: PRIVATE SECTOR ENGAGEMENT ROUNDTABLES: DATA PROTECTION AND PRIVACY](https://unstats.un.org/LEGAL-IDENTITY-AGENDA/MEETINGS/2021/UNLIA-FUTURETECH/DOCS/REPORT2.PDF) 2022-07-13
+  > A second Private Sector Engagement Roundtable was held on February 10, 2022 building on the first roundtable held in May 2021. The forum drew 74 virtual participants. Hosted by the UN Legal Identity Agenda (LIA) Task Force1, the roundtable with members of UN entities and the private technology sector addressed, core questions about data protection and privacy, as well as policy issues concerning legal identity systems.
 
-# Data Governance
-* [Radical Exchange Talk: Data Agency. Individual or Shared?](https://identitywoman.net/radical-exchange-talk-data-agency-individual-or-shared/)
 
 * [Marissa Mayer wants to fix your address book](https://www.cnbc.com/2020/11/18/marissa-mayer-is-back-and-she-wants-to-fix-your-address-book.html) CNBC 2020-11-18
   > At launch, Mayer’s start-up is rolling out Sunshine Contacts, an address book app that relies on artificial intelligence to find and merge duplicate contacts, fill out incomplete information and continually keep that data up to date. The app integrates with the iOS Contacts app as well as Gmail and will be free to all iOS users with an invitation.
@@ -150,32 +146,11 @@ Individual Rights are hard to come by historically. Strong people make them poss
 
 The main reason why vital information is not getting where it needs to be is that our data economy has evolved to be an organisation-centric ‘One User One Use’ (OUOU) system — whereas, thanks to the inner logic of data itself, it needs to operate as a ‘Many Users, Many Uses’ (MUMU) data ecosystem.
 
-### Data Portability
-
-* [Europe’s top Data Portability Projects](https://dapsi.ngi.eu/meet-europes-top-data-portability-projects/)
-
-- [ALIAS](https://dapsi.ngi.eu/hall-of-fame/alias/) – automating GDPR portability for applications developers.
-- [Checkpipe Charlie](https://dapsi.ngi.eu/hall-of-fame/checkpipe-charlie/) – tool for describing and validating data.
-- [DIP](https://dapsi.ngi.eu/hall-of-fame/dip/) – Vaccination & Immunization Management using Verifiable Credentials.
-- [Domi](https://dapsi.ngi.eu/hall-of-fame/domi/) – SSI-based digital passport to facilitate data portability in the housing rental sector.
-- [DPella](https://dapsi.ngi.eu/hall-of-fame/dpella/) – Data analyses with privacy in mind.
-- [IDADEV-P2P](https://dapsi.ngi.eu/hall-of-fame/idadev-p2p/) – Blockchain Based Data Portability System
-- [OpenPKG](https://dapsi.ngi.eu/hall-of-fame/openpkg/) – decentralised data provenance system for improved governance and portability of personal data.
-- [OpenXPort](https://dapsi.ngi.eu/hall-of-fame/openxport/) – Open export of data across different systems and providers.
-- [ORATORIO](https://dapsi.ngi.eu/hall-of-fame/oratorio/) – Energy data exchange platform.
-- [Prov4ITData](https://dapsi.ngi.eu/hall-of-fame/prov4itdata/) – Provenance-aware querying and generation for interoperable and transparent data transfer.
-- [UI-Transfer](https://dapsi.ngi.eu/hall-of-fame/ui-transfer/) – complete solution for “user initiated inter-controller and continuous data transfer”
 
 
 * [Data as competitive advantage & control mechanism in platform economy](https://www.youtube.com/watch?v=nlf5juCc6CA)
   > Presenters: Sangeet Paul Choudary, Molly Schwartz Session host: Riikka Kämppi Molly Schwartz chats with Sangeet Paul Choudary - best-selling author of Platform Revolution and Platform Scale and founder of Platformation Labs - unpacks the ethics and economics of data.
 
-* [Decentralized machine learning to respond to the health crisis](https://blog.cozy.io/en/decentralized-machine-learning-to-respond-to-the-health-crisis/)
-  > The current health crisis has shown how essential it is to have data in order to make political decisions.[...]
-  > 
-  > We present here one of these solutions that allows training an AI with the data of many individuals without ever disclosing it to third parties, thanks to a decentralized protocol.
-* [Kaliya & Seth talk Synthetic Data with Harry Keen CEO of Hazy.com](https://anchor.fm/psatoday/episodes/PSA-Today-33-Kaliya--Seth-talk-Synthetic-Data-with-Harry-Keen--CEO-and-co-founder-of-Hazy-com-eqal35) PSA Today #33
-  > Originally a UCL AI spin out, London-based Hazy was initially incubated by Post Urban Ventures and CyLon cybersecurity accelerator. Our startup began trying to fix the flaws of traditional data redaction and then data anonymisation. We soon discovered anonymised data will always pose a risk to re-identification.
 
 ### Dynamic Data Economy: Digital Identity, Authentic Data Flows, Data Mesh and other dragons by Robert Mitwicki
 
@@ -232,33 +207,51 @@ Brent Shambaugh. Integrate computing, processing, storage. Virtual machine to in
 
 Linking data together is about machine readability. Involved humans… need to understand. Do it through language. Humans like OCA because can understand data in different languages, makes sense for people. Human element. In that capture space. Want to refine OCA, take out some of the rules parts, masking overlay, conditional overlays, and get it away from OCA as architecture - it convolutes things. OCA only meant for making theings human-readable.
 
-* [Creating a positive vision for the future - decentralised web + SSI](https://iiw.idcommons.net/21I/_Creating_a_positive_vision_for_the_future_-_decentralised_web_+_SSI) by Jemima Gibbons
 
-Discussion moved to this Miro board:
-
-* [https://miro.com/app/board/o9J_lII_R8s=/](https://miro.com/app/board/o9J_lII_R8s=/)
-
-* [IIW32_TH_21I_Creating a Positive Visition for Future - Decentralised Wed + SSI](https://docs.google.com/document/d/1iELB7PlUp_5ZJa9LGxWXium_-pHcXS35MG4oGgDl98s/edit)
-
-17:10:05 From Bruce Conrad to Everyone : Another dystopia prediction from 1909: "The Machine Stops" is a science fiction short story (12,300 words) by E. M. Forster. [quoted from wikipedia]
-
-* [https://www.amazon.com/Monkeys-Typewriters-Myths-Realities-Social/dp/0956263143](https://www.amazon.com/Monkeys-Typewriters-Myths-Realities-Social/dp/0956263143)
-
-
-* [https://miro.com/welcomeonboard/DRQLs1YeZ9DqbWzmXoBVubmSZ2zgt93AelmqxuZVf9q5zqWLyZI7AFxGePI4biNq](https://miro.com/welcomeonboard/DRQLs1YeZ9DqbWzmXoBVubmSZ2zgt93AelmqxuZVf9q5zqWLyZI7AFxGePI4biNq)
-
-17:52:46 From Orie Steele to Everyone : Shameless plug for our work with GS1 on VCs
-
-* [https://www.youtube.com/watch?v=iDkANArgdKI&t=15s](https://www.youtube.com/watch?v=iDkANArgdKI&t=15s)
-* [The Anatomy Of Personal Data Sovereignty](https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/04/the-anatomy-of-personal-data-sovereignty/?sh=69dbea5761e1) in Forbes 2021-05-04
-
-The data privacy/control issue isn’t new, but the attitude shift is. People care more, demand more, and the scale of change that has occurred due to the Covid-19 pandemic is major. As we live through times exposing such injustice and inequality, it's becoming evident that this personal data ecosystem needs to undergo a major revamp.
 * [BIS Annual Report](https://www.bis.org/publ/arpdf/ar2022e3.pdf) section III. The future monetary system on page 41 in the chart
+  > Point 5. User control over data—data governance arrangements should ensure users’ privacy and control over data:
+  > 
+  > - Today: Users trust intermediaries to keep data safe, but they do not have sufficient control over their data
+  > - Crypto: Transactions are public on the blockchain—which will not work with “real names”
+  > - Tomorrow: New data architectures can give users privacy and control over their data
 
-Point 5. User control over data—data governance arrangements should ensure users’ privacy and control over data:
 
-- Today: Users trust intermediaries to keep data safe, but they do not have sufficient control over their data
-- Crypto: Transactions are public on the blockchain—which will not work with “real names”
-- Tomorrow: New data architectures can give users privacy and control over their data
+### Customer Commons \ Intention Economy
 
+* [Making The Intention Economy happen](https://iiw.idcommons.net/3E/_Making_The_Intention_Economy_happen) by Doc Searls (& Customer Commons)
 
+* [The Intention Economy: When Customers Take Charge | Berkman Klein Center](https://cyber.harvard.edu/events/2012/05/searls)
+
+* [https://wiki.p2pfoundation.net/Intention_Economy](https://wiki.p2pfoundation.net/Intention_Economy)
+
+* [Making The Intention Economy Happen](https://iiw.idcommons.net/10B/_Making_The_Intention_Economy_Happen,_Part_2), Part 2 by Doc Searls
+
+This was a small meeting primarily meant to tee up Hadrian Zbarcea’s demo of Customer Commons’ new Intention Byway model for better signaling between demand and supply in markets of all kinds
+
+* [https://www.slideshare.net/dsearls/iiw-xxxiiintentionsession](https://www.slideshare.net/dsearls/iiw-xxxiiintentionsession)
+
+### Data Portability
+
+* [Europe’s top Data Portability Projects](https://dapsi.ngi.eu/meet-europes-top-data-portability-projects/) 2021-03-30 NGI
+  - [ALIAS](https://dapsi.ngi.eu/hall-of-fame/alias/) – automating GDPR portability for applications developers.
+  - [Checkpipe Charlie](https://dapsi.ngi.eu/hall-of-fame/checkpipe-charlie/) – tool for describing and validating data.
+  - [DIP](https://dapsi.ngi.eu/hall-of-fame/dip/) – Vaccination & Immunization Management using Verifiable Credentials.
+  - [Domi](https://dapsi.ngi.eu/hall-of-fame/domi/) – SSI-based digital passport to facilitate data portability in the housing rental sector.
+  - [DPella](https://dapsi.ngi.eu/hall-of-fame/dpella/) – Data analyses with privacy in mind.
+  - [IDADEV-P2P](https://dapsi.ngi.eu/hall-of-fame/idadev-p2p/) – Blockchain Based Data Portability System
+  - [OpenPKG](https://dapsi.ngi.eu/hall-of-fame/openpkg/) – decentralised data provenance system for improved governance and portability of personal data.
+  - [OpenXPort](https://dapsi.ngi.eu/hall-of-fame/openxport/) – Open export of data across different systems and providers.
+  - [ORATORIO](https://dapsi.ngi.eu/hall-of-fame/oratorio/) – Energy data exchange platform.
+  - [Prov4ITData](https://dapsi.ngi.eu/hall-of-fame/prov4itdata/) – Provenance-aware querying and generation for interoperable and transparent data transfer.
+  - [UI-Transfer](https://dapsi.ngi.eu/hall-of-fame/ui-transfer/) – complete solution for “user initiated inter-controller and continuous data transfer”
+
+## User Control
+
+* [The Anatomy Of Personal Data Sovereignty](https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/04/the-anatomy-of-personal-data-sovereignty/?sh=69dbea5761e1) 2021-05-04 Forbes 
+  > The data privacy/control issue isn’t new, but the attitude shift is. People care more, demand more, and the scale of change that has occurred due to the Covid-19 pandemic is major. As we live through times exposing such injustice and inequality, it's becoming evident that this personal data ecosystem needs to undergo a major revamp.
+* [Video] [Radical Exchange Talk: Data Agency. Individual or Shared?](https://identitywoman.net/radical-exchange-talk-data-agency-individual-or-shared/) 2021-03-05 IdentityWoman
+  > Digital networks have centralized power over identities and information, creating problems for both markets and democracy. Does the solution require more shared agency over data?  What might that look like?  This panel discussion is structured around thought experiments to find solutions to this issue.
+* [Self Sovereign Identity Systems](https://yathartharora.substack.com/p/self-sovereign-identity-systems) 2021-04-09 The Passion Pad
+  > We should have the right to manage our identity, free of any country or the place where we live. By giving this right to the government or any central authority, we give them much more power. Separating data rights from the actual data is important. User should have the right to decide who should have the access to his/her data.
+* [Self-Sovereign Identity – A Possibility for More Data Control for Users](https://dataethics.eu/self-sovereign-identity-a-possibility-for-more-data-control-for-users/) 2020-06-18 DataEthics.eu
+  > But also, the general populations’ computer skills must be taken into account when designing the solution, along with legal considerations of whether individuals should be allowed to sell sensitive data, such as health data to third parties. If it is legal to monetize personal data, users can be tempted to share personal data in a way that might harm them later e.g. sharing health data and later being denied an insurance. Monetization might also create a gap in the society and the world, having rich people prioritize protecting their privacy while less fortunate citizens might feel like they have no other option than selling their data. Thoughts about the monetization of data need to be considered in a legal context as it has been done with the donation of blood, when creating a self-sovereign identity solution. Furthermore, safeguard measures must be made against discrimination like only providing identity for a selected few, and to ensure that everyone have equal access to creating a trustworthy digital identity.
