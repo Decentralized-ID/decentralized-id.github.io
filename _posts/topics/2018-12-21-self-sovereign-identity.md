@@ -11,7 +11,7 @@ redirect_from:
   - /self-sovereign-identity
   - /self-sovereign-identity/
 categories: ["Topics"]
-tags: ["Self Sovereign Identity","Laws of Identity","Literature","RWoT","IIW","Learning Machine","Sovrin Foundation","Evernym"]
+tags: ["Self Sovereign Identity","Laws of Identity","RWoT","IIW","Learning Machine","Sovrin Foundation","Evernym"]
 last_modified_at: 2023-06-22
 ---
 
@@ -110,8 +110,6 @@ last_modified_at: 2023-06-22
   > My short stint as “Mark Jannell" taught me a lot of about trust and ease of use in a bring your own identity model. Trust, as always in security, is essential to this new class of relationships and must be established and then protected from abuse. Ease of use, it turns out, is a key factor in protecting that trust and promoting the adoption of good identity patterns. I’m sure that I could have learned these lessons in some other way, but I’ll never forget my half year answering to a pseudonym.
 * [What is the Trust Triangle?](https://academy.affinidi.com/what-is-the-trust-triangle-9a9caf36b321) 2021-08-23 Affinidi
   > The relationship between the issuers, holders, and verifiers is called the trust triangle simply because you need an element of trust among these entities for them to work together.
-* [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md) 2017-08-26 Joe Andrieu rwot05-boston
-  > Unfortunately, digital systems can unwittingly compromise real-world identity. Sometimes this occurs because digital identity systems neglect to consider external effects. Other times, it happens with systems that didn’t even realize they were dealing with identity-related personal information. A functional perspective allows engineers to see beyond static attributes and traditional notions of “Personally Identifiable Information” to better understand how engineering choices can impact identity, even outside their systems.
 
 ## Security
 * [What is decentralized identity?](https://www.csoonline.com/article/3665692/what-is-decentralized-identity.html) 2022-07-06 CSO Online
@@ -142,43 +140,6 @@ last_modified_at: 2023-06-22
   > An answer to these challenges is an ecosystem in which digital identity data can be exchanged in a way that is secure, reliable, scalable and convenient. This will have a positive impact on the economic future of Germany and Europe while at the same time enhancing the private sphere of the individual.
 
 [![](https://i.imgur.com/MMa72Dx.png)](https://www.researchgate.net/figure/Self-Sovereign-Identity-Locus-of-Control-Bouma-2019_fig1_340938808)
-
-## Background
-**Greatly influential on later thinking around digital identity and the **development of Self Sovereign Identity
-* [Kim Cameron Identity Laws](https://www.identityblog.com/?p=352) 2005-05-13 IdentityBlog [Whitepaper](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf)
-  > Summary: Understand the dynamics causing digital identity systems to succeed or fail in various contexts, expressed as the Laws of Identity. Together these laws define a unifying identity metasystem that can offer the Internet the identity layer it needs. (14 printed pages)
-
-**Shows an early use of 'sovereign' in relation to our internet **identities
-* [*What is Sovereign Source Authority?*](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) 2012-02
-  > What is required for structural integrity of a Sovereign domain originated of, by, for people?\
-  > A [recursive signatory](https://www.moxytongue.com/2021/07/recursive-signatory.html) is starting point for an accurate self-sourced method that repeats, generation after generation, person after person, such that no second-class process supersedes the inherent requirement for functional Rights.
-
-**The term "Self Sovereign Identity" started becoming widely used in **2014
-* [The Windhover Principles for Digital Identity, Trust, and Data](https://www.scribd.com/document/335386296/Windhover-Principles) 2014-09-21 Institute for Data Driven Design 
-  > 1. Self-Sovereignty of Digital Identity and Personal Data:
-  > Individuals and groups should have control of their digital personal identities and personal data. 
-* [HubID First to Deploy Windhover Principles and Framework for Digital Identity, Trust and Open Data](https://hubculture.com/hubs/47/news/689/) 2014-10-20
-  > HubID, the self-sovereign digital identity system at the core of Hub Culture and the Ven currency, is the first consumer application to deploy the Windhover Principles and new frameworks for digital identity, trust and open data. The core technology has been in development with the Open Mustard Seed framework and quietly began use in July 2014 following a development announcement with ID3 in January 2014 at the World Economic Forum in Davos.
-
-**This article popularized the idea and term Self Sovereign Identity**
-* [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md) 2016-04-25 Christopher Allen Popularized the concept of Self-Sovereign Identity
-  > Since then, the idea of self-sovereign identity has proliferated. Loffreto has blogged how the term has evolved13. As a developer, he shows one way to address self-sovereign identity: as a mathematical policy, where cryptography is used to protect a user’s autonomy and control. However, that’s not the only model. Respect Network instead addresses self-sovereign identity as a legal policy; they define contractual rules and principles that members of their network agree to follow14. The Windhover Principles For Digital Identity, Trust and Data15 and Everynym’s Identity System Essentials16 offer some additional perspectives on the rapid advent of self-sovereign identity since 2012.
-
-**Early influential thinking on SSI**
-* [A Technlogy-Free Definition of Self-Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) 2016-10 Joe Andrieu
-  > This paper explores what self‐sovereign identity means independent of technology: what people need from independent identity capabilities. I want to understand how such a system enables both individuals whose identities are in play (subjects), as well as those who use those “identities” to correlate interactions across contexts (observers). I start with grounding individual sovereignty in the Enlightenment and identity in its core function of correlation, then propose core characteristics of a self‐sovereign identity system.
-* [10 Principles of Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) 2016-10-23 Rebooting Web of Trust
-  > 1. Existence. Users must have an independent existence. Any self-sovereign identity is ultimately based on the ineffable “I” that’s at the heart of identity. It can never exist wholly in digital form. This must be the kernel of self that is upheld and supported. A self-sovereign identity simply makes public and accessible some limited aspects of the “I” that already exists.
-* [Schutte's Take](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/Schutte-on-SSI.md) 2016-10-26 Rebooting Web of Trust (criticism of the 10 principles)
-  > A perceived sense of “a self” is the product that emerges from the interactions of these various agents.
-  > 
-  > Their coherent operation takes form in the world in ways that enable other actors to treat them as if they were a single actor rather than the complex set of collaborations amongst different processes that they actually are.
-  > 
-  > Of course, this is a heuristic, and like all heuristics, it may be a useful shortcut, but that doesn’t mean it accurately reflects reality.
-  > 
-  > In truth, our “self” is constantly interacting with agents both externally and internally, and these transform the functioning (and even the perceived boundaries) of the self.
-* [The Domains of Identity & Self-Sovereign Identity -- Presentation from Kaliya Young](https://www.youtube.com/watch?v=U8bZ4GYFwKY) 2018-11-06 New America
-  > Kaliya Young (“The Identity Woman”) explains 16 domains of identity ~~-variously related to government, civil society, commerce, employment, and the data broker industry-~~ as presented in her [recent report](https://www.amazon.com/Domains-Identity-Understanding-Contemporary-Collection/dp/1785274910). Kaliya then explains how SSI can fundamentally alter the relationships within these domains.
 
 ## Resources
 * [animo/awesome-self-sovereign-identity/](https://github.com/animo/awesome-self-sovereign-identity) 2023-07-07

@@ -4,14 +4,13 @@ description: This page is devoted to leading thought around what are the most im
 excerpt: >
   There are a few different ways to approach and describe SSI. What I aim to do is come up with a list of different "SSI Cases" to modularize the treatment of the subject. This will allow each to contribute in the way that makes most sense for themselves, rather than trying to discuss SSI as a whole in a single whitepaper.
 layout: single
-toc: false
 redirect_from:
   - /self-sovereign-identity/ssi-principles-vs-characteristics
   - /self-sovereign-identity/ssi-principles-vs-characteristics/
-  - /literature/self-sovereign-identity/evolution-of-ssi
+  - /literature/self-sovereign-identity/ssi-principles-vs-characteristics/ 
   - /self-sovereign-identity/evolution-of-ssi/
   - /self-sovereign-identity/evolution-of-ssi
-  - /literature/self-sovereign-identity/ssi-principles-vs-characteristics/ 
+  - /literature/self-sovereign-identity/evolution-of-ssi
   - /literature/self-sovereign-identity/evolution-of-ssi/
 permalink: /topic/characteristics/
 canonical_url: 'https://decentralized-id.com/topic/characteristics/'
@@ -38,7 +37,7 @@ His article details the history of digital identity standards, and the user expe
 9. **Minimalization.** *Disclosure of claims must be minimized.* When data is disclosed, that disclosure should involve the minimum amount of data necessary to accomplish the task at hand. For example, if only a minimum age is called for, then the exact age should not be disclosed, and if only an age is requested, then the more precise date of birth should not be disclosed. This principle can be supported with selective disclosure, range proofs, and other zero-knowledge techniques, but non-correlatibility is still a very hard (perhaps impossible) task; the best we can do is to use minimalization to support privacy as best as possible. 
 10. **Protection.** *The rights of users must be protected.* When there is a conflict between the needs of the identity network and the rights of individual users, then the network should err on the side of preserving the freedoms and rights of the individuals over the needs of the network. To ensure this, identity authentication must occur through independent algorithms that are censorship-resistant and force-resilient and that are run in a decentralized manner. 
 
-### Related
+#### Related
 
 * [Principles or Cult - An Irreverant Discussion on the Principles of SSI](https://www.thedinglegroup.com/blog/2021/9/1/principles-or-cult-an-irreverant-discussion-on-the-principles-of-ssi) 2021-09-01 Dingle Group
   > The evolution of the Principles of SSI came about through the need to differentiate what is ‘true’ SSI versus marketing forces twisting the concept. This market driven motivator can bring cultish overtones to the process.
@@ -59,38 +58,36 @@ It was intended for that article to help open the conversation, not necessarily 
 
 That, said, the principles don't represent the entirety of thought on necessary characteristics for Sovereign identity systems. This page is devoted to continued thought around what are the most important characteristics of Self Sovereign Identity.
 
-## A Technology Free Definition of Self Sovereign Identity
+### A Technology Free Definition of Self Sovereign Identity
 That October, [Joe Andrieu](https://github.com/jandrieu) submitted [A Technology‐Free Definition of Self‐Sovereign Identity](https://github.com/jandrieu/rebooting-the-web-of-trust-fall2016/raw/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf) to the third Rebooting the Web of Trust Design Workshop. Within it, he describes the Characteristics of SSI: **Control**, **Acceptance**, and **Zero Cost**.
 
 >1 No disrespect to Christopher Allen’s opening to the conversation, The Path to Self Sovereign Identity [...] It gets a lot right, but leaves a few requirements out, e.g., recoverability and zero cost, and conflates “identities” and claims in an ambiguous manner.
 
-### Fundamental Characteristics of Self-Sovereign Identity
+#### Fundamental Characteristics of Self-Sovereign Identity
+* **CONTROL** - Self‐sovereign identities are controlled by the individual
+   * **Self‐generatable and Independent** 
+     > Individuals must be able to create identity information without asking for permission and be able to assert identity information from any authority.
+   * **Opt‐in**
+     > The affordance for asserting identity information starts with the individual. 
+   * **Minimal Disclosure**
+     > Individuals should be able to use services with minimal identity information. 
+   * **Non‐participation**
+     > Individuals must be able to choose to not provide identity information for services where it isn’t absolutely required. 
+   * **Opt‐out**
+     > Individuals should be able to opt‐out of identifying records post‐facto as a matter of course.
+   * **Recoverable** 
+     > Sovereign identities must be robust enough to be recovered even if hard drives are lost, wallets stolen, or birth certificates lost in a fire. 
+* **ACCEPTANCE** - Self‐sovereign identities are accepted wherever observers correlate individuals across contexts.
+   * **Standard**: 
+     > The core standard (schema, serialization, and protocols) must be atomically minimal, providing the barest data set, allowing complexity to emerge not from a complicated data model but from a multiplicity of information types, authorities, and observations. 
+   * **Non‐repudiatable**: 
+     > Self‐sovereign identities, at a minimum depend on cryptographic assurances, and most likely will be further enabled by non‐repudiatable public ledgers. 
+   * **Reliable**: 
+     > Access to self‐sovereign identities must be at least as reliable as access to the Internet.
+* **ZERO COST** - Finally, any proposed standard for self‐sovereign identity must be adoptable at absolutely minimal cost. 
+  > The systems we use to make sense of the resulting identity transactions will provide more than enough consulting, software, and hardware revenue to finance the development of the core enabling technology. Just as the web browser was a zero cost entry into a vast economic and innovation engine of the world‐wide web, so too must self‐sovereign identity begin with the most cost‐effective on‐ramp that can be engineered. 
 
-#### CONTROL 
-* **Self‐sovereign identities are controlled by the individual:**
-   * **Self‐generatable and Independent:** Individuals must be able to create identity information without asking for permission and be able to assert identity information from any authority. The resulting identity must have the same technical reliability as those provided by well‐known, “official” sources. The observer, of course, is always free to decide whether or not a given piece of information is meritorious, but the information must be able to be verified as a non‐repudiatable statement of correlation using exactly the same mechanisms regardless of source. Further, individuals must be able to present self‐generated identity information without disclosing that the authority in the claim is the subject of the claim. 
-   * **Opt‐in**: The affordance for asserting identity information starts with the individual. While an individual may present claims from known or accepted third party authorities, it is the individual who asserts that the claim applies to them. Self‐sovereign identities begin with the will of the individual, with the intentional presentation of identity information. 
-   * **Minimal Disclosure**: Individuals should be able to use services with minimal identity information. Features that depend on enhanced correlation must be understood by the average user. Such features should be permissioned with the highest granularity, so functions independent of correlation work equally well alongside those dependent on it. It is not acceptable to deny services because of a refusal to provide unrelated information. 
-   * **Non‐participation**: Individuals must be able to choose to not provide identity information for services where it isn’t absolutely required.  Any spontaneous identifiers necessary for a service to function, such as cookies or session ids, must use the same infrastructure for consent, persistence, transience, and disclosure as if provided by the individual. 
-   * **Opt‐out**: Individuals should be able to opt‐out of identifying records post‐facto as a matter of course.  People should be able to stop the use of a correlating identity information by request. Some transactions necessarily require long term retention of identity information, such as financial transactions, purchases, and shipments. Actions that create permanent records should be clearly marked and communicated such that the retention is expected and understood by the average person. All other actions which leverage a self‐sovereign identity should be de‐correlated on‐demand and said identifiers should no longer be used to correlate that individual across contexts. 
-   * **Recoverable**: Sovereign identities must be robust enough to be recovered even if hard drives are lost, wallets stolen, or birth certificates lost in a fire. Self‐sovereign identities must provide a way for individuals to recover and reassert that existing identify information applies to them even in the face of complete loss of credentials. This may be challenging given current technical proposals, but the point of this paper is to explore the non‐technical requirements of a self‐sovereign identity. To fully address the needs of UN Sustainable Development Goal 16.9, identity assurance can’t depend on pieces of paper, devices, or other artifacts that can be lost, stolen, destroyed, and falsified. 
-
-#### ACCEPTANCE 
-* **Self‐sovereign identities are accepted wherever observers correlate individuals across contexts.** 
-   * **Standard**: There is an open, public standard managed through a formal standards body, free to use by anyone without financial or intellectual encumbrance. Simple The core standard (schema, serialization, and protocols) must be atomically minimal, providing the barest data set, allowing complexity to emerge not from a complicated data model but from a multiplicity of information types, authorities, and observations. 
-   * **Non‐repudiatable**: Individual claims should be cryptographically signed to assure non‐repudiatable statements of correlation. Long term, public and semi‐public ledgers should be used to record claims that become statistically impossible to falsify over time. Self‐sovereign identities, at a minimum depend on cryptographic assurances, and most likely will be further enabled by non‐repudiatable public ledgers. 
-   * **Reliable**: Access to self‐sovereign identities must be at least as reliable as access to the Internet. It should not rely on any individual or group of centralized servers, connections, or access technologies. Substantially Equivalent Above all, self‐sovereign identities must meet the needs of legacy identity observers at least as well as current solutions. If the core architecture is inherently less capable than existing approaches there is little hope of systemic adoption. 
-
-#### ZERO COST 
-* **Finally, any proposed standard for self‐sovereign identity must be adoptable at absolutely minimal cost.**
-   * Not only must it be free of licensing encumbrances, it must be implementable with readily available, inexpensive, commodity hardware running common operating systems. If it can’t be achieved using today’s commodity products, then we must help manufacturers incorporate what we need.  
-
-     **In order to reach every last person on the planet**—the explicit target of UN Sustainable Development Goal 16.9—**self‐sovereign identity must be realizable at massive scale with close to zero marginal cost**. 
-     
-The systems we use to make sense of the resulting identity transactions will provide more than enough consulting, software, and hardware revenue to finance the development of the core enabling technology. Just as the web browser was a zero cost entry into a vast economic and innovation engine of the world‐wide web, so too must self‐sovereign identity begin with the most cost‐effective on‐ramp that can be engineered. 
-
-## Furthering the discussion
-
+## Furthering the Discussion
 * [The Mental Models of Identity Enabled by SSI](https://ssi-ambassador.medium.com/the-mental-models-of-identity-enabled-by-ssi-d3e2d8d0f2b6) 2020-12-03 Adrian Doerk 
 *The Models: Space Time • Presentation • Attribute • Relationship • Capability*
   > The following five mental models describe what people refer to, when speaking about identity and provide a useful structure of how these models can be executed in a digital environment leveraging SSI infrastructure and components.
@@ -100,8 +97,28 @@ The systems we use to make sense of the resulting identity transactions will pro
   > A self-sovereign identity can be defined by the 5P’s as it is personal (it is about you), portable (meaning you can take your identity and data from one platform to another), private (you control your identity and data), persistent (it does not change without your consent) and protected (they cannot steal your identity).
 * [LESS identity](https://medium.com/@trbouma/less-identity-65f65d87f56b) 2018-12-09 Tim Bouma
   > I arrived at the term ‘Less Identity’ through some fun wordplay (yes, I do this stuff in my spare time). I was thinking about ‘Trust Frameworks’ and ‘Trustless Networks.’ When I factored out the common ‘Trust’, I arrived at ‘Trust[Less Networks and Frameworks].’
+* [The Domains of Identity & Self-Sovereign Identity -- Presentation from Kaliya Young](https://www.youtube.com/watch?v=U8bZ4GYFwKY) 2018-11-06 New America
+  > Kaliya Young (“The Identity Woman”) explains 16 domains of identity ~~-variously related to government, civil society, commerce, employment, and the data broker industry-~~ as presented in her [recent report](https://www.amazon.com/Domains-Identity-Understanding-Contemporary-Collection/dp/1785274910). Kaliya then explains how SSI can fundamentally alter the relationships within these domains.
+* [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md) 2017-08-26 Joe Andrieu rwot05-boston
+  > Unfortunately, digital systems can unwittingly compromise real-world identity. Sometimes this occurs because digital identity systems neglect to consider external effects. Other times, it happens with systems that didn’t even realize they were dealing with identity-related personal information. A functional perspective allows engineers to see beyond static attributes and traditional notions of “Personally Identifiable Information” to better understand how engineering choices can impact identity, even outside their systems.
 
-## Prior Art
-* [The Windhover Principles for Digital Identity, Trust, and Data](http://web.archive.org/web/20180228025834/https://www.tokencommons.org/Windhover-Principles-for-Digital-Identity-Trust-Data.html) 2014-09-21
-  > 
-* [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf) 2005-05-13
+## Background
+**Greatly influential on later thinking around digital identity and the development of Self Sovereign Identity**
+* [Kim Cameron Identity Laws](https://www.identityblog.com/?p=352) 2005-05-13 IdentityBlog [Whitepaper](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf)
+  > Summary: Understand the dynamics causing digital identity systems to succeed or fail in various contexts, expressed as the Laws of Identity. Together these laws define a unifying identity metasystem that can offer the Internet the identity layer it needs. (14 printed pages)
+
+**Shows an early use of 'sovereign' in relation to our internet identities**
+* [*What is Sovereign Source Authority?*](https://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html) 2012-02
+  > What is required for structural integrity of a Sovereign domain originated of, by, for people?\
+  > A [recursive signatory](https://www.moxytongue.com/2021/07/recursive-signatory.html) is starting point for an accurate self-sourced method that repeats, generation after generation, person after person, such that no second-class process supersedes the inherent requirement for functional Rights.
+
+**The term "Self Sovereign Identity" started becoming widely used in 2014**
+* [The Windhover Principles for Digital Identity, Trust, and Data](https://www.scribd.com/document/335386296/Windhover-Principles) 2014-09-21 Institute for Data Driven Design 
+  > 1. Self-Sovereignty of Digital Identity and Personal Data:
+  > Individuals and groups should have control of their digital personal identities and personal data. 
+* [HubID First to Deploy Windhover Principles and Framework for Digital Identity, Trust and Open Data](https://hubculture.com/hubs/47/news/689/) 2014-10-20
+  > HubID, the self-sovereign digital identity system at the core of Hub Culture and the Ven currency, is the first consumer application to deploy the Windhover Principles and new frameworks for digital identity, trust and open data. The core technology has been in development with the Open Mustard Seed framework and quietly began use in July 2014 following a development announcement with ID3 in January 2014 at the World Economic Forum in Davos.
+
+**This article popularized the idea and term Self Sovereign Identity**
+* [The Path to Self-Sovereign Identity](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md) 2016-04-25 Christopher Allen Popularized the concept of Self-Sovereign Identity
+  > Since then, the idea of self-sovereign identity has proliferated. Loffreto has blogged how the term has evolved13. As a developer, he shows one way to address self-sovereign identity: as a mathematical policy, where cryptography is used to protect a user’s autonomy and control. However, that’s not the only model. Respect Network instead addresses self-sovereign identity as a legal policy; they define contractual rules and principles that members of their network agree to follow14. The Windhover Principles For Digital Identity, Trust and Data15 and Everynym’s Identity System Essentials16 offer some additional perspectives on the rapid advent of self-sovereign identity since 2012.
