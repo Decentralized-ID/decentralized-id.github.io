@@ -7,7 +7,7 @@ excerpt: >
 header:
   image: /images/consensys-header.webp
   teaser: /images/consensys-teaser.webp
-categories: ["Blockchain ID","Organizations"]
+categories: ["Web 3"]
 tags: ["Ethereum","Web3","Consensys","Zug","uPort","DIF","uPortlandia","RWoT"]
 permalink: blockchain/ethereum/consensys/
 canonical_url: https://decentralized-id.com/blockchain/ethereum/consensys/

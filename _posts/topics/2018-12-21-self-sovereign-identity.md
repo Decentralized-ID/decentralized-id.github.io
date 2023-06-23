@@ -16,6 +16,9 @@ last_modified_at: 2023-06-22
 ---
 
 ## About Self Sovereign Identity
+* [The Off Chain Internet: Decentralized Identity & Verifiable Credentials - Evin McMullen](https://www.youtube.com/watch?v=EZ_Bb6j87mg) 2022-02-19 ETH Denver
+*FANTASTIC NEW TALK!!!!*
+  > i'm excited to share with you a little bit more about the web 3 beyond the chain. Public ledgers are where we hang out most of the time, but the best of web 3 is yet to be because it hasn't yet been built and embraced fully by all of us.
 * [Video] [Exploring the Decentralized Web, Episode 4: Digital Identity](https://www.youtube.com/watch?v=jm8y56KMkIw) 2022-01-05 Filecoin Foundation
   > Episode 4 explores the relationship between authentication and authorization, the rise of single sign-on platforms, and the advantages of and use cases for self-sovereign identity. Guests include Brian Behlendorf, Rainey Reitman, Danny O'Brien, Sarah Friend, Wendy Hanamura, Andrew Hill, and Brad Kam.
 * [#SSI gives its owner control over some aspects of identity, but not all](https://twitter.com/GETJolocom/status/1470791578780413953) 2021-12-14 Jolocom
@@ -26,8 +29,6 @@ last_modified_at: 2023-06-22
   > Solving the identity paradox: the tradeoff between privacy, security, & user experience
 * [Self-Sovereign Identity Crisis](https://lionsgate.io/self-sovereign-identity-crisis/) 2021-11-23 Lionsgate
   > Through deceptive marketing practices the first-movers in the Digital ID market have done-away with the sovereignty. As a result a burgeoning new industry is experiencing a Self-Sovereign Identity Crisis.
-* [Evolution of Self-Sovereign Identity (SSI)](https://lionsgate.io/evolution-of-self-sovereign-identity-ssi/) 2021-11-16 LionsGate
-  > The public keys of the user and the third-party organization for verifying the digital signature are recorded in a distributed ledger, and the user of the identity information verifies the provided information using them. In this way, users can control their own identity information without relying on a specific central administrator.
 * [Video] [Understanding the SSI Identity Model with Verifiable Credentials](https://www.youtube.com/watch?v=TRuz39SEX7E) 2021-11-13 Manning
   > Drummond Reed, an expert in Internet identity, security, privacy, and trust frameworks, explains the basic building blocks of SSI and how this new identity model fundamentally works. 
 * [What is Self Sovereign Identity](https://medium.com/coinmonks/what-is-self-sovereign-identity-a8087b2bf0ea) 2021-10-13 Florian Strauf
@@ -60,8 +61,6 @@ last_modified_at: 2023-06-22
   > Verifiable credentials, DIDs, and blockchain are evidence of what's to come: Web3, a more secure, widespread, machine-to-machine internet.
 * [Introduction to Decentralized Identity](https://wiki.iota.org/identity.rs/decentralized_identity) IOTA Wiki
   > Decentralized Identity or Self-Sovereign Identity (SSI) defines a new method for identity management and authentication. It removes the centralized aspects and puts the Identity subject in full control over its own identity. Decentralized Identity provides a solution for the increasing amount of database breaches, the lack of trust in any digital setting, and the increasingly difficult to comply with privacy legislation, such as GDPR.
-* [The Three Pillars of Self-Sovereign Identity](https://www.evernym.com/blog/the-three-pillars-of-self-sovereign-identity/) 2019-12-10 Evernym
-  > When implemented for the purpose of identity, everyone everywhere can issue, hold, and verify any credentials about anything. This means no more proprietary silos “owning” your identity. The combination of human and cryptographic trust in this environment means that you can finally get increased security and reduced friction at the same time.
 * [Self-Sovereign Identity — wiki.p2pfoundation](https://wiki.p2pfoundation.net/Self-Sovereign_Identity) 2019-11-13 P2P Foundation
   > The beauty of sovereignty isn't complete and total control, but rather balance of power that leads to negotiations about the nature of the relationships between various entities in the system." 
 ![](https://imgur.com/3zz62kpl.png)
@@ -109,14 +108,8 @@ last_modified_at: 2023-06-22
   > ![](https://pbs.twimg.com/media/EoZIgzqXIAE6mU5?format=jpg&name=large)
 * [The Implications of Bring Your Own Identity](https://www.idsalliance.org/blog/2020/12/03/the-implications-of-bring-your-own-identity/) Identity Defined Security Alliance 2020-12-03
   > My short stint as “Mark Jannell" taught me a lot of about trust and ease of use in a bring your own identity model. Trust, as always in security, is essential to this new class of relationships and must be established and then protected from abuse. Ease of use, it turns out, is a key factor in protecting that trust and promoting the adoption of good identity patterns. I’m sure that I could have learned these lessons in some other way, but I’ll never forget my half year answering to a pseudonym.
-* [The Mental Models of Identity Enabled by SSI](https://ssi-ambassador.medium.com/the-mental-models-of-identity-enabled-by-ssi-d3e2d8d0f2b6) 2020-12-03 Adrian Doerk 
-The Models: Space Time • Presentation • Attribute • Relationship • Capability
 * [What is the Trust Triangle?](https://academy.affinidi.com/what-is-the-trust-triangle-9a9caf36b321) 2021-08-23 Affinidi
   > The relationship between the issuers, holders, and verifiers is called the trust triangle simply because you need an element of trust among these entities for them to work together.
-* [The 5P’s of a Self-Sovereign Identity](https://markvanrijmenam.medium.com/the-5ps-of-a-self-sovereign-identity-e6f6eb802d75) 2019-06-05 Dr Mark van Rijmenam
-  > A self-sovereign identity can be defined by the 5P’s as it is personal (it is about you), portable (meaning you can take your identity and data from one platform to another), private (you control your identity and data), persistent (it does not change without your consent) and protected (they cannot steal your identity).
-* [LESS identity](https://medium.com/@trbouma/less-identity-65f65d87f56b) 2018-12-09 Tim Bouma
-  > I arrived at the term ‘Less Identity’ through some fun wordplay (yes, I do this stuff in my spare time). I was thinking about ‘Trust Frameworks’ and ‘Trustless Networks.’ When I factored out the common ‘Trust’, I arrived at ‘Trust[Less Networks and Frameworks].’
 * [A Primer on Functional Identity](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2017/blob/master/topics-and-advance-readings/functional-identity-primer.md) 2017-08-26 Joe Andrieu rwot05-boston
   > Unfortunately, digital systems can unwittingly compromise real-world identity. Sometimes this occurs because digital identity systems neglect to consider external effects. Other times, it happens with systems that didn’t even realize they were dealing with identity-related personal information. A functional perspective allows engineers to see beyond static attributes and traditional notions of “Personally Identifiable Information” to better understand how engineering choices can impact identity, even outside their systems.
 
@@ -147,16 +140,6 @@ The Models: Space Time • Presentation • Attribute • Relationship • Capab
 * [Digital identities – steps on the path to an ID ecosystem](https://bankenverband.de/en/digitisation/digital-identities-steps-path-id-ecosystem/) 2021-03-18 Bankenverband
 *This article is very very good in articulating the big picture of how SSI systems relative to older system and emerging fragmetned systems.*
   > An answer to these challenges is an ecosystem in which digital identity data can be exchanged in a way that is secure, reliable, scalable and convenient. This will have a positive impact on the economic future of Germany and Europe while at the same time enhancing the private sphere of the individual.
-* [The Basic Building Blocks of SSI](https://freecontent.manning.com/the-basic-building-blocks-of-ssi/) 2020-07-29 Drummond Reed, Alex Preukschat Manning
-  > In many cases these core concepts have been established for decades. What’s new is how they’re put together to create a new model for digital identity management. The purpose of this article is to quickly familiarize you with these seven basic building blocks from a conceptual and technical point-of-view.
-  > - Verifiable credentials (aka digital credentials)
-  > - Issuers, holders, and verifiers
-  > - Digital wallets
-  > - Digital agents and hubs
-  > - Decentralized identifiers (DIDs)
-  > - Blockchains
-  > - Governance frameworks (aka trust frameworks)
-
 
 [![](https://i.imgur.com/MMa72Dx.png)](https://www.researchgate.net/figure/Self-Sovereign-Identity-Locus-of-Control-Bouma-2019_fig1_340938808)
 

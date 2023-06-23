@@ -6,13 +6,15 @@ description: A selection of DID related literature and top level resources for d
 excerpt: A selection of DID related literature and top level resources for discovery of more.
 header: 
   image: /images/literature-christian-wiediger-unsplash.webp
-categories: ["Literature"]
+categories: ["Resources"]
 tags: ["Literature"]
 toc: true
 toc_sticky: false
-redirect_from: literature
-permalink: literature/
-canonical_url: 'https://decentralized-id.com/literature'
+redirect_from:
+  - literature
+  - literature/
+permalink: resources/literature/
+canonical_url: 'https://decentralized-id.com/resources/literature/'
 last_modified_at: 2023-06-19
 ---
 

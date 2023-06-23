@@ -15,7 +15,7 @@ redirect_from:
   - rebooting-web-of-trust
   - rebooting-web-of-trust/
 toc_sticky: false
-categories: ["Web Standards","Literature","Events"]
+categories: ["Resources","Events"]
 tags: ["RWoT","Bitcoin","Ethereum","DID","DPKI","Verifiable Credentials","Consensys","Blockstack","JSON-LD","Data Hubs","Self Sovereign Identity","eIDAS","Blockcerts","GDPR","PGP","Veres One","W3C","XDI","BTCR","California","DKMS","Digital Bazaar","IPID"]
 last_modified_at: 2020-10-10
 ---

@@ -1,6 +1,5 @@
 ---
-date: 2019-04-11
-title: Blockchain Identity
+title: Blockchain and Self Sovereign Identity
 description: "Why Blockchain for Identity? + Assorted Blockchain ID Initiatives"
 excerpt: "Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues such as encouraging mass data collection and user tracking. Blockchain technology has the potential to support novel data ownership and governance models with built-in control and consent mechanisms, which may benefit both users and businesses by alleviating these concerns; as a result, blockchain-based IDMSs are beginning to proliferate."
 header: 
@@ -8,8 +7,10 @@ header:
   caption: "[NIST Cybersecurity (DRAFT) Blockchain Identity Management Approaches](https://arxiv.org/pdf/1908.00929.pdf)" 
   teaser: /images/blockchain-Tumisu_3019121.webp
 layout: single
-permalink: /blockchain/
-categories: [Blockchain ID]
+permalink: /tech/blockchain/
+canonical_url: "https://decentralized-id.com/tech/blockchain/"
+redirect_from:  /blockchain/
+categories: ["Technologies"]
 tags: ["NIST","Identiverse",Authenteq,Blockstack,Civic,Microsoft,Datum,ProCivis]
 last_modified_at: 2023-06-09
 toc: true

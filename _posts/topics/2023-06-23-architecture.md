@@ -26,6 +26,15 @@ last_modified_at: 2023-06-23
   > 4. Reveals whether or not the credential has been revoked
 * [Token-Based Identity](https://www.windley.com/archives/2021/10/token-based_identity.shtml) 2021-10 Phil Windley
   > Token-based identity systems move us from talking about who, to thinking about what, so that people can operationalize their digital lives. Token-based identity systems support complex online interactions that are flexible, ad hoc, and cross-domain.
+* [The Basic Building Blocks of SSI](https://freecontent.manning.com/the-basic-building-blocks-of-ssi/) 2020-07-29 Drummond Reed, Alex Preukschat Manning
+  > In many cases these core concepts have been established for decades. What’s new is how they’re put together to create a new model for digital identity management. The purpose of this article is to quickly familiarize you with these seven basic building blocks from a conceptual and technical point-of-view.
+  > - Verifiable credentials (aka digital credentials)
+  > - Issuers, holders, and verifiers
+  > - Digital wallets
+  > - Digital agents and hubs
+  > - Decentralized identifiers (DIDs)
+  > - Blockchains
+  > - Governance frameworks (aka trust frameworks)
 * [Your User is Your API](https://www.evernym.com/blog/your-user-is-your-api/) 2021-05-17 Evernym
   > The customer becomes the integration point. The customer is the API. Rather than having one huge, expensive, and probably illegal data hub, every customer becomes a data hub in their own right. They provide the data needed, just-in-time, under their control.
 * [The Unbundling of Authentication vs Authorization - What You Need to Know](https://www.pingidentity.com/en/company/blog/posts/2021/authentication-vs-authorization.html) 2021-09-08 Ping Identity
