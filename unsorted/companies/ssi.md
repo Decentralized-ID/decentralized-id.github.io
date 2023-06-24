@@ -103,3 +103,6 @@ By producing an accessible, open-source wrapper library, Tangle Labs provides an
   > give direct input towards our product improvements and be the first choice for research recruiting opportunities.
 * [This is how GATACA achieves blockchain interoperability](https://gataca.io/blog/this-is-how-gataca-achieves-blockchain-interoperability)
   > blockchain agnosticism is possible due to our DID registry component: all incoming activity is delegated to the DID registry with specific connections to each blockchain so that the rest of our technology components do not have to participate in the process. Other components need not know where the information persists from; they delegate that special knowledge to the DID registry and continue to perform their regular activities as usual.
+* [UNISOT ID – Part 1](https://unisot.com/unisot-id/)
+  > Since identity is such a central part of society, UNISOT, through its UNISOT ID service, offers our customers control over their data. Under self-sovereign identity model users who have one or more identifiers (something that enables a subject to be discovered and identified) can present claims relating to those identifiers without having to go through an intermediary. In the following sections we will outline how SSI can change the way you interact with others on the Internet as well as in the real world.
+

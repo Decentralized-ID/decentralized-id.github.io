@@ -1,5 +1,6 @@
 # Web3 ID
 
+* [Web3 Reputation Market Map](https://kermankohli.substack.com/p/web3-reputation-market-map) Kerman Kohil
 * [3 Types of Passwordless Authentication for Web 3.0](https://medium.com/magiclabs/types-of-passwordless-authentication-for-web-3-958062e9d265) MagicLabs
   > Passwordless authentication is a fundamental shift in how people will access their tools and information online, and it will provide more security, prevent billions in losses, and create greater transparency.
 * [How Web 3.0 Will Connect Humans, Machines, and AI to Transform the World](https://indicio.tech/how-web-3-0-will-connect-humans-machines-and-ai-to-transform-the-world/)
@@ -61,6 +62,10 @@
   > Your [OScore](https://medium.com/ontologynetwork/oscore-everything-you-need-to-know-57aa88b7b96f) is based on data authorized by you and is updated to reflect changes in behavior and lending practices.
   > 
   > OScore is not associated with your off-chain identities. In other words, it respects user privacy and supports full anonymity.
+* [Seamless Web3 Identity Verification](https://medium.com/frctls/seamless-web3-identity-verification-c72ce27dcb41) Fractal
+  > Built on [Polkadot](https://polkadot.network/), Fractal Protocol is an open-source, zero-margin protocol that defines a basic standard to exchange user information in a fair and open way, ensuring a high-quality version of the free internet. In its first version, it is designed to replace the [ad cookie](https://www.cookiepro.com/knowledge/what-are-targeting-advertising-cookies/) and give users back control over their data.
+* [Announcing the Tezos Profiles Alpha Launch](https://sprucesystems.medium.com/announcing-the-tezos-profiles-alpha-launch-7e889de2f6c3)
+  > We encourage users to start creating and launching their profiles as we begin integrating Tezos Profiles support across the Tezos ecosystem. Currently, we are focused exclusively on publicly available information and accounts to avoid privacy issues.
 * [Web3Auth at one of the World’s Largest Web3 Events — ETHDenver 2022](https://medium.com/toruslabs/web3auth-at-one-of-the-worlds-largest-web3-events-ethdenver-2022-4a2180621107) Torus
   > In the three years since we’ve been active as a Web3 company, this is the second time we had the opportunity to participate in this massive gathering of some of the brightest minds in the Web3 space. What better way to open our presence at ETHDenver than to become official sponsors of the Opening Party?
 * [Ontology Builds on Polkadot to Accelerate Adoption Of Decentralized Identity Solution](https://medium.com/ontologynetwork/ontology-builds-on-polkadot-to-accelerate-adoption-of-decentralized-identity-solution-acf7b8357ee)
@@ -107,6 +112,8 @@
   > In this talk, Wayne reviews the results of support with Tezos addresses, use cases that have been deployed, Tezos DID methods and Tezos profiles. Wayne also gives an overview of the Trail of Bits audit.
 * [Wean Yourself Off Your Wallet: Web3 Needs an Identity Layer](https://www.civic.com/blog/web3-needs-an-identity-layer/) Civic
   > By incorporating the main components detailed above: DIDs, tokens and verifiable credentials, [Civic.me](http://civic.me/)  is our proof of concept for an enriched identity layer on Web3, which goes beyond simple public keys and wallets.
+* [SkillWallet raises $1.65M to build the Identity Layer of Web3](https://blog.skillwallet.id/skillwallet-raises-1-65m-to-build-the-identity-layer-of-web3-9c0490639ed9) SkillWallet
+  > On the 31st of January, 2022, we deployed SkillWallet DAO, and the first self-sovereign ID that ever existed. Soon we will be sharing more details about the DAO Mechanics and our radically transparent approach to progressive decentralization.
 * [Announcing Tezos Profiles - Own and Control Your Creator Identity](https://sprucesystems.medium.com/announcing-tezos-profiles-own-and-control-your-creator-identity-ec0eddf9706d) Spruce Systems
   > Spruce is excited to announce the upcoming launch of Tezos Profiles (TZP) in early May. TZP is a web application that helps users regain control of their digital identity for use across platforms. It allows users to create portable verified profiles by demonstrating control over their public social media and by self-attesting information. These verified profiles are then linked to Tezos acco
 * [Decentralized identities on Stacks](https://www.youtube.com/watch?v=GY113ANamz0)

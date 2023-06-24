@@ -1,92 +1,16 @@
----
-published: false
----
-
-* [Social Media Architectures and Their Consequences](https://reb00ted.org/tech/20211115-social-media-architectures-consequences/) reb00ted
-
-
-* [Web3 Reputation Market Map](https://kermankohli.substack.com/p/web3-reputation-market-map) Kerman Kohil
-
-
-
-* [SkillWallet raises $1.65M to build the Identity Layer of Web3](https://blog.skillwallet.id/skillwallet-raises-1-65m-to-build-the-identity-layer-of-web3-9c0490639ed9) SkillWallet
-  > On the 31st of January, 2022, we deployed SkillWallet DAO, and the first self-sovereign ID that ever existed. Soon we will be sharing more details about the DAO Mechanics and our radically transparent approach to progressive decentralization.
-
-* [European Union starts developing Web3 technology](https://www.techzine.eu/news/devops/72520/european-union-starts-developing-web3-technology/)
-* [Is Web3 bullshit?](https://maxread.substack.com/p/is-web3-bullshit) Max Read
-  > The only falsifiable prediction I'm willing to make is that ten years from now, Chris Dixon and the Winklevoss Twins will be much richer than me, and my quality of life will be the same, or worse.
-* [5 Mental Models for Web3](https://www.youtube.com/watch?v=jezH_7qEk50) Bankless Chris Dixon
-  > There are five essential mental models to understanding why Web3 matters, and they overlap often throughout the course of the conversation.
-
-Web3 has begun to impact all corners of digital culture, from media to finance, art and gaming, and even identity. Mental models allow for digestible thinking patterns to understand and predict the world, and Chris lays out how these new digital primitives are changing everything.
-
-
-* [Anchors and Rails of a Digital Nation](https://digitalcanada.io/forging-blockchain-ssi/) – Forging Self Sovereign Identity in the Age of the Blockchain
-* [Me2BA Sees Progress in Google’s “Pre-Announcement” for an Independently Audited Safety Section in Google Play Store](https://me2ba.org/me2ba-sees-progress-in-googles-pre-announcement-for-an-independently-audited-safety-section-in-google-play-store/)
-  > On May 6, 2021, two days after the Me2B Alliance published our report on data sharing in school utility apps, Google issued a “pre-announcement” describing major improvements to app labeling in the Android app store:
-
-* [...] ([Source](https://android-developers.googleblog.com/2021/05/new-safety-section-in-google-play-will.html)
-  > The announcement signals a serious intention to not only catch up to Apple’s privacy label, but surpass it, by introducing independent validation of the Android app privacy information.
-
-* [Announcing the Tezos Profiles Alpha Launch](https://sprucesystems.medium.com/announcing-the-tezos-profiles-alpha-launch-7e889de2f6c3)
-  > We encourage users to start creating and launching their profiles as we begin integrating Tezos Profiles support across the Tezos ecosystem. Currently, we are focused exclusively on publicly available information and accounts to avoid privacy issues.
+# Web3
 * [Digital Identity Wallet: A place for your self-sovereign identity](https://ssi-ambassador.medium.com/digital-identity-wallet-a-place-for-your-self-sovereign-identity-5dfbd3d48a74) SSI Ambassador
   > This article explains what a wallet is, how it works and how you can use it for managing your digital identity. While there are also wallets for institutions, this article only focuses on wallets for end users. The article also takes into consideration the revised eIDAS regulation including the ‘European Digital Identity Wallet’.
 * [Self-Sovereign Identity (w/ Fabian Vogelsteller & Constantin Kogan)](https://www.youtube.com/watch?v=SbTo_e3l_Lk)
   > Constantin Kogan joins Fabian Vogelsteller, Ethereum developer, LUKSO founder, creator of Mist browser, web3.js, Feindura (CMS), ERC20, and ERC-725 protocols, and author of Meteor.js.
-
-* [How Your Bank Can Custody Crypto and Remain Compliant](https://www.elliptic.co/blog/how-your-bank-can-custody-crypto-and-remain-compliant)
-  > Recent regulatory guidance has clarified that banks may serve as custodians of virtual assets. In response, the banking industry has rushed to understand how it can seize this new business opportunity, without creating an untenable amount of AML and regulatory risk
+* [Is Web3 bullshit?](https://maxread.substack.com/p/is-web3-bullshit) Max Read
+  > The only falsifiable prediction I'm willing to make is that ten years from now, Chris Dixon and the Winklevoss Twins will be much richer than me, and my quality of life will be the same, or worse.
+* [5 Mental Models for Web3](https://www.youtube.com/watch?v=jezH_7qEk50) Bankless Chris Dixon
+  > There are five essential mental models to understanding why Web3 matters, and they overlap often throughout the course of the conversation.
+  > 
+  > Web3 has begun to impact all corners of digital culture, from media to finance, art and gaming, and even identity. Mental models allow for digestible thinking patterns to understand and predict the world, and Chris lays out how these new digital primitives are changing everything.
 * [Web 2.0 vs Web 3.0 — A Bridge Between the Past and the Future](https://academy.affinidi.com/web-2-0-vs-web-3-0-a-bridge-between-the-past-and-the-future-c99668c1e2f0)
   > Web 2.0 vs Web 3.0 — A Bridge Between the Past and the Future Web 2.0 represents the Internet as we know it today and includes all the blogs, social media sites, shopping, news generation, and more! It is marked by user-generated content, interoperability across different services, usability, interactiveness, and high levels of participation.
-
-* [Seamless Web3 Identity Verification](https://medium.com/frctls/seamless-web3-identity-verification-c72ce27dcb41) Fractal
-  > Built on [Polkadot](https://polkadot.network/), Fractal Protocol is an open-source, zero-margin protocol that defines a basic standard to exchange user information in a fair and open way, ensuring a high-quality version of the free internet. In its first version, it is designed to replace the [ad cookie](https://www.cookiepro.com/knowledge/what-are-targeting-advertising-cookies/) and give users back control over their data.
-
-* [UNISOT ID – Part 1](https://unisot.com/unisot-id/)
-  > Since identity is such a central part of society, UNISOT, through its UNISOT ID service, offers our customers control over their data. Under self-sovereign identity model users who have one or more identifiers (something that enables a subject to be discovered and identified) can present claims relating to those identifiers without having to go through an intermediary. In the following sections we will outline how SSI can change the way you interact with others on the Internet as well as in the real world.
-
-### Solid - Inrupt
-
-* [TBL: Out to Remake the Digital World](https://www.nytimes.com/2021/01/10/technology/tim-berners-lee-privacy-internet.html). 2021-01-10
-  > A story appeared in the NY Times about Tim Berners-Lee’s vision for the web and Solid-Inrupt that are working towards fulfilling it. The article included a quote from Kaliya, and has stirred up an active thread on the CCG mailing list.
-
-> Others say the Solid-Inrupt technology is only part of the answer. “There is lots of work outside Tim Berners-Lee’s project that will be vital to the vision,” said Kaliya Young, co-chair of the Internet Identity Workshop, whose members focus on digital identity.
-> 
-> Mr. Berners-Lee said that his team was not inventing its own identity system, and that anything that worked could plug into its technology.
-
-* [Byline: Tim Berners-Lee wants to put people in control of their personal data.](https://lists.w3.org/Archives/Public/public-credentials/2021Jan/subject.html): Michael Herman 
-  > He has technology and a start-up pursuing that goal. Can he succeed?
-  > - Has anyone else looked at this article?
-  > - Anyone familiar with TBL’s view of Decentralized Identity?
-  > - Is there anyone from the Solid project or Inrupt a member of CCG?
-
-- A *[solid](https://lists.w3.org/Archives/Public/public-credentials/2021Jan/thread.html)* [discussion is underway](https://lists.w3.org/Archives/Public/public-credentials/2021Jan/thread.html), including this [from Kayode Ezike](https://lists.w3.org/Archives/Public/public-credentials/2021Jan/0039.html)
-  > when I developed solid-vc, I was operating mostly under the threat model of compromised cryptographic keys used to sign credentials via jsonld-signatures and a compromised Solid password.*
-  > 
-  > I don't want to bombard you all with too much information about this project in this thread, but for now I will share the [solid-vc repo](https://github.com/kezike/solid-vc) again as well as [my RWoT9 submission](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/solid-vc.md).
-
-* [12 Ways Crypto and Blockchain Tech Will Change the World (and Boost Your Bottom Line)](https://moneymorning.com/2022/04/08/12-ways-crypto-and-blockchain-tech-will-change-the-world-and-boost-your-bottom-line/) 2022-04-08
-  > No. 7: Protecting Our Personal Data
-
-Called a "self-sovereign identity," it would keep the data with the individual. People would use the Secure ID for online interactions; any data sent would be encrypted. But the key is that those online entities would not store the data themselves. So, there would be no more huge, centralized places where personal data could be stolen.
-
-* [Open-Source Ideas Reports](https://gbbcouncil.org/initiatives/open-source-ideas-series/) Global Blockchain Business Council
-
-
-
-
-## Decentralized Web
-* [The Decentralized Web: An Introduction](https://blog.archive.org/2022/02/15/the-decentralized-web-an-introduction/) Archive.org 2022-02-15
-  > Providing that baseline of knowledge is the goal of a series of six workshops called [“Imagining a Better Online World: Exploring the Decentralized Web](https://metro.org/decentralizedweb).”
-* [The Battle for the Soul of the Web](https://www.theatlantic.com/technology/archive/2022/10/internet-archive-decentralized-web-web3-brewster-kahle/671647/) The Atlantic
-  > Musings from, amongst other places, Unfinished Live and DWeb Camp all written up in the Atlantic.
-  > 
-  > Long before the NFT boom or the Web3 backlash, an unglamorous movement was under way. Where does it stand now?
-* [Prepping for DWeb Camp](https://blog.holochain.org/preparing-for-dweb-camp/) HoloChain
-  > On this theme, I’m particularly interested in one event, an attempt to [map the projects that make up the DWeb](https://gitlab.com/getdweb/dweb-camp-2022/-/issues/77) and look for opportunities for interoperability. This was a [vision](https://dwebcamp2019.sched.com/event/S4vH/building-bridges-connecting-tech-stacks-for-humane-ux) I carried with me to the last DWeb Camp, and I’m hoping to see more conversations about building bridges between networks.
-
-## Explainers
 * [How a Wikipedia editor](https://www.fastcompany.com/90733574/how-a-wikipedia-engineer-became-one-of-the-loudest-web3-skeptics) ([Molly White](https://www.fastcompany.com/90733574/how-a-wikipedia-engineer-became-one-of-the-loudest-web3-skeptics)) [became one of the loudest Web3 skeptics](https://www.fastcompany.com/90733574/how-a-wikipedia-engineer-became-one-of-the-loudest-web3-skeptics) Fast Company
   > I spoke with White via email about her views on Web3 fixtures such as DAOs (distributed autonomous organizations), cryptocurrencies, and NFTs (non-fungible tokens). Our conversation has been lightly edited for length and clarity.
 * [Web3, entangled: Holochain: a marlinspike to undo the knots](https://blog.holochain.org/web3-entangled/)
@@ -169,10 +93,3 @@ Called a "self-sovereign identity," it would keep the data with the individual. 
   > In this summary paper, we will explain the different components of decentralization, the benefits of decentralized systems, examples of how different projects have approached the process of decentralizing, and good-faith critiques of decentralization. This paper will act as a TL;DR summarizing the concept of decentralization within its current usage, while providing linked resources throughout for those interested in digging deeper into specific areas.
 * [The Web3 Decentralization Debate Is Focused on the Wrong Question](https://www.wired.com/story/web3-blockchain-decentralization-governance/) Wired
   > Fixating on the degree—rather than the type—of decentralization is leading us astray
-
-## Blockchains
-* [Ethereum Competitors: Advantages and Disadvantages](https://blog.pantherprotocol.io/ethereum-competitors-advantages-and-disadvantages/) Panther Protocol
-  > Ethereum competitors that aim for scalability (Solana, Polkadot, Near)
-  > * […]Aiming for interoperability (Cosmos, Cardano)
-  > * […]Aiming for security (MEV Mitigation) (Solana & Osmosis)
-  > * […]Aiming for privacy (Secret Network, Oasis, Panther)
