@@ -1,10 +1,8 @@
 # Web3 ID
 
 * [Web3 Reputation Market Map](https://kermankohli.substack.com/p/web3-reputation-market-map) Kerman Kohil
-* [3 Types of Passwordless Authentication for Web 3.0](https://medium.com/magiclabs/types-of-passwordless-authentication-for-web-3-958062e9d265) MagicLabs
-  > Passwordless authentication is a fundamental shift in how people will access their tools and information online, and it will provide more security, prevent billions in losses, and create greater transparency.
 * [How Web 3.0 Will Connect Humans, Machines, and AI to Transform the World](https://indicio.tech/how-web-3-0-will-connect-humans-machines-and-ai-to-transform-the-world/)
-  > MSFT Explains: [Decentralized identity: The Direct Presentation model](https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-direct-presentation-model/ba-p/3071981)
+  > MSFT Explains: [Decentralized identity: The Direct Presentation model](https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-direct-presentation-model/ba-p/3071981)\
   > The technical name for the model at work here is called the Direct Presentation model. A credential is issued, and then held for a long period of time with intermittent voluntary presentations to many different verifiers. To put that back into our example, my auto club issues me a card, which I hold in my wallet for years (maybe decades!), and I might choose to show that card to a garage when I need a tow, or possibly to a store to get a discount.
 * [Inventories, Not Identities • Why multisigs are the future of online accounts](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e) Kei Kreutler
   > Whether it’s the enforcement of legal identities, platform lock-in, or more implicit social norms, the logic of individualized identity was baked into web 2.0. With the advent of web 3.0, we have a chance to do things differently.
@@ -14,37 +12,18 @@
   > We've entered the “in it for the tech” phase.
   > 
   > Attention now shifts to builders and a heads down mentality can lead to the creation of some of the most intriguing Web3 companies to date.
-* [Introducing Sign-in with Web3 — Building a Non-Custodial World](https://medium.com/toruslabs/introducing-sign-in-with-web3-building-a-non-custodial-world-50136b3a6225) Web3Auth
-  > In a much needed multi-chain extension to Sign-in with Ethereum, users will now be able to control their digital identity with their Ethereum/ENS, Solana, and Starknet accounts instead of relying on traditional/custodial profiles.
 * [Building a Consent Management System for Web 3.0](https://academy.affinidi.com/building-a-consent-management-system-for-web-3-0-39e79b792eea) Affinidi
   > Affinidi’s consent manager has a simple architecture as it comprises only a few modules and this is what makes it easy to implement across any application stack.
-* [Citopia Self-Sovereign Digital Twins™ (#SSDTs) enable trusted identity & data autonomy in the #Web3 economy](https://www.linkedin.com/feed/update/urn:li:activity:6944682788692377600/)
 * [Decentralized Identity and Web3](https://blog.spruceid.com/decentralized-identity-and-web3/) SpruceID
   > With current technologies, we can have a user sign-in using their keys (e.g. [Sign-In with Ethereum](https://login.xyz/)), have [credentials issued](https://spruceid.dev/) to their identifier (and store them), and use capabilities to retrieve and present those credentials.
-* [Web3Auth partners with Polygon Studios to bring seamless logins to the Polygon ecosystem](https://medium.com/toruslabs/web3auth-partners-with-polygon-studios-to-bring-seamless-logins-to-the-polygon-ecosystem-fc0db139895d) Torus Labs
-  > Web3Auth aggregates OAuth (Google, Twitter, Discord) logins, different wallets, and existing key management solutions, and provides dApps/wallets a familiar experience that fits every user. Mobile, web, and blockchain agnostic, Web3Auth fits right into your application or wallet.
+* [3 Types of Passwordless Authentication for Web 3.0](https://medium.com/magiclabs/types-of-passwordless-authentication-for-web-3-958062e9d265) MagicLabs
+  > Passwordless authentication is a fundamental shift in how people will access their tools and information online, and it will provide more security, prevent billions in losses, and create greater transparency.
 * [Identity and Web3](https://auth0.com/blog/identity-and-web3/) auth0
   > A key opportunity Web3 presents in the identity space is the ability to interact with a user's blockchain data. This presents two benefits: enriching user profiles and streamlining the login process with federated logins using storage wallets.
-* [Ethereum's Identity Layer - Impact of Ethereum Presentation](https://blog.spruceid.com/presentation-ethereums-identity-layer-impact-of-ethereum/) Spruce ID
-  > We had the opportunity to present on Ethereum's Identity Layer, covering the evolution of decentralized identity, and how Ethereum presents an incredible opportunity for users to truly own and control their identity and data. Check out that talk in this post.
-* [OAuth 2.0 meets VCs + ETH](https://media.voog.com/0000/0042/0957/files/2020-OSW-SOFIE.pdf) [slides] Sophie Project
-* [Three approaches to Self-Sovereign Identity based on blockchain](https://medium.com/coinmonks/three-approaches-to-self-sovereign-identity-based-on-blockchain-301b18a49345)
-  > The third approach is, in a way, derived from the previous one, and is the one pursued by [uPort/Serto](https://www.uport.me/): the blockchain has one single registry that tracks down just the revocation of credentials,
 * [The Four Pillars of Tokenized Identity](https://www.civic.com/blog/four-pillars-of-tokenized-identity/) Civic
   > If you are considering integrating tokenized identity into your protocol, seek out a model that meets these requirements.
 * [Crafting a “no-bs” SSI platform](https://medium.com/@adityasanthanam/crafting-a-no-bs-ssi-platform-454b1d9c6f8d) Aditya Santhanarn
   > Let’s look at a few pointers that I believe make it hard for the web3 protocols to work for businesses and users in general
-* [Understanding Decentralized Identities (DIDs) and Why They Matter for Web 3.0 Mass Adoption](https://techbullion.com/understanding-decentralized-identities-dids-and-why-they-matter-for-web-3-0-mass-adoption/) TechBullion
-  > All in all, the exponential rise in cases of data breaches and hacks on Web 2.0 applications, calls for a new system that protects users data and privacy on the internet. Additionally, the rapid growth of the decentralized internet means that digital identities are becoming more important than ever as users turn to virtual worlds and metaverses in future.
-* [SSI and Music in Web 3.0](https://opulous.medium.com/self-sovereign-identity-and-music-in-web-3-0-148c058dbc30)
-  > while our primary goals of financial disintermediation and inclusion are being realized in our existing projects, a greater long-term goal remains: to return to musicians and artists the control of their own data. Music publishing companies, record labels, performance rights organizations, and other industry intermediaries have had too much power for too long.
-* [Decentralized Identifiers: Implications for Your Data, Payments and Communications](https://newsletter.impervious.ai/decentralized-identifiers-implications-for-your-data-payments-and-communications-2/) Impervious - Chase Perkins
-*Epic Content*
-  > Through the DID Specification, service endpoints and DIDComm, Impervious has interlaced DIDs with Bitcoin Lightning, IPFS, WebRTC and resilient relays to introduce a new peer-to-peer internet standard with practical applications for mitigating censorship and surveillance risk
-* [Self-Sovereign Identity: The Jewel in the Web 3.0 Crown](https://thegrowgroup.medium.com/self-sovereign-identity-the-jewel-in-the-web-3-0-crown-173c4df8e4c9) The Grow Group
-  > In sum, SSI saves time, enhances security, and returns personal data ownership to individuals, thereby lessening the power of GAFA [Google, Apple, Facebook, and Amazon].
-* [#45 - Self-Sovereign Digital Identity, Blockchain & Web3 with Charlyn Ho](https://podcasts.apple.com/us/podcast/45-self-sovereign-digital-identity-blockchain-web3/id1510232581?i=1000552163633) I ALSO Want Money
-  > Could blockchain and the decentralized web mean the end of surveillance capitalism? Maybe! In this episode, Perkins Coie partner Charlyn Ho defines digital identity, explains how blockchain empowers users to take control of their data, and shares how Web3 could dismantle Big Tech’s monopoly on Big Data - if it’s built the right way.
 * [Own and verify your personal identity for web3](https://www.authenticidlabs.xyz/) RealID Eth
   > If desired, create membership requirements based off of the attached identity (for instance, if you wanted to create an NFT collection that could only be minted by residents of New York City) without requiring users to give up their whole identity.
 * [Web 3.0 and digital identity- (In Chinese)](https://jonnyfry175.medium.com/web-3-0-and-digital-identity-in-chinese-17c0713ad3e0) Fraser Edwards via Johnny Fry
@@ -54,7 +33,30 @@
   > A game changing, blockchain based, public utility layer, which makes it simple for people and organizations to exchange verifiable, immutable, trusted self-sovereign career credentials.
 
 
+## SSI
+
+* [Self-Sovereign Identity (w/ Fabian Vogelsteller & Constantin Kogan)](https://www.youtube.com/watch?v=SbTo_e3l_Lk)
+  > Constantin Kogan joins Fabian Vogelsteller, Ethereum developer, LUKSO founder, creator of Mist browser, web3.js, Feindura (CMS), ERC20, and ERC-725 protocols, and author of Meteor.js.
+* [Podcast] [Self-Sovereign Digital Identity, Blockchain & Web3 with Charlyn Ho](https://podcasts.apple.com/us/podcast/45-self-sovereign-digital-identity-blockchain-web3/id1510232581?i=1000552163633) 2022-02-25 I also want money
+  > Could blockchain and the decentralized web mean the end of surveillance capitalism? Maybe! In this episode, Perkins Coie partner Charlyn Ho defines digital identity, explains how blockchain empowers users to take control of their data, and shares how Web3 could dismantle Big Tech’s monopoly on Big Data - if it’s built the right way.
+* [Decentralized Identifiers: Implications for Your Data, Payments and Communications](https://newsletter.impervious.ai/decentralized-identifiers-implications-for-your-data-payments-and-communications-2/) Impervious - Chase Perkins
+*Epic Content*
+  > Through the DID Specification, service endpoints and DIDComm, Impervious has interlaced DIDs with Bitcoin Lightning, IPFS, WebRTC and resilient relays to introduce a new peer-to-peer internet standard with practical applications for mitigating censorship and surveillance risk
+* [Self-Sovereign Identity: The Jewel in the Web 3.0 Crown](https://thegrowgroup.medium.com/self-sovereign-identity-the-jewel-in-the-web-3-0-crown-173c4df8e4c9) The Grow Group
+  > In sum, SSI saves time, enhances security, and returns personal data ownership to individuals, thereby lessening the power of GAFA [Google, Apple, Facebook, and Amazon].
+* [#45 - Self-Sovereign Digital Identity, Blockchain & Web3 with Charlyn Ho](https://podcasts.apple.com/us/podcast/45-self-sovereign-digital-identity-blockchain-web3/id1510232581?i=1000552163633) I ALSO Want Money
+  > Could blockchain and the decentralized web mean the end of surveillance capitalism? Maybe! In this episode, Perkins Coie partner Charlyn Ho defines digital identity, explains how blockchain empowers users to take control of their data, and shares how Web3 could dismantle Big Tech’s monopoly on Big Data - if it’s built the right way.
+* [Understanding Decentralized Identities (DIDs) and Why They Matter for Web 3.0 Mass Adoption](https://techbullion.com/understanding-decentralized-identities-dids-and-why-they-matter-for-web-3-0-mass-adoption/) TechBullion
+  > All in all, the exponential rise in cases of data breaches and hacks on Web 2.0 applications, calls for a new system that protects users data and privacy on the internet. Additionally, the rapid growth of the decentralized internet means that digital identities are becoming more important than ever as users turn to virtual worlds and metaverses in future.
+
 ## Web3 ID Projects
+* [Introducing Sign-in with Web3 — Building a Non-Custodial World](https://medium.com/toruslabs/introducing-sign-in-with-web3-building-a-non-custodial-world-50136b3a6225) Web3Auth
+  > In a much needed multi-chain extension to Sign-in with Ethereum, users will now be able to control their digital identity with their Ethereum/ENS, Solana, and Starknet accounts instead of relying on traditional/custodial profiles.
+* [Citopia Self-Sovereign Digital Twins™ (#SSDTs) enable trusted identity & data autonomy in the #Web3 economy](https://www.linkedin.com/feed/update/urn:li:activity:6944682788692377600/)
+* [Web3Auth partners with Polygon Studios to bring seamless logins to the Polygon ecosystem](https://medium.com/toruslabs/web3auth-partners-with-polygon-studios-to-bring-seamless-logins-to-the-polygon-ecosystem-fc0db139895d) Torus Labs
+  > Web3Auth aggregates OAuth (Google, Twitter, Discord) logins, different wallets, and existing key management solutions, and provides dApps/wallets a familiar experience that fits every user. Mobile, web, and blockchain agnostic, Web3Auth fits right into your application or wallet.
+* [SSI and Music in Web 3.0](https://opulous.medium.com/self-sovereign-identity-and-music-in-web-3-0-148c058dbc30) 2021-02-09 Opulous
+  > while our primary goals of financial disintermediation and inclusion are being realized in our existing projects, a greater long-term goal remains: to return to musicians and artists the control of their own data. Music publishing companies, record labels, performance rights organizations, and other industry intermediaries have had too much power for too long.
 * [A Devkit for Open Identity](https://medium.com/3box/idx-a-devkit-for-open-identity-48edc88e8e85) 3box IDX
 *This is interesting, but they are taking on a huge amount of work without an [IPR](https://en.wikipedia.org/wiki/Intellectual_property#Intellectual_property_rights) container/wrapper).*
   > Designed to be cross-platform and highly configurable, IDX is compatible with all blockchains, wallets, and a wide variety of user and application data storage options including Ceramic, Textile, OrbitDB, Filecoin, IPFS, and Secure Data Stores — so you can seamlessly integrate decentralized identity with the rest of your Web3 tech stack.
@@ -108,7 +110,7 @@
   > Give the organizations in your ecosystem a digital credential dashboard with your branding. Lower cost than building and maintaining your own dashboard.
 * [Mapping the Web3 Identity Landscape](https://mirror.xyz/dommy.eth/YsZmPZUxs4LsS-sS0APg25LJiFxOBnCibj2gzXFX98c) Dommy.eth
   > Now, when it comes to defining and verifying identity, a few distinct approaches pop up [Transactional Identity, Personal Identity, Collateralized Identity, Social Identity, Reputational Identity, Data Identity, Credentialing Services, Authentication]
-* [Nomadic Labs Research Seminars #20 | Self-Sovereign Identity and Storage](https://www.youtube.com/watch?v=HombbTvvets)
+* [Nomadic Labs Research Seminars #20 - Self-Sovereign Identity and Storage](https://www.youtube.com/watch?v=HombbTvvets)
   > In this talk, Wayne reviews the results of support with Tezos addresses, use cases that have been deployed, Tezos DID methods and Tezos profiles. Wayne also gives an overview of the Trail of Bits audit.
 * [Wean Yourself Off Your Wallet: Web3 Needs an Identity Layer](https://www.civic.com/blog/web3-needs-an-identity-layer/) Civic
   > By incorporating the main components detailed above: DIDs, tokens and verifiable credentials, [Civic.me](http://civic.me/)  is our proof of concept for an enriched identity layer on Web3, which goes beyond simple public keys and wallets.

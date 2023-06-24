@@ -107,7 +107,7 @@ https://www.idcommons.org/working-groups/vendor-relationship-management/
 
 ## Gain
 
-* [Panel | Bringing the Global Assured Identity Network (GAIN) to Reality](https://www.kuppingercole.com/watch/eic2021-panel-gain-to-reality)
+* [Panel - Bringing the Global Assured Identity Network (GAIN) to Reality](https://www.kuppingercole.com/watch/eic2021-panel-gain-to-reality)
 
 These may seem off-topic but Bill Wendell has been engaged with the VRM and IIW community for well over a decade - He has some great ideas on how to reform/transform the real-estate industry with ideas/models our community has been discussing. If you are looking for an opportunity to collaborate and build something transformative I would reach out to him.
 

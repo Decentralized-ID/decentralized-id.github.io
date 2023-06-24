@@ -172,7 +172,7 @@ The Object Management Group is exploring potential issues and opportunities for 
 - Updates on new products and standards like FIDO that can make authentication both more secure and easier to use for industry and government alike
 - Discussions on what can be done to drive better identity in America
 
-* [NGI Forward Salon: Digital Sovereignty in eID-Solutions | Part 1](https://www.ngi.eu/event/ngi-forward-salon-digital-sovereignty-in-eid-solutions-part-1/)
+* [NGI Forward Salon: Digital Sovereignty in eID-Solutions - Part 1](https://www.ngi.eu/event/ngi-forward-salon-digital-sovereignty-in-eid-solutions-part-1/)
 
 * [February 11, 2021 @ 4:30 pm – 6:00 pm CET](https://app.livestorm.co/made-group/salon-digital-sovereignty-in-eid-solutions-self-sovereign-centralised-or-privatised)
   > German administration is under time pressure due to the implementation requirement of the (Online Access Act) OZG by the end of 2022. Without authenticated citizen accounts that individuals can use to log in to the electronic administration, fully digitized communication between the administration and citizens or companies is impossible. The rollout of OZG services is therefore directly linked to the rollout of digital identities. In a European electronic government network (Single Digital Gateway), interoperable solutions not only make economic sense, but are also a legal requirement.
@@ -585,7 +585,7 @@ Could blockchain enabled self-sovereign identification be a game changer in ever
 
 Self-issued OpenID Provider (SIOP) Update Kristina Yasuda – Microsoft
 
-* [NL Research Seminars | Self-Sovereign Identity and Storage](https://www.linkedin.com/events/nlresearchseminars-self-soverei6859504915883012096/) Nomadic Labs Nov 2
+* [NL Research Seminars - Self-Sovereign Identity and Storage](https://www.linkedin.com/events/nlresearchseminars-self-soverei6859504915883012096/) Nomadic Labs Nov 2
 
 The Nomadic Labs Research Seminars series is dedicated to promoting and discussing the extensive list of Tezos research and development projects.
 

@@ -44,7 +44,7 @@ When you create your metaverse avatar, who owns it? Is it yours, or does the pla
 When comparing Meta — [formerly Facebook](https://venturebeat.com/2021/10/28/facebook-stops-just-short-of-rebranding-to-the-web/) — and Microsoft’s approaches to the metaverse, it’s clear Microsoft has a much more grounded and realistic vision. Although Meta currently leads in the provision of virtual reality (VR) devices (through its ownership of what was previously called Oculus), Microsoft is adapting technologies that are currently more widely used. 2021-10-28
 
 * [The metaverse is coming for your biometric and health data](https://disruptive.asia/metaverse-biometric-and-health-data-digital-rights%ef%bf%bc/) Disruptive Asia
-* [The Social Web3 | Protocols for a Digital Society | POAP, Lens Protocol, Disco.XYZ](http://podcast.banklesshq.com/the-social-web3-protocols-for-a-digital-society-poap-lens-protocol-discoxyz) Bankless
+* [The Social Web3 | Protocols for a Digital Society - POAP, Lens Protocol, Disco.XYZ](http://podcast.banklesshq.com/the-social-web3-protocols-for-a-digital-society-poap-lens-protocol-discoxyz) Bankless
 
 Web3 social media? Decentralized identity? Digital society in the metaverse? On this episode, we unpack the future social world in the metaverse and the protocols that will help shape it.
 

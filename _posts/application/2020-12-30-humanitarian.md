@@ -19,7 +19,7 @@ published: true
 
 ## Explainer
 
-* [Fixing Aid | Can blockchain help fix the I.D. problem for a billion people?](https://www.thenewhumanitarian.org/podcast/2022/03/31/Fixing-Aid-can-blockchain-help-fix-the-ID-problem-for-a-billion-people) 2022-03-31 The New Humanitarian
+* [Fixing Aid - Can blockchain help fix the I.D. problem for a billion people?](https://www.thenewhumanitarian.org/podcast/2022/03/31/Fixing-Aid-can-blockchain-help-fix-the-ID-problem-for-a-billion-people) 2022-03-31 The New Humanitarian
   > When forced to flee your home from one moment to the next, grabbing birth certificates, school diplomas, and other papers that prove you are who you say you are might not be the first thing that comes to mind. And without those credentials, everything is more difficult when it comes to starting a new life or picking up the pieces of an old one: applying for asylum, applying for a job, or registering to receive aid and other kinds of support.
 * [Ukraine: Why centralized Identity systems can cause a problem](https://www.linkedin.com/pulse/ukraine-why-centralized-identity-systems-can-cause-problem-freitag/) 2022-02-25 Andreas Freitag
   > Let's imagine a country that has a modern digital identity infrastructure. Citizens can use it to identify themselves online and offline, communicate with authorities online, they can quickly log into private services and websites and any documents can be created and digitally signed.

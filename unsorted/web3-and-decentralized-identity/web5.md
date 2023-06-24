@@ -37,7 +37,7 @@ Web 5 is based on four primary technological pillars in order to realize the goa
 - Self-Sovereign Identity Service (SSIS)
 
 
-* [What is Web5? | TBD](https://developer.tbd.website/blog/what-is-web5/)
+* [What is Web5? - TBD](https://developer.tbd.website/blog/what-is-web5/)
 
 
 * [How to get started learning web5](https://www.nathangould.com/posts/how-to-get-started-learning-web5/) Nathan Gould

@@ -355,7 +355,7 @@ Implement the pallets based on Substrate
 
 
 
-* [Technical Writer | Digital ID & Authentication Council of Canada](https://diacc.ca/2022/08/08/diacc-technical-writer/) DIACC 2022-08-08
+* [Technical Writer - Digital ID & Authentication Council of Canada](https://diacc.ca/2022/08/08/diacc-technical-writer/) DIACC 2022-08-08
 
 The Digital Identification & Authentication Council of Canada (DIACC) is seeking a Technical Writer to support the DIACC [Pan-Canadian Trust Framework](https://diacc.ca/trust-framework/) (PCTF). This is a 20-30 hours per week remote position with the potential to grow into a full-time role and can be performed from anywhere. This position is intended to be ongoing (long-term) in support of the development and maintenance life cycle of the PCTF.
 

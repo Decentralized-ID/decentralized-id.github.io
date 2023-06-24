@@ -32,6 +32,8 @@ toc_sticky: true
 
 ## General
 * [curated list] [Peacekeeper's Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity) 2021-11-23
+* [Three approaches to Self-Sovereign Identity based on blockchain](https://medium.com/coinmonks/three-approaches-to-self-sovereign-identity-based-on-blockchain-301b18a49345) 2021-10-20 Rosario De Chiara Coinmonks
+  > The third approach is, in a way, derived from the previous one, and is the one pursued by [uPort/Serto](https://www.uport.me/): the blockchain has one single registry that tracks down just the revocation of credentials,
 * [Identity Blockchains and Energy Consumption](https://indicio.tech/identity-blockchains-and-energy-consumption/) 2021-10-19 Indicio
   A decentralized network using a blockchain-based distributed ledger means you can use [Peer DIDs](https://identity.foundation/peer-did-method-spec/) to move most “transactions” and their cryptographic proofing off ledger. This means that for those peer-to-peer interactions, identity blockchains don’t need to do any ledger transactions at all.
 * [Legitimacy and Decentralized Systems](https://www.windley.com/archives/2021/04/legitimacy_and_decentralized_systems.shtml) 2021-04 Windley

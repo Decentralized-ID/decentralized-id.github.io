@@ -22,7 +22,7 @@ By introducing decentralization, there is an opportunity for dApp developers to 
 
 Decentralization is a commonly misunderstood concept. For example, it is sometimes said that the reason cryptonetwork advocates favor decentralization is to resist government censorship, or because of libertarian political views. These are not the main reasons decentralization is important.
 
-* [A Unified Theory of Decentralization | by 𝔡𝔴𝔥 | The Startup](https://medium.com/swlh/a-unified-theory-of-decentralization-151d6f39e38?sk=b2a71917dcb5ce948196887c7ff48fde)
+* [A Unified Theory of Decentralization | by 𝔡𝔴𝔥 - The Startup](https://medium.com/swlh/a-unified-theory-of-decentralization-151d6f39e38?sk=b2a71917dcb5ce948196887c7ff48fde)
 
 It is common to [hear people say that “decentralized” describes what a distributed system is](https://medium.com/@jaygraber/decentralized-social-networks-e5a7a2603f53) [not](https://medium.com/@jaygraber/decentralized-social-networks-e5a7a2603f53) [instead of what it is](https://medium.com/@jaygraber/decentralized-social-networks-e5a7a2603f53). However, when using the word “decentralized” they typically mean something more than just the organization of the network. To them it implies a partitioning of the services, governance, and overall power structure to prevent any one entity, or user, from controlling others in the system. It then follows that a fully decentralized system — among many other things — atomizes the power structure to the smallest possible unit and distributes it out to the edges where it is under direct user control.
 

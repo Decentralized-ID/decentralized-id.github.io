@@ -171,7 +171,7 @@ The global market for identity and access management was $9.53 billion USD in 20
 
 Decentralized Identity has gone international! In this week’s GIMS, we’ll talk about some of the most exciting projects and some of the lessons learned from around the globe.
 
-* [Decentralized Identity Market See Huge Growth for New Normal | Microsoft, Accenture, Persistent](https://www.digitaljournal.com/pr/decentralized-identity-market-see-huge-growth-for-new-normal-microsoft-accenture-persistent) Digital Journal
+* [Decentralized Identity Market See Huge Growth for New Normal - Microsoft, Accenture, Persistent](https://www.digitaljournal.com/pr/decentralized-identity-market-see-huge-growth-for-new-normal-microsoft-accenture-persistent) Digital Journal
 
 Chapter 2 Global Economic Impact on Industry
 

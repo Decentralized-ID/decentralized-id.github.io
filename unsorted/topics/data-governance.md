@@ -170,7 +170,7 @@ No blockchain fulfills all those requirements and some none at all. And this is 
 
 This was a session to discuss the topics I brought up in my article on the authentic data economy:
 
-* [The Authentic Data Economy. Universal Digital Trust at Global Scale | by 𝔡𝔴𝔥 | Medium](https://dwhuseby.medium.com/the-authentic-data-economy-9802da67e1fa)
+* [The Authentic Data Economy. Universal Digital Trust at Global Scale | by 𝔡𝔴𝔥 - Medium](https://dwhuseby.medium.com/the-authentic-data-economy-9802da67e1fa)
 
 With each successive wave of computerization the new innovations built on the last. Each one taking more of human-scale processes and shrinking them down and putting them into computers and eventually online. The authentic data economy isn’t any different. It leverages data collection and networking and personal computing advances. It makes our data ours and authentic. It builds on all of the previous work done by countless engineers and inventors and dreamers. However, by being the last big problem it represents the final piece that brings together everything that came before it. The scope of the authentic data economy is literally everything in the human sphere. There is nothing that this won’t change. Trust will go everywhere and into everything. But most importantly, so will privacy.
 
@@ -220,7 +220,7 @@ Linking data together is about machine readability. Involved humans… need to u
 
 * [Making The Intention Economy happen](https://iiw.idcommons.net/3E/_Making_The_Intention_Economy_happen) by Doc Searls (& Customer Commons)
 
-* [The Intention Economy: When Customers Take Charge | Berkman Klein Center](https://cyber.harvard.edu/events/2012/05/searls)
+* [The Intention Economy: When Customers Take Charge - Berkman Klein Center](https://cyber.harvard.edu/events/2012/05/searls)
 
 * [https://wiki.p2pfoundation.net/Intention_Economy](https://wiki.p2pfoundation.net/Intention_Economy)
 
