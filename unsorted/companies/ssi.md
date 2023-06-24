@@ -101,3 +101,5 @@ By producing an accessible, open-source wrapper library, Tangle Labs provides an
   > - Set up hosted authentication with Okta and try it out
 * [Introducing the Auth0 Research Program](https://auth0.com/blog/introducing-the-auth0-research-program/) auth0
   > give direct input towards our product improvements and be the first choice for research recruiting opportunities.
+* [This is how GATACA achieves blockchain interoperability](https://gataca.io/blog/this-is-how-gataca-achieves-blockchain-interoperability)
+  > blockchain agnosticism is possible due to our DID registry component: all incoming activity is delegated to the DID registry with specific connections to each blockchain so that the rest of our technology components do not have to participate in the process. Other components need not know where the information persists from; they delegate that special knowledge to the DID registry and continue to perform their regular activities as usual.

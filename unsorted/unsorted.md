@@ -2,6 +2,7 @@
 published: false
 ---
 
+https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw
 
 >[SSI Meetup](https://ssimeetup.org) is an open, collaborative community to help SSI evangelists around the world, independent of company interests or standards. Our main mission is to help you connect with other SSI enthusiasts and create a dynamic, local, yet globally connected community.
 

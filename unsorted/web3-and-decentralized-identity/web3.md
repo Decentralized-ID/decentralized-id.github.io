@@ -1,133 +1,13 @@
 ---
 published: false
 ---
-* [What is Web3 and Why It Matters](https://dionhinchcliffe.com/2022/01/11/what-is-web3-and-why-it-matters/) Dion Hinchcliffe 2022-01-11
-* [OpenSea, Web3, and Aggregation Theory](https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/) Stratechery
-  > what gives Aggregators their power is not their control of supply: they are not the only way to find websites, or to post your opinions online; rather, it is their control of demand. People are used to Google, or it is the default, so sites and advertisers don’t want to spend their time and money on alternatives; people want other people to see what they have to say, so they don’t want to risk writing a blog that no one reads, or spending time on a social network that because it lacks the network has no sense of social.
 
-* [Web3 and Digital Embodiment](https://www.windley.com/archives/2022/01/web3_and_digital_embodiment.shtml) Phil Windley
-  > Web3 will make a difference for all of us if it enables people to become digitally embodied, able to recognize, remember, and react to other people and organizations online—without the need to be in someone else's database.
-
-* [Video of elastos Demo of Web 3](https://twitter.com/DonaldBullers/status/1481282198061912067) @DonaldBullers
-  > Easy identity wallet creation [@Web3Essentials](https://twitter.com/Web3Essentials)
-
-Instant login to web3 social [@tryProfile](https://twitter.com/tryProfile)
-
-Your ID, your data storage [@ElastosInfo](https://twitter.com/ElastosInfo)
-
-Nice one [@everlastingOS](https://twitter.com/everlastingOS)
-
-* [Web 3.0 - How to get started!](https://www.youtube.com/watch?v=JckzkPAXdhU)
-  > What is Web3Auth???
-
-
-
-
-# Web 3
-* [Forensic Investigative Report: Sanctioned Blockchain Addresses](https://www.coinfirm.com/blog/sanctioned-blockchain-addresses/) Coinfirm
-
-* [Forensic Investigative Report: Terrorism Financing Blockchain Addresses](https://www.coinfirm.com/blog/terrorism-financing-blockchain-addresses/) Coinfirm
-
-### 3Box
-3box IDX: [A Devkit for Open Identity](https://medium.com/3box/idx-a-devkit-for-open-identity-48edc88e8e85)  *(From Kaliya, this is interesting, but they are taking on a huge amount of work without an [IPR](https://en.wikipedia.org/wiki/Intellectual_property#Intellectual_property_rights) container/wrapper).*
-  > Designed to be cross-platform and highly configurable, IDX is compatible with all blockchains, wallets, and a wide variety of user and application data storage options including Ceramic, Textile, OrbitDB, Filecoin, IPFS, and Secure Data Stores — so you can seamlessly integrate decentralized identity with the rest of your Web3 tech stack.
-
-* [The 3 parts of identity in a dynamic world](https://medium.com/3box/the-3-parts-of-identity-in-a-dynamic-world-f94724c2bae9)
-  > At 3Box we live and breathe identity, and while GDPR and data abuses like Facebook’s may be concerning, they have also brought some welcome attention to the issues of digital privacy and data control.
-
-## Holochain
-* [Elemental Chat - 1st Holochain P2P App for Hosts](https://medium.com/h-o-l-o/title-elemental-chat-the-first-holochain-p2p-app-released-for-hosts-3e9f44bdcaca)
-  > Elemental Chat running on HoloPorts has no central database. Each person who is running the app signs their messages to their own chain and then automatically posts them to the shared database that is hosted by the other users of the application.
-
-* [The idea of Self-sovereign identity, Decentralized Identifiers, and MetaVisa](https://medium.com/@metavisaofficial/the-idea-of-self-sovereign-identity-decentralized-identifiers-and-metavisa-41bac6f8e11b) MetaVisa
-  > Importantly, the verifier and the issuer never actually interact directly. They only ever compare notes in the ledger. The process only begins when you kick start it, reveals only the information you want to reveal, and doesn’t require an all-powerful centralized authority holding all the private keys to work.
 * [Social Media Architectures and Their Consequences](https://reb00ted.org/tech/20211115-social-media-architectures-consequences/) reb00ted
 
-* [Self Sovereign e-ID Schemes & Privacy Challenges](https://www.youtube.com/watch?v=1vgNzSDn554) Crypto Valley Conference 2021
-
-Kurt Nielsen & Nagib Aouini from Partisia Blockchain
-
-* [Why ENS does not spell END for DID](https://medium.com/ontologynetwork/why-ens-does-not-spell-end-for-did-1d2ef9f197c) Ontology
-  > Broadly speaking, ENS domain names also belong to a kind of decentralized identifier. The identity of the domain name is formed by a collection of attributes, identified by a certain domain name. As a domain name system, ENS conforms to the three characteristics of the Zooko triangle, namely security, decentralization, and human readability.
-
-* [Web3 brings the Digital Sovereignty back to the User thanks to Blockchain](https://knowledge.wealize.digital/en/blog/blog/web3-digital-sovereignty-blockchain) Wealize
-  > Web 3.0 encourages users participation and restore the control over their digital identity and assets
-
-
-* [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html) 2022-01-07 Moxie Marlinspike 
-*This guy gets it ^^^^^*
-  > Given the history of why web1 became web2, what seems strange to me about web3 is that technologies like ethereum have been built with many of the same implicit trappings as web1.\
-  > […]\
-  > Personally, I think enough money has been made at this point that there are enough faucets to keep it going, and this won’t just be a blip. If that’s the case, it seems worth thinking about how to avoid web3 being web2x2 (web2 but with even less privacy) with some urgency.
-
-* [Defining the web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack) Edge & Node
-  > This post will be a living document that I keep up with as I learn, experiment, and gather feedback from developers building in web3.
-
-* [3 Types of Passwordless Authentication for Web 3.0](https://medium.com/magiclabs/types-of-passwordless-authentication-for-web-3-958062e9d265) MagicLabs
-  > Passwordless authentication is a fundamental shift in how people will access their tools and information online, and it will provide more security, prevent billions in losses, and create greater transparency.
-
-
-
-* [Web3, Coherence, and Platform Sovereignty](https://www.windley.com/archives/2022/01/web3_coherence_and_platform_sovereignty.shtml) Phil Windley
-  > In [The crypto-communists behind the Web3 revolution](https://www.protocol.com/fintech/crypto-communists), Benjamin Pimentel argues that "The future of decentralized finance echoes a decidedly Marxist vision of the future." He references various Silicon Valley icons like Jack Dorsey, Marc Andreessen, Elon Musk, and others, comparing their statements on Web3 and crypto with the ideology of communism.
-
-
-* [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html) 2022-01-07
-  > … to have aspects that have relevance to the DID/VC work.
-
-* [Re: Web3 First Impressions by Moxie Marlinspike (was: Re: Ideals meet Implementations - Blockchains, NFTs, Decentralization, Oh My!)](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0202.html) 1/25 Juan Caballero
-  > I recently read a twitter thread by an academic who abandoned a book-length monograph on O'Reilly, with multiple chapters on the vicissitudes of what O'Reilly kept trying to make Web 2.0 "mean" and what it ended up meaning after billions of dollars of VC and a decade-long hype cycle's worth of marketing and spin had been applied to it. Web3 is likely to be an even bigger, uglier, stupid semantic tug-of-war for some time\
-  > [...]\
-  > Anyways, I hope we can keep the CCG list a DMZ in this rapidly-escalating culture war, before "Web3" becomes the next "Critical Race Studies" or "Satanic Panic".
-* [Criminals Rake in at Least $100k in Bitcoin for Fake Covid Vaccine Passes](https://www.elliptic.co/blog/criminals-rake-in-at-least-100k-in-bitcoin-for-fake-covid-vaccine-passes) Elliptic
-  > Scores of illicit vendors are capitalising on vaccine scepticism in Europe and North America by selling counterfeit Covid-19 vaccination and test certificates for Bitcoin.
-
-* [How Web 3.0 Will Connect Humans, Machines, and AI to Transform the World](https://indicio.tech/how-web-3-0-will-connect-humans-machines-and-ai-to-transform-the-world/)
-  > MSFT Explains: [Decentralized identity: The Direct Presentation model](https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-direct-presentation-model/ba-p/3071981)
-
-When we use identity-related credentials in the real world, they often have different properties than digital credentials. There are two separate ceremonies in most cases: issuance and presentation. If you have spent any time at a department of motor vehicles or a passport office, you’ve seen what an issuance ceremony can be – it is usually an intensive process, but the tradeoff is that once you have a credential like a driver’s license or passport, you can use that credential for multiple purposes, at multiple places, over a long period of time.
-
-The technical name for the model at work here is called the Direct Presentation model. A credential is issued, and then held for a long period of time with intermittent voluntary presentations to many different verifiers. To put that back into our example, my auto club issues me a card, which I hold in my wallet for years (maybe decades!), and I might choose to show that card to a garage when I need a tow, or possibly to a store to get a discount.
-
-Tweets with Annoucements:
-
-* [Web3, entangled: Holochain: a marlinspike to undo the knots](https://blog.holochain.org/web3-entangled/)
-  > Moxie argues that protocols evolve slowly, while platforms evolve quickly. That’s because a platform can make decisions without waiting for a whole crowd of others to reach consensus. But here’s the thing — some protocols don’t need to evolve quickly. As long as a ‘base protocol’ is versatile enough to let people create and express things in an unlimited range of fit-for-purpose application protocols, it can be as stale and boring as it likes. And it’s precisely the decentralisation, versatility, and stability of these base protocols — HTTP, email, and yes, Bitcoin and Ethereum — that allow platforms to innovate so quickly on top of them.
-
-* [The Third Web](https://tante.cc/2021/12/17/the-third-web/) 2021-12-17
-  > A good explanation and good critique of Web3
-
-* [Web3: Self-Sovereign Authority and Self-Certifying Protocols](https://www.windley.com/archives/2022/02/web3_self-sovereign_authority_and_self-certifying_protocols.shtml) Phil Windley
-
-* [What is Web3? Here Are Some Ways To Explain It To A Friend](https://consensys.net/blog/blockchain-explained/what-is-web3-here-are-some-ways-to-explain-it-to-a-friend/) Consensys
-* [Framing and Self-Sovereignty in Web3](https://www.windley.com/archives/2022/02/framing_and_self-sovereignty_in_web3.shtml) Windley
-  > The tools people have to participate in these territories, browsers and password managers, let us visit those territories, but we ourselves cannot be visited. We cannot act. Online relationships (client-server) are inherently asymmetric and the power accrues to those who define the territory.
-
-* [Cryptocurrencies: A Necessary Scam?](https://mattstoller.substack.com/p/cryptocurrencies-a-necessary-scam?s=r) Matt Stoller
-  > Both financial crisis reformers and Bitcoin proponents believe that the existing financial order is a collusive arrangement between large banks who are supported by government power…. Societies and social contracts are built on cooperative mechanisms, but also barriers and enforceable rules.
-
-The amount of utopian bullshit and fake promises on a technology that doesn’t really work as anything but a speculative bubble and money laundering device should be a big red flag. Crypto is a movement based on the theory that the existing nation-state is a system rigged by billionaires, and the right response is to create a different and more corrupt order rigged by different billionaires, money launderers, and [dictators](https://news.bitcoin.com/george-soros-bitcoin-propped-up-by-dictators/).
-
-* [Velocity Network Foundation successfully launches Velocity Network Mainnet : Internet of Careers](https://www.velocitynetwork.foundation/velocity-network-foundation-has-announced-its-successful-launch-of-velocity-network-mainnet-internet-of-careers)
-  > Still not excited about tokenization of credential exchange. (Kaliya)
-
-A game changing, blockchain based, public utility layer, which makes it simple for people and organizations to exchange verifiable, immutable, trusted self-sovereign career credentials.
-
-* [Web3Auth at one of the World’s Largest Web3 Events — ETHDenver 2022](https://medium.com/toruslabs/web3auth-at-one-of-the-worlds-largest-web3-events-ethdenver-2022-4a2180621107) Torus
-  > In the three years since we’ve been active as a Web3 company, this is the second time we had the opportunity to participate in this massive gathering of some of the brightest minds in the Web3 space. What better way to open our presence at ETHDenver than to become official sponsors of the Opening Party?
-
-
-* [Web3: Self-Sovereign Authority and Self-Certifying Protocols](https://www.windley.com/archives/2022/02/web3_self-sovereign_authority_and_self-certifying_protocols.shtml) Windley
-  > When we dine at a restaurant in the physical world, we do not do so within some administrative system. Rather, as embodied agents, we operationalize our relationships by acting for ourselves. Web3, if built correctly, can help people to act as full-fledged participants in the digital realm.
 
 * [Web3 Reputation Market Map](https://kermankohli.substack.com/p/web3-reputation-market-map) Kerman Kohil
 
-* [Self-Sovereign Identity: The Jewel in the Web 3.0 Crown](https://thegrowgroup.medium.com/self-sovereign-identity-the-jewel-in-the-web-3-0-crown-173c4df8e4c9) The Grow Group
 
-In sum, SSI saves time, enhances security, and returns personal data ownership to individuals, thereby lessening the power of GAFA [Google, Apple, Facebook, and Amazon].
-
-* [The Decentralized Web: An Introduction](https://blog.archive.org/2022/02/15/the-decentralized-web-an-introduction/) Archive.org 2022-02-15
-  > Providing that baseline of knowledge is the goal of a series of six workshops called [“Imagining a Better Online World: Exploring the Decentralized Web](https://metro.org/decentralizedweb).”
 
 * [SkillWallet raises $1.65M to build the Identity Layer of Web3](https://blog.skillwallet.id/skillwallet-raises-1-65m-to-build-the-identity-layer-of-web3-9c0490639ed9) SkillWallet
   > On the 31st of January, 2022, we deployed SkillWallet DAO, and the first self-sovereign ID that ever existed. Soon we will be sharing more details about the DAO Mechanics and our radically transparent approach to progressive decentralization.
@@ -163,31 +43,8 @@ Web3 has begun to impact all corners of digital culture, from media to finance, 
 * [Seamless Web3 Identity Verification](https://medium.com/frctls/seamless-web3-identity-verification-c72ce27dcb41) Fractal
   > Built on [Polkadot](https://polkadot.network/), Fractal Protocol is an open-source, zero-margin protocol that defines a basic standard to exchange user information in a fair and open way, ensuring a high-quality version of the free internet. In its first version, it is designed to replace the [ad cookie](https://www.cookiepro.com/knowledge/what-are-targeting-advertising-cookies/) and give users back control over their data.
 
-* [Inventories, Not Identities • Why multisigs are the future of online accounts](https://blog.gnosis.pm/inventories-not-identities-7da9a4ec5a3e) Kei Kreutler
-  > Whether it’s the enforcement of legal identities, platform lock-in, or more implicit social norms, the logic of individualized identity was baked into web 2.0. With the advent of web 3.0, we have a chance to do things differently.
-
-* [Self-Sovereign Identity, smart contracts and Web 3.0](https://hackernoon.com/self-sovereign-identity-smart-contracts-and-web-30-4dm375d) Hackernoon
-  > Public blockchain and smart contracts are a convenient and viable cloud for security-critical information and allow to implement more complex schemes. For example, your service requires that the user's identity be confirmed by some external KYC provider, or there must be an always available master public key to distribute software updates in the network (relevant for IoT).
-
-* [OScore](https://www.ocredit.io/) is an independent on-chain reputation system, generated using on-chain data including your ONT ID, engagements, assets, and credentials.
-  > Your [OScore](https://medium.com/ontologynetwork/oscore-everything-you-need-to-know-57aa88b7b96f) is based on data authorized by you and is updated to reflect changes in behavior and lending practices.
-  > 
-  > OScore is not associated with your off-chain identities. In other words, it respects user privacy and supports full anonymity.
-
-* [On the thermodynamics of Bitcoin, Dogecoin, Ethereum, and Holochain](https://blog.holochain.org/satoshi-nakamoto-and-the-fate-of-our-planet-2/)
-  > Holochain makes a bold claim: Consensus is unnecessary for most of the things blockchain is interested in doing.
-
 * [UNISOT ID – Part 1](https://unisot.com/unisot-id/)
   > Since identity is such a central part of society, UNISOT, through its UNISOT ID service, offers our customers control over their data. Under self-sovereign identity model users who have one or more identifiers (something that enables a subject to be discovered and identified) can present claims relating to those identifiers without having to go through an intermediary. In the following sections we will outline how SSI can change the way you interact with others on the Internet as well as in the real world.
-
-* [Λntonio Nardella @antonionardella](https://twitter.com/antonionardella/status/1388123413559062528)
-  > I don't know about Discord, but in my opinion a [#decentralized [self sovereign identity solution would make a great addition](https://github.com/matrix-org/sydent) to the identity server of [@matrixdotorg](https://twitter.com/matrixdotorg)
-
-* [https://github.com/matrix-org/sydent](https://github.com/matrix-org/sydent)
-
-* [Ontology Builds on Polkadot to Accelerate Adoption Of Decentralized Identity Solution](https://medium.com/ontologynetwork/ontology-builds-on-polkadot-to-accelerate-adoption-of-decentralized-identity-solution-acf7b8357ee)
-
-Ontology is bringing Ont ID to Polkadot users, as part of an initiative to bringing OScore, their DID based credit scoring solution, to their own Polkadot parachain.
 
 ### Solid - Inrupt
 
@@ -209,161 +66,19 @@ Ontology is bringing Ont ID to Polkadot users, as part of an initiative to bring
   > 
   > I don't want to bombard you all with too much information about this project in this thread, but for now I will share the [solid-vc repo](https://github.com/kezike/solid-vc) again as well as [my RWoT9 submission](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/solid-vc.md).
 
-* [SSI and Music in Web 3.0](https://opulous.medium.com/self-sovereign-identity-and-music-in-web-3-0-148c058dbc30)
-  > while our primary goals of financial disintermediation and inclusion are being realized in our existing projects, a greater long-term goal remains: to return to musicians and artists the control of their own data. Music publishing companies, record labels, performance rights organizations, and other industry intermediaries have had too much power for too long.
-
-* [Decentralized Identifiers: Implications for Your Data, Payments and Communications](https://newsletter.impervious.ai/decentralized-identifiers-implications-for-your-data-payments-and-communications-2/) Impervious - Chase Perkins
-*Epic Content*
-  > Through the DID Specification, service endpoints and DIDComm, Impervious has interlaced DIDs with Bitcoin Lightning, IPFS, WebRTC and resilient relays to introduce a new peer-to-peer internet standard with practical applications for mitigating censorship and surveillance risk
-
-* [#45 - Self-Sovereign Digital Identity, Blockchain & Web3 with Charlyn Ho](https://podcasts.apple.com/us/podcast/45-self-sovereign-digital-identity-blockchain-web3/id1510232581?i=1000552163633) I ALSO Want Money
-  > Could blockchain and the decentralized web mean the end of surveillance capitalism? Maybe! In this episode, Perkins Coie partner Charlyn Ho defines digital identity, explains how blockchain empowers users to take control of their data, and shares how Web3 could dismantle Big Tech’s monopoly on Big Data - if it’s built the right way.
-
-* [Own and verify your personal identity for web3](https://www.authenticidlabs.xyz/) RealID Eth
-  > 1. With one line of code verify realid.eth wallet addresses.
-
-const result = await provider.resolveName(`${address}.realid.eth`);
-
-if(parseInt(address, 16) === parseInt(result, 16)) {
-
-// address has Real ID
-
-}
-
-2. Guard against Sybil attacks and follow KYC/AML regulations.
-
-3. Reduce sign-up friction and lower costs for exchange.
-
-4. If desired, create membership requirements based off of the attached identity (for instance, if you wanted to create an NFT collection that could only be minted by residents of New York City) without requiring users to give up their whole identity.
-
-* [Web 3.0 and digital identity- (In Chinese)](https://jonnyfry175.medium.com/web-3-0-and-digital-identity-in-chinese-17c0713ad3e0) Fraser Edwards via Johnny Fry
-  > Self-Sovereign Identity (SSI) is arguably the most effective form of digital identity in Web 3.0. SSI is a user-centric identification method for controlling information. Fully aligned with Web 3.0, SSI eliminates the need to store personal information entirely on a central database and gives individuals greater control over the information they share to protect their privacy.
-
-## Web 3 Meta
-* [How a Wikipedia editor](https://www.fastcompany.com/90733574/how-a-wikipedia-engineer-became-one-of-the-loudest-web3-skeptics) ([Molly White](https://www.fastcompany.com/90733574/how-a-wikipedia-engineer-became-one-of-the-loudest-web3-skeptics)) [became one of the loudest Web3 skeptics](https://www.fastcompany.com/90733574/how-a-wikipedia-engineer-became-one-of-the-loudest-web3-skeptics) Fast Company
-  > I spoke with White via email about her views on Web3 fixtures such as DAOs (distributed autonomous organizations), cryptocurrencies, and NFTs (non-fungible tokens). Our conversation has been lightly edited for length and clarity.
-
 * [12 Ways Crypto and Blockchain Tech Will Change the World (and Boost Your Bottom Line)](https://moneymorning.com/2022/04/08/12-ways-crypto-and-blockchain-tech-will-change-the-world-and-boost-your-bottom-line/) 2022-04-08
   > No. 7: Protecting Our Personal Data
 
 Called a "self-sovereign identity," it would keep the data with the individual. People would use the Secure ID for online interactions; any data sent would be encrypted. But the key is that those online entities would not store the data themselves. So, there would be no more huge, centralized places where personal data could be stolen.
 
-
-* [On anti-crypto toxicity](https://blog.mollywhite.net/anti-crypto-toxicity/) Molly White
-  > Despite crypto’s unquestionably right-libertarian roots, and the continuing prevalence of those politics in crypto today, we’re also seeing people asking questions like:
-
-- How can we create a more equitable financial system, where everyone has access to banking services?
-
 * [Open-Source Ideas Reports](https://gbbcouncil.org/initiatives/open-source-ideas-series/) Global Blockchain Business Council
 
-- [The Future of Urban Living Part II: The City of The Hague, Netherlands](https://gbbcouncil.org/wp-content/uploads/2022/04/GSMI-Hague-Report.pdf)
-
-April 2022 with Odyssey and The Hague
-
-- [From Financial Services to Blockchain and Crypto: How Executives Are Making the Switch](https://gbbcouncil.org/wp-content/uploads/2022/02/From-Financial-Services-to-Blockchain-and-Crypto_How-Executives-Are-Making-the-Switch_FINAL.pdf)
-
-February 2022 with Heidrick & Struggles
-
-* [@AnastasiaU · Apr 25](https://twitter.com/AnastasiaU/status/1518568881467629568)
-  > We can’t fit this entire EPIC 63 tweet thread, here. Recommend to check it out!
-
-1/ Here's an A-Z list of every startup or company I could find building the [blockchain] crypto privacy & identity ecosystem. Why privacy AND identity? Cuz we can't make real progress on privacy unless we also rearchitect toward user-centric identity -- fight me!
-
-* [This is how GATACA achieves blockchain interoperability](https://gataca.io/blog/this-is-how-gataca-achieves-blockchain-interoperability)
-  > blockchain agnosticism is possible due to our DID registry component: all incoming activity is delegated to the DID registry with specific connections to each blockchain so that the rest of our technology components do not have to participate in the process. Other components need not know where the information persists from; they delegate that special knowledge to the DID registry and continue to perform their regular activities as usual.
-
-* [DFS Guidance: Blockchain Analytics For Effective Crypto Compliance](https://www.elliptic.co/blog/dfs-guidance-blockchain-analytics-for-effective-crypto-compliance) Elliptic
-  > Blockchain analytics solutions have been a critical part of enabling the crypto industry to combat financial crime since Elliptic produced the first such capabilities in 2014
-
-* [Pairwise Trust: A New Blockchain-Based Identification Solution for Web3 Infrastructures](https://sovereignwallet.medium.com/introducing-pairwise-trust-a-new-blockchain-based-identification-solution-for-web3-infrastructures-c1ef4a52dcd8) Sovereign Wallet
-  > “Pairwise Trust” now available on MetaMUI SSID In the ever-evolving digital society, one of the most important thing is to control one’s digital identity and digital property.
-* [Pairwise Trust: A New Blockchain-Based Identification Solution for Web3 Infrastructures](https://sovereignwallet.medium.com/introducing-pairwise-trust-a-new-blockchain-based-identification-solution-for-web3-infrastructures-c1ef4a52dcd8) Sovereign Wallet
-  > In MetaMUI, users can create their own DID by submitting their personal information(KYC) to one of the Sidechain Operators, and the operator will decide whether approving or denying the request depending on the status of the submitted data. Once the request is approved, the user’s personal data get hashed, and the hashed data is safely stored in the user’s device.
-
-* [Sign-in with Solana — Use Your Solana Account for Web2 & Web3](https://medium.com/toruslabs/sign-in-with-solana-use-your-solana-account-for-web2-web3-d94def27485b)
-  > Users will now be able to control their digital identity with their Solana accounts instead of relying on traditional/custodial profiles. The Importance of Building a Self-Custodial Future In crypto, there is a saying that goes ”Not your keys, not your crypto’’
-
-* [Web3Auth at the Paris Blockchain Week 2022](https://medium.com/toruslabs/web3auth-at-the-paris-blockchain-week-2022-2a26345c9c06) Torus
-  > A whole lot of ecosystem players at the event were pleasantly surprised to discover Web3Auth’s Key Management Infrastructure
 
 
-* [Solving the ‘Sunrise Issue’ is the key to unlocking crypto mass adoption](https://cointelegraph.com/news/solving-the-sunrise-issue-is-the-key-to-unlocking-crypto-mass-adoption) Cointelegraph
-  > Regulation will touch every person in every jurisdiction worldwide; crypto must find ways to preserve its decentralization and privacy.
-
-* [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) Glen Wheyl
-  > Key to this sociality is decomposable property rights and enhanced governance mechanisms—such as quadratic funding discounted by correlation scores—that reward trust and cooperation while protecting networks from capture, extraction, and domination. With such augmented sociality, web3 can eschew today’s hyper-financialization in favor of a more transformative, pluralist future of increasing returns across social distance.
-
-
-* [Cautionary Tales from Cryptoland](https://hbr.org/2022/05/cautionary-tales-from-cryptoland) Molly White, HBR
-  > The ideological argument for Web3 is very compelling, and I personally hold many of the same ideals. I strongly believe in working toward a more equitable and accessible financial system, creating a fairer distribution of wealth in society
-
-* [WEB2 VS WEB3](https://ethereum.org/en/developers/docs/web2-vs-web3/) Ethereum.org
-
-
-
-* [Trust Graph](https://trustgraph.net/) with [video](https://www.youtube.com/watch?v=zBUAyrpQIhU) Harlan Wood
-  > REPUTATION FOR DECENTRALIZED ECOSYSTEMS
-
-- Trust Graph is an open protocol for sourcing & rendering Trust relationships
-- It is a toolkit for building and reading distributed Trust Graphs
-- An ambitious plan to create interoperability between existing and future Trust Networks
-- Compatible with existing rating schemes (scores, percentages, star ratings, etc)
-- Open Source (Apache licensed)
-
-
-* [Web3 Ecosystem](https://miro.com/app/board/uXjVO0uGvcw=/) (Epic Miro Board)
-
-* [The Web3 Decentralization Debate Is Focused on the Wrong Question](https://www.wired.com/story/web3-blockchain-decentralization-governance/) Wired
-
-Fixating on the degree—rather than the type—of decentralization is leading us astray
-* [State of Crypto Report](https://a16zcrypto.com/wp-content/uploads/2022/05/state-of-crypto-2022_a16z-crypto.pdf) a16z
-  > web3 — which combines the decentralized, communitygoverned ethos of the first era with the advanced, modern functionality of the second era. This will unlock a new wave of creativity and entrepreneurship
-
-* [Using a Theory of Justice to Build a Better Web3](https://www.windley.com/archives/2022/05/using_a_theory_of_justice_to_build_a_better_web3.shtml) Windley
-  > Building a better internet won't happen by chance or simply maximizing freedom. We have to build systems that support justice. How can we do that?
-
-* [a16z Raises $4.5 Billion For Its Largest-Ever Crypto Fund](https://thedefiant.io/a16z-crypto-fund-4/) The Defiant
-  > A massive wave of world-class talent has entered web3 over the last year. They are brilliant and passionate and want to build a better internet. That’s why we decided to go big.
-
-
-* [The Golden Era of Web3 Identity](https://twitter.com/DonaldBullers/status/1532406343545536513) Donald Bullers
-  > We've entered the “in it for the tech” phase.
-
-Attention now shifts to builders and a heads down mentality can lead to the creation of some of the most intriguing Web3 companies to date.
-
-* [Tokenomics: Three Foundations for Creating a Token Economy](https://rebeccarachmany.medium.com/tokenomics-three-foundations-for-creating-a-token-economy-62ebc9435641) Rebecca Rachmany
-  > people think a token is an easy way to raise money, which it is, relative to many other ways of raising money. But keep in mind that every step you take in your entrepreneurial journey is just a step closer to the next, usually bigger, problem.
-
-* [Web3 Architecture and Tech Stack : A Beginners Guide](https://medium.com/toruslabs/a-beginners-guide-the-basic-web3-architecture-and-tech-stack-81f2061d263c) [Yashovardhan Agrawal](https://medium.com/@yashovardhana), Web3Auth
-  > Let’s transition our knowledge from Web2 to Web3 and know which technologies support what.
-
-
-* [Building a Consent Management System for Web 3.0](https://academy.affinidi.com/building-a-consent-management-system-for-web-3-0-39e79b792eea) Affinidi
-  > Affinidi’s consent manager has a simple architecture as it comprises only a few modules and this is what makes it easy to implement across any application stack.
-
-Consensus 2022 SSI Sessions
-
-If folks are talking at the event, reach out, we will share info - its not just where Kaliya is going in the world.
-
-* [The Promise of Self-Sovereign Data and Web3.0 Identity Solutions: Real or Mirage?](https://events.coindesk.com/consensus2022/agenda/session/900580) <-Viewable Online Now but $$
-  > Drummond Reed, Chief Trust Officer, Evernym
-
-Joe Cutler, Partner, Perkins Coie LLP
-
-Lisa Seacat DeLuca, Director of Product & Engineering, Identity, Unstoppable Domains
-
-Mr. Tobias Batton, CEO, Ex Populus
-
-Mr. Richard Widmann, Global Head of Strategy, Google Cloud
-
-
-* [Introducing Sign-in with Web3 — Building a Non-Custodial World](https://medium.com/toruslabs/introducing-sign-in-with-web3-building-a-non-custodial-world-50136b3a6225) Web3Auth
-  > In a much needed multi-chain extension to Sign-in with Ethereum, users will now be able to control their digital identity with their Ethereum/ENS, Solana, and Starknet accounts instead of relying on traditional/custodial profiles.
-
-* [Technology and System — Which is the primary productive force?: Hope, Confusion, and Practice of Web3](https://medium.com/ontologynetwork/technology-and-system-which-is-the-primary-productive-force-a6f8c4869ba9) Ontology
-  > OWN (Ontology Web3 Network) Infrastructure is a series of general blockchain basic protocols and products provided by Ontology for Web3 applications. Basic components including data and reputation, etc., and general-purpose tools such as a Web3 wallet, etc. Web3 applications can choose different basic components according to different scenarios for easy integration.
 
 ## Decentralized Web
+* [The Decentralized Web: An Introduction](https://blog.archive.org/2022/02/15/the-decentralized-web-an-introduction/) Archive.org 2022-02-15
+  > Providing that baseline of knowledge is the goal of a series of six workshops called [“Imagining a Better Online World: Exploring the Decentralized Web](https://metro.org/decentralizedweb).”
 * [The Battle for the Soul of the Web](https://www.theatlantic.com/technology/archive/2022/10/internet-archive-decentralized-web-web3-brewster-kahle/671647/) The Atlantic
   > Musings from, amongst other places, Unfinished Live and DWeb Camp all written up in the Atlantic.
   > 
@@ -372,6 +87,42 @@ Mr. Richard Widmann, Global Head of Strategy, Google Cloud
   > On this theme, I’m particularly interested in one event, an attempt to [map the projects that make up the DWeb](https://gitlab.com/getdweb/dweb-camp-2022/-/issues/77) and look for opportunities for interoperability. This was a [vision](https://dwebcamp2019.sched.com/event/S4vH/building-bridges-connecting-tech-stacks-for-humane-ux) I carried with me to the last DWeb Camp, and I’m hoping to see more conversations about building bridges between networks.
 
 ## Explainers
+* [How a Wikipedia editor](https://www.fastcompany.com/90733574/how-a-wikipedia-engineer-became-one-of-the-loudest-web3-skeptics) ([Molly White](https://www.fastcompany.com/90733574/how-a-wikipedia-engineer-became-one-of-the-loudest-web3-skeptics)) [became one of the loudest Web3 skeptics](https://www.fastcompany.com/90733574/how-a-wikipedia-engineer-became-one-of-the-loudest-web3-skeptics) Fast Company
+  > I spoke with White via email about her views on Web3 fixtures such as DAOs (distributed autonomous organizations), cryptocurrencies, and NFTs (non-fungible tokens). Our conversation has been lightly edited for length and clarity.
+* [Web3, entangled: Holochain: a marlinspike to undo the knots](https://blog.holochain.org/web3-entangled/)
+  > Moxie argues that protocols evolve slowly, while platforms evolve quickly. That’s because a platform can make decisions without waiting for a whole crowd of others to reach consensus. But here’s the thing — some protocols don’t need to evolve quickly. As long as a ‘base protocol’ is versatile enough to let people create and express things in an unlimited range of fit-for-purpose application protocols, it can be as stale and boring as it likes. And it’s precisely the decentralisation, versatility, and stability of these base protocols — HTTP, email, and yes, Bitcoin and Ethereum — that allow platforms to innovate so quickly on top of them.
+* [The Third Web](https://tante.cc/2021/12/17/the-third-web/) 2021-12-17
+  > A good explanation and good critique of Web3
+* [Web3: Self-Sovereign Authority and Self-Certifying Protocols](https://www.windley.com/archives/2022/02/web3_self-sovereign_authority_and_self-certifying_protocols.shtml) Phil Windley
+* [What is Web3? Here Are Some Ways To Explain It To A Friend](https://consensys.net/blog/blockchain-explained/what-is-web3-here-are-some-ways-to-explain-it-to-a-friend/) Consensys
+* [Framing and Self-Sovereignty in Web3](https://www.windley.com/archives/2022/02/framing_and_self-sovereignty_in_web3.shtml) Windley
+  > The tools people have to participate in these territories, browsers and password managers, let us visit those territories, but we ourselves cannot be visited. We cannot act. Online relationships (client-server) are inherently asymmetric and the power accrues to those who define the territory.
+* [Web3 brings the Digital Sovereignty back to the User thanks to Blockchain](https://knowledge.wealize.digital/en/blog/blog/web3-digital-sovereignty-blockchain) Wealize
+  > Web 3.0 encourages users participation and restore the control over their digital identity and assets
+* [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html) 2022-01-07 Moxie Marlinspike 
+*This guy gets it ^^^^^*
+  > Given the history of why web1 became web2, what seems strange to me about web3 is that technologies like ethereum have been built with many of the same implicit trappings as web1.\
+  > […]\
+  > Personally, I think enough money has been made at this point that there are enough faucets to keep it going, and this won’t just be a blip. If that’s the case, it seems worth thinking about how to avoid web3 being web2x2 (web2 but with even less privacy) with some urgency.
+* [Web3, Coherence, and Platform Sovereignty](https://www.windley.com/archives/2022/01/web3_coherence_and_platform_sovereignty.shtml) Phil Windley
+  > In [The crypto-communists behind the Web3 revolution](https://www.protocol.com/fintech/crypto-communists), Benjamin Pimentel argues that "The future of decentralized finance echoes a decidedly Marxist vision of the future." He references various Silicon Valley icons like Jack Dorsey, Marc Andreessen, Elon Musk, and others, comparing their statements on Web3 and crypto with the ideology of communism.
+* [Re: Web3 First Impressions by Moxie Marlinspike (was: Re: Ideals meet Implementations - Blockchains, NFTs, Decentralization, Oh My!)](https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0202.html) 1/25 Juan Caballero
+  > I recently read a twitter thread by an academic who abandoned a book-length monograph on O'Reilly, with multiple chapters on the vicissitudes of what O'Reilly kept trying to make Web 2.0 "mean" and what it ended up meaning after billions of dollars of VC and a decade-long hype cycle's worth of marketing and spin had been applied to it. Web3 is likely to be an even bigger, uglier, stupid semantic tug-of-war for some time\
+  > [...]\
+  > Anyways, I hope we can keep the CCG list a DMZ in this rapidly-escalating culture war, before "Web3" becomes the next "Critical Race Studies" or "Satanic Panic".
+* [Defining the web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack) Edge & Node
+  > This post will be a living document that I keep up with as I learn, experiment, and gather feedback from developers building in web3.
+* [Forensic Investigative Report: Sanctioned Blockchain Addresses](https://www.coinfirm.com/blog/sanctioned-blockchain-addresses/) Coinfirm
+* [Forensic Investigative Report: Terrorism Financing Blockchain Addresses](https://www.coinfirm.com/blog/terrorism-financing-blockchain-addresses/) Coinfirm
+* [What is Web3 and Why It Matters](https://dionhinchcliffe.com/2022/01/11/what-is-web3-and-why-it-matters/) Dion Hinchcliffe 2022-01-11
+* [OpenSea, Web3, and Aggregation Theory](https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/) Stratechery
+  > what gives Aggregators their power is not their control of supply: they are not the only way to find websites, or to post your opinions online; rather, it is their control of demand. People are used to Google, or it is the default, so sites and advertisers don’t want to spend their time and money on alternatives; people want other people to see what they have to say, so they don’t want to risk writing a blog that no one reads, or spending time on a social network that because it lacks the network has no sense of social.
+* [Web3 and Digital Embodiment](https://www.windley.com/archives/2022/01/web3_and_digital_embodiment.shtml) Phil Windley
+  > Web3 will make a difference for all of us if it enables people to become digitally embodied, able to recognize, remember, and react to other people and organizations online—without the need to be in someone else's database.
+* [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763) Glen Wheyl
+  > Key to this sociality is decomposable property rights and enhanced governance mechanisms—such as quadratic funding discounted by correlation scores—that reward trust and cooperation while protecting networks from capture, extraction, and domination. With such augmented sociality, web3 can eschew today’s hyper-financialization in favor of a more transformative, pluralist future of increasing returns across social distance.
+* [Web3 Architecture and Tech Stack : A Beginners Guide](https://medium.com/toruslabs/a-beginners-guide-the-basic-web3-architecture-and-tech-stack-81f2061d263c) [Yashovardhan Agrawal](https://medium.com/@yashovardhana), Web3Auth
+  > Let’s transition our knowledge from Web2 to Web3 and know which technologies support what.
 * [It’s Time for Web3 to Build - Creating Real-World Impact with Web3](https://www.ed3.gg/writing/time-to-build/) Ed3
   > Now is the key moment to bring the ethos, technology and ambition of web3 to the real world to solve human problems.
 * [Consensus 2022 panel: Is Web 3.0 more hype or reality?](https://blog.avast.com/web-3-consensus-panel)
@@ -383,11 +134,10 @@ Mr. Richard Widmann, Global Head of Strategy, Google Cloud
   > web3: read + write + own
 * [Podcast] [Self-Sovereign Digital Identity, Blockchain & Web3 with Charlyn Ho](https://podcasts.apple.com/us/podcast/45-self-sovereign-digital-identity-blockchain-web3/id1510232581?i=1000552163633) 2022-02-25 I also want money
   > Could blockchain and the decentralized web mean the end of surveillance capitalism? Maybe! In this episode, Perkins Coie partner Charlyn Ho defines digital identity, explains how blockchain empowers users to take control of their data, and shares how Web3 could dismantle Big Tech’s monopoly on Big Data - if it’s built the right way.
-* [Crafting a “no-bs” SSI platform](https://medium.com/@adityasanthanam/crafting-a-no-bs-ssi-platform-454b1d9c6f8d) Aditya Santhanarn
-  > Let’s look at a few pointers that I believe make it hard for the web3 protocols to work for businesses and users in general
+* [Cautionary Tales from Cryptoland](https://hbr.org/2022/05/cautionary-tales-from-cryptoland) Molly White, HBR
+  > The ideological argument for Web3 is very compelling, and I personally hold many of the same ideals. I strongly believe in working toward a more equitable and accessible financial system, creating a fairer distribution of wealth in society
+* [WEB2 VS WEB3](https://ethereum.org/en/developers/docs/web2-vs-web3/) Ethereum.org
 * [A list of (supposed) web3 benefits](https://reb00ted.org/tech/20220726-web3-benefits/) from Johannes
-* [Understanding Decentralized Identities (DIDs) and Why They Matter for Web 3.0 Mass Adoption](https://techbullion.com/understanding-decentralized-identities-dids-and-why-they-matter-for-web-3-0-mass-adoption/) TechBullion
-  > All in all, the exponential rise in cases of data breaches and hacks on Web 2.0 applications, calls for a new system that protects users data and privacy on the internet. Additionally, the rapid growth of the decentralized internet means that digital identities are becoming more important than ever as users turn to virtual worlds and metaverses in future.
 * [Using a Theory of Justice to Build a Better Web3](https://www.windley.com/archives/2022/05/using_a_theory_of_justice_to_build_a_better_web3.shtml) Phil Windley
   > Summary: Building a better internet won't happen by chance or simply maximizing freedom. We have to build systems that support justice. How can we do that? Philosophy discussions are the black hole of identity. Once you get in, you can't get out. Nevertheless, I find that I'm drawn to them
 * [The 5 people empowerment promises of web3](https://reb00ted.org/tech/20220830-web3-empowerment-promises/) 2022-08-30 Reb00ted [related](https://www.kaleidoinsights.com/web3-use-cases-5-capabilities-people/)
@@ -404,10 +154,21 @@ Mr. Richard Widmann, Global Head of Strategy, Google Cloud
   > If you want to explain Web3 in the simplest language, I think it is a decentralized collaboration model.
 * [3 Reasons Why Web3 Will Flip Digital Ownership On Its Head](https://www.entrepreneur.com/article/432166) Entrepreneur
   > Despite people spending a lot of money today on all forms of digital content, from streaming service subscriptions to in-game purchases, we don't own any digital content we "buy" online.
+* [Web3 Ecosystem](https://miro.com/app/board/uXjVO0uGvcw=/) (Epic Miro Board)
+* [State of Crypto Report](https://a16zcrypto.com/wp-content/uploads/2022/05/state-of-crypto-2022_a16z-crypto.pdf) a16z
+  > web3 — which combines the decentralized, communitygoverned ethos of the first era with the advanced, modern functionality of the second era. This will unlock a new wave of creativity and entrepreneurship
+* [Using a Theory of Justice to Build a Better Web3](https://www.windley.com/archives/2022/05/using_a_theory_of_justice_to_build_a_better_web3.shtml) Windley
+  > Building a better internet won't happen by chance or simply maximizing freedom. We have to build systems that support justice. How can we do that?
+* [Technology and System — Which is the primary productive force?: Hope, Confusion, and Practice of Web3](https://medium.com/ontologynetwork/technology-and-system-which-is-the-primary-productive-force-a6f8c4869ba9) Ontology
+  > OWN (Ontology Web3 Network) Infrastructure is a series of general blockchain basic protocols and products provided by Ontology for Web3 applications. Basic components including data and reputation, etc., and general-purpose tools such as a Web3 wallet, etc. Web3 applications can choose different basic components according to different scenarios for easy integration.
+* [Web3: Self-Sovereign Authority and Self-Certifying Protocols](https://www.windley.com/archives/2022/02/web3_self-sovereign_authority_and_self-certifying_protocols.shtml) Windley
+  > When we dine at a restaurant in the physical world, we do not do so within some administrative system. Rather, as embodied agents, we operationalize our relationships by acting for ourselves. Web3, if built correctly, can help people to act as full-fledged participants in the digital realm.
 
 ## Decentralization
 * [The Center Will Not Hold: How Decentralization is Reshaping Technology and Governance](https://thedefiant.io/decentralization-upends-governance) The Defiant
   > In this summary paper, we will explain the different components of decentralization, the benefits of decentralized systems, examples of how different projects have approached the process of decentralizing, and good-faith critiques of decentralization. This paper will act as a TL;DR summarizing the concept of decentralization within its current usage, while providing linked resources throughout for those interested in digging deeper into specific areas.
+* [The Web3 Decentralization Debate Is Focused on the Wrong Question](https://www.wired.com/story/web3-blockchain-decentralization-governance/) Wired
+  > Fixating on the degree—rather than the type—of decentralization is leading us astray
 
 ## Blockchains
 * [Ethereum Competitors: Advantages and Disadvantages](https://blog.pantherprotocol.io/ethereum-competitors-advantages-and-disadvantages/) Panther Protocol

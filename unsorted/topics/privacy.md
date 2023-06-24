@@ -94,7 +94,8 @@ Increased supply of user-friendly private tech and increased demand for privacy 
   > Authenticity allows parties to a conversation to know to whom they are talking. Confidentiality ensures that the content of the conversation is protected from others. These three create a tradespace because you can't achieve all three at the same time.
 * [Verifiable credentials are key to the future of online privacy](https://www.helpnetsecurity.com/2021/07/26/verifiable-credentials/) Helpnet 2021-07-26
   > they offer a few advantages that we don’t get with paper records. Whereas a physical document (let’s say, a [vaccine card](https://www.helpnetsecurity.com/2021/06/15/vaccine-passports/)) can be forged and [passed off as authentic](https://www.npr.org/2021/06/08/1004264531/fake-covid-vaccine-cards-keep-getting-sold-online-using-one-is-a-crime?t=1626423870877), the [security mechanisms](https://www.evernym.com/blog/the-three-pillars-of-self-sovereign-identity/) behind a verifiable credential means that it can never be tampered with and that anyone shown the credential will be able to immediately verify who issued it and to whom it was issued. 2021-06-08
-
+* [Self Sovereign e-ID Schemes & Privacy Challenges](https://www.youtube.com/watch?v=1vgNzSDn554) Crypto Valley Conference 2021
+  > Kurt Nielsen & Nagib Aouini from Partisia Blockchain
 * [Google Sued for Misleading Users Over Location Data Privacy](https://anonyome.com/2022/03/google-sued-for-misleading-users-over-location-data-privacy/) Anonyme
 
 “Google falsely led consumers to believe that changing their account and device settings would allow customers to protect their privacy and control what personal data the company could access. The truth is that contrary to Google’s representations it continues to systematically surveil customers and profit from customer data.”
