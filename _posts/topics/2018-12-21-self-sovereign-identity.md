@@ -19,6 +19,8 @@ last_modified_at: 2023-06-22
 * [The Off Chain Internet: Decentralized Identity & Verifiable Credentials - Evin McMullen](https://www.youtube.com/watch?v=EZ_Bb6j87mg) 2022-02-19 ETH Denver
 *FANTASTIC NEW TALK!!!!*
   > i'm excited to share with you a little bit more about the web 3 beyond the chain. Public ledgers are where we hang out most of the time, but the best of web 3 is yet to be because it hasn't yet been built and embraced fully by all of us.
+* [Decentralized identity: The Direct Presentation model](https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-direct-presentation-model/ba-p/3071981) 2022-02-02 Microsoft
+  > The technical name for the model at work here is called the Direct Presentation model. A credential is issued, and then held for a long period of time with intermittent voluntary presentations to many different verifiers. To put that back into our example, my auto club issues me a card, which I hold in my wallet for years (maybe decades!), and I might choose to show that card to a garage when I need a tow, or possibly to a store to get a discount.
 * [Video] [Exploring the Decentralized Web, Episode 4: Digital Identity](https://www.youtube.com/watch?v=jm8y56KMkIw) 2022-01-05 Filecoin Foundation
   > Episode 4 explores the relationship between authentication and authorization, the rise of single sign-on platforms, and the advantages of and use cases for self-sovereign identity. Guests include Brian Behlendorf, Rainey Reitman, Danny O'Brien, Sarah Friend, Wendy Hanamura, Andrew Hill, and Brad Kam.
 * [#SSI gives its owner control over some aspects of identity, but not all](https://twitter.com/GETJolocom/status/1470791578780413953) 2021-12-14 Jolocom
