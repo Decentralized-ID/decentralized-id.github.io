@@ -11,7 +11,7 @@ categories: ["Web 3"]
 tags: ["Ethereum","Web3","Consensys","Zug","uPort","DIF","uPortlandia","RWoT","ID2020"]
 permalink: blockchain/ethereum/consensys/
 canonical_url: https://decentralized-id.com/blockchain/ethereum/consensys/
-last_modified_at: 2023-07-25
+last_modified_at: 2023-06-25
 ---
 
 **[ConsenSys](https://consensys.net/) • [Discord](https://discord.gg/hYpHRjK) • [Twitter](https://twitter.com/ConsenSys) • [Youtube](https://www.youtube.com/channel/UCBeLEwM-yhIKuIxHTx0VzdQ) • [Blog](https://media.consensys.net/) • [GitHub](https://github.com/ConsenSys)**

@@ -13,9 +13,6 @@ published: false
 
 +++- CEN/CENELEC JTC 19 “Blockchain and Distributed Ledger Technologies”	https://standards.iteh.ai/catalog/tc/cen/d96ab6b7-aac8-49e9-9ac5-b391bbd2abdc/cen-clc-jtc-19
 
-ERC: Proxy Account #725	Standardizing a minimal interface for a smart contract based account allows any interface to operate through these account types.	
-ERC: Key Manager #734	The following describes standard functions for a key manager to be used in conjunction with ERC725.<br>This contract can hold keys to sign actions (transactions, documents, logins, access, etc), as well as execute instructions through an ERC 725 proxy account.	https://github.com/ethereum/EIPs/issues/725
-ERC-4337: Account Abstraction Using Alt Mempool	An account abstraction proposal which completely avoids consensus-layer protocol changes, instead relying on higher-layer infrastructure.	https://eips.ethereum.org/EIPS/eip-4337
 
 https://github.com/ChainAgnostic/CASA
 
