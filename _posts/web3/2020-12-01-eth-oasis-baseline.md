@@ -20,7 +20,7 @@ redirect_from:
 ---
 
 ## EEA Community Projects 
-**Ethereum Oasis:** [GitHub](https://github.com/eea-oasis) • [Baseline](https://www.baseline-protocol.org/) • [Docs](https://docs.baseline-protocol.org/) • [Twitter](https://twitter.com/baselineproto) • [Slack](https://communityinviter.com/apps/ethereum-baseline/join-us)
+**[GitHub](https://github.com/eea-oasis) • [Baseline](https://www.baseline-protocol.org/) • [Docs](https://docs.baseline-protocol.org/) • [Twitter](https://twitter.com/baselineproto) • [Slack](https://communityinviter.com/apps/ethereum-baseline/join-us)**
 
 * [EEA Community Projects](https://entethalliance.org/EEACommunityProjects/)
   > The EEA Community Projects provide support for open source development of code, APIs, standards, and reference implementations.  Its foundation is the former Ethereum OASIS Open Project, which represents 25+ years of OASIS experience in collaborative development and its global reputation and relationships. The work is led by EEA, managed under the OASIS Open process, and driven by the community at large.
