@@ -61,7 +61,7 @@ toc: true
   > We're replacing the popular IDX runtime with a more powerful set of tools for building applications on Ceramic including DID DataStore, DataModels, and Self.ID.
 * [Geo Web is connecting digital content to the physical world with NFTs and Ceramic](https://blog.ceramic.network/geo-web-is-connecting-digital-content-to-the-physical-world-with-nfts-and-ceramic/) 2021-06-17 Ceramic
   > With DID:NFT, because the content that is anchored to a Geo Web parcel can actually be owned by the parcel itself, when someone buys the land they're also getting the infrastructure that's been built up on that land.
-* [3IDConnect](https://blog.ceramic.network/what-is-3id-connect/) 2020-11-25 Ceramic [GitHub](https://github.com/3box/3id-connect)
+* [3IDConnect](https://blog.ceramic.network/what-is-3id-connect/) 2020-11-25 Ceramic [GitHub](https://github.com/3box/3id-connect)\
 *along with the slightly problematic frame that users have “a DID”*
   > 3ID Connect is a hosted authentication system for browser-based Ceramic applications that allows users to onboard to applications, control their DID, and interact with Ceramic streams using their existing blockchain accounts.
 * [Identity-centric interoperability with the Ceramic Protocol – Joel Thorstensson – Webinar 57](https://ssimeetup.org/identity-centric-interoperability-ceramic-protocol-joel-thorstensson-webinar-57/) 2020-05-05
@@ -74,7 +74,7 @@ toc: true
 ## 3box
 [3box.io](https://3box.io/) • [Blog](https://medium.com/3box) • [GitHub](https://github.com/3box) • [twitter](https://twitter.com/3boxdb) • [discord](https://discord.gg/Z3f3Cxy)
 
-* [A Devkit for Open Identity](https://medium.com/3box/idx-a-devkit-for-open-identity-48edc88e8e85) 2020-10-23 3box IDX
+* [IDX] [A Devkit for Open Identity](https://medium.com/3box/idx-a-devkit-for-open-identity-48edc88e8e85) 2020-10-23 3box\
 *This is interesting, but they are taking on a huge amount of work without an [IPR](https://en.wikipedia.org/wiki/Intellectual_property#Intellectual_property_rights) container/wrapper).*
   > Designed to be cross-platform and highly configurable, IDX is compatible with all blockchains, wallets, and a wide variety of user and application data storage options including Ceramic, Textile, OrbitDB, Filecoin, IPFS, and Secure Data Stores — so you can seamlessly integrate decentralized identity with the rest of your Web3 tech stack.
 * [3Box messaging plugins get more social!](https://medium.com/3box/3box-messaging-plugins-get-more-social-354e2afe88cb) 2020-02-06 - Message Likes, Reactions, Replies, and Votes
