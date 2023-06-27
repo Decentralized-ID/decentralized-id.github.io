@@ -8,7 +8,7 @@ header:
   image: /images/consensys-header.webp
   teaser: /images/consensys-teaser.webp
 categories: ["Web 3"]
-tags: ["Ethereum","Web3","Consensys","Zug","uPort","DIF","uPortlandia","RWoT","ID2020"]
+tags: ["Ethereum","Web3","DeFi","Consensys","Zug","uPort","DIF","uPortlandia","RWoT","ID2020"]
 permalink: /web-3/ethereum/consensys/
 redirect_from:
   - blockchain/ethereum/consensys/
