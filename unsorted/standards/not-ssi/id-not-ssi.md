@@ -2,6 +2,10 @@
 published: false
 ---
 
+## IAM
+* [@open_measure](https://twitter.com/open_measure) · [44m](https://twitter.com/open_measure/status/1398540528090759170)
+
+Our #IAM #VendorManagement database just exceeded the 100 entries threshold! There's still a lot of work but it shows already how the IAM #market is a vibrant, diverse, and innovative industry - find out more and contribute at [https://open-measure.atlassian.net/wiki/spaces/VEN/pages/195133452/Vendor+Database](https://open-measure.atlassian.net/wiki/spaces/VEN/pages/195133452/Vendor%2BDatabase)
 
 * [What's the difference between identification, authentication and authorization?](https://twitter.com/doerkadrian/status/1397566626405421060) 2021-05-26 Adrian Doerk
   > - Identification: Who are you?
@@ -151,3 +155,20 @@ This issue now has a funding of 3004.5068 USD (3000.0 USD @ $1.0/USD) attached t
 
 * [What Is Authentication?](https://www.1kosmos.com/blog/authentication/what-is-authentication) 2021-07 1Kosmos
   > Authentication is the process of proving that a user is who they claim to be to access system resources or features. Typically, this calls for some type of proof, whether that is a physical piece of information, a secret piece of information or some other immutable form of evidence.
+
+
+### Forgerock
+
+* [ForgeRock goes public](https://ludopoitou.com/2021/09/16/we-did-it/) 2021-09-16
+Today is an huge milestone for ForgeRock. We are becoming a public company, with our stock publicly traded under the “FORG” symbol, at the New York Stock Exchange.
+* [IAM 101 Series: What Are Directory Services?](https://www.forgerock.com/blog/iam-101-series-what-are-directory-services) Forgerock
+
+### Ping
+
+* [Ping to Target IAM Startups With New $50 Million Venture Fund](https://findbiometrics.com/ping-target-iam-startups-with-new-50-million-venture-fund-062205/)
+
+That includes companies that are trying to prevent digital fraud, as well as companies that are engaged in identity verification and decentralized identity projects. However, the list is not exhaustive [...] [Allthenticate](https://www.allthenticate.com/) will be the recipient of its first investment.
+
+* [Thoma Bravo to acquire Ping Identity for $2.8B](https://www.techtarget.com/searchsecurity/news/252523468/Thoma-Bravo-to-acquire-Ping-Identity-for-28B) TechTarget
+
+* [Ping Identity to be Acquired by Thoma Bravo for $2.8 Billion](https://www.pingidentity.com/en/company/ping-newsroom/press-releases/2022/ping-identity-to-be-acquired-by-thoma-bravo-for-2-billion.html) Ping Identity

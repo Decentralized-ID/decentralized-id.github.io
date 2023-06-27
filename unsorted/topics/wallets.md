@@ -22,6 +22,12 @@ In cross-border and migration contexts, digital wallets promise to have wide ran
 * [Part 3: Digital Wallets and Digital Agents: Putting the Individual in Control](https://www.evernym.com/blog/digital-wallets-digital-agents/) Evernym
   > Fittingly, some define wrath as “when anger is directed against an innocent person, and when it is unduly strong or long-lasting.” That feels right if you consider the real-life impacts of disabling someone’s digital identity without notice.
 * [GlobaliD 101: ID wallets](https://medium.com/global-id/globalid-101-id-wallets-68fa77e6d0d7) GlobalID
+* [Digital Identity Wallet: A place for your self-sovereign identity](https://ssi-ambassador.medium.com/digital-identity-wallet-a-place-for-your-self-sovereign-identity-5dfbd3d48a74) SSI Ambassador
+  > This article explains what a wallet is, how it works and how you can use it for managing your digital identity. While there are also wallets for institutions, this article only focuses on wallets for end users. The article also takes into consideration the revised eIDAS regulation including the ‘European Digital Identity Wallet’.
+* [Dealing with private key loss or compromise in digital identity systems](https://github.com/bhaskar20/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/dealing_with_key_loss_in_digital_identity.md) By Christian Lundkvist @ChrisLundkvist <christian.lundkvist@consensys.net> (RWoT 1)
+  > If an identity is tied to a single persistent private key, then loss or compromise of the private key will mean total loss of the identity. Since key compromise and/or loss do happen there needs to be a way to recover from this in order to have a persistent digital identity. [See here for definitions used](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/shared_terminology_for_digital_identity_systems.md).
+  > 
+  > If the user of the identity suspects that a key is or may be compromised the user can rotate their key by submitting a new key to the system, signed by the old key. After this the old key can be revoked. 
 
 * [OKTA Cloud Identity Integration with SSI wallet](https://lists.w3.org/Archives/Public/public-credentials/2021Nov/0100.html)  sethi shivam (Tuesday, 23 November)
 

@@ -80,8 +80,6 @@ covers our work with DIF, Trust over IP, and attending Consensus 2022.
 * [RIF’s Self Sovereign Identity Developer Library and Repos](https://rsci.app.link/)
 - [RSK ID Repos](https://developers.rsk.co/rif/identity/#repos)
 - [RIF Identity Documentation](https://developers.rsk.co/rif/identity/)
-* [Roadmap to Institutional Adoption of DeFi](https://www.youtube.com/watch?v=bkOQHcVVGoE) RSK - Coinfirm
-  > The most recent FATF updated draft guidance from March 2021 introduces significant changes to the legal definition of DeFi platforms, expanding the types of entities that fall under FATF's umbrella. In this guidance, FATF defines most operators of decentralized finance platforms as “Virtual Asset Service Providers” that have AML/CFT obligations.
 * [@ilanolkies](https://twitter.com/ilanolkies) shares: *Okey, so, today I mapped the work done in the last 3 month by [@rif_os](https://twitter.com/rif_os) about Self-Sovereign Identity protocols in a single link [https://github.com/rsksmart/rif-identity](https://github.com/rsksmart/rif-identity). All compatible with existent protocols and fully integrated into [@RSKsmart](https://twitter.com/RSKsmart) blockchain. The future is one step closer.*
 
 * [A repository of JSON Schemas for Verifiable Credentials](https://github.com/rsksmart/vc-json-schemas)

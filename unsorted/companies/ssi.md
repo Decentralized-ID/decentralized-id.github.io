@@ -3,41 +3,38 @@ published: false
 ---
 
 # Companies  Assorted
-Talao SSI wallet now available on Apple AppStore and Google Play		https://medium.com/@talao_io/talao-ssi-wallet-now-available-on-apple-appstore-and-google-play-1435b4a01b1c								
-## IAM
+Talao SSI wallet now available on Apple AppStore and Google Play		https://medium.com/@talao_io/talao-ssi-wallet-now-available-on-apple-appstore-and-google-play-1435b4a01b1c			
 
+## Ontology
 
-* [@open_measure](https://twitter.com/open_measure) · [44m](https://twitter.com/open_measure/status/1398540528090759170)
+* [Ontology Builds on Polkadot to Accelerate Adoption Of Decentralized Identity Solution](https://medium.com/ontologynetwork/ontology-builds-on-polkadot-to-accelerate-adoption-of-decentralized-identity-solution-acf7b8357ee) Ontology
+  > Ontology is bringing Ont ID to Polkadot users, as part of an initiative to bringing OScore, their DID based credit scoring solution, to their own Polkadot parachain.
+* [OScore: Everything You Need to Know](https://medium.com/ontologynetwork/oscore-everything-you-need-to-know-57aa88b7b96f) 2020-09-10 Ontology Network
+  > an independent on-chain reputation system, generated using on-chain data including your ONT ID, engagements, assets, and credentials.[...]
+  > 
+  > Your [OScore](https://www.ocredit.io/) is based on data authorized by you and is updated to reflect changes in behavior and lending practices.
+  > 
+  > OScore is not associated with your off-chain identities. In other words, it respects user privacy and supports full anonymity.
 
-Our #IAM #VendorManagement database just exceeded the 100 entries threshold! There's still a lot of work but it shows already how the IAM #market is a vibrant, diverse, and innovative industry - find out more and contribute at [https://open-measure.atlassian.net/wiki/spaces/VEN/pages/195133452/Vendor+Database](https://open-measure.atlassian.net/wiki/spaces/VEN/pages/195133452/Vendor%2BDatabase)
+## Tezos Profiles - Spruce
+* [Announcing the Tezos Profiles Alpha Launch](https://sprucesystems.medium.com/announcing-the-tezos-profiles-alpha-launch-7e889de2f6c3) 2021-05-28 Spruce Systems
+  > We encourage users to start creating and launching their profiles as we begin integrating Tezos Profiles support across the Tezos ecosystem. Currently, we are focused exclusively on publicly available information and accounts to avoid privacy issues.
+* [Announcing Tezos Profiles - Own and Control Your Creator Identity](https://sprucesystems.medium.com/announcing-tezos-profiles-own-and-control-your-creator-identity-ec0eddf9706d) 2021-04-27 Spruce Systems
+  > Spruce is excited to announce the upcoming launch of Tezos Profiles (TZP) in early May. TZP is a web application that helps users regain control of their digital identity for use across platforms. It allows users to create portable verified profiles by demonstrating control over their public social media and by self-attesting information. These verified profiles are then linked to Tezos acco
+* [Decentralized identities on Stacks](https://www.youtube.com/watch?v=GY113ANamz0)
+  > Join Ryder (Stacks grantee, creating a decentralized hardware wallet) in discussing their protocol, product, and growth and how it innovates Stacks DIDs.
+* [Nomadic Labs Research Seminars #20 - Self-Sovereign Identity and Storage](https://www.youtube.com/watch?v=HombbTvvets)
+  > In this talk, Wayne reviews the results of support with Tezos addresses, use cases that have been deployed, Tezos DID methods and Tezos profiles. Wayne also gives an overview of the Trail of Bits audit.
 
 
 ### Identos
 
-* [Identos builds Verifiable Credentials into updated federated digital ID API](https://www.biometricupdate.com/202209/identos-builds-verifiable-credentials-into-updated-federated-digital-id-api) Biometric Update
-
-The new FPX Junction cloud software suite is designed for fine-grained API authorization and user-centric digital identity management. The digital wallet and user-managed access 2.0 authorization server work together to enable single-sign on federation. An optional user interface SDK for the digital wallet provides native mobile and web support.
+* [Identos builds Verifiable Credentials into updated federated digital ID API](https://www.biometricupdate.com/202209/identos-builds-verifiable-credentials-into-updated-federated-digital-id-api) 2022-09 Biometric Update
+  > The new FPX Junction cloud software suite is designed for fine-grained API authorization and user-centric digital identity management. The digital wallet and user-managed access 2.0 authorization server work together to enable single-sign on federation. An optional user interface SDK for the digital wallet provides native mobile and web support.
 * [IDENTOS puts developers first in its latest product release](https://www.identos.com/2022/09/07/identos-puts-developers-first-in-its-latest-product-release/) 2022-09-07
-
-FPX Junction is a cloud-based set of software products which provide fine-grained API authorization and user centric identity management capabilities.
-
-Verifiable Credentials Support – Evolving to support Verifiable Credentials, FPX Junction includes an updated digital wallet API which enables the holding, receiving and presentation of [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) using W3C Decentralized Identifiers. FPX Junction meets requirements for [Aries Interop Profile 2.0](https://aries-interop.info/aries-interop-intro.html) and [DIDComm](https://identity.foundation/didcomm-messaging/spec/) based credential exchanges.
-
-### Forgerock
-
-* [ForgeRock goes public](https://ludopoitou.com/2021/09/16/we-did-it/) 2021-09-16
-Today is an huge milestone for ForgeRock. We are becoming a public company, with our stock publicly traded under the “FORG” symbol, at the New York Stock Exchange.
-* [IAM 101 Series: What Are Directory Services?](https://www.forgerock.com/blog/iam-101-series-what-are-directory-services) Forgerock
-
-### Ping
-
-* [Ping to Target IAM Startups With New $50 Million Venture Fund](https://findbiometrics.com/ping-target-iam-startups-with-new-50-million-venture-fund-062205/)
-
-That includes companies that are trying to prevent digital fraud, as well as companies that are engaged in identity verification and decentralized identity projects. However, the list is not exhaustive [...] [Allthenticate](https://www.allthenticate.com/) will be the recipient of its first investment.
-
-* [Thoma Bravo to acquire Ping Identity for $2.8B](https://www.techtarget.com/searchsecurity/news/252523468/Thoma-Bravo-to-acquire-Ping-Identity-for-28B) TechTarget
-
-* [Ping Identity to be Acquired by Thoma Bravo for $2.8 Billion](https://www.pingidentity.com/en/company/ping-newsroom/press-releases/2022/ping-identity-to-be-acquired-by-thoma-bravo-for-2-billion.html) Ping Identity
+  > FPX Junction is a cloud-based set of software products which provide fine-grained API authorization and user centric identity management capabilities.
+  > 
+  > Verifiable Credentials Support – Evolving to support Verifiable Credentials, FPX Junction includes an updated digital wallet API which enables the holding, receiving and presentation of [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model/) using W3C Decentralized Identifiers. FPX Junction meets requirements for [Aries Interop Profile 2.0](https://aries-interop.info/aries-interop-intro.html) and [DIDComm](https://identity.foundation/didcomm-messaging/spec/) based credential exchanges.
 
 ## Asia SSI Startups
 
@@ -106,3 +103,38 @@ By producing an accessible, open-source wrapper library, Tangle Labs provides an
 * [UNISOT ID – Part 1](https://unisot.com/unisot-id/)
   > Since identity is such a central part of society, UNISOT, through its UNISOT ID service, offers our customers control over their data. Under self-sovereign identity model users who have one or more identifiers (something that enables a subject to be discovered and identified) can present claims relating to those identifiers without having to go through an intermediary. In the following sections we will outline how SSI can change the way you interact with others on the Internet as well as in the real world.
 
+## Companies
+
+### 3box
+
+[3box.io](https://3box.io/) • [Blog](https://medium.com/3box) • [GitHub](https://github.com/3box) • [twitter](https://twitter.com/3boxdb) • [discord](https://discord.gg/Z3f3Cxy)
+
+- [Announcing Ethereum Profiles 1.0.0 is Live](https://medium.com/3box/announcing-ethereum-profiles-1-0-0-is-live-f0316e15ce23) - How to get started using 3Box profiles today 😄
+  > Ethereum Profiles makes it simple for users to create a reusable profile for their Ethereum address which can easily be shared with dapps to simplify the onboarding experience and create a more frictionless, social web3 dapp ecosystem. Ethereum Profiles allows Ethereum users to collect and control their information on the distributed web using their existing Ethereum wallets.
+
+### uPort
+
+![](https://i.imgur.com/sPAP2g3.png)
+
+* [uPort](https://www.uport.me/) [[**G**](https://github.com/uport-project/)] [[**T**](https://twitter.com/uport_me)]
+   * [Ethereum studio ConsenSys launches digital IDs and assets secured on Ubuntu phones](http://www.ibtimes.co.uk/ethereum-studio-consensys-launches-internet-people-digital-ids-assets-secured-unbuntu-phones-1542620)
+   * [Year in Review. What's to come in 2018](https://medium.com/uport/uport-year-in-review-whats-to-come-in-2018-15ccb9214439)
+* [Different Approaches to Ethereum Identity Standards](https://medium.com/uport/different-approaches-to-ethereum-identity-standards-a09488347c87)
+  ![](https://i.imgur.com/ASI0PaB.png)
+
+* [uPort donates code to the Decentralized Identity Foundation](https://medium.com/decentralized-identity/uport-donates-code-to-the-decentralized-identity-foundation-349d4740acbd)
+
+### Jolocom
+
+![](https://i.imgur.com/BNmq1U9.png)
+
+* [Jolocom](http://jolocom.com/) 
+   * a "SmartWallet" for everyone to own their personal digital identity, using [Social Linked Data](https://github.com/solid/solid-spec), WebID, and verifiable claims standards via Ethereum smart contracts. 
+   * [A universal identity layer we can only build together](https://stories.jolocom.com/a-universal-identity-layer-we-can-only-build-together-e297ed5ae4ed)
+
+### Transmute
+
+- [Transmute Industries](https://www.transmute.industries/)
+  - [Introducing: Element](https://medium.com/transmute-techtalk/introducing-element-328b4260e757) - The Sidetree Protocol Implemented on Ethereum
+  - [Encrypted Data Vaults](https://medium.com/transmute-techtalk/encrypted-data-vaults-c794055b170e)
+  - [Verifiable Credentials with Transmute and Otaka](https://medium.com/transmute-techtalk/verifiable-credentials-with-transmute-and-okta-574edaec887b)

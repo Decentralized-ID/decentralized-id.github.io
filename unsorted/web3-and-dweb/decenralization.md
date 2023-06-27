@@ -3,6 +3,10 @@ published: false
 ---
 
 # Decentralization
+* [The Center Will Not Hold: How Decentralization is Reshaping Technology and Governance](https://thedefiant.io/decentralization-upends-governance) 2022-07-19 The Defiant
+  > In this summary paper, we will explain the different components of decentralization, the benefits of decentralized systems, examples of how different projects have approached the process of decentralizing, and good-faith critiques of decentralization. This paper will act as a TL;DR summarizing the concept of decentralization within its current usage, while providing linked resources throughout for those interested in digging deeper into specific areas.
+* [The Web3 Decentralization Debate Is Focused on the Wrong Question](https://www.wired.com/story/web3-blockchain-decentralization-governance/) 2022-05-22 Wired
+  > Fixating on the degree—rather than the type—of decentralization is leading us astray
 * [We need to talk about Self Sovereign Identity](https://medium.com/coinmonks/we-need-to-talk-about-self-sovereign-identity-2f741eda2591) Olaf van Wijk
 
 When we talk about SSI in relationship to the decentralization movement where bitcoin was the frontrunner, we talk about it in a similar manner as the original promise of nuclear energy. In this case not an abundance of cheap energy but the notion of self-control at the level the bitcoin ledger operates. But how would that look like?
