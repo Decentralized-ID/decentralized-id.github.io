@@ -16,7 +16,7 @@ toc: false
 
 {% assign modified = site.posts | sort: 'last_modified_at' | reverse %}
 {% for post in modified %}
-  {% unless forloop.index0 >= 90 %}
+  {% unless forloop.index0 >= 100 %}
     {% include archive-single.html type='list' %}
   {% endunless %}
 {% endfor %}	
