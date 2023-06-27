@@ -10,9 +10,11 @@ last_modified_at: 2023-06-26
 header:
   teaser: /images/baseline-teaser.webp
 toc: true
-toc_sticky: true
-permalink: projects/eea/baseline/
-redirect_from: 
+toc_sticky: false
+permalink: /web-3/ethereum/baseline/
+canonical_url: "https://decentralized-id.com/web-3/ethereum/baseline/"
+redirect_from:
+  - projects/eea/baseline/
   - ethereum/web%20standards/ethereum-oasis/
   - web-standards/oasis-open/ethereum-oasis/
 ---
