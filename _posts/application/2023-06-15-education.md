@@ -65,6 +65,8 @@ last_modified_at: 2023-06-16
 
 ## Literature
 
+* [Course] [Badged Open Course: Decentralising Education Using Blockchain Technology](https://www.open.edu/openlearncreate/course/view.php?id=7981)
+  > Available on the Open University’s OpenLearn Create platform and is licensed under CC BY-NC-SA 4.0. Upon completion of the course, learners earn a free statement of participation.
 * [Research] [Blockchain, Self-Sovereign Identity and Digital Credentials: Promise Versus Praxis in Education](https://www.frontiersin.org/articles/10.3389/fbloc.2021.616779/full) 2021-03-30 Alex Grech, Ira Sood and Lluís Ariño
   > Although the blockchain has long been identified as an opportunity for driving much-needed change in the core processes of the education sector, use cases to date have been limited in scope and execution, with blockchain advocates and education policy makers seemingly disconnected on fundamental issues such as governance, self-sovereignty, interoperability, choice of blockchain platforms and overall trust in standards and the integrity of the infrastructure.
 * [Whitepaper, Hyperledger] [Blockchain in the Education Sector](https://potech.global/web/images/Potech%20Labs%20White%20Paper_Blockchain%20in%20the%20Education%20Sector.pdf) 2021-03-23 Potech 

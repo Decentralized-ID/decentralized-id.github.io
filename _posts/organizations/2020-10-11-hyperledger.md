@@ -58,6 +58,8 @@ header:
 
 ## Hyperledger Identity
 
+* [Introduction to Hyperledger Self-Sovereign Identity Blockchain Solutions (LFS172x)](https://training.linuxfoundation.org/training/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa/) Linux Foundation
+  > Learn how Hyperledger Aries, Indy, AnonCreds, and Ursa add a necessary layer of trust to the Internet, creating and using independent digital identities rooted on blockchains or other distributed ledgers in this free course.
 * [Investing in Verifiable Credentials, Technical Interoperability and Open Source](https://www.hyperledger.org/blog/2022/08/23/investing-in-verifiable-credentials-technical-interoperability-and-open-source) 2022-08-23 Hyperledger
   > As our approach evolves, we also remain keen to support open source solutions that interoperate with other national and international efforts. There is no dominant design yet, no one network or technology, so we must remain nimble and flexible in our exploration. We also need to coexist with existing identity solutions that millions of British Columbians already rely upon.
 * [Why Distributed Ledger Technology (DLT) for Identity?](https://www.hyperledger.org/blog/2021/04/21/why-distributed-ledger-technology-dlt-for-identity) 2021-04-21 Hyperledger 

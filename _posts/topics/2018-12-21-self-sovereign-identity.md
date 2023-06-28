@@ -142,7 +142,3 @@ last_modified_at: 2023-06-22
   > An answer to these challenges is an ecosystem in which digital identity data can be exchanged in a way that is secure, reliable, scalable and convenient. This will have a positive impact on the economic future of Germany and Europe while at the same time enhancing the private sphere of the individual.
 
 [![](https://i.imgur.com/MMa72Dx.png)](https://www.researchgate.net/figure/Self-Sovereign-Identity-Locus-of-Control-Bouma-2019_fig1_340938808)
-
-## Resources
-* [animo/awesome-self-sovereign-identity/](https://github.com/animo/awesome-self-sovereign-identity) 2023-07-07
-* [WebOfTrustInfo/self-sovereign-id/](https://github.com/WebOfTrustInfo/self-sovereign-identity) 2022-12-07 Rebooting Web of Trust
