@@ -77,3 +77,18 @@ The concept behind a Trust Registry is that a Wallet needs to know which decentr
   > - Who in the Trust Triangle benefits the most from Trust Registries
 * [Solving Governance in SSI Ecosystems with Trust Registries.](https://www.youtube.com/watch?v=5zZKIwesSl8) Trust over IP Foundation
   > Learn the what and the why behind trust registries.  In addition to discussing how trust registries solve governance in verifiable credential ecosystems, Tomislav demos the very first implementation of ToIP’s trust registry specification.
+* [Trust Registries Webinar](https://www.continuumloop.com/trust-registries-webinar/) Continuum Loop
+
+Questions started at about [46:30]  – though some questions came earlier. We covered:
+
+- “I don’t trust organizations and corporations” – where we point out the “decentralize the world” approach goes to far.
+- Phoning home – (hint: no it doesn’t need to phone home)
+- Where are Holders Authorized? (hint: [Knowing if you can trust Bubba’s Wallet](https://www.continuumloop.com/bubbas-wallet/) may be more important…)
+- Canadian Digitial Identities are emerging – can startups leverage this?
+- Explain the Role of Government in ecosystems.
+- “Can a third party discover who I trust from a trust registry?”
+- How will interoperability work between trust registries?
+* [Decentralized Ecosystem Governance: Better, More Effective, and More Robust than Trust Registries](https://indicio.tech/decentralized-ecosystem-governance-better-more-effective-and-more-robust-than-trust-registries/) 2022-09-12 Indicio
+  > Decentralized Ecosystem Governance makes verifying data an easy-to-play game of red light/green light. And, importantly, it decentralizes governance to the appropriate authorities.
+* [Trust Registry or Machine-Readable Governance?](https://indicio.tech/trust-registry-or-machine-readable-governance/) Indicio
+  > Machine-readable governance is composed of elements that help to establish trust and enable interoperability: trusted participants, schemas (templates for structuring information in a credential), and rules and flows for presenting credentials and verifying them. Machine-readable governance can be hierarchical. Once a governance system is published, other organizations can adopt and then amend or extend the provided system.
