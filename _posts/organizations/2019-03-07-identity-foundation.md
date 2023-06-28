@@ -11,7 +11,7 @@ redirect_from:
   - identity-foundation.html
   - organizations/identity-foundation/
 categories: ["Organizations"]
-tags: ["DIF","DIDComm WG","Claims and Credentials WG","Storage and Compute WG","Identifiers and Discovery WG","DIDAuth WG","Interop WG","Affinidi","Anonyome Labs","ArcBlock","Auth0","Beijing Teleinfo Technology","Blockchain Foundry","Blockchains","Blockpass","Blockstack","Hiro","Bloom Protocol","BOTLabs","BCGov","Burrata","Centre","ceramic","civic","CollaboGate","Condatis","Consensys Mesh","Credivera","CU Ledger","Cybavo","Cyber Securiteam","Danube Tech","Diwala","dock","Earth ID","Enterprise Ethereum Alliance","extrimian","Fennel Labs","Finema","Gen Digital","Genoo","GS1","Hedera","IBCT","ID Ramp","iDAKTO","iden3","Identity.com","Infra Blockchain","Input Output","Interac","Iuncta","Jolocom","Keyless","Litentry","Magic Labs","Mattr","Meeco","Metadium","Microsoft","Monokee","myDid","Nayuta","Neosfer","Nest(R)","nuggets","NuID","Nymlab","OneSpan","PassiveBolt","Ping Identity","Polygon Labs","Portabl","Proxy","Qikfox","Resiliant","Sezoo","Silence Laboratories","Sphereon","SpruceID","Superlunar","Switchchord","Taqanu","The Humanized Internet","Torus Labs","Transmute","Trinsic","Trudenty","UNIFY Solutions","UniWorld","Validated ID","VelocityCareer Labs","Web3 Labs","WeBank","Workday",YellowDotPink,"Aries","Universal Resolver"]
+tags: ["DIF","DIDComm WG","Claims and Credentials WG","Storage and Compute WG","Identifiers and Discovery WG","DIDAuth WG","Interop WG","Affinidi","Anonyome Labs","ArcBlock","Auth0","Beijing Teleinfo Technology","Blockchain Foundry","Blockchains","Blockpass","Blockstack","Hiro","Bloom Protocol","BOTLabs","BCGov","Burrata","Centre","ceramic","civic","CollaboGate","Condatis","Consensys Mesh","Credivera","CU Ledger","Cybavo","Cyber Securiteam","Danube Tech","Diwala","dock","Earth ID","Enterprise Ethereum Alliance","extrimian","Fennel Labs","Finema","Gen Digital","Genoo","GS1","Hedera","IBCT","ID Ramp","iDAKTO","iden3","Identity.com","Infra Blockchain","Input Output","Interac","Iuncta","Keyless","Litentry","Magic Labs","Mattr","Meeco","Metadium","Microsoft","Monokee","myDid","Nayuta","Neosfer","Nest(R)","nuggets","NuID","Nymlab","OneSpan","PassiveBolt","Ping Identity","Polygon Labs","Portabl","Proxy","Qikfox","Resiliant","Sezoo","Silence Laboratories","Sphereon","SpruceID","Superlunar","Switchchord","Taqanu","The Humanized Internet","Torus Labs","Transmute","Trinsic","Trudenty","UNIFY Solutions","UniWorld","Validated ID","VelocityCareer Labs","Web3 Labs","WeBank","Workday",YellowDotPink,"Aries","Universal Resolver"]
 last_modified_at: 2023-06-12
 ---
 
@@ -136,7 +136,6 @@ last_modified_at: 2023-06-12
 • [Input Output](https://iohk.io)
 • [Interac](https://interac.com)
 • [Iuncta](https://iuncta.io)
-• [Jolocom](https://jolocom.io)
 • [Keyless](https://keyless.io)
 • [Litentry](https://litentry.com)
 • [Magic Labs Inc.](https://magic.link)

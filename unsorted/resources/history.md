@@ -12,14 +12,6 @@ published: false
 
 [![](https://i.imgur.com/f3FlznM.png)](https://twitter.com/ChristopherA/status/989120215702261761?ref_src=twsrc%5Etfw)
 
-* [A brief history of SSI: Where does it come from? A timeline.](https://jolocom.io/blog/a-brief-history-of-ssi-where-does-it-come-from-a-timeline/)
-
-A short timeline highlights just how quickly SSI has developed. It underlines the path and development of the evolution of Internet Identity.
-
-
-* [An Outlook on 2022](https://jolocom.io/blog/an-outlook-on-2022/) JoloCom
-
-For us, interoperability will remain a very present topic for the next year ([https://jolocom.io/blog/can-we-avoid-a-ssi-babel/](https://jolocom.io/blog/can-we-avoid-a-ssi-babel/).
 * Christopher Allen: [Not Moxie Marlinspike](https://www.moxytongue.com/2021/09/not-moxie-marlinspike.html), Oft confused, no more.
   * [Link to a corrected attribution Devon Lofretto is not Moxie Marlinspike](https://github.com/lifewithalacrity/lifewithalacrity.github.io/commit/52c30ec1d649494066c3e9c9fa1bbaf95cd6386f)
   > Self-Sovereign Identity has deep roots. It did not just emerge in 2016 after a blog post was written. It did not fail to exist when wikipedia editors denied it subject integrity with the stated message: "good luck with that".

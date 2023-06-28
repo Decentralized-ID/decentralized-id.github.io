@@ -13,3 +13,6 @@ SDTT is a tool from Google which began life as the [Rich Snippets Testing Tool](
 
 * [...] ([Source](https://android-developers.googleblog.com/2021/05/new-safety-section-in-google-play-will.html)
   > The announcement signals a serious intention to not only catch up to Apple’s privacy label, but surpass it, by introducing independent validation of the Android app privacy information.
+
+* [Apple vs (or plus) Adtech, Part II](https://blogs.harvard.edu/doc/2021/05/30/apple-vs-or-plus-adtech-part-ii/) 2021-05-30 Doc Searls
+  > To review… in Settings—> Privacy—> Tracking, is a single OFF/ON switch for “Allow Ads to Request to Track.” It is by default set to ON.

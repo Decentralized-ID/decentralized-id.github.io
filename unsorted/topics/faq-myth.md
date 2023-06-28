@@ -13,9 +13,9 @@ published: false
 
 ## Myth
 
-* [Myths about SSI](https://jolocom.io/blog/myths-about-ssi/) Jolocom
+* [Myths about SSI](http://web.archive.org/web/20230209024203/https://jolocom.io/blog/myths-about-ssi/) 2022-05-25 Jolocom
   > The idea that as a user of SSI I have complete sovereignty over my digital identity is often misunderstood. At its core, SSI is about my digital identity being under my own control, so I can decide to whom I show my data, when, and for what.
-* [myths and facts. Is Self-Sovereign Identity Dangerous?](https://jolocom.io/blog/mythen-und-fakten-ist-self-sovereign-identity-gefahrlich/) Jolocom (in german)
+* [myths and facts. Is Self-Sovereign Identity Dangerous?](http://web.archive.org/web/20230209034007/https://jolocom.io/blog/mythen-und-fakten-ist-self-sovereign-identity-gefahrlich/) 2022-05-05 Jolocom (in german)
   > we examine more closely whether self-sovereign identity can increase or reduce risks for data misuse in certain cases.
 * [For traditional identity models, the biggest misconception is “strong passwords”](https://idramp.com/for-traditional-identity-models-the-biggest-misconception-is-strong-passwords/) 2022-07-20 IDRamp
   > One way to avoid password-related problems is to use decentralized identity management. This method is relatively new, so the best way to gain knowledge about it – contact the experts. For this reason, we are speaking with Mike Vesey, CEO of [IdRamp](https://idramp.com/).

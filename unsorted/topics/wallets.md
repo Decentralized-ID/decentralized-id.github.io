@@ -77,7 +77,7 @@ An overview of SSI wallets
 - [Trinsic Wallet](https://trinsic.id/trinsic-wallet/) by [Trinsic](https://github.com/trinsic-id)
 - [Esatus Wallet](https://esatus.com/esatus-ssi-wallet-app-ab-sofort-fuer-ios-und-android-verfuegbar/?lang=en) by Esatus
 - [Lissi ID Wallet](https://lissi.id/mobile) by [Lissi](https://github.com/lissi)
-- [Jolocom Smart Wallet](https://jolocom.io/solution/) by [Jolocom](https://github.com/jolocom)
+- [Jolocom Smart Wallet](https://github.com/jolocom)
 - [SelfKey Wallet](https://selfkey.org/self-sovereign-identity/) by [SelfKey Foundation](https://github.com/SelfKeyFoundation)
 - [Connect.Me Wallet](https://try.connect.me/) by [Evernym](https://github.com/evernym)
 - [Data Wallet](https://igrant.io/datawallet.html) by [iGrant.io](https://github.com/L3-iGrant)
@@ -115,10 +115,6 @@ It can be integrated into new or existing ecosystems and provide fundamental dec
 * [Lissi Wallet • @lissi_id](https://twitter.com/lissi_id/status/1397174023893684226)
 
 (1/9) The #Lissi #Wallet is now available as a release candidate. This thread will provide you with an overview of the development of the [#identity wallet.
-
-* [Introducing the user-ready, production-ready Jolocom SmartWallet](https://jolocom.io/blog/production-ready-smartwallet/)
-
-And, much like a physical wallet, you will be able to use the contents of your SmartWallet to prove your identity, by showing the cards and information you carry to whoever has requested it. However, using self-sovereign identity (SSI) technology the SmartWallet goes further. It gives you complete control over who sees what, as you curate the sources of your identity.
 
 * [Open-Source Sovrin SSI Wallet - Functionality Design Session](https://iiw.idcommons.net/index.php?title=22M/_Open-Source_Sovrin_SSI_Wallet_-_Functionality_Design_Session&action=edit&redlink=1) by Chris Raczkowski
 
