@@ -18,9 +18,6 @@ Looking to improve the DWeb? Take a look at our RFP-013: "Cryptonet Network Gran
   > interested users will be able to create a self-sovereign identity on the platform by following the steps on the [social.network](https://t.co/xRbWzSrZQf) landing page (h/t [@SelfSovID](https://twitter.com/SelfSovID)
 * [How to Sign Users In with IndieAuth](https://aaronparecki.com/2021/04/13/26/indieauth) Aaron Parecki 2021-04-13
   > IndieAuth is an extension of OAuth 2.0 that enables an individual website like someone's WordPress, Gitea or OwnCast instance to become its own identity provider. This means you can use your own website to sign in to other websites that support IndieAuth.
-* [The latest in the DWeb: Jolocom’s breakthrough](https://jolocom.io/blog/sdi-breakthrough/)
-
-At the last DWeb Meetup, we were invited to share our role in the German Government’s 60M Euro SDI (Secure Digital Identities) innovation project to bring “Self-Sovereign Identity” to German and EU citizens.
 
 * [Credentials and HTTP-Sig authentication for Solid](https://lists.w3.org/Archives/Public/public-credentials/2021Feb/0029.html) Henry Story
   > Here is an extended version of the HTTP-Signature document I put together today, bringing in ideas that have emerged thinking about this over the past 3 months
