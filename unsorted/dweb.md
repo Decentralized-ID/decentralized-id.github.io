@@ -101,3 +101,32 @@ In keeping with the DWeb Camp theme, we also demonstrated how decentralized iden
 
 Ubikom is free, open-source email framework based on the concept of [Self-Sovereign Identity.](https://sovrin.org/faq/what-is-self-sovereign-identity/) You own your identity (which, in this case, means your private key), and all the outgoing and incoming messages are encrypted and signed by default.
 
+* [The Decentralized Web: An Introduction](https://blog.archive.org/2022/02/15/the-decentralized-web-an-introduction/) Archive.org 2022-02-15
+  > Providing that baseline of knowledge is the goal of a series of six workshops called [“Imagining a Better Online World: Exploring the Decentralized Web](https://metro.org/decentralizedweb).”
+* [The Battle for the Soul of the Web](https://www.theatlantic.com/technology/archive/2022/10/internet-archive-decentralized-web-web3-brewster-kahle/671647/) The Atlantic
+  > Musings from, amongst other places, Unfinished Live and DWeb Camp all written up in the Atlantic.
+  > 
+  > Long before the NFT boom or the Web3 backlash, an unglamorous movement was under way. Where does it stand now?
+* [Prepping for DWeb Camp](https://blog.holochain.org/preparing-for-dweb-camp/) HoloChain
+  > On this theme, I’m particularly interested in one event, an attempt to [map the projects that make up the DWeb](https://gitlab.com/getdweb/dweb-camp-2022/-/issues/77) and look for opportunities for interoperability. This was a [vision](https://dwebcamp2019.sched.com/event/S4vH/building-bridges-connecting-tech-stacks-for-humane-ux) I carried with me to the last DWeb Camp, and I’m hoping to see more conversations about building bridges between networks.
+
+## Solid - Inrupt
+
+* [TBL: Out to Remake the Digital World](https://www.nytimes.com/2021/01/10/technology/tim-berners-lee-privacy-internet.html). 2021-01-10
+  > A story appeared in the NY Times about Tim Berners-Lee’s vision for the web and Solid-Inrupt that are working towards fulfilling it. The article included a quote from Kaliya, and has stirred up an active thread on the CCG mailing list.
+
+> Others say the Solid-Inrupt technology is only part of the answer. “There is lots of work outside Tim Berners-Lee’s project that will be vital to the vision,” said Kaliya Young, co-chair of the Internet Identity Workshop, whose members focus on digital identity.
+> 
+> Mr. Berners-Lee said that his team was not inventing its own identity system, and that anything that worked could plug into its technology.
+
+* [Byline: Tim Berners-Lee wants to put people in control of their personal data.](https://lists.w3.org/Archives/Public/public-credentials/2021Jan/subject.html): Michael Herman 
+  > He has technology and a start-up pursuing that goal. Can he succeed?
+  > - Has anyone else looked at this article?
+  > - Anyone familiar with TBL’s view of Decentralized Identity?
+  > - Is there anyone from the Solid project or Inrupt a member of CCG?
+
+- A *[solid](https://lists.w3.org/Archives/Public/public-credentials/2021Jan/thread.html)* [discussion is underway](https://lists.w3.org/Archives/Public/public-credentials/2021Jan/thread.html), including this [from Kayode Ezike](https://lists.w3.org/Archives/Public/public-credentials/2021Jan/0039.html)
+  > when I developed solid-vc, I was operating mostly under the threat model of compromised cryptographic keys used to sign credentials via jsonld-signatures and a compromised Solid password.*
+  > 
+  > I don't want to bombard you all with too much information about this project in this thread, but for now I will share the [solid-vc repo](https://github.com/kezike/solid-vc) again as well as [my RWoT9 submission](https://github.com/WebOfTrustInfo/rwot9-prague/blob/master/topics-and-advance-readings/solid-vc.md).
+

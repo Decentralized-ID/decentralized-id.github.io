@@ -15,6 +15,8 @@ Talao SSI wallet now available on Apple AppStore and Google Play		https://medium
   > Your [OScore](https://www.ocredit.io/) is based on data authorized by you and is updated to reflect changes in behavior and lending practices.
   > 
   > OScore is not associated with your off-chain identities. In other words, it respects user privacy and supports full anonymity.
+* [Ontology Partners With 4EVERLAND to Accelerate Web 3.0 Adoption](https://medium.com/ontologynetwork/ontology-partners-with-4everland-to-accelerate-web-3-0-adoption-dfc658e8ea21)
+  > Ontology is partnering with [4EVERLAND](https://www.4everland.org/), a Web 3.0 cloud computing platform enabling global acceleration, privacy protection, distributed storage and other technical features to accelerate the move towards Web 3.0.
 
 ## Tezos Profiles - Spruce
 * [Announcing the Tezos Profiles Alpha Launch](https://sprucesystems.medium.com/announcing-the-tezos-profiles-alpha-launch-7e889de2f6c3) 2021-05-28 Spruce Systems
@@ -138,3 +140,4 @@ By producing an accessible, open-source wrapper library, Tangle Labs provides an
   - [Introducing: Element](https://medium.com/transmute-techtalk/introducing-element-328b4260e757) - The Sidetree Protocol Implemented on Ethereum
   - [Encrypted Data Vaults](https://medium.com/transmute-techtalk/encrypted-data-vaults-c794055b170e)
   - [Verifiable Credentials with Transmute and Otaka](https://medium.com/transmute-techtalk/verifiable-credentials-with-transmute-and-okta-574edaec887b)
+

@@ -4,6 +4,8 @@ published: false
 
 # Open Source
 
+* [Open-Source Ideas Reports](https://gbbcouncil.org/initiatives/open-source-ideas-series/) Global Blockchain Business Council
+
 * [Drilling Down on what Open Source is](https://medium.com/decentralized-identity/drilling-down-open-source-f50d1a4f2a76) DIF
     > The ostensibly binary distinction between “open” and “closed” software gets bandied about in many contexts, often in a dangerously simplified form, as though there were only two, mutually-exclusive options.
 * [Three Scenarios for Rolling Back Surveillance Capitalism](https://reb00ted.org/tech/20201009-three-scenarios-rolling-back-surveillance-captialism/) by Johannes Ernst

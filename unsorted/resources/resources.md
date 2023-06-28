@@ -6,6 +6,12 @@ published: false
 * [New to the topic of self-sovereign identity?](https://threadreaderapp.com/thread/1405788127265005571.html) 2021-06-18 SSIAmbassador
   > No problem, there are several beginner #guides, which you can use to get familiar with the new standard for digital #identity.
 * [HIPE 0014-ssi-notation](https://github.com/hyperledger/indy-hipe/tree/master/text/0014-ssi-notation)
+* [LAYER 1 UTILITIES: AN UNDERGROUND NETWORK CONNECTING ALL SSI ECOSYSTEMS](https://trustoverip.org/blog/2022/03/04/layer-1-utilities-an-underground-network-connecting-all-ssi-ecosystems/) Trust Over IP 2022-03-04
+
+- Understand: [A general framework for choosing which Layer 1 Utility and did method to utilise](https://docs.google.com/document/d/10NGAtlov49dbaDX96C0F4MdRrr20eHiE4RSZfJu0oXU/edit#heading=h.3e0mwiwnhg9n)
+- Compare: [A comparison chart of all Layer 1 Utilities and identity overlay networks](https://docs.google.com/spreadsheets/d/18MpvpFPLjL2I7RSFI44heWrrvf3l9pAArzhznAPFVAQ/edit#gid=0)
+- Comply: [A guidance document for data protection and GDPR compliance](https://docs.google.com/document/d/11KkdraiY9oASjU-H91MGxJ7-mNyhnCsfNSG4MFq8Qec/edit)
+- Innovate: DeFi compliance on top of Layer 1 Utilities ([Shyft](https://www.shyft.network/), [Notabene](https://notabene.id/), [Centre](https://www.centre.io/)), payments for Verifiable Credentials ([cheqd](https://www.cheqd.io/), [Kilt](https://www.kilt.io/), [Velocity](https://www.velocitynetwork.foundation/self-sovereign-identity-ssi-and-the-velocity-network/)), overlay networks ([did:ion](https://identity.foundation/ion/), [did:tz](https://did-tezos-draft.spruceid.com/), [did:orb](https://securekey.com/securekeys-new-ledger-agnostic-solution-orb-helps-solve-decentralized-identifier-challenges/)), [KERI](https://keri.one/) and self-certifying identifiers, self-executable governance (to name a few!) are all Layer 1 Utility innovations on the horizon. Let us know what you’d like to see going forward and how we can build guidance and documentation around it!
 
 * [Self Sovereign Identity Wikipedia Article](https://en.wikipedia.org/wiki/Self-sovereign_identity) that has been started, but can clearly still use a lot of attention. (h/t [@Drabiv](https://twitter.com/Drabiv/status/1102166656019849216))
 * [Self-Sovereign Identity : Decentralized digital identity and verifiable credentials](https://www.manning.com/books/self-sovereign-identity) Manning
