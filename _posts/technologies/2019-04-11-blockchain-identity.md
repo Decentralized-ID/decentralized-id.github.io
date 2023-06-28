@@ -31,6 +31,9 @@ toc_sticky: true
   > Blockchain technology could function as the foundation of such system being a network for decentralized trust and exchange. Because everyone can participate as issuer or acquirer (and both), there are low adoption barriers and low costs. This allows new business opportunities for governments, banks and other authorities and more transparency and control for end-users.
 
 ## General
+* [12 Ways Crypto and Blockchain Tech Will Change the World (and Boost Your Bottom Line)](https://moneymorning.com/2022/04/08/12-ways-crypto-and-blockchain-tech-will-change-the-world-and-boost-your-bottom-line/) 2022-04-08
+  > No. 7: Protecting Our Personal Data\
+  > Called a "self-sovereign identity," it would keep the data with the individual. People would use the Secure ID for online interactions; any data sent would be encrypted. But the key is that those online entities would not store the data themselves. So, there would be no more huge, centralized places where personal data could be stolen.
 * [curated list] [Peacekeeper's Blockchain and Identity](https://github.com/peacekeeper/blockchain-identity) 2021-11-23
 * [Three approaches to Self-Sovereign Identity based on blockchain](https://medium.com/coinmonks/three-approaches-to-self-sovereign-identity-based-on-blockchain-301b18a49345) 2021-10-20 Rosario De Chiara Coinmonks
   > The third approach is, in a way, derived from the previous one, and is the one pursued by [uPort/Serto](https://www.uport.me/): the blockchain has one single registry that tracks down just the revocation of credentials,
