@@ -2,24 +2,6 @@
 published: false
 ---
 
-# Non SSI Identity Standards
-
-## Contents
-
-* OpenID
-
-* FIDO
-
-* OAuth
-
-* SCIM
-
-* SAML
-
-* KMIP
-
-* Secure QR Code
-
 ## OpenID
 
 ++++ OpenID Foundation Publishes Whitepaper on Open Banking	https://openid.net/2022/03/18/openid-foundation-publishes-whitepaper-on-open-banking/	The paper documents the international movement towards Open Banking, Open Finance, and secure, consent driven access to all user data. It describes the OpenID Foundation and in particular the Financial-Grade API (FAPI) Working Group’s experience with Open Banking ecosystems internationally.	OpenID
