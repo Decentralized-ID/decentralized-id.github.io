@@ -22,3 +22,9 @@ One of the biggest problems in open source software development today is that it
 - As part of the EU eSSIF Lab and the result of many months of work, Sphereon released an implementation of the DIF Presentation Exchange, an interoperable exchange of VC/VPs between Wallets and Verifiers.
 - [The library is Open Source and Sphereon is donating all code and rights to the DIF](https://github.com/Sphereon-Opensource/pex).
 
+## SSI and Open Source - Richard Esplin
+
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ymYdtVbs5lTe52" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+
+[Self-Sovereign Identity (SSI) and Open Source - Richard Esplin](https://www.slideshare.net/SSIMeetup/selfsovereign-identity-ssi-and-open-source-richard-esplin)

@@ -156,18 +156,6 @@ Gimly ID is leading self-sovereign identity innovation, with the implementation 
 
 Julian describes digi.me’s mission of empowering people with their personal data, as individuals know where all their data is, while they also have “a right for that data”. By having that knowledge and ownership, only individuals have “unlimited usage rights” to unlock the potential data has to be a force for good.
 
-* [Businesses need to ‘mind the trust gap’ so users don’t need to sacrifice privacy, MEF Global Consumer Trust Survey finds](https://blog.digi.me/2021/05/20/businesses-need-to-mind-the-trust-gap-so-users-dont-need-to-sacrifice-privacy-mef-global-consumer-trust-survey-finds/) DigiMe 2021-05-20
-
-Key findings from the report are:
-
-- Users sacrifice privacy and security for access to valued services
-- Smartphone users begin to sense improvement in the mobile environment
-- More and more users take protective steps, but remain exposed to harm
-- Protective actions do not necessarily drive confidence
-- Cost, knowledge and perceived complexity are key barriers
-- Transparency and control are key values for users
-
-
 ###  Entrustient
 
 * [The First No Code Solution for Trusted Decentralized Digital Identity SSI on Redundant Blockchains](https://www.prnewswire.com/news-releases/entrustient-launches-the-first-no-code-solution-for-trusted-decentralized-digital-identity-using-self-sovereign-identity-on-redundant-blockchains-301436112.html) Entrustient

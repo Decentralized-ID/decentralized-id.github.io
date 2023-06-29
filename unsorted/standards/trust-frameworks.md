@@ -92,3 +92,15 @@ Questions started at about [46:30]  – though some questions came earlier. We 
   > Decentralized Ecosystem Governance makes verifying data an easy-to-play game of red light/green light. And, importantly, it decentralizes governance to the appropriate authorities.
 * [Trust Registry or Machine-Readable Governance?](https://indicio.tech/trust-registry-or-machine-readable-governance/) Indicio
   > Machine-readable governance is composed of elements that help to establish trust and enable interoperability: trusted participants, schemas (templates for structuring information in a credential), and rules and flows for presenting credentials and verifying them. Machine-readable governance can be hierarchical. Once a governance system is published, other organizations can adopt and then amend or extend the provided system.
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hwUlr34zkyfGvm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+
+[Overview of the Proposed PanCanadian Trust Framework for SSI - Tim Bouma](https://www.slideshare.net/SSIMeetup/overview-of-the-proposed-pancanadian-trust-framework-for-ssi-tim-bouma)
+
+
+### CULedger and MyCUID
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/3ypv0M4BJA8pPs" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+
+[Trust Frameworks and SSI: An Interview with CULedger on the Credit Union MyCUID Trust Framework](https://www.slideshare.net/SSIMeetup/trust-frameworks-and-ssi-an-interview-with-culedger-on-the-credit-union-mycuid-trust-framework)
+
+

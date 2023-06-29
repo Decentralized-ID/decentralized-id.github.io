@@ -254,3 +254,10 @@ Spruce’s continued mission is to let users control their data across the web, 
 * [Global ID: Introducing our new ID Wallet](https://medium.com/global-id/future-proof-ep-22-introducing-our-new-id-wallet-5d190fd984b2) FUTURE PROOF
 
 Our biggest product release in some time, our new ID Wallet is a core pillar of our mission to enable anyone to create and own their digital identity. We spoke with GlobaliD’s Trey Steinhoff to discuss the launch.
+
+## Digital Identity Wallets - Darrell O’Donnell
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/944N0smmmpQrA6" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+
+[The State of Digital Identity Wallets – Darrell O’Donnell](https://www.slideshare.net/SSIMeetup/the-state-of-digital-identity-wallets-darrell-odonnell)
+

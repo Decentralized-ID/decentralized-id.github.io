@@ -1,5 +1,5 @@
 # Development
-* [Comparing X.509 Certificates with SSI](https://www.windley.com/archives/2021/05/comparing_x509_certificates_with_ssi.shtml) Windley
+* [Comparing X.509 Certificates with SSI](https://www.windley.com/archives/2021/05/comparing_x509_certificates_with_ssi.shtml) 2021-05 Phil Windley
   > X.509 certificates have been around for 40 years and have proven to be a trustworthy means of exchanging data. So, what are the differences between X.509 ceritificates and SSI? And what are the advantages of each?
 * [resources] [Getting Started with Self Sovereign Identity SSI](https://damienbod.com/2021/03/29/getting-started-with-self-sovereign-identity-ssi/) 2021-03-29
   > The blog is my getting started with Self Sovereign identity. I plan to explore developing solutions using Self Sovereign Identities, the different services and evaluate some of the user cases in the next couple of blogs.
