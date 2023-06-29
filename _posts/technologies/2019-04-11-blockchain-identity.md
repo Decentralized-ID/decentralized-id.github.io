@@ -79,7 +79,10 @@ toc_sticky: true
 
 ## Do you need a blockchain?
 
-* [Self Sovereign Identity ≠ Blockchain](https://jolocom.io/blog/dezentrale-identitaten-%e2%89%a0-blockchain-2/) 2021-11-09 Jolocom
+* [SSI-on-Blockchain is Objectively a Bad Thing](https://weh.wtf/ssi.html) 2022-07-08 Niko
+  > “Blockchain” in SSI exists for PR only, not for engineering reasons.\
+  > Note: I am only going to talk about the “blockchain” part of Self-sovereign Identity. Many things, good and bad, can be said about self-sovereign identity, but in order to keep the scope of this document manageable, I’ll leave the broader SSI-discussion to others.
+* [Self Sovereign Identity ≠ Blockchain](http://web.archive.org/web/20211205223357/https://jolocom.io/blog/dezentrale-identitaten-%E2%89%A0-blockchain-2/) 2021-11-09 Jolocom
   > Due to the ID-Wallet project in Germany, some articles and comments have equated Self Sovereign Identity (SSI) with blockchain technology in the last few weeks. The impression is given that SSI only works in conjunction with a blockchain. Spoiler, that’s not the case.
 * [Do You Need Blockchain for Enabling SSI?](https://academy.affinidi.com/do-you-need-blockchain-for-enabling-ssi-452d62b34890) 2021-08-13 Affinidi
   > We hope this will get you thinking about enabling SSI using an option that best suits your application or business requirement.

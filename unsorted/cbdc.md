@@ -12,3 +12,5 @@ Central banks are realising CBDCs will have to be intimately linked to identity 
 * [New Video: MetaMUI SSID](https://sovereignwallet.medium.com/new-video-metamui-ssid-8bcef6281cf3) Sovereign Wallet
 
 MetaMUI SSID is the world’s first true Self-Sovereign Identity Application that enables running Blockchain-Based E-Government System, and CBDC payments on top of MetaMUI Blockchain.
+* [Video] [Dividing the Movement w. Alison McDowell (Separating Signal from Noise)](https://www.youtube.com/watch?v=awCcnstfhLY) 2022-03-08 Doom&GloomHQ
+  > Something that i found on some of the research that we were doing on the international bank of settlements (BIS). I don't like them, but I like the way that they present information sometimes. But CBDC 2.0 since we're moving toward that direction um they kind of called it a like a money flower. It has like four different sections which is: your accessibility, what kind of money, who issues that money, and then the technology that it 

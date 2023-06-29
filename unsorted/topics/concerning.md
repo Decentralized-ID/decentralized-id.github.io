@@ -4,29 +4,14 @@ published: false
 
 # Concerning
 
-* [#Identity. Are we (the industry) the problem?](https://www.mydigitalfootprint.com/2021/08/identity-are-we-industry-problem.html) MyDigitalFootprint
-
-It is evident that our ongoing discussions about identity, ethics, bias, privacy and consent revolve around a lot of noise (opinions) but little signal (alignment), but why?  Recognising that in 30 years of digital identity, we still lack coherent and coordinated action to make it work for everyone is a reality.
-
 * [Facebook & Instagram outages expose the pain points of Centralized identity systems](https://blockchainmagazine.net/facebook-instagram-outages-expose-the-pain-points-of-centralized-identity-systems/)
-
-For example, projects such as PhotoChromic are developing a biometrically managed self-sovereign identity on the blockchain utilising the feature sets of NFTs (non fungible tokens). Self-sovereign identity ensures that a user retains complete control over their identity without anyone else having access to it.
-
-
+  > For example, projects such as PhotoChromic are developing a biometrically managed self-sovereign identity on the blockchain utilising the feature sets of NFTs (non fungible tokens). Self-sovereign identity ensures that a user retains complete control over their identity without anyone else having access to it.
 * [“The power to surveil, control, and punish”: The dystopian danger of a mandatory biometric database in Mexico](https://restofworld.org/2021/the-dystopian-danger-of-a-mandatory-biometric-database-in-mexico/) RestofWorld.org
-
-there is a push by corporations and international institutions such as the World Bank to create these kinds of databases to identify people and conflate two things: the right of every person to be recognized legally by a government and an identification system that intermediates people’s transactions with public and even private services.
-
-* [India Will Once Again Require Biometric Attendance for Government Employees](https://findbiometrics.com/india-will-once-again-require-biometric-attendance-government-employees-110505/)
-
-Public institutions in India will soon be resuming their use of contact-based biometric sensors. Biometric authentication had been mandatory for all government employees prior to the pandemic, but the Indian central government was [one of several institutions](https://findbiometrics.com/biometrics-news-hyderabad-punjab-join-governments-banning-fingerprint-based-biometrics-amid-fears-covid-19-030602/) that [suspended the practice](https://findbiometrics.com/authorities-in-pakistan-india-suspend-biometric-attendance-systems-over-covid-19-concerns-902281/) due to health concerns following the outbreak of COVID-19.
+  > there is a push by corporations and international institutions such as the World Bank to create these kinds of databases to identify people and conflate two things: the right of every person to be recognized legally by a government and an identification system that intermediates people’s transactions with public and even private services.
 * [Singapore’s tech-utopia dream is turning into a surveillance state nightmare](https://restofworld.org/2021/singapores-tech-utopia-dream-is-turning-into-a-surveillance-state-nightmare/) RestofWorld
-
-“What [technology] will do for people is make our lives a hell of a lot easier, more convenient, more easily able to plug into the good life,” said Monamie Bhadra Haines, an assistant professor at the Technical University of Denmark, who studies the intersection between technology and society. “But … the surveillance is what is here, now.”
-
+  > “What [technology] will do for people is make our lives a hell of a lot easier, more convenient, more easily able to plug into the good life,” said Monamie Bhadra Haines, an assistant professor at the Technical University of Denmark, who studies the intersection between technology and society. “But … the surveillance is what is here, now.”
 * [Portpass app may have exposed hundreds of thousands of users' personal data](https://ca.news.yahoo.com/portpass-app-may-exposed-hundreds-172257702.html)
-
-The fderal privacy commissioner also said it has not yet received a report, and said it has contacted Portpass to seek further information in order to determine next steps, and that it is in communication with its provincial counterpart.
+  > The fderal privacy commissioner also said it has not yet received a report, and said it has contacted Portpass to seek further information in order to determine next steps, and that it is in communication with its provincial counterpart.
 
 ## "DIDAlliance"
 
@@ -39,7 +24,7 @@ Here is a link to the [video presentation](https://www.youtube.com/watch?v=Zj44R
 * [The business models of identity](https://blog.verim.id/the-business-models-of-identity-bb3336773727)
 
 A post by Verim justifying their pay to play for Identity credentials.  Adding another layer of complication
-### Very Worrying Development [Internet Identity: The End of Usernames and Passwords](https://medium.com/dfinity/internet-identity-the-end-of-usernames-and-passwords-ff45e4861bf7) via centralized issuance of a number?
+* Very Worrying Development [Internet Identity: The End of Usernames and Passwords](https://medium.com/dfinity/internet-identity-the-end-of-usernames-and-passwords-ff45e4861bf7) via centralized issuance of a number?
 
 ## Breaches 
 U.S. Treasury breached by hackers backed by a foreign government
@@ -87,7 +72,3 @@ Today, ‘everyone’ including powerful actors and decision-makers like the UK 
 * [Bolt drivers in Nigeria are illicitly selling their accounts, putting passengers at risk](https://restofworld.org/2022/bolt-drivers-in-nigeria-are-illicitly-selling-their-accounts-putting-passengers-at-risk/) RestofWorld
 
 “I asked the driver why the app showed me a different driver’s face, and he claimed Bolt blocked his account so he was using his brother’s.”
-
-* [Is "acceptably non-dystopian" self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/) By Molly Wood ([Hacker News](https://news.ycombinator.com/item?id=31701601)
-
-as more and more developers and companies and “blockchain visionaries” seek to eschew centralization and trust in the state and institutions, it seems that their definition of “acceptably” when they describe “acceptably non-dystopian” projects is very different from my own.
