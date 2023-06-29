@@ -1,5 +1,5 @@
 ---
-title: "Resources and Introductions to Decentralized Identity"
+title: "Resources and Introduction to Decentralized Identity"
 description: Getting Started with Decentralized, Self Sovereign, Digital Identity
 excerpt: >
   The essence of Decentralized-ID is in creating open standards for a privacy preserving internet-wide identity layer — not owned by any one particular organization, but interoperable between all.
@@ -34,12 +34,14 @@ It's impossible to have a conversation about decentralized-id without discussing
 ## Getting Started with Decentralized, Self Sovereign, Digital Identity
 * [Decentralized identity: The Direct Presentation model](https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-direct-presentation-model/ba-p/3071981) 2022-02-02 Microsoft
   > The technical name for the model at work here is called the Direct Presentation model. A credential is issued, and then held for a long period of time with intermittent voluntary presentations to many different verifiers. To put that back into our example, my auto club issues me a card, which I hold in my wallet for years (maybe decades!), and I might choose to show that card to a garage when I need a tow, or possibly to a store to get a discount.
+  ![](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/344648i845AB748FB3E8433/image-dimensions/600x204?v=v2)
 * [New to the topic of self-sovereign identity?](https://threadreaderapp.com/thread/1405788127265005571.html) 2021-06-18 SSIAmbassador
   > No problem, there are several beginner #guides, which you can use to get familiar with the new standard for digital #identity.
 * [Video] [Understanding the SSI Identity Model with Verifiable Credentials](https://www.youtube.com/watch?v=TRuz39SEX7E) 2021-11-13 Manning
   > Drummond Reed, an expert in Internet identity, security, privacy, and trust frameworks, explains the basic building blocks of SSI and how this new identity model fundamentally works. 
 * [Video] [Karyl Fowler (Transmute) and Juan Caballero (DIF) present Intro to SSI at #IIW31](https://www.youtube.com/watch?v=DaM0UtQTLCs) 2020-10 Keryl Fowler, Juan Caballero [Slides](https://drive.google.com/file/d/1_9jCcxgcCrL4Dfjvr4z7XSIwxfadjveR/view?usp=sharingQ)
   > Karyl and Juan revisited their slide deck from #IIW30 to give an overview of decentralized identity first as a "philosophy" at the confluence of ideological currents (Juan), and then as a set of specific emerging technologies which unlocks new mental models and business models that are still coming into focus sector by sector (Karyl). There follows a brief overview of educational resources, including some products of DIF's recent educational "content sprint," and a wide-ranging Q&A including podcast recommendations and how to navigate open standards for the first time.  The slides are here, in downloadable and hyperlinked PDF form:
+  > ![](https://i.imgur.com/d0pTD8q.png)
 * [What Is Self-Sovereign Identity?](https://trinsic.id/what-is-self-sovereign-identity/) 2020-04-28 Trinsic
   > Self-sovereign identity is the marriage of real identity with the digital world that will ultimately make people’s lives better.² It’s still in its infancy, and there is a long road ahead to truly make digital identity as legitimate and nuanced as a real-world identity.
 * [Explaining SSI to C-suite executives, and anyone else for that matter – John Phillips](https://ssimeetup.org/explaining-ssi-c-suite-executives-anyone-else-john-phillips-webinar-48/) 2020-02-18 SSIMeetup
@@ -55,6 +57,7 @@ It's impossible to have a conversation about decentralized-id without discussing
   > - Enabling registration of self-sovereign identifiers that no provider owns or controls.
   > - The ability to lookup and discover identifiers and data across decentralized systems.
   > - Providing a mechanism for users to securely store sensitive identity data, and enabling them to precisely control what is shared with others.
+  > ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*zzyFrx56I_SzDEUxEglCjw.png)
 * [The Case for Decentralized Identity](https://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml) 2017-08 Phil Windley
   > We cannot decentralize many interesting systems without also decentralizing the identity systems upon which they rely. We're finally in a position to create truly decentralized systems for digital identity.
 * [The Path to Self-Sovereign Identity](https://github.com/ChristopherA/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md) 2017-03-01 Christopher Allen
@@ -98,6 +101,7 @@ If you're looking to freshen up on your digital identity fundamentals, the follo
 * [Directory] [Global Verifiable Credential Adoption](https://trinsic.notion.site/trinsic/Global-Verifiable-Credential-Adoption-78c7e4c5f2a34a228a55d03db54ab399) 2023-07-05 Trinsic
   > 🔥 This is a community resource for tracking the adoption of verifiable credentials around the world. Please have a look around and join 10+ others who have contributed!
 * [Curated List] [animo/awesome-self-sovereign-identity/](https://github.com/animo/awesome-self-sovereign-identity) 2023-07-07 Animo
+  > An awesome list of self-sovereign identity resources. 
 * [Blog] [Phil Windley - Tags: identity](http://www.windley.com/tags/identity.shtml) 2023-06-26 [[Videos](https://vimeo.com/windley/videos)]
   > Phil Windley is a Senior Software Development Manager at AWS Identity. He is also the co-founder and organizer of the [Internet Identity Workshop](http://internetidentityworkshop.com/). [...] He was the Founding Chair of the Sovrin Foundation serving from 2016 to 2020, writes the popular Technometria blog, and is the author of the books [Learning Digital Identity](https://www.oreilly.com/library/view/learning-digital-identity/9781098117689/) (O'Reilly, Media 2023),  [The Live Web](http://www.amazon.com/exec/obidos/ASIN/1133686680/windleyofente-20) (Course Technology, 2011), and [Digital Identity](http://www.amazon.com/exec/obidos/ASIN/0596008783/windleyofente-20) (O'Reilly Media, 2005). Phil has been a computer science professor at BYU and the University of Idaho, founder and CTO of several internet technology companies, and served as CIO for the State of Utah.
 * [Blog] [Identity Woman](https://identitywoman.net/) 2023-06-13 
