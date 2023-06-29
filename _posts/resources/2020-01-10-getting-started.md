@@ -70,6 +70,10 @@ It's impossible to have a conversation about decentralized-id without discussing
 ## Digital Identity 101
 If you're looking to freshen up on your digital identity fundamentals, the following resources will be a good place to start.
 
+* [Why do you care about identity?](https://wider.team/2022/01/18/phil-cares-about-identity/) 2022-01-18 Phil Wolff 
+  > I love that it’s more than a technical discussion. It’s laws. Sociology. Politics and civics. Commerce. Psychology. Ethics. History. Economy. All the humanities.
+  > 
+  > Identity touches everything. It always will. Computation and communication continue their pervasion, and identity spreads with them.
 * [Difference Between Authentication and Authorization](https://www.beyondtrust.com/blog/entry/understanding-authentication-vs-authorization) 2020-10-19 Beyond Trust
   > What is the difference between authentication (authN) versus authorization (authZ)? While these two fundamental security terms are often confused with each other, the only real similarity is they both begin with the letter “A” and are linked by an account. In concept, one verifies the account (authentication) and the other sanctions (authorization) the account to perform a task. Because these terms are so fundamental, it’s crucial to understand the difference between them, and the implications for each when the concepts are blended
 * [Guide to Digital Identity — Part 1](https://medium.com/@dip_ak/guide-to-digital-identity-part-1-4b7c8fe45ee1) 2020-04-08 Deepak Gupta

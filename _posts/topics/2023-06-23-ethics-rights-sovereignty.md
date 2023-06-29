@@ -76,6 +76,8 @@ last_modified_at: 2023-06-23
   > Reaffirming the human rights and fundamental freedoms enshrined in the Universal Declaration of Human Rights and relevant international human rights agreements such as the UN GP on BHR and Constitutional Rights;
   > 
   > Reaffirming the relevance of international human rights standards in the digital environment and the need to explore and expand new human rights guarantees for the future;
+* [Removing Anonymity Online Would Risk The Most Vulnerable Users](https://anonyome.com/2021/04/removing-anonymity-online-would-risk-the-most-vulnerable-users/) 2021-04 Anonym
+  > We all know online abuse can be incredibly damaging and [Pew](https://www.pewresearch.org/internet/2017/07/11/online-harassment-2017/) puts it like this: “In its milder forms, [online abuse] creates a layer of negativity that people must sift through as they navigate their daily routines online. At its most severe, it can compromise users’ privacy, force them to choose when and where to participate online, or even pose a threat to their physical safety.” 
 * [Universal Declaration of Digital Rights](https://docs.google.com/document/d/1y9C-5TPYmRruRQqJq39-HePk3ypWLDpSAEVzuonOH2Q/edit) 2020-10-21 Johannes Ernst
   > all states should recognise and promote universal respect for and observance of both fundamental human and digital rights in physical domain and the digital spaces environment and ensure that these rights are upheld as core elements of a free, open and representative society
 
