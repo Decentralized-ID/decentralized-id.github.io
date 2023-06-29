@@ -29,6 +29,7 @@ It's impossible to have a conversation about decentralized-id without discussing
 * Satoshi Nakamoto released [Bitcoin](https://bitcoinfo.xyz), proving the concept of digital scarcity in the form of a decentralized peer-to-peer (P2P) currency, inspiring leaders in every industry to integrate it's features to their business models.
 * At the same time, [Decentralized web](https://sourcecrypto.pub/decentralized-web/) and P2P technologists have also lent strength to Decentralized Identity efforts.
 * Collectively arrived at solutions are trending towards congruence with the spirit of innovation, privacy concerns, and compliance within the evolving global regulatory landscape.
+{: .notice--info}
 
 ## Getting Started with Decentralized, Self Sovereign, Digital Identity
 * [Decentralized identity: The Direct Presentation model](https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-direct-presentation-model/ba-p/3071981) 2022-02-02 Microsoft
