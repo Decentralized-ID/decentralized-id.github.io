@@ -7,7 +7,7 @@ excerpt: A selection of DID related literature and top level resources for disco
 header: 
   image: /images/literature-christian-wiediger-unsplash.webp
 categories: ["Resources"]
-tags: ["Literature"]
+tags: ["Literature","Resources"]
 toc: true
 toc_sticky: false
 redirect_from:
