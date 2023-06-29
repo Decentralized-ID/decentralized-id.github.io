@@ -7,7 +7,7 @@ layout: single
 permalink: application/trending-adoption/
 canonical_url: 'https://decentralized-id.com/application/trending-adoption/'
 categories: ["Application"]
-tags: ["Meta"]
+tags: ["Adoption","Trends"]
 last_modified_at: 2023-06-19
 ---
 
@@ -62,16 +62,6 @@ Self-sovereign identity Definition <-its quite good
 * [Self-sovereign identity](https://en.m.wikipedia.org/wiki/Self-sovereign_identity) 2020-06 Wikipedia - WE have a wikipedia article!
 * [Self Sovereign Identity - A glossary of distributed technologies](https://policyreview.info/open-abstracts/self-sovereign-identity) 2020-05-18 Policy Review
   > Released by the Internet Policy Review Journal on Internet Regulations received an entry on Self-Sovereign Identity By Alexandra Giannopoulou & Fennie Wang
-
-## Market Signals
-* [Decentralized Identity Market Signals](https://indicio.tech/decentralized-identity-market-signals/) 2022-05-25 Tim Spring Indicio
-  > In this rapid fire review we will take a look at, and break down, the biggest recent stories in digital identity and what they could mean for business and the average person using the internet.
-* [The Shape of your Identity](https://stateofidentity.libsyn.com/the-shape-of-your-identity) 2022-03-17 State of Identity Podcast
-  > How are personal data and digital identity reshaping society? [...] Cameron D'Ambrosi is joined by Michael Becker, CEO of Identity Praxis, to discuss the evolution of the identity industry, the latest trends to follow (or flee), and predictions for the future of both consumer and enterprise digital identity.  
-* [The Market Opportunity for Reusable Identity and How to Get There](https://liminal.co/reports/market-opportunity-for-reusable-identity/) 2022-02-03 Liminal
-  > The Total Addressable Market is $32.8B in 2022, to reach $266.5B by 2027, with a CAGR of 68.9%. Today, the market is still nascent but is posed for strong growth.
-* [Institutions digitising credentials, but blockchain use remains low](https://thepienews.com/news/digitising-credentials-blockchain-use/) 2021-05-17 The Pie News	[Research](https://www.aacrao.org/research-publications/aacrao-research/meeting-the-moment-transforming-the-digital-credentials-space)
-  > While some educational institutions have shifted to issuing EDX, digitally signed PDFs or blockchain verifiable credentials, reliance on paper-based credentials is still widespread. While both paper and even digitally signed PDF credentialing solutions have worked well enough, there are still unaddressed challenges facing students, employers, and other educational stakeholders in a global learning and employment marketplace.
 
 ## On Adoption
 * [The Decentralized Identity Schelling Point](https://www.linkedin.com/pulse/decentralized-identity-schelling-point-sarah-baldeo-bsc-mba/) 2023-03-01 Sarah Baldeo

@@ -11,6 +11,8 @@ published: false
 * [Testing the fitness of your organisation's preparedness for data](https://www.mydigitalfootprint.com/2021/08/testing-fitness-of-your-organisations.html) MyDigitalFootprint
   > How do you determine if your new company is addressing the underlying issues that hold back data from being what they imagine it can be?
 * [Global Survey Findings: Current state of SSI](https://iiw.idcommons.net/12O/_Global_Survey_Findings:_Current_state_of_SSI) by Gabriella Laatikainen, Ravikant Agrawal
+* [Working Spaces Are Ecosystems Too!](https://www.youtube.com/watch?v=MfBoUDNcyW4) Autumn Watkinson 2022-03-23 Trust over IP Foundation
+  > An ecosystem is a community of living organisms interacting with each other and their physical environment.  When you hear that definition, you might priture a pristine nature landscape, but that definition can also apply to how businesses, individual or organization interact with one and other.  This talk is about natural ecosystem and how we can adapt nature's lessons to our industry ecosystems.
 
 * [https://www.youtube.com/watch?v=lYb9bUyIPEw](https://www.youtube.com/watch?v=lYb9bUyIPEw)
 

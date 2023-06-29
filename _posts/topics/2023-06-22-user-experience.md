@@ -13,7 +13,7 @@ redirect_from:
   - self-sovereign-identity/user-experience
   - self-sovereign-identity/user-experience/
 categories: ["Topics"]
-tags: ["User Experience"]
+tags: ["User Experience","Relationships"]
 last_modified_at: 2023-06-23
 published: true
 ---
@@ -40,7 +40,7 @@ published: true
 * [How humans understand identity](https://medium.com/universal-identity/how-humans-understand-identity-367200ae9591) 2021-07-09 Universal Identity
   > Lack of great user experiences is often raised as one of decentralized identity’s (and public blockchain’s) missing ingredients for ubiquitous adoption. However to arrive at usable experiences across the industry, we first need to reach consensus around basic user personas and mental models, then design and build interoperable system accordingly.
 
-## Relationships
+## Relationship based Identity
 * [Are Transactional Relationships Enough?](https://www.windley.com/archives/2022/03/are_transactional_relationships_enough.shtml) 2022-03 Phil Windley
   > Our online relationships are almost all transactional. A purely transaction digital life can't feel as rich and satisfying as one based on interactional relationships. As more of our relationships are intermediated by technology, finding ways to support interactional relationships will allow us to live authentic digital lives.
 * [Backchannel: A relationship-based digital identity system](https://www.inkandswitch.com/backchannel/) 2021-09 Ink and Switch
@@ -49,6 +49,14 @@ published: true
   >  Self-sovereign identity (SSI) systems offers an alternative model that supports richer relationships. Rather than provisioning identifiers and accounts in an administrative system where the power imbalance assures that one party to the relationship can dictate the terms of the interaction, SSI is founded on peer relationships that are co-provisioned by the exchange of decentralized identifiers. This architecture implies that both parties will have tools that speak a common protocol. 
 * [Relationships and Identity](https://www.windley.com/archives/2020/07/relationships_and_identity.shtml) 2020-07 Phil Windley 
   > We build digital identity systems to create and manage relationships—not identities. 
+
+## Customer Relationships
+* [The Identity Imperative: Risk Management, Value Creation, and Balance of Power Shifts](https://identitypraxis.com/2021/12/10/the-identity-imperative-risk-management-value-creation-and-balance-of-power-shifts/) 2021-12-10 Michael Becker IdentityPraxis
+  > Brands need to prepare for fundamental shifts in people’s attitudes and expectations. The implications of these shifts will be profound, as they will force a change in competition, business models, product offerings, and business practices.
+* [The 7 Deadly Sins of Digital Customer Relationships](https://www.evernym.com/blog/7-deadly-sins-customer-relationships/) 2021-03-02 Evernym
+  > It’s not just about measuring customers, it’s about keeping them. Yet the more I look at how businesses design and manage their relationships with customers, the more I see dysfunction, waste and a collapse of consumer trust. In fact, I see a number of core business behaviours that are causing this waste, this dysfunction. Seven to be precise.
+* [Decentralized Identifiers: Building Smarter, More Sustainable Customer Relationships](https://www.evernym.com/blog/decentralized-identifiers-customer-relationships/) 2021-03-02 Evernym
+  > DIDs are about building lasting private and secure digital relationships with customers, and as we’ll see with each of the Deadly Sins, about reducing costs, increasing compliance and enabling truly personalized products and services – without being creepy.
 
 ## Design
 * [More security does not have to mean less user-friendliness](https://background.tagesspiegel.de/cybersecurity/mehr-sicherheit-muss-nicht-weniger-nutzerfreundlichkeit-bedeuten) 2022-06-05 Martin Kuppinger, Tagesspiegel

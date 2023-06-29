@@ -104,3 +104,7 @@ Questions started at about [46:30]  – though some questions came earlier. We 
 [Trust Frameworks and SSI: An Interview with CULedger on the Credit Union MyCUID Trust Framework](https://www.slideshare.net/SSIMeetup/trust-frameworks-and-ssi-an-interview-with-culedger-on-the-credit-union-mycuid-trust-framework)
 
 
+
+* [Is the Self-Sovereign digital identity the future digital business registry?](https://blogs.worldbank.org/psd/self-sovereign-digital-identity-future-digital-business-registry) 2021-12-17 GORAN VRANIC, ANDREJA MARUSIC; WorldBank
+  > This rapid digitalization of the private sector exposed a challenge in the business registration paradigm. To use private digital platforms for e-Logistics or e-Commerce, SMEs have to register and confirm their identity with these platforms, despite already being identified in the government business registry.
+  > ![](https://blogs.worldbank.org/sites/default/files/2021-12/digital_id_blog.jpg)
