@@ -35,3 +35,11 @@ Working through this now: more of a playbook [https://elements.disco.coop/](http
   > Real progress is made by rich, cross-disciplinary teams and heterogeneous coalitions coming together to attack hard problems from every angle at once.
 
 
+* [When it Comes to Decentralized Identity, Sell Solutions Not Rules](https://indicio.tech/when-it-comes-to-decentralized-identity-sell-solutions-not-rules/) 2022-02-02 Indicio
+  > - First, machine-readable governance simplifies how decentralized identity works: The user software handles the rules for information flows and authentication, which are established and published by the entities with authority for governing the use case.
+  > - Second, this architecture makes these rules transparent.
+  > - Third, and critically, it enables these rules to function offline through caching, which, when you think about it, is an essential feature in any digital identity verification system; trust can’t be dependent on a Wi-Fi signal.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/49oAhEWXzJXXi1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+
+[Decentralized governance for SSI and Blockchains with Lawrence Lundy-Bryan](https://www.slideshare.net/SSIMeetup/decentralized-governance-for-ssi-and-blockchains-with-lawrence-lundybryan)
