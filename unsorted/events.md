@@ -47,3 +47,11 @@ Project
 * [Takeaways from the Gartner IAM Summit 2022](https://www.radiantlogic.com/blog/takeaways_from_the_gartner_iam_summit_2022/) RadiantLogic
 
 It was mentioned in nearly every analyst session, and I couldn’t help but notice the number of vendors who have incorporated this concept into their marketing and their booth displays.
+
+
+## DWebCamp
+* [Prepping for DWeb Camp](https://blog.holochain.org/preparing-for-dweb-camp/) HoloChain
+  > On this theme, I’m particularly interested in one event, an attempt to [map the projects that make up the DWeb](https://gitlab.com/getdweb/dweb-camp-2022/-/issues/77) and look for opportunities for interoperability. This was a [vision](https://dwebcamp2019.sched.com/event/S4vH/building-bridges-connecting-tech-stacks-for-humane-ux) I carried with me to the last DWeb Camp, and I’m hoping to see more conversations about building bridges between networks.
+
+* [How Ethereal Engine is Unleashing the Power of the Immersive Web](https://www.linkedin.com/pulse/how-ethereal-engine-unleashing-power-immersive-web-etherealengine/) Ethereal Engine
+  > In keeping with the DWeb Camp theme, we also demonstrated how decentralized identifiers, identity web wallets, and verified credentials can be powerfully leveraged in Ethereal Engine to enable an entirely new paradigm of [frictionless portable identity](https://www.etherealengine.com/blog-posts/metaverse-for-humans) that champions user privacy and dignity.
