@@ -3,6 +3,7 @@ published: false
 ---
 
 # Infographic
+https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw
 
 * [Interesting diagram.](https://twitter.com/i3market_eu/status/1397474556839874563)
 

@@ -17,6 +17,8 @@ Talao SSI wallet now available on Apple AppStore and Google Play		https://medium
   > OScore is not associated with your off-chain identities. In other words, it respects user privacy and supports full anonymity.
 * [Ontology Partners With 4EVERLAND to Accelerate Web 3.0 Adoption](https://medium.com/ontologynetwork/ontology-partners-with-4everland-to-accelerate-web-3-0-adoption-dfc658e8ea21)
   > Ontology is partnering with [4EVERLAND](https://www.4everland.org/), a Web 3.0 cloud computing platform enabling global acceleration, privacy protection, distributed storage and other technical features to accelerate the move towards Web 3.0.
+* [Multi-Cloud orchestration makes identity work](https://idramp.com/multi-cloud-orchestration-makes-identity-work/) 2022-07-19 IDRamp
+  > It’s called decentralized identity orchestration and brings with it uniform security controls and functionality to your applications, services, and clouds. And built using open source and open standards, it establishes vendor neutrality, provides superior agility for continuous digital transformation, and propels digital business forward.
 
 ## Tezos Profiles - Spruce
 * [Announcing the Tezos Profiles Alpha Launch](https://sprucesystems.medium.com/announcing-the-tezos-profiles-alpha-launch-7e889de2f6c3) 2021-05-28 Spruce Systems
