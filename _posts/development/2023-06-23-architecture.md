@@ -5,9 +5,9 @@ excerpt: >
 description: Authentication and authorization both fall under identity and access management (IAM) but serve different purposes.
 layout: single
 toc: false
-permalink: /topic/architecture/
-canonical_url: 'https://decentralized-id.com/topic/architecture/'
-categories: ["Topics"]
+permalink: /development/architecture/
+canonical_url: 'https://decentralized-id.com/development/architecture/'
+categories: ["Development"]
 tags: ["Architecture"]
 last_modified_at: 2023-06-23
 ---

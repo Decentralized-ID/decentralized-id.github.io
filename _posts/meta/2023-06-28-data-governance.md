@@ -6,9 +6,9 @@ excerpt: >
 layout: single
 toc: true
 toc_sticky: true
-permalink: /topic/data-governance/
-canonical_url: 'https://decentralized-id.com/topic/data-governance/'
-categories: ["Topics"]
+permalink: /self-sovereign-identity/data-governance/
+canonical_url: 'https://decentralized-id.com/self-sovereign-identity/data-governance/'
+categories: ["About"]
 tags: ["Data Governance"]
 last_modified_at: 2023-06-29
 ---

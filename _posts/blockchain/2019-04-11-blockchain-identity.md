@@ -7,10 +7,9 @@ header:
   caption: "[NIST Cybersecurity (DRAFT) Blockchain Identity Management Approaches](https://arxiv.org/pdf/1908.00929.pdf)" 
   teaser: /images/blockchain-Tumisu_3019121.webp
 layout: single
-permalink: /tech/blockchain/
-canonical_url: "https://decentralized-id.com/tech/blockchain/"
-redirect_from:  /blockchain/
-categories: ["Technologies"]
+permalink: /blockchain/
+canonical_url: "https://decentralized-id.com/blockchain/"
+categories: ["Blockchain"]
 tags: ["NIST","Identiverse",Authenteq,Blockstack,Civic,Microsoft,Datum,ProCivis]
 last_modified_at: 2023-06-09
 toc: true

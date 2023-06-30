@@ -4,9 +4,9 @@ description: "How can biometrics help improve accessibility to critical services
 excerpt: >
   Instead of putting PII and biometrics in the same database, we need to put them in different places, but prove that there's a link between the holder of a biometric cred and the holder of other PII.
 layout: single
-permalink: /tech/biometrics/
-canonical_url: "https://decentralized-id.com/tech/biometrics/"
-categories: ["Technologies"]
+permalink: /development/biometrics/
+canonical_url: "https://decentralized-id.com/development/biometrics/"
+categories: ["Development"]
 tags: ["Biometrics"]
 last_modified_at: 2023-06-09
 toc: true

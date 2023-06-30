@@ -6,13 +6,13 @@ description: the mere fact of building such a verifiable and traceable architect
 layout: single
 toc: true
 toc_sticky: true
-permalink: /topic/user-experience/
-canonical_url: 'https://decentralized-id.com/topic/user-experience/'
+permalink: /development/user-experience/
+canonical_url: 'https://decentralized-id.com/development/user-experience/'
 redirect_from: 
   - /literature/self-sovereign-identity/user-experience/
   - self-sovereign-identity/user-experience
   - self-sovereign-identity/user-experience/
-categories: ["Topics"]
+categories: ["Development"]
 tags: ["User Experience","Relationships"]
 last_modified_at: 2023-06-23
 published: true

@@ -5,6 +5,7 @@ excerpt: >
   The essence of Decentralized-ID is in creating open standards for a privacy preserving internet-wide identity layer — not owned by any one particular organization, but interoperable between all.
 
   It's impossible to have a conversation about decentralized-id without discussing blockchain, self sovereign identity, standardization, frameworks, and government bodies.
+layout: single
 permalink: /resources/getting-started/
 redirect_from:
   - /introduction/ 
@@ -24,7 +25,8 @@ The essence of Decentralized-ID is in creating open standards for a privacy pres
 It's impossible to have a conversation about decentralized-id without discussing blockchain, self sovereign identity, standardization, frameworks, and government bodies.
 
 * Cryptographers, privacy advocates and digital identity enthusiasts [laid the foundation](/history/) by deeply considering the privacy implications of identification practices in the electronic world.
-  * [Self Sovereign Identity principles emerged]({% link _posts/topics/2018-12-22-characteristics-principles.md %}) from their work, gathering momentum as the digital age began to settle in.* The European Union's GDPR enlarged the global conversation around digital privacy practices, lending much weight to the SSI credo.
+  * [Self Sovereign Identity principles emerged]({% link _posts/meta/2018-12-22-characteristics-principles.md %}) from their work, gathering momentum as the digital age began to settle in.
+  * The European Union's GDPR enlarged the global conversation around digital privacy practices, lending much weight to the SSI credo.
 * The United Nations Sustainable Development Goals (SDGs) have also fueled efforts towards a global and widely accessible identity solution.
 * Satoshi Nakamoto released [Bitcoin](https://bitcoinfo.xyz), proving the concept of digital scarcity in the form of a decentralized peer-to-peer (P2P) currency, inspiring leaders in every industry to integrate it's features to their business models.
 * At the same time, [Decentralized web](https://sourcecrypto.pub/decentralized-web/) and P2P technologists have also lent strength to Decentralized Identity efforts.

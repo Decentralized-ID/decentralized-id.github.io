@@ -12,9 +12,9 @@ redirect_from:
   - /self-sovereign-identity/evolution-of-ssi
   - /literature/self-sovereign-identity/evolution-of-ssi
   - /literature/self-sovereign-identity/evolution-of-ssi/
-permalink: /topic/characteristics/
-canonical_url: 'https://decentralized-id.com/topic/characteristics/'
-categories: ["Topics"]
+permalink: /self-sovereign-identity/characteristics/
+canonical_url: 'https://decentralized-id.com/self-sovereign-identity/characteristics/'
+categories: ["About"]
 tags: ["Self Sovereign Identity","notes","Literature","lifeID","RWoT","Laws of Identity","Literature","UNSDGs","Windhover Principles","History"]
 last_modified_at: 2023-06-24
 ---

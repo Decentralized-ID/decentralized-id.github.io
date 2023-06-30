@@ -6,9 +6,9 @@ description: "concept of individual control over identity relevant private data"
 layout: single
 toc: true
 toc_sticky: true
-permalink: /topic/ethics-rights-sovereignty/
-canonical_url: 'https://decentralized-id.com/topic/ethics-rights-sovereignty/'
-categories: ["Topics"]
+permalink: /development/ethics-rights-sovereignty/
+canonical_url: 'https://decentralized-id.com/development/ethics-rights-sovereignty/'
+categories: ["Development"]
 tags: ["Ethics","Human Rights","Sovereignty"]
 last_modified_at: 2023-06-23
 ---

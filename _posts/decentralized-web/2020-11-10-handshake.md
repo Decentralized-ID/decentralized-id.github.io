@@ -10,7 +10,8 @@ header:
   teaser: /images/handshake_teaser.webp
 categories: ["Decentralized Web"]
 tags: ["Blockchain","DNS","Handshake"]
-permalink: blockchain/handshake/
+permalink: /decentralized-web/handshake/
+redirect_from: /blockchain/handshake/
 last_modified_at: 2020-11-10
 toc: false
 ---

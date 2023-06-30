@@ -4,13 +4,13 @@ excerpt: >
   In a nutshell, Self-Sovereign Identity allows individuals to manage their own identities by moving physical credentials to digital devices. An individual will receive a credential from an issuer which will be stored in their digital wallet.
 description : "Self-sovereign identity is the marriage of real identity with the digital world that will ultimately make people’s lives better."
 image       : "/images/sovereign-identity.webp"
-permalink: /topic/self-sovereign-identity/
-canonical_url: 'https://decentralized-id.com/topic/self-sovereign-identity/'
+permalink: /self-sovereign-identity/
+canonical_url: 'https://decentralized-id.com/self-sovereign-identity/'
 redirect_from: 
   - /literature/self-sovereign-identity/
   - /self-sovereign-identity
   - /self-sovereign-identity/
-categories: ["Topics"]
+categories: ["About"]
 tags: ["Self Sovereign Identity","Laws of Identity","RWoT","IIW","Learning Machine","Sovrin Foundation","Evernym"]
 last_modified_at: 2023-06-22
 ---
