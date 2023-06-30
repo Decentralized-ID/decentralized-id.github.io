@@ -9,7 +9,7 @@ permalink: application/covid-19/lfph_cci_good-health-pass/
 redirect_from: 
   - organizations/covid-credentials-initiative/
 canonical_url: 'https://decentralized-id.com/application/covid-19/lfph_cci_good-health-pass/'
-categories: ["History","Application"]
+categories: ["History"]
 tags: ["Linux Foundation","LFPH","MedCreds","Evernym","ID2020","uPort","Dutch Research","TNO","Microsoft","Consensys Health","Luxoft","CCI","SITA","WHO","Good Health Pass","Vaccine Credentials"]
 last_modified_at: 2023-06-18
 ---

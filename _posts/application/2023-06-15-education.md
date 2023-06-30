@@ -6,7 +6,7 @@ excerpt: >
 layout: single
 permalink: application/education/
 canonical_url: 'https://decentralized-id.com/application/education/'
-categories: ["Application"]
+categories: ["Uses"]
 tags: ["Education","Real World","RMIT","Azure","Microsoft","DIF","ACE","Fluree","Evernym","Velocity Network","IDRamp","Digitary","Open Badges"]
 last_modified_at: 2023-06-16
 ---

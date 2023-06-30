@@ -6,7 +6,7 @@ excerpt: >
 layout: single
 permalink: application/healthcare/
 canonical_url: 'https://decentralized-id.com/application/healthcare/'
-categories: ["Application"]
+categories: ["Uses"]
 tags: ["Healthcare","Real World","Dock","Evernym","Affinidi","DIZME","Gravity Earth","SMART"]
 last_modified_at: 2023-06-16
 ---

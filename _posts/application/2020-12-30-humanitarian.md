@@ -12,7 +12,7 @@ redirect_from:
   - humanitarian
   - humanitarian/
 tags: ["Humanitarian","iRespond","Ukraine","Tu Delft","Gravity Earth","Human Rights","Inclusion","Trinsic","Affinidi","Aid:Tech","GlobalID","Onfido","Biometrics","Avast","Berkman Klein","World Bank"]
-categories: ["Application"]
+categories: ["Uses"]
 last_modified_at: 2023-06-15
 published: true
 ---

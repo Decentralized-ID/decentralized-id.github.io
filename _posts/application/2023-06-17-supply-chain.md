@@ -6,7 +6,7 @@ excerpt: >
 layout: single
 permalink: application/supply-chain/
 canonical_url: 'https://decentralized-id.com/application/supply-chain/'
-categories: ["Application"]
+categories: ["Uses"]
 tags: ["Supply Chain","Transmute","GS1","UNECE","SAP","USCBP"]
 last_modified_at: 2023-06-18
 ---

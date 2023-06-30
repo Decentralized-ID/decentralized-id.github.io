@@ -6,7 +6,7 @@ excerpt: >
 layout: single
 permalink: application/trending-adoption/
 canonical_url: 'https://decentralized-id.com/application/trending-adoption/'
-categories: ["Application"]
+categories: ["Uses"]
 tags: ["Adoption","Trends"]
 last_modified_at: 2023-06-19
 ---

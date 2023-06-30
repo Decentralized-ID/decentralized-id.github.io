@@ -6,7 +6,7 @@ excerpt: >
 layout: single
 permalink: application/covid-19/
 canonical_url: 'https://decentralized-id.com/application/covid-19/'
-categories: ["History","Application"]
+categories: ["History","Uses"]
 tags: ["Vaccine Credentials","LFPH","CCI","SITA","WHO","Good Health Pass","Excelsior Pass Pluss","Digi.me","EU Digital Green","Real World"]
 last_modified_at: 2023-06-18
 ---
