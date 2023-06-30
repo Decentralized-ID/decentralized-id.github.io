@@ -175,3 +175,7 @@ That includes companies that are trying to prevent digital fraud, as well as com
 
 
 * [xkcd: PGP](https://xkcd.com/1181/)
+### IAM
+* [Video] [IAM and SSI: A Combined Approach to Digital Identity](https://www.youtube.com/watch?v=tzzg4cbj3mI) 2022-06-16 TOIP
+  > "Let’s talk about the future of digital identity! Decentralized Identity will empower users to maintain control over their data and allow organizations to reap the benefits of being able to share trusted, verifiable identity data. The coexistence with traditional IAM will bring huge benefits to organizations who adopt." - Gabe Albert
+
