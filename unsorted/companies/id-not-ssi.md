@@ -172,3 +172,6 @@ That includes companies that are trying to prevent digital fraud, as well as com
 * [Thoma Bravo to acquire Ping Identity for $2.8B](https://www.techtarget.com/searchsecurity/news/252523468/Thoma-Bravo-to-acquire-Ping-Identity-for-28B) TechTarget
 
 * [Ping Identity to be Acquired by Thoma Bravo for $2.8 Billion](https://www.pingidentity.com/en/company/ping-newsroom/press-releases/2022/ping-identity-to-be-acquired-by-thoma-bravo-for-2-billion.html) Ping Identity
+
+
+* [xkcd: PGP](https://xkcd.com/1181/)

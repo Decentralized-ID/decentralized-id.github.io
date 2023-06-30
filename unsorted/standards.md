@@ -120,3 +120,6 @@ Oldie but Goodie by Kim Hamilton Duffy from when she worked at Learning Machines
   > Authority Does Not Require Centralized Power
   > 
   > As mentioned in my previous article, the trouble with centralization is that data is stored in a database. Once breached, a database can yield a treasure chest of information to be sold on the dark web.
+
+* [Public profile - Machine-readable, cryptographially-verifiable imprint linked to a DID](https://hackmd.io/4oZOgwFOQDSFUuu3ruN-_g)
+  > a simple mechanism to provide public information concerning an entity by advertising a public profile service in the DID document of a public DID. A good analogy for this public identity information would be a machine-readable and cryptographically-verifiable imprint.

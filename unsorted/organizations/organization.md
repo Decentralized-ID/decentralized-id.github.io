@@ -14,6 +14,28 @@ published: false
 * [Working Spaces Are Ecosystems Too!](https://www.youtube.com/watch?v=MfBoUDNcyW4) Autumn Watkinson 2022-03-23 Trust over IP Foundation
   > An ecosystem is a community of living organisms interacting with each other and their physical environment.  When you hear that definition, you might priture a pristine nature landscape, but that definition can also apply to how businesses, individual or organization interact with one and other.  This talk is about natural ecosystem and how we can adapt nature's lessons to our industry ecosystems.
 
+* [Crossfunctionality](https://docs.centre.io/blog/crossfunctionationality) Juan Caballero, Centre
+  > Real progress is made by rich, cross-disciplinary teams and heterogeneous coalitions coming together to attack hard problems from every angle at once.
+* [Decentralized governance for SSI and Blockchains with Lawrence Lundy-Bryan](https://www.slideshare.net/SSIMeetup/decentralized-governance-for-ssi-and-blockchains-with-lawrence-lundybryan)
+## Co-operatives
+
+* [https://disco.coop/](https://disco.coop/)
+
+* [https://en.wikipedia.org/wiki/Rochdale_Principles](https://en.wikipedia.org/wiki/Rochdale_Principles)
+  > “The earliest mutual organization established in the British North American colonies was created in 1735 in Charleston, SC” [https://en.wikipedia.org/wiki/History_of_cooperatives_in_the_United_States#18th_century](https://en.wikipedia.org/wiki/History_of_cooperatives_in_the_United_States#18th_century)
+  > 
+  > “The Philadelphia Contributionship mutual insurance company, founded by Benjamin Franklin in 1752, is the oldest continuing mutual insurance company in the continental United States. “
+  > 
+  > Coop says more about the governance (democracy + open membership) than the business model, IMO
+
+* [https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer](https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer) 2020-08-31
+
+* [https://platform.coop](https://platform.coop)
+
+A cooperative is defined as an autonomous association of persons united voluntarily to meet their common economic, social, and cultural needs and aspirations through a jointly-owned and democratically-controlled enterprise.
+
+Working through this now: more of a playbook [https://elements.disco.coop/](https://elements.disco.coop/)
+
 * [https://www.youtube.com/watch?v=lYb9bUyIPEw](https://www.youtube.com/watch?v=lYb9bUyIPEw)
 
 ## iiw
