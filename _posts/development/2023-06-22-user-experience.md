@@ -5,7 +5,7 @@ excerpt: >
 description: the mere fact of building such a verifiable and traceable architecture does not automatically translate into understandable communications
 layout: single
 toc: true
-toc_sticky: true
+toc_sticky: false
 permalink: /development/user-experience/
 canonical_url: 'https://decentralized-id.com/development/user-experience/'
 redirect_from: 

@@ -5,7 +5,7 @@ excerpt: >
 description: "concept of individual control over identity relevant private data"
 layout: single
 toc: true
-toc_sticky: true
+toc_sticky: false
 permalink: /development/ethics-rights-sovereignty/
 canonical_url: 'https://decentralized-id.com/development/ethics-rights-sovereignty/'
 categories: ["Development"]

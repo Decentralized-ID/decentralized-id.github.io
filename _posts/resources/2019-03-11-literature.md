@@ -10,7 +10,7 @@ header:
 categories: ["Resources"]
 tags: ["Literature","Resources"]
 toc: true
-toc_sticky: true
+toc_sticky: false
 redirect_from:
   - literature
   - literature/

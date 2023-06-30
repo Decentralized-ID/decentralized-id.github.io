@@ -5,7 +5,7 @@ excerpt: >
   We should absolutely all be taking care of the data that belongs to us, our data that we create, that we have a right to be able to control and share exactly as we choose. But we should also bear in mind the power of that data to help each of us, every day, benefit from the good that can come when it is shared and used to create a better world for us all.
 layout: single
 toc: true
-toc_sticky: true
+toc_sticky: false
 permalink: /self-sovereign-identity/data-governance/
 canonical_url: 'https://decentralized-id.com/self-sovereign-identity/data-governance/'
 categories: ["About"]

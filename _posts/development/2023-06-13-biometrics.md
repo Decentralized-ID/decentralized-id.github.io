@@ -10,7 +10,7 @@ categories: ["Development"]
 tags: ["Biometrics"]
 last_modified_at: 2023-06-09
 toc: true
-toc_sticky: true
+toc_sticky: false
 ---
 
 ## Explainer

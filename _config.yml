@@ -301,7 +301,7 @@ defaults:
       share: true
       related: true
       toc: true
-      toc_sticky  : true  
+      toc_sticky: false
   # _posts
   - scope:
       path: "_posts"
@@ -320,9 +320,9 @@ defaults:
       classes: wide
       related: true
       toc: true
-      toc_label   : "Contents"
-      toc_icon    : "link"
-      toc_sticky  : true
+      toc_label: "Contents"
+      toc_icon: "link"
+      toc_sticky: false
   - scope:
       path: "_posts/companies"
       type: posts

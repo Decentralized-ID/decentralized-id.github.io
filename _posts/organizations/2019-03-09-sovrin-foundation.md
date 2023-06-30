@@ -6,7 +6,7 @@ excerpt: The Sovrin Foundation is a private-sector, international non-profit tha
 layout: single
 classes: ""
 toc: true
-toc_sticky: true
+toc_sticky: false
 header: 
   image: "/images/sovrin-header.webp"
   og_image: /images/sovrin-foundation.webp

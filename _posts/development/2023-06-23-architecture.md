@@ -4,7 +4,7 @@ excerpt: >
   In chaotic systems such as those that the discipline of physics seeks to describe, there is also the concept of the “self-organizing principle,” which dictates a tendency for chaotic systems to organize themselves. While this might be a tendency in physics, organization usually needs a nudge in the right direction in the identity world.
 description: Authentication and authorization both fall under identity and access management (IAM) but serve different purposes.
 layout: single
-toc: false
+toc: true
 permalink: /development/architecture/
 canonical_url: 'https://decentralized-id.com/development/architecture/'
 categories: ["Development"]
@@ -12,6 +12,7 @@ tags: ["Architecture"]
 last_modified_at: 2023-06-23
 ---
 
+## General
 * [Centralized\Federated vs Self Sovereign](https://twitter.com/dominiumssi/status/1564188374529081345) 2022-08-29 dominiumssi
   > Anyone who wants to understand DID and Self Sovereign Identity should begin by understanding the graph below. We are shifting the power from the companies to the users.  That's it in a nutshell.
   > ![](https://pbs.twimg.com/media/FbUcnNNacAAUnAs?format=png&name=small)
@@ -65,3 +66,15 @@ last_modified_at: 2023-06-23
   > 3. Sybil-resistant — identity is subject to scarcity; i.e., creating more identifiers cannot be used to manipulate a system2.
 * [Self-Sovereign vs Administrative Identity](http://blogs.harvard.edu/vrm/2012/03/25/ssi/) 2012-03-25 Doc Searls 
   > The problem I’m trying to surface here is that we need full respect for self-sovereign identities, and identifiers, before we can solve the problem of highly fractured and incompatible administrative identifiers — a problem that has only become worse with the growth of the Web, where by design we are always the submissive and dependent party: calves to administrative cows.
+
+
+## Decentralized Public Key Infrastructure DPKI
+* [Decentralized Public Key Infrastructure](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf) 2015-12-24 rwot1
+  > Today’s Internet places control of online identities into the hands of third-parties. Email addresses, usernames, and website domains are borrowed or "rented" through DNS, X.509, and social networks. This results in severe usability and security challenges Internet-wide. This paper describes a possible alternate approach called decentralized public key infrastructure (DPKI), which returns control of online identities to the entities they belong to. By doing so, DPKI addresses many usability and security challenges that plague traditional public key infrastructure (PKI). DPKI has advantages at each stage of the PKI life cycle. It makes permissionless bootstrapping of online identities possible and provides for the simple creation of stronger SSL certificates. In usage, it can help “Johnny” to finally encrypt thanks to its relegation of public key management to secure decentralized datastores. Finally, it includes mechanisms to recover lost or compromised identifiers.
+
+### Related
+* [SCPKI: A Smart Contract-based PKI and Identity System](http://www0.cs.ucl.ac.uk/staff/M.AlBassam/publications/scpki-bcc17.pdf)
+* [KeyChains: A Decentralized Public-Key Infrastructure](https://drum.lib.umd.edu/bitstream/handle/1903/3332/0.pdf?sequence=1&isAllowed=y)
+* [ClaimChain: Decentralized Public Key Infrastructure](https://www.researchgate.net/publication/318584251_ClaimChain_Decentralized_Public_Key_Infrastructure)
+* [A Decentralized Public Key Infrastructure with Identity Retention](https://eprint.iacr.org/2014/803.pdf)
+* [Privacy based decentralized Public Key Infrastructure (PKI) implementation using Smart contract in Blockchain](https://isrdc.iitb.ac.in/blockchain/workshops/2017-iitb/papers/paper-11%20-%20Decentralized%20PKI%20in%20blockchain%20and%20Smart%20contract.pdf)

@@ -5,7 +5,7 @@ description: Self-Sovereign Identity for Humanitarian Interventions
 excerpt: >
   When forced to flee your home from one moment to the next, grabbing birth certificates, school diplomas, and other papers that prove you are who you say you are might not be the first thing that comes to mind. And without those credentials, everything is more difficult when it comes to starting a new life or picking up the pieces of an old one
 toc: true
-toc_sticky: true
+toc_sticky: false
 permalink: /application/humanitarian/
 redirect_from: 
   - /organizations/humanitarian/
