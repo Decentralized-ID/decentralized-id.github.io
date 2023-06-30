@@ -1,5 +1,5 @@
 ---
-title: IIW Session Topics (Unofficial)
+title: Session Topics from the Internet Identity Workshop since 2005 
 layout: single
 description: Session topics from the Internet Identity Workshop over the past 15 years
 excerpt: "If you want to stay current in digital identity, keeping an eye on the session topics of the biannual internet identity workshop is a good place to start."

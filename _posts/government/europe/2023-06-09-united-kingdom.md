@@ -6,7 +6,7 @@ excerpt: >
   The government is committed to realising the benefits of digital identity, without creating ID cards. Earlier this year we published a draft of the UK digital identity and attributes trust framework. This document sets out what rules and standards are needed to protect people’s sensitive identity data when used digitally
 permalink : /government/europe/united-kingdom/
 canonical_url: https://decentralized-id.com/government/europe/united-kingdom/
-categories: ["Regional"]
+categories: ["Government"]
 tags: ["Europe","UK","NHS","Digital Staff Passport","Real World"]
 last_modified_at: 2023-06-09
 toc: false

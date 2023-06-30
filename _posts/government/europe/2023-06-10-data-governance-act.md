@@ -5,7 +5,7 @@ description:
 excerpt: 
 permalink : /government/europe/eu/data-governance-act/
 canonical_url: https://decentralized-id.com/government/europe/eu/data-governance-act/
-categories: ["Regional"]
+categories: ["Government"]
 tags: ["Europe","Data Governance Act","EU"]
 last_modified_at: 2023-06-10
 published: false

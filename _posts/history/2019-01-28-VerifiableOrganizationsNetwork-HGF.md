@@ -16,7 +16,7 @@ redirect_from:
   - hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF/
   - government/canada/von/hgf-2018-presentation/
 permalink: /government/canada/bcgov/von/hgf-2018-production-government-deployment-hyperledger-indy/
-categories: ["Regional","History"]
+categories: ["Government","History"]
 tags: ["HGF 2018","Indy","Verifiable Organizations Network","Verifiable Credentials","Canada","BCGov","Hyperledger Forum","W3C","Transcript","Real World"]
 last_modified_at: 2019-07-11
 ---

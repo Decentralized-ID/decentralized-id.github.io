@@ -1,9 +1,10 @@
 ---
 date: 2019-03-11
-title: Identity Articles, Research and Literature
+title: "Research, Reports, and other Literature related to Self Sovereign Identity"
 layout: single
-description: A selection of DID related literature and top level resources for discovery of more.
-excerpt: A selection of DID related literature and top level resources for discovery of more.
+description: Verifiable credentials and digital wallets offer a convenient, secure, and privacy-oriented alternative to current physical and digital identity management systems.
+excerpt: > 
+  provides an overview of the SSI properties, focusing on an in-depth analysis, furthermore presenting a comprehensive collection of SSI properties that are important for the implementation of the SSI system. 
 header: 
   image: /images/literature-christian-wiediger-unsplash.webp
 categories: ["Resources"]
@@ -13,7 +14,7 @@ toc_sticky: false
 redirect_from:
   - literature
   - literature/
-permalink: resources/literature/
+permalink: /resources/literature/
 canonical_url: 'https://decentralized-id.com/resources/literature/'
 last_modified_at: 2023-06-19
 ---

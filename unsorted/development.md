@@ -17,6 +17,8 @@
 
 * [Drilling Down on what Open Source is](https://medium.com/decentralized-identity/drilling-down-open-source-f50d1a4f2a76) DIF
     > The ostensibly binary distinction between “open” and “closed” software gets bandied about in many contexts, often in a dangerously simplified form, as though there were only two, mutually-exclusive options.
+* [Crossfunctionality](https://docs.centre.io/blog/crossfunctionationality) 2022-08-13 Centre
+  > I have developed a pet peeve for "technosolutionism": the notion that a sufficiently innovative technology can solve a social problem, or a business problem, without complex and nuanced changes to social and business practice.
 * [Three Scenarios for Rolling Back Surveillance Capitalism](https://reb00ted.org/tech/20201009-three-scenarios-rolling-back-surveillance-captialism/) by Johannes Ernst
     > Scenario 1: Regulation Bites. Scenario 2: A Global Disinvestment Campaign Leads to a Vibrant Good Technology Market. Scenario 3: Frustrated Users and Open-Source Developers Start Cooperating for Mutual Benefit
 - [Drilling down: Open Source](https://medium.com/decentralized-identity/drilling-down-open-source-f50d1a4f2a76) - A crash-course in the complex world of variously-open software licensing
