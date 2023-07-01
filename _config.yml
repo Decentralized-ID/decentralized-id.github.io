@@ -26,7 +26,6 @@ repository               : "Decentralized-ID/decentralized-id.github.io"
 github                   : [metadata]
 teaser                   : /images/did-square.webp
 logo                     : "/images/DID.webp"
-og_image                 : /images/decetralizedid-og.webp
 masthead_title           : "Decentralized Identity"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -90,7 +89,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /images/did-twitter.webp
+og_image                 : /images/decetralizedid-og.webp
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
