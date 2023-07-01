@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Recently Updated Content
+title: New Content
 author_profile: false
 sidebar:
   - title: "Identity Decentralized"
@@ -9,14 +9,13 @@ sidebar:
     nav: "didnav"
 share: true
 classes: wide
-name: recent
-permalink: recent/
+permalink: new/
 toc: false
+published: false
 ---
 
-{% assign modified = site.posts | sort: 'last_modified_at' | reverse %}
+{% assign modified = site.posts | sort: 'date' | reverse %}
 {% for post in modified %}
-  {% unless forloop.index0 >= 110 %}
-    {% include archive-single.html type='list' %}
-  {% endunless %}
+    {{post.date}}
+	{% include archive-single.html type='list' %}
 {% endfor %}	
