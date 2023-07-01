@@ -7,6 +7,6 @@ permalink: web-standards/w3c/cg/credentials/
 redirect_from:
   - web-standards/w3c/ccg/
 categories: ["Web Standards"]
-tags: ["Verifiable Credentials","DID","W3C"]
+tags: ["Verifiable Credentials","Decentralized Identifiers","W3C"]
 published: false
 ---

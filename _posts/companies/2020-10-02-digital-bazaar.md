@@ -8,7 +8,7 @@ excerpt: >
 permalink: companies/digital-bazaar/
 canonical_url: 'https://decentralized-id.com/companies/digital-bazaar/'
 categories: ["Companies"]
-tags: ["IETF","Web Payments IG","VCTF","CCG","DHS","Veres One","W3C","GS1","SecureKey","TradeLens","Sovrin Steward","Founding Sovrin Steward","USC&B","Payments","XHTML+RDFa","HTML5+RDFa","Semantic Web","OpenID Connect","WebID","JSON-LD","RDFa","Verifiable Credentials","DID","Encrypted Data Vaults","Linked Data"]
+tags: ["IETF","Web Payments IG","VCTF","CCG","DHS","Veres One","W3C","GS1","SecureKey","TradeLens","Sovrin Steward","Founding Sovrin Steward","USC&B","Payments","XHTML+RDFa","HTML5+RDFa","Semantic Web","OpenID Connect","WebID","JSON-LD","RDFa","Encrypted Data Vaults","Linked Data"]
 last_modified_at: 2023-02-20
 toc: true
 header:

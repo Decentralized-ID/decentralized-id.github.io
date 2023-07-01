@@ -9,7 +9,7 @@ layout: companies
 permalink: companies/hyland-credentials-learning-machine/
 canonical_url: 'https://decentralized-id.com/companies/hyland-credentials-learning-machine/'
 categories: ["Companies"]
-tags: ["DIF","Learning Machine","W3C","Hyland Credentials","Blockcerts","Verifiable Credentials"]
+tags: ["DIF","Learning Machine","W3C","Hyland Credentials","Blockcerts"]
 header:
   image: /images/learning-machine-hyland.webp
   teaser: /images/hyland-teaser.webp

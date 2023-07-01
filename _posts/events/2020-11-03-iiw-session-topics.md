@@ -4,7 +4,7 @@ layout: single
 description: Session topics from the Internet Identity Workshop over the past 15 years
 excerpt: "If you want to stay current in digital identity, keeping an eye on the session topics of the biannual internet identity workshop is a good place to start."
 categories: ["Events","Resources"]
-tags: ["DID","WebAuthN","MATTR","GS1","JSON-LD","KERI","Evernym","GDPR","CCPA","DIF","DIDComm","ID2020","Aries","Indy","BBS Signatures","JLinc","Verifiable Credentials","W3C","XDI","Veres One","Ethereum","eIDAS","Universal Resolver","DKMI","Universal Registrar","OASIS","OAuth","OIDC","Blockstack","Onfido","XDI","Ursa","Respect Network","AI","California","DKMS","Danube Tech","FIDO","iRespond","Trust Framework","MyData"]
+tags: ["Decentralized Identifiers","WebAuthN","MATTR","GS1","JSON-LD","KERI","Evernym","GDPR","CCPA","DIF","DIDComm","ID2020","Aries","Indy","BBS Signatures","JLinc","Verifiable Credentials","W3C","XDI","Veres One","Ethereum","eIDAS","Universal Resolver","DKMI","Universal Registrar","OASIS","OAuth","OIDC","Blockstack","Onfido","XDI","Ursa","Respect Network","AI","California","DKMS","Danube Tech","FIDO","iRespond","Trust Framework","MyData"]
 permalink: workshops/internet-identity-workshop/
 redirect_from:
   - workshops/iiw/

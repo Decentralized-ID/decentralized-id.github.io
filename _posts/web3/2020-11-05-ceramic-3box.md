@@ -12,7 +12,7 @@ redirect_from:
   - /blockchain/3box/
 canonical_url: 'https://decentralized-id.com/web-3/ethereum/3box-ceramic/'
 categories: ["Web 3"]
-tags: ["Ethereum","Ceramic","DIF","Web3","3box","uPort","Verifiable Credentials","IPID","Web3Connect","ENS","oCap","Gitcoin","revocation","DAO"]
+tags: ["Ethereum","Ceramic","DIF","Web3","3box","uPort","IPID","Web3Connect","ENS","oCap","Gitcoin","revocation","DAO"]
 last_modified_at: 2023-06-25
 toc: true
 ---

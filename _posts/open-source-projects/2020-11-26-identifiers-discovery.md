@@ -11,7 +11,7 @@ redirect_from:
   - organizations/identity-foundation/wg/identifiers-and-discovery/
 canonical_url: "https://decentralized-id.com/projects/decentralized-identity-foundation/identifiers-and-discovery/"
 categories: ["Open Source Projects"]
-tags: ["Identifiers and Discovery WG","DID","DIF","Universal Resolver","Universal Registrar","Verifiable Credentials","JSON-LD","Ethereum","ION","BTCR","DID:PEER","ERC725","Linked Data"]
+tags: ["Identifiers and Discovery WG","Decentralized Identifiers","DIF","Universal Resolver","Universal Registrar","JSON-LD","Ethereum","ION","BTCR","DID:PEER","ERC725","Linked Data"]
 header:
   image: /images/identifiers-discovery-head.webp
   teaser: /images/identifiers-discovery-teaser.webp

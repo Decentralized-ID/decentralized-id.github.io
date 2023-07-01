@@ -13,7 +13,7 @@ redirect_from:
   - organizations/decentralized-identity-foundation/did-communications/
   - organizations/decentralized-identity-foundation/wg/did-comm/
 categories: ["Open Source Projects"]
-tags: ["DIDComm WG","DIDComm","DIF","Aries","DID","W3C","Indicio","TBD","SICPA","Danube Tech","MATTR","Animo","Aviary","Transmute","Centre","Microsoft","Evernym","DSR","SecureKey","ConsenSys","BCGov","Anonyome","uPort","Animo","Hyperledger Foundation","Jolocom"]
+tags: ["DIDComm WG","DIDComm","DIF","Aries","Decentralized Identifiers","W3C","Indicio","TBD","SICPA","Danube Tech","MATTR","Animo","Aviary","Transmute","Centre","Microsoft","Evernym","DSR","SecureKey","ConsenSys","BCGov","Anonyome","uPort","Animo","Hyperledger Foundation","Jolocom"]
 header:
   image: /images/DIDComm-header.webp
   teaser: /images/DIDComm-teaser.webp
