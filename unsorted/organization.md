@@ -11,6 +11,8 @@ published: false
 * [Global Survey Findings: Current state of SSI](https://iiw.idcommons.net/12O/_Global_Survey_Findings:_Current_state_of_SSI) by Gabriella Laatikainen, Ravikant Agrawal
 * [Working Spaces Are Ecosystems Too!](https://www.youtube.com/watch?v=MfBoUDNcyW4) Autumn Watkinson 2022-03-23 Trust over IP Foundation
   > An ecosystem is a community of living organisms interacting with each other and their physical environment.  When you hear that definition, you might priture a pristine nature landscape, but that definition can also apply to how businesses, individual or organization interact with one and other.  This talk is about natural ecosystem and how we can adapt nature's lessons to our industry ecosystems.
+* [Goodbye, physical identities: How organizations can prepare for digital identity challenges](https://www.biometricupdate.com/202208/goodbye-physical-identities-how-organizations-can-prepare-for-digital-identity-challenges) Philipp Pointner, Biometrics Update
+    > He raises some interesting points about the [increasing number of digital identity wallets](https://www.gartner.com/en/newsroom/press-releases/2022-02-21-govt-tech-trends-2022-press-release) being offered by states and national governments, and how, with the rise in digitalization, there are more opportunities for bad actors to acquire and misuse your information. He leaves us with a few key  attributes to look for in a secure digital identity system.
 
 * [Crossfunctionality](https://docs.centre.io/blog/crossfunctionationality) Juan Caballero, Centre
   > Real progress is made by rich, cross-disciplinary teams and heterogeneous coalitions coming together to attack hard problems from every angle at once.

@@ -11,6 +11,10 @@ canonical_url: "https://decentralzed-id.com/development/governance-trust-framewo
 last_modified_at: 2023-07-01
 ---
 
+## Trust Modelling 
+* [literature] [On the Trust and Trust Modelling for the Future Fully-Connected Digital World: A Comprehensive Study](https://arxiv.org/pdf/2106.07528.pdf) 2021-06-14 HANNAH LIM JING TING, XIN KANG IEEE
+  > Under our analysis of trust and the digital world, we define different types of trust relationships and find out the factors that are needed to ensure a fully representative model.Next, to meet the challenges of digital trust modelling, comprehensive trust model evaluation criteria areproposed, and potential securities and privacy issues of trust modelling are analyzed. Finally, we provide awide-ranging analysis of different methodologies, mathematical theories, and how they can be applied totrust modelling
+
 ## Trust Frameworks
 * [Towards a Better Digital Identity Trust Framework in Aotearoa](https://digitalidentity.nz/2022/09/21/towards-a-better-digital-identity-trust-framework-in-aotearoa/) 2022-09-21 Digital Identity NZ
   >  It’s a great pleasure to share with you DINZ Reflections Report, a seminal piece of work that DINZ’s Digital Identity Trust Framework working group has developed over several months.
