@@ -13,7 +13,7 @@ redirect_from:
   - /resources/
 toc: true
 categories: ["About"]
-tags: ["101"]
+tags: ["101","Verifiable Credentials","Decentralized Identifiers"]
 last_modified_at: 2023-07-01
 ---
 
