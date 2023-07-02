@@ -89,7 +89,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /images/decetralizedid-og.webp
+og_image                 : /images/DID_og.webp
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -314,7 +314,7 @@ defaults:
           nav: "didnav"
       layout: single
       header:
-        og_image: /images/decetralizedid-og.webp
+        og_image: /images/DID_og.webp
       author_profile: false
       read_time: true
       comments: true
@@ -337,7 +337,7 @@ defaults:
       layout: companys
       author_profile: false
       header:
-        og_image: /images/decetralizedid-og.webp
+        og_image: /images/DID_og.webp
       read_time: true
       comments: false
       share: true
