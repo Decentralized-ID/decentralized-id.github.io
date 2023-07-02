@@ -1,5 +1,5 @@
 ---
-title: "Directories, Courses, Curated Lists, Blogs, Podcasts and other Resources on Decentralized Identity"
+title: "SSI Resources: Directories, Courses, Curated Lists, Blogs, Podcasts and more."
 description: "exploring the ever-growing ecosystems around Self-Sovereign Identity, Decentralized Technologies and Digital Trust"
 excerpt: >
   Digital networks have centralized power over identities and information, creating problems for both markets and democracy. Does the solution require more shared agency over data?  What might that look like?  This panel discussion is structured around thought experiments to find solutions to this issue.
@@ -12,7 +12,7 @@ redirect_from:
 canonical_url: 'https://decentralized-id.com/resources/'
 categories: ["Resources"]
 tags: ["Resources"]
-last_modified_at: 2023-07-30
+last_modified_at: 2023-06-30
 ---
 
 ## General
