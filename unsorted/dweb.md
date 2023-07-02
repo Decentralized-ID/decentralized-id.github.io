@@ -1,5 +1,5 @@
 ---
-title: The Decentralized Web and Self Sovereign Identity
+title: The Decentralized Web and Digital Identity
 published: false
 ---
 
