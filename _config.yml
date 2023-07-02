@@ -313,6 +313,8 @@ defaults:
           image_alt: "Binary Globe by GDj"
           nav: "didnav"
       layout: single
+      header:
+        og_image: /images/decetralizedid-og.webp
       author_profile: false
       read_time: true
       comments: true
@@ -334,6 +336,8 @@ defaults:
           nav: "didnav"
       layout: companys
       author_profile: false
+      header:
+        og_image: /images/decetralizedid-og.webp
       read_time: true
       comments: false
       share: true
