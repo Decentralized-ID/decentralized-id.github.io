@@ -8,3 +8,5 @@
   > Here’s an easy-to-understand analogy to help your non-technical friends and customers understand public keys and private keys, and how they relate to cryptography and digital signatures.
 * [Zero Knowledge Proofs](https://www.windley.com/archives/2021/11/zero_knowledge_proofs.shtml) 2021-11 Phil Windley
   > This problem was first explored by MIT researchers Shafi Goldwasser, Silvio Micali and Charles Rackoff in the 1980s as a way of combatting information leakage. The goal is to reduce the amount of extra information the verifier, Victor, can learn about the prover, Peggy.
+* [@BartHanssens shares](https://twitter.com/BartHanssens/status/1319604882068787200):
+  > proofs: https://w3c-ccg.github.io/ld-proofs, cryptosuite: https://w3c-ccg.github.io/ld-cryptosuite-registry, #GnuPG: signatures  https://gpg.jsld.org/contexts
