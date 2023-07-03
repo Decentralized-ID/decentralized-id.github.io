@@ -7,7 +7,7 @@ excerpt: >
 permalink : /government/new-zealand/
 canonical_url: https://decentralized-id.com/government/new-zealand/
 categories: ["Government"]
-tags: ["New Zealand","Aotearoa","DINZ","DISTF"]
+tags: ["Policy","New Zealand","Aotearoa","DINZ","DISTF"]
 last_modified_at: 2023-06-07
 ---
 

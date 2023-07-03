@@ -7,7 +7,7 @@ excerpt: >
 permalink : /government/europe/switzerland/
 canonical_url: https://decentralized-id.com/government/europe/switzerland/
 categories: ["Government"]
-tags: ["Europe","Switzerland"]
+tags: ["Policy","Europe","Switzerland"]
 last_modified_at: 2023-06-09
 ---
 

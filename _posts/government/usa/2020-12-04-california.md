@@ -10,7 +10,7 @@ excerpt: >
     - The right to non-discrimination for exercising their CCPA rights.
     Businesses are required to give consumers certain notices explaining their privacy practices. The CCPA applies to many businesses, including data brokers.
 category: ["Government"]
-tags: ["USA","CCPA","California","IAB","IAPP","CPRA","SMART Health Card","Covid 19","Trust Framework"]
+tags: ["Policy","USA","CCPA","California","IAB","IAPP","CPRA","SMART Health Card","Covid 19","Trust Framework"]
 permalink: government/usa/california
 redirect_from: 
   - /government/usa/regulations/california/ccpa/

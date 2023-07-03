@@ -7,7 +7,7 @@ excerpt: >
 permalink : /government/europe/united-kingdom/
 canonical_url: https://decentralized-id.com/government/europe/united-kingdom/
 categories: ["Government"]
-tags: ["Europe","UK","NHS","Digital Staff Passport","Real World"]
+tags: ["Policy","Europe","UK","NHS","Digital Staff Passport","Real World"]
 last_modified_at: 2023-06-09
 toc: false
 ---

@@ -7,7 +7,7 @@ excerpt: >
 permalink : /government/australia/
 canonical_url: https://decentralized-id.com/government/australia/
 categories: ["Government"]
-tags: ["Australia","Australian Payments Network"]
+tags: ["Policy","Australia","Australian Payments Network"]
 last_modified_at: 2023-06-07
 ---
 

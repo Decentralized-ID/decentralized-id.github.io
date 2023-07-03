@@ -5,7 +5,7 @@ excerpt: >
   "The Treasury Board Secretariat of Canada (TBS) and Shared Services Canada (SSC) are seeking a standardized method to issue and rapidly verify portable digital credentials across many different contexts, thereby reducing human judgement error, increasing efficiency and ensuring digital credential veracity using cryptography." 
 permalink: /government/canada/pctf/
 canonical_url: https://decentralized-id.com/government/canada/pctf/
-tags: ["Trust Framework","Canada","Verifiable Credentials","DIACC","PCTF"]
+tags: ["Policy","Trust Framework","Canada","Verifiable Credentials","DIACC","PCTF"]
 categories: ["Government"]
 header:
   image: /images/pan-canadian-trust-header.webp
