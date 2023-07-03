@@ -5,8 +5,10 @@ description: "The Augmented Social Network: Building identity and trust into the
 excerpt: >
     The Augmented Social Network is a proposal for a "next generation" online community that would strengthen the collaborative nature of the Internet, enhancing its ability to act as a public commons that engages citizens in civil society. The ASN creates an infrastructure for trusted relationships across the entire Internet -- enabling innovation in democratic governance, alternative economics, and social organization of all kinds. The ASN is not a piece of software or a website. Rather, it is an online community system in the public interest that could be implemented in a number of ways, using technology that largely exists today.
 layout: single
-permalink: literature/augmented-social-network/
-canonical_url: 'https://decentralized-id.com/literature/augmented-social-network/'
+permalink: /history/augmented-social-network/
+redirect_from:
+  - literature/augmented-social-network/
+canonical_url: 'https://decentralized-id.com/history/augmented-social-network/'
 categories: ["History"]
 tags: ["Planetwork","Augmented Social Network","OASIS","Microsoft","Literature"]
 header:

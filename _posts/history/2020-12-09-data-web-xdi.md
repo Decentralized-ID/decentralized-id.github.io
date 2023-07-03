@@ -4,7 +4,9 @@ description: XRI Data Interchange is a service for generalized distributed data 
 excerpt: >
   The goal of XDI is to enable data from any data source to be identified, exchanged, linked, and synchronized into a machine-readable dataweb using XML documents just as content from any content source can linked into the human-readable Web using HTML documents today. Because the controls needed to mediate access and usage of shared data can be built right into every XDI link, the emergence of a global Dataweb has the potential to do for trusted data interchange what the Web did for open content exchange.
 last_modified_at: 2020-12-09
-permalink: /literature/dataweb-introduction-to-xdi/
+permalink: /history/dataweb-introduction-to-xdi/
+redirect_from:
+  - /literature/dataweb-introduction-to-xdi/
 categories: ["History"]
 tags: ["XRI","XDI","Dataweb","Literature","History"]
 header:

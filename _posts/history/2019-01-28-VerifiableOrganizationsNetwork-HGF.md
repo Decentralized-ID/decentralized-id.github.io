@@ -8,14 +8,15 @@ excerpt: >
   VON's founders have delivered new Indy-based open source components which form VON's backbone. TheOrgBook is a publicly accessible repository of verifiable claims about organizations. VON-X enables services to verify and issue credentials.  
 header:
   image: "https://sourcecrypto.pub/images/OrgBook-Hyperledger-Indy-Case-Study.png"
-canonical_url: 'https://decentralized-id.com/government/canada/bcgov/von/hgf-2018-production-government-deployment-hyperledger-indy/'
+canonical_url: 'https://decentralized-id.com/history/2010s/late/von_first-production-government-deployment-hyperledger-indy/'
 redirect_from: 
   - organizations/hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF/
   - hgf-2018/VerifiableOrganizationsNetwork-HGF
   - hgf-2018/VerifiableOrganizationsNetwork-HGF/
   - hyperledger/hgf-2018/VerifiableOrganizationsNetwork-HGF/
   - government/canada/von/hgf-2018-presentation/
-permalink: /government/canada/bcgov/von/hgf-2018-production-government-deployment-hyperledger-indy/
+  - /government/canada/bcgov/von/hgf-2018-production-government-deployment-hyperledger-indy/
+permalink: /history/2010s/late/von_first-production-government-deployment-hyperledger-indy/
 categories: ["Government","History"]
 tags: ["HGF 2018","Indy","Verifiable Organizations Network","Verifiable Credentials","Canada","BCGov","Hyperledger Forum","W3C","Transcript","Real World"]
 last_modified_at: 2019-07-11

@@ -6,12 +6,11 @@ excerpt:
 permalink : /government/europe/eu/data-governance-act/
 canonical_url: https://decentralized-id.com/government/europe/eu/data-governance-act/
 categories: ["Government"]
-tags: ["Policy","Europe","Data Governance Act","EU"]
+tags: ["Policy","Europe","Data Governance Act","EU","MyData"]
 last_modified_at: 2023-06-10
-published: false
 ---
 
-* [EU DATA ACT – MAKING DATA PORTABILITY ACTIONABLE](https://mydata.org/2022/02/25/eu-data-act-making-data-portability-actionable/) 2022-02-25
+* [EU DATA ACT – MAKING DATA PORTABILITY ACTIONABLE](https://mydata.org/2022/02/25/eu-data-act-making-data-portability-actionable/) 2022-02-25 MyData
 
 
 * [A critical fork in the data road?](https://medium.com/mydex/a-critical-fork-in-the-data-road-1eb29c5a42a8) MyData
