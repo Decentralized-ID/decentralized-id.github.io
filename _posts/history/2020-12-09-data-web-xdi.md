@@ -3,15 +3,16 @@ title: "The Dataweb: An Introduction to XDI"
 description: XRI Data Interchange is a service for generalized distributed data sharing and mediation
 excerpt: >
   The goal of XDI is to enable data from any data source to be identified, exchanged, linked, and synchronized into a machine-readable dataweb using XML documents just as content from any content source can linked into the human-readable Web using HTML documents today. Because the controls needed to mediate access and usage of shared data can be built right into every XDI link, the emergence of a global Dataweb has the potential to do for trusted data interchange what the Web did for open content exchange.
-last_modified_at: 2020-12-09
-permalink: /history/dataweb-introduction-to-xdi/
+header:
+  og_image: /images/dataweb/dataweb-og.webp
+  teaser: /images/dataweb/dataweb-whitepaper-teaser.webp
+permalink: /history/2000s/early/dataweb-introduction-to-xdi/
+canonical_url: "https://decentralized-id.com/history/2000s/early/dataweb-introduction-to-xdi/"
 redirect_from:
   - /literature/dataweb-introduction-to-xdi/
 categories: ["History"]
 tags: ["XRI","XDI","Dataweb","Literature","History"]
-header:
-  og_image: /images/dataweb/dataweb-og.webp
-  teaser: /images/dataweb/dataweb-whitepaper-teaser.webp
+last_modified_at: 2020-12-09
 ---
 
 <p><b><a href="https://www.oasis-open.org/committees/download.php/6434/wd-xdi-intro-white-paper-2004-04-12.pdf">A White Paper for the OASIS XDI Technical Committee</a></b><br>
