@@ -6,7 +6,7 @@ excerpt: >
 permalink: /web-standards/sdo/w3c/credentials-community-group/
 canonical_url: "https://decentralized-id.com/web-standards/w3c/credentials-community-group/"
 categories: ["Web Standards","Organizations"]
-tags: ["Credentials Community Group","Verifiable Credentials","Decentralized Identifiers","W3C","ECDSA Cryptosuite v2019","ECDSA Cryptosuite v2020","JWS","Tracability"]
+tags: ["Credentials Community Group","Verifiable Credentials","Decentralized Identifiers","W3C","ECDSA Cryptosuite v2019","ECDSA Cryptosuite v2020","JWS","Tracability","Standards Development Org"]
 last_modified_at: 2023-07-03
 ---
 

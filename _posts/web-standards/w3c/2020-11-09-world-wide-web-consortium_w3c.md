@@ -9,7 +9,7 @@ excerpt: "First started as an IETF application area at the beginning of 1990, th
 permalink: /web-standards/w3c/
 canonical_url: 'https://decentralized-id.com/web-standards/w3c/'
 categories: ["Web Standards","Organizations"]
-tags: ["W3C","Credentials Community Group","JSON-LD","WebAuthN","Decentralized Identifiers","Verifiable Credentials","Veres One","BTCR","Linked Data"]
+tags: ["W3C","Credentials Community Group","JSON-LD","WebAuthN","Decentralized Identifiers","Verifiable Credentials","Veres One","BTCR","Linked Data","Standards Development Org"]
 header:
   image: /images/w3c_banner.webp
   teaser: /images/w3c_teaser.webp
