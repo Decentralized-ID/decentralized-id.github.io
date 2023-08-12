@@ -72,3 +72,7 @@ Today, ‘everyone’ including powerful actors and decision-makers like the UK 
 * [Bolt drivers in Nigeria are illicitly selling their accounts, putting passengers at risk](https://restofworld.org/2022/bolt-drivers-in-nigeria-are-illicitly-selling-their-accounts-putting-passengers-at-risk/) RestofWorld
 
 “I asked the driver why the app showed me a different driver’s face, and he claimed Bolt blocked his account so he was using his brother’s.”
+
+https://github.com/WICG/mobile-document-request-api/issues/6
+Jevons Paradox is an economic principle which introduces the concept that availability and efficiency of providing a resource (in this case data from a driver's license) can often times lead to increased consumption of the resource. This spec should be addressing whether this additional consumption provides an overall net positive gain for the web platform or if this will cause further harm to marginalized communities of people.
+
