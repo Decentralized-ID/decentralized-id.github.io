@@ -41,11 +41,6 @@ Check out these [photos from IIW 1 in 2005](https://www.flickr.com/photos/tags/i
   > 
   > new US Administration is questioning the operating practices of global platforms, it is critical our approach over Personal Data Sharing is Global.
 
-### OASIS
-* OASIS has a [Foundation as a Service offering](https://www.oasis-open.org/foundation-as-a-service/)
-
-Foundations receive the financial and legal services they need to operate successfully. We’ll set up your bank accounts, file your taxes, collect your dues and pay your bills.
-
 ### omidyar
 * [Reimagining digital public infrastructure is no longer just a development agenda](https://medium.com/omidyar-network/reimagining-digital-public-infrastructure-is-no-longer-just-a-development-agenda-6c3915d20598) Omidyar Network
 
@@ -73,8 +68,6 @@ The Center recently launched the [Institute for Rebooting Social Media](https://
 
 
 ## ID2020
-* [ID2020 Welcomes BLOK Solutions to the Alliance](https://medium.com/id2020/id2020-welcomes-blok-solutions-to-the-alliance-1c53e952930c)
-  > Their most recent solution, BLOK Pass, offers individuals a self-sovereign record of their COVID-19 test results and other risk factors. The technology was developed under the company’s biotech arm, BLOK BioScience.
 
 ## LF DizmeID
 
