@@ -7,28 +7,23 @@ layout: single
 permalink: application/healthcare/
 canonical_url: 'https://decentralized-id.com/application/healthcare/'
 categories: ["Uses"]
-tags: ["Healthcare","Real World","Dock","Evernym","Affinidi","DIZME","Gravity Earth","SMART"]
+tags: ["Healthcare","Real World","Dock","Evernym","Affinidi","DIZME","Gravity Earth","SMART","LFPH"]
 last_modified_at: 2023-06-16
 ---
 
 ## Explainer
+* [Webinar: The Future of Self Sovereign Identity](https://www.youtube.com/watch?v=gimrMbcj91A) 2021-12-21 Patientory Association, with Michael Merchant, Health Information Exchange; Jim Clair, LFPH; Kapil Bareja, Technical Governance Board
+  > Self-sovereign identity (SSI) is a movement that claims digital identity should be just as legitimate and nuanced as a person’s human identity, while being accessible to all, privacy-preserving, and not reliant on a single government or corporation.
 * [Verifiable Credentials set to Revolutionize Health and Safety Compliance](https://blog.dock.io/verifiable-credentials-set-to-revolutionize-health-and-safety-compliance/) 2021-11-05 Dock
   > By integrating with Dock and utilizing verifiable credentials, the process of verifying a workers qualifications goes from analysing paper-based certificates and calling each educational body to certify the legitimacy of it, to having the accreditations sitting in a tamper-proof digital wallet, with a digital signature signature from the issuing body certifying the legitimacy.
 * [How decentralised identity & verifiable credentials will transform the world of healthcare](https://www.htworld.co.uk/insight/decentralized-identity-verifiable-credentials-healthcare/) 2021-08-20 HealthTech World
   > When a medical accrediting agency provides a digitally signed certificate, the healthcare practitioner and owner of that certificate holds the credential in a digital wallet. The details of the credential such as the time stamp in which the certificate was given and how long it is valid for, can be optionally held within a blockchain network, digitally linked to the certificate, this process is called ‘anchoring’.
-* [SSI For Healthcare: Lessons from the NHS](https://vimeo.com/543285754) 2021-04-29 Evernym
-  > - Lessons learned from working with self-sovereign identity (SSI) at the NHS, and the needs highlighted when leading the frontline response during COVID-19
-  > - What digital health passes mean for the adoption of SSI
-  > - Applying the four principles of healthcare ethics to verifiable credential technology
-  > - The top use cases for healthcare, including “staff passports” and portable health records
 * [Accessing Medical Records Anywhere](https://academy.affinidi.com/accessing-medical-records-anywhere-a-use-case-for-verifiable-credentials-81a248f9b746) 2021-04-02 Affinidi
   > this workflow doesn’t involve any third-party to store your medical data and this also means no worry about medical data storage policies and the laws associated with it. The holder completely owns his or her medical data and stores it exclusively in his or her digital wallet, thereby making it secure and hassle-free.
 * [Literature] [Distributed Ledger Technology for eHealth Identity Privacy: State of The Art and Future Perspective](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7013398/) 2020-01 NLM
   > In the decentralized trusted identity model, the identity provider still centralized and performs the user’s identity proofing based on trusted credentials like passports or driver licenses while uses the DLT to store the identity attestation for later validation by third parties services and trusted organizations as is shown in Figure 1b [46]. The decentralized trusted identity doesn’t use the concept of identity repository which is the slight difference from the SSI model, and the identity provider will provide the receiving entity a testimony on the validity of the data while all the credentials are encrypted and stored locally in the user phone.
 
 ## Project
-* [A Digital Staff Passport for hospital facilities, DIZME voted best solution at SHACK22 hackathon](https://infocert.digital/a-digital-staff-passport-for-the-safe-mobility-of-staff-in-hospital-facilities-dizme-has-been-voted-as-the-best-solution-at-shack22-hackathon/) 2022-07-08 Infocert
-  > The hackathon held by INTEROPen, a leading organization to support & accelerate the delivery and adoption of Interoperability Standards in health & social, in partnership with NHS (National Health System) was aimed at developing innovative solutions for the management of access and safe mobility of staff in hospital facilities.
 * [Case study: Gravity digital ID solution enables vulnerable migrants in Kenya to receive consistent healthcare services](https://medium.com/gravity-earth/case-study-gravity-digital-id-solution-enables-vulnerable-migrants-in-kenya-to-receive-consistent-713a78f9e0d8) 2022-04-27 Shiyao Zhang
   > For patients who have a smartphone, they can directly view and manage their medical credentials on their wallet application; for patients who are equipped with feature phones, they can interact with their credentials via a dedicated USSD menu; for those who don’t have a phone, the medical credentials will be stored in a printed QR code.
 * [Simplify medical supply orders with SSI: Techruption innovation project](https://www.brightlands.com/en/brightlands-smart-services-campus/brightlands-techruption-SSI-simplifies-medical-supply-orders) 2021-12-21 Brightlands

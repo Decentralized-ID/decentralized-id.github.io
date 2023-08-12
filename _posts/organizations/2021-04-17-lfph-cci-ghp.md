@@ -1,5 +1,5 @@
 ---
-title: "Covid-19: LFPH - CCI and Good Health Pass"
+title: "LFPH and Covid-19: CCI and Good Health Pass"
 description: Linux Foundation Public Health's response to the Covid-19 pandemic
 excerpt: After initial success with deploying exposure notification apps, LFPH started to host CCI in December 2020 to advance the use of Verifiable Credentials (VCs) and data and technical interoperability of VCs in the public health realm, starting with vaccine credentials.
 layout: single
@@ -10,7 +10,7 @@ redirect_from:
   - organizations/covid-credentials-initiative/
 canonical_url: 'https://decentralized-id.com/application/covid-19/lfph_cci_good-health-pass/'
 categories: ["History"]
-tags: ["Linux Foundation","LFPH","MedCreds","Evernym","ID2020","uPort","Dutch Research","TNO","Microsoft","Consensys Health","Luxoft","CCI","SITA","WHO","Good Health Pass","Vaccine Credentials"]
+tags: ["Linux Foundation","LFPH","MedCreds","Evernym","ID2020","uPort","Dutch Research","TNO","Microsoft","Consensys Health","Luxoft","CCI","SITA","WHO","Good Health Pass","Vaccine Credentials","Cardea"]
 last_modified_at: 2023-06-18
 ---
 
@@ -27,8 +27,6 @@ last_modified_at: 2023-06-18
   > MedCreds is built on top of INDY and ARIES and is running on the SOVRIN Main Net. This is done through Trinsic (a third-party vendor)’s APIs. Trinsic agreed to document how to do this using the API’s on ARIES and devote an engineer to give instructions for how to use the open source code to run MedCreds.
   > 
   > MedCreds can be extended to support new credential schemas.
-- [Indicio Submission to LFPH](https://docs.google.com/document/d/1Vl9IKRg6ygHD1njc8GfnjsQglDOVglBKbuXHSuqQ7T4/edit?usp=sharing) 2021-03
-  > Indicio’s Cardea ecosystem easily integrates with existing applications, allowing people, businesses, healthcare systems, and governments to work together to safely reopen physical locations such as offices, restaurants, venues, schools, and travel, while complying with global health and data privacy laws. The ecosystem frees businesses, organizations, and governments from having to store and manage people’s private medical information. Instead, decentralized identity enables the individual to independently acquire and control their data and securely share or selectively disclose it at their discretion with full consent.
 * [LFPH Calls for Coordination of Digital Vaccination Records Using Open Standards](https://www.lfph.io/wp-content/uploads/2021/02/LFPH-Calls-for-Coordination-of-Digital-Vaccination-Records-Using-Open-Standards.pdf) 2021-02 LFPH
   > The CCI community collaborated with Linux Foundation Public Health to write a letter to the Biden Administration about how Verifiable Credentials could be used to support re-opening the economy.
   > 
