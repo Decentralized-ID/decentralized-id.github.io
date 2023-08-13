@@ -2,6 +2,13 @@
 published: false
 ---
 
+
+* [Matching Identity Management Solutions to Self Sovereign Identity Solutions](https://www.slideshare.net/TommyKoens/matching-identity-management-solutions-to-selfsovereign-identity-principles)
+5.2 The Short List 
+Following our knock-out assessment, there remain a total of nine identity man-agement solutions that match the three defined Self-Sovereign Identity Princi-ples. These are: — Blockauth — Cryptid — DIMS — Sovrin (Evernym) — IPv8 (Delft) — IRMA — Selfkey / KYC-chain — OpenID — uPort 
+6 Requirements short list 
+Having determined which identity management solutions fit the initial three requirement, we perform an in-depth assessment of the identity solutions on the short list. To do so, we create a new set of requirements, and match each solution to this new list of requirements. 
+
 # SSI Companies
 Talao SSI wallet now available on Apple AppStore and Google Play		https://medium.com/@talao_io/talao-ssi-wallet-now-available-on-apple-appstore-and-google-play-1435b4a01b1c			
 ## Microsoft

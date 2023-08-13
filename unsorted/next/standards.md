@@ -85,3 +85,19 @@ DID Auth HTTP proxy.
 * [Near-Final Second W3C WebAuthn and FIDO2 CTAP Specifications](https://self-issued.info/?p=2143)
   > The [W3C WebAuthn](https://www.w3.org/blog/webauthn/) and [FIDO2](https://fidoalliance.org/fido2/) working groups have been busy this year preparing to finish second versions of the W3C Web Authentication (WebAuthn) and FIDO2 Client to Authenticator Protocol (CTAP) specifications
 
+
+## RDF
+
+* [Technical Report on the Universal RDF Dataset Normalization Algorithm](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/att-0032/Mirabolic_Graph_Iso_Report_2020_10_19.pdf) 2020-10-19
+  > The goal of this technical report is to review the Universal RDF Dataset Normalization Algorithm (URDNA2015) for correctness and to provide satisfactory evidence that possible issues with URDNA2015 have been considered and dismissed. We do not lay out the algorithm in its considerable technical detail here, but refer the reader to the proposed technical specification 1 [Longley], a set of proofs by Rachel Arnold and Dave Longely [Arnold], and a reference implementation in Python [DigitalBazaar]
+  > - [Bill Bradley](https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0032.html)
+
+* [URDNA2015 Implementation Question](https://lists.w3.org/Archives/Public/public-credentials/2022Jul/0017.html) Daniel Petranek
+  > I've instrumented the rdf-canonicalize library so I can inspect the order of execution, and it appears that what differs between my implementation and the Javascript one is the order of the permutations. The spec doesn't say how the permutations should be ordered, and my intuition is that the order does indeed matter - though I'm happy to be corrected if I'm wrong.
+
+So, here is my question(s):
+
+* Does the order of the permutations matter?
+
+* If so, what order should they be in?
+

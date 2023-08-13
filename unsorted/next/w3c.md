@@ -16,3 +16,6 @@ published: false
 * [Block Joins W3C](https://twitter.com/brockm/status/1526723285102120960) [@brockm](https://twitter.com/brockm)
   > Today, we became a member of the [@W3C](https://twitter.com/w3c), as part of our commitment to building open standards for an open web. We are committed to advancing and adopting decentralized and privacy-preserving standards for self-sovereign digital identity that benefits all. Not centralized platforms.
 
+
+* [RDF Dataset Canonicalization and Hash Working Group](https://www.w3.org/groups/wg/rch/) 2024-07-20 W3C
+  > The goal of this group is to standardize the way many of us digitally sign Verifiable Credentials. This working group has been about decade in the making (some would say two decades) and is important for achieving things like BBS+ selective disclosure as well as standardizing the way we format Verifiable Credentials before they are digitally signed.
