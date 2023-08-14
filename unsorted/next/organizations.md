@@ -117,3 +117,11 @@ we are bringing our contribution toward more robust cybersecurity and seamless i
 * [HCF announces Dynamic Data Economy v1.0](https://humancolossus.foundation/blog/dde-launch) Human Colossus Foundation
 
 a trust infrastructure that preserves the structural, definitional, and contextual integrity (DDE Principle 1) of any object and their relationships in the Semantic domain, the factual authenticity (DDE Principle 2) of any recorded event in the Inputs domain, and the consensual veracity (DDE Principle 3) of any purpose-driven policy or notice in the Governance domain.
+
+
+* [Identiproof demonstrates early commitment to Open Badges V3](https://www.crosswordcybersecurity.com/post/identiproof-demonstrates-early-commitment-to-open-badges-v3) Crossworld Cybersecurity
+
+It does this through selective disclosure, whereby the recipient requests the minimum of information in conformance with GDPR. Identiproof is one of the first systems built to the 2019 W3C recommendations: The Verifiable Credentials Data Model and Web Authentication (FIDO2) - two new global web security standards.
+
+## Velocity Network
+Having a look at [the Velocity Whitepaper](https://www.velocitynetwork.foundation/wp-content/uploads/2020/11/Velocity-Non-Technical-Whitepaper-091120-V1.15-Published.pdf) it does mention they are keeping an eye on the work developing in W3C and DIF.

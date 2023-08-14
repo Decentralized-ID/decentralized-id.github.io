@@ -4,6 +4,45 @@ published: false
 
 
 
+## "DIDAlliance"
+
+* [FIDO & DIDs](https://fidoalliance.org/2020-fido-hackathon-in-korea-introducing-the-top-5-winners/)?
+  > This presentation from Day 1 of 2020 FIDO from Team Dr. Who (consisting of a project manager, 2 developers, and a public healthcare specialist from the World Health Organization 9 (WHO). Their Proof of Concept introduces smart health insurance card services that link Distributed IDentity technology and FIDO Authentication. The team aims to solve the problem of existing physical cards, which are an inferior way of identifying someone’s actual identity.
+Here is a link to the [video presentation](https://www.youtube.com/watch?v=Zj44RIwgidY&feature=youtu.be) (in Korean)
+* [GADI presented](https://www.thedinglegroup.com/blog/2020/12/15/gadi-and-the-did-alliance) at the [Vienna Digital Identity Meetup](https://www.meetup.com/Vienna-Digital-Identity-Meetup/) (now virtual, very good, much recommend). The GADI architecture is a federated identity ecosystem where Digital Address Platforms (DAPs) issue unique individual identifiers controlled by the GADI ecosystem.  This is the fundamental difference in identity philosophy between GADI and SSI based systems.  The Digital Address is a lifetime connected identifier and under the control of the DAP. The [video is here](https://vimeo.com/491079655). 2020-12-15
+
+## Business
+* [The business models of identity](https://blog.verim.id/the-business-models-of-identity-bb3336773727)
+
+A post by Verim justifying their pay to play for Identity credentials.  Adding another layer of complication
+* Very Worrying Development [Internet Identity: The End of Usernames and Passwords](https://medium.com/dfinity/internet-identity-the-end-of-usernames-and-passwords-ff45e4861bf7) via centralized issuance of a number?
+
+* [A Defacto National ID from ID.me](https://www.windley.com/archives/2022/02/a_defacto_national_id_from_idme.shtml)
+
+* [The IRS is reportedly looking for ID.me alternatives amid privacy concerns](https://www.theverge.com/2022/1/29/22907853/irs-idme-facial-recognition-alternatives-privacy-concerns)
+
+* [How LEIs Are Helping Individuals through Organisation Identity](https://www.ubisecure.com/legal-entity-identifier-lei/helping-individuals-through-organisation-identity/)
+
+1. LEIs Help Fight against “Musty” Businesses
+
+2. LEIs Help Include the Real Job Creators
+
+3. LEI and Customer Identity and Access Management (CIAM)
+
+
+* [Worried About Digital Identity?](https://www.continuumloop.com/worried-about-digital-identity/) The Security of Our Identities
+
+We need to take back accountability for our data. It’s not up to Facebook or Google; they’re not security companies. These organizations do us a favour by offering backup and recovery options, but we pay the price. Furthermore, they are claiming your data as their asset and [making money](https://www.privacytrust.com/blog/how-facebook-makes-money-from-personal-data.html).
+
+* [Microsoft wants everything to come with its verified check mark](https://www.protocol.com/bulletins/microsoft-verified-id-digital-privacy) Protocol
+
+Microsoft’s Verified ID could create digital privacy issues
+
+As part of the forthcoming Verified ID service, individuals would be able to get digital credentials issued by Microsoft that prove where they work, what school they graduated from, which bank account they have — and even whether they're in good health according to their doctor.
+
+https://github.com/WICG/mobile-document-request-api/issues/6
+Jevons Paradox is an economic principle which introduces the concept that availability and efficiency of providing a resource (in this case data from a driver's license) can often times lead to increased consumption of the resource. This spec should be addressing whether this additional consumption provides an overall net positive gain for the web platform or if this will cause further harm to marginalized communities of people.
+
 # Infographic
 https://twitter.com/DecentralizeID/timelines/1322735918386733057?ref_src=twsrc%5Etfw
 
