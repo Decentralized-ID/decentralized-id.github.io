@@ -1,8 +1,8 @@
 ---
-title: "(DIDs) DID Methods - W3C"
+title: "DID Methods - Various"
 name: DID Methods
 layout: standards
-headings: ["About","DID Methods","Discussion"]
+headings: ["Main","DID Methods","Discussion"]
 description: Different DID methods use different underlying mechanisms with different performance, security, and privacy tradeoffs.
 excerpt: >
   DID methods are the magic ingredient that gives DIDs their flexibility. Before creating any specific DID, you first choose a DID method, which determines how you perform the create, read, update, and deactivate operations on a DID of that method.
