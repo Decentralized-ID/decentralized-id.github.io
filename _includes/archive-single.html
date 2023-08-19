@@ -44,7 +44,8 @@
 	{% else %}
 	  {% assign sorted_tags = post.tags | uniq | compact | sort %}
 	{% endif %}
-    {% for tag in sorted_tags %}
+    <small><strong>Tags:</strong></small>
+	{% for tag in sorted_tags %}
       <div class="tags">{{ tag }}</div> 
     {% endfor %}
   </article> 
