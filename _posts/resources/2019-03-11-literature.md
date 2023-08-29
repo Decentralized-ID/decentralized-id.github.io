@@ -1,6 +1,6 @@
 ---
 date: 2019-03-11
-title: "Research, Reports, and other Literature related to Self Sovereign Identity"
+title: "Research, Literature, Reports related to Self Sovereign Identity"
 layout: single
 description: Verifiable credentials and digital wallets offer a convenient, secure, and privacy-oriented alternative to current physical and digital identity management systems.
 excerpt: > 
