@@ -22,11 +22,11 @@ layout: single
   {%endif%}
   {% for row in content %}
     {% unless item contains ";" %}
-      {% if row.section == item and row.main == page.name and mark != 1 %}{%assign mark = 1%}<h2 id="{{item}}">{{item}}</h2><ul>{%endif%}
+      {% if row.section contains item and row.main contains page.name and mark != 1 %}{%assign mark = 1%}<h2 id="{{item}}">{{item}}</h2><ul>{%endif%}
 	{% endunless %}
 	{% if item contains ";" %}
 	  {% assign head = item | split: ";"%}
-      {% if row.section == item and row.main == page.name and marktwo != 1 %}{%assign marktwo = 1%}</ul><h3 id="{{head.last}}">{{head.last}}</h3><ul>{%endif%}
+      {% if row.section contains item and row.main contains page.name and marktwo != 1 %}{%assign marktwo = 1%}</ul><h3 id="{{head.last}}">{{head.last}}</h3><ul>{%endif%}
     {% endif %}
 	{% if row.section contains item and row.main contains page.name %}
       {% include entry_single.html %}
