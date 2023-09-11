@@ -7,7 +7,7 @@ layout: single
 toc: true
 permalink: /development/architecture/
 canonical_url: 'https://decentralized-id.com/development/architecture/'
-categories: ["Development"]
+categories: ["Technology"]
 tags: ["Architecture"]
 last_modified_at: 2023-06-23
 ---

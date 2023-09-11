@@ -4,7 +4,7 @@ description: "Trust frameworks are complicated so getting governance right requi
 excerpt: >
   The trust infrastructure is concerned with the question of how and why the presented information can be trusted. It defines the rules for all stakeholders and enables legally binding relationships with the combination of governance frameworks, which are built on top of trust frameworks.
 layout: single
-categories: ["Development"]
+categories: ["Technology"]
 tags: ["Governance","Trust Frameworks","Trust Registries","Machine Readable Governance"]
 permalink: /development/governance-trust-frameworks-registries/
 canonical_url: "https://decentralzed-id.com/development/governance-trust-frameworks-registries/"

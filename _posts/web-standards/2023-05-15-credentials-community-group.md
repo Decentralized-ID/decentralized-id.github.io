@@ -5,7 +5,7 @@ excerpt: >
     explore the creation, storage, presentation, verification, and user control of credentials. We focus on a verifiable credential (a set of claims) created by an issuer about a subject—a person, group, or thing—and seek solutions inclusive of approaches such as: self-sovereign identity; presentation of proofs by the bearer; data minimization; and centralized, federated, and decentralized registry and identity systems. 
 permalink: /web-standards/sdo/w3c/credentials-community-group/
 canonical_url: "https://decentralized-id.com/web-standards/w3c/credentials-community-group/"
-categories: ["Web Standards","Organizations"]
+categories: ["Standards Development Orgs"]
 tags: ["Credentials Community Group","Verifiable Credentials","Decentralized Identifiers","W3C","ECDSA Cryptosuite v2019","ECDSA Cryptosuite v2020","JWS","Tracability","Standards Development Org"]
 last_modified_at: 2023-07-03
 ---

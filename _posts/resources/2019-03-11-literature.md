@@ -7,7 +7,7 @@ excerpt: >
   provides an overview of the SSI properties, focusing on an in-depth analysis, furthermore presenting a comprehensive collection of SSI properties that are important for the implementation of the SSI system. 
 header: 
   image: /images/literature-christian-wiediger-unsplash.webp
-categories: ["Resources"]
+categories: ["About"]
 tags: ["Literature","Resources"]
 toc: true
 toc_sticky: false

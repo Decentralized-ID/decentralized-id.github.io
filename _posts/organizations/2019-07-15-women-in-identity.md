@@ -4,7 +4,7 @@ title: "Women in Identity - @WomeninID"
 excerpt: >
   Digital identity solutions built for everyone are built by everyone.
   Women in Identity inspires, elevates and supports a more diverse workforce in the digital identity industry.
-categories: ["Organizations"]
+categories: ["Community Orgs"]
 tags: ["WomeninID","GDPR"]
 permalink: organizations/women-in-identity/
 redirect_from: 

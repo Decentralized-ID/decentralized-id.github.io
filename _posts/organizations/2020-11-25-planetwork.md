@@ -4,7 +4,7 @@ title: Planetwork
 description: Dedicated to addressing the global imperatives of our time
 excerpt: >
     We are dedicated to the creation and maintenance of a digital communications platform, operated as a public interest utility, that will strengthen civil society by enabling people to connect, communicate, make transactions, and self-organize in a manner that is consistent with the highest principles of democracy and reflects an enlightened understanding of the fragile beauty of our planet. We will bring together, develop, promote, and hold as a global public commons, software tools and infrastructure that facilitate the emergence, growth, and vitality of networks of individuals and organizations who share ecological and social justice values, as articulated in the Earth Charter.
-categories: ["Organizations","History"]
+categories: ["Community Orgs","History"]
 tags: ["Planetwork","Augmented Social Network","Bloom","XDI","JLinc","IDCommons","OASIS"]
 permalink: organizations/planetwork/
 header: 

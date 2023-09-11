@@ -10,7 +10,7 @@ redirect_from:
   - media/
   - podcasts/
 canonical_url: 'https://decentralized-id.com/resources/'
-categories: ["Resources"]
+categories: ["About"]
 tags: ["Resources"]
 last_modified_at: 2023-06-30
 ---

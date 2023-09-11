@@ -12,7 +12,7 @@ redirect_from:
   - /literature/self-sovereign-identity/user-experience/
   - self-sovereign-identity/user-experience
   - self-sovereign-identity/user-experience/
-categories: ["Development"]
+categories: ["Technology"]
 tags: ["User Experience","Relationships"]
 last_modified_at: 2023-06-23
 published: true

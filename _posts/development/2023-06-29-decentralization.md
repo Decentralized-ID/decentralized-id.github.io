@@ -4,7 +4,7 @@ description: "Fixating on the degree—rather than the type—of decentralizatio
 excerpt: >
   Decentralization is a commonly misunderstood concept. For example, it is sometimes said that the reason cryptonetwork advocates favor decentralization is to resist government censorship, or because of libertarian political views. These are not the main reasons decentralization is important.
 layout: single
-categories: ["Development"]
+categories: ["Technology"]
 tags: ["Decentralization"]
 permalink: /development/decentralization/
 canonical_url: "https://decentralized-id.com/development/decentralization/"

@@ -4,7 +4,7 @@ description: Anoncreds has been modularized from the Hyperledger Indy blockchain
 excerpt: > 
   Hyperledger AnonCreds – short for “Anonymous Credentials”- is the most commonly used Verifiable Credential (VC) format in the world. Ledger agnostic and with a formal open specification, AnonCreds is a VC format that adds important privacy-protecting ZKP (zero-knowledge proof) capabilities to the core VC assurances.
 layout: single
-categories: ["Open Source Projects"]
+categories: ["Verifiable Credentials and Decentralized Identifiers"]
 tags: ["Hyperledger Foundation","IBM","IDEMIX","Anoncreds","Sovrin Foundation","Evernym"]
 permalink: /projects/hyperledger/anoncreds/
 canonical_url: 'https://decentralized-id.com/projects/hyperledger/anoncreds/'

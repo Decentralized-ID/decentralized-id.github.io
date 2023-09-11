@@ -11,7 +11,7 @@ redirect_from:
   - /hgf-2018/Microledgers-Edgechains-Hardman-HGF/
   - /hgf-2018/Microledgers-Edgechains-Hardman-HGF
 author_profile: false
-categories: ["Development"]
+categories: ["Technology"]
 tags: ["Indy","Transcript","Hyperledger Forum","Evernym","GDPR","DID:PEER","Literature","HGF 2018"]
 published: true
 last_modified_at: 2019-12-11

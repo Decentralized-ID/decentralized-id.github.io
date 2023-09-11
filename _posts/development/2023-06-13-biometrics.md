@@ -6,7 +6,7 @@ excerpt: >
 layout: single
 permalink: /development/biometrics/
 canonical_url: "https://decentralized-id.com/development/biometrics/"
-categories: ["Development"]
+categories: ["Technology"]
 tags: ["Biometrics"]
 last_modified_at: 2023-06-09
 toc: true

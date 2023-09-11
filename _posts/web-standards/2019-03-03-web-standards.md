@@ -11,7 +11,7 @@ redirect_from:
   - standards
   - standards/
   - specs-standards/
-categories: ["Web Standards"]
+categories: ["Related Standards"]
 tags: ["W3C","Credentials Community Group","hyperledger foundation","FIDO","OpenID","XDI","OASIS","JSON-LD","Verifiable Credentials","Ethereum","Blockcerts","OAuth","OIDC","DKMS","ERC725","RWoT","Schema.org","Learning Machine"]
 last_modified_at: 2023-06-01
 header: 

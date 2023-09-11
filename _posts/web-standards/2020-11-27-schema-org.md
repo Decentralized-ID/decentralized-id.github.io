@@ -8,7 +8,7 @@ permalink: web-standards/w3c/schema-org/
 redirect_from:
   - web-standards/w3c/cg/schema-org/
 tags: ["Schema.org","W3C","JSON-LD","RDF","Microsoft"]
-categories: ["Web Standards"]
+categories: ["Related Standards"]
 header:
   image: /images/schema-header.webp
   teaser: /images/schema-teaser.webp

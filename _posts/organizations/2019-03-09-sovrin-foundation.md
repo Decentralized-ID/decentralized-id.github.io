@@ -15,7 +15,7 @@ permalink: organizations/sovrin-foundation/
 canonical_url: 'https://decentralized-id.com/organizations/sovrin-foundation/'
 redirect_from: 
   - organizations/sovrin/
-categories: ["Organizations"]
+categories: ["Community Orgs"]
 tags: ["Indy","Verifiable Organizations Network","Sovrin Foundation","ABSA Group","AyanWorks","Bloqzone","Certizen","Condatis","CPQD","Danube Tech","Desert Financial Credit Union","Dhiway","ID Crypt Global","Monokee","RIDDLE&CODE","The Institute for Internet-Security","Trinsic","Axuall","Outlier Ventures","One Global","Fetch.ai","MakoLab","Regio iT","Anonyome Labs","Unveil.Social","NEC","Truu (ID)","SITA","Digicert","Veridium","Finicity","Perkins Coie","SICPA","OAS Staff Federal Credit Union","Deutsche Telekom AG","ATB Financial","esatus AG","ProSapien","InfoCert","Evernym","Royal Credit Union","iRespond","DIDx","Verifiable Credentials","W3C","GDPR","Trust Framework","Sovrin Foundation","DKMS","Humanitarian"]
 last_modified_at: 2023-06-12
 ---

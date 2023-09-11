@@ -8,7 +8,7 @@ toc: true
 toc_sticky: false
 permalink: /development/ethics-rights-sovereignty/
 canonical_url: 'https://decentralized-id.com/development/ethics-rights-sovereignty/'
-categories: ["Development"]
+categories: ["About"]
 tags: ["Ethics","Human Rights","Sovereignty"]
 last_modified_at: 2023-06-23
 ---

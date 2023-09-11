@@ -9,8 +9,8 @@ header:
 layout: single
 permalink: /blockchain/
 canonical_url: "https://decentralized-id.com/blockchain/"
-categories: ["Blockchain"]
-tags: ["NIST","Identiverse",Authenteq,Blockstack,Civic,Microsoft,Datum,ProCivis]
+categories: ["Web 3"]
+tags: ["NIST","Identiverse","Authenteq","Civic","Microsoft","Datum","ProCivis"]
 last_modified_at: 2023-06-09
 toc: true
 toc_sticky: false

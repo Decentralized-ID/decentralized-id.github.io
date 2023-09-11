@@ -8,7 +8,7 @@ excerpt: >
   data model and HTTP protocols to issue, verify, present, and manage data used in such an ecosystem. 
 permalink: web-standards/exchange-protocol/
 canonical_url: https://decentralized-id.com/web-standards/exchange-protocol/
-categories: ["Web Standards"]
+categories: ["Related Standards"]
 tags: ["CHAPI","VC Api","WACI","Credentials Community Group","TrustBloc","DIF","Bloom","hyperledger foundation","Human Colossus Foundation"]
 last_modified_at: 2023-06-03
 ---

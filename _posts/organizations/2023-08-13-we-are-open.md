@@ -4,7 +4,7 @@ description: "whatever your project, our interest, knowledge and networks can he
 layout: single
 excerpt: >
   We’re a collective of independent thinkers and makers helping charities, ethical companies, government departments and educational institutions with sensemaking and digital transformation.
-categories: ["Organizations"]
+categories: ["Community Orgs"]
 tags: ["We are Open","Open Badges","Open Recognition","Accredible","Badgecraft","Open Recognition","Keep Badges Weird","BadgeCollect","Badge List","BadgeFactor","BadgeOS","Badgetree™","BCdiploma","Bestr","CanCred.ca","Canvas Credentials","Credly","ForAllRubrics","HPass","Hyland Credentials","Milestone","NOCTI","Open Badge Factory","Openbadges.me","Participate","RedCritter","Sertifier","VerifyEd"]
 permalink: /organizations/we-are-open/
 canonical_url: 'https://decentralized-id.com/organizations/we-are-open/'

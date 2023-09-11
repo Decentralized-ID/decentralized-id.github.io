@@ -3,7 +3,7 @@ date: 2020-11-26
 title: DID Communications (DIDComm) - DIF
 name: DIDComm
 layout: standards
-headings: ["Explainer","RFCs","Development","Implementation"]
+headings: ["Explainer","RFCs","Technology","Implementation"]
 description: contribute to specs that embody a method for secure, private and authenticated message-based communication, where trust is rooted in DIDs and used over a wide variety of transports.
 excerpt: >
   Produce one or more high-quality specs that embody a method (“DIDComm”) for secure, private and (where applicable) authenticated message-based communication, where trust is rooted in DIDs and depends on the messages themselves, not on the external properties of the transport(s) used. The method must be usable over many means of transport, including those that are asynchronous and simplex, and ones that do not necessarily use the internet. It must support routing and relay through untrusted intermediaries, not just point-to-point delivery. In addition to the communication and protocols described above, the protocols for exchanging DIDs/keys to bootstrap such communication are within scope. These protocols can be the foundation of higher-level protocols such as credential exchange and higher-level authentication protocols.
