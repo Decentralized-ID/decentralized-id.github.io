@@ -8,13 +8,14 @@ header:
   teaser: /images/veres_one-teaser.webp
 layout: single
 permalink: /blockchain/veres-one/
-categories: ["Blockchain"]
+categories: ["Community Orgs"]
 tags: ["Blockchain","Veres One","Digital Bazaar","Veres One CG","W3C"]
 last_modified_at: 2020-11-10
 toc: false
+published: false
 ---
 
-**[Download](https://nodejs.org/en/download/) • [GitHub](https://github.com/veres-one/) • [Community Group](https://www.w3.org/community/veres-one/) • [Developers](https://veres.one/developers/) • [Twitter](https://twitter.com/veresoneid)**
+**[Download](https://nodejs.org/en/download/) • [GitHub](https://github.com/veres-one/) • [Community Group](https://www.w3.org/community/veres-one/) • [Developers](https://veres.one/developers/)**
 
 
 * [Veres One - Summary](https://veres.one/summary/)
