@@ -5,7 +5,7 @@ excerpt: >
   Hyperledger AnonCreds – short for “Anonymous Credentials”- is the most commonly used Verifiable Credential (VC) format in the world. Ledger agnostic and with a formal open specification, AnonCreds is a VC format that adds important privacy-protecting ZKP (zero-knowledge proof) capabilities to the core VC assurances.
 layout: single
 categories: ["Verifiable Credentials and Decentralized Identifiers"]
-tags: ["Hyperledger Foundation","IBM","IDEMIX","Anoncreds","Sovrin Foundation","Evernym"]
+tags: ["Hyperledger Foundation","IBM","IDEMIX","Anoncreds","Sovrin Foundation","Evernym","ZKP-CL"]
 permalink: /projects/hyperledger/anoncreds/
 canonical_url: 'https://decentralized-id.com/projects/hyperledger/anoncreds/'
 last_modified_at: 2023-07-02
