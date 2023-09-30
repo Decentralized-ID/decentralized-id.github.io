@@ -41,12 +41,14 @@ last_modified_at: 2023-09-09
   > JWTs have the benefit of already being widely used in today’s identity technologies, most notably in the framework used by OAuth 2.0 and OpenID Connect. Because of this, there are a number of existing software libraries and tools that developers can use immediately to begin building out their implementations. In addition, due to the fact that JWT-based credentials rely on a shared assertion format with existing identity technologies, it may be an easier mental model for newcomers to adopt when starting to experiment with VCs.
 
 ### JSON Web Proof
-
-* [Draft] [JSON Web Proof](https://www.ietf.org/archive/id/draft-jmiller-jose-json-web-proof-00.html) 2022-07-24 IETF ([github](https://github.com/json-web-proofs/json-web-proofs))
-  > This document defines a new container format similar in purpose and design to JSON Web Signature (JWS) called a JSON Web Proof (JWP). Unlike JWS, which integrity-protects only a single payload, JWP can integrity-protect multiple payloads in one message. It also specifies a new presentation form that supports selective disclosure of individual payloads, enables additional proof computation, and adds a protected header to prevent replay and support binding mechanisms.
+* [tracker] [JSON Web Proofs / JSON Object Signing and Encryption (JOSE)](https://datatracker.ietf.org/doc/bofreq-miller-json-web-proofs/)2022-06-16 J. Miller, D. Waite, Ping Identity. M. Jones Microsoft. IETF
+  > The JOSE RFCs and JWT, have been widely adopted for identity use cases, including for the widely-deployed OpenID Connect protocol and STIR. Concurrent to the growth of adoption of these standards has been an increasing societal focus on privacy. Common privacy themes in identity solutions that intersect with JWT are user consent and minimal disclosure.
+  > 
+  > In recent years, newer solutions have been evolving such as Verifiable Credentials that formalize the entities of Issuer, Holder, and Verifier. A Verifiable Credential lifecycle has three accompanying phases: issuance, storage, and presentation. The JOSE and JWT standards have also been adopted by Verifiable Credentials (for the JWT-VC representation), but JWS and JWT have limitations that make privacy protection challenging.
 * [JSON Web Proof (JWP)](https://hackmd.io/@quartzjer/JSON_Web_Proof) 2021-06-29 QuartzJer
   > A JSON Web Proof (JWP) is very similar to a JWS, with the addition that it can contain multiple individual payloads instead of a singular one. New JWP-supporting algorithms are then able to separate and act on the individual payloads contained within.
-
+* [JSON Web Proof for Binary Merkle Trees](https://w3c-ccg.github.io/Merkle-Disclosure-2021/jwp/) 2021 O. Steele, Transmute. M. Prorock, mesur.io. Credentials Community Group 
+  > The purpose of this specification is to define a generic encoding of merkle audit paths that is suitable for combining with [RFC7515] to construct selective disclosure proofs, that are not bound to the needs of certificate transparency, and that are suitable for more generic applications such as W3C Verifiable Credentials and W3C Decentralized Identifiers.
 
 ### VC-JWT Selective Disclosure
 * [Standards Track] [SD-JWT-based Verifiable Credentials (SD-JWT VC)](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) 2023-08-16 Oliver Terbu, Daniel Fett IETF 
