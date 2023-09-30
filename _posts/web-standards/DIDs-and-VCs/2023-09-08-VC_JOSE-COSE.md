@@ -26,12 +26,10 @@ last_modified_at: 2023-09-09
   > - Camenisch-Lysyanskaya Zero-Knowledge Proofs [[CL-SIGNATURES](https://w3c.github.io/vc-data-model/#bib-cl-signatures)].
 * [Misinformation Stops Here: W3C VC 2.0 Supports JSON](https://identitywoman.net/misinformation-stops-here-w3c-vc-2-0-supports-json/) 2023-07-21 Kaliya Young 
   > There is one “extra” field that JSON-LD requires/needs which is @context and if you didn’t want to use it and simply wanted to ignore it and just do JSON you could. The VC would be entirely compliant and thus both data expression formats could live in the same specification. JSON-LD credentials that did have an @context that were being read by tooling that just did JSON could still read the credentials – it did nothing to interfere. This seems like a pretty good “let’s figure out how to live with each other” solution. 
-* [Draft] [JSON Web Proof](https://www.ietf.org/archive/id/draft-jmiller-jose-json-web-proof-00.html) 2022-07-24 IETF
-  > This document defines a new container format similar in purpose and design to JSON Web Signature (JWS) called a JSON Web Proof (JWP). Unlike JWS, which integrity-protects only a single payload, JWP can integrity-protect multiple payloads in one message. It also specifies a new presentation form that supports selective disclosure of individual payloads, enables additional proof computation, and adds a protected header to prevent replay and support binding mechanisms.
-* [JSON Web Proof (JWP)](https://hackmd.io/@quartzjer/JSON_Web_Proof) 2021-06-29 QuartzJer
-  > A JSON Web Proof (JWP) is very similar to a JWS, with the addition that it can contain multiple individual payloads instead of a singular one. New JWP-supporting algorithms are then able to separate and act on the individual payloads contained within.
 
 ## Verifiable Credentials with JSON Web Token (JOSE)
+* [SD-JWT-based Verifiable Credentials with JSON payloads (SD-JWT VC)](https://www.ietf.org/id/draft-terbu-sd-jwt-vc-02.html) IETF
+  > This specification describes data formats as well as validation and processing rules to express Verifiable Credentials with JSON payload based on the SD-JWT format [[I-D.ietf-oauth-selective-disclosure-jwt](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt-04)].
 * [Verifiable Credentials Deep Dive](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/decentralized-identity-verifiable-credentials-deep-dive/ba-p/3690641) 2022-12-09 Pamela Dingle, Microsoft
   > A JWT-VC has three parts, and the payload contains what I would call envelope information: the data needed to know who the credential is is bound to, who made the credential, when it was made and how it can be identified.  Additionally, there is a JSON object called “vc”. Claims information is embedded inside the vc object.  A JWT-VC uses an external proof, meaning in this case that signature data is not embedded inline with the credential, the signature is detached from the credential. 
   > ![](https://i.imgur.com/ZBlDL7f.png)
@@ -41,6 +39,14 @@ last_modified_at: 2023-09-09
   > In the VC Implementation Guidelines, there is a long list of the different characterizations of methods: JSON with JWT’s support vs JSON-LD with LD Signatures, [Benefits of JWT](https://www.w3.org/TR/vc-imp-guide/#benefits-of-jwts), [Benefits of JSON-LD and LD-Proofs](https://www.w3.org/TR/vc-imp-guide/#benefits-of-json-ld-and-ld-proofs).
 * [JWT vs Linked Data Proofs: comparing Verifiable Credentials](https://medium.com/mattr-global/jwt-vs-linked-data-proofs-comparing-vc-assertion-formats-a2a4e6671d57) 2020-05-7 Nader Helmy, Mattr
   > JWTs have the benefit of already being widely used in today’s identity technologies, most notably in the framework used by OAuth 2.0 and OpenID Connect. Because of this, there are a number of existing software libraries and tools that developers can use immediately to begin building out their implementations. In addition, due to the fact that JWT-based credentials rely on a shared assertion format with existing identity technologies, it may be an easier mental model for newcomers to adopt when starting to experiment with VCs.
+
+### JSON Web Proof
+
+* [Draft] [JSON Web Proof](https://www.ietf.org/archive/id/draft-jmiller-jose-json-web-proof-00.html) 2022-07-24 IETF ([github](https://github.com/json-web-proofs/json-web-proofs))
+  > This document defines a new container format similar in purpose and design to JSON Web Signature (JWS) called a JSON Web Proof (JWP). Unlike JWS, which integrity-protects only a single payload, JWP can integrity-protect multiple payloads in one message. It also specifies a new presentation form that supports selective disclosure of individual payloads, enables additional proof computation, and adds a protected header to prevent replay and support binding mechanisms.
+* [JSON Web Proof (JWP)](https://hackmd.io/@quartzjer/JSON_Web_Proof) 2021-06-29 QuartzJer
+  > A JSON Web Proof (JWP) is very similar to a JWS, with the addition that it can contain multiple individual payloads instead of a singular one. New JWP-supporting algorithms are then able to separate and act on the individual payloads contained within.
+
 
 ### VC-JWT Selective Disclosure
 * [Standards Track] [SD-JWT-based Verifiable Credentials (SD-JWT VC)](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) 2023-08-16 Oliver Terbu, Daniel Fett IETF 
