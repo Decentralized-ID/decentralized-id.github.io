@@ -1,5 +1,5 @@
 ---
-title: "Verifiable Credentials - W3C"
+title: "Verifiable Credentials - Literature, Comparisons, Explainer (W3C)"
 name: Verifiable Credentials
 layout: standards
 headings: ["About","Comparisons","Implementations","Literature","Use Case"]
@@ -9,6 +9,7 @@ excerpt: >
 tags: ["W3C","Verifiable Credentials","Credentials Community Group","VC-WG","JSON-LD","Claims and Credentials WG"]
 categories: ["Verifiable Credentials and Decentralized Identifiers"]
 permalink: web-standards/w3c/verifiable-credentials/
+canonical_url: https://decentralized-id.com/web-standards/w3c/verifiable-credentials/
 header:
   image: /images/verifiable-credentials_head.webp
   caption: "[Verifiable Credentials Data Model](https://www.w3.org/TR/vc-data-model/)"
