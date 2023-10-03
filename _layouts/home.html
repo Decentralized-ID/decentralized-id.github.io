@@ -35,9 +35,9 @@ layout: archive
   {% endfor %}
   </ul>
 {% endfor %}
-<h2>Tags Grouped by Section</h2>
+<h2>Tags Grouped by Type</h2>
 <p>This system of navigation is part of an ongoing transition towards making this content, and its subject-matter, more accessible based upon the specific topic you are interested in.</p>
-<h3>Sections</h3>
+<h3>Types</h3>
 <strong class="taxonomy__index">{% for item in site.data.tagz %}<a href="#{{item[0]|downcase}}">{{item[0] | capitalize | replace: "_", "-" }}</a>{% endfor %}</strong>
 {% for item in site.data.tagz %}
   <h4 id="{{item[0] | downcase}}">{{ item[0] | upcase | replace: "_", "-" }}</h4><a href="#top" class="back-to-top"><strong>{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</strong></a>
