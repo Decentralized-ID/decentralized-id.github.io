@@ -46,7 +46,7 @@ last_modified_at: 2023-09-29
 * [Why the Verifiable Credentials Community Should Converge on BBS+](https://www.evernym.com/blog/bbs-verifiable-credentials/) 2021-03-24 Evernym
   > BBS+ LD-Proofs use JSON-LD schemas, so credentials that use them can have a rich, hierarchical set of attributes. Instead of the heavy-handed mechanism for the encoding and canonicalization of attributes values that we’d imagined for Rich Schemas, they use RDF canonicalization and a hash function. Rather than expanding the credential definition, they discarded it, taking advantage of some properties of BBS+ keys which allow for deterministic expansion. 
 
-### Development
+## Development
 * [Code] [jsonld-signatures-bbs](https://www.npmjs.com/package/@mattrglobal/jsonld-signatures-bbs) 2022-12-18 Mattr Global, NPMJS
   > The following repository contains a linked data proof implementation for creating BBS+ Signatures using BLS12-381 key pairs.
   > 

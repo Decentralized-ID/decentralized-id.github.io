@@ -78,6 +78,12 @@ header:
   > We hope to accumulate links here that talk to all Identity Standards work. Short updates form this will be used in the paper.
 
 ### Application
+* [#HyperledgerIdentity round-up: A cross section of production digital identity solutions built using Hyperledger technologies](https://www.hyperledger.org/blog/2022/09/28/hyperledgeridentity-round-up-a-cross-section-of-production-digital-identity-solutions-built-using-hyperledger-technologies) 2022-09-28 Hyperledger
+  * IBM Digital Health Pass (Fabric)
+  * Indicio Network (Aries, Ursa)
+  * IDUnion (Indy)
+  * NHS Digital Staff Passport (Sovrin: Indy, Ursa, Aries)
+  * OrgbookBC (Indy, Aries, Ursa)
 * [Hyperledger Identity Vendors](https://www.hyperledger.org/vendor_level/identity-management)
 * [TrustID: A New Approach to Fabric User Identity Management](https://www.hyperledger.org/blog/2020/04/21/trustid-a-new-approach-to-fabric-user-identity-management) 2020-04-21
   > We developed TrustID to ease the management of identities for the case of TrustOS. Users shouldn’t need to hold a different set of credentials for each network or decentralized application they interact with. The same credentials used to access your owned Bitcoins and manage your tokens in Ethereum should let you update the state of a Fabric asset or launch a secondary market in TrustOS.
@@ -115,6 +121,15 @@ header:
 
 ## Hyperledger Global Forum
 
+* [#HyperledgerIdentity round-up: A cross section of production digital identity solutions built using Hyperledger technologies](https://www.hyperledger.org/blog/2022/09/28/hyperledgeridentity-round-up-a-cross-section-of-production-digital-identity-solutions-built-using-hyperledger-technologies) 2022-09-28 Hyperledger
+  > updates from Hyperledger Global Forum
+  > - [Bringing Trustworthiness in Industrial Device Lifecycle using Verifiable Credentials](https://sched.co/14H61) Marquart Franz & Saad Bin Shams, Siemens AG
+  > - [Findy Agency — Highway to Verified Data Networks](https://sched.co/14H5g) – Laura Vuorenoja & Harri Lainio, OP Financial Group
+  > - [Digital Identity Using the vLEI](https://sched.co/14H6n) – Christoph Schneider, Global Legal Entity Identifier Foundation (GLEIF)
+  > - [Blockchain, Biometrics and Geo-Location: Lessons Learned from the Implementation of Innovative Technologies at the United Nations Joint Staff Pension Fund](https://sched.co/14H5m) – Dino Cataldo Dellaccio, United Nations Joint Staff Pension Fund & Shashank Rai, United Nations International Computing Centre (UNICC)
+  > - [Hosted Discussion: Rhode Island Leads on Digital Identity Solutions with Hyperledger](https://sched.co/14H6e) – Liz Tanner, State of Rhode Island & Jim Mason, DTCC
+  > - [Last Mile Problem in Self-Sovereign Identity – Biometric Authentification and Device Independent Wallet for Hyperledger Indy](https://sched.co/14H4u) – Non Kawana & Ken Naganuma, Hitachi, Ltd.
+  > - [Workshop: How To Build a Self-Sovereign Identity Agent With Hyperledger Aries Framework JavaScript](https://sched.co/15Bid) – Timo Glastra & Berend Sliedrecht, ANIMO & Jakub Koci, ABSA
 * [Hyperledger Forum Recap – Identity Proofing, and Passwordless User-friendly Digital Identity](https://idramp.com/hyperledger-forum-recap-identity-proofing-and-passwordless-user-friendly-digital-identity/) 2021-07-02
   > IdRamp CEO, Mike Vesey presented with Mark Rakhmilevich, Senior Director, Blockchain Product Management at Oracle. In their session, titled “Identity Proofing Solution Combining HL Indy and Fabric”, Mike and Mark presented the benefits and ease of integrating an identity proofing solution based on Hyperledger Indy, Hyperledger Fabric, while leveraging the Oracle blockchain and how  using two separate distributed ledgers makes the solution stronger. 
 * [Hyperledger Global Forum 2018]({% link _posts/events/2019-03-16-Hyperledger-Global-Forum-2018.md %})
