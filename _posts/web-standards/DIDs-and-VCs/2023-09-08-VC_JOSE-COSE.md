@@ -17,8 +17,6 @@ last_modified_at: 2023-09-09
 ## Main
 * [Working Draft] [Securing Verifiable Credentials using JOSE and COSE](https://www.w3.org/TR/vc-jose-cose/) 2023-09-08 Orie Steele, Michael Jones, Michael Prorock
   >  This specification defines how to secure credentials and presentations conforming to the [VC-DATA-MODEL](https://www.w3.org/TR/vc-jose-cose/#bib-vc-data-model), with JSON Object Signing and Encryption (JOSE), and CBOR Object Signing and Encryption ([COSE](https://datatracker.ietf.org/wg/jose/about/)) [RFC9052](https://www.w3.org/TR/vc-jose-cose/#bib-rfc9052). This enables the Verifiable Credential data model [VC-DATA-MODEL] to be implemented with standards for signing and encryption that are widely adopted. 
-* [Native JWT Representation for Verifiable Credentials](https://self-issued.info/?p=2316) 2023-02-10 Mike Jones
-  > For the first time, there is now a native JSON Web Token (JWT) representation for Verifiable Credentials. This representation uses IANA-registered JWT claims whenever applicable. 
 * [Editors Draft] [Verifiable Credentials Data Model v2.0](https://w3c.github.io/vc-data-model/) 2023-09-09
   > Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key holder), are an essential part of processing a verifiable credential. At the time of publication, Working Group members had implemented verifiable credentials using at least three proof mechanisms:
   > - Securing Verifiable Credentials using JOSE and COSE [[VC-JOSE-COSE](https://w3c.github.io/vc-data-model/#bib-vc-jose-cose)].
@@ -28,8 +26,12 @@ last_modified_at: 2023-09-09
   > There is one “extra” field that JSON-LD requires/needs which is @context and if you didn’t want to use it and simply wanted to ignore it and just do JSON you could. The VC would be entirely compliant and thus both data expression formats could live in the same specification. JSON-LD credentials that did have an @context that were being read by tooling that just did JSON could still read the credentials – it did nothing to interfere. This seems like a pretty good “let’s figure out how to live with each other” solution. 
 
 ## Verifiable Credentials with JSON Web Token (JOSE)
-* [SD-JWT-based Verifiable Credentials with JSON payloads (SD-JWT VC)](https://www.ietf.org/id/draft-terbu-sd-jwt-vc-02.html) IETF
+* [Fully-Specified Algorithms for JOSE and COSE](https://www.ietf.org/archive/id/draft-jones-jose-fully-specified-algorithms-00.html) 2023-08-29 Mike Jones, Orie Steel; IETF
+  > This specification refers to cryptographic algorithm identifiers that fully specify the cryptographic operations to be performed, including any curve, key derivation function (KDF), hash functions, etc., as being "fully specified". Whereas, it refers to cryptographic algorithm identifiers that require additional information beyond the algorithm identifier to determine the cryptographic operations to be performed as being "polymorphic". This specification creates fully-specified algorithm identifiers for all registered JOSE and COSE polymorphic algorithm identifiers, enabling applications to use only fully-specified algorithm identifiers.
+* [SD-JWT-based Verifiable Credentials with JSON payloads (SD-JWT VC)](https://www.ietf.org/id/draft-terbu-sd-jwt-vc-02.html) 2023-05-26 IETF
   > This specification describes data formats as well as validation and processing rules to express Verifiable Credentials with JSON payload based on the SD-JWT format [[I-D.ietf-oauth-selective-disclosure-jwt](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt-04)].
+* [Native JWT Representation for Verifiable Credentials](https://self-issued.info/?p=2316) 2023-02-10 Mike Jones
+  > For the first time, there is now a native JSON Web Token (JWT) representation for Verifiable Credentials. This representation uses IANA-registered JWT claims whenever applicable. 
 * [Verifiable Credentials Deep Dive](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/decentralized-identity-verifiable-credentials-deep-dive/ba-p/3690641) 2022-12-09 Pamela Dingle, Microsoft
   > A JWT-VC has three parts, and the payload contains what I would call envelope information: the data needed to know who the credential is is bound to, who made the credential, when it was made and how it can be identified.  Additionally, there is a JSON object called “vc”. Claims information is embedded inside the vc object.  A JWT-VC uses an external proof, meaning in this case that signature data is not embedded inline with the credential, the signature is detached from the credential. 
   > ![](https://i.imgur.com/ZBlDL7f.png)
@@ -40,15 +42,6 @@ last_modified_at: 2023-09-09
 * [JWT vs Linked Data Proofs: comparing Verifiable Credentials](https://medium.com/mattr-global/jwt-vs-linked-data-proofs-comparing-vc-assertion-formats-a2a4e6671d57) 2020-05-7 Nader Helmy, Mattr
   > JWTs have the benefit of already being widely used in today’s identity technologies, most notably in the framework used by OAuth 2.0 and OpenID Connect. Because of this, there are a number of existing software libraries and tools that developers can use immediately to begin building out their implementations. In addition, due to the fact that JWT-based credentials rely on a shared assertion format with existing identity technologies, it may be an easier mental model for newcomers to adopt when starting to experiment with VCs.
 
-### JSON Web Proof
-* [tracker] [JSON Web Proofs / JSON Object Signing and Encryption (JOSE)](https://datatracker.ietf.org/doc/bofreq-miller-json-web-proofs/)2022-06-16 J. Miller, D. Waite, Ping Identity. M. Jones Microsoft. IETF
-  > The JOSE RFCs and JWT, have been widely adopted for identity use cases, including for the widely-deployed OpenID Connect protocol and STIR. Concurrent to the growth of adoption of these standards has been an increasing societal focus on privacy. Common privacy themes in identity solutions that intersect with JWT are user consent and minimal disclosure.
-  > 
-  > In recent years, newer solutions have been evolving such as Verifiable Credentials that formalize the entities of Issuer, Holder, and Verifier. A Verifiable Credential lifecycle has three accompanying phases: issuance, storage, and presentation. The JOSE and JWT standards have also been adopted by Verifiable Credentials (for the JWT-VC representation), but JWS and JWT have limitations that make privacy protection challenging.
-* [JSON Web Proof (JWP)](https://hackmd.io/@quartzjer/JSON_Web_Proof) 2021-06-29 QuartzJer
-  > A JSON Web Proof (JWP) is very similar to a JWS, with the addition that it can contain multiple individual payloads instead of a singular one. New JWP-supporting algorithms are then able to separate and act on the individual payloads contained within.
-* [JSON Web Proof for Binary Merkle Trees](https://w3c-ccg.github.io/Merkle-Disclosure-2021/jwp/) 2021 O. Steele, Transmute. M. Prorock, mesur.io. Credentials Community Group 
-  > The purpose of this specification is to define a generic encoding of merkle audit paths that is suitable for combining with [RFC7515] to construct selective disclosure proofs, that are not bound to the needs of certificate transparency, and that are suitable for more generic applications such as W3C Verifiable Credentials and W3C Decentralized Identifiers.
 
 ### VC-JWT Selective Disclosure
 * [Standards Track] [SD-JWT-based Verifiable Credentials (SD-JWT VC)](https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/) 2023-08-16 Oliver Terbu, Daniel Fett IETF 
@@ -97,6 +90,16 @@ last_modified_at: 2023-09-09
   > Do not use it in production yet.
 * [GitHub] [kotlin-did-jwt](https://github.com/uport-project/kotlin-did-jwt) 2020-03-21 uPort Project
   > The kotlin-did-JWT library allows you to sign and verify JSON Web Tokens (JWT) using ES256K, and ES256K-R algorithms.
+
+## JSON Web Proof
+* [tracker] [JSON Web Proofs / JSON Object Signing and Encryption (JOSE)](https://datatracker.ietf.org/doc/bofreq-miller-json-web-proofs/)2022-06-16 J. Miller, D. Waite, Ping Identity. M. Jones Microsoft. IETF
+  > The JOSE RFCs and JWT, have been widely adopted for identity use cases, including for the widely-deployed OpenID Connect protocol and STIR. Concurrent to the growth of adoption of these standards has been an increasing societal focus on privacy. Common privacy themes in identity solutions that intersect with JWT are user consent and minimal disclosure.
+  > 
+  > In recent years, newer solutions have been evolving such as Verifiable Credentials that formalize the entities of Issuer, Holder, and Verifier. A Verifiable Credential lifecycle has three accompanying phases: issuance, storage, and presentation. The JOSE and JWT standards have also been adopted by Verifiable Credentials (for the JWT-VC representation), but JWS and JWT have limitations that make privacy protection challenging.
+* [JSON Web Proof (JWP)](https://hackmd.io/@quartzjer/JSON_Web_Proof) 2021-06-29 QuartzJer
+  > A JSON Web Proof (JWP) is very similar to a JWS, with the addition that it can contain multiple individual payloads instead of a singular one. New JWP-supporting algorithms are then able to separate and act on the individual payloads contained within.
+* [JSON Web Proof for Binary Merkle Trees](https://w3c-ccg.github.io/Merkle-Disclosure-2021/jwp/) 2021 O. Steele, Transmute. M. Prorock, mesur.io. Credentials Community Group 
+  > The purpose of this specification is to define a generic encoding of merkle audit paths that is suitable for combining with [RFC7515] to construct selective disclosure proofs, that are not bound to the needs of certificate transparency, and that are suitable for more generic applications such as W3C Verifiable Credentials and W3C Decentralized Identifiers.
 
 ## Verifiable Credentials with Concise Binary Object Representation (COSE)
 
