@@ -2,6 +2,7 @@
 title: Ecosystem Overview
 description: A high level view of the Verifiable Credentials ecosystem.
 permalink: /ecosystem/
+categories: ["About"]
 excerpt: This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
 last_modified_at: 2024-02-26
 ---
