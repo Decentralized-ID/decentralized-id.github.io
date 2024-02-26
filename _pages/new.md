@@ -16,6 +16,6 @@ published: false
 
 {% assign modified = site.posts | sort: 'date' | reverse %}
 {% for post in modified %}
-    {{post.date}}
 	{% include archive-single.html type='list' %}
+    <p>{{post.date}}</p>
 {% endfor %}	
