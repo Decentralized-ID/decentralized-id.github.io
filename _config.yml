@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Decentralized Identity Web Directory"
+title                    : "Verifiable Credentials and Self Sovereign Identity Web Directory"
 title_separator          : "| "
 name                     : "Infominer"
 description              : "The largest, and longest-running, web directory surrounding decentralized identity and verifiable credentials."

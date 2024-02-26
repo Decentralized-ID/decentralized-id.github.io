@@ -4,6 +4,8 @@ main:
     url: "/about/"
   - title: "Introduction"
     url: /introduction/
+  - title: "Ecosystem"
+    url: /ecosystem/
   - title: "New"
     url: "/posts/"
   - title: "Updated"
