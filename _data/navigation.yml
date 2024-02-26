@@ -96,7 +96,7 @@ didnav:
         url: "/organizations/ssi-meetup/"
       - title: "• Women in Identity"
         url: "/organizations/women-in-identity/"
-  - title: "⧉InfoMine⧉"
+  - title: "Infominer"
     children:
       - title: "• InfoHub"
         url: "https://infominer.xyz/"
@@ -105,7 +105,7 @@ didnav:
       - title: "• Identosphere BlogCatcher"
         url: "https://identosphere.net/"
       - title: "• Bitcoin Histories"
-        url: "https://bitcoinfo.xyz/history/"
+        url: "https://bitcoinfo.github.io/history/"
       - title: "• Decentralized Web Histories"
         url: "https://sourcecrypto.github.io/decentralized-web/"
       - title: "• Source⧉Crypto"
