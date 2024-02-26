@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Welcome"
-    url: "/about/"
   - title: "Introduction"
     url: /introduction/
   - title: "Ecosystem"
@@ -12,6 +10,8 @@ main:
     url: "/recent/"
   - title: "Categories"
     url: "/categories/"
+  - title: "Welcome"
+    url: "/about/"
   - title: "Aim"
     url: "/aim/"
 
