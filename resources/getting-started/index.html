@@ -1,0 +1,968 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Introduction to Decentralized Identity |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Getting Started with Decentralized, Self Sovereign, Digital Identity">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Introduction to Decentralized Identity">
+<meta property="og:url" content="https://decentralized-id.com/resources/getting-started/">
+
+
+  <meta property="og:description" content="Getting Started with Decentralized, Self Sovereign, Digital Identity">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Introduction to Decentralized Identity">
+  <meta name="twitter:description" content="Getting Started with Decentralized, Self Sovereign, Digital Identity">
+  <meta name="twitter:url" content="https://decentralized-id.com/resources/getting-started/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2020-01-10T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-07-01T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/resources/getting-started/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Introduction to Decentralized Identity">
+    <meta itemprop="description" content="The essence of Decentralized-ID is in creating open standards for a privacy preserving internet-wide identity layer — not owned by any one particular organization, but interoperable between all.It’s impossible to have a conversation about decentralized-id without discussing blockchain, self sovereign identity, standardization, frameworks, and government bodies.">
+    <meta itemprop="datePublished" content="2020-01-10T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-07-01T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/resources/getting-started/" class="u-url" itemprop="url">Introduction to Decentralized Identity
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          8 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#essence-of-decentralized-identity">Essence of Decentralized Identity</a><ul><li><a href="#background">Background</a></li></ul></li><li><a href="#getting-started-with-decentralized-self-sovereign-digital-identity">Getting Started with Decentralized, Self Sovereign, Digital Identity</a></li><li><a href="#frequently-asked-questions">Frequently Asked Questions</a></li><li><a href="#myth">Myth</a></li><li><a href="#digital-identity-101">Digital Identity 101</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="essence-of-decentralized-identity">Essence of Decentralized Identity</h2>
+
+<p>The essence of Decentralized-ID is in creating open standards for a privacy preserving internet-wide identity layer — not owned by any one particular organization, but interoperable between all.</p>
+
+<h3 id="background">Background</h3>
+<p>It’s impossible to have a conversation about decentralized-id without discussing blockchain, self sovereign identity, standardization, frameworks, and government bodies.</p>
+
+<ul class="notice--info">
+  <li>Cryptographers, privacy advocates and digital identity enthusiasts <a href="/history/">laid the foundation</a> by deeply considering the privacy implications of identification practices in the electronic world.
+    <ul>
+      <li><a href="/self-sovereign-identity/characteristics/">Self Sovereign Identity principles emerged</a> from their work, gathering momentum as the digital age began to settle in.</li>
+      <li>The European Union’s GDPR enlarged the global conversation around digital privacy practices, lending much weight to the SSI credo.</li>
+    </ul>
+  </li>
+  <li>The United Nations Sustainable Development Goals (SDGs) have also fueled efforts towards a global and widely accessible identity solution.</li>
+  <li>Satoshi Nakamoto released <a href="https://bitcoinfo.xyz">Bitcoin</a>, proving the concept of digital scarcity in the form of a decentralized peer-to-peer (P2P) currency, inspiring leaders in every industry to integrate it’s features to their business models.</li>
+  <li>At the same time, <a href="https://sourcecrypto.pub/decentralized-web/">Decentralized web</a> and P2P technologists have also lent strength to Decentralized Identity efforts.</li>
+  <li>Collectively arrived at solutions are trending towards congruence with the spirit of innovation, privacy concerns, and compliance within the evolving global regulatory landscape.</li>
+</ul>
+
+<h2 id="getting-started-with-decentralized-self-sovereign-digital-identity">Getting Started with Decentralized, Self Sovereign, Digital Identity</h2>
+<ul>
+  <li><a href="https://www.affinidi.com/post/unwrapping-the-decentralised-identity-landscape">Unwrapping the Decentralised Identity Landscape</a> 2022-07-08 Affinidi
+    <blockquote>
+      <p>This framework empowers individuals to own his or her data, decide where to store it, and choose to share some or all of it with others. Often, this decentralised identity is used to create verifiable and shareable data for securely accessing products and services.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-direct-presentation-model/ba-p/3071981">Decentralized identity: The Direct Presentation model</a> 2022-02-02 Microsoft
+    <blockquote>
+      <p>The technical name for the model at work here is called the Direct Presentation model. A credential is issued, and then held for a long period of time with intermittent voluntary presentations to many different verifiers.
+<img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/344648i845AB748FB3E8433/image-dimensions/600x204?v=v2" alt="" /></p>
+    </blockquote>
+  </li>
+  <li><a href="https://threadreaderapp.com/thread/1405788127265005571.html">New to the topic of self-sovereign identity?</a> 2021-06-18 SSIAmbassador
+    <blockquote>
+      <p>No problem, there are several beginner #guides, which you can use to get familiar with the new standard for digital #identity.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=TRuz39SEX7E">Understanding the SSI Identity Model with Verifiable Credentials</a> 2021-11-13 Manning
+    <blockquote>
+      <p>Drummond Reed, an expert in Internet identity, security, privacy, and trust frameworks, explains the basic building blocks of SSI and how this new identity model fundamentally works.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=DaM0UtQTLCs">Karyl Fowler (Transmute) and Juan Caballero (DIF) present Intro to SSI at #IIW31</a> 2020-10 Keryl Fowler, Juan Caballero <a href="https://drive.google.com/file/d/1_9jCcxgcCrL4Dfjvr4z7XSIwxfadjveR/view?usp=sharingQ">Slides</a>
+    <blockquote>
+      <p>an overview of decentralized identity first as a “philosophy” at the confluence of ideological currents (Juan), and then as a set of specific emerging technologies which unlocks new mental models and business models that are still coming into focus sector by sector (Karyl). There follows a brief overview of educational resources, including some products of DIF’s recent educational “content sprint,” and a wide-ranging Q&amp;A including podcast recommendations
+<img src="https://i.imgur.com/d0pTD8q.png" alt="" /></p>
+    </blockquote>
+  </li>
+  <li><a href="https://trinsic.id/what-is-self-sovereign-identity/">What Is Self-Sovereign Identity?</a> 2020-04-28 Trinsic
+    <blockquote>
+      <p>Self-sovereign identity is the marriage of real identity with the digital world that will ultimately make people’s lives better.² It’s still in its infancy, and there is a long road ahead to truly make digital identity as legitimate and nuanced as a real-world identity.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://ssimeetup.org/explaining-ssi-c-suite-executives-anyone-else-john-phillips-webinar-48/">Explaining SSI to C-suite executives, and anyone else for that matter – John Phillips</a> 2020-02-18 SSIMeetup
+    <blockquote>
+      <p>John will share the learnings he is gaining from University research, as well as the results of work in supporting capstone projects for higher education students, and how this has led us to a storytelling model to explain SSI.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://id2020.org/digital-identity">The Need for Good Digital ID is Universal</a> 2019-02-26 ID2020 Foundation
+    <blockquote>
+      <p>The ability to prove who you are is a fundamental and universal human right. Because we live in a digital era, we need a trusted and reliable way to do that both in the physical world and online.</p>
+    </blockquote>
+  </li>
+  <li><a href="http://www.windley.com/archives/2019/01/the_laws_of_identity.shtml">The Laws of Identity</a> 2019-01 Phil Windley
+    <blockquote>
+      <p>As the Internet grew to include people who weren’t formally associated with an institution, every Web site and service created their own administrative identity domains. The result is the fractured plethora of identifiers, policies, and user experiences that constitute digital identity in 2019.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf">The Inevitable Rise of Self-Sovereign Identity</a> 2018-03 Sovrin Foundation
+    <blockquote>
+      <p>This lack of secure, portable, user-controlled identity has some dire consequences. It means that a person’s identity and personal data only exists within the context of each specific website or application he or she uses.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/decentralized-identity/the-rising-tide-of-decentralized-identity-2e163e4ec663">The Rising Tide of Decentralized Identity</a> 2017-10-11 Decentralized Identity Foundation
+    <blockquote>
+      <ul>
+        <li>Enabling registration of self-sovereign identifiers that no provider owns or controls.</li>
+        <li>The ability to lookup and discover identifiers and data across decentralized systems.</li>
+        <li>Providing a mechanism for users to securely store sensitive identity data, and enabling them to precisely control what is shared with others.
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*zzyFrx56I_SzDEUxEglCjw.png" alt="" /></li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://www.windley.com/archives/2017/08/the_case_for_decentralized_identity.shtml">The Case for Decentralized Identity</a> 2017-08 Phil Windley
+    <blockquote>
+      <p>We cannot decentralize many interesting systems without also decentralizing the identity systems upon which they rely. We’re finally in a position to create truly decentralized systems for digital identity.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ChristopherA/self-sovereign-identity/blob/master/ThePathToSelf-SovereignIdentity.md">The Path to Self-Sovereign Identity</a> 2017-03-01 Christopher Allen
+    <blockquote>
+      <p>That requires not just the interoperability of a user’s identity across multiple locations, with the user’s consent, but also true user control of that digital identity, creating user autonomy. To accomplish this, a self-sovereign identity must be transportable; it can’t be locked down to one site or locale.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://raw.githubusercontent.com/jandrieu/rebooting-the-web-of-trust-fall2016/master/topics-and-advance-readings/a-technology-free-definition-of-self-sovereign-identity.pdf">A Technology‐Free Definition of Self‐Sovereign Identity</a> 2016-10 Joe Andrieu RWoT3
+    <blockquote>
+      <p>I want to understand how such a system enables both individuals whose identities are in play (subjects), as well as those who use those “identities” to correlate interactions across contexts (observers). I start with grounding individual sovereignty in the Enlightenment and identity in its core function of correlation, then propose core characteristics of a self‐sovereign identity system.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<!-- Courtesy of embedresponsively.com -->
+
+<div class="responsive-video-container">
+    <iframe src="https://www.youtube-nocookie.com/embed/DaM0UtQTLCs" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+  </div>
+
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+<ul>
+  <li>[Knowledgebase] <a href="https://identity.foundation/faq/">DIF “Frequently Asked Questions”</a> 2022-07-08
+    <blockquote>
+      <p>This is the Decentralized Identity Foundation’s general-purpose knowledgebase, which aims to help people at all levels of familiarity with our problem space quickly level-set and find the most useful links and ideas as they explore the space.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://academy.affinidi.com/faqs-on-verifiable-credentials-and-self-sovereign-identity-3c3a505878bc">19 FAQs on Verifiable Credentials and Self-Sovereign Identity</a> 2021-05-31 Affinidi
+    <blockquote>
+      <p>This article has some FAQs on the basics of Verifiable Credentials (VCs) and Self-Sovereign Identity (SSI).</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.windley.com/archives/2019/07/answering_questions_about_self-sovereign_identity.shtml">Answering Questions about Self-Sovereign Identity</a> 2019-07 Phil Windley
+    <blockquote>
+      <p>Identity professionals continue to have questions about self-sovereign identity (SSI). In this post, I answer a few questions that Susan Morrow raised about the commercial viability, security, privacy, and desired user experience of SSI.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="myth">Myth</h2>
+<ul>
+  <li><a href="https://idramp.com/for-traditional-identity-models-the-biggest-misconception-is-strong-passwords/">For traditional identity models, the biggest misconception is “strong passwords”</a> 2022-07-20 IDRamp
+    <blockquote>
+      <p>One way to avoid password-related problems is to use decentralized identity management. This method is relatively new, so the best way to gain knowledge about it – contact the experts. For this reason, we are speaking with Mike Vesey, CEO of <a href="https://idramp.com/">IdRamp</a>.</p>
+    </blockquote>
+  </li>
+  <li><a href="http://web.archive.org/web/20230209024203/https://jolocom.io/blog/myths-about-ssi/">Myths about SSI</a> 2022-05-25 Jolocom
+    <blockquote>
+      <p>The idea that as a user of SSI I have complete sovereignty over my digital identity is often misunderstood. At its core, SSI is about my digital identity being under my own control, so I can decide to whom I show my data, when, and for what.</p>
+    </blockquote>
+  </li>
+  <li><a href="http://web.archive.org/web/20230209034007/https://jolocom.io/blog/mythen-und-fakten-ist-self-sovereign-identity-gefahrlich/">myths and facts. Is Self-Sovereign Identity Dangerous?</a> 2022-05-05 Jolocom (in german)
+    <blockquote>
+      <p>we examine more closely whether self-sovereign identity can increase or reduce risks for data misuse in certain cases.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/evernym/7-myths-of-self-sovereign-identity-67aea7416b1">7 Myths of Self Sovereign Identity</a> 2018-10-31 Evernym
+    <blockquote>
+      <ul>
+        <li>Self-sovereign means self-attested.</li>
+        <li>SSI attempts to reduce government’s power over an identity owner.</li>
+        <li>SSI creates a national or “universal ID” credential.</li>
+        <li>SSI gives absolute control over identity.</li>
+        <li>There’s a “main” issuer of credentials.</li>
+        <li>There’s a built-in method of authenticating.</li>
+        <li>User-centric identity is the same as SSI.</li>
+      </ul>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="digital-identity-101">Digital Identity 101</h2>
+<ul>
+  <li><a href="https://educatedguesswork.org/posts/understanding-identity/">Understanding Online Identity</a> 2022-06-02 EducatedGuessWork (broad contextualization)
+    <blockquote>
+      <p>As noted above, the ergonomics of having to make an account on every new system are fairly bad: it requires the user to have a large number of passwords, which is more opportunities to use a bad password or to lose your password and have to recover. There are some opportunities for improvement around the margin (e.g., WebAuthn instead of passwords for authentication), better form fill-in so users don’t have to type their name over and over, etc, but at the end of the day, there’s only so much you can do.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://wider.team/2022/01/18/phil-cares-about-identity/">Why do you care about identity?</a> 2022-01-18 Phil Wolff
+    <blockquote>
+      <p>I love that it’s more than a technical discussion. It’s laws. Sociology. Politics and civics. Commerce. Psychology. Ethics. History. Economy. All the humanities.</p>
+
+      <p>Identity touches everything. It always will. Computation and communication continue their pervasion, and identity spreads with them.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.beyondtrust.com/blog/entry/understanding-authentication-vs-authorization">Difference Between Authentication and Authorization</a> 2020-10-19 Beyond Trust
+    <blockquote>
+      <p>In concept, one verifies the account (authentication) and the other sanctions (authorization) the account to perform a task. Because these terms are so fundamental, it’s crucial to understand the difference between them, and the implications for each when the concepts are blended</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@dip_ak/guide-to-digital-identity-part-1-4b7c8fe45ee1">Guide to Digital Identity — Part 1</a> 2020-04-08 Deepak Gupta
+    <blockquote>
+      <p>Digital Identity is the new focus for many businesses, regulators and governments in a data-driven and hyper-connected world. The concept can be seen as an integration of two components — belongingness and separation.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://idpro.org/educational-resources/">Member Presentations</a> Identiverse 2019 <a href="https://www.youtube.com/playlist?list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf">playlist</a>
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=T5w1EXqMqR0&amp;list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf">2019 - Introduction to Identity Part 1</a> 2019-06-25 Identiverse, IDPro
+        <blockquote>
+          <p>begins with the basics like directories, identity proofing, provisioning, authentication (including multi-factor), authorization, as well as federation technologies like SAML, OAuth, and OpenID Connect.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://www.youtube.com/watch?v=zxKRUXmTLJs">Introduction to Identity Part 2</a>  2019-06-25 Identiverse
+        <blockquote>
+          <p>we build on those foundational technologies to explain PKI &amp; digital certificates, privileged access management, identity for IoT, identity assurance, privacy issues, identity standards organizations, and even known attack vectors.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://www.youtube.com/watch?v=kWpqFWz_9II">Modern Identity for Developers 101</a> 2019-06-25 Identiverse
+        <blockquote>
+          <p>Come to this session to learn the basis of modern identity development and be better equipped to understand and participate to the session in this year’s Identiverse development track.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://www.youtube.com/watch?v=25qiVyZEZOg&amp;list=PLpKq7xRiIHaTDwAqpIU1UYpKZY03tfTMf&amp;index=18">An Introduction to Mobile Identity</a> 2019-06-25 Identiverse</li>
+    </ul>
+  </li>
+  <li><a href="https://www.beyondtrust.com/blog/entry/what-is-identity-and-access-management-and-why-is-it-a-vital-it-security-layer">What is Identity and Access Management and Why is it a Vital IT Security Layer?</a> 2018-11-29 Beyond Trust
+    <blockquote>
+      <p>Identity and Access Management (IAM), also called identity management, refers to the IT security discipline, framework, and solutions for managing digital identities.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/humanizing-the-singularity/what-is-digital-identity-c77983c03306">What is Digital Identity?</a> 2018-06-04 Humanizing the Internet
+    <blockquote>
+      <p>The Sapir–Whorf Hypothesis, also known as the principle of linguistic relativity, posits that language constructs our reality and worldview.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p><img src="https://i.imgur.com/9KpJRDr.png" alt="" /></p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#101" class="page__taxonomy-item p-category" rel="tag">101</a><span class="sep">, </span>
+    
+      <a href="/tags/#decentralized-identifiers" class="page__taxonomy-item p-category" rel="tag">Decentralized Identifiers</a><span class="sep">, </span>
+    
+      <a href="/tags/#verifiable-credentials" class="page__taxonomy-item p-category" rel="tag">Verifiable Credentials</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#about" class="page__taxonomy-item p-category" rel="tag">About</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-07-01">July 1, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Introduction+to+Decentralized+Identity%20https%3A%2F%2Fdecentralized-id.com%2Fresources%2Fgetting-started%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fresources%2Fgetting-started%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fresources%2Fgetting-started%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fresources%2Fgetting-started%2F&title=Introduction+to+Decentralized+Identity" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/development/linked-data/" class="pagination--pager" title="Linked Data and the Semantic Web
+">Previous</a>
+    
+    
+      <a href="/web-standards/w3c/decentralized-identifier/" class="pagination--pager" title="Decentralized Identifiers (DIDs) - W3C
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

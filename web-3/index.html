@@ -1,0 +1,982 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Web3 Explained |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Web3, in the context of Ethereum, refers to decentralized apps that run on the blockchain.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Web3 Explained">
+<meta property="og:url" content="https://decentralized-id.com/web-3/">
+
+
+  <meta property="og:description" content="Web3, in the context of Ethereum, refers to decentralized apps that run on the blockchain.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Web3 Explained">
+  <meta name="twitter:description" content="Web3, in the context of Ethereum, refers to decentralized apps that run on the blockchain.">
+  <meta name="twitter:url" content="https://decentralized-id.com/web-3/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-06-25T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-27T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/web-3/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li>
+</ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp" alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources &amp; Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Web3 Explained">
+    <meta itemprop="description" content="participation in governance, self-sovereign identity, content ownership and the freedom to build – are very appealing. In fact, it is hard to see how anybody (other than an incumbent with a turf to defend) could possible argue against any of them.">
+    <meta itemprop="datePublished" content="2023-06-25T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-27T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/web-3/" class="u-url" itemprop="url">Web3 Explained
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          9 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title">
+<i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu">
+<li><a href="#explainer">Explainer</a></li>
+<li><a href="#critique">Critique</a></li>
+<li><a href="#tech-stack">Tech Stack</a></li>
+</ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="explainer">Explainer</h2>
+<ul>
+  <li>
+<a href="https://ethereum.org/en/developers/docs/web2-vs-web3/">WEB2 VS WEB3</a> 2022-09-27 Ethereum
+    <blockquote>
+      <p>Web2 refers to the version of the internet most of us know today. An internet dominated by companies that provide services in exchange for your personal data. Web3, in the context of Ethereum, refers to decentralized apps that run on the blockchain. These are apps that allow anyone to participate without monetising their personal data.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://reb00ted.org/tech/20220830-web3-empowerment-promises/">The 5 people empowerment promises of web3</a> 2022-08-30 Reb00ted <a href="https://www.kaleidoinsights.com/web3-use-cases-5-capabilities-people/">related</a>
+    <blockquote>
+      <p>As Jeremiah pointed out when we bumped into each other last night, public discussion of “web3” is almost completely focused on this last item: tokens, and the many ill-begotten schemes that they have enabled.</p>
+
+      <p>But that is not web3’s lasting attraction. The other four promises – participation in governance, self-sovereign identity, content ownership and the freedom to build – are very appealing. In fact, it is hard to see how anybody (other than an incumbent with a turf to defend) could possible argue against any of them.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://reb00ted.org/tech/20220726-shortest-web3-definition/">The shortest definition of Web3</a> 2022-07-26 reb00ted
+    <blockquote>
+      <p>web1: read<br>
+web2: read + write<br>
+web3: read + write + own</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.entrepreneur.com/article/432166">3 Reasons Why Web3 Will Flip Digital Ownership On Its Head</a> 2022-08-05 Entrepreneur
+    <blockquote>
+      <p>Despite people spending a lot of money today on all forms of digital content, from streaming service subscriptions to in-game purchases, we don’t own any digital content we “buy” online.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/ontologynetwork/those-things-cannot-be-done-without-web3-4351efee3df">Those Things Cannot Be Done Without Web3</a> 2022-07-28 Ontology
+    <blockquote>
+      <p>If you want to explain Web3 in the simplest language, I think it is a decentralized collaboration model.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/ontologynetwork/technology-and-system-which-is-the-primary-productive-force-a6f8c4869ba9">Technology and System — Which is the primary productive force?: Hope, Confusion, and Practice of Web3</a> 2022-06-16 Ontology
+    <blockquote>
+      <p>OWN (Ontology Web3 Network) Infrastructure is a series of general blockchain basic protocols and products provided by Ontology for Web3 applications. Basic components including data and reputation, etc., and general-purpose tools such as a Web3 wallet, etc. Web3 applications can choose different basic components according to different scenarios for easy integration.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.ed3.gg/writing/time-to-build/">It’s Time for Web3 to Build - Creating Real-World Impact with Web3</a> 2022-06-17 Ed3
+    <blockquote>
+      <p>Web3 - used here as a general term incorporating efforts to enable trustless coordination with blockchain technology -  is focused on decentralization. The promise is the ability to connect and work with anyone, anywhere, any time. In this virtual metaverse, there are few rules (and fewer regulations). It’s the blue ocean where anything digital can be quickly created and launched, including entirely new countries.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blog.avast.com/web-3-consensus-panel">Consensus 2022 panel: Is Web 3.0 more hype or reality?</a> 2022-06-15 Avast
+    <blockquote>
+      <p>Certainly, there is a wide range of opinion on Web 3.0: Cutler mentioned how Elon Musk sees this is more marketing hype than reality. Notably, there is a lot of money being pouring into Web 3.0 — Cutler said, “Venture capitalists have invested $12.75B in 460 different blockchain projects this past year, up from $2.75B in investments during 2020”. Widman said that “With Web 3.0, you have to get to a marketplace of ideas where they can win on their merits,” before the concept will gain traction.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://a16zcrypto.com/wp-content/uploads/2022/05/state-of-crypto-2022_a16z-crypto.pdf">State of Crypto Report</a> 2022-05 a16z
+    <blockquote>
+      <p>web3 — which combines the decentralized, communitygoverned ethos of the first era with the advanced, modern functionality of the second era. This will unlock a new wave of creativity and entrepreneurship</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.windley.com/archives/2022/05/using_a_theory_of_justice_to_build_a_better_web3.shtml">Using a Theory of Justice to Build a Better Web3</a> 2022-05 Windley
+    <blockquote>
+      <p>Building a better internet won’t happen by chance or simply maximizing freedom. We have to build systems that support justice. How can we do that?</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763">Decentralized Society: Finding Web3’s Soul</a> 2022-05-11 Glen Wheyl
+    <blockquote>
+      <p>Key to this sociality is decomposable property rights and enhanced governance mechanisms—such as quadratic funding discounted by correlation scores—that reward trust and cooperation while protecting networks from capture, extraction, and domination. With such augmented sociality, web3 can eschew today’s hyper-financialization in favor of a more transformative, pluralist future of increasing returns across social distance.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.windley.com/archives/2022/05/using_a_theory_of_justice_to_build_a_better_web3.shtml">Using a Theory of Justice to Build a Better Web3</a> 2022-05 Phil Windley
+    <blockquote>
+      <p>Summary: Building a better internet won’t happen by chance or simply maximizing freedom. We have to build systems that support justice. How can we do that? Philosophy discussions are the black hole of identity. Once you get in, you can’t get out. Nevertheless, I find that I’m drawn to them</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.windley.com/archives/2022/02/framing_and_self-sovereignty_in_web3.shtml">Framing and Self-Sovereignty in Web3</a> 2022-02-15 Phil Windley
+    <blockquote>
+      <p>The tools people have to participate in these territories, browsers and password managers, let us visit those territories, but we ourselves cannot be visited. We cannot act. Online relationships (client-server) are inherently asymmetric and the power accrues to those who define the territory.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blog.holochain.org/web3-entangled/">Web3, entangled: Holochain: a marlinspike to undo the knots</a> 2022-02-02
+    <blockquote>
+      <p>As long as a ‘base protocol’ is versatile enough to let people create and express things in an unlimited range of fit-for-purpose application protocols, it can be as stale and boring as it likes. And it’s precisely the decentralisation, versatility, and stability of these base protocols — HTTP, email, and yes, Bitcoin and Ethereum — that allow platforms to innovate so quickly on top of them.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.windley.com/archives/2022/02/web3_self-sovereign_authority_and_self-certifying_protocols.shtml">Web3: Self-Sovereign Authority and Self-Certifying Protocols</a> 2022-02 Phil Windley
+    <blockquote>
+      <p>When we dine at a restaurant in the physical world, we do not do so within some administrative system. Rather, as embodied agents, we operationalize our relationships by acting for ourselves. Web3, if built correctly, can help people to act as full-fledged participants in the digital realm.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://consensys.net/blog/blockchain-explained/what-is-web3-here-are-some-ways-to-explain-it-to-a-friend/">What is Web3? Here Are Some Ways To Explain It To A Friend</a> 2022-01-22 Consensys</li>
+  <li>[Big Picture] <a href="https://tante.cc/2021/12/17/the-third-web/">The Third Web</a> 2021-12-17 Tante
+    <blockquote>
+      <p>So why would you listen to me? What are my “credentials”? I am a computer scientist and have been working in IT for years now, doing projects as a programmer and conceptualizing and running large automation and IT transformation projects for different clients. I have a lot of experience not just with software but also hardware-software combinations as well as with designing the social and organizational processes around the software systems in question. I’ve been an expert for the German Bundestag on the topic of Blockchains and their value and regulation. I also have written quite extensively about them for different publications and have commented on the whole blockchain/web3 movement publicly basically since it has gained any traction. I don’t hold any form of cryptocurrency.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://moxie.org/2022/01/07/web3-first-impressions.html">My first impressions of web3</a> 2022-01-07 Moxie Marlinspike 
+<em>This guy gets it ^^^^^</em>
+    <blockquote>
+      <p>Given the history of why web1 became web2, what seems strange to me about web3 is that technologies like ethereum have been built with many of the same implicit trappings as web1.<br>
+[…]<br>
+Personally, I think enough money has been made at this point that there are enough faucets to keep it going, and this won’t just be a blip. If that’s the case, it seems worth thinking about how to avoid web3 being web2x2 (web2 but with even less privacy) with some urgency.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.windley.com/archives/2022/01/web3_coherence_and_platform_sovereignty.shtml">Web3, Coherence, and Platform Sovereignty</a> 2022-01 Phil Windley
+    <blockquote>
+      <p>In <a href="https://www.protocol.com/fintech/crypto-communists">The crypto-communists behind the Web3 revolution</a>, Benjamin Pimentel argues that “The future of decentralized finance echoes a decidedly Marxist vision of the future.” He references various Silicon Valley icons like Jack Dorsey, Marc Andreessen, Elon Musk, and others, comparing their statements on Web3 and crypto with the ideology of communism.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://dionhinchcliffe.com/2022/01/11/what-is-web3-and-why-it-matters/">What is Web3 and Why It Matters</a> 2022-01-11 Dion Hinchcliffe
+    <blockquote>
+      <p>I’ve waited a bit to weigh in on Web3, to see how it evolved and whether it actually took a meaningful and significant direction. While not exactly a new concept — many credit the term itself to Ethereum co-founder Gavin Wood in 2014, even though it has been discussed since the early Web 2.0 days back in the 2000s — Web3 as we currently know it today exploded onto the global stage in 2021 along with the metaverse, another popular and closely overlapping/adjacent concept.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://stratechery.com/2022/opensea-raises-money-bans-nfts-openseas-value-cryptos-aggregators/">OpenSea, Web3, and Aggregation Theory</a> 2022-01-05 Stratechery
+    <blockquote>
+      <p>what gives Aggregators their power is not their control of supply: they are not the only way to find websites, or to post your opinions online; rather, it is their control of demand. People are used to Google, or it is the default, so sites and advertisers don’t want to spend their time and money on alternatives; people want other people to see what they have to say, so they don’t want to risk writing a blog that no one reads, or spending time on a social network that because it lacks the network has no sense of social.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.windley.com/archives/2022/01/web3_and_digital_embodiment.shtml">Web3 and Digital Embodiment</a> 2022-01 Phil Windley
+    <blockquote>
+      <p>Web3 will make a difference for all of us if it enables people to become digitally embodied, able to recognize, remember, and react to other people and organizations online—without the need to be in someone else’s database.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://knowledge.wealize.digital/en/blog/blog/web3-digital-sovereignty-blockchain">Web3 brings the Digital Sovereignty back to the User thanks to Blockchain</a> 2021-12-17 Wealize
+    <blockquote>
+      <p>Decentralization is key to transitionate to Web3. Many voices are speaking up for a decentralized model in which users have the control over their digital assets and data. And this is so because each time that we interact on the Internet, copies of our data are sent to the server of a service provider.  We lose control over our data. We lose our digital sovereignty. Decentralization solves this bringing the control back to the users, the real players of the online community.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://maxread.substack.com/p/is-web3-bullshit">Is Web3 bullshit?</a> 2021-12-02 Max Read
+    <blockquote>
+      <p>The only falsifiable prediction I’m willing to make is that ten years from now, Chris Dixon and the Winklevoss Twins will be much richer than me, and my quality of life will be the same, or worse.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.youtube.com/watch?v=jezH_7qEk50">5 Mental Models for Web3</a> 2021-11-01 Bankless Chris Dixon
+    <blockquote>
+      <p>There are five essential mental models to understanding why Web3 matters, and they overlap often throughout the course of the conversation.</p>
+
+      <p>Web3 has begun to impact all corners of digital culture, from media to finance, art and gaming, and even identity. Mental models allow for digestible thinking patterns to understand and predict the world, and Chris lays out how these new digital primitives are changing everything.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://academy.affinidi.com/web-2-0-vs-web-3-0-a-bridge-between-the-past-and-the-future-c99668c1e2f0">Web 2.0 vs Web 3.0 — A Bridge Between the Past and the Future</a> 2021-07-30 Affinidi
+    <blockquote>
+      <p>What has really changed is the way we use existing infrastructure, and from this standpoint, it’s safe to say that it’s really the front-end that has seen the bulk of changes in web 2.0</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.youtube.com/watch?v=CyGggZ2pT1I">The Sovereignty Stack: Re-thinking Digital Identity for Web3.0 w/ Greg KIDD</a> 2021-10-04 Metaco
+    <blockquote>
+      <p>Greg is a serial entrepreneur who is probably best known for founding and taking public Dispatch Management Services Corp, the world’s largest on demand dispatch network for urgent deliveries. In a highly interesting career so far, Greg was also Chief Risk Officer at Ripple Labs and a senior analyst for the Board of Governors of the Federal Reserve in Washington. In his latest venture Global ID, Greg is acting on his long-held belief that people’s identity should be truly portable and owned by individuals themselves rather than corporations or governments.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="critique">Critique</h2>
+<ul>
+  <li>
+<a href="https://reb00ted.org/tech/20220726-web3-benefits/">A list of (supposed) web3 benefits</a> 2022-07-26 reb00ted
+    <blockquote>
+      <p>Some of this is clearly aspirational, perhaps on the other side of likely.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://hbr.org/2022/05/cautionary-tales-from-cryptoland">Cautionary Tales from Cryptoland</a> 2022-05 Molly White, HBR
+    <blockquote>
+      <p>The ideological argument for Web3 is very compelling, and I personally hold many of the same ideals. I strongly believe in working toward a more equitable and accessible financial system, creating a fairer distribution of wealth in society</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.fastcompany.com/90733574/how-a-wikipedia-engineer-became-one-of-the-loudest-web3-skeptics">How a Wikipedia editor (Molly White) became one of the loudest Web3 skeptics</a> 2022-03-23 Fast Company
+    <blockquote>
+      <p>I spoke with White via email about her views on Web3 fixtures such as DAOs (distributed autonomous organizations), cryptocurrencies, and NFTs (non-fungible tokens). Our conversation has been lightly edited for length and clarity.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="tech-stack">Tech Stack</h2>
+<ul>
+  <li>
+<a href="https://medium.com/toruslabs/a-beginners-guide-the-basic-web3-architecture-and-tech-stack-81f2061d263c">Web3 Architecture and Tech Stack : A Beginners Guide</a> <a href="https://medium.com/@yashovardhana">Yashovardhan Agrawal</a> 2022-05-30 Web3Auth
+    <blockquote>
+      <p><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5fLjOFTilr6T9OjVWkH2ow.png" alt="">* <a href="https://miro.com/app/board/uXjVO0uGvcw=/">Web3 Ecosystem</a> (Epic Miro Board)</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://edgeandnode.com/blog/defining-the-web3-stack">Defining the web3 stack</a> 2021-12-22 Edge &amp; Node
+    <blockquote>
+      <ul>
+        <li>Blockchain</li>
+        <li>Blockchain development environment</li>
+        <li>File storage</li>
+        <li>Off chain data protocols</li>
+        <li>API (indexing &amp; querying)</li>
+        <li>Identity</li>
+        <li>Client (frameworks and libraries)</li>
+        <li>Oracles</li>
+        <li>Other protocols
+<img src="https://storage.googleapis.com/edgeandnode/_notion/983ff126-3a37-43e2-951c-34e83423d04b/web3-stack.jpg" alt="">
+</li>
+      </ul>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#ethereum" class="page__taxonomy-item p-category" rel="tag">Ethereum</a><span class="sep">, </span>
+    
+      <a href="/tags/#web3" class="page__taxonomy-item p-category" rel="tag">Web3</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#web-3" class="page__taxonomy-item p-category" rel="tag">Web 3</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-27">June 27, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&amp;text=Web3+Explained%20https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2F&amp;title=Web3+Explained" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/development/ethics-rights-sovereignty/" class="pagination--pager" title="Ethics, Human Rights, Sovereignty and Self Sovereign Identity
+">Previous</a>
+    
+    
+      <a href="/web-3/id/" class="pagination--pager" title="Web 3 and Self Sovereign Identity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

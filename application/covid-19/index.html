@@ -1,0 +1,1369 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Covid-19, Vaccine Passports, Health Credentials, and Self Sovereign Identity |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="How a cryptographically secure digital credential can be used instead of paper documents">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Covid-19, Vaccine Passports, Health Credentials, and Self Sovereign Identity">
+<meta property="og:url" content="https://decentralized-id.com/application/covid-19/">
+
+
+  <meta property="og:description" content="How a cryptographically secure digital credential can be used instead of paper documents">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Covid-19, Vaccine Passports, Health Credentials, and Self Sovereign Identity">
+  <meta name="twitter:description" content="How a cryptographically secure digital credential can be used instead of paper documents">
+  <meta name="twitter:url" content="https://decentralized-id.com/application/covid-19/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-06-16T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-18T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/application/covid-19/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li>
+</ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp" alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources &amp; Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Covid-19, Vaccine Passports, Health Credentials, and Self Sovereign Identity">
+    <meta itemprop="description" content="In a lot of places around the world, a COVID passport is simply a paper document. This has led to a couple of expected problems, one to mention is forgery. Paper documents can easily be forfeited, and paper-based COVID passports are no exception.">
+    <meta itemprop="datePublished" content="2023-06-16T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-18T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/application/covid-19/" class="u-url" itemprop="url">Covid-19, Vaccine Passports, Health Credentials, and Self Sovereign Identity
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          27 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title">
+<i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu">
+<li>
+<a href="#explainer">Explainer</a><ul><li><a href="#travel">Travel</a></li></ul>
+</li>
+<li><a href="#tech">Tech</a></li>
+<li><a href="#literature">Literature</a></li>
+<li><a href="#user-experience">User Experience</a></li>
+<li><a href="#standards">Standards</a></li>
+<li><a href="#development">Development</a></li>
+<li>
+<a href="#application">Application</a><ul><li><a href="#nhs---digital-staff-passport">NHS - Digital Staff Passport</a></li></ul>
+</li>
+<li><a href="#caution">Caution</a></li>
+<li><a href="#scams">Scams</a></li>
+</ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="explainer">Explainer</h2>
+<ul>
+  <li>
+<a href="https://digitalidentity.nz/2021/11/17/digital-identity-is-critical-in-the-new-world-since-covid/">Digital identity is critical in the new world since covid</a> 2021-11-17 DigitalID NZ
+    <blockquote>
+      <p>In my recent podcast with <a href="https://www.iif.com/Staff-and-Authors/uid/46/BradCarr">Brad Carr</a> of the <a href="https://www.iif.com/Publications/ID/4304/FRT-Episode-87-Digital-Identity-with-SecureKey-CEO-Greg-Wolfond">Institute of International Finance</a>, we discussed how digital identity and verified credentials can support a digital-first world, something that’s extremely relevant amid the current pandemic.	https://verified.me/blog/the-value-of-verifiable-credentials-in-the-evolving-digital-identity-landscape/	Verified Me</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.perkinscoie.com/images/content/2/4/247949/2021-Perkins-Coie-LLP-Health-Passport-White-Paper.pdf">COVID-19 as a Catalyst for the Advancement of Digital Identity</a> 2021-11-05 Perkins Cole
+    <blockquote>
+      <p>This article discusses areas of law that are developing rapidly […] our goal is to address some of the legal considerations that health certificates raise with respect to, and in the context of, the development of a comprehensive system of digital identity management.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://lockstep.com.au/a-goldilocks-point-for-digitised-vaccination-certificates/">A Goldilocks point for Digitised Vaccination Certificates</a> 2021-09-13 Steve Lockstep
+    <blockquote>
+      <p>My poster looks at a sweet spot in digital vaccine certificates. Too little identity and proof of vaccination is insecure; too much identity and the proof threatens privacy.</p>
+
+      <p>To set the scene, it worries me that COVID vaccination is seen by some as the killer application for exotic technology or digital ideology. We should not impose these sorts of changes onto health systems especially in developing countries. They disrupt established ways of managing patients and they’re not necessary for privacy.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blog.digi.me/2021/08/18/why-health-passes-are-not-vaccine-passports-and-offer-greater-flexibility-and-choice/">Why health passes are NOT vaccine passports – and offer greater flexibility and choice</a> 2021-08-18 DigiMe
+    <blockquote>
+      <p>Health passes, though, are much more flexible as they provide multiple options. They can still be used as proof of vaccination, if the user chooses to share their health information in this way.</p>
+
+      <p>But, importantly and in a crucial difference from vaccine passports, they can also be used to securely display a test result, such as a negative PCR or rapid antigen test (also known as lateral flow tests) today. Additionally, they are also future-proofed for options such as rapid antibody test results when those come into play on a large scale.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/ontologynetwork/vaccine-passports-must-leverage-decentralized-identity-solutions-d454f9907fe9">Vaccine Passports Must Leverage Decentralized Identity Solutions</a> 2021-08-16 Ontology
+    <blockquote>
+      <p>Decentralized identity solutions offer an ideal solution to the data privacy and identity risks associated with COVID-19 passports and other verification methods.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://academy.affinidi.com/innovation-in-digital-identity-and-credentials-in-the-post-covid-world-f182a5743ce8">Innovation in Digital Identity and Credentials in the Post-Covid World</a> 2021-07-01 Affinidi
+    <blockquote>
+      <p>Though we often get lost in technologies, frameworks, legislation, and economic models, it’s ultimately the human aspect that will define the future of the digital identity industry. Bearing this in mind can determine the heights we scale and how quickly we can get there.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.kuppingercole.com/blog/bailey/blueprint-for-a-digital-health-pass">Blueprint for a Digital Health Pass</a> 2021-06-14 Kuppinger Cole
+    <blockquote>
+      <p>Binding an identity to a Verifiable Credential remains valid beyond the point of verification by being able to match a real-time biometric data point with one which was logged at the point of verification</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://hackernoon.com/covid-19-vaccination-passes-could-cataylze-self-sovereign-identity-adoption-6x3m3563">Covid-19 Vaccination Passes Could Cataylze Self-Sovereign Identity Adoption</a> 2021-06-10 Hackernoon</li>
+  <li>
+<a href="https://diacc.ca/2021/05/31/our-digital-future-and-economic-recovery-rests-on-getting-digital-id-right/">Our digital future and economic recovery rests on getting digital ID right</a> 2021-05-31 DIACC
+    <blockquote>
+      <p>With digital identity done right, a vaccine proof (passport) would allow Canadians to securely prove who they are, verify that they were vaccinated, and have a digital credential to use in any instance that requires it — all in a safe and secure way that does not divulge any other private health record.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blokbioscience.com/articles/how-festival-organisers-can-maximise-covid-safety-and-eradicate-ticket-touts/#respond">How festival organisers can maximise Covid safety and eradicate ticket touts</a> 2021-05-31 Blok Bioscience
+    <blockquote>
+      <p>Festival organisers will also need to do better at managing delays than other sectors. In recent weeks, we’ve seen <a href="https://www.bbc.co.uk/news/business-56743571">Heathrow airport reporting delays of up to six hours</a>. This would be catastrophic at a festival – to keep festival goers waiting, after they have already waited for months to have a great time, would only lead to frustration and likely cause a bad reputation for the festival itself.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://noha-abuaesh.medium.com/ssi-covid-passports-why-what-and-how-6f450fddfabf">SSI COVID Passports: Why, What and How</a> 2021-05-21 Noha Abuaesh
+    <blockquote>
+      <p>In a lot of places around the world, a COVID passport is simply a paper document. This has led to a couple of expected problems, one to mention is forgery. Paper documents can easily be forfeited, and paper-based COVID passports are no exception.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.constellationr.com/blog-news/not-too-much-identity-technology-and-not-too-little">Not too much identity technology, and not too little</a> 2021-04-23 Constellationr
+    <blockquote>
+      <p>We should digitize nothing more and nothing less than the fact that someone received their vaccine.  A verifiable credential carrying this information would include the place, date and time, the type of vaccine, and the medico who administered or witnessed the shot.  The underlying technology should be robust, mature and proven at scale ― as is PKI and public key certificates</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://diacc.ca/2021/04/22/setting-up-digital-id-regime-could-provide-boost-to-post-pandemic-recovery/">Setting up digital ID regime could provide boost to post-pandemic recovery</a> 2021-04-22 DIACC
+    <blockquote>
+      <p>If the global pandemic has shown us anything, it’s that the need for reliable and secure data is paramount as businesses, governments, and Canadians from Vancouver to Quebec City to Charlottetown and everywhere in between move online.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.windley.com/archives/2021/04/the_politics_of_vaccination_passports.shtml">The Politics of Vaccination Passports</a> 2021-04 Phil Windley
+    <blockquote>
+      <p>For example, I’d prefer a vaccination passport that is built according to principles of the Good Health Pass collaborative than, say, one built by Facebook, Google, Apple, or Amazon. Social convention, and regulation where necessary, can limit where such a passport is used. It’s an imperfect system, but social systems are.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://identitywoman.net/quoted-in-everything-you-need-to-know-about-vaccine-passports/">Everything You Need to Know About “Vaccine Passports”</a> 2021-04 IdentityWoman \ <a href="https://www.motherjones.com/politics/2021/04/everything-you-need-to-know-about-vaccine-passports/">Mother Jones</a>
+    <blockquote>
+      <p>Andy Slavitt, a White House senior adviser for COVID response, specified at a <a href="https://www.whitehouse.gov/briefing-room/press-briefings/2021/03/29/press-briefing-by-white-house-covid-19-response-team-and-public-health-officials-21/">March 29</a> briefing that “unlike other parts of the world, the government here is not viewing its role as the place to create a passport, nor a place to hold the data of citizens.”</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.evernym.com/health-credentials-webinar/">Getting Privacy Right with Verifiable Health Credentials</a> 2021-03-16 Evernym
+    <blockquote>
+      <p>Verifiable health credentials have never been more important or more urgently needed. Yet, as an industry, we have a responsibility to ensure that the solutions we deploy today are held to the highest bar and set the right precedent for personal data privacy.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://indicio.tech/blog/why-2021-is-the-year-for-decentralized-identity/">Why 2021 is the year for decentralized identity</a> 2021-03-09 Indicio
+    <blockquote>
+      <p>When it became apparent that Covid-19 would scale to a problem of world historical proportions, speculation immediately turned to its legacy. Pandemics are agents of change, and in our mass adaptation to new challenges, we would quickly discard practices and processes whose rationale for existing conflicted with immediate needs; we would adapt new technologies to wider use; we would innovate.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blokbioscience.com/video/freedom-privacy-covid/">Freedom, Privacy and the Covid Pandemic</a> 2021-03-09 BLOK
+    <blockquote>
+      <p>It’s quite important to outline the difference between #selfsovereignidentity and centralised solutions in the development of #covid #vaccinepassports.</p>
+
+      <p>The former requires zero trust on third parties, the latter is prone to hacking and abuse.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.hyperledger.org/blog/2021/02/12/working-together-on-what-good-looks-like">Working Together on What “Good” Looks Like</a> 2021-02-12 Hyperledger
+    <blockquote>
+      <p>This initiative is intended to define, in the context of test results and vaccination records for opening up borders for travel and commerce, a high bar for implementations of identity and credentialing systems to meet with regards to privacy, ethics and portability. They will also work with the implementers of such systems to converge towards common standards and governance.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.cgdev.org/publication/covid-vaccine-certificate-building-lessons-digital-id-digital-yellow-card">Center for Global Development: A COVID Vaccine Certificate</a> 2021-02-11 CGDev
+    <blockquote>
+      <p>Building on Lessons from Digital ID for the Digital Yellow Card</p>
+
+      <p>Covid Vaccination Certificate will be a formidable challenge, not only to international cooperation, but because it will need to be implemented in the course of mass vaccination campaigns across countries with very different health management systems and ID systems and with a constantly evolving situation.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.pingidentity.com/en/company/blog/posts/2021/identity-ownership-security.html">Identity Ownership and Security in the Wake of the Pandemic</a> 2021-02-09 Ping Identity
+    <blockquote>
+      <ul>
+        <li>Takeaway #1: We digitized much of our economy during the pandemic but neglected one important aspect: identity.</li>
+        <li>Takeaway #2: Third parties have much more control over digital identity than individuals.</li>
+        <li>Takeaway #3: We’re on the cusp of a tectonic shift in the notion of digital identity.</li>
+        <li>Takeaway #4: The pandemic has accelerated the changes needed to shape the future of digital identity security.</li>
+        <li>Takeaway #5: Moving control of digital identity to the individual will dramatically change our current identity and access management systems.</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://twitter.com/maheshbalan/status/1352049833419239428">My presentation at the @Hyperledger Healthcare SIG about #VerifiableCredentials for Covid-19</a> 2021-01-20 <a href="https://twitter.com/maheshbalan" class="user-mention">@maheshbalan</a> Hyperledger
+    <blockquote>
+      <p>How a cryptographically secure digital credential can be used instead of paper documents. (<a href="https://wiki.hyperledger.org/display/HCSIG/2021.01.20+General+Meeting+Presentation?preview=/41590388/41590779/zoom_0.mp4">Video</a>)</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://searchhrsoftware.techtarget.com/news/252494706/Digital-vaccine-certificate-looms-as-HRs-next-problem">Digital vaccine certificate looms as HR’s next problem</a> 2021-01-12 Tech Target
+    <blockquote>
+      <p>It’s going to take a while for the efforts to sort themselves out, Beck said, but he believes it will happen by the fall or year-end. Government funding may be forthcoming.</p>
+
+      <p>Based on what Biden has said generally about public health, Beck believes the new administration plans to make “a big commitment to health equity and improving public health systems broadly,” he said.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://diacc.ca/2021/01/05/protecting-privacy-while-reopening-economies/">how to re-open our economy while protecting privacy</a> 2021-01-05 Joni Brennan, IdentityWoman DIACC
+    <blockquote>
+      <p>Without transparent operational guidance, people’s privacy and personal freedoms may be compromised. By having a set of operational rules, decision makers will have the capacity to make better decisions that will enable the public to trust that the tools being implemented have been designed to respect their best interests.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://webcache.googleusercontent.com/search?q=cache:KsfPtESFkP4J:https://www.economist.com/international/2020/12/07/covid-19-spurs-national-plans-to-give-citizens-digital-identities">Covid-19 spurs national plans to give citizens digital identities</a> 2020-12-07 Economist
+    <blockquote>
+      <p>The MOSIP project, which got going in March 2018, is nested in Bangalore’s International Institute of Information Technology (IIIT-B) and endowed with funding of $16m from the Omidyar Network, the Bill and Melinda Gates Foundation and Tata Trusts.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://socialsciences.exeter.ac.uk/media/universityofexeter/collegeofsocialsciencesandinternationalstudies/lawimages/research/Policy_brief_-_Digital_Health_Passports_COVID-19_-_Beduschi.pdf">Digital Health Passports for COVID-19 - Data Privacy and Human Rights Law</a> 2020-11-06
+    <blockquote>
+      <p>This is a study of Digital Health Passports relating the benefits in managing the pandemic, while also detailing concerns around data protection and the private information at risk of being over-exposed.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://identityreview.com/covid-19-immunity-credentials-contact-tracing-solutions-report/">COVID-19 Immunity Credentials and Contact Tracing Solutions Report</a> 2020-08-02 Identity Review
+    <blockquote>
+      <p>Immunity credentials can allow those who are not COVID-positive to return to daily in-person routines, travel or going back to work, providing evidence that they are low-risk of transmitting the COVID-19 virus. This could be accomplished through a national digital identification system that monitors and tracks the health status of its citizens. The details of how digital immunity credentials would be implemented are still up in the air, but may include important features such as the ability to share results remotely, interoperability across systems, proof of authenticity and the potential for individuals to have full ownership over their health data.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.turing.ac.uk/blog/how-covid-19-driving-innovation-digital-identity">How COVID-19 is driving innovation in digital identity</a> 2020-07-27 Turing Institute
+    <blockquote>
+      <p>Contact tracing is inherently privacy-invasive to individuals as it is fundamentally a mechanism for sharing details of the interactions they have with others.  In response, many researchers have turned their attention to developing secure and privacy-preserving solutions. Large inter-institutional projects such as DP-3T (Decentralized Privacy-Preserving Proximity Tracing), PEPP-PT (Pan-European Privacy-Preserving Proximity Tracing) and the Apple-Google partnership have developed protocols, systems and mobile apps that have already informed contact tracing deployments internationally.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.theguardian.com/world/2020/mar/30/immunity-passports-could-speed-up-return-to-work-after-covid-19">Immunity passports’ could speed up return to work after Covid-19</a> 2020-03-30
+    <blockquote>
+      <ul>
+        <li>What are, in your opinion, the riskiest assumptions when writing an Software Development Kit?</li>
+        <li>For you, what are the most promising SSI projects or repos?</li>
+        <li>What do you believe are the bottlenecks for the cross-ledger SSI? How soon can we see cross-ledger credentials exchanges?</li>
+        <li>What are the upsides of using Zero MQ over a common HTTP Rest connection?</li>
+        <li>How hard would it be to replace the current Transport Layer Security architecture with SSI?</li>
+        <li>Why was Rust chosen to write Indy-SDK?</li>
+        <li>Specific roadblocks other people in this space should look out for?</li>
+        <li>What are the books you have recommended most to others?</li>
+      </ul>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="travel">Travel</h3>
+<ul>
+  <li>
+<a href="https://identitywoman.net/covid-travel-resources-for-phocuswright/">COVID &amp; Travel Resources for Phocuswright</a> 2021-11-17 IdentityWoman.net
+    <blockquote>
+      <p>As more and more governments adopt major COVID certificate standards to reopen borders, the travel industry is working hard to catch up on their technology to meet the evolving travel requirements. However, there is still no shortage of complaints from travelers about their cumbersome international travel experiences.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.sita.aero/globalassets/docs/brochures/your-runway-to-success.pdf">SITA Publishes 18-Month Plan for Digital Transformation in Air Travel</a> 2021-06-30 SITA
+    <blockquote>
+      <p>COVID-19 has had a dramatic impact on the aviation industry both financially and operationally. It has required our industry to reprioritize technology spend, do more with less, and implement health and safety protocols</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=YlgXNk4GRLc">Panel: Paving the Way to a Safer Travel Experience - Heather Dahl, &amp; Scott Harris &amp; Adrien Sanglier</a> 2021-06-21 Hyperledger Foundation
+    <blockquote>
+      <p>Together SITA and Indicio.tech utilized Hyperledger Aries, Ursa, and Indy to create a secure travel credential that is accepted by airlines, hotels and hospitality partners without sharing private health information. In this panel discussion, SITA and Indicio.tech will share their journey of applying verifiable credentials in commercial aviation and travel/hospitality to make it easy for visitors entering a country to share a trusted traveler credential – based on their health status, yet revealing no personal information or health data – privately and securely on their mobile device.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.nytimes.com/2021/02/04/travel/coronavirus-vaccine-passports.html">Coming Soon: The ‘Vaccine Passport’</a> 2021-02-04 NYTimes
+    <blockquote>
+      <p>“The global passport system took 50 years to develop,” said Drummond Reed, chief trust officer for Evernym. “Even when they wanted to add biometrics to that to make it stronger, that took over a decade to agree on just how you’re going to add a fingerprint or a facial biometric to be verified on a passport. Now, in a very short period of time, we need to produce a digital credential that can be as universally recognized as a passport and it needs an even greater level of privacy because it’s going to be digital.”</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="tech">Tech</h2>
+
+<ul>
+  <li>
+<a href="https://medium.com/@frank.k./iot-network-security-protecting-covid-19-vaccines-with-ssi-part-1-requirements-b6523a607fbe">Safeguarding COVID-19 Vaccines with SSI - Part 1\3: Requirements</a> 2021-10-01 Frank Kottler
+    <blockquote>
+      <p>In many cases, the problem underpinning IoT network security resembles the classic blockchain business case: to create trust — in this case, trustful data and message exchange — in a trustless environment. While the self-sovereign identity (SSI) concept resolves this problem in a specifically distributed manner, we want to explore current solutions, and compare their properties to distributed architectures, including SSI. Many desirable network properties (throughput, simplicity, confidentiality, to name a few) are much easier implemented in conventional solutions — it will be exciting to understand how each approach can deliver value for IoT network security depending on the specific application.</p>
+    </blockquote>
+    <ul>
+      <li>
+<a href="https://medium.com/@frank.k./iot-network-security-protecting-covid-19-vaccines-with-ssi-part-2-architecture-1b5e8e49605d">Safeguarding COVID-19 Vaccines with SSI — Part 2/3: Architecture</a> 2021-10-01 Frank Kottler
+        <blockquote>
+          <p>Dylan has identified the requirements towards their IoT network and possible secure network architectures. Still, two challenges remain unsolved: the configuration effort required to setup device APIs and communication protocols, and the question of how to securely identify and authenticate the devices.</p>
+        </blockquote>
+      </li>
+      <li>
+<a href="https://medium.com/@frank.k./iot-network-security-protecting-covid-19-vaccines-with-ssi-part-3-identity-management-87c480fb8007">Safeguarding COVID-19 Vaccines with SSI— Part 3/3</a> 2021-10-01 Frank Kottler
+        <blockquote>
+          <p>Dylan realizes that the identified design requirements correspond to properties that are typically solved by means of cryptography. To embed cryptographic methods securely in their network, VirGo needs to identify both a network architecture and an identity management paradigm that fulfill the design principles when they interact.</p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+  <li>
+<a href="https://blog.digi.me/2021/08/20/the-evolution-of-covid-testing-peaks-with-at-home-rapid-antigen-test-and-show-capability/">The evolution of Covid testing peaks with at-home rapid antigen test-and-show capability</a> 2021-08-20 DigiMe
+    <blockquote>
+      <p>fixes the pain points of other testing processes – especially as infectious and asymptomatic people can test without travelling – is cheap, eminently scalable, and can be used as secure proof of Covid health status where needed.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="literature">Literature</h2>
+<ul>
+  <li>
+<a href="https://arxiv.org/pdf/2202.09207.pdf">Leveraging Self-Sovereign Identity, Blockchain, and Zero-Knowledge Proof to Build a Privacy-Preserving Vaccination Pass</a> 2022-02-18 Maurício Barrosa, Frederico Schardong, Ricardo Felipe Custódio
+    <blockquote>
+      <p>This solution allows users to prove that they are vaccinated for different pathogens without revealing their identity. The architecture is loosely coupled, allowing components to be exchanged, which we discuss when we present the implementation of a working prototype.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.tech.gov.sg/files/media/corporate-publications/FY2021/dgx_2021_digital_identity_in_response_to_covid-19.pdf">Digital Identity in response to COVID-19: DGX Digital Identity Working Group</a> 2022-01-24
+    <blockquote>
+      <p>DIWG member countries each have relevant policies and/or legislation which cover their respective approaches towards digital identity, captured through policy, legislative and trust frameworks governing the digital identity systems. For most, trust frameworks and digital identity systems were implemented using existing government policies and legislation as a foundation, for example existing privacy legislation, and broadly align to ISO standards (as defined by the International Organisation for Standardisation), European Union (EU) standards (as defined through the eIDAS regulation) or industry best practice. A similar model was found for technical settings across digital identity systems</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.fim-rc.de/Paperbibliothek/Veroeffentlicht/1359/wi-1359.pdf">Digital Identities and Verifiable Credentials</a> 2021-10 Johannes Sedlmeir • Reilly Smethurst • Alexander Rieger • Gilbert Fridgen Published
+    <blockquote>
+      <p>Verifiable credentials and digital wallets offer a convenient, secure, and privacy-oriented alternative to current physical and digital identity management systems. A recent example – COVID-19 vaccination certificates – highlights this. The verification of paper-based vaccination certificates is often error-prone and time-consuming, especially when many certificates have to be verified in a short period of time, e.g., at a football match or when boarding a plane. Moreover, to establish a sufficient level of authenticity, paper-based vaccination certificates are typically disclosed with additional personal information and identity documents, such as a physical ID card.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.technavio.com/report/blockchain-identity-management-market-industry-analysis">Blockchain Identity Management Market by End-user, Application, and Geography - Forecast and Analysis 2021-2025</a> 2021-07
+    <blockquote>
+      <p>This blockchain identity management market research report provides valuable insights on the post COVID-19 impact on the market, which will help companies evaluate their business approaches. Furthermore, this report extensively covers blockchain identity management market segmentations by end-user (BFSI, government, healthcare, and others), application (end-point, network, and infrastructure), and geography (North America, Europe, APAC, South America, and MEA). The blockchain identity management market report also offers information on several market vendors, including Accenture Plc, Amazon.com Inc., Bitfury Group Ltd., BLOCKCHAINS LLC, Broadcom Inc., Civic Technologies Inc., International Business Machines Corp., Oracle Corp., SAP SE, and SecureKey Technologies Inc. among others.</p>
+    </blockquote>
+  </li>
+  <li>[Research] <a href="https://openidentityexchange.org/networks/87/item.html?id=404">Identity Credential and Personal Data Ownership Perspectives</a> 2020-12-10 OIX
+    <blockquote>
+      <p>Many global organisations are using their citizens’ identity and their other personally identifiable information (PII) to help combat the global Covid-19 crisis  […] reignited the debate around protecting public safety vs protecting privacy:  how to combat the contagious threat whilst preserving citizens’ digital identity, security and anonymity?</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://zenodo.org/record/4016977#.X4NIjy2ZMWq">Disposable Yet Official Identities (DYOI)</a> 2020-09-06 Petros Kavassalis, Nikos Triantafyllou, Panagiotis Georgakopoulos, Antonis Stasis, Rob van Kranenburg
+    <blockquote>
+      <p>for Privacy-Preserving System Design - The case of COVID-19 digital document verification and credential-based access control in ad hoc outdoor and indoor settings (and beyond)
+In this paper we report on the design of a service system to endow next-generation COVID-19 mobile applications with the capacity: a) to instantly manage and verify a wide range of possible COVID-19 digital documents (circulation attestations, work or travel permits based on approved COVID-19 tests, vaccination certificates, etc.) and, b) to provide credential-based access control, especially in cases where the Verifier is not a web entity but a human agent with a smartphone, or an IoT device – mainly in ad hoc outdoor and indoor settings. The system has been designed as a response to the specific needs of a health emergency situation, but it may have a broader application in different cased and areas of control (such as airport and train stations checking points and board controls), where the verification process must exclude the possibility of a physical interaction between the controller and the subject of control, by maintaining a “safe distance” between them and while preserving a certain privacy for the subject of control. Our approach levers the potential of Disposable Identities, Self-Sovereign Identities technologies and Verifiable Credentials (VCs) to enable digital document verification and credential-based access control in ad hoc outdoor and indoor settings (and beyond). Towards this, we specifically introduce the concept of “Derivative” (i.e., transcoded/contextual) Verifiable Credentials. A Derivative VC is a derived bond contract guaranteeing the validity and ownership over the underlying contracts (VCs) whose: a) usability is restricted in a very specific context (that of the “local” and time-limited interaction between a Subject and a Service Provider) and, b) linking table points only to a specific “Pairwise DID”.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="user-experience">User Experience</h2>
+
+<ul>
+  <li>
+<a href="https://www.consumerreports.org/covid-19/how-to-prove-youre-vaccinated-for-covid-19-a5516357574/">How to Prove You’re Vaccinated for COVID-19</a> 2021-11-23 Consumer Reports
+    <blockquote>
+      <p>However, electronically answering what is basically a simple yes-or-no question has become surprisingly controversial, confusing, and time consuming. That’s because the rules vary by country and by state, with some states refusing to issue or even allow such a credential. Layered on top of that, different firms offer their own versions of COVID-19 vaccination passports.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.webistemology.com/vaccine_certificate_experience/">The Vaccine Certificate Experience</a> 2021-10-18 WEBISTEMOLOGY
+    <blockquote>
+      <p>Version 1 of the Ontario COVID Vaccine Certificate is a cumbersome experience that needs some work</p>
+
+      <p>What I observed is NOT a user-friendly experience for either the customer or the business. For the experience to be improved it needs to be a single presentation operation of either a paper or digital certificate that the business can verify in one step.</p>
+
+      <p>The advantage of a paper and ID card presentation ritual is that it is difficult to hack. So if we are going to improve the presentation with a single credential as above, privacy and security MUST be protected.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/caribou-digital/women-and-platform-livelihoods-in-kenya-the-impact-of-covid-19-954d6b073997">Women and platform livelihoods in Kenya: The impact of COVID-19</a> 2021-06-24 Caribou Digital
+    <blockquote>
+      <p>We are starting a new research project — and we’d like you to join us on the journey. Over the course of 2021, Qhala and Caribou Digital, with the support of the Mastercard Foundation, will work to understand the impact of COVID-19 on young women’s experiences working or selling through online platforms in Kenya.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/caribou-digital/how-can-we-make-platform-livelihoods-better-for-young-women-especially-during-and-after-covid-19-696b3974bf61">How can we make platform livelihoods better for young women, especially during and after COVID-19?</a> 2021-05-31 Caribou Digital
+    <blockquote>
+      <p>But who is the “we”? The research asks exactly that — who is the “we” that needs to <a href="https://medium.com/caribou-digital/female-livelihoods-in-the-gig-economy-tensions-and-opportunities-f14982b6aaad">make the platform work better for women</a>?</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/">JWTs done right: Quebec’s proof of vaccination</a> 2021-05-20 Mikkel
+    <blockquote>
+      <p>Well, my proof of vaccination finally arrived, and the result is… actually pretty okay. Still, there’s always some fun to be had in zero-knowledge hacks, so I thought I’d blog about my experiences anyway.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://diacc.ca/2021/02/16/covid-has-accelerated-canadians-demand-for-digital-id/">Covid has accelerated Canadians’ demand for digital ID</a> 2021-02-16 DIACC
+    <blockquote>
+      <p>three-quarters of the population feels it’s important to have a secure, trusted and privacy-enhancing digital ID to safely and securely make transactions online. The majority of Canadians believe it is important for federal and provincial governments to move quickly on enabling digital ID in a safe and secure manner, according to the survey.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="standards">Standards</h2>
+<ul>
+  <li>
+<a href="https://wiki.trustoverip.org/display/HOME/Trust+Registries+Drafting+Group">Trust Registries Working Group</a> 2021-08-13 TOIP
+    <blockquote>
+      <p> will specify how verifiers can confirm that a digital health pass has been issued by an authorized issuer.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://iiw.idcommons.net/12H/_Mapping_FHIR_JSON_resource_to_W3C_Vaccination_vocabulary_:_A_semantic_data_pipeline">Mapping FHIR JSON resource to W3C Vaccination vocabulary : A semantic data pipeline</a> 2021-05-13 John Walker
+    <blockquote>
+      <p>The Digital Health Credential System Implementation Guide	The Implementation Guide V1 provides a set of baseline recommendations to the CCI community of application and services developers, implementers with which to evaluate product designs. The requirements mentioned in this guide should be read along side (and not as a substitute to) the regulations applicable to the jurisdiction in which the applications and services will be made available	https://cci-2020.medium.com/the-implementation-guide-v1-is-out-f958e1fd69b0	https://drive.google.com/file/d/1eSrFxFldD6TBkfmOFTXBkBu2TYf3qFv2/view) Covid Credentials Initiative</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.linkedin.com/pulse/who-goes-vaccination-certificates-technology-identity-stephen-wilson/">WHO goes there? Vaccination Certificates Technology and Identity</a> 2021-04-09 Stephen Wilson
+    <blockquote>
+      <p>Firstly the Working Group has expressly endorsed PKI as the technology for a new WHO trust framework for global interoperability of digitized proof of vaccination. They drew on decades of ICAO e-passport experience and consider the issue of trust framework technology to be “closed” [Ref: line 218 of the consultation paper]. Nevertheless they appreciate that implementing PKI is a significant undertaking, reporting that several countries have called for “assistance related to the establishment of their [public health authority’s] national public key infrastructure” [Ref: lines 208-214]. The role of the WHO here is a work in progress.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0081.html">Vaccination Certificate Test Suite</a> 2021-04-08 Manu Sporny 
+    <blockquote>
+      <p>The WHO guidance covers 28 types of vaccines that we (as a global society) depend on, including Measles, Smallpox, Polio, Yellow Fever, COVID-19, and others. We (Digital Bazaar) thought it might be interesting to see if we could create an interoperability test suite for the WHO Smart Vaccination Card work using the tools listed above.</p>
+
+      <p>https://w3id.org/vaccination/interop-reports</p>
+
+      <p>[1]https://w3c-ccg.github.io/vaccination-vocab/
+[2]https://www.who.int/publications/m/item/interim-guidance-for-developing-a-smart-vaccination-certificate
+[3]https://github.com/w3c-ccg/vc-http-api</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://lists.w3.org/Archives/Public/public-credentials/2021Feb/0069.html">Vaccination Certificate Vocabulary</a> 2021-02 Tobias Looker
+    <blockquote>
+      <p>I’d like to propose a new work item that formally defines a vocabulary for issuing Vaccination Certificates in the form of Verifiable Credentials.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="development">Development</h2>
+<ul>
+  <li>
+<a href="https://indicio.tech/eight-simple-rules-for-creating-decentralized-covid-credentials/">Eight Simple Rules for Creating Decentralized Covid Credentials</a> 2021-12-13 Indicio
+    <blockquote>
+      <ol>
+        <li>The thing just has to work — This may sound like a no-brainer, but from our experience, this can be often overlooked. Want broad adoption? Your application must be fast and functional. If it causes too much friction people either won’t use it or they’ll look for ways around it.</li>
+      </ol>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.windley.com/archives/2021/06/building_an_ssi_ecosystem_health_passes_and_the_design_of_an_ecosystem_of_ecosystems.shtml">Building an SSI Ecosystem: Health Passes and the Design of an Ecosystem of Ecosystems</a> 2021-06 Phil Windley
+    <blockquote>
+      <p>Ever since the Covid pandemic started in 2020, various groups have seen verifiable credentials as a means for providing a secure, privacy-respecting system for health and travel data sharing. This post explores the ecosystem of ecosystems that is emerging as hundreds of organizations around the world rise to the challenge of implementing a globally interoperable system that also respects individual choice and privacy.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://iiw.idcommons.net/1A/_Biometric_COVID_Verifiable_Credential">Biometric Health Card  (Adrian Gropper)</a> 2021-05-06 IIW <a href="https://docs.google.com/document/d/1o_773vzcbtSf59oU-iRUfAy5WSz3Wn9JUAvi0hKHE48/edit">doc</a>
+    <blockquote>
+      <p>COVID, Verifiable Credentials, Biometrics, Privacy</p>
+
+      <p>Converting the COVID CDC Vaccination Card into a standardized digital credential is turning out to be harder than expected. The conversation has become prominent in the news and risks being politicized to the detriment of public health efforts around the world.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=yqSr0xKcG18">I Want COVID-19 Certificates but I don’t want a DID</a> 2020-05-12 David Chadwick
+    <blockquote>
+      <p>This is the talk that I gave at Kuppinger Cole’s virtual event entitled “Identity Fabrics &amp; the Future of Identity Management” on 12 May 2020 (see https://www.kuppingercole.com/events/…)</p>
+
+      <p>It describes why DIDs and blockchains are not needed in order to build Self Sovereign Identity Systems.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="application">Application</h2>
+<ul>
+  <li>
+<a href="https://www.governor.ny.gov/news/governor-cuomo-announces-launch-excelsior-pass-plus-support-safe-secure-return-tourism-and">Governor Cuomo Announces Launch of Excelsior Pass Plus to Support the Safe, Secure Return of Tourism and Business Travel</a> 2021-08-05 NYS Gov
+    <blockquote>
+      <p>Excelsior Pass Plus, a result of the strategic partnership between New York State and VCI, will provide New Yorkers safe access to retrieve a secure, digital copy of their COVID-19 vaccination record using the <a href="https://protect2.fireeye.com/v1/url?k=c0acc09b-9f37f85c-c0ae39ae-000babd9f75c-7271080d81ab95a1&amp;q=1&amp;e=61cb6a92-1e48-44b8-96be-e1dd24b53960&amp;u=https%3A//vci.org/about#smart-health">SMART Health Cards Framework</a> - making their interstate and international travel and commerce experiences safer, contact-less, and more seamless.</p>
+
+      <p>The EU previously announced fully vaccinated Americans could travel this summer and regional EU travellers could potentially use an <a href="https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en?ref=hackernoon.com#how-will-the-certificate-work">EU Digital COVID Certificate</a> as early as July 1.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.affinidi.com/post/unlocking-the-value-of-verifiable-credentials-in-the-health-sector">Unlocking the Value of Verifiable Credentials in the Health Sector</a> 2022-07-08 Affinidi
+    <blockquote>
+      <ul>
+        <li>Digital Infrastructure for Vaccination Open Credentialing (DIVOC) - This is an open-source platform that enables countries to digitally orchestrate country-wide health campaigns such as vaccinations and certifications.</li>
+        <li>EU Digital COVID Certificate (EU-DCC) - This specification allows EU citizens and residents to have their digital health certificates issued and verified across the EU.</li>
+        <li>Smart Health Card (SHC) - This initiative encourages the development of open standards and technologies to connect people with their health data. Led by Microsoft, Vaccination Credential Initiative (VCI), The Commons Project, and The MITRE Corporation, SHCs are seeing wide adoption across North America.</li>
+        <li>International Civil Aviation Organisation - Visible Digital Seal (ICAO-VDS) - This is a travel document verification to re-establish travel and trade through aviation.</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://developer.apple.com/videos/play/wwdc2021/10089/">Explore Verifiable Health Records</a> 2021-06-07 Apple
+    <blockquote>
+      <p>Apple Announces Support for <a href="https://vci.org/">VCI</a> credentials at WWDC (Almost proper <a href="https://github.com/smart-on-fhir/health-cards/issues/119">JSON-JWT</a> but not quite)</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blog.digi.me/2021/06/01/health-data-must-be-private-and-secure-by-design-always/">Health data must be private and secure by design, always</a> 2021-06-01 DigiMe
+    <blockquote>
+      <p>But there is always time to reflect on privacy and security, and design from the ground up accordingly. At digi.me, we practice what we preach, with privacy and security always core considerations for our health data capability as well as our <a href="https://consentry.com/">Consentry health pass</a> as they move forwards.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://findbiometrics.com/verifly-lets-users-upload-vaccine-credentials/">VeriFLY Lets Users Upload Vaccine Credentials</a> 2021-05-21 FindBiometrics
+    <blockquote>
+      <p>“We envision a world where your VeriFLY digital wallet will provide access to the places you and your family want to visit. And the ability to accept a vaccine health credential will accelerate opportunities to resume activities we’ve all dearly missed.”  – Tom Grissen, CEO, Daon</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.futuretravelexperience.com/2021/04/iatas-digital-health-passport-paves-the-way-to-a-new-biometric-identity-for-travel/">IATA’s digital health passport paves the way to a new biometric identity for travel</a> 2021-04 Future Travel Experience
+    <blockquote>
+      <p>As FTE has previously reported, a number of other solutions have entered the digital health passport space in the past few months from various suppliers, including AOKpass, CommonPass, Daon’s VeriFLY, CLEAR Health Pass and IBM Digital Health Pass, just to name a few. Despite the growing competition, IATA is clear that its aim is not to dominate the market, but to make sure that standards are established to create a secure and interoperable solution.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blog.digi.me/2021/03/29/digi-me-creates-first-working-uk-vaccine-passport-capability/">Digi.me creates first working UK vaccine passport capability</a> 2021-03-29 DigiMe
+    <blockquote>
+      <p>Digi.me’s health pass is built on the same principles as our existing secure data exchange platform, and can be displayed on demand on a user’s phone. It is verified fully private, secure and tamper-proof due to multiple robust security measures including encryption.</p>
+
+      <p>This health pass has been designed to be fully interoperable with other international standards, such as the UN Good Health Pass Collaborative, of which <a href="https://blog.digi.me/2021/02/25/digi-me-joins-good-health-pass-collaborative-to-help-build-a-safe-travelling-future/">digi.me is a member</a>.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.evernym.com/blog/eu-digital-green-certificate-program/">The EU Digital Green Certificate Program: Analysis &amp; Comparison</a> 2021-03-19 Evernym
+    <blockquote>
+      <p>The EU has announced a program called “Digital Green Certificate” intended to provide proof of COVID-19 test or vaccination status for EU citizens. The intention is to “facilitate safe and free movement during the COVID-19 pandemic within the EU”. It is voluntary and free for citizens.</p>
+
+      <p>This is an analysis of the EU program and how it compares to a digital credential based approach. Important: this analysis is focused on the technical aspects of the EU program, not the medical or political aspects.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blog.digi.me/2021/02/16/digi-me-partners-with-healthmark-to-enable-covid-testing-and-verified-result-reporting/">Digi.me partners with Healthmark to enable Covid testing and verified result reporting</a> 2021-02-16 DigiMe
+    <blockquote>
+      <p>Consentry healthpass capability is an end-to-end solution which enables users to take a self-administered PCR saliva test, send it in for processing, and then receive an in-app result. Crucially, Consentry also generates a certified and dated travel certificate, together with qualifying details of the test taken, which can be printed, shared securely or displayed as needed.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://zada.io/we-are-now-officially-live-in-myanmar/">We are now officially live in Myanmar!</a> 2021-01-29 Zada
+    <blockquote>
+      <p>ZADA apps are all launched and our first digital ID – a COVIDPASS – is being issued by Pun Hlaing Hospitals to everyone who gets vaccinated.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.businesstraveller.com/business-travel/2021/01/29/british-airways-to-trial-verifly-digital-health-passport/">British Airways to trial Verifly digital health passport</a> 2021-01-29 Business Traveller
+    <blockquote>
+      <p>The trial begins on February 4 on all of the carrier’s transatlantic routes between London and the US (currently New York JFK, Los Angeles, San Francisco, Boston, Chicago, Dallas, Miami, Washington, Houston and Seattle).</p>
+
+      <p>It will be run in conjunction with joint business and Oneworld partner American Airlines, <a href="https://www.businesstraveller.com/business-travel/2021/01/17/american-airlines-launches-verifly-health-passport-for-travel-to-the-us/">which is already using the technology on international routes to the US.</a></p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.pocketcred.com/">PocketCred Verifiable Credentials</a> PocketCred
+    <blockquote>
+      <p>Pravici PocketCred (formerly VeriCred) is built on Blockchain technology, specifically to address credential issuance and verification, such as one for COVID-19 vaccines. We at Pravici have been working to build a digital pass that citizens can carry in their mobile device or digital card to prove that they have taken a test or vaccine. Our software application features user-friendly creation of schemas* and proof templates, as well as QR code technology for credential issuance and verificatio</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="nhs---digital-staff-passport">NHS - Digital Staff Passport</h3>
+<ul>
+  <li>[Real World] <a href="https://www.windley.com/archives/2021/05/building_an_ssi_ecosystem_digital_staff_passports_at_the_nhs.shtml">Building an SSI Ecosystem: Digital Staff Passports at the NHS</a> 2021-05-11 Phil Windley
+    <blockquote>
+      <p>How does a functioning credential ecosystem get started? This post goes deep on Manny Nijjar’s work to create a program for using digital staff passports in the sprawling UK NHS bureaucracy.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://iiw.idcommons.net/22C/_NHS_Staffpassport;_Based_on_Evernym_Verity_built_by_Sitekit/Condatis;_A_12_month_experience">NHS Staffpassport; Based on Evernym Verity built by Sitekit/Condatis; A 12 month experience</a> 2021-05-06 Chris Eckl, Richard Astley
+    <blockquote>
+      <p>The NHS Staff passport system was created to allow NHS employees to be redeployed between different organisations to meet urgent demand and remove the onboarding challenges when staff onboard with new organisations.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.slideshare.net/secret/JGSugec83U6ouP">Condatis IIW32 NHS Digital Staffpassport Learnings (slideshare.net)</a> 2021-04-23 Conditis
+    <blockquote>
+      <p>Presentation at IIW32</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="caution">Caution</h2>
+
+<ul>
+  <li>
+<a href="https://lists.w3.org/Archives/Public/public-credentials/2021Feb/0128.html">Digital Vaccination Certificates – Here Be Dragons!</a> 2021-02 Anil John
+    <blockquote>
+      <p>Because I believe that this is an important conversation, I figure I would put together some high level slideware that synthesizes and shares the answers I have provided directly to those who have asked.  I am not in the hearts and minds business, so consider this in the spirit of the quote from Bruce Lee - “Absorb what is useful, Discard what is not, Add what is uniquely your own.”</p>
+
+      <p>Happy to chat to share our mistakes, so that you don’t need to repeat them, with those who have a public interest focus in this area.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="http://www.infiniteideasmachine.com/2021/02/vaccination-passports-state-of-play/">‘Vaccination Passports’: State of Play</a> 2021-02 Infinite Ideas Machine
+    <blockquote>
+      <p>‘vaccination passports’ are unwarranted, in practice near-pointless clinically, and potentially risky in a number of ways.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.computerweekly.com/news/252496853/Vaccine-passports-prove-an-ethical-minefield">Vaccine passports prove an ethical minefield</a> 2021-02-24 Computer Weekly
+    <blockquote>
+      <p>Any <a href="https://www.computerweekly.com/news/252494730/Covid-19-immunity-passport-tests-to-begin-in-UK">Covid-19 vaccine passport scheme</a> set up in the UK could easily turn out to be discriminatory and invasive, and open the door to worse abuses of privacy in future, say security experts and campaigners.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://cointelegraph.com/news/we-don-t-need-immunity-passports-we-need-verifiable-credentials">We don’t need immunity passports, we need verifiable credentials</a> 2021-01-20 Cointelegraph
+    <blockquote>
+      <p>Paper certificates, PDFs, wristbands and mobile apps have all been suggested — and the former director of the Centers for Disease Control, Tom Frieden, and international human rights attorney Aaron Schwid <a href="https://www.washingtonpost.com/opinions/2020/12/21/tom-frieden-covid-immunity-passports/">urged</a> the adoption of digital “immunity passports” as a way to reopen the world.</p>
+
+      <p>In theory, their idea is great. In practice, it’s terrible. Or, as the Daily Beast <a href="https://www.thedailybeast.com/vaccine-passports-are-big-techs-latest-dystopian-nightmare">put</a> it: “Vaccine Passports Are Big Tech’s Latest Dystopian Nightmare.”</p>
+    </blockquote>
+  </li>
+  <li>[Research] <a href="https://www.adalovelaceinstitute.org/project/vaccine-passports-covid-status-apps/">Vaccine passports and COVID status apps</a> Ada Lovelace Inst. 2021-01-12
+    <blockquote>
+      <p>An evidence review and expert deliberation of the practical and ethical issues around digital vaccine passports and COVID status apps</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="scams">Scams</h2>
+<ul>
+  <li>
+<a href="https://www.tomsguide.com/news/fake-covid-vaccination-cards">COVID-19 vaccination cards are dangerously easy to fake — what you need to know</a> 2021-03-23
+    <blockquote>
+      <p>Israeli security firm Check Point reports that fake American and Russian vaccination certificates are being sold online for between $100 and $200. Fake COVID-19 negative test results cost as little as $25, while (likely fake) COVID-19 vaccine sells for about $500 per vial.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.infosecurity-magazine.com/news/scammers-sell-fake-covid19/">Scammers Selling Fake #COVID19 Vaccination Cards for Just $20</a> <a href="https://lists.w3.org/Archives/Public/public-credentials/2021Apr/0077.html">source</a> 2021-02-10 Infosecurity Magazine
+    <blockquote>
+      <p>The security firm DomainTools claims to have seen authentic-looking CDC cards selling for as little as $20 each on domains like covid-19vaccinationcards[.]com, which features a Let’s Encrypt TLS certificate. “Though selling a printed card is not necessarily illegal, the pricing, logo and cardstock of these ‘vaccination records’ demonstrate a level of intent to pass as legitimate cards from the CDC,” explained DomainTools senior security researcher, Chad Anderson.</p>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#cci" class="page__taxonomy-item p-category" rel="tag">CCI</a><span class="sep">, </span>
+    
+      <a href="/tags/#digi-me" class="page__taxonomy-item p-category" rel="tag">Digi.me</a><span class="sep">, </span>
+    
+      <a href="/tags/#eu-digital-green" class="page__taxonomy-item p-category" rel="tag">EU Digital Green</a><span class="sep">, </span>
+    
+      <a href="/tags/#excelsior-pass-pluss" class="page__taxonomy-item p-category" rel="tag">Excelsior Pass Pluss</a><span class="sep">, </span>
+    
+      <a href="/tags/#good-health-pass" class="page__taxonomy-item p-category" rel="tag">Good Health Pass</a><span class="sep">, </span>
+    
+      <a href="/tags/#lfph" class="page__taxonomy-item p-category" rel="tag">LFPH</a><span class="sep">, </span>
+    
+      <a href="/tags/#real-world" class="page__taxonomy-item p-category" rel="tag">Real World</a><span class="sep">, </span>
+    
+      <a href="/tags/#sita" class="page__taxonomy-item p-category" rel="tag">SITA</a><span class="sep">, </span>
+    
+      <a href="/tags/#vaccine-credentials" class="page__taxonomy-item p-category" rel="tag">Vaccine Credentials</a><span class="sep">, </span>
+    
+      <a href="/tags/#who" class="page__taxonomy-item p-category" rel="tag">WHO</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#history" class="page__taxonomy-item p-category" rel="tag">History</a><span class="sep">, </span>
+    
+      <a href="/categories/#uses" class="page__taxonomy-item p-category" rel="tag">Uses</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-18">June 18, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&amp;text=Covid-19%2C+Vaccine+Passports%2C+Health+Credentials%2C+and+Self+Sovereign+Identity%20https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fcovid-19%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fcovid-19%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fcovid-19%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fcovid-19%2F&amp;title=Covid-19%2C+Vaccine+Passports%2C+Health+Credentials%2C+and+Self+Sovereign+Identity" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/government/africa/" class="pagination--pager" title="Africa and Self Sovereign Identity
+">Previous</a>
+    
+    
+      <a href="/application/use-cases/" class="pagination--pager" title="SSI Use-Cases
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

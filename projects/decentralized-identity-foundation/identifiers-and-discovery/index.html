@@ -1,0 +1,1004 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Identifiers &amp; Discovery Working Group - DIF |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Specifications, implementations, test suites, etc. related to creation, derivation, resolution, management, use of all forms of decentralized identifiers">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Identifiers &amp; Discovery Working Group - DIF">
+<meta property="og:url" content="https://decentralized-id.com/projects/decentralized-identity-foundation/identifiers-and-discovery/">
+
+
+  <meta property="og:description" content="Specifications, implementations, test suites, etc. related to creation, derivation, resolution, management, use of all forms of decentralized identifiers">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Identifiers &amp; Discovery Working Group - DIF">
+  <meta name="twitter:description" content="Specifications, implementations, test suites, etc. related to creation, derivation, resolution, management, use of all forms of decentralized identifiers">
+  <meta name="twitter:url" content="https://decentralized-id.com/projects/decentralized-identity-foundation/identifiers-and-discovery/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2020-11-26T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-11T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/projects/decentralized-identity-foundation/identifiers-and-discovery/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero"
+  style=" background-image: url('');"
+>
+  
+    <img src="/images/identifiers-discovery-head.webp" alt="Identifiers &amp; Discovery Working Group - DIF" class="page__hero-image">
+  
+  
+</div>
+
+
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Identifiers &amp; Discovery Working Group - DIF">
+    <meta itemprop="description" content="Members of the Working Group are engaged in development of protocols and systems that enable creation, resolution, and discovery of decentralized identifiers and names across underlying decentralized systems, like blockchains and distributed ledgers.">
+    <meta itemprop="datePublished" content="2020-11-26T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-11T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/projects/decentralized-identity-foundation/identifiers-and-discovery/" class="u-url" itemprop="url">Identifiers &amp; Discovery Working Group - DIF
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          8 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#working-group">Working Group</a></li><li><a href="#specs--projects">Specs &amp; Projects</a><ul><li><a href="#universal-resolver">Universal Resolver</a><ul><li><a href="#related">Related</a></li><li><a href="#resolver-drivers">Resolver Drivers</a></li></ul></li><li><a href="#universal-registrar">Universal Registrar</a><ul><li><a href="#registrar-drivers">Registrar Drivers</a></li></ul></li><li><a href="#well-known-did-configuration">.well-known DID configuration</a></li><li><a href="#peer-did-method-specification">Peer DID Method Specification</a></li><li><a href="#did-spec-extensions">DID Spec Extensions</a></li><li><a href="#other-repositories">Other Repositories</a></li></ul></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="working-group">Working Group</h2>
+<ul>
+  <li><a href="https://identity.foundation/working-groups/identifiers-discovery.html">Identifiers and Discovery Working Group</a> - <a href="https://github.com/decentralized-identity/identifiers-discovery">GitHub</a>
+    <blockquote>
+      <p>Members of the Working Group are engaged in development of protocols and systems that enable creation, resolution, and discovery of decentralized identifiers and names across underlying decentralized systems, like blockchains and distributed ledgers.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/decentralized-identity/org/blob/master/Org%20documents/WG%20documents/DIF_ID_WG_charter_v1.pdf">I&amp;D WG Charter</a>
+    <ul>
+      <li>Specifications, implementations, test suites, etc. related to creation, derivation, resolution, management, use of all forms of decentralized identifiers (i.e. including, but not limited to W3C DIDs)</li>
+      <li>Relationship between identifier systems (e.g. DID and domain names)</li>
+      <li>Relationship between identifiers and other decentralized identity building blocks (e.g. EDV)</li>
+      <li>Discovery protocols (e.g. for hubs, agents)</li>
+      <li>Establishment and maintenance of control authority over an identifier (e.g. KERI)</li>
+      <li>Security and trust in identifier infrastructure (e.g. Linked Data Security)</li>
+      <li>Work on concrete DID methods</li>
+    </ul>
+  </li>
+  <li><a href="https://lists.identity.foundation/g/id-wg">Mailing list</a>
+    <blockquote>
+      <p>A key piece of the decentralized identity equation is how people, organizations, and devices can be identified and located without centralized systems of identifiers (e.g. email addresses). DIF members are actively working on protocols and implementations that enable creation, resolution, and discovery of decentralized identifiers and names across decentralized systems, like blockchains and distributed ledgers.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/decentralized-identity/identifiers-discovery/blob/main/agenda.md">Meeting page</a>
+    <blockquote>
+      <p>For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large, disparate group experiencing a lot of churn.</p>
+
+      <p>This document is live-edited DURING each call, and stable/authoritative copies live on our github repo under /agenda.md . Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="specs--projects">Specs &amp; Projects</h2>
+<h3 id="universal-resolver"><a href="https://uniresolver.io/">Universal Resolver</a></h3>
+
+<p>Spec and implementation of a driver-based framework that enables resolution of DIDs.</p>
+
+<ul>
+  <li><a href="https://github.com/decentralized-identity/universal-resolver">decentralized-identity/universal-resolver</a>
+    <blockquote>
+      <p>A Universal Resolver is an identifier resolver that works with any decentralized identifier system, including Decentralized Identifiers (DIDs).</p>
+    </blockquote>
+    <ul>
+      <li><a href="https://github.com/decentralized-identity/universal-resolver/blob/master/docs/driver-development.md">Driver Development</a>
+        <blockquote>
+          <p>The Universal Resolver’s function is wrapping an API around a number of co-located Docker containers running DID-method-specific drivers. The Universal Resolver is designed to support additional DID methods as they are developed by the community. The contribution for a new DID method driver consists of a Docker image which exposes an HTTP interface for resolving DIDs. New contributions are submitted as Pull Requests to the Universal Resolver (this) repository.</p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/decentralized-identity/universal-resolver-frontend">decentralized-identity/universal-resolver-frontend</a> - Frontend web UI for Universal Resolver.</li>
+  <li><a href="https://github.com/decentralized-identity/universal-resolver-java">decentralized-identity/universal-resolver-java</a></li>
+  <li><a href="https://github.com/decentralized-identity/universal-resolver-python">decentralized-identity/universal-resolver-python</a></li>
+</ul>
+
+<h4 id="related">Related</h4>
+
+<ul>
+  <li><a href="https://blog.identity.foundation/uni-resolver/">Universal Resolver - resolve practically any DID</a> 2022-09-01 Identity Foundation
+    <blockquote>
+      <p>The Universal Resolver can now resolve 45 DID methods, and more are being added regularly. Visit <a href="https://dev.uniresolver.io/">https://dev.uniresolver.io/</a> to see the full list of supported methods, and visit <a href="https://github.com/decentralized-identity/universal-resolver/blob/main/docs/driver-development.md">this github page</a> to contribute a driver for a DID method.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/jolocom/ddoresolver-rs">jolocom/ddoresolver-rs</a> 2022-05-13 Jolocom
+    <blockquote>
+      <p>Universal, multy-method, feature gated DID Document resolver</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.identity.foundation/universal-resolver-calls-wrapup/">Mission Accomplished: Universal Resolver Calls coming to an end</a> 2021-11-04 Identity Foundation
+    <blockquote>
+      <p>Considering that the group has accomplished these goals, there is currently no more need for dedicated calls. Work on the Universal Resolver work item will continue on Github (under the <a href="https://github.com/decentralized-identity/universal-resolver">Universal Resolver</a> and <a href="https://github.com/decentralized-identity/identifiers-discovery/">Identifiers &amp;Discovery</a> and on DIF Slack in the Identifiers &amp; Discovery Working Group channel, #wg-id.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.slideshare.net/SSIMeetup/did-resolution-given-a-did-how-do-i-retrieve-its-document-markus-sabadello">DID Resolution: Given a DID how do I retrieve its document? – Markus Sabadello</a> 2018-11-27 <a href="http://ssimeetup.org/did-resolution-given-did-how-do-retrieve-document-markus-sabadello-webinar-13/">SSI-Meetup</a>
+    <blockquote>
+      <p>Markus Sabadello, CEO of Danube Tech, will talk about DID Resolution and how to retrieve a DID document. As we know, Decentralized Identifiers (DIDs) are a key component in SSI architecture. They are used as building blocks for verifiable credentials, wallets, agents, and data exchange protocols. To make all this work, we need to be able to “resolve” DIDs to their associated DID Documents. This process fulfills a similar purpose as DNS does in the classic web. And while DID Resolution is not a very complicated topic, it is still important to understand how it works and how it relates to other topics. In this webinar, we will give a general introduction to DID Resolution, discuss a few in-depth topics, and also demo concrete tools that are available today.</p>
+
+      <p>Most DID Resolution implementations envision an architecture where a common base component invokes a set of “drivers” or “plugins” or “modules” to implement method-specific functionality, e.g. see the DIF Universal Resolver, Digital Bazaar’s did-client, or the uPort JavaScript DID Resolver. We envision such “DID Resolver” tools to become as central to SSI infrastructure as DNS is for the web today.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/decentralized-identity/a-universal-resolver-for-self-sovereign-identifiers-48e6b4a5cc3c">A Universal Resolver for self-sovereign identifiers</a>
+ 2017-11-01 (Markus Sabadello)
+    <blockquote>
+      <p>This is a first step in fulfilling DIF’s mission to help individuals and organizations to control their digital identity, without being dependent on any intermediary party.</p>
+
+      <p>This tool fulfills a similar purpose as Bind does in the DNS system: resolution of identifiers. However, instead of working with domain names, we work with self-sovereign identifiers that can be created and registered directly by the entities they refer to.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wvgU7Gl8ORUGLI" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen=""> </iframe>
+
+<h4 id="resolver-drivers">Resolver Drivers</h4>
+
+<ul>
+  <li><a href="https://github.com/decentralized-identity/uni-resolver-driver-did-erc725">decentralized-identity/uni-resolver-driver-did-erc725</a> - A Universal Resolver driver for did:erc725 identifiers.</li>
+  <li><a href="https://github.com/decentralized-identity/uni-resolver-driver-did-ion">decentralized-identity/uni-resolver-driver-did-ion</a> - Universal Resolver Driver for Identity Overlay Network (ION) DIDs</li>
+  <li><a href="https://github.com/decentralized-identity/uni-resolver-driver-did-key">decentralized-identity/uni-resolver-driver-did-key</a> - A Universal Resolver driver for did:key identifiers.
+    <ul>
+      <li><a href="https://medium.com/decentralized-identity/trinsic-donates-did-key-rs-to-i-d-wg-8a278f37bcd0">Trinsic donates did-key.rs to I&amp;D WG</a> 2021-01-25</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/decentralized-identity/uni-resolver-driver-did-sov">decentralized-identity/uni-resolver-driver-did-sov</a> - A Universal Resolver driver for did:sov identifiers.</li>
+  <li><a href="https://github.com/decentralized-identity/uni-resolver-driver-did-stack">decentralized-identity/uni-resolver-driver-did-stack</a> - A Universal Resolver driver for did:stack identifiers.</li>
+  <li><a href="https://github.com/decentralized-identity/uni-resolver-driver-did-work">decentralized-identity/uni-resolver-driver-did-work</a> - A Universal Resolver driver for did:work identifiers.</li>
+  <li><a href="https://github.com/decentralized-identity/uni-resolver-driver-dns">decentralized-identity/uni-resolver-driver-dns</a> - A Universal Resolver driver for domain names.</li>
+</ul>
+
+<h3 id="universal-registrar"><a href="https://uniregistrar.io/">Universal Registrar</a></h3>
+<p>Spec and implementation of a driver-based framework that enables creation/updates/deactivation of DIDs.</p>
+
+<ul>
+  <li><a href="https://github.com/decentralized-identity/universal-registrar">decentralized-identity/universal-registrar</a>
+    <blockquote>
+      <p>A Universal Registrar is an identifier registrar that works with any decentralized identifier system, including Decentralized Identifiers (DIDs).</p>
+    </blockquote>
+    <ul>
+      <li><a href="https://github.com/decentralized-identity/universal-registrar/blob/master/docs/driver-development.md">Driver Development</a>
+        <blockquote>
+          <p>The Universal Registrar’s function is wrapping an API around a number of co-located Docker containers running DID-method-specific drivers. The Universal Registrar is designed to support additional DID methods as they are developed by the community. The contribution for a new DID method driver consists of a Docker image which exposes an HTTP interface for creating/updating/deactivating DIDs. New contributions are submitted as Pull Requests to the Universal Registrar (this) repository.</p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/decentralized-identity/universal-registrar-frontend">decentralized-identity/universal-registrar-frontend</a> - Frontend web UI for Universal Registrar.</li>
+</ul>
+
+<h4 id="registrar-drivers">Registrar Drivers</h4>
+
+<ul>
+  <li><a href="https://github.com/decentralized-identity/uni-registrar-driver-did-btcr">decentralized-identity/uni-registrar-driver-did-btcr</a> - A Universal Registrar driver for did:btcr identifiers.</li>
+  <li><a href="https://github.com/decentralized-identity/uni-registrar-driver-did-key">decentralized-identity/uni-registrar-driver-did-key</a> - A Universal Registrar driver for did:key identifiers.</li>
+  <li><a href="https://github.com/decentralized-identity/uni-registrar-driver-did-sov">decentralized-identity/uni-registrar-driver-did-sov</a> - A Universal Registrar driver for did:sov identifiers.</li>
+  <li><a href="https://github.com/decentralized-identity/uni-registrar-driver-did-v1">decentralized-identity/uni-registrar-driver-did-v1</a> - A Universal Registrar driver for did:v1 identifiers.</li>
+  <li><a href="https://github.com/decentralized-identity/uni-resolver-driver-did-btcr">decentralized-identity/uni-resolver-driver-did-btcr</a> - A Universal Resolver driver for did:btcr identifiers.</li>
+  <li><a href="https://github.com/decentralized-identity/uni-resolver-driver-did-ccp">decentralized-identity/uni-resolver-driver-did-ccp</a> - A Universal Resolver driver for Baidu did:ccp identifiers.</li>
+  <li><a href="https://github.com/decentralized-identity/uni-resolver-driver-did-dom">decentralized-identity/uni-resolver-driver-did-dom</a> - A Universal Resolver driver for did:dom identifiers.</li>
+</ul>
+
+<h3 id="well-known-did-configuration">.well-known DID configuration</h3>
+<p>Spec, docs, and implementations for discovering DIDs from .well-known HTTP(S) URIs.</p>
+
+<ul>
+  <li><a href="https://docs.microsoft.com/en-us/azure/active-directory/verifiable-credentials/how-to-dnsbind">Link your domain to your Decentralized Identifier (DID) (preview)</a>
+    <blockquote>
+      <p>We make a link between a domain and a DID by implementing an open standard written by the Decentralized Identity Foundation called <a href="https://identity.foundation/.well-known/resources/did-configuration/">Well-Known DID configuration</a>. The verifiable credentials service in Azure Active Directory (Azure AD) helps your organization make the link between the DID and domain by including the domain information that you provided in your DID, and generating the well-known config file:</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/decentralized-identity/.well-known/">decentralized-identity/.well-known/</a>
+    <ul>
+      <li><a href="https://identity.foundation/.well-known/">Repo Webpage</a>
+        <blockquote>
+          <p>Making it possible to connect existing systems and Decentralized Identifiers (DIDs) is an important undertaking that can aid in bootstrapping adoption and usefulness of DIDs. One such form of connection is the ability of a DID controller to prove they are the same entity that controls an origin.</p>
+
+          <p>The DID Configuration resource provides proof of a bi-directional relationship between the controller of an origin and a DID via cryptographically verifiable signatures that are linked to a DID’s key material. This document describes the data format of the resource and the resource location at which origin controllers can publish their DID Configuration.</p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+  <li><a href="https://identity.foundation/specs/did-configuration/">Spec</a>
+    <blockquote>
+      <p>Making it possible to connect existing systems and Decentralized Identifiers (DIDs) is an important undertaking that can aid in bootstrapping adoption and usefulness of DIDs. One such form of connection is the ability of a DID controller to prove they are the same entity that controls an Internet domain.</p>
+
+      <p>The DID Configuration resource provides proof of a bi-directional relationship between the controller of an Internet domain and a DID via cryptographically verifiable signatures that are linked to a DID’s key material. This document describes the data format of the resource and the resource location at which Internet domain controllers can publish their DID Configuration.</p>
+
+      <p>Due to the location of the DID Configuration resource, discovery of associated Decentralized Identifiers against a domain is trivial. However, the inverse (i.e given a DID-URI discover the associated domains) is deemed out of scope.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="peer-did-method-specification">Peer DID Method Specification</h3>
+
+<p>A rich DID method that has no blockchain dependencies. The verifiable data registry is a synchronization protocol between peers.</p>
+
+<ul>
+  <li><a href="https://github.com/decentralized-identity/peer-did-method-spec">decentralized-identity/peer-did-method-spec</a></li>
+  <li><a href="https://identity.foundation/peer-did-method-spec/">Spec</a>
+    <blockquote>
+      <p>This document defines a “peer” DID Method that conforms to the DID Spec. The method can be used independent of any central source of truth, and is intended to be cheap, fast, scalable, and secure. It is suitable for most private relationships between people, organizations, and things. We expect that peer-to-peer relationships in every blockchain ecosystem can benefit by offloading pairwise and n-wise relationships to peer DIDs.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="did-spec-extensions">DID Spec Extensions</h3>
+
+<p>Extension parameters, properties, and values for the DID spec registries.</p>
+
+<ul>
+  <li><a href="https://github.com/decentralized-identity/did-spec-extensions">decentralized-identity/did-spec-extensions</a></li>
+</ul>
+
+<h3 id="other-repositories">Other Repositories</h3>
+
+<ul>
+  <li><a href="https://github.com/decentralized-identity/did-common-java">decentralized-identity/did-common-java</a> - Shared DID Java library.</li>
+  <li><a href="https://github.com/decentralized-identity/did-jwt">decentralized-identity/did-jwt</a> - Create and verify DID verifiable JWT’s in Javascript</li>
+  <li><a href="https://github.com/decentralized-identity/did-jwt-vc">decentralized-identity/did-jwt-vc</a> - Create and verify W3C Verifiable Credentials and Presentations in JWT format</li>
+  <li><a href="https://github.com/decentralized-identity/did-resolver">decentralized-identity/did-resolver</a> - Universal did-resolver for javascript environments</li>
+  <li><a href="https://github.com/decentralized-identity/did-spec-extensions">decentralized-identity/did-spec-extensions</a> - Extension parameters, properties, and values for the DID spec registries.</li>
+  <li><a href="https://github.com/decentralized-identity/ethr-did-resolver">decentralized-identity/ethr-did-resolver</a> - DID resolver for Ethereum Addresses with support for key management</li>
+  <li><a href="https://github.com/decentralized-identity/horcrux">decentralized-identity/horcrux</a> - Horcrux Protocol</li>
+  <li><a href="https://github.com/decentralized-identity/activestorage-horcrux">activestorage-horcrux</a>
+    <blockquote>
+      <p>An ActiveStorage service option that uploads shares across one or more other storage services using Shamir Secret Sharing (via the tss-rb gem). Use it in your storage.yml file. It is not a mirror, but can be named as a storage service.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/decentralized-identity/context">decentralized-identity/context</a> - DIF Security Contexts &amp; Schemas for Linked Data</li>
+  <li><a href="https://github.com/decentralized-identity/fuzzy-encryption">decentralized-identity/fuzzy-encryption</a> - A variant of a Fuzzy Vault cryptographic scheme designed for encrypting data with better human recovery features.</li>
+  <li><a href="https://github.com/decentralized-identity/jsonld-common-java">decentralized-identity/jsonld-common-java</a> - Shared JSON-LD Java library.</li>
+  <li><a href="https://github.com/decentralized-identity/jsonld-document-loader">jsonld-document-loader</a>
+    <blockquote>
+      <p>Document loaders enable decentralized security, interoperability and extensibility while gaurding against vendor lock in.</p>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#btcr" class="page__taxonomy-item p-category" rel="tag">BTCR</a><span class="sep">, </span>
+    
+      <a href="/tags/#decentralized-identifiers" class="page__taxonomy-item p-category" rel="tag">Decentralized Identifiers</a><span class="sep">, </span>
+    
+      <a href="/tags/#did-peer" class="page__taxonomy-item p-category" rel="tag">DID:PEER</a><span class="sep">, </span>
+    
+      <a href="/tags/#dif" class="page__taxonomy-item p-category" rel="tag">DIF</a><span class="sep">, </span>
+    
+      <a href="/tags/#erc725" class="page__taxonomy-item p-category" rel="tag">ERC725</a><span class="sep">, </span>
+    
+      <a href="/tags/#ethereum" class="page__taxonomy-item p-category" rel="tag">Ethereum</a><span class="sep">, </span>
+    
+      <a href="/tags/#identifiers-and-discovery-wg" class="page__taxonomy-item p-category" rel="tag">Identifiers and Discovery WG</a><span class="sep">, </span>
+    
+      <a href="/tags/#ion" class="page__taxonomy-item p-category" rel="tag">ION</a><span class="sep">, </span>
+    
+      <a href="/tags/#json-ld" class="page__taxonomy-item p-category" rel="tag">JSON-LD</a><span class="sep">, </span>
+    
+      <a href="/tags/#linked-data" class="page__taxonomy-item p-category" rel="tag">Linked Data</a><span class="sep">, </span>
+    
+      <a href="/tags/#universal-registrar" class="page__taxonomy-item p-category" rel="tag">Universal Registrar</a><span class="sep">, </span>
+    
+      <a href="/tags/#universal-resolver" class="page__taxonomy-item p-category" rel="tag">Universal Resolver</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#open-source-projects" class="page__taxonomy-item p-category" rel="tag">Open Source Projects</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-11">June 11, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Identifiers+%26+Discovery+Working+Group+-+DIF%20https%3A%2F%2Fdecentralized-id.com%2Fprojects%2Fdecentralized-identity-foundation%2Fidentifiers-and-discovery%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fprojects%2Fdecentralized-identity-foundation%2Fidentifiers-and-discovery%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fprojects%2Fdecentralized-identity-foundation%2Fidentifiers-and-discovery%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fprojects%2Fdecentralized-identity-foundation%2Fidentifiers-and-discovery%2F&title=Identifiers+%26+Discovery+Working+Group+-+DIF" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/projects/decentralized-identity-foundation/did-authentication/" class="pagination--pager" title="(DID) Authentication Working Group - DIF
+">Previous</a>
+    
+    
+      <a href="/projects/decentralized-identity-foundation/interop/" class="pagination--pager" title="Interop Working Group - DIF
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

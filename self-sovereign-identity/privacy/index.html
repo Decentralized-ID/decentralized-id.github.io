@@ -1,0 +1,1001 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Personal Privacy and Self Sovereign Identity |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="A silent war is ongoing between users and companies over the control of data.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Personal Privacy and Self Sovereign Identity">
+<meta property="og:url" content="https://decentralized-id.com/self-sovereign-identity/privacy/">
+
+
+  <meta property="og:description" content="A silent war is ongoing between users and companies over the control of data.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Personal Privacy and Self Sovereign Identity">
+  <meta name="twitter:description" content="A silent war is ongoing between users and companies over the control of data.">
+  <meta name="twitter:url" content="https://decentralized-id.com/self-sovereign-identity/privacy/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-06-29T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-29T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/self-sovereign-identity/privacy/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Personal Privacy and Self Sovereign Identity">
+    <meta itemprop="description" content="But with challenges in the offing and platforms preparing to do battle, we must all support initiatives that support privacy and security, as well as the services that will bolster it. We must expect better and support the solutions that help us do better.">
+    <meta itemprop="datePublished" content="2023-06-29T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-29T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/self-sovereign-identity/privacy/" class="u-url" itemprop="url">Personal Privacy and Self Sovereign Identity
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          10 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#explainer">Explainer</a></li><li><a href="#self-sovereign-identity">Self Sovereign Identity</a></li><li><a href="#policy">Policy</a></li><li><a href="#business">Business</a></li><li><a href="#development">Development</a></li><li><a href="#application">Application</a></li><li><a href="#privacy-violations">Privacy Violations</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="explainer">Explainer</h2>
+<ul>
+  <li><a href="https://www.windley.com/archives/2022/03/what_is_privacy.shtml">What is Privacy?</a> 2022-03 Phil Windley
+    <blockquote>
+      <p>The International Association of Privacy Professionals (IAPP) <a href="https://iapp.org/resources/glossary/">defines four classes of privacy</a>:</p>
+      <ul>
+        <li>Bodily Privacy—The protection of a person’s physical being and any invasion thereof. This includes practices like genetic testing, drug testing, or body cavity searches.</li>
+        <li>Communications Privacy—The protection of the means of correspondence, including postal mail, telephone conversations, electronic mail, and other forms of communication.</li>
+        <li>Information Privacy—The claim of individuals, groups, or organizations to determine for themselves when, how, and to what extent information about them is communicated to others.</li>
+        <li>Territorial Privacy—Placing limitations on the ability of others to intrude into an individual’s environment. Environment can be more than just the home, including workplaces, vehicles, and public spaces. Intrusions of territorial privacy can include video surveillance or ID checks.</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://academy.affinidi.com/top-5-must-read-articles-on-data-privacy-342e95c9dcfc">Top 5 Must Read Articles on Data Privacy</a> 2022-04-18 Affinidi
+    <blockquote>
+      <p>To help you get a good grasp of the data privacy concepts and what it means for you, we have put together some relevant articles that make for an interesting read. These articles are sure to give you a whole new perspective of data privacy.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.windley.com/archives/2022/03/privacy_authenticity_and_confidentiality.shtml">Privacy, Authenticity, and Confidentiality</a> 2022-03 Phil Windley
+    <blockquote>
+      <p>Authenticity allows parties to a conversation to know to whom they are talking. Confidentiality ensures that the content of the conversation is protected from others. These three create a tradespace because you can’t achieve all three at the same time.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.avast.com/identity-and-the-battle-for-privacy">Identity is evolving — but the battle for privacy has only just begun</a> 2022-03-10 Avast
+    <blockquote>
+      <p>But with challenges in the offing and platforms preparing to do battle, we must all support initiatives that support privacy and security, as well as the services that will bolster it. We must expect better and support the solutions that help us do better. That’s the only way to create a future where privacy and security are at the core of our collective digital experiences.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://werd.io/2021/the-new-age-of-privacy">The new age of privacy</a> 2021-01-06  Ben Werdmuller
+    <blockquote>
+      <p>Privacy is a human right. Surveillance has a chilling effect on free speech and freedom of association, which we consider to be fundamental tenets of democracy. Sure, you can make a bunch of money by learning everything you can about an individual and selling access to their attention. But not everything that is profitable should be permissible.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blogs.harvard.edu/doc/2021/05/14/poison/">How the cookie poisoned the Web</a> 2021-05-14 Doc Searls
+    <blockquote>
+      <p>Have you wondered why you have no more privacy on the Web than what other parties grant you (<a href="https://www.linuxjournal.com/content/if-your-privacy-hands-others-alone-you-dont-have-any">which is none at all</a>), and that you can only opt in or out of choices that others provide—while the only controls you have over your privacy are to skulk around like a criminal (thank you, <a href="https://www.youtube.com/watch?v=2jxdwIkFdj8">Edward Snowden and Russell Brand</a>, for that analogy) or to stay offline completely?</p>
+    </blockquote>
+  </li>
+  <li><a href="https://marketoonist.com/2021/07/zeropartydata.html">the personalization privacy paradox</a> 2021-05-25
+    <blockquote>
+      <p><img src="https://marketoonist.com/wp-content/uploads/2021/07/210726.thirdpartydata.jpg" alt="" />
+“Zero party data is that which a customer intentionally and proactively shares with a brand.  It can include preference center data, purchase intentions, personal context, and how the individual wants the brand to recognize her.”</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="self-sovereign-identity">Self Sovereign Identity</h2>
+
+<ul>
+  <li><a href="https://v3.opennodes.com/2021-06-24-08-33-27-decentralized-digital-identity-shaping-the-future-of-privacy">Decentralized Digital Identity: Shaping the Future of Privacy</a> 2021-04-24 Open Nodes
+    <blockquote>
+      <p>In May, <a href="http://www.tribex.co/">Tribe</a> held a Clubhouse session with the Dutch Blockchain Coalition (DBC), in partnership with the Singapore Infocomm Media Development Authority (IMDA). Together with representatives from Affinidi, SITA, and Sphereon, the industry players shared their insights on how blockchain is being used to shape the future of privacy, and some practical applications of decentralized digital identity.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.thoughtworks.com/insights/blog/self-sovereign-identity-nash-equilibrium-point-personal-identity-information-game">Self-Sovereign Identity - The Nash Equilibrium Point of the Personal Identity Information Game</a> 2021-05-07 ThoughtWorks
+    <blockquote>
+      <p>“A silent war is ongoing between users and companies over the control of data.”</p>
+      <ol>
+        <li>Privacy or convenience is a question</li>
+        <li>SSI is the answer to this question</li>
+      </ol>
+    </blockquote>
+  </li>
+  <li><a href="https://www.helpnetsecurity.com/2021/07/26/verifiable-credentials/">Verifiable credentials are key to the future of online privacy</a> 2021-07-26 Helpnet
+    <blockquote>
+      <p>they offer a few advantages that we don’t get with paper records. Whereas a physical document (let’s say, a <a href="https://www.helpnetsecurity.com/2021/06/15/vaccine-passports/">vaccine card</a>) can be forged and <a href="https://www.npr.org/2021/06/08/1004264531/fake-covid-vaccine-cards-keep-getting-sold-online-using-one-is-a-crime?t=1626423870877">passed off as authentic</a>, the <a href="https://www.evernym.com/blog/the-three-pillars-of-self-sovereign-identity/">security mechanisms</a> behind a verifiable credential means that it can never be tampered with and that anyone shown the credential will be able to immediately verify who issued it and to whom it was issued. 2021-06-08</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.youtube.com/watch?v=1vgNzSDn554">Self Sovereign e-ID Schemes &amp; Privacy Challenges</a> 2021-12-13 Crypto Valley Conference 2021
+    <blockquote>
+      <p>Kurt Nielsen &amp; Nagib Aouini from Partisia Blockchain</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.slideshare.net/SSIMeetup/identity-and-privacy-past-present-and-digital-brenda-k-leong">Identity and Privacy: Past, Present, and Digital</a> 2018-09-21 Brenda K. Leong SSI Meetup
+    <blockquote>
+      <p>Underlying this conversation is the concept of privacy. Is it a fundamental right? What does it mean? Who gets to decide which conveniences are worth the tradeoffs they require? Are the protections for personal data offered by policy and law sufficient, or should technical and security protections be required? Are some systems simply too high-risk to implement regardless of perceived benefits? To answer those questions, it’s important to understand the technologies at work – biometrics such as fingerprints and facial recognition offer greater reliability, security and certainty, but raise fears of “permanent” breach if the personal data is compromised. These systems offer accessibility at scale that can be updated throughout a lifetime in a way that password-based accounts cannot equal. But fair access to all, protections of personal data, and most importantly, legal, policy, and technical protections against discrimination and abuse are critical to ensuring these and related technologies are not simply used to restrict personal freedom, or target groups and other populations. Brenda covers how these and other aspects of the modern concept of “digital identity” are being approached in different ways, and what some of the benefits and risks are for the future.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.slideshare.net/SSIMeetup/zeroknowledge-proofs-privacypreserving-digital-identity-with-clare-nelson">Zero-Knowledge Proofs: Privacy-Preserving Digital Identity</a> 2018-10-12 Clare Nelson SSI Meetup
+    <blockquote>
+      <p>Clare will explain why ZKPs are so powerful, and why they are building blocks for a range of applications including privacy-preserving cryptocurrency such as Zcash, Ethereum, Artificial Intelligence, and older versions of Trusted Platform Modules (TPMs). The presentation includes many backup slides for future learning and researching, including four slides of references.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="policy">Policy</h2>
+<ul>
+  <li><a href="https://unstats.un.org/LEGAL-IDENTITY-AGENDA/MEETINGS/2021/UNLIA-FUTURETECH/DOCS/REPORT2.PDF">UNDP LEGAL IDENTITY AGENDA ONLINE FORUM: PRIVATE SECTOR ENGAGEMENT ROUNDTABLES: DATA PROTECTION AND PRIVACY</a> 2022-07-13 UNStats
+    <blockquote>
+      <p>A second Private Sector Engagement Roundtable was held on February 10, 2022 building on the first roundtable held in May 2021. The forum drew 74 virtual participants. Hosted by the UN Legal Identity Agenda (LIA) Task Force1, the roundtable with members of UN entities and the private technology sector addressed, core questions about data protection and privacy, as well as policy issues concerning legal identity systems.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blockadvocacy.medium.com/letter-to-attorney-general-becerra-re-fincen-proposed-rule-privacy-concerns-d6706694b8a9">Letter to Attorney General Becerra Re: FinCen Proposed Rule Privacy concerns</a> 2021-02-23 Ally Medina BlockAdvocacy
+    <blockquote>
+      <p>Our concerns with the consumer privacy implications of this proposed rule are twofold:</p>
+
+      <p>First, the proposed rule’s requirement that MSB’s collect identifying information associated with wallet addresses will create reporting that extends well beyond the intent of the rule or the transaction.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="business">Business</h2>
+<ul>
+  <li><a href="https://www.axios.com/2021/11/09/privacy-business-booming-protonmail-you-search">The business of Privacy is Booming</a> 2021-11-09
+    <blockquote>
+      <p>Investors and consumers show growing enthusiasm for privacy-focused alternatives to Google and Facebook amid renewed scrutiny over the real cost of their “free” services.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/sequoia-capital/the-rising-consumer-demand-for-data-privacy-and-autonomy-b8254bf3368e">The Rising Consumer Demand for Data Privacy and Autonomy</a> 2021-11-19 Sequoia
+    <blockquote>
+      <p>Increased supply of user-friendly private tech and increased demand for privacy have converged, creating a moment of unprecedented opportunity for founders with a vision for privacy-first online experiences.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="development">Development</h2>
+<ul>
+  <li><a href="https://anonyome.com/2021/09/why-privacy-by-redesign-better-defines-responsibility-for-privacy/">Why Privacy by (Re)Design Better Defines Responsibility for Privacy</a> 2021-09 Anonyome
+    <blockquote>
+      <p>Where privacy by design puts the onus on app developers to be proactive about data privacy, privacy by (re)design redesigns the “app ecosystem to address data sharing”, spreading the burden.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://anonyome.com/2021/08/can-consent-ever-play-a-valuable-role-in-consumer-privacy/">Can Consent Ever Play a Valuable Role in Consumer Privacy?</a> 2021-08 Anonyme
+    <blockquote>
+      <p>Can we rely on ‘informed consent’ if the informed part is largely missing?<br />
+Consent doesn’t scale well from the consumer’s perspective.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.windley.com/archives/2021/06/reciprocal_negotiated_accountability.shtml">Reciprocal Negotiated Accountability</a> 2021-06-21 Phil Windley
+    <blockquote>
+      <p>The self-sovereign internet underscores a tension between those who desire perfect oversight of society and those who desire perfect privacy. In this post, I explore a method for conditional legibility of private communications.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://iiw.idcommons.net/20B/_Agency_By_Design_(Privacy_is_not_Enough)">Agency By Design (Privacy is not Enough)</a> 2021-05-06 Adrian Gropper
+    <blockquote>
+      <p>I’m not a fan of Privacy by Design.<br />
+In the industry are only concerned about compliance, very rarely talk about Human Agency<br />
+Privacy by Default is the opposite in some sense to privacy by design<br />
+The problem is that It conflict with community in many cases. (e.g. social credit score)<br />
+Cultural differences (EU accepts better centralization than US)<br />
+Delegation and agency are one the same thing<br />
+Agency is a much bigger thing and delegation is a mechanism that supports it<br />
+I want my fiduciaries to know as much as possible of me (e.g. my doctor, my lawyer) <br />
+Model Agency as hierarchy and delegation is the mean to have it.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://academy.affinidi.com/understand-the-organs-framework-before-building-privacy-preserving-apps-cfc00e00a90c">Understand the ORGANS Framework Before Building Privacy-Preserving Apps</a> 2022-08-23 Affinidi
+    <blockquote>
+      <ul>
+        <li>O -&gt; Open Standards</li>
+        <li>R -&gt; Revocable by individuals</li>
+        <li>G -&gt; Granular</li>
+        <li>A -&gt; Auditable</li>
+        <li>N -&gt; Notice to all parties involved</li>
+        <li>S -&gt; Secure</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.meeco.me/data-privacy-does-anyone-care/">Data Privacy: does anyone care?</a> 2021-09-15 Meeco
+    <blockquote>
+      <p>The compelling data and research suggest that my original question now needs to be reframed. People most certainly do care about their data privacy. The question now is: how are organisations going to bridge this data privacy chasm?</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.windley.com/archives/2022/03/provisional_authenticity_and_functional_privacy.shtml">Provisional Authenticity and Functional Privacy</a> 2022-03 Phil Windley
+    <blockquote>
+      <p>Provisional authenticity and confidentiality can help us manage the trade offs between privacy and authenticity to support online accountability along with functional privacy.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="application">Application</h2>
+<ul>
+  <li><a href="https://anonyome.com/2022/04/how-your-business-can-rapidly-deliver-customer-privacy-solutions-with-the-sudo-platform-a-5-part-series%ef%bf%bc/">Use Sudo Platform’ Decentralized Identity Capabilities to Rapidly Deliver Customer Privacy Solutions</a> 2022-04 Anonyme
+    <blockquote>
+      <p>In this 5-part series, we’ll look at how enterprises can rapidly deliver customer privacy solutions with the Sudo Platform digital identities and decentralized identity capabilities.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://revoke.com/personal/how-it-works/">Revoke</a>
+    <blockquote>
+      <p>Revoke allows you to send requests to retrieve and/or delete your data.</p>
+      <ul>
+        <li>Each company has 30 days to respond under the GDPR.</li>
+        <li>Revoke gives you full visibility and control of what to do with that information.</li>
+        <li>Easy to use app helps you discover who hold yours personal information.</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://restofworld.org/2022/documents-reputation-laundering-firm-eliminalia/">Exposed documents reveal how the powerful clean up their digital past using a reputation laundering firm</a> 2022-02 Rest of World
+    <blockquote>
+      <p>Reputation firms like Eliminalia use legal threats and copyright notices to have material taken down around the world.</p>
+
+      <p>From the we can’t talk about ourselves without ®’s camp</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="privacy-violations">Privacy Violations</h2>
+<ul>
+  <li><a href="https://blog.digi.me/2021/05/20/businesses-need-to-mind-the-trust-gap-so-users-dont-need-to-sacrifice-privacy-mef-global-consumer-trust-survey-finds/">Businesses need to ‘mind the trust gap’ so users don’t need to sacrifice privacy, MEF Global Consumer Trust Survey finds</a> 2021-05-20 Digi.me
+    <blockquote>
+      <ul>
+        <li>Users sacrifice privacy and security for access to valued services</li>
+        <li>Smartphone users begin to sense improvement in the mobile environment</li>
+        <li>More and more users take protective steps, but remain exposed to harm</li>
+        <li>Protective actions do not necessarily drive confidence</li>
+        <li>Cost, knowledge and perceived complexity are key barriers</li>
+        <li>Transparency and control are key values for users</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://teachprivacy.com/privacy-harms/">Privacy Harms</a> 2021-02-09 Daniel Solove Teach Privacy
+    <blockquote>
+      <p>This article makes two central contributions. The first is the construction of a road map for courts to understand harm so that privacy violations can be tackled and remedied in a meaningful way.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.windley.com/archives/2022/04/john_oliver_on_surveillance_capitalism.shtml">John Oliver on Surveillance Capitalism</a> 2022-04 Phil Windley
+    <blockquote>
+      <p>In researching this story, we realized that there is any number of perfectly legal bits of f—kery that we could engage in. We could, for example, use data brokers to go phishing for members of congress, by creating a demographic group consisting of men, age 45 and up, in a 5-mile radius of the U.S. Capitol, who had previously visited sites regarding or searched for terms including divorce, massage, hair loss and mid-life crisis.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://anonyome.com/2022/03/google-sued-for-misleading-users-over-location-data-privacy/">Google Sued for Misleading Users Over Location Data Privacy</a> 2022-03 Anonyme
+    <blockquote>
+      <p>“Google falsely led consumers to believe that changing their account and device settings would allow customers to protect their privacy and control what personal data the company could access. The truth is that contrary to Google’s representations it continues to systematically surveil customers and profit from customer data.”</p>
+    </blockquote>
+  </li>
+  <li>[Report] <a href="https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/">Me2BA Product Testing Spotlight Report Published: Data Sharing in Primary &amp; Secondary School Mobile Apps</a> 2021-05-04 Me2Ba
+    <blockquote>
+      <p>60% of School Apps are Sending Student Data to Potentially High-risk Third Parties Without Knowledge or Consent According to New Research from Me2B Alliance</p>
+    </blockquote>
+  </li>
+  <li><a href="https://nrkbeta.no/2021/09/02/someone-could-be-tracking-you-through-your-headphones/">Someone could be tracking you through your headphones</a> 2021-09-02 NRK Beta
+    <blockquote>
+      <ul>
+        <li>At least 9149 products with Bluetooth transmitters were uniquely recognized at least 24 hours apart.</li>
+        <li>At least 129 headphones could be tracked in the dataset for longer than 24 hours.</li>
+        <li>Popular headphones models from Bose, Bang &amp; Olufsen, Jabra, Sennheiser and JBL can be tracked over longer periods of time.</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://anonyome.com/2021/07/the-links-between-privacy-and-disinformation-julia-angwin/">Links Between Privacy and Disinformation: Julia Angwin</a> 2021-07
+    <blockquote>
+      <p>Privacy, as we know, is a complex topic. When it converges with technology, it becomes more complicated.  One aspect of this complexity is where privacy fits in with disinformation—false or misleading information spread intentionally to confuse or manipulate people.</p>
+    </blockquote>
+  </li>
+  <li>[Literature] <a href="https://www.expressvpn.com/digital-security-lab/opioid-telehealth-research">Privacy Risks With Opioid Recovery Apps</a> 2021-07-07 ExpressVPN
+    <blockquote>
+      <p>Perhaps the most alarming revelation from our study of ten opioid addiction treatment and recovery apps is the consistent access of unique identifiers, given the sensitivity of privacy around health and substance use issues.</p>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#data-privacy" class="page__taxonomy-item p-category" rel="tag">Data Privacy</a><span class="sep">, </span>
+    
+      <a href="/tags/#privacy" class="page__taxonomy-item p-category" rel="tag">Privacy</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#about" class="page__taxonomy-item p-category" rel="tag">About</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-29">June 29, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Personal+Privacy+and+Self+Sovereign+Identity%20https%3A%2F%2Fdecentralized-id.com%2Fself-sovereign-identity%2Fprivacy%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fself-sovereign-identity%2Fprivacy%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fself-sovereign-identity%2Fprivacy%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fself-sovereign-identity%2Fprivacy%2F&title=Personal+Privacy+and+Self+Sovereign+Identity" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/self-sovereign-identity/critique-caution/" class="pagination--pager" title="Critique and Caution regarding Self Sovereign Identity
+">Previous</a>
+    
+    
+      <a href="/development/business/" class="pagination--pager" title="Business [Value, Models, Practice] and Self Sovereign Identity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

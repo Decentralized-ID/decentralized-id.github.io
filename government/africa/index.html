@@ -1,0 +1,927 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Africa and Self Sovereign Identity |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Stages of a Pan-African Identity Framework for Establishing Self-Sovereign Identity">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Africa and Self Sovereign Identity">
+<meta property="og:url" content="https://decentralized-id.com/government/africa/">
+
+
+  <meta property="og:description" content="Stages of a Pan-African Identity Framework for Establishing Self-Sovereign Identity">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Africa and Self Sovereign Identity">
+  <meta name="twitter:description" content="Stages of a Pan-African Identity Framework for Establishing Self-Sovereign Identity">
+  <meta name="twitter:url" content="https://decentralized-id.com/government/africa/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-06-15T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-27T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/government/africa/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Africa and Self Sovereign Identity">
+    <meta itemprop="description" content="Three stages have been identified as necessities to accomplish the development of this system: 1. Biometric/demographic registration. 2. Interoperability and security hardening. 3. Biometric modality data analysis/organization/association.">
+    <meta itemprop="datePublished" content="2023-06-15T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-27T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/government/africa/" class="u-url" itemprop="url">Africa and Self Sovereign Identity
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          7 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#explainer">Explainer</a></li><li><a href="#government">Government</a></li><li><a href="#power---inclusion">Power - Inclusion</a></li><li><a href="#business">Business</a></li><li><a href="#african-ssi-initiatives">African SSI Initiatives</a><ul><li><a href="#cardanos-ethiopia-project">Cardano’s Ethiopia Project</a></li><li><a href="#diwala">Diwala</a></li><li><a href="#flexid">FLexID</a></li><li><a href="#gravity-earth">Gravity Earth</a></li></ul></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="explainer">Explainer</h2>
+<ul>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=uq0MQH4fAgc&amp;t=3s">What Is a Blockchain (SSI) Self-Sovereign Identity?</a> Blockchain Africa Conference 2022
+    <blockquote>
+      <p>What is the value of Self-Sovereign Identity (SSI) for organisations and citizens? What are the current initiatives and traction of SSI in South Africa? What are the economic benefits and the hurdles to SSI adoption in South Africa?</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.globalbusinessoutlook.com/digital-identity-can-transform-africas-economic-landscape/">Digital identity can transform Africa’s economic landscape</a> 2021-10-25 Global Business Outlook
+    <blockquote>
+      <p>In 2018, I was trying to open a bank account in my home town of Mutare, Zimbabwe, having just come back from the 1st world, I was under the impression it would take me at most 30 mins to an hour. I immediately realised I couldn’t provide most of the requirements such as my ‘Proof of Residence’ and many more. It turns out it took weeks and months for some to finish the entire process.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.africa.com/why-self-sovereign-digital-identity-is-a-game-changer-for-financial-inclusion-in-africa/">Why Self-Sovereign Digital Identity Is A Game Changer For Financial Inclusion In Africa</a> 2021-09-14 Africa.com
+    <blockquote>
+      <p>This builds on four years of Absa’s work with BankServ, other banks and multiple local and global forums, to set up an industry-wide governance framework for self-sovereign identity, including collaboration with the South African International Organisation for Standardisation (ISO) to develop documentation that covers the standards for SSDI management.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="government">Government</h2>
+
+<ul>
+  <li><a href="https://www.frontiersin.org/articles/10.3389/fbloc.2021.631640/full">3 Stages of a Pan-African Identity Framework for Establishing Self-Sovereign Identity With Blockchain</a> 2021-11-11 Solomon Darnell, Joseph Sevilla
+    <blockquote>
+      <p>Three stages have been identified as necessities to accomplish the development of this system before opening it further beyond the pan-African worldwide community. The three stages are defined by systems that allow for biometric/demographic registration (stage 1), interoperability and security hardening (stage 2), and biometric modality data analysis/organization/association (stage 3).</p>
+    </blockquote>
+  </li>
+  <li>[Real World] <a href="https://www.hyperledger.org/blog/2021/01/20/kiva-protocol-built-on-hyperledger-indy-ursa-and-aries-powers-africas-first-decentralized-national-id-system">Kiva Protocol, Built on Hyperledger Indy, Ursa and Aries, Powers Africa’s First Decentralized National ID system</a> 2021-01-20
+    <blockquote>
+      <p>Since the launch of Kiva Protocol, Davie says global regulators have made significant progress in terms of how they are considering digital identity and eKYC verifications. He sees a global movement towards user-owned and -controlled data, better privacy, and more universal access
+<em>[…]</em>
+As of today, Kiva is focusing on building additional ecosystem applications and services to make it easier for all stakeholders to access and use Kiva Protocol. Much of this is being contributed upstream into the Hyperledger Indy and Aires projects, with the remaining components hosted in Kiva’s repository.</p>
+    </blockquote>
+    <ul>
+      <li>[Real World] <a href="https://www.hyperledger.org/wp-content/uploads/2021/01/Hyperledger_CaseStudy_Kiva_Printable.pdf">Case Study: Kiva launches Africa’s first national decentralized ID system with Hyperledger Indy</a> 2021-01
+        <blockquote>
+          <p>Kiva, a US-based nonprofit organization focused on financial inclusion, has built Kiva Protocol to help enable universal financial access. In 2019, Sierra Leone, a West African nation of about 7 million, launched the National Digital Identity Platform (NDIP) that used Kiva Protocol to enable fast, cheap, and secure identity verification for its citizens.</p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="power---inclusion">Power - Inclusion</h2>
+<ul>
+  <li><a href="https://it-online.co.za/2021/09/10/self-sovereign-digital-identity-is-a-game-changer-for-african-financial-inclusion/">Self-sovereign digital identity is a game changer for African financial inclusion</a> ITOnline 2021-09-10
+    <blockquote>
+      <p>Much like cell phone technology and the internet, the true power of SSDI will only be unleashed when it is embedded across all sectors of society, from education and medical care to telecommunications and retail. And that will require all role players – government bodies, regulators, service providers, public and private agencies – to take up the SSDI baton and become part of the change.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=B1Yr9hwMm8s">At the Crossroads of Digital Imperialism &amp; Digital Development</a> 2021-05-29 Berkman Klein
+    <blockquote>
+      <p>This panel examines questions of unequal power in the global digital economy (through U.S corporations, China, and Brussels (i.e. dominance through legal rules), and the ways in which this manifests itself in developing countries in Africa.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="business">Business</h2>
+<ul>
+  <li><a href="https://www.gleif.org/en/newsroom/blog/number-three-in-the-financial-inclusion-interview-series-the-vital-role-of-lei-issuers-in-facilitating-wider-adoption-of-globally-recognized-business-identities-across-africa-with-alberta-abbey-from-lseg-london-stock-exchange-group">The vital role of LEI Issuers in facilitating wider adoption of globally recognized business identities across Africa with Alberta Abbey from London Stock Exchange Group</a> 2021-10-13 GLEIF
+    <blockquote>
+      <p>We spoke with Alberta Abbey, LEI Analyst, Data &amp; Analytics, LSEG to discuss how this initiative will support wider adoption of globally recognized business identities, in the form of Legal Entity Identifiers (LEIs), across Africa and how to encourage more entities across Africa to obtain LEIs.</p>
+    </blockquote>
+  </li>
+  <li>[Video, Real World] <a href="https://www.youtube.com/watch?v=zpLzQk9fmnM">Panel: Self-Sovereign Identity for Economic Empowerment: Lessons from Africa</a> 2021-06-14 HGF2021
+    <blockquote>
+      <p>Self-sovereign identity (SSI) is a movement that claims digital identity should be just as legitimate and nuanced as a person’s human identity, while being accessible to all, privacy-preserving, and not reliant on a single government or corporation. The worldwide adoption of SSI has the potential to increase people’s access to goods and services, including for disadvantaged individuals that do not have a government ID. Kiva, DIDx, and Farmer Connect are all using SSI backed by Hyperledger Aries/Indy to economically empower people in Africa. The panellists will specifically focus on the successes and obstacles that each of them have faced in helping to bring SSI to Africa. The speakers will share insights from each of their respective projects which are diverse in industry and use case.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="african-ssi-initiatives">African SSI Initiatives</h2>
+
+<ul>
+  <li><a href="https://findbiometrics.com/remittances-specialist-leverages-biometric-onboarding-via-onfido-050604/">Remittances Specialist Leverages Biometric Onboarding Via Onfido</a> 2022-05-06 Find Biometrics
+    <blockquote>
+      <p>Chipper Cash has become the latest financial institution to adopt Onfido’s identity verification technology. The company currently operates one of the largest money transfer platforms in Africa, and is hoping</p>
+    </blockquote>
+  </li>
+  <li><a href="https://northernblock.io/yoma-social-inclusion-for-african-youth/">Creating Social Inclusion Opportunities for African Youth with Lohan Spies</a> 2021-09-14 Northern Block
+    <blockquote>
+      <p><a href="https://www.yoma.foundation/">Yoma</a> is a youth marketplace that is incubated by UNICEF in Africa.  It enables youth to Learn (through Yoma learning partners), Earn (through employers in the ecosystem) and Thrive by completing Impact challenges (e.g., plastic clean-up, reforestation) that benefit our environment and communities.  All of this is enabled through a SSI-enabled digital CV and personalized learning environment.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="cardanos-ethiopia-project">Cardano’s Ethiopia Project</h3>
+
+<ul>
+  <li><a href="https://www.cigionline.org/articles/why-a-little-known-blockchain-based-identity-project-in-ethiopia-should-concern-us-all/">Why a Little-Known Blockchain-Based Identity Project in Ethiopia Should Concern Us All</a> 2021-12-07 Cigi Online
+    <blockquote>
+      <p>Hoskinson, whose ultimate ambition is to build a <a href="https://www.yahoo.com/now/cardano-plans-build-national-id-073828481.html">national ID system for Ethiopia</a>, recently struck a deal with Ethiopia’s Ministry of Education for a blockchain-based ID pilot involving five million secondary school students. As he <a href="https://iohk.io/en/blog/posts/2021/04/28/decentralized-identity-on-the-blockchain-is-the-key-to-iohks-vision-for-africa/">describes</a> it, “Every one of these students will have a digital identity — a DID. That DID carries with it information — metadata — that will travel with them throughout their academic life, and follow them into the economic world.”</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.yahoo.com/now/cardano-plans-build-national-id-073828481.html">Cardano plans to build national ID blockchain system in Ethiopia</a> 2021-08-20 Yahoo
+    <blockquote>
+      <p>“We’ve got about a million people onboarded,” he said. “It’s K through 12, and we’re going to do the first launch I think, sometime in September or October.” “It’s our intention to compete amongst others for the whole national ID system, which is about 110 million people.” In relation to the ongoing conflict in northern Ethiopia’s, the ADA founder was quick to defend the project’s continued assistance to the Ethiopian government.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://allafrica.com/stories/202108190100.html">Ethiopia: Innovation - Here’s What Cardano (ADA) Has Been Up to With the Ethiopia Project</a> 2021-08-19
+    <blockquote>
+      <p>“The vision of the company is to improve the systems of the world for everyone everywhere, and the places that need better systems aren’t necessarily Berlin or New York City. So you have to go to places that are a little more difficult, and you have to be very careful as you do it.”</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="diwala">Diwala</h3>
+
+<ul>
+  <li><a href="https://www.diwala.io/">Diwala</a>
+    <blockquote>
+      <p>Diwala is a SaaS platform that allows our customers to hold, verify, and issue any digital credential in the world. Built to enable access and optimize data integrity.</p>
+
+      <p>Our mission is to build an ecosystem of digital inclusivity by enabling easy issuance and verification of credentials. To enable access, build trust, and optimize how we work.</p>
+
+      <p>We are a fully remote, diverse, and skilled team, with members from Uganda, Kenya, Nigeria, Congo Brazzaville, Norway, Egypt, Trinidad and Tobago, Sri Lanka, and India, 9 nationalities altogether.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.diwala.io/post/the-story-of-diwala">The Story of Diwala</a>
+    <blockquote>
+      <p>Thea Sommerseth Myhren had heard about this opportunity and gathered some of her connections to form a team that would take on the challenge. All together, we were 9 people from various backgrounds ranging from blockchain, front-end, humanitarian development, programming, economy, graphic, interaction &amp; human centered focused design.</p>
+
+      <p>After 36 hours of intense brainstorming, discussing, hacking, designing and hundreds of post its later the Diwala concept was born and presented to the judges. We were so happy when they announced the top 3 winning solutions; Diwala ,Vipicash and Digital Cash Grab Bag!</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="flexid">FLexID</h3>
+<ul>
+  <li><a href="https://techcrunch.com/2022/05/26/zimbabwe-flexid-algorand-funding-decentralized-identity/">FlexID gets Algorand funding to offer self-sovereign IDs to Africa’s unbanked</a> 2022-05-26 TechCrunch
+    <blockquote>
+      <p>There’s a general conception that increasing access to financial services in a country leads to improvement in people’s economic welfare. And that’s what the Zimbabwean government sought to accomplish when it introduced a <a href="https://www.rbz.co.zw/index.php/financial-stability/financial-inclusion/financial-inclusion-strategy">financial inclusion scheme from 2016 to 2020</a>.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.techzim.co.zw/2022/05/local-digital-identity-startup-flexid-receives-funding-from-algorand-foundation/">Local digital identity startup FlexID receives funding from Algorand Foundation</a> 2022-05 TechZim
+    <blockquote>
+      <p>Zimbabwean founded blockchain start-up, <a href="https://www.flexfintx.com/">FlexID Technologies</a> (formerly FlexFinTx), has signed a Simple Agreement For Equity (SAFE) with the <a href="https://www.algorand.com/">Algorand Foundation</a>, to further develop and scale their Self Sovereign Identity (SSI) platform</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="gravity-earth">Gravity Earth</h3>
+<ul>
+  <li><a href="https://medium.com/gravity-earth/q-a-with-gravitys-lead-engineer-fran%C3%A7ois-gu%C3%A9rin-babb3659be86">Q&amp;A with Gravity’s lead engineer: François Guérin</a></li>
+</ul>
+
+<p>As the Lead Developer, a big part of my role is to build Gravity’s decentralized identity protocol and blockchain architecture on Tezos.</p>
+<ul>
+  <li><a href="https://medium.com/gravity-earth/gravitys-decentralized-identity-protocol-built-on-tezos-to-power-digid-project-in-kenya-a85069f2a027">Gravity’s Decentralized Identity Protocol, Built on Tezos, To Power DIGID Project in Kenya</a></li>
+</ul>
+
+<p>This month, Gravity joined some of the largest international NGOs in the world to launch the <a href="https://hiplatform.org/digid">Dignified Identities in Cash Programming (DIGID)</a> project in Kenya. The goal of this project is to help the Kenya Red Cross leverage Gravity’s decentralized identity protocol on Tezos to provide much-needed cash transfers to vulnerable Kenyan populations.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#africa" class="page__taxonomy-item p-category" rel="tag">Africa</a><span class="sep">, </span>
+    
+      <a href="/tags/#didx" class="page__taxonomy-item p-category" rel="tag">DIDx</a><span class="sep">, </span>
+    
+      <a href="/tags/#diwala" class="page__taxonomy-item p-category" rel="tag">Diwala</a><span class="sep">, </span>
+    
+      <a href="/tags/#farmer-connect" class="page__taxonomy-item p-category" rel="tag">Farmer Connect</a><span class="sep">, </span>
+    
+      <a href="/tags/#flexid" class="page__taxonomy-item p-category" rel="tag">FlexID</a><span class="sep">, </span>
+    
+      <a href="/tags/#gleif" class="page__taxonomy-item p-category" rel="tag">GLEIF</a><span class="sep">, </span>
+    
+      <a href="/tags/#gravity-earth" class="page__taxonomy-item p-category" rel="tag">Gravity Earth</a><span class="sep">, </span>
+    
+      <a href="/tags/#indy" class="page__taxonomy-item p-category" rel="tag">Indy</a><span class="sep">, </span>
+    
+      <a href="/tags/#kiva" class="page__taxonomy-item p-category" rel="tag">Kiva</a><span class="sep">, </span>
+    
+      <a href="/tags/#lei" class="page__taxonomy-item p-category" rel="tag">LEI</a><span class="sep">, </span>
+    
+      <a href="/tags/#onfido" class="page__taxonomy-item p-category" rel="tag">Onfido</a><span class="sep">, </span>
+    
+      <a href="/tags/#policy" class="page__taxonomy-item p-category" rel="tag">Policy</a><span class="sep">, </span>
+    
+      <a href="/tags/#real-world" class="page__taxonomy-item p-category" rel="tag">Real World</a><span class="sep">, </span>
+    
+      <a href="/tags/#yoma" class="page__taxonomy-item p-category" rel="tag">Yoma</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#government" class="page__taxonomy-item p-category" rel="tag">Government</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-27">June 27, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Africa+and+Self+Sovereign+Identity%20https%3A%2F%2Fdecentralized-id.com%2Fgovernment%2Fafrica%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fgovernment%2Fafrica%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fgovernment%2Fafrica%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fgovernment%2Fafrica%2F&title=Africa+and+Self+Sovereign+Identity" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/application/travel/" class="pagination--pager" title="Travel and Self Sovereign Identity
+">Previous</a>
+    
+    
+      <a href="/application/covid-19/" class="pagination--pager" title="Covid-19, Vaccine Passports, Health Credentials, and Self Sovereign Identity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

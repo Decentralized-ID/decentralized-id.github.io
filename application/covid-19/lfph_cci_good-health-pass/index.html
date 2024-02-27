@@ -1,0 +1,976 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>LFPH and Covid-19: CCI and Good Health Pass |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Linux Foundation Public Health’s response to the Covid-19 pandemic">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="LFPH and Covid-19: CCI and Good Health Pass">
+<meta property="og:url" content="https://decentralized-id.com/application/covid-19/lfph_cci_good-health-pass/">
+
+
+  <meta property="og:description" content="Linux Foundation Public Health’s response to the Covid-19 pandemic">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="LFPH and Covid-19: CCI and Good Health Pass">
+  <meta name="twitter:description" content="Linux Foundation Public Health’s response to the Covid-19 pandemic">
+  <meta name="twitter:url" content="https://decentralized-id.com/application/covid-19/lfph_cci_good-health-pass/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2021-04-17T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-18T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/application/covid-19/lfph_cci_good-health-pass/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="LFPH and Covid-19: CCI and Good Health Pass">
+    <meta itemprop="description" content="After initial success with deploying exposure notification apps, LFPH started to host CCI in December 2020 to advance the use of Verifiable Credentials (VCs) and data and technical interoperability of VCs in the public health realm, starting with vaccine credentials.">
+    <meta itemprop="datePublished" content="2021-04-17T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-18T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/application/covid-19/lfph_cci_good-health-pass/" class="u-url" itemprop="url">LFPH and Covid-19: CCI and Good Health Pass
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          11 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#linux-foundation-public-health">Linux Foundation Public Health</a><ul><li><a href="#good-health-pass">Good Health Pass</a></li></ul></li><li><a href="#covid-credentials-initiative-cci">Covid Credentials Initiative (CCI)</a><ul><li><a href="#ecosystem">Ecosystem</a></li><li><a href="#explainer">Explainer</a></li><li><a href="#guidance">Guidance</a></li></ul></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="linux-foundation-public-health">Linux Foundation Public Health</h2>
+<ul>
+  <li><a href="https://www.lfph.io/2021/10/13/divoc/">Understanding the Global COVID Certificate Landscape</a> 2021-10-13 DIVOC
+    <blockquote>
+      <p>The DIVOC project is hosted and maintained by <a href="https://egov.org.in/">India’s eGov Foundation</a> and is available as an MIT-licensed open source software package DIVOC is also supported by various multilateral funding institutions, as well as a community of software contributors and adopters in various geographies. DIVOC’s verifiable COVID credentials have also been tested for interoperability with several consumer-health and locker applications globally; and DIVOC’s certificates from the adopter countries can now be scanned/read/ingested by these domestic and international applications.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.prnewswire.com/news-releases/linux-foundation-public-health-creates-the-global-covid-certificate-network-gccn-301307874.html">Linux Foundation Public Health creates the Global COVID Certificate Network (GCCN)</a> 2021-06-08 PRNewsWire
+    <blockquote>
+      <p>Linux Foundation Public Health (LFPH) today announces the launch of the Global COVID Certificate Network (GCCN) to facilitate the safe and free movement of individuals globally during the COVID pandemic. GCCN will establish a global trust registry network that enables interoperable and trustworthy exchanges of COVID certificates among countries for safe reopening and provide related technology and guidance for implementation. The effort is initially supported by Affinidi, AOKPass, Blockchain Labs, Evernym, IBM, Indicio.Tech, LACChain, Lumedic, Proof Market and ThoughtWorks, who have implemented COVID certificate or pass systems for governments and industries. LFPH will work with them to define and implement GCCN.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.lfph.io/2021/06/08/gccn/">Introducing the Global COVID Certificate Network (GCCN)</a> 2021-06-08 LFPH
+    <blockquote>
+      <p>As more and more governments adopt <a href="https://www.lfph.io/2021/10/12/global-covid-certificate-landscape/">major COVID certificate standards</a> to reopen borders, the travel industry is working hard to catch up on their technology to meet the evolving travel requirements. However, there is still no shortage of complaints from travelers about their cumbersome international travel experiences</p>
+    </blockquote>
+  </li>
+  <li><a href="https://docs.google.com/document/d/1hlR_2yp7EJQqYvxm8mNY-KNgwScTsClKDp6W6yw33Ic/edit?usp=sharing">ProofMarket/Medcreds Submission to LFPH</a> 2021-03-04
+    <blockquote>
+      <p>MedCreds is a reference implementation of the Governance Framework and Use-Cases that have been developed in the CCI community.</p>
+
+      <p>MedCreds is built on top of INDY and ARIES and is running on the SOVRIN Main Net. This is done through Trinsic (a third-party vendor)’s APIs. Trinsic agreed to document how to do this using the API’s on ARIES and devote an engineer to give instructions for how to use the open source code to run MedCreds.</p>
+
+      <p>MedCreds can be extended to support new credential schemas.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.lfph.io/wp-content/uploads/2021/02/LFPH-Calls-for-Coordination-of-Digital-Vaccination-Records-Using-Open-Standards.pdf">LFPH Calls for Coordination of Digital Vaccination Records Using Open Standards</a> 2021-02 LFPH
+    <blockquote>
+      <p>The CCI community collaborated with Linux Foundation Public Health to write a letter to the Biden Administration about how Verifiable Credentials could be used to support re-opening the economy.</p>
+
+      <p>“Some states and other countries have started to pilot this approach, as have various industries like film and aviation. But, the inconsistent use of standards and varying implementations have already led to confusion and public concern. An effort coordinated at the federal level would lead most quickly to uniform adoption and true inter-state and cross-domain interoperability.”</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="good-health-pass">Good Health Pass</h3>
+<ul>
+  <li><a href="https://indicio.tech/blog/implementing-the-good-health-passs-recommendations-with-cardea/">Implementing the Good Health Pass’s recommendations with Cardea</a> 2021-10-14 Indicio
+    <blockquote>
+      <p>Cardea, a full, open-source ecosystem for verifiable health credentials developed by Indicio and now a community-led project at LFPH, meets the major recommendations of the Good Health Pass and facilitates the goals of the Global COVID Certificate Network.</p>
+
+      <p>Good Health Pass Blueprint and the Global Covid Credentials Initiative by LFPH presented at the <a href="https://us02web.zoom.us/rec/play/Si6s-_rvMU7FuHW6QnJVxW47CFiotXDMWutkWMgePKdSWVhTYyADaldJhvzqOl1JPP297-lvSYXCDuk2.rMFee21Ba1fU6y2R?continueMode=true&amp;_x_zm_rtaid=dQ0WNpJPS2WF1QUlmxYwBQ.1624241159436.7617ddee4319249d32a108bb882dc0ec&amp;_x_zm_rhtaid=623">DIF Interop Working Group</a></p>
+    </blockquote>
+  </li>
+  <li><a href="https://humancolossus.foundation/blog/ujalo98s00b93gh7gqkuqd3lfj52xq-cn2ct">Linux Foundation Public Health introduces the Global COVID Certificate Network to operationalize the Good Health Pass Interoperability Blueprint</a> 2021-06-10 Human Colossus Foundation
+    <blockquote>
+      <p>Paul Knowles, Head of the Advisory Council at the Human Colossus Foundation, co-led the Standard Data Models and Elements drafting group, one of the nine interconnected GHPC drafting groups, to spearhead group recommendations on data elements, common models for data exchange, and semantic harmonization. The recommendations of that drafting group will help to enable data interoperability without putting any undue burden on existing health systems and workflows</p>
+    </blockquote>
+  </li>
+  <li><a href="https://id2020.medium.com/good-health-pass-collaborative-releases-draft-blueprint-for-digital-health-passes-in-advance-of-g7-68a48534f024">Good Health Pass Collaborative Releases Draft Blueprint for Digital Health Passes in Advance of G7 Summit</a> 2021-06-08 ID2020
+    <blockquote>
+      <p>The Blueprint — released today in draft form for a three-week period of stakeholder consultations and public comment — is intended to stimulate discussion at the G7 Summit, which will open Friday in Carbis Bay, Cornwall, UK.</p>
+
+      <p>For a high level view, check out the <a href="https://docs.google.com/presentation/d/1fM-EpIdLGdKniFjHR4ZhdgFA-HBSEmpMai8ljqti4Gw/edit">terminology deck</a> or the <a href="https://docs.google.com/presentation/d/1AibzpUh70UDJVapC2wlICz2voBAMxZLQ_jQOxZwF57Y/edit">slide deck</a> that was shared on webinars with the travel industry.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://iiw.idcommons.net/1F/_Dynamic_Disambiguation_and_Deconfliction_of_Complex_Access_Controls_from_Multiple_Verifiable_Sources">Dynamic Disambiguation and Deconfliction of Complex Access Controls from Multiple Verifiable Sources</a> 2021-05-06 Chris Buchanan
+    <blockquote>
+      <p>COVID-19, Good Health Pass Collaborative, Rules Engines, Verifiable Presentation Requests</p>
+
+      <p>The transition from contemporary access controls to SSI will need a metalanguage for access control rules in order to allow verifiers and holders to trust the transaction.  Not everyone will know how to write the complex branching and contextual rules logic that make up real life access controls.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://trustoverip.org/blog/2021/04/12/toip-foundation-hosts-the-interoperability-working-group-for-good-health-pass/">ToIP Foundation Hosts the Interoperability Working Group for Good Health Pass</a> 2021-04-12 TOIP
+    <blockquote>
+      <p>The nine drafting groups collaborating within the new Working Group are:</p>
+      <ol>
+        <li><a href="https://wiki.trustoverip.org/display/HOME/Paper+Based+Credentials+Drafting+Group">Paper Based Credentials</a> will define how a paper-based alternative can be created for any digital health pass so access will be available to all.</li>
+        <li><a href="https://wiki.trustoverip.org/display/HOME/Consistent+User+Experience+Drafting+Group">Consistent User Experience</a> will specify the common elements required so that individuals can easily, intuitively, and safely use digital health pass implementations.</li>
+        <li><a href="https://wiki.trustoverip.org/display/HOME/Standard+Data+Models+and+Elements+Drafting+Group">Standard Data Models and Elements</a> will determine the core data items needed across all digital health pass implementations for both COVID-19 testing and vaccinations.</li>
+        <li><a href="https://wiki.trustoverip.org/display/HOME/Credential+Formats%2C+Signatures%2C+and+Exchange+Protocols+Drafting+Group">Credential Formats, Signatures, and Exchange Protocols</a> will specify the requirements for technical interoperability of Good Health Pass implementations.</li>
+        <li><a href="https://wiki.trustoverip.org/display/HOME/Security%2C+Privacy%2C+and+Data+Protection+Drafting+Group">Security, Privacy, and Data Protection</a> will define the safety requirements for Good Health Pass compliant implementations.</li>
+        <li><a href="https://wiki.trustoverip.org/display/HOME/Trust+Registries+Drafting+Group">Trust Registries</a> will specify how verifiers can confirm that a digital health pass has been issued by an authorized issuer.</li>
+        <li><a href="https://wiki.trustoverip.org/display/HOME/Rules+Engines+Drafting+Group">Rules Engines</a> will define how digital health pass apps can access different sources of policy information to determine what test or vaccination status is needed for a specific usage scenario.</li>
+        <li><a href="https://wiki.trustoverip.org/display/HOME/Identity+Binding+Drafting+Group">Identity Binding</a> will specify the options for verifying that the holder of a digital health pass is the individual who received the test or vaccination credential.</li>
+        <li><a href="https://wiki.trustoverip.org/display/HOME/Governance+Framework+Drafting+Group">Governance Framework</a> will define the overall set of policies that must be followed for an implementation to qualify as Good Health Pass compliant.</li>
+      </ol>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="covid-credentials-initiative-cci">Covid Credentials Initiative (CCI)</h2>
+<blockquote>
+  <p>COVID-19 Credentials Initiative (CCI) is a part of Linux Foundation Public Health (LFPH), an initiative by Linux Foundation to build, secure, and sustain open-source software to help public health authorities (PHAs) combat COVID-19 and future epidemics. After initial success with deploying exposure notification apps, LFPH started to host CCI in December 2020 to advance the use of Verifiable Credentials (VCs) and data and technical interoperability of VCs in the public health realm, starting with vaccine credentials.</p>
+</blockquote>
+
+<p><a href="https://www.covidcreds.com/">Website</a> • <a href="https://medium.com/@cci.2020">Blog</a> • <a href="https://twitter.com/CCI_CovidCreds">Twitter</a> • <a href="https://www.linkedin.com/company/covidcreds/">Linkedin</a> • <a href="https://covidcreds.groups.io/">Forum</a></p>
+
+<ul>
+  <li><a href="https://iiw.idcommons.net/1C/_COVID_Credentials_Initiative_Update/Overview">COVID Credentials Initiative Update/Overview</a> 2021-05-06 <a href="https://docs.google.com/presentation/d/11K027LlitWljJu_XNTztqc6BGvhsD8JBX5OkavLEEMA/">presentation</a>	Lucy Yang, Kaliya Young, John Walker
+    <blockquote>
+      <p>CCI is an open global community collaborating to enable the use of W3C Verifiable Credentials (VCs) and other related privacy-preserving technologies for public health purposes.</p>
+
+      <p>CCI is hosted by Linux Foundation Public Health (LFPH), a project of the Linux Foundation that works with public health authorities and their key stakeholders to ensure that investments into public health technology meet common needs and have maximum impact.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://iiw.idcommons.net/10C/_COVID_Credentials_Initiative:_Challenges_%26_Learning">CCI: Challenges and Learning</a> 2021-05-06 <a href="https://docs.google.com/presentation/d/11K027LlitWljJu_XNTztqc6BGvhsD8JBX5OkavLEEMA/edit?usp=sharing">presentation</a>
+    <blockquote>
+      <p>Solution assumption with the Good Health Pass is revoking is not necessary as VCs are short lived (solution to invalid credential). Issuers will re-issue vs. revoke</p>
+
+      <p>In many cases, labs are providing incorrect information in vaccination records, which need to be re-issued</p>
+      <ul>
+        <li>Still need to notify the holder that their (current VC) is invalid and they need to take action to resolve</li>
+        <li>Issuers asking what if we make a mistake – (re-issue)</li>
+        <li>Holders having problems findin there vaccination VC</li>
+        <li>Many of the unresolved issues are governance/policy related (for which the “health authorities”) have not worked out the details</li>
+        <li>Policy providers are applying the brakes through in-grained bureaucracy to produce a perfect standard for their jurisdiction vs. rapidly evolving a common standard and “usable solution” in the short term.</li>
+        <li>Unclear on how to get VC and underlying data into the hands of holders, particularly as holders don’t have the technology and skills to manage their health data.</li>
+        <li>Data privacy is an issue across each of the implementers and users of the Issuer, Holder and Verifier roles. Lack of common understanding and agreement on how and who owns and controls the data</li>
+        <li>WHO standard will likely be adopted in the Global South (hemisphere)</li>
+        <li>GHP looking to paint a forward looking common picture, including interim solutions (iterate standards)</li>
+        <li>The number of players (and their levels of understanding/expertise and agreement with the current direction) alone makes consensus very difficult</li>
+        <li>Paper credentials have been getting consensus on interim solutions.</li>
+        <li>W3C and WHO are great candidates.</li>
+        <li>Affinidi is making a universal verifier application (https://www.affinidi.com/)</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://cci-2020.medium.com/cci-has-joined-linux-foundation-public-health-607e1af1b2b8">CCI has joined Linux Foundation Public Health!</a> 2021-01-13
+    <blockquote>
+      <p>When the COVID-19 Credentials Initiative (CCI) was formed in April 2020, we were a self-organizing group of companies and individuals, held together by a few mailing lists and working groups, to explore how Verifiable Credentials (VCs), an open standard and an emerging technology, could be used for the public health crisis unfolding with COVID-19. Recognizing our limits early on as an informal group, we quickly pivoted from developing a solution together to supporting each other to build for their local contexts. Over the course of nine months, we have seen over 20 projects present their work to the CCI community and developed an MVP governance framework that can be adapted to specific COVID-19 use cases.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1z0MaGrb-Py7V3ZO4AnmYMHsXNgTmLhVocyaX7ySQ5mI/edit#gid=1671625933">CCI Knowledge Base</a> 2021-03-01
+    <blockquote>
+      <p>As our community continues to grow and the pandemic situation keeps evoloving, this CCI Knowledge Base serves as a repository of ongoing COVID-19-related news, topics, researches and resources which are deem relevant to our community and digital identity technology. It aims to provide an up-to-date database for our CCI members to access relevant information quickly in one place whenever they need it, e.g. doing market research, developing their projects or simply keeping themseleves updated on the news.</p>
+
+      <p>If you’d like to submit relevant news or articles for the database, please go to <a href="https://bit.ly/2JfKbpf.">https://bit.ly/2JfKbpf.</a></p>
+    </blockquote>
+  </li>
+  <li><a href="https://wiki.trustoverip.org/display/HOME/CCI+GF+Task+Force">CCI GF Task Force</a> 2020-11-24
+    <blockquote>
+      <p>This page describes the COVID-19 Credentials Initiative Governance Framework Task Force (the “CCI GF TF”). It was created by Sankarshan Mukhopadhyay and Chris Raczkowski.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://cci-2020.medium.com/hello-world-from-the-covid-19-credentials-initiative-6d45534c4b3a">Hello World from the COVID-19 Credentials Initiative</a> 2020-06-25 CCI 2020
+    <blockquote>
+      <p>The COVID-19 pandemic has, in a few months’ time, taken the lives of almost half a million people worldwide and brought economies into lockdown globally. While many are struggling with the effects of social distancing, financial distress, or fear of contracting the virus, here at the COVID-19 Credentials Initiative (CCI), nearly 300 individuals from 100 organizations have united around a cause worthy of our collective efforts: supporting projects that deploy privacy-preserving Verifiable Credentials (VCs) to mitigate the spread of COVID-19 and strengthen our societies and economies.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="ecosystem">Ecosystem</h3>
+<ul>
+  <li><a href="https://medium.com/@medcreds/medcreds-conforms-to-the-cci-governance-framework-eb13256a7f31">Medcreds Conforms to the CCI Governance Framework</a> 2020-06-24 Medcreds
+    <blockquote>
+      <p>One of the important efforts by the CCI has been completed by the <a href="https://docs.google.com/document/d/1L7V2mXWUO5fjiwJODyq_wMvkL9EDSf3m7emLxLpvzTk/edit#">Rules and Governance Workstream</a>. This workstream is in charge of defining the rules of how VC technology is to be used, as well as the algorithmic and human trust mechanisms to ensure sensitive personal data remains secure, private, and tamper-proof.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.zerionsoftware.com/big-data/covid-credentials">Zerion Joins Covid Credentials Initiative</a> 2020-04-16 Zerion Software
+    <blockquote>
+      <p>As such, Zerion Software is proud to announce our participation in the Covid Credentials Initiative. This global, cross-sector community of organizations committing to finding ways to use digital identities as a way to mitigate the spread of COVID-19 while rebooting public trust.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.ledgerinsights.com/sovereign-identity-covid-19-immunity-passports-credentials/">60 strong Self Sovereign Identity group targets COVID-19 immunity passports, credentials</a> 2020-04-14 LedgerInsights
+    <blockquote>
+      <p>The COVID Credentials initiative (CCI) has launched to use digital identity to address the spread of COVID-19. The aim is to develop “immunity passports” and much more. The group includes individuals who are part of Evernym, ID2020, uPort, Dutch research organization TNO, Microsoft, ConsenSys Health and consultants Luxoft. So far, at least 69 have signed up.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="explainer">Explainer</h3>
+<ul>
+  <li><a href="https://cci-2020.medium.com/carrying-your-covid-19-credentials-in-a-physical-wallet-cafe26bfbbe4">Carrying Your COVID-19 Credentials in a Physical “Wallet”</a> 2020-10-30 CCI
+    <blockquote>
+      <p>We are all painfully aware of the economic and social restrictions imparted on us as a result of the COVID-19 pandemic. In order to reopen offices, restaurants, local private and public facilities — and most importantly, international borders — will likely require a flexible, interoperable, and ubiquitous system that preserves individual agency and privacy. The COVID-19 Credentials Initiative (CCI) focuses its efforts on supporting technology projects that work to meet these requirements through the utilization of W3C compliant ‘Verifiable Credentials (VCs)’, a tamper-evident credential that has authorship that can be cryptographically verified.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://cci-2020.medium.com/the-covid-19-credentials-initiative-cci-b00c1d858ccb">Bringing emerging privacy-preserving technology to a public health crisis</a> 2020-10-02 CCI
+    <blockquote>
+      <p>We submitted this position statement to the “<a href="https://cci-2020.medium.com/the-covid-19-credentials-initiative-cci-b00c1d858ccb">Privacy &amp; Pandemics Workshop: Responsible Uses of Technology and Health Data During Times of Crisis — An International Tech and Data Conference</a>” by the Future of Privacy Forum. The aim is to, from two participants’ point of view, share an abbreviated case study of CCI and to highlight key challenges that arose in our efforts to responsibly use new privacy-preserving technologies to mitigate the spread of COVID-19. We wanted to share our submission with the CCI community and the public in the hope to invite some further discussions.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="guidance">Guidance</h3>
+
+<ul>
+  <li><a href="https://www.lfph.io/wp-content/uploads/2021/04/CCI-Summit-Summary-Report-From-Closed-to-Open.pdf">From Closed Loop Systems to Open World COVID Credentials Exchange</a> 2021-04 CCI Report
+    <blockquote>
+      <p>This summit, convened by CCI, was designed to beginarticulating a roadmap to get from closed loop systems to an open systemwhere it doesn’t matter if issuers, holders and verifiers are using the tool provided by the same solution provider as long as all solution providers are building on a certain common ground.The discussion focused on domestic reopening use cases using the US as the context.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://docs.google.com/document/d/1HwWUxMY2EynkWFrlNQqh8IF7rE_5aFn74ZreYq0IAYg/edit?usp=sharing">Response to WHO Interim Guidance for Development a Smart Vaccination Certificate</a> 2021-03</li>
+  <li><a href="https://docs.google.com/document/d/1y5vyLzsVUzhiFNcWHGHLVlQHnRad73q3F50a-8gr83Y/edit?usp=sharing">Response to Call for Evidence: UK Parliament Covid 19 Vaccine Certification</a> 2021-03
+    <blockquote>
+      <p>The Government has announced a review into introducing a Covid vaccine certificate system or “vaccine passports. The Committee has launched an inquiry to consider potential  ethical, legal and operational issues and the efficacy and appropriateness of a certificate system.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://docs.google.com/document/d/1ykUUDak47lYkUJeZvxs7FxDyy8bQ48FkF47IxMclppE/edit?usp=sharing">Response to Ada Lovelace Institute: Vaccine passports and COVID status apps: Call for Public Evidence</a> 2021-02-27 CCI Lucy Yang, Kaliya Young
+    <blockquote>
+      <p>Before responding to the questions, we want to point out that the use of the term “COVID-19 passports” is questionable as the word ‘passport’ is used for the identity and travel document issued by nation states to their citizens. Another reason to question the use of ‘passport’ is the fact that our passport data is stored or centralized by the nation state issuer. Centralized systems are notorious and can be a source of potential  data breaches and abuses.</p>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#cardea" class="page__taxonomy-item p-category" rel="tag">Cardea</a><span class="sep">, </span>
+    
+      <a href="/tags/#cci" class="page__taxonomy-item p-category" rel="tag">CCI</a><span class="sep">, </span>
+    
+      <a href="/tags/#consensys-health" class="page__taxonomy-item p-category" rel="tag">Consensys Health</a><span class="sep">, </span>
+    
+      <a href="/tags/#dutch-research" class="page__taxonomy-item p-category" rel="tag">Dutch Research</a><span class="sep">, </span>
+    
+      <a href="/tags/#evernym" class="page__taxonomy-item p-category" rel="tag">Evernym</a><span class="sep">, </span>
+    
+      <a href="/tags/#good-health-pass" class="page__taxonomy-item p-category" rel="tag">Good Health Pass</a><span class="sep">, </span>
+    
+      <a href="/tags/#id2020" class="page__taxonomy-item p-category" rel="tag">ID2020</a><span class="sep">, </span>
+    
+      <a href="/tags/#lfph" class="page__taxonomy-item p-category" rel="tag">LFPH</a><span class="sep">, </span>
+    
+      <a href="/tags/#linux-foundation" class="page__taxonomy-item p-category" rel="tag">Linux Foundation</a><span class="sep">, </span>
+    
+      <a href="/tags/#luxoft" class="page__taxonomy-item p-category" rel="tag">Luxoft</a><span class="sep">, </span>
+    
+      <a href="/tags/#medcreds" class="page__taxonomy-item p-category" rel="tag">MedCreds</a><span class="sep">, </span>
+    
+      <a href="/tags/#microsoft" class="page__taxonomy-item p-category" rel="tag">Microsoft</a><span class="sep">, </span>
+    
+      <a href="/tags/#sita" class="page__taxonomy-item p-category" rel="tag">SITA</a><span class="sep">, </span>
+    
+      <a href="/tags/#tno" class="page__taxonomy-item p-category" rel="tag">TNO</a><span class="sep">, </span>
+    
+      <a href="/tags/#uport" class="page__taxonomy-item p-category" rel="tag">uPort</a><span class="sep">, </span>
+    
+      <a href="/tags/#vaccine-credentials" class="page__taxonomy-item p-category" rel="tag">Vaccine Credentials</a><span class="sep">, </span>
+    
+      <a href="/tags/#who" class="page__taxonomy-item p-category" rel="tag">WHO</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#history" class="page__taxonomy-item p-category" rel="tag">History</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-18">June 18, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=LFPH+and+Covid-19%3A+CCI+and+Good+Health+Pass%20https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fcovid-19%2Flfph_cci_good-health-pass%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fcovid-19%2Flfph_cci_good-health-pass%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fcovid-19%2Flfph_cci_good-health-pass%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fcovid-19%2Flfph_cci_good-health-pass%2F&title=LFPH+and+Covid-19%3A+CCI+and+Good+Health+Pass" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/organizations/gleif/" class="pagination--pager" title="Global Legal Entity Identifier Foundation - GLEIF
+">Previous</a>
+    
+    
+      <a href="/resources/" class="pagination--pager" title="SSI Resources: Directories, Courses, Curated Lists, Blogs, Podcasts and more.
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

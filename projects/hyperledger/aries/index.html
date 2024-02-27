@@ -1,0 +1,933 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Hyperledger Aries |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="One of the architectural components of Indy is called an Agent. This is software that acts on behalf of an identity owner to communicate off-ledger with other Agents. As Agent work continued with the development of message encryption standards, extensible message typing, and common protocols, interest grew in applying these concepts and practices to systems based on other ledgers. It became clear that the right future for Agent work was to extract it from Indy project and add support for other ledger technologies to make that integration easier and more powerful. That work is now known as Hyperledger Aries.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Hyperledger Aries">
+<meta property="og:url" content="https://decentralized-id.com/projects/hyperledger/aries/">
+
+
+  <meta property="og:description" content="One of the architectural components of Indy is called an Agent. This is software that acts on behalf of an identity owner to communicate off-ledger with other Agents. As Agent work continued with the development of message encryption standards, extensible message typing, and common protocols, interest grew in applying these concepts and practices to systems based on other ledgers. It became clear that the right future for Agent work was to extract it from Indy project and add support for other ledger technologies to make that integration easier and more powerful. That work is now known as Hyperledger Aries.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Hyperledger Aries">
+  <meta name="twitter:description" content="One of the architectural components of Indy is called an Agent. This is software that acts on behalf of an identity owner to communicate off-ledger with other Agents. As Agent work continued with the development of message encryption standards, extensible message typing, and common protocols, interest grew in applying these concepts and practices to systems based on other ledgers. It became clear that the right future for Agent work was to extract it from Indy project and add support for other ledger technologies to make that integration easier and more powerful. That work is now known as Hyperledger Aries.">
+  <meta name="twitter:url" content="https://decentralized-id.com/projects/hyperledger/aries/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2020-01-07T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-12T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/projects/hyperledger/aries/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Hyperledger Aries">
+    <meta itemprop="description" content="One of the architectural components of Indy is called an Agent. This is software that acts on behalf of an identity owner to communicate off-ledger with other Agents. As Agent work continued with the development of message encryption standards, extensible message typing, and common protocols, interest grew in applying these concepts and practices to systems based on other ledgers. It became clear that the right future for Agent work was to extract it from Indy project and add support for other ledger technologies to make that integration easier and more powerful. That work is now known as Hyperledger Aries.">
+    <meta itemprop="datePublished" content="2020-01-07T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-12T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/projects/hyperledger/aries/" class="u-url" itemprop="url">Hyperledger Aries
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          7 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#about">About</a></li><li><a href="#ecosystem">Ecosystem</a></li><li><a href="#code">Code</a></li><li><a href="#development">Development</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="about">About</h2>
+<ul>
+  <li><a href="https://training.linuxfoundation.org/training/introduction-to-hyperledger-sovereign-identity-blockchain-solutions-indy-aries-and-ursa/">Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries &amp; Ursa</a> 2020-09-03 (LFS172)</li>
+  <li><a href="https://indicio.tech/hyperledger-aries-is-the-present-and-the-future-of-internet-scale-trusted-verifiable-credential-ecosystems/">Hyperledger Aries is the Present and the Future of Internet-Scale Trusted Verifiable Credential Ecosystems</a> 2022-09-13 Indicio
+    <blockquote>
+      <p>While no technology runs perfectly on every device, a signal strength of Aries, AnonCreds, and Indy is that they work on the vast majority of current devices and systems, including $35 smart phones and low powered IOT/embedded devices. They represent the most inclusive way into this technology, which is an important factor in their popularity.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.hyperledger.org/blog/2021/02/26/hyperledger-aries-graduates-to-active-status-joins-indy-as-production-ready-hyperledger-projects-for-decentralized-identity">Hyperledger Aries Graduates To Active Status</a> 2021-02-26
+    <blockquote>
+      <p>The TSC commended the Aries project during the meeting for the project’s highly diverse contributors. Achieving a high number of organizations contributing to a project at Hyperledger is often a challenge. Congratulations are due to those participating in and supporting the Aries Project.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@xragrawal/hyperledger-aries-to-enable-blockchain-agnostic-self-sovereign-identity-a7d523064112">Hyperledger Aries to Enable Blockchain-Agnostic, Self-Sovereign Identity</a> 2019-07-16 Ravikant Agrawal
+    <blockquote>
+      <p>In two years since the introduction of Hyperledger Indy in 2017 […] To clarify and keep track of new and existing peer-to-peer interaction code for secrets management, verifiable information exchange, and secure messaging across different blockchains and other distributed ledger technologies, Hyperledger Aries was set in motion.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://ssimeetup.org/hyperledger-aries-open-source-interoperable-identity-solutions-nathan-george-webinar-30/">Hyperledger Aries: Open Source Interoperable Identity Solution – Nathan George – Webinar 30</a> 2019-06-18 SSI Meetup
+    <blockquote>
+      <p>Aries will be the industry’s first implementation of interoperable open source wallets for digital credentials that use the DKMS (Decentralized Key Management System) architecture that Evernym pioneered under a contract with the U.S. Department of Homeland Security.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.evernym.com/blog/hyperledger-aries/">Hyperledger Aries: The Next Major Step Towards Interoperable SSI</a> 2019-05-30 Evernym
+    <blockquote>
+      <p>Aries was born out of the work on identity agents and identity wallets that began in the Hyperledger Indy project. As a company focused entirely on decentralized identity, Evernym was one of the original founders of the Sovrin Network and contributed the first code to the open source project Hyperledger Indy.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://sovrin.org/sovrin-proudly-contributes-to-hyperledger-aries/">Sovrin proudly contributes to Hyperledger Aries</a> 2019-05-21
+    <blockquote>
+      <p>In addition to being able to support more ledger technologies than just Indy, Aries can work with multiple ledgers at the same time. This allows Agents to use each ledger according to the unique power offered by each, instead of requiring anchoring to only one ledger. In the future, Agents will be able to integrate not only with the recently announced Ion DID method, but also Ethereum, Hyperledger Sawtooth, Bitcoin, Hyperledger Fabric, and others.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.hyperledger.org/blog/2019/05/14/announcing-hyperledger-aries-infrastructure-supporting-interoperable-identity-solutions">Announcing Hyperledger Aries, infrastructure supporting interoperable identity solutions!</a> 2019-05-14 Hyperledger Foundation
+    <blockquote>
+      <p>Hyperledger Aries, the newest Hyperledger project (the13th!), is a shared infrastructure of tools that enables the exchange of blockchain-based data, supports peer-to-peer messaging in various scenarios, and facilitates interoperable interaction between different blockchains and other distributed ledger technologies (DLTs).</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="ecosystem">Ecosystem</h2>
+<ul>
+  <li><a href="https://dev.to/jakubkoci/hyperledger-ssi-ecosystem-4j2p">Hyperledger SSI Ecosystem</a> 2022-08-16 Jakubkoci
+    <blockquote>
+      <p>There are three projects under the Hyperledger umbrella related to digital identity. Hyperledger Indy, Aries, and Ursa. […] describe their purpose and how they’re related to each other.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://northernblock.io/learnings-from-aries-indy-and-various-verifiable-credential-implementations/">Learnings from Aries, Indy and Various Verifiable Credential Implementations</a> 2022-08-13 Northern Block
+    <blockquote>
+      <ol>
+        <li>The various elements are evolving with the community to address specific use cases, and interdependencies between them are being eliminated to allow for ultimate flexibility and interoperability, where required.</li>
+        <li>Convergence seems to be happening across various elements of the ecosystem. Standards such as OIDC and mDL are all now in dialogue with W3C, AnonCreds, Aries, etc. Mobile is a predominant technology, just like the way laptops were once upon a time. To reduce consumer friction and drive adoption, convergence of all these different technologies is required inside a mobile environment</li>
+      </ol>
+    </blockquote>
+  </li>
+  <li><a href="https://www.idlab.org/en/aries-agent-test-harness-enhancement-project/">Aries Agent Test Harness Enhancement Project</a> 2022-07-27 IDLab
+    <blockquote>
+      <p>To enable interoperability in the Aries VC ecosystem, a number of standards are defined in the form of Request for Comments (RFC).  These RFCs are grouped into Aries Interop Profiles (AIP). These profiles, in turn, define which group of RFCs an agent has to conform to, in order to be labelled AIP compliant.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://indicio.tech/indicio-wins-british-columbia-code-with-us-challenge-to-upgrade-hyperledger-indy/">Indicio Wins British Columbia Code With Us Challenge to Upgrade Hyperledger Indy</a> 2022-01-18 Indicio
+    <blockquote>
+      <p>Most of Hyperledger Indy’s development occurred prior to the completion of the standard DID Specification by the W3C and, as a result, identifiers written to one network are currently not resolvable on other networks. A new did:indy DID Method will fix that and make it easier for decentralized identity products and services to interoperate across different Indy networks.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.ledgerinsights.com/sita-blockchain-decentralized-identity-for-pilot-license/">SITA uses blockchain, decentralized identity for pilot license verification</a> 2021-11-16 Ledgerinsights
+    <blockquote>
+      <p>Using the <a href="https://www.ledgerinsights.com/tag/self-sovereign-identity/">self-sovereign identity</a> solution Hyperledger Aries, almost everything works peer to peer between the license issuer and the pilot and between the pilot and the verifier.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://indicio.tech/blog/indicio-tech-advances-decentralized-identity-with-release-of-critical-open-source-technology/">Indicio.Tech releases Aries Mediator Agent</a> 2020-12-31
+    <blockquote>
+      <p>The Indicio Mediator Agent is the company’s latest contribution to Aries Cloud Agent Python (ACA-Py) and the Aries Toolbox. Following RFC 0211: Mediator Coordination, Indicio built on the work of the open-source community to make mediation interoperable and vendor agnostic. This expands the opportunities for mobile wallet implementations.
+<em>[…]</em>
+Indicio.tech is committed to becoming a resource-hub for decentralized identity, providing enterprise-grade open source tools to its clients and to the community. This includes the <a href="https://indicio.tech/private-networks/">Private Networks</a> build service, the <a href="https://indicio.tech/indicio-testnet/">Indicio TestNet</a>, and a variety of customizable <a href="https://indicio.tech/training-packages/">training programs</a>.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="code">Code</h2>
+
+<ul>
+  <li><a href="https://github.com/hyperledger/aries">hyperledger/aries</a>
+    <blockquote>
+      <p>Hyperledger Aries is infrastructure for blockchain-rooted, peer-to-peer interactions</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/hyperledger/aries-cloudagent-python">hyperledger/aries-cloudagent-python</a> 2023-06-10
+    <blockquote>
+      <p>Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation for building decentralized identity applications and services running in non-mobile environments.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/hyperledger/aries-framework-dotnet">hyperledger/aries-framework-dotnet</a> 2023-05-26</li>
+  <li><a href="https://github.com/hyperledger/aries-acapy-plugin-toolbox">hyperledger/aries-acapy-plugin-toolbox</a> 2023-03-07
+    <blockquote>
+      <p>Aries Cloud Agent - Python plugin for the Aries Toolbox</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/hyperledger/aries-staticagent-python">hyperledger/aries-staticagent-python</a> 2022-10-20</li>
+  <li><a href="https://github.com/hyperledger/aries-protocol-test-suite">hyperledger/aries-protocol-test-suite</a> 2021-02-20
+    <blockquote>
+      <p>Test Suite for testing protocol compliance of Aries Agents</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/TelegramSam/aries-toolbox">TelegramSam/aries-toolbox</a> 2020-09-09 - tool for interacting with Agents</li>
+</ul>
+
+<h2 id="development">Development</h2>
+<ul>
+  <li><a href="https://github.com/hyperledger/aries-rfcs">hyperledger/aries-rfcs</a></li>
+  <li><a href="https://github.com/hyperledger/indy-hipe/tree/master/text/0002-agents">hyperledger/indy-hipe/text/0002-agents</a> 2019-06-20 Hyperledger Foundation
+    <blockquote>
+      <ul>
+        <li>A mobile app that Alice uses to manage credentials and to connect to others is an agent for Alice.</li>
+        <li>A cloud-based service that Alice uses to expose a stable endpoint where other agents can talk to her is an agent for Alice.</li>
+        <li>A server run by Faber College, allowing it to issue credentials to its students, is an agent for Faber.</li>
+      </ul>
+
+      <p>Having a tight definition of an agent may not matter in all cases. However, it is important when we are trying to understand interoperability goals. We want agents to be able to interact with one another. Does that mean they must interact with every piece of software that is even marginally agent-like? Probably not.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://training.linuxfoundation.org/training/becoming-a-hyperledger-aries-developer-lfs173/">Becoming a Hyperledger Aries Developer</a> Linux Foundation
+    <blockquote>
+      <p>Learn how to develop blockchain-based production-ready identity applications with Hyperledger Aries in this free course.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/hyperledger/aries-cloudagent-python/blob/main/docs/GettingStartedAriesDev/README.md">Becoming an Indy/Aries Developer</a> 2023-02-22
+    &gt; Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation for building decentralized identity applications and services running in non-mobile environments.</li>
+  <li><a href="https://www.hyperledger.org/blog/2022/07/06/introducing-hyperledger-aries-framework-javascript-0-2-0">Introducing Hyperledger Aries Framework JavaScript 0.2.0</a> 2022-07-06 Hyperledger
+    <blockquote>
+      <p>The new Hyperledger Aries Framework JavaScript release (0.2.0) contains some incredible steps forward. Especially in our goal to make the framework AIP 2.0 compliant. AIP 2.0 compliance will not only ensure the framework supports the latest standards and protocols, but it will also greatly increase interoperability and make it more useful outside of the Hyperledger Indy ecosystem.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.hyperledger.org/blog/2021/12/06/hyperledger-mentorship-spotlight-hyperledger-aries-integration-to-support-fabric-as-blockchain-ledger">Hyperledger Mentorship Spotlight: Hyperledger Aries Integration to Support Fabric as Blockchain Ledger</a> 2021-12-06
+    <blockquote>
+      <p>The Hyperledger Mentorship Program is a structured hands-on learning opportunity for new developers who may otherwise lack the opportunity to gain exposure to Hyperledger open source development and entry to the technical community.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.hyperledger.org/blog/2021/11/03/the-pathway-to-becoming-a-hyperledger-maintainer">The Pathway to Becoming a Hyperledger Maintainer</a> 2021-11-03
+    <blockquote>
+      <p>In this blogpost I’m going to share what it’s like to be a maintainer for the Hyperledger Aries project. You’ll learn how you can start contributing and maybe even set yourself on a path to becoming a maintainer.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0430-machine-readable-governance-frameworks/README.md">0430 machine readable governance frameworks</a> 2021-10-20
+    <blockquote>
+      <p>Explains how governance frameworks are embodied in formal data structures, so it’s possible to react to them with software, not just with human intelligence.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://rangesh.medium.com/setting-up-mediator-agent-in-ubuntu-net-core-service-in-linux-box-b874bb409eed">Setting up Mediator Agent in Ubuntu — (.Net Core service in Linux Box)</a> 2021-08-04 Rangesh
+    <blockquote>
+      <p>In a Self Sovereign Environment supported by Hyperledger Indy / Aries agent framework, Mediator Agent is one of the essential components that acts as postman service between Issuer /Verifier Aries Agent and Mobile Agent.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://aries-cloud-agent-python.readthedocs.io/en/latest/">Aries Cloud Agent Python Code Documentation</a> 2021
+    <blockquote>
+      <p>Hyperledger Aries Cloud Agent Python (ACA-Py) is a foundation for building decentralized identity applications and services running in non-mobile environments.</p>
+
+      <p>This is the Read The Docs site for the Hyperledger Aries Cloud Agent Python. This site contains only the ACA-Py docstrings documentation extracted from the Python Code. For other documentation, please consult the links in the Readme for the ACA-Py GitHub Repo.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/global-id/globalid-shares-ssi-code-at-the-internet-identity-workshop-446debec43e7">GlobaliD releases new open source applications</a> 2020-10-30
+    <blockquote>
+      <p>They open source their open-sourced iOS and Android native Aries frameworks and donated them to the Hyperledger Aries project.</p>
+
+      <p>They also shared their Dynamic Governance API using GlobaliD Groups.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://aries.js.org/guides/0.4/tutorials">Tutorials</a>  Aries JavaScript Docs
+    <blockquote>
+      <p>First we’re going to create a holder Agent, this will be the Agent that receives the membership credential. During their life, the holder will collect many different verifiable credentials. Memberships, ID-cards, even purchasing records.</p>
+    </blockquote>
+  </li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#aries" class="page__taxonomy-item p-category" rel="tag">Aries</a><span class="sep">, </span>
+    
+      <a href="/tags/#bitcoin" class="page__taxonomy-item p-category" rel="tag">Bitcoin</a><span class="sep">, </span>
+    
+      <a href="/tags/#blockchain" class="page__taxonomy-item p-category" rel="tag">Blockchain</a><span class="sep">, </span>
+    
+      <a href="/tags/#dkms" class="page__taxonomy-item p-category" rel="tag">DKMS</a><span class="sep">, </span>
+    
+      <a href="/tags/#indy" class="page__taxonomy-item p-category" rel="tag">Indy</a><span class="sep">, </span>
+    
+      <a href="/tags/#verifiable-organizations-network" class="page__taxonomy-item p-category" rel="tag">Verifiable Organizations Network</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#open-source-projects" class="page__taxonomy-item p-category" rel="tag">Open Source Projects</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-12">June 12, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Hyperledger+Aries%20https%3A%2F%2Fdecentralized-id.com%2Fprojects%2Fhyperledger%2Faries%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fprojects%2Fhyperledger%2Faries%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fprojects%2Fhyperledger%2Faries%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fprojects%2Fhyperledger%2Faries%2F&title=Hyperledger+Aries" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/government/europe/eu/eidas/" class="pagination--pager" title="eIDAS - European Electronic Identification and Trust Services
+">Previous</a>
+    
+    
+      <a href="/web-standards/blockcerts/" class="pagination--pager" title="Blockcerts
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

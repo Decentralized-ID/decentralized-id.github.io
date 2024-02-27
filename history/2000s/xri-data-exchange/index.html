@@ -1,0 +1,1083 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>XDI (XRI Data Interchange) |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="XDI is a graph-based data model. This means that all data is expressed using nodes and arcs in a graph. At a minimum, a graph consists of a single node, called the common root node.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="XDI (XRI Data Interchange)">
+<meta property="og:url" content="https://decentralized-id.com/history/2000s/xri-data-exchange/">
+
+
+  <meta property="og:description" content="XDI is a graph-based data model. This means that all data is expressed using nodes and arcs in a graph. At a minimum, a graph consists of a single node, called the common root node.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="XDI (XRI Data Interchange)">
+  <meta name="twitter:description" content="XDI is a graph-based data model. This means that all data is expressed using nodes and arcs in a graph. At a minimum, a graph consists of a single node, called the common root node.">
+  <meta name="twitter:url" content="https://decentralized-id.com/history/2000s/xri-data-exchange/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2019-03-15T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2020-12-01T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/history/2000s/xri-data-exchange/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li>
+</ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp" alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources &amp; Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="XDI (XRI Data Interchange)">
+    <meta itemprop="description" content="XDI is a technology for modeling, storing, and manipulating data.It fits into a similar category of technologies as JSON, XML and RDF, but also has a number of properties that distinguishes it.XDI is a graph-based data model. This means that all data is expressed using nodes and arcs in a graph. At a minimum, a graph consists of a single node, called the common root node.">
+    <meta itemprop="datePublished" content="2019-03-15T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2020-12-01T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/history/2000s/xri-data-exchange/" class="u-url" itemprop="url">XDI (XRI Data Interchange)
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title">
+<i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu">
+<li><a href="#intro">Intro</a></li>
+<li><a href="#rwot-papers">RWoT Papers</a></li>
+<li><a href="#project-danube">Project Danube</a></li>
+<li><a href="#github-repos">Github Repos</a></li>
+<li><a href="#oasis-xdi-tc-technical-committee">OASIS XDI TC Technical Committee</a></li>
+<li>
+<a href="#danube-github">Danube Github</a><ul>
+<li><a href="#xdi---various-integrations">XDI - Various Integrations</a></li>
+<li><a href="#xdi-configuration">XDI Configuration</a></li>
+<li><a href="#xdi-examples">XDI Examples</a></li>
+<li><a href="#xdi-plugins">XDI Plugins</a></li>
+<li><a href="#aeternam">Aeternam</a></li>
+<li><a href="#xdi-cloud">XDI Cloud</a></li>
+<li><a href="#xdi-server-deployed-via">XDI Server Deployed Via</a></li>
+<li><a href="#sevices">Sevices</a></li>
+</ul>
+</li>
+</ul>
+
+            </nav>
+          </aside>
+        
+        <ul>
+  <li>
+<a href="https://tutorial.xdi2.org">tutorial.xdi2.org</a>
+    <blockquote>
+      <p>XDI is a technology for modeling, storing, and manipulating data.</p>
+
+      <p>It fits into a similar category of technologies as JSON, XML and RDF, but also has a number of properties that distinguishes it.</p>
+
+      <p>XDI is a graph-based data model. This means that all data is expressed using nodes and arcs in a graph. At a minimum, a graph consists of a single node, called the common root node.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="intro">Intro</h2>
+
+<p>The XNS Public Trust Organization was founded in July 2000, shortly after International Planetwork Conference. -<a href="http://xdi.org/?page_id=13">xdi.org - History</a></p>
+<blockquote>
+  <p>to promote the concept of individuals owning their own digital identity and data based on a nascent technology being produced by two Technical Committees at OASIS: XRI (Extensible Resource Identifier) and XDI (Extensible Data Interchange).</p>
+  <ul>
+    <li>
+<a href="https://tutorial.xdi2.org">tutorial.xdi2.org</a>
+XDI is a technology for modeling, storing, and manipulating data.</li>
+  </ul>
+
+  <p>It fits into a similar category of technologies as JSON, XML and RDF, but also has a number of properties that distinguishes it.</p>
+
+  <p>XDI is a graph-based data model. This means that all data is expressed using nodes and arcs in a graph. At a minimum, a graph consists of a single node, called the common root node.</p>
+</blockquote>
+
+<ul>
+  <li>
+<a href="https://www.oasis-open.org/committees/download.php/6434/wd-xdi-intro-white-paper-2004-04-12.pdf">The Dataweb: An Introduction to XDI</a> - A White Paper for the OASIS XDI Technical Committee v2, <em>April 12, 2004</em>
+    <blockquote>
+      <p>XDI (XRI Data Interchange) is a new service for generalized distributed data sharing and mediation usingXRIs (Extensible Resource Identifiers), a URI-compatible abstract identifier scheme developed by the OASIS XRI Technical Committee. The goal of XDI is to enable data from any data source to be identified, exchanged, linked, and synchronized into a machine-readable dataweb using XML documents just as content from any content source can linked into the human-readable Web using HTML documents today. Because the controls needed to mediate access and usage of shared data can be built right into every XDI link, the emergence of a global Dataweb has the potential to do for trusted data interchange what the Web did for open content exchange.</p>
+
+      <p>This white paper presents several examples of classic cross-domain data sharing problems, explains how the Dataweb model can provide a generalized solution, and describes the key objectives of the newlyformed OASIS XDI Technical Committee (<a href="http://www.oasis-open.org/committees/xdi">http://www.oasis-open.org/committees/xdi</a>).</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="rwot-papers">RWoT Papers</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/cool-hack-xdi-blockstore-bip32.md">Cool hack with XDI graphs, blockstore, link contracts, and cryptographic identifiers</a>
+    <ul>
+      <li>Markus Sabadello <em><a href="https://twitter.com/Peacekeeper">@Peacekeeper</a> &lt;markus@projectdanube.org&gt;</em>
+</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/xdi-link-contracts.md">XDI Link Contracts: An Overview</a>
+    <ul>
+      <li>Drummond Reed <em><a href="https://twitter.com/DrummondReed">@DrummondReed</a> &lt;drummond@respect.network&gt;</em>
+</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/XDI-Graphs-in-IPFS.md">XDI Graphs in IPFS</a>
+    <ul>
+      <li>Markus Sabadello</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/WebOfTrustInfo/rwot4-paris/tree/master/topics-and-advance-readings/xdi-verifiable-claims-link-contracts.md">XDI Verifiable Claims and Link Contracts</a> by Markus Sabadello</li>
+  <li>
+<a href="https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/first-xdi-link-contract-between-btcr-did-and-sov-did.md">First XDI Link Contract between “btcr” DID and “sov” DID</a> by Markus Sabadello</li>
+  <li>
+<a href="https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/topics-and-advance-readings/DID-Whitepaper.md">DID Whitepaper</a>
+    <blockquote>
+      <p>In April 2015 the XDI.org trustees formed the XDI Registry Working Group (XRWG) to transition XDI registry infrastructure from a centralized model to a new decentralized blockchain-based model.</p>
+
+      <p>The charter of the XRWG includes the following principles:</p>
+
+      <ul>
+        <li>Maximum interoperability.</li>
+        <li>Minimum viable centralization.</li>
+        <li>Critical infrastructure. The XDI Registry must provide for a high level of reliability, stability, scalability, security, sustainability and other requirements typical of critical internet infrastructure.</li>
+        <li>Sovereign identity. The XDI Registry should enable any XDI authority (person or organization) to fully administer its own registry and/or its own entry in an xdi.org-specified registry, without the need to rely on any particular external administrative authority.</li>
+        <li>Neutrality. The XDI Registry should be available to all members of the public and should not discriminate against any party that wishes to use it for any lawful purpose.</li>
+      </ul>
+
+      <p>[…]</p>
+
+      <p>A DID architecture should focus on the set of components that Mr. Gupta refers to as “the minimum required for people to be able to do business (or other critical functions) together”.</p>
+
+      <p><strong>A Decentralized Identifier (DID) Registry and Discovery Service</strong></p>
+
+      <p>This “minimum required” is defined by a union of the proposed requirements identified by the W3C Credential Community Group, the XDI.org Registry Working Group, and the Rebooting the Web of Trust group. It consists of three functions that can be addressed by a combination of blockchain and DHT technology:</p>
+
+      <ul>
+        <li>A DID registration function</li>
+        <li>A discovery function - enables looking up a registered DID in the blockchain</li>
+        <li>A master key recovery function</li>
+      </ul>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="project-danube">Project Danube</h2>
+
+<p>Markus Sabadello began working on Project Danube <a href="https://web.archive.org/web/20101221105543/http://projectdanube.org/">around 2010</a></p>
+
+<blockquote>
+  <p>This is an open-source project offering software for identity and personal data services on the Internet. The core of this project is an XDI-based Personal Data Store - a semantic database for your personal data, which always remains under your control. Applications on top of this database include the Federated Social Web, the selective sharing of personal data with organizations, and much more.</p>
+</blockquote>
+
+<h2 id="github-repos">Github Repos</h2>
+
+<h2 id="oasis-xdi-tc-technical-committee">OASIS XDI TC Technical Committee</h2>
+
+<ul>
+  <li>
+<a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-docbook">/OASIS-XDI-Technical-Committee/xdi-spec-docbook</a> - XDI Specifications (Docbook)</li>
+  <li>
+<a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-developers-guide">/OASIS-XDI-Technical-Committee/xdi-developers-guide</a> - XDI Developer’s Guide</li>
+  <li>
+<a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-openoffice">/OASIS-XDI-Technical-Committee/xdi-spec-openoffice</a> - XDI Specifications (Open Office)</li>
+  <li>
+<a href="https://github.com/OASIS-XDI-Technical-Committee/xdi-spec-dita">/OASIS-XDI-Technical-Committee/xdi-spec-dita</a> - XDI Specifications (DITA)</li>
+  <li><a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a></li>
+  <li><a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a></li>
+  <li><a href="https://github.com/OASIS-XDI-Technical-Committee/">/OASIS-XDI-Technical-Committee/</a></li>
+</ul>
+
+<h2 id="danube-github">Danube Github</h2>
+<ul>
+  <li>
+<a href="https://github.com/projectdanube/xdi2">projectdanube/xdi2</a> - XDI2 general purpose library and server</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi-js">projectdanube/xdi-js</a> - XDI client library for JavaScript</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-connect-core">projectdanube/xdi2-connect-core</a> - Shared library for the XDI Connect protocol</li>
+  <li>
+<a href="https://github.com/projectdanube/indy-sdk-java">projectdanube/indy-sdk-java</a> - Java binding to the native Indy SDK</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi-tutorial">projectdanube/xdi-tutorial</a> - XDI Tutorial</li>
+  <li>
+<a href="https://github.com/projectdanube/XDINinja-swing">projectdanube/XDINinja-swing</a> - XDI-enabled standalone client application</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-tools">projectdanube/xdi2-tools</a> - XDI2 maintenance and other tools</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-docker">projectdanube/xdi2-docker</a> - Dockerfiles for XDI2</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-connect-buttonbuilder">projectdanube/xdi2-connect-buttonbuilder</a> - “Button Builder” component for the XDI Connect protocol</li>
+</ul>
+
+<h3 id="xdi---various-integrations">XDI - Various Integrations</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-bdb">projectdanube/xdi2-bdb</a> - Support for using BDB as XDI2 backend storage</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-mongodb">projectdanube/xdi2-mongodb</a> - Support for using MongoDB as XDI2 backend storage</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-server-heroku">projectdanube/xdi2-server-heroku</a> - XDI2 Server deployed via Heroku</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-redis">projectdanube/xdi2-redis</a> - Support for using Redis as XDI2 backend storage</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-tor">projectdanube/xdi2-tor</a> - Integration of XDI and Tor</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-ipfs">projectdanube/xdi2-ipfs</a> - Integration of XDI and IPFS</li>
+  <li>
+<a href="https://github.com/projectdanube/withsqlite">projectdanube/withsqlite</a> - A module for a python dict that back ends on an sqlite3 database. It’s bit like shelve but with json and sqlite3.
+    <ul>
+      <li>Forked from jvasile/withsqlite</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/projectdanube/blockstack-cli-java">projectdanube/blockstack-cli-java</a> - Java client for Blockstore</li>
+</ul>
+
+<h3 id="xdi-configuration">XDI Configuration</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-selfhosted">projectdanube/xdi2-selfhosted</a> - A configuration profile of the XDI2 server for self-hosting a single XDI graph.</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-csp">projectdanube/xdi2-csp</a> - A configuration profile of the XDI2 server for hosting a dynamic number of XDI graphs.</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-registry">projectdanube/xdi2-registry</a> - 
+A configuration profile of the XDI2 server for hosting a registry of XDI names and XDI numbers.</li>
+</ul>
+
+<h3 id="xdi-examples">XDI Examples</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-example-messaging">projectdanube/xdi2-example-messaging</a> - XDI2 Examples: Basic messaging functionality.</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-example-advanced-server">projectdanube/xdi2-example-advanced-server</a> - XDI2 Examples: Setting up advanced XDI servers.</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-example-core">projectdanube/xdi2-example-core</a> - XDI2 Examples: Simple uses of the core functionality.</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-example-client">projectdanube/xdi2-example-client</a> - XDI2 Examples: Writing XDI client applications.</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-example-secp256k1-server">projectdanube/xdi2-example-secp256k1-server</a> - Example XDI server using cid-2 cryptographic XDI numbers.</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-example-ec25519-server">projectdanube/xdi2-example-ec25519-server</a> - Example XDI server using cid-1 cryptographic XDI numbers.</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-connect-acmenews">projectdanube/xdi2-connect-acmenews</a> - +acmenews XDI2 demo</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-connect-leshop">projectdanube/xdi2-connect-leshop</a> - +leshop XDI2 demo</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-example-secp256k1-client">projectdanube/xdi2-example-secp256k1-client</a> - Example XDI client using cid-2 cryptographic XDI numbers.</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-example-ec25519-client">projectdanube/xdi2-example-ec25519-client</a> - Example XDI client using cid-1 cryptographic XDI numbers.</li>
+</ul>
+
+<h3 id="xdi-plugins">XDI Plugins</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-crypto-secp256k1">projectdanube/xdi2-crypto-secp256k1</a> - This is an secp256k1 crypto plugin for the XDI2 client and server.</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-crypto-ec25519">projectdanube/xdi2-crypto-ec25519</a> - This is an Ed25519 crypto plugin for the XDI2 client and server.</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-connector-facebook">projectdanube/xdi2-connector-facebook</a> - A connector plugin for the XDI2 server that maps data from Facebook to XDI</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-connector-meeco">projectdanube/xdi2-connector-meeco</a> - A connector plugin for Meeco</li>
+  <li>
+<a href="https://github.com/projectdanube/XDINinja-plugin">projectdanube/XDINinja-plugin</a> - A browser plugin that is like “Twitter for data”</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-connector-cozy">projectdanube/xdi2-connector-cozy</a> - A connector plugin for CozyCloud</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-filesys">projectdanube/xdi2-filesys</a> - Plugin for an XDI2 server to integrate with a local filesystem</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-connector-personal">projectdanube/xdi2-connector-personal</a> - A connector plugin for the XDI2 server that maps data from Personal.com to XDI</li>
+</ul>
+
+<h3 id="aeternam">Aeternam</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/projectdanube/aeternam-xdi-sncf">projectdanube/aeternam-xdi-sncf</a> - Aeternam PNR Demo: SNCF</li>
+  <li>
+<a href="https://github.com/projectdanube/aeternam-xdi-db">projectdanube/aeternam-xdi-db</a> - Aeternam PNR Demo: Deutsche Bahn</li>
+  <li>
+<a href="https://github.com/projectdanube/aeternam-xdi-tests">projectdanube/aeternam-xdi-tests</a> - XDI experimentation for ÆTERNAM / ÆVATAR</li>
+  <li>
+<a href="https://github.com/projectdanube/aeternam-xdi-maria">projectdanube/aeternam-xdi-maria</a> - Aeternam PNR Demo: Maria</li>
+  <li>
+<a href="https://github.com/projectdanube/aeternam-xdi-webshop">projectdanube/aeternam-xdi-webshop</a> - Aeternam PNR Demo: Webshop</li>
+  <li>
+<a href="https://github.com/projectdanube/aeternam-xdi-oebb">projectdanube/aeternam-xdi-oebb</a> - Aeternam PNR Demo: ÖBB</li>
+</ul>
+
+<h3 id="xdi-cloud">XDI Cloud</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-cloudcards">projectdanube/xdi2-cloudcards</a> - XDI Cloud Card Viewer</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-messenger">projectdanube/xdi2-messenger</a> - XDI Cloud Messenger</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-manager">projectdanube/xdi2-manager</a> - XDI Cloud Manager</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-pixel">projectdanube/xdi2-pixel</a> - Tool to translate a personal cloud policy language (Pixel) to XDI link contracts.</li>
+</ul>
+
+<h3 id="xdi-server-deployed-via">XDI Server Deployed Via</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-server-grizzly">projectdanube/xdi2-server-grizzly</a> - XDI2 Server deployed via Grizzly</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-server-mina">projectdanube/xdi2-server-mina</a> - XDI2 Server deployed via Apache MINA</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-server-netty">projectdanube/xdi2-server-netty</a> - XDI2 Server deployed via netty</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-server-undertow">projectdanube/xdi2-server-undertow</a> - XDI2 Server deployed via Undertow</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-server-vertx">projectdanube/xdi2-server-vertx</a> - XDI2 Server deployed via vert.x</li>
+</ul>
+
+<h3 id="sevices">Sevices</h3>
+<ul>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-connect-service">projectdanube/xdi2-connect-service</a> - This is a “Connect Service” component for the XDI Browser binding.</li>
+  <li>
+<a href="https://github.com/projectdanube/neustar-discovery-service">projectdanube/neustar-discovery-service</a> - Neustar XDI Discovery Service based on XRI Resolution
+    <ul>
+      <li>Forked from neustarpc/neustar-discovery-service</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-connect-auth-service-war">projectdanube/xdi2-connect-auth-service-war</a> - “Authorization Service” for the XDI Connect protocol, packaged as .WAR file</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-connect-service-war">projectdanube/xdi2-connect-service-war</a> - “Connect Service” for the XDI Connect protocol, packaged as .WAR file</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi-grapheditor">projectdanube/xdi-grapheditor</a> - An XDI Graph Editor
+-Forked from neustar/xdi-grapheditor</li>
+  <li>
+<a href="https://github.com/projectdanube/xdi2-connect-auth-service">projectdanube/xdi2-connect-auth-service</a> - This is a “Connect Auth Service” component for the XDI Browser binding.</li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#btcr" class="page__taxonomy-item p-category" rel="tag">BTCR</a><span class="sep">, </span>
+    
+      <a href="/tags/#danube-tech" class="page__taxonomy-item p-category" rel="tag">Danube Tech</a><span class="sep">, </span>
+    
+      <a href="/tags/#indy" class="page__taxonomy-item p-category" rel="tag">Indy</a><span class="sep">, </span>
+    
+      <a href="/tags/#oasis" class="page__taxonomy-item p-category" rel="tag">OASIS</a><span class="sep">, </span>
+    
+      <a href="/tags/#planetwork" class="page__taxonomy-item p-category" rel="tag">Planetwork</a><span class="sep">, </span>
+    
+      <a href="/tags/#w3c" class="page__taxonomy-item p-category" rel="tag">W3C</a><span class="sep">, </span>
+    
+      <a href="/tags/#xdi" class="page__taxonomy-item p-category" rel="tag">XDI</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#history" class="page__taxonomy-item p-category" rel="tag">History</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2020-12-01">December 1, 2020</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&amp;text=XDI+%28XRI+Data+Interchange%29%20https%3A%2F%2Fdecentralized-id.com%2Fhistory%2F2000s%2Fxri-data-exchange%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fhistory%2F2000s%2Fxri-data-exchange%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fdecentralized-id.com%2Fhistory%2F2000s%2Fxri-data-exchange%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fhistory%2F2000s%2Fxri-data-exchange%2F&amp;title=XDI+%28XRI+Data+Interchange%29" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/resources/literature/" class="pagination--pager" title="Research, Literature, Reports related to Self Sovereign Identity
+">Previous</a>
+    
+    
+      <a href="/companies/danube-tech/" class="pagination--pager" title="Danube Tech
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

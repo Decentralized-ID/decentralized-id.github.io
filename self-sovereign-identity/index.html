@@ -1,0 +1,1043 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Self Sovereign Identity (SSI) |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Self-sovereign identity is the marriage of real identity with the digital world that will ultimately make people’s lives better.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Self Sovereign Identity (SSI)">
+<meta property="og:url" content="https://decentralized-id.com/self-sovereign-identity/">
+
+
+  <meta property="og:description" content="Self-sovereign identity is the marriage of real identity with the digital world that will ultimately make people’s lives better.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Self Sovereign Identity (SSI)">
+  <meta name="twitter:description" content="Self-sovereign identity is the marriage of real identity with the digital world that will ultimately make people’s lives better.">
+  <meta name="twitter:url" content="https://decentralized-id.com/self-sovereign-identity/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2018-12-21T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-22T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/self-sovereign-identity/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Self Sovereign Identity (SSI)">
+    <meta itemprop="description" content="In a nutshell, Self-Sovereign Identity allows individuals to manage their own identities by moving physical credentials to digital devices. An individual will receive a credential from an issuer which will be stored in their digital wallet.">
+    <meta itemprop="datePublished" content="2018-12-21T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-22T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/self-sovereign-identity/" class="u-url" itemprop="url">Self Sovereign Identity (SSI)
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          14 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#about-self-sovereign-identity">About Self Sovereign Identity</a></li><li><a href="#aspects-of-ssi">Aspects of SSI</a></li><li><a href="#security">Security</a></li><li><a href="#literature">Literature</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="about-self-sovereign-identity">About Self Sovereign Identity</h2>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=EZ_Bb6j87mg">The Off Chain Internet: Decentralized Identity &amp; Verifiable Credentials - Evin McMullen</a> 2022-02-19 ETH Denver
+<em>FANTASTIC NEW TALK!!!!</em>
+    <blockquote>
+      <p>i’m excited to share with you a little bit more about the web 3 beyond the chain. Public ledgers are where we hang out most of the time, but the best of web 3 is yet to be because it hasn’t yet been built and embraced fully by all of us.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://techcommunity.microsoft.com/t5/identity-standards-blog/decentralized-identity-the-direct-presentation-model/ba-p/3071981">Decentralized identity: The Direct Presentation model</a> 2022-02-02 Microsoft
+    <blockquote>
+      <p>The technical name for the model at work here is called the Direct Presentation model. A credential is issued, and then held for a long period of time with intermittent voluntary presentations to many different verifiers. To put that back into our example, my auto club issues me a card, which I hold in my wallet for years (maybe decades!), and I might choose to show that card to a garage when I need a tow, or possibly to a store to get a discount.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=jm8y56KMkIw">Exploring the Decentralized Web, Episode 4: Digital Identity</a> 2022-01-05 Filecoin Foundation
+    <blockquote>
+      <p>Episode 4 explores the relationship between authentication and authorization, the rise of single sign-on platforms, and the advantages of and use cases for self-sovereign identity. Guests include Brian Behlendorf, Rainey Reitman, Danny O’Brien, Sarah Friend, Wendy Hanamura, Andrew Hill, and Brad Kam.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://twitter.com/GETJolocom/status/1470791578780413953">#SSI gives its owner control over some aspects of identity, but not all</a> 2021-12-14 Jolocom
+    <blockquote>
+      <p>Connections, relationships, and third-party issued credentials are not entirely self-sovereign, nor should they be. #JolocomAdvent #AdventCalendar</p>
+    </blockquote>
+  </li>
+  <li><a href="https://bloom.co/blog/a-future-built-on-decentralized-identity/">A Future Built on Decentralized Identity</a> 2021-12-22 Bloom
+    <blockquote>
+      <p>Decentralized identity is an emerging concept becoming more popular for online consumers by eliminating the need to pass personal identifiable information (PII) to an ever-increasing number of companies. However, in practice, decentralized identity has only existed for a handful of years, and its potential is still being discovered. So how did we get here?</p>
+    </blockquote>
+  </li>
+  <li><a href="https://gataca.io/blog/ssi-essentials-everything-you-need-to-know-about-decentralized-identity/">SSI Essentials: Everything you need to know about Decentralized Identity</a> 2021-11-29 Gataca
+    <blockquote>
+      <p>Solving the identity paradox: the tradeoff between privacy, security, &amp; user experience</p>
+    </blockquote>
+  </li>
+  <li><a href="https://lionsgate.io/self-sovereign-identity-crisis/">Self-Sovereign Identity Crisis</a> 2021-11-23 Lionsgate
+    <blockquote>
+      <p>Through deceptive marketing practices the first-movers in the Digital ID market have done-away with the sovereignty. As a result a burgeoning new industry is experiencing a Self-Sovereign Identity Crisis.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=TRuz39SEX7E">Understanding the SSI Identity Model with Verifiable Credentials</a> 2021-11-13 Manning
+    <blockquote>
+      <p>Drummond Reed, an expert in Internet identity, security, privacy, and trust frameworks, explains the basic building blocks of SSI and how this new identity model fundamentally works.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/coinmonks/what-is-self-sovereign-identity-a8087b2bf0ea">What is Self Sovereign Identity</a> 2021-10-13 Florian Strauf
+    <blockquote>
+      <p>the digital representation of the identification process we know from the physical world. Things like showing our driver’s license to prove we are allowed to drive, or sending a bank statement to a real estate agent to prove our income and account balance.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=caZnuTBJ_TM">Is Self Sovereign Identity Going Exponential - With Andrew Baker and A Suprise Guest</a> 2021-10-27 Colin Iles
+    <blockquote>
+      <p>despite the technological revolution we are living through, identity management is still as objectionable as ever, which is allowing criminals and companies (particularly the social media giants) to know more about you than can ever be justifiable.</p>
+
+      <p>In this discussion I ask Andrew Baker, AWS’s Head of EC2 Engineering and a surprise guest, to share their views on whether Self Sovereign Identity management could be the solution and how likely it is</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.madigansolutions.com/blog/decentralizing-identity-taking-back-control/">Decentralizing Identity - Taking Back Control</a> 2021-10-13 Madigan Solutions
+    <blockquote>
+      <p>In a nutshell, Self-Sovereign Identity allows individuals to manage their own identities by moving physical credentials to digital devices. An individual will receive a credential from an issuer which will be stored in their digital wallet.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/coinmonks/what-is-self-sovereign-identity-a8087b2bf0ea">What is Self Sovereign Identity</a> 2021-10-13 Florian Strauf
+    <blockquote>
+      <p>The important thing in SSI is that instead of a stamp on the plastic card, the credential is signed cryptographically by the issuer, enabling anyone to verify who issued the credentials. This makes verification much easier than in the physical world.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=kJAapPG_jBY">Self-Sovereign Identity (SSI) Explained</a> 2021-09-13 Animo
+    <blockquote>
+      <p>In this video, we explain how third parties get to see a lot of personal information about you that they don’t really need. Whether it is your local supermarket or your new job, you’re often sharing a lot of data when all they really need is a very simple yes or no answer</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@hartmut.obendorf/self-sovereign-identity-a-primer-ee3d7066348a">Self-Sovereign Identity: a Primer</a> 2021-08-03 Hartmut Obendorf
+    <blockquote>
+      <p>Digital trust is often centralised, with select, well-known entities providing an anchor of trust that is propagated to everyone else; you are using this mechanism as you read this paragraph, having accessed a https: URL to find this article on your trusted platform, Medium.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://hackernoon.com/self-sovereign-identity-whats-the-big-deal-6i1a37z3">Self-Sovereign Identity: What’s the Big Deal?</a> 2021-07-06 Affinidi, Hackernoon
+    <blockquote>
+      <p>Do you know where your digital credentials like your full name, date of birth, phone number, government ID, and other Personally Identifiable Information (PII) are stored online, and how they are used?</p>
+    </blockquote>
+  </li>
+  <li><a href="https://domilabs.io/beginners-guide-ssi/">A beginner’s guide to self-sovereign identity (SSI)</a> 2021-06-02 Domilabs
+    <blockquote>
+      <p>An issuer makes claims or assertions about a user. These claims are bundled together into verifiable credentials and given to the user, who stores them in their digital wallet. From there, they can decide which verifiers they want to present these credentials to.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://condatis.com/news/blog/did-decentralized-ssi/">Distributed, Decentralized, Self-Sovereign Identity</a> 2021-04-22 Condatis
+    <blockquote>
+      <p>With DID already being implemented, this new and exciting technology is due to shake up the digital identity space. We expect decentralized identity to continue making headway, with more and more sectors and businesses adopting the technology.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=DaM0UtQTLCs">Karyl Fowler (Transmute) and Juan Caballero (DIF) present Intro to SSI at #IIW31</a> 2020-10 Keryl Fowler, Juan Caballero <a href="https://drive.google.com/file/d/1_9jCcxgcCrL4Dfjvr4z7XSIwxfadjveR/view?usp=sharingQ">Slides</a>
+    <blockquote>
+      <p>Karyl and Juan revisited their slide deck from #IIW30 to give an overview of decentralized identity first as a “philosophy” at the confluence of ideological currents (Juan), and then as a set of specific emerging technologies which unlocks new mental models and business models that are still coming into focus sector by sector (Karyl). There follows a brief overview of educational resources, including some products of DIF’s recent educational “content sprint,” and a wide-ranging Q&amp;A including podcast recommendations and how to navigate open standards for the first time.  The slides are here, in downloadable and hyperlinked PDF form:</p>
+    </blockquote>
+  </li>
+  <li><a href="https://trinsic.id/what-is-self-sovereign-identity/">What Is Self-Sovereign Identity?</a> 2020-04-28 Trinsic
+    <blockquote>
+      <p>Self-sovereign identity is the marriage of real identity with the digital world that will ultimately make people’s lives better.² It’s still in its infancy, and there is a long road ahead to truly make digital identity as legitimate and nuanced as a real-world identity.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://ssimeetup.org/explaining-ssi-c-suite-executives-anyone-else-john-phillips-webinar-48/">Explaining SSI to C-suite executives, and anyone else for that matter – John Phillips</a> 2020-02-18 SSIMeetup
+    <blockquote>
+      <p>John Phillips from 460degrees in Australia has been exploring with his team for more than two years for a way to describe Self-Sovereign Identity (SSI) that was easy to understand. We think he has found a good method to make SSI easy to understand for any C-suite executive and business people that goes beyond the technology.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://hackernoon.com/how-verifiable-creds-decentralized-identifiers-and-blockchain-work-together-for-a-safer-internet-k2u37bk">How Verifiable Creds, Decentralized Identifiers and Blockchain Work Together for a Safer Internet</a> 2021-08-22 Fluree, Hackernoon
+    <blockquote>
+      <p>Verifiable credentials, DIDs, and blockchain are evidence of what’s to come: Web3, a more secure, widespread, machine-to-machine internet.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://wiki.iota.org/identity.rs/decentralized_identity">Introduction to Decentralized Identity</a> IOTA Wiki
+    <blockquote>
+      <p>Decentralized Identity or Self-Sovereign Identity (SSI) defines a new method for identity management and authentication. It removes the centralized aspects and puts the Identity subject in full control over its own identity. Decentralized Identity provides a solution for the increasing amount of database breaches, the lack of trust in any digital setting, and the increasingly difficult to comply with privacy legislation, such as GDPR.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://wiki.p2pfoundation.net/Self-Sovereign_Identity">Self-Sovereign Identity — wiki.p2pfoundation</a> 2019-11-13 P2P Foundation
+    <blockquote>
+      <p>The beauty of sovereignty isn’t complete and total control, but rather balance of power that leads to negotiations about the nature of the relationships between various entities in the system.” 
+<img src="https://imgur.com/3zz62kpl.png" alt="" /></p>
+    </blockquote>
+  </li>
+  <li><a href="https://thelivinglib.org/self-sovereign-identity/">Self-Sovereign Identity</a> 2019-06-17 Living Library
+    <blockquote>
+      <p>Identification document (ID) is a crucial part of every individual’s life, in that it is often a prerequisite for accessing a variety of services — ranging from creating a bank account to enrolling children in school to buying alcoholic beverages to signing up for an email account to voting in an election — and also a proof of simply being.</p>
+    </blockquote>
+  </li>
+  <li>[video] <a href="https://www.youtube.com/watch?v=rygsE1JC-8Q">What is self-sovereign identity?</a> 2019-05-31 Evernym
+    <blockquote>
+      <ul>
+        <li>A brief history and overview of self-sovereign identity / decentralized identity</li>
+        <li>The top consumer-focused and business-focused benefits of SSI</li>
+        <li>Real-world examples of SSI in action</li>
+        <li>How organizations can the journey to a decentralized future</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://www.csoonline.com/article/3366261/self-sovereign-identity-3-key-questions.html">Self-sovereign identity: 3 key questions</a> 2019-03-19 CSO Online
+    <blockquote>
+      <p>SSI is on the extreme end of the digital identity spectrum. Its focus is putting control back in the hands of you, the user. But SSI is not the only way to skin a cat.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@trbouma/self-sovereign-identity-shifting-the-locus-of-control-10da1c8757ad">Self-Sovereign Identity: Shifting the Locus of Control</a> 2019-03-02 Tim Bouma
+    <blockquote>
+      <p>Simply put, the old (centralized and federated models) the locus of control was between the other parties that could make decisions about me, whether I was in the picture or not. In the new model (self-sovereign identity), the user is put into the centre of his/her own locus of control. See above.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/evernym/the-three-models-of-digital-identity-relationships-ca0727cb5186">The Three Models of Digital Identity Relationships — How self-sovereign identity (SSI) is different, and why it’s better</a> 2018-08-24 Timothy Ruff, Evernym
+    <blockquote>
+      <p>SSI is powerful yet elegant, bold yet familiar, and through it we can finally break free from the paradox of having to sacrifice security for user experience (or vice versa): we can have both, and at levels vastly improved over the status quo. Wonderfully, SSI also has life-altering potential for at-risk populations around the globe.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://sovrin.org/wp-content/uploads/2018/03/The-Inevitable-Rise-of-Self-Sovereign-Identity.pdf">Inevitable Rise of Self-Sovereign Identity</a> 2018-03-28
+    <blockquote>
+      <p>The evolution of internet identity is the result of trying to satisfy three basic requirements:</p>
+      <ol>
+        <li>Security - the identity information must be protected from unintentional disclosure;</li>
+        <li>Control - the identity owner must be in control of who can see and access their data and for what purposes;</li>
+        <li>Portability - the user must be able to use their identity data wherever they want and not be tied into a single provide</li>
+      </ol>
+    </blockquote>
+  </li>
+  <li><a href="https://identitywoman.net/self-sovereign-identity/">Self Sovereign Identity</a> 2018-01-23 Kaliya ‘Identity Woman’ Young
+    <blockquote>
+      <p>The Social Human Fabric: This is critical to why we actually are having these breakthroughs woven together to create the open standards for self-sovereign identity to become real.  A dedicated group of individuals that have been actively meeting face to face twice a year for over 12 years at the Internet Identity Workshop, and other industry events like the RSA Conference, Cloud Identity Summit and the new kid on the collaboration block Rebooting the Web of Trust.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="aspects-of-ssi">Aspects of SSI</h2>
+
+<ul>
+  <li><a href="https://medium.com/global-id/globalid-101-device-based-identity-c6096a5b0890">GlobaliD 101: Device-based identity</a> 2022-10-05 GlobalID
+    <blockquote>
+      <p>That way, your sensitive personal data is stored locally on your own device rather than hosted on some company’s server that becomes a target for hackers.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/global-id/globalid-101-bring-your-own-identity-5b9927008190">GlobaliD 101: Bring Your Own Identity</a> 2022-08-30 GlobalID
+    <blockquote>
+      <p>There is a real opportunity to combine technology that is being developed with the concept of BYO Identity that will create a new identity framework where you own and control your data.</p>
+      <ul>
+        <li><a href="https://medium.com/global-id/globalid-101-how-digital-identity-should-work-fc53ede7b86f">Part 1: What a smart and humanistic approach to digital identity would like</a> 2022-07-05</li>
+        <li><a href="https://medium.com/global-id/globalid-101-what-is-the-trust-triangle-260e85e1c640">Part 2: The Trust Triangle — the system of issuers, holders, and verifiers that illustrates how identity works (and how it’s broken, today)</a> 2022-07-21</li>
+        <li><a href="https://medium.com/global-id/globalid-101-id-wallets-68fa77e6d0d7">Part 3: Why the ID Wallet is the first step toward achieving a new vision for digital identity</a> 2022-08-02</li>
+        <li><a href="https://medium.com/global-id/globalid-101-every-company-is-an-identity-company-a851beed999d">Part 4: Why every company is an identity company</a> 2022-08-16</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://academy.affinidi.com/trusted-third-parties-vs-self-sovereign-identity-4e96de929b1b">Trusted Third Parties vs Self-Sovereign Identity</a> 2021-12-30 Affinidi
+    <blockquote>
+      <p>All of us have <a href="https://academy.affinidi.com/what-links-identity-and-vcs-together-across-applications-9523af3884a9">multiple identities</a> at any point. We are sons, daughters, brothers, sisters, parents, partners, friends, colleagues, and more to different people.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://academy.affinidi.com/selective-disclosure-share-what-you-want-8ae367655b7b">Selective Disclosure: Share Just What You Want</a> 2021-08-02 Affinidi
+    <blockquote>
+      <p>In the context of SSI, selective disclosure is best implemented through <a href="https://academy.affinidi.com/what-are-verifiable-credentials-79f1846a7b9">verifiable credentials</a> where the user has separate credentials for each piece of information such as his/her date of birth, full name, vaccination details, address, passport number, etc.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://academy.affinidi.com/self-sovereign-identity-what-you-can-cant-do-with-ssi-1284f7227b4e">Self-Sovereign Identity: What You Can/Can’t Do With SSI?</a> 2021-06-24 Affinidi
+    <blockquote>
+      <p>it gives complete control and ownership of data to the individual entities as they can decide what data to share and with whom.</p>
+
+      <p>Beyond this encompassing vision, let’s drill down into the specifics to understand what you can and can’t do with SSI.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://twitter.com/lissi_id/status/1334834875896004608">When a user holds his:her own credentials locally on the phone, it creates a three-sided market</a> 2020-12-04 Lissi ID
+    <blockquote>
+      <p>which puts the holder of the credential in the position of a carrier between issuer and verifiers.
+<img src="https://pbs.twimg.com/media/EoZIgzqXIAE6mU5?format=jpg&amp;name=large" alt="" /></p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.idsalliance.org/blog/2020/12/03/the-implications-of-bring-your-own-identity/">The Implications of Bring Your Own Identity</a> Identity Defined Security Alliance 2020-12-03
+    <blockquote>
+      <p>My short stint as “Mark Jannell” taught me a lot of about trust and ease of use in a bring your own identity model. Trust, as always in security, is essential to this new class of relationships and must be established and then protected from abuse. Ease of use, it turns out, is a key factor in protecting that trust and promoting the adoption of good identity patterns. I’m sure that I could have learned these lessons in some other way, but I’ll never forget my half year answering to a pseudonym.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://academy.affinidi.com/what-is-the-trust-triangle-9a9caf36b321">What is the Trust Triangle?</a> 2021-08-23 Affinidi
+    <blockquote>
+      <p>The relationship between the issuers, holders, and verifiers is called the trust triangle simply because you need an element of trust among these entities for them to work together.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="security">Security</h2>
+<ul>
+  <li><a href="https://www.csoonline.com/article/3665692/what-is-decentralized-identity.html">What is decentralized identity?</a> 2022-07-06 CSO Online
+    <blockquote>
+      <p>The DID model allows you to establish a relationship between your private key (your blockchain wallet) and your citizenship.  The issuing authority signs off on the truth of your claim and, thereafter, third parties can check your public key to see that the holder of the private key is in fact a British citizen.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/mydex/getting-data-security-right-36d291cac156">Getting Data Security Right</a> 2022-05-23 Alan Michel
+    <blockquote>
+      <p>data security is about system-wide design, where many different elements need to fit together to create a working whole.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://securityboulevard.com/2022/04/impact-of-self-sovereign-identity-on-cybersecurity-avast/">Impact of Self-Sovereign Identity on Cybersecurity</a> 2022-04 Security Boulevard
+    <blockquote>
+      <p>How does this change the world of cybersecurity protection? Typically, bad actors approach cybersecurity attacks by developing solutions that exploit the attack vectors of their target victims.</p>
+
+      <p>There are 4 attack vector categories to self-sovereign identity that map directly to each element: Issuer, Holder, Trust Registry and Verifier.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://stateofidentity.libsyn.com/id-verification-threats-on-the-horizon">ID Verification Threats On the Horizon</a> 2022-03-31 Liminal Podcasts
+    <blockquote>
+      <p>Cognito’s CEO Alain Meier joins the State of Identity host Cameron D’Ambrosi to dive into why industries beyond financial services are now in the market for identity verification. They also unpack the impact of synthetic identity fraud across verticals, and how platforms find the balance when building their onboarding processes.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://daniel-hardman.medium.com/security-silos-and-sovereignty-522e30bb8eb4">Security, Silos, and Sovereignty</a> 2021-03-12 Daniel Hardman
+    <blockquote>
+      <p>Why portable security is the sleeper — but killer — feature for SSI</p>
+
+      <p>what’s cool about DIDs (besides their self-service creation) is that their metadata is cryptographically verifiable. That means that anyone in the world can tell whether the metadata is legit, in the blink of an eye, just by asking software to check some math. And it also means that you can build a transport-independent, tamper-proof, encrypted communication channel with whoever controls a DID.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://hackernoon.com/how-decentralized-identifiers-will-shape-the-future-of-identity-iam3w9g">How Decentralized Identifiers Will Shape the Future of Identity</a> 2020-11-09 HackerNoon
+    <blockquote>
+      <p>Hackers value personal information the most. 96% of hacking groups’ primary motive is intelligence gathering. Researchers at privacy website PrivacyAffairs.com found that you can obtain a person’s full identity for the low price of $1,275.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="literature">Literature</h2>
+
+<ul>
+  <li>[WhitePaper] <a href="https://www.blockchainresearchinstitute.org/project/self-sovereign-identity">Self Sovereign Identity</a> 2022-05-10 Phil Windley, Blockchain Research Institute
+    <blockquote>
+      <p>In this research, one of the leading experts and thought leaders in the digital identity space brings his latest thinking to enterprise innovators. He explains the value of the relationship view of identity, the nature of authentic digital relationships, the trust bases of identity systems, and the architecture of the identity metasystem, including decentralized identifier communication and the self-sovereign Internet. He then explores how to operationalize digital relationships and the potential of generative identities (e.g., verifiable credentials) and credential exchange. He concludes with a deep dive into self-sovereign identities in production: the UK National Health Service staff passport, Bonifii’s MemberPass for credit unions, the International Air Transport Association Travel Pass, and others. The project is a must-read for enterprise leaders looking to understand their opportunities in identity platforms and applications.</p>
+    </blockquote>
+  </li>
+  <li>[Whitepaper] <a href="https://www.fim-rc.de/wp-content/uploads/2021/09/20210811-SSI-Whitepaper-English.pdf">Self-Sovereign Identity Foundations, Applications, and Potentials of Portable Digital Identities</a> 2021-09 Fraunhofer Institute for Applied Information Technology FIT
+    <blockquote>
+      <p>This paper analyses the SSI paradigm’s conceptual characteristics and technical aspects and presents three use cases as examples. It becomes clear that SSI offers advantages in individual control, data security, and full portability of identities between different services. For example, forgeryand tamper-proof digital versions of important personal documents such as ID cards, passports, birth certificates or medical confirmations can be created. However, the use cases are not limited to personal SSI but can also be, for example, digital identities of organizations and physical objects in the context of IoT solutions. This is particularly important in connection with the comprehensive digitization of companies.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://bankenverband.de/en/digitisation/digital-identities-steps-path-id-ecosystem/">Digital identities – steps on the path to an ID ecosystem</a> 2021-03-18 Bankenverband
+<em>This article is very very good in articulating the big picture of how SSI systems relative to older system and emerging fragmetned systems.</em>
+    <blockquote>
+      <p>An answer to these challenges is an ecosystem in which digital identity data can be exchanged in a way that is secure, reliable, scalable and convenient. This will have a positive impact on the economic future of Germany and Europe while at the same time enhancing the private sphere of the individual.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p><a href="https://www.researchgate.net/figure/Self-Sovereign-Identity-Locus-of-Control-Bouma-2019_fig1_340938808"><img src="https://i.imgur.com/MMa72Dx.png" alt="" /></a></p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#evernym" class="page__taxonomy-item p-category" rel="tag">Evernym</a><span class="sep">, </span>
+    
+      <a href="/tags/#iiw" class="page__taxonomy-item p-category" rel="tag">IIW</a><span class="sep">, </span>
+    
+      <a href="/tags/#laws-of-identity" class="page__taxonomy-item p-category" rel="tag">Laws of Identity</a><span class="sep">, </span>
+    
+      <a href="/tags/#learning-machine" class="page__taxonomy-item p-category" rel="tag">Learning Machine</a><span class="sep">, </span>
+    
+      <a href="/tags/#rwot" class="page__taxonomy-item p-category" rel="tag">RWoT</a><span class="sep">, </span>
+    
+      <a href="/tags/#self-sovereign-identity" class="page__taxonomy-item p-category" rel="tag">Self Sovereign Identity</a><span class="sep">, </span>
+    
+      <a href="/tags/#sovrin-foundation" class="page__taxonomy-item p-category" rel="tag">Sovrin Foundation</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#about" class="page__taxonomy-item p-category" rel="tag">About</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-22">June 22, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Self+Sovereign+Identity+%28SSI%29%20https%3A%2F%2Fdecentralized-id.com%2Fself-sovereign-identity%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fself-sovereign-identity%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fself-sovereign-identity%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fself-sovereign-identity%2F&title=Self+Sovereign+Identity+%28SSI%29" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/projects/hyperledger/indy/" class="pagination--pager" title="Hyperledger Indy
+">Previous</a>
+    
+    
+      <a href="/self-sovereign-identity/characteristics/" class="pagination--pager" title="Principles and Characteristics of Self Sovereign Identity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

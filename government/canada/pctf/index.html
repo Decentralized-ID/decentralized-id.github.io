@@ -1,0 +1,934 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>The Pan Canadian Trust Framework |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="This framework is the next major step after the 2016 publication of the Pan-Canadian Trust Framework Overview by the Digital Identification and Authentication Council of Canada (DIACC)">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="The Pan Canadian Trust Framework">
+<meta property="og:url" content="https://decentralized-id.com/government/canada/pctf/">
+
+
+  <meta property="og:description" content="This framework is the next major step after the 2016 publication of the Pan-Canadian Trust Framework Overview by the Digital Identification and Authentication Council of Canada (DIACC)">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="The Pan Canadian Trust Framework">
+  <meta name="twitter:description" content="This framework is the next major step after the 2016 publication of the Pan-Canadian Trust Framework Overview by the Digital Identification and Authentication Council of Canada (DIACC)">
+  <meta name="twitter:url" content="https://decentralized-id.com/government/canada/pctf/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2020-01-11T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-09T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/government/canada/pctf/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero"
+  style=" background-image: url('');"
+>
+  
+    <img src="/images/pan-canadian-trust-header.webp" alt="The Pan Canadian Trust Framework" class="page__hero-image">
+  
+  
+    <span class="page__hero-caption"><a href="https://canada-ca.github.io/PCTF-CCP/docs/PCTF-Placemat.pdf">PCTF Placemat</a>
+</span>
+  
+</div>
+
+
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="The Pan Canadian Trust Framework">
+    <meta itemprop="description" content="“The Treasury Board Secretariat of Canada (TBS) and Shared Services Canada (SSC) are seeking a standardized method to issue and rapidly verify portable digital credentials across many different contexts, thereby reducing human judgement error, increasing efficiency and ensuring digital credential veracity using cryptography.”">
+    <meta itemprop="datePublished" content="2020-01-11T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-09T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/government/canada/pctf/" class="u-url" itemprop="url">The Pan Canadian Trust Framework
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#the-framework">The Framework</a></li><li><a href="#background">Background</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="the-framework">The Framework</h2>
+<ul>
+  <li><a href="https://diacc.ca/trust-framework/">Pan-Canadian Trust Framework (“PCTF”)</a>
+    <ul>
+      <li><a href="https://diacc.ca/trust-framework/pctf-trust-registries/">Trust Registries</a> 2023-03-28 Draft Recommendation V1.0 - Defines criteria, requirements, and guidelines regarding Trust Registries.
+        <blockquote>
+          <p>Stakeholders have identified the need for a set of criteria, requirements, and guidelines regarding Trust Registries governance, operations, and registration and certification management.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://diacc.ca/pctf-digital-wallet/">Digital Wallet</a> 2023-04-25 Final Recommendation V1.0 - Defines criteria, requirements, and guidelines regarding digital wallets.
+        <blockquote>
+          <p>Stakeholders have identified the need for a set of criteria that will be used to create well-designed, privacy enhancing digital wallets.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://diacc.ca/trust-framework/pctf-assurance-maturity-model/">Assurance Maturity Model</a> 2021-06-28 Draft Recommendation V1.0 - Provides guidance regarding how to use PCTF conformance criteria in order to properly classify Levels of Assurance.
+        <blockquote>
+          <p>Stakeholders have identified the need for an Assurance Maturity Model to provide guidance regarding the use of PCTF conformance criteria in order to classify, compare, and align different Levels of Assurance schemes.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://diacc.ca/trust-framework/pctf-glossary/">Glossary</a> 2020-03-10 Final Recommendation V1.0 - A list of terms identified in the PCTF.
+        <blockquote>
+          <p>Stakeholders have identified the need for a common set of definitions to be used to communicate with regard to identity and access management.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://diacc.ca/trust-framework/pctf-infrastructure/">Infrastructure</a> 2023-04-25 Final Recommendation V1.2 - Defines criteria, requirements, and guidelines regarding the trustworthiness of IT infrastructure.
+        <blockquote>
+          <p>Stakeholders have identified the need for a set of criteria, requirements, and guidelines regarding the trustworthiness of IT infrastructure.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://diacc.ca/trust-framework/pctf-credentials/">Credentials</a> 2020-06-01 Final Recommendation V1.0 - Defines criteria related to the creation, issuance, and management of credentials existing in digital form.
+        <blockquote>
+          <p>Stakeholders  have identified the need for a set of criteria related to the creation, issuance, and management of credentials existing in digital form.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://diacc.ca/trust-framework/pctf-verified-organization/">Verified Organization</a> 2020-02-17 Final Recommendation V1.0 - Defines criteria that allow organizations to exchange trustworthy information about themselves or others (individuals or organizations) with external parties.
+        <blockquote>
+          <p>Stakeholders have identified the need for a set of criteria that allow organizations to exchange trustworthy information about themselves or others (individuals or organizations) with external parties.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://diacc.ca/trust-framework/pctf-verified-person/">Verified Person</a> 2022-03-31 Final Recommendation V1.2 - Defines criteria used to establish that a natural person is real, unique and identifiable.
+        <blockquote>
+          <p>Stakeholders have identified the need for a set of criteria that will be used to establish that a natural person is real, unique and identifiable.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://diacc.ca/trust-framework/pctf-privacy/">Privacy</a> 2022-03-31 Final Recommendation V1.2 - Defines criteria concerned with the handling of personal data for digital identity purposes.
+        <blockquote>
+          <p>Stakeholders have identified the need for a set of criteria concerned with the handling of personal data for digital identity purposes.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://diacc.ca/trust-framework/pctf-authentication/">Authentication</a> 2019-05-15 Final Recommendation V1.0 - Defines criteria used to enable access to digital systems.
+        <blockquote>
+          <p>Stakeholders have identified the need for a set of criteria that will be used to enable access to digital systems.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://diacc.ca/trust-framework/pctf-notice-consent/">Notice Comment</a> 2019-04-03 Final Recommendation V1.0 - Defines criteria used to formulate a statement about the collection, use and disclosure of personal information, and to obtain a consent decision on that statement from a person authorized to do so.
+        <blockquote>
+          <p>Stakeholders have identified the need for a set of criteria used to formulate a statement about the collection, use and disclosure of personal information, and to obtain a consent decision on that statement from a person authorized to do so.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://diacc.ca/trust-framework/pctf-model/">Model</a> 2019-02-13 Final Recommendation V1.0 - A high-level model of PCTF related contextual information, goals, and objectives.
+        <blockquote>
+          <p>Stakeholders have identified the need for a high-level model to organize the Canadian Digital Identity Ecosystem.</p>
+        </blockquote>
+      </li>
+      <li><a href="https://diacc.ca/trust-framework/pctf-overview/">Overview</a> 2016-08-01 Final - Sets out the vision and value proposition for the PCTF.
+        <blockquote>
+          <p>Canadian citizens and consumers, i.e. end users, are the beneficiaries of trust that will be achieved through service standardization and accountability to the PCTF.</p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="background">Background</h2>
+
+<ul>
+  <li><a href="https://trbouma.medium.com/public-sector-profile-of-the-pan-canadian-trust-framework-version-1-2-and-next-steps-86ae7a96d6c7">The Public Sector Profile of the Pan-Canadian Trust Framework Working Group Close-Out Report</a> 2020-12-12 Tim Bouma
+    <blockquote>
+      <p>the PSP PCTF WG was an important vehicle for ensuring public sector communication and discussion across Canada</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@trbouma/trust-frameworks-standards-matter-47c946992f44">Trust Frameworks? Standards Matter</a> 2020-11-15 Tim Bouma
+    <blockquote>
+      <p>He points at the NIST documents about it <a href="https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8149.pdf">Developing Trust Frameworks to Support Identity Federations</a> published in 2018. He also points at the Canadian government’s definition of standards.</p>
+
+      <p>“a document that provides a set of agreed-upon rules, guidelines or characteristics for activities or their results. Standards establish accepted practices, technical requirements, and terminologies for diverse fields.”  He goes on to highlight a lot of the work being done in Canada and where it all sits relative to being a standard - “In closing, there are lots of trust frameworks being developed today. But to be truly trusted, a trust framework needs to either apply existing standards or become a standard itself.”</p>
+    </blockquote>
+  </li>
+  <li><a href="https://diacc.ca/2020/09/12/progressing-the-pan-canadian-trust-framework-pctf/">Progressing the pan canadian trust framework pctf</a> 2020-09 <a href="https://diacc.ca/wp-content/uploads/2020/04/PCTF-progress-infographic_September-2020.pdf">Infographic</a>
+    <blockquote>
+      <p>Since 2016, the Digital ID &amp; Authentication Council of Canada’s (DIACC) Trust Framework Expert Committee (TFEC) has been developing the Pan-Canadian Trust FrameworkTM (PCTF). It is one framework with many partners, and we thank all of those involved for their contribution in this momentous achievement.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@trbouma/imsc-pan-canadian-trust-framework-executive-summary-5c89a72e06b5">IMSC Pan-Canadian Trust Framework Executive Summary</a> 2020-04-01
+    <blockquote>
+      <p>This <a href="https://drive.google.com/open?id=1Xmjh8QJZKWmRkaTtE2f43ISntD7jE6D5">document</a> describes Version 1.0 of the IMSC Pan-Canadian Trust Framework (PCTF). This framework is the next major step after the 2016 publication of the Pan-Canadian Trust Framework Overview by the Digital Identification and Authentication Council of Canada (DIACC), in collaboration with the Canadian public sector Identity Management Sub-Committee (IMSC) of the Joint Councils (JC).</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@trbouma/looking-ahead-in-2020-830afa372878">Looking Ahead in 2020</a> 2020-01-03
+    <blockquote>
+      <p>I believe it will be a breakout year for digital identity, and for the underlying technical infrastructure that we need to achieve our goals. I see the work progressing on two fronts: 1) Pan-Canadian Trust Framework, and, 2) Verifiable Credentials/Decentralized Identifiers Deployment.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@trbouma/public-sector-profile-of-the-pan-canadian-trust-framework-version-1-0-4baf8ff0cfa0">Public Sector Profile of the Pan-Canadian Trust Framework Version 1.0 Recommendation Draft</a> 2019-07-05 <a href="https://canada-ca.github.io/PCTF-CCP/">GitHub</a>
+    <blockquote>
+      <p>The public sector profile of the PCTF reflects:</p>
+      <ul>
+        <li>Evolution of the Identity Management Sub-Committee (IMSC) efforts.</li>
+        <li>The Need to Apply the PCTF for Assessments.</li>
+        <li>Policy Alignment.</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://www.cba.ca/embracing-digital-id-in-canada">White Paper: Canada’s Digital ID Future - A Federated Approach</a> 2019-05-30
+    <blockquote>
+      <p>In this brief, we highlight why Canada needs a digital identity system, how other countries have made progress in this area and the lessons we can learn from those experiences to build a system in Canada.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@trbouma/imsc-pan-canadian-trust-framework-1f68134e338a">IMSC Pan-Canadian Trust Framework</a> 2019-03-25
+    <blockquote>
+      <p>A summary of the latest iterations before our final version to be delivered on March 31st, 2019. The near to final document is <a href="https://drive.google.com/open?id=1P8kFJZfUV7PX25KEkZKk0XftrqqQp9FI">here</a></p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@trbouma/a-quick-video-tour-of-the-pctf-trusted-processes-and-cross-referencing-3c892a012edd">A Quick Video Tour of the PCTF Trusted Processes and Cross-Referencing</a> 2019-02-10</li>
+  <li><a href="https://medium.com/@trbouma/the-pan-canadian-trust-framework-using-prolog-e62ffa911ff5">The Pan-Canadian Trust Framework Using Prolog</a> 2019-01-03
+    <blockquote>
+      <p>A ‘declarative framework’ (such as <a href="https://www.geeksforgeeks.org/prolog-an-introduction/">Prolog</a>) focuses on the ‘what’ needs to be done, satisfied, relied on (i.e., proven to be true) versus ‘how to do it.’ In our case, with the Pan-Canadian Trust Framework (PCTF), it’s the question of ‘Can we rely on or accept a digital identity originating from a province or territory?’</p>
+    </blockquote>
+  </li>
+  <li><a href="https://ssimeetup.org/overview-proposed-pan-canadian-trust-framework-ssi-tim-bouma-webinar-19/">ssimeetup- Overview of Proposed Pan Canadian Trust Framework</a> 2019-01 <a href="https://www.slideshare.net/SSIMeetup/overview-of-the-proposed-pancanadian-trust-framework-for-ssi-tim-bouma">Slideshare</a>
+    <blockquote>
+      <p>The Government of British Columbia and the Government of Ontario have already rolled out a production system using the Sovrin Network for business registration and licensing; together they’ve issued over 6 million credentials, according to Windley. - <a href="https://www.computerworld.com/article/3329962/blockchain/how-blockchain-may-kill-the-password.amp.html">How Blockchain may Kill the Password</a></p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@trbouma/pan-canadian-trust-framework-eb65eac6c683">Pan-Canadian Trust Framework - Tim Bouma</a> 2018-04-12
+    <blockquote>
+      <p>The Pan-Canadian Trust Framework is how we will formalize the approval and acceptance of a “trusted digital identity.”</p>
+    </blockquote>
+  </li>
+</ul>
+
+<figure class="">
+  <img src="/images/canadian-digital-identity-history.png" alt="canadian-digital-identity-history" /><figcaption>
+      <a href="https://docs.google.com/presentation/d/189DxjNv7EE7KtjkidB6EpwuvO2lIy7kEL-3DWtMAiQg/edit">Annex E - 2014- 2017 Federating Identity: Milestones and Initiatives</a>
+
+    </figcaption></figure>
+
+<ul>
+  <li><a href="https://diacc.ca/2016/08/11/pctf-overview/">PCTF overview</a> 2016-08
+    <blockquote>
+      <p>Toronto, August 11, 2016 – Today the Digital ID &amp; Authentication Council of Canada (DIACC) releases the Pan-Canadian Trust Framework (PCTF) Overview, (English/French) a collaborative approach to developing a Pan-Canadian Trust Framework. The PCTF enableS Canada’s full and secure participation in the global digital economy through economic sector innovation and the enablement of modernized digital service delivery. The PCTF supports open government principles.</p>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#canada" class="page__taxonomy-item p-category" rel="tag">Canada</a><span class="sep">, </span>
+    
+      <a href="/tags/#diacc" class="page__taxonomy-item p-category" rel="tag">DIACC</a><span class="sep">, </span>
+    
+      <a href="/tags/#pctf" class="page__taxonomy-item p-category" rel="tag">PCTF</a><span class="sep">, </span>
+    
+      <a href="/tags/#policy" class="page__taxonomy-item p-category" rel="tag">Policy</a><span class="sep">, </span>
+    
+      <a href="/tags/#trust-framework" class="page__taxonomy-item p-category" rel="tag">Trust Framework</a><span class="sep">, </span>
+    
+      <a href="/tags/#verifiable-credentials" class="page__taxonomy-item p-category" rel="tag">Verifiable Credentials</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#government" class="page__taxonomy-item p-category" rel="tag">Government</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-09">June 9, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=The+Pan+Canadian+Trust+Framework%20https%3A%2F%2Fdecentralized-id.com%2Fgovernment%2Fcanada%2Fpctf%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fgovernment%2Fcanada%2Fpctf%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fgovernment%2Fcanada%2Fpctf%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fgovernment%2Fcanada%2Fpctf%2F&title=The+Pan+Canadian+Trust+Framework" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/web-standards/w3c/verifiable-credentials/" class="pagination--pager" title="Verifiable Credentials - Literature, Comparisons, Explainer (W3C)
+">Previous</a>
+    
+    
+      <a href="/government/europe/" class="pagination--pager" title="European Digital Identity and SSI
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>
