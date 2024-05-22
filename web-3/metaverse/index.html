@@ -1,0 +1,909 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>The Metaverse in Web3 and Self Sovereign Identity |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="When you create your metaverse avatar, who owns it? Is it yours, or does the platform own it?">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="The Metaverse in Web3 and Self Sovereign Identity">
+<meta property="og:url" content="https://decentralized-id.com/web-3/metaverse/">
+
+
+  <meta property="og:description" content="When you create your metaverse avatar, who owns it? Is it yours, or does the platform own it?">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="The Metaverse in Web3 and Self Sovereign Identity">
+  <meta name="twitter:description" content="When you create your metaverse avatar, who owns it? Is it yours, or does the platform own it?">
+  <meta name="twitter:url" content="https://decentralized-id.com/web-3/metaverse/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-06-28T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-28T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/web-3/metaverse/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="The Metaverse in Web3 and Self Sovereign Identity">
+    <meta itemprop="description" content="the first thing you should know about the metaverse, even as it’s still emerging and being defined, is that the time to act is now. The metaverse is expected to contribute USD 3 trillion to global GDP by 2013 and customers will expect immersive and interactive activities and apps from your brand">
+    <meta itemprop="datePublished" content="2023-06-28T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-28T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/web-3/metaverse/" class="u-url" itemprop="url">The Metaverse in Web3 and Self Sovereign Identity
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          7 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#metaverse-explainer">Metaverse Explainer</a></li><li><a href="#ssi-and-digital-id-in-the-metaverse">SSI and Digital ID in the Metaverse</a></li><li><a href="#caution-regarding-the-metaverse">Caution regarding the Metaverse</a></li><li><a href="#metaverse-company-news">Metaverse Company News</a></li><li><a href="#protocol">Protocol</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="metaverse-explainer">Metaverse Explainer</h2>
+<ul>
+  <li><a href="https://anonyome.com/2022/08/this-is-everything-you-should-know-about-the-metaverse-right-now/">Everything You Should Know About the Metaverse Right Now</a> 2022-08-24 Anyonyome
+    <blockquote>
+      <p>But the first thing you should know about the metaverse, even as it’s still emerging and being defined, is that the time to act is now. The metaverse is expected to contribute <a href="https://www.analysisgroup.com/globalassets/insights/publishing/2022-the-potential-global-economic-impact-of-the-metaverse.pdf?fbclid=IwAR02cv2Qm2GDGEPGc-JGaU2TM_FCeOVxflqs-cfjvlHq5jM0XqsV1oKiNoQ">USD 3 trillion</a> to global GDP by 2013 and customers will expect immersive and interactive activities and apps from your brand</p>
+    </blockquote>
+  </li>
+  <li><a href="https://future.a16z.com/7-essential-ingredients-of-a-metaverse/">7 Essential Ingredients of a Metaverse</a> 2022-06-06 Liz Harkavy, Eddy Lazzarin, Arianna Simpson
+    <blockquote>
+      <p><img src="https://a16zcryptocms.wpengine.com//wp-content/uploads/2022/05/Metaverse-framework-In-line.jpe" alt="" /></p>
+    </blockquote>
+  </li>
+  <li><a href="https://heathervescent.medium.com/beyond-the-metaverse-hype-409d77451cf8">Beyond the Metaverse Hype</a> 2022-05-21 Heather Vescent
+    <blockquote>
+      <p>I was a panelist on The Metaverse: The Emperor’s New Clothes panel at the <a href="https://www.rebootcommunications.com/event/vipss-2022/">Vancouver International Privacy &amp; Security Summit</a>’s panel. Nik Badminton set the scene and led a discussion with myself, James Hursthouse and Kharis O’Connell. Here are seven reflections.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://marketoonist.com/2022/04/the-future-of-the-metaverse.html">The Future of the Metaverse.</a> 2022-04 Marketoonist (h/t Tom Fishburne)
+    <blockquote>
+      <p>The rules of engagement haven’t changed when it comes to the necessity to create value for consumers, and in this territory it’s more important than anywhere else.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://restofworld.org/2022/investors-land-metaverse-decentraland/">Why investors are snapping up virtual land in a metaverse ghost town</a> 2022-04-07 Rest of World
+    <blockquote>
+      <p>Decentraland was supposed to be a digital utopia — floods of money are undermining that vision.</p>
+
+      <p>[…] Outside of events like the buzzy Fashion Week, Decentraland receives only about 25,000 visitors a day, according to its own internal data.</p>
+
+      <p>That lack of engagement isn’t deterring investors from scrambling to buy up Decentraland property or from striking major brand partnerships.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://venturebeat.com/2022/03/19/what-you-need-to-know-about-the-state-of-the-metaverse-today/">What you need to know about the state of the metaverse today</a> 2022-03-19 Venture Beat
+    <blockquote>
+      <p>Many people are still struggling to comprehend exactly what the metaverse is and what promise it will deliver. On a conceptual level, the metaverse has been positioned as the next generation internet that provides a way for us to make our physical lives seamlessly integrate with our virtual lives, creating real-time immersive experiences</p>
+    </blockquote>
+  </li>
+  <li><a href="https://disruptive.asia/metaverses-are-coming-but-who-owns-your-avatar/">Metaverses are coming, but who owns your avatar?</a> 2021-11-12 Disruptive Asia
+    <blockquote>
+      <p>When you create your metaverse avatar, who owns it? Is it yours, or does the platform own it? This question is very fundamental for the future of digital services and human rights. It’s also a very practical and technical question in terms of how we build these platforms and databases.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://venturebeat.com/2022/01/26/identity-and-authentication-in-the-metaverse/">Identity and authentication in the metaverse</a> 2022-01-26 VentureBeat
+    <blockquote>
+      <p>“The interest of the individual in privacy may not be aligned with their interest in the metaverse provider,” Casey explained. “We have plenty of history of this through current social media. It’s not obvious how these misaligned, structural interests will yield much different results in the metaverse.”</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.notboring.co/p/the-value-chain-of-the-open-metaverse">Value Chain of the Open Metaverse</a> 2021-01-25 Notboring
+    <blockquote>
+      <p>Despite the large sums of money made by the people who own Bitcoin, Ethereum, and other altcoins, I’ve always viewed the Web3 movement as anti-capitalist. That couldn’t be further from the truth. The movement is really about doing one of the most capitalist things there is: cutting out the middleman. It means that instead of value accruing to the Aggregators, there can be a more direct connection between suppliers and consumers.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="ssi-and-digital-id-in-the-metaverse">SSI and Digital ID in the Metaverse</h2>
+<ul>
+  <li><a href="https://www.leewayhertz.com/metaverse-self-sovereign-identity/">Self-Sovereign Identity in Metaverse</a> 2022-09-26 Leeway Hertz
+    <blockquote>
+      <p>Although metaverse initiatives are still in their infancy, they are rapidly scaling up leveraging technologies such as blockchain, augmented reality, virtual reality, Internet of Things, artificial intelligence and digital twins to redefine our digital capabilities.</p>
+    </blockquote>
+  </li>
+  <li>[Literature] <a href="https://www.techrxiv.org/articles/preprint/SSI_meets_Metaverse_for_Industry_4_0_and_Beyond/21130375">SSI meets Metaverse for Industry 4.0 and Beyond</a> 2022-09-20  Umit Cali, Md Sadek Ferdous, Enis Karaarslan, Sri Nikhil Gupta Gourisetti, Michael Mylrea Techrxiv
+    <blockquote>
+      <p>The proposed holistic framework aims to ignite new ideas and discussions related to the combined deployment of DLT, SSI, and metaverse to inspire new implementation areas within the Industry 4.0 environment. The paper also discusses various opportunities, enablers, technical \&amp; privacy aspects, legislation requirements, and other barriers related to SSI implementation.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://anonyome.com/2022/07/one-thing-experts-always-say-about-decentralized-identity-the-metaverse-and-web3/">One Thing Experts Always Say About Decentralized Identity, the Metaverse and Web3</a> 2022-07 Anonym
+    <blockquote>
+      <p>Experts globally agree on one key point about decentralized identity: it will be essential to the evolving metaverse and Web3 world. We’ll all be using personal keys, blockchains and decentralized applications to limit the amount of personal information we expose to data brokers, data breaches and dodgy business practices.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://lockstep.com.au/synthetic-metaverse-authentic/">In a totally synthetic metaverse, what does “authentic” even mean?</a> 2022-06-24 Steve Lockstep
+    <blockquote>
+      <p>Will we have to agree on what counts as a “real” identity under the covers? Will there always be biological or “legal” identities behind every metaverse entity? What happens when metaverse entities create completely synthetic digital children? Will there be levels of identity that bottom out somewhere?</p>
+    </blockquote>
+  </li>
+  <li><a href="https://sg.news.yahoo.com/metaverse-prove-203002661.html">Who Are We in the Metaverse, and How Do We Prove It?</a> 2022-05-27 Coindesk
+    <blockquote>
+      <p>Humans are tribal, we want to belong and integrate ourselves in like-minded communities that are focused on the things we are passionate about. And, just as we have since the dawn of humanity, we submit to our innate urges to form tribes, develop communication standards and protect one another.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@talao_io/self-sovereign-identity-and-web3-from-the-metaverse-to-real-life-8f9ef4daae56">Self Sovereign Identity and Web3: From the metaverse to real life</a> 2022-01-10 Talao
+    <blockquote>
+      <p>SSI verifiable credentials are like non-fungible token attached to decentralized identifiers (DID)</p>
+    </blockquote>
+  </li>
+  <li><a href="https://labs.hypersign.id/posts/metaverse-and-did/">Avatars May Use SSI In Metaverse To Prove Identity</a> 2022-01-07 Hypersign ID
+    <blockquote>
+      <p>Metaverse has been in the news for quite some time now. Seems like the next “buzzword” after “blockchain” in the tech space. The tech got a surge especially after <a href="https://www.cnbc.com/2021/10/28/facebook-changes-company-name-to-meta.html">Facebook decided to change its name to Meta</a>. In this blog, we will understand what is Metaverse (a very basic intro) and its relationship with digital identities. The focus will be on explaining why decentralized digital identities are an important tool for Metaverse to replicate the real world.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.forbes.com/sites/alastairjohnson/2022/01/07/a-digital-identity-fit-for-the-metaverse/?sh=70980509184b">A Digital Identity Fit For The Metaverse</a> 2022-01-07 Forbes
+    <blockquote>
+      <p>The SSI model has an individual’s value — be it crypto, in-game items, or other NFTs — directly tied to their identity. It will be accessible with a simple click for physical services, like an Uber, as well as digital ones, like using a digital asset exchange.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://mirror.xyz/0xaCAbfe673ef8Ca1019b5a91a3678186013A1a80F/zsLYnaclzD1jWIx6MMHJNJpT1EIKWlyIZvlDZhOThSw">Self-Sovereign Data (SoDa): The New Web3 Data Economy</a> 2021-11-11 Craig Danton
+    <blockquote>
+      <p>In Stephenson’s “Snowcrash” Hiro Protagonist, the aptly named protagonist of the book, side hustles as a “Stringer for CIC”; essentially a gig economy worker collecting digital intelligence and posting it to a massive data marketplace. Users of the metaverse can then access this library to search for any information they want.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="caution-regarding-the-metaverse">Caution regarding the Metaverse</h2>
+<ul>
+  <li>[Video] <a href="https://wrenchinthegears.com/2022/09/27/ieee-blockchain-chair-urges-speedy-collaborative-open-metaverse-deployment-before-mass-dissent-erupts/">IEEE Blockchain Chair Urges Speedy, Collaborative Open Metaverse Deployment</a> 2022-09-27 Wrench in the Gears<br />
+<em>Warning of dystopian nightmares</em>
+    <blockquote>
+      <p>Lee Stogner, head of the IEEE Blockchain Standards Working Group for Consumer Electronics, stated during the discussion something to the effect that he could see based on the chat that there were some people out there with “another agenda, their own agenda” and therefore it was important that the group come together quickly. My take is that militarized-pharma-debt finance interests intend to manifest their planned “open metaverse” mind game before people know what actually happened.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://trbouma.medium.com/the-rise-of-metanations-2e4b4445411d">The Rise of MetaNations</a> 2021-11-04 Tim Bouma
+    <blockquote>
+      <p>So what’s the imperative for us as real people and governments? To make sure that these realms are as open and inclusive as possible. Personally for me, I don’t want to have a future where certain metacitizens can exert their metarights in an unfair way within the real world; the chosen few getting to the front of the line for everything.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://disruptive.asia/metaverse-biometric-and-health-data-digital-rights%ef%bf%bc/">The metaverse is coming for your biometric and health data</a> 2022-01-27 Disruptive Asia
+    <blockquote>
+      <p>“Meta aims to be able to simulate you down to every skin pore, every strand of hair, every micromovement … the objective is to create 3D replicas of people, places and things, so hyper-realistic and tactile that they’re indistinguishable from what’s real, and then to intermediate any range of services… in truth, they’re undertaking a global human-cloning programme.”</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/07/29/metaverse_privacy_study/">Surprise! The metaverse is going to suck for privacy</a> 2022-07-29 The Register
+    <blockquote>
+      <p>“<a href="https://arxiv.org/abs/2207.13176">Exploring the Unprecedented Privacy Risks of the Metaverse</a>,” boffins at UC Berkeley in the US and the Technical University of Munich in Germany play-tested an “escape room” virtual reality (VR) game</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="metaverse-company-news">Metaverse Company News</h2>
+<ul>
+  <li><a href="https://www.ledgerinsights.com/accenture-onboarded-150000-new-staff-in-the-metaverse-during-the-pandemic/">Accenture onboarded 150,000 new staff in the metaverse during the pandemic</a> 2022-09-09 Ledger Insights
+    <blockquote>
+      <p>Because it’s visual and experiential, the metaverse is “a little bit easier to grasp from a leadership perspective,” said Cutlan. “I don’t know anyone who saw early days blockchain demos and said, ‘I need to show 20 of my friends’.”</p>
+    </blockquote>
+  </li>
+  <li><a href="https://futurism.com/confusing-facebook-not-building-metaverse">In Extremely Confusing Twist, Facebook Says It Isn’t Building a Metaverse After All</a> 2022-05-20 Futurism
+    <blockquote>
+      <p>Facebook’s dream of the metaverse, a VR hellscape stuffed with annoying ads and screeching children, is as incoherent and confusing as ever after reading an 8,000 word essay by Nick Clegg, the president of global affairs at Facebook’s parent company Meta.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://venturebeat.com/2021/11/12/why-microsoft-may-beat-zuckerberg-to-the-metaverse/">Why Microsoft may beat Zuckerberg to the metaverse</a> 2021-11-12 VentureBeat
+    <blockquote>
+      <p>When comparing Meta — <a href="https://venturebeat.com/2021/10/28/facebook-stops-just-short-of-rebranding-to-the-web/">formerly Facebook</a> — and Microsoft’s approaches to the metaverse, it’s clear Microsoft has a much more grounded and realistic vision. Although Meta currently leads in the provision of virtual reality (VR) devices (through its ownership of what was previously called Oculus), Microsoft is adapting technologies that are currently more widely used.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="protocol">Protocol</h2>
+<ul>
+  <li><a href="https://medium.com/bosonprotocol/why-the-open-metaverse-will-never-work-without-an-open-economy-86379cd3c307">A Closed Metaverse = Dystopia. Introducing the Open MetaverseOS</a> 2021-03-04 Boson Protocol
+    <blockquote>
+      <p>In Dawn of the New Everything, his seminal work on virtual reality, Jaron Lanier describes Virtual Reality as “the substitution of the interface between a person and the physical environment with an interface to a simulated environment”. In truth, this is only one of dozens of different VR definitions in this important book, but it is crucial because it raises so many questions.</p>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#ethereum" class="page__taxonomy-item p-category" rel="tag">Ethereum</a><span class="sep">, </span>
+    
+      <a href="/tags/#metaverse" class="page__taxonomy-item p-category" rel="tag">Metaverse</a><span class="sep">, </span>
+    
+      <a href="/tags/#nfts" class="page__taxonomy-item p-category" rel="tag">NFTs</a><span class="sep">, </span>
+    
+      <a href="/tags/#web-3" class="page__taxonomy-item p-category" rel="tag">Web 3</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#web-3" class="page__taxonomy-item p-category" rel="tag">Web 3</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-28">June 28, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=The+Metaverse+in+Web3+and+Self+Sovereign+Identity%20https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fmetaverse%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fmetaverse%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fmetaverse%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fmetaverse%2F&title=The+Metaverse+in+Web3+and+Self+Sovereign+Identity" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/web-3/defi/" class="pagination--pager" title="Decentralized Finance, KYC and Self Sovereign Identity
+">Previous</a>
+    
+    
+      <a href="/development/decentralization/" class="pagination--pager" title="Decentralization and Self Sovereign Identity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

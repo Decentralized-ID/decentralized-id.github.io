@@ -1,0 +1,952 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Verifiable Credentials (ZKP-CL) Anoncreds |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="ZKP with Camenisch-Lysyanskaya Signatures (ZKP-CL)">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Verifiable Credentials (ZKP-CL) Anoncreds">
+<meta property="og:url" content="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/">
+
+
+  <meta property="og:description" content="ZKP with Camenisch-Lysyanskaya Signatures (ZKP-CL)">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Verifiable Credentials (ZKP-CL) Anoncreds">
+  <meta name="twitter:description" content="ZKP with Camenisch-Lysyanskaya Signatures (ZKP-CL)">
+  <meta name="twitter:url" content="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-09-08T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-09-29T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li>
+</ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero" style=" background-image: url('');">
+  
+    <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl.webp" alt="Verifiable Credentials (ZKP-CL) Anoncreds" class="page__hero-image">
+  
+  
+    <span class="page__hero-caption"><a href="https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf">[<strong>Verifiable Credentials Flavors Explained</strong>]</a> 2021 CCI Kaliya ‘Identity Woman’ Young [<a href="https://www.lfph.io/wp-content/uploads/2021/04/Verifiable-Credentials-Flavors-Explained-Infographic.pdf"><strong>Infographic</strong></a>]
+</span>
+  
+</div>
+
+
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp" alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources &amp; Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Verifiable Credentials (ZKP-CL) Anoncreds">
+    <meta itemprop="description" content="This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authoritative registry. JSON-LD Signatures use an @context field to reference existing RDF mapping to known dictionaries and assumes an open world model where new terms and definitions can easily be introduced">
+    <meta itemprop="datePublished" content="2023-09-08T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-09-29T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" class="u-url" itemprop="url">Verifiable Credentials (ZKP-CL) Anoncreds
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title">
+<i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu">
+<li><a href="#main">Main</a></li>
+<li><a href="#working-group">Working Group</a></li>
+<li><a href="#development">Development</a></li>
+<li><a href="#background">Background</a></li>
+<li>
+<a href="#critique">Critique</a><ul><li><a href="#response">Response</a></li></ul>
+</li>
+<li><a href="#prior-work">Prior Work</a></li>
+</ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="main">Main</h2>
+<p><a href="https://www.hyperledger.org/use/anoncreds">Website</a> - <a href="https://github.com/hyperledger/anoncreds-spec">Specification</a> - <a href="https://github.com/hyperledger/anoncreds-spec-v2">Specification V2</a></p>
+
+<blockquote>
+  <p>Hyperledger AnonCreds – short for “Anonymous Credentials”- is the most commonly used Verifiable Credential (VC) format in the world. Ledger agnostic and with a formal open specification, AnonCreds is a VC format that adds important privacy-protecting ZKP (zero-knowledge proof) capabilities to the core VC assurances.</p>
+</blockquote>
+
+<ul>
+  <li>
+<a href="https://www.ledgerinsights.com/hyperledger-digital-identity-anoncreds-verifiable-credentials-privacy/">Hyperledger launches new digital identity project, AnonCreds</a> 2022-11-15
+    <blockquote>
+      <p>The technology itself is not new, as it was originally part of Hyperledger Indy, the digital identity ledger project. However, it has now been separated from Indy so that it can be used for verifiable credentials on ledgers such as Hyperledger Fabric or Ethereum-based Hyperledger Besu, or others.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf">Verifiable Credentials Flavors Explained</a> 2021 CCI Kaliya ‘Identity Woman’ Young
+    <blockquote>
+      <p>ZKP-CL: This credential format was created specifically to leverage the <a href="https://link.springer.com/chapter/10.1007/3-540-36413-7_20">CL Signatures</a>. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authoritative registry. JSON-LD Signatures use an <a href="https://twitter.com/context" class="user-mention">@context</a> field to reference existing RDF mapping to known dictionaries and assumes an open world model where new terms and definitions can easily be introduced</p>
+    </blockquote>
+  </li>
+  <li>[Literature] <a href="https://cs.brown.edu/people/alysyans/papers/camlys02b.pdf">A Signature Scheme with Efficient Protocols</a> 2001 Jan Camenisch IBM Zurich, Anna Lysyanskaya Brown
+    <blockquote>
+      <p>Digital signature schemes are a fundamental cryptographic primitive, of use both in its own right, and as a building block in cryptographic protocol design. In this paper, we propose a practical and provably secure signature scheme and show protocols (1) for issuing a signature on a committed value (so the signer has no information about the signed value), and (2) for proving knowledge of a signature on a committed value. This signature scheme and corresponding protocols are a building block for the design of anonymity-enhancing cryptographic systems, such as electronic cash, group signatures, and anonymous credential systems. The security of our signature scheme and protocols relies on the Strong RSA assumption. These results are a generalization of the anonymous credential system of Camenisch and Lysyanskaya</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="working-group">Working Group</h2>
+<ul>
+  <li>
+<a href="https://wiki.hyperledger.org/display/ANONCREDS/AnonCreds+Specification+Working+Group">AnonCreds Specification Working Group</a> 2022-11-02
+    <blockquote>
+      <p>The AnonCreds Specification Working Group operates under the Community Specification License v1.0 to create the AnonCreds Specification. Current work is focused on Version 1.0 of the specification that covers the current CL-Signatures-based implementation of AnonCreds agnostic to the underlying ledger.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=sUcstipdEm8">Hyperledger AnonCreds Specification Working Group</a> 2023-06-19 Hyperledger Foundation
+    <blockquote>
+      <p>The big thing I want to talk about was a couple of things on revocation approaches and and go over possibilities. There, there’s a few things happening that I wanted to share. […] as I mentioned in our credits announcements, the 0.1.0 rust implementation was officially released</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="development">Development</h2>
+
+<ul>
+  <li>
+<a href="https://www.youtube.com/watch?v=1RrJky42dvg">Hyperledger AnonCreds Workshop: Using ZKP Verifiable Credentials Everywhere</a> 2023-05-31 Hyperledger Foundation
+    <blockquote>
+      <p>AnonCreds was accepted as an Incubated project at Hyperledger in late 2022. This is the first workshop developed by this community and it is intended for anyone interested in using Zero Knowledge Proofs (ZKPs) in a wide variety of contexts.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://github.com/hyperledger/anoncreds-rs">anoncreds-rs</a> 2023-06-02 Hyperledger
+    <blockquote>
+      <p>Rust library and reference implementation of the <a href="https://hyperledger.github.io/anoncreds-spec/">Anoncreds V1.0</a> specification.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="background">Background</h2>
+<ul>
+  <li>
+<a href="https://hackmd.io/S6e2MeSWTICnV9lD9OukKg">Wrapping Indy Credentials (AnonCreds) in W3C VCs</a> 2021-04-12 Finema
+    <blockquote>
+      <p>AnonCreds are typically bound to a holder by using a link secret and not by issuing a credential to a public DID. In order to add such a credential (or a subset of attributes) to the public profile, we suggest the following mechanism which expresses the intent: I self-attest that I have this credential with the specific attribute values, if you require a proof you can ask me using the Aries present proof protocol.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/finema/anonymous-credential-part-2-selective-disclosure-and-cl-signature-b904a93a1565">Anonymous Credential Part 2: Selective Disclosure and CL Signature</a> 2021-02-04 Finema
+    <blockquote>
+      <p>selective disclosure and an anonymous credential (Anoncred) relies on an efficient signature scheme that supports multiple messages with a single signature. One such signature scheme is known as CL signature that is named after its Jan Camenisch and Anna Lysyanskaya […] CL signature popularized Anoncreds, and it also served as a cryptographic building block in Identity Mixer (Idemix) and Hyperledger Indy projects.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/finema/anonymous-credential-part-1-brief-overview-and-history-c6679034c914">Anonymous Credential Part 1: Brief Overview and History</a> 2020-10-01
+    <blockquote>
+      <p>An anonymous credential (Anoncred), which is also known as an attribute-based credential (ABC), is a concept for a digital credential that provides a credential holder maximal privacy and an ability to selectively disclose their personal information.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blog.goodaudience.com/cl-signatures-for-anonymous-credentials-93980f720d99">CL Signatures for Anonymous Credentials</a> 2019-01-14 Will Abramson
+    <blockquote>
+      <p>A CL Signature is a signature scheme developed by Jan Camenisch and Anna Lysyanskaya. This scheme has some properties that make it ideal for use in an anonymous credential system and is, in fact, the scheme that Sovrin, and I am sure others, currently use. In this post, I will try to synthesise my current understanding of this scheme, including a look at how Sovrin uses it in practice.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/AttributeBasedCredentials_and_VariableLengthDataGraphs.md">Attribute Based Credentials and Variable Length Data Graphs</a> 2018-02-28
+    <blockquote>
+      <p>In an effort to allow JSON-LD data structures to leverage attribute based credentials and zero knowledge signature schemes, this paper outlines differences, requirements and possible options for representing JSON-LD data in attribute based credential schemes such as the one in use by the Sovrin network, implemented in the Hyperledger Indy project.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="critique">Critique</h2>
+
+<ul>
+  <li>
+<a href="https://identitywoman.net/being-real-about-hyperledger-indy-aries-anoncreds/">Being “Real” about Hyperledger Indy &amp; Aries / Anoncreds</a> 2022-09-10 IdentityWoman
+    <blockquote>
+      <p>This article surfaces a synthesis of challenges / concerns about Hyperledger Indy &amp; Aries / Anoncreds, the most marketed Self-Sovereign Identity technical stack. It is aimed to provide both business and technical decision makers a better understanding of the real technical issues and related business risks of Hyperledger Indy &amp; Aries / Anoncreds, which have not been shared and discussed openly or publicly as the author believes need to be.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="response">Response</h3>
+
+<ul>
+  <li>
+<a href="https://www.ledgerinsights.com/hyperledger-digital-identity-anoncreds-verifiable-credentials-privacy/">Hyperledger launches new digital identity project, AnonCreds</a> 2022-11-15
+    <blockquote>
+      <p>The technology itself is not new, as it was originally part of Hyperledger Indy, the digital identity ledger project. However, it has now been separated from Indy so that it can be used for verifiable credentials on ledgers such as Hyperledger Fabric or Ethereum-based Hyperledger Besu, or others.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://kyledenhartog.com/response-to-anoncreds-criticism/">A response to Identity Woman’s recent blog post about Anoncreds</a> 2022-09-08 Kyle Den Hartog
+    <blockquote>
+      <p>It’s only when I started to take a step back that I realized that the architecture of Indy being a private, permissioned ledger leaves it heading in the same direction as many large corporations now extinct browser and intranet projects for many of the same reasons.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://trinsic.id/moving-toward-identity-technology-ready-for-mass-adoption/">Moving Toward Identity Technology Ready for Mass Adoption</a> 2022-09-09 Trinsic
+    <blockquote>
+      <p>when we realized our customers were facing critical limitations caused by the underlying tech stack, we began developing an updated version of our platform that would reduce our dependency on these technologies and enable a better platform for our customers.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://daniel-hardman.medium.com/response-to-kaliyas-being-real-post-13fddb9410f0">Response to Kaliya’s “Being Real” Post</a></li>
+</ul>
+
+<p><strong>Link Secrets and Privacy-Trust Paper</strong></p>
+<ul>
+  <li>Significant section of critique discusses link secrets</li>
+  <li>Repeats old claim they are insecure</li>
+  <li>Cites 2019 paper by Arnold and Longley for support</li>
+  <li>Assertion made that the paper has inaccuracies and misrepresentations</li>
+  <li>Rebuttal sent to W3C CCG with supporting documentation</li>
+  <li>Encourages reading both sources before deciding on credential security</li>
+</ul>
+
+<p><strong>Misunderstanding About Credential Formats (AnonCreds vs. VC Spec)</strong></p>
+<ul>
+  <li>Differences in how “credential” is defined between AnonCreds and VC spec</li>
+  <li>AnonCreds’ internal “credentials” are not designed for sharing or verification</li>
+  <li>Verifiable AnonCreds “proofs” should be evaluated as verifiable credentials</li>
+  <li>Interoperability work focuses on proofs, not credential formats per se</li>
+  <li>Mapping between AnonCreds proofs and VC data model already exists</li>
+  <li>Lack of willingness to alter UX and messaging may hinder interoperability</li>
+</ul>
+
+<h2 id="prior-work">Prior Work</h2>
+<ul>
+  <li>
+<a href="https://forum.sovrin.org/t/how-idemex-is-implemented-in-sovrin-indy/">How is IDEMix Implemented?</a>
+    <blockquote>
+      <p>Identity Mixer is not directly (re)implemented by Sovrin, but its cryptographic foundations are very similar, and Sovrin’s implementation includes most of its extended features (predicates, multi-credential, revocation, advanced issuance…). One of the researchers who helped to create Identity Mixer is on Sovrin’s Technical Governance Board and has offered insight to keep the implementations aligned on goals and methods.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://idemix.wordpress.com/">IDEMIX Blog</a></li>
+  <li><a href="https://abc4trust.eu/">ABC4Trust—Attribute-based Credentials for Trust</a></li>
+  <li><a href="https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features">Concepts and Features of Privacy-Preserving Attribute-Based Credentials</a></li>
+  <li><a href="http://dl.ifip.org/db/conf/idman/idman2013/CamenischDLNPP13.pdf">Concepts and Languages for Privacy-Preserving Attribute-Based Authentication</a></li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#anoncreds" class="page__taxonomy-item p-category" rel="tag">Anoncreds</a><span class="sep">, </span>
+    
+      <a href="/tags/#evernym" class="page__taxonomy-item p-category" rel="tag">Evernym</a><span class="sep">, </span>
+    
+      <a href="/tags/#hyperledger-foundation" class="page__taxonomy-item p-category" rel="tag">Hyperledger Foundation</a><span class="sep">, </span>
+    
+      <a href="/tags/#ibm" class="page__taxonomy-item p-category" rel="tag">IBM</a><span class="sep">, </span>
+    
+      <a href="/tags/#idemix" class="page__taxonomy-item p-category" rel="tag">IDEMIX</a><span class="sep">, </span>
+    
+      <a href="/tags/#sovrin-foundation" class="page__taxonomy-item p-category" rel="tag">Sovrin Foundation</a><span class="sep">, </span>
+    
+      <a href="/tags/#verifiable-credentials" class="page__taxonomy-item p-category" rel="tag">Verifiable Credentials</a><span class="sep">, </span>
+    
+      <a href="/tags/#w3c" class="page__taxonomy-item p-category" rel="tag">W3C</a><span class="sep">, </span>
+    
+      <a href="/tags/#zkp-cl" class="page__taxonomy-item p-category" rel="tag">ZKP-CL</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#verifiable-credentials-and-decentralized-identifiers" class="page__taxonomy-item p-category" rel="tag">Verifiable Credentials and Decentralized Identifiers</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-09-29">September 29, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&amp;text=Verifiable+Credentials+%28ZKP-CL%29+Anoncreds%20https%3A%2F%2Fdecentralized-id.com%2Fweb-standards%2Fw3c%2Fverifiable-credentials%2Fzkp-cl_anoncreds%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fweb-standards%2Fw3c%2Fverifiable-credentials%2Fzkp-cl_anoncreds%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fdecentralized-id.com%2Fweb-standards%2Fw3c%2Fverifiable-credentials%2Fzkp-cl_anoncreds%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fweb-standards%2Fw3c%2Fverifiable-credentials%2Fzkp-cl_anoncreds%2F&amp;title=Verifiable+Credentials+%28ZKP-CL%29+Anoncreds" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/web-standards/w3c/verifiable-credentials/data-integrity_ld-proofs/" class="pagination--pager" title="Verifiable Credentials with JSON-LD and Linked Data Proofs
+">Previous</a>
+    
+    
+      <a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" class="pagination--pager" title="Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity_ld-proofs/" rel="permalink">Verifiable Credentials with JSON-LD and Linked Data Proofs
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Starting with the name, JSON-LD stands for JavaScript Object Notation with Linked Data. JSON-LD is a method of encoding linked data using JSON. The term “JSON-LD Credential” alone is somewhat ambiguous but the way it is colloquially used, it means a W3C Verifiable Credential Data Model compliant ...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

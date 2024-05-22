@@ -1,0 +1,935 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>User Experience and Self Sovereign Identity |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="the mere fact of building such a verifiable and traceable architecture does not automatically translate into understandable communications">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="User Experience and Self Sovereign Identity">
+<meta property="og:url" content="https://decentralized-id.com/development/user-experience/">
+
+
+  <meta property="og:description" content="the mere fact of building such a verifiable and traceable architecture does not automatically translate into understandable communications">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="User Experience and Self Sovereign Identity">
+  <meta name="twitter:description" content="the mere fact of building such a verifiable and traceable architecture does not automatically translate into understandable communications">
+  <meta name="twitter:url" content="https://decentralized-id.com/development/user-experience/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-06-22T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-23T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/development/user-experience/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="User Experience and Self Sovereign Identity">
+    <meta itemprop="description" content="Lack of great user experiences is often raised as one of decentralized identity’s (and public blockchain’s) missing ingredients for ubiquitous adoption. However to arrive at usable experiences across the industry, we first need to reach consensus around basic user personas and mental models, then design and build interoperable system accordingly.">
+    <meta itemprop="datePublished" content="2023-06-22T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-23T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/development/user-experience/" class="u-url" itemprop="url">User Experience and Self Sovereign Identity
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          7 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#general">General</a></li><li><a href="#relationship-based-identity">Relationship based Identity</a></li><li><a href="#customer-relationships">Customer Relationships</a></li><li><a href="#design">Design</a></li><li><a href="#trust">Trust</a></li><li><a href="#users-needs">Users Needs</a><ul><li><a href="#location-tracking">Location Tracking</a></li></ul></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="general">General</h2>
+<ul>
+  <li><a href="https://www.windley.com/archives/2021/11/identity_and_consistent_user_experience.shtml">Identity and Consistent User Experience</a> 2021-11 Phil Windley
+    <blockquote>
+      <p>There’s a saying in security: “Don’t roll your own crypto.” I think we need a corollary in identity: “Don’t roll your own interface.” But how do we do that? And what should the interface be? One answer is to adopt the user experience people already understand from the physical world: connections and credentials.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.windley.com/archives/2021/09/fluid_multi-pseudonymity.shtml">Fluid Multi-Pseudonymity</a> 2021-09-07 Windley
+    <blockquote>
+      <p>Fluid multi-pseudonymity perfectly describes the way we live our lives and the reality that identity systems must realize if we are to live authentically in the digital sphere.‘</p>
+    </blockquote>
+  </li>
+  <li><a href="https://iiw.idcommons.net/21M/_Humanizing_PoSSI-_Human-centric_structure_of_the_Principles_of_SSI">Humanizing PoSSI- Human-centric structure of the Principles of SSI</a> 2021-05-06 Line Kofoed
+    <blockquote>
+      <ol>
+        <li>[Line] Welcome and introductions; background information around how this topic is important to discuss</li>
+        <li>Principles of SSI - <a href="https://sovrin.org/principles-of-ssi/">https://sovrin.org/principles-of-ssi/</a></li>
+        <li>Sovrin Foundation is working on Sovrin Utility GF and the Sovrin Ecosystem GF</li>
+        <li>Work on the SEGF led to reviewing how we define an ecosystem (see slide for definition) → identity ecosystem for identity services</li>
+        <li>The approach to grouping the 12 principles are intended to enable better understanding as digital trust ecosystems grow</li>
+        <li>Ecosystem of ecosystems will need a foundational set of values and principles and the PoSSI</li>
+        <li>[Sterre] It is good to have the order the principles to help better understanding</li>
+        <li>[Drummond] additional supplementary material to help laypersons understand the PoSSI better</li>
+        <li>[Alex] is the original sequence/numbering sufficient and complete?</li>
+        <li>[Chris] the grouping is more important for the SEGF</li>
+        <li>[please join Sovrin meetings]</li>
+      </ol>
+    </blockquote>
+  </li>
+  <li><a href="https://www.youtube.com/watch?v=UnWsu1gCe9k">Bringing User-Centricity to Decentralized Identity</a> 2021-08-01 Nat Sakimura KuppingerCole
+    <blockquote>
+      <p>Raj Hegde sits with identity veteran, Nat Sakimura - Chairman of OpenID Foundation to understand how user-centric learnings from existing authentication protocols can be applied to future identity initiatives.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/universal-identity/how-humans-understand-identity-367200ae9591">How humans understand identity</a> 2021-07-09 Universal Identity
+    <blockquote>
+      <p>Lack of great user experiences is often raised as one of decentralized identity’s (and public blockchain’s) missing ingredients for ubiquitous adoption. However to arrive at usable experiences across the industry, we first need to reach consensus around basic user personas and mental models, then design and build interoperable system accordingly.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="relationship-based-identity">Relationship based Identity</h2>
+<ul>
+  <li><a href="https://www.windley.com/archives/2022/03/are_transactional_relationships_enough.shtml">Are Transactional Relationships Enough?</a> 2022-03 Phil Windley
+    <blockquote>
+      <p>Our online relationships are almost all transactional. A purely transaction digital life can’t feel as rich and satisfying as one based on interactional relationships. As more of our relationships are intermediated by technology, finding ways to support interactional relationships will allow us to live authentic digital lives.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.inkandswitch.com/backchannel/">Backchannel: A relationship-based digital identity system</a> 2021-09 Ink and Switch
+    <blockquote>
+      <p>Using Backchannel as a model example, we propose four design principles for trusted digital relationships. Then we used Backchannel to design and build three sample apps: chat, location sharing, and document preview. We also tested these designs with journalists, researchers, and designers. Based on this testing, we outline common user experience challenges and recommended solutions.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.windley.com/archives/2020/08/authentic_digital_relationships.shtml">Authentic Digital Relationships</a> 2020-08 Phil Windley
+    <blockquote>
+      <p>Self-sovereign identity (SSI) systems offers an alternative model that supports richer relationships. Rather than provisioning identifiers and accounts in an administrative system where the power imbalance assures that one party to the relationship can dictate the terms of the interaction, SSI is founded on peer relationships that are co-provisioned by the exchange of decentralized identifiers. This architecture implies that both parties will have tools that speak a common protocol.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.windley.com/archives/2020/07/relationships_and_identity.shtml">Relationships and Identity</a> 2020-07 Phil Windley
+    <blockquote>
+      <p>We build digital identity systems to create and manage relationships—not identities.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="customer-relationships">Customer Relationships</h2>
+<ul>
+  <li><a href="https://identitypraxis.com/2021/12/10/the-identity-imperative-risk-management-value-creation-and-balance-of-power-shifts/">The Identity Imperative: Risk Management, Value Creation, and Balance of Power Shifts</a> 2021-12-10 Michael Becker IdentityPraxis
+    <blockquote>
+      <p>Brands need to prepare for fundamental shifts in people’s attitudes and expectations. The implications of these shifts will be profound, as they will force a change in competition, business models, product offerings, and business practices.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.evernym.com/blog/7-deadly-sins-customer-relationships/">The 7 Deadly Sins of Digital Customer Relationships</a> 2021-03-02 Evernym
+    <blockquote>
+      <p>It’s not just about measuring customers, it’s about keeping them. Yet the more I look at how businesses design and manage their relationships with customers, the more I see dysfunction, waste and a collapse of consumer trust. In fact, I see a number of core business behaviours that are causing this waste, this dysfunction. Seven to be precise.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.evernym.com/blog/decentralized-identifiers-customer-relationships/">Decentralized Identifiers: Building Smarter, More Sustainable Customer Relationships</a> 2021-03-02 Evernym
+    <blockquote>
+      <p>DIDs are about building lasting private and secure digital relationships with customers, and as we’ll see with each of the Deadly Sins, about reducing costs, increasing compliance and enabling truly personalized products and services – without being creepy.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="design">Design</h2>
+<ul>
+  <li><a href="https://background.tagesspiegel.de/cybersecurity/mehr-sicherheit-muss-nicht-weniger-nutzerfreundlichkeit-bedeuten">More security does not have to mean less user-friendliness</a> 2022-06-05 Martin Kuppinger, Tagesspiegel
+    <blockquote>
+      <p>The passwords that have been declared dead are far from dead. Nevertheless, the way in which users authenticate themselves is changing towards more security and convenience.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.youtube.com/watch?v=bGgV2Ffnczg">​​How Might we Design Consent Experiences for Data Sharing?</a> 2022-05-27 ToIP HXWG Arianna Rossi, Xengie Doan, Interdisciplinary Center for Security, Reliability and Trust (SnT) at the University of Luxembourg
+    <blockquote>
+      <p>The complex ecosystem where manifold transactions can be automatically enabled by smart contracts contributes, at least in principle, to establish greater transparency about data use towards the many parties involved. However, the mere fact of building such a verifiable and traceable architecture does not automatically translate into understandable communications, easily applicable instructions and smooth transactions for human beings.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.linkedin.com/pulse/tap-prove-stephen-wilson/">Tap and Prove</a> 2021-07-15 Stephen Wilson
+    <blockquote>
+      <p>We should be able to “tap and prove” any important fact and figures about ourselves – as easily as we tap and pay with a mobile phone at any one of 100s of millions of terminals globally.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blogs.worldbank.org/voices/access-agency-and-empowerment-through-disability-inclusive-id-systems">Disability-inclusive ID Systems</a> 2020-12-09 World
+    <blockquote>
+      <p>Creating an inclusive ID system requires a comprehensive, whole-of-system approach to overcome barriers to ID enrollment and use for persons with disabilities.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@kokumai/eps-for-ssi-self-sovereign-identity-8c742e2b1d02">EPS for SSI (Self-Sovereign Identity)</a> 2020-08-15 Hitoshi Kokumai
+    <blockquote>
+      <p>you might be interested to hear that the core of EPS is designed to convert images to high-entropy codes, which work as very long passwords and also as the seeds of symmetric or asymmetric cryptographic keys.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/">Falsehoods Programmers Believe About Names - With Examples</a> 2018-01-08 Shine Solutions Group
+    <blockquote>
+      <p>In this post I’m going to list all 40 of Patrick’s original falsehoods, but give you an example (or two) drawn from my experiences working in this space. Ready? Let’s go!</p>
+
+      <ol>
+        <li>People have exactly one canonical full name.</li>
+        <li>People have exactly one full name which they go by.</li>
+      </ol>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="trust">Trust</h2>
+<ul>
+  <li><a href="https://northernblock.io/verifiable-credentials/introduction-to-digital-trust/">An Introduction to Digital Trust</a> 2021-09-06 Northern Block
+    <blockquote>
+      <p>what’s the purpose of SSI? It’s about enabling Digital Trust (which is quickly becoming an integral part of digital transformation for organizations).</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.kuppingercole.com/events/eic2022/blog/will-users-and-organizations-have-trust-in-keys-roaming-via-the-cloud">Will users and organizations have trust in keys roaming via the cloud?</a> 2022-05-12 Kuppinger Cole EIC2022
+    <blockquote>
+      <p>the FIDO Alliance, a set of open, scalable, and interoperable specifications has been developed to replace passwords as a secure authentication method for online services. The alliance has also worked with companies such as <a href="https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-authentication-passwordless">Microsoft</a>, <a href="https://cloud.google.com/blog/products/identity-security/protect-gce-vms-with-managed-fido-security-keys">Google</a>, and <a href="https://fidoalliance.org/expanded-support-for-fido-authentication-in-ios-and-macos/">Apple</a>  to integrate and adopt FIDO standards across their operating systems.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="users-needs">Users Needs</h2>
+<ul>
+  <li><a href="https://me2ba.org/people-dont-understand-the-purpose-of-privacy-policies-and-terms-of-service-new-research-published/">People Don’t Understand the Purpose of Privacy Policies and Terms of Service – New Research Published</a> 2022-01-24 Me2B Alliance (<a href="https://me2ba.org/spotlight-report-5-me2b-alliance-validation-testing-report-consumer-perception-of-legal-policies-in-digital-technology/">Report</a>
+    <blockquote>
+      <ul>
+        <li>Consumers are aware that legal policies exist on connected technologies and that they should read them, but they continue to choose to largely ignore them.</li>
+        <li>55% of survey participants did not understand that a TOS/TOU agreement is a legal contract. This has significant implications because a key requirement for legally binding contracts is mutual assent, which means that both parties have a “meeting of the minds” and must understand they’re entering into a contract.</li>
+        <li>None of the interview participants were aware of tools that explain or rate privacy policies and TOS/TOU documents, and half said that a score would not change their behavior.</li>
+        <li>66% of survey respondents believe that privacy policies protect the business, while 50% say they protect the consumer. It’s questionable that privacy policies protect either the individual or the business, as they are primarily legal notices, disclosures of how data is used by the technology and the companies behind it. Moreover, 39% of respondents erroneously thought that the privacy policy was a contract [between them and the company].</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://auth0.com/blog/what-your-customers-really-want-from-your-login-box/">What Your Customers Really Want From Your Login Box</a> 2021-10-06 Auth0
+    <blockquote>
+      <p>customers want convenience and control: they want to choose which authentication method to use – whether it’s MFA or SSO or biometrics. They want a brand experience that resembles a concierge desk: a 24/7 service where no demand is too big. To top it off, they don’t want to see any technical glitches</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="location-tracking">Location Tracking</h3>
+<ul>
+  <li><a href="https://me2ba.org/most-people-feel-negatively-about-location-tracking/">Most People Feel Negatively About Location Tracking in Websites and Apps</a> 2021-11-16 Me2Ba
+    <blockquote>
+      <p>The Spotlight Report, “<a href="https://me2ba.org/spotlight-report-3-me2b-alliance-validation-research-consumer-sensitivity-to-location-tracking-by-websites-and-mobile-apps/">Consumer Sensitivity to Location Tracking by Websites and Mobile Apps</a>”, was developed to validate the Location Commitment scoring criteria in the <a href="https://me2ba.org/spotlight-report-3-me2b-alliance-validation-research-consumer-sensitivity-to-location-tracking-by-websites-and-mobile-apps/">Me2B Alliance Validation Research: Consumer Sensitivity to Location Tracking by Websites and Mobile Apps</a></p>
+    </blockquote>
+  </li>
+  <li><a href="https://me2ba.org/what-is-respectful-use-of-location-information-new-me2ba-research-published/">What is Respectful Use of Location Information? New Me2BA Reearch</a> 2021-11-22 Me2B
+    <blockquote>
+      <p>As we’ve been performing independent product audits over the past year and a half, we received some push-back on our passing criteria related to the automatic translation of IP address to geographic location. Vendors felt that automatically calculating the user’s geographical location was, in fact, a benefit. However, in our specification, that behavior will receive a failing score. At an impasse, we decided to conduct some validation testing with Me-s.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://me2ba.org/spotlight-report-3-me2b-alliance-validation-research-consumer-sensitivity-to-location-tracking-by-websites-and-mobile-apps/">“Spotlight Report #3: Consumer Sensitivity to Location Tracking by Websites and Mobile Apps”</a> 2021-11-16 Me2B
+    <blockquote>
+      <p>This research quantifies and qualifies public opinion of location tracking in a variety of different contexts within web and mobile technology.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://anonyome.com/2021/06/do-consumers-even-want-personalized-ads/">Do Consumers Even Want Personalized Ads?</a> 2021-06 Anonyme
+    <blockquote>
+      <p>The <a href="https://www.globalwitness.org/en/blog/do-people-really-want-personalised-ads-online/">YouGov</a> poll of consumers in France and Germany we mentioned earlier says it’s the <a href="https://mysudo.com/2021/02/beware-the-dark-patterns-trying-to-steal-your-data/">behind the scenes</a> or back door nature of personalization that gives people the creeps.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://anonyome.com/2021/05/only-5-of-us-consumers-want-to-be-tracked-for-ads/">Only 5% Of US Consumers Want To Be Tracked For Ads</a> 2021-05 Anonyme
+    <blockquote>
+      <p>That means 95% of US consumers are saying ‘no way’ to cross-app tracking with Apple’s new <a href="https://anonyome.com/2021/05/apples-new-att-and-why-facebook-is-hitting-back-hard/">App Tracking Transparency</a> (ATT) feature.</p>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#relationships" class="page__taxonomy-item p-category" rel="tag">Relationships</a><span class="sep">, </span>
+    
+      <a href="/tags/#user-experience" class="page__taxonomy-item p-category" rel="tag">User Experience</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#technology" class="page__taxonomy-item p-category" rel="tag">Technology</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-23">June 23, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=User+Experience+and+Self+Sovereign+Identity%20https%3A%2F%2Fdecentralized-id.com%2Fdevelopment%2Fuser-experience%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fdevelopment%2Fuser-experience%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fdevelopment%2Fuser-experience%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fdevelopment%2Fuser-experience%2F&title=User+Experience+and+Self+Sovereign+Identity" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/application/trending-adoption/" class="pagination--pager" title="Market signals, SSI trending, and the road to mainstream adoption.
+">Previous</a>
+    
+    
+      <a href="/development/architecture/" class="pagination--pager" title="System Architecture and Self Sovereign Identity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

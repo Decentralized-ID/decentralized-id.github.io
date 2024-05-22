@@ -1,0 +1,846 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Guardianship |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="How SSI meets the lifecycle stages (Inception, Creation, Usage and Termination) of guardianship.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Guardianship">
+<meta property="og:url" content="https://decentralized-id.com/application/guardianship/">
+
+
+  <meta property="og:description" content="How SSI meets the lifecycle stages (Inception, Creation, Usage and Termination) of guardianship.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Guardianship">
+  <meta name="twitter:description" content="How SSI meets the lifecycle stages (Inception, Creation, Usage and Termination) of guardianship.">
+  <meta name="twitter:url" content="https://decentralized-id.com/application/guardianship/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-06-18T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-07-02T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/application/guardianship/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Guardianship">
+    <meta itemprop="description" content="Applying the developed models of guardianship, using the flexibility of Verifiable Credentials and the trusted mechanisms of sharing VCs, can provide the ability to add guardianship credentials into the travel process (or not) without breaking the existing approach and complicating the technical details defined in the Blueprint.">
+    <meta itemprop="datePublished" content="2023-06-18T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-07-02T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/application/guardianship/" class="u-url" itemprop="url">Guardianship
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          4 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+        <h2 id="main">Main</h2>
+<ul>
+  <li>[Whitepaper] <a href="https://newsletter.identosphere.net/p/identosphere-138-new-wef-report-mef">On Guardianship in Self-Sovereign Identity</a> 2023-04 Sovrin
+    <blockquote>
+      <p>This paper, published by the Sovrin Guardianship Working Group, explores the guardianship relationship and how it fits in with the overall SSI “web of trust.” It presents risks, benefits and approaches to implementation of Guardianship for SSI use cases.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://trustoverip.org/blog/2021/11/24/lets-go-together/">Let’s Go - Together!: Does international travel only ever involve independent adults?</a> 2021-11-24 ToIP
+    <blockquote>
+      <p>Applying the developed models of guardianship, using the flexibility of Verifiable Credentials and the trusted mechanisms of sharing VCs, can provide the ability to add guardianship credentials into the travel process (or not) without breaking the existing approach and complicating the technical details defined in the Blueprint.</p>
+    </blockquote>
+  </li>
+  <li><a href="http://thedinglegroup.com/blog/2020/11/30/guardianship-in-self-sovereign-identity">Guardianship In Self-Sovereign Identity</a> 2020-11-30 The Dingle Group
+    <blockquote>
+      <p>While there are long standing legal precedents and processes around the assignment, management and revocation of guardianships, these requirements were not met by existing digital identity management solutions. With SSI, this mechanism now exists.  SSI can work in conjunction with traditional identity and credential management systems while being able to integrate into existing legal processes and provides a robust mechanism for revocation.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://vimeo.com/482803989">Vienna Digital Identity Meetup #17</a> 2020-11-23 Digital Identity from Vienna
+    <blockquote>
+      <p>Guardianship is a complex topic, with many subtleties and layers […]  In this first event on this topic, Philippe has provided an overview of how SSI and Guardianship fit together and how SSI meets the lifecycle stages (Inception, Creation, Usage and Termination) of guardianship.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="development">Development</h2>
+<ul>
+  <li><a href="https://kyledenhartog.com/delegation-in-verifiable-credentials/">Common Delegation Patterns in the Verifiable Credential Ecosystem</a> 2021-06-22 Kyle Den Hartog
+    <blockquote>
+      <p>did you know that there are three ways in which you can utilize VCs and DIDs to enable delegation […] look to the <a href="https://w3c-ccg.github.io/zcap-ld/">ZCAP-LD data model</a> which is designed especially for these concepts.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://iiw.idcommons.net/4G/_Guardianship_Showcase_-_The_Sovrin_Working_Group_Tech_Requirements_and_Implementation_Guidelines">Guardianship Showcase - The Sovrin Working Group Tech Requirements and Implementation Guidelines</a> 2021-05-06 John Phillips, Jo Spenser IDCommons, IIW
+    <blockquote>
+      <p>Sovrin is looking to promote the governance process and where guardianship fits in. The IdRamp wallet is an example of how the wallet could provide helpful features.</p>
+    </blockquote>
+    <ul>
+      <li><a href="https://docs.google.com/presentation/d/1aGTPmlno3WScpSYMs1HLhWsrVRx9B-I0yhOQsRgmqRw/edit?usp=sharing">Guardianship, SSI, and the Sovrin Guardianship WG - Update for IIW #32</a>
+        <blockquote>
+          <ol>
+            <li>Jurisdictions are essential [to Guardianship]</li>
+            <li>Work with existing laws</li>
+            <li>Build Guardianship on Verifiable Credentials</li>
+            <li>Build a mental model</li>
+            <li>Don’t build Guardianship [solely] on wallets</li>
+          </ol>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+  <li><a href="https://iiw.idcommons.net/11I/_Identity_Escrow_-_Accountability_AND_Privacy">Identity Escrow - Accountability AND Privacy</a> 2021-05-06 Sam Curren, Ken Ebert, Suresh Batchu, Kiran Addepalli
+    <blockquote>
+      <ol>
+        <li>Can the escrow hold the “Proof of the information” as opposed to the information itself.</li>
+        <li>Mortgage Service - might seem to be an authorization to access the data directly or the issuer present directly.</li>
+        <li>What gets put into escrow is flexible.</li>
+        <li>Trigger event or a lockbox kind of capability. How is the claim released to relying parties? How does it eliminate mischief and false claims.</li>
+        <li>There needs to be some accountability on the service provider to claim false releases. Automation may not be able to completely eliminate false triggers, some level of human intervention for complex cases.</li>
+      </ol>
+    </blockquote>
+  </li>
+  <li><a href="https://iiw.idcommons.net/20L/_Why_you_know_less_about_Guardianship_than_you_think_(because_we_ALL_know_less_about_Guardianship_than_we_think)">Why you know less about Guardianship than you think (because we ALL know less about Guardianship than we think)</a> 2021-05-06 Jo Spencer, John Phillips, Sterre den Breeijen <a href="https://docs.google.com/presentation/d/1aGTPmlno3WScpSYMs1HLhWsrVRx9B-I0yhOQsRgmqRw/edit?usp=sharing">presentation</a>
+    <blockquote>
+      <ol>
+        <li>In 2019 the Sovrin Foundation published a whitepaper on Guardianship; transitioned into the Working Group</li>
+        <li>APAC and NA/EMEA WG meetings</li>
+        <li>2 key documents from the WG are going to be published by Sovrin Foundation - <a href="https://sovrin.org/a-deeper-understanding-of-implementing-guardianship/">https://sovrin.org/a-deeper-understanding-of-implementing-guardianship/</a></li>
+        <li>Implementation guidelines</li>
+        <li>Technical requirements</li>
+        <li>Why are we looking at Guardianship and SSI?</li>
+        <li>Guardianship is a part of life - we are rarely fully self-sovereign or independent</li>
+        <li>Guardianship is not a part of SSI at this moment - is a missing ingredient in our digital lives</li>
+        <li>The group thought guardianship was a simple concept</li>
+        <li>Small set of SSI building blocks …</li>
+        <li>Gap between use cases and requirements was too broad (see slides)</li>
+        <li>A mental model for guardianship was required (see IIW30 and IIW31 for further context)</li>
+      </ol>
+    </blockquote>
+  </li>
+  <li><a href="https://sovrinid.medium.com/a-deeper-understanding-of-implementing-guardianship-9a8ab749db90">A Deeper Understanding of Implementing Guardianship</a>  2021-04-22 Sovrin Foundation
+    <blockquote>
+      <p>The first paper is called the <a href="https://drive.google.com/file/d/1vBePVx8n3MRDWcePkwVDya9ab4BHEyU_/view?usp=sharing">Guardianship Credentials Implementation Guidelines</a> and its purpose is to provide readers with the background they need to implement IT systems that support various kinds of guardianship. […]<br />
+The second paper is called <a href="https://drive.google.com/file/d/1M21PznPAd0H6z1t4ODl-jiEoXZjEhwcb/view?usp=sharing">Guardianship Credentials Technical Requirements</a> which was developed by the technical requirements working group within the SGWG. The purpose of this document is twofold: i) provide principles under which guardianship scenario designs and requirements are considered and defined; and ii) provide technical requirements for SSI solutions that offer the capability of guardianship.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://docs.google.com/presentation/d/1aGTPmlno3WScpSYMs1HLhWsrVRx9B-I0yhOQsRgmqRw/edit?usp=sharing">The Sovrin Working Group Tech Requirements and Implementation Guidelines</a> 2021-04-20 John Phillips, Jo Spenser
+    <blockquote>
+      <p>Sovrin is looking to promote the governance process and where guardianship fits in.  The IdRamp wallet is an example of how the wallet could provide helpful features.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="literature">Literature</h2>
+<ul>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-540-45146-4_8">Practical Verifiable Encryption and Decryption of Discrete Logarithms</a> 2003 Jan Camenisch &amp; Victor Shoup
+    <blockquote>
+      <p>This is the first verifiable encryption system that provides chosen ciphertext security and avoids inefficient cut-and-choose proofs. The presented protocols have numerous applications, including key escrow, optimistic fair exchange, publicly verifiable secret and signature sharing, universally composable commitments, group signatures, and confirmer signatures.</p>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#delegation" class="page__taxonomy-item p-category" rel="tag">Delegation</a><span class="sep">, </span>
+    
+      <a href="/tags/#guardianship" class="page__taxonomy-item p-category" rel="tag">Guardianship</a><span class="sep">, </span>
+    
+      <a href="/tags/#sovrin-foundation" class="page__taxonomy-item p-category" rel="tag">Sovrin Foundation</a><span class="sep">, </span>
+    
+      <a href="/tags/#trust-over-ip" class="page__taxonomy-item p-category" rel="tag">Trust over IP</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#uses" class="page__taxonomy-item p-category" rel="tag">Uses</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-07-02">July 2, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Guardianship%20https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fguardianship%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fguardianship%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fguardianship%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fguardianship%2F&title=Guardianship" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/application/supply-chain/" class="pagination--pager" title="Supply Chains and Self Sovereign Identity
+">Previous</a>
+    
+    
+      <a href="/application/trending-adoption/" class="pagination--pager" title="Market signals, SSI trending, and the road to mainstream adoption.
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

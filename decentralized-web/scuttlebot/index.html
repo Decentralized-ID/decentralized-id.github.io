@@ -1,0 +1,1199 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Secure Scuttlebutt |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Secure Scuttlebutt">
+<meta property="og:url" content="https://decentralized-id.com/decentralized-web/scuttlebot/">
+
+
+  <meta property="og:description" content="Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Secure Scuttlebutt">
+  <meta name="twitter:description" content="Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds.">
+  <meta name="twitter:url" content="https://decentralized-id.com/decentralized-web/scuttlebot/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2020-01-08T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2020-01-09T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/decentralized-web/scuttlebot/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero"
+  style=" background-image: url('');"
+>
+  
+    <img src="/images/scuttlebutt-header.webp" alt="Secure Scuttlebutt" class="page__hero-image">
+  
+  
+    <span class="page__hero-caption"><a href="https://www.inthemesh.com/archive/secure-scuttlebutt-facebook-alternative/">In the Mesh: Scuttlebutt, A Decentralized Social Platform</a>
+</span>
+  
+</div>
+
+
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Secure Scuttlebutt">
+    <meta itemprop="description" content="Secure Scuttlebutt is a database protocol for unforgeable append-only message feeds.“Unforgeable” means that only the owner of a feed can update that feed, as enforced by digital signing (see Security properties). This property makes Secure Scuttlebutt useful for peer-to-peer applications. Secure Scuttlebutt also makes it easy to encrypt messages.">
+    <meta itemprop="datePublished" content="2020-01-08T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2020-01-09T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/decentralized-web/scuttlebot/" class="u-url" itemprop="url">Secure Scuttlebutt
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          13 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#secure-scuttlebutt">Secure Scuttlebutt</a></li><li><a href="#literature">Literature</a></li><li><a href="#podcasts">Podcasts</a></li><li><a href="#secure-scuttlebutt-consortium---github-repos">Secure Scuttlebutt Consortium - GitHub Repos</a><ul><li><a href="#info">Info</a></li><li><a href="#server">Server</a></li><li><a href="#client">Client</a></li><li><a href="#patchwork">Patchwork</a></li><li><a href="#schema">Schema</a></li><li><a href="#crypto">Crypto</a></li><li><a href="#muxrpc">MuxRPC</a></li><li><a href="#plugins">Plugins</a></li><li><a href="#invites">Invites</a></li><li><a href="#testing">Testing</a></li><li><a href="#assorted">Assorted</a></li></ul></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="secure-scuttlebutt">Secure Scuttlebutt</h2>
+
+<ul>
+  <li>
+    <p><a href="https://scuttlebutt.nz">Scuttlebutt social network</a> - a decentralised platform</p>
+  </li>
+  <li><a href="https://scuttlebot.io/more/protocols/secure-scuttlebutt.html">Secure Scuttlebutt</a>  is a database protocol for unforgeable append-only message feeds.
+    <blockquote>
+      <p>“Unforgeable” means that only the owner of a feed can update that feed, as enforced by digital signing (see Security properties). This property makes Secure Scuttlebutt useful for peer-to-peer applications. Secure Scuttlebutt also makes it easy to encrypt messages.</p>
+
+      <p>Scuttlebot forms a global cryptographic social network with its peers. Each user is identified by a public key, and publishes a log of signed messages, which other users follow socially.</p>
+
+      <p>Scuttlebot searches the P2P mesh for new messages and files from followed users and from FoaFs (friend of a friend’s). The messages and files are stored locally, indefinitely, for applications to read.</p>
+
+      <p><strong>Identity</strong>
+Users are identified by confirmations and signals in the social graph. This is known as a Web-of-Trust. There is no global registry of usernames. Instead, users name themselves, and share petnames for each other.</p>
+
+      <p>Discovery occurs by examining the social graph, or by out-of-band sharing. Applications can analyze the follow-graph, and look for “flag” messages, to determine who is trust-worthy in the network.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://scuttlebot.io/">Scuttlebot</a> - a peer-to-peer log store
+    <blockquote>
+      <p>Scuttlebot is an open source peer-to-peer log store used as a database, identity provider, and messaging system. It features global replication, file-syncronization, and end-to-end encryption.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://ssbc.github.io/docs/">ssbc.github.io/docs/</a> - Get started with Scuttlebot and the Secure Scuttlebutt protocol
+    <blockquote>
+      <p>Scuttlebot implemented by <a href="http://ssbc.github.io/ssb-server/">ssb-server</a>: a p2p log store
+Secure Scuttlebutt implemented by <a href="http://ssbc.github.io/ssb-db/">ssb-db</a>: a global database protocol
+<a href="http://ssbc.github.io/patchwork/">Patchwork</a>: a social messaging app built on ssb-server and ssb-db</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.scuttlebutt.nz/faq/basics/ssb-vs-scuttlebutt-vs-scuttlebot-vs-sbot">Secure-scuttlebutt vs scuttlebutt vs scuttlebot vs sbot?</a> -  Explanation of terms, repos and project history
+    <blockquote>
+      <ul>
+        <li>scuttlebutt: a gossip protocol that synchronises messages via a vector clock of per-node timestamps or sequences. Dominic got this name from an amazon paper “Efficient Reconciliation and Flow Control for Anti-Entropy Protocols”. This is the original scuttlebutt module which should now be known as “insecure scuttlebutt”. This repo is generally no longer used by the ssb community.</li>
+        <li>ssb-db: this is the database part of ssb. Previously this term referred to the protocol/database as a whole.</li>
+        <li>ssb-server: this repo adds networking behaviour to the database (secure-scuttlebutt).</li>
+        <li>sbot: short for scuttlebot, previously the CLI command name to control ssb-server. Now also named ssb-server.</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://www.manyver.se">Manyverse</a> -  Mobile App
+    <blockquote>
+      <p>Manyverse is a social network mobile app with features you would expect: posts, threads, likes, profiles, etc. But it’s not running in the cloud owned by a company, instead, your friends’ posts and all your social data live entirely in your phone. This way, even when you’re offline, you can scroll, read anything, and even write posts and like content! When your phone is back online, it syncs the latest updates directly with your friends’ phones, through a shared local Wi-Fi or on the internet.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="literature">Literature</h2>
+
+<ul>
+  <li><a href="https://scuttlebutt.nz/docs/media/">A collection of news articles and blogs about Scuttlebutt</a></li>
+  <li><a href="https://scuttlebot.io/more/articles/design-challenge-avoid-centralization-and-singletons.html">Design Challenge: Avoid Centralization and Singletons</a>
+    <blockquote>
+      <p>The danger of centralization is obvious: it creates a single point of failure that can easily be attacked, or act as an attacker. And, it creates a monoculture of information, as the central point starts to control what information is trusted, or ranked highly.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://scuttlebot.io/more/articles/design-challenge-sybil-attack.html">Design Challenge: Sybil Attacks</a>
+    <blockquote>
+      <p>If it is possible for an anyone to connect to a computer system then it may be possible to interfere with the operation of that system, and defenses against interference must be designed in.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.cs.cornell.edu/home/rvr/papers/flowgossip.pdf"><em>Efficient Reconciliation and Flow Control for Anti-Entropy Protocols</em></a>
+    <blockquote>
+      <p>The paper shows that anti-entropy protocols can process only a limited rate of updates, and proposes and evaluates a new state reconciliation mechanism as well as a flow control scheme for anti-entropy protocols.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.manyver.se/blog/announcing-ssb-rooms">Announcing: SSB Rooms</a> - <a href="https://news.ycombinator.com/item?id=20828356">news.ycombinator.com</a>
+    <blockquote>
+      <p>Today I’m launching something I’ve been working on since May to help improve the Secure Scuttlebutt (SSB) ecosystem with a new type of server: SSB Rooms. As an alternative or complement to pub servers, rooms are servers intended as meeting places where peers come to discover others and establish network connections with each other.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://wiki.p2pfr.com/p2p/scuttlebutt">Scuttlebutt - P2PFR</a>
+    <blockquote>
+      <p>Scuttlebutt est un logiciel libre, développé pour assurer des fonctions utiles à un réseau social (type Facebook, Mastodon, Diaspora…). Nous n’en parlerions pas autrement, la communication entre chaque participant(e) au réseau se fait en pair-à-pair. rec</p>
+    </blockquote>
+  </li>
+  <li><a href="http://wiki.p2pfoundation.net/Counter-Anti-Disintermediation">Counter-Anti-Disintermediation</a></li>
+  <li><a href="https://www.theatlantic.com/technology/archive/2017/05/meet-the-counterantidisintermediationists/527553/">The Nomad Who’s Exploding the Internet Into Pieces</a> - Could decentralizing online life make it more compatible with human life?</li>
+  <li><a href="https://boingboing.net/2017/04/07/bug-in-tech-for-antipreppers.html">Scuttlebutt: an “off-grid” P2P social network that runs without servers and can fall back to sneakernet</a></li>
+  <li>[Efficient Reconciliation and Flow Control for Anti-Entropy Protocols]
+    <blockquote>
+      <p>The paper shows that anti-entropy protocols can process only a limited rate of updates, and proposes and evaluates a new state reconciliation mechanism as well as a flow control scheme for anti-entropy protocols.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://dominictarr.github.io/secret-handshake-paper/shs.pdf">Designing a Secret Handshake: Authenticated Key Exchange as a Capability System</a>
+    <blockquote>
+      <p>Capability Based Security is a conceptual framework for designing decentralized access control systems, yet there is no widely implemented protocol for establishing secure two-way communication that also forms a capability system. We examine the ways various key exchange protocols arn’t capability systems, and then present a secure key exchange protocol designed with capability systems in mind. In this protocol, the server’s public key forms an access capability. Using a preauthentication step, we authenticate the client before the server, but still accomplish mutual authentication within 4 passes. All long term keys are kept secret from any unauthenticated actors.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="podcasts">Podcasts</h2>
+
+<ul>
+  <li><a href="https://podcasts.apple.com/us/podcast/zero-knowledge/id1326503043?i=1000441290356">‎Show Zero Knowledge, Ep Episode 81: P2P Messaging &amp; Scuttlebutt with Dominic Tarr</a> - Jun 12, 2019
+    <blockquote>
+      <p>In this week’s episode, we meet with Dominic Tarr, a protocol designer and security auditor at Least Authority who works on Scuttlebutt - a decentralized secure gossip platform. We discuss P2P messaging and the challenges of sending messages within a p2p network in a truly decentralised manner.</p>
+      <ul>
+        <li><a href="https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">Dynamo: Amazon’s Highly Available Key-value Store Giuseppe DeCandia, Deniz Hastorun, Madan Jampani, Gunavardhan Kakulapati, Avinash Lakshman, Alex Pilchin, Swaminathan Sivasubramanian, Peter Vosshall and Werner Vogels</a></li>
+        <li><a href="https://www.theatlantic.com/technology/archive/2017/05/meet-the-counterantidisintermediationists/527553/">The Nomad Who’s Exploding the Internet Into Pieces</a></li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://librelounge.org/episodes/episode-14-secure-scuttlebutt-with-joey-hess.html">Libre Lounge - Episode 14: Secure Scuttlebutt with Joey Hess</a>
+    <blockquote>
+      <p>Libre Lounge comes to you with an interview from Libre Planet with Joey Hess discussing the Secure Scuttbutt project, a secure social network. The interview goes into detail about the protocol, differences between SSB and ActivityPub, and how Secure Scuttlebutt is a bit like Git.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://epicenter.tv/episode/290/">Epicenter - Secure Scuttlebutt – The “Localized” but Distributed Social Network</a> Dominic Tarr
+    <blockquote>
+      <p>We’re joined by Dominic Tarr, a sailor, and the Founder of Secure Scuttlebutt. This curiously named project has a fascinating approach to creating a truly distributed social network. One might even say that Secure Scuttlebutt is “localized” as it gracefully degrades to Sneakernet, something few blockchain projects can claim. In actuality, the SSB protocol isn’t a blockchain in the traditional sense – each user’s feed acts as a sort of localized chain of posts, signed by their public key, and possibly encrypted for a friend’s key to decrypt. When users meet, the system syncs their local databases using a gossip protocol and replicates the data. Encrypted data is transported from peer, to peer, to peer (or friends of friends) until it reaches its intended recipient. User may also optionally rely on public servers to sync data over the internet.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://soundcloud.com/arthurfalls/the-third-web-11-scuttlebutt-cypherspace">The Third Web #11 - Scuttlebutt &amp; Cypherspace</a>
+    <blockquote>
+      <p>The first application has been a multi-client decentralized social media platform that is an absolute joy to use, and I encourage everyone to download my favourite desktop client, Patchwork, or Manyverse for Android. As an autonomous software system, like Bitcoin, Scuttlebutt rewards the provisioning of resources to support the network, only rather than a point system and money myth, Scuttlebutt offers something far more valuable, conversation. This mostly covers the origin of the protocol but I will definitely conduct more interviews with Dom and others close to the project, which is today one of the most impressive, and well used decentralized applications in existence.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="secure-scuttlebutt-consortium---github-repos">Secure Scuttlebutt Consortium - GitHub Repos</h2>
+
+<p><img src="https://i.imgur.com/bYQqKJH.png" alt="" /></p>
+
+<ul>
+  <li><a href="https://github.com/ssbc">Secure Scuttlebutt Consortium</a> - A distributed and secure peer to peer social network</li>
+  <li><a href="https://github.com/ssbc/somebodyshould">ssbc/somebodyshould</a> - A repo of suggestions / issues / bugs / ideas / feedback for ssb</li>
+  <li><a href="https://github.com/ssbc/.github">ssbc/.github</a>
+Settings for the SSBC GitHub organization.</li>
+  <li><a href="https://github.com/ssbc/scuttlebot.io">ssbc/scuttlebot.io</a> - Source repo for <a href="https://scuttlebot.io/">https://scuttlebot.io</a></li>
+</ul>
+
+<p>Nearly all of these repositories have seen activity within the past year!</p>
+
+<h3 id="info">Info</h3>
+
+<ul>
+  <li><a href="https://github.com/ssbc/docs">ssbc/docs</a>
+    <blockquote>
+      <p>Scuttlebot implemented by ssb-server: a p2p log store
+Secure Scuttlebutt implemented by ssb-db: a global database protocol
+Patchwork: a social messaging app built on ssb-server and ssb-db</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/handbook.scuttlebutt.nz">ssbc/handbook.scuttlebutt.nz</a>
+    <blockquote>
+      <p>ssb handbook: A guide to the Secure Scuttlebutt key concepts and influences (see also, new website: <a href="https://gitlab.com/ssbc/scuttlebutt.nz/">ssbc/scuttlebutt.nz</a>)</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/modules.scuttlebutt.nz">ssbc/modules.scuttlebutt.nz</a> - Documentation for the Scuttlebutt module ecosystem
+    <blockquote>
+      <p>This is an aggregation of commonly used scuttlebutt modules grouped for your convenience into several sections.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/ssb-spec-drafts">ssbc/ssb-spec-drafts</a> - protocol specifications for Secure Scuttlebutt
+    <blockquote>
+      <p>SSB-Drafts are working documents of the Secure Scuttlebutt community. Note that other groups may also distribute working documents as SSB-Drafts.</p>
+
+      <p>SSB-Drafts are draft documents valid for a maximum of six months and may be updated, replaced, or obsoleted by other documents at any time. It is inappropriate to use SSB-Drafts as reference material or to cite them other than as “work in progress.”</p>
+
+      <p>This wording aligns with the IRTF’s document track for Internet-Drafts.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/scuttlebutt-protocol-guide">ssbc/scuttlebutt-protocol-guide</a> - Protocol documentation for Secure Scuttlebutt</li>
+  <li><a href="https://github.com/ssbc/scuttlebutt-guide">ssbc/scuttlebutt-guide</a>
+    <blockquote>
+      <p>Looking to learn how to build in Scuttlebutt? There’s currently no canonical resource, but here’s a map of the known archipelago!</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="server">Server</h3>
+
+<ul>
+  <li><a href="https://github.com/ssbc/ssb-server">ssbc/ssb-server</a>
+The gossip and replication server for Secure Scuttlebutt - a distributed social network</li>
+  <li><a href="https://github.com/ssbc/ssb-minimal-pub-server">ssbc/ssb-minimal-pub-server</a> - A minimal version of ssb-server aimed at pubs</li>
+  <li><a href="https://github.com/ssbc/multiserver">ssbc/multiserver</a>
+A single interface that can work with multiple protocols, and multiple transforms of those protocols (eg, security layer)</li>
+  <li><a href="https://github.com/ssbc/ssb-config">ssbc/ssb-config</a>
+standard configuration for ssb</li>
+</ul>
+
+<h3 id="client">Client</h3>
+<ul>
+  <li><a href="https://github.com/ssbc/react-native-ssb-client-keys">ssbc/react-native-ssb-client-keys</a></li>
+  <li><a href="https://github.com/ssbc/ssb-client">ssbc/ssb-client</a> -  client library to scuttlebot</li>
+  <li><a href="https://github.com/ssbc/ssb-hello-ws">ssbc/ssb-hello-ws</a> - simplest example to get a ssb-client working over websockets</li>
+  <li><a href="https://github.com/ssbc/chocolatey-packages">ssbc/chocolatey-packages</a> - Chocolatey packages for SSB clients</li>
+  <li><a href="https://github.com/ssbc/scoop-bucket">ssbc/scoop-bucket</a> - A bucket for scoop package manager with app manifests for SSB clients.</li>
+</ul>
+
+<h3 id="patchwork">Patchwork</h3>
+<ul>
+  <li><a href="https://github.com/ssbc/patchwork">ssbc/patchwork</a> - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).</li>
+  <li><a href="https://github.com/ssbc/patchbay">ssbc/patchbay</a> - An alternative Secure Scuttlebutt client interface that is fully compatible with Patchwork</li>
+  <li><a href="https://github.com/ssbc/patchlite">ssbc/patchlite</a> - [WIP] A browser lite client for the Scuttlebutt network</li>
+  <li><a href="https://github.com/ssbc/patchgit">ssbc/patchgit</a> - Add git-ssb related functionality to patchcore related apps</li>
+  <li><a href="https://github.com/ssbc/patchbay-book">ssbc/patchbay-book</a> - The patchbay part of scuttle-book, a book rating system</li>
+  <li><a href="https://github.com/ssbc/patchcore">ssbc/patchcore</a> - A shared library of depject modules to build Secure Scuttlebutt social network apps</li>
+  <li><a href="https://github.com/ssbc/patchbay-gatherings">ssbc/patchbay-gatherings</a></li>
+  <li><a href="https://github.com/ssbc/ssb-markdown">ssbc/ssb-markdown</a>
+    <blockquote>
+      <p>patchwork’s markdown parser</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/patchbay-scry">ssbc/patchbay-scry</a></li>
+  <li><a href="https://github.com/ssbc/patchwork-threads">ssbc/patchwork-threads</a> - library of patchwork’s thread data-structures</li>
+  <li><a href="https://github.com/ssbc/patchwork-icons">ssbc/patchwork-icons</a></li>
+  <li><a href="https://github.com/ssbc/patchbay-thread">ssbc/patchbay-thread</a></li>
+  <li><a href="https://github.com/ssbc/patch-drafts">ssbc/patch-drafts</a></li>
+</ul>
+
+<h3 id="schema">Schema</h3>
+
+<ul>
+  <li><a href="https://github.com/ssbc/ssb-gathering-schema">ssbc/ssb-gathering-schema</a></li>
+  <li><a href="https://github.com/ssbc/ssb-invite-schema">ssbc/ssb-invite-schema</a> - schema for scuttle-invite message types</li>
+  <li><a href="https://github.com/ssbc/ssb-audio-schema">ssbc/ssb-audio-schema</a></li>
+  <li><a href="https://github.com/ssbc/ssb-thread-schema">ssbc/ssb-thread-schema</a></li>
+  <li><a href="https://github.com/ssbc/ssb-schema-definitions">ssbc/ssb-schema-definitions</a> - Standardised schema definitions for ssb message types using is-my-json-valid</li>
+  <li><a href="https://github.com/ssbc/ssb-contact-schema">ssbc/ssb-contact-schema</a></li>
+  <li><a href="https://github.com/ssbc/ssb-schema-validation">ssbc/ssb-schema-validation</a>
+    <blockquote>
+      <p>Build a set of validators using JSON schema with multiple schema versions</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="crypto">Crypto</h3>
+
+<ul>
+  <li><a href="https://github.com/ssbc/ssb-keys">ssbc/ssb-keys</a> - keyfile operations for ssb</li>
+  <li><a href="https://github.com/ssbc/ssb-caps">ssbc/ssb-caps</a> - The default “Caps” keys for accessing the SSB protocol using secret handshake</li>
+  <li><a href="https://github.com/ssbc/box2-spec">ssbc/box2-spec</a>
+    <blockquote>
+      <p>This is a spec for encrypting messages to groups of people. Initially it will support communication for large groups which share a public key (secret key cryptography / symmetric keys), but it has also been designed to support forward-secure secret-key cryptography (a little like Signal’s double-ratchet).</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/ssb-ephemeral-keys">ssbc/ssb-ephemeral-keys</a> - Methods for encrypting messages with ephemeral keys over Secure Scuttlebutt</li>
+  <li><a href="https://github.com/ssbc/secret-stack">ssbc/secret-stack</a> - connect peers to each other using secret-handshakes</li>
+  <li><a href="https://github.com/ssbc/ssb-secret-blob">ssbc/ssb-secret-blob</a> - encrypted blobs over ssb protocol</li>
+  <li><a href="https://github.com/ssbc/private-box2">ssbc/private-box2</a> - new message encryption for ssb</li>
+</ul>
+
+<h3 id="muxrpc">MuxRPC</h3>
+<ul>
+  <li><a href="https://github.com/ssbc/muxrpc">ssbc/muxrpc</a> - lightweight multiplexed rpc</li>
+  <li><a href="https://github.com/ssbc/muxrpc-validation">ssbc/muxrpc-validation</a>- Forked from <a href="https://github.com/pfrazee/muxrpc-validation">pfrazee/muxrpc-validation</a>
+Validation library for muxrpc apis</li>
+  <li><a href="https://github.com/ssbc/ssb-plugins">ssbc/ssb-plugins</a>
+    <blockquote>
+      <p>ssb-plugins is a plugin that provides additional plugin related functionality to a secret-stack instance.</p>
+
+      <p>Without ssb-plugins, plugins can only be loaded explicitly by an ssb-server with the .use() method.</p>
+
+      <p>Generally speaking, this plugin provides the abilility for plugins to be loaded and run as a separate process, with communication over muxrpc.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/muxrpcli">ssbc/muxrpcli</a> - command-line interface to muxrpc servers
+    <blockquote>
+      <p>muxrpc aims to provide remote access to any reasonable node.js api remotely. this means it supports both streaming and async operations. pull-streams are used.</p>
+
+      <p>It may seem at first that it would be logically cleaner to separate this into two concerns, multiplexing and request-response. Indeed, we did just that in multilevel combining mux-demux and rpc-stream however, I realized that multiplexing depends on adding framing to incoming messages, and so does rpc. If rpc is implemented as another layer on top of multiplexing, then the rpc messages end up with a second layer of framing too. By implementing one protocol that supports both streams and rpc, we were able to have both features with only a single layer of framing.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="plugins">Plugins</h3>
+
+<ul>
+  <li><a href="https://github.com/ssbc/ssb-search">ssbc/ssb-search</a>
+fulltext search as scuttlebot plugin</li>
+  <li><a href="https://github.com/ssbc/ssb-links">ssbc/ssb-links</a>
+ssb-plugin that indexes all the links!</li>
+  <li><a href="https://github.com/ssbc/ssb-backlinks">ssbc/ssb-backlinks</a>
+scuttlebot plugin for indexing all link mentions of messages</li>
+  <li><a href="https://github.com/ssbc/ssb-identities">ssbc/ssb-identities</a>
+manage multiple identities as sbot plugin</li>
+  <li><a href="https://github.com/ssbc/ssb-serve-blobs">ssbc/ssb-serve-blobs</a>
+    <blockquote>
+      <p>Sbot plugin to serve blobs from a local http server</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/ssb-threads">ssbc/ssb-threads</a>
+    <blockquote>
+      <p>Scuttlebot plugin for fetching messages as threads
+announce a public address for yourself</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/ssb-about">ssbc/ssb-about</a>
+scuttlebot plugin for getting reduced ‘about’ state</li>
+  <li><a href="https://github.com/ssbc/ssb-social-index">ssbc/ssb-social-index</a>
+scuttlebutt plugin for getting reduced state based on the author’s social graph</li>
+  <li><a href="https://github.com/ssbc/gitbook-plugin-ssb">ssbc/gitbook-plugin-ssb</a>
+GitBook plugin for Secure Scuttlebutt markdown formatting</li>
+  <li><a href="https://github.com/ssbc/ssb-private">ssbc/ssb-private</a>
+scuttlebot plugin for indexed private messages</li>
+</ul>
+
+<h3 id="invites">Invites</h3>
+
+<ul>
+  <li><a href="https://github.com/ssbc/ssb-peer-invites">ssbc/ssb-peer-invites</a>
+    <blockquote>
+      <p>A new ssb invite system to create invites without having a pub</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/ssb-invite">ssbc/ssb-invite</a> - “followbot” style invite codes for ssb</li>
+  <li><a href="https://github.com/ssbc/scuttle-invite-db">ssbc/scuttle-invite-db</a> - fluemview-reduce of invites and replies for scuttle invite</li>
+  <li><a href="https://github.com/ssbc/scuttle-invite">ssbc/scuttle-invite</a> - polymorphic invite and reply logic for secure scuttlebutt</li>
+  <li><a href="https://github.com/ssbc/ssb-invite-schema">ssbc/ssb-invite-schema</a> - schema for scuttle-invite message types</li>
+</ul>
+
+<h3 id="testing">Testing</h3>
+<ul>
+  <li><a href="https://github.com/ssbc/scuttle-testbot">ssbc/scuttle-testbot</a></li>
+  <li><a href="https://github.com/ssbc/compatibility">ssbc/compatibility</a>
+tool to run tests of your dependencies, to check they are compatible</li>
+  <li><a href="https://github.com/ssbc/ssb-integration-tests">ssbc/ssb-integration-tests</a>
+integration-tests for sbot</li>
+  <li><a href="https://github.com/ssbc/ssb-testing-guide">ssbc/ssb-testing-guide</a>
+    <blockquote>
+      <p>This is the start of a collection of patterns we’ve found useful for doing testing in the Scuttlebutt ecosystem</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="assorted">Assorted</h3>
+
+<ul>
+  <li><a href="https://github.com/ssbc/ssb-bin">ssbc/ssb-bin</a> - ssb cli commands</li>
+  <li><a href="https://github.com/ssbc/ssb-first-aid-kit">ssbc/ssb-first-aid-kit</a> - A user-friendly app for diagnosing and fixing problems with your Scuttlebutt installation</li>
+  <li><a href="https://github.com/ssbc/ssb-msgs">ssbc/ssb-msgs</a> - message-processing for ssb</li>
+  <li><a href="https://github.com/ssbc/ssb-validate">ssbc/ssb-validate</a> - better ssb validator</li>
+  <li><a href="https://github.com/ssbc/scuttle-shell">ssbc/scuttle-shell</a> - A system tray app for running Secure Scuttlebutt and providing sbot features to your local system</li>
+  <li><a href="https://github.com/ssbc/ssb-local">ssbc/ssb-local</a></li>
+  <li><a href="https://github.com/ssbc/ssb-suggest">ssbc/ssb-suggest</a></li>
+  <li><a href="https://github.com/ssbc/layered-graph">ssbc/layered-graph</a></li>
+  <li><a href="https://github.com/ssbc/ssb-db">ssbc/ssb-db</a>
+A database of unforgeable append-only feeds, optimized for efficient replication for peer to peer protocols</li>
+  <li><a href="https://github.com/ssbc/ssb-backup-tool">ssbc/ssb-backup-tool</a> - A backup tool for the Scuttleverse</li>
+  <li><a href="https://github.com/ssbc/ssb-ebt">ssbc/ssb-ebt</a>
+    <blockquote>
+      <p>secure scuttlebutt replication with epidemic-broadcast-trees</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/ssb-blob-files">ssbc/ssb-blob-files</a>
+    <blockquote>
+      <p>Channel a bunch of files from a dom event into the blob store. Get some tweaks and checks made along the way.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/ssb-ooo">ssbc/ssb-ooo</a> - retrive ssb messages Out Of Order</li>
+  <li><a href="https://github.com/ssbc/multiblob">ssbc/multiblob</a> - A content-addressable-store that supports multiple hashing algorithms, and pull-streams</li>
+  <li><a href="https://github.com/ssbc/ssb-ahoy">ssbc/ssb-ahoy</a> - An onboarding mini-app - gets you all set up, and caught up on the gossip before you set out on your adventure</li>
+  <li><a href="https://github.com/ssbc/react-native-ssb-shims">ssbc/react-native-ssb-shims</a> - Node.js-related shims necessary for the SSB ecosystem to run on React Native apps</li>
+  <li><a href="https://github.com/ssbc/ssb-mentions">ssbc/ssb-mentions</a> - extract the mentions in a ssb message, just using the markdown.</li>
+  <li><a href="https://github.com/ssbc/ssb-replicate">ssbc/ssb-replicate</a> - ssb legacy replication, previously built into ssb-server</li>
+  <li><a href="https://github.com/ssbc/ssbc-sitegen">ssbc/ssbc-sitegen</a> - Tool to generate the GH pages for ssbc repos</li>
+  <li><a href="https://github.com/ssbc/ssb-friend-pub">ssbc/ssb-friend-pub</a></li>
+  <li><a href="https://github.com/ssbc/ssb-unread">ssbc/ssb-unread</a></li>
+  <li><a href="https://github.com/ssbc/ssb-blobs">ssbc/ssb-blobs</a> - blob gossiping ssb-subprotocol</li>
+  <li><a href="https://github.com/ssbc/ssb-lists">ssbc/ssb-lists</a>
+    <blockquote>
+      <p>This implements block/follow lists. (the main use-case was block lists) but a system that could both block and follow was not more complicated.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/ssbc/ssb-tangle">ssbc/ssb-tangle</a></li>
+  <li><a href="https://github.com/ssbc/ssb-friends">ssbc/ssb-friends</a>
+the logic around who to replicate or not</li>
+  <li><a href="https://github.com/ssbc/two.camp.scuttlebutt.nz">ssbc/two.camp.scuttlebutt.nz</a></li>
+  <li><a href="https://github.com/ssbc/ssb-ref">ssbc/ssb-ref</a>
+check if a string is a valid ssb-reference</li>
+  <li><a href="https://github.com/ssbc/ssb-gossip">ssbc/ssb-gossip</a>
+Schedule connections randomly with a peerlist constructed from config, multicast UDP announcements, feed announcements, and API-calls</li>
+  <li><a href="https://github.com/ssbc/ssb-contact-msg">ssbc/ssb-contact-msg</a></li>
+  <li><a href="https://github.com/ssbc/ssb-ws">ssbc/ssb-ws</a> - ssb-ws &amp; http server for ssb</li>
+  <li><a href="https://github.com/ssbc/multiserver-scopes">ssbc/multiserver-scopes</a></li>
+  <li><a href="https://github.com/ssbc/ssb-tunnel">ssbc/ssb-tunnel</a>
+create a p2p link tunneled through a pub server</li>
+  <li><a href="https://github.com/ssbc/bench-ssb">ssbc/bench-ssb</a>
+benchmarks for all the parts of ssb</li>
+  <li><a href="https://github.com/ssbc/chloride">ssbc/chloride</a>- Forked from <a href="https://github.com/dominictarr/chloride">dominictarr/chloride</a></li>
+  <li><a href="https://github.com/ssbc/ssb-query">ssbc/ssb-query</a></li>
+  <li><a href="https://github.com/ssbc/ssb-device-address">ssbc/ssb-device-address</a></li>
+  <li><a href="https://github.com/ssbc/village-tracker">ssbc/village-tracker</a>
+village-tracker community volunteer coordination project</li>
+  <li><a href="https://github.com/ssbc/ssb-master">ssbc/ssb-master</a></li>
+  <li><a href="https://github.com/ssbc/noto-color-emoji">ssbc/noto-color-emoji</a></li>
+  <li><a href="https://github.com/ssbc/open-dyslexic">ssbc/open-dyslexic</a>- Forked from <a href="https://github.com/antijingoist/open-dyslexic">antijingoist/open-dyslexic</a> - What I intend to be an opensource font for dyslexics and for high readability</li>
+  <li><a href="https://github.com/ssbc/ssbc-owners">ssbc/ssbc-owners</a> - set org owners as npm owners</li>
+  <li><a href="https://github.com/ssbc/scuttle-thread">ssbc/scuttle-thread</a></li>
+  <li><a href="https://github.com/ssbc/ssb-incoming-guard">ssbc/ssb-incoming-guard</a></li>
+  <li><a href="https://github.com/ssbc/ssb-graphviz">ssbc/ssb-graphviz</a> - visualize your ssb network graph</li>
+  <li><a href="https://github.com/ssbc/scuttlebutt-mars-workshop">ssbc/scuttlebutt-mars-workshop</a></li>
+  <li><a href="https://github.com/ssbc/scuttle-tag">ssbc/scuttle-tag</a>- Forked from <a href="https://github.com/wittjosiah/scuttle-tag">wittjosiah/scuttle-tag</a></li>
+  <li><a href="https://github.com/ssbc/scuttle-poll">ssbc/scuttle-poll</a></li>
+  <li><a href="https://github.com/ssbc/scuttle-inject">ssbc/scuttle-inject</a></li>
+  <li><a href="https://github.com/ssbc/scuttle-gathering">ssbc/scuttle-gathering</a></li>
+  <li><a href="https://github.com/ssbc/scuttle-blog">ssbc/scuttle-blog</a></li>
+  <li><a href="https://github.com/ssbc/scuttle-blob">ssbc/scuttle-blob</a></li>
+  <li><a href="https://github.com/ssbc/pull-next-query">ssbc/pull-next-query</a></li>
+  <li><a href="https://github.com/ssbc/paulcbetts-spellchecker-prebuilt">ssbc/paulcbetts-spellchecker-prebuilt</a>- Forked from <a href="https://github.com/anaisbetts/node-spellchecker">anaisbetts/node-spellchecker</a></li>
+  <li>Forked from @paulcbetts/spellchecker to add automated prebuilds</li>
+  <li><a href="https://github.com/ssbc/opencollective_page">ssbc/opencollective_page</a></li>
+  <li><a href="https://github.com/ssbc/nicedate">ssbc/nicedate</a>
+nicely formatted dates since 7d ago</li>
+  <li><a href="https://github.com/ssbc/marked">ssbc/marked</a>- Forked from <a href="https://github.com/clehner/marked">clehner/marked</a>
+A markdown parser and compiler. This fork adds SSB-specific features, such as mentions and emojis.</li>
+  <li><a href="https://github.com/ssbc/keyboard-layout-prebuilt">ssbc/keyboard-layout-prebuilt</a>- Forked from <a href="https://github.com/atom/keyboard-layout">atom/keyboard-layout</a>
+Fork of keyboard-layout that adds automated prebuilds</li>
+  <li><a href="https://github.com/ssbc/grants-process">ssbc/grants-process</a>
+grants-process</li>
+  <li><a href="https://github.com/ssbc/forked-systray/systrayhelper">ssbc/forked-systray/systrayhelper</a> - Forked from <a href="https://github.com/zaaack/systray-portable">zaaack/systray-portable</a>  - A portable version of go systray, using stdin/stdout to communicate with other language</li>
+  <li><a href="https://github.com/ssbc/emoji-server">ssbc/emoji-server</a>
+emoji middleware/server</li>
+  <li><a href="https://github.com/ssbc/ssb-viewer">ssbc/ssb-viewer</a></li>
+  <li><a href="https://github.com/ssbc/ssb-sort">ssbc/ssb-sort</a></li>
+  <li><a href="https://github.com/ssbc/ssb-names">ssbc/ssb-names</a></li>
+  <li><a href="https://github.com/ssbc/packet-stream">ssbc/packet-stream</a></li>
+  <li><a href="https://github.com/ssbc/ssb-webexthost">ssbc/ssb-webexthost</a></li>
+  <li><a href="https://github.com/ssbc/ssb-typescript">ssbc/ssb-typescript</a> - Contains type definitions for common SSB concepts</li>
+  <li><a href="https://github.com/ssbc/multiserver-address">ssbc/multiserver-address</a></li>
+  <li><a href="https://github.com/ssbc/level-sublevel">ssbc/level-sublevel</a>- Forked from <a href="https://github.com/dominictarr/level-sublevel">dominictarr/level-sublevel</a> - no longer maintained, sorry!</li>
+  <li><a href="https://github.com/ssbc/packet-stream-codec">ssbc/packet-stream-codec</a></li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#scuttlebot" class="page__taxonomy-item p-category" rel="tag">Scuttlebot</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#decentralized-web" class="page__taxonomy-item p-category" rel="tag">Decentralized Web</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2020-01-09">January 9, 2020</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Secure+Scuttlebutt%20https%3A%2F%2Fdecentralized-id.com%2Fdecentralized-web%2Fscuttlebot%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fdecentralized-web%2Fscuttlebot%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fdecentralized-web%2Fscuttlebot%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fdecentralized-web%2Fscuttlebot%2F&title=Secure+Scuttlebutt" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/web-standards/blockcerts/" class="pagination--pager" title="Blockcerts
+">Previous</a>
+    
+    
+      <a href="/web-standards/w3c/webauthn/" class="pagination--pager" title="WebAuthN - W3C
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>
