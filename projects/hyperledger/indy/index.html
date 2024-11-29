@@ -1,0 +1,1110 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Hyperledger Indy |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Digital identities interoperable across administrative domains, applications, and any other silo.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Hyperledger Indy">
+<meta property="og:url" content="https://decentralized-id.com/projects/hyperledger/indy/">
+
+
+  <meta property="og:description" content="Digital identities interoperable across administrative domains, applications, and any other silo.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Hyperledger Indy">
+  <meta name="twitter:description" content="Digital identities interoperable across administrative domains, applications, and any other silo.">
+  <meta name="twitter:url" content="https://decentralized-id.com/projects/hyperledger/indy/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2018-12-13T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-12T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/projects/hyperledger/indy/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li>
+</ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero" style=" background-image: url('');">
+  
+    <img src="/images/evernym-indy-sovrin.webp" alt="Hyperledger Indy" class="page__hero-image">
+  
+  
+    <span class="page__hero-caption"><a href="https://www.evernym.com/blog/hyperledger-aries/">Hyperledger Aries</a>
+</span>
+  
+</div>
+
+
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+      
+      
+      
+    
+      
+      
+      
+      
+    
+    
+      
+
+<nav class="nav__list">
+  <h3 class="nav__title" style="padding-left: 0;">Decentralized-ID</h3>
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources &amp; Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Hyperledger Indy">
+    <meta itemprop="description" content="Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo. Indy is interoperable with other blockchains or can be used standalone powering the decentralization of identity.">
+    <meta itemprop="datePublished" content="2018-12-13T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-12T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/projects/hyperledger/indy/" class="u-url" itemprop="url">Hyperledger Indy
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          8 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title">
+<i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu">
+<li><a href="#main">Main</a></li>
+<li><a href="#github">GitHub</a></li>
+<li><a href="#implementation">Implementation</a></li>
+<li><a href="#literature">Literature</a></li>
+</ul>
+
+            </nav>
+          </aside>
+        
+        <p><strong>Protocol, Governance, Education, Ecosystem</strong></p>
+
+<figure class="">
+  <img src="/images/private-public-permissioned-permissionless.webp" alt="this is a placeholder image"><figcaption>
+      <table>
+  <tbody>
+    <tr>
+      <td><a href="https://twitter.com/Delpadschnick" class="user-mention">@Delpadschnick</a></td>
+      <td><a href="https://CryptoDesign.io">CryptoDesign.io</a></td>
+    </tr>
+  </tbody>
+</table>
+
+    </figcaption></figure>
+
+<p><img src="https://www.osiztechnologies.com/asset/oimages/hyperledger_indy/hyperledger_indy_02.png" alt=""></p>
+
+<h3 id="main">Main</h3>
+<ul>
+  <li>
+<a href="https://www.hyperledger.org/projects/hyperledger-indy">Hyperledger Indy - <em>Distributed Ledger and Utility Library</em></a> - <a href="https://twitter.com/Hyperledger">Twitter</a> - <a href="https://chat.hyperledger.org">Chat</a> - <a href="https://forum.sovrin.org">Forum</a> - <a href="https://wiki.hyperledger.org/display/indy">Wiki</a> - <a href="https://indy.readthedocs.io/">Documentation</a>
+    <blockquote>
+      <p>Hyperledger Indy provides tools, libraries, and reusable components for providing digital identities rooted on blockchains or other distributed ledgers so that they are interoperable across administrative domains, applications, and any other silo.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://github.com/hyperledger/indy-node">hyperledger/indy-node</a>
+    <blockquote>
+      <p>This codebase embodies all the functionality to run nodes (validators and/or observers) that provide a self-sovereign identity ecosystem on top of a distributed ledger. It is the core project for Indy; over time, all other indy-* projects may collapse into this one, except for indy-sdk.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://github.com/hyperledger/indy-sdk">hyperledger/indy-sdk</a>
+    <blockquote>
+      <p>This is the official SDK for Hyperledger Indy, which provides a distributed-ledger-based foundation for self-sovereign identity. Indy provides a software ecosystem for private, secure, and powerful identity, and the Indy SDK enables clients for it. The major artifact of the SDK is a C-callable library; there are also convenience wrappers for various programming languages and Indy CLI tool.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="about">About</h2>
+
+<ul>
+  <li>
+<a href="https://www.hyperledger.org/blog/2019/07/18/strengthening-hyperledger-indy-and-self-sovereign-identity">Strengthening Hyperledger Indy and Self-Sovereign Identity</a> 2019-07-08
+    <blockquote>
+      <p>Forrester’s recent “<a href="https://www.forrester.com/report/Top+Recommendations+For+Your+Security+Program+2019/-/E-RES151535">Top Recommendations for Your Security Program, 2019</a>,” testifies to this, describing SSI as a “win” for customers and businesses, and urged chief information security officers  (CISO) to “Empower your customers to control their own identities via self-sovereign identity.”</p>
+
+      <p>They can do this because exchanging verifiable digital credentials is at the heart of SSI. This ends the need for massive data silos, honeypots, and unsecured data repositories housed at countless corporations and organizations. Instead, anyone can hold secure and verifiable information about themselves</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.hyperledger.org/blog/2019/05/01/an-overview-of-self-sovereign-identity-the-use-case-at-the-core-of-hyperledger-indy">An overview of Self-Sovereign Identity: the use case at the core of Hyperledger Indy</a> 2019-05-01
+    <blockquote>
+      <p>Credential issuers, holders, and verifiers are peers on an SSI network. Any person or organization can play any or all of the roles, creating a decentralized system for the exchange of trustworthy, digital credentials.</p>
+
+      <ul>
+        <li>Credential issuers determine what credentials to issue, what the credential means, and how they’ll validate the information they put in the credential.</li>
+        <li>Credential holders determine what credentials they need and which they’ll employ in workflows to prove things about themselves.</li>
+        <li>Credential verifiers determine what credentials to accept, and which issuers to trust.</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=lVHJiUrHv2A&amp;app=desktop">Sovrin: Public, Permissioned and Still Decentralized</a> 2018-12-17 Nathan George
+    <blockquote>
+      <p>Lighting talk with Nathan George (Sovrin CTO) taking the audience through a high-level look at the Sovrin DLT, how it can be public/permissioned yet still decentralized, and why this is right for identity solutions.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=MnO2L6WoqD0">Hyperledger Indy Explainer Video</a> 2018-12-06 Hyperledger Foundation
+    <blockquote>
+      <p>Individuals will not have to rely on big organizations to store and share their personal data. Instead the user controls what data they want to provide access to and for how long.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=hfyIZu3_fw8">Self-Sovereign Identity with Hyperledger Indy\Sovrin</a> 2018-05-26 Calvin Cheng FOSSASIA 2018
+    <blockquote>
+      <p>Implementing a public, permissioned blockchain for online digital identities.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.infoq.com/news/2018/09/Hyperledger-Indy-Privacy">Implementing Privacy by Design in Hyperledger Indy</a> 2018-09 Infoq
+    <blockquote>
+      <p>Hyperledger Indy has been built using a privacy first approach. As the world shifts to more regulation, including GDPR and ePrivacy requirements, Indy can minimize the amount of details a user shares when having their data validated by a third-party system.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.hyperledger.org/blog/2018/09/12/privacy-by-design-in-hyperledger-indy">Privacy by Design in Hyperledger Indy</a> 2018-09-12 Hyperledger Foundation
+    <blockquote>
+      <p>Hyperledger Indy’s approach to privacy includes elliptic curve cryptography, <a href="https://docs.google.com/document/d/1hnQPEdfmAG-DnXGrDXowjc5J571pK7Ub4bWkUlzrH1Y/edit">pairwise DIDs</a>, <a href="https://docs.google.com/presentation/d/1H7KKccqYB-2l8iknnSlGt7T_sBPLb9rfTkL-waSCux0/edit#slide=id.g2f2a8bc547_0_0">semi-trusted agents</a>, <a href="https://github.com/hyperledger/indy-hipe/blob/35c9a8fda2011763d85df2a57bccc67bcdc28760/text/transport-layer-messaging/README.md">agent-to-agent communication</a> using techniques such as <a href="https://download.libsodium.org/doc/public-key_cryptography/sealed_boxes.html">libsodium’s sealed box</a> and <a href="https://download.libsodium.org/doc/public-key_cryptography/authenticated_encryption.html">authenticated encryption</a>, zero-knowledge proofs, a separation between credentials and proofs, <a href="https://github.com/hyperledger/indy-hipe/blob/4fd9db5801f24f4e9ec122db98d4f725a394617c/text/0011-cred-revocation/README.md">privacy-preserving credential revocation</a> features, an <a href="https://docs.google.com/document/d/1Tcz06KtmnTysW38qT5K_oVzsWV9TjQFR4No9rRJEGFA/edit#heading=h.26in1rg">affinity for data and key storage at the edge</a>, and a <a href="https://github.com/hyperledger/indy-hipe/blob/36d3eddf4213b3a5f4bc9355cd6a645e819b1f31/text/wallets/README.md">carefully constructed wallet interface</a> that manages personal secrets with industry best practices. In addition, privacy-preserving <a href="https://github.com/hyperledger/indy-sdk/blob/677a0439487a1b7ce64c2e62671ed3e0079cc11f/doc/design/005-dkms/DKMS%20Design%20and%20Architecture%20V3.md#92-policy-registries">agent (device) revocation</a> has been demonstrated as a proof of concept.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.edx.org/professional-certificate/linuxfoundationx-blockchain-for-business">Blockchain for Business</a> 2018-07-10 Linux Foundation
+    <blockquote>
+      <p>2–4 hours per week, for 10 weeks. A primer to blockchain, distributed ledgers and Hyperledger technologies.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://wso2.com/blog/research/the-rise-of-self-sovereign-identity-hyperledger-indy">The Rise of Self-Sovereign Identity - Hyperledger Indy</a> 2018-07-03 WSO2
+    <blockquote>
+      <p>You can store your identities in a location where you can edit or delete them. After giving the location of your identities, the Indy platform lists your location with a globally identifiable name. When someone wants to read your identity data, the Indy platform points out the location of your identities. Let’s look into the details of how it works.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.hyperledger.org/blog/2017/05/02/hyperledger-welcomes-project-indy">Hyperledger Welcomes Project Indy</a> 2017-05-02 {ANN)
+    <blockquote>
+      <p>Indy is all about giving identity owners independent control of their personal data and relationships. Indy is built so that the owner of the identity is structurally part of transactions made about that identity. Pairwise identifiers not only prevent correlation, but they stop third parties from transacting without the identity owner taking part since the identity owner is the only place pairwise identifiers can be correlated.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p><img src="https://i.imgur.com/a0dpDtr.png"></p>
+
+<h2 id="development">Development</h2>
+
+<ul>
+  <li>
+<a href="https://www.hyperledger.org/blog/2022/05/02/hyperledger-identity-community-completes-development-of-didindy-method-and-advances-toward-a-network-of-networks">Hyperledger completes development of DID:Indy Method and advances toward a network of networks</a> 2022-05-02 Linux Foundation,  Howland &amp; Bluhm
+    <blockquote>
+      <p>With the groundwork complete, networks and agent frameworks now need to incorporate the Indy:DID Method. This community adoption will increase the viability of the Indy and Aries project stack and position it to be the globally dominant way to issue and share verifiable credentials in a multi-ledger world.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://iiw.idcommons.net/1H/_Building_a_Hyperledger_Indy_Network_-_Questions,_discussion,_etc.">Building a Hyperledger Indy Network</a> 2021-05-06 Lynn Bendixsen IIW
+    <ul>
+      <li><a href="https://docs.google.com/presentation/d/1sUG4297GiRcUdu4aqQnc0Op0LMhbwiqy9LIAINHfSFQ/edit#slide=id.p1">Slides</a></li>
+      <li>Creating your own Indy network:
+        <ul>
+          <li>High level: <a href="https://github.com/trustoverip/utility-foundry-wg">Utility Foundry WG</a>
+</li>
+          <li>Implementation: <a href="https://docs.google.com/document/d/1Tg4dAEtC78TxG9AsIby_CfpbeOicK_YMKznSQOvtIVU/edit">Technical details</a>:</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=WZin717AT_A">Introduction to the Architecture of Indy Plenum and Node</a> Evernym, 2018-12-03
+    <blockquote>
+      <p>An internal training Evernym held to help new team members understand the details of Indy Plenum and Indy Node.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://indy.readthedocs.io/projects/hipe/en/latest/">Hyperledger Indy Project Enhancements</a> <a href="https://github.com/hyperledger/indy-hipe/blob/main/index.md">GitHub</a>
+    <blockquote>
+      <p>This repo holds RFCs for the Indy project. We call them HIPEs (Hyperledger Indy Project Enhancements, pronounced like “hype” for short). They describe important topics (not minor details) that we want to standardize across the Indy ecosystem.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="github">GitHub</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/hyperledger/indy-plenum">indy-plenum</a> - Byzantine Fault Tolerant Protocol [<a href="https://github.com/hyperledger/indy-plenum/wiki"><strong>wiki</strong></a>]
+    <blockquote>
+      <p>“Byzantine fault tolerance is a sub-field of fault tolerance research inspired by the Byzantine Generals’ Problem, which is a generalized version of the Two Generals’ Problem.”</p>
+    </blockquote>
+    <ul>
+      <li>
+<a href="https://github.com/hyperledger/indy-plenum/blob/master/docs/storage.md">Storage components</a> - As of now, RocksDB is used as a key-value database for all Storages.</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/hyperledger/indy-sdk">indy-sdk</a> - Everything needed to build applications that interact with an Indy distributed identity ledger.
+    <ul>
+      <li><a href="https://github.com/hyperledger/indy-sdk/blob/master/MAINTAINERS.md">MAINTAINERS.md</a></li>
+    </ul>
+  </li>
+  <li>
+<a href="https://github.com/hyperledger/indy-node">indy-node</a> - The server portion of a distributed ledger purpose-built for decentralized identity.</li>
+  <li>
+<a href="https://github.com/hyperledger/indy-anoncreds">indy-anoncreds</a> - Anonymous credentials protocol implementation in python</li>
+  <li>
+<a href="https://github.com/hyperledger/indy-test-automation">indy-test-automation</a> 2023-03-28
+    <blockquote>
+      <p>Automation tools for testing of Indy Project components.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="implementation">Implementation</h3>
+<ul>
+  <li>
+<a href="https://github.com/hyperledger-labs/business-partner-agent">hyperledger-labs/business-partner-agent</a> 2023-05-17 - The Business Partner Agent allows to manage and exchange master data between organizations
+    <blockquote>
+      <p>The current maintainers stop active contribution to the further development of the Hyperledger Labs project Business Partner Agent, as well as the related project Business Partner Agent Helm Chart. To give existing users of the Business Partner Agent enough lead time, we are willing to continue maintaining the project for now. For more information see the Hyperledger Discord channel.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://idunion.org/?lang=en">IDunion</a> 
+    <blockquote>
+      <p>enables self-determined identities based on Self-Sovereign Identity (SSI) technologies Hyperledger Indy and Hyperledger Aries. The aim of the IDunion organisation is to create an open ecosystem for decentralised identity management, which can be used  worldwide and is based on European values and regulations. IDunion is also a <a href="https://www.digitale-technologien.de/DT/Redaktion/DE/Standardartikel/SchaufensterSichereDigIdentProjekte/Schaufensterprojekte/sdi-projekt_idunion.html">project</a> co-funded by the <a href="https://www.bmwi.de/Navigation/EN/Home/home.html">German Federal Ministry of Economic Affairs (BMWi)</a> as part of the <a href="https://www.digitale-technologien.de/DT/Navigation/DE/ProgrammeProjekte/AktuelleTechnologieprogramme/Sichere_Digitale_Identitaeten/sichere_digitale_ident.html">Showcases Secure Digital Identities program</a>. We gave an introduction covering</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://iiw.idcommons.net/24A/_BC_Gov_Collaboration_on_the_Business_Partner_Agent,_sharing_our_Roadmap-Create_Creds,_Issue_them,_Verify_them,_Hold_them,_publish_them,_ZKPs,_Selective_Disclosure-">BC Gov Collaboration on the Business Partner Agent, sharing our Roadmap (Create Creds, Issue them, Verify them, Hold them, publish them, ZKPs, Selective Disclosure)</a> 2021-05-06 Matthew Hall IIW
+    <blockquote>
+      <ul>
+        <li>Viewing organizations as Issuers, Verifiers and Holders</li>
+        <li>Talked about the complexity of defining a verifiable credential, I.e. what are you attesting to?</li>
+        <li>Went over the need to make it easier for users to be able to create credential schemas and credential definitions without having to gain understanding about the tech.</li>
+      </ul>
+    </blockquote>
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=09-LOHPTHWs">DEMO</a></li>
+      <li><a href="https://chat.hyperledger.org/channel/business-partner-agent">Connect with Us</a></li>
+      <li>
+<a href="https://github.com/hyperledger-labs/business-partner-agent/projects/1">Repo</a> 2022-07-28</li>
+    </ul>
+  </li>
+  <li>
+<a href="https://ixo.world/">IXO World</a> - Guided by the UN framework of 17 Global Goals to end poverty, protect the planet and ensure prosperity for all, by the year 2030. [<a href="https://twitter.com/phillipgibb/status/1073247433067556865"><strong>ϟ</strong></a>] (ethereum ocean ipld)
+    <blockquote>
+      <p>“Achieving the Sustainable Development Goals demands embracing the data revolution “ UN Secretary - General (2014)</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="http://web.archive.org/web/20220221134446/http://graphchain.io/MTSR2018.pdf">Legal Entity Identifier blockchained by a Hyperledger Indy implementation of GraphChain</a> 2018-10-23
+    <blockquote>
+      <p>The main idea behind GraphChain is to use blockchain mechanisms on top of an abstract RDF graphs. This paper presents an implementation of GraphChain in the Hyperledger Indy framework. The whole setting is shown to be applied to the RDF graphs containing information about Legal Entity Identifiers (LEIs).</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://northernblock.io/orbit-enterprise/">NB Orbit Enterprise/</a> 2022
+    <blockquote>
+      <p>NB Orbit Enterprise is a no-code self-sovereign identity platform that facilitates the storage, issuance and verification of verifiable credentials that are held and owned by end users in digital wallets.</p>
+
+      <p>The platform contains a collection of technologies and concepts in identity management, distributed and edge computing, distributed ledger technologies and cryptography.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="literature">Literature</h3>
+<ul>
+  <li>
+<a href="https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-130.pdf">A Framework for Designing Cryptographic Key Management Systems</a> 2023-06-12
+    <blockquote>
+      <p>This Framework for Designing Cryptographic Key Management Systems (CKMS1) is a description of the topics to be considered and the documentation requirements (henceforth referred to as requirements) to be addressed when designing a CKMS. The CKMS designer satisfies the requirements by selecting the policies, procedures, components (hardware, software, and firmware), and devices (groups of components) to be incorporated into the CKMS, and then specifying how these items are employed to meet the requirements of this Framework</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://arxiv.org/pdf/2201.00231.pdf">An automatized Identity and Access Management system for IoT combining SSI and smart contracts</a> 2023-06-11 Montassar Naghmouchi, Hella Kaffel, and Maryline Laurent
+    <blockquote>
+      <p>This paper proposes a blockchain-based identity and access management system for IoT – specifically smart vehicles- as an example of use-case, showing two interoperable blockchains, Ethereum and Hyperledger Indy, and a self-sovereign</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blockchainhealthcaretoday.com/index.php/journal/article/view/196#.Yjkahet3YEM.twitter">Technical Design and Development of a Self-Sovereign Identity Management Platform for Patient-Centric Healthcare Using Blockchain Technology</a> 2022-04-22 Blockchain Healthcare Today
+    <blockquote>
+      <p>To manage patient’s self-sovereign identity, we leveraged the Hyperledger Indy blockchain framework to store patient’s decentralized identifiers (DIDs) and the schemas or format for each credential type. In contrast, the credentials containing patient data are stored “off-ledger” in each person’s wallet and accessible via a computer or smartphone. We used Hyperledger Aries as a middleware layer (API) to connect Hyperledger Indy with the front-end, which was developed using a JavaScript framework, ReactJS (Web Application) and React Native (iOS Application).</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://arxiv.org/pdf/2204.05784.pdf">Blockchain Trilemma for Decentralized Identity: Learning from Hyperledger Indy</a> 2022-04-12 Paul Dunphy, OneSpan, Cambridge, UK
+    <blockquote>
+      <p>The current credential verification process relies on transaction processing by a ledger with transaction processing bottlenecks, which may constrain the ideal of non-repudiation.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://arxiv.org/pdf/2204.05784.pdf">Blockchain Trilemma for Decentralized Identity: Learning from Hyperledger Indy</a> 2022-04-22 Paul Dunphy, OneSpan, Cambridge, UK
+    <blockquote>
+      <p>The current credential verification process relies on transaction processing by a ledger with transaction processing bottlenecks, which may constrain the ideal of non-repudiation.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="zero-knowledge-proofs-in-indy">Zero Knowledge Proofs in Indy</h2>
+
+<p><img src="https://i.imgur.com/LAUkkbN.png" alt=""></p>
+
+<ul>
+  <li>
+<a href="https://github.com/hyperledger/indy-anoncreds">AnonCreds: Anonymous credentials protocol implementation in python</a> [<a href="https://github.com/hyperledger/indy-anoncreds/blob/master/docs/anoncred-usecase1.pdf"><strong>ϟ</strong></a>]</li>
+  <li><a href="https://github.com/hyperledger/indy-node/blob/master/docs/relationship-diagram.png">Relationship Diagram</a></li>
+  <li><a href="https://www.slideshare.net/SSIMeetup/zeroknowledge-proofs-privacypreserving-digital-identity-with-clare-nelson">Zero-Knowledge Proofs: Privacy-Preserving Digital Identity with Clare Nelson</a></li>
+  <li>
+<a href="https://forum.sovrin.org/t/what-zero-knowledge-proof-algorithm-is-used-in-sovrin/71/2">What Zero Knowledge Poof Algorithm is used in Sovrin?</a>
+    <blockquote>
+      <p>Our zero-knowledge proofs are part of the <a href="http://domino.research.ibm.com/library/cyberdig.nsf/papers/EEB54FF3B91C1D648525759B004FBBB1/%24File/rz3730_revised.pdf">Idemix protocol</a>, where they are used to prove the possession of <a href="https://eprint.iacr.org/2001/019.pdf">Camenisch-Lysyanskaya credentials</a>. We also use zero-knowledge proofs in the revocation protocol, which is based on <a href="https://eprint.iacr.org/2008/539.pdf">cryptographic accumulators</a>.</p>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#accenture" class="page__taxonomy-item p-category" rel="tag">Accenture</a><span class="sep">, </span>
+    
+      <a href="/tags/#adoption" class="page__taxonomy-item p-category" rel="tag">Adoption</a><span class="sep">, </span>
+    
+      <a href="/tags/#anoncreds" class="page__taxonomy-item p-category" rel="tag">Anoncreds</a><span class="sep">, </span>
+    
+      <a href="/tags/#aries" class="page__taxonomy-item p-category" rel="tag">Aries</a><span class="sep">, </span>
+    
+      <a href="/tags/#atb" class="page__taxonomy-item p-category" rel="tag">ATB</a><span class="sep">, </span>
+    
+      <a href="/tags/#blockchain" class="page__taxonomy-item p-category" rel="tag">Blockchain</a><span class="sep">, </span>
+    
+      <a href="/tags/#cisco" class="page__taxonomy-item p-category" rel="tag">Cisco</a><span class="sep">, </span>
+    
+      <a href="/tags/#consensys" class="page__taxonomy-item p-category" rel="tag">Consensys</a><span class="sep">, </span>
+    
+      <a href="/tags/#culedger" class="page__taxonomy-item p-category" rel="tag">CULedger</a><span class="sep">, </span>
+    
+      <a href="/tags/#ethereum-enterprise-alliance" class="page__taxonomy-item p-category" rel="tag">Ethereum Enterprise Alliance</a><span class="sep">, </span>
+    
+      <a href="/tags/#evernym" class="page__taxonomy-item p-category" rel="tag">Evernym</a><span class="sep">, </span>
+    
+      <a href="/tags/#hyperledger-foundation" class="page__taxonomy-item p-category" rel="tag">Hyperledger Foundation</a><span class="sep">, </span>
+    
+      <a href="/tags/#ibm" class="page__taxonomy-item p-category" rel="tag">IBM</a><span class="sep">, </span>
+    
+      <a href="/tags/#indy" class="page__taxonomy-item p-category" rel="tag">Indy</a><span class="sep">, </span>
+    
+      <a href="/tags/#iot" class="page__taxonomy-item p-category" rel="tag">IOT</a><span class="sep">, </span>
+    
+      <a href="/tags/#iota" class="page__taxonomy-item p-category" rel="tag">IOTA</a><span class="sep">, </span>
+    
+      <a href="/tags/#mydata" class="page__taxonomy-item p-category" rel="tag">MyData</a><span class="sep">, </span>
+    
+      <a href="/tags/#rdf" class="page__taxonomy-item p-category" rel="tag">RDF</a><span class="sep">, </span>
+    
+      <a href="/tags/#sovrin-foundation" class="page__taxonomy-item p-category" rel="tag">Sovrin Foundation</a><span class="sep">, </span>
+    
+      <a href="/tags/#truu" class="page__taxonomy-item p-category" rel="tag">Truu</a><span class="sep">, </span>
+    
+      <a href="/tags/#tykn" class="page__taxonomy-item p-category" rel="tag">Tykn</a><span class="sep">, </span>
+    
+      <a href="/tags/#unsdgs" class="page__taxonomy-item p-category" rel="tag">UNSDGs</a><span class="sep">, </span>
+    
+      <a href="/tags/#ursa" class="page__taxonomy-item p-category" rel="tag">Ursa</a><span class="sep">, </span>
+    
+      <a href="/tags/#verifiable-organizations-network" class="page__taxonomy-item p-category" rel="tag">Verifiable Organizations Network</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#open-source-projects" class="page__taxonomy-item p-category" rel="tag">Open Source Projects</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-12">June 12, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&amp;text=Hyperledger+Indy%20https%3A%2F%2Fdecentralized-id.com%2Fprojects%2Fhyperledger%2Findy%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fprojects%2Fhyperledger%2Findy%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fdecentralized-id.com%2Fprojects%2Fhyperledger%2Findy%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fprojects%2Fhyperledger%2Findy%2F&amp;title=Hyperledger+Indy" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="#" class="pagination--pager disabled">Previous</a>
+    
+    
+      <a href="/self-sovereign-identity/" class="pagination--pager" title="Self Sovereign Identity (SSI)
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

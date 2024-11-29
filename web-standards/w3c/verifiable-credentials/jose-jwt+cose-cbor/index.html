@@ -1,0 +1,1054 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Verifiable Credentials with JOSE (JWT) / COSE (CBOR) |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="enables the Verifiable Credential data model [VC-DATA-MODEL] to be implemented with standards for signing and encryption that are widely adopted.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Verifiable Credentials with JOSE (JWT) / COSE (CBOR)">
+<meta property="og:url" content="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/">
+
+
+  <meta property="og:description" content="enables the Verifiable Credential data model [VC-DATA-MODEL] to be implemented with standards for signing and encryption that are widely adopted.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Verifiable Credentials with JOSE (JWT) / COSE (CBOR)">
+  <meta name="twitter:description" content="enables the Verifiable Credential data model [VC-DATA-MODEL] to be implemented with standards for signing and encryption that are widely adopted.">
+  <meta name="twitter:url" content="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-09-08T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-09-09T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li>
+</ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero" style=" background-image: url('');">
+  
+    <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt.webp" alt="Verifiable Credentials with JOSE (JWT) / COSE (CBOR)" class="page__hero-image">
+  
+  
+    <span class="page__hero-caption"><a href="https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf">[<strong>Verifiable Credentials Flavors Explained</strong>]</a> 2021 CCI Kaliya ‘Identity Woman’ Young [<a href="https://www.lfph.io/wp-content/uploads/2021/04/Verifiable-Credentials-Flavors-Explained-Infographic.pdf"><strong>Infographic</strong></a>]
+</span>
+  
+</div>
+
+
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp" alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources &amp; Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Verifiable Credentials with JOSE (JWT) / COSE (CBOR)">
+    <meta itemprop="description" content="Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key holder), are an essential part of processing a verifiable credential.">
+    <meta itemprop="datePublished" content="2023-09-08T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-09-09T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" class="u-url" itemprop="url">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          12 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title">
+<i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu">
+<li><a href="#main">Main</a></li>
+<li>
+<a href="#verifiable-credentials-with-json-web-token-jose">Verifiable Credentials with JSON Web Token (JOSE)</a><ul>
+<li><a href="#vc-jwt-selective-disclosure">VC-JWT Selective Disclosure</a></li>
+<li><a href="#vc-jwt-presentation">VC-JWT Presentation</a></li>
+<li><a href="#vc-jwt-development">VC-JWT Development</a></li>
+</ul>
+</li>
+<li><a href="#json-web-proof">JSON Web Proof</a></li>
+<li>
+<a href="#verifiable-credentials-with-concise-binary-object-representation-cose">Verifiable Credentials with Concise Binary Object Representation (COSE)</a><ul>
+<li><a href="#cbor-explainer">CBOR Explainer</a></li>
+<li><a href="#vc-cbor-development">VC-CBOR Development</a></li>
+</ul>
+</li>
+</ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="main">Main</h2>
+<ul>
+  <li>[Working Draft] <a href="https://www.w3.org/TR/vc-jose-cose/">Securing Verifiable Credentials using JOSE and COSE</a> 2023-09-08 Orie Steele, Michael Jones, Michael Prorock
+    <blockquote>
+      <p>This specification defines how to secure credentials and presentations conforming to the <a href="https://www.w3.org/TR/vc-jose-cose/#bib-vc-data-model">VC-DATA-MODEL</a>, with JSON Object Signing and Encryption (JOSE), and CBOR Object Signing and Encryption (<a href="https://datatracker.ietf.org/wg/jose/about/">COSE</a>) <a href="https://www.w3.org/TR/vc-jose-cose/#bib-rfc9052">RFC9052</a>. This enables the Verifiable Credential data model [VC-DATA-MODEL] to be implemented with standards for signing and encryption that are widely adopted.</p>
+    </blockquote>
+  </li>
+  <li>[Editors Draft] <a href="https://w3c.github.io/vc-data-model/">Verifiable Credentials Data Model v2.0</a> 2023-09-09
+    <blockquote>
+      <p>Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key holder), are an essential part of processing a verifiable credential. At the time of publication, Working Group members had implemented verifiable credentials using at least three proof mechanisms:</p>
+      <ul>
+        <li>Securing Verifiable Credentials using JOSE and COSE [<a href="https://w3c.github.io/vc-data-model/#bib-vc-jose-cose">VC-JOSE-COSE</a>].</li>
+        <li>Securing Verifiable Credentials using Data Integrity Proofs [<a href="https://w3c.github.io/vc-data-model/#bib-vc-jose-cose">VC-DATA-INTEGRITY</a>].</li>
+        <li>Camenisch-Lysyanskaya Zero-Knowledge Proofs [<a href="https://w3c.github.io/vc-data-model/#bib-cl-signatures">CL-SIGNATURES</a>].</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://identitywoman.net/misinformation-stops-here-w3c-vc-2-0-supports-json/">Misinformation Stops Here: W3C VC 2.0 Supports JSON</a> 2023-07-21 Kaliya Young
+    <blockquote>
+      <p>There is one “extra” field that JSON-LD requires/needs which is <a href="https://twitter.com/context" class="user-mention">@context</a> and if you didn’t want to use it and simply wanted to ignore it and just do JSON you could. The VC would be entirely compliant and thus both data expression formats could live in the same specification. JSON-LD credentials that did have an <a href="https://twitter.com/context" class="user-mention">@context</a> that were being read by tooling that just did JSON could still read the credentials – it did nothing to interfere. This seems like a pretty good “let’s figure out how to live with each other” solution.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="verifiable-credentials-with-json-web-token-jose">Verifiable Credentials with JSON Web Token (JOSE)</h2>
+<ul>
+  <li>
+<a href="https://www.ietf.org/archive/id/draft-jones-jose-fully-specified-algorithms-00.html">Fully-Specified Algorithms for JOSE and COSE</a> 2023-08-29 Mike Jones, Orie Steel; IETF
+    <blockquote>
+      <p>This specification refers to cryptographic algorithm identifiers that fully specify the cryptographic operations to be performed, including any curve, key derivation function (KDF), hash functions, etc., as being “fully specified”. Whereas, it refers to cryptographic algorithm identifiers that require additional information beyond the algorithm identifier to determine the cryptographic operations to be performed as being “polymorphic”. This specification creates fully-specified algorithm identifiers for all registered JOSE and COSE polymorphic algorithm identifiers, enabling applications to use only fully-specified algorithm identifiers.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.ietf.org/id/draft-terbu-sd-jwt-vc-02.html">SD-JWT-based Verifiable Credentials with JSON payloads (SD-JWT VC)</a> 2023-05-26 IETF
+    <blockquote>
+      <p>This specification describes data formats as well as validation and processing rules to express Verifiable Credentials with JSON payload based on the SD-JWT format [<a href="https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt-04">I-D.ietf-oauth-selective-disclosure-jwt</a>].</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://self-issued.info/?p=2316">Native JWT Representation for Verifiable Credentials</a> 2023-02-10 Mike Jones
+    <blockquote>
+      <p>For the first time, there is now a native JSON Web Token (JWT) representation for Verifiable Credentials. This representation uses IANA-registered JWT claims whenever applicable.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://techcommunity.microsoft.com/t5/security-compliance-and-identity/decentralized-identity-verifiable-credentials-deep-dive/ba-p/3690641">Verifiable Credentials Deep Dive</a> 2022-12-09 Pamela Dingle, Microsoft
+    <blockquote>
+      <p>A JWT-VC has three parts, and the payload contains what I would call envelope information: the data needed to know who the credential is is bound to, who made the credential, when it was made and how it can be identified.  Additionally, there is a JSON object called “vc”. Claims information is embedded inside the vc object.  A JWT-VC uses an external proof, meaning in this case that signature data is not embedded inline with the credential, the signature is detached from the credential. 
+<img src="https://i.imgur.com/ZBlDL7f.png" alt=""></p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf">Verifiable Credentials Flavors Explained</a> 2021 CCI Kaliya ‘Identity Woman’ Young
+    <blockquote>
+      <p>JWT takes a different approach to determining the meaning of claim terms in credentials. There is an <a href="https://www.iana.org/assignments/jwt/jwt.xhtml">IANA registry for JWT claims</a> as a first place to look for JWT claim definitions. If the claim name isn’t in the IANA register, then the claim can be given a “give it a public name (i.e., a URI), [or] a local name (i.e., any string)”. The meaning of the terms is decided between the issuers and verifiers.</p>
+
+      <p>In the VC Implementation Guidelines, there is a long list of the different characterizations of methods: JSON with JWT’s support vs JSON-LD with LD Signatures, <a href="https://www.w3.org/TR/vc-imp-guide/#benefits-of-jwts">Benefits of JWT</a>, <a href="https://www.w3.org/TR/vc-imp-guide/#benefits-of-json-ld-and-ld-proofs">Benefits of JSON-LD and LD-Proofs</a>.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/mattr-global/jwt-vs-linked-data-proofs-comparing-vc-assertion-formats-a2a4e6671d57">JWT vs Linked Data Proofs: comparing Verifiable Credentials</a> 2020-05-7 Nader Helmy, Mattr
+    <blockquote>
+      <p>JWTs have the benefit of already being widely used in today’s identity technologies, most notably in the framework used by OAuth 2.0 and OpenID Connect. Because of this, there are a number of existing software libraries and tools that developers can use immediately to begin building out their implementations. In addition, due to the fact that JWT-based credentials rely on a shared assertion format with existing identity technologies, it may be an easier mental model for newcomers to adopt when starting to experiment with VCs.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="vc-jwt-selective-disclosure">VC-JWT Selective Disclosure</h3>
+<ul>
+  <li>[Standards Track] <a href="https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/">SD-JWT-based Verifiable Credentials (SD-JWT VC)</a> 2023-08-16 Oliver Terbu, Daniel Fett IETF
+    <blockquote>
+      <p>JSON Web Tokens (JWTs) [RFC7519] can in principle be used to express Verifiable Credentials in a way that is easy to understand and process as it builds upon established web primitives.</p>
+
+      <p>Selective Disclosure JWT (SD-JWT) [I-D.ietf-oauth-selective-disclosure-jwt] is a specification that introduces conventions to support selective disclosure for JWTs: For an SD-JWT document, a Holder can decide which claims to release (within bounds defined by the Issuer).</p>
+
+      <p>SD-JWT is a superset of JWT as it can also be used when there are no selectively disclosable claims and also supports JWS JSON serialization, which is useful for long term archiving and multi signatures. However, SD-JWT itself does not define the claims that must be used within the payload or their semantics.</p>
+
+      <p>This specification therefore uses SD-JWT and the well-established JWT content rules and extensibility model as basis for representing Verifiable Credentials with JSON payload. Those Verifiable Credentials are called SD-JWT VCs.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://api-pilot.ebsi.eu/docs/specs/guidelines/selective-disclosure-sd-jwt">Selective Disclosure with SD-JWT</a> 2023
+    <blockquote>
+      <p>The purpose of this guideline is to document how to use SD-JWT with both versions V1.1 and V2.0 of the W3C Verifiable Credentials Data Model (VCDM). The document also covers application of these models in either JSON or JSON-LD format, and methods for protecting them using JWS signatures (compact or JSON serialised).</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="vc-jwt-presentation">VC-JWT Presentation</h3>
+<ul>
+  <li>
+<a href="https://identity.foundation/jwt-vc-presentation-profile/">JWT VC Presentation Profile</a> 2023-08-07 DIF
+    <blockquote>
+      <p>The JWT VC Presentation Profile defines a set of requirements against existing specifications to enable the interoperable presentation of Verifiable Credentials (VCs) between Wallets and Verifiers.</p>
+
+      <p>This document is not a specification, but a profile. It outlines existing specifications required for implementations to interoperate among each other. It also clarifies mandatory to implement features for the optionalities mentioned in the referenced specifications.</p>
+
+      <p>The profile uses OpenID for Verifiable Presentations (OpenID4VP ID1) as the base protocol for the request and verification of W3C JWT VCs as W3C Verifiable Presentations (VC Data Model v1.1).</p>
+    </blockquote>
+  </li>
+  <li>[MDL, JWT-VC, LD-Proofs] <a href="https://openid.net/specs/openid-4-verifiable-presentations-1_0-14.html">OpenID for Verifiable Presentations</a> 2022-12-30 OpenID
+    <blockquote>
+      <p>This specification defines mechanisms to</p>
+      <ul>
+        <li>request presentation of Verifiable Credentials in arbitrary formats.</li>
+        <li>provide a verifier with one or more Verifiable Presentations in a secure fashion.</li>
+        <li>customize the protocol to the specific needs of a particular credential format. Examples are given for credential formats as specified in [VC_DATA], [ISO.18013-5] and [Hyperledger.Indy].</li>
+        <li>combine the credential presentation with user authentication through [SIOPv2].</li>
+        <li>combine the credential presentation with the issuance of OAuth access tokens.</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/workday-engineering/lets-actually-share-our-verifiable-credentials-7ab1b4c73079">Let’s (actually) Share Our Verifiable Credentials - Introducing the JWT VC Presentation Profile</a> 2022-07-25 Jen Schreiber, Workday Technology
+    <blockquote>
+      <p>In order to tackle the problem of how we actually share credentials, Workday teamed up with Microsoft, Ping Identity, and MATTR to develop a <a href="https://identity.foundation/jwt-vc-presentation-profile">specification profile</a> that outlines a list of standards and, once adopted by providers, would enable seamless verification of VCs. Development of the profile continues within the Decentralized Identity Foundation (DIF).</p>
+
+      <p>In this blog post, we will give an overview of why specification profiles are required, what this profile involves, and what it means for the adoption of VCs.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="vc-jwt-development">VC-JWT Development</h3>
+<ul>
+  <li>[GitHub, NPM] <a href="https://github.com/decentralized-identity/did-jwt-vc">did-jwt-vc</a> 2023-09-04 DIF
+    <blockquote>
+      <p>Create and verify W3C Verifiable Credentials and Presentations in JWT format</p>
+    </blockquote>
+  </li>
+  <li>[Web Tool] <a href="https://jwt.vc/">Transmute JSON Web Tokens into Verifiable Credentials</a>
+    <blockquote>
+      <p>Encoded PASTE A TOKEN HERE</p>
+    </blockquote>
+  </li>
+  <li>[Web Tool] <a href="https://vcinteroptesting.azurewebsites.net/">JWT VC Interop Profile</a> Microsoft
+    <blockquote>
+      <p>Verifiable Credential Issuance and Verifier Sample</p>
+    </blockquote>
+  </li>
+  <li>[Web Tool] <a href="https://api-pilot.ebsi.eu/docs/tools/vc-validator">VC validator</a> EBSI
+    <blockquote>
+      <p>Validate a Verifiable Credential (VC) or a Verifiable Presentation (VP) using the <a href="https://api-pilot.ebsi.eu/docs/libraries/verifiable-credential">@cef-ebsi/verifiable-credential</a> and <a href="https://api-pilot.ebsi.eu/docs/libraries/verifiable-presentation">@cef-ebsi/verifiable-presentation</a> libraries.</p>
+    </blockquote>
+  </li>
+  <li>[Spec v3] <a href="https://www.imsglobal.org/spec/ob/v3p0#jwt-proof">Open Badges Specification - JSON Web Token Proof Format</a> 2023-09-08 Open Badges, IMS Global
+    <blockquote>
+      <p>This proof format relies on the well established JWT (JSON Web Token) [RFC7519] and JWS (JSON Web Signature) [RFC7515] specifications. A JSON Web Token Proof is a JWT signed and encoded as a Compact JWS string. The proof format is described in detail in Section 6.3.1 “JSON Web Token” of Verifiable Credentials Data Model v1.1. That description allows several options which may inhibit interoperability. This specification limits the options while maintaining compatibility with [VC-DATA-MODEL] to help ensure interoperability.</p>
+    </blockquote>
+  </li>
+  <li>[GitHub] <a href="https://github.com/kushaldas/sd_jwt">sd_jwt</a> 2022-06-12 Kushaldas
+    <blockquote>
+      <p>This is an implementation of the SD-JWT draft, revision 2.<br>
+Do not use it in production yet.</p>
+    </blockquote>
+  </li>
+  <li>[GitHub] <a href="https://github.com/uport-project/kotlin-did-jwt">kotlin-did-jwt</a> 2020-03-21 uPort Project
+    <blockquote>
+      <p>The kotlin-did-JWT library allows you to sign and verify JSON Web Tokens (JWT) using ES256K, and ES256K-R algorithms.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="json-web-proof">JSON Web Proof</h2>
+<ul>
+  <li>[tracker] <a href="https://datatracker.ietf.org/doc/bofreq-miller-json-web-proofs/">JSON Web Proofs / JSON Object Signing and Encryption (JOSE)</a>2022-06-16 J. Miller, D. Waite, Ping Identity. M. Jones Microsoft. IETF
+    <blockquote>
+      <p>The JOSE RFCs and JWT, have been widely adopted for identity use cases, including for the widely-deployed OpenID Connect protocol and STIR. Concurrent to the growth of adoption of these standards has been an increasing societal focus on privacy. Common privacy themes in identity solutions that intersect with JWT are user consent and minimal disclosure.</p>
+
+      <p>In recent years, newer solutions have been evolving such as Verifiable Credentials that formalize the entities of Issuer, Holder, and Verifier. A Verifiable Credential lifecycle has three accompanying phases: issuance, storage, and presentation. The JOSE and JWT standards have also been adopted by Verifiable Credentials (for the JWT-VC representation), but JWS and JWT have limitations that make privacy protection challenging.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://hackmd.io/@quartzjer/JSON_Web_Proof">JSON Web Proof (JWP)</a> 2021-06-29 QuartzJer
+    <blockquote>
+      <p>A JSON Web Proof (JWP) is very similar to a JWS, with the addition that it can contain multiple individual payloads instead of a singular one. New JWP-supporting algorithms are then able to separate and act on the individual payloads contained within.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://w3c-ccg.github.io/Merkle-Disclosure-2021/jwp/">JSON Web Proof for Binary Merkle Trees</a> 2021 O. Steele, Transmute. M. Prorock, mesur.io. Credentials Community Group
+    <blockquote>
+      <p>The purpose of this specification is to define a generic encoding of merkle audit paths that is suitable for combining with [RFC7515] to construct selective disclosure proofs, that are not bound to the needs of certificate transparency, and that are suitable for more generic applications such as W3C Verifiable Credentials and W3C Decentralized Identifiers.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="verifiable-credentials-with-concise-binary-object-representation-cose">Verifiable Credentials with Concise Binary Object Representation (COSE)</h2>
+
+<ul>
+  <li>[Unofficial Draft] <a href="https://transmute-industries.github.io/vc-cose/">Verifiable Credentials with CBOR Object Signatures</a> 2023-01-18 Transmute
+    <blockquote>
+      <p>This specification introduces a (Content Type) Header Parameter that is used to define the content type for Verifiable Credentials that utilize CBOR Object Signing to provide signing and verification in a Verifiable Credential.</p>
+
+      <p>This approach, of utilizing to a (Content Type) Header Parameter to specify a discrete set of mappings and expected behaviors in translation between formats or representations of data is used commonly in other groups to secure arbitrary content using COSE and other document and data encoding formats. This approach is extensible to other data encodings and may be extended to provide a mechanism for use of CBOR encodings for Verifiable Credentials.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="cbor-explainer">CBOR Explainer</h3>
+<ul>
+  <li>
+<a href="https://www.blockchaincommons.com/introduction/Why-CBOR/">Why CBOR?</a> 2022-12-07 Blockchain Commons
+    <blockquote>
+      <p>we have decided to use the IETF CBOR (Concise Binary Object Representation) standard in our specifications, including Gordian Envelope.</p>
+
+      <p>We chose CBOR as our serialization format choice for several key reasons</p>
+    </blockquote>
+  </li>
+  <li>[Working Group] <a href="https://datatracker.ietf.org/wg/cbor/about/">Concise Binary Object Representation Maintenance and Extensions (cbor)</a> 2023-06-07
+    <blockquote>
+      <p>Concise Binary Object Representation (CBOR, RFC 7049) extends the JavaScript Object Notation (JSON, RFC 8259) data interchange format to include binary data and an extensibility model, using a binary representation format that is easy to parse correctly. It has been picked up by a number of IETF efforts (e.g., CORE, ANIMA GRASP) as a message format.</p>
+    </blockquote>
+  </li>
+  <li>[W3C Editor’s Draft] <a href="https://digitalbazaar.github.io/cbor-ld-spec/">CBOR-LD 1.0 - A CBOR-based Serialization for Linked Data</a> 2022-09-06 Digital Bazaar,
+    <blockquote>
+      <p>CBOR is a compact binary data serialization and messaging format. This specification defines CBOR-LD 1.0, a CBOR-based format to serialize Linked Data. The encoding is designed to leverage the existing JSON-LD ecosystem, which is deployed on hundreds of millions of systems today, to provide a compact serialization format for those seeking efficient encoding schemes for Linked Data. By utilizing semantic compression schemes, compression ratios in excess of 60% better than generalized compression schemes are possible. This format is primarily intended to be a way to use Linked Data in storage and bandwidth constrained programming environments, to build interoperable semantic wire-level protocols, and to efficiently store Linked Data in CBOR-based storage engines.</p>
+    </blockquote>
+  </li>
+  <li>[RFC 9052] <a href="https://www.rfc-editor.org/rfc/rfc9052">CBOR Object Signing and Encryption (COSE): Structures and Process</a> 2022-08
+    <blockquote>
+      <p>Concise Binary Object Representation (CBOR) is a data format designed for small code size and small message size. There is a need to be able to define basic security services for this data format. This document defines the CBOR Object Signing and Encryption (COSE) protocol. This specification describes how to create and process signatures, message authentication codes, and encryption using CBOR for serialization. This specification additionally describes how to represent cryptographic keys using CBOR.</p>
+    </blockquote>
+  </li>
+  <li>[RFC 9053] <a href="https://www.rfc-editor.org/rfc/rfc9053">CBOR Object Signing and Encryption (COSE): Initial Algorithms</a>
+    <blockquote>
+      <p>Concise Binary Object Representation (CBOR) is a data format designed for small code size and small message size. There is a need to be able to define basic security services for this data format. This document defines a set of algorithms that can be used with the CBOR Object Signing and Encryption (COSE) protocol (RFC 9052).</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://learn.mattr.global/docs/vii-platform/compact-credentials/">Compact Credentials</a> Mattr
+    <blockquote>
+      <p>CBOR is a binary data format derived from JSON that allows it to utilizes data types like numbers, strings &amp; arrays, however, due to being binary, it offers a much more compact message size. Often when CBOR is being discussed or documented, we can represent the data model using JSON to simplify the way the data can be viewed and modelled.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="vc-cbor-development">VC-CBOR Development</h3>
+
+<ul>
+  <li>[“mDL”,”eID”] <a href="https://walt.id/blog/p/mdl-eid-and-beyond">The Developers’ Dilemma (why mdoc credentials)</a> 2023-08-11 WaltID
+    <blockquote>
+      <p>Though, as it is with many new technologies. Before they can reach the masses, they share a common trait: building with them is challenging and time-consuming, which is based on the lack of developer tools making usage easy and implementation quick.</p>
+
+      <p>Which is why we build the <a href="https://github.com/walt-id/waltid-mdoc">mdoc lib</a>, as an addition to our open-source identity stack. Proving our commitment to deliver on the latest developments in the industry. Offering tools that let you build compliant solutions across identity ecosystems using different identity flavors with ease, whether that be on- or off-chain identity like Tokens/NFTs,  W3C Verifiable Credentials or now mdoc credentials. mdoc is a binary highly storage efficient credential format leveraging CBOR, standardized through ISO/IEC 18013-5:2021 mDL specification.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.npmjs.com/package/@mattrglobal/vc-cwt-verifier">@mattrglobal/vc-cwt-verifier</a> NPMJS
+    <ul>
+      <li>Verify a credential</li>
+      <li>Verify a credential with a list of trusted issuers</li>
+      <li>Verify a credential skipping expiry and not before checks</li>
+      <li>Provide custom cache for issuer resolution</li>
+    </ul>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#cose" class="page__taxonomy-item p-category" rel="tag">COSE</a><span class="sep">, </span>
+    
+      <a href="/tags/#iana" class="page__taxonomy-item p-category" rel="tag">IANA</a><span class="sep">, </span>
+    
+      <a href="/tags/#jose" class="page__taxonomy-item p-category" rel="tag">JOSE</a><span class="sep">, </span>
+    
+      <a href="/tags/#jwt" class="page__taxonomy-item p-category" rel="tag">JWT</a><span class="sep">, </span>
+    
+      <a href="/tags/#verifiable-credentials" class="page__taxonomy-item p-category" rel="tag">Verifiable Credentials</a><span class="sep">, </span>
+    
+      <a href="/tags/#w3c" class="page__taxonomy-item p-category" rel="tag">W3C</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#verifiable-credentials-and-decentralized-identifiers" class="page__taxonomy-item p-category" rel="tag">Verifiable Credentials and Decentralized Identifiers</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-09-09">September 9, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&amp;text=Verifiable+Credentials+with+JOSE+%28JWT%29+%2F+COSE+%28CBOR%29%20https%3A%2F%2Fdecentralized-id.com%2Fweb-standards%2Fw3c%2Fverifiable-credentials%2Fjose-jwt%2Bcose-cbor%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fweb-standards%2Fw3c%2Fverifiable-credentials%2Fjose-jwt%2Bcose-cbor%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fdecentralized-id.com%2Fweb-standards%2Fw3c%2Fverifiable-credentials%2Fjose-jwt%2Bcose-cbor%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fweb-standards%2Fw3c%2Fverifiable-credentials%2Fjose-jwt%2Bcose-cbor%2F&amp;title=Verifiable+Credentials+with+JOSE+%28JWT%29+%2F+COSE+%28CBOR%29" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" class="pagination--pager" title="Verifiable Credentials (ZKP-CL) Anoncreds
+">Previous</a>
+    
+    
+      <a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" class="pagination--pager" title="Verifiable Credentials with JSON-LD and BBS+ Signatures
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity_ld-proofs/" rel="permalink">Verifiable Credentials with JSON-LD and Linked Data Proofs
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Starting with the name, JSON-LD stands for JavaScript Object Notation with Linked Data. JSON-LD is a method of encoding linked data using JSON. The term “JSON-LD Credential” alone is somewhat ambiguous but the way it is colloquially used, it means a W3C Verifiable Credential Data Model compliant ...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,959 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Ceramic - 3box |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Ceramic is a decentralized data network that powers an ecosystem of interoperable Web3 applications and services.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Ceramic - 3box">
+<meta property="og:url" content="https://decentralized-id.com/web-3/ethereum/3box-ceramic/">
+
+
+  <meta property="og:description" content="Ceramic is a decentralized data network that powers an ecosystem of interoperable Web3 applications and services.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Ceramic - 3box">
+  <meta name="twitter:description" content="Ceramic is a decentralized data network that powers an ecosystem of interoperable Web3 applications and services.">
+  <meta name="twitter:url" content="https://decentralized-id.com/web-3/ethereum/3box-ceramic/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2020-11-05T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-25T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/web-3/ethereum/3box-ceramic/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Ceramic - 3box">
+    <meta itemprop="description" content="Designed to be cross-platform and highly configurable, IDX is compatible with all blockchains, wallets, and a wide variety of user and application data storage options including Ceramic, Textile, OrbitDB, Filecoin, IPFS, and Secure Data Stores — so you can seamlessly integrate decentralized identity with the rest of your Web3 tech stack.">
+    <meta itemprop="datePublished" content="2020-11-05T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-25T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/web-3/ethereum/3box-ceramic/" class="u-url" itemprop="url">Ceramic - 3box
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          8 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#ceramic">Ceramic</a></li><li><a href="#3box">3box</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="ceramic">Ceramic</h2>
+
+<p><strong><a href="https://github.com/ceramicnetwork/ceramic">GitHub</a> • <a href="https://github.com/ceramicstudio">Ceramic Studio</a> • <a href="https://developers.ceramic.network/learn/welcome/">Documentation</a> • <a href="https://forum.ceramic.network/">Forum</a></strong></p>
+
+<blockquote>
+  <p>Ceramic is a decentralized data network that powers an ecosystem of interoperable Web3 applications and services. Ceramic’s event streaming protocol is a highly-scalable decentralized data infrastructure used for building all kinds of interoperable Web3 services and protocols, such as decentralized databases. Ceramic-powered databases and services enable thousands of Web3 developers to build data-intensive applications and solve the world’s most complex data challenges. By decentralizing application databases, Ceramic makes data composable and reusable across all applications.</p>
+</blockquote>
+
+<ul>
+  <li><a href="https://developers.ceramic.network/protocol/overview/">Protocol Overview</a>
+    <blockquote>
+      <p>Ceramic is a decentralized event streaming protocol that enables developers to build decentralized databases, distributed compute pipelines, and authenticated data feeds, etc. Ceramic nodes can subscribe to subsets of streams forgoing the need of a global network state. This makes Ceramic an eventually consistent system (as opposed to strongly consistent like L1 blockchains), enabling web scale applications to be built reliably.</p>
+
+      <p>The protocol doesn’t prescribe how to interpret events found within streams; this is left to the applications consuming the streams. One example of this type of application is ComposeDB.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/getting-started-with-composedb-on-ceramic-2/">Tutorial: Getting Started With ComposeDB on Ceramic</a> 2023-06-13 Ceramic
+    <blockquote>
+      <p>ComposeDB on Ceramic is a decentralized, composable graph database that empowers developers to store and interact with their application data efficiently and swiftly. By integrating Ceramic infrastructure with an indexer, reusable data models, and GraphQL, ComposeDB paves the way for the creation of truly interoperable and composable Web3 applications.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/a-higher-personhood-score-means-more-contribution-matching/">GitCoin working with Ceramic on “GitCoin Passport”</a> 2022-06-08 Ceramic
+    <blockquote>
+      <p>PoPP signs and issues “stamps” to the user’s Passport that publicly attest to the user’s claims. Behind the scenes, these are Verifiable Credentials (VCs) that are stored on the user’s Ceramic streams.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/headline-rewrites-subscription-based-publishing-for-web3/">Headline Introduces Creator-Controlled, Subscription-Based Publishing</a> 2022-05-31 Ceramic
+    <blockquote>
+      <p>The publishing protocol uses Unlock’s NFT-based access system and Ceramic’s decentralized data protocol to give creators full control over their content, communities and monetization.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/how-web3-apps-are-building-composable-trust/">How Web3 apps are building composable trust</a> 2022-05-19 Ceramic
+    <blockquote>
+      <p>Explore the unique paradigms behind Web3 reputation, prominent use cases, and example architectures to incorporate credentials into your application.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/key-revocation-in-self-certifying-protocols/">Key Revocation in Self-Certifying Protocols</a> 2022-04-28 Ceramic
+    <blockquote>
+      <p>In Web3 protocols cryptographic keys are used for encryption and signature verification. Typically a key is split into a public and a private key and because private keys are hard to keep secure, it is considered good practice to change keys over time.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/30-million-series-a-multicoin-usv/">3Box Labs, core developers of Ceramic, has raised a $30,000,000 Series A co-led by Multicoin Capital and Union Square Ventures</a> 2022-02-16 Ceramic
+    <blockquote>
+      <p>…Ceramic, a decentralized network for composable Web3 data. The network consists of three core components:</p>
+
+      <ol>
+        <li>Scalable, decentralized data infrastructure</li>
+        <li>Open APIs for storing, modifying, and retrieving data</li>
+        <li>Community-created marketplace of reusable data models</li>
+      </ol>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/user-centric-data-on-web3/">User-centric data on Web3</a> 2022-02-08 Ceramic
+    <blockquote>
+      <p>What if there was a way to give users full sovereign control over their data while getting access to not just the data from your application but many other compatible ones?</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/daohaus-adds-rich-dao-member-profiles/">DAOhaus adds functionality for rich member profiles for DAOs</a> 2022-02-04 Ceramic
+    <blockquote>
+      <p>Identity in web3, as is the case in most DAOs today, is typically address based. Users represent themselves as their wallet or account address, but long hex strings are not sufficient. While ENS names are great for Ethereum mainnet, they don’t currently work across all the networks DAOhaus supports. Users need a human-readable identity solution that works across networks and the many tools DAOs commonly use.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/capability-based-data-security-on-ceramic/">Building capability-based data security for Ceramic</a> 2022-01-05 Ceramic
+    <blockquote>
+      <p>The 3Box Labs team recently published a new standard for creating capability containers for accessing decentralized data to the Chain Agnostic Standards Alliance. Capability containers are an approach for managing advanced data security and permissions, commonly referred to as “Object Capabilities” or “OCAPs.”</p>
+
+      <p>This new standard is currently in development for use on Ceramic. Once deployed in a future version of the protocol, it will allow Ceramic to be fully compatible with the new Sign-in with Ethereum (SIWE) specification as well as provide advanced data flow control features for resources stored on the Ceramic network.</p>
+    </blockquote>
+  </li>
+  <li>[code] <a href="https://github.com/dabit3/decentralized-identity-example">An authentication system built with Ceramic &amp; self.id</a> 2021-12-11 dabit3
+    <blockquote>
+      <p>This project implements a user authentication flow leveraging an Ethereum wallet for single sign on capabilities across all of Web3.</p>
+
+      <p>The technologies used are <a href="https://www.w3.org/TR/did-core/">DID (decentralized identifiers)</a>, <a href="https://ceramic.network/">Ceramic</a>, <a href="https://github.com/ceramicstudio/3id-connect">3id-connect</a>, and <a href="https://developers.ceramic.network/tools/self-id/overview/">Self.ID</a></p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/building-the-social-graph-infrastructure-for-web3-0/">Building the Social Graph Infrastructure for Web3.0</a> 2021-11-03
+    <blockquote>
+      <p>Using Ceramic, CyberConnect is building a new decentralized social graph protocol. This critical piece of web3 infrastructure is blockchain-agnostic and openly accessible for developers to build decentralized social networks and other apps in the Metaverse.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/the-next-architecture-for-building-web3-data-applications/">The next architecture for building Web3 data apps</a> 2021-10-04 Ceramic
+    <blockquote>
+      <p>We’re replacing the popular IDX runtime with a more powerful set of tools for building applications on Ceramic including DID DataStore, DataModels, and Self.ID.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/geo-web-is-connecting-digital-content-to-the-physical-world-with-nfts-and-ceramic/">Geo Web is connecting digital content to the physical world with NFTs and Ceramic</a> 2021-06-17 Ceramic
+    <blockquote>
+      <p>With DID:NFT, because the content that is anchored to a Geo Web parcel can actually be owned by the parcel itself, when someone buys the land they’re also getting the infrastructure that’s been built up on that land.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.ceramic.network/what-is-3id-connect/">3IDConnect</a> 2020-11-25 Ceramic <a href="https://github.com/3box/3id-connect">GitHub</a><br />
+<em>along with the slightly problematic frame that users have “a DID”</em>
+    <blockquote>
+      <p>3ID Connect is a hosted authentication system for browser-based Ceramic applications that allows users to onboard to applications, control their DID, and interact with Ceramic streams using their existing blockchain accounts.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://ssimeetup.org/identity-centric-interoperability-ceramic-protocol-joel-thorstensson-webinar-57/">Identity-centric interoperability with the Ceramic Protocol – Joel Thorstensson – Webinar 57</a> 2020-05-05
+    <blockquote>
+      <p>Ceramic is a new permissionless protocol for creating and accessing unstoppable documents that serve as the foundation for a connected, interoperable web without silos. Joel Thorstensson is the founder and CTO of 3Box and the primary author of the ceramic protocol as well as several Ethereum standards for identity and will provide a conceptual and technical intro to Ceramic.<br />
+[…]<br />
+Ceramic uses DIDs (Decentralized Identifiers), IPLD (InterPlanetary Linked Data), signed messages, and blockchain anchoring to create a trusted and shared graph of verifiable documents. While flexible, these documents are especially well-suited for self-sovereign identity systems, user-centric data ecosystems, and open web services.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/ceramic/introduction-to-the-ceramic-protocol-8d56951ae3f">Introduction to the Ceramic Protocol</a> 2020-03-24 Ceramic
+    <blockquote>
+      <p>For self-sovereign identity and to enable user-managed access control, 3Box uses Ceramic’s 3ID DID method which allows users to control their identity, information, and services using all of their existing private wallet keys.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="3box">3box</h2>
+<p><a href="https://3box.io/">3box.io</a> • <a href="https://medium.com/3box">Blog</a> • <a href="https://github.com/3box">GitHub</a> • <a href="https://twitter.com/3boxdb">twitter</a> • <a href="https://discord.gg/Z3f3Cxy">discord</a></p>
+
+<ul>
+  <li>[IDX] <a href="https://medium.com/3box/idx-a-devkit-for-open-identity-48edc88e8e85">A Devkit for Open Identity</a> 2020-10-23 3box<br />
+<em>This is interesting, but they are taking on a huge amount of work without an <a href="https://en.wikipedia.org/wiki/Intellectual_property#Intellectual_property_rights">IPR</a> container/wrapper).</em>
+    <blockquote>
+      <p>Designed to be cross-platform and highly configurable, IDX is compatible with all blockchains, wallets, and a wide variety of user and application data storage options including Ceramic, Textile, OrbitDB, Filecoin, IPFS, and Secure Data Stores — so you can seamlessly integrate decentralized identity with the rest of your Web3 tech stack.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/3box/3box-messaging-plugins-get-more-social-354e2afe88cb">3Box messaging plugins get more social!</a> 2020-02-06 - Message Likes, Reactions, Replies, and Votes</li>
+  <li><a href="https://medium.com/3box/3box-hub-now-supports-ens-af4a8efbd36e">3Box Hub now supports ENS</a> 2020-01-07 - View ENS names inside Hub using ENS SDK and The Graph</li>
+  <li><a href="https://medium.com/3box/building-a-distributed-appstore-with-3box-ef7345aab34e">Building a Distributed AppStore with 3Box</a> 2019-12-27 - How to build an app with 3Box SDK and Plugins</li>
+  <li><a href="https://medium.com/3box/3box-edit-profile-plugin-8502509a4ff4">3Box Edit Profile Plugin</a> 2019-12-04 - Drop-in component for React applications</li>
+  <li><a href="https://medium.com/3box/introducing-3box-wall-7c299f4e0a1d">Introducing, 3Box Wall</a> 2019-11-07 - Ready, set, socialize…Decentralized comments on 3Box Profiles</li>
+  <li><a href="https://medium.com/3box/3box-hub-search-6ba9ec0e672">3Box Hub Search</a> 2019-10-23 - Discover users on 3Box with their ETH address</li>
+  <li><a href="https://medium.com/3box/introducing-3box-chatbox-plugin-698f4433b9a9">Introducing, 3Box Chatbox Plugin</a> 2019-10-18 - Drop-in chatrooms for your decentralized app</li>
+  <li><a href="https://medium.com/3box/how-foam-uses-3box-threads-to-create-a-location-based-review-system-15ca1024e73">How FOAM uses 3Box threads to create a location-based review system</a> 2019-09-17 3box
+    <blockquote>
+      <p>The FOAM protocol allows cartographers to add points of interest to the FOAM map by staking tokens, which you can easily purchase on Uniswap. These points of interest can represent anything from restaurants to businesses, public parks, and more. See more at: https://map.foam.space/.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/3box/3box-followers-your-open-social-graph-1f5e42c50afd">3Box Followers: Your Open Social Graph</a> 2019-09-12 3box - Discover and follow Ethereum users. Build trust together.</li>
+  <li><a href="https://medium.com/3box/smarter-authentication-on-3box-hub-dad11389de2">Smarter authentication on 3Box Hub</a> 2019-08-08 3box
+    <blockquote>
+      <p>Web3Connect is an open-source, drop-in web3 provider that abstracts away all of the complexity associated with supporting multiple web3 providers in your application. Although this library is fairly new, we’re excited to see the community moving in this direction.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/3box/3box-decentralized-comments-api-7e495d2ddd24">3Box Decentralized Comments API 💬</a> 2019-03-26 3box
+    <blockquote>
+      <p><a href="https://github.com/3box/3box-js#using-threads">Open Threads</a> allow any number of users to openly send and receive messages in sequence. Thread data is stored on the 3Box network with the users themselves instead of on your server or the blockchain.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/3box/introducing-3box-collectibles-gallery-4414f2a50551">Introducing, 3Box Collectibles Gallery</a> 2019-03-07 3box
+    <blockquote>
+      <p>Browse your entire collectibles gallery alongside the rest of your web3 profile and curate a few favorites for others to see.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/3box/3box-builders-series-how-to-integrate-with-profiles-34078af41c47">3Box Builders Series: How to Integrate with Profiles</a> 2019-03-03 3box
+    <blockquote>
+      <p>The Builders Series is a collection of blog posts aimed at helping developers easily build better distributed apps using the 3Box suite of APIs.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/3box/launching-3box-email-verification-service-fc729981ec32">Launching, 3Box Email Verification Service</a> 2019-03-02 3box
+    <blockquote>
+      <p>In addition to making onboarding more convenient and seamless, verified email addresses also respect user privacy. Emails are saved to a user’s private 3Box profile, giving the user full control of their contact information. Verified emails are only shared with applications that the user explicitly approves.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/3box/a-more-human-web3-activity-feed-2d3b8f62afec">A More Human Web3 Activity Feed</a> 2019-02-19 3box
+    <blockquote>
+      <p>The new and improved 3Box activity feed integrates a user’s activity from across various networks that make up web3 today, including public Ethereum networks and the 3Box data network, into a single coherent view.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/3box/shareable-public-profiles-94387c0d641e">Shareable Public Profiles</a> 2019-01-28
+    <blockquote>
+      <p>Now with the addition of shareable profiles, anyone can view your public profile by clicking your profile URL.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/3box/announcing-3box-partnership-with-ethstats-d9c65f582e50">Announcing, 3Box Partnership with Ethstats</a> 2019-01-24
+    <blockquote>
+      <p>We’re excited to announce that 3Box has partnered with Ethstats to deliver the first ethereum explorer with built-in social profiles functionality.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/3box/https-medium-com-3box-announcing-3box-js-1-1-0-api-boost-1339c8fa4cb8">Announcing 3Box.js 1.1.0 — API Boost</a> 2018-12-27 3Box
+    <blockquote>
+      <p>Together these features work to improve performance and stability by reducing the average log-in time for users, reducing API response times for getProfile, and allowing developers to be much more efficient in writing their public profile queries.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/3box/announcing-ethereum-profiles-1-0-0-is-live-f0316e15ce23">Announcing Ethereum Profiles 1.0.0 is Live</a> 2018-10-24 3box
+    <blockquote>
+      <p>Ethereum Profiles allows Ethereum users to collect and control their information on the distributed web using their existing Ethereum wallets.</p>
+    </blockquote>
+  </li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#3box" class="page__taxonomy-item p-category" rel="tag">3box</a><span class="sep">, </span>
+    
+      <a href="/tags/#ceramic" class="page__taxonomy-item p-category" rel="tag">Ceramic</a><span class="sep">, </span>
+    
+      <a href="/tags/#dao" class="page__taxonomy-item p-category" rel="tag">DAO</a><span class="sep">, </span>
+    
+      <a href="/tags/#dif" class="page__taxonomy-item p-category" rel="tag">DIF</a><span class="sep">, </span>
+    
+      <a href="/tags/#ens" class="page__taxonomy-item p-category" rel="tag">ENS</a><span class="sep">, </span>
+    
+      <a href="/tags/#ethereum" class="page__taxonomy-item p-category" rel="tag">Ethereum</a><span class="sep">, </span>
+    
+      <a href="/tags/#gitcoin" class="page__taxonomy-item p-category" rel="tag">Gitcoin</a><span class="sep">, </span>
+    
+      <a href="/tags/#ipid" class="page__taxonomy-item p-category" rel="tag">IPID</a><span class="sep">, </span>
+    
+      <a href="/tags/#ocap" class="page__taxonomy-item p-category" rel="tag">oCap</a><span class="sep">, </span>
+    
+      <a href="/tags/#revocation" class="page__taxonomy-item p-category" rel="tag">revocation</a><span class="sep">, </span>
+    
+      <a href="/tags/#uport" class="page__taxonomy-item p-category" rel="tag">uPort</a><span class="sep">, </span>
+    
+      <a href="/tags/#web3" class="page__taxonomy-item p-category" rel="tag">Web3</a><span class="sep">, </span>
+    
+      <a href="/tags/#web3connect" class="page__taxonomy-item p-category" rel="tag">Web3Connect</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#web-3" class="page__taxonomy-item p-category" rel="tag">Web 3</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-25">June 25, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Ceramic+-+3box%20https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fethereum%2F3box-ceramic%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fethereum%2F3box-ceramic%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fethereum%2F3box-ceramic%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fethereum%2F3box-ceramic%2F&title=Ceramic+-+3box" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/companies/karyl-fowler_transmute/" class="pagination--pager" title="Karyl Fowler and History of Transmute
+">Previous</a>
+    
+    
+      <a href="/companies/spherity/" class="pagination--pager" title="Spherity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://decentralized-id.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://decentralized-id.com/" rel="alternate" type="text/html" /><updated>2024-11-30T07:56:32+13:00</updated><id>https://decentralized-id.com/feed.xml</id><title type="html">Verifiable Credentials and Self Sovereign Identity Web Directory</title><subtitle>The largest, and longest-running, web directory surrounding decentralized identity and verifiable credentials.</subtitle><author><name>DIDecentral</name></author><entry><title type="html">Ecosystem Overview</title><link href="https://decentralized-id.com/ecosystem/" rel="alternate" type="text/html" title="Ecosystem Overview" /><published>2023-10-05T00:00:00+13:00</published><updated>2024-02-26T00:00:00+13:00</updated><id>https://decentralized-id.com/ecosystem</id><content type="html" xml:base="https://decentralized-id.com/ecosystem/">&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Note to reader&lt;/strong&gt;
+&lt;strong&gt;This is a Work in Progress, and should not be taken as authoritative or comprehensive.&lt;/strong&gt;
+&lt;em&gt;Internal Links in Italic&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;open-standards&quot;&gt;Open Standards&lt;/h2&gt;
+&lt;h3 id=&quot;decentralized-identifiers&quot;&gt;&lt;a href=&quot;/web-standards/w3c/decentralized-identifier/&quot;&gt;&lt;em&gt;Decentralized Identifiers&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/decentralized-identifier/#Explainer&quot;&gt;&lt;em&gt;Explainer&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/decentralized-identifier/#literature&quot;&gt;&lt;em&gt;Literature&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/decentralized-identifier/did-methods/&quot;&gt;&lt;em&gt;DID&lt;/em&gt; Methods&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/decentralized-identifier/#Supporting&quot;&gt;&lt;em&gt;Supporting&lt;/em&gt; Tech&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/projects/decentralized-identity-foundation/did-authentication/&quot;&gt;&lt;em&gt;DIDAuth&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/self-sovereign-identity/critique-caution/&quot;&gt;&lt;em&gt;Critique&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;verifiable-credentials&quot;&gt;Verifiable Credentials&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/verifiable-credentials/#About&quot;&gt;&lt;em&gt;Explainer&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/verifiable-credentials/#Comparisons&quot;&gt;&lt;em&gt;Comparisons&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Varieties
+    &lt;ul&gt;
+      &lt;li&gt;Data Integrity
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/verifiable-credentials/data-integrity_ld-proofs/&quot;&gt;&lt;em&gt;JSON&lt;/em&gt;-LD LD-Proof&lt;/a&gt; (w3c)&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/verifiable-credentials/data-integrity_ld-proofs/&quot;&gt;&lt;em&gt;JSON&lt;/em&gt;-LD ZKP BBS+&lt;/a&gt; (w3c)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/&quot;&gt;&lt;em&gt;JOSE / COSE&lt;/em&gt;&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://www.ietf.org/id/draft-terbu-sd-jwt-vc-02.html&quot;&gt;JSON SD-JWT&lt;/a&gt; (ietf)&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://www.ietf.org/archive/id/draft-jmiller-jose-json-web-proof-00.html&quot;&gt;JWP&lt;/a&gt; (ietf)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/&quot;&gt;&lt;em&gt;ZKP-CL&lt;/em&gt;&lt;/a&gt; (Hyperledger)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;related&quot;&gt;Related&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/json-ld/&quot;&gt;&lt;em&gt;JSON-LD&lt;/em&gt;&lt;/a&gt; (W3C)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://datatracker.ietf.org/doc/html/rfc8259&quot;&gt;JSON&lt;/a&gt; (IETF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/#blum-blum-shub&quot;&gt;&lt;em&gt;BBS&lt;/em&gt;&lt;/a&gt; (SIAM 1986)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;exchange-protocols&quot;&gt;Exchange Protocols&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/projects/decentralized-identity-foundation/did-communications/&quot;&gt;&lt;em&gt;DIDComm&lt;/em&gt;&lt;/a&gt; (DIF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/exchange-protocol/#CHAPI&quot;&gt;&lt;em&gt;CHAPI&lt;/em&gt;&lt;/a&gt; (DIF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/openid/openid-connect/#Verifiable Credentials&quot;&gt;&lt;em&gt;OIDC4VC&lt;/em&gt;&lt;/a&gt; (OpenID)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/mobile-drivers-license-mdl-iso-18013/&quot;&gt;&lt;em&gt;mDL&lt;/em&gt;&lt;/a&gt; (ISO/IEC)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/exchange-protocol/#WACI&quot;&gt;&lt;em&gt;WACI-Pex&lt;/em&gt;&lt;/a&gt; (DIF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/exchange-protocol/#VC%20Api&quot;&gt;&lt;em&gt;VC-HTTP-API&lt;/em&gt;&lt;/a&gt; (CCG)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;authorization-protocols&quot;&gt;Authorization Protocols&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://w3c-ccg.github.io/zcap-spec/&quot;&gt;zCap&lt;/a&gt; (w3c)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ucan-wg/spec/&quot;&gt;UCAN&lt;/a&gt; (Fission, Bluesky, Protocol Labs)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://datatracker.ietf.org/wg/gnap/about/&quot;&gt;GNAP&lt;/a&gt; (IETF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ietf.org/rfc/rfc6749.txt&quot;&gt;OAuth&lt;/a&gt; (IETF)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;iso-standards&quot;&gt;ISO Standards&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iso.org/standard/69084.html&quot;&gt;mDL&lt;/a&gt; (ISO/IEC 18013-5)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://standards.iteh.ai/catalog/tc/iso/58084a13-b883-4f4a-a372-7a5f9e4dca60/iso-iec-jtc-1-sc-17-wg-3&quot;&gt;JTC 1/SC 17/WG 3 - Travel Documents&lt;/a&gt; (ISO/IEC)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iso.org/standard/27001&quot;&gt;ISO 27001&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;data-stores&quot;&gt;Data Stores&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://identity.foundation/edv-spec/&quot;&gt;Encrypted Data Vaults&lt;/a&gt; - EDV (DIF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://identity.foundation/decentralized-web-node/spec/&quot;&gt;Decentralized Web Node&lt;/a&gt; - DWN (DIF)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;trust-frameworks&quot;&gt;Trust Frameworks&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pages.nist.gov/800-63-3/&quot;&gt;800-63-3&lt;/a&gt; (NIST)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/canada/pctf/&quot;&gt;&lt;em&gt;PCTF&lt;/em&gt;&lt;/a&gt; (DIACC)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;non-ssi-identity-standards&quot;&gt;Non SSI Identity Standards&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/organizations/openid/&quot;&gt;&lt;em&gt;OpenID&lt;/em&gt;&lt;/a&gt; (OpenID)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fidoalliance.org/&quot;&gt;FIDO&lt;/a&gt; (FIDO)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://datatracker.ietf.org/wg/oauth/about/&quot;&gt;OAuth&lt;/a&gt; (IETF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://datatracker.ietf.org/wg/scim/about/&quot;&gt;SCIM&lt;/a&gt; (IETF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html&quot;&gt;SAML&lt;/a&gt; (OASIS)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=kmip&quot;&gt;KMIP&lt;/a&gt; (OASIS)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/w3c/webauthn/&quot;&gt;&lt;em&gt;WebAuthN&lt;/em&gt;&lt;/a&gt; (W3C)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.oasis-open.org/esat/sqrap/v1.0/csd01/sqrap-v1.0-csd01.html&quot;&gt;Secure QR Code&lt;/a&gt; (OASIS)&lt;/li&gt;
+  &lt;li&gt;Blockchain Standards
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.iso.org/committee/6266604.html&quot;&gt;ISOTC 307&lt;/a&gt; (ISO)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://standards.cencenelec.eu/dyn/www/f?p=205:7:0::::FSP_ORG_ID:2702172&amp;amp;cs=148F2B917E4B67BCFD6FE36CE0EA923AC&quot;&gt;CEN/CLC/JTC 19&lt;/a&gt; (CEN/EENTLIC)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/blockchain/ethereum/#erc-eip&quot;&gt;&lt;em&gt;ERC-EIP&lt;/em&gt;&lt;/a&gt; (Ethereum)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;code-bases&quot;&gt;Code-Bases&lt;/h2&gt;
+
+&lt;h3 id=&quot;open-source-projects&quot;&gt;Open Source Projects&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/projects/decentralized-identity-foundation/identifiers-and-discovery/#universal-resolver&quot;&gt;&lt;em&gt;Universal Resolver&lt;/em&gt;&lt;/a&gt; (DIF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/projects/gleif/keri/&quot;&gt;KERI&lt;/a&gt; (DIF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/decentralized-identity&quot;&gt;Other Tools &amp;amp; Libraries&lt;/a&gt; (DIF)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://essif-lab.eu/&quot;&gt;ESSIF-Lab&lt;/a&gt; (ESSIF-Lab)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/projects/hyperledger/aries/&quot;&gt;&lt;em&gt;Aires&lt;/em&gt;&lt;/a&gt; (Hyperledger)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/projects/hyperledger/indy/&quot;&gt;&lt;em&gt;Indy&lt;/em&gt;&lt;/a&gt; (Hyperledger)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/projects/hyperledger/ursa/&quot;&gt;Ursa&lt;/a&gt; (Hyperledger)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.hyperledger.org/display/IWG&quot;&gt;Other Tools &amp;amp; Libraries&lt;/a&gt; (Hyperledger)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-standards/blockcerts/&quot;&gt;Blockcerts&lt;/a&gt; (Hyland)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;company-code&quot;&gt;Company Code&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/walt-id&quot;&gt;Walt.id&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/circlefin/verite&quot;&gt;Verite&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/spruceid&quot;&gt;SpruceID&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;organizations&quot;&gt;Organizations&lt;/h2&gt;
+
+&lt;h3 id=&quot;international-standard-development-organizations-sdo&quot;&gt;International Standard Development Organizations [SDO]&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/_posts/web-standards/2020-11-09-world-wide-web-consortium_w3c.md&quot;&gt;&lt;em&gt;W3C&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ietf.org&quot;&gt;IETF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oasis-open.org/&quot;&gt;OASIS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itu.int/en/ITU-T/Pages/default.aspx&quot;&gt;ITU-T&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iso.org/home.html&quot;&gt;ISO&lt;/a&gt;/&lt;a href=&quot;https://iec.ch/homepage&quot;&gt;IEC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;national-governmentstandard-setting-bodies&quot;&gt;National Government/Standard Setting Bodies&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nist.gov/&quot;&gt;NIST&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scc.ca/&quot;&gt;The Standards Council of Canada&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bsi.bund.de/EN/Home/home_node.html&quot;&gt;BSI&lt;/a&gt;  - The Federal Office for Information Security, Germany&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;community-organizations&quot;&gt;Community Organizations&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/_posts/web-standards/2023-05-15-credentials-community-group.md&quot;&gt;&lt;em&gt;W3C - CCG&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/_posts/organizations/2019-03-07-identity-foundation.md&quot;&gt;&lt;em&gt;DIF&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/_posts/organizations/2023-06-05-TOIP.md&quot;&gt;&lt;em&gt;ToIP&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adiassociation.org/&quot;&gt;ADIA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kantarainitiative.org/&quot;&gt;Kantara&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/organizations/mydata/&quot;&gt;&lt;em&gt;MyData&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/canada/diacc/&quot;&gt;&lt;em&gt;DIACC&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/organizations/id2020/&quot;&gt;&lt;em&gt;ID2020&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/organizations/openid/&quot;&gt;&lt;em&gt;OpenID Foundation&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://internetsafetylabs.org&quot;&gt;Internet Safety Labs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/organizations/gleif/&quot;&gt;&lt;em&gt;GLEIF&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/blockchain/hyperledger/&quot;&gt;&lt;em&gt;Hyperledger Foundation&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fidoalliance.org/&quot;&gt;FIDO Alliance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oasis-open.org/&quot;&gt;OASIS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ssi-networks&quot;&gt;SSI Networks&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dizme.io/&quot;&gt;DizmeID&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/organizations/sovrin-foundation/&quot;&gt;&lt;em&gt;Sovrin&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bedrock-consortium.github.io&quot;&gt;BedRock&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/blockchain/ontology/&quot;&gt;&lt;em&gt;ONT&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.velocitynetwork.foundation/&quot;&gt;Velocity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/companies/GlobalID/&quot;&gt;&lt;em&gt;GlobalID&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dock.io&quot;&gt;Dock&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dlt.mobi/itn/&quot;&gt;ITN&lt;/a&gt; , Mobi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;companies&quot;&gt;Companies&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/companies/microsoft/&quot;&gt;&lt;em&gt;Microsoft&lt;/em&gt;&lt;/a&gt;  - Azure / Entra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;eu-ssi-startups&quot;&gt;EU SSI Startups&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/companies/MyDEX/&quot;&gt;&lt;em&gt;MyDex&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/companies/meeco/&quot;&gt;&lt;em&gt;MeeCo&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;%link _posts/companies/2023-03-12-ValidatedID.md%&quot;&gt;&lt;em&gt;ValidatedID&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bloqzone.com/&quot;&gt;Bloqzone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.procivis.ch/en/home&quot;&gt;Procivis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gataca.io/&quot;&gt;Gataca&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;us-ssi-startups&quot;&gt;US SSI Startups&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dock.io/&quot;&gt;Dock&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anonyome.com/&quot;&gt;Anonoyome&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/companies/GlobalID/&quot;&gt;&lt;em&gt;GlobalID&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/companies/hyland-credentials-learning-machine/&quot;&gt;&lt;em&gt;Hyland&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/companies/MagicLabs/&quot;&gt;&lt;em&gt;Magic&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;%link _posts/companies/2023-03-03-IDramp.md%&quot;&gt;&lt;em&gt;IDRamp&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/companies/Indicio/&quot;&gt;&lt;em&gt;Indicio&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.verified.inc/&quot;&gt;&lt;em&gt;Verified Inc&lt;/em&gt;&lt;/a&gt; (formerly UNUMID)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://animo.id/&quot;&gt;&lt;em&gt;Animo&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/companies/mattr/&quot;&gt;&lt;em&gt;Mattr&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.liquidavatar.com/&quot;&gt;&lt;em&gt;Liquid Avatar&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hedera.com/&quot;&gt;&lt;em&gt;Hedera&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iota.org/solutions/digital-identity&quot;&gt;&lt;em&gt;IOTA&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/companies/trinsic/&quot;&gt;&lt;em&gt;Trinsic&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/companies/transmute/&quot;&gt;&lt;em&gt;Transmute&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;%link _posts/companies/2023-03-10-Spruce.md%&quot;&gt;&lt;em&gt;Spruce&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;%link _posts/companies/2023-05-14-disco.xyz.md%&quot;&gt;&lt;em&gt;Disco.xyz&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;asia-ssi-startups&quot;&gt;Asia SSI Startups&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.affinidi.com/&quot;&gt;Affinidi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zada.io/&quot;&gt;ZADA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dhiway.com/&quot;&gt;Dhiway&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ayanworks.com/&quot;&gt;Ayanworks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://newlogic.com/&quot;&gt;NewLogic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;africa-ssi-startups&quot;&gt;Africa SSI Startups&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flexfintx.com/&quot;&gt;FlexID&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.diwala.io/&quot;&gt;Diwala&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;acquisitions&quot;&gt;Acquisitions&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ledgerinsights.com/avast-acquires-second-blockchain-decentralized-identity-provider-securekey/&quot;&gt;Avast-Evernym-SecureKey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;analyst-firms&quot;&gt;Analyst Firms&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kuppingercole.com/&quot;&gt;KuppingerCole&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forrester.com/bold&quot;&gt;Forrester&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gartner.com/en&quot;&gt;Gartner&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;consulting-firms&quot;&gt;Consulting Firms&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.deloitte.com/&quot;&gt;Deloitte&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.accenture.com/&quot;&gt;Accenture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mckinsey.com/&quot;&gt;McKinsey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;BCG&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;iam-industry&quot;&gt;IAM Industry&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pingidentity.com/en.html&quot;&gt;Ping&lt;/a&gt; (TomaBravo rollup)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.okta.com/&quot;&gt;Okta&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/&quot;&gt;Auth0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://seekingalpha.com/article/4560880-forgerock-acquisition-thoma-bravo-continues-roll-up-in-identity-and-access-management-space&quot;&gt;ForgeRock&lt;/a&gt; (TomaBravo rollup)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.identos.com/&quot;&gt;IDENTOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sailpoint.com/&quot;&gt;SailPoint&lt;/a&gt; (TomaBravo rollup)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;policiesregulations-by-region&quot;&gt;Policies/Regulations (by region)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fatf-gafi.org/en/home.html&quot;&gt;FATF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;europe&quot;&gt;Europe&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/europe/eu/data-governance-act/&quot;&gt;&lt;em&gt;Data Governance Act&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/europe/regulation/gdpr/&quot;&gt;&lt;em&gt;GDPR&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/europe/eu/eidas/&quot;&gt;&lt;em&gt;eIDAS1&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/europe/eu/eidas/#eidas-20&quot;&gt;&lt;em&gt;eIDAS2&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/data-protection&quot;&gt;&lt;em&gt;UK Data Protection&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;asia&quot;&gt;&lt;a href=&quot;https://www.apacdigitalid.org/en/&quot;&gt;Asia&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;usa&quot;&gt;&lt;a href=&quot;(/government/india/)&quot;&gt;&lt;em&gt;USA&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa&quot;&gt;COPPA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hhs.gov/foia/privacy/index.html&quot;&gt;Privacy Act&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB786&quot;&gt;California SB786&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;india&quot;&gt;&lt;a href=&quot;/government/india/&quot;&gt;&lt;em&gt;India&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;canada&quot;&gt;&lt;a href=&quot;/government/canada/&quot;&gt;&lt;em&gt;Canada&lt;/em&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/pctf/&quot;&gt;&lt;em&gt;Pan Canadian Trust Framework (PCTF)&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;government-initiatives&quot;&gt;Government Initiatives&lt;/h2&gt;
+
+&lt;h3 id=&quot;us&quot;&gt;US&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/usa/dhs/&quot;&gt;&lt;em&gt;SVIP&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf&quot;&gt;National Cybersecurity Strategy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;germany&quot;&gt;Germany&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://idunion.org/?lang=en&quot;&gt;IDUnion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;uk&quot;&gt;UK&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.gov.scot/digital/wp-content/uploads/sites/5/2019/05/Digital-Identity-Scotland-Attribute-Standards-31-May-2019.pdf&quot;&gt;Scotland&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gov.uk/government/publications/uks-digital-strategy/uk-digital-strategy&quot;&gt;UK Digital Strategy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;eu&quot;&gt;EU&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;eIDAS2
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://utimaco.com/news/blog-posts/eidas-20-moving-closer-european-digital-identity-wallet-ediw-and-pilot&quot;&gt;Large Scale Pilots&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/government/europe/eu/eidas/#eu-digital-identity-framework&quot;&gt;&lt;em&gt;Architecutre&lt;/em&gt; and Reference Framework&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/europe/eu/ebsi-essif/&quot;&gt;&lt;em&gt;EBSI&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/history/2020s/early/essif-lab/&quot;&gt;&lt;em&gt;ESSIF&lt;/em&gt;-Lab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/europe/#catalonia&quot;&gt;&lt;em&gt;Catalonia&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Switzerland&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;apac&quot;&gt;APAC&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/new-zealand/&quot;&gt;&lt;em&gt;New Zealand&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/australia/&quot;&gt;&lt;em&gt;Australia&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.developer.tech.gov.sg/our-digital-journey/digital-government-exchange/files/DGX%20DIWG%202022%20Report%20v1.5.pdf&quot;&gt;Singapore&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/community/did-kr/&quot;&gt;South Korea&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;canada-1&quot;&gt;Canada&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/canada/bcgov/&quot;&gt;&lt;em&gt;BCGov&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/canada/#alberta&quot;&gt;&lt;em&gt;Alberta&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/government/canada/#ontario&quot;&gt;&lt;em&gt;Ontario&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;latam&quot;&gt;LatAm&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lacchain.net/&quot;&gt;LACCHAIN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;real-world-implementation&quot;&gt;Real-World Implementation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Government Issued ID&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Passport &lt;a href=&quot;https://www.icao.int/Meetings/TAG-MRTD/TagMrtd22/TAG-MRTD-22_WP24-rev-2.pdf&quot;&gt;eMRTD&lt;/a&gt;/&lt;a href=&quot;https://www.icao.int/Security/FAL/TRIP/PublishingImages/Pages/Publications/Guiding%20core%20principles%20for%20the%20development%20of%20a%20Digital%20Travel%20Credential%20%20%28DTC%29.PDF&quot;&gt;DTC&lt;/a&gt; (ICAO)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/aniltj/us-digital-immigration-credentials-overview&quot;&gt;Immigraion&lt;/a&gt; (USCIS)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.aamva.org/topics/mobile-driver-license#?wst=4a3b89462cc2cff2cbe0c7accde57421&quot;&gt;mDL&lt;/a&gt; (US AAMVA)  [not SSI standards conformant]&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.iata.org/en/services/travel-agency-program/idcard/&quot;&gt;IDCard&lt;/a&gt; (IATA / Switzerland)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Trust Registries &amp;amp; Directories&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.ngi.eu/blog/2022/07/28/verifying-identity-management-credentials-with-train/&quot;&gt;TRAIN&lt;/a&gt; (ToIP)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.sparkblue.org/Regi-TRUST&quot;&gt;Regi-Trust&lt;/a&gt; (UNDP)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.orgbook.gov.bc.ca/search&quot;&gt;OrgBook BC&lt;/a&gt; (BCGov)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/application/supply-chain/&quot;&gt;&lt;em&gt;SupplyChain/Trade&lt;/em&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/web-standards/gs1/&quot;&gt;&lt;em&gt;GS1&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/organizations/gleif/&quot;&gt;&lt;em&gt;GLEIF&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Banking&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://bonifii.com/&quot;&gt;Bonifi&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/application/covid-19/&quot;&gt;&lt;em&gt;COVID&lt;/em&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://covid19vaccine.health.ny.gov/excelsior-pass-update&quot;&gt;NYState&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://vci.org/&quot;&gt;VCI&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/application/covid-19/lfph_cci_good-health-pass/&quot;&gt;&lt;em&gt;CCI&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;DTCC&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://divoc.digit.org/&quot;&gt;DIVOC&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Enterprise&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/application/healthcare/&quot;&gt;&lt;em&gt;Healthcare&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/application/education/&quot;&gt;&lt;em&gt;Learning/Career/Education&lt;/em&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://jff.org&quot;&gt;Jobs for the Future&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.velocitynetwork.foundation/&quot;&gt;Velocity Network&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.learningeconomy.io/&quot;&gt;Learning Economy Foundation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://tln.asu.edu/&quot;&gt;TLN - Trusted Learner Network&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/application/kyc/&quot;&gt;KYC&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Real Estate&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://domilabs.io/&quot;&gt;Rental&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/application/travel/&quot;&gt;&lt;em&gt;Travel&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/application/humanitarian/&quot;&gt;&lt;em&gt;Humanitarian&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Energy&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/application/IOT/&quot;&gt;&lt;em&gt;IoT&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/application/guardianship/&quot;&gt;&lt;em&gt;Guardianship&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;//development/wallets/#ecosystem&quot;&gt;&lt;em&gt;Wallets&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;types-by-typetopic&quot;&gt;Types (by type+topic)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/resources/literature/&quot;&gt;&lt;em&gt;Research&lt;/em&gt; Papers/Academic Literature&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.turing.ac.uk/research/research-areas/privacy-trust&quot;&gt;Turing Institute Research: Privacy &amp;amp; Trust&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Events&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/workshops/internet-identity-workshop/&quot;&gt;&lt;em&gt;IIW&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/workshops/rebooting-web-of-trust/&quot;&gt;&lt;em&gt;RWoT&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/development/biometrics/&quot;&gt;&lt;em&gt;Biometrics&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/self-sovereign-identity/privacy/&quot;&gt;&lt;em&gt;Privacy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/development/ethics-rights-sovereignty/&quot;&gt;&lt;em&gt;Human&lt;/em&gt; Rights&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/development/user-experience/&quot;&gt;&lt;em&gt;User&lt;/em&gt; Experience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/development/business/&quot;&gt;&lt;em&gt;Business&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/self-sovereign-identity/critique-caution/&quot;&gt;&lt;em&gt;Critiques&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/application/future/&quot;&gt;&lt;em&gt;Future&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;web3-dweb--other-tech-by-focus&quot;&gt;Web3, DWeb, &amp;amp; Other Tech (by focus)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/web-3/&quot;&gt;&lt;em&gt;Web3&lt;/em&gt;&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/web-3/id/&quot;&gt;&lt;em&gt;Web3 and SSI&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/web-3/dao/&quot;&gt;&lt;em&gt;DAO&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/development/decentralization/&quot;&gt;&lt;em&gt;Decentralization&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/web-3/metaverse/&quot;&gt;&lt;em&gt;Metaverse&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/web-3/nft/&quot;&gt;&lt;em&gt;NFT&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/web-3/nft/#soulbound-tokens&quot;&gt;&lt;em&gt;SBT&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/web-3/defi/&quot;&gt;&lt;em&gt;DeFi&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Organizations&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/web-3/ethereum/baseline/&quot;&gt;&lt;em&gt;Ethereum&lt;/em&gt; Enterprise Alliance*&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.fissionlabs.com/&quot;&gt;Fission&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://protocol.ai/&quot;&gt;Protocol Labs&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;DWeb&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/decentralized-web/scuttlebot/&quot;&gt;&lt;em&gt;Secure&lt;/em&gt; Suttlebutt&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://bsky.app/&quot;&gt;Bluesky&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/projects/tbd/web5/&quot;&gt;&lt;em&gt;Web5&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/decentralized-web/handshake/&quot;&gt;&lt;em&gt;Handshake&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Blockchain Ecosystems
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;/blockchain/bitcoin/&quot;&gt;&lt;em&gt;Bitcoin&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;/blockchain/ethereum/&quot;&gt;&lt;em&gt;Ethereum&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>DIDecentral</name></author><category term="About" /><summary type="html">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.</summary></entry><entry><title type="html">Verifiable Credentials with JSON-LD and BBS+ Signatures</title><link href="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="alternate" type="text/html" title="Verifiable Credentials with JSON-LD and BBS+ Signatures" /><published>2023-09-29T00:00:00+13:00</published><updated>2023-09-29T00:00:00+13:00</updated><id>https://decentralized-id.com/web-standards/w3c/verifiable-credentials/VC-Data-Integrity_BBS+</id><content type="html" xml:base="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/">&lt;h2 id=&quot;main&quot;&gt;Main&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;[Working Draft] &lt;a href=&quot;https://www.w3.org/TR/vc-data-integrity/&quot;&gt;Verifiable Credential Data Integrity 1.0&lt;/a&gt; 2023-09-02 - Securing the Integrity of Verifiable Credential Data
+    &lt;blockquote&gt;
+      &lt;p&gt;This specification describes mechanisms for ensuring the authenticity and integrity of Verifiable Credentials and similar types of constrained digital documents using cryptography, especially through the use of digital signatures and related mathematical proofs. Cryptographic proofs enable functionality that is useful to implementors of distributed systems.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about&quot;&gt;About&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf&quot;&gt;Verifiable Credentials Flavors Explained&lt;/a&gt; 2021 CCI Kaliya ‘Identity Woman’ Young &lt;a href=&quot;https://www.slideshare.net/Kaliya/verifiable-credentials-explained-by-cci&quot;&gt;Presentation&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;This approach to VCs is innovative because it brings together different elements from several of the existing approaches to VCs. It is based on the usage of &lt;a href=&quot;https://github.com/mattrglobal/jsonld-signatures-bbs&quot;&gt;BBS+ JSON-LD Signatures&lt;/a&gt;, which is a subclass of &lt;a href=&quot;https://w3c-ccg.github.io/ld-proofs/&quot;&gt;LD Signatures&lt;/a&gt;, in combination with a JSON-LD credential schema. The cryptography behind this mechanism is BBS+ Signatures, which require what’s called a &lt;a href=&quot;https://tools.ietf.org/html/draft-irtf-cfrg-pairing-friendly-curves-03&quot;&gt;pairing-friendly&lt;/a&gt; curve. Existing implementations in the VC ecosystem use the elliptic curve &lt;a href=&quot;https://tools.ietf.org/html/draft-irtf-cfrg-pairing-friendly-curves-02#section-2.4&quot;&gt;BLS12–381&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/coinmonks/bbs-json-ld-and-interoperability-of-verifiable-credentials-8bd26b4d3261&quot;&gt;BBS+, JSON-LD and Interoperability of Verifiable Credentials&lt;/a&gt; 2021-06-20 Coinmonks
+    &lt;blockquote&gt;
+      &lt;p&gt;In order to request attributes from the credentials JSON-LD frames are used. The credentials and the proofs created by BBS+ signatures are self-describing and do not require a ledger(unlike CL signature based systems like Hyperledger Indy).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Working Draft] &lt;a href=&quot;https://www.w3.org/TR/vc-di-bbs/&quot;&gt;BBS Cryptosuite v2023 - Securing Verifiable Credentials with Selective Disclosure using BBS Signatures&lt;/a&gt; 2023-05-24 W3C
+    &lt;blockquote&gt;
+      &lt;p&gt;This specification defines a set of cryptographic suites for the purpose of creating, verifying and deriving proofs for BBS+ Signatures in conformance with the Data Integrity [VC-DATA-INTEGRITY] specification.&lt;/p&gt;
+
+      &lt;p&gt;In general the suites uses the RDF Dataset Normalization Algorithm [RDF-DATASET-NORMALIZATION] to transform an input document into its canonical form. It then uses the statement digest algorithm to digest each statement to be signed individually, finally the digested statements are signed using the defined signature algorithm.&lt;/p&gt;
+
+      &lt;p&gt;BBS+ signatures [CFRG-BBS-SIGNATURE] are compatible with any pairing friendly elliptic curve, however the cryptographic suites defined in this document elect to only allow the usage of the BLS12-381 for interoperability purposes.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Literature] &lt;a href=&quot;https://eprint.iacr.org/2023/275.pdf&quot;&gt;Revisiting BBS Signatures&lt;/a&gt; 2023, Stefano Tessaro and Chenzhi Zhu
+    &lt;blockquote&gt;
+      &lt;p&gt;BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’06), and is currently the object of a standardization effort which has led to a recent RFC draft. BBS+ signatures are suitable for use within anonymous credential and DAA systems, as their algebraic structure enables efficient proofs of knowledge of message-signature pairs that support partial disclosure.&lt;/p&gt;
+
+      &lt;p&gt;BBS+ signatures consist of one group element and two scalars. As our first contribution, we prove that a variant of BBS+ producing shorter signatures, consisting only of one group element and one scalar, is also secure. The resulting scheme is essentially the original BBS proposal, which was lacking a proof of security. Here we show it satisfies, under the q-SDH assumption, the same provable security guarantees as BBS+. We also provide a complementary tight analysis in the algebraic group model, which heuristically justifies instantiations with potentially shorter signatures.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[JWT; BBS+; Data Integrity] &lt;a href=&quot;https://ssr2022.com/slides/FormalisingLinkedDataBasedVerifiableCredentials.pdf&quot;&gt;Formalising Linked-Data based Verifiable Credentials for Selective Disclosure&lt;/a&gt; 2022 Dan Yamamoto, Yuji Suga, Kazue Sako IEEE
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/aoCMkpo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gataca.io/blog/ssi-essentials-which-selective-disclosure-protocol-will-succeed/&quot;&gt;SSI Essentials: Zero Knowledge Proof (ZKP) and Selective Disclosure, till death do us part?&lt;/a&gt; 2022-01-23 Gataca
+    &lt;blockquote&gt;
+      &lt;p&gt;Selective disclosure via BBS+ signatures […]&lt;/p&gt;
+
+      &lt;p&gt;Like monoclaim credentials allow users to share specific claims from a VC, BBS+ Signatures is a multi-message digital signature scheme (named after its creators Boneh, Boyen, and Shacham) that gives users the possibility of sharing VCs with only specific attributes revealed. How does it work?&lt;/p&gt;
+
+      &lt;p&gt;BBS+ signatures allow a VC holder to derive proofs from the original signature:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Deriving a proof: When a holder takes the signed VC and hides one, several, or none of the containing claims, creating a new signature (a derived proof) using the Issuer’s public key. This derived proof can prove that the holder knows all of the original claims contained in the VC but chooses only to reveal the required ones.&lt;/li&gt;
+        &lt;li&gt;Verifying a proof: The verifier validates the derived proof using the Issuer’s public key. This process enables the verifier to confirm the validity of the proof, proving that the subset of claims was part of an original message signed by the Issuer.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.evernym.com/blog/bbs-verifiable-credentials/&quot;&gt;Why the Verifiable Credentials Community Should Converge on BBS+&lt;/a&gt; 2021-03-24 Evernym
+    &lt;blockquote&gt;
+      &lt;p&gt;BBS+ LD-Proofs use JSON-LD schemas, so credentials that use them can have a rich, hierarchical set of attributes. Instead of the heavy-handed mechanism for the encoding and canonicalization of attributes values that we’d imagined for Rich Schemas, they use RDF canonicalization and a hash function. Rather than expanding the credential definition, they discarded it, taking advantage of some properties of BBS+ keys which allow for deterministic expansion.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;development&quot;&gt;Development&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;[Code] &lt;a href=&quot;https://www.npmjs.com/package/@mattrglobal/jsonld-signatures-bbs&quot;&gt;jsonld-signatures-bbs&lt;/a&gt; 2022-12-18 Mattr Global, NPMJS
+    &lt;blockquote&gt;
+      &lt;p&gt;The following repository contains a linked data proof implementation for creating BBS+ Signatures using BLS12-381 key pairs.&lt;/p&gt;
+
+      &lt;p&gt;Due to the properties of a BBS+ Signatures, zero knowledge proof can be derived from the signature, where-by the party generating the proof can elect to selectively disclose statements from the originally signed payload.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[GitHub] &lt;a href=&quot;https://github.com/mattrglobal/bbs-signatures&quot;&gt;bbs-signatures&lt;/a&gt; 2022-12-21 Mattr Global
+    &lt;blockquote&gt;
+      &lt;p&gt;BBS+ Signatures are a digital signature algorithm originally born from the work on Short group signatures by Boneh, Boyen, and Shachum which was later improved on in Constant-Size Dynamic k-TAA as BBS+ and touched on again in section 4.3 in Anonymous Attestation Using the Strong Diffie Hellman Assumption Revisited .&lt;/p&gt;
+
+      &lt;p&gt;BBS+ signatures require a pairing-friendly curve, this library includes support for BLS12-381.&lt;/p&gt;
+
+      &lt;p&gt;BBS+ Signatures allow for multi-message signing whilst producing a single output signature. With a BBS signature, a proof of knowledge based proof can be produced where only some of the originally signed messages are revealed at the discretion of the prover.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[GitHub] &lt;a href=&quot;https://github.com/mattrglobal/jsonld-signatures-bbs&quot;&gt;jsonld-signatures-bbs&lt;/a&gt; Mattr Global
+    &lt;blockquote&gt;
+      &lt;p&gt;The following repository contains a linked data proof implementation for creating BBS+ Signatures using BLS12-381 key pairs.&lt;/p&gt;
+
+      &lt;p&gt;Due to the properties of a BBS+ Signatures, zero knowledge proof can be derived from the signature, where-by the party generating the proof can elect to selectively disclose statements from the originally signed payload.&lt;/p&gt;
+
+      &lt;p&gt;This library is runnable in browser and Node.js through the WASM based crypto implementation provided by bbs-signatures. Note bbs-signatures also has an optional dependency on node-bbs-signatures which can be used when running in Node.JS environments to obtain better performance. For environments that do not feature WASM support such as react native, bbs-signatures includes an automatic roll back to an asm.js version but note however the performance difference between asm.js and WASM is significant, for those inclined there are runnable benchmarks in bbs-signatures.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[GitHub] &lt;a href=&quot;https://github.com/zkp-ld/jsonld-signatures-bbs&quot;&gt;jsonld-signatures-bbs&lt;/a&gt; 2023-02-23 ZKP-LD
+    &lt;blockquote&gt;
+      &lt;p&gt;Experimental: do not use in production&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Based on MATTR’s jsonld-signatures-bbs&lt;/li&gt;
+        &lt;li&gt;Supports termwise selective disclosure, proof of termwise equality, and credential aggregation&lt;/li&gt;
+        &lt;li&gt;dependencies upgraded&lt;/li&gt;
+        &lt;li&gt;WASM only; Neon is currently not supported&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[GitHub] &lt;a href=&quot;https://github.com/zkp-ld/bbs-signatures&quot;&gt;bbs-signatures&lt;/a&gt; ZKP-LD
+    &lt;blockquote&gt;
+      &lt;p&gt;Experimental: do not use in production&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Based on MATTR’s bbs-signatures&lt;/li&gt;
+        &lt;li&gt;Supports termwise selective disclosure, proof of termwise equality, and credential aggregation&lt;/li&gt;
+        &lt;li&gt;WASM only; Neon is currently not supported&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://damienbod.com/2021/12/13/implement-compound-proof-bbs-verifiable-credentials-using-asp-net-core-and-mattr/&quot;&gt;Implement Compound Proof BBS+ verifiable credentials using ASP.NET Core and MATTR&lt;/a&gt; 2021-12-13 damienbod
+    &lt;blockquote&gt;
+      &lt;p&gt;This article shows how Zero Knowledge Proofs BBS+ verifiable credentials can be used to verify credential subject data from two separate verifiable credentials implemented in ASP.NET Core and MATTR. The ZKP BBS+ verifiable credentials are issued and stored on a digital wallet using a Self-Issued Identity Provider (SIOP) and OpenID Connect. A compound proof presentation template is created to verify the user data in a single verify.&lt;/p&gt;
+
+      &lt;p&gt;Code: https://github.com/swiss-ssi-group/MattrAspNetCoreCompoundProofBBS&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;blum-blum-shub&quot;&gt;Blum Blum Shub&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://asecuritysite.com/encryption/blum&quot;&gt;Blum Blum Shub&lt;/a&gt; A Security Site
+    &lt;blockquote&gt;
+      &lt;p&gt;Blum Blum Shub (BBS) is used as a pseudo-random number generator (it is pseudo as it is not a truly random number, and where its randomisation depends on a random seed). It was created by Lenore Blum, Manuel Blum and Michael Shub in 1968. Blum Blum Shub uses the form of xn+1=x2n(modM), and where x0 is a random seed. The value of M is equal to pq, and where p and q are prime numbers. These values of p and q are both congruent to 3 mod 4 (p=q=3(mod4)). The security of the method involves the difficulty in factorizing M. It is slow, but is the strongest proven random number generator. For each step, we extract some of the information from xn+1, and which is typically the least significant bit. It would not be used within a cipher application, but could be used in key generation.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shub.ccny.cuny.edu/articles/1986-A_simple_unpredictable_pseudo-random_number_generator.pdf&quot;&gt;A SIMPLE UNPREDICTABLE PSEUDO-RANDOM NUMBER GENERATOR&lt;/a&gt; 1986 L. BLUM?, M. BLUM AND M. SHUB SIAM
+    &lt;blockquote&gt;
+      &lt;p&gt;What do we want from a pseudo-random sequence generator? Ideally, we would like a pseudo-random sequence generator to quickly produce, from short seeds, long sequences (of bits) that appear in every way to be generated by successive flips of a fair coin.&lt;/p&gt;
+
+      &lt;p&gt;Certainly, the idea of a (fast) deterministic mechanism producing such non-deterministic behavior seems contradictory: by observing its outcome over time, we could in principle eventually detect the determinism and simulate such a generator.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Python] &lt;a href=&quot;https://www.gkbrk.com/wiki/blum-blum-shub/&quot;&gt;Blum Blum Shub PRNG algorithm&lt;/a&gt; GKBRK
+    &lt;blockquote&gt;
+      &lt;p&gt;The algorithm is very short and simple. Starting from the seed, the next state can be computed by passing the current state through the following formula.&lt;/p&gt;
+
+      &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;f(x) = x2 mod M&lt;/code&gt;&lt;/p&gt;
+
+      &lt;p&gt;In this formula, M is the product of p and q, two large primes.&lt;/p&gt;
+
+      &lt;p&gt;The complexity in this algorithm is hidden in the parameters; the seed and the modulus M. In order to have a long cycle length and fulfill its security promises, Blum Blum Shub has a few constraints on its parameters.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In contrast, some more complex PRNG algorithms can work with pretty much any randomized seed.&lt;/p&gt;</content><author><name>DIDecentral</name></author><category term="Verifiable Credentials and Decentralized Identifiers" /><category term="W3C" /><category term="Verifiable Credentials" /><category term="JSON-LD" /><category term="Data Integrity" /><category term="BBS" /><summary type="html">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’06)</summary></entry><entry><title type="html">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)</title><link href="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="alternate" type="text/html" title="Verifiable Credentials with JOSE (JWT) / COSE (CBOR)" /><published>2023-09-08T00:00:00+13:00</published><updated>2023-09-09T00:00:00+13:00</updated><id>https://decentralized-id.com/web-standards/w3c/verifiable-credentials/VC_JOSE-COSE</id><content type="html" xml:base="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/">&lt;h2 id=&quot;main&quot;&gt;Main&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;[Working Draft] &lt;a href=&quot;https://www.w3.org/TR/vc-jose-cose/&quot;&gt;Securing Verifiable Credentials using JOSE and COSE&lt;/a&gt; 2023-09-08 Orie Steele, Michael Jones, Michael Prorock
+    &lt;blockquote&gt;
+      &lt;p&gt;This specification defines how to secure credentials and presentations conforming to the &lt;a href=&quot;https://www.w3.org/TR/vc-jose-cose/#bib-vc-data-model&quot;&gt;VC-DATA-MODEL&lt;/a&gt;, with JSON Object Signing and Encryption (JOSE), and CBOR Object Signing and Encryption (&lt;a href=&quot;https://datatracker.ietf.org/wg/jose/about/&quot;&gt;COSE&lt;/a&gt;) &lt;a href=&quot;https://www.w3.org/TR/vc-jose-cose/#bib-rfc9052&quot;&gt;RFC9052&lt;/a&gt;. This enables the Verifiable Credential data model [VC-DATA-MODEL] to be implemented with standards for signing and encryption that are widely adopted.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Editors Draft] &lt;a href=&quot;https://w3c.github.io/vc-data-model/&quot;&gt;Verifiable Credentials Data Model v2.0&lt;/a&gt; 2023-09-09
+    &lt;blockquote&gt;
+      &lt;p&gt;Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key holder), are an essential part of processing a verifiable credential. At the time of publication, Working Group members had implemented verifiable credentials using at least three proof mechanisms:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Securing Verifiable Credentials using JOSE and COSE [&lt;a href=&quot;https://w3c.github.io/vc-data-model/#bib-vc-jose-cose&quot;&gt;VC-JOSE-COSE&lt;/a&gt;].&lt;/li&gt;
+        &lt;li&gt;Securing Verifiable Credentials using Data Integrity Proofs [&lt;a href=&quot;https://w3c.github.io/vc-data-model/#bib-vc-jose-cose&quot;&gt;VC-DATA-INTEGRITY&lt;/a&gt;].&lt;/li&gt;
+        &lt;li&gt;Camenisch-Lysyanskaya Zero-Knowledge Proofs [&lt;a href=&quot;https://w3c.github.io/vc-data-model/#bib-cl-signatures&quot;&gt;CL-SIGNATURES&lt;/a&gt;].&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://identitywoman.net/misinformation-stops-here-w3c-vc-2-0-supports-json/&quot;&gt;Misinformation Stops Here: W3C VC 2.0 Supports JSON&lt;/a&gt; 2023-07-21 Kaliya Young
+    &lt;blockquote&gt;
+      &lt;p&gt;There is one “extra” field that JSON-LD requires/needs which is @context and if you didn’t want to use it and simply wanted to ignore it and just do JSON you could. The VC would be entirely compliant and thus both data expression formats could live in the same specification. JSON-LD credentials that did have an @context that were being read by tooling that just did JSON could still read the credentials – it did nothing to interfere. This seems like a pretty good “let’s figure out how to live with each other” solution.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;verifiable-credentials-with-json-web-token-jose&quot;&gt;Verifiable Credentials with JSON Web Token (JOSE)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ietf.org/archive/id/draft-jones-jose-fully-specified-algorithms-00.html&quot;&gt;Fully-Specified Algorithms for JOSE and COSE&lt;/a&gt; 2023-08-29 Mike Jones, Orie Steel; IETF
+    &lt;blockquote&gt;
+      &lt;p&gt;This specification refers to cryptographic algorithm identifiers that fully specify the cryptographic operations to be performed, including any curve, key derivation function (KDF), hash functions, etc., as being “fully specified”. Whereas, it refers to cryptographic algorithm identifiers that require additional information beyond the algorithm identifier to determine the cryptographic operations to be performed as being “polymorphic”. This specification creates fully-specified algorithm identifiers for all registered JOSE and COSE polymorphic algorithm identifiers, enabling applications to use only fully-specified algorithm identifiers.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ietf.org/id/draft-terbu-sd-jwt-vc-02.html&quot;&gt;SD-JWT-based Verifiable Credentials with JSON payloads (SD-JWT VC)&lt;/a&gt; 2023-05-26 IETF
+    &lt;blockquote&gt;
+      &lt;p&gt;This specification describes data formats as well as validation and processing rules to express Verifiable Credentials with JSON payload based on the SD-JWT format [&lt;a href=&quot;https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt-04&quot;&gt;I-D.ietf-oauth-selective-disclosure-jwt&lt;/a&gt;].&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://self-issued.info/?p=2316&quot;&gt;Native JWT Representation for Verifiable Credentials&lt;/a&gt; 2023-02-10 Mike Jones
+    &lt;blockquote&gt;
+      &lt;p&gt;For the first time, there is now a native JSON Web Token (JWT) representation for Verifiable Credentials. This representation uses IANA-registered JWT claims whenever applicable.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techcommunity.microsoft.com/t5/security-compliance-and-identity/decentralized-identity-verifiable-credentials-deep-dive/ba-p/3690641&quot;&gt;Verifiable Credentials Deep Dive&lt;/a&gt; 2022-12-09 Pamela Dingle, Microsoft
+    &lt;blockquote&gt;
+      &lt;p&gt;A JWT-VC has three parts, and the payload contains what I would call envelope information: the data needed to know who the credential is is bound to, who made the credential, when it was made and how it can be identified.  Additionally, there is a JSON object called “vc”. Claims information is embedded inside the vc object.  A JWT-VC uses an external proof, meaning in this case that signature data is not embedded inline with the credential, the signature is detached from the credential. 
+&lt;img src=&quot;https://i.imgur.com/ZBlDL7f.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf&quot;&gt;Verifiable Credentials Flavors Explained&lt;/a&gt; 2021 CCI Kaliya ‘Identity Woman’ Young
+    &lt;blockquote&gt;
+      &lt;p&gt;JWT takes a different approach to determining the meaning of claim terms in credentials. There is an &lt;a href=&quot;https://www.iana.org/assignments/jwt/jwt.xhtml&quot;&gt;IANA registry for JWT claims&lt;/a&gt; as a first place to look for JWT claim definitions. If the claim name isn’t in the IANA register, then the claim can be given a “give it a public name (i.e., a URI), [or] a local name (i.e., any string)”. The meaning of the terms is decided between the issuers and verifiers.&lt;/p&gt;
+
+      &lt;p&gt;In the VC Implementation Guidelines, there is a long list of the different characterizations of methods: JSON with JWT’s support vs JSON-LD with LD Signatures, &lt;a href=&quot;https://www.w3.org/TR/vc-imp-guide/#benefits-of-jwts&quot;&gt;Benefits of JWT&lt;/a&gt;, &lt;a href=&quot;https://www.w3.org/TR/vc-imp-guide/#benefits-of-json-ld-and-ld-proofs&quot;&gt;Benefits of JSON-LD and LD-Proofs&lt;/a&gt;.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/mattr-global/jwt-vs-linked-data-proofs-comparing-vc-assertion-formats-a2a4e6671d57&quot;&gt;JWT vs Linked Data Proofs: comparing Verifiable Credentials&lt;/a&gt; 2020-05-7 Nader Helmy, Mattr
+    &lt;blockquote&gt;
+      &lt;p&gt;JWTs have the benefit of already being widely used in today’s identity technologies, most notably in the framework used by OAuth 2.0 and OpenID Connect. Because of this, there are a number of existing software libraries and tools that developers can use immediately to begin building out their implementations. In addition, due to the fact that JWT-based credentials rely on a shared assertion format with existing identity technologies, it may be an easier mental model for newcomers to adopt when starting to experiment with VCs.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;vc-jwt-selective-disclosure&quot;&gt;VC-JWT Selective Disclosure&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;[Standards Track] &lt;a href=&quot;https://datatracker.ietf.org/doc/draft-ietf-oauth-sd-jwt-vc/&quot;&gt;SD-JWT-based Verifiable Credentials (SD-JWT VC)&lt;/a&gt; 2023-08-16 Oliver Terbu, Daniel Fett IETF
+    &lt;blockquote&gt;
+      &lt;p&gt;JSON Web Tokens (JWTs) [RFC7519] can in principle be used to express Verifiable Credentials in a way that is easy to understand and process as it builds upon established web primitives.&lt;/p&gt;
+
+      &lt;p&gt;Selective Disclosure JWT (SD-JWT) [I-D.ietf-oauth-selective-disclosure-jwt] is a specification that introduces conventions to support selective disclosure for JWTs: For an SD-JWT document, a Holder can decide which claims to release (within bounds defined by the Issuer).&lt;/p&gt;
+
+      &lt;p&gt;SD-JWT is a superset of JWT as it can also be used when there are no selectively disclosable claims and also supports JWS JSON serialization, which is useful for long term archiving and multi signatures. However, SD-JWT itself does not define the claims that must be used within the payload or their semantics.&lt;/p&gt;
+
+      &lt;p&gt;This specification therefore uses SD-JWT and the well-established JWT content rules and extensibility model as basis for representing Verifiable Credentials with JSON payload. Those Verifiable Credentials are called SD-JWT VCs.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://api-pilot.ebsi.eu/docs/specs/guidelines/selective-disclosure-sd-jwt&quot;&gt;Selective Disclosure with SD-JWT&lt;/a&gt; 2023
+    &lt;blockquote&gt;
+      &lt;p&gt;The purpose of this guideline is to document how to use SD-JWT with both versions V1.1 and V2.0 of the W3C Verifiable Credentials Data Model (VCDM). The document also covers application of these models in either JSON or JSON-LD format, and methods for protecting them using JWS signatures (compact or JSON serialised).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;vc-jwt-presentation&quot;&gt;VC-JWT Presentation&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://identity.foundation/jwt-vc-presentation-profile/&quot;&gt;JWT VC Presentation Profile&lt;/a&gt; 2023-08-07 DIF
+    &lt;blockquote&gt;
+      &lt;p&gt;The JWT VC Presentation Profile defines a set of requirements against existing specifications to enable the interoperable presentation of Verifiable Credentials (VCs) between Wallets and Verifiers.&lt;/p&gt;
+
+      &lt;p&gt;This document is not a specification, but a profile. It outlines existing specifications required for implementations to interoperate among each other. It also clarifies mandatory to implement features for the optionalities mentioned in the referenced specifications.&lt;/p&gt;
+
+      &lt;p&gt;The profile uses OpenID for Verifiable Presentations (OpenID4VP ID1) as the base protocol for the request and verification of W3C JWT VCs as W3C Verifiable Presentations (VC Data Model v1.1).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[MDL, JWT-VC, LD-Proofs] &lt;a href=&quot;https://openid.net/specs/openid-4-verifiable-presentations-1_0-14.html&quot;&gt;OpenID for Verifiable Presentations&lt;/a&gt; 2022-12-30 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;This specification defines mechanisms to&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;request presentation of Verifiable Credentials in arbitrary formats.&lt;/li&gt;
+        &lt;li&gt;provide a verifier with one or more Verifiable Presentations in a secure fashion.&lt;/li&gt;
+        &lt;li&gt;customize the protocol to the specific needs of a particular credential format. Examples are given for credential formats as specified in [VC_DATA], [ISO.18013-5] and [Hyperledger.Indy].&lt;/li&gt;
+        &lt;li&gt;combine the credential presentation with user authentication through [SIOPv2].&lt;/li&gt;
+        &lt;li&gt;combine the credential presentation with the issuance of OAuth access tokens.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/workday-engineering/lets-actually-share-our-verifiable-credentials-7ab1b4c73079&quot;&gt;Let’s (actually) Share Our Verifiable Credentials - Introducing the JWT VC Presentation Profile&lt;/a&gt; 2022-07-25 Jen Schreiber, Workday Technology
+    &lt;blockquote&gt;
+      &lt;p&gt;In order to tackle the problem of how we actually share credentials, Workday teamed up with Microsoft, Ping Identity, and MATTR to develop a &lt;a href=&quot;https://identity.foundation/jwt-vc-presentation-profile&quot;&gt;specification profile&lt;/a&gt; that outlines a list of standards and, once adopted by providers, would enable seamless verification of VCs. Development of the profile continues within the Decentralized Identity Foundation (DIF).&lt;/p&gt;
+
+      &lt;p&gt;In this blog post, we will give an overview of why specification profiles are required, what this profile involves, and what it means for the adoption of VCs.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;vc-jwt-development&quot;&gt;VC-JWT Development&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;[GitHub, NPM] &lt;a href=&quot;https://github.com/decentralized-identity/did-jwt-vc&quot;&gt;did-jwt-vc&lt;/a&gt; 2023-09-04 DIF
+    &lt;blockquote&gt;
+      &lt;p&gt;Create and verify W3C Verifiable Credentials and Presentations in JWT format&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Web Tool] &lt;a href=&quot;https://jwt.vc/&quot;&gt;Transmute JSON Web Tokens into Verifiable Credentials&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Encoded PASTE A TOKEN HERE&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Web Tool] &lt;a href=&quot;https://vcinteroptesting.azurewebsites.net/&quot;&gt;JWT VC Interop Profile&lt;/a&gt; Microsoft
+    &lt;blockquote&gt;
+      &lt;p&gt;Verifiable Credential Issuance and Verifier Sample&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Web Tool] &lt;a href=&quot;https://api-pilot.ebsi.eu/docs/tools/vc-validator&quot;&gt;VC validator&lt;/a&gt; EBSI
+    &lt;blockquote&gt;
+      &lt;p&gt;Validate a Verifiable Credential (VC) or a Verifiable Presentation (VP) using the &lt;a href=&quot;https://api-pilot.ebsi.eu/docs/libraries/verifiable-credential&quot;&gt;@cef-ebsi/verifiable-credential&lt;/a&gt; and &lt;a href=&quot;https://api-pilot.ebsi.eu/docs/libraries/verifiable-presentation&quot;&gt;@cef-ebsi/verifiable-presentation&lt;/a&gt; libraries.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Spec v3] &lt;a href=&quot;https://www.imsglobal.org/spec/ob/v3p0#jwt-proof&quot;&gt;Open Badges Specification - JSON Web Token Proof Format&lt;/a&gt; 2023-09-08 Open Badges, IMS Global
+    &lt;blockquote&gt;
+      &lt;p&gt;This proof format relies on the well established JWT (JSON Web Token) [RFC7519] and JWS (JSON Web Signature) [RFC7515] specifications. A JSON Web Token Proof is a JWT signed and encoded as a Compact JWS string. The proof format is described in detail in Section 6.3.1 “JSON Web Token” of Verifiable Credentials Data Model v1.1. That description allows several options which may inhibit interoperability. This specification limits the options while maintaining compatibility with [VC-DATA-MODEL] to help ensure interoperability.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[GitHub] &lt;a href=&quot;https://github.com/kushaldas/sd_jwt&quot;&gt;sd_jwt&lt;/a&gt; 2022-06-12 Kushaldas
+    &lt;blockquote&gt;
+      &lt;p&gt;This is an implementation of the SD-JWT draft, revision 2.&lt;br /&gt;
+Do not use it in production yet.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[GitHub] &lt;a href=&quot;https://github.com/uport-project/kotlin-did-jwt&quot;&gt;kotlin-did-jwt&lt;/a&gt; 2020-03-21 uPort Project
+    &lt;blockquote&gt;
+      &lt;p&gt;The kotlin-did-JWT library allows you to sign and verify JSON Web Tokens (JWT) using ES256K, and ES256K-R algorithms.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;json-web-proof&quot;&gt;JSON Web Proof&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;[tracker] &lt;a href=&quot;https://datatracker.ietf.org/doc/bofreq-miller-json-web-proofs/&quot;&gt;JSON Web Proofs / JSON Object Signing and Encryption (JOSE)&lt;/a&gt;2022-06-16 J. Miller, D. Waite, Ping Identity. M. Jones Microsoft. IETF
+    &lt;blockquote&gt;
+      &lt;p&gt;The JOSE RFCs and JWT, have been widely adopted for identity use cases, including for the widely-deployed OpenID Connect protocol and STIR. Concurrent to the growth of adoption of these standards has been an increasing societal focus on privacy. Common privacy themes in identity solutions that intersect with JWT are user consent and minimal disclosure.&lt;/p&gt;
+
+      &lt;p&gt;In recent years, newer solutions have been evolving such as Verifiable Credentials that formalize the entities of Issuer, Holder, and Verifier. A Verifiable Credential lifecycle has three accompanying phases: issuance, storage, and presentation. The JOSE and JWT standards have also been adopted by Verifiable Credentials (for the JWT-VC representation), but JWS and JWT have limitations that make privacy protection challenging.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackmd.io/@quartzjer/JSON_Web_Proof&quot;&gt;JSON Web Proof (JWP)&lt;/a&gt; 2021-06-29 QuartzJer
+    &lt;blockquote&gt;
+      &lt;p&gt;A JSON Web Proof (JWP) is very similar to a JWS, with the addition that it can contain multiple individual payloads instead of a singular one. New JWP-supporting algorithms are then able to separate and act on the individual payloads contained within.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://w3c-ccg.github.io/Merkle-Disclosure-2021/jwp/&quot;&gt;JSON Web Proof for Binary Merkle Trees&lt;/a&gt; 2021 O. Steele, Transmute. M. Prorock, mesur.io. Credentials Community Group
+    &lt;blockquote&gt;
+      &lt;p&gt;The purpose of this specification is to define a generic encoding of merkle audit paths that is suitable for combining with [RFC7515] to construct selective disclosure proofs, that are not bound to the needs of certificate transparency, and that are suitable for more generic applications such as W3C Verifiable Credentials and W3C Decentralized Identifiers.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;verifiable-credentials-with-concise-binary-object-representation-cose&quot;&gt;Verifiable Credentials with Concise Binary Object Representation (COSE)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[Unofficial Draft] &lt;a href=&quot;https://transmute-industries.github.io/vc-cose/&quot;&gt;Verifiable Credentials with CBOR Object Signatures&lt;/a&gt; 2023-01-18 Transmute
+    &lt;blockquote&gt;
+      &lt;p&gt;This specification introduces a (Content Type) Header Parameter that is used to define the content type for Verifiable Credentials that utilize CBOR Object Signing to provide signing and verification in a Verifiable Credential.&lt;/p&gt;
+
+      &lt;p&gt;This approach, of utilizing to a (Content Type) Header Parameter to specify a discrete set of mappings and expected behaviors in translation between formats or representations of data is used commonly in other groups to secure arbitrary content using COSE and other document and data encoding formats. This approach is extensible to other data encodings and may be extended to provide a mechanism for use of CBOR encodings for Verifiable Credentials.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cbor-explainer&quot;&gt;CBOR Explainer&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blockchaincommons.com/introduction/Why-CBOR/&quot;&gt;Why CBOR?&lt;/a&gt; 2022-12-07 Blockchain Commons
+    &lt;blockquote&gt;
+      &lt;p&gt;we have decided to use the IETF CBOR (Concise Binary Object Representation) standard in our specifications, including Gordian Envelope.&lt;/p&gt;
+
+      &lt;p&gt;We chose CBOR as our serialization format choice for several key reasons&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Working Group] &lt;a href=&quot;https://datatracker.ietf.org/wg/cbor/about/&quot;&gt;Concise Binary Object Representation Maintenance and Extensions (cbor)&lt;/a&gt; 2023-06-07
+    &lt;blockquote&gt;
+      &lt;p&gt;Concise Binary Object Representation (CBOR, RFC 7049) extends the JavaScript Object Notation (JSON, RFC 8259) data interchange format to include binary data and an extensibility model, using a binary representation format that is easy to parse correctly. It has been picked up by a number of IETF efforts (e.g., CORE, ANIMA GRASP) as a message format.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[W3C Editor’s Draft] &lt;a href=&quot;https://digitalbazaar.github.io/cbor-ld-spec/&quot;&gt;CBOR-LD 1.0 - A CBOR-based Serialization for Linked Data&lt;/a&gt; 2022-09-06 Digital Bazaar,
+    &lt;blockquote&gt;
+      &lt;p&gt;CBOR is a compact binary data serialization and messaging format. This specification defines CBOR-LD 1.0, a CBOR-based format to serialize Linked Data. The encoding is designed to leverage the existing JSON-LD ecosystem, which is deployed on hundreds of millions of systems today, to provide a compact serialization format for those seeking efficient encoding schemes for Linked Data. By utilizing semantic compression schemes, compression ratios in excess of 60% better than generalized compression schemes are possible. This format is primarily intended to be a way to use Linked Data in storage and bandwidth constrained programming environments, to build interoperable semantic wire-level protocols, and to efficiently store Linked Data in CBOR-based storage engines.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[RFC 9052] &lt;a href=&quot;https://www.rfc-editor.org/rfc/rfc9052&quot;&gt;CBOR Object Signing and Encryption (COSE): Structures and Process&lt;/a&gt; 2022-08
+    &lt;blockquote&gt;
+      &lt;p&gt;Concise Binary Object Representation (CBOR) is a data format designed for small code size and small message size. There is a need to be able to define basic security services for this data format. This document defines the CBOR Object Signing and Encryption (COSE) protocol. This specification describes how to create and process signatures, message authentication codes, and encryption using CBOR for serialization. This specification additionally describes how to represent cryptographic keys using CBOR.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[RFC 9053] &lt;a href=&quot;https://www.rfc-editor.org/rfc/rfc9053&quot;&gt;CBOR Object Signing and Encryption (COSE): Initial Algorithms&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Concise Binary Object Representation (CBOR) is a data format designed for small code size and small message size. There is a need to be able to define basic security services for this data format. This document defines a set of algorithms that can be used with the CBOR Object Signing and Encryption (COSE) protocol (RFC 9052).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learn.mattr.global/docs/vii-platform/compact-credentials/&quot;&gt;Compact Credentials&lt;/a&gt; Mattr
+    &lt;blockquote&gt;
+      &lt;p&gt;CBOR is a binary data format derived from JSON that allows it to utilizes data types like numbers, strings &amp;amp; arrays, however, due to being binary, it offers a much more compact message size. Often when CBOR is being discussed or documented, we can represent the data model using JSON to simplify the way the data can be viewed and modelled.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;vc-cbor-development&quot;&gt;VC-CBOR Development&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[“mDL”,”eID”] &lt;a href=&quot;https://walt.id/blog/p/mdl-eid-and-beyond&quot;&gt;The Developers’ Dilemma (why mdoc credentials)&lt;/a&gt; 2023-08-11 WaltID
+    &lt;blockquote&gt;
+      &lt;p&gt;Though, as it is with many new technologies. Before they can reach the masses, they share a common trait: building with them is challenging and time-consuming, which is based on the lack of developer tools making usage easy and implementation quick.&lt;/p&gt;
+
+      &lt;p&gt;Which is why we build the &lt;a href=&quot;https://github.com/walt-id/waltid-mdoc&quot;&gt;mdoc lib&lt;/a&gt;, as an addition to our open-source identity stack. Proving our commitment to deliver on the latest developments in the industry. Offering tools that let you build compliant solutions across identity ecosystems using different identity flavors with ease, whether that be on- or off-chain identity like Tokens/NFTs,  W3C Verifiable Credentials or now mdoc credentials. mdoc is a binary highly storage efficient credential format leveraging CBOR, standardized through ISO/IEC 18013-5:2021 mDL specification.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/@mattrglobal/vc-cwt-verifier&quot;&gt;@mattrglobal/vc-cwt-verifier&lt;/a&gt; NPMJS
+    &lt;ul&gt;
+      &lt;li&gt;Verify a credential&lt;/li&gt;
+      &lt;li&gt;Verify a credential with a list of trusted issuers&lt;/li&gt;
+      &lt;li&gt;Verify a credential skipping expiry and not before checks&lt;/li&gt;
+      &lt;li&gt;Provide custom cache for issuer resolution&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>DIDecentral</name></author><category term="Verifiable Credentials and Decentralized Identifiers" /><category term="W3C" /><category term="Verifiable Credentials" /><category term="JWT" /><category term="IANA" /><category term="JOSE" /><category term="COSE" /><summary type="html">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key holder), are an essential part of processing a verifiable credential.</summary></entry><entry><title type="html">Verifiable Credentials with JSON-LD and Linked Data Proofs</title><link href="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/data-integrity_ld-proofs/" rel="alternate" type="text/html" title="Verifiable Credentials with JSON-LD and Linked Data Proofs" /><published>2023-09-08T00:00:00+13:00</published><updated>2023-09-29T00:00:00+13:00</updated><id>https://decentralized-id.com/web-standards/w3c/verifiable-credentials/VC-Data-Integrity_LD-Proofs</id><content type="html" xml:base="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/data-integrity_ld-proofs/">&lt;h2 id=&quot;main&quot;&gt;Main&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;[Working Draft] &lt;a href=&quot;https://www.w3.org/TR/vc-data-integrity/&quot;&gt;Verifiable Credential Data Integrity 1.0&lt;/a&gt; 2023-09-02 - Securing the Integrity of Verifiable Credential Data
+    &lt;blockquote&gt;
+      &lt;p&gt;This specification describes mechanisms for ensuring the authenticity and integrity of Verifiable Credentials and similar types of constrained digital documents using cryptography, especially through the use of digital signatures and related mathematical proofs. Cryptographic proofs enable functionality that is useful to implementors of distributed systems.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Editors Draft] &lt;a href=&quot;https://w3c.github.io/vc-data-model/#securing-verifiable-credentials&quot;&gt;Verifiable Credentials Data Model v2.0&lt;/a&gt; 2023-09-09
+    &lt;blockquote&gt;
+      &lt;p&gt;This specification recognizes two classes of securing mechanisms: those that use external proofs and those that use embedded proofs. An external proof is one that wraps an expression of this data model, such as via a JSON Web Token, which is elaborated on in the Securing Verifiable Credentials using JOSE and COSE [VC-JOSE-COSE] specification. An embedded proof is a mechanism where the proof is included in the data model, such as a Data Integrity Proof, which is elaborated on in Verifiable Credential Data Integrity [&lt;a href=&quot;https://www.w3.org/TR/vc-data-integrity/&quot;&gt;VC-DATA-INTEGRITY&lt;/a&gt;].&lt;/p&gt;
+
+      &lt;p&gt;It should be noted that these two classes of securing mechanisms are not mutually exclusive.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Final Community Group Report] &lt;a href=&quot;https://w3c-ccg.github.io/lds-jws2020/&quot;&gt;JSON Web Signature 2020&lt;/a&gt; 2022-07-21
+    &lt;blockquote&gt;
+      &lt;p&gt;This specification describes a JSON Web Signature Suite created in 2020 for the Linked Data Proof specification. The Signature Suite utilizes Detached JWS signatures to provide support for a subset of the digital signature algorithms registered with IANA.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://learn.mattr.global/docs/concepts/verifiable-data&quot;&gt;Verifiable data&lt;/a&gt; 2020-12-12 Mattr
+    &lt;blockquote&gt;
+      &lt;p&gt;Verifiable credentials make use of JSON-LD to extend the data model to support dynamic data vocabularies and schemas. This allows us to not only use existing JSON-LD schemas, but to utilize the mechanism defined by JSON-LD to create and share new schemas as well. To a large extent this is what JSON-LD was designed for; the adoption and reuse of common data vocabularies.&lt;/p&gt;
+
+      &lt;p&gt;This type of verifiable credential is best characterised as a kind of Linked Data Proof. It allows issuers to make statements that can be shared without loss of trust because their authorship can be verified by a third party.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about&quot;&gt;About&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/linked-data-proofs-new-pathway-verifiable-credentials-gokul-alex&quot;&gt;Linked Data Proofs - A new pathway for verifiable credentials&lt;/a&gt; 2023-05-13 Gokul Alex
+    &lt;blockquote&gt;
+      &lt;p&gt;It is portable because it provides a standard vocabulary. JSON-LD configuration files are human readable unlike the JWT. Data schema emerge as important paradigms in this model. VCs based on Linked Data Proofs use Linked Data Signatures for security. They are more granular as they are attribute based rather than credential based.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://indicio.tech/five-things-you-need-to-know-about-json-ld-credentials-in-hyperledger-aries-cloudagent-python/&quot;&gt;Five Things You Need to Know About JSON-LD Credentials in Hyperledger Aries Cloudagent Python&lt;/a&gt; 2022-12-07 Tim Spring, Indicio
+    &lt;blockquote&gt;
+      &lt;p&gt;Starting with the name, JSON-LD stands for JavaScript Object Notation with Linked Data. JSON-LD is a method of encoding linked data using JSON. The term “JSON-LD Credential” alone is somewhat ambiguous but the way it is colloquially used, it means a W3C Verifiable Credential Data Model compliant credential signed using Linked Data Proofs. These are more precisely referred to as Linked Data Proof Verifiable Credentials (LDP-VCs).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://grotto-networking.com/blog/posts/jsonldProofs.html&quot;&gt;Verifying Verifiable Credentials&lt;/a&gt; 2022-11-11 Grotto Networking
+    &lt;blockquote&gt;
+      &lt;p&gt;A number of specifications and emerging specifications explain and specify how VCs can be “secured”. Here we will look at the “digital signing” of VCs and draw upon the following specifications:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Verifiable Credential Data Integrity 1.0 Securing the Integrity of Verifiable Credential Data Latest as of October 2022.&lt;/li&gt;
+        &lt;li&gt;JSON-LD Website&lt;/li&gt;
+        &lt;li&gt;JSON-LD 1.1 A JSON-based Serialization for Linked Data, W3C Recommendation 16 July 2020.&lt;/li&gt;
+        &lt;li&gt;EdDSA Cryptosuite v2020 Draft Community Group Report 31 October 2022&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[notes] &lt;a href=&quot;https://hackmd.io/@animo/HJn4Mioku&quot;&gt;Verifiable Credentials &amp;amp; Linked Data Proofs&lt;/a&gt; 2021-04-01
+    &lt;blockquote&gt;
+      &lt;p&gt;Linked Data Proofs provide a mechanism to for ensuring the authenticity and integrity of Linked Data documents using mathematical proofs.&lt;/p&gt;
+    &lt;/blockquote&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://hackmd.io/inzaVCAtSdWQxzmw8doNGg&quot;&gt;Notes on Linked Data Proofs&lt;/a&gt; 2021-01-24
+        &lt;blockquote&gt;
+          &lt;p&gt;Linked Data Proofs can be used to:&lt;/p&gt;
+          &lt;ul&gt;
+            &lt;li&gt;Make statements without the loss of trust (e.g. VCs or social media posts)&lt;/li&gt;
+            &lt;li&gt;Authenticate an entity is identified by a certain identifier (e.g. DIDs)&lt;/li&gt;
+            &lt;li&gt;Delegate authorization for actions to remote environments (e.g. ZCAP-LD)&lt;/li&gt;
+            &lt;li&gt;Agree to contracts (where agreement can be verified by other parties)&lt;/li&gt;
+            &lt;li&gt;Integrity protection (e.g. making document tamper-evident)&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/blockquote&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf&quot;&gt;Verifiable Credentials Flavors Explained&lt;/a&gt; 2021 CCI Kaliya ‘Identity Woman’ Young &lt;a href=&quot;https://www.slideshare.net/Kaliya/verifiable-credentials-explained-by-cci&quot;&gt;Presentation&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;In the VC Implementation Guidelines, there is a long list of the different characterizations of methods: JSON with JWT’s support vs JSON-LD with LD Signatures, &lt;a href=&quot;https://www.w3.org/TR/vc-imp-guide/#benefits-of-jwts&quot;&gt;Benefits of JWT&lt;/a&gt;, &lt;a href=&quot;https://www.w3.org/TR/vc-imp-guide/#benefits-of-json-ld-and-ld-proofs&quot;&gt;Benefits of JSON-LD and LD-Proofs&lt;/a&gt;.&lt;/p&gt;
+
+      &lt;p&gt;To summarize the most salient points:&lt;/p&gt;
+
+      &lt;p&gt;JSON is an older standard, officially recognized as a standard in 2013. JSON-LD 1.0 was formally standardized in 2014. The version and standard was updated to JSON-LD 1.1 and ratified in 2020.&lt;/p&gt;
+
+      &lt;p&gt;That being said, one can use JSON libraries to process JSON-LD objects/documents, and conversely, &lt;a href=&quot;https://www.w3.org/TR/json-ld11/#interpreting-json-as-json-ld&quot;&gt;interpret JSON documents as JSON-LD&lt;/a&gt; by providing a context.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/mattr-global/jwt-vs-linked-data-proofs-comparing-vc-assertion-formats-a2a4e6671d57&quot;&gt;JWT vs Linked Data Proofs: comparing Verifiable Credentials&lt;/a&gt; 2020-05-7 Nader Helmy, Mattr
+    &lt;blockquote&gt;
+      &lt;p&gt;Linked Data Signatures provide a simple security protocol which is native to JSON-LD. They are built to compactly represent proof chains and allow a VC to be easily protected on a more granular basis; per-attribute, instead of per-credential. These features support a much more robust security model which has broader implications downstream from VCs, especially in terms of size and efficiency.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;development&quot;&gt;Development&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[MDL, JWT-VC, LD-Proofs] &lt;a href=&quot;https://openid.net/specs/openid-4-verifiable-presentations-1_0-ID2.html#name-ldp-vcs&quot;&gt;OpenID for Verifiable Presentations&lt;/a&gt; 2022-12-30 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;This specification defines mechanisms to&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;request presentation of Verifiable Credentials in arbitrary formats.&lt;/li&gt;
+        &lt;li&gt;provide a verifier with one or more Verifiable Presentations in a secure fashion.&lt;/li&gt;
+        &lt;li&gt;customize the protocol to the specific needs of a particular credential format. Examples are given for credential formats as specified in [VC_DATA], [ISO.18013-5] and [Hyperledger.Indy].&lt;/li&gt;
+        &lt;li&gt;combine the credential presentation with user authentication through [SIOPv2].&lt;/li&gt;
+        &lt;li&gt;combine the credential presentation with the issuance of OAuth access tokens.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>DIDecentral</name></author><category term="Verifiable Credentials and Decentralized Identifiers" /><category term="W3C" /><category term="Verifiable Credentials" /><category term="JSON-LD" /><category term="Data Integrity" /><summary type="html">Starting with the name, JSON-LD stands for JavaScript Object Notation with Linked Data. JSON-LD is a method of encoding linked data using JSON. The term “JSON-LD Credential” alone is somewhat ambiguous but the way it is colloquially used, it means a W3C Verifiable Credential Data Model compliant credential signed using Linked Data Proofs. These are more precisely referred to as ~~Linked Data Proof~~ [Data Integrity Proofs] Verifiable Credentials (LDP-VCs).</summary></entry><entry><title type="html">Verifiable Credentials (ZKP-CL) Anoncreds</title><link href="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="alternate" type="text/html" title="Verifiable Credentials (ZKP-CL) Anoncreds" /><published>2023-09-08T00:00:00+13:00</published><updated>2023-09-29T00:00:00+13:00</updated><id>https://decentralized-id.com/web-standards/w3c/verifiable-credentials/VC-ZKP-CL</id><content type="html" xml:base="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/">&lt;h2 id=&quot;main&quot;&gt;Main&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.hyperledger.org/use/anoncreds&quot;&gt;Website&lt;/a&gt; - &lt;a href=&quot;https://github.com/hyperledger/anoncreds-spec&quot;&gt;Specification&lt;/a&gt; - &lt;a href=&quot;https://github.com/hyperledger/anoncreds-spec-v2&quot;&gt;Specification V2&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hyperledger AnonCreds – short for “Anonymous Credentials”- is the most commonly used Verifiable Credential (VC) format in the world. Ledger agnostic and with a formal open specification, AnonCreds is a VC format that adds important privacy-protecting ZKP (zero-knowledge proof) capabilities to the core VC assurances.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ledgerinsights.com/hyperledger-digital-identity-anoncreds-verifiable-credentials-privacy/&quot;&gt;Hyperledger launches new digital identity project, AnonCreds&lt;/a&gt; 2022-11-15
+    &lt;blockquote&gt;
+      &lt;p&gt;The technology itself is not new, as it was originally part of Hyperledger Indy, the digital identity ledger project. However, it has now been separated from Indy so that it can be used for verifiable credentials on ledgers such as Hyperledger Fabric or Ethereum-based Hyperledger Besu, or others.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf&quot;&gt;Verifiable Credentials Flavors Explained&lt;/a&gt; 2021 CCI Kaliya ‘Identity Woman’ Young
+    &lt;blockquote&gt;
+      &lt;p&gt;ZKP-CL: This credential format was created specifically to leverage the &lt;a href=&quot;https://link.springer.com/chapter/10.1007/3-540-36413-7_20&quot;&gt;CL Signatures&lt;/a&gt;. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authoritative registry. JSON-LD Signatures use an @context field to reference existing RDF mapping to known dictionaries and assumes an open world model where new terms and definitions can easily be introduced&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Literature] &lt;a href=&quot;https://cs.brown.edu/people/alysyans/papers/camlys02b.pdf&quot;&gt;A Signature Scheme with Efficient Protocols&lt;/a&gt; 2001 Jan Camenisch IBM Zurich, Anna Lysyanskaya Brown
+    &lt;blockquote&gt;
+      &lt;p&gt;Digital signature schemes are a fundamental cryptographic primitive, of use both in its own right, and as a building block in cryptographic protocol design. In this paper, we propose a practical and provably secure signature scheme and show protocols (1) for issuing a signature on a committed value (so the signer has no information about the signed value), and (2) for proving knowledge of a signature on a committed value. This signature scheme and corresponding protocols are a building block for the design of anonymity-enhancing cryptographic systems, such as electronic cash, group signatures, and anonymous credential systems. The security of our signature scheme and protocols relies on the Strong RSA assumption. These results are a generalization of the anonymous credential system of Camenisch and Lysyanskaya&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;working-group&quot;&gt;Working Group&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.hyperledger.org/display/ANONCREDS/AnonCreds+Specification+Working+Group&quot;&gt;AnonCreds Specification Working Group&lt;/a&gt; 2022-11-02
+    &lt;blockquote&gt;
+      &lt;p&gt;The AnonCreds Specification Working Group operates under the Community Specification License v1.0 to create the AnonCreds Specification. Current work is focused on Version 1.0 of the specification that covers the current CL-Signatures-based implementation of AnonCreds agnostic to the underlying ledger.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;[Video] &lt;a href=&quot;https://www.youtube.com/watch?v=sUcstipdEm8&quot;&gt;Hyperledger AnonCreds Specification Working Group&lt;/a&gt; 2023-06-19 Hyperledger Foundation
+    &lt;blockquote&gt;
+      &lt;p&gt;The big thing I want to talk about was a couple of things on revocation approaches and and go over possibilities. There, there’s a few things happening that I wanted to share. […] as I mentioned in our credits announcements, the 0.1.0 rust implementation was officially released&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;development&quot;&gt;Development&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1RrJky42dvg&quot;&gt;Hyperledger AnonCreds Workshop: Using ZKP Verifiable Credentials Everywhere&lt;/a&gt; 2023-05-31 Hyperledger Foundation
+    &lt;blockquote&gt;
+      &lt;p&gt;AnonCreds was accepted as an Incubated project at Hyperledger in late 2022. This is the first workshop developed by this community and it is intended for anyone interested in using Zero Knowledge Proofs (ZKPs) in a wide variety of contexts.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hyperledger/anoncreds-rs&quot;&gt;anoncreds-rs&lt;/a&gt; 2023-06-02 Hyperledger
+    &lt;blockquote&gt;
+      &lt;p&gt;Rust library and reference implementation of the &lt;a href=&quot;https://hyperledger.github.io/anoncreds-spec/&quot;&gt;Anoncreds V1.0&lt;/a&gt; specification.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackmd.io/S6e2MeSWTICnV9lD9OukKg&quot;&gt;Wrapping Indy Credentials (AnonCreds) in W3C VCs&lt;/a&gt; 2021-04-12 Finema
+    &lt;blockquote&gt;
+      &lt;p&gt;AnonCreds are typically bound to a holder by using a link secret and not by issuing a credential to a public DID. In order to add such a credential (or a subset of attributes) to the public profile, we suggest the following mechanism which expresses the intent: I self-attest that I have this credential with the specific attribute values, if you require a proof you can ask me using the Aries present proof protocol.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/finema/anonymous-credential-part-2-selective-disclosure-and-cl-signature-b904a93a1565&quot;&gt;Anonymous Credential Part 2: Selective Disclosure and CL Signature&lt;/a&gt; 2021-02-04 Finema
+    &lt;blockquote&gt;
+      &lt;p&gt;selective disclosure and an anonymous credential (Anoncred) relies on an efficient signature scheme that supports multiple messages with a single signature. One such signature scheme is known as CL signature that is named after its Jan Camenisch and Anna Lysyanskaya […] CL signature popularized Anoncreds, and it also served as a cryptographic building block in Identity Mixer (Idemix) and Hyperledger Indy projects.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/finema/anonymous-credential-part-1-brief-overview-and-history-c6679034c914&quot;&gt;Anonymous Credential Part 1: Brief Overview and History&lt;/a&gt; 2020-10-01
+    &lt;blockquote&gt;
+      &lt;p&gt;An anonymous credential (Anoncred), which is also known as an attribute-based credential (ABC), is a concept for a digital credential that provides a credential holder maximal privacy and an ability to selectively disclose their personal information.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.goodaudience.com/cl-signatures-for-anonymous-credentials-93980f720d99&quot;&gt;CL Signatures for Anonymous Credentials&lt;/a&gt; 2019-01-14 Will Abramson
+    &lt;blockquote&gt;
+      &lt;p&gt;A CL Signature is a signature scheme developed by Jan Camenisch and Anna Lysyanskaya. This scheme has some properties that make it ideal for use in an anonymous credential system and is, in fact, the scheme that Sovrin, and I am sure others, currently use. In this post, I will try to synthesise my current understanding of this scheme, including a look at how Sovrin uses it in practice.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/AttributeBasedCredentials_and_VariableLengthDataGraphs.md&quot;&gt;Attribute Based Credentials and Variable Length Data Graphs&lt;/a&gt; 2018-02-28
+    &lt;blockquote&gt;
+      &lt;p&gt;In an effort to allow JSON-LD data structures to leverage attribute based credentials and zero knowledge signature schemes, this paper outlines differences, requirements and possible options for representing JSON-LD data in attribute based credential schemes such as the one in use by the Sovrin network, implemented in the Hyperledger Indy project.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;critique&quot;&gt;Critique&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://identitywoman.net/being-real-about-hyperledger-indy-aries-anoncreds/&quot;&gt;Being “Real” about Hyperledger Indy &amp;amp; Aries / Anoncreds&lt;/a&gt; 2022-09-10 IdentityWoman
+    &lt;blockquote&gt;
+      &lt;p&gt;This article surfaces a synthesis of challenges / concerns about Hyperledger Indy &amp;amp; Aries / Anoncreds, the most marketed Self-Sovereign Identity technical stack. It is aimed to provide both business and technical decision makers a better understanding of the real technical issues and related business risks of Hyperledger Indy &amp;amp; Aries / Anoncreds, which have not been shared and discussed openly or publicly as the author believes need to be.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;response&quot;&gt;Response&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ledgerinsights.com/hyperledger-digital-identity-anoncreds-verifiable-credentials-privacy/&quot;&gt;Hyperledger launches new digital identity project, AnonCreds&lt;/a&gt; 2022-11-15
+    &lt;blockquote&gt;
+      &lt;p&gt;The technology itself is not new, as it was originally part of Hyperledger Indy, the digital identity ledger project. However, it has now been separated from Indy so that it can be used for verifiable credentials on ledgers such as Hyperledger Fabric or Ethereum-based Hyperledger Besu, or others.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kyledenhartog.com/response-to-anoncreds-criticism/&quot;&gt;A response to Identity Woman’s recent blog post about Anoncreds&lt;/a&gt; 2022-09-08 Kyle Den Hartog
+    &lt;blockquote&gt;
+      &lt;p&gt;It’s only when I started to take a step back that I realized that the architecture of Indy being a private, permissioned ledger leaves it heading in the same direction as many large corporations now extinct browser and intranet projects for many of the same reasons.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trinsic.id/moving-toward-identity-technology-ready-for-mass-adoption/&quot;&gt;Moving Toward Identity Technology Ready for Mass Adoption&lt;/a&gt; 2022-09-09 Trinsic
+    &lt;blockquote&gt;
+      &lt;p&gt;when we realized our customers were facing critical limitations caused by the underlying tech stack, we began developing an updated version of our platform that would reduce our dependency on these technologies and enable a better platform for our customers.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://daniel-hardman.medium.com/response-to-kaliyas-being-real-post-13fddb9410f0&quot;&gt;Response to Kaliya’s “Being Real” Post&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Link Secrets and Privacy-Trust Paper&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Significant section of critique discusses link secrets&lt;/li&gt;
+  &lt;li&gt;Repeats old claim they are insecure&lt;/li&gt;
+  &lt;li&gt;Cites 2019 paper by Arnold and Longley for support&lt;/li&gt;
+  &lt;li&gt;Assertion made that the paper has inaccuracies and misrepresentations&lt;/li&gt;
+  &lt;li&gt;Rebuttal sent to W3C CCG with supporting documentation&lt;/li&gt;
+  &lt;li&gt;Encourages reading both sources before deciding on credential security&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Misunderstanding About Credential Formats (AnonCreds vs. VC Spec)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Differences in how “credential” is defined between AnonCreds and VC spec&lt;/li&gt;
+  &lt;li&gt;AnonCreds’ internal “credentials” are not designed for sharing or verification&lt;/li&gt;
+  &lt;li&gt;Verifiable AnonCreds “proofs” should be evaluated as verifiable credentials&lt;/li&gt;
+  &lt;li&gt;Interoperability work focuses on proofs, not credential formats per se&lt;/li&gt;
+  &lt;li&gt;Mapping between AnonCreds proofs and VC data model already exists&lt;/li&gt;
+  &lt;li&gt;Lack of willingness to alter UX and messaging may hinder interoperability&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;prior-work&quot;&gt;Prior Work&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forum.sovrin.org/t/how-idemex-is-implemented-in-sovrin-indy/&quot;&gt;How is IDEMix Implemented?&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;Identity Mixer is not directly (re)implemented by Sovrin, but its cryptographic foundations are very similar, and Sovrin’s implementation includes most of its extended features (predicates, multi-credential, revocation, advanced issuance…). One of the researchers who helped to create Identity Mixer is on Sovrin’s Technical Governance Board and has offered insight to keep the implementations aligned on goals and methods.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://idemix.wordpress.com/&quot;&gt;IDEMIX Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://abc4trust.eu/&quot;&gt;ABC4Trust—Attribute-based Credentials for Trust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/p2abcengine/p2abcengine/wiki/Concepts-and-features&quot;&gt;Concepts and Features of Privacy-Preserving Attribute-Based Credentials&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dl.ifip.org/db/conf/idman/idman2013/CamenischDLNPP13.pdf&quot;&gt;Concepts and Languages for Privacy-Preserving Attribute-Based Authentication&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>DIDecentral</name></author><category term="Verifiable Credentials and Decentralized Identifiers" /><category term="W3C" /><category term="Verifiable Credentials" /><category term="Hyperledger Foundation" /><category term="IBM" /><category term="IDEMIX" /><category term="Anoncreds" /><category term="Sovrin Foundation" /><category term="Evernym" /><category term="ZKP-CL" /><summary type="html">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authoritative registry. JSON-LD Signatures use an @context field to reference existing RDF mapping to known dictionaries and assumes an open world model where new terms and definitions can easily be introduced</summary></entry><entry><title type="html">Verifiable Credentials - Working Groups, Standards and Development</title><link href="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/standards-and-development/" rel="alternate" type="text/html" title="Verifiable Credentials - Working Groups, Standards and Development" /><published>2023-08-29T00:00:00+13:00</published><updated>2023-08-29T00:00:00+13:00</updated><id>https://decentralized-id.com/web-standards/w3c/verifiable-credentials/VCs-Standards-and-Development</id><content type="html" xml:base="https://decentralized-id.com/web-standards/w3c/verifiable-credentials/standards-and-development/"></content><author><name>DIDecentral</name></author><category term="Verifiable Credentials and Decentralized Identifiers" /><category term="W3C" /><category term="Verifiable Credentials" /><category term="Credentials Community Group" /><category term="VC-WG" /><category term="JSON-LD" /><category term="OAuth" /><category term="FIDO" /><category term="Claims and Credentials WG" /><summary type="html">Verifiable credentials (VCs) are the electronic equivalent of the physical credentials that we all possess today, such as: plastic cards, passports, driving licenses, qualifications and awards, etc. The data model for verifiable credentials is a World Wide Web Consortium Recommendation, &quot;Verifiable Credentials Data Model 1.0 - Expressing verifiable information on the Web&quot; published 19 November 2019.</summary></entry><entry><title type="html">DID Methods - Various</title><link href="https://decentralized-id.com/web-standards/w3c/decentralized-identifier/did-methods/" rel="alternate" type="text/html" title="DID Methods - Various" /><published>2023-08-18T00:00:00+13:00</published><updated>2023-08-18T00:00:00+13:00</updated><id>https://decentralized-id.com/web-standards/w3c/decentralized-identifier/DID-Methods</id><content type="html" xml:base="https://decentralized-id.com/web-standards/w3c/decentralized-identifier/did-methods/"></content><author><name>DIDecentral</name></author><category term="Verifiable Credentials and Decentralized Identifiers" /><category term="51nodes" /><category term="ABT Network" /><category term="Aergo" /><category term="Alastria" /><category term="ArcBlock" /><category term="Ardor" /><category term="Baidu" /><category term="BCGov" /><category term="Besu" /><category term="BIF" /><category term="BiiLabs" /><category term="Binance" /><category term="Bitcoin" /><category term="BlockchainCommons" /><category term="Blockcore" /><category term="Blocko" /><category term="Blockstack" /><category term="BOTLabs" /><category term="bryk" /><category term="BSC" /><category term="Teleinfo CAICT" /><category term="Celo" /><category term="Ceramic Network" /><category term="Chainyard" /><category term="Cloudchain" /><category term="Commercio" /><category term="Consensys" /><category term="Consent" /><category term="Corda" /><category term="Cosmos" /><category term="Credentials Community Group" /><category term="cryptonics" /><category term="DID:AERGO" /><category term="DID:ALA" /><category term="DID:AVVCYBER" /><category term="DID:BBA" /><category term="DID:BID" /><category term="DID:BNB" /><category term="DID:BRYK" /><category term="DID:BTCR" /><category term="DID:CCP" /><category term="DID:CELO" /><category term="DID:COM" /><category term="DID:CORDA" /><category term="DID:DID" /><category term="DID:DOCK" /><category term="DID:DOGE" /><category term="DID:ECHO" /><category term="DID:ELASTOS" /><category term="DID:ELEM" /><category term="DID:EMTRUST" /><category term="DID:EOS" /><category term="DID:ERC725" /><category term="DID:ETHO" /><category term="DID:ETHR" /><category term="DID:EVAN" /><category term="DID:FACTOM" /><category term="DID:GATC" /><category term="DID:GIT" /><category term="DID:GITHUB" /><category term="DID:GRG" /><category term="DID:HEDERA" /><category term="DID:HOLO" /><category term="DID:ICON" /><category term="DID:INDY" /><category term="DID:IO" /><category term="DID:ION" /><category term="DID:IPID" /><category term="DID:IS" /><category term="DID:IWT" /><category term="DID:JLINC" /><category term="DID:JNCTN" /><category term="DID:JOLO" /><category term="DID:JWK" /><category term="DID:KEY" /><category term="DID:KILT" /><category term="DID:KLAY" /><category term="DID:LIFE" /><category term="DID:META" /><category term="DID:MOAC" /><category term="DID:MORPHEUS" /><category term="DID:NEAR" /><category term="DID:NFT" /><category term="DID:OBJECT" /><category term="DID:OCKAM" /><category term="DID:OMN" /><category term="DID:ONION" /><category term="DID:ONT" /><category term="DID:OP" /><category term="DID:ORB" /><category term="DID:PANACEA" /><category term="DID:PEER" /><category term="DID:PISTIS" /><category term="DID:PKH" /><category term="DID:PTN" /><category term="DID:SAN" /><category term="DID:SCHEMA" /><category term="DID:SELFKEY" /><category term="DID:SIGNOR" /><category term="DID:SIRIUS" /><category term="DID:SOV" /><category term="DID:STACK" /><category term="DID:TAG" /><category term="DID:TANGLE" /><category term="DID:TRUSTBLOC" /><category term="DID:TRX" /><category term="DID:TTM" /><category term="DID:TWIT" /><category term="DID:TYRON" /><category term="DID:TYS" /><category term="DID:TZ" /><category term="DID:UNDID" /><category term="DID:UNISOT" /><category term="DID:UNS" /><category term="DID:V1" /><category term="DID:VAA" /><category term="DID:VAULTIE" /><category term="DID:VID" /><category term="DID:VVO" /><category term="DID:WEB" /><category term="DID:WLK" /><category term="DID:WORK" /><category term="Decentralized Identifiers" /><category term="Digital Bazaar" /><category term="Dock" /><category term="Echo" /><category term="Elastos" /><category term="Element" /><category term="Email" /><category term="EOS" /><category term="ERC725" /><category term="Ethereum" /><category term="Evan Network" /><category term="Evernym" /><category term="Fabric" /><category term="Factom" /><category term="Gatica" /><category term="Github" /><category term="GRGBanking" /><category term="GrgChain" /><category term="Halialabs" /><category term="Hashgraph" /><category term="Holochain" /><category term="Hydra" /><category term="Hyland Credentials" /><category term="hyperledger foundation" /><category term="IBM" /><category term="ICONLOOP" /><category term="IIW" /><category term="Indy" /><category term="InfoWallet" /><category term="ION" /><category term="IOP" /><category term="IOTA" /><category term="IoTeX" /><category term="IPFS" /><category term="JLinc" /><category term="Jnctn" /><category term="Jolocom" /><category term="JWK" /><category term="KILT" /><category term="Klaytn" /><category term="lifeID" /><category term="MediBloc" /><category term="Metadium" /><category term="Microsoft" /><category term="MOAC" /><category term="NEAR" /><category term="Ocean Protocol" /><category term="Ockam" /><category term="OmniOne" /><category term="Ontology" /><category term="Panacea" /><category term="ProximaX" /><category term="Quorum" /><category term="Raonsecure" /><category term="RChain" /><category term="RWoT" /><category term="SecureKey" /><category term="SelfKey Identity" /><category term="SelfKey" /><category term="Sovrin Foundation" /><category term="Sovrin" /><category term="SpaceElephant" /><category term="Sphereon" /><category term="SpruceID" /><category term="Swisscom" /><category term="TIFAC-CORE" /><category term="TMChain" /><category term="Token.TM" /><category term="TOR" /><category term="TranSendX" /><category term="Transmute" /><category term="TRON" /><category term="Twitter" /><category term="UNISOT" /><category term="UNS" /><category term="uPort" /><category term="Vaultie" /><category term="VeramoLabs" /><category term="Veres One" /><category term="Vivvo" /><category term="VP" /><category term="W3C" /><category term="Weelink" /><category term="Workday" /><category term="YLZ Inc" /><category term="Zilliqa" /><summary type="html">DID methods are the magic ingredient that gives DIDs their flexibility. Before creating any specific DID, you first choose a DID method, which determines how you perform the create, read, update, and deactivate operations on a DID of that method. Once created, each DID includes the name of its method in the identifier itself, so that when you use the DID, others know how to retrieve the associated DID Document that contains the cryptographic material for secure interactions.</summary></entry><entry><title type="html">We Are Open Cooperative</title><link href="https://decentralized-id.com/organizations/we-are-open/" rel="alternate" type="text/html" title="We Are Open Cooperative" /><published>2023-08-13T00:00:00+13:00</published><updated>2023-08-13T00:00:00+13:00</updated><id>https://decentralized-id.com/organizations/we-are-open</id><content type="html" xml:base="https://decentralized-id.com/organizations/we-are-open/">&lt;p&gt;&lt;a href=&quot;https://weareopen.coop/&quot;&gt;Website&lt;/a&gt; - &lt;a href=&quot;https://blog.weareopen.coop/&quot;&gt;Blog&lt;/a&gt; - &lt;a href=&quot;https://twitter.com/WeAreOpenCoop&quot;&gt;Twitter&lt;/a&gt; - &lt;a href=&quot;https://www.linkedin.com/company/we-are-open-coop/&quot;&gt;LinkedIn&lt;/a&gt; - &lt;a href=&quot;https://mastodon.social/@weareopencoop&quot;&gt;Mastadon&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;main&quot;&gt;Main&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/open-workplace-recognition-using-verifiable-credentials-fc0134fad7ec&quot;&gt;Open Workplace Recognition using Verifiable Credentials&lt;/a&gt; 2022-09-30 WeAreOpenCoop
+    &lt;blockquote&gt;
+      &lt;p&gt;Yesterday, &lt;a href=&quot;https://w3c-ccg.github.io/vc-ed-use-cases/&quot;&gt;the draft&lt;/a&gt; Verifiable Credentials for Education, Employment, and Achievement Use Cases report was published […] The next version of the Open Badges specification (v3.0) will be compatible with Verifiable Credentials (VCs).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/creating-a-culture-of-recognition-39ffdb6cf943&quot;&gt;Creating a culture of recognition&lt;/a&gt; 2022-09-08 We are Open
+    &lt;blockquote&gt;
+      &lt;p&gt;Open Recognition is the awareness and appreciation of talents, skills and aspirations in ways that go beyond credentialing. This includes recognising the rights of individuals, communities, and territories to apply their own labels and definitions. Their frameworks may be emergent and/or implicit.”&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/keep-badges-weird-helping-people-understand-the-badges-landscape-79cc8cf7281&quot;&gt;Keep Badges Weird: helping people understand the badges landscape&lt;/a&gt; 2022-07-25 Doug Belshaw, We Are Open Co-op
+    &lt;blockquote&gt;
+      &lt;p&gt;Open Recognition is the awareness and appreciation of talents, skills and aspirations in ways that go beyond credentialing. This includes recognising the rights of individuals, communities, and territories to apply their own labels and definitions. Their frameworks may be emergent and/or implicit.” (&lt;a href=&quot;https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629&quot;&gt;What is Open Recognition, anyway?&lt;/a&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/how-badges-can-change-the-world-65395581f90c&quot;&gt;How badges can change the world: Part 2: Why we need to transition&lt;/a&gt; 2022-06-15 We are Open
+    &lt;blockquote&gt;
+      &lt;p&gt;In &lt;a href=&quot;https://blog.weareopen.coop/how-badges-can-change-the-world-73529560caa3&quot;&gt;Part 1: The Two Loops Model for Open Recognition advocacy&lt;/a&gt;, we talked about how as one system begins to deteriorate, an alternative begins to emerge. We know the alternative system, one that integrates credentials with other forms of recognition, is better for everyone. Without that integration, cold-hard credentialing supports outdated power dynamics.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/how-badges-can-change-the-world-73529560caa3&quot;&gt;How badges can change the world&lt;/a&gt; 2022-06-07 WeareOpen
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ZcyHKKc2LVg&quot;&gt;This model&lt;/a&gt; […] shows how systems have a lifespan and what happens as that lifespan peaks.&lt;/p&gt;
+
+      &lt;p&gt;As one system begins to deteriorate, a new system begins to emerge. This got us thinking about how this model applies to the world of &lt;a href=&quot;https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629&quot;&gt;Open Recognition&lt;/a&gt;.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/open-recognition-is-for-every-type-of-learning-ffd137a6fe17&quot;&gt;Open Recognition is for every type of learning&lt;/a&gt; 2022-06-01 We are Open Coop - From cold hard credentialing to warm fuzzy recognition
+    &lt;blockquote&gt;
+      &lt;p&gt;We need all to embrace all kinds of learning and develop ways of recognising it in others. We need to develop methods that allow us to embrace our whole self, reinforce positive behaviours in our communities, encourage lifelong learning, and which contribute to the good of society.
+&lt;img src=&quot;https://i.imgur.com/ZUWXvdY.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629&quot;&gt;What is Open Recognition, anyway?&lt;/a&gt; 2022-05-18 We are Open Going
+    &lt;blockquote&gt;
+      &lt;p&gt;beyond credentialing and the formal/informal divide&lt;br /&gt;
+Badges as credentials includes approaches that are well understood and largely replace or augment existing certification practices. Badges for recognition, however, include approaches that remain somewhat confusing to many people.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/wtf-are-stealth-badges-41130a75a1a9&quot;&gt;WTF are ‘Stealth Badges’?: The case of the O.G. Badger&lt;/a&gt; 2022-01-26 We are Open Coop
+    &lt;blockquote&gt;
+      &lt;p&gt;This information means that this particular badge, which is manually issued, can be given out in fair and equitable ways. It also means that someone else who engaged with the Open Badges community before 2017 could lay claim to it.&lt;/p&gt;
+
+      &lt;p&gt;Stealth badges at scale require an automated system that issues badges depending on particular criteria. This is why they are very common in games-based environments. For example, I unlock some most weeks playing new and existing games on my PlayStation and Google Stadia.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kayaelle.medium.com/in-the-w3c-vc-edu-call-on-june7-2021-we-discussed-open-badges-asserted-as-w3c-verifiable-90391cb9a7b7&quot;&gt;Open Badges as Verifiable Credentials&lt;/a&gt; 2021-06-11 Kerri Lemoie
+    &lt;blockquote&gt;
+      &lt;p&gt;In the &lt;a href=&quot;https://w3c-ccg.github.io/vc-ed/&quot;&gt;W3C VC-EDU&lt;/a&gt; call on June 7, 2021 we discussed &lt;a href=&quot;https://openbadges.org/&quot;&gt;Open Badges&lt;/a&gt; asserted as &lt;a href=&quot;https://www.w3.org/TR/vc-data-model/&quot;&gt;W3C Verifiable Credentials&lt;/a&gt; (VCs). This call began the public discussion of Open Badges as Native VCs (potentially as Open Badges 3.0) to inform the IMS Open Badges Working Group. Why are we discussing this? Why does it matter? How will it work?&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://app.participate.com/communities/keep-badges-weird/62003f3f-a7ba-4f6a-990a-64d6f893016d/announcements/0bc15852-0f91-48c8-a7ca-478b246b553c&quot;&gt;Discover Open Badges 3.0!&lt;/a&gt; 2021 Keep Badges Weird
+    &lt;blockquote&gt;
+      &lt;ol&gt;
+        &lt;li&gt;Check out the (accepted) &lt;a href=&quot;https://github.com/IMSGlobal/openbadges-specification/files/6977048/Proposal-Open-Badges-3.0-update-08-11-2021.pdf&quot;&gt;Open Badges 3.0 proposal&lt;/a&gt;​&lt;/li&gt;
+        &lt;li&gt;​&lt;a href=&quot;https://www.youtube.com/watch?v=QDGPwR1F3FY&amp;amp;t=1357s&quot;&gt;Watch a video&lt;/a&gt; from the ePIC conference giving an overview of what Open Badges 3.0 will enable (or view the &lt;a href=&quot;https://docs.google.com/presentation/d/1NEJoQaI9b6KC1EFDDhR3MGybGVoa0R3bQh0xuKtUKkY&quot;&gt;slide deck&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;Discuss what this means for you, your organisation, or your community in &lt;a href=&quot;https://app.participate.com/discussions/open-badges-3-0/68917656-db8f-4932-88fd-153fdb54e285&quot;&gt;this thread&lt;/a&gt;​&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;organization&quot;&gt;Organization&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/catalysing-the-kbw-community-fa89db943418&quot;&gt;Catalysing the KBW community&lt;/a&gt; 2022-03-15 WeAreOpenCoop
+    &lt;blockquote&gt;
+      &lt;p&gt;This post shows how being intentional about community building can help people feel welcome, safe, and able to contribute. It explores three ways in which &lt;a href=&quot;https://weareopen.coop/&quot;&gt;WAO&lt;/a&gt; has collaborated with &lt;a href=&quot;https://participate.com/&quot;&gt;Participate&lt;/a&gt; to do this&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/keep-badges-weird-is-about-breaking-boundaries-42afb0415826&quot;&gt;Keep Badges Weird is about breaking boundaries: How the KBW community is convening systems&lt;/a&gt; 2022-07-30 WeAreOpenCoop
+    &lt;blockquote&gt;
+      &lt;p&gt;KBW helps people understand the badge landscape. The community is there to provide solidarity for badge champions and newbies. We do not assume prior knowledge of Open Badges or Verifiable Credentials. We recognise and celebrate those who can share their experience. Anyone interested in badges or integrating &lt;a href=&quot;https://blog.weareopen.coop/what-is-open-recognition-anyway-9f38ec1f8629&quot;&gt;Open Recognition&lt;/a&gt; are welcome to join.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/wao-wraps-up-for-the-holidays-c85bff4c910c&quot;&gt;WAO wraps up for the holidays&lt;/a&gt; 2021-12-17 We Are Open Cooperative
+    &lt;blockquote&gt;
+      &lt;p&gt;In May, we did some &lt;a href=&quot;https://weareopen.coop/near/&quot;&gt;workshopping with the crypto platform NEAR&lt;/a&gt;, which was the first time we accepted cryptocurrency as part of our fee. In May, We Are Open Cooperative also &lt;a href=&quot;https://blog.weareopen.coop/wao-turns-five-30747f4df0f9&quot;&gt;turned 5 years old&lt;/a&gt;. We celebrated this momentous occasion by launching our &lt;a href=&quot;https://weareopen.coop/&quot;&gt;new website&lt;/a&gt; and adding more stuff to our &lt;a href=&quot;https://learnwith.weareopen.coop/&quot;&gt;free learning resource hub&lt;/a&gt;.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/keep-badges-weird-e26a1b055ff5&quot;&gt;Keep Badges Weird… at the Badge Summit&lt;/a&gt; 2021-10-25 We are Open
+    &lt;blockquote&gt;
+      &lt;p&gt;We have a new suite of badges to encourage participation, create value for others, and reflect on that experience. Participants will be able to both earn AND award badges, so they’ll have a chance to prove that they’ve understood the theory surrounding CoPs and badges as well as put those theories into practice.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;community-development&quot;&gt;Community Development&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/how-to-unf-ck-your-organisation-b73851dbeba5&quot;&gt;How to Unf*ck Your Organisation: Organisational strategy and architecture for n00bs&lt;/a&gt; 2022-10-06 WeAreOpenCoop
+    &lt;blockquote&gt;
+      &lt;p&gt;We’ve put together an &lt;a href=&quot;https://learnwith.weareopen.coop/courses/org-strategy/&quot;&gt;email-based course&lt;/a&gt; to help forward-thinking people in senior roles who might need a bit of help and orientation. We’ve broken things down into actionable steps based on the resources found at our Learn with WAO site, giving you enough direction and inspiration to get started transforming your organisation for the better!&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/steps-to-success-when-building-a-community-of-practice-15bd7ed9ac5c&quot;&gt;Steps to Success when building a Community of Practice: Convening systems for maturity and development&lt;/a&gt; 2022-10-05 Doug Belshaw, WeAreOpenCoop
+    &lt;blockquote&gt;
+      &lt;p&gt;This post outlines different types of work that needs to take place when planning, sustaining, and developing a Community of Practice. It is informed by work that &lt;a href=&quot;https://weareopen.coop/&quot;&gt;WAO&lt;/a&gt; have carried out with &lt;a href=&quot;https://participate.com/&quot;&gt;Participate&lt;/a&gt; around the [Keep Badges Weird]-(https://badges.community/) community over the last 10 months.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/quick-wins-to-improve-your-open-source-communitys-architecture-of-participation-9d0e6c8d60fe&quot;&gt;Quick wins to improve your Open Source community’s Architecture of Participation&lt;/a&gt; 2022-07-13 WeAreOpenCoop
+    &lt;blockquote&gt;
+      &lt;p&gt;Sociocracy is a system of governance that seeks to create psychologically safe environments and productive organizations. It draws on the use of consent, rather than majority voting, in discussion and decision-making by people who have a shared goal or work process.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/emergent-community-building-a35f9431d8a&quot;&gt;Emergent community building&lt;/a&gt; 2022-02-15 WeAreOpenCoop
+    &lt;blockquote&gt;
+      &lt;p&gt;Last week, we ran the first Keep Badges Weird community call, and it was even more energising than we expected it to be. We were so pleased to see so many people interested in the current and future status of badges and open recognition. We were elated to begin to have a deep conversation about counteracting the top-down focus of institutions and large organisations using badges for corporate stuff. There’s an outstanding question, for us, around how this community explores and thinks about the theoretical underpinnings of a Community of Practice (CoP), but one thing is for sure, Keep Badges Weird is a CoP.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;thoughtful&quot;&gt;Thoughtful&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/audience-ikigai-be0cebe4cea&quot;&gt;Audience Ikigai - An attempt to simplify complexity in content&lt;/a&gt; 2022-03-09 Laura Hilliger, We Are Open Co-op&lt;br /&gt;
+&lt;em&gt;could be useful for thinking about credential adoption profiles&lt;/em&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The complexity surrounding any global audience can’t be understated, really. I mean, we’re talking about millions of people. GPI communications have to take into account that many are coming to Greenpeace for the first time, while others know the organization well. The audience is diverse. From young to old, every color and creed, a massive spectrum of people who are interested in the mission to “ensure the ability of the earth to nurture life in all its diversity.”&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/good-things-happen-slowly-bad-things-happen-fast-2fd894cbd4df&quot;&gt;Good things happen slowly, bad things happen fast&lt;/a&gt; 2021-11-30 We Are Open Co-op
+    &lt;blockquote&gt;
+      &lt;p&gt;Some organisations were experimenting with digital badges before 2011, but these were siloed and easy to right-click and copy. The ‘technology trigger’, the innovation with Open Badges, was to invent and make available an open metadata standard.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ecosystem&quot;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.weareopen.coop/reflecting-on-the-evolving-badges-and-credentials-ecosystem-6efac4d673d3&quot;&gt;Reflecting on the Evolving Badges and Credentials Ecosystem&lt;/a&gt; 2021-11-25 We are Open
+    &lt;blockquote&gt;
+      &lt;p&gt;Recently, the WAO team took the opportunity to update the badge platforms page on Badge Wiki, a knowledgebase for the Open Badge community. As the ecosystem continues to evolve we’re seeing some early platforms fall by the wayside and new platforms emerge.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://badge.wiki/wiki/Badge_platforms&quot;&gt;Badge Platforms&lt;/a&gt; Badge Wiki
+    &lt;blockquote&gt;
+      &lt;p&gt;A list of all platforms accredited by1EdTech (the artist formerly known as IMS Global Learning Consortium) can be found &lt;a href=&quot;https://site.imsglobal.org/certifications?refinementList%5Bstandards_lvlx%5D%5B0%5D=Open%20Badges&quot;&gt;here&lt;/a&gt;. This page does not currently list LMS systems that also issue badges.&lt;/p&gt;
+      &lt;ol&gt;
+        &lt;li&gt;Accredible&lt;/li&gt;
+        &lt;li&gt;Badgecraft&lt;/li&gt;
+        &lt;li&gt;BadgeCollect&lt;/li&gt;
+        &lt;li&gt;Badge List&lt;/li&gt;
+        &lt;li&gt;BadgeFactor&lt;/li&gt;
+        &lt;li&gt;BadgeOS&lt;/li&gt;
+        &lt;li&gt;Badgetree™&lt;/li&gt;
+        &lt;li&gt;BCdiploma&lt;/li&gt;
+        &lt;li&gt;Bestr&lt;/li&gt;
+        &lt;li&gt;CanCred.ca&lt;/li&gt;
+        &lt;li&gt;Canvas Credentials&lt;/li&gt;
+        &lt;li&gt;Credly&lt;/li&gt;
+        &lt;li&gt;ForAllRubrics&lt;/li&gt;
+        &lt;li&gt;HPass&lt;/li&gt;
+        &lt;li&gt;Hyland Credentials&lt;/li&gt;
+        &lt;li&gt;Milestone&lt;/li&gt;
+        &lt;li&gt;NOCTI and Nocti Business Solutions (NBS)&lt;/li&gt;
+        &lt;li&gt;Open Badge Factory&lt;/li&gt;
+        &lt;li&gt;Openbadges.me&lt;/li&gt;
+        &lt;li&gt;Participate&lt;/li&gt;
+        &lt;li&gt;RedCritter&lt;/li&gt;
+        &lt;li&gt;Sertifier&lt;/li&gt;
+        &lt;li&gt;VerifyEd&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>DIDecentral</name></author><category term="Community Orgs" /><category term="We are Open" /><category term="Open Badges" /><category term="Open Recognition" /><category term="Accredible" /><category term="Badgecraft" /><category term="Open Recognition" /><category term="Keep Badges Weird" /><category term="BadgeCollect" /><category term="Badge List" /><category term="BadgeFactor" /><category term="BadgeOS" /><category term="Badgetree™" /><category term="BCdiploma" /><category term="Bestr" /><category term="CanCred.ca" /><category term="Canvas Credentials" /><category term="Credly" /><category term="ForAllRubrics" /><category term="HPass" /><category term="Hyland Credentials" /><category term="Milestone" /><category term="NOCTI" /><category term="Open Badge Factory" /><category term="Openbadges.me" /><category term="Participate" /><category term="RedCritter" /><category term="Sertifier" /><category term="VerifyEd" /><summary type="html">We’re a collective of independent thinkers and makers helping charities, ethical companies, government departments and educational institutions with sensemaking and digital transformation.</summary></entry><entry><title type="html">OpenID Foundation</title><link href="https://decentralized-id.com/organizations/openid/" rel="alternate" type="text/html" title="OpenID Foundation" /><published>2023-08-12T00:00:00+13:00</published><updated>2023-08-12T00:00:00+13:00</updated><id>https://decentralized-id.com/organizations/openid</id><content type="html" xml:base="https://decentralized-id.com/organizations/openid/">&lt;h2 id=&quot;main&quot;&gt;Main&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openid.net/final-version-of-open-banking-and-open-data-ready-to-cross-borders-whitepaper-published/&quot;&gt;OpenID Foundation Publishes “Open Banking and Open Data: Ready to Cross Borders?”&lt;/a&gt; 2023-02-06 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;More than 50 open data, digital identity and API security technologists globally contributed to this whitepaper to answer the following questions:&lt;/p&gt;
+      &lt;ol&gt;
+        &lt;li&gt;What are the differences and similarities between different open data ecosystems?&lt;/li&gt;
+        &lt;li&gt;Is global interoperability between different ecosystems possible?&lt;/li&gt;
+        &lt;li&gt;Who will be driving this movement and what are the use cases motivating them? How will users benefit?&lt;/li&gt;
+        &lt;li&gt;How could cross-border use cases work and what “good might look like”? What are the architecture and governance requirements?&lt;/li&gt;
+        &lt;li&gt;What can you do if you believe this is the right direction for Open Banking and Open Data?&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.openid.net/openid-foundation-publishes-the-global-open-health-movement-empowering-people-and-saving-lives-by-unlocking-data-whitepaper/&quot;&gt;OpenID Foundation Publishes “The Global Open Health Movement: Empowering People and Saving Lives by Unlocking Data” Whitepaper&lt;/a&gt; 2022-07-22 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;The whitepaper offers an overview of the global health sector privacy and security landscape and introduces similar work from outside the health domain with health experts. One key hypothesis we will test is that existing Open Banking and other Open Data standards, like FAPI, could help the health community deliver on their Open Health goals more quickly.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://openid.net/wordpress-content/uploads/2022/05/OIDF-Whitepaper_OpenID-for-Verifiable-Credentials_FINAL_2022-05-12.pdf&quot;&gt;OpenID for Verifiable Credentials&lt;/a&gt; 2022-05-12 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;The goal of this whitepaper is to inform and educate the readers about the work on the OpenID for Verifiable Credentials (OpenID4VC) specifications family. It addresses use-cases referred to as Self-Sovereign Identity, Decentralized Identity, or User-Centric Identity.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openid.net/2022/03/18/openid-foundation-publishes-whitepaper-on-open-banking/&quot;&gt;OpenID Foundation Publishes Whitepaper on Open Banking&lt;/a&gt; 2022-03-18 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;The OpenID Foundation is pleased to share its new whitepaper, “&lt;a href=&quot;https://openid.net/wordpress-content/uploads/2022/03/OIDF-Whitepaper_Open-Banking-Open-Data-and-Financial-Grade-APIs_2022-03-16.pdf&quot;&gt;Open Banking, Open Data and Financial-Grade APIs&lt;/a&gt;”. The paper documents the international movement towards Open Banking, Open Finance, and secure, consent driven access to all user data. It describes the OpenID Foundation and in particular the Financial-Grade API (FAPI) Working Group’s experience with Open Banking ecosystems internationally.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openid.net/2021/04/10/the-7-laws-of-identity-standards/&quot;&gt;The 7 Laws of Identity Standards&lt;/a&gt; 2021-04-10 OpenID
+    &lt;blockquote&gt;
+      &lt;ol&gt;
+        &lt;li&gt;A identity standard’s adoption is driven by its value of the reliability, repeatability and security of its implementations.&lt;/li&gt;
+        &lt;li&gt;A standard’s value can be measured by the number of instances of certified technical conformance extant in the market.&lt;/li&gt;
+        &lt;li&gt;Certified technical conformance is necessary but insufficient for global adoption.&lt;/li&gt;
+        &lt;li&gt;Adoption at scale requires widespread awareness, ongoing technical improvement and a open and authoritative reference source.&lt;/li&gt;
+        &lt;li&gt;When Libraries/Directories/ Registries act as authoritative sources they amplify awareness, extend adoption and promote certification.&lt;/li&gt;
+        &lt;li&gt;Certified technical conformance importantly complements legal compliance and together optimize interoperability.&lt;/li&gt;
+        &lt;li&gt;Interoperability enhances security, contains costs and drives profitability.&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;organization&quot;&gt;Organization&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://openid.net/wordpress-content/uploads/2022/05/OIDF_Workshop-at-EIC_FINAL_2022-05-11.pptx&quot;&gt;How OpenID Standards are Enabling Secure &amp;amp; Interoperable Digital Identity Ecosystems&lt;/a&gt; 2022-05-11 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/XvzvZMM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openid.net/2021/12/10/okta-joins-the-openid-foundation-board-to-further-advance-open-identity-standards/&quot;&gt;Okta Joins the OpenID Foundation Board to Further Advance Open Identity Standards&lt;/a&gt; 2021-12-10 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;“OpenID Connect is one of the most adopted identity standards, providing essential functionality to core solutions across the industry,” said Vittorio Bertocci, Principal Architect, Auth0.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openid.net/2021/12/07/the-openid-foundation-welcomes-visa-to-the-board-of-directors/&quot;&gt;The OpenID Foundation Welcomes Visa to the Board of Directors&lt;/a&gt; 2021-12-07 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;Visa’s leadership in global payments and identity services as well as their longstanding commitment to standards will be of great value as we tailor our strategy to this moment.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://self-issued.info/?p=2170&quot;&gt;Passing the Torch at the OpenID Foundation&lt;/a&gt; 2021-04-28 Mike Jones
+    &lt;blockquote&gt;
+      &lt;p&gt;Today marks an important milestone in the life of the OpenID Foundation and the worldwide digital identity community. Following &lt;a href=&quot;https://openid.net/2021/02/19/resolution-thanking-don-thibeau-for-his-service/&quot;&gt;Don Thibeau’s decade of exemplary service to the OpenID Foundation as its Executive Director&lt;/a&gt;, today we &lt;a href=&quot;https://openid.net/2021/04/28/welcoming-gail-hodges-as-our-new-executive-director/&quot;&gt;welcomed Gail Hodges as our new Executive Director&lt;/a&gt;.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openid.net/2021/02/09/2021-openid-foundation-board-update/&quot;&gt;2021 OpenID Foundation Board Update&lt;/a&gt; 2021-02-09 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;Nat Sakimura and John Bradley were re-elected to new two-year terms as community member representatives. Nat and John’s well-known technical expertise and global thought leadership ensures continuity across working groups and as the Foundation transitions to new leadership in 2021.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;standards-development&quot;&gt;Standards Development&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://self-issued.info/?p=2198&quot;&gt;Proof-of-possession (pop) AMR method added to OpenID Enhanced Authentication Profile spec&lt;/a&gt; 2021-10-13 Mike Jones
+    &lt;blockquote&gt;
+      &lt;p&gt;I’ve defined an Authentication Method Reference (AMR) value called “pop” to indicate that Proof-of-possession of a key was performed. Unlike the existing “hwk” (hardware key) and “swk” (software key) methods […] Among other use cases, this AMR method is applicable whenever a &lt;a href=&quot;https://www.w3.org/TR/2021/REC-webauthn-2-20210408/&quot;&gt;WebAuthn&lt;/a&gt; or &lt;a href=&quot;https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html&quot;&gt;FIDO&lt;/a&gt; authenticator are used.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;shared-signals-working-group&quot;&gt;&lt;a href=&quot;https://openid.net/wg/sharedsignals/&quot;&gt;Shared Signals Working Group&lt;/a&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;The Shared Signals working group is providing data sharing schemas, privacy recommendations and protocols to share security event information to thwart attackers from leveraging compromised accounts from one Service Provider to gain access to accounts on other Service Providers and enable users and providers to coordinate to securely restore accounts following a compromise.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://openid.net/specs/openid-risc-profile-specification-1_0.html&quot;&gt;OpenID RISC Profile Specification 1.0 - draft 02&lt;/a&gt; 2022-04-05 OpenID
+This document defines the Risk Incident Sharing and Coordination (RISC) Event Types based on the Shared Signals and Events (SSE) Framework. Event Types are introduced and defined in Security Event Token (SET).&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://openid.net/2021/08/24/shared-signals-an-open-standard-for-webhooks/&quot;&gt;Shared Signals: An Open Standard for Webhooks&lt;/a&gt; 2021-08-24 OpenID
+The OpenID Foundation formed the “&lt;a href=&quot;https://openid.net/wg/sse/&quot;&gt;Shared Signals and Events&lt;/a&gt;” (SSE) Working Group as a combination of the previous OpenID RISC working group and an informal industry group that was focused on standardizing &lt;a href=&quot;https://cloud.google.com/blog/products/identity-security/re-thinking-federated-identity-with-the-continuous-access-evaluation-protocol&quot;&gt;Google’s CAEP proposal&lt;/a&gt;. These represented two distinct applications of the same underlying mechanism of managing asynchronous streams of events. Therefore the &lt;a href=&quot;https://openid.net/specs/openid-sse-framework-1_0-01.html&quot;&gt;SSE Framework&lt;/a&gt; is now proposed to be a standard for managing such streams of events for any application, not just CAEP and RISC. In effect, it is a standard for generalized Webhooks.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://iiw.idcommons.net/13A/_Security_Event_Tokens,_Subject_Identifiers,_and_SSE/CAEP/RISC_Java_implementation&quot;&gt;Security Event Tokens, Subject Identifiers, and SSE/CAEP/RISC Java implementation&lt;/a&gt; 2021-05-06 Matt Domsch
+Matt presented an overview of the OpenID Foundation Shared Signals and Events Working Group, and his implementation of the object model in an open source Java library at &lt;a href=&quot;https://github.com/sailpoint-oss/openid-sse-model/&quot;&gt;https://github.com/sailpoint-oss/openid-sse-model/&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://domsch.com/IIW32/IIW32-openid-sse-model.pdf&quot;&gt;OpenID SSE Model - Security Event Tokens, Subject Identifiers, and SSE/CAEP/RISC Java implementation&lt;/a&gt; 2021-04-21 Domsch&lt;/li&gt;
+    &lt;li&gt;Security Event Tokens – RFC 8417\n$5	Matt Domsch, VP &amp;amp; Engineering Fellow&lt;/li&gt;
+    &lt;li&gt;Subject Identifiers – Internet Draft RFC&lt;/li&gt;
+    &lt;li&gt;Shared Signals &amp;amp; Events – OpenID Foundation WG&lt;/li&gt;
+    &lt;li&gt;Includes RISC, CAEP, and Oauth event profiles&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;gain&quot;&gt;GAIN&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openid.net/2022/06/03/how-gain-happens-slowly-then-all-at-once/&quot;&gt;How GAIN Happens, Slowly Then All at Once&lt;/a&gt; 2022-06-03 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;GAIN is marked by a cross sector, crowd sourced, open, global due diligence. GAIN’s self organized participants are actively seeking evidence that disconfirms the GAIN hypothesis.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kuppingercole.com/watch/eic2022-panel-gain-future-internet&quot;&gt;Protocols, Standards, Alliances: How to Re-GAIN the Future Internet from the Big Platforms&lt;/a&gt; 2022-05-13 Kuppinger Cole
+    &lt;blockquote&gt;
+      &lt;p&gt;just like trade unions helped the working class during the industrial revolution to fight for their rights. In this panel session, we will discuss about the enablers of such a different approach and the requirements to actually be successfull.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openid.net/2022/03/02/introducing-the-global-assured-identity-network-gain-proof-of-concept-community-group/&quot;&gt;Introducing the Global Assured Identity Network (GAIN) Proof of Concept Community Group&lt;/a&gt; 2022-03-02 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;The OpenID Foundation is pleased to announce the launch of the Global Assured Identity Network (GAIN) Proof of Concept Community Group, which aims to test the technical hypotheses underlying the &lt;a href=&quot;https://gainforum.org/GAINWhitePaper.pdf&quot;&gt;“GAIN Digital Trust”&lt;/a&gt; white paper.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openid.net/2021/09/20/global-assured-identity-network-white-paper/&quot;&gt;Global Assured Identity Network White Paper&lt;/a&gt; 2021-09-20 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;The Global Assured Identity Network White Paper was the centerpiece of the OpenID Foundation’s  Chairman Nat Sakimura’s keynote at the European Identity Conference just a few days ago. His presentation can be found at https://nat.sakimura.org/2021/09/14/announcing-gain/. Nat describes GAIN as an overlay network on top of the Internet with all its participants identity proofed. One key benefit of the approach proposed in the white paper is that the standards required to enable this network already exist: OpenID Connect and eKYC/IDA.&lt;/p&gt;
+
+      &lt;p&gt;The White Paper was a “no logo, pro bono, open source” collaboration of over 150 co-authors including many members of the OpenID Foundation. It’s well on its way to achieving its goal of generating a community wide discussion on the business, technical and legal requirements for pragmatic international interoperability.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=QG_gkZkpJwQ&quot;&gt;EIC Speaker Spotlight: Nat Sakimura&lt;/a&gt; 2021-08-24 Introducing Gain • OpenID Foundation
+    &lt;blockquote&gt;
+      &lt;p&gt;if you look at the the cost structure of the financial industry a lot of cost Is towards anti-money laundering and related activities and that actually is identity problem […] we should try to solve the use case with a user centricity in mind&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kim-cameron-award&quot;&gt;Kim Cameron Award&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openid.net/2022/07/05/rachelle-sellung-2022-kim-cameron-award/&quot;&gt;Kim Cameron Award Winner Reflects on EIC&lt;/a&gt; 2022-07-05 Rachelle Sellung
+    &lt;blockquote&gt;
+      &lt;p&gt;In a matter of a few days, I heard many inspiring presentations, had many interesting conversations, and met many wonderful people in this field at the Conference. It has already led to multiple conversations of working together regarding future stakeholder research that will hopefully be useful and support the identity community.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openid.net/2022/04/29/2022-openid-foundation-kim-cameron-award-recipients-announced/&quot;&gt;2022 OpenID Foundation Kim Cameron Award Recipients Announced&lt;/a&gt; 2022-04-29 OpenID&lt;br /&gt;
+&lt;em&gt;This was the first IIW without Kim Cameron. This was a very fitting announcement.&lt;/em&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The OpenID Foundation is pleased to announce the first cohort of awardees for inaugural launch of the Kim Cameron Award Program. We first must thank the many well-qualified applicants who presented compelling interest in user-centric identity.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://openid.net/2022/04/08/announcing-the-2022-openid-foundation-kim-cameron-scholarship/&quot;&gt;Announcing the 2022 OpenID Foundation Kim Cameron Scholarship&lt;/a&gt; 2022-04-08 OpenID
+    &lt;blockquote&gt;
+      &lt;p&gt;Scholarship recipients will be studying, researching, interning or working in a field relevant to one or more &lt;a href=&quot;https://openid.net/wg/&quot;&gt;OpenID Foundation working groups&lt;/a&gt; and consistent with Foundation’s Mission. The scholarship recipients will also be invited to participate in Foundation breakout meetings at the European Identity Conference and Identiverse which will provide exposure to both the Foundation’s business as well as leading technologists.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>DIDecentral</name></author><category term="Standards Development Orgs" /><category term="OpenID" /><category term="Open Banking" /><category term="SSE" /><category term="GAIN" /><category term="Standards Development Org" /><summary type="html">Founded in 2007, the OpenID Foundation (OIDF) is a global open standards body committed to helping people assert their identity wherever they choose. We are global vibrant community where identity peers and thought leaders convene to craft the identity ecosystems of tomorrow.</summary></entry><entry><title type="html">Linux Foundation Public Health (LFPH) and the Cardea Project</title><link href="https://decentralized-id.com/organizations/Linux-Foundation-Public-Health_Cardea/" rel="alternate" type="text/html" title="Linux Foundation Public Health (LFPH) and the Cardea Project" /><published>2023-08-12T00:00:00+13:00</published><updated>2023-08-12T00:00:00+13:00</updated><id>https://decentralized-id.com/organizations/lfph</id><content type="html" xml:base="https://decentralized-id.com/organizations/Linux-Foundation-Public-Health_Cardea/">&lt;h2 id=&quot;main&quot;&gt;Main&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.lfph.io/&quot;&gt;Website&lt;/a&gt; - &lt;a href=&quot;https://lfpublichealth.slack.com/&quot;&gt;Slack&lt;/a&gt; - &lt;a href=&quot;https://twitter.com/LFPubHealth&quot;&gt;Twitter&lt;/a&gt; - &lt;a href=&quot;https://www.lfph.io/blog/&quot;&gt;Blog&lt;/a&gt; - &lt;a href=&quot;https://www.youtube.com/channel/UCirEps_wTjsD_oJM_WZJGuA&quot;&gt;Youtube&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lfph.io/2022/08/29/lfph-tackles-the-next-frontier-in-open-source-health-technology-the-rise-of-digital-twins/&quot;&gt;LFPH tackles the next frontier in Open Source Health Technology: The rise of Digital Twins&lt;/a&gt; 2022-08-29 Jim St. Clair, LFPH
+    &lt;blockquote&gt;
+      &lt;p&gt;Among the many challenges in our global healthcare delivery landscape, digital health plays an increasingly important role on almost a daily basis, from personal medical devices, to wearables, to new clinical technology and data exchanges. Beyond direct patient care, digital health also applies to diagnostics, drug effectiveness, and treatment delivery. These use cases are being driven by rapid growth in data modeling, artificial intelligence (AI)/machine learning (ML), and data visualization. Given the rapid digitalization of healthcare delivery, emerging digital twin technology is considered the next system that will advance further efforts in medical discoveries and improve clinical and public health outcomes.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lfph.io/2022/07/29/public-private-partnerships-in-health-the-journey-ahead-for-open-source/&quot;&gt;Public-private partnerships in health: The journey ahead for open source&lt;/a&gt; Linux Foundation Public Health 2022-07-29
+    &lt;blockquote&gt;
+      &lt;p&gt;Large-scale healthcare and public-health challenges such as mental health, communicable diseases, diabetes—and even reforming Medicaid—will only be accomplished by consistently bringing all stakeholders to the table, determining how to sustainably support projects, and providing transparent value to patients, populations and public sector agencies. LFPH has pursued a shared vision around leveraging open source to improve our communities, carrying forward the same resolve as the diverse groups that originally came together to create COVID-19 solutions. The open-source journey in public health is only beginning.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lfph.io/2022/04/19/lfph-completes-the-proof-of-concept-of-its-gccn-trust-registry-network/&quot;&gt;LFPH completes the Proof-of-Concept of its GCCN Trust Registry Network&lt;/a&gt; 2022-04-19 Lucy Yang, LFPH
+    &lt;blockquote&gt;
+      &lt;p&gt;Building on the open source TRAIN Trust Management Infrastructure funded by the European Self-Sovereign Identity Framework (ESSIF) Lab, the GCCN Trust Registry Network allows different COVID certificate ecosystems, which can be a political and economic union (e.g. the EU), a nation state (e.g. India), a jurisdiction (e.g. the State of California), an industry organization (e.g. ICAO) or a company (e.g. a COVID test administrator), to join and find each other on a multi-stakeholder network, and validate each other’s COVID certificate policies.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lfph.io/2021/02/11/cci-verifiable-credentials-flavors-and-interoperability-paper/&quot;&gt;The Flavors of Verifiable Credentials&lt;/a&gt; 2021-02-11 Linux Foundation Public Health Blog &lt;a href=&quot;(https://www.lfph.io/wp-content/uploads/2021/02/Verifiable-Credentials-Flavors-Explained.pdf)&quot;&gt;pdf&lt;/a&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;The differences between the different flavors of VCs for technically inclined readers. It elaborated on the differences between JSON and JSON-LD and articulated differences between the two different implementations of ZKP style credentials. The ‘Journey of a VC’ section articulated all steps where VCs are active and highlighted the differences in how different VC flavors ’behave’.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lfph.io/2020/07/20/join-with-us-at-linux-foundation-public-health/&quot;&gt;Join with us at Linux Foundation Public Health&lt;/a&gt; 2020-07-20 Dan Kohn, LFPH
+    &lt;blockquote&gt;
+      &lt;p&gt;The mission of Linux Foundation Public Health is to use open source software to help public health authorities (PHAs) around the world combat COVID-19 and future epidemics. We’re starting with two exposure notification apps but we expect to host dozens of projects to support all phases of a PHA’s testing, tracing, and isolation activities. We are building a global community of technology and consulting companies, public health authorities, epidemiologists and other public health specialists, privacy and security experts, and individual developers.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cardea&quot;&gt;Cardea&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/hyperledger-labs?q=cardea&quot;&gt;Github&lt;/a&gt; - &lt;a href=&quot;https://github.com/hyperledger-labs/cardea&quot;&gt;Mailing List&lt;/a&gt; - &lt;a href=&quot;https://twitter.com/cardeaproject&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lfph.io/2022/09/29/open-source-cardea-project-expands-into-employee-and-student-health-verification/&quot;&gt;Open Source Cardea Project Expands into Employee and Student Health Verification&lt;/a&gt; 2022-11-29 Trevor Butterworth, LFPH
+    &lt;blockquote&gt;
+      &lt;p&gt;Many different occupations, along with colleges and universities, have health certification requirements, such as proof of immunization and TB tests. Cardea provides an easy way to render these proofs as privacy-preserving and tamper-proof digital credentials that allow for consent-based sharing of specific data and for that data to expire (which is necessary where annual testing is required).&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://indicio.tech/the-verifiable-credential-solution-to-health-data-sharing/&quot;&gt;Verifiable Credential Solution to Health Data Sharing&lt;/a&gt; 2022-06-30 Indicio
+    &lt;blockquote&gt;
+      &lt;p&gt;In proving that tamper-proof health data could be issued to travelers by their health providers and be verified by airlines and other countries without having to check back in with the health provider, Cardea has laid the foundation for something much bigger than Covid testing. Verifiable credential technology provides a way for all kinds of health data to be shared in a privacy-preserving and security-enhanced way.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.lfph.io/2022/03/31/member-profile-series-looking-back-on-cardeas-second-successful-interop-a-thon-indicio%ef%bf%bc/&quot;&gt;Member Profile Series: Looking Back on Cardea’s Successful Second Interop-a-thon [Indicio]&lt;/a&gt; 2022-05-31 Trevor Butterworth, LFPH
+    &lt;blockquote&gt;
+      &lt;p&gt;The Cardea project at LFPH is a complete open-source reference implementation for sharing verifiable digital health credentials, with a focus on COVID testing. Built by Indicio for SITA, the world’s largest technology provider to the air transport sector, and successfully trialed in Aruba, Cardea has developed into an open-source community of companies collaborating to extend the codebase features and applications. Central to these goals is interoperability.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=adFFsPRVcBA&amp;amp;list=PL3LvHy3eIPslC7YhQGXKPN4LvS3ekqfqE&amp;amp;index=2&quot;&gt;Cardea Feb 2 2022 Meeting Review and LFPH presentation&lt;/a&gt; 2022-02-02
+    &lt;blockquote&gt;
+      &lt;p&gt;This is our first meeting of february, very exciting, and it is also our first meeting of the Cardea Working Group that is dedicated to sort of high level reintroduction of our project today&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://idramp.com/idramp-joins-linux-foundation-public-health-cardea-project-steering-committee/&quot;&gt;IdRamp Joins Linux Foundation Public Health Cardea Project Steering Committee&lt;/a&gt; 2021-06-11 IDRamp
+    &lt;blockquote&gt;
+      &lt;p&gt;The Cardea and GCCN projects are both excellent examples of breakthrough innovations that can take shape when companies and projects come together to solve real-world problems, using open source tools available to everyone&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/global-id/globalid-joins-the-linux-foundations-cardea-project-22f298032240&quot;&gt;GlobaliD joins the Linux Foundation’s Cardea Project&lt;/a&gt; 2021-06-08 Global ID
+    &lt;blockquote&gt;
+      &lt;p&gt;Cardea is a complete ecosystem for the exchange of privacy-preserving digital credentials, open sourced as a project in Linux Foundation Public Health. Launched by Indicio.Tech, Cardea provides an easily verifiable, trustworthy, unalterable proof of health tests or vaccination that can be shared in a privacy-preserving way. Cardea easily integrates with existing health systems to ensure trusted data sources for credentials and uses decentralized identity technology to enable better control of data for individuals. Cardea recently announced its first reference implementation in partnership with SITA for the island of Aruba.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1Vl9IKRg6ygHD1njc8GfnjsQglDOVglBKbuXHSuqQ7T4/edit?usp=sharing&quot;&gt;Indicio Submission to LFPH&lt;/a&gt; 2021-03 Indicio
+    &lt;blockquote&gt;
+      &lt;p&gt;Indicio’s Cardea ecosystem easily integrates with existing applications, allowing people, businesses, healthcare systems, and governments to work together to safely reopen physical locations such as offices, restaurants, venues, schools, and travel, while complying with global health and data privacy laws. The ecosystem frees businesses, organizations, and governments from having to store and manage people’s private medical information. Instead, decentralized identity enables the individual to independently acquire and control their data and securely share or selectively disclose it at their discretion with full consent.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>DIDecentral</name></author><category term="Community Orgs" /><category term="Linux Foundation" /><category term="LFPH" /><category term="Healthcare" /><category term="Covid 19" /><category term="Public Health Advisory Council" /><category term="Cardea" /><category term="TRAIN" /><category term="ESSIF" /><category term="GCCN" /><category term="Hyperledger Labs" /><summary type="html">There is no question that the community’s contributions during the height of the pandemic provided enormous benefit – possibly even life-saving. LFPH has represented a unique opportunity for the tech community to start collaborating around an urgent global health need, and we look forward to the opportunity to generate similar momentum in the future to address global challenges in health IT.</summary></entry></feed>

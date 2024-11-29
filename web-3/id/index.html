@@ -1,0 +1,988 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Web 3 and Self Sovereign Identity |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Self-Sovereign Identity is the most effective form of digital identity in Web 3.0">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Web 3 and Self Sovereign Identity">
+<meta property="og:url" content="https://decentralized-id.com/web-3/id/">
+
+
+  <meta property="og:description" content="Self-Sovereign Identity is the most effective form of digital identity in Web 3.0">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Web 3 and Self Sovereign Identity">
+  <meta name="twitter:description" content="Self-Sovereign Identity is the most effective form of digital identity in Web 3.0">
+  <meta name="twitter:url" content="https://decentralized-id.com/web-3/id/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-06-26T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-27T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/web-3/id/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Web 3 and Self Sovereign Identity">
+    <meta itemprop="description" content="Alice can have a credential issued for a particular purpose, store it in a personal data vault, and only authorize access to that credential when she consents to the interaction. Additionally, Alice controls this credential at all times and can present it to any requesting platform">
+    <meta itemprop="datePublished" content="2023-06-26T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-27T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/web-3/id/" class="u-url" itemprop="url">Web 3 and Self Sovereign Identity
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          9 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#identity-and-web3">Identity and Web3</a></li><li><a href="#ssi-and-web-30">SSI and Web 3.0</a></li><li><a href="#ssi-in-web3">SSI in Web3</a></li><li><a href="#web3-id">Web3 ID</a><ul><li><a href="#web3id-landscape">Web3ID Landscape</a></li></ul></li><li><a href="#tokenized-id">Tokenized ID</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="identity-and-web3">Identity and Web3</h2>
+<ul>
+  <li><a href="https://auth0.com/blog/identity-and-web3/">Identity and Web3</a> 2022-09-12 auth0
+    <blockquote>
+      <p>A key opportunity Web3 presents in the identity space is the ability to interact with a user’s blockchain data. This presents two benefits: enriching user profiles and streamlining the login process with federated logins using storage wallets.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.spruceid.com/decentralized-identity-and-web3/">Decentralized Identity and Web3</a> 2022-08-05 SpruceID
+    <blockquote>
+      <p>In the case above, Alice can have a credential issued for a particular purpose, store it in a personal data vault, and only authorize access to that credential when she consents to the interaction. Additionally, Alice controls this credential at all times and can present it to any requesting platform: it isn’t limited to a single platform because it’s a credential she owns and controls.</p>
+    </blockquote>
+  </li>
+  <li>[Tweet Thread] <a href="https://twitter.com/DonaldBullers/status/1532406343545536513">The Golden Era of Web3 Identity</a> 2022-06-02 Donald Bullers
+    <blockquote>
+      <p>We’ve entered the “in it for the tech” phase.</p>
+
+      <p>Attention now shifts to builders and a heads down mentality can lead to the creation of some of the most intriguing Web3 companies to date.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@adityasanthanam/crafting-a-no-bs-ssi-platform-454b1d9c6f8d">Crafting a “no-bs” SSI platform</a> 2022-04-25 Aditya Santhanarn
+    <blockquote>
+      <p>My opinion is that the statement is definitely wrong. Web3 and its associated technologies will become the foundation of our future technologies.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://jonnyfry175.medium.com/web-3-0-and-digital-identity-in-chinese-17c0713ad3e0">Web 3.0 and digital identity- (In Chinese)</a> 2022-03-24 Fraser Edwards
+    <blockquote>
+      <p>Self-Sovereign Identity (SSI) is arguably the most effective form of digital identity in Web 3.0. SSI is a user-centric identification method for controlling information. Fully aligned with Web 3.0, SSI eliminates the need to store personal information entirely on a central database and gives individuals greater control over the information they share to protect their privacy.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://myhub.ai/items/inventories-not-identities-why-multisigs-are-the-future-of-online-by-kei-kreutler-gnosis">Inventories, Not Identities: Why multisigs are the future of online accounts</a> 2021-11-20 Gnosis
+    <blockquote>
+      <p>Embracing more than the normative individual as a fundamental unit of account, such a paradigm could better serve the creation of resilient, accountable, and mutualistic institutions leading into the twenty-first century.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="ssi-and-web-30">SSI and Web 3.0</h2>
+<ul>
+  <li><a href="https://techbullion.com/understanding-decentralized-identities-dids-and-why-they-matter-for-web-3-0-mass-adoption/">Understanding Decentralized Identities (DIDs) and Why They Matter for Web 3.0 Mass Adoption</a> 2022-07-20 TechBullion
+    <blockquote>
+      <p>All in all, the exponential rise in cases of data breaches and hacks on Web 2.0 applications, calls for a new system that protects users data and privacy on the internet. Additionally, the rapid growth of the decentralized internet means that digital identities are becoming more important than ever as users turn to virtual worlds and metaverses in future.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://newsletter.impervious.ai/decentralized-identifiers-implications-for-your-data-payments-and-communications-2/">Decentralized Identifiers: Implications for Your Data, Payments and Communications</a>2022-05-22 Impervious, Chase Perkins <em>Epic Content</em>
+    <blockquote>
+      <p>Through the DID Specification, service endpoints and DIDComm, Impervious has interlaced DIDs with Bitcoin Lightning, IPFS, WebRTC and resilient relays to introduce a new peer-to-peer internet standard with practical applications for mitigating censorship and surveillance risk</p>
+    </blockquote>
+  </li>
+  <li><a href="https://thegrowgroup.medium.com/self-sovereign-identity-the-jewel-in-the-web-3-0-crown-173c4df8e4c9">Self-Sovereign Identity: The Jewel in the Web 3.0 Crown</a> 2022-02-24 The Grow Group
+    <blockquote>
+      <p>In sum, SSI saves time, enhances security, and returns personal data ownership to individuals, thereby lessening the power of GAFA [Google, Apple, Facebook, and Amazon].</p>
+    </blockquote>
+  </li>
+  <li>[Podcast] <a href="https://podcasts.apple.com/us/podcast/45-self-sovereign-digital-identity-blockchain-web3/id1510232581?i=1000552163633">Self-Sovereign Digital Identity, Blockchain &amp; Web3 with Charlyn Ho</a> 2022-02-25 I also want money
+    <blockquote>
+      <p>Could blockchain and the decentralized web mean the end of surveillance capitalism? Maybe! In this episode, Perkins Coie partner Charlyn Ho defines digital identity, explains how blockchain empowers users to take control of their data, and shares how Web3 could dismantle Big Tech’s monopoly on Big Data - if it’s built the right way.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/ontologynetwork/why-ens-does-not-spell-end-for-did-1d2ef9f197c">Why ENS does not spell END for DID</a> 2021-12-21 Ontology
+    <blockquote>
+      <p>Broadly speaking, ENS domain names also belong to a kind of decentralized identifier. The identity of the domain name is formed by a collection of attributes, identified by a certain domain name. As a domain name system, ENS conforms to the three characteristics of the Zooko triangle, namely security, decentralization, and human readability.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://hackernoon.com/self-sovereign-identity-smart-contracts-and-web-30-4dm375d">Self-Sovereign Identity, smart contracts and Web 3.0</a> 2021-07-28 Hackernoon
+    <blockquote>
+      <p>Public blockchain and smart contracts are a convenient and viable cloud for security-critical information and allow to implement more complex schemes. For example, your service requires that the user’s identity be confirmed by some external KYC provider, or there must be an always available master public key to distribute software updates in the network (relevant for IoT).</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="ssi-in-web3">SSI in Web3</h2>
+<ul>
+  <li><a href="https://fuixlabs.com/dominium/">Dominium - Self Sovereign Identity Platform</a>
+<em>The open source implementation of DID on Cardano</em>
+    <blockquote>
+      <p>Give the organizations in your ecosystem a digital credential dashboard with your branding. Lower cost than building and maintaining your own dashboard.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://dlt.mobi/citopia/">Citopia Self-Sovereign Digital Twins™ (#SSDTs) enable trusted identity &amp; data autonomy in the #Web3 economy</a>
+    <blockquote>
+      <p>Citopia is a member-owned and operated federated Web3 marketplace for connected ecosystem and IoT commerce where ecosystem stakeholders can securely transact.</p>
+
+      <p>Citopia facilitates the onboarding of Self-Sovereign Digital Twins™ (SSDTs™), which are used to issue Verifiable Credentials (VCs) for automating multiparty transactions in the Web3 economy.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.civic.com/blog/web3-needs-an-identity-layer/">Wean Yourself Off Your Wallet: Web3 Needs an Identity Layer</a> 2022-08-28 Civic
+    <blockquote>
+      <p>By incorporating the main components detailed above: DIDs, tokens and verifiable credentials, <a href="http://civic.me/">Civic.me</a> is our proof of concept for an enriched identity layer on Web3, which goes beyond simple public keys and wallets.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=cSG148jbErs">Self-Sovereign Identity (SSI) &amp; Atala PRISM with Allison Fromm</a> 2022-04-28 Cardano Catalyst Women
+    <blockquote>
+      <ul>
+        <li>[0:02:58] What is Identity?</li>
+        <li>[0:04:14] Problems with Digital Identity</li>
+        <li>[0:08:38] Solution: Self-Sovereign Identity (SSI)</li>
+        <li>[0:15:55] Getting Started with SSI: A Catalyst Proposal</li>
+        <li>[0:20:11] Conclusion</li>
+        <li>[0:22:20] Core team</li>
+        <li>[0:24:05] Questions</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://sovereignwallet.medium.com/introducing-pairwise-trust-a-new-blockchain-based-identification-solution-for-web3-infrastructures-c1ef4a52dcd8">Pairwise Trust: A New Blockchain-Based Identification Solution for Web3 Infrastructures</a> 2022-04-26 Sovereign Wallet
+    <blockquote>
+      <p>In MetaMUI, users can create their own DID by submitting their personal information(KYC) to one of the Sidechain Operators, and the operator will decide whether approving or denying the request depending on the status of the submitted data. Once the request is approved, the user’s personal data get hashed, and the hashed data is safely stored in the user’s device.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blockworks.co/gitcoin-passport-to-make-fundraising-governance-more-fair/">Gitcoin Passport To Make Fundraising, Governance More Fair</a> 2022-07-28 Blockworks
+    <blockquote>
+      <p>Gitcoin isn’t the only project trying to solve decentralized identification (DID), but it does have a leg-up on the so-called “cold start” problem, Owocki said.</p>
+
+      <p>“What everyone else is missing is usage.” Today there are few if any dApps using DID, thus few users care about having an effective DID system, and decentralized apps have no incentive to prioritize it.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://academy.affinidi.com/building-a-consent-management-system-for-web-3-0-39e79b792eea">Building a Consent Management System for Web 3.0</a> 2022-06-09 Affinidi
+    <blockquote>
+      <p>Affinidi’s consent manager has a simple architecture as it comprises only a few modules and this is what makes it easy to implement across any application stack.</p>
+    </blockquote>
+  </li>
+  <li>[Elastos] <a href="https://opulous.medium.com/self-sovereign-identity-and-music-in-web-3-0-148c058dbc30">SSI and Music in Web 3.0</a> 2021-02-09 Opulous
+    <blockquote>
+      <p>while our primary goals of financial disintermediation and inclusion are being realized in our existing projects, a greater long-term goal remains: to return to musicians and artists the control of their own data. Music publishing companies, record labels, performance rights organizations, and other industry intermediaries have had too much power for too long.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="web3-id">Web3 ID</h2>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=hlEKXKYj8Fk">Web3: CRYPTO Cross-Chain Identity On Nervos</a> 2022-08-17 CryptoCapitalVenture
+    <ul>
+      <li><a href="https://www.did.id/">.bit account</a> is such an inclusive data container that you can put any type of data into it. Tons of Web3 apps will provide service for you after indexing relevant data stored in your .bit account.</li>
+    </ul>
+  </li>
+  <li><a href="https://medium.com/toruslabs/sign-in-with-solana-use-your-solana-account-for-web2-web3-d94def27485b">Sign-in with Solana — Use Your Solana Account for Web2 &amp; Web3</a> 2022-05-09
+    <blockquote>
+      <p>Users will now be able to control their digital identity with their Solana accounts instead of relying on traditional/custodial profiles. The Importance of Building a Self-Custodial Future In crypto, there is a saying that goes ”Not your keys, not your crypto’’</p>
+    </blockquote>
+  </li>
+  <li><a href="http://podcast.banklesshq.com/the-social-web3-protocols-for-a-digital-society-poap-lens-protocol-discoxyz">The Social Web3 - Protocols for a Digital Society - POAP, Lens Protocol, Disco.XYZ</a> 2022-03-05 Bankless
+    <blockquote>
+      <p>Web3 social media? Decentralized identity? Digital society in the metaverse? On this episode, we unpack the future social world in the metaverse and the protocols that will help shape it.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=zBUAyrpQIhU">Trust Graph FOSSDEM 2022</a> Harlan Wood 2022-02-05
+    <blockquote>
+      <p>REPUTATION FOR DECENTRALIZED ECOSYSTEMS</p>
+      <ul>
+        <li><a href="https://trustgraph.net/">Trust Graph</a> is an open protocol for sourcing &amp; rendering Trust relationships</li>
+        <li>It is a toolkit for building and reading distributed Trust Graphs</li>
+        <li>An ambitious plan to create interoperability between existing and future Trust Networks</li>
+        <li>Compatible with existing rating schemes (scores, percentages, star ratings, etc)</li>
+        <li>Open Source (Apache licensed)</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.skillwallet.id/skillwallet-raises-1-65m-to-build-the-identity-layer-of-web3-9c0490639ed9">SkillWallet raises $1.65M to build the Identity Layer of Web3</a> 2022-02-01 SkillWallet
+    <blockquote>
+      <p>On the 31st of January, 2022, we deployed SkillWallet DAO, and the first self-sovereign ID that ever existed. Soon we will be sharing more details about the DAO Mechanics and our radically transparent approach to progressive decentralization.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/magiclabs/types-of-passwordless-authentication-for-web-3-958062e9d265">3 Types of Passwordless Authentication for Web 3.0</a> 2021-12-31 MagicLabs
+    <blockquote>
+      <p>Passwordless authentication is a fundamental shift in how people will access their tools and information online, and it will provide more security, prevent billions in losses, and create greater transparency.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/frctls/seamless-web3-identity-verification-c72ce27dcb41">Seamless Web3 Identity Verification</a> 2021-07-30 Fractal
+    <blockquote>
+      <p>Built on <a href="https://polkadot.network/">Polkadot</a>, Fractal Protocol is an open-source, zero-margin protocol that defines a basic standard to exchange user information in a fair and open way, ensuring a high-quality version of the free internet. In its first version, it is designed to replace the <a href="https://www.cookiepro.com/knowledge/what-are-targeting-advertising-cookies/">ad cookie</a> and give users back control over their data.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://epicenter.tv/episodes/b003">The Decentralized Key Management and Login System for Web3</a> 2020-12 Epicenter
+    <blockquote>
+      <p>The Torus Wallet is the second layer to the system and allows one-click login and authentication on partners including Gmail, Facebook, or passwordless logins on Web3 applications. It is however reinforced behind the scenes by a clever distributed architecture. Notably, clever cryptography makes it possible for users to send crypto to social accounts that don’t yet have crypto wallet. For example, one could send crypto to a Twitter username, which could be claimed once the recipient creates an account.</p>
+
+      <p>The team also recently released a custom version of two-factor authentication (2FA), tKey.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.brightid.org/">BrightID</a> (a singular address that is linked to your friends’ ID in a “web of trust”) and <a href="https://app.ubdi.com/">UBDI</a> lets you pull in data from a whole variety of sources and then make deals to get $ for your data.</li>
+</ul>
+
+<h3 id="web3id-landscape">Web3ID Landscape</h3>
+<ul>
+  <li><a href="https://newsletter.banklesshq.com/p/the-decentralized-identity-revolution">The Decentralized Identity Revolution</a> 2022-08-31 Bankless
+<em>Good long article</em>
+    <blockquote>
+      <p>Web3 digital identity — soulbound tokens, verifiable credentials, and Proof of Personhood projects — represent a credible alternative to formulating digital identities in a decentralized, bottom-up manner.</p>
+
+      <p>Although their methods differ, these builders are aligned in the same goal: Enabling individuals to create a rich social layer without reliance on central issuers.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://mirror.xyz/dommy.eth/YsZmPZUxs4LsS-sS0APg25LJiFxOBnCibj2gzXFX98c">Mapping the Web3 Identity Landscape</a> 2022-05-14 Dommy.eth
+    <blockquote>
+      <p>Now, when it comes to defining and verifying identity, a few distinct approaches pop up [Transactional Identity, Personal Identity, Collateralized Identity, Social Identity, Reputational Identity, Data Identity, Credentialing Services, Authentication]</p>
+    </blockquote>
+  </li>
+  <li><a href="https://twitter.com/AnastasiaU/status/1518568881467629568">an A-Z list of every startup or company I could find building the blockchain crypto privacy &amp; identity ecosystem</a> 2022-04-25 AnastasiaU
+    <blockquote>
+      <p>Why privacy AND identity? Cuz we can’t make real progress on privacy unless we also rearchitect toward user-centric identity – fight me!</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="tokenized-id">Tokenized ID</h2>
+<p><em>Still not excited about tokenization of credential exchange.</em></p>
+
+<ul>
+  <li><a href="https://www.civic.com/blog/the-four-pillars-of-tokenized-identity/">The Four Pillars of Tokenized Identity</a> 2022-08-16 Civic
+    <blockquote>
+      <p>If you are considering integrating tokenized identity into your protocol, seek out a model that meets these requirements.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.velocitynetwork.foundation/velocity-network-foundation-has-announced-its-successful-launch-of-velocity-network-mainnet-internet-of-careers">Velocity Network Foundation successfully launches Velocity Network Mainnet : Internet of Careers</a> 2022-03-01
+    <blockquote>
+      <p>A game changing, blockchain based, public utility layer, which makes it simple for people and organizations to exchange verifiable, immutable, trusted self-sovereign career credentials.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.civic.com/blog/why-we-issue-identity-tokens/">Why We Issue Identity Tokens</a> 2022-06-24 Civic
+    <blockquote>
+      <p>In 2017 we published <a href="https://vinnylingham.com/civic-enabling-the-future-of-privacy-digital-security-with-chainauth-b79d61904d4c">Chainauth</a>, a mechanism for anchoring verifiable credentials on Bitcoin, and in 2021 we released <a href="https://www.civic.com/solutions/">Civic Pass</a>, a multi-chain token protocol, in conjunction with <a href="https://identity.com/">identity.com</a>.[…]</p>
+
+      <p>Why, if we had Chainauth, based on verifiable credentials, did we release Civic Pass, a token protocol very similar to SBTs?</p>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#atala-prism" class="page__taxonomy-item p-category" rel="tag">Atala PRISM</a><span class="sep">, </span>
+    
+      <a href="/tags/#citopia" class="page__taxonomy-item p-category" rel="tag">Citopia</a><span class="sep">, </span>
+    
+      <a href="/tags/#civic" class="page__taxonomy-item p-category" rel="tag">Civic</a><span class="sep">, </span>
+    
+      <a href="/tags/#dominium" class="page__taxonomy-item p-category" rel="tag">Dominium</a><span class="sep">, </span>
+    
+      <a href="/tags/#elastos" class="page__taxonomy-item p-category" rel="tag">Elastos</a><span class="sep">, </span>
+    
+      <a href="/tags/#ethereum" class="page__taxonomy-item p-category" rel="tag">Ethereum</a><span class="sep">, </span>
+    
+      <a href="/tags/#gitcoin" class="page__taxonomy-item p-category" rel="tag">Gitcoin</a><span class="sep">, </span>
+    
+      <a href="/tags/#web3" class="page__taxonomy-item p-category" rel="tag">Web3</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#web-3" class="page__taxonomy-item p-category" rel="tag">Web 3</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-27">June 27, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Web+3+and+Self+Sovereign+Identity%20https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fid%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fid%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fid%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fid%2F&title=Web+3+and+Self+Sovereign+Identity" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/web-3/" class="pagination--pager" title="Web3 Explained
+">Previous</a>
+    
+    
+      <a href="/self-sovereign-identity/data-governance/" class="pagination--pager" title="Data Governance and Self Sovereign Identity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,1105 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Business [Value, Models, Practice] and Self Sovereign Identity |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="What if I didn’t own my customer’s digital ID but establish a digital relationship with them instead?">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Business [Value, Models, Practice] and Self Sovereign Identity">
+<meta property="og:url" content="https://decentralized-id.com/development/business/">
+
+
+  <meta property="og:description" content="What if I didn’t own my customer’s digital ID but establish a digital relationship with them instead?">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Business [Value, Models, Practice] and Self Sovereign Identity">
+  <meta name="twitter:description" content="What if I didn’t own my customer’s digital ID but establish a digital relationship with them instead?">
+  <meta name="twitter:url" content="https://decentralized-id.com/development/business/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-06-30T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-30T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/development/business/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li>
+</ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp" alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources &amp; Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Business [Value, Models, Practice] and Self Sovereign Identity">
+    <meta itemprop="description" content="Self-Sovereign Identity not only presents an opportunity for businesses to build smarter, more secure, and more scalable relationships with customers; but it will enable them to completely rethink how they build trusted digital relationships from the ground up.">
+    <meta itemprop="datePublished" content="2023-06-30T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-30T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/development/business/" class="u-url" itemprop="url">Business [Value, Models, Practice] and Self Sovereign Identity
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          12 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title">
+<i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu">
+<li><a href="#general">General</a></li>
+<li><a href="#business-models">Business Models</a></li>
+<li><a href="#business-value">Business Value</a></li>
+<li><a href="#use-cases">Use Cases</a></li>
+<li><a href="#economics">Economics</a></li>
+<li><a href="#career">Career</a></li>
+<li><a href="#marketing">Marketing</a></li>
+<li><a href="#market-signals">Market Signals</a></li>
+<li><a href="#funding">Funding</a></li>
+</ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="general">General</h2>
+<ul>
+  <li>
+<a href="https://www.radiantlogic.com/blog/top-8-identity-challenges-after-an-ma/">Top 8 Identity Challenges After an Merger and Acquisition</a> 2022-06-20 RadiantLogic
+    <blockquote>
+      <p>If you’re on the IT team, your headaches are just beginning as you’ll be responsible for integrating the new employees into your current tech and identity stack. You’ll be faced with multiple identity sources, a new identity governance and administration (IGA) solution to look at, various LDAP and Active Directory (AD) data sources to deal with, and several cloud applications that use various single sign-on (SSO) solutions to federate identity.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://repository.tudelft.nl/islandora/object/uuid%3A32711378-2f6f-452e-b65c-1866c471e934">Industry-Grade Self-Sovereign Identity: On the Realisation of a Fully Distributed Self-Sovereign Identity Architecture</a> 2021-08-30 Chotkan, Rowdy TU Delft
+    <blockquote>
+      <p>revocation acceptance is at the discretion of individual clients, making our mechanism fully adhere to the principles of Self-Sovereignty. This revocation and verification structure is part of our Industry-Grade Self-Sovereign Identity (IG-SSI) architecture. IG-SSI is a purely academic fully distributed SSI scheme with intrinsic equality across the network. Furthermore, communication is facilitated peer-to-peer, requiring no specialised infrastructure.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.evernym.com/blog/self-sovereign-identity-digital-transformation/">Seven Ways Self-Sovereign Identity Can Enable True Digital Transformation</a> 2021-03-12 Evernym
+    <blockquote>
+      <p>“Self-Sovereign Identity not only presents an opportunity for businesses to build smarter, more secure, and more scalable relationships with customers; but it will enable them to completely rethink how they build trusted digital relationships from the ground up.”</p>
+
+      <p>We expect Digital Transformation to be a more prevalent talking point around digital identity. FOMO can go a long way, to sell SII, for Goverments and Corporations striving to not be left behind in the digital age.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blogs.sap.com/2021/02/18/who-controls-your-digital-identity/">Who Controls Your Digital Identity?</a> 2021-02-18 SAP
+    <blockquote>
+      <p>SSI will have to be integrated with large existing business processes – and therefore enterprise systems such as ERPs, HCMs, or SCMs to name a few. If this integration results in SSI being as easy to use as clicking a button or selecting a menu item, it will lead to rapid uptake and acceptance.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://werd.io/2021/just-ask">Just ask</a> 2021 Werd
+    <blockquote>
+      <p>We’d get the startup founders to figure out the biggest assumptions they were making across user risk (do people want this?), business risk (can this be the center of a viable business?), and feasibility risk (can we build this in a scalable way with the time, team, and resources potentially at our disposal?). And then we’d ask them to go out and figure out how to de-risk those assumptions in the real world, usually by talking to experts and asking smart questions.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/ontologynetwork/ontology-is-now-officially-a-technical-provider-for-enterprise-solutions-through-cointelegraph-80db38c45489">Officially a Technical Provider for Enterprise Solutions through Cointelegraph Consulting</a> 2020-11-04 Ontology
+    <blockquote>
+      <p>Cointelegraph has quietly established itself as a legitimate mediator between established enterprises and blockchain technology providers.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://venturebeat.com/2020/10/28/decentralized-identity-the-key-to-the-digital-era/">Decentralized identity: The key to the digital era?</a> 2020-10-28 Venture Beat
+    <blockquote>
+      <p>They quote <a href="https://www.forrester.com/report/New+Tech+Decentralized+Digital+Identity+DDID+Q1+2020/-/E-RES147115">Forrester</a> “<em>Today’s digital identity frameworks are centralized, suffer from a lack of trust, aren’t portable, and don’t give consumers control.</em>”</p>
+
+      <p>They touch on a new acronym saying : enterprise-level thinking around next-generation authentication is focused on initiatives such as <a href="https://spiffe.io/">SPIFFE</a>, the Secure Production Identity Framework For Everyone</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.continuumloop.com/what-does-self-sovereign-identity-mean-for-my-business/">What Does Self-Sovereign Identity Mean For My Business?</a> 2017-09-22 Continuum Loop
+    <blockquote>
+      <ul>
+        <li>What will happen if I don’t jump on this train?</li>
+        <li>What would it mean if I didn’t have to own my customer’s digital identity but establish a deep digital relationship with them instead?</li>
+        <li>Do I have the capacity to learn about this? If not, who do you trust to figure it out – both on the business and technical sides.</li>
+        <li>What changes when digital identity becomes a revenue driver and asset for your business? (hint: top and bottom line)</li>
+        <li>Which of my competitors is probably already doing this?</li>
+      </ul>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="business-models">Business Models</h2>
+<ul>
+  <li>
+<a href="https://lockstep.com.au/magnetic-stripe-cards-and-verifiable-credentials/">Why plastic cards are a model for verifiable credentials as a service</a> 2022-08-16 Lockstep
+    <blockquote>
+      <p>The plastic card paradigm has some powerful features which are instructive for the emerging VCs-as-a-service industry.</p>
+      <ul>
+        <li>A competitive market of card personalisation bureaus, providing custom production, magnetic stripe encoding, and card distribution and activation, all in commercial bundles which can be purchased by government agencies, banks, professional associations, universities, driver licence bureaus, and so on. On the rear of many plastic cards, the card manufacturer is indicated in fine print. It may well be that the same manufacturer produced your credit cards and government cards.</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blogs.harvard.edu/doc/2022/07/15/subscriptification/">Subscriptification</a> 2022-07-15 Doc Searls
+    <blockquote>
+      <p>Let’s start with what happened to TV.</p>
+
+      <p>For decades, all TV signals were “over the air,” and free to be watched by anyone with a TV and an antenna.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://sgershuni.medium.com/decentralized-business-model-4c540ea5b769">Decentralized Business Model</a> 2021-04-28 Stepan Gershuni
+    <blockquote>
+      <p>How reduction in transaction costs influence evolution in digital business models</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://sgershuni.medium.com/ssi-business-models-and-go-to-market-663813eea3b4">SSI Business Models and Go-to-Market</a> 2021-03-01
+    <blockquote>
+      <p>I’m focusing on the business model and go-to-market aspects.</p>
+
+      <p>What are some limitations and opportunities for making profitable business in self-sovereign identity?</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://trinsic.id/webinar-recap-making-money-with-ssi/">Making Money with SSI</a> 2020-10-20 Trinsic
+    <blockquote>
+      <ul>
+        <li>How to go from a use case to a business case</li>
+        <li>Overcoming common adoption challenges</li>
+        <li>How Trinsic can help you build a successful SSI business</li>
+      </ul>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="business-value">Business Value</h2>
+<ul>
+  <li>
+<a href="https://walton.uark.edu/insights/posts/can-self-sovereign-identity-deliver-business-value-lessons-learned-from-the-nhs.php">Can Self-Sovereign Identity Deliver Business Value?</a> 2022-04-19 Walton College
+    <blockquote>
+      <p>As <a href="https://walton.uark.edu/departments/information-systems/directory/uid/mclacity/name/Mary+Lacity/">Mary Lacity</a> and <a href="https://www.american.edu/kogod/faculty/carmel.cfm">Erran Carmel</a> explore in their whitepaper, <a href="https://cpb-us-e1.wpmucdn.com/wordpressua.uark.edu/dist/5/444/files/2018/01/BCoE2022SS1FINAL.pdf">“Implementing Self-Sovereign Identity (SSI) for a digital staff passport at UK NHS,”</a> the lessons learned by the NHS may point towards ways of unlocking new business value.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.inforisktoday.com/self-sovereign-identity-more-use-cases-a-16448">Decentralized ID Management Business Value of SSI</a> 2021-04-22 Heather Dahl, Ken Ebert Indicio
+    <blockquote>
+      <p>The decentralized workforce is also fueling demand for self-sovereign identity, Dahl says. “When you physically decentralize your workforce in society, the need for identity becomes more important.” She says increasing concerns about protecting privacy are “pushing organizations to consider identity solutions that don’t involve correlation and don’t involve third-party tracking but also provide the security.”</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://bloom.co/blog/how-ssi-can-make-any-platform-a-super-app/">How SSI Can Make Any Platform a ‘Super App’</a> 2021-01-20 Bloom
+    <blockquote>
+      <p>Companies that support a Verifiable Credential Issuance standard can provide audited and truthful information to any third party on behalf of and with specific permission from their customers. For example, a bank could provide proof-of-funds in the form of a digitally verified credential document, that can then be used as a source of truth to instantly initiate a mortgage application, or a real estate purchase offer.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://hackernoon.com/self-sovereign-identity-what-is-the-business-value-uq6l36wh">On Self-Sovereign Identity: What’s the Business Value of SSI?</a> 2019-11-29 Hackernoon
+    <blockquote>
+      <p>To businesses, immediate value comes from removal of the costly and challenging GDPR compliance. <a href="https://www.forbes.com/sites/oliversmith/2018/05/02/the-gdpr-racket-whos-making-money-from-this-9bn-business-shakedown/">Forbes reports</a> that in 2018 in the UK alone $1,1 billion was spent by companies on GDPR preparation, while US companies allocated over $7.8 billion on protecting customers’ personal information.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="use-cases">Use Cases</h2>
+<ul>
+  <li>
+<a href="https://condatis.com/wp-content/uploads/2022/08/Digital_Catapult_Sellafield_DLT_Field_Labs_Report_Final-July-22-ver-2.pdf">Sellafield DLT Field Lab Harnessing the power of distributed ledger technology: how Digital Catapult’s Field Lab methodology can transform your business</a> 2022-07 Condatis
+    <blockquote>
+      <p>The nuclear sector presents an exciting opportunity to implement advanced digital technologies for driving operational improvements and cultural transformation. Our DLT Field Labs showed how some of the challenges that seemed perplexing at the start of our journey have been deciphered through innovation and collaboration.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/@talao_io/blockchains-in-hr-prosoon-and-talao-go-together-on-ssi-and-hr-credentials-3b92968011fe">Blockchains in HR: Prosoon and Talao go together on SSI and HR credentials</a> 2022-01-31 Talao
+    <blockquote>
+      <p>This partnership will enable the use of Blockchain and Self-Sovereign Identity technologies such as verifiable credentials to enable the support of diplomas and professional certifications in compliance with personal data in a decentralized environment (#web3).</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blogs.worldbank.org/psd/self-sovereign-digital-identity-future-digital-business-registry">Is the Self-Sovereign digital identity the future digital business registry?</a> 2021-12-17 GORAN VRANIC, ANDREJA MARUSIC; WorldBank
+    <blockquote>
+      <p>This rapid digitalization of the private sector exposed a challenge in the business registration paradigm. To use private digital platforms for e-Logistics or e-Commerce, SMEs have to register and confirm their identity with these platforms, despite already being identified in the government business registry.
+<img src="https://blogs.worldbank.org/sites/default/files/2021-12/digital_id_blog.jpg" alt=""></p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.tib-op.org/ojs/index.php/bis/article/view/68">Exploring Potential Impacts of Self-Sovereign Identity on Smart Service Systems</a> 2021-04-29  Daniel Richter Dresden, Jürgen Anke
+    <blockquote>
+      <p>At the core of our conceptual analysis is the service process, which we extract from a reference model. Based on a SWOT analysis, we identify areas for transformation and derive an SSI-enabled interaction model for an electric vehicle charging service. The evaluation of the new process shows that SSI can reduce complexity of integration with partners and can provide a better customer experience through simplified registration and authentication.</p>
+    </blockquote>
+  </li>
+  <li>[literature] <a href="https://identity-economy.de/decentralized-ssi-governance-the-missing-link-in-automating-business-decisions">Decentralized SSI Governance, the missing link in automating business decisions</a> 2021-01-15 Rieks Joosten, Sterre den Breeijen, Drummond Reed Evernym, TNO
+    <blockquote>
+      <ul>
+        <li>Self-sovereign identity could save time and money on bureaucratic processes (form filling and validation) by automating business decisions.</li>
+        <li>Business decisions require governance to ensure the data used for making them qualifies (is valid) for that purpose, and continuously remains compliant with laws, regulations, and company policies (which regularly change).</li>
+        <li>Companies could share this governance burden by supporting communities that support the provisioning of SSI-related assurances for their specific purposes.</li>
+        <li>Such (focused) assurance communities could be supported by tools like credential catalogs and accreditation credentials. We hope this paper inspires SSI proponents to develop not only real SSI infrastructure, but also assurance mechanisms for exchanging qualified data.</li>
+      </ul>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="economics">Economics</h2>
+<ul>
+  <li>
+<a href="https://blogs.harvard.edu/doc/2022/02/11/building-a-relationship-economy/">Building a Relationship Economy</a> 2022-02-11 Doc Searls
+    <blockquote>
+      <p>Is there something new that open source development methods and values can bring to the economy? How about something old?</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blogs.harvard.edu/doc/2021/10/04/where-intention/">Where the Intention Economy Beats the Attention Economy</a> 2021-10-04 Doc Searls
+    <blockquote>
+      <p>There’s an economic theory here: Free customers are more valuable than captive ones—to themselves, to the companies they deal with, and to the marketplace. If that’s true, <a href="https://www.amazon.com/Intention-Economy-When-Customers-Charge/dp/1422158527">the intention economy</a> will prove it. If not, we’ll stay stuck in the attention economy, where the belief that captive customers are more valuable than free ones prevails.</p>
+    </blockquote>
+  </li>
+  <li>[Podcast] <a href="https://anchor.fm/ssi-orbit-podcast/episodes/9---Economics-of-Self-Sovereign-Identity-and-the-Future-of-Cryptoeconomics-with-Stepan-Gershuni-euvf32/a-a58m81q">Economics of Self-Sovereign Identity and the Future of Cryptoeconomics with Stepan Gershuni</a> 2021-04-15 SSIOrbit
+    <blockquote>
+      <ul>
+        <li>Biz models of web1, web2, web3</li>
+        <li>SSI Adoption Strategy</li>
+        <li>Verifiability = Economic Efficiencies</li>
+        <li>Cryptoeconomics x SSI (h/t <a href="https://twitter.com/mathieu_glaude">@mathieu_glaude</a>
+</li>
+      </ul>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="career">Career</h2>
+<ul>
+  <li>
+<a href="https://iiw.idcommons.net/22D/_Career_Advice_for_New_Professionals_in_Identity">Career Advice for New Professionals in Identity</a> 2021-05-06 Megan Olsen
+    <blockquote>
+      <p>IIW trying to imagine what’s the proven stuff for 5 years down the road, start designing it now. Bleeding edge of digital identity in some respects. Other pockets of the internet where you can find where the innovators are doing stuff. Most 95% of companies in Identity trying to get some enterprise(s) properly connected, wired up. Industry, IAM. Consider as two separate fields. Identity research, science - vs. Identity Operations. Most work in Identity is Identity Operations and Business practice.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="marketing">Marketing</h2>
+<ul>
+  <li>
+<a href="https://blog.jonudell.net/2022/08/13/how-to-rewrite-a-press-release-a-step-by-step-guide/">How to rewrite a press release: a step-by-step guide</a> 2022-08-13 Jon Udell
+    <blockquote>
+      <p>Lead with key benefits. The release features two: support for diplex-matched antennas and faster workflow. The original headline mentions only the first, I added the second.</p>
+
+      <p>Clarify modifiers. A phrase like “diplex matched antennas” is ambiguous. Does “matched” modify “diplex” or “antennas”? The domain is unfamiliar to me, but I suspected it should be “diplex-matched” and a web search confirmed that hunch.</p>
+
+      <p>Omit needless words. The idea of faster workflow appears in the original first paragraph as “new efficiencies aimed at streamlining antenna design workflows and shortening design cycles.” That’s a long, complicated, yet vague way of saying “enables designers to work faster.”</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://indicio.tech/product/writing-for-verifiable-credentials-marketing-workshop/">Writing for Verifiable Credentials Marketing Workshop</a> 2022-03-24 Indicio
+    <blockquote>
+      <p>An Interactive workshop designed to uncover the winning strategies, and pitfalls to avoid, when communicating decentralized identity to customers, internal stakeholders, and the world.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="market-signals">Market Signals</h2>
+<ul>
+  <li>
+<a href="https://www.linkedin.com/posts/dr-carsten-st%C3%B6cker-1145871_mck-why-digital-trust-truly-matters-activity-6976042326783619072-uSIz/">McK Insights: Why digital trust truly matters, and what it means for your bottom line</a> 2022-09-15 Dr. Carsten Stöcker
+    <blockquote>
+      <p>The results of our survey of more than 1,300 business leaders and 3,000 consumers globally suggest that establishing trust in products and experiences that leverage AI, digital technologies, and data not only meets consumer expectations but also could promote growth.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://indicio.tech/digital-identity-market-signals/">Digital Identity Market Signals</a> 2022-08-03 Indicio
+    <blockquote>
+      <p>Big things are happening in the digital identity space, here we outline just a few recent articles we think everyone should hear about.</p>
+    </blockquote>
+    <ul>
+      <li><a href="https://fcw.com/congress/2022/07/digital-id-bill-sees-action-house-and-senate/374552/%C2%A0">Digital ID bill sees action in the House and Senate</a></li>
+      <li><a href="https://www.biometricupdate.com/202207/will-eu-digital-identity-drop-the-unique-identifier%C2%A0">Will EU digital identity drop the unique identifier?</a></li>
+      <li><a href="https://eandt.theiet.org/content/articles/2022/07/why-digital-identity-will-make-or-break-the-metaverse/%C2%A0">Why digital identity will make or break the Metaverse</a></li>
+      <li><a href="https://www.digit.fyi/young-people-at-greater-risk-of-falling-victim-to-identity-fraud/%C2%A0">Young people at greater risk of falling victim to identity fraud</a></li>
+    </ul>
+  </li>
+  <li>
+<a href="https://lockstep.com.au/wp-content/uploads/2022/07/Steve-Wilson-Identiverse-2022-Market-Failure-0.6-HANDOUTS.pdf">What will we learn from the Market Failure of Digital Identity?</a> 2022-07 Stephen Wilson
+    <blockquote>
+      <p>The common law system countries (AU, CA, NZ, UK &amp; US) left the market to work out identity, and the market “decided” that there’s no need for IdPs. Let us respect that decision. The market has been trying to tell us for over a decade: IDENTITY IS NOT FOR SALE!</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.digitaljournal.com/pr/decentralized-identity-market-see-huge-growth-for-new-normal-microsoft-accenture-persistent">Decentralized Identity Market See Huge Growth for New Normal - Microsoft, Accenture, Persistent</a> 2022-06-10 Digital Journal
+    <blockquote>
+      <ul>
+        <li>Global Economic Impact on Industry</li>
+        <li>Global Market Competition by Manufacturers</li>
+        <li>Global Production, Revenue (Value) by Region</li>
+        <li>Global Supply (Production), Consumption, Export, Import by Regions</li>
+        <li>Global Production, Revenue (Value), Price Trend by Type</li>
+        <li>Global Market Analysis by Application</li>
+        <li>Manufacturing Cost Analysis</li>
+        <li>Industrial Chain, Sourcing Strategy and Downstream Buyers</li>
+        <li>Marketing Strategy Analysis, Distributors/Traders</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://indicio.tech/decentralized-identity-market-signals/">Decentralized Identity Market Signals</a> 2022-05-25 Tim Spring Indicio
+    <blockquote>
+      <p>In this rapid fire review we will take a look at, and break down, the biggest recent stories in digital identity and what they could mean for business and the average person using the internet.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://imageware.io/identity-proofing/">Identity Proofing – Definition, Importance, and Solutions</a> 2022-04-21 Imageware
+    <blockquote>
+      <p>The global market for identity and access management was $9.53 billion USD in 2018 and is expected to reach $24.76 billion USD by the end of 2026, showing a CAGR of 13.2% during the forecast year.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://stateofidentity.libsyn.com/the-shape-of-your-identity">The Shape of your Identity</a> 2022-03-17 State of Identity Podcast
+    <blockquote>
+      <p>How are personal data and digital identity reshaping society? […] Cameron D’Ambrosi is joined by Michael Becker, CEO of Identity Praxis, to discuss the evolution of the identity industry, the latest trends to follow (or flee), and predictions for the future of both consumer and enterprise digital identity.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://liminal.co/reports/market-opportunity-for-reusable-identity/">The Market Opportunity for Reusable Identity and How to Get There</a> 2022-02-03 Liminal
+    <blockquote>
+      <p>The Total Addressable Market is $32.8B in 2022, to reach $266.5B by 2027, with a CAGR of 68.9%. Today, the market is still nascent but is posed for strong growth.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://indicio.tech/global-identity-market-signals/">Global Identity Market Signals</a> 2022-01-08 Indicio
+    <blockquote>
+      <p>Decentralized Identity has gone international! In this week’s GIMS, we’ll talk about some of the most exciting projects and some of the lessons learned from around the globe.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://thepienews.com/news/digitising-credentials-blockchain-use/">Institutions digitising credentials, but blockchain use remains low</a> 2021-05-17 The Pie News	<a href="https://www.aacrao.org/research-publications/aacrao-research/meeting-the-moment-transforming-the-digital-credentials-space">Research</a>
+    <blockquote>
+      <p>While some educational institutions have shifted to issuing EDX, digitally signed PDFs or blockchain verifiable credentials, reliance on paper-based credentials is still widespread. While both paper and even digitally signed PDF credentialing solutions have worked well enough, there are still unaddressed challenges facing students, employers, and other educational stakeholders in a global learning and employment marketplace.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://indicio.tech/new-indicio-executive-workshop-provides-essential-grounding-in-digital-identity-the-business-and-investors-guide-to-self-sovereign-identity/">Indicio Executive Workshop: The Business and Investor’s Guide to Self-Sovereign Identity</a> 2021-12-14 Scott Harris Indicio
+    <blockquote>
+      <p>Participants will <a href="https://indicio.tech/product/executive-education-ssi-workshop/">walk away with an essential understanding</a> of how SSI works, the pain points it solves for, the risks it mitigates, the use cases currently in deployment, and the opportunities that are created by being able to build Trusted Data Ecosystems (TDEs).</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="funding">Funding</h2>
+<ul>
+  <li>
+<a href="https://lists.w3.org/Archives/Public/public-credentials/2022Feb/0142.html">FYI on National Science Foundation (NSF) Funding Opportunity: Pathways to Enable Open-Source Ecosystems program</a> 2022-02
+    <blockquote>
+      <p>NSF is introducing a new program called “Pathways to Enable Open-Source Ecosystems” (POSE).  The purpose of the program is to harness the power of open-source development for the creation of new technology solutions to problems of national and societal importance. Many NSF-funded research projects result in publicly accessible, modifiable, and distributable open-sourced software, hardware or data platforms that catalyze further innovation.</p>
+    </blockquote>
+    <ul>
+      <li>[Deadline 2023-09-07] <a href="https://beta.nsf.gov/funding/opportunities/pathways-enable-open-source-ecosystems-pose">Pathways to Enable Open-Source Ecosystems (POSE)</a> National Science Foundation
+        <blockquote>
+          <p>Supports the facilitation, creation and growth of open-source ecosystems for the creation of new technology solutions.</p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#business" class="page__taxonomy-item p-category" rel="tag">Business</a><span class="sep">, </span>
+    
+      <a href="/tags/#markets" class="page__taxonomy-item p-category" rel="tag">Markets</a><span class="sep">, </span>
+    
+      <a href="/tags/#trends" class="page__taxonomy-item p-category" rel="tag">Trends</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#about" class="page__taxonomy-item p-category" rel="tag">About</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-30">June 30, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&amp;text=Business+%5BValue%2C+Models%2C+Practice%5D+and+Self+Sovereign+Identity%20https%3A%2F%2Fdecentralized-id.com%2Fdevelopment%2Fbusiness%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fdevelopment%2Fbusiness%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fdecentralized-id.com%2Fdevelopment%2Fbusiness%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fdevelopment%2Fbusiness%2F&amp;title=Business+%5BValue%2C+Models%2C+Practice%5D+and+Self+Sovereign+Identity" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/self-sovereign-identity/privacy/" class="pagination--pager" title="Personal Privacy and Self Sovereign Identity
+">Previous</a>
+    
+    
+      <a href="/development/governance-trust-frameworks-registries/" class="pagination--pager" title="Trust Frameworks, Trust Registries, and Machine Readable Governance in Self Sovereign Identity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

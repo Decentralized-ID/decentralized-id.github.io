@@ -1,0 +1,923 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Decentralized Identity. Pre-history + resources for further exploration. |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="As computers began to proliferate, concern grew over our lack of control over our personal information. Naturally arising through this concern, is to consider ways an individual might have ownership over their personal idenitifier that relates with our personal data.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Decentralized Identity. Pre-history + resources for further exploration.">
+<meta property="og:url" content="https://decentralized-id.com/history/">
+
+
+  <meta property="og:description" content="As computers began to proliferate, concern grew over our lack of control over our personal information. Naturally arising through this concern, is to consider ways an individual might have ownership over their personal idenitifier that relates with our personal data.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Decentralized Identity. Pre-history + resources for further exploration.">
+  <meta name="twitter:description" content="As computers began to proliferate, concern grew over our lack of control over our personal information. Naturally arising through this concern, is to consider ways an individual might have ownership over their personal idenitifier that relates with our personal data.">
+  <meta name="twitter:url" content="https://decentralized-id.com/history/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2019-03-04T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2020-01-05T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/history/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/" class="active">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Decentralized Identity. Pre-history + resources for further exploration.">
+    <meta itemprop="description" content="These pages are loosely categorized by year and era. The date ranges, are somewhat arbitrary and not perfectly adhered to, and the headings are not perfect descriptors of those date ranges. Rather those are some major themes occuring within that time period.">
+    <meta itemprop="datePublished" content="2019-03-04T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2020-01-05T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/history/" class="u-url" itemprop="url">Decentralized Identity. Pre-history + resources for further exploration.
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#category-index">Category Index</a></li><li><a href="#pre-history">Pre-History</a><ul><li><a href="#losing-control-over-our-personal-information">Losing Control Over our Personal Information</a><ul><li><a href="#roger-clarke---dataveillance">Roger Clarke - Dataveillance</a></li></ul></li><li><a href="#pgp---web-of-trust">PGP - Web of Trust</a></li></ul></li><li><a href="#resources">resources</a><ul><li><a href="#open-standards">open-standards</a></li></ul></li></ul>
+
+            </nav>
+          </aside>
+        
+        <p><strong>Ultimately, the idea is to put this all into some data-structure, and funnel this information into the identity-commons historical repository:</strong></p>
+
+<p><a href="https://github.com/Identitywoman/identity-commons/blob/master/ID-History.md"><em>Here is a community timeline that was created at IIW in 2011 &amp; renewed at IIW 28 in 2019</em></a></p>
+
+<h2 id="category-index">Category Index</h2>
+
+<p>This history behind decentralized identity is loosely categorized by year and era.</p>
+
+<ul>
+  <li><a href="/history/2000-2009/">User Centric Identity - 2000-2009</a></li>
+  <li><a href="/history/2010-2014">Personal Data Ecosystem - 2010-2014</a></li>
+  <li><a href="/history/2015-2019/">Blockchain Identity - 2015-2019</a></li>
+</ul>
+
+<h2 id="pre-history">Pre-History</h2>
+
+<ul>
+  <li><a href="https://ssimeetup.org/sovereignty-historical-context-self-sovereign-identity-natalie-smolenski-webinar-18/">Sovereignty in Historical Context for Self-Sovereign Identity</a> • <a href="https://www.youtube.com/watch?v=eVDE_svZJD0">video</a>
+    <blockquote>
+      <p>This presentation reflects the first installment of a wider project examining the origins and potential of self-sovereign identity. While the term “self-sovereign identity” has become commonplace within digital identity circles and in the media, what it means in theory and in…</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.telekom.hu/static-tr/sw/file/PKI_tortenete_en.pdf">A short history of PKI</a>
+    <blockquote>
+      <p>The history of the research-development activity of PKI dates back to the renewal of postal and telegraph services at the end of the last century. The modernization was initiated by G·bor Baross, Minister of Commerce. In 1891 PKI was founded by a decree issued by the minister and was the second Post Office Research Station to open in Europe with the task of testing materials used in telegraph and telephone networks to introduce advanced equipment and provide high level services. Its staff included dr. Gyˆrgy BÈkÈsy, a physicist who worked for twenty years for the institute to earn undying merits in acoustics and ultimately to deserve the Nobel prize. In appreciation of its past the Institute, now the development centre of Magyar Telekom, Hungaryís leading telecommunications company, uses the abbreviation of its original name.</p>
+
+      <p>The Institute in 1891 was operating in the Main Office Building of the Hungarian Royal Post Office in P·rizsi Street, then in 1903 moved to the building of a telephone exchange in Nagymező utca. The Institute in 1912 moved in the building in Zombori utca where it operated for 88 years. Network planning activities from 1994 to 2000 were however carried out at a different place, in the former building of the Postal Network Planning Directorate, in RÛna utca.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://tools.ietf.org/html/rfc269">Some Experience with File Transfer</a> - ??</li>
+  <li><a href="https://tools.ietf.org/html/rfc263">“VERY DISTANT” HOST INTERFACE</a> - ??</li>
+  <li><a href="https://tools.ietf.org/html/rfc1174">IAB Recommended Policy on Distributing Internet Identifier Assignment</a> and IAB Recommended Policy Change to Internet “Connected” Status</li>
+  <li><a href="https://web.archive.org/web/20110811175249/http://archive.computerhistory.org/resources/access/text/Oral_History/102702199.05.01.acc.pdf">Oral History of Elizabeth (Jake) Feinler</a></li>
+  <li><a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.7263">Establishing Identity Without Certification Authorities (1996)</a> - Carl M. Ellison - CyberCash, Inc</li>
+  <li><a href="https://www.youtube.com/watch?v=CsTTEwdiNwM">understanding the origins of identity</a>
+    <blockquote>
+      <p>#Identity management is not a new problem. Mawaki Chango, PhD explains briefly it’s interesting history starting from the Roman Catholic Church keeping records of their believers, leading all the way from passports to the current situation we are in with digital identity credentials! At the #MyDataOnline2020 conference.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="losing-control-over-our-personal-information">Losing Control Over our Personal Information</h3>
+
+<p><img src="/images/chaum-security-without-identification-big-brother.webp" alt="" /></p>
+
+<ul>
+  <li><a href="https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf">Security without Identification Transactions Systems to Make Big Brother Obsolete</a> - David Chaum, 1985.
+    <blockquote>
+      <p>The large-scale automated transaction systems of the near future can be designed to protect the privacy and maintain the security of both individuals and organizations. Computerization is robbing individuals of the ability to monitor and control the ways information about them is used. As organizations in both the private and the public sectors routinely exchange such information, individuals have no way of knowing if the information is inaccurate, obsolete, or otherwise inappropriate. The foundation is being laid for a dossier society, in which computers could be used to infer individuals’ life-styles, habits, whereabouts, and associations from data collected in ordinary consumer transactions. Uncertainty about whether data will remain secure against abuse by those maintaining or tapping it can have a “chilling effect,” causing people to alter their observable activities. As computerization becomes mclre pervasive, the potential for these problems will grow dramatically.</p>
+
+      <p>[…]</p>
+
+      <p>The solution is based on an individual’s ability to take a specially coded credential issued under one pseudonym and to transform it into a similarly coded form of the same credential that can be shown under the individual’s other pseudonyms. -<a href="https://www.chaum.com/publications/Security_Wthout_Identification.html"><em>Security without Identification</em></a></p>
+    </blockquote>
+  </li>
+</ul>
+
+<h4 id="roger-clarke---dataveillance">Roger Clarke - Dataveillance</h4>
+
+<ul>
+  <li><a href="http://www.rogerclarke.com/DV/CACM88.html">Information Technology and Dataveillance</a>
+    <blockquote>
+      <p>The concept of ‘dataveillance’ is introduced, and defined as the systematic monitoring of people’s actions or communications through the application of information technology. Dataveillance’s origins are traced, and an explanation provided as to why it is becoming the dominant means of monitoring individuals and populations. The paper identifies, classifies and describes the various dataveillance techniques. It then examines the benefits, and especially the dangers, arising from dataveillance. It considers the intrinsic and extrinsic controls that act to keep the application of dataveillance under control, and suggests some appropriate policy measures.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="pgp---web-of-trust">PGP - Web of Trust</h3>
+
+<p><a href="https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html"><img src="https://i.imgur.com/sMV9PE4.png" alt="" /></a></p>
+
+<ul>
+  <li>Phil <a href="https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html">Zimmerman creates PGP</a>, 1991.
+    <ul>
+      <li>First time strong encryption widely available to general public.</li>
+      <li>PGP’s web-of-trust provide early foundation for SSI. However, PGP is known as difficult to use and failed to reach wide adoption for personal communication\identification.</li>
+    </ul>
+  </li>
+  <li><a href="https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html">Why I wrote PGP</a></li>
+  <li><a href="https://www.linux.com/learn/pgp-web-trust-core-concepts-behind-trusted-communication">PGP -Web of Trust -linux.com</a></li>
+  <li><a href="https://www.linux.com/learn/pgp-web-trust-core-concepts-behind-trusted-communication">PGP Web of Trust: Core Concepts Behind Trusted Communication - Lin…</a>
+    <blockquote>
+      <p>Public Key Cryptography infrastructure (PKI) has two main implementations. One is done using certificates and certificate authorities (CAs), and is described in the X.509 standard. It is best suited for structured organizational hierarchies with an implicitly trusted authorit…</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/PGP-Paradigm.pdf">The PGP Paradigm</a>. by Jon Callas and Philip Zimmermann
+    <blockquote>
+      <p>This chapter describes the mechanisms that PGP® software uses for its public key infrastructure. Much has written about PGP and practical public key cryptography. Much of this is to our opinion only mostly accurate. It is our goal in this chapter to describe the PGP models, as well as their implementation, standardization, and use. We also will put this in its historic and political context.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="resources">resources</h2>
+
+<ul>
+  <li><a href="http://www.identityblog.com">Identity Blog</a></li>
+  <li><a href="http://wiki.idcommons.net/History">History</a> - wiki.idcommons.net</li>
+  <li><a href="http://wiki.idcommons.net/History">Identity Commons-History</a> -wiki.idcommons.net</li>
+  <li><a href="https://identitywoman.net/">Identity Woman</a></li>
+  <li><a href="https://internetidentityworkshop.com/past-workshops/">IIW - Past Workshops</a></li>
+  <li><a href="http://www.windley.com/tags/identity.shtml">windley.com/tags/identity</a></li>
+  <li><a href="http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html">Path to Self Sovereign Identity</a></li>
+  <li><a href="https://github.com/WebOfTrustInfo/">Web of Trust Info</a> - github
+    <blockquote>
+      <p>Shared repositories for #RebootingWebOfTrust Design Workshops - Web of Trust Info</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.slideshare.net/prabathsiriwardena/the-evolution-of-internet-identity">The Evolution of Internet Identity</a></li>
+  <li><a href="https://medium.com/humanizing-the-singularity/a-brief-history-of-digital-identity-9d6a773bf9f5">A Brief History of Digital Identity</a>
+    <blockquote>
+      <p>Many histories of digital identity start at the advent of the Internet, but the construction of name spaces is much older.</p>
+
+      <p>Identity in our social systems is less concerned with encapsulating the human and more about the act of naming. As Silicon Valley’s Jared Dunn says in a moment of sad wisdom, “a name is just a sound that somebody makes when they need you.” The purpose of these names (or numbers) is to prove the uniqueness of a particular individual, to ensure accountability, and to establish some trust between individuals and institutions, to provide points of reference for the framework of laws and other social contracts that run our society.</p>
+    </blockquote>
+  </li>
+  <li><a href="http://web.archive.org/web/20110207095948/docs.safehaus.org/display/HAUS/Id+OSS+Map">Identity Management OSS Map</a> - web.archive.org</li>
+  <li><a href="http://identityaccessmanagement.blogspot.com/2005/05/vendor-list.html">Vendor List</a> - identityaccessmanagement.blogspot.com
+    <blockquote>
+      <p>Updated: November 12 2006 I am trying to come up with the list of vendors and associated products in the Identity and Access Management ar…</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.slideshare.net/solutist/rebooting-digital-identity-how-the-social-web-is-transforming-citizen-behaviours-and-expectations">Rebooting digital identity: how the social web is transforming citizen behaviours and expectations</a> -  Slideshare - 2012</li>
+  <li><a href="https://www.iotevolutionworld.com/iot/articles/410328-step-back-time-history-evolution-digital-identity.htm">A Step Back in Time: The History and Evolution of Digital Identity</a>
+    <blockquote>
+      <p>As Identity 3.0 continues to evolve, fascinating implementations and use cases are on the rise with the most talked-about frontier of the technological landscape: the Internet of Things (IoT).</p>
+    </blockquote>
+  </li>
+  <li><a href="http://wiki.idcommons.org/Identity_Trust_Charter">Identity Trust Charter</a>
+    <blockquote>
+      <p>To advocate and facilitate open (not closed) internet policy notices and terms that enable people to control personal information. Enabling a rich ecosystem of granualr controls to set personal information free from its current privacy prison.</p>
+
+      <p>Both Consent and Notice are primary tools online used to legally control and administer the flow of personal sharing and disclosure of information online. At this time this policy infrastructure is a relic of the industrial age, broken by surveillance capitalists, and not usable for privacy rights in context with identity management.</p>
+    </blockquote>
+    <ul>
+      <li><a href="http://wiki.idcommons.org/Identity_Trust_Charter#Influential_Works_.26_Events">Influential Works</a>
+        <blockquote>
+          <p>Some Papers, Presentations &amp; Hackathons: international privacy</p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ujYqOXNEaaogEq" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen=""> </iframe>
+<p><strong> <a href="//www.slideshare.net/prabathsiriwardena/the-evolution-of-internet-identity">The Evolution of Internet Identity</a> </strong> from <strong> <a href="https://www.slideshare.net/prabathsiriwardena">Prabath Siriwardena</a> </strong></p>
+
+<h3 id="open-standards">open-standards</h3>
+
+<ul>
+  <li><a href="https://ssimeetup.org/story-open-ssi-standards-drummond-reed-evernym-webinar-1/">The Story of Open SSI Standards - Drummond Reed/Evernym - Webinar 1</a> • <a href="https://www.youtube.com/watch?v=RllH91rcFdE">video</a> • <a href="https://www.slideshare.net/SSIMeetup/self-sovereign-identity-ssi-open-standards-with-drummond-reed">Self Sovereign Identity (SSI) Open standards with Drummond Reed</a>
+    <blockquote>
+      <p>Drummond Reed, Chief Trust Officer at Evernym and Sovrin Foundation Trustee, features in our first Webinar “The Story of SSI Open Standards” by giving us the background on the foundation of Self Sovereign Identity.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://iiw.idcommons.net/Identity_Standards:_The_Soap_Opera_(catch_up_on_previous_episodes_%2B_review_major_plot_points">Identity_Standards: The_Soap Opera* - catch_up_on_previous episodes</a></li>
+</ul>
+
+<p><img src="https://i.imgur.com/XtZQg0j.png" alt="" /></p>
+
+<p><img src="https://i.imgur.com/FBe3S0w.png" alt="" /></p>
+
+<p><img src="https://i.imgur.com/5R51G4Y.png" alt="" /></p>
+
+<p><img src="https://i.imgur.com/xmWkc4l.png" alt="" /></p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#dpki" class="page__taxonomy-item p-category" rel="tag">DPKI</a><span class="sep">, </span>
+    
+      <a href="/tags/#history" class="page__taxonomy-item p-category" rel="tag">History</a><span class="sep">, </span>
+    
+      <a href="/tags/#idcommons" class="page__taxonomy-item p-category" rel="tag">IDCommons</a><span class="sep">, </span>
+    
+      <a href="/tags/#ietf" class="page__taxonomy-item p-category" rel="tag">IETF</a><span class="sep">, </span>
+    
+      <a href="/tags/#iiw" class="page__taxonomy-item p-category" rel="tag">IIW</a><span class="sep">, </span>
+    
+      <a href="/tags/#pgp" class="page__taxonomy-item p-category" rel="tag">PGP</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#history" class="page__taxonomy-item p-category" rel="tag">History</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2020-01-05">January 5, 2020</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Decentralized+Identity.+Pre-history+%2B+resources+for+further+exploration.%20https%3A%2F%2Fdecentralized-id.com%2Fhistory%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fhistory%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fhistory%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fhistory%2F&title=Decentralized+Identity.+Pre-history+%2B+resources+for+further+exploration." class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/web-standards/" class="pagination--pager" title="Web Standards and the Emerging Decentralized ID Stack
+">Previous</a>
+    
+    
+      <a href="/blockchain/ethereum/" class="pagination--pager" title="Ethereum and Decentralized Identity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

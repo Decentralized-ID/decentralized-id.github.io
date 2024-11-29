@@ -1,0 +1,942 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Bitcoin and Self Sovereign Identity (ION + BTCR) |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Ion handles the decentralized identifiers, which control the ability to prove you own the keys to this data.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Bitcoin and Self Sovereign Identity (ION + BTCR)">
+<meta property="og:url" content="https://decentralized-id.com/blockchain/bitcoin/">
+
+
+  <meta property="og:description" content="Ion handles the decentralized identifiers, which control the ability to prove you own the keys to this data.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Bitcoin and Self Sovereign Identity (ION + BTCR)">
+  <meta name="twitter:description" content="Ion handles the decentralized identifiers, which control the ability to prove you own the keys to this data.">
+  <meta name="twitter:url" content="https://decentralized-id.com/blockchain/bitcoin/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2019-03-11T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-25T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/blockchain/bitcoin/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero"
+  style=" background-image: url('');"
+>
+  
+    <img src="/images/btcr-header.webp" alt="Bitcoin and Self Sovereign Identity (ION + BTCR)" class="page__hero-image">
+  
+  
+</div>
+
+
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Bitcoin and Self Sovereign Identity (ION + BTCR)">
+    <meta itemprop="description" content="ION does not rely on centralized entities, trusted validators, or special protocol tokens – ION answers to no one but you, the community. Because ION is an open, permissionless system, anyone can run an ION node, in fact the more nodes in operation, the stronger the network becomes.">
+    <meta itemprop="datePublished" content="2019-03-11T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-25T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/blockchain/bitcoin/" class="u-url" itemprop="url">Bitcoin and Self Sovereign Identity (ION + BTCR)
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          7 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#ion">ION</a><ul><li><a href="#code">Code</a></li></ul></li><li><a href="#btcr">BTCR</a><ul><li><a href="#about-btcr">About BTCR</a></li></ul></li><li><a href="#prior-work">Prior Work</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <p><img src="https://i.imgur.com/q32lAXY.png" alt="" /></p>
+
+<h2 id="ion">ION</h2>
+
+<ul>
+  <li><a href="https://bitcoinmagazine.com/technical/dids-built-on-bitcoin-fix-the-web">How Decentralized Identifiers and Bitcoin Fix the Web</a> 2021-10-13 Bitcoin Magazine
+    <blockquote>
+      <p>On October 4, 2021, Facebook, along with WhatsApp and Instagram, <a href="https://blog.cloudflare.com/october-2021-facebook-outage/">disappeared from the internet</a>.</p>
+
+      <p>Their DNS names stopped resolving, and their infrastructure IPs were offline. They were completely disconnected from the internet. At the same time, it was reported that <a href="https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/">1.5 billion people allegedly had their personal data stolen from Facebook</a> and posted for sale.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.coindesk.com/microsoft-launches-decentralized-identity-tool-on-bitcoin-blockchain">Microsoft is launching the first decentralized infrastructure implementation by a major tech company that is built directly on the bitcoin blockchain.</a> 2021-09-13 Coindesk
+    <blockquote>
+      <p>“To have Microsoft say they are not scared of bitcoin, and in fact, it has some very good properties and we are willing to take advantage of those properties, is, I think, a step in the right direction.”</p>
+    </blockquote>
+  </li>
+  <li><a href="https://iiw.idcommons.net/3A/_ION_101-401:_what_is_ION_(the_public,_permissionless_DID_network),_how_can_you_use_it_today,_and_what_comes_next">ION 101-401: what is ION (the public, permissionless DID network), how can you use it today, and what comes next</a> 2021-05-06 Daniel Buchner (Microsoft)
+    <blockquote>
+      <ul>
+        <li>Decentralization of did:ion if anchoring transactions are batched by an operator: it’s possible to choose the operator or to incur the cost of anchoring the transactions. Furthermore, the operator doesn’t gain access to the private key.</li>
+        <li>ION delivers: massive scale, cost efficiency (despite running on the bitcoin network - best case if bitcoin a transaction costs 100 USD one action costs 1 cent), decentralized &amp; flexible, decentralized registries</li>
+        <li>ION has a type system so that DIDs can be used, e.g. for software packages, vehicles, … This makes it possible to make the centralized data repositories that we rely on today, npm registries etc., to be fully decentralized. This is a Sidetree feature that is currently only used by ION.</li>
+        <li>DIF is currently working on personal data stores. Expected impact on private messaging, social media, gig services, ..</li>
+        <li>ION is live and in production today</li>
+        <li>Ion-tools is a selection of tools to interact with the ION network: <a href="https://github.com/decentralized-identity/ion-tools">https://github.com/decentralized-identity/ion-tools</a></li>
+        <li>Resilience of ION: It’s pointed out that not only Bitcoin needs to survive attacks but also the IPFS network as both are required for ION to work properly. With Bitcoin it looks unlikely that it’s currently possible to reverse transactions on the network. However, with IPFS data can be unpinned and potentially disappear from the network.</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://techcommunity.microsoft.com/t5/identity-standards-blog/ion-we-have-liftoff/ba-p/1441555">ION – We Have Liftoff!</a> 2021-03-25
+    <blockquote>
+      <p>We are excited to share that v1 of <a href="https://identity.foundation/ion/">ION</a> is complete and has been launched on Bitcoin mainnet. We have deployed an ION node to our production infrastructure and are working together with other companies and organizations to do so as well. ION does not rely on centralized entities, trusted validators, or special protocol tokens – ION answers to no one but you, the community. Because ION is an open, permissionless system, anyone can run an ION node, in fact the more nodes in operation, the stronger the network becomes. Development of ION, and the Sidetree standard ION is based on, takes place in the <a href="https://identity.foundation/">Decentralized Identity Foundation</a> (DIF). Read on to learn how you can integrate ION, DIDs, and Verifiable Credentials in your applications and services.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://ssimeetup.org/introduction-ion-layer-2-network-decentralized-identifiers-bitcoin-daniel-buchner-webinar-29/">Introduction to Ion – a layer 2 network for Decentralized Identifiers with Bitcoin - Daniel Buchner</a> 2019-06-13 SSI Meetup
+    <blockquote>
+      <p>Microsoft presented in May 2019 in New York the first decentralized infrastructure implementation by a major tech company that is built directly on the Bitcoin blockchain called Ion. Daniel Buchner, who is leading this initiative at Microsoft and a founding member of the Decentralized Identity Foundation, will discuss the culture at Microsoft, how decentralized identity works with Bitcoin and what you need to know to use the Bitcoin blockchain for non-financial transactions.</p>
+
+      <p>Ion handles the decentralized identifiers, which control the ability to prove you own the keys to this data.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.youtube.com/watch?v=agPVWVe0p3Q">Introduction to Ion – a layer 2 network for Decentralized Identifiers with Bitcoin</a> 2019-06-13 Daniel Buchner, SSI Meetup
+    <blockquote>
+      <p>Microsoft presented in May 2019 in New York the first decentralized infrastructure implementation by a major tech company that is built directly on the Bitcoin blockchain called Ion. Daniel Buchner, who is leading this initiative at Microsoft and a founding member of the Decentralized Identity Foundation, will discuss the culture at Microsoft, how decentralized identity works with Bitcoin and what you need to know to use the Bitcoin blockchain for non-financial transactions.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.whatbitcoindid.com/podcast/daniel-buchner-on-why-microsoft-is-building-on-bitcoin">Daniel Buchner on Why Microsoft is Building Decentralised IDs on Bitcoin</a> 2019-05-17 What Bitcoin Did
+    <blockquote>
+      <p>During blockchain week in New York, Microsoft announced the launch of their decentralised identity programme which will use the Bitcoin blockchain to create user identifiers. In this episode, I talk with Daniel Buchner, who is leading this initiative at Microsoft, we discuss the culture at Microsoft, how decentralised IDs work and the ethics of using the Bitcoin blockchain for non-financial transactions.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://techcommunity.microsoft.com/t5/azure-active-directory-identity/toward-scalable-decentralized-identifier-systems/ba-p/560168">Toward scalable decentralized identifier systems</a> 2019-05-13 Microsoft
+    <blockquote>
+      <p>Today’s post is the next step in realizing our vision for the future of decentralized identities, <a href="https://www.microsoft.com/en-us/microsoft-365/blog/2018/02/12/decentralized-digital-identities-and-blockchain-the-future-as-we-see-it/">which we laid out last year</a>. We believe every person needs a decentralized, digital identity they own and control, backed by self-owned identifiers that enable secure, privacy preserving interactions. This self-owned identity must seamlessly integrate into their lives and put them at the center of everything they do in the digital world.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2DjfY">Decentralized Identity - Own and control your identity</a> 2018-09-24 Microsoft Identity Whitepaper
+    <blockquote>
+      <p>Microsoft cloud identity systems already empower developers, organizations, and billions of people to work, play, and achieve more, but there’s so much more we can do to create a world where each of us, even in displaced populations, can pursue our life goals, including educating our children, improving our quality of life, and starting a business.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="code">Code</h3>
+<ul>
+  <li><a href="https://github.com/decentralized-identity/ion">decentralized-identity/ion</a> 2023-05-20 DIF
+    <blockquote>
+      <p>ION is a public, permissionless, Decentralized Identifier (DID) network that implements the blockchain-agnostic Sidetree protocol on top of Bitcoin (as a ‘Layer 2’ overlay) to support DIDs/DPKI (Decentralized Public Key Infrastructure) at scale.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/decentralized-identity/ion/blob/master/install-guide.md">Install Guide</a> 2023-01-26 DIF
+    <blockquote>
+      <p>An implementation of the Sidetree protocol atop the Bitcoin blockchain.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/decentralized-identity/ion-integration-test">ion-integration-test</a> 2022-03-18
+    <blockquote>
+      <p>An integration test script that helps verify that the sidetree microservices are working properly.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/decentralized-identity/ion-sdk">ion-sdk</a> 2023-06-21
+    <blockquote>
+      <p>TypeScript SDK for ION</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/decentralized-identity/ion-tools">ion-tools</a> 2023-06-23
+    <blockquote>
+      <p>Tools and utilities to make working with the ION network and using ION DIDs easy peasy lemon squeezy</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="btcr">BTCR</h2>
+<ul>
+  <li><a href="https://w3c-ccg.github.io/didm-btcr/">BTCR DID Method</a> • [source](https://github.com/w3c-ccg/didm-btcr
+    <ul>
+      <li>The Bitcoin Reference method has minimal design goals: a DID trust anchor based on the Bitcoin blockchain, updates publicly visible and auditable via Bitcoin transactions, and optionally, additional DID Document information referenced in the transaction OP_RETURN data field. No other Personal Identifiable Information (PII) would be placed on the immutable blockchain.</li>
+    </ul>
+  </li>
+  <li><a href="https://weboftrustinfo.github.io/btcr-tx-playground.github.io/">The BTCR DID Method playground</a> 2019-11-14 Rebooting Web of Trust</li>
+  <li><a href="https://nbviewer.jupyter.org/github/WebOfTrustInfo/rebooting-the-web-of-trust-spring2018/blob/master/final-documents/btcr-resolver.pdf">BTCR DID Resolver Specification</a> 2018-04-17 Rebooting Web of Trust
+    <blockquote>
+      <p>This describes the process of resolving a BTCR DID into a DID Document. The draft reference implementation is available at <a href="https://github.com/WebOfTrustInfo/btcr-did-tools-js">https://github.com/WebOfTrustInfo/btcr-did-tools-js</a> (see didFormatter.js). Note not all steps described in this document are implemented yet.</p>
+
+      <p>See the <a href="https://weboftrustinfo.github.io/btcr-tx-playground.github.io/">BTCR playground</a> for a live demonstration. The BTCR playground uses the draft reference implementation BTCR DID resolver.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="about-btcr">About BTCR</h3>
+<ul>
+  <li><a href="https://www.smartcontractresearch.org/t/research-summary-studying-bitcoin-privacy-attacks-and-their-impact-on-bitcoin-based-identity-methods/1790">Research Summary: Studying Bitcoin privacy attacks and their Impact on Bitcoin-based Identity Methods</a> 2022-07 SmartContractResearch
+    <blockquote>
+      <p>We investigate the privacy of the method <a href="https://w3c-ccg.github.io/didm-btcr/">did:btcr</a> based on the criteria adopted from <a href="https://www.rfc-editor.org/info/rfc6973">RFC 6973</a>.</p>
+      <ul>
+        <li>Surveillance</li>
+        <li>Correlation</li>
+        <li>Identification</li>
+        <li>Secondary Use</li>
+        <li>Disclosure</li>
+        <li>Misattribution</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/@kimdhamilton/btcr-did-method-updates-d0fd14386139">BTCR DID Method Updates</a> 2019-07-01 Kim Hamilton Duffy
+    <blockquote>
+      <p>The Bitcoin Reference DID method (did:btcr) is designed as a minimal, secure, and open Decentralized Identifier (DID) method anchored to the Bitcoin blockchain. DIDs are an interoperable locator for identity that does not require permission from anyone else. The BTCR method specifically is fully open source — not tied to a commercial vendor — which makes it a valuable vendor-agnostic demonstration of the emerging DID specification.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://ssimeetup.org/dids-demystified-hands-intro-dids-btcr-did-method-kim-hamilton-duffy-webinar-5/">DIDs Demystified: A hands-on intro to DIDs via the BTCR DID Method – Kim Hamilton Duffy – Webinar 5</a> 2018-06-01 Kim Hamilton Duffy SSI Meetup
+    <blockquote>
+      <p>This talk will demystify Decentralized Identifiers (DIDs) via the simple Bitcoin Reference (BTCR) DID Method. Kim will introduce the basics of DIDs and show how they work in action through demos of the creation/updating and resolution process in BTCR. We’ll build on this knowledge by discussing advanced features enabled by DIDs, along with a brief survey of other DID methods. By the end of the talk, you’ll be able to create and resolve your own BTCR DIDs through the live BTCR playground.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://github.com/WebOfTrustInfo/rwot5-boston/tree/master/topics-and-advance-readings/first-xdi-link-contract-between-btcr-did-and-sov-did.md">First XDI Link Contract between “btcr” DID and “sov” DID</a> 2017-10-02 Markus Sabadello
+    <blockquote>
+      <p>We describe an XDI link contract established between two XDI peers, one of which is identified by a btcr DID, and one by a sov DID. We believe this is the first working example of cross-DID-method data sharing and messaging.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="prior-work">Prior Work</h2>
+<ul>
+  <li><a href="https://vinnylingham.com/civic-enabling-the-future-of-privacy-digital-security-with-chainauth-b79d61904d4c">Enabling the future of privacy &amp; digital security with ChainAuth™</a> 2017-03-25 Vinny Lingham Civic
+    <blockquote>
+      <p>So, what’s so special about Civic and how does it work? We’ve been developing a new type of authentication service, called ChainAuth™, which uses the Bitcoin Blockchain to validate your identity credentials — your personal information is never stored on the blockchain, but we utilize the cryptographic infrastructure to ensure that the data on your device is never changed or compromised.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.newsbtc.com/2015/09/09/bitnation-taps-blockchain-tech-to-aid-refugees/">Bitnation taps Blockchain tech to aid Refugees</a> 2015-09-09 NewsBTC
+    <blockquote>
+      <p>According to its website, the BRER is a humanitarian aid project of BitNation to facilitate and provide emergency services and humanitarian aid to refugees during the European Refugee Crisis of September 2015. But while some bitcoin companies have made use mostly of the cryptocurrency to funnel donations, BitNation is focusing on the applications of the distributed public ledger.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://en.bitcoin.it/wiki/Identity_protocol_v1">Identity protocol v1</a> 2015-05-14 bitcoin wiki
+    <blockquote>
+      <p>tl;dr: A “master public key” generated by the user forms the root of digital trust.</p>
+    </blockquote>
+  </li>
+</ul>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#bitcoin" class="page__taxonomy-item p-category" rel="tag">Bitcoin</a><span class="sep">, </span>
+    
+      <a href="/tags/#blockchain" class="page__taxonomy-item p-category" rel="tag">Blockchain</a><span class="sep">, </span>
+    
+      <a href="/tags/#btcr" class="page__taxonomy-item p-category" rel="tag">BTCR</a><span class="sep">, </span>
+    
+      <a href="/tags/#history" class="page__taxonomy-item p-category" rel="tag">History</a><span class="sep">, </span>
+    
+      <a href="/tags/#ion" class="page__taxonomy-item p-category" rel="tag">ION</a><span class="sep">, </span>
+    
+      <a href="/tags/#microsoft" class="page__taxonomy-item p-category" rel="tag">Microsoft</a><span class="sep">, </span>
+    
+      <a href="/tags/#rwot" class="page__taxonomy-item p-category" rel="tag">RWoT</a><span class="sep">, </span>
+    
+      <a href="/tags/#xdi" class="page__taxonomy-item p-category" rel="tag">XDI</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#web-3" class="page__taxonomy-item p-category" rel="tag">Web 3</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-25">June 25, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Bitcoin+and+Self+Sovereign+Identity+%28ION+%2B+BTCR%29%20https%3A%2F%2Fdecentralized-id.com%2Fblockchain%2Fbitcoin%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fblockchain%2Fbitcoin%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fblockchain%2Fbitcoin%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fblockchain%2Fbitcoin%2F&title=Bitcoin+and+Self+Sovereign+Identity+%28ION+%2B+BTCR%29" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/organizations/sovrin-foundation/" class="pagination--pager" title="The Sovrin Foundation
+">Previous</a>
+    
+    
+      <a href="/resources/literature/" class="pagination--pager" title="Research, Literature, Reports related to Self Sovereign Identity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

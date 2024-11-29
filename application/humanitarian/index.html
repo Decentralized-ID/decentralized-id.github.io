@@ -1,0 +1,1005 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Humanitarian Aid |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Self-Sovereign Identity for Humanitarian Interventions">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Humanitarian Aid">
+<meta property="og:url" content="https://decentralized-id.com/application/humanitarian/">
+
+
+  <meta property="og:description" content="Self-Sovereign Identity for Humanitarian Interventions">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Humanitarian Aid">
+  <meta name="twitter:description" content="Self-Sovereign Identity for Humanitarian Interventions">
+  <meta name="twitter:url" content="https://decentralized-id.com/application/humanitarian/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2020-12-30T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-15T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/application/humanitarian/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Humanitarian Aid">
+    <meta itemprop="description" content="When forced to flee your home from one moment to the next, grabbing birth certificates, school diplomas, and other papers that prove you are who you say you are might not be the first thing that comes to mind. And without those credentials, everything is more difficult when it comes to starting a new life or picking up the pieces of an old one">
+    <meta itemprop="datePublished" content="2020-12-30T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-15T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/application/humanitarian/" class="u-url" itemprop="url">Humanitarian Aid
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          13 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#explainer">Explainer</a></li><li><a href="#inclusion">Inclusion</a></li><li><a href="#marginalized">Marginalized</a></li><li><a href="#refugees">Refugees</a></li><li><a href="#projects">Projects</a></li><li><a href="#business">Business</a></li><li><a href="#biometrics">Biometrics</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="explainer">Explainer</h2>
+
+<ul>
+  <li><a href="https://www.thenewhumanitarian.org/podcast/2022/03/31/Fixing-Aid-can-blockchain-help-fix-the-ID-problem-for-a-billion-people">Fixing Aid - Can blockchain help fix the I.D. problem for a billion people?</a> 2022-03-31 The New Humanitarian
+    <blockquote>
+      <p>When forced to flee your home from one moment to the next, grabbing birth certificates, school diplomas, and other papers that prove you are who you say you are might not be the first thing that comes to mind. And without those credentials, everything is more difficult when it comes to starting a new life or picking up the pieces of an old one: applying for asylum, applying for a job, or registering to receive aid and other kinds of support.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.linkedin.com/pulse/ukraine-why-centralized-identity-systems-can-cause-problem-freitag/">Ukraine: Why centralized Identity systems can cause a problem</a> 2022-02-25 Andreas Freitag
+    <blockquote>
+      <p>Let’s imagine a country that has a modern digital identity infrastructure. Citizens can use it to identify themselves online and offline, communicate with authorities online, they can quickly log into private services and websites and any documents can be created and digitally signed.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/caribou-digital/satellite-and-geospatial-tech-for-humanitarian-crises-b90b670aba46">Satellite and geospatial tech for humanitarian crises</a> 2021-12-09 Caribou Digital
+    <blockquote>
+      <p>The discussion covered a broad range of topics, from specific data availability to the challenges of applying and translating technical data into usable formats to the application of geospatial data for anticipatory humanitarian response</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="inclusion">Inclusion</h2>
+<ul>
+  <li><a href="https://openresearch.ocadu.ca/id/eprint/3937/">Unmasking Power: Alternative Futures for Empowering Our Digital Identities</a> 2022 Chopra, Shreya
+    <blockquote>
+      <p>The project is directed primarily toward design and innovation teams, and associated knowledge workers, whose efforts have significant influence on future technologies, platforms, and their impacts. This work explores how we might deconstruct power dynamics prevalent in digital service design today. Through multiple analyses, maps and models of these systems, the paper reveals multiple opportunities for change.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://ssir.org/articles/entry/disrupting_the_gospel_of_tech_solutionism_to_build_tech_justice#">Disrupting the Gospel of Tech Solutionism to Build Tech Justice</a> 2022-06-16 SSIR
+    <blockquote>
+      <p>What does it mean to include new voices unless we create a context in which those voices are welcome and heard? To create those conditions, leaders in civil society and the private and public sectors must challenge institutional power and center the discussion on core social justice issues such as racism and structural inequality.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.continuumloop.com/inclusion-in-digital-identity-products/">Over 1 Billion People Worldwide Lack Legal ID</a> 2022-05-17 Continuum Loop
+    <blockquote>
+      <p>Inclusion is important in all aspects of life, including digital identity products. By ensuring that everyone is included in the development process, we can create products that meet the needs of everyone […]</p>
+
+      <p>Input from many people from diverse backgrounds is essential to our work on the SSI Harm’s Task Force. I hope you’ll consider <a href="https://wiki.trustoverip.org/display/HOME/Human+Experience+Working+Group">joining us</a> – whether you want to contribute or just observe, everyone is welcome!</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/caribou-digital/online-livelihoods-and-young-womens-economic-empowerment-in-nigeria-ccbbea4020e2">Online livelihoods and young women’s economic empowerment in Nigeria</a> 2021-10-05 Caribou Digital
+    <blockquote>
+      <p>1) In what ways might platform work empower women?
+2) How can we make platforms work better for women?</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/berkman-klein-center/decolonial-humanitarian-digital-governance-48b35b05b110">Decolonial Humanitarian Digital Governance</a> 2021-04-16 Berkman Klein
+    <blockquote>
+      <p>Can humanitarian digital policy be decolonized?</p>
+
+      <p>As humanitarian organisations do not tend to traditionally have the requisite digital or technology expertise in-house, they partner externally to achieve their aims.</p>
+
+      <p>The provocations:</p>
+
+      <ol>
+        <li>What if shared well-being became the standard of success for our nations?</li>
+        <li>Are we ready to move from an era that rewards extraction to one that prioritizes regeneration?</li>
+        <li>How will we move from an era of destabilizing information into an age of trusted wisdom?</li>
+        <li>Can we dismantle industrial-age silos between work, home, education, play, and community?</li>
+      </ol>
+    </blockquote>
+  </li>
+  <li><a href="https://stateofidentity.libsyn.com/world-bank-the-inclusion-challenge">World Bank Inclusion Challenge</a> 2020-10-15 State of Identity Vyjayanti Desai
+    <blockquote>
+      <p>Vyjayanti Desai, Practice Manager for the ID4D and G2Px, two global, multi-sectoral initiatives of the World Bank Group joins State of Identity to discuss The Mission Billion Challenge. The solutions-focused challenge highlights the fundamental role that digital platforms can play in helping a country to effectively provide assistance to its people.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.slideshare.net/SSIMeetup/didi-ssi-public-blockchains-for-inclusion-in-argentina-and-latam">DIDI, SSI &amp; public blockchains for inclusion in Argentina and LATAM</a> 2019-05-24 SSIMeetup
+    <blockquote>
+      <p>The objective of DIDI, is to reduce social inequalities, the penalization of poverty and to promote financial inclusion of these populations, identifiable worldwide, but above all, in Latin America, where DIDI will do its first steps, facilitating access to quality goods and services. The first DIDI pilot will be launched through the development of a self-sovereign identity (SSI) platform in the Padre Mugica neighborhood, Ciudad de Buenos Aires, Argentina.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://repository.tudelft.nl/islandora/object/uuid:6cdb5450-9a81-47a9-8ffa-f9bd77c72448/datastream/OBJ1/download">Self-Sovereign Identity Systems for Humanitarian Interventions—A Case Study on Protective Cash Transfer Programs</a> 2018-08-01 L. Stevens Tu Delft
+    <blockquote>
+      <p>This research creates a functional blockchain based system, that enables identities for the use-case of Cash Transfer Programs.<br />
+Results: We present a validated set of ten design decisions that represent the trade-offs that have been made and prescribe a blueprint for a technical design.<br />
+Next steps: Future research should be done on how such a system could be implemented and used. This would require a process design approach that has to be developed, Also, elaborate research into user experience and user interfaces should be conducted.</p>
+    </blockquote>
+  </li>
+  <li>[literature] <a href="https://www.frontiersin.org/articles/10.3389/fbloc.2019.00028/full">Self-Sovereign Identity in a Globalized World: Credentials-Based Identity Systems as a Driver for Economic Inclusion</a> 2020-01-23 Fennie Wang, Primavera De Filippi
+    <blockquote>
+      <p>the paper will focus on two blockchain-based identity solutions as case studies: (1) Kiva’s identity protocol for building credit history in Sierra Leone, and (2) World Food Programme’s Building Blocks program for delivering cash aid to refugees in Jordan. Finally, the paper will explore how the combination of blockchain-based cryptocurrencies and self-sovereign identity may contribute to promoting greater economic inclusion.</p>
+    </blockquote>
+    <ul>
+      <li><a href="https://vladanlausevic.medium.com/empowering-humans-for-a-digital-age-and-global-economy-via-self-sovereign-identity-457ef947f33b">Empowering humans for a digital age and global economy via Self-Sovereign Identity</a> 2020-06-20 Vladan Lausevic</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="marginalized">Marginalized</h2>
+
+<ul>
+  <li><a href="https://www.eff.org/deeplinks/2022/05/what-companies-can-do-now-protect-digital-rights-post-roe-world">What Companies Can Do Now to Protect Digital Rights In A Post-Roe World</a> 2022-05 Electronic Frontier Foundation
+    <blockquote>
+      <p>In a post-Roe world, service providers can expect a raft of subpoenas and warrants seeking user data that could be employed to prosecute abortion seekers, providers, and helpers. They can also expect pressure to aggressively police the use of their services to provide information that may be classified in many states as facilitating a crime.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.belfercenter.org/sites/default/files/files/publication/TAPP-Afsaneh_Design%20From%20the%20Margins_Final_220514.pdf">Design From the Margins Centering the most marginalized and impacted in design processes - from ideation to production</a> 2022-05 Belfer center
+    <blockquote>
+      <p>Making technological change positive for all is the critical challenge of our time. We ourselves - not only the logic of discovery and market forces - must manage it. To create a future where technology serves humanity as a whole and where public purpose drives innovation, we need a new approach.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="refugees">Refugees</h2>
+
+<ul>
+  <li><a href="https://diacc.ca/2022/09/27/lost-and-found-digital-identity-can-be-the-difference-between-life-and-death-for-refugees/">Lost and Found: Digital identity Can Be The Difference Between Life And Death For Refugees</a> 2022-09-27 DIACC
+    <blockquote>
+      <p>Most Refugees and IDPs did not have the time to properly prepare by gathering all their important documents such as passports, identity cards, driver’s licenses, and land titles or rental agreements. Fleeing your home may save your life, but fleeing without identity documents can lead to a very long wait – sometimes a decade or more – before your life is stable again.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=ewMZQoyGxCs">Can Blockchain and Self-Sovereign Identity Systems address the Refugee Crisis</a> 2022-08-09 ETH Global, Lyonna Lyu
+    <blockquote>
+      <p>Zora’s Metabolism hackathon is a virtual space for creative experimentation, bringing together some of the world’s best creators from a broad variety of categories and inviting them to design new digital spaces, on-chain tools, artistic experiments and more. Web3 is both one of the biggest paradigm shifts since the advent of the internet age and an ever-evolving inquiry into the societal possibilities of creative technology: no matter if you are a developer, an engineer, an architect, a musician, a theorist or seasoned NFT artist - we invite you to build hyperstructures with us with focus on NFTs, on-chain music ecosystems, a new generation of DAOs and Zora’s vast ecosystem of tools and smart contracts.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://preparecenter.org/resource/digital-identity-enabling-dignified-access-to-humanitarian-services-in-migration/">Digital Identity: Enabling dignified access to humanitarian services in migration - PrepareCenter</a> 2021-06-07 PrepareCenter
+    <blockquote>
+      <p>The primary objective of the report is to inform humanitarian organizations working with migrants of the opportunities and risks in the use of digital identities in providing services throughout the migrants’ journeys.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/gravity-earth/case-study-gravitys-work-with-refugees-in-turkey-featured-in-latest-oxford-centre-for-technology-ecb515a18464">Gravity’s work with refugees in Turkey featured in latest report from Oxford Centre for Technology and Development, “Digital Identity: An Analysis for the Humanitarian Sector”</a> 2021-05-25 Gravity Earth
+    <blockquote>
+      <p>“Gravity’s work is selected as a case study here because their solution included close collaboration with four other organizations from the start. It thus offered a rife example of interoperability challenges associated with digital ID systems, as well as how the same systems may be used to overcome existing coordination challenges. Moreover, Gravity has made more documentation of this project publicly available.”</p>
+    </blockquote>
+  </li>
+  <li><a href="https://securityboulevard.com/2022/05/can-digital-identity-help-with-the-world-refugee-crisis/">Can digital identity help with the world refugee crisis?</a> 2022-05 SecurityBoulevard
+    <blockquote>
+      <p>The first international agreement on how refugees could handle the issue of missing or incomplete identity documents resulted from the Arrangement of 5 July, 1922, which was a meeting of the League of Nations. Among other things, the conference established a uniform <a href="https://www.refworld.org/docid/3dd8b4864.html">“identity certificate” for Russian refugees</a>, between one and two million of whom <a href="https://www.icrc.org/ar/doc/assets/files/other/727_738_jaeger.pdf">had been displaced by various conflicts over the previous decade</a>.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.avast.com/digital-identity-world-refugee-crisis">Can digital identity help with the world refugee crisis?</a> 2022-05-24 Avast
+    <blockquote>
+      <p>At the moment, a lack of documents isn’t too much of a hindrance to Ukrainian refugees, who are largely being welcomed in neighboring states. Dr. Dzeneta Karabegovic, PhD, an expert in migration and human rights and a childhood refugee herself, tells Avast that Ukrainians currently don’t need a passport in order to get through most borders of the European Union (EU).</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.law360.com/technology/articles/1095148/blockchain-can-empower-stateless-refugees">Blockchain Can Empower Stateless Refugees</a> 2018-12-02 Law360
+    <blockquote>
+      <p>InternetBar.org Institute, or IBO, a global NGO, developed the idea for a project to pursue these goals, and presented it at the World Justice Forum V in July 2017, in a presentation titled “The Invisibles: Digital Identity for Stateless Refugees.” Then, earlier this year, IBO recorded music with top musicians living in refugee camps in eight countries, in order to make these refugees owners of digital assets.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/caribou-digital/report-launch-identity-at-the-margins-identification-systems-for-refugees-69466244fa62">Report launch: ‘Identity at the Margins — identification systems for refugees”</a> 2018-11-29 Caribou Digital
+    <blockquote>
+      <p>For refugees, the current state of humanitarian identity systems presents challenges. Most described having very limited visibility into and agency around the data collected about them by organizations. They were rarely offered the opportunity to exercise control over what data is collected, despite having the capacity and interest to do so. At the same time, many refugees described making active efforts to negotiate the various identities available to them, consciously weighing the benefits and constraints associated with different statuses in order to access services, employment, and to preserve their spatial mobility.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.tandfonline.com/doi/full/10.1080/14650045.2020.1823836">Self-Sovereignty for Refugees? The Contested Horizons of Digital Identity</a> 2020-10-04 Margie Cheesman
+    <blockquote>
+      <p>I identify a series of competing logics in the debates around SSI’s emancipatory potential, which relate to four issues: (i) the neutrality of the technology, (ii) the capacities of refugees, (iii) global governance and the nation state, and (iv) new economic models for digital identity. SSI is simultaneously the potential enabler of new modes of empowerment, autonomy and data security for refugees and a means of maintaining and extending bureaucratic and commercial power. I situate SSI in a genealogy of systems of identity control and argue that, in practice, it is likely to feed into the powers of corporations and states over refugee populations.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="projects">Projects</h2>
+<ul>
+  <li><a href="https://hiplatform.org/blog/2022/5/18/opportunities-for-integrating-functional-digital-id-into-humanitarian-action">Opportunities for Integrating Functional Digital ID into Humanitarian Action</a> HIP 2022-05-18
+    <blockquote>
+      <p>The <a href="https://hiplatform.org/digid">Dignified Identities in Cash Assistance (DIGID)</a> project was initiated by a consortium of humanitarian organizations. In 2021, a pilot project was carried out in Kenya implemented by the <a href="https://www.redcross.or.ke/">Kenya Red Cross Society</a> to enable people without any form of ID to receive cash assistance in the context of the COVID-19 pandemic by means of a digital ID.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://cash-hub.org/wp-content/uploads/sites/3/2022/02/DIGID-Lessons-Learnt-from-Kenya-Jan-2022.pdf">Dignified Identities in Cash Assistance: Lessons Learnt from Kenya</a> 2022-02
+    <blockquote>
+      <p>Because of “know your customer” (KYC) requirements, the targeted community members who did not have a legally recognized ID could neither own a SIM card nor have an M-Pesa account, so a cash transfer via M-Pesa was not a viable option for this pilot project. Cash distribution was done via Flex, a money distributor contracted by KRCS.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://trinsic.id/trinsic-launches-identity-for-good-in-response-to-ukraine-crisis/">Trinsic Launches Identity For Good in Response to Ukraine Crisis</a> 2022-03-09 Trinsic
+    <blockquote>
+      <p>Trinsic is partnering with companies building ID products for underserved populations. Through Identity for Good (ID4G), participating partners will receive access to Trinsic’s state-of-the-art infrastructure, enabling them to build their ID products quickly, safely, and compliantly</p>
+    </blockquote>
+  </li>
+  <li><a href="https://hiplatform.org/digid">Dignified Identities for Cash assistance project</a> 2021
+    <blockquote>
+      <p>The first phase was implemented by KRCS to meet the needs of the vulnerable populations without official IDs</p>
+    </blockquote>
+  </li>
+  <li><a href="https://academy.affinidi.com/affinidi-partners-with-aid-tech-exploring-new-horizons-in-digital-identity-and-verifiable-661c9e61f7e8">Affinidi Partners with AID:Tech — Exploring New Horizons in Digital Identity and Verifiable Credentials</a> 2021-08-18 Affinidi
+    <blockquote>
+      <p>The relationship continues to grow, as Affinidi and AID:Tech are now collaborating on a new initiative to build infrastructure to power a verifiable credential-based <a href="https://academy.affinidi.com/5-reasons-to-use-an-identity-wallet-c289ba2980cf">digital wallet</a> with multiple services geared for women in Southeast Asia to help them access government programs, banking, insurance, etc.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/gravity-earth/case-study-gravity-digital-id-solution-propels-dignified-identities-in-cash-programing-digid-e527bc55ae43">Case Study: Gravity digital ID solution propels Dignified Identities in Cash Programing (DIGID) Project in Kenya</a> 2021-07-06 Gravity Earth
+    <blockquote>
+      <p>The Gravity Platform was developed through direct inputs from all types of end-users through <a href="https://static1.squarespace.com/static/5b75620445776e4b290c0d96/t/603d14c5775eed6fbde2883b/1614615753940/%5BFinal%5D+DIGID+Kenya+User+Consultation+Report.pdf">user consultations</a> with local communities and NGO staff.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.crowdfundinsider.com/2020/09/166678-global-id-verification-provider-onfido-to-offer-authentication-services-to-malaysias-mycash-money/">GlobalID and Onfido to offer Authenication services to Malaysias Mycash Money</a> 2020-09-14 CrowdfundInsider
+    <blockquote>
+      <p>MyCash Money is a digital marketplace that’s focused on serving migrant workers based in Malaysia and Singapore. MyCash aims to support financial inclusion by providing convenient and secure online services to foreign workers in said countries who might not be able to access digital banking platforms or credit cards.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.biometricupdate.com/202007/from-stateless-to-self-sovereign-a-project-that-gives-life-long-identity-to-the-worlds-invisibles-beginning-at-birth">From stateless to self sovereign. A project that gives life long identity to the worlds invisibles, beginning at birth</a> 2020-07 Biometrics Update
+[<a href="https://www.irespond.org/">iRespond</a>’s] solution is built around verifiable credentials. Only the holder, which in this case is the mother, can access and share the credential through biometrics, in the form of an iris scan. This digital credential provides redundancy for the paper-based credential, and allows individuals to recover their paper documents if they are ever lost or stolen. Conversely, digital credentials can be recovered using their physical document.</li>
+  <li><a href="https://www.theguardian.com/world/2018/aug/21/rohingya-turn-to-blockchain-to-solve-identity-crisis">Rohingya turn to blockchain to solve identity crisis</a> 2018-08-21 Guardian
+    <blockquote>
+      <p>Dilek Genc, a PhD candidate at the University of Edinburgh who studies blockchain-type applications in humanitarian aid and development, saysif the aid community continues to push innovation using Silicon Valley’s creed of “fail fast and often,” and experiment on vulnerable peoples they will be fundamentally at odds with humanitarian principles and fail to address the political roots of issues facing refugees.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="business">Business</h2>
+<ul>
+  <li><a href="https://medium.com/caribou-digital/what-are-the-limits-of-the-private-sector-in-serving-the-poor-3ee9a9a468fc">What are the limits of the private sector in serving the poor?</a> 2021-08-17 Caribou Digital
+    <blockquote>
+      <p>A large set of impact investor, international donor, and government anti-poverty policy is based on the notion that for-profit companies can be induced to serve the poor with life changing services like banking or schooling but the limits of the for profit model are not always taken into account</p>
+    </blockquote>
+  </li>
+  <li><a href="https://hiplatform.org/blog/2020/5/20/layering-digital-id-on-top-of-traditional-data-management">Layering Digital ID on Top of Traditional Data Management</a> 2020-05-20 HIP
+    <blockquote>
+      <p>While Digital ID could offer benefit to humanitarian agencies and beneficiaries, alike, many questions remain to be answered. The cost effectiveness of ID solutions remains to be established. Given that many of these systems are only operating at pilot-scale, it is difficult to know what the primary drivers of cost are and how they can be mitigated. In addition, the digital ID space is fairly young and while initiatives like ID4D and ID2020 are working to drive meaningful interoperability among providers in the space, it remains to be seen what the most effective factors, in addition to open source software, open APIs, and common data formats, can be used to general meaningful interoperability.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="biometrics">Biometrics</h2>
+
+<ul>
+  <li><a href="https://www.theengineroom.org/wp-content/uploads/2018/03/Engine-Room-Oxfam-Biometrics-Review.pdf">Biometrics in the Humanitarian Sector</a> 2018-03 The Engine Room Oxfam
+    <blockquote>
+      <p>The seminal 2013 study by Alan Gelb and Julia Clark researched 160 cases of biometrics deployment in 73 developing countries (excluding biometrics systems primarily for border control or law enforcement means), and noted two primary categories of biometrics identification systems: foundational systems and functional systems</p>
+      <ul>
+        <li>Foundational systems are those which supply general identification for many official uses, such as national civil registries and national IDs.</li>
+        <li>Functional systems are those which are introduced in response to a demand for a particular service or transaction, such as voter IDs, health records, or financial access.</li>
+      </ul>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#affinidi" class="page__taxonomy-item p-category" rel="tag">Affinidi</a><span class="sep">, </span>
+    
+      <a href="/tags/#aid-tech" class="page__taxonomy-item p-category" rel="tag">Aid:Tech</a><span class="sep">, </span>
+    
+      <a href="/tags/#avast" class="page__taxonomy-item p-category" rel="tag">Avast</a><span class="sep">, </span>
+    
+      <a href="/tags/#berkman-klein" class="page__taxonomy-item p-category" rel="tag">Berkman Klein</a><span class="sep">, </span>
+    
+      <a href="/tags/#biometrics" class="page__taxonomy-item p-category" rel="tag">Biometrics</a><span class="sep">, </span>
+    
+      <a href="/tags/#globalid" class="page__taxonomy-item p-category" rel="tag">GlobalID</a><span class="sep">, </span>
+    
+      <a href="/tags/#gravity-earth" class="page__taxonomy-item p-category" rel="tag">Gravity Earth</a><span class="sep">, </span>
+    
+      <a href="/tags/#human-rights" class="page__taxonomy-item p-category" rel="tag">Human Rights</a><span class="sep">, </span>
+    
+      <a href="/tags/#humanitarian" class="page__taxonomy-item p-category" rel="tag">Humanitarian</a><span class="sep">, </span>
+    
+      <a href="/tags/#inclusion" class="page__taxonomy-item p-category" rel="tag">Inclusion</a><span class="sep">, </span>
+    
+      <a href="/tags/#irespond" class="page__taxonomy-item p-category" rel="tag">iRespond</a><span class="sep">, </span>
+    
+      <a href="/tags/#onfido" class="page__taxonomy-item p-category" rel="tag">Onfido</a><span class="sep">, </span>
+    
+      <a href="/tags/#trinsic" class="page__taxonomy-item p-category" rel="tag">Trinsic</a><span class="sep">, </span>
+    
+      <a href="/tags/#tu-delft" class="page__taxonomy-item p-category" rel="tag">Tu Delft</a><span class="sep">, </span>
+    
+      <a href="/tags/#ukraine" class="page__taxonomy-item p-category" rel="tag">Ukraine</a><span class="sep">, </span>
+    
+      <a href="/tags/#world-bank" class="page__taxonomy-item p-category" rel="tag">World Bank</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#uses" class="page__taxonomy-item p-category" rel="tag">Uses</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-15">June 15, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Humanitarian+Aid%20https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fhumanitarian%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fhumanitarian%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fhumanitarian%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Fhumanitarian%2F&title=Humanitarian+Aid" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/history/2000s/early/dataweb-introduction-to-xdi/" class="pagination--pager" title="The Dataweb: An Introduction to XDI
+">Previous</a>
+    
+    
+      <a href="/blockchain/iota-foundation/" class="pagination--pager" title="IOTA Foundation
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

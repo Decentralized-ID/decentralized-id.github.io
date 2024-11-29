@@ -1,0 +1,1065 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Data Governance and Self Sovereign Identity |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="Individuals will gain the ability to own servers where their data is stored – and with it control their online identities.">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Data Governance and Self Sovereign Identity">
+<meta property="og:url" content="https://decentralized-id.com/self-sovereign-identity/data-governance/">
+
+
+  <meta property="og:description" content="Individuals will gain the ability to own servers where their data is stored – and with it control their online identities.">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Data Governance and Self Sovereign Identity">
+  <meta name="twitter:description" content="Individuals will gain the ability to own servers where their data is stored – and with it control their online identities.">
+  <meta name="twitter:url" content="https://decentralized-id.com/self-sovereign-identity/data-governance/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-06-28T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-29T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/self-sovereign-identity/data-governance/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Data Governance and Self Sovereign Identity">
+    <meta itemprop="description" content="We should absolutely all be taking care of the data that belongs to us, our data that we create, that we have a right to be able to control and share exactly as we choose. But we should also bear in mind the power of that data to help each of us, every day, benefit from the good that can come when it is shared and used to create a better world for us all.">
+    <meta itemprop="datePublished" content="2023-06-28T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-29T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/self-sovereign-identity/data-governance/" class="u-url" itemprop="url">Data Governance and Self Sovereign Identity
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          14 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#explainer">Explainer</a></li><li><a href="#self-sovereign-identity-ssi">Self Sovereign Identity (SSI)</a></li><li><a href="#development">Development</a></li><li><a href="#caution">Caution</a></li><li><a href="#literature">Literature</a></li><li><a href="#data-ecosystems">Data Ecosystems</a></li><li><a href="#data-institutions">Data Institutions</a></li><li><a href="#organizations">Organizations</a></li><li><a href="#companies">Companies</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="explainer">Explainer</h2>
+<ul>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=2Q2DL0ojauA">Data Sovereignty International Forum 2021(English)</a> 2021-09-08 경기도청
+    <blockquote>
+      <p>My personal data has value?!<br />
+We need to be aware of data sovereignty to recognize and protect value of our personal data.<br />
+Make the Fair Data World Together!</p>
+    </blockquote>
+  </li>
+  <li><a href="https://reb00ted.org/personaldata/20210620-who-has-my-personal-data/">Everybody has our data … except us</a> 2021-06-20 reb00ted
+    <blockquote>
+      <ul>
+        <li>Google has all my e-mail. (And I don’t. They merely let me access it with a browser.)</li>
+        <li>Facebook has the list of all of my friends and what I said to them. (And I don’t.)</li>
+        <li>LinkedIn has all of my business contacts. (Repeat after me: and I don’t.)</li>
+        <li>Instagram has all my photos. Well, the Instagram department of Facebook does. (Chorus now: and I don’t.)</li>
+        <li>Amazon has the list of all my purchases, and knows what products I was interested in but didn’t buy after all. (AND I DON’T.)</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=nlf5juCc6CA">Data as competitive advantage &amp; control mechanism in platform economy</a> 2021-06-19
+    <blockquote>
+      <p>Presenters: Sangeet Paul Choudary, Molly Schwartz Session host: Riikka Kämppi Molly Schwartz chats with Sangeet Paul Choudary - best-selling author of Platform Revolution and Platform Scale and founder of Platformation Labs - unpacks the ethics and economics of data.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://blog.digi.me/2021/04/29/data-for-good-powering-our-way-to-a-better-world/">Data for good: powering our way to a better world</a> 2021-04-29 DigiMe
+    <blockquote>
+      <p>We should absolutely all be taking care of the data that belongs to us, our data that we create, that we have a right to be able to control and share exactly as we choose. But we should also bear in mind the power of that data to help each of us, every day, benefit from the good that can come when it is shared and used to create a better world for us all.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://dwhuseby.medium.com/the-authentic-data-economy-9802da67e1fa">The Authentic Data Economy. Universal Digital Trust at Global Scale</a> 2021-02-27 David Huseby
+    <blockquote>
+      <p>It leverages data collection and networking and personal computing advances. It makes our data ours and authentic. It builds on all of the previous work done by countless engineers and inventors and dreamers. However, by being the last big problem it represents the final piece that brings together everything that came before it. The scope of the authentic data economy is literally everything in the human sphere. There is nothing that this won’t change. Trust will go everywhere and into everything. But most importantly, so will privacy.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.wired.co.uk/article/personal-data-servers">Personal data servers will help take back digital ID from big tech</a> 2021-01-22 Wired
+    <blockquote>
+      <p>In 2021, individuals will gain the ability to own servers where their data is stored – and with it control their online identities.</p>
+
+      <p>[…] because data from their healthcare provider acquired into the server can be used to authenticate and assert that fact without the need to give any identity information. By using PDAs, apps that rely on sensitive data will be able to access this and stay “identity blind”.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.ubisecure.com/podcast/data-minimisation-meeco-katryna-dow/">Katryna Dow - Data minimisation: value, trust and obligation</a> 2020-10-14 UbiSecure
+    <blockquote>
+      <p>Katryna talks to Oscar about her career (including inspiration from Minority Report), Meeco’s personal data &amp; distributed ledger platform, the importance of data minimisation to inspire trust in organisations, and cultural differences in attitudes towards digital identity.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://deepdives.in/you-are-not-your-data-but-your-data-is-still-you-b41d2478ece2">You are not your Data but Your Data is still You</a> 2020-08-07 DeepDives
+    <blockquote>
+      <p>In the digital age, individual privacy in the broadest sense is about control over protecting one’s personally identifiable information (PII), such as information about health, credit, shopping, or communication. But the types of information deemed ‘personally identifiable’ and the amount of control one has over them varies around the world.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.inkandswitch.com/local-first.html">Local-first software: You own your data, in spite of the cloud</a> 2019-04 Ink and Switch
+    <blockquote>
+      <p>a set of principles for software that enables both collaboration and ownership for users. Local-first ideals include the ability to work offline and collaborate across multiple devices, while also improving the security, privacy, long-term preservation, and user control of data.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="self-sovereign-identity-ssi">Self Sovereign Identity (SSI)</h2>
+<ul>
+  <li><a href="https://medium.com/mydex/design-principles-for-the-personal-data-economy-f63ffa93e382">Design Principles for the Personal Data Economy</a> 2022-06-22 MyDex (<a href="https://mydex.org/resources/papers/">whitepaper</a>
+    <blockquote>
+      <p>A key part of this is continuity and longevity: a personal data store is for life, so the institutions providing personal data stores should be designed for decades (centuries, even). Whatever particular corporate form they take, legal safeguards relating to continuity and longevity of purpose need to be built into how they operate.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.weforum.org/agenda/2021/08/self-sovereign-identity-future-personal-data-ownership">Self-sovereign identity: the future of personal data ownership?</a> 2021-08 WEForum
+    <blockquote>
+      <p>Self-sovereign identity is a promising technology to allow you to control your own data. However, to provide the true value of the technology, it is essential to establish governance framework for its operation.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.forbes.com/sites/forbesbusinesscouncil/2021/05/04/the-anatomy-of-personal-data-sovereignty/?sh=69dbea5761e1">The Anatomy Of Personal Data Sovereignty</a> 2021-05-04 Forbes
+    <blockquote>
+      <p>The data privacy/control issue isn’t new, but the attitude shift is. People care more, demand more, and the scale of change that has occurred due to the Covid-19 pandemic is major. As we live through times exposing such injustice and inequality, it’s becoming evident that this personal data ecosystem needs to undergo a major revamp.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://yathartharora.substack.com/p/self-sovereign-identity-systems">Self Sovereign Identity Systems</a> 2021-04-09 The Passion Pad
+    <blockquote>
+      <p>We should have the right to manage our identity, free of any country or the place where we live. By giving this right to the government or any central authority, we give them much more power. Separating data rights from the actual data is important. User should have the right to decide who should have the access to his/her data.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.evernym.com/blog/right-data-diet-verifiable-credentials/">Part 4: Getting on the Right Data Diet with Verifiable Credentials</a> 2021-03-08 Evernym
+    <blockquote>
+      <p>But there’s a difficult truth here. Much of the data is just plain wrong, wasteful, or at worst not compliant. We know this because businesses are spending boatloads of cash on fixing poor quality data and data compliance. And what’s the remedy? More data! More data sources, more attributes and profiles, more money. All fed by a new and increasingly sophisticated set of data APIs that are driving that growth.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://identitywoman.net/radical-exchange-talk-data-agency-individual-or-shared/">Radical Exchange Talk: Data Agency. Individual or Shared?</a> 2021-03-05 IdentityWoman
+    <blockquote>
+      <p>Digital networks have centralized power over identities and information, creating problems for both markets and democracy. Does the solution require more shared agency over data?  What might that look like?  This panel discussion is structured around thought experiments to find solutions to this issue.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://dataethics.eu/self-sovereign-identity-a-possibility-for-more-data-control-for-users/">Self-Sovereign Identity – A Possibility for More Data Control for Users</a> 2020-06-18 DataEthics.eu
+    <blockquote>
+      <p>But also, the general populations’ computer skills must be taken into account when designing the solution, along with legal considerations of whether individuals should be allowed to sell sensitive data, such as health data to third parties. If it is legal to monetize personal data, users can be tempted to share personal data in a way that might harm them later e.g. sharing health data and later being denied an insurance. Monetization might also create a gap in the society and the world, having rich people prioritize protecting their privacy while less fortunate citizens might feel like they have no other option than selling their data. Thoughts about the monetization of data need to be considered in a legal context as it has been done with the donation of blood, when creating a self-sovereign identity solution. Furthermore, safeguard measures must be made against discrimination like only providing identity for a selected few, and to ensure that everyone have equal access to creating a trustworthy digital identity.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="development">Development</h2>
+<ul>
+  <li><a href="https://iiw.idcommons.net/21L/_International_Semantic_Infrastructure:_Requirements_for_a_distributed_data_economy">International Semantic Infrastructure: Requirements for a distributed data economy</a> 2021-05-06 Paul Knowles
+    <blockquote>
+      <p>Linking data together is about machine readability. Involved humans… need to understand. Do it through language. Humans like OCA because can understand data in different languages, makes sense for people. Human element. In that capture space. Want to refine OCA, take out some of the rules parts, masking overlay, conditional overlays, and get it away from OCA as architecture - it convolutes things. OCA only meant for making theings human-readable.</p>
+    </blockquote>
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1Cn-IiEewkFW9K9pneBWFP6xELzd2frfmIvQAoKH2OcY/edit">Decentralized Semantics 101</a></li>
+      <li><a href="https://docs.google.com/document/d/1IDXJ8QAq-jO87DQt500Rj2SXL0BMUo1_hEK1VDVZ8Ho/edit">Overlays Capture Architecture (OCA)</a></li>
+    </ul>
+  </li>
+  <li><a href="https://medium.com/mydex/hidden-in-plain-sight-the-transformational-potential-of-personal-data-da47f666713e">Hidden in Plain Sight — the Transformational Potential of Personal Data</a> 2021-04-12 MyDex
+    <blockquote>
+      <p>Personal data stores apply the same economic logic to transform the costs of producing data driven services. <a href="https://medium.com/mydex/unleashing-the-potential-of-verified-attributes-fe001e01b091">Verified attributes</a> are the digital equivalents of Henry Ford’s standardised parts. By enabling one organisation to instantly re-use data verified by another organisation they eliminate the need for vast amounts of duplicated effort and rework (re-creating each data point from scratch or checking its details, provenance etc).</p>
+    </blockquote>
+  </li>
+  <li><a href="https://iiw.idcommons.net/12K/_Credential_Marketplaces">Credential Marketplaces</a> 2021-05-06 Martin Riedel, Stepan Gershuni <a href="https://docs.google.com/presentation/d/1WOXgHhgAwG0Im45pZkTAhsadpd8xbck0xjlnsuVGGhI/edit?ts=60803bc8#slide=id.gd369c9df06_0_17">Presentation</a>
+    <blockquote>
+      <p>Credential Marketplace is quite high up the SSI stack but we want to start this discussion.</p>
+      <ol>
+        <li>What is Credential Marketplace?</li>
+        <li>We have a Trust Triangle of Issuer-Holder-Verifier. This does not need any centralized entity except schema hosting.</li>
+        <li>However, we want to solve the problem of discovery of Issuers and Verifiers.</li>
+        <li>Example: I’m traveling to a new country. I need to get what healthcare VCs are needed to go there, in an automated way.</li>
+        <li>How can we solve this without relaying on a centralized registry of Verifier requirements and Issuer capabilities?</li>
+        <li>How it works</li>
+        <li>In order to discover issuers / vc types, there should be a registration step where issuers/verifiers actively OR passively provide metadata about their capabilities.</li>
+        <li>Credential Data — can contain some filters or constraints on the data from within the VC. E.g. As a Verifier, I only accept passport VC from only certain governments: only German nationals.</li>
+        <li>VC Metadata</li>
+        <li>Issuer Metadata</li>
+        <li>Reputation mechanism for credential issuers</li>
+        <li>Marketplace can also implement value transfer: paying for issuance by the verifier, for example. Even if they are part of different SSI ecosystems. This is optional but can help incentivize different participants.</li>
+      </ol>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="caution">Caution</h2>
+<ul>
+  <li><a href="https://me2ba.org/why-location-data-brokers-put-all-communities-at-risk/">Why Location Data Brokers Put All Communities At Risk</a> 2022-06-06 Zach Edwards M2BA
+    <blockquote>
+      <p>New work that may leverage decentralized ID from the supply chain side of things…but not sure (lots of links inside on data brokers harm)</p>
+    </blockquote>
+  </li>
+  <li><a href="https://john.philpin.com/2021/09/03/what-does-it.html">What Does It Actually Mean When a Company Says, “We Do Not Sell Your Data?”</a> 2021-09-03 John Philipin
+    <blockquote>
+      <p>Probably because the alternatives produce even more income.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.moxytongue.com/2021/08/data-mob-rule.html">Data Mob Rule</a> 2021-08 MoxyTongue
+    <blockquote>
+      <p>Individual Rights are hard to come by historically. Strong people make them possible. First requirement of their existence is thus, strong people.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.mydigitalfootprint.com/2021/04/if-your-strategic-plan-is-based-on-data.html">If your strategic plan is based on data, have you considered the consequences?</a> 2021-04 MyDigitalFootprint
+    <blockquote>
+      <p>How do you know your data set has the views of everyone who is critical to your business today and in the future? How do you know the tools you use provide equal weight to everyone to make our business thrive?  How do you know if the recommendation was written before the analysis? How do your incentives create a new bias?</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.evernym.com/blog/identity-holder-present/">Envy Counting The Cost of Data Collection, And A New Paradigm Of ‘Identity Holder Present’</a> 2021-03-12 Evernym
+    <blockquote>
+      <p>It all feels like data envy to me. Aristotle described envy as the pain at the sight of another’s good fortune, stirred by “those who have what we ought to have.” Precisely.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.mydigitalfootprint.com/2021/03/why-framing-data-as-asset-or-liability.html">Why framing “data” as an asset or liability is dangerous</a> 2021-03 MyDigital Footprint
+    <blockquote>
+      <p>If there is one thing that can change finance’s power and dominance as a decision-making tool, it is the rest of the <a href="https://opengovernance.net/data-is-data-90ba0b803178">data</a>. According to Google (2020), 3% of company data is finance data when considered part of an entire company’s data lake. McKinsey <a href="https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/how-companies-make-good-decisions-mckinsey-global-survey-results">reports</a> that 90% of company decisions are based on finance data alone, the same 3% of data.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.theengineroom.org/dangerous-data-the-role-of-data-collection-in-genocides/">Dangerous Data: the role of data collection in genocides</a> 2016-11-21 The Engine Room
+    <blockquote>
+      <p>Last week, the UK Government passed what has been described by Jim Killock, director of the Open Rights Group, as the “most extreme mass surveillance law ever passed in a democracy”. The law, known officially as the Investigatory Powers Act, forces UK internet providers to store browsing histories — including domains visited — for one year, in case of police investigations. Unofficially, and in reference to its invasive powers, it has been nicknamed the Snooper’s Charter.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="literature">Literature</h2>
+<ul>
+  <li><a href="https://www.innopay.com/en/publications/innopay-paper-data-sharing-published-ceur-workshop-proceedings">INNOPAY paper on data sharing published in CEUR Workshop Proceedings</a> 2022-09-15 Innopay
+    <blockquote>
+      <p>This week, CEUR-WS.org has published the paper titled ‘<a href="http://ceur-ws.org/Vol-3214/WS6Paper2.pdf">Harmonization Profiles for Trusted Data Sharing Between Data Spaces: Striking the Balance between Functionality and Complexity</a>’ in the CEUR Workshop Proceedings.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.bis.org/publ/arpdf/ar2022e3.pdf">BIS Annual Report - section III. The future monetary system</a> 2022-06-16 BIS page 41 in the chart
+    <blockquote>
+      <p>Point 5. User control over data—data governance arrangements should ensure users’ privacy and control over data:</p>
+
+      <ul>
+        <li>Today: Users trust intermediaries to keep data safe, but they do not have sufficient control over their data</li>
+        <li>Crypto: Transactions are public on the blockchain—which will not work with “real names”</li>
+        <li>Tomorrow: New data architectures can give users privacy and control over their data</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li>[Case Studies] <a href="https://www.adalovelaceinstitute.org/project/exploring-principles-for-data-stewardship/">Exploring principles for data stewardship</a> 2021-11 Ada Lovelace Institute
+    <blockquote>
+      <p>What data practices enable the use of data for public or social good? To help answer this question, the Ada Lovelace Institute has developed a set of case studies. Based on Elinor Ostrom’s principles for governing the commons, these case studies can help us to understand what responsible data stewardship might look like.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://cnr.sh/essays/what-the-heck-data-mesh">What the Heck is a Data Mesh?!</a> 2021-06-08 Chris Riccomini
+    <blockquote>
+      <p>I re-read <a href="https://twitter.com/zhamakd">Zhamak Dehghani</a> ’s <a href="https://martinfowler.com/articles/data-monolith-to-mesh.html">original</a> and <a href="https://martinfowler.com/articles/data-mesh-principles.html">follow-on</a> posts. Zhamak is the creator of the data mesh. In her second post she identifies <a href="https://martinfowler.com/articles/data-mesh-principles.html#CorePrinciplesAndLogicalArchitectureOfDataMesh">four data mesh principles</a>:</p>
+
+      <ol>
+        <li>Domain-oriented decentralized data ownership and architecture</li>
+        <li>Data as a product</li>
+        <li>Self-serve data infrastructure as a platform</li>
+        <li>Federated computational governance</li>
+      </ol>
+    </blockquote>
+  </li>
+  <li><a href="https://hyperonomy.com/2021/01/27/self-sovereign-identity-personal-data-usage-licensing-ssi-pdul-model-solution-concept/">Self-Sovereign Identity Personal Data Usage Licensing (SSI-PDUL) Model</a> 2021-01-27 Michael Herman <a href="https://hyperonomy.files.wordpress.com/2019/11/hyperonomy-ssi-personal-data-usage-licensing-model-ssi-pdul-model-2021-0.27rd.pdf">Whitepaper</a>
+    <blockquote>
+      <p>The scope of the Self-Sovereign Identity Personal Data Usage Licensing (SSI-PDUL) Model is personal digital identifiers and any associated identity data presented by Alice to the App. It does not include the permissioning of data internal to the App (although the natural extension of the solution to internal data is an obvious one)</p>
+    </blockquote>
+  </li>
+  <li>[Tweet Thread] <a href="https://twitter.com/AdaLovelaceInst/status/1336954825356046339">discussing different approaches to data stewardship and potential principles</a> 2020-12-10 Ada Lovelace Institute
+    <blockquote>
+      <ol>
+        <li>We start by asking: what does doing good with data mean to you?</li>
+      </ol>
+    </blockquote>
+    <ul>
+      <li><a href="https://www.adalovelaceinstitute.org/blog/what-does-good-look-like-data-stewardship/">Doing good with data: what does good look like when it comes to data stewardship?</a> 2020-09-03 Ada Lovelace Institute</li>
+    </ul>
+  </li>
+  <li><a href="https://www.thewhynotlab.com/post/towards-worker-data-collectives">Towards Workers’ Data Collectives</a> 2020-11-07 The Why Not Lab
+    <blockquote>
+      <p>I roll out my vision for the establishment of workers’ collective data rights and ultimately for workers’ data collectives. A means through which to empower workers and balance out the power asymmetry so prevalent in today’s digital capitalism. I caution that fixing data and privacy rights is not an end in itself. We will need to draw a new map for the digital economy and society.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="data-ecosystems">Data Ecosystems</h2>
+<ul>
+  <li><a href="https://stateofidentity.libsyn.com/whats-in-your-data-ecosystem">What’s in Your Data Ecosystem?</a> 2021-12-09 State of Identity
+    <blockquote>
+      <p>Indicio’s CEO, Heather Dahl, and CTO, Ken Ebert, identity wallets, verified credentials, the role of the Sovrin Foundation, and new momentum around interoperability across decentralized identity.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://indicio.tech/trusted-data-ecosystems-the-indicio-way">Trusted Data Ecosystems: The Indicio Way</a> 2021-09-16 Indicio
+    <blockquote>
+      <p>This multidimensional value—authenticity, compliance, integrity, and resilience—coupled with being easy to integrate is what separates the Indicio approach from the rest. Our growth in 16 months—with global enterprise customers and a global decentralized blockchain network supported by 23 companies on five continents is a sign that fundamental change is coming in the way we share information.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/mydex/how-to-unleash-the-full-potential-of-data-3676db8d7c03">How to unleash the full potential of data?</a> 2021-05-02 Alan Mitchell
+    <blockquote>
+      <p>The main reason why vital information is not getting where it needs to be is that our data economy has evolved to be an organisation-centric ‘One User One Use’ (OUOU) system — whereas, thanks to the inner logic of data itself, it needs to operate as a ‘Many Users, Many Uses’ (MUMU) data ecosystem.
+* <a href="https://www.evernym.com/blog/open-ecosystems-data-portability/">6: Breaking Down Silos with Open Ecosystems and True Data Portability</a> 2021-03-11 Evernym
+Every company providing a new digital identity solution believes that all the other digital identity options are not good enough, not secure enough, not fast enough. They believe they can do better.</p>
+
+      <p>Yet collaboration will be critical to making digital identity work properly at scale.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="data-institutions">Data Institutions</h2>
+<ul>
+  <li><a href="https://medium.com/mydex/the-need-for-new-data-institutions-e6b06cd0cbb8">The need for new Data Institutions</a> 2022-05-30 Alan Mitchell
+    <blockquote>
+      <p>we were presenting at the Open Data Institute’s event on Data Sharing and the <a href="https://theodi.org/article/what-are-data-institutions-and-why-are-they-important/">Rise of Data Institutions</a> — a crucially important subject for the years ahead. (You can see the slides of our presentation <a href="https://www.slideshare.net/davidejalexander/mydex-cic-odi-radical-data-institutions-20220330-alan-mitchellpdf">here</a>.)</p>
+    </blockquote>
+  </li>
+  <li><a href="https://medium.com/mydex/helping-data-trusts-manage-personal-data-4215faaee5f2">Helping Data Trusts Manage Personal Data</a> 2022-05-03 Mydex
+    <blockquote>
+      <p>Mydex CIC has just published a blog for Cambridge University’s Data Trust Initiative on ‘Helping Data Trusts Manage Personal Data’. In it, we address the challenges that arise as the Data Trust movement begins to scale.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="organizations">Organizations</h2>
+<ul>
+  <li><a href="https://datatrusts.uk/">Data Trusts Initiative</a>
+    <blockquote>
+      <p>interdisciplinary programme that pursues research at the interface of technology, policy and the law to better understand the role data trusts can play</p>
+    </blockquote>
+  </li>
+  <li><a href="https://foundation.mozilla.org/en/data-futures-lab/">Data Futures Lab</a> Mozilla Foundation
+    <blockquote>
+      <p>The Data Futures Lab is an experimental space for instigating new approaches to data stewardship challenges. It provides funding, scaffolding for collaboration, convening around emerging ideas, and a place to workshop approaches to data stewardship which give greater control and agency to people.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://thedataeconomylab.com/">The Data Economy Lab</a>
+    <blockquote>
+      <p>The Data Economy Lab is a dynamic space to think through legal, policy, governance, and technological issues on Data Stewardship</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.anewgovernance.org/2021/09/15/japan-based-dixon-siu-to-join-the-board-of-anewgovernance-aisbl/">Japan-based Dixon Siu to join the Board of aNewGovernance AISBL</a> 2021-09-15
+    <blockquote>
+      <p>Given his breadth of experience and alignment with a number of strategic sectors where aNewGovernance is currently developing ecosystems, I am sure, he will bring incredible contribution.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="companies">Companies</h2>
+<ul>
+  <li><a href="https://dapsi.ngi.eu/meet-europes-top-data-portability-projects/">Europe’s top Data Portability Projects</a> 2021-03-30 NGI
+    <ul>
+      <li><a href="https://dapsi.ngi.eu/hall-of-fame/alias/">ALIAS</a> – automating GDPR portability for applications developers.</li>
+      <li><a href="https://dapsi.ngi.eu/hall-of-fame/checkpipe-charlie/">Checkpipe Charlie</a> – tool for describing and validating data.</li>
+      <li><a href="https://dapsi.ngi.eu/hall-of-fame/dip/">DIP</a> – Vaccination &amp; Immunization Management using Verifiable Credentials.</li>
+      <li><a href="https://dapsi.ngi.eu/hall-of-fame/domi/">Domi</a> – SSI-based digital passport to facilitate data portability in the housing rental sector.</li>
+      <li><a href="https://dapsi.ngi.eu/hall-of-fame/dpella/">DPella</a> – Data analyses with privacy in mind.</li>
+      <li><a href="https://dapsi.ngi.eu/hall-of-fame/idadev-p2p/">IDADEV-P2P</a> – Blockchain Based Data Portability System</li>
+      <li><a href="https://dapsi.ngi.eu/hall-of-fame/openpkg/">OpenPKG</a> – decentralised data provenance system for improved governance and portability of personal data.</li>
+      <li><a href="https://dapsi.ngi.eu/hall-of-fame/openxport/">OpenXPort</a> – Open export of data across different systems and providers.</li>
+      <li><a href="https://dapsi.ngi.eu/hall-of-fame/oratorio/">ORATORIO</a> – Energy data exchange platform.</li>
+      <li><a href="https://dapsi.ngi.eu/hall-of-fame/prov4itdata/">Prov4ITData</a> – Provenance-aware querying and generation for interoperable and transparent data transfer.</li>
+      <li><a href="https://dapsi.ngi.eu/hall-of-fame/ui-transfer/">UI-Transfer</a> – complete solution for “user initiated inter-controller and continuous data transfer”</li>
+    </ul>
+  </li>
+  <li><a href="https://anchor.fm/psatoday/episodes/PSA-Today-37-Kaliya-and-Seth-talk-with-Julian-Ranger--Chairman--Founder-of-Digi-me-about-personal-data-governance-in-a-world-of-surveillance-capitalism-etpk24">PSA Today with Julian Ranger, founder of Digi.me</a> 2021-03-29 PSA Today, Digi.Me
+    <blockquote>
+      <p>Personal data governance (in a world of surveillance capitalism)
+Check out https://digi.me/ for more about Julian and his company and how they are going to market.</p>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#data-governance" class="page__taxonomy-item p-category" rel="tag">Data Governance</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#about" class="page__taxonomy-item p-category" rel="tag">About</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-29">June 29, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Data+Governance+and+Self+Sovereign+Identity%20https%3A%2F%2Fdecentralized-id.com%2Fself-sovereign-identity%2Fdata-governance%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fself-sovereign-identity%2Fdata-governance%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fself-sovereign-identity%2Fdata-governance%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fself-sovereign-identity%2Fdata-governance%2F&title=Data+Governance+and+Self+Sovereign+Identity" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/web-3/id/" class="pagination--pager" title="Web 3 and Self Sovereign Identity
+">Previous</a>
+    
+    
+      <a href="/web-3/nft/" class="pagination--pager" title="Non Fungible Tokens (NFT) and Soulbound Tokens (SBT)
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,880 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Travel and Self Sovereign Identity |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="The potential for self-sovereign identity to transform the travel industry is almost limitless">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Travel and Self Sovereign Identity">
+<meta property="og:url" content="https://decentralized-id.com/application/travel/">
+
+
+  <meta property="og:description" content="The potential for self-sovereign identity to transform the travel industry is almost limitless">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Travel and Self Sovereign Identity">
+  <meta name="twitter:description" content="The potential for self-sovereign identity to transform the travel industry is almost limitless">
+  <meta name="twitter:url" content="https://decentralized-id.com/application/travel/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-06-15T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-16T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/application/travel/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li><li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li><li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li><li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li><li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp"
+             alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources & Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Travel and Self Sovereign Identity">
+    <meta itemprop="description" content="Over time the evolution of DID/SSI is likely to be a travel industry game-changer, enabling travelers to manage their own personal information to maximize personal economic effect and protect personal privacy.">
+    <meta itemprop="datePublished" content="2023-06-15T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-16T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/application/travel/" class="u-url" itemprop="url">Travel and Self Sovereign Identity
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          6 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#main">Main</a></li><li><a href="#projects">Projects</a><ul><li><a href="#iata">IATA</a></li></ul></li><li><a href="#tsa">TSA</a></li><li><a href="#apple">Apple</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="main">Main</h2>
+<ul>
+  <li><a href="https://www.idnow.io/blog/how-digital-identity-improves-passenger-journey/">Making travelling more seamless and relaxed</a> 2022-09-29 IDNow
+    <blockquote>
+      <p>Until now, we relied on physical id document such as ID cards <a href="https://www.idnow.io/mobility/driver-license-verification/">driving licenses to identify</a> ourselves in the real world as well as online. Digital attributes and credentials were solely used online. Digital identity wallets, like the <a href="https://www.idnow.io/products/identity-wallet/">IDnow Wallet</a>, are about to change that, as they are simultaneously addressing our digital and real-world requirements by bringing physical and digital credentials together.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.phocuswire.com/why-travel-should-care-about-self-sovereign-decentralized-id">WHY THE TRAVEL INDUSTRY SHOULD CARE ABOUT SSI AND DID</a> 2022-09-02 PhocusWire
+    <blockquote>
+      <p>As chair of the <a href="https://lists.identity.foundation/g/hospitalityandtravel">Hospitality and Travel Special Interest Group</a> within the Decentralized Identity Foundation, Price is one of the leading voices on how DID and SSI will impact all sectors of travel.</p>
+
+      <p>At <a href="https://www.phocuswrighteurope.com/">Phocuswright Europe</a>, [Nick] Price explains how this technology – and the trusted, permissioned, secure communication it enables -  will change the way suppliers and travelers interact and eliminate impediments that exist today.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.thecompanydime.com/sam-hilgendorf-self-sovereign-identification/">Op Ed: Sam Hilgendorf On The Role Of Self-Sovereign Identification In Travel</a> 2022-08-19 The Company Dime
+    <blockquote>
+      <p>With all the uses that have emerged for the Internet, I have systematically lost control of my identity. I started to review the retail websites where I created accounts; I counted 50 when I gave up. As a frequent business traveler, I have identity data in the form of profiles stored with suppliers, booking tools, review sites and more. These companies know even more about me than the typical retailer, as they have copies of my passport number and driver’s license, and even know when I am away from home.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.phocuswire.com/how-did-ssi-will-transform-travel-experience-market">How DID and SSI will Transform the Travel Experience Market</a> 2022-08-17 Phocuswire
+    <blockquote>
+      <p>Over time the evolution of DID/SSI is likely to be a travel industry game-changer, enabling travelers to manage their own personal information to maximize personal economic effect and protect personal privacy.</p>
+
+      <p>The DID/SSI effort is already gaining a foothold in the banking and medical industries. Like travel, these are sectors that need to engage with consumers of all types en masse while requiring proof of identity prior to the certified exchange of digital documents.</p>
+    </blockquote>
+  </li>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=LhudSVJOdrc">Drone Pilot Credentialing for Air Safety</a> 2022-07-21 TOIP
+    <blockquote>
+      <p>Discussed the approach and the implementation challenges of drone pilot credentialing for air safety using verifiable credentials at the July 21, 2022 Ecosystem Foundry Working Group of the Trust Over IP Foundation.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.biometricupdate.com/202201/businesses-desire-to-store-less-digital-identity-data-stokes-travels-ssi-brushfire">Businesses’ desire to store less digital identity data stokes travel’s SSI brushfire</a> 2022-01 BiometricUpdate
+    <blockquote>
+      <p>The potential use cases for self-sovereign identity to transform the travel industry are almost limitless, particularly with the impending arrival of <a href="https://decentralized-id.com/organizations/decentralized-identity-foundation/wg/did-comm/">decentralized identifier communications</a>, also known as DIDComm, attendees of a <a href="https://www.phocuswire.com/how-ssi-eliminates-friction-adds-control-for-travelers">PhocusWire</a> roundtable discussion on the role of SSI in the future of identity and travel at the Phocuswright Conference 2021 heard from an panel of digital identity experts.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.phocuswire.com/sounding-off-144-ssi-power-shift-in-travel">SOUNDING OFF: A MAJOR - AND OVERDUE - POWER SHIFT IS COMING TO TRAVEL</a> 2022-01-14 Phocuswire
+    <blockquote>
+      <p>When this comes to fruition – and not if, but when – it will be a transformative change, shifting power from travel suppliers to travelers themselves and giving travelers more choice, better personalization, lower friction and more security.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://centreforaviation.com/analysis/video/is-the-biggest-tech-change-for-travel-since-the-internet-and-mobile-the-shift-to-self-sovereign-identity-tech-1594">Is the biggest tech change for travel since the internet and mobile the shift to self-sovereign identity tech?</a> 2021-10-17 CAPA TV
+    <blockquote>
+      <ul>
+        <li>What are some of the benefits of this new wave, such as reduced cybersecurity risk and enhanced travel experiences/personalisation?</li>
+        <li>Will this affect the way travel is distributed and paid for change?</li>
+        <li>What can players in the established travel eco-system expect?</li>
+        <li>When will we see this come about – where will we be by 2030?</li>
+      </ul>
+    </blockquote>
+  </li>
+  <li><a href="https://www.biometricupdate.com/202110/airports-continue-to-deploy-biometrics-as-ssi-big-wave-approaches">Airports continue to deploy biometrics as SSI ‘big wave’ approaches</a> 2021-10 Biometric Update
+    <blockquote>
+      <p>TravelScrum Co-founder and Chairman Gene Quinn described self-sovereign ID (SSI) as “a big wave of change that’s coming,” and advised that organizations can “ride this wave by swimming at it, greeting it, and rolling gently over it as it heads to shore, or you can be caught in the shore-break and have it consume you later.”</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.webintravel.com/qa-the-potential-of-decentralized-digital-id-in-travel/">Q&amp;A: The Potential of Decentralized ID in Travel</a> 2021-08-09 WebInTravel
+    <blockquote>
+      <p>Since February he has also been the informal chair of the <a href="https://www.notion.so/dif/HOSPITALITY-TRAVEL-SIG-242105321e1747f8bce776bf634a55b3">Hospitality and Travel Special Interest Group</a>, a subset within the Decentralized Identity Foundation, an organization creating technical specifications and reference implementations for decentralized identity and working with industries for commercial applications of such technologies.</p>
+    </blockquote>
+  </li>
+  <li><a href="http://www3.weforum.org/docs/WEF_The_Known_Traveller_Digital_Identity_Concept.pdf">WEF The Known Traveller Digital Identity Concept</a> 2018-01
+    <blockquote>
+      <p>A paradigm shift towards a Known Traveller Digital Identity concept will radically transform the way in which legitimate travellers are securely and seamlessly facilitated across borders and bring to life the ideas discussed in Digital Borders. The concept focuses on the use of traveller-managed digital identities, which will enable governments, in partnership with industry leaders and passengers, to conduct pre-vetting risk assessment and security procedures to enhance the seamless flow of travellers through borders. Security officials will redirect attention and resources to identifying threats, thus contributing to improved geopolitical security worldwide. The Known Traveller Digital Identity concept provides multiple applications for government and industry, across and beyond the travel and tourism sector, to provide more personalized and value-added services to travellers</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="projects">Projects</h2>
+<ul>
+  <li>[Video] <a href="https://www.youtube.com/watch?v=ExHEUpl9lKo">Traveller ID Ecosystem - ProofSpace x RateTiger Integration</a> 2022-08-31 ProofSpace
+    <blockquote>
+      <p>Guests can reclaim, re-use and protect their personal data, the “Traveller ID”, within the ecosystem of participating hotels.</p>
+
+      <p>The Traveller ID and other credentials in this solution are Atala PRISM Verifiable Credentials on Cardano blockchain - a global first for hospitality.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.prnewswire.com/news-releases/worlds-airports-and-leading-airlines-join-commontrust-network-and-begin-roll-out-of-commonpass-in-december-in-support-of-safer-border-reopening-301179752.html">World’s Airports And Leading Airlines Join CommonTrust Network And Begin Roll-out Of CommonPass</a>  2021-04-02 PRNewswire
+    <blockquote>
+      <p>The CommonTrust Network is enabled by a global network of labs, vaccine distributors, and health care providers that agree to provide individuals with digital access to their own health information using open, globally-interoperable standards (e.g. HL7 FHIR, W3C verifiable credentials).  The network includes hundreds of health systems covering thousands of locations in the United States and a growing network of labs and health care providers around the world.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="iata">IATA</h3>
+
+<ul>
+  <li><a href="https://www.idnow.io/pr/idnow-joins-accelerateiata/">IDnow joins Accelerate@IATA to shape the future of seamless air travel</a> 2022-08-13 IDnow
+    <blockquote>
+      <p>The goal of IATA One ID is to set industry standards that further streamline the passenger journey with digitalization of admissibility and a contactless process through secure biometric enabled identification.</p>
+    </blockquote>
+  </li>
+  <li><a href="https://japantoday.com/category/features/travel/iata-unveils-key-design-elements-of-travel-pass">IATA unveils key design elements of travel pass</a> 2021-01-05 Japan Today
+    <blockquote>
+      <p>The IATA Travel Pass three critical design elements:</p>
+
+      <ul>
+        <li>The IATA Travel Pass stores encrypted data including verified test or vaccination results on the mobile device of the traveler. The traveler controls what information is shared from their phone with airlines and authorities. No central database or data repository is storing the information. By keeping travelers 100% in control of their information, the highest standards for data privacy are ensured. IATA Travel Pass is also built on the highest standards of data protection laws, including General Data Protection Regulation (EU GDPR).</li>
+        <li>Global standards recognized by governments to ensure verified identity and test/vaccine information.</li>
+        <li>Convenience and biosafety will be enhanced with integration into contactless travel processes. The ICAO CART recommendations for biosafety include the use of contactless travel processes to reduce the risk of virus transmission when documents need to be exchanged in the travel process.</li>
+      </ul>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="tsa">TSA</h2>
+<ul>
+  <li><a href="https://findbiometrics.com/tsa-seeks-contractor-for-upgraded-passenger-identification-system-508302/">TSA Seeks Contractor for Upgraded Passenger Identification System</a> 2022-08-30 FindBiometrics
+    <blockquote>
+      <p>Essentially, the TSA wants a CAT2 system that confirms and displays passenger information, including flight reservation information and pre-screening status, to TSA operators, and that uses facial recognition to match travelers to their photo ID.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="apple">Apple</h2>
+
+<ul>
+  <li><a href="https://www.theverge.com/2021/6/7/22522864/apple-wallet-iphone-airport-ids-hotel-key-card-ios-15-wwdc">You’ll soon be able to use your iPhone as ID at the airport: Apple Wallet is also getting support for hotel keys</a> 2021-06-07 The Verge
+    <blockquote>
+      <p>Apple has announced a forthcoming update to its Wallet app that will allow you to use your iPhone as digital identification in select US airports. The company showed how you’ll be able to scan your driver’s license or state ID in participating US states, which will then be encrypted and stored in the iPhone’s secure enclave. The company says it’s working with the TSA to enable the iPhone to be used as identification at airport security checkpoints.</p>
+    </blockquote>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#apple" class="page__taxonomy-item p-category" rel="tag">Apple</a><span class="sep">, </span>
+    
+      <a href="/tags/#iata" class="page__taxonomy-item p-category" rel="tag">IATA</a><span class="sep">, </span>
+    
+      <a href="/tags/#toip" class="page__taxonomy-item p-category" rel="tag">TOIP</a><span class="sep">, </span>
+    
+      <a href="/tags/#travel" class="page__taxonomy-item p-category" rel="tag">Travel</a><span class="sep">, </span>
+    
+      <a href="/tags/#tsa" class="page__taxonomy-item p-category" rel="tag">TSA</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#uses" class="page__taxonomy-item p-category" rel="tag">Uses</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-16">June 16, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&text=Travel+and+Self+Sovereign+Identity%20https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Ftravel%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Ftravel%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Ftravel%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fapplication%2Ftravel%2F&title=Travel+and+Self+Sovereign+Identity" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/application/kyc/" class="pagination--pager" title="KYC\AML and Self Sovereign Identity
+">Previous</a>
+    
+    
+      <a href="/government/africa/" class="pagination--pager" title="Africa and Self Sovereign Identity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>

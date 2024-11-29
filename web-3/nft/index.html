@@ -1,0 +1,987 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Non Fungible Tokens (NFT) and Soulbound Tokens (SBT) |  Verifiable Credentials and Self Sovereign Identity Web Directory</title>
+<meta name="description" content="NFTs are technologically interesting as a way of proving ownership and facilitating value transfer">
+
+
+  <meta name="author" content="DIDecentral">
+  
+  <meta property="article:author" content="DIDecentral">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Verifiable Credentials and Self Sovereign Identity Web Directory">
+<meta property="og:title" content="Non Fungible Tokens (NFT) and Soulbound Tokens (SBT)">
+<meta property="og:url" content="https://decentralized-id.com/web-3/nft/">
+
+
+  <meta property="og:description" content="NFTs are technologically interesting as a way of proving ownership and facilitating value transfer">
+
+
+
+  <meta property="og:image" content="https://decentralized-id.com/images/DID_og.webp">
+
+
+
+  <meta name="twitter:site" content="@infominer33">
+  <meta name="twitter:title" content="Non Fungible Tokens (NFT) and Soulbound Tokens (SBT)">
+  <meta name="twitter:description" content="NFTs are technologically interesting as a way of proving ownership and facilitating value transfer">
+  <meta name="twitter:url" content="https://decentralized-id.com/web-3/nft/">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://decentralized-id.com/images/DID_og.webp">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2023-06-28T00:00:00+13:00">
+
+
+
+  <meta property="article:modified_time" content="2023-06-28T00:00:00+13:00">
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://decentralized-id.com/web-3/nft/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Infominer",
+      "url": "https://decentralized-id.com/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Verifiable Credentials and Self Sovereign Identity Web Directory Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+
+<meta name="yandex-verification" content="876ea269be433d62" />
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="https://decentralized-id.com/assets/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://decentralized-id.com/assets/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://decentralized-id.com/assets/icons/favicon-16x16.png">
+<link rel="manifest" href="https://decentralized-id.com/assets/icons/site.webmanifest">
+<link rel="mask-icon" href="https://decentralized-id.com/assets/icons/safari-pinned-tab.svg" color="#eeeeef">
+<link rel="shortcut icon" href="https://decentralized-id.com/assets/icons/favicon.ico">
+<meta name="msapplication-TileColor" content="#eeeeef">
+<meta name="msapplication-config" content="https://decentralized-id.com/assets/icons/browserconfig.xml">
+<meta name="theme-color" content="#eeeeef">
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single wide">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="/images/DID.webp" alt="Decentralized Identity"></a>
+        
+        <a class="site-title" href="/">
+          Decentralized Identity
+          
+        </a>
+        <ul class="visible-links">
+<li class="masthead__menu-item">
+              <a href="/introduction/">Introduction</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/ecosystem/">Ecosystem</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/posts/">New</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/recent/">Updated</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/categories/">Categories</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/about/">Welcome</a>
+            </li>
+<li class="masthead__menu-item">
+              <a href="/aim/">Aim</a>
+            </li>
+</ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+  
+    
+      
+        <img src="/images/the-world-map-from-a-binary-code.webp" alt="Binary Globe by GDj">
+      
+      <h3>Identity Decentralized</h3>
+      
+      
+
+<nav class="nav__list">
+  
+  <input id="ac-toc" name="accordion-toc" type="checkbox">
+  <label for="ac-toc">Toggle menu</label>
+  <ul class="nav__items">
+    
+      <li>
+        
+          <a href="/"><span class="nav__sub-title">Home</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/history/">• Resources &amp; Pre-History</a></li>
+          
+            <li><a href="/history/2000-2009/">• 2000-2009</a></li>
+          
+            <li><a href="/history/2010-2014/">• 2010-2014</a></li>
+          
+            <li><a href="/history/2015-2019/">• 2015-2019</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/categories/#companies"><span class="nav__sub-title">New Pages New Structure</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/companies/ValidatedID/">• ValidatedID</a></li>
+          
+            <li><a href="/companies/ValidatedID/">• SpruceID</a></li>
+          
+            <li><a href="/companies/Spherity/">• Spherity</a></li>
+          
+            <li><a href="/companies/MyDEX/">• MyDEX</a></li>
+          
+            <li><a href="/companies/Mattereum/">• Mattereum</a></li>
+          
+            <li><a href="/companies/MagicLabs/">• Magic Labs</a></li>
+          
+            <li><a href="/companies/Lissi/">• Lissi</a></li>
+          
+            <li><a href="/companies/Indicio/">• Indicio</a></li>
+          
+            <li><a href="/companies/IDramp/">• IDRamp</a></li>
+          
+            <li><a href="/companies/GlobalID/">• GlobalID</a></li>
+          
+            <li><a href="/companies/Gataca/">• Gataca</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Literature</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Blog Catcher</a></li>
+          
+            <li><a href="https://newsletter.identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="/literature/self-sovereign-identity/">• SSI Literature</a></li>
+          
+            <li><a href="/workshops/internet-identity-workshop/">• IIW Session Topics</a></li>
+          
+            <li><a href="/workshops/rebooting-web-of-trust/">• RWoT Papers Index</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/web-standards/"><span class="nav__sub-title">Web Standards</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/web-standards/w3c/">• W3C</a></li>
+          
+            <li><a href="/web-standards/w3c/wg/vc/verifiable-credentials/">• Verifiable Credentials</a></li>
+          
+            <li><a href="/web-standards/linked-data/JSON-LD/">• JSON-LD</a></li>
+          
+            <li><a href="/web-standards/gs1/">• GS1</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Regulation</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="/government/europe/regulation/eidas/">• eIDAS</a></li>
+          
+            <li><a href="/government/europe/regulation/gdpr/">• GDPR</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <a href="/organizations/"><span class="nav__sub-title">Organizations</span></a>
+        
+
+        
+        <ul>
+          
+            <li><a href="/organizations/decentralized-identity-foundation/">• Identity Foundation</a></li>
+          
+            <li><a href="/organizations/mydata/">• My Data</a></li>
+          
+            <li><a href="/blockchain/hyperledger/">• Hyperledger Foundation</a></li>
+          
+            <li><a href="/organizations/sovrin-foundation/">• Sovrin Foundation</a></li>
+          
+            <li><a href="/organizations/ssi-meetup/">• SSI Meetup</a></li>
+          
+            <li><a href="/organizations/women-in-identity/">• Women in Identity</a></li>
+          
+        </ul>
+        
+      </li>
+    
+      <li>
+        
+          <span class="nav__sub-title">Infominer</span>
+        
+
+        
+        <ul>
+          
+            <li><a href="https://infominer.xyz/">• InfoHub</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere Newsletter</a></li>
+          
+            <li><a href="https://identosphere.net/">• Identosphere BlogCatcher</a></li>
+          
+            <li><a href="https://bitcoinfo.github.io/history/">• Bitcoin Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io/decentralized-web/">• Decentralized Web Histories</a></li>
+          
+            <li><a href="https://sourcecrypto.github.io">• Source⧉Crypto</a></li>
+          
+        </ul>
+        
+      </li>
+    
+  </ul>
+</nav>
+
+    
+    
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Non Fungible Tokens (NFT) and Soulbound Tokens (SBT)">
+    <meta itemprop="description" content="avatars (the visualisation of self-sovereign identities) go beyond simply providing users with further ownership and control over their cryptographically secure identities, by offering an end-to-end application ecosystem designed to facilitate the commerce and exchange of digital and physical services">
+    <meta itemprop="datePublished" content="2023-06-28T00:00:00+13:00">
+    <meta itemprop="dateModified" content="2023-06-28T00:00:00+13:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="https://decentralized-id.com/web-3/nft/" class="u-url" itemprop="url">Non Fungible Tokens (NFT) and Soulbound Tokens (SBT)
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          7 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title">
+<i class="fas fa-link"></i> Contents</h4></header>
+              <ul class="toc__menu">
+<li><a href="#discussion">Discussion</a></li>
+<li><a href="#ssi-and-nft">SSI and NFT</a></li>
+<li><a href="#verifiable-credentials-vs-nft--sbt">Verifiable Credentials vs NFT + SBT</a></li>
+<li>
+<a href="#ideas">Ideas</a><ul><li><a href="#soulbound-tokens">Soulbound Tokens</a></li></ul>
+</li>
+<li><a href="#product">Product</a></li>
+<li><a href="#concern">Concern</a></li>
+</ul>
+
+            </nav>
+          </aside>
+        
+        <h2 id="discussion">Discussion</h2>
+<ul>
+  <li>
+<a href="https://indicio.tech/what-do-nfts-do-well/">What Do NFTs Do Well?</a> 2022-03-09 Indicio
+    <blockquote>
+      <p>NFTs are technologically interesting as a way of proving ownership and facilitating value transfer; but they are problematic if applied to proving a person’s identity.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://blogs.harvard.edu/doc/2022/03/03/nft-2/">Three thoughts about NFTs</a> 2022-03-03 Doc Searls
+    <blockquote>
+      <p>There’s a thread in a list I’m on titled “NFTs are a Scam.” I know too little about NFTs to do more than dump here three thoughts I shared on the list in response to a post that suggested that owning digital seemed to be a mania of some kind. Here goes…</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://open.spotify.com/episode/2lI8clKyqcZy2y1GZpmXIg">Kaliya and Seth talk about Privacy, Anonymity, Pseudonymity &amp; NFTs</a> 2021-03 PSA Today
+    <blockquote>
+      <p>how do issues of identity and anonymity play out in the world of creating and collecting digital art and collectibles on the blockchain.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://lists.w3.org/Archives/Public/public-credentials/2022Jan/0147.html">Ideals meet Implementations - Blockchains, NFTs, Decentralization, Oh My!</a> 2022-01-25 Anil John CCG Mailer
+    <blockquote>
+      <p>Given the continuous discussions around centralization/de-centralization in our community, I found this essay by Moxie Marlinspike …</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="ssi-and-nft">SSI and NFT</h2>
+
+<ul>
+  <li>
+<a href="https://medium.com/coinmonks/why-the-ssi-community-should-embrace-million-dollar-apes-61d119f20331">Why the SSI community should embrace million dollar apes</a> 2022-04-11 Animo
+    <blockquote>
+      <p>someone <a href="https://www.reddit.com/r/theinternetofshit/comments/r5n9pj/man_unlocks_door_using_eth_by_verifying_a_nft_ens/">opened his door using Ethereum</a>. As a self-sovereign identity developer […] this is hilarious. I can think of ten ways to open your door that are more secure. But I believe there’s more to these stories. These people are coming up with solutions that are in line with most of the core values we in the SSI space have been working on for years.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://653-eth.medium.com/avatars-as-self-sovereign-digital-identity-2acdf79d49c4">Avatars as Self Sovereign Digital Identity</a> 2022-02-13 653.ETH
+    <blockquote>
+      <p>avatars (the visualisation of self-sovereign identities) go beyond simply providing users with further ownership and control over their cryptographically secure identities, by offering an end-to-end application ecosystem designed to facilitate the commerce and exchange of digital and physical services</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.continuumloop.com/nfts-metaverse-digitalidentity/">NFTs, the Metaverse, and Digital Identity</a> 2021-11-03 ContinuumLoop
+    <blockquote>
+      <p>Imagine a 3D immersive environment along the lines of Second Life. You “decorate” your “home” with “art”. You pop up an obligatory Persistence of Memory Dali print. But is it “real” and what does real even mean? In the physical realm, we know that this is only one original, which is at the MOMA in NYC. But what about the various quality prints that I can buy – at the MOMA, on Amazon, on the street.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.windley.com/archives/2021/10/nfts_verifiable_credentials_and_picos.shtml">NFTs, Verifiable Credentials, and Picos</a> 2021-10-11 Phil Windley
+    <blockquote>
+      <p>Summary: The hype over NFTs and collectibles is blinding us to their true usefulness as trustworthy persistent data objects. How do they sit in the landscape with verifiable credentials and picos? Listening to this Reality 2.0 podcast about NFTs with Doc Searls, Katherine Druckman, and their guest Greg Bledsoe got me thinking about NFTs.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.gimly.io/blog/nfts-the-need-for-self-sovereign-identity">NFTs and the need for Self-Sovereign Identity</a> 2021-04-13 Gimly
+    <blockquote>
+      <p>we describe how self-sovereign identity (SSI) can be the solution to verify the origin and legitimacy of an NFT and its linked object, and we invite you to join Gimly and bitcoin artist Petek <a href="https://twitter.com/RadarRayne">@RaydarRayne</a> on our journey to fulfill the potential of NFTs for digital and physical artists alike.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://northernblock.io/ssi-for-nfts/">SSI for NFTs with Caspar Roelofs from Gimly</a> 2021-05-26 SSI Orbit Podcast
+    <blockquote>
+      <p>That’s definitely one of the ideas that I’m exploring for more longer-term. […] to have an embedded a private key in a secure element within the IOT device, and be able to verify the identity or the source of your IOT data through an <a href="https://northernblock.io/self-sovereign-identity-for-organizations/">SSI mechanism</a>. That’s the longer-term, broader vision when talking about the supply chain, for sure.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="verifiable-credentials-vs-nft--sbt">Verifiable Credentials vs NFT + SBT</h2>
+
+<ul>
+  <li>
+<a href="https://www.youtube.com/watch?v=3n3_lshgWEE">NFTs vs SBTs vs VCs: Why NFTs and SBTs aren’t the best solution for digital identity</a> 2022-12-11 TechNative
+    <blockquote>
+      <p>Fraser Edwards is Co-Founder &amp; CEO of cheqd. Fraser Edwards (CEO), has a rare skillset, blending technology and business acumen andrarer experience. He has deep consortium and self-sovereign identity knowledge.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://trinsic.id/whats-the-difference-between-an-nft-and-a-verifiable-credential/">What’s the Difference Between an NFT and a Verifiable Credential?</a> 2022-09-23 Trinsic
+    <blockquote>
+      <p>Blockchains are not required for exchanging verifiable credentials, but layer-2 networks like Ion, built on top of Bitcoin, can provide an additional level of security when creating Interestingly, all interviewed users claimed to have had a seamless and easy onboarding DIDs.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://northernblock.io/nft-ssi-what-i-own-who-i-am-with-with-dominik-beron/">NFT + SSI = What I Own + Who I Am (with Dominik Beron with CEO of Walt.id)</a> 2022-08-18
+    <blockquote>
+      <ul>
+        <li>What are Soulbound Tokens, and what are some issues associated with them?</li>
+        <li>Why is building SSI products harder than building NFT products?</li>
+        <li>What does it mean to be an EBSI conformant wallet?</li>
+      </ul>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="ideas">Ideas</h2>
+
+<ul>
+  <li>
+<a href="http://habitatchronicles.com/2022/04/online-game-governance-domains-avoiding-an-nft-support-nightmare/">Game Governance Domains: a NFT Support Nightmare</a> 2022-04-13 Habitat Chronicles
+    <blockquote>
+      <p>“I was working on an online trading-card game in the early days that had player-to-player card trades enabled through our servers. The vast majority of our customer support emails dealt with requests to reverse a trade because of some kind of trade scams. When I saw <a href="https://playhearthstone.com/en-us/news/10245930">Hearthstone’s dust system</a>, I realized it was genius; they probably cut their support costs by around 90% with that move alone.”</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://iiw.idcommons.net/21F/_Universal_NFTs_as_authentic_data_without_tokens/blockchains._How_to_eliminate_minting/mining_fees_and_break_the_NFT_silos.">Universal NFTs as authentic data without tokens/blockchains. How to eliminate minting/mining fees and break the NFT silos.</a> 2021-05-06 Dave Huseby
+    <blockquote>
+      <p>This session described how we can use the authentic data solution to track provenance and controllership of digital data and effectively create NFTs, now called NFADs, that are completely independent of blockchains and tokens. This eliminates minting and transfer costs common on the NFT silos. I have provided link to the slides.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="soulbound-tokens">Soulbound Tokens</h3>
+<ul>
+  <li>
+<a href="https://www.analyticsinsight.net/soulbound-tokens-over-self-sovereign-identity-a-good-idea-in-web3/">Soulbound Tokens Over Self-Sovereign Identity: A Good Idea for Web3?</a> 2022-09-01 Analytics Insight
+    <blockquote>
+      <p>Soulbound tokens are based on a concept first popularized by online role-playing multiplayer games like World of Warcraft.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://cryptonews.com/exclusives/soulbound-tokens-vs-self-sovereign-identity-web3s-search-for-a-digital-id-solution.htm">Soulbound Tokens vs Self-Sovereign Identity: Web3’s Search for a Digital ID Solution</a> 2022-08-28 CryptoNews
+    <blockquote>
+      <p>SSI differs in that their default visibility is private and off-ledger, whereas SBTs are proposed as public and on-ledger by default.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/masa-finance/what-did-we-learn-from-testing-web3s-first-identity-protocol-for-15-days-a2647dc252f6">What did we learn from testing web3’s first Soulbound Identity protocol for 15 days?</a> 2022-08-26 Masa Finance
+    <blockquote>
+      <p>The response has been overwhelming: over the past 15 days, 12,000+ Masa SBTs have been minted on <a href="https://alfajores-blockscout.celo-testnet.org/token/0xa5fD76226f580FdE0b1273D87973e9F20F1eBeff/token-transfers">testnet</a>. The community resonated with our thesis: web3 needs an identity protocol.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://indicio.tech/souls-tokens-and-verifiable-credentials/">Souls, Tokens, and Verifiable Credentials - Indicio Tech</a> 2022-07-13 Sam Curren
+    <blockquote>
+      <p>The paper “<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763">Decentralized Society: Finding Web3’s Soul</a>” has generated much discussion as a more advanced and beneficial way of applying an NFT-type technology to encode “social relationships of trust” in Soul-Based Tokens.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://conorhealy.substack.com/p/soulbound-tokens-self-sovereign-identity?r=9r7wu&amp;utm_medium=ios">Soulbound Tokens, Self-Sovereign Identity, and the Pursuit of a Universal Identity Standard</a> 2022-06-26 Conor Healy
+    <blockquote>
+      <p>The lack of a universal identity standard is holding us back; it’s harming collaborative processes and opening the door for bad actors and scams which breed mistrust and stigmatize the entire industry.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://cointelegraph.com/news/struggle-for-web3-s-soul-the-future-of-blockchain-based-identity">Struggle for Web3’s soul: The future of blockchain-based identity</a> 2022-06-07 Cointelegraph
+    <blockquote>
+      <p>Some also worried that SBTs, given their potentially public, non-transferable qualities, could give rise to a Chinese-government-style “social credit system.” Others took shots at co-author Buterin personally, criticizing his “lack of understanding of the real world.”</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://twitter.com/AnastasiaU/status/1532584511107698689">There’s been a misunderstanding around SBTs. The uproar misses the point</a> 2022-06-03 AnastasiaU.ETH<br>
+<em>epic thread on twitter unpacking the uproar about the DeSoc paper relative to DID/VCs and NFTs/SBTs.</em>
+    <blockquote>
+      <p>You’re squandering a rare chance to educate people about responsible technology, agentic digital interactions, and privacy-enhancing primitives because you’re busy infighting.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://otterspace.mirror.xyz/Cec_bTSsLgcohuaV5dkOJTbaYuFB6tF8jhxzN_30k1A">Soulbound tokens - Otters for DAOs?</a> 2022-03-13 Otterspace
+    <blockquote>
+      <p>Our vision is to give DAOs the tools to better represent the varying nature of membership, improve member engagement, coordination and distribution of power and permission. By doing so, we also aim to progressively improve their autonomy and permissionlessness, while surfacing clear paths and incentives for individual members to deepen their participation. 💪</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://vitalik.ca/general/2022/01/26/soulbound.html">SoulBound</a> 2022-01-26 Vitalik Buterin
+    <blockquote>
+      <p>A soulbound item, once picked up, cannot be transferred or sold to another player.</p>
+
+      <p>Most very powerful items in the game are soulbound, and typically require completing a complicated quest or killing a very powerful monster, usually with the help of anywhere from four to thirty nine other players.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="product">Product</h2>
+
+<ul>
+  <li>
+<a href="https://appdevelopermagazine.com/non-transferable-nfts-land-from-sekuritance/">Non transferable NFTs land from Sekuritance</a> 2022-06-10 AppDeveloperMag
+    <blockquote>
+      <p>Sekuritance is implementing an identity-based ntNFT (non-transferable non-fungible token) to be utilized not only within the Sekuritance platform but also within its partner ecosystem</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://www.prnewswire.com/news-releases/unstoppable-domains-and-alchemy-launch-api-for-enterprise-ready-nft-domain-name-integrations-301446527.html">Unstoppable Domains and Alchemy Launch API for Enterprise-Ready NFT Domain Name Integrations</a> 2021-12-16 PRNewswire
+    <blockquote>
+      <p><a href="https://unstoppabledomains.com">Unstoppable Domains</a>, the leading platform for self-sovereign identity on Web3, today announced a partnership with <a href="https://www.alchemy.com">Alchemy</a>. Alchemy empowers 70 percent of the top Web3 apps and NFT platforms through their enterprise API.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/@metavisaofficial/the-idea-of-self-sovereign-identity-decentralized-identifiers-and-metavisa-41bac6f8e11b">The idea of Self-sovereign identity, Decentralized Identifiers, and MetaVisa</a> 2021-11-01 MetaVisa
+    <blockquote>
+      <p>Importantly, the verifier and the issuer never actually interact directly. They only ever compare notes in the ledger. The process only begins when you kick start it, reveals only the information you want to reveal, and doesn’t require an all-powerful centralized authority holding all the private keys to work.</p>
+    </blockquote>
+  </li>
+  <li>
+<a href="https://medium.com/ontologynetwork/ontology-providing-did-solutions-to-music-streaming-platform-rocki-5ae6c1704483">Ontology Providing DID Solutions to NFT + Music Streaming Platform, ROCKI</a> 2021-05-24 Ontology Network
+    <blockquote>
+      <p>NFTs offer creators a novel way to monetize their creations. Unfortunately, there have been <a href="https://www.theverge.com/2021/3/20/22334527/nft-scams-artists-opensea-rarible-marble-cards-fraud-art">reports</a> of artists having their artwork sold by impersonators. This is, in part, due to popular NFT platforms lacking a robust verification process for determining a creator’s identity.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h2 id="concern">Concern</h2>
+<ul>
+  <li>
+<a href="https://lists.w3.org/Archives/Public/public-credentials/2021Dec/0147.html">China is using #blockchain technology to manage #prisoners as if each #prisoner was an #NFT</a> 2021-12-26 Michael Herman
+    <blockquote>
+      <p>China is using #blockchain technology to manage #prisoners as if each #prisoner was an #NFT/token on the blockchain…</p>
+    </blockquote>
+    <ul>
+      <li><a href="https://www.taiwannews.com.tw/en/news/4384071">China turns decentralized blockchain on its head to power ‘smart prisons’</a></li>
+    </ul>
+  </li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+          <h4 class="page__meta-title">Meta</h4>
+        
+        
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#ethereum" class="page__taxonomy-item p-category" rel="tag">Ethereum</a><span class="sep">, </span>
+    
+      <a href="/tags/#nfts" class="page__taxonomy-item p-category" rel="tag">NFTs</a><span class="sep">, </span>
+    
+      <a href="/tags/#soulbound-tokens" class="page__taxonomy-item p-category" rel="tag">Soulbound Tokens</a><span class="sep">, </span>
+    
+      <a href="/tags/#web-3" class="page__taxonomy-item p-category" rel="tag">Web 3</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#web-3" class="page__taxonomy-item p-category" rel="tag">Web 3</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2023-06-28">June 28, 2023</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h3 class="page__share-title">Share on</h3>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=infominer33&amp;text=Non+Fungible+Tokens+%28NFT%29+and+Soulbound+Tokens+%28SBT%29%20https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fnft%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fnft%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fnft%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fdecentralized-id.com%2Fweb-3%2Fnft%2F&amp;title=Non+Fungible+Tokens+%28NFT%29+and+Soulbound+Tokens+%28SBT%29" class="btn btn--reddit" title="Share on Reddit"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i><span> Reddit</span></a>
+  </section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/self-sovereign-identity/data-governance/" class="pagination--pager" title="Data Governance and Self Sovereign Identity
+">Previous</a>
+    
+    
+      <a href="/web-3/dao/" class="pagination--pager" title="Decentralized Autonomous Organizations (DAO) and Self Sovereign Identity
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+      <div class="page__comments">
+  
+  
+      <section id="static-comments">
+        
+      </section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h2 class="page__related-title">See Also</h2>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/did-square.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/ecosystem/" rel="permalink">Ecosystem Overview
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This page includes a breakdown of the Web Standards, Protocols,Open Source Projects, Organizations, Companies, Regions, Government and Policy surrounding Verifiable Credentials and Self Sovereign Identity.
+</p>
+    <p class="page__meta"><strong>Updated:</strong> 2024-02-26 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jsonld-lds-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/data-integrity-bbs+/" rel="permalink">Verifiable Credentials with JSON-LD and BBS+ Signatures
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">BBS signatures were implicitly proposed by Boneh, Boyen, and Shacham (CRYPTO ’04) as part of their group signature scheme, and explicitly cast as stand-alone signatures by Camenisch and Lysyanskaya (CRYPTO ’04). A provably secure version, called BBS+, was then devised by Au, Susilo, and Mu (SCN ’...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  8 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">BBS</div> 
+    
+      <div class="tags">Data Integrity</div> 
+    
+      <div class="tags">JSON-LD</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_jwt-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/jose-jwt+cose-cbor/" rel="permalink">Verifiable Credentials with JOSE (JWT) / COSE (CBOR)
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">Digital proof mechanisms, a subset of which are digital signatures, are required to ensure the protection of a verifiable credential. Having and validating proofs, which may be dependent on the syntax of the proof (for example, using the JSON Web Signature of a JSON Web Token for proofing a key h...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-09 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  12 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">COSE</div> 
+    
+      <div class="tags">IANA</div> 
+    
+      <div class="tags">JOSE</div> 
+    
+      <div class="tags">JWT</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+  </article> 
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+      <div class="archive__item-teaser">
+        <img src="/images/Verifiable-Credentials-Flavors-Explained_zkp-cl-teaser.webp" alt="">
+      </div>
+    
+    <br><strong><a href="/web-standards/w3c/verifiable-credentials/zkp-cl_anoncreds/" rel="permalink">Verifiable Credentials (ZKP-CL) Anoncreds
+</a></strong>
+    <p class="archive__item-excerpt" itemprop="description">This credential format was created specifically to leverage the CL Signatures. JSON-JWT and JSON-LD Signatures each have their own way of representing the meaning of the attributes within a VC. JSON-JWT references an IANA registry and assumes a “closed world” authority model based on that authori...</p>
+    <p class="page__meta"><strong>Updated:</strong> 2023-09-29 <i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  6 minute read
+</p>
+	
+    <small><strong>Tags:</strong></small>
+	
+      <div class="tags">Anoncreds</div> 
+    
+      <div class="tags">Evernym</div> 
+    
+      <div class="tags">Hyperledger Foundation</div> 
+    
+      <div class="tags">IBM</div> 
+    
+      <div class="tags">IDEMIX</div> 
+    
+      <div class="tags">Sovrin Foundation</div> 
+    
+      <div class="tags">Verifiable Credentials</div> 
+    
+      <div class="tags">W3C</div> 
+    
+      <div class="tags">ZKP-CL</div> 
+    
+  </article> 
+</div>
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="mailto:nfo@infominer.xyz" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
+        
+      
+        
+          <li><a href="https://decentralized-id.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+        
+      
+        
+          <li><a href="https://twitter.com/DecentralizeID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://github.com/Decentralized-ID" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<script data-goatcounter="https://didecentral.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
+<div class="page__footer-copyright">⧉ <a href="https://infominer.xyz">infominer</a> • <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons (CC0 1.0) Public Domain</a> • Powered by <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a> via <a href="https://web-work.tools/jamstack/github-pages-starter-pack/">Github Pages</a>. ⧉</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+
+
+
+  <!-- start custom analytics snippet -->
+
+
+
+
+<!-- end custom analytics snippet -->
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+  </body>
+</html>
