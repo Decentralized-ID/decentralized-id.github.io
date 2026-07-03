@@ -103,6 +103,7 @@ Private Sector
 * [identitywoman.net](https://identitywoman.net/)
 * [windley.com/tags/identity](http://www.windley.com/tags/identity.shtml)
 * [Kim Camerons Identity Blog](https://identityblog.com)
+* [Memdeklaro - Self declaration of identity](https://memdeklaro.org)
 
 <h3>Tips Welcome</h3>
 <table class="table table-bordered table-hover table-condensed">
